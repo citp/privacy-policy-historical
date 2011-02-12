@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fitperez.com privacy policy that was archived on 2010-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101210000933id_/http%3A//fitperez.com/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fitperez.com privacy policy that was archived on 2011-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110212182725id_/http%3A//fitperez.com/privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,26 +7,79 @@
 <meta name="description" content="FitPerez">
 
 <meta name="keywords" content="">
-<link media="screen" type="text/css" href="http://i.fitperez.com/wp-content/themes/default/style.css?ver=1291939203" rel="stylesheet">
+<link media="screen" type="text/css" href="http://i.fitperez.com/wp-content/themes/default/style.css?ver=1297534801" rel="stylesheet">
 <link rel="shortcut icon" href="http://i.fitperez.com/wp-content/themes/default/images/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="FitPerez RSS Feed" href="http://i.fitperez.com/?feed=rss2">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://i.fitperez.com/js/jquery-1.4.2.min.js"></script>
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+//PAGED
+    var ph_paged = 0;
+
+//PAGE TYPE
+var ph_page_type='page';
+
+//AD PAGE
+ph_ad_page = 'no';
+
+//AD SERVING
+var ph_sov = Math.floor(100*Math.random()) + 1;
+var ph_date = '2011-02-12';
+</script>
+
+
+<script type="text/javascript" src="http://i.fitperez.com/js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="http://i.fitperez.com/js/jquery.cookie.js"></script>
-<script type="text/javascript" src="http://i.fitperez.com/wp-content/themes/default/js/background.js?ver=1291939203"></script>
+<script type="text/javascript" src="http://i.fitperez.com/js/jquery.base64.js"></script> 
+<script type="text/javascript" src="http://i.fitperez.com/js/jquery.urlEncode.js"></script>
+<script type="text/javascript" src="http://i.fitperez.com/wp-content/themes/default/js/background.js?ver=1297534801"></script>
 <script type="text/javascript" src="http://i.fitperez.com/wp-content/themes/default/js/functions.js"></script>
-<script type="text/javascript" src="http://i.fitperez.com/js/functions.js?ver=4"></script>
+<script type="text/javascript" src="http://i.fitperez.com/js/functions.js?ver=5"></script>
 <script type="text/javascript" src="http://i.fitperez.com/galleries/js/configuration.js"></script>
 <script type="text/javascript" src="http://i.fitperez.com/galleries/data/gallerydata_homepage.js.php?ver=1"></script>
 <script type="text/javascript" src="http://i.fitperez.com/galleries/js/perezgallery.js?ver=6"></script>
 <link rel="stylesheet" type="text/css" href="http://i.fitperez.com/galleries/js/shadowbox/shadowbox.css?ver=2">
-<script type="text/javascript" src="http://i.fitperez.com/galleries/js/shadowbox/shadowbox.js?ver=1"></script>
+<script type="text/javascript" src="http://i.fitperez.com/galleries/js/shadowbox/shadowbox.js?ver=2"></script>
 <script type="text/javascript">
+
+shadowboxLoaded = false;
+
+function onShadowboxLoaded() {
+    shadowboxLoaded = true;
+}
+
+function onShadowboxItemClick() {
+    // Do nothing on click until Shadowbox loads images
+    if (!shadowboxLoaded) {
+        return false;
+    }
+}
+
+// Shadowbox needs this function for some reason or a JS error will occur
+function pg_counter_in_shadowbox() {
+};
+
+function onShowGalleryItem(item) {
+    if (item && item.content && item.gallery && item.el && item.el.id && item.el.id.search('photo-batch-') != -1) {
+        if (typeof urchinTracker == "function") {
+            var photo = item.content.slice(item.content.lastIndexOf('/')+1).replace('.pbbig', '');
+            var target = item.gallery + '?photo=' + photo;
+            urchinTracker(target);
+        }
+    }
+}
+
 Shadowbox.init({
-    language: 'en',
-    players:  ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv']
-});
+        language: 'en',
+        overlayOpacity: 0.8,
+        players:  ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv'],
+        onOpen: onShowGalleryItem,
+        onChange: onShowGalleryItem
+    },
+    onShadowboxLoaded
+);
 
 iPad_customization();
+
 </script>
 
 <title>
@@ -65,8 +118,21 @@ Privacy Notice | FitPerez.com</title>
 <body id="the_body" onload="resizeTop300x250AdDiv();">
 
 
-<script type="text/javascript" src="http://i.fitperez.com/included_ads/blogads_takeover_tracer.js"></script>
-
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://f.blogads.com/www/delivery/ajs.php':'http://f.blogads.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=113");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://f.blogads.com/www/delivery/ajs.php?zoneid=113&amp;cb=40412949573&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110212182725id_/http%253A//fitperez.com/privacy-notice"></script><noscript><a href='http://f.blogads.com/www/delivery/ck.php?n=a20138fb&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://f.blogads.com/www/delivery/avw.php?zoneid=113&amp;n=a20138fb' border='0' alt='' /></a></noscript>
 <!-- GALLERY NAVIGATION IMAGE PRELOAD -->
 <div style="display:none;">
     <img src="http://i.fitperez.com/wp-content/themes/default/images/nextButton.png" width="1" height="1" border="0">
@@ -91,14 +157,19 @@ Privacy Notice | FitPerez.com</title>
             <form action="" name="starseeker_form" id="fitStarseekerForm">
             <select style="width:150px;" name="cat" class="fitPostForm" onchange="jump_to_category();">
 	<option value="0">Jump to…</option>
+	<option value="50-cent">50 Cent</option>
 	<option value="aaron-carter">Aaron Carter</option>
 	<option value="abs">Abs</option>
+	<option value="adam-enrnster">Adam Enrnster</option>
+	<option value="adam-lambert">Adam Lambert</option>
+	<option value="adam-sandler">Adam Sandler</option>
 	<option value="addiction">Addiction</option>
 	<option value="adrian-brody">Adrian Brody</option>
 	<option value="adriana-lima">Adriana Lima</option>
 	<option value="advice">Advice</option>
 	<option value="aging">Aging</option>
 	<option value="alcohol">Alcohol</option>
+	<option value="alec-baldwin">Alec Baldwin</option>
 	<option value="alex-rodriguez">Alex Rodriguez</option>
 	<option value="alicia-keys">Alicia Keys</option>
 	<option value="alicia-silverstone">Alicia Silverstone</option>
@@ -111,8 +182,11 @@ Privacy Notice | FitPerez.com</title>
 	<option value="anna-kournikova">Anna Kournikova</option>
 	<option value="annalynne-mccord">AnnaLynne McCord</option>
 	<option value="anne-hathaway">Anne Hathaway</option>
+	<option value="anthony-hopkins">Anthony Hopkins</option>
+	<option value="aretha-franklin">Aretha Franklin</option>
 	<option value="arnold-schwarzenegger">Arnold Schwarzenegger</option>
 	<option value="ashley-greene">Ashley Greene</option>
+	<option value="ashley-koff">Ashley Koff</option>
 	<option value="ashley-olsen">Ashley Olsen</option>
 	<option value="ashley-tisdale">Ashley Tisdale</option>
 	<option value="ashton-kutcher">Ashton Kutcher</option>
@@ -124,13 +198,17 @@ Privacy Notice | FitPerez.com</title>
 	<option value="beach">Beach</option>
 	<option value="beauty">Beauty</option>
 	<option value="ben-affleck">Ben Affleck</option>
+	<option value="ben-stiller">Ben Stiller</option>
 	<option value="bethenny-frankel">Bethenny Frankel</option>
 	<option value="beyonce">Beyonce</option>
 	<option value="bike-it">Bike It</option>
 	<option value="bikini">Bikini</option>
+	<option value="bill-clinton">Bill Clinton</option>
+	<option value="bjork">Bjork</option>
 	<option value="blake-lively">Blake Lively</option>
 	<option value="body">Body</option>
 	<option value="bodybuilding">Bodybuilding</option>
+	<option value="bon-jovi">Bon Jovi</option>
 	<option value="bow-wow">Bow Wow</option>
 	<option value="boxing">Boxing</option>
 	<option value="brad-pitt">Brad Pitt</option>
@@ -138,40 +216,64 @@ Privacy Notice | FitPerez.com</title>
 	<option value="bret-favre">Bret Favre</option>
 	<option value="bret-michaels">Bret Michaels</option>
 	<option value="brett-favre">Brett Favre</option>
+	<option value="bridget-marquardt">Bridget Marquardt</option>
 	<option value="bristol-palin">Bristol Palin</option>
 	<option value="britney-spears">Britney Spears</option>
 	<option value="broadway-babes">Broadway Babes</option>
 	<option value="brody-jenner">Brody Jenner</option>
+	<option value="brooke-burke">Brooke Burke</option>
+	<option value="brooklyn-decker">Brooklyn Decker</option>
 	<option value="bruce-willis">Bruce Willis</option>
 	<option value="busted">Busted!</option>
 	<option value="cameron-diaz">Cameron Diaz</option>
 	<option value="cancer">Cancer</option>
 	<option value="cardio">Cardio</option>
 	<option value="carey-mulligan">Carey Mulligan</option>
+	<option value="carrie-fisher">Carrie Fisher</option>
 	<option value="carrie-underwood">Carrie Underwood</option>
+	<option value="catherine-zeta-jones">Catherine Zeta Jones</option>
 	<option value="channing-tatum">Channing Tatum</option>
 	<option value="charisma-carpenter">Charisma Carpenter</option>
 	<option value="charity">Charity</option>
+	<option value="charlie-sheen">Charlie Sheen</option>
 	<option value="charlize-theron">Charlize Theron</option>
 	<option value="chatting-with">Chatting With…</option>
 	<option value="chelsea-handler">Chelsea Handler</option>
 	<option value="cher">Cher</option>
+	<option value="cheryl-burke">Cheryl Burke</option>
+	<option value="cheryl-cole">Cheryl Cole</option>
 	<option value="cheryl-tweedy">Cheryl Tweedy</option>
+	<option value="chloe-sevigny">Chloe Sevigny</option>
 	<option value="chris-brown">Chris Brown</option>
 	<option value="chris-evans">Chris Evans</option>
+	<option value="chris-pine">Chris Pine</option>
+	<option value="christian-bale">Christian Bale</option>
+	<option value="christina-aguilera">Christina Aguilera</option>
 	<option value="christina-applegate">Christina Applegate</option>
 	<option value="christina-hendricks">Christina Hendricks</option>
 	<option value="christina-ricci">Christina Ricci</option>
 	<option value="chyna">Chyna</option>
 	<option value="cindy-crawford">Cindy Crawford</option>
+	<option value="claire-danes">Claire Danes</option>
+	<option value="cleanse">Cleanse</option>
+	<option value="clive-owen">Clive Owen</option>
+	<option value="coco">CoCo</option>
 	<option value="conan-obrien">Conan O'Brien</option>
 	<option value="courteney-cox">Courteney Cox</option>
+	<option value="cover-shot">Cover Shot</option>
+	<option value="cristiano-ronaldo">Cristiano Ronaldo</option>
 	<option value="crystal-renn">Crystal Renn</option>
+	<option value="cycling">Cycling</option>
+	<option value="dakota-fanning">Dakota Fanning</option>
 	<option value="dance">Dance</option>
+	<option value="daniel-tosh">Daniel Tosh</option>
 	<option value="daryl-hannah">Daryl Hannah</option>
 	<option value="david-arquette">David Arquette</option>
 	<option value="david-beckham">David Beckham</option>
+	<option value="david-hasselhoff">David Hasselhoff</option>
+	<option value="david-letterman">David Letterman</option>
 	<option value="david-spade">David Spade</option>
+	<option value="debbie-gibson">Debbie Gibson</option>
 	<option value="demi-lovato">Demi Lovato</option>
 	<option value="demi-moore">Demi Moore</option>
 	<option value="denise-richards">Denise Richards</option>
@@ -181,18 +283,25 @@ Privacy Notice | FitPerez.com</title>
 	<option value="diddy">Diddy</option>
 	<option value="diets">Diets</option>
 	<option value="disney">Disney</option>
+	<option value="donald-trump">Donald Trump</option>
 	<option value="dr-drew">Dr. Drew</option>
+	<option value="dr-oz">Dr. Oz</option>
 	<option value="drake">Drake</option>
 	<option value="drugs">Drugs</option>
 	<option value="dwayne-johnson">Dwayne Johnson</option>
 	<option value="eating-disorders">Eating Disorders</option>
+	<option value="elijah-wood">Elijah Wood</option>
 	<option value="elisabeth-hasselbeck">Elisabeth Hasselbeck</option>
+	<option value="elizabeth-berkley">Elizabeth Berkley</option>
 	<option value="elizabeth-hurley">Elizabeth Hurley</option>
 	<option value="ellen-degeneres">Ellen DeGeneres</option>
 	<option value="ellen-pompeo">Ellen Pompeo</option>
 	<option value="elton-john">Elton John</option>
+	<option value="emily-blunt">Emily Blunt</option>
+	<option value="eminem">Eminem</option>
 	<option value="emma-watson">Emma Watson</option>
-	<option value="environment">environment</option>
+	<option value="emmy-rossum">Emmy Rossum</option>
+	<option value="environment">Environment</option>
 	<option value="eric-dane">Eric Dane</option>
 	<option value="eva-longoria">Eva Longoria</option>
 	<option value="exclusives">Exclusives!</option>
@@ -218,6 +327,7 @@ Privacy Notice | FitPerez.com</title>
 	<option value="gwyneth-paltrow">Gwyneth Paltrow</option>
 	<option value="gym-time">Gym Time</option>
 	<option value="halle-berry">Halle Berry</option>
+	<option value="harrison-ford">Harrison Ford</option>
 	<option value="hawt-momma">Hawt Momma</option>
 	<option value="health">Health</option>
 	<option value="heidi-klum">Heidi Klum</option>
@@ -227,13 +337,21 @@ Privacy Notice | FitPerez.com</title>
 	<option value="hilary-duff">Hilary Duff</option>
 	<option value="hilary-swank">Hilary Swank</option>
 	<option value="hockey">Hockey</option>
+	<option value="holly-madison">Holly Madison</option>
+	<option value="howard-stern">Howard Stern</option>
 	<option value="hugh-jackman">Hugh Jackman</option>
 	<option value="hulk-hogan">Hulk Hogan</option>
 	<option value="hunter-parrish">Hunter Parrish</option>
+	<option value="hygiene">Hygiene</option>
 	<option value="icky-icky-poo">Icky Icky Poo</option>
 	<option value="injury">Injury</option>
 	<option value="inspiration">Inspiration</option>
 	<option value="ivanka-trump">Ivanka Trump</option>
+	<option value="jack-black">Jack Black</option>
+	<option value="jack-nicholson">Jack Nicholson</option>
+	<option value="jackie-warner">Jackie Warner</option>
+	<option value="jake-gyllenhaal">Jake Gyllenhaal</option>
+	<option value="jake-pavelka">Jake Pavelka</option>
 	<option value="jake-shears">Jake Shears</option>
 	<option value="james-franco">James Franco</option>
 	<option value="jamie-lee-curtis">Jamie Lee Curtis</option>
@@ -245,15 +363,21 @@ Privacy Notice | FitPerez.com</title>
 	<option value="january-jones">January Jones</option>
 	<option value="jared-leto">Jared Leto</option>
 	<option value="jay-z">Jay-Z</option>
+	<option value="jeff-bridges">Jeff Bridges</option>
+	<option value="jenna-fischer">Jenna Fischer</option>
 	<option value="jennifer-aniston">Jennifer Aniston</option>
+	<option value="jennifer-cohen">Jennifer Cohen</option>
 	<option value="jennifer-gardner">Jennifer Gardner</option>
 	<option value="jennifer-hudson">Jennifer Hudson</option>
+	<option value="jennifer-lopez">Jennifer Lopez</option>
 	<option value="jennifer-love-hewitt">Jennifer Love Hewitt</option>
 	<option value="jenny-mccarthy">Jenny McCarthy</option>
+	<option value="jeremy-piven">Jeremy Piven</option>
 	<option value="jessica-alba">Jessica Alba</option>
 	<option value="jessica-simpson">Jessica Simpson</option>
 	<option value="jillian-michaels">Jillian Michaels</option>
 	<option value="jim-carrey">Jim Carrey</option>
+	<option value="joan-rivers">Joan Rivers</option>
 	<option value="john-mayer">John Mayer</option>
 	<option value="john-travolta">John Travolta</option>
 	<option value="johnny-depp">Johnny Depp</option>
@@ -267,9 +391,13 @@ Privacy Notice | FitPerez.com</title>
 	<option value="justin-timberlake">Justin Timberlake</option>
 	<option value="jwoww">JWOWW</option>
 	<option value="kanye-west">Kanye West</option>
+	<option value="kat-graham">Kat Graham</option>
+	<option value="kate-gosselin">Kate Gosselin</option>
 	<option value="kate-holmes">Kate Holmes</option>
+	<option value="kate-hudson">Kate Hudson</option>
 	<option value="katherine-heigl">Katherine Heigl</option>
 	<option value="kathy-griffin">Kathy Griffin</option>
+	<option value="katie-holmes">Katie Holmes</option>
 	<option value="katie-price">Katie Price</option>
 	<option value="katy-perry">Katy Perry</option>
 	<option value="keanu-reeves">Keanu Reeves</option>
@@ -278,8 +406,14 @@ Privacy Notice | FitPerez.com</title>
 	<option value="kelly-brook">Kelly Brook</option>
 	<option value="kelly-osbourne">Kelly Osbourne</option>
 	<option value="kendra-wilkinson">Kendra Wilkinson</option>
+	<option value="kevin-costner">kevin costner</option>
+	<option value="kevin-federline">Kevin Federline</option>
+	<option value="kevin-garnett">Kevin Garnett</option>
+	<option value="kevin-james">Kevin James</option>
 	<option value="khloe-kardashian">Khloe Kardashian</option>
+	<option value="kim-cattral">Kim Cattral</option>
 	<option value="kim-kardashian">Kim Kardashian</option>
+	<option value="king-of-leon">King Of Leon</option>
 	<option value="kirsten-dunst">Kirsten Dunst</option>
 	<option value="kirstie-alley">Kirstie Alley</option>
 	<option value="knifestyles">Knifestyles</option>
@@ -287,23 +421,29 @@ Privacy Notice | FitPerez.com</title>
 	<option value="kourtney-kardashian">Kourtney Kardashian</option>
 	<option value="kristen-bell">Kristen Bell</option>
 	<option value="kristen-stewart">Kristen Stewart</option>
+	<option value="kristin-cavallari">Kristin Cavallari</option>
+	<option value="kyle-richards">Kyle Richards</option>
 	<option value="kylie-minogue">Kylie Minogue</option>
 	<option value="lady-gaga">Lady Gaga</option>
 	<option value="lamar-odom">Lamar Odom</option>
 	<option value="lance-armstrong">Lance Armstrong</option>
 	<option value="lara-flynn-boyle">Lara Flynn Boyle</option>
+	<option value="latinolicious">Latinolicious</option>
 	<option value="laura-bell-bundy">Laura Bell Bundy</option>
 	<option value="lauren-conrad">Lauren Conrad</option>
 	<option value="lea-michele">Lea Michele</option>
 	<option value="leann-rimes">LeAnn Rimes</option>
 	<option value="lebron-james">LeBron James</option>
+	<option value="legal-matters">Legal Matters</option>
 	<option value="legs">Legs</option>
 	<option value="leonardo-dicaprio">Leonardo DiCaprio</option>
 	<option value="lil-wayne">Lil Wayne</option>
 	<option value="lily-allen">Lily Allen</option>
 	<option value="lindsay-lohan">Lindsay Lohan</option>
 	<option value="lisa-defazio">Lisa DeFazio</option>
+	<option value="lisa-marie-presley">Lisa Marie Presley</option>
 	<option value="lisa-rinna">Lisa Rinna</option>
+	<option value="lo-bosworth">Lo Bosworth</option>
 	<option value="losing-it">Losing it!</option>
 	<option value="love-line">Love Line</option>
 	<option value="madonna">Madonna</option>
@@ -321,16 +461,21 @@ Privacy Notice | FitPerez.com</title>
 	<option value="matthew-mcconaughey">Matthew McConaughey</option>
 	<option value="matthew-morrison">Matthew Morrison</option>
 	<option value="medicine">Medicine</option>
+	<option value="megan-fox">Megan Fox</option>
 	<option value="mel-b">Mel B</option>
 	<option value="mel-gibson">Mel Gibson</option>
+	<option value="melissa-rivers">Melissa Rivers</option>
 	<option value="mental-health">Mental Health</option>
 	<option value="meryl-streep">Meryl Streep</option>
 	<option value="michael-caine">Michael Caine</option>
-	<option value="michael-douglass">Michael Douglass</option>
+	<option value="michael-douglas">Michael Douglas</option>
 	<option value="michael-j-fox">Michael J. Fox</option>
-	<option value="michael-phelps">michael phelps</option>
+	<option value="michael-lohan">Michael Lohan</option>
+	<option value="michael-phelps">Michael Phelps</option>
 	<option value="michelle-obama">Michelle Obama</option>
 	<option value="michelle-williams">Michelle Williams</option>
+	<option value="mike-donavanik">Mike Donavanik</option>
+	<option value="mike-tyson">Mike Tyson</option>
 	<option value="mila-kunis">Mila Kunis</option>
 	<option value="miley-cyrus">Miley Cyrus</option>
 	<option value="minka-kelly">Minka Kelly</option>
@@ -338,10 +483,12 @@ Privacy Notice | FitPerez.com</title>
 	<option value="molly-sims">Molly Sims</option>
 	<option value="morgan-freeman">Morgan Freeman</option>
 	<option value="music-minute">Music Minute</option>
+	<option value="naomi-campbell">Naomi Campbell</option>
 	<option value="nascar">NASCAR</option>
 	<option value="natalie-portman">Natalie Portman</option>
 	<option value="natasha-bedingfield">Natasha Bedingfield</option>
 	<option value="nate-berkus">Nate Berkus</option>
+	<option value="nelly">Nelly</option>
 	<option value="nfl">NFL</option>
 	<option value="nicholas-cage">Nicholas Cage</option>
 	<option value="nick-jonas">Nick Jonas</option>
@@ -352,6 +499,7 @@ Privacy Notice | FitPerez.com</title>
 	<option value="nicole-scherzinger">Nicole Scherzinger</option>
 	<option value="obese">Obese</option>
 	<option value="octo-mom">Octo-Mom</option>
+	<option value="old-people">Old People</option>
 	<option value="olivia-munn">Olivia Munn</option>
 	<option value="olivia-wilde">Olivia Wilde</option>
 	<option value="olympics">Olympics</option>
@@ -360,9 +508,11 @@ Privacy Notice | FitPerez.com</title>
 	<option value="organic">Organic</option>
 	<option value="orlando-bloom">Orlando Bloom</option>
 	<option value="ouchie">Ouchie!</option>
+	<option value="ozzy-osbourne">Ozzy Osbourne</option>
 	<option value="padma-lakshmi">Padma Lakshmi</option>
 	<option value="pamela-anderson">Pamela Anderson</option>
 	<option value="paris-hilton">Paris Hilton</option>
+	<option value="party-poppin">Party Poppin'</option>
 	<option value="patrick-dempsey">Patrick Dempsey</option>
 	<option value="patti-stanger">Patti Stanger</option>
 	<option value="paul-mccartney">Paul McCartney</option>
@@ -370,10 +520,12 @@ Privacy Notice | FitPerez.com</title>
 	<option value="personal-trainer">Personal Trainer</option>
 	<option value="personally-perez">Personally Perez</option>
 	<option value="photo-galleries">pHOto Galleries!</option>
+	<option value="piers-morgan">Piers Morgan</option>
 	<option value="pilates">Pilates</option>
 	<option value="pink">Pink</option>
 	<option value="plastic-surgery">Plastic Surgery</option>
 	<option value="portia-de-rossi">Portia de Rossi</option>
+	<option value="pregnant">Pregnant</option>
 	<option value="quote-of-the-day">Quote Of The Day</option>
 	<option value="rachael-ray">Rachael Ray</option>
 	<option value="rachel-bilson">Rachel Bilson</option>
@@ -394,12 +546,14 @@ Privacy Notice | FitPerez.com</title>
 	<option value="ronaldo">Ronaldo</option>
 	<option value="rosario-dawson">Rosario Dawson</option>
 	<option value="rosie-o%e2%80%99donnell">Rosie O’Donnell</option>
+	<option value="royals-royce">Royals Royce</option>
 	<option value="running">Running</option>
 	<option value="russell-brand">Russell Brand</option>
 	<option value="russell-crowe">Russell Crowe</option>
 	<option value="ryan-gossling">Ryan Gossling</option>
 	<option value="ryan-seacrest">Ryan Seacrest</option>
 	<option value="sad">Sad</option>
+	<option value="salma-hayek">Salma Hayek</option>
 	<option value="sandra-bullock">Sandra Bullock</option>
 	<option value="sara-rue">Sara Rue</option>
 	<option value="sarah-jessica-parker">Sarah Jessica Parker</option>
@@ -407,9 +561,12 @@ Privacy Notice | FitPerez.com</title>
 	<option value="scarlett-johansson">Scarlett Johansson</option>
 	<option value="science">Science!</option>
 	<option value="scott-herman">Scott Herman</option>
+	<option value="seal">Seal</option>
 	<option value="sean-penn">Sean Penn</option>
 	<option value="selena-gomez">Selena Gomez</option>
+	<option value="selma-blair">Selma Blair</option>
 	<option value="serena-williams">Serena Williams</option>
+	<option value="seth-rogen">Seth Rogen</option>
 	<option value="sex">Sex</option>
 	<option value="shakira">Shakira</option>
 	<option value="shaq">Shaq</option>
@@ -420,18 +577,32 @@ Privacy Notice | FitPerez.com</title>
 	<option value="shia-leabeouf">Shia LeaBeouf</option>
 	<option value="shirtless">Shirtless</option>
 	<option value="sick">Sick</option>
+	<option value="sighting">SIGHting</option>
 	<option value="silly">Silly</option>
 	<option value="sin-city">Sin City</option>
+	<option value="skiing">Skiing</option>
 	<option value="skin">Skin</option>
+	<option value="slash">Slash</option>
+	<option value="smoking">Smoking</option>
+	<option value="snooki">Snooki</option>
+	<option value="snow-sports">Snow Sports</option>
 	<option value="soccer">Soccer</option>
 	<option value="sofia-vergara">Sofia Vergara</option>
 	<option value="spencer-pratt">Spencer Pratt</option>
+	<option value="spike-lee">Spike Lee</option>
 	<option value="sports">Sports</option>
 	<option value="stephen-colbert">Stephen Colbert</option>
 	<option value="stephen-moyer">Stephen Moyer</option>
+	<option value="steve-jobs">Steve Jobs</option>
 	<option value="steve-o">Steve-O</option>
+	<option value="steven-tyler">Steven Tyler</option>
 	<option value="still-got-it">Still Got It</option>
+	<option value="sting">Sting</option>
+	<option value="super-bowl">Super Bowl</option>
+	<option value="surfing">Surfing</option>
+	<option value="surgery">Surgery</option>
 	<option value="susan-sarandon">Susan Sarandon</option>
+	<option value="swimming">Swimming</option>
 	<option value="sylvester-stallone">Sylvester Stallone</option>
 	<option value="ti">T.I.</option>
 	<option value="taylor-lautner">Taylor Lautner</option>
@@ -443,28 +614,38 @@ Privacy Notice | FitPerez.com</title>
 	<option value="the-gosselins">The Gosselins</option>
 	<option value="the-situation">The Situation</option>
 	<option value="tiger-woods">Tiger Woods</option>
+	<option value="tim-robbins">Tim Robbins</option>
 	<option value="tina-fey">Tina Fey</option>
 	<option value="tom-brady">Tom Brady</option>
 	<option value="tom-cruise">Tom Cruise</option>
+	<option value="tom-hardy">Tom Hardy</option>
 	<option value="toni-braxton">Toni Braxton</option>
+	<option value="tony-parker">Tony Parker</option>
 	<option value="tori-spelling">Tori Spelling</option>
+	<option value="tracy-morgan">Tracy Morgan</option>
 	<option value="tv-news">TV News</option>
 	<option value="twitter">Twitter</option>
 	<option value="tyler-perry">Tyler Perry</option>
 	<option value="usher">Usher</option>
+	<option value="vanessa-hudgens">Vanessa Hudgens</option>
 	<option value="vegan">Vegan</option>
+	<option value="vegetarian">Vegetarian</option>
 	<option value="venus-williams">Venus Williams</option>
 	<option value="victoria-beckham">Victoria Beckham</option>
 	<option value="vin-diesel">Vin Diesel</option>
 	<option value="violence">Violence</option>
 	<option value="wacky-tacky-true">Wacky Tacky &amp; True</option>
 	<option value="wellness">Wellness</option>
+	<option value="wendy-williams">Wendy Williams</option>
 	<option value="whitney-port">Whitney Port</option>
 	<option value="will-ferrel">Will Ferrel</option>
 	<option value="will-smith">Will Smith</option>
 	<option value="william">Will.i.am.</option>
 	<option value="yoga">Yoga</option>
 	<option value="youtube">YouTube</option>
+	<option value="yummy-yummy-screw">Yummy Yummy Screw</option>
+	<option value="zac-effron">Zac Effron</option>
+	<option value="zsa-zsa-gabor">Zsa Zsa Gabor</option>
 </select>
         </form>
     </div>
@@ -476,6 +657,76 @@ Privacy Notice | FitPerez.com</title>
     </div>
     
   </div>
+
+  <div id="featuredPostsContainer">
+<div id="featuredPostsLeftNav" class="featuredPostsLeftNav"><a href="#featured" class="leftArrowLink">&nbsp;</a></div>
+<div id="featuredPostsRightNav" class="featuredPostsRightNav"><a href="#featured" class="rightArrowLink">&nbsp;</a></div>
+<div id="featuredPostsListContainer">
+<ul id="featuredPosts">
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-12-alcohol-kills-more-than-aids-tuberculosis-or-violence/?feat=yes" class="thumbnail"><img width="150" title="Alcohol Kills More Than AIDS, Tuberculosis, Or Violence " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-beer__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-12-alcohol-kills-more-than-aids-tuberculosis-or-violence/?feat=yes">Alcohol Kills More Than AIDS, Tuberculosis, Or Violence </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-12-alcohol-kills-more-than-aids-tuberculosis-or-violence/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-11-will-he-be-voted-off-fired-or-quit-again/?feat=yes" class="thumbnail"><img width="150" title="Bret Favre Possible <em>Dancing With The Stars</em> Draft Pick" src="http://i.fitperez.com/wp-content/uploads/2011/02/ap081130028756__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-11-will-he-be-voted-off-fired-or-quit-again/?feat=yes">Bret Favre Possible <em>Dancing With The Stars</em> Draft Pick</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-11-will-he-be-voted-off-fired-or-quit-again/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-11-aaron-carter-out-of-rehab/?feat=yes" class="thumbnail"><img width="150" title="Aaron Carter Out Of Rehab " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-aaron-carterr__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-11-aaron-carter-out-of-rehab/?feat=yes">Aaron Carter Out Of Rehab </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-11-aaron-carter-out-of-rehab/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-11-jennifer-hudson-reveals-how-much-weight-she%e2%80%99s-lost/?feat=yes" class="thumbnail"><img width="150" title="Jennifer Hudson Reveals How Much Weight She’s Lost " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-jennifer-hudson__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-11-jennifer-hudson-reveals-how-much-weight-she%e2%80%99s-lost/?feat=yes">Jennifer Hudson Reveals How Much Weight She’s Lost </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-11-jennifer-hudson-reveals-how-much-weight-she%e2%80%99s-lost/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-11-theres-no-drinking-in-baseball/?feat=yes" class="thumbnail"><img width="150" title="Charlie Sheen Plays Ball At UCLA " src="http://i.fitperez.com/wp-content/uploads/2011/02/wenn5323929__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-11-theres-no-drinking-in-baseball/?feat=yes">Charlie Sheen Plays Ball At UCLA </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-11-theres-no-drinking-in-baseball/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-11-carrie-underwood-banned-from-ottawa-radio-station/?feat=yes" class="thumbnail"><img width="150" title="Carrie Underwood Banned From Ottawa Radio Station " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-carrie-underwood__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-11-carrie-underwood-banned-from-ottawa-radio-station/?feat=yes">Carrie Underwood Banned From Ottawa Radio Station </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-11-carrie-underwood-banned-from-ottawa-radio-station/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-11-diet-soda-not-so-healthy/?feat=yes" class="thumbnail"><img width="150" title="Diet Soda May Cause Strokes!" src="http://i.fitperez.com/wp-content/uploads/2011/02/wenn5526207__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-11-diet-soda-not-so-healthy/?feat=yes">Diet Soda May Cause Strokes!</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-11-diet-soda-not-so-healthy/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-10-dallas-cowboys-owner-nfl-sued-over-super-bowl-seating-problems/?feat=yes" class="thumbnail"><img width="150" title="Dallas Cowboys, Owner, &amp; NFL Sued Over Super Bowl Seating Problems " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-jerry-jones__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-10-dallas-cowboys-owner-nfl-sued-over-super-bowl-seating-problems/?feat=yes">Dallas Cowboys, Owner, &amp; NFL Sued Over Super Bowl Seating Problems </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-10-dallas-cowboys-owner-nfl-sued-over-super-bowl-seating-problems/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-10-carrie-and-hockey-hub-can-finally-share-a-home/?feat=yes" class="thumbnail"><img width="150" title="Carrie Underwood's Hubbie Mike Fisher Traded To Nashville Predators " src="http://i.fitperez.com/wp-content/uploads/2011/02/wenn5423855__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-10-carrie-and-hockey-hub-can-finally-share-a-home/?feat=yes">Carrie Underwood's Hubbie Mike Fisher Traded To Nashville Predators </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-10-carrie-and-hockey-hub-can-finally-share-a-home/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-10-who-lean-is-a-lean-cuisine/?feat=yes" class="thumbnail"><img width="150" title="Are Lean Cuisines A Healthy Choice?" src="http://i.fitperez.com/wp-content/uploads/2011/02/wenn246840__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-10-who-lean-is-a-lean-cuisine/?feat=yes">Are Lean Cuisines A Healthy Choice?</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-10-who-lean-is-a-lean-cuisine/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-10-obesity-plaguing-college-students/?feat=yes" class="thumbnail"><img width="150" title="Obesity Plaguing College Students " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-fat-college__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-10-obesity-plaguing-college-students/?feat=yes">Obesity Plaguing College Students </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-10-obesity-plaguing-college-students/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-10-saudi-arabia-king-said-to-be-in-good-health/?feat=yes" class="thumbnail"><img width="150" title="Saudi Arabia King Said To Be In Good Health" src="http://i.fitperez.com/wp-content/uploads/2011/02/web-king-abdullah__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-10-saudi-arabia-king-said-to-be-in-good-health/?feat=yes">Saudi Arabia King Said To Be In Good Health</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-10-saudi-arabia-king-said-to-be-in-good-health/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-10-salon-take-over-star-reviles-botched-boob-job-story/?feat=yes" class="thumbnail"><img width="150" title="BRAVO's Tabatha Coffey Nearly Died From Breast Implants" src="http://i.fitperez.com/wp-content/uploads/2011/02/wenn2770633__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-10-salon-take-over-star-reviles-botched-boob-job-story/?feat=yes">BRAVO's Tabatha Coffey Nearly Died From Breast Implants</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-10-salon-take-over-star-reviles-botched-boob-job-story/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-10-elin-and-tiger-have-pregnancy-scare/?feat=yes" class="thumbnail"><img width="150" title="Elin And Tiger Have Pregnancy Scare " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-tiger-elin__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-10-elin-and-tiger-have-pregnancy-scare/?feat=yes">Elin And Tiger Have Pregnancy Scare </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-10-elin-and-tiger-have-pregnancy-scare/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-10-david-beckham-helped-family-with-broken-down-car/?feat=yes" class="thumbnail"><img width="150" title="David Beckham Helped Family With Broken Down Car " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-david-beckhamm__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-10-david-beckham-helped-family-with-broken-down-car/?feat=yes">David Beckham Helped Family With Broken Down Car </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-10-david-beckham-helped-family-with-broken-down-car/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-10-mila-proves-that-kids-pick-on-everyone/?feat=yes" class="thumbnail"><img width="150" title="" i="" was="" constantly="" made="" fun="" of"="" -="" mila="" kunis="" "="" src="http://i.fitperez.com/wp-content/uploads/2011/02/wenn3169989__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-10-mila-proves-that-kids-pick-on-everyone/?feat=yes">"I Was Constantly Made Fun Of" - Mila Kunis </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-10-mila-proves-that-kids-pick-on-everyone/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-10-michelle-obama-says-barack-has-quit-smoking/?feat=yes" class="thumbnail"><img width="150" title="Michelle Obama Says Barack Has Quit Smoking " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-michelle-obamaa__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-10-michelle-obama-says-barack-has-quit-smoking/?feat=yes">Michelle Obama Says Barack Has Quit Smoking </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-10-michelle-obama-says-barack-has-quit-smoking/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-09-a-rod-pissed-about-popcorn-shot-at-super-bowl/?feat=yes" class="thumbnail"><img width="150" title="A-Rod PISSED About Popcorn Shot At Super Bowl " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-alex-rodriguez__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-09-a-rod-pissed-about-popcorn-shot-at-super-bowl/?feat=yes">A-Rod PISSED About Popcorn Shot At Super Bowl </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-09-a-rod-pissed-about-popcorn-shot-at-super-bowl/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-09-plain-isnt-laughing-at-kathys-fat-jokes/?feat=yes" class="thumbnail"><img width="150" title="Bristol Palin Responds To Kathy Griffin's Teasing - Again! " src="http://i.fitperez.com/wp-content/uploads/2011/02/k-and-b__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-09-plain-isnt-laughing-at-kathys-fat-jokes/?feat=yes">Bristol Palin Responds To Kathy Griffin's Teasing - Again! </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-09-plain-isnt-laughing-at-kathys-fat-jokes/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-09-representative-giffords-recovers-part-of-her-ability-to-peak/?feat=yes" class="thumbnail"><img width="150" title="Representative Giffords Recovers Part Of Her Ability To Speak " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-gabrielle-gifford__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-09-representative-giffords-recovers-part-of-her-ability-to-peak/?feat=yes">Representative Giffords Recovers Part Of Her Ability To Speak </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-09-representative-giffords-recovers-part-of-her-ability-to-peak/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-09-kevin-smith-lost-65-pounds-after-getting-kicked-off-airplane-for-his-weight/?feat=yes" class="thumbnail"><img width="150" title="Kevin Smith Lost 65 Pounds After Getting Kicked Off Airplane For His Weight " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-kevin-smith__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-09-kevin-smith-lost-65-pounds-after-getting-kicked-off-airplane-for-his-weight/?feat=yes">Kevin Smith Lost 65 Pounds After Getting Kicked Off Airplane For His Weight </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-09-kevin-smith-lost-65-pounds-after-getting-kicked-off-airplane-for-his-weight/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-09-friend-of-shakira-confirms-relationship-with-gerard-pique/?feat=yes" class="thumbnail"><img width="150" title="Friend Of Shakira Confirms Relationship With Soccer Stud Gerard Pique " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-shakira-gerard__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-09-friend-of-shakira-confirms-relationship-with-gerard-pique/?feat=yes">Friend Of Shakira Confirms Relationship With Soccer Stud Gerard Pique </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-09-friend-of-shakira-confirms-relationship-with-gerard-pique/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-09-rihanna-performing-at-nba-all-star-halftime-show/?feat=yes" class="thumbnail"><img width="150" title="Rihanna Performing At NBA All-Star Halftime Show " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-rihanna__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-09-rihanna-performing-at-nba-all-star-halftime-show/?feat=yes">Rihanna Performing At NBA All-Star Halftime Show </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-09-rihanna-performing-at-nba-all-star-halftime-show/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-09-nyc-is-not-nice-to-kims-thighs/?feat=yes" class="thumbnail"><img width="150" title="Kim Kardashian Gained 10lbs From NYC " street="" meat""="" src="http://i.fitperez.com/wp-content/uploads/2011/02/wenn3112416__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-09-nyc-is-not-nice-to-kims-thighs/?feat=yes">Kim Kardashian Gained 10lbs From NYC "Street Meat"</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-09-nyc-is-not-nice-to-kims-thighs/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-08-10-valentine%e2%80%99s-day-aphrodisiacs/?feat=yes" class="thumbnail"><img width="150" title="10 Valentine’s Day Aphrodisiacs " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-chocolate__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-08-10-valentine%e2%80%99s-day-aphrodisiacs/?feat=yes">10 Valentine’s Day Aphrodisiacs </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-08-10-valentine%e2%80%99s-day-aphrodisiacs/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-08-spike-lee-garnett-needs-to-calm-the-fuck-down/?feat=yes" class="thumbnail"><img width="150" title="Spike Lee: " garnett="" needs="" to="" calm="" the="" eff="" down"="" "="" src="http://i.fitperez.com/wp-content/uploads/2011/02/web-kevin-spike__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-08-spike-lee-garnett-needs-to-calm-the-fuck-down/?feat=yes">Spike Lee: "Garnett Needs To Calm The Eff Down" </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-08-spike-lee-garnett-needs-to-calm-the-fuck-down/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-08-fitness-must-haves-exclusive-with-jennifer-cohen/?feat=yes" class="thumbnail"><img width="150" title="Fitness Must-Haves! Exclusive" src="http://vids.perezhilton.com/videos/fe8bb33dceded/screenshots/150w.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-08-fitness-must-haves-exclusive-with-jennifer-cohen/?feat=yes">Fitness Must-Haves! Exclusive</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-08-fitness-must-haves-exclusive-with-jennifer-cohen/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-08-janet-jackson-opens-up-about-her-father/?feat=yes" class="thumbnail"><img width="150" title="Janet Jackson Opens Up About Her Father, Claims Brothers Verbally Abusive" src="http://i.fitperez.com/wp-content/uploads/2011/02/web-jjanet-jackson__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-08-janet-jackson-opens-up-about-her-father/?feat=yes">Janet Jackson Opens Up About Her Father, Claims Brothers Verbally Abusive</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-08-janet-jackson-opens-up-about-her-father/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-08-california-company-recalls-ground-beef-due-to-e-coli-contamination/?feat=yes" class="thumbnail"><img width="150" title="California Company Recalls Ground Beef Due To E. Coli Contamination " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-ground-beef__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-08-california-company-recalls-ground-beef-due-to-e-coli-contamination/?feat=yes">California Company Recalls Ground Beef Due To E. Coli Contamination </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-08-california-company-recalls-ground-beef-due-to-e-coli-contamination/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-08-drunkest-cities-in-america/?feat=yes" class="thumbnail"><img width="150" title="The Drunkest Cities In America Are..." src="http://i.fitperez.com/wp-content/uploads/2011/02/web-drunkest-cities__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-08-drunkest-cities-in-america/?feat=yes">The Drunkest Cities In America Are...</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-08-drunkest-cities-in-america/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-08-new-starbucks-size-can-hold-an-entire-bottle-of-wine/?feat=yes" class="thumbnail"><img width="150" title="Whoa! New Starbucks Size Can Hold An Entire Bottle Of Wine!" src="http://i.fitperez.com/wp-content/uploads/2011/02/the-starbucks-trenta-holds-an-entire-bottle-of-wine__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-08-new-starbucks-size-can-hold-an-entire-bottle-of-wine/?feat=yes">Whoa! New Starbucks Size Can Hold An Entire Bottle Of Wine!</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-08-new-starbucks-size-can-hold-an-entire-bottle-of-wine/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-ian-somerhalder-shirtless-on-the-vampire-diaries/?feat=yes" class="thumbnail"><img width="150" title="Ian Somerhalder, Shirtless And Sexy On <em>The Vampire Diaries</em> " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-ian1__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-ian-somerhalder-shirtless-on-the-vampire-diaries/?feat=yes">Ian Somerhalder, Shirtless And Sexy On <em>The Vampire Diaries</em> </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-ian-somerhalder-shirtless-on-the-vampire-diaries/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-kim-takes-kris-and-family-out-for-b-day-dinner/?feat=yes" class="thumbnail"><img width="150" title="Kim K Meets NBA Bf's Parents! " src="http://i.fitperez.com/wp-content/uploads/2011/02/kim-and-kris__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-kim-takes-kris-and-family-out-for-b-day-dinner/?feat=yes">Kim K Meets NBA Bf's Parents! </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-kim-takes-kris-and-family-out-for-b-day-dinner/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-jessica-szohr-is-not-dating-aaron-rodgers/?feat=yes" class="thumbnail"><img width="150" title="Jessica Szohr Is NOT Dating Aaron Rodgers " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-jessica-aaron1__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-jessica-szohr-is-not-dating-aaron-rodgers/?feat=yes">Jessica Szohr Is NOT Dating Aaron Rodgers </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-jessica-szohr-is-not-dating-aaron-rodgers/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-over-400-ticket-holders-didnt-have-seats/?feat=yes" class="thumbnail"><img width="150" title="Super Bowl Seating Fail!" src="http://i.fitperez.com/wp-content/uploads/2011/02/images__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-over-400-ticket-holders-didnt-have-seats/?feat=yes">Super Bowl Seating Fail!</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-over-400-ticket-holders-didnt-have-seats/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-super-bowl-xlv-ties-highest-rated-bowl-ever/?feat=yes" class="thumbnail"><img width="150" title="Super Bowl XLV Ties Highest Rated Bowl Ever " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-super-bowl__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-super-bowl-xlv-ties-highest-rated-bowl-ever/?feat=yes">Super Bowl XLV Ties Highest Rated Bowl Ever </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-super-bowl-xlv-ties-highest-rated-bowl-ever/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-khloe-kardashian-wants-to-be-bikini-ready-by-june/?feat=yes" class="thumbnail"><img width="150" title="Khloé Kardashian Wants To Be Bikini-Ready By June " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-khloe-kardashiann__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-khloe-kardashian-wants-to-be-bikini-ready-by-june/?feat=yes">Khloé Kardashian Wants To Be Bikini-Ready By June </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-khloe-kardashian-wants-to-be-bikini-ready-by-june/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-placenta-foreskin-are-trending-foods-of-2011/?feat=yes" class="thumbnail"><img width="150" title="Foreskin Is Yummy! Wait, What?" src="http://vids.perezhilton.com/videos/d089242d80a8e/screenshots/150w.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-placenta-foreskin-are-trending-foods-of-2011/?feat=yes">Foreskin Is Yummy! Wait, What?</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-placenta-foreskin-are-trending-foods-of-2011/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-shakiras-boyfriend-releases-first-photo-of-them-together-on-his-facebook/?feat=yes" class="thumbnail"><img width="150" title="First Public Photo Of Shakira And Pique Together!" src="http://i.fitperez.com/wp-content/uploads/2011/02/shakira-with-gerard-on-his-birthday__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-shakiras-boyfriend-releases-first-photo-of-them-together-on-his-facebook/?feat=yes">First Public Photo Of Shakira And Pique Together!</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-shakiras-boyfriend-releases-first-photo-of-them-together-on-his-facebook/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-a-rod-and-cameron-diaz-in-a-threesome/?feat=yes" class="thumbnail"><img width="150" title="A-Rod And Cameron Diaz In A Threesome?? " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-cameron-and-rod__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-a-rod-and-cameron-diaz-in-a-threesome/?feat=yes">A-Rod And Cameron Diaz In A Threesome?? </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-a-rod-and-cameron-diaz-in-a-threesome/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-gossip-girl%e2%80%99s-jessica-szohr-may-be-dating-green-bay-quarterback/?feat=yes" class="thumbnail"><img width="150" title="<em>Gossip Girl’s</em> Jessica Szohr May Be Dating Green Bay Quarterback " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-jessica-aaron__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-gossip-girl%e2%80%99s-jessica-szohr-may-be-dating-green-bay-quarterback/?feat=yes"><em>Gossip Girl’s</em> Jessica Szohr May Be Dating Green Bay Quarterback </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-gossip-girl%e2%80%99s-jessica-szohr-may-be-dating-green-bay-quarterback/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-being-vegetarian-isnt-always-the-healthiest-option-exclusive/?feat=yes" class="thumbnail"><img width="150" title="Being Vegetarian Isn't Always The Healthiest Option! Exclusive" src="http://vids.perezhilton.com/videos/c4e129a70f385/screenshots/150w.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-being-vegetarian-isnt-always-the-healthiest-option-exclusive/?feat=yes">Being Vegetarian Isn't Always The Healthiest Option! Exclusive</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-being-vegetarian-isnt-always-the-healthiest-option-exclusive/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-cameron-diaz-feeds-a-rod-popcorn-at-super-bowl/?feat=yes" class="thumbnail"><img width="150" title="Cameron Diaz Feeds A-Rod Popcorn At Super Bowl " src="http://vids.perezhilton.com/videos/6998f69ad4b79/screenshots/150w.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-cameron-diaz-feeds-a-rod-popcorn-at-super-bowl/?feat=yes">Cameron Diaz Feeds A-Rod Popcorn At Super Bowl </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-cameron-diaz-feeds-a-rod-popcorn-at-super-bowl/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-07-tony-hawk-files-for-divorce/?feat=yes" class="thumbnail"><img width="150" title="Tony Hawk Files For Divorce " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-tony-hawk__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-07-tony-hawk-files-for-divorce/?feat=yes">Tony Hawk Files For Divorce </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-07-tony-hawk-files-for-divorce/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-06-global-obesity-has-doubled-since-1980/?feat=yes" class="thumbnail"><img width="150" title="Global Obesity Has Doubled Since 1980 " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-obese__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-06-global-obesity-has-doubled-since-1980/?feat=yes">Global Obesity Has Doubled Since 1980 </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-06-global-obesity-has-doubled-since-1980/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-06-more-healthy-super-bowl-recipes/?feat=yes" class="thumbnail"><img width="150" title="More Healthy Super Bowl Recipes" src="http://i.fitperez.com/wp-content/uploads/2011/02/web-guacamole__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-06-more-healthy-super-bowl-recipes/?feat=yes">More Healthy Super Bowl Recipes</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-06-more-healthy-super-bowl-recipes/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-04-seven-injured-from-falling-ice-at-cowboys-stadium/?feat=yes" class="thumbnail"><img width="150" title="Seven Injured From Falling Ice At Cowboys Stadium!" src="http://i.fitperez.com/wp-content/uploads/2011/02/cowboys-stadium-falling-ice__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-04-seven-injured-from-falling-ice-at-cowboys-stadium/?feat=yes">Seven Injured From Falling Ice At Cowboys Stadium!</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-04-seven-injured-from-falling-ice-at-cowboys-stadium/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-04-michael-vick%e2%80%99s-super-bowl-party-canceled/?feat=yes" class="thumbnail"><img width="150" title="Michael Vick’s Super Bowl Party Canceled " src="http://i.fitperez.com/wp-content/uploads/2011/02/web-michael-vick__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-04-michael-vick%e2%80%99s-super-bowl-party-canceled/?feat=yes">Michael Vick’s Super Bowl Party Canceled </a></p><a class="arrowLink" href="http://fitperez.com/2011-02-04-michael-vick%e2%80%99s-super-bowl-party-canceled/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-04-brave-teen-speaks-up-against-bullying-and-is-rewarded/?feat=yes" class="thumbnail"><img width="150" title="Bullying Victim Gets A Surprise On The View" src="http://vids.perezhilton.com/videos/778de079ad6e0/screenshots/150w.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-04-brave-teen-speaks-up-against-bullying-and-is-rewarded/?feat=yes">Bullying Victim Gets A Surprise On The View</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-04-brave-teen-speaks-up-against-bullying-and-is-rewarded/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://fitperez.com/2011-02-04-money-offered-for-pic-of-shakira-and-pique/?feat=yes" class="thumbnail"><img width="150" title="$200K Offered For Pic Of Shakira And Pique" src="http://i.fitperez.com/wp-content/uploads/2011/02/shakiradress__oPt.jpg"></a><p class="caption"><a href="http://fitperez.com/2011-02-04-money-offered-for-pic-of-shakira-and-pique/?feat=yes">$200K Offered For Pic Of Shakira And Pique</a></p><a class="arrowLink" href="http://fitperez.com/2011-02-04-money-offered-for-pic-of-shakira-and-pique/?feat=yes"><img class="arrowButton" src="http://i.fitperez.com/images/featured_posts/arrow.png"></a></li>
+</ul>
+</div></div>
+<script type="text/javascript">
+if ($.cookie("fpost_page_num")) perez_featuredPostsPager('code', $.cookie("fpost_page_num"));
+else perez_featuredPostsPager('code', 0);
+</script>
+  <script type="text/javascript">
+  //If takeover ad is not running.
+  if (ph_ad_page == 'no') {
+      //FEATURED POSTS
+      $("#featuredPostsContainer").show();
+  }
+  </script>
+
   <div id="bottomLeaderboard" class="leaderboard">
     <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://f.blogads.com/www/delivery/ajs.php':'http://f.blogads.com/www/delivery/ajs.php');
@@ -491,7 +742,7 @@ Privacy Notice | FitPerez.com</title>
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://f.blogads.com/www/delivery/ajs.php?zoneid=102&amp;cb=25568578945&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101210000933id_/http%253A//fitperez.com/privacy-notice"></script><noscript><a href='http://f.blogads.com/www/delivery/ck.php?n=aa9b2ef8&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://f.blogads.com/www/delivery/avw.php?zoneid=102&amp;n=aa9b2ef8' border='0' alt='' /></a></noscript>  </div>
+//]]>--></script><script type="text/javascript" src="https://f.blogads.com/www/delivery/ajs.php?zoneid=102&amp;cb=15262163263&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110212182725id_/http%253A//fitperez.com/privacy-notice"></script><noscript><a href='http://f.blogads.com/www/delivery/ck.php?n=aa9b2ef8&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://f.blogads.com/www/delivery/avw.php?zoneid=102&amp;n=aa9b2ef8' border='0' alt='' /></a></noscript>  </div>
   
   
   <div id="fitContent">
@@ -560,7 +811,7 @@ FitPerez.com gives you access to a broad range of information about your account
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://f.blogads.com/www/delivery/ajs.php?zoneid=103&amp;cb=36147972225&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101210000933id_/http%253A//fitperez.com/privacy-notice"></script><noscript><a href='http://f.blogads.com/www/delivery/ck.php?n=aa29d485&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://f.blogads.com/www/delivery/avw.php?zoneid=103&amp;n=aa29d485' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://f.blogads.com/www/delivery/ajs.php?zoneid=103&amp;cb=64171270930&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110212182725id_/http%253A//fitperez.com/privacy-notice"></script><noscript><a href='http://f.blogads.com/www/delivery/ck.php?n=aa29d485&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://f.blogads.com/www/delivery/avw.php?zoneid=103&amp;n=aa29d485' border='0' alt='' /></a></noscript>
 </div>    </div>
 
     <script type="text/javascript" language="JavaScript">
@@ -570,15 +821,15 @@ FitPerez.com gives you access to a broad range of information about your account
     <div id="fitTvBox" class="sidebarbox noipad">
     <div id="fitTvHeader"><a href="http://fitperez.com/tv"><img border="0" width="298" vspace="0" hspace="0" height="36" src="http://fitperez.com/images/blank.gif"></a></div>
 	<div id="fitTvPlayerContainer">
-	    <div id="fitTvPlayerContainer"><object height="212" type="application/x-shockwave-flash" name="embedded_player_8bf5ea80ebacb" width="279" data="http://vids.perezhilton.com/plugins/player.swf?p=fit_mini_sidebar_flp" id="embedded_player_8bf5ea80ebacb">
+	    <div id="fitTvPlayerContainer"><object height="212" type="application/x-shockwave-flash" name="embedded_player_894926cfbf875" width="279" data="http://vids.perezhilton.com/plugins/player.swf?p=fit_mini_sidebar_flp" id="embedded_player_894926cfbf875">
 			    <param name="movie" value="http://vids.perezhilton.com/plugins/player.swf?p=fit_mini_sidebar_flp">
 			    <param name="allowfullscreen" value="true">
 			    <param name="allowscriptaccess" value="always">
 			    <param name="base" value="http://vids.perezhilton.com">
 			    <param name="bgcolor" value="#000000">
 			    <param name="wmode" value="transparent">
-			    <param name="flashvars" value="v=8bf5ea80ebacb&amp;autoplay=false">
-			    </object></div><div id="featured_video_infos"><h3><a href="/The_411_on_Cocounut_Water/?ptvid=8bf5ea80ebacb">The 411 on Cocounut Water</a></h3>Time: 1:36<br>Added: 12/09/10<br>Views: 375</div><div id="videolistcontainer"><div id="videolist_item_1" class="videolist" style="display: none;"><a id="videolist_image_384ee795301ad" href="/Wine_Vending_Machines/?ptvid=384ee795301ad" target="_blank"></a><h3 class="videotitle"><a href="/Wine_Vending_Machines/?ptvid=384ee795301ad" title="Wine Vending Machines">Wine Vending Machines</a></h3>Time: 2:06<br>Added: 12/08/10<br>Views: 182</div><div id="videolist_item_2" class="videolist" style="display: none;"><a id="videolist_image_638440864bd0e" href="/Player_Penalized_For_Praying_In_End_Zone/?ptvid=638440864bd0e" target="_blank"></a><h3 class="videotitle"><a href="/Player_Penalized_For_Praying_In_End_Zone/?ptvid=638440864bd0e" title="Player Penalized For Praying In End Zone">Player Penalized For Praying In End Zone</a></h3>Time: 1:13<br>Added: 12/02/10<br>Views: 1,234</div><div id="videolist_item_3" class="videolist" style="display: none;"><a id="videolist_image_e09b7f0b7f654" href="/Bethenny_Frankels_Healthy_Eating_Tips/?ptvid=e09b7f0b7f654" target="_blank"></a><h3 class="videotitle"><a href="/Bethenny_Frankels_Healthy_Eating_Tips/?ptvid=e09b7f0b7f654" title="Bethenny Frankel's Healthy Eating Tips">Bethenny Frankel's Healthy Eating Tips</a></h3>Time: 5:06<br>Added: 12/02/10<br>Views: 4,383</div><div id="videolist_item_4" class="videolist" style="display: none;"><a id="videolist_image_ae0be762c9db7" href="/Healthy_Goals_and_Healthy_Rewards/?ptvid=ae0be762c9db7" target="_blank"></a><h3 class="videotitle"><a href="/Healthy_Goals_and_Healthy_Rewards/?ptvid=ae0be762c9db7" title="Healthy Goals &amp; Healthy Rewards!">Healthy Goals &amp; Healthy Rewards!</a></h3>Time: 2:37<br>Added: 12/02/10<br>Views: 645</div><div id="videolist_item_5" class="videolist" style="display: none;"><a id="videolist_image_ab2e8cb438667" href="/The_101_on_Spreads/?ptvid=ab2e8cb438667" target="_blank"></a><h3 class="videotitle"><a href="/The_101_on_Spreads/?ptvid=ab2e8cb438667" title="The 101 on Spreads">The 101 on Spreads</a></h3>Time: 1:54<br>Added: 12/02/10<br>Views: 1,437</div><div id="videolist_item_6" class="videolist" style="display: none;"><a id="videolist_image_ae6915ed4218a" href="/Talking_Fitness_With_Trevor_Donovan/?ptvid=ae6915ed4218a" target="_blank"></a><h3 class="videotitle"><a href="/Talking_Fitness_With_Trevor_Donovan/?ptvid=ae6915ed4218a" title="Talking Fitness With... Trevor Donovan!">Talking Fitness With... Trevor Donovan!</a></h3>Time: 2:09<br>Added: 12/02/10<br>Views: 988</div><div id="videolist_item_7" class="videolist" style="display: none;"><a id="videolist_image_1adc3a11d1f8c" href="/Lamar_Odom_and_Khloe_Kardashian_/?ptvid=1adc3a11d1f8c" target="_blank"></a><h3 class="videotitle"><a href="/Lamar_Odom_and_Khloe_Kardashian_/?ptvid=1adc3a11d1f8c" title="Lamar Odom and Khloe Kardashian  ">Lamar Odom and Khloe Kardashian  </a></h3>Time: 0:15<br>Added: 12/01/10<br>Views: 4,331</div><div id="videolist_item_8" class="videolist" style="display: none;"><a id="videolist_image_84545f1e9dd73" href="/Gross_Breakfast/?ptvid=84545f1e9dd73" target="_blank"></a><h3 class="videotitle"><a href="/Gross_Breakfast/?ptvid=84545f1e9dd73" title="Gross Breakfast">Gross Breakfast</a></h3>Time: 2:34<br>Added: 12/01/10<br>Views: 3,958</div><div id="videolist_item_9" class="videolist" style="display: none;"><a id="videolist_image_b1ed72f6292b5" href="/Extreme_Sports/?ptvid=b1ed72f6292b5" target="_blank"></a><h3 class="videotitle"><a href="/Extreme_Sports/?ptvid=b1ed72f6292b5" title="Extreme Sports">Extreme Sports</a></h3>Time: 5:07<br>Added: 11/30/10<br>Views: 31,236</div><div id="videolist_item_10" class="videolist" style="display: none;"><a id="videolist_image_91734f51460f3" href="/Cristiano_Ronaldo_Throws_Hissy_Fit/?ptvid=91734f51460f3" target="_blank"></a><h3 class="videotitle"><a href="/Cristiano_Ronaldo_Throws_Hissy_Fit/?ptvid=91734f51460f3" title="Cristiano Ronaldo Throws Hissy Fit">Cristiano Ronaldo Throws Hissy Fit</a></h3>Time: 1:41<br>Added: 11/30/10<br>Views: 2,148</div><div id="videolist_item_11" class="videolist" style="display: none;"><a id="videolist_image_938fe2dc30c1e" href="/Annas_5_Tips_For_Weight_Loss/?ptvid=938fe2dc30c1e" target="_blank"></a><h3 class="videotitle"><a href="/Annas_5_Tips_For_Weight_Loss/?ptvid=938fe2dc30c1e" title="Anna's 5 Tips For Weight Loss!">Anna's 5 Tips For Weight Loss!</a></h3>Time: 4:06<br>Added: 11/30/10<br>Views: 3,659</div><div id="videolist_item_12" class="videolist" style="display: none;"><a id="videolist_image_e3da3a3689617" href="/Steve_Johnson_Drops_Game_Winning_TD_/?ptvid=e3da3a3689617" target="_blank"></a><h3 class="videotitle"><a href="/Steve_Johnson_Drops_Game_Winning_TD_/?ptvid=e3da3a3689617" title="Steve Johnson Drops Game Winning TD ">Steve Johnson Drops Game Winning TD </a></h3>Time: 0:38<br>Added: 11/29/10<br>Views: 299</div><div id="videolist_item_13" class="videolist" style="display: none;"><a id="videolist_image_41ad3e7dc27bb" href="/Talking_Fitness_With_Leah_Remini/?ptvid=41ad3e7dc27bb" target="_blank"></a><h3 class="videotitle"><a href="/Talking_Fitness_With_Leah_Remini/?ptvid=41ad3e7dc27bb" title="Talking Fitness With... Leah Remini!">Talking Fitness With... Leah Remini!</a></h3>Time: 1:51<br>Added: 11/29/10<br>Views: 1,104</div><div id="videolist_item_14" class="videolist" style="display: none;"><a id="videolist_image_cdb20866aaf5e" href="/Hurricane_Jared_Leto/?ptvid=cdb20866aaf5e" target="_blank"></a><h3 class="videotitle"><a href="/Hurricane_Jared_Leto/?ptvid=cdb20866aaf5e" title="Hurricane -  Jared Leto">Hurricane -  Jared Leto</a></h3>Time: 0:32<br>Added: 11/24/10<br>Views: 23,809</div><div id="videolist_item_15" class="videolist" style="display: none;"><a id="videolist_image_733520ff489ff" href="/Rihanna_Wants_To_Wish_You_A_Happy_Birthday/?ptvid=733520ff489ff" target="_blank"></a><h3 class="videotitle"><a href="/Rihanna_Wants_To_Wish_You_A_Happy_Birthday/?ptvid=733520ff489ff" title="Rihanna Wants To Wish You A Happy Birthday">Rihanna Wants To Wish You A Happy Birthday</a></h3>Time: 1:12<br>Added: 11/23/10<br>Views: 934</div><div id="videolist_item_16" class="videolist" style="display: none;"><a id="videolist_image_b7356650e764b" href="/Annas_Healthy_Thanksgiving_Tips/?ptvid=b7356650e764b" target="_blank"></a><h3 class="videotitle"><a href="/Annas_Healthy_Thanksgiving_Tips/?ptvid=b7356650e764b" title="Anna's Healthy Thanksgiving Tips!">Anna's Healthy Thanksgiving Tips!</a></h3>Time: 2:35<br>Added: 11/23/10<br>Views: 263</div><div id="videolist_item_17" class="videolist" style="display: none;"><a id="videolist_image_8a65d50853696" href="/Helpful_Healthy_Thanksgiving_Tips/?ptvid=8a65d50853696" target="_blank"></a><h3 class="videotitle"><a href="/Helpful_Healthy_Thanksgiving_Tips/?ptvid=8a65d50853696" title="Helpful Healthy Thanksgiving Tips!">Helpful Healthy Thanksgiving Tips!</a></h3>Time: 2:28<br>Added: 11/22/10<br>Views: 623</div><div id="videolist_item_18" class="videolist" style="display: none;"><a id="videolist_image_b339a119a704d" href="/Accommodating_Obese_Patients/?ptvid=b339a119a704d" target="_blank"></a><h3 class="videotitle"><a href="/Accommodating_Obese_Patients/?ptvid=b339a119a704d" title="Accommodating Obese Patients">Accommodating Obese Patients</a></h3>Time: 6:54<br>Added: 11/19/10<br>Views: 1,467</div><div id="videolist_item_19" class="videolist" style="display: none;"><a id="videolist_image_7cbec8acf6d28" href="/Shedding_For_The_Wedding_/?ptvid=7cbec8acf6d28" target="_blank"></a><h3 class="videotitle"><a href="/Shedding_For_The_Wedding_/?ptvid=7cbec8acf6d28" title="Shedding For The Wedding ">Shedding For The Wedding </a></h3>Time: 0:10<br>Added: 11/18/10<br>Views: 1,291</div><div id="videolist_item_20" class="videolist" style="display: none;"><a id="videolist_image_90feb66a8bcc6" href="/PSA_Bristol_Palin_And_The_Situation/?ptvid=90feb66a8bcc6" target="_blank"></a><h3 class="videotitle"><a href="/PSA_Bristol_Palin_And_The_Situation/?ptvid=90feb66a8bcc6" title="PSA - Bristol Palin And The Situation">PSA - Bristol Palin And The Situation</a></h3>Time: 1:45<br>Added: 11/17/10<br>Views: 1,566</div><div id="videolist_item_21" class="videolist" style="display: none;"><a id="videolist_image_e9de5bbb9c5ab" href="/Buttcamp/?ptvid=e9de5bbb9c5ab" target="_blank"></a><h3 class="videotitle"><a href="/Buttcamp/?ptvid=e9de5bbb9c5ab" title="Buttcamp">Buttcamp</a></h3>Time: 0:39<br>Added: 11/17/10<br>Views: 2,191</div><div id="videolist_item_22" class="videolist" style="display: none;"><a id="videolist_image_6ff9162e5e557" href="/How_To_Stay_Motivated_Perez_Tells_You/?ptvid=6ff9162e5e557" target="_blank"></a><h3 class="videotitle"><a href="/How_To_Stay_Motivated_Perez_Tells_You/?ptvid=6ff9162e5e557" title="How To Stay Motivated! Perez Tells You!">How To Stay Motivated! Perez Tells You!</a></h3>Time: 2:25<br>Added: 11/17/10<br>Views: 6,883</div><div id="videolist_item_23" class="videolist" style="display: none;"><a id="videolist_image_790172e8f5491" href="/Bike_Faceplant/?ptvid=790172e8f5491" target="_blank"></a><h3 class="videotitle"><a href="/Bike_Faceplant/?ptvid=790172e8f5491" title="Bike Faceplant">Bike Faceplant</a></h3>Time: 0:42<br>Added: 11/16/10<br>Views: 1,020</div><div id="videolist_item_24" class="videolist" style="display: none;"><a id="videolist_image_cc358d63ede87" href="/Freaky_Eaters/?ptvid=cc358d63ede87" target="_blank"></a><h3 class="videotitle"><a href="/Freaky_Eaters/?ptvid=cc358d63ede87" title="Freaky Eaters">Freaky Eaters</a></h3>Time: 1:22<br>Added: 11/16/10<br>Views: 1,693</div><div id="videolist_item_25" class="videolist" style="display: none;"><a id="videolist_image_811254035cf47" href="/The_Truth_About_Celebrity_Diets/?ptvid=811254035cf47" target="_blank"></a><h3 class="videotitle"><a href="/The_Truth_About_Celebrity_Diets/?ptvid=811254035cf47" title="The Truth About Celebrity Diets!">The Truth About Celebrity Diets!</a></h3>Time: 2:41<br>Added: 11/16/10<br>Views: 3,228</div><div id="videolist_item_26" class="videolist" style="display: none;"><a id="videolist_image_dbc657d2ead73" href="/Amazing_Pole_Dancing/?ptvid=dbc657d2ead73" target="_blank"></a><h3 class="videotitle"><a href="/Amazing_Pole_Dancing/?ptvid=dbc657d2ead73" title="Amazing Pole Dancing">Amazing Pole Dancing</a></h3>Time: 2:41<br>Added: 11/15/10<br>Views: 6,921</div><div id="videolist_item_27" class="videolist" style="display: none;"><a id="videolist_image_5d40d4a1cb9aa" href="/Tom_Brady_Fixes_His_Hair_After_Having_A_Hissy_Fit/?ptvid=5d40d4a1cb9aa" target="_blank"></a><h3 class="videotitle"><a href="/Tom_Brady_Fixes_His_Hair_After_Having_A_Hissy_Fit/?ptvid=5d40d4a1cb9aa" title="Tom Brady Fixes His Hair After Having A Hissy Fit">Tom Brady Fixes His Hair After Having A Hissy Fit</a></h3>Time: 0:23<br>Added: 11/15/10<br>Views: 3,102</div><div id="videolist_item_28" class="videolist" style="display: none;"><a id="videolist_image_9b64f405594c2" href="/Anna_Says_Be_Prepared/?ptvid=9b64f405594c2" target="_blank"></a><h3 class="videotitle"><a href="/Anna_Says_Be_Prepared/?ptvid=9b64f405594c2" title="Anna Says: Be Prepared!">Anna Says: Be Prepared!</a></h3>Time: 2:44<br>Added: 11/15/10<br>Views: 626</div><div id="videolist_item_29" class="videolist" style="display: none;"><a id="videolist_image_07f88cf22b183" href="/Ski_Flying/?ptvid=07f88cf22b183" target="_blank"></a><h3 class="videotitle"><a href="/Ski_Flying/?ptvid=07f88cf22b183" title="Ski Flying">Ski Flying</a></h3>Time: 3:35<br>Added: 11/12/10<br>Views: 2,510</div><div id="videolist_item_30" class="videolist" style="display: none;"><a id="videolist_image_a297eb9695156" href="/Masters_Fan_Struck_By_Golf_Ball/?ptvid=a297eb9695156" target="_blank"></a><h3 class="videotitle"><a href="/Masters_Fan_Struck_By_Golf_Ball/?ptvid=a297eb9695156" title="Masters Fan Struck By Golf Ball">Masters Fan Struck By Golf Ball</a></h3>Time: 1:09<br>Added: 11/12/10<br>Views: 590</div><div id="videolist_item_31" class="videolist" style="display: none;"><a id="videolist_image_f1a9eceb14a8b" href="/Drinking_On_A_Diet_Healthy_Tips/?ptvid=f1a9eceb14a8b" target="_blank"></a><h3 class="videotitle"><a href="/Drinking_On_A_Diet_Healthy_Tips/?ptvid=f1a9eceb14a8b" title="Drinking On A Diet: Healthy Tips!">Drinking On A Diet: Healthy Tips!</a></h3>Time: 1:54<br>Added: 11/12/10<br>Views: 10,207</div><div style="margin: 10px;" id="videolistpager">
+			    <param name="flashvars" value="v=894926cfbf875&amp;autoplay=false">
+			    </object></div><div id="featured_video_infos"><h3><a href="/Understanding_Protein/?ptvid=894926cfbf875">Understanding Protein!</a></h3>Time: 3:22<br>Added: 02/11/11<br>Views: 530</div><div id="videolistcontainer"><div id="videolist_item_1" class="videolist" style="display: none;"><a id="videolist_image_9a7d6530a28cd" href="/Trick_Shot_Quarterback/?ptvid=9a7d6530a28cd" target="_blank"></a><h3 class="videotitle"><a href="/Trick_Shot_Quarterback/?ptvid=9a7d6530a28cd" title="Trick Shot Quarterback">Trick Shot Quarterback</a></h3>Time: 4:49<br>Added: 02/09/11<br>Views: 2,412</div><div id="videolist_item_2" class="videolist" style="display: none;"><a id="videolist_image_b22e5ed87788d" href="/Lil_Wayne_And_Nelly_Bowl/?ptvid=b22e5ed87788d" target="_blank"></a><h3 class="videotitle"><a href="/Lil_Wayne_And_Nelly_Bowl/?ptvid=b22e5ed87788d" title="Lil Wayne And Nelly Bowl">Lil Wayne And Nelly Bowl</a></h3>Time: 9:49<br>Added: 02/09/11<br>Views: 885</div><div id="videolist_item_3" class="videolist" style="display: none;"><a id="videolist_image_63507567d06c9" href="/What_Is_Normal_Eating/?ptvid=63507567d06c9" target="_blank"></a><h3 class="videotitle"><a href="/What_Is_Normal_Eating/?ptvid=63507567d06c9" title="What Is &quot;Normal&quot; Eating?">What Is "Normal" Eating?</a></h3>Time: 2:54<br>Added: 02/09/11<br>Views: 1,108</div><div id="videolist_item_4" class="videolist" style="display: none;"><a id="videolist_image_ea3364b18092a" href="/Michael_Phelps_Hotness/?ptvid=ea3364b18092a" target="_blank"></a><h3 class="videotitle"><a href="/Michael_Phelps_Hotness/?ptvid=ea3364b18092a" title="Michael Phelps Hotness!">Michael Phelps Hotness!</a></h3>Time: 1:57<br>Added: 02/09/11<br>Views: 763</div><div id="videolist_item_5" class="videolist" style="display: none;"><a id="videolist_image_4b309c0151a07" href="/Eminem_Super_Bowl_Commercial_Outtakes/?ptvid=4b309c0151a07" target="_blank"></a><h3 class="videotitle"><a href="/Eminem_Super_Bowl_Commercial_Outtakes/?ptvid=4b309c0151a07" title="Eminem Super Bowl Commercial Outtakes">Eminem Super Bowl Commercial Outtakes</a></h3>Time: 0:25<br>Added: 02/08/11<br>Views: 893</div><div id="videolist_item_6" class="videolist" style="display: none;"><a id="videolist_image_9bf1dcf784c8c" href="/Ellen_And_The_Super_Bowl/?ptvid=9bf1dcf784c8c" target="_blank"></a><h3 class="videotitle"><a href="/Ellen_And_The_Super_Bowl/?ptvid=9bf1dcf784c8c" title="Ellen And The Super Bowl">Ellen And The Super Bowl</a></h3>Time: 3:23<br>Added: 02/08/11<br>Views: 1,260</div><div id="videolist_item_7" class="videolist" style="display: none;"><a id="videolist_image_5fdee2a02ea9e" href="/Singing_Sensation_Jennifer_Hudson_And_Her_Incredible_Weight_/?ptvid=5fdee2a02ea9e" target="_blank"></a><h3 class="videotitle"><a href="/Singing_Sensation_Jennifer_Hudson_And_Her_Incredible_Weight_/?ptvid=5fdee2a02ea9e" title="Singing Sensation Jennifer Hudson And Her Incredible Weight ">Singing Sensation Jennifer Hudson And Her Incredible Weight </a></h3>Time: 0:35<br>Added: 02/08/11<br>Views: 2,011</div><div id="videolist_item_8" class="videolist" style="display: none;"><a id="videolist_image_fe8bb33dceded" href="/Some_Fitness_Must_Haves_Exclusive/?ptvid=fe8bb33dceded" target="_blank"></a><h3 class="videotitle"><a href="/Some_Fitness_Must_Haves_Exclusive/?ptvid=fe8bb33dceded" title="Some Fitness Must-Haves! Exclusive">Some Fitness Must-Haves! Exclusive</a></h3>Time: 1:49<br>Added: 02/08/11<br>Views: 1,126</div><div id="videolist_item_9" class="videolist" style="display: none;"><a id="videolist_image_6a152a691843e" href="/MTV_Cribs_Manny_Pacquiao/?ptvid=6a152a691843e" target="_blank"></a><h3 class="videotitle"><a href="/MTV_Cribs_Manny_Pacquiao/?ptvid=6a152a691843e" title="MTV Cribs_ Manny Pacquiao">MTV Cribs_ Manny Pacquiao</a></h3>Time: 2:42<br>Added: 02/07/11<br>Views: 1,071</div><div id="videolist_item_10" class="videolist" style="display: none;"><a id="videolist_image_d089242d80a8e" href="/YouTube_Bizarre_Foods_Foreskin_The_Most_Bizarre_Food_Eve/?ptvid=d089242d80a8e" target="_blank"></a><h3 class="videotitle"><a href="/YouTube_Bizarre_Foods_Foreskin_The_Most_Bizarre_Food_Eve/?ptvid=d089242d80a8e" title="YouTube_-_Bizarre_Foods_-_Foreskin_The_Most_Bizarre_Food_Eve">YouTube_-_Bizarre_Foods_-_Foreskin_The_Most_Bizarre_Food_Eve</a></h3>Time: 1:21<br>Added: 02/07/11<br>Views: 4,134</div><div id="videolist_item_11" class="videolist" style="display: none;"><a id="videolist_image_6998f69ad4b79" href="/Cameron_Diaz_Feeds_A_Rod_At_Super_Bowl/?ptvid=6998f69ad4b79" target="_blank"></a><h3 class="videotitle"><a href="/Cameron_Diaz_Feeds_A_Rod_At_Super_Bowl/?ptvid=6998f69ad4b79" title="Cameron Diaz Feeds A-Rod At Super Bowl">Cameron Diaz Feeds A-Rod At Super Bowl</a></h3>Time: 0:19<br>Added: 02/07/11<br>Views: 16,751</div><div id="videolist_item_12" class="videolist" style="display: none;"><a id="videolist_image_c4e129a70f385" href="/How_To_Be_Vegetarian_AND_Healthy_Exclusive/?ptvid=c4e129a70f385" target="_blank"></a><h3 class="videotitle"><a href="/How_To_Be_Vegetarian_AND_Healthy_Exclusive/?ptvid=c4e129a70f385" title="How To Be Vegetarian AND Healthy! Exclusive">How To Be Vegetarian AND Healthy! Exclusive</a></h3>Time: 1:34<br>Added: 02/07/11<br>Views: 1,450</div><div id="videolist_item_13" class="videolist" style="display: none;"><a id="videolist_image_778de079ad6e0" href="/Philadelphia_Eagles_Surprise_A_Guest_The_View/?ptvid=778de079ad6e0" target="_blank"></a><h3 class="videotitle"><a href="/Philadelphia_Eagles_Surprise_A_Guest_The_View/?ptvid=778de079ad6e0" title="Philadelphia Eagles Surprise A Guest - The View">Philadelphia Eagles Surprise A Guest - The View</a></h3>Time: 3:43<br>Added: 02/04/11<br>Views: 45,760</div><div id="videolist_item_14" class="videolist" style="display: none;"><a id="videolist_image_43120d5c2203b" href="/Whoopi_Stands_Up_For_Smokers/?ptvid=43120d5c2203b" target="_blank"></a><h3 class="videotitle"><a href="/Whoopi_Stands_Up_For_Smokers/?ptvid=43120d5c2203b" title="Whoopi Stands Up For Smokers">Whoopi Stands Up For Smokers</a></h3>Time: 5:27<br>Added: 02/03/11<br>Views: 1,058</div><div id="videolist_item_15" class="videolist" style="display: none;"><a id="videolist_image_179af958e950c" href="/Lil_Waynes_Green_and_Yellow/?ptvid=179af958e950c" target="_blank"></a><h3 class="videotitle"><a href="/Lil_Waynes_Green_and_Yellow/?ptvid=179af958e950c" title="Lil Wayne's &quot;Green and Yellow&quot;">Lil Wayne's "Green and Yellow"</a></h3>Time: 3:41<br>Added: 02/03/11<br>Views: 14,349</div><div id="videolist_item_16" class="videolist" style="display: none;"><a id="videolist_image_f126673b86c05" href="/Justin_Bieber_Booed_At_Knicks_Game/?ptvid=f126673b86c05" target="_blank"></a><h3 class="videotitle"><a href="/Justin_Bieber_Booed_At_Knicks_Game/?ptvid=f126673b86c05" title="Justin Bieber Booed At Knicks Game">Justin Bieber Booed At Knicks Game</a></h3>Time: 0:58<br>Added: 02/03/11<br>Views: 18,353</div><div id="videolist_item_17" class="videolist" style="display: none;"><a id="videolist_image_16db7b3b9616c" href="/The_Sloppy_Roethlisberger_Epic_Meal_Time/?ptvid=16db7b3b9616c" target="_blank"></a><h3 class="videotitle"><a href="/The_Sloppy_Roethlisberger_Epic_Meal_Time/?ptvid=16db7b3b9616c" title="The Sloppy Roethlisberger - Epic Meal Time">The Sloppy Roethlisberger - Epic Meal Time</a></h3>Time: 3:18<br>Added: 02/02/11<br>Views: 1,154</div><div id="videolist_item_18" class="videolist" style="display: none;"><a id="videolist_image_db14885856ac0" href="/The_Food_Police/?ptvid=db14885856ac0" target="_blank"></a><h3 class="videotitle"><a href="/The_Food_Police/?ptvid=db14885856ac0" title="The Food Police!">The Food Police!</a></h3>Time: 2:31<br>Added: 02/02/11<br>Views: 537</div><div id="videolist_item_19" class="videolist" style="display: none;"><a id="videolist_image_fb08a7c170c39" href="/The_Skin_Gun/?ptvid=fb08a7c170c39" target="_blank"></a><h3 class="videotitle"><a href="/The_Skin_Gun/?ptvid=fb08a7c170c39" title="The Skin Gun">The Skin Gun</a></h3>Time: 3:27<br>Added: 02/02/11<br>Views: 1,260</div><div id="videolist_item_20" class="videolist" style="display: none;"><a id="videolist_image_f48fdbce2a66c" href="/Olivia_Munns_Green_Your_School_Challenge_/?ptvid=f48fdbce2a66c" target="_blank"></a><h3 class="videotitle"><a href="/Olivia_Munns_Green_Your_School_Challenge_/?ptvid=f48fdbce2a66c" title="Olivia Munn's Green Your School Challenge ">Olivia Munn's Green Your School Challenge </a></h3>Time: 0:30<br>Added: 02/01/11<br>Views: 217</div><div id="videolist_item_21" class="videolist" style="display: none;"><a id="videolist_image_958768c07b898" href="/Celebrate_The_Power_Of_A_Girl_With_Natalie_Portman/?ptvid=958768c07b898" target="_blank"></a><h3 class="videotitle"><a href="/Celebrate_The_Power_Of_A_Girl_With_Natalie_Portman/?ptvid=958768c07b898" title="Celebrate The Power Of A Girl With Natalie Portman">Celebrate The Power Of A Girl With Natalie Portman</a></h3>Time: 1:44<br>Added: 02/01/11<br>Views: 547</div><div id="videolist_item_22" class="videolist" style="display: none;"><a id="videolist_image_17cd1a58f540d" href="/How_To_Do_The_Perfect_Squat_and_Crunch/?ptvid=17cd1a58f540d" target="_blank"></a><h3 class="videotitle"><a href="/How_To_Do_The_Perfect_Squat_and_Crunch/?ptvid=17cd1a58f540d" title="How To Do The Perfect Squat &amp; Crunch!">How To Do The Perfect Squat &amp; Crunch!</a></h3>Time: 2:06<br>Added: 02/01/11<br>Views: 1,871</div><div id="videolist_item_23" class="videolist" style="display: none;"><a id="videolist_image_1724df5e8ccff" href="/Dutch_Reporter_Thrown_Into_Shower_By_Soccer_Team/?ptvid=1724df5e8ccff" target="_blank"></a><h3 class="videotitle"><a href="/Dutch_Reporter_Thrown_Into_Shower_By_Soccer_Team/?ptvid=1724df5e8ccff" title="Dutch Reporter Thrown Into Shower By Soccer Team">Dutch Reporter Thrown Into Shower By Soccer Team</a></h3>Time: 2:25<br>Added: 01/31/11<br>Views: 1,695</div><div id="videolist_item_24" class="videolist" style="display: none;"><a id="videolist_image_f5e8224defa4d" href="/Elizabeth_Berkley_Gets_Her_Pilates_On/?ptvid=f5e8224defa4d" target="_blank"></a><h3 class="videotitle"><a href="/Elizabeth_Berkley_Gets_Her_Pilates_On/?ptvid=f5e8224defa4d" title="Elizabeth Berkley Gets Her Pilates On">Elizabeth Berkley Gets Her Pilates On</a></h3>Time: 0:44<br>Added: 01/31/11<br>Views: 276</div><div id="videolist_item_25" class="videolist" style="display: none;"><a id="videolist_image_05fb40a6decf5" href="/How_To_Read_A_Label/?ptvid=05fb40a6decf5" target="_blank"></a><h3 class="videotitle"><a href="/How_To_Read_A_Label/?ptvid=05fb40a6decf5" title="How To Read A Label">How To Read A Label</a></h3>Time: 6:18<br>Added: 01/31/11<br>Views: 4,125</div><div id="videolist_item_26" class="videolist" style="display: none;"><a id="videolist_image_d5c60c77e07ea" href="/Hidden_Chemicals_Linked_To_Increased_Obesity_Risk/?ptvid=d5c60c77e07ea" target="_blank"></a><h3 class="videotitle"><a href="/Hidden_Chemicals_Linked_To_Increased_Obesity_Risk/?ptvid=d5c60c77e07ea" title="Hidden Chemicals Linked To Increased Obesity Risk">Hidden Chemicals Linked To Increased Obesity Risk</a></h3>Time: 1:17<br>Added: 01/31/11<br>Views: 104</div><div id="videolist_item_27" class="videolist" style="display: none;"><a id="videolist_image_a6edea8ea76ac" href="/Alex_Pettyfer_Loses_His_Shirt_On_Ellen/?ptvid=a6edea8ea76ac" target="_blank"></a><h3 class="videotitle"><a href="/Alex_Pettyfer_Loses_His_Shirt_On_Ellen/?ptvid=a6edea8ea76ac" title="Alex Pettyfer Loses His Shirt On Ellen">Alex Pettyfer Loses His Shirt On Ellen</a></h3>Time: 3:47<br>Added: 01/28/11<br>Views: 36,597</div><div id="videolist_item_28" class="videolist" style="display: none;"><a id="videolist_image_d14d41e85f4de" href="/Nicole_Richie_Works_Out_With_Tracy_Anderson/?ptvid=d14d41e85f4de" target="_blank"></a><h3 class="videotitle"><a href="/Nicole_Richie_Works_Out_With_Tracy_Anderson/?ptvid=d14d41e85f4de" title="Nicole Richie Works Out With Tracy Anderson">Nicole Richie Works Out With Tracy Anderson</a></h3>Time: 0:24<br>Added: 01/28/11<br>Views: 763</div><div id="videolist_item_29" class="videolist" style="display: none;"><a id="videolist_image_70144cd84c172" href="/Nelson_Mandela_Discharged_From_Hospital/?ptvid=70144cd84c172" target="_blank"></a><h3 class="videotitle"><a href="/Nelson_Mandela_Discharged_From_Hospital/?ptvid=70144cd84c172" title="Nelson Mandela Discharged From Hospital">Nelson Mandela Discharged From Hospital</a></h3>Time: 1:53<br>Added: 01/28/11<br>Views: 85</div><div id="videolist_item_30" class="videolist" style="display: none;"><a id="videolist_image_11826bd5a3296" href="/Tracy_Morgan_Says_Something_Lewd_Sarah_Palin/?ptvid=11826bd5a3296" target="_blank"></a><h3 class="videotitle"><a href="/Tracy_Morgan_Says_Something_Lewd_Sarah_Palin/?ptvid=11826bd5a3296" title="Tracy Morgan Says Something Lewd Sarah Palin">Tracy Morgan Says Something Lewd Sarah Palin</a></h3>Time: 0:41<br>Added: 01/28/11<br>Views: 10,395</div><div id="videolist_item_31" class="videolist" style="display: none;"><a id="videolist_image_49f2cdf624fcf" href="/Holly_Madisons_Fitness_Scandal/?ptvid=49f2cdf624fcf" target="_blank"></a><h3 class="videotitle"><a href="/Holly_Madisons_Fitness_Scandal/?ptvid=49f2cdf624fcf" title="Holly Madison's Fitness Scandal!">Holly Madison's Fitness Scandal!</a></h3>Time: 2:12<br>Added: 01/28/11<br>Views: 4,525</div><div style="margin: 10px;" id="videolistpager">
 	<div style="float: left;" id="videolistprev"><a href="#videobox" id="videolistprev_btn">« Previous</a></div>
 	<div style="float: right;" id="videolistnext"><a href="#videobox" id="videolistnext_btn">Next »</a></div>
 	<div style="clear: both;"></div>
@@ -590,10 +841,10 @@ FitPerez.com gives you access to a broad range of information about your account
 
     <div id="fitMostReadBox" class="sidebarbox">
 	<div id="fitMostReadHeader"></div>
-        <ul class="fitMostReadArticleList"><li class="fitMostReadList"><h3><a class="fitMostReadLink" title="Four Foods To Eat If You Overeat " href="http://fitperez.com/2010-12-09-four-foods-to-eat-if-you-overeat">Four Foods To Eat If You Overeat </a></h3></li>
-<li class="fitMostReadList"><h3><a class="fitMostReadLink" title="The 411 on Coconut Water" href="http://fitperez.com/2010-12-09-the-411-on-coconut-water">The 411 on Coconut Water</a></h3></li>
-<li class="fitMostReadList"><h3><a class="fitMostReadLink" title="Smoking One Cigarette Can Kill You!" href="http://fitperez.com/2010-12-09-new-report-from-surgeon-general-warns-one-cigarette-is-harmful-to-health">Smoking One Cigarette Can Kill You!</a></h3></li>
-<li class="fitMostReadList"><h3><a class="fitMostReadLink" title="New Ruling Says Electronic Cigarettes Regulated As Tobacco Products By The FDA" href="http://fitperez.com/2010-12-08-fda-must-regulate-electronic-cigarettes-as-tobacco-product-rather-than-drug-delivery-product">New Ruling Says Electronic Cigarettes Regulated As Tobacco Products By The FDA</a></h3></li>
+        <ul class="fitMostReadArticleList"><li class="fitMostReadList"><h3><a class="fitMostReadLink" title="Diet Soda May Cause Strokes!" href="http://fitperez.com/2011-02-11-diet-soda-not-so-healthy">Diet Soda May Cause Strokes!</a></h3></li>
+<li class="fitMostReadList"><h3><a class="fitMostReadLink" title="Carrie Underwood Banned From Ottawa Radio Station " href="http://fitperez.com/2011-02-11-carrie-underwood-banned-from-ottawa-radio-station">Carrie Underwood Banned From Ottawa Radio Station </a></h3></li>
+<li class="fitMostReadList"><h3><a class="fitMostReadLink" title="Are Lean Cuisines A Healthy Choice?" href="http://fitperez.com/2011-02-10-who-lean-is-a-lean-cuisine">Are Lean Cuisines A Healthy Choice?</a></h3></li>
+<li class="fitMostReadList"><h3><a class="fitMostReadLink" title="Bret Favre Possible Dancing With The Stars Draft Pick" href="http://fitperez.com/2011-02-11-will-he-be-voted-off-fired-or-quit-again">Bret Favre Possible <em>Dancing With The Stars</em> Draft Pick</a></h3></li>
 </ul>    </div>
 
     <div class="noipad"><script type="text/javascript">
@@ -625,13 +876,13 @@ FitPerez.com gives you access to a broad range of information about your account
 </div>
 </div>
 
-    <div id="fitGalleriesBox" class="sidebarbox"><div id="fitGalleriesHeader"><a href="http://fitperez.com/galleries"><img border="0" width="298" vspace="0" hspace="0" height="36" src="http://fitperez.com/galleries/images/empty.gif"></a></div><ul id="fitGalleriesContainer"><li><a href="http://fitperez.com/galleries/index.php?pgid=614"><span class="image" style="background-image: url(http://i.fitperez.com/galleries/images/teaser_default_photos/2010/10/wenn5537769.jpg); width: 122px; height: 184px;"></span><h3 class="fitGalleriesGalleryTitle">Men Working On Their Fitness</h3><span class="fitGalleriesGalleryInfos">Updated: 11/22/10<br>Gallery views: 123,488<br>Total photos: 10<br>[image via  Wenn ]</span><div style="clear:both;"></div></a></li><li><a href="http://fitperez.com/galleries/index.php?pgid=1589"><span class="image" style="background-image: url(http://i.fitperez.com/galleries/images/teaser_default_photos/2010/10/shirtless2.jpg); width: 122px; height: 68px;"></span><h3 class="fitGalleriesGalleryTitle">Shirtless <em>Glee</em> Hunks!</h3><span class="fitGalleriesGalleryInfos">Updated: 11/01/10<br>Gallery views: 184,405<br>Total photos: 17<br>[image via Super Hero Fan]</span><div style="clear:both;"></div></a></li><li><a href="http://fitperez.com/galleries/index.php?pgid=1373"><span class="image" style="background-image: url(http://i.fitperez.com/galleries/images/teaser_default_photos/2010/10/040608.jpg); width: 121px; height: 174px;"></span><h3 class="fitGalleriesGalleryTitle">Margaret Cho Through The Years</h3><span class="fitGalleriesGalleryInfos">Updated: 10/26/10<br>Gallery views: 118,682<br>Total photos: 20<br>[image via  Wenn ]</span><div style="clear:both;"></div></a></li><li><a href="http://fitperez.com/galleries/index.php?pgid=601"><span class="image" style="background-image: url(http://i.fitperez.com/galleries/images/teaser_default_photos/2010/10/100125fcs_katyperry_016.JPG); width: 122px; height: 183px;"></span><h3 class="fitGalleriesGalleryTitle">Celebs In Cute Workout Gear</h3><span class="fitGalleriesGalleryInfos">Updated: 10/21/10<br>Gallery views: 146,129<br>Total photos: 11<br>[image via  BuzzFoto ]</span><div style="clear:both;"></div></a></li></ul></div>    
+    <div id="fitGalleriesBox" class="sidebarbox"><div id="fitGalleriesHeader"><a href="http://fitperez.com/galleries"><img border="0" width="298" vspace="0" hspace="0" height="36" src="http://fitperez.com/galleries/images/empty.gif"></a></div><ul id="fitGalleriesContainer"><li><a href="http://fitperez.com/galleries/index.php?pgid=3310"><span class="image" style="background-image: url(http://i.fitperez.com/galleries/images/teaser_default_photos/2010/12/mel-b-perez-hilton-fitperez-holiday-party.jpg); width: 122px; height: 183px;"></span><h3 class="fitGalleriesGalleryTitle">FitPerez.com Holiday Party</h3><span class="fitGalleriesGalleryInfos">Updated: 12/13/10<br>Gallery views: 130,143<br>Total photos: 30<br>[image via John Scuilli]</span><div style="clear:both;"></div></a></li><li><a href="http://fitperez.com/galleries/index.php?pgid=2520"><span class="image" style="background-image: url(http://i.fitperez.com/galleries/images/teaser_default_photos/2010/11/wenn2918555.jpg); width: 118px; height: 190px;"></span><h3 class="fitGalleriesGalleryTitle">Actresses We Think Would Be Great For The Next Bond Girl!</h3><span class="fitGalleriesGalleryInfos">Updated: 12/13/10<br>Gallery views: 445,136<br>Total photos: 25<br>[image via WENN]</span><div style="clear:both;"></div></a></li><li><a href="http://fitperez.com/galleries/index.php?pgid=614"><span class="image" style="background-image: url(http://i.fitperez.com/galleries/images/teaser_default_photos/2010/10/wenn5537769.jpg); width: 122px; height: 184px;"></span><h3 class="fitGalleriesGalleryTitle">Men Working On Their Fitness</h3><span class="fitGalleriesGalleryInfos">Updated: 11/22/10<br>Gallery views: 148,559<br>Total photos: 10<br>[image via  Wenn ]</span><div style="clear:both;"></div></a></li><li><a href="http://fitperez.com/galleries/index.php?pgid=1589"><span class="image" style="background-image: url(http://i.fitperez.com/galleries/images/teaser_default_photos/2010/10/shirtless2.jpg); width: 122px; height: 68px;"></span><h3 class="fitGalleriesGalleryTitle">Shirtless <em>Glee</em> Hunks!</h3><span class="fitGalleriesGalleryInfos">Updated: 11/01/10<br>Gallery views: 207,530<br>Total photos: 17<br>[image via Super Hero Fan]</span><div style="clear:both;"></div></a></li></ul></div>    
     
 </div>    
   </div>
   
 	<div id="fitFooterContainer">
-		<div id="fitFooter">© 2010 FitPerez.com</div>
+		<div id="fitFooter">© 2011 FitPerez.com</div>
 	</div>
 	<h3 class="fitAboutRow">
 		<a href="http://fitperez.com/copyright-statement">Copyright statement</a> |
