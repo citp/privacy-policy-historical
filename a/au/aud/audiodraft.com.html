@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the audiodraft.com privacy policy that was archived on 2010-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101028142110id_/http%3A//www.audiodraft.com/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the audiodraft.com privacy policy that was archived on 2011-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110212225042id_/http%3A//www.audiodraft.com/legal/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <meta property="og:site_name" content="AudioDraft"><meta property="og:type" content="company"><meta property="fb:app_id" content="121074271245140">
-<meta name="keywords" content="AudioDraft, audio, draft, sketching, sourcing, social audio, collaboration, what do you sound like, crowdsourcing, custom made audio">
+<meta name="keywords" content="audio crowdsourcing,sketching,sourcing,social audio,music collaboration,what do you sound like,crowdsourcing,custom made audio,game music,game audio">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="google-site-verification" content="9M8FwA7ykWn8LWzXo8h7zRbsud3k-z6xc1u2oVd0m20">
 <link rel="SHORTCUT ICON" href="http://www.audiodraft.com/favicon.gif">
-<link href="http://www.audiodraft.com/css/general.css?ver=1285969948" rel="stylesheet" type="text/css"><link href="http://www.audiodraft.com/css/popup.css?ver=1285969948" rel="stylesheet" type="text/css"><link href="http://www.audiodraft.com/css/privacy.css?ver=1285969948" rel="stylesheet" type="text/css"><link href="http://www.audiodraft.com/css/sketching.general.css?ver=1285969948" rel="stylesheet" type="text/css"><title>AudioDraft - Privacy Policy</title>
+<link href="http://www.audiodraft.com/css/general.css?ver=1293788625" rel="stylesheet" type="text/css"><link href="http://www.audiodraft.com/css/popup.css?ver=1295454608" rel="stylesheet" type="text/css"><link href="http://www.audiodraft.com/css/privacy.css?ver=1285969948" rel="stylesheet" type="text/css"><link href="http://www.audiodraft.com/css/sketching.general.css?ver=1285969948" rel="stylesheet" type="text/css"><title>AudioDraft - Privacy Policy</title>
 
 
   <script type="text/javascript" src="http://www.audiodraft.com/sketching/swfobject/swfobject.js"></script> 
@@ -40,6 +40,7 @@ function popup(header, text, auto_remove)
 	htmlcode = htmlcode.replace("<TEXT>", text);
 	
 	var pagewidth = document.documentElement.clientWidth + document.documentElement.scrollLeft;
+	var topPosition = f_scrollTop() + 120;
 
   // Removes the existing popup - the current popup not used because different sizes might mess up
   if (document.getElementById('popup') != null)
@@ -54,12 +55,27 @@ function popup(header, text, auto_remove)
 	
 	popupbox.style.left = (pagewidth / 2) - (popupwidth / 2) + 'px'; 
 	popupbox.style.width = popupwidth+'px';
+	popupbox.style.top = topPosition+'px';
 	
 	document.body.appendChild(popupbox);
 	
 	if (auto_remove)
 		setTimeout("document.body.removeChild(document.getElementById('popup'));", 4000);
   
+}
+
+function f_scrollTop() {
+	return f_filterResults (
+		window.pageYOffset ? window.pageYOffset : 0,
+		document.documentElement ? document.documentElement.scrollTop : 0,
+		document.body ? document.body.scrollTop : 0
+	);
+}
+function f_filterResults(n_win, n_docel, n_body) {
+	var n_result = n_win ? n_win : 0;
+	if (n_docel && (!n_result || (n_result > n_docel)))
+		n_result = n_docel;
+	return n_body && (!n_result || (n_result > n_body)) ? n_body : n_result;
 }
 
 function feedback()
@@ -437,9 +453,12 @@ function updatePlayer() {
 
 function hidePlayer() {
   soundManager.stopAll();
-  document.getElementById('player_'+playingid).className = "btn_play";
-  document.getElementById('player_playbtn').className = "btn_bigplay";
-  playing = false;
+  if (playing)
+  {
+    document.getElementById('player_'+playingid).className = "btn_play";
+    document.getElementById('player_playbtn').className = "btn_bigplay";
+    playing = false;
+  }
   $('general_player_wrapper').fade();
   initPlayer();
 }
@@ -495,6 +514,11 @@ function fbLogin()
 function connectReady(originalRequest)
 {
   window.location.reload();
+}
+
+function refreshPage()
+{
+  updatePage();
 }
 
 function updatePage()
@@ -560,31 +584,26 @@ function followProject(userid, projectid)
   follow_project_id = projectid;
   var url = 'http://www.audiodraft.com/scripts/sketching/project/followProject.php';
 	var pars = 'userid=' + userid + '&projectid=' + follow_project_id;
-	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: markFollowed} );
+	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: markProjectFollowed} );
 }
 
-function markFollowed (originalRequest) 
+function markProjectFollowed()
 {
-	
 	var classname = document.getElementById('follow_'+follow_project_id).className;
 	var newclass = (classname == "btn_follow") ? "btn_unfollow" : "btn_follow";
 	
 	document.getElementById('follow_'+follow_project_id).className = newclass;
-	
-	/*var picture = originalRequest.responseText;
-	document.getElementById('follow').src = picture;
-	document.getElementById('following').onmouseout = function() { document.getElementById('follow').src=picture; };*/
-	updateFollowerCount();
+	updateProjectFollowerCount();
 }
 
-function updateFollowerCount()
+function updateProjectFollowerCount()
 {
   var url = 'http://www.audiodraft.com/scripts/sketching/project/projectFollowerCount.php';
 	var pars = 'projectid=' + follow_project_id;
-	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: updateCount} );
+	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: updateProjectCount} );
 }
 
-function updateCount (originalRequest) 
+function updateProjectCount (originalRequest) 
 {
 	var count = originalRequest.responseText;
 	document.getElementById('followercount_'+follow_project_id).innerHTML = count;
@@ -601,10 +620,10 @@ function followArtist(userid, artistid)
   follow_user_id = artistid;
   var url = 'http://www.audiodraft.com/scripts/sketching/followArtist.php';
 	var pars = 'userid=' + userid + '&artistid=' + follow_user_id;
-	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: markFollowed} );
+	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: markArtistFollowed} );
 }
 
-function markFollowed (originalRequest) 
+function markArtistFollowed (originalRequest) 
 {
 	/*var picture = originalRequest.responseText;
 	document.getElementById('follow').src = picture;
@@ -615,17 +634,17 @@ function markFollowed (originalRequest)
 	
 	document.getElementById('follow_'+follow_user_id).className = newclass;
 	
-	updateFollowerCount();
+	updateArtistFollowerCount();
 }
 
-function updateFollowerCount()
+function updateArtistFollowerCount()
 {
   var url = 'http://www.audiodraft.com/scripts/general/profile/userFollowerCount.php';
 	var pars = 'profileid=' + follow_user_id;
-	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: updateCount} );
+	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: updateArtistCount} );
 }
 
-function updateCount (originalRequest) 
+function updateArtistCount (originalRequest) 
 {
 	var count = originalRequest.responseText;
 	document.getElementById('followercount_'+follow_user_id).innerHTML = count;
@@ -633,19 +652,25 @@ function updateCount (originalRequest)
 
 /** FOLLOW USER ENDS **/
 
+function openPopupWindow (url, width, height)
+{
+  newwindow = window.open(url,'popup_window','height='+height+',width='+width);
+	if (window.focus) {newwindow.focus()}
+}
+
 </script>
 
 </head>
 
 <body onload="init()">
 <div id="header">
-<div id="beta"></div>
 <div class="wrapper">
+	<div id="beta"></div>
   	<a href="http://www.audiodraft.com/"><img id="logo" src="http://www.audiodraft.com/css/images/general/logo2.png" alt="AudioDraft"></a>
   <div id="feedback"><a href="javascript:void(0);" onclick="feedback();">Feedback</a></div>
 	<div class="menu_container"><div class="menu_info">Not registered yet? <a class="menu_info" href="http://www.audiodraft.com/signin/register.php">Sign up now!</a></div><div id="menu"><a id="signin" href="http://www.audiodraft.com/signin/"></a></div></div><div class="menu_nav1">
 	<ul>
-		<li class="menu_nav1"><div class="menu_nav1_left"></div><div class="menu_nav1_right"></div><a href="http://www.audiodraft.com/sourcing/">Contests</a></li><div class="menu_nav1_space"></div><li class="menu_nav1"><div class="menu_nav1_left"></div><div class="menu_nav1_right"></div><a href="http://www.audiodraft.com/sketching/">Community</a></li><div class="menu_nav1_space"></div><li class="menu_nav1"><div class="menu_nav1_left"></div><div class="menu_nav1_right"></div><a href="http://www.audiodraft.com/sourcing/howitworks/">How it works</a></li>	</ul>
+		<li class="menu_nav1" id="menu_nav1_2"><div class="menu_nav1_left"></div><div class="menu_nav1_right"></div><a href="http://www.audiodraft.com/sourcing/">Contests</a></li><li class="menu_nav1_space"></li><li class="menu_nav1" id="menu_nav1_3"><div class="menu_nav1_left"></div><div class="menu_nav1_right"></div><a href="http://www.audiodraft.com/sketching/">Community</a></li><li class="menu_nav1_space"></li><li class="menu_nav1" id="menu_nav1_4"><div class="menu_nav1_left"></div><div class="menu_nav1_right"></div><a href="http://www.audiodraft.com/sourcing/howitworks/">How it works</a></li>	</ul>
 	<div class="clear"></div>
 </div>
 </div></div>	<div class="menu_nav2">
@@ -742,7 +767,7 @@ The user may at any time contact the Controller at the address below.
 </div>
 <div id="footer">
 	<div class="wrapper">
-		<div class="footer_column">
+		<div class="footer_column" id="footer_column_first">
 			<div class="footer_column_header"><a href="http://www.audiodraft.com">AudioDraft</a></div>
 			<div class="separator_dark"></div>
 			<div class="footer_column_content"><a href="http://www.audiodraft.com/faq/">FAQ</a></div>
@@ -771,11 +796,12 @@ The user may at any time contact the Controller at the address below.
 		<div class="footer_column">
 			<div class="footer_column_header" id="footer_column_header_notlink">Follow us</div>
 			<div class="separator_dark"></div>
-			<!--<div class="footer_column_content"><a href="http://www.audiodraft.com/blog/">Blog</a></div>-->
+			<div class="footer_column_content"><a href="http://blog.audiodraft.com/">Blog »</a></div>
 			<div class="footer_column_content"><a href="http://www.facebook.com/AudioDraft">Facebook »</a></div>
 			<div class="footer_column_content"><a href="http://twitter.com/audiodraft">Twitter »</a></div>
 		</div>
 	</div>
+	<div class="clear"></div>
 </div>
 	
 <div id="general_player_wrapper" style="display:none;">
@@ -823,7 +849,7 @@ The user may at any time contact the Controller at the address below.
   }
   
 </script>
-
+<div class="clear"></div>
 
 
 </div></body></html>
