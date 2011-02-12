@@ -1,0 +1,326 @@
+<!--The following is the downloaded HTML source of the biggerbidder.net privacy policy that was archived on 2011-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110212132452id_/http%3A//www.biggerbidder.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Bigger Bidder :: Where Buyers and Sellers Win!</title>
+        <link href="css/main.css" rel="stylesheet" type="text/css">
+
+        <script src="js/jquery-1.4.2.min.js" type="text/javascript"></script>
+        <script type="text/javascript" src="js/jquery.pngFix.pack.js"></script>
+    <style type="text/css">@media screen,projection{.cufon-canvas{display:inline;display:inline-block;position:relative;vertical-align:middle;font-size:1px;line-height:1px}.cufon-canvas .cufon-alt{display:none}.cufon-canvas canvas{position:relative}}@media print{.cufon-canvas{padding:0 !important}.cufon-canvas canvas{display:none}.cufon-canvas .cufon-alt{display:inline}}</style></head>
+
+    <body>
+        <script type="text/javascript" src="livesupport/js/support.js"></script>
+<script type="text/javascript" src="livesupport/js/cufon-yui.js"></script>
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="icon" href="favicon.gif" type="image/gif">
+
+<script language="javascript" type="text/javascript">
+    var CurrencySymbol='$';
+    var enableTimerDelayer=false;
+
+    function _delete_login_fields(_field, _default, _current) { if (_default == _current) { _field.value=''; } }
+
+    function onBeforeUnloadAction() 
+    {
+        $.ajax({
+            type: "GET",
+            url: "updatelogin.php",
+            success: function(responseData){
+            }
+        });
+
+    }
+
+    window.onbeforeunload = function(f) 
+    {
+        if (!f) f = window.event;
+        if (typeof f.pageX == "number") { X = f.pageX; Y = f.pageY; } else { X = f.clientX; Y = f.clientY; };
+        if((X<0) || (Y<0)) { return onBeforeUnloadAction(); }
+    }
+
+    function UpdateLoginLogout() 
+    {
+        $.ajax({
+            type: "GET",
+            url: "updatelogin.php",
+            success: function(responseData){
+            }
+        });
+    }
+</script>
+
+<!--BEGIN TOP BAR-->
+<div style="width:100%; margin:0; padding:0; height: 5px;  background-color:#333;">
+  <div style="width:1000px; margin:0 auto; padding:0; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; color:#fff;">
+      </div>
+</div>
+<!--END TOP BAR-->
+
+        <div id="centerholder">
+            <!-- HEADER -->
+            <script type="text/javascript">
+    function CheckSearch()
+    {
+        if(document.searchform.searchtext.value=="")
+            return false;
+        else
+            return true;
+    }
+</script>
+
+<div id="logo"> 
+<!--- BETA ---> <a href="index.php"><img src="img/logo-beta.jpg" alt="BiggerBidder.com" width="254" height="107" border="0"></a>
+<!--- LIVE <a href="index.php"><img src="img/blogo2.gif" alt="BiggerBidder.com" width="254" height="107" /></a>--->
+</div>
+
+<div id="searchbox" style="width:740px;">
+
+<!--BEGIN SEARCH AREA-->
+<div style="width:255px; height:30px; overflow:hidden; background:url(images/top/search_box.jpg) no-repeat top left; padding:0px 8px; padding-top:2px; float:right; clear:both; margin-top:-10px;">
+<form accept-charset="utf-8" id="searchForm" name="searchform" action="allauctions.php" onsubmit="return CheckSearch();" method="post">
+<input name="searchtext" type="text" style="background:url(images/top/search_bg.jpg) no-repeat left center #fff; border:#c7c5c2 solid 1px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; padding-left:20px; height:20px; line-height:20px; width:205px; float:left;" value="">
+<input type="image" src="images/top/search_bt.jpg" style="margin-left:4px; float:left;">
+</form>
+</div>
+<!--END SEARCH AREA-->
+
+                    <!--- SLOGAN AND FACEBOOK--->
+                    <div id="under_login" style="padding-right:5px;">
+                      <div style="float:left;width:250px;">
+                       <div style="margin-top:10px;">
+                       <img src="img/slogan3.png"><br>
+                       </div>
+                       <!--- Facebook Like --->
+                       <div style="margin-left:43px;">
+                       <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FBigger-Bidder%2F153176728059031%3Fv%3Dinfo%23%21%2Fpages%2FBigger-Bidder%2F153176728059031&amp;layout=standard&amp;show_faces=false&amp;width=250&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:35px;" allowtransparency="true"></iframe>
+                       </div>
+                       <!--- End Facebook Like --->
+                      </div>
+                     
+                   <!--- LOGIN FORM --->
+                   <div style="float:right;width:270px;">
+                  <br>
+                  <form name="f1" action="password.php" method="post" accept-charset="utf-8">
+                    <div style="padding-bottom:5px;width:270px;float:right;margin-right:-5px;">
+                     <div style="float:left;">
+                      <label style="padding-right:4px;font-size:10px;font-weight:bold;color:#323232;"><span style="float:left;">Username:</span></label><br>
+                      <input type="text" name="username" id="username" class="loginform">
+                     </div>
+                     <div style="float:right;">
+                       <label style="padding-right:4px;font-size:10px;font-weight:bold;color:#323232;"><span style="float:left;">Password:</span></label><br>
+                       <input type="password" name="password" id="password" class="loginform">
+                     </div>
+                    </div>
+                        <input type="hidden" name="returnURL" value="">
+                        <input type="hidden" name="fid" value="">
+                        <input type="hidden" name="tid" value="">
+
+                    <span style="font-size:10px;"><a href="forgotpassword.php">Forgot Password?</a></span>&nbsp;<input type="image" src="img/buttons/redsignin.gif" style="vertical-align:middle;">
+                </form>
+                              </div>
+</div>
+<!---
+<br> 
+   <div style="float:right;padding-right:5px;">
+        <form accept-charset="utf-8" id="searchForm" name="searchform" action="allauctions.php" onsubmit="return CheckSearch();" method="post">
+            <input type="text" name="searchtext" id="keywords" value="" class="searchform" />
+            <button type="submit" class="signinbutton"></button>
+        </form>
+    </div>
+--->
+</div>
+
+            <!-- RED MENU -->
+
+            <div id="mainbody">
+                
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('#auc_cat').change(function(){
+            //alert(document.location);
+            if($('#auc_cat').val()!=''){
+                document.location = $('#auc_cat').val();
+            }
+        });
+    });
+
+</script>
+
+<div id="redmenu">
+            <div class="tprev"><a href="index.php">Auctions</a></div>
+    <!---
+            <div class="tprev"><a href="categories.php">Categories</a></div>
+    --->
+
+  
+  
+
+    
+
+
+            <div class="tprev"><a href="aboutus.php">How it Works?</a></div>
+
+
+                <div class="taccount"><a href="registration.php">Sign Up</a></div>
+    
+                    
+
+        <div class="thome"><a href="help.php">Help</a></div>
+
+    <div style="float: right; width: 210px;  padding-top: 10px;">
+        <!---<select id="auc_cat">
+            <option value="">Select A Category</option>
+            <option value="allauctions.php?aid=2">All Categories(144)</option>
+            <option value="allauctions.php?aid=4">Reverse Auction(0)</option>
+            <option value="allauctions.php?aid=5">Lowest Unique Auction(0)</option>
+                            <option value="allauctions.php?id=24">&#8226; Books (0)</option>
+                            <option value="allauctions.php?id=30">&#8226; DVDs, CDs and Video Games (7)</option>
+                            <option value="allauctions.php?id=31">&#8226; Clothing and Shoes (0)</option>
+                            <option value="allauctions.php?id=32">&#8226; Electronics (34)</option>
+                            <option value="allauctions.php?id=33">&#8226; Health and Beauty (1)</option>
+                            <option value="allauctions.php?id=34">&#8226; Home and Garden (9)</option>
+                            <option value="allauctions.php?id=35">&#8226; Jewelry and Watches (1)</option>
+                            <option value="allauctions.php?id=36">&#8226; Toys (0)</option>
+                            <option value="allauctions.php?id=37">&#8226; Sports and Outdoor (1)</option>
+                            <option value="allauctions.php?id=38">&#8226; Bid Packs (16)</option>
+                            <option value="allauctions.php?id=9999">&#8226; Other (73)</option>
+                            <option value="allauctions.php?id=40">&#8226; Collectibles (2)</option>
+                            <option value="allauctions.php?id=41">&#8226; Services (0)</option>
+            
+            <option value="allauctions.php?aid=1">Future Auctions(0)</option>
+            <option value="allauctions.php?aid=3">Ended Auctions(1143)</option>
+        </select>--->
+    </div>
+</div>
+                <div class="shadow" style="height: 30px; clear:both"></div>
+                <div id="contentsidebarsmall">
+                         
+<ul>
+
+    <li><a href="aboutus.php">How it works</a></li>
+    <li><a href="contact.php">Contact</a></li>
+    <li><a href="terms.php">Terms &amp; Conditions</a></li>
+    <li><span class="red-text-12-b">Privacy Policy</span></li>
+    <li><a href="unsubscribe.php">Unsubscribe</a> </li>
+    <li><a href="help.php">Help</a></li>
+
+</ul>
+<br>
+                </div>
+                <div id="contentbody">
+                    <h1>Privacy Policy</h1>
+                    <br>
+                    <br>
+                    <div id="paynow" style="margin-left: 0px; width: 650px;">
+                        <div id="tab1" style="padding:10px;">
+                            <p><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="font-size: 11pt">Effective Date: November 23, 2010&nbsp;</span><span style="font-size: 11pt">&nbsp;</span></font></font></font></p><span style="font-size: 11pt"><p><br><font face="georgia,palatino"><font size="2"><font color="#000000"><strong><u><span style="font-size: 11pt">BiggerBidder™ Website <strong>Privacy Policy</strong></span></u></strong><span style="font-size: 11pt">&nbsp;</span></font></font></font></p></span><span style="font-size: 11pt"><p><br><font face="georgia,palatino"><font size="2"><font color="#000000"><span>Thank you for visiting the BiggerBidder™ website located at www.biggerbidder.com (the “Site”).<span>&nbsp; </span>The Site is an Internet property of JMB Marketing, LLC (“BiggerBidder™,” “we” or “us”).<span>&nbsp; </span>BiggerBidder™ has created this Privacy Policy in order to disclose our information gathering and dissemination practices. <span>&nbsp;</span>We understand the importance that Internet users place on privacy and have designed our Site with this in mind. <span>&nbsp;</span>BiggerBidder™ is fully committed to 100% permission-based marketing. <span>&nbsp;</span>You agree to this Privacy Policy, in its entirety, when you: (a) access or use our Site; and/or (b) register as a Member (as that term is defined in the BiggerBidder™ Website Terms and Conditions (the “Terms and Conditions”)), which provides you with access to: (i) the auction-style Marketplace; (ii) User History (as defined below), which includes comments, feedback and ratings regarding the Sellers and Buyers participating on the Site; and/or (iii) other BiggerBidder Services.</span><span>&nbsp;</span></font></font></font></p></span><span><p><br><font face="georgia,palatino"><font size="2"><font color="#000000"><span>Any capitalized terms not defined herein shall have the meaning set forth in the Terms and Conditions.</span><span style="font-size: 11pt">&nbsp;</span></font></font></font></p></span><span style="font-size: 11pt"><p><br><font face="georgia,palatino"><font size="2"><font color="#000000"><strong><span style="color: black; font-size: 11pt">If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information (as defined below) to any third-party for marketing purposes, please contact us at </span><span style="font-size: 11pt">cservice@biggerbidder.com<span style="color: black">.</span> <span>&nbsp;</span>Please be advised that where California residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law.</span></strong><span style="font-size: 11pt">&nbsp;</span> </font></font></font></p></span><p><br><span style="font-size: 11pt"><strong><font face="georgia,palatino" size="2" color="#000000">Information Collected </font></strong></span></p><span style="font-size: 11pt"><p><br><span style="font-size: 11pt"><strong><font face="georgia,palatino" size="2" color="#000000">Services</font></strong></span></p></span><span style="font-size: 11pt"><p><br><font face="georgia,palatino"><font size="2"><font color="#000000"><span class="cssmain"><span style="font-size: 11pt">To accomplish our goal of fostering interaction between our Site’s Buyers and Sellers, making the Marketplace valuable to Members, providing the </span></span><span style="font-size: 11pt">BiggerBidder</span><span class="cssmain"><span style="font-size: 11pt"> Services and providing other </span></span><span style="font-size: 11pt">products and/or services,</span><span class="cssmain"><span style="font-size: 11pt"> we may need to gather personal information on the Membership application form, and other registration forms, which may include, without limitation: </span></span><span style="font-size: 11pt">your: (a) full name; (b) mailing address; (c) e-mail address; (d) date of birth; (e) gender; (f) credit card number and associated information; (g) PayPal® account information; and/or (h) <strong><span style="color: black; font-weight: normal">any other information requested by us on the applicable registration form</span></strong> (collectively, “Registration Data”).<span>&nbsp; </span><span style="color: black">For purposes of this Privacy Policy, items (f) and (g) in the preceding sentence shall be considered “Sensitive Information.”<span>&nbsp; </span></span>The aforementioned Registration Data, together with information regarding your transactions with BiggerBidder™ (which may include, but is not limited to, your payment history) is referred to collectively herein as “Personal Information.”<span>&nbsp; </span><strong>We may also collect your Personal Information when you otherwise agree to the terms of this Privacy Policy at the Site, but do not complete the full registration process</strong><strong>.</strong><span>&nbsp;&nbsp;</span></span><span style="font-size: 11pt">&nbsp;</span></font></font></font></p></span><span style="font-size: 11pt"><p><br><span style="font-size: 11pt"><strong><font face="georgia,palatino" size="2" color="#000000">Use of Personal Information</font></strong></span></p></span><span style="font-size: 11pt"><p><br><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="font-size: 11pt">Any Personal Information that you submit at the Site remains your property. <span>&nbsp;</span>However, by submitting that information to us, you grant to us the right to use your Personal Information (other than Sensitive Information), subject to applicable state and federal law, for any legal purpose including, without limitation: (a) marketing purposes, such as sharing or transferring your information (other than Sensitive Information) with/to third-party advertisers; (b) providing promotional offers to you by means of e-mail advertising, telemarketing, SMS text-based marketing (where and to the extent permitted by applicable law), direct mail marketing, pop-ups, pop-unders and/or online banner advertising; (c) tracking compliance with our <u><a href="../terms.php">Terms and Conditions</a></u> and, if applicable, the <u><a href="../seller_agreement.php">BiggerBidder Seller Agreement</a></u> (“Seller Agreement”) </span><span style="color: #1f497d">; </span><span style="font-size: 11pt">and (d) for validation, suppression, content improvement and feedback purposes. <span>&nbsp;</span></span><span style="font-size: 11pt">Without limiting the generality of the foregoing, we reserve the right to share, sell, rent, lease and/or otherwise distribute </span><span style="font-size: 11pt">any and all </span><span style="font-size: 11pt">Personal Information (other than Sensitive Information) </span><span style="font-size: 11pt">with/to any third-party for any and all uses permitted by this Privacy Policy and applicable law.<span>&nbsp; </span></span><span style="font-size: 11pt">These third-parties may include, without limitation, providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation, telemarketers, e-mail marketers and SMS text-based marketers (where and to the extent permitted by applicable law).<span>&nbsp; </span>We may also use your Personal Information for any marketing and survey purpose on our own behalf and that of our affiliates and subsidiaries. <span>&nbsp;</span>BiggerBidder™ may disclose Personal Information to third-party agents and independent contractors that help us conduct our marketing and survey efforts. <span>&nbsp;</span>You agree that we may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your continued use of the Site. </span></font></font></font></p></span><span style="font-size: 11pt"><p><br><span style="font-size: 11pt"><font face="georgia,palatino"><font size="2"><font color="#000000">We also reserve the right to release current or past member/user information in the event that: (i) we believe that the Site, Marketplace and/or BiggerBidder Services is/are being or has been used to commit unlawful acts; (ii) if the information is subpoenaed or otherwise required in a court proceeding; (iii) in the event that you violate or breach an agreement with BiggerBidder™; (iv) we believe that you will harm the property or rights of BiggerBidder™ or those of BiggerBidder’s™ Members, partners and/or affiliates; (v) if we are sold or acquired; or (vi) when we otherwise deem it necessary or appropriate.&nbsp;<span>&nbsp;</span></font></font></font></span></p></span><span style="font-size: 11pt"><span><p><br><span style="font-size: 11pt"><font face="georgia,palatino"><font size="2"><font color="#000000">By agreeing to this Privacy Policy, you hereby consent to disclosure of any record or communication to any third-party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the requirements of the CAN-SPAM Act of 2003, as amended from time to time (“CAN-SPAM”).<span>&nbsp; </span></font></font></font></span></p></span></span><span style="font-size: 11pt"><span><p><br><span><font face="georgia,palatino" size="2" color="#000000">By registering at the Site, you agree that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “Rule”) and applicable state do-not-call regulations.<span>&nbsp; </span>As such, notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, and/or on applicable state do-not-call lists, we retain the right to contact you via telemarketing in accordance with the Rule and applicable state do-not-call regulations.</font></span></p></span></span><span><p><br><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="color: black; font-size: 11pt">In addition, by submitting your Personal Information at the Site, you agree to receive mobile marketing including, but not limited to, text-message based marketing, from us and our third party advertisers and marketers (where, and to the extent that, such marketing is permitted by applicable law).<span>&nbsp; </span></span><span style="font-size: 11pt">As such, notwithstanding<span style="color: black"> that your mobile telephone number may be listed on state and/or federal Do-Not-Call registries, we retain the right to contact you via text-message based marketing in accordance with applicable state and federal law.<span>&nbsp; </span>Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone and other mobile data with/to any third-party for any and all </span><span style="display: none; color: red">marketing and </span><span style="color: black">non-marketing uses permitted by this Privacy Policy and applicable law.</span></span> </font></font></font></p></span><p><br><span style="font-size: 11pt"><strong><font face="georgia,palatino" size="2" color="#000000">Use of Sensitive Information</font></strong></span></p><span style="font-size: 11pt"><p><br><span style="font-size: 11pt; font-weight: normal"><font face="georgia,palatino" size="2" color="#000000">To the extent that BiggerBidder™ collects your credit card and/or PayPal®-specific information, if ever, we will use that information to process and complete any BiggerBidder Service-related transactions that you request. <span>&nbsp;</span>By submitting your credit card information to us, you authorize BiggerBidder™ to periodically verify that your credit card account continues to be a valid and active one by charging, and thereafter immediately crediting, a small sum to the card. <span>&nbsp;</span>Such verification may be conducted through a third-party and, in that case, BiggerBidder™ would share your specific credit card information with this third-party for verification purposes. <span>&nbsp;</span>Apart from said uses, we will not share your credit card information with any third-parties (other than as set forth above and with consumer credit agencies) without your prior informed consent. <span>&nbsp;</span>Notwithstanding the foregoing, BiggerBidder™ reserves the right to share with third-parties the fact that we have credit card information on file for specific users, but we will not share your specific credit card information with third-parties without your prior informed consent.&nbsp;</font></span></p></span><span><p><br><strong><font face="georgia,palatino" size="2" color="#000000">Transaction E-mails </font></strong></p></span><strong><span style="font-size: 11pt"><p><br><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="font-size: 11pt">In order to facilitate communication regarding payment and shipment for the Products featured in the auctions on the Site, the email address of each Winner will be made available to the applicable Seller whose Product was featured in the subject auction and, in turn, the e-mail address of that Seller shall be made available to the Winner. </span><span style="font-size: 11pt">Where you participate in an auction on the Site, you agree that your e-mail address may be shared with the applicable: (a) auction Winner where you are a Seller; and (b) Seller where you are the auction Winner. <span>&nbsp;</span>E-mail messages that you receive from Sellers and/or Buyers may contain comments, opinions, information and other content that is provided directly by such Sellers and/or Buyers.<span>&nbsp; </span>BiggerBidder™ shall have no obligations and incur no liabilities to you or any other Members in connection with any such comments, opinions, information and/or other content appearing within such e-mail messages. Further, BiggerBidder™ has no responsibility or liability relating to the security measures taken, and any use of your e-mail address, by any applicable Buyer and/or Seller.</span></font></font></font></p></span></strong><span style="font-size: 11pt"><p><br><span><font face="georgia,palatino"><font size="2"><font color="#000000"><strong>User History</strong><span style="font-size: 11pt"> </span></font></font></font></span></p></span><span class="cssblacktitlebold"><span style="font-size: 11pt"><p><br><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="font-size: 11pt">As part of the <span>BiggerBidder</span> Services, after a Buyer has purchased a Product from a Seller via an auction on the Site, the Buyer and Seller involved in the transaction can assign ratings (“Ratings”) to the other, as well as enter comments regarding their experience (“Feedback” and together with the Ratings, “User History”).<span>&nbsp; </span>Only a Buyer and Seller directly involved in a transaction together can provide User History with respect to the other.<span>&nbsp; </span><span>User History is not designed for any purpose other than for facilitating transactions between Buyers and Sellers.<span>&nbsp; </span></span></span><span class="cssblacktitlebold"><span style="font-size: 11pt">If you provide User History on the Site, you should be aware that any personally identifiable information that you submit there can be read, collected or used by other users of these forums, and could be used to send you unsolicited messages.<span>&nbsp; </span>We are not responsible for the personally identifiable information that you choose to submit in connection with User History.</span></span><span style="font-size: 11pt">&nbsp;</span> </font></font></font></p></span></span><p><span style="font-size: 11pt"><strong><font face="georgia,palatino" size="2" color="#000000">Non-Personal Information</font></strong></span></p><strong><span style="font-size: 11pt"><p><br><span style="font-size: 11pt"><font face="georgia,palatino" size="2" color="#000000">We automatically track certain non-personally identifiable information based upon your behavior on the Site.<span>&nbsp; </span>This non-personally identifiable information may include the URL that you just came from, your computer browser information and your Internet Protocol (“IP”) address.<span>&nbsp; </span>Your IP address is a unique Internet “address” which is assigned to you by your Internet Service Provider (“ISP”).<span>&nbsp; </span>While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual using the Internet.<span>&nbsp; </span>Your IP address can, however, reveal what geographic area you are connecting from, or which ISP you are using. Finally, the other websites that you visit have IP addresses, and we may collect the IP addresses of those websites and their pages, as well. </font></span></p></span></strong><span style="font-size: 11pt"><p><br><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="font-size: 11pt">We use the non-personally identifiable information that we collect to improve the design and content of our Site and to enable us to personalize your Internet experience.<span>&nbsp; </span>We also may use this information in the aggregate to analyze Site usage, as well as to offer you products and services.<span>&nbsp; </span>We may share with third-parties certain Site usage information for the purpose of tracking the performance of the Marketplace, <span>BiggerBidder</span> Services, other Site functions and upgrading visitor information used in reporting statistics.<span>&nbsp; </span>For this purpose, we may track some of the pages that you visit at our Site through the use of pixel tags (also called clear gifs).<span>&nbsp; </span>By submitting information at and/or registering at the Site, you agree to allow us to share such Site usage information with third-parties.</span><span style="font-size: 11pt">We also may use “cookies” to enhance your experience in using our Site.<span>&nbsp; </span>Cookies are text files that we place in your computer's browser to store your preferences.<span>&nbsp; </span></span></font></font></font></p></span><span style="font-size: 11pt"><span><p><br><font face="georgia,palatino" size="2" color="#000000">We use cookies to understand Site usage, to personalize your experience and to improve the Marketplace, <span>BiggerBidder</span> Services and other offerings on our Site.<span>&nbsp; </span>To find out more about cookies, please visit </font><a href="http://www.cookiecentral.com/"><strong><font face="georgia,palatino" size="2" color="#000000">www.cookiecentral.com</font></strong></a><font face="georgia,palatino"><font size="2"><font color="#000000">.<span>&nbsp; </span>To disable and reject certain Cookies, please reference the above website for specific browser disabling information.<span>&nbsp; </span>Where a user rejects a cookie, he or she may not be able to access and/or use all features on the Site.<strong><span style="font-size: 11pt">&nbsp;</span></strong></font></font></font></p></span></span><span><p><br><strong><font face="georgia,palatino" size="2" color="#000000">Aggregate Information</font></strong></p></span><p><strong><span style="font-size: 11pt"><br></span></strong><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="font-size: 11pt">BiggerBidder™ reserves the right to transfer and/or sell aggregate or group data about BiggerBidder™ users for lawful purposes.<span>&nbsp; </span>Aggregate or group data is data that describes the demographics, usage or other characteristics of BiggerBidder™ users as a group without disclosing personally identifiable information. Subject to applicable state and federal law, by submitting your Personal Information to, and/or using the Site, you agree to allow BiggerBidder™ to transfer and/or sell such aggregate data to third-parties.</span><span style="font-size: 11pt">&nbsp;</span> </font></font></font></p><h1 style="margin-top: 0in; margin-right: 0in; margin-bottom: 0pt; margin-left: 0in"><span style="font-size: 11pt"><font face="georgia,palatino" size="2" color="#000000">Other Websites/Third-Party Privacy Practices</font></span></h1><h1 style="margin-top: 0in; margin-right: 0in; margin-bottom: 0pt; margin-left: 0in"><span style="font-size: 11pt"><br></span><font face="georgia,palatino" size="2" color="#000000">&nbsp;</font></h1><p><span style="font-size: 11pt"><font face="georgia,palatino"><font size="2"><font color="#000000">The Site may contain links to other third-party owned and/or operated websites including, but not limited to, websites owned and/or operated by Buyers and/or Sellers. <span>&nbsp;</span>BiggerBidder™ is not responsible for the privacy practices of such third parties, or the content of such websites. <span>&nbsp;</span>In some cases, you may be able to make a purchase through or from one of these third-parties. <span>&nbsp;</span>In these instances, you may be required to provide certain information, such as a PayPal® information, credit card number and/or shipping address, to register or complete a transaction with such third party. <span>&nbsp;</span>These third-parties and/or third-party websites have separate privacy and data collection practices and BiggerBidder™ has no responsibility or liability relating to them.<span>&nbsp; </span>We do not endorse, nor are we responsible for the accuracy of, the privacy policies and/or terms and conditions of each Buyer, Seller or third-party advertiser that may advertise at the Site. <span>&nbsp;</span>The Buyers, Sellers and entities that advertise and/or place banner ads at the Site are independent third-parties and are not affiliated with us.<span>&nbsp;</span></font></font></font></span></p><p><span style="font-size: 11pt"><span><br><font face="georgia,palatino" size="2" color="#000000">&nbsp;</font></span></span><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="font-size: 11pt">&nbsp;</span> </font></font></font></p><h1 style="margin-top: 0in; margin-right: 0in; margin-bottom: 0pt; margin-left: 0in"><span style="font-size: 11pt"><font face="georgia,palatino" size="2" color="#000000">Security </font></span></h1><h1 style="margin-top: 0in; margin-right: 0in; margin-bottom: 0pt; margin-left: 0in"><span style="font-size: 11pt"><br></span><font face="georgia,palatino" size="2" color="#000000">&nbsp;</font></h1><p><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="font-size: 11pt">All collected information is stored in a technically and physically secure environment. </span><span class="cssmain"><span style="font-size: 11pt">When our registration/application process asks users to enter Sensitive Information, and when we store and transmit such Sensitive Information, that Sensitive Information is encrypted and is protected with SSL encryption software.<span>&nbsp; </span>While we use SSL encryption to protect Sensitive Information online, we also do everything in our power to protect all Personal Information both online and off-line.<span>&nbsp; </span></span></span><span style="font-size: 11pt">Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. <span>&nbsp;</span>As a result, while we strive to protect your Personal Information, we cannot ensure or warrant the security of any Personal Information that you transmit to us, and you do so at your own risk. <span>&nbsp;</span></span><span style="font-size: 11pt">&nbsp;</span><span style="font-size: 11pt">Once we receive your transmission, we make reasonable efforts to ensure its security on our systems. <span>&nbsp;</span>Access to your Personal Information is strictly limited, and not accessible to the public. <span>&nbsp;</span></span><span class="cssmain"><span style="font-size: 11pt">All of our users’ </span></span><span style="font-size: 11pt">Personal Information</span><span class="cssmain"><span style="font-size: 11pt">, not just Sensitive Information, is restricted in our offices.<span>&nbsp; </span>Only employees who need the information to perform a specific job (for example a customer service representative) are granted access to </span></span><span style="font-size: 11pt">Personal Information</span><span class="cssmain"><span style="font-size: 11pt">.<span>&nbsp; </span></span></span><span style="font-size: 11pt">Our employees are dedicated to ensuring the security and privacy of all BiggerBidder™ users’ Personal Information. <span>&nbsp;</span>Employees not adhering to our security policies are subject to disciplinary action.<span>&nbsp; </span>In compliance with applicable federal and state law, we shall notify you and any applicable regulatory agencies in the event that we learn of an information security breach with respect to your Personal Information.<span>&nbsp; </span>You will be notified via e-mail in the event of such a breach.<span>&nbsp; </span>Please be advised that notice may be delayed in order to address the needs of law enforcement, determine the scope of network damage and to engage in remedial measures.<span>&nbsp;&nbsp;</span></span><span style="font-size: 11pt">&nbsp;</span></font></font></font></p><span style="font-size: 11pt"><p><br><strong><span style="font-size: 11pt"><font face="georgia,palatino" size="2" color="#000000">Deleting and Updating Your Information</font></span></strong></p></span><p><strong><span style="font-size: 11pt"><br></span></strong><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="font-size: 11pt">At your request, we will inform you of what Personal Information we have on file for you.<span>&nbsp; </span>In addition, at your request, we will remove Personal Information that you have provided to us, or that we have collected.<span>&nbsp; </span>You may contact us via e-mail at: cservice@biggerbidder.com.<span>&nbsp; </span>Please be advised that instructing us to delete your Personal Information will only result in the deletion of the Personal Information contained in our database.<span>&nbsp; </span>This deletion will not change or delete Personal Information which may have already been shared with third parties, all as provided above in this Privacy Policy.<span>&nbsp; </span>You will need to contact the third parties that contact you directly to change your preferences regarding their use of your Personal Information.</span><span style="font-size: 11pt">&nbsp;</span> </font></font></font></p><p>&nbsp;</p><h1 style="margin-top: 0in; margin-right: 0in; margin-bottom: 0pt; margin-left: 0in"><span style="font-size: 11pt"><font face="georgia,palatino" size="2" color="#000000">Opt-Out/Unsubscribe </font></span></h1><h1 style="margin-top: 0in; margin-right: 0in; margin-bottom: 0pt; margin-left: 0in"><span style="font-size: 11pt"><br></span><font face="georgia,palatino" size="2" color="#000000">&nbsp;</font></h1><p><span style="font-size: 11pt"><font face="georgia,palatino"><font size="2"><font color="#000000">To stop receiving future communications from BiggerBidder™, <span style="color: black">please contact us at </span>cservice@biggerbidder.com. <span>&nbsp;</span>During registration, application, purchase and/or when you otherwise submit Personal Information to us at the Site, you have opted-in and authorized us to share your Personal Information (other than Sensitive Information) with third-parties for marketing purposes. <span>&nbsp;</span>When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use of your information.<span>&nbsp; </span>To opt-out of having your information shared with third-parties, <span style="color: black">please contact us at </span>cservice@biggerbidder.com.<span>&nbsp; </span>When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use of your information.<span>&nbsp; </span></font></font></font></span></p><p><span style="font-size: 11pt"><span><br></span></span><font face="georgia,palatino" size="2" color="#000000">&nbsp;</font></p><h1 style="text-align: justify; margin-top: 0in; margin-right: 0in; margin-bottom: 0pt; margin-left: 0in"><span style="font-size: 11pt"><font face="georgia,palatino" size="2" color="#000000">Minors </font></span></h1><h1 style="text-align: justify; margin-top: 0in; margin-right: 0in; margin-bottom: 0pt; margin-left: 0in"><span style="font-size: 11pt"><br></span><font face="georgia,palatino" size="2" color="#000000">&nbsp;</font></h1><p><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="font-size: 11pt">No information should be submitted to, or posted at, the Site by visitors under eighteen (18) years of age.<span>&nbsp; </span>Persons under eighteen (18) years of age are not permitted to access the Site.<span>&nbsp; </span>We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.</span><span style="font-size: 11pt">&nbsp;</span></font></font></font></p><p><span style="font-size: 11pt"><br></span><font face="georgia,palatino" size="2" color="#000000">&nbsp;</font></p><h1 style="text-align: justify; margin-top: 0in; margin-right: 0in; margin-bottom: 0pt; margin-left: 0in"><span style="font-size: 11pt"><font face="georgia,palatino" size="2" color="#000000">Changes in Privacy Policy </font></span></h1><h1 style="text-align: justify; margin-top: 0in; margin-right: 0in; margin-bottom: 0pt; margin-left: 0in"><span style="font-size: 11pt"><br></span><font face="georgia,palatino" size="2" color="#000000">&nbsp;</font></h1><p><span style="font-size: 11pt"><font face="georgia,palatino" size="2" color="#000000">BiggerBidder™ reserves the right to change or update this Privacy Policy at any time by posting a notice on the Site that we are changing our Privacy Policy.<span>&nbsp; </span>If the manner in which we use personally identifiable information changes, BiggerBidder™ will notify its users by posting the update Privacy Policy on the Site and: (a) sending the modified policy to its Members via email; and/or (b) by any other reasonable means acceptable under applicable state and federal law.<span>&nbsp; </span>You will have a choice as to whether or not we use your information in this different manner.<span>&nbsp; </span>At any time that you do not agree with the changes, you must opt out from receiving future communications from us (see the “Opt-Out/Unsubscribe” section above).<span>&nbsp; </span>Failure to opt out after notice of any such changes constitutes an affirmative acknowledgement and acceptance by you of the modified Privacy Policy.</font></span></p><p><span style="font-size: 11pt"><br></span><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="font-size: 11pt">&nbsp;</span> </font></font></font></p><h1 style="text-align: justify; margin-top: 0in; margin-right: 0in; margin-bottom: 0pt; margin-left: 0in"><span style="font-size: 11pt"><font face="georgia,palatino"><font size="2"><font color="#000000">Contact Us<span>&nbsp; </span></font></font></font></span></h1><h1 style="text-align: justify; margin-top: 0in; margin-right: 0in; margin-bottom: 0pt; margin-left: 0in"><span style="font-size: 11pt"><span><br></span></span><font face="georgia,palatino" size="2" color="#000000">&nbsp;</font></h1><font face="georgia,palatino"><font size="2"><font color="#000000"><span style="font-size: 11pt">If you have any questions about this Privacy Policy or the privacy practices of BiggerBidder™, please feel free to e-mail us at: cservice@biggerbidder.com; &nbsp;or mail us at: </span><span style="font-size: 11pt">BiggerBidder.com, 1100 Hammond Drive NE, #410A-202, Atlanta, GA 30328</span><span style="font-size: 11pt">. </span><span style="font-size: 11pt">&nbsp;</span><strong><span style="font-size: 11pt">Filing a Complaint with the Federal Trade Commission</span></strong><span style="font-size: 11pt">To file a complaint regarding our privacy practices, please <a href="https://www.ftccomplaintassistant.gov/FTC_Wizard.aspx?Lang=en">click here</a>.&nbsp;</span><span style="font-size: 11pt">&nbsp;</span><span style="font-size: 11pt"><span>&nbsp;</span></span><span style="font-size: 11pt"><span>&nbsp;</span></span><span style="font-size: 11pt">&nbsp;</span> </font></font></font><p>&nbsp;</p>                        </div>
+                        <br>
+                    </div>
+                </div>
+
+                <div style="clear:both"></div>
+
+                                
+                        </div>
+                    </div>
+
+        
+<div id="bottomgray">
+  <div id="footer">
+
+
+  <div class="Ist">
+      <a href="index.php" class="linkBlue">Home</a>&nbsp;|&nbsp;
+      <a href="aboutus.php" class="linkBlue">About Bigger Bidder</a>&nbsp;|&nbsp;
+      <a href="categories.php" class="linkBlue">Categories</a>&nbsp;|&nbsp;
+      <a href="contact.php" class="linkBlue">Contact Us</a>&nbsp;|&nbsp;
+      <a href="terms.php" class="linkBlue">Terms of Service</a>&nbsp;|&nbsp;
+      <a href="privacy.php" class="linkBlue">Privacy Policy</a>&nbsp;|&nbsp;
+      <a href="disputes.php" class="linkblue">Dispute Resolution</a>&nbsp;|&nbsp;
+      <a href="help.php" class="linkBlue">Help</a>
+      <br>
+      <span style="color:#8e8e8e;">Copyright ©2010 BiggerBidder.com. All Rights Reserved JMB Marketing LLC.</span>
+      <br><br>
+     <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'88aeab11-bffd-46b2-9349-a40946c3be33'});</script>
+      Share:
+      <span class="st_email"></span>
+      <span class="st_facebook"></span>
+      <span class="st_twitter"></span>
+      <span class="st_sharethis"></span>
+     <br><br><br><br><br>
+  </div>
+  
+  <div class="pnl">
+      <p><b>Secure Payments:</b></p>
+      <div class="row"><img src="img/img_visa.png" alt="" border="0"> <img src="img/img_mastercard.png" alt="" border="0"> <img src="img/img_paypal.png" alt="" border="0"></div>
+      <div class="clear"> </div>
+  </div>
+  
+</div>
+
+
+<!--BEGIN VIDEO-->
+
+<div class="popupContact" style="display:none;">
+    <a class="popupContactClose">x</a>
+    <div class="contactArea">
+                   <!--- START: FLOWPLAYER --->
+                   <div id="howitworksvideo" style="border: solid 0px #ccc;width:680px;height:407px;">
+                     <!-- 1. load the Flowplayer JavaScript component -->
+                     <script src="flowplayer/flowplayer-3.2.4.min.js"></script>
+                     <!-- 2. the player container. Supply desired video dimensions with CSS -->
+                     <a href="flowplayer/videos/BB2.flv" id="player"><img src="flowplayer/splash/splash_hit.png" border="0"></a>
+                     <script>
+                     flowplayer("player", "flowplayer/flowplayer-3.2.5-0.swf", { 
+                        autoPlay: false
+                        //clip: "flowplayer/videos/test.mp4"
+                        });
+                     </script>
+                   </div>
+                   <!--- END: FLOWPLAYER --->
+                 <br><br>
+                 <div style="text-align:center;">  
+            <a href="registration.php"><img src="img/join-fun-bt.png" width="198" height="49" alt="Join the Fun!" class="join_fun_bt" border="0"></a>
+         </div>
+    </div>
+</div>
+
+<div class="backgroundPopup"></div>
+
+<!--END VIDEO-->
+
+
+<!--- MALL STUFF --->
+<div class="popupContact3" style="display:none;">
+    <a class="popupContactClose3">x</a>
+    <div class="contactArea3">
+        <img src="images/small_mall_logo.png" alt="Bigger Bidder" width="250" height="58"><br>
+        <p style="font-size: 13px; font-family: Arial,Helvetica,sans-serif; line-height: 1.3em;">
+        <span style="font-weight: bold; font-size: 19px;">Welcome to Bigger Bidder's 2nd Chance Mall</span><br><br>
+
+        Everybody is a winner with Bigger Bidder.s 2nd Chance Mall.<br><br>
+        
+        Every time you use bids in a Bigger Bidder auction that you do not win, you will see your 2nd Chance Cash increase by $.68 per bid that you used.<br><br>
+        
+        So if you used 11 bids on an auction that you did not win, you will earn $7.48 in 2nd Chance Cash.<br><br>
+        
+        Once you hit $25 in 2nd Chance Cash, you can use this cash credit to make a purchase in Bigger Bidder.s 2nd Chance Mall.<br><br>
+        
+        Please note that you must acquire $25 in 2nd Chance Cash to purchase an item.  Additionally, you can use only $25 in 2nd Chance Cash per item you purchase.<br><br>
+        
+        The $25 in 2nd Chance Cash lowers to cost of the item to the published "You Pay: price.  To purchase an item, you must pay the "You Pay" price.  This is done by making a PayPal transaction to Bigger Bidder.  Simply click the "Buy Now" link for the item you wish to purchase and follow the instructions.  You are also responsible for paying applicable shipping fees.  Items are typically sent via traceable ground shipment.<br><br>
+
+        Thanks again for bidding with Bigger Bidder!</p>    
+    </div>
+</div>
+<!--- END MAL STUFF--->
+<div class="backgroundPopup3"></div>
+
+    
+
+
+
+</div></body></html>
