@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2010-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100929195222id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212183749id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -120,4 +120,5 @@ Email:
 [](http://www.amerispan.com/triple_guarantee.asp)  
 [ ](http://www.amerispan.com/catalog_request/)  
 [](http://www.amerispan.com/travel/article/Language_Travel_Magazine_Star_Awards/225)  
+[](http://www.amerispan.com/scholarships/)  
 [](https://www.amerispan.com/application/make_payment.asp)
