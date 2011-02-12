@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x10hosting.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822134136id_/http%3A//x10hosting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x10hosting.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212045524id_/http%3A//x10hosting.com/privacy) for the most accurate reproduction.*
 
 # Free Hosting Privacy Policy
 
