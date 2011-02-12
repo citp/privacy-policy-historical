@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yum.com privacy policy that was archived on 2010-02-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100225144127id_/http%3A//www.yum.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yum.com privacy policy that was archived on 2011-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110212053040id_/http%3A//www.yum.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -21,14 +21,47 @@
 </style>
 
 <link rel="stylesheet" type="text/css" href="/styles/jquery.lightbox-0.5.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/styles/colorbox.css" media="screen">
 <link href="/scripts/SpryAssets/SpryAccordion.css" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" src="/scripts/jquery/jquery-1.2.6.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 <script type="text/javascript" src="/scripts/jquery/jquery.ui.all.js"></script>
 <script type="text/javascript" src="/company/pressreleases/load_flash.js" language="JavaScript"></script>
 <script type="text/javascript" src="/scripts/AC_RunActiveContent.js"></script>
 <script type="text/javascript" src="/scripts/jquery_lightbox/jquery.lightbox-0.5.js"></script>
+<script type="text/javascript" src="/scripts/colorbox/jquery.colorbox.js"></script>
 <script src="/scripts/SpryAssets/SpryAccordion.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+
+
+<script>
+		$(document).ready(function(){
+			//Examples of how to assign the ColorBox event to elements
+			$("a[rel='example1']").colorbox();
+			$("a[rel='example2']").colorbox({transition:"fade"});
+			$("a[rel='example3']").colorbox({transition:"none", width:"75%", height:"75%"});
+			$("a[rel='example4']").colorbox({slideshow:true});
+			$(".example5").colorbox();
+			$(".example6").colorbox({iframe:true, innerWidth:425, innerHeight:344});
+			$(".example7").colorbox({width:"80%", height:"80%", iframe:true});
+			$(".example8").colorbox({width:"50%", inline:true, href:"#inline_example1"});
+			$(".example9").colorbox({
+				onOpen:function(){ alert('onOpen: colorbox is about to open'); },
+				onLoad:function(){ alert('onLoad: colorbox has started to load the targeted content'); },
+				onComplete:function(){ alert('onComplete: colorbox has displayed the loaded content'); },
+				onCleanup:function(){ alert('onCleanup: colorbox has begun the close process'); },
+				onClosed:function(){ alert('onClosed: colorbox has completely closed'); }
+			});
+			
+			//Example of preserving a JavaScript event for inline calls.
+			$("#click").click(function(){ 
+				$('#click').css({"background-color":"#f00", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+				return false;
+			});
+		});
+	</script>
+
 
 
 
@@ -54,31 +87,28 @@
 				<li><a href="/company/bod.asp" onfocus="this.blur();">Board of Directors</a></li>
 				<li><a href="/company/srofficers.asp" onfocus="this.blur();">Senior Officers</a></li>	
 				<li><a href="/company/recognition.asp" onfocus="this.blur();">Recognition</a></li>	
-				<li><a href="/company/news.asp" onfocus="this.blur();">News</a></li>	
+				<li><a href="/company/news.asp" onfocus="this.blur();">News</a></li>
+				<li><a href="/company/social.asp" onfocus="this.blur();">Yum! Social Hub</a></li>	
 				<li><a href="/company/nutrition.asp" onfocus="this.blur();">Nutrition</a></li>	
 			</ul>
 			
 			<ul class="listnav">
 				<li><h1><a href="/investors/default.asp" onfocus="this.blur();">Investors</a></h1></li>
 				<li><a href="/investors/vision_strategy.asp" onfocus="this.blur();">Vision &amp; Strategy</a></li>
-				<li><a href="http://investors.yum.com/phoenix.zhtml?c=117941&amp;p=irol-newsEarnings" onfocus="this.blur();">Financial Data</a></li>
-				<li><a href="http://investors.yum.com/phoenix.zhtml?c=117941&amp;p=irol-presentations" onfocus="this.blur();">News &amp; Presentations</a></li>
-				<li><a href="http://investors.yum.com/phoenix.zhtml?c=117941&amp;p=irol-sec" onfocus="this.blur();">SEC Filings</a></li>
-				<li><a href="/investors/governance/default.asp" onfocus="this.blur();">Corporate Governance</a></li>
-				<li><a href="/investors/investor_materials.asp" onfocus="this.blur();">Investor Materials</a></li>
+				<li><a href="http://investors.yum.com/phoenix.zhtml?c=117941&amp;p=irol-newsEarnings" onfocus="this.blur();">Earnings Releases</a></li>
+				<li><a href="http://investors.yum.com/phoenix.zhtml?c=117941&amp;p=irol-presentations" onfocus="this.blur();">Presentations</a></li>
+				<!--<li><a href="/annualreport/" onfocus="this.blur();" target="_blank">2009 Annual Report</a></li>-->
+               <!-- <li><a href="/investors/video_library.asp" onfocus="this.blur();">Leadership Videos</a></li>-->
+                <li><a href="/investors/investor_materials.asp" onfocus="this.blur();">Annual Reports/Proxy</a></li>
+                <li><a href="/investors/governance/default.asp" onfocus="this.blur();">Corporate Governance</a></li>
 				<li><a href="/investors/services.asp" onfocus="this.blur();">Shareholder Services</a></li>
-				<li><a href="http://investors.yum.com/phoenix.zhtml?p=irol-eventDetails&amp;c=117941&amp;eventID=2676769" onfocus="this.blur();">Q4 2009 Earnings Call</a></li>
+				<li><a href="http://investors.yum.com/phoenix.zhtml?c=117941&amp;p=irol-sec" onfocus="this.blur();">SEC Filings</a></li>
+                <li><a href="http://investors.yum.com/phoenix.zhtml?p=irol-eventDetails&amp;c=117941&amp;eventID=2676777" onfocus="this.blur();">Q4 2010 Earnings Call</a></li>
                  <!--<li><a href="/annualreport" target="_blank" onfocus="this.blur();">2008 Annual Report</a></li>--> 
 			</ul>
 			
 			<ul class="listnav">
-				<li><h1><a href="/responsibility/default.asp" onfocus="this.blur();">Responsibility</a></h1></li>
-				<li><a href="/responsibility/diversity.asp" onfocus="this.blur();">Global Diversity</a></li>
-				<li><a href="/company/nutrition.asp" onfocus="this.blur();">Health &amp; Nutrition</a></li>
-				<li><a href="/responsibility/environment.asp" onfocus="this.blur();">Environment</a></li>
-                <li><a href="/responsibility/supply_chain.asp" onfocus="this.blur();">Supply Chain</a></li>
-				<li><a href="/responsibility/animalwelfare.asp" onfocus="this.blur();">Animal Welfare</a></li>
-				<li><a href="/responsibility/community.asp" onfocus="this.blur();">Community</a></li>
+				<li><h1><a href="/responsibility/default.asp" onfocus="this.blur();">Corporate<br>Social<br>Responsibility</a></h1></li>
 			</ul>
             </div>
 		</div>
@@ -92,7 +122,7 @@
 			
 
 			<div class="searchright">
-				<p><a href="/realestate/default.asp" onfocus="this.blur();">Yum! Franchising and Real Estate</a><span class="pipe">|</span><a href="https://wfa.kronostm.com/index.jsp?applicationName=YumBrandsReqExt" target="_blank" onfocus="this.blur();">Yum! Careers</a></p>
+				<p><a href="/realestate/default.asp" onfocus="this.blur();">Yum! Franchising and Real Estate</a><span class="pipe">|</span><a href="http://www.yumcareers.com" target="_blank" onfocus="this.blur();">Yum! Careers</a></p>
 			</div>
 	
 			<div class="searchclear">
@@ -215,4 +245,4 @@ If you have any further questions concerning the Company’s Privacy Policy and 
 <div class="clear"></div>
 </div>
 
-<div id="ui-datepicker-div" style="display: none;"></div></body></html>
+</body></html>
