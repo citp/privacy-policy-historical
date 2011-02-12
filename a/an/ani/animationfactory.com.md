@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animationfactory.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416034217id_/http%3A//www.animationfactory.com/en/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animationfactory.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212182610id_/http%3A//www.animationfactory.com/en/company/privacy.html) for the most accurate reproduction.*
 
 # Animation Factory - Privacy Policy
 
@@ -15,8 +15,7 @@ We may combine your visit and navigational information with personal information
 
 Demographic information (e.g., your age, hobbies, income, gender, or interests) may also be collected and may be linked to your personal information.
 
-**Use of Your Personal Information**
-
+**Use of Your Personal Information**   
 Jupiterimages collects and uses your personal information to operate and improve our sites, to process your transactions, to provide customer service, to perform research and analysis aimed at improving our products, services and technologies, and to display content that is customized to your interests and preferences.
 
 We also use your personal information to communicate with you. We may send transaction-related communications such as welcome letters, billing reminders, and purchase confirmations. We may also send you surveys or marketing communications to inform you of new products or services or other information that may be of interest. If you do not wish to receive marketing communications, you may adjust your "Personal Information Preferences" as described below or follow the "unsubscribe" instructions included within each email communication. Please keep in mind that, if you choose not to receive marketing communications, you will continue to receive transactional or account communications (e.g., confirmation emails and account balance statements).
