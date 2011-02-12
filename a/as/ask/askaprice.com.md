@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317110659id_/http%3A//www.askaprice.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askaprice.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212231934id_/http%3A//www.askaprice.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy : askaprice.com
 
