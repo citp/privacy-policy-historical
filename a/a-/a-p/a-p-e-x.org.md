@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-p-e-x.org privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211011517id_/http%3A//www.a-p-e-x.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-p-e-x.org privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212012534id_/http%3A//www.a-p-e-x.org/privacypolicy.html) for the most accurate reproduction.*
 
 # Apex Web Directory - Privacy Policy
 
@@ -76,4 +76,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://www.a-p-e-x.org/  
-admin@a-p-e-x.org  
+admin [at] a-p-e-x [dot] org  
