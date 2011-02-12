@@ -1,28 +1,28 @@
-> *The following text is extracted and transformed from the moviestrailer.org privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201172453id_/http%3A//www.moviestrailer.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviestrailer.org privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212053517id_/http%3A//www.moviestrailer.org/privacy-policy) for the most accurate reproduction.*
 
-# Movie trailers, Upcoming movies, High Definition Trailers - MoviesTrailer.org
+# Movie trailers, Upcoming movies, High Definition Trailers - Latest Movie Trailers - MoviesTrailer.org
 
 Privacy Policy
 
-###  **Privacy Policy for MoviesTrailer.org**
+### **Privacy Policy for MoviesTrailer.org**
 
-####  **Do we collect and why do we collect personal information?**
+#### **Do we collect and why do we collect personal information?**
 
 We collect your personal information only for market research purposes to help us delivering you a higher level of satisfaction. The information is collected through a third partie (Google Analitycs) and include the date and time of visits, the site pages viewed, the keywords used to acces the site.
 
-####  **Will I be contacted for marketing purposes?**
+#### **Will I be contacted for marketing purposes?**
 
 No. We will not contact you unless you specifically agree to be contacted.
 
-####  **Sharing Information**
+#### **Sharing Information**
 
 MoviesTrailer.org takes your privacy very seriously and we do not disclose your information to any other organisation. There is also a third partie who works with us (Google Adsense, Kontera Technologies, etc) who may have access to your information when you visit the ads delivered by them.
 
-####  **Offensive or inappropriate content**
+#### **Offensive or inappropriate content**
 
 If you post or send offensive, inappropriate or objectionable content anywhere on or to MoviesTrailer.org we may use your personal information to stop such behaviour.
 
-####  **Contact us for privacy policy questions**
+#### **Contact us for privacy policy questions**
 
 For any kind of information you can contact us at this email : contact[at]moviestrailer.org
 
