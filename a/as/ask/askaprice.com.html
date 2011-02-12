@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the askaprice.com privacy policy that was archived on 2010-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100317110659id_/http%3A//www.askaprice.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the askaprice.com privacy policy that was archived on 2011-02-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110212231934id_/http%3A//www.askaprice.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -22,11 +22,12 @@
 <script type="text/javascript" src="/js/tabcontent.js"></script>
 <script type="text/javascript" src="/js/InputValidationFunctions.js"></script>
 <script type="text/javascript" src="/js/jquery-1.2.6.js"></script>
+
 <script type="text/javascript" src="/js/jquery.tooltip.js"></script>
 
-<script src="/js/jquery.bgiframe.js" type="text/javascript"></script> 
-<script src="/js/jquery.dimensions.js" type="text/javascript"></script> 
-<script src="/js/jquery.tooltip.js" type="text/javascript"></script> 
+<script src="/js/jquery.tooltip.js" type="text/javascript"></script>
+<script src="/js/JQueryMenu.js" type="text/javascript"></script>
+<script src="/js/jquery-dialog.js" type="text/javascript"></script>
 
 
 
@@ -41,7 +42,7 @@
 
 
 <link href="/css/JQueryMenu.css" type="text/css" rel="stylesheet" media="all">
-<script src="/js/JQueryMenu.js" type="text/javascript"></script>
+<link rel="Stylesheet" tyle="text/css" href="/css/dialog.css">
 
 
 
@@ -50,6 +51,7 @@
 
 <link rel="shortcut icon" href="favicon.ico">
 <link rel="icon" type="image/ico" href="favicon.ico">
+
 
 </head>
 <body>
@@ -66,7 +68,7 @@
 <script language="javascript" type="text/javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/796/1514332/0/1/ADTECH;loc=100;target=_blank;key=;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/796/1514332/0/1/ADTECH;loc=100;target=_blank;key=;grp=[group];misc=1580442649864"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/796/1514332/0/1/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/796/1514332/0/1/ADTECH;loc=300;grp=[group]" border="0" width="468" height="60" /></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/796/1514332/0/1/ADTECH;loc=100;target=_blank;key=;grp=[group];misc=1580442651686"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/796/1514332/0/1/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/796/1514332/0/1/ADTECH;loc=300;grp=[group]" border="0" width="468" height="60" /></a></noscript>
 <!-- End of JavaScript Tag -->
 </div>
 
@@ -106,10 +108,16 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 
 <div id="bluemenu" class="JQueryMenu">
 	<ul id="main_nav">
-		<li><a href="/new-cars.asp">New Cars <em>Compare Quotes</em></a></li>
+		<li><a href="/new-cars.asp">New Cars <em>Compare quotes</em></a></li>
 		<li><a href="/used/">Used Cars <em>Buy a used car</em></a></li>
-		<li><a href="/car-leasing.asp">Car leasing <em>Contract hire</em></a></li>
-		<li><a href="/new-cars/">Hot offers <em>Compare Quotes</em></a></li>
+		<li><a href="/car-leasing.asp">Car Leasing <em>Contract hire</em></a>
+			<ul style="top: 60px; display: none; visibility: visible;">
+				<li><a href="/car-leasing.asp" id="dropMenu">Car Leasing</a></li>
+				<li><a href="/car-leasing/companies/default.aspx">Company Directory</a></li>
+			</ul>
+		</li>
+
+		<li><a href="/new-deals.aspx">Hot Deals <em>Latest offers</em></a></li>
 		<li><a href="/research/">Resources <em>Car research</em></a>
 			<ul style="top: 60px; display: none; visibility: visible;">
 				<li><a href="/car-dealers" id="dropMenu">Dealer Directory</a></li>
@@ -119,7 +127,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 				<li><a href="/buyers-guides/">Buyer's Guides</a></li>
 				<li><a href="/car-finance.asp">Car Finance</a></li>
 				<li><a href="/car-insurance.asp">Car Insurance</a></li>
-				<li><a href="http://motortorque.askaprice.com">Motoring news</a></li>
+				<li><a href="http://motortorque.askaprice.com">Motoring News</a></li>
 			</ul>
 		</li>
 	</ul>
@@ -707,8 +715,6 @@ Other personal details and profiling data
 		  
 		  <option value="corvette">Corvette</option>
 		  
-		  <option value="daihatsu">Daihatsu</option>
-		  
 		  <option value="dodge">Dodge</option>
 		  
 		  <option value="ferrari">Ferrari</option>
@@ -719,9 +725,9 @@ Other personal details and profiling data
 		  
 		  <option value="honda">Honda</option>
 		  
-		  <option value="hummer">Hummer</option>
-		  
 		  <option value="hyundai">Hyundai</option>
+		  
+		  <option value="infiniti">Infiniti</option>
 		  
 		  <option value="jaguar">Jaguar</option>
 		  
@@ -802,7 +808,7 @@ Other personal details and profiling data
        </div>
 
 <div id="recentcars">
-<h3>Recently Viewed:</h3><div class="rec_cars_div"><dl><dt class="rec_img"><img src="/images/cars/thumbs/audi-q5-1.jpg"></dt><dd class="padd_top"><a class="rec_link" href="/audi_q5.asp">Audi Q5</a></dd><dd><a class="rec_comp" href="/quotes.asp?range=966">Get quotes</a></dd></dl><div style="clear:both"></div></div>
+
 
     </div>
 
@@ -859,7 +865,7 @@ cartype.init()
 <script language="javascript" type="text/javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/796/1514333/0/170/ADTECH;loc=100;target=_blank;key=Default;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/796/1514333/0/170/ADTECH;loc=100;target=_blank;key=Default;grp=[group];misc=1580442649867"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/796/1514333/0/170/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/796/1514333/0/170/ADTECH;loc=300;grp=[group]" border="0" width="300" height="250" /></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/796/1514333/0/170/ADTECH;loc=100;target=_blank;key=Default;grp=[group];misc=1580442651710"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/796/1514333/0/170/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/796/1514333/0/170/ADTECH;loc=300;grp=[group]" border="0" width="300" height="250" /></a></noscript>
 <!-- End of JavaScript Tag -->
 
 
@@ -876,6 +882,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 </div>
 <!-- END CONTENT -->
 
+
 <div class="footer">
     <div id="sitemap">
       <div class="break">
@@ -887,11 +894,12 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
               <li><a title="Leased / Leasing Cars" href="/car-leasing.asp">Car Leasing Quotes</a></li><a title="Leased / Leasing Cars" href="/car-leasing.asp">
               </a><li><a title="Leased / Leasing Cars" href="/car-leasing.asp"></a><a title="Personal Contract Purchase" href="/personal-contract-purchase.asp">Personal Contract (PCP) Quotes</a></li>
               <li><a title="Personal Contract Hire" href="/personal_contract_hire.asp">Personal Contract Hire(PCH) Quotes</a></li>
+              <li><a title="Hire Purchase" href="/hire_purchase.asp">Hire Purchase(HP) Quotes</a></li>
               <li><a title="Commercial Vans" href="/commercials.asp">Commercials/Vans Quotes</a></li>
               <li><a title="Business Leasing" href="/business_contract_hire.asp">Business Contract Hire (BCH)</a></li>
-              <li><a title="Car Insurance Quotes" href="https://ctm.insure-systems.co.uk/PrivateCar/Common/Pages/Initialise.aspx?prdcls=PC&amp;rqstyp=welcome&amp;affclie=CMEI">Car Insurance Quotes</a></li>
+              <li><a title="Leasing Company Directory" href="/car-leasing/companies/default.aspx">Car Leasing Companies</a></li>
               <li><a title="Free Car Brochures" href="/car_brochure.asp">Free Car Brochures</a></li>
-              <li><a title="Scrappage Scheme" href="/scrappage_scheme.asp">Scrappage Scheme</a></li>
+              <li><a title="Arrange Car Test Drives" href="/test_drive.asp">Arrange Car Test Drives</a></li>
 
 
 
@@ -957,7 +965,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
               <li><a title="Resources" href="/links.asp">Related Sites</a></li>
             </ul>
         </div>
-
+	<a href="http://www.autocontent.co.uk" target="_blank" class="poweredBy"><img src="/images/autocontent.png" alt="Powered by Auto Content" border="0"></a>
     <div style="clear:both;"></div>
 
 </div>
@@ -980,7 +988,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 <script language="javascript" type="text/javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/796/1514332/0/1/ADTECH;loc=100;target=_blank;key=;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/796/1514332/0/1/ADTECH;loc=100;target=_blank;key=;grp=[group];misc=1580442649864"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/796/1514332/0/1/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/796/1514332/0/1/ADTECH;loc=300;grp=[group]" border="0" width="468" height="60" /></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/796/1514332/0/1/ADTECH;loc=100;target=_blank;key=;grp=[group];misc=1580442651686"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/796/1514332/0/1/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/796/1514332/0/1/ADTECH;loc=300;grp=[group]" border="0" width="468" height="60" /></a></noscript>
 <!-- End of JavaScript Tag -->
 </div>
 
@@ -990,7 +998,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 <script language="javascript" type="text/javascript"><!--
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/796/1514333/0/170/ADTECH;loc=100;target=_blank;key=Default;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/796/1514333/0/170/ADTECH;loc=100;target=_blank;key=Default;grp=[group];misc=1580442649867"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/796/1514333/0/170/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/796/1514333/0/170/ADTECH;loc=300;grp=[group]" border="0" width="300" height="250" /></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/796/1514333/0/170/ADTECH;loc=100;target=_blank;key=Default;grp=[group];misc=1580442651710"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/796/1514333/0/170/ADTECH;loc=300;grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/796/1514333/0/170/ADTECH;loc=300;grp=[group]" border="0" width="300" height="250" /></a></noscript>
 <!-- End of JavaScript Tag -->
 
 
@@ -1008,6 +1016,64 @@ if(document.getElementById("banner_mpu") != null)
 }
 </script>
 
+    <script type="text/javascript">
+        /*
+        Dialog
+        */
+        jQuery.fn.center = function ()
+        {
+            this.css("position", "absolute");
+            this.css("top", ($(window).height() - this.height()) / 2 + $(window).scrollTop() + "px");
+            this.css("left", ($(window).width() - this.width()) / 2 + $(window).scrollLeft() + "px");
+            return this;
+        }
+
+        function ShowCallBackRequestDialog()
+        {
+            ShowDialog("CallbackRequestDialog", "Request a Callback");
+        }
+        function ShowDialog(id, title)
+        {
+            $("#" + id).dialog({
+                width: 523,
+                height: 370,
+                modal: true,
+                resizable: false,
+                title: title,
+                // show: 'fadeIn',
+                close: function (event, ui) { HideDialog(id); }
+            });
+            $("#" + id).dialog('open');
+            //$("#" + id).center();
+            $("#" + id).show();
+
+            $(".ui-dialog").css("position", "fixed");
+            $(".ui-dialog").center();
+        }
+
+        function HideDialog(id, destroy)
+        {
+            $("#" + id).dialog('destroy');
+        }
+        function CallbackRequestCompleted()
+        {
+            HideDialog("CallbackRequestDialog");
+            alert("Thank you!\n\nOne of our customer services team will be in touch shortly.");
+
+        }
+
+
+    </script>
+    
+    <div>
+    <iframe id="bottomBarFrame" name="bottomBarFrame" width="100%" height="46px" class="bottomBar" frameborder="0" marginheight="0" scrolling="no" marginwidth="0" src="/bottom-bar.asp?cman_code=&amp;cran_code=&amp;man=" style="position:fixed;bottom:0;left:0;">
+
+    </iframe>
+    </div>
+    
+    <div id="CallbackRequestDialog" style="display:none;">
+        <iframe scrolling="no" frameborder="0" src="/callback-request.aspx" marginheight="0" marginwidth="0" width="521px" height="341px"></iframe>
+    </div>
 
 </div>
 
@@ -1042,14 +1108,4 @@ window.setTimeout("ddtabcontent_init();", 1);
 
 
 
-
-	    <script>
-	    if(typeof(urchinTracker)!='function')document.write('<sc'+'ript src="'+
-	    'http'+(document.location.protocol=='https:'?'s://ssl':'://www')+
-	    '.google-analytics.com/urchin.js'+'"></sc'+'ript>')
-	    </script><script src="https://ssl.google-analytics.com/urchin.js"></script>
-	    <script>
-	    _uacct = 'UA-5659572-2';
-	    
-    	</script>
-	</div></body></html>
+</div></body></html>
