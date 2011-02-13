@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the bloggertipandtrick.net privacy policy that was archived on 2010-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100214155006id_/http%3A//www.bloggertipandtrick.net/2009/01/blogger-tips-and-tricks-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggertipandtrick.net privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213063947id_/http%3A//www.bloggertipandtrick.net/2009/01/blogger-tips-and-tricks-privacy-policy.html) for the most accurate reproduction.*
 
 # Blogger Tips And Tricks Privacy Policy ~ Blogger Tips And Tricks|Latest Tips For Bloggers
 
-Privacy Policy for bloggertipandtrick.blogspot.com 
+Privacy Policy for bloggertipandtrick.blogspot.com   
+
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at lasanthax3@gmail.com. 
 
@@ -35,18 +36,5 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.  
 
 
-If you find this article useful, please feel free to link to this page from your website or blog. 
+  
 
-url:  
-
-
-HTML link:  
-
-
-forum link:  
-
-
-**Don't Copy This Article:**
-
-This work by <http://www.bloggertipandtrick.net/> is licensed under a  
-[Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License](http://creativecommons.org/licenses/by-nc-nd/3.0/us/). 
