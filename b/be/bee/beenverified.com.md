@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228200637id_/http%3A//www.beenverified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beenverified.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213041805id_/http%3A//www.beenverified.com/privacy) for the most accurate reproduction.*
 
 # Background Check FREE 7 Day Trial! - BeenVerified.com
 
