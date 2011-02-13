@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105111512id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy%3Fsplashlink%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213232329id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy%3Fsplashlink%3Dfooter_privacy) for the most accurate reproduction.*
 
 # Dillard's.com | Company Notices and Terms of Use
 
@@ -171,7 +171,7 @@ We may use third party companies to help us gather website traffic and other dat
 
 You may access and update your Personal Information and your preferences about receiving promotional information from Dillard’s or sharing your Personal Information with third party vendors at any time. To do that: 
 
-1\. Click “My Shopper ID” at the top of the web page; 
+1\. Click “My Account” at the top of the web page; 
 
 2\. Enter Shopper ID, Password, and click “Submit”; 
 
