@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketonlinetv.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225014031id_/http%3A//www.cricketonlinetv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketonlinetv.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213023044id_/http%3A//www.cricketonlinetv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Cricket Highlights | Cricket Online TV
 
