@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pluginseo.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211025115id_/http%3A//www.pluginseo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginseo.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213035352id_/http%3A//pluginseo.com/privacy) for the most accurate reproduction.*
 
-# Plug in SEO Privacy Policy
+# Privacy Policy | Plug in SEO
 
 **Updated on: February 8, 2010**
 
@@ -8,7 +8,7 @@ This Policy applies as between you, the User of this Web Site and Plug in SEO Lt
 
 ## 1\. Definitions and Interpretation 
 
-In this Policy terms shall have the same meanings as defined in the Terms of Use at [http://www.pluginseo.com/terms.htm](https://web.archive.org/web/20100211025115id_/http%3A//www.pluginseo.com/terms.htm). In addition the following terms shall have the following meanings: 
+In this Policy terms shall have the same meanings as defined in the Terms of Use at [http://www.pluginseo.com/terms.htm](https://web.archive.org/web/20110213035352id_/http%3A//pluginseo.com/terms.htm). In addition the following terms shall have the following meanings: 
 
 “Cookie”| means a small file placed on your computer by Plug in SEO when you visit certain parts of this Website. Further details are contained in Clause 9 of this Policy;  
 ---|---  
