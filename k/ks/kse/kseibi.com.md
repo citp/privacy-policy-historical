@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kseibi.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126112916id_/http%3A//www.kseibi.com/En/About-Kseibi/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kseibi.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213210909id_/http%3A//www.kseibi.com/En/About-Kseibi/Privacy-Policy/Privacy-Policy.php) for the most accurate reproduction.*
 
 # KSEIBI Privacy Center
 
-©2010 KSEIBI. All Rights Reserved.
+©2011 KSEIBI. All Rights Reserved.
 
 **What information does KSEIBI collect and how does KSEIBI use this information?**
 
