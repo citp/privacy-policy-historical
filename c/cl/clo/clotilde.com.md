@@ -1,22 +1,25 @@
-> *The following text is extracted and transformed from the clotilde.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509142624id_/http%3A//www.drgnetwork.com/pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clotilde.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213154013id_/http%3A//www.clotilde.com/privacy_policy.php) for the most accurate reproduction.*
 
-# DRG and its subsidiaries -- Online Privacy Pledge and Security information
+# Privacy Policy - Clotilde
 
-[DRG](http://drgnetwork.com/) and [its subsidiaries](http://www.drgnetwork.com/pages/privacy_companies.html) operate _[Web sites](http://www.drgnetwork.com/pages/privacy_websites.html)_ which adhere to industry standards in helping to assure our customers' privacy. All information, including transactions, customer accounts, and all correspondence, are handled with discretion and care. The policies below apply to all of the _[Web sites](http://www.drgnetwork.com/pages/privacy_websites.html)_ DRG owns and operates. These policies do not apply to the collection and use of consumer information by DRG offline. By using our _[Web sites](http://www.drgnetwork.com/pages/privacy_websites.html)_ , you agree to the collection and use of your information in accordance with the terms of this Privacy Pledge. If you do not agree to these terms, please do not use our _[Web sites](http://www.drgnetwork.com/pages/privacy_websites.html)_.
+**_DRG  
+Online Privacy Pledge and Security information_**
+
+[DRG](http://drgnetwork.com/) and [subsidiaries](http://www.drgnetwork.com/pages/privacy_companies.html) operate _[Web sites](http://www.drgnetwork.com/pages/privacy_websites.html)_ which adhere to industry standards in helping to assure our customers' privacy. All information, including transactions, customer accounts, and all correspondence, are handled with discretion and care. The policies below apply to all of the _[Web sites](http://www.drgnetwork.com/pages/privacy_websites.html)_ DRG owns and operates. By using our _[Web sites](http://www.drgnetwork.com/pages/privacy_websites.html)_ , you agree to the collection and use of your information in accordance with the terms of this Privacy Pledge. If you do not agree to these terms, please do not use our _[Web sites](http://www.drgnetwork.com/pages/privacy_websites.html)_.
 
 **Anonymous Information Collected By DRG**  
-When you visit a DRG _[Web site](http://drgnetwork.com/pages/privacy_websites.html)_ , DRG will capture certain anonymous information from our visitors. This includes the Internet provider's name (e.g. AOL), paths taken through a given site, and "click stream" activity such as when you click on a banner advertisement. No information that could identify you as an individual is collected in this manner.
+When you visit a DRG _[Web sites](http://www.drgnetwork.com/pages/privacy_websites.html)_ , DRG will capture certain anonymous information from our visitors. This includes the Internet provider's name (e.g. AOL), paths taken through a given site, and "click stream" activity such as when you click on a banner advertisement. No information that could identify you as an individual is collected in this manner.
 
 Cookies are used as part of our statistical reporting and have no personal information tied to them. We use this technology to enhance your experience on our sites such as to help ensure that you are exposed to offers and products that are of interest to you. We do not capture e-mail addresses or personal information through our use of cookies.
 
-Information that is collected through the use of cookies and standard Web server log files may be used to enhance the content of our _[Web sites](http://drgnetwork.com/pages/privacy_websites.html)_ to provide you with a better experience in the future, to respond to customer inquiries and suggestions, or to provide special offers to you.
+Information that is collected through the use of cookies and standard Web server log files may be used to enhance the content of our _[Web sites](http://www.drgnetwork.com/pages/privacy_websites.html)_ to provide you with a better experience in the future, to respond to customer inquiries and suggestions, or to provide special offers to you.
 
 DRG may also share this non-identifiable information with third parties from time to time.
 
 **Personal Information Collected By DRG**  
 From time to time while on a DRG 
 
-_[Web site](http://drgnetwork.com/pages/privacy_websites.html)_
+_[Web site](http://www.drgnetwork.com/pages/privacy_websites.html)_
 
 , we may ask you to provide personal information such as your name, address, telephone number, e-mail address and credit card information. We may ask you to provide personal information when making a purchase, setting up an account, or joining one of our online programs. DRG will use your personal information for the purpose for which it was provided and as otherwise set forth herein. We will not store your credit card information unless you instruct us to do so.  DRG may combine your personal information with information collected by its 
 
@@ -77,7 +80,7 @@ If you prefer to contact DRG by regular postal mail, please write to:
 DRG  
 ATTN: Web Customer Service Inquiry  
 23 Old Pecan Road  
-Big Sandy, TX 75755
+Big Sandy, TX 76005
 
 Please use the address provided on the individual _[Web sites](http://www.drgnetwork.com/pages/privacy_websites.html)_ for general customer service questions. You may use this address if you'd prefer not to receive future DRG mailings and/or mailings from other companies to which we make our mailing list available. Please be sure to specify the company name from which you received the mailing.
 
@@ -86,6 +89,6 @@ Please note this Privacy Pledge may be changed from time to time. Any changes to
 
 **Questions**  
 If you have any questions or comments about this Privacy Pledge, please contact us at: DRG,  
-ATTN: Web Customer Service Inquiry, 23 Old Pecan Road, Big Sandy, TX 75755 or _[Privacy@DRGnetwork.com](mailto:Privacy@DRGnetwork.com)_.
+ATTN: Web Customer Service Inquiry, 23 Old Pecan Road, Big Sandy, TX 76005 or _[Privacy@DRGnetwork.com](mailto:Privacy@DRGnetwork.com)_.
 
-**Effective date:** December 21, 2007
+**Effective date:** November 14, 2008 
