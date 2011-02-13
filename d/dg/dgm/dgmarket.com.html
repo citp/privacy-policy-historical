@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dgmarket.com privacy policy that was archived on 2010-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526174727id_/http%3A//www.dgmarket.com/tenders/privacy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dgmarket.com privacy policy that was archived on 2011-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110213222622id_/http%3A//www.dgmarket.com/tenders/privacy.do) for the most accurate reproduction.-->
 
 <html dir="ltr"><head><link href="/TEMPLATE/dgMarket/css/global.css" rel="stylesheet" type="text/css">
 	
@@ -20,7 +20,7 @@
 	
 		<script type="text/javascript" src="/TEMPLATE/dgMarket/script/jquery-1.3.2.min.js"></script>
 	    <script language="JavaScript" src="/TEMPLATE/dgMarket/script/help.js" type="text/javascript"></script>
-		
+		<script language="JavaScript" src="/SITE//dgmarket/script/hoverIntent.js" type="text/javascript"></script>
 <title>
 	
 
@@ -41,6 +41,26 @@
 <body>
 
 
+
+<div id="loadingAnimationWrapper" style="display: none;">
+	<div id="loadingAnimation" style="background-image: url(/TEMPLATE/dgMarket/images/loading.gif);"></div>
+</div>
+
+<script type="text/javascript">
+	var timeout;
+
+	function showAnimation(){
+		$('#loadingAnimationWrapper').show();
+	}
+	
+	timeout = window.setTimeout("showAnimation()",10000);
+
+	$(document).ready(function(){
+		if (timeout)
+			window.clearTimeout(timeout);
+		$('#loadingAnimationWrapper').hide();
+	});
+</script>
 
 <div id="rubber_layout">
 
@@ -112,7 +132,7 @@
 		<option value="www.dgmarket.com.tr">Türkçe</option>
 	
 		
-		<option value="dgmarket.kapatel.gr">Ελληνικά</option>
+		<option value="dgmarket.express.gr">Ελληνικά</option>
 	
 		
 		<option value="mn.dgmarket.com">Монгол</option>
@@ -160,15 +180,7 @@ function switchLanguage(obj) {
 <div id="account_menu">
  	
  	
-	
-	
-	
-	    	
-			<a href="http://www.dgmarket.com/tenders/MemberLogon.do">Members: please log in</a>
-
-	
-
-		&nbsp;|&nbsp; 
+		
 		
 		
 		<a href="http://www.dgmarket.com/tenders/NoticeAlert.do">Alerts</a>
@@ -186,6 +198,24 @@ function switchLanguage(obj) {
 
 </div>  
 
+
+
+<div id="account_menu">
+	    	
+			<a href="http://www.dgmarket.com/tenders/MemberLogon.do">Log in</a>
+		
+		
+		or use your account with
+		
+		<a style="text-decoration: none;" class="rpxnow" onclick="return false;" href="https://dgmarket.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.dgmarket.com%2Feproc%2FjanrainLogin.do">
+	       		<img src="/SITE//dgmarket/images/facebook_small.png">
+	       		<img src="/SITE//dgmarket/images/google_small.png">
+	       		<img src="/SITE//dgmarket/images/yahoo_small.png">
+	       		<img src="/SITE//dgmarket/images/microsoft_small.png">
+	    </a>  
+</div>
+ 
+
  	
 					
 				  </td>
@@ -193,8 +223,19 @@ function switchLanguage(obj) {
 			</tbody></table>
 
 	</div>
-  
+	
+  	
+  	
+  	<script type="text/javascript">
+	  	if (window.location == "http://www.dgmarket.com" || window.location == "http://www.dgmarket.com/index.do"){
+		  	if (timeout) 
+	        	window.clearTimeout(timeout);
+	  		$('#loadingAnimationWrapper').hide();
+	  	}
+  	</script>
+  	
 	<div id="body">
+		
 		
 
 
@@ -208,13 +249,34 @@ function switchLanguage(obj) {
 	
 
 
-<!--------------------- TOP ------------------------- -->
+
+<script type="text/javascript">
+<!--
+
+$(document).ready(function() {
+	hiConfig = {
+	        sensitivity: 3, // number = sensitivity threshold (must be 1 or higher)
+	        interval: 200, // number = milliseconds for onMouseOver polling interval
+	        timeout: 800, // number = milliseconds delay before onMouseOut
+	        over: function() {
+		            $(this).find('.categoryListMenu').fadeIn("fast");
+		          },
+		    out: function() {
+		        	$(this).find('.categoryListMenu').fadeOut(3);
+		    	}
+	};
+	$('.main-menu li').hoverIntent(hiConfig);
+});
+
+//-->
+</script>
+
 
 
 
 
 <!--menu-->
-<div class="NonPrintable">
+<div class="NonPrintable" id="main-menu-height">
 <div class="main-menu">
   <ul>
   
@@ -234,13 +296,249 @@ function switchLanguage(obj) {
     
 			
 			
-				<li>
+				<li class="subMenuHeader">
 			
     
     	
 						<a target="_top" href="http://www.dgmarket.com/tenders/SearchResult.do">
 							Tenders
-						</a>
+							<img src="/SITE//dgmarket/images/arrow-menu.gif" class="subMenuArrow"></a>
+						    
+						    
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" class="categoryListMenu">
+<tbody><tr><td>
+
+<table width="98%" cellspacing="0" cellpadding="0" border="0" class="categoryListMenu-innerTable">
+
+	<tbody><tr><td>&nbsp;</td></tr>
+	<tr>
+		
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~1~~~">Agriculture &amp; Food</a>
+			</td>
+			
+				<td style="border-right: 1px solid #8ab3de;">&nbsp;</td>
+			
+			
+			
+		
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~2~~~">Services</a>
+			</td>
+			
+				<td style="border-right: 1px solid #8ab3de;">&nbsp;</td>
+			
+			
+			
+		
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~3~~~">Construction</a>
+			</td>
+			
+			
+			
+		
+			
+						
+	</tr>
+	<tr>
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~4~~~">Education</a>
+			</td>
+			
+				<td style="border-right: 1px solid #8ab3de;">&nbsp;</td>
+			
+			
+			
+		
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~5~~~">Energy</a>
+			</td>
+			
+				<td style="border-right: 1px solid #8ab3de;">&nbsp;</td>
+			
+			
+			
+		
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~6~~~">Environment</a>
+			</td>
+			
+			
+			
+		
+			
+						
+	</tr>
+	<tr>
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~7~~~">Finance</a>
+			</td>
+			
+				<td style="border-right: 1px solid #8ab3de;">&nbsp;</td>
+			
+			
+			
+		
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~8~~~">Health &amp; Population</a>
+			</td>
+			
+				<td style="border-right: 1px solid #8ab3de;">&nbsp;</td>
+			
+			
+			
+		
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~9~~~">Industry</a>
+			</td>
+			
+			
+			
+		
+			
+						
+	</tr>
+	<tr>
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~10~~~">Info &amp; Communications</a>
+			</td>
+			
+				<td style="border-right: 1px solid #8ab3de;">&nbsp;</td>
+			
+			
+			
+		
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~11~~~">Mining</a>
+			</td>
+			
+				<td style="border-right: 1px solid #8ab3de;">&nbsp;</td>
+			
+			
+			
+		
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~12~~~">Public Sector</a>
+			</td>
+			
+			
+			
+		
+			
+						
+	</tr>
+	<tr>
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~13~~~">Social Protection</a>
+			</td>
+			
+				<td style="border-right: 1px solid #8ab3de;">&nbsp;</td>
+			
+			
+			
+		
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~14~~~">Tourism</a>
+			</td>
+			
+				<td style="border-right: 1px solid #8ab3de;">&nbsp;</td>
+			
+			
+			
+		
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~15~~~">Transport</a>
+			</td>
+			
+			
+			
+		
+			
+						
+	</tr>
+	<tr>
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~16~~~">Urban Development</a>
+			</td>
+			
+				<td style="border-right: 1px solid #8ab3de;">&nbsp;</td>
+			
+			
+			
+		
+			
+			
+			
+			<td id="category_list_menu" valign="top" style="white-space: nowrap;">
+				<a href="/tenders/SearchResult.do~17~~~">Water</a>
+			</td>
+			
+				<td style="border-right: 1px solid #8ab3de;">&nbsp;</td>
+			
+			
+			
+				
+	</tr>
+	<tr><td>&nbsp;</td></tr>
+</tbody></table>
+</td></tr>
+</tbody></table>
+
+						    
     </li>
     
     
@@ -254,7 +552,13 @@ function switchLanguage(obj) {
 							Buyers
 						</a>
     </li>
-    <li>
+    
+    
+    	
+    	
+    		<li>
+    	
+    
     	
 						<a target="_top" href="http://www.dgmarket.com/dacon">   
 							DACON
@@ -262,12 +566,11 @@ function switchLanguage(obj) {
     </li>
   </ul>
 </div>
+<div id="search_notice_empty"></div>
 </div>
 <!--End Menu-->
-<div id="search_notice_empty"></div>
 
-
-<!--------------------- TOP --------------------------->  
+  
 		
 
 
@@ -330,7 +633,7 @@ function switchLanguage(obj) {
 		var locationISO = $("#topLocationISO").val();
 		//var status = $("input[name='status'][type='radio']:checked").attr("value");
 		var status = $("input[name='status']").attr("value");
-		window.location.href = "/tenders/SearchResult.do~~" + locationISO + "~~" + status + "~keywords=" + keywords + "~noticeType=" + noticeType;
+		window.location.href = "/tenders/SearchResult.do~~" + locationISO + "~~" + status + "~keywords=" + encodeURIComponent(keywords) + "~noticeType=" + noticeType;
 	}
 
 </script>
@@ -346,272 +649,274 @@ function switchLanguage(obj) {
 					
 				
 			
-			
+
 			<table cellpadding="0" cellspacing="0">
 				<tbody><tr>
 					<td valign="top" align="center">
 						<span class="search_title">Search</span>
 					</td>
 					<td valign="top" align="left">
-						<input id="topKeywordQuery" name="keywords" type="text" value="" class="search_eca_textbox">
-						
+						<input id="topKeywordQuery" name="keywords" type="text" value="" class="search_eca_textbox ajax-suggestion" autocomplete="off">                        
+            
 						
 						<select name="locationISO" class="search_eca_combobox1" id="topLocationISO"><option value="" selected="selected">All Countries</option>
 							<option value="  "> Multi-country</option>
-<option value="_s">Africa</option>
-<option value="_p">East Asia and Pacific</option>
-<option value="_e">Europe and Central Asia</option>
-<option value="_l">Latin America and Caribbean</option>
-<option value="_m">Middle East and North Africa</option>
-<option value="_n">North America</option>
-<option value="_a">South Asia</option>
+<option value="_s">Tenders in Africa</option>
+<option value="_p">Tenders in East Asia and Pacific</option>
+<option value="_e">Tenders in Europe and Central Asia</option>
+<option value="_l">Tenders in Latin America and Caribbean</option>
+<option value="_m">Tenders in Middle East and North Africa</option>
+<option value="_n">Tenders in North America</option>
+<option value="_a">Tenders in South Asia</option>
 
 							<option value="--">--------------------------</option>
-							<option value="af">Afghanistan</option>
-<option value="ax">Åland Islands</option>
-<option value="al">Albania</option>
-<option value="dz">Algeria</option>
-<option value="as">American Samoa</option>
-<option value="ad">Andorra</option>
-<option value="ao">Angola</option>
-<option value="ai">Anguilla</option>
-<option value="ag">Antigua and Barbuda</option>
-<option value="ar">Argentina</option>
-<option value="am">Armenia</option>
-<option value="aw">Aruba</option>
-<option value="au">Australia</option>
-<option value="at">Austria</option>
-<option value="az">Azerbaijan</option>
-<option value="bs">Bahamas</option>
-<option value="bh">Bahrain</option>
-<option value="bd">Bangladesh</option>
-<option value="bb">Barbados</option>
-<option value="by">Belarus</option>
-<option value="be">Belgium</option>
-<option value="bz">Belize</option>
-<option value="bj">Benin</option>
-<option value="bm">Bermuda</option>
-<option value="bt">Bhutan</option>
-<option value="bo">Bolivia</option>
-<option value="ba">Bosnia and Herzegovina</option>
-<option value="bw">Botswana</option>
-<option value="bv">Bouvet Island</option>
-<option value="br">Brazil</option>
-<option value="io">British Indian Ocean Territory</option>
-<option value="bn">Brunei</option>
-<option value="bg">Bulgaria</option>
-<option value="bf">Burkina Faso</option>
-<option value="bi">Burundi</option>
-<option value="kh">Cambodia</option>
-<option value="cm">Cameroon</option>
-<option value="ca">Canada</option>
-<option value="cv">Cape Verde</option>
-<option value="ky">Cayman Islands</option>
-<option value="cf">Central African Republic</option>
-<option value="td">Chad</option>
-<option value="cl">Chile</option>
-<option value="cn">China</option>
-<option value="cx">Christmas Island</option>
-<option value="cc">Cocos (Keeling) Islands</option>
-<option value="co">Colombia</option>
-<option value="km">Comoros</option>
-<option value="cd">Congo, Democratic Republic</option>
-<option value="cg">Congo, Republic</option>
-<option value="ck">Cook Islands</option>
-<option value="cr">Costa Rica</option>
-<option value="ci">Côte d'Ivoire</option>
-<option value="hr">Croatia</option>
-<option value="cu">Cuba</option>
-<option value="cy">Cyprus</option>
-<option value="cz">Czech Republic</option>
-<option value="dk">Denmark</option>
-<option value="dj">Djibouti</option>
-<option value="dm">Dominica</option>
-<option value="do">Dominican Republic</option>
-<option value="ec">Ecuador</option>
-<option value="eg">Egypt</option>
-<option value="sv">El Salvador</option>
-<option value="gq">Equatorial Guinea</option>
-<option value="er">Eritrea</option>
-<option value="ee">Estonia</option>
-<option value="et">Ethiopia</option>
-<option value="fo">Faeroe Islands</option>
-<option value="fk">Falkland Islands</option>
-<option value="fj">Fiji</option>
-<option value="fi">Finland</option>
-<option value="fr">France</option>
-<option value="gf">French Guiana</option>
-<option value="pf">French Polynesia</option>
-<option value="tf">French Southern Territories</option>
-<option value="ga">Gabon</option>
-<option value="gm">Gambia</option>
-<option value="ge">Georgia</option>
-<option value="de">Germany</option>
-<option value="gh">Ghana</option>
-<option value="gi">Gibraltar</option>
-<option value="gr">Greece</option>
-<option value="gl">Greenland</option>
-<option value="gd">Grenada</option>
-<option value="gp">Guadeloupe</option>
-<option value="gu">Guam</option>
-<option value="gt">Guatemala</option>
-<option value="gg">Guernsey</option>
-<option value="gn">Guinea</option>
-<option value="gw">Guinea-Bissau</option>
-<option value="gy">Guyana</option>
-<option value="ht">Haiti</option>
-<option value="hm">Heard Island and McDonald Islands</option>
-<option value="hn">Honduras</option>
-<option value="hk">Hong Kong, China</option>
-<option value="hu">Hungary</option>
-<option value="is">Iceland</option>
-<option value="in">India</option>
-<option value="id">Indonesia</option>
-<option value="ir">Iran</option>
-<option value="iq">Iraq</option>
-<option value="ie">Ireland</option>
-<option value="im">Isle of Man</option>
-<option value="il">Israel</option>
-<option value="it">Italy</option>
-<option value="jm">Jamaica</option>
-<option value="jp">Japan</option>
-<option value="je">Jersey</option>
-<option value="jo">Jordan</option>
-<option value="kz">Kazakhstan</option>
-<option value="ke">Kenya</option>
-<option value="ki">Kiribati</option>
-<option value="kp">Korea, North</option>
-<option value="kr">Korea, South</option>
-<option value="kw">Kuwait</option>
-<option value="kg">Kyrgyzstan</option>
-<option value="la">Laos</option>
-<option value="lv">Latvia</option>
-<option value="lb">Lebanon</option>
-<option value="ls">Lesotho</option>
-<option value="lr">Liberia</option>
-<option value="ly">Libya</option>
-<option value="li">Liechtenstein</option>
-<option value="lt">Lithuania</option>
-<option value="lu">Luxembourg</option>
-<option value="mo">Macao, China</option>
-<option value="mk">Macedonia</option>
-<option value="mg">Madagascar</option>
-<option value="mw">Malawi</option>
-<option value="my">Malaysia</option>
-<option value="mv">Maldives</option>
-<option value="ml">Mali</option>
-<option value="mt">Malta</option>
-<option value="mh">Marshall Islands</option>
-<option value="mq">Martinique</option>
-<option value="mr">Mauritania</option>
-<option value="mu">Mauritius</option>
-<option value="yt">Mayotte</option>
-<option value="mx">Mexico</option>
-<option value="fm">Micronesia</option>
-<option value="md">Moldova</option>
-<option value="mc">Monaco</option>
-<option value="mn">Mongolia</option>
-<option value="me">Montenegro</option>
-<option value="ms">Montserrat</option>
-<option value="ma">Morocco</option>
-<option value="mz">Mozambique</option>
-<option value="mm">Myanmar</option>
-<option value="na">Namibia</option>
-<option value="nr">Nauru</option>
-<option value="np">Nepal</option>
-<option value="nl">Netherlands</option>
-<option value="an">Netherlands Antilles</option>
-<option value="nc">New Caledonia</option>
-<option value="nz">New Zealand</option>
-<option value="ni">Nicaragua</option>
-<option value="ne">Niger</option>
-<option value="ng">Nigeria</option>
-<option value="nu">Niue</option>
-<option value="nf">Norfolk Island</option>
-<option value="mp">Northern Mariana Islands</option>
-<option value="no">Norway</option>
-<option value="om">Oman</option>
-<option value="pk">Pakistan</option>
-<option value="pw">Palau</option>
-<option value="ps">Palestinian Territory</option>
-<option value="pa">Panama</option>
-<option value="pg">Papua New Guinea</option>
-<option value="py">Paraguay</option>
-<option value="pe">Peru</option>
-<option value="ph">Philippines</option>
-<option value="pn">Pitcairn Islands</option>
-<option value="pl">Poland</option>
-<option value="pt">Portugal</option>
-<option value="pr">Puerto Rico</option>
-<option value="qa">Qatar</option>
-<option value="re">Réunion</option>
-<option value="ro">Romania</option>
-<option value="ru">Russia</option>
-<option value="rw">Rwanda</option>
-<option value="bl">Saint Barthélemy</option>
-<option value="sh">Saint Helena</option>
-<option value="kn">Saint Kitts and Nevis</option>
-<option value="lc">Saint Lucia</option>
-<option value="mf">Saint Martin</option>
-<option value="pm">Saint Pierre and Miquelon</option>
-<option value="vc">Saint Vincent and the Grenadines</option>
-<option value="ws">Samoa</option>
-<option value="sm">San Marino</option>
-<option value="st">São Tomé and Príncipe</option>
-<option value="sa">Saudi Arabia</option>
-<option value="sn">Senegal</option>
-<option value="rs">Serbia</option>
-<option value="sc">Seychelles</option>
-<option value="gs">S.Georgia &amp; S.Sandwich Islands</option>
-<option value="sl">Sierra Leone</option>
-<option value="sg">Singapore</option>
-<option value="sk">Slovakia</option>
-<option value="si">Slovenia</option>
-<option value="sb">Solomon Islands</option>
-<option value="so">Somalia</option>
-<option value="za">South Africa</option>
-<option value="es">Spain</option>
-<option value="lk">Sri Lanka</option>
-<option value="sd">Sudan</option>
-<option value="sr">Suriname</option>
-<option value="sj">Svalbard and Jan Mayen</option>
-<option value="sz">Swaziland</option>
-<option value="se">Sweden</option>
-<option value="ch">Switzerland</option>
-<option value="sy">Syria</option>
-<option value="tw">Taiwan, China</option>
-<option value="tj">Tajikistan</option>
-<option value="tz">Tanzania</option>
-<option value="th">Thailand</option>
-<option value="tl">Timor-Leste</option>
-<option value="tg">Togo</option>
-<option value="tk">Tokelau</option>
-<option value="to">Tonga</option>
-<option value="tt">Trinidad and Tobago</option>
-<option value="tn">Tunisia</option>
-<option value="tr">Turkey</option>
-<option value="tm">Turkmenistan</option>
-<option value="tc">Turks and Caicos Islands</option>
-<option value="tv">Tuvalu</option>
-<option value="ug">Uganda</option>
-<option value="ua">Ukraine</option>
-<option value="ae">United Arab Emirates</option>
-<option value="gb">United Kingdom</option>
-<option value="us">United States</option>
-<option value="uy">Uruguay</option>
-<option value="um">US Minor Outlying Islands</option>
-<option value="uz">Uzbekistan</option>
-<option value="vu">Vanuatu</option>
-<option value="va">Vatican City</option>
-<option value="ve">Venezuela</option>
-<option value="vn">Vietnam</option>
-<option value="vg">Virgin Islands, British</option>
-<option value="vi">Virgin Islands, US</option>
-<option value="wf">Wallis and Futuna</option>
-<option value="eh">Western Sahara</option>
-<option value="ye">Yemen</option>
-<option value="zm">Zambia</option>
-<option value="zw">Zimbabwe</option></select>&nbsp;
+							<option value="af">Tenders in Afghanistan</option>
+<option value="ax">Tenders in Åland Islands</option>
+<option value="al">Tenders in Albania</option>
+<option value="dz">Tenders in Algeria</option>
+<option value="as">Tenders in American Samoa</option>
+<option value="ad">Tenders in Andorra</option>
+<option value="ao">Tenders in Angola</option>
+<option value="ai">Tenders in Anguilla</option>
+<option value="ag">Tenders in Antigua and Barbuda</option>
+<option value="ar">Tenders in Argentina</option>
+<option value="am">Tenders in Armenia</option>
+<option value="aw">Tenders in Aruba</option>
+<option value="au">Tenders in Australia</option>
+<option value="at">Tenders in Austria</option>
+<option value="az">Tenders in Azerbaijan</option>
+<option value="bs">Tenders in Bahamas</option>
+<option value="bh">Tenders in Bahrain</option>
+<option value="bd">Tenders in Bangladesh</option>
+<option value="bb">Tenders in Barbados</option>
+<option value="by">Tenders in Belarus</option>
+<option value="be">Tenders in Belgium</option>
+<option value="bz">Tenders in Belize</option>
+<option value="bj">Tenders in Benin</option>
+<option value="bm">Tenders in Bermuda</option>
+<option value="bt">Tenders in Bhutan</option>
+<option value="bo">Tenders in Bolivia</option>
+<option value="bq">Tenders in Bonaire, Saint Eustatius and Saba</option>
+<option value="ba">Tenders in Bosnia and Herzegovina</option>
+<option value="bw">Tenders in Botswana</option>
+<option value="bv">Tenders in Bouvet Island</option>
+<option value="br">Tenders in Brazil</option>
+<option value="io">Tenders in British Indian Ocean Territory</option>
+<option value="bn">Tenders in Brunei</option>
+<option value="bg">Tenders in Bulgaria</option>
+<option value="bf">Tenders in Burkina Faso</option>
+<option value="bi">Tenders in Burundi</option>
+<option value="kh">Tenders in Cambodia</option>
+<option value="cm">Tenders in Cameroon</option>
+<option value="ca">Tenders in Canada</option>
+<option value="cv">Tenders in Cape Verde</option>
+<option value="ky">Tenders in Cayman Islands</option>
+<option value="cf">Tenders in Central African Republic</option>
+<option value="td">Tenders in Chad</option>
+<option value="cl">Tenders in Chile</option>
+<option value="cn">Tenders in China</option>
+<option value="cx">Tenders in Christmas Island</option>
+<option value="cc">Tenders in Cocos (Keeling) Islands</option>
+<option value="co">Tenders in Colombia</option>
+<option value="km">Tenders in Comoros</option>
+<option value="cd">Tenders in Congo, Democratic Republic</option>
+<option value="cg">Tenders in Congo, Republic</option>
+<option value="ck">Tenders in Cook Islands</option>
+<option value="cr">Tenders in Costa Rica</option>
+<option value="ci">Tenders in Côte d'Ivoire</option>
+<option value="hr">Tenders in Croatia</option>
+<option value="cu">Tenders in Cuba</option>
+<option value="cw">Tenders in Curaçao</option>
+<option value="cy">Tenders in Cyprus</option>
+<option value="cz">Tenders in Czech Republic</option>
+<option value="dk">Tenders in Denmark</option>
+<option value="dj">Tenders in Djibouti</option>
+<option value="dm">Tenders in Dominica</option>
+<option value="do">Tenders in Dominican Republic</option>
+<option value="ec">Tenders in Ecuador</option>
+<option value="eg">Tenders in Egypt</option>
+<option value="sv">Tenders in El Salvador</option>
+<option value="gq">Tenders in Equatorial Guinea</option>
+<option value="er">Tenders in Eritrea</option>
+<option value="ee">Tenders in Estonia</option>
+<option value="et">Tenders in Ethiopia</option>
+<option value="fo">Tenders in Faeroe Islands</option>
+<option value="fk">Tenders in Falkland Islands</option>
+<option value="fj">Tenders in Fiji</option>
+<option value="fi">Tenders in Finland</option>
+<option value="fr">Tenders in France</option>
+<option value="gf">Tenders in French Guiana</option>
+<option value="pf">Tenders in French Polynesia</option>
+<option value="tf">Tenders in French Southern Territories</option>
+<option value="ga">Tenders in Gabon</option>
+<option value="gm">Tenders in Gambia</option>
+<option value="ge">Tenders in Georgia</option>
+<option value="de">Tenders in Germany</option>
+<option value="gh">Tenders in Ghana</option>
+<option value="gi">Tenders in Gibraltar</option>
+<option value="gr">Tenders in Greece</option>
+<option value="gl">Tenders in Greenland</option>
+<option value="gd">Tenders in Grenada</option>
+<option value="gp">Tenders in Guadeloupe</option>
+<option value="gu">Tenders in Guam</option>
+<option value="gt">Tenders in Guatemala</option>
+<option value="gg">Tenders in Guernsey</option>
+<option value="gn">Tenders in Guinea</option>
+<option value="gw">Tenders in Guinea-Bissau</option>
+<option value="gy">Tenders in Guyana</option>
+<option value="ht">Tenders in Haiti</option>
+<option value="hm">Tenders in Heard Island and McDonald Islands</option>
+<option value="hn">Tenders in Honduras</option>
+<option value="hk">Tenders in Hong Kong, China</option>
+<option value="hu">Tenders in Hungary</option>
+<option value="is">Tenders in Iceland</option>
+<option value="in">Tenders in India</option>
+<option value="id">Tenders in Indonesia</option>
+<option value="ir">Tenders in Iran</option>
+<option value="iq">Tenders in Iraq</option>
+<option value="ie">Tenders in Ireland</option>
+<option value="im">Tenders in Isle of Man</option>
+<option value="il">Tenders in Israel</option>
+<option value="it">Tenders in Italy</option>
+<option value="jm">Tenders in Jamaica</option>
+<option value="jp">Tenders in Japan</option>
+<option value="je">Tenders in Jersey</option>
+<option value="jo">Tenders in Jordan</option>
+<option value="kz">Tenders in Kazakhstan</option>
+<option value="ke">Tenders in Kenya</option>
+<option value="ki">Tenders in Kiribati</option>
+<option value="kp">Tenders in Korea, North</option>
+<option value="kr">Tenders in Korea, South</option>
+<option value="kw">Tenders in Kuwait</option>
+<option value="kg">Tenders in Kyrgyzstan</option>
+<option value="la">Tenders in Laos</option>
+<option value="lv">Tenders in Latvia</option>
+<option value="lb">Tenders in Lebanon</option>
+<option value="ls">Tenders in Lesotho</option>
+<option value="lr">Tenders in Liberia</option>
+<option value="ly">Tenders in Libya</option>
+<option value="li">Tenders in Liechtenstein</option>
+<option value="lt">Tenders in Lithuania</option>
+<option value="lu">Tenders in Luxembourg</option>
+<option value="mo">Tenders in Macao, China</option>
+<option value="mk">Tenders in Macedonia</option>
+<option value="mg">Tenders in Madagascar</option>
+<option value="mw">Tenders in Malawi</option>
+<option value="my">Tenders in Malaysia</option>
+<option value="mv">Tenders in Maldives</option>
+<option value="ml">Tenders in Mali</option>
+<option value="mt">Tenders in Malta</option>
+<option value="mh">Tenders in Marshall Islands</option>
+<option value="mq">Tenders in Martinique</option>
+<option value="mr">Tenders in Mauritania</option>
+<option value="mu">Tenders in Mauritius</option>
+<option value="yt">Tenders in Mayotte</option>
+<option value="mx">Tenders in Mexico</option>
+<option value="fm">Tenders in Micronesia</option>
+<option value="md">Tenders in Moldova</option>
+<option value="mc">Tenders in Monaco</option>
+<option value="mn">Tenders in Mongolia</option>
+<option value="me">Tenders in Montenegro</option>
+<option value="ms">Tenders in Montserrat</option>
+<option value="ma">Tenders in Morocco</option>
+<option value="mz">Tenders in Mozambique</option>
+<option value="mm">Tenders in Myanmar</option>
+<option value="na">Tenders in Namibia</option>
+<option value="nr">Tenders in Nauru</option>
+<option value="np">Tenders in Nepal</option>
+<option value="nl">Tenders in Netherlands</option>
+<option value="nc">Tenders in New Caledonia</option>
+<option value="nz">Tenders in New Zealand</option>
+<option value="ni">Tenders in Nicaragua</option>
+<option value="ne">Tenders in Niger</option>
+<option value="ng">Tenders in Nigeria</option>
+<option value="nu">Tenders in Niue</option>
+<option value="nf">Tenders in Norfolk Island</option>
+<option value="mp">Tenders in Northern Mariana Islands</option>
+<option value="no">Tenders in Norway</option>
+<option value="om">Tenders in Oman</option>
+<option value="pk">Tenders in Pakistan</option>
+<option value="pw">Tenders in Palau</option>
+<option value="ps">Tenders in Palestinian Territory</option>
+<option value="pa">Tenders in Panama</option>
+<option value="pg">Tenders in Papua New Guinea</option>
+<option value="py">Tenders in Paraguay</option>
+<option value="pe">Tenders in Peru</option>
+<option value="ph">Tenders in Philippines</option>
+<option value="pn">Tenders in Pitcairn Islands</option>
+<option value="pl">Tenders in Poland</option>
+<option value="pt">Tenders in Portugal</option>
+<option value="pr">Tenders in Puerto Rico</option>
+<option value="qa">Tenders in Qatar</option>
+<option value="re">Tenders in Réunion</option>
+<option value="ro">Tenders in Romania</option>
+<option value="ru">Tenders in Russia</option>
+<option value="rw">Tenders in Rwanda</option>
+<option value="bl">Tenders in Saint Barthélemy</option>
+<option value="sh">Tenders in Saint Helena</option>
+<option value="kn">Tenders in Saint Kitts and Nevis</option>
+<option value="lc">Tenders in Saint Lucia</option>
+<option value="mf">Tenders in Saint Martin</option>
+<option value="pm">Tenders in Saint Pierre and Miquelon</option>
+<option value="vc">Tenders in Saint Vincent and the Grenadines</option>
+<option value="ws">Tenders in Samoa</option>
+<option value="sm">Tenders in San Marino</option>
+<option value="st">Tenders in São Tomé and Príncipe</option>
+<option value="sa">Tenders in Saudi Arabia</option>
+<option value="sn">Tenders in Senegal</option>
+<option value="rs">Tenders in Serbia</option>
+<option value="sc">Tenders in Seychelles</option>
+<option value="gs">Tenders in S.Georgia &amp; S.Sandwich Islands</option>
+<option value="sl">Tenders in Sierra Leone</option>
+<option value="sg">Tenders in Singapore</option>
+<option value="sx">Tenders in Sint Maarten</option>
+<option value="sk">Tenders in Slovakia</option>
+<option value="si">Tenders in Slovenia</option>
+<option value="sb">Tenders in Solomon Islands</option>
+<option value="so">Tenders in Somalia</option>
+<option value="za">Tenders in South Africa</option>
+<option value="es">Tenders in Spain</option>
+<option value="lk">Tenders in Sri Lanka</option>
+<option value="sd">Tenders in Sudan</option>
+<option value="sr">Tenders in Suriname</option>
+<option value="sj">Tenders in Svalbard and Jan Mayen</option>
+<option value="sz">Tenders in Swaziland</option>
+<option value="se">Tenders in Sweden</option>
+<option value="ch">Tenders in Switzerland</option>
+<option value="sy">Tenders in Syria</option>
+<option value="tw">Tenders in Taiwan, China</option>
+<option value="tj">Tenders in Tajikistan</option>
+<option value="tz">Tenders in Tanzania</option>
+<option value="th">Tenders in Thailand</option>
+<option value="tl">Tenders in Timor-Leste</option>
+<option value="tg">Tenders in Togo</option>
+<option value="tk">Tenders in Tokelau</option>
+<option value="to">Tenders in Tonga</option>
+<option value="tt">Tenders in Trinidad and Tobago</option>
+<option value="tn">Tenders in Tunisia</option>
+<option value="tr">Tenders in Turkey</option>
+<option value="tm">Tenders in Turkmenistan</option>
+<option value="tc">Tenders in Turks and Caicos Islands</option>
+<option value="tv">Tenders in Tuvalu</option>
+<option value="ug">Tenders in Uganda</option>
+<option value="ua">Tenders in Ukraine</option>
+<option value="ae">Tenders in United Arab Emirates</option>
+<option value="gb">Tenders in United Kingdom</option>
+<option value="us">Tenders in United States</option>
+<option value="uy">Tenders in Uruguay</option>
+<option value="um">Tenders in US Minor Outlying Islands</option>
+<option value="uz">Tenders in Uzbekistan</option>
+<option value="vu">Tenders in Vanuatu</option>
+<option value="va">Tenders in Vatican City</option>
+<option value="ve">Tenders in Venezuela</option>
+<option value="vn">Tenders in Vietnam</option>
+<option value="vg">Tenders in Virgin Islands, British</option>
+<option value="vi">Tenders in Virgin Islands, US</option>
+<option value="wf">Tenders in Wallis and Futuna</option>
+<option value="eh">Tenders in Western Sahara</option>
+<option value="ye">Tenders in Yemen</option>
+<option value="zm">Tenders in Zambia</option>
+<option value="zw">Tenders in Zimbabwe</option></select>&nbsp;
 						
 						<input type="hidden" name="status" value="">
 						  
@@ -628,6 +933,10 @@ function switchLanguage(obj) {
 	</div>
 	<b class="cbottom"><b class="c4"></b><b class="c3"></b><b class="c2"></b><b class="c1"></b></b>
 </div>
+<script type="text/javascript" src="/TEMPLATE/dgMarket/script/suggestions.js"></script>
+<script type="text/javascript">ajaxSuggestions.searchBase="/tenders/suggestions.do"</script>
+
+
 
 		
 
@@ -650,6 +959,8 @@ function switchLanguage(obj) {
 
 
 
+
+
 <script type="text/javascript" src="/TEMPLATE/blank/module/common/js/validator.js"></script>
 
 <script type="text/javascript" language="Javascript1.1"> 
@@ -666,7 +977,7 @@ function switchLanguage(obj) {
    } 
 
     function email () { 
-     this.aa = new Array("username", "Email address is an invalid e-mail address.", new Function ("varName", " return this[varName];"));
+     this.aa = new Array("username", "Email address is invalid", new Function ("varName", " return this[varName];"));
     } 
 
     function required () { 
@@ -675,7 +986,7 @@ function switchLanguage(obj) {
     } 
 
     function maxlength () { 
-     this.aa = new Array("password", "Your Password: can not exceed than @en.170028.30 characters.", new Function ("varName", "this.maxlength='30';  return this[varName];"));
+     this.aa = new Array("password", "Your Password: can not exceed than 30 characters.", new Function ("varName", "this.maxlength='30';  return this[varName];"));
     } 
 
 /* Methods are in validator.js */
@@ -684,7 +995,7 @@ function switchLanguage(obj) {
 
 
 
-<!------------------------- LOGIN------ -------------- -->
+
 
 
 <tbody><tr><td>
@@ -696,21 +1007,34 @@ function switchLanguage(obj) {
 				</h1>
 				
 		<ul>
-			<li>
-				<input class="search-box" type="text" name="username" value="Email" onfocus="if (this.value=='Email') {this.value=''; this.style.color='#000000'; }" onblur="if (this.value=='') {this.value='Email'; this.style.color='#888888'; }" style="color: #888888; font-family: Verdana, Helvetica; font-size: 100%; width: 180px;">
+			<li class="alignCenter">
+				<input class="search-box" type="text" name="username" value="Email" onfocus="if (this.value=='Email') {this.value=''; this.style.color='#000000'; }" onblur="if (this.value=='') {this.value='Email'; this.style.color='#888888'; }" style="color: #888888; font-family: Verdana, Helvetica; font-size: 100%; width: 180px; height: 1.6em;">
 	       	</li>
 	       			
-	       	<li>
-	       		<input type="password" name="password" value="Your Password:" onfocus="if (this.value=='Your Password:') {this.value=''; this.style.color='#000000'; }" onblur="if (this.value=='') {this.value='Your Password:'; this.style.color='#888888'; }" style="color: #888888; font-family: Verdana, Helvetica; font-size: 100%; width: 180px; ">
+	       	<li class="alignCenter">
+	       		<input type="password" name="password" value="Your Password:" onfocus="if (this.value=='Your Password:') {this.value=''; this.style.color='#000000'; }" onblur="if (this.value=='') {this.value='Your Password:'; this.style.color='#888888'; }" style="color: #888888; font-family: Verdana, Helvetica; font-size: 100%; width: 180px; height: 1.6em;">
 	       	</li>
 	       	
-	       	<li>
+	       	<li class="alignCenter">
 	       		<input style="font-family: Arial, Verdana, Helvetica, sans-serif;" type="submit" value="Log In">
 	       	</li>
 	       	
-	       	<li>
+	       	<li class="alignCenter">
 	       		New user? <a href="/um~user/showUserRegister.do">Please register</a>
 		    	<input type="hidden" name="saveLogin" value="true">
+	       	</li>
+	       	
+	       	<li class="open_ID_text">
+	       		or use your account with
+	       	</li>
+	       	
+	       	<li class="alignCenter">
+	       	<a style="text-decoration: none;" class="rpxnow" onclick="return false;" href="https://dgmarket.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.dgmarket.com%2Feproc%2FjanrainLogin.do">
+	       		<img src="/SITE//dgmarket/images/facebook_small.png">
+	       		<img src="/SITE//dgmarket/images/google_small.png">
+	       		<img src="/SITE//dgmarket/images/yahoo_small.png">
+	       		<img src="/SITE//dgmarket/images/microsoft_small.png">
+	       	</a>
 	       	</li>
 	    </ul>
 	       
@@ -724,6 +1048,17 @@ function switchLanguage(obj) {
 			<img src="/TEMPLATE/dgMarket/images/shim.gif" height="20" width="1" alt=" ">
 		</td>
 	</tr>
+
+<script type="text/javascript">
+  var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
+  document.write(unescape("%3Cscript src='" + rpxJsHost + "rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://rpxnow.com/js/lib/rpx.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+  RPXNOW.overlay = true;
+  RPXNOW.language_preference = 'en';
+</script>
+
 
 
 
@@ -750,9 +1085,10 @@ function switchLanguage(obj) {
 
 
 <tr>
-	<td align="center">
+	<td align="left">
 		<div id="publish">
-			Do you want to publish your tenders on dgmarket?
+			
+			Do you want to publish your tenders on dgMarket?
 			<br>
 			
 			
@@ -771,7 +1107,13 @@ function switchLanguage(obj) {
 		</tbody></table>
 	</div>
 </div>
-
+			
+			<script type="text/javascript">
+				if (timeout)
+					window.clearTimeout(timeout);
+				$('#loadingAnimationWrapper').hide();
+			</script>
+			
 			<div id="content">
 				<table cellpadding="0" cellspacing="0" width="100%">
 					<tbody><tr>
@@ -789,24 +1131,26 @@ function switchLanguage(obj) {
 			</h2>
 			<br>
 			<div align="justify" style="font-size: smaller;">
-				<p>Your personal privacy is absolutely important to us. Because of that, Gateway operates by these principles:&nbsp;
+				<p>Your personal privacy is absolutely important to us. Because of that, dgMarket operates by these principles:&nbsp;
 			</p></div>
 
 			<div align="justify" style="font-size: smaller;">
-				<p>You are never required to provide any personal information in order to use our site for browsing purposes. When we ask for information that personally identifies you, it is used only in providing the information you have requested. For example, Gateway can deliver related news, and 
+				<p>You are never required to provide any personal information in order to use our site for browsing purposes. When we ask for information that personally identifies you, it is used only in providing the information you have requested. For example, dgMarket can deliver related news, and 
 alerts on content updates directly to you via email, but to do that we have to ask for your email address.&nbsp;
 			</p></div>	
 
 			<div align="justify" style="font-size: smaller;">
-				<p>At no time does the Gateway share, give, or sell any personal information about you. If you decide to personalize your Gateway visits by setting user preferences, we store those preferences in a text file called a 'cookie' in the browser files of your computer. This cookie lets the 
-Gateway remember your personalized settings between visits. This information is stored on your computer, not on the Gateway server. The Development Gateway is currently using Google Analytics to track and analyze non-personally identifiable usage and volume 
-statistical information from our visitors and customers to administer our web site in order to constantly improve the web site quality. All data collected by Google Analytics on behalf of the Development Gateway is owned and used by the Development Gateway. The Development Gateway 
+				<p>At no time does dgMarket share, give, or sell any personal information about you. If you decide to personalize your dgMarket visits by setting user preferences, we store those preferences in a text file called a 'cookie' in the browser files of your computer. This cookie lets the 
+Gateway remember your personalized settings between visits. This information is stored on your computer, not on the dgMarket server. 
+dgMarket is currently using Google Analytics to track and analyze non-personally identifiable usage and volume 
+statistical information from our visitors and customers to administer our web site in order to constantly improve the web site quality. All data collected by Google Analytics on behalf of dgMarket is owned and used by dgMarket. 
+dgMarket 
 reserves the right to publish non-personally identifiable, summary information regarding its web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities 
 of our visitors and customers.&nbsp;
 			</p></div>	
 
 			<div align="justify" style="font-size: smaller;">
-				<p>If at any time you believe the Gateway has not adhered to these principles, please notify us by email to info@dgmarket.com and we will use all reasonable efforts to determine and correct the problem.&nbsp;
+				<p>If at any time you believe dgMarket has not adhered to these principles, please notify us by email to info@dgmarket.com and we will use all reasonable efforts to determine and correct the problem.&nbsp;
 			</p></div>	
 
 			<div align="justify" style="font-size: smaller;">
@@ -827,6 +1171,8 @@ of our visitors and customers.&nbsp;
 
 	<div id="footer" class="NonPrintable">
 		
+
+<script type="text/javascript" src="/TEMPLATE/dgMarket/script/akModal.js"></script>
 
 
 
@@ -913,7 +1259,7 @@ of our visitors and customers.&nbsp;
 
 	
 	
-	<a onclick="dgMarketTotalTracker._link('http://dgmarket.kapatel.gr/'); return false;" href="http://dgmarket.kapatel.gr/">Ελληνικά</a>
+	<a onclick="dgMarketTotalTracker._link('http://dgmarket.express.gr/'); return false;" href="http://dgmarket.express.gr/">Ελληνικά</a>
 
 	
 	
@@ -953,6 +1299,16 @@ of our visitors and customers.&nbsp;
 		
 	 	<div class="footer_menu">
 	 	
+	 	
+	 	<a href="http://www.dgmarket.com/tenders/FeedbackPopup.do" class="footer_feedback" onclick="$.showAkModal(this.href, 600, 470); return false;">
+	 		
+				<img src="/TEMPLATE/blank/images/feedback.gif" class="feedback-animation-image">
+				<br>
+				<div> Feedback </div> 
+										   
+		</a>
+		
+	 	
 	 	<table cellpadding="0" cellspacing="0" width="60%">	   		
 			   		<tbody><tr>
 			   		   	<td valign="top">
@@ -983,7 +1339,7 @@ of our visitors and customers.&nbsp;
 						
 						<br>
 
-						<a href="/tenders/ContactUs.do">Contact Us</a>
+						<a href="/tenders/ContactUs.do">Contact us</a>
 				</div> 
 				
 							<div class="footer_transmode">
@@ -1089,9 +1445,11 @@ removeUTMVCookies();
 	</div>
 </div>
 
-
 	</div>
 </div>
 
+<div id="search-result-suggestions" align="left">
+  <div id="search-results">&nbsp;</div>
+</div>
 
 </body></html>
