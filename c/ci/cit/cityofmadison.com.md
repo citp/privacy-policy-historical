@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofmadison.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122082818id_/http%3A//www.cityofmadison.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofmadison.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213051619id_/http%3A//www.cityofmadison.com/privacy.cfm) for the most accurate reproduction.*
 
 # Welcome to the City of Madison, Wisconsin
 
