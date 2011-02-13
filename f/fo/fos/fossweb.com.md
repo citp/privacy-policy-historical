@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fossweb.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220025354id_/http%3A//lhsfoss.org/fossweb/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fossweb.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213015555id_/http%3A//lhsfoss.org/fossweb/privacy.html) for the most accurate reproduction.*
 
 # Fossweb: Privacy Policy
 
