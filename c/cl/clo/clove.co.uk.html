@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clove.co.uk privacy policy that was archived on 2010-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101130054952id_/http%3A//www.clove.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clove.co.uk privacy policy that was archived on 2011-02-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110213220424id_/http%3A//www.clove.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -57,10 +57,10 @@ try {
       </div>
   
       <div id="headerSearch" class="formInput">
-        <form method="post" name="formSearch" action="/search.aspx" id="headerSearchForm">
+        <form method="post" name="formSearch" action="/search.aspx" id="headerSearchForm" autocomplete="off">
           <input type="hidden" name="intPage" value="1">
 
-          <input value="Keyword search..." type="text" name="strkeyword" onclick="this.value='';" style="width: 170px;" maxlength="50">
+          <input value="Keyword search..." type="text" id="nxt-ac-searchbox" name="strkeyword" onclick="this.value='';" style="width: 170px;" maxlength="50">
 
           <input type="image" src="/images/common/pageheader_searchbtn.gif" alt="Go" id="headerSearchBtn">
         </form>
@@ -79,7 +79,7 @@ try {
       <a href="/"><img src="/images/common/navbar_home.gif" onmouseover="Javascript:this.src='/images/common/navbar_home_ro.gif';" onmouseout="Javascript:this.src='/images/common/navbar_home.gif';" alt="Home" name="navbar_home" width="140" height="51" border="0" id="navbar_home" class="navbarButton"></a>
       <a href="/smartphones"><img src="/images/common/navbar_smartphones.gif" onmouseover="Javascript:this.src='/images/common/navbar_smartphones_ro.gif';" onmouseout="Javascript:this.src='/images/common/navbar_smartphones.gif';" alt="Smartphones" name="navbar_smartphones" width="138" height="51" border="0" id="navbar_smartphones" class="navbarButton"></a>
       <a href="/accessories"><img src="/images/common/navbar_accessories.gif" onmouseover="Javascript:this.src='/images/common/navbar_accessories_ro.gif';" onmouseout="Javascript:this.src='/images/common/navbar_accessories.gif';" alt="Accessories" name="navbar_accessories" width="138" height="51" border="0" id="navbar_accessories" class="navbarButton"></a>
-      <a href="/netbooks"><img src="/images/common/navbar_netbooks.gif" onmouseover="Javascript:this.src='/images/common/navbar_netbooks_ro.gif';" onmouseout="Javascript:this.src='/images/common/navbar_netbooks.gif';" alt="Netbooks" name="navbar_netbooks" width="138" height="51" border="0" id="navbar_netbooks" class="navbarButton"></a>
+      <a href="/tablets"><img src="/images/common/navbar_tablets.gif" onmouseover="Javascript:this.src='/images/common/navbar_tablets_ro.gif';" onmouseout="Javascript:this.src='/images/common/navbar_tablets.gif';" alt="Tablets" name="navbar_tablets" width="138" height="51" border="0" id="navbar_tablets" class="navbarButton"></a>
       <a href="/computing"><img src="/images/common/navbar_computing.gif" onmouseover="Javascript:this.src='/images/common/navbar_computing_ro.gif';" onmouseout="Javascript:this.src='/images/common/navbar_computing.gif';" alt="Computing" name="navbar_computing" width="138" height="51" border="0" id="navbar_computing" class="navbarButton"></a>
       <a href="/memory"><img src="/images/common/navbar_memory.gif" onmouseover="Javascript:this.src='/images/common/navbar_memory_ro.gif';" onmouseout="Javascript:this.src='/images/common/navbar_memory.gif';" alt="Memory" name="navbar_gps" width="138" height="51" border="0" id="navbar_gps" class="navbarButton"></a>
       <a href="/checkout.aspx"><img src="/images/common/navbar_checkout.gif" onmouseover="Javascript:this.src='/images/common/navbar_checkout_ro.gif';" onmouseout="Javascript:this.src='/images/common/navbar_checkout.gif';" alt="Checkout" name="navbar_memory" width="140" height="51" border="0" id="navbar_memory" class="navbarButton"></a>
@@ -104,7 +104,7 @@ try {
 
         <!-- START DEPARTMENTS -->
         <div id="departmentNav">
-          <div class="buttonPanel" onclick="window.location='/smartphones';"><a href="/smartphones" title="Smartphones">Smartphones</a></div><div class="buttonPanel" onclick="window.location='/accessories';"><a href="/accessories" title="Accessories">Accessories</a></div><div class="buttonPanel" onclick="window.location='/netbooks';"><a href="/netbooks" title="Netbooks">Netbooks</a></div><div class="buttonPanel" onclick="window.location='/computing';"><a href="/computing" title="Computing">Computing</a></div><div class="buttonPanel" onclick="window.location='/tablets';"><a href="/tablets" title="Tablets">Tablets</a></div><div class="buttonPanel" onclick="window.location='/memory';"><a href="/memory" title="Memory">Memory</a></div>
+          <div class="buttonPanel" onclick="window.location='/smartphones';"><a href="/smartphones" title="Smartphones">Smartphones</a></div><div class="buttonPanel" onclick="window.location='/accessories';"><a href="/accessories" title="Accessories">Accessories</a></div><div class="buttonPanel" onclick="window.location='/computing';"><a href="/computing" title="Computing">Computing</a></div><div class="buttonPanel" onclick="window.location='/tablets';"><a href="/tablets" title="Tablets">Tablets</a></div><div class="buttonPanel" onclick="window.location='/memory';"><a href="/memory" title="Memory">Memory</a></div><div class="buttonPanel" onclick="window.location='/clearance-special-offers';"><a href="/clearance-special-offers" title="Clearance / Special Offers">Clearance / Special Offers</a></div>
           <div class="buttonPanel"><a href="/business">Business</a></div>
           <div class="buttonPanel"><a href="/insurance">Insurance</a></div>
           <div class="buttonPanel"><a href="/software-store">Software Store</a></div>
@@ -136,14 +136,15 @@ try {
 <option value="Cameron Sino">Cameron Sino</option>
 <option value="Case-Mate">Case-Mate</option>
 <option value="Dell">Dell</option>
-<option value="Expansys">Expansys</option>
 <option value="GlobalSat">GlobalSat</option>
 <option value="Herbert Richter">Herbert Richter</option>
 <option value="HP">HP</option>
+<option value="HP Palm">HP Palm</option>
 <option value="HTC">HTC</option>
 <option value="Huawei">Huawei</option>
 <option value="IDAPT">IDAPT</option>
 <option value="Jabra">Jabra</option>
+<option value="Kingston">Kingston</option>
 <option value="Motorola">Motorola</option>
 <option value="Motorola - Symbol">Motorola - Symbol</option>
 <option value="Nokia">Nokia</option>
@@ -153,12 +154,11 @@ try {
 <option value="ORA">ORA</option>
 <option value="Otterbox">Otterbox</option>
 <option value="Palm">Palm</option>
-<option value="Parrot">Parrot</option>
+<option value="PDair">PDair</option>
 <option value="Plantronics">Plantronics</option>
 <option value="Powermat">Powermat</option>
 <option value="Proporta">Proporta</option>
 <option value="Samsung">Samsung</option>
-<option value="SanDisk">SanDisk</option>
 <option value="Sierra Wireless ">Sierra Wireless </option>
 <option value="Sony Ericsson">Sony Ericsson</option>
 <option value="Sygic">Sygic</option>
@@ -166,7 +166,6 @@ try {
 <option value="Transcend">Transcend</option>
 <option value="U20">U20</option>
 <option value="Various">Various</option>
-<option value="X-mini">X-mini</option>
             </select>
             
             <!-- END BRAND DROPDOWN // -->
@@ -239,13 +238,13 @@ try {
 
             
 <div class="newsPanel">
-  <a href="http://blog.clove.co.uk/2010/11/23/motorola-milestone-2-screen-shots-dlna-media-sharing/" target="_blank">Motorola Milestone 2 Screen Shots: DLNA &amp; Media Sharing</a>
+  <a href="http://blog.clove.co.uk/2011/02/11/nokia-symbian-out-windows-phone-in/" target="_blank">Nokia: Symbian Out, Windows Phone In</a>
 </div>
 <div class="newsPanel">
-  <a href="http://blog.clove.co.uk/2010/11/23/paypal-payment-facility-disabled-on-clove-website/" target="_blank">PayPal Payment Facility Disabled on Clove Website</a>
+  <a href="http://blog.clove.co.uk/2011/02/10/hp-webos-hp-veer-hp-pre-3-hp-touchpad/" target="_blank">HP webOS / HP Veer / HP Pre 3 / HP TouchPad</a>
 </div>
 <div class="newsPanel">
-  <a href="http://blog.clove.co.uk/2010/11/22/blackberry-bold-9780-accessories/" target="_blank">BlackBerry Bold 9780 Accessories</a>
+  <a href="http://blog.clove.co.uk/2011/02/10/htc-7-pronot-switching-on/" target="_blank">HTC 7 Pro–Not switching on?</a>
 </div>
 
             <div class="newsPanelMore"><a href="/news.aspx">More news...</a></div>
@@ -346,6 +345,9 @@ try {
       </div>
       <!--END COMPARE PRODUCTS-->
 
+
+
+
         <!--START NEWSLETTER-->
         <div id="compareProducts" class="sideBox">
           <img src="/images/side-box/boxheader_newsletter.gif" alt="Newsletter" width="185" height="32">
@@ -410,24 +412,112 @@ try {
                     
 <div class="bestsellers">
   <center>
-    <img src="/productimages/thumb/DE2420B6-5489-4247-A6C8-427A7D4739C3.png" id="PRODUCT91F515CA-5516-4D43-8171-406D17771FC8_" title="A soft and slim gel case to providing protection and access to all your phone&amp;rsquo;s features" alt="Silicone Skin For BlackBerry Torch 9800 - Black" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/silicone-skin-for-blackberry-torch-9800-black';">
+    <img src="/productimages/thumb/D3BF0766-C7B6-42C8-AD7D-D4CCCAB903DC.png" id="PRODUCT5E22C76D-BABC-4962-B01C-585ABCF3D3F2_" title="The HTC 7 Pro features the Windows Phone 7 OS, a 1GHZ processor &amp; 5MP Camera. The HTC 7 Pro and official HTC 7 Pro accessories are avaialble from Clove " alt="HTC 7 Pro" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/htc-7-pro';">
     
     <div class="bestsellers_title">
-      <a href="/silicone-skin-for-blackberry-torch-9800-black">Silicone Skin For BlackBerry Torch 9800 - Black</a>
+      <a href="/htc-7-pro">HTC 7 Pro</a>
     </div>
     <div class="bestsellers_price">
-              £5.00<br><div class="productCellIncPrice">£5.88 inc. VAT</div></div>
+              £360.00<br><div class="productCellIncPrice">£432.00 inc. VAT</div></div>
   </center>
 </div>
 <div class="bestsellers">
   <center>
-    <img src="/productimages/thumb/A65611C4-A842-4E8D-BC63-6165CF418481.png" id="PRODUCTE1BE1C2A-1AE7-4237-B234-0FE34A4AF685_" title="A handmade hessian pouch to protect your smartphone from bumps and scratches " alt="Proporta Eco-Friendly Hessian Pouch" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/proporta-eco-friendly-hessian-pouch';">
+    <img src="/productimages/thumb/0981C330-94F3-4F16-98B3-B52BB60801F0.png" id="PRODUCT65F6D6D2-85FA-4F5F-AC4F-7A0C0A0B1117_" title="A composite TV out cable for non HD screens utilising the 30 pin connector" alt="Samsung Galaxy Tab P1000 TV Out Cable" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/samsung-galaxy-tab-p1000-tv-out-cable';">
     
     <div class="bestsellers_title">
-      <a href="/proporta-eco-friendly-hessian-pouch">Proporta Eco-Friendly Hessian Pouch</a>
+      <a href="/samsung-galaxy-tab-p1000-tv-out-cable">Samsung Galaxy Tab P1000 TV Out Cable</a>
     </div>
     <div class="bestsellers_price">
-              £15.00<br><div class="productCellIncPrice">£17.63 inc. VAT</div></div>
+              £12.76<br><div class="productCellIncPrice">£15.31 inc. VAT</div></div>
+  </center>
+</div>
+<div class="bestsellers">
+  <center>
+    <img src="/productimages/thumb/12C90EEB-E3F0-4641-9BA8-67FCFB4F481A.png" id="PRODUCT1F63D001-B6B0-43BA-87F0-58F215476E4C_" title="Featuring a 1GHz processor, 8.0 mega pixel camera and 1.5GB of internal storage for the ultimate mobile device." alt="HTC Desire HD" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/htc-desire-hd';">
+    
+    <div class="bestsellers_title">
+      <a href="/htc-desire-hd">HTC Desire HD</a>
+    </div>
+    <div class="bestsellers_price">
+      <span style="text-decoration: line-through;">£365.00</span> <span class="bestsellers_specialprice">£315.99</span><br><div class="productCellIncPrice">£379.19 inc. VAT</div></div>
+  </center>
+</div>
+<div class="bestsellers">
+  <center>
+    <img src="/productimages/thumb/AEF8213B-FD14-4941-896A-9939D9B8A6AF.png" id="PRODUCTD316A927-D9D6-431D-8555-51D121DB6E84_" title="The Motorola DEFY is the Lifeproof Android handset from Motorola. The DEFY features Android 2.1 and is available to purchase from Clove Technology. " alt="Motorola DEFY" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/motorola-defy';">
+    
+    <div class="bestsellers_title">
+      <a href="/motorola-defy">Motorola DEFY</a>
+    </div>
+    <div class="bestsellers_price">
+              £225.00<br><div class="productCellIncPrice">£270.00 inc. VAT</div></div>
+  </center>
+</div>
+<div class="bestsellers">
+  <center>
+    <img src="/productimages/thumb/00B9CAFB-5604-4354-A03A-414755A30A1A.png" id="PRODUCTF6B648A0-6987-4D89-8E9B-18D111C71DF4_" title="The Case Mate Pop! range is inspired by classic Mod styling, absorbing shocks and impacts like a racing glove" alt="Case Mate HTC Desire HD Pop Case - Black/Grey" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/case-mate-htc-desire-hd-pop-case-blackgrey';">
+    
+    <div class="bestsellers_title">
+      <a href="/case-mate-htc-desire-hd-pop-case-blackgrey">Case Mate HTC Desire HD Pop Case - Black/Grey</a>
+    </div>
+    <div class="bestsellers_price">
+              £21.27<br><div class="productCellIncPrice">£25.52 inc. VAT</div></div>
+  </center>
+</div>
+<div class="bestsellers">
+  <center>
+    <img src="/productimages/thumb/0599D1C0-488A-47CD-8B49-5FDE718C4AA7.png" id="PRODUCT60B7CD0A-B79B-49E2-8EBA-09E40E5C6FEB_" title="The Sony Ericsson LiveView enables instant access to all of your social website updates conveniently" alt="Sony Ericsson LiveView" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/sony-ericsson-liveview';">
+    
+    <div class="bestsellers_title">
+      <a href="/sony-ericsson-liveview">Sony Ericsson LiveView</a>
+    </div>
+    <div class="bestsellers_price">
+              £45.11<br><div class="productCellIncPrice">£54.13 inc. VAT</div></div>
+  </center>
+</div>
+<div class="bestsellers">
+  <center>
+    <img src="/productimages/thumb/F3D0DC24-03B6-4B04-A6FD-D6643B41A155.png" id="PRODUCT52F09637-3CA8-4A05-AA69-6F030565082E_" title="A novel universal mounting solution for any smartphone " alt="Clingo Universal Vent Mount" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/clingo-universal-vent-mount';">
+    
+    <div class="bestsellers_title">
+      <a href="/clingo-universal-vent-mount">Clingo Universal Vent Mount</a>
+    </div>
+    <div class="bestsellers_price">
+              £11.00<br><div class="productCellIncPrice">£13.20 inc. VAT</div></div>
+  </center>
+</div>
+<div class="bestsellers">
+  <center>
+    <img src="/productimages/thumb/8AA24F00-7E67-4C8C-87EC-174FEF1253C1.png" id="PRODUCT3DF3125F-ECD0-494D-8B2B-58A2132846B8_" title="Clean up your desktop by dropping your HTC Desire HD (Ace) into a USB sync &amp; charge cradle. Battery slot for charging additional batteries. " alt="Desktop Sync Charge Cradle with Battery Slot HTC Desire HD" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/desktop-sync-charge-cradle-with-battery-slot-htc-desire-hd';">
+    
+    <div class="bestsellers_title">
+      <a href="/desktop-sync-charge-cradle-with-battery-slot-htc-desire-hd">Desktop Sync Charge Cradle with Battery Slot HTC Desire HD</a>
+    </div>
+    <div class="bestsellers_price">
+              £12.00<br><div class="productCellIncPrice">£14.40 inc. VAT</div></div>
+  </center>
+</div>
+<div class="bestsellers">
+  <center>
+    <img src="/productimages/thumb/8394D77E-54BD-49A6-AC0C-9AEFEF7FE215.png" id="PRODUCT4BAFDF3E-CC42-4042-AA90-CDF6FF2EC7C7_" title="Secure your Motorola DEFY securely on your windscreen or dashboard for the perfect in car navigation experience" alt="Motorola DEFY Car Dock" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/motorola-defy-car-dock';">
+    
+    <div class="bestsellers_title">
+      <a href="/motorola-defy-car-dock">Motorola DEFY Car Dock</a>
+    </div>
+    <div class="bestsellers_price">
+              £25.00<br><div class="productCellIncPrice">£30.00 inc. VAT</div></div>
+  </center>
+</div>
+<div class="bestsellers">
+  <center>
+    <img src="/productimages/thumb/F1274766-DF0F-45AA-8A73-62661BEEC363.png" id="PRODUCT72301025-83CC-48F0-BFF4-621AB4AA74D9_" title="An innovative carrying casethat can also double as a stand to view media or work" alt="Samsung Galaxy Tab Diary Carry Case / Stand " border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/samsung-galaxy-tab-diary-carry-case-stand';">
+    
+    <div class="bestsellers_title">
+      <a href="/samsung-galaxy-tab-diary-carry-case-stand">Samsung Galaxy Tab Diary Carry Case / Stand </a>
+    </div>
+    <div class="bestsellers_price">
+              £18.00<br><div class="productCellIncPrice">£21.60 inc. VAT</div></div>
   </center>
 </div>
 <div class="bestsellers">
@@ -438,29 +528,7 @@ try {
       <a href="/samsung-galaxy-tab-p1000-16gb">Samsung Galaxy Tab P1000 - 16GB</a>
     </div>
     <div class="bestsellers_price">
-              £440.00<br><div class="productCellIncPrice">£517.00 inc. VAT</div></div>
-  </center>
-</div>
-<div class="bestsellers">
-  <center>
-    <img src="/productimages/thumb/AEF8213B-FD14-4941-896A-9939D9B8A6AF.png" id="PRODUCTD316A927-D9D6-431D-8555-51D121DB6E84_" title="The Motorola DEFY benefits from being dustproof and resistant to water and scratches. " alt="Motorola DEFY" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/motorola-defy';">
-    
-    <div class="bestsellers_title">
-      <a href="/motorola-defy">Motorola DEFY</a>
-    </div>
-    <div class="bestsellers_price">
-              £235.00<br><div class="productCellIncPrice">£276.13 inc. VAT</div></div>
-  </center>
-</div>
-<div class="bestsellers">
-  <center>
-    <img src="/productimages/thumb/D1D4245F-1ECB-4EEC-8F77-4113ACC85621.png" id="PRODUCTBCE56687-5BAA-4C79-A30D-BF7221940669_" title="An official Samsung Galaxy S I9000 leather flip case.  Protect yur device from damage" alt="Samsung Galaxy S I9000 Leather Executive Flip Case" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/samsung-galaxy-s-i9000-leather-executive-flip-case';">
-    
-    <div class="bestsellers_title">
-      <a href="/samsung-galaxy-s-i9000-leather-executive-flip-case">Samsung Galaxy S I9000 Leather Executive Flip Case</a>
-    </div>
-    <div class="bestsellers_price">
-              £12.00<br><div class="productCellIncPrice">£14.10 inc. VAT</div></div>
+              £369.00<br><div class="productCellIncPrice">£442.80 inc. VAT</div></div>
   </center>
 </div>
 <div class="bestsellers">
@@ -471,18 +539,7 @@ try {
       <a href="/blackberry-torch-9800-charging-pod">BlackBerry Torch 9800 Charging Pod</a>
     </div>
     <div class="bestsellers_price">
-              £14.95<br><div class="productCellIncPrice">£17.57 inc. VAT</div></div>
-  </center>
-</div>
-<div class="bestsellers">
-  <center>
-    <img src="/productimages/thumb/107120D9-BCA1-4C48-972F-5EC55DA100F2.png" id="PRODUCTCE9274FB-8FA3-4C79-8BCC-CDA7EC980271_" title="The Motorola FLIPOUT helps you stand out with its compact pivoting design with a QWERTY keyboard and crystaltalk plus noise cancellation technology." alt="Motorola FLIPOUT " border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/motorola-flipout';">
-    
-    <div class="bestsellers_title">
-      <a href="/motorola-flipout">Motorola FLIPOUT </a>
-    </div>
-    <div class="bestsellers_price">
-              £155.00<br><div class="productCellIncPrice">£182.13 inc. VAT</div></div>
+              £14.95<br><div class="productCellIncPrice">£17.94 inc. VAT</div></div>
   </center>
 </div>
 <div class="bestsellers">
@@ -493,18 +550,7 @@ try {
       <a href="/blackberry-torch-9800-leather-pocket-case-black">BlackBerry Torch 9800 Leather Pocket Case Black</a>
     </div>
     <div class="bestsellers_price">
-              £9.50<br><div class="productCellIncPrice">£11.16 inc. VAT</div></div>
-  </center>
-</div>
-<div class="bestsellers">
-  <center>
-    <img src="/productimages/thumb/ADA02E9E-C0A1-4E9B-9AD5-17829E8CEF82.png" id="PRODUCTBBACCC8F-6992-465F-ADED-C599D6B77880_" title="Otterbox&amp;rsquo;s toughest complete protection solution for your iPhone 4" alt="Otterbox iPhone 4 Defender Case" border="0" style="cursor : pointer;" rel="draggable" onclick="Javascript:window.location='/otterbox-iphone-4-defender-case';">
-    
-    <div class="bestsellers_title">
-      <a href="/otterbox-iphone-4-defender-case">Otterbox iPhone 4 Defender Case</a>
-    </div>
-    <div class="bestsellers_price">
-      <span style="text-decoration: line-through;">£30.00</span> <span class="bestsellers_specialprice">£25.00</span><br><div class="productCellIncPrice">£29.38 inc. VAT</div></div>
+              £9.50<br><div class="productCellIncPrice">£11.40 inc. VAT</div></div>
   </center>
 </div>
                   </div>
@@ -523,7 +569,7 @@ try {
       <!-- START FOOTER-->
       <div id="footer">
 
-<div class="footerColumn"><a href="/smartphones" class="bluelink">Smartphones</a><br><a href="/smartphones/acer" title="Acer">Acer</a><br><a href="/smartphones/airo-wireless" title="Airo Wireless">Airo Wireless</a><br><a href="/smartphones/bea-fon" title="Bea-fon">Bea-fon</a><br><a href="/smartphones/blackberry" title="BlackBerry">BlackBerry</a><br><a href="/smartphones/dell" title="Dell">Dell</a><br><a href="/smartphones/doro" title="Doro">Doro</a><br><a href="/smartphones/garmin-asus" title="Garmin-ASUS">Garmin-ASUS</a><br><a href="/smartphones/hp-ipaq" title="HP iPAQ">HP iPAQ</a><br><a href="/smartphones/htc-smartphones" title="HTC Smartphones">HTC Smartphones</a><br></div><div class="footerColumn"><a href="/smartphones/huawei" title="Huawei">Huawei</a><br><a href="/smartphones/jcb-toughphone" title="JCB Toughphone">JCB Toughphone</a><br><a href="/smartphones/lg" title="LG">LG</a><br><a href="/smartphones/motorolasymbol" title="Motorola/Symbol">Motorola/Symbol</a><br><a href="/smartphones/nokia" title="Nokia">Nokia</a><br><a href="/smartphones/palm" title="Palm">Palm</a><br><a href="/smartphones/samsung" title="Samsung">Samsung</a><br><a href="/smartphones/sony-ericsson" title="Sony Ericsson">Sony Ericsson</a><br></div><div class="footerColumn"><a href="/accessories" class="bluelink">Accessories</a><br><a href="/accessories/acer" title="Acer">Acer</a><br><a href="/accessories/airo-wireless" title="Airo Wireless">Airo Wireless</a><br><a href="/accessories/apple" title="Apple ">Apple </a><br><a href="/accessories/asus" title="ASUS">ASUS</a><br><a href="/accessories/blackberry" title="BlackBerry">BlackBerry</a><br><a href="/accessories/dell" title="Dell">Dell</a><br><a href="/accessories/general" title="General">General</a><br><a href="/accessories/hp-ipaq" title="HP IPAQ">HP IPAQ</a><br><a href="/accessories/htc" title="HTC">HTC</a><br></div><div class="footerColumn"><a href="/accessories/huawei" title="Huawei">Huawei</a><br><a href="/accessories/lg" title="LG">LG</a><br><a href="/accessories/motorolasymbol" title="Motorola/Symbol">Motorola/Symbol</a><br><a href="/accessories/nokia" title="Nokia">Nokia</a><br><a href="/accessories/palm" title="Palm">Palm</a><br><a href="/accessories/samsung" title="Samsung">Samsung</a><br><a href="/accessories/sony-ericsson" title="Sony Ericsson">Sony Ericsson</a><br></div><div class="footerColumn"><a href="/netbooks" class="bluelink">Netbooks</a><br><br><a href="/computing" class="bluelink">Computing</a><br><a href="/computing/3g-modems" title="3G Modems">3G Modems</a><br><a href="/computing/bluetooth" title="Bluetooth">Bluetooth</a><br><a href="/computing/wireless" title="Wireless">Wireless</a><br><br><a href="/tablets" class="bluelink">Tablets</a><br><br><a href="/memory" class="bluelink">Memory</a><br></div>
+<div class="footerColumn"><a href="/smartphones" class="bluelink">Smartphones</a><br><a href="/smartphones/acer" title="Acer">Acer</a><br><a href="/smartphones/blackberry" title="BlackBerry">BlackBerry</a><br><a href="/smartphones/dell" title="Dell">Dell</a><br><a href="/smartphones/doro" title="Doro">Doro</a><br><a href="/smartphones/garmin-asus" title="Garmin-ASUS">Garmin-ASUS</a><br><a href="/smartphones/hp" title="HP">HP</a><br><a href="/smartphones/hp-ipaq" title="HP iPAQ">HP iPAQ</a><br><a href="/smartphones/hp-palm" title="HP Palm">HP Palm</a><br><a href="/smartphones/htc-smartphones" title="HTC Smartphones">HTC Smartphones</a><br></div><div class="footerColumn"><a href="/smartphones/huawei" title="Huawei">Huawei</a><br><a href="/smartphones/jcb-toughphone" title="JCB Toughphone">JCB Toughphone</a><br><a href="/smartphones/lg" title="LG">LG</a><br><a href="/smartphones/motorolasymbol" title="Motorola/Symbol">Motorola/Symbol</a><br><a href="/smartphones/nokia" title="Nokia">Nokia</a><br><a href="/smartphones/samsung" title="Samsung">Samsung</a><br><a href="/smartphones/sony-ericsson" title="Sony Ericsson">Sony Ericsson</a><br></div><div class="footerColumn"><a href="/accessories" class="bluelink">Accessories</a><br><a href="/accessories/acer" title="Acer">Acer</a><br><a href="/accessories/airo-wireless" title="Airo Wireless">Airo Wireless</a><br><a href="/accessories/apple" title="Apple ">Apple </a><br><a href="/accessories/asus" title="ASUS">ASUS</a><br><a href="/accessories/blackberry" title="BlackBerry">BlackBerry</a><br><a href="/accessories/dell" title="Dell">Dell</a><br><a href="/accessories/general" title="General">General</a><br><a href="/accessories/hp" title="HP">HP</a><br><a href="/accessories/hp-ipaq" title="HP IPAQ">HP IPAQ</a><br></div><div class="footerColumn"><a href="/accessories/hp-palm" title="HP Palm">HP Palm</a><br><a href="/accessories/htc" title="HTC">HTC</a><br><a href="/accessories/huawei" title="Huawei">Huawei</a><br><a href="/accessories/lg" title="LG">LG</a><br><a href="/accessories/motorolasymbol" title="Motorola/Symbol">Motorola/Symbol</a><br><a href="/accessories/nokia" title="Nokia">Nokia</a><br><a href="/accessories/samsung" title="Samsung">Samsung</a><br><a href="/accessories/sony-ericsson" title="Sony Ericsson">Sony Ericsson</a><br></div><div class="footerColumn"><a href="/netbooks" class="bluelink">Netbooks</a><br><br><a href="/computing" class="bluelink">Computing</a><br><a href="/computing/3g-modems" title="3G Modems">3G Modems</a><br><a href="/computing/bluetooth" title="Bluetooth">Bluetooth</a><br><a href="/computing/wireless" title="Wireless">Wireless</a><br><br><a href="/tablets" class="bluelink">Tablets</a><br><br><a href="/memory" class="bluelink">Memory</a><br></div>
 
         <div class="footerColumn">
         <a href="/about-us" class="bluelink">Company Info</a><br>
@@ -652,6 +698,7 @@ try {
 
   <form name="formBasket" id="formBasket" method="post" action="#">
     <input type="hidden" name="formBasket_strBasket" id="formBasket_strBasket" value="">
+    <input type="hidden" name="formBasket_strHistoryBasket" id="formBasket_strHistoryBasket" value="">
   </form>
 
   <form name="formComparison" id="formComparison" method="post" action="#">
@@ -660,6 +707,7 @@ try {
  
 <script language="JavaScript" type="text/javascript" src="/_basket.aspx"></script> 
 <script language="JavaScript" type="text/javascript" src="/_comparison.aspx"></script>
+<script language="JavaScript" type="text/javascript" src="/_history.aspx"></script>
 <script type="text/javascript">
   var bolCheckout = false;
   var basketOverlay;
@@ -776,12 +824,30 @@ try {
        document.getElementById("formComparison_strComparison").value = "[" + strComparison + "]";
     }
     if(bolCheckout == false){getComparison();}
-           
+        
+    //BROWSING HISTORY BASKET
+    var strHistory = getCookie("historyBasket"); 
+    if(strHistory == null||strHistory.length<1){
+      document.getElementById("formBasket_strHistoryBasket").value = "";
+    }else{
+      document.getElementById("formBasket_strHistoryBasket").value = "[" + strHistory + "]";
+    }   
   });
 
-
-
 </script>
+
+<div id="nxt-ac-container"></div>
+<script type="text/javascript">
+	var nxt_ac_words=new Array();
+	var nxt_ac_searchbox_id = "nxt-ac-searchbox";
+	var nxt_ac_searchform_id = "headerSearchForm";
+	var nxt_ac_container_id = "nxt-ac-container";
+	var nxt_host = (("https:" == document.location.protocol) ? "https://" : "http://"); nxt_host += "vector.nextopiasoftware.com/";
+	document.write(unescape("%3C") + "link rel='stylesheet' type='text/css' href='" + nxt_host + "yui-autocomplete.css'" + unescape("%3E"));
+	document.write(unescape("%3C") + "script src='" + nxt_host + "ac_js/49130ba8e79fd33e50e7b0938e34a055.js' type='text/javascript'" + unescape("%3E%3C/script%3E"));
+	document.write(unescape("%3C") + "script src='" + nxt_host + "yui-autocomplete-min.js' type='text/javascript'" + unescape("%3E%3C/script%3E"));
+</script><link rel="stylesheet" type="text/css" href="https://vector.nextopiasoftware.com/yui-autocomplete.css"><script src="https://vector.nextopiasoftware.com/ac_js/49130ba8e79fd33e50e7b0938e34a055.js" type="text/javascript"></script><script src="https://vector.nextopiasoftware.com/yui-autocomplete-min.js" type="text/javascript"></script>
+
 
   
 
