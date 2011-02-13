@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429191802id_/http%3A//www.buysellcommunity.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellcommunity.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213102404id_/http%3A//www.buysellcommunity.com/privacy_policy.jsp) for the most accurate reproduction.*
 
-# Buy & Sell Classifieds - Privacy Policy
+# Kansas City Classifieds - Privacy Policy
 
 **Our Commitment to Privacy**
 
