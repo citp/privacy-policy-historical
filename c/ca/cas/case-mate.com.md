@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the case-mate.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131075757id_/http%3A//www.case-mate.com/privacy_b.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the case-mate.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213125119id_/http%3A//www.case-mate.com/privacy_b.asp) for the most accurate reproduction.*
 
-# Case-Mate Privacy Policy: Case-Mate - Form fitting cases, holsters, skins, covers, and accessories for Apple iPhone, BlackBerry, iPod, and MacBook in premium leather.
+# Case-Mate Privacy Policy: The best selection of cases, holsters, screen protectors and accessories for Verizon iPhone 4, Apple iPhone 4, iPhone 3G/3GS, BlackBerry, HTC Phones, Google Phones and iPad at Case-Mate
 
-Case-Mate Privacy Policy: Case-Mate - Form fitting cases, holsters, skins, covers, and accessories for Apple iPhone, BlackBerry, iPod, and MacBook in premium leather.
+Case-Mate Privacy Policy: The best selection of cases, holsters, screen protectors and accessories for Verizon iPhone 4, Apple iPhone 4, iPhone 3G/3GS, BlackBerry, HTC Phones, Google Phones and iPad at Case-Mate 
 
 The website [www.case-mate.com](http://www.case-mate.com/). is provided by Case-Ari LLC, through its offices in the United States. Case-mate recognizes the importance of protecting the privacy of personal and financial information. We have instituted strict policies and security measures to protect your information. When you register online with Case-mate or use our online store, you give us your consent to process and use your personal data in accordance with this online privacy policy. This Privacy Policy applies to all users of this website.  
 
