@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babylegs.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412102243id_/http%3A//www.babylegs.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylegs.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213012145id_/http%3A//www.babylegs.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Baby Clothing, Baby socks, girls tights, free shipping | BabyLegs
 
