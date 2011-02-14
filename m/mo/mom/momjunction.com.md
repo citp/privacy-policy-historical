@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momjunction.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503090241id_/http%3A//www.momjunction.com/members/privacyPolicy.aspx%3Fm%3DM%26p%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momjunction.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214145815id_/http%3A//momjunction.com/members/privacyPolicy.aspx%3Fm%3DM%26p%3D1) for the most accurate reproduction.*
 
 # MomJunction
 
