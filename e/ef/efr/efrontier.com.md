@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the efrontier.com privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908094053id_/http%3A//efrontier.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efrontier.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214035339id_/http%3A//www.efrontier.com/privacy-policy) for the most accurate reproduction.*
 
-# Efficient Frontier - Privacy Policy
-
-#### Privacy Policy
+# Efficient Frontier :: Privacy Policy
 
 Efficient Frontier, Inc. ("Efficient Frontier") has established this Privacy Policy in order to demonstrate its firm commitment to privacy. The following policy is applicable to Efficient Frontier's information collecting, use and disclosure practices for the Efficient Frontier web site. Your use of this site tells us you have read and accept the practices outlined in this policy.
 
@@ -58,11 +56,11 @@ This web site may contain links to other sites. Please be aware that Efficient F
 Efficient Frontier has implemented generally accepted standards of technology security in order to protect information from loss, misuse and unauthorized access. Only employees who need the information to perform a specific job are granted access to personally identifiable information.
 
 **Correction/Updating Personal Information**  
-If a user's personally identifiable information changes (such as your zip code or email address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done by emailing [webmaster@efrontier.com](mailto:webmaster@efrontier.com).
+If a user's personally identifiable information changes (such as your zip code or email address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done by emailing [[webmaster@efrontier.com](mailto:webmaster@efrontier.com)](mailto:webmaster@efrontier.com).
 
-Choice/Opt-out Users who no longer wish to receive newsletters, press releases, corporate announcements, or promotional materials may opt-out of receiving these communications by replying to that email with the word "unsubscribe" in the subject line of the emailed reply or email us at webmaster@efrontier.com.
+Choice/Opt-out Users who no longer wish to receive newsletters, press releases, corporate announcements, or promotional materials may opt-out of receiving these communications by replying to that email with the word "unsubscribe" in the subject line of the emailed reply or email us at [[webmaster@efrontier.com](mailto:webmaster@efrontier.com)](mailto:webmaster@efrontier.com).
 
 We encourage our clients to follow generally acceptable privacy standards. As a visitor to our site, you can deactivate our ability to analyze your behavior. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)
 
 **Notification of Changes**  
-If we decide to change our privacy policy, we will make commercially reasonable efforts to post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. 
+If we decide to change our privacy policy, we will make commercially reasonable efforts to post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner.
