@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-review.net privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723121355id_/http%3A//wallpapers.free-review.net/privacy_policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-review.net privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214195436id_/http%3A//wallpapers.free-review.net/privacy_policies.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
