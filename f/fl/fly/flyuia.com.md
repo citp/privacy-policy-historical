@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyuia.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227042648id_/http%3A//www.flyuia.com/eng/information-and-services/1469.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyuia.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214163753id_/http%3A//www.flyuia.com/eng/information-and-services/1469.html) for the most accurate reproduction.*
 
 # Privacy policy - Ukraine International Airlines
 
