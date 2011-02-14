@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getapp.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010004138id_/http%3A//www.getapp.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getapp.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214232232id_/http%3A//www.getapp.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy| GetApp.com
+# Privacy Policy | GetApp.com
 
 Nubera eBusiness S.L. (“we” or “Nubera eBusiness”), the operator of [www.getapp.com](https://web.archive.org/) and its associated blog at [http://www.getapp.com/blog](https://web.archive.org/blog/ "GetApp.com Blog")/ (together, the “Sites” and each a “Site”) is committed to protecting the privacy of all the users of the Sites (“you” or “User”). To better protect your privacy, and so that you can understand our privacy practices and decide whether to use our Sites, we provide this Privacy Policy explaining our information practices regarding the use and disclosure of User information collected and processed through our Sites.
 
