@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fafsa.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105012806id_/http%3A//www.fafsa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafsa.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214085216id_/http%3A//www.fafsa.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -8,13 +8,13 @@
 
 ###  Student Financial Aid Services, Inc. 
 
-Effective Date: April 28, 2008
+Effective Date: December 20, 2010
 
 If you wish to opt out of any continued communication (direct mail, telephone, fax or e-mail communications), please [click here](https://web.archive.org/optout).
 
 ###  1\. Our Commitment To Privacy
 
-Student Financial Aid Services, Inc. ("SFAS") respects the privacy of our clients. As an individual who is a user of our website,[ www.FAFSA.com/Optout ](http://www.fafsa.com/Optout)("Site") or otherwise as a user of the Services provided by SFAS, you should know what information we collect from you, as well as how that information is used, disclosed, and protected. For the purposes of this Agreement, "Services" means the services provided by SFAS, or third parties designated by SFAS, through use of the Site or by phone, in connection with the provision of student aid advisory or preparation services, including the preparation, completion and submission of the federal government’s Student Financial Aid Forms (commonly referred to as the "FAFSA"). This policy statement (the "Privacy Policy") explains our privacy practices and policies.
+Student Financial Aid Services, Inc. ("SFAS") respects the privacy of our clients. As an individual who is a user of our website,[ www.FAFSA.com ](http://www.fafsa.com/)("Site") or otherwise as a user of the Services provided by SFAS, you should know what information we collect from you, as well as how that information is used, disclosed, and protected. For the purposes of this Agreement, "Services" means the services provided by SFAS, or third parties designated by SFAS, through use of the Site or by phone, in connection with the provision of student aid advisory or preparation services, including the preparation, completion and submission of the federal government’s Student Financial Aid Forms (commonly referred to as the "FAFSA"). This policy statement (the "Privacy Policy") explains our privacy practices and policies.
 
 We encourage you to read this Privacy Policy carefully when using the Site and/or our Services. By using the Site, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
@@ -50,7 +50,7 @@ We want you to understand when and with whom we may share personal or other info
     3. in connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the event of bankruptcy. 
     4. with third parties or corporate affiliates (i.e. the Department of Education, credit card processor, billing, shipping, marketing services, web analytics and web hosting), which are required by contract to comply with this Privacy Policy, so that such third parties may assist us in (a) providing Services to you; (b) carrying out any transactions that you may request; or (c) making our business more responsive to your needs.
 
-We share personal information contained in your FASFA with the U.S. Department of Education's ("ED") Central Processing System ("CPS") ,which then transmits the FAFSA results via ED software ("EDExpress") to the school student aid administrators to whom you request the information be sent. We may respond to questions from any of those parties about your application. We may also share information as necessary with our lawyers, accountants, auditors, and regulators. 
+We share personal information with college and school administrators (such as college financial aid offices) as well as the U.S. Department of Education's ("ED") Central Processing System ("CPS") ,which then transmits data and information via ED software ("EDExpress") to the school student aid administrators to whom you request the information be sent. We may respond to questions from any of those parties about your application. We may also share information as necessary with our lawyers, accountants, auditors, and regulators. 
 
   2. _Aggregated and Non-Personal Information_. We may share aggregated information (i.e., information about you and other clients collectively, but not specifically identifiable to you) and other non-personal information we collect under any of the above circumstances. We may also share it with third parties to develop and deliver targeted advertising on the Site and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We may also share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to the Site and the most popular features or Services accessed. This information does not contain any personal information and may be used to target advertising and to develop content for the Site and Services that we hope you and other users will find of interest.
 
