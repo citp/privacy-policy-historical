@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the druva.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607063359id_/http%3A//www.druva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the druva.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214023556id_/http%3A//www.druva.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
