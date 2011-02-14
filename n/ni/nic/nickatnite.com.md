@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216025538id_/http%3A//www.nickatnite.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214134818id_/http%3A//www.nickatnite.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
