@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebates.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921034026id_/http%3A//www.ebates.com/privacy_policy.htm%3Fnavigation_id%3D18571) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebates.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214060422id_/http%3A//www.ebates.com/privacy_policy.htm%3Fnavigation_id%3D18571) for the most accurate reproduction.*
 
 # Ebates Privacy Agreement
 
@@ -21,7 +21,7 @@ Ebates was founded by two former Deputy District Attorneys who take privacy and 
 
 ##  What data we collect and why
 
-Our vision is to maximize the rewards for all of Ebates� members and to provide as many member benefits as possible. The key way in which Ebates provides value is to share with members the commissions we receive from our affiliated stores. The information we collect (name, email address, and physical address) is used to track and send the cash back payments members earn.
+Our vision is to maximize the rewards for all of Ebates' members and to provide as many member benefits as possible. The key way in which Ebates provides value is to share with members the commissions we receive from our affiliated stores. The information we collect (name, email address, and physical address) is used to track and send the cash back payments members earn.
 
 Additionally, we may use information on the stores you visit or the offers you view on Ebates.com to select special offers that will be relevant to you. Except at an aggregate level, however, we do not share that information with our store partners or other third parties.
 
@@ -55,7 +55,7 @@ Ebates contains links to various other sites. Each of these sites has a privacy 
 
 ##  Our policies on email
 
-Ebates sends two types of email to members: customer service emails required to maintain the Ebates program (like cash back credits & payment notifications); and promotional emails featuring especially good offers. You may choose not to receive promotional emails at any time from [My Ebates](https://web.archive.org/myebates.htm) or by clicking the �unsubscribe� link in an email.
+Ebates sends two types of email to members: customer service emails required to maintain the Ebates program (like cash back credits & payment notifications); and promotional emails featuring especially good offers. You may choose not to receive promotional emails at any time from [My Ebates](https://web.archive.org/myebates.htm) or by clicking the "unsubscribe" link in an email.
 
 Ebates does not support spamming by our members and we explicitly prohibit it in our [Terms & Conditions](https://web.archive.org/terms_and_conditions.htm). If you would like to report an incident of spamming using our tell-a-friend capability, please [ contact us.](https://web.archive.org/customer_care/home.htm) We will investigate and take suitable action.
 
@@ -67,7 +67,7 @@ Ebates requires its members to have cookies enabled in order to accumulate cash 
 
 ##  Your choices and responsibilities
 
-Periodically we may send you emails on new features or special offers. On every one of these emails you will be given the choice to unsubscribe from Ebates� promotional mailings. Simply follow the directions in any of our emails.
+Periodically we may send you emails on new features or special offers. On every one of these emails you will be given the choice to unsubscribe from Ebates' promotional mailings. Simply follow the directions in any of our emails.
 
 It is the member's responsibility to update and maintain accurate contact information in their account. You can make changes by visiting your [account page](https://web.archive.org/myebates.htm) and entering corrections. Email and street addresses that are entered into a member's personal profile page are the addresses that will be used for all contact including for sending you cash back payments. Ebates is not responsible for payments sent to an incorrect addresses provided by you.
 
