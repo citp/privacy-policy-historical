@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the cricket-365.net privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523181429id_/http%3A//cricket365next.blogspot.com/2009/10/disclaimer-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricket-365.net privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214120210id_/http%3A//www.cricket-365.net/p/disclaimer-privacy-policy_22.html) for the most accurate reproduction.*
 
-# DISCLAIMER & PRIVACY POLICY | Cricket 365
+# DISCLAIMER & PRIVACY POLICY | Cricket-365
 
-DISCLAIMER & PRIVACY POLICY **PRIVACY POLICY**  
-Keeping in mind the importance of privacy of personal information of visitors to this site is safeguarded. None of the personal information collected is ever sold to third parties. _ **Log Files** :_ As is the norm with most websites, data located in log files is collected and used. The information in the log files includes a visitor’s IP address, ISP, browser used at the time of visit to the site, the time you visited and the distribution of pages navigated on this site. _ **Cookies and Web Beacons** :_ Cookies are used to store information, which include any personal preferences you may have while visiting and navigating this site.DISCLAIMER  
+**DISCLAIMER & PRIVACY POLICY**
+
+**PRIVACY POLICY**  
+Keeping in mind the importance of privacy of personal information of visitors to this site is safeguarded. None of the personal information collected is ever sold to third parties.Log Files: As is the norm with most websites, data located in log files is collected and used. The information in the log files includes a visitor’s IP address, ISP, browser used at the time of visit to the site, the time you visited and the distribution of pages navigated on this site.Cookies and Web Beacons: Cookies are used to store information, which include any personal preferences you may have while visiting and navigating this site.
+
+**DISCLAIMER**  
 All videos linked to here are short excerpts in streaming format intended solely for nonprofit educational news reporting to promote the game of cricket. None of the videos are hosted on this site.
 
 All videos displayed here are intended solely for the purpose of promotion of the game of cricket and players and are short excerpts in streaming format.
@@ -16,6 +20,6 @@ Well we would like intro ourself. We must first declare that neither we stream t
 
 We usually get the links from sopcast, justin tv, ustream, and similar sites and put it to you and nothing else. All broadcaster allow to embed the live video legally and we do the same. Hence, we are responsible in the maintaining copyright laws. If you think live streaming is breaching copyright act then please contact the owner of the live streaming videos (justin tv, ustream, etc.) and ask them to stop.
 
-If you have doubt or want to know more please contact-us.
+If you have doubt or want to know more please **[contact-us](http://www.cricket-365.net/2009/12/contact-us.html)**.
 
 All videos linked to here are short excerpts in streaming format intended solely for nonprofit educational news reporting to promote the game of cricket. None of the videos are hosted or embedded on this site.
