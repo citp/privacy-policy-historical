@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417002458id_/http%3A//www.eurojobs.com/en/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214080003id_/http%3A//www.eurojobs.com/en/main/privacy) for the most accurate reproduction.*
 
 # Homepage
 
@@ -55,7 +55,7 @@ London
 EC1A 9ET   
 United Kingdom   
 Tel: +44 (0)20 33724781   
-[harmen.rijks@eurojobs.com](mailto:harmen.rijks@eurojobs.com)
+[privacy@eurojobs.com](mailto:privacy@eurojobs.com)
 
 #### Information Security
 
