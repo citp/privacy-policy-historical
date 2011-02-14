@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spongecell.com privacy policy that was archived on 2010-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100303013525id_/http%3A//www.spongecell.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spongecell.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214160836id_/http%3A//spongecell.com/legal/privacy) for the most accurate reproduction.*
 
 # Spongecell Privacy Policy
 
