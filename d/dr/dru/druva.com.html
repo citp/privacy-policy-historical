@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the druva.com privacy policy that was archived on 2010-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100607063359id_/http%3A//www.druva.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the druva.com privacy policy that was archived on 2011-02-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110214023556id_/http%3A//www.druva.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -56,6 +56,39 @@ $(document).ready(function() {
 		  }
 		);
 		
+		// FOR LANGUAGES --->
+		
+		test_lang = null;
+							   
+		function testOutLang() {
+			$(".top_icons_lang_bottom").slideUp("fast");
+			$("#flash_home_2").css({'z-index':'1'});
+			$("#flash_demo").css({'z-index':'1'});
+			$("#middle").css({'z-index':'1'});
+		};
+		
+		$(".top_icons_lang_top").hover(
+		  function () {
+			if(test_lang) {window.clearTimeout(test_lang); };
+			$("#flash_home_2").css({'z-index':'-1'});
+			$("#flash_demo").css({'z-index':'-1'});
+			$("#middle").css({'z-index':'-1'});
+			$(".top_icons_lang_bottom").slideDown("fast");
+		  },
+		  function () {
+			test_lang = window.setTimeout (testOutLang, 100);
+		  }
+		);
+		
+		$(".top_icons_lang_bottom").hover(
+		  function () {
+			window.clearTimeout(test_lang);
+		  },
+		  function () {
+			test_lang = window.setTimeout (testOutLang, 100);
+		  }
+		);
+		
 		// FOR MENU --->
 		
 		test_menu = null;
@@ -97,13 +130,13 @@ $(document).ready(function() {
 <div id="grey_bar_content"></div>
 <div id="top_menus_2">
 	<div id="logo-druva">
-		<a href="/" title="Advanced Data Protection Solutions for Enterprises - Remote Backup, Deduplication, Continuous Data Protection (CDP)"><img src="/images/logo-druva.gif" width="238" height="49" alt="Druva - Continuous Data Availability" title="Druva - Continuous Data Availability"></a>	</div>
+		<a href="/" title="Advanced Data Protection Solutions for Enterprises - Remote Backup, Deduplication, Continuous Data Protection (CDP)"><img src="http://images.druva.com/images/logo-druva.gif" width="238" height="49" alt="Druva - Continuous Data Availability" title="Druva - Continuous Data Availability"></a>	</div>
 <div id="top_suggestions">
-		<div><img src="/images/suggestions_top.gif" width="191" height="10" alt=""></div>
+		<div><img src="http://images.druva.com/images/suggestions_top.gif" width="191" height="10" alt=""></div>
 		<div id="top_suggestions_middle">
 			<p><strong>Recommended</strong></p>
 			<p>
-				<a href="http://blog.druvaa.com/" target="_blank" title="Druva Blog">Blog</a>
+				<a href="http://blog.druva.com/" target="_blank" title="Druva Blog">Blog</a>
 			</p>
 			<p>
 				<a href="/insync/laptop-backup" title="Laptop Backup Software for Enterprises - Druva inSync">inSync - Laptop Backup</a>
@@ -119,45 +152,47 @@ $(document).ready(function() {
 			</p>
 			<p style="padding-top:10px"><strong>Last visited links</strong></p>
 						<p>
-				<a href="/" title="">
-									</a>
+				<a href="/news/2010" title="news/2010">
+					news/2010				</a>
 			</p>
 						<p>
-				<a href="/" title="">
-									</a>
+				<a href="/phoenix/data-deduplication" title="phoenix/data-deduplication">
+					phoenix/data-deduplication				</a>
 			</p>
 						<p>
-				<a href="/" title="">
-									</a>
+				<a href="/phoenix/centralized-backup" title="phoenix/centralized-backup">
+					phoenix/centralized-backup				</a>
 			</p>
 						<p>
-				<a href="/" title="">
-									</a>
+				<a href="/phoenix/screens" title="phoenix/screens">
+					phoenix/screens				</a>
 			</p>
 						<p>
-				<a href="/" title="">
-									</a>
+				<a href="/phoenix/continuous-data-protection" title="phoenix/continuous-data-protection">
+					phoenix/continuous-data-protection				</a>
 			</p>
 						<p>
 				<a href="/" title="">
 									</a>
 			</p>
 					</div>
-		<div><img src="/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
+		<div><img src="http://images.druva.com/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
 	</div>
 	<a href="javascript:;" id="top_icons_help" title="Suggestions"></a>
+	<a href="javascript:;" class="top_icons_lang_top" id="top_icons_lang_top_en" title=""></a>
+	<a href="/fr" class="top_icons_lang_bottom" id="top_icons_lang_bottom_fr" title=""></a>
 	<div id="top_icons">
-		<div class="float_left"><img src="/images/top_icons_left.gif" width="21" height="34" alt=""></div>
+		<div class="float_left"><img src="http://images.druva.com/images/top_icons_left.gif" width="21" height="34" alt=""></div>
 		<div class="float_left">
 			<a href="/" id="top_icons_home" title="Home"></a>
 		</div>
 		<div class="float_left" style="padding-left:27px">
-			<a href="/contact-us" id="top_icons_contact" title="Contact Us"></a>
+			<a href="/about/contact-us" id="top_icons_contact" title="Contact Us"></a>
 		</div>
 		<div class="float_left" style="padding-left:30px">
 			<a href="/sitemap" id="top_icons_sitemap" title="Sitemap"></a>
 		</div>
-		<div class="float_left"><img src="/images/top_icons_right.gif" width="21" height="34" alt=""></div>
+		<div class="float_left"><img src="http://images.druva.com/images/top_icons_right.gif" width="21" height="34" alt=""></div>
 	</div>
 	<div id="menu">
 				<div class="float_left">
@@ -166,7 +201,7 @@ $(document).ready(function() {
 				<div class="float_left">
 			<a href="/overview/data-protection" id="overview" class="menu_link" title="Overview">Overview			</a>
 						<div class="drop_down">
-				<div><img src="/images/suggestions_top.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_top.gif" width="191" height="10" alt=""></div>
 				<div class="drop_down_middle">
 					<p>
 						<a href="/overview/data-protection" title="Advanced Data protection solution for Enterprises">Data Protection</a>
@@ -178,13 +213,13 @@ $(document).ready(function() {
 						<a href="/overview/data-deduplication" title="Source Based Data Deduplication and Backup">Data Deduplication</a>
 					</p>
 				</div>
-				<div><img src="/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
 			</div>
 																							</div>
 				<div class="float_left">
 			<a href="/products/backup" id="products" class="menu_link" title="Products">Products			</a>
 									<div class="drop_down">
-				<div><img src="/images/suggestions_top.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_top.gif" width="191" height="10" alt=""></div>
 				<div class="drop_down_middle">
 					<p>
 						<a href="/insync/laptop-backup" title="Laptop Backup Software for Enterprises - Druva inSync">Druva inSync</a>
@@ -193,13 +228,13 @@ $(document).ready(function() {
 						<a href="/phoenix/network-backup" title="Network Backup Software for Enterprises - Druva Phoenix">Druva Phoenix</a>
 					</p>
 				</div>
-				<div><img src="/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
 			</div>
 																				</div>
 				<div class="float_left">
 			<a href="/download" id="download" class="menu_link" title="Download">Download			</a>
 												<div class="drop_down">
-				<div><img src="/images/suggestions_top.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_top.gif" width="191" height="10" alt=""></div>
 				<div class="drop_down_middle">
 					<p>
 						<a href="/download/insync/laptop-backup" title="Insync Download - Laptop Backup Software for Enterprises. Automated backup for office and remote users">Druva inSync</a>
@@ -208,13 +243,13 @@ $(document).ready(function() {
 						<a href="/download/phoenix/network-backup" title="Druva Phoenix Download - Enables real time replication of mission critical server data">Druva Phoenix</a>
 					</p>
 				</div>
-				<div><img src="/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
 			</div>
 																	</div>
 				<div class="float_left">
 			<a href="/case-studies" id="case_studies" class="menu_link" title="Case Studies">Case Studies			</a>
 															<div class="drop_down">
-				<div><img src="/images/suggestions_top.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_top.gif" width="191" height="10" alt=""></div>
 				<div class="drop_down_middle">
 					<p>
 						<a href="/case-studies/success-stories" title="Druva Success Stories">Success Stories</a>
@@ -226,13 +261,13 @@ $(document).ready(function() {
 						<a href="/case-studies/customer-testimonials" title="Druva Customer Testimonials">Testimonials</a>
 					</p>
 				</div>
-				<div><img src="/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
 			</div>
 														</div>
 				<div class="float_left">
 			<a href="/partners" id="partners" class="menu_link" title="Partners">Partners			</a>
 																		<div class="drop_down">
-				<div><img src="/images/suggestions_top.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_top.gif" width="191" height="10" alt=""></div>
 				<div class="drop_down_middle">
 					<p>
 						<a href="/partners/reseller" title="Partner with Druva as Reseller">Sales Partner/Reseller</a>
@@ -241,13 +276,13 @@ $(document).ready(function() {
 						<a href="/partners/ISV" title="Partner with Druva as ISV">OEM/ISV Partners</a>
 					</p>
 				</div>
-				<div><img src="/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
 			</div>
 											</div>
 				<div class="float_left">
 			<a href="/support" id="support" class="menu_link" title="Support">Support			</a>
 																					<div class="drop_down_right">
-				<div><img src="/images/suggestions_top.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_top.gif" width="191" height="10" alt=""></div>
 				<div class="drop_down_middle">
 					<p>
 						<a href="/support" title="Support for Our Data Protection Solutions: InSync and Phoenix">Enterprise Support</a>
@@ -259,19 +294,19 @@ $(document).ready(function() {
 						<a href="/support/phoenix-critical-updates" title="Network Backup Software for Enterprises - Critical Updates Druva Phoenix">Phoenix Critical Updates</a>
 					</p>
 					<p>
-						<a href="http://kb.druvaa.com/" title="Druva Knowledge Base - Informative and easy to use references" target="_blank">Knowledge Base</a>
+						<a href="http://kb.druva.com/" title="Druva Knowledge Base - Informative and easy to use references" target="_blank">Knowledge Base</a>
 					</p>
 					<p>
 						<a href="http://forums.druva.com/" title="Druva Forum - Receive information about all technical issues related to Druva products" target="_blank">Forums</a>
 					</p>
 				</div>
-				<div><img src="/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
 			</div>
 								</div>
 				<div class="float_left">
 			<a href="/about" id="about_us" class="menu_link" title="About Us">About Us			</a>
 																								<div class="drop_down_right">
-				<div><img src="/images/suggestions_top.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_top.gif" width="191" height="10" alt=""></div>
 				<div class="drop_down_middle">
 					<p>
 						<a href="/about" title="Makers of Award Winning Disk Backup Software - About Druva">Introducing Druva</a>
@@ -297,11 +332,11 @@ $(document).ready(function() {
 					<p>
 						<a href="/news/" title="Read all the News and Events from Druva">News and events</a>
 					</p>
-					<p>
+					<!--<p>
 						<a href="/about/feedback" title="Makers of Award Winning Data Protection Software - Feedback">Feedback</a>
-					</p>
+					</p>-->
 				</div>
-				<div><img src="/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
+				<div><img src="http://images.druva.com/images/suggestions_bottom.gif" width="191" height="10" alt=""></div>
 			</div>
 					</div>
 			</div>
@@ -324,20 +359,20 @@ $(document).ready(function() {
 </div>
 <div id="footer">
 	<div id="bread">
-		<div class="float_left"><img src="/images/footer_top_margin_left.gif" width="5" height="33" alt=""></div>
+		<div class="float_left"><img src="http://images.druva.com/images/footer_top_margin_left.gif" width="5" height="33" alt=""></div>
 				<div class="crumbs"> <a href="/privacy-policy" title="Privacy Policy and Terms of Use">Privacy Policy</a> </div>
-		<div class="float_left"><img src="/images/footer_top_arrow.gif" width="8" height="33" alt=""></div>
-				<div class="float_right"><img src="/images/footer_top_margin_right.gif" width="5" height="33" alt=""></div>
+		<div class="float_left"><img src="http://images.druva.com/images/footer_top_arrow.gif" width="8" height="33" alt=""></div>
+				<div class="float_right"><img src="http://images.druva.com/images/footer_top_margin_right.gif" width="5" height="33" alt=""></div>
 	</div>
 	<div id="bg">
-		<div id="corner_left"><img src="/images/footer_corner_left.gif" width="5" height="5" alt=""></div>
-		<div id="corner_right"><img src="/images/footer_corner_right.gif" width="5" height="5" alt=""></div>
+		<div id="corner_left"><img src="http://images.druva.com/images/footer_corner_left.gif" width="5" height="5" alt=""></div>
+		<div id="corner_right"><img src="http://images.druva.com/images/footer_corner_right.gif" width="5" height="5" alt=""></div>
 		<div class="categories"><span style="font-weight:bold">Popular links</span> <br>
 			<a href="/insync/laptop-backup" title="Laptop Backup Software for Enterprises - Druva inSync">Laptop backup</a> <a href="/insync/remote-backup" title="Laptop Backup Software for Remote Users - Druva inSync">Remote backup</a> <a href="/insync/data-deduplication" title="Source Based Data Deduplication Software for Laptop Backup - Druva inSync">Data deduplication</a> <a href="/insync/continuous-data-protection" title="Continuous Data Protection for Enterprise Laptops - Druva inSync">Continuous data protection</a> </div>
 		<div class="categories"><span style="font-weight:bold">Useful links</span> <br>
-			<a href="http://blog.druvaa.com/" target="_blank" title="Druva Blog - Read all about Continuous Data Availability technology">Blog</a> <a href="http://kb.druvaa.com/" target="_blank" title="Druva Knowledge Base - Informative and easy to use references">Knowledge base</a> <a href="http://forums.druva.com/" target="_blank" title="Druva Forum - Receive information about all technical issues related to Druva products">Forum</a> &nbsp;</div>
+			<a href="http://blog.druva.com/" target="_blank" title="Druva Blog - Read all about Continuous Data Availability technology">Blog</a> <a href="http://kb.druva.com/" target="_blank" title="Druva Knowledge Base - Informative and easy to use references">Knowledge base</a> <a href="http://forums.druva.com/" target="_blank" title="Druva Forum - Receive information about all technical issues related to Druva products">Forum</a> &nbsp;</div>
 		<div class="categories"><span style="font-weight:bold">Contact us</span> <br>
-			<a href="/contact-us" title="Contact us to receive additional information or to send us your feedback">Contact us page</a> <a href="/news" title="Read more about Druva's latest News and Events">News</a> <a href="http://blog.druvaa.com/" target="_blank" title="Druva Blog - Read all about Continuous Data Availability technology">Blog</a> &nbsp;</div>
+			<a href="/about/contact-us" title="Contact us to receive additional information or to send us your feedback">Contact us page</a> <a href="/news" title="Read more about Druva's latest News and Events">News</a> <a href="http://blog.druva.com/" target="_blank" title="Druva Blog - Read all about Continuous Data Availability technology">Blog</a> &nbsp;</div>
 		<div class="categories_last"><span style="font-weight:bold">Legal</span> <br>
 			<a href="/privacy-policy" title="Privacy policy">Privacy policy</a> <a href="/privacy-policy" title="Terms of use">Terms of use</a> &nbsp; <br>
 			&nbsp;</div>
@@ -345,16 +380,16 @@ $(document).ready(function() {
 	</div>
 </div>
 <div id="footer_bottom">
-	<div style="margin-bottom:20px; float:left">Druva Software © 2007-2010, All rights reserved</div>
+	<div style="margin-bottom:20px; float:left">Druva Software © 2007-2011, All rights reserved</div>
 	<!--<div style="position:absolute; top:20px; right:0px">-->
-	<div style="float:right"> <a href="/overview/data-protection" title="Overview">Overview</a> | <a href="/products/backup" title="Products">Products</a> | <a href="/download" title="Download">Download</a> | <a href="/case-studies" title="Case Studies">Case Studies</a> | <a href="/partners" title="Partners">Partners</a> | <a href="/support" title="Support">Support</a> | <a href="/about" title="About us">About us</a> | <a href="http://blog.druvaa.com/" target="_blank" title="Blog">Blog</a> | <a href="http://forums.druva.com/" target="_blank" title="Forum">Forum</a> | <a href="http://kb.druvaa.com/" target="_blank" title="Knowledge Base">Knowledge Base</a> </div>
+	<div style="float:right"> <a href="/overview/data-protection" title="Overview">Overview</a> | <a href="/products/backup" title="Products">Products</a> | <a href="/download" title="Download">Download</a> | <a href="/case-studies" title="Case Studies">Case Studies</a> | <a href="/partners" title="Partners">Partners</a> | <a href="/support" title="Support">Support</a> | <a href="/about" title="About us">About us</a> | <a href="http://blog.druva.com/" target="_blank" title="Blog">Blog</a> | <a href="http://forums.druva.com/" target="_blank" title="Forum">Forum</a> | <a href="http://kb.druva.com/" target="_blank" title="Knowledge Base">Knowledge Base</a> </div>
 	<br class="clear_both">
 	<div style="margin-bottom:20px; float:left">This site was tested in:</div>
-	<div style="float:left; margin-right:5px; margin-left:5px"><img src="/images/compatibility_ie7_icon.gif" alt="Internet Explorer 7+" width="16" height="16" title="Internet Explorer 7+"></div>
-	<div style="float:left; margin-right:5px"><img src="/images/compatibility_firefox_icon.gif" width="16" height="16" alt="Mozilla Firefox" title="Mozilla Firefox"></div>
-	<div style="float:left; margin-right:5px"><img src="/images/compatibility_chrome_icon.gif" width="16" height="16" alt="Google Chrome" title="Google Chrome"></div>
-	<div style="float:left; margin-right:5px"><img src="/images/compatibility_opera_icon.gif" width="16" height="16" alt="Opera" title="Opera"></div>
-	<div style="float:left; margin-right:5px"><img src="/images/compatibility_safari_icon.gif" width="16" height="16" alt="Apple Safari" title="Apple Safari"></div>
+	<div style="float:left; margin-right:5px; margin-left:5px"><img src="http://images.druva.com/images/compatibility_ie7_icon.gif" alt="Internet Explorer 7+" width="16" height="16" title="Internet Explorer 7+"></div>
+	<div style="float:left; margin-right:5px"><img src="http://images.druva.com/images/compatibility_firefox_icon.gif" width="16" height="16" alt="Mozilla Firefox" title="Mozilla Firefox"></div>
+	<div style="float:left; margin-right:5px"><img src="http://images.druva.com/images/compatibility_chrome_icon.gif" width="16" height="16" alt="Google Chrome" title="Google Chrome"></div>
+	<div style="float:left; margin-right:5px"><img src="http://images.druva.com/images/compatibility_opera_icon.gif" width="16" height="16" alt="Opera" title="Opera"></div>
+	<div style="float:left; margin-right:5px"><img src="http://images.druva.com/images/compatibility_safari_icon.gif" width="16" height="16" alt="Apple Safari" title="Apple Safari"></div>
 	<br class="clear_both">
 </div>
 <div id="under_footer">At Druva we are committed towards creating world class solutions for data backup and recovery. Our enterprise class products and solutions are ideally suited for simple and fast business data backup for local and remote laptop users.</div>
@@ -374,6 +409,15 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-6394227-1");
+//for MULTIPLE DOMAINS
+pageTracker._setDomainName("none");
+pageTracker._setAllowLinker(true);
+//
 pageTracker._trackPageview();
 } catch(err) {}</script>
+<script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script> <script>mktoMunchkin("924-MGM-340");</script>
+<!-- Begin Salesforce Tracking Code, place immediately before closing </BODY> tag -->
+<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
+<script type="text/javascript">__sfga();</script>
+<!-- End Salesforce Tracking Code, place immediately before closing </BODY> tag -->
 </body></html>
