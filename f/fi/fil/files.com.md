@@ -1,41 +1,45 @@
-> *The following text is extracted and transformed from the files.com privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630101851id_/http%3A//www.weblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the files.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214103203id_/http%3A//www.files.com/privacy) for the most accurate reproduction.*
 
-# Weblog.com - Privacy Policy
+# Privacy Policy | Files.com
 
-Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
+**1\. What is this document about?**   
+This document explains how we collect, use and disclose your personal information in connection with our services. In this document when we use the term "we" or "us" it is a reference to Startive Networks Pty Ltd Australian Company Number (ACN) 137 967 992 (“Files.com”). 
 
-When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+**2\. How do we collect your personal information?**   
+2.1. Generally, the only personal information we collect about you is that which you choose to tell us, or the personal information which we obtain from others.   
+2.2. We may also collect information from a friend or someone who refers our services to you, or through your use of our website. 
 
-**Registration Information**
+**3\. What personal information do we collect?**   
+3.1. We collect personal information which we consider relevant in providing and promoting our services to you, and operating our website.   
+3.2. The type of information we may collect includes, your name, address, telephone number, your computer's IP address and billing information (which will include credit card information). 
 
-You will provide us information about yourself, your firm or company, and your practices when you register to be a member of Weblog.com and its subsidiaries, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see Weblog.com servicing your needs and interests. 
+**4\. How do we use the information we collect?**   
+4.1. We use your personal information to provide and promote services to you.   
+4.2. We may also use your personal information to maintain and develop our business systems including other websites we operate, to provide customer service, for traffic analysis, for billing purposes and to comply with the law.   
+4.3. If you do not provide us with all or part of the personal information we require, it may prevent us from carrying out the things we have stated in clause 4.2.   
+4.4. If you receive promotional material you may choose to "opt out" of receiving this information, just let us know. 
 
-**Email Information**
+**5\. Do we disclose your personal information?**   
+5.1. We will not sell your personal information without your consent, unless we sell our business.   
+5.2. We may choose to disclose your personal information to our contractors, our agents, our suppliers, government authorities and any other party who may assist us in providing services to you, or in promoting or marketing our services to you, or any party who purchases or seeks to purchase our business (or any part of it including a website).   
+5.3. We may disclose your personal information to our contractors and suppliers who may be located outside of Australia where we do we will do so in accordance with the Privacy Act 1988 (Cth). 
 
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
+**6\. How do we use cookies?**   
+6.1. We use cookies to track your internet browsers behaviour, and also to store your favourite settings on our website.   
+6.2. A cookie is a small file we store on your computer which holds the information we outlined in clause 6.1. Every time you visit our site we can view this information. 
 
-**Web Site Use Information**
+**7\. How do we safeguard your personal information?**   
+7.1. We store your information in electronic form.   
+7.2. We take all reasonable precautions to protect these records from misuse or unauthorised access by using physical, electronic and procedural safeguards.   
+7.3. It is our practice to destroy, delete or de-identify your personal information when it is no longer needed. 
 
-Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. We, our advertisers and ad serving companies may also use small pieces of code called "web beacons" or "clear gifs" to determine which advertisements and promotions users have seen and how users responded to them.
+**8\. How can you access information and ensure its accuracy?**   
+8.1. When you provide us with personal information (or other third parties) provide us with personal information, we assume that it is correct unless you tell us otherwise.   
+8.2. Unless we know that personal information is incorrect, we cannot correct it. You can assist us, by telling us when the information we hold has changed and is no longer accurate.   
+8.3. If you wish to access the personal information we hold about you, you can do so by making a request to us. You can contact us via email: privacy at files.com 
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time by simply opt-ing out appropriately from such designated e-mail message footer, instructions.
+**9\. Do you have any comments or questions?**   
+9.1. We welcome any questions or comments and invite you to contact us at [privacy@files.com](mailto:privacy@files.com) .   
+9.2. We may amend this policy from time to time, to make sure that it is accurate and up to date. 
 
-**What Are Cookies?**
-
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
-
-**How Do We Use Information We Collect from Cookies?**
-
-As you shop on our Web site, the site uses its cookies to differentiate you from other shoppers so your shopping cart is only available to you. In some cases, we also use cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback in order to constantly improve our Web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
-
-**Sharing Information with Third Parties**
-
-We DO NOT share your information to any third parties without your prior knowledge and or consent. 
-
-**Notice of New Services and Changes**
-
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time by simply opt-ing out appropriately from such designated e-mail notice footer, instructions. 
-
-**YOUR CONSENT**
-
-By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. 
+Effective: November 1, 2010 
