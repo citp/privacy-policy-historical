@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920174025id_/http%3A//about-reeds.reeds.com/Privacy.html%3FparentId%3D129) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reeds.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214132944id_/http%3A//about-reeds.reeds.com/Privacy.html) for the most accurate reproduction.*
 
-# REEDS Jewelers: Privacy Policy
+# REEDS Jewelers Privacy Policy | Shop REEDS Jewelers
 
-**Last updated on: 07-17-2008**
+**Last updated on: November 11, 2010**
 
 REEDS Jewelers, Inc., offers customer-friendly policies designed to afford you a most secure and safe shopping experience. 
 
@@ -33,7 +33,7 @@ Your privacy is important to us. To best serve your shopping needs, we endeavor 
 
 ### Who is REEDS Jewelers, Inc.?
 
-Founded in 1946, REEDS Jewelers is a leading full-service multi-channel jewelry retailer, with stores in 18 states, a national [direct mail catalog](http://www.reeds.com/catalogs/Advertised-Offers.html), and an ecommerce web site, [www.REEDS.com](http://www.reeds.com/), serving customers across all 50 states and those stationed abroad at APO/FPO addresses. To view our current roster of REEDS stores, please view our [Store Locations](http://about-reeds.reeds.com/REEDSLocations.html). 
+Founded in 1946, REEDS Jewelers is a leading full-service multi-channel jewelry retailer, with stores in 18 states, a national [direct mail catalog](http://designer-jewelry.reeds.com/Tacori-18k925-cat260.html) , and an ecommerce web site, [www.REEDS.com](http://www.reeds.com/), serving customers across all 50 states and those stationed abroad at APO/FPO addresses. To view our current roster of REEDS stores, please view our [Store Locations](http://about-reeds.reeds.com/ReedsLocations.html) . 
 
 _PLEASE NOTE: REEDS Jewelers, Inc., is not associated with any other jewelry chain or store using the name REEDS or REEDS Jewelers._
 
@@ -89,7 +89,7 @@ You can update or correct your name, address, telephone number or email address 
 
 #### How to Be Removed from a Paper Catalog Mailing List
 
-You can [contact us](http://shopping-tools.reeds.com/ContactUs.html) by mail, phone or email and simply request that you be removed from the catalog mailing list. 
+You can [contact us](http://about-reeds.reeds.com/Contacting-Reeds-Jewelers.html) by mail, phone or email and simply request that you be removed from the catalog mailing list. 
 
 We will make every effort to implement any choice you make as soon as possible, but you should allow approximately three months for mailing change requests to be fully implemented due to lead times with external vendors on printed materials. 
 
@@ -119,7 +119,7 @@ Yes. It is very secure. The use of the latest cutting edge technology ensures th
 
 You may notice an unbroken key  or a closed lock  at the bottom of the page when you enter our "check-out" page. This means that your browser has opened a secure connection with our site! You can also check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https." 
 
-**PLEASE NOTE THAT NORMAL E-MAIL (such as using the "Contact Us" form on REEDS.com or sending an email via your home email service) IS NOT ENCRYPTED AND THUS IS NOT A SECURE MEANS FOR TRANSMITTING CREDIT CARD INFORMATION OR ANY PERSONAL INFORMATION YOU WISH TO KEEP PRIVATE AND SECURE.**
+**PLEASE NOTE THAT NORMAL E-MAIL (such as using the["Contact Us"](http://about-reeds.reeds.com/Contacting-Reeds-Jewelers.html) form on REEDS.com or sending an email via your home email service) IS NOT ENCRYPTED AND THUS IS NOT A SECURE MEANS FOR TRANSMITTING CREDIT CARD INFORMATION OR ANY PERSONAL INFORMATION YOU WISH TO KEEP PRIVATE AND SECURE.**
 
 ### Does REEDS Use HTML Cookies?
 
@@ -131,7 +131,7 @@ Note that if you refuse cookies, you will be unable to order from the REEDS.com 
 
 ### Does REEDS Aggregate Information?
 
-REEDS Jewelers has carefully selected a company, Coremetrics, that will assist us in better understanding your use of our site. Coremetrics collects information on our site through first-party data collection by placing cookies on your computer. The information that is collected through these cookies educates us on such things as search engine referral, how you navigate through our site, responses to email offers, unique visitor identification, and product browsing and purchasing information. REEDS.com does not allow Coremetrics to collect credit card, username or password information. The information that is collected by Coremetrics is analyzed by Coremetrics and is sent to REEDS.com through a secure web connection. The analyzed data will allow for REEDS.com to better understand your interests and needs in our web site and how to better serve those interests and provide you with more personalized product offerings. Our contract with Coremetrics prohibits them from using any of the data collected on our site for any other purpose or match it against any other information in its possession. Coremetrics is required to maintain all information collected and its analysis in confidence. As a visitor to REEDS.com, you have the choice to deactivate the ability of Coremetrics to analyze your browsing and purchasing behavior on our site. You may also choose to continue to benefit from the improved shopping experience that the Coremetrics analysis allows us to provide to you, but you may still maintain anonymity. To learn more about the various levels of privacy and confidentiality you can select with respect to Coremetrics and to exercise your choice, [click here](https://web.archive.org/web/20100920174025id_/http%3A//about-reeds.reeds.com/Opt-Out.html). 
+REEDS Jewelers has selected Google Analytics to assist us in better understanding your use of our site. Google Analytics collects information on our site through first-party data collection by placing cookies on your computer. The information that is collected through these cookies educates us on such things as search engine referral, how you navigate through our site, responses to email offers, unique visitor identification, and product browsing and purchasing information. REEDS.com does not allow Google Analytics to collect credit card, username or password information. The information that is collected by Google Analytics is analyzed by Google Analytics and is accessed by REEDS.com through a secure web connection. The analyzed data will allow for REEDS.com to better understand your interests and needs in our web site and how to better serve those interests and provide you with more personalized product offerings. Google Analytics is required to maintain all information collected and its analysis in confidence. As a visitor to REEDS.com, you have the choice to deactivate the ability of Google Analytics to analyze your browsing and purchasing behavior on our site. To learn more about Google Analytics privacy and to exercise your choice, [click here](http://tools.google.com/dlpage/gaoptout). 
 
 ### What is REEDS' Policy With Respect To Data Collection From Children?
 
@@ -139,7 +139,7 @@ REEDS does not knowingly collect any personal information from children under th
 
 ### Whom Do I Contact If I Have Additional Questions Or Concerns About This Policy?
 
-If you have any questions or concerns about REEDS privacy policy, please [click here](http://shopping-tools.reeds.com/Help.html#contact_us) for REEDS' contact information to reach our Customer Service Center by phone, email, live chat or postal mail. 
+If you have any questions or concerns about REEDS privacy policy, please [contact us](http://about-reeds.reeds.com/Contacting-Reeds-Jewelers.html) for REEDS' contact information to reach our Customer Service Center by phone, email, live chat or postal mail. 
 
 For more information on privacy in general, please visit the US Federal Trade Commission's site on Privacy Initiatives at <http://www.ftc.gov/privacy/index.html> or the Electronic Privacy Information Center, <http://www.epic.org/>, a public interest research center clearinghouse for privacy issues. 
 
