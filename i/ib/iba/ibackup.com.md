@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604005424id_/http%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215121309id_/http%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.*
 
 # Privacy policy - Secure online storage and backup
 
@@ -19,7 +19,7 @@ For this, login to your account from the website, click My Account > Edit Profil
 Security  
 Never share the password with anyone, unless You intend to collaborate with them, for which they need to read-write access to Your files. On receipt of certain types of sensitive data like financial information, we redirect visitors to the secure portion of our site, using industry standard 128-bit Secure Socket Layer technology. This site has security measures in place to protect against loss, misuse and alteration of the information under our control. The user data is password protected.
 
-For details, see the [terms of use](https://web.archive.org/web/20100604005424id_/http%3A//license/terms_new.htm).
+For details, see the [terms of use](https://web.archive.org/web/20110215121309id_/http%3A//license/terms_new.htm).
 
 IBackup uses cookies for user session tracking. They are used solely for identifying user sessions and do not store any personal information.
 
@@ -33,6 +33,6 @@ If you have any questions about this privacy statement, the practices of this si
 
   
 Pro Softnet Corporation,  
-26115 Mureau Road, Suite A,  
+26115, Mureau Road, Suite A,  
 Calabasas, CA 91302.   
 [privacy@ibackup.com](mailto:privacy@ibackup.com)
