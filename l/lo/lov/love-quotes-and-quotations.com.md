@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the love-quotes-and-quotations.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418123032id_/http%3A//www.love-quotes-and-quotations.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love-quotes-and-quotations.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215230757id_/http%3A//www.love-quotes-and-quotations.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Love Quotes and Quotations
+
+  
+
 
 ## Privacy Policy for Love Quotes and Quotations  
 Web Visitors and Newsletter Subscribers
@@ -56,6 +59,8 @@ Love Quotes & Quotations reserves the right to make changes in this policy. If t
  **Agreeing to Terms**
 
 If you do not agree to Love Quotes & Quotations's Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
+
+[](http://workfromhome.sitesell.com/kokopelli.html)
 
   
 **Share this page:  **| | | |   
