@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamekiller.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230124511id_/http%3A//www.gamekiller.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamekiller.net privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215132847id_/http%3A//www.gamekiller.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GameKiller - Bringing The Pain To Each And Every Game!
 
