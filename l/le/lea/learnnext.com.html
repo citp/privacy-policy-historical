@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the learnnext.com privacy policy that was archived on 2010-09-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100918022650id_/http%3A//learnnext.com/user/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the learnnext.com privacy policy that was archived on 2011-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110215190828id_/http%3A//www.learnnext.com/user/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -39,11 +39,11 @@ color:blue;cursor:pointer;
 		
 
    
-<link href="/media/style/master.css?2.0=" rel="stylesheet" type="text/css" media="all">
+<link href="/media/style/master.css?3.0=" rel="stylesheet" type="text/css" media="all">
 <link href="/media/style/rightlogin.css" rel="stylesheet" type="text/css" media="all">
 <link rel="shortcut icon" href="/media/images/icons/fav.ico" type="image/x-icon">
 
-<script type="text/javascript">
+<!--<script type="text/javascript">
 
 var callFromShowHide = false;
 			
@@ -59,6 +59,47 @@ var callFromShowHide = false;
 		document.paginateForm.submit(); 
 	}
 
+</script>-->
+
+<script type="text/javascript" language="javascript">
+
+	var errorMsgReqEmailId =   'Please enter a valid email address for registration.';
+	var errorMsgValidEmailId =   'Invalid email address entered. Please check your email address and enter again.';
+	
+	function formSubmitforLogin(){
+		if(document.getElementById('emailId').value == "Email Id"){
+			document.getElementById('emailId').value = "";
+		}
+		document.getElementById('login_user_login_header').submit();
+		return false;
+		if(validateForm_login_user_login()){
+			document.getElementById('login_user_login_header').submit();
+		}
+	}
+	function validateEmail(object){
+			return true;
+			removeHelp(object);
+			var field;
+		 	field = object;
+			if(object.name == 'emailId'){
+			   		
+			   	// field name: emailId
+				// validator name: email
+			  		 if (field.value != null && field.value.length > 0 && field.value.match(/^\S+@\S+\.(com|net|org|info|edu|mil|gov|biz|ws|us|tv|cc|aero|arpa|coop|int|jobs|museum|name|pro|travel|nato|.{2,2})$/gi) == null) {
+			  			 addError(object,errorMsgValidEmailId);
+			  			 return false;
+			  			
+			  		}
+			  		// field name: emailId
+					 // validator name: requiredstring
+			  		 if (field.value != null && (field.value == "" || field.value.replace(/^\s+|\s+$/g,"").length == 0)) {
+			  			 addError(object,errorMsgReqEmailId);
+			  			return false;
+			  		}
+			  	}
+			 return true;
+	}
+	
 </script>
 
  
@@ -110,12 +151,58 @@ var callFromShowHide = false;
 								
                             	
                             	
+                            	
+                            	
                             	    
-	               					<a href="/user/scratchCardActivation_input.htm">Activation</a>|
+	               					<!--<a href="/user/scratchCardActivation_input.htm">Activation</a>|
                             		<a href="/user/register_user_input.htm" style="margin-right:0;">Join Us</a>
                             		<div style="margin-top:-13px;"><span style="color:#fff;">Already Joined?</span> <a href="/user/login_user_input.htm" style="margin-right:0;">Login here</a></div>
-                            		<!--<a href="/user/login_user_input.htm" style="margin:0px 0px 0px 8px;">Login</a>-->
-                            		<!-- <div class="tollfree">Call : <b style="color:#faca0c; font-size:13px; font-weight:bold;">1800 419 1234</b> (8AM - 11PM)</div>-->
+                            		<a href="/user/login_user_input.htm" style="margin:0px 0px 0px 8px;">Login</a>
+                            		<div class="tollfree">Call : <b style="color:#faca0c; font-size:13px; font-weight:bold;">1800 419 1234</b> (8AM - 11PM)</div>-->
+                            		
+                            		
+                            		
+									
+	               					        
+<form id="login_user_login_header" name="login_user_login_header" onsubmit="return false;" action="/user/login_user_login.htm" method="POST">
+                            	    
+	                            	    <input type="hidden" name="fromForum" value="" id="login_user_login_header_fromForum">
+										<input type="hidden" name="redirUrl" value="" id="login_user_login_header_redirUrl">
+										<input type="hidden" name="redirectUrlAction" value="" id="login_user_login_header_redirectUrlAction">
+	                            	    
+		               					<div style="padding-top:15px;">
+		               					<table align="right">
+										  <tbody><tr>
+										    <td valign="top" align="center" width="140">
+										    	<input type="text" name="emailId" value="Email Id" id="emailId" size="25" class="headTopinputBox" maxlength="64" theme="simple" onfocus="javascript:if(this.value=='Email Id'){this.value='';} this.style.color='#000';" onblur="javascript:if(this.value==''){this.value='Email Id';}" onchange="validateEmail(this)">
+										    </td>
+										    <td valign="top" align="center">
+										    	<input type="text" id="mockpass" value="Password" class="headTopinputBox" size="25" onfocus="document.getElementById('mockpass').style.display='none'; document.getElementById('realpass').style.display=''; document.getElementById('realpass').focus();">
+
+												<input type="password" name="passwd" id="realpass" style="display: none;" size="25" class="headTopinputBox" maxlength="40" theme="simple" onblur="if(this.value=='') {document.getElementById('mockpass').style.display=''; document.getElementById('realpass').style.display='none';} this.style.color='#000';">
+											</td>
+										    <td valign="top" align="center">
+										    	<div id="headLoGBtn">
+							                     	<input type="image" src="/media/images/headTopLoginBtn.jpg" alt="Submit Form" onclick="formSubmitforLogin();">
+							                    </div>
+										    </td>
+										  </tr>
+										  <tr>
+										  	<td>&nbsp;</td>
+										  	<td><a id="login_user_login_header_" href="/user/forgot_password_user_input.htm" class="contentBoxLinks">Forgot your login details?</a></td>
+										  	<td>&nbsp;</td>
+										  </tr>
+										</tbody></table>
+										</div>
+	               					</form>
+
+
+
+
+                            		
+                            		
+                            		
+                            		
                             	
                             	
                       		</div>
@@ -126,7 +213,7 @@ var callFromShowHide = false;
 						<!--  <div class="tabNewImg"><img src="/media/images/new.gif" width="36" height="18" /></div>
 						<div class="clear"></div>-->
 						 </div>
-						 </div>
+						 
                             <div id="nav">
 								 <ul>
                                 <li id="nav-home" style="border-left: 1px solid #ba970d;"><a href="/">Home</a></li>
@@ -151,7 +238,7 @@ var callFromShowHide = false;
 
                             </div>
 
-                    
+                    </div>
                     </div>
                
        
@@ -260,9 +347,12 @@ With respect to network advertising companies (companies that manage and provide
             
             
             
+            
+            
                                             
 			<ul>
 			<!-- CSS Tabs -->
+			<li><a href="/user/recent-DVD-winners.htm">Recent DVD Winners</a></li>
 			<li><a href="/user/CBSE-news.htm">Press Releases</a></li>
 			<li><a href="/user/media.htm">Media</a></li>
 			<li><a href="/user/child-safety.htm">Child Safety</a></li>
@@ -354,32 +444,32 @@ Powered by: Crafty Syntax Live Help        http://www.craftysyntax.com/
             		
             		<ul class="footSumList">
             			<li><b>CBSE Class 10th</b></li>
-            			<li><a href="/user/CBSE-science-course-list-X.htm">CBSE Science</a></li>
-            			<li><a href="/user/CBSE-maths-course-list-X.htm">CBSE Maths</a></li>
+            			<li><a href="/CBSE-science-Lesson-Summary-X.htm">CBSE Science</a></li>
+            			<li><a href="/CBSE-maths-Lesson-Summary-X.htm">CBSE Maths</a></li>
             		</ul>
             		
             		<ul class="footSumList">
             			<li><b>CBSE Class 9th</b></li>
-            			<li><a href="/user/CBSE-science-course-list-IX.htm">CBSE Science</a></li>
-            			<li><a href="/user/CBSE-maths-course-list-IX.htm">CBSE Maths</a></li>
+            			<li><a href="/CBSE-science-Lesson-Summary-IX.htm">CBSE Science</a></li>
+            			<li><a href="/CBSE-maths-Lesson-Summary-IX.htm">CBSE Maths</a></li>
             		</ul>
             		
             		<ul class="footSumList">
             			<li><b>CBSE Class 8th</b></li>
-            			<li><a href="/user/CBSE-science-course-list-VIII.htm">CBSE Science</a></li>
-            			<li><a href="/user/CBSE-maths-course-list-VIII.htm">CBSE Maths</a></li>
+            			<li><a href="/CBSE-science-Lesson-Summary-VIII.htm">CBSE Science</a></li>
+            			<li><a href="/CBSE-maths-Lesson-Summary-VIII.htm">CBSE Maths</a></li>
             		</ul>
             		
             		<ul class="footSumList">
             			<li><b>CBSE Class 7th</b></li>
-            			<li><a href="/user/CBSE-science-course-list-VII.htm">CBSE Science</a></li>
-            			<li><a href="/user/CBSE-maths-course-list-VII.htm">CBSE Maths</a></li>
+            			<li><a href="/CBSE-science-Lesson-Summary-VII.htm">CBSE Science</a></li>
+            			<li><a href="/CBSE-maths-Lesson-Summary-VII.htm">CBSE Maths</a></li>
             		</ul>
             		
             		<ul class="footSumList">
             			<li><b>CBSE Class 6th</b></li>
-            			<li><a href="/user/CBSE-science-course-list-VI.htm">CBSE Science</a></li>
-            			<li><a href="/user/CBSE-maths-course-list-VI.htm">CBSE Maths</a></li>
+            			<li><a href="/CBSE-science-Lesson-Summary-VI.htm">CBSE Science</a></li>
+            			<li><a href="/CBSE-maths-Lesson-Summary-VI.htm">CBSE Maths</a></li>
             		</ul>
             		<div class="clear"></div>
             		
