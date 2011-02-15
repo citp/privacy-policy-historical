@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometips.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204133819id_/http%3A//www.hometips.com/2-privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometips.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215090254id_/http%3A//www.hometips.com/2-privacypolicy.php) for the most accurate reproduction.*
 
 # Home Tips - Privacy Policy
 
