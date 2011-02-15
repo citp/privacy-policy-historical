@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seedsman.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617204647id_/http%3A//www.seedsman.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedsman.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215222144id_/http%3A//www.seedsman.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Seedsman - Cannabis And Marijuana Seeds
+# Privacy Policy - Cannabis & Marijuana Seeds :: Seedsman
 
 **Seedsman.com and its owner Seedsman Ltd is dedicated to ensuring the protection and privacy of our customers and visitors to our websites.   We understand and adhere to the Data Protection Act, which was set up to help and protect you – the visitor.**
 
