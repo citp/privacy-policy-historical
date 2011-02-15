@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidsii.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602084558id_/http%3A//www.kidsii.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsii.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215164815id_/http%3A//www.kidsii.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,6 +6,7 @@
 |  |   
 |  |   
 ---  
+   
 |  | 
 
 Online Privacy Policy of Kids II®
@@ -19,30 +20,22 @@ By using our site, you consent to our privacy policy.
 
 Kids II feels it is important that you understand the type of information we collect from you, as well as how that information is used, disclosed, and protected.
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such   
+>   * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such   
 as e-mail, or participate in another site feature. 
-
   * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
-
   * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. 
-
   * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them. 
-
 
   
 How we use your information   
+  
 We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
   * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
-
   * To allow us to better service you in responding to your customer service requests. 
-
   * To quickly process your transactions. 
-
   * To administer a contest, promotion, survey or other site feature. 
-
   * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'account-holders-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us.
-
 
   
 How we protect visitor information   
@@ -81,7 +74,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
   
 Questions & Feedback   
   
-We welcome your questions, comments, and concerns about privacy. Please [send ](https://web.archive.org/web/20100602084558id_/http%3A//www.kidsii.com/t-contact.aspx)us any and all feedback pertaining to privacy, or any other issue.  
+We welcome your questions, comments, and concerns about privacy. Please [send ](https://web.archive.org/web/20110215164815id_/http%3A//www.kidsii.com/t-contact.aspx)us any and all feedback pertaining to privacy, or any other issue.  
   
 Online Policy Only   
   
@@ -89,11 +82,11 @@ This online privacy policy applies only to information collected through our web
   
 Terms and Conditions   
   
-Please also visit our[ Terms and Conditions](https://web.archive.org/web/20100602084558id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.  
+Please also visit our[ Terms and Conditions](https://web.archive.org/web/20110215164815id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.  
   
 Severability  
   
-In the event that any part or provision of these [Terms and Conditions](https://web.archive.org/web/20100602084558id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) is declared fully or partially invalid, unlawful, void or unenforceable by a court of competent jurisdiction, the remainder of these [Terms and Conditions](https://web.archive.org/web/20100602084558id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) will remain in full force and effect.  
+In the event that any part or provision of these [Terms and Conditions](https://web.archive.org/web/20110215164815id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) is declared fully or partially invalid, unlawful, void or unenforceable by a court of competent jurisdiction, the remainder of these [Terms and Conditions](https://web.archive.org/web/20110215164815id_/http%3A//www.kidsii.com/t-termsandconditions.aspx) will remain in full force and effect.  
   
 Inventor Submissions & Communications   
   
@@ -111,7 +104,7 @@ Further, we may use selected reputable third parties for marketing, targeting an
   
 Online Surveys  
   
-Kids II, Inc. (and its branded websites “[www.kidsii.com](https://web.archive.org/web/20100602084558id_/http%3A//www.kidsii.com/default.aspx "Kids II Website")” or “[www.brightstarts.com](http://www.brightstarts.com/ "Bright Starts Website")”) administers online surveys in connection with the Site in which we ask you for demographic information and opinions. We do not ask you for personally identifiable information as part of a survey. We use the collected survey data on an aggregated basis to better understand the needs of all of our customers.   
+Kids II, Inc. (and its branded websites "[www.kidsii.com](https://web.archive.org/web/20110215164815id_/http%3A//www.kidsii.com/default.aspx "Kids II Website")" or "[www.brightstarts.com](http://www.brightstarts.com/ "Bright Starts Website")") administers online surveys in connection with the Site in which we ask you for demographic information and opinions. We do not ask you for personally identifiable information as part of a survey. We use the collected survey data on an aggregated basis to better understand the needs of all of our customers.   
   
 |  |   
 |  |  |  
