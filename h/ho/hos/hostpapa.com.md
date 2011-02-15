@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostpapa.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410002320id_/http%3A//www.hostpapa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostpapa.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215092526id_/http%3A//www.hostpapa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HostPapa.com - Green Web Hosting Company Powered by 100% Green Energy
+# Privacy Policy - Green Web Hosting from HostPapa, America’s Web Hosting Provider.
 
 ## Statement of Privacy Policy
 
