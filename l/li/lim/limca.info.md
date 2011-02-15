@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limca.info privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325014728id_/http%3A//www.limca.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limca.info privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215212026id_/http%3A//www.limca.info/privacy) for the most accurate reproduction.*
 
 # Limca Bookmarks |
 
@@ -8,7 +8,7 @@
   * [Groups](https://web.archive.org/groups/)
   * [directory](http://www.dir.in/)
   * [Stumble](http://www.stumble.info/)
-  * [Privacy](https://web.archive.org/web/20100325014728id_/http%3A//www.limca.info/privacy)
+  * [Privacy](https://web.archive.org/web/20110215212026id_/http%3A//www.limca.info/privacy)
 
 
 
