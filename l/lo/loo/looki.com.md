@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the looki.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224002724id_/http%3A//www.looki.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the looki.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216000907id_/http%3A//www.looki.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
