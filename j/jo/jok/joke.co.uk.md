@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the joke.co.uk privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806182135id_/http%3A//www.joke.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joke.co.uk privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215153634id_/http%3A//www.joke.co.uk/content/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - JOKERS MASQUERADE
-
-You are here: [Home](https://web.archive.org/) > Privacy Policy
+# Privacy Policy - Jokers' Masquerade
 
 At Abscissa.Com Limited ("Jokers' Masquerade") we have adopted the following privacy policy as part of our commitment to protect any personal information ("Personal Information") which you may provide to us through this website or by other means. Please note that this privacy policy does not apply to other websites which may be linked through this website. Personal Information which you choose to provide to other websites will be subject to the privacy policies of those websites.
 
