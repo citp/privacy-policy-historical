@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobserve.us privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210042319id_/http%3A//www.jobserve.us/Terms_Policy.aspx%3Ffile%3DPrivacy_Policy.txt%26pagetitle%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobserve.us privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215153534id_/http%3A//www.jobserve.us/Terms_Policy.aspx%3Ffile%3DPrivacy_Policy.txt%26pagetitle%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # JobServe - Privacy Policy
 
