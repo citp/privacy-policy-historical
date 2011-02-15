@@ -1,43 +1,40 @@
-> *The following text is extracted and transformed from the grandforks.com privacy policy that was archived on 2006-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061029210451id_/http%3A//www.grandforksherald.com/resources/index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandforks.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215055239id_/http%3A//www.grandforksherald.com/event/privacy) for the most accurate reproduction.*
 
-# · Grand Forks Herald ·
+# Grand Forks Herald | Grand Forks, North Dakota
 
-[](http://www.realcitiesnetwork.com/)
+This Privacy Policy discloses the general privacy practices for Forum Communications Company's web sites, including Grand Forks Herald.
 
-  
-|  | 
-
-**Forum Communications Company's Privacy Policy  
-**This Privacy Policy discloses the general privacy practices for Forum Communications Company's web sites, including Grand Forks Herald.
-
-  If you have any inquiry about our privacy policy, please contact: 
+If you have any inquiry about our privacy policy, please contact:
 
 Forum Communications Company  
 Address: 101 5th Street North, Fargo, ND, 58102  
 Phone: 701-451-5628  
 Fax: 701-451-5633  
-email: [gfhcity@gfherald.com](mailto:gfhcity@gfherald.com?subject=Privacy%20Policy)
+email: [](mailto:?subject=Privacy%20Policy)
 
-Forum Communications Company  is committed to respecting your privacy rights when visiting any Forum Communications Company web site, such as this one. To protect your personal information, Forum Communications Company has adopted the guidelines outlined below. **
+Forum Communications Company  is committed to respecting your privacy rights when visiting any Forum Communications Company web site, such as this one. To protect your personal information, Forum Communications Company has adopted the guidelines outlined below.
 
-Information Collected
-
-**  
+**Information Collected**  
 While visiting any of the Forum Communications Company web sites  we may ask you to register and/or provide information that personally identifies you for purposes of interacting with the site. Such personal information may include, but is not limited to, your name, phone number, street address and e-mail address. On any page that collects personal information, we will specifically describe what information is required in order to provide you with the product or service or enter you in the promotion you have requested, as well as respond to your inquiry or comment.
 
-**What are Cookies?** A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The site can only access the information from a cookie sent by the site. We cannot access other cookies sent by other web sites or the information contained therein. Additionally, we cannot learn your e-mail address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, by entering a sweepstakes or promotion, etc.
+**What are Cookies?**  
+A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The site can only access the information from a cookie sent by the site. We cannot access other cookies sent by other web sites or the information contained therein. Additionally, we cannot learn your e-mail address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, by entering a sweepstakes or promotion, etc.
 
-**Why does the site use cookies?** Forum Communications Company uses cookies to track usage of the site and further personalize your experience when you are visiting the site. By tracking usage, we can best determine what features of the site best serve the users.
+**Why does the site use cookies?**  
+Forum Communications Company uses cookies to track usage of the site and further personalize your experience when you are visiting the site. By tracking usage, we can best determine what features of the site best serve the users.
 
-**What benefits do I receive from cookies?** Overall, the use of cookies helps to give you a more personalized experience at the site. The information is used to keep our site fresh and relevant to you the user. Cookies also allow you to avoid retyping your e-mail address and password each time you access the site.
+**What benefits do I receive from cookies?**  
+Overall, the use of cookies helps to give you a more personalized experience at the site. The information is used to keep our site fresh and relevant to you the user. Cookies also allow you to avoid retyping your e-mail address and password each time you access the site.
 
-**May I decline to accept a cookie?** You may decline to accept cookies sent by the site by selecting an option on your browser to reject cookies. However, some portions of the site may require registration in order to access those areas. In such cases, we ask that you register and provide us with basic information on our registration page, or sign in if previously registered. Cookies enable our server to know that you are a registered user; and will eliminate the need for you to log in each time you access our site. In addition, our registration system may require that you accept the cookies from the site in order to access that portion of the site. Other sites linked to the site may also send cookies; however we do not control such activities.
+**May I decline to accept a cookie?**  
+You may decline to accept cookies sent by the site by selecting an option on your browser to reject cookies. However, some portions of the site may require registration in order to access those areas. In such cases, we ask that you register and provide us with basic information on our registration page, or sign in if previously registered. Cookies enable our server to know that you are a registered user; and will eliminate the need for you to log in each time you access our site. In addition, our registration system may require that you accept the cookies from the site in order to access that portion of the site. Other sites linked to the site may also send cookies; however we do not control such activities.
 
-**What happens with the information collected in a cookie?** The information stored in a cookie is used to identify you to our server, to allow us to personalize your experience on the site, and to serve content and communications that may be of interest to you.
+**What happens with the information collected in a cookie?**  
+The information stored in a cookie is used to identify you to our server, to allow us to personalize your experience on the site, and to serve content and communications that may be of interest to you.
 
-**IP Addresses:** Forum Communications Company does log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage.  
-**  
-Use of Personal Information**  
+**IP Addresses:** Forum Communications Company does log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage.
+
+**Use of Personal Information**  
 We believe in protecting your privacy, and will not share personal information with third parties outside of Forum Communications Company except as described in this Privacy Policy. We believe that we can enhance your experience on our site with the information you share with us. We use personal information about you to improve our advertising and marketing efforts, to statistically analyze site usage, to improve our content and product offerings and to personalize the site's content, layout, and services. We may also use your personal information, such as your e-mail address or mailing address, to contact you regarding products and/or services that may be of interest to you, to respond to an inquiry from you regarding the information that we have collected or respond to your comments and suggestions.
 
 Grand Forks Herald will not sell you personal information or user database to outside companies, however, we may facilitate delivery of special offers or promotions from local businesses which are relevant to our users. All e-mails generated from user registration will come from an @forumcomm.com or @in-forum.com address. Forum Communications Company may match specific and/or aggregated personal information with third party data to provide you with product and content offerings that interest you and improve our advertising and marketing efforts. Forum Communications Company also may disclose aggregated user statistics in order to describe our services to potential advertisers, partners, other third parties, our affiliate companies, and for other lawful purposes. As part of your experience on our site, you may receive communications from us related to products and services that might interest you. While we believe these services will enhance your experience at our site, you will at all times be able to opt out from receiving these communications, either by specifically opting out of these services or by deleting your profile from our database.
@@ -60,7 +57,7 @@ Third party sites linked to and from the site are not necessarily under the cont
 Forum Communications Company cares about the safety of children and their use of the Internet. Therefore, in accordance with the Children's Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical.
 
 **Opting-Out**  
-We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to "opt-out" altogether from providing personal information to us by not registering on the site and thereby not providing personal information. You may also choose at a later date to have your name removed from our database. To do so, please follow the process described below.If you no longer wish to receive special offers and promotions from IN-FORUM via e-mail, you may "opt-out" by editing your account information. To edit your account, please [click here](http://www.grandforksherald.com/account/).
+We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to "opt-out" altogether from providing personal information to us by not registering on the site and thereby not providing personal information. You may also choose at a later date to have your name removed from our database. To do so, please follow the process described below.If you no longer wish to receive special offers and promotions from IN-FORUM via e-mail, you may "opt-out" by editing your account information. To edit your account, please [click here](https://web.archive.org/event/login/).
 
 Certain portions of the site and certain services provided on the site, however, do require registration in order to access or use these areas and services. If you choose not to register or provide certain information, these areas will not be accessible to you.
 
@@ -69,7 +66,7 @@ You may access all of the personal information that we collect from you online a
 
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that as a result of deregistration, certain areas of our Site may no longer be accessible to you.
 
-1\. Enter (or click) <http://www.grandforksherald.com/account/> in your browser.
+1\. Enter (or click) [http://www.grandforksherald.com/event/login/](https://web.archive.org/event/login/) in your browser.
 
 2\. Sign in by entering your e-mail address and password. Your account information will then be displayed.
 
@@ -79,7 +76,4 @@ You may also at any time choose to change or delete your profile from our databa
 Forum Communications Company maintains industry standard safeguards to ensure the security, integrity and privacy of the personal information that you provide to Forum Communications Company.
 
 **Contacting Us**  
-If you have any questions or comments about our Privacy Policy, please e-mail us at [gfhcity@gfherald.com](mailto:gfhcity@gfherald.com?subject=Privacy%20Policy)
-
-|   
----|---|---|---
+If you have any questions or comments about our Privacy Policy, please e-mail us at [](mailto:?subject=Privacy%20Policy)
