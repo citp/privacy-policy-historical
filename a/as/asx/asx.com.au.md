@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212200428id_/http%3A//www.asx.com.au/legal/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216004931id_/http%3A//www.asx.com.au/legal/privacy-statement.htm) for the most accurate reproduction.*
 
-# Privacy Statement for the ASX website
+# Privacy Statement - Australian Securities Exchange - ASX
 
 This Privacy Statement applies to your use of the web site of ASX at [www.asx.com.au](http://www.asx.com.au/).
 
@@ -69,7 +69,7 @@ When you provide personal information to us via the Internet, we rely on the acc
 ### **Personal Information Storage and Security**
 
 Personal information is stored in transmission logs and archived for a period of up to seven years, depending on the nature of the information being held.  
-Where appropriate, our web site provides a secure environment by using Secure Sockets Layer (SSL). This establishes a session and encrypts all traffic between our web server and your browser.  [More information about MyASX security](https://web.archive.org/web/20101212200428id_/http%3A//www.asx.com.au/about_site.htm#Security).
+Where appropriate, our web site provides a secure environment by using Secure Sockets Layer (SSL). This establishes a session and encrypts all traffic between our web server and your browser.  [More information about MyASX security](http://www.asx.com.au/about/about_site.htm).
 
 ### **Use and Disclosure of Personal Information**
 
