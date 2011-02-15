@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the imreportcard.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328014418id_/http%3A//www.imreportcard.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imreportcard.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215111713id_/http%3A//www.imreportcard.com/privacy.cgi) for the most accurate reproduction.*
 
 # IM Report Card Privacy Policy
 
 IMReportCard.com Privacy Policy
 
-  
 We take your privacy very seriously, and we've created this Privacy Policy in order to demonstrate our firm commitment to online privacy. This page outlines our information gathering and dissemination practices, and our use of personally identifiable information.
 
 **What information does IMReportCard.com collect from visitors?**
@@ -40,7 +39,8 @@ IMReportCard.com does not rent, sell or share any of the information collected b
   * We are required by law to provide the IRS with Tax ID numbers and/or other personally identifiable information about Affiliates and Writers who receive over $600 in payments from IMReportCard.com in a calender year.  
 
 
-  
+
+
 **Does IMReportCard.com use "cookies" or pixel "tags"?**
 
 Cookies are bits of electronic information that a website can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. Cookies allow website operators to better customize a site to your individual preferences.
