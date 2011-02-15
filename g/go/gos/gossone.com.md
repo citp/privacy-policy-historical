@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossone.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119053642id_/http%3A//www.gossone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossone.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215044354id_/http%3A//www.gossone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Goss One
 
@@ -69,6 +69,6 @@ Please contact those vendors and others directly if you have any questions about
 
 _* Click confirmation link sent in email * Got no email, check spam folder_
 
-815 views, 1 so far today | 
+1012 views, 1 so far today | 
 
 [](http://www.gossone.com/showbiz-news/kim-kardashian-shows-off-her-body-in-tight-dress-photo)
