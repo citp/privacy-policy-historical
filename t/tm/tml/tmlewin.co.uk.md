@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tmlewin.co.uk privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818093324id_/http%3A//www.tmlewin.co.uk/Content.aspx%3Fcontent%3DSecurityAndPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmlewin.co.uk privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215033629id_/http%3A//www.tmlewin.co.uk/Privacy-Policy/Privacy-Policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
 
-# Security and Privacy Policy - T.M.Lewin
+# Privacy Policy | T.M.Lewin
 
 T.M.Lewin is committed to protecting the privacy of our customers. This statement outlines our privacy and data protection policy.
 
