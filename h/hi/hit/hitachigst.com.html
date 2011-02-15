@@ -1,0 +1,338 @@
+<!--The following is the downloaded HTML source of the hitachigst.com privacy policy that was archived on 2011-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110215072751id_/http%3A//www.hitachigst.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+  <base href="http://www.hitachigst.com/privacy/">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="Hitachi, HDD, Hard Disk Drives, ">
+  <meta name="description" content="(c) 2004-2010 Hitachi Global Storage Technologies, Ltd.">
+  
+  <title>/</title>
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="http://www.hitachigst.com/plugins/system/yoo_effects/lightbox/shadowbox.css" type="text/css">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://www.hitachigst.com/modules/mod_superfishmenu/tmpl/js/jquery.js"></script>
+  <script type="text/javascript" src="http://www.hitachigst.com/modules/mod_superfishmenu/tmpl/js/jquery.event.hover.js"></script>
+  <script type="text/javascript" src="http://www.hitachigst.com/modules/mod_superfishmenu/tmpl/js/superfish.js"></script>
+  <script type="text/javascript">
+jQuery.noConflict();
+jQuery(function($){ $("ul.sf-menu").superfish({hoverClass:'sfHover', pathClass:'active', pathLevels:0, delay:700, animation:{opacity:'show', height:'show', width:'show'}, speed:'def', autoArrows:0, dropShadows:0}) });
+jQuery.event.special.hover.delay = 100;
+jQuery.event.special.hover.speed = 100;
+
+  </script>
+  <script type="text/javascript">var YOOeffects = { url: 'http://www.hitachigst.com/plugins/system/yoo_effects/lightbox/' };</script>
+<script type="text/javascript" src="http://www.hitachigst.com/plugins/system/yoo_effects/yoo_effects.js.php?lb=1&amp;re=1&amp;sl=1"></script>
+
+<link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
+<link rel="stylesheet" href="/css/main.css" type="text/css" media="screen,print">
+<script type="text/javascript" src="/js/main.js" charset="utf-8"></script> 
+<!--[if IE 6]>
+	<link rel="stylesheet" href="/css/ie6.css" type="text/css"/> 
+<![endif]-->
+<!--[if IE 7]>
+	<link rel="stylesheet" href="/css/ie7.css" type="text/css"/> 
+<![endif]-->
+<!--[if IE 8]>
+	<link rel="stylesheet" href="/css/ie8.css" type="text/css"/> 
+<![endif]-->
+<script type="text/javascript" src="/js/jquery.tablesorter.min.js" charset="utf-8"></script> 
+<script>
+jQuery(function($) 
+    { 
+		$.tablesorter.addParser({
+			id:'rpm',
+			is:function(s) {
+				return false;
+			},
+			format:function(s){
+				s = s.toLowerCase().replace(/ /g,"").replace(/rpm/ig,"");
+				var sArr = s.split(';');
+				for(var i=0;i<sArr.length;i++) {
+					sArr[i] = +sArr[i];
+				}
+				sArr.sort(function(a, b) {
+					return b - a;
+				});
+				return sArr[0];
+			},
+			type:'numeric'
+		});
+		$.tablesorter.addParser({
+			id:'capacity',
+			is:function(s) {
+				return false;
+			},
+			format:function(s) {
+				s = s.toLowerCase().replace(/ /g,"").replace(/gb/ig,"");
+				var sArr = s.split(';');
+				for(var i=0;i<sArr.length;i++) {
+					sArr[i] = +sArr[i];
+				}
+				sArr.sort(function(a, b) {
+					return b - a;
+				});
+				return $.tablesorter.formatFloat(sArr[0]);
+			},
+			type:'numeric'
+		});
+        $("#ProductListTable").tablesorter({
+			headers: {
+				0:{ sorter: false},
+				1:{sorter:'rpm'},
+				2:{sorter:'capacity'}
+			}
+		}); 
+    } 
+);
+</script>
+<script type="text/javascript">
+jQuery(function($)  {
+	// Use this example, or...
+	$('a[@rel*=lightbox]').lightBox(); // Select all links that contains lightbox in the attribute rel
+	// This, or...
+	//$('#gallery a').lightBox(); // Select all links in object with gallery ID
+	// This, or...
+	//$('a.lightbox').lightBox(); // Select all links with lightbox class
+	// This, or...
+	//$('a').lightBox(); // Select all links in the page
+	// ... The possibility are many. Use your creative or choose one in the examples above
+});
+</script>
+<!-- onHover for product details -->
+<script language="JavaScript" type="text/JavaScript"> 
+function showT(q){ 
+	var w = "";
+	document.getElementById('ima').setAttribute('src',w+q); 
+} 
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-224849-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></head>
+
+<!-- Google Analytics Code -->
+
+<!-- End Google Analytics Code -->
+
+<body>
+	<p class="Hide"><a href="#body" name="top" id="top">Skip to main content</a></p> 
+	<div id="Header" style="z-index:3000;">
+		<ul id="CountryRegion">
+<li><a href="http://www.hitachigst.com">Language</a></li>
+</ul>		
+		<!--           Search Area Begins              -->
+<div id="Search"><form action="/search" method="get"> <fieldset> <legend>search form</legend>
+<p><input id="SearchTextBox" style="padding-top: 4px;" maxlength="40" name="q" size="20" type="text" value="Search Hitachi GST" tabindex="10" accesskey="s"> <input name="SITE" type="hidden" value="default_collection"> <input name="client" type="hidden" value="public_en_v2"> <input name="proxystylesheet" type="hidden" value="public_en_v2"> <input name="output" type="hidden" value="xml_no_dtd"> <input title="search" alt="search" src="/images/search_button.gif" type="image"> <img src="/images/pb_google.gif" alt="Powered by Google" width="80" height="16"></p>
+</fieldset> </form></div>
+<!--           Search Area Ends              -->
+		<ul id="Region">
+<li class="RightSeparater"><a href="http://www.hitachi.us/">Hitachi.us</a></li>
+<li class="Contact"><a href="/company/contact/">Contact Us</a></li>
+</ul>	
+	</div><!--/HeaderArea--> 
+	<div id="addSiteIdentityS"><a style="float: left;" href="/index.php"> <img src="/images/hitachistaging_sm.png" border="0" alt="Hitachi Storage"> </a>
+<p class="Statement"><a href="http://www.hitachi.com/"><img src="/images/corp_id_small.gif" border="0" alt="Hitachi" width="111" height="59"></a></p>
+</div>
+<!--/addSiteIdentityS-->
+	<div id="GlobalNavC" class="ClearFix">
+		<div class="NavItems">
+			<ul class="menu sf-menu sf-horizontal" id="GlobalNavId"><li class="first-child item1"><a href="http://www.hitachigst.com/"><span>Hitachi Storage</span></a></li><li class="parent item2"><a href="/external-drives/"><span>External Drives</span></a><ul><li class="first-child item573"><a href="/external-drives/mobile/"><span>Mobile</span></a></li><li class="item71"><a href="/external-drives/desktop/"><span>Desktop</span></a></li><li class="last-child item69"><a href="http://g-technology.com/"><span>G-Technology</span></a></li></ul></li><li class="parent item3"><a href="/internal-drives/"><span>Internal Drives</span></a><ul><li class="first-child item99"><a href="/internal-drives/mobile/"><span>Mobile</span></a></li><li class="item100"><a href="/internal-drives/desktop/"><span>Desktop</span></a></li><li class="item101"><a href="/internal-drives/enterprise/"><span>Enterprise</span></a></li><li class="item102"><a href="/internal-drives/consumer-electronics/"><span>Consumer Electronics</span></a></li><li class="item103"><a href="/internal-drives/automotive-industrial/"><span>Automotive &amp; Industrial</span></a></li><li class="item633"><a href="/internal-drives/retail-kits/"><span>Retail Kits</span></a></li><li class="item622"><a href="/internal-drives/above-2tb/"><span>Above 2TB</span></a></li><li class="item616"><a href="/internal-drives/advanced-format-drives"><span>Advanced Format Drives</span></a></li><li class="item104"><a href="/internal-drives/self-encrypting-drives/"><span>Self-Encrypting Drives</span></a></li><li class="item121"><a href="/portal/site/en/compare-drives/"><span>Compare Drives</span></a></li><li class="item122"><a href="/portal/site/en/drive-search/"><span>Drive Quick Search</span></a></li><li class="last-child item105"><a href="/internal-drives/all-hard-drives/"><span>All Hard Drives</span></a></li></ul></li><li class="item4"><a href="/solid-state-drives/"><span>Solid State Drives</span></a></li><li class="parent item5"><a href="/software/"><span>Software</span></a><ul><li class="first-child item123"><a href="/software/effortless-data-protection"><span>Online Backup</span></a></li><li class="last-child item129"><a href="/software/lifestudio-software/"><span>LifeStudio Software</span></a></li></ul></li><li class="parent item6"><a href="/tech-support/"><span>Support</span></a><ul><li class="parent item164"><a href="/support/index-files/general-faqs-index"><span>FAQs</span></a></li><li class="item163"><a href="/tech/techlib.nsf"><span>Product Documentation</span></a></li><li class="item630"><a href="/hdd/support/product_reg.htm"><span>Product Registration</span></a></li><li class="item162"><a href="/support/downloads/"><span>Downloads</span></a></li><li class="item161"><a href="/portal/site/en/support/warranty/"><span>Warranty/RMA</span></a></li><li class="last-child item160"><a href="/support/contact-support/"><span>Contact Support</span></a></li></ul></li><li class="last-child item7"><a href="/portal/site/en/buy"><span>Where To Buy</span></a></li></ul>
+
+		</div>
+	</div><!-- /GlobalNavC -->
+	<div id="Contents"> 
+		<!-- ContentPadding div is optional. Provides uniform padding. -->
+		<div class="ContentPadding ClearFix">
+			<div class="LeftColumn">
+				
+					
+				
+			</div>
+			<div class="RightColumn">
+				
+				
+				
+
+
+<div class="blog">
+
+	
+	
+				<div class="article_row ">
+									<div class="article_column column1 cols1">
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1>Privacy Policy</h1>
+<p>Your privacy is important to Hitachi Global Storage Technologies affiliates and division, including G-Technology (G-Tech). This statement discloses the information practices for the websites hitachigst.com and g-technology.com, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. Other websites of Hitachi Global Storage Technologies are not covered by this Privacy Policy.</p>
+<h2>Your California Privacy Rights</h2>
+<p>California law permits our established consumer customers who are California residents to request information regarding disclosure of personal information to third parties for their own direct marketing purposes. If Hitachi Global Storage Technologies makes such disclosures we will allow you either to opt in to or out from such disclosures. For a cost-free means to exercise such right, see below section on How to Opt In or Opt Out to Direct Marketing.</p>
+<h2>What Personal Information We Collect</h2>
+<p>In general, you can visit Hitachi Global Storage Technologies on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you to perform a transaction in a variety of situations. As examples, you may choose to give us information, such as your name and address or email id, to correspond with you, to process an order, or to provide you with product information or warranty support; you may choose to give us your credit card details to buy something from us or our order fulfillment agent; or you may choose to give us a description of your education and work experience in connection with a job opening at Hitachi Global Storage Technologies that you wish to be considered for. If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so. We intend to let you know how your information will be used when it is collected from you.</p>
+<p>We may collect your first name, last name, email address, address, shipping address, phone and fax number, credit card information and billing address. We may also collect information about products you purchased when you register for warranty service or to obtain product support. We may also request demographic information and unique identifiers in order to provide you with a more personalized service.</p>
+<p>In order for you to purchase from our website, you must complete a registration form. We require your first name, last name, email address, address, shipping address, phone number, credit card information and billing address. We will ask also to use this information to process, fulfill and invoice your order.</p>
+<p>To fulfill your request we may share information with others; for instance, with other parts of Hitachi Global Storage Technologies, our order fulfillment reseller, business partners, financial institutions, shipping companies, and postal or government authorities (for example, Customs authorities) involved in fulfillment. In connection with a transaction we may also contact you as part of our customer satisfaction surveys or for market research purposes.</p>
+<h2>How to Opt In or Opt Out to Direct Marketing</h2>
+<p>The information you provide to Hitachi Global Storage Technologies on certain Hitachi Global Storage Technologies websites may be used by Hitachi Global Storage Technologies and selected third parties for direct marketing purposes to provide product and service requests, offers, and updates; newsletters; events; or promotional communications. Before we use it this way, however, we will offer you an opportunity to either opt in to or out from such use.</p>
+<p>There are a few ways to opt in to or opt out of the future transfer of your personal data. At the point of collection you may be informed of an opportunity to receive certain communications and given a choice to opt in or opt out by providing your personal data and checking or unchecking a box. You may opt in or opt out of email marketing as part of the registration process or at other points of collection on the website. If you later desire to opt out from promotional communications from us, uncheck the box in your registration that requested such e-mails, and follow the opt out instructions in the commercial email that you receive. After opting out of future promotional marketing, you will still receive other communications, such as in relation to a transaction or for support or warranty updates, if applicable.</p>
+<h2>What Information Can I Access?</h2>
+<p>You can access the personal information in your registration and correct, amend, or delete information that is inaccurate. You may delete your registration. Please note that some information may remain in our records after deletion of your account.</p>
+<h2>Automatic Information</h2>
+<p>We receive and store certain types of information automatically whenever you interact with us. We automatically receive and record certain "traffic data" on our server logs from your browser including your IP address, our cookie information, and the page you requested. We use this traffic data to help diagnose problems with the server, analyze trends and administer the websites. Generally, our websites automatically collect usage information, such as the numbers and frequency of visitors to our websites or usage data. Such data is only used in the aggregate. This type of collective data enables us and our partners to figure out how often customers use parts of the websites, so we can make the websites appealing to as many customers as possible. In addition, we may provide statistical information, not information about you personally, to our partners about how our customers, collectively, use our websites and services. We share this type of statistical data so that our partners also understand how often people use their areas, services and our websites, so that they, too, may provide you with an optimal web experience or services experience.</p>
+<h2>Cookies, Web Beacons and Other Technologies</h2>
+<p>We sometimes collect non-identifiable information from visits to our websites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on Hitachi Global Storage Technologies websites, but we do so in ways that keep the information non-identifiable. Hitachi Global Storage Technologies or others on Hitachi Global Storage Technologies' behalf may use this data to analyze trends and statistics and to help us provide better customer service. </p>
+<p>Also, when we collect personal data from you in a transaction, we may extract some information about that transaction in a non-identifiable format and combine it with other non-identifiable information. This information is used and analyzed to help us understand trends and patterns. If you do not want your transaction details used in this manner you can disable your cookies.</p>
+<p>We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Some Hitachi Global Storage Technologies pages use cookies, sent by Hitachi Global Storage Technologies or its third party vendors, or other technologies to better serve you when you return to the website. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some websites may not work properly. Some Hitachi Global Storage Technologies websites also use web beacon or other technologies to better tailor those sites to provide better customer service. These technologies may be in use on a number of pages across Hitachi Global Storage Technologies websites. When a visitor accesses these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers. These web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies. If you turn off cookies, web beacon and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded.</p>
+<h2>Information Security and Quality</h2>
+<p>We intend to protect your personal information and to maintain its quality. We implement appropriate measures and processes, such as using encryption when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality.</p>
+<h2>Disclosures By Law</h2>
+<p>Please be aware that in certain circumstances, personal information will be subject to disclosure pursuant to judicial or other government requests, subpoenas, warrants, or orders.</p>
+<h2>Notification of Changes</h2>
+<p>This privacy statement was last updated on January 15, 2010. A notice will be posted on our website home page for 30 days whenever this privacy statement is changed in a material way.</p>
+<h2>Privacy Questions and Access</h2>
+<p>If you have a question about this statement or our handling of your information, you can contact Hitachi Global Storage Technologies in the following manner: if your question relates to the hitachigst.com website, please email 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy44904 = 'pr&#105;v&#97;cy.&#105;nf&#111;' + '&#64;';
+ addy44904 = addy44904 + 'h&#105;t&#97;ch&#105;gst' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy44904 + suffix + '\'' + attribs + '>' );
+ document.write( addy44904 );
+ document.write( '<\/a>' );
+ //-->
+ </script><a href="mailto:privacy.info@hitachigst.com">privacy.info@hitachigst.com</a> <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span> ; or if it relates to the gtechnology.com website, please either email <a href="/&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'mailto:';&#10; var suffix = '';&#10; var attribs = '';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy77347 = 'privacy' + '@';&#10; addy77347 = addy77347 + 'g-technology' + '.' + 'com';&#10; document.write( '&lt;a ' + path + '\'' + prefix + addy77347 + suffix + '\'' + attribs + '&gt;' );&#10; document.write( addy77347 );&#10; document.write( '&lt;\/a&gt;' );&#10; //--&gt;&#10; &lt;/script&gt; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;span style=\'display: none;\'&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;This e-mail address is being protected from spambots. You need JavaScript enabled to view it&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;/' );&#10; document.write( 'span&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;">
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy32470 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy32470 = addy32470 + 'g-t&#101;chn&#111;l&#111;gy' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy32470 + suffix + '\'' + attribs + '>' );
+ document.write( addy32470 );
+ document.write( '<\/a>' );
+ //-->
+ </script></a><a href="mailto:privacy@g-technology.com">privacy@g-technology.com</a> <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span> or phone 310-449-4599. If you wish to obtain a copy of particular information you provided to Hitachi Global Storage Technologies, or if you become aware the information is incorrect and you would like us to correct it contact us at the address above. </p>
+<p>Before Hitachi Global Storage Technologies is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. We will endeavor to respond within an appropriate timeframe.</p>
+<h2>Hitachi Global Storage Technologies Human Resources Websites (Including Recruitment)</h2>
+<p>In connection with a job application or inquiry, whether advertised on an Hitachi Global Storage Technologies website or otherwise, you may provide us with information about yourself, such as a resume or curriculum vitae. We may use this information throughout Hitachi Global Storage Technologies and its related entities for the purpose of employment consideration or your inquiry. Except where you tell us not to, we will keep the information for future consideration.</p>
+<h2>Information for Business Partners</h2>
+<p>If you represent an Hitachi Global Storage Technologies Business Partner, you may visit an Hitachi Global Storage Technologies website intended specifically for Hitachi Global Storage Technologies Business Partners. We may use information provided on that site to administer and develop our business relationship with you, the Business Partner you represent, and Hitachi Global Storage Technologies Business Partners generally. For instance, this may involve using your information to send you details of Hitachi Global Storage Technologies Business Partner programs. It may also include sharing certain information with other Business Partners (subject to any confidentiality obligations that may exist), or Hitachi Global Storage Technologies customers or prospects. In connection with a particular transaction or program, we may also contact you as part of customer satisfaction surveys or for market research purposes.</p>
+<h2>Hitachi Global Storage Technologies Supplier Administration</h2>
+<p>If you represent a Hitachi Global Storage Technologies supplier, you may visit a Hitachi Global Storage Technologies website intended specifically for use by Hitachi Global Storage Technologies suppliers. We may use the information provided on that site in connection with entering into or performing a transaction with you. For example, this may include sharing information with other parts of Hitachi Global Storage Technologies, Hitachi Global Storage Technologies' Business Partners, customers, shipping companies, financial institutions, postal or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent and/or other Hitachi Global Storage Technologies suppliers generally. </p>
+<h2>Hitachi Global Storage Technologies Discussion Forums and Chat Rooms</h2>
+<p>If you participate in a Hitachi Global Storage Technologies discussion forum or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside Hitachi Global Storage Technologies, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. Each participant's opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of Hitachi Global Storage Technologies.</p>
+<h2>Other Hitachi Global Storage Technologies Website Notices</h2>
+<p>In some cases, specific Hitachi Global Storage Technologies websites may contain other notices about their use and the information practices applicable to those sites.</p>
+<h2>Our Worldwide Practices</h2>
+<p>Hitachi Global Storage Technologies is a global organization, with affiliated legal entities, business processes, management structures, and technical systems that cross borders.</p>
+<p>Our privacy practices are designed to provide protection for your personal information, all over the world. We may share your personal information among Hitachi Global Storage Technologies affiliates and transfer it to countries in the world where we do business. Some countries may provide less legal protection for your information. In such countries Hitachi Global Storage Technologies will still handle information in the manner we describe here.</p>
+<h2>Supplementing Information</h2>
+<p>From time to time we may supplement information you give us via a Hitachi Global Storage Technologies website with information from other sources, such as information validating your address or other available information about businesses. This is to help us maintain the accuracy of the information we collect and to help us provide a better service.</p>
+<h2>Use of Suppliers</h2>
+<p>In some cases Hitachi Global Storage Technologies uses suppliers to collect, use, analyze and otherwise process information on its behalf. Hitachi Global Storage Technologies will require suppliers to handle information in a manner consistent with Hitachi Global Storage Technologies' policies.</p> 
+<h2>Mergers and Acquisitions</h2>
+<p>Circumstances may arise where, whether for strategic or other business reasons, Hitachi Global Storage Technologies decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is Hitachi Global Storage Technologies’ practice to seek appropriate protection for information in these types of transactions.</p>
+<h2>Service Quality Monitoring</h2>
+<p>Certain web transactions may also involve you calling us or our calling you. Please be aware that it is Hitachi Global Storage Technologies general practice to monitor and in some cases record such calls for staff training or quality assurance purposes.</p>
+<h2>Online Advertising</h2>
+<p>Certain companies help us deliver interactive on-line advertising such as banner ads. These companies may collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers. After it is collected the information is aggregated so it is not identifiable to a specific individual. If, however, you would prefer that these companies not collect such information, please visit <a href="/www.networkadvertising.org" target="_blank">www.networkadvertising.org</a> and follow the "opt-out" instructions.</p>
+<h2>Personalized URL Link</h2>
+<p>On occasion, we may personalize and customize websites for certain visitors. If you visit one of these sites, you may find it customized with references to products and/or services that we believe may be of interest to you, based on your previous interactions with Hitachi Global Storage Technologies and information you have provided to us. While you are visiting these websites, we may collect information about your visit to better tailor the site to your interests. An invitation to visit one of these websites is usually presented as a personalized URL in an e-mail, a notice on a website registration page, or as a response to you logging on to a certain website. If you choose to visit one of these websites, you are agreeing to let Hitachi Global Storage Technologies collect information about your visits and also to its association with other information about you and your relationship with Hitachi Global Storage Technologies. If you do not wish your information to be used in this way, do not accept the invitation to visit these sites.</p>
+<h2>Links to Non-Hitachi Global Storage Technologies Websites</h2>
+<p>Hitachi Global Storage Technologies websites may contain links to other websites. Hitachi Global Storage Technologies is not responsible for the privacy practices or the content of those other websites.</p>
+<p>This website is maintained by Hitachi Global Storage Technologies or one of its affiliates or service providers around the world.</p>
+<p>Please use the Back button on your browser or close this window to return to the page where you were. </p>
+
+
+
+					</div>
+					
+								
+			</div>
+		
+	
+	
+</div>
+			
+				<!-- Default Template: Three Column Section -->
+										
+			</div>
+		</div>
+	</div><!--/ContentsArea--> 	
+	<div id="Footer"> 
+		<div id="AboveFooter" class="ClearFix">
+			<div class="social">
+				<a href="http://www.youtube.com/HitachiStorage"> <img class="FirstIcon" src="/images/stories/social_media_icons/img_youtube.gif" alt="img_youtube" width="30" height="30"></a> <a href="http://www.facebook.com/HitachiStorage"><img src="/images/stories/social_media_icons/img_facebook.gif" alt="img_facebook" width="30" height="30"></a> <a href="http://twitter.com/HitachiStorage"><img src="/images/stories/social_media_icons/img_twitter.gif" alt="img_twitter" width="30" height="30"></a>
+			</div>
+		</div>
+		<h2>Copyright and Liability Notice, etc.</h2> 
+			<ul class="menu"><li class="item77"><a href="/terms/"><span>Terms</span></a></li><li id="current" class="active item78"><a href="/privacy/"><span>Privacy Policy</span></a></li><li class="parent item79"><a href="/environment/"><span>Environment</span></a></li><li class="parent item80"><a href="/company/"><span>Company</span></a></li><li class="item587"><a href="/company/employment/"><span>Employment</span></a></li><li class="item81"><a href="https://www1.hitachigst.com/portal/site/partners"><span>Partner Center</span></a></li><li class="item83"><a href="/admin/home/login"><span>Login</span></a></li></ul>
+		<p>© Hitachi Global Storage Technologies. <script type="text/javascript">document.write(new Date().getFullYear())</script>2020.</p> 
+	</div><!--/FooterArea-->
+	
+<!-- Woopra Code Start -->
+<script type="text/javascript" src="//static.woopra.com/js/woopra.v2.js"></script>
+<script type="text/javascript">
+woopraTracker.setDomain("hitachigst.com");
+woopraTracker.track();
+</script>
+<!-- Woopra Code End -->
+
+	
+
+</body></html>
