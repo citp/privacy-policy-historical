@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsawaday.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113101847id_/http%3A//www.jigsawaday.com/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsawaday.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215143015id_/http%3A//www.jigsawaday.com/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,4 +22,4 @@ You can also Google 'cookie cleaners' and find many free programs there. Our fav
 
 We will also, from time to time, use other advertising sources such as **Commission Junction** or the **Share-A-Sale** network. You can Google these businesses for more information. 
 
-[Home Page](https://web.archive.org/web/20100113101847id_/http%3A//www.jigsawaday.com/index.php)
+[Home Page](https://web.archive.org/web/20110215143015id_/http%3A//www.jigsawaday.com/index.php)
