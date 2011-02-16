@@ -1,23 +1,20 @@
-<!--The following is the downloaded HTML source of the news-leader.com privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217075556id_/http%3A//www.news-leader.com/section/PRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the news-leader.com privacy policy that was archived on 2011-02-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110216090132id_/http%3A//www.news-leader.com/section/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-<!-- GO4F Version: 1011.1771 -->
-							<title>News-Leader.com | Springfield PRIVACY | Springfield News-Leader</title>
-<meta name="keywords" content="News-Leader.com,Springfield,MO,News,local news,headlines,stories,world news">
-<meta name="description" content="Springfield MO News - News-Leader.com is the home page of Springfield MO with in depth and updated Springfield local news. Stay informed with both Springfield MO news as well as headlines and stories from around the world.">
-<link rel="canonical" href="http://www.News-Leader.com/section/PRIVACY/PRIVACY">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:meebo="http://www.meebo.com" lang="en"><head>
+							<title>PRIVACY | Springfield News-Leader | News-Leader.com </title>
+<meta name="keywords" content="News-Leader.com,Springfield,Missouri,News,local news,headlines,stories,world news">
+<meta name="description" content="Springfield Missouri News - News-Leader.com is the home page of Springfield Missouri with in depth and updated Springfield local news. Stay informed with both Springfield Missouri news as well as headlines and stories from around the world.">
+<link rel="canonical" href="http://www.News-Leader.com/section/PRIVACY">
 <meta name="robots" content="noodp">
 <meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="0">
 <meta http-equiv="cache-control" content="no-cache">
-<link href="/includes/css/go4/go4-local.css" rel="stylesheet" type="text/css">
-<!-- temp to include more than just base local.css -->
-<link rel="stylesheet" href="/includes/css/go4/poll.css">
-<link href="/gci/gc/p6/GO4Styles-min.css" rel="stylesheet" type="text/css">
-<script src="/GEL/lib/core/core.js"></script>
+<link href="/includes/css/ody/ody-local.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/odygci/p5/ody-styles-min.css">
+<script src="/odygel/lib/core/core.js"></script>
 <script type="text/javascript"> 
 /*Subsite Redirect*/
 var _bodyTimer= new GEL.util.benchmark.Timer("Body Load").start(); 
@@ -40,17 +37,24 @@ GEL.thepage.pageinfo = {
 		domainname: "News-Leader.com",
 		domainroot: "News-Leader"
 	},
+	pic: {
+		ptpid: "281"		
+	},
+	date: { 
+		rollover:"03:28",
+		timeoffset: "-06"
+	},
 	ssts:{
 		adsiteid:"mo-springfield.ozarksnow.com",
 		section:"news",
-		subsection:"breaking",
+		subsection:"",
 		topic:"",
 		subtopic:"",
 		adpagetype:"front.htm"
 	},
 	market: { 
 		name: "Springfield News-Leader", 
-		state: "MO",
+		state: "Missouri",
 		city: "Springfield"
 	},
 	comscore: { 
@@ -61,17 +65,32 @@ GEL.thepage.pageinfo = {
 };
 GEL.thepage.pageinfo.siteinstance="";
 GEL.thepage.pageinfo.videooverlays="on";
+(function(){
+	var _i = GEL.thepage.pageinfo;
+	GEL.register("social.pluck.api", { 
+		path: "http://sitelife"+_i.siteinstance+"."+_i.url.domainname+"/ver1.0/direct/javascriptsdkproxy", 
+		depends:[],
+		requires:[],
+		type: 'script'}
+	);
+	GEL.register("social.pluck", { 
+		path: "social/pluck/pluck.js", 
+		depends: ['social.pluck.api'], 
+		requires:[],
+		type: 'script'}
+	);
+})();
 /*GO4 Faster Semantics*/
 	GEL.thepage.pageinfo.semantics={
-	response:{},
-	source:'DB',
+	response:{"Url":"http://www.News-Leader.com/section/PRIVACY","ContentLength":0,"FetchDuration":5100,"ContentType":"","Id":0,"PathIds":0,"LanguageId":"","Channels":[],"UnconStatus":9},
+	source:'CW',
 	enabled:true,
 	status:'',
-	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.News-Leader.com/section/PRIVACY/PRIVACY',
+	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.News-Leader.com/section/PRIVACY',
 	uniqueids:[],
 	uniqueidsdesc:[],
 	allids: [],
-	calltime:'0',
+	calltime:'5141',
 	cached:true
 };
 /* Banner configuration and Initialization */
@@ -87,10 +106,9 @@ for(var i=0, l= _ids.length,kw= _ids[i]; i < l ; kw= _ids[++i])
 	_a[_a.length]= "CW" + kw; 
 _c.KeyWords= _a.slice(); 
 _c.KeyValues= {cw: _ids.slice()}; 
-_c.AdPage='mo-springfield.ozarksnow.com/news/breaking/front.htm';
+_c.AdPage='mo-springfield.ozarksnow.com/news/front.htm';
 _c.AdServer= "gannett.gcion.com"; 
 _c.AdNetworkId= 5111.1;
-_c.PlacementId=parseInt(896043, 10)
 _c.gcion_section_front = "section"; 
 _c.gdn_section_front = "section"; 
 _c.PDurl = 'search.news-leader.com'; /*PDURL*/
@@ -142,7 +160,7 @@ var _c= GEL.config.userauth={
 		return _enable.toLowerCase() != 'no' ? true : false; 
 	})(), 
 	app_name: "springfi",
-	host: "",
+	host: "newspaper.app40.ur.gcion.com",
 	site_name: "News-Leader.com",
 	enable_ssl: window.location.protocol === 'https:' ? true : false, 
 	enable_reg_help: true, 
@@ -159,19 +177,23 @@ var _c= GEL.config.userauth={
 	photos_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaPhotos", 
 	version: "3.4",
 	coppaage: 13, 
-	pp_url: "/pp", 
-	tos_url: "/tos", 
-	faq_url: "/faq", 
+	pp_url:  "/pp",
+	tos_url:  "/tos", 
+	faq_url:  "/faq", 
 	confirm_dest: "/apps/pbcs.dll/frontpage", 
-	feedback_url: "/feedback",
+	feedback_url:  "/feedback",
 	email_logo: "/graphics/mastlogo_email.gif", 
 	enable_saxotech: true,
 	saxotech_site_code: "DO", 
 	site_url:"www.News-Leader.com",
-	default_avatar: "/graphics/avatar.gif"
+	default_avatar: "/odygci/p5/avatar.gif",
+	auto_refresh:false
 }, 
 _ur= GEL.config.userreg= {
 	zag_form_url: "/apps/pbcs.dll/section?Category=zagform", 
+	zagurl: "/section/zagmodal", 
+	zagwhyurl:"/section/zagwhy",
+	zagfaqurl:"/section/zagfaq",
 	days: 30,
 	page_views: 3, 
 	section_front: GEL.thepage.pageinfo.type,
@@ -201,17 +223,25 @@ for(var _g in _ur){
 PDSKIN= GEL.config.PDskin; 
 PDURL= GEL.config.PDurl; 
 GEL.thepage.initializer.addInitRoutine({ 
-	name: "userauth",
-	namespace: ["legacy.GDN", "util.Cookie"],
-	priority: 119, 
+	name: "userauthpreload",
+	namespace: ["legacy.GDNpreload","social.socialprovider"],
+	priority: 11, 
 	callback: function(){ 
-		GDN.Api.Register(function(){ 
-			GEL.env.user.onLogin(); 	
-		}, null, "Login"); 
-		GDN.Api.Register(function(){ 
-			GEL.env.user.onLogout(); 
-		}, null, "Logout");
 		GDN.UA.Page.Load();
+		var options ={}; 
+		GEL.util.uautil = new GEL.UserAuth(options);
+		GEL.util.uautil.init();
+		var spoptions={};
+		 spoptions.APIKey ='2_0IPAVo6B7arK0UbHyK_Cojswx2EoJydpVTGg8ywCFZCo_cmnfLYp24WTpkWk2a3b'; 
+		GEL.util.sputil = new GEL.Socialprovider(spoptions);		
+		GEL.util.sputil.loadscript();
+	}
+});
+GEL.thepage.initializer.addInitRoutine({ 
+	name: "userauthpostload",
+	namespace: ["legacy.GDNpostload"],
+	priority: 120, 
+	callback: function(){ 
 		/* 
 		The wonders of UA never cease. 
 		    Initializing these widgets will fail 
@@ -225,25 +255,53 @@ GEL.thepage.initializer.addInitRoutine({
 		    This 1 second timeout should give 
 		    UA enough time to complete 
 		*/
-		GEL.thepage.on("ready", function(){ 
+		GDN.Api.Register(function(){ 
+			GEL.env.user.onLogin(); 	
+		}, null, "Login"); 
+		GDN.Api.Register(function(){ 
+			GEL.env.user.onLogout(); 
+		}, null, "Logout");
+		GDN.Autologin();
+	GEL.thepage.on("ready", function(){ 
 			_timer= setTimeout(init, 1000);
 		}); 
 		function init(){ 
 			var _noneedzag=  (function(){ 
 				var _u = GEL.env.user;
-				return (_u.state || _u.yob || _u.zip) ? true : false;
+				return (_u.state || _u.yob || _u.zip || GEL.env.cookies.gcionid.values.status =="16") ? true : false;
 				})();
 			if(!_noneedzag) {
-				GDN.UR.Page.Load(); 
+			// turned off by localdata
 			}
-			GDN.UA.Page.PluckLogin();
+			/*GDN.UA.Page.PluckLogin();
 			GDN.UA.Page.PluckReg();
 			GDN.UA.Page.PluckLogout();
 			GDN.UA.Page.SaxotechLogin(); 
-			GDN.UA.Page.Newsletters(); 
+			GDN.UA.Page.Newsletters();*/
 		}
 	}
 }); 
+GEL.thepage.initializer.addInitRoutine({ 
+	name: "userauthlateload",
+	priority: 300, 
+	callback: function(){
+	if ( GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_REGISTER"  &&
+		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_SIGNIN"  &&
+		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERREGISTER" &&
+		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="GETPUBLISHED01" &&
+		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERSIGNIN") {
+			GEL.util.uautil.MakeRemoteCallsilently("signup","socialprovider","signup.html");
+			GEL.util.uautil.MakeRemoteCallsilently("userauthlogin","socialprovider","login.html");
+		/*	Adding another div for Newsletter sample page */
+		if(GEL.util.uautil.isnlettersubscribe()){
+			var el = document.createElement("div");
+			el.setAttribute('id', 'NLSampleModalcontainer');
+			var temp_elem = document.getElementById("UAModalcontainerwrapper");
+			temp_elem.appendChild(el);
+			}
+		}
+	}
+});
 })(); 
 /****O4 Faster Omniture******/
 (function(){
@@ -251,12 +309,23 @@ GEL.thepage.initializer.addInitRoutine({
 		_PI= GEL.thepage.pageinfo
 	;
 	GEL.namespace('config.omniture', 'config.bus.properties', 'config.bus.providers');
-	GEL.config.bus.providers.sitecat= 100; 
-	GEL.config.bus.providers.bt= 200;
+	GEL.config.bus.providers.sitecat= 20; 
+	GEL.config.bus.providers.bt= 10;
 /* If this is a frontpage (section Front or home) we add the checkmate provider:*/
 (function(){ 
+	var _CFG= GEL.namespace("config.checkmate"); 
+	_CFG.domain= "news-leader" || (function(){ 
+		var _a= window.location.host.split("."); 
+		return _a[_a.length - 2];
+	})(); 
+	_CFG.server= "q1.checkm8.com"; 
+	_CFG.scriptlib= "http://q1digital.checkm8.com/adam/cm8adam_1_call.js"; 
+	_CFG.profile= ""; 
+	GEL.config.bus.providers.checkm8= 200;
+})(); 
+(function(){ 
 	var _CFG= GEL.namespace("config.comscore"); 
-	_CFG.domain= "" || (function(){ 
+	_CFG.domain= "news-leader" || (function(){ 
 		var _a= window.location.host.split("."); 
 		return _a[_a.length - 2];
 	})(); 
@@ -272,7 +341,7 @@ GEL.thepage.initializer.addInitRoutine({
 /* This is the SiteCatalyst specific configuration  */
 	GEL.config.omniture= {
 		account: 'gpaper171,gntbcstglobal',
-		channel: '',
+		channel: 'news-leader',
 		currencyCode: "USD",
 		trackDownloadLinks: true,
 		trackExternalLinks: false,
@@ -350,7 +419,20 @@ GEL.thepage.initializer.addInitRoutine({
 				return _top[_type];
 		})(),
 		contenttype : 'section',
-		division: '',
+		division: (function(){
+			var 
+				_p = GEL.env.url.qsv
+			;
+			if(_p.src)
+				return _p.src;
+		})(),
+		formname: (function(){
+			var 
+				_p = GEL.env.url.qsv
+			;
+			if(_p.src)
+				return _p.src;
+		})(),
 		location: document.location,
 		uri: (function(){
 			var 
@@ -418,8 +500,11 @@ GEL.thepage.initializer.addInitRoutine({
 </script> 
 <!-- concatenating the ssts value together into one variable -->
 <!-- clean up -->
+<!-- test display
+<br><br>
+ssts= mo-springfield.ozarksnow.com/news/front.htm<br><br>-->
 <script> 
-var responseFromINI = "mo-springfield.ozarksnow.com/news/breaking/front.htm";
+var responseFromINI = "mo-springfield.ozarksnow.com/news/front.htm";
 var importFromINI = responseFromINI.split("|");
 var contentTopics = "";
 var contentType = "";
@@ -443,69 +528,393 @@ for(var i=0; i<importFromINI.length; i++)
 		break;
 	}
 }
-GEL.config.init.banners = true;
-GEL.config.heliosmulticall= false; 
 </script> 
 
-<script id="__gel_nsscript_util.Selector" src="https://web.archive.org/GEL/lib/selector/selector.js"></script>
-<script id="__gel_nsscript_widget.Menu" src="https://web.archive.org/GEL/lib/widgets/menu/menu.js"></script>
-<script id="__gel_nsscript_%2Fscripts%2FNavMenu_36.js" src="/scripts/NavMenu_36.js"></script>
-<script id="__gel_nsscript_remoting" src="https://web.archive.org/GEL/lib/remoting/remoting.js"></script>
-<script id="__gel_nsscript_util.Cookie" src="https://web.archive.org/GEL/lib/cookie/cookie.js"></script>
-<script id="__gel_nsscript_widget.AdBanner" src="https://web.archive.org/GEL/lib/widgets/banner/banner.js"></script>
+<script id="__gel_nsscript_widget" src="https://web.archive.org/odygel/lib/widgets/widget.js"></script>
+<script id="__gel_nsscript_util.Selector" src="https://web.archive.org/odygel/lib/selector/selector.js"></script>
+<script id="__gel_nsscript_util.Cookie" src="https://web.archive.org/odygel/lib/cookie/cookie.js"></script>
+<script id="__gel_nsscript_remoting" src="https://web.archive.org/odygel/lib/remoting/remoting.js"></script>
+<script id="__gel_nsscript_analytics" src="https://web.archive.org/odygel/lib/analytics/analytics.js"></script>
+<script id="__gel_nsscript_legacy.GDNpreload" src="https://web.archive.org/odygel/lib/legacy/GDN/GDNpreload.js"></script>
+<script id="__gel_nsscript_widget.TimeWidget" src="https://web.archive.org/odygel/lib/widgets/time/time.js"></script>
+<script id="__gel_nsscript_widget.GELTabs" src="https://web.archive.org/odygel/lib/widgets/tabs/geltabs.js"></script>
+<script id="__gelement_1" src="https://web.archive.org/web/20110724145041/http://js.revsci.net/gateway/gw.js?csid=J06575"></script>
+<script id="__gel_nsscript_anim.YUIAnimator" src="https://web.archive.org/odygel/lib/anim/yuianimator.js"></script>
+<script id="__gel_nsscript_widget.NavigationWidget" src="https://web.archive.org/odygel/lib/widgets/navigation/navController.js"></script>
+<script id="__gel_nsscript_widget.modal" src="https://web.archive.org/odygel/lib/widgets/modal/modal.js"></script>
+<script id="__gel_nsscript_widget.validate" src="https://web.archive.org/odygel/lib/userauth/validateform.js"></script>
+<script id="__gel_nsscript_social.userauth" src="https://web.archive.org/odygel/lib/userauth/userauth.js"></script>
+<script id="__gel_nsscript_social.socialprovider" src="https://web.archive.org/odygel/lib/3rdparty/gigya/gigya.js"></script>
+<script language="javascript" type="text/javascript" src="https://web.archive.org/odygel/lib/legacy/GDN/UAWidgets/LoggedOut.js"></script><script id="__gel_nsscript_widget.AdBanner" src="https://web.archive.org/odygel/lib/widgets/banner/banner.js"></script>
 </head>
+<body class="ody-skin"><script type="text/javascript" src="https://web.archive.org/web/20110724224212/http://ads.revsci.net/adserver/ako?activate&amp;csid=J06575"></script><script type="text/javascript" src="https://pix04.revsci.net/J06575/a4/0/0/pcx.js?csid=J06575"></script>
+	<script type="text/javascript">
+  window['checkCookie']=(function(){ 
+var _={};
+for(
+	var
+		c=document.cookie.split(/\s*;\s*/),
+		i=0,
+		l=c.length,
+		a=c[i].split("=")
+	;
+	a=i<l&&c[i].split("=")
+	;
+	i++
+)_[a[0]]= a[1]; 
+return function (cookieName){return _[cookieName];}
+})();
+GEL.config.Interstitial= { 
+  controlurl: "",
+  placementid: 1272947
+}; 
+(function(){ 
+GEL.register("dateutil", { path: "dateutil/dateutil.js", depends:[],requires:[]});
+if(checkCookie("pre_ad") == 'inter')
+	loadBannerLib(); 
+else
+	GEL.thepage.initializer.add({ 
+		name: "qinter", 
+		namespace: ["widget.AdBanner", "dateutil"], 
+		priority: 1000, 
+		callback: interMgr
+	}); 
+function loadBannerLib(){ 
+	var 
+		_IMPORTER= GEL.util.importer
+		,_lib= _IMPORTER.require("widget.AdBanner")
+		,_css= GEL.ement("LINK",{ 
+			href:"/odygci/interstitial/i.css",
+			rel:"stylesheet" 
+		})
+	;
+	_lib.addElement(_css);
+	_lib.addElement(_IMPORTER.require('dateutil')); 
+	_lib.setAttacher("inline"); 
+	_lib.attach(); 
+}
+function interMgr(){ 
+	var _IC= GEL.config.Interstitial || {}; 
+	_IC.id= _IC.id || "inter"; 
+	_IC.controlurl= _IC.controlurl || 
+		(new GEL.widget.AdBanner.Helios({ 
+			attachTo: document.body, 
+			keywords: [], 
+			keyvalues: {}, 
+			placementid: 1272948,
+			position: "Interstitial",
+			loadoninit: false 
+		})).getUrl(); 
+	GEL.thepage.bannerManager.add(_IC); 
+}
+})(); 
+</script>
+<div id="go4-interstitial" class="interstitial gel-hidden"> 
+<center class="go4-custom"> 
+ <div class="header-container"><div class="header-main"> <div class="header-wrap">
+  <div class="header-logo"><a href="#"></a></div> 
+  <a href="#" class="gel-hidden skip">Skip this ad&nbsp;»</a> 
+ </div></div></div> 
+ <div class="aggit">Advertisement</div> 
+ <div class="ad"> 
+  <script type="text/javascript">
+    (function(){ 
+ 	var _M= GEL.thepage.bannerManager,_O,_I; 
+	if(
+		checkCookie("pre_ad") != "inter" 
+		|| typeof _M != 'object' 
+		|| typeof _M.get != "function" 
+		|| !(_O= _M.get("inter")) 
+	)  return; 
+	_M.disable(_O);
+	_O.config.mainselector= "DIV.ody-custom"; 
+	_I= GEL.thepage.inter= 
+		new GEL.widget.AdBanner.Interstitial(_O.config); 
+	_I.show(); 
+})(); 
+  </script>
+ </div> 
+ <p class="redirect">
+  You will be redirected to the page you want to view in&nbsp;<span id="ad_countdown"></span>&nbsp;seconds.
+ </p> 
+</center> 
+</div> 
 
-<body class="go4-skin">
-	<div class="go4-custom">
+	<div class="ody-custom">
+		<div id="modalouter" class="modal-outer-inactive"></div>
 		<div class="main-container">
-			<!--LEADERBOARD-->
-			<div class="leaderboard-container-top">
-				<div class="leaderboard-top">
-					<div class="ad_728x90">
-<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/896043/0/-1/ADTECH;alias=mo-springfield.ozarksnow.com/news/breaking/front.htm_728x90_1;cookie=info;loc=100;target=_blank;grp=83961;misc=1582550381232;size=728x90;noperf=1;key=PRIVACY;kvcw=;kvtitle=PRIVACY"></script>
-</div>
-</div><banner position="728x90_1" id="__gelement_adbanner_0"></banner>
-</div>
-
-				</div>
-			</div>
-			
 			<!-- HEADER -->
-			<!--header-->
-<div class="header-container">	
-	<!-- partners -->
-	<div id="header-partners" class="header-partners">
-	<ul class="left">
-		<li>Other editions: </li>
-		<li><a href="/section/MOBILE">Mobile</a> |</li>
-		<li><a href="/rss">News Feeds</a> |</li>
-		<li><a href="/newsletters">E-Newsletters</a> |</li>
-		<li><a href="/textalerts">Text Alerts</a></li>
-	</ul>
-	<ul class="right">
-		<li>Find it: </li>
-		<li><a href="/jobs">Jobs</a> |</li>
-		<li><a href="/cars">Cars</a> |</li>
-		<li><a href="/realestate">Real Estate</a> |</li>
-		<li><a href="/apartments">Apartments</a> |</li>
-		<li><a href="/deals">Deals</a> |</li>
-		<li><a href="/classifieds">Classifieds</a> |</li>
-		<li><a href="/subscriptions">Subscribe</a></li>
-	</ul>
-	<div class="clear"></div>
+				<!-- @ody_adposnavbar:  -->
+<div class="header-container">
+	<div class="header-classified"> 
+		<div class="header-wrap">
+			<ul>
+				<li><strong>CLASSIFIEDS:</strong></li>
+<li><a href="http://www.news-leader.com/jobs">JOBS</a></li>
+<li><a href="http://www.news-leader.com/cars">CARS</a></li>
+<li><a href="http://www.news-leader.com/classifieds">CLASSIFIEDS</a></li>
+<li><a href="http://www.news-leader.com/realestate">REAL ESTATE</a></li>
+<li><a href="http://www.news-leader.com/apartments">APARTMENTS</a></li>
+<li><a href="http://www.news-leader.com/deals">DEALS</a></li>
+<li><a href="http://www.news-leader.com/dating">DATING</a></li>
+				<!-- @NAVADPROMO= off -->
+			</ul>
+		</div>
+	</div>
+	<div class="header-main">
+		<div class="header-wrap">
+			<div class="header-logo">
+				<a name="top" href="http://www.News-Leader.com/" title="News-Leader.com Home" alt="News-Leader.com Home"></a>
+			</div>		
+			<div id="Nav">
+				<ul class="nav-tabs" id="__gelement_2">
+					<li id="tab0" class="mega tab 0"><a href="/section/news" class="first">News</a></li><li id="tab1" class="mega tab 1"><a href="/section/sports">Sports</a></li><li id="tab2" class="mega tab 2"><a href="/section/life">Life</a></li><li id="tab3" class="mega tab 3"><a href="/section/opinions">Opinions</a></li><li id="tab4" class="mega tab 4"><a href="/section/entertainment">Entertainment</a></li><li id="tab5" class="mega tab 5"><a href="http://www.news-leader.com/obits">Obituaries</a></li><li id="tab6" class="mega tab 6"><a href="/section/blogs">Blogs</a></li><li id="tab7" class="mega tab 7"><a class="special" href="/section/help">Help</a></li>
+				</ul>
+				<div style="clear:both"></div>
+				<div class="content-wrap c" id="nav-wrap"><div id="subtab0" class="subtab gel-hidden newslead"><div class="dropdown-container mega">
+	<div id="navmenutab1-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul class="clear">
+				<li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news">Ozarks News</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/7daysarchives">Latest Headlines</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news12">Crime &amp; Courts</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news06">Politics &amp; Government</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news04">Education</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/business">Business</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news11">Around Missouri</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news07">Nation/World</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://data.news-leader.com">Data</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/galleriessectionfront">Photos</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="column2Mega">
+			<div class="latestHeadlines">LATEST HEADLINES</div>
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20110216/NEWS01/102160406/1007/?odyssey=nav|head"><img src="http://cmsimg.news-leader.com/apps/pbcsi.dll/bilde?Avis=DO&amp;Dato=20110216&amp;Kategori=NEWS01&amp;Lopenr=102160406&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=80" alt="Women hug before the funeral of Greg Greven at First Assembly of God in Bolivar on Tuesday. Greven died Feb. 10 when part of his wheelchair-accessible van caught fire. Valerie Mosley / News-Leader"></a>
+	</div>
+	<div class="headline">
+		<a href="/article/20110216/NEWS01/102160406/1007/?odyssey=nav|head">Disabilities advocate Greg Greven fondly memorialized at funeral in Bolivar</a>
+	</div>
+	<div class="summary">
+			Bolivar -- People who knew Greg Greven knew the photos shown during his funeral Tuesday weren't...<span class="timestamp">- 11:00 pm</span>
+	</div>
 </div>
-	<div class="gel-clear"></div>
-	<div class="headermast">
-		<table cellspacing="0" width="100%">
-		<tbody><tr>
-			<td>
-				<div class="masthead">
-					<a href="http://www.News-Leader.com"><img src="/graphics/mastlogo.gif" alt="News-Leader.com"></a>
-				</div>
-			</td>
-			<td>
-				<div class="pd-search">
-					<div class="searchbox-shift">
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110216/NEWS01/102160386/1007/?odyssey=nav|head">2011 Youth of the Year overcomes challenges, including tragedy and illness</a>
+	</div>
+	<div class="summary">
+		The 17-year-old scholarship winner goes to school every day.<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110216/NEWS12/102160415/1007/NEWS01/?odyssey=nav|head">Mom, 3-year-old reunite after four months apart</a>
+	</div>
+	<div class="summary">
+		The toddler reunited with his mother this weekend had been taken in the midst of a legal dispute.<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110216/NEWS04/102160412/1007/NEWS01/?odyssey=nav|head">School board questions shortened year of classes</a>
+	</div>
+	<div class="summary">
+		The Springfield school board embraced a streamlined 2011-12 calendar that would drop half-days and...<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab1" class="subtab gel-hidden newslead"><div class="dropdown-container mega">
+	<div id="navmenutab2-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul class="clear">
+				<li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/sports0401">MSU Bears</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="http://www.highschoolsports.net/local/Springfield">High School Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/sports02">Cardinals</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/sports05">TV/Radio listings</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="column2Mega">
+			<div class="latestHeadlines">LATEST HEADLINES</div>
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20110216/SPORTS040101/102160418/1007/NEWS01/?odyssey=nav|head"><img src="http://cmsimg.news-leader.com/apps/pbcsi.dll/bilde?Avis=DO&amp;Dato=20110216&amp;Kategori=SPORTS040101&amp;Lopenr=102160418&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=80" alt="Missouri State junior Caleb Patterson makes contact with Drake's Kraidon Woods as Patterson tosses up a shot Tuesday at JQH Arena. Nathan Papes / News-Leader"></a>
+	</div>
+	<div class="headline">
+		<a href="/article/20110216/SPORTS040101/102160418/1007/NEWS01/?odyssey=nav|head">MSU Bears' defense wins out to preserve spot atop MVC</a>
+	</div>
+	<div class="summary">
+			Missouri State's basketball team is concerned only with winning, not winning style points.<span class="timestamp">- 11:53 pm</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110216/SPORTS0102/102160421/1007/NEWS01/?odyssey=nav|head">Bundy steps up for Nixa win over rival Ozark</a>
+	</div>
+	<div class="summary">
+		Nixa --With as many weapons as the Nixa High School boys' basketball team has in its offensive...<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab2" class="subtab gel-hidden newslead"><div class="dropdown-container mega">
+	<div id="navmenutab3-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul class="clear">
+				<li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/life05">Spaces</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/life02">Food</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/life06">Outdoors</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/life04">Health</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/life07">Religion</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://www.news-leader.com/calendar">Events Calendar</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/Announcements">Announcements</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/Comics">Comics</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://www.news-leader.com/genealogy">Genealogy</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://ozarks.momslikeme.com">MomsLikeMe</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="column2Mega">
+			<div class="latestHeadlines">LATEST STORIES</div>
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20110216/LIFE02/102160367/1007/NEWS01/?odyssey=nav|head"><img src="http://cmsimg.news-leader.com/apps/pbcsi.dll/bilde?Avis=DO&amp;Dato=20110216&amp;Kategori=LIFE02&amp;Lopenr=102160367&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=80" alt="A White House-worthy salad features the black walnut, Missouri's official nut. The dish is simple and easy to make. Wannenmacher Advertising Company"></a>
+	</div>
+	<div class="headline">
+		<a href="/article/20110216/LIFE02/102160367/1007/NEWS01/?odyssey=nav|head">Black walnuts in a salad fit for a president</a>
+	</div>
+	<div class="summary">
+			This is pretty cool.<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110215/LIFE/102150306/1007/NEWS01/?odyssey=nav|head">What's so funny? Ralphie May, Gabriel Iglesias coming to the Gillioz</a>
+	</div>
+	<div class="summary">
+		For the next two weekends, the Gillioz Theatre stage will offer up something to laugh about.<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110214/LIFE04/102140305/1007/NEWS01/?odyssey=nav|head">A lesson from the heart</a>
+	</div>
+	<div class="summary">
+		The rhythm was right at the Saturday night gathering as author Debra Lee Tucker, smiling and...<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab3" class="subtab gel-hidden newslead"><div class="dropdown-container mega">
+	<div id="navmenutab4-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul class="clear">
+				<li class="link 3"><span class="arrow">&nbsp;</span><a href="/section/opinions01">Our Voice</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="/section/opinions02">Local voices</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="/section/opinions03">Readers' Letters</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="/section/columnists">Columnists</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="column2Mega">
+			<div class="latestHeadlines">LATEST OPINIONS</div>
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20110216/OPINIONS01/102160370/1007/NEWS01/?odyssey=nav|head"><img src="http://cmsimg.news-leader.com/apps/pbcsi.dll/bilde?Avis=DO&amp;Dato=20110216&amp;Kategori=OPINIONS01&amp;Lopenr=102160370&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=80" alt="Koster "></a>
+	</div>
+	<div class="headline">
+		<a href="/article/20110216/OPINIONS01/102160370/1007/NEWS01/?odyssey=nav|head">Proposals would help Greene County deal with domestic violence</a>
+	</div>
+	<div class="summary">
+			Few doubt the good intentions of law enforcement and judges when it comes to handling domestic...<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110216/OPINIONS02/102160379/1007/NEWS01/?odyssey=nav|head">Chin: Two city squares, two battles for freedom √ë different results</a>
+	</div>
+	<div class="summary">
+		Hosni Mubarak finally bowed to the will of the people last Friday and ended his 29-year rule in...<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110216/OPINIONS04/102160371/1007/NEWS01/?odyssey=nav|head">Kaul: Ike‚Äôs words prophetic, full of conservative principles</a>
+	</div>
+	<div class="summary">
+		There's been a good deal happening lately needing immediate attention, but it's not too late to...<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab4" class="subtab gel-hidden newslead"><div class="dropdown-container mega">
+	<div id="navmenutab5-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul class="clear">
+				<li class="link 4"><span class="arrow">&nbsp;</span><a href="http://ozarks.metromix.com">Metromix</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://www.news-leader.com/calendar">Events Calendar</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/entertainment07">Movies</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/entertainment09">People &amp; Celebrities</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/pets">Pet photos</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://www.news-leader.com/section/Comics">Comics</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/Games">Games</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=metozarks">TV listings</a></li>
+				</ul>
+			</div>
+		</div>
+		<div class="column2Mega">
+			<div class="latestHeadlines">LATEST STORIES</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110216/ENTERTAINMENT04/102160366/1007/NEWS01/?odyssey=nav|head">DAILY PLANNER</a>
+	</div>
+	<div class="summary">
+			Tracy Kidder, Pulitzer Prize-winning author, will speak at 7 p.m. Feb.<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110216/ENTERTAINMENT04/102160368/1007/NEWS01/?odyssey=nav|head">UPCOMING CONCERTS</a>
+	</div>
+	<div class="summary">
+		Gillioz Theatre, 325 Park Central East, 863-9491; www.gillioz.<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+<div class="section ">
+	<div class="headline">
+		<a href="/article/20110216/ENTERTAINMENT10/102160359/1007/NEWS01/?odyssey=nav|head">Disney Junior tries new tack with young viewers</a>
+	</div>
+	<div class="summary">
+		Los Angeles -- The Playhouse Disney preschool programming block is being remade this week as Disney...<span class="timestamp">- 11:00 pm</span>
+	</div>
+</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab5" class="subtab gel-hidden newslead"><div class="dropdown-container">
+	<div id="navmenutab6-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul>
+				<li class="link 5"><span class="arrow">&nbsp;</span><a href="https://ssl1.gmti.com/springfield/secure/ccsubscribers/obit_order.html">Submit an obituary</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="http://www.news-leader.com/deathnotices">Latest Death Notices</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab6" class="subtab gel-hidden newslead"><div class="dropdown-container">
+	<div id="navmenutab7-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul>
+				<li class="link 6"><span class="arrow">&nbsp;</span><a href="http://blogs.news-leader.com/mopolitics/">Inside Missouri Politics</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://blogs.news-leader.com/msu/">MSU Bears</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://blogs.news-leader.com/hssports/">High School Sports</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://blogs.news-leader.com/courtwatch/">Court Watch</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://blogs.news-leader.com/cardinals/">Cardinals Corner</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://blogs.news-leader.com/schools/">Schools</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://blogs.news-leader.com/highered/">Higher Education</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://blogs.news-leader.com/letterfromtheeditor/">Letter from the Editor</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div><div id="subtab7" class="subtab gel-hidden newslead"><div class="dropdown-container">
+	<div id="navmenutab8-dd" class="normal">
+		<div class="column1">
+			<div class="sectionTop">
+				<ul>
+				<li class="link 7"><span class="arrow">&nbsp;</span><a href="http://www.news-leader.com/section/service">Contact Us</a></li><li class="link 7"><span class="arrow">&nbsp;</span><a href="https://ssl1.gmti.com/springfield/secure/icon/subscriber.html">Customer Service</a></li><li class="link 7"><span class="arrow">&nbsp;</span><a href="/section/FAQ">FAQ</a></li><li class="link 7"><span class="arrow">&nbsp;</span><a href="http://www.news-leader.com/archives">Archives</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</div> 
+			</div>
+		</div>	
+	</div>
+	<div class="header-featured">
+		<div class="header-wrap">
+			<ul id="login-container" class="login-container"><li class="signup">      <a href="javascript:GEL.util.uautil.UASignup();">Sign up</a></li><li class="first">      <a href="javascript:GEL.util.uautil.LoginProvider();">Log in</a> </li>      <span id="CustomLinks" style="display:none;visibility:hidden"></span></ul>
+			<ul>
+				<li><strong>FEATURED:</strong></li><li><a href="http://ozarks.metromix.com">Metromix</a></li><li><a href="http://ozarks.momslikeme.com">MomsLikeMe</a></li>
+			</ul>
+			<div class="pd-search">
+				<div class="searchbox-shift">
 <script>
 var search_default = "Find what you are looking for ...";
 var timer = null;
@@ -567,83 +976,80 @@ function safeParam( key, def) {
 </form>
 <script type="text/javascript">document.getElementById("searchbox").value = safeParam('keywords',search_default);</script>
 </div>
-				</div>
-			</td>
-			<td>
-				<div class="search-sponsor">
-					<h5>Sponsored By:</h5>
-					<div class="ad_88x31">
-<div id="adcontainer___gelement_adbanner_1"></div><banner position="88x31_1" id="__gelement_adbanner_1"></banner>
-</div>
-				</div>
-			</td>
-		</tr>
-		</tbody></table>
-		<div id="navigation-container" class="navigation-container">
-	<div id="NavigationMenuLevel1Div" class="navigation-menu-level1" style="display:block"><span class="level1-collapse" id="node2904"><a href="http://www.news-leader.com/apps/pbcs.dll/frontpage">HOME</a></span><span class="level1-expand" id="node2905"><a href="http://www.news-leader.com/section/NEWS01">NEWS</a></span><span class="level1-expand" id="node2906"><a href="http://www.news-leader.com/section/SPORTS">SPORTS</a></span><span class="level1-expand" id="node2907"><a href="http://www.news-leader.com/section/ENTERTAINMENT">ENTERTAINMENT</a></span><span class="level1-expand" id="node2908"><a href="http://www.news-leader.com/section/OPINIONS">OPINIONS</a></span><span class="level1-expand" id="node5795"><a href="http://www.news-leader.com/section/LIFE">LIFE</a></span><span class="level1-expand" id="node2909"><a href="http://www.news-leader.com/section/COMMUNITIES">COMMUNITIES</a></span><span class="level1-expand" id="node2910"><a href="http://www.news-leader.com/obits">OBITUARIES</a></span><span class="level1-expand" id="node2911"><a href="http://www.news-leader.com/weather">WEATHER</a></span><span class="level1-expand" id="node2912"><a href="http://www.news-leader.com/classifieds">CLASSIFIEDS</a></span><span class="level1-expand" id="node2913"><a href="http://www.news-leader.com/section/SERVICE">CUSTOMER SERVICE</a></span></div><div id="NavigationMenuLevel2Div" class="navigation-menu-level2" style="display:block"><span class="level2-expand" id="node4742"><a href="http://www.news-leader.com/section/ANNOUNCEMENTS">Announcements</a></span><span class="level2-expand" id="node4743"><a href="http://www.news-leader.com/archives">Archives</a></span><span class="level2-expand" id="node5405"><a href="http://www.news-leader.com/blackoak">Contests</a></span><span class="level2-expand" id="node4745"><a href="http://www.news-leader.com/data-leader">Data-Leader</a></span><span class="level2-expand" id="node4747"><a href="http://www.news-leader.com/section/GALLERIES">Photo Galleries</a></span><span class="level2-expand" id="node7310"><a href="http://www.news-leader.com/section/videonetwork">Video</a></span><span class="level2-expand" id="node11523"><a href="http://www.news-leader.com/section/BLOGS">Blogs</a></span><span class="level2-expand" id="node4748"><a href="http://ozarks.metromix.com/">Metromix</a></span><span class="level2-expand" id="node4749"><a href="http://ozarks.momslikeme.com/">Moms Like Me</a></span><span class="level2-expand" id="node4750"><a href="http://www.news-leader.com/section/LIFE05">OzarksSpaces</a></span><span class="level2-expand" id="node11525"><a href="http://www.news-leader.com/section/LIFE06">Outdoors</a></span></div><div id="NavigationMenuLevel3Div" class="navigation-menu-level3" style="display:none"></div>
-</div>
-<script type="text/javascript">
-(function(){ 
-GEL.thepage.initializer.addInitRoutine({ 
-	name: "menu", 
-	priority: 11, 
-	callback: initMenu, 
-	namespace: ["widget.Menu", "/scripts/NavMenu_36.js"]
-}); 
-function initMenu(){ 
-	GEL.thepage.mainnav= new GEL.widget.MenuState({ 
-		level1:"NavigationMenuLevel1Div",
-					level2:"NavigationMenuLevel2Div",
-					level3:"NavigationMenuLevel3Div"
-			},
-			MenuArray, GEL.widget.MenuState.renderMainItem
-	); 
-}
-})(); 
-</script>
+			</div>
+		</div>
 	</div>
 </div>
-<!-- end #header-container -->
 
-					
-			<div class="content-container">
+<script type="text/javascript"> 
+(function(){ 
+	var _id;
+	if((id=GEL.env.url.qsv.nav)){
+		var a= "mega,tab,on".split(","),n= GEL.ement("tab"+id); 
+		a.push(_id); 
+		for(var i=0,l=a.length;i < l; i++)
+			n.addClassName(a[i]); 
+	}
+	GEL.register("widget.NavigationWidget", {
+		type: "script", 
+		depends: ["widget","widget.GELTabs"],
+		requires: ["util.Selector","remoting"],
+		path: "widgets/navigation/navController.js"
+	});
+	GEL.thepage.initializer.addInitRoutine({ 
+		name: "Nav", 
+		namespace: "widget.NavigationWidget",
+		callback: _, 
+		priority: 15
+	}); 
+	function _(){ 
+		var 
+	  	     A= GEL.ement("nav-wrap")
+		    ,C= GEL.thepage
+		;
+		if(!A.isready) return;
+		var 
+			a= C.navigationControl= 
+			new GEL.widget.navigation("Nav")
+		   ,b= GEL.ement("Nav")
+		   ,c= b.get(".nav-tabs")[0] || null
+		   ,d= GEL.ement(c)
+		   ,e= b.isready ? b.offset().left : 0
+		   ,f= d.isready ? d.offset().left : 0
+		; 
+		a.init(); 
+		A.css({paddingLeft: parseInt(f - e) + "px"});
+	}
+})();
+</script> 
+
 			
-				<!-- LOGIN BOX and BRANDING -->
-				<div class="branding-container">
-<table width="940">
-	<tbody><tr>
-		<td>
-			<!--registration login-->
-			<div class="login-container" id="login-container"></div>
-		</td>
-		<td class="brandingcontentwrapper">
-			<div class="brandingcontent">
-				<img src="/graphics/branding&#10;.gif" alt="Springfield News-Leader">
-			</div>
-		</td>
-	</tr>
-</tbody></table>
+			<!-- LAUNCHPAD SF -->
+			<div class="ody-wrapper">
+			<div class="leaderboard-container-top">
+				<div>
+	<div class="ad_launchpad_SF">
+	<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_3" class=" gel-hidden"><script id="__gelement_4" src="https://gannett.gcion.com/addyn/3.0/5111.1/133600/0/-1/ADTECH;alias=mo-springfield.ozarksnow.com/news/front.htm_launchpad_SF;cookie=info;loc=100;target=_blank;grp=36990;misc=1582523081262;size=728x90;noperf=1;key=PRIVACY;kvcw=;kvtitle=PRIVACY"></script>
 </div>
-<div id="IE6Error">
-  <ul>
-    <li>Your browser’s security settings are preventing some features from appearing. <a href="/section/IE6SecuritySettings">See instructions for fixing the problem.</a></li>
-  </ul>
+</div><banner position="launchpad_SF" id="__gelement_adbanner_0"></banner>
+		<div class="advertisement">ADVERTISEMENT</div>
+	</div>
 </div>
 
-				
-				<table width="940" cellspacing="0" class="horizontalrule"> 
-				<tbody><tr>
-					<td width="940">
-						<div class="padding">
-							<div class="glegal">
-								<h1>Privacy Policy</h1>
-<p>Last Updated: September 22, 2010</p>
-<p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Policy.</p>
-<p>This Privacy Policy discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
-<p>Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our <a href="http://www.News-Leader.com/section/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the revised Privacy Policy on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.</p>
+			</div>
+			</div>
+			<div class="ody-wrapper">
+			<div class="content-container">
+				<div class="container">
+								<div class="glegal">
+				<h1>Privacy Notice</h1>
+<p>Last Updated: December 30, 2010</p>
+<p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Notice.</p>
+<p>This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
+<p>Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our <a href="http://www.News-Leader.com/section/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.</p>
 <h3>Your California Privacy Rights</h3>
 <p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:</p>
-<p>Kim Jaske<br>
+<p>Mark Faris<br>
   Online Privacy Coordinator<br>
   <a href="http://www.News-Leader.com">
   www.News-Leader.com</a><br>
@@ -651,24 +1057,24 @@ function initMenu(){
   7950 Jones Branch Drive<br>
   McLean, VA 22107</p>
 <h3>How We Collect and Use Information</h3>
-<p>We may collect and store information, including personally-identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
-<p>We also collect and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
-<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable cookies.  To disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+<p>We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+<p>We also collect, through a variety of technologies and practices, and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
+<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting.  For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.</p>
 <p>We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site.</p>
 <p>In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.</p>
 <p>We also may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.</p>
-<p>If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the <a href="#OnlinePrivacyCoordinator">Online Privacy Coordinator</a> whose contact information is listed at the end of this Privacy Policy.</p>
+<p>If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the <a href="#OnlinePrivacyCoordinator">Online Privacy Coordinator</a> whose contact information is listed at the end of this Privacy Notice.</p>
 <p>For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting."</p>
-<p>Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.</p>
-<p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.</p>
+<p>Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.</p>
+<p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner's use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.</p>
 <p>Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our <a href="http://www.News-Leader.com/section/terms">Terms of Service</a>; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.</p>
 <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.</p>
 <h3>Data Collected in Connection with Ad Serving and Targeting</h3>
 <p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
 <p>We also may use third-party service providers, including Yahoo!, to target and serve some of the advertisements you see on the pages of our Site.  We may share non-personally identifiable information, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site.  These providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. In addition, Yahoo!, which is one of our third-party advertising service providers, may use information regarding its own users to select which ads to display on this Site. The non-personally identifiable information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.</p>
 <p>The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.</p>
-<p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s privacy policy and is not covered by our privacy policy.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.News-Leader.com/section/adnetwork">click here</a>.</p>
+<p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s Privacy Notice and is not covered by our Privacy Notice.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.News-Leader.com/section/adnetwork">click here</a>.</p>
 <h3>Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas</h3>
 <p>Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
 <h3>Children's Privacy Statement</h3>
@@ -684,77 +1090,126 @@ function initMenu(){
 <h3>Storage of Information</h3>
 <p>All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access.  However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable.  We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.</p>
 <h3>Questions Regarding Privacy</h3>
-<p>If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact:</p>
-<p id="OnlinePrivacyCoordinator">Kim Jaske<br>
+<p>If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:</p>
+<p id="OnlinePrivacyCoordinator">Mark Faris<br>
   Online Privacy Coordinator<br>
   <a href="http://www.News-Leader.com">
   www.News-Leader.com</a><br>
   Gannett Law Department<br>
   7950 Jones Branch Drive<br>
   McLean, VA 22107</p>
+			</div>
 
-							</div>
-						</div>
-					</td>
-				</tr>
-				</tbody></table>
-			</div>		
-		
+				</div>				
+			</div>
+			</div>
 			<div class="footer-container">
-						<div class="leaderboard-container">
-		<div class="leaderboard">
-			<table cellspacing="0" cellpadding="0" border="0" width="100%" class="labeledBanner">
-			<tbody><tr>
-			<td width="1%"><span class="adlabel-vert"></span></td>
-			<td width="99%"><div class="ad_728x90">
-<div id="adcontainer___gelement_adbanner_2"></div><banner position="728x90_2" id="__gelement_adbanner_2"></banner>
+	<!-- ody custom content macro -->
+	<div class="ody-wrapper">
+	<div class="leaderboard-container">
+		<div>
+	<div class="ad_728x90">
+	<div id="adcontainer___gelement_adbanner_1"></div><banner position="728x90_2" id="__gelement_adbanner_1"></banner>
+		<div class="advertisement">ADVERTISEMENT</div>
+	</div>
 </div>
-</td>
-			</tr>
-			</tbody></table>
+	</div>
+	</div>
+	<div class="footer-content">
+		<div class="footer-top">
+	<div class="footer-wrap">
+		<div class="footer-logo">
+			<a href="http://www.News-Leader.com/"></a>
+		</div>
+		<div class="right"><a href="http://www.News-Leader.com/section/sitemaphtml">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="#top">Back to Top</a><span class="backtotop">&nbsp;</span></div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="footer-main">
+	<div class="footer-wrap">
+		<div class="left">
+			<ul><li><h4><a href="/section/news">NEWS</a></h4></li><li><a href="/section/news">Ozarks News</a></li><li><a href="/section/7daysarchives">Latest Headlines</a></li><li><a href="/section/news12">Crime &amp; Courts</a></li><li><a href="/section/news06">Politics &amp; Government</a></li><li><a href="/section/news04">Education</a></li><li><a href="/section/business">Business</a></li><li><a href="/section/news11">Around Missouri</a></li><li><a href="/section/news07">Nation/World</a></li><li><a href="http://data.news-leader.com">Data</a></li><li><a href="/section/galleriessectionfront">Photos</a></li><li><h4><a href="/section/entertainment">ENTERTAINMENT</a></h4></li><li><a href="http://ozarks.metromix.com">Metromix</a></li><li><a href="http://www.news-leader.com/calendar">Events Calendar</a></li><li><a href="/section/entertainment07">Movies</a></li><li><a href="/section/entertainment09">People &amp; Celebrities</a></li><li><a href="/pets">Pet photos</a></li><li><a href="http://www.news-leader.com/section/Comics">Comics</a></li><li><a href="/section/Games">Games</a></li><li><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=metozarks">TV listings</a></li></ul><ul><li><h4><a href="/section/sports">SPORTS</a></h4></li><li><a href="/section/sports0401">MSU Bears</a></li><li><a href="http://www.highschoolsports.net/local/Springfield">High School Sports</a></li><li><a href="/section/sports02">Cardinals</a></li><li><a href="/section/sports05">TV/Radio listings</a></li><li><h4><a href="/section/blogs">BLOGS</a></h4></li><li><a href="http://blogs.news-leader.com/mopolitics/">Inside Missouri Politics</a></li><li><a href="http://blogs.news-leader.com/msu/">MSU Bears</a></li><li><a href="http://blogs.news-leader.com/hssports/">High School Sports</a></li><li><a href="http://blogs.news-leader.com/courtwatch/">Court Watch</a></li><li><a href="http://blogs.news-leader.com/cardinals/">Cardinals Corner</a></li><li><a href="http://blogs.news-leader.com/schools/">Schools</a></li><li><a href="http://blogs.news-leader.com/highered/">Higher Education</a></li><li><a href="http://blogs.news-leader.com/letterfromtheeditor/">Letter from the Editor</a></li></ul><ul><li><h4><a href="/section/life">LIFE</a></h4></li><li><a href="/section/life05">Spaces</a></li><li><a href="/section/life02">Food</a></li><li><a href="/section/life06">Outdoors</a></li><li><a href="/section/life04">Health</a></li><li><a href="/section/life07">Religion</a></li><li><a href="http://www.news-leader.com/calendar">Events Calendar</a></li><li><a href="/section/Announcements">Announcements</a></li><li><a href="/section/Comics">Comics</a></li><li><a href="http://www.news-leader.com/genealogy">Genealogy</a></li><li><a href="http://ozarks.momslikeme.com">MomsLikeMe</a></li><li><h4><a href="http://www.news-leader.com/obits">OBITUARIES</a></h4></li><li><a href="https://ssl1.gmti.com/springfield/secure/ccsubscribers/obit_order.html">Submit an obituary</a></li><li><a href="http://www.news-leader.com/deathnotices">Latest Death Notices</a></li></ul><ul><li><h4><a href="/section/opinions">OPINIONS</a></h4></li><li><a href="/section/opinions01">Our Voice</a></li><li><a href="/section/opinions02">Local voices</a></li><li><a href="/section/opinions03">Readers' Letters</a></li><li><a href="/section/columnists">Columnists</a></li></ul>
+		</div>
+		<div class="right">
+			<ul>
+				<li><h4><a href="/section/help">HELP</a></h4></li><li><a href="http://www.news-leader.com/section/service">Contact Us</a></li><li><a href="https://ssl1.gmti.com/springfield/secure/icon/subscriber.html">Customer Service</a></li><li><a href="/section/FAQ">FAQ</a></li><li><a href="http://www.news-leader.com/archives">Archives</a></li>
+			</ul>
+			<ul class="right_row">
+	<li><h4>FOLLOW US</h4></li>
+	<li class="icn_follow_twitter"><a href="http://www.News-Leader.com/twitter">Twitter</a></li>
+	<li class="icn_follow_facebook"><a href="http://www.News-Leader.com/facebook">Facebook</a></li>
+	<li class="icn_follow_mobile"><a href="http://www.News-Leader.com/mobile">Mobile</a></li>
+	<li class="icn_follow_rss"><a href="http://www.News-Leader.com/rss">RSS</a></li>
+	<li class="icn_follow_email"><a href="http://www.News-Leader.com/section/nlettersubscribe">E-mail Alerts</a></li>
+	<li class="icn_follow_text"><a href="http://www.News-Leader.com/sms">Text Alerts</a></li>
+</ul>
 		</div>
 	</div>
-<div id="partner-logos" class="partner-logos">
-	<a href="http://www.gannett.com"><span class="gannett"></span></a>
-	<a href="http://www.usatoday.com"><span class="usatoday"></span></a>
-	<a href="/apartments"><span class="apartments"></span></a>
-	<a href="/cars"><span class="cars"></span></a>
-	<a href="/jobs"><span class="jobs"></span></a>
-	<a href="http://www.homefinder.com"><span class="homes"></span></a>
-	<a href="http://www.homegain.com"><span class="homegain"></span></a>
-	<a href="/shopping"><span class="shopping"></span></a>
-	<a href="http://www.usaweekend.com"><span class="usaweekend"></span></a>
+	<div class="clear"></div>
 </div>
-<div id="partner-links" class="partner-links">
-	<ul>
-		<li>Partners: </li>
-		<li><a href="http://www.careerbuilder.com">Jobs: CareerBuilder.com</a></li>
-		<li><a href="http://www.cars.com">Cars: Cars.com</a></li>
-		<li><a href="http://www.apartments.com">Apartments: Apartments.com</a></li>
-		<li><a href="http://www.shoplocal.com">Shopping: ShopLocal.com</a></li>
-		<li><a href="http://www.homefinder.com">Homes:</a> <a href="http://www.homefinder.com">Homefinder.com</a></li>
-	</ul>
+<div class="clear"></div>
+		<div class="partners_text">
+	<div class="container">
+		<ul>
+			<li><a target="_blank" href="http://www.usatoday.com">News</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.careerbuilder.com">Jobs</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.cars.com">Cars for Sale</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.homefinder.com">Homes for Sale</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.apartments.com">Apartments for Rent</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.homegain.com">Real Estate</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.shoplocal.com">Shopping</a></li>
+			<li>|</li>
+			<li><a target="_blank" href="http://www.momslikeme.com">Mom Groups</a></li>
+		</ul>
+	</div>
 </div>
-<div class="seo-links">
-<ul>
-<li><a href="http://www.news-leader.com/apps/pbcs.dll/frontpage">HOME</a> | </li><li><a href="http://www.news-leader.com/section/NEWS01">NEWS</a> | </li><li><a href="http://www.news-leader.com/section/SPORTS">SPORTS</a> | </li><li><a href="http://www.news-leader.com/section/ENTERTAINMENT">ENTERTAINMENT</a> | </li><li><a href="http://www.news-leader.com/section/OPINIONS">OPINIONS</a> | </li><li><a href="http://www.news-leader.com/section/LIFE">LIFE</a> | </li><li><a href="http://www.news-leader.com/section/COMMUNITIES">COMMUNITIES</a> | </li><li><a href="http://www.news-leader.com/obits">OBITUARIES</a> | </li><li><a href="http://www.news-leader.com/weather">WEATHER</a> | </li><li><a href="http://www.news-leader.com/classifieds">CLASSIFIEDS</a> | </li><li><a href="http://www.news-leader.com/section/SERVICE">CUSTOMER SERVICE</a> | </li><li><a href="/section/sitemapHTML">Site Map</a></li></ul></div>
-<div id="legal" class="legal">
-	<ul>
-		<li><a href="/section/TERMS">Terms of Service</a> |</li>
-		<li><a href="/section/PRIVACY">Privacy Policy</a> |</li>
-		<li><a href="/section/FEEDBACK">Contact Us</a> |</li>
-		<li><a href="/aboutus">About Us</a> |</li>
-		<li><a href="/work">Work for Us</a> |</li>
-		<li><a href="/subscribe">Subscribe</a></li>
-	</ul>
-	<p>Copyright ©2010</p>
+		<div class="footer-partners">
+	<div class="footer-wrap">
+		<ul>
+			<li><a class="footer-usatoday" href="http://www.usatoday.com" target="_blank"></a></li>
+			<li><a class="footer-gannett" href="http://www.gannett.com" target="_blank"></a></li>
+			<li><a class="footer-cars" href="http://www.cars.com/?aff=spfield" target="_blank"></a></li>
+			<li><a class="footer-homefind" href="http://ozarksnow.gon.gannettonline.com/apps/pbcs.dll/section?Category=HOMES" target="_blank"></a></li>
+			<li><a class="footer-career" href="http://ozarksnow.gannettonline.com/careerbuilder/index.html" target="_blank"></a></li>
+			<li><a class="footer-apts" href="http://www.news-leader.com/apartments/" target="_blank"></a></li>
+			<li><a class="footer-homegain" href="http://www.homegain.com" target="_blank"></a></li>
+			<li><a class="footer-shop" href="http://www.shoplocal.com/ozarksnow/home.aspx" target="_blank"></a></li>
+			<li><a class="footer-moms" href="http://ozarks.momslikeme.com" target="_blank"></a></li>
+			<li><a class="footer-metromix" href="http://ozarks.metromix.com" target="_blank"></a></li>
+			<li><a class="footer-eharmony" href="http://gannett.eharmony.com/dating&amp;cid=1046&amp;aid=3310&amp;cmd=registration-profile-opt" target="_blank"></a></li>			
+		</ul>
+		<div class="clear"></div>
+	</div>
+	<div class="clear"></div>
 </div>
-<div class="gannettlegal">
-	<p>	Use of this site signifies your agreement to the <a href="/section/TERMS">Terms of Service</a> and <a href="/section/PRIVACY">Privacy Policy</a> , updated September 2010.</p>
+		<p class="footer-bottom">
+	Copyright © 2011 www.News-Leader.com. All rights reserved.<br>
+	Users of this site agree to the <a href="http://www.News-Leader.com/section/terms">Terms of Service</a>, <a href="http://www.News-Leader.com/section/privacy">Privacy Notice</a>, and <a href="http://www.News-Leader.com/section/adnetwork">Ad Choices</a>
+</p>
+	</div>
 </div>
-<!-- macro name="ad_rotate_test" --> 
-<!-- div class="clear"></div -->
-<!--MBox macro -->
+<div id="UAModalcontainerwrapper" class="ody-UAmodalcontainer modal modal-inner-content">
+	<div id="UAModalcontainer"></div>
+</div>
+<div id="zagmodalcontainer" class="zagmodal modal modal-inner-content">
+	<div id="ody-modalcontent"></div>
+	<a></a>
+</div>
+<script type="text/javascript">
+GEL.thepage.initializer.addInitRoutine({ 
+	name: "zagmodal",
+	namespace: "widget.zagmodal",
+	depends: ["widget.modal"],
+	callback: function () { }, 
+	priority: 121
+});
+</script>
 <!--Site Catalyst macro -->
 <!--Sitecatalyst Macro Settings -->
 <script type="text/javascript"> 
@@ -791,14 +1246,14 @@ function initMenu(){
 					classifieds: 'Classifieds: '+_cat+' listings',
 					search: 'Publicus search results: ',
 					gallery: (function() {
-						if(_PI.title && _PI.date)
-							return 'Gallery Title: '+_PI.title+' ('+_PI.date+')';
+						if(_PI.title && _PI.date.isopuddate)
+							return 'Gallery Title: '+_PI.title+' ('+_PI.date.isopuddate+')';
 						else
 							return 'Gallery Title: Null';
 					})(),
 					tngallery: (function() {
-						if(_PI.title && _PI.date)
-							return 'tnGallery Title: '+_PI.title+' ('+_PI.date+')';
+						if(_PI.title && _PI.date.isopuddate)
+							return 'tnGallery Title: '+_PI.title+' ('+_PI.date.isopuddate+')';
 						else
 							return 'tnGallery Title: Null';
 					})()
@@ -857,11 +1312,11 @@ function initMenu(){
 		method of inserting the image.  Once this is implemented, 
 		the inline attachment of the s_code here can be removed 
 	*/
-	var _s = GEL.ement("SCRIPT", { src: "/gel/lib/vendor/omniture/sitecatalyst.js" }); 
+	var _s = GEL.ement("SCRIPT", { src: "/odygel/lib/vendor/omniture/sitecatalyst.js" }); 
 	_s.setAttacher("inline"); 
 	_s.attach(); 
 })(); 
-</script><script id="__gelement_0" src="/gel/lib/vendor/omniture/sitecatalyst.js"></script>
+</script><script id="__gelement_0" src="/odygel/lib/vendor/omniture/sitecatalyst.js"></script>
  
 <noscript> 
  <img src="http://gpaper171.112.2O7.net/b/ss/gpaper171,gntbcstglobal/1/H.3--NS/0"	height="1" width="1" border="0" alt="" />
@@ -886,42 +1341,48 @@ function initMenu(){
 	});
 })()	
 </script>
-<script>
-if(GEL.config.AdService == 1 || GEL.config.AdService == 3)
-{
-	function loader(){ 
-		var l= GEL.thepage.bannerLoader= new GEL.widget.AdBanner.Locator(); 
-		l.registerProvider("_default", GEL.widget.AdBanner.APT); 
-		l.findBanners(); 
-		l.loadBanners(); 
-	}	
-	if(GEL.config.AdService == 3)
-	{
-		function loader1(){ 
-			var l= GEL.thepage.bannerLoader= new GEL.widget.AdBanner.Locator(); 
-			l.registerProvider("_default", GEL.widget.AdBanner.Helios); 
-			l.findBanners(); 
-			l.loadBanners(); 
-		}	
-		GEL.use("widget.AdBanner.Helios", loader1);	
-	}
- 	GEL.use("widget.AdBanner.APT", loader);
-}
-else
-{
-	GEL.config.init.banners = true;
-	GEL.use("widget.AdBanner.Helios");	
-}
+<script type="text/javascript">
+(function(){ 
+	GEL.register("widget.TimeWidget", {
+		type: "script", 
+		depends: ["widget"],
+		requires: [],
+		path: "widgets/time/time.js"
+	});
+	GEL.thepage.initializer.addInitRoutine({ 
+		name: "Time", 
+		namespace: ["widget.TimeWidget","util.Selector"], 
+		callback: initTime, 
+		priority: 10
+	}); 
+	function initTime(){
+		var _i = GEL.thepage.$('.clienttime').length;
+		if(_i>0){
+			GEL.thepage.Time = new GEL.widget.Time();
+			GEL.thepage.Time.init();
+			var 
+				_l = parseInt(GEL.thepage.articles.topstories.length-1),
+				_p = GEL.thepage.$('.lastupdated').length
+			;
+			if(_p>0 && GEL.thepage.articles.topstories[_l]){
+				var _t = GEL.thepage.articles.topstories[_l].moddate;
+				GEL.thepage.$('.lastupdated')[0].appendChild(document.createTextNode('Updated: '+_t));
+			}
+		}
+	};
+})(); 
 </script>
 <script type="text/javascript">
 setTimeout(function(){ GEL.thepage.initializer.init();}, 100); 
 </script> 
-<!-- Akamai cookie -->
-<!-- end #footer-container -->
 
-			</div>
 		</div> <!--end main container-->
-	</div>
+	</div><!-- end ody-custom -->
 
 
-	</body></html>
+	
+
+
+
+
+</body></html>
