@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002002942id_/http%3A//www.ahm.com.au/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216232819id_/http%3A//www.ahm.com.au/content/privacy.asp) for the most accurate reproduction.*
 
 # Health Insurance Australia - privacy policy
 
@@ -70,7 +70,7 @@ This site encourages children to obtain their parent’s permission before shari
 
 We recommend that you notify us if you change your address or contact details as soon as possible. This will help us to maintain your privacy by ensuring that any communications are sent to the correct postal address, email address, or telephone number. 
 
-For further information on changing your address, please see our section on [About your membership](https://web.archive.org/3742/Membership-FAQ). 
+For further information on changing your address, please see our section on [About your membership](https://web.archive.org/3742/health/membership-faq/). 
 
 For further information about the contents of this statement, please contact us on 1300 366 868, or [email us](mailto:info@ahm.com.au). 
 
