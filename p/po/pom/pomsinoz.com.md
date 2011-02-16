@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pomsinoz.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210061634id_/http%3A//www.pomsinoz.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pomsinoz.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216011809id_/http%3A//www.pomsinoz.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# PomsInOz Australia Migration & Expat Forum - Privacy Statement
+# PomsInOz Australia Migration & British Expats Forum - Privacy Statement
 
 PomsInOz is committed to protecting and respecting your privacy. This statement outlines our practices in relation to information about yourself which you submit to us in order to use the forum and social networking functions of the pomsinoz.com website.
 
