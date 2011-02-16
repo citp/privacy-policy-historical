@@ -1,56 +1,41 @@
-> *The following text is extracted and transformed from the voicestar.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229230636id_/http%3A//www.voicestar.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicestar.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216211821id_/http%3A//www.marchex.com/legal/privacy-statement) for the most accurate reproduction.*
 
-# Marchex Call Analytics - Privacy
+# Marchex - Legal Pages
 
-Marchex Inc. ("We" or "Marchex") provides Pay Per Phone Call services in addition to interactive audio and speech content via the phone and the Internet (together, the "Service"). As a pioneer in the Voice-to-Web industry, we use unique personalization components and sophisticated database software to provide advertisers, agencies, publishers and corporations with the best, easiest-to-use service available. Our Privacy Policy is designed to protect your personal data while at the same time giving you the opportunity to share and obtain interesting and useful information. This Privacy Policy describes how we treat information received about you when you visit our Service. Please read the Privacy Policy carefully.
+Marchex, Inc., its subsidiaries and affiliates (collectively “we” or “Marchex”) respect your privacy. Our purpose in collecting information from you is to help us better understand our user base and to accordingly provide quality service. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such children.
 
-#### Information We Collect
+_What Information Do We Collect?_
 
-General. When you register as a user of the Service (each, a "User") and at other times, we will collect personally identifiable information from you. The personally identifiable information we collect includes limited personal data such as name, address, phone number and email address. However, we do not knowingly collect personal information from children under the age of thirteen.
+We may request that an entity applying for an account with Marchex provide us with certain personal information (such as its name, email address, etc.) relevant to our provision of the various services offered on our site. We do not collect any personal information other than that which is specifically and knowingly provided to us. When we request information, we explain how it may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us.
 
-Interactive Content. Because Marchex provides an interactive service, other Users may set up order forms, surveys, polls or other mechanisms through which you can be asked to provide certain information. These features are entirely voluntary. If you do not wish to participate, you may hang up at any time. We are not responsible for the disclosure or use of any information collected by other Users through the Service; other Users may not be subject to the Marchex privacy policy.
+_Cookies and Other Monitoring Technologies?_
 
-Usage Information. Our web and phone servers automatically collect usage information when you visit our Service. Website usage information is information about our visitors (unregistered users of the Service) and Users that describes how our Service is used and navigated, including the number and frequency of visitors and Users to each web page and the length of their stays. Website usage information also includes the domain names and/or corresponding IP addresses (a numerical identifier for a computer on the Internet) of those who visit our website. Finally, phone usage information may include caller ID results depending on your local phone company's ability to transmit that information. To disable caller ID transmissions, please contact your local phone company.
+Like most sites, for account management purposes, Marchex may use cookies, web beacons and other monitoring technologies to compile anonymous statistics about site users. Cookies are data files stored on your computer that identify you as a unique user. In limited instances, we may allow third party business partners to monitor our sites for the purpose of reporting user traffic, statistics, advertisements, “click-throughs” and/or other activities and to set their cookies on your computer, subject to agreement between such business partner and us and subject to such business partner’s privacy policy. Cookies and related monitoring technologies enable us to track user trends, preferences and patterns. We may also receive and record information from your computer and browser, including your IP address, site(s) you visited and keyword searches you conducted on our site(s). The information helps us provide improved services, including customized advertising. You can visit our site without using cookies. Most browsers permit users to refuse cookies or to be notified before a cookie is accepted. In addition, you may go to <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out of most third party tracking.
 
-#### Security
+_Links to Other Sites?_
 
-The personally identifiable information we collect about you is stored in limited access servers. We will maintain appropriate safeguards to protect the security, integrity, and privacy of these servers and of your personally identifiable information. Except as described below, we will not use or intentionally disclose any personally identifiable information about you to any unaffiliated third parties without your consent.
+The Marchex website contains links to other sites. Those sites may send their own cookies to users, collect data, or solicit personal information. We are not responsible or liable for the privacy practices or content of such sites since we do not control them.
 
-#### How We Use Information Collected
+_With Whom Do We Share Information?_
 
-We may combine the personally identifiable information we collect from you when you use the Service with other information about you that is available to us, including survey information, affiliate and third-party website usage information and information from other sources. We may use such information in several ways, including:
+Marchex may share non-personal and non-personally identifiable information about our users with advertisers, business partners, sponsors, and other third parties. Such non-personally identifiable information may include your IP address, sites(s) you visited and keyword searches you conducted on our site(s). This information may allow such third parties to provide you customized advertising.
 
-  * To enable us to process and verify purchases, to provide you with the goods and services you have requested, and for the purposes disclosed when you provide the personally identifiable information.
-  * To send Users email notifications of new Service features and topic-based news alerts if they have signed up for these announcements.
-  * To provide you with personalized content.
-  * To give Marchex employees information that is useful for developing new features and services that meet Users needs.
-  * To conduct market research and to develop specific phone-based information products.
-  * To improve the content and navigation on our Service.
-  * To alert you about new products and services and special offers. We may also share such information with our affiliates and other third parties to provide you with goods or services requested by you. Finally, we may also use personally identifiable information to enforce our Terms and Conditions of Use or share such information with 
-    1. the issuer of a criminal or civil subpoena;
-    2. governmental authorities when legally required to do so; or
-    3. governmental authorities investigating a crime. We reserve the right to contact you at any time regarding Service- related problems or questions as well as changes to our Terms and Conditions of Use, our Privacy Policy, or other policies that affect you and your use of our Service.
+In addition, Marchex may partner with other parties in connection with the various services offered on our site, such as credit card processors or email delivery services. In such instances, we may share limited personal information that is necessary for the third party to provide its services. These companies are prohibited from using this information for any other purpose.
 
+Marchex may also provide personal information when disclosure may be required by law (e.g., subpoenas, search warrants and court orders). We may also determine that such action is reasonably necessary to protect a party's rights, property, or well-being. This action may include exchanging information with other companies and organizations for the purposes of fraud detection or protection, or in other situations involving suspicious or illegal activities.
 
+_Business Transfers?_
 
-#### Your Ability to Opt Out
+In the event of a transfer of ownership of Marchex, such as acquisition by or merger with another company, a user's personal information will, in most instances, be part of the assets transferred.
 
-Opt Out. You can notify us that you do not wish to receive information about new products and services and special offers by opting out at the time you enter your personally identifiable information on our website or by emailing us at [Vs-optout@marchex.com](mailto:Vs-optout@marchex.com)
+_Consent and Changes to this Privacy Statement?_
 
-#### Cookies
+By using our site or services, you consent to the collection and use of your information as we have outlined in this privacy statement and consent to our Terms of Use. Additionally, if you are using any of our services, we may also collect and use information in accordance with such service's applicable Terms and Conditions. Marchex may decide to change this privacy statement from time to time. If and when we do, we will post the changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
-We employ cookie technology to help visitors and Users move faster through the website portion of the Service, and to help advertisers, agencies and networks generate dynamic telephone numbers on the basis of referral pages. When a visitor or User accesses our website and takes advantage of certain features, we place several cookies on that User's computer. A cookie is a string of information sent by a website and stored on your hard drive or temporarily in your computer's memory. This allows the website to recognize you as you move through the website without having to keep asking you for your username and password. We also employ cookie technology to store usernames and passwords to make the login process easier and faster.
+_Who Can I Ask If I Have Additional Questions?_
 
-#### Review and Correction
+Feel free to contact us at any time with any questions you may have regarding our privacy statement.
 
-You may review and update the personal information you provide us with as part of the registration process, or unsubscribe from the Service, by accessing your Profile at [http://adtrack.voicestar.com](http://adtrack.voicestar.com/).
+Effective October 25, 2010
 
-#### Links
-
-We may make content from affiliated or other third party resources, including other websites, available to you from links located on the Service. These resources are not subject to our Privacy Policy, and may have their own individual privacy policy. We recommend that you review the privacy policy at each such resource to determine how it protects your privacy.
-
-#### Policy Modifications
-
-We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.
-
-Effective July 29,2008
+Close window
