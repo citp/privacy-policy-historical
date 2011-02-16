@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couriermail.com.au privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226121447id_/http%3A//www.couriermail.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couriermail.com.au privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216072807id_/http%3A//www.couriermail.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Courier Mail
 
