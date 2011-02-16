@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rabbitscams.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218000844id_/http%3A//www.rabbitscams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rabbitscams.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216062628id_/http%3A//www.rabbitscams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # Rabbits Cams - Privacy
 
