@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adonline.id.au privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219054217id_/http%3A//www.adonline.id.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonline.id.au privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216214439id_/http%3A//www.adonline.id.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | adonline.id.au
 
