@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icddrb.org privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130175304id_/http%3A//www.icddrb.org/page_view.cfm%3FID%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icddrb.org privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217084104id_/http%3A//www.icddrb.org/page_view.cfm%3FID%3D16) for the most accurate reproduction.*
 
 # ICDDR,B: Privacy Policy
 
