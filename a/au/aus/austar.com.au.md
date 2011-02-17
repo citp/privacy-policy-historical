@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austar.com.au privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122090456id_/http%3A//www.austar.com.au/tv/home/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austar.com.au privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217010938id_/http%3A//www.austar.com.au/tv/home/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - AUSTAR Television
 
@@ -6,7 +6,9 @@
 
 We appreciate that your privacy is important to you. AUSTAR will continue to protect the personal information you entrust to us.
 
-AUSTAR has compiled this page to advise you of how your personal information is handled including how it collects, holds, uses and discloses that information.
+AUSTAR has compiled this page to advise you of how your personal information is handled including how it collects, holds, uses and discloses that information through any interaction you have with AUSTAR.
+
+If you are an AUSTAR Customer, this Privacy Statement should be read in conjunction with your AUSTAR Customer Agreement.
 
 ## National Privacy Principles
 
@@ -14,15 +16,15 @@ AUSTAR is committed to protecting your personal information. We comply with the 
 
 ## What information do we collect and why?
 
-The type of information we collect from you will depend on what AUSTAR products and services you use. Generally we collect personal information directly from you, for example when you subscribe to an AUSTAR service over the telephone. We may collect personal information about you from a third party for the purpose of marketing our products and services.
+The type of information we collect from you will depend on what AUSTAR products and services you use. Generally we collect personal information directly from you, for example when you subscribe to an AUSTAR service over the telephone. We may collect personal information about you from a third party for the purpose of marketing our products and services. When you browse this website, we do not collect your personal information. Sometimes, we collect personal information that you choose to give us via online forms or by email, for example when you ask to be on an email list. We only use personal information collected via our website for the purposes for which it was given to us. 
 
-When you become an AUSTAR customer you will need to provide certain details so that we can establish and manage your customer account. This includes information such as your name, contact details and information for identification purposes. AUSTAR may also request your credit card or bank account details and information to help us assess your credit application where this is relevant. We may also require information about your premises in order to assist with the installation of AUSTAR’s services.
+When you set up an AUSTAR account or become an AUSTAR customer you will need to provide certain details so that we can establish and manage your customer account. This includes information such as your name, contact details and information for identification purposes. AUSTAR may also request your credit card or bank account details and information to help us assess your credit application where this is relevant. We may also require information about your premises in order to assist with the installation of AUSTAR’s services.
 
 AUSTAR may offer third party products or services and we may collect information about you in order to provide you with the products, services or information requested.
 
 ## Use of information by AUSTAR
 
-AUSTAR may use your information for purposes which you would reasonably expect, such as managing your account, billing, contacting you or providing customer support. AUSTAR also collects and uses information about your use of our services for monitoring and evaluation purposes so that we can improve and enhance our products and services.
+AUSTAR may use your information for purposes which you would reasonably expect, such as managing your account, billing, contacting you you (including about your AUSTAR Equipment or to confirm any instructions that you give to us) or providing customer support. AUSTAR also collects and uses information about your use of our services for monitoring and evaluation purposes so that we can improve and enhance our products and services.
 
 AUSTAR may use your information to notify you about new services or promotions from time to time. If at any stage you no longer wish to receive these communications from AUSTAR you can contact us to let us know.
 
@@ -69,4 +71,4 @@ Gold Coast Mail Centre 9726
 
 AUSTAR Entertainment Pty Ltd ABN 93 068 104 530
 
-For details on the use of information gathered on the Austar network, please refer to the [AUSTAR Portal Terms of Use](https://web.archive.org/tv/home/terms-and-conditions.aspx).
+For details on the use of information gathered on the AUSTAR network, please refer to the [AUSTAR Portal Terms of Use](https://web.archive.org/tv/home/terms-of-use.aspx).
