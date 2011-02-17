@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdmixtapes.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112003523id_/http%3A//hdmixtapes.com/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdmixtapes.com privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217151957id_/http%3A//www.hdmixtapes.com/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
