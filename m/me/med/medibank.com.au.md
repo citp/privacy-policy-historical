@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medibank.com.au privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219152859id_/http%3A//www.medibank.com.au/Legal-Information/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medibank.com.au privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217023334id_/http%3A//www.medibank.com.au/Legal-Information/Privacy.aspx) for the most accurate reproduction.*
 
 # Medibank Private - choose medibank private for health cover and travel insurance
 
@@ -15,7 +15,7 @@ The types of personal information that we may collect include:
 
 
 
-Where possible, we will collect this information from you, or from a person authorised to provide us this informationon your behalf. Where necessary, we may also collect information from government agencies, employers, educational institutions, service providers and advisers who have dealt with you.
+Where possible, we will collect this information from you, or from a person authorised to provide us this information on your behalf. Where necessary, we may also collect information from government agencies, employers, educational institutions, service providers and advisers who have dealt with you.
 
 Why do we collect your personal information?
 
@@ -31,7 +31,7 @@ Generally, we use your personal information to:
   * process and audit claims;
   * develop products and services;
   * assess your suitability for, and provide you with information about, other products or services that we think may be of interest to you. (This may include our own products and services or the products or services of others). If you do not want to receive information about these products or services you can withdraw your consent by contacting us; and
-  * perform any of our other functions and activities. 
+  * perform any of our other functions and activities.
 
 
 
@@ -41,7 +41,7 @@ Electronic communications
 
 From time to time, we may send you marketing materials via electronic communication such as email or text message. If you wish to withdraw your consent for us to do this, please contact us.
 
-Disclosure of personal information to other parties 
+Disclosure of personal information to other parties
 
 We may disclose your personal information to third parties necessary to conduct our activities, such as:
 
@@ -65,4 +65,4 @@ This Privacy Statement is updated from time to time. To obtain a copy of the lat
 
 Effective from 2 April 2007
 
-You may also withdraw your consent to the use of personal information for any unrelated secondary purposes (whether for yourself or any dependant aged under 16 years) by completing and sending to us the "Withdrawal of Consent" form. 
+You may also withdraw your consent to the use of personal information for any unrelated secondary purposes (whether for yourself or any dependant aged under 16 years) by completing and sending to us the "Withdrawal of consent" form.
