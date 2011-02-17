@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iesearch.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018053013id_/http%3A//www2.iesearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iesearch.com privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217090024id_/http%3A//www2.iesearch.com/privacy) for the most accurate reproduction.*
 
 # IESearch Start - Privacy Policy
 
-## IESEARCH.COM PRIVACY POLICY
+## PRIVACY POLICY
 
 We respect your right to privacy. Any details that you give to us via this website or in any other way may be added to our database. You do not have to give us any personal information in order to use most of this website. However, if you wish to take advantage of some of the more special personalised services that we may from time to time offer, you will need to provide certain information.
 
