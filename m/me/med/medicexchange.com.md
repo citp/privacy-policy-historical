@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicexchange.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227192122id_/http%3A//www.medicexchange.com/Documents/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicexchange.com privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217014744id_/http%3A//www.medicexchange.com/Documents/privacy-policy.html) for the most accurate reproduction.*
 
 # Medicexchange Privacy and Policy
 
@@ -46,5 +46,3 @@ Our site's registration, request information and shopping cart forms require you
 Unfortunately (and notwithstanding anything to the contrary in this policy), due to the existing regulatory and technical environment, we cannot guarantee that all of your communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to, or deem appropriate to, disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access your transmissions or communications. Further, we can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Therefore, although we attempt to use standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or communications will remain private.
 
 We currently use standard efforts to safeguard the confidentiality of your personally identifiable information, such as firewalls and SSL technology. These are the same technologies that many websites use to safeguard credit card information and other personal information. However, that said, "perfect security" does not exist on the Internet (or anywhere, for that matter.) Under no circumstances will we have any responsibility or liability of any kind for any breaches of this Privacy Policy.
-
-* * *
