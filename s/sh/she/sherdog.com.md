@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sherdog.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218032228id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dwww.sherdog.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sherdog.com privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217040331id_/http%3A//www.craveonline.com/privacy.php%3Fsite%3Dwww.sherdog.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
