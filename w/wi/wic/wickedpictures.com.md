@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wickedpictures.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203061808id_/http%3A//www.wickedpictures.com/templates/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickedpictures.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218055643id_/http%3A//www.wickedpictures.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
