@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220024141id_/http%3A//www.edinarealty.com/Content/Content.aspx%3FFooterID%3D15105) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218220141id_/http%3A//www.edinarealty.com/Content/Content.aspx%3FFooterID%3D15105) for the most accurate reproduction.*
 
 # Edina Realty
 
