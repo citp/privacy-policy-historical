@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksla.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228014659id_/http%3A//www.ksla.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksla.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218053238id_/http%3A//www.ksla.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - KSLA News 12 Shreveport, Louisiana |
 
