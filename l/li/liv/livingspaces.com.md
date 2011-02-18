@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingspaces.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192221id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingspaces.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218035155id_/http%3A//www.livingspaces.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Living Spaces Furniture - About Us
 
@@ -31,4 +31,7 @@ If you supply us with your contact information on-line you may receive periodic 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy statement. If our information practices change at some time in the future we will contact you before we use your data for these new purposes.
 
 **Security of Information**  
-Living Spaces Furniture has the appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. We secure all personal information from unauthorized access, use or disclosure. Living Spaces secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+Living Spaces Furniture has the appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. We secure all personal information from unauthorized access, use or disclosure. Living Spaces secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number
+
+**Marketing Tracking**  
+Third party vendors, including Google, show your ads on sites on the internet. Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page.](http://www.google.com/privacy_ads.html)
