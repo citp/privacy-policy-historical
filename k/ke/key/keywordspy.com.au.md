@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordspy.com.au privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124135050id_/http%3A//www.keywordspy.com.au/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordspy.com.au privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218120847id_/http%3A//www.keywordspy.com.au/policy.aspx) for the most accurate reproduction.*
 
 # 
 
