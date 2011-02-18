@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ghanalive.tv privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207021906id_/http%3A//ghanalive.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghanalive.tv privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218093607id_/http%3A//www.ghanalive.tv/privacy.php) for the most accurate reproduction.*
 
-# Privacy - Welcome to GhanaLIVE.tv Your #1 Market Leader in Subscription-based Broadcaster of Ghanaian Ethic Television and Radio over Broadband
+# 
 
 ## Introduction:
 
-GhanaLIVE.tv respects your privacy. This Privacy Statement explains what information we collect through our products and when you contact us for support, how we use that information, and what choices you have.
+GhanaLive.tv respects your privacy. This Privacy Statement explains what information we collect through our products and when you contact us for support, how we use that information, and what choices you have.
 
-The Sites contains links to other web sites. This Privacy Statement does not apply to the practices of any company or individual that GhanaLIVE.tv does not control, or any web sites that you link to from the Sites. You should carefully review the privacy policies of any web sites that you visit from ours to learn more about their information and privacy practices. The collection and use of your personal information shall be governed by such other party or site’s privacy policy. GhanaLIVE.tv is not responsible for their privacy practices.
+The Sites contains links to other web sites. This Privacy Statement does not apply to the practices of any company or individual that GhanaLive.tv does not control, or any web sites that you link to from the Sites. You should carefully review the privacy policies of any web sites that you visit from ours to learn more about their information and privacy practices. The collection and use of your personal information shall be governed by such other party or site’s privacy policy. GhanaLive.tv is not responsible for their privacy practices.
 
-Please take a few moments to read this Privacy Statement. By accessing the Sites or using a GhanaLIVE.tv product, you agree to accept the terms and conditions of this Privacy Statement and are aware that our policies may change in the future.
+Please take a few moments to read this Privacy Statement. By accessing the Sites or using a GhanaLive.tv product, you agree to accept the terms and conditions of this Privacy Statement and are aware that our policies may change in the future.
 
 ## What information we collect:
 
-In various places on the Sites we collect "Personally Identifiable Information" such as your name, mailing address, telephone number, email address, or other information that can be used to identify you or contact you. For example, we collect this information when you create an account, sign up for our email newsletter, and purchase from our store or register a GhanaLIVE.tv product, in surveys, promotions and give-away.
+In various places on the Sites we collect "Personally Identifiable Information" such as your name, mailing address, telephone number, email address, or other information that can be used to identify you or contact you. For example, we collect this information when you create an account, sign up for our email newsletter, and purchase from our store or register a GhanaLive.tv product, in surveys, promotions and give-away.
 
 We also collect "Anonymous Information" such as your IP address, you use, the terms that you enter or the advertisements that you click. Anonymous information can and will NOT be associated with Personally Identifiable Information.
 
@@ -20,11 +20,11 @@ Like many Internet sites, we also use "cookies" to collect information. A cookie
 
 We also collect the personal information of third parties that is provided by visitors who submit that personal data through our Sites, in connection with, for example, referrals or promotions
 
-GhanaLIVE.tv products is personally identifiable by product serial number. In some cases, serial numbers are associated with personally identifiable information for customer service and support.
+GhanaLive.tv products is personally identifiable by product serial number. In some cases, serial numbers are associated with personally identifiable information for customer service and support.
 
-The information collected from many users is aggregated for analysis and, in some Instances, made generally available anonymously to users of GhanaLIVE.tv services. For example, GhanaLIVE.tv may use such information to provide features such as lists of popular movies. GhanaLIVE.tv may also use personally identifiable information to make content recommendations to individual users.
+The information collected from many users is aggregated for analysis and, in some Instances, made generally available anonymously to users of GhanaLive.tv services. For example, GhanaLive.tv may use such information to provide features such as lists of popular movies. GhanaLive.tv may also use personally identifiable information to make content recommendations to individual users.
 
-If you do not wish GhanaLIVE.tv to use your information as described in this section, please follow the procedure in “What Choices You Have” below.
+If you do not wish GhanaLive.tv to use your information as described in this section, please follow the procedure in “What Choices You Have” below.
 
 ## How we use the information we collect:
 
@@ -38,11 +38,11 @@ We sometimes use third parties to help with certain aspects of our operations, s
 
 We aggregate the Anonymous Information that we collect and exchange it with advertisers and others who are interested in our services. 
 
-We will disclose Personally Identifiable Information as required by law, or if in our judgment it is necessary to protect GhanaLIVE.tv users from loss or liability. We may share some or all of your personal information with our current or future "affiliates" (which means a parent company, any subsidiaries, joint ventures, or other companies under a common control), in which case we will require our affiliates to honor this privacy policy. If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this policy. If we cease operation, your information may be transferred to and used by another company that offers similar or related products or services. While we cannot predict about such an unlikely event, we would hope this could provide you continuity of service.
+We will disclose Personally Identifiable Information as required by law, or if in our judgment it is necessary to protect GhanaLive.tv users from loss or liability. We may share some or all of your personal information with our current or future "affiliates" (which means a parent company, any subsidiaries, joint ventures, or other companies under a common control), in which case we will require our affiliates to honor this privacy policy. If we merge with or are acquired by another company, the resulting combined company will use the information you have provided as described in this policy. If we cease operation, your information may be transferred to and used by another company that offers similar or related products or services. While we cannot predict about such an unlikely event, we would hope this could provide you continuity of service.
 
 ## What choices you have:
 
-If you do not want to receive information about our products and services or do not want to receive information from our partners and others about products and services that Might interest you, you can send an email to info@ghanalive.tv we will keep track of your decision in our database. Even if you choose not to receive information from us, we reserve the right to communicate with you on matters we consider especially important relating to our products or services.
+If you do not want to receive information about our products and services or do not want to receive information from our partners and others about products and services that Might interest you, you can send an email to info@GhanaLive.tv we will keep track of your decision in our database. Even if you choose not to receive information from us, we reserve the right to communicate with you on matters we consider especially important relating to our products or services.
 
 ## Security:
 
@@ -50,4 +50,4 @@ During sessions in which you give us information such as credit card numbers, we
 
 ## Questions:
 
-If you have questions about this Privacy Statement or our policies, please contact GhanaLIVE.tv at info@ghanalive.tv 
+If you have questions about this Privacy Statement or our policies, please contact GhanaLive.tv at info@GhanaLive.tv 
