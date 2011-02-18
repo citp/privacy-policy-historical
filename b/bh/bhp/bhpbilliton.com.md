@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhpbilliton.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212153802id_/http%3A//www.bhpbilliton.com/bb/home/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhpbilliton.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218090236id_/http%3A//www.bhpbilliton.com/bb/home/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # BHP Billiton > Privacy Policy
 
