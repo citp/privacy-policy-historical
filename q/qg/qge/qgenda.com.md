@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qgenda.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219214223id_/http%3A//www.qgenda.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qgenda.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218210153id_/http%3A//www.qgenda.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Precision Software Privacy Policy P2
+# Precision Software Privacy Policy P1
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY.**
 
@@ -9,7 +9,7 @@
 **PRIVACY POLICY**  
 **Effective Date: December 1, 2007**
 
-[Click here](https://web.archive.org/web/20101219214223id_/http%3A//www.qgenda.com/Privacy-notice-of-material-change.aspx) for a listing of material modifications to this Privacy Policy and their effective dates.
+[Click here](https://web.archive.org/web/20110218210153id_/http%3A//www.qgenda.com/Privacy-notice-of-material-change.aspx) for a listing of material modifications to this Privacy Policy and their effective dates.
 
 1.         Modification of Privacy Policy.  We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the "Privacy Policy" link on this site's home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy.  You should check the Privacy Policy through this link periodically for modifications by clicking on the link provided near the top of the Privacy Policy for a listing of material modifications and their effective dates.  Regarding PII, if any modifications are materially less restrictive on our use or disclosure of the PII previously disclosed by you, we will obtain your consent before implementing such revisions with respect to such information.
 
