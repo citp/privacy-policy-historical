@@ -1,32 +1,29 @@
-> *The following text is extracted and transformed from the fivebooks.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212195817id_/http%3A//fivebooks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivebooks.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218215828id_/http%3A//thebrowser.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FiveBooks
+# Privacy Policy | The Browser
 
+##  FAQs
+
+  
 **What information do we collect?**
 
 We collect information from you only when you subscribe to our newsletter. 
 
-**When ordering or registering on our site** , as appropriate, you may be asked to enter your e-mail address. You may, however, visit our site anonymously.
+**When ordering or registering on our site**
+
+As appropriate, you may be asked to enter your e-mail address. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-To personalize your experience
+_• To personalise your experience_  (your information helps us to better respond to your individual needs)
 
-(your information helps us to better respond to your individual needs)
+_• To improve our website_  (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-To improve our website
+_• To send periodic emails_  (the email address you provide will only be used  to send you information and site updates)
 
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-
- To send periodic emails
-
-The email address you provide will only be used  to send you information and site updates.
-
-If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
-
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. Please note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 **How do we protect your information?**
 
@@ -60,6 +57,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[http://five-books.com](http://five-books.com/ "http://five-books.com")
+[thebrowser.com/contact](http://thebrowser.com/contact)
 
-[editor@five-books.com](mailto:editor@five-books.com)
+[info@thebrowser.com](mailto:info@thebrowser.com)
+
+  
+
