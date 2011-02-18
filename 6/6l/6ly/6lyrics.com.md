@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6lyrics.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225105128id_/http%3A//www.6lyrics.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6lyrics.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218081916id_/http%3A//www.6lyrics.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | 6 Lyrics
 
@@ -30,29 +30,18 @@ By using this site, you consent to the collection and use of your Personal Infor
 
 _Effective as of March 1, 2009._
 
-#### Top Badge Winners
-
-  * Be the one to win Top Reporter Badge! [See how](https://web.archive.org/Pages/WinBadges.aspx)
-
-  *   *   *   * Be the one to win Top Ghost Writer Badge! [See how](https://web.archive.org/Pages/WinBadges.aspx)
-
-  *   * 
-
-
-[View All>>](https://web.archive.org/Pages/WinBadges.aspx)
-
 #### Poll of the Week
 
 Poll submited by User: 
 
-pheonix
+mashlieh
 
-which justin bieber song is the best?!
+Which game are you more interested in?
 
-somebody to love  
-pray  
-one time  
-baby   
+Hockey  
+Dodgeball  
+Hide and seek  
+Selector   
 ****************
 
 Vote to see result
