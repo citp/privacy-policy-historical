@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brightpearl.com privacy policy that was archived on 2010-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220143921id_/http%3A//www.brightpearl.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brightpearl.com privacy policy that was archived on 2011-02-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110219112349id_/http%3A//www.brightpearl.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <title>  Privacy Policy | Brightpearl</title>
@@ -156,17 +156,35 @@
 	</div>
 <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2376909-8']);
-  _gaq.push(['_setDomainName', 'none']);
-  _gaq.push(['_setAllowLinker', true]);
-  _gaq.push(['_trackPageview']);
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-2376909-8']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+  
+	var _gaq = _gat._getTracker("UA-2376909-11");
+    _gaq._setDomainName('www.brightpearl.com');
+    _gaq._setAllowLinker(true);
+    _gaq._setAllowHash(false); 
+    _gaq._trackPageview();
+    $('a').click(function(e){ 
+    _gaq._link(e.currentTarget.href); 
+    return false;
+    });
+    $('form').bind('submit', function(){ 
+    _gaq._linkByPost(this);
+    });
+	
+	var smcid = document.location.href.match(/cid=[0-9]+/); 
+	smcid = String(smcid).replace("cid=","");
+	var prefix = ('https:' == document.location.protocol ? 'https://' : 'http://');
+	document.write('<img src="' + prefix + 'start.brightpearl.com/?p=track&cid='+smcid+'&refer='+document.referrer+'" style="display:none">');
 
 </script>
 
