@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wingify.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228195632id_/http%3A//www.wingify.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wingify.com privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219111818id_/http%3A//www.wingify.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Wingify
 
