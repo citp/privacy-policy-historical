@@ -1,56 +1,57 @@
-> *The following text is extracted and transformed from the migrationexpert.co.uk privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515233910id_/http%3A//www.migrationexpert.com/uk/Visa/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migrationexpert.co.uk privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219172433id_/https%3A//www.migrationexpert.co.uk/visa/privacy_policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy | Security & Confidentiality of Personal Information | Migration Expert UK
+# Privacy Policy UK: UK Visa Services
 
-Migration Expert knows the importance of keeping your information secure. We understand your concerns about how your information is used and shared. Please be assured that Migration Expert takes every possible measure to treat your information with respect and privacy.
-
-This notice describes our privacy policy. 
+Migration Expert knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. 
 
 **By visiting Migration Expert, you are accepting the practices described in this Privacy Notice.**
 
 **Personal Information**
 
-The information collected from Clients is required in order to provide the personalised migration-related Services and to improve our services at Migration Expert. 
+The information collected from Clients is required in order to provide the personalized migration-related Services and to improve our services at Migration Expert. 
 
-**Information You Give Us:**
-
+**Information You Give Us:**   
 We receive and store any information you enter on our website or give us in any other way. If you choose not to provide certain information this may affect the level of Service you receive. 
 
-**Automatic Information:**
-
-We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies", and we obtain certain types of information when your web browser accesses Migration Expert. 
+**Automatic Information:**   
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Migration Expert 
 
 **Cookies**
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognise your browser and to provide information such as the country and region you are accessing our website from, duration of your visit, etc. 
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide information such as the country and region you are accessing our website from, duration of your visit, etc. 
 
 **Sharing**
 
 We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can divulge the identity of our clients. 
 
-We share customer information only as described below: 
+We share customer information only as described below:   
 
-  * with subsidiaries or associated companies of Migration Expert that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Notice.
-  * Agents: We employ other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, and providing customer service; fulfiling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links). They have access to personal information needed to perform their functions, but may not use it for other purposes.
-  * Promotional Offers:Sometimes we send offers to selected groups of Migration Expert customers on behalf of other businesses. When we do this, we do not give that business your name and address.
+
+  * With subsidiaries or associated companies of Migration Expert that either are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Notice.
+  * Agents: We employ other companies and individuals to perform functions on our behalf. Examples include processing credit card payments, and providing customer service; fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links). They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * Promotional Offers: Sometimes we send offers to selected groups of Migration Expert customers on behalf of other businesses. When we do this, we do not give that business your name and address.
   * Business Transfers: As we continue to develop our business, we might sell or buy businesses or subsidiaries. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that Migration Expert, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
-  * Protection of Migration Expert and Others: We release account and other personal information when collection is required by law or when the information is necessary for the establishment, exercise of defense of a legal claim.
+  * Protection of Migration Expert and Others: We release account and other personal information when collection is required by law or when the information is necessary for the establishment, exercise or defence of a legal claim.
+
+
 
 Migration Expert may use and disclose the Client's (and if applicable, their family's) personal information for the primary purpose for which it is collected, for reasonably expected secondary purposes which are related to the primary purpose and in other circumstances authorised by the Act.
 
 In general, Migration Expert will disclose the Client's personal information with expressed or implied consent for the following purposes:
 
-    * to conduct their business, including billing and account management; 
-    * to provide and market their Services; 
-    * to communicate with the Client; 
-    * to comply with their legal obligations; and 
-    * to help them manage and improve their Services 
+  * to conduct their business, including billing and account management; 
+  * to provide and market their Services; 
+  * to communicate with the Client; 
+  * to comply with their legal obligations; and 
+  * to help them manage and improve their Services 
+
+
 
 Migration Expert may disclose the Client's personal or sensitive information (as defined in the Privacy Act):
 
-    * to regulatory authorities;
-    * where the law requires us to do so; and
-    * where the Client consents for us to do so
+  * to regulatory authorities;
+  * where the law requires us to do so; and
+  * where the Client consents for us to do so
 
 
 
@@ -63,15 +64,15 @@ Our customer information is stored in high capacity servers located in a state-o
   * Security cameras continually monitor the entire facility.
   * Monitored alarms on all ingress points.
   * Card access technology tracks and records all door entry and exit transactions.
-  * All visitors are required to be identified with Photographic Identification, escorted by staff at all times.
+  * All visitors are required to be identified with Photographic Identification, and are escorted by staff at all times.
 
 
 
-It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
+It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
 
 **Conditions of Use, Notices, and Revisions**
 
-Use of this website is subject to the Terms & Conditions. Any concerns should be addressed to the privacy officer via the "Client Area" 
+Use of this website is subject to the Terms & Conditions. Any concerns should be addressed to [privacy@migrationexpert.com](mailto:privacy@migrationexpert.com). 
 
 If a Client wishes to review or make corrections to their contact information, they can do so at any time. 
 
@@ -79,4 +80,24 @@ Our Privacy Policy and the Terms & Conditions may change from time to time. Clie
 
 **Links**
 
-This web site contains links to other sites. Please be aware that we, Migration Expert, are not responsible for the accuracy or the privacy practices of other such sites. We encourage our clients to be aware that when they leave our site, they should read the privacy statements of each and every web site that collects identifiable personal information. This privacy statement applies solely to information collected on this web site. 
+This web site contains links to other sites. Please be aware that we, Migration Expert, are not responsible for the accuracy or the privacy practices of other such sites. We encourage our clients to be aware that when they leave our site, they should read the privacy statements of each and every web site that collects identifiable personal information. This privacy statement applies solely to information collected on this web site.
+
+  
+|  |  [Email to a friend  ](https://web.archive.org/member/send_mail_to_friend.asp?refer=)  
+---|---|---  
+  
+
+
+UKLATEST IMMIGRATION NEWS
+
+**[Further changes to the UK immigrations rules for April 2011](https://web.archive.org/visa/uk_immigration_news/2011/feb/0/343/further_changes_to_the_uk_immigrations_rules_for_april_2011)**  
+As part of a shake up of the immigration system, on the 23rd November 2011, the Home Secretary announced significant changes that would be enforced as part of the government’s pledge to cut migrant numbers. 
+
+**[71 job roles to be outlawed under UK Tier 2 Visa](https://web.archive.org/visa/uk_immigration_news/2011/feb/0/342/71_job_roles_to_be_outlawed_under_uk_tier_2_visa)**  
+The Migration Advisory Committee (MAC), the independent body which reports to the government on migration and labour issues, has recommended a new shorter list of occupations eligible under UK Tier 2 of the points-based. According to the recommendation, 71 shortage occupations are set to be removed from UK Tier 2 Visa. 
+
+**[UK closed Student Visa national consultation](https://web.archive.org/visa/uk_immigration_news/2011/feb/0/341/uk_closed_student_visa_national_consultation)**  
+The public consultation on the UK student visa system closed and responses are being considered carefully before final decision, according to UK Immigration Minister Damian Green in his speech to the think tank Reform last week. 
+
+  
+
