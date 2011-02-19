@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christiansonline.com.au privacy policy that was archived on 2010-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100407181224id_/http%3A//www.christiansonline.com.au/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christiansonline.com.au privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219090732id_/http%3A//www.christiansonline.com.au/content/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Christians Online - Australia's Christian Community
 
