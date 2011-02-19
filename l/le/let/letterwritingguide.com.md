@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letterwritingguide.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124174800id_/http%3A//www.letterwritingguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letterwritingguide.com privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219073346id_/http%3A//www.letterwritingguide.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
