@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestrecipes.com.au privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120052233id_/http%3A//www.bestrecipes.com.au/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestrecipes.com.au privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219093739id_/http%3A//www.bestrecipes.com.au/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Best Recipes
 
