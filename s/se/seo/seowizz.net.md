@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seowizz.net privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927065319id_/http%3A//www.seowizz.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seowizz.net privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220235229id_/http%3A//www.seowizz.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
