@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millionaireprotegeclub.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120112205id_/http%3A//www.millionaireprotegeclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionaireprotegeclub.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220035738id_/http%3A//www.millionaireprotegeclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | millionaireprotegeclub.com
 
