@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldfront.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611203725id_/http%3A//www.coldfront.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldfront.net privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220225244id_/http%3A//www.coldfront.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Coldfront News Network - Making Syndication work for you!
 
