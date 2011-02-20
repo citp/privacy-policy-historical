@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatetrafficmachine.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208212628id_/http%3A//www.affiliatetrafficmachine.com/legal/grm-2009-privacy_b.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatetrafficmachine.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220081300id_/http%3A//www.affiliatetrafficmachine.com/legal/grm-2009-privacy_b.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
