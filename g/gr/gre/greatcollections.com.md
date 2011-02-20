@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatcollections.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105122450id_/http%3A//www.greatcollections.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatcollections.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220124952id_/http%3A//greatcollections.com/privacy.php) for the most accurate reproduction.*
 
 # GreatCollections.com - Privacy Policy.
 
