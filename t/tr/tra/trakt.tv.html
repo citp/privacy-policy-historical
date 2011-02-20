@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the trakt.tv privacy policy that was archived on 2010-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101113075825id_/http%3A//trakt.tv/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trakt.tv privacy policy that was archived on 2011-02-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110220170615id_/http%3A//trakt.tv/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<title>trakt - Privacy Policy</title>
+<title>Privacy Policy - trakt</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="shortcut icon" href="http://assets.trakt.tv/images/favicon.png">
 <meta name="keywords" content="trakt.tv,television,tv,xbmc,boxee,plex,apple tv,itunes">
@@ -10,13 +10,13 @@
 <meta name="robots" content="index,follow">
 <meta name="googlebot" content="index,follow">
 <link href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="stylesheet">
-<link href="/styles/formcheck.css" rel="stylesheet">
-<link href="/styles/trakt.css" rel="stylesheet">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/js/mootools-core.js"></script>
-<script src="/js/mootools-more.js"></script>
-<script src="/js/formcheck-en.js"></script>
-<script src="/js/formcheck.js"></script>
-<script src="/js/trakt.js"></script>
+<link href="/styles/formcheck.css?20110215" rel="stylesheet">
+<link href="/styles/trakt.css?20110215" rel="stylesheet">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/mootools/1.2.5/mootools-yui-compressed.js"></script>
+<script src="/js/mootools-more.js?20110215"></script>
+<script src="/js/formcheck-en.js?20110215"></script>
+<script src="/js/formcheck.js?20110215"></script>
+<script src="/js/trakt.js?20110215"></script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -35,19 +35,37 @@
 
 <!-- above header -->
 
+<!-- notification of old plugin -->
 
 <!-- header -->
 <div id="header-wrapper">
 	<div id="header" class="content">
 		<h1><a class="logo" href="/">trakt</a></h1>
 		<ul class="main-pages">
-			<li><a href="/shows" class="">TV Shows</a></li>
-			<li><a href="/charts" class="">Charts</a></li>
+			<li><a href="/calendar" class="">Calendar</a></li>
+			<li><a href="/shows" class="">TV</a></li>
+			<li><a href="/movies" class="">Movies</a></li>
+			<li class="kids">
+				<a href="/charts" class="">Charts</a>
+				<ul>
+					<li><a href="/charts/weekly">Weekly</a></li>
+					<li><a href="/charts/monthly">Monthly</a></li>
+					<li><a href="/charts/yearly">Yearly</a></li>
+					<li><a href="/charts/all">All Time</a></li>
+				</ul>
+			</li>
+			<!--<li><a href="/movies/charts" class="">Movie Charts</a></li>-->
 			<li><a href="/community" class="">Community</a></li>
-			<li><a href="/downloads/xbmc" class="">Downloads</a></li>
+			<li class="kids">
+				<a href="/downloads/xbmc" class="">Downloads</a>
+				<ul>
+					<li><a href="/downloads/xbmc">XBMC</a></li>
+					<li><a href="/downloads/mediaportal">MediaPortal</a></li>
+				</ul>
+			</li>
 		</ul>
 				<ul class="user signed-out">
-			<li><a href="/join" id="header-join">Join trakt</a></li>
+			<li><a href="/join" id="header-join">Join <strong>trakt</strong></a></li>
 			<li><a href="/signin" id="header-signin">Sign In</a></li>
 		</ul>
 			</div>
@@ -60,8 +78,8 @@
 		<div class="other"></div>
 		<div class="search">
 			<form action="/search" method="get">
-				<input type="text" placeholder="search users and shows" id="search-q" name="q" autocomplete="off">
-				<input type="submit" id="search-button" value="">
+				<input type="text" placeholder="search shows, movies, and users" id="search-q" name="q" autocomplete="off">
+				<input type="button" id="search-button" value="">
 			</form>
 		</div>
 	</div>
@@ -187,26 +205,20 @@
 <!-- footer -->
 <div id="footer-wrapper">
 	<div id="footer" class="content">
-		<div class="footer-top">
-			<div class="usenet">
-				<a href="http://www.newshosting.com?a_aid=barnt&amp;a_bid=5ecfe99b&amp;chan=trakt" rel="external">Get free Usenet access for 2 weeks with <strong>Newshosting</strong></a>
-				<img src="https://www.usenetjunction.com/scripts/imp.php?a_aid=barnt&amp;a_bid=5ecfe99b&amp;chan=trakt" width="1" height="1" alt="">
-			</div>
-			<div class="linkage">
-				<a href="http://twitter.com/trakt" rel="external">@trakt</a>
-				<a href="/statistics">Statistics</a>
-				<a href="http://getsatisfaction.com/trakt" rel="external">Support</a>
-			</div>
-		</div>
-		<div class="footer-bottom">
-			<div class="hosting">
-				<a href="http://www.dreamhost.com/r.cgi?600643" rel="external">Get a free domain at <strong>DreamHost</strong> (use promo code: <strong>TRAKT1</strong>)</a>
-			</div>
-			<div class="terms">
-				© 2010 trakt. All rights reserved.
-				<a href="/terms">Terms of Use</a> and <a href="/privacy">Privacy Policy</a>.
-			</div>
-		</div>
+		© 2010-2011 trakt. All rights reserved.
+		<span>♦</span>
+		<!--
+		<a href="/about">About Us</a>,
+		<a href="/blog">Blog</a>,
+		-->
+		<a href="/about">About Us</a>,
+		<a href="/statistics">Statistics</a>,
+		<a href="/api-docs">API</a>,
+		<a href="http://getsatisfaction.com/trakt" rel="external">Support</a>,
+		<a href="/terms">Terms</a>,
+		<a href="/privacy">Privacy</a>
+		<span>♦</span>
+		Follow <a href="http://twitter.com/trakt" rel="external">@trakt</a> on twitter and on <a href="http://www.facebook.com/pages/trakttv/154605157911131?v=wall" rel="external">facebook</a>.
 	</div>
 </div>
 
@@ -227,7 +239,7 @@
 		<fieldset class="overlay">
 			<p>
 				<label for="join-username">Username:</label>
-				<span><input type="text" id="join-username" class="validate['required']" name="username" value="" autocomplete="off"></span>
+				<span><input type="text" id="join-username" class="validate['required','%validateUsername']" name="username" value="" autocomplete="off"></span>
 			</p>
 			<p>
 				<label for="join-email">E-mail:</label>
@@ -253,7 +265,10 @@
 				<span><input type="text" id="signin-username" class="validate['required']" name="username" value=""></span>
 			</p>
 			<p>
-				<label for="signin-password">Password:</label>
+				<label for="signin-password">
+					<a href="/#/forgotpw" id="signin-forgotpw" class="link">forgot?</a>
+					Password:
+				</label>
 				<span><input type="password" id="signin-password" class="validate['required']" name="password" value=""></span>
 			</p>
 			<div class="buttons">
@@ -261,6 +276,46 @@
 				<div class="remember-me">
 					<input type="checkbox" id="signin-remember-me" name="remember_me" value="1" checked="checked"> <label for="signin-remember-me">Remember Me</label>
 				</div>
+			</div>
+		</fieldset>
+	</form>
+</div>
+<!-- forgot pw -->
+<div id="overlay-forgotpw" class="overlay-popup">
+	<div class="title"><span>Forgot</span> password?</div>
+	<form id="forgotpw-form" action="/auth/forgotpw" method="post">
+		<fieldset class="overlay">
+			<div class="notification success" id="forgotpw-sent">Check your email!</div>
+			<div class="notification failure" id="forgotpw-fail">Not found!</div>
+			<p>
+				<label for="forgotpw-email">E-mail:</label>
+				<span><input type="text" id="forgotpw-email" class="validate['required','email']" name="email" value=""></span>
+			</p>
+			<div class="buttons">
+				<a href="/forgotpw" class="validate['submit'] button" id="forgotpw-submit">Send</a>
+			</div>
+		</fieldset>
+	</form>
+</div>
+<!-- reset pw -->
+<div id="overlay-resetpw" class="overlay-popup">
+	<div class="title"><span>Reset</span> password</div>
+	<form id="resetpw-form" action="/auth/resetpw" method="post">
+		<fieldset class="overlay">
+			<p>
+				<label for="resetpw-username">E-mail or username:</label>
+				<span><input type="text" id="resetpw-username" class="validate['required']" name="username" value=""></span>
+			</p>
+			<p>
+				<label for="resetpw-code">Reset code:</label>
+				<span><input type="text" id="resetpw-code" class="validate['required']" name="code" value=""></span>
+			</p>
+			<p>
+				<label for="resetpw-password">New password:</label>
+				<span><input type="password" id="resetpw-password" class="validate['required']" name="password" value=""></span>
+			</p>
+			<div class="buttons">
+				<a href="/resetpw" class="validate['submit'] button" id="resetpw-submit">Send</a>
 			</div>
 		</fieldset>
 	</form>
