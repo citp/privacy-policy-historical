@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trakt.tv privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113075825id_/http%3A//trakt.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trakt.tv privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220170615id_/http%3A//trakt.tv/privacy) for the most accurate reproduction.*
 
-# trakt - Privacy Policy
+# Privacy Policy - trakt
 
 trakt provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of trakt.tv and subdomains ("Sites"). This Privacy Policy applies only to information that you provide to us through these Sites. Our Privacy Policy may be updated from time to time, and we will notify you of any material changes by posting the new Privacy Policy for the Sites at [http://trakt.tv/privacy](https://web.archive.org/privacy). 
 
