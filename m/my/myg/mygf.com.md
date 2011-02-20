@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygf.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722192622id_/http%3A//mygf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygf.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220075055id_/http%3A//mygf.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
