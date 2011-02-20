@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themirch.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220221404id_/http%3A//www.themirch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themirch.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220080948id_/http%3A//www.themirch.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Themirch.com
 
