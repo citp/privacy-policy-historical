@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuteness.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224205001id_/http%3A//www.cuteness.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuteness.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220232211id_/http%3A//www.cuteness.com/static/privacy) for the most accurate reproduction.*
 
 # Cuteness Pet Community - Privacy Policy
 
