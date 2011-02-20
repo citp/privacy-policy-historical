@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elekta.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102021848id_/http%3A//www.elekta.com/corporate_international_privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elekta.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220140641id_/http%3A//www.elekta.com/corporate_international_privacy_statement.php) for the most accurate reproduction.*
 
 # Elekta's Privacy Statement
 
