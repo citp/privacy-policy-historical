@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ntnews.com.au privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003044004id_/http%3A//www.ntnews.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntnews.com.au privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220074309id_/http%3A//www.ntnews.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Northern Territory News
+# Statement regarding privacy policy | NT News | Darwin, Northern Territory, Australia | ntnews.com.au
 
-The **Northern Territory News** (NTN) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
+The **NT News** (NTN) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
 
 We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption, related bodies corporate exemption and the employee exemption in the Privacy Act. 
 
@@ -10,16 +10,15 @@ We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in
 
 We collect personal information when we provide our services to you. Generally we will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information.
 
-  
-We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents. 
+We usually collect personal information directly from you although sometimes we may use agents or service providers to do this for us. We may also acquire lists from other sources, both from other companies and from other public documents.
 
 ## Use of Information 
 
 We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network which you visit and what you click on. As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it. 
 
-We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. 
+We use your information to provide our services to you (which may include the display of personalised content and advertising) to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. 
 
-We may share your information with other companies which are related to Northern Territory News Pty Ltd as well as to News Limited and its related companies, within and outside of Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you. 
+We may share your information with other companies which are related to Nationwide News Pty Ltd as well as to News Limited and its related companies, within and outside of Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you. 
 
 ## Use by Third Parties 
 
@@ -27,7 +26,7 @@ NTN may disclose your information to its service providers and contractors here 
 
 ## Use of Aggregate Data 
 
-We may collect certain non-personal information to optimise our goods and services including our Web pages for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
+We may collect and use certain non-personal information (e.g. the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider) to optimise our goods and services (which may include the display of personalised content and advertising) including our Web pages for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
 
 NTN may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by NTN or provided to others as a summary report for marketing, advertising or research purposes. 
 
@@ -59,7 +58,7 @@ NTN is not responsible for the content or practices of Web sites operated by thi
 
 ## What else you should know about privacy on the Internet 
 
-Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet café. You as an individual are responsible for the security of and access to your own computer. 
+Remember to close your browser when you have finished your user session. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. You as an individual are responsible for the security of and access to your own computer. 
 
 Whenever you voluntarily disclose personal information over the Internet this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your username and passwords and any account information. Please be careful and responsible whenever you are using the internet. 
 
@@ -67,7 +66,6 @@ Whenever you voluntarily disclose personal information over the Internet this in
 
 Please contact our Privacy Officer to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
 
-**Email:**[online@ntn.newsltd.com.au](mailto:online@ntn.newsltd.com.au)   
+**Email:** privacyofficer@ntnews.com.au  
 **Telephone:** +61 8 8944 9900  
-**Mail:** Privacy Officer, P.O. Box 1300, Darwin, NT 0820  
-
+**Mail:** Privacy Officer, P.O. Box 1300, Darwin, NT 0820, AUSTRALIA
