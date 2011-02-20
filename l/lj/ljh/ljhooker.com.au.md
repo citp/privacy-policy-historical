@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210140843id_/http%3A//www.ljhooker.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ljhooker.com.au privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221000634id_/http%3A//www.ljhooker.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LJ Hooker
 
@@ -78,7 +78,7 @@ You can obtain further information about privacy in Australia and the protection
  Please contact us if you wish to discuss any privacy issues, or if you do not wish to receive any future communications from us at the details below:
 
 ADDRESS:      
-Robert Fitt  
+Matthew Montano  
 Hooker Corporation Limited   
 International Operations, 191 Botany Road, Alexandria NSW 2015.
 
