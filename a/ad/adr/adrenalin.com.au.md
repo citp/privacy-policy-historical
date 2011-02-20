@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225052831id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220041538id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
 
 # Adrenalin
 
