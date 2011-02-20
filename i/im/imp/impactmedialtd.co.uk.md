@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the impactmedialtd.co.uk privacy policy that was archived on 2010-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100910060937id_/http%3A//www.impactmedia.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactmedialtd.co.uk privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220233411id_/http%3A//www.impactmedia.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
-# Impact Media Privacy Policy
+# Privacy Policy
 
 Access to the Information Collected 
 
