@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birth.com.au privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229031207id_/http%3A//birth.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birth.com.au privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220185151id_/http%3A//www.birth.com.au/Privacy-Policy) for the most accurate reproduction.*
 
 # Pregnancy | Pregnant | Birth | Maternity
 
