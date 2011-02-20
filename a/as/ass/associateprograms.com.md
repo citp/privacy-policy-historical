@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the associateprograms.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121130546id_/http%3A//www.associateprograms.com/pages/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the associateprograms.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220214728id_/http%3A//www.associateprograms.com/pages/Privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy - Associate Program's Affiliate Marketing Programs, Training & Reviews
 
 If information is being gathered about you, I believe you have a right to know.
 
