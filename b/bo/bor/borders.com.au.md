@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the borders.com.au privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913034029id_/http%3A//www.borders.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borders.com.au privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221234153id_/http%3A//www.borders.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Borders
 
