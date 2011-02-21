@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mebank.com.au privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212042155id_/http%3A//mebank.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mebank.com.au privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221034057id_/http%3A//www.mebank.com.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ME Bank
 
-> **How to contact us** ^
+**How to contact us** ^
 
 Management and staff are aware of the need, and are trained, to exercise the utmost discretion in handling information obtained from customers in the provision of our services.
 
