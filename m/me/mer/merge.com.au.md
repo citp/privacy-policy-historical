@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merge.com.au privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224084638id_/http%3A//www.merge.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merge.com.au privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221234832id_/http%3A//www.merge.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Merge
 
@@ -51,3 +51,5 @@ Click here for instructions to be removed from Service Provider's mailing lists.
 Privacy Policy Coordinator Specialist Media Pty Ltd. PO Box 6690 Gold Coast Mail Centre Qld 9726 Australia
 
 Merge magazine is wholly owned by Specialist Press Pty Ltd.
+
+[](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.merge.com.au%2Fprivacy&t=Privacy+Policy "Share this on facebook")    [](http://twitter.com/home?status=http%3A%2F%2Fwww.merge.com.au%2Fprivacy "Share this on twitter")
