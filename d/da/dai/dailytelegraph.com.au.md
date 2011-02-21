@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailytelegraph.com.au privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206155358id_/http%3A//www.dailytelegraph.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytelegraph.com.au privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221213749id_/http%3A//www.dailytelegraph.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | How the Daily Telegraph is keeping your details private and secure | The Daily Telegraph
 
