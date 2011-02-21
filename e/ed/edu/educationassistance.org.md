@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationassistance.org privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206103456id_/http%3A//educationassistance.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationassistance.org privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221092102id_/http%3A//educationassistance.org/privacy.php) for the most accurate reproduction.*
 
 # EducationAssistance.org - Privacy Policy
 
