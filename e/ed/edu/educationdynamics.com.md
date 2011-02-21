@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the educationdynamics.com privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021004137id_/http%3A//www.educationdynamics.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationdynamics.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221035904id_/http%3A//www.educationdynamics.com/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# EducationDynamics, LLC Privacy Policy
+# Privacy Policy - EducationDynamics
 
-**EducationDynamics, LLC**
+**EducationDynamics, LLC  
+www.educationdynamics.com  
+Privacy Policy  
+**
 
-**www.educationdynamics.com**
-
-Privacy Policy
-
-Thank you for visiting [www.educationdynamics.com](http://www.educationdynamics.com/) (hereinafter referred to as “the Site”), which is owned and/or operated, in whole or in part, by EducationDynamics, LLC, a Delaware limited liability company (hereinafter referred to as “EducationDynamics,” “us,” “our,” or “we”), and reviewing our Privacy Policy, effective June 30, 2008. EducationDynamics is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. 
+**Thank you for visiting[ _www.educationdynamics.com_](http://www.educationdynamics.com/) (hereinafter referred to as “the Site”), which is owned and/or operated, in whole or in part, by EducationDynamics, LLC, a Delaware limited liability company (hereinafter referred to as “EducationDynamics,” “us,” “our,” or “we”), and reviewing our Privacy Policy, effective June 30, 2008. EducationDynamics is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. **
 
 **Overview**
 
@@ -80,9 +79,7 @@ EducationDynamics will contact you (by email, phone, and/or mail) if you complet
 
 Recognizing the global nature of the Internet, you agree to comply with all applicable local laws and rules regarding online conduct and privacy, as well as content. Specifically, but not as a limitation, you agree to comply with all applicable laws regarding transmission of technical and personal data exported from the United States or the country in which you reside.
 
-_Spam_
-
-. We do not tolerate spam. You are not licensed to add us or any user to your mail (email or physical mail) list without his or her affirmative consent. You are not licensed to use spam in promoting the Site. 
+_Spam_. We do not tolerate spam. You are not licensed to add us or any user to your mail (email or physical mail) list without his or her affirmative consent. You are not licensed to use spam in promoting the Site. 
 
 **What security precautions are in place to protect the loss, misuse, or alteration of my information?**
 
