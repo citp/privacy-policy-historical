@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightmachinery.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221083722id_/http%3A//www.lightmachinery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightmachinery.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221145208id_/http%3A//www.lightmachinery.com/privacy.html) for the most accurate reproduction.*
 
 # LightMachinery - GSI Lumonics excimer lasers for marking, drilling, material processing and scientific application
 
