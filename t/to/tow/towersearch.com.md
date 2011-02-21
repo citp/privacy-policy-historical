@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the towersearch.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212052518id_/http%3A//towersearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the towersearch.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221020846id_/http%3A//www.towersearch.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@ It is our commitment to maintain the principles of integrity and trust with resp
 We are responsible for all personal information under our control, even if it is not in our possession. We have developed policies and procedures to deal with the proper collection, use and disclosure of personal information. We have appointed the following person to answer any questions or to handle requests for access to personal information or complaints: 
 
 Name: **Nicolas Gremion**  
-Phone: **307-459-0945**
+Phone: **775-461-5141**
 
 ### **Purposes**
 
