@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agora.org privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830010237id_/http%3A//www.k12.com/agora/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agora.org privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222004818id_/http%3A//www.k12.com/agora/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
