@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/global-privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastercard.com.au privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221084802id_/http%3A//www.mastercard.com/au/personal/en/general/global-privacy-notice.html) for the most accurate reproduction.*
 
 # MasterCard Global Privacy Policy - Australia | MasterCard® Australia
 
@@ -92,11 +92,11 @@ You may have certain rights regarding the personal information we maintain about
 
 You may choose not to provide personal information to MasterCard by refraining from conducting a payment card transaction using a payment card. You also may refrain from submitting information directly to us.
 
-You may elect not to have a unique cookie identification number assigned to your computer to avoid aggregation and analysis of data collected on our websites. If you would like to opt-out, [_click here_](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/web-analytics-opt-out.html). Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all our website features. 
+You may elect not to have a unique cookie identification number assigned to your computer to avoid aggregation and analysis of data collected on our websites. If you would like to opt-out, [_click here_](https://web.archive.org/web/20110221084802id_/http%3A//www.mastercard.com/au/personal/en/general/web-analytics-opt-out.html). Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all our website features. 
 
 You may opt-out of certain uses of information we collect about you by automated means when you visit other websites. Specifically, we may use service providers to post content on third party websites. They may use cookies when they serve ads to you. You may direct our service providers not to use cookies to serve ads to you by clicking [_Cookie Opt-out_](http://www.networkadvertising.org/managing/opt_out.asp).
 
-You can at any time tell us not to send you marketing communications by e-mail by clicking on the unsubscribe link within the marketing e-mails you receive from us or by contacting us as indicated below. You also may opt-out of receiving marketing e-mails from MasterCard by [_clicking here_](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/email-opt-out.html). You can stop receiving marketing postal mail from MasterCard by following the opt-out instructions that may be included in a particular promotion. You also can opt-out of receiving promotional postal mail from us by contacting us as indicated below. You may receive from other entities promotional postal mail that contains a MasterCard, Maestro or Cirrus logo. Please contact those entities to exercise your choices regarding these communications. As indicated above, we may anonymize personal information to perform data analyses. To opt-out, [_click here_](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/data-analytics-opt-out.html).
+You can at any time tell us not to send you marketing communications by e-mail by clicking on the unsubscribe link within the marketing e-mails you receive from us or by contacting us as indicated below. You also may opt-out of receiving marketing e-mails from MasterCard by [_clicking here_](https://web.archive.org/web/20110221084802id_/http%3A//www.mastercard.com/au/personal/en/general/email-opt-out.html). You can stop receiving marketing postal mail from MasterCard by following the opt-out instructions that may be included in a particular promotion. You also can opt-out of receiving promotional postal mail from us by contacting us as indicated below. You may receive from other entities promotional postal mail that contains a MasterCard, Maestro or Cirrus logo. Please contact those entities to exercise your choices regarding these communications. As indicated above, we may anonymize personal information to perform data analyses. To opt-out, [_click here_](https://web.archive.org/web/20110221084802id_/http%3A//www.mastercard.com/au/personal/en/general/data-analytics-opt-out.html).
 
 If your employer provides your personal information to MasterCard, you may have certain choices with respect to MasterCard's use or disclosure of the information. Please contact your employer to learn about and amend your choices.
 
@@ -114,7 +114,7 @@ _Back to top_
 
 We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Global Privacy Policy. 
 
-If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. MasterCard is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of personal data transferred from the European Economic Area or Switzerland to the U.S. [ _Click here_](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/safe-harbor-privacy-policy.html) to view our Safe Harbor Privacy Policy.
+If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. MasterCard is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of personal data transferred from the European Economic Area or Switzerland to the U.S. [ _Click here_](https://web.archive.org/web/20110221084802id_/http%3A//www.mastercard.com/au/personal/en/general/safe-harbor-privacy-policy.html) to view our Safe Harbor Privacy Policy.
 
 _Back to top_
 
@@ -138,7 +138,7 @@ _Back to top_
 
 **How To Contact Us**
 
-If you have any questions or comments about this Global Privacy Policy, or if you would like us to update information we have about you or your preferences, please [_click here_](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/contact-us.html). You also may write to:
+If you have any questions or comments about this Global Privacy Policy, or if you would like us to update information we have about you or your preferences, please [_click here_](https://web.archive.org/web/20110221084802id_/http%3A//www.mastercard.com/au/personal/en/general/contact-us.html). You also may write to:
 
 Global Privacy & Data Usage Officer  
 MasterCard Worldwide  
@@ -146,7 +146,7 @@ MasterCard Worldwide
 Purchase, New York 10577   
 USA
 
-If you are located in the European Economic Area or Switzerland, MasterCard Europe sprl may be the entity responsible for the processing of your personal information. To exercise your rights of access, rectifiations, blocking, or deletion or to object to the processing of your personal information, contact us by [clicking here](https://web.archive.org/web/20101202152114id_/http%3A//www.mastercard.com/au/personal/en/general/contact-us.html) or writing to us at:
+If you are located in the European Economic Area or Switzerland, MasterCard Europe sprl may be the entity responsible for the processing of your personal information. To exercise your rights of access, rectifiations, blocking, or deletion or to object to the processing of your personal information, contact us by [clicking here](https://web.archive.org/web/20110221084802id_/http%3A//www.mastercard.com/au/personal/en/general/contact-us.html) or writing to us at:
 
 Global Privacy & Data Usage Officer  
 MasterCard Europe sprl  
