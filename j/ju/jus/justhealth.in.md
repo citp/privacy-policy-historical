@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justhealth.in privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225210240id_/http%3A//justhealth.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justhealth.in privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221080659id_/http%3A//www.justhealth.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
