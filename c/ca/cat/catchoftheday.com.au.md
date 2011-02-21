@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223213848id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221100457id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.*
 
 # Catch Of The Day - One Deal, Everyday, Midday
 
