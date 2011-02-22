@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumtree.ie privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121094235id_/http%3A//www.gumtree.ie/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumtree.ie privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222114348id_/http%3A//www.gumtree.ie/privacy_policy.html) for the most accurate reproduction.*
 
 # Jobs in Dublin, accommodation, rent in Dublin, dating
 
