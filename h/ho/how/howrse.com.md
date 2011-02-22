@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howrse.com privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820131139id_/http%3A//www.howrse.com/footer/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howrse.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222174608id_/http%3A//www.howrse.com/footer/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy policy
 
