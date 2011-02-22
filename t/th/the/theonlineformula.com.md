@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theonlineformula.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224082437id_/http%3A//www.theonlineformula.com/policies/tof-privacy-agreement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonlineformula.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222155525id_/http%3A//www.theonlineformula.com/policies/tof-privacy-agreement.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
