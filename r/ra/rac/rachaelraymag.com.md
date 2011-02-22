@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rachaelraymag.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007184309id_/http%3A//www.rachaelraymag.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachaelraymag.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222224125id_/http%3A//www.rachaelraymag.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Every Day with Rachael Ray
 
