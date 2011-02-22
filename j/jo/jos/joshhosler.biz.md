@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joshhosler.biz privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219134408id_/http%3A//joshhosler.biz/NumberOneInHistory/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshhosler.biz privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222080812id_/http%3A//joshhosler.biz/NumberOneInHistory/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
