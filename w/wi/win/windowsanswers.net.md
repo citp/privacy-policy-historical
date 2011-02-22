@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windowsanswers.net privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224013610id_/http%3A//www.windowsanswers.net/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsanswers.net privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222192002id_/http%3A//www.windowsanswers.net/pages/privacy) for the most accurate reproduction.*
 
 # WindowsAnswers.net - Privacy Policy
 
@@ -12,7 +12,7 @@ Any of the information we collect from you may be used in one of the following w
 
 
 
-WindowsAnswers.net may release personal information at times when it is necessary to enforce our Terms of Use, or other agreements (i.e.: to defend our intellectual property rights). The Terms of Use may be found [here](https://web.archive.org/web/20101224013610id_/http%3A//www.windowsanswers.net/pages/termsofuse). WindowsAnswers.net may release or utilize your personal information when required by law, or when WindowsAnswers.net ascertains that relevant statutes and laws would require this release.
+WindowsAnswers.net may release personal information at times when it is necessary to enforce our Terms of Use, or other agreements (i.e.: to defend our intellectual property rights). The Terms of Use may be found [here](https://web.archive.org/web/20110222192002id_/http%3A//www.windowsanswers.net/pages/termsofuse). WindowsAnswers.net may release or utilize your personal information when required by law, or when WindowsAnswers.net ascertains that relevant statutes and laws would require this release.
 
 ## Are external links provided?
 
@@ -38,7 +38,7 @@ We are in compliance with the requirements of COPPA (Children's Online Privacy P
 
 ## Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20101224013610id_/http%3A//www.windowsanswers.net/pages/termsofuse "Terms of Use Documentation") documentation establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20110222192002id_/http%3A//www.windowsanswers.net/pages/termsofuse "Terms of Use Documentation") documentation establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 ## Your Consent
 
@@ -50,4 +50,4 @@ This policy was last updated October 18th, 2010. If our privacy policy is change
 
 ## Contacting Us
 
-If there are any questions regarding this privacy policy you may contact WindowsAnswers.net through our [Contact Us](https://web.archive.org/web/20101224013610id_/http%3A//www.windowsanswers.net/pages/contactus "WindowsAnswers.net Support") page.
+If there are any questions regarding this privacy policy you may contact WindowsAnswers.net through our [Contact Us](https://web.archive.org/web/20110222192002id_/http%3A//www.windowsanswers.net/pages/contact-us "WindowsAnswers.net Support") page.
