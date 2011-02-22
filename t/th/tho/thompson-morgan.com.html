@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the thompson-morgan.com privacy policy that was archived on 2010-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122165655id_/http%3A//www.thompson-morgan.com/security-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thompson-morgan.com privacy policy that was archived on 2011-02-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110223001736id_/http%3A//www.thompson-morgan.com/security-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head id="head">
-    
+    <!-- Yahoo -->
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     
     <title>Thompson &amp; Morgan - Security &amp; Privacy Policy</title> 
 <meta name="title" content="Thompson &amp; Morgan - Security &amp; Privacy Policy"> 
 <meta name="description" content="We are committed to respecting your privacy and want to ensure that we protect your personal information. To learn more, please read this Privacy Policy. This Privacy Policy explains how we collect and use information to provide an enhanced online experience. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. You can visit this website without disclosing any personally identifiable information about yourself however by visiting our Site, you accept the practices described in this Policy...."> 
 
+ <meta name="ROBOTS" content="NOODP">
  <meta name="ROBOTS" content="NOODP">
     
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -19,14 +20,17 @@
     	
       	<link id="mainCssFile2" rel="stylesheet" type="text/css" href="/medias/sys_tandm/8796118253598.css">
     	
-      	<link id="mainCssFile3" rel="stylesheet" type="text/css" href="/medias/sys_tandm/8796118319134.css">
+      	<link id="mainCssFile3" rel="stylesheet" type="text/css" href="/medias/sys_tandm/celum_assets/8796118319134.css">
     	
       	<link id="magicZoomCssFile" rel="stylesheet" type="text/css" href="/medias/sys_tandm/8796118515742.css">
     	
       	<link id="popUpMessagesCssFile" rel="stylesheet" type="text/css" href="/medias/sys_tandm/8796118581278.css">
     	
-      	<link id="tenantSpecificCss" rel="stylesheet" type="text/css" href="/medias/sys_tandm/8796108750878.css">
+      	<link id="tenantSpecificCss" rel="stylesheet" type="text/css" href="/medias/sys_tandm/8802059026462.css">
     	
+
+      <!-- SLI Link tag renderer script, if applicable -->
+      <link rel="stylesheet" href="http://assets.resultspage.com/autosuggest/autosuggest.css" media="screen" type="text/css">
 	
    
     
@@ -51,11 +55,16 @@
     
 	     <script type="text/javascript" src="/eXoResources/QL-resources/common/js/jquery-form.min.js"></script>
     
-    
+      
+      <!-- Yahoo conversion scripts -->
+      
+      
+      <!-- Bing conversion scripts -->
+      
+      
   </head>
 
   <body style="!height: 100%;">
-
     
     
 	<div class="Default" id="UIPortalApplication" style="!height: 100%;">
@@ -99,7 +108,8 @@
   <div class="VIEW-PORTAL">
     <div id="UIPortal">
 	    <div class="UIRowContainer">
-      	<div class="UIPageBody UIComponent" id="UIPageBody">
+      	<!--googleoff: snippet-->
+<div class="UIPageBody UIComponent" id="UIPageBody">
   <div class="META-DATA-BLOCK" style="display: none">
     <div class="id">UIPageBody</div>
     <div class="title">Portal Page</div>
@@ -141,14 +151,15 @@
   <div class="VIEW-PAGEBODY">
 		
 
-<div class="UIPage" id="UIPage-573547738">
+<div class="UIPage" id="UIPage-137385576">
 	<div class="META-DATA-BLOCK" style="display: none">
-    <div class="id">573547738</div>
+    <div class="id">137385576</div>
     <div class="title">Portal Page</div>
     <div class="description">The page body of the portal</div>
   </div>
 	<div class="VIEW-PAGE">
 		<div id="UIPage">
+		<!--googleon: snippet-->
 	    <div class="UIRowContainer">
 	      
 
@@ -258,7 +269,7 @@ display:block
 			
 				
 				
-					<li><a href="/myaccount">Register</a>&nbsp;&nbsp;&nbsp;|</li>
+					<li><a href="/myaccount">Create an Account</a>&nbsp;&nbsp;&nbsp;|</li>
 				
 			
 			<li><a href="/mailinglist">Newsletter sign up</a>&nbsp;&nbsp;&nbsp;|</li>
@@ -397,21 +408,38 @@ function trimSpacesInSearchTerm(){
 }
 
 
- 
+$(document).ready(function(){
+	   sli_init();
+});
+
 </script>
 
 
 <div class="search-portlet">
-<form name="basic_search" action="/dispatcher" id="search" method="get" onsubmit="javascript:trimSpacesInSearchTerm();">
+
+
+<form name="basic_search" action="http://search.thompson-morgan.com/search" id="search" method="get" onsubmit="javascript:trimSpacesInSearchTerm();">
+
+
+
 	<fieldset>
 		<div id="siteSearch">
 			<label>Search</label>
-			<input id="headerSearchInput" name="search" class="text-input ui-autocomplete-input" type="text" onclick="if (this.value === 'Enter plant name or catalogue number') { this.value=''}" value="Enter plant name or catalogue number" maxlength="50" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+
+
+			<input id="sli_search_1" name="w" class="text-input" size="20" type="text" onclick="if (this.value === 'Enter plant name or catalogue number') { this.value=''}" value="Enter plant name or catalogue number" maxlength="50">
+
+
+
 			<input type="submit" value="Search" class="button search" style="background-image: url(/medias/sys_tandm/8796108292126.gif);
 ">
+
+			<a class="popularSearches" href="http://search.thompson-morgan.com/search">Popular Searches</a>
+
 		</div>
 	</fieldset>
 </form>
+
 </div>
 
 	      </div>
@@ -552,27 +580,35 @@ jQuery(document).ready(
 			
 			
 			
-				<div class="sub iePosition" style="opacity: 0;">
+				<div class="sub iePosition">
 					<div class="dropDownShadow dropDownShadowFix">
 						<div id="topLeftShadow2" class="topLeftShadow" style="
 															background:url(/medias/sys_tandm/8796115697694.png
 )">
 						</div>
-						<div id="middleLeftShadow2" class="middleLeftShadow" style="background: url(&quot;/medias/sys_tandm/8796115632158.png&quot;) repeat-y; height: 362px;">
+						<div id="middleLeftShadow2" class="middleLeftShadow" style="
+															background:url(/medias/sys_tandm/8796115632158.png
+) repeat-y">
 						</div>
-						<div id="bottomLeftShadow2" class="bottomLeftShadow" style="background: url(&quot;/medias/sys_tandm/8796115435550.png&quot;); top: 346px;">
+						<div id="bottomLeftShadow2" class="bottomLeftShadow" style="
+															background:url(/medias/sys_tandm/8796115435550.png
+)">
 						</div>
-						<div id="bottomMiddleShadow2" class="bottomMiddleShadow" style="background: url(&quot;/medias/sys_tandm/8796115501086.png&quot;) repeat-x; width: 766px; top: 346px; left: 12px;">
+						<div id="bottomMiddleShadow2" class="bottomMiddleShadow" style="
+															background:url(/medias/sys_tandm/8796115501086.png
+) repeat-x">
 						</div>
-						<div id="bottomRightShadow2" class="bottomRightShadow" style="background: url(&quot;/medias/sys_tandm/8796115566622.png&quot;); top: 346px; left: 778px;">
+						<div id="bottomRightShadow2" class="bottomRightShadow" style="
+															background:url(/medias/sys_tandm/8796115566622.png
+)">
 						</div>
 					</div>
 				</div>
-				<div class="sub" id="sub2" style="opacity: 0; width: 804px;">
+				<div class="sub" id="sub2">
 				
 					
 					
-					<ul class="floatLeft" style="height: 337px;">
+					<ul class="floatLeft">
 						
 							
 							
@@ -585,11 +621,12 @@ jQuery(document).ready(
 							
 							
 							<li class="main">
-								<h2>
+								 <div class="menuHeader2Class">
 									<a href="/flowers/flower-plants" class="subCategory">
 										Flower Plants
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -599,7 +636,7 @@ jQuery(document).ready(
 								
 								<li class="normal">
 									<a href="/flowers/flower-plants/annual-bedding-plants">
-										Annual Bedding Plants
+										Bedding Plants
 									</a>
 								</li>
 								
@@ -729,7 +766,7 @@ jQuery(document).ready(
 								
 								
 								
-									</ul><ul class="floatLeft" style="height: 337px;">
+									</ul><ul class="floatLeft">
 									
 									
 								
@@ -769,11 +806,12 @@ jQuery(document).ready(
 							
 							
 							<li class="main">
-								<h2>
+								 <div class="menuHeader2Class">
 									<a href="/flowers/flower-bulbs" class="subCategory">
 										Flower Bulbs
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -891,7 +929,7 @@ jQuery(document).ready(
 								
 								
 								
-									</ul><ul class="floatLeft" style="height: 337px;">
+									</ul><ul class="floatLeft">
 									
 									
 								
@@ -920,11 +958,12 @@ jQuery(document).ready(
 							
 							
 							<li class="main">
-								<h2>
+								 <div class="menuHeader2Class">
 									<a href="/flowers/flower-seeds" class="subCategory">
 										Flower Seeds
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -934,7 +973,7 @@ jQuery(document).ready(
 								
 								<li class="normal">
 									<a href="/flowers/flower-seeds/annual-bedding-plant-seeds">
-										Annual Bedding Plant Seeds
+										Bedding Plant Seeds
 									</a>
 								</li>
 								
@@ -1053,7 +1092,7 @@ jQuery(document).ready(
 								
 								
 								
-									</ul><ul class="floatLeft" style="height: 337px;">
+									</ul><ul class="floatLeft">
 									
 									
 								
@@ -1133,27 +1172,35 @@ jQuery(document).ready(
 			
 			
 			
-				<div class="sub iePosition" style="opacity: 0;">
+				<div class="sub iePosition">
 					<div class="dropDownShadow dropDownShadowFix">
 						<div id="topLeftShadow3" class="topLeftShadow" style="
 															background:url(/medias/sys_tandm/8796115697694.png
 )">
 						</div>
-						<div id="middleLeftShadow3" class="middleLeftShadow" style="background: url(&quot;/medias/sys_tandm/8796115632158.png&quot;) repeat-y; height: 390px;">
+						<div id="middleLeftShadow3" class="middleLeftShadow" style="
+															background:url(/medias/sys_tandm/8796115632158.png
+) repeat-y">
 						</div>
-						<div id="bottomLeftShadow3" class="bottomLeftShadow" style="background: url(&quot;/medias/sys_tandm/8796115435550.png&quot;); top: 374px;">
+						<div id="bottomLeftShadow3" class="bottomLeftShadow" style="
+															background:url(/medias/sys_tandm/8796115435550.png
+)">
 						</div>
-						<div id="bottomMiddleShadow3" class="bottomMiddleShadow" style="background: url(&quot;/medias/sys_tandm/8796115501086.png&quot;) repeat-x; width: 565px; top: 374px; left: 12px;">
+						<div id="bottomMiddleShadow3" class="bottomMiddleShadow" style="
+															background:url(/medias/sys_tandm/8796115501086.png
+) repeat-x">
 						</div>
-						<div id="bottomRightShadow3" class="bottomRightShadow" style="background: url(&quot;/medias/sys_tandm/8796115566622.png&quot;); top: 374px; left: 577px;">
+						<div id="bottomRightShadow3" class="bottomRightShadow" style="
+															background:url(/medias/sys_tandm/8796115566622.png
+)">
 						</div>
 					</div>
 				</div>
-				<div class="sub" id="sub3" style="opacity: 0; width: 603px;">
+				<div class="sub" id="sub3">
 				
 					
 					
-					<ul class="floatLeft" style="height: 365px;">
+					<ul class="floatLeft">
 						
 							
 							
@@ -1166,11 +1213,12 @@ jQuery(document).ready(
 							
 							
 							<li class="main">
-								<h2>
+								 <div class="menuHeader2Class">
 									<a href="/vegetables/vegetable-plants" class="subCategory">
 										Vegetable Plants
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -1280,11 +1328,12 @@ jQuery(document).ready(
 							
 							
 							<li class="main">
-								<h2>
+								 <div class="menuHeader2Class">
 									<a href="/vegetables/other-vegetables" class="subCategory">
 										Other Vegetables
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -1325,7 +1374,7 @@ jQuery(document).ready(
 								
 								
 								
-									</ul><ul class="floatLeft" style="height: 365px;">
+									</ul><ul class="floatLeft">
 									
 									
 								
@@ -1343,17 +1392,6 @@ jQuery(document).ready(
 								<li class="normal">
 									<a href="/vegetables/other-vegetables/onions-garlic-sets">
 										Onions &amp; Garlic Sets
-									</a>
-								</li>
-								
-							
-								
-								
-								
-								
-								<li class="normal">
-									<a href="/vegetables/other-vegetables/potatoes">
-										Potatoes
 									</a>
 								</li>
 								
@@ -1376,11 +1414,105 @@ jQuery(document).ready(
 							
 							
 							<li class="main">
-								<h2>
+								 <div class="menuHeader2Class">
+									<a href="/vegetables/potatoes" class="subCategory">
+										Potatoes
+									</a>
+								</div>	
+								 
+							</li>
+							
+							
+								
+								
+								
+								
+								<li class="normal">
+									<a href="/vegetables/potatoes/first-early">
+										First Early
+									</a>
+								</li>
+								
+							
+								
+								
+								
+								
+								<li class="normal">
+									<a href="/vegetables/potatoes/second-cropping-christmas">
+										Second Cropping (Christmas)
+									</a>
+								</li>
+								
+							
+								
+								
+								
+								
+								<li class="normal">
+									<a href="/vegetables/potatoes/mini-tubers">
+										Mini Tubers
+									</a>
+								</li>
+								
+							
+								
+								
+								
+								
+								<li class="normal">
+									<a href="/vegetables/potatoes/main-crop">
+										Maincrop
+									</a>
+								</li>
+								
+							
+								
+								
+								
+								
+								<li class="normal">
+									<a href="/vegetables/potatoes/sweet-potatoes">
+										Sweet Potatoes
+									</a>
+								</li>
+								
+							
+								
+								
+								
+								
+								<li class="normal">
+									<a href="/vegetables/potatoes/second-early">
+										Second Early
+									</a>
+								</li>
+								
+							
+							
+							
+								
+							
+						
+							
+							
+								
+							
+							
+							
+							
+							
+								
+							
+							
+							
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/vegetables/vegetable-seeds" class="subCategory">
 										Vegetable Seeds
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -1421,6 +1553,10 @@ jQuery(document).ready(
 								
 								
 								
+									</ul><ul class="floatLeft">
+									
+									
+								
 								<li class="normal">
 									<a href="/vegetables/vegetable-seeds/childrens-vegetable-seeds">
 										Children's Vegetable Seeds
@@ -1455,7 +1591,7 @@ jQuery(document).ready(
 								
 								
 								<li class="normal">
-									<a href="/vegetables/vegetable-seeds/organic-vegetable-seeds">
+									<a href="/organic-vegetable-seeds">
 										Organic Seeds
 									</a>
 								</li>
@@ -1486,10 +1622,6 @@ jQuery(document).ready(
 								
 								
 								
-								
-									</ul><ul class="floatLeft" style="height: 365px;">
-									
-									
 								
 								<li class="normal">
 									<a href="/vegetables/vegetable-seeds/salad-seeds">
@@ -1578,27 +1710,35 @@ jQuery(document).ready(
 			
 			
 			
-				<div class="sub iePosition" style="opacity: 0;">
+				<div class="sub iePosition">
 					<div class="dropDownShadow dropDownShadowFix">
 						<div id="topLeftShadow4" class="topLeftShadow" style="
 															background:url(/medias/sys_tandm/8796115697694.png
 )">
 						</div>
-						<div id="middleLeftShadow4" class="middleLeftShadow" style="background: url(&quot;/medias/sys_tandm/8796115632158.png&quot;) repeat-y; height: 364px;">
+						<div id="middleLeftShadow4" class="middleLeftShadow" style="
+															background:url(/medias/sys_tandm/8796115632158.png
+) repeat-y">
 						</div>
-						<div id="bottomLeftShadow4" class="bottomLeftShadow" style="background: url(&quot;/medias/sys_tandm/8796115435550.png&quot;); top: 348px;">
+						<div id="bottomLeftShadow4" class="bottomLeftShadow" style="
+															background:url(/medias/sys_tandm/8796115435550.png
+)">
 						</div>
-						<div id="bottomMiddleShadow4" class="bottomMiddleShadow" style="background: url(&quot;/medias/sys_tandm/8796115501086.png&quot;) repeat-x; width: 364px; top: 348px; left: 12px;">
+						<div id="bottomMiddleShadow4" class="bottomMiddleShadow" style="
+															background:url(/medias/sys_tandm/8796115501086.png
+) repeat-x">
 						</div>
-						<div id="bottomRightShadow4" class="bottomRightShadow" style="background: url(&quot;/medias/sys_tandm/8796115566622.png&quot;); top: 348px; left: 376px;">
+						<div id="bottomRightShadow4" class="bottomRightShadow" style="
+															background:url(/medias/sys_tandm/8796115566622.png
+)">
 						</div>
 					</div>
 				</div>
-				<div class="sub" id="sub4" style="opacity: 0; width: 402px;">
+				<div class="sub" id="sub4">
 				
 					
 					
-					<ul class="floatLeft" style="height: 339px;">
+					<ul class="floatLeft">
 						
 							
 							
@@ -1611,11 +1751,12 @@ jQuery(document).ready(
 							
 							
 							<li class="main">
-								<h2>
+								 <div class="menuHeader2Class">
 									<a href="/fruit/fruit-plants" class="subCategory">
 										Fruit Plants
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -1736,11 +1877,12 @@ jQuery(document).ready(
 							
 							
 							<li class="main">
-								<h2>
+								 <div class="menuHeader2Class">
 									<a href="/fruit/fruit-trees" class="subCategory">
 										Fruit Trees
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -1770,7 +1912,7 @@ jQuery(document).ready(
 								
 								
 								
-									</ul><ul class="floatLeft" style="height: 339px;">
+									</ul><ul class="floatLeft">
 									
 									
 								
@@ -1832,11 +1974,12 @@ jQuery(document).ready(
 							
 							
 							<li class="main">
-								<h2>
+								 <div class="menuHeader2Class">
 									<a href="/fruit/fruit-seeds" class="subCategory">
 										Fruit Seeds
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -1898,27 +2041,35 @@ jQuery(document).ready(
 			
 			
 			
-				<div class="sub iePosition" style="opacity: 0;">
+				<div class="sub iePosition">
 					<div class="dropDownShadow dropDownShadowFix">
 						<div id="topLeftShadow5" class="topLeftShadow" style="
 															background:url(/medias/sys_tandm/8796115697694.png
 )">
 						</div>
-						<div id="middleLeftShadow5" class="middleLeftShadow" style="background: url(&quot;/medias/sys_tandm/8796115632158.png&quot;) repeat-y; height: 278px;">
+						<div id="middleLeftShadow5" class="middleLeftShadow" style="
+															background:url(/medias/sys_tandm/8796115632158.png
+) repeat-y">
 						</div>
-						<div id="bottomLeftShadow5" class="bottomLeftShadow" style="background: url(&quot;/medias/sys_tandm/8796115435550.png&quot;); top: 262px;">
+						<div id="bottomLeftShadow5" class="bottomLeftShadow" style="
+															background:url(/medias/sys_tandm/8796115435550.png
+)">
 						</div>
-						<div id="bottomMiddleShadow5" class="bottomMiddleShadow" style="background: url(&quot;/medias/sys_tandm/8796115501086.png&quot;) repeat-x; width: 163px; top: 262px; left: 12px;">
+						<div id="bottomMiddleShadow5" class="bottomMiddleShadow" style="
+															background:url(/medias/sys_tandm/8796115501086.png
+) repeat-x">
 						</div>
-						<div id="bottomRightShadow5" class="bottomRightShadow" style="background: url(&quot;/medias/sys_tandm/8796115566622.png&quot;); top: 262px; left: 175px;">
+						<div id="bottomRightShadow5" class="bottomRightShadow" style="
+															background:url(/medias/sys_tandm/8796115566622.png
+)">
 						</div>
 					</div>
 				</div>
-				<div class="sub" id="sub5" style="opacity: 0; width: 201px;">
+				<div class="sub" id="sub5">
 				
 					
 					
-					<ul class="floatLeft" style="height: 253px;">
+					<ul class="floatLeft">
 						
 							
 								<!-- There is no subacategories for first category so tamplate is for oneColumn -->
@@ -1933,12 +2084,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/trees-shrubs-ornamentals/bamboos" class="subCategory">
 										Bamboos
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -1960,12 +2112,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/trees-shrubs-ornamentals/cacti" class="subCategory">
 										Cacti
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -1987,12 +2140,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/trees-shrubs-ornamentals/climbers" class="subCategory">
 										Climbers
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2014,12 +2168,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/trees-shrubs-ornamentals/grasses" class="subCategory">
 										Grasses
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2041,12 +2196,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/trees-shrubs-ornamentals/herbaceous-foliage" class="subCategory">
 										Herbaceous Foliage
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2068,12 +2224,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/trees-shrubs-ornamentals/ornamental-vegetables" class="subCategory">
 										Ornamental Vegetables
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2095,12 +2252,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/trees-shrubs-ornamentals/roses" class="subCategory">
 										Roses
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2122,12 +2280,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/trees-shrubs-ornamentals/shrubs" class="subCategory">
 										Shrubs
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2149,12 +2308,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/trees-shrubs-ornamentals/trees" class="subCategory">
 										Trees
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2206,27 +2366,35 @@ jQuery(document).ready(
 			
 			
 			
-				<div class="sub iePosition" style="opacity: 0;">
+				<div class="sub iePosition">
 					<div class="dropDownShadow dropDownShadowFix">
 						<div id="topLeftShadow6" class="topLeftShadow" style="
 															background:url(/medias/sys_tandm/8796115697694.png
 )">
 						</div>
-						<div id="middleLeftShadow6" class="middleLeftShadow" style="background: url(&quot;/medias/sys_tandm/8796115632158.png&quot;) repeat-y; height: 359px;">
+						<div id="middleLeftShadow6" class="middleLeftShadow" style="
+															background:url(/medias/sys_tandm/8796115632158.png
+) repeat-y">
 						</div>
-						<div id="bottomLeftShadow6" class="bottomLeftShadow" style="background: url(&quot;/medias/sys_tandm/8796115435550.png&quot;); top: 343px;">
+						<div id="bottomLeftShadow6" class="bottomLeftShadow" style="
+															background:url(/medias/sys_tandm/8796115435550.png
+)">
 						</div>
-						<div id="bottomMiddleShadow6" class="bottomMiddleShadow" style="background: url(&quot;/medias/sys_tandm/8796115501086.png&quot;) repeat-x; width: 163px; top: 343px; left: 12px;">
+						<div id="bottomMiddleShadow6" class="bottomMiddleShadow" style="
+															background:url(/medias/sys_tandm/8796115501086.png
+) repeat-x">
 						</div>
-						<div id="bottomRightShadow6" class="bottomRightShadow" style="background: url(&quot;/medias/sys_tandm/8796115566622.png&quot;); top: 343px; left: 175px;">
+						<div id="bottomRightShadow6" class="bottomRightShadow" style="
+															background:url(/medias/sys_tandm/8796115566622.png
+)">
 						</div>
 					</div>
 				</div>
-				<div class="sub" id="sub6" style="opacity: 0; width: 201px;">
+				<div class="sub" id="sub6">
 				
 					
 					
-					<ul class="floatLeft" style="height: 334px;">
+					<ul class="floatLeft">
 						
 							
 								<!-- There is no subacategories for first category so tamplate is for oneColumn -->
@@ -2241,12 +2409,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/garden-supplies/baskets-containers" class="subCategory">
 										Baskets &amp; Containers
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2268,12 +2437,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/garden-supplies/books-and-dvds" class="subCategory">
 										Books &amp; DVDs
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2295,12 +2465,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/garden-supplies/cropping-storing-harvesting" class="subCategory">
 										Cropping, Storing &amp; Harvesting
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2322,12 +2493,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/garden-supplies/fertilisers" class="subCategory">
 										Fertilisers
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2349,12 +2521,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/garden-supplies/greenhouses-equipment" class="subCategory">
 										Greenhouses &amp; Equipment
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2376,12 +2549,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/garden-supplies/pest-and-disease-control" class="subCategory">
 										Pest &amp; Disease Control
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2403,12 +2577,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/garden-supplies/plant-protection-support" class="subCategory">
 										Plant Protection &amp; Support
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2430,12 +2605,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/garden-supplies/seed-sowing-and-propagation" class="subCategory">
 										Seed Sowing &amp; Propagation
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2457,12 +2633,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/garden-supplies/tools" class="subCategory">
 										Tools
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2484,12 +2661,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/garden-supplies/vouchers" class="subCategory">
 										Vouchers
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2511,12 +2689,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/garden-supplies/watering-irrigation" class="subCategory">
 										Watering &amp; Irrigation
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2538,12 +2717,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/garden-supplies/other" class="subCategory">
 										Other
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2595,27 +2775,35 @@ jQuery(document).ready(
 			
 			
 			
-				<div class="sub iePosition" style="opacity: 0;">
+				<div class="sub iePosition">
 					<div class="dropDownShadow dropDownShadowFix">
 						<div id="topLeftShadow7" class="topLeftShadow" style="
 															background:url(/medias/sys_tandm/8796115697694.png
 )">
 						</div>
-						<div id="middleLeftShadow7" class="middleLeftShadow" style="background: url(&quot;/medias/sys_tandm/8796115632158.png&quot;) repeat-y; height: 245px;">
+						<div id="middleLeftShadow7" class="middleLeftShadow" style="
+															background:url(/medias/sys_tandm/8796115632158.png
+) repeat-y">
 						</div>
-						<div id="bottomLeftShadow7" class="bottomLeftShadow" style="background: url(&quot;/medias/sys_tandm/8796115435550.png&quot;); top: 229px;">
+						<div id="bottomLeftShadow7" class="bottomLeftShadow" style="
+															background:url(/medias/sys_tandm/8796115435550.png
+)">
 						</div>
-						<div id="bottomMiddleShadow7" class="bottomMiddleShadow" style="background: url(&quot;/medias/sys_tandm/8796115501086.png&quot;) repeat-x; width: 163px; top: 229px; left: 12px;">
+						<div id="bottomMiddleShadow7" class="bottomMiddleShadow" style="
+															background:url(/medias/sys_tandm/8796115501086.png
+) repeat-x">
 						</div>
-						<div id="bottomRightShadow7" class="bottomRightShadow" style="background: url(&quot;/medias/sys_tandm/8796115566622.png&quot;); top: 229px; left: 175px;">
+						<div id="bottomRightShadow7" class="bottomRightShadow" style="
+															background:url(/medias/sys_tandm/8796115566622.png
+)">
 						</div>
 					</div>
 				</div>
-				<div class="sub" id="sub7" style="opacity: 0; width: 201px;">
+				<div class="sub" id="sub7">
 				
 					
 					
-					<ul class="floatLeft" style="height: 220px;">
+					<ul class="floatLeft">
 						
 							
 								<!-- There is no subacategories for first category so tamplate is for oneColumn -->
@@ -2630,12 +2818,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/gardening-for-beginners" class="subCategory">
 										Gardening For Beginners
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2657,12 +2846,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/how-we-grow-and-send-your-plants" class="subCategory">
 										How We Grow and Send Your Plants
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2684,12 +2874,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/interesting-articles" class="subCategory">
 										Interesting Articles
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2711,12 +2902,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/in-the-garden-this-month" class="subCategory">
 										In The Garden This Month
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2738,12 +2930,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/news" class="subCategory">
 										News
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2765,12 +2958,13 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/planting-and-growing" class="subCategory">
 										Planting &amp; Growing
 									</a>
-								</h2>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2792,12 +2986,41 @@ jQuery(document).ready(
 							
 							
 							
-							<li class="main oneColumnNavigation">
-								<h2>
+							<li class="main">
+								 <div class="menuHeader2Class">
 									<a href="/seed-sowing-guide" class="subCategory">
 										Seed Sowing Guide
 									</a>
-								</h2>
+								</div>	
+								 
+							</li>
+							
+							
+							
+							
+						
+							
+								<!-- There is no subacategories for first category so tamplate is for oneColumn -->
+								
+							
+							
+								
+							
+							
+							
+							
+								
+							
+							
+							
+							
+							<li class="main">
+								 <div class="menuHeader2Class">
+									<a href="/how-to-garden" class="subCategory">
+										How to Garden
+									</a>
+								</div>	
+								 
 							</li>
 							
 							
@@ -2867,6 +3090,7 @@ jQuery(document).ready(
  <div id="breadcrumbs" class="breadcrumb-Security &amp; Privacy Policy">
 
 
+		
 	
 	
 	
@@ -2941,7 +3165,7 @@ jQuery(document).ready(
 			<li><a href="/security-privacy-policy">Security &amp; Privacy Policy</a></li>
 			<li><a href="/terms-of-business">Terms of Business</a></li>
 			<li><a href="/seed-stockists">Seed Stockists</a></li>
-			<li><a href="/catalogue">Catalogue Requests</a></li>
+			<li><a href="catalogue">Catalogue Requests</a></li>
 			<li><a href="/affiliate-programme">Affiliate Programme</a></li>
 		</ul>
                 <ul>
@@ -2976,7 +3200,7 @@ jQuery(document).ready(
 
 <div id="callandcopy">
 	<h3>call us on 0844 248 5383</h3>
-	<p>Copyright © Thompson &amp; Morgan (UK) Ltd, 2004-2010. All rights reserved.</p>
+	<p>Copyright © Thompson &amp; Morgan (UK) Ltd, 2004-2011. All rights reserved.</p>
 </div>
 </div>
 
@@ -3005,7 +3229,7 @@ jQuery(document).ready(
 	      <div class="PORTLET-FRAGMENT" style="width: null;height: null;">
 	       
 
-<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-16540445-1");pageTracker._setDomainName("www.thompson-morgan.com");pageTracker._trackPageview("Content");} catch(err) {}</script>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-16540445-1");pageTracker._setDomainName("www.thompson-morgan.com");pageTracker._trackPageview(window.location.pathname+"@Content");} catch(err) {}</script>
 
 	      </div>
 	    </div>  
@@ -3054,14 +3278,14 @@ jQuery(document).ready(
 </div>
 
 
-  <div class="UIPopupWindow UIDragObject" id="_1236147996" style="width: 550px; display: none;">
+  <div class="UIPopupWindow UIDragObject" id="_768871998" style="width: 550px; display: none;">
   	<div class="ExoMessageDecorator">
 		  <div class="TopLeftCornerDecorator">
 		    <div class="TopRightCornerDecorator">
 		      <div class="TopCenterDecorator">
 		        <div class="OverflowContainer">
 			        <div class="PopupTitleIcon"><span></span></div>
-			        <div class="CloseButton" title="Close Window" onclick="javascript:ajaxGet('/public/QLOnline/content?portal:componentId=_1236147996&amp;portal:action=Close&amp;ajaxRequest=true')"><span></span></div>
+			        <div class="CloseButton" title="Close Window" onclick="javascript:ajaxGet('/public/QLOnline/content?portal:componentId=_768871998&amp;portal:action=Close&amp;ajaxRequest=true')"><span></span></div>
 			        <div class="PopupTitle">eXo Messages</div>
 			      </div>
 		      </div>
@@ -3154,7 +3378,7 @@ jQuery(document).ready(
 									    <table class="ActionContainer">
 										    <tbody><tr>
 										    	<td>
-											      <div onclick="javascript:ajaxGet('/public/QLOnline/content?portal:componentId=_1236147996&amp;portal:action=Close&amp;ajaxRequest=true')" class="ActionButton LightBlueStyle">
+											      <div onclick="javascript:ajaxGet('/public/QLOnline/content?portal:componentId=_768871998&amp;portal:action=Close&amp;ajaxRequest=true')" class="ActionButton LightBlueStyle">
 											        <div class="ButtonLeft">
 											          <div class="ButtonRight">
 											            <div class="ButtonMiddle">
@@ -3190,6 +3414,9 @@ jQuery(document).ready(
     
 
     
+      <!-- SLI script tag renderer script, if applicable -->
+      <script language="javascript" type="text/javascript" src="http://search.thompson-morgan.com/autosuggest/searchbox_suggest_v1.js"></script>
+
   
 
-<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
+</body></html>
