@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koinlocal6.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223123513id_/http%3A//www.koinlocal6.com/Protected/NewVision/legal/koin_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koinlocal6.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222152119id_/http%3A//www.koinlocal6.com/Protected/NewVision/legal/koin_privacy.html) for the most accurate reproduction.*
 
 # 
 
