@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payworldindia.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219134009id_/http%3A//www.payworldindia.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payworldindia.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222063148id_/http%3A//payworldindia.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # PayWorld :: EVDS, Electronic Voucher Distribution System - Privacy Policy
 
