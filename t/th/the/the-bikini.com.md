@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223121715id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222142926id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Extreme micro and mini bikinis. The-Bikini.com sexy micro bikinis, thongs and strings for women and men
 
@@ -116,4 +116,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20101223121715id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20110222142926id_/http%3A//www.the-bikini.com/contact/). 
