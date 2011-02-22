@@ -1,58 +1,58 @@
-> *The following text is extracted and transformed from the iglobul.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922092326id_/http%3A//www.iglobul.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iglobul.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222071247id_/http%3A//support.iglobul.com/entries/337157-privacy-policy) for the most accurate reproduction.*
 
-# iGlobul : Privacy Policy
+# iGlobul Support : Privacy Policy
 
-|    
----  
-Privacy Policy  
-We appreciate the trust you place in iGlobul, and we are committed to respecting your privacy and the security of your personal information. Our privacy policy describes the information we collect and how we use it.   
-Information we collect  
-To best serve your needs, we will, from time to time, collect certain information from you. The information we collect may include, without limitation, your name, address, telephone number, email address, corporate information, testimonial, credit card information and date of birth. Personal information will be collected at various times including, without limitation, when you:  
-Register as an independent Citizen  
-|  | Order or reorder products by on our website  
----|---  
-| Write an e-mail or letter to iGlobul  
-| Submit a testimonial to iGlobul  
-| Participate in a marketing survey, promotion or event  
-| Contact our customer service department  
-| Navigate the website  
-| Register on our website  
-| Order products and services from our partner stores  
-Using Information We Collect  
-We want to provide you with the best possible internet experience and fulfill your orders exactly as you/you've requested. Additionally, we want to make your experience as an iGlobul Citizen a pleasant one. In order to do this, we collect information that allows us to, without limitation:  
-Process your order  
-|  | Match you up with the Customer Manager that is the best possible fit for you  
----|---  
-| Provide the products and services you request  
-| Partner with stores where you like to shop  
-| Send you promotional offers  
-| Identify your product and service preferences  
-| Customize our communications to you   
-| Provide information concerning products you have purchased  
-| Improve our product selection and customer service  
-| Share your positive product testimonials with others  
-| Include your name, stories, testimonials and images in iGlobul publications and literature or other media, on iGlobul operated websites, at iGlobul events, on iGlobul CDs and DVDs, in any other iGlobul communications to our Independent Citizens or others, or as otherwise deemed useful or appropriate by iGlobul.  
-Information We Share with others and your Privacy Rights  
-It is not a practice of iGlobul to sell, rent, or trade personal information. In order to service our preferred customers, we will share your order information and limited personal information with the iGlobul Independent Citizen assigned as your Customer Manager. iGlobul/iGlobul's Independent Citizens are obligated to treat the information you supply with confidentiality.  
-We share certain limited information with the partner stores where you shop. Additionally, we contract with other companies to provide certain services, including without limitation credit card processing, IT consulting, printing, shipping, internet services, E-commerce, public and media relations. We make every effort to provide these companies with only the information they need to perform their services. Generally, such companies are prohibited from sharing this information with anyone other than iGlobul or its Independent Citizens.  
-On rare occasions, we may disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.   
-Cookies  
-iGlobul uses cookies on our websites. A cookie is a small data file that is stored by your web browser on your computer. Cookies allow us to enhance, personalize and track your online experience, so that the information you receive is more relevant to you. This technology will allow you to move faster through our website once the information is in our database since you do not have to re-enter the same information or log in each time you enter the site.   
-How We Use Email  
-When you provide us your email address, you may receive emails from us or from one of our Independent Citizens. E-mails may be sent in order to assist us in processing your order, respond to a request, provide customer service or inform you about products, services or promotional materials. It is our intent to send promotional e-mails only to those persons who wish to receive them.   
-Updating or Reviewing Your Information  
-You may review or update your or Preferred Customer information (name, address, telephone number, e-mail address, credit card number, etc.) under Your Account.  
-Security  
-iGlobul is committed to protecting the privacy of your personal information. It is our intent to protect against the loss, misuse or alteration of information that we have collected from you. We use a variety of current technologies and processes for protection of information we collect, and we limit the information we provide to third parties.
+**Our commitment to privacy**
 
-When you make a purchase or submit a document on our website, your transactional information is transmitted in a safe, encrypted format.   
-  
-Privacy of children on our Web Site  
-Our Web site is not intended for use by anyone under the age of 18. We do not knowingly collect personal information from persons under the age of 18.   
-Policy Changes  
-From time to time, we may use customer information for unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post these changes in our website. We encourage you to review our privacy policy periodically.   
-Your Consent  
-By using iGlobul facilities and continuing to order products and services, you consent to the collection and use of your personal information as detailed in this privacy policy.   
-Contact Us  
-We always welcome your questions and feedback. For privacy-related issues, please contact us at [info@iglobul.com](mailto:info@iglobul.com).   
- 
+**Your privacy is important to us.** To better protect this privacy we provide notices explaining our online information practices and choices you can make. To make this notice easy to find, we make it available it to you on our home page.
+
+iGlobul knows that you care how information about you is used, and we appreciate your trust that we will do so with care and sensitivity.
+
+This Privacy Policy (“Privacy Policy” or “Policy”) covers the use of the website located at [www.iGlobul.com](http://www.iglobul.com/) and the services provided by iGlobul (sometimes herein “iGlobul,” “IGB”, “IGB Technologies Pvt. Ltd.” “We” or “Us”), including how we treat personal information that we collect and receive. This Policy does not apply to the practices of third parties that iGlobul does not own or control, or individuals that we do not employ or manage.
+
+#### Information Collection and How it is Used
+
+iGlobul will not sell or disclose your name or email address to third parties without your explicit consent, except as specified in this Privacy Policy.
+
+iGlobul collects personal information when you register to use our services or to post content on our site. At registration you are asked for a username, password and a valid email address. iGlobul automatically receives and records information on our server logs from your browser, including your IP address, cookies and the pages you request. This data is only used in the aggregate.
+
+iGlobul uses information for the following general purposes:
+
+  * products and services provisioning,
+  * billing,
+  * identification and authentication,
+  * services improvement,
+  * contact,
+  * research and anonymous reporting
+  * to resolve disputes
+  * IP addresses are automatically reported by your browser each time you view a webpage.
+
+
+
+iGlobul will send you a welcome/confirmation email when you sign up for our services. Confirmation of this email is required for using iGlobul. iGlobul will send you service-related announcements on rare occasions when it is necessary to do so. You may not opt-out of service-related communications, which are not promotional in nature.
+
+**Our commitment to data security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Our internal security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our users.
+
+**Corrections to your information**
+
+You can access and update all your personally identifiable information that we collect online by logging in our account by providing user id and secure password. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information, as we do take reasonable steps to verify your identity before granting access or making corrections.
+
+#### Cookies
+
+A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website’s computers and stored on your computer’s hard drive. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use iGlobul products or services that require you to “sign in and you may not be able to take full advantage of the iGlobul service. iGlobul uses its own cookies for a number of purposes, including to: Access your information when you “sign in”; keep track of preferences you specify while you are using iGlobul’s services; display the most appropriate advertising banners, based on your interests and activity on iGlobul; estimate and report iGlobul’s total audience size and traffic; conduct research to improve iGlobul’s content and services.
+
+iGlobul cookies do not collect personal information, and iGlobul does not combine information collected through cookies with other personal information to tell us who you are or what your username or email address is.
+
+#### Information Sharing and Disclosure
+
+When you post a message, your iGlobul username is visible to other users. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. iGlobul may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the iGlobul Terms of Service. iGlobul may disclose personally identifiable information as our sole discretion believes necessary or appropriate in connection with an investigation of fraud, intellectual property infringement, piracy, or other unlawful activity. In such events, iGlobul may disclose name, street address, city, state, zip code, country, phone number, email address and company name. iGlobul may share aggregated demographic information with business partners.
+
+iGlobul may employ other companies and people to perform tasks on our behalf and needs to share your information with them to provide products and services to you. Examples include but are not limited to fulfilling orders, handling billing disputes and collections, analyzing data, providing marketing assistance and providing customer service.
+
+iGlobul will not rent, sell or share personal information about you with nonaffiliated parties except as specified in this Privacy Policy to provide products or services you have requested or when iGlobul has your permission. It may be necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the  iGlobul [Terms & Privacy](http://support.iglobul.com/forums/282017-terms-privacy "Terms & Privacy"), as specified in this Privacy Policy or as otherwise required by law. In some cases, iGlobul may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. iGlobul will transfer information about you if we are acquired by or merged with another company. In this event, we will notify you by email or by putting a prominent notice on the iGlobul website before information about you is transferred and becomes subject to a different privacy policy.
+
+As part of the buying and selling process, you may obtain another iGlobul user’s email address, shipping address and/or other information. This information should only be used for iGlobul-related communications or for iGlobul -facilitated transactions. iGlobul has not granted you a license to use the information for unsolicited commercial messages. Without limiting the foregoing, without express consent from the user, you are not licensed to add any iGlobul user to your email or physical mail list.
+
+Without limiting the above, in an effort to respect your privacy and iGlobul’s ability to keep the community free from bad actors, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order, legal process, or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to protect iGlobul’s rights, prevent imminent physical harm or financial loss, or to report suspected illegal activity.
