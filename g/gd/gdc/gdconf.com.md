@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gdconf.com privacy policy that was archived on 2010-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100624022755id_/http%3A//www.ubmtechnology.com/united-business-media-llc-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gdconf.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222041541id_/http%3A//www.ubmtechnology.com/united-business-media-llc-privacy-statement) for the most accurate reproduction.*
 
 # UBMTechnology.com » United Business Media LLC Privacy Notice Highlights
 
