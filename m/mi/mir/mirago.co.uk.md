@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirago.co.uk privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106000010id_/http%3A//uk.mirago.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirago.co.uk privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222030243id_/http%3A//www.mirago.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Mirago - Privacy
 
