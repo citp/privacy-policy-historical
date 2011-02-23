@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markacutt.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926151456id_/http%3A//www.markacutt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markacutt.com privacy policy that was archived on 2011-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110223100901id_/http%3A//www.markacutt.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
