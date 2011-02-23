@@ -1,27 +1,27 @@
-<!--The following is the downloaded HTML source of the mozo.com.au privacy policy that was archived on 2010-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101126092944id_/http%3A//mozo.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mozo.com.au privacy policy that was archived on 2011-02-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110223130252id_/http%3A//mozo.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
 	<meta name="keywords" content="Mozo, money info zone, information, bank reviews"><meta name="description" content="Find products by provider with Mozo. Read reviews about providers, or write your own review about provider."><title>Mozo - Compare Credit Cards, Home Loans, Term Deposits and more</title>
 	<meta name="robots" content="noydir">
 	<meta name="robots" content="noodp">
-
+	
 	<script type="text/javascript">
 			var logged_in = false;
 			var searchType = '';
 		//var providerNames; // = [];
 	</script>
 
-	<script src="/javascripts/modernizr-1.1.min.js?1290755449" type="text/javascript"></script>
+	<script src="/javascripts/modernizr-1.1.min.js?1298442172" type="text/javascript"></script>
 
 	  
-	<script src="/javascripts/base_6900.js?1290755449" type="text/javascript"></script>	
+	<script src="/javascripts/base_7769.js?1298442172" type="text/javascript"></script>	
 
-	<script src="/javascripts/fabtabulous.js?1290755449" type="text/javascript"></script>
+	<script src="/javascripts/fabtabulous.js?1298442172" type="text/javascript"></script>
 	
 	
-	<link href="/stylesheets/base_6900.css" media="screen" rel="Stylesheet" type="text/css">
+	<link href="/stylesheets/base_7768.css" media="screen" rel="Stylesheet" type="text/css">
 	
 	<link href="/stylesheets/base_secondary_1361.css" media="print" rel="Stylesheet" type="text/css">
 	<link rel="shortcut icon" href="/favicon.icon" type="image/vnd.microsoft.icon"> 
@@ -35,10 +35,11 @@
 	<!--[if IE 8]>
 	<link rel="stylesheet" media="screen" href="/stylesheets/mozo-ie8.css" />
 	<![endif]-->
-	<link href="/stylesheets/radius.css?1290755449" media="screen" rel="stylesheet" type="text/css">
+	<link href="/stylesheets/radius.css?1298442172" media="screen" rel="stylesheet" type="text/css">
 	<!--<link rel="stylesheet" media="screen" href="/stylesheets/radius.css" />-->
 
 	<script type="text/javascript">
+		var domainContext = 'mozo';
 		var wallet = [['credit_cards', [], []], ['debit_cards', [], []], ['personal_loans', [], []], ['car_loans', [], []], ['home_loans', [], []], ['savings_accounts', [], []], ['bank_accounts', [], []], ['term_deposits', [], []], ['car_insurance', [], []]];	
 		var wallet_height = 500;
 		
@@ -46,26 +47,22 @@
 		var walletPanes = ['credit_cards_pane','debit_cards_pane','personal_loans_pane','car_loans_pane','home_loans_pane','savings_accounts_pane','bank_accounts_pane','term_deposits_pane','car_insurance_pane'];
 	</script>
 
-		
 	
 	
 		
-		
-</head>
+	</head>
 
 <body>
-		
-	<div id="blanket" style="display:none;">
-		
-	</div>
-	
+
+	<!--<div id="blanket" style="display:none;"></div>-->
 	<div id="xhr_result" style="display:none;background:transparent;"></div>
 	<script type="text/javascript">
 	function submitFeedback() {
 		var validater = new Validation('new_feedback_form', {onSubmit:false});
 		var valid = validater.validate();
+		var params = Form.serialize('new_feedback_form');
 		if (valid) {
-			new Ajax.Updater('form_feedback','/feedback-items', {asynchronous:true, evalScripts:true, parameters:Form.serialize('new_feedback_form')}); return false; 
+			new Ajax.Updater('form_feedback','/feedback-items', {asynchronous:true, evalScripts:true, parameters:params}); return false; 
 		}
 		return false;
 	}
@@ -74,17 +71,16 @@
 <div id="feedback_pop">
 		
 	<div id="feedback_form_wrapper" style="position:absolute; left:-449px;">
-
 		<div id="feedback_popout">
 			<a onclick="popoutFeedback(); return false;" href="#" class="pop-out-button">
-				<!-- <img src="/images/feedback-popout.png" width="27" height="110" alt="feedback pop-out"/> -->
-				</a>
+				&nbsp;
+			</a>
 		</div>
 
 		<div id="feedback_popin" style="display: none">
 			<a onclick="popinFeedback(); return false;" href="#" class="pop-in-button">
-				<!-- <img src="/images/feedback-popin.png" width="27" height="110" alt="feedback pop-in"/> -->	
-				</a>
+				&nbsp;
+			</a>
 		</div>
 				
 		<div id="feedback_form" class="grey-form-box-narrow" style="position: absolute; z-index: 9999; padding-right: 20px">
@@ -96,6 +92,7 @@
 
 <form action="/feedback-items" class="new_feedback_item" id="new_feedback_form" method="post"><fieldset>
 	<legend>Tell us what you think*</legend>
+	<input type="hidden" name="feedback_item[domain_context]" value="mozo.com.au">
 	<ul>
 		<li><label for="feedback_item_feedback_type">Type of feedback</label>
 			<select id="feedback_item_feedback_type" name="feedback_item[feedback_type]"><option value="Comment">Comment</option>
@@ -131,7 +128,221 @@
 
 
 	
+	
+
+<div id="log-in-wrapper" style="display:none;">
 		
+	
+			
+	<div id="log-in-popup" class="round-15" style="text-align:left; margin-left:auto; margin-right:auto;">
+
+	<div id="popup-header">
+
+				<div class="right">
+		<a href="#" onclick="showForgotPassword();">forgot password?</a> &nbsp; | &nbsp; 
+		<a href="#" onclick="cancelLoginJQM('');">cancel</a>
+		</div>
+				<a href="#" onclick="showSignUp();">sign up</a> &nbsp; | &nbsp; 
+		<a href="#" onclick="showLogin();">login</a> 
+
+		<div id="login-not-matching" style="display:none" class="validation-notice"></div>
+		<div id="password-not-matching" style="display:none" class="validation-notice"></div>
+
+	</div>
+
+	<form method="post" action="http://mozo.com.au/privacy/" id="form_post" name="form_post">
+		<div id="post-action-data"></div>	
+	</form>
+
+	<form method="post" action="" id="form_login" name="form_login">	
+
+	<div id="notice" style="display:none;">
+		<div id="title"></div>
+		<div id="message"></div>
+	</div> 
+
+	<div id="log-in-form">
+
+		<fieldset style="margin-bottom:10px;">
+			<legend>Log in if you're already a Mozo member</legend>
+			<ul class="round-6">
+				<li id="username" style="display:none">
+					<label for="signin_username">Username</label>
+					<input class="required validate-alphanum" id="signin_username" maxlength="16" name="signin_username" tabindex="1" type="text">
+				</li>		
+				<li>
+					<label for="signin_login">Email address</label>
+					<input class="required validate-email" id="signin_login" name="signin_login" tabindex="2" type="text">
+				</li>
+				<li>
+					<label for="signin_password">Password</label>
+					<input class="required validate-alphanum" id="signin_password" name="signin_password" tabindex="3" type="password">
+				</li>
+				<!--
+				<li>
+					<label for="user_remember_me" class="checkbox-label">Remember me</label>
+					<input id="user_remember_me" name="user[remember_me]" type="checkbox" value="1" />
+				</li>
+				-->
+				<li class="clearfix">
+					<label> &nbsp; </label>
+					<a class="button btn-answers" onclick="signMeInPopup();return false;" href="#"><span>Sign in</span></a>	
+				</li>
+			</ul>
+			<input type="hidden" name="referer" value="">
+		</fieldset>
+
+		<h2>Or log in with:</h2>
+		
+	</div>
+
+	<div id="sign-up-form" style="display:none;">
+			<fieldset style="margin-bottom:10px;">
+				<legend>Why sign up?</legend>
+				<p>So you can post questions and answers, earn points, cast your vote, write a review as well as opt in for Mozo's newsletter wisdom and moneytastic competitions.</p>
+				<ul class="round-6">
+					<li>
+						<label for="username">Username</label>
+						<input class="required validate-alphanum" id="username" maxlength="16" name="username" tabindex="1" type="text">
+					</li>
+					<li>
+						<label for="login">Email address</label>
+						<input class="required validate-email" id="login" name="login" tabindex="2" type="text">
+					</li>
+					<li>
+						<label for="login_confirmation">Confirm email address</label>
+						<input class="required validate-email" id="login_confirmation" name="login_confirmation" tabindex="3" type="text">
+						<div id="login_confirmation_match" class="validation-advice" style="display:none;">Emails do not match.</div>
+					</li>
+					<li>
+						<label for="password">Password</label>
+						<input class="required validate-alphanum" id="password" name="password" tabindex="4" type="password">
+					</li>
+					<li>
+						<label for="password_confirmation">Confirm Password</label>
+						<input class="required validate-alphanum" id="password_confirmation" name="password_confirmation" tabindex="5" type="password">
+						<div id="password_confirmation_match" class="validation-advice" style="display:none;">Passwords do not match.</div>
+					</li>
+
+					<li class="clearfix">
+						<div class="left" style="width:30px;">
+							<input type="checkbox" name="opt_in_1" id="opt_in_1" tabindex="6" checked="">
+						</div>
+						<div class="left">
+							<label for="opt_in_1" style="width:300px">Yes, I'd like to receive emails from Mozo with news, alerts, surveys and special offers.</label>
+						</div>
+					</li>
+
+					<li class="clearfix">
+						<label> &nbsp; </label>
+						<input type="hidden" name="previous-page" value="">
+						<a class="button btn-answers" style="margin-left:0px;" href="#" onclick="signMeUpPopup();return false;">
+						<span>Join us</span>
+						</a>
+
+					</li>
+
+					<li class="clearfix fineprint">
+						Mozo takes your privacy seriously and operates within a strict <a href="#" onclick="showPrivacy();return false;">Use of Personal Information Policy</a>. Note that we will not sell your personal details to anyone else, and you can unsubscribe at any time.
+					</li>
+
+				</ul>
+
+
+			</fieldset>
+
+			<h2>Or sign up with:</h2>
+
+	</div>
+
+	<div id="forgot-password-form" style="display:none;">
+
+		<fieldset style="margin-bottom:10px;">  
+			<legend>Forgot your password?</legend>
+			<ul class="round-6">
+				<li>
+					<label for="login">Your Mozo login <em>(hint: it's an email address)</em></label>
+					<input id="password_login" name="password_login" type="text">
+		    </li>  
+		    <li class="clearfix">
+					<a class="button btn-answers" style="margin-left:0px;" href="#" onclick="forgotPassword();return false;">
+						<span>New password</span>
+					</a>
+				</li>
+		  </ul>  
+		</fieldset>  
+
+		<h2>Or sign up with:</h2>
+
+	</div>
+
+	
+
+		
+  <div id="fb-root"></div>
+
+	
+	
+  <script src="http://connect.facebook.net/en_US/all.js"></script>
+  <script>				
+	  FB.init({ 
+	     appId:'146204865437448', cookie:true, 
+	     status:true, xfbml:true
+	  });
+  </script>
+
+	<fb:login-button perms="email" onlogin="fbAuthLogin();"></fb:login-button>
+
+	<!--
+
+	<a href="/login-popup/oauth/twitter" target="_blank">Twitter</a>
+	
+	<a href="/login-popup/oauth/google" target="_blank">Google</a>
+	
+	-->
+	
+	
+	
+	</form>
+
+	<div id="log_in_status"></div>
+
+	<div id="policy-popup" style="display:none">
+		
+
+
+
+
+
+<h1>Use of Personal Information Policy</h1>
+<p>Mozo takes your privacy seriously, and strictly adheres to the National Privacy Principles. We will only collect personal information that is necessary for us to provide you with the functions that we offer on the Site.</p>
+<p>You are able to gain access to the personal information that we hold about you at any time by accessing your “My Mozo” page or by calling the Mozo head office.</p>
+<p>We collect your personal information to enable you to use certain features of the site which are only available by registering (which requires you to provide your email address).</p>
+<p>We collect personal information from you on the following areas of the website. All of these are optional usages of our website:</p>
+<ul class="gen">
+<li>When you register with us and use the features available once you are registered.</li>
+<li>When you opt in to receive news, alerts, surveys and special offers from us.</li>
+<li>When you provide us with feedback or complete one of our user surveys.</li>
+<li>When you complete inquiry referral forms that facilitate third party providers, selected by you, subsequently contacting you.</li>
+<li>Mozo will collect personal information only by lawful and fair means and not in an unreasonably intrusive way.</li>
+</ul>
+<p>For further details of how we collect, use, disclose and store your personal information, please refer to our <a href="/privacy">Privacy Policy</a>. If you have any questions, please contact us at <a href="mailto:privacy@mozo.com.au">privacy@mozo.com.au</a>.</p>
+
+		<p class="close"><a href="#" onclick="hidePrivacy();return false;">close</a></p>
+	</div>
+	
+	</div>
+
+</div>
+
+
+	
+	
+	
+
+	
+	
+	
 	<div id="background">
 		<img src="/images/logo-mozo-print.jpg" id="print-logo" width="150" height="42" alt="logo for printing">
 		
@@ -148,7 +359,7 @@
 						<li><a id="nav-zone-out" class="blob-nav" href="http://mozo.com.au/zone-out" title="Zone out">
 								Zone out
 						</a></li>
-						<li><a id="nav-more-on-mozo" class="blob-nav" href="http://mozo.com.au/more-on-mozo" title="More on Mozo">
+						<li><a id="nav-more-on-mozo" class="blob-nav" href="http://mozo.com.au/more-on-mozo" title="More on mozo">
 								More on Mozo
 						</a></li>
 						<li><a id="nav-tips-and-tools" class="blob-nav" href="http://mozo.com.au/tips-and-tools" title="Tips and tools">
@@ -158,10 +369,18 @@
 								Rate and review
 						</a></li>
 						<li id="logged_in">
-			<p id="join-us-text">Are you a member?</p>						
-		<a id="nav-join-us" class="sign-in-nav" href="http://mozo.com.au/join-us" title="Join us">Join us</a>
-		<a id="nav-sign-in" class="sign-in-nav" href="http://mozo.com.au/session/new" title="Sign in">Sign in</a>
-		<img id="activity-indicator2" src="/images/activity2.gif" width="35" height="35" alt="" style="display:none;">						
+	
+	<script>
+		$jq(document).ready(function(){
+			$jq('#log-in-wrapper').jqm();				
+		});
+	</script>
+	
+			<p id="join-us-text">Are you a member?</p>			
+					
+		<a id="nav-join-us" class="sign-in-nav" href="#" title="Join us" onclick="log_in_with_popup_jqm('sign-up-form');">Join us</a>
+		<a id="nav-sign-in" class="sign-in-nav" href="#" title="Sign in" onclick="log_in_with_popup_jqm('log-in-form');">Sign in</a>
+				<img id="activity-indicator2" src="/images/activity2.gif" width="35" height="35" alt="" style="display:none;">						
 </li>
 
 					</ul>
@@ -179,6 +398,7 @@
 	</li>
 	
 	<li id="newsletter-subscription-info">
+		
 				<div id="newsletter-signup-bar">
 			
 <div id="newsletter-signup-text">
@@ -201,9 +421,10 @@
 </div>
 
 		</div>
+				
 		
 		
-					</li>
+			</li>
 	
 
 		
@@ -318,6 +539,8 @@
 
 
 
+
+
 	<script type="text/javascript">
 		var ticker_id='tile_ticker'; // ticker id
 		var tWidth='130px'; // ticker width (in pixels)
@@ -415,10 +638,28 @@
 	</a>
 -->
 
+<a href="http://mozo.com.au/rate-and-review/rate-your-insurer">
+	<div id="tile-rycar-macbook-promo"></div>
+</a>
 
+<!--
 	<a href="http://mozo.com.au/rate-your-bank-to-win-an-iphone4">
 		<div id="tile-ryb-promo"></div>
 	</a>
+-->
+
+<!--
+	<a href="/rate-your-bank-for-charity">
+		<div id="tile-ryb-for-charity"></div>
+	</a>
+-->
+
+<!--
+	<a href="http://blog.mozo.com.au/2010/12/14/banking-reform-poll/542" target="blank">
+		<div id="tile-bank-reform-poll"></div>
+	</a>
+-->
+
 
 
 	
@@ -475,8 +716,9 @@
 <p>Mozo intends to develop and enhance its services continuously, by adding new features and services to our website. As we add features we will update this Privacy Policy as required. You should periodically visit this page to review the current Privacy Policy.</p>
 								</div>
 							</section>
-			
-
+				
+							
+							
 			<footer>
 	<nav>
 		<ul id="footer-ul" class="clearfix">
@@ -509,7 +751,8 @@
 					<li><a href="http://mozo.com.au/more-on-mozo">About us</a></li>
 					<li><a href="http://mozo.com.au/media-room">Media Room</a></li>
 					<li><a href="http://mozo.com.au/contact">Contact us</a></li>
-					<li><a href="http://blog.mozo.com.au" target="_blank">Blog</a></li>
+					<li><a href="http://mozo.com.au/more-on-mozo">More on Mozo</a></li><a href="http://mozo.com.au/more-on-mozo">
+					</a><li><a href="http://mozo.com.au/more-on-mozo"></a><a href="http://blog.mozo.com.au" target="_blank">Blog</a></li>
 				</ul>
 			</li>
 			<li class="short">
@@ -521,7 +764,7 @@
 			</li>
 		</ul>
 	</nav>
-	<p class="copyright"><em>www.mozo.com.au</em>© Copyright 2008-2010 Mozo Pty Ltd. All Rights Reserved.</p> 
+	<p class="copyright"><em>www.mozo.com.au</em>© Copyright 2008-2011 Mozo Pty Ltd. All Rights Reserved.</p> 
 </footer>
 
 			<section id="socialbar">
@@ -706,7 +949,6 @@
 		</div>
 			<script type="text/javascript">
 		window.onload=sfHover_new;
-		//addEvent(window,'load',sfHover_new,false);
 	</script>
 
 <script type="text/javascript">
@@ -744,6 +986,7 @@
 	<script type="text/javascript">
 		var curvyCornersVerbose = false;
 	</script>
+		<script type="text/javascript" src="/javascripts/curvycorners_new.js"></script>
 	
 
 
