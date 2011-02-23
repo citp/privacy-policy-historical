@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wondershare.net privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412193530id_/http%3A//www.wondershare.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wondershare.net privacy policy that was archived on 2011-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110223094531id_/http%3A//affiliate.wondershare.com/privacy.html) for the most accurate reproduction.*
 
 # Wondershare Inc.-Privacy
 
@@ -8,13 +8,6 @@ Wondershare Software is committed to protecting your privacy. We will only colle
 
 **What information do we collect? What do we use it for?**  
 When you place an order on our website, your full name, email address, mailing address, phone number, credit card number, and credit card expiration date will be required. The information is used to complete the transaction and help us provide better support and services to you. 
-
-**How do the 3rd party credit card processors protect customer information?**  
-Wondershare software uses secure server hosted by SWREG and other 3rd party credit card processors that encrypt all the customer's personal information including name, address, credit card number, credit card expiration date, etc., before it is sent to us. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition. 
-
-## SWREG
-
-SWREG is an advanced secure online payment service for software registration that has been in operation since 1987. Wondershare Software uses SWREG to provide you with very secure and fast online purchase.
 
 ## About cookies
 
