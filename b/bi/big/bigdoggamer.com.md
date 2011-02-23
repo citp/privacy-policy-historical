@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigdoggamer.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216031111id_/http%3A//bigdoggamer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigdoggamer.com privacy policy that was archived on 2011-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110223110758id_/http%3A//bigdoggamer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BigDogGamer.com
 
