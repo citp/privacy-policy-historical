@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the stockpromoters.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpromoters.com privacy policy that was archived on 2011-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110223113313id_/http%3A//stockpromoters.com/privacy.aspx) for the most accurate reproduction.*
 
-# Welcome to Stockpromoters.com
+# Stockpromoters.com - Privacy Policy
 
-|  | [](http://stockpromoters.com/ "Home on StockPromoters.com") |   
----|---  
-| **Nov 29, 2010 1:24:37 PM EST** ,  **The Market closes in 02:36.** |  [ **_Symbol Lookup_**](https://web.archive.org/companylookup.asp)   |  |   
-|  |  | 
-
-StockPromoters.com  
-  
----  
-| Privacy is our priority.  
----  
+Privacy is our priority.  
 We are committed to protecting our customers' personal and financial information. In the course of providing financial products and services, we need to collect and maintain certain nonpublic personal information. This Privacy Statement answers some questions about what nonpublic personal information we collect, what we do with it, and how we protect it. 
 
 We do not disclose any nonpublic personal information about our customers or former customers to any nonaffiliated third parties, except as described below.   
@@ -48,18 +39,11 @@ Our employees (for example, customer service and compliance personnel) and third
 In addition to our security measures, you can also take steps to maximize your security online and to protect your confidential information. Additional information on these topics can be found on our web site at the Online Security link at the bottom of most web pages.   
   
 What should I know about "cookies"?  
->"Cookies" are small amounts of data that a web site can send to your web browser and store on your computer. Cookies do not contain personal information about you (unless you knowingly provide it). Cookies can note that your browser was used to visit certain sites, pages, or advertisements on a certain date. 
+"Cookies" are small amounts of data that a web site can send to your web browser and store on your computer. Cookies do not contain personal information about you (unless you knowingly provide it). Cookies can note that your browser was used to visit certain sites, pages, or advertisements on a certain date. 
 
 We use cookies to enhance navigation and the functionality of our web site, to securely verify your identity, and to personalize aspects of your experience on our site. We also use cookies to let us know how visitors are using our web site, so that we can improve our site and your experience on it. We permit certain third party ad servers to set cookies and use related technology (such as web beacons) through our web site to track performance of advertisements and to collect aggregate data on web page viewing. 
 
 You do have control over cookies. Most browsers can be set to notify you when a cookie is being placed on your computer. You can set most browsers to refuse to accept cookies, although this may affect your internet experience. You can also erase cookies that are already on your computer. For more information on working with cookies, consult the user manual, FAQ, or "Help" function of your specific browser.   
   
 How can customers access and update their nonpublic personal information that we collect?  
->We take measures to ensure that customers' nonpublic personal information is accurate and up-to-date. You can also access and update certain nonpublic personal information that we collect about you. To access and update your mailing address or your home or work phone numbers for your StockPromoters.com account, log on to our Web site using your user name and password.   
-|  [Copyright © 2010 Stockpromoters.com.  
-All Rights Reserved. (Terms and Conditions)](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/terms.asp) |  [About Us](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/aboutus.asp) |  |  [What's New](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/whatsnew.asp) |  |  [F.A.Q.'s](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/faq.asp) |  |  [Useful Links](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/links.asp) |  |  [Privacy Policy](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/privacy.asp) |  |  [Disclaimer](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/disclaimer.asp) |  |  [Penny Stock Blog](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/penny-stock-traders/) |  |  [Contact Us](https://web.archive.org/web/20101129182437id_/http%3A//stockpromoters.com/contactus.asp)  
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-  
-Financial Market Data powered by [Quotemedia.com](http://www.quotemedia.com/).  All rights reserved.  [Terms and conditions](http://www.quotemedia.com/termsofuse.php).  
-NYSE/AMEX data delayed 20 minutes.  NASDAQ/other data delayed 15 minutes unless indicated.   
-
+We take measures to ensure that customers' nonpublic personal information is accurate and up-to-date. You can also access and update certain nonpublic personal information that we collect about you. To access and update your mailing address or your home or work phone numbers for your StockPromoters.com account, log on to our Web site using your user name and password. 
