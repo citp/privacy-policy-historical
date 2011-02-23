@@ -1,121 +1,142 @@
-> *The following text is extracted and transformed from the hawthornfc.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618182943id_/http%3A//www.afl.com.au/Hidden/Privacy/tabid/8780/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawthornfc.com.au privacy policy that was archived on 2011-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110223154751id_/http%3A//www.hawthornfc.com.au/privacy%2520policy/tabid/15542/default.aspx) for the most accurate reproduction.*
 
-# Privacy - Official Website of the Australian Football League
+# Privacy Policy - Official AFL Website of the Hawthorn Football Club
 
-### Privacy Statement
+### The Club > Privacy Policy
 
- **AFL TELSTRA NETWORK PRIVACY STATEMENT**
+ **  
+**
 
-Welcome to the AFL Telstra Network ("AFLTN").
+###  **Hawthorn Football Club Limited - Privacy Policy**
 
-The web sites on the AFL Telstra Network including and all of the web sites ("Web Sites") are operated by Telstra Corporation Limited ABN 33 051 775 556 ("Telstra"). We have an agreement with the Australian Football League ABN 97 489 912 318 ("AFL") which gives us the exclusive right to operate and develop these Web Sites, and to provide content and other services to users of the Web Sites.
+  
+ **Protecting your privacy**  
+The Hawthorn Football Club is committed to providing you with the highest levels of customer service. This includes protecting your privacy. 
 
- **1 Protecting Your Privacy**  
-1.1 Telstra, the AFL and the AFL Clubs ("we" or "us") are committed to providing you with the highest levels of customer service. This includes protecting your privacy.   
-1.2 Telstra is bound by the Commonwealth Privacy Act 1988 , except in relation to our activities carried on in the course of journalism. The Privacy Act and this Statement sets out a number of principles concerning the protection of your personal information in relation to Telstra’s other activities.  
-1.3 While Telstra is exempt from complying with the Privacy Act in relation to its journalism activities on the Web Sites in the AFLTN, Telstra publicly commits to comply with the Australian Press Council Privacy Standards which deal with privacy and the use of personal information in the context of those journalism activities. Further information about those standards can be obtained at http://www.presscouncil.org.au/pcsite/complaints/priv_stand.html.  
-1.4 Set out below is information that the Privacy Act requires Telstra to communicate to all users of the Web Sites. We recommend that you keep this information for future reference.
+Set out below is information that we are required to communicate to our members and customers. We recommend that you keep this information for future reference.   
+**  
+Help us to ensure we hold accurate information**  
+We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. 
 
- **2 About us**  
-2.1 Telstra provides a range of telecommunications and online services, either through a particular division within Telstra or through one of our related companies - for example, the publisher of our directories products. As part of its online business, Telstra is responsible for developing operating and managing the web sites which form the AFL Telstra Network.  
-2.2 The AFL is one of the leading sports organisations in Australia and is responsible for administering the Australian Rules Football competition in Australia. The AFL provides a number of services relating to the sport of Australian Rules Football, either through a particular division within the AFL or through one of our related companies.
+However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you:   
+•    let us know if there are any errors in your personal information; and   
+•    keep us up-to-date with changes to your personal information such as your name or address. If you are a subscriber to one of our online products or services, you may change your personal details by using the relevant facility on our website. 
 
- **3 Your personal information**  
-3.1 We may hold a variety of personal information about you, which may include your name, date of birth, current and previous addresses, telephone/mobile phone number, e-mail address, bank account or credit card details, occupation, driver’s licence number, your Telstra PIN or password and any other PIN or password used by you to access material on the Web Sites. We may also hold details of your Telstra services or your AFL or AFL club subscriptions, details about your access rights to content on the Web Sites, and certain details about your personal interests.  
-3.2 Occasionally, you may need to provide personal information about other individuals to Telstra (e.g. about your authorised representatives). If so, we rely on you to inform those individuals that you are providing their personal information to Telstra and advise them that we can be contacted for further information - see part 13 ("How to contact us") below.  
-3.3 If you choose not to provide personal information to us, we may not be able to provide you with access to the Web Sites or to the content, products and services available on or from the Web Sites.
+1.    INTRODUCTION The principal activities of the Hawthorn Football Club Limited (“HFC”) are to compete within the Australian Football League by maintaining, supporting and controlling a team of footballers bearing the name of the Hawthorn Football Club. The Hawthorn Football Club from time to time gathers information from Customers and other parties with whom we deal for a variety of reasons including, in particular, to enable us to both deliver our services and to improve the nature of the services we provide. HFC understands individuals’ concerns regarding confidentiality and takes seriously its obligations in respect of all information it gathers. To safeguard that information, HFC has implemented a program to ensure compliance with the Privacy Act 1988 (Cth) and the National Privacy Principles (“NPPs”). This Privacy Policy forms part of that compliance program and outlines how HFC deals with Personal Information. 
 
- **4 How we collect personal information**  
-4.1 Telstra collects personal information about you in a number of ways, including:  
-(a) directly from you, when you provide information by phone, email, online (eg, on or via the Web Sites) or in documents such as an application form;  
-(b) from third parties such as our related companies, credit reporting agencies or your representatives;  
-(c) from publicly available sources of information;   
-(d) from the organisations identified below under "When we disclose your personal information";  
-(e) from its own records of how you use your Telstra services, the Web Sites and the content and services available from the Web Sites; and  
-(f) when legally required to do so.  
-4.2 Telstra also collects personal information about you when you access and use the Web Sites. This is described further in part 6 ("How we collect personal information from the Web Sites") below.  
-4.3 The AFL and AFL Clubs collect personal information about you in a number of ways, including:  
-(a) directly from you, when you provide information by phone, email, online or in documents such as an application form;   
-(b) from third parties such as other AFL Clubs, Telstra (as operator of the AFLTN), credit reporting agencies or your representatives;  
-(c) from publicly available sources of information;   
-(d) from the organisations identified below under part 9 ("When we disclose your personal information") below;   
-(e) from their own records of how you use your AFL and AFL Club services, the Web Sites and the content and services available from the Web Sites; and  
-(f) when legally required to do so.
+2.    WHY HAWTHORN FOOTBALL CLUB COLLECTS PERSONAL INFORMATION   
+2.1    Nature of Information The information HFC collects in most cases relates to members and customers of HawksNest but can relate to suppliers and other parties we deal with (for the purposes of this Privacy Policy all such people are described as “Customers”). Information is gathered for a range of purposes, including the provision of ongoing Customer support and the compiling of Customer databases to enable us to provide you with the services you request and helps us plan to improve the level of our services. The type of information we collect includes such things as contact details, opinions and transactional details and may include your name, date of birth, current and previous address, telephone and facsimile number, e-mail address, bank account or credit card details and occupation. We also hold details of HFC services you hold or join including their status.  HFC treats all such information which is collected and identifiable as relating to an individual as Personal Information. It is this information which is described as “Personal Information” for the purposes of this Privacy Policy. 
 
- **5 How we collect personal information from the Web Sites**  
-5.1 When you visit the Web Sites, our web servers record anonymous information such as the time, date and URL of the request. This information assists Telstra to improve the structure of the Web Sites and to monitor their performance.  
-5.2 Telstra may also use "cookies" on the Web Sites. Cookies are an industry standard and most major web sites use them. A cookie is a small text file that the Web Sites may place on your computer. Usually, cookies are used as a means for the Web Sites to remember your preferences. As such, cookies are designed to improve your experience of the AFL Telstra Network.  
-5.3 In some cases, cookies may collect and store personal information about you. Telstra extends the same privacy protection to your personal information, whether gathered via cookies or from other sources. You can adjust your Internet browser to disable cookies or to warn you when cookies are being used. However, if you disable cookies, you may not be able to access certain areas of the Web Sites or take advantage of the improved web site experience that cookies offer.  
-5.4 Telstra uses third party suppliers such as [Sensis MediaSmart®Sales](http://www.about.sensis.com.au/products/mediasmart.php) to provide advertisement management and delivery across our web sites. These suppliers may use cookies for anonymous profiling purposes to tailor advertising to user preferences. No personally identifiable information is collected by these suppliers from our web sites. If you would like to opt-out of the MediaSmart anonymous profiling, you can [click here](http://ad.sensismediasmart.com.au/images/sensis/cookie/optout.html).  
-5.5 Telstra uses [Neilsen//NetRatings](http://www.netratings.com/) to analyse usage statistics on our websites. This analysis is performed using data collected from the afl.com.au website, including click through gateways that redirect some web page requests via Neilson//NetRatings' secure-au.imrworldwide.com domain. This analysis is used to improve the web experience of our users. No personally identifiable information is collected by Neilson//NetRatings from the afl.com.au web sites. If you would like to opt-out of Neilson//NetRatings anonymous user profiling, you can do so at the[ following page](http://www.netratings.com/privacy.jsp?section=leg_scs).   
-5.6 Telstra uses [the White Agency's](http://www.thewhiteagency.com.au/white.html) partner, DoubleClick to provide email usage analysis across the afl.com.au web site. DoubleClick uses cookies for anonymous profiling purposes to tailor advertising to user's preferences. No personally identifiable information is collected by DoubleClick from the afl.com.au web sites. If you would like to opt-out of the DoubleClick anonymous profiling, you can do so at the[ following page](http://www.doubleclick.com/us/about_doubleclick/privacy/).
+  2.2    Collection of Personal Information In accordance with the NPPs, where practical, Customers of HFC may deal with HFC on an anonymous basis. However, as a provider of a wide range of services, HFC frequently finds that it is necessary to collect Personal Information during the course of providing our services. Personal Information may be collected about Customers via the following means:   
+(a)    competition entry forms;  
+(b)    application forms;  
+(c)    email;  
+(d)    websites (including in some instances cookies);  
+(e)    online transactions;  
+(f)    networking functions (eg: business cards);  
+(g)    over the phone;   
+(h)    credit card details via credit card purchases; and  
+(i)    information collected from third parties.  
+Where any law requires HFC to collect Personal Information from the Customer, HFC will endeavour to advise you about the requirements of that law. 
 
-5.7 Telstra may also collect Internet Protocol (IP) addresses relating to you when you access and use the Web Sites. IP addresses are assigned to computers on the Internet to uniquely identify them within the global network of computers which makes up the Internet. We may collect and manage IP addresses as part of the service of providing internet session management and for security purposes.
+2.3    Information given to Customers.   
+Where HFC collects Personal Information about a Customer from a third party, and the Customer has not previously consented to that third party providing the information to HFC, HFC will, where reasonable and practical, provide the Customer with the following information about that third party:   
+(a)    the third party’s contact details;  
+(b)    the purpose of collection;  
+(c)    the fact that the Customer can gain access to the Personal Information;  
+(d)    the types of organisations to which their Personal Information may be disclosed by that third party;  
+(e)    any law that requires the Personal Information to be collected; and  
+(f)    the key consequences if all or some of the information cannot be collected.
 
- **6 Passwords and usernames**  
-6.1 We may issue you with various usernames or passwords to allow you to access some of the content and information on the Web Sites.   
-6.2 While we will make every reasonable effort to ensure that your usernames and passwords not disclosed to other people, you are ultimately responsible for maintaining the secrecy of your usernames and passwords and for ensuring that no one except you uses these usernames and passwords.
+2.4    ‘sensitive information’ HFC in providing its services will need to collect certain information from you.  HFC will only ask you for information where HFC believes it is necessary to know that information in the course of providing these services.  
+HFC will not ask a Customer for information revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, or details of health, disability or sexual activity or orientation, unless:  
+(a)    the Customer provides their consent;  
+(b)    the collection of that information is specifically authorised by law;   
+(c)    the collection is necessary to lessen a serious or imminent threat to the health or safety of a person; or  
+(d)    the collection of the information is necessary for the establishment, exercise or defense of a legal claim.
 
- **7 How we use your personal information**  
-7.1 Your personal information may be used by us to:  
-(a) give you access to the Web Sites and the other content, products and services available from the Web Sites;  
-(b) enter you into our competitions and promotions;  
-(c) administer and manage the Web Sites, including charging, billing and collecting debts;  
-(d) inform you of changes to the Web Sites or to the content, products and services available from the Web Sites;  
-(e) conduct appropriate checks for credit-worthiness and for fraud;  
-(f) research and develop the Web Sites and our other services;  
-(g) gain an understanding of your information and communication needs in order for us to provide you with improved Web Sites, content and services; and  
-(h) maintain and develop our business systems and infrastructure, including testing and upgrading of these systems.  
-7.2 Your personal information is also collected to promote and market other services which we consider may be of interest to you. If you do not wish us to contact you regarding other services, please call Telstra on 1800 039 059.   
-7.3 Telstra also manages the various club.com.au e-mail newsletters. E-mail addresses are collected by Telstra for the purpose of sending the newsletters and may be shared with or provided to the club or clubs the user has signed up for.   
-7.4 All emails sent by us which offer marketing or commercial material will contain accurate information regarding the message’s originator and will contain a functional unsubscribe facility to allow you to opt-out of receiving messages from us in the future.
+  2.5    Customer consent  
+Wherever practical, HFC will obtain the express consent of Customers to the collection of Personal Information. 
 
- **8 When we disclose your personal information**  
-8.1 We may disclose your personal information to each other and to organisations outside Telstra, the AFL and AFL Clubs for the purposes set out in part 6 ("How we use your personal information") above. Telstra takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.   
-8.2 The outside organisations to which we disclose information include:  
-(a) outsourced service providers involved in the operation and management of the Web Sites or the other services we provide to you, including those involved in:  
-(i) content and service development;  
-(ii) customer enquiries;  
-(iii) mailing systems;  
-(iv) billing and debt-recovery functions;  
-(v) information technology services;  
-(vi) installation, maintenance and repair services;  
-(vii) marketing, telemarketing and door-knocking services;  
-(viii) market research;  
-(b) your representatives (eg your authorised representatives or legal advisers);   
-(c) credit-reporting and fraud-checking agencies;  
-(d) credit providers for credit related purposes such as creditworthiness, credit rating, credit provision and financing;  
-(e) our professional advisers, including our accountants, auditors and lawyers;   
-(f) government and regulatory authorities and other organisations, as required or authorised by law;  
-(g) organisations involved in:  
-(i) a transfer/sale of all or part of our assets or business (including accounts and trade receivables);and  
-(ii) managing our corporate risk and funding functions (eg securitisation).  
-(h) other telecommunication and information service providers; and  
-(i) our related companies.  
-8.3 If you are an AFL.com.au customer or a club.com.au customer, Telstra may also disclose your personal information to the AFL, the AFL clubs or both if Telstra ceases to be responsible for operating the AFL Telstra Network. AFL.com.au and club.com.au customers are all users of the AFL Telstra Network other than Telstra BigPond highspeed or broadband customers.
+In some situations, HFC will interpret a Customer’s actions as indicating that a Customer consents to the collection of Personal Information. This may occur where the Customer has provided Personal Information for a particular purpose and that purpose cannot be achieved without HFC making use of the Customer’s Personal Information. 
 
- **9 Help us to ensure we hold accurate information**  
-9.1 We each take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. However, the accuracy of that information we hold depends to a large extent on the information you provide. That’s why we recommend that you:  
-(a) let us know if there are any errors in your personal information; and  
-(b) keep us up to date with changes to personal information such as your name or address.  
-(see ‘How to contact us’ below).
+  2.6    What happens if Personal Information is not provided? Where relevant, HFC will endeavor to make Customers aware that HFC may not be able to provide a proper level of service to them if Personal Information is not provided upon request. 
 
- **10 You can access your personal information**  
-10.1 You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons - see part 13 ("How to contact us") below.  
-10.2 We each reserve the right to charge a fee for searching for and providing access to your information.
+  3.    MAINTENANCE AND MANAGEMENT OF PERSONAL INFORMATION   
+3.1    Who may view Personal Information?   
+In general, only officers, employees or contractors of HFC may view Personal Information. HFC will only grant access to parties other than HFC’s officers, employees and contractors to view Personal Information where HFC believes that access is necessary to achieve the purpose for which the Personal Information was collected. 
 
- **11 Children’s privacy**  
-11.1 Children's privacy is very important to us. We ask that children under 18 years of age obtain a parent or guardian’s consent before accessing or using the Web Sites, or before acquiring any products or services via the Web Sites.   
-11.2 While we will make every reasonable effort to ensure that children’s privacy and other rights are not compromised, it is ultimately the responsibility of parents to monitor their children’s Internet usage. 
+HFC will only disclose Personal Information to parties other than HFC’s officers, employees and contractors if:  
+(a)    That disclosure is required to give effect to the purposes for which HFC collected the Personal Information;   
+(b)    The Customer has consented to that disclosure;  
+(c)    HFC believes that the disclosure may lessen a risk of harm to the health or safety of any person;  
+(d)    HFC believes an unlawful activity is being undertaken and the Personal Information is disclosed as part of HFC’s investigation into this activity;  
+(e)    HFC is required by law to disclose the Personal Information; or   
+(f)    The disclosure is required for the enforcement of a criminal law or a law imposing a pecuniary penalty or for the protection of public revenue. 
 
-**12 Changes to our Privacy Statement**  
-12.1 From time to time, we may need to change this Privacy Statement to reflect our changing business practices. We may change the Privacy Statement at any time by posting the changed Privacy Statement on our web site at and by posting a notice to users on the homepage of that web site stating that a change has occurred.   
-12.2 All personal information collected and held by us will be governed by our most recent Privacy Statement, as posted on our web site at .
+3.2    Identification HFC does not use any prohibited identifiers (such as a tax file number) to identify its Customers.
 
- **13 How to contact us**  
-13.1 If you have any questions in relation to privacy, please contact Telstra on 1800 039 059 between 9.00am and 5.00pm, Monday to Friday. Please note that this number is not for general service enquiries.  
-13.2 Alternatively, you can write to Telstra’s Privacy Manager, at Locked Bag 5782, Melbourne, VIC 8100 or by sending an email to [privacy@online.telstra.com.au](mailto:privacy@online.telstra.com.au).
+3.3    Storage and Security Personal Information may be stored in either hard copy form or on computer or both. Hard copy Personal Information is wherever practical, kept under locked security. Personal Information stored on computer is wherever practical, password protected.   
+Where possible and practical, HFC will endeavor to comply with recognised Australian and international standards relating to information security.   
+HFC regularly deletes and de-identifies Personal Information if the information is no longer needed by HFC.
 
-AFLTN Privacy Collection Statement - March 2004  
-Telstra Corporation Limited ABN 33 051 775 556  
-Australian Football League ABN 97 489 912 318
+  3.4    Updating Personal Information HFC regularly monitors the quality and accuracy of Personal Information that it maintains and where practical, updates that information on a regular basis.   
+Customers can update their Personal Information at any time by contacting HFC’s Privacy Officer. 
+
+  4.    MINORS HFC has adopted the position proposed by the Privacy Commissioner that a young person is able to give their consent when he or she has a sufficient understanding and maturity to understand what is being proposed. 
+
+  Where HFC is aware that it is gathering information from a minor, HFC will obtain consent from a legal guardian for the collection of the information. Where this is not possible, HFC staff will make a determination as to the minor’s understanding of why the Personal Information is being collected, before deciding to collect that information. 
+
+  5.    COMPETITIONS Personal information gathered during competitions run by HFC will be governed by the principles set out in this Privacy Policy unless an express statement is made in relation to privacy in the conditions of entry for the competition. 
+
+  6.    DIRECT MARKETING  
+Personal Information collected for direct marketing purposes will only be collected, used or disclosed with the consent of the relevant Customer as provided for in this Privacy Policy.   
+In circumstances where HFC cannot practically obtain the consent of a Customer, then HFC may still engage in direct marketing to that Customer, but will:  
+(a)    advise the Customer that he or she can be taken off the mailing list at any time; and  
+(b)    display its contact details clearly in each direct marketing publication.  
+Customers may be taken off any mailing list by contacting HFC‘s Privacy Officer. 
+
+  7.    ACCESS TO PERSONAL INFORMATION Customers may access their Personal Information by contacting HFC‘s Privacy Officer. Access is generally granted within 30 days of that request. 
+
+  HFC may impose a reasonable charge for access. 
+
+  8.    WHEN HFC MAY WITHHOLD ACCESS TO PERSONAL INFORMATION   
+8.1    When access can be withheld Access to Personal Information may be withheld in a number of circumstances. These include where:  
+(a)    providing access would pose a serious and imminent threat to the life or health of a person;  
+(b)    providing access would have an unreasonable impact on the privacy of others;  
+(c)    the information is subject to confidentiality where the person who provided the information to HFC did so expressly on the condition that it remains confidential;  
+(d)    the request is vexatious or frivolous;  
+(e)    the information relates to current or anticipated legal proceedings between HFC and the person and the information would not be required to be discovered to a court;  
+(f)    HFC is in commercial negotiations with the person and the information would reveal HFC‘s intentions;  
+(g)    providing access would be unlawful or HFC is required by a law to withhold access; or  
+(h)    providing access could prejudice the investigation or detection by HFC or by a government body of an unlawful activity or some serious or improper misconduct. 
+
+  Where HFC does withhold Personal Information, HFC may instead choose to give the Customer a summary of that information. 
+
+  8.2    Written reasons If HFC does withhold Personal Information, HFC will provide written reasons. 
+
+  8.3    Third party intermediary If HFC withholds access to Personal Information, HFC will consider whether the provision of access to an independent third party will meet HFC’s and the relevant Customer’s needs. 
+
+  9.    CONTRACTORS HFC may from time to time employ subcontractors to provide services to it. In these situations, Personal Information may be collected about those subcontractors. This Privacy Policy applies equally to those subcontractors. 
+
+  10.    WHO TO CONTACT If you have any queries with respect to this Privacy Policy please contact our Privacy Officer at HFC, Stadium Circuit, Mulgrave, Victoria. 
+
+  11.    MODIFICATIONS TO THIS DOCUMENT HFC may modify this Privacy Policy and the way it handles Personal Information at any time in its sole discretion. 
+
+  12.    FURTHER INFORMATION Further information on privacy can be obtained from the Privacy Commissioner at www.privacy.gov.au. 
+
+13.    COMPLAINTS ABOUT YOUR PRIVACY  
+If you have a complaint about a breach of your privacy of how your personal information is collected or used please direct your complaint to our Privacy Compliance Manager at the address detailed below. We will respond to your query or complaint as soon as possible but not more than 14 days after the complaint has been made. 
+
+lf you are not satisfied with the response you receive you can forward concerns in writing to the CEO at the postal address detailed below. You will receive a further response within 14 business days.
+
+14.    CONTACT US  
+If you have any questions or feedback about privacy or you feel that this company is not abiding by its posted privacy policy, you should contact:
+
+Privacy Officer  
+Hawthorn Football Club   
+membership@hawthornfc.com.au  
+1300 042 957
+
+POLICY REVIEW  
+Last reviewed: 05/11/2009
