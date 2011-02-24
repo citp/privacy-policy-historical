@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thesourcebottle.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213132837id_/http%3A//www.thesourcebottle.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesourcebottle.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224185149id_/http%3A//www.thesourcebottle.com/privacy.asp) for the most accurate reproduction.*
 
-# .SourceBottle helps small business, SMEs and PR professionals get media publicity and raise profile; finds sources for journalists, bloggers and writers.
+# SourceBottle helps businesses and PR professionals get media publicity and raise profile; finds sources for journalists, bloggers and writers.
 
 #### Introduction
 
@@ -46,7 +46,7 @@ We reserve the right to disclose Your personally identifiable information as req
 
 #### Links
 
-Links on the SourceBottle site to external entities are not covered within this policy. The terms and conditions set out in this privacy statement only cover the domain name of [www.sourcebottle.com.au](https://web.archive.org/web/20101213132837id_/http%3A//www.thesourcebottle.com/index.asp)
+Links on the SourceBottle site to external entities are not covered within this policy. The terms and conditions set out in this privacy statement only cover the domain name of [www.sourcebottle.com.au](https://web.archive.org/web/20110224185149id_/http%3A//www.thesourcebottle.com/index.asp)
 
 #### Changes to Privacy Policy
 
