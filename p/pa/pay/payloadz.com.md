@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2007-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070321084609id_/http%3A//payloadz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payloadz.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224205441id_/https%3A//www.payloadz.com/privacy.asp) for the most accurate reproduction.*
 
-# PayLoadz :: Sell Downloads with PayPal
+# Privacy Policy- Affiliate Marketing, Sell Downloadable Software, ECommerce Software
 
 Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
@@ -17,10 +17,10 @@ We offer the following free services, which require some type of voluntary submi
 We will offer a electronic newsletter to users. PayLoadz, Inc gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. Users can also subscribe to the newsletters at the time of registration.
 
 2\. Message boards/forums  
-Users of the site’s Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
+Users of the site ' s Message Boards and Forums must register separately for these services (both are free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address.
 
-3\. “E-mail this to a friend" Service  
-Our site users can choose to electronically forward a link, page, or documents to someone else by clicking “e-mail this to a friend”. The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
+3\. "E-mail this to a friend" Service  
+Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend";. The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
 
 4\. Polling  
 We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. PayLoadz, Inc may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users.
