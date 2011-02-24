@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411211011id_/http%3A//www.starnow.com.au/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224073801id_/http%3A//www.starnow.com.au/help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - StarNow.com.au
+
+[Help](https://web.archive.org/help)>Privacy Policy
 
 **Privacy of your information**  
 StarNow.com.au (owned and operated by SMH Interactive Limited) collects personal information about you through your use of the services and the web site, including your registration details; and information relating to your use of the web site and the content you access.
@@ -19,4 +21,4 @@ Your email address is used to identify your membership, and to sign in to the si
 
 After registering with StarNow.com.au you will receive regular casting call update emails, containing casting calls and auditions matching your profile. You may also receive our email newsletters, account updates and and information about StarNow.com.au features.
 
-You can easily unsubscribe from any of our emails, either by using the 'unsubscribe' link provided in the email, or by contacting us at contact@starnow.com.au.
+You can easily unsubscribe from any of our emails, either by using the 'unsubscribe' link provided in the email, or by contacting us at contact@starnow.com.au. 
