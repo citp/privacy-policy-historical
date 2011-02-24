@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forestmarie.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226091607id_/http%3A//www.forestmarie.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forestmarie.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224205629id_/http%3A//www.forestmarie.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,13 +10,13 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.  
 **  
-Our Commitment To Children’s Privacy**
+Our Commitment To Childrenâ€™s Privacy**
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. Under our Terms of Service, children under 18 are no allowed to access our service.  
 **  
 Collection of Personal Information**
 
-On visiting this site, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. Importantly, IP addresses are not linked to personally identifiable information.
+On visiting this site, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track userâ€™s movement, and gather broad demographic information for aggregate use. Importantly, IP addresses are not linked to personally identifiable information.
 
 **Links to third party websites**
 
