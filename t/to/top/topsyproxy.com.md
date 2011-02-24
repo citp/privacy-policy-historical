@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topsyproxy.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225144743id_/http%3A//www.topsyproxy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsyproxy.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224043310id_/http%3A//www.topsyproxy.com/privacy.php) for the most accurate reproduction.*
 
 # Topsy!
 
