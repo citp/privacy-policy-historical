@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldcoastbulletin.com.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112052602id_/http%3A//www.goldcoast.com.au/gold-coast-bulletin/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldcoastbulletin.com.au privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224032220id_/http%3A//www.goldcoast.com.au/gold-coast-bulletin/privacy-policy.html) for the most accurate reproduction.*
 
 # The Gold Coast Bulletin :: Privacy Policy | goldcoast.com.au | Gold Coast, Queensland, Australia
 
@@ -16,7 +16,7 @@ We usually collect personal information directly from you although sometimes we 
 
 We usually collect personal information such as your name, address, telephone number, and in some instances, your financial details. When you are online, we collect information regarding the pages within our network which you visit and what you click on. As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods or services and if the law requires us to, we will seek your consent to collect it. 
 
-We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. 
+We use your information to provide our services (which may include the display of personalised content and advertising) to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. 
 
 We may share your information with other companies which are related to Gold Coast Publications Pty Ltd as well as to News Limited and its related companies, within and outside of Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you. 
 
@@ -26,7 +26,7 @@ News may disclose your information to its service providers and contractors here
 
 **Use of Aggregate Data**
 
-We may collect certain non-personal information to optimise our goods and services including our Web pages for your computer (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
+We may collect and use certain non-personal information (e.g., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider) to optimise our goods and services (which may include the display of personalised content and advertising) including our Web pages for your computer. We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
 
 News may use personally identifiable information in aggregate form to improve our goods and services including our Web sites and make them more responsive to the needs of our customers. This statistical compilation and analysis of information may also be used by News or provided to others as a summary report for marketing, advertising or research purposes. 
 
