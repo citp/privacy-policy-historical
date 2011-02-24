@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivermend.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123100310id_/http%3A//drivermend.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivermend.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224224324id_/http%3A//drivermend.com/privacy.php) for the most accurate reproduction.*
 
 # Driver Mender - Fast And Effective Driver Solutions
 
@@ -26,13 +26,22 @@ All computers have the ability to decline cookies. This can be done by activatin
 
 Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website. 
 
+#### Advertising Practices
+
+Users that have visited this site may later have advertisements for related or recommended products served to them based upon the products they exhibited interest in upon this site. 
+
+Third party vendors, including Google, serve ads for this site on the internet.   
+Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to this website. 
+
+Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page [here](http://www.google.com/privacy/ads/). 
+
 #### Use of Your Information
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes: 
 
-i. To provide you with information requested from us, relating to our products or services. To provide information on other products which we feel may be of interest to you, where you have consented to receive such information.   
-ii. To meet our contractual commitments to you.   
-iii. To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service. 
+To provide you with information requested from us, relating to our products or services. To provide information on other products which we feel may be of interest to you, where you have consented to receive such information.   
+To meet our contractual commitments to you.   
+To notify you about any changes to our website, such as improvements or service/product changes, that may affect our service. 
 
 If you are an existing customer, we may contact you with information about goods and services similar to those which were the subject of a previous sale to you. 
 
@@ -65,4 +74,4 @@ The Data Protection Act 1998 gives you the right to access the information that 
 
 #### Contacting Us
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at our [contact page](https://web.archive.org/web/20101123100310id_/http%3A//drivermend.com/contact.php)
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at our [contact page](https://web.archive.org/web/20110224224324id_/http%3A//drivermend.com/contact.php)
