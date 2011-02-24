@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedocast.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230092821id_/http%3A//www.freedocast.com/ppc.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedocast.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224204839id_/http%3A//www.freedocast.com/ppc.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
