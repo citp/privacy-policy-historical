@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921212032id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224023810id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pioneer Thinking
 
