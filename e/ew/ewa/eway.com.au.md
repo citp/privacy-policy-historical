@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eway.com.au privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904182225id_/http%3A//www.eway.com.au/about-eway-payment-service-provider/company/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eway.com.au privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224060546id_/http%3A//www.eway.com.au/about-eway-payment-service-provider/company/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | eWAY Internet Payment Gateway
 
@@ -6,13 +6,9 @@ eWAY regards customer privacy as an important part of our relationship with our 
 
 [ ](http://www.truste.org/ivalidate.php?url=www.eway.com.au&sealid=101)
 
-**Last Updated:** 28th June 2010 
+**Last Updated:** 20th December 2010 
 
-eWAY is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organisation whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.eway.com.au](http://www.eway.com.au/) Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-If you have questions or concerns regarding this statement, you should first contact Matt Bullock (eWAY CEO) at 1800 10 65 65. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
-
-The TRUSTe program covers only information that is collected through this Website, and does not cover information that may be collected through software downloaded from this site.
+eWAY has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. This privacy statement covers the site [www.eway.com.au](http://www.eway.com.au/). The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please first contact Matt Bullock (eWAY CEO) at 1800 10 65 65. If you are not satisfied with our response you can contact [ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "Contact TRUSTe"). 
 
 In order to use the eWAY Payment Gateway (eWAY), we require information relating to your Internet Merchant Facility (including your Merchant Number, Terminal ID and/or Settlement Account, depending on your merchant bank), Company Details, Contact Details, and Payment Details.
 
@@ -64,7 +60,7 @@ These third parties are prohibited from using your personally identifiable infor
 
 eWAY does not share any information with third parties for any unknown or unrelated uses.
 
-Our third party advertising partner, Google Adwords, employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+Our third party advertising partner, Google Adwords, and tracking utility partner, Direct News, employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
 
 To learn more about our advertising company's use of clear gifs, please go to [https://adwords.google.com](https://adwords.google.com/ "Google Adwords")
 
