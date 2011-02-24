@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-rewardsvault.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218165630id_/http%3A//my-rewardsvault.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14841%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-rewardsvault.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224183501id_/http%3A//my-rewardsvault.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14841%26gift%3D71) for the most accurate reproduction.*
 
 # My-rewardsvault
 
@@ -50,7 +50,7 @@ You are able to access certain advertiser's sites through our site. When you opt
 
 **Third Party Ad Servers.**
 
-We may serve advertisements within our Web Site either ourselves or by allowing other companies, called third-party ad servers or ad networks, to do so. In addition, some of our advertisers may use the services of third-party ad networks. Some of these third-party ad networks may place a persistent cookie on your computer. Doing this allows the third-party ad network to recognize your computer each time they send you an online advertisement. In this way, third-party ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows a third-party ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third-party ad servers or third-party ad networks. Those third-party ad networks that use persistent cookies may offer you a way to opt-out of ad targeting. You may find more information at the web site of either the individual third-party ad network or the Network Advertising Initiative (http://www.networkadvertising.org). 
+We may serve advertisements within our Web Site either ourselves or by allowing other companies, called third-party ad servers or ad networks, to do so. In addition, some of our advertisers may use the services of third-party ad networks. Some of these third-party ad networks may place a persistent cookie on your computer. Doing this allows the third-party ad network to recognize your computer each time they send you an online advertisement. In this way, third-party ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows a third-party ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third-party ad servers or third-party ad networks. Those third-party ad networks that use persistent cookies may offer you a way to opt-out of ad targeting. You may find more information at the web site of either the individual third-party ad network or the Network Advertising Initiative (http://www.networkadvertising.org), Privacy Choice (http://www.privacychoice.org/choose), and Digital Advertising Alliance (http://www.aboutads.info/choices/). 
 
 **Security Of Your Information.**
 
@@ -76,4 +76,4 @@ If you are a California resident or another state with specific laws relating to
 
 PLEASE CHECK THIS PRIVACY POLICY PERIODICALLY FOR CHANGES AS WE RESERVE THE RIGHT TO REVISE THIS PRIVACY POLICY. SUCH REVISIONS TO THE PRIVACY POLICY SHALL TAKE EFFECT WHEN POSTED. YOUR CONTINUED USE OF OUR SERVICES THROUGH ANY COMMUNICATION CHANNEL FOLLOWING THE POSTING OF ANY CHANGES TO THE PRIVACY POLICY CONSTITUTES YOUR ACCEPTANCE OF SUCH CHANGES.
 
-**Customer Service Department :** 13762 W. SR. 84 • Suite 612 • Davie, FL 33325 • (954) 653-9375 
+**Customer Service Department :** 13762 W. SR. 84 • Suite 612 • Davie, FL 33325 •
