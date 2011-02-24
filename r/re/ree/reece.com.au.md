@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reece.com.au privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205124018id_/http%3A//www.reece.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reece.com.au privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224050440id_/http%3A//www.reece.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Plumbing | Reece
 
