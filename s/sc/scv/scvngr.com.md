@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scvngr.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224061614id_/http%3A//www.scvngr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scvngr.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224014123id_/http%3A//www.scvngr.com/privacy) for the most accurate reproduction.*
 
 # SCVNGR - Privacy Policy
 
