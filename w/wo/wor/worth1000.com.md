@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worth1000.com privacy policy that was archived on 2009-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091005233912id_/http%3A//www.worth1000.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worth1000.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225050324id_/http%3A//www.worth1000.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ We will only release personal information without your authorization in the foll
 
 **Newsletter**
 
-You can opt-in to receive our newsletter. This information will not be sent to you if you ask us not to include your name on our mailing lists. In many places where personal information is collected, we have a box that you can check indicating that you would like to “opt out” if you don't wish to receive further information of the sort indicated. If you have previously consented to have Worth1000.com send you it's newsletter and no longer wish to be contacted, please follow the link at the bottom of each newsletter to unsubscribe.
+You can opt-in to receive our newsletter. This information will not be sent to you if you ask us not to include your name on our mailing lists. In many places where personal information is collected, we have a box that you can check indicating that you would like to "opt out" if you don't wish to receive further information of the sort indicated. If you have previously consented to have Worth1000.com send you it's newsletter and no longer wish to be contacted, please follow the link at the bottom of each newsletter to unsubscribe.
 
 **Username and Password Recommendations**
 
@@ -44,7 +44,7 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 **Minors on Worth1000**
 
-Children below thirteen years of age may use our website by complying with our parental/guardian consent procedures found in the Terms of Use for Worth1000.com, but we don’t have any intention of collecting any personally identifiable information from individuals under thirteen years of age. If you are aware that a child has provided us with personally identifiable information, please email us at support@worth1000.com and we will remove the information.
+Children below thirteen years of age may use our website by complying with our parental/guardian consent procedures found in the Terms of Use for Worth1000.com, but we don't have any intention of collecting any personally identifiable information from individuals under thirteen years of age. If you are aware that a child has provided us with personally identifiable information, please email us at support@worth1000.com and we will remove the information.
 
 **Updating or Deleting Your Information**
 
