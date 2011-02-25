@@ -1,66 +1,36 @@
-> *The following text is extracted and transformed from the cineicon.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205075817id_/http%3A//www.cineicon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineicon.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225032959id_/http%3A//www.cineicon.com/2011/02/aadin-actress-gallery.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Cineicon - Blog - Tamil, Telugu, Hindi, Malayalam, Kannada: Privacy Policy
 
-**What information do we collect?**
+**Privacy Policy Statement**
 
-We collect information from you when you register on our site. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
+Sites like Google AdSense, Google Analytics, FeedBurner, Flickr or [other third-party services](https://www.google.com/adsense/support/bin/answer.py?answer=94149) may place and read cookies or use web beacons to collect non-personal information. These services use the data to track conversions, to show statistics about this site or to improve their features.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+The ads from this site are served by Google AdSense, a third-party service that shows contextually-targeted ads, placement-targeted ads and interested-based ads. Google uses the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/dart_adserving.aspx) to serve ads based on the sites you have recently visited. You can go to the [Google Ads Preferences page](http://www.google.com/ads/preferences/) to opt out of the DoubleClick cookie.
 
- **What do we use your information for?**
+ **Contact   Information**  
+If you have any questions or concerns please contact me at **_cineicon@gmail.com_** . 
 
-Any of the information we collect from you may be used in one of the following ways: 
+  
+**Disclaimer**  
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Some of the pictures in[ _http://www.cineicon._](http://www.blogger.com/goog_2018995825)[com](http://www.cineicon.com/) have been obtained from various internet sources. If by anyhow any of them is offensive to you, please, contact us asking for the removal. If you own copyrights over any of them and do not agree with it being shown here, please send us an email with ownership proof and we will remove it.email us to **_cineicon@gmail.com._**  
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+The copyright of these pictures belongs to their original publisher / photographer. Please let us know at ****
 
-• To administer a contest, promotion, survey or other site feature
+**_cineicon@gmail.com_** _ ****_ if any Copyright Violation occurs and we will remove them right away.
 
-• To send periodic emails
+ **For Mp3 Songs**
 
-> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+This site is owned and operated by 
 
-**Do we use cookies?**
+_**www.cineicon.com**_
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+we want to make your experience online satisfying and safe.The Audio files links on this page are only for evaluation use. If you decide to download any promo music file or any file for evaluation, you should delete them after 24 hours. If you don't, you will have to accept any consequences.All songs links provided in this page are for trial use only. If you like the song, please go buy the CD.
 
- **Do we disclose any information to outside parties?**
+ ** _Downloading at your own risk!!!_**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
- **Third party links**
-
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
-
- **California Online Privacy Protection Act Compliance**
-
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
-
- **Terms and Conditions**
-
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.cineicon.com/terms>
-
-**Your Consent**
-
-By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
-
- **Changes to our Privacy Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-admin@cineicon.com
+Making CD's from Wmv-files, MP3-files and Video Files is a violation of copyrights. The Wmv-files, MP3-files and Video Files on this site are for evaluation use only. If you Download Wmv-files, MP3-files or Video Files from this site please delete the files within 24 hours. If you like the song or video, please go out and buy your self a copy at the near by CD Shops. This website, its webmasters or its ISP cannot be held responsible for the consequences. ****
