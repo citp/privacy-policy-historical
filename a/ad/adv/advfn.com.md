@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advfn.com privacy policy that was archived on 2007-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070620063543id_/http%3A//www.advfn.com/p.php%3Fpid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advfn.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225052545id_/http%3A//www.advfn.com/p.php%3Fpid%3Dprivacy) for the most accurate reproduction.*
 
 # ADVFN - ##Privacy Policy
 
