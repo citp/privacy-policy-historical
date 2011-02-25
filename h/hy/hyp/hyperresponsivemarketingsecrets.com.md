@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperresponsivemarketingsecrets.com privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826063314id_/http%3A//www.hyperresponsivemarketingsecrets.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperresponsivemarketingsecrets.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225163027id_/http%3A//www.hyperresponsivemarketingsecrets.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # DISCLAIMER AND TERMS OF USE AGREEMENT
 
