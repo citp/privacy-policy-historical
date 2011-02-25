@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the vibrantmedia.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211142811id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibrantmedia.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225015425id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
 
-# Vibrant - The Leaders of Contextual Video and In-Text Solutions - Privacy Statement
+# Vibrant Privacy Statement
 
-Privacy Statement
-
-**Vibrant Media Privacy Statement**
-
-Vibrant Media, Inc. (“Vibrant Media” “we” or “us”) is a Publisher-side Technology Company. We help many of the websites that you visit serve advertisements. We provide this privacy policy so we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services (our "Clients"). This policy also outlines our privacy practices on our corporate Website ("Website"), www.VibrantMedia.com. If you have any questions regarding our privacy practices, please feel free to contact us at [info@vibrantmedia.com](mailto:info@vibrantmedia.com).
+Vibrant Media, Inc. (“Vibrant Media” “we” or “us”) is a Publisher-side Technology Company. We help many of the websites that you visit serve advertisements. We provide this privacy policy so we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services (our "Clients"). This policy also outlines our privacy practices on our corporate Website ("Website"), www.VibrantMedia.com. If you have any questions regarding our privacy practices, please feel free to contact us by [clicking here](https://web.archive.org/about/contact.asp?ref=privacy).
 
 If you'd like to opt-out from having Vibrant Media collect your Non-PII in connection with our Technology, please   
 [click here](http://intellitxt.com/opt_out/ch_optout.asp). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to tailor our online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
@@ -37,7 +33,7 @@ The Website may contain links to and advertisements for websites operated by thi
 
 _Updating / Deleting your PII_
 
-If you'd like us to update, correct, delete, or deactivate any PII that you have provided to us on this Website, please send your request to us at [info@vibrantmedia.com](mailto:info@vibrantmedia.com) and we will process your request within a reasonable period of time after receipt. 
+If you'd like us to update, correct, delete, or deactivate any PII that you have provided to us on this Website, please send your request to us by [clicking here](https://web.archive.org/about/contact.asp?ref=privacy) and we will process your request within a reasonable period of time after receipt. 
 
 _United States_
 
@@ -47,7 +43,7 @@ This Website is hosted in the United States, and any information collected or pr
 
 _Overview of the Technology_
 
-Our Technology is primarily designed to facilitate the delivery of online advertisements. The Technology highlights certain words or phrases on our Client’s websites. And when a user scrolls over those words or phrases, our Technology displays ads. For a complete description of how our Technology works, please [click here](http://www.vibrantmedia.com/about_vibrant/index.asp). 
+Our Technology is primarily designed to facilitate the delivery of online advertisements. The Technology highlights certain words or phrases on our Client’s websites. And when a user scrolls over those words or phrases, our Technology displays ads. For a complete description of how our Technology works, please [click here](http://www.vibrantmedia.com/about/index.asp). 
 
 Vibrant aims to deliver advertisements that align with your current interests called "Interest Matching". Our Technology identifies your interests by the words that you have recently seen and read while online, along with the advertisements that you have viewed and clicked on. There is no PII transmitted or used whatsoever. The goal is simply to deliver advertisements that are more relevant, interesting and useful for you. You may encounter our Technology: when our text based advertising solution is enabled on the website of one of our Clients; when Vibrant Media, or one of our Clients purchases online advertisements on a website that you visit; and/or when one of our Clients places one of our web beacons on its website, which you visit. 
 
@@ -75,7 +71,7 @@ We retain the Non-PII collected via our Technology for up to 13 months. After 13
 
 _Deleting your PII_
 
-Although we don’t collect any PII via our Technology, If you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the Website, please send your request to us at [info@vibrantmedia.com](mailto:info@vibrantmedia.com) and we will process your request within a reasonable period of time after receipt.
+Although we don’t collect any PII via our Technology, If you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the Website, please send your request to us by [clicking here](https://web.archive.org/about/contact.asp?ref=privacy) and we will process your request within a reasonable period of time after receipt.
 
 _Opting out from Cookies_
 
