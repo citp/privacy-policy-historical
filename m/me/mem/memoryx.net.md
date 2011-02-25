@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the memoryx.net privacy policy that was archived on 2006-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061206021947id_/http%3A//memoryx.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memoryx.net privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225055200id_/http%3A//www.memoryx.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| | |   
----|---|---  
-|  |  | FIND YOUR MEMORY |   
----|---|---  
-|  |   
----  
-  
-We guarantee 100% compatible ram memory upgrades for more than 50,000 different computers, notebooks, servers, digital cameras and electronic devices.  
-|  |   
-|  |   
-  
-  
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
-
- **Web Site Information Collection:** For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name or IP address, but not the e-mail address. Unless otherwise stated on our web site, we collect only the domain name or IP address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our ratings areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and registrations to access portions of the site and their related services. We also collect clickstream information. We use SSL (secure socket layer) encryption for online payment collection for purchases of our own products and services.
+**Web Site Information Collection:** For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name or IP address, but not the e-mail address. Unless otherwise stated on our web site, we collect only the domain name or IP address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our ratings areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and registrations to access portions of the site and their related services. We also collect clickstream information. We use SSL (secure socket layer) encryption for online payment collection for purchases of our own products and services.
 
  **Postal Address Collection and Use:** If you supply us with your postal address on-line, we will use it to send you the information for which you provided us your address. If you supply us with your telephone number on-line, we will use it to contact you with information regarding your account, orders your have placed, or with information regarding your inquiry. We may send you information about additional services that we offer, but we will not rent or sell your contact information to any third parties without your permission.
 
@@ -29,3 +15,7 @@ _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering sys
  **Security:** When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and notify visitors through a pop-up screen on our site (which is displayed automatically depending on your browser's security settings). We strive to maintain appropriate security measures in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Although we take reasonable measures to secure our data, we cannot guarantee that the measures we take are or will remain adequate. Some portions of our sites and services link to other companies' web sites. Please refer to the privacy policies of those sites for information on how they handle security for information they collect.
 
  **Changes to Privacy Policy:** From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this Privacy Policy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site's Privacy Policy page to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site's Privacy Policy page periodically.
+
+ **Third-Party Web Beacons:** We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+
+ _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
