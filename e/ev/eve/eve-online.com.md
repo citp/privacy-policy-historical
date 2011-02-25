@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eve-online.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226022233id_/http%3A//www.eveonline.com/pnp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eve-online.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225211443id_/http%3A//www.eveonline.com/pnp/privacy.asp) for the most accurate reproduction.*
 
 # EVE Online | Rules & Policies | Privacy Policy
 
