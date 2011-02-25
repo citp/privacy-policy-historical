@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the warmoth.com privacy policy that was archived on 2009-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090721041007id_/http%3A//www.warmoth.com/Ordering/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warmoth.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225151728id_/http%3A//www.warmoth.com/Ordering/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Warmoth Custom Guitar Parts - Privacy Notice
 
-  
 **Privacy and Security Policy**
 
 This Privacy Policy discusses what information Warmoth Guitar Products, Inc. collects and how Warmoth Guitar Products, Inc. uses it. By using the Warmoth.com site, you agree with the terms and conditions of this Privacy Policy.
@@ -40,4 +39,4 @@ Further, you access your Warmoth account information through double verification
 
 It is important for you to protect against unauthorized access to your email address, password and computer. To enhance security of your on-line purchasing we conduct daily security scans through a third party vendor. In addition, Warmoth Guitar Products, Inc. is fully compliant with the current security standards of the Payment Card Industry (PCI).
 
-Please see the Conditions of Use for more information. By visiting Warmoth.com you are agreeing to the Conditions of Use and this Privacy and Security Policy. 
+Please see the Conditions of Use for more information. By visiting Warmoth.com you are agreeing to the Conditions of Use and this Privacy and Security Policy.
