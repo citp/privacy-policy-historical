@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolcat-casino.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225082713id_/http%3A//www.coolcat-casino.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolcat-casino.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225100556id_/http%3A//www.coolcat-casino.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy and Terms of Use - CoolCatCasino
 
@@ -42,7 +42,7 @@ By using the Games software, Players agree to be bound by the following?
     8. If you are found cheating or if it’s determined by COOLCATCASINO that you have used a system or machine, be, it an additional computer, additional software or otherwise used to circumvent the natural randomness of our systems.  
 
     9. The name of the casino account does not match the name of the beneficial owner of the financial instrument used to make the deposit or withdrawal.
-  9. Before any withdrawal totaling more than $100 U.S. Dollars is authorized, a [Credit Card Agreement Form](https://web.archive.org/web/20101225082713id_/http%3A//www.coolcat-casino.com/authorization_form.html) must be properly printed, clearly filled out, and faxed back to COOL CAT CASINO before any monies will be sent. COOL CAT CASINO reserves the right to request a Credit Card Agreement Form at any time and may terminate any account that does not satisfactorily complete and/or return the CCAF in a timely period as determined by COOL CAT CASINO. In such a case, COOL CAT CASINO may unilaterally determine a resolution of any account funds.  
+  9. Before any withdrawal totaling more than $100 U.S. Dollars is authorized, a [Credit Card Agreement Form](https://web.archive.org/web/20110225100556id_/http%3A//www.coolcat-casino.com/authorization_form.html) must be properly printed, clearly filled out, and faxed back to COOL CAT CASINO before any monies will be sent. COOL CAT CASINO reserves the right to request a Credit Card Agreement Form at any time and may terminate any account that does not satisfactorily complete and/or return the CCAF in a timely period as determined by COOL CAT CASINO. In such a case, COOL CAT CASINO may unilaterally determine a resolution of any account funds.  
 
   10. Cool Cat Casino reserves the right to amend these Terms and Conditions at any time without notice to you. Such amendments will become effective immediately. It is solely your responsibility to review the Terms ad Conditions no less than once monthly.  
 
