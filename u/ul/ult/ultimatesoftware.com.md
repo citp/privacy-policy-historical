@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226174018id_/http%3A//www.ultimatesoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatesoftware.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225010751id_/http%3A//www.ultimatesoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # Ultimate Software Privacy Policy
 
@@ -85,7 +85,7 @@ At any time you may contact Ultimate Software with questions or concerns about t
 
 The Ultimate Software Group  
 Attention: Director, Governance, Risk & Compliance  
-2000 Ultimate Way  
+1485 North Park Drive  
 Weston, FL 33326 
 
 **Dispute Resolution**
