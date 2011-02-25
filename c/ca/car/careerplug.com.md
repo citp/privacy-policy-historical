@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerplug.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230234048id_/http%3A//www.careerplug.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerplug.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225141747id_/http%3A//www.careerplug.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
