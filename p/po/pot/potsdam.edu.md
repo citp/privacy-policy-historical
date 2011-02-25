@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the potsdam.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527104935id_/http%3A//www.potsdam.edu/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the potsdam.edu privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225101216id_/http%3A//www.potsdam.edu/privacy/index.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
