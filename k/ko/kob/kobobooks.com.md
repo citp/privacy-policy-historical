@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kobobooks.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219114716id_/http%3A//www.kobobooks.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kobobooks.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226002510id_/http%3A//www.kobobooks.com/privacypolicy) for the most accurate reproduction.*
 
 # Kobobooks.com: Privacy Policy
 
@@ -121,10 +121,10 @@ For anything to do with this Policy, including questions or comments, or to chal
 
 Michael Tamblyn,  
 Privacy Officer.  
-82 Peter Street,  
+135 Liberty St. Suite 101,  
 Toronto, ON Canada  
-M5V 2G5  
-(416)977-8737 x3346  
+M6K 1A7  
+(416) 977-8737 x3346  
 [privacy@kobobooks.com](mailto:privacy@kobobooks.com)  
 
 
