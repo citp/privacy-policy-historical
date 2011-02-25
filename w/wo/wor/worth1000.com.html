@@ -1,178 +1,504 @@
-<!--The following is the downloaded HTML source of the worth1000.com privacy policy that was archived on 2009-10-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091005233912id_/http%3A//www.worth1000.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worth1000.com privacy policy that was archived on 2011-02-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110225050324id_/http%3A//www.worth1000.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 
-		<title>Privacy Policy</title>	
-		<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>	
-		<script src="/plugins/jquery-1.3.2.min.js"></script>
-		<script type="text/javascript" src="/scripts/worth1000.ui.js"></script>	
-		<link href="/css/worth1000.css" type="text/css" rel="stylesheet">			
-		<link href="/images/favicon.png" type="image/png" rel="icon">					
-				<script type="text/javascript" src="/plugins/worth1000.favorites.js"></script>
-		<script type="text/javascript">var addthis_pub="4a13092a4ad9b129";</script>
-		<script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
-		<link rel="stylesheet" media="screen" type="text/css" href="/plugins/facebox/facebox.css">
-		<script type="text/javascript" src="/plugins/facebox/facebox.js"></script>
-		<script type="text/javascript" src="/plugins/worth1000.facebox.js"></script>
-		<script type="text/javascript" src="/plugins/jquery-validate/jquery.validate.js"></script>
 
-		<style>
-			a {
-				color:#0099ff;
-			}	
+		<title>Privacy Policy</title>	
+		<!-- 1 -->
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>	
+		<script src="http://s3.amazonaws.com/worth1000media/plugins/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="/Tocopytos3fox/worth1000.ui.js?cache=11082009-020201"></script>	
+		<link href="/net/css/css.css" type="text/css" rel="stylesheet">
+		<link href="/Tocopytos3fox/worth1000.css?cache=11182009-073801pm" type="text/css" rel="stylesheet">			
+		<link href="http://s3.amazonaws.com/worth1000media/images/favicon.png" type="image/png" rel="icon">		
+		<meta http-equiv="CONTENT-TYPE" content="TEXT/HTML; CHARSET=UTF-8">
+				<script type="text/javascript">var addthis_pub="4a13092a4ad9b129";</script>
+		<script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+	
+		<script>
+			var varIsAdmin = 0;
+			var varIsCouncil = 0;
+		</script>
+		<script type="text/javascript">
+		    $(document).ready(function() {
+		        var browserWidth = window.innerWidth;
+		        if (browserWidth <= 1000)
+		        {
+		            $("#bg_container").css("width", "1000px");
+		        }
+		        
+		        $('#search').keyup(function(e) {
+		            if (e.keyCode == 13) {
+		                isearch();
+		            }
+		        });
+		        
+		        $('#user_login').hover(function () {
+		        }, 
+		        function()
+		        {
+		            $('#user_login_settings_container').css("display", "none");
+		        });
+
+		        $('#banner').children('h1').children('a').bind('click', function () {
+		            $('#arena_menu_container').css("display", "inline");
+		        });
+		        
+		        $('#banner').hover(function () {
+		        }, 
+		        function()
+		        {
+		            $('#arena_menu_container').css("display", "none");
+		        });
+		        
+		        $('#moretopics').bind('click', function () {
+		            $('#topic_menu_container').css("display", "inline");
+					$(this).addClass("tab_menu_hover");
+
+		        });
+
+		        $('#cat_menu').hover(function () {
+		        }, 
+		        function()
+		        {
+		            $('#topic_menu_container').css("display", "none");
+		            $('#moretopics').removeClass("tab_menu_hover");
+		        });
+				
+				//10px padding - 2 pix margin-right
+		        $("#topic_menu_container").css("right", 0 - (148 - $('#moretopics').width()) + "px");
+		        $("#user_login_settings ul li a").css("width", $("#lnkPersonalDropdown").width() - 2 + "px");
+
+		        if ($.browser.msie && $.browser.version == "7.0")
+		        {
+		            var totalTopicWidth = 0;
+		            $('#cat_menu ul li').each(function(){
+		                totalTopicWidth += $(this).width() + 1;
+		            });
+
+		            totalTopicWidth += 3;
+
+		            $("#cat_menu").css("max-width", totalTopicWidth + "px");
+		            
+		            $("a.pill").css("display", "inline-block");
+		            $("#user_login a img").css("bottom", "0px");
+
+		            $("#user_login a span.line span.arrow").css("height", "1px");
+		        }
+		        
+		        
+		       
+		});
 		
-			#logo-img img {
+		function setSiteCookie(action)
+        {
+			    var post_data = "action=" + action;
+			    $.ajax({
+			       type: "POST",
+			       url: "/net/data/__setSiteCookie.ashx",
+			       data: post_data + "&dh=" + new Date().getTime(),
+			       dataType: "xml",
+			       success:function(return_xml){
+					    var message = $(return_xml).find("msg").text();
+
+					    if (message == 'success' ) {
+						    window.location.reload();							
+					    } else {
+						    $("#sitemsgfail").html("Failed");							
+					    }
+			       }
+			    });	
+		    return false;		
+        }
+
+		</script>
+
+		
+		<style type="text/css"> 
+			    a:link, a:visited {
+				    color:#0099ff;
+			    }
+    			
+			    .news_post h3 a:visited {
+				    color:#777;
+			    }
+    			
+			    a:hover {
+				    text-decoration:underline;
+			    }
+    			
+			    a:active {
+				    color:blue;
+			    }
+ 
+			    .news_post h3 a:hover {
+				    color:#777;
+                    text-decoration:none;
+			    }
+ 
+			    /**/
+			    #top_nav_logo_img a img {
+				    background: #fff url('http://s3.amazonaws.com/worth1000media/images/logo-black.png');
+			    }
+			    #top_nav_logo_img a img.all {
+				    background: #fff url('http://s3.amazonaws.com/worth1000media/images/logo-all2.png');
+			    }
+			    #top_nav_logo_img a:hover img {
+				    background:#0099ff;
+			    }
+			    #cat_menu ul li.selected a, #cat_menu ul li.selected a:hover {
+				    background:#0099ff;
+			    }
+    	
+			    #wrapper_middle_header_container {
+				    background:#0099ff url('http://s3.amazonaws.com/worth1000media/images/exksy.png') bottom repeat-x;
+			    }				
+			    #my_button a:hover {
+				    color:#0067CD
+			    }
+
+			    #banner h1 a {
+				    border-top:1px solid #0067CD;
+				    border-left:1px solid #0067CD;
+				    border-bottom:1px solid #32CBFF;
+				    border-right:1px solid #32CBFF;							
+			    }				
+    			
+			    #banner h1 a b {
+				    background:#0099ff;
+				    border-top:1px solid #32CBFF;
+				    border-left:1px solid #32CBFF;
+				    border-bottom:1px solid #0067CD;
+				    border-right:1px solid #0067CD;	
+			    }		
+    			
+			    #banner h1 a:hover{
+                    text-decoration:none;
+			    }	
+	
+			    #banner h1 a:hover b {
+				    background:#00B2FF;
+                    text-decoration:none;
+			    }		
+    			
+			    #banner h1 a b span.line  {
+				    color:#0099ff;
+				    border-left:1px solid #0067CD;
+			    }			
+			    #banner h1 a b span.line span.arrow {
+				    color:#0067CD;
+				    border-top:8px solid #0067CD;
+			    }	
+			    #wrapper_middle2_header_container {
+				    background:#0099ff;
+				    border-bottom:1px solid #0099ff;
+			    }
+
+                #arena_menu_container {	
+					display:none;
+					position:absolute;
+					padding:2px;
+					background:#0099ff;
+					border-bottom-left-radius:10px;
+					-moz-border-radius-bottomleft:10px;
+					border-bottom-right-radius:10px;
+					-moz-border-radius-bottomright:10px;
+					-webkit-box-shadow: 0px 2px 3px #555;
+					-moz-box-shadow: 0px 2px 3px #555;
+					box-shadow: 0px 2px 3px #555;
+                    z-index:1000;
+				}
+
+    			
+			    #arena_menu ul li a {
+				    border:1px solid #0099ff;
+				    background:#0CA5FF;
+			    }
+    			
+			    #arena_menu ul li.selected a, #arena_menu ul li.selected a:hover {
+				    background:#AFFFFF;
+				    color:#0099ff;
+				    border-top:0px solid #0067FF;
+				    border-left:0px solid #0067FF;
+				    border-bottom:0px solid #4BE4FF;
+				    border-right:0px solid #4BE4FF;
+			    }
+    			
+			    #arena_menu ul li a:hover {
+				    color:#000;
+				    background:#4BE4FF
+			    }
+    			
+
+
+                #menu ul li a:hover {
+				    color:#0099ff;
+					text-decoration:none;
+
+			    }
+    			
+			    .active_thumb a:hover .timer {
+				    background:#0099ff;
+			    }				
+    			
+			     .active_thumb div a:hover img {
+				    border:1px solid #0099ff
+			    }		
+    			
+			    .active_thumb .more a:hover {
+				    color:#0099ff;
+				    border:1px solid #0099ff;
+    				
+			    }
+    			
+			     .active_thumb a:hover {
+				    color:#0099ff;
+			    }
+				
+				.call-out a {
+		            background:#0099ff;
+                    color:#ffffff;
+	            }
+
+ 	            .call-out-secondary a, .paging-extra a {
+		            background:#0099ff;
+                    color:#ffffff;
+	            }
+				
+				
+
+
+		</style> 
 			
-				background:#fff url('/images/logo-all2.png');								
+		<!--[if lt IE 7]>
+        <script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+        <![endif]-->        
+         <!--[if lt IE 8]>
+	    <style type="text/css">
+            .forum-item-r {
+	            padding-top:4px;
+            }
+            
+            .clear
+            {
+                line-height:1;
+            }
 			
-			}
-			
-			#logo-tag a {
-				color:#555
-			}
-		</style>
-	</head>
+			.sites ol li.selected {
+              position:static;
+            }
+
+	    </style>
+        <![endif]-->        
+       
+
+	    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-84575-1']);
+      _gaq.push(['_setDomainName', '.worth1000.com']);
+      _gaq.push(['_setCustomVar',1,'version','w4k',3]);
+      _gaq.push(['_setCustomVar',2,'usertype','guest',3]); 
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>      
+</head>
 	
 	<body>
-	
-
-	
-	<div id="body-proxy-l">
-	<div id="body-proxy-r">	
-		<div id="network-container">
-            <div id="network-center">
-    			<div id="network-header">
-					
-					
-    				<div id="network-header-right">
-    					<ul class="mininav-list">
-
-    					</ul>		
-    				</div>
-					
-    				<div id="network-header-left">
-    					<ul class="mininav-list">
-    						<li class="selected"><a href="http://www.worth1000.com">Worth1000</a></li>				
-    						<li><a href="http://www.aviary.com">Aviary</a></li>
-    						<li><a href="http://www.plime.com">Plime</a></li>
-    						<li><a href="/tour">Take a Tour</a></li>
-    						<li><a href="/faq">FAQ</a></li>							
-    						<li><a href="/forms/form-contact-us.asp" rel="facebox">Contact Us</a></li>														
-    					</ul>					
-    				</div>
-    			</div>
-            </div>
-			<div id="network-liner"></div>	
-		</div>		
-
-
-	
-
-
-		<div id="body-container">
-			<div id="main">
-
-	<div id="header">
-		<div id="header-container">
-			<div id="cookietrail-options">
-			
-				
-
-				
-<div style="z-index:500000">
-	<ul id="dmenu">
-		<li class="dd-m"><a href="http://www.worth1000.com/" class="menu-top menu-close"><span class="down"></span>All arenas</a>
-			<div>
-				<ul>
-					<li><a href="http://www.worth1000.com/">All arenas</a></li>						
-					<li><a href="http://my.worth1000.com/">All my subscriptions</a></li>			
-					<li><a href="http://advanced.worth1000.com/" class="spaceli">All Advanced</a></li>
-					<li><a href="http://beginner.worth1000.com/">All Beginner</a></li>
-					<li><a href="http://hxh.worth1000.com/">All HxH</a></li>
-					<li><a href="http://effects.worth1000.com/" class="spaceli">All Effects</a></li>			
-					<li><a href="http://photography.worth1000.com/">All Photography</a></li>						
-					<li><a href="http://illustration.worth1000.com/">All Illustration</a></li>						
-					<li><a href="http://multimedia.worth1000.com/">All Multimedia</a></li>						
-					<li><a href="http://writing.worth1000.com/">All Writing</a></li>						
-					<li><a href="http://corporate.worth1000.com/" class="spaceli">All Corporate</a></li>						
-				</ul>
-			</div>
-		</li>
-				
-	</ul>
-	<div class="clear-left"> </div>
-</div>							
-
-
-			</div>		
-			<div id="login-options">
-			
-	<div><a href="/login" class="login" onclick="jLogin(1);return false">Login</a> or <a href="/login" class="register" onclick="jLogin(2);return false">Create an account!</a></div>
-
-			</div>	
+        <style type="text/css">
+            #divGlobalBanner center a
+            {
+            	text-decoration:none;
+            }
+            
+            #divGlobalBanner center a:hover
+            {
+            	text-decoration:underline;
+            	}
+        </style>
 		
-			<div id="logo">
-				<div id="logo-img">
-					<a href="http://www.worth1000.com"><img src="/images/worth1000-logo-transparent3.png"></a>
+		<div id="divHeaderAnnouncementOuterContainer" class="header-announcement-outer-container">
+			<div id="divHeaderAnnouncementInnerContainer">
+				<div style="float:right;">
+					<a href="javascript:void(0)" onclick="setCookieAjax(8,'1');$('#divHeaderAnnouncementOuterContainer').slideUp();"><img src="http://s3.amazonaws.com/worth1000media/images/close.png"> Close</a>
 				</div>
-				<div id="logo-tag">
-					
-					<form action="/search.asp" method="get">					
-					<div class="searchbar">
-						<input name="search" value="" id="search" onfocus="filterList(1)" onblur="filterList(0);return false">								<a href="/search" class="searchicon" onclick="isearch();return false;"><img src="/images/search.png"></a>
-					</div>
-					</form>
-				</div>				
-				<div class="nav-holder">
-						<ul class="nav-list"><li></li>
-							<li><a href="/">Home</a></li>
-							<li><a href="/contests">Contests</a></li>
-							<li><a href="/galleries">Galleries</a></li>
-							<li><a href="/tutorials">Tutorials</a></li>
-							<li><a href="/community">Community</a></li>
-							<li><a href="/tools">Tools</a></li>
-						</ul>
-					
-				</div>
+				<div><a href="http://aviary.worth1000.com/contests">Win iTunes gift cards in our Aviary Audio contests!</a></div>
 			</div>
-			
-			
-
 		</div>
 		
 
-	<!--FILTER MODULE-->
-	<div id="filter-options-container">	
+        <!--<div id="divGlobalBanner" style='padding:1px;padding-bottom:4px;width:230px;margin-left:auto;margin-right:auto;background-color: #DFDFDF; color: #777; -moz-border-radius: 0px 0px 8px 8px;-webkit-border-radius:0px 0px 8px 8px;border-radius:0px 0px 8px 8px;text-align:center;margin-bottom:20px;'>
+        <center>
+            <a  href='javascript:void(0);' onclick='setSiteCookie(1);return false;' style='color:#777;'>Miss the old Worth?</a> | <a href='/discussions/62784/happy-9th-worthday-worth1000-here-s-our-gift-to-you' style='color:#777;'>What's new?</a>
+        </center>
+        </div>
+		-->
+				<div id="bg_container"> 
+					<div id="header_container" style="position:relative;z-index:1;"> 
+						<div id="wrapper_header"> 
+							<div id="wrapper_top_header" class="wrapper"> 
+								<div id="top_header"> 
+									<div id="user_login">
+										
+	<a href="/login" class="pill" onclick="jLogin(2);return false">Create account</a> <a href="/login" class="pill" onclick="jLogin(1);return false">Login</a>
+
+									</div>  <!--user-->      
+									<div id="top_header_left"> 
+										<div id="logo" style="display:none"> 
+											<a href="http://www.worth1000.com"> </a> 
+										</div> <!--logo--> 
+										 
+										<div id="top_nav_logo_img"> 
+											<a href="http://www.worth1000.com" title="Worth1000"><img src="http://s3.amazonaws.com/worth1000media/images/worth1000-logo-transparent3.png" alt="Worth1000 logo"></a>
+										</div>	
+										<div id="cat_menu"> 											
+												<ul> 
+												   <li class=" selected"><a href="http://effects.worth1000.com">Effects</a></li><!--
+												--><li class=""><a href="http://photography.worth1000.com">Photography</a></li><!--
+												--><li class=""><a href="http://writing.worth1000.com">Writing</a></li><!--
+												--><li class=""><a href="http://illustration.worth1000.com">Illustration</a></li><!--
+												--><li class=""><a href="http://multimedia.worth1000.com">Multimedia</a></li><!--
+												--><li class=""><a href="http://corporate.worth1000.com">Corporate</a></li><!--
+												-->
+												
+												<li><a id="moretopics" href="javascript:void(0)">More <span class="line"><span class="arrow">'</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li> 
+											</ul> 
+											<div class="clear"></div><!--clear--> 
+											<div style="float:right;">
+			                                <div id="topic_menu_container" style="position:absolute;z-index:30000000;">
+		                                        <div id="topic_menu"> 
+			                                        <ul>
+														
+															<li><a href="http://all.worth1000.com">All</a></li>
+														
+			<li><a href="http://advanced.worth1000.com">Advanced</a></li>
 		
-	</div>
+			<li><a href="http://aviary.worth1000.com">Aviary</a></li>
+		
+			<li><a href="http://beginner.worth1000.com">Beginner</a></li>
+		
+			<li><a href="http://community.worth1000.com">Community</a></li>
+		
+			<li><a href="http://featured.worth1000.com">Featured</a></li>
+		
+			<li><a href="http://hxh.worth1000.com">HxH</a></li>
+		
+			                                        </ul> 
+			                                        <div class="clear"></div><!--clear--> 
+		                                        </div><!--sub_menu--> 
+			                                </div>
+								        </div>
+
+										</div> <!--cat_menu--> 
+										<div class="clear"></div><!--clear--> 
+									</div><!--top header left--> 
+								</div> <!--top_header--> 
+							</div><!--top_header_wrapper--> 		
+							<div id="wrapper_middle_header_container"> 
+								<div id="wrapper_middle_header" class="wrapper"> 
+									<div id="middle_header">
+										
+										<div id="my_button">
+										
+											<a href="/forms/subscribe-mult.asp" rel="facebox">+ Add to My tab</a> 
+										
+										
+											
+										</div> <!--my_button--> 
+										
+										<div id="banner"> 
+											<h1> 
+												<a href="javascript:void(0);"><b>All<span class="line"><span class="arrow">'</span></span></b></a> Photo Effects&nbsp;Legal
+											</h1> 
+											<div id="arena_menu_container">
+										        <div id="arena_menu"> 
+											        <ul> 
+														<li class="selected"><a href="http://effects.worth1000.com">All</a></li>
+													
+																				<li><a href="http://fxt.worth1000.com">Tournament</a></li>
+																			
+																				<li><a href="http://fx.worth1000.com">Advanced</a></li>
+																			
+																				<li><a href="http://fxb.worth1000.com">Beginner</a></li>
+																			
+																				<li><a href="http://fxh.worth1000.com">HxH</a></li>
+																			
+											        </ul> 
+											        <div class="clear"></div><!--clear--> 
+										        </div><!--sub_menu--> 
+											</div>
+										</div> <!--banner--> 
+										<div class="clear"></div><!--clear--> 
+									</div> <!--middle_header--> 
+								</div><!--wrapper_middle_header_--> 
+							</div><!--wrapper_middle_header_container--> 
+							<div id="wrapper_middle2_header_container" style="display:none"><!--jquery trigger--> 
+								<div id="wrapper_middle2_header" class="wrapper"> 
+									<div id="middle2_header"> 
+									</div> <!--middle_header--> 
+								</div><!--wrapper_middle2_header_--> 
+							</div><!--wrapper_middle2_header_container-->		
+							<div id="wrapper_bottom_header_container"> 
+								<div id="wrapper_bottom_header" class="wrapper">								
+									<div id="bottom_header"> 
+
+										<div id="search_container"> 
+				                            <input id="search" name="search" value="" onfocus="filterList(1)" onblur="filterList(0);return false" size="15">
+				                            <select onchange="$('#searchtype').val($(this).val());">
+				                                <option id="optionSearchEntries" value="entries">Entries</option>
+				                                <option id="optionSearchGalleries" value="galleries">Galleries</option>
+				                                <option id="optionSearchForums" value="community">Forums</option>
+				                                <option id="optionSearchTutorials" value="tutorials">Tutorials</option>
+				                            </select>
+									        <a id="ctl00_btnSubmitSearch" class="btn" onclick="isearch();return false;" style="font-size:8pt;"><span><span>Search</span></span></a>
+                                            <input type="hidden" id="searchtype" value="entries">
+										</div> <!--search-->								
+
+
+										<div id="menu"> 
+											<ul> 
+												
+							<li><a href="/" class="first">Home</a></li>
+							<li><a href="/contests">Contests</a></li>
+							<li><a href="/galleries">Galleries</a></li>
+							<li><a href="/tutorials">Tutorials</a></li>
+							<li><a href="/forums">Forums</a></li>
+							<li><a href="/chat">Chat</a></li>
+							<li><a href="/halloffame">Hall of Fame</a></li>
+							<li><a href="/faq">FAQ</a></li>
+						</ul>
+					
+											 
+										</div> <!--menu--> 
+										
+										<div class="clear"></div><!--clear--> 
+ 
+									</div> <!--bottom_header--> 
+								</div> <!--wrapper_bottom_header--> 
+							</div> <!--wrapper_bottom_header_container--> 
+						</div><!--wrapper_header--> 
+					</div><!--header_container-->	
+
+					<div id="content_container" style="position:relative;z-index:0;">	
+						<div id="wrapper_content" class="wrapper"> 
+
+
+
+
+
+
+
 
 		
-		
-	</div>
-	
 
-	
-	<div id="header-liner">
-		&nbsp;
-	</div>
-		
-		
-				<div id="head-da">
-					<div class="da-message">
-						<div class="da-close">
-							<a href="/tour" onclick="closeDa();return false"><img src="/images/icons/cancel.png"></a>
-						</div>
-						<div class="da-content">
-							<h1>Why, hello there. I am so happy to meet you!</h1>
-							<p>
-								Allow me to introduce myself. I am the new Worth1000. Is this your first time meeting the new me? We should get reacquainted then. So many things are different about me now. <a href="/tour" onclick="startTour();return false">Come and learn more</a> :).
-							</p>
-						</div>
-					</div>
-				</div>		
-		
 <style>
 	div.data-grid ul, div.data-grid ol {margin-left:20px}
 	div.data-grid ul li, div.data-grid ol li {margin-bottom:10px}
@@ -181,26 +507,12 @@
 
 <div class="call-out-container">
 
-	<div class="btns-subscribe" style="display:none;">
-		<div class="call-out-secondary">
-			<a href="#" onclick="guildSubscribe(0,0);return false" class="btn">- Leave Arena</a>
-		</div>	
-	</div>
-	<div class="btns-unsubscribe">
-	
 	<div class="call-out-secondary">
-		
-		<a href="/forms/form-login-register.asp?msg=perms" rel="facebox" class="btn disabled">+ Join Arena</a>		
-		
-	</div>	
+		<a rel="facebox" href="/forms/form-contact-us.asp" class="btn">+ Contact Us</a>
+	</div>
 	
-	</div>
- 
-	<div class="call-out-secondary">
-	<a href="http://www.addthis.com/bookmark.php?v=20" class="btn" onclick="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()">+ Share / Email Page</a>
-	</div>
-		
 </div>
+
 <!--MODULE-->
 	<div id="category" class="module-container">			
 
@@ -210,21 +522,33 @@
 				<div class="sites">
 					<ol>
 					
-						<li class="cat-head">Topics &amp; Arenas</li>							
+						<li class="cat-head">Filter List</li>							
 						
+		<li><a href="http://all.worth1000.com"># All</a></li>
+	
 			  <li class="selected">
-			  		<a href="http://www.worth1000.com">
+			  		<a href="http://effects.worth1000.com">
 							<span class="arr-container">
 								<span class="arr">
 									<span class="arr-left-shadow">&nbsp;</span>
 									<span class="arr-left">&nbsp;</span>
 								</span>
 							</span>
-					# All</a></li>
+					# Effects</a></li>
 
 	
-		<li><a href="http://effects.worth1000.com"># Effects</a></li>
-	
+			<li><a href="http://fxt.worth1000.com"><span class="cat-tag" style="background:#014161">fxt</span>						  
+					&nbsp;&nbsp; Tourn. Effects</a></li>
+			
+			<li><a href="http://fx.worth1000.com"><span class="cat-tag" style="background:#0099ff">fx</span>						  
+					&nbsp;&nbsp; Adv. Effects</a></li>
+			
+			<li><a href="http://fxb.worth1000.com"><span class="cat-tag" style="background:#005588">fxb</span>						  
+					&nbsp;&nbsp; Beg. Effects</a></li>
+			
+			<li><a href="http://fxh.worth1000.com"><span class="cat-tag" style="background:#3086bf">fxh</span>						  
+					&nbsp;&nbsp; HxH Effects</a></li>
+			
 		<li><a href="http://illustration.worth1000.com"># Illustration</a></li>
 	
 		<li><a href="http://multimedia.worth1000.com"># Multimedia</a></li>
@@ -233,6 +557,8 @@
 	
 		<li><a href="http://writing.worth1000.com"># Writing</a></li>
 	
+		<li><a href="http://aviary.worth1000.com"># Aviary</a></li>
+	
 		<li><a href="http://community.worth1000.com"># Community</a></li>
 	
 		<li><a href="http://corporate.worth1000.com"># Corporate</a></li>
@@ -240,13 +566,11 @@
 <!--						<li class="see-all"><a href="#">Show more</a></li>	-->
 
 					</ol>
-					<ol>						
 					
-					</ol>
 					<ol>						
 						<li class="cat-head">Recently visited</li>
 						
-		<li><a href="http://www.worth1000.com"># All</a></li>
+		<li><a href="http://all.worth1000.com"># All</a></li>
 	
 					</ol>					
 				</div>
@@ -257,7 +581,6 @@
 	</div>
 	<!--/MODULE-->
 	
-
 </div>
 <div id="body-col-left-major">
 
@@ -348,7 +671,7 @@ personal information without your authorization in the following situations:</p>
 <p>You can opt-in to receive our newsletter. This
 information will not be sent to you if you ask us not to include your name on
 our mailing lists. In many places where personal information is collected, we
-have a box that you can check indicating that you would like to “opt out” if
+have a box that you can check indicating that you would like to "opt out" if
 you don't wish to receive further information of the sort indicated. If you have
 previously consented to have Worth1000.com send you it's newsletter and no
 longer wish to be contacted, please follow the link at the bottom of each
@@ -382,7 +705,7 @@ for Worth1000 use, can not be retrieved by other websites.</p>
 
 Children below thirteen years of age may use our website by
 complying with our parental/guardian consent procedures found in the Terms of
-Use for Worth1000.com, but we don’t have any intention of collecting any
+Use for Worth1000.com, but we don't have any intention of collecting any
 personally identifiable information from individuals under thirteen years of
 age. If you are aware that a child has provided us with personally identifiable
 information, please email us at support@worth1000.com and we will
@@ -448,57 +771,77 @@ us at support[a]worth1000.com.</p>
     <div class="breaker">&nbsp;</div>
 	
 </div>
-				<div class="clear">&nbsp;</div>
+                </div><!--wrapper_content-->
+                
+            </div><!--content_container-->
 
-			</div>
-		</div>
-			
-	<div id="footer">
-		<div id="footer-liner">
-			&nbsp;
-		</div>	
-		<div id="footer-container">
-			<div id="footer-right">
-				© 2009, <a href="http://www.aviary.com">Aviary, Inc.</a> All rights reserved.
-			</div>
-			<div id="footer-left">
-				<ul class="footer-list">
-					<li><a href="#">Back to Top ^</a></li>									
-					<li><a href="/tour">Tour</a></li>											
-					<li><a href="/faq">FAQ</a></li>						
-					<li><a href="/legal/terms">Terms</a></li>					
-					<li><a href="/legal/guidelines">Guidelines</a></li>										
-					<li><a href="/legal/privacy">Privacy</a></li>									
-					<li><a href="/legal/copyright">Copyright</a></li>							
-				</ul>		
-			</div>
-		</div>
-		<div class="clear"></div>
-		<div style="text-align:center;margin-top:20px;background:#999;color:#fff;">
-			Worth1000.com v3.0 is brought to you by <a href="http://aviary.com">Aviary</a> and is proudly hosted by <a href="http://www.fortressitx.com">FortressITX</a>.
-		</div>		
-		<div style="text-align:center;margin-top:10px;">
-		Aviary web apps: <a href="http://aviary.com/tools/phoenix">image editor</a> | <a href="http://aviary.com/tools/raven">vector editor</a> | <a href="http://aviary.com/tools/talon">screen capture</a>
-		 | <a href="http://aviary.com/tools/toucan">color editor</a> | <a href="http://aviary.com/tools/peacock">filter effects</a> | <a href="http://aviary.com/tools/falcon">online image editor</a>
-		</div>
-	</div>
+        </div> <!--bg_container--> 
+	    <div id="footer" class="wrapper"> 
+		    <div id="footer_right"> 
+			    <ul> 
+				    <li class="selected">Copyright 2011 © Aviary, Inc.</li> 
+			    </ul> 
+		    </div> 
+		    <div id="footer_left"> 
+			    <ul><!-- 
+			    --><li class="selected"><a href="#" class="first">Back to Top ^</a></li>
+			    <li><a href="/faq">FAQ</a></li><!-- 
+			    --><li><a href="/legal/terms">Terms</a></li><!-- 
+			    --><li><a href="/legal/guidelines">Guidelines</a></li><!-- 
+			    --><li><a href="/legal/privacy">Privacy</a></li><!-- 
+			    --><li><a href="/legal/copyright">Copyright</a></li><!-- 
+			    --><li><a rel="facebox" href="/forms/form-contact-us.asp?main=1">Contact Us</a></li><!-- 
+			    --></ul> 
+		    </div> 
+		    <div id="footer_center">
+		        <div style="padding-top:25px;">
+		            Worth1000.com v4.0 is brought to you by <a href="http://www.aviary.com">Aviary</a>
+		        </div>
+		        <div style="padding-top:10px;">
+		            Aviary web apps: <a href="http://aviary.com/tools/phoenix">image editor</a> | 
+		                            <a href="http://aviary.com/tools/raven">vector editor</a> | 
+		                            <a href="http://aviary.com/tools/talon">screen capture</a> | 
+		                            <a href="http://aviary.com/tools/toucan">color editor</a> | 
+		                            <a href="http://aviary.com/tools/peacock">filter effects</a> | 
+		                            <a href="http://aviary.com/tools/falcon">online image editor</a>
+		        </div>
+		        <div style="padding-top:10px;">
+                    Current Worth Time: 2/25/2011 12:03:38 AM
+		        </div>
 
-						
+		    </div>
 
-	</div><!-- /body-proxy-r-->
-	</div><!-- /body-proxy-l-->
+	    </div> 					
+
+
+    
+
 	
-<!--<script type="text/javascript">
-var cbjspath = "static.chartbeat.com/js/chartbeat.js?uid=1001&domain=onjon.com";
-var cbjsprotocol = (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://");
-document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/javascript'%3E%3C/script%3E"))
-</script>	
--->	
+
+<script type="text/javascript">
+var _sf_async_config={uid:1001,domain:"worth1000.com"};
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src',
+(("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+"static.chartbeat.com/js/chartbeat.js");
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+
+
 <!-- FM Tracking Pixel -->
 <script type="text/javascript" src="http://static.fmpub.net/site/aviary"></script>
-<!-- FM Tracking Pixel -->
+<!-- Close FM Tracking Pixel -->
 
-		<!--Google Analytics-->
-		<script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> <script type="text/javascript"> try { var pageTracker = _gat._getTracker("UA-84575-1"); pageTracker._trackPageview(); } catch(err) {}</script>
 	
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
