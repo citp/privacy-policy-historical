@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runforthecure.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226040422id_/http%3A//www.runforthecure.com/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runforthecure.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225023402id_/http%3A//www.runforthecure.com/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Canadian Breast Cancer Foundation CIBC Run For The Cure: Privacy Policy
 
