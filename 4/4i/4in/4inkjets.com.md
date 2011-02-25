@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230082418id_/http%3A//www.4inkjets.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4inkjets.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225162952id_/http%3A//www.4inkjets.com/policy) for the most accurate reproduction.*
 
-# Policy - 4inkjets
+# Privacy Policy - 4inkjets
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.4inkjets.com&sealid=101)
 
