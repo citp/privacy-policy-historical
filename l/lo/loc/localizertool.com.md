@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the localizertool.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126020111id_/http%3A//localizertool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localizertool.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225171641id_/http%3A//localizertool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | localizertool.com
 
 ## This is the web site of **localizertool.com**.
 
-You can reach us in several ways, outlined on our [Contact Us](https://web.archive.org/web/20101126020111id_/http%3A//contact) page.
+You can reach us in several ways, outlined on our [Contact Us](https://web.archive.org/web/20110225171641id_/http%3A//contact) page.
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
@@ -12,11 +12,11 @@ We collect the domain name and e-mail address (where possible) of visitors to ou
 
 The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, shared with other reputable organizations to help them contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
 
-If you do not want to receive e-mail from us in the future, please let us know by contacting us via the [Contact Us](https://web.archive.org/web/20101126020111id_/http%3A//contact) page.
+If you do not want to receive e-mail from us in the future, please let us know by contacting us via the [Contact Us](https://web.archive.org/web/20110225171641id_/http%3A//contact) page.
 
 Please provide us with your exact name and address.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by visiting us at [http://www.localizertool.com/contact](https://web.archive.org/web/20101126020111id_/http%3A//contact/).
+Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by visiting us at [http://www.localizertool.com/contact](https://web.archive.org/web/20110225171641id_/http%3A//contact/).
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of the respective ad server companies.
 
@@ -24,10 +24,10 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request we provide site visitors with access to a description of information that we maintain about them.
 
-Consumers can access this information by e-mail us at the above address. Consumers can have this information corrected by contacting us via the [Contact Us](https://web.archive.org/web/20101126020111id_/http%3A//contact) page.
+Consumers can access this information by e-mail us at the above address. Consumers can have this information corrected by contacting us via the [Contact Us](https://web.archive.org/web/20110225171641id_/http%3A//contact) page.
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us via the [Contact Us](https://web.archive.org/web/20101126020111id_/http%3A//contact) page.
+If you feel that this site is not following its stated information policy, you may contact us via the [Contact Us](https://web.archive.org/web/20110225171641id_/http%3A//contact) page.
 
 All other legal notices on this site are incorporated herein by reference.
