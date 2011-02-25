@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homerunmonkey.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230210908id_/http%3A//www.homerunmonkey.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homerunmonkey.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225184600id_/http%3A//www.homerunmonkey.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Homerunmonkey.com - Your Source for Online Baseball Equipment Privacy Policy
 
