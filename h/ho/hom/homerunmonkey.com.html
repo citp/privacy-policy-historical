@@ -1,7 +1,12 @@
-<!--The following is the downloaded HTML source of the homerunmonkey.com privacy policy that was archived on 2010-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230210908id_/http%3A//www.homerunmonkey.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homerunmonkey.com privacy policy that was archived on 2011-02-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110225184600id_/http%3A//www.homerunmonkey.com/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><!-- MyBuys libraries and style sheet - Place in <head> element -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script type="text/javascript"> 
+ <!-- 
+ (new Image).src="http://store.yahoo.net/cgi-bin/refsd?e=http://www.homerunmonkey.com/privacypolicy.html&h=www.homerunmonkey.com&v=1.0&dr=" + escape(document.referrer); 
+ --> 
+ </script>
+<!-- MyBuys libraries and style sheet - Place in <head> element -->
 <!-- For secure (HTTPS) pages, change the href in the link element and -->
 <!-- the src in both <script> tags to use 'https' instead of 'http' -->
 <link href="http://t.p.mybuys.com/css/mbstyles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
@@ -15,7 +20,7 @@
 
 <meta property="og:title" content="">
 <meta property="og:site_name" content="Homerunmonkey.com - Your Source for Online Baseball Equipment">
-<meta property="og:image" content="http://ep.yimg.com/ca/I/yhst-11930413061568_2136_24927"><meta name="verify-v1" content="4TC60LSAR3MFDrjoR8Dl1IsMjhUI2Y0muQnVBDt1nk8=">
+<meta property="og:image" content="http://ep.yimg.com/ca/I/yhst-11930413061568_2148_94532"><meta name="verify-v1" content="4TC60LSAR3MFDrqueryoR8Dl1IsMjhUI2Y0muQnVBDt1nk8=">
 <meta name="copyright" content="(c)2010 HomerunMonkey.com">
 <meta name="author" content="http://www.HomerunMonkey.com">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -113,10 +118,62 @@ document.write('<link rel="stylesheet" href="http://lib.store.yahoo.net/lib/yhst
 
 
 <style>
-/*ysw fixes*/
+/* qty pricing */
+#ysw-quantity-table {
+   padding:4px;
+   margin:0;
+   width:250px;
+   display:none;
+}
+.ysw-quantity-table-title {
+   font-size:13px;
+   font-weight:800;
+}
+.ysw-quantity-pricing-headers {
+   border-bottom:1px solid #042D46;
+   font-size:11px;
+   padding:2px 0;
+   font-weight:800;
+   color:#989999;
+}
+.ysw-quantity-pricing-qty {
+  border-bottom:1px solid #042D46;
+  font-size:12px;
+  padding:3px 0;
+}
+
+.ysw-quantity-pricing-price {
+  border-bottom:1px solid #042D46;
+  font-size:12px;
+  font-weight:bold;
+  padding:3px 0;
+  width:auto;
+}
+
+.ysw-quantity-pricing-discount {
+   width:auto;
+   color:#FF0000;
+   font-size:11px;
+}
+
+.ysw-quantity-pricing-qty:last-child {
+border-bottom:none;
+}
 
 .backgroundimage {height: auto !IMPORTANT}
-</style><script type="text/javascript">
+</style>
+
+<script type="text/javascript">
+$('#qty-table-link').click(function() {
+  var qtyTable = $("#ysw-quantity-table");
+
+  if ($(qtyTable).is(":visible")) {
+    $(qtyTable).slideUp("fast");
+  } else {
+    $(qtyTable).slideDown("fast");
+  }
+});
+</script><script type="text/javascript">
 
    function setOptionName(name, element) {
       document.getElementById(element).value = name;
@@ -163,7 +220,7 @@ document.write('<link rel="stylesheet" href="http://lib.store.yahoo.net/lib/yhst
        $('option-holder').hide();
    }
    function loadForm() {
-      var oform = $('orderform')
+      var oform = $('orderform');
       $('loading').hide();
       $('option-holder').show();
       if (!oform)
@@ -173,7 +230,7 @@ document.write('<link rel="stylesheet" href="http://lib.store.yahoo.net/lib/yhst
       selects.each(
         function(select) {
           if (select.options.length == 0)
-            oform.update('><strong><font style="font-size: 115%;">We\'re sorry!  This item is temporarily out of stock.</font></strong>');
+            oform.update('<strong><font style="font-size: 115%;">We\'re sorry!  This item is temporarily out of stock.</font></strong>');
         }
       );
    
@@ -201,11 +258,33 @@ function checkInventory() {
   */
   
 
-</script><script type="text/javascript" src="http://lib.store.yahoo.net/lib/yhst-11930413061568/jquery.js"></script><script type="text/javascript">jQuery.noConflict();jQuery(document).ready(function() {jQuery(document).yswaddVerifyOptions();});</script><script type="text/javascript">
-var pr_style_sheet="http://cdn.powerreviews.com/aux/11631/2635/css/powerreviews_express.css";
+</script><script>
+	var storeid = 'yhst-11930413061568';
 </script>
-<script type="text/javascript" src="http://cdn.powerreviews.com/repos/11631/pr/pwr/engine/js/full.js"></script><script type="text/javascript" src="http://www.fastpivotsoftware.com/myaccount/?cmd=storechecklogin&amp;store_id=yhst-11930413061568"></script><link rel="stylesheet" type="text/css" href="http://lib.store.yahoo.net/lib/yhst-11930413061568/myaccountstyles.css"></head><body align="center"><script type="text/javascript">mybuys.setPageType("PAGE");</script><center>
-<div class="holidaybackgroundimage">
+<script type="text/javascript" src="http://lib.store.yahoo.net/lib/yhst-11930413061568/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://lib.store.yahoo.net/lib/yhst-11930413061568/highslide-full.js"></script>
+<script type="text/javascript" src="http://lib.store.yahoo.net/lib/yhst-11930413061568/ysw-hs-overrides.js"></script>
+<!--<script type="text/javascript" src="http://lib.store.yahoo.net/lib/yhst-11930413061568/tabs.js"></script>-->
+<script type="text/javascript" src="http://lib.store.yahoo.net/lib/yhst-11930413061568/jquery-ui.js"></script>
+<script>
+	jQuery(document).ready(function() {
+		jQuery("#tabs").tabs();
+	});
+</script>
+<script type="text/javascript" src="http://lib.store.yahoo.net/lib/yhst-11930413061568/ysw-tt-script.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://lib.store.yahoo.net/lib/yhst-11930413061568/ysw-hs.css">	  
+<link rel="stylesheet" type="text/css" href="http://lib.store.yahoo.net/lib/yhst-11930413061568/ysw-tabs.css">
+<link rel="stylesheet" type="text/css" href="http://lib.store.yahoo.net/lib/yhst-11930413061568/ysw-combined-styles.css">
+
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="http://lib.store.yahoo.net/lib/yhst-11930413061568/highslide-ie6.css" />
+<![endif]-->	
+<script type="text/javascript">jQuery.noConflict();jQuery(document).ready(function() {jQuery(document).yswaddVerifyOptions();});</script><script type="text/javascript">
+var pr_style_sheet="http://cdn.powerreviews.com/aux/11636/1269/css/express.css";
+</script>
+<script type="text/javascript" src="http://cdn.powerreviews.com/repos/11636/pr/pwr/engine/js/full.js"></script><script type="text/javascript" src="http://www.fastpivotsoftware.com/myaccount/?cmd=storechecklogin&amp;store_id=yhst-11930413061568"></script><link rel="stylesheet" type="text/css" href="http://lib.store.yahoo.net/lib/yhst-11930413061568/myaccountstyles.css"></head><body align="center"><script type="text/javascript">mybuys.setPageType("PAGE");</script><center>
+<div class="backgroundimage">
 <div class="container1">
 	<div class="headerrow1">
 	<table border="0" width="960" cellspacing="0" cellpadding="0">
@@ -213,10 +292,10 @@ var pr_style_sheet="http://cdn.powerreviews.com/aux/11631/2635/css/powerreviews_
 			<td width="195" align="center"><a href="index.html"><img border="0" src="http://lib.store.yahoo.net/lib/yhst-11930413061568/logo-homerun.png" title="" alt="HomerunMonkey.com Logo" height="64" width="64"></a></td>
 			<td width="510">
 			<object classid="clsid:D27CDB6E-AE6D-11CF-96B8-444553540000" id="obj1" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" border="0" width="510" height="91">
-					<param name="movie" value="http://site.hockeymonkey.com/images/holiday/movie-homerun-holiday.swf">
+					<param name="movie" value="http://lib.store.yahoo.net/lib/yhst-11930413061568/movie-homerun.swf">
 					<param name="quality" value="High">
 					<param name="allowscriptaccess" value="always"> <param name="wmode" value="transparent">
-					<embed src="http://site.hockeymonkey.com/images/holiday/movie-homerun-holiday.swf" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" allowscriptaccess="always" allownetworking="external" type="application/x-shockwave-flash" name="obj1" width="510" height="91"></object>
+					<embed src="http://lib.store.yahoo.net/lib/yhst-11930413061568/movie-homerun.swf" wmode="transparent" pluginspage="http://www.macromedia.com/go/getflashplayer" allowscriptaccess="always" allownetworking="external" type="application/x-shockwave-flash" name="obj1" width="510" height="91"></object>
 			</td>
 			<td width="255" align="right">
 			<div class="headertext1"><a href="http://www.securitymetrics.com/site_certificate.adp?s=216%2e252%2e126%2e190&amp;i=299938" target="_blank"><img border="0" src="http://lib.store.yahoo.net/lib/yhst-11930413061568/lock-gold-ffcd1e.png" title="" alt="Secure E-Commerce Site" height="10" width="7"></a>&nbsp;&nbsp; 
@@ -262,8 +341,8 @@ Se Habla Espanol<a class="headertext2" href="http://www.monkeysports.com">
 				<td width="2">
 				<img src="http://lib.store.yahoo.net/lib/yhst-11930413061568/vert-spacer-1.jpg" title="" alt="" width="2" height="42"></td>
 				<td>
-				<a id="newitems" href="new-items.html" title="" alt="HomerunMonkey.com New Items"><span>
-				New Items</span></a></td>
+				<a id="slowpitch" href="slow-pitch.html" title="" alt="SlowPitchMonkey.com - SlowPitch Softball Equipment"><span>
+				SlowPitchMonkey.com</span></a></td>
 				<td width="2"><img src="http://lib.store.yahoo.net/lib/yhst-11930413061568/vert-spacer-2.jpg" title="" alt=""></td>
 				<td>
 				<a id="clearance" href="homerun-clearance-outlet.html" title="" alt="HomerunMonkey.com Clearance"><span>
@@ -527,8 +606,8 @@ Catcher Accessories</a>
 On-Field Accessories</a>
 <a alt="Coach/Scorekeeping" class="navigationsubcategories" href="homerun-baseball-coach-scorekeeper-accessories.html" title="">
 Coach/Scorekeeping</a>
-<a alt="Eyewear/Sunglasses" class="navigationsubcategories" href="homerun-accessories-eyewear.html" title="">
-Eyewear</a>
+<a alt="Sunglasses" class="navigationsubcategories" href="homerun-accessories-eyewear.html" title="">
+Sunglasses</a>
 <a alt="Sports Medicine" class="navigationsubcategories" href="homerun-accessories-sports-medicine.html" title="">
 Sports Medicine</a>
 <a alt="Memorabilia" class="navigationsubcategories" href="homerun-baseball-memorabilia.html" title="">
@@ -554,6 +633,8 @@ Help</a>
 <hr>
 <a alt="Sizing Charts" class="navigationsubcategories" href="sizing-charts.html" title="">
 Sizing Charts</a>
+<a alt="Buying Guides" class="navigationsubcategories" href="homerunmonkey-baseball-softball-buying-guides.html" title="">
+Buying Guides</a>
 <hr>
 <a alt="MonkeySports Wallpaper" class="navigationsubcategories" href="homerunmonkey-wallpaper.html" title="">
 MonkeySports Wallpaper</a>
@@ -593,7 +674,7 @@ cssdropdown.startchrome("chromemenu")
 		<a href="http://www.youtube.com/homerunmonkey"><img src="http://lib.store.yahoo.net/lib/yhst-11930413061568/social-yt.gif" alt="Youtube" title="" height="18" width="19"></a>
 	</div>
 </div>	<!-- END container1 -->
-<div class="containerbody"><table border="0"><tbody><tr valign="top"><td bgcolor="black"><table border="0" cellspacing="4" cellpadding="4" width="942"><tbody><tr align="center" valign="top" height="750"><td bgcolor="white" width="100%"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td><center></center><font size="2" face=""><i>This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering
+<div class="containerbody"><table border="0"><tbody><tr valign="top"><td bgcolor="black"><table border="0" cellspacing="4" cellpadding="4" width="957"><tbody><tr align="center" valign="top" height="750"><td bgcolor="white" width="100%"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td><center></center><font size="2" face=""><i>This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering
 system, and order data. Yahoo! automatically collects order information but
 may only use this information in the aggregate. If you accessed this store
 through Yahoo! Shopping, Yahoo! also automatically collects information
@@ -684,10 +765,7 @@ information about how Yahoo! uses this information.</i><br><br><table width="90%
 <p>
 Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, <a href="https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com">click here</a>.
 </p>
-<p align="center">
-<a href="http://www.shopwiki.com/store-105003" target="_blank" title="Merchant is a ShopWiki Approved Store"><img src="https://staticssl.shopwiki.com/static/badges&#10;/StoreBadgeEN.png?sid=3885" alt="Merchant is a
-ShopWiki Approved Store" border="0"></a>
-</p>
+<p align="center"><br><br><a href="http://www.shopwiki.com/store-744980" target="_blank" title="Homerun Monkey is a ShopWiki Approved Store"><img src="https://staticssl.shopwiki.com/static/badges/StoreBadgeEN.png?sid=3885" alt="Homerun Monkey is a ShopWiki Approved Store" border="0"></a><br><br></p>
 </td>
           </tr>
       </tbody></table><br><br></td></tr></tbody></table></font></td></tr></tbody></table></td></tr><tr valign="top"><td><!-- BEGIN footer-->
@@ -756,8 +834,11 @@ ShopWiki Approved Store" border="0"></a>
 					<a href="javascript:bookmarksite('Homerun Monkey','http://www.HomerunMonkey.com')">
 					Bookmark Us</a></li>
 					<li>
+					<a href="homerunmonkey-baseball-softball-buying-guides.html">
+					Buying Guides</a></li>
+					<li>
 					<a href="sizing-charts.html">
-					Sizing Charts</a></li>					
+					Sizing Charts</a></li>			
 					<li>
 					<a href="homerunmonkey-wallpaper.html">
 					Wallpaper</a></li>										
@@ -797,22 +878,23 @@ ShopWiki Approved Store" border="0"></a>
 				&nbsp;&nbsp;<a class="footertext1test" href="http://www.lacrossemonkey.com/field-hockey-monkey.html" title="field hockey">Field Hockey</a>
 		<font class="footerlinks2text" color="#ffffff"><br>
 	<a class="footertext1test" href="homerun-louisville-slugger-baseball-bat-exogrid-2-cb11ex2-adult.html">Louisville Slugger Exogrid</a> &nbsp;&nbsp;<a class="footertext1test" href="homerun-worth-baseball-bat-sltox5-toxic-senior-league.html">
-  		Worth Toxic</a> &nbsp;&nbsp;<a class="footertext1test" href="homerun-combat-baseball-bat-b3yb1-youth-10.html">Combat B3</a> 
+  		Worth Toxic</a> &nbsp;&nbsp;<a class="footertext1test" href="homerun-combat-slowpitch-bats.html">Combat Slowpitch Bat</a> 
  		&nbsp;&nbsp;<a class="footertext1test" href="homerun-xprotex-batting-gloves-1050-hammr-mens.html">XProteX Hammr</a> &nbsp;&nbsp;
 		<a class="footertext1test" href="homerun-rawlings-equipment-bag-prowbi2-pro-preferred.html">Rawlings Pro Preferred</a>  &nbsp;&nbsp;
 		<a class="footertext1test" href="homerun-ripit-defensive-face-guard.html">Rip-It Face Guard</a>  &nbsp;&nbsp;
 		<a class="footertext1test" href="homerun-nokona-bloodline-collection-baseball-gloves.html">Nokona Bloodline</a>
 	<br>
-	<a class="footertext1test" href="homerun-nike-baseball-bat-c1-adult.html">Nike Aero C1 (-3) Adult Baseball Bat</a>  
+	<a class="footertext1test" href="homerun-demarini-adult-baseball-bats.html">DeMarini CF5 Baseball Bat</a>  
 		&nbsp;&nbsp;
-		<a class="footertext1test" href="homerun-easton-baseball-bat-a112667-speed-2-xl-youth-lss6xl.html">Easton Stealth Speed II XL (-12) Youth Baseball Bat</a>  
+		<a class="footertext1test" href="homerun-easton-baseball-bat-omen-bbcor-bnc2-adult.html">Easton Omen Baseball Bat</a>  
 		&nbsp;&nbsp;
-		<a class="footertext1test" href="homerun-demarini-slowpitch-bat-wtdxnt2-j2-juggernaut.html">DeMarini J2 DXNT2 Slowpitch Softball Bat</a>
-	<br>&nbsp;&nbsp;<a class="footertext1test" href="brand-pages.html">Baseball Equipment</a> 
+		<a class="footertext1test" href="homerun-demarini-slowpitch-bats.html">DeMarini Slowpitch Bat</a>
+	<br>
+	&nbsp;&nbsp;<a class="footertext1test" href="brand-pages.html">Baseball Equipment</a> 
 		&nbsp;&nbsp;<a class="footertext1test" href="homerun-footwear.html">Baseball Cleats</a> 
 		&nbsp;&nbsp;<a class="footertext1test" href="http://www.homerunmonkey.com/homerun-tee-ball-equipment-combos.html">Tee Ball</a> 
 		&nbsp;&nbsp;<a class="footertext1test" href="homerun-baseball-bats.html">Baseball Bats</a> 
-		&nbsp;&nbsp;<a class="footertext1test" href="homerun-pitching-machines.html">Pitching Machines</a> 
+		&nbsp;&nbsp;<a class="footertext1test" href="homerun-catchers-gear.html">Catcher's Gear</a> 
 		&nbsp;&nbsp;<a class="footertext1test" href="homerun-easton-catchers-combo-stealth-comp-adult.html">Easton Stealth</a> 
 		&nbsp;&nbsp;<a class="footertext1test" href="homerun-umpire-equipment-combos.html">Umpire Gear</a> 
 	   	&nbsp;&nbsp;<a class="footertext1test" href="rawlings-baseball-equipment.html">Rawlings Gear</a>		
@@ -929,10 +1011,16 @@ function csell_REC_VIEW_TAG() {  var env = (typeof csell_env == 'string')?csell_
 // Begin Y! Store Generated Code
 var csell_token_map = {}; csell_token_map['TOK_PAGE'] = 'p'; csell_token_map['TOK_WS_URL'] = 'http://yhst-11930413061568.csell.store.yahoo.net/cs/recommend?itemids=privacypolicy&location=p'; csell_token_map['TOK_SHOW_CS_RECS'] = 'true'; csell_token_map['TOK_CURR_SYM'] = '$';  var t = csell_token_map; csell_GLOBAL_INIT_TAG(); YStore.page = t['TOK_PAGE']; YStore.currencySymbol = t['TOK_CURR_SYM']; YStore.crossSellUrl = t['TOK_WS_URL']; YStore.showCSRecs = t['TOK_SHOW_CS_RECS'];</script><script type="text/javascript" src="http://l.yimg.com/a/lib/smbiz/store/csell/js/recs-1.3.2.2.js"></script><script type="text/javascript">
 </script>
-<script language="javascript">
-if(window.yzq_p==null)document.write("<scr"+"ipt language=javascript src=http://l.yimg.com/d/lib/bc/bc_2.0.5.js></scr"+"ipt>");
-</script><script language="javascript" src="http://l.yimg.com/d/lib/bc/bc_2.0.5.js"></script><script language="javascript">
-if(window.yzq_p)yzq_p('P=ZQu.nES03i_18K5K3hzQ6ACJz_HkmE0c9PQACF7z&T=17pop5dn5%2fX%3d1293743348%2fE%3d23732888%2fR%3dst%2fK%3d5%2fV%3d1.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d960559039%2fH%3dc2VydmVJZD0iWlF1Lm5FUzAzaV8xOEs1SzNoelE2QUNKel9Ia21FMGM5UFFBQ0Y3eiIgc2l0ZUlkPSI0NDY2NTUxIiB0U3RtcD0iMTI5Mzc0MzM0ODYxMDYwOCIg%2fI%3d1%2fS%3d1%2fJ%3d2FDEB444');
-if(window.yzq_s)yzq_s();
-</script><noscript><img width=1 height=1 alt="" src="http://us.bc.yahoo.com/b?P=ZQu.nES03i_18K5K3hzQ6ACJz_HkmE0c9PQACF7z&T=17vd1te5k%2fX%3d1293743348%2fE%3d23732888%2fR%3dst%2fK%3d5%2fV%3d3.1%2fW%3dJ%2fY%3dYAHOO%2fF%3d3598925997%2fH%3dc2VydmVJZD0iWlF1Lm5FUzAzaV8xOEs1SzNoelE2QUNKel9Ia21FMGM5UFFBQ0Y3eiIgc2l0ZUlkPSI0NDY2NTUxIiB0U3RtcD0iMTI5Mzc0MzM0ODYxMDYwOCIg%2fQ%3d-1%2fI%3d1%2fS%3d1%2fJ%3d2FDEB444"></noscript>
-</td></tr></tbody></table></div></div></center></body></html>
+<script type="text/javascript"> 
+ <!-- 
+ if (document.referrer && (document.referrer!='') && window.Image) 
+ { 
+ (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=4d67fa13&catalog=yhst-11930413061568&r=" + escape(document.referrer) + "&v=1"; }
+ // --> 
+ </script><script type="text/javascript"> 
+ <!-- 
+ if (document.referrer && (document.referrer!='') && window.Image) 
+ { 
+ (new Image).src="http://redirect1.vip.store.yahoo.net/cgi-bin/referadd?spcl=1&et=4d67fa13&catalog=yhst-11930413061568&r=" + escape(document.referrer) + "&v=3"; }
+ // --> 
+ </script></td></tr></tbody></table></div></div></center></body></html>
