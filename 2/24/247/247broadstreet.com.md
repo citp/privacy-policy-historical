@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the 247broadstreet.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226012808id_/http%3A//www.247broadstreet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247broadstreet.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225031856id_/http%3A//www.247broadstreet.com/privacy.html) for the most accurate reproduction.*
 
 # Nigerian Stock Market & Nigerian Stocks and shares & Nigerian stocks & Nigerian Stock Exchange & 247 Broadstreet
 
+> Nigerian Stock Market – Stocks with Huge upside potentials
+> 
 > **[Click Here To Return To Our Site](http://www.247broadstreet.com/)**
 > 
 > **Website Privacy Statement**
