@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whorunsgov.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123211702id_/http%3A//www.whorunsgov.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whorunsgov.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226122508id_/http%3A//www.whorunsgov.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - WhoRunsGov.com/The Washington Post
 
