@@ -1,32 +1,65 @@
-> *The following text is extracted and transformed from the postcardprofits.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415163103id_/http%3A//postcardprofits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcardprofits.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226064346id_/http%3A//postcardprofits.com/%3Fpage_id%3D138) for the most accurate reproduction.*
 
-# DMG Privacy Policy
+# Privacy Policy « Postcard Profits
 
-| 
+Infomastery LLC Privacy Policy
 
-**PostcardProfits.com  
-(Direct Marketing Group Inc. or DMG)   
-Privacy Policy**  
-  
----  
-**What information does DMG collect from our users and how do we collect it?**  
-DMG only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. DMG collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.   
-**How do we use this information?**  
-This information is used for internal marketing purposes only. DMG does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company outside of billing and shipping purposes.   
-**What are cookies and how do we use them?**  
-Cookies help track a person's "session" while online. By showing how and when our visitors use this Site, this information can help us to continue to improve our Site. We will only use cookies to view information on your hard drive that was put there by a cookie from this Site. The use of cookies is an industry standard and many web sites use them. Cookies are stored on your computer and not on this Site. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits.   
-**How do we store your information?**  
-Your information is stored at the list server that delivers DMG newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive DMG's newsletters. 
+Last Updated May 1, 2010
 
-All of the newsletters that are sent to you by DMG include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also contact us at [support@postcardprofits.com](mailto:support@doubleyourdating.com) to change your information at any time.   
-  
-**Disclaimer**  
-  
-This policy may be changed at any time at DMG's discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised December 5, 2007. 
+Our Commitment To Privacy
 
-If you have any questions or concerns regarding our privacy policy please direct them to [support@postcardprofits.com](mailto:support@doubleyourdating.com). You may also send a letter to: 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Direct Marketing Group Inc. (DMG)   
-2710 Thomes Ave Suite 239   
-Cheyenne WY 82001  
-Phone: 307-460-4662 
+The Information We Collect:
+
+This notice applies to all information collected or submitted on any Infomastery LLC website including (but not limited to) DrivingTraffic.com, 43SplitTests.com, FBAdpower.com, EmailMindTricks.com, BlueBirdListBuilding.com, TrafficAndConversionBlueprint.com, VideoSalesLetterFormula.com, SneakyEmailTricks.com, ContinuityBlueprint.com, YourFirst1000.com, WholesaleTrafficSystem.com, et. all. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+
+Name  
+Address  
+Email address  
+Phone number  
+Credit/Debit Card Information  
+(etc.)
+
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. In this circumstance, the types of personal information collected are:
+
+Name  
+Address  
+Phone Number  
+(etc.)
+
+The Way We Use Information:
+
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+
+If we offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift.
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+
+You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+
+Our Commitment To Data Security
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+Our Commitment To Children’s Privacy:
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+How You Can Access Or Correct Your Information
+
+You can access all your personally identifiable information that we collect online and maintain by contacting customer support at: support@drivingtraffic.com
+
+We use this procedure to better safeguard your information.
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+How To Contact Us
+
+Should you have other questions or concerns about these privacy policies, please call us at 512 892-3022 or send us an email at: <a href=”mailto:support@drivingtraffic.com”>support@drivingtraffic.com</a>
