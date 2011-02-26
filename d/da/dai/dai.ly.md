@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dai.ly privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111073404id_/http%3A//www.dailymotion.com/us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dai.ly privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226041522id_/http%3A//www.dailymotion.com/us/legal/privacy) for the most accurate reproduction.*
 
 # Dailymotion - Online Videos, Music, and Movies. Watch a Video Today!
 
