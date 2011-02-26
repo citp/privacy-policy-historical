@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vectorvest.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207165725id_/http%3A//www.vectorvest.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vectorvest.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226114754id_/http%3A//www.vectorvest.com/privacy.aspx) for the most accurate reproduction.*
 
 # VectorVest Privacy Policy
 
