@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classesandcareers.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221140722id_/http%3A//www.classesandcareers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classesandcareers.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226135414id_/http%3A//classesandcareers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
