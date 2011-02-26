@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goclicks.org privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122192042id_/http%3A//www.goclicks.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goclicks.org privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226123645id_/http%3A//goclicks.org/privacy.php) for the most accurate reproduction.*
 
 # Goclicks - Affiliate Marketing
 
