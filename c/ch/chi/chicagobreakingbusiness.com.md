@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicagobreakingbusiness.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124032100id_/http%3A//www.chicagotribune.com/services/site/chi-privacy%2C0%2C4121982.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicagobreakingbusiness.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226091414id_/http%3A//www.chicagotribune.com/services/site/chi-privacy%2C0%2C4121982.story) for the most accurate reproduction.*
 
 # Privacy policy - chicagotribune.com
 
