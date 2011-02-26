@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025113401id_/http%3A//www.wizards.com/Company/About.aspx%3Fx%3Dwz_company_about_privacy%26menu%3DAwards) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wizards.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226140143id_/http%3A//www.wizards.com/Company/About.aspx%3Fx%3Dwz_company_about_privacy%26menu%3DAwards) for the most accurate reproduction.*
 
 # Wizards of the Coast Official Home Page - About - Privacy
 
-_Last modified August 26,2009._
+_Last modified December 13, 2010._
 
 [ ](http://www.esrb.org/confirm/wizards-confirmation.jsp)
 
@@ -119,7 +119,7 @@ If you choose to populate Your Profile with your full name, your full name will 
 
 Wizards collects information from you at other points on the Sites, as described below: 
 
-  * Message Board, Blogs and Social Networking:   
+  * **Message Boards, Blogs and Social Networking**   
 Wizards provides message boards, blogs and other public forums on the Sites for exchanging information and social networking. Please note that information, user content or any other materials that you post on our Sites, including any information from Your Profile that you choose to make public, will be available for any user of that service to read, and are therefore no longer private and may be disclosed without limitations as to use by a third party. If you post information, materials or other content on the Sites or other public forum, you are providing information that can be collected and used by others that you do not know for their own purposes, including the distribution of unsolicited communications. 
   * ** Online Stores**   
 Visitors purchasing goods and services through one of our affiliate online stores will need to provide a valid credit card number and expiration date, in addition to name, mailing address, phone number and e-mail address. 
@@ -127,6 +127,8 @@ Visitors purchasing goods and services through one of our affiliate online store
 To participate in some of our promotions, you may be asked to provide an e-mail address or screen name, so that we can let you know if you won a prize. For other Wizards promotions, we may request your name and home address in order to send you products or information by regular mail.
   * **Customer Service E-mails**   
 By requesting your e-mail address to respond to your customer service question or comment, we are not attempting to collect any personal information about you for marketing purposes. We will only use personal information (such as name, mailing address and e-mail address) contained in your e-mail to respond to your specific inquiry or comments in the e-mail. Although we may retain your name, e-mail address, and other information you provide, we will not use any personal information contained in your e-mail for any purpose other than responding to your specific inquiry or comments.
+  * **Wizards Play Network (WPN)**   
+Participants including store owners and event organizers have the opportunity to sign up with the Wizards Play Network (WPN) in order to participate in organized play events. Participants must provide certain identifiable information to be eligible to participate in these events.
   * ** Resumes**   
 Our Sites allow for the online submission of resumes. Personal information collected from resumes is not subject to this Privacy Policy. However, we can assure you that such information will be used solely for the purpose of accepting and evaluating candidate submissions for job postings.
   * ** Online Surveys**   
