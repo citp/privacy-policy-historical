@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralatuna.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210150536id_/http%3A//www.keralatuna.com/%3Fpage_id%3D14272) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralatuna.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226122450id_/http%3A//www.keralatuna.com/%3Fpage_id%3D14272) for the most accurate reproduction.*
 
 # Privacy Policy | Malayalam movie news and reviews | Malayalam actress hot photos | Photos of Bhavana-Shriya-Kavya-Meera-Asin
 
