@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nandos.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230070002id_/http%3A//www.nandos.co.uk/default/PP/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nandos.co.uk privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226112956id_/http%3A//www.nandos.co.uk/default/PP/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Nando's Chicken Restaurants, famous for our Peri-Peri Chicken Recipes
 
