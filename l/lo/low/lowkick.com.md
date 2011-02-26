@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowkick.com privacy policy that was archived on 2010-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100903142507id_/http%3A//www.lowkick.com/data/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowkick.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226133818id_/http%3A//www.lowkick.com/data/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LowKick.com
 
@@ -17,6 +17,8 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
 Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **E-Mail Policy**
 
