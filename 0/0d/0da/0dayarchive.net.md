@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the 0dayarchive.net privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504230907id_/http%3A//www.0dayarchive.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0dayarchive.net privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226103858id_/http%3A//www.0dayarchive.net/privacy.html) for the most accurate reproduction.*
 
-# Your Privacy » HotFile,FileServe, RapidShare,DepositFiles,Uploading Download - 0dayArchive.Net
-
-  
-
+# Your Privacy » 0dayArchive - Daily Scene Releases Archive From HotFile, Fileserve, Filesonic, Duckload, Letitbit, Depositfile Free Download
 
 HotFileIndex.Com is committed to protecting your privacy. HotFileIndex.Com does not sell, trade or rent your personal information to other companies. HotFileIndex.Com will not collect any personal information about you except when you specifically and knowingly provide such information.
 
