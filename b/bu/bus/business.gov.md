@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213100602id_/http%3A//www.business.gov/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.gov privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226223426id_/http%3A//www.business.gov/about/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Business.gov
 
@@ -86,7 +86,7 @@ If you have any questions or concerns, please [contact us](https://web.archive.o
 
 ## Your Rights Under the Privacy Act
 
-The Federal Citizen Information Center provides a guide to [Your Rights to Federal Records - Questions and Answers on the Freedom of Information Act and Privacy Act](http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm?cm_sp=ExternalLink-_-Federal-_-GSA) that explains your rights to personal information under these laws. 
+The Federal Citizen Information Center provides a guide to [Your Rights to Federal Records - Questions and Answers on the Freedom of Information Act and Privacy Act](http://www.pueblo.gsa.gov/cic_text/fed_prog/foia/foia.htm) that explains your rights to personal information under these laws. 
 
 This policy was updated on October 21, 2010   
 
