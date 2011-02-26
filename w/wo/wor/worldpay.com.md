@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldpay.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207214542id_/http%3A//www.rbsworldpay.com/about_us/index.php%3Fpage%3Dprivacy%26c%3DWW) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpay.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226054357id_/http%3A//www.worldpay.com/about_us/index.php%3Fpage%3Dprivacy%26c%3DWW) for the most accurate reproduction.*
 
-# About Us | Secure Online Global Payment Processing | RBS WorldPay
+# About Us | Secure Online Global Payment Processing | WorldPay
 
 We are committed to protecting your privacy. We recognise our responsibility to keep confidential at all times any information about you which we acquire in connection with your application. We protect your personal information to an equivalent high standard to that which you would experience through any other channels of the bank, such as bank branches, cash machines or on the telephone. Please note however that our responsibility is necessarily limited to protection by us of information which we obtain.
 
@@ -12,7 +12,7 @@ To enable us to process your application we will typically acquire information w
 
 Your information includes information about your transactions.
 
-We may use and share your information with other members of the Group to help us and them:
+We may use and share your information with other members of the WorldPay group to help us and them:
 
   * assess financial and insurance risks;
   * recover debt;
@@ -39,12 +39,12 @@ If you would like a copy of the information we hold about you, please write to: 
 
 ## Security
 
-RBS WorldPay is committed to protecting the security of your data. We use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities.
+WorldPay is committed to protecting the security of your data. We use a variety of security technologies and procedures to help protect your personal information from unauthorised access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities.
 
 ## Cookies
 
 Cookies are text files, used by your computer's browser, that store visitor session data. Cookies, by themselves, do not identify the individual user. Cookies are commonly used on the Internet and do not harm your system.
 
-We currently use cookies to collate general management data which is used to plan enhancements to our services. RBS WorldPay **never** stores any personal information in cookies (on any computer that you may use) that can be used to identify you, such as your name or account numbers.
+We currently use cookies to collate general management data which is used to plan enhancements to our services. WorldPay **never** stores any personal information in cookies (on any computer that you may use) that can be used to identify you, such as your name or account numbers.
 
 If you do not want us to use cookies you may be able to configure your browser not to accept them. Please refer to your browser's 'help' facility for further information. However, you should bear in mind that this may affect our ability to process the transactions you wish to have authorised.
