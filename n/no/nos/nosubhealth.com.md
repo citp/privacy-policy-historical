@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nosubhealth.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625122221id_/http%3A//www.nosubhealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nosubhealth.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226224603id_/http%3A//www.nosubhealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | No SubHealth | How to get better health.
+# Privacy Policy | No Sub Health | How to get better health.
 
 Your privacy on the Internet is of utmost importance to the No-Subhealth. This privacy statement describes No-Subhealth’s policy concerning the gathering and sharing of visitors’ information through the No Subhealth web site. It applies to all ” No Subhealth sites” — that is, all sites within the ” NoSubhealth.com” domain name.
 
