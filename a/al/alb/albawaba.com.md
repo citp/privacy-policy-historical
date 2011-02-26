@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albawaba.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129022703id_/http%3A//corporate.albawaba.com/main/site/index.php3%3Flev%5B1%5D%3D19%26page%3D19%26stId%3D15%26static%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albawaba.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226031304id_/http%3A//corporate.albawaba.com/main/site/index.php3%3Flev%5B1%5D%3D19%26page%3D19%26stId%3D15%26static%3D1) for the most accurate reproduction.*
 
 # 
 
