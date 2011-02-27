@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenmodelslive.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225231628id_/http%3A//teenmodelslive.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenmodelslive.com privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227201117id_/http%3A//teenmodelslive.com/privacy.php) for the most accurate reproduction.*
 
 # TeenModelsLive.com - Teen Cam Girls live from home!
 
