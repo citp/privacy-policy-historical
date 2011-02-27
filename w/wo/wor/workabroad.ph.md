@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workabroad.ph privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017053230id_/http%3A//www.workabroad.ph/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workabroad.ph privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227010032id_/http%3A//www.workabroad.ph/privacy_policy.php) for the most accurate reproduction.*
 
 # Work Abroad - Privacy Policy
 
