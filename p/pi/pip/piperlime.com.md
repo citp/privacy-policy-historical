@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piperlime.com privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623003434id_/http%3A//piperlime.gap.com/customerService/info.do%3Fcid%3D4227) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piperlime.com privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227155100id_/http%3A//piperlime.gap.com/customerService/info.do%3Fcid%3D4227) for the most accurate reproduction.*
 
 # | Piperlime
 
