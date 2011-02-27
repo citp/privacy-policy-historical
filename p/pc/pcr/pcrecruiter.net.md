@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrecruiter.net privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006184619id_/http%3A//www.pcrecruiter.net/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrecruiter.net privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227093257id_/http%3A//www.pcrecruiter.net/privacy/index.htm) for the most accurate reproduction.*
 
 # Main Sequence Technologies, Inc. - Privacy Statement
 
@@ -10,7 +10,7 @@ Main Sequence Technologies (Main Sequence), an Ohio corporation, provides this W
 
 [www.pcrecruiter.net](http://www.pcrecruiter.net/) is the corporate website of Main Sequence, a provider of online technology used by recruitment and hiring teams to post jobs, process applicants, and conduct operations worldwide. Direct hiring organizations and various third-party entities are Main Sequence’s customers. The website is used for sales and service of the company’s solutions. 
 
-[www.pcrecruiter.net](http://www.pcrecruiter.net/) is the root URL used for the hosted accounts of Main Sequence customers. This privacy statement for [www.pcrecruiter.net](http://www.pcrecruiter.net/) also applies to certain personal data that Main Sequence processes in the United States from the European Union relating to the Safe Harbor program. For more information about Safe Harbor, please visit <http://www.export.gov/safeharbor>. The website is used by our customers and third parties to facilitate hiring transactions. 
+[www.pcrecruiter.net](http://www.pcrecruiter.net/) is the root URL used for the hosted accounts of Main Sequence customers. This privacy statement for [www.pcrecruiter.net](http://www.pcrecruiter.net/) also applies to certain personal data that Main Sequence processes in the United States from the European Union relating to the Safe Harbor program. For more information about Safe Harbor, please visit <http://www.export.gov/safeharbor/>. The website is used by our customers and third parties to facilitate hiring transactions. 
 
 ####  Privacy Information for [www.pcrecruiter.net](http://www.pcrecruiter.net/)
 
