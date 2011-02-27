@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023040414id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellcome.ac.uk privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227080116id_/http%3A//www.wellcome.ac.uk/About-this-site/Privacy-statement/index.htm) for the most accurate reproduction.*
 
 # Privacy statement | Wellcome Trust
 
