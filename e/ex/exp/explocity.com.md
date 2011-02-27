@@ -1,29 +1,6 @@
-> *The following text is extracted and transformed from the explocity.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212200318id_/http%3A//bangalore.explocity.com/Bangalore/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explocity.com privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227123933id_/http%3A//bangalore.explocity.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Bangalore - Explocity.com
-
-  
-
-
-[](http://bangalorecityguide.pagician.com/)
-
-## Planning a trip to Bangalore?
-
-Read the digital edition of the very popular visitor magazine, explocity Bangalore Guide.
-
-[](http://bangalorecityguide.pagician.com/)
-
-[](http://indiranagar.pagician.com/)
-
-## Planning to visit Indiranagar ?
-
-Read the digital edition of the guide to Indiranagar, one of Bangalore’s upscale shopping and dining hubs.
-
-[](http://indiranagar.pagician.com/)
-
-[](http://indiranagar.pagician.com/)
-
-Explocity Bangalore / bangalore.explocity.com provides business visitors and tourists with Bangalore related information on sights and attractions in Bangalore, business listings, events in Bangalore, eating out at restaurants in Bangalore, Bangalore hotels, Bangalore malls, adventures, music, and movies in Bangalore, travel and tourism, Shopping, Bangalore nightlife... practically everything Bangalore! 
+# PRIVACY POLICY | BANGALORE | EXPLOCITY.com
 
 ##  Privacy Policy 
 
