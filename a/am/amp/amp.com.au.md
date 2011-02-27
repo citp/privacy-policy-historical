@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amp.com.au privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222042612id_/http%3A//www.amp.com.au/privacy%3Fiid%3DHP0001%3Afooterlinks%3A07%3Aprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amp.com.au privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227194238id_/http%3A//www.amp.com.au/privacy%3Fiid%3DHP0001%3Afooterlinks%3A07%3Aprivacy) for the most accurate reproduction.*
 
 # AMP Privacy Policy Statement - AMP
 
