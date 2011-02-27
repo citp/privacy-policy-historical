@@ -1,0 +1,273 @@
+<!--The following is the downloaded HTML source of the room77.com privacy policy that was archived on 2011-02-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110227022745id_/http%3A//www.room77.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <link rel="icon" type="image/png" href="/images/icons/favicon.png">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Room 77 Privacy Policy</title>
+    <meta name="description" content="Room 77 takes your privacy seriously and is pleased to provide this privacy policy to inform you of our practices with respect to how we collect, use, and protect personal information about visitors to this site.">
+    <meta name="keywords" content="Room 77 privacy policy">
+
+    <link href="/min/min_1298598378_roomnav.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/min/min_1298598378_roomnav.js"></script>
+
+    <link href="/css/web/inside_page.css" rel="stylesheet" type="text/css" media="all">
+
+    <!--[if IE 6]>
+    <link href="/css/web/ie6.css" rel="stylesheet" type="text/css" media="all" />
+    <![endif]-->
+    <!--[if gte IE 7]>
+    <link href="/css/web/ie8.css" rel="stylesheet" type="text/css" media="all" />
+    <![endif]-->
+
+
+<script type="text/javascript">
+  function ga_log(event, param) {
+    switch (event) {
+    case "search":
+      _gaq.push('_trackEvent', 'Search', 'hotel_id', param.hotelId);
+      break;
+    case "room_name_search":
+      _gaq.push('_trackEvent', 'Room Name Search', 'room_name', param.room);
+      break;
+    case "visit":
+      _gaq.push('_trackEvent', 'Visit', 'hotel_id', param.hotelId);
+      break;
+    case "room_select":
+      if (!param.simulated) {
+        _gaq.push('_trackEvent', 'Room Select', 'hotel_id', param.hotelId);
+      }
+      break;
+    case "floor_select":
+      if (!param.simulated) {
+        _gaq.push('_trackEvent', 'Floor Select', 'hotel_id', param.hotelId);
+      }
+      break;
+    case "room_view_expand":
+      _gaq.push('_trackEvent', 'Room View Expand', 'hotel_id', param.hotelId);
+      break;
+    case "other_click":
+      _gaq.push('_trackEvent', 'Other Clicks', param.clickId, param.hotelId);
+    default:
+      // Shouldn't happen
+      _gaq.push('_trackEvent', 'Unknown Event', 'event_name', event);
+
+    }
+  }
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21206990-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
+
+  
+  
+  <div id="siteWrapper" class="site_container clear">
+    
+<div class="top_header clear">
+  <a href="/index.html" title="Room77" class="logo_link">
+    <img src="/images/web/room77-logo.png" border="0" alt="Room77">
+  </a>
+  <div class="top_nav_bar">
+    <ul class="top_controls clear">
+      <li class="top_search">
+        <div class="hotel_search r77_entry_box">
+                <form action="/hotel_profile_raw.html" method="get" onsubmit="return CheckHotelSelection();">
+      <table border="0" class="r77cms_hotel_search_box">
+      <tbody>
+      <tr><td><span class="r77cms_submenu_heading"></span></td>
+      <td style="width:500px;">
+
+            <!-- hotel name auto-complete -->
+      <div class="yui-skin-sam">
+      <input type="text" id="ac_hotel" name="ac_hotel" value="" style="width:500px;">
+      <div id="ac_hotel_dropdown" style="width:500px;"></div>
+      </div>
+
+      </td>
+      <td>
+      <input class="r77cms_hotel_search_button" type="submit" value="">
+      </td>
+      </tr>
+
+      <tr><td></td><td>
+            <!-- hotel name, address, city, state as returned by server -->
+      <div class="r77cms_hotel_details">
+      <span id="hotel_addr" class="r77cms_hotel_details_addr"></span>&nbsp;
+      <span id="hotel_city" class="r77cms_hotel_details_city"></span>&nbsp;
+      <span id="hotel_state" class="r77cms_hotel_details_state"></span>
+      </div>
+      </td></tr>
+
+      <tr><td></td><td>
+      <!-- this hidden variable will be set by auto-complete -->
+      <input type="hidden" id="hotel_id" name="hotel_id" value="">
+      </td></tr>
+
+      </tbody>
+      </table>
+      </form>
+
+      <input type="hidden" id="hotel_name_validated" value=""><script type="text/javascript">
+<!--
+
+function CheckHotelSelection() {
+  var hotelId = document.getElementById("hotel_id").value;
+  if (document.getElementById("ac_hotel").value == "" || hotelId == "") {
+    alert("Please select a hotel from the dropdown list.");
+    return false;
+  }
+  else if (document.getElementById("ac_hotel").value !=
+           document.getElementById("hotel_name_validated").value) {
+    alert("Sorry, I do not recognize this hotel.");
+    return false;
+  }
+  else {
+    ga_log("search", {hotelId: parseInt(hotelId)});
+    return true;
+  }
+}
+
+function onHotelSelect(hotel) {
+  $("#hotel_addr").html(hotel.addr);
+  $("#hotel_city").html(hotel.city);
+  $("#hotel_state").html(hotel.state);
+  $("#hotel_id").val(hotel.hotel_id);
+  $("#hotel_name_validated").val(hotel.name);
+}
+
+function ClearDetails() {
+  $("#hotel_addr").empty();
+  $("#hotel_city").empty();
+  $("#hotel_state").empty();
+}
+
+// set up auto-complete
+var ac_htl = document.getElementById("ac_hotel");
+var ac_dropdown = document.getElementById("ac_hotel_dropdown");
+var ac = new R77AutoComplete
+    (ac_htl, ac_dropdown, "ParseR77Hotel",
+     function(hotel) {
+       var c = hotel.city;
+       if (hotel.state != "")
+         c += (", " + hotel.state);
+       if (hotel.country != "US" && hotel.country_name != "")
+         c += (", " + hotel.country_name);
+       var line_class = (hotel.active ? "" : " class='ac_coming_soon'");
+       coming_soon_html = "";
+       if (!hotel.active)
+         coming_soon_html =
+           " <span class='ac_coming_soon_text'>(Coming soon)</span>";
+       return "<div" + line_class + "><span class='r77_ac_hotel_name'>" +
+              hotel.name + "</span><span class='r77_ac_hotel_loc'>" + c +
+              coming_soon_html + "</span></div>";
+     },
+     onHotelSelect,
+     function() { ClearDetails(); });
+
+// focus on the hotel input box
+ac_htl.focus();
+ac_htl.select();
+
+ac_htl.onfocus = function() {
+  ac_htl.select();
+  //  ac.ac.sendQuery(ac_htl.value);  // send query automatically on focus
+
+  // work around Chrome's onfocus-to-select bug
+  ac_htl.onmouseup = function(e) {
+    e.preventDefault();  // prevent browser from de-selecting right away
+    // restore onmouseup behavior here, so that the user can
+    // still click again to de-select
+    ac_htl.onmouseup = null;
+  };
+}
+
+
+//-->
+</script>        </div>
+      </li>
+      <li>
+        <a href="faq.html" class="sprite_top_nav help">Help</a>
+      </li>
+    </ul>
+  </div>
+  <div class="social_media">
+
+    <a href="http://www.facebook.com/bestrooms" class="facebook" target="_blank">Room 77 on Facebook</a>
+    <a href="http://www.twitter.com/room_77" class="twitter" target="_blank">Room 77 on Twitter</a>
+    <span class="blog_follow"><a href="http://www.room77.com/blog" target="_blank">Blog</a> | Follow us on</span>
+  </div>
+</div>
+    <div class="page_content">
+      <h1>Privacy Policy</h1>
+      <p>Room 77 takes your privacy seriously and is pleased to provide this privacy policy to inform you of our practices with respect to how we collect, use, and protect personal information about visitors to this site. Personal information is information that is personally identifiable like your name, email address, phone number, mailing address, etc.</p>
+      
+      <p>By using this web site you consent to the following terms:</p>
+      
+      <p>Information Collection</p>
+      
+      <p>Room 77 collects personal information when you use our travel services. For example, when you register with Room 77, we ask for your name and email address. In the future, to complete a transaction we may also ask for your phone number, mailing address, preferences and credit card number. Room 77 may combine information about you that we have with information we obtain from suppliers, business partners, or other companies. In addition, Room 77 automatically receives and records information in our server logs from your browser, including your IP address, browser type, and the pages you request. This information does not necessarily enable us to personally identify you.</p>
+
+      
+      <p>Information Use</p>
+      
+      <p>Room 77 uses your personal information for the following purposes: To verify your authorization to access certain features of the site, to fulfill your requests for products or services, to personalize and customize the content and relevant trip services that you are offered to contact you, to improve our services, and to provide reporting.</p>
+      
+      <p>Information Sharing and Disclosure</p>
+      
+      <p>Room 77 does not rent, sell, or share personal information about you with other people or companies except (i) to provide products or services you have requested including, without limitation, products and services from third parties, (ii) when we have your permission, or (iii) under the following circumstances: Room 77 may use third party vendors to assist us in providing our products or services and may transfer your personally identifiable information to such vendors who have entered into a contract with us that protects the confidentiality of your information and permits the vendor to use it only as necessary to fulfill its contract; In response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; When we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Room 77 's Terms of Service, or as otherwise required by law; We may transfer information about you if Room 77 is acquired by or merged with another company. In this event, Room 77 will notify you by sending a notice to the email address specified in your Room 77 account before information about you becomes subject to a different privacy policy.</p>
+      
+      <p>Cookies</p>
+      
+      <p>Room 77 sets and accesses cookies on your computer. A cookie is a small amount of data that Room 77's servers transfer to your browser and that only Room 77's servers can read. When you visit the site, the cookie captures specific session data to streamline your experience and, if you select to save your member name and password, Room 77 will save this information in a cookie so that you will not be required to sign in each time you visit the site. You may disable or delete cookies from within your Internet browser application by accessing the security or privacy settings. However, Room 77 requires you to have cookies enabled to access certain portions of the site. Room 77 may allow other companies that show advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their privacy policies, not this one. Other companies do not have access to Room 77's cookies.</p>
+      
+      <p>Links to Third Party Sites</p>
+      
+      <p>For your convenience, we may provide links to third party websites or referrals to certain third parties' products or services. If you choose to visit a third party's web site or use its products or services, please be aware that this privacy policy will not govern your activities and any information you disclose to such third party.</p>
+      
+      <p>Confidentiality and Security</p>
+      
+      <p>We limit access to personal information about you to employees who we believe have a legitimate need to come into contact with that information to provide products or services to you or in order to do their jobs. Room 77 employs procedural and technical measures reasonably designed to protect your personal information from loss, misuse, unauthorized access or disclosure. Although we make good faith efforts to store the information collected in a secure operating environment that is not accessible to the public, we cannot guarantee complete security.</p>
+      
+      <p>Accessing, Reviewing and Changing Your Personal Information</p>
+      
+      <p>We will offer you the ability to access, review and change certain information via the Registration page. Upon your request, we will deactivate your account, and remove your personal information from active service. To make this request, please contact us. Your account will be deactivated as soon as reasonably possible based on your account activity. We will retain in our files and databases some personal information to prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Service and comply with legal requirements as permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your request.</p>
+      
+      <p>Changes to this Privacy Policy</p>
+      
+      <p>Room 77 may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your Room 77 account or by placing a notice on our site.</p>
+      
+      <p>If you have questions, please contact us: info@room77.com</p>
+      
+      <p>Expert Media, Inc.<br>Room 77</p>
+    </div>
+  </div>
+  <!-- End Site Container -->
+
+  <!-- Footer: Outside main container to break width -->
+  
+<div class="footer">
+  Copyright 2011 Room 77 &nbsp; | 
+  <a href="/about.html">About Us</a> |
+  <a href="/team.html">Team</a> |
+  <a href="/faq.html">FAQs/Help</a> |
+  <a href="/contact.html">Contact Us</a> |
+  <a href="/jobs.html">Jobs</a> |
+  <a href="/press.html">Press Center</a> |
+  <a href="/hotel_partners.html">Hotel Partners</a> |
+  <a href="/terms.html">Terms of Use</a> |
+  <a href="/privacy.html">Privacy Policy</a>
+</div>
+  <!-- End Footer -->
+
+
+</body></html>
