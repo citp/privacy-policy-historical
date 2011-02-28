@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teslacoverup.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115200656id_/http%3A//teslacoverup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teslacoverup.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228024701id_/http%3A//www.teslacoverup.com/privacy.php) for the most accurate reproduction.*
 
 # Tesla Free Energy
 
@@ -94,8 +94,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information found at this link: http://www.TeslaCoverUp.com/contactus.php    
-PO Box 740536  
-Arvada, CO 80006  
+3879 E. 120th Avenue  
+Suite 323  
+Thornton, CO 80233  
 USA  
 info@TeslaCoverUp.com
 
