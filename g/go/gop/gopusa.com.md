@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gopusa.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127115218id_/http%3A//www.gopusa.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopusa.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228014652id_/http%3A//www.gopusa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GOPUSA
+# » Privacy Policy GOPUSA
 
-  1. **GOPUSA PRIVACY NOTICE**
+**GOPUSA PRIVACY NOTICE**
 
 **1\. Overview.**
 
@@ -18,7 +18,7 @@ At some GOPUSA Sites, you may be able to order products, enter contests, vote in
 
 At some other GOPUSA Sites, you may be able to submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows Å’98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows Œ98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
 **3\. How We Use the Information.**
 
@@ -49,6 +49,3 @@ We have put in place appropriate physical, electronic, and managerial procedures
 **7\. Notice.**
 
 IF YOU DO NOT ACCEPT THESE TERMS AND CONDITIONS, YOU MAY NOT USE THE GOPUSA SITES. GOPUSA reserves the right to make changes to the GOPUSA Sites and this Agreement at any time without prior notice. This Agreement may not otherwise be amended except in a writing signed by GOPUSA.
-
-
-
