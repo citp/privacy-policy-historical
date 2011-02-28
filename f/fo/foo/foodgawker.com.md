@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodgawker.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218040259id_/http%3A//foodgawker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodgawker.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228183300id_/http%3A//foodgawker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | foodgawker
 
