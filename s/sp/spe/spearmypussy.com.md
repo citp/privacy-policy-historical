@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spearmypussy.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129142855id_/http%3A//spearmypussy.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spearmypussy.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228143707id_/http%3A//spearmypussy.com/pp.php) for the most accurate reproduction.*
 
 # SPEAR MY PUSSY - Privacy Policy
 
