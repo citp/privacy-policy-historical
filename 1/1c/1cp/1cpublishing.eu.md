@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1cpublishing.eu privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223031217id_/http%3A//www.1cpublishing.eu/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1cpublishing.eu privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228132746id_/http%3A//www.1cpublishing.eu/info/privacy-policy) for the most accurate reproduction.*
 
 # 1C Publishing games news screenshots videos downloads and online shop
 
