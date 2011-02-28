@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montolz.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229211640id_/http%3A//www.montolz.com/privacy-policy-at-montolz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montolz.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228160207id_/http%3A//www.montolz.com/privacy-policy-at-montolz) for the most accurate reproduction.*
 
 # Privacy Policy At Montolz.com | Code Jutsu
 
