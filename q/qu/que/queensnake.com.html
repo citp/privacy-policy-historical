@@ -1,0 +1,184 @@
+<!--The following is the downloaded HTML source of the queensnake.com privacy policy that was archived on 2011-02-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110228054414id_/http%3A//queensnake.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <base href="http://queensnake.com">
+  
+  <title>
+    Queensnake BDSM  </title>
+
+    <meta name="google-site-verification" content="ODOEvLxPC_YD78y8JOWoz0Jc-4fHFs1XEEHknnBjv6g">
+    <meta name="google-site-verification" content="xhkOybMukCdbTayqjuU938qE45-xhRZjusVbf70shMY">
+    <base href="/">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta content="adult content">
+    <meta name="description" content="Queensnake BDSM">
+    <meta name="keywords" content="Queensnake BDSM, queensnake, amateur, bdsm, queensnake bdsm, fetish, foot, stinging nettle, torture, electro">
+    <meta name="classification" content="adult content">
+    <meta name="robots" content="all">
+    <meta name="RATING" content="RTA-5042-1996-1400-1577-RTA">
+    <meta name="copyright" content="2009-2011">
+    <meta name="author" content="queensnake.com">
+    <meta name="distribution" content="Global">
+    <meta name="title" content="queensnake bdsm">
+    <meta name="doc-type" content="Web Page">
+    <meta name="doc-rights" content="copy written material">
+    <meta name="alexaVerifyID" content="6pkDzq2SJ9yl7q8Dml8OPwImlEQ">
+    <meta name="google-site-verification" content="gYFD3AzOdtal8yAhyX2nccaurHFqYjgkfhxJ2L-KcMk">
+
+    <style type="text/css"></style>
+    
+    <script type="text/javascript" src="/javascript/jquery.js"></script>
+    <script type="text/javascript" src="/jwplayer/jwplayer.js"></script>
+    <script type="text/javascript" src="/flowplayer/flowplayer-3.0.3.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="/qs.css" media="screen,projection">
+    <link rel="shortcut icon" href="/favicon.ico">
+    
+</head>
+ 
+<body>
+
+  <div id="gray_box">
+
+    <div style="height:240px;">
+      <a href="http://queensnake.com" title="http://queensnake.com"><img src="/images/framework/bigBanner.png" border="0" alt="Queensnake BDSM"></a> 
+		</div>
+<div style="background-image:url('/images/framework/menuBar.png'); height:37px; padding-top:15px; font-family:'arial'; font-weight:bold; font-size:16px; text-align:middle; color:#000; position:relative; "><a href="updates" class="menuLink">HOME</a>&nbsp; | &nbsp;<a href="/membervideos" class="menuLink">MEMBERS</a>&nbsp; | &nbsp;<a href="/join" class="menuLink">JOIN NOW</a>&nbsp; | &nbsp;<a href="/blog/index.php" class="menuLink">BLOG</a>&nbsp; | &nbsp;<a target="_blank" href="http://twitter.com/QueenSnake_BDSM" class="menuLink">TWITTER</a>&nbsp; | &nbsp;<a target="_blank" href="http://clips4sale.com/studio/29292" class="menuLink">CLIPS4SALE</a>&nbsp; | &nbsp;<a href="/faq" class="menuLink">HELP</a>&nbsp; | &nbsp;<a href="links" class="menuLink">LINKS</a>&nbsp; | &nbsp;<span id="loginID" class="menuLink" onclick="doLogin();">LOGIN</span></div><div style="height:15px;"></div><div style="height:20px; width:0px; left:11px; position:relative;"><form action="search" id="searchForm" method="get"><input type="text" name="search" size="15" class="inputBox"><div class="inputButton" style="cursor:pointer; height:22px; width:64px; position:absolute; left:156px; padding-top:3px;" onclick="document.getElementById('searchForm').submit();">SEARCH</div></form></div>
+  <div id="loginShadowID" title="Click to close">
+  </div>
+
+  <script>
+    function loginKeyHandler(){
+      if(window.event.keyCode==27){
+        document.getElementById("loginShadowID").innerHTML="";
+      }
+      if(window.event.keyCode==13){
+        sendLogin();
+      }
+    }
+    function loginMouseHandler(){
+      document.getElementById("loginShadowID").innerHTML="";
+    }
+    function sendLogin(){
+      $.get('login', {Username: $("#userNameID").val(), Password: $("#passwordID").val()}, callbackLogin);
+    }
+    function callbackLogin(ret){
+      if(!parseInt(ret))
+        document.location="http://queensnake.com/membervideos";      else{
+        var error=new Array("Login error", "Not subscribed yet", "Subscription expired", "Blocked account");
+        $('#loginErrorID').html(error[ret-1]);
+        $('#loginErrorID').fadeIn(500, function(){$('#loginErrorID').fadeOut(2000);});
+        
+        if(ret==3){
+          setTimeout(
+            function(){
+              document.location="http://queensnake.com/blockedaccount";
+            },
+            2000
+          )
+        }
+      }
+    }
+    function sendLogout(){
+      $.get('logout',
+        function(){
+          window.location.reload();        }
+      );
+    }
+
+    function doLogin(){
+
+      document.body.onkeydown=loginKeyHandler;
+
+      newHTML='<div style="position:fixed; height:100%; width:100%; top:0px; left:0px;">';
+      
+        newHTML+='<div style="position:fixed; height:100%; width:100%; top:0px; left:0px; z-index:100; background-color:#000000; opacity:0.90; filter:alpha(opacity=90);" onClick="loginMouseHandler()">';
+        newHTML+="</div>";
+
+        newHTML+='<div style="position:relative; z-index:110; width:360px; height:115px; margin-left:auto; margin-right:auto; top:50%; margin-top:-58px; padding:10px; background-image:url(\'/images/framework/loginCell.png\'); background-repeat:no-repeat; opacity:0.5; filter:alpha(opacity=60); text-align:right">';
+          newHTML+='<div style="margin:auto; padding:5px; font-family:\'arial\'; font-weight:bold; font-size:22px; color:#fff; text-shadow: 2px 2px #000;">';
+            newHTML+='Name: <input id=userNameID type=text name=Username style="margin:auto; font-family:\'arial\'; font-weight:bold; font-size:18px; color:#000;">';
+          newHTML+='</div>';
+          newHTML+='<div style="margin:auto; padding:5px; font-family:\'arial\'; font-weight:bold; font-size:22px; color:#fff; text-shadow: 2px 2px #000;">';
+            newHTML+='Password: <input id=passwordID type=password name=Password style="margin:auto; font-family:\'arial\'; font-weight:bold; font-size:18px; color:#000;">';
+          newHTML+='</div>';
+          newHTML+='<div style="margin:auto; padding:5px; font-family:\'arial\'; font-weight:bold; font-size:22px; color:#fff; text-shadow: 2px 2px #000;">';
+            newHTML+='<span id=loginErrorID style="margin-right:20px; color:#f00; text-shadow: 2px 2px #000;">Login error</span>';
+            newHTML+='<input type=button value=Login style="margin:auto; font-family:\'arial\'; font-weight:bold; font-size:18px; color:#000;" onClick="sendLogin()">';
+          newHTML+='</div>';
+        newHTML+='</div>';
+      newHTML+='</div>';
+
+      document.getElementById("loginShadowID").innerHTML=newHTML;
+      $('#loginErrorID').hide();
+      $('#userNameID').focus();
+    }
+    
+  </script>
+<div style="width:960px; height:22px; margin:auto;">
+</div><div style="width:960px; height:26px; margin:auto;">
+<img src="/images/framework/blockTop.png">
+</div><div style="width:960px; height:13px; margin:auto; background:url('/images/framework/blockMiddle.png'); background-repeat:repeat-y;">
+</div><div style="width:960px; margin:auto;">
+<img src="/images/framework/blockBottomBar.png">
+<div style="position:relative; height:0; top:-40px; font-family:'arial'; font-weight:bold; font-size:20px; color:#aaa;">
+Privacy Policy for Queensnake.com</div><div style="position:relative; height:0; top:-18px; font-family:'arial'; font-weight:bold; font-size:12px; color:#aaa;">
+Updated: January 10, 2011</div></div><div style="width:960px; height:13px; margin:auto; background:url('/images/framework/blockMiddle.png'); background-repeat:repeat-y;">
+</div><div style="width:960px; margin:auto; background:url('/images/framework/blockMiddle.png'); background-repeat:repeat-y;">
+
+<div style="text-align:center; margin:0 auto; padding:10px;	width:800px; font-family:arial; color:#989898; font-size:13px;">
+
+<h3>Preamble and General Principles</h3><br>
+
+The following information is designed to help you understand how we collect, use, disseminate and safeguard the information you provide to us while accessing and using our Site. If you do not agree with our information practices, please do not access or use our Site. By accessing and using our Site, you signify your assent to this Privacy Policy.<br>
+This Privacy Policy describes how d/b/a Queensnake.com collects information from all Users (Visitors: who access some parts of our websites but do not have accounts and Members: who pay fees to gain access to the website), what we do with the information we collect. We request that you read this Privacy Policy carefully.<br><br><br>
+
+<h3>Revisions to this Policy</h3>
+Queensnake.com reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. The user should periodically check for any modifications of this Policy by re-visiting this web page and using the "refresh" button on the user's browser.<br><br><br>
+
+<h3>Personal Information</h3>
+Queensnake.com collects information from Users who access the various parts of our website. We use this information to provide a customized experience as you use our website and do not share this information with third parties. However, we may disclose personal information collected when we believe that such disclosure is required by law.<br><br><br>
+
+<h3>Registration</h3>
+Members are asked to provide certain personal information when they sign up for our website including name, address, telephone number, billing information (such as a credit card number). The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is collected by our credit card processors/billing companies, and is not shared with third parties, unless specifically stated otherwise or in special circumstances. You may read the privacy policies on their websites at www.ccbill.com, www.verotel.com.<br><br><br>
+
+<h3>Email Inquiries</h3>
+When Users send email inquiries to us, the return email address is used to answer the email inquiry we receive. We does not use the return email address for any other purpose and does not share the return email address with any third party.<br><br><br>
+
+<h3>Internet Data</h3>
+We collect IP addresses, referral URLs, browser preferences. This information is used internally to track how users come to be referred to our Site for the purpose of compensating our affiliates, advertisers, and other marketing entities. This information is not shared to third-parties. We never discloses any customer-specific information to third parties unless it is reasonable to believe that doing so is required by law, a binding contract, a Court Order, or other state, local, or administrative regulation.<br><br><br>
+
+<h3>"Cookies"</h3>
+We may use a cookie to save your settings and to provide customizable and personalized services to you. These cookies do not enable third parties to access any of your customer information.<br><br><br>
+
+<h3>E-mail list</h3>
+You will have the option to join our mailing list. If you choose to join the mailing list, your email address will be stored in our database and used periodically to send you news and promotions about our website. You can be removed from the list by following the link contained in the email instructing you on how to unsubscribe. Every email we send you will have a link contained therein which will direct you to a site where you can unsubscribe. These unsubscribe links, when clicked, will automatically remove your email address from our database without any additional action on your part.<br><br><br>
+
+<h3>Children's Protection</h3>
+Our sites are designed for adults, but not for use by anyone under the age of 18. We make every effort to ensure that our website contain adequate warnings to make our content obvious and to warn users under the age of 18 that they are not welcome to view our website.<br><br><br>
+
+<h3>Data Security</h3>
+We make every effort to ensure the integrity and security of our network and systems, however we cannot guarantee that our security measures will prevent "hackers" from illegally obtaining information.<br><br><br>
+
+<h3>Questions about Our Privacy Policy</h3>
+If you have any questions about this Privacy Policy or the practices described herein, you may contact our Support Team at <b style="color:#fff">support</b>(AT)<b style="color:#fff">queensnake</b>(DOT)<b style="color:#fff">com</b>.<br><br><br>
+
+<div style="margin-left:auto; margin-right:auto; margin-top:15px; margin-bottom:5px;">
+  <img src="/images/framework/divider.png" alt="Queensnake BDSM">
+</div>
+  
+</div>
+</div><div style="width:960px; height:24px; margin:auto; background:url('/images/framework/blockMiddle.png'); background-repeat:repeat-y;">
+</div><div style="width:960px; margin:auto;">
+<img src="/images/framework/blockBottom.png">
+</div><div style="width:950px; margin-left:auto; margin-right:auto; margin-top:15px; margin-bottom:15px;"><img src="/images/framework/divider.png" alt="Queensnake BDSM"></div><div style="width:950px; margin-left:auto; margin-right:auto; margin-top:10px; padding-top:10px; padding-bottom:20px; background:url('/images/framework/grayDarkener.png'); background-repeat:repeat; font-family:'arial'; font-weight:normal; font-size:15px; line-height:32px;"><div style="color:#660000;"><a href="2257" style="color:#660000;">2257 Statement</a> | <a href="privacy" style="color:#660000;">Privacy Policy</a> | <a href="termsofuse" style="color:#660000;">Terms of Use</a> | <a href="faq" style="color:#660000;">FAQ</a> | <a href="recovery" style="color:#660000;">Password Recovery</a> | <a href="contactus" style="color:#660000;">Contact Us</a> | <a href="webmasters" style="color:#660000;">Webmasters</a></div><div style="color:#888; font-size:12px; line-height:18px;">Please visit <script language="JavaScript" src="https://epoch.com/compliance/epoch_descriptor.php?master_code=M-602085"></script>, our authorized sales agent.<br>All material is Copyright 2009-2011 - Queensnake.com.  All Rights Reserved.<br></div><div style="color:#777; font-size:12px;  line-height:18px; font-style:italic;">All models are over the age of 18. No model was harmed during the filming of these movies.<br>All materials shown on this website are consensual.<br><a href="http://www.rtalabel.org" target="_blank">Labelled with RTA</a></div></div>      <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+      <script type="text/javascript">
+        try {
+        var pageTracker = _gat._getTracker("UA-8354274-4");
+        pageTracker._trackPageview();
+        } catch(err) {}
+      </script></div></body></html>
