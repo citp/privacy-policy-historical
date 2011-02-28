@@ -1,10 +1,21 @@
-> *The following text is extracted and transformed from the judgepedia.org privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218114605id_/http%3A//judgepedia.org/index.php/Judgepedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the judgepedia.org privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228014629id_/http%3A//judgepedia.org/index.php/Judgepedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Judgepedia:Privacy policy - Judgepedia
 
 ### From Judgepedia
 
-**Privacy Policy**
+[Judgepedia policies](https://web.archive.org/index.php/Judgepedia:Policies "Judgepedia:Policies")  
+---  
+Policies  
+[Copyright policy](https://web.archive.org/index.php/Judgepedia:Copyrights "Judgepedia:Copyrights")  
+[Image use policies](https://web.archive.org/index.php/Judgepedia:Image_use_policy "Judgepedia:Image use policy")  
+[User name policies](https://web.archive.org/index.php/Judgepedia:User_name_policies "Judgepedia:User name policies")  
+[Blocking policies](https://web.archive.org/index.php/Judgepedia:Blocking_policy "Judgepedia:Blocking policy")  
+**Privacy policies**  
+Guidelines  
+[Writing Guidelines](https://web.archive.org/index.php/Portal:Writing_guidelines "Portal:Writing guidelines")  
+  
+ **Privacy Policy**
 
 If you only read Judgepedia, no more information is collected than is typically collected in server logs by web sites in general. If you contribute to Judgepedia, you are publishing every word you post publicly. If you write something, assume that it will be retained forever. This includes articles, user pages and talk pages. Some limited exceptions are described below. 
 
