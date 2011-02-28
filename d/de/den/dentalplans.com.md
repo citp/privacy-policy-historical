@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dentalplans.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215075519id_/http%3A//www.dentalplans.com/moreinfo/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dentalplans.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228054053id_/http%3A//www.dentalplans.com/moreinfo/privacystatement.asp) for the most accurate reproduction.*
 
 # DentalPlans.com Privacy Policy
 
@@ -6,10 +6,18 @@
 ---  
 | 
 
-[](https://web.archive.org/deals-health-products/)
-
 | 
 
+[](https://web.archive.org/deals-health-products/)  
+  
+---  
+  
+|   
+---  
+  
+  
+  
+  
 Privacy Policy
 
   
@@ -72,8 +80,8 @@ X
 
 [](http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=1285412&lang=en&form_id=62451)  
   
-|  Info to Go | [Newsletter](https://web.archive.org/emailreg/) | [Press Center](https://web.archive.org/press-room/) | [Testimonials](https://web.archive.org/dentalplans/dentalplantestimonials.asp) | [Dental Professionals](https://web.archive.org/dentistaffiliate/index.asp) | [Affiliate Program](https://web.archive.org/affiliate/) | [Contact Us](https://web.archive.org/moreinfo/contactus.asp) | [DP Goes Green](https://web.archive.org/gogreen/) | [Terms of Use](https://web.archive.org/moreinfo/termsofuse.asp) | [Privacy Policy](https://web.archive.org/moreinfo/privacystatement.asp) | [Site Map](https://web.archive.org/moreinfo/sitemap.asp)   
+|  Info to Go | [Newsletter](https://web.archive.org/emailreg/) | [Press Center](https://web.archive.org/press-room/) | [Testimonials](https://web.archive.org/dentalplans/dentalplantestimonials.asp) | [Blog](http://blog.dentalplans.com/) | [Dental Professionals](https://web.archive.org/dentistaffiliate/index.asp) | [Affiliate Program](https://web.archive.org/affiliate/) | [Contact Us](https://web.archive.org/moreinfo/contactus.asp) | [DP Goes Green](https://web.archive.org/gogreen/) | [Terms of Use](https://web.archive.org/moreinfo/termsofuse.asp) | [Privacy Policy](https://web.archive.org/moreinfo/privacystatement.asp) | [Site Map](https://web.archive.org/moreinfo/sitemap.asp)   
   
-The DENTALPLANS.COM website is administered by DENTALPLANS.COM, INC., a licensed Florida Discount Medical Plan Organization, 8100 S.W. 10th Street Suite #2000, Plantation, FL 33324. Plans and Programs offered by DentalPlans.com are not health insurance policies. Plans and Programs offered by DentalPlans.com provide discounts at certain health care providers for medical services. Plans and Programs offered by DentalPlans.com do not make payments directly to the providers of medical services. The Plan or Program member is obligated to pay for all health care services but will receive a discount from those health care providers who have contracted with the Plan, Program or discount plan organization. **Special promotions including but not limited to 3 additional months free, Delta SkyMilesŽ and Membership RewardsŽ points from American Express are not available to California residents.** © 1999-2010 DentalPlans.com, Inc. All Rights Reserved. Patents Pending.  
+The DENTALPLANS.COM website is administered by DENTALPLANS.COM, INC., a licensed Florida Discount Medical Plan Organization, 8100 S.W. 10th Street Suite #2000, Plantation, FL 33324. Plans and Programs offered by DentalPlans.com are not health insurance policies. Plans and Programs offered by DentalPlans.com provide discounts at certain health care providers for medical services. Plans and Programs offered by DentalPlans.com do not make payments directly to the providers of medical services. The Plan or Program member is obligated to pay for all health care services but will receive a discount from those health care providers who have contracted with the Plan, Program or discount plan organization. **Special promotions including but not limited to 3 additional months free, Delta SkyMilesŽ and Membership RewardsŽ points from American Express are not available to California residents.** © 1999-2011 DentalPlans.com, Inc. All Rights Reserved. Patents Pending.  
 ---  
 [](http://www.seflorida.bbb.org/BusinessReport.aspx?CompanyID=4008612&source=ctc)    [ ](https://www.scanalert.com/RatingVerify?ref=www.dentalplans.com)
