@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evoice.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123035538id_/http%3A//www.evoice.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoice.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301003840id_/http%3A//www.evoice.com/privacy-policy.html) for the most accurate reproduction.*
 
 # eVoice Privacy Policy
 
@@ -171,7 +171,7 @@ If, however, we change our Policy in a material way, we will notify users via em
 | 7\. Safe Harbor  
 ---  
   
-The Company is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. <http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list>  
+The Company is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. <https://safeharbor.export.gov/list.aspx>  
   
    
   
