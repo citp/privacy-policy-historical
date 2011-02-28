@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023014337id_/http%3A//www.horseplayerinteractive.com/Discover/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228160556id_/http%3A//www.horseplayerinteractive.com/Discover/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # HorsePlayer Interactive
 
@@ -8,7 +8,7 @@ This Privacy Policy was last revised January 15, 2009
 
 Woodbine Entertainment Group ("we" or "our") offers a range of racing, gaming and entertainment products, which are available across North America and worldwide through our various Internet sites. Neither this web site nor any of our other Internet sites are intended for use by children.
 
-We maintain a firm commitment to the privacy of our customers’ Personal Information (defined below under the heading "What is Personal Information?"). The following outlines our commitment to you:
+We maintain a firm commitment to the privacy of our customers’ Personal Information (defined below under the heading "What is Personal Information?"). The following outlines our commitment to you: 
 
   * **Purpose and Consent** : At the time of collection we will explain to you the purpose of collecting your Personal Information and obtain your consent to collect, use and disclose your Personal Information.
   * **Limiting Collection** : We limit the collection of Personal Information to what is reasonable under the circumstances and your Personal Information will only be used for the purposes for which it is collected.
@@ -17,7 +17,7 @@ We maintain a firm commitment to the privacy of our customers’ Personal Inform
 
 
 
-We have adopted the 10 privacy principles established by the Canadian Standards Association’s _Model Code for the Protection of Personal Information_. These principles form a part of the Personal Information Protection and Electronic Documents Act (“PIPEDA” or the “Act”) which establishes the rules governing the collection, use and disclosure of Personal Information in Canada. It should be noted that certain provinces (Alberta, British Columbia and Québec) have privacy legislation that governs the collection, use and disclosure of personal information in those provinces.  We will periodically review our principles in order to ensure that they remain relevant and current with changing technologies and laws and the evolving needs of our customers and employees.
+We have adopted the 10 privacy principles established by the Canadian Standards Association’s _Model Code for the Protection of Personal Information_. These principles form a part of the Personal Information Protection and Electronic Documents Act (“PIPEDA” or the “Act”) which establishes the rules governing the collection, use and disclosure of Personal Information in Canada. It should be noted that certain provinces (Alberta, British Columbia and Québec) have privacy legislation that governs the collection, use and disclosure of personal information in those provinces.  We will periodically review our principles in order to ensure that they remain relevant and current with changing technologies and laws and the evolving needs of our customers and employees. 
 
 **Our 10 Principles**
 
@@ -42,10 +42,10 @@ We have adopted the 10 privacy principles established by the Canadian Standards 
 10.     **Challenging Compliance:** You may contact us with any questions, complaints or suggestions with respect to the above principles and this Privacy Policy. 
 
 **What is Personal Information?**  
-Personal Information is broadly defined as information about an identifiable individual, but does not include the name, title, business address or business telephone number of an employee of an organization. Personal Information with personal identifiers removed (removing the identity of the individual from the information) so that it can no longer be identified with a particular individual is not considered Personal Information.
+Personal Information is broadly defined as information about an identifiable individual, but does not include the name, title, business address or business telephone number of an employee of an organization. Personal Information with personal identifiers removed (removing the identity of the individual from the information) so that it can no longer be identified with a particular individual is not considered Personal Information. 
 
 **Personal Information We Collect**  
-With your consent, we may collect Personal Information from you in person, either by telephone, by mail, by intercept survey or through the Internet. Typically, we collect and maintain the following:
+With your consent, we may collect Personal Information from you in person, either by telephone, by mail, by intercept survey or through the Internet. Typically, we collect and maintain the following: 
 
 Name  
 Mailing Address  
@@ -55,7 +55,7 @@ Date of Birth
 
 It is always your choice as to whether you provide us with your Personal Information. However:
 
-  * Several of our products and services (e.g. telephone account and Internet wagering) are governed by federal and provincial regulations that require specific Personal Information be collected and maintained by us.
+  * Several of our products and services (e.g. telephone account and Internet wagering) are governed by federal and provincial regulations that require specific Personal Information be collected and maintained by us. 
   * Some of our products and services can only be delivered to you if we can collect, use and disclose your Personal Information (e.g. HorsePlayer Rewards program). 
 
 
@@ -66,12 +66,12 @@ We want to provide you with our various services on an ongoing and efficient man
 
 With your permission, we collect Personal Information about you to:
 
-  * Provide you with products, services or information that you request
-  * Assist in identifying your preferences
-  * Provide you with information about upcoming events, promotions and new and improved services
-  * Protect you and us, against error and fraud
-  * Comply with legal requirements
-  * Comply with our internal risk management and related policies
+  * Provide you with products, services or information that you request 
+  * Assist in identifying your preferences 
+  * Provide you with information about upcoming events, promotions and new and improved services 
+  * Protect you and us, against error and fraud 
+  * Comply with legal requirements 
+  * Comply with our internal risk management and related policies 
 
 
 
@@ -104,9 +104,9 @@ In the event that we disclose your Personal Information as set out above, we wil
 **Accessing your Personal Information**  
 You may access and verify your Personal Information. At the time of your request we will need specific information to verify your identity before we can provide you with the Personal Information we hold.  In some instances, we will not be able to provide you with the Personal Information you request, for instance where that information:
 
-  * Contains references to other persons
-  * Has already been destroyed due to legal requirements or because the information has served its purposes
-  * Cannot be disclosed for legal reasons (e.g. when subject to solicitor-client or litigation privilege)
+  * Contains references to other persons 
+  * Has already been destroyed due to legal requirements or because the information has served its purposes 
+  * Cannot be disclosed for legal reasons (e.g. when subject to solicitor-client or litigation privilege) 
 
 
 
