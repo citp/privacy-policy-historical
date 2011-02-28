@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movavi.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229101644id_/http%3A//www.movavi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movavi.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228053750id_/http%3A//www.movavi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
