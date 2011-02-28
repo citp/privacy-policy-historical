@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202144215id_/http%3A//www.nabshow.com/2011/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228054224id_/http%3A//www.nabshow.com/2011/about/privacy_policy.asp) for the most accurate reproduction.*
 
 # 2011 NAB Show - About - Event Schedule
 
