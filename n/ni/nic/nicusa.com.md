@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicusa.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229145951id_/http%3A//www.nicusa.com/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicusa.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228073835id_/http%3A//www.nicusa.com/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # NIC Privacy Policy
 
