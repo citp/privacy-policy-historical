@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the johndeeregifts.com privacy policy that was archived on 2010-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100808185039id_/http%3A//www.deere.com/en_US/deerecom/privacy_legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johndeeregifts.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301071539id_/http%3A//www.deere.com/en_US/deerecom/privacy_legal/privacypolicy.html) for the most accurate reproduction.*
 
 # John Deere - Privacy and Legal
 
-|  |  | | |  |    
+|   
+---  
+|  |  |  | | |  |    
   
 | **Scope Summary**  
-This statement applies to John Deere and the [http://www.JohnDeere.com](http://www.deere.com/) Web site. Differences in state or national laws require that we operate under specific policies in certain countries and lines of business, such as financial services provided by John Deere Credit. Please refer to the links at the left for the policies that most closely apply to your situation. |   | 
+This statement applies to John Deere and the [http://www.JohnDeere.com](http://www.deere.com/) Web site, as well as [machine data](https://web.archive.org/en_US/deerecom/privacy_legal/privacypolicy_machinedata.html) John Deere may collect. Differences in state or national laws require that we operate under specific policies in certain countries and lines of business, such as financial services provided by John Deere Credit. Please refer to the links at the left for the policies that most closely apply to your situation. |   | 
 
 **Your Choices**
 
@@ -71,4 +73,6 @@ John Deere is committed to conducting its worldwide business in a manner that a
 |    
   |    
 |    
-| 
+|   
+  
+
