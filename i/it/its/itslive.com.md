@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itslive.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501141407id_/http%3A//www.itslive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itslive.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301173836id_/http%3A//www.itslive.com/privacy.html%3F) for the most accurate reproduction.*
 
-# Itslive - Privacy Policy
+# Itslive - Privacy
 
 [Home](http://www.itslive.com/) / Privacy Policy
 
