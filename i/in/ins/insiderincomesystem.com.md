@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insiderincomesystem.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217002737id_/http%3A//insiderincomesystem.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insiderincomesystem.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301111037id_/http%3A//insiderincomesystem.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
