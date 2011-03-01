@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeimprovementpages.com.au privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124132906id_/http%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeimprovementpages.com.au privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301142446id_/http%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
 
 # Home Improvement Pages, Privacy Policy
 
@@ -12,7 +12,7 @@
   
 **Collection of information**
 
-3\.  | Some information provided to us by clients, customers, contractors and other third parties might be considered private or personal. Without these details we would not be able to carry on our business and provide our services to you. We will only collect such personal information if it is necessary for one of our functions or activities.   
+3\.  | Some information provided to us by clients, customers, contractors and other third parties might be considered private or personal. Without these details we would not be able to carry on our business and provide our services to you. We will only collect such personal information if it is necessary for one of our functions or activities. We retain the right to use or disclose personal information about you that is required in the provision of information about or the promotion or delivery of HIP products and services to the user, such as newsletters.  
 ---|---  
 4\.  | In particular, personal information is collected from people in the following situations by Home Improvement Pages :  | 
 
