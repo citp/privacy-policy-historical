@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the yodel.co.uk privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008050813id_/http%3A//www.yodel.co.uk/media/143/yd0001_yodel_a4_web_privacy_policy_download.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodel.co.uk privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301080931id_/http%3A//www.yodel.co.uk/media/545/yd0001%2520yodel%2520a4%2520web%2520privacy%2520policy%2520download_s9.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
 PRIVACY
 POLICY
 Who we are
-In this privacy policy references to “we”, “us” and “our” are to Home Delivery Network Ltd.
+In this privacy policy references to “we”, “us” and “our” are to Home Delivery Network Limited.
 References to “our Website” or “the Website” are to www.yodel.co.uk.
 What information we collect and how
 The information we collect via the Website may include:
@@ -13,8 +13,8 @@ The information we collect via the Website may include:
 • Debit or credit card information. In order to effectively process credit or debit card transactions it may
    be necessary for the bank or card-processing agency to verify your personal details for authorisation
    outside the European Economic Area (EEA). Such information will not be transferred out of the EEA
-   for any other purpose. Appropriate security measures will be employed to protect your data where this
-   is the case.
+   for any other purpose. Appropriate security measures will be employed to protect your data where
+   this is the case.
 • Your IP Address. This is a string of numbers unique to your computer that is recorded by our web server
    when you request any page or component on the Website. This information is used to monitor your
    usage of the Website.
@@ -27,25 +27,25 @@ What we do with your information
 Any personal information we collect from this website will be used in accordance with the Data
 Protection Act 1998 and other applicable laws. The details we collect will be used:
 • To process your order and to provide after sales service. We may need to pass the information we
-   collect to other companies or organisations to supply/deliver products you have purchased and/or to
-   provide after-sales service or for administrative purposes. We may use third parties to carry out certain
-   activities, including but not limited to processing and sorting data, monitoring how customers use the
-   Website and issuing our e-mails for us. Third parties will not be allowed to use your personal information
-   for their own purposes.
-• To offer you additional products and services with your consent. In certain cases we may use your email
-   address [is it only email address that will be used for marketing purposes?] to send you information
+   collect to other companies or organisations to supply/deliver products you have purchased and/or
+   to provide after-sales service or for administrative purposes. We may use third parties to carry out
+   certain activities, including but not limited to processing and sorting data, monitoring how customers
+   use the Website and issuing our e-mails for us. Third parties will not be allowed to use your personal
+   information for their own purposes.
+• To offer you additional products and services with your consent. In certain cases we may use your
+   email address, home address, telephone number and mobile telephone number to send you information
    on our other products and services. In such a case you will be offered the option to opt in/out before
    completing your purchase.
 
 
 PRIVACY
 POLICY
-• To disclose information about you to any relevant regulator if they require it or to anyone else if
-   there is a legal duty to do so.
+• To disclose information about you to any relevant regulator if they require it or to anyone else
+   if there is a legal duty to do so.
 Your Rights
-You have the right to request a copy of any information that we currently hold about you. In order to
-receive such information please send your contact details including address and payment of £10 to
-cover administration expenses to the following address:
+You have the right to request a copy of any information that we currently hold about you. In order
+to receive such information please send your contact details including address and payment of £10
+to cover administration expenses to the following address:
 Marketing Director: Home Delivery Network Ltd, Fallows Way, Whiston, Merseyside. L35 1RZ
 Other Websites
 This privacy policy only covers this website. Any other websites which may be linked to by our
