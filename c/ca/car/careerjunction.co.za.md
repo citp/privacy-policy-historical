@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203004643id_/http%3A//www.careerjunction.co.za/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301033721id_/http%3A//www.careerjunction.co.za/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerJunction | Better jobs. More often.
 
 ### **Privacy Policy**
 
-[ ](http://www.truste.org/ivalidate.php?url=www.careerjunction.co.za&sealid=101)
-
-  1. [Introduction](http://www.careerjunction.co.za/content/privacy#intro)
-  2. [Information Collection & Use](http://www.careerjunction.co.za/content/privacy#info)
-  3. [CareerSeeker Registration](http://www.careerjunction.co.za/content/privacy#reg)
-  4. [Recruiter Registration](http://www.careerjunction.co.za/content/privacy#recruiter)
-  5. [Resume](http://www.careerjunction.co.za/content/privacy#resume)
-  6. [Cookies](http://www.careerjunction.co.za/content/privacy#cookies)
-  7. [Log Files](http://www.careerjunction.co.za/content/privacy#log)
-  8. [Sharing](http://www.careerjunction.co.za/content/privacy#sharing)
-  9. [Links](http://www.careerjunction.co.za/content/privacy#links)
-  10. [Communications](http://www.careerjunction.co.za/content/privacy#communications)
-  11. [Security](http://www.careerjunction.co.za/content/privacy#security)
-  12. [Correcting/Updating Personal Information](http://www.careerjunction.co.za/content/privacy#personal)
-  13. [Choice/Opt Out](http://www.careerjunction.co.za/content/privacy#choice)
-  14. [Blog Disclosure](http://www.careerjunction.co.za/content/privacy#blog)
-  15. [Notification Of Changes](http://www.careerjunction.co.za/content/privacy#notification)
-  16. [Contact Us ](http://www.careerjunction.co.za/content/privacy#contact)
+  1. Introduction
+  2. Information Collection & Use
+  3. CareerSeeker Registration
+  4. Recruiter Registration
+  5. Resume
+  6. Cookies
+  7. Log Files
+  8. Sharing
+  9. Links
+  10. Communications
+  11. Security
+  12. Correcting/Updating Personal Information
+  13. Choice/Opt Out
+  14. Blog Disclosure
+  15. Notification Of Changes
+  16. Contact Us 
 
 
+
+[](http://www.truste.org/ivalidate.php?url=www.careerjunction.co.za&sealid=101)
 
 #### 1\. Introduction
 
@@ -41,7 +41,7 @@ CareerJunction is a licensee of the TRUSTe Privacy Program. This privacy policy 
 
 If you feel that CareerJunction is not abiding by its privacy policy, please contact the Client Service Manager via email at [info@careerjunction.co.za](mailto:info@careerjunction.co.za). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe Watchdog](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison to resolve your concerns.
 
-CareerJunction is an online placement solution that works as an intermediary between Recruiters and CareerSeekers. Testing testing.
+CareerJunction is an online placement solution that works as an intermediary between Recruiters and CareerSeekers.
 
 #### 2\. Information Collection & Use
 
@@ -170,19 +170,19 @@ If we decide to change our privacy policy, we will post those changes to this pr
 **Phone Us**  
 +27 21 818 8600
 
-**Fax Us**  
+ **Fax Us**  
 +27 21 818 8609
 
-**Email Us**  
+ **Email Us**  
 [info@careerjunction.co.za](mailto:info@careerjunction.co.za)
 
-**Visit Us**  
+ **Visit Us**  
 The Forum B&C  
 North Bank Lane  
 Century City 7446  
 South Africa (Western Cape)
 
-**Snailmail Us**  
+ **Snailmail Us**  
 PO Box 87  
 Century City  
 7446
