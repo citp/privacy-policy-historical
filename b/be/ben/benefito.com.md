@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222201038id_/http%3A//www.benefito.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefito.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301172821id_/http%3A//www.benefito.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Free online classifieds. Benefito free classified ads.
 
