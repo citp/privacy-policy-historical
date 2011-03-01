@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyarticles.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206074423id_/http%3A//www.easyarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyarticles.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301011435id_/http%3A//www.easyarticles.com/privacy.php) for the most accurate reproduction.*
 
 # Free Articles for reprint - Website Content and Newsletter article directory
 
@@ -40,4 +40,4 @@ We reserve the right to modify this Privacy Policy in the future. Any changes to
 
 <http://www.easyarticles.com/privacy.php>
 
-Registration and use of this website is accepted as an acknowledgement and agreement of our posted [Terms & Conditions](https://web.archive.org/web/20101206074423id_/http%3A//www.easyarticles.com/terms.php) and [Privacy Policy](https://web.archive.org/web/20101206074423id_/http%3A//www.easyarticles.com/privacy.php). Users who find our [Terms & Conditions](https://web.archive.org/web/20101206074423id_/http%3A//www.easyarticles.com/terms.php) and/or [Privacy Policy](https://web.archive.org/web/20101206074423id_/http%3A//www.easyarticles.com/privacy.php) disagreeable are not allowed to use the EasyArticles.com website.
+Registration and use of this website is accepted as an acknowledgement and agreement of our posted [Terms & Conditions](https://web.archive.org/web/20110301011435id_/http%3A//www.easyarticles.com/terms.php) and [Privacy Policy](https://web.archive.org/web/20110301011435id_/http%3A//www.easyarticles.com/privacy.php). Users who find our [Terms & Conditions](https://web.archive.org/web/20110301011435id_/http%3A//www.easyarticles.com/terms.php) and/or [Privacy Policy](https://web.archive.org/web/20110301011435id_/http%3A//www.easyarticles.com/privacy.php) disagreeable are not allowed to use the EasyArticles.com website.
