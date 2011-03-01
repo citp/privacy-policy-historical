@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeplrvideos.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215085657id_/http%3A//freeplrvideos.com/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeplrvideos.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301015157id_/http%3A//freeplrvideos.com/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
