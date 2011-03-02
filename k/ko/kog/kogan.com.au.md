@@ -1,77 +1,72 @@
-> *The following text is extracted and transformed from the kogan.com.au privacy policy that was archived on 2010-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100816080526id_/http%3A//www.kogan.com.au/media/uploads/kogan-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kogan.com.au privacy policy that was archived on 2011-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110302062902id_/http%3A//www.kogan.com.au/media/uploads/kogan-privacy-policy.pdf) for the most accurate reproduction.*
 
 # Kogan Privacy Policy
 
-                                                                                       www.kogan.com.au
-                                                                                     sales@kogan.com.au
-                                                                                             1300 304 292
-                                  Kogan Privacy Policy
-Privacy Policy
-www.kogan.com.au, referred to below as Kogan, is an online retailer of consumer goods.
-At Kogan, we value our relationship with you and the other users of this website. We recognize that you
-may be concerned about our collection, use, and disclosure of your personally identifiable information that
-we may collect when you use the Web Site. Accordingly, we have implemented this Privacy Policy to
-inform you of the information that we collect from you, how we collect this information, and what we do
-with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please
-contact us at: sales@kogan.com.au
-Kogan’s Commitment to Online Security
-At Kogan, your personal information is treated with the greatest of care. Sensitive payment information
-such as credit card details is NEVER stored on the Internet with our system. Once you type your
-information, it is sent instantly, encrypted, direct to our order processing system. We employ the latest
-1024-bit encryption technology in all areas of the site which require you to provide payment information.
-This is done to protect you from unauthorized use of the information you are sending to our server. This
-website is registered with site identification authorities to enable your browser to confirm our security
-identity before any transmission is sent. With this technology, the identity of this site is automatically
-confirmed behind the scenes prior to the transmission of any sensitive information requested to complete
-an online order. This also ensures that your data reaches your intended target or your browser notifies you
-that the potential receiving site looks suspicious and should be avoided.
-Physical, electronic and managerial procedures have been employed to safeguard the security and
-integrity of personal information. The Kogan website encrypts sensitive information wherever Kogan
-requests it.
-Email Newsletter Subscription
-All our newsletters contain a link to unsubscribe. You will not receive newsletters from us again if you
-choose to unsubscribe. In order to make our emails more relevant and useful to you, our servers may
-receive a confirmation when you open email from us.
-Being Included In and Removed From our Email Newsletters
-You will be included in our email newsletter mailing list (which include special offers, competitions, new
-product arrival alerts and other communication related to our services or the products we offer) if you
-subscribe to our newsletter or if you make a purchase from us or have requested that we notify you of an
+                                 Kogan Privacy Policy
+Introduction
+Kogan Technologies Pty Ltd and any of its subsidiaries from time to time (“Kogan”) is
+committed to protecting your privacy and respects and upholds your rights under the
+National Privacy Principles contained in the Privacy Act 1988 (Cth) ("Privacy Act"). By using
+this website, you agree to and consent to the collection, use and disclosure of personal
+information by Kogan as set out in this policy.
+Personal information
+Personal information is information or an opinion about an individual whose identity is
+apparent, or can be reasonably ascertained, from that information or opinion. Personal
+information we may collect from you includes, without limitation, your name, address,
+email address, telephone number(s) and date of birth.
+Collection
+Kogan will collect personal information only by lawful and fair means and not in an
+unreasonably intrusive way. If it is reasonable and practical to do so, Kogan will only collect
+personal information about you directly from you. Kogan will not collect personal
+information unless the information is necessary for our functions and activities.
+What does Kogan do with your personal information?
+Kogan uses your personal information for the purposes of:
+      providing our services to you;
+      our internal management needs;
+      our marketing activities;
+      responding to any inquiries or comments that you submit to us;
+      any other purpose you have consented to; and
 
 
-items expected arrival and we expect to receive other items that are similar or complimentary. Every
-newsletter we send has an unsubscribe option in the newsletter. This will always be clear and easy to
-locate. You may unsubscribe from any mailing list whenever you wish and you will be immediately
-removed as per your request. You also have the option of emailing unsubscribe@kogan.com.au and a
-member of our Customer Service Team will unsubscribe you if you provide them with the email address
-that is subscribed.
-Personal Information that Kogan May Collect Online
-Kogan collects personal information online, including names, postal and e-mail addresses, phone
-numbers and billing information.
-How Kogan Uses Personal Information Collected Online
-We will use your personal information only for the purpose of processing your order and to communicate
-effectively with you. This communication includes but is not limited to; emailing you tax invoices, dispatch
-and tracking information, returns and exchange authorisations, etc. As a condition of sale we reserve the
-right to email you special offer promotions that we believe will be of interest to you. You may, once you
-have placed your order, advise us that you are not interested in these offers and we will consequently not
-send these to you. To do this, please send this request to unsubscribe@kogan.com.au. In any event, you
-may, at any time, unsubscribe from any special offer promotions we send you, and your unsubscribe
-request will be actioned immediately.
-How Your Information May Be Shared
-We never sell or rent your personal information. Kogan may release personal information under the
-following circumstances:
-   •   Where release is required by law (for example, a subpoena) or regulation or is requested by a
-       government agency;
-   •   Where our records indicate a company or an individual may be engaged in fraudulent activity or
-       other deceptive practices that a governmental agency should be made aware of;
-   •   To appropriate persons, where your communication suggests possible harm to others
-Computer Tracking and Cookies
-This website is not set up to track, collect or distribute personal information not entered by visitors. Our
-site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits
-to our sites. This information is used for internal purposes by technical support staff to provide better
-services to the public and may also be provided to others, but again, the statistics contain no personal
-information and cannot be used to gather such information.
-Changes to this Privacy Notice, Conditions of Use and Notices
-This Privacy Notice and our Terms of Use may change over time and the use of information which we
-gather now is subject to these Notices and Terms as modified. If you visit our Web site, your visit and any
-dispute over privacy is subject to this Notice and our Legal Notices, including the application of the laws of
-the State of Victoria, Australia.
+      any use which is required or authorised by law.
+Disclosure of personal information
+Kogan may disclose your personal information:
+      to third-parties we ordinarily engage for the above purposes;
+      any person or entity to whom you have consented to Kogan disclosing your personal
+       information to; and
+      any person or entity to whom we are required or authorised to disclose your personal
+       information to in accordance with the law.
+Openness
+You may request access to your personal information by contacting our customer service
+team at unsubscribe@kogan.com.au
+If you believe that Kogan holds personal information about you that is not accurate,
+complete or up-to-date, then you may request its amendment by Kogan.
+Kogan may charge a reasonable fee to cover the charges of retrieving your personal
+information.
+Kogan will take reasonable steps to protect the personal information it holds from misuse
+and loss and from unauthorised access, modification or disclosure.
+Opting Out
+At any time you may opt out of receiving any communications from us (other than as
+required for our primary purpose or by law). Unless you opt out, your consent to receive
+communications from us and to the handling of your personal information as detailed
+above, will continue.
+To opt out of receiving            any    further   communication    from  Kogan,   email
+unsubscribe@kogan.com.au
+Contact information
+If you require further information regarding this policy or have any questions about its
+enforcement by Kogan, please contact us at unsubscribe@kogan.com.au
+
+
+Kogan website
+When transmitting personal information from your computer to the Kogan website, you
+must keep in mind that the transmission of information over the Internet is not always
+completely secure or error-free. Other than liability that cannot lawfully be excluded, Kogan
+will not be liable in any way in relation to any breach of security or any unintended loss or
+disclosure of that information.
+The Kogan website may use "cookies" to help personalise your online experience and save
+you time. You have the ability to accept or decline cookies. If you choose to decline cookies,
+you may not be able to fully experience the interactive features of the Kogan website.
+Miscellaneous
+Kogan reserves the right to modify this Privacy Policy in whole or in part from time to time
+without notice and amendments will be effective immediately upon posting of the amended
+Privacy Policy on the Kogan website.
