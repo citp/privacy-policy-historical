@@ -1,0 +1,413 @@
+<!--The following is the downloaded HTML source of the upiq.com privacy policy that was archived on 2011-03-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110302121850id_/http%3A//www.upiq.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>UPIQ - Privacy Policy</title>	
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="jquery.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+<script src="calendar.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+<script src="date.js" type="text/javascript"></script>
+<script language="javascript" src="datePicker.js"></script>
+<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="jquery.js"></script>
+
+<link rel="stylesheet" media="screen" href="datePicker.css" type="text/css">
+<!--<link rel="stylesheet" media="screen" href="demo.css" type="text/css" />-->
+
+
+<link href="css/main.css" rel="stylesheet" type="text/css">
+<link href="css/common.css" rel="stylesheet" type="text/css">
+
+<link href="css/about.css" rel="stylesheet" type="text/css">
+<link href="css/contact.css" rel="stylesheet" type="text/css">
+<link type="text/css" rel="stylesheet" href="css/prettyPhoto/prettyPhoto.css"> 
+
+<script type="text/javascript" src="lib/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="lib/jquery.easing.1.2.js"></script>
+<script type="text/javascript" src="lib/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="lib/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+<script type="text/javascript" src="fonts/Sansation_700.font.js"></script>  
+<script type="text/javascript" src="fonts/Sansation_400.font.js"></script>     
+<script type="text/javascript" src="fonts/Sansation_300.font.js"></script>   
+<script type="text/javascript" src="js/innovation_science/common.js"></script>
+<script type="text/javascript" src="js/innovation_science/contact.js"></script>
+<script type="text/javascript" src="js/innovation_science/about.js"></script>
+       
+       
+<script>
+$(document).ready(function(){
+$('#flight-search-01').css("display","block");
+$('#flight-search-02').css("display","block");
+$('#flight-search-03').css("display","block");
+});
+</script>
+<script>
+$(function()
+{
+$('.car-date-field').datePicker({
+				createButton:true,
+				displayClose:true,
+				closeOnSelect:true,
+				selectMultiple:true,
+				numSelectable:2,
+				clickInput:true
+		});
+		
+});
+	$(document).ready(function(){ 
+		
+if($("#depart").is(':checked'))
+{
+	$("#datepicker2").attr("disabled", "disabled");
+}
+else
+{
+	$("#datepicker2").attr("disabled", "");
+}
+$("#return").click(function(){
+	if($("#return").is(':checked'))
+	{
+		$("#datepicker2").attr("disabled", "");
+	}
+})
+ 
+$("#depart").click(function(){
+	if($("#depart").is(':checked'))
+	{
+		$("#datepicker2").attr("disabled", "disabled");
+	}
+})
+
+$("#submit").click(function (){
+var from = $("#a1").val();
+var to = $("#a2").val();
+var dep = $("#datepicker1").val();
+var ret = $("#datepicker2").val();
+var dt1 = Date.parse(dep);
+var dt2 = Date.parse(ret);
+if($("#depart").is(':checked'))
+	{
+		ret = "";
+	}
+if(from == "" || to == "" || dep == "")
+{
+	if(from == "")
+	{
+		alert("Please Provide value in  (\"From\")  Field.  ");
+		return false;
+	}
+	
+	if(to == "")
+	{
+		alert("Please Provide value in  (\"TO\")  Field.  ");
+		return false;
+	}
+	
+	if(dep == "")
+	{
+		alert("Please Provide Departure Date.  ");
+		return false;
+	}
+ return false;
+}
+
+if($("#return").is(':checked'))
+{
+	if(ret == "")
+	{
+		alert("Please Provide Return Date");
+		return false;
+	}
+}
+
+if(ret != "")
+{
+	if(dt1 > dt2)
+	{
+		alert("Return Time should after be Departure Time ");
+		return false;
+	}
+    setFrame();
+}
+else
+{
+	setFrame();
+}
+
+ });
+}); 
+
+</script>
+<script>
+function setFrame()
+{
+	//document.getElementById('flight-search-01').style.height='0px';
+	//document.getElementById('flight-search-01').style.display = 'none';
+	
+	//document.getElementById('flight-search-02').style.height='0px';
+	//document.getElementById('flight-search-02').style.display = 'none';
+	
+	//document.getElementById('flight-search-03').style.height='0px';
+	//document.getElementById('flight-search-03').style.display = 'none';
+	
+	document.getElementById('content-table').style.height = '0px';
+	document.getElementById('content-table').style.display = 'none';
+	
+	document.getElementById('myFrame').style.display='';
+	document.form1.submit();
+}
+function calHeight()
+{
+	var height = document.getElementById('myFrame').contentWindow.getMeHeight();
+	document.getElementById('myFrame').style.height = height+'px';
+}
+function validate()
+{
+	
+	var departure = document.getElementById('datepicker1').value; 
+	var dep = document.getElementById('depart').checked;
+	if(dep==true)
+	{
+		if(departure=="")
+		{
+			alert('Please Provide Departure Date');
+			return false;
+		}
+	}
+	else
+	{
+		if(departure=="" || ret=="")
+		{
+			alert('Please Provide Departure and Return Dates');
+			return false;
+		}
+	}
+	return true;
+	
+}
+///////////
+function enableCheck(name)
+{
+	if(this.checked==true)
+	{
+		
+	}
+}
+///////////
+function frame()
+{
+	document.getElementById('frame').style.visibility='visible';
+}
+</script>
+<style type="text/css">
+#content {
+padding-bottom:2px;
+padding-top:2px;
+}
+a.dp-choose-date {
+	float: left;
+	width: 16px;
+	height: 16px;
+	padding: 0;
+	margin: 5px 1px 0;
+	display: block;
+	text-indent: -2000px;
+	overflow: hidden;
+}
+a.dp-choose-date.dp-disabled {
+	background-position: 0 -20px;
+	cursor: default;
+}
+/* makes the input field shorter once the date picker code
+ * has run (to allow space for the calendar icon
+ */
+input.dp-applied {
+	width: 128px;
+	float: left;
+}
+</style>
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17839786-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+
+
+</head>
+
+<body>
+<div id="container">
+	<div id="header">
+		<div id="menu">
+			<div id="logo"><a href="http://www.upiq.com"><img src="images/logo.png"></a></div><a href="http://www.upiq.com">
+			
+			</a><div id="facebook-btn"><a href="http://www.upiq.com">
+				</a><div id="facebook-icon"><a href="http://www.upiq.com"></a><a href="http://www.facebook.com/upiqcom" target="_blank"><img src="images/facebook.png" border="0"></a></div>
+				
+			</div>
+			
+			<div id="twitter-btn">
+				<div id="twitter-icon"><a href="http://www.twitter.com/upiqcom" target="_blank"><img src="images/twitter.png" border="0"></a></div>
+				
+			</div>
+			
+			<div id="flights-icon"><a href="flight.php"><img src="images/flights-icon.png" border="0"></a></div>
+			<div id="hotel-icon"><a href="hotel.php"><img src="images/hotel-icons.png" border="0"></a></div>
+			<div id="cars-icon"><a href="car.php"><img src="images/cars-icon.png" border="0"></a></div>
+			<div id="things-icon"><a href="http://www.partner.viator.com/en/8644"><img src="images/things-to-do-icon.png" border="0"></a></div>
+			
+            
+            
+			 <form id="form1" name="form1" action="http://whitelabel.dohop.com/w/upiq/" method="get" target="myFrame">
+			<div id="search">
+			
+				<div id="flight-search-01">
+					<div id="flight-search-row01"><img src="images/from-txt.png" width="39" height="11"></div>
+					<div id="flight-search-row02">
+					  <input name="a1" id="a1" type="text" class="car-search-field" value="">
+					</div>
+					<div id="flight-search-row03"><img src="images/to-txt.png" width="22" height="12"></div>
+					<div id="flight-search-row04">
+					  <input name="a2" id="a2" type="text" class="car-search-field" value="">
+					</div>
+				</div>
+				</div>
+				<div id="flight-search-02">
+					<div id="flight-search-row01"><img src="images/departure-txt.png"></div>
+					<div id="flight-search-row02"><input name="d1" id="datepicker1" readonly="" type="text" class="car-date-field">
+					</div>
+					<div id="flight-search-row03"><img src="images/return-txt.png" width="78" height="11"></div>
+					<div id="flight-search-row04">
+					  <input name="d2" id="datepicker2" type="text" readonly="" class="car-date-field">
+					</div>
+				</div>
+				
+				<div id="flight-search-03">
+					<div id="flight-search-row05">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr>
+					<td width="7%"><input name="return" id="depart" type="radio" value="0" checked="checked"></td>
+					<td width="5%"><img src="images/arrow-1.png" width="9" height="8"></td>
+					<td width="88%"><img src="images/one-way-txt.png" width="48" height="12"></td>
+					</tr>
+					<tr>
+					<td><label>
+					<input name="return" id="return" type="radio" value="1">
+					</label></td>
+					<td valign="top"><img src="images/arrow-2.png" width="9" height="14"></td>
+					<td><img src="images/return-trip-txt.png" width="56" height="11"></td>
+					</tr>
+					</tbody></table>
+					</div>
+					<div id="flight-search-row06"><a href="#" id="submit"><img src="images/search-flights-btn.png" width="121" height="30" border="0"></a></div>
+				</div>
+			</form>
+            
+            
+		   </div>
+		</div>
+	</div>
+<div id="content">
+	<div id="cscontent">
+
+			<h3>Privacy Policy</h3>
+<p>UPIQ.com takes your privacy seriously and is pleased to provide this privacy policy to inform you of our practices with respect to how we collect, use, and protect personal information about visitors to and members of this site. Personal information is information that is personally identifiable like your name, email address, phone number, mailing address, etc. </p>
+<p>By using this web site you consent to the following terms: <br>&nbsp;</p>
+<h3>Information Collection</h3>
+<p>UPIQ.com collects personal information when you use our travel services. For example, when you register with UPIQ.com, we ask for your name and email address.<br>UPIQ.com automatically receives and records information in our server logs from your browser, including your IP address, browser type, and the pages you request. This information does not necessarily enable us to personally identify you. </p>
+<p>UPIQ.com does not require that you enter any personal information to search on UPIQ.com, nor when being transferred to third-party websites.<br>&nbsp; </p>
+<h3>Information Use</h3>
+<p>UPIQ.com uses your personal information for the following purposes: </p>
+<p>•&nbsp;to verify your authorization to access certain features of the site, <br>•&nbsp;to fulfill your requests for products or services, <br>•&nbsp;to personalize and customize the content and relevant trip services that you are offered <br>•&nbsp;to contact you, e.g. if you have subscribed to a newsletter, <br>•&nbsp;to improve our services, <br>•&nbsp;to provide reporting. <br>&nbsp;</p>
+
+<h3>Information Sharing and Disclosure</h3>
+<p>UPIQ.com does not rent, sell, or share personal information about you with other people or companies except (i) to provide products or services you have requested including, without limitation, products and services from third parties, (ii) when we have your permission, or (iii) under the following circumstances:</p>
+<p>•&nbsp;UPIQ.com may use third party vendors to assist us in providing our products or services and may transfer your personally identifiable information to such vendors who have entered into a contract with us that protects the confidentiality of your information and permits the vendor to use it only as necessary to fulfill its contract; <br>•&nbsp;In response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; <br>•&nbsp; When we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of UPIQ.com 's Terms of Service, or as otherwise required by law; <br>•&nbsp;We may transfer information about you if UPIQ.com is acquired by or merged with another company. In this event, UPIQ.com will notify you by sending a notice to the email address specified in your UPIQ.com account before information about you becomes subject to a different privacy policy.<br>&nbsp; </p>
+
+<h3>Cookies</h3>
+<p>UPIQ.com sets and accesses cookies on your computer. A cookie is a small amount of data that UPIQ.com's servers transfer to your browser and that only UPIQ.com's servers can read. When you visit the site, the cookie captures specific session data to streamline your experience and, if you select to save your member name and password, UPIQ.com will save this information in a cookie so that you will not be required to sign in each time you visit the site. You may disable or delete cookies from within your Internet browser application by accessing the security or privacy settings. However, UPIQ.com requires you to have cookies enabled to access certain portions of the site. UPIQ.com may allow other companies that show advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their privacy policies, not this one. Other companies do not have access to UPIQ.com's cookies. </p>
+<h3><br>Links to Third Party Sites</h3>
+<p>UPIQ.com provides links to third party websites, e.g. after a search; and may provide referrals to certain third parties' products or services. If you choose to visit a third party's web site or use its products or services, please be aware that this privacy policy will not govern your activities and any information you disclose to such third party. We strongly encourage you to read the privacy policies of the third party web sites that you visit.</p>
+<h3><br>Confidentiality and Security</h3>
+<p>We limit access to personal information about you to employees who we believe have a legitimate need to come into contact with that information to provide products or services to you or in order to do their jobs. UPIQ.com employs procedural and technical measures reasonably designed to protect your personal information from loss, misuse, unauthorized access or disclosure. Although we make good faith efforts to store the information collected in a secure operating environment that is not accessible to the public, we cannot guarantee complete security. <br>&nbsp; </p>
+<h3>Community - Information Sharing among UPIQ.com Users </h3>
+<p>If you choose to include personally identifiable information in your comments, open text fields, or other areas of the web site intended for public viewing, other users will be able to view and use this information. We recommend against posting your email address and other personally identifiable information in this manner unless you are comfortable with the possibility of receiving unwanted contact. </p>
+<p>When you save your trip in UPIQ.com's system, other users will be able to view your shared travel itinerary, unless you choose specifically not to share your travel plans (Private vs. Public trip). To ensure your privacy, UPIQ.com does not display your email address or contact information to users, unless you explicitly request us to do so. Please note that you <br>&nbsp; </p>
+<h3>Accessing, Reviewing and Changing Your Personal Information </h3>
+<p>We will offer you the ability to access, review and change certain information via the Registration page. Upon your request, we will deactivate your account, and remove your personal information from active service. Your account will be deactivated as soon as reasonably possible based on your account activity. We will retain in our files and databases some personal information to prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Use and comply with legal requirements as permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your request. </p>
+<p mce_keep="true">&nbsp;</p>
+<h3>Changes to this Privacy Policy</h3>
+<p>UPIQ.com may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your UPIQ.com account or by placing a notice on our site. </p>
+<p mce_keep="true">&nbsp;</p>
+<p>If you have questions, please contact us:</p>
+<p>UPIQ Head Office<br>408 Market Street<br>San Francisco, CA 94111</p>
+<h3><br>Team UPIQ<br></h3>
+<p>Last updated 23th Mars 2010.<br></p>
+
+	</div>
+
+</div>
+
+<div id="footer-bg">
+<div id="container">
+<div id="footer-img">
+   	<div id="footer_left">
+    <table cellpadding="0" cellspacing="0"><tbody><tr>
+        <td class="fleft_div" valign="top">
+        	<div class="fleft_title">SEARCH</div>
+        	<div class="fleft_item"><a href="flight.php">FLIGHTS</a></div>
+            <div class="fleft_item"><a href="hotel.php">HOTELS</a></div>
+            <div class="fleft_item"><a href="car.php">CARS</a></div>
+            <div class="fleft_item"><a href="http://www.partner.viator.com/en/8644">THINGS TO DO</a></div>
+        </td>
+        <td class="fleft_div" valign="top">
+        	<div class="fleft_title">NEWS</div>
+        	<div class="fleft_item"><a href="#">PRESS RELEASES</a></div>
+            <div class="fleft_item"><a href="testimonials.php">TESTIMONIALS</a></div>
+            <div class="fleft_item"><a href="#">NEW PARTNERS</a></div>
+        </td>
+        <td class="fleft_div" valign="top">
+        	<div class="fleft_title">COMPANY</div>
+        	<div class="fleft_item"><a href="about.php">ABOUT</a></div>
+            <div class="fleft_item"><a href="contact.php">CONTACT</a></div>
+            <div class="fleft_item"><a href="terms_of_use.php">TERMS OF USE</a></div>
+            <div class="fleft_item"><a href="privacy_policy.php">PRIVACY POLICY</a></div>
+        </td>
+        <td class="fleft_div" valign="top">
+        	<div class="fleft_title">CONNECT WITH US</div>
+            <div class="fleft_item"><a href="http://facebook.com/upiqcom" target="_blank">FACEBOOK</a></div>
+        	<div class="fleft_item"><a href="http://twitter.com/upiqcom" target="_blank">TWITTER</a></div>
+            <div class="fleft_item"><a href="http://linkedin.com/companies/upiq" target="_blank">LINKEDIN</a></div>
+            <div class="fleft_item"><a href="http://twitter.com/statuses/user_timeline/99384553.rss" target="_blank">RSS FEED</a></div>
+        </td>
+    </tr></tbody></table>
+    </div>
+    
+    <div id="footer_right">
+    <table cellpadding="0" cellspacing="0"><tbody><tr>
+<td class="fright_div" valign="top"><a href="http://www.partner.viator.com/en/8644/search/paris">paris</a><br><a href="http://www.partner.viator.com/en/8644/search/rome">rome</a><br><a href="http://www.partner.viator.com/en/8644/search/london">london</a><br><a href="http://www.partner.viator.com/en/8644/search/barcelona">barcelona</a><br><a href="http://www.partner.viator.com/en/8644/search/istanbul">istanbul</a><br><a href="http://www.partner.viator.com/en/8644/search/dubai">dubai</a><br><a href="http://www.partner.viator.com/en/8644/search/singapore">singapore</a><br><a href="http://www.partner.viator.com/en/8644/search/hong kong">hong kong</a><br><a href="http://www.partner.viator.com/en/8644/search/tokyo">tokyo</a><br></td><td class="fright_div" valign="top"><a href="http://www.partner.viator.com/en/8644/search/new york">new york</a><br><a href="http://www.partner.viator.com/en/8644/search/san francisco">san francisco</a><br><a href="http://www.partner.viator.com/en/8644/search/los angeles">los angeles</a><br><a href="http://www.partner.viator.com/en/8644/search/las vegas">las vegas</a><br><a href="http://www.partner.viator.com/en/8644/search/miami">miami</a><br><a href="http://www.partner.viator.com/en/8644/search/cancun">cancun</a><br><a href="http://www.partner.viator.com/en/8644/search/rio de janeiro">rio de janeiro</a><br><a href="http://www.partner.viator.com/en/8644/search/honolulu">honolulu</a><br><a href="http://www.partner.viator.com/en/8644/search/sydney">sydney</a><br></td>    </tr></tbody></table>
+    </div>
+</div>
+</div>
+</div>
+
+<div class="pp_overlay" style="opacity: 0; height: 2680px; display: none;"></div><div class="pp_pic_holder"><div class="pp_top"><div class="pp_left"></div><div class="pp_middle"></div><div class="pp_right"></div></div><div class="pp_content"><a href="#" class="pp_expand" title="Expand the image">Expand</a><div class="pp_loaderIcon"></div><div class="pp_hoverContainer" style="margin-left: 20px;"><a class="pp_next" href="#">next</a><a class="pp_previous" href="#">previous</a></div><div id="pp_full_res"></div><div class="pp_details clearfix"><a class="pp_close" href="#">Close</a><p class="pp_description"></p><div class="pp_nav"><a href="#" class="pp_arrow_previous">Previous</a><p class="currentTextHolder">0-0</p><a href="#" class="pp_arrow_next">Next</a></div></div></div><div class="pp_bottom"><div class="pp_left"></div><div class="pp_middle"></div><div class="pp_right"></div></div></div><div class="ppt"></div></body></html>
