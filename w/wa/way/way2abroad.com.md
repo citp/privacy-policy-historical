@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2abroad.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202024851id_/http%3A//way2abroad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2abroad.com privacy policy that was archived on 2011-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110302051118id_/http%3A//way2abroad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Way2Abroad.com
 
