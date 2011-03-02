@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgr.us privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726220704id_/http%3A//imgr.us/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgr.us privacy policy that was archived on 2011-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110302203624id_/http%3A//imgr.us/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Img R Us - Free image hosting with UNLIMITED bandwidth just a click away!
 
