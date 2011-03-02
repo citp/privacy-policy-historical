@@ -1,37 +1,25 @@
-<!--The following is the downloaded HTML source of the zyngablog.typepad.com privacy policy that was archived on 2010-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227220421id_/http%3A//www.zynga.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zyngablog.typepad.com privacy policy that was archived on 2011-03-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110302013244id_/http%3A//www.zynga.com/privacyPolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <title>Zynga - Connecting the world through games</title>
 
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
 <meta name="revisit" content="30 days">
 <meta name="distribution" content="all">
 <meta name="robots" content="index,follow">
 
 <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
-<link type="text/css" rel="stylesheet" media="all" href="/css/zynga.com.css?v=29">
+<link type="text/css" rel="stylesheet" media="all" href="/css/styles.css?v=14">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" async="" src="https://web.archive.org/web/20110819113549/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/google-analytics.js"></script>
+<script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="/js/swfobject.js"></script>
 <script type="text/javascript" src="/js/flash.js"></script>
-<script type="text/javascript" src="/js/jquery_plugins/jquery.cookie.js"></script>
 <script type="text/javascript" src="/js/jquery_plugins/jquery.corner.js"></script>
-<script type="text/javascript">
-  $(document).ready(function() {
-    $("#tosUpdate, #tosUpdateBar").hide();
-    if($.cookie('TOS_UPDATE_REMOVED') == null) {
-      $("#tosUpdate, #tosUpdateBar").fadeIn();
-    }
-    $("#tosUpdate a#tosHide").click(function() {
-      $.cookie('TOS_UPDATE_REMOVED', 'true', { expires: 50, path: '/', domain: 'zynga.com', secure: false });
-      $("#tosUpdate, #tosUpdateBar").hide();
-    });	
-  });
-</script>
+<script type="text/javascript" src="/js/jquery_plugins/jquery.cookie.js"></script>
 
-<!-- stack control -->
 <script type="text/javascript">
   function levelGamebarUp() {
     document.getElementById("gamebar").style.zIndex="1";
@@ -40,25 +28,6 @@
     document.getElementById("gamebar").style.zIndex="0";
   }
 </script>
-<!-- /stack control -->
-
-<!-- Google Analytics -->
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-5123623-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<!-- /Google Analytics -->
-
 
 
 </head>
@@ -67,14 +36,6 @@
 
 <!-- header -->
 <div id="header">
-<div id="tosUpdateBar" style="display: block;"></div>
-<div id="tosUpdate" style="display: block;">
-  <div id="tosView">
-    As part of our efforts to improve our service, we have updated our <a href="/about/terms-of-service.php">Terms of Service</a> and <a href="/privacy/privacy-policy.php">Privacy Policy</a>.  We hope you'll take some time to review them.
-    <a id="tosHide" href="#"></a>
-  </div>
-</div>
-
 
 <div id="logo">
   <a href="/"><img alt="Zynga" src="/img/logo.png"></a><br>
@@ -91,8 +52,7 @@
   <ul>
     <li><a href="/games/facebook.php">Facebook</a></li>
     <li><a href="/games/myspace.php">MySpace</a></li>
-    <!-- <li><A href="/games/msn.php">MSN Games</A></li> -->
-    <li><a href="/games/iphone.php">iPhone</a></li>
+    <li><a href="/games/mobile.php">Mobile</a></li>
     <li><a href="/games/yahoo.php">Yahoo!</a></li>
   </ul>
 </li>
@@ -189,10 +149,7 @@
   });
 </script>
 
-<script type="text/javascript">
-  swfobject.embedSWF("/swf/leftnav/leftnav-privacy.swf", "leftnavSwf", "160", "431", "9.0.0", "/swf/expressInstall.swf", {"page_name":"/privacy/privacy-policy.php"}, {wmode:"transparent"});
-</script>
-
+<div id="mainContent">
 <div id="pgExtraPrivacy">
 
 <div id="titleCrumbMenu">
@@ -200,21 +157,37 @@
   <div id="name">Zynga Privacy Policy</div>
 </div>
 
-<div id="leftnav"><div id="leftnavSwf"></div></div>
-
-<!-- #policy -->
+<div id="leftNav">
+  <div id="leftNavTop"></div>
+  <ul>
+    <li><a href="/about/management.php" class="mainMenuItem">Zynga Team</a></li>
+    <li><a href="/about/blog.php" class="mainMenuItem">Blog</a></li>
+    <li><a href="/about/news.php" class="mainMenuItem">Press Room</a></li>
+    <li><a href="/privacy/" class="mainMenuItemSelected">Privacy</a></li>
+    <li><a href="/privacy/faq.php" class="subMenuItem">FAQ</a></li>
+    <li><a href="/privacy/privacy-policy.php" class="subMenuItemSelected">Privacy Policy</a></li>
+    <li><a href="/privacy/resources.php" class="subMenuItem">Resources</a></li>
+    <li><a href="/privacy/security.php" class="subMenuItem">Security</a></li>
+    <li><a href="http://www.zynga.org" class="mainMenuItem">Zynga.org</a></li>
+    <li><a href="/about/contact.php" class="mainMenuItem">Contact Us</a></li>
+  </ul>
+  <div id="leftNavBot"></div>
+</div>
 <div id="policy" class="noBg" style="border-top-left-radius: 10px; border-top-right-radius: 10px;">
-
+<!--
 <div class="notice">
 <span>NOTICE:</span> We have updated our Privacy Policy and Terms of Service as of November 30, 2010. Our updated Privacy Policy, found below, shall be effective for all users beginning thirty days from that date. A copy of our previous Privacy Policy may be found here: <a href="/about/privacy-policy-3-16-10.php">http://www.zynga.com/about/privacy-policy-3-16-10.php</a>. Our updated Terms of Service may be found here: <a href="/about/terms-of-service.php">http://www.zynga.com/about/terms-of-service.php</a>.
 </div>
+-->
 
-<h1>Zynga Privacy Policy</h1>
-
+<h1 class="title">Zynga Privacy Policy</h1>
+<div id="mobilePadding">
+	
 <p style="clear: none;">(Last updated on November 30, 2010)</p>
-<p style="clear: none;">Zynga's Privacy Policy is designed to provide clarity about the information we collect and how we use it to provide a better social gaming experience. By accepting our Privacy Policy and <a href="/about/terms-of-service.php">Terms of Service</a> in registration or game installation, you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.</p>
 
-<p>Zynga has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and the practices it describes have been reviewed by TRUSTe for compliance with TRUSTe's program <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to advance online trust among consumers and organizations globally through its leading privacy trustmark (seal) and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us as described in Section 14 ("Contact Us"). If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a> and submit a watchdog complaint. When submitting a watchdog complaint, please put <a href="/">www.zynga.com</a> as the website and note the game and/or feature within the details.</p>
+<p style="clear: none;">Zynga's Privacy Policy is designed to provide clarity about the information we collect and how we use it to provide a better social gaming experience. By accepting our Privacy Policy and <a href="http://www.zynga.com/about/terms-of-service.php">Terms of Service</a> in registration or game installation, you consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.</p>
+
+<p>Zynga has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and the practices it describes have been reviewed by TRUSTe for compliance with TRUSTe's program <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information.  TRUSTe's mission, as an independent third party, is to advance online trust among consumers and organizations globally through its leading privacy trustmark (seal) and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us as described in Section 14 ("Contact Us"). If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a> and submit a watchdog complaint. When submitting a watchdog complaint, please put <a href="http://www.zynga.com/">www.zynga.com</a> as the website and note the game and/or feature within the details.</p>
 
 
 
@@ -248,8 +221,10 @@ The TRUSTe program only covers information that is collected through Zynga websi
 
 <p></p>
 
-<div class="index_box"><div class="num">1</div></div>
+<p></p>
+
 <a name="introduction"></a>
+<div class="index_box"><div class="num">1</div></div>
 <h2>Introduction</h2>
 
 <p>Zynga develops and publishes social games including FarmVille, FrontierVille, Mafia Wars, Zynga Poker and others.  In this policy, "Zynga" refers to Zynga Inc. and its Affiliates, which shall mean subsidiaries, parent companies, joint ventures and other corporate entities under common ownership.  We may also refer to Zynga as "We" or "Us".  Personal data of users that reside outside of the United States and Japan is jointly controlled by Zynga Game Ireland Ltd. and Zynga Luxembourg S.a.r.l.</p>
@@ -332,7 +307,7 @@ The TRUSTe program only covers information that is collected through Zynga websi
 
 <p><strong>Payment Information</strong></p>
 
-<p>If you purchase in-game virtual currency or goods from Zynga, we will collect the billing and financial information necessary to process your charges, including your postal and e-mail addresses, depending on your payment method.  Zynga may also receive the billing and payment information that you provide when you purchase Zynga virtual goods or currency via a mobile device, such as an iPhone. We use and store this data in the same manner as billing and payment data collected from non-mobile visitors to our games. Our <a href="/about/terms-of-service.php">Terms of Service</a> explain our policies and terms relevant to our charges and billing practices.  Please note that purchases of Facebook Credits are subject to Facebook policies.</p>
+<p>If you purchase in-game virtual currency or goods from Zynga, we will collect the billing and financial information necessary to process your charges, including your postal and e-mail addresses, depending on your payment method.  Zynga may also receive the billing and payment information that you provide when you purchase Zynga virtual goods or currency via a mobile device, such as an iPhone. We use and store this data in the same manner as billing and payment data collected from non-mobile visitors to our games. Our <a href="http://www.zynga.com/about/terms-of-service.php">Terms of Service</a> explain our policies and terms relevant to our charges and billing practices.  Please note that purchases of Facebook Credits are subject to Facebook policies.</p>
 
 <p><strong>Customer Support Correspondence</strong></p>
 
@@ -389,7 +364,7 @@ The TRUSTe program only covers information that is collected through Zynga websi
 
 <p>We may also employ other technologies including (i) web beacons, which allow us to know if a certain page was visited or whether an e-mail was opened; (ii) tracking pixels, which allow us to advertise more efficiently by excluding our current users from certain promotional messages or identifying the source of a new installation; (iii) local shared objects also known as flash cookies, which help us to prevent fraud, remember your in-game settings for features like music and to track your progress on certain in-game tasks. </p>
 
-<p>You can set your web browser to warn you about attempts to place cookies on your computer, or limit the type of cookies you allow. Flash cookies operate differently than browser cookies and cookie management tools available in a web browser will not remove flash cookies.  To learn more about and manage flash cookies you can visit <a href="http://www.adobe.com/products/flashplayer/articles/lso/">http://www.adobe.com/products/flashplayer/articles/lso/</a> and make changes at the privacy settings panel.  If you disable cookies, you may lose some of the features and functionality of playing our games, as Zynga cookies are necessary to track and enhance your game activities. Please note that companies delivering advertisements in our games or on our websites may also use cookies or other technologies, and those practices are subject to their own policies.</p>
+<p>You can set your web browser to warn you about attempts to place cookies on your computer, or limit the type of cookies you allow. Flash cookies operate differently than browser cookies and cookie management tools available in a web browser will not remove flash cookies.  To learn more about and manage flash cookies you can visit <a href="http://www.adobe.com/products/flashplayer/articles/lso/">adobe.com</a> and make changes at the privacy settings panel.  If you disable cookies, you may lose some of the features and functionality of playing our games, as Zynga cookies are necessary to track and enhance your game activities. Please note that companies delivering advertisements in our games or on our websites may also use cookies or other technologies, and those practices are subject to their own policies.</p>
 
 <p><strong>Other Sources</strong></p>
 
@@ -459,7 +434,7 @@ The TRUSTe program only covers information that is collected through Zynga websi
 
 <p><strong>Safety, Security and Compliance with Law</strong></p>
 
-<p>Your information, and the contents of your private online communications, may be accessed and disclosed (i) in response to legal process (for example, a court order, search warrant or subpoena); (ii) when we have a good faith belief that we are required to disclose the information in response to legal process; (iii) in other circumstances in which Zynga believes the Zynga games or web sites are being used in the commission of a crime (including exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction); (iv) when we have a good faith belief that there is an emergency that poses a threat to the safety of you or another person; and (v) when necessary either to protect the rights or property of Zynga including to enforce our <a href="/about/terms-of-service.php">Terms of Service</a>, or for us to render the service you have requested.</p>
+<p>Your information, and the contents of your private online communications, may be accessed and disclosed (i) in response to legal process (for example, a court order, search warrant or subpoena); (ii) when we have a good faith belief that we are required to disclose the information in response to legal process; (iii) in other circumstances in which Zynga believes the Zynga games or web sites are being used in the commission of a crime (including exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction); (iv) when we have a good faith belief that there is an emergency that poses a threat to the safety of you or another person; and (v) when necessary either to protect the rights or property of Zynga including to enforce our <a href="http://www.zynga.com/about/terms-of-service.php">Terms of Service</a>, or for us to render the service you have requested.</p>
 
 <p><strong>Sale or Merger</strong></p>
 
@@ -580,7 +555,7 @@ The TRUSTe program only covers information that is collected through Zynga websi
 <a name="changes-to-policy"></a>
 <h2>Changes to Our Privacy Policy</h2>
 
-<p>If we decide to make material changes to our Privacy Policy, we will notify you and other users by placing a notice on Zynga.com or by sending you a notice to the e-mail address we have on file for you. We may supplement this process by placing notices in our games and on other Zynga websites. You should periodically check <a href="/">www.zynga.com</a> and this privacy page for updates.</p>
+<p>If we decide to make material changes to our Privacy Policy, we will notify you and other users by placing a notice on Zynga.com or by sending you a notice to the e-mail address we have on file for you. We may supplement this process by placing notices in our games and on other Zynga websites. You should periodically check <a href="http://www.zynga.com/">www.zynga.com</a> and this privacy page for updates.</p>
 <p><a href="#top">back to top</a></p>
 
 
@@ -613,14 +588,16 @@ Zynga Inc.<br>
 4104 24th Street, #363<br>
 San Francisco, CA 94114
 </p>
-
-
-
-</div>
-<!-- /#policy -->
+<!--
+<p>
+&#49; (88&#56;) &#52;45-78&#51;0
+</p>
+-->
+</div><!--mobilePadding--></div>
 
 </div>
 <!-- /#pgExtraPrivacy -->
+</div>
 
 <div id="footerThree">
   <div id="container">
@@ -640,7 +617,7 @@ San Francisco, CA 94114
     </div>
 
     <div id="copyright">
-      Copyright 2010 Zynga Inc. All rights reserved.<br>
+      Copyright 2011 Zynga Inc. All rights reserved.<br>
       Use of this Web site constitutes acceptance of Zynga's <a href="/about/terms-of-service.php">Terms of Service</a> and <a href="/privacy/privacy-policy.php">Privacy Policy</a>
 	</div>
   
