@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.weebly.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125012125id_/http%3A//www.weebly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.weebly.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303164558id_/http%3A//www.weebly.com/privacy.html) for the most accurate reproduction.*
 
 # Weebly - Create a free website and a free blog
 
