@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostexcellence.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428072842id_/http%3A//www.hostexcellence.com/index.php/v2/pages.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostexcellence.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303173845id_/http%3A//www.hostexcellence.com/index.php/v2/pages.privacy) for the most accurate reproduction.*
 
 # Host Excellence
 
