@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redwingshoe.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225195501id_/http%3A//www.redwingshoe.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redwingshoe.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304000409id_/http%3A//www.redwingshoes.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
