@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125163819id_/http%3A//www.physioroom.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303204825id_/http%3A//www.physioroom.com/help/privacy.php) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - PhysioRoom.com
 
 At PhysioRoom.com we respect the privacy of everyone who visits our Website. To this end, we fully comply with United Kingdom Data Protection legislation. 
 
@@ -12,7 +12,7 @@ Information submitted via the Ask the Experts section will be regarded as confid
   2. **Use of Personal Data**  
 When you do provide us with personal data, we may use that information in the following ways, unless stated otherwise:  
 \- we may store and process that information to better understand your needs and how we can improve our products and services;  
-\- we (or a fulfillment house or other third party on our behalf in connection with a promotion) may use that information to contact you;  
+\- we (or a fulfillment house or other third party on our behalf in connection with a promotion/order) may use that information to contact you;  
 \- information submitted via the PhysioRoom.com shop may be passed to Trueshopping Limited for the purpose of order fulfillment;  
 \- and/or we may provide other third parties with summary, but not individual, information about visitors to our site.
 
