@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmcsatellite.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727031500id_/http%3A//www.vmcsatellite.com/terms_conditions/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmcsatellite.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303200318id_/http%3A//www.vmcsatellite.com/terms_conditions/privacy_policy.htm) for the most accurate reproduction.*
 
 # 
 
