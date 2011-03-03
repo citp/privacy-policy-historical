@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stackideas.com privacy policy that was archived on 2010-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100808191001id_/http%3A//stackideas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackideas.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303172311id_/http%3A//stackideas.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
