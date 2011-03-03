@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the firstflight.net privacy policy that was archived on 2010-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123041546id_/http%3A//firstflight.net/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the firstflight.net privacy policy that was archived on 2011-03-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110303065329id_/http%3A//firstflight.net/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -97,8 +97,29 @@ function OpenWin()
 
 		 	var Bars="directories=no, location=no,menubar=no,status=yes,titlebar=no,toolbar=no,"
 			var Options = Bars + "scrollbars=yes, width="+wd+", height="+ht+", top="+y+", left="+x+",resizable=no"
+		
 			var childWindow=open(tUrl, "childWindow",Options)
 	 }
+	 
+	  function Sumbitme()
+	{
+	   
+		   var cnno=document.getElementById('txtcon_no').value;
+		   cnno.substring(0, 1)
+
+			if (cnno.substring(0, 1)=="9")
+			{
+		            window.open('http://firstwheels.firstflight.net/FFCL/GUI/Tracking_New/Website/DocketTrack.aspx?st_Docnolist=' + document.getElementById('txtcon_no').value,'','scrollbars=yes,resizable=yes,width=1100,height=300;')
+			
+			}
+			else
+			{
+			    document.frmTrack.submit();
+			    return true;
+			}
+				
+				
+	   }
 </script>
 
 <form name="frmTrack" action="track.asp" method="post" class="inputbox">
@@ -135,7 +156,9 @@ function OpenWin()
 	                <td width="39%" class="tahoma_textbold">Track your Shipment</td>
 	                <td width="45%">
 					<input name="txtcon_no" type="text" size="20" class="inputbox" value="Consignment Number" onfocus="this.value=''" onblur="if(this.value=='') this.value='Consignment Number'">	                </td>
-	                <td width="25%"><img src="images/track_button.jpg" name="TrackBtn" onclick="document.frmTrack.submit();" height="17" border="0" onmouseover="document.frmTrack.TrackBtn.style.cursor = 'hand';"></td>
+	                <!--<td width="25%"><img src="images/track_button.jpg" name=TrackBtn onclick="document.frmTrack.submit();" height=17 border="0" onmouseover="document.frmTrack.TrackBtn.style.cursor = 'hand';"></td>-->
+	                <td width="25%"><img src="images/track_button.jpg" name="TrackBtn" onclick="Javascript:Sumbitme();" "="" height="17" border="0" onmouseover="document.frmTrack.TrackBtn.style.cursor = 'hand';"></td>
+	                
 	              </tr>
 	          </tbody></table>
 		  </td>
@@ -247,21 +270,20 @@ function exp_all()
         </tr>
         <tr>
           <td width="17%">&nbsp;</td>
-          <td width="83%"><img src="images/header_myspace.gif" width="59" height="14"></td>
+          <td width="83%" align="left"><img src="images/header_myspace.gif" width="59" height="14"></td>
         </tr>
-        <tr>
-          <td colspan="2"><img src="images/spacer_01.gif" width="1" height="5"></td>
-        </tr>
+        
         <tr>
           <td><div align="center"><img src="images/arrow.gif" width="10" height="9"></div></td>
-          <td class="links_01"><a href="http://firstflight.net/mjclient/">Login</a></td>
+		   <td class="links_01"><a href="http://firstflight.net/mjclient/">Login</a></td>
         </tr>
+		
         <tr>
           <td colspan="2"><img src="images/spacer_01.gif" width="1" height="10"></td>
         </tr>
         <tr>
           <td><div align="center"><img src="images/arrow.gif" width="10" height="9"></div></td>
-          <td class="links_01"><a href="forgotpassword.asp">Forgot Password </a></td>
+          <td class="links_01"><a href="http://firstwheels.firstflight.net/ffcl/customerlogin">Surface Cargo Customer Login</a></td>
         </tr>
         <tr>
           <td colspan="2" height="10"></td>
@@ -506,7 +528,7 @@ if(document.all){glow_const=1; glow_size=glow_min; document.all.glow_text.style.
     <td bgcolor="#E87918"><div align="center">
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td><span class="white_text">Copyright © 2010 First Flight Couriers Ltd.,</span></td>
+          <td><span class="white_text">Copyright © 2011 First Flight Couriers Ltd.,</span></td>
           <td><div align="right"><a href="termsofuse.asp" class="white_text">Terms of use</a> | <a href="privacypolicy.asp" class="white_text">Privacy statement</a> </div></td>
         </tr>
       </tbody></table>
