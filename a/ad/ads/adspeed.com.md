@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222194619id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304001829id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Ad Servers | Ad Server Software | Ad Serving Software – Privacy Statement for AdSpeed.com
 
@@ -48,15 +48,15 @@ If you have any questions about this privacy statement, or the practices of AdSp
 
 ## Testimonials for our Ad Servers
 
-  * > Banners showed up on my site less than a minute after adding. Beats the heck out of spending a couple days installing a buggy shareware script with little or no support.
+  * > My banners are running faster and getting more clicks, since I moved to a Premium Account.
 > 
-> _John_  
-> 
+> _Tom Bailey_  
+>  Aquarium Fish
 
-  * > Thank you for very good answers! The private label is an excellent idea.
+  * > I LOVE Ad Speed. This has been terrific for my website.
 > 
-> _Gary Cooley_  
->  2Cooleys
+> _Mark_  
+>  Harvard Magazine
 
 
 
