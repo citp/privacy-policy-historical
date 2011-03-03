@@ -1,32 +1,53 @@
-<!--The following is the downloaded HTML source of the japanauctioncenter.com privacy policy that was archived on 2010-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101126150922id_/http%3A//japanauctioncenter.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the japanauctioncenter.com privacy policy that was archived on 2011-03-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110303024248id_/http%3A//www.jauce.com/privacy.php) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--?xml version="1.0" encoding="iso-8859-1"?--><head>
 <link rel="stylesheet" href="style.css" type="text/css">
-<!--?xml version="1.0" encoding="iso-8859-1"?-->
-
-
-
+<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+<link href="japanas_styles.css" rel="stylesheet" type="text/css">
+<link href="css/reset.css" rel="stylesheet" type="text/css">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/common.css" rel="stylesheet" type="text/css">
 <title>Japan Auctions with 1 click! eBay Japan information</title>
 <meta name="description" content="The one stop shop service for auctions in Japan. You can bid on Japanese online auctions and have them sent to your home country. eBay Japan information">
 <meta name="keywords" content="eBay Japan, Japan eBay, Japan auction, Yahoo Japan Auction">
-<link href="style.css" rel="stylesheet" type="text/css">
 
 <style type="text/css">
 <!--
 .style2 {color: #999999}
 -->
 </style>
-<script>
+<script type="text/javascript">
+<!--
 var cot_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/trustlogo/javascript/cot.js" :
 "http://www.trustlogo.com/trustlogo/javascript/cot.js";
 document.writeln('<script language="JavaScript" src="'+cot_loc0+'" type="text\/javascript"><\/script>');
+-->
 </script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/cot.js" type="text/javascript"></script>
 
 </head>
-<body topmargin="0" marginheight="0" onload="MM_preloadImages('images/home_over.gif','images/serv_over.gif','images/fee_over.gif','images/cont_over.gif','images/friend_over.gif','images/link_over.gif','auctions/images/account1.gif','auctions/images/register_over.gif','images/login_over.gif')">
-<link href="japanas_styles.css" rel="stylesheet" type="text/css">
-<script language="JavaScript">
+<body>
+<script type="text/javascript" src="Scripts/scrollsmoothly.js" charset="UTF-8"></script>
+<script type="text/javascript" src="Scripts/jquery-1.4.2.min.js"></script>
+<script type="text/javascript">
+$(function() {
+	
+	$('div.toggleBox').hide();
+	
+	$('#categoryList .more').click(function() {
+		var $this = $(this);
+		$this.fadeOut('normal');
+		$this.next('div.toggleBox').slideToggle(600);
+	});
+	
+	$('#categoryList .close').click(function() {
+		$('#categoryList .more').fadeIn('slow');
+		$('div.toggleBox').slideToggle('normal');	
+	});
+});
+
+</script>
+<script type="text/javascript">
 <!--
 // Current Server Time script (SSI or PHP)- By JavaScriptKit.com (http://www.javascriptkit.com)
 // For this and over 400+ free scripts, visit JavaScript Kit- http://www.javascriptkit.com/
@@ -35,8 +56,7 @@ document.writeln('<script language="JavaScript" src="'+cot_loc0+'" type="text\/j
 //Depending on whether your page supports SSI (.shtml) or PHP (.php), UNCOMMENT the line below your page supports and COMMENT the one it does not:
 //Default is that SSI method is uncommented, and PHP is commented:
 
-//var currenttime = '<!--#config timefmt="%B %d, %Y %H:%M:%S"--><!--#echo var="DATE_LOCAL" -->' //SSI method of getting server date
-var currenttime = 'Saturday November 27, 2010 00:09:21'; //PHP method of getting server date
+var currenttime = 'Thursday March 03, 2011 11:42:42'; //PHP method of getting server date
 
 ///////////Stop editting here/////////////////////////////////
 
@@ -51,14 +71,10 @@ function padlength(what){
 
 function displaytime(){
 	serverdate.setSeconds(serverdate.getSeconds()+1)
-	var datestring=montharray[serverdate.getMonth()]+" "+padlength(serverdate.getDate())+", "+serverdate.getFullYear()
-	//var timestring=padlength(serverdate.getHours())+":"+padlength(serverdate.getMinutes())+":"+padlength(serverdate.getSeconds())
+	var datestring=padlength(serverdate.getDate())+" "+montharray[serverdate.getMonth()]
 	var hours = serverdate.getHours();
-	var ampm = (hours>11 ? "PM" : "AM");
-	hours = (hours>11 ? hours - 12 : hours);
-	if(hours==0) hours=12;
-	var timestring=padlength(hours)+":"+padlength(serverdate.getMinutes())+" " + ampm;
-	document.getElementById("servertime").innerHTML = timestring+" | "+ weekdays[serverdate.getDay()] + ", " +datestring
+	var timestring=padlength(hours)+":"+padlength(serverdate.getMinutes());
+	document.getElementById("servertime").innerHTML = datestring + ", " + timestring
 }
 
 function MM_swapImgRestore() { //v3.0
@@ -83,427 +99,147 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
-//-->
+
+-->
 </script>
 
-<link href="japanas_styles.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-<!--
-.style2 {color: #6699CC}
--->
-</style>
 
-<link href="japanas_styles.css" rel="stylesheet" type="text/css">
-<table width="772" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td><table width="772" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td height="20" colspan="2" background="images/tbgz.jpg"><table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td class="datetime"><span class="datetime"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1">User:</font> <font size="1" face="Verdana, Arial, Helvetica, sans-serif">
-            Guest          </font></b></span> </td>
-                <td class="datetime"><div align="right"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">JAPAN,
-			<font color="#003366" face="verdana,arial" size="1"><span id="servertime">12:09 AM | Saturday, November 27, 2010</span></font>
-			
-			
-			<script language="javascript">
+
+<a name="pagetop" id="pagetop"></a>
+<div id="wrapper">
+	<div id="header">
+  	<h1><a class="hide" href="index.php">jauce.com - Japan Auction Center</a></h1>
+    <h2 class="hide">Enjoy Japanese auctions Anywhere in the world!</h2>
+    <ul id="menu">
+    	<li class="start"><a href="/index.php">Home</a></li>
+      <li class="help"><a href="/japan_auction_detail.php">Services &amp; Pricing</a>
+      	 <ul>
+          <li><a href="/japan_auction_detail.php#auction">Auction</a></li>
+          <li><a href="/japan_auction_detail.php#shopping">Shopping</a></li>
+          <li><a href="/japan_auction_detail.php#delivery">Delivery</a></li>
+          <li><a href="/japan_auction_detail.php#restrictions">Restrictions</a></li>
+         </ul>
+      </li>
+      <li class="help"><a href="#">Help&nbsp;Center</a>
+      	<ul>
+      	<li><a href="/faq/index.php">FAQ</a></li>
+        	<li><a href="/faq/?View=entry&amp;EntryID=112">TUTORIAL</a></li>       
+          <li><a href="http://www.jauce.com/faq/contact/">Contact Us</a></li>
+        </ul>
+      </li>
+    </ul>
+    <div id="jpTime">
+    	<p>Japan:
+			<span id="servertime">&nbsp;</span>
+				<script type="text/javascript">
 		  			setInterval("displaytime()", 1000);
-		  	  </script>
-          </font></div></td>
-              </tr>
-          </tbody></table></td>
-        </tr>
-        <tr>
-          <td valign="top"><table border="0" align="left" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-              <td width="56" rowspan="2" valign="top"><a href="http://www.japanauctioncenter.com"><img src="images/logo_new.jpg" border="0" alt="ebay japan"></a></td>
-              <td colspan="2"><table width="250" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                  
-                  <td valign="top" class="topmenugiant4A">japan</td>
-                  <td valign="top" class="topmenugiant4Z">auction</td>
-                  <td valign="top" class="topmenugiant4A">center</td>
-                  <td valign="top" class="topmenugiant4A">.com</td>
-                </tr>
-              </tbody></table></td>
-            </tr>
-            <tr>    <td height="35" align="left" valign="top" class="topmenugiantA">Japanese auctions with 1 click! </td>        </tr>
-            <tr>
-              <td height="35" colspan="2" valign="bottom" class="bluemaintext">Japan auctions shipped to 107 countries (by June, 2009) </td>
-              </tr>
-            
-          </tbody></table></td>
-          <td align="right" valign="bottom"><img src="images/top_exz.gif" alt="ebay japan"></td>
-        </tr>
-        <tr>
-          <td colspan="32"><table width="772" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-			  
-                <td bgcolor="#6699CC"><table width="98%" height="30" border="0" align="center" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-			  
-                <td bgcolor="#6699CC"><a href="/index.php" class="topmenugiant5">Home</a> <span class="topmenugiant7">|</span> <a href="/services.php" class="topmenugiant5">Services</a> <span class="topmenugiant7">|</span> <a href="/our_fees.php" class="topmenugiant5">Pricing</a> <span class="topmenugiant7">|</span> <a href="http://support.japanauctioncenter.com/index.php?_m=knowledgebase&amp;_a=view" class="topmenugiant5" onclick="window.open('/faq/index.php', 'mywindow', 'menubar=0,resizable=0,width=750,height=550,scrollbars=yes,left='+((screen.width)?(screen.width-750)/2:100)+',top='+((screen.height)?(screen.height-550)/2:100)+'');return false;">Faq</a><span class="topmenugiant7"> |</span> <a href="http://support.japanauctioncenter.com/index.php" class="topmenugiant5" onclick="window.open('http://www.japanauctioncenter.com/faq/contact/', 'mywindow', 'menubar=0,resizable=0,width=750,height=550,scrollbars=yes,left='+((screen.width)?(screen.width-750)/2:100)+',top='+((screen.height)?(screen.height-550)/2:100)+'');return false;">Contact</a><span class="topmenugiant7"> |</span>
-				<a href="http://www.japanauctioncenter.com/blog/" class="topmenugiant5" target="blank">Blog</a></td>
-                
-                <td align="right" bgcolor="#6699CC"><a href="https://www.japanauctioncenter.com/auctions/signup.php" class="topmenugiant5">Register</a><span class="topmenugiant7"> |</span> <a href="https://www.japanauctioncenter.com/auctions" class="topmenugiant5">Login</a>                  </td>
-              </tr>
-              <tr>
-                
-              </tr>
-            </tbody></table></td>
-              </tr>
-              <tr>
-                <td colspan="7" align="center" height="15"><script language="javascript" src="headline.js" type="text/javascript"></script><input type="text" name="banner" id="banner" size="100" style="background-color:#FFFFFF;: ; font-family: verdana; font-size: 13px; border: none" onfocus="blur()"></td>
-              </tr>
-            </tbody></table></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
+		  	 	</script>
+        </p>
+    </div>
+    
+    <div id="headerBox">
+    	<div class="inheaderBox">
+    	
+        <form name="searchform" id="searchform" method="post" action="./directory_list.php">
+      		<input name="find" id="find" value="Search auction here" onfocus="javascript:this.value='';" onblur="if(this.value == '') this.value ='Search auction here';">
+      		<input type="submit" value="" name="searchBtn" id="searchBtn">
+      	</form>
+      	
+        <div id="feeEst">
+      		<div class="delivery"><a href="#" onclick="window.open('price_check.php', '_blank', 'width=1000,height=400,resizable=no'); return false;">Delivery fee estimator</a></div>
+        	<div class="service"><a href="#" onclick="window.open('fee_check.php', '_blank', 'width=300,height=320,resizable=no'); return false;">Service fee estimator</a></div>
+        </div>
+      </div>
+      <div id="categoryList" class="clearfix">
+      	<ul>
+      							<li><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/23336-category.html" class="botlinks2">Computer</a></li>
+								<li><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/23632-category.html" class="botlinks2"> AV &amp; Camera</a></li>
+								<li><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/22152-category.html" class="botlinks2">Music</a></li>
+								<li><a href="./view.php?seturl=http://list4.auctions.yahoo.co.jp/jp/21600-category.html" class="botlinks2">Book and magazine</a></li>
+								<li><a href="./view.php?seturl=http://list4.auctions.yahoo.co.jp/jp/21964-category.html" class="botlinks2">Movie, video</a></li>
+								<li><a href="./view.php?seturl=http://list4.auctions.yahoo.co.jp/jp/25464-category.html" class="botlinks2">Toy and game</a></li>
+								<li><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/24242-category.html" class="botlinks2">Hobby and culture</a></li>
+								<li><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/20000-category.html" class="botlinks2">Antique and collection</a></li>
+								<li><a href="./view.php?seturl=http://list4.auctions.yahoo.co.jp/jp/24698-category.html" class="botlinks2">Sport and leisure</a></li>
+								<li><a href="./view.php?seturl=http://list1.auctions.yahoo.co.jp/jp/26318-category.html" class="botlinks2">Automotive</a></li>
+			        </ul>
+        <div class="more">
+          <a href="#">more</a>
+        </div>        <div class="toggleBox" style="clear: both; display: none;">
+		
+        	<ul>
+        	    						<li><a href="./view.php?seturl=http://list2.auctions.yahoo.co.jp/jp/23000-category.html" class="botlinks2">Fashion</a></li>
+											<li><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/23140-category.html" class="botlinks2">Accessory and clock</a></li>
+											<li><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/42177-category.html" class="botlinks2">Beauty and health care</a></li>
+											<li><a href="./view.php?seturl=http://list4.auctions.yahoo.co.jp/jp/23976-category.html" class="botlinks2">Food and beverage</a></li>
+											<li><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/24198-category.html" class="botlinks2">House, interior</a></li>
+											<li><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/2084055844-category.html" class="botlinks2">Pet and creature</a></li>
+											<li><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/22896-category.html" class="botlinks2">Office &amp; Store supplies</a></li>
+											<li><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/26086-category.html" class="botlinks2">Flower, gardening</a></li>
+											<li><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/2084043920-category.html" class="botlinks2">Tickets</a></li>
+											<li><a href="./view.php?seturl=http://list4.auctions.yahoo.co.jp/jp/24202-category.html" class="botlinks2">Baby supplies</a></li>
+											<li><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/2084032594-category.html" class="botlinks2">Talent goods</a></li>
+											<li><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/20060-category.html" class="botlinks2">Comic, animation goods</a></li>
+											<li><a href="./view.php?seturl=http://list6.auctions.yahoo.co.jp/jp/2084060731-category.html" class="botlinks2">Real estate</a></li>
+											<li><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/26084-category.html" class="botlinks2">In addition</a></li>
+					        	</ul>
+        	<div class="close">
+          	<a href="#">close</a>
+        	</div>
+        </div>
+      </div><!-- /#categoryList -->
+    </div><!-- /#headerBox -->
+      				<div id="userBox" class="outLogin">
+		    		<div class="welcomeMsg">Welcome <span>Guest!	</span></div>
+      				<div class="updateTxt"><script language="javascript" src="headline.js" type="text/javascript"></script></div>
+      				<ul class="state">
+      					<li class="signin"><a class="hide" href="https://www.jauce.com/auctions">Sign in</a></li>
+        				<li class="register"><a class="hide" href="https://www.jauce.com/auctions/index.php">Register</a></li>
+      				</ul>
+    			</div>
+        	  </div><!-- /#header -->
 
-<table cellpadding="0" cellspacing="0" width="770" align="center">
+<table cellpadding="0" cellspacing="0" width="960" align="center">
 <tbody><tr>
-	<td valign="top" width="172">
-<link href="japanas_styles.css" rel="stylesheet" type="text/css">
+	<td valign="top" bgcolor="#ffffff" class="text" width="660"> <div id="fullcolumn" class="clearfix">
+<div class="topicPath">
+    <a href="index.php">TOP</a> &gt; Privacy&nbsp;Policy
+</div>
+<div id="ContsBox">
 
-<table width="172" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-					<form action="./directory_list.php" method="get"></form>
-					<td width="172" height="50" align="center" valign="middle" bgcolor="#003366">
-					
-						<input name="find" type="text" id="find" value="search..." size="12" onfocus="javascript:this.value='';" onblur="if(this.value=='') this.value='search...';">
-					  <input type="submit" value="GO"></td>
-					
-		</tr>
-		<tr>
-    <td height="1" class="mainbox"></td>
-  </tr>
-<tr align="center">
-    <td><a href="./updates.php"><img src="./images/l_a.gif" alt="To see the latest updates on our Japan auction deputy services..." width="172" height="20" vspace="1" border="0"></a><a href="./quick_auctions.php"><br>
-          <img src="./images/q_c.gif" alt="To quickly browse the categories of Japanese online auctions ..." width="172" height="20" vspace="1" border="0"></a><br>
-          <a href="./japan-car-auction/index.php"><img src="./images/japan_car_auctions.gif" alt="Yahoo Japan car and motorcycle auctions" width="172" height="20" vspace="1" border="0"></a><br>
-            <a href="./realtime.php"><img src="./images/real_time.gif" alt="Bid in real-time on Japanese online auctions" width="172" height="20" vspace="1" border="0"></a><br>
-            <a href="./quick_tutorial.php"><img src="./images/tutorial.gif" alt="How to bid on Japanese online auctions" width="172" height="20" vspace="1" border="0"></a><br>
-      <a href="./case1.php"><img src="./images/case_studies.gif" alt="Japan online auctions case studies" width="172" height="20" vspace="1" border="0"></a><br>
-    <img src="./images/bookmarklets.gif" alt="The easiest wat of bidding on auctions in Japan" width="172" height="29" border="0"></td>
-  </tr>
- 
-  
-  
-  <tr>
-    <td valign="top">
-		  <table border="0" align="center" cellpadding="0" cellspacing="0">  
+<h3>Privacy Policy</h3>
 
- <tbody><tr>
-                <td align="center" valign="bottom" spanclass="2"><img src="./images/d_top.gif" alt="Japanese online auctions directory" width="172" height="31"></td>
-              </tr>
-              <tr>
-                <td valign="top" background="./images/d_bg2.gif" class="botlinks2">
-
-                  <table width="100%" border="0" align="center" cellpadding="0" cellspacing="2">
-                    					<tbody><tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/23336-category.html" class="botlinks2">Computer</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/23632-category.html" class="botlinks2"> AV &amp; Camera</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/22152-category.html" class="botlinks2">Music</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list4.auctions.yahoo.co.jp/jp/21600-category.html" class="botlinks2">Book and magazine</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list4.auctions.yahoo.co.jp/jp/21964-category.html" class="botlinks2">Movie, video</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list4.auctions.yahoo.co.jp/jp/25464-category.html" class="botlinks2">Toy and game</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/24242-category.html" class="botlinks2">Hobby and culture</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/20000-category.html" class="botlinks2">Antique and collection</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list4.auctions.yahoo.co.jp/jp/24698-category.html" class="botlinks2">Sport and leisure</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list1.auctions.yahoo.co.jp/jp/26318-category.html" class="botlinks2">Automotive</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list2.auctions.yahoo.co.jp/jp/23000-category.html" class="botlinks2">Fashion</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/23140-category.html" class="botlinks2">Accessory and clock</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/42177-category.html" class="botlinks2">Beauty and health care</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list4.auctions.yahoo.co.jp/jp/23976-category.html" class="botlinks2">Food and beverage</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/24198-category.html" class="botlinks2">House, interior</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/2084055844-category.html" class="botlinks2">Pet and creature</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/22896-category.html" class="botlinks2">Office &amp; Store supplies</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/26086-category.html" class="botlinks2">Flower, gardening</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/2084043920-category.html" class="botlinks2">Tickets</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list4.auctions.yahoo.co.jp/jp/24202-category.html" class="botlinks2">Baby supplies</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/2084032594-category.html" class="botlinks2">Talent goods</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list5.auctions.yahoo.co.jp/jp/20060-category.html" class="botlinks2">Comic, animation goods</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list6.auctions.yahoo.co.jp/jp/2084060731-category.html" class="botlinks2">Real estate</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                    					<tr><td width="10" align="left" valign="middle"></td>
-                    <td class="botlinks2"><a href="./view.php?seturl=http://list3.auctions.yahoo.co.jp/jp/26084-category.html" class="botlinks2">In addition</a></td>
-                    </tr>
-                    <!-- <tr><td height="1" bgcolor="#cccccc"><img src="./images/spacer.gif" width="1" height="1"></td></tr> -->
-                                    </tbody></table>                </td>
-              </tr>
-              <tr>
-                <td valign="top" class="whitelinks"><img src="./images/d_bottom.gif" width="172" height="25"></td>
-              </tr>
-          </tbody></table></td>
-  </tr>
- 
-  
-  
-  
-  <tr>
-  
-   </tr><tr><td>
-<iframe src="price_check.php" height="360" width="172" frameborder="0"></iframe>
- </td></tr>
- 
-    <tr><td>
-<iframe src="fee_check.php" height="260" width="172" frameborder="0"></iframe>
- </td></tr>
- 
-    <tr><td>
-	
-	
-		</td>
-  </tr>
-  
- 
-  
-  <tr>
-        <td valign="bottom" class="bottext">Please Note: <br>
-    We are not affiliated with any auction or shopping website.</td>
-  </tr>
-  
-</tbody></table>
-
-
-
-	</td>
-	<td valign="top" bgcolor="#ffffff" class="text"> <h2>Privacy Policy</h2>
-<div class="column-one-content">
-
-<p>At <strong>japanauctioncenter.com</strong>, we collect information necessary to process your purchase. That information is delivered directly to our order department. We may use your order information to send you notices regarding the products and services we believe may be of interest to you.</p>
+<p>At <strong>jauce.com</strong>, we collect information necessary to process your purchase. That information is delivered directly to our order department. We may use your order information to send you notices regarding the products and services we believe may be of interest to you.</p>
 
 <p>We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail, providing search results, etc. They have access to personal information needed to perform their functions, but may not use it for other purposes.</p>
 
-<p><strong>Japanauctioncenter.com does not rent, sell, or share personal information about you with other people.</strong></p>
+<p><strong>Jauce.com does not rent, sell, or share personal information about you with other people.</strong></p>
 
 <p>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the personal information you input.</p>
 
-</div> </td>
-	<td valign="top" bgcolor="#ffffff" width="150"><link href="japanas_styles.css" rel="stylesheet" type="text/css">
-
-<center>
-<img src="images/yahoo_japan_top_auctions.gif">
-</center>
-<center>
-<a href="view2.php?seturl=http://page2.auctions.yahoo.co.jp/jp/auction/b117913533" target="_blank"><img src="http://f4.auctions.c.yimg.jp/img323.auctions.yahoo.co.jp/users/3/2/8/5/block190-thumb-1290761453814850.jpg" width="134" height="100" border="0" class="mainbox"></a><br>
-</center>
-<div class="bottext" align="center">
-Current bid:
-200,000 yen<br>
-Time left:6 day(s)
-<br><br>
-</div>
-<center>
-<a href="view2.php?seturl=http://page8.auctions.yahoo.co.jp/jp/auction/h148076547" target="_blank"><img src="http://f2.auctions.c.yimg.jp/img383.auctions.yahoo.co.jp/users/0/9/8/1/guitarharuhata-thumb-1290466494225807.jpg" width="134" height="100" border="0" class="mainbox"></a><br>
-</center>
-<div class="bottext" align="center">
-Current bid:
-83,500 yen<br>
-Time left:1 day(s)
-<br><br>
-</div>
-<center>
-<a href="view2.php?seturl=http://page13.auctions.yahoo.co.jp/jp/auction/r72303268" target="_blank"><img src="http://f7.auctions.c.yimg.jp/img353.auctions.yahoo.co.jp/users/8/4/2/3/colekana-thumb-1290343912263269.jpg" width="134" height="100" border="0" class="mainbox"></a><br>
-</center>
-<div class="bottext" align="center">
-Current bid:
-17,500 yen<br>
-Time left:1 day(s)
-<br><br>
-</div>
-<center>
-<a href="view2.php?seturl=http://page13.auctions.yahoo.co.jp/jp/auction/r71603022" target="_blank"><img src="http://f2.auctions.c.yimg.jp/img245.auctions.yahoo.co.jp/users/7/2/3/8/mimiell3000-thumb-1288617997858277.jpg" width="134" height="100" border="0" class="mainbox"></a><br>
-</center>
-<div class="bottext" align="center">
-Current bid:
-96,000 yen<br>
-Time left:4 minute(s)
-<br><br>
-</div>
-<center>
-<a href="view2.php?seturl=http://page13.auctions.yahoo.co.jp/jp/auction/r72336742" target="_blank"><img src="http://f7.auctions.c.yimg.jp/img379.auctions.yahoo.co.jp/users/9/0/4/4/yafty-thumb-1290438134694303.jpg" width="134" height="100" border="0" class="mainbox"></a><br>
-</center>
-<div class="bottext" align="center">
-Current bid:
-33,500 yen<br>
-Time left:3 day(s)
-<br><br>
-</div>
-<center>
-<a href="view2.php?seturl=http://page2.auctions.yahoo.co.jp/jp/auction/b115495808" target="_blank"><img src="http://f5.auctions.c.yimg.jp/img377.auctions.yahoo.co.jp/users/7/4/0/0/number6950-thumb-1290607051891798.jpg" width="134" height="100" border="0" class="mainbox"></a><br>
-</center>
-<div class="bottext" align="center">
-Current bid:
-28,500 yen<br>
-Time left:23 hour(s)
-<br><br>
-</div>
-<center>
-<a href="view2.php?seturl=http://page2.auctions.yahoo.co.jp/jp/auction/b117726891" target="_blank"><img src="http://f1.auctions.c.yimg.jp/img179.auctions.yahoo.co.jp/users/8/8/9/5/rubio_jp-thumb-1290428353481431.jpg" width="134" height="100" border="0" class="mainbox"></a><br>
-</center>
-<div class="bottext" align="center">
-Current bid:
-6,500 yen<br>
-Time left:22 hour(s)
-<br><br>
-</div>
-<center>
-<a href="view2.php?seturl=http://page.auctions.yahoo.co.jp/jp/auction/137238956" target="_blank"><img src="http://f0.auctions.c.yimg.jp/img237.auctions.yahoo.co.jp/users/7/4/7/0/fima_fima_fima-thumb-1290487675359885.jpg" width="134" height="100" border="0" class="mainbox"></a><br>
-</center>
-<div class="bottext" align="center">
-Current bid:
-14,000 yen<br>
-Time left:1 day(s)
-<br><br>
-</div>
-<center>
-<a href="view2.php?seturl=http://page.auctions.yahoo.co.jp/jp/auction/137325944" target="_blank"><img src="http://f7.auctions.c.yimg.jp/img339.auctions.yahoo.co.jp/users/5/7/8/6/back_luck_lucky-thumb-1290612946883409.jpg" width="134" height="100" border="0" class="mainbox"></a><br>
-</center>
-<div class="bottext" align="center">
-Current bid:
-11,050 yen<br>
-Time left:24 hour(s)
-<br><br>
-</div>
-<center>
-<a href="view2.php?seturl=http://page9.auctions.yahoo.co.jp/jp/auction/k135740591" target="_blank"><img src="http://f6.auctions.c.yimg.jp/img187.auctions.yahoo.co.jp/users/6/4/2/5/grucks_klee-thumb-1290420136562485.jpg" width="134" height="100" border="0" class="mainbox"></a><br>
-</center>
-<div class="bottext" align="center">
-Current bid:
-27,500 yen<br>
-Time left:1 day(s)
-<br><br>
-</div>
- </td>
-
+</div><!-- #ContsBox -->
+  </div><!-- /#fullcolumn --> </td>
+	<td valign="top" bgcolor="#ffffff" width="300"> </td>
 </tr>
 
 </tbody></table>
-<link href="japanas_styles.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-<!--
-.style1 {color: #FFFFFF}
--->
-<!--
-.style6 {color: #FFFFFF}
--->
-</style>
+<script type="text/javascript" src="script/jquery-1.4.2.min.js"></script>
 
-<table width="772" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td align="center" bgcolor="#FFFFFF"><img src="images/spacer.gif" width="1" height="1"></td>
-        </tr>
-        <tr> 
-          <td bgcolor="#6699CC">
-            <table border="0" align="center" cellpadding="0" cellspacing="0">
-              <tbody><tr>
-                <td><a href="http://www.japanauctioncenter.com"><img src="images/ahlogo.gif" width="16" height="21" hspace="5" vspace="3" border="0" align="absmiddle"></a></td>
-                <td class="topmenugiant4 style1">www.japan</td>
-                <td class="topmenugiant4 style1">auction</td>
-                <td class="topmenugiant4 style1">center.com</td>
-                <td width="21" align="center"></td>
-                <td align="center" class="maintext"><span class="style6">Copyright © 2006 Nichido 
-                    Ltd. Japan</span></td>
-              </tr>
-            </tbody></table></td>
-        </tr>
-        <tr> 
-          <td align="center">
-<table width="98%" height="30" border="0" align="center" cellpadding="0" cellspacing="0">
-              <tbody><tr> 
-                
-                <td align="right" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td align="center"><img src="images/between.gif" width="4" height="4" hspace="2"><a href="/tellfriend.php" class="blacklinks">Tell A Friend</a> <img src="images/between.gif" width="4" height="4" hspace="2"><a href="/link_to_us.php" class="blacklinks">Link To Us</a> <img src="images/between.gif" width="4" height="4" hspace="2"><a href="recruit.php" class="blacklinks">Recruit</a>  <img src="images/between.gif" width="4" height="4" hspace="2"><a href="affiliation.php" class="blacklinks">Affiliation</a><img src="images/between.gif" width="4" height="4" hspace="2"><a href="/faq/index.php" class="blacklinks" onclick="window.open('/faq/index.php', 'mywindow', 'menubar=0,resizable=0,width=750,height=550,scrollbars=yes,left='+((screen.width)?(screen.width-750)/2:100)+',top='+((screen.height)?(screen.height-550)/2:100)+'');return false;">FAQ</a> <img src="images/between.gif" width="4" height="4" hspace="2"><a href="privacy.php" class="blacklinks">Privacy 
-                      policy</a>  <img src="images/between.gif" width="4" height="4" hspace="2"><a href="disclaimer.php" class="blacklinks">Disclaimer</a>  <img src="images/between.gif" width="4" height="4" hspace="2"><a href="links.php" class="blacklinks">Links</a>  <img src="images/between.gif" width="4" height="4" hspace="2"><a href="/auctions/terms.php" class="blacklinks">User 
-                    Agreement</a>  <img src="images/between.gif" width="4" height="4" hspace="2"><a href="/sitemap.xml" class="blacklinks">Sitemap.XML</a></td>
-                  </tr>
-                  <tr>
-                    <td align="center"><img src="images/between.gif" width="4" height="4" hspace="2"><a href="http://www.japan-auction.org/" target="_blank" class="blacklinks">Japan-Auction.org</a> <img src="images/between.gif" width="4" height="4" hspace="2"><a href="http://www.auction-japan.net/" target="_blank" class="blacklinks">Auction-Japan.net </a><img src="images/between.gif" width="4" height="4" hspace="2"><a href="http://nichidoo.com/" target="_blank" class="blacklinks">Nichidoo</a></td>
-                  </tr>
-                  
-                </tbody></table>                  </td>
-              </tr>
-            </tbody></table>          </td>
-        </tr>
-        
-</tbody></table>
+  <div id="footer">
+  	<div class="infooter">
+      <ul>
+      	<li class="first"><a href="privacy.php">Privacy policy</a></li>
+      	<li><a href="disclaimer.php">Disclaimer</a></li>
+      	<li><a href="/terms.php">User Agreement</a></li>
+      	 <li><a href="/eBay_Japan.php">eBay Japan</a></li>
+      	<li><a href="/sitemap.xml">Sitemap.XML</a></li>
+      </ul>
+      <p class="web"><a href="./">www.jauce.com</a></p>
+      <p class="copy">Copyright © 2006 Nichido Ltd. Japan</p>
+    </div>
+  </div><!-- /#footer -->
+</div><!-- /#wrapper -->
 
 
-
-    <div align="center">
-      <script language="JavaScript">COT("/images/secure_site.gif", "SC2", "none");</script>
-</div>
-    
-
-
+ 
 </body></html>
