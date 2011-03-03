@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teva.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901214616id_/http%3A//www.teva.com/customerservice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teva.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303214827id_/http%3A//www.teva.com/customerservice/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policies – Sandals & Shoes by Teva – Buy Award Winning Sport Sandals Women’s Sandals Leather Sandals Men’s Flip Flops Water Shoes Casual Shoes Trail Running Shoes Hats & more
 
@@ -9,7 +9,7 @@ Customer Service: 1-800-367-8382
 
 ## Privacy Policy of Deckers Outdoor Corporation, Deckers Consumer Direct Corporation and Deckers Europe Limited (“Deckers”) – United States
 
-The Deckers family of product lines (UGG® Australia, Teva®, Simple® Shoes, and Tsubo®) and accompanying domestic (uggaustralia.com, teva.com, simpleshoes.com and tsubo.com) and international websites takes the protection and proper use of your personal information seriously. We respect your privacy and take great care to safeguard information in our possession. Your preferences with regard to how we use your information are our highest priority.
+The Deckers family of product lines (UGG® Australia, Teva®, Simple® Shoes, Tsubo® and Ahnu®) and accompanying domestic (uggaustralia.com, teva.com, simpleshoes.com and tsubo.com) and international websites takes the protection and proper use of your personal information seriously. We respect your privacy and take great care to safeguard information in our possession. Your preferences with regard to how we use your information are our highest priority.
 
 ## What personal information about our customers does Deckers gather and how does Deckers utilize such information?
 
@@ -27,7 +27,7 @@ The information we obtain from customers and those that visit our sites helps us
 
 Information about our customers is an important part of our business. We share customer information only as described below.
 
-  * **Agents:** We employ other firms to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and processing credit card payments. They have access to personal information needed to perform their functions, but are contractually obligated to protect personal information. 
+  * **Agents:** We employ other firms to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and processing credit card payments. They have access to personal information needed to perform their functions, but are contractually obligated to protect personal information. We may pass your personal information to credit referencing agencies (who may keep a record of your information) for the purposes of carrying out identity verification checks.
   * **Trading partners:** Deckers product lines are offered internationally in conjunction with select international trading partners. Any personal information shared with these trading partners is protected and may be used only according to the guidelines contained herein.
   * **Protection of Deckers and others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property, or safety of Deckers Consumer Direct Corporation, our users and others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. This does not include selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy.
   * **With your consent:** Other than as set out above, you will receive notice when information about you might go to third parties, except as provided below, and you will have the opportunity to choose not to share the information. The exception to this is if Deckers is ordered to produce such information through valid subpoena or court order. In those situations, Deckers will comply with the subpoena and/or court order and will not be required to provide you with any notice. 
@@ -55,22 +55,15 @@ If you made a purchase from one of our sites, Deckers gives you access to inform
 
 ## Can I update, correct, or delete my personal information?
 
-Yes, if you made a purchase from one of our sites, you can log–in to your account to make changes to your personal information or change preferences. If you submitted personal information without making a purchase, if you email Deckers at customerservice@teva.com to change or delete your personal information, we will uphold your request. Deckers may retain changed or deleted information for archival purposes.
+Yes, if you made a purchase from one of our sites, you can log–in to your account to make changes to your personal information or change preferences. If you submitted personal information without making a purchase, if you email Deckers at [customerservice@teva.com](mailto:customerservice@teva.com) to change or delete your personal information, we will uphold your request. Deckers may retain changed or deleted information for archival purposes.
 
 ## How do I get in touch with Deckers?
 
-If you have any questions regarding this Privacy Policy, please contact us by email at:
-
-  * Deckers Outdoor Corporation
-  * 123 N Leroux St.
-  * Flagstaff, AZ 86001.
-
-  
-
+If you have any questions regarding this Privacy Policy, please contact us by email at: [customerservice@teva.com](mailto:customerservice@teva.com)
 
 ## What happens when the Privacy Policy changes?
 
-This Privacy Policy was last changed on 5/29/2009. Future changes will be noted on new editions of the Privacy Policy. We recommend that you refer back to this page often to become familiar with new changes in the policy. 
+This Privacy Policy was last changed on 9-29-2010. Future changes will be noted on new editions of the Privacy Policy. We recommend that you refer back to this page often to become familiar with new changes in the policy. 
 
 ## Children
 
@@ -83,11 +76,3 @@ Deckers respects internationally recognized human rights and environmental stand
 ## Restricted Substances Policy
 
 Deckers is committed to assuring that all of the materials used in its products are safe for workers, consumers and the environment alike. Deckers has established a Restricted Substances Policy that mandates compliance with all international directives, laws and regulations that restrict the type and concentration of potentially hazardous substances. Consistent with our company values, the Restricted Substances Policy goes beyond mandated restrictions and includes some substances such as PVC that are not restricted by law, but that are a cause of concern for many consumers and some Non–Governmental Organizations (NGOs).[ Click here for more information.](http://www.deckers.com/about/CorporateSocialResponsibility.aspx)
-
-### Current Agents:
-
-We employ other firms to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and processing credit card payments. They have access to personal information needed to perform their functions, but are contractually obligated to protect personal information.
-
-### *REQUIRED: Agents :
-
-We employ other firms to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), and processing credit card payments. They have access to personal information needed to perform their functions, but are contractually obligated to protect personal information. We may pass your personal information to credit referencing agencies (who may keep a record of your information) for the purposes of carrying out identity verification checks.
