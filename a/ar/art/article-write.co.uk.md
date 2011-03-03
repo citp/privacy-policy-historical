@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the article-write.co.uk privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027234436id_/http%3A//article-write.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-write.co.uk privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303064430id_/http%3A//article-write.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Article Write
+# Privacy Policy » Article Write
 
 ## Article-write.co.uk Privacy Policy
 
