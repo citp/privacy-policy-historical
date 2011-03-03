@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxact.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229040658id_/http%3A//www.taxact.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxact.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304002217id_/http%3A//www.taxact.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # TaxACT Privacy Policy Statement
 
@@ -12,7 +12,7 @@ We can be reached via email at [customerservice@taxact.com](mailto:customerservi
 telephone at 319-373-3600,  
 or by fax at 319-447-4674
 
-[](http://www.truste.org/ivalidate.php?url=www.taxact.com&sealid=101)
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.taxact.com/seal_m)
 
 We, at 2nd Story Software, respect your privacy and the confidentiality of your personal information (including email address). Our company's resources and entire staff are fully committed to safeguarding your personal data (including email address) by ensuring that the highest security and other precautionary measures are in place to protect your non-public information. That is why we do not share your information (including email address) with third parties, affiliates, or partners in ways other than disclosed in this privacy statement. We only collect, store and use your personal information (including email address) for defined purposes. The purposes include fulfilling orders, supplying service and support, and notifying you of new/enhanced products and services.
 
@@ -20,11 +20,7 @@ We, at 2nd Story Software, respect your privacy and the confidentiality of your 
 
 #### Participant of TRUSTe Privacy Program
 
-2nd Story Software is a certified licensee of the TRUSTe Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information (including email address) by promoting the use of fair information practices. This privacy statement covers the site www.TaxACT.com. Because the owner of this Web site wants to demonstrate its commitment to our users' privacy, 2nd Story Software has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact 2nd Story Software, Inc.'s Customer Service department by using one of the methods listed at the top of this page. If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process, <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison between you and 2nd Story Software, Inc.
-
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+2nd Story Software has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at our [contact us page](https://www.taxact.com/tsupport/support_request.asp). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 #### Information Collected
 
