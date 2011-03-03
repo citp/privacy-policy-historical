@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipetips.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205120157id_/http%3A//www.recipetips.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipetips.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303103630id_/http%3A//www.recipetips.com/privacy.asp) for the most accurate reproduction.*
 
 # RecipeTips.Com Privacy Policy
 
