@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brembo.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616053614id_/http%3A//www.brembo.com/ENG/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brembo.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303054434id_/http%3A//www.brembo.com/ENG/privacy) for the most accurate reproduction.*
 
 # Brembo - Privacy
 
@@ -53,6 +53,9 @@ Changes
 We may change this Privacy Statement, or change, modify or withdraw access to this Site, or the content of these pages at any time with or without notice.
 
 |   
+  
+Last Update: 20/05/2008 15.01.48   
+  
 |  |   
 |  |  |  |  |  |   
 |  |   
