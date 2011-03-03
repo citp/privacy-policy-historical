@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legitscript.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231175918id_/http%3A//www.legitscript.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legitscript.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303201225id_/http%3A//www.legitscript.com/privacy) for the most accurate reproduction.*
 
 # LegitScript - Online Pharmacies You Can Trust
 
