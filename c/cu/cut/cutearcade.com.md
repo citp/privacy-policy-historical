@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cutearcade.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231054157id_/http%3A//cutearcade.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutearcade.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303172651id_/http%3A//www.cutearcade.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - CuteArcade.com
 
