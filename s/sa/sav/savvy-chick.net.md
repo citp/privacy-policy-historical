@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savvy-chick.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230074339id_/http%3A//www.savvy-chick.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savvy-chick.net privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303061929id_/http%3A//www.savvy-chick.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,4 +32,4 @@ This Web site contains links to other sites. Please be aware that we are not res
 We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill etc. Please check their websites for respective privacy policies.
 
 **Contact Information:**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: savvy [at] savvy-chick [dot] net
+If users have any questions or suggestions regarding our privacy policy, please use our [contact us](http://www.savvy-chick.net/contact-me/) page.
