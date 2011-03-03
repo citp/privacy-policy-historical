@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womow.com.au privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930113926id_/http%3A//www.womow.com.au/about.php%3Fopt%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womow.com.au privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303190619id_/http%3A//www.womow.com.au/about.php%3Fopt%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # About WOMOW - Privacy Policy
 
@@ -11,32 +11,32 @@ Personal information is information that specifically identifies an individual s
 
 * ### Personal Information we Collect
 
-WOMOW collects personal information in a number of ways, including, for example, when you: (1) register and set up an account; (2) sign up for any of our emails; (3) post a rating, or any other content on the WOMOW website; (4) contact us by email, or (5) Make a transaction through our site. When you visit the WOMOW website, some information is also automatically collected, such as your computer's Internet Protocol (IP) address, your computer's operating system, the browser type, the address of a referring web site, and the time and date of your visit. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.  
+WOMOW collects personal information in a number of ways, including, for example, when you: (1) register and set up an account; (2) sign up for any of our emails; (3) post a rating/review, or any other content on the WOMOW website; (4) contact us by email, or (5) Make a transaction through our site. When you visit the WOMOW website, some information is also automatically collected, such as your computer's Internet Protocol (IP) address, your computer's operating system, the browser type, the address of a referring web site, and the time and date of your visit. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.  
  
 
 * ### Automatically Collected Information
 
 We collect information on WOMOW website visitors collectively, including which sections of the site are most frequently visited, how often and for how long. This type of information is aggregated, non-personal information and helps us understand trends and our users' needs so that we can further improve the WOMOW website and/or service. WOMOW also collects and uses some information on an individual basis regarding your interaction with us.
 
-  * IP Addresses - WOMOW's web servers collect the IP addresses of our users. These are mainly used in an aggregate form to determine usage trends, however, they are also used as another identifier, to help protect the integrity of the information on WOMOW. For instance, if a particular business is rated consecutively by the same IP address within a short time-frame, that might prompt WOMOW to investigate to ensure that the ratings are legitimate and based on actual customers' experiences.
+  * IP Addresses - WOMOW's web servers collect the IP addresses of our users. These are mainly used in an aggregate form to determine usage trends, however, they are also used as another identifier, to help protect the integrity of the information on WOMOW. For instance, if a particular business is reviewed consecutively by the same IP address within a short time-frame, that might prompt WOMOW to investigate to ensure that the reviews are legitimate and based on actual customers' experiences.
   * Cookies and Applets - Cookies are small text files placed on your hard drive by a website you visit. These files identify your computer and record your preferences and other data about your visit so that when you return to the site, the site knows who you are and can personalise your visit. WOMOW uses cookies to provide you with a better experience as these allow you to automatically log on everytime you visit the WOMOW website (if you choose this option). Users who do not wish to receive cookies can instruct their web browsers to refuse them.  
  
 
 
 * ### Information Collected on WOMOW Account Members
 
-As part of registering with WOMOW, either as a Member as a Business, we collect personal information about you in order to provide a you, and other WOMOW users, with a good service. Registration is completely optional, but some functions require registration (for instance, submitting a rating, or editing your business information).
+As part of registering with WOMOW, either as a Member as a Business, we collect personal information about you in order to provide a you, and other WOMOW users, with a good service. Registration is completely optional, but some functions require registration (for instance, submitting a review, or editing your business information).
 
-For members, the Display Name you select, along with your suburb and a photo (if you upload one) are the only pieces of information shown publicly on the WOMOW website. In addition, other WOMOW users can see a list of the ratings you've submitted, other members you've nominated as your friends, any advice forum entries you've submitted, and any contributions to fundraisers (in the form of ratings) you've made.
+For members, the Display Name you select, along with your suburb and a photo (if you upload one) are the only pieces of information shown publicly on the WOMOW website. In addition, other WOMOW users can see a list of the reviews you've submitted, other members you've nominated as your friends, any advice forum entries you've submitted, and any contributions to fundraisers (in the form of reviews) you've made.
 
 For businesses, the Manage My Business page tells you which information is publicly displayed.  
  
 
-* ### Information Collected from Ratings & Other User Content
+* ### Information Collected from Reviews & Other User Content
 
-You can publish ratings, comments, advice forum entries, fundraisers, your business or member profile, and other content to the WOMOW website. Your ratings are displayed publicly, but you can opt whether or not you wish to remain anonymous for each rating you submit. When you do not choose to remain anonymous, other WOMOW users can see your Display Name, your suburb (if you enter one), and the photo that you upload (if you upload one). You can choose your own Display Name so this can be as anonymous, or as identifying as you like. You can also change your Display Name at any time (and this change will affect all past ratings you have submitted, as well as all subsequent ratings). Your Display Name is also shown automatically against any Advice Forum posts, comments to ratings, fundraisers, and any other content that you post on the WOMOW website.
+You can publish reviews, comments, advice forum entries, fundraisers, your business or member profile, and other content to the WOMOW website. Your reviews are displayed publicly, but you can opt whether or not you wish to remain anonymous for each review you submit. When you do not choose to remain anonymous, other WOMOW users can see your Display Name, your suburb (if you enter one), and the photo that you upload (if you upload one). You can choose your own Display Name so this can be as anonymous, or as identifying as you like. You can also change your Display Name at any time (and this change will affect all past reviews you have submitted, as well as all subsequent reviews). Your Display Name is also shown automatically against any Advice Forum posts, comments to reviews, fundraisers, and any other content that you post on the WOMOW website.
 
-WOMOW, and our licensees, can republish your content as described in the [WOMOW Conditions of Use](https://web.archive.org/web/20090930113926id_/http%3A//www.womow.com.au/about.php?opt=Conditions%20of%20Use). We publish ratings, business, fundraiser and other content and aggregate these to provide the WOMOW website and service.  
+WOMOW, and our licensees, can republish your content as described in the [WOMOW Conditions of Use](https://web.archive.org/web/20110303190619id_/http%3A//www.womow.com.au/about.php?opt=Conditions%20of%20Use). We publish reviews, business, fundraiser and other content and aggregate these to provide the WOMOW website and service.  
  
 
 * ### Information Collected by Email
@@ -62,7 +62,7 @@ If you change your personal data or content, we usually update our databases imm
 
 * ### How We Use Personal Information
 
-In general, we use personal information to process your requests and provide you with service, verify that any ratings or other content you post is genuine and legitimate, or to inform you about products or services that we think will be of interest to you. When we use personal information in our marketing efforts, we provide you with options to opt-out of these types of communications and do not disclose your information to third parties, except as described in this Policy. Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information. We absolutely do not transfer or sell your information for inclusion on third party email or other marketing lists.  
+In general, we use personal information to process your requests and provide you with service, verify that any reviews or other content you post is genuine and legitimate, or to inform you about products or services that we think will be of interest to you. When we use personal information in our marketing efforts, we provide you with options to opt-out of these types of communications and do not disclose your information to third parties, except as described in this Policy. Personal information provided online may be linked together or merged with other personal information so that we may better understand your needs and inform you about our products or services and those of our partners. In addition, if we receive information from third parties with whom we have business relationships, we may combine this information with the other personal information we maintain about you. In either case, this Policy governs this information. We absolutely do not transfer or sell your information for inclusion on third party email or other marketing lists.  
  
 
 * ### Security
@@ -84,7 +84,7 @@ In addition, we may disclose personal information when we believe that we are la
 
 * ### Feedback
 
-We welcome your feedback. If you have any comments or concerns about this Privacy Policy or would like to contact us for any reason, please [click here for our contact details](https://web.archive.org/web/20090930113926id_/http%3A//www.womow.com.au/contactus.php).  
+We welcome your feedback. If you have any comments or concerns about this Privacy Policy or would like to contact us for any reason, please [click here for our contact details](https://web.archive.org/web/20110303190619id_/http%3A//www.womow.com.au/contactus.php).  
  
 
 * ### Policy Changes
