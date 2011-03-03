@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsreg.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230091331id_/http%3A//www.lyricsreg.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsreg.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303173850id_/http%3A//www.lyricsreg.com/privacy_policy) for the most accurate reproduction.*
 
 # Lyrics and Albums
 
