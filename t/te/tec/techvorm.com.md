@@ -1,29 +1,32 @@
-> *The following text is extracted and transformed from the techvorm.com privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010143843id_/http%3A//www.techvorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techvorm.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304002422id_/http%3A//www.techvorm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechVorm
 
-## Privacy Policy
+**Your Privacy**  
+Privacy of readers of TechVorm is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-****[TechVorm](http://www.techvorm.com/)**** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
+**Advertisement**
 
-## Routine Information Collection
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+**Google Adsense and the DoubleClick DART Cookie**
 
-## Cookies and Web Beacons
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-Where necessary, **[TechVorm](http://www.techvorm.com/)** uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, European Cruise Advisor has no access or control over these cookies that may be used by third party advertisers.
 
-## Controlling Your Privacy
+**Collection of Personal Information**
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
+When visiting TechVorm, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-## Special Note About Google Advertising
+**Links to third party Websites**
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+Some articles on TechVorm have links pointing to other website(s), blog(s) for your use and reference. We are not responsible for the privacy policies on these website(s), blog(s). You should be aware that the privacy policies of these sites may differ from our own and thus advise you to be careful while surfing those website(s), blog(s).
 
-## Contact Information
+**Changes to this Privacy Statement**
 
-Concerns or questions about this privacy policy can be directed to **admin@techvorm.com** for further clarification.
+The contents of this statement may be altered at any time, at our discretion.
+
+If you have any questions regarding the privacy policy of TechVorm then you may contact us at admin[at]techvorm.com
