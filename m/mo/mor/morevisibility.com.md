@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330102112id_/http%3A//www.morevisibility.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303174243id_/http%3A//www.morevisibility.com/privacy_policy.php) for the most accurate reproduction.*
 
 # MoreVisibility's Privacy Policy
 
@@ -16,7 +16,7 @@ We collect only the domain name, but not the e-mail address of visitors to our W
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used by us to contact consumers for marketing purposes.
 
-With respect to cookies: We do not set any cookies. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address.
+MoreVisibility uses [Google Analytics](http://www.google.com/analytics/), and is a [Google Analytics Authorized Consultant](http://www.google.com/analytics/authorized_consultants.html). Google Analytics uses four first-party cookies that are set on a visitor’s computer which allow anonymous web site usage data to be collected. MoreVisibility uses this anonymous information to study and observe how our web site is performing, and how we can improve the user-experience of our web site. MoreVisibility does not in any way, shape, or form re-distribute, re-sell, or make publicly available the anonymous web site data that we collect. The first-party cookies set on your computer by our web site are 128-bit secure socket layer (SSL) encrypted, and can only be read by our primary domain 
 
 From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, writing to us at the above address.
 
@@ -40,4 +40,4 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
