@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the outbrain.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914215441id_/http%3A//www.outbrain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outbrain.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303181823id_/http%3A//www.outbrain.com/privacy) for the most accurate reproduction.*
 
 # Outbrain - Privacy
 
 ##  Privacy Policy
 
-Last updated: 03/22/09
+Last updated: 11/11/10
 
 Outbrain is a collaborative intelligence platform. As such, it is predicated on the idea of sharing the intelligence of voting patterns among the outbrain community for the benefit of all outbrain users. We collect the following data through your use of our service:
 
@@ -16,7 +16,7 @@ Outbrain is a collaborative intelligence platform. As such, it is predicated on 
 
 
 
-As part of the outbrain service, your ratings on documents may be shared publicly and associated to the username you chose when signing up for the service. In addition, if you register on the site, your ratings and web page browsing history will be associated with the registration and personal data you provide and we will use that information to provide you with more targeted recommendations. However, any personally identifiable data you provide or that we collect about you will not be shared with 3rd parties (other than our service providers), unless required by law.
+As part of the outbrain service, your ratings on documents may be shared publicly and associated to the username you chose when signing up for the service. In addition, if you register on the site, your ratings and web page browsing history will be associated with the registration and personal data you provide and we will use that information to provide you with more targeted recommendations, and that information may be transferred within and to the United States and other countries and territories. However, any personally identifiable data you provide or that we collect about you will not be shared with 3rd parties (other than our service providers), unless required by law.
 
 We use small text files stored on your web browser (otherwise known as cookies) for the purpose of better tailoring recommendations and sponsored recommendations to your preferences over time. We also use them in order to keep you logged in to the outbrain service if you register with us. These cookies may include a unique anonymous identifier along with information about the particular type of content in which you have shown interest. We may use your rating and web browsing information to try to show you specific recommendations and sponsored recommendations that we think will be of particular interest to you. We may combine information about your web browsing or rating patterns with those of other people who see outbrain services in order to share trend information-always in aggregate and anonymously-- with 3rd parties. For instance, we may use it as part of an aggregated number to tell a prospective sponsor how many people in the outbrain network visit Sports web sites each month.
 
