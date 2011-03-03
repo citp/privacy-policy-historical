@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the help.weebly.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217072556id_/http%3A//www.weebly.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the help.weebly.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303164558id_/http%3A//www.weebly.com/privacy.html) for the most accurate reproduction.*
 
 # Weebly - Create a free website and a free blog
 
-**What This Privacy Policy Covers**
+[](http://www.truste.org/ivalidate.php?url=www.weebly.com&sealid=101) **What This Privacy Policy Covers**
 
 This policy covers how Weebly, Inc., a Delaware corporation ("Weebly," "we," "us," or "our") treats personal information that it collects and receives on www.weebly.com. We are not in the business of selling information about you: we use information shared with us for the sole purpose of running and improving our services. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns. 
 
 **Information We Gather**
 
-  * Weebly collects personal information when you register with us, use Weebly products or services or post content on a Weebly web site. This information is limited to your email address, username, and any information you post on your site. Your password is stored securely using a one way hash function.
+  * Weebly collects personal information when you register with us, use Weebly products or services or post content on a Weebly web site or blog. This information is limited to your email address, username, and any information you post on your site. Your password is stored securely using a one way hash function.
   * Weebly may also collect personal information if you enter into promotions or sweepstakes.
-  * Weebly may automatically receive and record information on our server logs from your browser, including your IP address, cookies, and the pages you request.
+  * Weebly may automatically receive and record information on our server logs from your browser, including your IP address, cookies, and the pages you request. We also may collect other use information as part of our analytics services, in order to improve the service. However, we do not link such information to any personally identifiable information you submit while on our site.
+  * Weebly may collect billing information if you sign up for a paid service, which may include your name, address, telephone number, credit card details, and other information that is necessary in order to process the transaction. Under no circumstance do we store any of your sensitive billing details.
+  * When signing up for the affiliate program, Weebly may collect additional details in order to process payments and comply with tax law, which may include your social security number or EIN, your address, and other information as appropriate.
   * Weebly uses information for the following general purposes: products and services provision, identification and authentication, services improvement, support, contact, research, and anonymous reporting.
 
 
@@ -18,8 +20,7 @@ This policy covers how Weebly, Inc., a Delaware corporation ("Weebly," "we," "us
 **Billing information**
 
   * Should you sign up for a Weebly pro account or register a domain through us, we require your billing information in order to process the transaction.
-  * We do not store your billing information, and this information will be discarded after your transaction has been processed.
-  * We will retain the last 4 digits of your credit card number, and credit card type, so that you may identify the card used in the future.
+  * We will retain the last 4 digits of your credit card number and credit card type, so that you may identify that card used in the future. We do not store any other billing information, as this information is discarded after your transaction has been processed.
   * If your subscription is auto-renewing, a recurring subscription will be created at our payment gateway, Authorize.net. Authorize.net will store your billing information on their secure payment gateway for as long as necessary to carry out the terms of your subscription.
   * Should you cancel your subscription, your billing information will be immediately removed by Authorize.net
   * All transactions are processed over an industry standard SSL/TLS connection, with a minimum of 128-bit encryption.
@@ -58,11 +59,14 @@ This policy covers how Weebly, Inc., a Delaware corporation ("Weebly," "we," "us
 **Information Use, Sharing and Disclosure**
 
   * Weebly does not share personal information we learn about you from your use of the Weebly web sites, products and services with others except as described in this policy.
-  * Weebly may use or share your personal information where it is necessary to complete a transaction, to operate or improve the Weebly products and services, or to do something that you have asked us to do.
+  * We do not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes.
+  * Weebly may use or share your personal information where it is necessary to complete a transaction, to operate or improve the Weebly products and services, or to do something that you have asked us to do. We use other third parties such as a credit card processing company to bill you for goods and services. These third parties are prohibited from using your personally identifiable information for promotional purposes.
   * From time to time, Weebly or a partner may sponsor a promotion, sweepstake or contest on Weebly. You may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. This information will be used strictly for the purpose of notifying and arranging delivery of promotional items to the person selected.
+  * You may opt out of emails you receive from Weebly or any of our partners for promotions, sweepstakes, contests or newsletters by visiting http://www.weebly.com/weebly/unsubscribe.php.
   * When you register for Weebly, we collect user-submitted account information such as username and email address to identify users and send notifications related to the use of the service.
-  * When you post content on a Weebly web site, you have the ability to post content which may include personally identifiable information about yourself.
+  * When you post content on a Weebly web site or blog, you have the ability to post content which may include personally identifiable information about yourself.
   * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+  * If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Weebly stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at http://www.weebly.com/weebly/unsubscribe.php to request that we remove this information from our database.
   * Weebly may share personally identifiable information about you under the following circumstances:
     * We may share your personal information to respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or, defend against legal claims and if in our judgment in such circumstances disclosure is required or appropriate.
     * We may share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our various terms of use, or as otherwise required by law.
@@ -73,6 +77,10 @@ This policy covers how Weebly, Inc., a Delaware corporation ("Weebly," "we," "us
 **Changes to this Privacy Policy**
 
 Weebly may revise, modify or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular Weebly account or by placing a prominent notice on our site. 
+
+**Widgets**
+
+Widgets may support functions that require that you disclose certain personally identifiable information given the user's choice of participation. This information is collected in many different ways such as: forms, surveys, contests, forums, subscribing or unsubscribing to mailings and correcting or updating personally identifiable information and are only used for the purpose in which they were collected. Forms which require sensitive information such as financial information (credit card) to process purchases for products or services are SSL encrypted to protect your sensitive information. 
 
 **Confidentiality and Security**
 
@@ -90,9 +98,24 @@ If Weebly learns of a security systems breach we may attempt to notify you elect
 
   * You can edit your account information with Weebly at any time.
   * You can delete your applicable account by visiting the applicable account deletion page; however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements.
+  * If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete such information by making the change on our user home page, or by emailing our Customer Support at support@weebly.com.
 
 
 
 **Contacting Weebly**
 
-If you have a privacy concern regarding Weebly, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at [info@weebly.com](mailto:info@weebly.com).
+If you have a privacy concern regarding Weebly, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a support request at http://www.weebly.com/support/ or you can write to us by email at [info@weebly.com](mailto:info@weebly.com) or by mail at:
+
+Weebly, Inc.
+
+447 Battery St, #250
+
+San Francisco, CA 94111
+
+**TRUSTe**
+
+Weebly is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe. This privacy statement covers the URL weebly.com. 
+
+If you have questions or concerns regarding this statement, you should first contact us at support@weebly.com. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+
+**Last updated on June 4th, 2009.**
