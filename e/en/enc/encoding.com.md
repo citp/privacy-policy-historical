@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226061415id_/https%3A//www.encoding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encoding.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303204451id_/https%3A//www.encoding.com/privacy) for the most accurate reproduction.*
 
 # On Demand Video Encoding
 
