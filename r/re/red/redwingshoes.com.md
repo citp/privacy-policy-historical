@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the redwingshoes.com privacy policy that was archived on 2005-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051227061152id_/http%3A//www.redwingshoes.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redwingshoes.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304000409id_/http%3A//www.redwingshoes.com/privacy.htm) for the most accurate reproduction.*
 
-# Red Wing Shoes - Privacy Policy
-
-Privacy Policy
+# Privacy Policy
 
 **Red Wing Shoe Company, Inc. Privacy Policy**
 
