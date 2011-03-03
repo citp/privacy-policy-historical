@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runkeeper.com privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830183329id_/http%3A//runkeeper.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runkeeper.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303182816id_/http%3A//runkeeper.com/privacypolicy) for the most accurate reproduction.*
 
 # RunKeeper
 
