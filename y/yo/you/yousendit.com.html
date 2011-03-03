@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the yousendit.com privacy policy that was archived on 2010-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101020125618id_/https%3A//www.yousendit.com/aboutus/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yousendit.com privacy policy that was archived on 2011-03-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110303234258id_/https%3A//www.yousendit.com/aboutus/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="Privacy">
 <meta name="description" content="Privacy information for YouSendIt. For your file shares and uploading large files.">
+<meta name="robots" content="index,follow">
 <meta name="title" content="Privacy | YouSendIt">
-<meta name="robots" content="index, follow">
 <title>Privacy | YouSendIt</title>
 <!--  Included for Internationalization -->
 
@@ -14,8 +14,7 @@
 <![endif]-->
 
 
-<script type="text/javascript" src="//www.yousendit.com/en_US/js/jquery_plugins.min.4.3.5-b2.js"></script>
-
+<script type="text/javascript" src="//www.yousendit.com/en_US/js/jquery_plugins.min.4.5.5-b3.js"></script>
 
 <link rel="shortcut icon" href="/favicon.ico">
 <script>
@@ -26,14 +25,14 @@
 </head>
 
 <body>
-<script type="text/javascript" src="//www.yousendit.com/en_US/js/s_code.4.3.5-b2.js"></script>
+<script type="text/javascript" src="//www.yousendit.com/en_US/js/s_code_ysi.4.5.5-b3.js"></script>
 <div id="global-nav-wrapper">
 <div class="container">
 
      <div class="span-42 last">
    <input type="hidden" id="omniturePageName" name="omniturePageName" value="privacy"><input type="hidden" id="ysi_hd_select" name="ysi_hd_select" value=""><div style=""><!--PHI COMPONENT NAME: banner STARTS HERE--> 
 <div class="span-10">
-		<a href="/">
+		<a id="hpLink" href="/?incid=YouSendItLogo;">
 			<img id="logo_img" width="110" height="63" src="//www.yousendit.com/en_US/theme_default/images/g_logo_trans_110x63.gif" alt="YouSendIt Send Large Files using FTP Replacement with YouSendIt" title="YouSendIt Send Large Files using FTP Replacement with YouSendIt" longdesc="YouSendIt.com" style="margin-top:-1px;">
 		</a>
 </div>
@@ -48,15 +47,122 @@
 	<div id="hd_login" class="ysi-hd-login">
 		
 		<div class="hd-nav-bar">
-							<a id="login" href="/login">Login</a><span class="hd-nav-vdiv">|</span><a href="/compare-plans">Sign Up</a><span class="hd-nav-vdiv">|</span><a href="/aboutus/contactus">Contact Us</a>						</div>
+							<a id="login" href="/login">Login</a><span class="hd-nav-vdiv">|</span><a href="/compare-plans">Sign Up</a><span class="hd-nav-vdiv">|</span><a href="/support">Help Center</a>						</div>
 	</div>
-    
+
     <div class="ysi-arrow-border" style="display:none;"></div>
 	<div class="ysi-arrow" style="display:none;"></div>
 </div>
 
 
 <!-- Modal windows -->
+<style>
+	.sel-container { border-style: solid; border-color: #AAD56C; border-width: 1px; margin-bottom:20px; padding: 10px; min-height: 40px; background-color: #F3F8D8; }
+	.sel-container-inner { padding-left: 10px;}
+	.sel-opt1 {font-size:13px;}
+	.sel-opt2 {font-size:12px; color:#878787;}
+	.ysi-btn-buynow {padding-left: 25px;}
+	#paymentFailedFeatureList li{font-size:14px;line-height:28px;color:#666666; list-style-image:url(//www.yousendit.com/en_US/theme_default/images/i_compare_check_21x21.gif);}
+</style>
+<div id="ysi_dlg_payment_failed" style="display:none; margin: 0; text-align:left;" title="Payment Failed">
+
+	<div class="sel-opt1" style="padding: 10px 0px 20px; line-height: 15px;">
+		In order to continue to use our premium plan benefits, you will need to update your credit card information.  Remember our premium members enjoy:	</div>
+
+	<div id="paymentFailedFeatureList">
+		<ul style="margin-left:20px;list-style-image:url(//www.yousendit.com/en_US/theme_default/images/i_compare_check_21x21.gif);">
+			<li>Unlimited Sends up to 2GB</li>
+			<li>Send whole folders</li>
+			<li>Track your sent files</li>
+		</ul>
+	</div>
+
+	<div class="sel-container ui-corner-all">
+		<div id="verify_cc_action" class="sel-container-inner">
+			<div>
+				<input id="verify_cc_info_radio" name="verify_cc_info" type="radio" value="1">
+				<label for="verify_cc_info_radio" class="sel-opt1">Verify your credit card information</label><br>
+				<input id="continue_as_lite_radio" name="verify_cc_info" type="radio" value="2">
+				<label for="continue_as_lite_radio" class="sel-opt1"><span class="tooltip" title="Lite account users can send up to 100 MB files.  All files expire after 7 days.">Continue as YouSendItLite</span></label><br>
+			</div>
+		</div>
+	</div>
+
+	<div>
+		<img id="ysi_btn_payment_failed_continue" height="31" width="110" style="cursor:pointer" src="//www.yousendit.com/en_US/theme_default/images/b_continue_grn.jpg" alt="CONTINUE" title="CONTINUE">
+	</div>
+</div>
+
+
+<script>
+	var isLoggedIn = false;
+
+	function showPaymentFailedDialog() {
+		$('#ysi_dlg_payment_failed').dialog('open');
+	}
+	function closePaymentFailedDialog() {
+		$('#ysi_dlg_payment_failed').dialog('close');
+	}
+
+
+	$(document).ready(function () {
+
+		// Post upload Pro Signup dialog
+		$("#ysi_dlg_payment_failed").dialog({
+			height: 'auto',
+			autoOpen: false,
+			width: 540,
+			open: function (event, ui) {
+				$(".ui-dialog-titlebar-close").hide();
+				$(".ui-dialog .ui-dialog-titlebar").show().css('margin','20px 20px 0px 15px');
+				$(".ui-dialog-content").css('padding','0px 20px 20px');
+				$('input:radio[name="verify_cc_info"]').filter('[value="1"]').attr('checked',true);
+				var psModalData = {
+					pagename:getPageName(),
+					modalname:'checkPaymentFailedDialog',
+					triggertype:'s',
+					keyframe:1
+				}
+				trackmodaldetailed (psModalData);
+			}
+		});
+
+		$("#ysi_btn_payment_failed_continue").click(function(){
+			if($("#verify_cc_info_radio:checked").val()) {
+				window.location = "/ccdetails";
+			} else if (typeof(loginData) != 'undefined') {
+				if (loginData.msg == 'v2'){
+					window.location = "https://www.yousendit.com/?myaccount=true";
+					return;
+				} else if(loginData.msg=='v3'){
+					window.location = redirect_url;
+					return;
+				} else if (loginData.msg=='hasWorkspace'){
+			  		window.location = "myworkspace"; 
+					return;
+				} else if(loginData.msg=='v2NotActive'){
+					window.location = "https://www.yousendit.com/resend_activate_auto.php";
+					return;
+				} else if(loginData.msg=='201'){
+					$("#ysi_btn_hd_login, #basic-modal-content-cancel, #ysi_btn_hd_login_dis").toggle();
+					$("#basic-modal-content").dialog('close');
+					$('#ysi_dlg_login_ad_only').dialog('open');
+					return;
+				} else if((typeof loginData.fromAPI != 'undefined') && loginData.fromAPI){
+					$("#ysi_exists_msg").hide();
+					$("#ysi_verify_msg").show().html(loginData.msg);
+					$("#ysi_btn_hd_login, #ysi_btn_hd_login_dis, #basic-modal-content-cancel").toggle();
+					return;
+				} else {
+					window.location = "/overview";
+				}
+			} else {
+				$('#ysi_dlg_payment_failed').dialog('close');
+				return;
+			}
+		});
+	});
+</script>
 <style>
 	.labelDiv {float:left;width: 70px; text-align: right; float: left; padding-right: 10px;}
 	.label-style {font:Arial, Helvetica, sans-serif; font-size:11px; font-weight: 100; color:#676767;vertical-align:sub;}
@@ -65,11 +171,11 @@
 	.emptyDiv {width: 70px; float: left; padding-right: 10px;}
 	.lgnTxt {font-size:12px;color:#676767;}
 	input.lgnInput {width:200px; padding:0.15em 0.4em;}
-	#basic-modal-content h1 { font-family: "Lucida Grande",sans-serif; margin:2px 0 4px;}
+	.login-header-title { font-family:"Lucida Sans Unicode","Lucida Grande",sans-serif; font-weight:bold; line-height:28px; margin:2px 0 4px; font-size:24px; color:#8dc63f; }
 </style>
 <div id="basic-modal-content" class="simplemodal-container" style="display:none;">
 	<div style="text-align: left; padding: 10px 20px 20px;">
-		<h1>Login</h1>
+		<div class="login-header-title">Login</div>
 
 		<div id="ysi_exists_msg" class="infoDisplay">Your email address is already registered. Please log in.</div>
 		<div id="ysi_verify_msg" class="errorDisplay" style="display:none;"></div>
@@ -141,56 +247,70 @@
 	});
 
 	function doUserLogin(){
-
+	
 		if(! $("#ysi_hd_login").valid() ) {
 			return false;
 		}
-
+	
 		if(typeof login_dialog.customizedLogin == 'function') {
 			login_dialog.customizedLogin();
 			return false;
 		}
-
+	
 		$("#ysi_btn_hd_login, #basic-modal-content-cancel, #ysi_btn_hd_login_dis").toggle();
 		$.post(
 		"/login?phi_action=app/getLoginInfo",
 		{ysi_email: $('#ysi_su_email').val(),
 		ysi_password: $('#ysi_su_pwd').val()},
 		function(data){
-			data = jQuery.trim(data);
-			var uri = "/aboutus/legal/privacy?";
-			var uri_array = uri.split('?');
-			uri_array_value = [];
-			uri_check = '';
-			if(uri_array.length > 1) { uri_array_value = uri_array[1].split('&'); }
-			if(uri_array_value.length > 0) { uri_check = uri_array[0]; }
-			if(uri_check.indexOf('protrialsignup')!=-1) {
-				redirect_url="/protrialsignup?"+uri_array[1];
-			} else if(uri_check.indexOf('upgrade')!=-1 || uri_check.indexOf('prosignup')!=-1 ) {
-				redirect_url="/compareaccounts";
+			redirect_url = ''; // yes, it is global.  It's needed in the payment failure dialog
+			loginData = data // set global loginData variable
+			if(typeof data.orgUrl == 'undefined') {
+				redirect_url = "/";
 			} else {
-				redirect_url = '';
-				if (redirect_url)  // Embedded so don't go to overview
-					redirect_url = '/uploadLoggedInPortable';
-				else
-					redirect_url="/overview";
+				redirect_url = data.orgUrl;
 			}
-			if (data == 'v2'){
-				window.location = "https://www.yousendit.com/?myaccount=true";
-			} else if (data=='v3'){
-				window.location = redirect_url;
-			} else if (data=='v2NotActive'){
-				window.location = "https://www.yousendit.com/resend_activate_auto.php";
-			} else if (data=='201'){
-				$("#ysi_btn_hd_login, #basic-modal-content-cancel, #ysi_btn_hd_login_dis").toggle();
-				$("#basic-modal-content").dialog('close');
-				$('#ysi_dlg_login_ad_only').dialog('open');
-			} else {
-				$("#ysi_exists_msg").hide();
-				$("#ysi_verify_msg").show().html("Email address or password is invalid. Please try again.");
-				$("#ysi_btn_hd_login, #ysi_btn_hd_login_dis, #basic-modal-content-cancel").toggle();
-			}
-		});
+	
+			do{
+				if(typeof data != 'object' || typeof data.msg == 'undefined') break;
+
+				if (data.transFailure){
+					login_dialog.dialog('close');
+					if (typeof showPaymentFailedDialog == "function") {
+						showPaymentFailedDialog();
+					}
+					else {
+						showError('Error:', 'There is a potential problem with your payment method on file.  Please go to My Account and check your Billing information.');
+						return;
+					}
+				} else if (data.msg == 'v2'){
+					window.location = "https://www.yousendit.com/?myaccount=true";
+					return;
+				} else if(data.msg=='v3'){
+					window.location = redirect_url;
+					return;
+        } else if (data.msg=='hasWorkspace'){
+          window.location = "myworkspace"; 
+					return;
+				} else if(data.msg=='v2NotActive'){
+					window.location = "https://www.yousendit.com/resend_activate_auto.php";
+					return;
+				} else if(data.msg=='201'){
+					$("#ysi_btn_hd_login, #basic-modal-content-cancel, #ysi_btn_hd_login_dis").toggle();
+					$("#basic-modal-content").dialog('close');
+					$('#ysi_dlg_login_ad_only').dialog('open');
+					return;
+				} else if((typeof data.fromAPI != 'undefined') && data.fromAPI){
+					$("#ysi_exists_msg").hide();
+					$("#ysi_verify_msg").show().html(data.msg);
+					$("#ysi_btn_hd_login, #ysi_btn_hd_login_dis, #basic-modal-content-cancel").toggle();
+					return;
+				}
+			}while(false);
+			$("#ysi_exists_msg").hide();
+			$("#ysi_verify_msg").show().html("Email address or password is invalid. Please try again.");
+			$("#ysi_btn_hd_login, #ysi_btn_hd_login_dis, #basic-modal-content-cancel").toggle();
+		},'json');
 	}
 </script>
 
@@ -201,31 +321,23 @@
 </div><br><!--PHI COMPONENT NAME: topNav STARTS HERE--> 
   <!-- ul id="top-main-menu" -->
    <style>
-.hd-lg { background-image: url("/en_US/theme_default/images/b_hp_graphic_05.png");background-position: -5px -182px; padding-left: 20px; }
+.hd-lg { background-image: url("/en_US/theme_default/images/b_hp_graphic_05.png"); background-position: -5px -182px; padding-left: 20px; }
+div.new { background:url("/en_US/theme_default/images/content/tag_new.png") no-repeat scroll 0 0 transparent; height:8px; width:20px; display:inline-block; position:absolute; left:95px; bottom:25px; }
 </style>
 <div id="hd" class="span-42" style="margin-top: -30px;margin-left: -20px;">
-
-	<div class="span-6">&nbsp;</div>
-
-	<div id="nav-menu" class="span-36 last tm-push-6" style="margin-bottom:0px;">
-		
-				<ul id="nav_menu_guest">
-			<li id="ysi_plans_signup" class="first"><a href="http://www.yousendit.com/compare-plans"><span>Plans &amp; Sign Up</span></a></li>
-     			<li id="ysi_trial"><a href="/trials"><span>Free Trial</span></a></li>
-			<li id="ysi_how"><a href="http://www.yousendit.com/how-it-works"><span>How It Works</span></a></li>
-        			<li id="ysi_productivity"><a href="http://www.yousendit.com/productivity-tools"><span>Productivity Tools</span></a></li>
-			<li id="ysi_business"><a href="http://www.yousendit.com/business" onclick="s_objectID='forbusiness-guest-nav-top'" class="last"><span>For Business</span></a></li>
-            		<li id="ysi_lg"><a href="#" class="last"><span class="hd-lg">Login</span></a></li>
-		</ul>
-
-
-		
-	</div>
-
-
+  <div class="span-6">&nbsp;</div>
+  <div id="nav-menu" class="span-36 last tm-push-6" style="margin-bottom:0px;">
+            <ul id="nav_menu_guest">
+      <li id="ysi_plans_signup" class="first"><a href="http://www.yousendit.com/compare-plans?incid=topNavPlansSignUp_txt"><span>Plans &amp; Sign Up</span></a></li>
+      <li id="ysi_trial"><a href="/trials?incid=topNavFreeTrial_txt"><span>Free Trial</span></a></li>
+      <li id="ysi_how"><a href="http://www.yousendit.com/how-it-works"><span>How It Works</span></a></li>
+      <li id="ysi_productivity"><a href="http://www.yousendit.com/productivity-tools"><span>Productivity Tools</span></a></li>
+      <li id="ysi_business"><a href="http://www.yousendit.com/business" onclick="s_objectID='forbusiness-guest-nav-top'" class="last"><div class="new"></div><span>For Business</span></a></li>
+            <li><a href="/login" class="last"><span class="hd-lg">Login</span></a></li>
+          </ul>
+      </div>
 </div>
-
-<script type="text/javascript" src="//www.yousendit.com/en_US/js/ysi_common.4.3.5-b2.js"></script><!-- /ul -->
+<script type="text/javascript" src="//www.yousendit.com/en_US/js/ysi_common.4.5.5-b3.js"></script><!-- /ul -->
 <!--PHI COMPONENT NAME: topNav END HERE--> 
    </div> 
 
@@ -279,136 +391,113 @@
    <div class="span-33 last">
          <input type="hidden" id="omniturePageName" name="omniturePageName" value="privacy"><input type="hidden" id="ysi_hd_select" name="ysi_hd_select" value=""><!--PHI COMPONENT NAME: bcPrivacy STARTS HERE--> 
 <link href="//www.yousendit.com/en_US/theme_default/css/ysi_content.css" rel="stylesheet" type="text/css">
+
 <style type="text/css">
-.breadcrumbL1 {font-size:13px; margin:-10px 0 -15px 0; padding:0;}
-.breadcrumbL1end {color:#4b63ae;font-size:13px; margin:-10px 0 -15px 0; padding:0;}
-.breadcrumbL2 {font-size:13px; margin:-10px 0 -25px 5px; padding:0;}
-.breadcrumbL2end {color:#4b63ae;font-size:13px; margin:-10px 0 -25px 0; padding:0;}
+.breadcrumbL1 {font-size:12px; margin:-10px 0 -15px 0; padding:0;}
+.breadcrumbL1end {color:#676767;font-size:12px; margin:-10px 0 -15px 0; padding:0;}
+.breadcrumbL2 {font-size:12px; margin:-10px 0 -25px 5px; padding:0;}
+.breadcrumbL2end {color:#676767;font-size:12px; margin:-10px 0 -25px 0; padding:0;}
 </style>
 
 <div class="breadcrumbL1">
-<a href="/">Home</a> &gt; <a href="/aboutus">About Us</a> &gt; <a href="/aboutus/legal">Legal</a> &gt; <span class="breadcrumbL1end">Privacy</span>
-</div><!--PHI COMPONENT NAME: bcPrivacy END HERE--> 
+<a href="/">Home</a> &gt; <a href="/aboutus">About Us</a> &gt; <a href="/aboutus/legal/terms-of-service">Legal</a> &gt; <span class="breadcrumbL1end">Privacy</span>
+</div>
+<!--PHI COMPONENT NAME: bcPrivacy END HERE--> 
 <br><!--PHI COMPONENT NAME: privacyContent STARTS HERE--> 
 <link href="//www.yousendit.com/en_US/theme_default/css/ysi_content.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-.backToTop {
-	font-size:12px;
-	line-height:30px;
-	padding-left:8px;
-}
+.backToTop { font-size:12px; line-height:30px; padding-left:8px; }
 </style>
 <h1>Privacy</h1>
 <div class="hr"></div>
-<p>
-  <i>Last Updated: 10-Jun-10</i>
-</p>
-<p><a href="http://www.truste.org/ivalidate.php?url=www.yousendit.com" target="_blank">
-  <img src="/en_US/theme_default/images/content/truste_seal_ctv.gif" alt="TRUSTe: Click to Verify" width="68" height="95" hspace="10" vspace="5" border="0" align="right"></a>
-  YouSendIt, Inc. ("YouSendIt") is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit
-  organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information
+<p> <i>Last Updated: 10-Jun-10</i> </p>
+<p><a href="http://www.truste.org/ivalidate.php?url=www.yousendit.com" target="_blank" title="eTrust Logo"> <img src="//www.yousendit.com/en_US/theme_default/images/content/truste_seal_ctv.gif" alt="TRUSTe: Click to Verify" width="68" height="95" hspace="10" vspace="5" border="0" align="right"></a> YouSendIt, Inc. ("YouSendIt") is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit
+  organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information
   practices.</p>
-<p>
-  The YouSendIt service allows users to send files to one or more recipients identified by a valid email address (the
+<p>The YouSendIt service allows users to send files to one or more recipients identified by a valid email address (the
   "Service") either through the yousendit.com web site (the "Site") or one of the YouSendIt software applications or plug-ins
   available for download from the Site (the "Software"). The Service operates by storing the user files on a YouSendIt server
   and then sending to the recipient(s) an email message that contains a link to the user file. The recipient(s) can then access
-  and download the user file by clicking on the link.
-</p>
-<p>
-  We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of
+  and download the user file by clicking on the link.</p>
+<p>We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of
   the personal information we receive from users of the Site, the Service and the Software. If you have questions or concerns
-  regarding this Privacy Policy, you should first contact YouSendIt at <a href="mailto:legal@yousendit.com">legal@yousendit.com</a> or at the following address: Privacy Matters c/o YouSendIt, Inc.,
+  regarding this Privacy Policy, you should first contact YouSendIt at <a href="mailto:legal@yousendit.com" title="Email Legal">legal@yousendit.com</a> or at the following address: Privacy Matters c/o YouSendIt, Inc.,
   1919 South Bascom Avenue, Campbell, CA. 95008. If you do not receive acknowledgement of your inquiry or your inquiry has not
-  been satisfactorily addressed, you should then contact TRUSTe through the <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">TRUSTe Watchdog Dispute Resolution Process</a>.
+  been satisfactorily addressed, you should then contact TRUSTe through the <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank" title="eTrust Watchdog Dispute Resolution Process">TRUSTe Watchdog Dispute Resolution Process</a>.
   TRUSTe will then serve as a liaison with us to resolve your concerns.</p>
-<p>
-  We may update this Privacy Policy from time to time and will handle your information in accordance with the version that was
+<p>We may update this Privacy Policy from time to time and will handle your information in accordance with the version that was
   in place when you submitted it. We will notify you of any changes by posting the new Privacy Policy on the Site. We reserve
   the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this
   Privacy Policy, we will notify you here, by email, or by means of a notice on the home page of the Site. Unless otherwise
-  defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our <a href="/aboutus/legal/terms-of-service">YouSendIt Terms of Service</a>.
-</p>
-<p>
-  As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the
+  defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our <a href="/aboutus/legal/terms-of-service" title="Terms of Service">YouSendIt Terms of Service</a>. </p>
+<p>As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the
   information to statistical or other analysis and using or handling information in any way, including without limitation
   collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our
-  organization or among our affiliates within the United States or internationally.
-</p>
+  organization or among our affiliates within the United States or internationally.</p>
 <div style="height:10px;"></div>
-<div class="listFeatures"><ul style="line-height:16px;">
-<li class="listHead"><a name="top"></a>Table of Contents</li>
-<li><span><a href="#information">Information Collection and Use</a></span></li>
-<li><span><a href="#cookies">Cookies</a></span></li>
-<li><span><a href="#emailing">Emailing Via a YouSendIt Account</a></span></li>
-<li><span><a href="#phishing">Phishing</a></span></li>
-<li><span><a href="#information%20sharing">Information Sharing and Disclosure</a></span></li>
-<li><span><a href="#changing">Changing or Deleting Your Information</a></span></li>
-<li><span><a href="#data">Data Retention Policy</a></span></li>
-<li><span><a href="#security">Security</a></span></li>
-<li><span><a href="#international">International Transfer</a></span></li>
-<li><span><a href="#links">Links to Other Sites</a></span></li>
-<li><span><a href="#our">Our Policy Toward Children</a></span></li>
-<li><span><a href="#testimonials">Testimonials</a></span></li>
-<li><span><a href="#contacting">Contacting Us</a></span></li>
-</ul></div>
+<div class="listFeatures">
+  <ul style="line-height:16px;">
+    <li class="listHead"><a name="top"></a>Table of Contents</li>
+    <li><span><a href="#information">Information Collection and Use</a></span></li>
+    <li><span><a href="#cookies">Cookies</a></span></li>
+    <li><span><a href="#emailing">Emailing Via a YouSendIt Account</a></span></li>
+    <li><span><a href="#phishing">Phishing</a></span></li>
+    <li><span><a href="#information_sharing">Information Sharing and Disclosure</a></span></li>
+    <li><span><a href="#changing">Changing or Deleting Your Information</a></span></li>
+    <li><span><a href="#data">Data Retention Policy</a></span></li>
+    <li><span><a href="#security">Security</a></span></li>
+    <li><span><a href="#international">International Transfer</a></span></li>
+    <li><span><a href="#links">Links to Other Sites</a></span></li>
+    <li><span><a href="#our">Our Policy Toward Children</a></span></li>
+    <li><span><a href="#testimonials">Testimonials</a></span></li>
+    <li><span><a href="#contacting">Contacting Us</a></span></li>
+  </ul>
+</div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="information"></a>Information Collection and Use
-</h4>
-<p>
-  Our primary goals in collecting information are to provide and improve the Service, the Site and the related features and
+<h4 id="information">Information Collection and Use</h4>
+<p>Our primary goals in collecting information are to provide and improve the Service, the Site and the related features and
   content, to administer your subscription and to enable users to enjoy and easily navigate the Site. Below are the types and
-  categories of information that we collect.
-</p>
-<div class="listFeatures"><ul>
-  <li><span>When you register with us through the Site or order certain services from us we will ask you for personally identifiable
-  information. This refers to information about you that can be used to contact or identify you ("Personal Information").
-  Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information,
-  email address and home and business postal addresses. We use your Personal Information mainly to provide the Service and
-  administer your inquiries.
-  </span></li>
-  <li><span>We also collect certain other information that you provide as part of registration and the administration and
-  personalization of your profile web page (e.g., without limitation, your zip code and the state in which you live)
-  ("Non-Identifying Information").
-  </span></li>
-  <li><span>We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide
-  the Service, complete your transactions, and respond to inquiries.
-  </span></li>
-  <li><span>We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected
-  from other YouSendIt Users (defined below) to attempt to provide you with a better experience, to improve the quality and
-  value of the Service and to analyze and understand how our Site and Service are used. Subject to the section below titled
-  "Information Sharing and Disclosure," we may also use the combined information without aggregating it to serve you
-  specifically, for instance to deliver a product to you according to your preferences or restrictions.
-  </span></li>
-  <li><span>We also use your Personal Information to contact you with YouSendIt newsletters, marketing or promotional materials and
-  other information that may be of interest to you. If you decide at any time that you no longer wish to receive such
-  communications from us, please follow the unsubscribe instructions provided in any of the communications or email us at
-  <a href="mailto:optout@yousendit.com">optout@yousendit.com</a> with an explicit request to have your information
-  removed from our mailing list. We will comply with your request as soon as reasonably practicable.
-  </span></li>
-</ul></div>
-<p>
-  <em><u>Log Data</u></em>. When you visit the Site or use the Service, whether as a YouSendIt subscriber or a non-registered
+  categories of information that we collect.</p>
+<div class="listFeatures">
+  <ul>
+    <li><span>When you register with us through the Site or order certain services from us we will ask you for personally identifiable
+      information. This refers to information about you that can be used to contact or identify you ("Personal Information").
+      Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information,
+      email address and home and business postal addresses. We use your Personal Information mainly to provide the Service and
+      administer your inquiries.</span></li>
+    <li><span>We also collect certain other information that you provide as part of registration and the administration and
+      personalization of your profile web page (e.g., without limitation, your zip code and the state in which you live)
+      ("Non-Identifying Information").</span></li>
+    <li><span>We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide
+      the Service, complete your transactions, and respond to inquiries.</span></li>
+    <li><span>We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected
+      from other YouSendIt Users (defined below) to attempt to provide you with a better experience, to improve the quality and
+      value of the Service and to analyze and understand how our Site and Service are used. Subject to the section below titled
+      "Information Sharing and Disclosure," we may also use the combined information without aggregating it to serve you
+      specifically, for instance to deliver a product to you according to your preferences or restrictions.</span></li>
+    <li><span>We also use your Personal Information to contact you with YouSendIt newsletters, marketing or promotional materials and
+      other information that may be of interest to you. If you decide at any time that you no longer wish to receive such
+      communications from us, please follow the unsubscribe instructions provided in any of the communications or email us at <a href="mailto:optout@yousendit.com" title="Opt Out Email">optout@yousendit.com</a> with an explicit request to have your information
+      removed from our mailing list. We will comply with your request as soon as reasonably practicable.</span></li>
+  </ul>
+</div>
+<p> <em><u>Log Data</u></em>. When you visit the Site or use the Service, whether as a YouSendIt subscriber or a non-registered
   user just browsing (any of these, a "YouSendIt User"), our servers automatically record information about your use of the
   Service and your visit to the Site ("Log Data"). This Log Data includes the filename and file size of all files that you make
-  available via the Service. The Log Data may also include information such as your computer's Internet Protocol (IP) address,
+  available via the Service. The Log Data may also include information such as your computer’s Internet Protocol (IP) address,
   your browser type, what Software you were using, the web page you were visiting immediately prior to visiting our Site, pages
   of our Site that you visited, the time spent on those pages, information you searched for on our Site, access times and
   dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the
-  Site's technical administration, to improve our Site's functionality and user-friendliness, and to better tailor it to our
-  visitors' needs. We also use this information to verify that users of the Service meet the criteria required to process their
+  Site’s technical administration, to improve our Site’s functionality and user-friendliness, and to better tailor it to our
+  visitors’ needs. We also use this information to verify that users of the Service meet the criteria required to process their
   requests. Because the filenames you submit are not treated as Personal Information, we recommend that you do not include any
   personally identifiable information in the filenames of files that you make available via the Service.<br>
   <span class="backToTop"><a href="#top">Back to Top</a></span></p>
 <div class="hr"></div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="cookies"></a>Cookies
-</h4>
-<p>
-  Like many web sites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your
-  computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to
+<h4 id="cookies">Cookies</h4>
+<p>Like many web sites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your
+  computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to
   save your registration ID and login password for future logins to the Site. Second, we utilize session cookies to enable
   certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by YouSendIt
   Users and general web traffic on the Site. We link the information we store in cookies to the Personal Information you submit
@@ -417,207 +506,161 @@
   access to or control of any cookies that its advertisers may store in your browser and this Privacy Policy does not apply to
   the use of cookies by advertisers. You can instruct your browser, by changing its options, to stop accepting cookies or to
   prompt you before accepting a cookie from the web sites you visit. If you do not accept cookies, however, you may not be able
-  to use all portions of the Site or all the functionality of the Service.
-<br><span class="backToTop"><a href="#top">Back to Top</a></span></p>
+  to use all portions of the Site or all the functionality of the Service. <br>
+  <span class="backToTop"><a href="#top">Back to Top</a></span></p>
 <div class="hr"></div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="emailing"></a>Emailing Via a YouSendIt Account
-</h4>
-<p>
-  As part of the Service, YouSendIt subscribers may send a file to one or more recipients identified by a valid email address.
-  The message created by a YouSendIt subscriber will be sent from YouSendIt on the YouSendIt subscriber's behalf to the email
+<h4 id="emailing">Emailing Via a YouSendIt Account</h4>
+<p>As part of the Service, YouSendIt subscribers may send a file to one or more recipients identified by a valid email address.
+  The message created by a YouSendIt subscriber will be sent from YouSendIt on the YouSendIt subscriber’s behalf to the email
   addresses the YouSendIt subscriber enters into the online form. These email addresses will be stored in the address book the
   YouSendIt subscriber creates and will be used only for the purpose of sending the email communication to the addressee. The
-  recipient of a file may contact us at <a href="mailto:optout@yousendit.com">optout@yousendit.com</a> to request that
-  we remove this information from our database.<br><span class="backToTop"><a href="#top">Back to Top</a></span></p>
+  recipient of a file may contact us at <a href="mailto:optout@yousendit.com" title="Opt Out Email">optout@yousendit.com</a> to request that
+  we remove this information from our database.<br>
+  <span class="backToTop"><a href="#top">Back to Top</a></span></p>
+
 <div class="hr"></div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="phishing"></a>Phishing
-</h4>
-<p>
-  Identity theft and the practice currently known as "phishing" are of great concern to YouSendIt. Safeguarding information to
+<h4 id="phishing">Phishing</h4>
+<p>Identity theft and the practice currently known as "phishing" are of great concern to YouSendIt. Safeguarding information to
   help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card
   information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or
-  telephone communication. For more information about phishing, visit the <a href="http://www.ftc.gov/spam/">Federal Trade
-  Commission's web site.</a><br><span class="backToTop"><a href="#top">Back to Top</a></span></p>
+  telephone communication. For more information about phishing, visit the <a href="http://www.ftc.gov/spam/" title="Federal Trade Commisions Web Site" target="_blank">Federal Trade
+  Commission’s web site.</a><br>
+  <span class="backToTop"><a href="#top">Back to Top</a></span></p>
 <div class="hr"></div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="information%20sharing"></a>Information Sharing and Disclosure
-</h4>
-<p>
-  Other than as described in this section, YouSendIt does not rent or share information about you with third parties.
-</p>
-<p>
-  <a name="OLE_LINK94" id="OLE_LINK94"></a><a name="OLE_LINK95" id="OLE_LINK95"></a> <em><u>Posting File Comments</u></em>.
+<h4 id="information_sharing">Information Sharing and Disclosure </h4>
+<p>Other than as described in this section, YouSendIt does not rent or share information about you with third parties.</p>
+<p id="OLE_LINK94 OLE_LINK95"><em><u>Posting File Comments</u></em>.
   YouSendIt message recipients have the ability to post comments on the file download landing page. Any information you choose
   to provide in a comment should reflect how much you want other users to know about you. We recommend that you guard your
   anonymity and sensitive information and we encourage you to think carefully about what information about yourself you
   disclose in your comments. We are not responsible for any personally identifiable information you choose to submit in a
-  comment and will not treat such information as Personal Information for the purpose of this policy.
-</p>
-<p>
-  <em><u>Aggregate Information and Non-Identifying Information</u></em>. We may share aggregated information that does not
+  comment and will not treat such information as Personal Information for the purpose of this policy.</p>
+<p> <em><u>Aggregate Information and Non-Identifying Information</u></em>. We may share aggregated information that does not
   include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for
   industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not
-  contain your Personal Information.
-</p>
-<p>
-  <em><u>Service Providers</u></em>. We may employ third party companies and individuals to facilitate our Service, to provide
+  contain your Personal Information.</p>
+<p> <em><u>Service Providers</u></em>. We may employ third party companies and individuals to facilitate our Service, to provide
   the Service on our behalf and to perform Site-related services ("Service Providers"). The types of Service Providers we use
   include, without limitation, service providers that provide the following types of services: credit card transactions,
   accounting, customer relationship management, webcasting, web site maintenance, database management, web analytics and web and
   live chat hosting. Our Service Providers have access to your Personal Information only to perform these tasks on our behalf
-  and are obligated not to disclose or use it for any other purpose.
-</p>
-<p>
-  <em><u>Compliance with Laws and Law Enforcement</u></em>. YouSendIt cooperates with government and law enforcement officials
+  and are obligated not to disclose or use it for any other purpose.</p>
+<p> <em><u>Compliance with Laws and Law Enforcement</u></em>. YouSendIt cooperates with government and law enforcement officials
   and private parties to enforce and comply with the law. We will disclose any information about you to government or law
   enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims
   and legal process (including without limitation subpoenas), to protect the property and rights of YouSendIt or a third party,
-  to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical.
-</p>
-<p>
-  <em><u>Business Transfers</u></em>. YouSendIt may sell, transfer or otherwise share some or all of its assets, including your
+  to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical.</p>
+<p> <em><u>Business Transfers</u></em>. YouSendIt may sell, transfer or otherwise share some or all of its assets, including your
   Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of
   bankruptcy.</p>
-<p>
-<em><u>Corporate Accounts</u></em>. If you are an individual user, and the domain of the primary email address associated with your 
+<p> <em><u>Corporate Accounts</u></em>. If you are an individual user, and the domain of the primary email address associated with your 
   YouSendIt  account is a domain owned by your employer and that email address was assigned to you as an employee 
   of that organization, and that organization establishes a corporate account with YouSendIt  and adds you to that 
   account, then certain information concerning past use of your individual account may become accessible to the 
   administrator of that corporate account, such as the text and subject of messages you have sent, the file names 
   and content of files you have sent, the date and time messages were sent, and the email addresses of the 
   recipients; provided, however, that such information with respect to files that have expired or that have been 
-  deleted by you will no longer be accessible to you or to such administrator. 
-  <br><span class="backToTop"><a href="#top">Back to Top</a></span></p>
+  deleted by you will no longer be accessible to you or to such administrator. <br>
+  <span class="backToTop"><a href="#top">Back to Top</a></span></p>
 <div class="hr"></div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="changing"></a>Changing or Deleting Your Information
-</h4>
-<p>
-  All YouSendIt subscribers may review, update, correct or delete the Personal Information in their registration profile by
+<h4 id="changing">Changing or Deleting Your Information</h4>
+<p>All YouSendIt subscribers may review, update, correct or delete the Personal Information in their registration profile by
   logging into their account and changing the "user preferences" associated with their account. In order to disable your
-  account please <a href="http://www.yousendit.com/static.php?key=support_form">Submit a Support Request</a> to Customer Service.<br><span class="backToTop"><a href="#top">Back to Top</a></span></p>
+  account please <a href="/static.php?key=support_form" title="Submit a Support Request">Submit a Support Request</a> to Customer Service.<br>
+  <span class="backToTop"><a href="#top">Back to Top</a></span></p>
 <div class="hr"></div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="data"></a>Data Retention Policy
-</h4>
-<p>
-  YouSendIt may retain your account information indefinitely, regardless of whether you have disabled your account on the Site.
+<h4 id="data">Data Retention Policy</h4>
+<p>YouSendIt may retain your account information indefinitely, regardless of whether you have disabled your account on the Site.
   YouSendIt will retain Log Data consistent with applicable legal requirements. Generally, at a minimum, YouSendIt will retain
   the Log Data collected from you in its active, internal company databases for six months, at which point it will migrate such
   Log Data to its offline archival systems, where YouSendIt will retain the Log Data for a period of three years (together, the
   "Retention Period"). After the Retention Period, YouSendIt will purge the Log Data from its systems. In the event of an
   investigation by law enforcement or a response to claims or legal process, we may retain the Log Data until such
-  investigation or process is completed, which may be longer than the Retention Period.<br><span class="backToTop"><a href="#top">Back to Top</a></span></p>
+  investigation or process is completed, which may be longer than the Retention Period.<br>
+  <span class="backToTop"><a href="#top">Back to Top</a></span></p>
 <div class="hr"></div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="security"></a>Security
-</h4>
-<p>
-  YouSendIt takes safeguarding your information very seriously. We employ generally-accepted, industry-standard administrative,
+<h4 id="security">Security</h4>
+<p>YouSendIt takes safeguarding your information very seriously. We employ generally-accepted, industry-standard administrative,
   physical and electronic measures designed to protect the Personal Information submitted to us from unauthorized access, both
   during transmission and once we receive it. No method of transmission over the Internet, or method of electronic data storage
   is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal
-  Information, we cannot guarantee its absolute security.
-</p>
-<p>
-  We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your
+  Information, we cannot guarantee its absolute security.</p>
+<p> We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your
   unencrypted electronically stored "personal data" (as defined in applicable laws related to security breach notification) to
   you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar
   as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the
-  breach and restore the reasonable integrity of the data system.<br><span class="backToTop"><a href="#top">Back to Top</a></span></p>
+  breach and restore the reasonable integrity of the data system.<br>
+  <span class="backToTop"><a href="#top">Back to Top</a></span></p>
 <div class="hr"></div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="international"></a>International Transfer
-</h4>
-<p>
-  Your information may be transferred to "and maintained on" computers located outside of your state, province, country or
+<h4 id="international">International Transfer</h4>
+<p>Your information may be transferred to "and maintained on" computers located outside of your state, province, country or
   other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are
   located outside the United States and choose to provide information to us, you should be aware that YouSendIt transfers
   Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your
-  submission of such information represents your agreement to such transfer.<br><span class="backToTop"><a href="#top">Back to Top</a></span></p>
+  submission of such information represents your agreement to such transfer.<br>
+  <span class="backToTop"><a href="#top">Back to Top</a></span></p>
 <div class="hr"></div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="links"></a>Links to Other Sites
-</h4>
-<p>
-  Our Site contains links to other web sites. If you choose to visit an advertiser by clicking on a banner ad or other type of
-  advertisement, or click on another third party link, you will be directed to that third party's web site. The fact that we
+<h4 id="links">Links to Other Sites</h4>
+<p>Our Site contains links to other web sites. If you choose to visit an advertiser by clicking on a banner ad or other type of
+  advertisement, or click on another third party link, you will be directed to that third party’s web site. The fact that we
   link to a web site or present a banner ad or other type of advertisement is not an endorsement, authorization or
   representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security
   policies or practices. We do not exercise control over third party web sites. These other web sites may place their own cookies
   or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules
   regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies
-  or statements of the other web sites you visit.<br><span class="backToTop"><a href="#top">Back to Top</a></span></p>
+  or statements of the other web sites you visit.<br>
+  <span class="backToTop"><a href="#top">Back to Top</a></span></p>
 <div class="hr"></div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="our"></a>Our Policy Toward Children
-</h4>
-<p>
-  This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children
+<h4 id="our">Our Policy Toward Children</h4>
+<p>This Site is not directed to children under 18. We do not knowingly collect personally identifiable information from children
   under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their
-  consent, he or she should contact us at <u><a href="mailto:privacy@yousendit.com">privacy@yousendit.com</a></u>. If we become
-  aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.<br><span class="backToTop"><a href="#top">Back to Top</a></span></p>
+  consent, he or she should contact us at <u><a href="mailto:privacy@yousendit.com" title="Email Privacy">privacy@yousendit.com</a></u>. If we become
+  aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.<br>
+  <span class="backToTop"><a href="#top">Back to Top</a></span></p>
 <div class="hr"></div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="testimonials"></a>Testimonials
-</h4>
-<p>
-  We post YouSendIt subscriber testimonials on our Site which may contain Personal Information such as the YouSendIt
-  subscriber's name. We do obtain the YouSendIt subscriber's consent to the posting of his or her name along with the
-  testimonial prior to posting the testimonial.<br><span class="backToTop"><a href="#top">Back to Top</a></span></p>
+<h4 id="testimonials">Testimonials</h4>
+<p>We post YouSendIt subscriber testimonials on our Site which may contain Personal Information such as the YouSendIt
+  subscriber’s name. We do obtain the YouSendIt subscriber’s consent to the posting of his or her name along with the
+  testimonial prior to posting the testimonial.<br>
+  <span class="backToTop"><a href="#top">Back to Top</a></span></p>
 <div class="hr"></div>
 <div style="height:10px;"></div>
-<h4>
-  <a name="contacting"></a>Contacting Us
-</h4>
-<p>
-  If you have any questions about this Privacy Policy, please contact us at <u><a href="mailto:legal@yousendit.com">legal@yousendit.com</a></u> or at: <em>Privacy Matters c/o YouSendIt, Inc., 1919 South Bascom
-  Avenue, Campbell, CA, 95008.</em><br><span class="backToTop"><a href="#top">Back to Top</a></span></p>
-<input name="faq" type="hidden" id="LeftTab" value="Privacy Policy"><!--PHI COMPONENT NAME: privacyContent END HERE--> 
+<h4 id="contacting">Contacting Us</h4>
+<p>If you have any questions about this Privacy Policy, please contact us at <u><a href="mailto:legal@yousendit.com" title="Email Legal">legal@yousendit.com</a></u> or at: <em>Privacy Matters c/o YouSendIt, Inc., 1919 South Bascom
+  Avenue, Campbell, CA, 95008.</em><br>
+  <span class="backToTop"><a href="#top">Back to Top</a></span></p>
+<input name="faq" type="hidden" id="LeftTab" value="Privacy Policy">
+<!--PHI COMPONENT NAME: privacyContent END HERE--> 
  
     </div>
    <input type="hidden" id="omniturePageName" name="omniturePageName" value="privacy"><input type="hidden" id="ysi_hd_select" name="ysi_hd_select" value=""><!--PHI COMPONENT NAME: footer STARTS HERE--> 
 <style type="text/css">
-div#awards {
-	width:290px;
-	background-color: #ffffff;
-	margin-right:95px;
-	padding-top:0px;
-	height:80px;
-}
-div#awards a {
-	margin-right:10px;
-}
-div#awards td {
-	border:0;
-}
-span.logos a {
-	margin-top: 10px;
-}
+div#awards { width:290px; background-color: #ffffff; margin-right:95px; padding-top:0px; height:80px; }
+div#awards a { margin-right:10px; }
+div#awards td { border:0; }
+span.logos a { margin-top: 10px; }
 </style>
 
 <div class="clear"></div>
 <div id="copyright" class="last">
-  <p class="left">© YouSendIt 2004 - 2010</p>
+  <p class="left">© YouSendIt 2004 - 2011</p>
 </div>
 </div>
 <!-- End container -->
 </div>
 <!-- End body_wrapper -->
 
-<div id="footer-wrapper" style="margin-top:0px;">
+<div id="footer-wrapper" style="margin-top:0px">
   <div class="container">
     <div id="footer" class="last">
       <div class="span-6 footer-vdiv">
@@ -656,6 +699,7 @@ span.logos a {
           <li><a href="http://www.yousendit.com/outlook-plugin">Outlook Plugin</a></li>
           <li><a href="http://www.yousendit.com/express-for-desktop">Express for Desktop</a></li>
           <li><a href="http://www.yousendit.com/mobile-tools">Mobile Tools</a></li>
+          <li><a href="http://www.yousendit.com/web-browser-app">Web Browser App</a></li>
         </ul>
       </div>
       <div class="span-6 footer-vdiv">
@@ -698,12 +742,10 @@ span.logos a {
         </ul>
       </div>
     </div>
-    <div id="awards"> 
-      <span class="logos"><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.yousendit.com"><img height="72" width="31" alt="TRUSTe Certified" src="/web/en_US/theme_default/images/logosAwards/truste.png"></a> <a href="http://sanjose.bbb.org/BusinessReport.aspx?CompanyID=230359&amp;source=ctc"><img src="/en_US/theme_default/images/content/clickratingsm.gif" width="95" height="36" border="0" style="margin-top:15px;"></a></span> 
-      <span class="verisign">
+    <div id="awards"> <span class="logos"><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.yousendit.com"><img height="72" width="31" alt="TRUSTe Certified" src="/web/en_US/theme_default/images/logosAwards/truste.png"></a> <a href="http://sanjose.bbb.org/BusinessReport.aspx?CompanyID=230359&amp;source=ctc"><img src="/en_US/theme_default/images/content/clickratingsm.gif" width="95" height="36" border="0" style="margin-top:15px;"></a></span> <span class="verisign">
       <table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
         <tbody><tr>
-          <td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.yousendit.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO〈=en"></script></td>
+          <td width="135" align="center" valign="top"><script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.yousendit.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO〈=en"></script></td>
         </tr>
       </tbody></table>
       </span> </div>
@@ -725,7 +767,20 @@ span.logos a {
 	</div>
 </div>
 
-<script>
+
+<script type="text/javascript">
+
+// NetEdge
+var encid = "";
+
+
+// Omniture
+s.pageName= s.pageName ? s.pageName : $.trim($('#omniturePageName').val());
+omnitureLanguage = "en";
+
+</script>
+
+<script type="text/javascript">
 function trackmodal (pagename, modalname) {
 	var oldpagename = s.pageName;
 	s.pageName=pagename+":"+modalname;
@@ -733,8 +788,24 @@ function trackmodal (pagename, modalname) {
 	s.pageName = oldpagename;
 }
 
+function getOmnitureProductInfo (data) {
+	switch (data.omnitureCategory) {
+		case "TRIAL":
+			omnitureEventType1="event44="+data.omnitureAccountPrice+"|event45=1";
+			break;
+		case "SUB":
+			omnitureEventType1="event42="+data.omnitureAccountPrice+"|event43=1";
+			break;					
+		default:
+			omnitureEventType1="";
+			break;
+	}
+	return omnitureEventType1;
+}
+
 function trackmodaldetailed (modaldata) {
 	var oldpagename = s.pageName;
+	var modal = "OTH";
 	if (typeof modaldata.triggertype != 'undefined') {
 		switch(modaldata.triggertype.toLowerCase()) {
 			case "s":
@@ -746,79 +817,180 @@ function trackmodaldetailed (modaldata) {
 			case "u":
 				modal = "USE";
 				break;
-			default:
-				modal = "OTH";
-				break;
 		}
 
 		s.pageName=modaldata.pagename+":"+modaldata.accttype+":"+modal+":"+modaldata.modalname;
+
+		s.prop1=omniturePrefix+"|"+modaldata.pagename+":"+modaldata.accttype+":"+modal+":"+modaldata.modalname;
+		s.prop2=omniturePrefix+"|"+modaldata.modalname;
+
 	} else {
 		s.pageName=modaldata.pagename+":"+modaldata.accttype+":"+modaldata.modalname;
+		s.prop1=omniturePrefix+"|"+modaldata.pagename+":"+modaldata.accttype+":"+modal+":"+modaldata.modalname;
+		s.prop2=omniturePrefix+"|"+modaldata.modalname;
 	}
 
-	if(typeof modaldata.keyframe != 'undefined' && modaldata.keyframe > 0) {
-		s.eVar39=s.pageName;
-		s.eVar41=s.pageName;
-	}
+
+	/* Set eVars */
+	s.eVar1=""; /* User Type */
 	if(typeof modaldata.incid != 'undefined') s.eVar2 = modaldata.incid;
+	s.eVar5=omniturePrefix+"|"+modaldata.pagename; /* prefix|pagename */
+	s.eVar6=omnitureBusiness+"."+omnitureSubBusiness; /* business unit.sub business unit */
+	s.eVar7=s.prop22=""; /* Customer Type - legacy */
+	s.eVar9=s.prop3=modaldata.accttype; /* Account Type */
+	s.eVar11=s.prop11=($.cookie ("Ysi_session_id")) ? "Logged In" : "Logged Out"; /* Logged in Status */
+	s.eVar18=s.prop17=omnitureBusiness; /* Business Unit */
+	s.eVar19=s.prop18=omnitureSubBusiness; /* Sub Business Unit */
+	s.eVar22=""; /* Promo ID TBD */
+	s.eVar23=""; /* Purchase Type - Upgrade/Downgrade/New TBD */
+	s.eVar24=s.prop2; /* prefix|Simple page name */
+	s.eVar25=s.prop1; /* prefix|Detailed page name */
+
+	if(typeof modaldata.keyframe != 'undefined' && modaldata.keyframe > 0) {
+		s.eVar39=s.eVar41=s.pageName;
+	}
+	/* End set eVars */
+
+	/* Set sProps */
+	s.prop19=""; /* First level navigation */
+	s.prop20=""; /* Second level navigation */
+	s.prop23=""; /* Price type */
+	s.prop24=""; /* Site name */
+	s.prop46=omnitureLanguage; /* Language */
+	if($.cookie ("emailAddress")) {/* User ID TBD*/
+		s.eVar51=$.cookie ("emailAddress");
+		}
+	/* End set sProps */
+
+	/* Set Events */
 	if(typeof modaldata.events != 'undefined') s.events = modaldata.events;
+	/* End set events */
+
+	/* Set products */
 	if(typeof modaldata.products != 'undefined') s.products = modaldata.products;
+	/* End set products */
+
+	/* Set purchaseID */
+	if(typeof modaldata.purchaseID != 'undefined') s.purchaseID = modaldata.purchaseID;
+
+	/* Set other */
+	if(typeof modaldata.state != 'undefined') s.state = modaldata.state;
+	if(typeof modaldata.zip != 'undefined') s.zip = modaldata.zip;
+	/* End set other */
 
 	s.t();
 	s.pageName = oldpagename;
 
+	/* Reset trackmodaldetailed specific variables */
 	if(typeof modaldata.events != 'undefined') s.events = "";
 	if(typeof modaldata.products != 'undefined') s.products = "";
+	if(typeof modaldata.purchaseID != 'undefined') s.purchaseID = "";
+	/* End Reset trackmodaldetailed specific variables */
+
+	/* Reset eVars */
+	s.eVar1=""; /* User Type */
+	s.eVar2 = "";
+	s.eVar5=""; /* prefix|pagename */
+	s.eVar6=""; /* business unit.sub business unit */
+	s.eVar7=""; /* Customer Type - legacy */
+	s.eVar9=""; /* Account Type */
+	s.eVar11=""; /* Logged in Status TBD */
+	s.eVar18=""; /* Business Unit */
+	s.eVar19=""; /* Sub Business Unit */
+	s.eVar22=""; /* Promo ID TBD */
+	s.eVar23=""; /* Purchase Type - Upgrade/Downgrade/New TBD */
+	s.eVar24=""; /* prefix|Simple page name */
+	s.eVar25=""; /* prefix|Detailed page name */
+	s.state=""; /* state */
+	s.zip=""; /* zip */
+	if(typeof modaldata.keyframe != 'undefined' && modaldata.keyframe > 0) {s.eVar39=''; s.eVar41='';}
+
+	/* Reset sProps */
+
 }
 
 function tracklink (pagename, linkname) {
-	s.tl(this,'o',pagename+":"+linkname);
+	if (pagename != "guest_send")
+		s.tl(this,'o',pagename+":"+linkname);
 }
 
 function trackexitlink (pagename, linkname) {
 	s.tl(this,'e',pagename+":"+linkname);
 }
 
-</script>
-<script>
 
-// NetEdge
-var encid = "";
-
-
-// Omniture
-s.pageName= s.pageName ? s.pageName : $.trim($('#omniturePageName').val());
+/* Global Omniture Variable */
+omniturePrefix = ("ysi" != "") ? "ysi" : "Unknown";
+omnitureBusiness = ("YouSendIt" != "") ? "YouSendIt" : "Not set";
+omnitureSubBusiness = ("Corporate Communications" != "") ? "Corporate Communications" : "Not set";
+omniturePageName1="privacy";
+omnitureSimplePageName=("privacy" != "") ? "privacy" : "Unknown";
+omnitureFirstLevelNav=("" != "") ? "" : "Not set";
+omnitureSecondLevelNav=("Privacy" != "") ? "Privacy" : "Not set";
+omnitureCustomerType=("Shopper" != "") ? "Shopper" : "Not set";
+omnitureSitename=("NewYSI" != "") ? "NewYSI" : "Unknown";
+omnitureProduct=("" != "") ? "" : "Not set";
+/* End Global Omniture Variables */
 
 // Conversion Variables
 
-	// Login Status (Logged In or Logged Out) from cookie(ysi_sessionid)
-	if ($.cookie ("Ysi_session_id")) {
-		s.eVar1= ($.cookie ("Ysi_session_id")) ? "Logged In" : "Logged Out";
-	}
 
+/*
 	if ($.cookie ("acct")) {
 		var splitarray = $.cookie ("acct").split(",");
 		s.eVar1 = splitarray[0];
 		s.eVar4 = (splitarray.length > 1) ? "Repeat Visitor" : "New Visitor";
 		s.eVar9 = splitarray[0];
 	}
+*/
 
-	// Channel (SOHO | Business) Todo - what are the channels and how do we determine this?
-	s.eVar7 = "";
+	s.pfxID=omniturePrefix;
+	s.channel=omnitureBusiness+"|"+omnitureSubBusiness;
+	s.hier1="en|us|"+getCookieAcctType()+"|"+omnitureBusiness+"|"+omnitureSubBusiness+"|"+omnitureProduct;
 
-	// Ad Name (might not be needed)
-	s.eVar8="";
+	s.eVar6="YouSendIt.Corporate Communications";
+	s.prop3=getCookieAcctType(); /* Account Type TBD? */
+	s.eVar9=s.prop3;
+	s.eVar25=omniturePrefix+"|"+omniturePageName1;
+	s.prop1=s.eVar25;
+	s.eVar24=omniturePrefix+"|"+omnitureSimplePageName;
+	s.prop2=s.eVar24;
+	s.prop3=getCookieAcctType();
+	// Login Status (Logged In or Logged Out) from cookie(ysi_sessionid)
+	s.prop11= ($.cookie ("Ysi_session_id")) ? "Logged In" : "Logged Out";
 
-	s.prop12="20-10-2010";
+/*
+	s.prop12="";
 	s.prop13="";
+*/
+
+	s.eVar18=omnitureBusiness;
+	s.prop17=s.eVar18;
+	s.eVar19=omnitureSubBusiness;
+	s.prop18=s.eVar19;
+	s.prop19=omnitureFirstLevelNav;
+	s.prop20=omnitureSecondLevelNav;
+	s.prop22=omnitureCustomerType;
+	s.prop24=omnitureSitename;
+
+	/* Set eVars */
+	s.prop5 = location.protocol+"//"+location.hostname+location.pathname;
+	s.prop46=omnitureLanguage; /* Language */
+	if($.cookie ("emailAddress")) {/* User ID TBD*/
+		s.eVar51=$.cookie ("emailAddress");
+		}
+	/* End set eVars */
+
 
 // End Conversion Variables
 
+</script>
 
+<script type="text/javascript">
 var s_code=s.t();if(s_code)document.write(s_code);
 </script>
 
 <script type="text/javascript"> var xgJsHost = (("https:" == document.location.protocol) ? "https://sxcdn." : "http://xcdn."); document.write(unescape("%3Cscript src='" + xgJsHost + "xgraph.net/17644/db/xg.js.jsp?pid=17644&sid=10051&type=db&puid="+encid+"' type='text/javascript' charset='utf-8'%3E%3C/script%3E")); </script><script src="https://sxcdn.xgraph.net/17644/db/xg.js.jsp?pid=17644&amp;sid=10051&amp;type=db&amp;puid=" type="text/javascript" charset="utf-8"></script>
-<div id="version" style="text-align: right; color: #FFFFFF; font-size: 9px; margin-right:11px;">4.3.5-b2 192.168.41.31</div>
+<div id="version" style="text-align: right; color: #FFFFFF; font-size: 9px; margin-right:11px;">4.5.5-b3 192.168.41.31</div>
 
 </body></html>
