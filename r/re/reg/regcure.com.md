@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regcure.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128174832id_/http%3A//regcure.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regcure.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303025642id_/http%3A//www.regcure.com/policy.aspx) for the most accurate reproduction.*
 
 # RegCure
 
@@ -46,6 +46,6 @@ We may change this Privacy Policy at any time without notice to you in order to 
 **Acceptance of Terms**  
 By using the ParetoLogic services, accessing the RegCure.com web site, or purchasing ParetoLogic products you are consenting to the practices relating to information collection and use that are described in this Privacy Policy.
 
-  **_If you have any questions regarding this privacy policy, please contact us at_** [support@regcure.com](mailto:support@regcure.com).
+  **_If you have any questions regarding this privacy policy, please contact us at_** [biz@paretologic.com](mailto:biz@paretologic.com).
 
 RegCure is a registered trademark of ParetoLogic Inc. 
