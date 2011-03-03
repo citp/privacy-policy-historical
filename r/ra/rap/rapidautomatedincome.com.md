@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidautomatedincome.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128141312id_/http%3A//rapidautomatedincome.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidautomatedincome.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303224345id_/http%3A//rapidautomatedincome.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Watch this FREE Presentation Now
 
