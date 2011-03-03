@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seomoz.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223165853id_/http%3A//www.seomoz.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seomoz.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303204503id_/http%3A//www.seomoz.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
