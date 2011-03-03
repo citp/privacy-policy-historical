@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harlequin.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006164203id_/http%3A//www.harlequin.com/store/hqnstore.nsf/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harlequin.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303212200id_/http%3A//www.harlequinrip.com/store/hqnstore.nsf/pages/privacy.html) for the most accurate reproduction.*
 
-# harlequin.com - Privacy Policy
+# harlequinrip.com - Privacy Policy
 
 Global Graphics Software Limited (hereinafter “Global Graphics”) is committed to protecting your privacy in accordance with this online privacy policy as amended from time to time (“Privacy Policy”). We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
 
