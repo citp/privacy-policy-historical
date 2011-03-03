@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoresense.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102144257id_/http%3A//www.scoresense.com/help/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoresense.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303135101id_/http%3A//www.scoresense.com/help/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ScoreSense Privacy Policy
 
@@ -75,4 +75,4 @@ Dallas, TX 75205
 
 We invite you to learn more about your privacy rights on the Internet. The following resources provide an array of information and services you might find helpful and informative. Electronic Privacy and Information Center (EPIC) EPIC is a public interest research center in Washington, DC. Established in 1994, EPIC works in association with Privacy International, an international human rights group based in London, and is a member of the Global Internet Liberty Campaign and the Internet Privacy Coalition. The Federal Trade Commission (FTC) The Federal Trade Commission enforces a variety of federal antitrust and consumer protection laws. The commission works to enhance the smooth operation of the marketplace by eliminating acts or practices that are unfair or deceptive. National Fraud Information Center (NFIC) The National Fraud Information Center is a project of the National Consumers League, America's oldest nonprofit consumer organization. NFIC helps consumers report fraud and offers advice on how to avoid being victimized. The Privacy Rights Clearinghouse (PRC) PRC provides consumers with valuable information on protecting their personal privacy. 
 
-©2010 _ScoreSense_. All Rights Reserved
+©2011 _ScoreSense_. All Rights Reserved
