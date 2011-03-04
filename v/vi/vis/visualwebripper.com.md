@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualwebripper.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207000831id_/http%3A//www.visualwebripper.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualwebripper.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304215941id_/http%3A//www.visualwebripper.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Visual Web Ripper Privacy Statement
 
