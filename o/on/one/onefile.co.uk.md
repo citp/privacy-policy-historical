@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the onefile.co.uk privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614021319id_/http%3A//www1.onefile.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefile.co.uk privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305000003id_/http%3A//www1.onefile.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # OneFile Privacy and Cookie Policy
 
 Citrus Lounge Limited ("we", "us" or "our" for short) are registered to collect and process personal data under the Data Protection Act 1998 (the "Act" for short). Citrus Lounge Limited are data controllers of your personal information for the purposes of the Act. If you want to know what personal information we hold about you, please write to us at support@onefile.co.uk.
 
-We respect and safeguard the privacy of the users of onefile.co.uk ("the website"). This Privacy Policy outlines how we will do this, how we will collect and use your personal information (such as your name, your email address, telephone number or other contact details) and how you can limit our use of this. Please read this Privacy Policy carefully which should be read together with our [website terms and conditions](https://web.archive.org/web/20090614021319id_/http%3A//www1.onefile.co.uk/terms.aspx).
+We respect and safeguard the privacy of the users of onefile.co.uk ("the website"). This Privacy Policy outlines how we will do this, how we will collect and use your personal information (such as your name, your email address, telephone number or other contact details) and how you can limit our use of this. Please read this Privacy Policy carefully which should be read together with our [website terms and conditions](https://web.archive.org/web/20110305000003id_/http%3A//www1.onefile.co.uk/terms.aspx).
 
 ##  What information do we gather?
 
