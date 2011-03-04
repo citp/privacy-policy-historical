@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshpromotions.com.au privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227011442id_/http%3A//www.freshpromotions.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshpromotions.com.au privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304095014id_/http%3A//www.freshpromotions.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Promotional Products, Promotional Items, Corporate Gifts - Fresh Promotions Australia
 
