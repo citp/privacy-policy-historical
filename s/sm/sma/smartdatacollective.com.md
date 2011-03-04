@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartdatacollective.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223132436id_/http%3A//smartdatacollective.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartdatacollective.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304035303id_/http%3A//smartdatacollective.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Smart Data Collective
 
