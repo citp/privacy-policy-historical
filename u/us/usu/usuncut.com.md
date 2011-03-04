@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usuncut.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527192541id_/http%3A//www.usuncut.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usuncut.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304235937id_/http%3A//www.usuncut.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - US Uncut: US Uncut United States of America, Democrats, Republicans, White House, New York, Washington, Congress, Senate, House of Representatives, Federal System, Foreign policy, Rights, Issues, Bill of Rights, Bush, Foreign relations, Armed Forces, Defense, War against terror, Global Politics, U.S.A., Terrorism
 
