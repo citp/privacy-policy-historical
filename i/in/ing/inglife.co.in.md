@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inglife.co.in privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227151400id_/http%3A//www.inglife.co.in/others/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inglife.co.in privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304020509id_/http%3A//www.inglife.co.in/others/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - ING - Life Insurance
 
