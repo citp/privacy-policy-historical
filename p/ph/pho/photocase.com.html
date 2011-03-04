@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the photocase.com privacy policy that was archived on 2009-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090316034800id_/http%3A//photocase.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the photocase.com privacy policy that was archived on 2011-03-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110304182304id_/http%3A//www.photocase.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Photocase - Privacy policy</title>
@@ -7,168 +7,371 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="author" content="photocase - prettying up the world">
 <meta http-equiv="imagetoolbar" content="no">
-<meta name="keywords" content="Photos, Photography, Stock Photography, Medium Format, buy, download, prints, art prints, mounted prints, photographers, portfolio, digital, analog, film, High Resolution, Royalty Free, Download, Share, Vote, Community, Print, lomography, contest, photo contest, exchange, vote, contemporary, authentic">
-<meta name="description" content="Photocase is a stock photography community. The photos at Photocase are full of character, and available to purchase for use in commercial and non-commercial projects.">
+<meta name="description" content="Photocase is the website for creative, royalty free stock photography. Photocase photos are available to purchase for royalty-free use in commercial and non-commercial projects.">
 <meta name="phcisalive" content="true">
+<meta name="keywords" content="Photos, Photography, Stock Photography, creative stock photography, unique stock photography, unique stock photos, creative stock photos, Medium Format, analog, digital, buy stock photos, buy stock, download photos, download stock photos, prints, art prints, mounted prints, photographers, portfolio, digital, analog, film, High Resolution stock photos, high resolution stock, Royalty Free, royalty free photos, royalty free images, royalty free pictures, Download, Share, Vote, Community, Print, lomography, contest, photo contest, exchange, vote, contemporary, authentic, creative, stock, photography, microstock
 
+">
+<meta http-equiv="imagetoolbar" content="no">
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, noarchive">
 
-<link rel="alternate" type="application/rss+xml" title="Photocase Feed" href="http://www.photocase.com/photocase.rss">
 <link rel="alternate" type="application/rss+xml" title="" href="http://www.photocase.com/piclensfeed.rss">
+<link rel="alternate" type="application/rss+xml" title="Photocase Feed" href="http://www.photocase.com/photocase.rss">
 
-<link rel="search" type="application/opensearchdescription+xml" href="http://www.photocase.com/en/searchplugin/photocasesearchen.xml" title="Photocase.com - Photosearch">
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.photocase.com/searchplugin/photocasesearchen.xml" title="Photocase.com - Photosearch">
 <link rel="copyright" href="http://www.photocase.com/termsofuse.asp">
-<link rel="shortcut icon" href="http://www.photocase.com/en/images/pc_favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.photocase.com/images/pc_favicon.ico" type="image/x-icon">
 
-<script src="javascript/common.js?2" type="text/javascript"></script>
-<script src="javascript/swfobject.js" type="text/javascript"></script>
-<script src="javascript/anylink.js" type="text/javascript"></script>
-<script src="javascript/prototype.js" type="text/javascript"></script>
+<link href="/css/basic.css?17" rel="stylesheet" type="text/css">
+<link href="/css/photo.css?17" rel="stylesheet" type="text/css">
+<link href="/css/common.css?17" rel="stylesheet" type="text/css">
+<link href="/css/firefox.css?17" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen,projection" />
+<![endif]-->
+<!--[if gte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="screen,projection" />
+<![endif]-->
+
+
+
+
+
+
+
+<script src="/javascript/common.js?17" type="text/javascript"></script>
+<script src="/javascript/swfobject.js?17" type="text/javascript"></script>
+<script src="/javascript/anylink.js?17" type="text/javascript"></script>
+<script src="/javascript/prototype.js?17" type="text/javascript"></script>
+<script src="/javascript/scriptaculous.js?17" type="text/javascript"></script>
+<script src="/javascript/colorselect.js?17" type="text/javascript"></script>
+<script src="/javascript/catselect.js?17" type="text/javascript"></script>
+<script src="/javascript/swfaddress/swfaddress.js?17&amp;tracker=null" type="text/javascript"></script>
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-4570847864127899");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-4570847864127899", "PCSlotSubpageRightColumn");
+  GA_googleAddSlot("ca-pub-4570847864127899", "PCSlotSubpageLeftColumn");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
 
 <script type="text/JavaScript">
 // <![CDATA[
 window.name = "main";
-window.onload = function () {
-  Behaviour.register(popuprules);
-  
-}
+
+document.observe("dom:loaded", function() {  
+  //WHEN LIVE
+  //theres a error in ff 3.5 not throwing erros in simulated events
+  //until the error is not corrected the try catch with an alert is the only way to actually see the error
+  try {
+    Behaviour.register(pcBehaviour);
+    extSearchInit();
+  } catch(e) {
+    alert("dom:loaded error: " + e);
+  }  
+});
+
 // ]]>
 </script>
 
-<link href="css/photocase.css?2" rel="stylesheet" type="text/css">
-<!--[if lte IE 7]>
-<link rel="stylesheet" type="text/css" href="css/ie.css" media="screen,projection" />
-<![endif]-->
-<!--[if gte IE 7]>
-<link rel="stylesheet" type="text/css" href="css/ie7.css" media="screen,projection" />
-<![endif]-->
 </head>
 
 <body>
+
 <div id="overall">
   
 
   <div id="header">
     <h1 class="logo">
-		<a href="./" title="Photocase - Prettying up the world.">Photocase - Prettying up the world.</a>
+		<a href="/" title="Photocase - Good for your eyes.">Photocase - Good for your eyes.</a>
 	  </h1>
 
     
 
-         
-    <div id="logedOut">
-      <p><span class="hello">Hello.</span> If you already have an account, please log in now. If you don't, click "register" to create a new account for free.</p>
-      <a href="login.asp" title="use your username"><img src="language/english/images/btn_login.gif" alt="use your username"></a>
-      <a href="register.asp" title="Register"><img src="language/english/images/btn_register.gif" alt="Register"></a>
+    
+    <div id="logedOut" style="width: 250px;">
+      <div style="color: white; margin-bottom: 5px;"><span style="color: #84ba3c;">Hello.</span> Please log in now. If you don't have an account, click "Register" to create one for free.</div>
+      <a href="/login.asp" title="use your username"><img src="/language/english/images/btn_login.gif" alt="use your username"></a>
+      <a href="/register.asp" title="Register"><img src="/language/english/images/btn_register.gif" alt="Register"></a>
     </div>
     
-    <!--<div id="logedOut" style="width: 50px;">
-      <a href="tour.asp">Tour?</a>
-    </div>-->
-    
-    
-    
+
+    <div class="infobox"><a href="/tour.asp" title="New to Photocase? Take the tour and let us tell you all about it!"><img src="/language/english/images/tourheader.gif" alt="Tour"></a></div>
+
+
   </div>
-  
-	<div class="clear">&nbsp;</div>
+
+	<div class="clear"></div>
 
   <div id="navigation">
-    <ul class="mainnav">
-      <li id="first-nav"><a href="./" accesskey="1">Home</a> </li>
-
-      <li class="border"><a href="explore.asp">Explore</a> </li>
-
-      <li class="border"><a href="photobrowser.asp" onmouseover="dropdownmenu(this, event, 'subFoto')">Photos</a>
-        <ul id="subFoto">
-        	<li><a href="photobrowser.asp">Browse all Photos</a></li>
-          <li><a href="collection.asp">Public Lightboxes</a></li>
-          <li><a href="newcomments.asp">New Comments</a></li>
-          <li><a href="photoadd.asp">Upload Photos</a></li>
-          <li><a href="myphotos.asp">My Photos </a></li>
-          <li><a href="javascript: OpenLightbox('lightbox.asp');">My Lightboxes</a></li>
-        </ul>
-      </li>
-
-      <li class="border"><a href="photoadd.asp">Upload</a></li>
-
-      <li class="border"><a href="community.asp" onmouseover="dropdownmenu(this, event, 'subCommunity')">Community</a>
-        <ul id="subCommunity">
-        	<li><a href="community.asp">Community overview</a></li>
-          <li><a href="news.asp">News</a></li>
-          <li><a href="forum.asp">Forum</a></li>
-          <li><a href="user.asp">Photographers &amp; Users</a></li>
-          <li><a href="contest.asp">Fotorally</a></li>
-          <li><a href="poll.asp">Polls</a></li>
-          <!--<li><a href="goodies.asp">__CommonGoodies__</a></li>-->
-          <li><a href="http://blog.photocase.com" target="_blank">Blog</a></li>
-        </ul>
-      </li>
-
-      <!--<li class="border"><a href="offtopic.asp">Magazine</a></li>-->
-
-      <li class="border"><a href="myphotocase.asp" onmouseover="dropdownmenu(this, event, 'subMyPhotocase')">My Photocase</a>
-        <ul id="subMyPhotocase">
-        	<li><a href="myphotocase.asp">MyPhotocase Overview</a></li>
-          <li><a href="myphotos.asp">My Photos</a></li>
-          <li><a href="javascript: OpenLightbox('lightbox.asp');">My Lightboxes</a></li>
-          <li><a href="buddylist.asp">My Buddies</a></li>
-          <li><a href="mynotifications.asp">My Notifications</a></li>
-          <li><a href="mydownloads.asp">My Downloads and Licences</a></li>
-          <li><a href="myaccount.asp">My Photocase Account</a></li>
-          <li><a href="user.asp?u=">Show My User Profile</a></li>
-          <li><a href="myuseraccount.asp?m=personal">Edit my Personal Details</a></li>
-          <li><a href="myuseraccount.asp?m=userprofile">Edit My User Profile</a></li>
-          <li><a href="myuseraccount.asp?m=settings">Edit Preferences</a></li>
-        </ul>
-      </li>
-
-      <li class="border"><a href="shop.asp">Shop</a></li>
-
-      <li class="border" id="last-nav"><a href="faq.asp?s1=1871" class="popFaq" onmouseover="dropdownmenu(this, event, 'subHelp')">Help and Service</a>
-        <ul id="subHelp">
-          <li><a href="faq.asp" class="popFaq">Help &amp; FAQ</a></li>
-          <li><a href="contact.asp">Contact</a></li>
-          <!--<li><a href="api.asp">__CommonApi__</a></li>-->
-          <li><a href="termsofuse.asp">Terms of Use</a></li>
-          <li><a href="privacypolicy.asp">Privacy policy</a></li>          
-          <li><a href="about.asp">About Photocase</a></li>
-        </ul>
-      </li>
-
-      <li class="border" id="lang"><a href="#" onmouseover="dropdownmenu(this, event, 'subLang')">English <img src="images/languageflag_en.gif" title="__CommonContributionLanguage__" class="languageflag"></a>
-        <ul id="subLang">
-          <li><a href="/en/privacypolicy.asp">English <img src="images/languageflag_en.gif" title="__CommonContributionLanguage__" class="languageflag"></a></li>
-<li><a href="/de/privacypolicy.asp">Deutsch <img src="images/languageflag_de.gif" title="__CommonContributionLanguage__" class="languageflag"></a></li>
-<li><a href="/fr/privacypolicy.asp">Français <img src="images/languageflag_fr.gif" title="__CommonContributionLanguage__" class="languageflag"></a></li>
-<li><a href="/es/privacypolicy.asp">Español <img src="images/languageflag_es.gif" title="__CommonContributionLanguage__" class="languageflag"></a></li>
-        </ul>
-      </li>
-    </ul>
+    <ul class="mainnav"><li id="first-nav"><a href="/" accesskey="1">Home</a>
+</li><li class="border"><a href="/explore.asp">Explore</a>
+</li><li class="border"><a href="/photobrowser.asp" onmouseover="dropdownmenu(this, event, 'subFoto')">Photos</a>
+	<ul id="subFoto">
+		<li><a href="/photobrowser.asp">Browse all Photos</a></li>
+		<li><a href="/collection.asp">Public Lightboxes</a></li>
+		<li><a href="/newcomments.asp">New Comments</a></li>
+		<li><a href="/photoadd.asp">Upload Photos</a></li>
+		<li><a href="/myphotos.asp">My Photos </a></li>
+		<li><a href="javascript: OpenLightbox('/lightbox.asp');">My Lightboxes</a></li>
+	</ul>
+</li><li class="border"><a href="/photoadd.asp">Upload</a></li><li class="border"><a href="/community.asp" onmouseover="dropdownmenu(this, event, 'subCommunity')">Community</a>
+	<ul id="subCommunity">
+		<li><a href="/community.asp">Community overview</a></li>
+		<li><a href="/news.asp">News</a></li>
+		<li><a href="http://blog.photocase.com/en/" target="_blank">Blog</a></li>
+		<li><a href="/forum.asp">Forum</a></li>
+		<li><a href="/poll.asp">Polls</a></li>
+		<li><a href="/user.asp">Photographers &amp; Users</a></li>
+		<li><a href="/contest.asp">Fotorally</a></li>
+		<li><a href="/affiliate.asp">Affiliate-Programm</a></li>
+	</ul>
+</li><li class="border"><a href="/myphotocase.asp" onmouseover="dropdownmenu(this, event, 'subMyPhotocase')">My Photocase</a>
+	<ul id="subMyPhotocase">
+		
+		<li><a href="/myphotocase.asp">My Photocase</a></li>
+		<li class="newBlock popup"><a href="/myphotocase.asp?m=downloads">My Downloads</a></li>
+		<li><a href="/myphotocase.asp?m=invoice">My Receipts</a></li>
+		<li class="newBlock popup"><a href="javascript: OpenLightbox('/lightbox.asp');">My Lightboxes</a></li>
+		<li><a href="/photofavorite.asp?m=myfavorites">My Favorites</a></li>
+		<li><a href="/mynotifications.asp">My Notifications</a></li>
+		<li class="newBlock"><a href="/myuseraccount.asp?m=personal">Edit my Personal Details</a></li>
+		<li><a href="/myuseraccount.asp?m=settings">Edit Preferences</a></li>
+		
+		
+	</ul>
+</li><li class="border"><a href="/shop.asp">Buy Credits</a></li><li class="active" id="last-nav"><a href="/faq.asp?s1=1871" class="popFaq" onmouseover="dropdownmenu(this, event, 'subHelp')">Help &amp; Service</a>
+	<ul id="subHelp">
+		<li><a href="/faq.asp" class="popFaq">Help &amp; FAQ</a></li>
+		<li><a href="/contact.asp">Contact</a></li>
+		<li><a href="/newsletter.asp">Newsletter</a></li>
+		<li><a href="/termsofuse.asp">Terms of Use</a></li>
+		<li class="active"><a href="/privacypolicy.asp">Privacy policy</a></li>
+		<li><a href="/about">About Photocase</a></li>
+	</ul>
+</li><li class="border" id="cur"><a href="#" onmouseover="dropdownmenu(this, event, 'subCur')">USD <img src="/images/currencydollar.gif" class="curicon"></a>
+	<ul id="subCur">
+		<li><a href="/shop.asp?m=changecurrency&amp;cur=Euro">EUR <img src="/images/currencyeuro.gif" class="curicon"> </a></li>
+<li><a href="/shop.asp?m=changecurrency&amp;cur=Dollar">USD <img src="/images/currencydollar.gif" class="curicon"> </a></li>
+	</ul>
+</li><li class="border" id="lang"><a href="#" onmouseover="dropdownmenu(this, event, 'subLang')">English <img src="/images/languageflag_en.gif" title="English" class="languageflag"></a>
+	<ul id="subLang">
+		<li><a href="http://www.photocase.com/privacypolicy.asp" rel="nofollow">English <img src="/images/languageflag_en.gif" title="English" class="languageflag"></a></li>
+<li><a href="http://www.photocase.de/privacypolicy.asp" rel="nofollow">Deutsch <img src="/images/languageflag_de.gif" title="Deutsch" class="languageflag"></a></li>
+<li><a href="http://www.photocase.es/privacypolicy.asp" rel="nofollow">Español <img src="/images/languageflag_es.gif" title="Español" class="languageflag"></a></li>
+	</ul>
+</li></ul>
   </div>
 
-  <div class="clear">&nbsp;</div>
+  <div class="clear"></div>
 
 
 
+
+<div class="searchAndNav" style="background-color: #eae9e8; border-bottom: 1px solid #d1d0cd; padding: 13px 20px 7px 20px;">
+	
+  
+  
+  <!-- javascripts are beeing attached in components.asp line 648 -->
+
+<form method="post" action="/photobrowser.asp?m=dosearch" name="SearchPhotoForm" id="SearchPhotoForm" style="display: inline; margin: 0; padding: 0;">
+
+<div style="float: left; width: 370px;">
+  <input type="text" name="SearchPhotoInput" id="SearchPhotoInput" title="Search for Photos..." value="Search for Photos..." class="inputText SetSearchFieldTitle" style="height: 15px; position: relative; top: -7px; width: 280px;">
+  <input name="Submit" type="image" class="inputImage" style="margin-top: 0;" value="Submit" src="/language/english/images/btn_search.gif" alt="Start search">
+</div>
+
+<ul class="linklist linklistVertical" style="margin-top: 0; width: 190px; float: left;">
+  <li class="extSearch"><a href="javascript:;" class="toggleExtSearch">Advanced search</a></li>
+  <li class="popup"><a href="/faq.asp?s1=1813" class="popFaq">Search Tips</a></li>
+</ul>
+
+</form>
+
+<div class="clear"></div>
+
+<form method="post" action="/photobrowser.asp?m=dosearch" name="ExtSearchPhotoForm" id="ExtSearchPhotoForm" style="display: inline; margin: 0; padding: 0;">
+<input type="hidden" name="ExtSearch" id="ExtSearch" value="1">
+
+<div id="extendedSearch" style="display: none; position: relative; background-color: #eae9e8; float: left; margin-top: -40px;">
+
+  <div style="width: 200px; margin-top: -10px; float: left;">
+    <h2 style="white-space: nowrap;">Advanced search</h2>
+
+    <input type="text" name="SearchPhotoInputExt" id="SearchPhotoInputExt" title="Search for Photos..." value="Search for Photos..." class="inputText SetSearchFieldTitle" style="margin-top: 5px; font-size: 1.4em; width: 565px;">
+
+    <label for="SearchPhotoID" style="margin-top: 15px;">Photo ID</label>
+    <input type="text" name="SearchPhotoID" id="SearchPhotoID" title="Photo ID..." value="" class="inputText">
+
+    <label for="SearchPhotoFilename">File Name</label>
+    <input type="text" name="SearchPhotoFilename" id="SearchPhotoFilename" title="File Name..." value="" class="inputText">
+
+    <label for="SearchPhotoUserName">Username of the photographer</label>
+    <input type="text" name="SearchPhotoUserName" id="SearchPhotoUserName" title="Username of the photographer..." value="" class="inputText">
+  </div>
+
+  <div style="width: 120px; margin: 78px 0 0 45px; float: left;">
+    <h5>Orientation</h5>
+		
+    <label for="SearchPhotoFormatSquare" class="block"><input type="checkbox" name="SearchPhotoFormatSquare" id="SearchPhotoFormatSquare" value="1" checked="checked"> Square</label>
+    <label for="SearchPhotoFormatPortrait" class="block"><input type="checkbox" name="SearchPhotoFormatPortrait" id="SearchPhotoFormatPortrait" value="1" checked="checked"> Portrait</label>
+    <label for="SearchPhotoFormatLandscape" class="block"><input type="checkbox" name="SearchPhotoFormatLandscape" id="SearchPhotoFormatLandscape" value="1" checked="checked"> Landscape</label>
+    <label for="SearchPhotoFormatPanorama" class="block"><input type="checkbox" name="SearchPhotoFormatPanorama" id="SearchPhotoFormatPanorama" value="1" checked="checked"> Panorama</label>
+  </div>
+
+  <div style="width: 190px; margin: 78px 0 0 20px; float: left;">
+    <h5 style="margin-bottom: 5px;">Minimum Resolution</h5>
+		
+		<!-- ie needs the span because of the inherited margins bug -->
+		<span><input type="text" name="SearchPhotoWidth" id="SearchPhotoWidth" value="Width" title="Width" class="inputTextCanvas" onfocus="if(this.value==this.title)this.value='';" onblur="if(this.value=='')this.value=this.title;" style="margin: 0;"> <span class="x">x</span></span>
+    <input type="text" name="SearchPhotoHeight" id="SearchPhotoHeight" value="Height" title="Height" class="inputTextCanvas" onfocus="if(this.value==this.title)this.value='';" onblur="if(this.value=='')this.value=this.title;">
+    <select name="SearchPhotoResUnit" id="SearchPhotoResUnit" class="PhotoResUnit">
+      <option value="px" selected="selected">px</option>
+      <option value="inch">inch</option>
+      <option value="cm">cm</option>
+    </select><br>
+    
+    <label for="SearchPhotoResDpi72" class="inline dpi"><input type="Radio" disabled="disabled" name="SearchPhotoResDpi" id="SearchPhotoResDpi72" value="72"> 72 dpi</label>
+    <label for="SearchPhotoResDpi150" class="inline dpi"><input type="Radio" disabled="disabled" name="SearchPhotoResDpi" id="SearchPhotoResDpi150" value="150"> 150 dpi</label>
+    <label for="SearchPhotoResDpi300" class="inline dpi"><input type="Radio" disabled="disabled" name="SearchPhotoResDpi" id="SearchPhotoResDpi300" value="300"> 300 dpi</label>
+
+    <h5 style="margin: 15px 0 5px 0;">Style</h5>
+
+    <label for="SearchPhotoColormodeColor" style="display: inline;"><input type="checkbox" name="SearchPhotoColormodeColor" id="SearchPhotoColormodeColor" value="1"> Colour</label>
+    <label for="SearchPhotoColormodeBlackAndWhite" style="display: inline; margin-left: 10px;"><input type="checkbox" name="SearchPhotoColormodeBlackAndWhite" id="SearchPhotoColormodeBlackAndWhite" value="1"> Black/White</label>
+
+    <h5 style="margin: 15px 0 5px 0;">Extended Licenses</h5>
+    <label for="SearchPhotoExtendedLicence" style="display: inline;"><input type="checkbox" name="SearchPhotoExtendedLicence" id="SearchPhotoExtendedLicence" value="1"> available</label>
+  </div>
+
+  <div style="width: 150px; height: 190px; margin: 15px 0 0 20px; padding-left: 20px; float: left; border-left: 1px dotted #b7b299;">
+    <h2 style="margin: 0;">Category</h2>
+    <input type="hidden" name="SearchPhotoCategory" id="catselectId" value="">
+
+    <p id="catselectinfo" style="margin-top: 10px;">Click on "Choose Category" and pick the category that you'd like to search through or explore.
+
+</p>
+
+    <div id="catBoxContainer"></div>
+
+    <div class="clear" style="margin-bottom: 20px;">&nbsp;</div>
+
+    <a href="javascript: OpenCatSelect('/photocategory.asp');"><img src="/language/english/images/btn_catselect.gif" title="Choose Category" alt="Choose Category"></a>
+  </div>
+
+  <div style="width: 140px; height: 190px; margin: 15px 0 0 20px; padding-left: 20px; float: left; border-left: 1px dotted #b7b299;">
+    <h2 style="margin: 0 0 10px 0;">Colour</h2>
+
+    <div style="border: solid 1px #d1d0cd; background-color: white; padding: 2px; float: left;">
+      <div id="color_select_icon1" onclick="cs1_toggle_color_select(this, document.getElementById('color1').value);" title="Choose a colour..." style="width: 128px; height: 110px; background: url(/images/transparentbg.gif); cursor:pointer; cursor:hand;"></div>
+    </div>
+
+    <div class="clear"></div>
+
+    <label for="color1">Colour</label>
+    <input id="color1" name="SearchPhotoColor" value="" onkeyup="cs1_color_update(this.value);" class="inputText">
+
+    <a href="#" onclick="cs1_toggle_color_select(document.getElementById('color_select_icon1'), document.getElementById('color1').value); return false"><img src="/language/english/images/btn_selectcolor.gif" alt="Choose a colour" title="Choose a colour" style="margin-top: 10px;"></a>
+    <a href="#" onclick="cs1_delete_color(); return false"><img src="/images/btn_delete.gif" alt="Clear colour" title="Clear colour" style="margin-top: 10px;"></a>
+  </div>
+
+  <div class="clear"></div>
+
+  <div style="margin: 20px -10px 10px 0; padding-top: 20px; border-top: 1px dotted #b7b299;">
+    <input name="Submit" type="image" class="inputImage" value="Submit" src="/language/english/images/btn_startsearch_big.gif" alt="Start search" style="margin: -4px 0; float: left;">
+
+    <ul class="linklist linklistVertical" style="margin: 0 0 0 20px; float: left;">
+      <li><a href="javascript: extSearchReset();">Reset</a></li>
+      <li class="extSearch"><a href="javascript:;" class="toggleExtSearch">Hide</a></li>
+      <li class="popup"><a href="/faq.asp?s1=1813" class="popFaq">Help</a></li>
+    </ul>    
+
+    
+    
+
+    <div class="clear"></div>
+  </div>
+
+</div>
+
+<div class="clear"></div>
+
+</form>
+</div>
+<div class="clear"></div>
 
 
 
 
 <div id="boxContent" class="clearfix">
 
-  <div id="boxLeftColumn">&nbsp;</div> <!-- boxLeftColumn End -->
+  <div id="boxLeftColumn">
+    <h2>Legal</h2>
+
+    <ul class="linklist">
+      <li><a href="/termsofuse.asp">General Terms of Use</a></li>
+      <li><a href="/termsofuse.asp?doc=dla">Downloader License Agreement</a></li>
+      <li><a href="/termsofuse.asp?doc=pla">Photographer License Agreement</a></li>
+      <li><a href="/privacypolicy.asp" class="current">Privacy policy </a></li>
+      
+      <li class="newBlock"><a href="javascript: window.print();">Print Terms of Use</a></li>
+    </ul>
+    
+    <div class="divider"></div>
+<h2 style="background: url(/images/greencross.gif) no-repeat 0 50%; padding-left: 25px;">Questions?</h2>
+<p style="font-size: 1.5em">+44 20 3239 5151</p>
+<p style="margin-top: 0;">Available from 9am to 5pm London time, Mo-Fr.</p>
+<p style="margin-top: 10px;">Or use our <a href="/contact.asp">contact form</a> and the <a href="/faq.asp" class="popFaq">FAQ</a>.</p>
+
+    <div class="divider"></div>
+<h2>Follow us!</h2>
+
+
+  <ul class="linklist linklistVertical clearfix">
+    <li style="background: url(/images/twitter.gif) no-repeat 0 50%; padding-left: 20px;"><a href="http://www.twitter.com/photocase" target="_blank">Twitter</a></li>
+    <li style="background: url(/images/fb.gif) no-repeat 0 50%; padding-left: 20px;"><a href="http://www.facebook.com/photocase" target="_blank">Facebook</a></li>
+  </ul>
+
+
+
+      
+    <div class="divider"></div>
+    <div style="margin-top: 20px;"><script type="text/javascript">
+  GA_googleFillSlot("PCSlotSubpageLeftColumn");
+</script>
+</div>
+    
+    
+  </div> <!-- boxLeftColumn End -->
   
   <div id="boxMiddleColumn">
-    <h2>Privacy policy</h2>
-    
-    <p></p><p>Data protection is a special concern for us. As a user of our service you are entitled to the largest possible measure of sensitivity on our part in handling your personal data and to our commitment to a high degree of data security. What we do to satisfy the requirements of the Federal Data Protection Act (Bundesdatenschutzgesetz, BDSG) and of the Law on Data Protection in the Area of Tele Services (Gesetz über den Datenschutz bei Telediensten, TDDSG) is guided by the endeavour to reflect our respect for your privacy and your right of personality.</p>
+    <h2>Privacy Policy - Photocase</h2>
+
+<h3>Status: June 2010</h3>
+
+<p>Data protection is a special concern for us. As a user of our service you are entitled to the largest possible measure of sensitivity on our part in handling your personal data and to our commitment to a high degree of data security. What we do to satisfy the requirements of the Federal Data Protection Act (Bundesdatenschutzgesetz, BDSG) and of the Law on Data Protection in the Area of Tele Services (Gesetz über den Datenschutz bei Telediensten, TDDSG) is guided by the endeavour to reflect our respect for your privacy and your right of personality.</p>
 
 <p>This declaration is designed to inform you of the data protection aspects of our offer and of what action we take to protect your rights.</p>
 
-<p>Moreover, you declare, in regard to some processing steps, that we may, in certain circumstances and to a certain extent, collect, process and use your personal data. Of course, you may revoke your consent at any time via <a href="contact.asp">email</a> and/or in <a href="imprint.asp">writing</a>.</p>
+<p>Moreover, you declare, in regard to some processing steps, that we may, in certain circumstances and to a certain extent, collect, process and use your personal data. Of course, you may revoke your consent at any time via <a href="contact.asp">email</a> and/or in <a href="imprint">writing</a></p>
 
-<h4>1.Collection and processing of personal data</h4>
+<ul class="linklist hr" style="margin-top: 20px;">
+<li><a href="#1">1. Collection and processing of personal data</a></li>
+<li><a href="#2">2. Use of the data</a></li>
+<li><a href="#3">3. Furnishing of information, corrections, cancellation, blockage</a></li>
+<li><a href="#4">4. Cookies</a></li>
+<li><a href="#5">5. Security</a></li>
+</ul>
+
+<h4 class="hr" id="1">1.Collection and processing of personal data</h4>
 <p>We collect your data for the sole purpose of being able to submit to you a user-friendly, efficient and secure Internet offer.</p>
 
 <p><span style="font-weight: bold">a) Use of the website</span></p>
@@ -213,7 +416,15 @@ window.onload = function () {
 <ul><li>Your correct and full name and</li>
 <li>Your correct and full address.</li></ul>
 
-<p>These data will be queried by Photocase in the course of the first downloading operation initiated by you and will then become part of your inventory data record.</p>
+<p>You may also license photos without registering as a User. If you choose this option, we will ask you for the following particulars:</p>
+
+<ul>
+<li>your full correct name,</li>
+<li>your full correct address (billing address),</li>
+<li>your email address, and</li>
+</ul>
+
+<p>The particulars you provide before downloading a photo will then be used for your master data.</p>
 
 <p><span style="font-weight: bold">e) Email newsletter</span></p>
 
@@ -221,7 +432,7 @@ window.onload = function () {
 
 <p>If you no longer wish to receive information by email, you can remove yourself from the list by going to your User Profile page and removing the checkmark in the box next to "I'd like to subscribe the Photocase newsletter."</p>
 
-<h4>2. Use of the data</h4>
+<h4 id="2">2. Use of the data</h4>
 
 <p>We use the personal data collected and processed exclusively for the purpose of providing our services pursuant to the contract of use concluded with you and for the settlement of payments. Of course, in doing so we pay heed to all applicable data protection laws, notably the Federal Data Protection Law and the Law on Data Protection in the Area of Tele Services.</p>
 
@@ -231,132 +442,270 @@ window.onload = function () {
 
 <p>If your personal data are to be passed on for purposes other than referred to above, we will in each case obtain your consent. If you withhold it, we will of course abstain from passing them on.</p>
 
-<h4>3. Furnishing of information, corrections, cancellation, blockage</h4>
+<h4 id="3">3. Furnishing of information, corrections, cancellation, blockage</h4>
 
 <p>You can at any time request via email that we furnish information to you about your personal data being stored by us. Moreover, you may at any time have the data of your user account and, consequently, your personal data corrected, blocked or cancelled by us with the only exception of those data we need for the performance of the contract of use or the enforcement of our rights. However, if you wish to regain the full benefit of our offer after such blockage or cancellation, you will have to re-register.</p>
 
 <p>As a rule, the inventory data are cancelled at the end of the calendar year following the termination of our contractual relationship unless longer storage periods are prescribed by other statutory provisions (e.g. retaining directives).</p>
 
-<h4>4. Cookies</h4>
+<h4 id="4">4. Cookies</h4>
 <p>Our websites use so-called cookies if you are registered with us and have, before logging on for a session, chosen the option of keeping your computer registered for the entire period between logging in and logging out.</p>
 
 <p>Cookies are small data files stored on your hard drive containing some unique information about you so that Photocase will remember you and log you in automatically when you come to the site.</p>
 
 <p>Should you, however, wish to generally discontinue the use of cookies, you may use your browser to prevent the acceptance and storage of new cookies without losing the use of our offer. To find out how this works with the browser used by you, you should resort to the browser's help function or contact the manufacturer. However, we recommend to you to leave the cookies functions switched on as only if you do will you retain the full benefit of the high level of user comfort we keep striving for.</p>
 
-<h4>5. Security</h4>
+<h4 id="5">5. Security</h4>
 <p>We have taken technical and organisational measures to ensure that your personal data are protected from loss, incorrect changes or unauthorised access by third parties. For our part we consistently make sure that only authorised persons will have access to your personal data and that such access is limited to what is required for the purposes referred to above. Our security precautions are continuously being improved as better technical solutions become available.</p>
-<p></p>
+<h2>Privacy Policy - Photocase</h2>
+
+<h3>Status: June 2010</h3>
+
+<p>Data protection is a special concern for us. As a user of our service you are entitled to the largest possible measure of sensitivity on our part in handling your personal data and to our commitment to a high degree of data security. What we do to satisfy the requirements of the Federal Data Protection Act (Bundesdatenschutzgesetz, BDSG) and of the Law on Data Protection in the Area of Tele Services (Gesetz über den Datenschutz bei Telediensten, TDDSG) is guided by the endeavour to reflect our respect for your privacy and your right of personality.</p>
+
+<p>This declaration is designed to inform you of the data protection aspects of our offer and of what action we take to protect your rights.</p>
+
+<p>Moreover, you declare, in regard to some processing steps, that we may, in certain circumstances and to a certain extent, collect, process and use your personal data. Of course, you may revoke your consent at any time via <a href="contact.asp">email</a> and/or in <a href="imprint">writing</a></p>
+
+<ul class="linklist hr" style="margin-top: 20px;">
+<li><a href="#1">1. Collection and processing of personal data</a></li>
+<li><a href="#2">2. Use of the data</a></li>
+<li><a href="#3">3. Furnishing of information, corrections, cancellation, blockage</a></li>
+<li><a href="#4">4. Cookies</a></li>
+<li><a href="#5">5. Security</a></li>
+</ul>
+
+<h4 class="hr" id="1">1.Collection and processing of personal data</h4>
+<p>We collect your data for the sole purpose of being able to submit to you a user-friendly, efficient and secure Internet offer.</p>
+
+<p><span style="font-weight: bold">a) Use of the website</span></p>
+
+<p>You may, as a matter of principle, visit our webpages without disclosing your personal data. All that is stored when you visit us is the URL of the webpage through which you gained access to our offer, the name of your Internet service provider and of your Internet browser, the websites you visited within our Internet offer, date and duration of your visit, the volume of data transmitted to you during your visit and your IP address. The storage of these particulars is not performed by us but rather by our service provider except for your IP address, which is stored by us. For this purpose, small data files (so-called cookies) are deposited in the main memory of your computer for the time of your visit. These are so-called temporary session cookies (for permanent cookies see para. 4) which are automatically erased as soon as you close your browser window.</p>
+
+<p>The session cookies provide us for internal statistical purposes with so-called session IDs for storage in tracking log data files. The data thus obtained are completely anonymous. We reserve the right to have the logs analysed by external service providers. If we do so, we will take every precaution to ensure the security, inviolability and integrity of your data.</p>
+
+<p>Our website may contain links to websites of other providers not associated with us. Once you have clicked such a link, we have no influence any more on the processing of such personal data as may as a result be transferred to third parties (such as the IP address or the URL on which the link is available). We have no influence on the conduct of third parties, so that we cannot assume any responsibility for the handling of personal data by them.</p>
+
+<p>Nor can we be held responsible for data you leave behind in the context of our offer in forums and similar environments accessible to any user.</p>
+
+<p><span style="font-weight: bold">b) Registered users</span></p>
+
+<p>To enable you to get the full benefit of our Internet offer, you first need to be registered on our website. For this purpose you are required to provide us with the following data (hereinafter referred to as "inventory data") which will be queried, in the context of your registration, by the input mask.</p>
+
+<ul><li>Your email address,</li>
+<li>A user name of your choice,</li>
+<li>A password chosen by you. This password will be stored in extremely encoded form and will not be visible in plain text at any time.</li></ul>
+
+<p>As for further personal data such as your official name, your address, a personal website or your date of birth, you may communicate them to us if you wish.</p>
+
+<p>In particular, you may wish to designate your bank account for the remittance of the payments due to you for the download of your photographs on the basis of non-gratuitous download credits. Of course, you may just as well communicate your banking connection at a later date.</p>
+
+<p>If you opt for the communication of such further particulars, they become part of your inventory data record.</p>
+
+<p><span style="font-weight: bold">c) Uploading photographs</span></p>
+
+<p>If you, as a registered user, also wish to upload photographs and offer them to other users for viewing and downloading, we require from you apart from the particulars listed in para. 1. b) the following additional data:</p>
+
+<ul><li>Your correct and full name and</li>
+<li>Your correct and full address.</li></ul>
+
+<p>These data will be queried by Photocase in the course of the first uploading operation initiated by you and will then become part of your inventory data record.</p>
+
+<p><span style="font-weight: bold">d) Downloading photographs</span></p>
+
+<p>If you, as a registered user, also wish to download photographs, we require from you apart from the particulars listed in para.</p>
+
+<p>1. b) the following additional data:</p>
+
+<ul><li>Your correct and full name and</li>
+<li>Your correct and full address.</li></ul>
+
+<p>You may also license photos without registering as a User. If you choose this option, we will ask you for the following particulars:</p>
+
+<ul>
+<li>your full correct name,</li>
+<li>your full correct address (billing address),</li>
+<li>your email address, and</li>
+</ul>
+
+<p>The particulars you provide before downloading a photo will then be used for your master data.</p>
+
+<p><span style="font-weight: bold">e) Email newsletter</span></p>
+
+<p>If you have decided to subscribe to our newsletter, we will use the email address you named to us when registering in order to keep you abreast of changes to and new features of our offer. By subscribing to the newsletter you agree to our use of your email address in the above form.</p>
+
+<p>If you no longer wish to receive information by email, you can remove yourself from the list by going to your User Profile page and removing the checkmark in the box next to "I'd like to subscribe the Photocase newsletter."</p>
+
+<h4 id="2">2. Use of the data</h4>
+
+<p>We use the personal data collected and processed exclusively for the purpose of providing our services pursuant to the contract of use concluded with you and for the settlement of payments. Of course, in doing so we pay heed to all applicable data protection laws, notably the Federal Data Protection Law and the Law on Data Protection in the Area of Tele Services.</p>
+
+<p>In all other respects, our data processing is generally designed to improve our offer and enhance its security without, however, using personal data for this purpose. The above processing is performed anonymously.</p>
+
+<p>We do not pass your personal data on to third parties for marketing or similar purposes. Data are passed on only if and to the extent that this is necessary for the performance of the contract of use, where we are obligated to do so by law or to the extent that this is required for the implementation of our general terms of use or the performance of other covenants made with you, or for the assertion of our rights and claims.</p>
+
+<p>If your personal data are to be passed on for purposes other than referred to above, we will in each case obtain your consent. If you withhold it, we will of course abstain from passing them on.</p>
+
+<h4 id="3">3. Furnishing of information, corrections, cancellation, blockage</h4>
+
+<p>You can at any time request via email that we furnish information to you about your personal data being stored by us. Moreover, you may at any time have the data of your user account and, consequently, your personal data corrected, blocked or cancelled by us with the only exception of those data we need for the performance of the contract of use or the enforcement of our rights. However, if you wish to regain the full benefit of our offer after such blockage or cancellation, you will have to re-register.</p>
+
+<p>As a rule, the inventory data are cancelled at the end of the calendar year following the termination of our contractual relationship unless longer storage periods are prescribed by other statutory provisions (e.g. retaining directives).</p>
+
+<h4 id="4">4. Cookies</h4>
+<p>Our websites use so-called cookies if you are registered with us and have, before logging on for a session, chosen the option of keeping your computer registered for the entire period between logging in and logging out.</p>
+
+<p>Cookies are small data files stored on your hard drive containing some unique information about you so that Photocase will remember you and log you in automatically when you come to the site.</p>
+
+<p>Should you, however, wish to generally discontinue the use of cookies, you may use your browser to prevent the acceptance and storage of new cookies without losing the use of our offer. To find out how this works with the browser used by you, you should resort to the browser's help function or contact the manufacturer. However, we recommend to you to leave the cookies functions switched on as only if you do will you retain the full benefit of the high level of user comfort we keep striving for.</p>
+
+<h4 id="5">5. Security</h4>
+<p>We have taken technical and organisational measures to ensure that your personal data are protected from loss, incorrect changes or unauthorised access by third parties. For our part we consistently make sure that only authorised persons will have access to your personal data and that such access is limited to what is required for the purposes referred to above. Our security precautions are continuously being improved as better technical solutions become available.</p>
+
     
   </div> <!-- boxMiddleColumn End -->
   
-  <div id="boxRightColumn"><div style="margin-top: 20px;" id="bannerbrause"><div id="loadbannerbrause"><script type="text/javascript"><!--//<![CDATA[
-var m3_u = (location.protocol=='https:'?'https://bannerbrause.photocase.com/info/www/delivery/ajs.php':'http://bannerbrause.photocase.com/info/www/delivery/ajs.php');
-var m3_r = Math.floor(Math.random()*99999999999);
-if (!document.MAX_used) document.MAX_used = ',';
-document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-document.write ("?zoneid=4");
-document.write ('&amp;cb=' + m3_r);
-if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-document.write ("&amp;loc=" + escape(window.location));
-if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-if (document.context) document.write ("&context=" + escape(document.context));
-if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://bannerbrause.photocase.com/info/www/delivery/ajs.php?zoneid=4&amp;cb=61372171524&amp;loc=https%3A//web.archive.org/web/20090316034800id_/http%3A//photocase.com/en/privacypolicy.asp"></script></div></div></div></div>
+  <div id="boxRightColumn">
+    <div style="margin-top: 20px;"><script type="text/javascript">
+  GA_googleFillSlot("PCSlotSubpageRightColumn");
+</script>
+</div>
+	
+<div class="divider"></div>
+<h2>Follow us!</h2>
+
+
+  <ul class="linklist linklistVertical clearfix">
+    <li style="background: url(/images/twitter.gif) no-repeat 0 50%; padding-left: 20px;"><a href="http://www.twitter.com/photocase" target="_blank">Twitter</a></li>
+    <li style="background: url(/images/fb.gif) no-repeat 0 50%; padding-left: 20px;"><a href="http://www.facebook.com/photocase" target="_blank">Facebook</a></li>
+  </ul>
+
+
+
+  </div>
   
 </div> <!-- BoxContent End -->
 
 <div class="footer">
-  <div class="copyright"><span class="copy">©</span> 2001 - 2009 Photocase. All rights reserved.</div>
+  <div class="copyright"><span class="copy">©</span> 2011 Photocase Addicts GmbH. Made in Germany since 2001.</div>	
+	
+	<!-- AddThis Button BEGIN -->
+	<div class="addthis_toolbox addthis_default_style" style="margin: 2px 0 0 20px; float: right;">
+		<a class="addthis_button_facebook"><img src="/images/fb2.gif"></a>
+		<a class="addthis_button_twitter"><img src="/images/twitter2.gif"></a>
+		<a class="addthis_button_email"><img src="/images/mail.gif"></a>
+		<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=photocase" class="addthis_button_expanded" style="margin-left: 10px;">More <img src="/images/arrowdown.gif"></a>
+	</div>
+	
+	<!-- there is some css styles for the add this button in commom.css. look for "addthis" -->
+	
+	<script type="text/javascript">
+		var addthis_share = { templates: { twitter: '{{title}}: {{url}} via @photocase' } };
+		
+		var addthis_config = { 
+  		data_track_clickback: true,
+  		services_compact: 'facebook, email, twitter, print, google, live, myspace, stumbleupon, favorites, digg, delicious, orkut, blogger, meinvz, studivz, tumblr, more',
+  		services_expanded: 'facebook, email, twitter, print, google, live, myspace, stumbleupon, favorites, digg, delicious, orkut, blogger, vk, reddit, yahoomail, aim, gmail, mailto, meneame, hotmail, linkedin, viadeo, buzz, googlebuzz, meinvz, hyves, aolmail, yahoobkm, baidu, tumblr, sonico, misterwong_de, pdfonline, wordpress, friendfeed, 100zakladok, friendster, addio, amazonwishlist, bebo, bobrdobr, studivz, livejournal, dotnetshoutout, hatena, bitly, 2tag, adifni, oyyla, more'
+  	};
+	</script>
 
+	<script type="text/javascript">
+	  var sAddThisSrc = (("https:" == document.location.protocol) ? "https%3A//" : "http%3A//");
+	  document.write((unescape("%3Cscript src='" + sAddThisSrc + "s7.addthis.com/js/250/addthis_widget.js%23username%3Dphotocase' type='text/javascript'%3E%3C/script%3E")));
+	</script><script src="https://s7.addthis.com/js/250/addthis_widget.js#username=photocase" type="text/javascript"></script>
+	<!-- AddThis Button END -->
+	
+	
   <ul class="linklist linklistVertical">
     <li class="feed"><a href="photocase.rss">New Photos</a></li>
     <li class="feed"><a href="photocase.rss?m=interestingphotos">Interesting Photos</a></li>
     <li class="feed"><a href="photocase.rss?m=interestingusers">Interesting Users</a></li>
-    <li class="delicious"><a href="javascript:location.href='http://del.icio.us/post?v=4;url='+encodeURIComponent(location.href)+';title='+encodeURIComponent(document.title)" title="Bookmark this page on deli.cio.us">del.icio.us</a></li>
-    <li class="wong"><a href="http://www.mister-wong.de/add_url/" onclick="location.href=&quot;http://www.mister-wong.de/index.php?action=addurl&amp;bm_url=&quot;+encodeURIComponent(location.href)+&quot;&amp;bm_description=&quot;+encodeURIComponent(document.title)+&quot;&quot;;return false" title="Diese Seite zu Mister Wong hinzufügen" target="_top">Mister Wong</a></li>
   </ul>
 
-  <div class="clear">&nbsp;</div><div class="divider" style="margin-top: 11px;">&nbsp;</div>
+  <div class="clear"></div><div class="divider" style="margin-top: 11px;">&nbsp;</div>
 
 	<ul class="linklist linklistFooter">
-	  <li class="linklistHeadline">photos.</li>
-  	<li><a href="photobrowser.asp">Browse all Photos</a></li>
-    <li><a href="collection.asp">Public Lightboxes</a></li>
-    <li><a href="newcomments.asp">New Comments</a></li>
-    <li><a href="photoadd.asp">Upload Photos</a></li>
-    <li><a href="myphotos.asp">My Photos </a></li>
-    <li><a href="javascript: OpenLightbox('lightbox.asp');">My Lightboxes</a></li>
+	  <li class="linklistHeadline">Photos</li>
+  	<li><a href="/photobrowser.asp">Browse all Photos</a></li>
+    <li><a href="/collection.asp">Public Lightboxes</a></li>
+    <li><a href="/newcomments.asp">New Comments</a></li>
+    <li><a href="/photoadd.asp">Upload Photos</a></li>
+    <li><a href="/myphotos.asp">My Photos </a></li>
+    <li><a href="javascript: OpenLightbox('/lightbox.asp');">My Lightboxes</a></li>
   </ul>
 
   <ul class="linklist linklistFooter">
     <li class="linklistHeadline">Community</li>
-  	<li><a href="community.asp">Community overview</a></li>
-    <li><a href="news.asp">News</a></li>
-    <li><a href="forum.asp">Forum</a></li>
-    <li><a href="user.asp">Photographers &amp; Users</a></li>
-    <li><a href="poll.asp">Polls</a></li>
-    <li><a href="http://blog.photocase.com" target="_blank" style="background: url(images/ico_star_blue.gif) no-repeat top right; padding-right: 10px;">Blog</a></li>
-  </ul>
+  	<li><a href="/community.asp">Community overview</a></li>
+    <li><a href="/news.asp">News</a></li>
+    <li><a href="/forum.asp">Forum</a></li>
+    <li><a href="/user.asp">Photographers &amp; Users</a></li>
+    <li><a href="/poll.asp">Polls</a></li>
+    <li><a href="http://blog.photocase.com/en/" target="_blank" style="background: url(/images/ico_star_blue.gif) no-repeat top right; padding-right: 10px;">Blog</a></li>
+  </ul>      
 
   <ul class="linklist linklistFooter">
     <li class="linklistHeadline">MyPhotocase</li>
-  	<li><a href="myphotocase.asp">MyPhotocase Overview</a></li>
-    <li><a href="myphotos.asp">My Photos</a></li>
-    <li><a href="javascript: OpenLightbox('lightbox.asp');">My Lightboxes</a></li>
-    <li><a href="buddylist.asp">My Buddies</a></li>
-    <li><a href="mynotifications.asp">My Notifications</a></li>
-    <li><a href="mydownloads.asp">My Downloads and Licences</a></li>
-    <li><a href="myaccount.asp">My Photocase Account</a></li>
-    <li><a href="user.asp?u=">Show My User Profile</a></li>
-    <li><a href="myuseraccount.asp?m=personal">Edit my Personal Details</a></li>
-    <li><a href="myuseraccount.asp?m=userprofile">Edit My User Profile</a></li>
-    <li><a href="myuseraccount.asp?m=settings">Edit Preferences</a></li>
+  	
+  	<li class="popup"><a href="/myphotocase.asp?m=downloads">My Downloads</a></li>
+  	<li><a href="/myphotocase.asp?m=invoice">My Receipts</a></li>
+  	
+  	<li class="popup"><a href="javascript: OpenLightbox('/lightbox.asp');">My Lightboxes</a></li>
+  	<li><a href="/photofavorite.asp?m=myfavorites">My Favorites</a></li>
+  	<li><a href="/mynotifications.asp">My Notifications</a></li>
+  	
+  	<li><a href="/myuseraccount.asp?m=personal">Edit my Personal Details</a></li>
+  	<li><a href="/myuseraccount.asp?m=settings">Edit Preferences</a></li>
+    
+    
+  	
   </ul>
 
   <ul class="linklist linklistFooter">
-    <li class="linklistHeadline">Help and Service</li>
-    <li><a href="faq.asp" class="popFaq">Help &amp; FAQ</a></li>
-    <li><a href="contact.asp">Contact</a></li>
-    <li><a href="imprint.asp">Imprint</a></li>
-    <li><a href="termsofuse.asp">Terms of Use</a></li>
-    <li><a href="copyrightviolation.asp">Report copyright violation</a></li>
-    <li><a href="privacypolicy.asp">Privacy policy</a></li>
-    <li><a href="about.asp">About Photocase</a></li>
+    <li class="linklistHeadline">Help &amp; Service</li>
+    <li><a href="/faq.asp" class="popFaq">Help &amp; FAQ</a></li>
+    <li><a href="/contact.asp">Contact</a></li>
+    <li><a href="/newsletter.asp">Newsletter</a></li>
+    <li><a href="/imprint">Imprint</a></li>
+    <li><a href="/termsofuse.asp">Terms of Use</a></li>
+    <li><a href="/copyrightviolation.asp">Report copyright violation</a></li>
+    <li><a href="/privacypolicy.asp">Privacy policy</a></li>
+    <li><a href="/about">About Photocase</a></li>
   </ul>
 
   <ul class="linklist linklistFooter">
     <li class="linklistHeadline">Shop</li>
-    <li><a href="shop.asp">Buy Download Credits</a></li>
+    <li><a href="/shop.asp">Buy Download Credits</a></li>
 
     <li class="linklistHeadline" style="margin-top: 20px;">Language</li>
-    <li><a href="/en/privacypolicy.asp">English</a></li>
-<li><a href="/de/privacypolicy.asp">Deutsch</a></li>
-<li><a href="/fr/privacypolicy.asp">Français</a></li>
-<li><a href="/es/privacypolicy.asp">Español</a></li>
+    <li><a href="http://www.photocase.com/privacypolicy.asp" rel="nofollow">English</a></li>
+<li><a href="http://www.photocase.de/privacypolicy.asp" rel="nofollow">Deutsch</a></li>
+<li><a href="http://www.photocase.es/privacypolicy.asp" rel="nofollow">Español</a></li>
+  </ul>
+  
+  <ul class="linklist linklistFooter">
+    <li class="linklistHeadline">Partner</li>
+    <li style="margin-top: 15px;"><a href="http://www.designmadeingermany.de/" title="Design made in Germany Beta - Die besten Arbeiten deutscher Agenturen und Designer." target="_blank"><img src="/images/dmig.gif"></a></li>
   </ul>
 
-	<div class="clear">&nbsp;</div>
+	<div class="clear"></div>
 
 </div>
 
 
-<script type="text/javascript"><!--//<![CDATA[
-var div = document.getElementById('loadbannerbrause');
-var target = document.getElementById('bannerbrause');
-target.appendChild(div);
-//]]>--></script>
+
 <script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
   var pageTracker = _gat._getTracker("UA-825113-1");
+  
   pageTracker._initData();
   pageTracker._trackPageview();
+  
 </script>
 
-
+</div>
 
 </body></html>
