@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamepressure.com privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813194716id_/http%3A//info.gamepressure.com/%23privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepressure.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304020516id_/http%3A//info.gamepressure.com/%23privacy_policy) for the most accurate reproduction.*
 
 # GamePressure.com
 
@@ -80,7 +80,7 @@ We are constantly seeking to improve GamePressure site which result in new servi
 
 Our philosophy is to make entertainment easier by bringing you sites full of useful information about video games.
 
-**ALL YOU WANT TO KNOW ABOUT ADVERTISING ON GAMEPRESSURE.COM** is in this presentation ([pdf](https://web.archive.org/web/20100813194716id_/http://info.gamepressure.com/Gamepressure_advertising_offer_for_site.pdf)):
+**ALL YOU WANT TO KNOW ABOUT ADVERTISING ON GAMEPRESSURE.COM** is in this presentation ([pdf](https://web.archive.org/web/20110304020516id_/http://info.gamepressure.com/Gamepressure_advertising_offer_for_site.pdf)):
 
   * range
   * users demographics
@@ -93,4 +93,4 @@ Our philosophy is to make entertainment easier by bringing you sites full of use
 
 Do not hesitate if you have any additional questions. Send an e-mail on  and our marketing rep will contact you within 3 business days.
 
-Copyright © 2005-2010 GAMEPRESSURE.com
+Copyright © 2005-2011 GAMEPRESSURE.com
