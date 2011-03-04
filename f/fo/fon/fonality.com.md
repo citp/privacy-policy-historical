@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fonality.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225114738id_/http%3A//fonality.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonality.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304163714id_/http%3A//www.fonality.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Fonality, Inc
 
