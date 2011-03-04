@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcruiseholidays.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229185133id_/http%3A//worldcruiseholidays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcruiseholidays.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304020436id_/http%3A//worldcruiseholidays.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
