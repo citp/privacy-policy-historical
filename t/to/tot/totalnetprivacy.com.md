@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalnetprivacy.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921061216id_/http%3A//www.totalnetprivacy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalnetprivacy.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304235753id_/http%3A//www.totalnetprivacy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
