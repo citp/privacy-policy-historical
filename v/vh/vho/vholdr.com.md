@@ -1,94 +1,75 @@
-> *The following text is extracted and transformed from the vholdr.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416044143id_/http%3A//www.vholdr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vholdr.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304172332id_/http%3A//contour.com/legal/privacy) for the most accurate reproduction.*
 
-# VholdR Privacy Notice | VholdR
+# Contour >> Privacy Policy
 
-Updated as of July 23, 2008
+Effective August 25, 2010 
 
-The Twenty20 Privacy Policy describes how Twenty20, Inc and its subsidiaries collect and treat personal information when you use our services, including information provided when you use VholdR.com and VholdR Desktop. The following describes privacy practices specific to VholdR.com and VholdR Desktop. To understand how we treat the information you give us as you use VholdR, you should read this Twenty20 Privacy Policy.
+Contour, Inc. ( _"Contour"_ , _"we"_ or _"our"_ ) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of the Contour service ( _"Contour"_ ), which is, among other things, an online community to share videos made with Contour wearable video cameras, accessible at www.contour.com (the _"Site"_ ). This Privacy Policy also applies to information we collect from users who download our Story Teller App. software (the _"Software"_ ) for use with Contour products, available at [/software/storyteller](https://web.archive.org/software/storyteller). This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Contour Terms of Service, accessible at [/legal/tos](https://web.archive.org/legal/tos). 
 
-  
+As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally. 
 
+## Information Collection and Use
 
-### The Information We Collect
+Our primary goals in collecting information are to provide and improve our Site, services, including Contour, features and content, to administer your membership (together, the _"Service"_ ) and to enable users to enjoy and easily navigate the Site. 
 
-You can watch videos on VholdR.com without having a VholdR.com Account. You can also contact us about a particular video without having an account. However, in order to take advantage of other activities on VholdR.com —like uploading videos, posting comments, flagging videos, or watching restricted videos—we require you to have a VholdR.com Account. 
+### Personally Identifiable Information.
 
-  * **Depending on your use of our site, you will provide two types of information: personal information you knowingly choose to disclose that is collected by us and information automatically collected by us as you interact with VholdR.com or VholdR Desktop.**
-
-  * **Information you provide.** We ask for some personal information when you create a VholdR.com Account, including your email address and a password, which is used to protect your account from unauthorized access. Your account name along with any video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and accessed by others. **  
-**
-
-  *   
-
-  * **Information automatically provided.** We may record non-personal information (such as cookies, IP addresses, browser type, clickstream data, etc.) about your usage, such as when you use VholdR.com, the channels, groups, and favorites you subscribe to, the contacts you communicate with, the videos you watch, and the frequency and size of data transfers, as well as information you display or click on in VholdR.com (including UI elements, settings, and other information). If you are logged in, we may associate that information with your account. 
-
-  *   
+  * When you register with us through the Site or upon downloading the Software, we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you ( _"Personal Information"_ ). Personal Information includes, but is not limited to, your name and email address. We use your Personal Information mainly to provide the Service and administer your inquiries.
+  * We may also collect the other information that you provide as part of registration and the administration and personalization of your profile (e.g., without limitation, city, website, interests, Contour camera serial number and individual preferences) ( _"Non-Identifying Information"_ ).
+  * We use your Personal Information (in some cases, in conjunction with your Non-Identifying Information) mainly to provide the Service and administer your inquiries.
+  * Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other Contour Users (defined below) to attempt to provide you with a better experience, to improve the quality and value of the Service and to analyze and understand how our Site and Service are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a service to you according to your preferences or restrictions.
+  * We also use your Personal Information to contact you with Contour newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "Settings" information. (See **"Changing or Deleting Information,"** below.)
 
 
 
+_Promotions_. From time to time we may provide you the opportunity to participate in surveys, contests or sweepstakes (collectively, _"Promotions"_ ) through the Site. If you participate, we will request certain Personal Information from you. Participation in these Promotions is completely voluntary and you therefore have a choice whether or not to disclose this information. We use this information to administer your participation in each Promotion. 
 
-### **How We Use the Information We Collect**
+_Log Data_. When you visit the Site, whether as a registered member or a non-registered user just browsing (any of these, a _"Contour User"_ ), our servers automatically record information that your browser sends whenever you visit a website ( _"Log Data"_ ). This Log Data may include information such as your computer’s browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Service and for the Site’s technical administration, to increase our Site’s functionality and user-friendliness, and to better tailor it to our visitors’ needs. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. 
 
-  * If you submit personally identifiable information to us through VholdR.com or VholdR Desktop, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of the VholdR applications, and to process any flagging activity or correspondence you send to us.
+## Cookies
 
-  * Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the VholdR.com and other Users can contact you through messages and comments. Any videos that you submit to the VholdR Sites may be redistributed through the internet and other media channels, and may be viewed by the general public. 
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your username and password for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Service and then close your browser. Third party advertisers on the Site may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Service. 
 
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent unless that use is part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major VholdR Site changes or for customer service purposes). 
+## Messaging Via a Contour Account
 
-  * We use both your personally identifiable information and certain non-personally-identifiable information to improve the quality and design of the VholdR Sites and to create new features, promotions, functionality, and services by storing, tracking, analyzing, and processing user preferences and trends, as well as user activity and communications. We may use clear GIFs (a.k.a. "Web Beacons") in HTML-based emails sent to our users to track which emails are opened by recipients.
+As part of the Service, Contour members may communicate with other Contour members through use of their accounts. Contour members may send a message to other members by selecting the "Send Msg" icon in a Contour member profile. 
 
-  * We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the VholdR Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests. If you download VholdR Desktop, your copy of the software includes a unique application number. The unique application number and information about your installation of the software (e.g. version number, language) will be sent to VholdR.com when VholdR Desktop automatically checks for updates.
+## Phishing
 
+Identity theft and the practice currently known as "phishing" are of great concern to Contour. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your username, password or credit card or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website. 
 
+## Information Sharing and Disclosure
 
+_Contour members._ When you register through the Site and submit your Personal Information to create a profile webpage, Contour members will see your username. You can choose what other Personal Information you provide as part of your profile ( _"Other Subscriber Information"_ ). Providing Other Subscriber Information is voluntary and should correlate with the degree of interaction you want to have with Contour Users. We recommend that you guard your anonymity and sensitive information and that you not use your real name as your username, since that would allow others to identify you. Please note that you have no expectation of privacy vis-à-vis any User Content you provide and make available via the Site and Service. 
 
-### **Your Choices**
+_Aggregate Information and Non-Identifying Information._ We may share aggregated information that does not include Personal Information and we may otherwise disclose Non-Identifying Information and Log Data with third parties for industry analysis, demographic profiling and other purposes. Any aggregated information shared in these contexts will not contain your Personal Information. 
 
-  * You may, of course, decline to submit personally identifiable information through the VholdR Sites, in which case you can still view videos and explore the VholdR Sites, but VholdR may not be able to provide certain services to you. Some advanced VholdR features may, for authentication purposes, require you to sign up for other services. The privacy notices of those services govern the use of your personal information associated with them.
+_Service Providers._ We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Site-related services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Site’s features) or to assist us in analyzing how our Site and Service are used. These third parties have access to your Personal Information only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose. Distribution of User Content. We may provide your User Content (defined in the Contour Terms of Service) that you submit to us to third parties for distribution on third party distribution channels selected by us. In such instances, although we will not provide your Personal Information to the third parties separately along with your User Content, if there is any information about you in the User Content (including, but not limited to, you being identifiable in a video you upload to the Site) that could be Personal Information that will be provided to the third party and may be virally distributed via the third party distribution channels. 
 
-  *   
+_Compliance with Laws and Law Enforcement._ Contour cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of Contour or a third party, to protect the safety of the public or any person, or to prevent or stop activity we may consider to be, or to pose a risk of being, any illegal, unethical or legally actionable activity. 
 
-  * You may update or correct your personal profile information and email preferences at any time by visiting your account profile page.
+_Business Transfers._ Contour may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. 
 
-  * You may clear your viewing history at any time through the "Viewing History" feature.
+## Changing or Deleting Your Information
 
+All members may review, update, correct or delete the Personal Information in their profile by contacting us or by updating the "Settings" and "Profile" areas of the Site. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us at [admin@contour.com](mailto:admin@contour.com) with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes. 
 
+## Security
 
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
 
-### **Children Under Age 13**
+## International Transfer
 
-Twenty20 does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register with Vholdr.com or VholdR Desktop or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Twenty20 or on Vholdr.com. In the event we learn that we have collected personal from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us as **[support@vholdr.com](mailto:support@vholdr.com)**.
+Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, Contour transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
 
-We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
+## Links to Other Sites
 
-### **Third-party Advertisers**
+Our Site may contain links to other websites. If you choose to visit an advertiser by "clicking on" a banner ad or other type of advertisement, or click on another third party link, you will be directed to that third party’s website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
 
-VholdR allows other companies, called third-party ad servers or ad networks, to serve advertisements within the VholdR Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the VholdR Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. Twenty20 does not have access to or control of these technologies that may be used by third-party advertisers. 
+## Our Policy Toward Children
 
-Third-party advertisers do not have access to or control over any of the personal information you provide on VholdR.com. Twenty20 does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks VholdR to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the VholdR Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
+This Site is not directed to individuals under 18. We do not knowingly collect personally identifiable information from individuals under 18. If a parent or guardian becomes aware that his or her minor child under 18 has provided us with Personal Information without their consent, he or she should contact us at [admin@contour.com](mailto:admin@contour.com). If we become aware that a person under 18 has provided us with Personal Information, we will delete such information from our files. 
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. 
+## Contacting Us 
 
-### **Links to Other Sites**
-
-Vholdr.com may contain links to third-party sites. Twenty20’s Privacy Policy only governs information collected on Vholdr.com’s website. This privacy policy does not apply to, and we cannot control the activities of other web sites. We encourage our users to be aware when they leave our site and link to another site and to read the privacy policy stated on those site. 
-
-### **Terms of Service, Notices and Revisions**
-
-Your use of Vholdr.com and VholdR Desktop, and any disputes arising from them, are subject to this Privacy Policy as well as our Terms of Service and all of its dispute resolution provisions including limitation on damages and choice of law. 
-
-We reserve the right to change our Privacy Policy and our Terms of Service at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and indicate at the top of this page the policy’s new effective date.
-
-If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy and our Terms of Service on an ongoing basis so that you understand our current policies. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
-
-### **Contacting Us**
-
-  
-If you have any questions about this privacy policy, please contact us at any time at [support@vholdr.com](mailto:support@vholdr.com). Or write to us at:
-
-Twenty20 Privacy  
-1319 Dexter Ave N.- Suite 180  
-Seattle, WA 98109
-
-  
-
+If you have any questions about this Privacy Policy, please contact us at [admin@contour.com](mailto:admin@contour.com) or at: Contour, Inc. 3131 Western Ave. Suite 410 Seattle, WA 98122. 
