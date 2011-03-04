@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contour.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201154817id_/http%3A//contour.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contour.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304172332id_/http%3A//contour.com/legal/privacy) for the most accurate reproduction.*
 
 # Contour >> Privacy Policy
 
