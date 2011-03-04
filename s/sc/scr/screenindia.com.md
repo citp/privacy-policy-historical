@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the screenindia.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129032649id_/http%3A//www.screenindia.com/static/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenindia.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304021934id_/http%3A//www.screenindia.com/static/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Screenindia.com
 
-Thank you for visiting Expressindia.com, the website of The Indian Express Group. We respect your privacy and consider it an important element of our business. Our privacy policy is straightforward: We do not collect personal information about you when you visit our website(s) unless you volunteer to provide that information to us.
+Thank you for visiting Screenindia.com, the website of The Indian Express Group. We respect your privacy and consider it an important element of our business. Our privacy policy is straightforward: We do not collect personal information about you when you visit our website(s) unless you volunteer to provide that information to us.
 
 This is broadly how we handle the information we gather.
 
