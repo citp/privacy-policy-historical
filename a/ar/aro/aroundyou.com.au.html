@@ -1,243 +1,76 @@
-<!--The following is the downloaded HTML source of the aroundyou.com.au privacy policy that was archived on 2010-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101130120148id_/http%3A//www.aroundyou.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aroundyou.com.au privacy policy that was archived on 2011-03-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110304020816id_/http%3A//www.aroundyou.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+	<base href="http://www.aroundyou.com.au"> 
 	<meta http-equiv="content-type" content="text/html;charset=UTF-8">
 	<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
     <title>AroundYou.com.au | Privacy</title>
 <meta content="Find, create and share local events and activities AroundYou. Browse through 1000’s of local events from music, sport, theatre, kids events, community and cultural events and more." name="description">
 <meta content="aroundyou, what's on, local events, events, concerts, festivals, theatre, family, community, cultural, activities, local activities, make it happen, causes, charity, activism" name="keywords">
 	
-	<link href="/stylesheets/base.css?1290687331" media="screen" rel="stylesheet" type="text/css">
-	<link href="/stylesheets/style.css?1290687331" media="screen" rel="stylesheet" type="text/css">
-
-	<link href="/stylesheets/jquery.autocomplete.css?1290687331" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/form.css?1290687331" media="screen" rel="stylesheet" type="text/css">
+	<link href="/assets/all.css?1297127194" media="all" rel="stylesheet" type="text/css">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js" type="text/javascript"></script>
 	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js" type="text/javascript"></script>
-<script src="/javascripts/jquery.form.js?1290687331" type="text/javascript"></script>
-	<script src="/javascripts/jquery.example.js?1290687331" type="text/javascript"></script>
-<script src="/javascripts/jquery.cookie.js?1290687331" type="text/javascript"></script>
+	
+	<script src="/assets/font.js?1297127194" type="text/javascript"></script>
+<script src="/assets/application.js?1297127194" type="text/javascript"></script>
 	<!--[if lt IE 7]>
-			<link href="/stylesheets/ie.css?1290687331" media="screen" rel="stylesheet" type="text/css" />
-			<script src="/javascripts/iepngfix_tilebg.js?1290687331" type="text/javascript"></script>
+			<link href="/stylesheets/ie.css?1297127194" media="screen" rel="stylesheet" type="text/css" />
+			<script src="/assets/ie.js?1297127194" type="text/javascript"></script>
 	<![endif]-->
-	<!-- AddThis Button CONFIG -->
 	
-	<script src="/javascripts/cufon-yui.js?1290687331" type="text/javascript"></script>
-	<script src="/javascripts/Cooper_Black_400.font.js?1290687331" type="text/javascript"></script>
-<script src="/javascripts/vag-handwritten_400.font.js?1290687331" type="text/javascript"></script>
 	
-	<script type="text/javascript">
-		Cufon.replace('.box_suggest h3, .comments h3, .box_suggest .hdg_green h4', { fontFamily: 'Cooper Black' });
-		Cufon.replace('.partners h3', {fontFamily: 'VAG-HandWritten'});
-	</script>
+	<script type="text/javascript">$(document).ready(function(){AYGlobal.initAll();});</script>
 	
-	<script type="text/javascript">
-	var addthis_config = {
-	username: "aroundyou",
-	ui_language: "en",
-	ui_click: true,
-	data_track_clickback: true
-	}
-	</script>
 	
-	<!-- AddThis Button CONFIG END -->
-
-	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?username=aroundyou"></script>
-
 	
-
-<script type="text/javascript">
-
-$(document).ready(function() {
-
-	$('.hint').example(function() {
-		return $(this).attr('title'); 
-	});	
-
-			
-	if ($.cookie('fbNotificationBar') != 'closed'){
-		$("#fbNotificationBar").slideDown("slow");
-	}
-	
-	if ($.cookie('ie6') != 'ignore'){
-		$("#ie6_warn").show();
-	}
-	
-	if ($.cookie('searchNotificationBar') != 'closed'){
-		$("#searchNotificationBar").slideDown("slow");
-	}
-		
-		$('.header .now_showing a.trigger_popup').live("click", function(e){ 
-			e.preventDefault();
-			$('.popup_change_location').toggle();
-			//alert('test');
-
-		});
-		
-		
-
-			$('#search').submit(function(){ //listen for submit event		
-					if (postcode = $('input#suggest_suburb').val().match(/[0-9]{4}/)){
-					$('input#suggest_suburb').val(postcode);			
-					}
-					return true;
-			
-
-
-			});
-		
-		var postcode_auto_complete = $("#suggest_suburb").autocomplete({
-						source: function(request, response) {
-							$.ajax({
-								url: "/postcodes/auto_complete_for_postcode.json",
-								dataType: "json",
-								data: {
-									q: request.term.split(',')[0]
-								},
-								success: function(data) {
-									if (data == null){
-									//postcode_auto_complete.removeClass( "ui-autocomplete-loading" );
-									postcode_auto_complete.autocomplete( 'close' );
-									//$('#search_error').html("No matches for " + "<strong>" + request.term + "</strong>, try a postcode or suburb");
-									}
-									response($.map(data, function(item) {
-										return {
-											label: item.postcode.description,
-											value: item.postcode.description,
-											id: item.postcode.location_id
-										}
-									}))
-								}
-							})
-						},
-						minLength: 4,
-						delay: 100,
-						select: function(event, ui) {
-							//log(ui.item ? ("Selected: " + ui.item.label) : "Nothing selected, input was " + this.value);
-							/*if ($('#location_id').length == 0){	
-								$('<input />').attr({type: 'hidden', 
-													id: 'location_id', 
-													name: 'location_id', 
-													value: ui.item.id}).appendTo('#search');
-								}
-								else {
-								$('#location_id').val(ui.item.id);
-								}*/
-						},
-						open: function() {
-							$(this).removeClass("ui-corner-all").addClass("ui-corner-top");
-						},
-						close: function() {
-							$(this).removeClass("ui-corner-top").addClass("ui-corner-all");
-						}
-					});
-					
-					$('.popup_change_location a.btn_close').click(function() {
-						$('.popup_change_location').toggle();
-						return false;
-					});
-					
-					$('.message_caution a.btn_close').click(function() {
-						$('#ie6_warn').hide();
-						$.cookie('ie6', 'ignore');
-						return false;
-					});
-					
-	$('.close_dialog').live('click', function(e){
-		e.preventDefault();
-		$(this).parent().fadeOut("slow");
-		$.cookie($(this).parent().attr('id'), 'closed');
-	});				
-	
-	$('.change_location_instruct').live('click', function(e){
-		e.preventDefault();
-		$('.popup_change_location').show();
-		$('html, body').animate({scrollTop:0}, 'slow');
-	});
-					
-
-					
-					
-		
-	});
-	</script>
   </head>
   <body>
-	<div id="ajax-status"></div>
-	<div id="message_top" class="message_global top message_positive" style="display:none;">
-	
-	</div>
-	
-	
+		<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+		<script>
+		  window.fbAsyncInit = function() {
+		    FB.init({
+		       appId  : '313400224011',
+			   status : true, // check login status
+			   cookie : true, // enable cookies to allow the server to access the session
+			   xfbml  : true  // parse XFBML
+		    });
+		  };
 
+		  (function() {
+		    var e = document.createElement('script');
+		    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		    e.async = true;
+		    document.getElementById('fb-root').appendChild(e);
+		  }());
+		</script>
+	<div class="col_100 header">
+		<div class="wrapper_inner_top"> 
+	        <div class="col_100 logo">
+	            <h1><a href="http://www.aroundyou.com.au/"><img alt="AroundYou.com.au" class="img_logo" height="30" src="/images/logo_aroundyou.gif?1297127194" width="340"></a></h1>
+		        <img alt="Find, create and share local events and activities" class="img_fcs" height="20" src="/images/hdg_find_create_share.gif?1297127194" width="577">
+	        </div>
 
-	
-			<div class="col_100 header">
-	        	<div class="wrapper_inner_top"> 
-	            	<div class="col_100 logo">
-	                	<h1><a href="http://www.aroundyou.com.au/"><img alt="AroundYou.com.au" class="img_logo" height="30" src="/images/logo_aroundyou.gif?1290687331" width="340"></a></h1>
-		                	<img alt="Find, create and share local events and activities" class="img_fcs" height="20" src="/images/hdg_find_create_share.gif?1290687331" width="577">
-	                </div>
-
-	            <div class="header_bottom">
-	                	<div class="now_showing">
-	<div class="location_pane">
-		<div class="postcode_change">
-			<h3>7000</h3>
-			<a href="http://www.aroundyou.com.au/" class="change_location trigger_popup">change location</a>
+	       <div class="header_bottom">
+			
+			<div class="actions">  
+				<a href="/signin" class="top_link signin">sign in</a>   
+				<form action="/user_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="/ojRfyC+NIbF9lrJIEtVOhXBaQlzGOASAXsEnuTBQQo="></div><input class="facebook_login" id="user_submit" name="login_with_oauth2" type="submit" value="Login using Facebook"></form>     
+			</div>
 		</div>
-		<div class="postcode_details pngfix"><h4>You are looking around...</h4>
-			<div class="spacer"></div>
-			<small>WEST HOBART, NORTH HOBART, MOUNT STUART, HOBART, GLEBE</small>
-		</div>
-	</div>
-	<div class="popup_change_location">
-<h3>Select a location</h3>
-<div class="cont">
-<div class="select_new_location">
-		<h5>Pick a new location</h5>
-<form action="/privacy" id="search" method="get" name="form_location_search">		<input class="placeholder hint" id="suggest_suburb" name="set_location" title="Enter suburb" type="text"><input class="btn_go" type="submit" value="go">
-</form>    	<span class="note">Enter a postcode or suburb</span>
-	</div>
-	<div class="select_from_session">
-		<h5>Or pick a recent location</h5>
-	<strong><a href="/privacy?set_location=7000">7000</a></strong>
-  	<small>WEST HOBART, NORTH HOBART, MOUNT STUA...</small><br>
-	<strong><a href="/privacy?set_location=6000">6000</a></strong>
-  	<small>PERTH</small><br>
-	<strong><a href="/privacy?set_location=4810">4810</a></strong>
-  	<small>ROWES BAY, RAILWAY ESTATE, WEST END, ...</small><br>
-	<strong><a href="/privacy?set_location=2601">2601</a></strong>
-  	<small>CITY, CANBERRA, BLACK MOUNTAIN, ACTON</small><br>
-	<strong><a href="/privacy?set_location=2340">2340</a></strong>
-  	<small>TAMWORTH, GOWRIE, DUNGOWAN, CALALA, N...</small><br>
-	</div>
-    <a class="btn_close">close</a>
-</div>
-</div><!--End of popup_change_location-->
-</div><!--End of now_showing-->
-						<div class="actions">  
-						<a href="/signin" class="top_link signin">sign in</a>   
-						<form action="/user_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="pJpFw2LBbLRJn8x0hEpj1zPWBrAXsrvBOiYarp2m+VM="></div><input class="facebook_login" id="user_submit" name="login_with_oauth2" type="submit" value="Login using Facebook"></form>     
-						</div>
-		            </div>
-	               </div>
-				
-
-
-	        </div><!--End of header-->
-	        <div class="col_100 main internal">
-	        	<div class="wrapper_inner_top">
+	   </div>
+	</div><!--End of header-->
+	<div class="col_100 main internal">
+	  <div class="wrapper_inner_top">
 	        		<div class="top_nav">
 					<!-- InstanceBeginEditable name="top nav" -->
 	        		  <ul class="navlist">
 		
 		    		      
-							    <li><a href="http://www.aroundyou.com.au/7000-west-hobart-north-hobart-mount-stuart-hobart-glebe/events/happening" class="">What's On</a></li>
-			        		    	<li class="places"><a href="http://www.aroundyou.com.au/7000-west-hobart-north-hobart-mount-stuart-hobart-glebe/places" class="">Places to Go</a></li>
+							    <li><a href="http://www.aroundyou.com.au/events" class="">What's On</a></li>
+			        		    	<li class="places"><a href="http://www.aroundyou.com.au/places" class="">Places to Go</a></li>
 
 			        		    	<li class="make_it_happen"><a href="http://www.aroundyou.com.au/all/causes" class="">Make it Happen!</a></li>
 										
@@ -250,7 +83,7 @@ $(document).ready(function() {
 
 									<li class="search_global">
 										
-<form action="http://www.aroundyou.com.au/7000-west-hobart-north-hobart-mount-stuart-hobart-glebe/events/happening" method="get" name="form_search">				                       	<input class="placeholder hint" id="q" name="q" title="eg. Yoga or Jazz" type="text">
+<form action="http://www.aroundyou.com.au/events" method="get" name="form_search">				                       	<input class="placeholder hint" id="q" name="q" title="eg. Yoga or Jazz" type="text">
 										<input class="btn_go_sml" type="submit" value="Go">
 </form>										
 
@@ -362,7 +195,7 @@ $(document).ready(function() {
 
 	        <div class="col_100 footer">
 	       	  <div class="wrapper_inner_bottom"> 
-		        	<span>Copyright © 2010 Around You</span>
+		        	<span>Copyright © 2011 Around You</span>
 	       		 <ul class="footer_links">
 	                	<li><a href="http://www.aroundyou.com.au/join">Join!</a></li>
 	                	<li><a href="http://www.aroundyou.com.au/contact">Contact Us</a></li>
@@ -460,31 +293,11 @@ $(document).ready(function() {
 				<div class="wrapper_inner_bottom">
 					<div class="partner">
 					<h3>proud to be partners with...</h3>
-					<a href="http://www.tacsi.org.au" class="tacsi" target="_blank">TACSI</a>
+					<a href="http://www.tacsi.org.au" class="tacsi" rel="nofollow" target="_blank">TACSI</a>
 				</div>
 			</div>
 		</div>
-		<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-		<script type="text/javascript">
-		  window.fbAsyncInit = function() {
-		    FB.init({
-		      appId  : '313400224011',
-		      status : true, // check login status
-		      cookie : true, // enable cookies to allow the server to access the session
-		      xfbml  : true  // parse XFBML
-		    });
-		  };
 
-		  (function() {
-		    var e = document.createElement('script');
-		    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-		    e.async = true;
-		    document.getElementById('fb-root').appendChild(e);
-		  }());
-		
-
-			
-		</script>
 		
 		
 		<script type="text/javascript">
@@ -500,7 +313,6 @@ $(document).ready(function() {
 		  })();
 
 		</script>
-		
 		<script type="text/javascript"><!--
 		reformal_wdg_domain    = "aroundyou";
 		reformal_wdg_mode    = 0;
@@ -525,11 +337,7 @@ $(document).ready(function() {
 
 
 
-
 	
-		<script type="text/javascript"> Cufon.now(); </script>
-
-		
   
 
 
