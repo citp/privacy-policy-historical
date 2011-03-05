@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueprintlsat.com privacy policy that was archived on 2008-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080522170841id_/http%3A//www.blueprintprep.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueprintlsat.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305032548id_/http%3A//blueprintprep.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Blueprint Privacy Policy
 
