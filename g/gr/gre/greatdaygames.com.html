@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the greatdaygames.com privacy policy that was archived on 2010-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101210092212id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the greatdaygames.com privacy policy that was archived on 2011-03-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110305175656id_/http%3A//www.greatdaygames.com/helppages/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Help - Play Free Online Games on Great Day Games
 </title><meta name="description" content="Help Page - Play Free Internet Games on Great Day Games"> <meta name="keywords" content="help page for free online games, free online games help page"><meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><meta name="robots" content="index,follow"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Content-Style-Type" content="text/css"><meta http-equiv="Content-Script-Type" content="text/javascript"><meta name="google-site-verification" content="aTmexWsnD3_iQyV1EWXq1xLi35EQb6B__AnfFBgV9AQ">
+    
     
 
 	    <script type="text/javascript">
@@ -12,7 +13,7 @@
 	        var c_name = 'Monetization_UniqCookieName';
 	        if (document.cookie.indexOf(c_name + "=") == -1)
 	        {	           
-	           var value = '656d8894-0972-4a5f-9af3-352745a99cac';
+	           var value = 'fde54130-184e-49b5-ad3c-9b18b20b21d9';
 	           var expiredays = 365;
 	            var exdate = new Date();
 	            exdate.setDate(exdate.getDate() + expiredays);
@@ -46,11 +47,12 @@
 	    var g_InitUserGameRating = {};
 
 	</script>
-		
+
 		<link rel="icon" type="image/x-icon" href="http://www.greatdaygames.com/favicon.ico">
 		<link rel="shortcut icon" type="image/x-icon" href="http://www.greatdaygames.com/favicon.ico">
 		<link rel="bookmark icon" type="image/x-icon" href="http://www.greatdaygames.com/favicon.ico">		
 		
+		<script type="text/javascript" src="http://connect.facebook.net/en_US/all.js"></script>
 		<script type="text/javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>		
 		
 		<script type="text/javascript" src="http://www.greatdaygames.com/HttpCombiner.ashx?s=first&amp;t=type/javascript&amp;v=1">
@@ -82,11 +84,6 @@
 		{
 			jQuery.ark.dialog.ShowOKDialog('ShowDialogPopup', caption, '<div style="display:inline;" class="PopUp_BlueText">' + message + '</div>');
 		}
-//Dublicate this dell??
-//		function ShowDialogPopup(caption, message)
-//		{
-//			jQuery.ark.dialog.ShowOKDialog('ShowDialogPopup', caption, '<div style="display:inline;" class="PopUp_BlueText">' + message + '<br /><br /></div>');
-//		}
 		function GetJQuery()
 		{
 		    return jQuery;
@@ -100,11 +97,10 @@
 	</script>
 	<script type="text/javascript">var baseUrl = 'http://www.greatdaygames.com';</script>
 	<script type="text/javascript">var baseImgUrl = 'http://gdgfiles.arkadium.com/static/img/';</script>
-	
-    </head><body><fb:like></fb:like>
 
-
-    
+</head>
+<body>    
+	<div id="fb-root"></div>
 
 	
 	<div class="bodyDiv">
@@ -120,40 +116,16 @@ cmCreatePageviewTag("helppagesprivacypolicy.aspx", "Other");//]]>
 </script>
 
 
-	<div id="fb-root"></div>
-    <script src="http://connect.facebook.net/en_US/all.js"></script>
     <script type="text/javascript">
-
         arkFB.siteBaseUrl = "http://www.greatdaygames.com";
         arkFB.canvasUrl = arkFB.siteBaseUrl;
-
         //<![CDATA[
-
             FB.init({
                 appId: 'ea6fe12cb3ea19ba8b514497393227a1',
                 status: true,
                 cookie: true,
                 xfbml: true
             });
-            FB.Event.subscribe('auth.sessionChange', function (response) {
-            });
-            FB.Event.subscribe('auth.login', function (response) {
-                if (typeof ds == "undefined" || ds == "0") {
-                    popupLogin_cancelClick();
-                    jQuery.ark.dialog.close('popupRegisterControl');
-                    checkFBAuth();
-                    fbBoxShowOrHide();
-                    ds = " ";
-                }
-            });
-            FB.Event.subscribe('auth.logout', function (response) {
-                //Ajax check BD Auth
-                //fbLogOut();
-                ds = "0";
-                DoAjaxLogout();
-                fbBoxShowOrHide();
-            });
-
         //]]>
     </script>
 
@@ -167,120 +139,139 @@ cmCreatePageviewTag("helppagesprivacypolicy.aspx", "Other");//]]>
 		</script>
 	</div>		
 		
-	<center>
-		<div class="main_shadowR">
-			<div class="main_shadowL endCol">
-				<div class="home_Header_bg"><a class="home_Header_logo" href="http://www.greatdaygames.com">
-				</a>
-					<div style="float: right; height: 94px; width: 781px; overflow: hidden;">
-					<div class="master_noscript coll"><noscript>Please enable javascript to view the site</noscript></div>
-						<div style="float: right; width: 211px;">	
-							<div id="loginBox" class="home_Login_bg coll">
+    <center>
+        <div class="main_shadowR">
+            <div class="main_shadowL endCol">
+                <div class="home_Header_bg">
+                    <a class="home_Header_logo" href="http://www.greatdaygames.com"></a>
+                    <div class="Home_topAD colr">
+                        <span id="ctl00_ctl00_m_ctl06_AD4"><div id="div_ctl00_ctl00_m_ctl06_AD4" style="width:728px;height:90px;margin:0 auto;padding:0px; overflow:hidden;"><script language="JavaScript" type="text/javascript">
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/N5412.greatdaygames/freegames_loading;tile=1;sz=728x90;ord=' + ord + '?" type="text/javascript"><\/script>');
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/N5412.greatdaygames/freegames_loading;tile=1;sz=728x90;ord=9612050581887754?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/N5412.greatdaygames/freegames_loading;tile=1;sz=728x90;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/N5412.greatdaygames/freegames_loading;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a></noscript></div></span>
+                    </div>
+                    <div class="home_nav_new">
+                    
+<div id="tabs-home-content-navigation" class="coll endCol tab_control tabs_v2_IUP" style="margin-bottom: 10px;">
+    <ul class="main_nav">
+        <li><a href="http://www.greatdaygames.com/games/allgames.aspx"><span>Web Games</span></a></li>
+        <li><a id="tab_AllSocialGames" href="http://www.greatdaygames.com/AllSocialGames.aspx"><span>Social Games</span></a></li>
+        <li><a id="tab_DownloadGame" href="http://www.greatdaygames.com/download/all.aspx"><span>Download Games</span></a></li>
+        <li><a id="tab_Treats" href="http://www.greatdaygames.com/treats/redeemtreats.aspx"><span>Treats &amp; Prizes</span></a></li>
+        <li><a id="tab_PersonProfile" onclick="javascript:RedirectAuthenticated('http://www.greatdaygames.com/PersonProfile.aspx'); return false;"><span>My Page</span></a></li>
+        <li><a id="tab_Forums" href="http://www.greatdaygames.com/Forum.aspx" target="_blank"><span>Forums</span></a></li>
+        <li class="sel"><a class="tabs" id="tab_Help" href="http://www.greatdaygames.com/HelpPages/General.aspx"><span>Help</span></a></li>
+    </ul>
+
+</div>
+<div id="m">
 	
 
+<div id="loginBoxBoxes" style="display:none;">
+    <div class="master_noscript coll" style="display:none;">
+        <noscript>
+            Please enable javascript to view the site</noscript></div>
+        <div id="loginBox" class="home_Login_bg">
+		
 <script type="text/javascript" language="javascript">
 
-    
+
 
     function OnOpenQuickTab() {
         jQuery('#LoggedInBox').hide().show().css('z-index', "-1");
     }
-    function OnCloseQuickTab()
-    {     
+    function OnCloseQuickTab() {
         jQuery('#LoggedInBox').hide().show().css('z-index', "5");
-    }   
-    
-    function LoadUnderQT()
-    {
+    }
+
+    function LoadUnderQT() {
         jQuery('#LoggedInBox').hide().show().css("z-index", "5");
-    }  
-  
-    function DoAfterLogin()
-    {
+    }
+
+    function DoAfterLogin() {
         LoadUnderQT();
-	    if (typeof jQuery('#LoggedInBox').css("z-index") == "undefined")
-	    {
-		    setTimeout("DoAfterLogin()", 5);
-		}  
+        if (typeof jQuery('#LoggedInBox').css("z-index") == "undefined") {
+            setTimeout("DoAfterLogin()", 5);
+        }
     }
 
     function addLoadEvent(func) {
-      var oldonload = window.onload;
-      if (typeof window.onload != 'function') {
-        window.onload = func;
-      } else {
-        window.onload = function() {
-          if (oldonload) {
-            oldonload();
-          }
-          func();
+        var oldonload = window.onload;
+        if (typeof window.onload != 'function') {
+            window.onload = func;
+        } else {
+            window.onload = function () {
+                if (oldonload) {
+                    oldonload();
+                }
+                func();
+            }
         }
-      }
     }
 
     addLoadEvent(LoadUnderQT);
 
 </script>
 
-
-
 <div id="loginBox_guest">
-		
+			
+    
+    <div style="height: 16px; overflow: hidden;">
+        <div class="home_Logout_header coll">
+        </div>
+        <a href="" tabindex="5" class="home_Logout_forgot colr" onclick="DoForgotPassword(); return false;">
+        </a>
+    </div>
+    <div style="height: 46px;">
+        <input type="text" class="home_Login_email coll" tabindex="1" id="textName" value="Email Address" onfocus="{jQuery.ark.login.ClearDefaultText(this, 'Email Address'); SetDefaultControlColor('textName');}" onblur="jQuery.ark.login.RestoreDefaultText(this, 'Email Address');" onkeypress="{if (event.keyCode==13) {DoAjaxLogin('textName', 'textPassword', 'textPasswordS', 'chkRememberPswd'); return false;}}">
+        <input type="text" class="home_Login_pass coll" style="display: block;" tabindex="2" id="textPasswordS" value="Password" onfocus="{jQuery.ark.login.ClearDefaultText(this, 'Password', 'textPassword'); SetDefaultControlColor('textPasswordS');}">
+        <input type="password" class="home_Login_pass coll" style="display: none;" tabindex="2" id="textPassword" value="" onfocus="SetDefaultControlColor('textPassword');" onblur="jQuery.ark.login.RestoreDefaultText(this, 'Password', 'textPasswordS');" onkeypress="{if (event.keyCode==13) {DoAjaxLogin('textName', 'textPassword', 'textPasswordS', 'chkRememberPswd'); return false;}}">
+        <div class="coll" style="width: 20px; height: 20px;">
+            <input type="checkbox" id="chkRememberPswd"></div>
+        <div class="coll" style="width: 52px; padding-top: 2px;">
+            remember</div>
+        <div id="loginBox_anchorRegistration">
+            <a href="http://www.greatdaygames.com/login/register.aspx" target="_top" tabindex="4" class="home_Logout_login colr">Register </a>
+        </div>
+        <a href="" class="home_Logout_login colr" tabindex="3" onclick="DoAjaxLogin('textName', 'textPassword', 'textPasswordS', 'chkRememberPswd'); return false;">
+            Login </a>
+    </div>
 
-<div style="height: 21px;"></div>
-<div style="height: 16px; overflow: hidden;">
-	<div class="home_Logout_header coll"> </div>
-	<a href="" tabindex="5" class="home_Logout_forgot colr" onclick="DoForgotPassword(); return false;"> </a>
+		</div>
+
+<div class="listen_login listen_logout listen_loginSuccess" style="display: none;" id="pageBindPanel_loginBox">
 </div>
-<div style="height: 46px;">
-	<input type="text" class="home_Login_email coll" tabindex="1" id="textName" value="Email Address" onfocus="{jQuery.ark.login.ClearDefaultText(this, 'Email Address'); SetDefaultControlColor('textName');}" onblur="jQuery.ark.login.RestoreDefaultText(this, 'Email Address');" onkeypress="{if (event.keyCode==13) {DoAjaxLogin('textName', 'textPassword', 'textPasswordS', 'chkRememberPswd'); return false;}}">
-	<input type="text" class="home_Login_pass coll" style="display: block;" tabindex="2" id="textPasswordS" value="Password" onfocus="{jQuery.ark.login.ClearDefaultText(this, 'Password', 'textPassword'); SetDefaultControlColor('textPasswordS');}">
-	<input type="password" class="home_Login_pass coll" style="display: none;" tabindex="2" id="textPassword" value="" onfocus="SetDefaultControlColor('textPassword');" onblur="jQuery.ark.login.RestoreDefaultText(this, 'Password', 'textPasswordS');" onkeypress="{if (event.keyCode==13) {DoAjaxLogin('textName', 'textPassword', 'textPasswordS', 'chkRememberPswd'); return false;}}">
-		<div class="coll" style="width:20px; height:20px;"><input type="checkbox" id="chkRememberPswd"></div>
-		<div class="coll" style="width:52px; padding-top:2px;">remember</div>
-	<div id="loginBox_anchorRegistration">
-		<a href="http://www.greatdaygames.com/login/register.aspx" target="_top" tabindex="4" class="home_Logout_login colr">Register </a>
-	</div>
-	<a href="" class="home_Logout_login colr" tabindex="3" onclick="DoAjaxLogin('textName', 'textPassword', 'textPasswordS', 'chkRememberPswd'); return false;">Login </a>
-</div>
+<div style="display: none;">
+    <script type="text/javascript">
+        jQuery('#pageBindPanel_loginBox')
+			.bind('quicktab', function () { jQuery.ark.loginBox.SignIn.ProcessRefresh(); })
+			.bind('login', function () { jQuery.ark.loginBox.SignIn.ProcessSignIn(); })
+			.bind('logout', function () { jQuery.ark.loginBox.SignIn.ProcessSignOut(); })
+			.bind('loginSuccess', function () { ShowRegistrationTag(jQuery.ark.login.LoginData); });
+        jQuery('#home_Login_treats_value')
+			.bind('treats', function () { jQuery('#home_Login_treats_value').html(jQuery.ark.treats); });
 
-	</div>
-
-
-<div class="listen_login listen_logout listen_loginSuccess" style="display:none;" id="pageBindPanel_loginBox">
-</div>
-<div style="display:none;">
-	<script type="text/javascript">
-	    jQuery('#pageBindPanel_loginBox')
-			.bind('quicktab', function() { jQuery.ark.loginBox.SignIn.ProcessRefresh(); })
-			.bind('login', function() { jQuery.ark.loginBox.SignIn.ProcessSignIn(); })
-			.bind('logout', function() { jQuery.ark.loginBox.SignIn.ProcessSignOut(); })
-			.bind('loginSuccess', function() { ShowRegistrationTag(jQuery.ark.login.LoginData); });
-		jQuery('#home_Login_treats_value')
-			.bind('treats', function() { jQuery('#home_Login_treats_value').html(jQuery.ark.treats); });
-		
-		// BEGIN COREMETRICS SUPPORT
-		function ShowRegistrationTag(oUserData) {
-			if (oUserData == null || oUserData.ID == null) {
-				return;
-			}
-			if ('True' != 'True')
-			    return;
+        // BEGIN COREMETRICS SUPPORT
+        function ShowRegistrationTag(oUserData) {
+            if (oUserData == null || oUserData.ID == null) {
+                return;
+            }
+            if ('True' != 'True')
+                return;
             cmSetClientID("90302778", false, "coremetrics.arkadium.com");
-			if ('True' == 'True')
-				cmSetProduction();
-			var argString = oUserData.Sex + '-_-' + oUserData.Birthday + '-_-' + oUserData.Rating;
-			cmCreateRegistrationTag(oUserData.ID, oUserData.Email, oUserData.City, oUserData.State, oUserData.Zip, oUserData.Country , argString);
-		}
-		// END COREMETRICS SUPPORT
+            if ('True' == 'True')
+                cmSetProduction();
+            var argString = oUserData.Sex + '-_-' + oUserData.Birthday + '-_-' + oUserData.Rating;
+            cmCreateRegistrationTag(oUserData.ID, oUserData.Email, oUserData.City, oUserData.State, oUserData.Zip, oUserData.Country, argString);
+        }
+        // END COREMETRICS SUPPORT
 
-	</script>
+    </script>
 </div>
 
-</div>
-						</div>
-	                    <script type="text/javascript" language="javascript" src="http://www.greatdaygames.com/js/ark.loginBox.js.aspx"></script>
-	                    <script type="text/javascript" language="javascript">
+	</div>
+    <script type="text/javascript" language="javascript" src="http://www.greatdaygames.com/js/ark.loginBox.js.aspx"></script>
+    <script type="text/javascript" language="javascript">
             var signIn = new jQuery.ark.loginBox.SignInProcessor();
             signIn.id = 'loginBox';
             signIn.loggedInDivId = 'loginBox_loggedIn';
@@ -294,30 +285,21 @@ cmCreatePageviewTag("helppagesprivacypolicy.aspx", "Other");//]]>
             signIn.passwordInputId = 'textPassword';
             jQuery.ark.loginBox.SignIn = signIn;
             </script>
-                        <div id="fb_login_box_0" style="display:block;">
-<div class="fb">
-    <div class="fb_top_bg coll">Sign in using Facebook Connect:</div>
-    <div class="fb_m_bg coll">
-        <fb:login-button autologoutlink="true" perms="email, user_about_me, user_birthday" size="medium" length="short" v="2"></fb:login-button>
-    </div>
-    <div class="fb_bottom_bg coll"></div>
-</div>                        
-                        </div>
-				    </div>
-					<div style="float: right; height: 49px; width: 781px;">
-						<div class="home_Menu_bg coll">
-							<a onclick="javascript:RedirectAuthenticated('http://www.greatdaygames.com/PersonProfile.aspx'); return false;">My Page &nbsp;|&nbsp;</a>
-							<a href="http://www.greatdaygames.com/games/allgames.aspx">Web Games &nbsp;|&nbsp;</a>
-							<a href="http://www.greatdaygames.com/download/all.aspx">Download Games &nbsp;|&nbsp;</a>
-							<a href="http://www.greatdaygames.com/treats/redeemtreats.aspx">Treats &amp; Prizes &nbsp;|&nbsp;</a>
-							<a href="http://www.greatdaygames.com/Forum.aspx" target="_blank">Forums &nbsp;|&nbsp;</a>
-							<a href="http://www.greatdaygames.com/HelpPages/General.aspx">Help</a>
-						    <div class="fb_invite colr" id="fb_invite_box_0" style="display:none;" onclick="arkFB.showInviteFriends(&quot;Select friends to join you on Great Day Games!&quot;, &quot;wants to play games with you on <a href=http://www.greatdaygames.com/>GreatDayGames</a>&quot;, false);"></div>
-                        </div>
-						<div class="home_HeaderRight_bg"></div>
-					</div>
-				</div>
-				
+</div>
+<div id="login_Box_guest" style="display:block;">
+   <div class="LB_sign_in colr"><span class="coll">Have an account?</span> <a href="#" onclick="OpenPopupLogin();return false;" class="colr"></a></div>
+   <a href="#" class="LB_reg colr" onclick="OpenPopupRegister();return false;"></a>
+</div>
+</div>
+
+
+
+
+                    </div>
+                </div>
+                <div class="endCol"></div>
+                <div class="top_menu_shadow"></div>
+                
 	<div class="help_Top_bl_center">
 		<div class="help_Top_bl_l">
 			<div class="help_Top_bl_r">
@@ -411,12 +393,19 @@ cmCreatePageviewTag("helppagesprivacypolicy.aspx", "Other");//]]>
             </div>
         </div>
 			<div class="coll advertise_verRight">
-			<span id="ctl00_m_m_ctl06_MainContent_MainContentPlaceHolder_AD1" class="ad_margins"><div id="div_ctl00_m_m_ctl06_MainContent_MainContentPlaceHolder_AD1" style="width:160px;height:600px;margin:0 auto;padding:0px; overflow:hidden;"><script type="text/javascript"><!--
-                e9 = new Object();
-    e9.size = "160x600,120x600";
-//--></script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/greatdaygamescom/ROS/tags.js"></script>
-</div></span>
+			<span id="ctl00_ctl00_m_ctl06_MainContent_MainContentPlaceHolder_AD1" class="ad_margins"><div id="div_ctl00_ctl00_m_ctl06_MainContent_MainContentPlaceHolder_AD1" style="width:160px;height:600px;margin:0 auto;padding:0px; overflow:hidden;"><script type="text/javascript" language="javascript">
+<!--
+var ord = Math.random() * 1000000000000000000;
+//-->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/N5412.greatdaygames/home;pos=top;kw=;tile=2;sz=160x600;ord=' + ord + '?" type="text/javascript"><\/script>');
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/N5412.greatdaygames/home;pos=top;kw=;tile=2;sz=160x600;ord=297097093531330200?" type="text/javascript"></script>
+<noscript>
+<A href="http://ad.doubleclick.net/jump/N5412.greatdaygames/home;pos=top;kw=;tile=2;sz=160x600;ord=123456789?" TARGET="_blank">
+<IMG src="http://ad.doubleclick.net/ad/N5412.greatdaygames/home;pos=top;kw=;tile=2;sz=160x600;ord=123456789?" WIDTH="160" HEIGHT="600" BORDER="0" ALT=""></A>
+</noscript></div></span>
 			</div>
 		<div class="endCol">
 		</div>
@@ -424,25 +413,27 @@ cmCreatePageviewTag("helppagesprivacypolicy.aspx", "Other");//]]>
 	</div>
 	<div class="category_mpage_footer_bg" style="margin-left:4px;"></div>
 
-				<div class="Foot_bg">
-					<div class="footer_BG">
-						<div class="footer_URLs" style="text-align: center; width: 968px; padding-top: 8px;">
-							<a href="http://www.greatdaygames.com/Forum.aspx">Forums</a>&nbsp;&nbsp;
-							<a href="http://www.greatdaygames.com/helppages/privacypolicy.aspx">Privacy Policy</a>&nbsp;&nbsp;
-							<a href="http://www.greatdaygames.com/helppages/conditions.aspx">Terms and Conditions</a>&nbsp;&nbsp;
-							<a href="http://www.greatdaygames.com/HelpPages/emailUs.aspx">Email Us</a>&nbsp;&nbsp;
-							<a href="http://www.greatdaygames.com/helppages/ReportAbusePage.aspx">Report Inappropriate Behavior</a>
-						</div>
-						<div class="footer_GDG_copyrights">GreatDayGames.com is a great place to play free online games,
-							games downloads, Flash games, and multiplayer games.<br>
-							© 2009 Arkadium Inc. Trademarks belong to their respective owners. All rights reserved
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</center>
-	
+                <div class="Foot_bg">
+                    <div class="footer_BG">
+                        <div class="footer_URLs" style="text-align: center; width: 968px; padding-top: 8px;">
+                            <a href="http://www.greatdaygames.com/Forum.aspx" target="_blank">Forums</a>&nbsp;&nbsp;
+                            <a href="http://www.greatdaygames.com/helppages/privacypolicy.aspx">Privacy Policy</a>&nbsp;&nbsp;
+                            <a href="http://www.greatdaygames.com/helppages/conditions.aspx">Terms and Conditions</a>&nbsp;&nbsp;
+                            <a href="http://www.greatdaygames.com/HelpPages/emailUs.aspx">Email Us</a>&nbsp;&nbsp;
+                            <a href="http://www.greatdaygames.com/helppages/ReportAbusePage.aspx">Report Inappropriate
+                                Behavior</a>
+                        </div>
+                        <div class="footer_GDG_copyrights">
+                            GreatDayGames.com is a great place to play free online games, games downloads, Flash
+                            games, and multiplayer games.<br>
+                            © 2009 Arkadium Inc. Trademarks belong to their respective owners. All rights reserved
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </center>
+    
     <!-- Begin comScore Tag -->
     <script type="text/javascript" language="javascript">
     //<![CDATA[
@@ -467,8 +458,7 @@ cmCreatePageviewTag("helppagesprivacypolicy.aspx", "Other");//]]>
     </noscript>
     <!-- End comScore Tag -->
 
-	
-		
+    
 
 	</form>
 	<!-- Additional IE/Win specific style sheet (Conditional Comments) -->
@@ -486,7 +476,8 @@ try {
 	pageTracker._trackPageview();
 } catch (err) { }
 </script>
-	<style type="text/css" media="screen, projection"> <!-- Do not write js script after this row, it's  not works -->	
+    <!-- Do not write js script after this row, it's  not works -->	
+	<style type="text/css" media="screen, projection"> 
 </body>
 </html>
 </style></body></html>
