@@ -1,50 +1,68 @@
-> *The following text is extracted and transformed from the sacrededen.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603205951id_/http%3A//sacrededen.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sacrededen.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305140613id_/http%3A//store.sacrededen.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Sacred Eden
+# Privacy Policy
 
-**Privacy Policy**
+We value you as our customer and respect your privacy. We collect information about you through our website in an effort to enhance your shopping experience and to communicate with you about our products and services
 
-Sacred Eden is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Sacred Eden Web site and governs data collection and usage. By using the Sacred Eden website, you consent to the data practices described in this statement. For the purpose of this Privacy Statement, the “Sacred Eden Web Site” shall have the same meaning as defined in the Sacred Eden Terms Of Use.
+This privacy policy is to assist you in understanding what information we gather about you when you visit this website, how we use and share that information, as well as the safeguards we have in place for that information.
 
-**Collection of your Personal Information**
+Any personal information you provide to us on our website when you register or purchase products or services is maintained in private files on [The BigCommerce](http://www.bigcommerce.com/) secure Web server. We will not sell, rent or share your email address with others for them to send you unsolicited email.
 
-Sacred Eden collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Sacred Eden also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+## INFORMATION COLLECTED ONLINE
 
-There is also information about your computer hardware and software that is automatically collected by Sacred Eden. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Sacred Eden for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Sacred Eden Web site.
+We gather navigational information during each visitor’s use of our website. In the process of gathering navigational information, non-personally identifiable information (such as: domain type, browser version, service provider and IP address) may be collected. This information tells us about the use of our website by visitors. It also tells us about the technical efficiencies of our website and services.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Sacred Eden public message boards, this information may be collected and used by others.. Note: Sacred Eden does not read any of your private online communications.
+We may ask you to provide personal information when you establish or update an account with us. The necessary information includes name, address, email address, recipient’s name and email address, order information, telephone number and credit card information.
 
-Sacred Eden encourages you to review the privacy statements of Web sites you choose to link to from Sacred Eden so that you can understand how those Web sites collect, use and share your information. Sacred Eden is not responsible for the privacy statements or other content on Web sites outside of the Sacred Eden and Sacred Eden family of Web sites.
+## USE OF PERSONAL INFORMATION COLLECTED
 
-**Use of your Personal Information**
+We use the personal information collected from you for the following purposes:
 
-Sacred Eden collects and uses your personal information to operate the Sacred Eden Web site and deliver the services you have requested. Sacred Eden also uses your personally identifiable information to inform you of other products or services available from Sacred Eden and its affiliates. Sacred Eden may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. Sacred Eden may also contact you from time to time via your email address to provide you with a variety of information, including weekly wrap ups, newsletters, bulletins and similar information.
+  * To deliver products ordered, fulfill requests and to process returns or exchanges; 
+  * To understand the needs and preferences of our customers, possibly through surveys, product evaluations;
+  * To develop, market and sell products and services to you and to tailor your experience on our website; 
+  * To contact you or the product recipient(s) in the event of order or delivery difficulties; 
+  * To manage and develop our business and operations, administer accounts, collect and process payments; 
+  * To respond to your inquiries; 
+  * To deliver information through the various communication channels you have provided to us about our products or website, including adding you to our email list or to our customer phone and mail marketing list.
 
-Sacred Eden does not sell, rent or lease its customer lists to third parties. Sacred Eden may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Sacred Eden may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Sacred Eden, and they are required to maintain the confidentiality of your information.
 
-Sacred Eden does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-Sacred Eden keeps track of the Web sites and pages our customers visit within Sacred Eden in order to determine what Sacred Eden services are the most popular. This data is used to deliver customized content and advertising within Sacred Eden to customers whose behavior indicates that they are interested in a particular subject area.
+If at any time you would like to stop future delivery of promotional email, please follow the removal instructions located at the bottom of each message. Asking us to stop delivery of future promotional email will not prevent you from receiving email communications relating to any online order you place at on our website, operational email communications or emails forwarded to you by a friend that tell you about our products.
 
-Sacred Eden Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Sacred Eden or the site; (b) protect and defend the rights or property of Sacred Eden; and, (c) act under exigent circumstances to protect the personal safety of users of Sacred Eden, or the public.
+## INFORMATION SHARING WITH THIRD PARTIES
 
-**Use of Cookies**
+We use third parties to help us provide services to you such as fulfilling orders, processing payments, monitoring site activity, conducting surveys, maintaining our database, administering emails, and administering drawings or contests. Third parties also provide aggregate, comparative information on the performance of our site to us.
 
-Sacred Eden Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to enforce or apply our Terms & Conditions, conform or comply with the law or is necessary to protect us, the users of our website or others.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Sacred Eden pages, or register with Sacred Eden site or services, a cookie helps Sacred Eden to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Sacred Eden Web site, the information you previously provided can be retrieved, so you can easily use the Sacred Eden features that you customized.
+If we ever merge with, are acquired by or acquire another business entity, some or all of the personal information collected about you may be shared with this entity, as well as retained by us.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Sacred Eden services or Web sites you visit.
+## UPDATING YOUR PERSONAL INFORMATION
 
-**Security of your Personal Information**
+We prefer to keep your personal information accurate and current. To do this, we provide you with the opportunity to update or modify your personal information, including billing and shipping information, by logging into your account.
 
-Sacred Eden secures your personal information from unauthorized access, use or disclosure. Sacred Eden secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+## PRIVACY OF CHILDREN ON OUR WEBSITE
 
-**Changes to this Statement**
+To ensure compliance with federal law, we not knowingly collect or maintain information provided by children under the age of 13.
 
-Sacred Eden will occasionally update this Statement of Privacy to reflect company and customer feedback. Sacred Eden encourages you to periodically review this Statement to be informed of how Sacred Eden is protecting your information.
+## LINKS TO OTHER WEBSITES AND SERVICES
 
-**Contact Information**
+For your convenience, our website may include links or information related to websites maintained by third parties. We do not, in any respect, control or operate the products, services or information offered or provided on these third party websites. The links and materials provided on our website are to be used for information purposes only. We explicitly disclaim any responsibility for the accuracy, content or availability of information found on websites that link to or from our website. We encourage you to review the separate privacy policies of each site you visit.
 
-Sacred Eden welcomes your comments regarding this Statement of Privacy. If you believe that Sacred Eden has not adhered to this Statement, please contact Sacred Eden "contact (at) SacredEden (dot) com" We will use commercially reasonable efforts to promptly determine and remedy the problem.  
+## UPDATES TO PRIVACY STATEMENT
 
+We reserves the right, at our discretion, to change these terms, conditions and restrictions provided on this website at any time and for any reason.
+
+The security of your information is very important to us. We use the 128-bit Secure Socket Layer (SSL) technology to protect the security of your online order information. SSL technology encrypts your order information to protect it from being decoded by anyone other than us.
+
+Once you enter the checkout page your computer will begin communicating with The [BigCommerce](http://www.bigcommerce.com/) server in secure mode. You can tell that you are in secure mode by the following:
+
+  * The “http” in the web address will be replaced by “https” 
+  * Depending on the browser, you may see either a padlock (Microsoft Internet Explorer, AOL, Netscape Communicator) or a solid key (Netscape Navigator) in the lower section for the browser window. 
+
+
+
+Only browsers that use the 128-bit Secure Socket Layer technology are able to order through our site. If your browser does not support SSL, you can get an upgrade at [Microsoft’s](http://www.microsoft.com/en/us/default.aspx) or [Netscape’s](http://netscape.aol.com/) home page.
+
+While we implement the above security measures on this site, you should be aware that 100% security is not always possible.
