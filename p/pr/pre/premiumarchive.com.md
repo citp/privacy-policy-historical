@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumarchive.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105190605id_/http%3A//www.premiumarchive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumarchive.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305062412id_/http%3A//www.premiumarchive.com/privacy.html) for the most accurate reproduction.*
 
 # Premium Archive - Privacy Policy
 
