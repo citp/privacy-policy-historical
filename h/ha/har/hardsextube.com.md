@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardsextube.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128093259id_/http%3A//www.hardsextube.com/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardsextube.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305094521id_/http%3A//www.hardsextube.com/static.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # HardSexTube - Upload your porn - Sex Tube
 
