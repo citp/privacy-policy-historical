@@ -1,27 +1,25 @@
-> *The following text is extracted and transformed from the tvgamedepot.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227070456id_/http%3A//www.tvgamedepot.com/%3Fpage_id%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvgamedepot.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305233318id_/http%3A//www.tvgamedepot.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Tv game Depot
 
-For each visitor to our Web page, our Web server automatically recognizes the consumers domain name and e-mail address (where possible).
+This Privacy Policy governs the manner in which Tvgamedepot.com collects, uses, maintains and discloses information collected from users of this Web site (each, a “User”).
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas.
+Privacy  
+Users. privacy is very important to Tvgamedepot.com. Tvgamedepot.com is committed to safeguarding and protecting the information Users entrust to Tvgamedepot.com. This Web site is not directed at children under 18 years of age.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site and .
+The Information We Collect  
+Tvgamedepot.com may collect personally identifiable information from Users in a variety of ways, including through online forms, registration, and other instances where Users are invited to volunteer such information. Tvgamedepot.com may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We may use “cookies” to track how Users use our Web site. A cookie is a piece of software that a Web server can store on the Users. PC or computer and use to identify the User should they visit the Web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web site.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors browser type or other information that the visitor sends.
+How We Use Information  
+Tvgamedepot.com may use personally identifiable information collected through our Web site to contact Users regarding products and services offered by Tvgamedepot.com and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users. experience with Tvgamedepot.com and such affiliates, independent contractors and business partners. Tvgamedepot.com may also use information collected through our Web site for research regarding the effectiveness of the Web site and the marketing, advertising and sales efforts of Tvgamedepot.com, its trusted affiliates, independent contractors and business partners; for example, to provide you with information about products which might be of interest to you or to enable you to take advantage of special partner programs or Tvgamedepot.com specials. When you sign up to the Tvgamedepot.com website you are opting in to our monthly news letter. Tvgamedepot.com may also use customer information to provide customers with system information or information about new or upgraded products.
 
-If you do not want to receive e-mail from us in the future, please let us know by or changing this option in the user preferences.
+Disclosure of Information  
+Tvgamedepot.com may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we may transfer information collected from Users in connection with a sale of Tvgamedepot.com’s business.
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+Maintenance of Information  
+Information about Users that is maintained on our systems is protected using industry or above industry standards in security tactics. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+Questions  
+Users may direct questions concerning this Privacy Policy by email to admins @ Tvgamedepot.com.com.
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
-
-http://www.google.com/privacy.html
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Upon request we provide site visitors with access to a description of information that we maintain about them.
-
-Consumers can access this information by e-mail us at the above address.If you feel that this site is not following its stated information policy, you may contact The DMAs Committee on Ethical Business Practices at mgoldberger@the-dma.org, state or local chapters of the Better Business Bureau, state or local consumer protection office.
+Users may choose not to receive any type of solicitations from Tvgamedepot.com or from any of its trusted affiliates, independent contractors and or business partners by emailing us at admins @ Tvgamedepot.com
