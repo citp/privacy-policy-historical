@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purchase.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130032440id_/http%3A//www.purchase.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purchase.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305213228id_/http%3A//www.purchase.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Purchase.com
 
@@ -99,4 +99,4 @@ Contacting the Web Site
 
 If you have any questions about this privacy policy, please contact our Guest Services.
 
-Thank you for reading the Purchase.com Privacy Policy. [Purchase.com](https://web.archive.org/) © 2010 
+Thank you for reading the Purchase.com Privacy Policy. [Purchase.com](https://web.archive.org/) © 2011 
