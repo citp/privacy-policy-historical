@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadawiderealestate.com privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020040121id_/http%3A//www.canadawiderealestate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadawiderealestate.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305183312id_/http%3A//www.canadawiderealestate.com/privacy.php) for the most accurate reproduction.*
 
 # Canadian Wide Real Estate Articles | Privacy Statement
 
