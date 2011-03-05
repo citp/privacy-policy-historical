@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spankwirecams.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104112604id_/http%3A//www.spankwirecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spankwirecams.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305174015id_/http%3A//www.spankwirecams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # SpankWireCams - Privacy
 
