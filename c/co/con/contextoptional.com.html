@@ -1,0 +1,615 @@
+<!--The following is the downloaded HTML source of the contextoptional.com privacy policy that was archived on 2011-03-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110305182505id_/http%3A//contextoptional.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head><script language="javascript" type="text/javascript">
+var currentHost = window.location.hostname;
+</script>
+
+
+    <base href="http://www.contextoptional.com/privacy">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="social networking, facebook application development, google, opensocial application development, facebook, moderation, publishing, social marketing, analytics, myspace, linkedin, social media strategy, viral widgets">
+  <meta name="title" content="Application Privacy Statement">
+  <meta name="author" content="Context Optional">
+  <meta name="description" content="Context Optional builds presence for brands in social media, including Facebook and Twitter&quot;">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Application Privacy Statement</title>
+  <link href="/templates/ja_purity/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+
+
+<link rel="stylesheet" href="http://www.contextoptional.com/templates/system/css/system.css" type="text/css">
+<link rel="stylesheet" href="http://www.contextoptional.com/templates/system/css/general.css" type="text/css">
+<link rel="stylesheet" href="http://www.contextoptional.com/templates/ja_purity/css/template.css" type="text/css">
+<script language="javascript" type="text/javascript" src="http://www.contextoptional.com/templates/ja_purity/js/ja.script.js"></script>
+
+<script language="javascript" type="text/javascript">
+var rightCollapseDefault='show';
+var excludeModules='38';
+</script>
+<script language="javascript" type="text/javascript" src="http://www.contextoptional.com/templates/ja_purity/js/ja.rightcol.js"></script>   
+
+
+<link rel="stylesheet" href="http://www.contextoptional.com/templates/ja_purity/css/menu.css" type="text/css">
+
+<link rel="stylesheet" href="http://www.contextoptional.com/templates/ja_purity/css/ja-sosdmenu.css" type="text/css">
+<script language="javascript" type="text/javascript" src="http://www.contextoptional.com/templates/ja_purity/js/ja.cssmenu.js"></script>
+
+<link rel="stylesheet" href="http://www.contextoptional.com/templates/ja_purity/styles/background/lighter/style.css" type="text/css">
+
+<!--[if IE 7.0]>
+<style type="text/css">
+.clearfix {display: inline-block;}
+</style>
+<![endif]-->
+<!--load jquery--> 
+<script type="text/javascript" src="/templates/ja_purity/js/jquery-1.4.2.min.js"></script> 
+<script type="text/javascript" src="/templates/ja_purity/js/jquery.tools.min.js"></script>
+<script type="text/javascript" src="/templates/ja_purity/js/fadeslideshow.js"></script>
+<script type="text/javascript" src="/templates/ja_purity/js/browserdetect.js"></script>          
+
+<!-- hide/show div-->
+<script type="text/javascript">
+
+var currLayerId = "kevin";
+
+function hideShow(id)
+{
+if(currLayerId) setDisplay(currLayerId, "none");
+if(id)setDisplay(id, "block");
+currLayerId = id;
+}
+
+function setDisplay(id,value)
+{
+var elm = document.getElementById(id);
+elm.style.display = value;
+}
+</script>
+
+<script type="text/javascript">
+<!--
+jQuery(document).ready(function($){    
+   $("#newsletter_signup_form").submit(function(){
+		if(check_email(document.getElementById('email'),"Please enter a valid email address")) {					
+			// 'this' refers to the current submitted form
+			var str = $(this).serialize();
+	    	 $.ajax({
+			   type: "POST",
+			   url: "http://" + currentHost + "/templates/ja_purity/formprocess.php",
+			   data: str,
+			   success: function(msg){
+					$("#HP_thanks").ajaxComplete(function(event, request, settings) {
+						if (msg == 'OK')	
+							{
+								result = '<p style="font-weight: bold;">Thank you for signing up!</p>';
+								$("#newsletter_signup_form").hide();
+							} 
+							else 
+							{
+								result = '<p style="font-weight: bold;">There was an error.</p>';
+
+							} // end if
+						$(this).html(result);
+					}); // end ajax complete
+				} // end success function
+			 }); // end ajax call
+		} else {
+		  //alert("check failed");
+		}// end validation
+		
+		return false;
+	}); // end newsletter signup
+	$("#whitepaper_signup_form").submit(function(){
+		if(check_fields()) {					
+			// 'this' refers to the current submitted form
+			var str = $(this).serialize();
+	    	 $.ajax({
+			   type: "POST",
+			   url: "http://" + currentHost + "/templates/ja_purity/formprocess.php",
+			   data: str,
+			   success: function(msg){
+					$("#whitepaper_thanks").ajaxComplete(function(event, request, settings) {
+						if (msg == 'OK')	
+							{
+								
+								result = '<p style="margin: 30px 0 15px 0px; font-size: 16px; color:#333333; text-align: center; font-weight: bold;">Thank you! An email with your white paper should be on the way.</p>';
+								$("#whitepaper_signup_form").hide();
+							} 
+							else 
+							{
+								result = '<p style="margin: 30px 0 15px 0px; font-size: 16px; color:#333333; text-align: center; font-weight: bold;">There was an error. Please try again.</p>';
+								
+							} // end if
+						$(this).html(result);
+					}); // end ajax complete
+				} // end success function
+			 }); // end ajax call
+		} else {
+		  //alert("check failed");
+		}// end validation
+		
+		return false;
+	}); // end whitepaper signup 
+	$("#product_signup_form").submit(function(){
+		if(check_fields()) {					
+			// 'this' refers to the current submitted form
+			var str = $(this).serialize();
+	    	 $.ajax({
+			   type: "POST",
+			   url: "http://" + currentHost + "/templates/ja_purity/formprocess.php",
+			   data: str,
+			   success: function(msg){
+					$("#PP_thanks").ajaxComplete(function(event, request, settings) {
+						if (msg == 'OK')	
+							{
+								
+								result = '<p style="margin: 30px 0 15px 0px; font-size: 16px; color:#333333; text-align: center; font-weight: bold;">Thank you! A member of our team will be in touch shortly. In a few moments, you will also be receiving a introductory email with information about the Social Marketing Suite.</p>';
+								$("#product_signup_form").hide();
+							} 
+							else 
+							{
+								result = '<p style="margin: 15px 0 15px 0px; font-size: 20px; color:#4c4d4f; text-align: center; font-weight: bold;">There was an error. Please try again.</p>';
+								
+							} // end if
+						$(this).html(result);
+					}); // end ajax complete
+				} // end success function
+			 }); // end ajax call
+		} else {
+		  //alert("check failed");
+		}// end validation
+		
+		return false;
+	}); // end product form
+	
+}); // end document ready
+
+//-->
+</script> 
+<script type="text/javascript">
+<!--       
+	function limitText(limitedField, counter, limit) {
+		var ContainerArea = document.getElementById(limitedField);
+		var CounterArea = document.getElementById(counter);
+		if (ContainerArea.value.length > limit) {
+			ContainerArea.value = ContainerArea.value.substring(0, limit);
+		} else {
+			CounterArea.value =  ContainerArea.value.length;
+		}
+	}
+	//-->
+</script>
+<script type="text/javascript">
+
+	function check_email(elem, helperMsg) {
+	var filter=/^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$/i;
+	if (!(filter.test(elem.value))) {
+		alert(helperMsg);
+		elem.focus();
+		return false;
+	} else {
+		return true;
+		}
+	}
+	
+	function check_empty(elem, helperMsg) {
+	if(elem.value.length == 0){
+		alert(helperMsg);
+		elem.focus(); // set the focus to this input
+		return false;
+	} else {
+		return true;
+		}
+	}
+
+	function check_alpha(elem, helperMsg){
+	var alphaExp = /^[a-zA-Z]+$/;
+	if(!(elem.value.match(alphaExp))){
+		alert(helperMsg);
+		elem.focus();
+		return false;
+	} else {
+		return true;
+		}
+	}
+
+	
+
+	function check_fields() {	
+		var firstname = document.getElementById('first_name');
+		var lastname = document.getElementById('last_name');
+		var company = document.getElementById('company');
+		var email = document.getElementById('email');
+		var allcheck;
+		
+		//first name check
+		if(check_empty(firstname,"Please enter your first name") && check_alpha(firstname,"Please enter a first name without numbers")) {
+			allcheck = "pass";
+		} else {
+			return false;
+		}
+
+		
+		//last name check
+		if(check_empty(lastname,"Please enter your last name") && check_alpha(lastname,"Please enter a last name without numbers")) {
+			allcheck = "pass";
+		} else {
+			return false;
+		}
+
+		
+		//company check
+		if(check_empty(company,"Please enter your company name")) {
+			allcheck = "pass";
+		} else {
+			return false;
+		}
+		
+		//email check
+		if (check_email(email,"Please enter a valid email address")) {
+			allcheck = "pass";
+		} else {
+			return false;
+		}
+		
+		if (allcheck == "pass") {
+			return true;
+		}
+		
+	}
+</script>
+ 
+
+<style type="text/css">
+#ja-header,#ja-mainnav,#ja-container,#ja-botsl,#ja-footer {width: 97%;margin: 0 auto;}
+#ja-wrapper {min-width: 100%;}
+</style>
+</head>
+
+<body id="bd" class="fs3 Others privacy">
+    <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+  <script>
+    window.fbAsyncInit = function() {
+      FB.init({appId: '7204941866', status: true, cookie: true,
+               xfbml: true});
+    };
+    (function() {
+      var e = document.createElement('script'); e.async = true;
+      e.src = document.location.protocol +
+        '//connect.facebook.net/en_US/all.js';
+      document.getElementById('fb-root').appendChild(e);
+    }());
+  </script> 
+  <a name="Top" id="Top"></a>
+<ul class="accessibility">
+	<li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+	<li><a href="#ja-mainnav" title="Skip to main navigation">Skip to main navigation</a></li>
+	<li><a href="#ja-col1" title="Skip to first column">Skip to first column</a></li>
+	<li><a href="#ja-col2" title="Skip to second column">Skip to second column</a></li>
+</ul>
+<div id="mantleBG2">
+<div id="footerBG"> 
+
+<div id="ja-wrapper">
+<!-- STARTHeaderContainer -->
+<!-- BEGIN: HEADER -->
+<div id="ja-headerwrap">
+	<div class="logo">
+  <a href="http://www.contextoptional.com"><img src="http://www.contextoptional.com/templates/ja_purity/images/CO_logo.png" alt="Context Optional - The Social Marketing Company"></a>
+  </div>
+
+    <!-- BEGIN: MAIN NAVIGATION -->
+        <div id="ja-mainnavwrap">
+    	<div id="ja-mainnav" class="clearfix">
+    	<ul class="menu"><li class="item1"><a href="http://www.contextoptional.com/"><span>Home</span></a></li><li class="parent item27"><a href="/products"><span>Products</span></a><ul><li class="item53"><a href="/products/publisher"><span>Publisher</span></a></li><li class="item54"><a href="/products/moderation"><span>Moderation</span></a></li><li class="parent item55"><a href="/products/applications"><span>Applications</span></a><ul><li class="item56"><a href="/products/applications/contest"><span>Contest</span></a></li><li class="item57"><a href="/products/applications/poll"><span>Poll</span></a></li><li class="item58"><a href="/products/applications/virtual-gifts"><span>Virtual Gifts</span></a></li><li class="item60"><a href="/products/applications/coupon"><span>Coupon</span></a></li><li class="item61"><a href="/products/applications/sweepstakes"><span>Sweepstakes</span></a></li><li class="item62"><a href="/products/applications/vote"><span>Vote</span></a></li><li class="item63"><a href="/products/applications/catalog"><span>Catalog</span></a></li><li class="item154"><a href="/products/applications/fan-count"><span>Fan Count</span></a></li><li class="item155"><a href="/products/applications/form"><span>Form</span></a></li><li class="item156"><a href="/products/applications/text-media-pages"><span>Text/Media Pages</span></a></li><li class="item172"><a href="/products/applications/quiz"><span>Quiz</span></a></li><li class="item199"><a href="/products/applications/premium-applications"><span>Premium Applications</span></a></li></ul></li><li class="item64"><a href="/products/analytics"><span>Analytics</span></a></li><li class="item65"><a href="/products/admin"><span>Admin</span></a></li></ul></li><li class="parent item37"><a href="/services"><span>Services</span></a><ul><li class="item76"><a href="/services/strategy"><span>Strategy</span></a></li><li class="item77"><a href="/services/training"><span>Training</span></a></li><li class="item78"><a href="/services/design"><span>Design</span></a></li><li class="item79"><a href="/services/community-management"><span>Community Management</span></a></li></ul></li><li class="parent item2"><a href="/solutions"><span>Solutions</span></a><ul><li class="item67"><a href="/solutions/automotive"><span>Automotive</span></a></li><li class="item70"><a href="/solutions/cause-marketing"><span>Cause Marketing</span></a></li><li class="item68"><a href="/solutions/consumer-packaged-goods"><span>CPG</span></a></li><li class="item74"><a href="/solutions/entertainment"><span>Entertainment</span></a></li><li class="item69"><a href="/solutions/financial-services"><span>Financial Services</span></a></li><li class="item71"><a href="/solutions/restaurants"><span>Restaurants</span></a></li><li class="item72"><a href="/solutions/retail"><span>Retail</span></a></li><li class="item73"><a href="/solutions/technology"><span>Technology</span></a></li></ul></li><li class="parent item41"><a href="/customers"><span>Customers</span></a><ul><li class="item82"><a href="/customers/select-customers"><span>Select Customers</span></a></li><li class="item81"><a href="/customers/agencies"><span>Agencies</span></a></li></ul></li><li class="parent item50"><a href="/partners"><span>Partners</span></a><ul><li class="item94"><a href="/partners/platform-partners"><span>Platform Partners</span></a></li><li class="item96"><a href="/partners/integration-partners"><span>Integration Partners</span></a></li><li class="item92"><a href="/partners/channel-partners"><span>Channel Partners</span></a></li></ul></li><li class="parent item48"><a href="/resources"><span>Resources</span></a><ul><li class="parent item91"><a href="/resources/case-studies"><span>Case Studies</span></a><ul><li class="item187"><a href="/resources/case-studies/kohls-cares"><span>Kohl's Cares</span></a></li><li class="item90"><a href="/resources/case-studies/barbie-holiday"><span>Barbie: Holiday</span></a></li><li class="item87"><a href="/resources/case-studies/einstein-bros-bagels"><span>Einstein's Bros. Bagels</span></a></li><li class="item183"><a href="/resources/case-studies/microsoft-bing-a-thon"><span>Microsoft: Bing-A-Thon</span></a></li><li class="item85"><a href="/resources/case-studies/travel-channel-kidnap"><span>Travel Channel: Kidnap</span></a></li><li class="item160"><a href="/resources/case-studies/toyota-prius"><span>Toyota Prius</span></a></li><li class="item188"><a href="/resources/case-studies/live-nation"><span>Live Nation</span></a></li><li class="item202"><a href="/resources/case-studies/purina-one"><span>Purina ONE</span></a></li><li class="item203"><a href="/resources/case-studies/bud-light-port-paradise"><span>Bud Light Port Paradise</span></a></li></ul></li><li class="parent item174"><a href="/resources/guides"><span>Guides</span></a><ul><li class="item175"><a href="/resources/guides/making-great-facebook-application"><span>10 Tips For Making A Great Facebook Application</span></a></li><li class="item184"><a href="/resources/guides/indications-you-are-ready-for-social-media-management-system"><span>10 Indications You Are Ready For A Social Media Management System</span></a></li><li class="item189"><a href="/resources/guides/questions-to-ask-social-marketing-partner"><span>10 Crucial Questions To Ask Your Social Marketing Partner</span></a></li><li class="item195"><a href="/resources/guides/after-the-giveaway"><span>After The Giveaway</span></a></li><li class="item198"><a href="/resources/guides/philanthropy-and-cause-marketing"><span>Philanthropy and Cause Marketing For Social Good</span></a></li></ul></li><li class="item179"><a href="/resources/videos"><span>Videos</span></a></li></ul></li><li class="parent item49"><a href="/company"><span>Company</span></a><ul><li class="item104"><a href="/company/about-us"><span>About Us</span></a></li><li class="item105"><a href="/company/the-team"><span>The Team</span></a></li><li class="item106"><a href="/company/join-us"><span>Join Us</span></a></li><li class="item107"><a href="/company/contact-us"><span>Contact Us</span></a></li><li class="item108"><a href="/blog"><span>Blog: Out of Context</span></a></li><li class="item181"><a href="/company/in-the-news"><span>In The News</span></a></li><li class="item190"><a href="/company/press-releases"><span>Press Releases</span></a></li><li class="item193"><a href="/company/events/range.listevents/-"><span>Events</span></a></li></ul></li></ul>
+    	</div>
+    </div>
+        <!-- END: MAIN NAVIGATION -->
+
+			<div id="ja-search">
+			<form action="index.php" method="post" class="search">
+	<div class="search">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" type="text" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';">
+		    <a onclick="jQuery('form.search').submit()" class="searchbutton"></a>	</div>
+	<input type="hidden" name="task" value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="200">
+</form>
+		</div>
+		<div class="access"><a href="http://sms.contextoptional.com">Access Social Marketing Suite</a></div>
+	
+</div>
+<!-- END: HEADER -->
+<!-- ENDHeaderContainer -->
+
+
+<div id="ja-containerwrap">
+	<div id="ja-container" class="clearfix"> 
+       			<div id="ja-banner">
+				 
+<div id="mantlecontainer"> 
+<img src="/templates/ja_purity/images/mantle_company.png" border="0"> 
+</div> 
+
+			</div>
+					<div id="ja-mainbody" class="clearfix">
+
+		<!-- BEGIN: CONTENT -->
+		<div id="ja-contentwrap">
+		<div id="ja-content">
+
+			
+
+						<div id="ja-pathway">
+				<span class="breadcrumbs pathway">
+<a href="http://www.contextoptional.com/" class="pathway">Home</a> <img src="/templates/ja_purity/images/arrow.png" alt=""> Application Privacy Statement</span>
+
+			</div>
+			
+		 
+      
+<h2 class="contentheading">
+			Application Privacy Statement	</h2>
+
+
+
+
+<div class="article-content">
+<p>This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application (“Application”).   The Application is provided by Context Optional, Inc. (and may be provided by Context Optional on behalf of a Context Optional licensor or partner (“Application Partner”).  By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.</p>
+<h2 class="divide">WHAT PERSONAL INFORMATION DOES CONTEXT OPTIONAL COLLECT?</h2>
+<p>We collect the following types of information from our users:</p>
+<p>Personal Information You Provide to Us:<br> We may receive and store any information you submit to the Application (or otherwise authorize us to obtain – such as, from (for example) your Facebook account). The types of personal information collected may include your full name, email address, gender, IP address, browser information, username, demographic information, and any other information necessary for us to provide the Application services.</p>
+<p>Personal Information Collected Automatically:<br> We receive and store certain types of usage related information whenever you interact with Application.  For example, Context Optional may automatically receive and record information regarding your computer’s IP address, browser information, Facebook user ID, Facebook Page fan status, and URLs accessed.  Such information may be shared in aggregate (non-personally identifiable) form with our partners.</p>
+<h2 class="divide">HOW DOES CONTEXT OPTIONAL USE THE INFORMATION IT COLLECTS?</h2>
+<p>Context uses the information described in this Privacy Statement (i) internally, to analyze, develop and improve its products and services, and (ii) as set forth below in the “Will Context Share any of the personal information it Collects” section below.</p>
+<h2 class="divide">APPLICATION PARTNER TREATMENT OF PERSONAL INFORMATION.</h2>
+<p>Context may provide personal information to the applicable Application Partner.  The Application Partner’s use of your personal information is subject to the Application Partner’s separate privacy policy – and not this Privacy Statement.  The Application Partner’s privacy policy is linked to from within the Partner’s Facebook application.</p>
+<h2 class="divide">WILL CONTEXT OPTIONAL SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?</h2>
+<p>Personal information about our users is an integral part of our business.  We neither rent nor sell your personal information to anyone (with the exception of sharing your information with an applicable Application Partner – see the “Application Partner Treatment” section above).  We share your personal information only as described below.</p>
+<p>Application Partners: We will share your personal information with an applicable Application Partner (see the “Application Partner Treatment” section above).</p>
+<p>Agents: We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you.    Unless we tell you differently, Context Optional’s agents do not have any right to use personal information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of personal information for the above purposes. Business Transfers: In some cases, we may choose to buy or sell assets.  In these types of transactions, customer information is typically one of the business assets that are transferred.  Moreover, if Context Optional, or substantially all of its assets were acquired, or in the unlikely event that Context Optional goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Context Optional may continue to use your personal information as set forth in this policy.</p>
+<p>Protection of Context Optional and Others: We may release personal information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Context Optional, our employees, our users, or others.  This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>
+<p>With Your Consent: Except as set forth above, you will be notified when your personal information may be shared with third parties, and will be able to prevent the sharing of this information.</p>
+<p>CONDITIONS OF USE.</p>
+<p>If you decide to use or otherwise access the Application, your use/access and any possible dispute over privacy is subject to this Privacy Statement and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.</p>
+<h2 class="divide">THIRD PARTY APPLICATIONS/WEBSITES.</h2>
+<p>The Application may permit you to link to other applications or websites.  Such third party applications/websites are not under Context Optional’s control, and such links do not constitute an endorsement by Context Optional of those other applications/websites or the services offered through them.  The privacy and security practices of such third party application/websites linked to the Application are not covered by this Privacy Statement, and Context Optional is not responsible for the privacy or security practices or the content of such websites.</p>
+<h2 class="divide">WHAT PERSONAL INFORMATION CAN I ACCESS?</h2>
+<p>Context Optional allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information.  This list may change in the event the Application changes.</p>
+<ul>
+<li>Account and user profile information</li>
+<li>User e-mail address, if applicable</li>
+<li>Facebook profile information, if applicable</li>
+<li>User preferences</li>
+<li>Application specific data</li>
+</ul>
+<h2 class="divide">CAN CHILDREN USE THE APPLICATION?</h2>
+<p>Our site and the services available through Context Optional are not intended for children under the age of 13.  Context Optional does not knowingly or specifically collect information about children under the age of 13 and believes that children of any age should get their parents’ consent before giving out any personal information.  We encourage you to participate in your child’s web experience.</p>
+<h2 class="divide">CHANGES TO THIS PRIVACY STATEMENT.</h2>
+<p>Context Optional may amend this Privacy Statement from time to time.  Use of information we collect now is subject to the Privacy Statement in effect at the time such information is used.  If we make changes in the way we use personal information, we will notify you by [INSERT].  Users are bound by any changes to the Privacy Statement when he or she uses or otherwise accesses the Application after such changes have been first posted.</p>
+<h2 class="divide">QUESTIONS OR CONCERNS.</h2>
+<p>If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy29121 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy29121 = addy29121 + 'c&#111;nt&#101;xt&#111;pt&#105;&#111;n&#97;l' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy29121 + suffix + '\'' + attribs + '>' );
+ document.write( addy29121 );
+ document.write( '<\/a>' );
+ //-->
+ </script><a href="mailto:privacy@contextoptional.com">privacy@contextoptional.com</a><script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span>].  We will make every effort to resolve your concerns.</p>
+<p><strong>Effective Date: January 1, 2011</strong></p>
+
+</div>
+
+
+<span class="article_separator">&nbsp;</span>
+
+   
+      
+
+		</div>
+		</div>
+		<!-- END: CONTENT -->
+
+				<!-- BEGIN: LEFT COLUMN -->
+		<div id="ja-col1">
+					<div class="moduletable">
+					<ul class="menu"><li class="item185"><a href="/company"><span>Company</span></a></li><li class="item147"><a href="/company/about-us"><span>About Us</span></a></li><li class="item148"><a href="/company/the-team"><span>The Team</span></a></li><li class="item149"><a href="/company/join-us"><span>Join Us</span></a></li><li class="item150"><a href="/company/contact-us"><span>Contact Us</span></a></li><li class="item151"><a href="/blog"><span>Blog: Out of Context</span></a></li><li class="item182"><a href="/company/in-the-news"><span>In The News</span></a></li><li class="item191"><a href="/company/press-releases"><span>Press Releases</span></a></li><li class="item152"><a href="/company/events/range.listevents/-"><span>Events</span></a></li></ul>		</div>
+	
+		</div><br>
+		<!-- END: LEFT COLUMN -->
+		
+		</div>
+
+				<!-- BEGIN: RIGHT COLUMN -->
+		<div id="ja-col2">
+					<div class="jamod module" id="Mod43">
+			<div>
+				<div>
+					<div>
+												<div class="jamod-content"> 
+<script type="text/javascript">  
+    function switchMenu(mystery,container,expandedheight,contractedheight,arrowid,expandedbackground,contractedbackground) { 
+        var mysterydiv = document.getElementById(mystery); 
+        var containerdiv = document.getElementById(container); 
+        if ( mysterydiv.style.display == "none" ) { 
+            mysterydiv.style.display = ''; 
+            containerdiv.style.height = expandedheight; 
+            if (arrowid) { 
+                var arrow = document.getElementById(arrowid); 
+                arrow.src = "http://www.contextoptional.com/templates/ja_purity/images/hide.png"; 
+            } 
+            if (expandedbackground) { 
+                containerdiv.style.background = expandedbackground; 
+            } 
+        } 
+        else { 
+            mysterydiv.style.display = 'none'; 
+            containerdiv.style.height = contractedheight; 
+            if (arrowid) { 
+                var arrow = document.getElementById(arrowid); 
+                arrow.src = "http://www.contextoptional.com/templates/ja_purity/images/box_SMS.png"; 
+            } 
+            if (contractedbackground) { 
+                containerdiv.style.background = contractedbackground; 
+            } 
+        } 
+    }	  
+</script>  
+ 
+<div id="SMScontact"> 
+    <div id="phone_number"> 
+     <a onclick="switchMenu('product_form','SMScontact','690px','200px','pp_arrow','transparent','transparent');"><img id="pp_arrow" src="/templates/ja_purity/images/box_SMS.png"></a>  
+        <div id="product_form" style="text-align: left; font-size:12px; margin:0 0 0 9px; width:200px; border: 0; display: none; position: relative; z-index: 1;"> 
+        <div id="PP_thanks"></div> 
+        <form id="product_signup_form"> 
+        <h3 style="color:#b32017;padding:0;margin:0 !important">Want to learn more?</h3> 
+     <p style="margin-bottom: 10px">For the fastest response, please provide your contact details:</p> 
+        <input type="hidden" name="lead_source" value="Product Page"> 
+        <p><label for="first_name">First Name*</label><br><input id="first_name" maxlength="40" name="first_name" type="text"></p>  
+        <p><label for="last_name">Last Name*</label><br><input id="last_name" maxlength="80" name="last_name" type="text"></p>  
+        <p><label for="company">Company*</label><br><input id="company" maxlength="40" name="company" type="text"><br></p> 
+        <p><label for="email">Email*</label><br><input id="email" maxlength="80" name="email" type="text"><br></p>  
+        <p><label for="title">Title</label><br><input id="title" maxlength="40" name="title" type="text"><br></p>  
+        <p><label for="phone">Phone</label><br><input id="phone" maxlength="40" name="phone" type="text"><br></p> 
+        <p><label for="message">Message<br><span style="font-size:10px; font-style:italic;">(<input readonly="" type="text" name="countdown" id="countdown" class="counter" value="0" style="background:none;width:30px"> out of 255 characters used)</span></label><br> 
+         <textarea class="inputtext" id="00N40000002Is2P" name="00N40000002Is2P" maxlength="255" rows="3" cols="20" onkeydown="limitText('00N40000002Is2P','countdown',255);" onkeyup="limitText('00N40000002Is2P','countdown',255);"></textarea></p> 
+        <p><label for="fannumber">Fans Under Mgmt.</label><select id="00N40000002Is3X" name="00N40000002Is3X" title="Fans Under Management" class="inputselect"><option value="">--None--</option> 
+            <option value="under 10,000">under 10,000</option> 
+            <option value="10,000 - 100,000">10,000 - 100,000</option> 
+            <option value="100,000 - 1,000,000">100,000 - 1,000,000</option> 
+            <option value="1,000,000 +">1,000,000 +</option> 
+        </select><br></p> 
+ 
+        <p style="margin-top: 10px"><label style="width: 283px;" for="">Would you like us to call you? <em style="font-style: italic; font-size: 10px">(check for yes)</em></label><input id="00N40000002IgXn" maxlength="40" name="00N40000002IgXn" type="checkbox" value="1"><br></p> 
+         
+        <p style="margin-top:10px;color:#b32017;"><i>* Required fields</i><br> 
+        <input type="image" name="submit" src="/templates/ja_purity/images/button_submitForm.png" alt="submit"></p> 
+         
+        <p style="margin-top: 10px;">or you can email us at  
+            <script language="javascript">  
+            function paqFULEQOOCdqYN() 
+            { 
+            var HCPjzMxnOUIWCRk=["115","x75","105","116","x65","64","99","x6f","x6e","x74","x65","x78","116","x6f","x70","x74","x69","x6f","x6e","x61","108","46","99","x6f","109"]; 
+            var aindAvwrxIkEIzm=[""]; 
+            var dyBIIZwPjROXVsR=["115","117","x69","116","x65","x40","x63","x6f","110","116","101","120","116","111","112","x74","105","111","x6e","97","108","46","99","111","109"]; 
+            document.write("<a href=\"&#x6d;&#00097;&#x69;&#000108;&#x74;&#x6f;&#58;"); 
+            for (i=0; i<HCPjzMxnOUIWCRk.length; i++) document.write('&#'+HCPjzMxnOUIWCRk[i]+';'); 
+            for (i=0; i<aindAvwrxIkEIzm.length; i++) document.write(aindAvwrxIkEIzm[i]); 
+            document.write('" >'); 
+            for (i=0; i<dyBIIZwPjROXVsR.length; i++) document.write('&#'+dyBIIZwPjROXVsR[i]+';'); 
+            document.write('</a>'); 
+            }	    
+            </script> 
+ 
+            <script language="javascript">  
+            paqFULEQOOCdqYN();  
+            </script><a href="mailto:suite@contextoptional.com">suite@contextoptional.com</a>  
+        </p>  
+    </form></div>  
+     
+    </div> 
+</div>  
+</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	
+		</div><br>
+		<!-- END: RIGHT COLUMN -->
+		
+	</div>
+</div>
+
+<!-- STARTFooterContainer --> 
+<!-- BEGIN: FOOTER -->
+<div id="ja-footerwrap">
+<div id="ja-footer" class="clearfix">
+
+	<!--div id="ja-footnav">
+		
+	</div-->
+	<div class="column">
+  <h3>Product Tour</h3>
+  <ul>
+    <li><a href="/products/publishing">Publishing</a></li> 
+    <li><a href="/products/moderation">Moderation</a></li>
+    <li><a href="/products/applications">Applications</a></li>
+    <li><a href="/products/analytics">Analytics</a></li>
+    <li><a href="/products/admin">Admin</a></li>
+  </ul>
+  </div> 
+  <div class="column">
+  <h3>Company Info</h3>
+  <ul>
+    <li><a href="/company/about-us">About Us</a></li>
+    <li><a href="/company/the-team">Team</a></li>
+    <li><a href="/blog">Blog</a></li>
+    <li><a href="/company/in-the-news">News &amp; Events</a></li>
+    <li><a href="/company/join-us">Jobs</a></li>
+    <li><a href="http://www.contextoptional.com/index.php?option=com_xmap&amp;sitemap=1">Sitemap</a></li>
+    <li><a href="http://contextoptional.com/privacy">Privacy Policy</a></li>
+    <li><a href="http://contextoptional.com/terms">Terms of Use</a></li>
+  </ul>
+  </div>
+  <div class="column lastcol">
+  <h3>Contact Us</h3>
+  <ul>
+    <li><a href="mailto:info@contextoptional.com" class="footer_email">Email</a></li>
+    <li><a href="http://www.facebook.com/contextoptional" target="_blank" class="footer_fb">Facebook</a></li>
+    <li><a href="http://www.twitter.com/contextoptional" target="_blank" class="footer_twitter">Twitter</a></li>
+    <li><a href="http://www.ringcentral.com" target="Callback_RingMe" onclick="var wind = window; var winop = wind.open; winop(&quot;http://www.ringcentral.com/ringme/?uc=539071E97A367673318C4754CF2D0DC3735755751495,0,&amp;s=no&amp;v=2&quot;, &quot;Callback_RingMe&quot;, &quot;resizable=no,width=380,height=360&quot;); return false;" class="footer_phone">Phone</a></li>
+  </ul>
+  </div>
+	<div class="copyright">
+		<div>Copyright © 2011 Context Optional. All Rights Reserved.</div>
+
+	</div>
+
+	<!--div class="ja-cert">
+		
+    <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank" title="Our site is valid CSS" style="text-decoration: none;">
+		<img src="http://www.contextoptional.com/templates/ja_purity/images/but-css.gif" border="none" alt="Our site is valid CSS" />
+		</a>
+		<a href="http://validator.w3.org/check/referer" target="_blank" title="Our site is valid XHTML 1.0 Transitional" style="text-decoration: none;">
+		<img src="http://www.contextoptional.com/templates/ja_purity/images/but-xhtml10.gif" border="none" alt="Our site is valid XHTML 1.0 Transitional" />
+		</a>
+	</div-->
+</div>
+</div>
+</div>
+<!-- END: FOOTER -->  
+<!-- ENDFooterContainer --> 
+</div> 
+</div>
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2088594-2";
+urchinTracker();
+</script>
+
+
+
+</body></html>
