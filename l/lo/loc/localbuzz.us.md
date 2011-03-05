@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localbuzz.us privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211082028id_/http%3A//www.localbuzz.us/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbuzz.us privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305041448id_/http%3A//www.localbuzz.us/privacy.html) for the most accurate reproduction.*
 
-# Localbuzz.us
+# Terms and Conditions | LocalBuzz
 
 ## Privacy Notice 
 
@@ -20,7 +20,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the LocalBuzz.us website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the Localbuzz.us website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 Name  
 Address  
@@ -67,4 +67,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [info@LocalBuzz.us](http://www.localbuzz.us/info@LocalBuzz.us).
+Should you have other questions or concerns about these privacy policies, please send us an email at [info@Localbuzz.us](https://web.archive.org/web/20110305041448id_/http%3A//www.localbuzz.us/info@localbuzz.us).
