@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestjobsindia.in privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522210553id_/http%3A//www.bestjobsindia.in/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestjobsindia.in privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305040443id_/http%3A//www.bestjobsindia.in/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy :: Best Jobs India
 
@@ -87,7 +87,7 @@ If we ever change this privacy policy, we will post the changes on this page and
 
   *  **Contact**
 
-The **Best Jobs India** website is property of DGNET LTD., private limited company incorporated in Scotland(UK), number 189977, and with registerd office in 12 South Bridge, Edinburgh EH1 1DD (United Kingdom). If you have any questions about this privacy policy, the practices of this site, or your dealings with this site, you can [contact us here (click here)](https://web.archive.org/contact.htm). We welcome your comments concerning this privacy policy. If you believe that we have not adhered to this policy, please let us know and we will make reasonable efforts to promptly determine and solve the problem.
+The **Best Jobs India** website is property of DGNET LTD., private limited company incorporated in Scotland(UK), number 189977, and with registerd office in 152 Morrison Street, The Exchange, Edinburgh EH3 3EB (United Kingdom). If you have any questions about this privacy policy, the practices of this site, or your dealings with this site, you can [contact us here (click here)](https://web.archive.org/contact.htm). We welcome your comments concerning this privacy policy. If you believe that we have not adhered to this policy, please let us know and we will make reasonable efforts to promptly determine and solve the problem.
 
 Thank you for using **Best Jobs India**.
 
