@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askkids.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229112042id_/http%3A//sp.askkids.com/docs/askkids/privacypolicy_new.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askkids.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305102845id_/http%3A//sp.askkids.com/docs/askkids/privacypolicy_new.shtml) for the most accurate reproduction.*
 
 # About AskKids.com: Overview
 
