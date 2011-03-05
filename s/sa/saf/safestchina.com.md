@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safestchina.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204023548id_/http%3A//www.safestchina.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safestchina.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305044139id_/http%3A//www.safestchina.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -123,6 +123,10 @@ If you wish to unsubscribe to our email communications and/or de-list your compa
 
 10\. Contacting Us   
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact at : 
+
+Google, as a third party vendor, uses cookies to serve ads on www.SafestChina.com.  
+Google's use of the DART cookie enables it to serve ads to www.SafestChina.com's users based on their visit to www.SafestChina.com and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html). 
 
 Safestchina.com
 
