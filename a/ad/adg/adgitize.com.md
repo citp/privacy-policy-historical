@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adgitize.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102232023id_/http%3A//www.adgitize.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgitize.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306145244id_/http%3A//www.adgitize.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Adgitize Privacy Policy
 
@@ -26,6 +26,6 @@ By using Adgitize and our web site, you consent to the collection and use of you
 
 **Additional questions?**
 
-If you still have questions feel free to [**contact us.**](https://web.archive.org/web/20101102232023id_/http%3A//www.adgitize.com/ContactUs.aspx)
+If you still have questions feel free to [**contact us.**](https://web.archive.org/web/20110306145244id_/http%3A//www.adgitize.com/ContactUs.aspx)
 
 * * *
