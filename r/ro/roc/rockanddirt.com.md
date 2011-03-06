@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockanddirt.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123122027id_/http%3A//www.rockanddirt.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockanddirt.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306010744id_/http%3A//www.rockanddirt.com/static/privacy_policy.html) for the most accurate reproduction.*
 
 # TAP Publishing Co.® Privacy Policy
 
