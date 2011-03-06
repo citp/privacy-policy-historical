@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perriconemd.com privacy policy that was archived on 2010-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100701190353id_/http%3A//www.perriconemd.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perriconemd.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306115452id_/http%3A//www.perriconemd.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Perricone MD
 
