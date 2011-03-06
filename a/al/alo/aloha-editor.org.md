@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the aloha-editor.org privacy policy that was archived on 2010-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100720193956id_/http%3A//www.aloha-editor.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aloha-editor.org privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306091931id_/http%3A//www.aloha-editor.org/privacy.php) for the most accurate reproduction.*
 
-# Aloha Editor - The HTML5 contenteditable Editor is easier, faster, better.
+# Aloha Editor - HTML5 WYSIWYG Editor
 
-### Privacy.
-    
-    
+
     This privacy policy sets out how Gentics Software GmbH and this website  uses and
     protects any information that you give us when you use this website.
     
@@ -63,7 +61,8 @@
     prevent you from taking full advantage of the website.
     Links to other websites
     Our website may contain links to other websites of interest. However, once you have used these
-    links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information
+    links to leave our site, you should note that we do not have any control over that other website.
+     Therefore, we cannot be responsible for the protection and privacy of any information
     which you provide whilst visiting such sites and such sites are not governed by this privacy
     statement. You should exercise caution and look at the privacy statement applicable to the
     website in question.
@@ -82,7 +81,9 @@
     	your permission or are required by law to do so. We may use your personal information to send
     	you promotional information about third parties which we think you may find interesting if you
     	tell us that you wish this to happen.
-    	You may request details of personal information which we hold about you. A small fee will be payable. If you would 	like a copy of the information 	held on you please write to Gentics Software GmbH, Gonzagagasse 11/25, A-1010 Vienna, 	Austria.If you believe that any information we are holding on you is incorrect or incomplete, please
-    	write to or email us as soon as possible, at the above address. We will promptly correct any
-    	information found to be incorrect.
+    	You may request details of personal information which we hold about you. A small fee will be payable.
+    	If you would 	like a copy of the information 	held on you please write to Gentics Software GmbH, 
+    	Gonzagagasse 11/25, A-1010 Vienna, 	Austria.If you believe that any information we are holding 
+    	on you is incorrect or incomplete, please write to or email us as soon as possible, at the above 
+    	address. We will promptly correct any information found to be incorrect.
     
