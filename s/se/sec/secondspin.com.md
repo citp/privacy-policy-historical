@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secondspin.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819123139id_/http%3A//www.secondspin.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondspin.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306094923id_/http%3A//www.secondspin.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # SecondSpin.com
 
