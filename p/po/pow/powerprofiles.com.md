@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerprofiles.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215200229id_/http%3A//dnb.powerprofiles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerprofiles.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306182853id_/http%3A//www.powerprofiles.com/privacy) for the most accurate reproduction.*
 
 # PowerProfiles Privacy Policy
 
@@ -15,7 +15,7 @@ When you sign up to receive information from PowerProfiles.com's, which means yo
   * receive communication by e-mail (on behalf of PowerProfiles.com's or our advertisers),
   * receive communication by postal mail (either from PowerProfiles.com's or our advertisers),
   * receive communication by telephone (either from PowerProfiles.com's or our advertisers),
-  * receive communication by Fax (Faximilie) (from PowerProfiles.com or D&B),
+  * receive communication by Fax (Faximilie) (from PowerProfiles.com),
   * receive communications with special messages, administrative messages, or announcements
 
 
@@ -26,7 +26,7 @@ You may choose to discontinue receiving communications from PowerProfiles.com's.
 
 #### PowerProfiles.com's Member Profiles
 
-When you sign up to participate in the PowerProfiles.com's Community by providing additional information which upon approval by PowerProfiles.com will be added to your business profile, we will collect personal and business information to establish your profile. This profile will be used by PowerProfiles.com's in accordance with this privacy statement.
+When you sign up to participate in the PowerProfiles.com's Community by providing additional information which upon approval by PowerProfiles.com will be added to your business profile, we will collect personal and business information to establish your profile. This profile will be used by PowerProfiles.com's in accordance with this privacy statement
 
 You may choose to make certain profile elements public, in which case that information would be available to anyone who visits the PowerProfiles.com's website and (potentially) to other users of the Internet.
 
@@ -60,7 +60,7 @@ Surveys are another method by which we gather information about our PowerProfile
 
 #### How Do We Protect Subscriber Information Once We Have It?
 
-All information is stored on a secure server. PowerProfiles.com's uses Secure Socket Layer (SSL) server for our Web site. Browsers will encrypt the contents of the subscription form before sending it to our server.
+All information is stored on a secure server. PowerProfiles.com uses a Secure Socket Layer (SSL) enabled server for our Web site. Browsers will encrypt the contents of the subscription form before sending it to our server.
 
 #### Cookies You Can't Eat
 
