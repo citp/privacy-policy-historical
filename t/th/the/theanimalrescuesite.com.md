@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the theanimalrescuesite.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630003408id_/http%3A//www.theanimalrescuesite.com/clickToGive/privacy.faces%3FsiteId%3D3%26link%3Dctg_ars_privacy_from_home_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanimalrescuesite.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306155920id_/http%3A//www.theanimalrescuesite.com/clickToGive/privacy.faces%3FsiteId%3D3%26link%3Dctg_ars_privacy_from_home_footer) for the most accurate reproduction.*
 
 # Privacy @ The Animal Rescue Site
 
-[](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.theanimalrescuesite.com)
+[](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.theanimalrescuesite.com)   
 
-CharityUSA.com, LLC, owners and operators of the GreaterGood Network, which includes The Hunger Site and The Hunger Site store, The Breast Cancer Site and The Breast Cancer Site store, The Child Health Site and The Child Health Site store, The Literacy Site and The Literacy Site store, The Rainforest Site and The Rainforest Site store, The Animal Rescue Site and The Animal Rescue Site store, Pink Ribbon Store, Global Girlfriend, Museum Shop, Ecology Fund, and GreaterGood.com, has created this privacy statement to spell out our commitment to individual privacy. The following discloses our information gathering and dissemination practices.
+
+CharityUSA.com, LLC, owners and operators of the GreaterGood Network, which includes The Hunger Site and The Hunger Site store, The Breast Cancer Site and The Breast Cancer Site store, The Animal Rescue Site and The Animal Rescue Site store, The Veterans Site and The Veterans Site Store, The Child Health Site and The Child Health Site store, The Literacy Site and The Literacy Site store, The Rainforest Site and The Rainforest Site store, Pink Ribbon Store, Global Girlfriend, Museum Shop, Ecology Fund, and GreaterGood.com, has created this privacy statement to spell out our commitment to individual privacy. The following discloses our information gathering and dissemination practices.
 
 CharityUSA respects the privacy of its visitors. We do not sell, rent, trade, or share Personally Identifiable Information with third parties except as disclosed within this privacy statement.
 
-CharityUSA is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the following websites: greatergood.com, thehungersite.com and shop.thehungersite.com, thebreastcancersite.com and shop.thebreastcancersite.com, thechildhealthsite.com and shop.thechildhealthsite.com, theliteracysite.com and shop.theliteracysite.com, therainforestsite.com and shop.therainforestsite.com, theanimalrescuesite.com and shop.theanimalrescuesite.com, globalgirlfriend.com, pinkribbonstore.com, museumshop.com, and ecologyfund.com (collectively "the Sites"). Because CharityUSA wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+CharityUSA is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the following websites: greatergood.com, thehungersite.com, thebreastcancersite.com, theanimalrescuesite.com, theveteranssite.com, thechildhealthsite.com, theliteracysite.com , therainforestsite.com, globalgirlfriend.com, pinkribbonstore.com, museumshop.com, and ecologyfund.com (collectively "the Sites"). Because CharityUSA wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact [customerservice@greatergood.com](mailto:customerservice@greatergood.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -70,22 +71,15 @@ Now there is an easy and reliable way to know you can trust that our stores are 
 
 Please note: Charges will appear on your credit card statement under the name of the storefront you first entered through:
 
-The Hunger Site 
-
-The Breast Cancer Site 
-
-The Child Health Site 
-
-The Literacy Site 
-
-The Rainforest Site 
-
-The Animal Rescue Site 
-
-Global Girlfriend 
-
-Pink Ribbon Shop 
-
+The Hunger Site   
+The Breast Cancer Site   
+The Animal Rescue Site   
+The Veterans Site   
+The Child Health Site   
+The Literacy Site   
+The Rainforest Site   
+Global Girlfriend   
+Pink Ribbon Shop   
 Museum Shop
 
 If we cannot identify which storefront you entered through, charges will appear on your statement as CharityUSA.com, LLC.
@@ -102,14 +96,19 @@ We provide you the opportunity to 'opt-out' of having your personally identifiab
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the unsubscribe instructions included in each newsletter or communication or by contacting us at:
 
-U.S. and Canada: 1-888-355-4321 
+GreaterGood Network Customer Service   
+One Union Square   
+600 University Street, Suite 1000   
+Seattle, WA 98101-4107   
+U.S.A.   
+[customerservice@greatergood.com](mailto:customerservice@greatergood.com)
 
-Outside the U.S. and Canada: 206-268-5401 
-
+U.S. and Canada: 1-888-355-4321   
+Outside the U.S. and Canada: 206-268-5401   
 Customer Service hours are 10:30 am to 6:00 pm (ET), Monday through Friday
 
 You will be notified if your personal information is collected by any third party that is not our agent/service provider other than as specified in this policy, so you can make an informed choice as to whether or not to share your information with that party. Although there are no plans to do this presently, if this ever occurs, an opt-out will be provided to you before any personally identifiable information is shared, so it is always your choice when information is provided to a third party.
 
 We reserve the right to modify this privacy statement at any time. If we make material changes to this policy, we will notify you here or by e-mail.
 
-This Privacy Policy was last updated on April 12, 2010.
+This Privacy Policy was last updated on February 16, 2011.
