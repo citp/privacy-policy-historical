@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traveleurope.it privacy policy that was archived on 2010-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100717111743id_/http%3A//www.traveleurope.it/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveleurope.it privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306115604id_/http%3A//www.traveleurope.it/privacy.php) for the most accurate reproduction.*
 
-# 
+# Privacy policy - Traveleurope
 
 By using **Traveleurope** website, you accept the practices described in this Privacy Policy.
 
