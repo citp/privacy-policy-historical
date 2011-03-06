@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the weddinginspirasi.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621143126id_/http%3A//www.weddinginspirasi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddinginspirasi.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306135058id_/http%3A//www.weddinginspirasi.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Wedding Inspirasi | Wedding Inspirasi Bridal Inspiration Blog
+# Privacy Policy for Wedding Inspirasi | Wedding Inspirasi
 
 ## [ Privacy Policy for Wedding Inspirasi ](http://www.weddinginspirasi.com/privacy-policy/ "Permanent Link to Privacy Policy for Wedding Inspirasi")
 
 ### Privacy Policy for Wedding Inspirasi
 
-At [](http://weddinginspirasi.kopiblog.com/)[http://www.weddinginspirasi.com](https://web.archive.org/web/20100621143126id_/http%3A// "Wedding Inspirasi"), the privacy of our visitors is important to us. This privacy policy document outlines the types of personal information is received and collected on this website and how it is used. We never sell your personal information to third parties.
+At [](http://weddinginspirasi.kopiblog.com/)[http://www.weddinginspirasi.com](https://web.archive.org/web/20110306135058id_/http%3A// "Wedding Inspirasi"), the privacy of our visitors is important to us. This privacy policy document outlines the types of personal information is received and collected on this website and how it is used. We never sell your personal information to third parties.
 
 ### Log Files
 
@@ -20,7 +20,7 @@ Our advertising partners may use cookies and web beacons on our site. Our advert
 
 ### DoubleClick DART Cookie
 
-Google, as a third party vendor, uses cookies to serve ads on [http://www.weddinginspirasi.com](https://web.archive.org/web/20100621143126id_/http%3A// "Wedding Inspirasi").  
+Google, as a third party vendor, uses cookies to serve ads on [http://www.weddinginspirasi.com](https://web.archive.org/web/20110306135058id_/http%3A// "Wedding Inspirasi").  
 Google’s use of the DART cookie enables it to serve ads to users based on their visit to weddinginspirasi.kopiblog.com and other sites on the Internet.  
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
@@ -34,6 +34,5 @@ If you wish to disable cookies, you may do so through your own browser options. 
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us at _editor @ weddinginspirasi [dot] com_.
 
-  
   
 
