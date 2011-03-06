@@ -1,66 +1,52 @@
-> *The following text is extracted and transformed from the rocketfuel.com privacy policy that was archived on 2007-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070223104307id_/http%3A//www.rocketfuel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketfuel.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307001625id_/http%3A//www.rocketfuel.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Rocketfuel Software Station
+# Campaigns run better on Rocket Fuel
 
-This website ('Site') is owned and operated by JUMBO CORPORATION LTD, ABN 66 009 189 128 ('JUMBO CORPORATION LTD, we, our, us'). JUMBO CORPORATION LTD is committed to the protection of personal information provided by you to the Site.
+Privacy Policy for Web surfers (Effective: July 19, 2010)
 
-This Privacy Policy applies to the collection, storage, use and dissemination by JUMBO CORPORATION LTD of your personal information ('Your Personal Information'). 
+Scope of this Policy  
+This policy covers all data on Web surfers that we collect for the purpose of delivering and enhancing our advertising services. It does not cover our policy with respect to visitors to the Rocket Fuel Inc. Web site or individuals and corporations we do business with. 
 
-Access to the contents of this Site is conditional upon your approval of the Privacy Policy.
+### Our Mission  
+At Rocket Fuel, we want to turn online ads from an annoyance into a useful complement to your Web surfing experience. We want to deliver personalized, well-chosen ads to help you discover things that interest you – new Web sites, new products, new bargains.
 
-As part of JUMBO CORPORATION LTD's commitment to the protection of Your Personal Information, we have developed this policy in line with the voluntary National Principles for the Fair Handling of Personal Information developed by the Australian Federal Privacy Commissioner, which represent industry best practice. 
+And we want to be the Rocket Fuel for the Web that powers this discovery.
 
-Our Privacy Policy contains the following important information regarding Your Personal Information:
+We use lots of rocket science to pick the best ads to show, based on everything we know about the context: the ad itself, the page that needs an ad, the time of day and other external factors, and you. 
 
-  * Collection of Your Personal Information
-  * Storage an Security of Your Personal Information
-  * Use and Disclosure of Your Personal Information
-  * Access to Your Personal Information
-  * Children's Privacy
-  * Disclaimer
-  * Further Information on Privacy
-  * Contact Us
+### How We Think of You  
+Before describing the kinds of data we collect, it's important to understand how we (and most other ad networks) identify you and other Web surfers. We have no idea who you are. We place an anonymous identifier in a cookie on your Web browser, so to us you are just "surfer82" for example. You may also be "surfer99" to us if you use two different browsers (Firefox and IE, for example) on the same computer, and also "surfer118" to us if you use another computer, and even “surfer234” if you sometimes use the browser on your iPhone when you surf the Web. And if you share one of those computers with a roommate, frankly we can't tell for sure who is who, so "surfer99" may in fact be a mixture of the two of you.   
 
 
+We don't request or store anything that is Personally-Identifiable Information. We don't know your name, address, phone number, or email address.  We prohibit our partners from sharing this information with us, and we require that they also either not collect PII, or, if they do, that they not merge PII with anonymous data they may receive from, or share with us.
 
-For the purposes of this Privacy Statement, Personal Information means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.
+### The Information We Collect  
+To learn about the ads you might like or dislike, we may ask you questions directly – for example, we might ask about which ads, products or brands you like or dislike. We may collect information about our interactions with you, such as which ads we've shown you and on which pages, whether you clicked them, the IP address the ad request came from, etc. We may collect information about our partners' interactions with you – for example, by placing pixels on an advertiser's webpage so we can know if you ultimately purchased an item they had advertised with us. We may partner with other companies you've permitted to share anonymous information about you – for example, to learn the kinds of products you like to buy online.  We remember this information for up to 30 months.
 
-This Privacy Statement will not apply to web sites which are linked to this Web Site and over which JUMBO CORPORATION LTD has no control. You should check the privacy policy of any other web site you enter.
+### How We Use that Information  
+Seeing all this information allows us to find historical patterns that help us select better ads in the future. For example, we might learn that an ad for mp3 downloads works better on users who've previously clicked ads for mp3 players, or we might learn that a coffee ad works better in the morning. Our system will test millions of possibilities along these lines and build a giant formula to predict future responses. 
 
-By using this Web Site you agree to the privacy policy of JUMBO CORPORATION LTD(''JUMBO CORPORATION LTD'') as set out below. You agree that your use of this Site implies your consent to the collection and use of Your Personal Information (or your children's personal information) in accordance with the terms of this Privacy Policy.
+If we can make ads more useful and interesting for you, we'll also make you more valuable to the Web – your visits will make websites more money per ad, allowing them to reduce the overall amount of ads they show, and powering their investment in better products and more free features and content. We'll also make the Web more valuable to advertisers, helping them make more money on their online campaigns, which will cause them to shift more advertising online, which will support even more websites with even more useful content and features.
 
-If we deem it necessary, we may amend this Privacy Policy from time to time in line with industry best practice. It is prudent for you to review our Privacy Policy regularly to ensure that you are satisfied and consent to all amendments to our Privacy Policy. Your continued use of this Site following any amendments is valid confirmation of your acceptance to the amendments.
+### Opting Out  
+It's a virtuous cycle we're happy to be part of, and we hope you're equally happy with your role in this endeavor, **but if not please clickhere to opt out of personalized ads based on the Rocket Fuel cookie**, or **[here](http://www.networkadvertising.org/managing/opt_out.asp)** to opt out of other personalized advertising via the Network Advertising Initiative’s opt-out page.
 
-Your Personal Information is collected to enhance your use of the Site and continually improve our Site.
+### If you opt out, you'll still see ads from us online, and we'll still do our best to serve the most relevant ads we can. We just won't know it's you, so we won't be able to apply any of your ad preferences. Note that we'll still maintain a cookie on your computer to track that you've opted out.  That opt-out cookie (like all cookies) is associated with a particular computer and browser, so for example if you get a new computer, install a new browser, or clear your cookies, you’ll need to opt-out again. **If you change your mind, clickhere to opt back in**.
 
-We will collect information that does personally identify you where required (this may include your name, email address, gender, age and subscribers details). We only collect this information to carry out the functions offered on the areas of Site that you choose to enter. If you do not wish to provide your Personal Information, you should not use these parts of the Web Site.
+Industry Memberships  
+Rocket Fuel is a member of the Network Advertising Initiative (NAI), an organization working to educate people and help them manage their online privacy.
 
-JUMBO CORPORATION LTD recognises that your privacy is very important to you. For this reason, if we can (and you want to), you do not have to identify yourself when you use or access most of the features of the Web Site. You will not be penalised if you do not provide us with your Personal Information.
+Information Sharing  
+We produce reports and analytics for our business partners, and we may share non-personally identifiable information with them. We may disclose information to third parties when we reasonably believe we are obligated to do so by law or as necessary to protect ourselves or others. Finally, we may transfer information to a successor entity in connection with a corporate change in control such as a merger or acquisition.
 
-JUMBO CORPORATION LTD will use all reasonable endeavours to maintain the security of Your Personal Information.
+We may update this policy from time to time. If we do, we'll note the change on our homepage.
 
-We require our staff and service providers to respect the confidentiality of Your Personal Information.
+Please direct questions to [privacy@rocketfuel.com](mailto:privacy@rocketfuel.com) or send mail to:
 
-Due to the nature of the Internet, we cannot guarantee that Your Personal Information will always be secure during transmission or from unauthorised access during storage. Please contact JUMBO CORPORATION LTD immediately if you become aware or have reason to believe there has been any unauthorised use of Your Personal Information. To the extent permitted by law, we exclude any liability for loss or damage caused by breaches of the security, integrity or privacy of this Web Site.
+Rocket Fuel Inc  
+c/o Privacy  
+350 Marine Parkway  
+Suite 220  
+Redwood Shores, CA 94065 USA 
 
-Personal Information that you submit to our Web Site may be disclosed to a third party if the disclosure is:
-
-  * Required by law;
-  * Permitted by the National Privacy Principles;
-  * Necessary to co-operate with a judicial process or a law enforcement agency;
-  * Necessary to protect and defend the rights or property of JUMBO CORPORATION LTD, this site, or participating sites; or
-  * Necessary to lessen or prevent unlawful activity or serious threats to individuals, public health or safety.
-
-
-
-JUMBO CORPORATION LTD will use all reasonable endeavours to keep Your Personal Information accurate. Please Contact Us to examine Your Personal Information if required. We will use reasonable endeavours to provide a complete list of Your Personal Information within 14 days of receipt of your enquiry.
-
-You may Contact Us to amend any of Your Personal Information that is inaccurate or request that Your Personal Information be deleted. We will use reasonable endeavours to amend or delete your records as requested within 14 days of receipt of notice. If applicable, any legal requirement on JUMBO CORPORATION LTD to maintain certain records of Your Personal Information shall prevail over any of your requests.
-
-All person's under the age of 18 must obtain the consent of their parents or legal guardians before using this Site or submitting any information to this Site. JUMBO CORPORATION LTD will adhere to this Privacy Policy in respect of any information submitted by minors but the primary responsibility rests on parents and guardians to properly supervise their children's use of the Site.
-
-JUMBO CORPORATION LTD will only collect, use or disclose information that personally identifies you as set out in this Privacy Policy unless in our opinion JUMBO CORPORATION LTD is required by law to protect the rights or property of JUMBO CORPORATION LTD or any third party, or to avoid injury to any person.
-
-If you would like any further information about your rights to privacy, please see the Australian Privacy Commissioner's website or contact the Internet Industry Association.
-
-If you have any queries regarding this Privacy Policy or would like to read, amend or delete any of Your Personal Information, please contact JUMBO CORPORATION LTD by email addressed to [info@jumbocorporation.com](mailto:info@jumbocorporation.com).
+back to top^
