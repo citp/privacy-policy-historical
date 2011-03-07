@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanticwavemusic.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210224443id_/http%3A//www.atlanticwaveradio.com/index.php/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanticwavemusic.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307224913id_/http%3A//www.atlanticwaveradio.com/index.php/privacy%2520policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlantic Wave Radio
 
