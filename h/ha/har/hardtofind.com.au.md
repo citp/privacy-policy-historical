@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardtofind.com.au privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211224414id_/http%3A//www.hardtofind.com.au/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardtofind.com.au privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307180308id_/http%3A//www.hardtofind.com.au/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
