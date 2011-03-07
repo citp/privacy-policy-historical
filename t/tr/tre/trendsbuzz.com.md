@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendsbuzz.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224025311id_/http%3A//trendsbuzz.com/localized/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendsbuzz.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307080920id_/http%3A//trendsbuzz.com/localized/en/privacy.php) for the most accurate reproduction.*
 
 # Trends Buzz - Privacy Policy
 
@@ -29,5 +29,3 @@ A cookie is a string of information that a website stores on a visitor’s compu
 ## Privacy Policy Changes
 
 Although most changes are likely to be minor, Trends Buzz may change its Privacy Policy from time to time, and in Trends Buzz’s sole discretion. Trends Buzz encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a wordpress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-﻿ 
