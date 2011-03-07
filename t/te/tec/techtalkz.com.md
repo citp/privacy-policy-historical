@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtalkz.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123114911id_/http%3A//www.techtalkz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtalkz.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307034604id_/http%3A//www.techtalkz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TechTalkz.com
 
