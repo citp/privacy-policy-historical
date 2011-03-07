@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slutloadlive.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507010916id_/http%3A//www.slutloadlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slutloadlive.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308004253id_/http%3A//www.slutloadlive.com/privacy.html%3F) for the most accurate reproduction.*
 
-# SlutLoadLive - Privacy Policy
+# SlutLoadLive - Privacy
 
 [Home](http://www.slutloadlive.com/) / Privacy Policy
 
