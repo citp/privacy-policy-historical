@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seanseo.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221093927id_/http%3A//seanseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seanseo.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307191535id_/http%3A//seanseo.com/privacy-policy) for the most accurate reproduction.*
 
 # Aussie Internet Marketing Blog | SEO Tips | Social Media Advice
 
@@ -50,4 +50,4 @@ Have a most outstanding day.
 
 Sean Rasmussen  
 Aussie Internet Marketing  
-www.SeanSEO.com © 2008 - 2010
+www.SeanSEO.com © 2008 - 2011
