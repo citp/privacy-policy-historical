@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expopromoter.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218220445id_/http%3A//expopromoter.com/Static/lang/en/page/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expopromoter.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308004201id_/http%3A//expopromoter.com/Static/lang/en/page/privacyPolicy) for the most accurate reproduction.*
 
 # World Events Calendar: Events, Exhibitions, Trade Shows, Conferences, Seminars, Trade Fairs, Local Events - ExpoPromoter
 
