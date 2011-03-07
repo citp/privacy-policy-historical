@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simkl.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105033452id_/http%3A//www.simkl.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simkl.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307182141id_/http%3A//www.simkl.com/about/privacy) for the most accurate reproduction.*
 
 # Simkl Privacy Policy
 
