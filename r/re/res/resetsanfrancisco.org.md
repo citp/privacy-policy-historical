@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the resetsanfrancisco.org privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105122119id_/http%3A//www.resetsanfrancisco.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resetsanfrancisco.org privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307114534id_/http%3A//www.resetsanfrancisco.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.ResetSanFrancisco.org
 
-1\. This is the website for Reset San Francisco and Phil Ting's re-election campaign for Assessor-Recorder.
+1\. This is the website for Reset San Francisco and Phil Ting's campaign for Mayor 2011.
 
 2\. Our postal address is: 601 Van Ness Avenue #E229, San Francisco, CA 94102.
 
@@ -36,5 +36,5 @@
 
 17\. Thank you!
 
-Copyright 2010  
-_Paid for by Phil Ting for Assessor 2010. FPPC ID# 1316861_
+Copyright 2010, 2011  
+_Paid for by Phil Ting for Mayor 2011. FPPC ID# 1334205_
