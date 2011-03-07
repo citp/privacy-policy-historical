@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the teds.com.au privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628050047id_/http%3A//www.teds.com.au/www/6/1001102/displayarticle/1001564.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teds.com.au privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307212724id_/http%3A//www.teds.com.au/teds-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Information | Digital Cameras and Camera Accessories | Video Cameras | Teds Cameras Australia
+# Privacy Policy - Ted's Cameras
 
-  
-Ted’s Camera Stores (Vic) Pty Ltd Privacy Statement
+Ted’s Camera Stores (Vic) Pty Ltd is a retailer which trades utilising the web through its websites and in stores around Australia. Information about us can be obtained here on our website or by contacting our Privacy Officer on 03 8779 5500 or by facsimile on 03 9645 5083 or by e-mail [privacy@teds.com.au](mailto:privacy@teds.com.au).
 
-Ted’s Camera Stores (Vic) Pty Ltd is a retailer, which trades utilising the web through its websites and in stores around Australia. Information about us can be obtained by logging on our website <http://www.teds.com.au/> or by contacting our Privacy Officer on 03 9600 0711 or by facsimile on 03 9602 3052 or by e-mail [privacy@teds.com.au](mailto:privacy@teds.com.au). 
+**Privacy Policy**
 
 Ted’s Camera Stores (Vic) Pty Ltd acknowledges and is committed to protecting your privacy. We will collect, use and disclose and hold personal information in accordance with the Privacy Act 1998 (“the Act”).
 
