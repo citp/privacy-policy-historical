@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bevnetwork.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220203618id_/http%3A//www.bevnetwork.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bevnetwork.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307134334id_/http%3A//www.bevnetwork.com/privacy.asp) for the most accurate reproduction.*
 
 # BevNetwork, The Beverage Network - liquor wholesale, wine store, wholesale wine, wine merchant, wine retail, beverage industry, Beverage Media Group
 
