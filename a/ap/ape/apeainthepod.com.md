@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the apeainthepod.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112171953id_/http%3A//www.apeainthepod.com/Shop_CustomerService/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apeainthepod.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307032757id_/http%3A//www.apeainthepod.com/Shop_CustomerService/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
 
 # customer service < retail sites privacy policy | A Pea in the Pod
+
+  
+PRIVACY POLICY
 
 ## Your Privacy
 
@@ -28,7 +31,7 @@ In order to purchase an item from any of the Retail Web Sites, or enter into a s
 
 We are dedicated to the security of your personal information, and take every commercially reasonable precaution to maintain that protection. To prevent unauthorized access or disclosure, maintain data accuracy, and facilitate the appropriate use of information, we use physical, electronic, and managerial procedures to attempt to protect the personal information we collect online. Encryption tools are used when collecting or transferring sensitive information such as name and addresses. Additional database content is protected either by means of a two key encryption algorithm or behind a firewall using security software. Access to the database is limited to our employees who have a legitimate business need to access the personal information contained therein and our contractors and service providers who we require to keep all information to which they have access completely confidential.
 
-If you have any questions about the security at any of our Retail Sites, please contact us by email at [ci@apeainthepod.com](mailto:ci@apeainthepod.com)[](mailto:ci@apeainthepod.com). 
+If you have any questions about the security at any of our Retail Sites, please contact us by email att [](mailto:ci@apeainthepod.com). 
 
 ## Our Use of Your Personal Information
 
