@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the victorianplumbing.co.uk privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528115651id_/http%3A//www.victorianplumbing.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victorianplumbing.co.uk privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307074958id_/http%3A//www.victorianplumbing.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Privacy at Victorian Plumbing
 
 Victorian Plumbing Privacy Policy
 
