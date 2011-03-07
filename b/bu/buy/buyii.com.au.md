@@ -1,35 +1,60 @@
-> *The following text is extracted and transformed from the buyii.com.au privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105123511id_/http%3A//www.buyii.com.au/content.php%3Fid%3DMTc%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyii.com.au privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307090830id_/http%3A//www.buyii.com.au/content.php%3Fid%3DMTc%3D) for the most accurate reproduction.*
 
-# Welcome To Buyii.com.au
+# All the best Daily Deals & Group Buys on one page! - Buyii
 
 Privacy Policy 
 
-**Privacy and personal information**
+Buyii cares about your privacy and takes it very seriously. Please read the following to learn more about our privacy policy. By visiting the Buyii website, you are accepting the practices outlined in this Privacy Policy. **What does this Privacy Policy cover?**
 
-1.1. We do not collect personal information if you only browse this website.
+This Privacy Policy covers Buyii's treatment of personal information that Buyii gathers when you are on the Buyii website and when you use Buyii services.
 
-1.2. When we do collect personal information, it is our usual practice to collect this information directly from you. We do that through the member registration process and when you place an order with us. Personal information may include your name, postal address, telephone number and email address.
+This policy does not apply to the practices of third parties that Buyii does not own or control, or to individuals that Buyii does not employ or manage. **
 
-1.3. Online payments are handled by e-way and Paypal external third party service providers. We do not see or store your credit card or banking details. Please check the eway.com.au and paypal.com.au websites for details of their privacy policies and security measures.
+What personal information about users does Buyii collect?
 
-1.4. Our server may log details about any computer used to access the Website (such as the IP address, operating system and browser type), the date and time of access, and details of the information downloaded.
+**
 
-1.5. We only use your personal information for the purposes for which you give it to us and for internal management purposes. You agree to us using your email address to send you messages concerning your membership account, any orders you place and information about the products sold by us. If you would prefer not to receive promotional or other material from us, please let us know and we will respect your request.
+Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience. We only collect personal information that is relevant to the purpose of our website. We do not process this information in a way that is incompatible with the purpose for which it has been collected or subsequently authorized by you.
 
-1.6. We do not give information about you to government agencies, organisations or anyone else unless one of the following applies:
+Buyii collects personally identifying information during the registration process, including name, email address, address, gender, store preferences etc. Buyii also may, on occasion collect user preference information (such as items clicked from emails), to be used for internal research purposes. We may also store information users knowingly provide such as feedback forms, suggestions, and emails to the Buyii website.Buyii may use such information for its internal purposes, including, but not limited to, email and web design optimizations, new features, and editorial and feedback purposes. Information entered may be aggregated across all users in order to determine and target demographics for marketing and advertising purposes.
 
-1.6.1. you have consented;
+All user information stored by Buyii is considered confidential and will not be shared with outside parties. Buyii may share aggregated results of preferences for all users for marketing and advertising purposes.
 
-1.6.2. you would expect us to or we have told you we will;
+If you object to such use for any reason, you can either let us know by sending us feedback, or you can unsubscribe from the Buyii email service.
 
-1.6.3. it is required or authorised by law;
+**What about cookies?**
 
-1.6.4. it will prevent or lessen a serious and imminent threat to somebody's life or health; or
+Buyii uses cookies to provide you with a better experience. These cookies and allow us to increase your security by storing your section ID and a way of monitoring single user access. This aggregate, non-personal information is collated and provided to Buyii to assist in analysing the usage of the site.
 
-1.6.5. the disclosure is reasonably necessary for law enforcement.
+####  **  
+Will Buyii share any of the information it receives?**
 
-1.7. You may request us to remove your personal information from our database by emailing us or using the contact form on the website.
+Information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below.
 
-1.8. Under the Privacy Act 1988 (Cth) you have a right to request access to your personal information held by us. You may do this by sending us an email using our help centre or by writing to us at: Click dealsPty Ltd 2215 Princes Highway Mulgrave, Victoria 3170
+Protection of Buyii and others: We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Buyii, our employees, our users, or others.
 
-© This User Agreement is the property of Click dealsPty Ltd ACN 142 251 876 and may not be used or copied without permission.
+With your consent: Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out. **
+
+Is information about me secure?
+
+**
+
+Your Buyii account information is protected by a password for your privacy and security. You need to work to protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. **
+
+Links to Other Sites
+
+**
+
+Buyii uses links to guide you toward valuable products, services and editorial. We are not responsible for any content that appears on these sites, nor do we endorse them. For questions about these sites, please consult their individual privacy policies. **
+
+How do I Unsubscribe?
+
+**
+
+To unsubscribe, click on the unsubscribe link in any Buyii email. You will be taken to a confirmation page. Click on the confirm link and you will be unsubscribed. **
+
+Modifications to Privacy Policy
+
+**
+
+Buyii reserves the right to change this policy from time to time, however, all changes will be posted to this Privacy Policy at the time such changes are made. Please note that continued access of Buyii will constitute your acceptance of any changes or revisions to the Privacy Policy.
