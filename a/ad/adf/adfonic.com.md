@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the adfonic.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208101724id_/http%3A//adfonic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfonic.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307113142id_/http%3A//adfonic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Mobile advertising | @ Adfonic
-
-## Privacy policy
+# Privacy policy | Mobile advertising | Adfonic
 
 This Privacy Policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by Adfonic Limited. If you have any requests concerning your personal information or any queries with regard to these practices please contact us at **privacy[at]adfonic[dot]com**.
 
