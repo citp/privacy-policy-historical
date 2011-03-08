@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021005854id_/http%3A//www.getup.org.au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getup.org.au privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309004249id_/http%3A//www.getup.org.au/pages/privacy) for the most accurate reproduction.*
 
 # GetUp! Privacy Policy
 
