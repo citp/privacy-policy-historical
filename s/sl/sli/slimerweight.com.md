@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slimerweight.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117174630id_/http%3A//www.slimerweight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slimerweight.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308055154id_/http%3A//www.slimerweight.com/privacy-policy) for the most accurate reproduction.*
 
 # Slimerweight Privacy Policy
 
@@ -65,3 +65,7 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 **Links:**
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+
+#### Our Sponsors
+
+[ ](http://www.dpbolvw.net/click-4053125-10481662)
