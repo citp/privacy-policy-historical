@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 188asia.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202011025id_/http%3A//www.188asia.com/en-gb/corporate-affairs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 188asia.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308011559id_/http%3A//www.188asia.com/en-gb/corporate-affairs/privacy-policy) for the most accurate reproduction.*
 
-# 188BET.com - Corporate Affairs
+# Privacy Policy at 188BET – Corporate Affairs - 188BET
 
 Privacy Policy
 
@@ -72,7 +72,7 @@ The purposes for which we may use your data include:
 
 
 
-Save as detailed below, where we propose using your personal information for any other uses we will ensure that we notify you first. You will also be given the opportunity to withhold or withdraw your consent for your use as detailed below. 
+You will be given the opportunity to withhold or withdraw your consent for your use as detailed below.
 
 We may contact you:
 
@@ -83,7 +83,7 @@ We may contact you:
 
 
 
-We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies or as described below where there is offensive or inappropriate content on the website) or as described below in relation to our business partners. Generally we will only use your information within 188BET; however sometimes we may use third parties to process your information (e.g. providers of web hosting or maintenance services). We will require these third parties to comply strictly with our instructions and we will require that they do not use your personal information for their own business purposes. 
+We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies or as described below where there is offensive or inappropriate content on the website) or as described below in relation to our business partners. Generally we will only use your information within 188BET; however sometimes we may use third parties to process your information (e.g. providers of web hosting, maintenance services, security, credit and risk vetting agencies). To the extent that such third parties are data processors, we will require those third parties to comply strictly with our instructions and we will require that they do not use your personal information for their own business purposes.
 
 We may also share your personal data with our business partners for marketing purposes as detailed below. 
 
@@ -171,6 +171,16 @@ By opening an Account with 188BET, you agree to the terms of this Policy. We may
 
 WHO ARE WE?
 
-188BET.com is the registered domain name of Cube Limited. Clinch's House, Lord Street, Douglas, Isle of Man IM1 1JDRegulated & Licensed (31/08/2007) by Isle of Man Gambling Supervision Commission, British Isles.
+Cube Limited
 
-Last updated on 19 July 2010 00:00 (GMT -4)
+Clinch's House
+
+Lord Street
+
+Douglas
+
+Isle of Man
+
+IM1 1JD
+
+Last updated on 19 August 2010 12:01 (GMT-4)
