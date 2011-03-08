@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhealthschoolinfo.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630013605id_/http%3A//www.myhealthschoolinfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhealthschoolinfo.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308215230id_/http%3A//www.myhealthschoolinfo.com/privacy) for the most accurate reproduction.*
 
 # My Health School Info Privacy Policy
 
