@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtrigsby.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508105939id_/http%3A//www.jtrigsby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtrigsby.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308094334id_/http%3A//www.jtrigsby.com/privacy) for the most accurate reproduction.*
 
 # Privacy at jtrigsby.com | jtrigsby.com
 
