@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the work.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029135809id_/http%3A//www.work.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the work.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308220142id_/http%3A//www.work.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Work.com
 
@@ -20,12 +20,12 @@ In addition to the information you knowingly provide, Business.com collects the 
   * For the purposes for which you provided the information. 
   * To improve the content and navigability of the Website. 
   * To alert you to new Website features, special events, products and services, and to deliver newsletters from which you may opt out by emailing [pre-unsubscribe@business.com](mailto:pre-unsubscribe@business.com) or by clicking the unsubscribe link within the email. 
-  * To enforce the [Terms of Use](https://web.archive.org/web/20101029135809id_/http%3A//www.work.com/termsofuse.asp) and/or the [Community Policy](https://web.archive.org/web/20101029135809id_/http%3A//www.work.com/communitypolicy.asp). 
+  * To enforce the [Terms of Use](https://web.archive.org/web/20110308220142id_/http%3A//www.work.com/termsofuse.asp) and/or the [Community Policy](https://web.archive.org/web/20110308220142id_/http%3A//www.work.com/communitypolicy.asp). 
   * In the future, we may sell some or all or our assets. In such transactions, customer information generally is one of the transferred business assets. In the event of a sale of our assets including our database, customer information will be transferred. We will require buyers to honor our privacy policy. 
 
 
 
-**Information Sharing with Unaffiliated Third Parties:** Business.com may disclose your personally identifiable information to another entity (i) for purposes of outsourcing one or more of the functions described in the previous section; (ii) to confirm or update information provided by you; (iii) to inform you of important information; and/or (iv) as a part of a sale of assets as described in the previous section. We may also share your information in response to a subpoena, legal order or official request, when we believe you have acted in violation of the [Terms of Use](https://web.archive.org/web/20101029135809id_/http%3A//www.work.com/termsofuse.asp) or the [Community Policy](https://web.archive.org/web/20101029135809id_/http%3A//www.work.com/communitypolicy.asp), or when we believe that doing so may protect your safety or the safety of others.
+**Information Sharing with Unaffiliated Third Parties:** Business.com may disclose your personally identifiable information to another entity (i) for purposes of outsourcing one or more of the functions described in the previous section; (ii) to confirm or update information provided by you; (iii) to inform you of important information; and/or (iv) as a part of a sale of assets as described in the previous section. We may also share your information in response to a subpoena, legal order or official request, when we believe you have acted in violation of the [Terms of Use](https://web.archive.org/web/20110308220142id_/http%3A//www.work.com/termsofuse.asp) or the [Community Policy](https://web.archive.org/web/20110308220142id_/http%3A//www.work.com/communitypolicy.asp), or when we believe that doing so may protect your safety or the safety of others.
 
 **Information Sharing with Affiliated Companies:** We may share your personally identifiable information with other companies in the Business.com family, co-branding partners and network partners, and will require the recipient to comply with the provisions of this privacy policy. 
 
@@ -51,4 +51,4 @@ Attn: Customer Service - Work.com Privacy
 Santa Monica, CA 90404   
 [customerservice@business.com](mailto:customerservice@business.com)
 
-© 2010 Business.com, Inc.
+© 2011 Business.com, Inc.
