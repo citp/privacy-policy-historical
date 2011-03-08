@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findsearchengineresults.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216060342id_/http%3A//findsearchengineresults.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findsearchengineresults.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308181255id_/http%3A//findsearchengineresults.com/privacy.html) for the most accurate reproduction.*
 
 # FindSearchEngineResults
 
