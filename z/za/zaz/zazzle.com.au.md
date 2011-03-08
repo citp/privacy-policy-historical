@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zazzle.com.au privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117183211id_/http%3A//www.zazzle.com.au/mk/policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zazzle.com.au privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308043653id_/http%3A//www.zazzle.com.au/mk/policy/privacy_policy) for the most accurate reproduction.*
 
 # Zazzle Privacy Policy
 
-Thanks for using [http://www.zazzle.com.au](http://www.zazzle.com.au%3E/) (the "Zazzle Website"). At Zazzle.com, Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using our web site, you consent to the collection and use of your information as we have outlined in this policy. From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website. We encourage you to check back and review this privacy policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Zazzle Website will be subject to the then current privacy policy. 
+Thanks for using [http://www.zazzle.com.au](http://www.zazzle.com.au%3E/) (the "Zazzle Website"). At Zazzle Inc. ("Zazzle"), we are committed to protecting your privacy. We have created this privacy policy to make sure you know what information we collect and how we use it. By using our web site, you consent to the collection and use of your information as we have outlined in this policy. From time to time, we may update this privacy policy. We will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website. We encourage you to check back and review this privacy policy so that you always will know what personally identifiable information we collect, how we use it, and to whom we disclose it. Your continued use of the Zazzle Website will be subject to the then current privacy policy. 
 
 #### But first, a note about uploading and posting information on the Zazzle Website:
 
@@ -103,7 +103,7 @@ Parents can review any information Zazzle has received from a child and the pare
 
 [Contact Us](mailto:support@zazzle.com.au), and sending an email relating to Parental Notification. Alternatively, you may contact the Zazzle Child Privacy Representative by phone, email, or letter at: 
 
-Zazzle.Com, Inc.  
+Zazzle Inc.  
 Attn: Privacy  
 1900 Seaport Blvd  
 Redwood City, CA 94063  
@@ -112,6 +112,6 @@ Redwood City, CA 94063
 
 ####  How can I change, delete, or update my information? 
 
-Most of your account information can be changed in the MyZazzle section of the Zazzle Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com.au](mailto:privacy@zazzle.com.au) or Privacy c/o Zazzle.com, Inc., 1900 Seaport Blvd, Redwood City, CA 94063, USA. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information. 
+Most of your account information can be changed in the MyZazzle section of the Zazzle Website. If you have any questions about what information is stored or would like to obtain a copy of such information, please contact us at [privacy@zazzle.com.au](mailto:privacy@zazzle.com.au) or Privacy c/o Zazzle Inc., 1900 Seaport Blvd, Redwood City, CA 94063, USA. After receiving proof of your identity, we will provide the information to you, and you may request that we delete or change any or all of the information. 
 
 The current version of the Zazzle Privacy Policy was adopted effective as of May 18, 2009. 
