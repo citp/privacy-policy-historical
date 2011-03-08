@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228043335id_/http%3A//www.americanmusical.com/content--name-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308050305id_/http%3A//www.americanmusical.com/content--name-Privacy-Policy) for the most accurate reproduction.*
 
 # American Musical Supply-Musical Instruments, Guitars, Amps, Mics, Cables & Recording Studio Gear
 
