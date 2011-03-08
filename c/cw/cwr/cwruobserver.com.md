@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cwruobserver.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102194721id_/http%3A//www.cwruobserver.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cwruobserver.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308042904id_/http%3A//www.cwruobserver.com/user/privacypolicy) for the most accurate reproduction.*
 
 # The Observer
 
@@ -144,4 +144,4 @@ We reserve the right to deny access, use and registration privileges to any user
 
 This Privacy Policy was last modified on September 9, 2009 and is effective immediately.
 
-Copyright ©2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
+Copyright ©2011 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
