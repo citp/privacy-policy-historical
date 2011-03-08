@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screened.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216134604id_/https%3A//auth.whiskeymedia.com/privacy/%3Ffrom_site%3Dscreened) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screened.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308021908id_/https%3A//auth.whiskeymedia.com/privacy/%3Ffrom_site%3Dscreened) for the most accurate reproduction.*
 
 # Whiskey Media
 
