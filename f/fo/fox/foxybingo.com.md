@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226083707id_/http%3A//www.foxybingo.com/skin/general/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309155305id_/http%3A//www.foxybingo.com/skin/general/privacypolicy.php) for the most accurate reproduction.*
 
 # Foxy Bingo. £20 free gameplay when you deposit £10. Play Online Bingo.
 
@@ -49,6 +49,10 @@ The services provided by the Company are not intended for or directed to minors 
 #### International Transfer
 
 Since we operate globally, it may be necessary to transfer your PII to other companies within the Cassava Group or to service providers of the Company and the Cassava Group ("Service Providers") located in countries outside the European Union. This may happen if our servers, the Service Providers, or such companies are based outside the European Union, if you use our services and products while visiting countries outside the European Union or if we transfer your PII to such companies and Service Providers, and you hereby consent to said transfer of your PII.. The data protection and other laws of these countries may not be as comprehensive as those in the European Union - in these instances we will take steps to ensure that a similar level of protection is given to your PII. 
+
+#### Mergers and other events requiring transfer
+
+If the Company and/or Brigend should ever file for bankruptcy, or become insolvent, or be acquired by a third party, merge with a third party, sell all or part of its assets, or transfer substantially all or part of its relevant assets to a third party, the Company and/or Brigend is entitled to share or transfer the PII and all other information you have provided to the Company and/or Brigend to potential and subsequent business and merger partners.
 
 #### Retention
 
