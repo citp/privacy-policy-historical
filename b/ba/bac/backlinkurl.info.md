@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinkurl.info privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212070141id_/http%3A//backlinkurl.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinkurl.info privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309061854id_/http%3A//backlinkurl.info/privacy.php) for the most accurate reproduction.*
 
 # Back Link Url Free Directory - Submit Link
 
