@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kfc.com.au privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219093504id_/http%3A//kfc.com.au/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.com.au privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309081106id_/http%3A//www.kfc.com.au/privacy/index.asp) for the most accurate reproduction.*
 
 # KFC Australia - Privacy Policy
 
