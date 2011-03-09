@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tetris.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620004301id_/http%3A//www.tetris.com/privacy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tetris.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309050112id_/http%3A//www.tetris.com/privacy/index.aspx) for the most accurate reproduction.*
 
 # Tetris.com Privacy Policy
 
@@ -73,4 +73,4 @@ From time to time, we may use the information you provide us for new, unanticipa
 
 ### Contact Us
 
-To contact us for any reason, including a request to be added or taken off a list, or if you have any concerns or questions about this Privacy Policy, please use our [Contact Us](https://web.archive.org/web/20100620004301id_/http%3A//www.tetris.com/privacy/www.tetris.com/contactus.aspx) form at www.tetris.com to contact us.
+To contact us for any reason, including a request to be added or taken off a list, or if you have any concerns or questions about this Privacy Policy, please use our [Contact Us](https://web.archive.org/web/20110309050112id_/http%3A//www.tetris.com/privacy/www.tetris.com/contactus.aspx) form at www.tetris.com to contact us.
