@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexmark.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129082030id_/http%3A//www1.lexmark.com/content/en_us/terms/privacy-security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexmark.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309180747id_/http%3A//www1.lexmark.com/content/en_us/terms/privacy-security.shtml) for the most accurate reproduction.*
 
 # Lexmark - Privacy and Security
 
