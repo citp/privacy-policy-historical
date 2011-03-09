@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124032158id_/http%3A//hays.com.au/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309051820id_/http%3A//www.hays.com.au/about/privacy.aspx) for the most accurate reproduction.*
 
 # Hays Privacy Policy | Hays Australia
 
@@ -48,7 +48,7 @@ We primarily hold personal information for the following:
   * **Staff management** – to enable consultants to better service your career requirements if are employed by Hays on a temporary or contract basis 
   * **Training** – to identify any training requirements 
   * **Client and business relationship management** – to ensure we are familiar with and fully understand your needs 
-  * **Marketing** – to inform you of events, services and possible job opportunities 
+  * **Marketing** – to inform you of events, services and possible job opportunities by mail/email/sms 
 
 
 
