@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foxybingo.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226083707id_/http%3A//www.foxybingo.com/skin/general/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxybingo.com privacy policy that was archived on 2011-03-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110309155305id_/http%3A//www.foxybingo.com/skin/general/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -12,6 +12,7 @@
 
 
 <link rel="image_src" href="http://www.foxybingo.com/skin/images/foxy_logo.png">
+
 <link type="text/css" media="screen" rel="stylesheet" href="../include/css/colorbox.css">
 <!--[if lte IE 6]><link href="../include/css/ie6style.css" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if IE 7]><link href="../include/css/ie7style.css" rel="stylesheet" type="text/css" /><![endif]-->
@@ -19,6 +20,7 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 <script type="text/javascript" src="../include/script/jquery-ui-1.8.1.custom.min.js"></script>
 <script type="text/javascript" src="../include/script/jquery.cookie.js"></script>
+<script type="text/javascript" src="../include/script/jquery.livequery.js"></script>
 <script type="text/javascript" src="../include/script/jquery.form.js"></script>
 <script type="text/javascript" src="../include/script/logintimed.js"></script>
 <script type="text/javascript" src="../include/script/AC_RunActiveContent.js"></script>
@@ -26,8 +28,9 @@
 <script type="text/javascript" src="../include/script/cufon-yui.js"></script>
 <script type="text/javascript" src="../include/script/VAGRounded_900.font.js"></script>
 <script type="text/javascript" src="../include/script/Marketing_Script_400.font.js"></script>
+<script type="text/javascript" src="../include/script/jquery.jplayer.min.js"></script>
 <script type="text/javascript" src="../include/script/cashcade.js"></script>
-<script type="text/javascript" src="../include/script/jquery.livequery.js"></script>
+
 <script type="text/javascript" src="../js/date_script.js"></script>
 
 <!--[if IE 6]>
@@ -65,11 +68,11 @@
 	
 <div id="wrapper">
 	<div id="header">
-		<a href="http://www.foxybingo.com" class="left"><img src="../content/images/homepage/foxy_logo_xmas.png" alt="Foxy Bingo"></a>
+		<a href="http://www.foxybingo.com" class="left"><img src="../content/images/foxy_logo_s.png" alt="Foxy Bingo" width="315" height="138"></a>
        
 		<form name="topForm" action="members.php" method="post">
 			<input name="form_action" id="form_action" type="hidden" value="LOGIN">				
-			<div id="loginfrm" style="margin:41px 0px 0px 193px">
+			<div id="loginfrm" style="margin:41px 0px 0px 198px">
 				          <div class="form-row">
           	<label for="username">Username</label>
           	<input type="text" name="Alias" id="username" tabindex="1" value="">
@@ -85,7 +88,7 @@
           
  						</div>									
 			</form>
-            <img src="../content/images/mrfoxy.png" alt="Mr Foxy" id="mrfoxy"><!-- timed/logo -->			
+            <img src="../content/images/mrfoxy.png" alt="Mr Foxy" id="mrfoxy"><!-- timed/logo --><!-- 1299685986 -->			
 	</div>
 	<div id="navbar">	
 		<ul>
@@ -107,13 +110,13 @@
  <ul>
  	<li id="foxydiarylink">
  		<a href="../include/timed/foxysdiary/index.php" class="fbdiary">
- 		<span class="date-num">26</span>
+ 		<span class="date-num">09</span>
  		<span>What's on Foxy Diary?</span></a>
  	</li>
         <li><a href="javascript:newWindow('http://magazine.foxybingo.com/playerpopup_new/index.php','','width=650,height=630,top=0,left=0;')"><img src="../content/images/foxy_radio_icon.gif" alt=""><span>Listen to Foxy Radio</span></a></li>
-	<li><a href="http://www.facebook.com/pages/Foxy-Bingo/201587930203?ref=ts"><img src="../content/images/facebook_icon.gif" alt=""><span>Follow Foxy on Facebook</span></a></li>
-	<li><a href="http://twitter.com/#!/foxybingo"><img src="../content/images/twitter_icon.gif" alt=""><span>Follow Foxy on Twitter</span></a></li>
-	<li><a href="http://www.foxybingo.com/skin/promotions/specials/tvad.php" target="_blank"><img src="../content/images/youtube_icon.gif" alt=""><span>Watch Foxy on TV</span></a></li>
+	<li><a href="http://www.facebook.com/pages/Foxy-Bingo/201587930203?ref=ts"><img src="../content/images/facebook_icon.gif" alt=""><span>Follow Foxy <br>on Facebook</span></a></li>
+	<li><a href="http://twitter.com/#!/foxybingo"><img src="../content/images/twitter_icon.gif" alt=""><span>Follow Foxy <br>on Twitter</span></a></li>
+	<li><a href="http://www.foxybingo.com/skin/promotions/specials/whatnext.php" id="loadtvads" class="popup"><img src="../content/images/youtube_icon.gif" alt=""><span>Watch Foxy <br>on TV</span></a></li>
  </ul>
 </div>   	 <div id="outercontainer">
 			  <div id="content">
@@ -178,6 +181,11 @@ The Company, as mentioned above, is committed to respecting your privacy and to 
 
 <p>Since we operate globally, it may be necessary to transfer your PII to other companies within the Cassava Group or to service providers of the Company and the Cassava Group ("Service Providers") located in countries outside the European Union. This may happen if our servers, the Service Providers, or such companies are based outside the European Union, if you use our services and products while visiting countries outside the European Union or if we transfer your PII to such companies and Service Providers, and you hereby consent to said transfer of your PII.. The data protection and other laws of these countries may not be as comprehensive as those in the European Union - in these instances we will take steps to ensure that a similar level of protection is given to your PII. </p>
 
+<h4>Mergers and other events requiring transfer</h4>
+
+<p>If the Company and/or Brigend should ever file for bankruptcy, or become insolvent, or be acquired by a third party, merge with a third party, sell all or part of its assets, or transfer substantially all or part of its relevant assets to a third party, the Company and/or Brigend is entitled to share or transfer the PII and all other information you have provided to the Company and/or Brigend to potential and subsequent business and merger partners.</p>
+
+
 <h4>Retention</h4>
 
 <p>Your PII will not be stored for any longer period than is necessary for the purposes for which it was collected. </p>
@@ -226,7 +234,7 @@ The Company, as mentioned above, is committed to respecting your privacy and to 
     var params = {scale:"noscale", wmode:"transparent"};
     var attributes = {};
     swfobject.embedSWF("/content/flash/GUARANTEED-HOMEPAGE-bannerv3.swf", "flash-unit-bottom", "218", "195", "9.0.0", "", flashvars, params, attributes );
-</script><!-- timed/today_image -->	
+</script><!-- timed/today_image --><!-- 1299685986 -->	
 	
 	
 </div>
@@ -273,7 +281,7 @@ The Company, as mentioned above, is committed to respecting your privacy and to 
     <p class="seotext">Always gamble responsibly - for more information visit <a href="http://www.gambleaware.co.uk">www.gambleaware.co.uk</a></p>
               
     <p class="seotext">The games promoted by Cashcade Limited on this website are operated by Cassava Enterprises (Gibraltar) Limited under its remote gambling licence issued by the Government of Gibraltar. The games are powered by software belonging to Brigend Limited, a wholly-owned subsidiary of Cassava Enterprises (Gibraltar) Limited.<br>
-    © Cashcade Limited (and its licensors) 2010. 'Foxybingo' as a word and logo is protected by EU registered trade marks owned by Cashcade Limited.
+    © Cashcade Limited (and its licensors) 2011. 'Foxybingo' as a word and logo is protected by EU registered trade marks owned by Cashcade Limited.
     </p>
 </div>
 
