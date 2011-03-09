@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agaricdesign.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228204244id_/http%3A//agaric.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agaricdesign.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309063048id_/http%3A//agaricdesign.com/privacy) for the most accurate reproduction.*
 
 # Agaric's Privacy Policy | Agaric
 
