@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128121847id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309163417id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
 
 # The Clymb >> Member Pricing On the Planet's Most Sought-After Outdoor Brands ™
 
-Outdoor Gifts Event // ends November 30th 9 AM PST. 
+You must be logged in. Please log in.
 
 ### OVERVIEW
 
