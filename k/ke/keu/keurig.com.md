@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keurig.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228013137id_/http%3A//www.keurig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keurig.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309195813id_/http%3A//www.keurig.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Keurig.com
 
@@ -12,7 +12,7 @@ When you purchase a product from Keurig.com, we ask you to provide information t
 **   
 From time to time, Keurig contacts customers by email, phone or mail to inform them of new products, services and special offers, or to follow up on previous interactions. Additionally, because Green Mountain Coffee Roasters, Inc. is Keurig’s parent company, we also give you the opportunity to receive information from them. 
 
-When you create an account, you are given the opportunity to receive communications from us and/or Green Mountain Coffee Roasters, Inc. You may choose to opt-out of these communications during the set up process or after set up at any time by signing in to "My Account" and visiting the “Email Preferences” page within the "My Profile" section or by calling customer service at 1-866-901-BREW (2739). You may also opt out of Keurig communication by simply using the “Unsubscribe” link located in the footer of our emails. Please note: changes can take up to 10 business days to take effect. 
+When you create an account, you are given the opportunity to receive communications from us and/or Green Mountain Coffee Roasters, Inc. You may choose to opt-out of these communications during the set up process or after set up at any time by signing in to "My Account" and visiting the “Communication Options” page within the "My Profile" section or by calling customer service at 1-866-901-BREW (2739). You may also opt out of Keurig communication by simply using the “Unsubscribe” link located in the footer of our emails. Please note: changes can take up to 10 business days to take effect. 
 
 Maintaining the confidentiality of your personal information - including credit card data - is very important to Keurig. As a Keurig customer, your personal information will never be rented or sold. For your security, we only store your credit card information if you choose to set up an automatic delivery. In that case, it is stored on a secure computer in a format that makes it unusable except by us, for your order. If you do not set up an automatic delivery, you will have to enter your credit card information each time you order. We understand that this may be a little inconvenient for you, but some customers appreciate the added peace of mind this brings. 
 
@@ -34,4 +34,4 @@ If you prefer, you may place your order by calling 1-866-901-BREW (2739) and a c
 **  
 Our business is evolving and with it our Privacy Policy may change. For customers who have agreed to accept Keurig emails, it is our policy to e-mail notices of our privacy policy changes. We invite all visitors to check this policy on [www.keurig.com](http://www.keurig.com/) from time to time. We will post all changes to this Privacy Policy on our website. 
 
-This Privacy Policy was last updated on: October 6, 2010. 
+This Privacy Policy was last updated on: February 2, 2011. 
