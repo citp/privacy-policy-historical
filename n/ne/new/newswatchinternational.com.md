@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newswatchinternational.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103053421id_/http%3A//newswatchinternational.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswatchinternational.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309023901id_/http%3A//www.newswatchinternational.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy |
+# Privacy Policy | News Watch International
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
