@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the grabone.co.nz privacy policy that was archived on 2010-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101230033932id_/http%3A//www.grabone.co.nz/legal) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grabone.co.nz privacy policy that was archived on 2011-03-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110309153303id_/http%3A//www.grabone.co.nz/legal) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:wl="http://apis.live.net/js/2010" xml:lang="en" lang="en"><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
   //<![CDATA[
     var _sf_startpt=(new Date()).getTime();
@@ -19,16 +19,16 @@
 
 <link rel="apple-touch-icon" href="/images/common/apple-touch-icon-precomposed.png?20101015">    
     
-    <link rel="stylesheet" type="text/css" media="screen" href="http://main.cdn.grabone.com/css/common/common.css?20101221b">
-<link rel="stylesheet" type="text/css" media="screen" href="http://main.cdn.grabone.com/css/common/frontend.css?20101221b">
-<link rel="stylesheet" type="text/css" media="screen" href="http://main.cdn.grabone.com/css/main.css?20101221b">
+    <link rel="stylesheet" type="text/css" media="screen" href="http://main.cdn.grabone.com/css/common/common.css?20110309d">
+<link rel="stylesheet" type="text/css" media="screen" href="http://main.cdn.grabone.com/css/common/frontend.css?20110309d">
+<link rel="stylesheet" type="text/css" media="screen" href="http://main.cdn.grabone.com/css/main.css?20110309d">
     <!--[if lte IE 6]>
-  <link rel="stylesheet" type="text/css" media="screen" href="/css/ie6.css?20101221b" />
+  <link rel="stylesheet" type="text/css" media="screen" href="/css/ie6.css?20110309d" />
 <![endif]-->
-    <script type="text/javascript" src="http://main.cdn.grabone.com/js/common/jquery/jquery-1.4.3.min.js?20101221b"></script>
-<script type="text/javascript" src="http://main.cdn.grabone.com/js/common/jquery/jquery-ui-1.8.2.custom.min.js?20101221b"></script>
-<script type="text/javascript" src="http://main.cdn.grabone.com/js/common/jquery/jquery.throbber.min.js?20101221b"></script>
-<script type="text/javascript" src="http://main.cdn.grabone.com/js/common/main.js?20101221b"></script>
+    <script type="text/javascript" src="http://main.cdn.grabone.com/js/common/jquery/jquery-1.4.3.min.js?20110309d"></script>
+<script type="text/javascript" src="http://main.cdn.grabone.com/js/common/jquery/jquery-ui-1.8.2.custom.min.js?20110309d"></script>
+<script type="text/javascript" src="http://main.cdn.grabone.com/js/common/jquery/jquery.throbber.min.js?20110309d"></script>
+<script type="text/javascript" src="http://main.cdn.grabone.com/js/common/main.js?20110309d"></script>
 
     
         
@@ -82,7 +82,7 @@
     });
   });
   //]]>
-</script>
+</script>		
     
     <div id="page">
       <div id="timeBarContainer">
@@ -90,7 +90,7 @@
     <a name="top"></a>
     
     <div class="floatRight">
-      <span>4:39pm 30 December</span>
+      <span>4:33am 10 March</span>
     </div>
     
           <!--[if lte IE 6]>
@@ -128,9 +128,182 @@
   </div>
 
   <div class="clearboth"></div>
-</div>      <div id="headerContainer">
+</div>      
+<script type="text/javascript">	
+  jQuery(function($) {
+		var existing = [];
+    
+		var clear = function () {
+			$('#subscribeContainer .input-contain-error').removeClass('input-contain-error');
+			$('#subscribeContainer .form-errors').remove();
+		}
+    
+    $("a#subscribeDrop, div#header-subscribe-close").click(function(e) {
+      e.preventDefault();
+      e.stopPropagation();
+      $("div#subscribeContainer").slideToggle();
+    });
+
+		$('#subscribeContainer input').change(function (e) {
+		  $(this).parent().removeClass('input-contain-error');
+		  $(this).parent().find('.form-errors').remove();
+		});
+
+		$('#subscribeContainer select#subscribe_area_id').change(function (e) {
+		  $(this).parent().removeClass('input-contain-error');
+		  $(this).parent().find('.form-errors').remove();
+
+		  if ($.inArray($(this).val(), existing) != -1) {
+  			$('#subscribe_area_id').parent().addClass('input-contain-error').prepend(
+  				'<ul class="form-errors"><li>You\'re already subscribed to this area. Pick another!</li></ul>'
+  			);
+		  }
+		}).change();
+    
+    $('#subscribeContainer input.button-subscribe-small').throbber('click', {
+      'image': '/images/common/loading.gif',
+     	'delay': 100
+    });
+    
+    $('#subscribeContainer input.button-subscribe-small').click(function (e) {
+      e.preventDefault();
+      e.stopPropagation();
+      
+			var form = $(this).parents('form').eq(0);
+
+			$.ajax({
+				'url': 			'/ajax/subscribe',
+				'type': 		'POST',
+				'data': 		$(form).serialize(),
+				'dataType': 'json',
+				
+				'error':		function () {
+            					$('#subscribe_email').parent().addClass('input-contain-error').prepend(
+            						'<ul class="form-errors"><li>Oops. We couldn\'t subscribe you for some reason. Try again later.</li></ul>'
+            					);
+											$.throbberHide();
+										},
+										
+				'success': 	function (data) {
+											if (data.valid) {
+												$("div#subscribeContainer").slideUp();
+											}
+
+											clear();
+
+											if (data.valid) {
+												go.notices(data.notices);
+												
+												if ($.inArray('register', data.actions) != -1) {
+									        $.ajax({
+									          type:     'POST',
+									          dataType: 'html',
+									          url:      '/register',
+									          success:  function (response) {
+          									            $("#subscribe-dialog-container").dialog({
+          									              modal:     true,
+          									              width:     616
+          									            });
+          									            $('#subscribe-dialog-container .dialog-content').html(response);
+          									            $('#subscribe-dialog-container').dialog('open');
+          									            window.scrollTo(0, 0);
+          									          }
+									        });
+												}
+											  if (typeof(_gaq) != 'undefined') {
+											    _gaq.push(['_trackEvent', 'Region Subscription', 'Subscription Success', $('#subscribe_area_id option:selected').text()]);
+											  }
+											} else {
+												$.each(data.form.fields, function (index, field) {
+													if (field.has_error) {
+														$('#subscribe_' + index).parent().addClass('input-contain-error');
+														$('#subscribe_' + index).parent().prepend(
+															'<ul class="form-errors"><li>' + field.error + '</li></ul>'
+														);
+													}
+												});
+											}
+										  $.throbberHide();
+										}
+										
+			});
+    });
+  });
+
+  jQuery(function($) {
+    if ('placeholder' in document.createElement('input')) {
+      return; // HTML5 yay
+    }
+
+		var field = $('.header-subscribe-form #subscribe_email');
+
+		if (field.val() == '') {
+			field.val(field.attr('placeholder'));
+		}
+
+		field.focus(function () {
+			if ($(this).val() == $(this).attr('placeholder')) {
+				$(this).val('');
+			}
+		});
+
+	  $('.header-subscribe-form form').submit(function () {
+			if ($(this).val() == $(this).attr('placeholder')) {
+				$(this).val('');
+			}
+	  });
+
+	  field.blur(function () {
+			if ($(this).val() == '') {
+				$(this).val($(this).attr('placeholder'));
+			}
+	  });
+  });
+</script>
+
+<div id="subscribeContainer" style="display: none;">
+  <div id="subscribe">
+    <div class="header-subscribe-form">
+      <fieldset>
+        <form action="/subscribe" method="post">
+        	<input type="hidden" name="subscribe[display_version]" id="subscribe_display_version">        
+          <div class="input-contain" id="first-contain">
+            <label for="area-list">Get the Daily Deal for:</label>
+            <select name="subscribe[area_id]" id="subscribe_area_id">
+<option value="1">Northland</option>
+<option value="2" selected="selected">Auckland</option>
+<option value="3">Waikato</option>
+<option value="4">Tauranga</option>
+<option value="5">Rotorua - Taupo</option>
+<option value="7">Hawkes Bay</option>
+<option value="8">Taranaki</option>
+<option value="9">Manawatu - Wanganui</option>
+<option value="10">Wellington</option>
+<option value="11">Nelson - Marlborough</option>
+<option value="12">Christchurch</option>
+<option value="13">Dunedin - Invercargill</option>
+<option value="14">Queenstown - Wanaka</option>
+</select>          </div>
+          
+          <div class="input-contain">
+        	  <input type="text" name="subscribe[email]" class="text-input-header" placeholder="your@email.here" id="subscribe_email">          </div>
+          
+          <div class="button-contain">
+            <input type="submit" class="image-button button-subscribe-small" value="Submit">
+            <input type="hidden" name="hide_area" value="0">
+          </div>
+        </form>
+      </fieldset>
+    </div>
+    <div id="header-subscribe-close"></div>
+  </div>
+</div>
+
+
+
+<div id="headerContainer">
   <div id="header">
-  
+
     <div id="logo" class="">
       <a href="/">
         <h1>GrabOne</h1>
@@ -142,160 +315,18 @@
     
     <div class="cityName">
       <div class="floatLeft marginRight15">
-      <span class="large-name">Auckland</span>
-  </div>
-
-<div class="area-select-container">  
-
-  <div class="floatLeft">
-    <a href="/home" class="image-button button-change-region" id="change">Change City</a>
-  </div>  
-  
-  <div id="area-select">
-  <div id="area-select-top"></div>
-  <div class="floatLeft marginLeft10 marginBottom10">
-  <a href="#" id="close-region" class="image-button button-change-region">Change City</a>
-  </div>
-  
-  <ul>
-                
-                
-          <li>
-            <a href="/auckland">
-              Auckland 
-            </a>
-					</li>            
-                  
-                      
-                
-          <li>
-            <a href="/christchurch">
-              Christchurch 
-            </a>
-					</li>            
-                  
-                      
-                
-          <li>
-            <a href="/dunedin-invercargill">
-              Dunedin - Invercargill 
-            </a>
-					</li>            
-                  
-                      
-                
-          <li>
-            <a href="/hawkes-bay">
-              Hawkes Bay 
-            </a>
-					</li>            
-                  
-                      
-                
-          <li>
-            <a href="/manawatu-wanganui">
-              Manawatu - Wanganui 
-            </a>
-					</li>            
-                  
-                      
-                
-          <li>
-            <a href="/nelson-marlborough">
-              Nelson - Marlborough 
-            </a>
-					</li>            
-                  
-                      
-                
-          <li>
-            <a href="/northland">
-              Northland 
-            </a>
-					</li>            
-                  
-                      
-                
-          <li>
-            <a href="/queenstown-wanaka">
-              Queenstown - Wanaka 
-            </a>
-					</li>            
-                  
-                      
-                
-          <li>
-            <a href="/rotorua-taupo">
-              Rotorua - Taupo 
-            </a>
-					</li>            
-                  
-                      
-                
-          <li>
-            <a href="/taranaki">
-              Taranaki 
-            </a>
-					</li>            
-                  
-                      
-                
-          <li>
-            <a href="/tauranga">
-              Tauranga 
-            </a>
-					</li>            
-                  
-                      
-                
-          <li>
-            <a href="/waikato">
-              Waikato 
-            </a>
-					</li>            
-                  
-                      
-                
-          <li>
-            <a href="/wellington">
-              Wellington 
-            </a>
-					</li>            
-                  
-          
+        <a id="change" href="/home">
+                  <span class="large-name">
+          <span class="city-label">Choose Region:</span>
+          Auckland</span>
+                </a>
+      </div>
+      <div id="region-pointer"></div>
+    </div>
     
-      <li class="blue-link"><a href="/home">All Regions</a></li>
-  </ul>
-  <div id="area-select-bottom"></div>  
-  </div>
+    <div id="subscribeLink">
+  <a id="subscribeDrop" href="?show[sub]">Get deals by email</a>
 </div>
-
-<script type="text/javascript">	
-    
-  $(function() {	 	
-    $("a#change").click(function(){
-      if ($("div#area-select").is(':hidden'))
-        $("div#area-select").show();
-      else{
-        $("div#area-select").hide();
-      }			
-      return false;
-    });
-    
-    $("a#close-region").click(function(){
-      $("div#area-select").hide();
-    });
-
-    $('div#area-select').click(function(e) {
-      e.stopPropagation();
-    });
-    
-    $(document).click(function() {
-      $('div#area-select').hide();
-    });
-  });
-  
-</script>	    </div>
     
           <div id="account-bar">
         <ul>
@@ -334,9 +365,211 @@
           <li class="account-bar-register"><a href="/register">Register</a></li>
         </ul>
       </div>
-      </div>
-</div>      <div id="topMenuContainer">
+        
+    <div class="area-select-container">
+  <div id="area-select">
+  	<div id="site-tabs">
+      <ul>
+        					<li class="site-tab-active" id="site-tab-nz-main">
+						<a href="http://www.grabone.co.nz/home">New Zealand</a>
+					</li>
+        					<li class="" id="site-tab-au-main">
+						<a href="http://www.grabone.com.au/home">Australia</a>
+					</li>
+              </ul>
+      <div id="region-select-close"></div>
+    </div>
+
+  	  		<div class="site-tab-content site-tab-content-active" id="site-tab-content-nz-main">
+  		  <ul id="state-list">
+			<li>
+  		<span class="state-title">North Island</span>
+							<ul>
+							                      <li>
+                <a href="http://www.grabone.co.nz/auckland">
+                  Auckland                </a>
+        			</li>
+            							                      <li>
+                <a href="http://www.grabone.co.nz/hawkes-bay">
+                  Hawkes Bay                </a>
+        			</li>
+            							                      <li>
+                <a href="http://www.grabone.co.nz/manawatu-wanganui">
+                  Manawatu - Wanganui                </a>
+        			</li>
+            									</ul>
+							<ul>
+							                      <li>
+                <a href="http://www.grabone.co.nz/northland">
+                  Northland                </a>
+        			</li>
+            							                      <li>
+                <a href="http://www.grabone.co.nz/rotorua-taupo">
+                  Rotorua - Taupo                </a>
+        			</li>
+            							                      <li>
+                <a href="http://www.grabone.co.nz/taranaki">
+                  Taranaki                </a>
+        			</li>
+            									</ul>
+							<ul>
+							                      <li>
+                <a href="http://www.grabone.co.nz/tauranga">
+                  Tauranga                </a>
+        			</li>
+            							                      <li>
+                <a href="http://www.grabone.co.nz/waikato">
+                  Waikato                </a>
+        			</li>
+            							                      <li>
+                <a href="http://www.grabone.co.nz/wellington">
+                  Wellington                </a>
+        			</li>
+            									</ul>
+					</li>
+			<li>
+  		<span class="state-title">South Island</span>
+							<ul>
+							                      <li>
+                <a href="http://www.grabone.co.nz/dunedin-invercargill">
+                  Dunedin - Invercargill                </a>
+        			</li>
+            							                      <li>
+                <a href="http://www.grabone.co.nz/nelson-marlborough">
+                  Nelson - Marlborough                </a>
+        			</li>
+            							                      <li>
+                <a href="http://www.grabone.co.nz/queenstown-wanaka">
+                  Queenstown - Wanaka                </a>
+        			</li>
+            									</ul>
+					</li>
+		
+      <li>
+    	<span class="state-title">Coming Soon…</span>
+              <ul>
+        	            <li>
+              <a href="http://www.grabone.co.nz/christchurch">
+                Christchurch              </a>
+            </li>
+                  </ul>
+          </li>
+  </ul>
+  		</div>
+  	  		<div class="site-tab-content " id="site-tab-content-au-main">
+  		  <ul id="state-list">
+			<li>
+  		<span class="state-title">Queensland</span>
+							<ul>
+							                      <li>
+                <a href="http://www.grabone.com.au/brisbane">
+                  Brisbane                </a>
+        			</li>
+            							                      <li>
+                <a href="http://www.grabone.com.au/gold-coast">
+                  Gold Coast                </a>
+        			</li>
+            							                      <li>
+                <a href="http://www.grabone.com.au/sunshine-coast">
+                  Sunshine Coast                </a>
+        			</li>
+            									</ul>
+					</li>
+		
+      <li>
+    	<span class="state-title">Coming Soon…</span>
+              <ul>
+        	            <li>
+              <a href="http://www.grabone.com.au/adelaide">
+                Adelaide              </a>
+            </li>
+                      <li>
+              <a href="http://www.grabone.com.au/cairns">
+                Cairns              </a>
+            </li>
+                      <li>
+              <a href="http://www.grabone.com.au/canberra">
+                Canberra              </a>
+            </li>
+                  </ul>
+              <ul>
+        	            <li>
+              <a href="http://www.grabone.com.au/darwin">
+                Darwin              </a>
+            </li>
+                      <li>
+              <a href="http://www.grabone.com.au/geelong">
+                Geelong              </a>
+            </li>
+                      <li>
+              <a href="http://www.grabone.com.au/hobart">
+                Hobart              </a>
+            </li>
+                  </ul>
+              <ul>
+        	            <li>
+              <a href="http://www.grabone.com.au/melbourne">
+                Melbourne              </a>
+            </li>
+                      <li>
+              <a href="http://www.grabone.com.au/newcastle">
+                Newcastle              </a>
+            </li>
+                      <li>
+              <a href="http://www.grabone.com.au/perth">
+                Perth              </a>
+            </li>
+                  </ul>
+              <ul>
+        	            <li>
+              <a href="http://www.grabone.com.au/sydney">
+                Sydney              </a>
+            </li>
+                      <li>
+              <a href="http://www.grabone.com.au/toowoomba">
+                Toowoomba              </a>
+            </li>
+                      <li>
+              <a href="http://www.grabone.com.au/townsville">
+                Townsville              </a>
+            </li>
+                  </ul>
+              <ul>
+        	            <li>
+              <a href="http://www.grabone.com.au/wollongong">
+                Wollongong              </a>
+            </li>
+                  </ul>
+          </li>
+  </ul>
+  		</div>
+  	  </div>
+</div>
+
+<script type="text/javascript">	
+  jQuery(function($) {	 
+    $("a#change, div#region-select-close").click(function(e) {
+      e.preventDefault();
+      $('div#area-select').slideToggle('fast');
+      $("div#region-pointer").toggle();
+    });
+
+    $('#site-tabs a').click(function (e) {
+			if (!$(this).parent().hasClass('site-tab-active')) {
+  			e.preventDefault();
+  			$('.site-tab-content-active, .site-tab-active').removeClass('site-tab-content-active site-tab-active');
+  			$(this).parent().addClass('site-tab-active');
+  			$('#' + $(this).parent().attr('id').replace('site-tab-', 'site-tab-content-')).addClass('site-tab-content-active');
+			}
+    });
+  });
+</script>	  </div>
+</div>
+      <div id="topMenuContainer">
   <div id="topMenu">
+  
+      
+      
     <ul>
       <li><a href="/auckland">Today's Deal</a></li>
       <li><a href="/auckland/recent-deals">Recent Deals</a></li>
@@ -413,35 +646,30 @@
       
       <div id="bottomBoxesContainer">
   <div id="bottomBoxes">
-    <script type="text/javascript">
-      // <![CDATA[
-      $(function() {
-        $("a.vid-link")
-          .mouseover(function () { $(this).stop().fadeTo(250, 0.1); })
-          .mouseout(function () { $(this).stop().fadeTo(250, 1.0); });
-      });
-      // ]]>
-    </script>
   
     <div class="bottom-box">
-      <h3>How GrabOne Works</h3>
-      <div class="vid-link-container">
-        <a class="vid-link" href="/how-grabone-works"></a>
-      </div>
+            <h3>GrabOne for your Business</h3>
+      <a href="http://www.graboneworks.co.nz/">
+        <img width="209" height="37" class="floatLeft marginRight15 marginBottom10" alt="" src="/images/footer-works.png">
+      </a>
+      <p class="marginBottom10">Learn how getting featured on GrabOne can bring you thousands of new customers</p>
+      <p><a style="color:#FFF;" href="/get-on-grabone">Learn More…</a></p>
+          </div>
+    
+    <div class="bottom-box">
+      <h3>GrabOne iPhone App</h3>
+      <img width="79" height="82" class="floatLeft marginBottom20" alt="" src="/images/footer-iphone.png">
+      <p class="marginTop20 marginBottom10">The GrabOne mobile app is available for download from the iTunes store.</p>
+      
+            	<p><a href="http://itunes.apple.com/nz/app/grabone/id400835945?mt=8" target="_blank" style="color:#FFF;">Download from iTunes</a></p>
+            
     </div>
     
     <div class="bottom-box">
-      <h3>Get Your Business on GrabOne</h3>
-      <img width="48" height="49" class="floatLeft marginRight15" alt="" src="/images/icon-case.png?030810">
-      <p>GrabOne can help bring tons of customers to your business</p>
-      <a href="/get-on-grabone" class="image-button button-learn-more">Learn More</a>
-    </div>
-    
-    <div class="bottom-box">
-      <h3>Suggest a Business for GrabOne</h3>
-      <img width="48" height="49" class="floatLeft marginRight15" alt="" src="/images/icon-megaphone.png">
-      <p>Suggest a business that you would like to see on GrabOne</p>
-      <a href="/suggest-a-business" class="image-button button-suggest">Learn More</a>
+      <h3>Give the Gift of GrabOne</h3>
+      <img width="79" height="82" class="floatLeft marginBottom20" alt="" src="/images/footer-mascot-gift.png">
+      <p class="marginTop20 marginBottom10">Show your love by giving Today's Deal or a GrabOne Gift Card.</p>
+      <p><a href="https://www.grabone.co.nz/buy/gift-card" style="color:#FFF;">Give a gift card</a></p>
     </div>
     
     <div class="bottom-box-right">
@@ -457,8 +685,8 @@
     <span class="go-site">GrabOne</span>
     <span class="go-net">Network</span>
   </div>
-  <p><label class="saved-label">Total dollars saved:</label><span class="values">$12,163,674</span></p>
-  <p class="lower"><label class="saved-label">Total items sold:</label><span class="values">423,612</span></p>
+  <p><label class="saved-label">Total dollars saved:</label><span class="values">$21,082,343</span></p>
+  <p class="lower"><label class="saved-label">Total items sold:</label><span class="values">689,342</span></p>
 </div>        <div class="tl"></div><div class="tr"></div><div class="bl"></div><div class="br"></div>
       </div>
     </div>
