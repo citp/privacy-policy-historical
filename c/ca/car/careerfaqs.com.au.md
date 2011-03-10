@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2009-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091013165922id_/http%3A//www.careerfaqs.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310013910id_/http%3A//www.careerfaqs.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy conditions and policies – Career FAQs
 
@@ -16,9 +16,16 @@ When you look at this website, we make a record of your visit and log the follow
   * date and time of visit to the site
   * pages accessed and documents downloaded
   * previous site visited
-  * type of browser used.
+  * type of Internet browser used
+  * IP address
+  * operating system used  
+
+  * domain name of your Internet Service Provider
+  * banner advertisements you have viewed or clicked on.
 
 
+
+This data is always used as aggregated, non-personal information. Career FAQs generally uses this information to report statistics, analyse trends, diagnose problems and target and improve the quality of our products and services. This aggregated information may be shared with our trusted partners to provide them with an overview of how Career FAQs visitors use the site, for the purposes of providing you with the best career resource portal. 
 
 **Collecting personal information**
 
