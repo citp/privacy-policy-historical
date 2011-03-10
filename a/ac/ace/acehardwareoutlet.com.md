@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acehardwareoutlet.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225000038id_/http%3A//www.acehardwareoutlet.com/Constants.aspx%3FConstantName%3DPrivacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acehardwareoutlet.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310161243id_/http%3A//www.acehardwareoutlet.com/Constants.aspx%3FConstantName%3DPrivacy_Statement) for the most accurate reproduction.*
 
 # Ace HardWare Outlet
 
