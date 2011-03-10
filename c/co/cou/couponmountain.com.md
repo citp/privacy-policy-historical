@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the couponmountain.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812102723id_/http%3A//www.couponmountain.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponmountain.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310114108id_/http%3A//www.couponmountain.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Offer Online Coupons & Coupon Codes at Coupon Mountain
-
-### COUPONMOUNTAIN.COM
-
-**Last Updated: August 6, 2010**
 
 _**Privacy Policy**_
 
@@ -46,13 +42,7 @@ Yes. You may opt-out of having your PII shared with third parties at any time by
 
 We also offer "opt-out Cookies" to block the placement of future ValueClick Brands Persistent Cookies on your system for one thousand (1,000) days from the time you opted out. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookies from your computer, you will need to repeat the process. Alternatively, most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of you browser and browser add-ons for more information.
 
-**ValueClick Brands Opt-Out Cookies (click on link below)**
-
-<http://www.valueclickbrands.com/opt.php>
-
 Please note that the above link for opt-out Cookies is only applicable to ValueClick Brands owned websites using Persistent Cookies and not any other company website. Also, please note that use of the opt-out Cookies or implementation of browser settings and add-ons that refuse all cookies will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement. "Session Cookies" are used only during your visit to the Site and are erased once you close your browser.
-
-**Is data stored by CouponMountain.com secure?**
 
 We employ reasonable measures to ensure the security of all information and we routinely evaluate our practices to identify security threats or opportunities for the improvement of our services. No transmission of information is guaranteed to be completely secure. Unauthorized entry or use, hardware or software failure, and other factors may compromise data security. You acknowledge and agree to assume this risk when communicating with us.
 
@@ -60,22 +50,12 @@ We employ reasonable measures to ensure the security of all information and we r
 
 We use reasonable efforts not to collect, use or disclose PII from children under the age of 13. The services are not targeted at children, and children age 13 and under may not register for any portions of the services that require registration. If you believe your child has provided us with any PII data by registering on our Site, please specify this issue and email us at [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com).
 
-**How can I access or correct any personally identifying information about me?**
-
 To request a copy of any PII you have sent to us, please send an email containing your request to [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com). You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with us. You may then correct or delete such information using the procedures specified in the e-mail.
-
-**How can I learn about changes to this privacy policy?**
 
 We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post the revised Privacy Policy and the date the Privacy Policy was last updated on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. We encourage you to review the Privacy Policy whenever you use this Site to make sure you understand how your information will be used. It is the express will of the parties that this agreement and all related documents have been drawn up in English. C'est la volonté expresse des parties que la présente convention ainsi que les documents qui s'y rattachent soient rédigés en anglais.
 
-**How do I find out more about CouponMountain.com information practices?**
-
 If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us as follows: 
-
-Business and Legal Affairs 
 
 CouponMountain.com/ValueClick Brands   
 222 E. Huntington Drive, Suite 105  
 Monrovia, CA 91016
-
-E-Mail: [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com)
