@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the videolinks4u.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613112127id_/http%3A//www.videolinks4u.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videolinks4u.net privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310140714id_/http%3A//www.videolinks4u.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Zoom Tv Videos, Bollywood Videos, Movie Trailers Videos, Tv Serial News, Hindi Movie Videos, Yoga Videos, Bollywood Songs, Religious Videos, Online Videos
+# 
 
 videolinks4u.net respects the privacy of users and is committed to protect their privacy in all respects. For more information please contact us. The present privacy policy governs the online information collection practices of videolinks4u.net. This privacy policy, including our children's privacy statement, does not apply to any information you may provide to us or that we may collect offline and/or through other means. To register for full access to the Site and in certain areas of the Site (for example, on contest entry pages), where personal information is requested, you may be asked for your age or birth date. You hereby agree that all information you provide to us regarding age verification shall be truthful, accurate, and complete. This privacy policy details important information regarding the use and disclosure of user and/ or member information collected on the Site. videolinks4u.net provides this privacy policy to help you make an informed decision about whether to use or discontinue using the Site. This privacy policy is incorporated into and is subject to the Desigujju Terms of Use. Your use of the videolinks4u.net Site and any personal information you provide on the Site remains subject to the terms of this privacy policy and our Terms of Use. Please note that any video, image, comment or other content posted on the Site becomes published content and is not considered personally identifiable information which is subject to this privacy notice. Please read this privacy policy carefully. By visiting and using the Site, you agree that your use of the Site, and any dispute over privacy, is governed by this privacy policy and our Terms of Use 
 
@@ -58,7 +58,7 @@ Those between the age of sixteen and eighteen are to provide either of their par
 
 **Terms Of Use**
 
-Please also visit our Terms of use section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Click Here](https://web.archive.org/web/20100613112127id_/http%3A//www.videolinks4u.net/termsofuse.php). 
+Please also visit our Terms of use section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Click Here](https://web.archive.org/web/20110310140714id_/http%3A//www.videolinks4u.net/termsofuse.php). 
 
 **Your Consent**
 
@@ -74,4 +74,4 @@ This policy was last modified on Dec 2009
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20100613112127id_/http%3A//www.videolinks4u.net/contactus.php). 
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/web/20110310140714id_/http%3A//www.videolinks4u.net/contactus.php). 
