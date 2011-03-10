@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberkey.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219055706id_/http%3A//liberkey.com/en/component/content/article/20-legal-disclaimer-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberkey.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310175950id_/http%3A//www.liberkey.com/en/legal-disclaimer.html) for the most accurate reproduction.*
 
 # Legal Disclaimer - Privacy Policy
 
@@ -37,6 +37,6 @@ The site and its contents are governed by French Law and any disputes relating t
 
 **How to contact us**
 
-Should you have any question or concerns about this Legal disclaimer and privacy policy, please use our [contact form](http://liberkey.com/en/contact.html).
+Should you have any question or concerns about this Legal disclaimer and privacy policy, please use our [contact form](http://www.liberkey.com/en/contact.html).
 
 Essential SARL retains the ability to freely modify these terms and conditions.
