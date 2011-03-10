@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidsage.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210024308id_/http%3A//www.vidsage.com/vidsage-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidsage.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310122102id_/http%3A//www.vidsage.com/vidsage-privacy-policy.html) for the most accurate reproduction.*
 
 # Vidsage.com | Vidsage.com Privacy Policy
 
