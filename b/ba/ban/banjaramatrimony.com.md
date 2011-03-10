@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the banjaramatrimony.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107204212id_/http%3A//www.banjaramatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banjaramatrimony.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310220704id_/http%3A//www.banjaramatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Banjara Matrimony, Matrimony, Indian Matrimony
 
 BanjaraMatrimony.com owned by CommunityMatrimony.com, and BanjaraMatrimony.com being hereafter referred to as CommunityMatrimony.com, is an online matrimonial portal endeavoring constantly to provide you with premium matrimonial services. Since we are strongly committed to your right to privacy, we have drawn out a privacy statement with regard to the information we collect from you.
-
-We use a secure server for credit card transactions to protect the credit card information of our clients and Cookies are used to store the login information.
 
 What information you need to give in to use this site?  
 We gather information from members and guests who apply for the various services our site offers. It includes, but may not be limited to, email address, first name, last name, a user-specified password, mailing address, zip code and telephone number or fax number.
