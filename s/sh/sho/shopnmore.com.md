@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopnmore.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215022206id_/http%3A//www.shopnmore.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopnmore.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310144215id_/http%3A//www.shopnmore.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of ShopNMore.com
 
