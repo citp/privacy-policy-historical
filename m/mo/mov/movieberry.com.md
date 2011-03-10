@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieberry.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815085719id_/http%3A//www.movieberry.com/publication/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieberry.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310125602id_/http%3A//www.movieberry.com/publication/privacypolicy) for the most accurate reproduction.*
 
 # Privacypolicy
 
@@ -16,4 +16,4 @@ According to the Internet common practice, MovieBerry.com's Administration uses 
 Every time you refer to MovieBerry.com, the Website Administration gets access to your personal data on our Website such as lists of downloads, e-mail address, statistics, etc. Your personal data help us to keep you informed about new releases and events that you might be interested in. Your privacy is of the highest priority for MovieBerry.com, and we do our best to protect it. MovieBerry.com's Administration undertakes not to disclose any data without Customer's permission.
 
 **Your financial information**  
-When paying for the Website services, the Customer has to notify the Administration about the preferred payment method. The credit card processing company for MovieBerry.com is SWREG. The Website Administration do not disclose your payment details. The Website Administration undertakes to keep all other financial information confidential. 
+When paying for the Website services, the Customer has to notify the Administration about the preferred payment method. The Website Administration do not disclose your payment details. The Website Administration undertakes to keep all other financial information confidential. 
