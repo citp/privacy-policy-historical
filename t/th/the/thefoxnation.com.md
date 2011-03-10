@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thefoxnation.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526070944id_/http%3A//www.thefoxnation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoxnation.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310173641id_/http%3A//nation.foxnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The FOX Nation
-
-### **Privacy Policy**
+# Privacy Policy - Fox Nation
 
 THEFOXNATION.COM ("FOX") is part of the News America Group, which has adopted a set of Privacy Principles (<http://www.newscorp.com/privacy.html>) applicable to all its U.S.-based companies. FOX has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S., both online and off-line.
 
@@ -32,7 +30,7 @@ FOX's web site(s) may be linked to Internet sites operated by other companies. S
 
 FOX's web site(s) may also be linked to sites operated by companies affiliated with FOX (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group’s Privacy Principles (<http://www.newscorp.com/privacy.html>), visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
 
-Some of the advertisements that appear on FOX's web site(s) are delivered to you by national Internet advertising and application companies such as DoubleClick and Revenue Science. These companies ultilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our site(s), including information about the banner ads they display, any cookie they place on your computer and your IP address. To opt out of information collection by DoubleClick or Revenue Science, or to obtain information about the technologies they use or their own privacy policy, please visit their web sites at: <http://www.doubleclick.com/us/about_doubleclick/privacy> and <http://www.revenuescience.com/privacy.asp>.
+Some of the advertisements that appear on FOX's web site(s) are delivered to you by national Internet advertising and application companies such as DoubleClick and Revenue Science. These companies ultilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our site(s), including information about the banner ads they display, any cookie they place on your computer and your IP address. To opt out of information collection by DoubleClick or Revenue Science, or to obtain information about the technologies they use or their own privacy policy, please visit their web sites at:<http://www.doubleclick.com/us/about_doubleclick/privacy> and <http://www.revenuescience.com/privacy.asp>.
 
 CHOICE: FOX Will Provide You with Choices About the Use of Your PII
 
@@ -58,11 +56,11 @@ ACCESS: How to Access, Correct or Delete Your PII
 
 If you are a registered user at FOX’s web site, you can view your user preferences by following the procedure detailed below.
 
-To access your PII, send an e-mail with the word "Privacy" in the subject line to [foxnewsonline@foxnews.com](mailto:foxnewsonline@foxnews.com), or write to the FOX Internet Privacy Officer at FOXNews.com, 1211 Avenue of the Americas, 18th Floor, New York, New York 10036, requesting a listing of the PII that is on file for you. FOX will respond promptly to your request with a list of the PII on file. There may be certain instances when FOX may not be able to provide the PII, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the PII has been lawfully obtained from third party sources.
+To access your PII, send an e-mail with the word "Privacy" in the subject line to [foxnewsonline@foxnews.com](mailto:foxnewsonline@foxnews.com), or write to the FOX Internet Privacy Officer at FOXNews.com, 1211 Avenue of the Americas, 18th Floor, New York, New York 10036, requesting a listing of the PII that is on file for you. FOX will respond promptly to your request with a list of the PII on file. There may be certain instances when FOX may not be able to provide the PII, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the PII has been lawfully obtained from third party sources.
 
 In the event the PII on file is incorrect, you may correct the PII by sending a written request for correction to the FOX Internet Privacy Officer at FOXNews.com, 1211 Avenue of the Americas, 18th Floor, New York, New York 10036 that includes (1) all of the incorrect PII that you wish to change, (2) the corrected PII and (3) your signature authorizing such changes. FOX will then correct the PII in its database and send a written confirmation to you promptly.
 
-If for any reason you wish to stop all future communications from FOX, you may send an e-mail with the word "Privacy" in the subject line to [foxnewsonline@foxnews.com](mailto:foxnewsonline@foxnews.com), or a write to the FOX Internet Privacy Officer at FOXNews.com, 1211 Avenue of the Americas, 18th Floor, New York, New York 10036, requesting that your PII be permanently removed form any FOX database. FOX will send a written confirmation of such removal to you within fifteen (15) business days of receipt of your request.
+If for any reason you wish to stop all future communications from FOX, you may send an e-mail with the word "Privacy" in the subject line to [foxnewsonline@foxnews.com](mailto:foxnewsonline@foxnews.com), or a write to the FOX Internet Privacy Officer at FOXNews.com, 1211 Avenue of the Americas, 18th Floor, New York, New York 10036, requesting that your PII be permanently removed form any FOX database. FOX will send a written confirmation of such removal to you within fifteen (15) business days of receipt of your request.
 
 REMEDIES AND COMPLIANCE: How to Contact Fox About Privacy Concerns
 
@@ -74,6 +72,6 @@ FOXNews.com
 1211 Avenue of the Americas, 14th Floor  
 New York, New York 10036  
 Telecopier: (212) 901-4530  
-e-mail: [foxnewsonline@foxnews.com](mailto:foxnewsonline@foxnews.com)
+e-mail: [foxnewsonline@foxnews.com](mailto:foxnewsonline@foxnews.com)
 
 You may also request a written response to your concerns, which will be made no later than thirty (30) days after you contact FOX.
