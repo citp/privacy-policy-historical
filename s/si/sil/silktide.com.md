@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the silktide.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921102251id_/http%3A//www.silktide.com/our-boring-stuff/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silktide.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310013149id_/http%3A//www.silktide.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Silktide
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
-**(1)  What information do we collect?**
+## (1) What information do we collect?
 
 We may collect, store and use the following kinds of personal data:
 
@@ -18,21 +18,21 @@ We may collect, store and use the following kinds of personal data:
 
 (e) any other information that you choose to send to us.
 
-  **(2)  Cookies**
+## (2) Cookies
 
 A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
 
-We use both "session" cookies and "persistent" cookies on our websites.  We will use the session cookies to: keep track of you whilst you navigate the website; and to monitor user behaviour for statistical and marketing purposes.  We will use the persistent cookies to: enable our website to recognise you when you visit; 
+We use both "session" cookies and "persistent" cookies on our websites. We will use the session cookies to: keep track of you whilst you navigate the website; and to monitor user behaviour for statistical and marketing purposes. We will use the persistent cookies to: enable our website to recognise you when you visit; 
 
-Session cookies will be deleted from your computer when you close your browser.  Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
+Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google's privacy policy is available at: [http://www.google.com/privacypolicy.html.](http://www.google.com/privacypolicy.html)
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. [View Google's privacy policy](http://www.google.com/privacypolicy.html). 
 
-We use ClickTale to analyse the use of this website.  ClickTale generates statistical and other information about website use by means of cookies, which are stored on users' computers.  The information generated relating to our website is used to create reports about the use of the website. ClickTale will store this information.  ClickTale's privacy policy is available at: [http://www.clicktale.com/privacy_service.aspx](http://www.clicktale.com/privacy_service.aspxMost)
+We use ClickTale to analyse the use of this website. ClickTale generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. ClickTale will store this information. [View ClickTale's privacy policy](http://www.clicktale.com/privacy_service.aspx).
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies.  For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.  Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
 
-**(3)  Using your personal data**
+## (3) Using your personal data
 
 Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
@@ -58,14 +58,13 @@ We may use your personal information to:
 
 (j) deal with enquiries and complaints made by or about you relating to the website; 
 
-  
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
 
-All our website financial transactions are handled through our payment services provider, SagePay.  You should only provide your personal information to SagePay after reviewing the SagePay privacy policy (available at <http://www.sagepay.com/privacy_policy.asp>).  We will share information with  SagePay only to the extent necessary for the purposes of processing payments you make via our website.
+All our website financial transactions are handled through our payment services provider, SagePay.  You should only provide your personal information to SagePay after reviewing the [SagePay privacy policy](http://www.sagepay.com/privacy_policy.asp). We will share information with  SagePay only to the extent necessary for the purposes of processing payments you make via our website.
 
-**(4)  Disclosures**
+## (4) Disclosures
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
@@ -91,7 +90,7 @@ In addition, personal information that you submit for publication on the website
 
 You expressly agree to such transfers of personal information.
 
-**(6)  Security of your personal data**
+## (6) Security of your personal data
 
 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
 
@@ -101,26 +100,26 @@ We take great care to ensure any confidential information remains protected, but
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password.
 
-**(7)  Policy amendments**
+## (7) Policy amendments
 
-We may update this privacy policy from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes. 
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
 
 We may also notify you of changes to our privacy policy by email. 
 
-**(8)  Your rights**
+## (8) Your rights
 
-You may instruct us to provide you with any personal information we hold about you.  Provision of such information may be subject to the payment of a fee.
+You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee.
 
-You may instruct us not to process your personal data for marketing purposes by email  at any time.  (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
+You may instruct us not to process your personal data for marketing purposes by email  at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
 
-**(9)  Third party websites**
+## (9) Third party websites
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
-**(10)  Updating information**
+## (10) Updating information
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-**(11)  Contact**
+## (11) Contact
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [support@silktide.com](mailto:support@silktide.com) or by post to Silktide, Brunel Parkway, Pride Park, Derby, DE24 8HR, United Kingdom.
