@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anb.com.sa privacy policy that was archived on 2006-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060619221344id_/http%3A//www.anb.com.sa/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anb.com.sa privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311132135id_/http%3A//www.anb.com.sa//privacy.asp) for the most accurate reproduction.*
 
-# Welcome Arab National Bank Website
+# anb
 
 Because the confidentiality of your information is important to us, we are committed to ensure that the privacy of your information is protected. The trust you have confided in us is, and will always be, the essential driving force that we work hard to protect, maintain and enhance. We assure you that your information is used solely for the legitimate business purposes for which the information was disclosed. Customer information privacy and security rank high on our list of priorities. We therefore offer this covenant as a sign of our pledge to you that: 
 
