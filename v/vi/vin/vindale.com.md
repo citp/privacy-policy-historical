@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812102212id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311120659id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy policy - Vindale Research
+# Free Online Surveys - Get Paid to Take Surveys Online - Vindale Research
 
 ## Privacy policy 
 
@@ -20,7 +20,7 @@ Use of information members submit to Vindale Research
 
 Email addresses are used to send notifications related to the service(s) the user has signed up for, as a confirmation when a Vindale Research member has requested to add another member as a friend, and to invite new friends to join Vindale Research. A user may choose to stop receiving email notifications from Vindale Research at any time by clicking the unsubscribe link at the bottom of the email. When the user sends email or other communication to Vindale Research, Vindale Research may retain those communications in order to process the user's inquiries, respond to the user's requests and improve Vindale Research's services. 
 
-Vindale Research provides members with the opportunity to upload a self-portrait and/or testimonial of our service. We will preserve your privacy, but reserve the right to use your first name, last initial, city and state for our testimonials. We will not release your contact information in these testimonials. If you would like to email us your feedback or testimonial but would like it to remain confidential, please express your intention clearly when you submit your photo and/or testimonial. The specific use of a user's personal information will be defined at the point of collection. Should Vindale Research wish to change anything regarding the use of a user's personal information, a prominent notice will be displayed on the website. 
+Vindale Research provides members with the opportunity to upload a self-portrait and/or a testimonial of our service. We will not sell, share or publish your personally identifiable information, but reserve the right to use your first name, last initial, city and state for our testimonials. If you would like to your self-portrait and/or testimonial to remain confidential, please express your intention clearly when you submit your self-portrait and/or testimonial. The specific use of your personal information will be defined at the point of collection. Should Vindale Research wish to change anything regarding the use of your personal information, a prominent notice will be displayed on this website. 
 
 Use of non-personally identifiable information
 
