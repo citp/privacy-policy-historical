@@ -1,842 +1,218 @@
-<!--The following is the downloaded HTML source of the uprinting.com privacy policy that was archived on 2008-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080518005556id_/http%3A//www.uprinting.com/site-policies.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uprinting.com privacy policy that was archived on 2011-03-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110311101746id_/http%3A//www.uprinting.com/site-policies.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Full Color Printing Company - U Printing</title>
-<meta name="keywords" content="4 Color Printing, Digital Printing, Poster Printing, Postcards, Business Cards, Posters, Greeting Cards, Rack Cards, Response Cards, Stickers and Labels.">
-<meta name="description" content="U Printing is a California printing company. All orders from outside California will not be charged sales tax. U Printing is the printing company where you can save.">
-<base href="http://www.uprinting.com/">
-<link rel="stylesheet" type="text/css" href="includes/templates/uprinting/css/stylecampaign.css"><link rel="stylesheet" type="text/css" href="includes/templates/uprinting/css/stylesheet.css">
-<script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>UPrinting | Privacy Policy</title>
+<meta name="description" content="Save on Commercial Printing! Online Printing Services for Business Cards, Postcards, Brochures, Posters and Canvas Prints!">
+<meta name="keywords" content="online printing, online printing company, printing services, online printers, printing company, color printing">
+<link rel="canonical" href="http://www.uprinting.com/site-policies.html"> 
+<meta name="robots" content="noindex,follow">
+<link href="http://static.uprinting.com/site_files/css/reset.css" rel="stylesheet" type="text/css">
+<link href="http://static.uprinting.com/site_files/css/common2.css" rel="stylesheet" type="text/css">
+<link media="screen" rel="stylesheet" href="http://static.uprinting.com/site_files/css/colorbox-mod.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/site/jscripts/jquery-1.4.2.min.js"></script>
+<script src="/site/jscripts/jquery-ui-1.8.4.custom.min.js" type="text/javascript"></script>
+<script src="/site/jscripts/jquery.colorbox.mod.js"></script>
 
-		
-		// remote scripting library
-		// (c) copyright 2005 modernmethod, inc
-		var sajax_debug_mode = false;
-		var sajax_request_type = "GET";
-		
-		function sajax_debug(text) {
-			if (sajax_debug_mode)
-				alert("RSD: " + text)
-		}
- 		function sajax_init_object() {
- 			sajax_debug("sajax_init_object() called..")
- 			
- 			var A;
-			try {
-				A=new ActiveXObject("Msxml2.XMLHTTP");
-			} catch (e) {
-				try {
-					A=new ActiveXObject("Microsoft.XMLHTTP");
-				} catch (oc) {
-					A=null;
-				}
-			}
-			if(!A && typeof XMLHttpRequest != "undefined")
-				A = new XMLHttpRequest();
-			if (!A)
-				sajax_debug("Could not create connection object.");
-			return A;
-		}
-		function sajax_do_call(func_name, args) {
-			var i, x, n;
-			var uri;
-			var post_data;
-			
-			uri = "";
-			if (sajax_request_type == "GET") {
-				if (uri.indexOf("?") == -1) 
-					uri = uri + "?rs=" + escape(func_name);
-				else
-					uri = uri + "&rs=" + escape(func_name);
-				for (i = 0; i < args.length-1; i++) 
-					uri = uri + "&rsargs[]=" + escape(args[i]); 
-				uri = uri + "&rsrnd=" + new Date().getTime();
-				post_data = null;
-			} else {
-				post_data = "rs=" + escape(func_name);
-				for (i = 0; i < args.length-1; i++) 
-					post_data = post_data + "&rsargs[]=" + escape(args[i]);
-			}
-			
-			x = sajax_init_object();
-			x.open(sajax_request_type, uri, true);
-			if (sajax_request_type == "POST") {
-				x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
-				x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-			}
-			x.onreadystatechange = function() {
-				if (x.readyState != 4) 
-					return;
-				sajax_debug("received " + x.responseText);
-				
-				var status;
-				var data;
-				status = x.responseText.charAt(0);
-				data = x.responseText.substring(2);
-				if (status == "-") 
-					alert("Error: " + data);
-				else  
-					args[args.length-1](data);
-			}
-			x.send(post_data);
-			sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
-			sajax_debug(func_name + " waiting..");
-			delete x;
-		}
-		
-				
-		// wrapper for get_categories		
-		function x_get_categories() { 
-			sajax_do_call("get_categories",
-				x_get_categories.arguments);
-		}
-		
-				
-		// wrapper for get_options		
-		function x_get_options() { 
-			sajax_do_call("get_options",
-				x_get_options.arguments);
-		}
-		
-				
-		// wrapper for get_quantity		
-		function x_get_quantity() { 
-			sajax_do_call("get_quantity",
-				x_get_quantity.arguments);
-		}
-		
-				
-		// wrapper for get_price		
-		function x_get_price() { 
-			sajax_do_call("get_price",
-				x_get_price.arguments);
-		}
-		
-				
-		// wrapper for get_attributes		
-		function x_get_attributes() { 
-			sajax_do_call("get_attributes",
-				x_get_attributes.arguments);
-		}
-		
-				
-		// wrapper for get_attributes_info		
-		function x_get_attributes_info() { 
-			sajax_do_call("get_attributes_info",
-				x_get_attributes_info.arguments);
-		}
-		
-				
-		// wrapper for get_category_name		
-		function x_get_category_name() { 
-			sajax_do_call("get_category_name",
-				x_get_category_name.arguments);
-		}
-		
-				
-		// wrapper for calculate_shipping		
-		function x_calculate_shipping() { 
-			sajax_do_call("calculate_shipping",
-				x_calculate_shipping.arguments);
-		}
-		
-				
-		// wrapper for calculate_shippingRates		
-		function x_calculate_shippingRates() { 
-			sajax_do_call("calculate_shippingRates",
-				x_calculate_shippingRates.arguments);
-		}
-		
-				
-		// wrapper for get_price_newdb_psi		
-		function x_get_price_newdb_psi() { 
-			sajax_do_call("get_price_newdb_psi",
-				x_get_price_newdb_psi.arguments);
-		}
-		
-				
-		// wrapper for get_product_poster_details		
-		function x_get_product_poster_details() { 
-			sajax_do_call("get_product_poster_details",
-				x_get_product_poster_details.arguments);
-		}
-		
-				
-		// wrapper for get_product_details		
-		function x_get_product_details() { 
-			sajax_do_call("get_product_details",
-				x_get_product_details.arguments);
-		}
-		
-				
-		// wrapper for get_price_newdb_posters		
-		function x_get_price_newdb_posters() { 
-			sajax_do_call("get_price_newdb_posters",
-				x_get_price_newdb_posters.arguments);
-		}
-		
-				
-		// wrapper for get_sizes		
-		function x_get_sizes() { 
-			sajax_do_call("get_sizes",
-				x_get_sizes.arguments);
-		}
-		
-				
-		// wrapper for get_price_newdb		
-		function x_get_price_newdb() { 
-			sajax_do_call("get_price_newdb",
-				x_get_price_newdb.arguments);
-		}
-		
-				
-		// wrapper for call_ups		
-		function x_call_ups() { 
-			sajax_do_call("call_ups",
-				x_call_ups.arguments);
-		}
-		
-				
-		// wrapper for get_ups_methods		
-		function x_get_ups_methods() { 
-			sajax_do_call("get_ups_methods",
-				x_get_ups_methods.arguments);
-		}
-		
-				
-		// wrapper for test_call		
-		function x_test_call() { 
-			sajax_do_call("test_call",
-				x_test_call.arguments);
-		}
-		
-				
-		// wrapper for get_price_pack		
-		function x_get_price_pack() { 
-			sajax_do_call("get_price_pack",
-				x_get_price_pack.arguments);
-		}
-		
-				
-		// wrapper for get_price_by_stock		
-		function x_get_price_by_stock() { 
-			sajax_do_call("get_price_by_stock",
-				x_get_price_by_stock.arguments);
-		}
-		
-				
-		// wrapper for get_price_catalogs		
-		function x_get_price_catalogs() { 
-			sajax_do_call("get_price_catalogs",
-				x_get_price_catalogs.arguments);
-		}
-		
-				
-		// wrapper for get_price_by_stock_ver2		
-		function x_get_price_by_stock_ver2() { 
-			sajax_do_call("get_price_by_stock_ver2",
-				x_get_price_by_stock_ver2.arguments);
-		}
-		
-				
-		// wrapper for get_price_pack_ver2		
-		function x_get_price_pack_ver2() { 
-			sajax_do_call("get_price_pack_ver2",
-				x_get_price_pack_ver2.arguments);
-		}
-		
-				
-		// wrapper for call_ups_xml		
-		function x_call_ups_xml() { 
-			sajax_do_call("call_ups_xml",
-				x_call_ups_xml.arguments);
-		}
-		
-				
-		// wrapper for get_ups_xml_methods		
-		function x_get_ups_xml_methods() { 
-			sajax_do_call("get_ups_xml_methods",
-				x_get_ups_xml_methods.arguments);
-		}
-		
-				
-		// wrapper for set_product		
-		function x_set_product() { 
-			sajax_do_call("set_product",
-				x_set_product.arguments);
-		}
-		
-				
-		// wrapper for get_ups_xml_methods_job		
-		function x_get_ups_xml_methods_job() { 
-			sajax_do_call("get_ups_xml_methods_job",
-				x_get_ups_xml_methods_job.arguments);
-		}
-		
-				
-		// wrapper for get_ups_xml_methods_lfp		
-		function x_get_ups_xml_methods_lfp() { 
-			sajax_do_call("get_ups_xml_methods_lfp",
-				x_get_ups_xml_methods_lfp.arguments);
-		}
-		
-				
-		// wrapper for select_state		
-		function x_select_state() { 
-			sajax_do_call("select_state",
-				x_select_state.arguments);
-		}
-		
-				
-		// wrapper for validate_zip_code		
-		function x_validate_zip_code() { 
-			sajax_do_call("validate_zip_code",
-				x_validate_zip_code.arguments);
-		}
-		
-		
-var DIR_WS_TEMPLATE = 'includes/templates/uprinting/';
-var IMG_DIR = '';
-var REQUEST_URI = '/site-policies.html';
-var HTTP_SERVER = 'http://www.uprinting.com';
-var CURRENT_PAGE = 'privacy_policy';
-var CPATH = '';
-var MARK = '';
-var PRODUCT_ID = '';
-var DISCOUNT_PERCENT = '';
-	var TYPE = '';var SEL_SHIPPING = '';</script> 
 
-<script src="includes/templates/uprinting/jscripts/JSON.js"></script> 
-<script src="includes/templates/uprinting/jscripts/misc.js"></script> 
-<script src="includes/templates/uprinting/jscripts/site_search.js"></script> 
-<script type="text/javascript" src="includes/templates/uprinting/jscripts/common.js"></script>
 
-<script language="JavaScript" src="https://seals.networksolutions.com/siteseal/javascript/siteseal.js" type="text/javascript"></script>
-<script type="text/javascript" language="JavaScript">
-function MM_preloadImages() { //v3.0
-  var d=document; 
-	if(d.images){ 
-		if(!d.MM_p) d.MM_p=new Array();
-			var i,j=d.MM_p.length,a=MM_preloadImages.arguments; 
-			for(i=0; i<a.length; i++)
-				if (a[i].indexOf("#")!=0) { 
-					d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];
-				}
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/dojo/dojo/dojo.js"></script>
+    <script type="text/javascript">
+      var _gaq = _gaq || []; 
+      _gaq.push(['_setAccount', 'UA-689551-12']); 
+      _gaq.push(['_setDomainName', '.uprinting.com']);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['_setAllowHash', false]);
+
+     (
+  	function() {
+   	   var ga = document.createElement('script'); 
+  	   ga.type = 'text/javascript'; 
+   	   ga.async = true; 
+   	   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';    	   
+  	   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	}
-}
-</script><script language="javascript" type="text/javascript">var lpPosY = 100;</script><script language="javascript" src="http://server.iad.liveperson.net/hc/77577663/x.js?cmd=file&amp;file=chatScript3&amp;site=77577663&amp;&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a"> </script></head>
+      )();
+   </script>
 
- <!-- Live Person -->
+<link rel="shortcut icon" href="/uprinting.ico"> 
 
- 
-<body id="privacypolicy" style="margin:0 0 0 0; padding:0 0 0 0;">
-<a name="back_to_top"></a>
-<link href="includes/templates/uprinting/greybox/gb_styles.css" rel="stylesheet" type="text/css">
-<div>
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="837">
-	<tbody><tr>
-    <td>
-			<!-- header begin -->
-			<style type="text/css">
-<!--
-body,tr, td,th {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 12px;
-	color: #333333;
-	margin-top:0px;
-	text-align:left;
-}
-form {
-	padding:0 0 0 0;
-}
-.bodytext {
-	color:#333333;
-}
-.footlinks {
-	font-size: 11px;
-	text-decoration: underline;
-	color: #FFFFFF;
-}
-.toplinks {	color: #000000;
-	text-decoration: none;
-}
-.headerLinks {
-	color:#FFFFFF;
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	font-weight:normal;
-	text-decoration:none;
-}
-.pointEr {
-	cursor:pointer;
-	margin:0px 0px 0px 0px;
-	padding:0px 0px 0px 0px;
-}
-.divCartLink {
-	z-index:1;
-  width: 100%;
-	height:34px;}
-.divCartPopHidden {
-	z-index:2;
-	position:absolute;
-	top:34px;	height:0px;
-  width: 110px;
-	visibility:hidden;
-}
-.divCartPopVisible {
-	z-index:2;
-	position:absolute;
-	top:34px;  width: 100%;
-	visibility:visible;
-}
--->
-</style>
-<form name="custom_proof_home" action="http://www.uprinting.com/index.php?main_page=custom_product" enctype="multipart/form-data" method="post">
-<input type="hidden" name="submit_proof" value="">
-</form>
+</head>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px;" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div>
+  <div class="container">
+	<div class="container-w">
+		  <!--header last edited 12-1-2010 -->
+  <!--header-->
+	    <div class="header">
+	  <!--[if lte IE 6]><script src="/site/jscripts/warning.js"></script><script>addEvent(window,"load", function(){e("/site/images/")});</script><![endif]-->
+
+<div class="header-top">
+  <div class="header-top-w">
+    <div class="left"><a rel="follow" href="http://www.uprinting.com" class="UPlogo">UPrinting.com</a></div>
+    <div class="right">
+      <ul class="fbLogLink">
+        <li id="loginLink"><a rel="nofollow" href="https://www.uprinting.com/login.html?url=/">Login</a></li>
+        <li><a id="fback" rel="nofollow" class="bldleft cboxElement">Feedback</a></li>
+      </ul>    	
+      <ul class="headerver3">
+        <li class="quality"> <a rel="nofollow" class="wrap cboxElement" id="pqa"> <span class="ico"> <span>Print Quality</span> <strong>Assurance</strong> </span> </a> </li>
+        <li class="chat"> <a style="cursor:pointer" rel="nofollow" id="_lpChatBtn" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/77577663/?cmd=file&amp;file=visitorWantsToChat&amp;site=77577663&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat77577663','width=475,height=400,resizable=yes');return false;" target="chat77577663" action="http://server.iad.liveperson.net/hc/77577663/?cmd=file&amp;file=visitorWantsToChat&amp;site=77577663&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a"> <span class="ico"> <span>Live Chat</span> <strong>Assistance</strong> </span> </a> </li>
+        <li class="hour24"> <a rel="nofollow" class="wrap cboxElement" id="h24"> <span class="ico"> <span>Phone Support</span> <strong>1-888-888-4211</strong> </span> </a> </li>
+      </ul>
+    </div>
+  </div>
+</div>
 <script>
-var newwindow = '';
-function popitupImage(url) {
-	newwindow=window.open(url,'htmlname','width=504,height=416,resizable=1,scrollbars=yes');   
-}
-function showDropMenu() {
-	document.getElementById('divCartPopHidden').className = 'divCartPopVisible';
-}
-function hideDropMenu() {
-	document.getElementById('divCartPopHidden').className = 'divCartPopHidden';
-}
+	jQuery("#pqa").colorbox({width:"670px", height:"380px", href:"/print-quality-assurance/", scrolling:false, iframe:false});
+	jQuery("#h24").colorbox({width:"655px", height:"270px", href:"/phone-support/", scrolling:false, iframe:true});
+        jQuery("#fback").colorbox({width:"650px", height:"390px", href:"/customer-feedback.html", scrolling:false});
 </script>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-		<td><a href="http://www.uprinting.com"><img src="includes/templates/uprinting/images/uprinting-logo.gif" border="0"></a></td>
-		<td valign="top" style="padding-top:5px;">
-			<table align="right" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td valign="top">
-						<div align="right"><img src="includes/templates/uprinting/images/tollFreeNUm.gif" style="padding-top:5px;"></div>
-						<div align="right"><a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/77577663/?cmd=file&amp;file=visitorWantsToChat&amp;site=77577663&amp;byhref=1&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a" target="chat77577663" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/77577663/?cmd=file&amp;file=visitorWantsToChat&amp;site=77577663&amp;imageUrl=http://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat77577663','width=475,height=400,resizable=yes');return false;"><img src="includes/templates/uprinting/images/launchLiveChat.gif" name="hcIcon" border="0"></a></div>
-					</td>
-						
-						
-					<td valign="top" style="padding-left:20px;"><form action="http://www.uprinting.com/loginportal.php?accesscheck=indexportal.php%3Fpage%3Dorders2" method="post" class="pointEr" onclick="this.submit();"><img src="includes/templates/uprinting/images/menuOrderLogin.gif" width="56" height="29"></form></td>
-					<td valign="top"><form action="http://www.uprinting.com/loginportal.php?accesscheck=indexportal.php%3Fpage%3Dorders2" method="post" class="pointEr" onclick="this.submit();"><img src="includes/templates/uprinting/images/menuOrderStatusLogged.gif" width="92" height="29"></form></td>
-					<td valign="top"><form action="http://www.uprinting.com/loginportal.php?accesscheck=indexportal.php%3Fpage%3Dproofs" method="post" class="pointEr" onclick="this.submit();"><img src="includes/templates/uprinting/images/menuProofs.gif" width="57" height="29"></form></td>
-					<td valign="top"><form action="http://www.uprinting.com/loginportal.php?accesscheck=indexportal.php%3Fpage%3Dorders2" method="post" class="pointEr" onclick="this.submit();"><img src="includes/templates/uprinting/images/menuTrackShipment.gif" width="79" height="29"></form></td>
-					<td valign="top">
-												<div id="divCartLink" class="divCartLink" onmouseover="showDropMenu();" onmouseout="hideDropMenu();">
-							<img src="includes/templates/uprinting/images/menuCart.gif" width="83" height="29" class="pointEr" id="cartLink"><br>
-							<div id="divCartPopHidden" class="divCartPopHidden">
-							<table border="0" cellspacing="0" cellpadding="0" width="100%">
-								<tbody><tr>
-									<td><form action="http://www.uprinting.com/index.php?main_page=cart_items&amp;cart_type=db" method="post" class="pointEr" onclick="this.submit();" rel="nofollow"><img src="includes/templates/uprinting/images/uphead-onlineorder.gif" width="110" height="20"></form></td>
-								</tr>
-								<tr>
-									<td><img src="includes/templates/uprinting/images/upheadpopmenuline.gif" width="110" height="1"></td>
-								</tr>
-								<tr>
-									<td><form action="http://www.uprinting.com/index.php?main_page=cart_items&amp;cart_type=custom" method="post" class="pointEr" onclick="this.submit();" rel="nofollow"><img src="includes/templates/uprinting/images/uphead-projectreview.gif" width="110" height="20"></form></td>
-								</tr>
-							</tbody></table>
-							</div>
-						</div>			
-					</td>
-							
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2" height="6"></td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>
-					<td background="includes/templates/uprinting/images/hdr-menubg.gif" width="0%"><div align="left"><img src="includes/templates/uprinting/images/hdr-menu-left.gif"></div></td>
-					<td background="includes/templates/uprinting/images/hdr-menubg.gif" width="100%">
-						<table border="0" cellspacing="0" cellpadding="0" width="100%">
-							<tbody><tr>
-								<td>
-									<div align="left" style="float:left;">
-									<table border="0" cellspacing="0" cellpadding="0" style="color:#FFFFFF;">
-										<tbody><tr>
-											<td nowrap="nowrap" valign="middle"><form class="headerLinks" style="cursor:pointer; padding:0; margin:0;" onclick="this.submit();" method="post" action="http://www.uprinting.com/company.html"><img src="includes/templates/uprinting/images/hdrAboutUs.gif"></form></td>
-											<td><img src="includes/templates/uprinting/images/hdr-menudiv.gif"></td>
-											<td nowrap="nowrap" valign="middle"><form class="headerLinks" style="cursor:pointer; padding:0; margin:0;" onclick="this.submit();" method="post" action="http://www.uprinting.com/Utrade.html"><img src="includes/templates/uprinting/images/hdrTradeProgram.gif"></form></td>
-											<td><img src="includes/templates/uprinting/images/hdr-menudiv.gif"></td>
-											<td nowrap="nowrap" valign="middle"><form class="headerLinks" style="cursor:pointer; padding:0; margin:0;" onclick="this.submit();" method="post" action="http://www.uprinting.com/Affiliates.html"><img src="includes/templates/uprinting/images/hdrAffiliates.gif"></form></td>
-											<td><img src="includes/templates/uprinting/images/hdr-menudiv.gif"></td>
-											<td nowrap="nowrap" valign="middle"><form class="headerLinks" style="cursor:pointer; padding:0; margin:0;" onclick="this.submit();" method="post" action="http://www.uprinting.com/samples.html"><img src="includes/templates/uprinting/images/hdrFreeSamples.gif"></form></td>
-											<td><img src="includes/templates/uprinting/images/hdr-menudiv.gif"></td>
-											<td nowrap="nowrap" valign="middle"><form class="headerLinks" style="cursor:pointer; padding:0; margin:0;" onclick="this.submit();" method="post" action="http://www.uprinting.com/index.php?main_page=job_quote&amp;product_id=45"><img src="includes/templates/uprinting/images/hdrQuotes.gif"></form></td>
-											<td><img src="includes/templates/uprinting/images/hdr-menudiv.gif"></td>
-											<td nowrap="nowrap" valign="middle"><form class="headerLinks" style="cursor:pointer; padding:0; margin:0;" onclick="this.submit();" method="post" action="http://www.uprinting.com/support.html"><img src="includes/templates/uprinting/images/hdrHelp.gif"></form></td>
-										</tr>
-									</tbody></table>
-							 		</div>
-									<div align="right" style="float:right;">
-									<table border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td valign="bottom">
-                                            	<script>
-													function MM_swapImgRestore() { //v3.0
-													  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-													}
-													function MM_preloadImages() { //v3.0
-													  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-														var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-														if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-													}
-													
-													function MM_findObj(n, d) { //v4.01
-													  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-														d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-													  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-													  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-													  if(!x && d.getElementById) x=d.getElementById(n); return x;
-													}
-													
-													function MM_swapImage() { //v3.0
-													  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-													   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-													}
-												</script>
-                                            	<form style="cursor:pointer; padding:0; margin:0;" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('fprLink','','includes/templates/uprinting/images/headerMenuPRt2.png',1);" onclick="this.submit();" method="post" action="http://www.uprinting.com/index.php?main_page=custom_product&amp;proof=pdf_proof"><img src="includes/templates/uprinting/images/hdr-project-review2.gif" name="fprLink" id="fprLink"></form>
-                                            </td>
-										</tr>
-									</tbody></table>
-									</div>
-							  </td>
-							</tr>
-						</tbody></table>
-					</td>
-					<td background="includes/templates/uprinting/images/hdr-menubg.gif" width="0%"><div align="right"><img src="includes/templates/uprinting/images/hdr-menu-right.gif"></div></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>			
-			<!-- header end -->
-		</td>
-  </tr>
-  <tr>
-    <td>
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-								<tbody><tr>
-					<td background="includes/templates/uprinting/images/mainbg-left-bg.gif" bgcolor="#F2F2F2" width="15" style="background-repeat:repeat-y;" valign="top"><div align="left"><img src="includes/templates/uprinting/images/mainbg-left.gif"></div></td>
-					<td background="includes/templates/uprinting/images/nup-gray-body.gif" bgcolor="#F2F2F2" width="100%" style="background-repeat:repeat-x;" valign="top">
-					          	<div align="right"><img src="includes/templates/uprinting/images/hu-t-check.gif"></div>
-          											<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td width="20%" valign="top">
-								<style>
-.leftLinks {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	text-decoration:underline;
-	cursor:pointer;
-	margin:0;
-}
-.leftLinksSelected {
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:11px;
-	text-decoration:underline;
-	cursor:pointer;
-	margin:0;
-	/*font-weight:bold;*/
-	color:#003399;
-}
-/*upage banner bottom*/
-.upageBanner{
-	background:none;
-	width:148px;
-	height:131px;
-	padding:2;
-	margin:40px 0px 0px 0px;
-}
-.upageBanner a{
-	background:url(/includes/templates/uprinting/images/u-page_icon-sm.png) no-repeat top left;
-	width:147px;
-	height:130px;
-	padding:2;
-	margin:0;
-	display:block;
-	text-decoration:none;
-}
-.upageBanner span{
-	visibility:hidden;
-}
-/*posters sub category*/
-.indoor{
-	background:url(/includes/templates/uprinting/images/use-ind.png) bottom left;
-	height: 16px;
-	width: 110px;
-	margin: 10px 0px 5px 6px;
-	padding:0;
-}
-.indoor strong{
-	visibility: hidden;
-	position: absolute;
-}
-.outdoor{
-	background:url(/includes/templates/uprinting/images/use-out.png) bottom left;
-	height: 19px;
-	width: 110px;
-	margin: 10px 0px 5px 7px;
-	padding:0;
-}
-.outdoor strong{
-	visibility: hidden;
-	position: absolute;
-}
 
-</style>
-						
-<table align="right" border="0" cellspacing="0" cellpadding="0" width="162">
-	<tbody><tr>
-		<td colspan="2"><img src="includes/templates/uprinting/images/hdr-products.gif" align="left"></td>
-	</tr>
-	<tr>
-		<td colspan="2" height="15"></td>
-	</tr>
-	<tr>
-		<td colspan="2"><img src="includes/templates/uprinting/images/nup-offset-printing.gif" width="162" height="23" alt=""></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td width="25"><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><strong><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Brochures.html">Brochures</form></strong></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Business-Cards.html">Business Cards</form></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Calendars.html">Calendars</form></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Premium-Catalogs.html">Catalogs/Booklets</form></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Club-Card-Flyers.html">Club Card Flyers</form></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td class="leftLinks"><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Door-Hangers.html">Door Hangers</form></td>
-	</tr>
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Envelopes.html">Envelopes</form></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Flyers.html">Flyers</form></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Greeting-Cards.html">Greeting Cards</form></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Labels.html">Labels/Stickers</form></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Letterhead.html">Letterhead</form></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Newsletter.html">Newsletters</form></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Folders.html">Pocket Folders</form></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><strong><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Postcards.html">Postcards</form></strong></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Offset-Posters.html">Posters (50+ Qty)</form></td>
-	</tr>	
-	<tr>
-		<td colspan="2" height="7"></td>
-	</tr>
-	<tr>
-		<td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-		<td class="leftLinks"><form class="leftLinks" method="post" onclick="this.submit();" action="/print/Upage.html">U-Page: Pick Your Size</form></td>
-	</tr>
-	<tr>
-      <td colspan="2" height="25">&nbsp;</td>
-  </tr>
-	<tr>
-      <td colspan="2"><form method="post" onclick="this.submit();" action="/Posters.html" style="cursor:pointer;"><img src="includes/templates/uprinting/images/large-format.gif" alt="" width="162" height="24" border="0"></form></td>
-  </tr>
-	<tr>
-      <td colspan="2" height="7"></td>
-  </tr>
-	<tr>
-      <td colspan="2" style="color:#999999; font-size:11px; padding-left:11px;">Any size up to 60"x100"</td>
-  </tr>
-	<tr>
-      <td colspan="2" height="16"><div class="indoor"><strong>Indoor Posters</strong></div></td>
-  </tr>
-	<tr>
-      <td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-	  <td><form class="leftLinks" method="post" onclick="this.submit();" action="/Semi-Gloss-Posters.html">
-	    Semi Gloss
-	    </form></td>
-  </tr>
-	<tr>
-      <td colspan="2" height="7"></td>
-  </tr>
-	<tr>
-      <td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-	  <td><form class="leftLinks" method="post" onclick="this.submit();" action="/High-Gloss-Posters.html">
-	    High Gloss
-	    </form></td>
-  </tr>
-	<tr>
-      <td colspan="2" height="7"></td>
-  </tr>
-	<tr>
-      <td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-	  <td><form class="leftLinks" method="post" onclick="this.submit();" action="/Artist-Canvas-Posters.html">
-	    Artist Canvas
-	    </form></td>
-  </tr>
-	<tr>
-      <td colspan="2" height="19"> <div class="outdoor"><strong>Outdoor Posters</strong></div></td>
-  </tr>
-	<tr>
-      <td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-	  <td><form class="leftLinks" method="post" onclick="this.submit();" action="/Vinyl-Banners-Posters.html">
-	    Vinyl Banners
-	    </form></td>
-  </tr>
-	<tr>
-      <td colspan="2" height="7"></td>
-  </tr>
-	<tr>
-      <td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-	  <td><form class="leftLinks" method="post" onclick="this.submit();" action="/Adhesive-Vinyl-Posters.html">
-	    Adhesive Back
-	    </form></td>
-  </tr>
-	<tr>
-      <td colspan="2" height="7"></td>
-  </tr>
-	<tr>
-      <td><img src="includes/templates/uprinting/images/nup-green-bullet.gif" width="8" height="9" alt="" style="padding-left:10px; padding-right:7px;"></td>
-	  <td><form class="leftLinks" method="post" onclick="this.submit();" action="/Window-Signs-Posters.html">
-	    Window Cling
-	    </form></td>
-  </tr>
-	    <tr>
-  	<td colspan="2">
-    	<div style="margin:60px 0px 0px 0px; font-family:Arial, Helvetica, sans-serif;  ">    
-      <hr size="1" color="#cccccc">
-      <div style="padding-right:5px;">
-          <div style="padding-top:10px;"><img src="includes/templates/uprinting/images/sul-txt-1.gif"></div>
-          <div style="padding-bottom:10px; font-size:11px;">Custom offset, Fast, Affordable!</div>
-          <div style="padding-bottom:20px;"><form action="/print/Upage.html"><input type="image" src="includes/templates/uprinting/images/sul-cl-upg.gif"></form></div>
-      </div>
-      <hr size="1" color="#cccccc">
-      <div style="padding-right:5px;">
-          <div style="padding-top:10px;"><img src="includes/templates/uprinting/images/sul-txt-2.gif"></div>
-          <div style="padding-bottom:10px; font-size:11px;">Receive Great Offers &amp; Tips</div>
-          <div style="padding-bottom:20px;">
-            <table width="66%" border="0" cellspacing="0" cellpadding="3">
-              <tbody><tr>
-                <td width="94%"><input name="emTxt" type="text" id="emTxt" style="width:93px; font-size:11px;" value=" Email" onclick="this.value='';"></td>
-                <td width="6%" align="right">
-      <script>
-      function getEMail(){
-      var email = document.getElementById('emTxt').value;
-      var hRef = document.getElementById('embutton').href;
-      hRef += '&email='+email;
-      document.getElementById('embutton').href = hRef;	
-      //alert(document.getElementById('embutton').href = hRef);		
-      }
-      </script>
-      <a id="embutton" href="/index.php?main_page=email_signup" title="Newsletter Sign-up" onclick="getEMail();hideSifr(); return GB_showCenter('Newsletter Sign-up',this.href, 450, 420)"><img src="includes/templates/uprinting/images/frm-cl-sup.gif" border="0"></a>					
-      </td>
-              </tr>
-            </tbody></table>
+	  
+      <div class="header-menu">
+        <div class="header-menu-w">
+          <div class="header-menu-list">
+            <ul>
+              <li class="mhome"><a rel="follow" href="http://www.uprinting.com">Home</a></li>
+              <li><a rel="follow" href="http://www.uprinting.com/products.html" onclick="SetCookie('PROD_TAB', '1'); SetCookie('UNSET_PROD_TAB', 'y');">Products</a></li>
+              <li><a rel="follow" href="http://www.uprinting.com/print-templates/">Templates</a></li>
+              <li><a rel="follow" href="http://www.uprinting.com/samples.html">Free Samples</a></li>
+              <li class="menu">
+              	<a style="cursor:pointer" rel="follow">Partnerships</a>
+                 <ul class="submenu" style="display:none;">
+                	<li><a rel="follow" href="http://www.uprinting.com/resellers.html">Resellers</a></li>
+                 	<li><a rel="follow" href="http://www.uprinting.com/affiliates.html">Affiliates</a></li>
+                	<li><a rel="follow" href="http://www.uprinting.com/non-profit-sponsor-program/">Sponsorship</a></li>                  
+                </ul>
+              </li>
+              <li><a rel="follow" href="http://www.uprinting.com/support.html">Help</a></li>
+              <li><a rel="follow" href="http://www.uprinting.com/contact-us.html">Contact Us</a></li>
+            </ul>
+            <style>
+				.mportal-account a:hover{
+					text-decoration:underline;
+					color:#FFFFFF;
+				}
+			</style>
+            <div class="mportal">
+              <ul>
+                <li><a rel="nofollow" href="http://www.uprinting.com/jobs.html" onclick="viewJobs()">My Account</a></li>
+                <li class="mportal-cart menu">
+									<a rel="nofollow" style="cursor:pointer">Cart</a>
+									<ul id="carts" class="submenu" style="display:none;">
+											<!-- Cart Menu -->
+									</ul>
+								</li>
+              </ul>
+            </div>
+						<div id="login_header" class="fblogged" style="display:none;">
+            </div> 
           </div>
+          
+        </div>
       </div>
-      <hr size="1" color="#cccccc">
+    </div>
+     <script>
+			 jQuery(document).ready(function(){  
+    
+						jQuery("ul li.menu").click(function() {  
+								jQuery(this).find("ul.submenu").slideDown('fast').show(); 
+								}, function(){
+										jQuery(this).find("ul.submenu").slideUp('slow');   
+						});
+						jQuery("ul li.menu").hover(function() {  
+								//jQuery(this).find("ul.submenu").slideDown('fast').show(); 
+								}, function(){
+										jQuery(this).find("ul.submenu").slideUp('slow');   
+						});  
+					
+				});  
+				
+			function viewJobs(){
+  	  	document.getElementById("jobs").style.display = "none";
+  	  	document.getElementById("load_jobs").style.display = "block";
+			}
+		</script>        <!--body-->
+        <div class="main">
+					<div class="main-w">
+						<!--left panel-->
+<div class="leftpanel">
+  <div class="leftpanel-w">
+    <div class="leftpanel-w-ins">
+      <div class="blacktitle"><strong>Browse Products</strong></div>
+      <div class="leftpanel-list-w">
+        <ul>
+          <li><span><a href="/booklet-printing.html" rel="follow">Booklets</a></span>
+                      </li>          
+          <li><span><a href="/brochure-printing.html" rel="follow">Brochures</a></span></li>
+          <li><span><a href="/business-cards.html" rel="follow">Business Cards</a></span>
+                      </li>
+          <li><span><a href="/calendar-printing.html" rel="follow">Calendars</a></span>
+                      </li>
+          <li><span><a href="/canvas-printing.html" rel="follow">Canvas Prints</a></span>
+                      </li>
+          <li><span><a href="/catalog-printing.html" rel="follow">Catalogs</a></span>
+                       </li>          
+          <li><span><a href="/door-hanger.html" rel="follow">Door Hangers</a></span></li>
+          <li><span><a href="/envelope-printing.html" rel="follow">Envelopes</a></span>
+                      </li>
+          <li><span><a href="/ticket-printing-company.html" rel="follow">Event Tickets</a></span></li>
+          <li><span><a href="/flyer-printing.html" rel="follow">Flyers</a></span>
+                      </li>          
+          <li><span><a href="/folder-printing.html" rel="follow">Folders</a></span></li>
+          <li><span><a href="/gift-certificate-printing.html" rel="follow">Gift Certificates</a></span></li>
+          <li><span><a href="/greeting-cards-printing.html" rel="follow">Greeting Cards</a></span>
+                      </li>
+          <li><span><a href="/hang-tags-printing.html" rel="follow">Hang Tags</a></span>
+                      </li>
+          <li><span><a href="/invitation-printing.html" rel="follow">Invitations</a></span>
+                      </li>
+          
+          <li><span><a href="/sticker-printing.html" rel="follow">Labels/Stickers</a></span>
+                      </li>
+          <li><span><a href="/letterhead-printing.html" rel="follow">Letterheads</a></span></li>
+          <li> <span><a href="/magnet-printing.html" rel="follow">Magnets</a></span>
+                      </li>
+          <li><span><a href="/printing-restaurant-menus.html" rel="follow">Menus</a></span>
+                      </li>
+          <li><span><a href="/night-club-flyer-printing.html" rel="follow">Nightclub Flyers</a></span></li>
+          <li><span><a href="/postcards.html" rel="follow">Postcards</a></span>
+                      </li>
+          <li><span><a href="/poster-printing.html" rel="follow">Posters</a></span>
+                      </li>          
+          <li><span><a href="/poster-signs-printing.html" rel="follow">Poster Signs</a></span></li>
+          <li><span><a href="/rack-cards-printing.html" rel="follow">Rack Cards</a></span></li>
+          <li><span><a href="/sales-sheet-printing.html" rel="follow">Sales Sheets</a></span></li>
+          <li><span><a href="/banner-printing.html" rel="follow">Vinyl Banners</a></span></li>
+          <li><span><a href="/wall-graphics.html" rel="follow">Wall Art</a></span>
+                      </li>
+          <li><span><a href="/window-cling.html" rel="follow">Window Clings</a></span></li>
+          <li><span><a href="/yard-signs.html" rel="follow">Yard Signs</a></span></li>
+          <li><span><a rel="follow" href="/custom-printing.html">UPage: Custom Size</a></span></li>
+          <li><span><a rel="follow" href="/uv-printing.html">UV Printing</a></span></li>
+        </ul>
+        <ul>
+          <!-- <li><span><a rel="nofollow" href="javascript:" onclick='parent.jQuery.colorbox({width:"650px", height:"450px",href:"/Order-by-Phone.html",iframe:true});'>Order by Phone</a></span></li> -->
+          <li><span><a href="/quotes_home.html" rel="follow">Custom Quote</a></span>
+          </li><li><span><a href="/bulk-mailing-services.html" rel="follow">Direct Mail</a></span>
+          </li><li><span><a href="/design-service.html" rel="follow">Design Service</a></span>
+          </li><li><span><a href="/live-chat.html" rel="nofollow" id="lc" class="cboxElement">Need Help Ordering?</a></span>
+        </li></ul>
       </div>
-    </td>
-  </tr>		
-  		
-</tbody></table>
-								</td>
-								<td width="80%" valign="top">
-																		<table width="100%" border="0" cellspacing="0" cellpadding="0">
-																														<tbody><tr>
-                                          <td align="left" background="includes/templates/uprinting/images/apr-b3.png"><img src="includes/templates/uprinting/images/apr-b1.png" width="10" height="32"></td>
-										  <td background="includes/templates/uprinting/images/apr-b3.png" nowrap="nowrap"><table border="0" cellspacing="0" cellpadding="0" width="100%">
-                                              <tbody><tr>
-                                                <td><div align="left"><img src="includes/templates/uprinting/images/mayBanner-r.png" border="0"></div></td>
-                                                <td><div align="right"><a href="http://www.uprinting.com/poster10"><img src="includes/templates/uprinting/images/mayBanner-l.png" border="0"></a></div></td>
-                                              </tr>
-                                          </tbody></table></td>
-										  <td align="right" background="includes/templates/uprinting/images/apr-b3.png"><div align="right"><img src="includes/templates/uprinting/images/apr-b5.png" width="15" height="32"></div></td>
-									  </tr>
-									  																					<tr>
-											<td width="15" background="includes/templates/uprinting/images/nup-gray-brdr-lbg.gif"><img src="includes/templates/uprinting/images/nup-gray-brdr-lbg.gif" width="15" height="15"></td>
-											<td bgcolor="#ffffff" style="padding-top:15px;"><style>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">	                
+jQuery("#lc").colorbox({width:"500px", height:"450px",iframe:true,scrolling: false });
+</script> 						<!--right panel-->
+						<div class="rightpanel">
+							<div class="rightpanel-topbluestrip"><img src="/site/images/bg-rightpanel-top-bar-ver2.png" width="790" height="10"></div>
+							<div class="rightpanel-w">
+								<div class="rightpanel-w-ins">
+									<div class="main-page-content">
+										<div class="wrap">
+<div id="main2"><style type="text/css">
 table, tr, td, th {
 	color:#000000;
 	font-family:Verdana, Arial, Helvetica, sans-serif;
@@ -844,233 +220,231 @@ table, tr, td, th {
 	text-align:justify;
 }
 </style>
-<br>
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tbody><tr>
-    <td>
-			<strong>PRIVACY POLICY</strong><br><br>
+<div class="main-page-title">
+	<div class="left"><strong class="main-title-txt">Privacy Policy</strong></div></div>
+<div style="padding: 20px 30px; clear: both; line-height: normal;">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tbody>
+        <tr>
+            <td>
+            <p><strong>COMMITMENT TO PRIVACY</strong><br>
+            <br>
+            Digital Room, Inc. understands the importance of protecting the privacy of UPrinting.com users. The information collected on the UPrinting.com website is used to market and improve the services we and our subsidiaries offer, to improve the UPrinting.com web site content, and to contact you with updates to the web site or for other marketing purposes.<br>
+            <br>
+            Certain areas of UPrinting.com, including those areas used to make purchases, require registration and/or a password for access. Information obtained from registered users of these areas may also be used for UPrinting.com marketing purposes, and cookies may be used in those and other areas, as is described in this Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas. In addition, visitors to UPrinting.com will need to register for a UPrinting.com Login user ID and password to use many of the interactive features on UPrinting.com as well as to make a purchase or file an order from UPrinting.com. Log file data and other information gathered from registered users of UPrinting.com are used to improve the UPrinting.com customer experience.<br>
+            <br>
+            <strong>For more information on this Privacy Policy, please read below.</strong></p>
+            <ul>
+                <li>Visitor Information</li>
+                <li>Personal Information</li>
+                <li>Use of Personal Information</li>
+                <li>Cookies</li>
+                <li>Links</li>
+                <li>Security</li>
+                <li>Opt Out Options</li>
+                <li>How do I contact UPrinting.com</li>
+            </ul>
+            <strong>Visitor Information</strong><br>
+            <br>
+            The UPrinting.com web server uses an extended log file format which captures: date and time of visit, referring address (location from which a visitor comes to UPrinting.com), type of Internet browser, and visitor's IP address. (Each computer that connects to the Internet is assigned a unique number, an IP address, for identification purposes). The log file does not capture a visitor's email address.<br>
+            <br>
+            <strong>Personal Information</strong><br>
+            <br>
+            Certain areas of UPrinting.com ask for personal information. UPrinting.com uses this personal information to aid in presenting its customers with a better interactive experience and to facilitate the customer’s ability to make purchases and orders from the UPrinting.com website. To register for a login user ID, your name, address, email address, billing information, and business profile are requested. This information is collected to help us further develop our services, to provide you access to valuable UPrinting.com Internet-based information and services, and to facilitate the billing process for those services if you elect to use them. Customers will have the ability to access and change the information which they have provided to UPrinting.com by use of the appropriate features on the UPrinting.com website.<br>
+            <br>
+            <strong>Use of Personal Information</strong><br>
+            <br>
+            The information collected through this site helps us identify the type of web site content that our customers value, allowing us to market and improve the web site and our services. The information is also used to send email notifications to customers about updates to the web site, and to contact customers by other means for marketing and other purposes. Our policy is to not give, sell or otherwise distribute the information collected through this site to third parties outside of Digital Room, Inc. and its subsidiaries (unless required by law); provided, however, in some cases we may use suppliers to assist us in collecting, using or otherwise processing for our benefit the information obtained through this site. UPrinting.com does use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. Our practice is to require our suppliers and vendors to conduct themselves in a manner consistent with this policy and our requirements.<br>
+            <br>
+            <strong>Information From Third Parties</strong><br>
+            <br>
+            If necessary, UPrinting.com obtains consumer information from third-party providers in order to improve the accuracy of our customer database and to increase our understanding of our customers or to identify potential customers. For example, we get updated addresses from the National Change of Address (NCOA) service to assist us in having the correct addresses for our customers.<br>
+            <br>
+            <strong>Cookies</strong><br>
+            <br>
+            A cookie is a series of data characters that, when programmed into a web site, is placed by the web server into the browser's application folder on your computer. Once placed onto your machine, the cookie will allow the web site to "recognize" you as a unique individual. UPrinting.com uses these Coolies to personalize information for certain segments of its customer base. Secondly, in some instances, cookies are used to allow UPrinting.com the opportunity to associate individual customers with their information profiles. For example, through the use of cookies, UPrinting.com can "remember" your user ID when you login to UPrinting.com on your computer. Should you choose to do so, cookies can be removed from your hard drive and certain web browsers can be set so that cookies are not used or saved. Please check with your browser provider for more information on removing cookies.<br>
+            <br>
+            <strong>Links</strong><br>
+            <br>
+            Our sites may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware of this fact when they leave our site and to read the privacy statements of each and every Web site that they visit which collects personally-identifiable information. This privacy statement applies solely to information collected by this web site.<br>
+            <br>
+            <strong>Security</strong><br>
+            <br>
+            For the safety of our customers who are shopping online, UPrinting.com always has security measures in place to protect customer information. UPrinting.com takes all reasonable precautions to protect against the loss, misuse and unauthorized access of your personal information under our control. Because the security of your personal information is a high priority, we have taken numerous steps to ensure that it is processed confidentially, accurately and securely. The UPrinting.com web site uses encryption technology, such as Secure Socket Layer (SSL) technology, which is supported by the vast majority of modern Internet browsers. SSL technology represents the highest level of security available on the Internet, automatically encrypting information traveling over the Internet, verifying the identity of the transacting servers through certificates and digital signatures, and confirming that the integrity of the message content is maintained throughout its transmission. UPrinting.com cannot ensure or warrant the security of any information you transmit to us by e-mail, and you do so at your own risk.<br>
+            <br>
+            <strong>Opt Out Options</strong><br>
+            <br>
+            UPrinting.com allows customers the option to opt-out of marketing communications upon request. Once we receive your information, we may send you marketing communications that contain valuable offers, promotions and other content. However, users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by following the directions contained in the communication. All marketing communications from UPrinting.com will tell you how to stop receiving them. In addition, you can opt out of receiving further marketing communications from UPrinting.com by the use of the Unsubscribe page on the UPrinting.com website.<br>
+            <br>
+            <strong>How do I contact UPrinting.com?</strong><br>
+            <br>
+            Our postal address is:<br>
+            UPrinting.com<br>
+            Digital Room, Inc.<br>
+            8000 Haskell Avenue<br>
+						Van Nuys, CA 91406<br>
+            <br>
+            We can be reached via email at <a href="mailto:info@uprinting.com">info@uprinting.com</a> or by telephone at 888-888-4211.<br>
+            <br>
+            Digital Room, Inc. reserves the right to amend this Privacy Policy at any time with or without notice. Please check back frequently in the event of changes.<br>
+            <br>
+            Your use of UPrinting.com constitutes your agreement to this Privacy Policy.<br>
+            <br>
+            <p></p></td>
+        </tr>
+    </tbody>
+</table></div></div></div>									</div>
+								</div>
+							</div>
+						</div>
+        </div>
+        <script>
+					jQuery("#ffr").colorbox({width:"860px", height:"550px"});
+					jQuery("#nospam").colorbox({width:"500px", height:"400px", iframe:true});
+					jQuery("#optout").colorbox({width:"680px", height:"350px", iframe:true});
+					//jQuery("#octool").colorbox({width:"1024px", height:"950px"});
+				</script>
+				<div class="frame-curve">
+					<div class="leftpanel">
+						<div class="bottom-curve">
+							<div class="bottom-curve-l"></div>
+							<div class="bottom-curve-m"></div>
+							<div class="bottom-curve-r"></div>
+						</div>
+					</div>
+					<div class="rightpanel">
+						<div class="bottom-curve">
+							<div class="bottom-curve-l"></div>
+							<div class="bottom-curve-m"></div>
+							<div class="bottom-curve-r"></div>
+						</div>
+				</div>
 			
-			COMMITMENT TO PRIVACY<br><br>
-			
-			Digital Room, Inc. understands the importance of protecting the privacy of UPrinting.com users. The information collected on the UPrinting.com website is used to market and improve the services we and our subsidiaries offer, to improve the UPrinting.com web site content, and to contact you with updates to the web site or for other marketing purposes.<br><br>
-			
-			Certain areas of UPrinting.com, including those areas used to make purchases, require registration and/or a password for access. Information obtained from registered users of these areas may also be used for UPrinting.com marketing purposes, and cookies may be used in those and other areas, as is described in this Policy. Information obtained in these areas may also be used in accordance with agreements governing access to and use of the specific areas. In addition, visitors to UPrinting.com will need to register for a UPrinting.com Login user ID and password to use many of the interactive features on UPrinting.com as well as to make a purchase or file an order from UPrinting.com. Log file data and other information gathered from registered users of UPrinting.com are used to improve the UPrinting.com customer experience.<br><br>
-			
-			<strong>For more information on this Privacy Policy, please read below.</strong>
-			<ul>
-			<li>Visitor Information</li>
-			<li>Personal Information</li>
-			<li>Use of Personal Information</li>
-			<li>Cookies</li>
-			<li>Links</li>
-			<li>Security</li>
-			<li>Opt Out Options</li>
-			<li>How do I contact UPrinting.com</li>
-			</ul>
-			
-			<strong>Visitor Information</strong><br><br>
-			
-			The UPrinting.com web server uses an extended log file format which captures: date and time of visit, referring address (location from which a visitor comes to UPrinting.com), type of Internet browser, and visitor's IP address. (Each computer that connects to the Internet is assigned a unique number, an IP address, for identification purposes). The log file does not capture a visitor's email address.<br><br>
-			
-			<strong>Personal Information</strong><br><br>
-			
-			Certain areas of UPrinting.com ask for personal information. UPrinting.com uses this personal information to aid in presenting its customers with a better interactive experience and to facilitate the customer’s ability to make purchases and orders from the UPrinting.com website. To register for a login user ID, your name, address, email address, billing information, and business profile are requested. This information is collected to help us further develop our services, to provide you access to valuable UPrinting.com Internet-based information and services, and to facilitate the billing process for those services if you elect to use them. Customers will have the ability to access and change the information which they have provided to UPrinting.com by use of the appropriate features on the UPrinting.com website.<br><br>
-			
-			<strong>Use of Personal Information</strong><br><br>
-			
-			The information collected through this site helps us identify the type of web site content that our customers value, allowing us to market and improve the web site and our services. The information is also used to send email notifications to customers about updates to the web site, and to contact customers by other means for marketing and other purposes. Our policy is to not give, sell or otherwise distribute the information collected through this site to third parties outside of Digital Room, Inc. and its subsidiaries (unless required by law); provided, however, in some cases we may use suppliers to assist us in collecting, using or otherwise processing for our benefit the information obtained through this site. UPrinting.com does use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. Our practice is to require our suppliers and vendors to conduct themselves in a manner consistent with this policy and our requirements.<br><br>
-			
-			<strong>Information From Third Parties</strong><br><br>
-			
-			If necessary, UPrinting.com obtains consumer information from third-party providers in order to improve the accuracy of our customer database and to increase our understanding of our customers or to identify potential customers. For example, we get updated addresses from the National Change of Address (NCOA) service to assist us in having the correct addresses for our customers.<br><br>
-			
-			<strong>Cookies</strong><br><br>
-			
-			A cookie is a series of data characters that, when programmed into a web site, is placed by the web server into the browser's application folder on your computer. Once placed onto your machine, the cookie will allow the web site to "recognize" you as a unique individual. UPrinting.com uses these Coolies to personalize information for certain segments of its customer base. Secondly, in some instances, cookies are used to allow UPrinting.com the opportunity to associate individual customers with their information profiles. For example, through the use of cookies, UPrinting.com can "remember" your user ID when you login to UPrinting.com on your computer. Should you choose to do so, cookies can be removed from your hard drive and certain web browsers can be set so that cookies are not used or saved. Please check with your browser provider for more information on removing cookies.<br><br>
-			
-			<strong>Links</strong><br><br>
-			
-			Our sites may contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware of this fact when they leave our site and to read the privacy statements of each and every Web site that they visit which collects personally-identifiable information. This privacy statement applies solely to information collected by this web site.<br><br>
-			
-			<strong>Security</strong><br><br>
-			
-			For the safety of our customers who are shopping online, UPrinting.com always has security measures in place to protect customer information. UPrinting.com takes all reasonable precautions to protect against the loss, misuse and unauthorized access of your personal information under our control. Because the security of your personal information is a high priority, we have taken numerous steps to ensure that it is processed confidentially, accurately and securely. The UPrinting.com web site uses encryption technology, such as Secure Socket Layer (SSL) technology, which is supported by the vast majority of modern Internet browsers. SSL technology represents the highest level of security available on the Internet, automatically encrypting information traveling over the Internet, verifying the identity of the transacting servers through certificates and digital signatures, and confirming that the integrity of the message content is maintained throughout its transmission. UPrinting.com cannot ensure or warrant the security of any information you transmit to us by e-mail, and you do so at your own risk.<br><br>
-			
-			<strong>Opt Out Options</strong><br><br>
-			
-			UPrinting.com allows customers the option to opt-out of marketing communications upon request. Once we receive your information, we may send you marketing communications that contain valuable offers, promotions and other content. However, users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by following the directions contained in the communication. All marketing communications from UPrinting.com will tell you how to stop receiving them. In addition, you can opt out of receiving further marketing communications from UPrinting.com by the use of the Unsubscribe page on the UPrinting.com website.<br><br>
-			
-			<strong>How do I contact UPrinting.com?</strong><br><br>
-			
-			Our postal address is:<br>
-			UPrinting.com<br>
-			Digital Room, Inc.<br>
-			10936 Santa Monica Blvd.<br>
-			Los Angeles, CA 90025<br><br>
-			
-			We can be reached via email at <a href="mailto:info@uprinting.com">info@uprinting.com</a> or by telephone at (888) 888-4211.<br><br>
-			
-			Digital Room, Inc. reserves the right to amend this Privacy Policy at any time with or without notice. Please check back frequently in the event of changes.<br><br>
-			
-			Your use of UPrinting.com constitutes your agreement to this Privacy Policy.<br><br>
-		</td>
-	</tr>
-</tbody></table></td>
-											<td width="15" background="includes/templates/uprinting/images/nup-gray-brdr-rbg.gif"><img src="includes/templates/uprinting/images/nup-gray-brdr-rbg.gif" width="15" height="15"></td>
-										</tr>
-										<tr>
-											<td><img src="includes/templates/uprinting/images/nup-gray-brdr-lleft.gif" width="15" height="15"></td>
-											<td background="includes/templates/uprinting/images/nup-gray-brdr-bbg.gif"><img src="includes/templates/uprinting/images/nup-gray-brdr-bbg.gif" width="15" height="15"></td>
-											<td><img src="includes/templates/uprinting/images/nup-gray-brdr-lright.gif" width="15" height="15"></td>
-										</tr>
-									</tbody></table>
-																	</td>
-							</tr>
-						</tbody></table>
-							
-					</td>		
-					<td background="includes/templates/uprinting/images/mainbg-right-bg.gif" bgcolor="#F2F2F2" width="15" style="background-repeat:repeat-y;" valign="top"><div align="right"><img src="includes/templates/uprinting/images/mainbg-right.gif"></div></td>					
-				</tr>
-				<tr bgcolor="#F2F2F2">
-					<td background="includes/templates/uprinting/images/mainbg-footer.gif"><div align="left"><img src="includes/templates/uprinting/images/mainbg-footer-left.gif"></div></td>
-					<td background="includes/templates/uprinting/images/mainbg-footer.gif" style="font-size:11px; text-align:center;"></td>
-					<td valign="bottom"><div align="right"><img src="includes/templates/uprinting/images/mainbg-footer-right.gif"></div></td>
-				</tr>
-			</tbody></table>
-		</td>
-  </tr>
-	<tr>
-		<td>&nbsp;</td>
-	</tr>
-  <tr>
-		<td>
-			<!-- footer begin -->
-			<script>
-function checkValues() {
-	var greatDealsPromo = document.singupPromosNewsletters.greatDealsPromo.checked;
-	var greatDealsNewsletter = document.singupPromosNewsletters.greatDealsNewsletter.checked;
-	var email = document.singupPromosNewsletters.emailAddress.value;
+<!-- LEFT UPDATED 1 --><!--footer UP2_FOOTER_SC_2 -->
+    <div class="footer">
+      <div class="footer-w">
+       
+        <div class="footer-mid">
+          <div class="footer-mid-w">
+            <div class="left">
+              <ul>
+                <li class="whitetitle"><strong>Company Info</strong></li>
+                <li><a rel="follow" href="http://www.uprinting.com/company.html">About Us</a></li>
+                <li><a rel="follow" href="http://www.uprinting.com/non-profit-sponsor-program/">UCommunity</a></li>
+                <li><a rel="follow" href="http://www.uprinting.com/careers.html">Careers</a></li>
+              </ul>
+              <ul>
+                <li class="whitetitle"><strong>Business Dev</strong></li>
+                <li><a rel="follow" href="http://www.uprinting.com/Affiliates.html">Affiliates</a></li>
+                <li><a rel="follow" href="http://www.uprinting.com/Resellers.html">Resellers</a></li>
+                              </ul>
+              <ul>
+                <li class="whitetitle"><strong>Help Center</strong></li>
+                <li><a rel="follow" href="http://www.uprinting.com/support.html">FAQ</a></li>
+                                <li><a rel="follow" href="http://www.uprinting.com/design-templates/">Print Designs</a></li>
+								<li><a rel="follow" href="http://www.uprinting.com/contact-us.html">Contact Us</a></li>
+              </ul>
+              <ul>
+                <li class="whitetitle"><strong>Shop With Confidence</strong></li>
+                                <li><a rel="nofollow" href="http://www.la.bbb.org/Business-Report/UPrintingcom-100102269">BBB Membership</a></li>               
+                <li><a rel="follow" href="http://www.uprinting.com/site-policies.html">Privacy Policy</a></li>               
+                <li><a rel="follow" href="http://www.uprinting.com/reviews/">Customer Reviews</a></li>
+                              </ul>
+                          </div>
+
+            <div class="right fbfooter w47p">
+                        	<ul>
+                    <li><strong>Have Questions?</strong></li>
+                	<li><strong class="f_num">Call 1-888-888-4211</strong></li>
+                </ul>
+                <div class="right homepage-contright-blk-rev1"> <strong>Get Latest Promos and Deals</strong>
+                <div style="display:none">
+                    <div style="width: auto;" id="subscribe_msg">
+                        <p>Thank you for subscribing to our email list. You will receive your first email shortly.</p>
+
+
+                        <div style="width: 120px; margin: 20px auto;">
+                            <a style="margin-top: 0px;" href="javascript:parent.jQuery.colorbox.close();" class="greenbtn"><span><span>OK</span></span></a>
+                        </div>
+                    </div>
+                </div>
+
+                  <div style="display:none">
+                     <div id="email_error" style="padding:10px; background:#fff; text-align:center">
+                       Please provide a valid email address.
+                     </div>
+                  </div>
+                  <div class="homepage-contright-newsletter-rev2">
+                    <span>
+                        <input type="image" src="/site/images/bg-homepage-newsletter-btn-rev1.png" style="border:none" name="signupButton" id="subscribe" onclick="return checkValuesRev1(); return false;">
+                        <input maxlength="50" type="text" size="20" name="emailAddressRev1" id="emailAddressRev1" class="w166">
+                    </span>
+                    <ul>
+                      <li><a href="/privacy-policy.html" class="zerospampol cboxElement">Zero Spam Policy</a></li>
+                      <li><a class="opt cboxElement" href="/unsubscribe.html">Opt-out Request</a></li>
+                    </ul>
+                  </div>
+                </div>
+                        </div>
+
+          </div>
+        </div>
+        
+      </div>
+    </div>
+<div class="f_cards">
+<img src="/site/images/footer-cc.png"><br><br>
+<span>Copyright © 2000-2011 UPrinting.com. All Rights Reserved.</span>
+<span><a rel="follow" href="http://www.uprinting.com/Terms.html">Terms of Services</a> | <a rel="follow" href="http://www.uprinting.com/sitemap.html">Sitemap</a></span>
+</div>
+ <script>
+	jQuery(".zerospampol").colorbox({width:"500px", height:"400px", iframe:true});
+	jQuery(".opt").colorbox({width:"630px", height:"250px", iframe:true, scrolling:false});
 	
-	var $errorFlag = false;
-	var	$errorMsg = '';	
-	
-	if(greatDealsPromo==false && greatDealsNewsletter==false) {
-		$errorFlag = true;
-		$errorMsg += 'Please select which newsletter you would like to subscribe\n';	
+if(typeof(checkValuesRev1) == 'undefined'){	
+	function checkValuesRev1() {
+		//var email = document.singupPromosNewsletters.emailAddress.value;		
+		var email = document.getElementById('emailAddressRev1').value;		
+		var $errorFlag = false;
+		var	$errorMsg = '';	
+		
+		//document.getElementById('res_msg').innerHTML = '';
+		if(!email || (email && !isValidEmail(document.getElementById('emailAddressRev1')))){
+			$errorFlag = true;
+			$errorMsg += 'Please provide a valid email address.';
+		}else{
+		  //var _form = document.getElementById('singupPromosNewslettersRev1');
+		  ajaxCall('/customer/newsletter/call/process/signupNewsletter/emailAddress/' + email ,null);
+			parent.jQuery.colorbox({width:"450px", height:"210px", inline:true,href:"#subscribe_msg",iframe:true, scrolling:false});
+		document.getElementById('emailAddressRev1').value = '';
 	}
-	
-	if(!email) {
-		$errorFlag = true;
-		$errorMsg += 'Please provide your email address\n';	
+		
+		if($errorFlag==true) {
+			parent.jQuery.colorbox({width:"500px", inline:true, href:"#email_error"});
+			return false;
+		} else {
+			return true;
+		}
 	}
-	
-	if(email && !isValidEmail(document.singupPromosNewsletters.emailAddress)){
-		$errorFlag = true;
-		$errorMsg += 'Please provide a valid email address.\n';
-	}
-	
-	if($errorFlag==true) {
-		alert($errorMsg);
-		return false;
-	} else {
-		return true;
+}
+
+if(typeof(setTextValueRev1) == 'undefined'){
+	function setTextValueRev1(textVal){
+		if(textVal) {
+			document.getElementById('emailAddressRev1').value = textVal;
+		}else{
+			document.getElementById('emailAddressRev1').value = '';
+		}
 	}
 }
 </script>
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-	<tbody><tr>
-		<td width="0%" background="includes/templates/uprinting/images/footBackground.gif"><div align="left"><img src="includes/templates/uprinting/images/footLeft.gif" style="padding:0px; margin:0px;"></div></td>
-		<td width="100%" background="includes/templates/uprinting/images/footBackground.gif" bgcolor="#3366CC">
-			<table border="0" cellspacing="0" cellpadding="0" width="100%">
-				<tbody><tr>
-					<td width="60%" valign="top">
-						<form name="singupPromosNewsletters" method="post" action="/site-policies.html" style="padding:0px; margin:0px;">
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td class="whiteNav" colspan="2" valign="top"><strong>Get Deals and Marketing Tips!</strong></td>
-							</tr>
-							<tr>
-								<td width="1%"><input type="checkbox" name="greatDealsPromo" value="promos"></td>
-								<td width="99%" class="whiteNav">Offers &amp; Promos (2x a month)</td>
-							</tr>
-							<tr>
-								<td><input type="checkbox" name="greatDealsNewsletter" value="newsletter"></td>
-								<td class="whiteNav">Direct Marketing Newsletter (monthly)</td>
-							</tr>
-							<tr>
-								<td colspan="2">
-									<table align="left" border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td style="padding-left:5px;"><input type="text" name="emailAddress" class="blackSmall" value=""></td>
-											<td style="padding-left:20px;"><input type="image" name="signupButton" src="includes/templates/uprinting/images/fc-su.gif" onclick="return checkValues();"></td>
-																					</tr>
-									</tbody></table>
-								</td>
-							</tr>
-						</tbody></table>
-						</form>
-					</td>
-					<td width="40%" valign="top">
-						<table border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td valign="top" class="whiteNav" nowrap="nowrap">
-									<strong>Company Info</strong><br>
-									<a href="http://www.uprinting.com/company.html" class="whiteNav"><u class="whiteNav">About Us</u></a><br>
-									<a href="http://www.uprinting.com/contact_us.html" class="whiteNav"><u class="whiteNav">Contact Info</u></a><br>
-									<a href="http://www.uprinting.com/Utrade.html" class="whiteNav" rel="nofollow"><u class="whiteNav">Trade Program</u></a><br>
-									<form style="cursor:pointer;" method="post" onclick="this.submit();" action="http://www.uprinting.com/up_sitemap.html" class="whiteNav"><u class="whiteNav">Site Map</u></form>
-								</td>
-								<td width="20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-								<td valign="top" class="whiteNav" nowrap="nowrap">
-									<strong>Services</strong><br>
-									<a href="http://design.uprinting.com/index.php?p=udesignz&amp;site=up" class="whiteNav" rel="nofollow"><u class="whiteNav">U-Design Service</u></a><br>
-									<a href="http://www.uprinting.com/print/Postcards-Mailing.html" class="whiteNav" rel="nofollow"><u class="whiteNav">Mailing Services</u></a><br>
-									<a href="http://www.uprinting.com/print/Postcards-Mailing.html" class="whiteNav"><u class="whiteNav">List Services</u></a>
-								</td>
-								<td width="20px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-								<td valign="top" class="whiteNav" nowrap="nowrap">
-									<strong>Trust</strong><br>
-									<a href="http://www.uprinting.com/Trust.html" class="whiteNav" rel="nofollow"><u class="whiteNav">BBB Membership</u></a><br>
-									<a href="http://www.uprinting.com/Trust.html" class="whiteNav" rel="nofollow"><u class="whiteNav">Secure Checkout</u></a><br>
-									<a href="http://www.uprinting.com/site-policies.html" class="whiteNav"><u class="whiteNav">Privacy Policy</u></a><br>
-									<a href="http://www.uprinting.com/Terms.html" class="whiteNav"><u class="whiteNav">Terms of Services</u></a>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>					
-		<td width="0%" background="includes/templates/uprinting/images/footBackground.gif"><div align="right"><img src="includes/templates/uprinting/images/footRight.gif" style="padding:0px; margin:0px;"></div></td>
-	</tr>
-	<tr>
-		<td colspan="3">&nbsp;</td>
-	</tr>
-	<tr>
-		<td colspan="3" style="text-align:center;"><div align="center" style="font-weight:normal;"><img src="includes/templates/uprinting/images/uprinting-footer-logo.gif" align="middle" height="66" width="251"></div></td>
-	</tr>
-</tbody></table>
-	 		
-		
-			<!-- footer end -->
-		</td>
-	</tr>	
-</tbody></table>
+	</div>
 </div>
 
+<iframe src="http://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=1440" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-689551-12");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-
-
-
-</body></html>
+<script language="javascript" src="/js/ajax.js"></script>
+<script language="javascript" src="/js/JSON.js"></script>
+<script language="javascript" src="/js/preview.onload.js"></script>
+  
+</div></div></body></html>
