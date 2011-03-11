@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erecruit.com.au privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216195433id_/http%3A//erecruit.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erecruit.com.au privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311220939id_/http%3A//www.erecruit.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Mercury - Privacy Policy
 
@@ -63,7 +63,7 @@ Mercury is not responsible for the privacy policies or practices of any third pa
 
 If you have any questions about this privacy policy or Mercury's treatment of your personal information, please write to:
 
-  * by email to tori@mercury.com.au or
-  * by post to Mercury, 286 Albert Road, South Melbourne VIC 3205
+  * by email to [john@mercury.com.au](mailto:john@mercury.com.au) or
+  * by post to Mercury, Suite 303/120 Bay Street, Port Melbourne, VIC, 3205
 
 
