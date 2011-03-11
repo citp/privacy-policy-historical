@@ -1,62 +1,136 @@
-> *The following text is extracted and transformed from the pchonlinesurveys.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113012416id_/http%3A//www.pchonlinesurveys.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchonlinesurveys.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311213244id_/http%3A//www.pchonlinesurveys.com/ow/index.aspx%3FChapterId%3D13075) for the most accurate reproduction.*
 
-# PCHOnlineSurveys
+# PCH
 
-###  Privacy Policy
+PCH Online Surveys Privacy Statement 
+
+**1.  Commitment; Applicability.**
+
+Publishers Clearing House (“PCH”) takes your privacy seriously. The PCH Online Surveys Privacy Statement (the “Privacy Statement”) applies to: (i) <http://www.pchonlinesurveys.com/> (the “Website”); (ii) all Personal Information (as defined herein) collected by, through, or in connection with the Website; and (iii) all Personal Information collected or received as a result of or in connection with any survey offered, made available, or provided via the Website. The site may be accessible through means including, but not limited to, email, search, and online advertisement. 
+
+PCH has engaged Survey Sampling International, LLC (“SSI”) to host and manage the Website and to provide the individuals who register with the Website (“Panelists”) with an opportunity to participate in surveys from our clients, customers, or partners (“Clients”). During the course of this engagement, SSI will have access to and will use Information (as defined herein) subject to a contractual agreement between SSI and PCH and this Privacy Statement. SSI shares PCH’s commitment to protecting your privacy. 
+
+SSI is a global provider of sampling solutions for survey research, providing clients with access to consumer and business-to-business respondents via internet, telephone (both fixed/landline and wireless/mobile), postal, and multi-mode methodologies. SSI serves a vast array of for-profit and not-for profit businesses, universities, and governmental agencies and departments.
+
+We strive to conform our privacy practices with applicable Federal, state and local laws, codes, and regulations; and applicable industry codes, standards, rules, and regulations of various market and opinion research professional associations, including, without limitation, the Code of Standards and Ethics for Survey Research of the Council of American Survey Research Organizations (collectively "Applicable Laws and Codes").
+
+All references in this Privacy Statement to “we,” “us,” or “our” refer to pchonlinesurveys.com and SSI. All references in this Privacy Statement to “you” or “your” refer to each individual whose Information is subject to and covered by this Privacy Statement, including, without limitation, each Panelist.
+
+**2.  Definitions; Collection of Information.**
+
+For the purpose of this Privacy Statement, please see the following defined terms: 
+
+(i) "Personal Information" includes, without limitation, first name or first initial and last name, residential address, email address, and telephone number(s) (home and/or cell).
+
+(ii) “Demographic Information” includes, without limitation, gender, marital status, income range, employment status, hobbies, interests and product ownership.
+
+(iii) “Information” means Personal Information and Demographic Information.
+
+(iv) “Survey Data” means data and information collected or received in connection with a survey. 
+
+We collect Information in several ways. We collect Information when you register. For example, during registration, you are required to provide a unique email address and password. We also may collect Information during a survey.  
+
+We may collect the Internet Protocol (“IP”) Address that is publicly available on your computer. The IP Address is not collected for the purpose of tracking or monitoring online activity. We collect, use, maintain, secure, and disclose IP Addresses in accordance with Applicable Laws and Codes.
+
+**3.  Invite-A-Friend Program.**
+
+If you choose to use our Invite-A-Friend program, we ask for your friend’s e-mail address and we send your friend a one-time e-mail inviting the friend to visit the Website. Your friend’s e-mail address is stored for the sole purpose of sending the e-mail invitation and tracking the success of the Invite-A-Friend program. 
+
+Your friend may contact us at [helpdesk@pchonlinesurveys.com](mailto:helpdesk@pchonlinesurveys.com) to request the removal of the friend’s e-mail address from our database. The e-mail should include the friend’s e-mail address and the words “remove me” either in the subject line or body of the e-mail.
+
+**4.  Uses of Information.**
+
+Subject to your opt-in consent, PCH and pchonlinesurveys.com may use Information collected on the Website for the purpose of sending direct marketing communications for goods and/or services of pchonlinesurveys.com and/or the partners of pchonlinesurveys.com. The foregoing direct marketing activities are separate from any survey or study offered, made available, or provided via the Website and are separate from any activity performed or to be performed by SSI. SSI will not disclose or reveal information or data from survey responses to PCH, pchonlinesurveys.com and/or to the partners of pchonlinesurveys.com for any purpose or reason. 
+
+In addition to the use set forth in the paragraph above, the Information collected in connection with the Website and with surveys offered, made available, or provided via the Website is used to: (i) communicate with you regarding your membership with this Website and regarding survey participation; (ii) to tailor survey opportunities to you; and (iii) to comply with legal obligations, including, without limitation, taxation requirements for incentive or reward fulfillment. 
+
+Our primary means of communication with you is via e-mail. By disclosing your e-mail address you hereby expressly consent to receive e-mail communications, including, without limitation, survey invitations, promotion or incentive information, and notices required hereunder, from SSI, PCH and/or Subcontractors (as defined herein). We do not send unsolicited commercial e-mails. You may unsubscribe from our emails at any time by using the link in any of our emails. 
+
+**5.  Onward Transfers and Disclosures of Personal Information.**
+
+Generally, we provide Survey Data to Clients in aggregate form, which does not permit the identification of individual respondents. We may allow Clients to collect or receive Personal Information directly from Panelists in connection with a survey; however, the disclosure of Personal Information by respondents is strictly voluntary and, prior to collection, we require Clients to enter into a written agreement restricting the use of, and protecting the security and confidentiality of, Personal Information.
+
+We do not disclose or transfer Personal Information to any third party or third parties, without your prior express written consent, except as follows:
+
+(i) As required pursuant to Applicable Laws and Codes; or a valid court or governmental subpoena.
+
+(ii) To protect the safety of an individual or to protect our rights and/or property. 
+
+(iii) Between SSI and PCH.
+
+(iv) To authorized agents, consultants, vendors, and/or subcontractors who are providing certain services to PCH, SSI, and/or to Clients, including, without limitation, data append services, data validation services, and incentive fulfillment and sweepstakes related services (individually a “Subcontractor” and collectively the “Subcontractors”). Prior to such disclosure, we require a Subcontractor to enter into a written agreement restricting the permitted use of, and protecting the security and confidentiality of, Personal Information. Please contact us if you have any questions or concerns regarding our processing activities.
+
+(v) To a Client for limited research purposes including modeling, survey validation, data append, or database segmentation. Prior to such disclosure we require the Client to enter into a written agreement restricting the permitted use of, and protecting the security and confidentiality of, the disclosed Personal Information. 
+
+(vi) In the event of a merger or an acquisition, or a sale of any or all of PCH’s or SSI’s business assets, or any other transaction resulting in a transfer of a majority ownership interest in or to SSI or PCH (“Business Transaction”). In the event of a Business Transaction, which includes the transfer of Personal Information, PCH or SSI shall require the other party (e.g. the surviving entity in a merger; the acquirer in an acquisition; or the transferee in a transfer of ownership) to agree in writing to protect and maintain the security and integrity of Personal Information in accordance with this Privacy Statement.
+
+(vii) As otherwise permitted pursuant to this Privacy Statement.
+
+By registering with the Website, or participating in a survey, or otherwise disclosing Personal Information to us, you hereby expressly consent to the transfers or disclosures set forth in this Section 5.
+
+**6.  Data Security.**
+
+We maintain commercially reasonable technical, administrative, and physical safeguards to protect and secure Personal Information. We review, monitor, and evaluate our privacy practices and protection systems on a regular basis. If you submit sensitive Personal Information (e.g. credit card number(s), social security number, or national ID) via an online registration or web form, we use commercially reasonable encryption methods (e.g. secure socket layer technology, etc.) to protect and secure the sensitive Personal Information. 
+
+**7.  Cookies; Online Tracking Programs; Log Files.**
+
+A. Online Behavioral Advertising. PCH and pchonlinesurveys.com may use online behavioral advertising in response to your actions on the Website or other sites but will never do so without providing you with: (i) written notice about PCH’s and pchonlinesurveys.com’s online behavioral advertising program and (ii) the opportunity to opt-in to participation in such program. If you opt-in, the ad network partners of PCH and pchonlinesurveys.com may use your activity to help choose ads you see on the Website and at other sites. All online behavioral advertising shall be conducted in accordance with the online behavioral advertising principles issued by the United States Federal Trade Commission. The online behavioral advertising program is separate from any survey or study offered, made available, or provided via the Website and is separate from any activity performed, or to be performed, by SSI    
+
+**B.  Cookies. **
+
+(1) Our Use of Cookies. Cookies are small text files stored on a computer by a website that assign a numerical user ID and stores certain information about the browsing of the computer user. We use session and persistent cookies to make it easier for you to navigate the Website; to provide a better experience for individuals participating in surveys; and for quality control and validation purposes. Session cookies expire when you close your browser. Persistent cookies remain on your computer, indefinitely, until deleted. No Personal Information is stored within, or collected by, any cookies.  You may disable and/or delete cookies via your browser settings; however, this may: (i) decrease the functionality of the websites you visit; (ii) limit your ability to use and view the Website; and (iii) limit the number of surveys for which you may be eligible. 
+
+(2) Third Party Cookies. This Privacy Statement does not cover the use of cookies by our affiliates, partners, Subcontractors, and/or Clients. We do not have control over, and are not responsible for, the policies and practices of such parties. 
 
   
-**1\. What personally identifiable information is collected from me?**
+C. Online Tracking Programs. From time-to-time, a Client may conduct a program designed to track the online activities of individuals to determine the effectiveness of online advertising and other online campaigns. In connection with such program, we may recruit Panelists to participate in the program. Participation is strictly voluntary. The tracking cookies are third party cookies. These tracking programs are not connected with online behavioral advertising program discussed in Section 7A, above, and the information and data collected in connection with such tracking programs shall not be used to directly target online advertising to participants.
 
-Clear Voice Surveys collects information in several ways from different parts of our website. Some personal information is gathered when you register. During registration, Clear Voice Surveys requires a unique email address and private password. We may also ask you to voluntarily provide us with information regarding your personal or professional interests so we may target the surveys you receive and contact preferences. Wherever Clear Voice Surveys collects personal information, we make an effort to include a link to this Privacy Policy on that page.
+Generally, an online tracking program works as follows: (i) we invite Panelists to participate in the program; (ii) the potential participants receive notice on how the program operates; (iii) if an individual agrees to participate in the program, a third party tracking cookie is placed or dropped onto the individual’s web browser; (iv) the Client or its subcontractor or agent (not us) inserts a tag into an online advertisement or campaign; (v) when the participant clicks on or views the online advertisement or campaign, a code within the tracking cookie communicates with the tag and sends certain information (not Personal Information) to the Client or its subcontractor or agent (not us); and (vi) we receive the unique identification number assigned to the respondent and send the respondent a survey related to or about the online advertisement or campaign viewed or clicked on by such respondent. 
 
-**2\. What are cookies and how are they used by** **Clear Voice Surveys?**
+D. Log Files. The Website automatically gathers certain information and stores this information in log files. This gathered information includes data available from a user’s web browser, including, without limitation, IP Address, browser type, internet service provider, referring/exiting pages, operating system, date/time stamp, and click stream data. 
 
-Clear Voice Surveys may place Internet cookies on your hard drive. Internet cookies are small files that may be placed on your hard disk for record-keeping purposes. Cookies are used to (a) remind us of who you are in order to deliver you better service; (b) estimate our audience size by determining repeat usage of the Web site to help target advertisements based on user interests and behavior; (c) track your progress in surveys; and (d) measure certain traffic patterns for use as a research tool to understand how our users' habits are similar or different from one another. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. By not accepting cookies, some Web pages may not display properly or you may not be permitted to access certain information.
+By registering with the Website, by accessing the Website, or by participating in a survey, you hereby consent to our use of cookies and log files as set forth in this Section 7.
 
-Clear Voice Surveys also collects IP addresses (the Internet address of a computer) to track a user's session while the user remains anonymous. We analyze this data for certain trends in statistics, such as which parts of our site users are visiting and how long they spend there. In those limited cases where session information is not anonymous, Clear Voice Surveys will provide notice of the practice and an opportunity to "opt out".
+**8.  Digital Fingerprinting; Data Validation.**
 
-Research companies that you may take surveys with through Clear Voice Surveys may also use their own cookies. The content of such cookies and the use of the information they contain is controlled by the individual research companies, not by Clear Voice Surveys.
+A. Digital Fingerprinting. In general, digital fingerprinting technologies assign a unique identifier to a user’s computer to identify and track the computer. We use digital fingerprinting technology (the “Technology”) to ensure the integrity of survey results by identifying duplicate and fraudulent respondents. We may engage a third party or third parties to assist in the implementation and use of the Technology. The Technology analyzes publicly available information and data obtained from a computer’s web browser and from other publicly available data points, including, without limitation, the technical settings of the computer, the characteristics of the computer, and the computer’s IP Address, to create a unique identifier assigned to the computer. The unique identifier is an alpha-numeric id. 
 
-**3\. How is my information used?**
+We use commercially reasonable efforts to ensure that the Technology is safe, secure, and does not cause undue privacy or data security risks. We use and distribute the Technology in a professional and ethical manner and in accordance with: (i) this Privacy Statement and (ii) Applicable Laws and Codes. 
 
-Clear Voice Surveys will not sell, rent, or lease your personally identifiable information to others without your consent. The information you provide will be used to support your relationship with Clear Voice Surveys. Your information may be shared with agents, contractors, or business partners for the purpose of performing services for Clear Voice Surveys.
+If we discover or learn of any illegal or unethical conduct in connection with the use of the Technology, or that the use of the Technology is inconsistent with the statements and/or disclosures made hereunder, we shall take immediate action to prohibit such conduct and to ensure the proper use and administration of the Technology. 
 
-We want to help you quickly find information on Clear Voice Surveys and alert you to specific surveys, updated information, and other new opportunities from Clear Voice Surveys. Accordingly, we may send you direct mailings, or contact you by telephone about our various surveys and other opportunities we feel may be of interest to you. If you do not want to receive such mailings, simply "opt-out" by the means provided for in the mailings or by clicking [Contact Us](http://www.clearvoicesurveys.com/Contact.aspx).
+B. Data Validation. From time-to-time, we may engage a third party or third parties to validate Panelists. The purpose of the data validation is to ensure the integrity of survey results. Validation occurs during or after registration, or prior to, during, or after participation in a survey. The data validation process involves: (i) the disclosure or transfer of Personal Information to a Subcontractor, (ii) the Subcontractor’s performance of data validation services, and (iii) the Subcontractor returns the Personal Information with any updates or corrections and with a validation score, to us. If Personal Information is not validated to our satisfaction, we reserve the right to reject, deny, or terminate registration, or to deny or reject survey participation.
 
-Clear Voice Surveys does research on our users' demographics, interests, and behavior based on the information provided to us during your use of the Clear Voice Surveys Web site. This research is compiled and analyzed on an aggregated basis. Aggregated data does not include personally identifiable information. Clear Voice Surveys may share this aggregated data with others.
+**9.  Privacy Protection for Children.**
 
-**4\. Who is collecting my information?**
+Registration with the Website is currently only available to individuals who are thirteen (13) years of age or older. We may wish to conduct surveys involving persons under thirteen (13) years of age, in which case we will contact such children through their parents or guardians who have registered with the Website. We do not knowingly collect Personal Information from individuals under thirteen (13) years of age without prior parental consent. For surveys involving individuals between the ages of thirteen (13) and seventeen (17) years of age, we carefully consider both privacy issues and parental concerns when contacting such persons for survey participation. Parents and guardians are encouraged to contact us about this Privacy Statement and to discuss their rights to access, edit, or delete the Personal Information of their child or children. 
 
-When you are on the Clear Voice Surveys site and are asked for personal information, you are sharing that information with Clear Voice Surveys alone, unless specifically stated otherwise. If data is being collected and/or maintained by any company other than Clear Voice Surveys, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not participating in that particular survey.
+**10.  Third Party Links/Opportunities.**
 
-Please also be aware that Clear Voice Surveys research partners that have links on our site may collect personally identifiable information about you. The information practices of those Web sites linked to Clear Voice Surveys either through advertisements or other hyperlinks are not covered by this privacy statement.
+From time-to-time we may provide you with the ability to voluntarily link or connect to websites maintained and/or operated by third parties (“Third Party Websites”). We neither endorse the Third Party Websites nor the products, services, surveys, and/or opportunities advertised, offered, and/or sold by, through or in connection with the Third Party Websites (“Third Party Content”). We are not responsible for the policies and/or practices of the Third Party Websites or for Third Party Content. We do not make any representations or warranties about the Third Party Websites and/or the Third Party Content. Please carefully review all policies, and terms and conditions applicable to the Third Party Websites and Third Party Content. 
 
-**5\. With whom does** **Clear Voice Surveys share my information?**
+**11.  Your Rights; Opt-Out; Enforcement.**
 
-Unless we have your permission or are required by law, we will only share the personal data you provide with other Clear Voice Surveys agents, contractors or our business partners for the purposes of performing services for Clear Voice Surveys. Clear Voice Surveys may share aggregated data with others. Aggregated data does not include personally identifiable information.
+A. Rights. You can access your Personal Information, correct any errors or mistakes in your Personal Information, update your Personal Information, or request the removal of your Personal Information by: (i) going to the Website, logging into your account, clicking on the “update account information” link and following the prompts; or (ii) by emailing us at [helpdesk@pchonlinesurveys.com](mailto:helpdesk@pchonlinesurveys.com). 
 
-Clear Voice Surveys may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Clear Voice Surveys' Terms of Use or may be causing injury to or interference with (either intentionally or unintentionally) Clear Voice Surveys' rights or property, other Clear Voice Surveys users, or anyone else that could be harmed by such activities. Clear Voice Surveys may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
+  
+B. Opt-Out. You can terminate your membership by: (i) going to the Website, logging into your account, clicking on the “update account information” link, and clicking on the “cancel my account” link; (ii) sending an email request to [helpdesk@pchonlinesurveys.com](mailto:helpdesk@pchonlinesurveys.com); or (iii) clicking on the unsubscribe link contained in a survey invitation and following the instructions on the opt-out web page. Upon receipt of the cancellation/opt-out request, we shall terminate your registration with the Website and deactivate your account and you should not receive any further survey invitations. Notwithstanding the foregoing, you may continue to receive communications and survey invitations for a few days following the cancellation/opt-out request, while we process your request. We reserve the right to retain your Personal Information for an indefinite period; however, any Personal Information shall continue to be subject to this Privacy Statement. 
 
-**6\. How do I access, update or delete my information?**
+C. Enforcement. We are committed to working with individuals to obtain a fair resolution to any complaints about this Privacy Statement. Please send complaints or questions regarding this Privacy Statement:
 
-You can request the individual information that Clear Voice Surveys has collected about you, correct factual inaccuracies in your information, remove personal information from Clear Voice Surveys’ data bases, and/or update your personal information by clicking [Contact Us](http://www.clearvoicesurveys.com/Contact.aspx) or updating your information on our website.
+via regular mail, postage prepaid, addressed to: or  via email to: [helpdesk@pchonlinesurveys.com](mailto:helpdesk@pchonlinesurveys.com)
 
-**7\. What does "opt-out" mean?**
+Survey Sampling International, LLC       
+6 Research Drive  
+Shelton, Connecticut 06484  
+Attn: Legal Department
 
-To "opt-out" means that you have notified Clear Voice Surveys that we no longer have permission to use your information for a particular purpose. For example, when we send you information on a new survey, you will be given the opportunity to "opt-out" of receiving such information in the future.
+When contacting us, please include your full name and specific information regarding your complaint or dispute.
 
-**8\. What else should I know about my privacy?**
+**12.  Agreement; Changes to Privacy Statement.**
 
-Third party Internet sites and services accessible through Clear Voice Surveys have separate privacy and data collection practices, independent of us. Clear Voice Surveys has no responsibility or liability for these independent policies or actions. Please be careful and responsible online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your information, Clear Voice Surveys cannot ensure or warrant the security of any information through the transmission process and you do so at your own risk. 
+By completing and submitting a registration form at the Website, you signify your agreement to, and acceptance of, this Privacy Statement. If you do not accept this Privacy Statement, please do not visit, and do not register with, the Website. We hereby reserve the right to make changes to this Privacy Statement, from time to time, and we shall post any changes on the homepage of the Website, and/or any other place we deem appropriate, for you to review on a regular basis. Your continued membership, participation in surveys, visitation to the Website, or continued disclosure of Personal Information after changes to this Privacy Statement, constitutes your acceptance of, and agreement to be bound by, this Privacy Statement, as amended.  If we make material changes to this Privacy Statement, we shall notify you in this Privacy Statement, by e-mail, and/or by posting notice on the home page of the Website. 
 
-**9\. What about my children and their use of your Web site?**
+Please click [here](https://web.archive.org/web/20110311213244id_/http%3A//www.pchonlinesurveys.com/ow/index.aspx?ChapterID=13075) for the most recent prior version of this Privacy Statement.
 
-Our Website is currently available only to persons Thirteen years of age or older. We do not collect user information from any visitors indicating they are under thirteen years of age.
-
-**10\. How can this policy be changed?**
-
-If we wish to change this policy, we will publish the changes on this website at least 30 days before those changes take effect. We will also notify registered users of changes to this policy by electronic mail. As always, if you do not agree with any changes to our privacy policy, you have the option of requesting that we delete your personally identifiable information from the site.
-
-**11\. Additional Questions**
-
-Questions regarding this privacy statement should be directed to Clear Voice Surveys using [Contact Us](http://www.clearvoicesurveys.com/Contact.aspx).
+Last Updated: November 30, 2010
