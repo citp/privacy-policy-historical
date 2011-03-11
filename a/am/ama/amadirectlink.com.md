@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the amadirectlink.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119082304id_/http%3A//amadirectlink.com/whatis/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amadirectlink.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311095415id_/http%3A//www.americanmotorcyclist.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# AMA Privacy Policy
+# PrivacyPolicy
 
-This document was last updated on September 3, 2008
+* * *
 
 The American Motorcyclist Association (AMA) understands how valuable privacy is to our members and site visitors. This Privacy Policy explains how the AMA collects and uses personal information and how you can make your privacy preferences known.
 
-### **Which sites are covered by this privacy policy?**
+## **Which sites are covered by this privacy policy?**
+
+* * *
 
 This privacy policy applies to the following AMA sites:
 
@@ -15,7 +17,9 @@ This privacy policy applies to the following AMA sites:
 
 
 
-### **What personal information do we collect?**
+## **What personal information do we collect?**
+
+* * *
 
 **Accessing content on AmericanMotorcyclist  
 **You can access our Web site’s homepage and browse all of our content, except that designated as “members-only,” without disclosing personal information. 
@@ -47,7 +51,9 @@ You can set your browser so that it will not accept cookies. Doing so, however, 
 **Non-US customer information  
 **The AMA’s Web sites are located in the United States and the AMA collects, stores and processes your personal information in the United States. The United States may not offer a level of privacy protection for your personal information as great as is offered in the country in which you live. 
 
-### How do we use your personal information?
+## How do we use your personal information?
+
+* * *
 
 Our primary purpose in using personal information we collect is to provide service for your AMA membership and provide you with products and services you request, such as gift shop purchases, e-mail newsletters, and access to members-only content on our Web site.
 
@@ -61,34 +67,40 @@ From time to time, if you instruct us to, we make our membership list available 
 **E-mail policy  
 **The AMA does not send unsolicited e-mails. If you have elected to receive one of our e-mail newsletters and do not wish to continue receiving it, simply unsubscribe using the instructions provided in the e-mail.
 
-### How to access and update your personal information
+## How to access and update your personal information
+
+* * *
 
 You can update your AMA membership information online (you will need your AMA membership number and ZIP code). You can also access and update your information by calling us at (800) AMA-JOIN, e-mailing us at [ama@ama-cycle.org](mailto:ama@ama-cycle.org) or writing to us at 13515 Yarmouth Dr., Pickerington, OH, 43147.
 
-### Security of personal and payment information
+## Security of personal and payment information
+
+* * *
 
 When we transfer and receive certain types of sensitive information such as financial information, we redirect you to a secure server running SSL encryption technology. We also have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-### How to contact us 
+## How to contact us 
+
+* * *
 
 We can be reached via e-mail at [ama@ama-cycle.org](mailto:ama@ama-cycle.org) or by telephone at (614) 856-1900.
 
-Our postal address is:
-
-American Motorcyclist Association  
+Our postal address is:  
+**American Motorcyclist Association**  
 13515 Yarmouth Dr.  
 Pickerington, OH, 43147 
 
-### Future changes
-
+**Future changes**  
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post those changes here.
 
-Glossary 
+## Glossary
 
-Browser – A program that allows a user to find, view, hear and interact with material on the World Wide Web. Mozilla Firefox and Microsoft Internet Explorer are examples of popular browsers. 
+* * *
 
-Cookies – Small text files that Web sites place in your computer to help your browser remember specific information. The AMA sites use cookies to record whether you have voted in one of our online polls and to verify that you are signed in to our members-only area. 
+**Browser** – A program that allows a user to find, view, hear and interact with material on the World Wide Web. Mozilla Firefox and Microsoft Internet Explorer are examples of popular browsers. ****
 
-IP Address – A unique number that specifically identifies each individual computer on the Internet. Depending on how your computer is connected to the Internet, it can either be a fixed set of numbers, or it can change each time you connect to your network or Internet service provider. 
+**Cookies** – Small text files that Web sites place in your computer to help your browser remember specific information. The AMA sites use cookies to record whether you have voted in one of our online polls and to verify that you are signed in to our members-only area. 
 
-SSL – Secured Sockets Layer is a protocol that transmits your communications over the Internet in an encrypted form. SSL ensures that the information is sent, unchanged, only to the server you intended to send it to.
+**IP Address** – A unique number that specifically identifies each individual computer on the Internet. Depending on how your computer is connected to the Internet, it can either be a fixed set of numbers, or it can change each time you connect to your network or Internet service provider. 
+
+**SSL** – Secured Sockets Layer is a protocol that transmits your communications over the Internet in an encrypted form. SSL ensures that the information is sent, unchanged, only to the server you intended to send it to.
