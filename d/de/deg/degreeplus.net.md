@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreeplus.net privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224224507id_/http%3A//degreeplus.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreeplus.net privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311112105id_/http%3A//degreeplus.net/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - DegreePlus.net
 
