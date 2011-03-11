@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styleseat.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119091145id_/http%3A//www.styleseat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleseat.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311031855id_/http%3A//www.styleseat.com/privacy) for the most accurate reproduction.*
 
 # Welcome to StyleSeat
 
