@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floweraura.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607151757id_/http%3A//www.floweraura.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floweraura.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311222453id_/http%3A//floweraura.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flower Aura
 
