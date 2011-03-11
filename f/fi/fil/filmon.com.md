@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the filmon.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212021454id_/http%3A//www.111pix.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmon.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311231235id_/http%3A//www.111pix.com/privacy_policy.html) for the most accurate reproduction.*
 
-# FilmOn Plc Content systems — Privacy Policy
-
-## Privacy Policy
+# FilmOn.com Corporate Site — Privacy Policy
 
 ### Our privacy practices
 
