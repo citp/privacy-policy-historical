@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startups.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201024654id_/http%3A//startups.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311180446id_/http%3A//startups.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Startups.com
 
