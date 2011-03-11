@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utshob.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906002815id_/http%3A//www.utshob.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utshob.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311072316id_/http%3A//utshob.com/index.php%3Fmain_page%3Dpage%26id%3D9) for the most accurate reproduction.*
 
-# Privacy Policy-utshob,Online Shopping Site,Shop Online for Fruit Baskets
+# UTSHOB
 
 WWW.UTSHOB.COM, recognizes and respects the importance of maintaining the privacy of our customers, registered members (Members) and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of: 
 
@@ -9,6 +9,8 @@ WWW.UTSHOB.COM, recognizes and respects the importance of maintaining the privac
   * how we collect it,
   * how we use it, and
   * the choices you have regarding our use of personal information you have provided.
+
+
 
 **Note:** You must be 18 years or older to use, subscribe or register as a member of WWW.UTSHOB.COM. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children. 
 
@@ -24,7 +26,10 @@ We collect information through our Web Site, emails, mail, fax, and telephone, i
   * participate in our forums, surveys, contests, sweepstakes, promotions, content submissions, chats, bulletin boards, discussion groups, requests for suggestions, and membership registrations, and
   * engage in other activities, services, products and resources we make accessible to our customers, members or users.
 
+
+
 Depending on how you interact with us, we collect some or all of the following types of information: 
+
   * your name, address, telephone number, email address,
   * billing information (credit card number, expiration date and billing address),
   * gender and birth date, if you choose to enter such information,
@@ -32,6 +37,8 @@ Depending on how you interact with us, we collect some or all of the following t
   * any promotion code and related information (for example, if you are claiming frequent flyer miles),
   * Message and gift recipients names, addresses, telephone numbers and email addresses, and
   * other information you provide to us, including User Submissions (defined in the Terms of Use).
+
+
 
 Information you provide to us may be collected by us even if an order, registration, or other process is started but not completed or otherwise cancelled. Members may also add to their Address Book the name, address and telephone number of friends or other persons to whom they may wish to send gifts or expressions. Only Members have the right to view and edit their Address Book entries. 
 
@@ -65,8 +72,8 @@ In addition, if you submit data to us about other individuals (such as your mess
 
 WWW.UTSHOB.COM wants you to be aware that when you click on links and/or ad banners that take you to affiliated or third-party web sites, you will be subject to the privacy policies and terms of use of those web sites, not ours. We encourage you to read the posted privacy statement and user terms whenever using, and prior to providing any personal information to, any other web site. 
 
-**Security and Passwords**   
-If you place an order on our Web site, it encrypts the credit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the Web Site is viewed using Microsoft\'s Internet Explorer or Netscape Navigator. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive. 
+**Security and Passwords**  
+If you place an order on our Web site, it encrypts the credit card number you submit prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the Web Site is viewed using Microsoft's Internet Explorer or Netscape Navigator. However, no transmission of data over the Internet or any other network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard personal information once we receive it, we cannot warrant the security of information we receive. 
 
 Portions of the Web Site (such as our Member registration and Address Book) may require registration and log-in processes in which you will select a user ID and password (collectively, the Password). Passwords provided to you by us are the confidential property of the Company and may be used by you solely for your individual use of the Web Site (and otherwise as specified by us). You are responsible for maintaining the confidentiality of any Password and for all activities that occur using your Password, whether or not authorized by you. You agree to immediately notify us of any unauthorized use of your Password or accounts. 
 
