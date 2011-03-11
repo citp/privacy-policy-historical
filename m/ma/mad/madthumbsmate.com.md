@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madthumbsmate.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106221516id_/http%3A//www.madthumbsmate.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madthumbsmate.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311121404id_/http%3A//www.madthumbsmate.com/privacy.html%3F) for the most accurate reproduction.*
 
 # MadThumbsMate - Privacy
 
