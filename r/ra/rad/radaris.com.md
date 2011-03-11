@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the radaris.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129111701id_/http%3A//radaris.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radaris.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311181743id_/http%3A//radaris.com/page/privacy) for the most accurate reproduction.*
 
 # Radaris: Radaris Privacy Policy
+
+**RADARIS PRIVACY POLICY:**
 
 Radaris has developed this privacy policy in order to demonstrate our commitment to maintaining the privacy of the information that you provide when using Radaris's application. Our site also uses data from publicly accessible sources like telephone directories. As a consumer, you have the ability to make certain choices on the Radaris website that will govern how Radaris will handle your personal information and provide you with control over how Radaris shares that information. We encourage users to register on Radaris and take control of their online public profile. 
 
