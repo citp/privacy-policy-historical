@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the uprinting.com privacy policy that was archived on 2008-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080518005556id_/http%3A//www.uprinting.com/site-policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uprinting.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311101746id_/http%3A//www.uprinting.com/site-policies.html) for the most accurate reproduction.*
 
-# Full Color Printing Company - U Printing
+# UPrinting | Privacy Policy
 
-**PRIVACY POLICY**
-
-COMMITMENT TO PRIVACY
+**COMMITMENT TO PRIVACY**
 
 Digital Room, Inc. understands the importance of protecting the privacy of UPrinting.com users. The information collected on the UPrinting.com website is used to market and improve the services we and our subsidiaries offer, to improve the UPrinting.com web site content, and to contact you with updates to the web site or for other marketing purposes.
 
@@ -58,10 +56,10 @@ UPrinting.com allows customers the option to opt-out of marketing communications
 Our postal address is:  
 UPrinting.com  
 Digital Room, Inc.  
-10936 Santa Monica Blvd.  
-Los Angeles, CA 90025
+8000 Haskell Avenue  
+Van Nuys, CA 91406
 
-We can be reached via email at [info@uprinting.com](mailto:info@uprinting.com) or by telephone at (888) 888-4211.
+We can be reached via email at [info@uprinting.com](mailto:info@uprinting.com) or by telephone at 888-888-4211.
 
 Digital Room, Inc. reserves the right to amend this Privacy Policy at any time with or without notice. Please check back frequently in the event of changes.
 
