@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alluremedia.com.au privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230152820id_/http%3A//www.alluremedia.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alluremedia.com.au privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311031240id_/http%3A//www.alluremedia.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | Allure Media
 
@@ -84,7 +84,7 @@ We will not email or SMS you marketing material unless you have consented to thi
 If you have any questions or comments about this privacy policy, or if you wish to complain about how we have handled personal information about you, please contact our Privacy Officer: 
 
   * by telephone (+61 2 9947 2920); or 
-  * by letter (The privacy officer, Allure Media, 401/177-185 William St, Darlinghurst NSW 2010). 
+  * by letter (The privacy officer, Allure Media, Level 4, 71 Macquarie St, Sydney NSW 2000). 
 
 
 
