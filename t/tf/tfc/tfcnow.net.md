@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfcnow.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231041815id_/http%3A//www.tfcnow.net/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfcnow.net privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311125056id_/http%3A//www.tfcnow.net/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TFCnow.net | Pinoy Channel TV | The Filipino Channel
 
