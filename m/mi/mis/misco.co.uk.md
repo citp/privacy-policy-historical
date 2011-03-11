@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608121535id_/http%3A//www.misco.co.uk/content/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misco.co.uk privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311113356id_/http%3A//www.misco.co.uk/content/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy policy, statement - Misco.co.uk
 
@@ -32,14 +32,14 @@ We take the security issue very seriously. Our retail system is based on the SSL
 
 **Data Protection & Data Security**
 
-Misco is a reseller brand of Systemax Europe Ltd. which is the consolidated Data Controller as specified in the Data Protection Act (1998) and as such, data is shared across all our brands and with our data processing operations. Data is maintained under the provisions of the Data Protection Act (1998), our registration number is Z6290748. We may contact you from time to time to verify and update the data we hold on your records. 
+Misco is a trading name of Misco UK Ltd. which is the consolidated Data Controller as specified in the Data Protection Act (1998) and as such, data is shared across all our brands and with our data processing operations. Data is maintained under the provisions of the Data Protection Act (1998), our registration number is Z6290748. We may contact you from time to time to verify and update the data we hold on your records. 
 
   
 
 
 **Business Transfer**
 
-Misco UK is a wholly owned subsidiary of Systemax, Inc., a Fortune 1000 Company (NYSE symbol SYX). However, in the event that Misco UK is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any customer information owned or under the control of Misco UK may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and aggregate information we have collected from users of the Site. 
+Misco UK Limited is a Systemax Inc group company, a Fortune 1000 Company (NYSE symbol SYX). However, in the event that Misco UK is sold, has its assets acquired or transferred, whether voluntarily or involuntarily, or merges or becomes affiliated with any other division, individual or entity, any customer information owned or under the control of Misco UK may be one of the transferred assets. We reserve the right, as part of such transaction, to transfer or assign the Personal Information and aggregate information we have collected from users of the Site. 
 
   
 
@@ -66,7 +66,7 @@ Demographic and profile data is collected to tailor our visitor's experience at 
 
 Financial information that is collected is used to verify the user's qualifications for registration, and to bill the user for the products and services they have requested.
 
-Systemax Europe Ltd of which Misco is a part, may share your information with selected 3rd parties outside our group, in order that they may contact you to let you know about goods or services which may be of interest to you. To let us know if you wish to opt-out of receiving such information please contact us (See contact details below). However, irrespective of this, we will not share your email address or personal telephone number with these 3rd parties. 
+Misco UK Ltd of which Misco is a part, may share your information with selected 3rd parties outside our group, in order that they may contact you to let you know about goods or services which may be of interest to you. To let us know if you wish to opt-out of receiving such information please contact us (See contact details below). However, irrespective of this, we will not share your email address or personal telephone number with these 3rd parties. 
 
   
 
@@ -84,8 +84,8 @@ This site contains links to other sites. Misco is not responsible for the privac
 
 **Contact Details**
 
-You can change your preferences in [ My Account.](https://www.misco.co.uk/secure/orderlogin.asp?PG=1 "My Account")  
-You can send an email to [ custservice@misco.co.uk](mailto:custservice@misco.co.uk "Email Customer Services")  
+You can change your preferences in [My Account.](https://www.misco.co.uk/secure/orderlogin.asp?PG=1 "My Account")  
+You can send an email to [custservice@misco.co.uk](mailto:custservice@misco.co.uk "Email Customer Services")  
 You can send mail to the following postal address: Misco, Darby Close, Park Farm Industrial Estate, Wellingborough, Northants, NN8 6GS  
 You can call: 0800 294 4515
 
@@ -101,7 +101,7 @@ These are temporary cookies that remain in the memory of your browser until you 
 
 **Persistent cookies**
 
-These remain in the cookie folder or file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. Find out more about [ cookies](http://www.allaboutcookies.org/cookies/ "All about cookies"). 
+These remain in the cookie folder or file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. Find out more about [cookies](http://www.allaboutcookies.org/cookies/ "All about cookies"). 
 
   
 
