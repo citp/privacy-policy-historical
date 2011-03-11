@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the doyoupoken.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503130501id_/http%3A//doyoupoken.com/PokenWeb/corporate/privacy.jsf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyoupoken.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311112516id_/http%3A//www.poken.com/privacy) for the most accurate reproduction.*
 
-# Welcome to Poken
+# Privacy Policy - Poken
 
-## Privacy Policy
+### Updated: July 2, 2010
 
-###### Updated: September 11, 2008
-
-##### Poken's Commitement to You
+### Poken's Commitment to You
 
 Welcome to Poken. We are revolutionaizing your social networking experience by bridging the gap between friends you meet in the real world and those you stay connected to online. The Poken Team takes your privacy very seriously to ensure your experience with us is as safe as it is fun and convenient. By using or accessing Poken’s services, you are accepting the practices described in this Privacy Policy.
 
-##### Poken Assembles the Following Information
+### Poken Assembles the Following Information
 
 Information provided by you. We collect personal information, such as your name and email address, when you register your poken to connect with friends in the real world and upload the information they have chosen to share with you. This information is used when you set up your Poken identity(ies) and specify what information and online social network profiles you choose to share with those whom you poken. We are not responsible for the information you provide on your online social network platforms.
 
 Information collected automatically. Poken receives and stores information which is transmitted automatically from your computer when you browse the Internet and use Poken. This information includes information from cookies (which are described in paragraph 4 below), your IP address and browser type. Your IP address is the unique address of your computer which is automatically provided to other computers when your web browser or email application requests a web page or email from those computers on the Internet.
 
-##### Our Use and Disclosure of Information
+### Our Use and Disclosure of Information
 
 We will display the personal information you provide in your Poken identity(ies) according to your preferences . We will use your email address to contact you from time to time and may also use it for security reasons to confirm that you are who you say you are.
 
@@ -32,11 +30,11 @@ We will disclose your personally identifiable information if we reasonably belie
 
 We reserve the right to transfer your personal information in the event of a transfer of ownership of Poken S.A., such as acquisition by or merger with another company. If an acquiring company should plan to materially change this privacy policy, we will notify you beforehand.
 
-##### Poken Invitations
+### Poken Invitations
 
 Poken offers you the opportunit to invite your friends to learn more about Poken and get a poken for themselves. You will provide their names and email addresses. Poken uses this information to send your invitation including a message that you write. The names and email addresses of people that you invite will be used only to send your invitation and reminders.
 
-##### Links to Other Sites
+### Links to Other Sites
 
 Given Poken’s unique position as a real world aggregator of online social networks you must understand very clearly that while our Web site offers services and links to online social networks that are convenient to your social networking experience we are not responsible for the privacy practices of these other sites.
 
@@ -48,7 +46,7 @@ As a convenience to our users, our Web site allows you to connect to external so
 
 Whenever possible this authentication is accomplished by means of secure methods that allow you to enter your username and password directly on the external network's site. In some cases, however, such methods are not available or we are still in the process of upgrading our Web site to use them. In these cases you enter your username and password for the external network on our Web site, which then sends the information to the external network to validate you. Rest assured that WE HAVE NEVER AND WILL NEVER STORE YOUR PASSWORD TO AN EXTERNAL SITE. It is used one time only to validate you and then discarded.
 
-##### Cookies
+### Cookies
 
 Cookies are a common Internet technology. Many web sites use cookies to provide useful features for their users. Cookies are small files that are written or downloaded to your computers hard drive when you access a site. They allow Poken to store and quickly retrieve login information on your computer and provide data that we can use to improve the quality of our service. Most Internet browsers (such as Internet Explorer, Safari, and Firefox) are initially set up to accept cookies. If you prefer, you can set your browser to refuse cookies, although you may not be able to take full advantage of Poken if you do so. We highly recommend that you enable cookies to ensure your experience with Poken is as smooth and enjoyable as possible.
 
@@ -56,17 +54,17 @@ We use cookies to improve the quality of our service by storing user preferences
 
 Any information provided to third parties through such cookies will not be personally identifiable but may provide general segment information, e.g. your industry or geographic location, for greater customization of your user experience.
 
-##### You Control with Whom You Share Your Information
+### You Control with Whom You Share Your Information
 
-Your Poken Identity information will only be shared with people with whom you have specifically agreed to share such information. You specify who can view certain personal information, such as email addresses and phone numbers in the « Manage Identities » and « Manage Modes » sections of your Poken acount, and of course, when you choose to poken with someone.
+Your Poken Identity information will only be shared with people with whom you have specifically agreed to share such information. You specify who can view certain personal information, such as email addresses and phone numbers in the « Cards » and « Devices » sections of your Poken acount, and of course, when you choose to poken with someone.
 
-##### Managing Your Poken Identity(ies)
+### Managing Your Poken Identity(ies)
 
 You can view, delete, and modify your Poken Identity(ies) and view and delete your Poken contacts at any time. Please bear in mind, however, that once you have used Poken to stay connected with a friend on the online social network of your choosing you must go to that site to remove them from your social network completely, if that is what you wish to do. Removing a contact from your Poken account simply means that they will not be able to view your Poken Card or Mini Card among their contacts. You will still be connected on the social networking sites on which you previously chose to connect until you remove them from your network on those sites specifically. We are not responsible for actions and events that occur outside of the Poken Web site.
 
-##### Security
+### Security
 
-The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorized people. Poken gives you the option of logging in automatically when you insert your poken’s USB connector into a computer’s USB port. Should you select this option, you should be aware that any person inserting your poken into their USB port will gain access to your account. We offer this option for your convenience if you use poken in a safe environment, but strongly encourage you secure your poken account with a password, and siable auto-login, if there is any chance that a third party may get their hands on your poken or use it without your approval.
+The security of your personal information depends on your protection of your account password. Please do not disclose your account password to unauthorized people.
 
 Poken uses industry standard technology designed to help keep your personal information safe. Please bear in mind though, that it is impossible for Poken to guarantee that impenetrable security measures are in place. For example, we cannot control any illegal and/or unforeseen activity of other users that may allow them to get around the privacy or security settings on the Poken website. Consequently, you acknowledge that there are circumstances in which your personal information may be accessed by unauthorised persons.
 
@@ -74,7 +72,11 @@ We limit access to your personal information only to employees who we believe ne
 
 If you become aware of any breach of data security or have any other questions about the security of our website, please contact us via the Contact Us page.
 
-##### Changes in Privacy Policy
+### Co-Branding
+
+Your Poken account may be co-branded with advertisers through whom you may have received a poken for free. Having been provided a poken by an advertiser, you will be asked to accept a separate Privacy Policy as proposed by our advertising partner.  The advertising partner's Privacy Policy will supersede this general Policy. If you do not wish to abide by the Privacy Policy of the advertising partner, then you should not use the poken they provided to you.
+
+### Changes in Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
@@ -82,12 +84,6 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 Additionally, we may send registered users an email notifying you of the change. IF ANY MODIFICATION IS UNACCEPTABLE TO YOU, YOU SHALL STOP USING THE POKEN SERVICE. YOUR CONTINUED USE OF THE POKEN SERVICE FOLLOWING OUR POSTING OF A CHANGE NOTICE OR ON OUR WEBSITE OR BLOG OR RECEIVING OUR EMAIL NOTIFYING YOU OF THE CHANGE WILL CONSTITUTE YOUR BINDING ACCEPTANCE OF THE CHANGE.
 
-##### Canceling membership
+### Canceling membership
 
-You always have the option to cancel your membership at any time. If you are a member and no longer wish to participate in Poken you can sign in to the site and click on the My Account at the top of the page; then select cancel membership and follow the simple instructions.
-
-##### Co-Branding
-
-Your Poken account may be co-branded with advertisers through whom you may have received a poken for free. Having been provided a poken by an advertiser you, will be asked to accept a separate Privacy Policy as proposed by our advertising partner, which supersedes this general Policy. If you do not wish to abide by the Privacy Policy of the advertising partner, then you should not use the poken they provided to you.
-
-###### Effective Date and Last Revision Date : September 17, 2008
+You always have the option to cancel your membership at any time. If you are a member and no longer wish to participate in Poken you can sign in to the site and click on the « Settings » at the top of the page; then select cancel membership and follow the simple instructions.
