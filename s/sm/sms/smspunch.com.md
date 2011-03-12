@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smspunch.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127172519id_/http%3A//smspunch.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smspunch.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312082944id_/http%3A//smspunch.com/policy.aspx) for the most accurate reproduction.*
 
 # |FREE SMS To Pakistan | Ufone | Warid | Moblilnk | Zong | Telenor | Send Free SMS | SMS PUNCH : Policy
 
