@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jokes-post.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226141920id_/http%3A//jokes-post.com/Privacy/1_186_object%3D2734.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokes-post.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312222222id_/http%3A//jokes-post.com/Privacy/1_186_object%3D2734.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -33,6 +33,8 @@ During registration and/or when you submit personally identifiable information t
 ](https://web.archive.org/web/Contact-Us/3_0_menu=2.aspx)
 
 Some of the services that we provide will result in sending an SMS, wireless or other mobile offering to your cell phone. By signing up, you are agreeing to receive these mobile offerings. You understand that your wireless carrier's standard rates apply to these messages. To unsubscribe or discontinue SMS messages, send "STOP", "END", "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering. This will not affect offerings sent on behalf of third parties.
+
+Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or “hashed” (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to <http://www.privacychoice.org/choose>
 
 **SMS, Wireless and Other Mobile Offerings**
 
