@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the faayda.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229170435id_/http%3A//blog.faayda.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faayda.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312082237id_/http%3A//blog.faayda.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | Your Job Search Engine!
-
-## [Privacy Policy](http://blog.faayda.com/privacy-policy.htm "Permanent Link: Privacy Policy")
-
-August 11, 2008 – 5:26 pm
+# Privacy Policy | faayda.com | The Job Blog
 
 Faayda.com is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes specified 
 
@@ -30,7 +26,3 @@ Faayda.com has implemented and follows industry standard measures to protect aga
 
 **Links to Third Party Sites**  
 The Site may provide links to other Web sites or resources over which Faayda.com does not have control (“External Web Sites”). Such links do not constitute an endorsement by Faayda.com of those External Web Sites. You acknowledge that Faayda.com is providing these links to you only as a convenience, and further agree that Faayda.com is not responsible for the content of such External Web Sites. Your use of External Web Sites is subject to the terms of use and privacy policies located on the linked to External Web Sites. If you have questions about this Privacy Policy, please contact us
-
-  
-
-  *[August 11, 2008 – 5:26 pm]: 2008-08-11T17:26:32+0000
