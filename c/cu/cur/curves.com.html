@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the curves.com privacy policy that was archived on 2010-09-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100901184509id_/http%3A//www.curves.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the curves.com privacy policy that was archived on 2011-03-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110312042908id_/http%3A//www.curves.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,7 +7,8 @@
    	<meta name="description" content="Curves, Privacy Policy, Discover a gym where women change their lives 30 minutes at a time. Curves is the largest fitness franchise in the world dedicated to providing affordable, one-stop exercise and nutritional information for women.">
 	<meta name="keywords" content="Curves, Privacy Policy">
    	<script src="/includes/swfobject.js" type="text/javascript"></script>
-   	<script src="/common_scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
+	<script src="/includes/jquery-1.4.4.min.js" type="text/javascript"></script>
+   	<!--<script src="/common_scripts/jquery-1.3.2.min.js" type="text/javascript"></script>-->
    	
 	<script type="text/javascript">
 		$(document).ready(function() {
@@ -16,6 +17,8 @@
 			
 			$("#zip").bind("focus",function() {$("#zip").val('');});
 			$("#zip").bind("blur",function() {if ($("#zip").val() == ""){$("#zip").val('Enter Zip/Postal Code');}});
+			$("#fb_close").bind("click",function() { $("#fb_bar").hide(); });
+			//$("#fb_like").delay(1000).fadeIn();
 		});
 	</script>   	
     
@@ -50,22 +53,24 @@
 				<div id="club_locator">
 					<img src="/images/title_locator.gif" alt="Club Locator">
 					Find one near you!<br>
+					<label class="accessibility" for="zip">Enter Zip/Postal Code</label>
 					<input type="text" name="postal_code" id="zip" size="10" value="Enter Zip/Postal Code" class="input_width" maxlength="10">
 					<input type="hidden" name="originating_page" value="%2Fprivacy-policy.php%3F">
-					<input type="image" src="/images/submit_sq.gif" value="submit" alt="" class="imgsub">
+					<input type="image" src="/images/submit_sq.gif" value="submit" alt="Submit" class="imgsub">
 				</div>
 			</form> 		
  		
-		
-		 <!-- Registry Form goes here -->
+				 <!-- Registry Form goes here -->
 		<form method="get" action="/registration.php" id="header_registry_form">
 			<div id="curves_registry">
 				<img src="/images/title_registry.gif" alt="Curves Connection">
 				Register Today!<br>
+				<label class="accessibility" for="registry">Enter Email Address</label>
 				<input type="text" name="email" id="registry" value="Enter Email Address" class="input_width" maxlength="128">
-				<input type="image" src="/images/submit_sq.gif" value="submit" alt="" class="imgsub">
+				<input type="image" src="/images/submit_sq.gif" value="submit" alt="Submit" class="imgsub">
 			</div>
-		</form>  	</div>
+		</form>
+			</div>
         <div id="nav">
     	<ul>
         	<li><a href="/the-workout/" title="The Workout"><span id="nav_workout">The Workout</span></a></li>
@@ -75,7 +80,7 @@
             <li><a href="/curves-products/" title="Curves Products"><span id="nav_products">Products</span></a></li>
             <li><a href="/about-curves/" title="About Curves"><span id="nav_about">About Us</span></a></li>
             <li><a href="/mycurves/" title="MyCurves"><span id="nav_mycurves">MyCurves</span></a></li>
-			<li><a href="http://www.buycurves.com/" target=" _blank" class="last " title="MyCurves"><span id="nav_franchising">Franchising</span></a></li>
+			<li><a href="http://www.buycurves.com/" target=" _blank" class="last " title="Franchising"><span id="nav_franchising">Franchising</span></a></li>
         </ul>
     </div>
     <img src="/images/title_privacy_policy.gif" alt="Privacy Policy" class="title">
@@ -91,10 +96,11 @@
 			<p class="pbot22">We may modify this policy at any time, in our sole discretion and all modifications will be effective immediately upon our posting of the modifications on this site. Unless we specifically provide otherwise, this policy only applies to this site and our online activities, and does not apply to any of our offline activities.</p>
     </div>
     <div id="content_basic_endcap"><!-- end page content --></div>
-    			<div id="footer">
+    		<div id="footer" style="overflow:hidden;" class="footer_sub">
     				<div id="language_selector">
         				<div id="language_selector_wrap">Choose Your Language</div>
         										<form action="/change_language_or_site.php" name="change_language" method="get">
+						<label class="accessibility" for="language">Select a language</label>
 						<select id="language" name="new_language">
 						   <option value="English" selected="selected">English</option>
 						   <!--<option value='Arabic'>Arabic</option>-->
@@ -106,16 +112,27 @@
 						   <option value="Portuguese">Portuguese</option>
 						   <option value="Spanish">Spanish</option>
 						</select>
-						<input type="image" name="language" src="/images/submit_sq.gif" value="language" alt="" id="change_language">
-						</form>	        		</div>
+						<input type="image" name="language" src="/images/submit_sq.gif" value="language" alt="Go" id="change_language">
+						</form>	 				</div>
 					<div id="nav_ftr">
 	        			<span class="ftr_link"><a href="/" title="Home">Home</a></span> | <span class="ftr_link" id="franchise_link"><a href="http://www.buycurves.com/" target=" _blank" title="Franchise Information">Buy a Curves Franchise</a></span> | <span class="ftr_link"><a href="http://news.curves.com/" title="Newsroom">Newsroom</a></span> | <span class="ftr_link"><a href="/healthcare-professionals.php" title="Healthcare Professionals">For Healthcare Professionals</a></span> |  <span class="ftr_link"><a href="/contact-us/" title="Contact Us">Contact Us</a></span>
 					</div>
+					<div id="social_networking">
+					<p>Follow us:</p>
+					<a href="http://www.facebook.com/Curves" target=" _blank">
+						<img src="/images/btn_facebook.jpg" alt="" border="0" id="btn_facebook">
+					</a>
+					<a href="http://www.youtube.com/user/CurvesChannel/" target=" _blank">
+						<img src="/images/btn_youtube.jpg" alt="" border="0" id="btn_youtube">
+					</a>
+				</div>
 	        		<div id="subfooter">
-						<div id="subfooter_wrap">
-	      		  	<span class="link2"><a href="/legal.php" title="Copyright/Legal Info">Copyright/Legal Info</a></span> | <span class="link2"><a href="/privacy-policy.php" title="Privacy Policy">Privacy Policy</a></span> | <span class="link2"><a href="/site-map.php" title="Site Map">Site Map</a></span> | <span class="link2"><a href="/site-credit.php" title="Site Credit">Site Credit</a></span> | <span class="link2"><a href="/other-curves-websites.php">Other Curves Websites</a></span></div>
-	      		  					<form action="/exit-confirmation.php" name="change_site" method="get">
-				<select id="curves_sites" name="url">
+						<div id="subfooter_wrap" style="overflow:hidden;">
+	      		  	<span class="link2"><a href="/legal.php" title="Copyright/Legal Info">Copyright/Legal Info</a></span> | <span class="link2"><a href="/privacy-policy.php" title="Privacy Policy">Privacy Policy</a></span> | <span class="link2"><a href="/site-map.php" title="Site Map">Site Map</a></span> | <span class="link2"><a href="/site-credit.php" title="Site Credit">Site Credit</a></span> | <span class="link2"><a href="http://m.curves.com/mobile/">Mobile Site</a></span>  |  </div>
+	      		  					<form action="/exit-confirmation.php" name="change_site" method="get" style="position:relative;padding-top:3px;width:200px;float:right;">
+				<span class="link2" style="position:absolute;top:0;left:8px;padding-top:3px;"><a href="/other-curves-websites.php">Other Curves Websites</a></span><br>
+				<label for="curves_sites" class="accessibility">Other Sites</label>
+				<select id="curves_sites" name="url" style="width:165px;margin-left:0;">
 					<option value="">Select a Site</option>
 										   								<option value="http://www.mycurves.com">MyCurves</option>
 													<option value="http://www.buycurves.com">BuyCurves</option>
@@ -133,16 +150,18 @@
 													<option value="http://www.curvesme.com">Curves Middle East</option>
 													<option value="http://www.curves.nl">Curves Netherlands</option>
 													<option value="http://www.curves.co.nz">Curves New Zealand</option>
-													<option value="http://www.curves-norge.no">Curves Norway</option>
+													<option value="http://www.curves.es">Curves Spain</option>
 													<option value="http://www.curves.co.za">Curves South Africa</option>
 													<option value="http://www.curves.tw">Curves Taiwan</option>
 													<option value="http://www.fitcurves.com.ua">Curves Ukraine</option>
 													<option value="http://www.curves.co.uk">Curves United Kingdom</option>
 															</select>
-				<input type="image" src="/images/submit_sq.gif" alt="" class="imgsub">
-			</form>	        		</div>	        		
+				<input type="image" src="/images/submit_sq.gif" alt="Go" class="imgsub">
+			</form>
+			<div class="clear"></div>							        		</div>	        		
 				</div>
-		</div>
+			</div>
 		<script src="/includes/hbx_page_code_standard.js" type="text/javascript"></script>
 <script src="/common_scripts/hbx/hbx.js" type="text/javascript"></script>	
+
 </body></html>
