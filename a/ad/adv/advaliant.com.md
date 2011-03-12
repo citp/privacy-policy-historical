@@ -1,41 +1,94 @@
-> *The following text is extracted and transformed from the advaliant.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427200534id_/http%3A//www.advaliant.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advaliant.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312185822id_/http%3A//www.mediatrust.com/privacy.php) for the most accurate reproduction.*
 
-# The Advaliant Affiliate Network: AdValiant Opens New Offices In California and Florida
+# Welcome to MediaTrust - The Platform for Performance Marketing
 
-### The Advaliant Privacy Policy
+#### MediaTrust's Privacy Policy
 
-Advaliant Inc. (“Advaliant”) respects the privacy of those who use the Advaliant website (the “Advaliant service”). Information that relates to any individual will not be not intentionally disclosed to any third party without first receiving your permission, as explained in this privacy policy ("Privacy Policy").
+  1. **MediaTrust, Inc. ("MediaTrust", "we" or "us") is a performance marketing company.
 
-#### Advaliant and Cookies
+This policy is designed to inform you about our privacy practices on our corporate Website ("Website"), www.mediatrust.com. This policy also addresses how our MediaTrust platform ("Platform") processes information on behalf of the advertisers, website owners and other businesses that use the Platform (our "Clients"). If you have any questions about this privacy policy, please feel free to contact us at support@MediaTrust.com.
 
-When you first visit Advaliant , Advaliant sets a "cookie" on your computer. A cookie is a small file that identifies you as a unique user. Advaliant uses cookies to improve the quality of our service and to better understand our user base. Advaliant does this by storing user preferences in cookies and by tracking user trends and patterns of how people use the Advaliant service. Advaliant will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena, statute, or court order.
+**
+  2. **Policy for Information we Collect on this Website**
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of the Advaliant Service may not function properly if you refuse cookies.
+The Website is directed to our Clients who are generally businesses. 
 
-#### What Information Do We Collect?
+  3. **Personally Identifiable Information**
 
-Advaliant does not collect any unique information about you through the cookie process (such as your name, email address, etc.), except when you specifically and knowingly provide such information; whether you have a query or are registering for the Advaliant service. Advaliant notes and saves information such as time of day, browser type, browser language, and IP address with each query. That information is used to verify our records and to provide more relevant services to users.
+We collect Personally Identifiable Information ("PII") from the Website when it is provided to us. PII is any information that can be used to identify or locate a particular person or entity. This includes, but is not limited to: name, address, telephone, number, cell phone number, or email address. We collect PII from visitors to this Website under the following circumstances:
 
-#### Links to Other Sites
+\- When visitors (including Clients and prospective Clients) send us an email or submit a question via the Website, we use that information to answer their question.
 
-From time to time, Advaliant may display links to sites that are developed by people over whom Advaliant exercises no control. These other sites may send their own cookies to users, collect data, or solicit personal information. Advaliant may choose to exhibit these links as an "URL redirecter." When Advaliant uses a URL redirecter, if you click on a URL, information about the click is sent to Advaliant , and Advaliant in turn sends you to the site you clicked on. Advaliant uses this URL information to understand and improve the quality of Advaliant’s technology and for advertising effectiveness purposes.
+\- When visitors (including Clients and prospective Clients) apply to be publishers on the MediaTrust Platform, we collect their PII such as name, postal address, telephone number, and social security number. We use this information to process the publisher application, and if accepted into the Platform, to service the publisher's account. Therefore, by providing such information, you are also granting permission for a representative of MediaTrust to contact you to verify your application, if need be, for quality control purposes.
 
-#### With Whom Does Advaliant Share Information?
+  4. **Non-Personally Identifiable Information**
 
-Advaliant may share information about you with advertisers, business partners, sponsors, and other third parties. However, we only divulge aggregate information about our users and will not share personally identifiable information with any third party without your express consent. However, by filling in your personal information through the Advaliant service it is understood and you hereby agree that you are giving your express consent for Advaliant to forward your personal information for services provided by our partners. We may also provide you with special exclusive offers from time-to-time which you may unsubscribe from by following the relevant unsubscribe information as provided in each instance. Notwithstanding the aforementioned, please be aware, however, that we will release specific personal information about you if required to do so in order to comply with any valid legal process such as a search warrant, subpoena, statute, or court order.
+We collect Non-Personally Identifiable Information ("Non-PII") from visitors to this Website. Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer's operating system. We use this information to verify our records and to provide more relevant services to our Clients and other visitors to the Website.
 
-This Privacy Policy applies to consumers that have signed up on the Advaliant website. We may use the personal information that you supply to us and work with other third party businesses to bring selected retail opportunities to our members via direct mail, email and telemarketing. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
+  5. **Cookies**
 
-#### Your consent and changes to the Privacy Policy
+We use "cookies" on this Website. Cookies are small text files that contain a string of alphanumeric characters. MediaTrust uses cookies to improve the quality of our service and Website, and to store the login preferences of our Clients on the Website and Platform. Most Internet browsers are initially set up to accept cookies. You can remove cookies by following directions provided in your Internet browser's "help" file. Please note that removing or otherwise disabling cookies may reduce your ability to enjoy the full functionality of the Website. For more information about cookies please visit <http://www.allaboutcookies.org/cookies/>. 
 
-By using the Advaliant service, you consent to the collection and use of your information as we have outlined in this policy and to our Terms and Conditions Policy. Advaliant may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
+  6. **Information we Collect via the MediaTrust Platform**
 
-By submitting your application, you are consenting to be contacted by at least one mortgage broker or lender. Such contact may be made by email or via phone, even if you have listed yourself on a Do-Not-Call Registry. Further, Advaliant is not a bank or lending establishment, all mortgage information and rate quotes will be provided to you by independent providers. You are also granting permission for a representative of Advaliant to contact you to verify your application, if need be, for quality control purposes.
+This section of the policy is designed to help you understand how our MediaTrust platform ("Platform") processes information on behalf of (our "Clients").
 
-#### Who can I ask if I have additional questions?
+  7. **Overview of the MediaTrust Platform**
 
-Contact us any time and we'll answer any additional questions you may have. Our email address is support at Advaliant dot com.
+The MediaTrust Platform is a scalable pay-for-performance advertising platform that provides detailed campaign information including clicks, actions, and conversions. As an advertiser using the MediaTrust platform, you work with vetted publishers that can refer consumer traffic to your campaign. As a publisher, you can promote your services to advertisers that run campaigns on the platform. When a publisher is selected to participate in an advertiser's program and that publisher generates a sale, they earn a referral fee.
 
-Updated May 16, 2005.
+  8. **Cookies and Web Beacons**
 
-[Return to our company overview ](https://web.archive.org/web/20090427200534id_/http%3A//www.advaliant.com/company_overview.html)
+The Platform uses cookies in conjunction with web beacons in order to help us record detailed campaign information for our Client's advertising campaigns. Web beacons, also known as 1X1 pixels or clear GIFs, allow a website to count users who have visited a particular web page.
+
+  9. **Controlling the use of your information**
+
+Deleting your PII
+
+If you'd like us to update, correct, delete or deactivate any PII that you have provided to us on the Website or via the Platform, please send your request to us at support@MediaTrust.com and we will process your request within a reasonable period of time after receipt. 
+
+  10. **Information Security**
+
+The security of your information is important to us, including but not limited to the PII collected via the Website. We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to the use of firewalls and encryption. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security. 
+
+  11. **Information Relating to Children**
+
+Our products and services are designed for those 18 years of age and older. We do not knowingly collect PII from anyone under the age of 13. If we are made aware that we have received PII from someone under 13, we will use reasonable efforts to remove that information from our records. 
+
+  12. **Disclosure of Information to Third Parties**
+
+We generally do not rent or share PII collected via the Website or Platform with non-affiliated third parties without your consent. We may, however, share such PII with trusted third party contractors who provide services for us. These third party contractors are prohibited from using the information we provide for purposes other than performing services for us. 
+
+We may share Non-PII collected on the Website or via our Platform with unaffiliated third parties. For example, we may disclose that "blue banner ads" receive more clicks than "orange banner ads." This information cannot be used to contact or identify any person individually. 
+
+We may disclose your information to third parties when we reasonably believe we are obligated to do so by law, and in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person. 
+
+Finally, we may transfer information, including any PII, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. 
+
+  13. **Changes to this Privacy Policy**
+
+This privacy policy is subject to change. If we make any material or substantive changes in the way that we use the information collected through this Website or Platform, we will post a clear and conspicuous notice of those changes on the Website and in this privacy policy. 
+
+  14. **Who can I ask if I have additional questions?**
+
+Contact us any time and we'll answer any additional questions you may have. Our email address is support@MediaTrust.com. Alternatively, you may contact us at the following address:  
+Privacy Officer  
+MediaTrust  
+404 Park Avenue South 2nd Floor  
+New York NY 10016  
+
+
+Updated July 16, 2009
+
+
+
+
+Welcome to Media Trust. We are the only source you need for performance advertising and deliver the results you are seeking. Our platform facilitates all types of advertising campaigns, including affiliate marketing programs, email marketing, lead generation, paid search advertising, social media, pay per click services and more.
+
+Media Trust's advertising network includes the best publishers and direct response advertisers to create pay for performance advertising campaigns that will generate quality leads and increase online sales. Our innovative online platform has everything advertisers and publishers need to create, track and manage performance advertising campaigns.
+
+Our service team and publishers are experts at utilizing search engine marketing, affiliate advertising, pay per click services, display advertising, email marketing and social media to bring results. Advertisers and publishers have access to a wide range of tracking and reporting tools that provide statistics about your campaigns and expert advice to help you create campaigns that will increase online sales.
+
+Performance advertising allows you to easily manage your marketing budget with costs that are easy to determine and delivers results. We deliver value by focusing on helping you increase online sales and leads, not just driver generic traffic to your website. Our pay for performance business model is designed so we get paid a commission for each lead or sale, so you pay for results.
+
+If you are an advertiser interested in pay for or a publisher interested in increasing your performance marketing revenue, sign up with Media Trust for the best technology and expert advice and service.
