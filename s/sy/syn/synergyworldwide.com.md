@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synergyworldwide.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507081223id_/http%3A//us.synergyworldwide.com/Content.aspx%3FPageId%3D244) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synergyworldwide.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312052538id_/http%3A//www.synergyworldwide.com/Content.aspx%3FPageId%3D244) for the most accurate reproduction.*
 
 # Synergy WorldWide | Privacy Statement
 
