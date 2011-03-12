@@ -1,108 +1,55 @@
-> *The following text is extracted and transformed from the waitrose.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607085242id_/http%3A//www.waitrose.com/about/securityandprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waitrose.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312103816id_/http%3A//www.waitrose.com/content/waitrose/en/footer/terms_of_service/privacy_policy.html) for the most accurate reproduction.*
 
-# Waitrose.com - Security & Privacy
+# Security policy
 
-Waitrose.com is a secure site and we understand your concerns about the safety of your credit/debit card and personal details online. So we have developed highly secure systems to give you confidence and peace of mind when you shop online with us. Read below to find out more.
+## Privacy Policy
 
-  * Problems with Internet Explorers version 5.0 and earlier
-  * Safe internet shopping
-  * Credit card safety
-  * Our privacy policy
-  * What are cookies?
-  * Links to other websites
-  * Further information
+Your privacy is very important to us, that’s why we will never release your personal details to any company outside the John Lewis Partnership for mailing or marketing purposes. We will treat all your personal information as confidential (although we reserve the right to disclose this information in the circumstances set out below). We will keep your details on a secure server and we will fully comply with all applicable UK Data Protection and consumer legislation in place from time to time.
 
+However, we would like to keep you up to date with a range of products and services provided by the John Lewis Partnership, which includes John Lewis Department Stores, Waitrose and Greenbee, and also John Lewis Financial Services Ltd (" **JLFS** "). This includes news of special events, promotions, product launches and catalogues. Greenbee offers direct services from the John Lewis Partnership and provides a range of products and services including travel and financial services. We are constantly looking for ways to improve our service, we may therefore occasionally contact you for research purposes. We may contact you by post, telephone, SMS text messaging and/or email.
 
+Please note that you do not have to provide any information to use this website, but if you do choose to withhold essential data you will not be able to access certain sections or facilities within the site. If you do not wish to be sent further information but wish to make full use of this site, please click the relevant box indicating this wish during registration.
 
-## Problems with Internet Explorers version 5.0 and earlier
+You have the right to request a copy of any information we hold on you at any time, and to have that information corrected if it is inaccurate. If you wish to view any information you have submitted, please contact The Company Secretary, John Lewis Partnership, 171 Victoria Street, London SW1E 5NN. Nothing in these Terms and Conditions affects your rights under the Data Protection Act 1998.
 
-If you are using IE4 or some versions of IE 5.0, you may get a warning message telling you that our certificate has expired, is not yet valid or is not to be trusted. However this is just an error in your browser interface; if you click 'yes' to proceed, your connection will in fact be secure, and you will be able to carry on shopping safely. You can confirm that your connection is secure by right-clicking on the page and selecting 'properties'. In the pop-up box the connection should say 'SSL' and will also tell you the type of encryption.
+When you shop on this website, we will ask you to input and will collect personal information from you such as your name, email address, billing address, delivery address, telephone number, product selections, credit card, or other payment information, and a password. We may also collect, (and our third-party providers of advertisements and content may collect) information about where you are on the internet (eg the URL you came from, IP address, domain types like .co.uk and .com), your browser type, the country and telephone area code where your computer is located, the pages of our website that were viewed during your visit, the advertisements you clicked on, and any search terms that you entered on our website (" **User Information** "). We may collect this information even if you do not register with us.
 
-The message occurs because the Server Connection Authority has renewed the keys with which they sign all Certificates and some older browsers do not recognise the new keys.
+You should be aware that this site is being monitored and may capture information about your visit that will help us improve the quality of our service.
 
-We recommend that you use IE 5.5 above to avoid this issue.
+We confirm that any personal information that you provide to us (or which is available on public registers) and any user information from which we can identify you, is held in accordance with the registration we have with the Data Commissioner's Office. We use your information only for the following purposes:
 
-For more information visit the [BT Trustwise FAQ page](http://www.btignite.com/uk/products/trustservices/support/server_cert/end_user_issues/end_user_errorcodes.html "This link will open in a new window").
+To process your order.
 
-Back to top
+For statistical purposes to improve this website and the service we offer
 
-[](http://www.consumer.gov.uk/consumer_web/e-shopping.htm "This link will open in a new window")
+To provide you with website content and advertisements.
 
-## Safe internet shopping
+To administer this website.
 
-With more and more people regularly using the Internet, it is important to ensure your safety when you buy online.
+If you consent, to notify you of products or special offers that may be of interest to you.
 
-We are keen to raise awareness of best practice at Waitrose.com and as such we are pleased to support the Department of Trade and Industry's Safe Internet Shopping initiative, whose aim is to ensure that you are fully aware of your consumer rights when you buy online.
+You agree that you do not object to us contacting you for any of the above purposes whether by telephone, email or in writing and you confirm that you do not and will not consider any of the above as being a breach of any of your rights under the Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
-There are 5 key tips for Safe Shopping Online:
+Your personal information may be disclosed to other businesses within the John Lewis Partnership and to reputable third parties who will help process your order. Waitrose and John Lewis require all such third parties to treat your personal information as fully confidential and to fully comply with all applicable UK Data Protection and consumer legislation from time to time in place. 
 
-## Payment:
+You should be aware that if we are requested by the police or any other regulatory or government authority investigating suspected illegal activities to provide your personal information and /or user information we are entitled do so.
 
-If your credit or debit card is used fraudulently in the EU, the card company must refund you.
+**Cookies**  
+Cookies are small bits of text that your web browser software stores on your computer when you visit some websites. The John Lewis Partnership uses cookies to make it easier to use our site and to allow us to improve the service to you, our customer. A cookie generated by Waitrose.com allows us, for example, to retrieve your current shopping basket, to recognise you when you visit and to help you navigate around our website.
 
-## Websites:
+Our cookies do not collect sensitive information such as your name, address or financial details. The cookie simply holds the "key" that, once you've signed in, is associated with this information.
 
-Use ones you know or which are recommended and always get the supplier's phone number and postal address.
+Because we rely on cookies to make the shopping experience easier and more tailored to your needs, your browser must be set to accept cookies before you can place an order with us. (You can change the cookie setting in your browser's preferences, usually found in the Edit menu.)
 
-## Records:
+**Online Shopping**
 
-Keep a copy of what you've ordered, plus the supplier's confirmation message.
+General Information & Payment Security
 
-## Quality:
+Delivery/collection restrictions  
+Delivery for all services will be available in restricted areas.
 
-Your high street consumer rights apply online.
+Collection for Waitrose.com is available from selected branches.
 
-## Cooling off:
+Collection for WaitroseEntertaining is available from all branches.
 
-In many cases in the EU the law lets you change your mind and get a refund within 7 working days of the delivery.
-
-The Government website [www.consumer.gov.uk](http://www.consumer.gov.uk/consumer_web/e-shopping.htm "This link will open in a new window") contains all the above tips as well as any other information you should need about shopping online safely. 
-
-Back to top
-
-## Credit card safety
-
-Waitrose offers a number of online shopping services such as wines,flowers & gifts from Waitrose Direct, or groceries from Waitrose Deliver. All our websites use Secure Sockets Layer (SSL) technology to encrypt your details as they are being transmitted to us. This prevents anyone from eavesdropping on your shopping session and keeps your card and personal details private. Once your order is processed, the payment details associated with your order are removed from our files.
-
-You can tell when you enter a secure area of our websites, as a small locked padlock will appear in the bottom bar of your browser. The security of our websites is independently verified. Follow the links below to view the security certificates for our websites.
-
-| 
-
-## Waitrose Deliver
-
-[](https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=4f90473a6d88bd96d5b7b3162e8155c0 "This link will open in a new window") | 
-
-## Waitrose Direct
-
-[](https://servicecenter.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&remote_host=https://digitalid.trustwise.com/secureServer/cgi-bin/haydn.exe&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=b8ba798fd04767e14a6ebeeb836bd5b5 "This link will open in a new window")  
----|---  
-  
-Back to top
-
-## Our privacy policy
-
-Waitrose, as part of the John Lewis Partnership is commited to protecting your privacy online. We never release your personal details to any companies outside the John Lewis Partnership for mailing and marketing purposes. We would like to send you, from time to time, details about other John Lewis Partnership products and services which we hope you will find of relevance and interest.
-
-The John Lewis Partnership may use the information provided by you within our websites to improve our services or to offer additional products, services or information from companies within the Partnership.
-
-Please note that you do not have to provide any information to use our sites, but if you do choose to withhold essential data you will not be able to access certain sections or facilities within our sites. If you do not wish to be sent further information but wish to make full use of our sites, please check the box indicating this wish during registration.
-
-You have the right to request a copy of any information we hold on you at any time, and to have that information corrected if it is inaccurate. If you wish to view any information you have submitted, please contact The Company Secretary, John Lewis Partnership, 171 Victoria Street, London SW1E 5NN.
-
-Back to top
-
-## What are cookies?
-
-Cookies are small bits of text that your web browser software stores on your computer when you visit some websites. We use cookies to make it easier to use our sites and to allow us to improve the service to you, for example when you retrieve your current shopping basket when buying groceries. Our cookies do not collect sensitive information such as your name, address or financial details. On some of our websites, we rely on cookies to make your shopping experience easier, so your browser must be set to accept cookies before you can use the website fully or place an order. You can change the cookie setting in your browser's Preferences, usually found in the Edit menu.
-
-Back to top
-
-## Links to other websites
-
-Waitrose.com also provides links to other useful websites as well as highlighting the latest products and special offers on johnlewis.com. Please be aware that external sites may have different security and privacy policies to our own, of which we have no control. Follow this link to find out more about the website [security and privacy policies for johnlewis.com](http://www.johnlewis.com/info/Help.asp?HelpID=32&str=950 "This link will open in a new window").
-
-Back to top
-
-## Further Information
-
-If you have any questions regarding security or privacy on Waitrose websites, please contact our [Customer Service team](http://www.waitrose.com/about/contactus.asp).
+We reserve the right to restrict deliveries in certain areas. This includes the right to withdraw our services to individual customers' addresses if you are repeatedly unavailable to take delivery of your shopping at your chosen slot time or in other exceptional circumstances.
