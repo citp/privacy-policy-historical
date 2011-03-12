@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achica.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211200931id_/http%3A//achica.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achica.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313000229id_/http%3A//www.achica.com/Privacy.aspx) for the most accurate reproduction.*
 
 # ACHICA | Privacy
 
@@ -70,4 +70,4 @@ You might find links to third party websites on our website. These websites shou
 The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested.  Should you wish to receive details that we hold about you please contact us using the contact details below.
 
 **Contacting Us**  
-We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to [contact us](https://web.archive.org/web/20101211200931id_/http%3A//achica.com/Contact_Form.aspx) using the online form. 
+We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to [contact us](https://web.archive.org/web/20110313000229id_/http%3A//www.achica.com/Contact_Form.aspx) using the online form. 
