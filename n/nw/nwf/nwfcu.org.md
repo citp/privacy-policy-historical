@@ -1,31 +1,72 @@
-> *The following text is extracted and transformed from the nwfcu.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612211733id_/http%3A//nwfcu.org/aboutus/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwfcu.org privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313043902id_/http%3A//nwfcu.org/aboutus/privacypolicy.pdf) for the most accurate reproduction.*
 
-# Northwest Federal Credit Union (NWFCU) - Privacy Statement
+# FACTS
 
-Northwest Federal Credit Union (NWFCU) is committed to providing financial products and services that enable its members to meet their financial needs and attain their financial goals. Protecting personal information and using it in a manner consistent with member expectations is a high priority for everyone associated with NWFCU. Your trust is important to us and it is essential as we work together to meet your financial goals.
+                                                                                                                    Rev. 1/11
+                     WHAT DOES NORTHWEST FEDERAL CREDIT UNION
+FACTS                DO WITH YOUR PERSONAL INFORMATION?
+Why?                 Financial companies choose how they share your personal information. Federal law gives
+                     consumers the right to limit some but not all sharing. Federal law also requires us to tell you how
+                     we collect, share, and protect your personal information. Please read this notice carefully to
+                     understand what we do.
+What?                The types of personal information we collect and share depend on the product or service you
+                     have with us. This information can include:
+                     ■ Social Security number and income
+                     ■ Account   balances and payment history
+                     ■ Credit history and credit scores
+                     When you are no longer our member, we continue to share your information as described in
+                     this notice.
+How?                 All financial companies need to share their members’ personal information to run their everyday
+                     business. In the section below, we list the reasons financial companies can share their members’
+                     personal information; the reasons Northwest Federal Credit Union chooses to share; and whether
+                     you can limit this sharing.
+Reasons we can share your personal information                   Does NWFCU share?           Can you limit this sharing?
+For our everyday business purposes –
+such as to process your transactions, maintain
+your account(s), respond to court orders and legal                        Yes                             No
+investigations, or report to credit bureaus
+For our marketing purposes –
+to offer our products and services to you                                 Yes                             No
+For joint marketing with other financial companies                         No                       We don’t share
+For our affiliates’ everyday business purposes –
+information about your transactions and experiences                        No                       We don’t share
+For our affiliates’ everyday business purposes –
+information about your creditworthiness                                    No                       We don’t share
+For our affiliates to market to you                                        No                       We don’t share
+For nonaffiliates to market to you                                         No                       We don’t share
+Questions?           Call 703-709-8901 (1-866-709-8901 toll-free) or go to www.nwfcu.org
 
-**Your Personal Information**  
-In the course of providing you with products and services, Northwest Federal Credit Union acquires information from you in person, during telephone interviews, on applications or other forms you complete, and from outside sources, including consumer reporting agencies. We also maintain information about your transactions with us.
 
-**Sharing Within the Northwest Federal Family**   
-Northwest Federal Credit Union works together with its subsidiary, Northwest Financial LLC, to offer members a wide-range of financial products and services. Your member eligibility information will not be shared between NWFCU and Northwest Financial LLC for marketing purposes. However, NWFCU and Northwest Financial LLC may market one another’s products to you on the other’s behalf.
-
-**Maintaining Confidentiality of Personal Information**  
-We do not share any personal information about you or our former members with third parties except as permitted or required by law, and as necessary for business purposes. For example, we may share information to comply with U.S. tax laws and court orders, or with consumer reporting agencies. We may also share information with companies that work for us in providing you products and services, for example, check printers. These companies act on our behalf and are obligated to keep any information we share with them confidential. Northwest Federal Credit Union may enter into agreements with other financial service providers to offer members high-quality financial products and services at reduced prices or to provide marketing services on our behalf. We may also enter into an agreement with a company that provides mail services to notify you of NWFCU's products and services or other special promotions. As part of these agreements, we may share account-related information such as your name, address, or account activity. These agreements require that your information be kept confidential and used only for the purpose of offering you products, services, or promotions approved by NWFCU.
-
-**Keeping Your Information Secure**  
-Northwest Federal Credit Union is committed to keeping your information secure. We access your personal information only when necessary to service or maintain your accounts, and to meet your needs. We maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your personal information. Please be aware that third parties can obtain your personal information from outside sources. This information could be used for solicitation purposes. For example, when you obtain a mortgage or equity loan, by law the transaction is recorded in the public land records of the jurisdiction where the property is located. This information, including the lender's name, becomes public and is available to anyone who visits the Record Clerk’s office.
-
-**Contact Us**  
-If you have questions concerning the privacy of your personal information or if you need to correct information we have on file, please:
-
-  * Contact us at:  
-703-709-8901 or 1-866-709-8901 (toll-free)
-  * Or write to us at:  
-Northwest Federal Credit Union  
-P.O. Box 1229  
-Herndon, VA 20172-1229
-
-
-
-Back to Top 
+Page 2
+Who we are
+Who is providing this notice?  Northwest Federal Credit Union
+What we do
+How does NWFCU protect my      To protect your personal information from unauthorized access
+personal information?          and use, we use security measures that comply with federal law.
+                               These measures include computer safeguards and secured files
+                               and buildings.
+How does NWFCU collect my      We collect your personal information, for example, when you
+personal information?          ■  open an account or deposit money
+                               ■  pay your bills or apply for a loan
+                               ■ use your credit or debit card
+                               We also collect your personal information from others, such as
+                               credit bureaus, affiliates or other companies.
+Why can’t I limit all sharing? Federal law gives you the right to limit only
+                               ■  sharing for affiliates’ everyday business purposes – information
+                                  about your creditworthiness
+                               ■ affiliates from using your information to market to you
+                               ■ sharing for nonaffiliates to market to you
+                               State laws and individual companies may give you additional rights to
+                               limit sharing.
+Definitions
+Affiliates                     Companies related by common ownership or control. They can be
+                               financial and nonfinancial companies.
+                               ■  Northwest Federal Credit Union does not share with its affiliate.
+Nonaffiliates                  Companies not related by common ownership or control. They can be
+                               financial and nonfinancial companies.
+                               ■  Northwest Federal Credit Union does not share with nonaffiliates so
+                                  they can market to you.
+Joint marketing                A formal agreement between nonaffiliated financial companies that
+                               together market financial products or services to you.
+                               ■  Northwest Federal Credit Union does not jointly market.
+                                                                                                PSB (1/2011) 3M
