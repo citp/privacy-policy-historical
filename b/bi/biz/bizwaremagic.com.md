@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225154917id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313121423id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -97,5 +97,5 @@
 [Notebook Computers Guide](http://www.bizwaremagic.com/notebook-online-buyers-guide.htm) |  [Spyware Remover Guide](http://www.bizwaremagic.com/spyware-removal-guide.htm) |  [RSS/Blogging Guide](http://www.bizwaremagic.com/RSS/Lead_Capture_Page.htm) |  [Optin E-mail Tool Kit](http://www.bizwaremagic.com/opt-in.htm) |  [Best Marketing Software](http://www.bizwaremagic.com/bestsoft.htm) |  [Best Affiliate Programs](http://www.bizwaremagic.com/bestaps.htm) |  [Basic Tool Kit](http://www.bizwaremagic.com/basictk.htm) |  [Best Free BizWare](http://www.bizwaremagic.com/freebizware.htm) |  [Internet Marketing Links](http://www.bizwaremagic.com/linkfriends.htm) |  [Internet Fax](http://www.bizwaremagic.com/internet_fax_service_guide.htm) |  [Corporate Business Gifts](http://www.bizwaremagic.com/corporate_business_gifts.htm) |  [SiteMap](http://www.bizwaremagic.com/site-map.htm) |  [Affiliate Directory](http://www.bizwaremagic.com/Affiliate-Directory.htm) |  [Internet Marketing Articles](http://www.bizwaremagic.com/internet_marketing_articles.htm) | [Contact](http://www.bizwaremagic.com/contact.htm) |  [Bizware Home](http://www.bizwaremagic.com/)
 
   
-**© Copyright - 2006-10 All Rights Reserved.** [Earnings Disclaimer](http://www.bizwaremagic.com/Disclaimer.htm) |   
+**© Copyright - 2006-2020 All Rights Reserved.** [Earnings Disclaimer](http://www.bizwaremagic.com/Disclaimer.htm) |   
 ---|---|---
