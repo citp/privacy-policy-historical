@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the i-escape.com privacy policy that was archived on 2010-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100712134006id_/http%3A//www.i-escape.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-escape.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313013459id_/http%3A//www.i-escape.com/privacy-policy) for the most accurate reproduction.*
 
-# About Us | i-escape.com
+# Boutique Hotels and Hip Hideaways | i-escape.com
 
 We are committed to protecting your privacy. We do not sell, trade or rent your personal information to other companies, except to the provider of your selected accommodation or trip. We use the information we collect about you to process your bookings with the relevant provider.
 
@@ -8,10 +8,10 @@ We are committed to protecting your privacy. We do not sell, trade or rent your 
 
 In order to make a reservation through our website, you are required to provide your credit card details. These details are sent by a secured mode using 128 bit SSL encryption technology to the respective accommodation or trip provider to confirm the reservation. The payment is then either processed offline by the accommodation/trip provider or a deposit is charged by i-escape.com on behalf of the accommodalion/trip provider. In the case of the latter, the secure server is separate to the server that runs this website and is maintained by Secure Hosting Limited- Secure Hosting Limited will hold all such information and only release it to i-escape.com (RTA) for any of the purposes set out below;
 
-  * **The use of this information by i-escape.com (RTA) in connection with the provision of i-escape.com's services to you as stated in these terms and conditions.**
-  * **The release by i-escape.com (RTA) of this information to each hotel/service provider at the stage of the on-line confirmation by you of booking.**
-  * **The notification to you by e-mail of marketing information including possible opportunities PROVIDED THAT you have not expressed a wish (by ticking the opt out box) not to be so provided with such information.**
-  * **The notification to you by other means (e.g. direct mail) of similar marketing information (including marketing with Third Party Partners) PROVIDED THAT you have expressed a wish (by ticking the opt in box) to be so provided with such information.**
+  *  **The use of this information by i-escape.com (RTA) in connection with the provision of i-escape.com's services to you as stated in these terms and conditions.**
+  *  **The release by i-escape.com (RTA) of this information to each hotel/service provider at the stage of the on-line confirmation by you of booking.**
+  *  **The notification to you by e-mail of marketing information including possible opportunities PROVIDED THAT you have not expressed a wish (by ticking the opt out box) not to be so provided with such information.**
+  *  **The notification to you by other means (e.g. direct mail) of similar marketing information (including marketing with Third Party Partners) PROVIDED THAT you have expressed a wish (by ticking the opt in box) to be so provided with such information.**
 
 
 
