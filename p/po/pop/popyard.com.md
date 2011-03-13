@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popyard.com privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219214612id_/http%3A//www.eecsit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popyard.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313033911id_/http%3A//www.popyard.com/privacy.html) for the most accurate reproduction.*
 
 # PopYard: Today's Science & Technologies.
 
