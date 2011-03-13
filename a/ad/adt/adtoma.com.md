@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtoma.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222102940id_/http%3A//www.adtoma.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtoma.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313042745id_/http%3A//www.adtoma.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Adtoma AB
 
