@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hdicon.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104195556id_/http%3A//www.hdicon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdicon.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313074853id_/http%3A//www.hdicon.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | HD icon - Not only HIGH DEFINITION icons
+# Privacy policy | HD icon - Resources for web designers
 
 #### Revised November 4, 2009
 
