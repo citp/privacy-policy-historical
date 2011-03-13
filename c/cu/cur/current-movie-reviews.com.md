@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the current-movie-reviews.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109014210id_/http%3A//www.current-movie-reviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the current-movie-reviews.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313074858id_/http%3A//www.current-movie-reviews.com/privacy) for the most accurate reproduction.*
 
 # Privacy | CMR
 
@@ -51,6 +51,8 @@ You may choose to restrict the collection or use of your personal information in
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+[](http://www.facebook.com/share.php?u=http://www.current-movie-reviews.com/privacy/&t=Privacy "Post to Facebook") [](http://twitter.com/home/?status=Privacy+http%3A%2F%2Fcurrent-movie-reviews.com%2F%3Fp%3D93 "Post to Twitter") [](http://buzz.yahoo.com/buzz?targetUrl=http://www.current-movie-reviews.com/privacy/&headline=Privacy... "Post to Yahoo Buzz") [](http://digg.com/submit?url=http://www.current-movie-reviews.com/privacy/&title=Privacy "Post to Digg") [](http://reddit.com/submit?url=http://www.current-movie-reviews.com/privacy/&title=Privacy "Post to Reddit")
 
 Advertisement:  
 
