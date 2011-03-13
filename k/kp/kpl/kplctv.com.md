@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kplctv.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110135724id_/http%3A//www.kplctv.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kplctv.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313035420id_/http%3A//www.kplctv.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - KPLC 7 News, Lake Charles, Louisiana
 
