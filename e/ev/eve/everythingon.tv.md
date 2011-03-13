@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the everythingon.tv privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927073224id_/http%3A//www.everythingon.tv/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingon.tv privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313152906id_/http%3A//www.everythingon.tv/about/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - EverythingOnTv
-
-| 
-
-PRIVACY POLICY 
+# Privacy policy - EverythingOnTV - Free Live Video Streaming, Watch Free Live Sports, Free Streams, Create Free Live Broadcasts
 
 Welcome to the EverythingOn, Inc. (“EverythingOn.Tv”) applications, platform, web site (EverythingOn.Tv), and any other web sites, applications, or services operated or produced by EverythingOn.Tv (collectively, the “EverythingOn Platform”). EverythingOn.Tv values the privacy of the users, subscribers, publishers, members, and others who visit and use the EverythingOn.Tv Platform (collectively or individually, “You” or “Users”).  
 By using the EverythingOn.Tv Platform, you expressly consent to the information handling practices described in this notice.  
@@ -14,7 +10,7 @@ The Information EverythingOn.Tv Collects
 
 * User-provided Information: You may provide to EverythingOn.Tv what is generally called “personally identifiable” information (such as your name, email address, postal mailing address, home/mobile telephone number, credit card number and billing information) if you upload, purchase, or view or download certain content or products from theEverythingOn.Tv Platform, enter contests or sweepstakes, or otherwise use the features and functionality of the EverythingOn.Tv Platform.  
 * “Cookies” Information: When you access the EverythingOn.Tv Platform, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. EverthingOn.Tv may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the EverythingOn.Tv Platform. Persistent cookies can be removed. Please review your web browser “Help” file to learn the proper way to modify your cookie settings.  
-* “Automatically Collected” Information: When you access the EverythingOn.Tv Platform or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This “automatically collected” information may include Internet Protocol address (“IP Address”), a unique user ID, version of software installed, system type, the content and pages that you access on the EverythingOn.Tv Platform , and the dates and times that you visit the EverythingOn.Tv Platform. 
+* “Automatically Collected” Information: When you access the EverythingOn.Tv Platform or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology. This “automatically collected” information may include Internet Protocol address (“IP Address”), a unique user ID, version of software installed, system type, the content and pages that you access on the EverythingOn.Tv Platform , and the dates and times that you visit the EverythingOn.Tv Platform.
 
 The Way EverythingOn.Tv Uses Information
 
@@ -29,12 +25,9 @@ When EverythingOn.Tv Discloses Information
 * EverthingOn.Tv may disclose Automatically Collected and other aggregate non-personally-identifiable information with interested third parties to assist such parties in understanding the usage and demographic patterns for certain programs, content, services, advertisements, promotions, or other functionality of EverthingOn.Tv.  
 * We may disclose some limited User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; and assist EverthingOn.Tv in improving the EverthingOn.Tv Platform and creating new services features. We require that these parties process such information in compliance with this Privacy Notice, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.  
 * EverthingOn.Tv may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright law) or respond to a court order, judicial or other government subpoena, or warrant in the manner required by the requesting entity.  
-* EverthingOn.Tv also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect EverthingOn.Tv from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the EverthingOn.Tv Platform; or to protect the rights, property, or personal safety of EverthingOn.Tv, our Users, or others.  
-
+* EverthingOn.Tv also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect EverthingOn.Tv from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the EverthingOn.Tv Platform; or to protect the rights, property, or personal safety of EverthingOn.Tv, our Users, or others.
 
   
-
-
 Your Choices  
 You may, of course, decline to share your personally-identifiable information with EverthingOn.Tv, in which case EverythingOn.Tv will not be able to provide to you some of the features and functionality found on the EverythingOn.Tv Platform. You may update, correct, or delete your user information and preferences by clicking on the “Edit Settings” link on the top left of the page once you have logged in to the EverthingOn.Tv Platform.  
 To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.  
@@ -58,7 +51,4 @@ Changes and Updates to this Privacy Notice:
 This Privacy Notice may be revised periodically without further notice to you and this will be reflected by a “last modified” date below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received that personal information. Your continued use of the EverythingOn.Tv Platform constitutes your agreement to this Privacy Notice and any future revisions.  
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will make reasonable efforts to notify you and obtain your consent before implementing revisions with respect to such information.  
 Justin.tv Contact Information:  
-Please contact EverythingOn.Tv with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: contact@everythingon.tv. We will respond to your inquiry within 30 days of its receipt.  
-
-
-| 
+Please contact EverythingOn.Tv with any questions or comments about this Privacy Notice, your personal information, and our third-party disclosure practices or your consent choices at: contact@everythingon.tv. We will respond to your inquiry within 30 days of its receipt.
