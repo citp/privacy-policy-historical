@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medem.com privacy policy that was archived on 2010-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100703043405id_/http%3A//medfusion.net/docs/Medfusion%2520Internet%2520Privacy%2520Policy%2520V1_1a.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medem.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313222415id_/http%3A//medfusion.net/docs/Medfusion%2520Internet%2520Privacy%2520Policy%2520V1_1a.pdf) for the most accurate reproduction.*
 
 # 
 
