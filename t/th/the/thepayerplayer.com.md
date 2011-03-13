@@ -1,33 +1,39 @@
-> *The following text is extracted and transformed from the thepayerplayer.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225134104id_/http%3A//www.thepayerplayer.com/content/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepayerplayer.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314003808id_/http%3A//www.lucidmeetings.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Lucid Meetings
 
-The Payer Player, LLC, The Payer Player.com and The Payer Player desktop client (Collectively referred to as The Payer Player Company) respects your privacy. All information collected at The Payer Player Company will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to The Payer Player Company will be held with the utmost care, and will not be used in ways that you have not consented to. 
+We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-**Resale or disclosure of information to third parties:**
+It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
 
-The Payer Player Company does not sell, rent, trade, loan, or lease any personal information collected at our site, including membership forms or e-mail lists. 
+We transfer information about you if Second Rise or Lucid Meetings is acquired by or merged with another company. In this event, Second Rise will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-**Browser information collected on the Web site and within the desktop client:**
+## INFORMATION GATHERING AND USAGE
 
-The Payer Player Company analyzes the Web site logs, and application logs to improve the value of the materials available within our company. We cannot see activity outside of the Payer Player environment, however we analyze internal data to improve the user experience
+When you register for Lucid Meetigns we ask for information such as your name, company name, email address, billing address, credit card information.
 
-**Ad Servers:**
+Second Rise uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages and within the Desktop-Client. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click-stream information. 
+## COOKIES
 
-**Advertisements:**
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
 
-We currently have ads served by an in-house program, which follows these privacy guidelines. 
+Cookies are required to use the Lucid Meetings service.
 
-**Use of cookies:**
+We use cookies to record current session information, but do not use permanent cookies. You are required to log-in to your Lucid Meetings account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
 
-The Payer Player.com does use cookies on its Web site, mostly in order to track traffic coming from other Web sites and leaving to other Web sites. We do not use the cookies to attempt to link them with individuals to make any information personally identifiable. 
+## DATA STORAGE
 
-**3rd party cookies:**
+Second Rise uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Lucid Meetings. Although Second Rise owns the code, databases, and all rights to the Lucid Meetings application, you retain all rights to your data.
 
-Various advertisers or affiliate merchants on this site may use cookies. Typically it is click stream data so that merchants may ascertain statistical and referral information. However, we do not know specifically what, if any information they may collect. This is beyond our control and we do not accept any liability regarding 3rd party cookies. We therefore refer to respective privacy policies. 
+## DISCLOSURE
 
-**Updates and changes:**
+Second Rise may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
 
-The Payer Player.com reserves the right to replace its Privacy Policy at any time. We suggest that you regularly check [http://www.thepayerplayer.com/content/Privacy_Policy](https://web.archive.org/web/20100225134104id_/http%3A/content/Privacy_Policy "This external link will open in a new window") for updates. Please e-mail _[feedback@thepayerplayer.com](mailto:feedback@thepayerplayer.com "This external link will open in a new window")_ with questions or comments.
+## CHANGES
+
+Second Rise may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Lucid Meetings primary account holder account or by placing a prominent notice on our site.
+
+## QUESTIONS
+
+Any questions about this Privacy Policy should be addressed to support at secondrise dot com.
