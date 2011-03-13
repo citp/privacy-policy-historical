@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sessions.edu privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111170726id_/http%3A//www.sessions.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sessions.edu privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313085827id_/http%3A//www.sessions.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sessions College for Professional Design
 
-Sessions College for Professional Design values the privacy of our students, prospective students and all other users of our sites. We diligently safeguard all data collected through our web properties. By using this website, or any other web property operated by Sessions College, you agree to be bound by the policies disclosed herein.
+Sessions College for Professional Design values the privacy of our students, prospective students and all other users of our sites. Your trust is important to Sessions, therefore, we diligently safeguard all data collected through our web properties and do not sell, rent, share or distribute the data that we collect, except when required by law. By using this website, or any other web property operated by Sessions College, you agree to be bound by the policies disclosed herein.
 
 ## Audience
 
@@ -12,7 +12,7 @@ Visitors outside of the United States should not submit any data unless you agre
 
 ## Privacy
 
-Sessions College does contact users with information about our curriculum including classes, certificates and degrees. Sessions College actively seeks to preserve the privacy of our users by safeguarding all data collected. Appropriate physical, electronic and managerial safeguards are in place to prevent unauthorized access to all data collected, either actively or passively. While we cannot contractually guarantee the safeguarding of your data, we have taken and will continue to pursue all reasonable measures to ensure your privacy.   Sessions College does not share or rent the contact information or personal data of our users with affiliates or third parties.  Users that elect to subscribe to our sister publication NoD: Notes on Design may occasionally receive email on behalf of the sponsors of Notes on Design.
+Sessions College actively seeks to preserve the privacy of our users by safeguarding all data collected. Appropriate physical, electronic and managerial safeguards are in place to prevent unauthorized access to all data collected, either actively or passively. While we cannot contractually guarantee the safeguarding of your data, we have taken and will continue to pursue all reasonable measures to ensure your privacy. 
 
 ## Information Collected
 
@@ -42,11 +42,13 @@ If you feel that this site is not following its stated policy, we encourage you 
 
 Our postal address is 
 
+Sessions College for Professional Design  
+Main Campus  
 398 S. Mill Avenue, Suite 300  
-Tempe, AZ 85281
+Tempe, AZ 85281 
 
 
 
 
-We can be reached via e-mail at info@sessions.edu  
-or you can reach us by telephone at 480 -212-1704
+We can be reached via e-mail at [](mailto:info@sessions.edu)  
+or you can reach us by telephone at 480-212-1704
