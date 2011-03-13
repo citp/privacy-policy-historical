@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unicru.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307052905id_/http%3A//www.kronos.com/kronos-site-usage-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicru.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313075238id_/http%3A//talent.kronos.com/kronos-site-usage-privacy-policy.aspx) for the most accurate reproduction.*
 
-# Untitled Page
+# Kronos Privacy Policy
 
 Through the Site, Kronos Incorporated and our Service Providers may provide you with access to varied user-generated and other content and interactive resources (collectively, “ _Services_ ”). This Privacy Policy sets forth our and our Service Provider’s policies with respect to information including personally identifiable data (“ _Personal Data_ ”) and other information that is collected from you when using the Site. Unless otherwise stated in this Privacy Policy, this policy shall be deemed to apply to us and our Service Providers and all references to “we”, “us” and/or “our” shall include our Service Providers.
 
