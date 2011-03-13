@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netporn.nl privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129021804id_/http%3A//www.netporn.nl/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netporn.nl privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313074313id_/http%3A//www.netporn.nl/privacy.php) for the most accurate reproduction.*
 
 # netporn.nl :: Privacy Policy
 
