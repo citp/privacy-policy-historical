@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentu.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613044516id_/http%3A//www.investmentu.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentu.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313150128id_/http%3A//www.investmentu.com/privacypolicy.html) for the most accurate reproduction.*
 
 # The Investment U Privacy Policy
 
@@ -8,11 +8,11 @@ _Investment U_ takes individual privacy very seriously. We are also aware of the
 
 **Cookies**
 
-Cookies are small files placed on your hard drive by an Internet server when you visit a web site. Some cookies can be used to identify your computer each time you visit a site.
+_InvestmentU.com_ sometimes uses cookies to store and track User information. Cookies enable _InvestmentU.com_ to personalize the viewing experience of a User on the _InvestmentU.com_. When the User revisits _InvestmentU.com_ , _InvestmentU.com_ can recognize the User by the cookie and customize the User’s experience at _InvestmentU.com_ accordingly. For example, _InvestmentU.com_ uses cookies to recognize User access privileges on _InvestmentU.com_ , track Site usage and traffic patterns, add advertisements for goods or services of interest, and estimate  _InvestmentU.com_ ‘s audience size.
 
-_The Investment U_ web site only uses cookies to allow authentication for access to the Subscriber Only areas of our sites. 
+Although most web browsers are initially set up to accept cookies, if you prefer, a User may decline the placement of a cookie on his or her hard drive by using the appropriate feature(s) of one’s web browser software (if available) to delete the cookie. Users should understand, however, that certain areas within the _InvestmentU.com_ may not function properly if the web browser will not accept cookies.
 
-In other words, you can leave the site and come back without having to re-enter your user name and password every time (within a set time period). We do not use cookies to track your browsing habits or collect any information about you.
+In addition, advertisers that serve ads onto _InvestmentU.com_ may also use their own cookies.
 
 **Submitting Data**
 
@@ -20,7 +20,7 @@ At no time are you required to submit personal information to access any area of
 
 **Ordering Online**
 
-Any data you submit to us through an online order form is transferred to us via a Secure Sockets Layer - an encryption protocol - and is kept in databases that cannot be accessed from outside our firewall. 
+Any data you submit to us through an online order form is transferred to us via a Secure Sockets Layer – an encryption protocol – and is kept in databases that cannot be accessed from outside our firewall. 
 
 In other words, any data you send us is encrypted, so in the unlikely event a hacker intercepts your data, it cannot be easily read. Our firewall is a mechanism that prevents access to our servers by anyone outside of the company.
 
