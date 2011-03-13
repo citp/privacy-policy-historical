@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nittygriddy.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221093947id_/http%3A//nittygriddy.com/ng-what/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nittygriddy.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313035222id_/http%3A//nittygriddy.com/ng-what/terms-privacy) for the most accurate reproduction.*
 
 # Terms & Privacy and Other Legal Jargon | nittyGriddy
 
-This privacy policy applies to the use of [http://nittyGriddy.com](https://web.archive.org/web/20101221093947id_/http://nittygriddy.com/ng-what/)
+This privacy policy applies to the use of [http://nittyGriddy.com](https://web.archive.org/web/20110313035222id_/http://nittygriddy.com/ng-what/)
 
 **General**
 
@@ -22,7 +22,7 @@ _*See last paragraph of this document._
 
 This website is the property of nittyGriddy.com (Ingrid Abboud)
 
-  * I can be reached via e-mail through the [Contact](http://nittygriddy.com/email-me/) (Em@il Me) page. 
+  * I can be reached via e-mail through the [Contact](http://nittygriddy.com/email-me/) ([Em@il Me](http://nittygriddy.com/email-me/ "Em@il Me")) page. 
   * For each visitor to my Web page, my Web server automatically recognizes no information regarding the domain or e-mail address.
   * I collect information volunteered by the consumer, such as survey information and/or site registrations.
   * With respect to Ad Servers (a service I may decide to include in the future): At this time, please visit the Google Adsense website for more information on this service and consult their privacy policies. 
