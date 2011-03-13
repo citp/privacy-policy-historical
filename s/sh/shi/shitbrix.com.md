@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shitbrix.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127111543id_/http%3A//shitbrix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shitbrix.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313083458id_/http%3A//shitbrix.com/privacy-policy) for the most accurate reproduction.*
 
 # Shit Brix - Privacy Policy
 
