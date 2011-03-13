@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dumb.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210052214id_/http%3A//dumb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dumb.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313233219id_/http%3A//dumb.com/privacy) for the most accurate reproduction.*
 
 # Dumb.com - Funny Videos, Funny Jokes, Dumb Pictures, Online Games
 
