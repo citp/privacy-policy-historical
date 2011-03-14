@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ggc.edu privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112192226id_/http%3A//www.ggc.edu/component/content/article/926-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ggc.edu privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314185821id_/http%3A//www.ggc.edu/component/content/article/926-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
