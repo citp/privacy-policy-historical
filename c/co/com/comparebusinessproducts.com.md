@@ -1,47 +1,51 @@
-> *The following text is extracted and transformed from the comparebusinessproducts.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225035614id_/http%3A//www.comparebusinessproducts.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparebusinessproducts.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314061425id_/http%3A//www.comparebusinessproducts.com/privacy-policy) for the most accurate reproduction.*
 
-# Business Product Comparisons & Guides by Experts
+# Privacy Policy | Compare Business Products
 
-Compare Business Products (a Wheelhouse Enterprises Website) is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Compare Business Products (a Wheelhouse Enterprises Website) Web site and governs data collection and usage. By using the Compare Business Products (a Wheelhouse Enterprises Website) website, you consent to the data practices described in this statement.
+[www.comparebusinessproducts.com](http://www.comparebusinessproducts.com/) (the SITE) is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the SITE and governs data collection and usage. By using the SITE, you consent to the data practices described in this statement.
 
-Collection of your Personal Information
+###  Collection of your Personal Information
 
-Compare Business Products (a Wheelhouse Enterprises Website) collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Compare Business Products (a Wheelhouse Enterprises Website) also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+Wheelhouse Enterprises, Inc, (the Company) collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. The Company also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-There is also information about your computer hardware and software that is automatically collected by Compare Business Products (a Wheelhouse Enterprises Website). This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Compare Business Products (a Wheelhouse Enterprises Website) for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Compare Business Products (a Wheelhouse Enterprises Website) Web site.
+There is also information about your computer hardware and software that is automatically collected by the Company. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by The Company for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the SITE.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Compare Business Products (a Wheelhouse Enterprises Website) public message boards, this information may be collected and used by others. Note: Compare Business Products (a Wheelhouse Enterprises Website) does not read any of your private online communications.
+###  Use of your Personal Information
 
-Compare Business Products (a Wheelhouse Enterprises Website) encourages you to review the privacy statements of Web sites you choose to link to from Compare Business Products (a Wheelhouse Enterprises Website) so that you can understand how those Web sites collect, use and share your information. Compare Business Products (a Wheelhouse Enterprises Website) is not responsible for the privacy statements or other content on Web sites outside of the Compare Business Products (a Wheelhouse Enterprises Website) and Compare Business Products (a Wheelhouse Enterprises Website) family of Web sites.
+The Company collects and uses your personal information to operate the SITE and deliver the services you have requested. The Company also uses your personally identifiable information to inform you of other products or services available from The Company and its affiliates. There are cases where your personally identifiable and non-personally identifiable information is shared with third parties.
 
-Use of your Personal Information
+Your non-personally identifiable data may be shared with third-party partners of the Company, on an anonymous basis. When you request information from the Company or one or more of our clients, we may transfer that information within the Company or route your information to our client(s) so that they may provide the information that you requested. In addition to the above situations where your information may be shared with others, there is also the possibility that the Company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information.
 
-Compare Business Products (a Wheelhouse Enterprises Website) collects and uses your personal information to operate the Compare Business Products (a Wheelhouse Enterprises Website) Web site and deliver the services you have requested. Compare Business Products (a Wheelhouse Enterprises Website) also uses your personally identifiable information to inform you of other products or services available from Compare Business Products (a Wheelhouse Enterprises Website) and its affiliates. Compare Business Products (a Wheelhouse Enterprises Website) may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+The Company will disclose your personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on The Company or the site; (b) protect and defend the rights or property of the SITE; and, (c) act under exigent circumstances to protect the personal safety of users of the SITE, or the public.
 
-Compare Business Products (a Wheelhouse Enterprises Website) does not sell, rent or lease its customer lists to third parties. Compare Business Products (a Wheelhouse Enterprises Website) may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Compare Business Products (a Wheelhouse Enterprises Website) may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Compare Business Products (a Wheelhouse Enterprises Website), and they are required to maintain the confidentiality of your information.
+###  Use of Cookies
 
-Compare Business Products (a Wheelhouse Enterprises Website) does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+The SITE uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-Compare Business Products (a Wheelhouse Enterprises Website) keeps track of the Web sites and pages our customers visit within Compare Business Products (a Wheelhouse Enterprises Website), in order to determine what Compare Business Products (a Wheelhouse Enterprises Website) services are the most popular. This data is used to deliver customized content and advertising within Compare Business Products (a Wheelhouse Enterprises Website) to customers whose behavior indicates that they are interested in a particular subject area.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the SITE.
 
-Compare Business Products (a Wheelhouse Enterprises Website) Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Compare Business Products (a Wheelhouse Enterprises Website) or the site; (b) protect and defend the rights or property of Compare Business Products (a Wheelhouse Enterprises Website); and, (c) act under exigent circumstances to protect the personal safety of users of Compare Business Products (a Wheelhouse Enterprises Website), or the public.
+###  Security of your Personal Information
 
-Use of Cookies
+The Company secures your personal information from unauthorized access, use or disclosure. The Company secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure.
 
-The Compare Business Products (a Wheelhouse Enterprises Website) Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+###  Your California Privacy Rights
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Compare Business Products (a Wheelhouse Enterprises Website) pages, or register with Compare Business Products (a Wheelhouse Enterprises Website) site or services, a cookie helps Compare Business Products (a Wheelhouse Enterprises Website) to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Compare Business Products (a Wheelhouse Enterprises Website) Web site, the information you previously provided can be retrieved, so you can easily use the Compare Business Products (a Wheelhouse Enterprises Website) features that you customized.
+Beginning January 1, 2005, California passed legislation requiring certain disclosures be made available to California residents who use the Internet to provide information that may be used for marketing purposes. California residents may request information about whether the business has disclosed personally identifiable information to third parties and may also request that this information not be shared. If you are a California resident, you may request this at the address below.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Compare Business Products (a Wheelhouse Enterprises Website) services or Web sites you visit.
+###  Children
 
-Security of your Personal Information
+In compliance with the Children's Online Privacy Protection Act (COPPA), Focus Research, Inc. websites are not directed at children less than thirteen years of age, and the Company does not intend to collect personally identifiable information from such individuals.
 
-Compare Business Products (a Wheelhouse Enterprises Website) secures your personal information from unauthorized access, use or disclosure. Compare Business Products (a Wheelhouse Enterprises Website) secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+###  Changes to this Statement
 
-Changes to this Statement
+The Company will occasionally update this Statement of Privacy to reflect company and customer feedback. The Company encourages you to periodically review this Statement to be informed of how The Company is protecting your information.
 
-Compare Business Products (a Wheelhouse Enterprises Website) will occasionally update this Statement of Privacy to reflect company and customer feedback. Compare Business Products (a Wheelhouse Enterprises Website) encourages you to periodically review this Statement to be informed of how Compare Business Products (a Wheelhouse Enterprises Website) is protecting your information.
+###  Contact Information
 
-Contact Information
+The Company welcomes your comments regarding this Statement of Privacy. If you believe that The Company has not adhered to this Statement, please contact The Company at:
 
-Compare Business Products (a Wheelhouse Enterprises Website) welcomes your comments regarding this Statement of Privacy. If you believe that Compare Business Products (a Wheelhouse Enterprises Website) has not adhered to this Statement, please contact Compare Business Products (a Wheelhouse Enterprises Website) at [marketing1@wheelhousecorp.com](mailto:marketing1@wheelhousecorp.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+###  Wheelhouse Enterprises, Inc
+
+2181 Park Blvd  
+Palo Alto, CA 94028  
+650-681-9888
