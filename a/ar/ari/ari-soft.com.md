@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121140026id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ari-soft.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315003022id_/http%3A//www.ari-soft.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ARI Soft - Privacy Policy
+
+You currently have **0 items** in your cart.
+
+  * 16/02/2011 Joomla 1.6! extensions. Part 2
+
+  * 10/02/2011 ARI Quiz v. 2.9.10
+
+ARI Quiz v. 2.9.10 is ready. It provides ability to set start and/or end date of quiz publication
+
+
+  
+
+
+[](http://www.twitter.com/ARISoft)
 
 ARI Soft Privacy Policy is deeply committed to protecting the privacy of our customers.
 
