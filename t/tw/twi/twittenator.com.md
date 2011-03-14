@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twittenator.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207072637id_/http%3A//twittenator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twittenator.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314155204id_/http%3A//twittenator.com/privacy.html) for the most accurate reproduction.*
 
 # Twittenate Your Social Marketing
 
