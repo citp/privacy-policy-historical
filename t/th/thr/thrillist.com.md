@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the thrillist.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819071559id_/http%3A//www.thrillist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrillist.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314073617id_/http%3A//www.thrillist.com/privacypolicy) for the most accurate reproduction.*
 
-# Thrillist | A daily email shot of food, drinks, services, gadgets, gear, sports and travel.
-
-### Privacy Policy
+# Privacy Policy | Thrillist
 
 Thrillist will never sell our integrity. Just as importantly, Thrillist will never rent, share, or sell our subscriber list. Not even for really hot sex. We appreciate you letting us into your email, and we promise not to abuse that trust. We make this promise because we understand just how much you value your privacy. The policy below describes how we treat the information we collect when you visit our site and/or register for Thrillist. Please read this carefully. There will not be a test, but it's still important. 
 
-For more information about the terms and conditions of using this site please see our [**Ts+Cs**](http://www.thrillist.com/tscs) page. 
+For more information about the terms and conditions of using this site please see our [**Ts+Cs**](https://web.archive.org/tscs) page. 
 
 #### Your Information
 
@@ -55,6 +53,8 @@ All of the information described above is recorded on embossed sheets of gold le
 #### Modifications
 
 Thrillist may make changes to this policy in the future. Not wholesale changes, like "Privacy? Forget that noise!" Just modifications. If and when we do, we'll be sure to inform you here. 
+
+JackThreads is a corporate affiliate of Thrillist. For the Privacy Policy and Terms of service applicable to your interaction with JackThreads, [click here](http://www.jackthreads.com/privacy "JackThreads Privacy Policy"). 
 
 #### Contact Us
 
