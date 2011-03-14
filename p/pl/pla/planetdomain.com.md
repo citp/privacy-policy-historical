@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetdomain.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528153721id_/http%3A//www.planetdomain.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetdomain.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314124500id_/http%3A//www.planetdomain.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PlanetDomain | Australia | Canada | USA | UK
 
@@ -44,4 +44,4 @@ When a domain name is registered, certain information is collected for use on th
 
 As a customer of PlanetDomain you will receive occasional email communications from PlanetDomain that relate to the services we provide to you, and you will have the option to opt-out of all non-essential email and postal mail.
 
-If you have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20100528153721id_/http%3A//www.planetdomain.com/contact.php).
+If you have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20110314124500id_/http%3A//www.planetdomain.com/contact.php).
