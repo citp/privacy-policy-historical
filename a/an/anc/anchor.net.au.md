@@ -1,41 +1,10 @@
-> *The following text is extracted and transformed from the anchor.net.au privacy policy that was archived on 2006-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060821064027id_/http%3A//www.anchor.net.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchor.net.au privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314165435id_/http%3A//www.anchor.com.au/about-us/terms-conditions/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
-
-  webhosting australia, dedicated servers and co-location|   
-  
-[](http://www.anchor.net.au/about.php)[](http://www.anchor.net.au/services.php)[](http://www.anchor.net.au/web-hosting-order.php)[](http://www.anchor.net.au/help.php)[](http://www.anchor.net.au/news.php)[](http://www.anchor.net.au/contact.php)|  |   
-[](http://www.anchor.net.au/)  
----  
-| | |   
----|---|---  
-  
-   
-  
- [Email Hosting](http://www.anchor.net.au/email-hosting.php)  
-  
- [Web Hosting](http://www.anchor.net.au/web-hosting.php)  
-  
-[Dedicated Servers](http://www.anchor.net.au/dedicated.php)  
-  
-[Co-Location](http://www.anchor.net.au/colocation.php)  
-  
-[Domains](http://www.securedomains.com.au/)  
-  
-[Support](http://www.anchor.net.au/help.php)  
-  
-  
-
-
-| 
-
-## Privacy Policy
-
-* * *
+# Privacy Policy - Web hosting & Dedicated Hosting Servers at Anchor.com.au
 
   * Anchor Systems only collects information which is voluntarily supplied by you through forms.
   * Personal information collected will only be used for the purpose of billing and account administration.
-  * Anchor Systems will not share any of the information collected with external parties with the following exceptions - When an account is created which requires a domain name to be registered, we will as required by the domain registrars pass on to to them the following information: 
+  * Anchor Systems will not share any of the information collected with external parties with the following exceptions – When an account is created which requires a domain name to be registered, we will as required by the domain registrars pass on to to them the following information: 
     * Contact Name
     * Contact email address
     * Company Postal Address
@@ -44,19 +13,6 @@
   * Anchor Systems has in place security measures to ensure that personal information stored on our system is secured and un-authorised access is prevented.
   * Sensitive information such as credit card numbers will not be stored on computers that remain connected to the Internet on a permanent basis to further protect against misuse.
   * Whilst Anchor Systems does have access to all information stored on our servers, we will at no time unless required by law disclose the contents of any information stored on our equipment.
+  * When a domain name is registered, certain information is collected for use on the WHOIS service. The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDAs WHOIS policy at http://www.auda.org.au/whois-policy which sets out auDA’s guidelines on the collection, disclosure and use of WHOIS data.
 
-  
-  
----|---  
-  
-[Online Payment](https://anchor.net.au/cgi-bin/ssl_secure/ccard-payment)  
-  
-[Feedback](https://web.archive.org/feedback.php)  
-  
-[Home](http://www.anchor.net.au/)  
-  
-[Jobs](http://www.anchor.net.au/jobs.php)  
-  
-  
-| Free call: 1800 002 464 | Email: enquiries@anchor.net.au | © Copyright 2002 Anchor Systems Pty Ltd  
----|---
+
