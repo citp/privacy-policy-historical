@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themresort.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821202950id_/http%3A//www.themresort.com/visitorinfo/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themresort.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314225524id_/http%3A//www.themresort.com/visitorinfo/policy.html) for the most accurate reproduction.*
 
-# The M Resort Spa Casino Las Vegas • Privacy Policy
+# Privacy Policy | The M Resort Spa Casino Hotel Las Vegas
 
 _At M Resort, we are aware of your concerns about privacy. We have implemented policies and procedures to ensure that your personal information is handled safely and with the utmost responsibility. The following Privacy Policy outlines the type of information M Resort will collect and how it will be used. These procedures apply to only M Resort. In the event additional properties are included, this Privacy Policy will be updated to include those web sites_.
 
