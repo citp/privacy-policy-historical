@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosurf.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202102907id_/http%3A//www.videosurf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosurf.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315002305id_/http%3A//www.videosurf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VideoSurf Video Search
 
