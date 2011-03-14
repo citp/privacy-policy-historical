@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newinti.edu.my privacy policy that was archived on 2010-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101111103648id_/http%3A//www.newinti.edu.my/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newinti.edu.my privacy policy that was archived on 2011-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110314021431id_/http%3A//www.newinti.edu.my/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -21,7 +21,7 @@
 <link href="http://www.newinti.edu.my/v2/wp-content/themes/default/css/tac.css" rel="stylesheet" type="text/css">
 
 
-	<script src="http://www.newinti.edu.my/v2/wp-content/plugins/enhanced-categories/js/enhanced-categories.js" type="text/javascript"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.newinti.edu.my/v2/wp-content/plugins/enhanced-categories/js/enhanced-categories.js" type="text/javascript"></script>
 	<script type="text/javascript" src="http://www.newinti.edu.my/v2/wp-content/themes/default/js/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.newinti.edu.my/v2/wp-content/themes/default/js/jquery-ui-1.7.custom.min.js"></script>
 <script type="text/javascript" src="http://www.newinti.edu.my/v2/wp-content/themes/default/js/jquery.sexy-combo-2.0.6.min.js"></script>
@@ -54,9 +54,9 @@ $j("#navi-main").superfish({
 <!--
 <script language="JavaScript" type="text/javascript" src="http://www.newinti.edu.my/v2/wp-content/themes/default/Scripts/accordion/SpryAccordion.js"></script>
 -->
-<script type="text/javascript" src="http://www.newinti.edu.my/v2/wp-content/themes/default/Scripts/prototype.js"></script> 
-<script type="text/javascript" src="http://www.newinti.edu.my/v2/wp-content/themes/default/Scripts/scriptaculous.js?load=effects,dragdrop"></script> 
-<script type="text/javascript" src="http://www.newinti.edu.my/v2/wp-content/themes/default/Scripts/lightbox.js"></script> 
+<script type="text/javascript" src="http://www.newinti.edu.my/v2/wp-content/themes/default/Scripts/prototype.js"></script>
+<script type="text/javascript" src="http://www.newinti.edu.my/v2/wp-content/themes/default/Scripts/scriptaculous.js?load=effects,dragdrop"></script>
+<script type="text/javascript" src="http://www.newinti.edu.my/v2/wp-content/themes/default/Scripts/lightbox.js"></script>
 <!-- this is for the fade in and out banner -->
 <script src="http://www.newinti.edu.my/v2/wp-content/themes/default/includes/SpryEffects.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -90,7 +90,7 @@ function ChangeOpacity(id,msDuration,msStart,fromO,toO)
   var opacity = element.style.opacity * 100;
   var msNow = (new Date()).getTime();
   opacity = fromO + (toO - fromO) * (msNow - msStart) / msDuration;
-  if (opacity<0) 
+  if (opacity<0)
     SetOpacity(element,0)
   else if (opacity>100)
     SetOpacity(element,100)
@@ -103,14 +103,14 @@ function ChangeOpacity(id,msDuration,msStart,fromO,toO)
 function FadeIn(id)
 {
   var element=document.getElementById(id);
-  if (element.timer) window.clearTimeout(element.timer); 
+  if (element.timer) window.clearTimeout(element.timer);
   var startMS = (new Date()).getTime();
   element.timer = window.setTimeout("ChangeOpacity('" + id + "',1000," + startMS + ",0,100)",1);
 }
 function FadeOut(id)
 {
   var element=document.getElementById(id);
-  if (element.timer) window.clearTimeout(element.timer); 
+  if (element.timer) window.clearTimeout(element.timer);
   var startMS = (new Date()).getTime();
   element.timer = window.setTimeout("ChangeOpacity('" + id + "',1000," + startMS + ",100,0)",1);
 }
@@ -129,7 +129,7 @@ function FadeInImage(foregroundID,newImage,backgroundID)
   }
   SetOpacity(foreground,0);
   foreground.src = newImage;
-  if (foreground.timer) window.clearTimeout(foreground.timer); 
+  if (foreground.timer) window.clearTimeout(foreground.timer);
   var startMS = (new Date()).getTime();
   foreground.timer = window.setTimeout("ChangeOpacity('" + foregroundID + "',1000," + startMS + ",0,100)",10);
 }
@@ -172,121 +172,117 @@ function MM_swapImage() { //v3.0
 }
 
 function doFade(flag){
-	
+
 	global_flag = flag;
 	rotateFlag = false;
 	FadeInImage('bannerimg',slideimages[global_flag-1].src,'banners')
 
 				var placeholder = document.getElementById("bannerimg");
-				
+
 				if(global_flag == 1){
-					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_laureate.jpg"){ 
-						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_laureate.jpg";
+					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_openday.jpg"){
+						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_openday.jpg";
 					}
 				}else if(global_flag == 2){
-					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_bls.jpg"){
-						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_bls.jpg";
+					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_promo.jpg"){
+						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_promo.jpg";
 					}
 				}else if(global_flag == 3){
+					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_uow.jpg"){
+						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_uow.jpg";
+					}
+				}else if(global_flag == 4){
+					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_laureate.jpg"){
+						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_laureate.jpg";
+					}
+				}else if(global_flag == 5){
 					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_intern.jpg"){
 						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_intern.jpg";
 					}
-				}else if(global_flag == 4){
-					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_scholar.jpg"){
-						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_scholar.jpg";
-					}
-				}else if(global_flag == 5){
+				}else if(global_flag == 6){
 					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_intakes.jpg"){
 						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_intakes.jpg";
 					}
-				}else if(global_flag == 6){
-					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_post.jpg"){
-						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_post.jpg";
-					}
 				}
-				
-				
-				if (global_flag ==1){
-					
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate2.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-						
+
+			if (global_flag ==1){
+
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday2.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
 						}
 					else if(global_flag ==2)
 					{
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls2.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-					
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo2.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
 					}
 					else if(global_flag ==3)
 					{
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern2.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-					}	
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow2.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
+					}
 					else if(global_flag ==4)
 					{
-					
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar2.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-					
-					}	
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate2.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
+					}
 					else if(global_flag ==5)
 					{
 					//alert("image 5")
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes2.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-					}	
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern2.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
+					}
 					else if(global_flag ==6)
 					{
-					
 						//alert("image button 6")
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post2.png',1)	
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-					
-						
-					}	
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes2.png',1)
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+
+					}
 
 }
 
 function bannerLinkTo(){
 	if(global_flag == 1){
-		window.location = "http://www.newinti.edu.my/category/intiuc/intiuc-about/intiuc-world-class-edu/&tab=5/#ltabs-5";
+		window.location = "http://www.newinti.edu.my/global/news-events/group-events/public-exhibitions-roadshows/";
 	}else if(global_flag == 2){
-		document.getElementById("containerDiv").style.display = "" ;
-		test.open();
+		window.location = "http://www.newinti.edu.my/2011intakes/"
 	}else if(global_flag == 3){
-		window.location = "http://www.newinti.edu.my/category/intiuc/intiuc-prosp-students/intiuc-student-services/&tab=6/#ltabs-6";
+		window.location = "http://www.newinti.edu.my/uow";
 	}else if(global_flag == 4){
-		window.location = "http://www.newinti.edu.my/category/global/prosp-students/fees-payments/&tab=1/#ltabs-1";
+		window.location = "http://www.newinti.edu.my/category/global/about/world-class-edu/&tab=5/#ltabs-5";
 	}else if(global_flag == 5){
-		window.location = "http://www.newinti.edu.my/category/intiuc/intiuc-prosp-students/intiuc-intakes/";
+		window.location = "http://www.newinti.edu.my/category/global/prosp-students/student-services/&tab=5/#ltabs-5";
 	}else if(global_flag == 6){
-		document.getElementById("containerDiv2").style.display = "" ;
-		test2.open();
+		window.location = "http://www.newinti.edu.my/category/global/prosp-students/intakes/";
 	}
 }
 
@@ -294,8 +290,7 @@ function closeLink(){
 	if(global_flag == 1){
 		return;
 	}else if(global_flag == 2){
-		document.getElementById("containerDiv").style.display = "none" ;
-		test.close();
+		return;
 	}else if(global_flag == 3){
 		return;
 	}else if(global_flag == 4){
@@ -303,25 +298,24 @@ function closeLink(){
 	}else if(global_flag == 5){
 		return;
 	}else if(global_flag == 6){
-		document.getElementById("containerDiv2").style.display = "none" ;
-		test2.close();
+		return;
 	}
 }
 
 //newsletter ajax
 function swapMain(){
 	var frameObj = document.getElementById("Email");
-	
-	 
+
+
 		frameObj.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/emailBP.php";
-	 
+
 }
 
 function echeck(str) {
 
 	 	var element = document.getElementById("content");
-		
-	
+
+
 		var at="@"
 		var dot="."
 		var lat=str.indexOf(at)
@@ -331,8 +325,8 @@ function echeck(str) {
 		   element.innerHTML = "Invalid Email."
 		   return false
 		}
-		
-		 
+
+
 
 		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
 		   //alert("Invalid E-mail ID")
@@ -359,23 +353,23 @@ function echeck(str) {
 		    element.innerHTML = "Invalid Email."
 		    return false
 		 }
-		
+
 		 if (str.indexOf(" ")!=-1){
 		    element.innerHTML = "Invalid Email."
 		    return false
 		 }
 
- 		 return true			
+ 		 return true
 }
 
 function ValidateForm()
 {
 	var emailID= document.form.email;
  	var element = document.getElementById("content");
-	
-	
+
+
 	if ((emailID.value==null)||(emailID.value=="")){
-		 
+
 		element.innerHTML = "Please Enter your Email."
 		emailID.focus()
 		return false
@@ -385,30 +379,30 @@ function ValidateForm()
 		emailID.focus()
 		return false
 	}
-	
+
 	//emailID.value =""
 	//emailID.focus()
 	return true
  }
- 
+
  function doSubmit()
  {
- 
+
 	if(ValidateForm() == true)
 	{
- 
-		 
- 
+
+
+
 		createRequestObj();
 
-		 
+
 
 	}
 
 
  }
- 
- 
+
+
 function createRequestObj() {
  var xhr;
 var emailID= document.form.email.value;
@@ -427,50 +421,88 @@ else
   }
 }
 */
- 
+
   if (window.ActiveXObject) {
-  
+
   		try
-		{ 
-		 
+		{
+
   //  xhr = new ActiveXObject("Microsoft.XMLHTTP");
-	 
+
 	 	 xhr = new ActiveXObject("MSXML2.XMLHTTP");
 		}
 	catch(ex)
-	
+
 	{
 		xhr = new ActiveXObject("Microsoft.XMLHTTP");
 	}
-		
+
   } else {
-  
- 		 
+
+
      	 xhr = new XMLHttpRequest();
-		 
+
  		 }
  // alert("before url");
  // var sURL = "http://9lives.com.my/test/IntiEmail/emailBP.php?email="+emailID;
 
 	 var sURL = "http://www.newinti.edu.my/v2/wp-content/themes/default/emailBP.php?email="+emailID;
-	 
+
  	xhr.open( "POST", sURL, false );
-	 	
+
 	//xhr.onreadystatechange = dataProcessingFunction;
 	xhr.send(emailID);
 	//alert ("email id at html" + emailID);
- 			 
+
    if (xhr.readyState == 4) {
 
-		 
-		 
+
+
 		//alert("Sorry - the User ID >>  " + xhr.responseText);
 		var element = document.getElementById("content");
 		element.innerHTML = xhr.responseText;
- 	 
-			
+
+
 	//alert("after url");
   	}
+}
+
+function redoswf_length(){
+
+	var objCrawler = document.getElementById("crawler");
+
+	var myWidth;
+	var myHeight;
+
+	if( typeof( window.innerWidth ) == 'number' ) {
+
+		//Non-IE
+
+		myWidth = window.innerWidth;
+		myHeight = window.innerHeight;
+
+	} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+
+		//IE 6+ in 'standards compliant mode'
+
+		myWidth = document.documentElement.clientWidth;
+		myHeight = document.documentElement.clientHeight;
+
+	} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+
+		//IE 4 compatible
+
+		myWidth = document.body.clientWidth;
+		myHeight = document.body.clientHeight;
+
+	}
+
+	objCrawler.style.display = "block";
+	objCrawler.style.top = (((myHeight/2)-800)+150)+"px";
+	//objCrawler.style.top = "350px";
+
+	//alert(objCrawler.style.top);
+
 }
 
 </script>
@@ -530,7 +562,7 @@ function ChangeOpacity(id,msDuration,msStart,fromO,toO)
   var opacity = element.style.opacity * 100;
   var msNow = (new Date()).getTime();
   opacity = fromO + (toO - fromO) * (msNow - msStart) / msDuration;
-  if (opacity<0) 
+  if (opacity<0)
     SetOpacity(element,0)
   else if (opacity>100)
     SetOpacity(element,100)
@@ -543,14 +575,14 @@ function ChangeOpacity(id,msDuration,msStart,fromO,toO)
 function FadeIn(id)
 {
   var element=document.getElementById(id);
-  if (element.timer) window.clearTimeout(element.timer); 
+  if (element.timer) window.clearTimeout(element.timer);
   var startMS = (new Date()).getTime();
   element.timer = window.setTimeout("ChangeOpacity('" + id + "',1000," + startMS + ",0,100)",1);
 }
 function FadeOut(id)
 {
   var element=document.getElementById(id);
-  if (element.timer) window.clearTimeout(element.timer); 
+  if (element.timer) window.clearTimeout(element.timer);
   var startMS = (new Date()).getTime();
   element.timer = window.setTimeout("ChangeOpacity('" + id + "',1000," + startMS + ",100,0)",1);
 }
@@ -569,7 +601,7 @@ function FadeInImage(foregroundID,newImage,backgroundID)
   }
   SetOpacity(foreground,0);
   foreground.src = newImage;
-  if (foreground.timer) window.clearTimeout(foreground.timer); 
+  if (foreground.timer) window.clearTimeout(foreground.timer);
   var startMS = (new Date()).getTime();
   foreground.timer = window.setTimeout("ChangeOpacity('" + foregroundID + "',1000," + startMS + ",0,100)",10);
 }
@@ -612,121 +644,116 @@ function MM_swapImage() { //v3.0
 }
 
 function doFade(flag){
-	
+
 	global_flag = flag;
 	rotateFlag = false;
 	FadeInImage('bannerimg',slideimages[global_flag-1].src,'banners')
 
 				var placeholder = document.getElementById("bannerimg");
-				
+
 				if(global_flag == 1){
-					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_laureate.jpg"){ 
-						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_laureate.jpg";
+					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_openday.jpg"){
+						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_openday.jpg";
 					}
 				}else if(global_flag == 2){
-					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_bls.jpg"){
-						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_bls.jpg";
+					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_promo.jpg"){
+						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_promo.jpg";
 					}
 				}else if(global_flag == 3){
+					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_uow.jpg"){
+						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_uow.jpg";
+					}
+				}else if(global_flag == 4){
+					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_laureate.jpg"){
+						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_laureate.jpg";
+					}
+				}else if(global_flag == 5){
 					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_intern.jpg"){
 						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_intern.jpg";
 					}
-				}else if(global_flag == 4){
-					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_scholar.jpg"){
-						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_scholar.jpg";
-					}
-				}else if(global_flag == 5){
+				}else if(global_flag == 6){
 					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_intakes.jpg"){
 						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_intakes.jpg";
 					}
-				}else if(global_flag == 6){
-					if(placeholder.src != "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_post.jpg"){
-						placeholder.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_post.jpg";
-					}
 				}
-				
-				
-				if (global_flag ==1){
-					
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate2.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-						
+
+			if (global_flag ==1){
+
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday2.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
 						}
 					else if(global_flag ==2)
 					{
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls2.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-					
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo2.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
 					}
 					else if(global_flag ==3)
 					{
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern2.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-					}	
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow2.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
+					}
 					else if(global_flag ==4)
 					{
-					
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar2.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-					
-					}	
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate2.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
+					}
 					else if(global_flag ==5)
 					{
 					//alert("image 5")
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes2.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-					}	
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern2.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
+					}
 					else if(global_flag ==6)
 					{
-					
 						//alert("image button 6")
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post2.png',1)	
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-					
-						
-					}	
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes2.png',1)
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
 
+					}
 }
 
 function bannerLinkTo(){
 	if(global_flag == 1){
-		window.location = "http://www.newinti.edu.my/category/intiuc/intiuc-about/intiuc-world-class-edu/&tab=5/#ltabs-5";
+		window.location = "http://www.newinti.edu.my/global/news-events/group-events/public-exhibitions-roadshows/";
 	}else if(global_flag == 2){
-		document.getElementById("containerDiv").style.display = "" ;
-		test.open();
+		window.location = "http://www.newinti.edu.my/2011intakes/"
 	}else if(global_flag == 3){
-		window.location = "http://www.newinti.edu.my/category/intiuc/intiuc-prosp-students/intiuc-student-services/&tab=6/#ltabs-6";
+		window.location = "http://www.newinti.edu.my/uow";
 	}else if(global_flag == 4){
-		window.location = "http://www.newinti.edu.my/category/global/prosp-students/fees-payments/&tab=1/#ltabs-1";
+		window.location = "http://www.newinti.edu.my/category/global/about/world-class-edu/&tab=5/#ltabs-5";
 	}else if(global_flag == 5){
-		window.location = "http://www.newinti.edu.my/category/intiuc/intiuc-prosp-students/intiuc-intakes/";
+		window.location = "http://www.newinti.edu.my/category/global/prosp-students/student-services/&tab=5/#ltabs-5";
 	}else if(global_flag == 6){
-		document.getElementById("containerDiv2").style.display = "" ;
-		test2.open();
+		window.location = "http://www.newinti.edu.my/category/global/prosp-students/intakes/";
 	}
 }
 
@@ -734,8 +761,7 @@ function closeLink(){
 	if(global_flag == 1){
 		return;
 	}else if(global_flag == 2){
-		document.getElementById("containerDiv").style.display = "none" ;
-		test.close();
+		return;
 	}else if(global_flag == 3){
 		return;
 	}else if(global_flag == 4){
@@ -743,25 +769,24 @@ function closeLink(){
 	}else if(global_flag == 5){
 		return;
 	}else if(global_flag == 6){
-		document.getElementById("containerDiv2").style.display = "none" ;
-		test2.close();
+		return;
 	}
 }
 
 //newsletter ajax
 function swapMain(){
 	var frameObj = document.getElementById("Email");
-	
-	 
+
+
 		frameObj.src = "http://www.newinti.edu.my/v2/wp-content/themes/default/emailBP.php";
-	 
+
 }
 
 function echeck(str) {
 
 	 	var element = document.getElementById("content");
-		
-	
+
+
 		var at="@"
 		var dot="."
 		var lat=str.indexOf(at)
@@ -771,8 +796,8 @@ function echeck(str) {
 		   element.innerHTML = "Invalid Email."
 		   return false
 		}
-		
-		 
+
+
 
 		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
 		   //alert("Invalid E-mail ID")
@@ -799,23 +824,23 @@ function echeck(str) {
 		    element.innerHTML = "Invalid Email."
 		    return false
 		 }
-		
+
 		 if (str.indexOf(" ")!=-1){
 		    element.innerHTML = "Invalid Email."
 		    return false
 		 }
 
- 		 return true			
+ 		 return true
 }
 
 function ValidateForm()
 {
 	var emailID= document.form.email;
  	var element = document.getElementById("content");
-	
-	
+
+
 	if ((emailID.value==null)||(emailID.value=="")){
-		 
+
 		element.innerHTML = "Please Enter your Email."
 		emailID.focus()
 		return false
@@ -825,30 +850,30 @@ function ValidateForm()
 		emailID.focus()
 		return false
 	}
-	
+
 	//emailID.value =""
 	//emailID.focus()
 	return true
  }
- 
+
  function doSubmit()
  {
- 
+
 	if(ValidateForm() == true)
 	{
- 
-		 
- 
+
+
+
 		createRequestObj();
 
-		 
+
 
 	}
 
 
  }
- 
- 
+
+
 function createRequestObj() {
  var xhr;
 var emailID= document.form.email.value;
@@ -867,48 +892,48 @@ else
   }
 }
 */
- 
+
   if (window.ActiveXObject) {
-  
+
   		try
-		{ 
-		 
+		{
+
   //  xhr = new ActiveXObject("Microsoft.XMLHTTP");
-	 
+
 	 	 xhr = new ActiveXObject("MSXML2.XMLHTTP");
 		}
 	catch(ex)
-	
+
 	{
 		xhr = new ActiveXObject("Microsoft.XMLHTTP");
 	}
-		
+
   } else {
-  
- 		 
+
+
      	 xhr = new XMLHttpRequest();
-		 
+
  		 }
  // alert("before url");
  // var sURL = "http://9lives.com.my/test/IntiEmail/emailBP.php?email="+emailID;
 
 	 var sURL = "http://www.newinti.edu.my/v2/wp-content/themes/default/emailBP.php?email="+emailID;
-	 
+
  	xhr.open( "POST", sURL, false );
-	 	
+
 	//xhr.onreadystatechange = dataProcessingFunction;
 	xhr.send(emailID);
 	//alert ("email id at html" + emailID);
- 			 
+
    if (xhr.readyState == 4) {
 
-		 
-		 
+
+
 		//alert("Sorry - the User ID >>  " + xhr.responseText);
 		var element = document.getElementById("content");
 		element.innerHTML = xhr.responseText;
- 	 
-			
+
+
 	//alert("after url");
   	}
 }
@@ -962,13 +987,13 @@ else
 
 
 
- 
- 
- 
+
+
+
 
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://www.newinti.edu.my/v2/wp-content/themes/default/css/iehacks.css" />
-<![endif]--> 
+<![endif]-->
 
 <!-- this is for the fade in and out banner -->
 
@@ -976,13 +1001,13 @@ else
 
 
 
-<body onload="MM_preloadImages('http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_home2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_about2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_newinti2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_courses2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_prospective2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_community2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_news2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_contact2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate2.png','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls2.png','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern2.png','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar2.png','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes2.png','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post2.png','http://www.newinti.edu.my/v2/wp-content/themes/default/images/fos_acc2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_apply2.gif')" style="overflow-x:hidden;">
-<div style="position:fixed; top:40%; left:93%">
-   		  	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="84" height="137">
+<body onload="MM_preloadImages('http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_home2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_about2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_newinti2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_courses2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_prospective2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_community2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_news2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_contact2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate2.png','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls2.png','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern2.png','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar2.png','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes2.png','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post2.png','http://www.newinti.edu.my/v2/wp-content/themes/default/images/fos_acc2.gif','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_apply2.gif');redoswf_length();" style="overflow-x:hidden;" onresize="redoswf_length();">
+<div id="crawler" style="position: fixed; left: 85%; display: block; top: -266px;">
+   		  	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="160" height="800">
                 <param name="movie" value="http://www.newinti.edu.my/v2/wp-content/themes/default/crawler.swf">
                 <param name="quality" value="high">
 				 <param name="wmode" value="transparent">
-                <embed src="http://www.newinti.edu.my/v2/wp-content/themes/default/crawler.swf" quality="high" wmode="transparent" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="84" height="137">
+                <embed src="http://www.newinti.edu.my/v2/wp-content/themes/default/crawler.swf" quality="high" wmode="transparent" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="160" height="800">
 	  	      </object>
 <!--<table width="84" height="137" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -1049,7 +1074,7 @@ else
 	</tbody></table>
 </div>
 <!--lightbox end -->
-<div id="container">		
+<div id="container">
 
 
 	<div id="top"><br><br><br> <!--<img src="http://www.newinti.edu.my/v2/wp-content/themes/default/images/header_top.gif" /></div>-->
@@ -1261,12 +1286,13 @@ The INTI Education Group’s website has links to third-party websites and infor
             		<div id="individual"><a class="footerlink" href="http://www.newinti.edu.my/category/intisj/" target="_blank">&gt;&nbsp;&nbsp;INTI International College Subang</a></div>
             		<div id="individual"><a class="footerlink" href="http://www.newinti.edu.my/category/intipenang/" target="_blank">&gt;&nbsp;&nbsp;INTI International College Penang</a></div>
           			<div id="individualb"><a class="footerlink" href="http://www.newinti.edu.my/category/intisarawak/" target="_blank">&gt;&nbsp;&nbsp;INTI College Sarawak</a></div>
-        		</div>   
+        		</div>
         		<div id="campusesb">
         			<div id="individualb"></div>
             		<div id="individual"><a class="footerlink" href="http://www.newinti.edu.my/category/intisabah/" target="_blank">&gt;&nbsp;&nbsp;INTI College Sabah</a></div>
             		<div id="individual"><a class="footerlink" href="http://www.pjcad.edu.my/" target="_blank">&gt;&nbsp;&nbsp;PJ College of Art &amp; Design</a></div>
-            		<div id="individualb"><a class="footerlink" href="http://www.inti.ac.id/inticollege/" target="_blank">&gt;&nbsp;&nbsp;INTI College Indonesia</a></div>
+            		<div id="individual"><a class="footerlink" href="http://www.inti.ac.id/inticollege/" target="_blank">&gt;&nbsp;&nbsp;INTI College Indonesia</a></div>
+            		<div id="individualb">&gt;&nbsp;&nbsp;Metropolitan College</div>
             		<div id="individualb"></div>
         		</div>
         		<div id="rights">
@@ -1277,12 +1303,12 @@ The INTI Education Group’s website has links to third-party websites and infor
 						<a class="footersmalllink" href="http://www.newinti.edu.my/site-map/">Site Map</a>&nbsp;|&nbsp;
 						<a class="footersmalllink" href="http://www.newinti.edu.my/our-institutions/">Contact Us</a>&nbsp;|&nbsp;
 						<a class="footersmalllink" href="http://www.newinti.edu.my/internet-connections/">Internet Connections</a></div>
-                    <div id="individual4" align="right">© Copyright 2010 INTI Education Group. All Rights Reserved.</div>
+                    <div id="individual4" align="right">© Copyright 2011 INTI Education Group. All Rights Reserved.</div>
                 </div>
             </div>
     		<div id="wibiya"></div>
   		</div>
-<br style="clear:both">   		 
+<br style="clear:both">
 </div>
 
 
@@ -1291,138 +1317,150 @@ The INTI Education Group’s website has links to third-party websites and infor
 <script src="http://cdn.wibiya.com/Toolbars/dir_0602/Toolbar_602391/Loader_602391.js" type="text/javascript"></script>
 
         <script>
-			
-				slideshowimages("http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_laureate.jpg","http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_bls.jpg","http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_intern.jpg","http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_scholar.jpg","http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_intakes.jpg","http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_post.jpg")
-				
-				slideshowBtn("http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate2.png","http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls2.png","http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern2.png","http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar2.png","http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes2.png","http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post2.png")
-				
+
+				slideshowimages("http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_openday.jpg","http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_promo.jpg","http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_uow.jpg","http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_laureate.jpg","http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_intern.jpg","http://www.newinti.edu.my/v2/wp-content/themes/default/images/banner_intakes.jpg")
+
+				slideshowBtn("http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday2.png","http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo2.png","http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow2.png","http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate2.png","http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern2.png","http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes2.png")
+
 				var slideshowspeed=5000;
 
 				//var whichlink=0
 				//var whichimage=0
 				var placeholder = document.getElementById("bannerimg");
-				
+
 				//var Btnplaceholder = document.getElementById("Image40");
-				
-			
-				
-				
+
+
+
+
 				function slideit(){
-				
+
 						if (!placeholder)
 						return
-						
+
 						if(!rotateFlag)
 						return
-				
+
 					if (global_flag<slideimages.length){
 						if(isFirstTimeLoad){
 							isFirstTimeLoad = false;
 							//alert ("first time global_flag" + global_flag)
 						}else{
 							global_flag++
-							
+
 							//alert ("global_flag" + global_flag)
 						}
 						setTimeout("slideit()",slideshowspeed)
 					}else{
-					
+
 						global_flag=1
 						setTimeout("slideit()",slideshowspeed)
 					}
 
-				
+
 				if (global_flag ==1){
-					
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate2.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-						
+
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday2.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
 						}
 					else if(global_flag ==2)
 					{
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls2.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-					
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo2.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
 					}
 					else if(global_flag ==3)
 					{
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern2.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-					}	
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow2.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
+					}
 					else if(global_flag ==4)
 					{
-					
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar2.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-					
-					}	
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate2.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
+					}
 					else if(global_flag ==5)
 					{
 					//alert("image 5")
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes2.png',1)	
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post1.png',1)	
-					}	
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern2.png',1)
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)
+
+					}
 					else if(global_flag ==6)
 					{
-					
 						//alert("image button 6")
-						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_post2.png',1)	
-						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
-						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_bls1.png',1)
-						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
-						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_scholar1.png',1)
-						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes1.png',1)	
-					
-						
-					}	
-					//doFade(global_flag);	
-					
+						MM_swapImage('Image45','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intakes2.png',1)
+						MM_swapImage('Image40','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_openday1.png',1)
+						MM_swapImage('Image41','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_promo1.png',1)
+						MM_swapImage('Image42','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_uow1.png',1)
+						MM_swapImage('Image43','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_laureate1.png',1)
+						MM_swapImage('Image44','','http://www.newinti.edu.my/v2/wp-content/themes/default/images/btn_intern1.png',1)
+
+					}
+					//doFade(global_flag);
+
 					//runEffect('Fade', 'bannerimg', {duration: 5000, from:100, to:0, toggle: true}, '')
-					
+
 					//runEffect('Fade', 'bannerimg', {duration: 5000, from:100, to:0, toggle: true}, '')
-						
-				//var	temp =slideimages[global_flag-1].src;	
-					
-					
-				 
-				//	runEffect('Fade', 'bannerimg', {duration: 5000, from:100, to: 0, toggle: true}, '')	
+
+				//var	temp =slideimages[global_flag-1].src;
+
+
+
+				//	runEffect('Fade', 'bannerimg', {duration: 5000, from:100, to: 0, toggle: true}, '')
 					//runEffect('Fade', 'bannerimg', {duration: 2100, from: 0, to: 300, toggle: true}, '')
-					
-					//runEffect('Fade', 'bannerimg', {duration: 5000, from:100, to: 0, toggle: false}, '')	
+
+					//runEffect('Fade', 'bannerimg', {duration: 5000, from:100, to: 0, toggle: false}, '')
 					//whichlink=whichimage
-					
+
 					//new Control.Tabs('highlights_tabs', {showFunction: Element.appear, hideFunction: Element.fade});
 					//runEffect('Fade', 'bannerimg', {duration: 10000, from:0, to:100, toggle: false}, '')
-					
+
 					FadeInImage('bannerimg',slideimages[global_flag-1].src,'banners')
-					
+
 				}
-					
-				
+
+
 				slideit()
 
-			
-			
+
+
 			</script>
 
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6240629-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 </div></div></body></html>
