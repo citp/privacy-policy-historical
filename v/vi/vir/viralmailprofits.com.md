@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the viralmailprofits.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223122702id_/http%3A//viralmailprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralmailprofits.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314200407id_/http%3A//www.viralmailprofits.com/privacy.php) for the most accurate reproduction.*
 
 # Viral Mail Profits | Mailing To The Max!
 
 Privacy Policy
 
-Viral Mail Profits, (“VMP”), will not share, sell, or give away any information regarding their members including but not limited to their name, email address, and other confidential information provided. If you choose to provide us with personal contact information, you consent to the transfer and storage of that information on our servers.
+Viral Mail Profits (VMP) will not share, sell, or give away any information regarding their members including but not limited to their name, email address, and other confidential information provided. If you choose to provide us with personal contact information, you consent to the transfer and storage of that information on our servers.
 
 VMP reserves the right to use member email addresses for the purpose of periodically sending out information relevant to any and all aspects of VMP membership.
 
@@ -16,4 +16,4 @@ Financial information is used solely to bill the user for products and/or servic
 
 VMP reserves the right to investigate using any and all means necessary, should there be reason to believe unauthorized transactions are processed in your name. We will then take every precaution possible to protect our members from identify theft both here at VMP and elsewhere.
 
-[Home](https://web.archive.org/web/20101223122702id_/http%3A//viralmailprofits.com/index.php) | [Join](http://www.viralmailprofits.com/signup.php) | [Login](http://viralmailprofits.com/login.php) | [Contact Us](http://www.kinder-rash-marketing.com/support/index.php?department=19) | [Terms](http://www.viralmailprofits.com/terms.php) | [Privacy](http://www.viralmailprofits.com/privacy.php)
+[Home](https://web.archive.org/web/20110314200407id_/http%3A//www.viralmailprofits.com/index.php) | [Join](https://web.archive.org/web/20110314200407id_/http%3A//www.viralmailprofits.com/newuser.php) | [Login](https://web.archive.org/web/20110314200407id_/http%3A//www.viralmailprofits.com/login.php) | [Contact Us](https://web.archive.org/web/20110314200407id_/http%3A//www.viralmailprofits.com/tickets.php) | [Terms](https://web.archive.org/web/20110314200407id_/http%3A//www.viralmailprofits.com/terms.php) | [Privacy](https://web.archive.org/web/20110314200407id_/http%3A//www.viralmailprofits.com/privacy.php)
