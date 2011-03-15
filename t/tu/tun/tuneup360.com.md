@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuneup360.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226033037id_/http%3A//www.tuneup360.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuneup360.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315112859id_/http%3A//www.tuneup360.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # TuneUp360.com-PC Tuneup and Repair Online
 
@@ -87,4 +87,4 @@ This Privacy Policy may be revised by us from time to time. If we decide to chan
 
 **Contact TuneUp360**
 
-We are committed to protecting the privacy of the information you provide to us. If you have any comments, questions or complaints regarding our privacy policy or your information, Please contact us at [support@tuneup360.com](mailto:support@tuneup360.com). Most enquiries are dealt with in a day or two, but please allow a few weeks in exceptional circumstances.
+We are committed to protecting the privacy of the information you provide to us. If you have any comments, questions or complaints regarding our privacy policy or your information, Please contact us at [ support@tuneup360.com](mailto:support@tuneup360.com). Most enquiries are dealt with in a day or two, but please allow a few weeks in exceptional circumstances.
