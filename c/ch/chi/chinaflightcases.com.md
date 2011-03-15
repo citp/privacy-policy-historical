@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinaflightcases.com privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915151623id_/http%3A//www.chinaflightcases.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinaflightcases.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315131601id_/http%3A//www.chinaflightcases.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Flight Cases - Portable Stages - China Rack Cases wholesaler
 
