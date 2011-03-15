@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocarparts.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105120855id_/http%3A//www.eurocarparts.com/ecp/s/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocarparts.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315055317id_/http%3A//www.eurocarparts.com/privacy-policy) for the most accurate reproduction.*
 
 # Euro Car Parts Privacy Policy| Car Parts | Car Accessories | Car Tools
 
@@ -6,7 +6,7 @@
 
 Euro Car Parts Limited ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/ecp/s/UsingOurWebsite) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/usingourwebsite) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Euro Car Parts Limited of Euro House, Fulton Road, Wembley Industrial Estate, Wembley, Middlesex, HA9 0TF.
 
@@ -47,7 +47,7 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
     2. 5.2 We may disclose your personal information to third parties: 
       1. 5.2.1 In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
       2. 5.2.2 If Euro Car Parts Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-      3. 5.2.3 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/ecp/s/UsingOurWebsite) or [terms and conditions](https://web.archive.org/ecp/s/Terms) of supply and other agreements; or to protect the rights, property, or safety of Euro Car Parts Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+      3. 5.2.3 If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/usingourwebsite) or [terms and conditions](https://web.archive.org/terms-and-conditions) of supply and other agreements; or to protect the rights, property, or safety of Euro Car Parts Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
   6. **YOUR RIGHTS**
     1. 6.1 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Euro Car Parts Limited of Euro House, Fulton Road, Wembley Industrial Estate, Wembley, Middlesex, HA9 0TF.
     2. 6.2 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
