@@ -1,47 +1,29 @@
-> *The following text is extracted and transformed from the hoover.com privacy policy that was archived on 2007-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070214043202id_/http%3A//hoover.com/dbPages/xq/Pop/qx/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoover.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315091228id_/http%3A//www.hoover.com/privacy.aspx) for the most accurate reproduction.*
 
-# The Hoover Company
+# Hoover Privacy Policy
 
-**Hoover.com Internet Privacy Policy**
+### Information Collection and Usage
 
-* Thank you for visiting Hoover.com. Hoover is committed to ensuring your privacy on the Internet by adhering to high standards of fairness and integrity. Our Policy is developed from principles established by the Federal Trade Commission regarding information collected via the Internet. 
+Hoover® is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Hoover collects information from our users at several different points on our website.
 
-**What Personally Identifiable Information Does Hoover.com collect from me?**
+### Cookies
 
-* You do not have to provide personal information to gain access to or browse any of our Web sites. We may collect personal information, such as name, address, e-mail address, telephone number, or other demographic information, but only after you give consent. Personal information may be collected in various forms including contest entry forms, site registration, warranty registration, e-mail messages, and requests for information from Hoover.   
+This site uses cookies. A cookie is a piece of data stored on a user's hard drive. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once a user closes their browser, the cookie simply terminates. Cookies, and other similar technology, can only record about a user what they have already chosen to tell us. Cookies cannot retrieve or transmit information you do not authorize.
 
-* HOOVER.COM DOES NOT INTENTIONALLY COLLECT PERSONAL INFORMATION ABOUT CHILDREN UNDER THE AGE OF 13. IF YOU ARE UNDER 13 AND WOULD LIKE TO REGISTER AT HOOVER.COM, PLEASE ASK A PARENT OR GUARDIAN FOR ASSISTANCE. 
+### Log Files
 
-**What are cookies and how does Hoover.com use them?**
+We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
 
-* Hoover.com uses "cookie" technology to obtain non-personal information from online visitors. A "cookie" is a small text file that is sent to your web browser from a web server and stored on your computer's hard drive. Hoover.com uses "cookies" as a means of compiling information detailing the usage of our site. These findings help us understand our customer's needs so that we may improve your browsing/shopping experience at Hoover.com. Generally, we may use "cookies" to: 
-* 1\. Estimate the number of users of our site. 
-* 2\. Quantify general usage of our site. 
-* 3\. Track aggregate traffic patterns. 
-* 4\. Assist in the personalization and general improvement of your experience at Hoover.com. 
+### Links
 
-Personal information cannot be extracted by simply placing a "cookie" on an individual's computer. If you have submitted personal information to Hoover.com, then the aggregated data may be combined with some personal information for internal marketing and reporting purposes. 
+This website contains links to other sites. Please be aware that we (Hoover) are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-Even though most Web browsers accept "cookies", most browsers also give you the option to reject "cookies". Please note that if you set your browser to reject "cookies" you will still be able to visit the Hoover.com site but your shopping and browsing experience may be somewhat affected. 
+### Notification of Changes
 
-**How is Hoover.com using the collected information?**
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which it was collected.
 
-* We do not sell or rent information about our customers. However, Hoover Appliances Sales Company or one of the affiliate companies of Hoover Corporation may use personal information collected for internal marketing purposes such as market research. It may also be used to contact you about latest product information or notice of local sales or promotions. We will not contact you for marketing purposes without your consent. Hoover may also provide aggregate statistics about our visitors, sales, traffic patterns, and related site information to reputable third parties, but these statistics will not include any personal identifying information. 
+## Cookies?
 
-**How does Hoover.com protect my information?**
+We use two cookies on our web site.  The **first cookie** is used for all visitors to our site, it is a string of letters and numbers unique to each visitor.  This cookie allows us to keep track of people coming to our site over multiple visits so that we can better understand how our site is used and how we can improve it. 
 
-* When you register with the site or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against both physical and electronically unauthorized access. 
-
-**What is Hoover.com's policy for allowing me to update, correct or delete my personally identifiable information?**
-
-* You may change or update your personal information at any time. If you have questions or comments please call our Internet Customer Services Group at 1-800-944-9200 (U.S.). If you have previously given consent to be contacted by Hoover and no longer wish to be, please call the telephone number above or send an e-mail to hoovercustomerservice@maytag.com requesting that we remove you from our list of consumers who receive correspondence from Hoover. 
-
-**Material Changes To Privacy Policy**
-
-* In the event that Hoover materially changes its privacy policy, it will notify individuals who use or visit its Web site by, for thirty (30) days after such change, placing a hyperlink on the front page of its Web site (http://www.hoover.com) titled changes to privacy policy that provides a hyperlink with more details regarding the change. 
-
-**Additional Note**
-
-* This statement may be revised from time to time to provide better service and maintain accuracy. Hoover.com may contain links to other web sites. While we try to link only to sites that share our high standards and respect for your privacy, we are not responsible for the content or privacy practices of other sites. If you have further questions regarding this Policy you may speak with a Customer Service Representative by calling 1-800-944-9200. 
-
-**Effective Date**
+The **second cookie** we use is in our shopping section.  When you place an item in your **shopping cart** , we save the cart ID in a cookie.  This lets you leave the site without checking out and, if you return later, the contents of your cart will still be there, so you won't have to search for items again. 
