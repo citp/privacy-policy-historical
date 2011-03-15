@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yieldmanager.net privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204031543id_/http%3A//info.yahoo.com/privacy/us/biz/rightmedia/details.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yieldmanager.net privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316003313id_/http%3A//info.yahoo.com/privacy/us/biz/rightmedia/details.html) for the most accurate reproduction.*
 
 # Right Media Exchange
 
