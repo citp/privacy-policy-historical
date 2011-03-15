@@ -1,154 +1,580 @@
-<!--The following is the downloaded HTML source of the hoover.com privacy policy that was archived on 2007-02-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070214043202id_/http%3A//hoover.com/dbPages/xq/Pop/qx/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hoover.com privacy policy that was archived on 2011-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110315091228id_/http%3A//www.hoover.com/privacy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-<title>The Hoover Company</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="http://Media.Hoover.com/Media/PageJava/USMain.CSS" type="text/css">
-<script language="JavaScript">
-<!-- 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.lid"><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link type="image/x-icon" rel="icon" href="/favicon.ico"><title>
+	Hoover Privacy Policy
+</title>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.1.min.js"></script>
+	<script type="text/javascript" src="/videomanuals/fancybox/jquery.mousewheel-3.0.2.pack.js"></script>
+	<script type="text/javascript" src="/videomanuals/fancybox/jquery.fancybox-1.3.0.pack.js"></script>
+	<link rel="stylesheet" type="text/css" href="/videomanuals/fancybox/jquery.fancybox-1.3.0.css" media="screen">
+	<script type="text/javascript" src="/foresee/foresee-trigger.js"></script>
+	<!--[if lte IE 6]>
+	<link href="/styles/ie.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	
+	<!--[if !IE]> -->
+	<style type="text/css">
+		dl.main_nav a { text-decoration: none; }
+	</style>
+	<!--<![endif]-->
+<link href="styles/layout.css" rel="stylesheet" type="text/css"><link href="styles/skin.css" rel="stylesheet" type="text/css"><link href="styles/override.css" rel="stylesheet" type="text/css"><script type="text/javascript" lanuage="javascript" src="/scripts/swfobject.js"></script><script type="text/javascript" lanuage="javascript" src="/scripts/nav.js"></script><script type="text/javascript" lanuage="javascript" src="/scripts/util_functions.js"></script><script type="text/javascript" lanuage="javascript" src="/scripts/JavaWhere2GetItForm.js"></script></head>
 
-// riJavaInit
-var PATH_PageImages = "http://Media.Hoover.com/Media/PageImages";
-var art = "http://Media.Hoover.com/Media/PageImages";
-
-// Global.JS V2 RGS 3/5/03 Rem Global_Init,Try/Catch,Comments V3 RGS fix imageSwap
-//			 V3 RGS 5/20/04 Mods for repl tags "input type=image"
-//			 V4 RGS 5/26/04 replace_attribute for styles/visibility, rem MaloneZeris JS
-ns4 = (document.layers)? true:false;
-ie4 = (document.all)? true:false;
-ns6 = (ns4|ie4)? false:true;
-
-// 5/20/04	Netscape mods: repl tags "input type=image"
-//			Scans for Name= and ID= versions.
-function image_replace(targ_name,in_name,in_state) { 
-var lclException; 
-	try { 
-		var elemlist, elemobj, elemindex,	elemcount, elemimage;
-		// find all elements w/req name.  Not just <img>, also <input type=image> 
-		elemlist  = document.getElementsByName (targ_name);			
-		elemcount = elemlist.length;
-		elemimage = eval(in_name + "_" + in_state + ".src");
-		for (var elemindex=0; elemindex < elemcount; elemindex++) {
-			elemobj = elemlist[elemindex];
-			elemobj.src = elemimage;
-//			alert(elemobj.src);		
-		}
-	} 
-	catch (lclException) { }
-}
-function image_swap(in_name,in_state) { var lclException; try { getnamedelement(in_name).src=eval(in_name + "_" + in_state + ".src"); } catch (lclException) { } }
-function imgdef(in_path) { var newimg; var lclException; try { newimg=new Image;newimg.src=in_path;return newimg; } catch (lclException) { } }
-
-// 5/24/04 RGS Get ID for first object matching on name
-// vs "document.all.item" which doesn't work with netscape
-function getnamedelement(targ_name) { 
-var lclException; 
-	try { 
-		var elemlist, elemobj, elemindex, elemcount, elemattr, elemstring;
-		// find all elements w/req name.  Not just <img>, also <input type=image> 
-		elemlist  = document.getElementsByName (targ_name);			
-		elemcount = elemlist.length;
-		for (var elemindex=0; elemindex < elemcount; elemindex++) {
-            elemobj = elemlist[elemindex];
-            if (elemcount > 1) alert('element with ' + elemcount + ' matches.');
-            return elemobj;
-        }
-        return null;
-	} 
-	catch (lclException) { 
-	// alert(lclException); // issue error
-	}
-}
-
-//	replace_attribute('MainImageLarge','.src', eval('MainImageLarge_off.src'));
-//	replace_attribute('MainImageLarge','.style.borderWidth', '0');
-//		Created as NS doesn't like document.all, "input" not in document.images, and needed generic version for all manner of elements.
-function replace_attribute(targ_name, targ_attr, targ_value) { 
-var lclException; 
-	try { 
-		var elemlist, elemobj, elemindex, elemcount, elemattr, elemstring;
-		// find all elements w/req name.  Not just <img>, also <input type=image> 
-		elemlist  = document.getElementsByName (targ_name);			
-		elemcount = elemlist.length;
-
-		for (var elemindex=0; elemindex < elemcount; elemindex++) {
-            elemobj = elemlist[elemindex];
-			eval('elemobj' + targ_attr + ' = targ_value;');
-		}
-	} 
-	catch (lclException) { 
-	// alert(lclException); // issue error
-	}
-}
+<body>
 
 
+<!-- Skip Points for accessibility -->
+<div class="skip_points">
+	<!-- Before javascript function generates the Skip points this is the data available -->
+	<a href="#content_menu">Skip to content menu</a> <a href="#content">Skip to content</a>
+	<!-- After javascript function generates the Skip points this data will replace everything within the Skip points div -->
+	<!-- NOTE: Ali Javascript to scan page and ali aliitional skip points -->
+	<a href="#search">Skip to search</a> <a href="#signin">Skip to sign in</a>
+</div>
 
-// -->
-</script>
+<!-- START: page -->
+<div id="body_wrapper">
+<div id="content_wrapper">
+<!-- ******************* MAIN CONTENT : START ******************* -->
+<div id="main">
+<div id="content">
+<form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg5NzEwMzU2MQ9kFgJmD2QWBAIJDxYCHglpbm5lcmh0bWwF/gQ8YT4NCgk8aW1nIHNyYz0iL2ltYWdlcy9jb250ZW50L3NvY2lhbC5wbmciIHdpZHRoPSIzMDQiIGhlaWdodD0iNjUiIGFsdD0iIiBzdHlsZT0icG9zaXRpb246IGFic29sdXRlOyB0b3A6IC00MHB4OyIgdXNlbWFwPSIjbWFwTWFzdGVyIiAvPg0KPC9hPg0KDQo8bWFwIG5hbWU9Im1hcE1hc3RlciIgaWQ9Im1hcE1hc3RlciI+DQoJPGFyZWEgc2hhcGU9InJlY3QiIGNvb3Jkcz0iMCwyMCw2Niw1NCIgaHJlZj0iaHR0cDovL3d3dy5mYWNlYm9vay5jb20vaG9vdmVyIiBhbHQ9IkZpbmQgVXMgT24gRmFjZWJvb2siIC8+DQoJPGFyZWEgc2hhcGU9InJlY3QiIGNvb3Jkcz0iNzEsMjAsMTM5LDU0IiBocmVmPSJodHRwOi8vd3d3LnR3aXR0ZXIuY29tL2hvb3ZlcmNsZWFuIiBhbHQ9IkZvbGxvdyBVcyBPbiBUd2l0dGVyIiAvPg0KCTxhcmVhIHNoYXBlPSJyZWN0IiBjb29yZHM9IjE0MywyMCwyMDIsNTQiIGhyZWY9Imh0dHA6Ly93d3cueW91dHViZS5jb20vaG9vdmVyY2xlYW4iIGFsdD0iU2VlIFVzIE9uIFlvdVR1YmUiIC8+DQoJPGFyZWEgc2hhcGU9InJlY3QiIGNvb3Jkcz0iMCwwLDI5Nyw2NSIgaHJlZj0iL3ByZXNzL2NsZWFuaW5nZm9yYXJlYXNvbi5hc3B4IiBhbHQ9IkNsZWFuaW5nIGZvciBhIFJlYXNvbiIgLz4NCjwvbWFwPmQCCw9kFgJmDxYCHgtfIUl0ZW1Db3VudAIEFghmD2QWAgIBDxYCHgVjbGFzcwUIbWFpbl9uYXYWBAIBD2QWAmYPDxYCHgRUZXh0BRJWYWN1dW1zICYgQ2xlYW5lcnNkZAIDDxYCHwECChYUZg9kFgICAQ9kFgICAQ8WBh4GdGFyZ2V0BQVfc2VsZh4EaHJlZgUcL3Byb2R1Y3RjYXRlZ29yeS5hc3B4P3VzZT00Mh8CBQYgZmlyc3QWAmYPFQIDb2ZmD1VwcmlnaHQgVmFjdXVtc2QCAQ9kFgIC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ZT0zNBYCZg8VAgNvZmYHQmFnbGVzc2QCBQ9kFgICAQ9kFgICAQ8WBB8EBQVfc2VsZh8FBRwvcHJvZHVjdGNhdGVnb3J5LmFzcHg/dXNlPTM1FgJmDxUCA29mZgpXaW5kVHVubmVsZAIGD2QWAgIBD2QWAgIBDxYEHwQFBV9zZWxmHwUFHC9wcm9kdWN0Y2F0ZWdvcnkuYXNweD91c2U9MzYWAmYPFQIDb2ZmDkFsbGVyZ3kgLyBIRVBBZAIDD2QWAgIBDxYCHwIFFHN1Yl9uYXYgc3ViX25hdl9sYXN0FgQCAQ8WAh8CBQZzaGFkb3cWAmYPDxYCHwMFEVNlcnZpY2UgJiBTdXBwb3J0ZGQCAw8WAh8BAgoWFGYPZBYCAgEPZBYCAgEPFgQfBAUFX3NlbGYfBQUlL0N1c3RvbWVyU2VydmljZS9NYW51YWxzL0RlZmF1bHQuYXNweBYCZg8VAgNvZmYQRG93bmxvYWQgTWFudWFsc2QCAQ9kFgICAQ9kFgICAQ8WBB8EBQVfc2VsZh8FBRUvQ3VzdG9tZXJTZXJ2aWNlLmFzcHgWAmYPFQIDb2ZmDFZpZGVvIEd1aWRlc2QCAg9kFgICAQ9kFgICAQ8WBB8EBQVfc2VsZh8FBQ0vbG9jYXRvci5hc3B4FgJmDxUCA29mZhZTZXJ2aWNlIENlbnRlciBMb2NhdG9yZAIDD2QWAgIBD2QWAgIBDxYEHwQFBl9ibGFuax8FBSZodHRwczovL3NlY3VyZS5wcm9kcmVnaXN0ZXIuY29tL2hvb3ZlchYCZg8VAgNvZmYUUHJvZHVjdCBSZWdpc3RyYXRpb25kAgQPZBYCAgEPZBYCAgEPFgQfBAUFX3NlbGYfBQUNL1NpdGVNYXAuYXNweBYCZg8VAgNvZmYIU2l0ZSBNYXBkAgUPZBYCAgEPZBYCAgEPFgQfBAUFX3NlbGYfBQUOL0ZBUV9tYWluLmFzcHgWAmYPFQIDb2ZmBEZBUXNkAgYPZBYCAgEPZBYCAgEPFgQfBAUFX3NlbGYfBQURL2NvbXBhbnlpbmZvLmFzcHgWAmYPFQIDb2ZmE0NvbXBhbnkgSW5mb3JtYXRpb25kAgcPZBYCAgEPZBYCAgEPFgQfBAUFX3NlbGYfBQUlaHR0cDovL3d3dy5tYXNwcmVtaXVtLmNvbS90dGl3ZWJzdG9yZRYCZg8VAgNvZmYLSG9vdmVyIEdlYXJkAggPZBYCAgEPZBYCAgEPFgQfBAUFX3NlbGYfBQUpL2N1c3RvbWVyc2VydmljZS90c2VyaWVzcmV3aW5kcmVjYWxsLmFzcHgWAmYPFQIDb2ZmFlQtU2VyaWVzIFJld2luZCBSZWNhbGxkAgkPZBYCAgEPFgIfAgUGc2hhZG93FgICAQ8WBB8EBQVfc2VsZh8FBS4vY3VzdG9tZXJzZXJ2aWNlL3dpbmR0dW5uZWxjYW5pc3RlcnJlY2FsbC5hc3B4FgJmDxUCA29mZhpXaW5kVHVubmVsIENhbmlzdGVyIFJlY2FsbGRkJAaeEjiqTzwBfP4wTt08Lf3ofhg=">
+</div>
 
-<script language="JavaScript" src="/db/Resource.js"></script>
-</head>
+	<div id="content_placeholder">
+		
+<div id="ctl00_MainContentPlaceHolder_divBreadcrumbs" class="page_breadcrumbs">
+	<ul>
+    	<li><a href="/">Home</a> /</li>
+        <li><a href="/customerservice.aspx">Customer Support</a></li>
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="javascript:">
+    </ul>
+</div>
 
-<center><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td width="50%" height="100%" background="http://Media.Hoover.com/Media/PageImages/common/pop_texture.gif"><img src="/art/1.gif" width="10" height="1" alt=""></td>
-	<td width="490"><center><img src="http://Media.Hoover.com/Media/PageImages/common/prd_privacy_head.gif" width="470" height="53" alt="The Hoover Company Website Privacy Statement"><br><img src="/art/1.gif" width="490" height="10" alt=""><br><table border="0" cellpadding="0" cellspacing="0" width="470">
-	<tbody><tr>
-		<td colspan="3" bgcolor="#CCCCCC"><img src="/art/1.gif" width="1" height="1" alt=""></td>
-	</tr>
-	<tr>
-		<td bgcolor="#F0F0E0" width="15"><img src="/art/1.gif" width="15" height="1" alt=""></td>
-		<td bgcolor="#F0F0E0" width="440"><img src="/art/1.gif" width="440" height="20" alt=""><br><font class="body10black"><p><b>Hoover.com Internet Privacy Policy</b>
-</p><li>Thank you for visiting Hoover.com. Hoover is committed to ensuring your privacy on the Internet by adhering to high standards of fairness and integrity. Our Policy is developed from principles established by the Federal Trade Commission regarding information collected via the Internet.
+<div class="content_container cs_container">
+    <div class="modules">
+        <div class="module_container_info">
+        <h1>
+            Privacy Policy</h1>
+            <h3>Information Collection and Usage</h3>
+        <p>
+            Hoover® is the sole owner of the information collected on this site. We will
+            not sell, share, or rent this information to others in ways different from what
+            is disclosed in this statement. Hoover collects information from our users at
+            several different points on our website.</p>
+            <h3>Cookies</h3>
+        <p>
+            This site uses cookies. A cookie is a piece of data stored on a user's hard drive.
+            Usage of a cookie is in no way linked to any personally identifiable information
+            while on our site. Once a user closes their browser, the cookie simply terminates.
+            Cookies, and other similar technology, can only record about a user what they have
+            already chosen to tell us. Cookies cannot retrieve or transmit information you do
+            not authorize.</p>
+            <h3>Log Files</h3>
+        <p>
+            We use IP addresses to analyze trends, administer the site, track user's movement,
+            and gather broad demographic information for aggregate use. IP addresses are not
+            linked to personally identifiable information.</p>
+            <h3>Links</h3>
+        <p>
+            This website contains links to other sites. Please be aware that we (Hoover)
+            are not responsible for the privacy practices of such other sites. We encourage
+            our users to be aware when they leave our site and to read the privacy statements
+            of each and every website that collects personally identifiable information. This
+            privacy statement applies solely to information collected by this website.</p>
+            <h3>Notification of Changes</h3>
+        <p>
+            If we decide to change our privacy policy, we will post those changes on our Homepage
+            so our users are always aware of what information we collect, how we use it, and
+            under circumstances, if any, we disclose it. If at any point we decide to use personally
+            identifiable information in a manner different from that stated at the time it was
+            collected, we will notify users by way of an email. Users will have a choice as
+            to whether or not we use their information in this different manner. We will use
+            information in accordance with the privacy policy under which it was collected.</p>
+    </div>
+    <div class="product_selector_right">
+    <div class="espot_container">
+        <div class="espot_container_wrapper">
+            <h2>Cookies?</h2>
+        <div class="espot_content">       
+            <p>
+                We use two cookies on our web site.&nbsp; The <strong>first cookie</strong> is used
+                for all visitors to our site, it is a string of letters and numbers unique to each
+                visitor.&nbsp; This cookie allows us to keep track of people coming to our site
+                over multiple visits so that we can better understand how our site is used and how
+                we can improve it.
+            </p>
+            <p>
+                The <strong>second cookie</strong> we use is in our shopping section.&nbsp; When
+                you place an item in your <strong>shopping cart</strong>, we save the cart ID in
+                a cookie.&nbsp; This lets you leave the site without checking out and, if you return
+                later, the contents of your cart will still be there, so you won't have to search
+                for items again.
+            </p>
+          </div>
+          </div>
+        </div>   
+    </div>
+</div>
+</div>
 
 
-<p><b>What Personally Identifiable Information Does Hoover.com collect from me?</b>
-</p></li><li>You do not have to provide personal information to gain access to or browse any of our Web sites. We may collect personal information, such as name, address, e-mail address, telephone number, or other demographic information, but only after you give consent. Personal information may be collected in various forms including contest entry forms, site registration, warranty registration, e-mail messages, and requests for information from Hoover.
+	</div>
+</form>
 
-<br></li><li>HOOVER.COM DOES NOT INTENTIONALLY COLLECT PERSONAL INFORMATION ABOUT CHILDREN UNDER THE AGE OF 13. IF YOU ARE UNDER 13 AND WOULD LIKE TO REGISTER AT HOOVER.COM, PLEASE ASK A PARENT OR GUARDIAN FOR ASSISTANCE.   
+<!-- ******************* FOOTER : START ******************* -->
+<div id="footer">
+	<div id="footer_container">
+		<div class="footer_content">
+			<div id="footer_container2">&nbsp;</div>
 
+			<ul>
+				<li class="canada first"><a href="/CanadianCustomers.aspx" onclick="layerWindow(this.href); return false;">Canadian Customers</a></li>
+				<li><a href="/emailsignup.aspx">Newsletter Sign Up</a></li>
+				<li><a href="/ContactUs.aspx">Contact Us</a></li>
+				<li><a href="/privacy.aspx">Privacy</a></li>
+				<li class="last"><p>1.800.944.9200</p></li>
+			</ul>
+
+			<ul class="error">
+				<li class="first"><a href="FAQ_main.aspx" id="ctl00_A1">FAQs</a></li>
+				<li><a href="https://secure.prodregister.com/hoover" target="_blank">Product Registration</a></li>
+				<li><a href="TermsOfUse.aspx" id="ctl00_A2">Terms</a></li>
+				<li><a href="CustomerService/manuals/Default.aspx" id="ctl00_A3">Find Manuals</a></li>
+				<li><a href="parts/" id="ctl00_A4">Buy Parts &amp; Accessories</a></li>
+				<li><a href="https://ttifloorcare.tms.hrdepartment.com">Jobs</a></li>
+			</ul>
+			
+			<div class="copyright error">
+				<p>© 2011 Techtronic Floor Care Technology Limited. All rights reserved.</p>
+			</div>
+		</div>
+		
+		<div class="ssl">
+			<span id="siteseal">
+				
+				<img src="/images/content/godaddy_site_seal.png" width="115" height="60" alt="GoDaddy.com Secured" style="cursor: pointer;" onclick="window.open('https://seal.godaddy.com:443/verifySeal?sealID=Phw1i6XfVlizqqPZXxbl31ltstYvq46j9jsx0WtPoVTLx7ckdtBcYJ','SealVerfication','location=yes,status=yes,resizable=yes,scrollbars=no,width=592,height=433');">
+				<br>
+				<a style="font-family: arial; font-size: 9px" href="https://www.godaddy.com/gdshop/ssl/ssl.asp" target="_blank">SSL Certs</a>
+			</span>
+			
+		</div>
+	</div>
+</div>
+<!-- ******************* FOOTER : END ******************* -->
+
+</div>
+</div>
+<!-- ******************* MAIN CONTENT : END ******************* -->
+
+<div id="container">
+
+<!-- ******************* PAGE HEADER : START ******************* -->
+<div id="page_header">
+	<!-- ******************* HOOVER COMPANY LOGO : START ******************* -->
+	<div id="logo">
+		<h1><a href="./"><b>Hoover ©</b></a></h1>
+	</div>
+	<!-- ******************* HOOVER COMPANY LOGO : END ******************* -->
+    
+	<!-- ******************* UTILITY NAVIGATION : START ******************* -->
+	<div id="utility_nav">
+		<ul>
+			<li class="cart"><a href="shop/ShoppingCart.aspx">cart 0 items</a></li>
+		</ul>
+	</div>
+	<!-- ******************* UTILITY NAVIGATION : END ******************* -->
+    
+    <!-- ******************* HEADER BANNER : START ******************* -->
+    <div class="banner">
+		<h2 id="ctl00_h2Banner"><a>
+	<img src="/images/content/social.png" width="304" height="65" alt="" style="position: absolute; top: -40px;" usemap="#mapMaster">
+</a>
+
+<map name="mapMaster" id="mapMaster">
+	<area shape="rect" coords="0,20,66,54" href="http://www.facebook.com/hoover" alt="Find Us On Facebook">
+	<area shape="rect" coords="71,20,139,54" href="http://www.twitter.com/hooverclean" alt="Follow Us On Twitter">
+	<area shape="rect" coords="143,20,202,54" href="http://www.youtube.com/hooverclean" alt="See Us On YouTube">
+	<area shape="rect" coords="0,0,297,65" href="/press/cleaningforareason.aspx" alt="Cleaning for a Reason">
+</map></h2>
+	</div>
+    <!-- ******************* HEADER BANNER : END ******************* -->
+    
+    <!-- ******************* SEARCH SITE : START ******************* -->
+	<div id="search">
+		<h3>Search</h3>
+		<form id="frmSearch" action="runsearch.aspx" method="post">
+			<fieldset>
+				<a href="/parts/">Find Parts</a>
+				<label for="search_product"><b>search</b></label>
+				
+				<!--
+				<select id="typeselection" name="type">
+					<option value="2">Website</option>
+					<option value="0">Products</option>
+					<option value="1">Parts</option>
+				</select>
+				-->
+				
+				<input type="text" accesskey="s" title="search" name="keyword" id="search_product">
+				<button type="submit" title="Go" value=""><b>Go</b></button>
+			</fieldset>
+		</form>
+	</div>
+    <!-- ******************* SEARCH SITE : END ******************* -->
+    
+	<!-- ******************* TOP NAVIGATION : START ******************* -->
+	<div id="top_nav">                
+		
+<ul id="nav">
+    <li><a href="/" id="ctl00_MainTopNavigation1_homeAnchor"><b>Home</b></a></li>
+	<!--<li><a href="/DirectStore.aspx" id="ctl00_MainTopNavigation1_directStoreAnchor"><b>Hoover Direct Store</b></a></li>-->
+    <li><a href="/WhatsNew.aspx" id="ctl00_MainTopNavigation1_whatsNewAnchor"><b>What's New</b></a></li>
+    <li><a href="/SpecialOffers.aspx" id="ctl00_MainTopNavigation1_specialOffersAnchor"><b>Specials</b></a></li>
+    <li><a href="/CustomerService.aspx" id="ctl00_MainTopNavigation1_customerSupportAnchor"><b>Customer Service</b></a> </li>
+</ul>
+	</div>
+	<!-- ******************* TOP NAVIGATION : END ******************* -->
+</div>
+<!-- ******************* PAGE HEADER : END ******************* -->
   
-<p><b>What are cookies and how does Hoover.com use them?</b>
-</p></li><li>Hoover.com uses "cookie" technology to obtain non-personal information from online visitors. A "cookie" is a small text file that is sent to your web browser from a web server and stored on your computer's hard drive. Hoover.com uses "cookies" as a means of compiling information detailing the usage of our site. These findings help us understand our customer's needs so that we may improve your browsing/shopping experience at Hoover.com. Generally, we may use "cookies" to:
-</li><li>1.  Estimate the number of users of our site.
-</li><li>2.  Quantify general usage of our site.
-</li><li>3.  Track aggregate traffic patterns.
-</li><li>4.  Assist in the personalization and general improvement of your experience at Hoover.com.
-  
-<p>Personal information cannot be extracted by simply placing a "cookie" on an individual's computer. If you have submitted personal information to Hoover.com, then the aggregated data may be combined with some personal information for internal marketing and reporting purposes. 
+<!-- ******************* MAIN CONTENT WRAPPER : START ******************* -->
+<div id="content_container">
+	<!--******************** LEFT NAVIGATION : START **************** -->
+	<div id="navigation_left">        
+		
+	<dl id="ctl00_MainLeftnavigation1_rpt_ctl00_dlNav" class="main_nav">
+		<dt id="ctl00_MainLeftnavigation1_rpt_ctl00_dtNav"><span>Vacuums &amp; Cleaners</span></dt>                    
+		                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl00_ddNav">
+					<a href="/productcategory.aspx?use=42" id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl00_link" target="_self" class=" first">
+						<span class="off">
+							Upright Vacuums
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl01_ddNav">
+					<a href="/productcategory.aspx?use=43" id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl01_link" target="_self">
+						<span class="off">
+							Carpet Cleaners
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl02_ddNav">
+					<a href="/productcategory.aspx?use=44" id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl02_link" target="_self">
+						<span class="off">
+							Hard Surface Cleaners
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl03_ddNav">
+					<a href="/productcategory.aspx?use=45" id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl03_link" target="_self">
+						<span class="off">
+							Canister Vacuums
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl04_ddNav">
+					<a href="/productcategory.aspx?use=46" id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl04_link" target="_self">
+						<span class="off">
+							Specialty Vacuums
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl05_ddNav">
+					<a href="/productcategory.aspx?use=184" id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl05_link" target="_self">
+						<span class="off">
+							Air Purifiers
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl06_ddNav">
+					<a href="/productcategory.aspx?use=47" id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl06_link" target="_self">
+						<span class="off">
+							Reconditioned Units
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl07_ddNav">
+					<a href="/productcategory.aspx?use=48" id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl07_link" target="_self">
+						<span class="off">
+							Central Vacuums
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl08_ddNav">
+					<a href="/productcategory.aspx?use=49" id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl08_link" target="_self">
+						<span class="off">
+							Commercial Floor Care
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl09_ddNav">
+					<a href="/productcategory.aspx?use=61" id="ctl00_MainLeftnavigation1_rpt_ctl00_subRpt_ctl09_link" target="_self" class=" last">
+						<span class="off">
+							Closeout Units
+						</span>
+					</a>
+				</dd>
+			      
+	</dl>
 
-</p><p>Even though most Web browsers accept "cookies", most browsers also give you the option to reject "cookies". Please note that if you set your browser to reject "cookies" you will still be able to visit the Hoover.com site but your shopping and browsing experience may be somewhat affected.
+	<dl id="ctl00_MainLeftnavigation1_rpt_ctl01_dlNav" class="sub_nav">
+		<dt id="ctl00_MainLeftnavigation1_rpt_ctl01_dtNav"><span>Parts &amp; Accessories</span></dt>                    
+		                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl01_subRpt_ctl00_ddNav">
+					<a href="/productcategory.aspx?use=59" id="ctl00_MainLeftnavigation1_rpt_ctl01_subRpt_ctl00_link" target="_self">
+						<span class="off">
+							Main (See All)
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl01_subRpt_ctl01_ddNav">
+					<a href="/productcategory.aspx?use=39" id="ctl00_MainLeftnavigation1_rpt_ctl01_subRpt_ctl01_link" target="_self">
+						<span class="off">
+							Bags
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl01_subRpt_ctl02_ddNav">
+					<a href="/productcategory.aspx?use=38" id="ctl00_MainLeftnavigation1_rpt_ctl01_subRpt_ctl02_link" target="_self">
+						<span class="off">
+							Belts
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl01_subRpt_ctl03_ddNav">
+					<a href="/productcategory.aspx?use=37" id="ctl00_MainLeftnavigation1_rpt_ctl01_subRpt_ctl03_link" target="_self">
+						<span class="off">
+							Filters
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl01_subRpt_ctl04_ddNav">
+					<a href="/productcategory.aspx?use=40" id="ctl00_MainLeftnavigation1_rpt_ctl01_subRpt_ctl04_link" target="_self">
+						<span class="off">
+							Cleaning Solutions
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl01_subRpt_ctl05_ddNav">
+					<a href="/search.aspx?cat=41" id="ctl00_MainLeftnavigation1_rpt_ctl01_subRpt_ctl05_link" target="_self">
+						<span class="off">
+							Advanced Search
+						</span>
+					</a>
+				</dd>
+			      
+	</dl>
 
-</p><p><b>How is Hoover.com using the collected information?</b>
-</p></li><li>We do not sell or rent information about our customers. However, Hoover Appliances Sales Company or one of the affiliate companies of Hoover Corporation may use personal information collected for internal marketing purposes such as market research. It may also be used to contact you about latest product information or notice of local sales or promotions. We will not contact you for marketing purposes without your consent. Hoover may also provide aggregate statistics about our visitors, sales, traffic patterns, and related site information to reputable third parties, but these statistics will not include any personal identifying information. 
+	<dl id="ctl00_MainLeftnavigation1_rpt_ctl02_dlNav" class="sub_nav">
+		<dt id="ctl00_MainLeftnavigation1_rpt_ctl02_dtNav" class="shadow"><span>Products By Feature</span></dt>                    
+		                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl00_ddNav">
+					<a href="/productcategory.aspx?use=95" id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl00_link" target="_self">
+						<span class="off">
+							WindTunnel T-Series
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl01_ddNav">
+					<a href="/productcategory.aspx?use=65" id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl01_link" target="_self">
+						<span class="off">
+							Platinum Collection
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl02_ddNav">
+					<a href="/productcategory.aspx?use=32" id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl02_link" target="_self">
+						<span class="off">
+							Pet Hair
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl03_ddNav">
+					<a href="/productcategory.aspx?use=33" id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl03_link" target="_self">
+						<span class="off">
+							Multi-Floor
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl04_ddNav">
+					<a href="/productcategory.aspx?use=34" id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl04_link" target="_self">
+						<span class="off">
+							Bagless
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl05_ddNav">
+					<a href="/productcategory.aspx?use=35" id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl05_link" target="_self">
+						<span class="off">
+							WindTunnel
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl06_ddNav">
+					<a href="/productcategory.aspx?use=36" id="ctl00_MainLeftnavigation1_rpt_ctl02_subRpt_ctl06_link" target="_self">
+						<span class="off">
+							Allergy / HEPA
+						</span>
+					</a>
+				</dd>
+			      
+	</dl>
 
-<p><b>How does Hoover.com protect my information?</b> 
-</p></li><li>When you register with the site or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against both physical and electronically unauthorized access.
+	<dl id="ctl00_MainLeftnavigation1_rpt_ctl03_dlNav" class="sub_nav sub_nav_last">
+		<dt id="ctl00_MainLeftnavigation1_rpt_ctl03_dtNav" class="shadow"><span>Service &amp; Support</span></dt>                    
+		                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl00_ddNav">
+					<a href="/CustomerService/Manuals/Default.aspx" id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl00_link" target="_self">
+						<span class="off">
+							Download Manuals
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl01_ddNav">
+					<a href="/CustomerService.aspx" id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl01_link" target="_self">
+						<span class="off">
+							Video Guides
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl02_ddNav">
+					<a href="/locator.aspx" id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl02_link" target="_self">
+						<span class="off">
+							Service Center Locator
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl03_ddNav">
+					<a href="https://secure.prodregister.com/hoover" id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl03_link" target="_blank">
+						<span class="off">
+							Product Registration
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl04_ddNav">
+					<a href="/SiteMap.aspx" id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl04_link" target="_self">
+						<span class="off">
+							Site Map
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl05_ddNav">
+					<a href="/FAQ_main.aspx" id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl05_link" target="_self">
+						<span class="off">
+							FAQs
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl06_ddNav">
+					<a href="/companyinfo.aspx" id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl06_link" target="_self">
+						<span class="off">
+							Company Information
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl07_ddNav">
+					<a href="http://www.maspremium.com/ttiwebstore" id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl07_link" target="_self">
+						<span class="off">
+							Hoover Gear
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl08_ddNav">
+					<a href="/customerservice/tseriesrewindrecall.aspx" id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl08_link" target="_self">
+						<span class="off">
+							T-Series Rewind Recall
+						</span>
+					</a>
+				</dd>
+			                       
+				<dd id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl09_ddNav" class="shadow">
+					<a href="/customerservice/windtunnelcanisterrecall.aspx" id="ctl00_MainLeftnavigation1_rpt_ctl03_subRpt_ctl09_link" target="_self">
+						<span class="off">
+							WindTunnel Canister Recall
+						</span>
+					</a>
+				</dd>
+			      
+	</dl>
+                
+	</div>
+	<!--******************** LEFT NAVIGATION : end **************** -->
+	<div id="content2">&nbsp;</div>
+</div>   
+<!-- ******************* MAIN CONTENT WRAPPER : END ******************* -->
 
-<p><b>What is Hoover.com's policy for allowing me to update, correct or delete my personally identifiable information?</b>
-</p></li><li>You may change or update your personal information at any time. If you have questions or comments please call our Internet Customer Services Group at 1-800-944-9200 (U.S.).  If you have previously given consent to be contacted by Hoover and no longer wish to be, please call the telephone number above or send an e-mail to hoovercustomerservice@maytag.com requesting that we remove you from our list of consumers who receive correspondence from Hoover. 
-
-<p><b>Material Changes To Privacy Policy</b>
-</p></li><li>In the event that Hoover materially changes its privacy policy, it will notify individuals who use or visit its Web site by, for thirty (30) days after such change, placing a hyperlink on the front page of its Web site (http://www.hoover.com) titled changes to privacy policy that provides a hyperlink with more details regarding the change.
-
-<p><b>Additional Note</b>
-</p></li><li>This statement may be revised from time to time to provide better service and maintain accuracy. Hoover.com may contain links to other web sites. While we try to link only to sites that share our high standards and respect for your privacy, we are not responsible for the content or privacy practices of other sites. If you have further questions regarding this Policy you may speak with a Customer Service Representative by calling 1-800-944-9200.
-
-<p><b>Effective Date</b>
-</p></li></font><li><font class="body10black">This privacy policy is effective as of July 31, 2004.</font><br><img src="/art/1.gif" width="1" height="22" alt=""></li></td>
-		<td bgcolor="#F0F0E0" width="15"><img src="/art/1.gif" width="15" height="1" alt=""></td>
-	</tr><tr>
-		<td colspan="3" bgcolor="#CCCCCC"><img src="/art/1.gif" width="1" height="1" alt=""></td>
-	</tr>
-	</tbody></table><img src="/art/1.gif" width="1" height="15" alt=""><br><img src="http://Media.Hoover.com/Media/PageImages/product/prd_reg_line2.gif" width="470" height="1" alt=""><br><img src="/art/1.gif" width="1" height="3" alt=""><br><a href="javascript:window.close();"><img src="http://Media.Hoover.com/Media/PageImages/product/prd_reg_close_off.gif" width="38" height="12" alt="close" align="right" border="0"></a><img src="/art/1.gif" width="1" height="15" alt=""><br><img src="/art/1.gif" width="1" height="45" alt=""></center></td>
-	<td width="50%" height="100%" background="http://Media.Hoover.com/Media/PageImages/common/pop_texture.gif"><img src="/art/1.gif" width="10" height="1" alt=""></td>
-</tr>
-</tbody></table>
+</div>
+</div>
+<!-- ******************* END: page ******************* -->
+</div>
+<script type="text/javascript">resizeShadow();</script>
 
 
+			<!-- Start Quantcast tag -->
+			<script type="text/javascript">
+			_qoptions={
+			qacct:"p-7e9D-cbb6VJ3k"
+			};
+			</script>
+			<script type="text/javascript" src="https://edge.quantserve.com/quant.js"></script>
+			<noscript>
+			<img src="https://pixel.quantserve.com/pixel/p-7e9D-cbb6VJ3k.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+			</noscript>
+			<!-- End Quantcast tag -->
+			
+			<!-- Undertone Retargeting Pixel -->
+			<img src="https://ads.undertone.com/fc.php?script=profileTargetingCommon:logBeacon&amp;cb=[timestamp]&amp;pid=814" alt="" style="display: none;" border="0" height="1" width="1">
+
+			<!-- Audience science Retargeting Pixel -->
+			<img src="https://ads.revsci.net/adserver/ako?rsi_noads=1&amp;rsi_pixel=1&amp;rsi_account=04BED9C6D46AB3CD18E07F35662CF6A4&amp;rsi_site=DEEB8E7B91AF7A4A2C482AAE01E62D18&amp;rsi_event=D2C83672FA2D1C6CEC45423700AA02BA">
+
+			<!-- Convert -->
+			<script type="text/javascript">
+			var cvtSiteName = "hoover";
+			var cvtJsHost = (("https:" == document.location.protocol) ? "https://convertglobal.s3.amazonaws.com/" : "http://cdn.convertglobal.com/");
+			document.write(unescape("%3Cscript src='" + cvtJsHost + cvtSiteName + "/setup.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://convertglobal.s3.amazonaws.com/hoover/setup.js" type="text/javascript"></script>
+			
+			<script type="text/javascript">
+			document.write(unescape("%3Cscript src='" + cvtJsHost + cvtSiteName + "/extras.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://convertglobal.s3.amazonaws.com/hoover/extras.js" type="text/javascript"></script>
+			
 
 
-<!--Session 239152643--></center></body></html>
+<script type="text/javascript" src="https://dsa.csdata1.com/data/js/4016882/csgather.js"></script>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript"> var pageTracker = _gat._getTracker("UA-1307710-1"); pageTracker._trackPageview(); </script>
+
+
+</body></html>
