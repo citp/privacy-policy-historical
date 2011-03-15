@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seminolestate.edu privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231115331id_/http%3A//www.seminolestate.edu/internet_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seminolestate.edu privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315201437id_/http%3A//www.seminolestate.edu/internet_privacy_policy.htm) for the most accurate reproduction.*
 
 # Internet Privacy Policy - Seminole State College of Florida
 
