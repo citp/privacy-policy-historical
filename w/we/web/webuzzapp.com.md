@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webuzzapp.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108030052id_/http%3A//www.webuzzapp.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuzzapp.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315201526id_/http%3A//www.webuzzapp.com/aboutus/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Webuzz
+# Privacy Policy | WeBuzz
 
 WeBuzz("WeBuzz" or "we") are very concerned about the privacy rights of our users and we have created this Privacy Policy to explain our information gathering and dissemination practices in providing better services, applications and more relevant content to our users ("users" or "you"). This privacy policay applies to Webuzz Website and WeBuzz applications. By using our services and applications, you are accepting the practices described in this Privacy Policy. Moreover, we may update this Privacy Policy from time to time, for any reason, with or without notice to you. You are responsible for visiting this page regularly to review any changes.
 
@@ -8,7 +8,7 @@ WeBuzz("WeBuzz" or "we") are very concerned about the privacy rights of our user
 
 ### Personal Information Collected
 
-Once you choose to participate in activities on our sites or use our services and applications, you may provide certain personally identifiable information. When you install WeBuzz applications, we may collect and record the information you provide us voluntarily through [www.facebook.com](http://www.facebook.com/ "www.facebook.com") ("Facebook") in accordance with the policies and terms of Facebook, including, but not limited to, your name, phone number, email address, mailing address, date of birth, gender, user ID and other information that would allow someone to identify you or contact you. The types of personal information collected may vary depending on the activity.
+Once you choose to participate in activities on our sites or use our services and applications, you may provide certain personally identifiable information. When you install WeBuzz applications, we may collect and record the information you provide us voluntarily through www.facebook.com ("Facebook") in accordance with the policies and terms of Facebook, including, but not limited to, your name, phone number, email address, mailing address, date of birth, gender, user ID and other information that would allow someone to identify you or contact you. The types of personal information collected may vary depending on the activity.
 
 ### Use of Collected Personal Information
 
@@ -60,6 +60,10 @@ From time to time, we may include links to other websites as a service to you. I
 
 Identity theft and the practice currently known as "phishing" are of great concern to WeBuzz. Therefore, we work on safeguarding information to help protect you from identity theft with respect to information in our possession. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission’s website.
 
+### ONLINE SECURITY
+
+The online transaction processing is provided by PayDollar using the highest commercially available encryption technology - Extended Validation (EV) SSL Certificate encryption. All confidential information is automatically encrypted before it is transmitted, to protect the data from being read and interpreted.
+
 ### OUR POLICY FOR CHILDREN UNDER 13
 
 We respect the privacy of parents and children and the service and applications is not geared toward children under the age of 13. We do not knowingly collect personal information from children under 13. If you are under 13, you may use and access our websites only with the involvement of a parent or guardian. If WeBuzz discovers that a child under the age of 13 has provided WeBuzz with personally identifiable information, WeBuzz will immediately delete that child’s personally identifiable information from the website. 
@@ -72,4 +76,4 @@ By using any WeBuzz websites, applications or services, you signify your underst
 
 As noted above, we may modify this Privacy Policy from time to time. When we post changes to this Privacy Policy, we will revise the "last modified" date at the bottom of this page. Such revisions shall be effective to you immediately upon posting. We encourage you to periodically review this Privacy Policy to be informed of how we aim to protect your information.
 
-Last Modified: Nov 2010
+Last Modified: Dec 2010
