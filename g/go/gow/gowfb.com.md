@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226063809id_/http%3A//www.gowfb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315204628id_/http%3A//www.gowfb.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - GoWFB.com
 
@@ -33,9 +33,9 @@ If you find any discrepancies in your personal information, you can contact us a
 We read every message that arrives and warrants a response. We try to respond as soon as possible to all emails. We keep e-mail addresses on file in a secure server for documentation and to make sure that we respond appropriately to you.  
 If you have any specific questions about the above information, please [contact us](http://www.gowfb.com/contact_us.php).
 
-[](http://www.gowfb.com/christmas-sale.html)
+[](http://www.gowfb.com/st-patricks-day-sale.html)
 
 [](https://www.mcafeesecure.com/RatingVerify?ref=www.gowfb.com)
 
-© 2010 Wholesale Furniture Brokers. All Rights Reserved.  
+© 2011 Wholesale Furniture Brokers. All Rights Reserved.  
 
