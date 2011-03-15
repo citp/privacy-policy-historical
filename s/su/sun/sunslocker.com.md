@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunslocker.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523020612id_/http%3A//www.sunslocker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunslocker.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315030411id_/http%3A//www.sunslocker.com/privacy-policy) for the most accurate reproduction.*
 
 # Phoenix Suns NBA News - Suns Basketball Blog » Privacy Policy
 
@@ -63,11 +63,11 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ### Choice/Opt-out
 
-We provide you the opportunity to access and edit all of your Personal Information within our member profile page or by using our Customer Support [contact form](https://web.archive.org/web/20100523020612id_/http://www.sunslocker.com/contact-us). Information collected for the membership process, if requested, will be deleted within 21 days from the SunsLocker.com Sites. However, some Personal Information may need to be maintained if it is connected with billing information or as required by law. 
+We provide you the opportunity to access and edit all of your Personal Information within our member profile page or by using our Customer Support [contact form](https://web.archive.org/web/20110315030411id_/http://www.sunslocker.com/contact-us). Information collected for the membership process, if requested, will be deleted within 21 days from the SunsLocker.com Sites. However, some Personal Information may need to be maintained if it is connected with billing information or as required by law. 
 
 Users of the SunsLocker.com Sites are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party. 
 
-You may opt-out of receiving our newsletter by following the instructions included in each newsletter or by [contacting us](https://web.archive.org/web/20100523020612id_/http://www.sunslocker.com/contact-us). 
+You may opt-out of receiving our newsletter by following the instructions included in each newsletter or by [contacting us](https://web.archive.org/web/20110315030411id_/http://www.sunslocker.com/contact-us). 
 
 We gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, requested pages, operating system, and the time and date your browser requested our pages. We use this information, which does not identify individual visitors, to analyze trends, to administer the SunsLocker.com Sites, to track visitor movements around the SunsLocker.com Sites and to gather demographic information about our user base as a whole. We do not link this collected data to Personal Information.
 
@@ -93,4 +93,4 @@ This Privacy Statement is a living document. We will modify this document as we 
 
 ### Contact Us
 
-If you have any questions or suggestions regarding our privacy policy please [contact us](https://web.archive.org/web/20100523020612id_/http://www.sunslocker.com/contact-us).
+If you have any questions or suggestions regarding our privacy policy please [contact us](https://web.archive.org/web/20110315030411id_/http://www.sunslocker.com/contact-us).
