@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gelaskins.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213184952id_/http%3A//www.gelaskins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gelaskins.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315080358id_/http%3A//www.gelaskins.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -49,6 +49,3 @@ Our Site contains links to other websites. The fact that we link to a website is
 ## Our Policy Towards Children
 
 The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at privacy at gelaskins dot com. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
-
-*All U.S. & Canadian orders over $50 receive free UPS Standard shipping.  
-International Customers will receive a comparable discount on shipping.
