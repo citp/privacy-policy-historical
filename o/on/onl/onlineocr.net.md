@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlineocr.net privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927072945id_/http%3A//www.onlineocr.net/support/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineocr.net privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315064124id_/http%3A//www.onlineocr.net/support/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Free Online OCR service - convert PDF documents to Word, JPG to Word
+# Free Online OCR - Privacy Policy
 
 **Privacy Policy  
 **   
