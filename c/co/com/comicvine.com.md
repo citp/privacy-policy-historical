@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the comicvine.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625010719id_/http%3A//www.comicvine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicvine.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315013208id_/https%3A//auth.whiskeymedia.com/privacy/%3Ffrom_site%3Dcomic-vine) for the most accurate reproduction.*
 
-# Comic Vine Privacy Policy
+# Whiskey Media
 
-This privacy policy describes how we collect and use personal data provided by our users. If you have any questions or comments regarding our privacy policy, please contact us at privacy@giantbomb.com or send us a note to:
+This privacy policy describes how we collect and use personal data provided by our users. If you have any questions or comments regarding our privacy policy, please contact us at privacy@whiskeymedia.com or send us a note to:
 
 Whiskey Media, LLC  
 Attn: Mike Tatum  
-1221 Bridgeway  
-Sausalito, CA 94965  
+921 Front St.  
+San Francisco, CA 94111  
 
 
 ## What We Collect and How We Use It
@@ -36,7 +36,7 @@ It goes without saying that any personally identifiable information that you sub
 
 #### Private Messaging
 
-If you want to contact another Comic Vine registered user, you may send a private message (PM) through the site. You will be identified to that user only by your user name, and we will not disclose your email address to that member or theirs to you.
+If you want to contact another Whiskey Media registered user, you may send a private message (PM) through the site. You will be identified to that user only by your user name, and we will not disclose your email address to that member or theirs to you.
 
 ### Cookies, Web Beacons and Web Logs
 
@@ -65,6 +65,10 @@ If you sign up to receive our newsletter, we will use your email address to send
 ## Special Rules for Children
 
 Children under the age of 13 are not eligible to become registered users. If you are under 18, we also ask that you not include any personal information in your user profile (such as your name, city or date of birth) or in your posts on the site.
+
+## Paid Memberships
+
+Whiskey Media offers paid memberships to our sites for users that pay us a yearly or monthly subscription. We will collect credit card and billing information when purchasing a membership to our sites. A billing address collected during the purchase of a subscription may be used to send confirmation information and other marketing materials. A shipping address is required in order to receive your T-shirt. We use a third party vendor to process the data and they are contractually required to protect the privacy and security of the data. We do not store any of the credit card information in our database.
 
 ## Information Sharing
 
@@ -96,11 +100,11 @@ If we sell all or a portion of our business, we may transfer some or all of your
 
 ## Accessing and Changing Your Account Information
 
-You can review your personal information and make any desired changes at any time by logging in to your account and editing the information on your profile page. If you want to close your Comic Vine account, send an email to account@giantbomb.com using the email account that you used to create your account. Within ten business days we will remove your profile and other personally identifiable information from our publicly viewable data, but your posts (with user name) will remain. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of our Privacy Policy.
+You can review your personal information and make any desired changes at any time by logging in to your account and editing the information on your profile page. If you want to close your Whiskey Media account, send an email to support@whiskeymedia.com using the email account that you used to create your account. Within ten business days we will remove your profile and other personally identifiable information from our publicly viewable data, but your posts (with user name) will remain. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of our Privacy Policy.
 
 ## Security
 
-In order to secure your personal information, access to your user account from the website is password-protected. While we take security very seriously, no data transmission over the Internet or information storage technology is 100% secure. If you suspect that your Comic Vine account has been compromised, please email us at security@giantbomb.com.
+In order to secure your personal information, access to your user account from the website is password-protected. While we take security very seriously, no data transmission over the Internet or information storage technology is 100% secure. If you suspect that your Whiskey Media account has been compromised, please email us at support@whiskeymedia.com.
 
 ## Changes to this Privacy Policy
 
