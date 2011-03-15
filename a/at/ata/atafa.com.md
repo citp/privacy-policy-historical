@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atafa.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122214337id_/http%3A//www.atafa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atafa.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315185948id_/http%3A//www.atafa.com/privacy.php) for the most accurate reproduction.*
 
 # ATAFA.com: Atafa sporting goods stores sell sporting equipment wholesale and retail. We offer the best price you can find among sports equipment stores.
 
@@ -10,10 +10,10 @@ This notice describes our privacy policy. By visiting atafa.com, you are accepti
 The information we learn from customers helps us personalize and continually improve your shopping experience at atafa.com. Here are the types of information we gather.  
 * Information You Give Us: We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.  
 * Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses atafa.com. Although we will not be able to provide you with a personalized experience at atafa.com if we cannot recognize you, we want you to be aware that these tools exist.   
-* E-mail Communications: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from atafa.com if your computer supports such capabilities.   
+* Email & Opting Out: To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from atafa.com if your computer supports such capabilities. Users can opt out of receiving future marketing communications from us at any time by logging in to his/her account to unsubscribe or clicking unsubscribe on the newsletter.  
 
 
-**What About Cookies?**
+ **What About Cookies?**
 
 * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features that may make it easier for you to shop online at atafa.com.   
 * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of atafa.com's coolest features, and we recommend that you leave them turned on.   
