@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezeejobs.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215183345id_/http%3A//www.ezeejobs.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezeejobs.net privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316004241id_/http%3A//www.ezeejobs.net/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
