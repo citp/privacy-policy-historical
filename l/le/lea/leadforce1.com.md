@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the leadforce1.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722160314id_/http%3A//www.leadforce1.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D151%26Itemid%3D237) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadforce1.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315223921id_/http%3A//www.leadformix.com/leadformix-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We help marketers better target their audience and avoid pricing models designed to increase the volume of communications. While MarketForceOne's (MarketForceOne Inc. owns LeadForce1) solutions are focused on improving marketing results and lowering costs, we are also reducing unwanted email, phone, and postal communications by as much as 50%.
+We help marketers better target their audience and avoid pricing models designed to increase the volume of communications. While MarketForceOne's (MarketForceOne Inc. owns LeadFormix) solutions are focused on improving marketing results and lowering costs, we are also reducing unwanted email, phone, and postal communications by as much as 50%.
 
-EmailForce1 is a product of MarketForceOne, Inc. This Privacy Policy includes activity related to MarketForceOne, including, without limitation, its products LeadForce1 and EmailForce1.
+Email Campaigns is a product of MarketForceOne, Inc. This Privacy Policy includes activity related to MarketForceOne, including, without limitation, its products LeadFormix and Email Campaigns.
 
 **Anti-Abuse**
 
-If you suspect a client of abusing our services, please contact us at [abuse@leadforce1.com](mailto:abuse@leadforce1.com) . All complaints are investigated, and you will receive a response detailing the action that we will take to resolve the issue.
+If you suspect a client of abusing our services, please contact us at [abuse@LeadFormix.com](mailto:abuse@LeadFormix.com) . All complaints are investigated, and you will receive a response detailing the action that we will take to resolve the issue.
 
-**This policy describes how LeadForce1 and EmailForce1 uses and protects your personal information.**
+**This policy describes how LeadFormix and Email Campaigns uses and protects your personal information.**
 
 **Scope**
 
-This privacy policy describes how we handle the personal information that you supply to us or concerning your use of our services available through [www.leadforce1.com,](https://web.archive.org/index.php) or any MarketForceOne Inc. web sites including the EmailForce1 product and applies generally to any affiliated web sites (the "Sites"). By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+This privacy policy describes how we handle the personal information that you supply to us or concerning your use of our services available through [www.LeadFormix.com,](http://www.leadformix.com/index.php) or any MarketForceOne Inc. web sites including the Email Campaigns product and applies generally to any affiliated web sites (the "Sites"). By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 This Privacy Policy is effective on September 5, 2008 for any current users, and upon acceptance for all new users.
 
@@ -58,19 +58,19 @@ Our primary purpose in collecting personal information is to provide you with a 
 
 Without limiting the above, in an effort to respect your privacy we will not otherwise disclose your personal information without your consent except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
 
-#### EmailForce1 - Responding to Unsolicited Email Complaints
+#### Email Campaigns - Responding to Unsolicited Email Complaints
 
-If a complaint is received regarding unsolicited emails being sent from EmailForce1, an immediate investigation is undertaken by us. The following are our standard responses to complaints:
+If a complaint is received regarding unsolicited emails being sent from Email Campaigns, an immediate investigation is undertaken by us. The following are our standard responses to complaints:
 
-Initial Warning - The user of EmailForce1 is first notified that an unsolicited email complaint has been lodged against them and: (a) Reminded of the terms they previously accepted. (b) Reminded that the complainant's email address will automatically be flagged for suppression if the complainant did unsubscribe. (c) Requested to manually remove the complainant's email address from their subscriber list if the address was not automatically suppressed because the complainant did not unsubscribe.
+Initial Warning - The user of Email Campaigns is first notified that an unsolicited email complaint has been lodged against them and: (a) Reminded of the terms they previously accepted. (b) Reminded that the complainant's email address will automatically be flagged for suppression if the complainant did unsubscribe. (c) Requested to manually remove the complainant's email address from their subscriber list if the address was not automatically suppressed because the complainant did not unsubscribe.
 
-Follow-up Warning - If the complainant persists, or if there are multiple complaints, a second warning is issued. The user is again reminded of the terms they previously accepted. Additionally, the user is advised that if they are unable to abide by these terms, they should discontinue using EmailForce1.
+Follow-up Warning - If the complainant persists, or if there are multiple complaints, a second warning is issued. The user is again reminded of the terms they previously accepted. Additionally, the user is advised that if they are unable to abide by these terms, they should discontinue using Email Campaigns.
 
 Final Notice - If notifications of unsolicited emails continue and remain unaddressed after the follow-up warning, the user's account privileges will be suspended and eventually terminated.
 
-**EmailForce1 – Prohibited Content**
+**Email Campaigns – Prohibited Content**
 
-Do not use EmailForce1 to send anything offensive, to promote anything illegal, or to harass anyone.
+Do not use Email Campaigns to send anything offensive, to promote anything illegal, or to harass anyone.
 
   * No Pornography
   * No campaigns selling illegal substances
@@ -107,11 +107,11 @@ User agrees to comply with the regulations as prescribed under the CAN- SPAM Act
 
 User also agrees to have in place a system to unsubscribe or opt out so that any individual who wants to discontinue receiving emails, can do so. User will have unsubscribe options in every email and mention the timeframe by which the individual will stop receiving emails. User must have a privacy policy describing the use of the collected data (like email) and also a way to handle abuse and complaints.
 
-We also reserve the right to unsubscribe individuals if they flag an email as Spam. User also agrees to cooperate with Leadforce1 in case there is an abuse complaint and User will provide documentation to determine the consent for sending the emails.
+We also reserve the right to unsubscribe individuals if they flag an email as Spam. User also agrees to cooperate with LeadFormix in case there is an abuse complaint and User will provide documentation to determine the consent for sending the emails.
 
 **Email bounce**
 
-Leadforce1 will provide reports on the deliverability of email campaigns. The user is expected to go through the results and if there are too many hard bounces (non-existent or unavailable email addresses), Leadforce1 may block certain campaigns if they are found to have a high proportion of bounces to prevent loss of reputation of the service. The hard bounced emails need to be removed from the system to improve the deliverability.
+LeadFormix will provide reports on the deliverability of email campaigns. The user is expected to go through the results and if there are too many hard bounces (non-existent or unavailable email addresses), LeadFormix may block certain campaigns if they are found to have a high proportion of bounces to prevent loss of reputation of the service. The hard bounced emails need to be removed from the system to improve the deliverability.
 
 **Copyright content**
 
@@ -120,7 +120,7 @@ User agrees not to send emails that contain
   * Material that is proprietary and is not permitted for the user to copy or distribute
   * Material that may be defamatory, threatening, malicious code (viruses, Trojans) and is violating any privacy or proprietary rights
   * Send cContent which may be construed to be deceitful and deliberately inaccurate and/or falsified information
-  * Leadforce1 reserves the right to terminate the contracts of offenders.
+  * LeadFormix reserves the right to terminate the contracts of offenders.
 
 
 
@@ -152,7 +152,7 @@ You are always free to decline cookies if your browser permits. However, if you 
 
 **Account Protection**
 
-Your password is the key to your account. Use unique numbers, letters, and special characters and do not disclose your LeadForce1 password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify us and change your password.
+Your password is the key to your account. Use unique numbers, letters, and special characters and do not disclose your LeadFormix password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify us and change your password.
 
 **Accessing, Reviewing and Changing Your Personal Information**
 
@@ -164,7 +164,7 @@ Your information is stored on our servers located in the United States. We treat
 
 **Phishing**
 
-In order to protect yourself from email that appears to be from LeadForce1, but may be from a disreputable third party, you should never provide any personal information directly in response to an email you believe you have received from us. Rather, you should always close any such email, open your browser, log directly in to the Sites and change, update or modify any such personal information only using our Sites. In the event that you believe that you have received a request for personal information in an email message that is made to appear that it was sent by us, please inform us immediately.
+In order to protect yourself from email that appears to be from LeadFormix, but may be from a disreputable third party, you should never provide any personal information directly in response to an email you believe you have received from us. Rather, you should always close any such email, open your browser, log directly in to the Sites and change, update or modify any such personal information only using our Sites. In the event that you believe that you have received a request for personal information in an email message that is made to appear that it was sent by us, please inform us immediately.
 
 **General**
 
