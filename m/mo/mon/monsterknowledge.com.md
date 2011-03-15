@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterknowledge.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220104036id_/http%3A//monsterknowledge.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterknowledge.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315150758id_/http%3A//www.monsterknowledge.com/privacy.asp) for the most accurate reproduction.*
 
 # MonsterKnowledge.com :: Home Page
 
