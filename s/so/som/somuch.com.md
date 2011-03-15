@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the somuch.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819110431id_/http%3A//www.somuch.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somuch.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315123702id_/http%3A//www.somuch.com/Privacy.asp) for the most accurate reproduction.*
 
 # SoMuch.com Privacy Policy
 
-  |   |  **I respect your privacy, because I like my privacy.**
+**I respect your privacy, because I like my privacy.**
 
 I'm just like you - I hate it when I'm required to give my name, address, phone number, or any other personal information just to use some simple item on a site.  Lately the trend has been to make you become a "member" before you can do much of anything. I think sites sometimes ask for information they don't need just because everyone else seems to be doing it, and it makes them feel like one of the big boys.
 
@@ -11,5 +11,3 @@ In most cases the mundane details of your unremarkable life will prove to be of 
 **_I guess this statement should cover it all. We won't ever give, sell, or trade any visitor information - period, nada, zip, finito!_**
 
 Any feature that requires you to enter information will also give you the ability to opt out in the future - your record will be deleted at that time - no information will be saved anywhere.
-
-|   |  [](https://web.archive.org/web/20100819110431id_/http%3A//www.somuch.com/ThisDay.asp)
