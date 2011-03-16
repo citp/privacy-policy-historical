@@ -1,20 +1,231 @@
-<!--The following is the downloaded HTML source of the tobri.com privacy policy that was archived on 2010-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101202014523id_/http%3A//www.tobri.com/legal/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tobri.com privacy policy that was archived on 2011-03-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110316105553id_/http%3A//www.tobri.com/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy</title>
-<style type="text/css">
-body{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:black;}
-h1  {text-align:center;margin:25px 0px 50px 0px;}
-h3  {text-align:center;margin:50px 0px 25px 0px;}
-</style>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+  <base href="http://www.tobri.com/">
 
+  
+    
+
+      <title>Tobri - Visual Connections for a social world. Not just more connections, better connections.</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Language" content="en-US">
+<meta name="description" content="Connect with amazing people right now on Tobri!">
+<meta name="keywords" content="visual connections,tobri,ken mcarthur,tobri connections">
+
+
+      <link href="/application/css.php?request=application/themes/tobri/theme.css&amp;c=24" media="screen" rel="stylesheet" type="text/css">
+<link href="/favicon.ico?c=24" rel="favicon" type="image/x-icon">
+<link href="application/modules/Socialdna/externals/scripts/moofacebox/moofacebox.css?c=24" media="screen" rel="stylesheet" type="text/css">
+  
+
+    
+    <script type="text/javascript">
+      </script>
+    <script type="text/javascript" src="/externals/mootools/mootools-1.2.4-core-yc.js?c=24"></script>
+<script type="text/javascript" src="/externals/mootools/mootools-1.2.4.4-more-yc.js?c=24"></script>
+<script type="text/javascript" src="/externals/chootools/chootools.js?c=24"></script>
+<script type="text/javascript" src="/application/modules/Core/externals/scripts/core.js?c=24"></script>
+<script type="text/javascript" src="/application/modules/User/externals/scripts/core.js?c=24"></script>
+<script type="text/javascript" src="/externals/smoothbox/smoothbox4.js?c=24"></script>
+<script type="text/javascript">
+    //<![CDATA[
+
+    Date.setServerOffset('Wed, 16 Mar 2011 10:55:53 +0000');
+    
+    en4.orientation = 'ltr';
+    en4.core.environment = 'production';
+    en4.core.language.setLocale('en');
+    en4.core.setBaseUrl('/');
+    en4.core.loader = new Element('img', {src: 'application/modules/Core/externals/images/loading.gif'});
+    
+            if( false ) {
+      en4.core.dloader.attach();
+    }
+        //]]>
+</script>
+<script type="text/javascript"></script>
+<script type="text/javascript" src="application/modules/Activity/externals/scripts/core.js?c=24"></script>
+<script type="text/javascript" src="application/modules/Connection/externals/scripts/applet.js?c=24"></script>
+<script type="text/javascript" src="application/modules/Lifestream/externals/scripts/lifestream.js?c=24"></script>
+<script type="text/javascript" src="application/modules/Semods/externals/scripts/semods.js?c=24"></script>
+<script type="text/javascript" src="application/modules/Socialdna/externals/scripts/socialdna.js?c=24"></script>
+<script type="text/javascript" src="application/modules/Socialdna/externals/scripts/moofacebox/moofacebox.js?c=24"></script>
+  
 </head>
+<body id="global_page_core-help-privacy">
+  <div id="global_header">
+    <div class="layout_page_header">
+<div class="generic_layout_container layout_main">
+<div class="generic_layout_container layout_core_menu_mini">
+<div id="core_menu_mini_menu">
+    <ul>
+              <li><a href="/login">Sign In</a></li>
+          <li><a href="/signup">Sign Up</a></li>
+              <li id="global_search_form_container">
+        <form id="global_search_form" action="/search" method="get">
+          <input type="text" class="text suggested" name="query" id="global_search_field" size="20" maxlength="100" alt="Search">
+        </form>
+      </li>
+      </ul>
+</div>
 
-<body>
-<h1>PRIVACY POLICY</h1>
-<p><strong>HOW WE PROTECT YOUR PRIVACY</strong> </p>
+
+<script type="text/javascript">
+  var notificationUpdater;
+
+  en4.core.runonce.add(function(){
+    new OverText($('global_search_field'), {
+      poll: true,
+      pollInterval: 500,
+      positionOptions: {
+        position: ( en4.orientation == 'rtl' ? 'upperRight' : 'upperLeft' ),
+        edge: ( en4.orientation == 'rtl' ? 'upperRight' : 'upperLeft' ),
+        offset: {
+          x: ( en4.orientation == 'rtl' ? -4 : 4 ),
+          y: 2
+        }
+      }
+    });
+
+    if($('notifications_markread_link')){
+      $('notifications_markread_link').addEvent('click', function() {
+        //$('notifications_markread').setStyle('display', 'none');
+        en4.activity.hideNotifications('0 Updates');
+      });
+    }
+
+      });
+
+
+  var toggleUpdatesPulldown = function(event, element, user_id) {
+    if( element.className=='updates_pulldown' ) {
+      element.className= 'updates_pulldown_active';
+      showNotifications();
+    } else {
+      element.className='updates_pulldown';
+    }
+  }
+
+  var showNotifications = function() {
+    en4.activity.updateNotifications();
+    new Request.HTML({
+      'url' : en4.core.baseUrl + 'activity/notifications/pulldown',
+      'data' : {
+        'format' : 'html',
+        'page' : 1
+      },
+      'onComplete' : function(responseTree, responseElements, responseHTML, responseJavaScript) {
+
+        if(responseHTML){
+          // hide loading icon
+          if($('notifications_loading')) $('notifications_loading').setStyle('display', 'none');
+
+          $('notifications_menu').innerHTML = responseHTML;
+          $('notifications_menu').addEvent('click', function(event){
+            event.stop(); //Prevents the browser from following the link.
+
+            var current_link = event.target;
+            var notification_li = $(current_link).getParent('li');
+
+            // if this is true, then the user clicked on the li element itself
+            if (notification_li.id == 'core_menu_mini_menu_update') notification_li = current_link;
+
+            var forward_link;
+            if(current_link.get('href')){
+              forward_link = current_link.get('href');
+            }
+            else{
+              forward_link = $(current_link).getElements('a:last-child').get('href');
+            }
+
+            if(notification_li.get('class')=='notifications_unread'){
+              notification_li.removeClass('notifications_unread');
+              en4.core.request.send(new Request.JSON({
+                url : en4.core.baseUrl + 'activity/notifications/hide',
+                data : {
+                  format     : 'json',
+                  'actionid' : notification_li.get('value')
+                },
+                onSuccess : window.location = forward_link
+              }));
+            }
+            else window.location = forward_link;
+          });
+        }
+        else $('notifications_loading').innerHTML = 'You have no new updates.';
+      }
+    }).send();
+  };
+
+  /*
+  function focusSearch() {
+    if(document.getElementById('global_search_field').value == 'Search') {
+      document.getElementById('global_search_field').value = '';
+      document.getElementById('global_search_field').className = 'text';
+    }
+  }
+  function blurSearch() {
+    if(document.getElementById('global_search_field').value == '') {
+      document.getElementById('global_search_field').value = 'Search';
+      document.getElementById('global_search_field').className = 'text suggested';
+    }
+  }
+  */
+</script></div>
+
+<div class="generic_layout_container layout_core_menu_logo">
+<a href="/"><img src="public/admin/TobriLogo_175x76.png" alt="Tobri - Visual Connections for a social world. Not just more connections, better connections."></a></div>
+
+<div class="generic_layout_container layout_core_menu_main">
+<ul class="navigation">
+    <li>
+        <a class="menu_core_main core_main_home" href="/">Home</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_connection" href="/connection/list">Connections</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_album" href="/albums">Albums</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_classified" href="/classifieds">Classifieds</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_blog" href="/blogs">Blogs</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_forum" href="/forums">Forum</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_poll" href="/polls">Polls</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_group" href="/groups">Groups</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_event" href="/events">Events</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_video" href="/videos">Videos</a>
+    </li>
+    <li>
+        <a class="menu_core_main core_main_music" href="/music">Music</a>
+    </li>
+</ul></div>
+
+<div class="generic_layout_container layout_core_html_block">
+<link type="text/css" href="/cometchat/cometchatcss.php" rel="stylesheet" charset="utf-8">
+<script type="text/javascript" src="/cometchat/cometchatjs.php" charset="utf-8"></script></div>
+</div>
+</div>
+  </div>
+  <div id="global_wrapper">
+    <div id="global_content">
+            
+<h2>Privacy Statement</h2>
+<p>
+  </p><p><strong>HOW WE PROTECT YOUR PRIVACY</strong> </p>
 <p>This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.</p>
 <p><strong>MINORS</strong></p><p>
  We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.</p>
@@ -41,24 +252,154 @@ h3  {text-align:center;margin:50px 0px 25px 0px;}
 <p><strong>YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR  SUPPLIERS</strong></p>
 <p>You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.</p>
 <p><strong>AUTORESPONDERS</strong></p>
-<p>We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to member.service[at]tobri.com, or sending us mail to the address listed below.
+<p>We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to managers[at]tobri.com, or sending us mail to the address listed below.
   </p>
 <p><strong>POLICY  CHANGES</strong></p>
 <p>The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.</p>
-<p>If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to  member.service[at]tobri.com and providing us with information relating to your concern.</p>
+<p>If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to  managers[at]tobri.com and providing us with information relating to your concern.</p>
   <p>You may also mail your  concerns to us at the following address:</p>
   Tobri, LLC<br>
-  P.O. Box 211247<br>
+  P.O. Box 411247<br>
   Melbourne, FL 32941<br>
   US<p></p>
 <p><strong>CALIFORNIA PRIVACY RIGHTS</strong></p>
-<p>If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to member.service[at]tobri.com or write us at the following address:</p>
+<p>If you are a California resident and our customer, Cal. Civ. Code Â§ 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to managers[at]tobri.com or write us at the following address:</p>
   Tobri, LLC<br>
-  P.O. Box 211247<br>
+  P.O. Box 411247<br>
   Melbourne, FL 32941<br>
   US<p></p>
-<p>This privacy policy was last updated on 05-18-2010.</p>
-<p>Copyright © 2008-2010 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at Tobri.com.&nbsp;All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.</p>
+<p>This privacy policy was last updated on 01-08-2011.</p>
+<p></p>          </div>
+  </div>
+  <div id="global_footer">
+    <div class="layout_page_footer">
+<div class="generic_layout_container layout_main">
+<div class="generic_layout_container layout_core_ad_campaign">
+<script type="text/javascript">
 
+ function processClick(adcampaign_id, ad_id) {
+    (new Request.JSON({
+      'format': 'json',
+      'url' : '/utility/advertisement',
+      'data' : {
+        'format' : 'json',
+        'adcampaign_id' : adcampaign_id,
+        'ad_id' : ad_id
+      },
+      'onRequest' : function(){
+      },
+      'onSuccess' : function(responseJSON, responseText)
+      {
+      }
+    })).send();
+
+  }
+</script>
+
+<div onclick="javascript:processClick(30, 30)">
+  <center><script>var ACE_AR = {Site: '794094', Size: '728090'};</script> <script language="JavaScript" src="http://uac.advertising.com/wrapper/aceUAC.js"></script></center>
+</div></div>
+
+<div class="generic_layout_container layout_core_html_block">
+<br></div>
+
+
+
+<!-- boot facebook -->
+
+<script type="text/javascript">
+  var openidconnect_primary_network = 'facebook';
+
+  var openidconnect_facebook_api_key = "33e89a1d6698374ff2d6f978ac58b2c9";
+  var openidconnect_facebook_user_id = "0";
+  
+  var openidconnect_autologin_url = "/socialdna/login";
+  var openidconnect_logout_url = "/logout";
+  var openidconnect_relay_url = "http://tobri.openidgo.com";
+  var openidconnect_fbe = "1";
+  var openidconnect_base_url = '/';
+  var openidconnect_base_path = /^(.+?)index[.]php/i.test(openidconnect_base_url) ? openidconnect_base_url.match(/^(.+?)index[.]php/i)[1] : openidconnect_base_url;
+</script>
+
+<script type="text/javascript">
+var fbHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://static.ak.");
+document.write(unescape("%3Cscript src='" + fbHost + "connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+
+
+
+
+
+
+
+
+<div id="openidconnect_autologin_prompt" style="display:none; padding: 10px">
+
+  <div id="form_div" class="form_div">
+
+    <div style="border-bottom: 1px solid #DDD; margin-bottom: 10px; padding-bottom: 5px; color: #555">
+      <img style="float:left; padding-right: 5px; width: 16px" src="application/modules/Socialdna/externals/images/brands/logo_facebook_mini.gif"> &nbsp; <span style="font-size: 14px">Login via Facebook?</span>
+    </div>
+    
+    <br>
+
+
+    <div style="position: relative; text-align: center;">
+    
+      <div style="margin: 0px auto;width: 500px; color: #555">
+        You are currently logged in to Facebook. Would you like to login to the network?      </div>
+
+    </div>
+
+    <br>
+    <br>
+      
+      <table cellpadding="0" cellspacing="0" style="margin: 0px auto">
+      <tbody><tr>
+      <td><button type="submit" style="width: 150px" class="button openidconnect_autologin_prompt_confirmed" onclick="openidconnect_autologin_confirmed()">Login</button>&nbsp;&nbsp;</td>
+      <td style="padding-left: 10px; color: #555"> or <a class="openidconnect_autologin_prompt_cancel" href="javascript:void(0)" onclick="openidconnect_autologin_cancel()">Cancel</a>&nbsp;&nbsp;</td>
+      </tr>
+      <tr>
+      <td style="padding-top: 5px">
+
+        <input class="openidconnect_autologin_remember" type="checkbox" style="vertical-align:middle">&nbsp;&nbsp;<label for="openidconnect_autologin_remember" style="vertical-align:middle; float: left; color: #555">Remember my choice</label>
+
+      </td>
+      <td> &nbsp; </td>
+      </tr>
+      </tbody></table>
+
+    <br>
+
+  </div>
+  
+</div>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  SEMods.B.register_onload( function() { openidconnect_facebook_onload( { 'user_exists' : '0', 'hook_logout' : '1', 'autologin' : '1', 'request_connect' : '0' } ); } );
+  //en4.core.runonce.add( function() { openidconnect_facebook_onload( { 'user_exists' : '0', 'hook_logout' : '1', 'autologin' : '1', 'request_connect' : '0' } ); } );
+</script>
+
+<div class="generic_layout_container layout_core_menu_footer">
+Copyright ©2011  &nbsp;-&nbsp; <a href="/help/privacy" class="menu_core_footer core_footer_privacy" active="1">Privacy</a>  &nbsp;-&nbsp; <a href="/help/terms" class="menu_core_footer core_footer_terms">Terms of Service</a>  &nbsp;-&nbsp; <a href="/help/contact" class="menu_core_footer core_footer_contact">Contact</a>  &nbsp;-&nbsp; <a href="/rssfeeds/channels" class="menu_core_footer core_footer_rssfeed">RSS</a>
+    &nbsp;-&nbsp;
+    <form method="post" action="/utility/locale" style="display:inline-block">
+            <select name="language" id="language" onchange="$(this).getParent('form').submit();">
+    <option value="" label=""></option>
+    <option value="en" label="English" selected="selected">English</option>
+</select>      <input type="hidden" name="return" value="/help/privacy" id="return">    </form>
+</div>
+</div>
+</div>
+  </div>
 
 </body></html>
