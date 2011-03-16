@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the page1profit.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218083917id_/http%3A//page1profit.com/gyh-business-services-terms-and-conditions-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page1profit.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316223420id_/http%3A//page1profit.com/gyh-business-services-terms-and-conditions-privacy-policy) for the most accurate reproduction.*
 
 # GYH Business Services – Terms and Conditions & Privacy Policy
 
