@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerwealthsystem.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231025723id_/http%3A//www.consumerwealthsystem.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerwealthsystem.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316083203id_/http%3A//www.consumerwealthsystem.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ We also recognise that you may have concerns about our collection of your person
 
 We have implemented this Privacy Policy in order to let you know about how we will collect, store, use and disclose your personal information.
 
-Please note that this Privacy Policy forms part of the IM Alliance [Terms of Use](https://web.archive.org/web/20101231025723id_/http%3A//www.consumerwealthsystem.com/terms-of-use.php), which is displayed at the bottom of our Website.
+Please note that this Privacy Policy forms part of the IM Alliance [Terms of Use](https://web.archive.org/web/20110316083203id_/http%3A//www.consumerwealthsystem.com/terms-of-use.php), which is displayed at the bottom of our Website.
 
 ## Information we collect from you
 
