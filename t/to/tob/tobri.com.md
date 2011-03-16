@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tobri.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202014523id_/http%3A//www.tobri.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobri.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316105553id_/http%3A//www.tobri.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tobri - Visual Connections for a social world. Not just more connections, better connections.
+
+## Privacy Statement
 
 **HOW WE PROTECT YOUR PRIVACY**
 
@@ -52,30 +54,28 @@ You may choose to provide personal information to website visitors or other thir
 
 **AUTORESPONDERS**
 
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to member.service[at]tobri.com, or sending us mail to the address listed below. 
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to managers[at]tobri.com, or sending us mail to the address listed below. 
 
 **POLICY CHANGES**
 
 The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
 
-If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to member.service[at]tobri.com and providing us with information relating to your concern.
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to managers[at]tobri.com and providing us with information relating to your concern.
 
 You may also mail your concerns to us at the following address:
 
 Tobri, LLC  
-P.O. Box 211247  
+P.O. Box 411247  
 Melbourne, FL 32941  
-US 
+US
 
 **CALIFORNIA PRIVACY RIGHTS**
 
-If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to member.service[at]tobri.com or write us at the following address:
+If you are a California resident and our customer, Cal. Civ. Code Â§ 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to managers[at]tobri.com or write us at the following address:
 
 Tobri, LLC  
-P.O. Box 211247  
+P.O. Box 411247  
 Melbourne, FL 32941  
-US 
+US
 
-This privacy policy was last updated on 05-18-2010.
-
-Copyright © 2008-2010 Law Office of Michael E. Young PLLC, and licensed for use by the owner of this website at Tobri.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+This privacy policy was last updated on 01-08-2011.
