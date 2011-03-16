@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bucknuts.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216060323id_/http%3A//bucknuts.com/index.php/privacy-policy/menu-id-38.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bucknuts.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316033410id_/http%3A//bucknuts.com/index.php/privacy-policy/menu-id-38.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
