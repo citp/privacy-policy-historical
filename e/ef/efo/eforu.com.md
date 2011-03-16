@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eforu.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225023644id_/http%3A//www.eforu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eforu.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316190442id_/http%3A//www.eforu.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Eforu.com
 
@@ -25,7 +25,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
  _Third Party Cookies_
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
 
   
 If you have any questions concerning the privacy policies of Eforu.com which are not covered in this statement, please send email with your questions to [support@eforu.com](mailto:support@eforu.com?Subject=Privacy%20Policy) with the words "Privacy Policy" in the subject field.  
