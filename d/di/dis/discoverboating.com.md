@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverboating.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901154601id_/http%3A//www.discoverboating.com/info/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverboating.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316084513id_/http%3A//www.discoverboating.com/info/policy.htm) for the most accurate reproduction.*
 
 # Customer Privacy Policy
 
@@ -6,7 +6,7 @@ Your privacy is a priority at Discover Boating, and we go to great lengths to pr
 
 ### Children's Privacy Statement
 
-To protect the privacy of children, we adhere to the 1998 Children's Online Privacy Protection Act (COPPA). For more information, visit the Federal Trade Commission's COPPA site at [www.ftc.gov/bcp/conline/edcams/kidzprivacy](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adults.htm)
+To protect the privacy of children, we adhere to the 1998 Children's Online Privacy Protection Act (COPPA). For more information, visit the Federal Trade Commission's COPPA site at <http://www.ftc.gov/privacy/privacyinitiatives/childrens.html>
 
 ### Information Collection and Use
 
