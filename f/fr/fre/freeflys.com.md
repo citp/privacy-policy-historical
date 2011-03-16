@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230022201id_/http%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316070830id_/http%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
 
 # FreeFly's - Privacy
 
