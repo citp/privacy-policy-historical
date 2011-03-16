@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nudolls.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521172952id_/http%3A//nudolls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudolls.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316192720id_/http%3A//www.nudolls.com/privacy) for the most accurate reproduction.*
 
-# ND — Privacy Policy
+# Privacy policy
+
+#### Privacy Policy
 
 Nudolls.com fully guarantees that none of your personal information, including credit card information or any other personal information, is stored on the Nudolls.com website.
 
@@ -23,5 +25,3 @@ Nudolls.com will never publish, share, distribute, store, or make any other use 
 Nudolls.com works hard to protect your online privacy and the confidentiality of your personal information. As a member or guest of Nudolls.com you can be sure that your privacy is fully protected.
 
 Nudolls.com has the right to change the above stated Privacy Policy at any time. Please review this page for updates periodically.
-
-[18 U.S.C. 2257 Record-Keeping Requirements Compliance statement](http://nudolls.com/legal/2257.html) • [Webmasters click here](http://newnudecash.com/) • Copyright 2007-2010. All rights reserved. 
