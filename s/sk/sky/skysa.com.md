@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skysa.com privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915154425id_/http%3A//www.skysa.com%3Fpage%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skysa.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316154337id_/http%3A//skysa.com%3Fpage%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
 
-# Free Website Footer Bar, Chat Room, Social App Bar - Skysa
+# Website Footer Bar, Chat Room, Social App Bar - Skysa
 
 **PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY**
 
