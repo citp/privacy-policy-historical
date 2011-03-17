@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiapages.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125051521id_/http%3A//indiapages.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiapages.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317114402id_/http%3A//indiapages.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - IndiaPages.com
 
