@@ -1,77 +1,68 @@
-> *The following text is extracted and transformed from the hugoboss.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103184925id_/http%3A//store-uk.hugoboss.com/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hugoboss.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317142848id_/http%3A//store-us.hugoboss.com/Privacy-Statement/privacy-statement%2Cen_US%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ## Privacy Statement
 
-HUGO BOSS AG ( **"HUGO BOSS"/"we"/"us"** ) and the companies connected with it in the HUGO BOSS Group (the **"HUGO BOSS Group"** ) takes the privacy of each person who visits our website very seriously. We will always process your Personal Data in accordance with the law, in particular with the UK Data Protection Act 1998.
+In this Website Privacy Statement (“Statement”), we, HUGO BOSS Fashions, Inc., 601 West 26th Street, New York, NY 10001 (hereinafter referred to as "HUGO BOSS”, “we”, “us” or “our”), describe what personal information we collect through those web pages at [www.hugoboss-store.com ](http://hugoboss-store.com/)that we control and on which we display a direct link to this Statement (the “Site”) and how we collect and use such data.
 
-This Privacy Statement is incorporated in and subject to our Terms and Conditions which can be accessed [ [here].](http://store-uk.hugoboss.com/Terms-Conditions/terms-conditions,en_GB,pg.html) By using the Website and placing orders, you expressly consent to the use of your Personal Data in accordance with this Privacy Statement. 
+## Scope
 
-## YOUR PERSONAL DATA
+This Statement covers only data collected through the Site. It does not apply to any other data including, without limitation, data that we collect through other web pages at [www.hugoboss-store.com ](http://hugoboss-store.com/) or offline, or data that others collect on websites that are linked or linking to the Site.
 
-"Personal Data" means any information about you which is personally identifiable, including, without limitation, your name, address, telephone number, e-mail address, financial details, registration name, password and other information from which you can be identified and which you disclose to us at any time. 
+## Types of Data HUGO BOSS Collects, Collection Methods, and Collection Purposes
 
-  
+Through the Site, we receive and collect data that you actively submit as well as data that we passively track:
 
+Actively Submitted Data: When you purchase products through our Site, sign up for a newsletter, participate in promotions or otherwise actively send us data, you are providing, and we collect, data such as your name, email address(es), billing address(es), delivery address(es), telephone number(s), and credit card information. In each such instance, you will know what data we collect through the Site, because you actively submit it. We collect actively submitted data primarily for the purpose for which you originally sent us the data (for example, to sell and deliver products). We may also use this data internally as research data to improve our products and services, and for purposes of advertising, promoting, and informing you about products, services, initiatives, and events; you can opt out of receiving marketing emails as explained below.
 
-## COLLECTION OF YOUR PERSONAL DATA
+Passively Tracked Data: When you visit the Site, we also passively track information on your computer and Internet connection, such as the IP address of your computer and/or Internet service provider, the date and time you access the Site, the Internet address of websites from which you link to our Site, the computer technology you are using and your movements and preferences on our Site. We use technology that many other websites employ, including, without limitation, cookies, to collect information such as the aforementioned. We may also use such cookies to collect information in connection with future visits from that Site, to recognize you as a previous visitor and to track your activity on the Site. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of the Site might not work without cookies. We reserve our right to also use other technologies such as Internet tags, web beacons, and navigational data collection tools (log files, server logs, or click stream). We collect passively tracked data primarily for purposes of administering, protecting and improving our Site and our systems, to better understand the preferences of our Site visitors, to identify server problems, to compile aggregated statistics about Site usage, to help personalize your experience of our Site, and to personalize offers.
 
-We collect your Personal Data when:
+Combinations: We may combine passively tracked data with data that you actively submit so as to, for instance, provide better service to Site visitors, customize the Site based on your preferences, compile and analyze statistics and trends, to otherwise administer and improve the Site for your use, and to personalize offers (for example, combined information may allow us to recommend products to you based on what you have liked in the past).
 
-  * you create an on-line account; 
-  * you place an order; 
-  * you make a complaint or enquiry or provide other feedback to us; and
-  * you disclose your Personal Data to us through the Website at any other point.
+## Disclosure of Personal Information
 
-  
+We are not in the business of selling or renting your information to telemarketers. We do not share your personal information with others, except as follows:
 
-
-## USE OF YOUR PERSONAL DATA
-
-We use your Personal Data to:
-
-  * process and complete orders you place via the Website or by telephone;
-  * process and deal with any complaints or enquiries made by you; 
-  * monitor, develop and improve the Website and your experience when using the Website;
-  * process the registration of your customer account and maintain your customer account;
-  * where requested by you, to send you marketing materials about new or existing products, birthday mailings, customer questionnaires for improving service quality, general information (for example regarding any re-launch of the Website) and special offers from HUGO BOSS and/or other companies in the HUGO BOSS Group. If at any point you change your mind and no longer wish to receive marketing information from us, you can e-mail us at [service@hugoboss-store.co.uk.](mailto:service@hugoboss-store.co.uk) and let us know. 
-  
+  * We freely share your information with our corporate affiliates including, without limitation, HUGO BOSS AG in Germany.
+  * We also grant access to your information to affiliated and unaffiliated service providers and third parties that process or maintain data on our behalf, freight forwarders, carriers, and such individuals or companies that conduct, manage or otherwise handle our marketing and promotional campaigns. Such third parties are subject to strict confidentiality obligations and may access and use your information only in accordance with our instructions and not for their own purposes.
+  * We may also share your information to respond to law enforcement requests, court orders or other legal process or if we believe that such disclosure is necessary to investigate, prevent or respond to illegal activities, fraud, physical threats to you or others or as otherwise required by any applicable law or regulation.
+  * Finally, we may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
 
 
 
-## PASSING ON YOUR DATA TO THIRD PARTIES 
+## Access and Correction
 
-We may disclose your Personal Data to: 
+Please keep your personally identifiable information, accurate, current, and complete by routinely updating your user profile or by contacting us as specified below.
 
-  * any member of our Group, which means our subsidiaries and our ultimate holding company and its subsidiaries (as defined in section 736 of the UK Companies Act 1985);
-  * certain of our business partners who help us in providing your order, delivering your goods, taking your payment and analysing your use of the Website in order to improve the Website's efficiency;
-  * a carefully selected third party marketing company who may send you e-mails and/or newsletters with details of HUGO BOSS products and promotions. However, we will only pass your Personal Data on for this purpose if you have ticked the "opt-in" box on the registration page to indicate that you wish to receive such e-mails and/or newsletters.
+## Security
 
+We take reasonable steps to protect personally identifiable information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. But, you should keep in mind that no Internet transmission is ever completely secure or error-free. In particular, e-mail sent to or from the Sites may not be secure.
 
+## Opt-Out, Communication Preferences
 
-## YOUR RIGHTS
+You may modify your communication preferences and/or opt-out from specific communications at any time by choosing the unsubscribed option in the e-mail.
 
-It is up to you to decide how HUGO BOSS can use and handle your Personal Data. You can prohibit the use of your Personal Data, obtain a copy of your Personal Data that is held by us, correct your Personal Data, update it or delete it at any time by e-mailing us at [service@hugoboss-store.co.uk.](mailto:service@hugoboss-store.co.uk)
+## Effective Date, Amendments
 
-## DATA SECURITY
+This Privacy Policy is effective March, 15th 2010. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Site. Please check back periodically, and especially before you provide any personally identifiable information to us.
 
-We will take all reasonable steps to ensure the secure treatment of your Personal Data and will take appropriate precautionary measures to protect your Personal Data against loss or abuse.
+## Links to Other Web Sites
 
-All the data collected by us is stored on a secure server. 
+This Site contains links and references to other web pages to which this Privacy Statement does not apply. We encourage you to read the privacy statement or policy of every web page you visit.
 
-## COOKIES
+## Contact Us (regarding California Privacy Rights or other topics)
 
-When you visit the Website, we may place small pieces of information on your computer known as "cookies", which are stored by your browser on your computer's hard drive. Cookies help us in various ways. We use cookies to help us to better compose the Website or our product information so that it is more relevant to your interests or preferences. Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited, to determine the most popular areas of the Website and generally in order to monitor usage of the Website. 
+Please feel free to contact us with any comments, questions, complaints or suggestions you might have regarding the information practices described in this Statement as follows.
 
-Most web browsers automatically accept cookies, though you do not have to. If you wish to disable cookies then you can do so by readjusting your browser settings although please note that by disabling cookies you may not be able to register with or use all features of the Site. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org. Please note that we do not control the use of cookies by third parties.
+California Civil Code Section 1798.83 permits HUGO BOSS customers who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [customerservice@hugoboss-store.com](mailto:customerservice@hugoboss-store.com) or write to us at:
 
-## LOCATION OF YOUR DATA
+_HUGO BOSS FASHIONS, INC.  
+601 West 26th St, 8th Floor   
+New York, NY 10001 _
 
-We hold your Personal Data in Germany where the Website servers are located. 
+The present Privacy Statement can be downloaded as [PDF.](http://demandware.edgesuite.net/aaer_prd/on/demandware.static/Sites-US-Site/Sites-US-Library/en_US/v1300307895747/documents/HUGO%20BOSS%20US%20Privacy%20Statement%20March%202010.pdf)
 
-## CONTACTING US
+## TECHNICAL INFORMATION
 
-If you have any questions about our Privacy Statement or how we use your Personal Data please contact our Group data protection officer by e-mailing [service@hugoboss-store.co.uk.](mailto:service@hugoboss-store.co.uk)
-
-This Privacy Statement is effective from 01. September 2010.
+The HUGO BOSS Online Store has been optimized for a screen resolution of 1024 x 768 px. You will also need a recent version of a browser such as Internet Explorer, Mozilla, Firefox, Safari or Opera. To enjoy the full range of features offered by the Online Store, you will also need a recent version of the Flash Player plug-in (version 9 or higher).
