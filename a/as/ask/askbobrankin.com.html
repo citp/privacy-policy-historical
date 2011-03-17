@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the askbobrankin.com privacy policy that was archived on 2010-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212153217id_/http%3A//askbobrankin.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the askbobrankin.com privacy policy that was archived on 2011-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110317024327id_/http%3A//askbobrankin.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
    <link rel="stylesheet" href="styles-site.css" type="text/css">
@@ -42,7 +42,7 @@
   </tr>
   </tbody></table>
   </form>
-  <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
   <!-- SiteSearch Google -->
   </div>
 
@@ -63,6 +63,30 @@
 <td id="hdrbox"><a href="http://askbobrankin.com/free_online_college_courses.html?hdr">Free Online College</a></td>
 </tr></tbody></table>
 </div>
+
+<script type="text/javascript">
+   function getCookie(name) {
+      var dc = document.cookie;
+      var prefix = name + "=";
+      var begin = dc.indexOf("; " + prefix);
+      if (begin == -1) {
+    begin = dc.indexOf(prefix);
+    if (begin != 0) return null;
+      } else
+    begin += 2;
+      var end = document.cookie.indexOf(";", begin);
+   if (end == -1)
+      end = dc.length;
+      return unescape(dc.substring(begin + prefix.length, end));
+   }
+
+   var cval1 = getCookie('ABR.Submitted');
+   var cval2 = getCookie('ABR.Confirmed');
+
+   if (cval1 && !cval2) {
+     document.write("<div style=\"border:1px solid black; background-color:yellow;\"><center>Don't forget to confirm your AskBob newsletter... Check your Inbox now.</center></div>");
+   }
+</script>
 
 </td></tr>
 </tbody></table>
@@ -175,7 +199,8 @@ google_color_text = "000000";
 <hr>
 <table align="center" cellpadding="10"><tbody><tr>
 <td>
-  <a target="_blank" href="http://www.internettourbus.com/best.html"><img border="0" src="/boe150x75.gif" width="150" height="75" alt="Best of Everything"></a>
+  <!-- a target="_blank" href="http://www.internettourbus.com/best.html"><img border="0" src="/boe150x75.gif" width="150" height="75" alt="Best of Everything" /></a -->
+  <a target="_blank" href="http://www.allaboutvoicemail.com"><img border="0" src="http://www.askbobrankin.com/avm-150x75.jpg" width="150" height="75" alt=""></a>
 </td>
 <td align="center">
   Copyright ©
@@ -203,15 +228,18 @@ google_color_text = "000000";
 
 <!-- Google Analytics code -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-231112-6");
-pageTracker._trackPageview();
-} catch(err) {}</script>
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-231112-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 
 
