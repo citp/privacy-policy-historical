@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinstack.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208225411id_/http%3A//forums.pinstack.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinstack.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318003521id_/http%3A//forums.pinstack.com/privacy.php) for the most accurate reproduction.*
 
-# PinStack.com
+# Smartphones: PinStack.com - Please read our privacy statement...
 
 Updated: March 3rd, 2008 
 
@@ -51,4 +51,4 @@ If you have any concerns or questions about any aspect of this policy, please fe
 
 **PinStack.com  
 Box 362, St. Johns, Antigua  
-Tel. (408) 480 0799 or (268) 464-4936**
+Tel. (408) 480 0799**
