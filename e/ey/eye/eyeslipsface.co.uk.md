@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215210114id_/http%3A//www.eyeslipsface.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeslipsface.co.uk privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317141304id_/http%3A//www.eyeslipsface.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # ELF Cosmetics UK - Eyes Lips Face
 
@@ -12,7 +12,6 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
 
 Our nominated representative for the purpose of the Act is Jo Westlake.
 
-  
 **INFORMATION THAT WE MAY COLLECT FROM YOU**  
 We may collect and process the following data about you:  
 • details of transactions you carry out through this website (the Site) and of the fulfilment of your orders;  
@@ -59,4 +58,4 @@ We may amend this privacy policy from time to time by changing it on the Site. I
 
 **CONTACT US**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to:  Jo Westlake, Distribeauty U.K. Ltd., Phoenix Way, Garngoch Industrial Estate, Gorseinon, Swansea, United Kingdom SA4 9WF. 
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to:  Jo Westlake, Distribeauty U.K. Ltd., Phoenix Way, Garngoch Industrial Estate, Gorseinon, Swansea, United Kingdom SA4 9WF.
