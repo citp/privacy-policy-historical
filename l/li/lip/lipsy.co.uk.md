@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipsy.co.uk privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214192648id_/http%3A//lipsy.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipsy.co.uk privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317050638id_/http%3A//www.lipsy.co.uk/help/privacy) for the most accurate reproduction.*
 
 # Lipsy - Privacy Policy
 
@@ -10,7 +10,7 @@ While we know that any woman wearing Lipsy can't help but get noticed, there are
 
 ##  Who Is Lipsy.co.uk?
 
-Lipsy.co.uk is a website operated by [Lipsy Limited](https://web.archive.org/ImageStore/ImagesB/CMSImages/A091A005C5BE427BB5E56F0D93A048C5). We offer the latest fashion styles and trends delivered straight to the doorsteps of our customers and aim to be the most popular online fashion store in the UK.
+Lipsy.co.uk is a website operated by [Lipsy Limited](http://content.lipsy.co.uk/ImagesA/CMSImages/A091A005C5BE427BB5E56F0D93A048C5). We offer the latest fashion styles and trends delivered straight to the doorsteps of our customers and aim to be the most popular online fashion store in the UK.
 
 ##  What Information Do We Collect?
 
