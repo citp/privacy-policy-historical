@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynaspy.com privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904144341id_/http%3A//www.dynaspy.com/privacy.php%3FosCsid%3D9iruum2jm957pgtpsvnv84vho1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynaspy.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317102801id_/http%3A//www.dynaspy.com/privacy.php%3FosCsid%3Dsmd88fjggcergehg6pmm6oulh6) for the most accurate reproduction.*
 
 # Spy Equipment | Spy Cameras | Spy Gear | Spy Store
 
