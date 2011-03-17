@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cabionline.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620193710id_/http%3A//cabionline.com/Spring2010/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabionline.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317234045id_/http%3A//cabionline.com/privacy.html) for the most accurate reproduction.*
 
-# .: CAbi Spring 10 - Privacy Policy :.
+# .: CAbi Online - Privacy Policy :.
 
-> _Last Updated: June 1, 2009_
+> _Last Updated: June 1, 2010_
 
 1.1. **Purpose of Policy**
 
