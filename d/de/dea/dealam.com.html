@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dealam.com privacy policy that was archived on 2010-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100426150843id_/http%3A//www.dealam.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dealam.com privacy policy that was archived on 2011-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110317063409id_/http%3A//www.dealam.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -25,71 +25,78 @@
 		</div>
 		<div class="fl tf2">&nbsp;</div>
 		<div class="fl top_input_back">
-			<div class="w40"></div>
-			<div><img src="/images/top_input_left.gif" border="0/"></div>
-			 <div class="s_input">
-				<div class="fc mt55">
-					<input type="text" name="keyword" id="keyword" maxlength="50" class="search_in" value="Search deals and coupons..." onblur="if(this.value=='') {this.value='Search deals and coupons...';};" onkeypress="SearchSubmit();" onfocus="if(this.value='Search deals and coupons��')this.value='';" style="font-size:12px;">
-				</div>
-			</div>
-			 
-			<div>
-				<img src="/images/top_input_right.gif">
-			</div>
-			<div class="go">
-				<input type="image" src="/images/go.gif" onclick="window.location.href='/search-keyword-'+document.getElementById('keyword').value">
-			</div>
-			<script language="javascript">
-				function SearchSubmit()
-				{
-					if(event.keyCode==13)
-					{
-						 
-						window.location.href='/search-keyword-'+document.getElementById('keyword').value;
-						//window.form_search.submit();
-					}
-				}
-			</script> 
-			<div class="fl"> 
+			<div style="width:362px;overflow:hidden;float:right;"> 
 				<div class="fc"></div>
-				<div class="h50 fc" style="width:380px;"> 
+				<div class="h50 fc" style="width:360px;"> 
 					 <div class="uinfo" style="float:right;">
 					 <div class="fc">
 					 
-					  <div class="fl"><img src="/images/user.gif" border="0"></div> <div class="fl"><a href="/login.html" class="small">Log In</a></div><div class="fl"><img src="/images/signup.gif" border="0"> </div> <div class="fl"><a href="/signup.html" class="small">Sign Up</a></div>                        			 
+					  <div class="fl"><img src="/images/user.gif" border="0"></div> <div class="fl"><a href="/login.html" class="small">Log In</a></div><div class="fl"><img src="/images/signup.gif" border="0"> </div> <div class="fl"><a href="/signup.html" class="small">Sign Up</a></div><div class="fl" style="margin-left:5px;"><a href="http://www.dealam.com/cn/" class="small"><img src="/images/china.gif" border="0"></a></div>                        			 
 					 </div>
 					 </div>
-				 </div>  
-				<div class="fc top_btn"><!--CliCatagoris_catlist//-->
-					<div class="fl tstext">Follow us on</div>	
-					<div style="margin-left:6px;">
-					   <a href="http://www.twitter.com/dealamdotcom" target="_blank"><img src="/images/twitter.gif" alt="twitter"></a>
-					</div>
-					<div class="fl ml05" style="width:17px; margin-right:10px;">
-					<a href="http://www.facebook.com/pages/DealAM/285514796406" target="_blank"><img src="/images/facebook.gif" alt="facebook"></a>
-					</div>
-					<div class="fl ml05"><a href="/store/lists.html"><img src="/images/stores.gif" width="91px"></a></div>
-					<div class="fl ml05"><a href="/categoris/lists.html"><img src="/images/categories.gif" width="91px"></a></div>
 				 </div> 
 			</div>
+			<div class="fl">
+				 <div class="s_input">
+					   <input type="text" name="keyword" id="keyword" style="font-size:20px;" class="search_in" value="e.g. Amazon, Staples, Lancome" onblur="if(this.value=='') {this.value='e.g. Amazon, Staples, Lancome';};" onkeydown="keydownsearch(event);" onfocus="if(this.value='e.g. Amazon, Staples, Lancome')this.value='';">
+				 </div>
+				  
+				<div class="go">
+					<input type="image" src="/images/stop_btn.gif" onclick="window.location.href='/search-keyword-'+document.getElementById('keyword').value">
+				</div>
+			</div>
+			<script language="javascript">
+			function keydownsearch(evt) 
+			{ 
+			evt = (evt) ? evt : ((window.event) ? window.event : "") 
+			keyCode = evt.keyCode ? evt.keyCode : (evt.which ? evt.which : evt.charCode); 
+			if (keyCode == 13) { 
+				window.location.href='/search-keyword-'+document.getElementById('keyword').value;
+			} 
+			}
+			</script> 
+			<div class="fl" style="margin-top:4px; margin-left:8px;"><a href="/store/lists.html"><img src="/images/stop_bystore.gif"></a></div>
 		</div>
 		<div class="fr tr4">&nbsp;</div>
 	</div>
 	<!--nav//-->
 	<div class="fc menu_nav">
 		<div class="content">
-			<div class="menu_items">
-			 <a href="/" class="a">Home</a>
-			 </div>
-			<div class="menu_item">
-				<a href="/deals/Hot-Deals.html" class="a_item">Hot Deals</a>
+			<div class="menu_items" style="width:118px;z-index:3;">
+				<a href="/" class="a">Hot Deals</a>
 			</div> 
-			<div class="menu_item"><a href="/deals/Coupon-Codes.html" class="a_item">Coupon Codes</a></div>
-			<div class="menu_item" onmouseover="pMenu('popup1','block');" onmouseout="pMenu('popup1','none');">
+			<div class="menu_item" style="width:118px;z-index:3;">
+				<!-- <a href="/deals/Coupon-Codes.html" class="a_item">Coupon Codes</a>//-->
+				<a href="/Categories/health-beauty-coupon-codes.html" class="a_item">Beauty Deals</a>
+			</div>
+
+			<div class="menu_item" onmouseover="pMenu('popup2','block');" onmouseout="pMenu('popup2','none');" style="width:118px;z-index:3;">
+			<a href="/deals/Apparel-Deals.html" class="a_item">Apparel Deals</a>
+				<div class="fc popup " id="popup2" style="left:-25px;*left:-90px;">
+					 <div class="fc popupList" style="width:202px;_width:252px;">
+	                 <div class="fc toplist" style="_width:222px;">
+	                    <div class="fl topleft"></div>
+	                    <div class="fl topcontent" style="	_width:208px;"></div>
+	                    <div class="fl topright"></div>
+	                    </div>
+												<div class="fc contentlist" style="_width:222px;">
+	                        <div class="fl conright"></div>
+	                        <div class="conleft"></div>&nbsp;<a href="/Categories/Clothing-Shoes-Accessories-coupon-codes.html" class="menua">Clothing, Shoes &amp; Accessories</a>
+	                        </div>
+							                    <div class="fc footlist" style="_width:222px;">
+	                  	<div class="fl footleft"></div>
+	                    <div class="fl footcontent" style="_width:208px;"></div>
+	                    <div class="fl footright"></div>
+	                  </div>
+					</div>
+				</div>
+			</div>
+						
+			<div class="menu_item" onmouseover="pMenu('popup1','block');" onmouseout="pMenu('popup1','none');" style="width:118px;z-index:3;">
 			  <a href="/deals/Tech-Deals.html" class="a_item">Tech Deals</a>
-			   <div class="fc popup " id="popup1" style="left:-20px;_left:-90px;">
+			   <div class="fc popup " id="popup1" style="left:-20px;*left:-90px;">
 				
-				 <div class="fc popupList" style="width:202px;">
+				 <div class="fc popupList" style="width:207px;">
 					<div class="fc toplist">
                     <div class="fl topleft"></div>
                     <div class="fl topcontent"></div>
@@ -133,36 +140,60 @@
 				 </div>
 				</div>
 			</div>
-			<div class="menu_item" onmouseover="pMenu('popup2','block');" onmouseout="pMenu('popup2','none');">
-			<a href="/deals/Apparel-Deals.html" class="a_item">Apparel Deals</a>
-			<div class="fc popup " id="popup2" style="left:-25px;_left:-90px;">
-				
-				 <div class="fc popupList" style="width:202px;_width:252px;">
-                 <div class="fc toplist" style="_width:222px;">
-                    <div class="fl topleft"></div>
-                    <div class="fl topcontent" style="	_width:208px;"></div>
-                    <div class="fl topright"></div>
-                    </div>
-										<div class="fc contentlist" style="_width:222px;">
-                        <div class="fl conright"></div>
-                        <div class="conleft"></div>&nbsp;<a href="/Categories/Clothing-Shoes-Accessories-coupon-codes.html" class="menua">Clothing, Shoes &amp; Accessories</a>
-                        </div>
-											<div class="fc contentlist" style="_width:222px;">
-                        <div class="fl conright"></div>
-                        <div class="conleft"></div>&nbsp;<a href="/Categories/desktopss.html" class="menua">Desktops</a>
-                        </div>
-					                    <div class="fc footlist" style="_width:222px;">
-                  	<div class="fl footleft"></div>
-                    <div class="fl footcontent" style="_width:208px;"></div>
-                    <div class="fl footright"></div>
-                  </div>
+
+			<div class="menu_item" onmouseover="pMenu('popup5','block');" onmouseout="pMenu('popup5','none');" style="width:118px;z-index:3;">
+			<a href="/Stores/Amazon.html" class="a_item">Amazon Deals</a>
+				<div class="fc popup " id="popup5" style="left:-35px;*left:-90px;">
+					 <div class="fc popupList" style="width:246px;*width:246px;">
+	                 	<div class="fc toplist" style="width:246px;*width:246px;">
+		                    <div class="fl topleft"></div>
+		                    <div class="fl topcontent" style="width:232px;*width:232px;"></div>
+		                    <div class="fl topright"></div>
+	                    </div>
+	
+							<div class="fc contentlist" style="width:246px;*width:246px;">
+	                        <div class="fl conright"></div>
+	                        <div class="conleft"></div>&nbsp;<a href="/amazon-discount-shopping.html" class="menua">Up To 90% OFF Deals</a>
+	                        </div>
+
+							<div class="fc contentlist" style="width:246px;*width:246px;">
+	                        <div class="fl conright"></div>
+	                        <div class="conleft"></div>&nbsp;<a href="/amazon-baby-discount-shopping.html" class="menua">Up To 90% OFF Baby Products Deals</a>
+	                        </div>
+
+							<div class="fc contentlist" style="width:246px;*width:246px;">
+	                        <div class="fl conright"></div>
+	                        <div class="conleft"></div>&nbsp;<a href="/Stores/Amazon.html" class="menua">Hand Picked Deals</a>
+	                        </div>
+	                        	                        	
+							<div class="fc contentlist" style="width:246px;*width:246px;">
+	                        <div class="fl conright"></div>
+	                        <div class="conleft"></div>&nbsp;<a href="/promotions/best-gift-ideas.html" class="menua">Best Gift Ideas</a>
+	                        </div>
+	                        
+							<div class="fc contentlist" style="width:246px;*width:246px;">
+	                        <div class="fl conright"></div>
+	                        <div class="conleft"></div>&nbsp;<a href="/amazon-fillers-for-free-super-saver-shipping.html" class="menua">Amazon Fillers</a>
+	                        </div>
+	
+	                    <div class="fc footlist" style="width:246px;*width:246px;">
+		                  	<div class="fl footleft"></div>
+		                    <div class="fl footcontent" style="width:232px;*width:232px;"></div>
+		                    <div class="fl footright"></div>
+	                 	 </div>
+					</div>
 				</div>
 			</div>
+
+			<div class="menu_item" style="width:118px;z-index:3;">
+				<a href="/promotions/hot-one-day-deals-from-top-stores.html" class="a_item">One Day Deals</a>
 			</div>
-			<div class="menu_item" onmouseover="pMenu('popup3','block');" onmouseout="pMenu('popup3','none');">
+			<div class="menu_item" style="width:118px;z-index:3;">
+				<a href="/promotions/clearance.html" class="a_item">Clearance</a>
+			</div> 
+			<div class="menu_item" onmouseover="pMenu('popup3','block');" onmouseout="pMenu('popup3','none');" style="width:118px;z-index:3;">
 			<a href="/deals/Other-Deals.html" class="a_item">Other Deals</a>
-			<div class="fc popup" id="popup3" style="left:-174px;">
-				
+			<div class="fc popup" id="popup3" style="left:-210px;">
 				<div class="fc popupList">
                 	<div class="fc toplist" style="width:330px;">
                         <div class="fl topleft"></div>
@@ -175,104 +206,55 @@
 					                        <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/books-movies-music-coupon-codes.html" class="menua">Books, Movies &amp; Music</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
-                        &nbsp;<a href="/Categories/health-beauty-coupon-codes.html" class="menua">Health &amp; Beauty</a>
-                        </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/office-coupon-codes.html" class="menua">Office</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
-                        &nbsp;<a href="/Categories/travel-tickets-coupon-codes.html" class="menua">Travel &amp; Tickets</a>
-                        </div>
-                      
-					                        <div class="fl" style="width:150px;">
-                        &nbsp;<a href="/Categories/video-games-coupon-codes.html" class="menua">Video Games</a>
-                        </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/baby-kids-coupon-codes.html" class="menua">Baby &amp; Kids</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
+                        &nbsp;<a href="/Categories/discount-gift-cards-coupon-codes.html" class="menua">Discount Gift Cards</a>
+                        </div>
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/home-garden-coupon-codes.html" class="menua">Home &amp; Garden</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/jewelry-watches-coupon-codes.html" class="menua">Jewelry &amp; Watches</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/financial-services-coupon-codes.html" class="menua">Financial Services</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/flowers-gifts-coupon-codes.html" class="menua">Flowers &amp; Gifts</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
-                        &nbsp;<a href="/Categories/gift-cards-coupon-codes.html" class="menua">Gift Cards</a>
-                        </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/grocery-coupon-codes.html" class="menua">Grocery</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/tools-automotive-coupon-codes.html" class="menua">Tools &amp; Automotive</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/sports-outdoors-coupon-codes.html" class="menua">Sports &amp; Outdoors</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/services-coupon-codes.html" class="menua">Services</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/restaurants-coupon-codes.html" class="menua">Restaurants</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/pets-coupon-codes.html" class="menua">Pets</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/toys-coupon-codes.html" class="menua">Toys</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
+                                            <div class="fl" style="width:150px;">
+                        &nbsp;<a href="/Categories/video-games-coupon-codes.html" class="menua">Video Games</a>
+                        </div>
+                                            <div class="fl" style="width:150px;">
                         &nbsp;<a href="/Categories/department-store.html" class="menua">Department Store</a>
                         </div>
-                      
-					                        <div class="fl" style="width:150px;">
-                        &nbsp;<a href="/Categories/digital-cameras.html" class="menua">Digital Cameras</a>
-                        </div>
-                      
-					                        <div class="fl" style="width:150px;">
-                        &nbsp;<a href="/Categories/desktops.html" class="menua">Desktops</a>
-                        </div>
-                      
-					                        <div class="fl" style="width:150px;">
-                        &nbsp;<a href="/Categories/laptops.html" class="menua">Laptops</a>
-                        </div>
-                      
-					                        <div class="fl" style="width:150px;">
-                        &nbsp;<a href="/Categories/gps.html" class="menua">GPS</a>
-                        </div>
-                      
-					                        <div class="fl" style="width:150px;">
-                        &nbsp;<a href="/Categories/hdtv.html" class="menua">HDTV</a>
-                        </div>
-                      
-					                        <div class="fl" style="width:150px;">
-                        &nbsp;<a href="/Categories/camcorders.html" class="menua">Camcorders</a>
-                        </div>
-                      
-									</div>
+                    				</div>
                   <div class="fc footlist" style="width:330px;">
                   	<div class="fl footleft"></div>
                     <div class="fl footcontent" style="width:316px;"></div>
@@ -321,17 +303,15 @@
     </div><div class="Sidebar_s">
       <div class="ft top5 Cater_bar"><a href="/Categories/travel-tickets-coupon-codes.html">Travel &amp; Tickets</a></div>
     </div><div class="Sidebar_s">
-      <div class="ft top5 Cater_bar"><a href="/Categories/video-games-coupon-codes.html">Video Games</a></div>
-    </div><div class="Sidebar_s">
       <div class="ft top5 Cater_bar"><a href="/Categories/baby-kids-coupon-codes.html">Baby &amp; Kids</a></div>
+    </div><div class="Sidebar_s">
+      <div class="ft top5 Cater_bar"><a href="/Categories/discount-gift-cards-coupon-codes.html">Discount Gift Cards</a></div>
     </div><div class="Sidebar_s">
       <div class="ft top5 Cater_bar"><a href="/Categories/department-store.html">Department Store</a></div>
     </div><div class="Sidebar_s">
       <div class="ft top5 Cater_bar"><a href="/Categories/financial-services-coupon-codes.html">Financial Services</a></div>
     </div><div class="Sidebar_s">
       <div class="ft top5 Cater_bar"><a href="/Categories/flowers-gifts-coupon-codes.html">Flowers &amp; Gifts</a></div>
-    </div><div class="Sidebar_s">
-      <div class="ft top5 Cater_bar"><a href="/Categories/gift-cards-coupon-codes.html">Gift Cards</a></div>
     </div><div class="Sidebar_s">
       <div class="ft top5 Cater_bar"><a href="/Categories/grocery-coupon-codes.html">Grocery</a></div>
     </div><div class="Sidebar_s">
@@ -354,21 +334,75 @@
       <div class="ft top5 Cater_bar"><a href="/Categories/tools-automotive-coupon-codes.html">Tools &amp; Automotive</a></div>
     </div><div class="Sidebar_s">
       <div class="ft top5 Cater_bar"><a href="/Categories/toys-coupon-codes.html">Toys</a></div>
+    </div><div class="Sidebar_s">
+      <div class="ft top5 Cater_bar"><a href="/Categories/video-games-coupon-codes.html">Video Games</a></div>
     </div>    
  <!--
-		
+	<div class="top" >
+	  <div class="Sidebar_sb">
+		<div class="left_img"> <a href="/index_shopnow_id_57326" target=_blank><img src="/Userfiles/1279261460hqI_small.jpg" alt="Olive Garden Gift Card 10% OFF Free Shipping + $5 OFF Printable Coupon"  width="110" height="80"/></a></div>
+		<div class="left_title"><a href="/index_shopnow_id_57326" target=_blank>Olive Garden Gift Card 10% OFF Free Shipping + $5 OFF Printable Coupon</a></div>
+	  </div>
+	</div><div class="top" >
+	  <div class="Sidebar_sb">
+		<div class="left_img"> <a href="/index_shopnow_id_32684" target=_blank><img src="/Userfiles/1279262238N4h_small.jpg" alt="Starbucks Gift Card 9% OFF Free Shipping"  width="110" height="80"/></a></div>
+		<div class="left_title"><a href="/index_shopnow_id_32684" target=_blank>Starbucks Gift Card 9% OFF Free Shipping</a></div>
+	  </div>
+	</div><div class="top" >
+	  <div class="Sidebar_sb">
+		<div class="left_img"> <a href="/index_shopnow_id_32682" target=_blank><img src="/Userfiles/1279261997LOM_small.jpg" alt="Sears Gift Card 9% OFF Free Shipping"  width="110" height="80"/></a></div>
+		<div class="left_title"><a href="/index_shopnow_id_32682" target=_blank>Sears Gift Card 9% OFF Free Shipping</a></div>
+	  </div>
+	</div><div class="top" >
+	  <div class="Sidebar_sb">
+		<div class="left_img"> <a href="/index_shopnow_id_32678" target=_blank><img src="/Userfiles/1279261460hqI_small.jpg" alt="Olive Garden Gift Card 10% OFF Free Shipping"  width="110" height="80"/></a></div>
+		<div class="left_title"><a href="/index_shopnow_id_32678" target=_blank>Olive Garden Gift Card 10% OFF Free Shipping</a></div>
+	  </div>
+	</div><div class="top" >
+	  <div class="Sidebar_sb">
+		<div class="left_img"> <a href="/index_shopnow_id_32675" target=_blank><img src="/Userfiles/1279260948ZYH_small.jpg" alt="Nordstroms Gift Card 8% OFF Free Shipping"  width="110" height="80"/></a></div>
+		<div class="left_title"><a href="/index_shopnow_id_32675" target=_blank>Nordstroms Gift Card 8% OFF Free Shipping</a></div>
+	  </div>
+	</div><div class="top" >
+	  <div class="Sidebar_sb">
+		<div class="left_img"> <a href="/index_shopnow_id_32669" target=_blank><img src="/Userfiles/127926008951w_small.jpg" alt="Home Depot Gift Card 6% OFF Free Shipping"  width="110" height="80"/></a></div>
+		<div class="left_title"><a href="/index_shopnow_id_32669" target=_blank>Home Depot Gift Card 6% OFF Free Shipping</a></div>
+	  </div>
+	</div><div class="top" >
+	  <div class="Sidebar_sb">
+		<div class="left_img"> <a href="/index_shopnow_id_32385" target=_blank><img src="/Userfiles/1279182725ET3_small.jpg" alt="Macys Gift Card 8% OFF Free Shipping"  width="110" height="80"/></a></div>
+		<div class="left_title"><a href="/index_shopnow_id_32385" target=_blank>Macys Gift Card 8% OFF Free Shipping</a></div>
+	  </div>
+	</div><div class="top" >
+	  <div class="Sidebar_sb">
+		<div class="left_img"> <a href="/index_shopnow_id_32383" target=_blank><img src="/Userfiles/1279182519CEw_small.jpg" alt="Kohls Gift Card 12% OFF Free Shipping"  width="110" height="80"/></a></div>
+		<div class="left_title"><a href="/index_shopnow_id_32383" target=_blank>Kohls Gift Card 12% OFF Free Shipping</a></div>
+	  </div>
+	</div><div class="top" >
+	  <div class="Sidebar_sb">
+		<div class="left_img"> <a href="/index_shopnow_id_32379" target=_blank><img src="/Userfiles/1279181848RxV_small.jpg" alt="Gap Gift Card 12% OFF Free Shipping"  width="110" height="80"/></a></div>
+		<div class="left_title"><a href="/index_shopnow_id_32379" target=_blank>Gap Gift Card 12% OFF Free Shipping</a></div>
+	  </div>
+	</div><div class="top" >
+	  <div class="Sidebar_sb">
+		<div class="left_img"> <a href="/index_shopnow_id_24338" target=_blank><img src="/Userfiles/1275528279sr7_small.jpg" alt="AMC Gift Card 12% OFF Free Shipping"  width="110" height="80"/></a></div>
+		<div class="left_title"><a href="/index_shopnow_id_24338" target=_blank>AMC Gift Card 12% OFF Free Shipping</a></div>
+	  </div>
+	</div>	
 	<div class="Sidebar_rt_In top_2">
    <div class="Sidebar_rt_Icon">
    </div>
-	<div class="rt_Icon"><a href="/Store-stores-sid-2"><img src="./Userfiles/1263462569.png" border="0" style="max-width:195px;" /></a>
-	 </div><div class="rt_Icon"><a href="/Store-stores-sid-7"><img src="./Userfiles/1264741353.jpg" border="0" style="max-width:195px;" /></a>
+	<div class="rt_Icon"><a href="/Store-stores-sid-7"><img src="./Userfiles/1264741353.jpg" border="0" style="max-width:195px;" /></a>
 	 </div><div class="rt_Icon"><a href="/Store-stores-sid-14"><img src="./Userfiles/1263581434.jpg" border="0" style="max-width:195px;" /></a>
-	 </div><div class="rt_Icon"><a href="/Store-stores-sid-21"><img src="./Userfiles/1264727256.jpg" border="0" style="max-width:195px;" /></a>
+	 </div><div class="rt_Icon"><a href="/Store-stores-sid-21"><img src="./Userfiles/1275977200.jpg" border="0" style="max-width:195px;" /></a>
+	 </div><div class="rt_Icon"><a href="/Store-stores-sid-645"><img src="./Userfiles/1278557907.jpg" border="0" style="max-width:195px;" /></a>
+	 </div><div class="rt_Icon"><a href="/Store-stores-sid-1065"><img src="./Userfiles/Lancome.jpg" border="0" style="max-width:195px;" /></a>
 	 </div><div class="rt_Icon"><a href="/Store-stores-sid-1314"><img src="./Userfiles/1264740377.jpg" border="0" style="max-width:195px;" /></a>
 	 </div><div class="rt_Icon"><a href="/Store-stores-sid-1339"><img src="./Userfiles/1266898348.png" border="0" style="max-width:195px;" /></a>
+	 </div><div class="rt_Icon"><a href="/Store-stores-sid-1349"><img src="./Userfiles/Overstock.jpg" border="0" style="max-width:195px;" /></a>
 	 </div><div class="rt_Icon"><a href="/Store-stores-sid-1444"><img src="./Userfiles/Priceline.jpg" border="0" style="max-width:195px;" /></a>
 	 </div><div class="rt_Icon"><a href="/Store-stores-sid-1696"><img src="./Userfiles/1264724294.jpg" border="0" style="max-width:195px;" /></a>
-	 </div><div class="rt_Icon"><a href="/Store-stores-sid-1710"><img src="./Userfiles/1265343548.jpg" border="0" style="max-width:195px;" /></a>
+	 </div><div class="rt_Icon"><a href="/Store-stores-sid-1706"><img src="./Userfiles/1267576956.jpg" border="0" style="max-width:195px;" /></a>
 	 </div><div class="rt_Icon"><a href="/Store-stores-sid-2382"><img src="./Userfiles/1266453340.jpg" border="0" style="max-width:195px;" /></a>
 	 </div>	 <div style="text-align:left;padding-left:25px;">
 	   <a href="/Store-lists"><img src="/Tpl/default/Public/images/storemove.gif" border=0 /></a>
@@ -468,13 +502,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
    </div>
 
 </div>
- <!---footer
-
-<script type='text/javascript' src='/Public/js/Base.js'></script> 
-<script type='text/javascript' src='/Public/js/prototype.js'></script> 
-<script type='text/javascript' src='/Public/js/mootools.js'></script> 
-<script type='text/javascript' src='/Public/js/Ajax/ThinkAjax.js'></script> 
-<script type='text/javascript' src='/Public/js/Form/CheckForm.js'></script> //-->
+ <!---footer//-->
 <script type="text/javascript" src="/Public/js/Base.js"></script> 
 <script type="text/javascript" src="/Public/js/prototype.js"></script> 
 <script type="text/javascript" src="/Public/js/mootools.js"></script> 
@@ -507,11 +535,41 @@ pageTracker._trackPageview();
 
 <div class="fc footer" style="font-size:12px;">
   <div class="fc sitedesc">
-	DealAM runs with a very simple mission - help online shoppers save more when shopping online. We provide shoppers with deals, online coupon codes, and promotional codes in various categories such as electronics, computer, laptop, apparel, and others. All of&nbsp;our staff is enthusiastic about saving and shopping with online deals. We search the web for deals and coupon codes on a daily basis, and hope the deals and coupon codes we find are not only relevant but also big.	
-  </div>
-
-<div class="fc footercopy">
-©2009-2010 dealam.com. All rights reserved.</div>
+	DealAM runs with a very simple mission - help online shoppers save more when shopping online. We provide shoppers with deals, online coupon codes, and promotional codes in various categories such as electronics, computer, laptop, apparel, and others. All of&nbsp;our staff is enthusiastic about saving and shopping with online deals. We search the web for deals and coupon codes on a daily basis, and hope the deals and coupon codes we find are not only relevant but also big.</div>
+<form action="/Store_siteview" method="post" id="site" target="siteframe">
+	<input type="hidden" value="https://web.archive.org/web/20110317063409id_/http%3A//www.dealam.com/privacy.html" name="url" id="url">
+	<input type="hidden" value="Private Policy - DealAM Your Everyday Deal and Coupon Codes Website" name="title" id="title">
+<input type="hidden" name="think_html_token" value=""></form>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? " https://ssl." : " http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src=" https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10514720-1");
+pageTracker._trackPageview();} catch(err) {}
+  //content_backb
+</script>
+<iframe id="siteframe" name="siteframe" src="" style="display:none;"></iframe>
+<script language="javascript">
+	//alert(document.location.href);
+	document.getElementById('url').value = document.location.href;
+	document.getElementById('title').value = document.title;
+	document.getElementById('site').submit();
+</script>
+	<div class="fc footercopy">
+		<div class="fl" style="width:25px;">&nbsp;</div>
+		<div class="fl tstext">Follow us on</div>
+		<div class="fl" style="margin-left:6px;">
+		   <a href="http://www.twitter.com/dealamdotcom" target="_blank"><img src="/images/twitter.gif" alt="twitter"></a>
+		</div>
+		<div class="fl">
+			<a href="http://www.facebook.com/pages/DealAM/285514796406" target="_blank"><img src="/images/facebook.gif" alt="facebook"></a>
+		</div>
+		<div class="fl" style="margin-top:3px;margin-left:170px;">
+		@2009-2010 dealam.com. All rights reserved.
+		</div>
+	</div>
 </div>
 
 </body></html>
