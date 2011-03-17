@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proxysites.net privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209141234id_/http%3A//www.proxysites.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxysites.net privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317113114id_/http%3A//www.proxysites.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Proxy Sites . net
+# Privacy Policy - ProxySites.net
 
 Privacy Policy for www.proxysites.net 
 
