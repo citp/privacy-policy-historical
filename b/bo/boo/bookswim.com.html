@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bookswim.com privacy policy that was archived on 2010-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529032501id_/http%3A//www.bookswim.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookswim.com privacy policy that was archived on 2011-03-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110317073348id_/http%3A//www.bookswim.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -8,7 +8,6 @@
 	<meta name="description" content="BookSwim is the 1st Netflix-style online book rental library club lending paperbacks, hardcovers, and now college textbooks Netflix-style directly to your house without the need to purchase! Whether it\'s New Releases, Bestsellers, or Classics, we\'ve got a plethora titles to choose from, with free shipping both ways! Read your books as long as you want. -- no late fees! Even choose to purchase and keep the books and college textbooks you love!">
 	<link rel="stylesheet" href="/css/screen_base.css" media="screen" type="text/css">
 	<link rel="stylesheet" href="/css/screen_objects.css" media="screen" type="text/css">
-	
 	<script type="text/javascript" src="/js/common_scripts.js"></script>
 
 	<!--  xajax javascript -->
@@ -44,6 +43,7 @@ window.setTimeout(
 /* <![CDATA[ */
 xajax_preGuarantee = function() { return xajax.request( { xjxfun: 'preGuarantee' }, { parameters: arguments } ); };
 xajax_guarantee = function() { return xajax.request( { xjxfun: 'guarantee' }, { parameters: arguments } ); };
+xajax_moveToTopOfPool = function() { return xajax.request( { xjxfun: 'moveToTopOfPool' }, { parameters: arguments } ); };
 xajax_addToPool = function() { return xajax.request( { xjxfun: 'addToPool' }, { parameters: arguments } ); };
 xajax_removeFromPool = function() { return xajax.request( { xjxfun: 'removeFromPool' }, { parameters: arguments } ); };
 xajax_addToFavoriteAuthors = function() { return xajax.request( { xjxfun: 'addToFavoriteAuthors' }, { parameters: arguments } ); };
@@ -88,6 +88,7 @@ xajax_updateTitleCover = function() { return xajax.request( { xjxfun: 'updateTit
 xajax_removeFromCat = function() { return xajax.request( { xjxfun: 'removeFromCat' }, { parameters: arguments } ); };
 xajax_overdueReactivate = function() { return xajax.request( { xjxfun: 'overdueReactivate' }, { parameters: arguments } ); };
 xajax_overdueCancel = function() { return xajax.request( { xjxfun: 'overdueCancel' }, { parameters: arguments } ); };
+xajax_retryCardOnFile = function() { return xajax.request( { xjxfun: 'retryCardOnFile' }, { parameters: arguments } ); };
 xajax_validateZipCode = function() { return xajax.request( { xjxfun: 'validateZipCode' }, { parameters: arguments } ); };
 xajax_applyPromoCode = function() { return xajax.request( { xjxfun: 'applyPromoCode' }, { parameters: arguments } ); };
 xajax_completeStep0 = function() { return xajax.request( { xjxfun: 'completeStep0' }, { parameters: arguments } ); };
@@ -110,22 +111,24 @@ xajax_registerFindInfo = function() { return xajax.request( { xjxfun: 'registerF
 xajax_sendGiftReminderEmail = function() { return xajax.request( { xjxfun: 'sendGiftReminderEmail' }, { parameters: arguments } ); };
 xajax_getMoreFromCategories = function() { return xajax.request( { xjxfun: 'getMoreFromCategories' }, { parameters: arguments } ); };
 xajax_checkPledgePackage = function() { return xajax.request( { xjxfun: 'checkPledgePackage' }, { parameters: arguments } ); };
+xajax_removeFromPledge = function() { return xajax.request( { xjxfun: 'removeFromPledge' }, { parameters: arguments } ); };
 xajax_removeFromRequests = function() { return xajax.request( { xjxfun: 'removeFromRequests' }, { parameters: arguments } ); };
 xajax_getQuickLookTooltip = function() { return xajax.request( { xjxfun: 'getQuickLookTooltip' }, { parameters: arguments } ); };
 xajax_validateField = function() { return xajax.request( { xjxfun: 'validateField' }, { parameters: arguments } ); };
 xajax_setMembershipSummary = function() { return xajax.request( { xjxfun: 'setMembershipSummary' }, { parameters: arguments } ); };
 xajax_submitRegistration = function() { return xajax.request( { xjxfun: 'submitRegistration' }, { parameters: arguments } ); };
+xajax_requestReturnBag = function() { return xajax.request( { xjxfun: 'requestReturnBag' }, { parameters: arguments } ); };
+xajax_processBookawayWidget = function() { return xajax.request( { xjxfun: 'processBookawayWidget' }, { parameters: arguments } ); };
 /* ]]> */
 </script>
 
 <script src="https://c.compete.com/bootstrap/d9bb6fb2046297bae6a2b1c038e6780c/bootstrap.js" type="text/javascript" async=""></script></head>
 <body>
-	<div class="bodydivide" style="height:5px; background-color:#fcfbeb;"></div>
 	<div class="bodydivide" id="header">
 		<div class="contentholder">
         	<div id="header-link-home" onclick="javascript:window.location='/index.html'"></div>
-            <p id="tagline" style="width:370px; float:left;">Bestselling books, delivered to your door.</p>
-<div class="signinprompt"><img style="margin-top: 0px; margin-bottom: -10px; margin-right:5px;" src="../images_site/landing_new/landing_gift.png" alt="gift" height="27" width="25"><a href="/gift.html">Gift memberships</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/login.html">Member sign in</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/help.html">Help</a></div>		<div id="login_register_box" style="display:none;">
+            <p id="tagline">Bestselling books, delivered to your door.</p>
+<div class="signinprompt"><img style="margin-top: 0px; margin-bottom: -10px; margin-right:5px;" src="../images_site/landing_new/landing_gift.png" alt="gift" height="27" width="25"><a href="/gift.html">Gift memberships</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/textbooks.html">College Textbooks</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/login.html">Member sign in</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/help.html">Help</a></div>		<div id="login_register_box" style="display:none;">
 			<table cellpadding="3">
 				<tbody><tr>
 					<td>	
@@ -242,10 +245,14 @@ We offer membership services only to consumers over the age of 18. We do not kno
 						<li><a href="/blog">Blog</a></li>
 						<li><a href="/contact.html">Contact us</a></li>
 						<li><a href="/gift.html">Gift Memberships</a></li>
+						<li><a href="/bookgifts">Best Book Gifts</a></li>
 						<li><a href="/help.html">Help</a></li>
+						<li><a href="/freebookgiveaway/">Free Book Giveaways</a></li>
 						<li><a href="/paperspine.html">Paperspine members</a></li>
 						<li><a href="/press.html">Media center</a></li>            
 						<li><a href="/privacy.html">Privacy policy</a></li>
+						<li><a href="http://ebookfling.com">eBook Fling</a></li>
+						
   						<li><a href="/textbooks.html">Textbooks</a></li>
 					</ul>
 				</div>	    
@@ -275,7 +282,12 @@ We offer membership services only to consumers over the age of 18. We do not kno
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-	try { var pageTracker = _gat._getTracker("UA-1127915-1"); pageTracker._trackPageview("/privacy.html"); } catch(err) {}
+	try { 
+	 var pageTracker = _gat._getTracker("UA-1127915-1");
+	 pageTracker._initData();
+	 pageTracker._trackPageview('/privacy.html');
+	 //pageTracker._trackPageview(); 
+	} catch(err) {}
 </script>
 <script type="text/javascript">
    __compete_code = 'd9bb6fb2046297bae6a2b1c038e6780c';
@@ -292,6 +304,11 @@ We offer membership services only to consumers over the age of 18. We do not kno
        if (d) { d.appendChild(s); }
    }());
 </script>
+	 <!-- Start of Advertise.com ServeSmart Remarketing tag -->
 	
+	<script src="http://servesmart.advertise.com/util/tracking.pl?id=9251&amp;product=" type="text/javascript"></script>
+	
+	<!-- End of Advertise.com ServeSmart Remarketing tag -->
+		 	
 
 </body></html>
