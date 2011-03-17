@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the se7ensins.com privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915033030id_/http%3A//www.se7ensins.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the se7ensins.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318004621id_/http%3A//www.se7ensins.com/index.php/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
