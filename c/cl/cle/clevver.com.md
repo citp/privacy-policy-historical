@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevver.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205002944id_/http%3A//www.clevver.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevver.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317052948id_/http%3A//www.clevver.com/privacy.php) for the most accurate reproduction.*
 
 # Clevver Media :: LLC
 
@@ -24,4 +24,4 @@ When Clevver.com presents information to its advertisers to help them evaluate t
 
 All information gathered on any Clevver.com Web site is stored within a Clevver.com-controlled database accessible only to Clevver.com and its agents. However, despite the use of reasonable security measures, no security system is impenetrable. Clevver.com cannot guarantee absolutely the security of its database and cannot guarantee that information the User supplies will not be intercepted while being transmitted to Clevver.com over the Internet. Additionally, any information that the User includes in a message posted to any chat room, forum or other public posting area is available to anyone with Internet access. Thus, if the User does not want anyone to know his or her email address, for example, the User should not include this information in any message that the User posts publicly.  
   
-Copyright © 2010 Clevver Media LLC. All Rights Reserved. 
+Copyright © 2011 Clevver Media LLC. All Rights Reserved. 
