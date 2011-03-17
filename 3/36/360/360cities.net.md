@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 360cities.net privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119051225id_/http%3A//help.360cities.net/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 360cities.net privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317010715id_/http%3A//help.360cities.net/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 360 Cities Help Center
 
@@ -108,7 +108,7 @@ Please let us know if the personal information which we hold about you needs to 
 
 ## (11) Contact
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info@360cities.net.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to info [at] 360cities.net.
 
 * * *
 
