@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airportwifi.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212033559id_/http%3A//airportwifi.com/en/BOS/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airportwifi.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317042557id_/http%3A//airportwifi.com/en/AWG/help/privacy.aspx) for the most accurate reproduction.*
 
-# AWG-Boston Logan-Home
+# AWG-Home
 
 Your privacy is very important to us. Because we gather certain types of information about you when you use this website, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for the websites and registration pages accessed using the WiFi System at this Airport (the "Website") - what information we gather, how we use it and how to correct or change it. This Statement only addresses our activities from our servers. Other websites on the Internet (including those to which the Website links and third party sites or services with which the Website may have relationships) may have their own privacy policies and practices, which we do not control, and we are not responsible for, nor do we endorse such practices or policies.
 
