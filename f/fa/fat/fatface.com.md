@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatface.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229232107id_/http%3A//www.fatface.com/privacy-statement/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatface.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317114308id_/http%3A//www.fatface.com/privacy-statement/page/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Fat Face
 
