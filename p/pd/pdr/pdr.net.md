@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdr.net privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115235329id_/http%3A//www.pdr.net/webpages/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdr.net privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317101018id_/http%3A//www.pdr.net/webpages/privacypolicy.htm) for the most accurate reproduction.*
 
 # PDR.net | Privacy Policy
 
