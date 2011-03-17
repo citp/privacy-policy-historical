@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letgame.net privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213125234id_/http%3A//letgame.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letgame.net privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317033319id_/http%3A//letgame.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
