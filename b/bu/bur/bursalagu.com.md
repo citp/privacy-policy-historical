@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bursalagu.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229012037id_/http%3A//www.bursalagu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bursalagu.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317053736id_/http%3A//www.bursalagu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Music Search Engine - Wednesday 29-Dec-10 08:20:36
+# Privacy Policy - Bursalagu.com
 
   
 
