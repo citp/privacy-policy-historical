@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinecolorz.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227000036id_/http%3A//cinecolorz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinecolorz.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317185833id_/http%3A//www.cinecolorz.com/privacy.php) for the most accurate reproduction.*
 
 # cine colorz
 
