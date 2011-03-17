@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themanicmarketer.com privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912002647id_/http%3A//themanicmarketer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themanicmarketer.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317071557id_/http%3A//themanicmarketer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
