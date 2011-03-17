@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midupload.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126151129id_/http%3A//www.midupload.com/adsensetos.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midupload.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317185251id_/http%3A//www.midupload.com/adsensetos.html) for the most accurate reproduction.*
 
 # MidUpload.com - Easy way to share your files
 
