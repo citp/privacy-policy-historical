@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricefalls.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124130136id_/https%3A//www.pricefalls.com/Pricefalls-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricefalls.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317233817id_/https%3A//www.pricefalls.com/Pricefalls-Privacy-Policy) for the most accurate reproduction.*
 
 # Pricefalls.com | Dutch Auction Shopping Cell Phones, Fragrance, Jewelery, Electronics, Authentic Autographed Sports Memorabilia
 
