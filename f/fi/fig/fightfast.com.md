@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fightfast.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127193310id_/http%3A//www.fightfast.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightfast.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318024936id_/http%3A//www.fightfast.com/privacypolicy.php) for the most accurate reproduction.*
 
-# FREE 5 Day Fight Course - FightFast.com
+# FREE Video Fight Course - FightFast.com
 
 **Privacy Statement**
 
@@ -34,11 +34,7 @@ As a part of our business relationships, we may from time to time have banner or
 As our company grows, there is a possibility that we could be sold to another company. In the event that we are acquired by another company or a significant portion of our assets is sold to another company, all of the customer information including both financial records and consumer information that we have collected may be transferred to the new company.
 
 **Review, Request Changes or Opt Out**   
-If you do not wish to receive announcements or special offers from us or third parties, you can [_Click Here_ to unsubscribe from receiving e-mail communications regarding news, exclusive offers and reminders.](mailto:%20off_list@trsdirect.com?subject=Please%20Remove%20Me&body=Enter%20Your%20Email%20Address)
-
-[
+If you do not wish to receive announcements or special offers from us or third parties, you can [_Click Here_](mailto:%20off_list@trsdirect.com?subject=Please%20Remove%20Me&body=Enter%20Your%20Email%20Address) to unsubscribe from receiving e-mail communications regarding news, exclusive offers and reminders.
 
 **Acceptance of Privacy Policy**   
 If you use the Site, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Site. Use of this site is when this privacy effective date begins. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Site after we either personally notify you or generally post such changes on the site will constitute your acceptance of those changes.
-
-](mailto:%20off_list@trsdirect.com?subject=Please%20Remove%20Me&body=Enter%20Your%20Email%20Address)
