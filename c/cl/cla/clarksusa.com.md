@@ -1,70 +1,151 @@
-> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217054632id_/http%3A//clarks.zappos.com/privacy.zhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318082100id_/http%3A//www.clarksusa.com/eng/customerservice/privacypolicy.cfm) for the most accurate reproduction.*
 
-# Privacy | Clarks Shoes | Powered by Zappos Development, Inc.
+# Privacy Policy
+
+**Privacy Policy**  
+C & J Clark America, Inc. and our family of brands, which include, but are not limited to Clarks, Bostonian, Privo, and Indigo (collectively known as "Clarks"), value and respect your individual privacy. As part of our commitment to providing exceptional products and services, we collect personal information during our interactions with you. The following privacy policy outlines what information we collect, how it is handled, and the steps we take to ensure that it remains protected.
+
+**Information we collect and how we use it**  
+Individuals using [www.clarksusa.com](http://www.clarksusa.com/) and [www.bostonianshoe.com](http://www.bostonianshoe.com/) (our "Sites") may choose to provide their personal information at various times. Providing your personal information is always voluntary. The following explains where you may provide such information and how it is used. Please note that in any instance where we use your information for email marketing purposes, you will only receive such communications if you elect to do so (see "Email Communications and Your Choices").
 
   
 
 
-Last updated: May 1, 2010. To see what has changed, [[click here]](https://web.archive.org/privacy_changed.zhtml).
+ •
 
-Thank you for accessing the clarks.Zappos.com Website ("Site") operated by Zappos Development, Inc. We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
+| 
 
-This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you accept the practices described in this Policy.
+**"My Account"**  
+When you register on any of our Sites, we ask for your name, mailing address (including city, state, and zip code), phone number, and email address in order to set up your account. We also allow you the option of providing additional information, including, but not limited to, your date of birth and gender. The more we know about you, the more we are able to personalize your site experience and tailor our specific products and promotions to meet your interests.
 
-This privacy policy applies to the Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details.
+The information we collect through the "My Account" feature is used to help improve our Sites, customize your site experience, deliver updates or notices about our organization, and to send you direct and/or email marketing communications about our products and promotions.  
+  
+---|---  
+  
+ •
 
- **We are not responsible for the content or privacy practices on any web site not operated by Zappos Development, Inc. to which the Site links or that links to the Site.**
+| 
 
-#### INFORMATION COLLECTION AND USE
+**Purchases**  
+When you make a purchase through one of our Sites, we ask for information such as your name, email address, billing address, telephone number, payment card information, and shipping address. Such information is used to process, confirm, and ship your order. We may also use this information to send you direct and/or email marketing communications about our products and promotions. 
 
-  1. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
-    * help make the Site easier for you to use by not having to enter information more than once.
-    * help you quickly find information, products, and services.
-    * help us create content on this Site that is most relevant to you.
-    * alert you to new information, products, and services that we offer.
-    1. Registration and Ordering. Before using certain parts of this Site or ordering products, you must complete an online registration form. During registration, you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address(es), phone number, email address, and credit card number. If you have elected to use the Bill Me Later® payment method, you will have to provide the last four (4) digits of your social security number and your birth date. We use this information solely to facilitate the Bill Me Later® transaction and will not store or keep this information in our files. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you.
-    2. Email Addresses. Several locations of the Site permit you to enter your email address for purposes including but not limited to: to register for a contest or sweepstakes; to request us to notify you of new brands, new product styles, or product sizes; to sign up for email newsletters and special offers; or to sign up for the Zappos.com Shoe Digest. Your participation in a contest or sweepstakes is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest and sweepstakes winners and to award prizes. We may post on the Site the names and cities of contest and sweepstakes winners. By entering a contest or sweepstakes, you may be opting in to receive our email newsletter and special offers and this will be disclosed in the official rules governing the contest or sweepstakes.
-    3. Cookies and Other Technology. Like many sites, the Site employs cookies and web beacons (also known as clear GIF technology or "action tags" to speed your navigation of the Site, recognize you and your access privileges, and track your Site usage.
-      1. Cookies are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from web sites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of the Site. We have to use cookies to enable you to select products, place them in an online shopping cart, and to purchase those products. If you do this, we keep a record of your browsing activity and purchase. THE SITE'S COOKIES DO NOT AND CANNOT INFILTRATE A USER'S HARD DRIVE TO GATHER A USER'S CONFIDENTIAL INFORMATION. Our cookies are not "spyware."
-      2. Web beacons assist in delivering cookies and help us determine whether a web page on the Site has been viewed and, if so, how many times. For example, any electronic image on the Site, such as an ad banner, can function as a web beacon.
-      3. We may use third-party advertising companies to help tailor site content to users or to serve ads on our behalf. These companies may employ cookies and web beacons to measure advertising effectiveness (such as which web pages are visited or what products are purchased and in what amount). Any information that these third parties collect via cookies and web beacons is not linked to any personal information collected by us.
-      4. As an example, Facebook collects certain information via cookies and web beacons to determine which web pages are visited or what products are purchased. Please note that any information collected by Facebook via cookies and web beacons is not linked to any customer's personal information collected by us.
-    4. Log Files. As is true of most web sites, the Site server automatically recognizes the Internet URL from which you access the Site. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)
-    5. Age. We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on the Site, you have represented and warranted that you are either 18 years of age or using the Site with the supervision of a parent or guardian. If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you.
-    6. Product Reviews. You may choose to submit a product review. If you post a review, we will ask for your email address and geographic location. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.
-    7. Bizrate Reviews. Bizrate.com is an independent company that permits shoppers to rate their experiences in visiting and shopping at online stores. After placing an order on the Site, you may receive the opportunity to provide feedback on your experience. This choice is optional and will not affect your order or service from us, whether or not you choose to provide feedback. Your feedback is collected by Bizrate.com, not us, and is governed by their privacy policy, available at <http://shop.bizrate.com/content/privacy.html>
-  2. Information Use and Disclosure.
-    1. Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve the Sites' content and layout, to improve outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to the Site. In order to facilitate such use and the other use described in this Section 2, we may share your information with affiliates under Zappos.com, Inc's control.
-    2. Communications with You: We will use your personal information to communicate with you about the Site and your orders and deliveries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to register for a contest or sweepstakes; to request us to notify you of new brands, new product styles, or product sizes; to sign up for email newsletters and special offers; or to sign up for the Zappos.com Shoe Digest. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
-    3. External Use. We want to provide you with excellent service and to offer you a great selection. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone other than to affiliates under Zappos.com, Inc's control, except that:
-      1. As do most catalog and Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as the U.S. Postal Service, United Parcel Service, and Federal Express) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
-      2. Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information. (More on this below in Data Security.)
-      3. In the event you have elected to use the Bill Me Later® payment method, to help you buy products and provide customer service to you, we must provide the last four (4) digits of your social security number and your birth date to the financial-services corporations processing your transaction. When you submit this information to us for approval and authorization, we use state-of-the-art data encryption to protect your information.
-      4. We may disclose such information in response to requests from law enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use the Site for illegal reasons or to commit fraud.
-      5. We will not sell (or trade or rent) personally identifiable information to other companies as part of our regular course of business. However, it's possible that we might acquire or merge with or be acquired by another company or that we might dispose of some or all of our assets. If that happens, your personal information may be disclosed to another company, but that disclosure will be subject to the Privacy Policy in effect.
-      6. We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
-      7. We may publicly disclose the name, city, and state of the contest and sweepstakes winners.
+When shipping an order to a third party, you will be required to provide their name, shipping address, telephone number, and email address. Such information is used solely to complete the order and to notify the recipient of their shipment. Clarks will never use the personal information of a third party recipient for marketing purposes.   
+  
+ •
+
+| 
+
+**"Contact Us"**  
+If you choose to communicate using the "Contact Us" feature, we will ask for your name, email address, and telephone number. We use this information to respond to your inquiry and to assist you in navigating our Sites.   
+   
+  
+ •
+
+| 
+
+**Surveys and Contests**  
+Clarks may, on occasion, request information from you using surveys, sweepstakes, or other like contests. Your participation is never required. If you choose to participate, we may ask for your name, mailing address, email address, and/or telephone number. We use this information to administer the relevant survey or contest and for award notification purposes, as applicable. Clarks may also use the information to provide you with direct and/or email marketing communications about our products and promotions.  
+   
+  
+ •
+
+| 
+
+**Visitors**  
+When you choose to browse our Sites as a visitor, we gather only non-personally identifiable information from you, as outlined in the "Cookies and Other Web Applications" section of this policy.  
+   
+  
+  
+**Cookies and other web applications**  
+Clarks uses cookies and other technologies to better understand the needs and wants of our customers. Cookies are small data text files which are automatically transferred from our Sites to your computer’s hard drive for identification purposes. Cookies allow us to recognize your web browser every time you visit, so that we can personalize your experience and identify the areas of our Sites which are most relevant to you.
+
+Clarks also uses cookies to collect aggregate data about our customer base. Through the use of cookies, we are able to track which parts of our Sites are most popular, where our visitors are going, and how much time they spend there. Such information helps us to provide you with improved services and a better overall site experience.
+
+If you would prefer not to accept cookies from our Sites or any others, you can modify your browser preferences to refuse them. In order to do so, please refer to your browser’s "help" section.
+
+In addition to using cookies, we also gather non-personally identifiable "click stream" data and store it in our website log files. "Click stream" data records your Internet Protocol (IP) address, browser type, Internet Service Provider (ISP), previously visited web pages, and domain name. We use this data solely to improve the content of our Sites and to understand the demographics of our customer base. We will not use this information to market directly to you, as our website logs do not store any personally identifiable information.
+
+**Third parties and your information**  
+Clarks does not sell, rent, trade, or otherwise share your personal information with third parties without first giving you advance notice, except as set forth in this privacy policy. We may disclose your information to third parties with whom you explicitly ask us to share your information, where it is permitted or required by law, and as it is necessary for business operation purposes.
+
+Clarks works with reputable third parties who perform services on our behalf, some of whom require access to your personal information in order to properly assist us. For example, we may use third parties to host our Sites, authorize and process credit card transactions, manage our gift card program, and administer tax calculations. When Clarks allows these third parties access to your personal information, we require that they handle your information with the utmost confidentiality and care, and use it solely for the business purpose for which it was intended. Clarks carefully selects business partners who exhibit our same high level of commitment to protecting your personal privacy. 
+
+**Security**  
+Keeping your personal information confidential and secure is important to Clarks. In order to protect the payment information you provide to us, including your credit card number, expiration date, security code, and billing address, we use 2048-bit Secure Sockets Layer (SSL) technology. SSL technology encrypts your information so that it cannot be recognized or decoded in cyberspace.
+
+Your computer will begin operating in secure mode once you enter our checkout page. You can confirm that SSL is active by looking in the lower left hand corner of your browser, where you will see either a closed lock or an unbroken key (depending on your browser type). Additionally, the URL line of your browser will change from "http" to "https" when the SSL technology is operating.
+
+**Accessing, modifying and deleteing your information**  
+You may access your personal information at any time by logging into the "My Account" section of our Sites. The "My Account" feature allows you to view, update, or otherwise modify the personal information you have provided to us.
+
+Users of our Sites who provide us with their personal information may also permanently delete their information from our records at any time by canceling their account. In order to do so, please send an email to [ConsumerServices@clarksna.com](mailto:consumerservices@clarksna.com) with "Request for Removal" in the tag line and your name and address in the body of the email. Such action will effectively remove you as a member of our Sites and cease any future email communications sent to you by Clarks. In the event you choose to terminate your account, you may still make purchases as a "guest" of our Sites. Allow Clarks up to ten business days from the time your request is received to cancel your account.
+
+**Email communications and your choices**  
+If you would like to be a part of our email list, you may "opt-in" when you sign up as a member of one of our Sites or when you make an online purchase. If at anytime after joining you wish to unsubscribe from our email list, you may do so by clicking on the "unsubscribe" hyperlink contained in all of the marketing emails we send to you. Additionally, you may unsubscribe by sending an email to [ConsumerServices@clarksna.com](mailto:consumerservices@clarksna.com) with "Email Removal" in the tag line, and your name and email address in the body of the email.
+
+If you choose to unsubscribe to our email list while remaining a member of our Sites, you will continue to receive administrative and non-marketing related emails from Clarks. Removal from our email list may take up to ten business days from the time your request is received, during which time you may continue to receive electronic marketing correspondence from Clarks.
+
+**Direct mail communications and your choices**  
+When you sign up as a member of one of our Sites or make an online purchase, your mailing information is automatically added to our direct mail distribution list. If at anytime you wish to unsubscribe from our direct mail list, you may do so by calling Consumer Services at (800) 211-5461 or by sending an email to [ConsumerServices@clarksna.com](mailto:consumerservices@clarksna.com) with "Direct Mail Removal" in the tag line, and your name and address in the body of the email. Additionally, you may unsubscribe by sending a letter, inclusive of your name and address, stating that you no longer wish to receive direct marketing mail from Clarks. Please send mail to: 
+
+The Clarks Companies, N.A.   
+Attn: Retail Marketing   
+156 Oak Street   
+Newton Upper Falls, MA 02464. 
+
+Removal from our direct mail list may take up to ten business days from the time your request is received, during which time you may continue to receive marketing correspondence from Clarks.
+
+**Children 13 and under**  
+Clarks does not knowingly collect or solicit personally identifiable information from children under the age of 13. If we obtain knowledge that a child under 13 has submitted personally identifiable information in violation of this policy, we will delete that information as soon as possible. If you believe Clarks may have obtained information in violation of this policy, please contact us at ConsumerServices@clarksna.com and include "Child Information" in the subject line.
+
+**Residents of California**  
+In accordance with California Civil Code Section 1798.83, Clarks customers who are residents of California may submit a once-a-year request for information concerning our disclosures of their personal information to third parties for direct marketing purposes. In order to do so, please send a written request, including your name and address, to:
+
+The Clarks Companies, N.A.  
+Attn: Retail Marketing  
+156 Oak Street  
+Newton Upper Falls, MA 02464
+
+Please include "Request for California Privacy" in the letter subject line. Within 30 days of receiving your request, we will send you a list of the categories of personal information disclosed to third parties for direct marketing purposes during the immediately preceding calendar year. We will also provide you with the names and addresses of these third parties. Clarks reserves the right to not respond to requests sent more than once in a calendar year. Our disclosures are limited to the information covered by the law.
+
+**Links to other sites**  
+For your convenience, our Sites may contain links to other company websites and resources, none of which are controlled by Clarks. Clarks is not responsible for any non-affiliated websites, whether linked or otherwise. Those websites may have their own privacy policies and terms and conditions which will govern your access and use of their site.
+
+**Privacy policy changes and updates**  
+Clarks may update the terms of this privacy policy from time to time. In the event a change occurs, an updated policy will be posted on our Sites along with a notice outlining the change. If at any time we decide to use your information in a manner that is different from that stated at the time it was collected, we will notify you by email and let you choose whether we may use your information in the changed manner.
+
+**Consent**  
+By using any of our Sites you signify that you agree to both the terms of this Privacy Policy and our stated Terms and Conditions. If you do not accept the terms of this Privacy Policy and/or our Terms and Conditions, please exit our Sites and refrain from providing your personal information to us.
+
+**Contact us**  
+If you have questions, comments, or concerns regarding our privacy policy, please contact us at:
+
+  
 
 
+Email:
 
-#### DATA SECURITY
+| 
 
-The Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through the Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit the Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall.
+[ConsumerServices@clarksna.com](mailto:%20ConsumerServices@clarksna.com)  
+  
+---|---  
+  
+Phone:
 
-While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
+| 
 
-#### OPT OUT/CORRECTIONS
+(800) 211-5461  
+  
+U.S. Mail:
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site [http://www.zappos.com/cs.zhtml](http://www.zappos.com/customer-service-center), or by telephoning, or emailing your request to Zappos.com's Customer Loyalty Team 1-800-943-1633 or:  
-. Please do not email your credit-card number or other sensitive information.
+| 
 
-#### OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION
+The Clarks Companies, N.A.  
+Attn: eCommerce  
+156 Oak Street   
+Newton Upper Falls, MA 02464  
+  
+This Privacy Policy applies only to the information collected by www.clarksusa.com and www.bostonianshoe.com
 
-As you might expect from us, the majority of information that we collect is obtained through the Site, and this Privacy Policy applies only to that online collection of personal information. We also may collect information offline, where we also try to protect the privacy of your personal information. One example involves someone calling us to place an order or to ask questions. When someone calls, we will ask only for the personal information we need in order to place the order or to answer the question. When we need to store information (such as order information), we will enter it into our database through SSL encryption. (See the Data Security section above for more information). Another example involves faxes. If you fax something to us, we will act upon the fax and then either store it a locked repository or we will shred the fax if there is no need to retain the information. There are other ways we could learn of personal information offline (for example, we suppose someone could send us a letter including some return address information), and this Policy doesn't discuss or try to predict all of those methods or uses. As we mentioned, we will try to treat offline collection, uses, and disclosures consistently with our relevant online practices.
-
-#### UPDATES TO THIS POLICY
-
-If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at 1-800-ZAPPOS-1 (1-800-927-7671) or 702-943-7677 or
-
-Effective May 1, 2010  
-Privacy Policy copyright © 2007-2010 Zappos.com, Inc.
+Date Posted: January 12, 2011 
