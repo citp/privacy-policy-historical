@@ -1,48 +1,55 @@
-> *The following text is extracted and transformed from the mdjunction.com privacy policy that was archived on 2007-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070811042905id_/http%3A//www.mdjunction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdjunction.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318062924id_/http%3A//www.mdjunction.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy
 
-Because we respect your right to privacy, we have developed this Privacy Statement to inform you about our privacy practices for MDJunction.com.
+   
+MDJunction is an open community of patients who share, in public, their experiences and knowledge.  We respect your right to privacy.  This Privacy Statement is to inform you about our privacy practices, it applies to all web sites owned and operated by MDJunction.com. 
 
-This Privacy Policy applies to web sites owned and operated by Doctors 911 Ltd, including the MDJunction.com site.
+**General Guidelines for privacy**  
+When browsing any website on the internet (MDJunction.com included) – it is strongly recommended that you do not reveal your personal home address, personal phone numbers or any other personal information that is not public knowledge. 
 
-**Privacy of reviewers and members**
+**Personal Information \- Members**  
+Registered members must provide their personal email address (as well as account username and password that we store for your convenience).  
+Your email address is required for administrative purposes and to retrieve your password and username in case those are lost. As described in our FAQs you may opt not to receive administrative and other notification emails. We also collect non-personal information such as your IP address and URLs (web pages) you arrived from and visit on while on our site. 
 
-Reviews are posted as anonymous with member's screen name only. As a member you control your level of exposure by picking a screen name and editing your profile information.  
-We never make your e-mail address or any other personal information available to any other person, unless we have your consent or we are required to disclose such information by law, and we believe that the disclosure is appropriate.
+Information you fill out via your account page (Member Profile Information) is optional and can be viewed by other visitors to MDJunction.com. Any information you post (including but not limited to photos, hugs, forum posts, diary entries, doctor reviews, ribbon descriptions and articles) on public sections of the site can be viewed by anyone. You should think carefully before disclosing any Personal Information in any Public Area. 
 
-**Information we collect and why**
+**We strongly believe in your right to privacy. We will NOT sell, distribute or otherwise abuse your personal information. ** 
 
-1\. Unregistered guests: Our site provides extra features for registered members such as the opportunity to review and rate doctors. If you choose not to register with us, you can still use our site. In that case only non-personal information will be collected by us such as your IP address and urls (web pages) you arrived from and visit on while on our site.  
-This information is used by us to better our visitors experience. 
+**Children under age 13**  
+We do not intentionally gather Personal Information about visitors who are under the age of 13 or knowingly allow such persons to register. If you are under 13 years of age, please do not attempt to register or send any information about yourself to us, including your name, address, telephone number, or email address.   
+If you find or believe that we might have information from or about a child under 13 years, please contact us ASAP. 
 
-1\. Registered members: If you register with us, you must provide your email address (as well as account username and password that we store for your convenience).  
-Your email address is required for administrative purposes (notifications about changes in our site, special opportunities notices, such as to become a featured reviewer, get extra exposure on the site, etc). As described below you may opt not to receive administrative emails.  
-We also collect non-personal information such as your IP address and urls (web pages) you arrived from and visit on while on our site.  
-This information is used by us to better our visitors experience.  
-Information you fill out via your account page (Member Profile Information) is optional and can be viewed by other members of MDJunction.com.  
-Your personal profile is for other members to know you better as a reviewer on MDJunction.com.
+**Children between 13 and 18**  
+Almost all the members at MDJunction.com are over 18 and thus oriented to interacting with others who are in the same age group.  
+We do not allow children under 13 to register to MDJunction but also recommend and insist that minors over the age of 13 years ask their parents for permission before registering to MDJunction, sharing any personal information or talking to anyone over the internet.  
+If you are between the age of 13 and 18 and not sure if MDJunction is the right place for you, please talk to your parents or contact us. In any case please use caution.  
+We recommend that minors over the age of 13 years ask their parents for permission before sending any information about themselves to anyone over the Internet. 
 
-**Changing your information**
-
-You can always change your information (profile information, username, screen name, email preferences, etc) via your member account page.
-
-**Cookies**
-
+**Cookies**  
 A cookie is a small piece of data that is sent to your browser from the site you are visiting and stored on your computer's hard drive.  
-Cookies are very common and completely normal throughout the Internet. Cookies do not harm your computer nor can they access information stored on your computer.  
-The primary purpose of cookies is to maintain your customized settings on the site. The site login process ("Remember my password", for example) and member functionality requires that your browser accept cookies.
+Cookies are very common and are being used by most websites. Cookies do not harm your computer nor can they access information stored on your computer.  
+The primary purpose of cookies is to maintain your customized settings on the site. The site login process ("Remember my password", for example) and member functionality requires that your browser accept cookies. 
 
-**Links**
+**Links and Other sites**  
+This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to review the privacy statements of each and every Web site that you visit through MDJunction.com. 
 
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to review the privacy statements of each and every Web site that you visit through MDJunction.com.
+**Information Collected by Third Parties  
+**We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. 
 
-**Security**
+You can always change your information (profile information, username, screen name, email preferences, etc) via your member account page. Check out the FAQs (link at the bottom of every page) on how to do it. 
 
-MDJunction.com implements methods of securing its user information databases from unauthorized access or alteration.
+To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information,you can visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
-**Amendments to the privacy policy**
+**Security**  
+MDJunction.com implements methods of securing its user information databases from unauthorized access or alteration. 
 
-This policy may be amended from time to time and in our sole discretion, upon posting notice on the Web site. Please periodically visit this page to review the current privacy policy.
+**Amendments to the privacy policy**  
+This policy may be amended from time to time and in our sole discretion, upon posting notice on the Web site. Please periodically visit this page to review the current privacy policy. 
 
-Please feel free to [contact us](http://www.mdjunction.com/contact) with any questions. 
+**Accreditation**  
+MDJunction complies with the principles of the HON Code of Conduct established by the Health on the Net Foundation. To verify our compliance, click on the HON logo. 
+
+**Please feel free to[contact us](http://www.mdjunction.com/contact) with any questions. **
+
+Privacy page was updated on February 2010. 
