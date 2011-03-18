@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the worldpay.us privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210043916id_/http%3A//www.worldpay.us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpay.us privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318111638id_/http%3A//www.worldpay.us/privacy.htm) for the most accurate reproduction.*
 
 # WorldPay | Privacy Policy
 
 **Online Privacy Policy**
 
-We respect and value your privacy. Our Online Privacy Policy (“Privacy Policy”) describes and applies to the information we collect from you when you visit this website (“Website”). The terms "we," “our,” and “us” in this Privacy Policy refer to WorldPay U.S., Inc. Our Privacy Policy generally describes how we collect, share, use, and protect your information.
+We respect and value your privacy. Our Online Privacy Policy (“Privacy Policy”) describes and applies to the information we collect from you when you visit this website (“Website”). The terms “we,” “our,” and “us” in this Privacy Policy refer to WorldPay US, Inc. Our Privacy Policy generally describes how we collect, share, use, and protect your information.
 
 **1\. Information That We Collect**
 
@@ -14,12 +14,10 @@ Some of the information you may submit is personally identifiable information, b
 
 We may use this information for a number of purposes, for example, to better service your requests and/or inquiries, monitor Website usage and/or performance, improve the customer experience of our Website, ensure technological compatibility with your computer, protect against fraud or identity theft, or conduct aggregate analyses on usage patterns.
 
-**Automatically Collected Information**
-
+Automatically Collected Information  
 Every time you visit a website, some information is automatically collected from you. For example, this information may include some or all of the following items: your computer’s Internet protocol (IP) address and/or domain; type and version of Internet browser software and operating system you use; date, time, and duration of your Website access; specific pages, buttons, images, videos, links, or forms that you access while visiting the Website; and demographic information concerning the country of origin of your computer and the language(s) used by it.
 
-**Information Collected via Cookies and Other Similar Technology**
-
+Information Collected via Cookies and Other Similar Technology  
 “Cookies” are small text files that are placed on your computer to distinguish you from other visitors to our Website. The use of cookies is a standard practice among websites to collect or track information about your activities while using the website. We or our third party advertising service providers may place cookies or similar files on your hard drive for many of the reasons listed above while visiting our Website. Most people do not know that cookies are being placed on their computers when they visit websites because browsers are typically set to accept cookies. You can choose to have your browser warn you every time a cookie is being sent to you or you can choose not to accept cookies. You can also delete cookies from your computer at any time. If you refuse cookies, the functionality of our Website may be impacted or become non-functional.
 
 In addition to using cookies, we or our third party advertising service providers may also use similar technologies to track users’ interactions with our Website. Some of these technologies include web beacons (transparent graphical images placed on a website) and flash objects.
@@ -38,11 +36,11 @@ When you send an e-mail to us, you are communicating with us electronically and 
 
 **4\. Personal Information on Children**
 
-We respect the privacy of your children and encourage all parents to supervise their children’s computer usage. We do not knowingly collect or retain personal information from children under the age of thirteen. We advise all visitors to our Website under the age of 13 not to disclose or provide any personally identifiable information on our Website. To learn more about the Children’s Online Privacy Protect Act (COPPA) please visit the Federal Trade Commission’s website at [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy). 
+We respect the privacy of your children and encourage all parents to supervise their children’s computer usage. We do not knowingly collect or retain personal information from children under the age of thirteen. We advise all visitors to our Website under the age of 13 not to disclose or provide any personally identifiable information on our Website. To learn more about the Children’s Online Privacy Protect Act (COPPA) please visit the Federal Trade Commission’s website at [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy).
 
 **5\. Third Party Websites**
 
-Our Website may contain links to third party websites. These links and pointers to third party websites are not part of our Website. Neither Citizens Financial Group, Inc. nor its affiliates, divisions, subsidiaries or parent company make any representations or warranties regarding these third party websites. We are not responsible for any losses or damages in connection with the information, security, privacy practices, availability, content or accuracy of materials of such third party websites. These third party websites might have privacy policies different from us and third party websites may provide less privacy and/or security than our Website. We encourage you to review the privacy and security policies of all third party websites before you share any personally identifiable information.
+Our Website may contain links to third party websites. These links and pointers to third party websites are not part of our Website. We do not make any representations or warranties regarding these third party websites. We are not responsible for any losses or damages in connection with the information, security, privacy practices, availability, content or accuracy of materials of such third party websites. These third party websites might have privacy policies different from us and third party websites may provide less privacy and/or security than our Website. We encourage you to review the privacy and security policies of all third party websites before you share any personally identifiable information.
 
 **6\. Additional Uses or Sharing of Your Information**
 
@@ -63,7 +61,7 @@ We maintain security standards that are designed to protect your information as 
 
 **8\. How to Protect Your Personally Identifiable Information**
 
-You have a role in helping us by safeguarding your information from others. You have several options when deciding how you can best protect your personally identifiable information. One option is simply not to volunteer it. The Federal Trade Commission’s websites ([www.ftc.gov](http://www.ftc.gov/), [www.ftc.gov/idtheft](http://www.ftc.gov/idtheft) and [www.onguardonline.gov](http://www.onguardonline.gov/)) offer useful information about how to protect your personally identifiable information.
+You have a role in helping us by safeguarding your information from others. You have several options when deciding how you can best protect your personally identifiable information. One option is simply not to volunteer it. The Federal Trade Commission’s websites (www.ftc.gov, www.ftc.gov/idtheft, and www.onguardonline.gov) offer useful information about how to protect your personally identifiable information.
 
 **9\. Suspicious E-Mail**
 
@@ -75,14 +73,14 @@ If you reside outside the U.S., any information you provide to us on our Website
 
 **11\. Changes to our Online Privacy Policy**
 
-Please note that we will periodically make changes to our Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of our Website constitutes your acceptance of any amendments to and the most recent versions of this Privacy Policy. 
+Please note that we will periodically make changes to our Privacy Policy. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of our Website constitutes your acceptance of any amendments to and the most recent versions of this Privacy Policy.
 
 **12\. Questions or Comments**
 
-If you have any questions or comments concerning our Privacy Policy please let us know by emailing [privacy@worldpay.us](mailto:%20privacy@worldpay.us).
+If you have any questions or comments concerning our Privacy Policy please let us know by emailing [privacy@worldpay.us](mailto:privacy@worldpay.us).
 
-**PRINTING INSTRUCTIONS**
+PRINTING INSTRUCTIONS  
+For a copy of this document, use the print command on your web browser.
 
-For a copy of this document, use the print command on your web browser. 
+_This Privacy Policy was last updated on: December 10, 2010_  
 
-_**This Privacy Policy was last updated on: December 1, 2010**_
