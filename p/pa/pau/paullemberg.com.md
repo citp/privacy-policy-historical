@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paullemberg.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229030521id_/http%3A//www.paullemberg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paullemberg.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318054916id_/http%3A//www.paullemberg.com/privacy.html) for the most accurate reproduction.*
 
 # Paul Lemberg's Privacy Policy
 
