@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allisbrawl.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206041349id_/http%3A//allisbrawl.com/content/article.aspx%3Fid%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allisbrawl.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318103454id_/http%3A//allisbrawl.com/content/article.aspx%3Fid%3D11) for the most accurate reproduction.*
 
 # All is Brawl Privacy Policy - All is Brawl
 
