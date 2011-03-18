@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edsheeran.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618191058id_/http%3A//www.edsheeran.com/page.asp%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsheeran.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318064905id_/http%3A//edsheeran.com/page.asp%3Fid%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
