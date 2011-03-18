@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poetv.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523144147id_/http%3A//poetv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poetv.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318031351id_/http%3A//www.poetv.com/privacy.php) for the most accurate reproduction.*
 
 # ##TITLE##
 
@@ -26,7 +26,8 @@ poeTV displays refer information publicly. This is to promote interaction with o
 
 Individual users are not linked to the referring website, only counted in the aggregate.
 
-\------------------------------------------------------------------------------
+\------------------------------------------------------------------------------  
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit http://www.valueclickmedia.com/member_privacy.shtml
 
  **What security precautions are in place to protect the loss, misuse, or alteration of my information?**  
 We partner with only legitimate merchants who have valid privacy statements.   
