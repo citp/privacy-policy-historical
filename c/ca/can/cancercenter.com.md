@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancercenter.com privacy policy that was archived on 2008-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080712195311id_/http%3A//www.cancercenter.com/common/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancercenter.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318204102id_/http%3A//www.cancercenter.com/common/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Cancercenter Privacy Policy
 
