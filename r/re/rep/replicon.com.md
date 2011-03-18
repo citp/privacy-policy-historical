@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229084704id_/http%3A//www.replicon.com/about_replicon/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318175441id_/http%3A//www.replicon.com/about_replicon/privacy_statement.aspx) for the most accurate reproduction.*
 
-# Privacy Statement | Replicon
+# Web Timesheet Software Privacy Policy - Replicon
 
 [Home](http://www.replicon.com/ "Replicon Inc. offers easy to use easy-to-use web timesheet software to track employee time, project time and expenses streamlining attendance, payroll, project tracking, costing and billing. It therefore provides, hassle free online timesheet management software and solutions to cater various business needs.") > [About Us](https://web.archive.org/about-replicon.aspx "Replicon, Inc. is the global leader of corporate web-based time and expense management solutions.") > Privacy Statement
 
