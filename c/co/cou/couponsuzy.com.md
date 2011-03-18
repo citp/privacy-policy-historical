@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsuzy.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017175240id_/http%3A//www.coupons.com/solutions/main/SubPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsuzy.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318075300id_/http%3A//www.coupons.com/solutions/main/SubPrivacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 We recognize the importance of protecting the privacy of all information provided to us and to our clients through the use of our services and related websites. We created the following policy guidelines with a fundamental respect for your right to privacy to guide our relationship with our users and consumers who use any of the websites, co-branded Microsites, services, or applications owned or provided by us (the "Sites") (collectively or individually, "Consumers").
 
-This Privacy Policy is incorporated into and is subject to our End User License Agreement, which is applicable to those Consumers who download the Coupons toolbar ("CouponBar") and Coupon Printer applications. Instructions on uninstalling these programs are [available here](http://www.coupons.com/corp/source/u_uninstall.asp).
+This Privacy Policy is incorporated into and is subject to our End User License Agreement, which is applicable to those Consumers who download the Coupons toolbar ("CouponBar") and Coupon Printer applications. Instructions on uninstalling these programs are [available here](http://www.couponsinc.com/corp/source/u_uninstall.asp).
 
 ### 1\. Information We Collect 
 
