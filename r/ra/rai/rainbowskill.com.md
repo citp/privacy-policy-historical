@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rainbowskill.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214172359id_/http%3A//www.rainbowskill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbowskill.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318215952id_/http%3A//www.rainbowskill.com/privacy-policy) for the most accurate reproduction.*
 
-# Rainbow Skill : Knowledge Portal | Privacy Policy
+# Privacy Policy
 
 This privacy policy sets out how Rainbowskill.com uses and protects any information that you give Rainbowskill.com when you use this website.  
 Rainbowskill.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
