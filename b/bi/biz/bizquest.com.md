@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221211831id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318011620id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
 
 # Business for Sale | Buy A Business or Sell A Business | Privacy Policy - BizQuest.com
 
@@ -86,6 +86,10 @@ Users who do not wish to receive marketing emails including the BizQuest Newslet
 You may correct or update your personally identifiable information by going to the area of the site where you submitted the information, and following the instructions to view, change or delete the information. 
 
 Credit card information submitted to BizQuest is typically used for a one-time charge to your account, and subsequent orders for renewals require users to resubmit the credit information. (An exception: Broker Membership accounts and Franchise Directory advertising are automatically renewed each month, using the original credit information submitted.) Therefore, for added security, any credit card information submitted to BizQuest is not accessible for review or modification by signing on to your ad. If you have questions regarding the credit card information used in ordering your products or services, please [contact us](http://www.bizquest.com/support/contact.asp "Contact Us") or at 888-280-3815.
+
+**Notification Procedures:**
+
+BizQuest may provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice (including via fax), or through posting of such notice on our website, as determined by BizQuest in our sole discretion. BizQuest reserves the right to determine the form and means of providing notifications to our users, provided that you may opt out of certain means of notification as described herein.  BizQuest is not responsible for any automatic filtering you or your network provider may apply to email notifications we send to the email address you provide us.  We recommend that you add [service@BizQuest.com](mailto:service@BizQuest.com) to your email address book to help ensure you receive email notifications from us.
 
 **Changes to this Privacy Statement:**
 
