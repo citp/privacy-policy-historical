@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getabest.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117005639id_/http%3A//getabest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getabest.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318174635id_/http%3A//getabest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Getabest.com Download
 
@@ -30,10 +30,11 @@ Subscribe!
 
 Categories
 
-Partner
+Partners
 
-Website worth calculator  
 [](http://mysitecost.com/)
+
+[](http://downloadnew.org/ "Free software downloads")
 
 More Getabest.com  
   
