@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the passionforcinema.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516202447id_/http%3A//passionforcinema.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passionforcinema.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318093310id_/http%3A//passionforcinema.com/about/privacy-policy) for the most accurate reproduction.*
 
 # PassionforCinema: Privacy Policy
 
@@ -33,6 +33,8 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 PassionForCinema.com uses one or more third party ad serving technology to serve ads at this site and all sites owned by the parent group Utible Inc. In the course of delivering an ad to you, the third party ad serving party may place or recognize a unique cookie on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services that may be of interest to you. 
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
+
 **Cookies and Opt Out**
 
 Like most Internet sites, PassionForCinema.com and its third party ad serving party uses “cookies” to enhance the Internet user’s experience on the Web. Neither PassionForCinema.com nor such third party ad serving party uses these cookies to personally identify you in any way, and these cookies in no way damage your system or files.
@@ -49,7 +51,7 @@ If you do not want the benefits of cookies, there is a simple procedure that all
 
 **Third Party Advertising**
 
-We use many third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here
+We use many third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Third Party Cookies**
 
