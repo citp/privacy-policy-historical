@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203110852id_/http%3A//www.sign-up.to/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318045230id_/http%3A//www.signup-onlinemarketing.co.uk/legal/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Sign-Up.to
+# Privacy Policy | Sign-Up.to
 
 We take the privacy of client and end user data very seriously. The entire Sign-Up.to system is designed to provide all parties with complete control over their data.
 
@@ -10,7 +10,7 @@ As a subscriber to a company who uses Sign-Up.to you have complete access to dat
 
 That's the short version. Because our lawyers like to earn their fees, they insisted that we also have the long version below...
 
-Sign-Up Technologies Limited (referred to in this Privacy Policy as "SuTL", "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through Sign-UpT, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the [Terms of Use ](https://web.archive.org/web/20091203110852id_/http%3A//www.sign-up.to/legal/consumer.php)
+Sign-Up Technologies Limited (referred to in this Privacy Policy as "SuTL", "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through Sign-UpT, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the [Terms of Use ](https://web.archive.org/web/20110318045230id_/http%3A//www.signup-onlinemarketing.co.uk/legal/consumer.php)
 
 **1\. Contact details**
 
