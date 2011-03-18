@@ -1,113 +1,94 @@
-> *The following text is extracted and transformed from the myfreemoneyformula.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230221841id_/http%3A//peoplestring.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreemoneyformula.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318233048id_/http%3A//www.myfreemoneyformula.com/privacy.html) for the most accurate reproduction.*
 
-# PeopleString
+# Privacy Policy
 
-**BigString is committed to respecting your privacy. Our self-destructing email, IM and messaging products can better help you protect your and your recipients' privacy. We recognize your need for control of personally identifiable information that you share with BigString. Personally identifiable information is information that only pertains to you as an individual such as your name, address, phone number or credit card number. BigString does not collect sensitive information about individuals except when specifically and knowingly provided by such individuals.**
+Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
 
-**SECURITY**
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
-In addition to providing you with secure email, IM and messaging products, BigString uses a Thawte ([http://www.thawte.com](http://www.thawte.com/)) digitally signed certificate to process all sensitive information securely through SSL encryption. This encryption is used during the registration process, credit card processing, and user login.
+### Personal Information Our Company Collects and How It Is Used
 
-**REGISTRATION**
+Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Products and Services, and generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
 
-In order to use this Web site, you must first register for an account with BigString. The user account name that you create will be used as your Screen name. A password must be created that contains at minimum six (6) characters. Your gender, date of birth, email address, country of residence and zip code/mail code are required as well. For email accounts, your first name, last name and alternative email address are also required.
+Registration: Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information is not shared with third parties, unless specifically stated otherwise or in special circumstances.
 
-If you are signing up for any of BigString's paid accounts you will be required to enter your credit card type, card number, CCID number, expiration date of your card, your name as it appears on your account and the billing address on your account. Please note, for your safety, we do not maintain any data from your credit card submission. We use [authorize.net](http://authorize.net/) to process your payment. Your credit card debit will show as a charge from either Email Emissary Inc. (a wholly owned subsidiary of BigString Corp) or Bigstring.com. Your data is sent to a third party credit card processor such as [authorize.net](http://authorize.net/) for credit card processing. The credit card processor is prohibited from using any personally identifiable information for any other purpose than for payment processing. You will be returned to the BigString site on successful completion to learn more about your new account and begin using it.
+However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion.
 
-From time to time BigString may offer coupons to new users that are not normally available to BigString users. At these times a coupon code or a referrer address may be required to obtain these additional features. At no time will the referrer address be stored and used for marketing purposes by BigString.
+In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
 
-BigString Corporation ("BigString") is the sole owner of the personal information collected on [www.BigString.com](http://www.bigstring.com/), [www.BigStringIM.com](http://www.bigstringim.com/) or any other of BigString's owned and/or operated websites. BigString collects personally identifiable information from our users at several different points on our Web sites.
+Our Company Partners and Sponsors: Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. In these instances, you will be notified before any such data is collected or transferred and may decide not to use that particular service or feature.
 
-**REFER FRIENDS**
+Additionally, our partners may have advertisements or co-branded Web Pages that are cosponsored by an affiliate, independent contractor seller, or non-affiliated partner. Our company may share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered.
 
-If you choose to use our referral service to tell a friend about BigString, we will ask you for your friend's email address. We will automatically send your friend a one-time message inviting him or her to visit BigString's sites. BigString does not store this information and your friend will only receive the initial message from us.
+Online Shopping: At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information.
 
-**USES OF INFORMATION**
+If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so.
 
-BigStringIM.com is an Instant Messenger service provider; your screen name will appear on Instant Messages that you send from our system. BigString.com is an email service provider; your first and last name may appear on certain emails that you send from our system. BigString will only use the information provided in a registration form to provide users with important information about our service (including upgrades, modifications, etc.) and to announce new products and services available to users. BigString will not share, sell or lease any personally identifiable information about any user to any third party for any secondary purposes without the user's permission unless we find it reasonably necessary in order to provide a service you have requested to you. For example, when signing on to a third party IM service, we will have to share your username and password with that service; when IM'ing a friend on another service, we will have to send your messages to that service; in order to comply with valid laws, regulations, or government requests; or to detect or prevent abuse such as spamming, harassment, fraud or security violations.
+If you order services or products directly from our company we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-**NON-PERSONALLY IDENTIFIABLE INFORMATION**
+Online Advertisements: Our company may display our online advertisements. In those cases we share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers.
 
-BigString will use certain non-personally identifiable information provided by users for the following purposes:
+Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display or send the advertisement to the intended audience. Our company does not share personal information about its Visitors or Members with these advertisers or joint venture companies.
 
-Create aggregate, non-personal, demographic reports about the users of the Service; and
+Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party.
 
-Provide users with certain content that may be of interest to that user based on the information the user provides.
+Voluntary Customer Surveys: We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary.
 
-**SERVICE PROVIDERS**
+We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
 
-We use other third parties to provide credit card processing on our site. When you sign up for a paid BigString email account, we will share your name, address, phone number and credit card information as necessary for the third party to provide that service. The credit card processor is prohibited from using any personally identifiable information for any other purpose than for payment processing.
+Promotions: Our company may offer polls, contests, sweepstakes, drawings, games, content, or other promotions that are sponsored by or cobranded with third parties. In certain instances, company may have to supply personally identifiable information of the winners to the third parties. Our company has no control over third parties' use of this information.
 
-**THIRD PARTY ADVERTISERS**
+You may be entered in a sweepstakes, contest, or other promotion, simply by making a purchase from us or by providing us with personally identifiable information for some other reason or purpose. When the winning entries are chosen, only the names and personally identifiable information of the winners are shared with the entity administering the sweepstakes or contest, so that they can notify the winners.
 
-The ads appearing on this Web site are delivered to users by our advertising partners. We share Web site usage information about users with these reputable third parties for the purpose of targeting our Internet advertisements on our sites.
+Special Cases: It is our company's policy not to use or share the personal information about Visitors of Members in ways unrelated to the ones described above without also providing you an opportunity to opt out or otherwise prohibit such unrelated uses.
 
-**PREMIUM SERVICES**
+However, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members.
 
-BigString may occasionally send you notifications of special promotions. These notices will be sent to your BigString account. At no time will BigString use your non-BigString account as methods of solicitation unless you OPT-IN to receive such messages from us. At any point, you may OPT-OUT by contacting us at [support@BigString.com](mailto:support@bigstring.com).
+Notice of Compliance to California Residents " _Your California Privacy Rights_ " under The California Online Privacy Protection Act and the California Business and Professions Code
 
-**INFORMATION AVAILABLE THROUGH USE OF THE SERVICE**
+This privacy policy identifies the categories of personally identifiable information that our company collects through our Web site or online service, about individual consumers who use or visit our company's commercial Web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information.
 
-The Service will enable users to send messages to other people (both users and non-users). Subject to all general security limitations inherent in communicating via the Internet, a message will not be generally accessible to users or others who are not intended recipients of the message. Please use the same discretion when sending messages through the Service as you would when sending ordinary electronic mail, instant messages, or any other electronic messages. Except as expressly described herein, BigString will not collect or maintain any information about the messages users send through the Service, including the addresses to whom messages are sent and the content of the messages.
+Our company does not maintain a process for an individual consumer who uses or visits our commercial Web site or online service to review and request changes to any of his or her personally identifiable information that is collected through our Web site or online service.
 
-**GENERAL USAGE PATTERNS**
+See the section below entitled "Revisions To This Policy" for a description of the process by which our company notifies consumers who use or visit our commercial Web site or online service of material changes to our company's privacy policy for this Web site or online service.
 
-BigString gathers information related generally to users' use of the software, Service, and sites including without limitation:
+The effective date of this privacy policy is listed at the end of this privacy policy under the heading, "Last updated."
 
-The number of messages that a user sends;
+For the purposes of this policy and California compliance the following definitions apply:
 
-The number of Messages that are read;
+Depending on the visitor's activity, in our commercial Web site or online service, the following "personally identifiable information" may be collected, in addition to information set forth in other sections of this document.
 
-What elements of the Service are most often used;
+The term "personally identifiable information" means individually identifiable information about an individual consumer collected online by our company from an individual and maintained by our company in an accessible form, and may include any of the following:
 
-User log-in dates and time; and Message size data.
+(1) A first and last name.  
+(2) A home or other physical address, including street name and name of a city or town.  
+(3) An e-mail address.  
+(4) A telephone number.  
+(5) A social security number.  
+(6) Any other identifier that permits the physical or online contacting of a specific individual.  
+(7) Information concerning a user that the Web site or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
 
-User log-in IP information
+Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, if any, and a description of the categories of personal information shared. To make such a request, please send an email to [privacy@privacyrequest.com](mailto:privacy@privacyrequest.com) and please include the phrase "California Privacy Request" in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
 
-This information, which will only be collected and maintained in aggregate, anonymous form, will be used to, among other things:
+"Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.
 
-Provide BigString with a better understanding of how users use the Service and the various features thereof;
+If you are a Visitor or Member we may use a cookie to save your settings and to provide customizable and personalized services. These cookies do not enable third parties to access any of your customer information. Additionally, be aware that if you visit other Web sites where you are prompted to log in or that are customizable, you may be required to accept cookies.
 
-Help BigString to create and provide new services and offerings to users; and
+Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
 
-Conduct and publish aggregate, anonymous, market research results.
+Our Company Commitment to Children's Privacy. Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
 
-**COMPUTER SETTINGS**
+YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.
 
-BigString collects settings, technical and other information from users' computers, such as a computer's operating system, BigString and browser versions used, connectivity, various communication parameters and other information related to the operation and interaction of the software, subject to the provisions herein. This information will neither contain nor be linked to any personally identifiable information.
+Public Forums: Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
 
-**ACCESS TO INFORMATION**
+Our Company's Commitment to Data Security: Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
 
-A user may review and update his/her information by accessing "Options" or "MY ACCOUNT" on the BigString Menu.
+Where to Direct Questions About Our Privacy Policy: If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
 
-**LEGAL DISCLOSURE OF INFORMATION**
+Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
 
-Notwithstanding anything to the contrary in this Agreement, BigString shall, pursuant to valid legal process such as a search warrant, subpoena or court order, allow access to all available and relevant information, including users' IP addresses, in order to comply with such valid legal process and to otherwise protect BigString's rights and property.
+Last updated: April 21, 2010
 
-**OTHER WEB SITES**
-
-The Service may contain links to other Web sites. BigString is not responsible for the privacy practices or the content of such Web sites.
-
-**COOKIES**
-
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We obtain the right to use cookies on this site. We do link the information we store in cookies to the personally identifiable you submit while on our site.
-
-We use session ID cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. If you reject cookies your ability to send messages will be limited.
-
-Some of our business partners (e.g. advertisers) use cookies on our site. We have no access to or control over these cookies. See "Third Party Advertisers."
-
-**Questions and Concerns**
-
-If you have questions or concerns regarding this statement, you should first contact BigString:
-
-**Adam Kotkin**  
-BigString Corporation   
-3 Harding Road, Suite E  
-Red Bank, NJ 07701   
-[adam@bigstring.com](https://web.archive.org/web/20091230221841id_/http%3A//peoplestring.com/adam@igstring.com)
-
-**AMENDMENTS TO PRIVACY STATEMENT**
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places that we deem, appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
-
-**Privacy Statement updated 07/08/2008**
+  
+Copyright © 2003-2010 [InternetMarketingLawProducts.com](http://www.internetmarketinglawproducts.com/) for Morebank Marketing LLC
