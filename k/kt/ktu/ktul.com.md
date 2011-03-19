@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117010730id_/http%3A//www.ktul.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktul.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319111853id_/http%3A//www.ktul.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - KTUL.com - Tulsa, Oklahoma - Coverage You Can Count On
 
