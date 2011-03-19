@@ -1,94 +1,51 @@
-> *The following text is extracted and transformed from the travelsort.com privacy policy that was archived on 2005-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050209111537id_/http%3A//travelnow.com/index.jsp%3FpageName%3Dprivacy%26cid%3D117409) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsort.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319030852id_/http%3A//travelsort.com/privacy-policy) for the most accurate reproduction.*
 
-# TravelSort.com -- infocenter
+# TravelSort
 
-THE SUMMARY  
-IAN.com is in the travel business, not the spying business. We will not ask you for information that does not have a purpose and we will not require information to be disclosed that is not absolutely necessary. We will not sell your personally identifiable information to others, however, if you accessed this website through a IAN.com Affiliate, your personally identifiable information (other than your credit card information) may be forwarded to that Affiliate. Whether you travel the Web or travel the world, IAN.com wants you to always be safe!  THE DETAILS  
-Your privacy is important to us.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.  This notice shall apply to all information IAN.com collects or is submitted by the user on the IAN.com website.  To make this notice easy to find; we make it available on our homepage and at every point where personally identifiable information may be requested.  Use of Customer Information  
-IAN.com is the sole owner of the information collected on this site.  We will not sell or rent this information to others in ways that differ from what is disclosed in this statement.  General Information \- What We Collect and Why  
+TravelSort Privacy Policy
 
+TravelSort has provided this Privacy Policy because we value your right to privacy. Please read it to learn more about the information TravelSort collects and how that information is used. By visiting the TravelSort Web site, you are accepting the Privacy Policy.
 
-  * IAN.com may include information about your visit in collective or aggregated data that does not identify you specifically. For example, we may tell our advertisers or investors the number of website visitors or the most popular vacation destinations.
-  * Our server recognizes domain names and the pages visited.  This data is gathered in an aggregate manner for quality control and improvement of our website.
-  * IAN.com does not market to children nor collect personal information about children at this website.
+TravelSort’s Privacy Policy covers TravelSort’s treatment of personal information that TravelSort gathers while you are on the TravelSort Web site and when you use TravelSort services. This Privacy Policy does not apply to the practices of third parties that TravelSort does not control, or to individuals not employed or managed by TravelSort.
 
-Individual Information \- What We Collect and Why  
+TravelSort’s goal in collecting personal information is to provide you with highly personalized, relevant travel advice, recommendations and exclusive deals. We only collect personal information that is relevant to this goal.
 
+TravelSort collects personally identifying information during the registration and profile creation process, including name, email, gender, location, travel preferences, etc. TravelSort also may collect and store additional preference information, for example via quizzes, surveys, feedback and emails, to improve its recommendations to users and for internal research purposes. TravelSort may also aggregate data across all users in order to determine and target demographics for marketing and advertising purposes.
 
-  * Your name, email address, physical address, phone and fax number, and credit card number, expiration date and billing address are necessary to ensure we are able to make and confirm your reservation. We do not share this personal information with outside parties except to the extent necessary to complete your reservation or product order.
-  * Your contact information is needed in order to notify you in the event of any processing difficulties or unforeseen circumstances fulfilling your reservation or product order.  In some cases, paper tickets may need to be mailed to you.  The more easily we can contact you, the better we can serve you.
-  * IAN.com will use the information you provide about yourself in order to make the IAN.com website as customer friendly as possible.  We want to know you to better serve you, but do not want to invade your life.  We may ask you for more information about your travel interests.  In the future this information may be used to help IAN.com make more applicable travel recommendations. However, this information will always be optional.
+We may use your personal information to periodically contact you with news or important information from TravelSort, to provide you with other information or invitations related to your membership or the TravelSort community, and to request your feedback on our site. In addition to these periodic updates, we may email you additional materials, but only if you specifically request them. These might include opt-in newsletters, alerts, and other materials that you proactively request from TravelSort.
 
-Newsletter \- What We Collect and Why  
+Your profile on TravelSort will be publicly viewable and identifiable via your screen name, consisting of your first name and the first initial of your last name. Your profile will include your travel and preference data, such as your favorite cities, types of hotels you prefer to stay in, etc. You may opt not to provide a complete profile, although this may prevent us from providing relevant travel recommendations to you and may make you ineligible for certain exclusive deals and promotions.
 
+TravelSort will not share your email address with any other members or third parties without your consent, nor display it any public manner. TravelSort may share aggregated user demographics and preference data for marketing and advertising purposes.
 
-  * Your email address ensures you receive the newsletter in a timely manner.
-  * Your name is optional and tells us who personally to address - just a nice touch.
-  * Although we do not want you to miss any great travel deals, you can unsubscribe to any IAN.com newsletter at anytime, by sending an email to [customers@ian.com](mailto:customers@ian.com). Please tell us the newsletter title and the email address you want removed.
+If you object to the uses listed above for any reason, you may cancel your TravelSort account by simply logging into your account and selecting “cancel my account.” We will send you an e-mail to confirm your request. After we receive confirmation, we will remove your profile information from our active database, but content that you have submitted to the site will remain, although it won’t be attributed to your name, and some of your profile information may remain in our archives.
 
-Surveys \- What We Collect and Why  
+If you do not register, then we will be unable to personalize your experience, you may not be able to use all site functions, and the information we collect from you is limited. We log your IP address in order to help diagnose problems with our server, administer our Web site and track usage statistics.
 
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our Web site are visited and by how many people.
 
-  * From time to time IAN.com conducts voluntary customer surveys, which may ask questions about broad background information and customer preferences.  This survey information is completely optional and you are under no obligation to be a part of any survey. The information IAN.com collects is used to better serve our customers by helping IAN.com determine our customer's travel needs and improve the satisfaction and use of this website.
-  * Participation in these surveys or contests is completely voluntary and  you therefore have  a choice whether or not to disclose this information.  Information requested may include demographic information including, but not limited to:  age, gender, approximate household income, how you travel, how you make your reservations, and why you travel.
-  * Your contact information may be required if a prize is to be awarded to survey respondents either at random or individually. This will enable us to contact you to notify you of details regarding your prize.
+If you register, we may store all or some of the information you provide us in a cookie file on your hard drive, so that our system will recognize you each time you visit our site. In that way, we can save your preferences from visit to visit and present you with a customized Web site, without requiring you to log into our site every time you visit.
 
-COOKIES  
-Cookies are small pieces of information stored on your computer tied to information about you. We use both session ID cookies and persistent cookies. For the session ID cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following the Web browser help file directions.
+If you don’t register with us, the cookies that we use contain no personally identifiable information that would allow us to identify you. Cookies cannot be used to read data off of your hard drive, and cannot retrieve information from any other cookies created by other Web sites. We use cookies to help us understand how visitors use our site, and to help us to improve our site.
 
-We use cookies to track usage of the Guest path and to serve advertisements through our advertising networks. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you reject the cookie, you may still use our website. The only drawback to this is that you will be limited in some areas of our website. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our website. 
+Information about our users and their travel preferences is crucial to our business of providing the personalized and relevant travel recommendations. We neither rent nor sell your personal information to anyone. We share your personal information only as follows:
 
-Usage of a cookie is in no way linked to any personally identifiable information while on our site. 
+Protection of TravelSort and others: We may release personal information when we believe in good faith that release is necessary to comply with a subpoena or other legal process; prevent a legal violation; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of TravelSort, our employees, our users, or others.
 
-Advertising  
-A cookie file may also be placed on your hard drive by our third-party advertising companies. These companies may use aggregated statistics about your visits to this and other websites in order to provide advertisements about travel-related goods and services that you may be interested in. The information they collect does not include your personally identifiable information.The third-party advertising companies may also employ technology that is used to measure the effectiveness of ads. This is primarily accomplished through the use of a Web beacon (a single-pixel GIF), which is placed on our site to collect anonymous information. They may use this anonymous information about your visits to this and other sites in order to provide advertisements about goods and services of potential interest to you. No personally identifiable information is collected during this process. The information is anonymous and does not link online actions to an identifiable person. If you would like more information and want to explore the option of not having this information collected by third-party advertisers, [click here](http://www.networkadvertising.org/).
+With your consent: Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.
 
-Log Files  
-We use IP addresses to analyze trends, administer the website, track users' movements, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information. 
+Your TravelSort account is protected by a password for your privacy and security. Please carefully protect your account credentials to prevent unauthorized access to your account.
 
-Affiliates  
-An Affiliate is a Web site not owned or operated by IAN.com, but uses IAN.com's booking capabilities for processing travel reservations.  The IAN.com name may or may not appear on the Affiliate site. 
+TravelSort provides links to other sites with valuable travel products, services and advice. We are not responsible for any content on these sites, or their privacy policies. Please consult these sites directly for any questions you may have about them.
 
-You may have accessed IAN.com via one of our Affiliate websites. Some of our Affiliates also use cookies on our site. However, we have no access to or control over these cookies, once we have given permission for them to set cookies. Please be aware that IAN.com is in no way responsible for the privacy practices of such other websites. We encourage you to read the privacy statement of the Affiliate and each and every website you visit that collects personally identifiable information. This Privacy Statement covers the use of cookies by this website only and does not cover the use of cookies by any of our Affiliates, advertisers or other business partners. 
+This Web site is a general audience site, and we do not knowingly collect information about children. No one under age 13 is allowed to use the site, provide any personal information or receive our emails. Minors between the ages of 13 and 17 must get the permission of their parent(s)or legal guardian(s) before viewing the TravelSort Web site or receiving emails.
 
-SHARING  
-Legal Disclaimer  
-Though we make every effort to preserve user privacy, we may be required by law to disclose information you have provided in obtaining our travel products or services. We may also disclose information against someone who poses a threat to our interests (such as customer fraud) or whose activities could bring harm to others. In addition, it may be necessary for us to provide customer information to third parties, such as credit card companies, for the purpose of resolving disputes that arise in the normal course of business. 
+If you wish to stop receiving emails from TravelSort, please click on the unsubscribe link in any TravelSort email. You will be shown a confirmation page; after you click on the confirm link you will be unsubscribed. You may also unsubscribe by emailing your request to [unsubscribe@travelsort.com](mailto:unsubscribe@travelsort.com)
 
-Third Party Intermediaries  
-IAN.com uses an outside a credit card processing company and bank check processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
+By visiting the TravelSort Web site, your visit and all privacy issues are subject to this Privacy Policy and TravelSort’s Terms of Use.
 
-This website makes use of a technology designed to enhance your browsing experience. The technology, provided as a hosted service application by Fireclick ®, makes use of a small and transparent Java applet to provide you with a faster browsing experience. In addition, aggregate reporting information is collected and made available to the website owner only. No personal or personally identifiable information is gathered or used for this process. 
+TravelSort reserves the right to change this Privacy Policy from time to time; updates will be posted to this page, together with the date of the most recent modification. Please note that if you continue to use TravelSort.com, this will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
-If for any reason you do not wish to have this technology enabled while browsing this site, please [click here](javascipt:fcDisableTracking\(\);). A cookie will be set on your browser that instructs the service not to start. If you have disabled the service and wish to reactivate it, please click here. Additional information on Fireclick's technology may be found at [www.fireclick.com](http://www.fireclick.com/). 
+If you have any questions or concerns about TravelSort’s Privacy Policy, please contact us at [privacy@travelsort.com](mailto:privacy@travelsort.com).
 
-Suppliers  
-IAN.com provides information about travel either reserved or purchased on this website to the suppliers whose will fulfill your travel reservation. Although we offers travel products from hotel, airline, car rental and other suppliers that are reputable companies, we have not placed limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the information privacy practices of any travel suppliers whose products you purchase on this website. In addition, these travel suppliers may also contact you as necessary to obtain additional information about your confirmed reservation. 
-
-IAN.com will occasionally share aggregated information with our service providers. This information does not contain any personally identifiable information and is used to develop featured programs and content that will be of interest to our website visitors. 
-
-IAN.com may contract with a reputable third-party to facilitate the distribution of survey, promotion, or sweepstakes programs. Upon completion of these projects, all information is returned to us. 
-
-Affiliates  
-If you access our website through one of our Affiliates and make travel reservations, your personally identifiable information (other than credit card information) may be forwarded to that particular Affiliate. 
-
-Aggregate Information (non-personally identifiable information)  
-IAN.com will share aggregated demographic information with our Affiliates and advertisers. 
-
-Links  
-This site may contain links to other sites. Please be aware that IAN.com is in no way responsible for the privacy practices of such other sites.  We encourage our customers to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.  This privacy statement applies solely to information collected by the IAN.com website.  NOTIFICATION OF CHANGES  
-If IAN.com decides to change its Privacy Statement, we will post those changes this Privacy Statement so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of email. You will have a choice as to whether or not we use your information in this different manner.  CORRECTING/UPDATING PERSONAL INFORMATION  
-If a user's personally identifiable information (such as zip code, phone, email or postal address) changes or if a user no longer desires our service, we provide a way to correct or update a user's personally identifiable information. Users can all email our Customer Support at [Customer Care](mailto:customers@ian.com) or contact us by telephone or postal mail at the contact information listed below.  CONTACT INFORMATION
-
-If users have any questions or suggestions regarding our Privacy Statement, please contact us at: 
-
-Email [Customer Care](mailto:customers@ian.com)
-
-| Postal Address: |    
----|---  
-  | 10440 North Central Expressway  
-Suite 400  
-Dallas, Texas 75231  
-USA   
-  
-This Privacy Statement is effective as of July 22, 2004 
+Last modified: September 2, 2010
