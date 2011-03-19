@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagehousing.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004206id_/http%3A//www.imagehousing.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagehousing.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319120058id_/http%3A//www.imagehousing.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of the ImageHousing.com
 
@@ -30,7 +30,7 @@ All images are legally created either from open source on the Internet or custom
 
 Copyright Infringement
 
-Some images we have on the site are images sent by our users, photographers, artists and contributors, if you find a photo of yourself or image that you created and would like it to be taken off, please use the [contact form](https://web.archive.org/web/20100102004206id_/http%3A//www.imagehousing.com/contact_us.php) and give us a detailed explanation and we will be more than happy to take your image off.
+Some images we have on the site are images sent by our users, photographers, artists and contributors, if you find a photo of yourself or image that you created and would like it to be taken off, please use the [contact form](https://web.archive.org/web/20110319120058id_/http%3A//www.imagehousing.com/contact_us.php) and give us a detailed explanation and we will be more than happy to take your image off.
 
 We do our best to avoid copyrighted material.
 
@@ -38,4 +38,4 @@ Users of this site agree to be bound by the following Terms and Conditions
 
 The images are the copyright of their respective owners. You must own the copyright or have permission from the copyright holder for any images you upload to this website.
 
-Any images found to break our terms and conditions will be removed without no warning. ImageHousing.com provides no warranty or guarantee of the service and assume no liability that may be incurred as a result of your use of this service. To report any type of abuse, use our [contact us](https://web.archive.org/web/20100102004206id_/http%3A//www.imagehousing.com/contact_us.php) page.
+Any images found to break our terms and conditions will be removed without no warning. ImageHousing.com provides no warranty or guarantee of the service and assume no liability that may be incurred as a result of your use of this service. To report any type of abuse, use our [contact us](https://web.archive.org/web/20110319120058id_/http%3A//www.imagehousing.com/contact_us.php) page.
