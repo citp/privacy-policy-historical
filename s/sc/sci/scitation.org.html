@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scitation.org privacy policy that was archived on 2008-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221105443id_/http%3A//www.aip.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scitation.org privacy policy that was archived on 2011-03-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110319212032id_/http%3A//www.aip.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/generic.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -34,91 +34,122 @@ if (BrowserDetect.browser=="Explorer" && BrowserDetect.version=="7") {
 <link rel="alternate stylesheet" type="text/css" href="http://www.aip.org/css/small.css" title="A">
 <link rel="alternate stylesheet" type="text/css" href="http://www.aip.org/css/x-small.css" title="A-">
 <link rel="alternate stylesheet" type="text/css" href="http://www.aip.org/css/xx-small.css" title="A--">
-
+<link rel="stylesheet" type="text/css" media="print" href="http://www.aip.org/css/print.css">
 <script language="JavaScript1.2" src="http://www.aip.org/js/styleswitcher.js" type="text/javascript">
 </script>
-<div id="header"><span style="float: left; width: 355px;"><a href="http://www.aip.org"><img src="http://www.aip.org/images/logo_aip.gif" alt="American Institute of Physics" border="0"></a></span>
-</div>
-<script src="http://www.aip.org/js/nav.js" language="JavaScript" type="text/javascript"></script>
+<div id="header"><a href="http://www.aip.org"><img src="http://www.aip.org/images/masthead_AIP940.jpg" alt="American Institute of Physics" width="940" height="70" border="0"></a></div>
+
+<script type="text/javascript" src="http://www.aip.org/js/jquery/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://www.aip.org/js/jquery/js/jquery-ui-1.7.1.custom.min.js"></script>
+<script type="text/javascript">
+<!--
+			$(function(){
+				// Tabs
+				$('#tabs').tabs();
+				$('a').click(function(){
+			var ourText = $('#mainContent');
+			var currFontSize = ourText.css('fontSize');
+			var finalNum = parseFloat(currFontSize, 10);
+			var stringEnding = currFontSize.slice(-2);
+			if(this.id == 'large') {
+				finalNum *= 1.2;
+			}
+			else if (this.id == 'small'){
+				finalNum /=1.2;
+			}
+			ourText.css('fontSize', finalNum + stringEnding);
+		});
+			});
+			
+var timeout  = 500;
+var closetimer = 0;
+var ddmenuitem = 0;
+
+function jsddm_open()
+{ jsddm_canceltimer();
+  jsddm_close();
+  ddmenuitem = $(this).find('ul').css('visibility', 'visible');}
+
+function jsddm_close()
+{ if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
+
+function jsddm_timer()
+{ closetimer = window.setTimeout(jsddm_close, timeout);}
+
+function jsddm_canceltimer()
+{ if(closetimer)
+  { window.clearTimeout(closetimer);
+   closetimer = null;}}
+
+$(document).ready(function()
+{ $('#jsddm > li').bind('mouseover', jsddm_open)
+  $('#jsddm > li').bind('mouseout', jsddm_timer)});
+
+document.onclick = jsddm_close;
+-->	
+		</script>
+
 <div id="masthead">
-<div id="top_nav">
-<div id="mainMenu"> 
-  <table align="right" cellpadding="0" cellspacing="0" style="width: 499px; z-index: 200;">
-    <tbody><tr> 
-	<td width="97"><div id="myLabel4" onmouseover="aipFunc_1(); return !gnuFunc_1('4', event, 'myLabel4');" onmouseout="aipFunc_2();"><a href="http://www.aip.org/aip/">About AIP</a></div>
-        <div id="myMenu4" onmouseover="event.cancelBubble = true;"> 
-          <ul onmouseover="aipFunc_1();" onmouseout="aipFunc_2();">
-                  <li><a href="http://www.aip.org/aip/societies.html" class="MenuItem">Member Societies</a></li>
-				  <li><a href="http://www.aip.org/aip/governance.html" class="MenuItem">Governance</a></li>
-				  <li><a href="http://www.aip.org/aip/news.html" class="MenuItem">News</a></li>
-                  <li><a href="http://www.aip.org/aip/awards/index.html" class="MenuItem">Awards &amp; Prizes</a></li>
-                  
-                  <li><a href="http://www.aip.org/aip/employment/" class="MenuItem">Jobs at AIP</a></li>
-				  <li><a href="http://www.aip.org/aip/contactus.jsp" class="MenuItem">Contact Us</a></li>
-              </ul>
-        </div></td>
-		
-      <td width="128"><div id="myLabel1" onmouseover="aipFunc_1(); return !gnuFunc_1('1', event, 'myLabel1');" onmouseout="aipFunc_2();"><a href="http://www.aip.org/pubs/">Publications</a></div>
-        <div id="myMenu1" onmouseover="event.cancelBubble = true;"> 
-          <ul onmouseover="aipFunc_1();" onmouseout="aipFunc_2();">
-                  <!--<li><a href="http://journals.aip.org" class="MenuItem">AIP Journals</a></li>-->
-				  <li><a href="http://journals.aip.org" class="MenuItem">AIP Journals</a></li>
-                  <li><a href="http://www.aip.org/pubs/magazines.html" class="MenuItem">Magazines</a></li>
-				  <li><a href="http://proceedings.aip.org/proceedings" class="MenuItem">Conference Proceedings</a></li>
-                  <li><a href="http://www.scitation.org" class="MenuItem">Scitation®</a></li>
-				  <li><a href="http://librarians.aip.org" class="MenuItem">Librarians</a></li>
-				  <li><a href="http://www.aip.org/pubservs/authserv.html" class="MenuItem">Authors</a></li>
-				  <li><a href="http://www.aip.org/pubs/advertising.html" class="MenuItem">Advertisers</a></li>
-              </ul>
-        </div></td>
-		
-		<td width="120"><div id="myLabel3" onmouseover="aipFunc_1(); return !gnuFunc_1('3', event, 'myLabel3');" onmouseout="aipFunc_2();"><a href="http://www.aip.org/resources.html">Physics Resources</a></div>
-        <div id="myMenu3" onmouseover="event.cancelBubble = true;"> 
-          <ul onmouseover="aipFunc_1();" onmouseout="aipFunc_2();">
-                  <li><a href="http://www.physicstoday.org/jobs/" class="MenuItem">Jobs</a></li>
-				  <li><a href="http://www.aip.org/statistics/" class="MenuItem">Statistical Research</a></li>
-				  <li><a href="http://www.aip.org/news/" class="MenuItem">Science News</a></li>
-				  <li><a href="http://www.aip.org/gov/" class="MenuItem">Public Policy</a></li>
-                  <li><a href="http://www.aip.org/history/" class="MenuItem">History</a></li>
-				  <li><a href="http://www.aip.org/education/" class="MenuItem">Physics Education</a></li>
-				  <li><a href="http://www.aip.org/ca/" class="MenuItem">Industrial Outreach</a></li>
-                  
-                  
-                  
-				  
-              </ul>
-        </div></td>
-		
-      <td width="154"><div id="myLabel2" onmouseover="aipFunc_1(); return !gnuFunc_1('2', event, 'myLabel2');" onmouseout="aipFunc_2();"><a href="http://www.aip.org/services/">Services for Societies</a></div>
-        <div id="myMenu2" onmouseover="event.cancelBubble = true;"> 
-          <ul onmouseover="aipFunc_1();" onmouseout="aipFunc_2();">
-                  <li><a href="http://www.aip.org/publishingservices/" class="MenuItem">Publishing</a></li>
-				  <li><a href="http://www.aip.org/services/data_manage.html">Membership Data Management</a>
-                  </li><li><a href="http://www.aip.org/services/exhibits.html" class="MenuItem">Meeting Services</a></li>
-				  <li><a href="http://www.aip.org/services/careernetwork.html" class="MenuItem">Career Network</a></li>
-              </ul>
-        </div></td>
-
-    </tr>
-  </tbody></table>
-</div>
-</div>
-
-<span id="search_form">
+<div id="search_form">
 <!-- Google CSE Search Box Begins -->
 <form id="searchbox_004445072414534619134:vptvposetya" action="http://www.aip.org/aip/search_results.html">
-<span style="color: #FFFFFF;">SEARCH AIP</span><br>
   <input type="hidden" name="cx" value="004445072414534619134:vptvposetya">
-  <input name="q" type="text" size="18">
+  <input name="q" type="text" size="20">
   <input type="hidden" name="cof" value="FORID:11">
   <input type="image" src="http://www.aip.org/images/search_go.gif" value="submit" alt="submit" name="sa" id="sa">
  
 <!--<img src="http://www.aip.org/images/search_google.gif" alt="powered by Google" width="62" height="30" align="absmiddle" />-->
 </form>
 <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_004445072414534619134%3Avptvposetya"></script>
-<!-- Google CSE Search Box Ends --></span>
+<!-- Google CSE Search Box Ends --></div>
+<ul id="jsddm">
+	
+  <li><a href="http://www.aip.org/aip/" class="">About AIP</a>    
+	 <ul>
+      <li><a href="http://www.aip.org/aip/societies.html" class="MenuItem">Member Societies</a></li>
+	    <li><a href="http://www.aip.org/aip/governance.html" class="MenuItem">Governance</a></li>
+	    <li><a href="http://www.aip.org/aip/news.html" class="MenuItem">News</a></li>
+        <li><a href="http://www.aip.org/aip/awards/index.html" class="MenuItem">Awards &amp; Prizes</a></li>
+                  
+        <li><a href="http://www.aip.org/aip/employment/" class="MenuItem">Jobs at AIP</a></li>
+	    <li><a href="http://www.aip.org/aip/contactus.jsp" class="MenuItem">Contact Us</a></li>
+	  </ul>
+  </li>
+  
+  <li><a href="http://www.aip.org/pubs/">Publications</a> 
+    <ul>
+      <li><a href="http://journals.aip.org/" class="MenuItem">AIP Journals</a></li>
+        <li><a href="http://www.aip.org/pubs/magazines.html" class="MenuItem">Magazines</a></li>
+	    <li><a href="http://proceedings.aip.org/proceedings" class="MenuItem">Conference Proceedings</a></li>
+                  <li><a href="http://www.scitation.org" class="MenuItem">Scitation®</a></li>
+				  <li><a href="http://librarians.aip.org" class="MenuItem">Librarians</a></li>
+	    <li><a href="http://www.aip.org/pubservs/authserv.html" class="MenuItem">Authors</a></li>
+	    <li><a href="http://www.aip.org/pubs/advertising.html" class="MenuItem">Advertisers</a></li>
+	  </ul>
+  </li>
+  
+  <li><a href="http://www.aip.org/resources.html" class="">Physics Resources</a>  
+    <ul>
+      <li><a href="http://www.physicstoday.org/jobs/" class="MenuItem">Jobs</a></li>
+				  <li><a href="http://www.aip.org/statistics/" class="MenuItem">Statistical Research</a></li>
+	    <li><a href="http://www.aip.org/news/" class="MenuItem">Science News</a></li>
+	    <li><a href="http://www.aip.org/gov/" class="MenuItem">Public Policy</a></li>
+        <li><a href="http://www.aip.org/history/" class="MenuItem">History</a></li>
+	    <li><a href="http://www.aip.org/education/" class="MenuItem">Physics Education</a></li>
+	    <li><a href="http://www.aip.org/industry/" class="MenuItem">Industrial Outreach</a></li>
+    </ul>
+  </li>
+  
+  <li><a href="http://www.aip.org/services/" class="">Services for Societies</a>  
+   <ul>
+      <li><a href="http://partners.aip.org/" class="MenuItem">Partnerships</a></li>
+				  <li><a href="http://www.aip.org/services/data_manage.html">Membership Data Management</a>                  </li>
+	    <li><a href="http://www.aip.org/services/exhibits.html" class="MenuItem">Meeting Services</a></li>
+	    <li><a href="/services/careernetwork.html" class="MenuItem">Career Network</a></li>
+    </ul>
+  </li>
+</ul>
 </div>
-<div class="spacer">&nbsp;</div>
 
 <div id="pg_body">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -139,12 +170,15 @@ if (BrowserDetect.browser=="Explorer" && BrowserDetect.version=="7") {
 <li><img src="/images/sm_arrow.gif" alt=""> <a href="/aip/presentation.html">Watch <em>75 Years That Matter</em></a></li>
 </ul>
 
+<!-- <p style="text-align: center; margin-top: 25px;"><a href="/aip/awards/gemawd.html"><img src="/images/gemant_sub.jpg" alt="Call for Nominations - AIP Andrew W. Gemant Award" border="0" /></a></p> -->
+
       <!-- InstanceEndEditable --> 
       <br>
 <br>
 	<div id="ptcover">
-<a href="http://www.physicstoday.org"><img src="http://www.aip.org/images/cover_pt.jpg" alt="Physics Today cover" border="0"></a><br>
-  <a href="http://www.physicstoday.org">Current issue </a>
+<!--<a href="http://www.physicstoday.org"><img src="/images/cover_pt.jpg" alt="Physics Today cover" border="0" /></a><br />
+  <a href="http://www.physicstoday.org">Current issue </a>-->
+  <script src="http://www.aip.org/js/jrnl_ad_rotation.js"></script>
 </div>
 <div style="width:190;">&nbsp;</div>
 </td>
