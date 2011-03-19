@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lifelocalized.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819131650id_/http%3A//www.lifelocalized.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifelocalized.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320004858id_/http%3A//www.lifelocalized.com/privacy.php) for the most accurate reproduction.*
 
-# Lifestyle in Your City | LifeLocalized.com
-
-## **Life Localized Privacy Policy** ****
+# LifeLocalized.com
 
   
 This Privacy Policy governs your use of this Website and any content, products or services made available from or through this website including any sub domains thereof ("Website"). The Website is made available by Yellowhammer Media, LLC (Hereinafter referred to as "Company").   
