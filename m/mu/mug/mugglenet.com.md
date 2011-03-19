@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328022827id_/http%3A//www.mugglenet.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mugglenet.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319090034id_/http%3A//www.mugglenet.com/privacy.shtml) for the most accurate reproduction.*
 
 # MuggleNet | Privacy Policy
 
   
 
-
-## Privacy Policy
 
 **Your Privacy**  
 We respect your privacy. We will never give out your email without your permission. Click [here](http://www.mugglenet.com/feedback/) to go to the feedback form to contact us. 
