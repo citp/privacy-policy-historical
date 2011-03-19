@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the skyscraperlife.com privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306035631id_/http%3A//www.skyscraperlife.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscraperlife.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319233619id_/http%3A//www.skyscraperlife.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - SkyScraperLife
+# SkyScraperLife - Privacy Policy
 
-  * SkyScraperLife.Com recognizes that you care about the personal information that is held about you and how that is used.
-  * This privacy policy applies to all personal data, submitted by you, to the SkyScraperLife.Com web site.
-  * By registering to SkyScraperLife.Com you need to submit a chosen name and contact information, more specifically an e-mail address. No extremely personal information, such as Social Security or Credit Card numbers are stored by us.
-  * SkyScraperLife.Com also stores and reads cookies to and from your computer. Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our forums and general website features to recognize your browser for when you return to this web site. By using this website, you agree that both the webserver, and any trusted 3rd party we chose, such as advertising networks, may place a tracking cookie on your machine and access it at any time during your session. In general, cookies are safe and are not a security issue when being used from 'trusted' internet sites, such as SkyScraperLife.Com. For information on how to manage cookies in your browser, please visit [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=2)
-  * SkyScraperLife.Com will not sell, transmit or distribute any data held without your prior permission or consent.
-  * All other information provided by you goes into a "public profile" and is entirely optional, all information held in that profile is held there at your own risk. This info is edited via your Control Panel in the forums.
-  * You have a legal right for the personal information held at SkyScraperLife.Com to be updated if it is incorrect or deleted if you choose. Most of this can be done through your Control Panel in the forums. If you are having issues with this, please contact us if you need help.
-  * SkyScraperLife.Com will take all reasonable effort to ensure that all personal information about you submitted is maintained secure on our server. However, we make no warranty to this.
-  * This site is intended for individuals over the age of 13. Any information collected is intended to be of individuals over the age of 13. According to [COPPA](http://www.ftc.gov/coppa/index.html), our site does NOT cater to children. "Operators of commercial websites or online services directed to children under 13 that collect personal information from children" require a COPPA agreement and privacy policy. Since we do not cater to this age group, no COPPA exists on SkyScraperLife.Com
-  * www.skyscraperlife.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
-  * Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
-  * These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.skyscraperlife.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-  * www.skyscraperlife.com has no access to or control over these cookies that are used by third-party advertisers.
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.skyscraperlife.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-  * If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
-  * This Privacy Policy may be modified at any time without notice. It is your responsibility to check this page for updates or changes. If you have any questions regarding your privacy, then [Contact Us](https://web.archive.org/sendmessage.php)
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster@skyscraperlife.com.  
+At SkyScraperLife, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.skyscraperlife.com and how it is used.  
+Log Files  
+Like many other Web sites, http://www.skyscraperlife.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.  
+Cookies and Web Beacons  
+http://www.skyscraperlife.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.   
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on http://www.skyscraperlife.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to http://www.skyscraperlife.com and other sites on the Internet   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [ http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html)  
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense
 
-
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.skyscraperlife.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
+SkyScraperLife has no access to or control over these cookies that are used by third-party advertisers.  
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.skyscraperlife.com privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
