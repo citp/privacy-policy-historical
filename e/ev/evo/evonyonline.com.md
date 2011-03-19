@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evonyonline.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224061549id_/http%3A//www.evony.com/index.do%3FPageModule%3DStatic%26type%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evonyonline.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319203140id_/http%3A//www.evony.com/index.do%3FPageModule%3DStatic%26type%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Evony-Free forever
 
