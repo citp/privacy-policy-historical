@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksgolf-ireland.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401092841id_/http%3A//www.linksgolf-ireland.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksgolf-ireland.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320004717id_/http%3A//www.linksgolf-ireland.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Links Golf Ireland | A member of the Emerald Elite Limited Group
 
