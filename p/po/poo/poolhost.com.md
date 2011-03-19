@@ -1,26 +1,103 @@
-> *The following text is extracted and transformed from the poolhost.com privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306235041id_/http%3A//www.poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolhost.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319094726id_/http%3A//poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.*
 
 # Manage NFL Pro Football, March Madness, College Bowl Office Pools for free - PoolHost.com
 
 **Privacy Statement**
 
-PoolHost.com collects some personal information during the registration process. This information is NOT shared with any individual or company that is not associated or affiliated with PoolHost.com. PoolHost.com does NOT sell or trade e-mail addresses to any organizations and does NOT make such information available to companies that send SPAM.
+**What information do we collect?**
 
-So why do we collect personal information?  We collect demographic info during registration from users to get site wide data that can be helpful in securing sponsorship for our site.  Sponsors help us cover costs so we can provide our service for free.  We only share the site wide data about our user base as a whole like the percentage of male to female, average age groups, etc.  We never share personal data for individual users which means your email address and any data specific to you stays PRIVATE.
+We collect information from you when you register on our site, place an order or respond to a survey. 
 
-Users have the option of making their e-mail addresses available to be seen by other system users. In choosing to do so, this information may become available to visitors of PoolHost.com, especially in the case of members of Public Pools. Users who make this information visible and who only participate in Private Pools will be making this information available only to members of the Private Pools they are in.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+**What do we use your information for?**
 
-CPX Interactive: <http://www.cpxinteractive.com/privacy_policy.htm>  
-Advertising.com: <http://www.advertising.com/abt_privacy.php>  
-24/7 Real Media: <http://www.247realmedia.com/privacy.html>
+Any of the information we collect from you may be used in one of the following ways: 
 
-Sensitive data for online transactions collected directly on our site is NOT kept in our servers.  It is only used to execute the transaction and then discarded.  We do this to protect your privacy.  In the unlikely event that we suffer a security breach, we will not have any of your sensitive transaction data in our database.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-PoolHost.com reserves the right to change this policy at any time. Should this policy change in such a way as to make some information available outside of PoolHost.com, users would be notified and allowed to opt out of such information sharing first.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-[Home](https://web.archive.org/web/20100306235041id_/http%3A//www.poolhost.com/index.asp?page=welcome.asp) - [Contact PoolHost.com](https://web.archive.org/web/20100306235041id_/http%3A//www.poolhost.com/index.asp?page=contact.asp) - [Help](https://web.archive.org/web/20100306235041id_/http%3A//www.poolhost.com/index.asp?page=help.asp) - [Links](https://web.archive.org/web/20100306235041id_/http%3A//www.poolhost.com/index.asp?page=links.asp) - [Privacy Statement](https://web.archive.org/web/20100306235041id_/http%3A//www.poolhost.com/index.asp?page=privacy.asp) - [Terms of Use](https://web.archive.org/web/20100306235041id_/http%3A//www.poolhost.com/index.asp?page=tos.asp) - [Menu List](https://web.archive.org/web/20100306235041id_/http%3A//www.poolhost.com/index.asp?page=menulist.asp)| copyright - © 2002-2010 PoolHost.com Inc. - All rights reserved.  
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+• To process transactions
+
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+• To administer a contest, promotion, survey or other site feature
+
+• To send periodic emails
+
+> The email address you provide when you register will only be used to send you information and updates pertaining to your account including sending your account password when you register or use our forgotten password retreival system.
+
+You may receive emails from our site that include company news, updates, related product or service information, etc.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order.
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit card, billing address, etc.) will not be stored on our servers.
+
+ **Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into out site and visiting the 'Edit User Info' page.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.poolhost.com/index.asp?page=tos.asp>
+
+**Your Consent**
+
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 3/21/2010
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+12340 Seal Beach Blvd., B148  
+Seal Beach, CA 90740  
+USA  
+admin@poolhost.com  
+
+
+[Home](https://web.archive.org/web/20110319094726id_/http%3A//poolhost.com/index.asp?page=welcome.asp) - [Contact PoolHost.com](https://web.archive.org/web/20110319094726id_/http%3A//poolhost.com/index.asp?page=contact.asp) - [Help](https://web.archive.org/web/20110319094726id_/http%3A//poolhost.com/index.asp?page=help.asp) - [Links](https://web.archive.org/web/20110319094726id_/http%3A//poolhost.com/index.asp?page=links.asp) - [Blog](https://web.archive.org/blog) - [Privacy Statement](https://web.archive.org/web/20110319094726id_/http%3A//poolhost.com/index.asp?page=privacy.asp) - [Terms of Use](https://web.archive.org/web/20110319094726id_/http%3A//poolhost.com/index.asp?page=tos.asp) - [Menu List](https://web.archive.org/web/20110319094726id_/http%3A//poolhost.com/index.asp?page=menulist.asp)| copyright - © 2002-2011 PoolHost.com Inc. - All rights reserved.  
 FOR ENTERTAINMENT USE ONLY  
 ---  
-Server 2 - Switching OFF
+Server 0 - Switching OFF 
