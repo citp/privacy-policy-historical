@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randstad.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001185950id_/http%3A//www.randstad.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randstad.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319205118id_/http%3A//www.randstad.com/privacy-statement) for the most accurate reproduction.*
 
 # privacy statement
 
@@ -6,7 +6,7 @@
 
 ### 1\. General 
 
-Randstad Holding NV ( [click here for contact details ](https://web.archive.org/contact-us.html)) - as a data controller (verantwoordelijke) - pursuant to the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens) sets out in this Privacy Statement for which purposes your personal data are used and by which organization(s).   
+Randstad Holding NV ( [click here for contact details ](https://web.archive.org/contact-us)) - as a data controller (verantwoordelijke) - pursuant to the Dutch Personal Data Protection Act (Wet bescherming persoonsgegevens) sets out in this Privacy Statement for which purposes your personal data are used and by which organization(s).   
 Any changes to this Privacy Statement will be notified to you on the website homepage and will be included in the updated Privacy Statement. We at Randstad Holding NV are committed to respecting your privacy. We have structured our website so that, in general, you can visit this website without identifying yourself or revealing any personal information. We do, however, use cookies. More information on cookies can be found below. 
 
 ### 2. Two ways of applying for a job 
@@ -22,9 +22,8 @@ As mentioned on the list some of these Companies are located outside the Europea
 
 A cookie is a piece of text which is placed on your computer's hard drive. Your browser adds that text in a small file. In this file various information can be stored, from pages visited on the site, to information voluntarily given to the site. When you revisit the site days or weeks later, the site can recognize you by matching the cookie on your computer with the counterpart in its database. 
 
-We only use cookies for users who have been re-directed to [www.randstad.com](http://www.randstad.com/) from [www.us.randstad.com](http://www.us.randstad.com/). Any users that has been mistakenly re-directed to [www.us.randstad.com](http://www.us.randstad.com/) will have a cookie placed onto the their hard drive, which identifies the user as coming from a US IP address but wanting to visit [www.randstad.com](http://www.randstad.com/) and not [www.us.randstad.com](http://www.us.randstad.com/).
+We only use cookies for users who have been re-directed to [www.randstad.com](https://web.archive.org/) from [www.us.randstad.com](http://www.us.randstad.com/). Any users that has been mistakenly re-directed to [www.us.randstad.com](http://www.us.randstad.com/) will have a cookie placed onto the their hard drive, which identifies the user as coming from a US IP address but wanting to visit [www.randstad.com](https://web.archive.org/) and not [www.us.randstad.com](http://www.us.randstad.com/).
 
 ### 4\. Security 
 
-We at Randstad Holding NV are committed to ensuring that the information you provided on our website is secure. We have therefore implemented appropriate technical and organizational measures to secure your personal data against loss and any form of unlawful processing. We have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect on line.   
-
+We at Randstad Holding NV are committed to ensuring that the information you provided on our website is secure. We have therefore implemented appropriate technical and organizational measures to secure your personal data against loss and any form of unlawful processing. We have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect on line. 
