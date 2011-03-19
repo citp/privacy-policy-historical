@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giftcardrescue.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225060952id_/http%3A//www.giftcardrescue.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftcardrescue.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320002043id_/http%3A//www.giftcardrescue.com/pages/privacy) for the most accurate reproduction.*
 
-# Discount Gift Cards Up to 30% - Buy, Sell, Gift Card Exchange
+# GiftCardRescue – Buy Gift Cards, Sell, Swap, Online, Gift Card Exchange
 
 Thank you for choosing Giftcardrescue.com. We would like you to know that your privacy is extremely important to us. Therefore we ensure that information, gathered and stored in our database will be kept confidential and will not be shared with any outside sources, without your knowledge and given permission.
 
