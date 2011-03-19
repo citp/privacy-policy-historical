@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeteye.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123213437id_/http%3A//www.jeteye.com/about/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeteye.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319033229id_/http%3A//www.jeteye.com/about/policy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Jeteye
 
