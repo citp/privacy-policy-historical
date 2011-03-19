@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905184428id_/http%3A//www.media-match.com/usa/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media-match.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319194723id_/http%3A//www.media-match.com/usa/privacy.php) for the most accurate reproduction.*
 
-# Directory Of Film And Tv Jobs In The Usa Updated Daily | Register Online Profile | Post Jobs | Www.media-match.com
+# Directory Of Film And TV Jobs In The US Updated Daily | Register Online Profile | Post Jobs | Media Match
 
 We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. It describes how we treat personal information when you use our services and how you can manage the communication we have with you.
 
