@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221121314id_/http%3A//www.chamberlain.edu/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.edu privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319173925id_/http%3A//www.chamberlain.edu/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Chamberlain College of Nursing
 
