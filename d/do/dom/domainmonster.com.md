@@ -1,54 +1,83 @@
-> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308131641id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainmonster.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319094548id_/http%3A//www.domainmonster.com/privacy) for the most accurate reproduction.*
 
-# Domain Name Registration - Bulk Discount Domain Names & .Tel Domain Name Registration Services
+# Domains - .GR.COM Domain Names - .SO Domain Registration - Domainmonster.com
 
 ## Mesh Digital Ltd - Privacy Policy
 
-Mesh Digital Ltd. (“we” or Mesh”) have created this privacy policy to demonstrate our commitment in protecting personal information/data and providing you with information about how we handle it.
+Mesh Digital Ltd. ("We" or "Mesh") have created this privacy policy to demonstrate Our commitment in protecting personal information/data and providing You with information about how We handle it. We are the data controller for the purposes of the Data Protection Act 1998 ("Act").
 
-This privacy policy applies to activities and transactions in which you engage, and data gathered, on the domainmonster.com websites, and all email communications between Mesh Digital Ltd (collectively, the "Site"). Please review this privacy policy regularly as we may modify it from time to time. This privacy policy was last revised on 4th May, 2005. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time.
+This policy (together with Our [terms and conditions of use](https://web.archive.org/terms/ "Terms & Conditions") and any other documents referred to in it) sets out the basis on which any personal data We collect from You, or that You provide to Us, will be processed by Us. Please read the following carefully to understand Our views and practices regarding Your personal data and how We will treat it.
 
-**Your IP address and demographic information**
+### Information We Collect From You
 
-Like most websites, each time you visit the Site, we may automatically collect your IP address and other broad demographic information. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you specifically in some cases and to gather broad demographic information about you.
+We may collect and process the following information about You:
 
-**Cookies**
+  * Information that You provide by filling in forms on Our Site ("Site"). This includes information provided at the time of registering to use the Site (i.e. information that could be used to contact You directly such as full name, postal address, phone number or email address) or requesting further services.
+  * If You contact Us, We may keep a record of that correspondence.
+  * Details of any transactions You carry out through Our Site and of the fulfilment of Your orders.
+  * Financial information (i.e. credit card numbers or passwords).
+  * Demographic information which may include, but is not limited to, post/zip code, home town, gender, username, age/birth date, purchase history information, browsing history information, searching history information, registration history information, and the content of communications between You and the Site.
 
-Like most Websites, the Site may use cookies to keep track of your activity and any transactions on the Site and to enhance your experience on the Site. We may also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to re-enter it each time you visit the Site. Third party advertisers and partners on the Site may also place or read cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas on the Site and may have a restricted experience. We strongly recommend you allow cookies.
 
-**Information We Collect From You**
 
-In order to operate the Site and to provide you with information about products or services that may be of interest to you, we may collect "personal information" (i.e. information that could be used to contact you directly (without using the Site) such as full name, postal address, phone number or email address), "financial information" (i.e. credit card numbers or passwords) or "demographic information" (i.e. information that you submit, or that we collect, that is neither personal information nor financial information; this may include, but is not limited to, post/zip code, postal code, home town, gender, username, age/birth date, purchase history information, browsing history information, searching history information, registration history information, and the content of communications between you and the Site.
+### Your IP Address and Demographic Information
 
-**Information Other Websites Collect From You**
+We may collect information about Your computer, including where available Your IP address, operating system and browser type and other broad demographic information, for system administration. In order to administer and optimize the Site for You and to diagnose problems with Our Site, We use Your IP address to help identify You specifically in some cases and to gather broad demographic information about You.
 
-On the Site, we may place links to other Websites operated by other parties. Some of these other Websites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other Websites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other Websites or these other Websites’ business practices, and that this privacy policy does not apply to these other Websites. Consequently, the operators of these other Websites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.
+### Cookies
 
-**How We Use Personal Information**
+We may use cookies, which are stored on the hard drive of Your computer, to keep track of Your activity and any transactions on the Site and to enhance Your experience on the Site. We may also use cookies to deliver content specific to Your interests, to save Your passwords, and if You choose, to save other personal and financial information so You do not have to re-enter it each time You visit the Site. Please note that third party advertisers and Our partners may place or read cookies on Your browser. You may refuse to accept cookies by activating the setting in Your browser which allows You to refuse the setting of cookies. However, if You set Your browser to refuse cookies, You may not be able to access certain areas on Our Site and may have a restricted experience.
 
-We use your email address and your other personal information to help us efficiently operate the Site, to contact you in connection with transactions and other activities on the Site (including, but not limited to, confirmation emails or important news that could affect your relationship with Mesh). These types of communications, are known as "Operational Communications." In some cases, Operational Communications may also contain commercial messages, such as banner ads and special offers.
+### Information Other Websites Collect From You
 
-We also use personal information to send you newsletters, information, offers and other promotional materials for Mesh or third parties’ goods or services. These types of communications are known as “Marketing Communications”. We attempt to send you offers that are of value and relevance to you, such as discounts, exclusive offers or special event information. By registering and/or transacting with the site, you are opting in to recieve these kinds of communications.
+Our Site may contain links to and from websites operated by other parties. If You follow a link to any of these websites, please note that these websites have their own privacy policies and that We do not accept any responsibility or liability for these policies (regardless of whether these websites contain Our brand names, trademarks and any other of Our intellectual property). Please check these policies before You submit any personal data to these websites.
 
-To operate the Site, including processing your transactions and supporting your activities on the Site, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, email origination, receipt or support services, customer relationship management services, order fulfilment and sweepstakes/competitions and promotional fulfilment. We require these entities not to use your information for any other purpose.
+### How We Use Personal Information
 
-By purchasing, registering, making reservations for, products or services offered or sponsored by third parties on the Site, or electing to receive communications (such as emails, magazine subscriptions or off-line communication) or electing to participate in competitions, sweepstakes or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site, you consent to our providing your personal information to those third parties. Those third parties may use your personal information in accordance with their own privacy policies. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such third parties in the same manner in which we are entitled to use and disclose any other information you submit to us.
+We use information held about You in the following ways:
 
-In some cases, we may enter into a relationship with another company in which we prominently display their brand name or trademarks on pages of the Site and even re-brand entirely pages of the Site. These pages are known as "Partner Pages” or “Partner Page" and these companies are known as “Partner Companies” or Partner Company”. If the page on which you submit information is a Partner Page, or was accessed by clicking on a link on a Partner Page, then we may share your personal information with the associated Partner Company. Partner Companies may use your personal information in accordance with their own privacy policies. You will need to contact Partner Companies to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such Partner Companies in the same manner in which we are entitled to use and disclose any other information you submit to us. Some Partner Pages may contain an action tag (also known as a Web Beacon or a 1 pixel .gif file) that a third party, such as the advertising company Double Click, Inc, may use to read cookies that it, or its clients, may have placed on your browser at other (non Mesh) web sites before your visit to the Site. This technology is used to measure the effectiveness of advertisements on such other Websites that promote Partner Pages. Further, Double Click, Inc, or such other third parties, may use the information collected through this technology to learn more about your visits to this Site and other Websites in order to provide advertisements about goods and services of interest to you.
+  * To help Us efficiently operate the Site.
+  * To contact You in connection with transactions and other activities on the Site (including, but not limited to, confirmation emails or important news that could affect Your relationship with Us). These types of communications may also contain commercial messages, such as banner ads and special offers.
 
-Any third party with whom we are allowed to share your personal information is authorized to use your personal information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control, and you agree that we are not responsible or liable for any of their actions or omissions. Those who contact you will need to be instructed directly by you regarding your preferences for the use of your personal information by them.
 
-**Our Security Precautions**
 
-The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Where appropriate and used our secure server software is the industry standard and among the best software available today for secure commerce transactions and Site protection. We encrypt all of your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction.
+We may also use your data to send You newsletters, information, offers and other promotional materials for Our or third parties' goods or services. We attempt to send You offers that are of value and relevance to You, such as discounts, exclusive offers or special event information. By registering and/or transacting with Our Site, You are opting in to receive these kinds of communications.
 
-The Site is also protected against unauthorised access using the latest security hardware, software, devices and 'firewalls'.
+To operate the Site, including processing Your transactions and supporting Your activities on the Site, We may permit Our agents, representatives, contractors and service providers to use your data so they can provide Us with support services such as authorization of credit card transactions, email origination, receipt or support services, customer relationship management services, order fulfilment and sweepstakes/competitions and promotional fulfilment. We require these entities not to use Your information for any other purpose.
 
-**Changing our Privacy Policy for Previously Gathered Information**
+### Disclosure Of Information
 
-If at any point we decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email or by providing 14 days notice on the Site. Please note that we will continue to have the right to change our privacy policy and practices, and how we use your personally identifiable information, without notice, as described in the first paragraph of this Privacy Policy, provided that such changes shall only apply to information gathered on or after the date of the change.
+We may disclose Your personal information to third parties:
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at [legal@meshdigital.com](mailto:legal@meshdigital.com). You can also send us postal email to: Privacy Officer, Legal Department, Mesh Digital Ltd, Quarry Court, Lime Quarry Mews, Guildford, Surrey, GU1 2RD
+  * In the event that We sell or buy any business or assets, in which case We may disclose Your personal data to the prospective seller or buyer of such business or assets.
+  * If Mesh Digital Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+  * If We are under a duty to disclose or share Your personal data in order to comply with any legal obligation, or in order to enforce or apply [Our terms and conditions](https://web.archive.org/terms/ "Terms & Conditions") and other agreements; or to protect the rights, property, or safety of Mesh Digital Limited, Our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-*excludes ICANN fee of 20 cents per domain name year & based on maximum bulk discounts. **based on maximum bulk discounts. †subject to registry imposed fees.  
-Telephone orders charged at small premium. Please refer to [price list](http://www.domainmonster.com/domain-names/). 
+
+
+### Access To Information
+
+The Act gives You the right to access information held about You. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 GBP to meet Our costs in providing You with details of the information We hold about You.
+
+### Our Security Precautions
+
+The Site has security measures in place to protect against the loss, misuse and alteration of the information under Our control. Where appropriate and used Our secure server software is the industry standard and among the best software available today for secure commerce transactions and Site protection. We encrypt all of Your personal and financial information as it travels over the Internet and We store Your financial information on Our servers in encrypted form. The Site is also protected against unauthorised access using the latest security hardware, software, devices and 'firewalls'.
+
+### Where We Store Your Data
+
+The data that We collect from You may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for Us or for one of Our suppliers. Such staff maybe engaged in, among other things, the fulfilment of Your order, the processing of Your payment details and the provision of support services. By submitting Your personal data, You agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this privacy policy.
+
+Unfortunately, the transmission of information via the internet is not completely secure. Although We will do Our best to protect Your personal data, We cannot guarantee the security of Your data transmitted to Our Site; any transmission is at Your own risk.
+
+### Changing Our Privacy Policy For Previously Gathered Information
+
+If at any point We decide to use particular personally identifiable information in a manner different from that stated at the time it was collected, We will notify You by email or by providing 14 days notice on the Site.
+
+Please note that We will continue to have the right to change Our privacy policy and any such changes will be posted on the Site and, where appropriate, notified to You by email, provided that such changes shall only apply to information gathered on or after the date of the change.
+
+### Contact
+
+If You have any questions or concerns about this privacy policy, the practices of the Site, or Your dealings with the Site, You can contact Us at [legal@meshdigital.com](mailto:legal@meshdigital.com "legal@meshdigital.com") or You can also send Us post to: Privacy Officer, Legal Department, Mesh Digital Ltd, The Old Forge, Shackstead Lane, Godalming, Surrey, GU7 1RJ United Kingdom.
+
+*exc. ICANN fee of 20 cents per domain name year & based on maximum bulk discounts. **based on maximum bulk discounts. †subject to registry imposed fees.  
+Telephone orders charged small premium. Please refer to [domains price list](http://www.domainmonster.com/domains/). 
