@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dataentrywork.net privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208095545id_/http%3A//dataentrywork.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataentrywork.net privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320111403id_/http%3A//dataentrywork.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
