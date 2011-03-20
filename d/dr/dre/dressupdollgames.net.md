@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dressupdollgames.net privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225160526id_/http%3A//www.dressupdollgames.net/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupdollgames.net privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320015240id_/http%3A//www.dressupdollgames.net/page/1.html) for the most accurate reproduction.*
 
 # Dress Up Doll Games - Privacy Policy
 
