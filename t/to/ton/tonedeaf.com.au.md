@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207062721id_/http%3A//www.tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320175500id_/http%3A//www.tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Tone Deaf
 
@@ -7,17 +7,20 @@ Like most website operators, ToneDeaf.com.au collects non-personally-identifying
 
 ToneDeaf.com.au also collects potentially personally-identifying information like Internet Protocol (IP) addresses. ToneDeaf.com.au does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
- **Gathering of Personally-Identifying Information**  
+**Gathering of Personally-Identifying Information**  
 Certain visitors to ToneDeaf.com.au’s websites choose to interact with ToneDeaf.com.au in ways that require ToneDeaf.com.au to gather personally-identifying information. The amount and type of information that ToneDeaf.com.au gathers depends on the nature of the interaction. For example, we ask visitors who comment to provide a username and email address. In each case, ToneDeaf.com.au collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with ToneDeaf.com.au. ToneDeaf.com.au does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
- **Aggregated Statistics**  
+**Aggregated Statistics**  
 ToneDeaf.com.au may collect statistics about the behavior of visitors to its websites. For instance, ToneDeaf.com.au may reveal how many visits a particular section got, or say which articles are most popular. However, ToneDeaf.com.au does not disclose personally-identifying information other than as described below.
 
- **Protection of Certain Personally-Identifying Information**  
+**Protection of Certain Personally-Identifying Information**  
 ToneDeaf.com.au discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on ToneDeaf.com.au’s behalf or to provide services available at ToneDeaf.com.au’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using ToneDeaf.com.au’s websites, you consent to the transfer of such information to them. ToneDeaf.com.au will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors, and affiliated organizations, as described above, ToneDeaf.com.au discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when ToneDeaf.com.au believes in good faith that disclosure is reasonably necessary to protect the property or rights of ToneDeaf.com.au, third parties, or the public at large. If you are a registered user of a ToneDeaf.com.au website and have supplied your email address, ToneDeaf.com.au may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with ToneDeaf.com.au and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. ToneDeaf.com.au takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
 
- **Cookies**  
+**Cookies**  
 A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. ToneDeaf.com.au uses cookies to help ToneDeaf.com.au identify and track visitors, their usage of ToneDeaf.com.au website, and their website access preferences. ToneDeaf.com.au visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using ToneDeaf.com.au’s websites, with the drawback that certain features of ToneDeaf.com.au’s websites may not function properly without the aid of cookies.
 
- **Privacy Policy Changes**  
+**Privacy Policy Changes**  
 Although most changes are likely to be minor, ToneDeaf.com.au may change its Privacy Policy from time to time, and in ToneDeaf.com.au’s sole discretion. ToneDeaf.com.au encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+**Complaints/Concerns  
+**If you believe there has been a breach of your privacy, or that there is a privacy issue or question you’d like answered please direct your enquiry to our Privacy Officer, Nicholas Jones: [nicholas@outlawed.com.au](mailto:nicholas@outlawed.com.au) . We take all complaints seriously and will act in a prompt manner to rectify problems.
