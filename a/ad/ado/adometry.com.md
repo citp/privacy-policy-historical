@@ -1,108 +1,77 @@
-> *The following text is extracted and transformed from the adometry.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204221236id_/http%3A//adometry.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adometry.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321002649id_/http%3A//www.adometry.com/privacy.php) for the most accurate reproduction.*
 
-# Adometry>Privacy
+# : Business or Company
 
-## Introduction
+## Adometry Products and Services Privacy Statement
 
-Thank you for visiting Adometry's web site. This Privacy Notice addresses collection and use of the information you provide as well as security of and access to information that may be obtained through use of this web site. This notice covers the following topics: 
+Adometry is the leading provider of ad analytics, delivering actionable insight to improve the performance of online advertising. Adometry provides scoring, auditing, verification, and attribution metrics to optimize results and improve return. Formerly known as Click Forensics, Inc., Adometry has been improving online traffic quality for over half a decade. We have created this privacy statement (the "Product Privacy Statement") to demonstrate our commitment to our customers, the privacy of their website visitors, and the right of privacy throughout the Internet. Privacy is of great importance to us. Because we gather important information on behalf of our customers on portions of their websites and/or advertising campaigns, we have established this Product Privacy Statement as a means to communicate our information gathering and dissemination practices.
 
-  * Information Collected On This Site and How it is Used
-  * Information Collected by Adometry in the course of providing ad verification and effectiveness services
-  * Personal Information and Choice 
-  * Nondisclosure of Certain Personal Information 
-  * Review and Correction of Personally Identifiable Information
-  * Cookies 
-  * Security 
-  * Disclaimer
-  * Policy Change 
-  * Contact Information 
+## Customer Data
 
+We act as a limited agent (and data processor in the EU context) to each of our customers only for the purpose of providing Internet data hosting and optimization products and services, for which summaries and additional details are described within the "Products" portion of this site. Our corporate customers may use information that has been gathered by us on their website(s) and/or ad servers and other information provided to us (by the customer or their trusted partners or agencies) to optimize results of online advertising campaigns. This information may include (but is not limited to) general website traffic patterns, pages visited, referring domains, referring search engines, campaign success rates, visitor attrition rates, and types of product(s) purchased.
 
-
-## Information Collected On This Web Site and How it is Used  
-Information collected if you only browse this site 
-
-If you do nothing during your visit to our web site but browse, read pages, or download information, we will gather and store certain information about your visit. This information does not identify you personally. The following information about your visit is automatically collected and stored:
-
-  1. The Internet Protocol Address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet Protocol Address to direct Internet traffic to you. This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or yourschool.edu). 
-  2. The type of browser and operating system you used.
-  3. The date and time you visited this site. 
-  4. The web pages or services you accessed at this site.
-  5. The web site you visited prior to coming to this web site.
-
-
-
-The information automatically collected is logged and used by Adometry only to improve the content of our web services and to help us understand how individuals are using our services. Adometry analyzes this information to determine how our web site is being used so that we may continually improve the site's usefulness.
-
-## Information Collected For Ad Verification and Effectivness  
-Information collected by Adometry for ad verification and effectiveness purposes
-
-Adometry does not collect Personally Identifiable Information (aka PII) as a result of its ad verification and effectiveness services. PII is defined as information used to determine a web consumer’s identity and includes such information as name, address, phone number and email address. 
-
-Adometry collects only anonymous, non-personally identifiable information as a result of its ad verification and effectiveness services. Data is collected via IP addresses of users, which is used to track the number of unique users in advertising volumes and aggregated into geographical regions. IP addresses are not used to identify individuals in any way. Adometry uses the gathered information for the sole purpose of helping our clients verify delivery as well as make improvements to their online advertising campaigns.
-
-_Adometry does not use any data collected for behavioral targeting or retargeting of any kind._
-
-## Data Retention
-
-Adometry retains user level data for up to six months after the end of a campaign. Aggregated data (without uniquely identifying information) is maintained for comparative or benchmark information as needed without claim to duration.
-
-## What we collect if you volunteer information
-
-If during your visit to our web site you participate in a survey, send an email, or perform some other transaction online, the following additional information will be collected: 
-
-  1. The email address, and contents of email, for those who communicate with us via email.
-  2. Information volunteered in response to a survey. 
-  3. Information volunteered through an online application or form for any other purpose.
-
-
-
-The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us. Adometry uses your email to respond directly to you to address issues you identify in your email, to further improve our web site, or to forward internally for appropriate action. Survey information is used to improve Adometry's services to you. Information from other online forms is used for the purpose requested. 
-
-## Personal Information and Choice
-
-You may choose whether or not to provide personal information online. "Personal information" is information about a natural person that is readily identifiable to that specific individual. Personal information includes such things as an individual's name, address, and phone number. A domain name or Internet Protocol address is not necessarily considered personal information. Adometry does not collect personal information about you unless you voluntarily provide it to us by sending us email, participating in a survey, or completing an online form. Your decision not to participate in these activities will not impair your ability to browse the Adometry web site and read or download any information provided on the site. If you choose to not use online applications, forms, or services, you still have the ability to contact Adometry by mail, fax, or telephone. Please refer to the Contact Information Section.
-
-If you believe that your personal information is being used for a purpose other than what was intended when submitted, you may contact Adometry, as shown in the Contact Information Section of this statement. The Adometry web site is a general audience site and we do not knowingly collect any personal information from children. Users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult. 
-
-## Nondisclosure of Certain Personal Information
-
-Adometry may require you to provide certain confidential information in order to use specific online services. This information is required to verify a user's identity. You may choose not to give this information, but if you choose not, we will be unable to provide you access to these online services and you will have to use traditional methods such as personal contact, fax, or mail. Our strict confidentiality standards prohibit Adometry from disclosing personal information about you without express consent unless required by law. 
-
-## Review and Correction of Personally Identifiable Information
-
-You can review any personally identifiable information Adometry collects about you by using the information in the Contact Information Section at the end of this Notice. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting a written and signed request that explains the inaccuracy. Adometry will take reasonable steps to verify your identity before granting access or making corrections.
+All such information is and will remain customer property, and will be treated by Adometry as proprietary and confidential information of each customer, respectively. As such, and subject to the remainder of this paragraph, Adometry will not disclose such information to any third party, unless specifically and rightfully instructed or directed to do so by the customer. Adometry will not review, share, disclose, distribute, print, or reference any such information except as requested or directed by the customer or as may be required by law. Individual customer records may at times be viewed or accessed only for the purpose of resolving a problem, addressing a support issue, fulfilling a billing requirement, or as may be required by law. Our corporate customers are responsible for maintaining the confidentiality and security of their usernames and passwords to log into their accounts. We may store and process personal information in the United States or any other country in which we maintain facilities.
 
 ## Cookies
 
-To better serve our users, Adometry uses "cookies" to customize your browsing experience with our web site. Cookies are simple text files stored on your computer by your web browser. Cookies created on your computer by using this web site do not contain personally identifying information and do not compromise your privacy or security. We use the cookie feature only to store a randomly generated identifying tag on your computer.
+Cookies are files that Web servers place on an Internet user's computer that are designed to store basic information (such as visitor preferences). Most of our customers use cookies on their websites in connection with their own products and services. This helps our customers to better estimate the number of individual anonymous visitors to their website(s). There are two types of cookies that may be used: session and persistent. Session cookies exist only during a website visitor's online session. They disappear from the visitor's computer when he/she closes the browser software. Persistent cookies remain on the visitor's computer after the browser has been closed.
 
-Adometry also deploys Cookies in order to provide verification and effectiveness services to advertisers. 
+## Controlling Our Use of Cookies
 
 ## Opting Out
 
 Adometry provides a mechanism to opt out of Adometry services cookie tracking.
 
-## Security
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies set by our customers if you prefer. If you are using a public computer or do not otherwise want this information to be stored, you can select the appropriate radio button on the sign-in page, and this cookie will not be used. For further information about disabling cookies you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). If you choose to decline cookies, you may not be able to sign in or use other interactive features of certain web sites and services that depend on cookies.
 
-Adometry has taken several steps to safeguard the integrity of its telecommunications and computing infrastructure, including, but not limited to authentication and monitoring. Security measures have been integrated into the design, implementation, and day-to-day practices of the entire Adometry operating environment as part of its continuing commitment to risk management. These safeguards should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via Adometry supported web sites. 
+## Clear GIFs
 
-## Disclaimer
+Clear gifs (also known as web beacons) are used in combination with cookies to help our customers understand how visitors interact with their websites. A clear gif is typically a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a site. The use of a clear gif allows the website owner to measure the actions of the visitor opening the page that contains the clear gif. Most of our customers use clear gifs on their websites in connection with our products and services, for which summaries and additional details are described within the "Products" portions of this site.
 
-The Adometry web site contains links to other web sites. When you link to another site, you are no longer on Adometry web site and this Privacy Notice will not apply. When you link to another web site, you are subject to the privacy policy of that new site. Adometry reserves the right to revise and update this Privacy Notice at any time without notice by posting such revised Privacy Notice on this Adometry Privacy Notice page.
+Because clear gifs are included within the recipe for a web page (just the same as any other content request), you cannot opt out or refuse them. However, where they are used in conjunction with cookies they can be rendered ineffective by either opting out of cookies or by changing the cookie settings in your browser (see above Section titled "Controlling our use of Cookies"). In other instances, such as in the case of emails, clear gifs are not used in conjunction with cookies and if you are unhappy with the use of clear gifs in such manner, then you should not use the website in question.
 
-## Policy Change
+## Customer Policies
 
-Adometry, Inc. may modify this Privacy Policy from time to time without the consent of users by providing advance notice on our Web site before implementing such modifications.
+We strongly recommend that our customers, as data controllers (in the EU context), add statements or clauses to their privacy policies specifically describing their use of third party hosted optimization products and services (such as those provided by Adometry) and describing the details of such third party products and services (such as the use of cookies and clear gifs/web beacons). Further, we strongly recommend that each of our customers provide their visitors with information regarding the ability to opt-out of session data aggregation and analysis (see opt out section below).
 
-## Contact Information
+It is very important that you review the respective privacy policy of each customer website that you visit, because such privacy policies govern the use of information on those websites.
 
-To review or request correction of your personal information, you may contact Adometry via:
+## E-Mail Privacy Policy on This Site
 
-Email:[ info@adometry.com](mailto:%20info@adometry.com)
+Adometry, Inc. will not sell or barter your email address to third parties. Additionally, we will not make your email address available to third parties unless they are serving as a contracted suppression or broadcast vendor on our behalf to send you the email you explicitly requested, and they have strict privacy and security precautions in place.
 
-Phone: (206) 923-8378 
+In addition, we will only send you Adometry emails related to the specific newsletters and/or topics you signed up for with us. Currently, our newsletter is quarterly. However, we may send you very occasional invitations to participate in research questionnaires, notices to review new whitepapers, or take advantage of special offers with Adometry. The following covers, in further detail, how safe your information is with us.
 
-Fax: (425) 867-0474 
+## Your email address
 
-US Mail: 13929 127th Pl NE, Kirkland WA 98034 
+We only collect and hold your email address in order to send you the information and services you have requested. You can unsubscribe at any time for any reason quickly and easily through the bottom of any emails you receive from us.
+
+Adometry does not have "marketing partners" and therefore will not offer the opportunity to sign up for "marketing partner offers." Any and all emails you receive from Adometry will be from Adometry, about Adometry.
+
+## CAN-SPAM Compliance
+
+To completely opt-out to any email communication at any time, you can send an email to info@adometry.com. This e-mail address is being protected from spambots. You need JavaScript enabled to view it with "Do Not Email" in the subject line.
+
+## Special Reports and research invitations
+
+In addition to our regular, Adometry quarterly newsletters, we may occasionally send you Special Reports and research-related invitations that you may find valuable. These are *always* editorial in nature - they are not advertisements or purely commercial. They are also not third-party white papers or other third party content.
+
+## Special Offer Blasts
+
+We will never send you an email blast on behalf of a third party. Occasionally, we'll email you information about Adometry-related services, products and/or material. For example:
+
+  * You specifically and pro-actively signed up for our Adometry Quarterly Newsletter.
+  * You purchased a specific product and we need to communicate to you about that product, your account, opportunities to upgrade, or new features.
+  * Or, you specifically signed up on one of our sites or survey forms to be notified via email when a new particular product or product type comes out.
+
+
+
+## Unsubscribing
+
+Every email you receive from us will have instructions on how to unsubscribe, usually located at the bottom of the message.
+
+## Updates
+
+In the event that Adometry ever updates its privacy policy, the new information will be posted here.
+
+Questions? Concerns? Feel free to contact us at [info@adometry.com](mailto:info@adometry.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
