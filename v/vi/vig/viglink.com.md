@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the viglink.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115175859id_/http%3A//www.viglink.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viglink.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320065035id_/http%3A//www.viglink.com/policies/privacy) for the most accurate reproduction.*
 
 # VigLink - Privacy Policy
+
+## Privacy Policy
 
 ### Last updated: January 7, 2010
 
