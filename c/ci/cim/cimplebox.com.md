@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cimplebox.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223200327id_/http%3A//cimplebox.com/help/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cimplebox.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320035955id_/http%3A//www.cimplebox.com/help/privacypolicy.aspx) for the most accurate reproduction.*
 
 # CimpleBox - Cimplify Your Retail Business
 
@@ -8,7 +8,7 @@ CimpleBox Inc. ("CimpleBox") has created this privacy statement ("Statement") in
 
   1. COLLECTED INFORMATION
 
-We require customers who register to use the services offered on our Site (collectively, the "Service") to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, credit card number, and the number of users within the organization that will be using the Service. At the time you express interest in attaining additional information, or when you register for the Service, we may also ask for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not entering it when asked. Customers can update or remove their personal information at any time by email us at support@cimplebox.com. 
+We require customers who register to use the services offered on our Site (collectively, the "Service") to give us contact information, such as their name, company name, address, phone number, and email address, and financial qualification and billing information, such as billing name and address, credit card number, and the number of users within the organization that will be using the Service. At the time you express interest in attaining additional information, or when you register for the Service, we may also ask for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not entering it when asked. Customers can update or remove their personal information at any time by emailing us at support@cimplebox.com. 
 
 CimpleBox uses the information that we collect to set up the Service for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers are invited to receive an email newsletter by providing an email address. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to support@cimplebox.com. Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. Again, customers can opt out of receiving any communication by emailing support@cimplebox.com at the time it is distributed, or at the time any customer registers for the Service. 
 
@@ -36,13 +36,13 @@ CimpleBox uses session cookies containing encrypted information to allow the sys
 
 Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of CimpleBox is used only to provide us with information on site usage and is not shared with any other third parties. 
 
-  3. THIRTY-PARTY SITES
+  3. THIRD-PARTY SITES
 
 The Site may contain links to other web sites. CimpleBox is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential. 
 
   4. SECURITY
 
-Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using Firefox versions 2.0 or higher, Microsoft Internet Explorer versions 5.5 or higher, or Safari 3.0 or higher, Secure Socket Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. CimpleBox also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, CimpleBox provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data. 
+Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. Secure Sockets Layer (SSL) technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you when our Site is accessed using a browser that supports SSL. CimpleBox also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, CimpleBox provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data. 
 
   5. OPT-OUT POLICY
 
@@ -54,7 +54,7 @@ If customers need to update or change registration information they may do so by
 
   7. ADDITIONAL INFORMATION
 
-Questions regarding this Statement or the practices of this Site should be directed to CimpleBox's Security Administrator by e-mailing such questions to admin@cimplebox.com.
+Questions regarding this Statement or the practices of this Site should be directed to CimpleBox's Security Administrator by emailing such questions to admin@cimplebox.com.
 
 Updated: July 15th, 2009
 
