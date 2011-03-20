@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sammsoft.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230135057id_/http%3A//www.sammsoft.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammsoft.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320210713id_/http%3A//www.sammsoft.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Sammsoft - Privacy, Utility and Security Software for the PC
 
