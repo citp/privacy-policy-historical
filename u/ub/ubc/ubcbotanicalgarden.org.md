@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubcbotanicalgarden.org privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118194953id_/http%3A//www.ubcbotanicalgarden.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubcbotanicalgarden.org privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321002823id_/http%3A//www.ubcbotanicalgarden.org/privacy.php) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
