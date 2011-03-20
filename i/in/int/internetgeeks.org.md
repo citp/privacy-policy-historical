@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetgeeks.org privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231221610id_/http%3A//www.internetgeeks.org/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetgeeks.org privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320124048id_/http%3A//www.internetgeeks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Internet Geeks | Internet Geeks
 
@@ -61,6 +61,6 @@ Most browsers are set up to accept cookies, but you can change your settings to 
 Update to Policy for 2009: Google Advertising Cookie and DoubleClick DART Cookie:  
 • Google, as a third party vendor, uses cookies to serve ads on internetgeeks.org.  
 • Google’s use of the DART cookie enables it to serve ads to internetgeeks.org users based on their visit to internetgeeks.org and other sites on the Internet.  
-• Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html) .
+• Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Google ad and content network privacy policy") .
 
 Thank you for taking the time to read this and as always, thank you for visiting internetgeeks.org.
