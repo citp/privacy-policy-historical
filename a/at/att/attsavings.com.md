@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attsavings.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124025427id_/http%3A//www.attsavings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attsavings.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320211411id_/http%3A//www.attsavings.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
