@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mimoco.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125045452id_/http%3A//www.mimoco.com/about_mimoco/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mimoco.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320210112id_/http%3A//www.mimoco.com/about_mimoco/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | mimoco.com
 
