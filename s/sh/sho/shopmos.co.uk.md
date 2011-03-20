@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopmos.co.uk privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221115034id_/http%3A//shopmos.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmos.co.uk privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320052901id_/http%3A//shopmos.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy at shopmos.co.uk
 
