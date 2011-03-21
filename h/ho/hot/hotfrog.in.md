@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotfrog.in privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723043427id_/http%3A//www.hotfrog.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfrog.in privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321194117id_/http%3A//www.hotfrog.in/Privacy.aspx) for the most accurate reproduction.*
 
 # HotFrog Indian Business Directory - Terms & Conditions
 
