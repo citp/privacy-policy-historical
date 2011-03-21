@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bettyconfidential.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223093054id_/http%3A//www.bettyconfidential.com/ci/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettyconfidential.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321130326id_/http%3A//www.bettyconfidential.com/ci/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | BettyConfidential.com.com
+# Privacy Policy | BettyConfidential.com
 
 BettyConfidential.com is an online service that allows each of its members to set up a unique personal profile, which can be linked with a network of friends. BettyConfidential.com members can view a portion of each other.s profiles and meet new friends using this service. To allow for new connections and friendships to be made, we display some personal information to other members. BettyConfidential.com members can change their profile information at any time and can control how other members and the service communicates with them.
 
