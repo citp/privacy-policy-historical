@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviejungle.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229132715id_/http%3A//www.moviejungle.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviejungle.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321175818id_/http%3A//www.moviejungle.com/privacy.aspx) for the most accurate reproduction.*
 
-# Upcoming movies trailers, reviews, movie news, celeb news
+# Movie news, movie trailers, movies reviews, upcoming movies - Movie Jungle
 
 This document serves as a purpose to notify any and all who use Movie Jungle of how Movie Jungle treats your personal information. This includes the usage of video and image related services. This notice can and will change through time. Last update date will appear under the notice title.
 
