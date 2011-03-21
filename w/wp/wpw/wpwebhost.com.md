@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpwebhost.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125002453id_/http%3A//wpwebhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpwebhost.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321082123id_/http%3A//www.wpwebhost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WPWebHost
+# Privacy Policy - WPWebHost
 
 Because protecting your privacy is very important to WP Web Host, we operate our web site under the following guidelines to safeguard your personally identifiable information:
 
