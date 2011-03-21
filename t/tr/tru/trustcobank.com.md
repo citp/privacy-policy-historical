@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the trustcobank.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128181306id_/http%3A//trustcobank.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustcobank.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321013823id_/http%3A//www.trustcobank.com/index/privacy-policy-9.html) for the most accurate reproduction.*
 
-# Trustco Bank: - Privacy
+# Trustco Bank :: Privacy Policy
 
-## Privacy Statement
-
+**Privacy Statement**  
 Thank you for visiting the Trustco Bank. This website is designed to make it easier and more efficient for Trustco Bank customers to interact with us. Like all online resources, we recognize that visitors to this website are concerned about their privacy. Trustco Bank is committed to preserving your privacy when visiting this website.
 
 This policy describes Trustco Bank privacy practices regarding information collected from visitors to this website. This policy describes what data is collected and how that information is used. Trustco Bank may, at its sole discretion, change modify, add, or delete portions of this policy. Because this privacy policy only applies to this website, you should examine the privacy policy of any website you access through this website. 
