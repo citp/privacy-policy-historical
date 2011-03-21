@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the findaphd.com privacy policy that was archived on 2010-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220025426id_/http%3A//www.findaphd.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findaphd.com privacy policy that was archived on 2011-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110321213647id_/http%3A//www.findaphd.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>PhD | Privacy Statement</title>
@@ -15,9 +15,9 @@
         <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
-_uacct = "UA-2428558-1";
-_userv=2; 
-urchinTracker();
+    _uacct = "UA-2428558-1";
+    _userv = 2;
+    urchinTracker();
 </script>
 
 <link href="/common/css/shadowbox.css" rel="stylesheet" type="text/css">
@@ -26,6 +26,20 @@ urchinTracker();
 <script src="/common/js/scrollBackground.js" type="text/javascript"></script>
 
 <script type="text/javascript">
+    var NBColour = "#333366";
+    if (document.images) {
+        NBMinimizeImg = new Image;
+        NBMinimizeImg.src = 'http://www.findaphd.com/images/news/minimize.gif';
+
+        NBMaximizeImg = new Image;
+        NBMaximizeImg.src = 'http://www.findaphd.com/images/news/maximize.gif';
+
+        NBCloseImg = new Image;
+        NBCloseImg.src = 'http://www.findaphd.com/images/news/close.gif';
+
+        NBWhatsNewImg = new Image;
+        NBWhatsNewImg.src = 'http://www.findaphd.com/images/news/whatsNew.gif';
+    }
 
     //if ipad or iphone then remove the rel= function for shadowbox
     if ((navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/iPhone/i))) {
@@ -46,12 +60,189 @@ urchinTracker();
         id = day.getTime();
         eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=590,height=400');");
     }
-    
+
 </script>
+
+
+<!--[if gte IE 5.5]>
+<![if lt IE 7]>
+<style type="text/css">
+div#divNewBulletinContainer {
+  /* IE5.5+/Win - this is more specific than the IE 5.0 version */
+  display:block;
+  top: expression( ( 0 - divNewBulletinContainer.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+}
+</style>
+<![endif]>
+<![endif]-->
+
+<script type="text/javascript">
+
+    $(document).ready(function() {
+
+    document.getElementById("imgMinMax").src = NBMaximizeImg.src;
+    document.getElementById("NBWhatsNew").src = NBWhatsNewImg.src;
+    document.getElementById("divNewsBulletinBG").style.background = NBColour;
+
+    if (!NBreadCookie('News')) {
+    $(document.getElementById("divNewsBulletinBG")).delay(2000).queue(function() { NBshowNewsBulletins(); });
+    } else {
+    NBhideNewsBulletins();
+    }
+    });
+
+    function NBreadCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+
+    for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            //--Find bucket cookie and return all as a string--
+            if (c.indexOf(nameEQ) == 0) {
+                return c.substring(nameEQ.length, c.length);
+            }
+        }
+        return null;
+    }
+
+    function NBcreateCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else var expires = "";
+
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+
+    function NBhideNewsBulletins() {
+        var WNPanel = document.getElementById("divNewsBulletin");
+        $(WNPanel).animate({ height: "hide" }, 500);
+        var WNancBtn = document.getElementById("ancMinMax");
+        var WNimgBtn = document.getElementById("imgMinMax");
+
+        WNimgBtn.title = "Maximize";
+        WNimgBtn.src = NBMaximizeImg.src;
+
+        WNancBtn.href = "javascript: NBshowNewsBulletins();";
+        NBcreateCookie("News", true, 1);
+        clearTimeout(NBtimerShow);
+        clearTimeout(NBtimerHide);
+        $(document.getElementById("divNewBulletinInnerContainer")).animate({ opacity: "0.35" }, 500);
+    }
+
+    function NBshowNewsBulletins() {
+        var WNPanel = document.getElementById("divNewsBulletin");
+        $(WNPanel).animate({ height: "show" }, 500);
+        var WNancBtn = document.getElementById("ancMinMax");
+        var WNimgBtn = document.getElementById("imgMinMax");
+
+        WNimgBtn.title = "Close";
+        WNimgBtn.src = NBCloseImg.src;
+        WNancBtn.href = "javascript: NBhideNewsBulletins();";
+        NBrunIt();
+        NBcreateCookie("News", false, -1);
+        $(document.getElementById("divNewBulletinInnerContainer")).removeAttr('style');
+    }
+
+    var NBintRotatorPos = 1;
+    var NBintWaitShow = "3500";
+    var NBintWaitHide = "250";
+    var NBdivCount = 0;
+    var NBtimerShow = 0;
+    var NBtimerHide = 0;
+
+    function NBrunIt() {
+        clearTimeout(NBtimerHide);
+        NBtimerShow = setTimeout("NBshowIt()", NBintWaitHide);
+        NBtimerHide = setTimeout("NBrotateNews()", NBintWaitShow);
+    }
+
+    function NBshowIt() {
+        NBdivCount = $(".newsHeadline").length;
+        
+        if (NBdivCount==0) {
+            // bypass 
+        } else {
+            if (NBintRotatorPos > NBdivCount) NBintRotatorPos = 1;
+
+            var hHeadline = document.getElementById("divNewsHeadline_" + NBintRotatorPos);
+            var vHeadline = document.getElementById("ancHeadlineRotator");
+
+            var vContent = document.getElementById("divContentRotator");
+            vHeadline.innerHTML = hHeadline.innerHTML;
+            vHeadline.href = "javascript:NBshowContents()";
+            $(vHeadline).animate({ opacity: "show" }, 500);
+            if (NBdivCount==1) clearTimeout(NBtimerHide); //disable rotation if only 1 news bulletin exists;
+        }
+    }
+
+    function NBrotateNews() {
+        clearTimeout(NBtimerShow);
+        var vHeadline = document.getElementById("ancHeadlineRotator");
+        $(vHeadline).animate({ opacity: "hide" }, 50);
+        NBintRotatorPos += 1;
+        NBrunIt();
+    }
+
+    function NBshowContents() {
+        clearTimeout(NBtimerShow);
+        clearTimeout(NBtimerHide);
+
+        var vHeadline = document.getElementById("ancHeadlineRotator");
+
+        var hContent = document.getElementById("divNewsContent_" + NBintRotatorPos);
+        var vContent = document.getElementById("divContentRotator");
+
+        vContent.innerHTML = hContent.innerHTML;
+
+        var WNancBtn = document.getElementById("ancMinMax");
+        var WNimgBtn = document.getElementById("imgMinMax");
+
+        if (vContent.style.display == 'none') {
+            WNimgBtn.title = "Minimize";
+            WNimgBtn.src = NBMinimizeImg.src;
+            WNancBtn.href = "javascript: NBshowContents();";
+        } else {
+            WNimgBtn.title = "Close";
+            WNimgBtn.src = NBCloseImg.src;
+            WNancBtn.href = "javascript: NBhideNewsBulletins();";
+        }
+
+        $(vContent).animate({ height: "toggle" }, 500, function() { if (vContent.style.display == 'none') { NBrunIt(); } });
+    }
+</script>
+
+<div id="divNewBulletinContainer">
+<div id="divNewBulletinInnerContainer" style="float:right;">
+<div style="float:right;"><a id="ancMinMax" style="border:0px;color:white;" href="javascript: NBshowNewsBulletins();"><img id="imgMinMax" src="http://www.findaphd.com/images/news/maximize.gif" style="width:31px;height:18px;border:0px;" alt="" title=""></a></div>
+<div style="clear:both;"></div>
+
+<div id="divNewsBulletin" style="float:left;display:none;">
+<div style="float:left;"><img id="NBWhatsNew" style="border:0px;" alt="" title="" src="http://www.findaphd.com/images/news/whatsNew.gif"></div>
+
+<div style="clear:both;height:1px;font-size:1px;overflow:hidden;"></div>
+<div id="divNewsBulletinBG" style="background: rgb(51, 51, 102);">
+<div id="divHeadline" style="height:46px;padding:3px 4px 0px 4px;">
+<a id="ancHeadlineRotator" onmouseover="clearTimeout(NBtimerShow);clearTimeout(NBtimerHide);" onmouseout="if (document.getElementById('divContentRotator').style.display == 'none') { NBrunIt(); }" href="#"></a></div>
+<div id="divContentRotator" style="padding:0px 4px 0px 4px; display:none;"></div>
+</div></div></div></div>
+
+
+<div id="divNewsHeadline_1" class="newsHeadline" style="display:none;">Receive PhD updates and news direct to your inbox!</div><div id="divNewsContent_1" class="newsContent" style="display:none;"><div style="margin-top:4px;border-top: dotted 1px white; padding-top:4px;"></div><a style="color:gold;" href="http://www.findaphd.com/student/newsletter.aspx?origin=NB">Click here</a> to sign up to the FindAPhD Newsletter.</div><div id="divNewsHeadline_2" class="newsHeadline" style="display:none;">View the latest PhD Opportunities!</div><div id="divNewsContent_2" class="newsContent" style="display:none;"><div style="margin-top:4px;border-top: dotted 1px white; padding-top:4px;"></div><a style="color:gold;" href="http://www.findaphd.com/search/newphds.asp">Click here</a> to see the latest PhDs on FindAPhD. New projects and programmes added every day!</div><div id="divNewsHeadline_3" class="newsHeadline" style="display:none;">Brand new FindAPhD search goes live!</div><div id="divNewsContent_3" class="newsContent" style="display:none;"><div style="margin-top:4px;border-top: dotted 1px white; padding-top:4px;"></div><a style="color:gold;" href="http://www.findaphd.com/search/">Click here</a> to give it a try.<br><br></div>
+<script type="text/javascript">
+    //if ipad or iphone then remove the news bulletin panel
+    if ((navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/iPhone/i))) {
+        $(document).ready(function() { document.getElementById("divNewBulletinContainer").style.display = "none"; });
+    }
+</script>
+
 
 <div id="mainHeader">
 <div id="logoArea"><a href="http://www.findaphd.com"><img src="http://www.findaphd.com/images/phdlogo.gif" alt="www.FindAPhD.com - PhD Studentships" title="Postgraduate research and PhD opportunities" width="417" height="91" border="0"></a></div>
-<div id="topfeatured">  <div><a href="http://www.findaphd.com/clickcount.asp?fpa_id=45176"><img src="http://www.findaphd.com/images/featured/top/banner_igmm.gif" width="468" height="60" border="0"></a></div></div>
+<div id="topfeatured">  <div><a href="http://www.findaphd.com/clickcount.asp?fpa_id=45381"><img src="http://www.findaphd.com/images/featured/top/banner_lubs2011.gif" width="468" height="60" border="0"></a></div></div>
 </div>
 
 
@@ -65,7 +256,7 @@ PhD<br>Opportunities
 </div><div class="vMenuHeadingHR"></div>
 
 <div class="menuSpacer">
-20&nbsp;December, &nbsp;2010
+21&nbsp;March, &nbsp;2011
 </div>
 
 <div class="vMenuItem">
@@ -76,12 +267,12 @@ PhD<br>Opportunities
         <a href="http://www.findaphd.com">Home</a>
     </li>
 
-    <li class="vMenu" onclick="location.href='http://www.findaphd.com/search/search.asp'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
-        <a href="http://www.findaphd.com/search/search.asp">Search Database</a>
+    <li class="vMenu" onclick="location.href='http://www.findaphd.com/search/'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
+        <a href="http://www.findaphd.com/search/">Search Database</a>
     </li>
 
-    <li class="vMenu" onclick="location.href='http://www.findaphd.com/search/newphds.asp'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
-        <a href="http://www.findaphd.com/search/newphds.asp">Latest PhDs</a>
+    <li class="vMenu" onclick="location.href='http://www.findaphd.com/latest/'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
+        <a href="http://www.findaphd.com/latest/">Latest PhDs</a>
     </li>
 
     <li class="vMenu" onclick="location.href='http://www.findaphd.com/student/'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
@@ -106,14 +297,14 @@ PhD<br>Opportunities
 <div style="float:left;padding-left:2px;"><div style="border:dotted 1px white;">
 <div style="width:140px;"><img src="http://www.findaphd.com/images/featuredheaderleftmenuspot.gif" width="140" height="25"></div>
 <div style="width:140px;">
-<a href="http://www.findaphd.com/clickcount.asp?fpa_id=45227"><img src="http://www.findaphd.com/images/featured/spot/menu_MRCprotein.gif" border="0"></a><br>
+<a href="http://www.findaphd.com/clickcount.asp?fpa_id=45202"><img src="http://www.findaphd.com/images/featured/spot/menu_newcbus2.gif" border="0"></a><br>
 </div></div></div>
 <!--// Left Menu Spotlight Adverts END //-->
 <!--// Left Menu Featured Adverts START //-->
 
 <div style="float:left;padding-top:24px; padding-left:3px; padding-bottom:24px;">
 <div style="width:140px;"><img src="http://www.findaphd.com/images/featuredheaderleftmenu.gif" width="140" height="25"></div>
-<div style="width:140px;padding-top:6px;"><a href="http://www.findaphd.com/clickcount.asp?fpa_id=45168"><img style="border:0px;" src="http://www.findaphd.com/images/featured/minispot/leeds-fbs.gif" width="140" height="60"></a></div><div style="width:140px;padding-top:6px;"><a href="http://www.findaphd.com/clickcount.asp?fpa_id=45257"><img style="border:0px;" src="http://www.findaphd.com/images/featured/minispot/leeds-sysbiolmed.gif" width="140" height="60"></a></div><div style="width:140px;padding-top:6px;"><a href="http://www.findaphd.com/clickcount.asp?fpa_id=45199"><img style="border:0px;" src="http://www.findaphd.com/images/featured/minispot/oxfo-neur.gif" width="140" height="60"></a></div>
+<div style="width:140px;padding-top:6px;"><a href="http://www.findaphd.com/clickcount.asp?fpa_id=45468"><img style="border:0px;" src="http://www.findaphd.com/images/featured/minispot/southampton2011.gif" width="140" height="60"></a></div><div style="width:140px;padding-top:6px;"><a href="http://www.findaphd.com/clickcount.asp?fpa_id=45463"><img style="border:0px;" src="http://www.findaphd.com/images/featured/minispot/cardiff2011b.gif" width="140" height="60"></a></div><div style="width:140px;padding-top:6px;"><a href="http://www.findaphd.com/clickcount.asp?fpa_id=45495"><img style="border:0px;" src="http://www.findaphd.com/images/featured/minispot/glas-eng.gif" width="140" height="60"></a></div>
 </div>
 
 <!--// Left Menu Featured Adverts END //-->
@@ -156,6 +347,7 @@ PhD<br>Opportunities
                             Forum</a></li>
                 </ul>
             </div>  
+
 
         <div id="divMainContent">
             <div id="breadCrumb">
@@ -259,13 +451,18 @@ PhD<br>Opportunities
     <br>
     <div style="margin:0 auto; width:100%; text-align:center;">
     <div style="margin:0 auto; width:760px; text-align:center;">
-        <div id="FooterLeftFeature" style="float:left;">
-            <a href="http://www.findanmba.com" target="_blank" style="font-size: 14px; font-weight: bold;color: #6A2992; font-family: 'Trebuchet MS','Arial','Verdana';" title="FindAnMBA.com - MBA Courses &amp; Business Masters Degrees">NEW! FindAnMBA.com</a><br>
-            <span style="font-size: 12px;  display:inline-block; padding-top: 15px;">
-                MBA Courses &amp; <br>Business Masters<br>Degrees</span>
-            <span style="font-size: 12px; margin-top: 5px;"></span></div>
-        <div id="footerText" style="float: left;">
-            Copyright ©2010
+        <div id="FooterLeftFeature">
+            <span style="font-size: 12px;color: #6A2992; font-family: 'Trebuchet MS','Arial','Verdana';" title="The FindAPhD Postgraduate Study Fair Manchester">The FindAPhD Postgraduate Study Fair</span><br>
+           <span style="font-size: 14px; padding-top:5px; display: inline-block; font-weight: bold;">
+                Manchester</span><br>
+             <span style="font-size: 12px; margin-top: 3px;">23 November 2011</span>  </div>
+        <div id="FooterRightFeature">
+            <span style="font-size: 12px; color: #ED008C; font-family: 'Trebuchet MS','Arial','Verdana';" title="The FindAPhD Postgraduate Study &amp; MBA Fair London">The FindAPhD Postgraduate Study <br>&amp; MBA Fair</span><br>
+            <span style="font-size: 14px; padding-top:5px; display: inline-block; font-weight: bold;">
+                London</span><br>
+            <span style="font-size: 12px; margin-top: 3px;">25 January 2012</span>        </div>
+        <div id="footerText">
+            Copyright ©2011
             The Science Registry Ltd. All rights reserved.<br>
             The Science Registry Ltd, Redlands, 3/5 Tapton House Road, Sheffield S10 5BY
             <br>
@@ -274,12 +471,6 @@ PhD<br>Opportunities
             <a href="http://www.findaphd.com" title="FindAPhD.com">Find A PhD</a> &nbsp;&nbsp;&nbsp;&nbsp;
             <a href="http://www.findaphd.com/privacy.asp" title="FindAPhD Privacy Statement">Privacy
                 Statement</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.findaphd.com/sitemap.asp" title="FindAPhD Site Map">Site Map</a>
-        </div>
-        <div id="FooterRightFeature" style="float:left;">
-            <a href="http://www.findaphd.com/custadverts/postgradfair/2011.asp" target="_blank" style="font-size: 12px; color: #ED008C; font-family: 'Trebuchet MS','Arial','Verdana';" title="The FindAPhD Postgraduate Study &amp; MBA Fair">The FindAPhD Postgraduate Study <br>&amp; MBA Fair</a><br>
-            <span style="font-size: 14px; padding-top:5px; display: inline-block; font-weight: bold;">
-                London</span><br>
-            <span style="font-size: 12px; margin-top: 3px;">26 January 2011</span>
         </div>
         <div style="clear: both;">
         </div>
