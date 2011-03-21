@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fancast.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230031118id_/http%3A//www.fancast.com/info/new_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancast.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321175723id_/http%3A//www.fancast.com/info/new_privacy_policy) for the most accurate reproduction.*
 
 # XFINITY TV Privacy Policy | Legal | User Terms of Service | Advertising | Sharing | TRUSTe | Security | Fancast
 
