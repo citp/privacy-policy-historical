@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetseal.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227092841id_/http%3A//www.wetseal.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetseal.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321075526id_/http%3A//wetseal.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Teen Clothing for Girls - Fashion Tops, Cute Dresses, Shoes, Accessories, Denim and Privacy Policy
 
@@ -6,7 +6,7 @@ When you visit Wet Seal, we collect customer information to improve the content 
 
 If you supply us with your e-mail address, you may receive periodic e-mails from us announcing product information, promotional events, or update to our Web sites. If you supply us with your postal address, you may receive periodic mailing from us, including promotional offerings. If you do not wish to receive such email updates, send an email to **[customerservice@wetseal.com](mailto:customerservice@wetseal.com)** indicating your e-mail address. If you do not wish to receive periodic marketing materials, send an email to **[customerservice@wetseal.com](mailto:customerservice@wetseal.com)** indicating your postal address as applicable.
 
-We do occasionally share name and address information with other catalog companies that offer similar products. We will not share any personal financial information. If you are on our catalog mailing list, or order from one of our catalogs, and would prefer not to have your name shared with other catalog companies, [click here](https://web.archive.org/web/20101227092841id_/http%3A//www.wetseal.com/custserv/TODO) and ask that your name not be shared.
+We do occasionally share name and address information with other catalog companies that offer similar products. We will not share any personal financial information. If you are on our catalog mailing list, or order from one of our catalogs, and would prefer not to have your name shared with other catalog companies, [click here](https://web.archive.org/web/20110321075526id_/http%3A//wetseal.com/custserv/TODO) and ask that your name not be shared.
 
 We do not knowingly collect or use any personal information from children (minors younger than 13). If you are a parent and believe we may have inadvertently collected such information from your child, please notify us imediately by sending an email to **[customerservice@wetseal.com](mailto:customerservice@wetseal.com)**
 
