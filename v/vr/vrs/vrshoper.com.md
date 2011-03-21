@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vrshoper.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129185133id_/http%3A//www.vrshoper.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrshoper.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321160522id_/http%3A//www.vrshoper.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy - VRshoper
 
