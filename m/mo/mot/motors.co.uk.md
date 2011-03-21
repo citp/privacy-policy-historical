@@ -1,71 +1,51 @@
-> *The following text is extracted and transformed from the motors.co.uk privacy policy that was archived on 2006-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061010045927id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motors.co.uk privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321170704id_/http%3A//www.motors.co.uk/cars/motors-co-uk-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement: Domain Names, Hosting, Dedicated Server Solutions and Broadband ADSL, Namesco Limited
+# Privacy Policy
 
-## PRIVACY STATEMENT
+This privacy policy applies only to this website (the “Site”). If you do not accept this privacy policy, you should not use this Site.
 
-This privacy statement discloses the privacy practices for Namesco Limited.
+##### Collection Of Personal Information
 
-This web site agrees to notify you of:
+Motors.co.uk collects personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it.
 
-  * What personally identifiable information of yours or third party personally identification is collected from you through the website
-  * The organization collecting the information
-  * How the information is used
-  * With whom the information may be shared
-  * What choices are available to you regarding collection, use and distribution of the information
-  * The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Namesco Limited control
-  * How you can correct any inaccuracies in the information.
+##### Collection Of Other Information
+
+In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor visitors to the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser when you first visit the Site. The cookie allows us to identify your computer and find out details about your last visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that your experience with the Site will be as quick or responsive as if you do receive cookies.
+
+The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and your geographical location.
+
+##### Use Of Your Information
+
+By using this Site, you agree that Motors.co.uk may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services. These include (without limitation):
+
+  * Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you
+  * Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting
+  * Communicating (and personalising such communication) with you
+  * Informing you if you have been successful in any of our competitions or promotions
+  * Compiling customer reviews
+  * For market research purposes
+  * To enable third parties to carry out statistical analyses', technical, logistical or other functions on our behalf including determining behavioural preferences to manage online advertising
+  * For strategic development
+  * For any purpose required by law or regulation
+  * For accounting purposes
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/contact.html)
+##### Sharing Your Information
 
-### Information Collection and Use
+By using the Site, you agree that we may disclose your personal information to any company within the Daily Mail and General Trust plc group of companies Subject to our obtaining your express consent, we may also supply personal information about you to third parties We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information. We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the United Kingdom provides) in the event that the processing of your information involves such a transfer. Safeguards And Security
 
-Namesco Limited is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Namesco Limited collects information from our users at several different points on our website.
+No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date. For more information on the Data Protection Act 1998 and your related rights please see www.informationcommissioner.gov.uk Accessing Your Information
 
-### Order
+If you wish to review or receive copies of the personal information we hold about you, or have any other queries please write to us (including full details of your request) at:
 
-We request information from the user on our registration, order and payment forms. Here a user must provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fulfill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+Motors.co.uk Ltd  
+80F Milton Park  
+Corinthian Court  
+Abingdon  
+Oxfordshire  
+OX4 1RY
 
-### Cookies
+We may charge a small administration fee in relation to fulfilling a request for access to personal information.
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site and is encrypted so cannot be read by any other website. Once the user closes their browser, the cookie simply terminates. It will also terminate once a period of time has elapsed since first using the site.
-
-### Log Files
-
-We use IP addresses to analyse trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
-
-### Sharing
-
-We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
-
-We use a credit card processing company to bill users for services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
-
-### Links
-
-This web site may contain links to other sites. Please be aware that we [Namesco Limited] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
-
-### Security
-
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
-
-When our order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'.
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our accounting staff or a customer service representative) are granted access to personally identifiable information.
-
-### Correction/Updating Personal Information
-
-If a user's personally identifiable information changes (such as your post code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us.
-
-### Choice/Opt-out
-
-If you use this site to purchase services you may occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications on our order form.
-
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email, or by contacting us directly.
-
-Users of our site are notified when their information is being collected or used by any third parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an third party, or not.
-
-### Notification of Changes 
-
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [http://www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/).
