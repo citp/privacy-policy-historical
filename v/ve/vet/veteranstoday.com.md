@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veteranstoday.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120044912id_/http%3A//www.veteranstoday.com/resources/quotes/terms-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veteranstoday.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321212351id_/http%3A//www.veteranstoday.com/resources/quotes/terms-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms and Privacy Policy : Veterans Today
 
