@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetcidermusic.com privacy policy that was archived on 2010-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100726103143id_/http%3A//www.sweetcidermusic.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetcidermusic.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321173552id_/http%3A//www.sweetcidermusic.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Sweet Cider Music - Privacy Policy
 
@@ -18,4 +18,8 @@ Permissions to Link or Post Permission is granted for linking to our site, indiv
 
 Copyright © 2009 Sweet Cider Music. All rights reserved.
 
-The template is being taken from www.freewebsitetemplates.com as per free download and is used for informational purposes. | [synvisc](http://www.bluemedica.com/synvisc.php)
+The template is being taken from www.freewebsitetemplates.com as per free download and is used for informational purposes.
+
+[creatine products](http://www.maximumsportsnutrition.co.uk/) \- Maximum Sports Nutrition are specialist sports and bodybuilding supplements suppliers carrying all of the biggest brands to help you bulk up, lose weight and get to the top of your game.
+
+[Buffalo Silver Dollar](http://www.amsgold.com/)
