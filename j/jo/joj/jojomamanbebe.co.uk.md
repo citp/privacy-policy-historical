@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jojomamanbebe.co.uk privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114151706id_/http%3A//www.jojomamanbebe.co.uk/pu%2BPrivacy-Policy%2BPrivacy-Policy%2B1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jojomamanbebe.co.uk privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321122903id_/http%3A//www.jojomamanbebe.co.uk/pu%2BJoJo-Maman-Bebe%2BPrivacy-Policy%2B1) for the most accurate reproduction.*
 
 # JoJo Maman Bébé Privacy Policy
 
