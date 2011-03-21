@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growingyourbaby.com privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904075058id_/http%3A//www.growingyourbaby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growingyourbaby.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321023203id_/http%3A//www.growingyourbaby.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Growing Your Baby
 
