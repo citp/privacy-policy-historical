@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myapartmentmap.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529151936id_/http%3A//www.myapartmentmap.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myapartmentmap.com privacy policy that was archived on 2011-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110322203033id_/http%3A//www.myapartmentmap.com/privacy_policy.html) for the most accurate reproduction.*
 
-# My Apartment Map Apartment Rental Search. Map Based Listings of Apartments for Rent
+# MyApartmentMap Privacy Statement
 
-#### Effective 02/01/2008 
+#### Effective 02/01/2008
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
