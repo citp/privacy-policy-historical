@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n95users.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613173007id_/http%3A//www.nokiausers.net/About/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n95users.com privacy policy that was archived on 2011-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110322125413id_/http%3A//www.nokiausers.net/About/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,3 +25,5 @@ We do use cookies to store information, such as your personal preferences when y
 
 **Site Goals  **  
 NokiaUsers.net was designed to give all Nokia owners a chance to collaborate and share information regarding their mobile, while also offering numerous other services (software sales, tips and tricks, etc.) for your phone. If you have any questions regarding the site, feel free to [contact us](http://www.nokiausers.net/Contact-Us/) . 
+
+* * *
