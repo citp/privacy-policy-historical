@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likeme.net privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930020719id_/http%3A//www.likeme.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likeme.net privacy policy that was archived on 2011-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110322041141id_/http%3A//www.likeme.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LikeMe
 
