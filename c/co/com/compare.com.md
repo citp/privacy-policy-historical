@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compare.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125151238id_/http%3A//compare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compare.com privacy policy that was archived on 2011-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110322025642id_/http%3A//www.compare.com/privacy.html) for the most accurate reproduction.*
 
 # COMPARE.COM -- Privacy Policy
 
