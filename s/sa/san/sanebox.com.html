@@ -1,126 +1,78 @@
-<!--The following is the downloaded HTML source of the sanebox.com privacy policy that was archived on 2010-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119015034id_/http%3A//www.sanebox.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sanebox.com privacy policy that was archived on 2011-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110322060811id_/http%3A//www.sanebox.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>SaneBox</title>
+<title>SaneBox: Get Through Email Faster</title>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-<meta name="keywords" content="email,gmail,gtd">
-<meta name="description" content="SaneBox helps you manage email overload.">
+<meta name="keywords" content="mail, email, gtd, gmail, google apps, yahoo mail, inbox, overload">
+<meta name="description" content="SaneBox helps you get through your email faster. Quickly see which emails are important or unimportant. Manage your email without changing a thing. Try SaneBox now!">
 <link rel="shortcut icon" href="/favicon.png">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://sanebox.com/javascripts/base_packaged.js?1300722956" type="text/javascript"></script>
+<link href="http://sanebox.com/stylesheets/base_packaged.css?1300722956" media="screen" rel="stylesheet" type="text/css">
 
 
-<script src="http://sanebox.com/javascripts/jquery-1.4.2.min.js?1290094980" type="text/javascript"></script>
-<script src="http://sanebox.com/javascripts/jquery-ui-1.8.1.custom.min.js?1290094980" type="text/javascript"></script>
-<script src="http://sanebox.com/javascripts/jquery.vticker-min.js?1290094980" type="text/javascript"></script>
-<link href="http://sanebox.com/stylesheets/jquery/cupertino/jquery-ui-1.8.1.custom.css?1284583280" media="screen" rel="stylesheet" type="text/css">
-<link href="http://sanebox.com/stylesheets/jquery/le-frog/green-button.css?1287548301" media="screen" rel="stylesheet" type="text/css">
-<link href="http://sanebox.com/stylesheets/colorbox/colorbox.css?1288626493" media="screen" rel="stylesheet" type="text/css">
-<script src="http://sanebox.com/javascripts/jquery.colorbox-min.js?1290094980" type="text/javascript"></script>
-<script src="http://sanebox.com/javascripts/jquery.dataTables.min.js?1290094980" type="text/javascript"></script>
-<link href="http://sanebox.com/stylesheets/dataTables.css?1290094980" media="screen" rel="stylesheet" type="text/css">
-<script src="http://sanebox.com/javascripts/base_packaged.js?1290094994" type="text/javascript"></script>
-<link href="http://sanebox.com/stylesheets/base_packaged.css?1290094994" media="screen" rel="stylesheet" type="text/css">
 </head>
 
 <body>
 
 
 <!-- header start -->
-<div id="header">
-<a href="/home" id="logo_link">SaneBox</a>
-
-<div id="account_links">
-<span><a href="/signup">Signup</a></span> 
-    |<span><a href="/help">Help</a></span>
-    |<span><a href="/pricing">Pricing</a></span>
-</div>
-<div class="clear-right"></div>
-
-<div id="openid_form_wrap">
-<form action="/sessions" id="openid_login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="HxYao+iUV0wWygRZGb96L+RT109310U6WaQmzAZ8jWY="></div><div id="button_row">
-<span>Login using</span>
-<a href="#" onclick="$('#openid_login_form').submit(); return false;" title="Login using Google"><img alt="Google_logo_36x28" src="http://sanebox.com/images/google_logo_36x28.png?1290094980"></a>
-<a href="#" onclick="changeLoginState('google_apps'); return false;" title="Login using Google Apps"><img alt="Google_apps_49x28" src="http://sanebox.com/images/google_apps_49x28.png?1290094980"></a>
+<div id="header" class="column-full">
+<div class="container clearfix">
+<div class="column-full">
+<div class="column-four">
+<a href="/home" id="logo_link"><img alt="Logo_header" src="http://sanebox.com/images/logo_header.png?1300722921"></a>
 </div>
 
-<div id="domain_boxes" style="display: none">
-<img alt="Google_apps_93x24" class="alt_login_logo" src="http://sanebox.com/images/google_apps_93x24.gif?1290094980">
-<div id="login_google_apps_domain_error" class="inline-error error-message"></div>
-<span class="domain-prefix">www.</span>
-<input id="login_google_apps_domain_input" name="google_apps_domain" size="25" type="text" value="Enter Domain Name">
-<a class="fancy-button" href="#" onclick="handleLoginSubmit(); return false;" style="font-size: 11px;">Go</a>
-<div class="example-text">eg: example.com</div>
-</div>
-<div id="google_login_go_back" style="display: none">
-<a href="#" onclick="changeLoginState('google'); return false;">« Back to Login</a>
-</div>
+<div class="column-eight">
 
-<div class="input-wrap remember-me-wrap">
-<input checked="checked" id="remember_me" name="remember_me" type="checkbox" value="1">
-<label for="remember_me">Remember me?</label>
+<ul class="customer" style="margin-top:24px;">
+<li><a href="/signup">Sign Up</a></li>
+<li><a href="/learn">Tour</a></li>
+<li><a href="/pricing">Pricing</a></li>
+<li><a href="/help">Help</a></li>
+<li><a href="/login">Sign In</a></li>
+</ul>
+</div>
+</div>
+</div>
 </div>
 
-<input id="login_type" name="login_type" type="hidden" value="google">
-</form></div>
-
-<script language="JavaScript" type="text/javascript">
-//<![CDATA[
-var loginDomainInput;
-$(document).ready(function(){
-  loginDomainInput = $("#login_google_apps_domain_input");
-  loginDomainInput.enhancedTextInput({
-    helpMessage: "Enter Domain Name",
-    emptyValueError: "Please enter your domain",
-    submit: function () {
-      $("#openid_login_form").submit();
-    }
-  });
-});
-
-function handleLoginSubmit() {
-  loginDomainInput.submitForm();
-}
-
-function changeLoginState(state) {
-  if (state == 'google') {
-    $("#button_row").show();
-    $("#domain_boxes").hide();
-    $("#google_login_go_back").hide();
-  } else {
-    $("#button_row").hide();
-    $("#domain_boxes").show();
-    $("#google_login_go_back").show();
-  }
-  $('#login_type').val(state);
-}
-//]]>
-</script>
-
-</div>
 
 <!-- header end -->
 
-<div class="ui-widget" id="error_box" style="display: none">
-<div class="ui-state-error ui-corner-all">
-<p>
+<script type="text/javascript">
+</script>
+<!-- content start -->
+<div id="container" class="clearfix" style="clear:both;">
+
+<div id="lead" class="clearfix">
+
+<div class="container_24 clearfix" id="content">
+
+<div class="ui-widget prefix_3 suffix_3 grid_18" id="error_box" style="display: none">
+<div class="ui-state-error ui-corner-all clearfix">
+<img alt="close" class="dismiss" height="28" src="http://sanebox.com/images/close.png?1300722921" width="28">
+<div>
 <span class="ui-icon ui-icon-alert" style="float:left; margin-right: 0.3em"></span>
 <span class="message"></span>
-</p>
 </div>
-</div>
-<div class="ui-widget" id="notice_box" style="display: none">
-<div class="ui-state-highlight ui-corner-all">
-<p>
-<span class="ui-icon ui-icon-info" style="float:left; margin-right: 0.3em"></span>
-<span class="message"></span>
-</p>
 </div>
 </div>
 
-<!-- content start -->
-<div id="content">
+<div class="ui-widget prefix_3 suffix_3 grid_18" id="notice_box" style="display: none">
+<div class="ui-state-highlight ui-corner-all clearfix">
+<img alt="close" class="dismiss" height="28" src="http://sanebox.com/images/close.png?1300722921" width="28">
+<div>
+<span class="ui-icon ui-icon-alert" style="float:left; margin-right: 0.3em"></span>
+<span class="message"></span>
+</div>
+</div>
+</div>
+
 <h1 class="page-title">Privacy Policy</h1>
 
+<div class="grid_22 prefix_1">
 <p>
 (Thank you
 <a href="http://www.bbbonline.org/privacy/sample_privacy.asp" onclick="window.open(this.href);return false;">Better Business Bureau</a>
@@ -253,12 +205,12 @@ better safeguard your information.
 </p>
 
 <h2>How To Contact Us</h2>
-We can always be reached at:
-<p>
-Visible Certainty, Inc.<br>
+<p>We can always be reached at:</p>
+<address>
+<p>Visible Certainty, Inc.<br>
 211 Newbury Street, Unit #3<br>
-Boston MA 02116<br>
-</p>
+Boston MA 02116</p>
+</address>
 <p>
 or by email at: <a href="mailto:support@sanebox.com">support@sanebox.com</a>
 </p>
@@ -268,29 +220,48 @@ or by email at: <a href="mailto:support@sanebox.com">support@sanebox.com</a>
 </p>
 
 </div>
-<!-- content end -->
 
-<!-- footer start -->
-<div id="footer_guard"></div>
-<div id="footer">
-<ul>
-<li>© &nbsp;Copyright 2010 Visible Certainty, Inc.</li>
-<li>Privacy &amp; <a href="/tos">Terms of Service</a></li>
-<li><a href="/about">About Us</a></li>
-</ul>
-<div class="follow-us-wrap"><a href="http://www.twitter.com/getsanebox"><img alt="Follow" src="http://sanebox.com/images/follow.png?1290094980"></a></div>
+</div>
+
 <div class="clear"></div>
 </div>
 
+<div class="container_24">
+<!-- footer start -->
+<div id="footer" class="grid_12">
+  
+<ul class="links"> 
+<li>Privacy</li> 
+<li><a href="/tos">Terms of Service</a></li> 
+<li><a href="/about">About Us</a></li>
+</ul>
+
+<div id="copyright">
+    © &nbsp;Copyright 2011 Visible Certainty, Inc.. Learn to love email again.
+</div>
+
+</div>
+
 <!-- footer end -->
+<div class="clear"></div>
+</div>
+
+</div>
+<!-- content end -->
 
 <script type="text/javascript">
-      var clicky_custom = {};
-      clicky_custom.session = {};
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', "UA-20231119-1"]);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
 </script>
-<script src="http://static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">clicky.init(190688);</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="http://static.getclicky.com/190688ns.gif" /></p></noscript>
+<script src="//d1nu2rn22elx8m.cloudfront.net/performable/pax/8XewqQ.js" type="text/javascript"></script>
 
 
 
