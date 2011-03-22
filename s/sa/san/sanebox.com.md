@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanebox.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119015034id_/http%3A//www.sanebox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanebox.com privacy policy that was archived on 2011-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110322060811id_/http%3A//www.sanebox.com/privacy) for the most accurate reproduction.*
 
-# SaneBox
+# SaneBox: Get Through Email Faster
 
 (Thank you [Better Business Bureau](http://www.bbbonline.org/privacy/sample_privacy.asp) for the bulk of this privacy policy.) 
 
@@ -61,12 +61,11 @@ You can access all your personally identifiable information that we collect onli
 
 ## How To Contact Us
 
-We can always be reached at: 
+We can always be reached at:
 
 Visible Certainty, Inc.  
 211 Newbury Street, Unit #3  
-Boston MA 02116  
-
+Boston MA 02116
 
 or by email at: [support@sanebox.com](mailto:support@sanebox.com)
 
