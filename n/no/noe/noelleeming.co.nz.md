@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noelleeming.co.nz privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610000529id_/http%3A//www.noelleeming.co.nz/customer-service/faq-D5957C7EC93A7094CC25755400098B1D.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noelleeming.co.nz privacy policy that was archived on 2011-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110323001255id_/http%3A//www.noelleeming.co.nz/customer-service/faq-D5957C7EC93A7094CC25755400098B1D.html) for the most accurate reproduction.*
 
 # Customer Service - Noel Leeming
 
