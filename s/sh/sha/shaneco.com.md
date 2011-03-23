@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122104133id_/http%3A//www.shaneco.com/About/PrivacyPolicy.htmx%3Fcm_sp%3DGN-_-FOOTER-_-PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaneco.com privacy policy that was archived on 2011-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110323010837id_/http%3A//www.shaneco.com/About/PrivacyPolicy.htmx%3Fcm_sp%3DGN-_-FOOTER-_-PRIVACY) for the most accurate reproduction.*
 
 # Shane Co. Direct Diamond Importer - Privacy Policy
 
-You are here: [Home](https://web.archive.org/web/20101122104133id_/http%3A//www.shaneco.com/Default.aspx) > [Customer Service](https://web.archive.org/web/20101122104133id_/http%3A//www.shaneco.com/About/Default.htmx) > Privacy Policy
+You are here: [Home](https://web.archive.org/web/20110323010837id_/http%3A//www.shaneco.com/Default.aspx) > [Customer Service](https://web.archive.org/web/20110323010837id_/http%3A//www.shaneco.com/About/Default.htmx) > Privacy Policy
 
 At ShaneCo.com, we are committed to protecting your privacy. We will never sell or give any of your personal information to anyone. The information we gather is used to provide better service and information to you, our customer. 
 
@@ -43,7 +43,7 @@ We send all new members a welcome email to verify password and username. Establi
 Choice/Opt-out   
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site, at the point where we ask for the information.
 
-Users who no longer wish to receive promotional emails from Shane Co. may opt-out by clicking "Unsubscribe" in the email; or by logging into their ShaneCo.com account and changing their email preference; or by emailing us at [Support@ShaneCo.com](https://web.archive.org/web/20101122104133id_/http%3A//www.shaneco.com/About/ContactUs.aspx?SendTo=Support@ShaneCo.com). Shane Co. cardholders who no longer wish to receive postal mailings about the Shane Co. card should call the Wells Fargo Privacy Preference Line at 1-888-528-8460.
+Users who no longer wish to receive promotional emails from Shane Co. may opt-out by clicking "Unsubscribe" in the email; or by logging into their ShaneCo.com account and changing their email preference; or by emailing us at [Support@ShaneCo.com](https://web.archive.org/web/20110323010837id_/http%3A//www.shaneco.com/About/ContactUs.aspx?SendTo=Support@ShaneCo.com). Shane Co. cardholders who no longer wish to receive postal mailings about the Shane Co. card should call the Wells Fargo Privacy Preference Line at 1-888-528-8460.
 
 Users of our site are always notified when their information is being collected by any outside parties other than those mentioned in this privacy policy above. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
