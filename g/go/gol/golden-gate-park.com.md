@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golden-gate-park.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081017id_/http%3A//www.golden-gate-park.com/index.php/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golden-gate-park.com privacy policy that was archived on 2011-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110323094600id_/http%3A//www.golden-gate-park.com/index.php/info/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
