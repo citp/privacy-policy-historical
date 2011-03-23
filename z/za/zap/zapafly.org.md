@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapafly.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225145213id_/http%3A//zapafly.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapafly.org privacy policy that was archived on 2011-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110323233820id_/http%3A//zapafly.org/privacy) for the most accurate reproduction.*
 
 # Social Search Engine - Social Search Engine
 
