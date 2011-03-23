@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the lodgix.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122152732id_/http%3A//www.lodgix.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lodgix.com privacy policy that was archived on 2011-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110324005813id_/http%3A//www.lodgix.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Lodgix.com
-
-[](http://www.lodgix.com/)
-
-Vacation Rental Software
 
 Our formal privacy policy is listed below. In a nutshell, we don't allow third parties access to any of your data contained within the application. Your listing data will be made available to third party vacation rental marketing sites at your discretion. Third party access to this data can be revoked or paused at anytime wthin the Marketing Partners section of the application.
 
