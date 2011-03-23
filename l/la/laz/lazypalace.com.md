@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lazypalace.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122141729id_/http%3A//www.lazypalace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazypalace.com privacy policy that was archived on 2011-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110323205001id_/http%3A//www.lazypalace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Lazy Palace
+# Privacy Policy | Lazy Palace
 
 Lazy Palace has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
