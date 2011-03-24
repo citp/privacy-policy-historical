@@ -1,12 +1,54 @@
-<!--The following is the downloaded HTML source of the gtoffers.com privacy policy that was archived on 2010-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101216014004id_/http%3A//gametheory.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gtoffers.com privacy policy that was archived on 2011-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110324141937id_/http%3A//gametheory.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-    <title>Privacy Policy - Game Theory</title>
+    <title>Game Theory</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <link rel="stylesheet" type="text/css" href="./css/reset.css" media="all">
     <link rel="stylesheet" type="text/css" href="./css/boxes.css" media="all">
-    <script stype="text/javascript" src="./js/jquery.js"></script>
+    <script type="text/javascript" src="./js/jquery.js"></script>
+    <script type="text/javascript" src="./js/jquery.validate.js"></script>
+    <script type="text/javascript">
+    	function submitForm(){
+    		if ($("#upForm input").valid()) {
+    			if ($("#adBoxes").is(':visible')) {
+    				if ($("#p1").is(':checked') || $("#p2").is(':checked') || $("#p3").is(':checked')) {
+    					return true;
+    				} else {
+    					alert ("Please select products of interest.");
+    					return false;
+    				};	
+    			} else {
+					return true;
+				};
+			} else {
+				return false;
+			};
+    	};
+    	
+    	function hideBoxes() {
+    		$("#adBoxes").hide();
+    		$("#otherBox").hide();
+    		$("#expMore").removeClass("required");
+    		$("#reqProducts").removeClass("required");
+    	};
+    	
+    	function showAdBoxes() {
+    		hideBoxes();
+    		
+    		$("#adBoxes").show();
+    		$("#reqProducts").addClass("required");
+    	};
+    	
+    	function showOtherBox() {
+    		hideBoxes();
+    		
+    		$("#otherBox").show();
+    		$("#expMore").addClass("required");
+    	};
+    	
+    	
+    </script>
 </head>
 <body>
 <div class="wrapper">
@@ -160,7 +202,7 @@ For more information about protecting your privacy, you may wish to visit: <a hr
 </div>
     <div class="footer-container">
         <div class="footer">
-            <span class="legality">© 2010 GameTheory — All Rights Reserved</span>
+            <span class="legality">© 2011 GameTheory — All Rights Reserved</span>
             <ul class="footer-info">                                    
                 <li><a href="http://gametheory.com/about_us.php">About Us</a></li>
                 <li><a href="http://gametheory.com/advertisers.php">Advertisers</a></li>                    
