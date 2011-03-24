@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishafriend.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221034825id_/http%3A//www.wishafriend.com/info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishafriend.com privacy policy that was archived on 2011-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110324022422id_/http%3A//www.wishafriend.com/info/privacypolicy.php) for the most accurate reproduction.*
 
 # WishAFriend.com: Privacy Policy
 
@@ -20,7 +20,7 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 Google, as a third party vendor, uses cookies to serve ads on this website. Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
-For any queries, [contact us](https://web.archive.org/web/20101221034825id_/http%3A//www.wishafriend.com/info/contact.php). 
+For any queries, [contact us](https://web.archive.org/web/20110324022422id_/http%3A//www.wishafriend.com/info/contact.php). 
 
   
 
