@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenvogue.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105164934id_/http%3A//www.teenvogue.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenvogue.com privacy policy that was archived on 2011-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110324140812id_/http%3A//www.teenvogue.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: teenvogue.com
 
@@ -45,20 +45,6 @@ Wilmington, DE 19801
 
 
 
-[ ](http://www.condenaststore.com/?utm_source=TV&utm_medium=HPB&utm_content=IES_0801a&utm_campaign=CNS_IES)
-
 [](https://web.archive.org/services/newsletters/demographics)
-
-[](http://www.myspace.com/teenvogue_magazine "myspace")
-
-[](http://www.facebook.com/pages/Teen-Vogue/6636341311 "Facebook")
-
-[](http://twitter.com/Teen_Vogue "Twitter")
-
-##### What's Hot Right Now
-
-### most viewed
-
-### top rated
 
 [](https://w1.buysub.com/loc/TNV/ATGFailsafe)
