@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the autoincomeplus.com privacy policy that was archived on 2011-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110324104105id_/http%3A//www.autoincomeplus.com/privacyPolicy.php) for the most accurate reproduction.*
+
+# AutoIncomePlus:: Privacy Policy
+
+## 
+
+AutoIncomePlus is committed to customer service and we intend to uphold this by providing a private and secure browsing experience at AutoIncomePlus. The following policy will help you to understand how we will treat your personal information. As we continue to improve our site and as we take advantage of developments in technology, this policy may change from time to time so please check this policy on an ongoing basis for revisions and updates.
+
+**Information Collection and Use**
+
+AutoIncomePlus collects information from our web site in several ways. During registration, AutoIncomePlus asks for information such as your name, email address, and zip code. Once you have submitted this information and chosen a valid password, you will be able to take full advantage of everything AutoIncomePlus has to offer. You may also be asked for personal information when you report a problem with our site, or services; or, if you otherwise contact AutoIncomePlus. Of course, we will require credit card information, as well as billing information when you establish a AutoIncomePlus account. AutoIncomePlus also collects information using cookies, which are small pieces of information that are stored by your browser on your computer's hard drive. This information allows us to automatically link our customers to their personalized accounts. Most web browsers automatically accept cookies. Please check your browser's guidelines should you wish to prevent cookies. AutoIncomePlus is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Information is collected with the sole purpose of providing AutoIncomePlus services.
+
+**Information Disclosure**
+
+When you are on the AutoIncomePlus site and are asked for personal information, you are sharing that information with only AutoIncomePlus, its agents and representatives. AutoIncomePlus will not disclose any of your personally identifiable information except when we have your express permission or under special circumstances, such as when we believe in good faith that the law requires it. AutoIncomePlus may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) AutoIncomePlus's rights or property, other AutoIncomePlus users, or anyone else that could be harmed by such activities. AutoIncomePlus will comply with the requests of all recognized legal entities to aid in the stopping of spam, distribution of illicit sexual content to minors, or any other illegal activity brought to our attention through such channels.
+
+AutoIncomePlus may occasionally send you e-mail about products and services that we feel may be of interest to you. Only AutoIncomePlus (or agents or representatives working on behalf of AutoIncomePlus) will send you these emails. You may unsubscribe from the service information updates without any future correspondence.
