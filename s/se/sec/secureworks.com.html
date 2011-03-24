@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the secureworks.com privacy policy that was archived on 2010-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129192127id_/http%3A//www.secureworks.com/contact/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the secureworks.com privacy policy that was archived on 2011-03-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110324165302id_/http%3A//www.secureworks.com/contact/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>		
     <!-- Set content headers--> 
@@ -10,11 +10,13 @@
     <meta http-equiv="content-language" content="EN"> 
     <meta name="y_key" content="26ea72896fb30ff8">
     <meta name="verify-v1" content="0ikkdltxjtjngMawVKJgygCpzNUhxbI/ag4+tQbZSfM=">
+	<link rel="shortcut icon" href="/favicon.ico">
+
 
         
 		
 		<title>Privacy Policy - Contact - SecureWorks</title>
-		<link rel="shortcut icon" href="http://www.secureworks.com/images/swicon.ico">
+		
 		
 		<!--CSS FILES-->
     <link media="screen" rel="stylesheet" type="text/css" href="/stylesheets/page.css">
@@ -26,35 +28,49 @@
     <link rel="stylesheet" type="text/css" href="/stylesheets/contact.css">     
     <link media="print" rel="stylesheet" type="text/css" href="/stylesheets/print.css">
 		
-    <!--JS FILES -->
-    <script type="text/javascript" src="/lib/js/prototype.js"></script>
-		<script type="text/javascript" src="/lib/js/effects.js"></script>
-		<script type="text/javascript" src="/lib/js/state4.js"></script>
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script> 
+    	<!--JS FILES -->
+	<script type="text/javascript" src="/lib/js/prototype.js"></script>
+	<script type="text/javascript" src="/lib/js/effects.js"></script>
+	<script type="text/javascript" src="/lib/js/state4.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script> 
    	<script type="text/javascript" src="/lib/js/validation.js"></script>
-		<script type="text/javascript" src="/lib/js/AC_RunActiveContent.js"></script>
-    <script type="text/javascript" src="/lib/js/contentslider.js"></script>
-	  		<script type="text/javascript" src="/javascript/exp.js"></script>
+	<script type="text/javascript" src="/lib/js/AC_RunActiveContent.js"></script>
+    	<script type="text/javascript" src="/lib/js/contentslider.js"></script>
+		<script type="text/javascript" src="/javascript/exp.js"></script>
 
-    <!-- Feeds  -->       
-		<link rel="alternate" type="application/rss+xml" title="SecureWorks Information RSS (All Updates)" href="/feeds/main.xml">
-    <link rel="alternate" type="application/rss+xml" title="SecureWorks Research RSS (Blogs and Threat Analyses)" href="/feeds/research.xml">
-    <link rel="alternate" type="application/rss+xml" title="SecureWorks News Blog RSS" href="/feeds/newsblog.xml">
-    <link rel="alternate" type="application/rss+xml" title="SecureWorks Research Blog RSS" href="/feeds/blog.xml">
-    <link rel="alternate" type="application/rss+xml" title="SecureWorks Threat Analysis RSS" href="/feeds/threats.xml">
-    <link rel="alternate" type="application/rss+xml" title="SecureWorks Webcasts" href="/feeds/webcasts.xml">        
+	<script type="text/javascript" src="/lib/js/jquery.validate.min.js"></script>
+	
+	<script type="text/javascript">
+  	$(document).ready(function(){
+    	$.validator.addMethod("NumbersOnly", function(value, element) {
+        return this.optional(element) || /^[0-9\-\+]+$/i.test(value);
+    		}, "Phone must contain only numbers, + and -.");
+ 
+    	$("#dellswrxreferral").validate();
+  	});
+	</script>
+
+    	<!-- Feeds  -->       
+	<link rel="alternate" type="application/rss+xml" title="SecureWorks Information RSS (All Updates)" href="/feeds/main.xml">
+    	<link rel="alternate" type="application/rss+xml" title="SecureWorks Research RSS (Blogs and Threat Analyses)" href="/feeds/research.xml">
+    	<link rel="alternate" type="application/rss+xml" title="SecureWorks News Blog RSS" href="/feeds/newsblog.xml">
+    	<link rel="alternate" type="application/rss+xml" title="SecureWorks Research Blog RSS" href="/feeds/blog.xml">
+    	<link rel="alternate" type="application/rss+xml" title="SecureWorks Threat Analysis RSS" href="/feeds/threats.xml">
+    	<link rel="alternate" type="application/rss+xml" title="SecureWorks Webcasts" href="/feeds/webcasts.xml">        
+
+
   
 	</head>
 	<body id="" onload="ExpMenu();">
 
 <div id="wrapper"> <!-- page block -->
 
-  <div id="header"> <!-- header block -->
-    <div style="float:left; padding:10px 10px 18px 0px;"><a href="/"><img src="/images/headerlogo.png" width="233" height="37" alt="SecureWorks">
-   <!-- <br />    the information security experts  -->
+  <div id="header" style="height: 100px; background: #ffffff;"> <!-- header block -->
+    <div style="float:left; padding:10px 10px 18px 0px;"><a href="/"><img src="/images/headerlogo.png" alt="SecureWorks">
+ 
     </a></div>
-    <div id="tagheader">the information security experts</div>
-    <div id="loginheader"><a href="/contact/"><img src="/images/contact/world_icon.gif" alt="Worldwide Map Icon">&nbsp;Global</a>&nbsp;|&nbsp;<a href="/contact/request_info.html"><!--img src="/images/contacticon.gif" width="16" height="15" alt="SecureWorks-the information security expert" /-->Contact Us</a> |<a href="/contact/client_support.html"> Support</a> | <a href="/partners/intranet">Partners</a> | <img src="/images/rssfeed.gif" width="14" height="14" alt="SecureWorks-the information security expert">  <a href="/feeds/main.html">RSS</a>
+   
+    <div id="loginheader"><a href="/contact/"><img src="/images/contact/world_icon.gif" alt="Worldwide Map Icon">&nbsp;Global</a>&nbsp;|&nbsp;<a href="/contact/request_info.html">Contact Us</a> |<a href="/contact/client_support.html"> Support</a> | <a href="/partners/intranet">Partners</a> | <img src="/images/rssfeed.gif" width="14" height="14" alt="SecureWorks-the information security expert">  <a href="/feeds/main.html">RSS</a>
 
 	<!-- Begin PicoSearch Query Box --> 
 
@@ -63,7 +79,7 @@
   <div align="right">
     <input type="hidden" name="index" value="433999">
       <input type="text" name="query" value="" size="20" style="font-size:11px;  border: 1px solid #ccc;">
-    <input type="submit" value="SEARCH" name="search" style="border-style:hidden; background-color: #023D83; color: #FFFBDB; font-size:11px">
+    <input type="submit" value="SEARCH" name="search" style="border-style:hidden; background-color: #454545; color: #FFFBDB; font-size:11px">
   </div>
 </form>
 </div>
@@ -72,13 +88,13 @@
 <!-- End PicoSearch Query Box -->
 <!-- Start ll CodeBox -->
 <script type="text/javascript" language="javascript">llactid=12419</script>
-<script type="text/javascript" language="javascript" src="/lib/js/trackalyze.js"></script><img src="https://web.archive.org/web/20080917185621/http://t2.trackalyzer.com/trackalyze.asp?r=None&amp;p=https%3A//web.archive.org/web/20101129192127id_/http%253A//www.secureworks.com/contact/privacy_policy.html&amp;i=12419">  
+<script type="text/javascript" language="javascript" src="/lib/js/trackalyze.js"></script><img src="https://web.archive.org/web/20080917185621/http://t2.trackalyzer.com/trackalyze.asp?r=None&amp;p=https%3A//web.archive.org/web/20110324165302id_/http%253A//www.secureworks.com/contact/privacy_policy.html&amp;i=12419">  
 <!-- End ll Query Box -->
 
   </div> <!-- header block --> 
 
 <div id="menuwrapper"><!-- top navigation block -->
-  <ul id="menubar"><li id="t_home" trigger=""><a href="/index.html" id="t_home" class="trigger">Home</a></li><li id="t_services" trigger=""><a href="/services/" id="t_services" class="trigger">Services</a><ul><li id="t_srvo"><a href="/services/" id="t_srvo">Services Overview</a></li><li id="t_simo"><a href="/services/simondemand.html" id="t_simo">SIM On-Demand</a></li><li id="t_logm"><a href="/services/log_monitoring.html" id="t_logm">Log Monitoring</a></li><li id="t_logr"><a href="/services/log_retention.html" id="t_logr">Log Retention</a></li><li id="t_mnips"><a href="/services/network_intrusion_prevention_detection.html" id="t_mnips">IPS / IDS</a></li><li id="t_threat"><a href="/services/threat_intelligence.html" id="t_threat">Threat Intelligence</a></li><li id="t_firewall"><a href="/services/firewall.html" id="t_firewall">Firewall</a></li><li id="t_waf"><a href="/services/web_app_firewall" id="t_waf">Web App Firewall</a></li><li id="t_hips"><a href="/services/host_intrusion_prevention.html" id="t_hips">Host IPS</a></li><li id="t_vulnerability"><a href="/services/vulnerability_scanning.html" id="t_vulnerability">Vulnerability Scanning</a></li><li id="t_was"><a href="/services/web_app_scanning.html" id="t_was">Web App Scanning</a></li><li id="t_email"><a href="/services/encrypted_email.html" id="t_email">Encrypted Email</a></li><li id="t_sps"><a href="/services/professional/" id="t_sps">Security and Risk Consulting</a></li><li id="t_ei" class="has_children"><a href="/services/infrastructure/" id="t_ei">The SecureWorks Advantage</a></li><li id="t_deploy"><a href="/services/deployment.html" id="t_deploy">Deployment</a></li></ul></li><li id="t_compliance" trigger=""><a href="/compliance/" id="t_compliance" class="trigger">Compliance</a><ul><li id="t_comp"><a href="/compliance/" id="t_comp">Compliance Overview</a></li><li id="t_glba"><a href="/compliance/comp/glba.html" id="t_glba">GLBA/FFIEC</a></li><li id="t_hipaa"><a href="/compliance/comp/hipaa.html" id="t_hipaa">HIPAA</a></li><li id="t_nerc"><a href="/compliance/comp/nerc.html" id="t_nerc">NERC CIP</a></li><li id="t_pci"><a href="/compliance/comp/pci.html" id="t_pci">PCI</a></li><li id="t_fisma"><a href="/compliance/comp/fisma.html" id="t_fisma">FISMA</a></li><li id="t_industries" class="has_children"><a href="/compliance/industries/" id="t_industries">Industries</a></li></ul></li><li id="t_research" trigger=""><a href="/research/" id="t_research" class="trigger">Research</a><ul><li id="t_rover"><a href="/research/" id="t_rover">SecureWorks Research</a></li><li id="t_advisories"><a href="/research/../ctu/advisories/" id="t_advisories">Advisories</a></li><li id="t_articles"><a href="/research/articles/" id="t_articles">Articles</a></li><li id="t_ctunit"><a href="/research/counter_threat_unit.html" id="t_ctunit">Counter Threat Unit<sup>SM</sup></a></li><li id="t_newsletter"><a href="/research/newsletter/" id="t_newsletter">Newsletter</a></li><li id="t_blog"><a href="/research/blog/" id="t_blog">Research Blog</a></li><li id="t_sectools"><a href="/research/tools/" id="t_sectools">Security Tools</a></li><li id="t_security"><a href="/research/security.html" id="t_security">Security</a></li><li id="t_threatanalyses"><a href="/research/threats/" id="t_threatanalyses">Threat Analyses</a></li><li id="t_webcasts"><a href="/research/webcasts/" id="t_webcasts">Webcasts</a></li><li id="t_wpapers"><a href="/research/whitepapers/" id="t_wpapers">White Papers</a></li></ul></li><li id="t_media" trigger=""><a href="/media/" id="t_media" class="trigger">Media</a><ul><li id="t_moverview"><a href="/media/" id="t_moverview">News Overview</a></li><li id="t_news"><a href="/media/news/" id="t_news">In the News</a></li><li id="t_pr"><a href="/media/press_releases/" id="t_pr">Press Releases</a></li><li id="t_events"><a href="/media/events/" id="t_events">Events</a></li><li id="t_newsblog"><a href="/media/../blog" id="t_newsblog">News Blog</a></li></ul></li><li id="t_company" trigger=""><a href="/company/" id="t_company" class="trigger">Company</a><ul><li id="t_about"><a href="/company/about.html" id="t_about">About Secureworks</a></li><li id="t_mgmtteam"><a href="/company/team/" id="t_mgmtteam">Management Team</a></li><li id="t_careers"><a href="/company/career/" id="t_careers">Careers</a></li><li id="t_affiliations"><a href="/company/affiliations.html" id="t_affiliations">Affiliations</a></li><li id="t_awards"><a href="/company/awards.html" id="t_awards">Awards &amp; Recognition</a></li></ul></li><li id="t_partners" trigger=""><a href="/partners/" id="t_partners" class="trigger">Partners</a><ul><li id="t_partneroverview"><a href="/partners/" id="t_partneroverview">Partner Overview</a></li><li id="t_var"><a href="/partners/var_integrator.html" id="t_var">VAR/Integrator Partners</a></li><li id="t_msp"><a href="/partners/msp.html" id="t_msp">MSP Partners</a></li><li id="t_strategic"><a href="/partners/strategic.html" id="t_strategic">Strategic Partners</a></li><li id="t_tech"><a href="/partners/technology.html" id="t_tech">Technology</a></li><li id="t_trade"><a href="/partners/trade_associations.html" id="t_trade">Trade Associations</a></li><li id="t_become"><a href="/partners/become_partner.html" id="t_become">Become a Partner</a></li><li id="t_pintranet" class="has_children"><a href="/partners/intranet/" id="t_pintranet">Partner Intranet</a></li></ul></li><li id="t_contact" trigger=""><a href="/contact/" id="t_contact" class="trigger">Contact</a><ul><li id="t_requestinfo"><a href="/contact/request_info.html" id="t_requestinfo">Request Information</a></li><li id="t_publickey"><a href="/contact/client_support.html" id="t_publickey">Client Support</a></li><li id="t_plogin"><a href="http://www.secureworks.com/partners/intranet/" id="t_plogin">Partner Login</a></li></ul></li></ul>  
+  <ul id="menubar"><li id="t_home" trigger=""><a href="/index.html" id="t_home" class="trigger">Home</a></li><li id="t_services" trigger=""><a href="/services/" id="t_services" class="trigger">Services</a><ul><li id="t_srvo"><a href="/services/" id="t_srvo">Services Overview</a></li><li id="t_simo"><a href="/services/simondemand.html" id="t_simo">SIM On-Demand</a></li><li id="t_logm"><a href="/services/log_monitoring.html" id="t_logm">Log Monitoring</a></li><li id="t_logr"><a href="/services/log_retention.html" id="t_logr">Log Retention</a></li><li id="t_mnips"><a href="/services/network_intrusion_prevention_detection.html" id="t_mnips">IPS / IDS</a></li><li id="t_threat"><a href="/services/CTU_intelligence.html" id="t_threat">CTU Intelligence Services</a></li><li id="t_firewall"><a href="/services/firewall.html" id="t_firewall">Firewall</a></li><li id="t_waf"><a href="/services/web_app_firewall" id="t_waf">Web App Firewall</a></li><li id="t_hips"><a href="/services/host_intrusion_prevention.html" id="t_hips">Host IPS</a></li><li id="t_vulnerability"><a href="/services/vulnerability_scanning.html" id="t_vulnerability">Vulnerability Scanning</a></li><li id="t_was"><a href="/services/web_app_scanning.html" id="t_was">Web App Scanning</a></li><li id="t_emailsec"><a href="/services/email_security.html" id="t_emailsec">Email Security</a></li><li id="t_websec"><a href="/services/web_security.html" id="t_websec">Web Security</a></li><li id="t_sps"><a href="/services/professional/" id="t_sps">Security and Risk Consulting</a></li><li id="t_ei" class="has_children"><a href="/services/infrastructure/" id="t_ei">The SecureWorks Advantage</a></li><li id="t_deploy"><a href="/services/deployment.html" id="t_deploy">Deployment</a></li></ul></li><li id="t_compliance" trigger=""><a href="/compliance/" id="t_compliance" class="trigger">Compliance</a><ul><li id="t_comp"><a href="/compliance/" id="t_comp">Compliance Overview</a></li><li id="t_glba"><a href="/compliance/comp/glba.html" id="t_glba">GLBA/FFIEC</a></li><li id="t_hipaa"><a href="/compliance/comp/hipaa.html" id="t_hipaa">HIPAA</a></li><li id="t_nerc"><a href="/compliance/comp/nerc.html" id="t_nerc">NERC CIP</a></li><li id="t_pci"><a href="/compliance/comp/pci.html" id="t_pci">PCI</a></li><li id="t_fisma"><a href="/compliance/comp/fisma.html" id="t_fisma">FISMA</a></li><li id="t_industries" class="has_children"><a href="/compliance/industries/" id="t_industries">Industries</a></li></ul></li><li id="t_research" trigger=""><a href="/research/" id="t_research" class="trigger">Research</a><ul><li id="t_rover"><a href="/research/" id="t_rover">SecureWorks Research</a></li><li id="t_advisories"><a href="/research/../ctu/advisories/" id="t_advisories">Advisories</a></li><li id="t_articles"><a href="/research/articles/" id="t_articles">Articles</a></li><li id="t_ctunit"><a href="/research/counter_threat_unit.html" id="t_ctunit">Counter Threat Unit<sup>SM</sup></a></li><li id="t_newsletter"><a href="/research/newsletter/" id="t_newsletter">Newsletter</a></li><li id="t_blog"><a href="/research/blog/" id="t_blog">Research Blog</a></li><li id="t_sectools"><a href="/research/tools/" id="t_sectools">Security Tools</a></li><li id="t_security"><a href="/research/security.html" id="t_security">Security</a></li><li id="t_threatanalyses"><a href="/research/threats/" id="t_threatanalyses">Threat Analyses</a></li><li id="t_webcasts"><a href="/research/webcasts/" id="t_webcasts">Webcasts</a></li><li id="t_wpapers"><a href="/research/whitepapers/" id="t_wpapers">White Papers</a></li></ul></li><li id="t_media" trigger=""><a href="/media/" id="t_media" class="trigger">Media</a><ul><li id="t_moverview"><a href="/media/" id="t_moverview">News Overview</a></li><li id="t_news"><a href="/media/news/" id="t_news">In the News</a></li><li id="t_pr"><a href="/media/press_releases/" id="t_pr">Press Releases</a></li><li id="t_events"><a href="/media/events/" id="t_events">Events</a></li><li id="t_newsblog"><a href="/media/../blog" id="t_newsblog">News Blog</a></li></ul></li><li id="t_company" trigger=""><a href="/company/" id="t_company" class="trigger">Company</a><ul><li id="t_about"><a href="/company/about.html" id="t_about">About SecureWorks</a></li><li id="t_mgmtteam"><a href="/company/team/" id="t_mgmtteam">Management Team</a></li><li id="t_careers"><a href="/company/career/" id="t_careers">Careers</a></li><li id="t_affiliations"><a href="/company/affiliations.html" id="t_affiliations">Affiliations</a></li><li id="t_awards"><a href="/company/awards.html" id="t_awards">Awards &amp; Recognition</a></li></ul></li><li id="t_partners" trigger=""><a href="/partners/" id="t_partners" class="trigger">Partners</a><ul><li id="t_partneroverview"><a href="/partners/" id="t_partneroverview">Partner Overview</a></li><li id="t_var"><a href="/partners/var_integrator.html" id="t_var">VAR/Integrator Partners</a></li><li id="t_msp"><a href="/partners/msp.html" id="t_msp">MSP Partners</a></li><li id="t_strategic"><a href="/partners/strategic.html" id="t_strategic">Strategic Partners</a></li><li id="t_tech"><a href="/partners/technology.html" id="t_tech">Technology</a></li><li id="t_trade"><a href="/partners/trade_associations.html" id="t_trade">Trade Associations</a></li><li id="t_become"><a href="/partners/become_partner.html" id="t_become">Become a Partner</a></li><li id="t_pintranet" class="has_children"><a href="/partners/intranet/" id="t_pintranet">Partner Intranet</a></li></ul></li><li id="t_contact" trigger=""><a href="/contact/" id="t_contact" class="trigger">Contact</a><ul><li id="t_requestinfo"><a href="/contact/request_info.html" id="t_requestinfo">Request Information</a></li><li id="t_publickey"><a href="/contact/client_support.html" id="t_publickey">Client Support</a></li><li id="t_plogin"><a href="http://www.secureworks.com/partners/intranet/" id="t_plogin">Partner Login</a></li></ul></li></ul>  
 </div> 
 <!-- top navigation block -->
  
@@ -107,44 +123,44 @@
                     </a><li><a href="/"></a><a href="/contact/">Contact</a></li><li id="current">Privacy Policy</li></ul></div>  <!-- breadcrumb block -->
 			
 			<div id="content" class="dynacloud"> <!-- content block -->    
-<h1>SecureWorks Privacy Policy</h1>
+<h1>Dell SecureWorks Privacy Policy</h1>
 <h2></h2>
-<p></p><h3><strong>About SecureWorks</strong></h3>
-<p>With over 2,900 clients, SecureWorks, Inc. ("SecureWorks") is one of the market's leading Security as a Service providers. Organizations are protected from external and internal cyber-threats through SecureWorks' <a href="../../services/infrastructure/security_management_platform.html">On-Demand Security Information and Event Management (SIEM) platform</a>, the SecureWorks <a href="../../research/counter_threat_unit.html">Counter Threat Unit™</a> and three fully synchronous <a href="../../services/infrastructure/soc.html">Security Operations Centers (SOCs) </a>staffed with SANS GIAC certified analysts working 24x7 to safeguard client systems.<strong> </strong></p>
+<p></p><h3><strong>About Dell SecureWorks</strong></h3>
+<p>With over 2,900 clients, Dell SecureWorks, Inc. ("Dell SecureWorks") is one of the market's leading Security as a Service providers. Organizations are protected from external and internal cyber-threats through Dell SecureWorks' <a href="../../services/infrastructure/security_management_platform.html">On-Demand Security Information and Event Management (SIEM) platform</a>, the Dell SecureWorks <a href="../../research/counter_threat_unit.html">Counter Threat Unit™</a> and three fully synchronous <a href="../../services/infrastructure/soc.html">Security Operations Centers (SOCs) </a>staffed with SANS GIAC certified analysts working 24x7 to safeguard client systems.<strong> </strong></p>
 <h3><strong>The Information SECUREWORKS Collects via its Website</strong></h3>
-<p>This site is provided by SecureWorks. SecureWorks collects information in several ways from different parts of this site. SecureWorks collects personal information from you when you register with this site. SecureWorks also may ask you for personal information at other times, such as when you ask a question or report a problem with this site. If you contact SecureWorks, SecureWorks may keep a record of that session or correspondence, including a record of your email address. SecureWorks may also occasionally ask users to complete surveys for research purposes. There also may be services on this site that require you to fill out an online form or send SecureWorks an email message in order to utilize these services. SecureWorks collects any information that you provide, including any personal information.</p>
-<p>SecureWorks also may collect IP addresses and domain names of users of this site to measure the number of visits, pages visited, average time spent on this site, and similar items.</p>
+<p>This site is provided by Dell SecureWorks. Dell SecureWorks collects information in several ways from different parts of this site. Dell SecureWorks collects personal information from you when you register with this site. Dell SecureWorks also may ask you for personal information at other times, such as when you ask a question or report a problem with this site. If you contact Dell SecureWorks, Dell SecureWorks may keep a record of that session or correspondence, including a record of your email address. Dell SecureWorks may also occasionally ask users to complete surveys for research purposes. There also may be services on this site that require you to fill out an online form or send Dell SecureWorks an email message in order to utilize these services. Dell SecureWorks collects any information that you provide, including any personal information.</p>
+<p>Dell SecureWorks also may collect IP addresses and domain names of users of this site to measure the number of visits, pages visited, average time spent on this site, and similar items.</p>
 <p>"Cookies" are used in connection with this site. A cookie is a small amount of identifier data that is sent to your browser from a web server and stored on your computer's hard drive. By using cookies, information is potentially collected without your express knowledge. Most browsers are initially set to accept cookies but you can change the setting to refuse cookies or to be alerted when cookies are being sent. While refusal to accept cookies will not prevent the use of portions of this site, some portions of this site may not function properly without cookies.</p>
-<h3><strong>How SecureWorks Uses the Information it Collects</strong></h3>
-<p>SecureWorks uses the information it collects through this site to improve its marketing and promotional efforts, to improve its content, and to customize this site's services, content, and layout. SecureWorks may provide the information it collects through this site to SecureWorks business partners and to third parties who provide services on SecureWorks behalf. SecureWorks may use the information it collects through this site to inform you of new services, changes, or promotions. If you do not want us to send you this type of information, please let us know by contacting us at 404-327-6339. We will not disclose your personal information to third parties except as described in this Privacy Policy without first informing you of such change in our disclosure practices and providing you a choice regarding such disclosure.</p>
-<p>Generally, SecureWorks may use cookies and the information they provide to: (a) remind it of who you are; (b) access your account information in order to deliver to you better and more personalized service; (c) estimate its audience size; (d) determine the nature and extent of repeat usage; and (e) measure certain traffic patterns to understand how users' habits are similar or different from one another, so that SecureWorks may improve its site. <br>SecureWorks understands the importance of privacy and confidentiality to users of this site. SecureWorks will not share personal information you submit through this site with companies not affiliated with SecureWorks for purposes of marketing or promoting events, products, or similar items, unless such events, products, or similar items are related to SecureWorks, and except that SecureWorks may, from time to time, make personal information available to selected third parties, but only in the aggregate.</p>
-<p>SecureWorks may provide the information it collects through this site to one or more third parties in the event that all or part of SecureWorks or all or part of SecureWorks assets are acquired by, merged with, sold to, or otherwise disposed of to one or more third parties (including, without limitation, in the event of bankruptcy). SecureWorks may also disclose information it collects through this site when required to do so by a court, regulatory agency, subpoena, law, regulation, or other body of competent jurisdiction and authority, and for administrative and other purposes that SecureWorks deems necessary to maintain, service, and improve its products and services and to protect its rights and property. Finally, if you become involved in any violation of security, SecureWorks may release information about you to system administrators at other sites in order to assist them in resolving security incidents.</p>
+<h3><strong>How Dell SecureWorks Uses the Information it Collects</strong></h3>
+<p>Dell SecureWorks uses the information it collects through this site to improve its marketing and promotional efforts, to improve its content, and to customize this site's services, content, and layout. Dell SecureWorks may provide the information it collects through this site to Dell SecureWorks business partners and to third parties who provide services on Dell SecureWorks behalf. Dell SecureWorks may use the information it collects through this site to inform you of new services, changes, or promotions. If you do not want us to send you this type of information, please let us know by contacting us at 404-327-6339. We will not disclose your personal information to third parties except as described in this Privacy Policy without first informing you of such change in our disclosure practices and providing you a choice regarding such disclosure.</p>
+<p>Generally, Dell SecureWorks may use cookies and the information they provide to: (a) remind it of who you are; (b) access your account information in order to deliver to you better and more personalized service; (c) estimate its audience size; (d) determine the nature and extent of repeat usage; and (e) measure certain traffic patterns to understand how users' habits are similar or different from one another, so that Dell SecureWorks may improve its site. <br>Dell SecureWorks understands the importance of privacy and confidentiality to users of this site. Dell SecureWorks will not share personal information you submit through this site with companies not affiliated with Dell SecureWorks for purposes of marketing or promoting events, products, or similar items, unless such events, products, or similar items are related to Dell SecureWorks, and except that Dell SecureWorks may, from time to time, make personal information available to selected third parties, but only in the aggregate.</p>
+<p>Dell SecureWorks may provide the information it collects through this site to one or more third parties in the event that all or part of Dell SecureWorks or all or part of Dell SecureWorks assets are acquired by, merged with, sold to, or otherwise disposed of to one or more third parties (including, without limitation, in the event of bankruptcy). Dell SecureWorks may also disclose information it collects through this site when required to do so by a court, regulatory agency, subpoena, law, regulation, or other body of competent jurisdiction and authority, and for administrative and other purposes that Dell SecureWorks deems necessary to maintain, service, and improve its products and services and to protect its rights and property. Finally, if you become involved in any violation of security, Dell SecureWorks may release information about you to system administrators at other sites in order to assist them in resolving security incidents.</p>
 <h3><strong>Integrity and Security</strong></h3>
-<p>SecureWorks employs commercially reasonable managerial and technical measures to help protect the security and integrity of the personal information it collects online through this site. You acknowledge, however, that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while SecureWorks strives to protect your personal information, SecureWorks cannot ensure the security of any information you transmit to or from this site.</p>
+<p>Dell SecureWorks employs commercially reasonable managerial and technical measures to help protect the security and integrity of the personal information it collects online through this site. You acknowledge, however, that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while Dell SecureWorks strives to protect your personal information, Dell SecureWorks cannot ensure the security of any information you transmit to or from this site.</p>
 <h3><strong>No Collection of Information from Children</strong></h3>
-<p>SecureWorks does not intend to collect personal information from children who identify themselves as being under 18 years of age. Children should not provide personal information on this site, and should ask their parents to submit a request on their behalf if they want to receive information related to this site.</p>
+<p>Dell SecureWorks does not intend to collect personal information from children who identify themselves as being under 18 years of age. Children should not provide personal information on this site, and should ask their parents to submit a request on their behalf if they want to receive information related to this site.</p>
 <h3><strong>Privacy Practices of Other sites</strong></h3>
-<p>This Privacy Policy only address the use and disclosure of information SecureWorks collects online through this site, not information that SecureWorks collects through other sources. This site may include links to the sites of SecureWorks' business partners or others. SecureWorks is not responsible for these other sites' privacy practices, which may be different from SecureWorks' privacy practices.</p>
-<h3><strong>Contacting SecureWorks About Your Personal Information</strong></h3>
-<p>If you would like to review the personal information that SecureWorks has collected about you through this site in order to verify its accuracy and completeness, or if you have a question or complaint regarding SecureWorks' privacy practices, please contact SecureWorks at 404-327-6339.</p>
-<h3><strong>SecureWorks EU and Swiss Safe Harbors Policy</strong></h3>
-<p>This Section of the Privacy Policy describes how SecureWorks handles personal data of representatives of, and event data related to, certain clients from the European Union and Switzerland in connection with the delivery of the following managed security services: <a href="http://www.secureworks.com/services/network_intrusion_prevention_detection.html" target="_blank">Intrusion Prevention Systems (IPS), Intrusion Detection Systems (IDS)</a>, Log Monitoring, Log Retention, Host IPS, Firewall Monitoring, Firewall Management, Vulnerability Scanning and Security Incident Management (SIM) On-Demand and other managed security and consulting&nbsp; services ("Covered Services") Specifically, SecureWorks adheres to the EU Safe Harbor Privacy Principles ("EU Safe Harbor") and to the Swiss EU Safe Harbor Privacy Principles (“Swiss Safe Harbor” and together with the EU Safe Harbor, the “European Safe Harbors”) with respect to certain personally identifiable information that it receives from Covered Services clients in the European Union and Switzerland related to its services ("European Personal Data"). SecureWorks has various other service offerings and data collections (for example, consulting services) which are not covered by this Section of the Privacy Policy, nor by SecureWorks' participation in the European Safe Harbors and SecureWorks makes no European Safe Harbors representations with respect to any data collected or used in these service offerings or data collections. For further background about the European Safe Harbors, please refer to the U.S. Department of Commerce's website at <a title="http://export.gov/safeharbor/" href="http://export.gov/safeharbor/" target="_blank">http://export.gov/safeharbor/</a>.</p>
+<p>This Privacy Policy only address the use and disclosure of information Dell SecureWorks collects online through this site, not information that Dell SecureWorks collects through other sources. This site may include links to the sites of Dell SecureWorks' business partners or others. Dell SecureWorks is not responsible for these other sites' privacy practices, which may be different from Dell SecureWorks' privacy practices.</p>
+<h3><strong>Contacting Dell SecureWorks About Your Personal Information</strong></h3>
+<p>If you would like to review the personal information that Dell SecureWorks has collected about you through this site in order to verify its accuracy and completeness, or if you have a question or complaint regarding Dell SecureWorks' privacy practices, please contact Dell SecureWorks at 404-327-6339.</p>
+<h3><strong>Dell SecureWorks EU and Swiss Safe Harbors Policy</strong></h3>
+<p>This Section of the Privacy Policy describes how Dell SecureWorks handles personal data of representatives of, and event data related to, certain clients from the European Union and Switzerland in connection with the delivery of the following managed security services: <a href="http://www.secureworks.com/services/network_intrusion_prevention_detection.html" target="_blank">Intrusion Prevention Systems (IPS), Intrusion Detection Systems (IDS)</a>, Log Monitoring, Log Retention, Host IPS, Firewall Monitoring, Firewall Management, Vulnerability Scanning and Security Incident Management (SIM) On-Demand and other managed security and consulting&nbsp; services ("Covered Services") Specifically, Dell SecureWorks adheres to the EU Safe Harbor Privacy Principles ("EU Safe Harbor") and to the Swiss EU Safe Harbor Privacy Principles (“Swiss Safe Harbor” and together with the EU Safe Harbor, the “European Safe Harbors”) with respect to certain personally identifiable information that it receives from Covered Services clients in the European Union and Switzerland related to its services ("European Personal Data"). Dell SecureWorks has various other service offerings and data collections (for example, consulting services) which are not covered by this Section of the Privacy Policy, nor by Dell SecureWorks' participation in the European Safe Harbors and Dell SecureWorks makes no European Safe Harbors representations with respect to any data collected or used in these service offerings or data collections. For further background about the European Safe Harbors, please refer to the U.S. Department of Commerce's website at <a title="http://export.gov/safeharbor/" href="http://export.gov/safeharbor/" target="_blank">http://export.gov/safeharbor/</a>.</p>
 <h3><strong>Collection and Use of European Personal Data</strong></h3>
-<p>From its clients, SecureWorks may collect name, title, address, phone, fax, pager number, and other contact information ("Contact Data") for purposes of contacting clients as necessary or appropriate to provide or support the Covered Services. Where permitted by law, SecureWorks may also use this Contact Data to communicate regarding SecureWorks products or services, and disclose such data to subsidiaries, business partners and independent resellers of SecureWorks services for the same purposes. With respect to any sharing of European Personal Data for purposes of marketing SecureWorks products and services, SecureWorks obtains promises from its subsidiaries, business partners and independent resellers that such entities will use and disclose the European Personal Data for purposes of marketing SecureWorks products and services only. Individuals may opt-out of further disclosures of their European Personal Data from SecureWorks to subsidiaries, business partners and independent resellers, and further uses of their data by SecureWorks for marketing, by contacting SecureWorks at 404-327-6339. If you receive a marketing communication from one our subsidiaries, business partners or independent resellers, you should opt-out with that entity directly.</p>
-<p>In connection with providing the Covered Services, SecureWorks may collect passwords, user names, and other data from client networks, which may incidentally include European Personal Data ("Event Data") for the exclusive purposes of performing the Covered Services on behalf of its clients. SecureWorks does not control the content of the Event Data as this data is securely transmitted to SecureWorks by its clients' network assets. This Event Data is merely stored and processed by SecureWorks and clients are informed that the Event Data may be transmitted outside the EU or Switzerland. Clients are responsible for warranting that the client had the full authority to transmit such Event Data to SecureWorks for purposes of the Covered Services. At all times with respect to Event Data, and not for any other purpose under US federal or state law, SecureWorks acts as a mere "data processor" (as that term is defined under applicable EU or Swiss law or otherwise referred to under the European Safe Harbors as an "agent") on behalf of its clients.</p>
+<p>From its clients, Dell SecureWorks may collect name, title, address, phone, fax, pager number, and other contact information ("Contact Data") for purposes of contacting clients as necessary or appropriate to provide or support the Covered Services. Where permitted by law, Dell SecureWorks may also use this Contact Data to communicate regarding Dell SecureWorks products or services, and disclose such data to subsidiaries, business partners and independent resellers of Dell SecureWorks services for the same purposes. With respect to any sharing of European Personal Data for purposes of marketing Dell SecureWorks products and services, Dell SecureWorks obtains promises from its subsidiaries, business partners and independent resellers that such entities will use and disclose the European Personal Data for purposes of marketing Dell SecureWorks products and services only. Individuals may opt-out of further disclosures of their European Personal Data from Dell SecureWorks to subsidiaries, business partners and independent resellers, and further uses of their data by Dell SecureWorks for marketing, by contacting Dell SecureWorks at 404-327-6339. If you receive a marketing communication from one our subsidiaries, business partners or independent resellers, you should opt-out with that entity directly.</p>
+<p>In connection with providing the Covered Services, Dell SecureWorks may collect passwords, user names, and other data from client networks, which may incidentally include European Personal Data ("Event Data") for the exclusive purposes of performing the Covered Services on behalf of its clients. Dell SecureWorks does not control the content of the Event Data as this data is securely transmitted to Dell SecureWorks by its clients' network assets. This Event Data is merely stored and processed by Dell SecureWorks and clients are informed that the Event Data may be transmitted outside the EU or Switzerland. Clients are responsible for warranting that the client had the full authority to transmit such Event Data to Dell SecureWorks for purposes of the Covered Services. At all times with respect to Event Data, and not for any other purpose under US federal or state law, Dell SecureWorks acts as a mere "data processor" (as that term is defined under applicable EU or Swiss law or otherwise referred to under the European Safe Harbors as an "agent") on behalf of its clients.</p>
 <h3><strong>Data Integrity and Access</strong></h3>
-<p>SecureWorks takes commercially reasonable precautions to protect European Personal Data from loss, misuse and unauthorized access, disclosure, alteration, and destruction.</p>
-<p>To the extent necessary or appropriate consistent with its role as a data processor, SecureWorks makes reasonable efforts to keep Event Data reliable for its intended use, accurate, current, and complete. SecureWorks makes reasonable efforts to keep all other European Personal Data reliable for its intended use, accurate, current, and complete. SecureWorks also provides client contacts with the opportunity to access, review and correct their own Contact Data, and otherwise provides clients access in accordance with the European Safe Harbors. SecureWorks will respond to the request within 30 days.</p>
-<p>As a data processor, SecureWorks has no direct relationship with the individuals whose European Personal Data may be included in Event Data processed by SecureWorks. Individuals, who may be clients' customers or employees, seeking to correct, amend or delete European Personal Data included in Event Data should first contact their company's representative (i.e., SecureWorks' client), the data controller, who provided the data to SecureWorks. The client will then provide access to the individual as determined under the applicable local data protection law and SecureWorks will cooperate with the client per the established contractual arrangements.</p>
+<p>Dell SecureWorks takes commercially reasonable precautions to protect European Personal Data from loss, misuse and unauthorized access, disclosure, alteration, and destruction.</p>
+<p>To the extent necessary or appropriate consistent with its role as a data processor, Dell SecureWorks makes reasonable efforts to keep Event Data reliable for its intended use, accurate, current, and complete. Dell SecureWorks makes reasonable efforts to keep all other European Personal Data reliable for its intended use, accurate, current, and complete. Dell SecureWorks also provides client contacts with the opportunity to access, review and correct their own Contact Data, and otherwise provides clients access in accordance with the European Safe Harbors. Dell SecureWorks will respond to the request within 30 days.</p>
+<p>As a data processor, Dell SecureWorks has no direct relationship with the individuals whose European Personal Data may be included in Event Data processed by Dell SecureWorks. Individuals, who may be clients' customers or employees, seeking to correct, amend or delete European Personal Data included in Event Data should first contact their company's representative (i.e., Dell SecureWorks' client), the data controller, who provided the data to Dell SecureWorks. The client will then provide access to the individual as determined under the applicable local data protection law and Dell SecureWorks will cooperate with the client per the established contractual arrangements.</p>
 <h3><strong>Other Disclosures</strong></h3>
-<p>SecureWorks may also disclose European Personal Data as necessary in connection with the sale or transfer of all or part of its business, provided that it will notify affected clients in accordance with the procedure for changing this Privacy Statement as noted above. In situations where SecureWorks discloses European Personal Data to any third parties acting as "agents" on behalf of SecureWorks, SecureWorks will require the recipient to protect the data in accordance with the relevant principles in the European Safe Harbors, or otherwise take steps to ensure that the European Personal Data is appropriately protected. SecureWorks may also disclose European Personal Data where required or permitted by law, where SecureWorks believes that such disclosures are appropriate in connection with a law enforcement request or otherwise permitted by the European Safe Harbors, or in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply SecureWorks agreements.</p>
+<p>Dell SecureWorks may also disclose European Personal Data as necessary in connection with the sale or transfer of all or part of its business, provided that it will notify affected clients in accordance with the procedure for changing this Privacy Statement as noted above. In situations where Dell SecureWorks discloses European Personal Data to any third parties acting as "agents" on behalf of Dell SecureWorks, Dell SecureWorks will require the recipient to protect the data in accordance with the relevant principles in the European Safe Harbors, or otherwise take steps to ensure that the European Personal Data is appropriately protected. Dell SecureWorks may also disclose European Personal Data where required or permitted by law, where Dell SecureWorks believes that such disclosures are appropriate in connection with a law enforcement request or otherwise permitted by the European Safe Harbors, or in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply Dell SecureWorks agreements.</p>
 <h3><strong>Questions</strong></h3>
-<p>If you have any questions about this European Safe Harbors Privacy Statement, or if you would like to request access to European Personal Data that SecureWorks may maintain about you, please contact us as follows:</p>
-<p><strong>Jim Ulam<br> </strong>General Counsel<br> SecureWorks, Inc.<br> One Concourse Pkway, Suite 500<br>Atlanta, GA 30328</p>
+<p>If you have any questions about this European Safe Harbors Privacy Statement, or if you would like to request access to European Personal Data that Dell SecureWorks may maintain about you, please contact us as follows:</p>
+<p><strong>Jim Ulam<br> </strong>General Counsel<br> Dell SecureWorks, Inc.<br> One Concourse Pkway, Suite 500<br>Atlanta, GA 30328</p>
 <p>Email: <a href="mailto:EUSafeHarbor@SecureWorks.com">EUSafeHarbor@SecureWorks.com</a></p>
-<p>Any questions regarding SecureWorks' European Safe Harbors Participation should first be directed to the SecureWorks contact above. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact the EU or Swiss Data Protection Authorities for further information.</p>
+<p>Any questions regarding Dell SecureWorks' European Safe Harbors Participation should first be directed to the Dell SecureWorks contact above. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you may then contact the EU or Swiss Data Protection Authorities for further information.</p>
 <h3><strong>Changes to This Privacy Policy</strong></h3>
-<p>SecureWorks can revise this Privacy Policy (including the European Safe Harbors Policy) at any time by updating this posting. Please consult this Privacy Policy regularly.<strong>&nbsp;</strong></p>
+<p>Dell SecureWorks can revise this Privacy Policy (including the European Safe Harbors Policy) at any time by updating this posting. Please consult this Privacy Policy regularly.<strong>&nbsp;</strong></p>
 <!--Last Updated 04 FEBRUARY 2010 --><p></p>
 
         
@@ -158,11 +174,11 @@
     <tbody><tr>
       <th height="27" colspan="2"><h3>Next Steps</h3></th>
     </tr>
-    <tr>
-    <td><a href="/contact/request_info/sales"><img src="/images/arrowpic.jpg" alt="Start With SecureWorks" width="40" height="40" border="0"></a></td>
+    <!-- <tr>
+    <td><a href="/contact/request_info/sales"><img src="/images/arrowpic.jpg" alt="Start With SecureWorks" width="40" height="40" border="0" /></a></td>
       <td height="27" align="center">
       <strong><a href="/contact/request_info/sales">Request More Information Now</a></strong>      </td>
-    </tr>
+    </tr> -->
     <tr>
     <td width="32"><a href="/contact/"><img src="/images/phonepic.jpg" alt="Call SecureWorks" width="40" height="40" border="0"></a></td>
       <td width="371" height="27" align="center">
@@ -179,9 +195,7 @@
   <p></p>
 <p></p>
 	<div class="clear">    </div>
-    	  
-
-       
+    	         
  
 <script language="javascript">
 		//Temporary Request Info Toggle
@@ -238,8 +252,10 @@ function hideBlock(id, visible)
                 <li class="printer_icon"><a href="javascript:print();">Print this Page</a></li>
                  
 				
-<li><a href="javascript:showBlock('commentForm'); javascript:hideBlock('newsletterForm');" id="request">Request More Info</a></li>
-  
+      <li><a href="javascript:showBlock('commentForm'); javascript:hideBlock('newsletterForm');" id="request">Request More Info</a></li>
+     
+    
+     
 <li><a href="javascript:showBlock('newsletterForm'); javascript:hideBlock('commentForm'); ">Sign up for the SecureWorks 'On the Radar Newsletter</a></li>
               </ul> 
             </div>
@@ -250,12 +266,7 @@ function hideBlock(id, visible)
             </div>
             <div class="whitespace"></div>  
         </div>
-                
-	
-
-        
-               
-        
+                 
        <div id="commentForm" class="sideBarHide">
 		<div>
 	    <h3>Info Request</h3> <!-- form block -->	
@@ -276,32 +287,33 @@ function hideBlock(id, visible)
 <input name="C_Lead_Source___Most_Recent1" type="hidden" value="Website">
 <!--q99863=keywords, q99864=language(l), q99865=referrer(r), q99866=adID, q99867=id, q99868=gclid -->
 
-<input type="hidden" name="se_referrer" value="http://secureworks.com/">
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr colspan="2"><td width="120" align="right" valign="top"><table border="0" cellpadding="0" cellspacing="0">
+<!-- <input type="hidden" name="se_referrer" value=""> -->
+<input type="hidden" name="se_referrer" value="">
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr colspan="2"><td align="right" valign="top"><table border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td width="120" align="right" valign="top"><label for="first_name"><span class="sidebarFormTitle">*First Name: </span></label></td>
+    <td width="70" align="right" valign="top"><label for="first_name"><span class="sidebarFormTitle">*First Name: </span></label></td>
     <!-- q1 = first_name  -->
-    <td width="80%" align="left"><input class="sidebarForm" type="text" name="C_FirstName"></td>
+    <td align="left"><input class="sidebarForm" type="text" name="C_FirstName"></td>
   </tr>
   <tr>
-    <td width="120" align="right" valign="top"><label for="label3"><span class="sidebarFormTitle">*Last Name: </span></label></td>
+    <td align="right" valign="top"><label for="label3"><span class="sidebarFormTitle">*Last Name: </span></label></td>
     <!-- q2 = last_name  -->
-    <td width="80%" align="left"><input class="sidebarForm" type="text" name="C_LastName"></td>
+    <td align="left"><input class="sidebarForm" type="text" name="C_LastName"></td>
   </tr>
   <tr>
     <!-- q15 = last_name  -->
-    <td width="120" align="right" valign="top"><label for="company"><span class="sidebarFormTitle">*Company: </span></label></td>
-    <td width="80%" align="left"><input class="sidebarForm" type="text" name="C_Company"></td>
+    <td align="right" valign="top"><label for="company"><span class="sidebarFormTitle">*Company: </span></label></td>
+    <td align="left"><input class="sidebarForm" type="text" name="C_Company"></td>
   </tr>
   <tr>
-    <td width="120" align="right" valign="top"><label for="phone"><span class="sidebarFormTitle">*Telephone: </span></label></td>
+    <td align="right" valign="top"><label for="phone"><span class="sidebarFormTitle">*Telephone: </span></label></td>
     <!-- q16 = phone  -->
-    <td width="80%" align="left"><input class="sidebarForm" type="text" name="C_BusPhone" alt="Work Phone" size="15" maxlength="25"></td>
+    <td align="left"><input class="sidebarForm" type="text" name="C_BusPhone" alt="Work Phone" size="15" maxlength="25"></td>
   </tr>
   <tr>
-    <td width="120" align="right" valign="top"><label for="email"><span class="sidebarFormTitle">*Email: </span></label></td>
+    <td align="right" valign="top"><label for="email"><span class="sidebarFormTitle">*Email: </span></label></td>
     <!-- q14 = email  -->
-    <td width="80%" align="left"><input class="sidebarForm" type="text" name="C_EmailAddress"></td>
+    <td align="left"><input class="sidebarForm" type="text" name="C_EmailAddress"></td>
   </tr>
   <tr>
     <!-- q9 = country  -->
@@ -309,43 +321,73 @@ function hideBlock(id, visible)
     <select id="countrySelect" name="C_Country" onchange="populateState()" class="sidebarFormSelect"><option value="">Select Country</option><option value="US">United States</option><option value="AF">Afghanistan</option><option value="AL">Albania</option><option value="DZ">Algeria</option><option value="AS">American Samoa</option><option value="AD">Andorra</option><option value="AO">Angola</option><option value="AI">Anguilla</option><option value="AQ">Antarctica</option><option value="AG">Antigua</option><option value="AR">Argentina</option><option value="AM">Armenia</option><option value="AW">Aruba</option><option value="AU">Australia</option><option value="AT">Austria</option><option value="AZ">Azerbaidjan</option><option value="BS">Bahamas</option><option value="BH">Bahrain</option><option value="BD">Bangladesh</option><option value="BB">Barbados</option><option value="BY">Belarus</option><option value="BE">Belgium</option><option value="BZ">Belize</option><option value="BJ">Benin</option><option value="BM">Bermuda</option><option value="BT">Bhutan</option><option value="BO">Bolivia</option><option value="BA">Bosnia</option><option value="BW">Botswana</option><option value="BV">Bouvet Island</option><option value="BR">Brazil</option><option value="IO">British Indian Ocean</option><option value="BN">Brunei Darussalam</option><option value="BG">Bulgaria</option><option value="BF">Burkina Faso</option><option value="BI">Burundi</option><option value="KH">Cambodia</option><option value="CM">Cameroon</option><option value="CA">Canada</option><option value="CV">Cape Verde</option><option value="KY">Cayman Islands</option><option value="CF">Central African Republic</option><option value="TD">Chad</option><option value="CL">Chile</option><option value="CN">China</option><option value="CX">Christmas Island</option><option value="CC">Cocos  Islands</option><option value="CO">Colombia</option><option value="KM">Comoros</option><option value="CG">Congo</option><option value="CD">Congo</option><option value="CK">Cook Islands</option><option value="CR">Costa Rica</option><option value="HR">Croatia</option><option value="CU">Cuba</option><option value="CY">Cyprus</option><option value="CZ">Czech Republic</option><option value="DK">Denmark</option><option value="DJ">Djibouti</option><option value="DM">Dominica</option><option value="DO">Dominican Republic</option><option value="TP">East Timor</option><option value="EC">Ecuador</option><option value="EG">Egypt</option><option value="SV">El Salvador</option><option value="GQ">Equatorial Guinea</option><option value="ER">Eritrea</option><option value="EE">Estonia</option><option value="ET">Ethiopia</option><option value="FK">Falkland Islands</option><option value="FO">Faroe Islands</option><option value="FJ">Fiji</option><option value="FI">Finland</option><option value="FR">France</option><option value="GF">French Guyana</option><option value="GA">Gabon</option><option value="GM">Gambia</option><option value="GE">Georgia</option><option value="DE">Germany</option><option value="GH">Ghana</option><option value="GI">Gibraltar</option><option value="GB">Great Britain</option><option value="GR">Greece</option><option value="GL">Greenland</option><option value="GD">Grenada</option><option value="GP">Guadeloupe</option><option value="GU">Guam</option><option value="GT">Guatemala</option><option value="GN">Guinea</option><option value="GW">Guinea Bissau</option><option value="GY">Guyana</option><option value="HT">Haiti</option><option value="HM">Heard Islands</option><option value="VA">Holy See</option><option value="HN">Honduras</option><option value="HK">Hong Kong</option><option value="HU">Hungary</option><option value="IS">Iceland</option><option value="IN">India</option><option value="ID">Indonesia</option><option value="IR">Iran</option><option value="IQ">Iraq</option><option value="IE">Ireland</option><option value="IL">Israel</option><option value="IT">Italy</option><option value="CI">Ivory Coast</option><option value="JM">Jamaica</option><option value="JP">Japan</option><option value="JO">Jordan</option><option value="KZ">Kazakhstan</option><option value="KE">Kenya</option><option value="KI">Kiribati</option><option value="KW">Kuwait</option><option value="KG">Kyrgyz Republic</option><option value="LA">Laos</option><option value="LV">Latvia</option><option value="LB">Lebanon</option><option value="LS">Lesotho</option><option value="LR">Liberia</option><option value="LY">Libya</option><option value="LI">Liechtenstein</option><option value="LT">Lithuania</option><option value="LU">Luxembourg</option><option value="MO">Macau</option><option value="MK">Macedonia</option><option value="MG">Madagascar</option><option value="MW">Malawi</option><option value="MY">Malaysia</option><option value="MV">Maldives</option><option value="ML">Mali</option><option value="MT">Malta</option><option value="MH">Marshall Islands</option><option value="MQ">Martinique</option><option value="MR">Mauritania</option><option value="MU">Mauritius</option><option value="YT">Mayotte</option><option value="MX">Mexico</option><option value="FM">Micronesia</option><option value="MD">Moldavia</option><option value="MC">Monaco</option><option value="MN">Mongolia</option><option value="MS">Montserrat</option><option value="MA">Morocco</option><option value="MZ">Mozambique</option><option value="MM">Myanmar</option><option value="NA">Namibia</option><option value="NR">Nauru</option><option value="NP">Nepal</option><option value="NL">Netherlands</option><option value="AN">Netherlands Antilles</option><option value="NT">Neutral Zone</option><option value="NC">New Caledonia</option><option value="NZ">New Zealand</option><option value="NI">Nicaragua</option><option value="NE">Niger</option><option value="NG">Nigeria</option><option value="NU">Niue</option><option value="NF">Norfolk Island</option><option value="KP">North Korea</option><option value="MP">Northern Mariana Islands</option><option value="NO">Norway</option><option value="OM">Oman</option><option value="PK">Pakistan</option><option value="PW">Palau</option><option value="PA">Panama</option><option value="PG">Papua New Guinea</option><option value="PY">Paraguay</option><option value="PE">Peru</option><option value="PH">Philippines</option><option value="PN">Pitcairn Island</option><option value="PL">Poland</option><option value="PF">Polynesia</option><option value="PT">Portugal</option><option value="PR">Puerto Rico</option><option value="QA">Qatar</option><option value="RE">Reunion</option><option value="RO">Romania</option><option value="RU">Russia</option><option value="RW">Rwanda</option><option value="GS">S. Georgia</option><option value="SH">Saint Helena</option><option value="KN">Saint Kitts</option><option value="LC">Saint Lucia</option><option value="PM">Saint Pierre</option><option value="ST">Saint Tome</option><option value="VC">Saint Vincent</option><option value="WS">Samoa</option><option value="SM">San Marino</option><option value="SA">Saudi Arabia</option><option value="SN">Senegal</option><option value="SC">Seychelles</option><option value="SL">Sierra Leone</option><option value="SG">Singapore</option><option value="SK">Slovak Republic</option><option value="SI">Slovenia</option><option value="SB">Solomon Islands</option><option value="SO">Somalia</option><option value="ZA">South Africa</option><option value="KR">South Korea</option><option value="ES">Spain</option><option value="LK">Sri Lanka</option><option value="SD">Sudan</option><option value="SR">Suriname</option><option value="SJ">Svalbard Islands</option><option value="SZ">Swaziland</option><option value="SE">Sweden</option><option value="CH">Switzerland</option><option value="SY">Syria</option><option value="TJ">Tadjikistan</option><option value="TW">Taiwan</option><option value="TZ">Tanzania</option><option value="TH">Thailand</option><option value="TG">Togo</option><option value="TK">Tokelau</option><option value="TO">Tonga</option><option value="TT">Trinidad</option><option value="TN">Tunisia</option><option value="TR">Turkey</option><option value="TM">Turkmenistan</option><option value="TC">Turks Islands</option><option value="TV">Tuvalu</option><option value="UG">Uganda</option><option value="UA">Ukraine</option><option value="AE">United Arab Emirates</option><option value="UK">United Kingdom</option><option value="US">United States</option><option value="UY">Uruguay</option><option value="UM">USA Outlying Islands</option><option value="UZ">Uzbekistan</option><option value="VU">Vanuatu</option><option value="VE">Venezuela</option><option value="VN">Vietnam</option><option value="VI">Virgin Islands</option><option value="WF">Wallis Islands</option><option value="EH">Western Sahara</option><option value="YE">Yemen</option><option value="YU">Yugoslavia</option><option value="ZR">Zaire</option><option value="ZM">Zambia</option><option value="ZW">Zimbabwe</option><option></option></select></td>
   </tr>
   <tr>
-                <td align="left" colspan="2"><div id="hideState" style="margin: 0px; padding: 0px; display: block;"><label for="state"><span class="sidebarFormTitle">*State/Province:</span></label>
+                <td align="left" colspan="2"><div id="hideState" style="margin: 0px; padding: 0px; display: block;"><br><label for="state"><span class="sidebarFormTitle">*State/Province:</span></label>
 				<select name="C_State_Prov" id="stateSelect" class="sidebarFormSelect"><option value="">Select State/Province</option><option value="AK">Alaska</option><option value="AL">Alabama</option><option value="AR">Arkansas</option><option value="AS">American Samoa</option><option value="AZ">Arizona</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DC">D.C.</option><option value="DE">Delaware</option><option value="FL">Florida</option><option value="FM">Micronesia</option><option value="GA">Georgia</option><option value="GU">Guam</option><option value="HI">Hawaii</option><option value="IA">Iowa</option><option value="ID">Idaho</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="MA">Massachusetts</option><option value="MD">Maryland</option><option value="ME">Maine</option><option value="MH">Marshall Islands</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MO">Missouri</option><option value="MP">Marianas</option><option value="MS">Mississippi</option><option value="MT">Montana</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="NE">Nebraska</option><option value="NH">New Hampshire</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NV">Nevada</option><option value="NY">New York</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="PR">Puerto Rico</option><option value="PW">Palau</option><option value="RI">Rhode Island</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TN">Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VA">Virginia</option><option value="VI">Virgin Islands</option><option value="VT">Vermont</option><option value="WA">Washington</option><option value="WI">Wisconsin</option><option value="WV">West Virginia</option><option value="WY">Wyoming</option></select>
 				<script type="text/javascript">initCountry('US'); </script>
 	</div></td>
   </tr>
   <tr>
-    <td align="left" colspan="2"><label for="industry"><span class="sidebarFormTitle">*Industry:</span></label>
-
-
-<select class="required" name="C_Industry1">
-<option value="">Please Choose..</option>
-<option value="Banking">Banking</option>
-<option value="Business Services">Business Services</option>
-<option value="Credit Union">Credit Union</option>
-<option value="Channel Partner">Channel Partner</option>
-<option value="Education">Education</option>
-<option value="Government">Government</option>
-<option value="Health Care (Non-Hospital)">Health Care (Non-Hospital)</option>
-<option value="Heavy Industry">Heavy Industry</option>
-<option value="Hospitality">Hospitality</option>
-<option value="Hospitals">Hospitals</option>
-<option value="Insurance">Insurance</option>
-<option value="Legal">Legal</option>
-<option value="Manufacturing">Manufacturing</option>
-<option value="Media">Media</option>
-<option value="Membership Organizations">Membership Organizations</option>
-<option value="Misc. Financial">Misc. Financial</option>
-<option value="Other Services">Other Services</option>
-<option value="Retail">Retail</option>
-<option value="Technology Provider">Technology Provider</option>
-<option value="Telecom">Telecom</option>
-<option value="Transportation">Transportation</option>
-<option value="Utilities">Utilities</option>
-    			</select>
-
-
+    <td colspan="2" align="left"><br> 
+    <label for="primary_role"><span class="sidebarFormTitle">*What is your primary role?</span></label><br>
+    <select class="sidebarFormSelect" name="C_Job_Role1">
+      <option value="">Please Select One</option>
+      <option value="General management">General management</option>
+      <option value="Financial management">Financial management</option>
+      <option value="Info security - management ">Info security - management </option>
+      <option value="Info security - technical">Info security - technical</option>
+      <option value="Compliance and risk management">Compliance and risk management</option>
+      <option value="IT management">IT management</option>
+      <option value="IT technical">IT technical</option>
+      <option value="Consultant">Consultant</option>
+      <option value="Security research professional">Security research professional</option>
+      <option value="Sales and/or marketing">Sales and/or marketing</option>
+      <option value="Student">Student</option>
+      <option value="Other">Other</option>
+    </select>
     </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="left"><br>
+      <label for="employee_size"><span class="sidebarFormTitle">*What is the size of organization?</span></label><br>
+          <select class="sidebarFormSelect" name="C___of_Employees1" id="C___of_Employees1">
+              <option value="">Please Select One</option>
+              <option value="<250">Less than 250</option>
+              <option value="250-499">250-499</option>
+              <option value="500-799">500-799</option>
+              <option value="800-999">800-999</option>
+              <option value="1000-1500">1,000-1,500</option>
+      <option value=">1500">More than 1,500</option>
+    </select>
+  </td>
+  </tr>
+  <tr>
+    <td align="left" colspan="2"><br><label for="industry"><span class="sidebarFormTitle">*Industry:</span></label>
+<select class="sidebarFormSelect" name="C_Industry1">
+                  <option value="">Please Select One</option>
+                  <option value="Banking">Banking</option>
+                  <option value="Business Services">Business Services</option>
+                  <option value="Credit Union">Credit Union</option>
+                  <option value="Education">Education</option>                  
+                  <option value="Government">Government</option>
+                  <option value="Health Care (Non-Hospital)">Health Care (Non-Hospital)</option>
+                  <option value="Heavy Industry">Heavy Industry</option>
+                  <option value="Hospitality">Hospitality</option>
+                  <option value="Hospitals">Hospitals</option>
+                  <option value="Insurance">Insurance</option>
+                  <option value="Manufacturing">Manufacturing</option>
+                  <option value="Media">Media</option>
+                  <option value="Membership Organizations">Membership Organizations</option>
+                  <option value="Misc. Financial">Misc. Financial</option>
+                  <option value="Other Services">Other Services</option>
+                  <option value="Retail">Retail</option>
+                  <option value="Technology Provider">Technology Provider</option>
+                  <option value="Telecom">Telecom</option>
+                  <option value="Transportation">Transportation</option>
+                  <option value="Utilities">Utilities</option>
+                </select>
+ 
+   <br><br>
+</td>
   </tr>
   <tr>
     <td colspan="2" align="center" bgcolor="#FFFFCC" valign="top"><legend>Subscribe to SecureWorks' <em><br>
@@ -357,7 +399,7 @@ On the Radar</em> Newsletter</legend></td>
         <input type="radio" name="C_Email_Preferences1" value=""> No </td>
   </tr>
   <tr>
-    <td colspan="2"><label><span class="sidebarFormTitle">Comments:</span></label>
+    <td colspan="2"><label><span class="sidebarFormTitle">Comments:</span></label><br>
         <!-- <textarea name="q65210" -->
         <textarea name="C_description1" wrap="soft" onblur="this.value=trim(this.value.substring(0,400));getElementById(this.name+'_characters').innerHTML=parseInt(400-this.value.length);" onkeypress="if(this.value.length >= 400){return false;}" onkeyup="getElementById(this.name+'_characters').innerHTML=parseInt(400-this.value.length);" class="sidebarFormSelect"></textarea>    </td>
   </tr>
@@ -631,8 +673,12 @@ function fnDetermineMatrixType(oTable) {
                  
 
         </div>
+      
+        
+        
        <div class="whitespace"></div> 
        </div>
+
 
 <div id="emailcontainer">  
 
@@ -780,7 +826,7 @@ new TWTR.Widget({
 
 <div id="footer">
 
-		<div id="footercopy">© 2010 SecureWorks, Inc. | <a href="http://www.secureworks.com/services">Managed Security Services Provider</a> | <a href="/contact/request_info/bottom">Request Info Now</a>  | Call Today: (877) 905-6661</div>
+		<div id="footercopy">© 2011 Dell, Inc. | <a href="http://www.secureworks.com/services">Managed Security Services Provider</a> | <a href="/contact/request_info/bottom">Request Info Now</a>  | Call Today: (877) 905-6661</div>
 	  <div class="footernav"><a href="/contact/terms.html">Terms of Use</a></div>
 		<div class="footernav"><a href="/contact/privacy_policy.html">Privacy</a></div>
 		<div class="footernav"><a href="/site_map.html">Site Map</a></div>
@@ -814,7 +860,7 @@ pageTracker._trackPageview();
 <!-- End Sfe Code -->
 <!-- mas code -->
 <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
-<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=2431&amp;ref2=elqNone&amp;tzo=0&amp;ms=94" border="0" width="1" height="1"></layer>
+<script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1659&amp;ref2=elqNone&amp;tzo=0&amp;ms=78" border="0" width="1" height="1"></layer>
 <!-- end mas code -->
 
 
