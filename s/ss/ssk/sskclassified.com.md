@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sskclassified.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128031936id_/http%3A//sskclassified.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sskclassified.com privacy policy that was archived on 2011-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110324192403id_/http%3A//sskclassified.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Post Free Classified Ads in India
 
-Number of View: 718
+## Privacy Policy
 
- **Privacy Policy for www.sskclassified.com**
+**Privacy Policy for www.sskclassified.com**
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@sskclassified.com.
 
