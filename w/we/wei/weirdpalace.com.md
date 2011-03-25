@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weirdpalace.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124024656id_/http%3A//www.weirdpalace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weirdpalace.com privacy policy that was archived on 2011-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110325094835id_/http%3A//www.weirdpalace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Weird Palace
+# Privacy Policy | Weird Palace
 
 Weird Palace has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
