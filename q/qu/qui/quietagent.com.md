@@ -1,27 +1,25 @@
-> *The following text is extracted and transformed from the quietagent.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525232102id_/http%3A//info.quietagent.com/job-seekers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quietagent.com privacy policy that was archived on 2011-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110325192330id_/http%3A//info.quietagent.com/job-seekers/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – QuietAgent
 
-Last updated: February 1, 2010
+Last updated: November 10, 2010
 
 QuietAgent, Inc. is committed to protecting the privacy of our Website users. This Privacy Policy is designed to assist you in understanding how QuietAgent, Inc. (”QuietAgent”, “we”, “us”, “our”) uses and safeguards information users provide while using QuietAgent.
 
-Privacy Policy Summary
+**1 Personal Information We Collect:** We may collect limited personal information from our users, including their name and contact information such as their email address and phone number(s) (“Personal Information”), in order to make a user’s experience with our products and services more enjoyable.
 
-  * We collect very limited personal information
-  * We never sell, rent, loan or otherwise provide access to our users’ information to any party
-  * We only use personal information for improving our user’s experience with our website
-  * We encrypt all personal information when it is sent over the Internet
-  * We encrypt personal information stored in our database so it is not readblae by a human
-  * We adhere to the International Safe Harbor Privacy Principles
+**2 Access to Information:** We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as matching you to jobs or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
+
+We may also disclose your personal information:
+
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if QuietAgent, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,
+  * to any other third party with your prior consent to do so.
 
 
-
-**1 Personal Information We Collect:** We may collect limited personal information from our users, including their name and contact information such as their email address and phone number(s) (“Personal Information”), in order to make a user’s experience with our products and services more enjoyable. In order to invite others to join QuietAgent, users may enter their email addresses. This information will be used by us to send your invitation, which may include a message from you. The email addresses of people who you invite will be used only to send your invitation and reminders.
-
-**2 Access to Information:** QuietAgent does not sell, rent, loan, trade, lease or otherwise share or provide access to our users’ personally identifiable information to any party whatsoever.
-
-QuietAgent offers an “Anonymous Public Profile” feature which allows users to publish their anonymous QuietAgent profile to the public Internet. The default setting for a user’s Anonymous Public Profile is set to “public.” Users can review and change the default setting by editing their My Account settings, however QuietAgent does not warrant how often third-party search engines will update their cache.
 
 **3 Information We Do Not Collect:** We will not knowingly collect nor make available a user’s:
 
