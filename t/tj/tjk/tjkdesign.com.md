@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tjkdesign.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011213317id_/http%3A//www.tjkdesign.com/legalstuff/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tjkdesign.com privacy policy that was archived on 2011-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110325233837id_/http%3A//www.tjkdesign.com/legalstuff/privacy.asp) for the most accurate reproduction.*
 
 # Terms of Use
 
