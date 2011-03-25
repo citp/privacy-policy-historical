@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citybeach.com.au privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617023314id_/http%3A//www.citybeach.com.au/webapp/wcs/stores/servlet/StaticPageDisplay%3FstoreId%3D10551%26identifier%3DPrivacyPolicy%26langId%3D-1%26catalogId%3D11201) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citybeach.com.au privacy policy that was archived on 2011-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110325121411id_/http%3A//www.citybeach.com.au/webapp/wcs/stores/servlet/StaticPageDisplay%3FstoreId%3D10551%26identifier%3DPrivacyPolicy%26langId%3D-1%26catalogId%3D13700) for the most accurate reproduction.*
 
 # Surf Shop Online - City Beach
 
