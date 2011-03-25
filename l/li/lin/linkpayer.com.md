@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkpayer.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924083410id_/http%3A//www.buxup.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkpayer.com privacy policy that was archived on 2011-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110325115142id_/http%3A//www.buxup.com/policy.php) for the most accurate reproduction.*
 
 # BuxUp.com | Buy and Sell Adverts with Us!
 
