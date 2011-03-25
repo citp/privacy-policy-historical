@@ -1,39 +1,91 @@
-<!--The following is the downloaded HTML source of the marketinghub.info privacy policy that was archived on 2010-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227003417id_/http%3A//www.marketinghub.info/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketinghub.info privacy policy that was archived on 2011-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110325093449id_/http%3A//www.marketinghub.info/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>  Privacy Policy</title>
-<meta name="generator" content="WordPress 3.0.3">
+<meta name="generator" content="WordPress 3.1">
 <link rel="stylesheet" href="http://www.marketinghub.info/wp-content/themes/MarketingHub/style.css" type="text/css" media="screen">
-<!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="http://www.marketinghub.info/wp-content/themes/MarketingHub/ie7.css" media="screen" /><![endif]-->
-<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="http://www.marketinghub.info/wp-content/themes/MarketingHub/ie6.css" media="screen" /><![endif]-->
 <link rel="shortcut icon" href="/favicon.ico">
-<link rel="alternate" type="application/rss+xml" title="Marketing Hub .info RSS Feed" href="http://www.marketinghub.info/feed/">
+<link rel="alternate" type="application/rss+xml" title="Marketing Hub RSS Feed" href="http://www.marketinghub.info/feed/">
 <link rel="pingback" href="http://www.marketinghub.info/xmlrpc.php">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.google_analytics_uacct = "UA-894602-6";</script>
-<link rel="alternate" type="application/rss+xml" title="Marketing Hub .info » Privacy Policy Comments Feed" href="http://www.marketinghub.info/privacy-policy/feed/">
-<script type="text/javascript" src="http://www.marketinghub.info/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.marketinghub.info/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.marketinghub.info/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="Marketing Hub .info" href="http://www.marketinghub.info/">
-<link rel="prev" title="Free Sales Letter Template" href="http://www.marketinghub.info/free-sales-letter-template/">
-<link rel="next" title="Top 8 Ecommerce Website Templates" href="http://www.marketinghub.info/top-8-ecommerce-website-templates/">
-<meta name="generator" content="WordPress 3.0.3">
-<link rel="canonical" href="http://www.marketinghub.info/privacy-policy/">
-<meta name="description" content="Privacy Policy for www.marketinghub.info  If you require any more information or have any questions about our privacy policy, please ...">
-
-<script type="text/javascript">var AKPC_IDS = "";</script>
-	</head>
+</head>
 <body class="custom">
 <div id="container">
+
+<div id="Feedback">
+<img src="http://www.marketinghub.info/wp-content/themes/MarketingHub/images/feedback.jpg" alt="">
+<div style="padding: 5px;">
+<form name="Feedback">
+
+How do you like this page?
+<a href="javascript:void(0);" onclick="RatingClick(1)" id="Emoticon1">&nbsp;</a>
+<a href="javascript:void(0);" onclick="RatingClick(2)" id="Emoticon2">&nbsp;</a>
+<a href="javascript:void(0);" onclick="RatingClick(3)" id="Emoticon3">&nbsp;</a>
+<a href="javascript:void(0);" onclick="RatingClick(4)" id="Emoticon4">&nbsp;</a>
+<a href="javascript:void(0);" onclick="RatingClick(5)" id="Emoticon5">&nbsp;</a>
+<script>
+function RatingClick(id){
+	document.forms['Feedback'].Rating.value = id;
+	for (i=1;i<=5;i++){
+		document.getElementById('Emoticon'+i).style.backgroundColor = 'transparent';
+	}
+	document.getElementById('Emoticon'+id).style.backgroundColor = '#65cd7b';
+}
+function SubmitFeedback(rating, message){
+	var httpxml;
+	try { httpxml=new XMLHttpRequest(); }
+	catch (e) {
+		try { httpxml=new ActiveXObject("Msxml2.XMLHTTP"); }
+		catch (e) {
+			try { httpxml=new ActiveXObject("Microsoft.XMLHTTP"); }
+			catch (e) { alert("Your browser does not support AJAX!"); return false; }
+		}
+	}
+	function stateck() {
+		if(httpxml.readyState==4) {
+			//document.getElementById("msg").innerHTML=httpxml.responseText;
+			document.getElementById("MessageSent").style.display='block';
+			//document.getElementById("SubmitButton").disabled='true';
+		}
+	}
+	var url="/email-ajax.php";
+	url=url+"?rating="+rating;
+	url=url+"&message="+message;
+	url=url+"&ip=204.236.226.210";
+	url=url+"&url=/privacy-policy/";
+	url=url+"&sid="+Math.random();
+	httpxml.onreadystatechange=stateck;
+	httpxml.open("GET",url,true);
+	httpxml.send(null);
+}
+</script>
+
+How can we improve it?
+<br>
+<textarea id="Message" name="Message" height:="" 44px;="" style="width: 138px; padding: 3px;"></textarea>
+<br>
+<input class="SubmitFeedback" type="submit" name="submit" onclick="SubmitFeedback(document.getElementById('Rating').value, document.getElementById('Message').value); _gaq.push(['_trackPageview', '/feedback.php']); return false;" value="">
+<br>
+<span id="MessageSent">Your feedback has been sent.<br>Thank you!</span>
+
+<input type="hidden" id="Rating" name="Rating" value="">
+</form>
+<div style="text-align: center;"><a href="javascript:void(0);" onclick="javascript:document.getElementById('Feedback').style.display='none'">[X] Hide Feedback</a></div>
+</div>
+</div>
+
 	<div id="header">
 		<a href="http://www.marketinghub.info"><img src="http://www.marketinghub.info/wp-content/themes/MarketingHub/images/logo.jpg" alt="Marketing Hub Logo" title="Marketing Hub.info"></a>
 	</div>
 	<div id="nav">
 
+
 <form action="http://www.marketinghub.info/customsearch.php" id="cse-search-box">
   <div>
+<span><a href="/contact/">Contact Us</a> |&nbsp;&nbsp;&nbsp;</span>
+
     <input type="hidden" name="cx" value="partner-pub-6109733585877212:xp203nmn5th">
     <input type="hidden" name="cof" value="FORID:10">
     <input type="hidden" name="ie" value="ISO-8859-1">
@@ -55,11 +107,15 @@
 var theyear = '2008';
 var themonth = '03';
 </script>
-<!-- google_ad_section_start -->
+
 			<h1>Privacy Policy</h1>
 
+<div style="float: left; width: 65px;">
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+</div>
+
 			<div class="entry">
-				<div id="fb_share_1" style="float: left;"><a name="fb_share" type="box_count" share_url="http://www.marketinghub.info/privacy-policy/" href="http://www.facebook.com/sharer.php">Share</a></div><div><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script></div><p>Privacy Policy for www.marketinghub.info </p>
+				<p>Privacy Policy for www.marketinghub.info </p>
 <p>If you require any more information or have any questions about our privacy policy, please feel free to <a href="http://www.marketinghub.info/contact/">contact us</a>.</p>
 <p>At www.marketinghub.info, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.marketinghub.info and how it is used.</p>
 <p><b>Log Files</b><br> Like many other Web sites, www.marketinghub.info makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.</p>
@@ -88,8 +144,8 @@ google_color_url = "000000";
 			
 		</div>
 
-<!-- google_ad_section_start(weight=ignore) -->
 <div id="sidebar">
+
 	<ul class="sidebar_list">
 
 <li class="widget" style="padding: 5px 0 0 5px;">
@@ -107,24 +163,17 @@ google_ad_height = 90;
 
 		<li class="widget">
 
-<!--
-<ul style="margin: 0 0 10px 5px; padding: 0 8px 0 0;">
-<li style="padding: 5px 0 5px 0; width: 210px; text-align: center; background-color: #fcf2a3; border: 2px solid #ccb500;">
-<a href="http://www.anrdoezrs.net/click-3249266-10568669" target="_blank"><img src="http://www.ftjcfx.com/image-3249266-10568669" width="125" height="125" alt="FREE SHIPPING & 25% Off Site-Wide!" border="0"/></a>
-</li>
-</ul>
--->
-
 			<h2>Freebies</h2>
 			<ul>
 <li><a href="/free-brochure-templates-and-brochure-samples/">Brochure Templates</a></li>
 <li><a href="/free-business-card-templates/">Business Card Templates</a></li>
 <li><a href="/free-letterhead-templates-and-free-letterhead-samples/">Letterhead Templates</a></li>
-<li><a href="/free-printable-day-planner-template/">Day Planner Template</a></li>
-<li><a href="/free-2011-goals-list-template/">2011 Goals List Template</a></li>
 <li><a href="/profit-and-loss-statement-template/">Profit and Loss Statement Template</a></li>
+<li><a href="/certificate-of-authenticity-template/">Certificate of Authenticity Template</a></li>
 <li><a href="/free-sales-letter-template/">Sales Letter Template</a></li>
 <li><a href="/sample-marketing-plan-and-marketing-plan-template/">Marketing Plan Template</a></li>
+<li><a href="/free-printable-day-planner-template/">Day Planner Template</a></li>
+<li><a href="/free-2011-goals-list-template/">2011 Goals List Template</a></li>
 <li><a href="/printable-weekly-schedule-template/">Weekly Schedule Template</a></li>
 			</ul>
 		</li>
@@ -154,14 +203,12 @@ google_ad_height = 90;
 		</li>
 	</ul>
 </div>
-<!-- google_ad_section_end -->
-<!-- google_ad_section_end -->
 	</div>
 
 		<div style="clear: both;"></div>
 	</div>
 	<div id="footer">
-		Marketing Hub © 2010 - <a href="http://www.marketinghub.info/sitemap.xml">Sitemap</a> | <a href="http://www.marketinghub.info/privacy-policy/" rel="nofollow">Privacy Policy</a>
+		Marketing Hub © 2011 - <a href="http://www.marketinghub.info/sitemap.xml">Sitemap</a> | <a href="http://www.marketinghub.info/privacy-policy/" rel="nofollow">Privacy Policy</a>
 <br>
 		<a class="current" href="http://www.marketinghub.info">Home</a>
 		<img src="http://www.marketinghub.info/wp-content/themes/MarketingHub/images/splitter.jpg" alt="Splitter">
