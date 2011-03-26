@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aedelta.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119091012id_/http%3A//aedelta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aedelta.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326153823id_/http%3A//www.aedelta.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AeDelta.com
-
-Last Updated on Friday, 7 May 2010 04:43 Written by admin Friday, 7 May 2010 04:41
+# Privacy Policy Page on AeDelta.com
 
 **Privacy Policy for www.aedelta.com**
 
