@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attractionmarketersmanifesto.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530202933id_/http%3A//www.therenegadenetworkmarketer.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attractionmarketersmanifesto.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326211342id_/http%3A//www.therenegadenetworkmarketer.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
