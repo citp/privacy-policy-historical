@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vssivip.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123201224id_/http%3A//www.vssivip.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vssivip.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326041412id_/http%3A//www.vssivip.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,6 +76,6 @@ Neighborhood Solutions, Inc.
 Valrico, FL 33594  
 USA 
 
-This privacy policy was last updated on 12-02-2009.
+This privacy policy was last updated on 01-01-2011.
 
-Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at http://www.vssivip.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © 2008-2011 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at http://www.vssivip.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
