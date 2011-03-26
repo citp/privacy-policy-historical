@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasteofhome.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224074148id_/http%3A//www.tasteofhome.com/Info--Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasteofhome.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326170817id_/http%3A//www.tasteofhome.com/Info--Privacy-Policy) for the most accurate reproduction.*
 
 # Info: Privacy Policy | Taste of Home Help
 
