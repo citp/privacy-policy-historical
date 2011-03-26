@@ -1,92 +1,91 @@
-> *The following text is extracted and transformed from the lillianvernon.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418212419id_/http%3A//www.lillianvernon.com/custserv/customer.jsp%3FsectionId%3D144) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lillianvernon.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326192253id_/http%3A//www.lillianvernon.com/CustomerService/Index/PrivacyAndSecurity) for the most accurate reproduction.*
 
-# Lillian Vernon :: Customer Service
+# Customer Service
 
-| 
+_Last Updated: 1/31/2011_
 
-The Site
+At lillianvernon.com, we respect our customers and understand that you are concerned about privacy. The purpose of this privacy policy is to let you know what kind of information we collect, how we use it, with whom it may be shared, what choices you have regarding our use of your information, and how you may review and change some of the data you provide to us. Our practices comply with all applicable U.S. laws and requirements.
 
-lillianvernon.com (the "Site") is owned and operated by Lillian Vernon Corporation. The effective date of this Privacy Policy is April 12, 2006.
+We are located in the United States and this is a U.S.-based web site. By using this site, you agree to the transfer of your personal information to or within the United States.
 
-Our Privacy Pledge
+As we continue to develop our web site and take advantage of technologies to improve the services we offer, this policy likely will change. When we change it, we will post the change(s) on our web site. If we change the policy in a material way, we will provide appropriate online notice to you.
 
-Lillian Vernon Corporation values its customers and respects their need to feel secure while shopping on our Site. We have gone to great lengths to provide a user-friendly online shopping environment that features unique products at exceptional values. Please review the information below to better understand the safeguards and policies at lillianvernon.com. This Privacy Policy applies only to the information collected through this Site. By using the Site, you agree to the collection and use of your information in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, then do not use the Site.
+## What Information Do We Collect and How Do We Use It?
 
-If you still have privacy concerns that you feel are not addressed in this information, please contact a Lillian Vernon Corporation Customer Service Representative at:
+### Personal Information
 
-Lillian Vernon Corporation - Customer Service  
-100 Lillian Vernon Drive  
-Virginia Beach, VA 23479-0002  
-1-800-901-9291  
-[email](https://web.archive.org/custserv/email_us.jsp)
+We may collect various types of personal information from you, depending upon how you use our site. The categories of personal information we collect may include: 
 
-This Site is not intended for use by children. We will not knowingly collect any personally identifiable information submitted by visitors to the Site who are under the age of 13.
+  * Your first and last name
+  * A home or other physical address, including street name and name of a city or town.
+  * Your e-mail address.
+  * Your telephone number.
+  * If you make a purchase on our site, your credit card number and related information.
 
-The Kind of Information We Collect and How We Use It
 
-**Personal Information**
 
-We collect the personal information that you provide us while on the Site, such as your name, address, email, phone number and other data we need to complete your order, request or registration. 
+We may combine the information we collect from you with information we receive from you offline. We may also receive information about you from other sources, including, for example, address update services.
 
-When purchasing from the Site, you have the option to log in as a "Registered User" or shop as a guest. Although optional, registration allows us to personalize your shopping experience. Registration also offers a number of convenience features such as stored billing and shipping and credit card information, and allows access to member-only areas. 
+We may use the information we collect from and about you for any of the following purposes: 
 
-We may use third party contractors to help us operate our business and the Site, such as personal shopping assistance, order processing and shipping, and assisting in organizing, processing and administering our data. We may share information about you with these third party contractors for those purposes. We provide our service providers only with the information they need to perform their services, and they are permitted to use the information only for that specific purpose or as required by law, unless any additional use of information is separately permitted under this Privacy Policy. 
+  1. to fulfill your requests for products and services;
+  2. to provide you with targeted offers and advertising on the site;
+  3. to contact you with information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties;
+  4. to contact you;
+  5. to review site usage and operations;
+  6. to address problems with the site, our business or our products and services; and
+  7. to protect the security or integrity of the site and our business.
 
-We may also use your email address to send you emails about hot products, specials and online promotions. From time to time, we may also use your email address to send you information about selected third party products, services or offers we think may be of interest to you. Each email you receive from us provides a link to unsubscribe to future mailings by following the unsubscribe directions that appear at the bottom of each email. If you do not want to receive emails about our offers or products or those of these selected third parties, just Contact Us, call 1-800-901-9291, or write to us at: Customer Service Department, Lillian Vernon Corporation, 100 Lillian Vernon Drive, Virginia Beach, VA 23479-0002. If you are a Registered User, you can also choose not to receive marketing emails from us or these selected third parties by simply logging in and going to your Personal Profile. There you can UNCHECK the boxes giving us permission to continue emailing you about our offers or third party offers. Please note that even if you choose not to receive marketing emails from us, you may still hear from us regarding your order status and any other service issues and order status updates that will allow us to provide you with the optimal shopping experience. 
 
-We may also use your name, postal delivery information and phone number to contact you offline, such as to send you Lillian Vernon catalog mailings. From time-to-time, we may also share your name and mailing address with certain direct marketing companies so that they may contact you about products, services or offers that we think would be of interest to you. If you do not wish us to contact you offline, receive such mailings, or allow us to share your information with these direct marketing companies, please [Contact Us](https://web.archive.org/custserv/email_us.jsp), call 1-800-901-9291, or write to us at: Customer Service Department, Lillian Vernon Corporation, 100 Lillian Vernon Drive, Virginia Beach, VA 23479-0002. 
 
-Lillian Vernon Corporation gives Registered Users the opportunity to review and update the personal information that you have provided to us by visiting your Personal Profile. Please note that deletions of your personal information or changes in your Personal Profile may not be effective immediately. 
+### Non-Personal Information
 
-**Financial Information**
+We, or third-party service providers acting on our behalf, may use cookies or web beacons on our site. A cookie is a small text file that may be stored on the hard drive of your computer when you access the site. A web beacon is an electronic image used to recognize a cookie on your computer when you view a web page. We may use cookies and web beacons to collect non-personal information from you, including your IP address, browser type, the time and length of your visit, the pages of the site you visit and other clickstream data. This information may be used in order to: 
 
-We may collect your financial information such as credit and debit card numbers and bank and other financial institution account numbers in connection with transactions you enter into with Lillian Vernon Corporation. We use your financial information to help us process these transactions. We may use third party service providers to help us perform some of these tasks. In such instances, we will provide your financial information to these third parties for the sole purpose of performing these tasks. We may also provide your financial information to your credit card issuer, financial institutions, credit card processors or other payment processors to process transactions. We will not be responsible or otherwise liable for any use or disclosure of your financial information by a third party to whom Lillian Vernon Corporation is allowed to disclose your financial information under this Privacy Policy.
+  1. remember the products in your shopping cart;
+  2. recognize you when you return to the site;
+  3. improve and personalize your experience on our site;
+  4. provide you with customized advertising; and
+  5. monitor site usage and analyze the behavior of site visitors.
 
-**When You Ship to Another Recipient**
 
-We only collect the name(s) and postal delivery information necessary to fulfill your requests to ship to alternate addresses. We never share this information with third parties, except those third parties contractors providing fulfillment services as described above. If necessary, we may use this information to contact these individual with service issues relating to the order. We may also use these names and postal delivery information to send mailings, such as Lillian Vernon catalog mailings. If you do not wish us to send these individuals such mailings, please [Contact Us](https://web.archive.org/custserv/email_us.jsp), call 1-800-901-9291, or write to us at: Customer Service Department, Lillian Vernon Corporation, 100 Lillian Vernon Drive, Virginia Beach, VA 23479-0002. If you are a Registered User, you have the option to either maintain or delete contacts from your "Address Book" at any time. 
 
-**When You Use the "Tell-A-Friend" Option**
+We do not collect any personal information through our use of cookies and web beacons, and we do not combine the non-personal information we collect through them with any of your personal information.
 
-This unique feature allows you to share information about a particular item you think may be interesting to another individual. We do not retain your friend's name or email address after the email has been sent, share their information with outside parties, or contact them.
+You may decline cookies, but by doing so, you may not be able to use certain features on our site. You also may be able to make some web beacons unusable by rejecting cookies. Check the "Help" menu of your browser to learn how to change your cookie preferences.
 
-**Aggregate Browsing Information**
+## Do We Share Your Information?
 
-This Site may collect aggregate reporting information about Site usage. This information is used only by Lillian Vernon Corporation. No personal or personally identifiable information is gathered or used for this process. This Site may also collect non-personally identifiable information such as your web browser type, operating system type, Internet service provider domain, or the speed of your Internet connection. The Site uses third-party service providers to serve relevant ads on our behalf across the Internet and sometimes on the Site. This service provider collects and uses certain anonymous information about your visits to this and other web sites to provide you with targeted advertisements for goods and services. No personally identifiable information is collected or used in this process. 
+We may transfer or otherwise disclose information collected from and about you to the following entities for the following purposes: 
 
-What Are "Cookies" and How Are They Used
+  1. to our service providers, suppliers and business associates, if the disclosure will enable them to fulfill your request for products or services from us for another vendor on our site;
+  2. to our service providers and business associates, if the disclosure will enable them to perform a business, professional or technical support function for us;
+  3. to our affiliates and other third parties so that they may contact you with marketing offers of their own;
+  4. to other companies, credit bureaus or government agencies in connection with issues related to fraud, credit or debt collection;
+  5. as necessary if we believe that there has been a violation of our site Terms of Use, of the law or of our rights or the rights of any third party;
+  6. to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and
+  7. if our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
 
-To enhance your experience with the Site, we must use "cookies." Cookies are text files we place on your computer to store your preferences. Cookies, by themselves, do not tell us your email address or other personally identifiable information. However, once you choose to furnish the Site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
-We use cookies to understand site usage and to improve the content and offerings on the Site. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to the Site), save your password in password-protected areas, and enable you to use shopping carts on the Site. We also may use cookies to display to you products, programs, or services that you may find of particular interest. We may also use small pieces of code called "web beacons" (also known as "clear gifs" or "pixel tags") to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used in conjunction with cookies that conform to our cookie policy. 
 
-Third parties present on the Site, such as advertisers, may also place cookies on your browser. 
+Any personal information or content that you voluntarily upload or submit for posting to the site becomes publicly available and can be collected and used by others. It is in violation of the site's Terms of Use for you to post any content that requests personally identifiable information.
 
-Network Advertising 
+## Can I Change My Information?
 
-We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here](http://www.acerno.com/privacy.html). 
+You may change or update your personal information by sending an email to: customerservice@lillianvernon.com. Please include "Change My Information" in the subject line.
 
-You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website by [clicking here](http://www.networkadvertising.org/). 
+## What About Information About Children?
 
-Sale of Our Corporation
+We do not direct the site to, nor do we knowingly collect personal information from, children under thirteen.
 
-As in any business venture, the sale, merger or declaration of bankruptcy of the company is always a possibility. Should Lillian Vernon Corporation ever declare bankruptcy or should it or its assets ever be acquired by or merged into another organization, all customer information we have collected will be treated as an asset and may be transferred to a third party.
+## Security
 
-Compliance with Law or for Safety's Sake
+We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from site visitors.
 
-We may also disclose your information when we determine it is necessary to comply with applicable laws or protect the interests or safety of Lillian Vernon Corporation or other visitors to the Site. 
+## Third Party Websites
 
-Links
+The site may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through our site.
 
-The Site may contain links to other sites, including, among others, those of advertisers, other third parties and companies whose trademarks may appear on the Site. We are not responsible for the information collection practices or the content of the sites to which we link. 
+## Contact Us
 
-Our Commitment to Data Security
-
-Lillian Vernon Corporation is dedicated to implementing measures to protect against the unauthorized access of your private information and providing you with a safe and secure online shopping experience. To that end, we have installed security and encryption features (Secure Socket Layer Technology). Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we are committed to protecting your information, we cannot ensure or warrant the security of any information you transmit to us. 
-
-Changes to the Lillian Vernon Corporation Privacy Pledge
-
-We reserve the right to update and modify this Privacy Policy at any time. Your use of the Site constitutes your agreement to the policies and procedures set forth in this Privacy Policy. If our information practices change, we will post these changes on the Site. Your use of the Site following the posting of such changes to the Privacy Policy will constitute your acceptance of such changes on the Site. We encourage you to review our Privacy Policy periodically. If you have any additional questions, please contact a Lillian Vernon Customer Service Representative via [email](https://web.archive.org/custserv/email_us.jsp) or 1-800-901-9291. 
-
-  
-
+Thank you for visiting our site. If you have any questions or comments about this policy, please send an email to: customerservice@lillianvernon.com. Please include "Question or Comment" in the subject line.
