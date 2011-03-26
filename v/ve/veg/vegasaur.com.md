@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegasaur.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117182659id_/http%3A//vegasaur.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasaur.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326063816id_/http%3A//vegasaur.com/privacy) for the most accurate reproduction.*
 
 # Vegasaur Privacy Statement
 
