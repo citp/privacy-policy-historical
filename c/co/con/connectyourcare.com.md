@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225013325id_/http%3A//www.connectyourcare.com/cyc2/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectyourcare.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326051826id_/http%3A//www.connectyourcare.com/cyc2/privacy-statement.html) for the most accurate reproduction.*
 
-# ConnectYourCare Consumer-Directed Healthcare Administration of HSA, HRA, and FSA plans
+# Administration of FSA, HRA, HSA and other tax-advantaged healthcare accounts.
 
-**Effective 9/29/2006**
+> Effective 9/29/2006
 
 Welcome to the web site for ConnectYourCare. We recognize our obligation to protect the personal information you share via this web site and are committed to protecting your online privacy while providing you with the most useful internet experience possible. 
 
@@ -17,7 +17,7 @@ We may use and disclose this information to affiliated third parties with which 
 We will send you service-related announcements on those occasions when it is necessary to do so. We may contact you to provide information about treatment alternatives or other health-related benefits and services that may be of interest to you. 
 
 **Links to Partner Sites**  
-This site contains links to other sites. We do not share any information with our partners unless it is necessary for the performance of the program. We can not guarantee, though, that links to sites we don't own or control have the same privacy practices, so we can not assume responsibility for information our partners gather themselves. Be sure to read our partners’ privacy policies once you leave our website.
+This site contains links to other sites. We do not share any information with our partners unless it is necessary for the performance of the program. We cannot guarantee, though, that links to sites we don't own or control have the same privacy practices, so we cannot assume responsibility for information our partners gather themselves. Be sure to read our partners’ privacy policies once you leave our website.
 
 **Security Safeguards**  
 We use extensive physical, electronic and procedural safeguards to make sure your personal information is secure. We restrict access to your personal information to those employees who need to know that information to service this program or to properly conduct our business. We maintain safeguards that comply with federal regulations to protect your information. 
@@ -33,5 +33,3 @@ If you feel we are not following our state policy, contact customer service at (
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we decide to change our privacy policy, we will post those changes to this privacy statement, our homepage, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 We reserve the right to disclose your personally identifiable information as required by law or when we believe that disclosure is necessary to protect our rights and/ or to comply with a judicial proceeding, court order, or legal process served on us or on our website. 
-
-[](https://web.archive.org/web/20101225013325id_/http%3A//www.connectyourcare.com/cyc2/glossary.html)
