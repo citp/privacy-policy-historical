@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the re.or.id privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128045342id_/http%3A//re.or.id/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the re.or.id privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326170211id_/http%3A//re.or.id/privacy-policy) for the most accurate reproduction.*
 
 # Smart Phones » Privacy Policy
 
