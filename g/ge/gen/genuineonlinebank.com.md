@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genuineonlinebank.com privacy policy that was archived on 2010-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100705012339id_/http%3A//www.genuineonlinebank.com%3Fa%3Dcust%26page%3DPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genuineonlinebank.com privacy policy that was archived on 2011-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110327085118id_/http%3A//www.genuineonlinebank.com%3Fa%3Dcust%26page%3DPolicy) for the most accurate reproduction.*
 
 # GOB | Genuine Online Bank
 
@@ -34,27 +34,32 @@ By making your deposit with Genuine Online Bank , you declare that you have read
 ---  
 Username: |   
 Password: |   
-|  |  | [(forget?)](https://web.archive.org/web/20100705012339id_/http%3A//www.genuineonlinebank.com%3Fa%3Dcust%26page%3DPolicy?a=forgot_password)  
+|  |  | [(forget?)](https://web.archive.org/web/20110327085118id_/http%3A//www.genuineonlinebank.com%3Fa%3Dcust%26page%3DPolicy?a=forgot_password)  
 ---|---  
   
 
 
-[ ](http://www.genuineonlinebank.com/?a=signup)  
-[ ](https://web.archive.org/?a=support)
+[ ](http://www.genuineonlinebank.com/?a=signup)
+
+[ ](http://www.genuineonlinebank.com/?a=signup)
+
+[ ](http://www.genuineonlinebank.com/?a=support)
 
 | **We Accept** |   
 ---|---  
 |  [ ](https://www.libertyreserve.com/?ref=U3546101) |  [ ](https://www.perfectmoney.com/?ref=976514)  
 ---|---  
-[ ](https://www.alertpay.com/?0VQFVTpddGXPa51vQECkNg==) |  [ ](http://30972.c-gold.com/)  
-[ ](https://www.globaldigitalpay.com/?rid=G0913694) |  [ ](https://www.eurogoldcash.com/)  
+[ ](https://www.alertpay.com/?ZUgOhISP%2feO58yeuutXzAQ%3d%3d) |  [ ](http://30972.c-gold.com/)  
+[ ](https://www.globaldigitalpay.com/?rid=G0913694) |  [ ](https://www.alertpay.com/?ZUgOhISP%2feO58yeuutXzAQ%3d%3d)  
 [ ](http://www.routepay.com/?ref=RB224851) |  [ ](https://ecumoney.com/)  
-|   
+[ ](https://www.alertpay.com/?ZUgOhISP%2feO58yeuutXzAQ%3d%3d) |     
    
   
 [ ](http://www.histats.com/)
 
-**Site Started on June-27-2010**
+**Bank Started on June-27-2010**
 
   
 [ ](http://www.genuineonlinebank.com/?a=cust&page=affiliate)
+
+[ ](http://dragonara.net/ddos-protection.html)
