@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218083435id_/http%3A//michiganbulb.com/article.asp%3Fai%3D131) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganbulb.com privacy policy that was archived on 2011-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110327235659id_/http%3A//michiganbulb.com/article.asp%3Fai%3D131) for the most accurate reproduction.*
 
 # <b>Michigan Bulb Company Privacy Policy</b>
 
@@ -97,12 +97,7 @@ From time to time, it may become necessary for us to change our privacy policy i
 
 If you would like to give us your feedback regarding our privacy policy and practice, please do so by emailing us or writing to us at Gardens Alive! Brands, Marketing Dept., 110 W Elm Street, Tipp City, OH 45371. 
 
-|  | 
-
-**We are now taking orders for Spring 2011.**
-
-  
-  
+|  |    
   
   
   
@@ -110,7 +105,7 @@ If you would like to give us your feedback regarding our privacy policy and prac
 
 * * *
 
-[ ](https://web.archive.org/web/20101218083435id_/http%3A//michiganbulb.com/article.asp?ai=129)   
+[ ](https://web.archive.org/web/20110327235659id_/http%3A//michiganbulb.com/article.asp?ai=129)   
 
 
 * * *
