@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buymyplaylist.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125215530id_/http%3A//buymyplaylist.com/info/content/privacy_info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buymyplaylist.com privacy policy that was archived on 2011-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110327141631id_/http%3A//www.buymyplaylist.com/info/content/privacy_info) for the most accurate reproduction.*
 
 # Privacy Policy | User Guidelines - Music Fans In Concert with Their Favorite Artists! - BuyMyPlaylist.com
 
