@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the muchmusic.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224035210id_/http%3A//www.ctvglobemedia.com/en/policiestermsconditions/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muchmusic.com privacy policy that was archived on 2011-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110327171020id_/http%3A//www.ctvglobemedia.com/en/page/privacypolicy.aspx) for the most accurate reproduction.*
 
-# CTVglobemedia
+# CTVglobemedia | Privacy Policy
 
-CTVglobemedia Website Privacy Policy
-
-(Last Updated on July 30, 2008)
+(Last Updated on July 30, 2008) 
 
 CTVglobemedia respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains CTVglobemedia Inc.'s and its subsidiaries' (collectively, "CTVglobemedia") treatment of your personally identifiable information collected in connection with your activities on or related to all CTVglobemedia websites referencing this Privacy Policy (the "CTVglobemedia Sites") and all services made available on the CTVglobemedia Sites (collectively, unless noted otherwise, the "CTVglobemedia Services"). This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information.
 
@@ -118,8 +116,7 @@ c. Displaying advertisements. CTVglobemedia and third party advertising provider
 
 Cookies are used on many major web sites. Most browsers are initially set up to accept Cookies. If you prefer, you can reset your browser either to notify you when you have received a Cookie, or to refuse to accept Cookies. You should understand that while CTVglobemedia does not require you to use Cookies, certain CTVglobemedia Services will not function properly if you set your browser to not accept Cookies.
 
-Certain CTVglobemedia Services may contain electronic images known as “Web Beacons” -- sometimes called single-pixel gifs -- that allow CTVglobemedia to count users who have visited those pages and to deliver co-branded services. Web Beacons are not used to access your Personal Information; they are a technique used to compile aggregated statistics about CTVglobemedia Service usage. Web Beacons collect only a limited set of information including a Cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. Certain CTVglobemedia Service web pages may also contain Web Beacons placed there by our advertising partners to help CTVglobemedia determine the effectiveness of our Internet advertising campaigns. 
-
+Certain CTVglobemedia Services may contain electronic images known as “Web Beacons” -- sometimes called single-pixel gifs -- that allow CTVglobemedia to count users who have visited those pages and to deliver co-branded services. Web Beacons are not used to access your Personal Information; they are a technique used to compile aggregated statistics about CTVglobemedia Service usage. Web Beacons collect only a limited set of information including a Cookie number, time and date of a page view, and a description of the page on which the Web Beacon resides. Certain CTVglobemedia Service web pages may also contain Web Beacons placed there by our advertising partners to help CTVglobemedia determine the effectiveness of our Internet advertising campaigns.  
 Downloads
 
-[](https://web.archive.org/downloads/privacy_policy\(3\).pdf) [privacy_policy(3).pdf](https://web.archive.org/downloads/privacy_policy\(3\).pdf)
+[](https://web.archive.org/files/privacy_policy\(3\).pdf) [privacy_policy(3).pdf](https://web.archive.org/files/privacy_policy\(3\).pdf)
