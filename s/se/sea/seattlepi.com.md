@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattlepi.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205081350id_/http%3A//www.seattlepi.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlepi.com privacy policy that was archived on 2011-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110328191711id_/http%3A//www.seattlepi.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # Seattle Post-Intelligencer: Privacy Policy
 
