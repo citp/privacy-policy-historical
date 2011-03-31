@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweetmixx.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225120914id_/http%3A//www.mixx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetmixx.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401014424id_/http%3A//www.mixx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mixx
 
