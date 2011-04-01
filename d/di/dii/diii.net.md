@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diii.net privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131130153id_/http%3A//www.incgamers.com/Pages/11/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diii.net privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402010758id_/http%3A//www.incgamers.com/Pages/11/Privacy.html) for the most accurate reproduction.*
 
-# Home Page | IncGamers
+# IncGamers
 
-####  Privacy Policy
+Privacy Policy
 
 **Introduction**
 
@@ -23,7 +23,9 @@ We use the information collected primarily to process the task for which you vis
 
 Your Internet browser has the in-built facility for storing small files- "cookies" - that hold information which allows a website to recognise your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired.
 
- **Disclosing Information**
+Our websites may contain third party advertising and sponsorship. It is possible that these third party advertisers may download cookies to your computer. Cookies may then be used to allow the advertisers to compile anonymous statistics, personalise advertising content and monitor the effectiveness of their campaigns. We cannot control nor do we have access to any cookies placed on your computer by third party advertisers and sponsors. Visitors may opt-out of these cookies either through their browser settings or by utilising a tool such as [http://www.networkadvertising.org/managing/opt_out.asp.](http://www.networkadvertising.org/managing/opt_out.asp)
+
+**Disclosing Information**
 
 We do not disclose any personal information obtained about you from this website to third parties. We may also use the information to keep in contact with you and inform you of developments associated with our business. If at any time in the future we should wish to disclose information collected on this website to any third party, it would only be with your knowledge and consent. 
 
@@ -33,6 +35,6 @@ We may from time to time provide information of a general nature to third partie
 
 Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
 
- **Contacting Us**
+**Contacting Us**
 
 If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at privacy@incgamers.com. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
