@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbr-technologies.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130061855id_/http%3A//sbr-technologies.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbr-technologies.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401115816id_/http%3A//sbr-technologies.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
