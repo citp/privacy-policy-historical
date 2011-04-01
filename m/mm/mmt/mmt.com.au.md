@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmt.com.au privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212064906id_/http%3A//www.mmt.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmt.com.au privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401063259id_/http%3A//www.mmt.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Multimedia Technology
 
