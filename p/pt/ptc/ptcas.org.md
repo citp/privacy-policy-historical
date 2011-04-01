@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptcas.org privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820203124id_/http%3A//www.ptcas.org/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptcas.org privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401203248id_/http%3A//www.ptcas.org/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
