@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photo-chicken.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127144722id_/http%3A//photo-chicken.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photo-chicken.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401102402id_/http%3A//photo-chicken.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Photo-Chicken.com Sharing Image Hosting Site
 
