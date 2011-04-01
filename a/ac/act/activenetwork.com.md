@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the activenetwork.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203055708id_/http%3A//www.activenetwork.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activenetwork.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401225840id_/http%3A//www.activenetwork.com/information/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - The Active Network
+# Privacy Policy - Active Network
+
+## Privacy Policy
+
+### Last Revised: May 27, 2009
 
 Active recognizes that privacy is important. This Privacy Policy applies to all of the websites and products owned and/or operated by The Active Network, Inc. and its subsidiary and affiliated companies (collectively “Active”) unless expressly noted otherwise. The majority of Active’s websites are intended for a general audience and this policy describes our general use of information. For Active’s websites that may be used by a younger audience, more specific policies applicable to children under the age of 13 will be located on each such site.
 
@@ -32,7 +36,7 @@ Active has established and maintains reasonable security procedures to protect t
 
 Although Active uses commercially reasonable efforts to safeguard your information, transmissions made by means of the Internet cannot be fully secure in all instances and we cannot guarantee that personally identifiable information that we collect will never be disclosed in a manner that is not consistent with this Privacy Policy.
 
-More information on Active’s security can be found at: <http://www.activenetwork.com/security.htm>.
+More information on Active’s security can be found at: [http://www.activenetwork.com/security.htm](https://web.archive.org/security.htm).
 
 **Unsubscribe**
 
