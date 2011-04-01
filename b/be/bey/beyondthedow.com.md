@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondthedow.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120022142id_/http%3A//beyondthedow.com/orphans/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondthedow.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401172347id_/http%3A//beyondthedow.com/orphans/privacy_statement) for the most accurate reproduction.*
 
 # Beyond The Dow Privacy Statement
 
