@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theex.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130044643id_/http%3A//www.theex.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theex.com privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402173442id_/http%3A//theex.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : TheEx.com
 
