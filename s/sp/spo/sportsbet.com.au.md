@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbet.com.au privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914081253id_/https%3A//www.sportsbet.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbet.com.au privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402125253id_/http%3A//www.sportsbet.com.au/privacy) for the most accurate reproduction.*
 
 # Sportsbet Australia - Licensed Sports Betting
 
@@ -7,7 +7,7 @@ This is the privacy policy ("Privacy Policy") of Sportsbet Pty Limited (ACN 088 
 
 This Privacy Policy sets out how Sportsbet will deal with your personal information. 
 
-[SMS & Cold Call Promotions Policy](https://www.sportsbet.com.au/content/general-info/sms-policy "Sportsbet SMS & Cold Call Promotions Policy")
+[SMS & Cold Call Promotions Policy](https://web.archive.org/content/general-info/sms-policy "Sportsbet SMS & Cold Call Promotions Policy")
 
 ## General
 
