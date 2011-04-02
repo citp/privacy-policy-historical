@@ -1,39 +1,47 @@
-> *The following text is extracted and transformed from the couponfactory.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012022102id_/http%3A//couponfactory.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponfactory.com privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402061031id_/http%3A//www.couponfactory.com/privacy) for the most accurate reproduction.*
 
-# Printable Local Coupons for Privacy Statement - CouponPages.Com. Print these coupons and bring them next time you visit.
+# CouponFactory Privacy Policy | CouponFactory
 
-| [](http://www.couponpages.com/)  
----|---  
-  
-* * *
+### Our Commitment to Privacy
 
-**Our "Privacy Statement"**
+The top priority of Coupon Factory, Inc is to provide you with outstanding products. To achieve this goal, we must collect, maintain and use certain personal and financial information. Coupon Factory has created this On-Line Privacy Policy in order to demonstrate our respect for your privacy. This On-Line Privacy Policy describes the information we will collect and how we will use that information. It applies only to the on-line collection of data. Your privacy is important to Coupon Factory and we want you to know about our on-line privacy policies and practices.
 
-CouponPages.Com is maintained by Z Publishing Corporation. We can be reached by e-mail at [info@couponpages.com](mailto:info@couponpages.com). 
+### information Coupon Factory Collects On-Line
 
-**Visitor Personal Information**  
-CouponPages.Com does not capture or use any personal information of any kind. Every visitor to our site is anonymous. We do not ask for any personal information of any kind, and as such we do not capture it. When a search is made on our site for a specific city, state, zip code or other information, we do not gather that information or create any specific visitor profiles of any kind. 
+Coupon Factory gathers, retains and utilizes information about you to operate our business and to make our products, information and opportunities available to you. We collect this information when you provide it through voluntary registration. We will not collect personally identifiable information about you (such as your name, address, telephone number, social security number, billing and shipping information, credit card information or e-mail address) unless you have provided it to us voluntarily or we have obtained it from publicly available information or third parties with whom we conduct business. We shall only use the information for purposes for which it was collected and to send our visitors information about our company and our products. We also use it to better tailor our content to readers' needs and to help better understand the demographics of our audience.
 
-All visitors are treated equally, and blindly. No attempt is made to try to target any of our pages or content based upon any browsing patterns. Any information gathered during a visit to the site, is reset when the visitor leaves our site, and is not used for profiling or distribution to any third party. 
+### Visitor Tracking
 
-**Mailing Lists**  
+We sometimes collect anonymous information through the use of various technologies, possibly including one called "cookies," to help us provide better customer service. For example, we keep track of the domains from which people visit and we also measure visitor activity on the Coupon Factory Website, but we do so in ways that keep the information anonymous. This anonymous information is sometimes referred to as "clickstream data." Coupon Factory or its analytic vendors may use this data to analyze trends and statistics and to help us provide better customer service.
 
+Also, when we collect personal data, we may extract some information and combine it with other information, such as clickstream data. This information is used and analyzed only at an aggregate level to help us understand trends and patterns. None of this information is reviewed at an individual level. If you do not want your personal information used in this manner, you can opt-out by clicking on the link to our "Contact Us" page.
 
-CouponPages.Com has a mailing list feature. Some visitors submit their information to us for the purpose of requesting newsletters and other information. Names and e-mail addresses submitted to us for this purpose are private and are never sold or distributed to third parties. 
+Cookies are small files that a Website installs on your hard drive. Cookies enable our Web server to recognize your computer. This allows a company to tailor its Websites to better match your interests and preferences. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Website, and the Websites visited just before and just after its Website.
 
-**The Use of "Cookies"**  
-CouponPages.Com may place a "cookie" in the browser files of a visitor's computer. The cookie may contain a small amount of session information so that the visitor can browse our site without re-entering their search information on every page. Cookies are not used on our site to hold any personal or tracking information. 
+You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to block cookies altogether. However, if you do so, your ability to use the Website may be impaired.
 
-You also may occasionally get cookies from our advertisers. CouponPages.Com does not control these cookies and these cookies are not subject to this policy. The use of advertising cookies sent by third-party "banner ad" servers is common in the Internet industry. Your personal information is not included in any of these advertiser cookies. 
+Most browsers also allow you to erase cookies already stored.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this and other sites about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/naiprivacy). 
+### Use and Sharing of the Information
 
-Most browsers are initially set to accept third party cookies. If you prefer, you can set your browser to refuse these kinds of cookies or to alert you when cookies are being sent. However, it is not recommended that you turn off any other kind of cookie because many sites will not function properly with all cookies turned off. For information on turning off third-party cookies, see the help section of your browser. 
+We do not give or sell your personally identifiable information to unaffiliated organizations for their independent use without your consent. We may share your information with agents and/or contractors of Coupon Factory in connection with services they perform for us. As an example, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. We may store and process personally identifiable information to better understand your needs and how we may improve our products and services. We may use your information to contact you in the future about important changes, such as about our Websites, new services and products, promotions, sweepstakes and special offers.
 
-**Merchant Personal Information**  
-The merchants on our site submit information to us that is needed to provide advertising for them to the general public. We publish only the information they designate as publishable online, and never publish any other information they submit to us. 
+### Policy on Correcting, Updating or Deleting Information
 
-* * *
+If you would like to correct, update or delete personal information retained by us, or inform us of your desire not to receive future communications from us, please click on a link to our "Contact Us" page.
 
-Copyright 1986-2001, Z Publishing Corporation. All rights reserved.  
-12049
+### Security
+
+Coupon Factory will take reasonable precautions to protect your personally identifiable information from loss, theft, misuse or alteration. If we ask you to send credit card information to us on our Websites, a secure server software will encrypt such information before it is sent to us. The information is scrambled en route and decoded once it reaches our Website. Other email that you send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send your Social Security or credit card numbers to us through an unsecured email.
+
+### Children
+
+Coupon Factory has no intention of collecting personally identifiable information from children under the age of thirteen (13). This Website is not intended for children under the age of 13 and there is no reason to suspect that the Website is designed in a manner that would attract such children. If you are under the age of thirteen (13), please do not provide personal information of any kind whatsoever. If a child provides us with personally identifiable information, a parent or guardian of that child may contact us if they would like this information deleted from our records.
+
+### Links
+
+Coupon Factory may contain links to other websites. Coupon Factory is not responsible for the privacy practices or the content of such websites.
+
+### Your Consent
+
+By using our Websites you consent to our collection and use of your personally identifiable information as described in the On-Line Privacy Policy. Coupon Factory reserves the right to change or update this On-Line Privacy Policy, or any other Coupon Factory policy or practice, at any time. If we change our on-line privacy policies and procedures, we will post those changes on our Website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Any changes or updates will be effective immediately upon posting to the Websites. Thank you for visiting us. We value your patronage.
