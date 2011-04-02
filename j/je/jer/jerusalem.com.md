@@ -1,42 +1,41 @@
-> *The following text is extracted and transformed from the jerusalem.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619094156id_/http%3A//www.linuxlabs.com/about/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerusalem.com privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402212051id_/http%3A//www.jerusalem.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# linux labs - privacy policy
+# Jerusalem.com
 
-_**  
-li**_ nux _**la**_ bs respects your right to privacy.
+Privacy Policy
 
- _ **li**_ nux _**la**_ bs has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the _**li**_ nux _**la**_ bs Website.
+We in Jerusalem.com know that you care how information about you is used and shared, and your privacy is important to us. We thank you for visiting jerusalem-com.domainvortalization.com (the "Web Site") and reviewing our Privacy Policy. This notice describes our privacy policy. **By visiting our website, you are accepting the practices described in this Privacy Notice.** Please note that this Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-Your IP address is used to gather broad demographic information and we use cookies for purely statistical information.
+Collection of Information **Information You Give Us:** We receive and store any information you voluntarily provided us with on our website. We use the information that you provide for such purposes as responding to your requests, providing our services and communicating with you, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.   
+**Automatic Information:**  
+We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies," other technologies to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit to enhance your online experience and to learn about how you use The Web Site in order to improve the quality of our services or serve appropriate advertising and we obtain certain types of information when your web browser accesses our sites. Examples of the information we collect and analyze include the Internet Protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) click stream to, through, and from our website, including date and time. We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for ggregate use. Personal information is not being collected via cookies, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties. In some cases, we use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.Uses Distribution of Information
 
-Our site's registration form requires that users give us contact information (i.e., name and email address). We only contact those users that explicitly request us to when they complete the form. Users must explicitly request that we contact them before we approach them. Merely completing the form will not result in our contacting visitors, they must explicitly request our contacting them.
+We may use personal information to provide the services you've requested, including services that display customized content and advertising.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+We do share information but only as described below. Otherwise we will not provide your personal information without your consent.
 
-This site also contains links to other sites. _****li****_ **nux _ **la**_ bs** is not responsible for the privacy practices or the content of such Web sites.
+We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. Furthermore we engage other companies and individuals to perform functions on our behalf or provide us with services . Examples include processing credit card payments, providing marketing assistance, providing customer services, sending postal mail and email to you, removing repetitive information from customer lists, and analyzing data. These persons have access to personal information needed to perform their functions. These companies do not retain, share, store or use personally identifiable information that you provide us for any secondary purposes. When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
 
-We use banner advertising to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by a separate company, and we do not have access to their information.
+We may share information with third parties when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
 
-### Public Forums
+We partner with other parties to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services
 
-This site makes Forums, Message boards, and News groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+We may share aggregated non-personal information with third parties outside of The Web Site.
 
-### Security
+Links
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We have Firewalls, Intrusion countermeasures and a strict security policy as part of our infrastructure. This ensures that any information you provide to us remains confidential.
+The web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-### Choice/Opt-Out
+Children
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
+The Web Site is not directed to children. If you are under 18, you may use our services only with involvement of a parent or guardian.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [remove@linuxlabs.com](mailto:remove@linuxlabs.com)
+Indemnification
 
-### Contacting the Web Site
+You agree to indemnify, defend and hold harmless the Web Site and its members, managers, officers, employees, agents and the assigns of same, from and against any and all loss, costs, expenses (including reasonable attorneys' fees and expenses), claims, damages and liabilities related to or associated with your use of the Web Site and any violation of this Privacy Policy by you.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [info@linuxlabs.com](mailto:info@linuxlabs.com)
+Conditions of Use, Notices, and Revisions
 
-Any information that you provide to us will be strictly confidential We will **not** disclose this information to any outside third parties and will not add you to any outside mailing lists.
+If you choose to visit our web site, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of United States . If you have any concern about privacy at our web site, please send us a thorough description to igal@trafficmedia.com, and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions of use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use, but you should check our website frequently to see recent changes.
 
-We acknowledge your right to privacy and upon your request all your information and contact details will immediately be deleted.
-
-All information provided is only for our own internal statistical use and will not be divulged to any external parties. We only contact those people that specifically request it and we will **not** send you unsolicited email, junk mail or spam.
+This Privacy Policy was last updated on _   2011/01/24  _.
