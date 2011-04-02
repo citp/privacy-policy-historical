@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfas.mil privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904083304id_/http%3A//www.dfas.mil/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfas.mil privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402021508id_/http%3A//www.dfas.mil/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
