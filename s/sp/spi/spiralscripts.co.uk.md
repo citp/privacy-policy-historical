@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiralscripts.co.uk privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215134624id_/http%3A//www.spiralscripts.co.uk/General/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiralscripts.co.uk privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402070654id_/http%3A//www.spiralscripts.co.uk/General/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | General
 
