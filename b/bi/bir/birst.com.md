@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109051700id_/http%3A//www.birst.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402071730id_/http%3A//www.birst.com/privacy.shtml) for the most accurate reproduction.*
 
 # Birst - On-Demand Business Intelligence that's easy and affordable - Birst Privacy Policy
 
-Last Updated: September 24, 2010. 
+Last Updated: March 16, 2011. 
 
 Birst Inc. is committed to customer privacy. This Privacy Policy communicates our customer information gathering and dissemination practices. We reserve the right to change our Privacy Policy at any time and will provide notification of changes by posting the revised Privacy Policy on our website [www.birst.com.](http://www.birst.com/)
 
@@ -30,6 +30,10 @@ To review and update your personal information to ensure it is accurate, you can
 
 We also have testimonials on our site. For which the individuals have given permission for us to post their personal information. 
 
+## Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, contact us at [operations@birst.com](mailto:operations@birst.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 ## Links to Other Sites
 
 This Web site contains links to other sites that are not owned or controlled by Birst. Please be aware that we, Birst, are not responsible for the privacy practices of such other sites. 
@@ -48,7 +52,7 @@ We follow generally accepted industry standards to protect the personal informat
 
 ## Cookies and Other Tracking Technologies
 
-In order to improve birst.com and provide a more convenient, relevant user experience, we use and contract with third parties who provide "cookies," "web beacons," and similar devices to track activity on the site. A cookie is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It cannot be executed as code or deliver viruses. A web beacon is a small transparent image that is embedded in an HTML page or email and used to track viewings in its containing page or email. This device is similar to a cookie in that it tracks visits and the data can only be read by the server that provided the data. It is different than a cookie in that it is not browser-based, may not function as an identification card, and does not store any data on your computer. We may use web beacons to determine popular pages and effectiveness of communications. Our cookies are not linked to personal information. 
+In order to improve birst.com and provide a more convenient, relevant user experience, we use and contract with third parties who provide "cookies," "web beacons," and similar devices to track activity on the site. A cookie is a small amount of data that is transferred to your browser by a web server and can only be read by the server that gave it to you. It cannot be executed as code or deliver viruses. A web beacon is a small transparent image that is embedded in an HTML page or email and used to track viewings in its containing page or email. This device is similar to a cookie in that it tracks visits and the data can only be read by the server that provided the data. It is different than a cookie in that it is not browser-based, may not function as an identification card, and does not store any data on your computer. We may use web beacons to determine popular pages and effectiveness of communications. We do link the information we store in cookies to any personally identifiable information a visitor may have submitted while on our site. All web-browsers offer the option to refuse any cookie. If a visitor refuses the Birst cookie, Birst does not gather any information on that visitor's visit to the web site. In addition to refusing the Birst website cookie directly in your browser, Birst offers the option to directly opt out of our website metrics. Go [here](https://web.archive.org/OptStatus.shtml) to view and change your current status for Birst website tracking. 
 
 We and third parties use local shared objects, also known as Flash cookies. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. 
 
