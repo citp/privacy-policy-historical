@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the natpe.org privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010233338id_/http%3A//natpe.org/natpe/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D52%26Itemid%3D226) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natpe.org privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402230954id_/http%3A//www.natpe.org/natpe/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D390%26Itemid%3D663) for the most accurate reproduction.*
 
 # Privacy Policy | NATPE | Content First | NATPE | Content First
 
-Copyright © 2004-2008 National Association of Television Program Executives (NATPE). All rights reserved. No portion of this site may be reproduced in any manner without the express prior written consent of NATPE.
+**Copyright © 2004-2010** National Association of Television Program Executives (NATPE). All rights reserved. No portion of this site may be reproduced in any manner without the express prior written consent of NATPE.
 
 At NATPE, we want you to be aware of how we use information we have collected from and about you. By coming to the NATPE site, you are agreeing to and accepting this Privacy Policy as well as the Terms and Conditions and other end user agreements governing our services.
 
@@ -20,23 +20,22 @@ As a benefit of membership, NATPE members may receive the following communicatio
 
 In order to provide our users with a more complete understanding of how the NATPE site collects and uses information from our users, we have provided the following information:
 
-###  Third Party Sites
+### Third Party Sites
 
 NATPE may provide links to other World Wide Web sites or resources. Because NAPTE has no control over such sites and resources, you acknowledge and agree that NATPE is not responsible for the availability of such external sites or resources, and does not endorse and is not responsible or liable for any Content, advertising, products, or other materials on or available from such sites or resources. You further acknowledge and agree that NATPE shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such Content, goods or services available on or through any such site or resource.
 
-###  Internet Protocol (IP) Address  
-
+### Internet Protocol (IP) Address
 
 The NATPE site logs IP addresses for systems administration, diagnostic, and site tracking purposes, and to report aggregate information to advertisers Cookies. The NATPE site uses files called "cookies" to store usernames, passwords, and other user preferences and behaviors. You should be aware that advertisers serving ads on the NATPE site may use their own cookies.
 
-###  Information Collection and Opt-Out
+### Information Collection and Opt-Out
 
 The NATPE site's membership and Conference registration forms ask users to enter contact information (e.g., email and postal address and phone contact numbers), general information and demographic information (e.g., occupation.) The forms also require unique identifiers (username and password) so that your identity can be verified when you access certain portions of the NATPE site. The contact information primarily is used to send users emails, alerts, and other information you have requested and other information as stated in this Privacy Policy. General information is used to improve the targeting of our marketing. The demographic information is used, among other things, to tailor your user experience at the NATPE site, distribute and show you content that we think you might be interested in, and display site content according to your preferences.
 
-###  Changes to this Privacy Policy
+### Changes to this Privacy Policy
 
 This Privacy Policy is subject to modification from time to time. You may be notified: (1) in an email sent to the email address you have provided to NATPE through the NATPE site, or (2) NATPE's posting of a notice for at least 30 days on this web site that the NATPE site Privacy Policy has been changed. Should you wish to opt-out of such modifications to the Privacy Policy, you may do so by either following the applicable instructions and links on the site or email or sending an email to the NATPE Web Master at the email address below, making sure to include the words "opt-out" and "modification" in the subject field.
 
-If you have any questions regarding this policy, please email [Jack Sullivan](http://www.contactify.com/27827) or call him at 310-857-1626. 
+If you have any questions regarding this policy, please email **[Jack Sullivan](http://www.contactify.com/27827) **or call him at 310-857-1626.
 
-Last Update: June 24, 2008 
+**Last Update: October 14, 2010**
