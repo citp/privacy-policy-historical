@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the caseyresearch.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229092258id_/http%3A//www.caseyresearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caseyresearch.com privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402170535id_/http%3A//www.caseyresearch.com/content/casey-research-llc-privacy-policy) for the most accurate reproduction.*
 
-# Casey Research Privacy Policy
+# Casey Research, LLC Privacy Policy - Casey Research
 
 This Privacy Policy applies to the websites (together, the "Sites") that are owned or operated by Casey Research, LLC (referred to herein as "we," "us," and "our"), including CaseyResearch.com, KitcoCasey.com and any other websites that display or link to this Privacy Policy. We collect certain personal information based upon and as a result of the use of our Sites by visitors and subscribers (referred to herein as "you" or "your"). Our collection and use of your information will be conducted in accordance with this Privacy Policy.
 
-**1.   Information That We Collect.  **
+**1\. Information That We Collect.**
 
-When you subscribe to our products and services, you disclose and we collect certain personal information from you, such as your name, email address, mailing address, telephone number or fax number, username, password, credit card number, and other information described in this Privacy Policy ("Personal Information"). We also automatically collect anonymous tracking information about you to gauge response to our communication efforts and the popularity of specific areas of our Sites. 
+When you subscribe to our products and services, you disclose and we collect certain personal information from you, such as your name, email address, mailing address, telephone number or fax number, username, password, credit card number, and other information described in this Privacy Policy ("Personal Information"). We also automatically collect anonymous tracking information about you to gauge response to our communication efforts and the popularity of specific areas of our Sites. 
 
-Our Sites use cookies, which are small files placed on your computer’s hard drive by an Internet server when you visit a website. We use cookies to allow authentication for access to subscriber-only areas of our Sites and to assure that the content you view is appropriate to your subscription status. Cookies also allow you to leave our Sites and come back without having to re-enter your username and password every time (within a limited time period). If you do not want to accept cookies from our Sites, you may configure your web browser so that it does not accept cookies; however, certain functions available on the website may be lost. 
+Our Sites use cookies, which are small files placed on your computer’s hard drive by an Internet server when you visit a website. We use cookies to allow authentication for access to subscriber-only areas of our Sites and to assure that the content you view is appropriate to your subscription status. Cookies also allow you to leave our Sites and come back without having to re-enter your username and password every time (within a limited time period). If you do not want to accept cookies from our Sites, you may configure your web browser so that it does not accept cookies; however, certain functions available on the website may be lost. 
 
-**2.    Consent.**
+**2\. Consent.**
 
 By providing your Personal Information through the Sites, you consent to our collection and use of your Personal Information and other information in accordance with the terms of this Privacy Policy.
 
-**3.    Our Use of Your Personal Information.**
+**3\. Our Use of Your Personal Information.**
 
- **a.** We will use your Personal Information to process your subscription or requests for information. We may also use such Personal Information to offer additional information to you about us, our products and/or services, personalize the types of information you receive from us, evaluate how our Sites are being used and the audience our Sites are reaching, identify market trends and market interests that help us improve the products and services that we offer, and develop and improve the content and operation of our Sites to better serve the needs of our customers. 
+ **a.** We will use your Personal Information to process your subscription or requests for information. We may also use such Personal Information to offer additional information to you about us, our products and/or services, personalize the types of information you receive from us, evaluate how our Sites are being used and the audience our Sites are reaching, identify market trends and market interests that help us improve the products and services that we offer, and develop and improve the content and operation of our Sites to better serve the needs of our customers. 
 
   
 
@@ -31,7 +31,7 @@ _Online Orders_
 
 _Sharing Information with Other Companies_
 
-. We may share your Personal Information ( **but never your credit card or password information)** with our affiliates or with third parties who provide services to us and agree to keep your Personal Information confidential. 
+. We may share your Personal Information ( **but never your credit card or password information)** with our affiliates or with third parties who provide services to us and agree to keep your Personal Information confidential. 
 
 (3) 
 
@@ -59,7 +59,7 @@ You may, at any time, request to not have your mail and email information used f
 
 Although we take the security of your Personal Information very seriously and are constantly improving our efforts to protect it, no electronic communication over the Internet can be guaranteed to be completely secured. Though we take great care to protect your personal information, we cannot guarantee the security of any information that you submit to us, and you do so at your own risk.
 
-**5\. Advertising and Linked Websites.  **
+**5\. Advertising and Linked Websites.**
 
 Our Sites may feature products and services that are co-sponsored by other websites. One example of such a feature is our stock quote data, which is provided to us by a third party. Additionally, our Sites contain links to other websites, including those of advertisers. We are not responsible for the claims or representations made by advertisers or sponsors. While these co-sponsored activities, banner ads, and links originate on our Sites, we do not necessarily operate them. 
 
