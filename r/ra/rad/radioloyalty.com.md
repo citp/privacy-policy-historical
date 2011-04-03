@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the radioloyalty.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625015057id_/http%3A//www.radioloyalty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioloyalty.com privacy policy that was archived on 2011-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110403070403id_/http%3A//radioloyalty.com/legal-privacypolicy.php) for the most accurate reproduction.*
 
-# RadioLoyalty TM
+# Radio Loyalty: Internet Radio for Listeners, Advertisers, Broadcasters and Partners!
 
-### Privacy Policy/Your California Privacy Rights
-
-Policy last updated June 04, 2009
+Policy last updated October 04, 2010
 
 This is the Privacy Policy for www.radioloyalty.com (the "Site"), which is owned or operated by RadioLoyalty. (the "Company" or "we" or "us"). Your California Privacy Rights
 
 California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for such third parties' direct marketing purposes. To make such a request, please write to: RadioLoyalty
 
-Privacy Administration Dept,  
-345 Chapala, Santa Barbara, CA 93101   
-Your Acceptance of this Privacy Policy
+Privacy Administration Dept. 345 Chapala, Santa Barbara, CA 93101 Your Acceptance of this Privacy Policy
 
-By using the Site, including, without limitation, signing up for offers and/or continuing to receive information from the Company, you signify your acceptance of this Privacy Policy, and you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is subject to the Terms of Use  posted on the Site. Information We Collect
+By using the Site, including, without limitation, signing up for offers and/or continuing to receive information from the Company, you signify your acceptance of this Privacy Policy, and you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is subject to the Terms of Use posted on the Site. Information We Collect
 
 We collect information that may personally identify you (such as your name, address, telephone number, email address, billing information, or other data which can be reasonably linked to such information) only if you choose to share such information with us. For example, we may collect personal information from you when you register on the Site, subscribe to one of our services, and at other times. We also collect credit card information in connection with any purchase you make on or through the Site. The decision to provide this information is optional; however, if you decide not to register or provide such information, you may not be able to use certain features of the Site or other services.
 
@@ -32,12 +28,14 @@ Sharing Information; Your Consent to Sharing
 
 We may rent, sell, and share your personal information and non-personal information with our network partners and third-party affiliates for the purposes of direct mail, email marketing, mobile marketing, and telemarketing.
 
-By clicking "Submit" and providing personal information on or through the Site, you agree:  
-• all information you have provided is true and correct to the best of your knowledge;  
-• you are establishing a business relationship with Company; and  
-• you are requesting and expressly consenting to be contacted via telephone, email, and/or mail by us, our network partners, and third-party affiliates, regardless of whether your telephone number is on any Do Not Call list(s)
+By clicking "Submit" and providing personal information on or through the Site or other sites we own, operate, or control, you agree:
 
-From time to time, we may establish a business relationship with other businesses whom we believe trustworthy and who have confirmed that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers to provide certain services, such as hosting and maintenance, customer relationship management, data storage and management, and direct marketing campaigns. We provide our Service Providers with only the information necessary for them to perform these services on our behalf. Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use or disclosure.
+  * all information you have provided is true and correct to the best of your knowledge;
+  * you are establishing a business relationship with Company and with its marketing partners; and
+  * you are requesting and expressly consenting to be contacted via telephone (whether wireless or wired), including by live or prerecorded, calls using an automated dialing system, email, and/or mail by us, our network partners, and third-party affiliates and marketing partners regardless of whether your telephone number is on any Do Not Call list(s)
+  * From time to time, we may establish a business relationship with other businesses and third-party marketing partners whom we believe trustworthy and who have confirmed that their privacy practices are consistent with ours ("Service Providers"). For example, we may contract with Service Providers and third-party marketing partners to provide certain services, such as hosting and maintenance, customer relationship management, data storage and management, and direct marketing campaigns. We provide our Service Providers and/or third-party marketing partners with the information necessary for them to perform these services on our behalf. Each Service Provider and/or third-party marketing partner must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use or disclosure. If you would like more information about our data sharing policy and practices and to know your choices about not having information about you used by us or these other companies,click here.
+
+
 
 We may work with third-party marketing and advertising companies ("Ad Networks"). These companies may collect and use information about your use of the Site or services in order to provide advertisements about goods and services that may be of interest to you. Advertisements may be shown via the Site, the services, or third-party sites. These companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons. Our Privacy Policy does not cover any use of information that an Ad Network may collect from you. It also does not cover any information that you may choose to provide to an Ad Network or to an advertiser whose goods or services are advertised through the Site. For more information about ad cookies, and to "opt-out" of the collection of information by some companies that allow you to do so, please click here.
 
@@ -51,7 +49,7 @@ Any information we obtain from you in connection with any mobile service, includ
 
 No Collection of Information from Children
 
-The Site is not intended for users under the age of 18, nor do we knowingly collect, retain or share information in connection with the Site from children under the age of 18. 
+The Site is not intended for users under the age of 18, nor do we knowingly collect, retain or share information in connection with the Site from children under the age of 18.
 
 Safeguarding Your Information
 
@@ -69,10 +67,7 @@ Contacting Us
 
 If you have any questions or concerns about this Privacy Policy or our privacy practices, you may write to us at:
 
-RadioLoyalty  
-Privacy Administration Dept.  
-345 Chapala Street  
-Santa Barbara, CA 93101
+RadioLoyalty Privacy Administration Dept. 345 Chapala Street Santa Barbara, CA 93101
 
 Please provide complete information to facilitate your request, as well as your complete contact information. Privacy Policy Changes
 
