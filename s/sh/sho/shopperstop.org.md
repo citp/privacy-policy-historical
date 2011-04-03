@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopperstop.org privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224195655id_/http%3A//shopperstop.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopperstop.org privacy policy that was archived on 2011-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110403043224id_/http%3A//shopperstop.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Shoppers Top Online Shopping Directory
 
