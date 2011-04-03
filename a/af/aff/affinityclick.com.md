@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affinityclick.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223105617id_/http%3A//www.affinityclick.com/us/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinityclick.com privacy policy that was archived on 2011-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110403020346id_/http%3A//www.affinityclick.com/us/about-us/privacy) for the most accurate reproduction.*
 
 # Contextual Advertising & PPC Services | Privacy
 
