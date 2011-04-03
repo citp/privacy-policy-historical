@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ultimatecoloncleanse.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618164722id_/http%3A//www.ultimatecoloncleanse.com/shared/content/documents/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatecoloncleanse.com privacy policy that was archived on 2011-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110403043508id_/http%3A//www.ultimatecoloncleanse.com/privacy.html) for the most accurate reproduction.*
 
-# Terms of Use
+# Our Privacy Policy : Colon Cleansing Products : Best Colon Cleanser : Ultimate Cleanse : UltimateColonCleanse.com
 
 \-- IMPORTANT -- PLEASE READ
 
