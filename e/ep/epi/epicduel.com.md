@@ -1,22 +1,23 @@
-> *The following text is extracted and transformed from the epicduel.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128134414id_/http%3A//www.epicduel.com/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicduel.com privacy policy that was archived on 2011-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110403161908id_/http%3A//www.epicduel.com/policy/privacy.asp) for the most accurate reproduction.*
 
 # EpicDuel - Privacy Policy
 
-REVISED December 11, 2009
+REVISED March 22, 2011 
 
 **BattleOn EpicDuel LLC** provides family friendly entertainment to our users. We are committed to protecting the safety and security of its online visitors and are sensitive to our user's concerns about the safety of personal information provided to us. We encourage all our users to read this Privacy Statement carefully in order to understand how any personal information collected about you is used. ****If you have questions or concerns regarding this statement, you should first contact Courtney Nawara at. 
 
 We are also aware, that due to our content we may have some younger users on our site. We recognize the need to provide additional protection to those younger users. The Children’s Online Privacy Protection Act ('COPPA') requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. We explain this information under the Children’s Privacy Policy section below. 
 
-[Information You Provide to Us And How We Use This Information](http://aq.com/aw-privacy.asp#1)  
-[What We WILL NOT DO With the Information You Provide to Us](http://aq.com/aw-privacy.asp#2)  
-[What Are Cookies?](http://aq.com/aw-privacy.asp#3)  
-[What Are IP Addresses?](http://aq.com/aw-privacy.asp#4)  
-[Message Boards](http://aq.com/aw-privacy.asp#5)  
-[Security and Credit Card Use](http://aq.com/aw-privacy.asp#6)  
-[CHILDRENS’S PRIVACY POLICY](http://aq.com/aw-privacy.asp#7)  
-[Revision Information](http://aq.com/aw-privacy.asp#8)  
-[Contacting BattleOn EpicDuel ](http://aq.com/aw-privacy.asp#9)
+Information You Provide to Us And How We Use This Information  
+What We WILL NOT DO With the Information You Provide to Us  
+What Are Cookies?  
+What Are IP Addresses?  
+Message Boards  
+Mobile  
+Security and Credit Card Use  
+CHILDRENS’S PRIVACY POLICY  
+Revision Information  
+Contacting BattleOn EpicDuel 
 
 Information You Provide to Us And How We Use This Information
 
@@ -96,6 +97,11 @@ If you use a message board or forum on this Web Site, you should be aware that a
 
 The message board must be signed up for separately from the game and is subject to TERMS OF USE.
 
+**Message Boards**  
+Artix Entertainment may use tools or third party analytical software to collect and use certain non-personal data that does not enable Artix Entertainment to identify you. The types of non-personal data Artix Entertainment may collect and use include, but are not limited to: (i) mobile device type and device properties; (ii) mobile device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data no more accurate that metropolitan areas; (v) gamescore and achievements; (vi) other non-personal data as reasonably required by Artix Entertainment to enhance its services.
+
+Artix Entertainment may use the collected data for purposes of analyzing usage of Artix Entertainment games, managing and providing Artix Entertainment games and to further develop Artix Entertainment’s services and products. Artix Entertainment reserves the right to use and disclose the collected non-personal data for purposes of advertisement by Artix Entertainment or Artix Entertainment’s partners.
+
 **Security and Credit Card Use**  
 The security of your personal information is important to us and our third party vendors. When you enter sensitive information (such as credit card number and/or social security number, Corp ID number or ABN) on our site or an affiliate sign up page, registration or order forms, both BattleOn EpicDuel and our third party vendors encrypt that information using secure socket layer technology (SSL). 
 
@@ -166,4 +172,4 @@ If you need further assistance or have any additional questions or comments abou
 BattleOn EpicDuel, LLC  
 12000 North Dale Mabry Highway  
 Suite 110  
-Tampa, FL 33618 
+Tampa, FL 33618
