@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lapeches.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329094456id_/http%3A//www.lapeches.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lapeches.com privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404013258id_/http%3A//www.lapeches.com/privacy.php%3FosCsid%3Dun6c50sltg8ov2cim0tjvnf4q1) for the most accurate reproduction.*
 
-# ::Lapeches::
+# Privacy Policy @ lapeches.com
 
 |  |  | Privacy Policy |   
 ---|---  
