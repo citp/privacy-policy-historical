@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubcall.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229015023id_/http%3A//www.clubcall.com//privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubcall.com privacy policy that was archived on 2011-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110403090023id_/http%3A//www.clubcall.com//privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ClubCall.com
 
@@ -48,10 +48,10 @@ Should any of our sites contain links to other sites outside our group we can no
 Thank you for reading this privacy policy and choosing to use our products and sites as a reliable source of sports news and opinion on the Internet. Should you have any further queries about how we use data or your rights and privileges as a user then please feel free to contact our Customer Relations Team via the details below.
 
 Independent Content Services Ltd  
-St Andrews House,   
-St Andrews Street,   
+1st Floor Manor House,   
+1 Manor Street,   
 Leeds,   
-LS3 1LF
+LS7 1PZ
 
 T: 0870 428 6951  
 info@ics-sport.com
