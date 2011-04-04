@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216073956id_/http%3A//divinecosmos.com/index.php/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404232055id_/http%3A//divinecosmos.com/index.php/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,5 +35,5 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 [**How To Contact Us** ](http://divinecosmos.com/index.php/contact-us)
 
-[Next Article >](http://divinecosmos.com/index.php/contact-us/privacy-policy/156-our-objectives-for-this-website)  
+[Next >](http://divinecosmos.com/index.php/contact-us/privacy-policy/156-our-objectives-for-this-website)  
 ---
