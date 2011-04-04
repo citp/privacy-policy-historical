@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the membersequitybank.com.au privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203143631id_/http%3A//membersequitybank.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membersequitybank.com.au privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404232656id_/http%3A//www.membersequitybank.com.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ME Bank
 
-> **How to contact us** ^
+**How to contact us** ^
 
 Management and staff are aware of the need, and are trained, to exercise the utmost discretion in handling information obtained from customers in the provision of our services.
 
