@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturepeople.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221073712id_/http%3A//picturepeople.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturepeople.com privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404060954id_/http%3A//www.picturepeople.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Picture People - Professional Studio Portrait Photography
 
@@ -24,7 +24,7 @@ If you do not want to be contacted by THE PICTURE PEOPLE for promotional purpose
 
 We may, from time to time, share this information with other reputable organizations whose products or services we think you might find interesting and those that match your possible needs. We employ measures to protect against the unauthorized disclosure of your personal information to third parties. We require that any organization with which we share information also take measures to prevent the unauthorized disclosure of personal information.
 
-If you do not want THE PICTURE PEOPLE to share your information please send an e-mail to: donotshare@picturepeople.com or you may call Customer Service at 1-877-YOU-GRIN or mailing a written request to: Attention: Marketing Sharing, 1800 10th Street, Suite 300 Plano, TX 75074. Please indicate which name, address, phone number & email address we should not share.
+If you do not want THE PICTURE PEOPLE to share your information please send an e-mail to: donotshare@picturepeople.com or you may contact us through our [online form](http://www.picturepeople.com/contact-us). Please indicate which name, address, phone number & email address we should not share.
 
 ## What information does THE PICTURE PEOPLE collect?
 
@@ -39,6 +39,5 @@ We collect information you provide when you visit our physical studios, register
 
 
 
-[
+[](https://web.archive.org/portrait-products/portrait-club)[](https://web.archive.org/portrait-products/portrait-club)  
 
-](https://web.archive.org/portrait-products/portrait-club)
