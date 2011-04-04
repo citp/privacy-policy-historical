@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundai.co.za privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924215451id_/http%3A//www.hyundai.co.za/index.cfm%3Fevent%3DcentralContent%26intCentralContentID%3D9858%26CFID%3D29166221%26CFTOKEN%3D50438867%26jsessionid%3Df030edb45359231faa763b2c174ac77627c2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundai.co.za privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404095514id_/http%3A//www.hyundai.co.za/index.cfm%3Fevent%3DcentralContent%26intCentralContentID%3D9858%26CFID%3D33051842%26CFTOKEN%3D70993193%26jsessionid%3Df030d1a41b9677a198e6447e435e443f4f68) for the most accurate reproduction.*
 
 # Hyundai Legal & Privacy Policy | Hyundai
 
