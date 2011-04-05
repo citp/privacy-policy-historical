@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubelogr.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225122443id_/http%3A//www.tubelogr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubelogr.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405142641id_/http%3A//www.tubelogr.com/privacy) for the most accurate reproduction.*
 
 # Tubelogr.com - Privacy Policy
 
@@ -29,10 +29,10 @@ Additionally, "TubeLogr" or its advertisers may use other companies, known as th
 
 "TubeLogr"'s Service and website are not intended for a adult audience, and children under the age of eighteen (18) are not permitted to register with TubeLogr's Service and websites. Modification and Deletion of Personally Identifiable Information (Opt-Out) 
 
-In order to delete the personally identifiable information you submitted, notify us, to the following email address: support((at))TubeLogr.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
+In order to delete the personally identifiable information you submitted, notify us, to the following email address: tubelogr ((at)) gmail.com that you wish to delete your personally identifiable information or any part thereof contained at our databases. 
 
 **Modification**  
-If you wish to modify or update your personally identifiable information, use the web-site or application interface. I f you need help, please contact us at the following email address: support(())TubeLogr.com. Please note that deletion of your personally identifiable information from TubeLogr's database will not prevent TubeLogr from using gathered anonymous information. 
+If you wish to modify or update your personally identifiable information, use the web-site or application interface. I f you need help, please contact us at the following email address: tubelogr ((at)) gmail.com. Please note that deletion of your personally identifiable information from TubeLogr's database will not prevent TubeLogr from using gathered anonymous information. 
 
 **Third Parties' Practices**  
 This Privacy Policy does not cover the information practices exercised by other provides of products or services, advertisers or other web sites, or companies/people that TubeLogr does not own or control, or does not employ or manage. 
