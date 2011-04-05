@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the indianexpress.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228010207id_/http%3A//www.indianexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianexpress.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405182840id_/http%3A//www.indianexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 #### Privacy Policy
 
-Thank you for visiting Expressindia.com, the website of The Indian Express Group. We respect your privacy and consider it an important element of our business. Our privacy policy is straightforward: We do not collect personal information about you when you visit our website(s) unless you volunteer to provide that information to us. This is broadly how we handle the information we gather.
+Thank you for visiting Indianexpress.com, the website of The Indian Express Group. We respect your privacy and consider it an important element of our business. Our privacy policy is straightforward: We do not collect personal information about you when you visit our website(s) unless you volunteer to provide that information to us. This is broadly how we handle the information we gather.
 
 If you visit our website(s) just to browse, read pages or download information, but do not register for any of our services, we gather and store certain information about your visit automatically. This information cannot and does not identify you personally. 
 
