@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216194945id_/http%3A//www.imnewswatch.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imnewswatch.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406011332id_/http%3A//www.imnewswatch.com/Privacy.html) for the most accurate reproduction.*
 
 # Internet Marketing NewsWatch - PRIVACY POLICY
 
-## Get News Updates!
-
-## Tell Your Friend
-
-## CATEGORIES
-
-  
-  
-|  | 
+| 
 
 **\-- IMPORTANT -- PLEASE READ**
 
@@ -144,4 +136,4 @@ This "Privacy Policy" is © 2003-2007 by Mining Gold Corporation and Nevada Proc
   
   
   
----|---|---
+---|---
