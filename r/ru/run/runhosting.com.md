@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runhosting.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129052710id_/http%3A//runhosting.com/terms.html%3Ftype%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runhosting.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405193044id_/http%3A//runhosting.com/terms.html%3Ftype%3Dprivacy_policy) for the most accurate reproduction.*
 
 # RUNHOSTING.COM - web hosting,free hosting,professional hosting,support,FrontPage,PHP,Perl,CGI,domain name registration,free domain name
 
