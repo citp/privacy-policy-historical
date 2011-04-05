@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the private-label-rights-software-and-ebooks.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612172522id_/http%3A//www.private-label-rights-software-and-ebooks.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the private-label-rights-software-and-ebooks.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405210533id_/http%3A//private-label-rights-software-and-ebooks.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Private Label Rights Software and Ebooks Privacy Policy
 
