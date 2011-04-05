@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingstar.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120101344id_/http%3A//www.weddingstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingstar.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405093210id_/http%3A//www.weddingstar.com/privacy) for the most accurate reproduction.*
 
 # Weddingstar
 
