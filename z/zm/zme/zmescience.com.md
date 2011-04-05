@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zmescience.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408145823id_/http%3A//www.zmescience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmescience.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405185850id_/http%3A//www.zmescience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZME Science
 
@@ -62,5 +62,3 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-
-If you enjoy our posts, then you might consider subscribing to our [full RSS feed](http://www.zmescience.com/feed/). Or enter your e-mail address bellow and receive our posts in you inbox. Thanks for visiting! 
