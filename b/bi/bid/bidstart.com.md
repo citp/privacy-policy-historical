@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidstart.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521044148id_/http%3A//www.bidstart.com/wiki/index.php/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidstart.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405201007id_/http%3A//www.bidstart.com/wiki/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - StampWantsWiki
 
@@ -8,17 +8,18 @@ This privacy policy sets out how bidStart uses and protects any information that
 
 bidStart is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
 
-bidStart may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from April 8, 2010. 
+bidStart may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from February 25, 2010. 
 
 ## Contents
 
   * 1 What we collect
   * 2 What we do with the information we gather
   * 3 Handling of Payments
-  * 4 Security
-  * 5 How we use cookies
-  * 6 Links to other websites
-  * 7 Controlling your personal information
+  * 4 MyMessages
+  * 5 Security
+  * 6 How we use cookies
+  * 7 Links to other websites
+  * 8 Controlling your personal information
 
 
 
@@ -49,6 +50,10 @@ We require this information to understand your needs and provide you with a bett
 
 To settle your account balance (the fees you incur through selling items) with bidStart, all payments are handled through PayPal. You do not need a PayPal account to pay though, just a credit card (PayPal can process credit cards without the need of an account). Paypal helps ensure that your credit card information stays private. As for individual items you wish to purchase on our website, the seller will specify what payment forms they accept and are solely responsible for any information you provide them. 
 
+## MyMessages
+
+An automated system is in place to ensure members do not use the MyMessages system in a way which is not compliant with our terms and conditions; for example sending spam, bulk messages, links to outside websites, and all other applicable terms and conditions. In some cases, when our admin staff is alerted to possible terms and conditions violations, or if there is an issue with a specific transaction, our admin staff may manually review MyMessages if neccessary to resolve any outstanding issues. 
+
 ## Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
@@ -70,6 +75,8 @@ Our website may contain links to other websites of interest. However, once you h
 ## Controlling your personal information
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/ "http://www.networkadvertising.org"). 
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to us (see the Contact Us Page). 
 
