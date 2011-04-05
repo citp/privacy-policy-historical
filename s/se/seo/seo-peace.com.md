@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seo-peace.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231180848id_/http%3A//www.seo-peace.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-peace.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405021435id_/http%3A//www.seo-peace.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Affordable SEO Services By Expert SEO and Marketing Company
+# SEO and SMM Company | Advanced SEO Services | Get Natural Top 10 Rankings
 
 Privacy policy of SEO Peace demonstrates our commitment towards your privacy. This privacy policy defines the process of personal information collection and its usage at SEO Peace. 
 
