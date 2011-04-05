@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestmanagementarticles.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125210903id_/http%3A//www.bestmanagementarticles.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmanagementarticles.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405223241id_/http%3A//www.bestmanagementarticles.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Business and management articles submission site.
 
@@ -105,7 +105,7 @@ If you have any questions about this privacy statement, the practices of this si
 Didn't find what you're looking for? Search below...
 
 [ ](http://www.google.com/)   
-Web http://bestmanagementarticles.com
+Web http://www.bestmanagementarticles.com
 
 Search for ebooks on Management & Business  
 
