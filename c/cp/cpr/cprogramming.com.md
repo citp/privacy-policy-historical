@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201235929id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cprogramming.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406011445id_/http%3A//www.cprogramming.com/privacy.html) for the most accurate reproduction.*
 
 # Cprogramming.com: Privacy Policy
 
