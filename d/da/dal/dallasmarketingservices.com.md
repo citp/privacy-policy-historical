@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallasmarketingservices.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203194638id_/http%3A//dallasmarketingservices.com/dallas-marketing-firm-seven-aspens/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasmarketingservices.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407005425id_/http%3A//dallasmarketingservices.com/dallas-marketing-firm-seven-aspens/privacy) for the most accurate reproduction.*
 
 # Privacy | Marketing Services from Seven Aspens®
 
