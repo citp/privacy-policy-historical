@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readbookonline.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120185212id_/http%3A//www.readbookonline.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readbookonline.net privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406125457id_/http%3A//www.readbookonline.net/privacy.htm) for the most accurate reproduction.*
 
 # readbookonline.net Privacy Policy Statement
 
