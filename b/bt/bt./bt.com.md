@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bt.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330160315id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteArea%3Dpan) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bt.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406122140id_/http%3A//www2.bt.com/btPortal/application%3Fpageid%3Dpan_privacy_policy%26siteArea%3Dpan) for the most accurate reproduction.*
 
 # BT.com | Privacy Policy
 
@@ -24,7 +24,7 @@ When do we use cookies?
 How do you disable cookies?   
 Are third party sites covered by this policy?   
    
-[ ](https://web.archive.org/btPortal/?pageid=my_account&tabId=2&siteArea=pan&pageid=pan_privacy_policy "back")  
+[ ](http://www.bt.com/?siteArea=pan&pageid=pan_privacy_policy "back")  
    
 BT Websites Privacy and Security Policy   
    
@@ -82,9 +82,7 @@ We may ask you for information to enable us to provide a service to you and we c
 We do not use this information to:   
    
   
-  * identify individuals visiting our website; or
-  * analyse your visits to any other websites (except that we do track you if you go to websites carrying our banner, but we do not identify personal details while we do this); or
-  * track any Internet searches which you may make while on our website.
+  * analyse your visits to any other websites (except that we do track you if you go to websites carrying our banner, but we do not identify personal details while we do this)
 
   
 Return to top  
