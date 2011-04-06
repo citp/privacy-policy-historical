@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitvictoria.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128032503id_/http%3A//www.visitvictoria.com/displayobject.cfm/objectid.5A21923A-B754-4442-BF887EF6A5262191/lk.footer2_3/pg.vvhomepage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitvictoria.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406122000id_/http%3A//www.visitvictoria.com/displayobject.cfm/objectid.5A21923A-B754-4442-BF887EF6A5262191/lk.footer2_3/pg.vvhomepage) for the most accurate reproduction.*
 
 # Privacy and website notice
 
