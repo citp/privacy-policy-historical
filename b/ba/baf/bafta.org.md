@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the bafta.org privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525220751id_/http%3A//www.bafta.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bafta.org privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406114337id_/http%3A//www.bafta.org/privacy.html) for the most accurate reproduction.*
 
 # BAFTA Privacy
 
-### THE BRITISH ACADEMY OF FILM AND TELEVISION ARTS   
+### THE BRITISH ACADEMY OF FILM AND TELEVISION ARTS 
+
 PRIVACY POLICY
 
 Welcome to The British Academy of Film and Television Arts. The British Academy of Film and Television Arts and BAFTA Management Limited (jointly referred to as "BAFTA") takes your privacy seriously. Please read the following to learn more about our privacy and cookie policy.
@@ -116,5 +117,3 @@ BAFTA Management Limited is a company registered in England. Registered number 0
   * [View our Terms of Use](https://web.archive.org/terms-of-use.html)
 
 
-
-[Printable Version](https://web.archive.org/print/privacy.html)
