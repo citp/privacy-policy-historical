@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaustralian.com.au privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103211842id_/http%3A//www.theaustralian.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaustralian.com.au privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406094111id_/http%3A//www.theaustralian.com.au/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Australian
 
