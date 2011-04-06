@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the italki.com privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820002037id_/http%3A//www.italki.com/static/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italki.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406114339id_/http%3A//www.italki.com/static/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - italki
 
