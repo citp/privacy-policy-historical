@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the wimsbios.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031011009id_/http%3A//www.wimsbios.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimsbios.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406023659id_/http%3A//www.wimsbios.com/privacy.jsp) for the most accurate reproduction.*
 
 # Wim's BIOS Page Privacy Statement
 
 [](http://www.wimsbios.com/recommend/biosagent)   
-[](http://www.wimsbios.com/recommend/driverupdates)   
+[](http://www.wimsbios.com/recommend/driverupdates)
+
+Wim's BIOS is proudly cloud hosted by [VPS.NET](https://www.vps.net/) and [MaxCDN Content Delivery Network](http://tracking.maxcdn.com/c/11902/3968/378)
+
+  
 | 
 
 Wim's BIOS Page, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users.
@@ -20,7 +24,7 @@ Wim's BIOS Page uses third-party advertising companies to serve ads when you vis
 
   * Infolinks is an In Text advertising service which creates links within the Wim's BIOS content. If you hover your mouse over these double underlined links, you will see a small dialog box containing an advertisement related to the text. You can choose to move the mouse away and go on with your browsing, or to click on the box and visit the relevant ad. [Click here to opt-out from Infolinks Double Underline Link Ads](http://www.infolinks.com/opt-out.html?pid=34141&wsid=0)
   * To find out more about how InfoLinks manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.infolinks.com/privacy.html>
-  * To find out more about how Fastclick manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.fastclick.com/about/privacy.html>. 
+  * To find out more about how ValueClick Media manages the privacy of information in conjunction with serving ads on this site, please go to <http://valueclickmedia.com/member_privacy.shtml>. 
   * To find out more about how Advertising.com manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.advertising.com/abt_privacy.php>
   * To find out more about how Google.com manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.google.com/adsense>
   * To find out more about how Mamma Media Solutions manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.mammainc.com/corporate/privacy.html>
