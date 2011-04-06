@@ -1,29 +1,76 @@
-> *The following text is extracted and transformed from the joeshopping.com privacy policy that was archived on 2010-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101014133013id_/http%3A//www.joeshopping.com/articles/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joeshopping.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406024302id_/http%3A//www.joeshopping.com/articles/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# JoeShopping.com Privacy Policy
 
-**Privacy Policy Statement**
+The following sets forth the policies for the collection and use of personally identifiable information (" _Information_ ") by JoeShopping, Inc. (" _JoeShopping_ ") in connection with its operation of its Web site located at JoeShopping.com ( the " _Site_ ") and its offline operations (the Site and offline operations together are known as the " _Business_ "), and supersedes any previous statement of such policies.
 
-This is the web site of JoeShopping.com.
+JoeShopping knows that users' personal information is important to them. JoeShopping respects that importance and treats that information responsibly. JoeShopping has created the below policy to explain the types of information it collects from users, how it uses this information, with whom and for what purposes it shares the information, and how users can interact with JoeShopping in connection with the information collection and use.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer´s domain name, but not the e-mail address (where possible).
+JoeShopping takes its obligations regarding privacy very seriously and it wants to ensure users are fully informed about the Information they are providing to it.
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number.
+_Collection of Information_.  
+In connection with the Site, JoeShopping may collect Information in the following ways:
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
+  * Through forms filled out by a user on the Site
+  * Through Information provided by a user in connection with prize promotion entries
+  * Through the maintenance and analysis of Web server logs
+  * Through emails, telephone calls, of faxes sent to JoeShopping
+  * Via communications between a user and JoeShopping
 
-**With respect to cookies** : We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer´s hard drive, similar to a license plate, that help us to recognize you if you visit our website again. We use cookies to store visitors preferences, record session information, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors´ browser type or other information that the visitor sends. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy, we do not use cookies to store or transmit any personal information about you on the Internet.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
-Upon request we can provide site visitors with details about the information that we maintain about them.
+JoeShopping may also connect non-personally identifiable information from users via "cookies" (small text files placed by JoeShopping on user computers), single-pixel GIF image files (also called "Web beacons"), Web server log analysis and other similar technological means. Such information may be used to track site trends and enhance the user experience, and may be shared with third parties. JoeShopping may share information to respond to subpoenas, court order, or legal process, or to establish or exercise it legal rights or defend against legal claims. We will transfer Information about you if JoeShopping is acquired by or merged with another company.
 
-If you feel that this site is not following its stated information policy, you may contact us at the below addresses:
+To the extent third parties may place advertising or other content on the Site, such third parties may utilize cookies or other technological means within the advertising to collect and utilize non-personally identifiable information. JoeShopping is not responsible for information collected by third parties in this manner, nor for the collection or use of Information by other sites to which the Site is linked.
 
-JoeShopping.com  
-25 Smith Street  
-Suite #313  
-Nanuet, NY 10954
+_Types of Information Collected_ by JoeShopping.  
+The following types of Information about a user are among those that may be collected by JoeShopping in connection with the Business:
 
-  
+  * Name
+  * Postal address
+  * E-mail address
+  * Telephone number
+  * Date of birth
+  * IP Address
+  * Referring site
+  * Friends
+  * Photos and Videos
+  * Other information that you provide on the Site
+  * Other technical information collected by the Site's servers
 
+
+
+_Children_.  
+JoeShopping does not knowingly collect or retain information in connection with the Site from children under the age of 13. JoeShopping does not ask children under age 13 for personal information.
+
+_Use of Information_.  
+JoeShopping may use Information collected in connection with the Site in the following ways:
+
+  * To provide requested information, products and services to users via the Site or through other online or offline channels
+  * To improve the user experience with the Site
+  * To provide to corporate sponsor of the Site
+  * In connection with the operation of the Site
+  * For users to obtain information and offers for products and services offered by JoeShopping
+
+
+
+In order to do the foregoing, JoeShopping may provide the Information to trusted third parties, including but not limited to selected third party vendors as well as third party contractors providing services to JoeShopping such as the operation of the Site and communication services. JoeShopping will use commercially reasonable efforts to limit use of the Information by such third parties to the specific uses set forth above. JoeShopping also utilizes electronic and physical security to reduce the risk of improper access to or manipulation of Information during transmission and storage, but cannot guarantee the security or integrity of the Information and shall have no liability for breaches of security or integrity or third-party interception in transit.
+
+JoeShopping may also disclose Information when it determines it is necessary to comply with applicable laws or regulations, in connection with a merger, acquisition, asset purchase or sale of or by JoeShopping, or to protect the interests or safety of JoeShopping, its customers, or other visitors to the Site.
+
+_Opting Out from Offers from JoeShopping_.  
+At any time, a user may opt out from receiving future offers from JoeShopping by following the instructions contained within each marketing communication or by sending an e-mail message to . Such opting out will not apply to any communications from third parties to whom JoeShopping may have provided Information regarding the user. Third parties' use of the Information is subject to such parties' own privacy policies, for which JoeShopping shall not be responsible.
+
+_Access to Information_.  
+All users who provide their Information to JoeShopping may modify and correct such Information through their personal profile.
+
+_Your California Privacy Rights_.  
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of JoeShopping who are California residents to request certain information regarding JoeShopping's disclosure of personal information to third parties for such third parties direct marketing purposes. To make such a request, please write to  or 25 Smith Street, Suite 313, Nanuet, NY 10954.
+
+_Changes to this Privacy Policy_.  
+JoeShopping reserves the right to revise and update this Privacy Policy at any time. Any such revisions will be effective on the date of posting to the Site, and will apply to all information collected by JoeShopping both prior to and following the effective date. Your use of the Site following any such revisions will be deemed your acceptance of such revisions. Users should periodically visit this page to review the current policies with regard to Information.
+
+_Questions and Suggestions_.  
+Please contact us at 25 Smith Street, Suite 313, Nanuet, NY 10954 or visit our [Contact Us](http://www.joeshopping.com/articles/Contact-Us) page.
+
+Policy Last Revised: October 6, 2010.
