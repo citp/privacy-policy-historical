@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008223138id_/http%3A//www.acma.gov.au/WEB/STANDARD/pc%3DPC_2830) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406090847id_/http%3A//www.acma.gov.au/WEB/STANDARD/pc%3DPC_2830) for the most accurate reproduction.*
 
 # ACMA - Privacy notice
 
@@ -31,4 +31,4 @@ The data listed above is collected for the following purposes:
 
 
 
-Identified data can only be re-disclosed to the user if the user provides the unique request session number. No attempt will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise its authority to inspect the Internet Service Provider's logs. 
+Identified data can only be re-disclosed to the user if the user provides the unique request session number. No attempt will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise its authority to inspect the Internet Service Providers' logs. 
