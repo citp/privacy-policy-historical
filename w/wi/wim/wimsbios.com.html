@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wimsbios.com privacy policy that was archived on 2010-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101031011009id_/http%3A//www.wimsbios.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wimsbios.com privacy policy that was archived on 2011-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110406023659id_/http%3A//www.wimsbios.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>	
 
@@ -27,6 +27,47 @@
 <link rel="shortcut icon" href="http://cdn.wimsbios.com/favicon.ico" type="image/x-icon">		
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://yui.yahooapis.com/combo?2.8.1/build/yahoo-dom-event/yahoo-dom-event.js&amp;2.8.1/build/animation/animation-min.js&amp;2.8.1/build/element/element-min.js&amp;2.8.1/build/container/container-min.js&amp;2.8.1/build/menu/menu-min.js&amp;2.8.1/build/button/button-min.js&amp;2.8.1/build/tabview/tabview-min.js"></script>
+
+<script type="text/javascript">
+	function queryString(variableToSearch) {
+		queryStr = window.location.search.substring(1);
+		queryStrArray = queryStr.split("&");
+		for (i=0; i < queryStrArray.length; i++) {
+			queryStringVariable = queryStrArray[i].split("=");
+			if (queryStringVariable[0] == variableToSearch) {
+				return queryStringVariable[1];
+			}
+		}
+	}
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-6694317-1']);
+	_gaq.push(['_setDomainName' , 'www.wimsbios.com']); // don't track cdn.wimsbios.com (cookieless subdomain)
+
+	var content = document.getElementById('center');	
+	if (content) {
+		if (content.innerHTML.search('did not match any documents')) {
+			var searchString = queryString("q");
+			if (searchString) {
+				_gaq.push(['_trackPageview', '/?cat=zero-results&q=' + searchString]);				
+			} else {
+				_gaq.push(['_trackPageview']);
+			}
+		} else {
+			_gaq.push(['_trackPageview']);
+		}
+	} else {
+		_gaq.push(['_trackPageview']);
+	}
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
 
 		
 </head>
@@ -116,7 +157,7 @@
 						
 						<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/biosupdates.jsp">BIOS Updates</a></li>
 						
-						<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://www.wimsbios.com/recommend/biosagent" onclick="pageTracker._trackEvent('ExitPoints', 'Click Text B', 'BIOSAgent - Menu')" rel="nofollow">BIOS Update Scan</a></li>
+						<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://www.wimsbios.com/recommend/biosagent" onclick="_gaq.push(['_trackEvent', 'ExitPoints', 'Click Text B', 'BIOSAgent - Menu']);" rel="nofollow">BIOS Update Scan</a></li>
 						
 						<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="#biosids">BIOS IDs</a>
 							<div id="biosids" class="yuimenu">
@@ -133,7 +174,7 @@
 						
 						<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/biosutil.jsp">BIOS Utilities</a></li>
 						
-						<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://www.wimsbios.com/recommend/driverupdates" onclick="pageTracker._trackEvent('ExitPoints', 'Click Text B', 'DriverAgent - Menu')" rel="nofollow">Driver Updates</a></li>
+						<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="http://www.wimsbios.com/recommend/driverupdates" onclick="_gaq.push(['_trackEvent', 'ExitPoints', 'Click Text B', 'DriverAgent - Menu']);" rel="nofollow">Driver Updates</a></li>
 						
 						<li class="yuimenubaritem"><a class="yuimenubaritemlabel" href="/links.jsp">Links</a></li>
 						
@@ -162,14 +203,17 @@
 </h1>
 
 
-		
-		
-	<a href="http://www.wimsbios.com/recommend/biosagent" onclick="pageTracker._trackEvent('ExitPoints', 'Click Image B', 'BIOSAgent - Left Sidebar')" target="_blank" rel="nofollow"><img src="http://cdn.wimsbios.com/images/biosscan2.png" width="163" height="50" alt="Scan and find the right bios update!"></a>
+						
+	<a href="http://www.wimsbios.com/recommend/biosagent" onclick="_gaq.push(['_trackEvent', 'ExitPoints', 'Click Image B', 'BIOSAgent - Left Sidebar']);" target="_blank" rel="nofollow"><img src="http://cdn.wimsbios.com/images/biosscan2.png" width="163" height="50" alt="Scan and find the right bios update!"></a>
 	<br>
 	
-					<a href="http://www.wimsbios.com/recommend/driverupdates" onclick="pageTracker._trackEvent('ExitPoints', 'Click Image B', 'DriverAgent - Left Sidebar')" target="_blank" rel="nofollow"><img src="http://cdn.wimsbios.com/images/driverscan.png" width="163" height="50" alt="Scan and find the right driver update!"></a>					
+	<a href="http://www.wimsbios.com/recommend/driverupdates" onclick="_gaq.push(['_trackEvent', 'ExitPoints', 'Click Image B', 'DriverAgent - Left Sidebar']);" target="_blank" rel="nofollow"><img src="http://cdn.wimsbios.com/images/driverscan.png" width="163" height="50" alt="Scan and find the right driver update!"></a>					
 				
 
+	<p>Wim's BIOS is proudly cloud hosted by <a href="https://www.vps.net">VPS.NET</a> and <a href="http://tracking.maxcdn.com/c/11902/3968/378">MaxCDN Content Delivery Network</a></p>
+	<img height="1" width="1" src="http://tracking.maxcdn.com/i/11902/3968/378">
+	
+				
 	
 	<h1>
 	Search
@@ -214,7 +258,7 @@ google_ad_height = 600;
 	 <!-- include file="/ad/pubmatic160600left.jsp" -->
 	 
 	 <!-- div class="center">
-	 	 <a href="http://www.wimsbios.com/recommend/biosagent" onclick="pageTracker._trackEvent('ExitPoints', 'Click Image B', 'BIOSAgent - Left Skyscraper')" target="_blank" rel="nofollow"><img src="http://cdn.wimsbios.com/images/biosagentplus_sky.png" width="160" height="600" alt="Scan and find the right bios update!"/></a>	 
+	 	 <a href="http://www.wimsbios.com/recommend/biosagent" onclick="_gaq.push(['_trackEvent','ExitPoints', 'Click Image B', 'BIOSAgent - Left Skyscraper']);" target="_blank" rel="nofollow"><img src="http://cdn.wimsbios.com/images/biosagentplus_sky.png" width="160" height="600" alt="Scan and find the right bios update!"/></a>	 
 	 </div -->
 	 
 
@@ -254,8 +298,8 @@ committed to protecting the privacy of Internet users.</p>
 	<li>To find out more about how InfoLinks manages the privacy of
     information in conjunction with serving ads on this site, please go to <a href="http://www.infolinks.com/privacy.html">http://www.infolinks.com/privacy.html</a></li> 
 	
-  <li>To find out more about how Fastclick manages the privacy of
-    information in conjunction with serving ads on this site, please go to <a href="http://www.fastclick.com/about/privacy.html">http://www.fastclick.com/about/privacy.html</a>.  </li>
+  <li>To find out more about how ValueClick Media manages the privacy of
+    information in conjunction with serving ads on this site, please go to <a href="http://valueclickmedia.com/member_privacy.shtml">http://valueclickmedia.com/member_privacy.shtml</a>.  </li>
   <li>To find out more about how Advertising.com manages the privacy of
     information in conjunction with serving ads on this site, please go to <a href="http://www.advertising.com/abt_privacy.php">http://www.advertising.com/abt_privacy.php</a>  </li>
   <li>To find out more about how Google.com manages the privacy of
@@ -317,49 +361,14 @@ us</a>.</p>
 
 
 
-<script type="text/javascript">
-	function queryString(variableToSearch) {
-		queryStr = window.location.search.substring(1);
-		queryStrArray = queryStr.split("&");
-		for (i=0; i < queryStrArray.length; i++) {
-			queryStringVariable = queryStrArray[i].split("=");
-			if (queryStringVariable[0] == variableToSearch) {
-				return queryStringVariable[1];
-			}
-		}
-	}
-</script>
+
 
 <script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-6694317-1']);
-	_gaq.push(['_setDomainName' , 'www.wimsbios.com']); // don't track cdn.wimsbios.com (cookieless subdomain)
-
-	var content = document.getElementById('center');	
-	if (content) {
-		if (content.innerHTML.search('did not match any documents')) {
-			var searchString = queryString("q");
-			if (searchString) {
-				_gaq.push(['_trackPageview', '/?cat=zero-results&q=' + searchString]);				
-			} else {
-				_gaq.push(['_trackPageview']);
-			}
-		} else {
-			_gaq.push(['_trackPageview']);
-		}
-	} else {
-		_gaq.push(['_trackPageview']);
-	}
-
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
+   var infolink_pid = 34141;
+   var infolink_wsid = 0;
 </script>
+<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
 
-
-<!-- %@ include file="/ad/infolinks.jsp" % -->
 <!-- google_ad_section_end -->
 		
 
