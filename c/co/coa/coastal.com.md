@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coastal.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205235034id_/http%3A//www.coastal.com/support/information-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coastal.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406042609id_/http%3A//www.coastal.com/support/information-privacy-policy) for the most accurate reproduction.*
 
 # Information Privacy Policy - Support - DuPont Sustainable Solutions
 
