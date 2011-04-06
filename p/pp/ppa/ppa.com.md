@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppa.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218060027id_/http%3A//www.ppa.com/about/ppa-privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppa.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406045021id_/http%3A//www.ppa.com/about/ppa-privacypolicy.php) for the most accurate reproduction.*
 
 # PPA Privacy Policy | Professional Photographers of America
 
