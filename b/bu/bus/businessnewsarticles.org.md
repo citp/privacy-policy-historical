@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessnewsarticles.org privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204063024id_/http%3A//businessnewsarticles.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessnewsarticles.org privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406032529id_/http%3A//businessnewsarticles.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Business News Articles
 
