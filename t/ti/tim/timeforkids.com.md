@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeforkids.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414025150id_/http%3A//www.timeinc.net/subs/privacy/tk/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeforkids.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406120643id_/http%3A//www.timeinc.net/subs/privacy/tk/policy.html) for the most accurate reproduction.*
 
 # TIME FOR KIDS Privacy Notice
 
@@ -36,7 +36,7 @@ At some Time Inc. sites and through certain promotions, you can submit informati
 
 For certain promotions, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the promotion's activities and offerings. 
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider. 
+We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP Address, and your Internet service provider, and location-based information. 
 
 | back to top  
   
@@ -129,4 +129,4 @@ Attention: Consumer Affairs - TimeForKids.com Privacy Policy
 Tampa, Florida 33612-6408
 
 | back to top  
-|  This Privacy Policy was revised 4/13/09.
+|  This Privacy Policy was revised 1/7/2011.
