@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918135356id_/http%3A//www.rydges.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rydges.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406124135id_/http%3A//www.rydges.com/privacy.asp) for the most accurate reproduction.*
 
 # Enquire about holidays getaways and offers at Rydges Hotels and Resorts | Contact Us
 
