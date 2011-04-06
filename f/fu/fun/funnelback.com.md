@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funnelback.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525231214id_/http%3A//funnelback.com/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnelback.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406084202id_/http%3A//www.funnelback.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# Funnelback Website and Enterprise Search - Privacy Policy
 
 Personal information collected by Funnelback is treated as confidential and is protected by the Australian Privacy Act 1988. Personal information is information relating to an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion provided.
 
@@ -61,4 +61,4 @@ We will, at your request, provide you with access to any information which we ha
 
 **Security of information.** Your personal information will not be released unless the law requires or permits it or your permission is given. We provide a secure environment and a reliable system but you should be aware that there may be inherent risks associated with the transmission of information via the Internet. For those who do not wish to use the Internet, Funnelback provides alternative ways of obtaining and providing information.
 
-**Who to contact.** To contact Funnelback about privacy matters, please use the details provided on the ['contact us'](https://web.archive.org/web/20100525231214id_/http%3A//funnelback.com/Contacts/index.shtml) page.
+**Who to contact.** If you have any question or concerns in relation to our privacy policy, please [contact us](http://www.funnelback.com/about-us/contact).
