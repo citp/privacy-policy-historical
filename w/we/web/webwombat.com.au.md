@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwombat.com.au privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826021658id_/http%3A//www.webwombat.com.au/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwombat.com.au privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406111506id_/http%3A//www.webwombat.com.au/about/privacy.htm) for the most accurate reproduction.*
 
 # Web Wombat: Privacy Policy
 
