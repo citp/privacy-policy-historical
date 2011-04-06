@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225184646id_/http%3A//www.hellointern.com/info.php%3Fsel%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellointern.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406204922id_/http%3A//www.hellointern.com/info.php%3Fsel%3Dprivacy) for the most accurate reproduction.*
 
 # HelloIntern | Search Internships in India, summer jobs
 
