@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728173429id_/http%3A//www.aussie.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussie.com.au privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406073127id_/http%3A//www.aussie.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy | Aussie
 
@@ -27,7 +27,7 @@ We will always aim to collect your personal information directly from you. If fo
 
 ### Why will we disclose information to another organisation?
 
-At Aussie, we want to provide our customers with the very best products and services. At times, we may partner with another organisation to support the products and services we offer (for example, credit cards). In these situations, or to perform credit checks, we will need to share the personal information you have given us. As you will appreciate, in certain circumstances we may be compelled by law to disclose your personal information to various authorities. For instance, we may be required under the Financial Transaction Reports Act to disclose details of financial transactions and we may also be compelled under tax laws to provide such information. This is to your benefit, and helps us to provide the products and services you would expect from Aussie.
+At Aussie, we want to provide our customers with the very best products and services. At times, we may partner with another organisation to support the products and services we offer (for example, credit cards). In these situations, or to perform credit checks, we will need to share the personal information you have given us. As you will appreciate, in certain circumstances we may be compelled by law to disclose your personal information to various authorities. For instance, we may be required under the Anti-Money Laundering and Counter-Terrorism Financing Act to disclose details of financial transactions and we may also be compelled under tax laws to provide such information. This is to your benefit, and helps us to provide the products and services you would expect from Aussie.
 
 ### Whom will we disclose information to?
 
@@ -103,3 +103,5 @@ or email the Privacy Officer at [privacy@aussie.com.au](mailto:privacy@aussie.co
 ### Direct marketing offers and information
 
 The details you give us may be used to inform you about any special offers we think will be of interest to you, and to update you on new products and services or changes to our website. We may also send you details of offers or services provided by our business partners and related Aussie entities. You may at any time choose not to receive these communications. Doing so will not cost you anything, and we will aim to ensure you stop receiving any unwanted communications as soon as possible.
+
+Feedback
