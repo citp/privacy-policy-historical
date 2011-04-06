@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vimeo.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130121720id_/http%3A//www.vimeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vimeo.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406092523id_/http%3A//vimeo.com/privacy) for the most accurate reproduction.*
 
 # Vimeo.com Privacy Policy
 
@@ -6,7 +6,7 @@ Vimeo, LLC is a part of the IAC family of businesses ([](http://www.iac.com/)www
 
 At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Vimeo, LLC, please [click here.](https://web.archive.org/privacy/policy)
 
-**The Vimeo.com Privacy Policy was last updated on:** October, 2008.
+**The Vimeo.com Privacy Policy was last updated on:** January 7, 2011.
 
 ### Information We May Collect [Read more](https://web.archive.org/privacy/policy#info_we_collect)
 
@@ -57,7 +57,7 @@ We will not share your personal information with others except as indicated belo
   * Service providers, such as credit-card payment processors, performing services on our behalf;
   * Other IAC businesses;
   * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
-  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
+  * Other third parties in limited circumstances, such as reporting suspected criminal activity, complying with legal requirements, preventing fraud, and protecting the safety of our users.
 
 
 
@@ -87,10 +87,8 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email or postal mail below:
 
 > **Vimeo, LLC**  
->  c/o IAC Consumer Applications & Portals, Inc.  
->  One North Lexington, 9th Floor  
->  White Plains, NY, 10601  
->  ATTN: Privacy Officer/Legal Dept.  
+>  555 West 18th Street  
+>  New York, New York 10011  
 >  [privacy@vimeo.com](mailto:privacy@vimeo.com)
 
-©2010 Vimeo, LLC. All rights reserved.
+©2011 Vimeo, LLC. All rights reserved.
