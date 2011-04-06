@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superstore.ca privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218003843id_/http%3A//superstore.ca/LCLOnline/pcPrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superstore.ca privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406213207id_/http%3A//www.superstore.ca/LCLOnline/pcPrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Superstore - Privacy Policy
 
