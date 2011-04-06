@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224021701id_/http%3A//www.ingres.com/about/policies/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406163831id_/http%3A//www.ingres.com/privacy) for the most accurate reproduction.*
 
-# About | Policies | Privacy Policy - Ingres
+# Privacy Policy - Ingres
 
 Your privacy is important to Ingres Corporation ("Ingres" "we" or "us"). We have prepared this privacy policy to disclose and describe certain policies implemented throughout Ingres governing Ingres' use of personally identifiable information about users of our web site located at www.ingres.com ("Site").
 
@@ -32,12 +32,12 @@ We process personally identifiable information in ways compatible with the purpo
 
 ## Cookies
 
-Portions of this Site use cookies to keep track of your visit, or to deliver content specific to your interests. A "Cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. You can set your browser to notify you when you receive a cookie, giving you the chance to accept or reject it. 
+Portions of this Site use cookies to keep track of your visit, or to deliver content specific to your interests. A "Cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. You can set your browser to notify you when you receive a cookie, giving you the chance to accept or reject it.
 
 ## Public Forums
 
-Portions of this Site make chat rooms, forums, message boards, and/or news groups available to visitors. Please remember that any information that is disclosed in these areas becomes public information and exercise caution when deciding to disclose any personal information. 
+Portions of this Site make chat rooms, forums, message boards, and/or news groups available to visitors. Please remember that any information that is disclosed in these areas becomes public information and exercise caution when deciding to disclose any personal information.
 
 ## Children's Privacy
 
-This Site is not intended for children under the age of 13. Ingres does not target its services or this Site to children under 13. Ingres does not knowingly collect personally identifiable information from children under the age of 13. Updating your Information and Contacting Us If you wish to review or correct any information you have provided to us, you may access your account and update it on this Site. If you have any questions or comments about our Privacy Policy or practices, please contact us via email at [info@ingres.com](mailto:info@ingres.com) with the words "PRIVACY POLICY" in the subject line. 
+This Site is not intended for children under the age of 13. Ingres does not target its services or this Site to children under 13. Ingres does not knowingly collect personally identifiable information from children under the age of 13. Updating your Information and Contacting Us If you wish to review or correct any information you have provided to us, you may access your account and update it on this Site. If you have any questions or comments about our Privacy Policy or practices, please contact us via email at [info@ingres.com](mailto:info@ingres.com) with the words "PRIVACY POLICY" in the subject line.
