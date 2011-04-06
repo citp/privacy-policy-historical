@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movieclips.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231005226id_/http%3A//movieclips.com/about/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieclips.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406132659id_/http%3A//movieclips.com/about/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy MOVIECLIPS - the largest collection of movie scenes
 
