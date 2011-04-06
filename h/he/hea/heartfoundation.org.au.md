@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartfoundation.org.au privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329120103id_/http%3A//www.heartfoundation.org.au/About_Us/Privacy_Policy/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartfoundation.org.au privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406114624id_/http%3A//www.heartfoundation.org.au/About_Us/Privacy_Policy/Pages/default.aspx) for the most accurate reproduction.*
 
 # Public Privacy Statement
 
@@ -39,7 +39,7 @@ Heart Foundation
 GPO Box 9966   
 In your Capital City 
 
-Alternatively, please call: 1300 55 02 82 or email: [inform@heartfoundation.com.au](mailto:inform@heartfoundation.com.au)
+Alternatively, please call: 1300 55 02 82 or email: [privacy@heartfoundation.org.au](mailto:privacy@heartfoundation.org.au)
 
 How we collect your personal information 
 
