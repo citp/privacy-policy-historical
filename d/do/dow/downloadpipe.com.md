@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220041831id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadpipe.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407092841id_/http%3A//www.downloadpipe.com/privacy.html) for the most accurate reproduction.*
 
 # DownloadPipe.com Privacy Policy
 
@@ -27,3 +27,7 @@ Our site contains links to sites owned by other companies. We make no guarantees
 ## Customer Contact
 
 From time to time, DownloadPipe.Com makes available to current customers special deals and/or offers. In such a case, we will contact you by email. 
+
+RECOMMENDED
+
+POPULAR
