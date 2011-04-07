@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205115802id_/http%3A//www.stopagingnow.com/customer_service/privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopagingnow.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407110734id_/http%3A//www.stopagingnow.com/customer_service/privacy_and_security) for the most accurate reproduction.*
 
 # Stop Aging Now Privacy & Security
 
@@ -10,7 +10,7 @@ We understand that you value highly the security of your personal and credit car
 
 [Click Here to View our McAfee® Scan Alert Certificate](https://www.mcafeesecure.com/RatingVerify?ref=www.stopagingnow.com)
 
-[Click Here to View our BBB Online Reliability Program Certificate](https://www.bbb.org/online/consumer/cks.aspx?ID=1070726101758680)
+[Click Here to View our BBB Online Reliability Program Certificate](http://www.bbb.org/washington-dc-eastern-pa/business-reviews/vitamins-and-food-supplements/stop-aging-now-llc-in-bethesda-md-140355167/)
 
 **Online Shopping**
 
