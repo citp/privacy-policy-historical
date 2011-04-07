@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the pmq.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619224346id_/http%3A//www.pmq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmq.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407231856id_/http%3A//pmq.com/privacy.php) for the most accurate reproduction.*
 
-# PMQ's Pizza Magazine - The #1 Pizza Trade Magazine and Official Website of the Pizza Industry
+# PMQ Pizza Magazine - The #1 Pizza Trade Magazine and Official Website of the Pizza Industry - by PMQ Pizza Magazine
 
-Our postal address is   
-904 North Lamar Blvd. Suite 2  
-Oxford, MS 38655
+This is the web site of Pizza Marketing Quarterly.
 
-We can be reached via e-mail at [webmaster@pmq.com](mailto:mail@pmq.com)  
+We can be reached via e-mail at [webmaster@pmq.com](mailto:webmaster@pmq.com)  
 or you can reach us by telephone at (662) 234-5481.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
@@ -38,5 +36,9 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address. 
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+Click here [www.nielsen-netratings.com/privacy/sitecensus.htm](http://www.nielsen-netratings.com/privacy/sitecensus.htm) to learn more information about how we use a third party service to collect and use information on this Web site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
