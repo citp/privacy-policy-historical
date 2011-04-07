@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206084348id_/http%3A//www.dundas.com/Corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407094414id_/http%3A//www.dundas.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Dundas Data Visualization: Privacy Policy
 
@@ -109,6 +109,10 @@ For purposes of maintaining quality service, calls to our customer service lines
 
 When you visit our web site, information is not collected that could identify you personally unless you choose to provide it voluntarily. You are welcome to browse the Web site at any time anonymously and privately without revealing any personal or financial information about yourself.
 
+### Google Conversion Data:
+
+Dundas utilizes Google AdWords conversion tracking to help us determine goal conversions for our advertising campaigns. As a result, cookies are used to see where users navigate within our web site.
+
 ### When Information May be Disclosed to Outside Parties:
 
 Except as specifically provided for in this privacy policy, we do not disclose any personal information to third parties. The following are the limited instances where we may disclose your personal information to third parties:
@@ -178,4 +182,4 @@ This Privacy Policy, and all related matters are governed solely by the laws of 
 
 Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or Dundas's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary.
 
-Last revised Wednesday, October 14, 2009
+Last revised Wednesday, February 16, 2011
