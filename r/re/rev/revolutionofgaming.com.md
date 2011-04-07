@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the revolutionofgaming.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206145059id_/http%3A//www.renegadegaming.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D13%26Itemid%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolutionofgaming.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407121712id_/http%3A//www.renegadegaming.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D13%26Itemid%3D14) for the most accurate reproduction.*
 
 # Privacy Policy
+
+infos
 
 Sunday, 01 August 2010 18:17 
 
