@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the compucars.co.uk privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228143944id_/http%3A//www.compucars.co.uk/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the compucars.co.uk privacy policy that was archived on 2011-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110408012003id_/http%3A//www.compucars.co.uk/privacy-policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -14,7 +14,7 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/cc-includes/js/common.js"></script>
 <script type="text/javascript" src="/cc-includes/js/search.js"></script>
 <script type="text/javascript" src="/cc-includes/js/searchcontent.js"></script>
-</head>
+<link type="text/css" rel="stylesheet" href="/stylesheets/survey.css"></head>
 <body><h1>CompuCars Privacy Policy</h1>
 <div id="head">
 	<ul id="mainnav">
@@ -35,7 +35,10 @@
     	<li><a href="/advertise.asp" title="Login to add or update your car advert">Advertiser Login</a></li>
         <li><a href="/advertise.asp" title="Register free and advertise your car for free">Advertise Free</a></li>
         <li><a href="/" title="CompuCars Home Page">Home</a></li>
-    </ul></div>
+    </ul>
+    </div>
+    <a href="http://www.facebook.com/pages/Compucarscouk/150728644986574" onclick="window.open(this.href); return false" title="Find Compucars.co.uk on Facebook" id="compufacebook"><span class="socialtext">Find Us<br>On Facebook</span></a>
+    <a href="http://twitter.com/Compucars_uk" onclick="window.open(this.href); return false" title="Follow Compucars.co.uk on Twitter" id="computwitter"><span class="socialtext">Follow Us<br>On Twitter</span></a> 
 </div><!-- end of head -->
 
 
@@ -46,11 +49,11 @@
 <input name="pcode" type="text" value="" class="formelement" onfocus="clearPostCode();" onblur="fillPostCode();">
 <select class="formelement" name="make" id="searchMake" onchange="setModels(this.options[selectedIndex].value,'','searchform','Model');"><option title="Used Car Make">Make</option><option value="149">Abarth</option>
 <option value="76">AC</option>
-<option value="77">Aixam</option>
 <option value="1">Alfa Romeo</option>
 <option value="128">Ariel</option>
 <option value="3">Aston Martin</option>
 <option value="4">Audi</option>
+<option value="5">Austin</option>
 <option value="7">Bentley</option>
 <option value="8">BMW</option>
 <option value="11">Cadillac</option>
@@ -58,17 +61,17 @@
 <option value="13">Chrysler</option>
 <option value="14">Citroen</option>
 <option value="15">Daewoo</option>
-<option value="146">DAF</option>
 <option value="16">Daihatsu</option>
-<option value="80">Daimler</option>
 <option value="18">Dodge</option>
 <option value="20">Ferrari</option>
 <option value="21">Fiat</option>
 <option value="22">Ford</option>
 <option value="136">Generic</option>
+<option value="23">Harley-Davidson</option>
 <option value="24">Honda</option>
 <option value="99">Hummer</option>
 <option value="25">Hyundai</option>
+<option value="26">Infiniti</option>
 <option value="27">Isuzu</option>
 <option value="85">Iveco</option>
 <option value="28">Jaguar</option>
@@ -80,6 +83,7 @@
 <option value="36">Land Rover</option>
 <option value="86">LDV</option>
 <option value="37">Lexus</option>
+<option value="38">Lincoln</option>
 <option value="39">Lotus</option>
 <option value="41">Maserati</option>
 <option value="98">Maybach</option>
@@ -90,17 +94,15 @@
 <option value="45">Mitsubishi</option>
 <option value="46">Morgan</option>
 <option value="47">Nissan</option>
-<option value="97">Noble</option>
 <option value="50">Perodua</option>
 <option value="51">Peugeot</option>
-<option value="135">PGO</option>
 <option value="54">Porsche</option>
 <option value="55">Proton</option>
 <option value="58">Renault</option>
 <option value="59">Rolls Royce</option>
 <option value="60">Rover</option>
 <option value="61">Saab</option>
-<option value="63">Seat</option>
+<option value="63">SEAT</option>
 <option value="64">Skoda</option>
 <option value="88">Smart Car</option>
 <option value="65">Ssangyong</option>
@@ -108,13 +110,10 @@
 <option value="68">Suzuki</option>
 <option value="111">TD Cars</option>
 <option value="69">Toyota</option>
-<option value="70">Triumph</option>
 <option value="71">TVR</option>
 <option value="72">Vauxhall</option>
 <option value="74">Volvo</option>
 <option value="73">VW</option>
-<option value="83">Westfield</option>
-<option value="148">Winnebago</option>
 </select>
 <script type="text/javascript">writeModelDropDownRefine('Model');fillPostCode();setModels(document.getElementById('searchMake').value,'','searchForm','Model');</script><select name="Model" id="Model" class="model"><option value="">Model</option></select>
 <select class="formelement" name="pfrom"><option title="Price From">Price from</option><option value="1">£1</option>
@@ -224,9 +223,23 @@ Cookies are small text files stored by your web browser used to record informati
 <p>Search CompuCars for Used Cars for Sale in the UK, Second Hand Cars for Sale across the UK.</p>
 
 </div>
-
-
-<script type="text/javascript">
+<script type="text/javascript" src="/cc-includes/js/cookieHandler.js"></script>
+<script type="text/javascript" src="/cc-includes/js/createStyleSheet.js"></script>
+<script type="text/javascript" src="/cc-includes/js/survey.js"></script>
+<div id="surveylayer" style="visibility: hidden">
+    <a href="#" title="Close Survey Window" class="surveyclose" onclick="stopSurvey()">Close Survey Window</a>
+    <img src="/images/compucars-logo-346.jpg" alt="Compucars, Used Cars Made Easy" title="Compucars, Used Cars Made Easy" id="surveylogo">
+    <img src="/images/mousecar2.jpg" alt="Search for Used Cars on Compucars.co.uk" title="Search for Used Cars on Compucars.co.uk" id="surveycar">   
+    <p>
+Your feedback is very important to us, and we are always looking to improve our services.
+<br>
+If you can spare a few minutes to fill out this short questionnaire, you will be in with the chance of winning £100 of Halfords vouchers.
+    </p>
+    <ul>
+	    <li><a href="#" title="Yes - Take Survey" onclick="openSurvey()">Yes - take me to the survey</a></li>
+        <li><a href="#" title="No" onclick="stopSurvey()">No thank you, not interested</a></li>
+    </ul>
+</div><!-- end of surveylayer --><script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-7572120-1']);
   _gaq.push(['_trackPageview']);
