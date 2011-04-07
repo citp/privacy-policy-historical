@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the tactics.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723135231id_/http%3A//www.tactics.com/info/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tactics.com privacy policy that was archived on 2011-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110408003122id_/http%3A//www.tactics.com/info/privacy) for the most accurate reproduction.*
 
-# Secure Shopping
-
-Tactics uses 128-bit Secure Sockets Layer (SSL) encryption technology to prevent third parties from reading the information you enter during our online Checkout process. We have chosen Thwate® as our SSL digital certificate provider to offer you the most secure certificate services available. 
-
-To ensure your online transaction is secure during the Checkout process, make sure the gold key icon appears connected in the lower left corner for Netscape 3.0 browsers or that the padlock icon appears in the lower right corner for all Internet Explorer or Netscape 4.0+ browsers. 
-
-Keep in mind that not all browsers, and some firewalls (often used in office settings), allow transmittal of information through SSL technology. If you are experiencing difficulties submitting your order through our online Checkout process, please do not hesitate to call us toll-free in the U.S. at 1.888.450.5060 or 1.541.349.0087 (International) to place your order. 
-
-For your protection, we do not store credit card numbers in our database. Once the transaction is complete, we have no way of accessing your credit card number. Additionally, if you are shipping an order to an address other than your billing address, your order may be delayed for verification. 
+# Privacy
 
 We respect the privacy of our customers and do not sell your personal information to anyone. This privacy statement discloses our information-gathering and dissemination practices. If you have any questions or concerns, we invite you to contact us directly for more information regarding our commitment to your privacy. 
 
@@ -19,6 +11,8 @@ We may use our customers’ Internet Protocol (IP) addresses to help diagnose pr
 Tactics also uses aggregate demographic and site-traffic data internally, and we may provide this aggregate information about our customers, sales, traffic patterns, and related site information to trusted third-parties, but this information does not disclose our users’ personally identifiable information. 
 
 Our online Checkout process asks you to give us certain contact information (like your name, address, and email address). We use this information to speed up the order process and to contact you when you request or when it’s absolutely necessary (for example, if there’s a problem fulfilling your order). When you choose to order from us, we must also collect billing and shipping information, including credit card numbers. This information is required to charge you for your purchases, to process and ship your order, and to contact you if there’s any problem with your order. In order to process payment information and fulfill our customers’ orders, some billing and shipping information is provided to trusted third-parties such as credit card processing institutions and carriers like UPS. They do not use this information for secondary purposes, however. 
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit www.networkadvertising.org. 
 
 Tactics may occasionally use registration or order information to contact you about our promotions, special events, or to send you a catalog. In addition, at times Tactics may send offers to you on behalf of other selected businesses. However, we do not give those businesses your personal information. If you are not interested in receiving communications about Tactics, or offers made on behalf of other businesses, you may opt-out of receiving such future communications (see below). 
 
