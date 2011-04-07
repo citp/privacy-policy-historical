@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spyonweb.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216020213id_/http%3A//spyonweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyonweb.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407091053id_/http%3A//www.spyonweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy — SpyOnWeb.com Research Tool
 
@@ -45,6 +45,10 @@ To the extent that you do provide us with Personal Information, SpyOnWeb.com wis
 Third parties provide certain services available on SpyOnWeb.com on SpyOnWeb.com's behalf. SpyOnWeb.com may provide information, including Personal Information, that SpyOnWeb.com collects on the web to third party service providers to help us deliver programs, products, information and services. Service providers are also an important means by which SpyOnWeb.com maintains its web site and mailing lists. SpyOnWeb.com will take reasonable steps to ensure that these third party service providers are obligated to protect Personal Information on SpyOnWeb.com's behalf. 
 
 SpyOnWeb.com does not intend to transfer Personal Information without your consent to third parties who are not bound to act on SpyOnWeb.com's behalf unless such transfer is legally required. Similarly, it is against SpyOnWeb.com's policy to sell Personal Information collected online without consent. 
+
+**Advertisement Policy**
+
+We use third party advertising company to serve advertisement like adsense uses the DART cookie to serve advertisement based on user interest and previous interaction. User can always opt out of DART cookie settings by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 **Children's Privacy**
 
