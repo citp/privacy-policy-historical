@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the containerstore.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207080725id_/http%3A//www.containerstore.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the containerstore.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407210512id_/http%3A//www.containerstore.com/help/privacy.html) for the most accurate reproduction.*
 
 # The Container Store > Privacy Policy
 
-## UPDATED ON 11/16/2009. BY ACCESSING OR USING THE CONTAINER STORE WEB SITE (THE "SITE"), YOU AGREE TO THE TERMS OF THE MOST RECENT VERSION OF THIS PRIVACY POLICY.
+## UPDATED ON 11/16/2009.  BY ACCESSING OR USING THE CONTAINER STORE WEB SITE (THE "SITE"), YOU AGREE TO THE TERMS OF THE MOST RECENT VERSION OF THIS PRIVACY POLICY.
 
 The Container Store prides itself on providing exceptional customer service. Not only are we committed to helping you organize your life, we also want to make sure you clearly understand how we use information about you to provide you with the best possible shopping experience. We value the trust you place in The Container Store and we want to ensure that you understand what information we gather about you, how we use it, and the safeguards we have in place to protect it. Therefore, we are happy to share the details regarding our Privacy Policy. 
 
@@ -110,4 +110,4 @@ We do not share the information you provide in the online application to anyone 
 
 If you need any other information, please submit your requests or questions to The Container Store, ATTN: Customer Solutions Department, 500 Freeport Parkway, Coppell, TX 75019 or email us at [contain@containerstore.com](mailto:contain@containerstore.com). Please allow 30 days for a response. 
 
-version: 2.1.1 build: 2 timestamp: Tue Nov 23 12:56:06 CST 2010 worker: worker19
+version: 2.5.1 build: 5 timestamp: Tue Apr 05 12:37:42 CDT 2011 worker: worker17
