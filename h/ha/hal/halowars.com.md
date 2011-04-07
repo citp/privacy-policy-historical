@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the halowars.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118001107id_/http%3A//www.halowars.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halowars.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407225404id_/http%3A//www.halowars.com/privacy.html) for the most accurate reproduction.*
 
 # Halo Wars Privacy Statement
 
-(Last updated: 1/22/2009)
+(Last updated: 3/1/2010)
 
 Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the Microsoft's Halo Wars site (the "Site"); it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement. 
 
@@ -50,4 +50,4 @@ We may occasionally update this privacy statement. When we do, we will also revi
 
 **Contact Information**
 
-Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us by e-mail at contact@robotentertainment.com or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
+Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please contact us by e-mail at community@halowaypoint.com or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
