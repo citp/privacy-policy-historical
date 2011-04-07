@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontstruct.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207060147id_/http%3A//fontstruct.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontstruct.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407152122id_/http%3A//fontstruct.com/privacy) for the most accurate reproduction.*
 
 # FontStruct | Your Privacy
 
