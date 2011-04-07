@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528144500id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydr.com.au privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407195454id_/http%3A//www.mydr.com.au/privacy) for the most accurate reproduction.*
 
 # privacy policy - myDr.com.au
 
@@ -131,6 +131,6 @@ In some circumstances, the Act entitles Us to deny access, for example if provid
 
 Last revised: 20 October 2009. 
 
-  © Copyright: myDr, UBM Medica Australia, 2000-2010. All rights reserved. 
+  © Copyright: myDr, UBM Medica Australia, 2000-2011. All rights reserved. 
 
 Last Reviewed: 20 October 2009
