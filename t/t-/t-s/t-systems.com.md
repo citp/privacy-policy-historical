@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the t-systems.com privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723161813id_/http%3A//www.t-systems.com/tsi/en/28650/Metanavigation/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t-systems.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407130943id_/http%3A//t-systems.com/tsi/en/28650/Metanavigation/Privacy-Policy) for the most accurate reproduction.*
 
 # T-Systems: Privacy Policy
 
