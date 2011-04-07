@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213144657id_/http%3A//www.myfuture.edu.au/en/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407153314id_/http%3A//www.myfuture.edu.au/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.*
 
 # myfuture: Australia's career information service
 
