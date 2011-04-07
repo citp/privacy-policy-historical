@@ -1,0 +1,2330 @@
+<!--The following is the downloaded HTML source of the bluemassgroup.com privacy policy that was archived on 2011-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110407062107id_/http%3A//www.bluemassgroup.com/diary/22012/privacy-policy) for the most accurate reproduction.-->
+
+<html lang="en"><head>
+        
+        	
+        
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/stylesheets/soapblox.css" type="text/css">
+<link rel="stylesheet" href="/stylesheets/comments.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="Blue Mass. Group" href="http://www.BlueMassGroup.com/rss/rss2.xml">
+<title>
+    Blue Mass. Group:: Privacy policy
+    
+</title>
+
+
+
+
+
+
+
+
+
+
+<script src="/javascript/prototype.js" type="text/javascript"></script>
+
+
+<script>
+//-- SoapBlox JavaScript
+//-- 7/30/2007 (C)
+
+var baseUrl = '/';
+//-- SoapBlox JavaScript
+//-- 7/30/2007 (C)
+
+	var req;
+	var which;
+	var debug = false;
+	var commentId = "";
+	var diaryId = "";
+	var previewTitle = "";
+	var previewText = "";
+	var postingComment = false;
+	var canPost = false;
+	var previewingComment = false;
+	var hasError = false;
+	var buttonState;
+	
+	function hover(id, imageLoc) {
+		// alert(imageLoc);
+		document.images[id].src = imageLoc;
+	}
+
+	// makes a comment appear when someone clicks "post a comment" or "reply"
+	// id - the commentId (0 if "root"), dId - diaryId
+	function makeCommentAppear(id, dId) {
+
+		var tempTitle = "";
+		var tempText = "";
+	
+		// if this isn't empty, we were trying to perviously post a comment
+		// therefore, we need to clean out all the html in the previous spot
+		// so we don't create "nodeLists" for postCommentTextArea and Title
+		if (commentId != "") {
+			// get the current "postcommenter" element
+			var oldElem = document.getElementById('postcomment' + commentId);
+	
+			if (oldElem) {
+				// this will store whatever we might have had before
+				if (document.forms['rateForm'].elements['postCommentTitle']) {
+					tempTitle = document.forms['rateForm'].elements['postCommentTitle'].value;
+				}	
+				if (document.forms['rateForm'].elements['postCommentTextArea']) {
+					tempText = document.forms['rateForm'].elements['postCommentTextArea'].value;
+				}
+			
+				// clear out the old HTML, so we don't create nodeLists
+				oldElem.innerHTML = "";
+			}
+		}
+	
+		hideArea("post");
+
+		// store the values globally for what we're currently looking at
+	    commentId = id;
+	    diaryId = dId;
+	    
+	    var elementName = 'postcomment' + id;
+	    
+	    // make sure the element is hidden
+		Element.hide(elementName);
+
+		// set the data in it		
+	    document.getElementById(elementName).innerHTML = document.getElementById("contentHolder").innerHTML;
+		document.forms['rateForm'].elements['postCommentTitle'].value = tempTitle;
+		document.forms['rateForm'].elements['postCommentTextArea'].value = tempText;
+	
+		// make it slide down, take half a second, scaleFrom 3 to avoid "stutter" in IE
+		Effect.SlideDown(elementName, { duration: 0.5, scaleFrom: 3});
+		window.setTimeout("document.forms['rateForm'].elements['postCommentTitle'].focus()", 501);
+		
+	    postingComment = true;
+	    // since we're starting a new preview cycle, we're going to need
+	    // to use the slide down effect.  This ensures that
+	    previewingComment = false;
+
+	    var objDiv = document.getElementById(elementName);
+		objDiv.scrollTop = objDiv.scrollHeight;
+	}
+
+	// what we do when someone hits cancel
+	function cancelPost() {
+
+		var cTextElem = document.forms['rateForm'].elements['postCommentTextArea'];
+		var cTitleElem = document.forms['rateForm'].elements['postCommentTitle'];
+		
+		if ((cTextElem && cTextElem.value != "")
+				|| (cTitleElem && cTitleElem.value != ""))
+		{
+			// if the don't want to cancel--stop.
+			if (!confirm("Cancel this comment?")) {
+				return;
+			}
+		}
+
+		hideArea("cancel");
+		// we no longer clear this out so in makeCommentAppear we can see if we have to clean
+		// out some hidden HTML
+		//commentId = "";
+		diaryId = "";
+		previewText = "";
+		previewTitle = "";
+		cTextElem.value = "";
+		cTitleElem.value = "";
+		previewingComment = false;	
+		postingComment = false;
+	}
+	
+	// this is the safari default button hack, where we use onfocus to determine what mode we're in
+	function setButtonState(theValue) {
+		buttonState = theValue;
+	}
+
+	// it's how we post a comment!
+	function submitForm(theForm) {
+	
+		// alert(buttonState + " " + previewingComment);
+	
+		// stop the "enter in the subject" bug
+		if (buttonState == "post" && !previewingComment
+		 		|| buttonState == "post" && previewingComment && !canPost) {
+			previewComment(theForm);
+			return false;
+		}
+		
+
+		var theForm = document.forms['rateForm'];	
+		theForm.action = baseUrl + "postComment.do";
+		theForm.elements['replyParentCommentId'].value = commentId;
+
+		if (commentId == 0) {
+			theForm.elements['diaryId'].value = diaryId;	
+		}
+		else {
+			theForm.elements['commentId'].value = commentId;	
+
+		}
+		
+		theForm.elements['replyDiaryId'].value = diaryId;	
+		theForm.elements['submitType'].value = "post";	
+		
+		// alert("yo" + theForm.elements['submitType']);
+		theForm.method = "POST";
+		theForm.submit();
+	}
+
+	// trims a string
+	function trim(str) {     
+		if(!str || typeof str != 'string') {
+			return null;     
+		}
+			
+		return str.replace(/^[\s]+/,'').replace(/[\s]+$/,'').replace(/[\s]{2,}/,' '); 
+		
+	}
+
+	function previewComment(theForm) {
+	
+		// if (tinyMCE) {
+			// tinyMCE.triggerSave();
+		// }
+		
+		// alert(baseUrl);
+
+		var url = baseUrl + "ajaxPreviewComment.do";
+		var errorDiv = "errorcomment" + commentId;
+		
+		// hide any error we might have
+		if (hasError) {
+			Element.hide(errorDiv);
+		}
+			
+		var cTitleElem = document.forms['rateForm'].elements["postCommentTitle"];
+		var cTextElem =  document.forms['rateForm'].elements["postCommentTextArea"];
+	
+		
+		previewTitle = cTitleElem.value;
+		previewText = cTextElem.value;
+	
+	    // trim it so we remove the white sapces
+	    previewTitle = trim(previewTitle);
+
+	    // if we have nothing, set the error
+	    if (previewTitle == null || previewTitle == "") {
+			Effect.Appear(errorDiv, { duration: 0.5 });
+			disallowPost();
+			hasError = true;
+	    	return;
+	    }
+
+	    // if we get this far we don't have an error!
+	    hasError = false;
+	    
+	    // apparently using "escape" funcation messes with utf-8 so we just explicity
+	    // replace newlines with their url-encoding equavilent.
+	    previewText = escape(previewText); 
+	    
+	    previewText = previewText.replace(/\%u201C/ig, "%22");
+	    previewText = previewText.replace(/\%u201D/ig, "%22");
+  	    previewText = previewText.replace(/\%u2018/ig, "%27");
+  	    previewText = previewText.replace(/\%u2019/ig, "%27");  	    
+  	    previewText = previewText.replace(/\%u2013/ig, "-");  
+  	    previewText = previewText.replace(/\%u2014/ig, "-");    	      	    
+  	    previewText = previewText.replace(/\%u2026/ig, "...");    	
+  	    previewText = previewText.replace(/\+/g, "%2B");
+	    
+	    //previewText.replace(/\n/g, "%0a");
+//	    previewText = previewText.replace(/\+/g, "%2b");
+  // 	    previewText = previewText.replace(/\%/g, "%25");
+//   	    alert(previewText);
+	    
+		// add the previewText to the URL querystring    
+		// have to URL encode it for it to work correctly
+	    var params = "t=" + previewText;
+	
+		// do the fun ajax!    
+	    retrieveURL(url, "PREVIEW", commentId, params);
+	}
+
+	function hideArea(theType) {
+		var elementName = 'postcomment' + commentId;
+		var previewName = 'previewcomment' + commentId;
+	
+		// always hide the error div		
+		if (hasError) {
+			var errorDiv = "errorcomment" + commentId;
+			Element.hide(errorDiv);
+			hasError = false;
+		}
+		
+	    if (postingComment) {	
+	        // we must hide the current stored commentId
+	        // if we are canceling, we do it pretty
+	        if (theType == "cancel") {
+				Element.hide(previewName);        
+		        Effect.SlideUp(elementName, { duration: 0.5 });
+		    }
+		    else {
+		    	// otherwise we are posting another comment
+		    	// so do it REAL quick
+				Element.hide(previewName);	    	
+				document.getElementById(elementName).innerHTML = "";
+			}
+	    }
+	}
+
+	function figureOut(theForm) {
+// 		alert(buttonState);
+		
+		if (buttonState == 'preview') {
+			previewComment(theForm);
+		}
+		else if (buttonState == 'cancel') {
+			cancelPost();
+		}
+		else if (buttonState == 'post') {
+			submitForm(theForm);
+		}
+	}
+
+	// this checks the comments for when someone types, and if it's different than what's being preview we
+	// turn off the post button
+	function checkComment() {
+
+		var tTitle = "";
+		var tText = "";
+		
+		if (document.forms['rateForm'].elements['postCommentTitle']) {
+			tTitle = document.forms['rateForm'].elements['postCommentTitle'].value;
+		}
+		
+		if (document.forms['rateForm'].elements['postCommentTextArea']) {
+			tText = document.forms['rateForm'].elements['postCommentTextArea'].value;
+		}
+	    
+	   
+ //    		alert(tTitle + " " + previewTitle + " : " + tText + " " + previewText);
+	    if (canPost && (tText != previewText || tTitle != previewTitle)) {
+	    	disallowPost();
+	   	}
+	}
+
+	function disallowPost() {
+	    canPost = false;
+	    document.getElementById("postbutton" + commentId).disabled = true;
+	}
+
+	function allowPost() {
+	    canPost = true;
+	    var elem = document.getElementById("postbutton" + commentId);
+	    
+	    elem.disabled = false;
+	    
+	    // alert(previewingComment);
+	    
+	    if (!previewingComment) {
+			window.setTimeout("document.getElementById('postbutton' + commentId).focus()", 501);
+	    }
+	    else {
+		    try {
+		    	 document.getElementById('postbutton' + commentId).focus();
+		   	} catch (e) {
+		   		alert(e);
+		   	}
+	    }
+		
+//		alert(elem);
+//	    document.getElementById("postbutton" + commentId).focus();
+	//    alert(document.getElementById("postbutton" + commentId).focus);
+	}
+
+  function retrieveURL(url, type, id, params) {
+    which = id;
+    if (window.XMLHttpRequest) { // Non-IE browsers
+        req = new XMLHttpRequest();
+
+      
+        // pretty sure this adds a listener, which handles communication
+        // listeners apparently don't like parameters, either
+        if ("RATE" == type) {
+            req.onreadystatechange = processRateStateChange;          
+        }
+        else if ("RECOMMEND" == type) {
+            req.onreadystatechange = processRecommendStateChange;          
+        } 
+        else if ("PREVIEW" == type) {
+			req.onreadystatechange = processPreviewComment;                  
+        }      
+        else {
+            req.onreadystatechange = processStateChange;
+        }
+
+        try {
+            req.open("POST", url, true);
+	   		req.setRequestHeader("Content-type", "application/x-www-form-urlencoded; charset=UTF-8");
+			req.setRequestHeader("Content-length", params.length);
+			req.setRequestHeader("Connection", "close");            	    	
+            req.send(params);
+        } catch (e) {
+            alert(e);
+        }
+    } 
+    else if (window.ActiveXObject) { // IE
+        req = new ActiveXObject("Microsoft.XMLHTTP");
+		
+        if (req) {
+            if ("RATE" == type) {
+                req.onreadystatechange = processRateStateChange;          
+            }
+            else if ("RECOMMEND" == type) {
+                req.onreadystatechange = processRecommendStateChange;          
+            }       
+            else if ("PREVIEW" == type) {
+				req.onreadystatechange = processPreviewComment;                  
+	   		}   
+            else {
+                req.onreadystatechange = processStateChange;
+            }
+        
+            req.open("POST", url, true);
+	   		req.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+			req.setRequestHeader("Content-length", params.length);
+			//req.setRequestHeader("Connection", "close");            	    	
+            req.send(params);
+        }
+    }
+  }
+  
+
+  // listener
+  function processStateChange() {
+    
+    if (req.readyState == 4) { // Complete
+      if (req.status == 200) { // OK response
+        document.getElementById("theTable").innerHTML = req.responseText;
+
+      } else {
+
+        alert("Problem: " + req.statusText);
+
+      }
+
+    }
+  }
+  
+  
+  
+	function processPreviewComment() {
+
+		if (req.readyState == 4) { // Complete
+			if (req.status == 200) { // OK response
+				var postCommentDiv = document.getElementById("postcomment" + commentId);
+				var previewCommentDiv = document.getElementById("previewcomment" + commentId);
+				
+			  	// make it visible
+			    // document.getElementById("previewComment").style.display = "block";
+			    
+				previewText = req.responseText;
+				
+				var commentError = false;
+				
+				if (previewText.indexOf("@@@ERROR@@@") != -1) {
+					previewText = "<div class='soapbloxError'>" + previewText.substring(11, previewText.length) + "</div>";						
+					commentError = true;
+				}
+    
+		        // set values in the preview area
+			    document.getElementById("previewTitle" + commentId).innerHTML = previewTitle;
+			    document.getElementById("previewCommentText" + commentId).innerHTML = previewText;
+			    
+			    // alert(previewingComment); 
+    
+    			// if we're not already previewing a comment we slide down
+    			if (!previewingComment) {
+					Effect.SlideDown("previewcomment" + commentId, { duration: 0.5, scaleFrom: 3});
+					//window.setTimeout("postButton.focus()", 501);
+				}
+				// otherwise, we just update the text
+				else {
+					Element.show("previewcomment" + commentId);
+				}
+			
+				if (commentError) {
+					disallowPost();
+				}					
+				else {
+					allowPost();
+				}
+				
+				previewingComment = true;
+			}
+			else {
+				alert("Problem: " + req.statusText);
+			}
+		}	
+	}
+  
+    function processRateStateChange() {
+        //alert(loadName);
+        //alert(document.getElementById(loadName));
+
+        if (req.readyState == 4) { // Complete
+        
+            var loadName = "rateLoad" + which; 
+            // alert("elem: " + document.getElementById(loadName));
+            var elem = document.getElementById(loadName);
+           
+
+            if (req.status == 200) { // OK response
+                elem.innerHTML = "<i>Complete!</i>";
+                if (debug) {
+                    alert(document.getElementById("rating" + which));
+                    alert(req.responseText);
+                }
+
+				// alert(req.responseText);
+
+        		var xmlDoc = req.responseXML;
+        		var theWholeThing = "";
+        		
+        		var rateType = xmlDoc.getElementsByTagName("rateType")[0].childNodes[0].nodeValue;
+        		var scoreType = xmlDoc.getElementsByTagName("scoreType")[0].childNodes[0].nodeValue;
+				var average = xmlDoc.getElementsByTagName("averageScore")[0].childNodes[0].nodeValue;
+				var viewRatingLink = xmlDoc.getElementsByTagName("viewRatingLink")[0].childNodes[0].nodeValue;
+        			        		
+        		//alert(rateType);
+        		
+        		if (rateType == "THUMBS" || rateType == "STARS") {
+				//	if (average == "false") {
+					// loop through the ratings   
+					
+						     		
+	        			for (i = 0; i < xmlDoc.getElementsByTagName("rating").length; i++) {
+	        			
+	        				var theString = "";
+	        			
+		        			var theRating = xmlDoc.getElementsByTagName("rating")[i];
+		        			var commentId = theRating.getElementsByTagName("commentId")[0].childNodes[0].nodeValue;
+							var ratingName = theRating.getElementsByTagName("ratingName")[0].childNodes[0].nodeValue;
+							// var viewRatingLink = theRating.getElementsByTagName("viewRatingLink")[0].childNodes[0].nodeValue;
+		        			var ratingValueId = theRating.getElementsByTagName("ratingValueId")[0].childNodes[0].nodeValue;
+		        			var loc = theRating.getElementsByTagName("image-src")[0].childNodes[0].nodeValue;
+		        			var mouseover = theRating.getElementsByTagName("image-mouseover")[0].childNodes[0].nodeValue;
+		        			var mouseout = theRating.getElementsByTagName("image-mouseout")[0].childNodes[0].nodeValue;
+		        			var count = theRating.getElementsByTagName("count")[0].childNodes[0].nodeValue;
+		        			var theId = "rv" + commentId + "-" + ratingValueId;
+		        			
+		        			if (rateType == "THUMBS") {
+		        			
+//		        				if (average == "false") {
+		        					theString = "<a href='javascript:void(0)' onclick='rateThumb(\"" + commentId + "\", \"" + ratingValueId + "\")'>";
+		        				
+		        					if ("RATING_NAME" == scoreType) {
+		    	    					theString += ratingName;
+			        				}
+			        				else {
+		 
+										theString += "<img border='0' name='" + theId + "' src='" + loc + "' onmouseover='hover(\"" +theId + "\", \"" + mouseover + "\")'  onmouseout='hover(\"" +theId + "\", \"" + mouseout + "\")'>";		        				
+		        					}
+		        					theString += "</a>";
+		        					
+		        					if (average == "false") {
+		        						 theString += " - " + count;
+									}
+		        			//	}
+		        			//	else {
+		        			//		theString = "(" + xmlDoc.getElementsByTagName("score")[0].childNodes[0].nodeValue + ")";
+		        			//	}
+		        			}
+		        			else { // STARS
+		        				theString = "<a href='javascript:void(0)' onclick='rateThumb(\"" + commentId + "\", \"" + ratingValueId + "\")'><img border='0' name='star" + commentId + "-" + i + "' src='" + loc + "' onmouseover='starHover(\"" + mouseover + "\", \"" + commentId + "\", \"" + i + "\")'  onmouseout='starHover(\"" + mouseout + "\", \"" + commentId + "\", \"" + i + "\")'></a> ";
+		        			}
+		        			
+		        			/*
+		        			var theImage = document.images[theId]; 
+		        			theImage.src = loc;
+		        			
+							theImage.onmouseout= (function (a, b) {
+		      					return function () {
+		      						document.images[a].src = b;
+								};
+		    				})(theId, mouseout);
+								// hover(theId, mouseout); 
+								//alert(e);
+		        				//alert("mout-src: " + loc + "\nId: " + theId + "\nmouseover: " + mouseover + "\n:mouseout: " + mouseout);
+		        				//document.images[theId].src = mouseout;
+		        			
+		        			
+							theImage.onmouseover= (function (a, b) {
+		      					return function () {
+		      						document.images[a].src = b;
+								};
+		    				})(theId, mouseover); */
+		    				
+		    				if (i < xmlDoc.getElementsByTagName("rating").length - 1) {
+		    					theString = theString + "&nbsp;";
+//		    					alert("Your mom");
+		    				}
+		    				
+		    				theWholeThing += theString;
+		        		}
+	        	//	}
+	        	//	else {
+	        	//		alert(xmlDoc.getElementsByTagName("score")[0].childNodes[0].nodeValue);
+	        	//		v
+	        	//		theWholeThing = xmlDoc.getElementsByTagName("score")[0].childNodes[0].nodeValue;
+	        	//	}
+	        	
+	        		if (average == "true") {
+	        			theWholeThing = "(<a href=\"" + viewRatingLink+ "\">" + xmlDoc.getElementsByTagName("score")[0].childNodes[0].nodeValue + "</a>) " + theWholeThing;
+	        		}
+	        		
+	        	} // End thumbs and stars
+	        	else if ("RADIO" == rateType || "DROP_DOWN" == rateType) {
+	        		var score = "";
+	        		
+	        	//	alert("bob!");
+
+					if (scoreType == "IMAGE") {
+						if (average == "false") {
+							var scoreNode = xmlDoc.getElementsByTagName("score")[0];
+							for (i = 0; i < scoreNode.getElementsByTagName("oneScore").length; i++) {
+								score += "<img border='0' src='" + scoreNode.getElementsByTagName("path")[i].childNodes[0].nodeValue + "'> - " +  scoreNode.getElementsByTagName("count")[i].childNodes[0].nodeValue + " ";
+							}
+						}
+						else {
+							score = "(<a href=\"" + viewRatingLink + "\">" + xmlDoc.getElementsByTagName("score")[0].childNodes[0].nodeValue + "</a>)";						
+	//						score = xmlDoc.getElementsByTagName("score")[0].childNodes[0].nodeValue;
+							//alert("score: " + score);						
+						}
+					}
+					else {
+						score = "(<a href=\"" + viewRatingLink + "\">" + xmlDoc.getElementsByTagName("score")[0].childNodes[0].nodeValue + "</a>)";
+						// alert("score: " + score);
+					} 
+					
+					theWholeThing = score;
+	        	}
+	        	/*
+	        	var score = "";
+
+				if (scoreType == "IMAGE") {
+					var scoreNode = xmlDoc.getElementsByTagName("score")[0];
+					for (i = 0; i < scoreNode.getElementsByTagName("oneScore").length; i++) {
+						score += "<img border='0' src='" + scoreNode.getElementsByTagName("path")[i].childNodes[0].nodeValue + "'> - " +  scoreNode.getElementsByTagName("count")[i].childNodes[0].nodeValue + " ";
+					}
+				}
+				else {
+					score = xmlDoc.getElementsByTagName("score")[0].childNodes[0].nodeValue;
+				} */
+        		        		
+        		document.getElementById("rating" + which).innerHTML = theWholeThing;
+            } 
+            else 
+            {
+                elem.innerHTML = "<b>Error!</b>";            
+            }
+            
+            Effect.Fade(loadName);
+        }
+    } 
+    
+    function starHover(fileLoc, commentId, theIndex) {
+    	for (var i = 0; i <= theIndex; i++) {
+    		var theStar = "star" + commentId + "-" + i;
+    		document.images[theStar].src = fileLoc;
+    	}
+    }
+    
+    function thumbHover(fileLoc, commentId, theIndex) {
+   		var theStar = "star" + commentId + "-" + theIndex;
+		document.images[theStar].src = fileLoc;
+
+    }    
+  
+    function processRecommendStateChange() {
+        // alert("elem: " + document.getElementById(loadName));
+        var elem = document.getElementById("recommendLoad");
+        var recommender = document.getElementById("recommender");
+    
+        if (req.readyState == 4) {
+            if (req.status == 200) {
+                elem.innerHTML = "<i>Complete!</i>";            
+                recommender.innerHTML = req.responseText;                
+            }
+            else {
+                elem.innerHTML = "<b>Error!</b>";  
+            }
+            
+            recommender.disabled = false;
+        }
+        
+        Effect.Fade("recommendLoad");        
+    }
+    
+	function rateThumb(theCommentId, ratingValueId) {
+
+        var url = baseUrl + "ajaxRate.do";
+        var params = "id=" + theCommentId + "&value=" + ratingValueId;
+        if (debug) {
+            alert("commentId" + commentId + ", value: " + ratingValueId  + "\nurl: " + url);
+        }
+        
+        var loadName = "rateLoad" + theCommentId;            
+        // alert("loadName: " + loadName);
+        var elem = document.getElementById(loadName);
+        // alert("elem: " + elem);
+        Element.show(elem);
+        elem.innerHTML = "<I>Processing...</i>";
+        
+        retrieveURL(url, "RATE", theCommentId, params);
+    }
+     
+
+    function rate(theCommentId) {
+        var selectName = "select" + theCommentId;
+        var selector = document.rateForm.elements[selectName];
+        var rateValue = selector.options[selector.selectedIndex].value;
+        var url = baseUrl + "ajaxRate.do";
+        var params = "id=" + theCommentId + "&value=" + rateValue;
+        if (debug) {
+            alert("commentId" + commentId + ", value: " + rateValue  + "\nurl: " + url);
+        }
+        
+        var loadName = "rateLoad" + theCommentId;            
+        // alert("loadName: " + loadName);
+        var elem = document.getElementById(loadName);
+        // alert("elem: " + elem);
+        Element.show(elem);
+        elem.innerHTML = "<I>Processing...</i>";
+        
+        retrieveURL(url, "RATE", theCommentId, params);
+    }
+    
+    function radioRate(theCommentId) {
+        var selectName = "select" + theCommentId;
+        var selector = document.rateForm.elements[selectName];
+        var rateValue = "";
+        
+        for (var i = 0; i < selector.length; i++) {
+        	if (selector[i].checked) {
+        		rateValue = selector[i].value;
+        		break;
+        	}
+        }
+        
+        var url = baseUrl + "ajaxRate.do";
+        var params = "id=" + theCommentId + "&value=" + rateValue + "&type=radio";
+        if (debug) {
+            alert("commentId" + commentId + ", value: " + rateValue  + "\nurl: " + url);
+        }
+        
+        var loadName = "rateLoad" + theCommentId;            
+        // alert("loadName: " + loadName);
+        var elem = document.getElementById(loadName);
+        // alert("elem: " + elem);
+        Element.show(elem);
+        elem.innerHTML = "<I>Processing...</i>";
+        
+        retrieveURL(url, "RATE", theCommentId, params);
+    }    
+    
+    function recommend(diaryId) {
+
+        var url = baseUrl + "ajaxRecommend.do";
+        var params = "id=" + diaryId;
+        
+        if (debug) {
+            alert("diaryId: " + diaryId);        
+            alert("url: " + url);        
+        }
+        
+        var recommender = document.getElementById("recommender");
+        recommender.disabled = true;
+        
+        var elem = document.getElementById("recommendLoad");
+        Element.show(elem);
+        elem.innerHTML = "<br /><i>Processing...</i>";
+        
+        retrieveURL(url, "RECOMMEND", diaryId, params);        
+    }
+    
+	function toggleEditor(id) {
+		var elm = document.getElementById(id);
+
+		if (tinyMCE.getInstanceById(id) == null)
+			tinyMCE.execCommand('mceAddControl', false, id);
+		else
+			tinyMCE.execCommand('mceRemoveControl', false, id);
+	} 
+	
+	function turnOnEditor(id) {
+		if (tinyMCE.getInstanceById(id) == null)
+			tinyMCE.execCommand('mceAddControl', false, id);	
+	}
+	
+	function turnOffEditor(id) {
+		if (id == "postCommentTextArea" && !tinyMCE.getInstanceById(id)) {
+			id = "commentText";		
+		}
+		
+		// alert(id);
+
+		if (tinyMCE.getInstanceById(id) != null)
+			tinyMCE.execCommand('mceRemoveControl', false, id);
+	}	
+	
+	function setDiaryButtons(id) {
+		var selectedValue = id.options[id.selectedIndex].value;	
+		
+		if (selectedValue == "WYSIWYG") { // which is WYSIWYG
+			disableDiaryButtons(true);
+		}
+		else {		
+			disableDiaryButtons(false);		
+		}
+	}
+	
+	
+	function disableDiaryButtons(theValue) {
+		document.getElementById("bold1").disabled = theValue;
+		document.getElementById("italic1").disabled = theValue;
+		document.getElementById("quote1").disabled = theValue;
+		document.getElementById("bold2").disabled = theValue;
+		document.getElementById("italic2").disabled = theValue;
+		document.getElementById("quote2").disabled = theValue;	
+	}	
+	
+	function setCommentButtons(id) {
+		var selectedValue = id.options[id.selectedIndex].value;	
+		
+		if (selectedValue == "WYSIWYG") { // which is WYSIWYG
+			disableCommentButtons(true);
+		}
+		else {		
+			disableCommentButtons(false);		
+		}
+	}	
+	
+	function disableCommentButtons(theValue) {
+		document.getElementById("bold1").disabled = theValue;
+		document.getElementById("italic1").disabled = theValue;
+		document.getElementById("quote1").disabled = theValue;
+	}	
+
+	
+	function toggleDiaryEditor(id) {
+		var selectedValue = id.options[id.selectedIndex].value;
+		// alert(selectedValue);		
+		
+		setDiaryButtons(id);
+		
+		if (selectedValue == "WYSIWYG") { // which is WYSIWYG
+			turnOnEditor("editMainText");
+			turnOnEditor("editExtendedText");	
+		}
+		else {
+			turnOffEditor("editMainText");
+			turnOffEditor("editExtendedText");			
+
+		}
+	}   
+	
+	function toggleCommentEditor(id) {
+		var selectedValue = id.options[id.selectedIndex].value;
+		
+		setCommentButtons(id);	
+		
+		// alert(selectedValue);
+		
+		if (selectedValue == "WYSIWYG") { // which is WYSIWYG
+			turnOnEditor("postCommentTextArea");
+		}
+		else {
+		    // alert("before turn off");
+			turnOffEditor("postCommentTextArea");
+		}
+	} 
+	
+	function toggleQuickHitEditor(id) {
+		var selectedValue = id.options[id.selectedIndex].value;
+		
+		if (selectedValue == "WYSIWYG") { // which is WYSIWYG
+			turnOnEditor("quickHitText");
+		}
+		else {
+			turnOffEditor("quickHitText");
+		}
+	} 		
+
+	function addTags(textAreaId, startTag, endTag, content) {
+		
+		var textArea;
+		
+		if (document.forms['rateForm']) {
+			textArea = document.forms['rateForm'].elements[textAreaId];
+		}
+		else {
+			textArea = document.getElementById(textAreaId);
+		}
+		
+		if (typeof textArea.selectionStart != "undefined") {
+			textArea.focus();
+			var selStart = textArea.selectionStart;
+			var selEnd = textArea.selectionEnd;
+			var selText = textArea.value.substring(selStart, selEnd);
+			var scrlTop = textArea.scrollTop;
+			var scrlDown = textArea.value.length <= selStart;
+			if (selText.indexOf(startTag) === 0 && endTag == selText.substring(selText.length - endTag.length, selText.length)) {
+				textArea.value = textArea.value.substring(0, selStart) + selText.substring(startTag.length, selText.length - endTag.length) 
+					+ textArea.value.substring(selEnd, textArea.value.length);
+				textArea.selectionStart = selStart;
+				textArea.selectionEnd = selEnd - (startTag.length + endTag.length);
+				textArea.scrollTop = scrlTop;
+			} else {		
+				textArea.value = textArea.value.substring(0, selStart) + startTag + (content ? content : selText)
+					+ endTag + textArea.value.substring(selEnd, textArea.value.length);
+				textArea.selectionStart = selStart;
+				textArea.selectionEnd = selStart + startTag.length + (content ? content.length : selText.length) + endTag.length;
+				textArea.scrollTop = (scrlDown ? 10000000 : scrlTop);
+			}
+		} else if (document.selection) {
+			var range = document.selection.createRange();
+			if (range.parentElement() != textArea) {
+				var textRange = textArea.createTextRange();
+				textRange.moveStart('character', textArea.value.length);
+				textRange.collapse();
+				textRange.select();
+				range = document.selection.createRange();
+			}
+			textArea.focus();
+			if (range.text.indexOf(startTag) === 0 && endTag == range.text.substring(range.text.length - endTag.length, range.text.length)) {
+				range.text = range.text.substring(startTag.length, range.text.length - endTag.length);
+			} else {
+				range.text = startTag + (content ? content : range.text) + endTag;
+			}
+		} else {
+			textArea.focus();
+			textArea.value = startTag + (content ? content : "") + endTag;
+			if (typeof textArea.scrollTop != "undefined") {
+				textArea.scrollTop = 10000000;
+			}
+		}
+	}
+	
+	
+	function addBoldTags(textAreaId) {
+		addTags(textAreaId, "<b>", "</b>");
+		return false;
+	}
+	
+	function addItalicTags(textAreaId) {
+		addTags(textAreaId, "<i>", "</i>");
+		return false;
+	}
+	
+	function addQuoteTags(textAreaId) {
+		addTags(textAreaId, "<blockquote>", "</blockquote>");
+		return false;
+	}
+		
+
+</script>
+
+   
+<script language="javascript" type="text/javascript" src="/javascript/effects.js"></script> 
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-5155643920455169");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-5155643920455169", "Blue_Mass_160");
+GA_googleAddSlot("ca-pub-5155643920455169", "Blue_Mass_300");
+GA_googleAddSlot("ca-pub-5155643920455169", "Blue_Mass_728");
+GA_googleAddSlot("ca-pub-5155643920455169", "Blue_Mass_728_BTF");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+
+<meta name="bitly-verification" content="81267c998f3f">
+
+
+
+<script type="text/javascript">
+var counter = 0;
+
+function displayAds() {
+counter++;
+switch(counter)
+{
+case 1:
+document.write('<br><small>ADVERTISEMENT<\/small><br>');
+document.write('<scr'+'ipt type="text/javascript">'+
+'GA_googleFillSlot("Blue_Mass_300");'+
+'<\/script>');
+
+break;
+default:
+}
+ }
+
+</script>
+
+
+
+<script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
+<script type="text/javascript">
+    new HelloBar(14574,10199);
+</script>
+<noscript>
+    The Hello Bar is a simple <a href="https://www.hellobar.com">web toolbar</a> that engages users and communicates a call to action.
+</noscript>
+
+    </head>
+<body>
+<center>
+<div class="mainLayout">
+
+
+    
+ 
+
+
+<table class="mainTable">
+    <tbody><tr>
+        
+            
+
+                
+                
+                    <td valign="top" class="LEFT_SIDE">
+                        
+                            
+                                <a href="http://www.bluemassgroup.com/diary/21050/bmg-30-is-coming-help-us-make-it-work"><b>Read about BMG 3.0 open beta</b></a><br><br>
+
+<form action="http://www.google.com/cse" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-7187283439612684:u5saluuxzjk">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="20">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+<a href="http://twitter.com/bluemassgroup"><img src="http://www.bluemassgroup.com/upload/david/twitterfeed.png" border="0"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+<table width="100%" class="objectTable">
+	<tbody><tr>
+		<td class="objectHeading">
+			Menu
+		</td>
+	</tr>
+	<tr>
+		<td class="objectContent">
+<small> 
+
+					
+			
+
+			
+			
+				<br>
+				<center><a href="/join.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E">Make a New Account</a></center>
+				<br>
+				<form name="logonForm" method="post" action="/logonSubmit.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E">	
+                    
+					Username: <br>
+					<input type="text" name="username" value=""><br>
+					Password: <br>
+					<input type="password" name="password" value=""><br>
+					<input type="submit" value="Submit"><br>
+				</form>
+				<br>
+				<center><a href="/emailPassword.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E">Forget your username or password?</a></center>
+				<br>	
+			
+
+		</small></td>
+	</tr>
+</tbody></table>
+
+
+<br>
+
+
+<script type="text/javascript">
+GA_googleFillSlot("Blue_Mass_160");
+</script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-22NagbinoZokw"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-22NagbinoZokw.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+                            
+                                
+
+
+
+<br>
+
+                            
+                                <b>FREE COPY OF BOB'S BOOK <a href="http://www.amazon.com/Barack-Obama-Beginners-Updated-Essential/dp/1934389447/ref=sr_1_2?ie=UTF8&amp;s=books&amp;qid=1254711575&amp;sr=1-2"><i>Barack Obama for Beginners</i></a> to every 100th Facebook Friend!</b>
+<br>
+<br>
+
+<iframe scrolling="no" frameborder="0" src="http://www.facebook.com/connect/connect.php?id=57984190542&amp;connections=10&amp;stream=0" allowtransparency="true" style="border: none; width: 150px; height: 270px;"></iframe> <div style="font-size:8px; padding-left:10px"><a href="http://www.facebook.com/pages/Blue-Mass-Group/57984190542">BMG</a> on Facebook</div>
+
+<br>
+
+
+
+
+<table width="100%" class="objectTable">
+<tbody><tr>
+	<td class="objectHeading"><b>About</b></td>
+</tr>
+<tr>
+	<td class="smallText">
+<a href="http://www.bluemassgroup.com/showDiary.do?diaryId=66">About us</a><br>
+<a href="http://www.bluemassgroup.com/showDiary.do?diaryId=2304">Rules of the road</a> - please read!<br>
+<a href="http://www.bluemassgroup.com/diary/22012/privacy-policy">Privacy policy</a><br>
+<a href="http://www.bluemassgroup.com/showDiary.do?diaryId=1775">Formatting</a> and <a href="http://www.bluemassgroup.com/diary/17350/bmg-tutorial-how-to-embed-different-media-in-a-post-on-bmg">multimedia</a> tips<br>
+<a href="mailto:blue at bluemassgroup dot com">Email us</a><br>
+<a href="http://www.bluemassgroup.com/rss/rss2.xml">RSS feed</a><br>
+
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=470411; 
+var sc_invisible=0; 
+var sc_partition=2; 
+var sc_security=""; 
+</script>
+
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c3.statcounter.com/counter.php?sc_project=470411&java=0&security=&invisible=0" alt="free web page counters" border="0"></a> </noscript>
+<!-- End of StatCounter Code -->
+
+<br><a href="http://my.statcounter.com/project/standard/stats.php?project_id=470411&amp;guest=1">BMG TRAFFIC REPORT</a><br>
+<a href="http://www.cafepress.com/bluemassgroup">Blue Mass. Swag</a><br>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://creativecommons.org/images/public/somerights20.png"></a><br>
+
+</td></tr>
+</tbody></table>	
+<br>
+
+<a href="http://www.democracynow.org/"><img src="http://images.democracynow.org/images/linkbanner143x27a.gif" border="0"></a>
+
+<p>
+
+                            
+                                
+
+
+
+
+
+
+
+
+		
+
+<table width="100%" class="objectTable">
+	<tbody><tr>
+		<td class="objectHeading">
+            Event Calendar
+		</td>			
+	</tr>
+	<tr>
+		<td class="objectContent">
+			<table width="100%">
+				<tbody><tr>
+					<td align="center">
+						<b>April
+						2011</b><br>
+						(<a href="/eventMonth.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04012011">view month</a>)
+									
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<table width="100%">
+							<tbody><tr>
+								<td align="center"><b>S</b></td>
+								<td align="center"><b>M</b></td>
+								<td align="center"><b>T</b></td>
+								<td align="center"><b>W</b></td>
+								<td align="center"><b>R</b></td>
+								<td align="center"><b>F</b></td>
+								<td align="center"><b>S</b></td>
+							</tr>
+							
+							<tr>
+								
+								<td align="center">
+									
+									
+										
+										
+											*
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										
+											*
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										
+											*
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										
+											*
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										
+											*
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04012011">01</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04022011">02</a>
+										
+																			
+																		
+								</td>
+															
+							</tr>
+							
+							<tr>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04032011">03</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									<b>
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04042011">04</a>
+									</b>
+									
+																		
+								</td>
+								
+								<td align="center">
+									
+									<b>
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04052011">05</a>
+									</b>
+									
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04062011">06</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04072011">07</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04082011">08</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04092011">09</a>
+										
+																			
+																		
+								</td>
+															
+							</tr>
+							
+							<tr>
+								
+								<td align="center">
+									
+									<b>
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04102011">10</a>
+									</b>
+									
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04112011">11</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									<b>
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04122011">12</a>
+									</b>
+									
+																		
+								</td>
+								
+								<td align="center">
+									
+									<b>
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04132011">13</a>
+									</b>
+									
+																		
+								</td>
+								
+								<td align="center">
+									
+									<b>
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04142011">14</a>
+									</b>
+									
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04152011">15</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									<b>
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04162011">16</a>
+									</b>
+									
+																		
+								</td>
+															
+							</tr>
+							
+							<tr>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04172011">17</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04182011">18</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04192011">19</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04202011">20</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04212011">21</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04222011">22</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04232011">23</a>
+										
+																			
+																		
+								</td>
+															
+							</tr>
+							
+							<tr>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04242011">24</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04252011">25</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04262011">26</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									<b>
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04272011">27</a>
+									</b>
+									
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04282011">28</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04292011">29</a>
+										
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										<a href="/eventDay.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=04302011">30</a>
+										
+																			
+																		
+								</td>
+															
+							</tr>
+							
+							<tr>
+								
+								<td align="center">
+									
+									
+										
+										
+											*
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										
+											*
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										
+											*
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										
+											*
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										
+											*
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										
+											*
+																			
+																		
+								</td>
+								
+								<td align="center">
+									
+									
+										
+										
+											*
+																			
+																		
+								</td>
+															
+							</tr>
+							
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+            <table width="100%">
+                <tbody><tr>
+                    <td width="15%"><a href="/frontPage.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=03012011">&lt;&lt;</a>
+                    </td>
+                    <td align="center" width="*">
+                        (<a href="/addEvent.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E">add event</a>)
+                    </td>
+                    <td align="right" width="15%">
+                        <a href="/frontPage.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?eventDayId=05012011">&gt;&gt;</a>
+                    </td>
+                </tr>
+            </tbody></table>            
+		</td>
+	</tr>
+</tbody></table>
+
+
+
+<br> 
+                            
+                                
+
+
+
+
+
+<!-- upcomingEventsBlox.jsp -->
+
+
+                            
+                                
+
+
+
+
+
+
+
+
+
+                            
+                                
+
+
+
+<table width="100%" class="objectTable">
+<tbody><tr>
+	<td class="objectHeading">Active Users</td>
+</tr>
+<tr>
+	<td class="objectContent">
+	Currently <a href="/activeUsers.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E">4 user(s)</a> logged on.		
+	</td>
+</tr>
+</tbody></table>	
+<br>
+
+                            
+                                
+
+
+<!-- search.jsp -->
+</p><form name="searchForm" method="post" action="/search.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E">
+<table class="objectTable" width="100%">
+	<tbody><tr>
+		<td class="objectHeading">Search</td>
+	</tr>
+	<tr>
+		<td class="objectContent"><select name="searchTypeId">
+                <option value="2">Posts</option>                      
+				<option value="1">Comments</option>
+			</select><br>
+			<input type="text" name="searchWords" size="18"> <br>
+			<input type="submit" value="Search"><br>
+			<br>
+			<center><a href="/search.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E">Advanced Search</a></center>
+			<br>
+		</td>
+	</tr>
+</tbody></table>
+<br>
+</form>
+
+                            
+                                <script src="http://www.bostonblogs.com/members/bluemassgroup160.js" type="text/javascript"></script>
+
+
+<script type="text/javascript" src="http://www.google.com/reader/ui/publisher-en.js"></script>
+<script type="text/javascript" src="http://www.google.com/reader/public/javascript/user/05143930043562234270/label/state feed?n=7&amp;callback=GRC_p(%7Bc%3A%22blue%22%2Ct%3A%22ProgBlogs%20around%20the%20US%22%2Cs%3A%22true%22%2Cn%3A%22false%22%2Cb%3A%22false%22%7D)%3Bnew%20GRC"></script>
+
+
+
+
+<table width="100%" class="objectTable">
+	<tbody><tr>
+		<td class="objectHeading">
+			<b>Blog Roll</b>
+		</td>
+	</tr>
+	<tr>
+		<td class="smallText">
+<strong>Massachusetts Left</strong><br>
+<a href="http://point08.blogspot.com/">.08 Acres</a><br>
+<a href="http://www.belowboston.com">Below Boston</a><br>
+<a href="http://gregroach.blogspot.com/">Berkshires Blog</a><br>
+<a href="http://www.chimesatmidnight.blogspot.com/">Chimes at Midnight</a><br>
+<a href="http://davideisenthal.typepad.com/the_eisenthal_report/">Eisenthal Report</a><br>
+<a href="http://www.granby01033.blogspot.com/">Granby 01033</a><br>
+<a href="http://blog.hcfama.org">Health Care for All</a><br>
+<a href="http://www.leftinlowell.com/">Left in Lowell</a><br>
+<a href="http://www.leftyblogs.com/massachusetts/">MA lefty blogs</a><br>
+<a href="http://massmarrier.blogspot.com/">Marry in Mass.</a><br>
+<a href="http://massengagement.com/">Mass Engagement</a><br>
+<a href="http://baystateliberal.blogspot.com/">Massachusetts Liberal</a><br>
+<a href="http://www.mfw.us/">Michael Forbes-Wilcox</a><br>
+<a href="http://www.mydedham.org/">My Dedham</a><br>
+<a href="http://progressivemass.blogspot.com">Progressive Mass.</a><br>
+<a href="http://qontheshore.blogspot.com/">Quriltai on the Shore</a><br>
+<a href="http://www.ryanpadams.blogspot.com/">Ryan's Take</a><br>
+<a href="http://noternie.blogspot.com">Someday I Will</a><br>
+<a href="http://www.shrewsburied.com/">ShrewsBuried</a><br>
+<a href="http://www.talkingstoneham.com/">Talking Stoneham</a><br>
+<a href="http://fray.blogs.masslive.com/">The Fray</a><br>
+<a href="http://www.universalhub.com/">Universal hub</a><br>
+<br>
+
+<strong>Differently-Winged</strong><br>
+
+<a href="http://www.daleyblog.com/">John Daley</a><br>
+<a href="http://www.massprolife.org/">Mass. Pro-Life</a><br>
+<a href="http://massbackwards.blogspot.com/">No Looking Backwards</a><br>
+<a href="http://capecodporcupine.blogspot.com/">Peter Porcupine</a><br>
+<a href="http://www.punditreview.com/">Pundit Review</a><br>
+<a href="http://www.redmassgroup.com">Red Mass Group</a><br>
+<a href="http://www.scalingthehill2010.com/">Scaling the Hill 2010</a><br>
+<br>
+
+<strong>Mass. Media</strong><br>
+<a href="http://www.thephoenix.com/talkingpolitics/">David S. Bernstein</a><br>
+<a href="http://blogs.townonline.com/campolitics/">Cambridge politics</a><br>
+<a href="http://www.cwunbound.org/">CommonWealth Unbound</a><br>
+<a href="http://www.boston.com/news/local/politics/blog/">Globe bloggers</a><br>
+<a href="http://www.bostonherald.com/blogs/politicsBlog/">Herald bloggers</a><br>
+<a href="http://hubblog.blogspot.com/">Hub Blog</a><br>
+<a href="http://pod08.prospero.com/n/blogs/blog.aspx?webtag=WBZ_Keller">Jon Keller</a><br>
+<a href="http://massbeacon.com/">MassBeacon</a><br>
+<a href="http://massachusetts-election-2010.com/">MA Election 2010</a><br>
+<a href="http://www.dankennedy.net">Media Nation (Dan Kennedy)</a><br>
+<a href="http://www.openmediaboston.org">Open Media Boston</a><br>
+<a href="http://www.thephoenix.com/MediaLog/">Adam Reilly</a><br>
+<a href="http://www.bostonherald.com/blogs/news/toll_talk/">Toll Talk (Mary Connaughton)</a><br>
+<a href="http://www.weeklydig.com/blog">Weekly Dig Blog</a><br>
+<a href="http://www.wickedlocal.com/politics">Wicked Local Politics</a><br>
+<br>
+
+<strong>Legal</strong><br>
+<a href="http://www.acsblog.org/">ACS Blog</a><br>
+<a href="http://balkin.blogspot.com/">Balkinization</a><br>
+<a href="http://electionlawblog.org/">Election law</a><br>
+<a href="http://howappealing.law.com/">How Appealing</a><br>
+<a href="http://www.scotusblog.com/">SCOTUSblog</a><br>
+<a href="http://volokh.com/">Volokh Conspiracy</a><br>
+<br>
+
+<strong>General</strong><br>
+<a href="http://accountablestrategies.wordpress.com/">Accountable Strategies</a><br>
+<a href="http://billionairesforbush.com/">Billionaires for Bush</a><br>
+<a href="http://www.blueworksbetter.com/">Blue Works Better</a><br>
+<a href="http://www.crooksandliars.com/">Crooks and Liars</a><br>
+<a href="http://www.dailyhowler.com/">Daily Howler</a><br>
+<a href="http://www.dailykos.com/">Daily Kos</a><br>
+<a href="http://www.democracyarsenal.org/">Democracy Arsenal</a><br>
+<a href="http://atrios.blogspot.com/">Eschaton (Atrios)</a><br>
+<a href="http://www.salon.com/opinion/greenwald/">Glenn Greenwald</a><br>
+<a href="http://gristmill.grist.org/">Grist (environment blog)</a><br>
+<a href="http://digbysblog.blogspot.com/">Hullabaloo (Digby)</a><br>
+<a href="http://www.liberaloasis.com/">LiberalOasis</a><br>
+<a href="http://www.mydd.com/">MyDD</a><br>
+<a href="http://www.oliverwillis.com/">Oliver Willis</a><br>
+<a href="http://www.pandagon.net/">Pandagon</a><br>
+<a href="http://www.washingtonmonthly.com/">Political Animal</a><br>
+<a href="http://politicalcritic.com/">Political Critic</a><br>
+<a href="http://politicalwire.com/">Political Wire</a><br>
+<a href="http://www.thepoorman.net/">Poor Man</a><br>
+<a href="http://pbd.blogspot.com/">Progressive Blog Digest</a><br>
+<a href="http://www.realclimate.org/">Real Climate</a><br>
+<a href="http://www.senateguru.com/">Senate Guru</a><br>
+<a href="http://www.swingstateproject.com/">Swing State Project</a><br>
+<a href="http://www.prospect.org/weblog/">Tapped</a><br>
+<a href="http://www.talkingpointsmemo.com/">Talking Points Memo</a><br>
+<a href="http://thinkprogress.org/">Think Progress</a><br>
+<a href="http://www.truthandprogress.com/frontPage.do">Truth and Progress</a><br>
+<a href="http://www.turnmaineblue.com/">Turn Maine Blue</a><br>
+<a href="http://www.wonkette.com/">Wonkette</a><br>
+
+		</td>
+
+	</tr>
+</tbody></table>
+<br>
+
+<script src="http://www.politifact.com/media/js/politifactwidget3.js"></script>
+
+<script src="http://www.politifact.com/media/js/politifactupdatewidget3.js"></script>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7187283439612684";
+/* BMG 2010.01 #3 (Left) */
+google_ad_slot = "7144001728";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+                            
+                        
+                    </td>
+                
+
+                
+                
+            
+
+                
+                
+
+                
+                
+                    <td class="MAIN_BODY" valign="top">
+                        
+                        
+                        	
+                            	<link rel="shortcut icon" href="http://www.bluemassgroup.com/upload/david/bmgfavicon.jpg" type="image/x-icon">
+
+
+
+<table border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr align="center"> 
+    <td align="center"><center><a href="http://www.bluemassgroup.com/"><img src="http://www.bluemassgroup.com/upload/masthead0702/bmgmasthead.gif" alt="www.BlueMassGroup.com" border="0"></a></center></td></tr>
+  
+
+
+
+</tbody></table>
+
+
+
+
+
+
+
+
+                                                    
+                        
+                         
+
+
+
+
+
+
+
+             
+
+    
+
+
+
+
+
+
+
+    
+        
+    
+
+
+
+
+
+
+
+
+
+
+<table width="100%">
+    <tbody><tr>
+        <td>
+        <h1 class="diaryTitle">
+
+        	<a class="diaryTitle" href="/diary/22012/">Privacy policy</a>        
+        
+         
+        </h1>
+        
+        <h2 class="author">by: 
+        	<a href="/user/The Editors">
+        		The Editors
+        	</a>
+		</h2>
+
+
+        
+        <h3 class="diaryTimestamp">
+            <i>Tue Feb 01, 2011 at 17:43:15 PM EST</i>
+         </h3>
+         
+            
+         
+         
+        
+        <br>
+        </td>
+    </tr>
+    <tr>
+        <td> Blue Mass Group does not retain personally identifiable information from readers. &nbsp;However, Blue Mass Group does require a valid email address from users who wish to leave posts or comments on the site. &nbsp;We do this in order to avoid spammers, and so that we can communicate with you directly if necessary. &nbsp;We will not disclose your email address to a third party unless we are required to do so by law. &nbsp;We will not sell your email address under any circumstances.
+<p>Additionally, our advertisers require that we inform you of the following:
+</p><p></p><blockquote>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://networkadvertising.org/">networkadvertising.org</a>.
+<br></blockquote></td>
+    </tr>
+    <tr>
+        <td class="theFlip"> <a href="/userDiary.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?personId=1176">The Editors</a> :: <a href="/showDiary.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?diaryId=22012">Privacy policy</a></td>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+
+</tbody></table>
+
+
+
+
+
+
+
+    <table>
+        <tbody><tr>
+            <td>Tags: 
+                         
+                            <a href="/tag/BMG" rel="tag">BMG</a>,
+                                          
+            (<a href="/allTags.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E">All Tags</a>)
+         </td>
+        </tr>
+    </tbody></table>
+
+
+<table>
+    <tbody><tr>
+        <td valign="bottom">
+                    <a target="_new" href="showDiary.do?diaryId=22012&amp;view=print">
+                        Print Friendly View
+                    </a>  
+                    <a target="_new" href="showDiary.do?diaryId=22012&amp;view=print"><img src="/images/printer-icon.GIF" border="0"></a>       
+                    
+                    <a href="/sendAsEmail.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?diaryId=22012">Send As Email</a>
+                    
+                    <a href="/sendAsEmail.do;jsessionid=E90B21999B35A7C212A30D6DB8D3347E?diaryId=22012"><img src="/images/email-icon.GIF" border="0"></a>
+
+        </td>
+    </tr>
+</tbody></table>
+
+<br>
+
+
+
+<small>ADVERTISEMENT</small><br>
+<script type="text/javascript">
+GA_googleFillSlot("Blue_Mass_300");
+</script>
+
+
+
+
+    
+
+
+
+
+		 
+<div class="titleBar">
+	<a href="/diary/22012/">
+        Privacy policy
+	</a>
+
+	
+		
+		
+		
+            
+			
+    			|	
+	            <b>0</b> comments 
+
+                                
+			
+
+            
+				
+		 
+	 
+</div>
+
+    
+            
+    
+
+
+
+
+
+
+
+    
+        
+            
+
+                   <form name="rateForm" onsubmit="figureOut(this.form); return false;">
+                    <div id="previewcomment0" style="display: none;">
+                        <div class="commentBar"></div>
+                        <div class="ajaxPreviewCommentTitle" id="previewTitle0"></div>
+                        <div class="ajaxPreviewCommentText" id="previewCommentText0"></div>
+                        <hr align="left" width="50%">
+                        <div class="ajaxPreviewCommentAuthor">by: you @ soon</div>
+                        <div class="ajaxPreviewPostBar"><p><b>To post this comment click here: <input tabindex="1" onfocus="setButtonState('post')" type="submit" value="Post" id="postbutton0" onclick="setButtonState('post')"></b>
+                        </p><p>Otherwise click cancel.</p>
+                        </div>
+                    </div>
+                     <div class="soapbloxError" id="errorcomment0" style="display: none;"><li>You must enter a subject for your comment</li></div>                    
+                    <a name="p0"></a>                              
+                    <div><div id="postcomment0"></div></div>
+                    
+                        
+                        
+                                                        
+                                                                                    
+                        
+                        
+                    
+
+
+
+
+
+    
+    
+    
+
+                    <input type="hidden" name="commentId">
+                    <input type="hidden" name="replyParentCommentId">                                                
+                    <input type="hidden" name="submitType">                        
+                    <input type="hidden" name="replyDiaryId">                                                
+                    <input type="hidden" name="diaryId"> 
+                </form>
+
+            
+        
+    
+
+
+
+
+    
+    
+
+
+                        
+                            <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2209289-1";
+urchinTracker();
+</script>
+
+
+
+                        
+                    </td>
+                
+            
+
+                
+                
+                    <td valign="top" class="RIGHT_SIDE">
+                        
+                            
+                                <link rel="stylesheet" type="text/css" href="http://cache.blogads.com/461912444/feed.css">
+<script language="javascript" src="http://cache.blogads.com/461912444/feed.js"></script><br><br>
+
+<a href="http://campaigns.dailykos.com/p/dia/action/public/?action_KEY=20"><img src="http://www.bluemassgroup.com/upload/david/draftwarren.jpg" border="0" width="150" height="189"></a><br><br>
+
+
+
+<a href="http://voices.washingtonpost.com/politics/blog-network/blue-mass-group/"><img src="http://www.bluemassgroup.com/upload/bob/blog-net-title.gif" border="0" width="150" height="45"></a><br>
+
+
+
+
+
+
+<br>
+
+                            
+                                
+
+
+
+
+
+
+
+
+
+
+                            
+                                
+
+
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 6000,
+  width: 150,
+  height: 200,
+  theme: {
+    shell: {
+      background: '#364075',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#000000',
+      color: '#ffffff',
+      links: '#26c6d1'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('bluemassgroup').start();
+</script>
+<br>
+                            
+                                
+
+
+
+
+
+
+ 
+                            
+                                <link rel="stylesheet" type="text/css" href="http://cache.blogads.com/801010755/feed.css">
+<script language="javascript" src="http://cache.blogads.com/801010755/feed.js"></script><br><br>
+
+
+
+
+
+
+
+
+
+
+<!-- recentCommentsList.jsp -->
+
+
+                            
+                                <script type="text/javascript"><!--
+google_ad_client = "ca-pub-7187283439612684";
+/* BMG 2010.01 #1 */
+google_ad_slot = "7254633629";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<br><br><p>
+
+<script type="text/javascript" src="http://www.google.com/reader/ui/publisher-en.js"></script>
+<script type="text/javascript" src="http://www.google.com/reader/public/javascript/user/16142186178998341251/label/bmg?n=10&amp;callback=GRC_p(%7Bc%3A%22blue%22%2Ct%3A%22Mass%20o'%20Politics%22%2Cs%3A%22true%22%2Cb%3A%22false%22%7D)%3Bnew%20GRC"></script>
+
+<br><br></p><p>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-7187283439612684";
+/* BMG 2010.01 #2 */
+google_ad_slot = "7921099773";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<br><br></p><p>
+
+ <script type="text/javascript"> 
+/*<![CDATA[*/ 
+ microsoft_adunitid="2845"; 
+ microsoft_adunit_width="160"; 
+ microsoft_adunit_height="600"; 
+ microsoft_adunit_legacy="false"; 
+/*]]>*/ 
+ </script> 
+ <script type="text/javascript" src="http://adsyndication.msn.com/delivery/getads.js"></script>
+
+<br><br></p><p>
+
+ <script type="text/javascript"> 
+/*<![CDATA[*/ 
+ microsoft_adunitid="2845"; 
+ microsoft_adunit_width="160"; 
+ microsoft_adunit_height="600"; 
+ microsoft_adunit_legacy="false"; 
+/*]]>*/ 
+ </script> 
+ <script type="text/javascript" src="http://adsyndication.msn.com/delivery/getads.js"></script>
+
+                            
+                        
+                    </p></td>
+                
+
+                
+                
+            
+        
+    </tr>
+</tbody></table>
+
+
+    
+
+
+<div class="footer">&nbsp;
+<font size="0" face="trebuchet ms">All content © BMG Media Empire LLC.  <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Some rights reserved</a>.</font><br>
+<a href="http://www.bluemassgroup.com" align="right">HOME</a>
+
+</div>
+
+<script type="text/javascript">
+GA_googleFillSlot("Blue_Mass_728_BTF");
+</script>
+ 
+
+
+
+
+<table width="100%">
+<tbody><tr>
+    <td align="right">
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=1767529; 
+var sc_invisible=1; 
+var sc_partition=16; 
+var sc_security="859e170d"; 
+</script>
+<script type="text/javascript" language="javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="http://c17.statcounter.com/counter.php?sc_project=1767529&java=0&security=859e170d&invisible=1" alt="free hit counter javascript" border="0"></a> </noscript>
+<!-- End of StatCounter Code -->
+Powered by: <a href="http://www.soapblox.net">SoapBlox</a>
+    </td>
+</tr>
+</tbody></table>    
+</div>
+</center>
+
+</body></html>
