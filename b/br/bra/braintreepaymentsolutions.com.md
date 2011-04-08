@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braintreepaymentsolutions.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228123431id_/http%3A//www.braintreepaymentsolutions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braintreepaymentsolutions.com privacy policy that was archived on 2011-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110408105602id_/http%3A//www.braintreepaymentsolutions.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Braintree Payment Solutions
 
