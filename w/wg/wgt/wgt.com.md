@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wgt.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614204139id_/http%3A//www.wgt.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgt.com privacy policy that was archived on 2011-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110408121605id_/http%3A//www.wgt.com/privacy.aspx) for the most accurate reproduction.*
 
-# World Golf Tour
+# Free Online Golf Game - World Golf Tour
 
 Thank you for visiting World Golf Tour’s ("World Golf Tour" or "WGT") Internet web site ("Site") located at the URL [http://www.wgt.com](http://www.wgt.com/) (or [http://www.worldgolftour.com](http://www.worldgolftour.com/)). This Privacy Policy details certain policies implemented throughout World Golf Tour governing World Golf Tour’s use of personally identifiable information about users of our Site and our services provided via this Site and through your use of World Golf Tour’s services.
 
