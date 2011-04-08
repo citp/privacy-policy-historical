@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grammarist.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112074145id_/http%3A//www.grammarist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grammarist.com privacy policy that was archived on 2011-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110408115653id_/http%3A//www.grammarist.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | Grammarist
 
