@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623104241id_/http%3A//ebird.org/content/ebird/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2011-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110408132436id_/http%3A//ebird.org/content/ebird/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — eBird
 
@@ -16,7 +16,7 @@ Because a primary goal of eBird is to maintain a universally accessible, central
 
 eBirders are able to view their personal observations and the observations of others, so please be aware that your observations of sensitive species and their locations will be available to other eBird users.
 
-As conservation organizations, the Cornell Lab of Ornithology and the National Audubon Society seek to limit disturbance to birds especially at sensitive locations such as nest and roost sites. If you are not familiar with the American Birding Association's [Principles of Birding Ethics](http://www.americanbirding.org/abaethics.htm), we encourage you to review them.
+As conservation organizations, the Cornell Lab of Ornithology and the National Audubon Society seek to limit disturbance to birds especially at sensitive locations such as nest and roost sites. If you are not familiar with the American Birding Association's [Principles of Birding Ethics](http://www.aba.org/about/ethics.html), we encourage you to review them.
 
 ### Cookies
 
