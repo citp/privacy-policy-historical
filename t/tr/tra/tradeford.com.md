@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tradeford.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203110750id_/http%3A//www.tradeford.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeford.com privacy policy that was archived on 2011-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110408162411id_/http%3A//www.tradeford.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TradeFORD.com, Online B2B Portal for International Trade
 
-**Information** > **Privacy Policy**
+Home > Information > **Privacy Policy**
 
 ## Privacy Policy
 
-[TradeFORD](http://www.tradeford.com/) respects the privacy of your information. Our Privacy Policy governs our online information practices and reflects our commitment to protect your privacy.
+[TradeFord](http://www.tradeford.com/) respects the privacy of your information. Our Privacy Policy governs our online information practices and reflects our commitment to protect your privacy.
 
 **Security Measures:** Your account information and profile are password protected. We recommend that you do not divulge your password to anyone. Our personnel will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Remember to sign out of your account and close your browser window when you have finished your session.
 
