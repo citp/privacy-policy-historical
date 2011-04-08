@@ -1,14 +1,22 @@
-> *The following text is extracted and transformed from the dazeddigital.com privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809181335id_/http%3A//www.dazeddigital.com/info/article/826/1/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dazeddigital.com privacy policy that was archived on 2011-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110408093608id_/http%3A//www.dazeddigital.com/info/article/826/1/Privacy_Policy) for the most accurate reproduction.*
 
 # Dazed Digital | Privacy Policy
 
-## PRIVACY POLICY
+[Info](https://web.archive.org/web/20110408093608id_/http%3A//www.dazeddigital.com/info)
+
+## Privacy Policy  
+
+
+Published 21 months ago 
+
+
+
 
 This policy explains how Dazed Digital uses personal information which we collecti from you. It also explains how we use cookies.
 
 When you wish to receive or use services on this website, such as newsletters, prize draws, uploading your work, and Dazed Digital members, you will be asked to submit personal information such as your name and email address.
 
-By entering the details in the forms, you enable Dazed Digital and its service providers to provide you with the services you select. 
+By entering the details in the forms, you enable Dazed Digital and its service providers to provide you with the services you select.
 
 ### Visitor Information
 
