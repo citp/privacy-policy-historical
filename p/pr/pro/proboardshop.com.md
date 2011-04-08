@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the proboardshop.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109133927id_/http%3A//helpdesk.proboardshop.com/entries/158542-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proboardshop.com privacy policy that was archived on 2011-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110408070641id_/http%3A//helpdesk.proboardshop.com/entries/158542-privacy-policy) for the most accurate reproduction.*
 
-# Pro Board Shop : Privacy Policy
+# Privacy Policy : Pro Board Shop
 
 ### Your Personal Information
 
