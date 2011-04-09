@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the gameinformer.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604122934id_/http%3A//gameinformer.com/p/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameinformer.com privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409164720id_/http%3A//www.gameinformer.com/p/privacy.aspx) for the most accurate reproduction.*
 
-# GameInformer.com
+# GameInformer.com Privacy Policy
 
 PRIVACY POLICY
 
 Last Updated: August 18, 2009 
 
 Welcome to Game Informer Online, the Web destination for readers of Game Informer magazine. 
-
-1\. What Does this Policy Cover?
 
 **1.1 Applies to All Game Informer Websites.**
 
@@ -30,7 +28,8 @@ The Site provides video game related content for all visitors as well as enhance
 
 The Site and the Service are provided by Game Informer Online / Sunrise Publications, Inc., with an address at 724 1st Street North, 4th floor, Minneapolis, Minnesota 55401 (“Game Informer” or “Game Informer Online”), subject to this Privacy Policy (this “Policy”) and any other documents available on or through [http://www.gameinformer.com/p/terms.aspx](https://web.archive.org/p/terms.aspx) (this Privacy Policy, the Game Informer User Agreement, and all such other documents are collectively and separately referred to as the “Game Informer Terms of Service”).
 
-2\. What Information Is Collected Through The Service, From Whom Is It Collected, How Is It Collected, And Who Has Access To It.
+  
+
 
 **2.1 What Information does Game Informer Collect.**
 
@@ -67,7 +66,8 @@ From time to time, we may purchase a business or sell one or more of our busines
 
 We will disclose personal information when we believe that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to enforce our Website Terms and Conditions; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of the Site or third parties. 
 
-3\. How does Game Informer Use the Information it Collects. 
+  
+
 
 **3.1 Updates and Enabling Use of Communication Tools.**
 
@@ -87,7 +87,8 @@ In addition, if during the registration process you informed Game Informer (by w
 
 Game Informer treats personal information submitted to it in a business capacity different from information that it receives in a non-business capacity. Personal information submitted to Game Informer in a business capacity (e.g., resumes, event sponsorship, etc.) may be shared with third parties, depending on the nature of the inquiry.
 
-4\. Cookies and Other Passive Means of Collecting Information.
+  
+
 
 **4.1 IP Addresses.**
 
@@ -109,7 +110,8 @@ Game Informer may collect information in the form of logs - files that record We
 
 Many advertisements are managed and placed on our Websites by third parties. These companies are called "network advertisers." Network advertisers who place advertisements on our Websites may also use cookies and Web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from Web beacons and cookies used by network advertisers on our sites and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser. You should be aware that once you've clicked on an advertisement and have left our Site, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their Website.
 
-5\. Who Is Collecting the Information, and with Whom is it Shared.
+  
+
 
 All Information collected (i.e., personal information and aggregate information) on the Site and as part of the Service, is collected and maintained by Game Informer. As noted above, network advertisers may collect information regarding Users clicking or moving their cursors over advertisements on the Site. The information that you disclose on the Site also may be collected by a vendor on Game Informer’s behalf, and it may be used in accordance with the practices set forth above. Vendors (including consultants and agents) are entities that provide support for the internal operations of our Site and the Service and who only use the information we share with them (or that they collect on our behalf) for purposes of internal fulfillment (e.g., online product fulfillment) or to enhance or support the effectiveness of the Service and our operations. Vendors are required to handle such information in accordance with this Privacy Policy. 
 
@@ -117,7 +119,8 @@ From time to time, we may run contests, tournaments, or other events or activiti
 
 Except as stated above or disclosed in this Policy, or otherwise as may be authorized or permitted by a User, Game Informer does not share personal information with anyone (see also Sections 2, 3 and 4). Aggregate information may be shared with Game Informer’s partners, sponsors, or advertisers (see Section 4). 
 
-6\. Opting Out of Receiving Communications or Services; How to Access, Change, or Delete Your Information.
+  
+
 
 If you choose not to submit personal information when requested, you may not be able to participate in certain activities on the Site and may limit the services we can provide you. For example, if you refuse to share your email address, you may not be able to receive general support or product support. To simply browse the Site you do not need to give us any personal information. 
 
@@ -125,21 +128,19 @@ If you do not want to receive newsletters, service related announcements, or any
 
 You may terminate your membership at any time, and for any reason, by going to the Customer Service section of the Site (you also may point your browser to the following url): [http://www.gameinformer.com/p/customerservice.aspx](https://web.archive.org/p/customerservice.aspx)). 
 
-7\. How Is Your Information Protected / Security Measures.
-
 Game Informer takes what it believes to be appropriate precautions to protect the information of its Users. When the Service requests sensitive User information (including, without limitation, personal information) the information is encrypted and protected. Game Informer’s database of User information resides on Game Informer servers behind various firewalls to protect against loss, misuse, theft, and unauthorized modification, deletion, or alteration of the information contained in such database. In addition, Game Informer has taken preventive measures to restrict access to sensitive data and personal information, as well as to detect, police, and prohibit certain communications and operations by unauthorized users. Only employees of Game Informer who require access to certain information to perform specific employment tasks are granted limited access to such information. Game Informer makes no claim or warranty as to the security or impenetrability of Game Informer’s system under unusual or unanticipated circumstances or its resilience to future sophisticated attacks.
 
-8\. When Information May Be Disclosed as a Matter of Law.
+  
+
 
 Game Informer may disclose personal information to unrelated parties in special cases when Game Informer has reason to believe that that disclosure is necessary to identify, contact, or bring legal action against a person or persons who is or may be a subject of or subject to a fraud investigation, intellectual property infringement claim or other claim of illegal activity, or who may be causing injury to, or interference with, the rights or property of Game Informer, other Users, or any third party. In addition, Game Informer may disclose information about individual Users to law enforcement agencies, judicial or government authorities, or to other individuals or entities in response to subpoenas, court orders, or other legal processes. 
 
 Also, in the event of a sale, merger, reorganization, bankruptcy, or other similar event, Game Informer User information may be transferred to an entity that succeeds to Game Informer’s assets or business. 
 
-9\. Information of Minors and Children.
-
 Game Informer is not targeting the Site or the Service to children, and Game Informer does not knowingly collect contact information from children under the age of 13. If you are under the age of 13, please do not email Game Informer, contact the Site, attempt to use the Service, submit information to the Site, or ask Game Informer to email you. If you are under the age of 18, you should get permission from a parent or guardian before you email Game Informer, contact the Site, attempt to use the Service, submit information to the Site, or ask Game Informer to email you.
 
-10\. Your California Privacy Rights. 
+  
+
 
 California Civil Code Section 1798.83 permits Users who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes, and the identities of the third parties with whom we have shared such information during the immediately preceding calendar year. For inquiries pursuant to Section 1798.83 of the California Civil Code regarding information disclosure provided by Game Informer, please contact us using the information provided below: 
 
@@ -152,9 +153,10 @@ Minneapolis, MN 55401
 Phone: (612) 486-6100  
 Fax: (612) 486-6101
 
-By email: nick@gameinformer.com 
+By email: customerservice@gameinformer.com 
 
-11\. How do I ask a question or file a complaint? (Contact Information)
+  
+
 
 If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at:
 
@@ -167,7 +169,7 @@ Minneapolis, MN 55401
 Phone: (612) 486-6100  
 Fax: (612) 486-6101
 
-By email: nick@gameinformer.com
+By email: customerservice@gameinformer.com
 
   
 
