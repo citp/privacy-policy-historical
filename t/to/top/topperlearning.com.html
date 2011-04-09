@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the topperlearning.com privacy policy that was archived on 2010-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227085614id_/http%3A//www.topperlearning.com/t/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the topperlearning.com privacy policy that was archived on 2011-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110409055011id_/http%3A//www.topperlearning.com/t/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,12 +13,11 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="http://www.topperlearning.com/favicon.ico">
 <title>
-    Online Coaching Courses | Online Tuition Classes | Effective Education Methods | CBSE Question Papers - Topperlearning.com</title>
+    Our Privacy Policy | Online Coaching Courses | Online Tuition Classes | Effective Education Methods | CBSE Question Papers</title>
 	
-<meta name="description" content="Topperlearning.com provides online coaching classes, online tuitions, gives information on top colleges &amp; universities, International schools, study abroad, distance learning, certified programs, and online exams. You can also ask, you queries to the expert's person who will solve you query within 72 hrs of time frame!">
+<meta name="description" content="TopperLearning.com provides online tuition classes, CBSE question papers and coaching courses. Call us today at 0120-6667710 for more details.">
 
-<meta name="keywords" content="Online Coaching Courses, Online Coaching Classes, online coaching for Class 9 to 12, Online Tuition Classes, mathematics online tuition, online tutorials for Class 9 to 12, Effective Education Methods, CBSE Sample Question Papers, Integrated Learning System, secondary classes reference material, CBSE Question Papers">
-
+<meta name="keywords" content="Coaching Courses, Coaching Course, Online Tuition Classes, CBSE Question Papers">
 <script type="text/javascript">
     var siteUrl = 'http://www.topperlearning.com/';
 </script>
@@ -27,6 +26,7 @@
 
 $(document).ready(function() {
 
+        
 
 	//Get all the LI from the #tabMenu UL
 	$('#TopNavigation > li').click(function(){
@@ -77,9 +77,33 @@ function topper_cookie(){
         }
     }
 }
+
+function sem_cookie(){
+    //alert("hello");
+    if (document.cookie.length>0)
+    {
+        sem_start=document.cookie.indexOf("sem_cookie" + "=");
+        if (sem_start!=-1)
+        {
+            //alert("cookie found");
+
+        }
+        else{
+            //alert("cookie not found");
+            //creating cookie
+            var date = new Date();
+            date.setTime(date.getTime()+(24*60*60*1000));
+            var expires = "; expires="+date.toGMTString();
+            document.cookie = "sem_cookie=1;"+expires+";";
+
+
+            
+        }
+    }
+}
 </script>
 </head>
-<body onload="MM_preloadImages('http://www.topperlearning.com/img/student_blue.jpg','http://www.topperlearning.com/img/parents_blue.jpg','http://www.topperlearning.com/img/teacher_blue.jpg','http://www.topperlearning.com/img/school_blue.jpg','http://www.topperlearning.com/img/parents.jpg','http://www.topperlearning.com/img/teacher.jpg','http://www.topperlearning.com/img/school.jpg','http://www.topperlearning.com/img/why_topper_title_hr.jpg','http://www.topperlearning.com/img/online_test_title_hr.jpg','http://www.topperlearning.com/img/home_work_title_hr.jpg','http://www.topperlearning.com/img/exam_resources_title_hr.jpg','http://www.topperlearning.com/img/career_counselling_title_hr.jpg');">
+<body onload="sem_cookie(),MM_preloadImages('http://www.topperlearning.com/img/student_blue.jpg','http://www.topperlearning.com/img/parents_blue.jpg','http://www.topperlearning.com/img/teacher_blue.jpg','http://www.topperlearning.com/img/school_blue.jpg','http://www.topperlearning.com/img/parents.jpg','http://www.topperlearning.com/img/teacher.jpg','http://www.topperlearning.com/img/school.jpg','http://www.topperlearning.com/img/why_topper_title_hr.jpg','http://www.topperlearning.com/img/online_test_title_hr.jpg','http://www.topperlearning.com/img/home_work_title_hr.jpg','http://www.topperlearning.com/img/exam_resources_title_hr.jpg','http://www.topperlearning.com/img/career_counselling_title_hr.jpg');">
 
 <div id="flash_banner" style="position: absolute;padding-top:80px;z-index: 5000;width: 967px;height: 100%;display:none;" align="center">
         
@@ -106,13 +130,26 @@ function topper_cookie(){
 			<div class="Welcome">Welcome Guest,</div>
 			<div class="Welcome MarginLeft5">
 				<a href="#login" class="ColorWhite show_login" onclick="$('#loginController').val('dashboard'); $('#loginAction').val('index');">Login</a>			</div>
-                                                                             <div style="font-size:0px; margin-left:10px; margin-top:-10px; position:relative; float: left; cursor: pointer;">
-                                <a href="#change_class" class="show_login ColorWhite" onclick="$('#loginController').val('student'); $('#loginAction').val('change_class');"><img src="/img/buttons/Change-your-class.png" title="Change Class" border="0" alt="Change Class"></a>                            </div>
+                                                                             <div style="font-size:0px; margin-left:10px; margin-top:-20px; position:relative; float: left; cursor: pointer;">
+                                                                <a href="/t/goto_junior_site"><img src="/img/buttons/juniorbutton.png" title="Topper junior site" border="0" alt="Topper junior site"></a>                            </div>
                         
 		</div>
 		<div>
 		<div class="FloatLeft MarginLeft8">
-                    <a href="/"><img src="/img/logo.jpg" alt=""></a>		</div>
+<!--
+<a href="http://www.topperlearning.com/" style="cursor:pointer;">
+         <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="125px" height="35px">
+
+                    <param name="movie" value="http://www.topperlearning.com/flash/holi.swf" />
+                    <param name="quality" value="high" />
+                    <param name="wmode" value="transparent" />
+                    <embed src="http://www.topperlearning.com/flash/holi.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent"  width="125px" height="35px"></embed>
+                </object>
+
+</a>
+    -->
+    <a href="/"><img src="/img/logo.jpg" alt=""></a>
+        </div>
                     <div class="clear">&nbsp;</div>
                     <script type="text/javascript">
   ddlevelsmenu.setup("ddtopmenubar", "topbar");
@@ -150,10 +187,27 @@ function topper_cookie(){
                      <div class="clear"></div>
 
 		</div>
-		<div class="Clear" style="height:24px;">&nbsp;</div>
+        <!--<div class="Clear" style="height:24px;">&nbsp;</div>
+        <div><marquee><font color=white><strong>Appear Free in India's largest Free Pre Board for classes Xth, XIIth.  &nbsp;&nbsp;&nbsp;&nbsp;First 10000 registrations will get personalized feedback from Topper Experts. <a href="http://www.topperlearning.com/preboard"><font color=white>Register Now.</font></a></strong></font></marquee></div>-->
+        <div class="Clear" style="height:24px;">&nbsp;</div>
+		
 		<div class="ColorGray Light10V" id="ErrorRef"> To Subscribe, call: 0120-6667710 <!-- or Email us at : <a href="mailto:contactus@topperlearning.com" class="ColorGray">contactus@topperlearning.com</a> -->
-          <!-- Facebook Badge START -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.facebook.com/pages/TopperLearning/117202841640053" target="_blank" title="Topper Learning"><img width="36" height="35" border="0" style="border: 0px none ; " src="http://www.topperlearning.com/app/webroot/img/face_book_button.jpg"></a><!-- Facebook Badge END -->&nbsp;&nbsp;&nbsp;<a href="http://www.topperlearning.com/textbookhelp/" title="Topper Learning"><img width="95" height="34" border="0" style="border: 0px none ; " src="http://www.topperlearning.com/app/webroot/img/ncert_solution_button.jpg"></a>&nbsp;&nbsp;&nbsp;<a href="http://www.topperlearning.com/examspecial/" title="Exam Special"><img width="95" height="34" border="0" style="border: 0px none ; " src="http://www.topperlearning.com/app/webroot/img/exam_success.jpg"></a>
-                    </div>
+  
+   <!-- Facebook Badge START -->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        
+
+           <a href="http://www.facebook.com/pages/TopperLearning/117202841640053" target="_blank" style="margin-left:20px;" title="Topper Learning"><img width="36" height="35" border="0" style="border: 0px none ; " src="http://www.topperlearning.com/app/webroot/img/face_book_button.jpg"></a><!-- Facebook Badge END -->&nbsp;&nbsp;&nbsp;<a href="http://www.topperlearning.com/textbookhelp/" title="Topper Learning"><img width="95" height="34" border="0" style="border: 0px none ; " src="http://www.topperlearning.com/app/webroot/img/ncert_solution_button.jpg"></a>&nbsp;&nbsp;<!--<a href="http://www.topperlearning.com/examspecial/" title="Exam Special"><img width="95" height="34" border="0" style="border: 0px none ; " src="http://www.topperlearning.com/app/webroot/img/exam_success.jpg"></a> -->
+
+
+ <a href="http://www.topperlearning.com/aieee">
+          <img src="/img/aieee/aieee-tab.jpg" alt="">          </a>&nbsp;
+          <a href="http://www.topperlearning.com/aipmt">
+          <img src="/img/aieee/aipmt-tab.jpg" alt=""></a>
+<!--
+<a href="http://www.topperlearning.com/preboard">
+    <img src="/img/pre_board.jpg" alt="" /></a>
+-->
+</div>
 	</div>
    
 <div id="Content">
@@ -224,6 +278,24 @@ function topper_cookie(){
                 <div class="Clear H5">&nbsp;</div>
 
                 <div>Topper reserves the right to change this Privacy Statement at any time and we will take reasonable steps to advise you of any material changes. However‚ you should review this Privacy Statement from time to time to ensure that you are aware of and accept any changes made. For example‚ your continued consent to our collection, use and disclosure practices following notification of any material change and/or your continued access of our Website following the posting on the Website of any material changes to the privacy statement will signify your acceptance of‚ and agreement to be bound by‚ the terms of the modified Privacy Statement. </div>
+
+				 <div class="Clear H10">&nbsp;</div>
+
+                <div><strong>Privacy Policy for Horlicks Examskool</strong></div>
+
+                <div class="Clear H5">&nbsp;</div>
+
+                <div>
+                <!--GlaxoSmithKline Consumer Healthcare Limited (GSKCH), a company incorporated under the Companies Act, 1956 having its registered office at Patiala Road, Nabha, Punjab-147201 and the corporate office at DLF Plaza Tower, DLF City Phase I, Gurgaon 122002 is the only sponsor ("Sponsor") of the  EXAMSKOOL-HORLICKS a micro site ("Site") one of the websites under the GREYCELLS18 MEDIA LIMITED Sites owned by GREYCELLS18 MEDIA LIMITED, including "Topperlearning.com". GSKCH is not responsible for any personal information collected on this Site neither the content posted on this Site.
+                -->
+
+                GlaxoSmithKline Consumer Healthcare Limited (GSKCH), a company incorporated under the Companies Act, 1956 having its registered office at Patiala Road, Nabha, Punjab-147201 and the corporate office at DLF Plaza Tower, DLF City Phase I, Gurgaon 122002 is only the financial sponsor ("Sponsor") of the EXAMSKOOL-HORLICKS site. EXAMSKOOL-HORLICKS is a micro-site ("Site") under the website "Topperlearning.com". "Topperlearning.com" is one of the websites under GREYCELLS18 MEDIA LIMITED Sites which are owned by GREYCELLS18 MEDIA LIMITED. Further, GSKCH is not responsible or liable for any personal information collected on this Site neither the content posted on this Site. GSKCH, the Sponsor of the Site does not hold responsibility for the selection of the Winners, for any contest being conducted on this Site and / or the procedure used to select the Winners and / or any part of the Contest being conducted on the Site except for being the Sponsor.
+
+                </div>
+
+				 <div class="Clear H10">&nbsp;</div>
+
+                <div>"GlaxoSmithKline Consumer Healthcare Limited, the Sponsor of the Site does not hold responsibility for the selection of the Winners, the procedure used to select the Winners or any part of the Contest being conducted on the Site except for being the Sponsor." </div>
 
             </div> <!--GrayBox end-->
 
@@ -338,6 +410,48 @@ function topper_cookie(){
 </div>
 <!--FooterWap end here-->
 
+
+<script>
+    function submit_login()
+    {
+            if (window.event.keyCode == 13)
+            {
+                login_submit();
+            }
+    }
+</script>
+
+
+    
+<!-- code for sem activity of topper and junior-->
+<div id="sem_activity" title="" class="hidden">
+
+
+
+
+<table width="425" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="292" align="center" valign="middle" background="http://www.topperlearning.com/img/sem_img/login-bg.jpg" style="background-repeat:no-repeat"><table width="415" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="85" align="right" valign="top"><div class="close">
+                <img src="/img/sem_img/close.jpg" width="18" height="18" border="0" id="sem_close_div" style="cursor:pointer;" alt="">                </div></td>
+      </tr>
+      <tr>
+        <td height="195" align="center" valign="middle"><table width="410" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="205" align="center" valign="top"><a href="http://www.topperlearning.com/junior/"><img src="/img/sem_img/class6-8.jpg" width="136" height="189" border="0" alt=""></a></td>
+            <td width="205" align="center" valign="top"> <a href="http://www.topperlearning.com/"><img src="/img/sem_img/class9-12.jpg" width="133" height="182" border="0" alt=""></a></td>
+          </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+
+</div>
+
+
+
 <div id="feedback_float_button">
        <a href="/t/leave_an_enquiry/about-new-website"><img src="/img/feed_back2.png" alt=""></a>    
 </div>
@@ -374,7 +488,10 @@ pageTracker._trackPageview();
             <div class="SmallSucessMatter" style="width:100%">
                 <table border="0" cellpadding="0" cellspacing="0" align="center"> <tbody><tr>
                     <td valign="middle" align="center"><div class="FloatLeft"><img src="/img/confirm.png" alt=""> </div></td>
-                    <td valign="middle" align="center"><div class="SmallSucessTxt" style="font-weight: 900;"><strong class="successJsonMsg">Redirecting to dashboard...</strong></div></td>
+                    <td valign="middle" align="center"><div class="SmallSucessTxt" style="font-weight: 900;"><strong class="successJsonMsg">
+
+                    Redirecting to dashboard...
+                    </strong></div></td>
                 </tr>
                 </tbody></table>
             </div></div>
@@ -382,7 +499,7 @@ pageTracker._trackPageview();
         </tr>
       <tr>
         <td valign="middle" align="left" width="40%"><strong>Email ID</strong><span class="ColorRed">*</span></td>
-        <td valign="middle" align="left" width="60%"><input name="data[User][email]" type="text" size="35" class="login_popup_email" value="" id="UserEmail">                  </td>
+        <td valign="middle" align="left" width="60%"><input name="data[User][email]" type="text" size="35" class="login_popup_email" onkeypress="submit_login();" value="" id="UserEmail">                  </td>
       </tr>
       <tr>
         <td>&nbsp;</td>
@@ -390,7 +507,7 @@ pageTracker._trackPageview();
       </tr>
       <tr>
         <td valign="middle" align="left"><strong>Password</strong><span class="ColorRed">*</span></td>
-        <td valign="middle" align="left"><input type="password" name="data[User][password]" size="35" class="login_popup_password" value="" id="UserPassword">                  </td>
+        <td valign="middle" align="left"><input type="password" name="data[User][password]" size="35" class="login_popup_password" onkeypress="submit_login();" value="" id="UserPassword">                  </td>
       </tr>
      
       <tr>
