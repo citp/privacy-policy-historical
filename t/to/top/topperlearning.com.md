@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the topperlearning.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227085614id_/http%3A//www.topperlearning.com/t/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topperlearning.com privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409055011id_/http%3A//www.topperlearning.com/t/privacy_policy) for the most accurate reproduction.*
 
-# Online Coaching Courses | Online Tuition Classes | Effective Education Methods | CBSE Question Papers - Topperlearning.com
-
-Privacy Policy
+# Our Privacy Policy | Online Coaching Courses | Online Tuition Classes | Effective Education Methods | CBSE Question Papers
 
 **General**
 
@@ -31,3 +29,9 @@ From time to time we may set up websites in support of specific promotions. When
 **Changes to this Statement**
 
 Topper reserves the right to change this Privacy Statement at any time and we will take reasonable steps to advise you of any material changes. However‚ you should review this Privacy Statement from time to time to ensure that you are aware of and accept any changes made. For example‚ your continued consent to our collection, use and disclosure practices following notification of any material change and/or your continued access of our Website following the posting on the Website of any material changes to the privacy statement will signify your acceptance of‚ and agreement to be bound by‚ the terms of the modified Privacy Statement. 
+
+**Privacy Policy for Horlicks Examskool**
+
+GlaxoSmithKline Consumer Healthcare Limited (GSKCH), a company incorporated under the Companies Act, 1956 having its registered office at Patiala Road, Nabha, Punjab-147201 and the corporate office at DLF Plaza Tower, DLF City Phase I, Gurgaon 122002 is only the financial sponsor ("Sponsor") of the EXAMSKOOL-HORLICKS site. EXAMSKOOL-HORLICKS is a micro-site ("Site") under the website "Topperlearning.com". "Topperlearning.com" is one of the websites under GREYCELLS18 MEDIA LIMITED Sites which are owned by GREYCELLS18 MEDIA LIMITED. Further, GSKCH is not responsible or liable for any personal information collected on this Site neither the content posted on this Site. GSKCH, the Sponsor of the Site does not hold responsibility for the selection of the Winners, for any contest being conducted on this Site and / or the procedure used to select the Winners and / or any part of the Contest being conducted on the Site except for being the Sponsor. 
+
+"GlaxoSmithKline Consumer Healthcare Limited, the Sponsor of the Site does not hold responsibility for the selection of the Winners, the procedure used to select the Winners or any part of the Contest being conducted on the Site except for being the Sponsor." 
