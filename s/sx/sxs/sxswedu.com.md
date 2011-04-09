@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sxswedu.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208044030id_/http%3A//www.sxswedu.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sxswedu.com privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409174313id_/http%3A//www.sxswedu.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy | sxswedu.com
 
