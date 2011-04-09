@@ -1,31 +1,33 @@
-> *The following text is extracted and transformed from the joombloger.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203011824id_/http%3A//joombloger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joombloger.com privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409225826id_/http%3A//joombloger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Joomla Blogger
 
-Your privacy is important to us, as it is to you. We will not give, sell or rent your email address to any third party at any time, for any reason.
+**Privacy Policy for joombloger.com**
 
-When you register with us, we ask you to provide your email address and an account password. We use your email address to send administrative email messages to you from time to time.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at joomlabloger@joombloger.com.
 
-You can decide not to submit personal information, in which case we won’t be able to make the Black n White Consulting services available to you.
+At joombloger.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by joombloger.com and how it is used.
 
-When you visit this site, we send one or more cookie to your computer, for the purpose of uniquely identifying your browser. We use cookies to improve the quality of our services. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent, but that may make it impossible to use our services.
+**Log Files**  
+Like many other Web sites, joombloger.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-At your option, and in your sole discretion, you may provide us with certain demographic information, such as your age, city and country. This information is collected (and is/can be made public) to facilitate the social networking that is inherent in the services. We will not distribute that information with any other personal information about you, except to the extent that content you submit for publication on the site specifically includes any such personal information.
+**Cookies and Web Beacons**  
+joombloger.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-When you use our services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on joombloger.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to joombloger.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-When you send email or other communication to us, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. We won’t share any information you send to us in those communications with any third parties.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense  
+Amazon  
+Godaddy
 
-Our privacy policy applies only to this site. We do not exercise control over any site that may be linked to from content that is displayed within content on this site.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on joombloger.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-If at any time in the future, we propose to use personal information for any purposes other than our internal use in maintaining the services, troubleshooting, improving our services, etc., then we will offer you an effective way to opt out of the use of personal information for those other purposes.
+joombloger.com has no access to or control over these cookies that are used by third-party advertisers.
 
-If we become involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. joombloger.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who have registered with us, the volume and pattern of traffic to and within the site, etc. That information will not identify you, the individual, in any way.
-
-We restrict access to personal information to our employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
-
-Please note that this privacy policy may change from time to time. We will not reduce your rights under this policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of policy changes).
-
-If you have any questions about this policy, please feel free to contact us or to write to us at
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
