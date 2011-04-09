@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120202939id_/http%3A//www.hdrinc.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdrinc.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410005636id_/http%3A//www.hdrinc.com/terms/privacy) for the most accurate reproduction.*
 
 # Terms/Privacy < HDR, Inc.
 
 #### Copyright Statement
 
-The content provided by HDRinc.com unless otherwise noted, is copyrighted © 2010 HDR, Inc. All use of the HDRinc.com site is subject to the terms and conditions set forth below.
+The content provided by HDRinc.com unless otherwise noted, is copyrighted © 2011 HDR, Inc. All use of the HDRinc.com site is subject to the terms and conditions set forth below.
 
 #### Legal Notice
 
@@ -32,5 +32,4 @@ HDR, Inc. operates secure data networks protected by industry standard firewall 
 
 Any changes to HDR, Inc.'s privacy policy will be posted on our website(s). Visitors will always be informed about the use of the information they provide.
 
-[Contact Us](https://web.archive.org/contact-us?key=2197) if you have questions regarding this statement.  
- 
+[Contact Us](https://web.archive.org/contact-us?key=2197) if you have questions regarding this statement.
