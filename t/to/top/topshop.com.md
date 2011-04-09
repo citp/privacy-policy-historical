@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topshop.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225113606id_/http%3A//www.topshop.com/webapp/wcs/stores/servlet/StaticPageDisplay%3FstoreId%3D12556%26catalogId%3D33057%26identifier%3Dts2-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topshop.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410005443id_/http%3A//www.topshop.com/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd%3FcatalogId%3D33057%26storeId%3D12556%26langId%3D-1%26viewAllFlag%3Dfalse%26categoryId%3D277997%26interstitial%3Dtrue%26TS%3D1302164664100%26intcmpid%3DW_FOOTER_WK39_HP_UK_PRIVACY_POLICY) for the most accurate reproduction.*
 
 # Privacy Policy - Topshop
 
@@ -12,7 +12,7 @@ Your data will enable us, and our processors, to fulfil your order, to notify yo
 
 •    All email messages and email newsletters will contain information on how you can unsubscribe; or  
 •    Send an email to our customer services division on [feedback@topshop.com](mailto:feedback@topshop.com) writing "unsubscribe" in the subject heading; or  
-•    Call our customer services division - see the "[Contact Us](https://web.archive.org/webapp/wcs/stores/servlet/StaticPageDisplay?storeId=12556&catalogId=33057&identifier=ts2-help#show-fragment-8)" section; or  
+•    Call our customer services division - see the "[Contact Us](https://web.archive.org/webapp/wcs/stores/servlet/CatalogNavigationSearchResultCmd?catalogId=33057&storeId=12556&langId=-1&viewAllFlag=false&categoryId=277544&interstitial=true&TS=1302084478900#show-fragment-8)" section; or  
 •    Write to us at: Customer Services, Arcadia Group Limited, Colegrave House, 70 Berners Street, London W1T 3NL
 
 In assessing your request for goods or services, we may use your information for the purposes of the prevention and detection of fraud.
