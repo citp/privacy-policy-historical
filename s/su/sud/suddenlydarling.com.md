@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suddenlydarling.com privacy policy that was archived on 2010-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100220123754id_/http%3A//www.suddenlydarling.com/suddenly-darling-privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suddenlydarling.com privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409211815id_/http%3A//www.suddenlydarling.com/suddenly-darling-privacy-notice.html) for the most accurate reproduction.*
 
 # Suddenly Darling Privacy Notice
 
