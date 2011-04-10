@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlaseforex.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123113117id_/http%3A//www.atlaseforex.com/Licenses-and-documents/Privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlaseforex.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410195915id_/http%3A//www.atlaseforex.com/licenses-and-documents/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — Licenses and documents — Atlas eForex
 
