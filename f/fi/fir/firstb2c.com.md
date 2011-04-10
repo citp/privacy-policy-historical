@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstb2c.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203010651id_/http%3A//www.firstb2c.com/page/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstb2c.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410033744id_/http%3A//www.firstb2c.com/page/security.html) for the most accurate reproduction.*
 
 # Security and Privacy - firstb2c.com
 
