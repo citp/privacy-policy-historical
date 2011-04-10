@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cleeng.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211100250id_/http%3A//www.cleeng.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleeng.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410115249id_/http%3A//cleeng.com/privacy) for the most accurate reproduction.*
 
-# Cleeng - Cleeng Privacy Policy
+# Cleeng Privacy Policy Cleeng
 
 **IMPORTANT – PLEASE READ CAREFULY**
 
-Cleeng believes that your privacy is very important. Cleeng respects the privacy of all the Users and Publishers of the Cleeng Service and all data and personal information provided by a User or Publisher will be treated as confidential. WE WILL NEVER SELL YOUR DATA TO THIRD PARTIES. The information we collect is solely used for operating and improving our process and the Cleeng services.
+Cleeng believes that your privacy is very important. Cleeng respects the privacy of all the Users and Publishers of the Cleeng Service and all data and personal information provided by a User or Publisher will be treated as confidential. WE WILL NEVER SELL YOUR DATA TO THIRD PARTIES and our business model is not direct marketing. The information we collect is solely used for operating and improving our process and the Cleeng services.
 
 Our Privacy policy is based on the following principles:
 
@@ -18,7 +18,7 @@ Other than the information you have provided to Cleeng, Cleeng also stores certa
 
 **3- Never sell customer data**
 
-Cleeng will not sell your personal information and data to any third party. Personal data will only be made available to a third party if, and in so far as, is needed for providing you with (for example with payment providers) or for improving the Cleeng Service (for example if needed for customer service purposes). Third parties are at all times obliged to respect the confidentiality of your personal information and data.
+Cleeng will not sell your personal information and data to any third party. Personal data will only be made available to a third party if, and in so far as, is needed for providing you with, or for improving, the Cleeng Service (for example for processing payment done with the company Adyen B.V., or if needed for customer service purposes). Third parties are at all times obliged to respect the confidentiality of your personal information and data. We don’t sell or share user data for marketing purpose.
 
 **4- Clear opt-in policy**
 
