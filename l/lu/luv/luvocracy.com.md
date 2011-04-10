@@ -1,0 +1,103 @@
+> *The following text is extracted and transformed from the luvocracy.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410130339id_/http%3A//www.luvocracy.com/privacy) for the most accurate reproduction.*
+
+# Luvocracy
+
+[MAIN](https://web.archive.org/splash)
+
+For the same reason everyone has the right to save money on the stuff they luv in the privacy of their own home. For the same reason everyone has a right to look for great deals after everyone else goes to bed. That’s why we believe everyone has a right to keep their information private and to know how their information is being used.
+
+Please be aware, this Privacy Policy may be revised from time to time. By accessing any of the applications created by Luvocracy (the "Applications") you agree to the terms of the most recent version of this Privacy Policy. By agreeing, you authorize us to collect and use your information as outlined below. In the event you do not agree with any modifications made to this Privacy Policy, your only recourse is to cease use of the Applications.
+
+Remember, the Applications that exist on the Facebook platform, and your activities on Facebook beyond the scope of the Applications may be governed by Facebook's privacy policy, not ours. You can find Facebook's privacy policy here: http://www.facebook.com/policy.php.
+
+### WHAT IS PERSONAL INFORMATION?
+
+"Personal Information" can mean different things to different people. We define "Personal Information" as information that identifies you or that can be used to contact you (online or offline). Personal Information can include things like your name, e-mail address, physical address, telephone number, drivers' license, etc.
+
+### HOW DO WE END UP WITH PERSONAL INFORMATION ABOUT YOU?
+
+Since the use of Personal Information is necessary to improving the quality of our applications, we collect that information in a variety of ways:
+
+Information from Facebook: When you install any of the Applications, we may obtain information about you from Facebook. The information we receive from Facebook includes things such as your name, locale, affiliations and gender.
+
+Facebook restricts the scope and uses of this information in its Developer Policies (http://developers.facebook.com/policy) and Statement of Rights (http://www.facebook.com/policy.php#!/terms.php). Luvocracy has every intention to abide by these rules and restrictions.
+
+Information from Third Parties: We may use service providers to provide you with a superior experience and they may share information they collect about you with us. Personal Information you provide to those third parties will fall under their respective privacy policies. If such a third party provides us with your Personal Information, we will handle it in accordance with this privacy policy. Please be aware that the information retained by any third party is governed by their privacy policy, not ours. %p
+
+Information from You: You may choose to voluntarily provide us with information by registering or communicating with Luvocracy. We will collect and record the information you have provided by registration or communicating with us. Other than names and e-mail addresses, we generally do not collect Personal Information through the registration process.
+
+Viral Components: If you refer another user to us, we may collect and retain information you provide to us such as the name and e-mail address of the referred individual.
+
+### WHAT NON-PERSONAL INFORMATION DO YOU COLLECT?
+
+In addition to Personal Information, we collect a variety of data that could not be used to identify or contact you. Data are used to enhance the quality of our applications and other services. Here are some of the forms of non-personal information we collect:
+
+Application Interaction Information: We may collect and retain information relating to your interaction with our application. For example, we may monitor the length of time you spend on our application, the number and type of activities you participate in during a particular session, and your preferences.
+
+General Use Information: We may also collect general information about your interaction with our product such as your internet protocol address, browser type, referring and exit URLs, click amounts, domain names, pages viewed, the amount of time spent viewing a particular page, the time of such activities, etc.
+
+### USER GENERATED CONTENT
+
+It is possible you may choose to share additional information about yourself through user generated content. User generated content may be defined as various kinds of content, publicly available, that are produced by end users (for example, wall posts, messages, and actions with other end users).
+
+It is possible that the user generated content you choose to provide may contain Personal Information. Please be aware that we cannot guarantee protection for information you make available publicly through things such as comments, wall posts, etc. Additionally, it is likely that user generated content will be disseminated broadly through third parties such as Facebook. Please keep this in mind before sharing any content with us.
+
+Further, users should be aware that such public data may be harvested by third parties with access to it (such as other users) and we cannot control those third parties' use of such information.
+
+### WHAT WE DO NOT DO WITH YOUR INFORMATION
+
+We Do Not Transfer Facebook Data. We do not directly or indirectly transfer any personal information we receive from Facebook to third parties. However, you should recognize that we may display the information we receive from Facebook within our Applications. For example, we may display your profile picture and name so people can identify you in the Applications.
+
+We Do Not Sell, Lease, Rent Or Transfer Your Personal Information. We collect information for the purpose of improving our services. We may make certain aggregate information available to third parties (as outlined below), but we will not sell, rent, lease or otherwise transfer your Personal Information to any third parties except as provided below.
+
+We May Log, But We Will Not Disclose, Individual Internet Protocol Addresses: We may maintain log files which contain IP addresses for purposes such as traffic monitoring. As you know, an IP address is a numeric address assigned to your computer (or router) by your Internet Service Provider. We will not disclose individual IP addresses to third parties.
+
+But please be aware, we will disclose information, including Personal Information, to the extent it may be necessary to prevent harm to third parties or it is required by law (as we specify below).
+
+### WHAT WE MAY DO WITH INFORMATION WE COLLECT
+
+Here are some of the things we may do with the information we collect. This includes both Personal Information and non-personal information. If we determine there are additional things we would like to do, we'll amend this section to let you know about it.
+
+Improve Our Services. We may use the information we collect to improve the quality of our applications, facilitate application development as well as offer new features to you. This might include looking at how certain segments of the user-base interact with our product and what areas they may be most interested in seeing more content. We will also use the information to optimize our content by locating bugs in our applications.
+
+Notifications. We occasionally feel a pressing need to reach out to our users. Thankfully, the personal information you provide us with will enable us to do that. We may contact you with application-related announcement from time to time. You may opt out of these communications at any time.
+
+Aggregate Data. Occasionally, Personal Information and non-personal information is more useful when we lump it in a big pile to get a better understanding of the general characteristics of our user-base. For example, knowing that 30% of our users are from from a particular location may be important. We may disclose these general statistics (which will not include information capable of identifying or contacting any particular user) to enhance customer service, tailor the Application to your interests or optimize the Applications.
+
+Offers. We may provide offers from particular merchants who, as part of the offer, request information on customers who purchase the offer through Luvocracy. In those cases, we share some of your Personal Information with Luvocracy Merchants in order to fulfill your order. We specifically disclaim any responsibility or liability for the actions of any such Luvocracy Merchant based on their use of your Personal Information.
+
+Viral Components. You may decide to refer a friend to one of our Applications. Typically this will be handled through built-in application mechanics that will not involve the transfer of any Personal Information to Luvocracy. However, in the event you or a third party service provide us with Personal Information relating to a referral, we will store it for a short period to ensure the referral took place and then eliminate the information.
+
+Legal Requests and Harm Prevention. We may disclose information pursuant to subpoenas, court orders, or other requests if we have a good faith belief that the response is required by law. We may also share information when we have a good faith belief it is necessary to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to protect ourselves and you from people violating the Terms of Service. This may include sharing information with other companies, lawyers, courts or other government entities.
+
+Transfer in the Event of Sale or Change of Control. If the ownership of all or substantially all of our business changes, we may transfer your information to the new owner so that the services we provide you can continue to operate. In such a case, your information would remain subject to the promises made in any pre-existing Privacy Policy.
+
+### SECURITY OF OUR SITE
+
+We use encryption and authentication tools to protect the security of the information that you share with us. Once we receive your transmission, we will do our best to protect its security on our systems. For example, we protect personal information we gather on a secured server behind a firewall; it is not directly connected to the Internet.
+
+Unfortunately, however, no data transmission over the Internet can be guaranteed 100% secure. As a result, while we strive to protect your personal information, we cannot guarantee the security of any information you transmit to or from our Site, and you do so at your own risk. Accordingly, we disclaim liability for any theft, loss, or interception of or any unauthorized access or damage to any data or communications. By using the Site, you acknowledge that you understand and agree to assume these risks.
+
+### OPTING OUT
+
+You may review, update, correct or delete personal information we receive from Facebook by updating that information on your Facebook profile. If you elect to register with us and you would like to review, update, correct or delete that personal information, you may do so by removing and unsubscribing yourself in our email notifications.
+
+### COOKIES
+
+We, and some of our third party service providers, may use cookies. A "cookie" is small file that we save on your computer's hard drive that contains non-personal information. These cookies help to give you faster access to pages you have already visited. They also allow you to personalize your pages and optimize your experience on our Applications. We also use cookies to help us figure out how many people visit our Applications and how they interact with the Applications. You can disable cookies on your computer by indicating this in the preference or options menus in your browser. Disabling cookies may prevent you from properly using the Applications or accessing the site.
+
+### LINKS
+
+It is fair to say the internet is a somewhat "dynamic" space and you may see links in the Applications that might take you into that broader universe. Because we cannot control the activities of third parties, we cannot accept responsibility for your use of their services or for any use of your personal information by such third parties and we cannot guarantee that they will adhere to the same privacy and security practices as ourselves. The presence of a third party link within the Applications does not represent an endorsement of the content of that third party's link and Luvocracy disclaims all liability arising from such content.
+
+### CHILDREN AND PRIVACY
+
+The Applications are not directed to children under the age of 13 years. In fact, children under the age of 13 years are prohibited from accessing Facebook under Facebook's Terms of Service.
+
+We will never request personally identifiable information from anyone whom we know to be under the age of 13 without verifiable parental consent. By using the Application, you represent and warrant that you are at least 13 years old. If we become aware that a customer is under the age of 13 and has registered without prior verifiable parental consent, we will remove that user's personal information.
+
+We recommend that all minors 13 years and older seek parental consent before sending information about themselves to any individual or over the internet.
+
+### QUESTIONS
+
+If you need any other information, please submit your requests or questions to citizens [at] Luvocracy [dot] com.
