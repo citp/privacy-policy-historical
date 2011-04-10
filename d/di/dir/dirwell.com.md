@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirwell.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214115447id_/http%3A//dirwell.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirwell.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411003747id_/http%3A//dirwell.com/privacy-policy) for the most accurate reproduction.*
 
 # Directory Well - Web Directory- Privacy Policy
 
@@ -26,7 +26,7 @@ We will only communicate with the user, if it requires and if the user has sign 
 
 ### Promotional Campaigns
 
-We do make frequent promotional campaigns or special offers for advertisers on our website, and we announce these changes or offers via emails, which can be received only by our subscribed members, if you wish, not to receive these promotions. You can easily be removed / deleted from _Unsubscribe Me_ or by emailing us. 
+We do make frequent promotional campaigns or special offers for advertisers on our website, and we announce these changes or offers via emails, which can be received only by our subscribed members, if you wish, not to receive these promotions. You can easily be removed / deleted from _Unsubscribe Me_ or by _[emailing us](https://web.archive.org/contact.php)_. 
 
 ### External Links
 
