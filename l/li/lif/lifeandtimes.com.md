@@ -1,159 +1,95 @@
-> *The following text is extracted and transformed from the lifeandtimes.com privacy policy that was archived on 2005-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeandtimes.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410235727id_/http%3A//lifeandtimes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Network Solutions
+# Privacy policyLife + Times | Life + Times
 
-Privacy Policy  
+Use Of This Site By Children
+    
 
+The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide Personally Identifiable Information (as defined below) through the Site. Children under the age of 13 may only register as a member with the confirmed consent of a parent or legal guardian. If a parent or guardian becomes aware that his or her child has provided us with Personally Identifiable Information without the parent or guardian's consent by, for example, misrepresenting his or her age, that parent or guardian should contact us at [so@scarterenterprises.com](mailto:so@scarterenterprises.com). If LifeandTimes.com determines that it has collected personal information of children under the age of 13 without parental consent, LifeandTimes.com will immediately delete such information and any accounts believed to be held by children under 13. Please see our Terms of Use for additional information regarding the use of this Site by minors. Accordingly, we request that person's age and residence before we permit anyone to register with our site, open an account, participate in any games, contests or sweepstakes, purchase tickets or other merchandise or to request any information, products or services offered by our site. We do not accept any such registration from, or provide any product or service to, any visitor who identifies himself or herself as being under the applicable age limit without confirmed parental consent. If we discover any Personally Identifiable Information from anyone who is under the applicable age limit provided without parental consent, we will promptly delete it.
 
-  
-Updated September 30, 2004  
-Version 2.4
+1.What Information We Collect
+    
 
-**Privacy Topics  
-**   
-Why A Privacy Policy?  
-Getting to Know our Customers  
-Third Party Advertising and Cookies  
-Information Corrections or Changes  
-How We Put Information to Good Use  
-With Whom We May Share Information  
-How Do I Get My Name Removed from Bulk Access  
-Our Accountability to You  
-Employee Accountability  
-The Accountability of Network Solutions' Agents and Business Partners  
-Notification of Changes
+LifeandTimes.com gathers two basic types of information through the Site: "Personally Identifiable Information" (or "PII") and "Non-Personally Identifiable Information" (or "Non-PII"). PII is information that identifies or can identify you as an individual (such as residential address or telephone number) and Non-PII is aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.
 
-**Why A Privacy Policy?**   
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
-
-**This Privacy Policy protects your privacy by:**
-
-**Informing you about:**
-
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
-
-**Empowering you to choose:**  
-
-
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
-
-**Assuring you that Network Solutions:**  
-
-
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
-
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
-
-**Getting to Know Our Customers**
-
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
-
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
-
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
-
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
-
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
-
-**Third Party Advertising and Cookies**
-
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
-
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/"). 
-
-**Information Corrections or Changes  
-**   
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
-
-**How We Put Information to Good Use  
-**   
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
-
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
-
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
-
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
-
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
-
-**With Whom We May Share Information  
-**   
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
-
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
-
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent. 
-
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and  
-
-  5. Click “SAVE.”  
-
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
-**How Do I Get My Name Removed from Bulk Access  
-**   
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20050513204045id_/http%3A//www.networksolutions.com/en_US/legal/www.networksolutions.com;jsessionid=RSNRVHQUXMVCCCWMEAPSFFA "www.networksolutions.com");  
-
-  2. Click “Edit User Info” in the left menu;  
-
-  3. Scroll to the bottom of the page;  
-
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and  
-
-  5. Click “SAVE.”   
+  * a. Non-Personally Identifiable Information - When you visit and interact with the Site, LifeandTimes.com and third parties with whom LifeandTimes.com has contracted to provide services to LifeandTimes.com may collect Non-PII (for example, a catalog of the Site pages you visit). Non-PII is anonymous and does not identify you personally. Non-PII is generally collected through the Site from four different sources: Internet protocol addresses and web logs; cookies; pixel tags and other similar technologies; and other Non-PII that you voluntarily provide (as explained below). 
+    * i. IP Protocol Addresses and Web Logs - This Site's web servers automatically collect the Internet Protocol (IP) addresses and log files of visitors. Your IP address is an identifying number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. This information is collected in an aggregate form only and does not contain any PII. We use your IP address, and the IP addresses of all users, for purposes such as calculating Site usage levels, helping diagnose problems with the Site's servers, and administering the Site. Collecting IP addresses is standard practice on the Internet and is done automatically by many websites. 
+    * ii. Cookies - We and our service providers may use a standard technology called a "cookie" to collect information about how you use the Site. Cookies reside on your computer and help the Site recognize your computer's browser as a previous visitor. In addition, on occasion our Site may also set a "session cookie" which helps us administer the Site. The session cookie expires when you close your browser and does not retain any information about you after it expires. If you do not want information collected through the use of cookies, you should be able to modify your browser preference to provide you with choices relating to cookies. For example, if you use a standard browser, you should have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies, you may be unable to use certain Site services (e.g., those services that require you to log on to the Site in order to participate). For more information on modifying your browser preference, please refer to the documentation accompanying your browser. 
+    * iii. Pixel Tags - We and our service providers may also use so-called "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") in connection with some Site pages and HTML-formatted email messages to, among other things, compile aggregate statistics about Site usage and response rates. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors' hard drives. Pixel Tags do not contain any PII and allow us to count users who have visited certain pages of the Site, to deliver branded services, and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted email messages, Pixel Tags can tell the sender whether and when an email has been opened. 
+    * iv. Information You Voluntarily Provide - We may also collect certain information (e.g., your geographic location, your genre preferences etc.) when you voluntarily provide such information to us. When such information is not combined with any PII, such information is considered to be Non-PII, as it does not personally identify you or any other user. Additionally, we may aggregate PII in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using PII to calculate the percentage of our users who have a particular telephone area code. Such aggregate information is considered Non-PII for purposes of this Policy.
+  * b. Personally Identifiable Information - You may use many features of this Site without providing any PII. However, in order to take advantage of particular opportunities made available through the Site (for example, to access additional services provided by this Site such as concert updates, commenting, and/or personalized content) we may require that you furnish PII to us such as: your name, postal address, telephone number, email address, age and gender. We collect PII from you through the Site only when you voluntarily provide it.
 
 
 
+2\. How Information We Collect Is Used 
+    
 
-**Our Accountability to You  
-**   
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+  * a. Non-Personally Identifiable Information - Because Non-PII does not personally identify you, we may use such information for any purpose. For example, we may use Non-PII to measure the number of visits, average time spent on the Site and pages viewed as well as to diagnose problems with our servers and to administer the Site. We may then use this information to analyze and improve the features and functionality of this Site. We may use non-PII information about you and other Site visitors on an aggregate basis to sell and deliver advertising, promotions and content that we believe will be of interest to you. In addition, we reserve the right to share such Non-PII, which does not personally identify you, with third parties, for any purpose. For example, we may share information with advertisers or other third parties that are not part of the LifeandTimes.com on an aggregate or other basis that does not disclose any of your PII.  
+In some instances, we may combine Non-PII with PII (such as embedding email addresses in cookies). If we do combine any Non-PII with PII, the combined information will be treated as PII as long as it is so combined. This "combined" PII is not shared with third parties, except as described in this Policy. 
+    * iii. Administrative Matters: LifeandTimes.com reserves the right to contact you in the event of a change in the Site's Terms of Use and/or this Privacy Policy, or to notify you of other administrative matters in connection with the Site (e.g., contacting you to facilitate, complete or confirm a transaction). Because this information may be important to your use of the Site, you may not opt-out of receiving such communications. 
+    * iv. Fulfillment of Requests: LifeandTimes.com may use your PII to fulfill the purpose for which such PII was provided (e.g., to confirm your registration or fulfill your purchase). 
+    * v. Facilitation of Transactions: Please note that, at times, forms on the Site may be pre-populated with your PII in order to facilitate a transaction between you and RocNation.com.
+    * vi. Internal Business Purposes: We may also use your PII for our internal business purposes, such as to target advertising, for data analysis, for audits and for other internal purposes. to process your credit card or payment account number and to send you products you have ordered). 
+    * viii. Email This to a Friend: The Site may allow you to forward certain items posted on Site or links to Site features by email or Instant Messenger to other parties who you believe may be interested. If you wish to use this feature, you may provide us with such other party's email address or Instant Messenger screen name so that we can facilitate your sending of such message to such other party. To do so, any PII you provide in connection with sending such other party the message, such as your name and your email address or Instant Messenger screen name, will, of course, be disclosed to such other party. While, due to technical restrictions, the recipient's email address or Instant Messenger screen names may be retained in our log files, we do not knowingly share it with third parties and we do not use this PII for any purpose except to send this message (unless the recipient has already consented to such use of his/her PII). 
+    * ix. Online Surveys/Sweepstakes and Contests: From time to time, we may conduct online surveys and offer online sweepstakes or contests on the Site (each, a "Promotion"), and we may collect PII in connection with the same. We may use your PII to contact you regarding your Promotion entry, or to contact you if you win a Promotion (if applicable). You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about LifeandTimes.com’s use of your PII. To the extent such rules conflict with this Privacy Policy, such rules will govern that particular Promotion. 
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
 
-**Employee Accountability  
-**   
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
+3\. How Personally Identifiable Information We Collect Is Disclosed
+    
 
-**The Accountability of Network Solutions' Agents and Business Partners  
-**   
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+  * a. Affiliate Communications: If you choose to opt-in, we may share your PII with our affiliates so that they may send you announcements and notifications of events, products or services that might be of interest to you. For further information, please see the "Opt-In Policy" section below. 
+  * b. Third Party Communications: If you choose to opt-in, we may also share your PII with third parties to allow such third parties to send promotional communications to you. For further information, please see the "Opt-In Policy" section below. 
+  * c. Public Forums and Other Interactive Features: Please be aware that when you disclose PII in a profile, message board or news groups on the Site, the information may become public and accessible to all or a part of the Site community, so it is important for you to exercise discretion and appropriate caution when deciding to reveal PII in these areas. In addition, when you choose to make a posting on such services, certain PII may be available for other users to view. We urge you to exercise discretion and caution when deciding to disclose your PII, or any other information, on the Site. WE ARE NOT RESPONSIBLE FOR THE USE OF ANY PII YOU VOLUNTARILY DISCLOSE THROUGH THE SITE VIA PROFILES AND OTHER INTERACTIVE FEATURES. Please note that we reserve the right, but have no obligation, to republish content posted in on the Site (including any PII contained therein) as further set forth in our Terms of Use Agreement. 
+  * d. In the event that you encounter any Site user who you believe is improperly collecting or using information about you or other users, please send us an email about such collection or use. 
+  * e. Online Surveys/Sweepstakes and Contests: We reserve the right to share PII collected in connection with Promotions with the third-party sponsors of any such Promotions (irrespective of whether such Promotions are hosted by us), or otherwise in accordance with the rules applicable to such Promotion. You should carefully review the rules, if any, of each Promotion in which you participate through the Site, as they may contain additional important information about a sponsor's or other third parties' use of your PII. To the extent such rules conflict with this Privacy Policy, such rules will govern that particular Promotion. 
+  * f. Compliance With Applicable Law: LifeandTimes.com may also access and disclose PII as needed to: (1) comply with applicable laws; (2) respond to governmental inquiries or requests; (3) comply with valid legal process; (4) protect the rights, privacy, safety or property of LifeandTimes.com, Site visitors or the public; (5) permit us to pursue available remedies or limit the damages that we may sustain; and (6) enforce our Terms of Use or other published guidelines. 
+  * g. Assignment: We reserve the right to transfer any and all information that we collect from users of the Site to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of Shawn Carter’s business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings).
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
 
-**Notification of Changes  
-**   
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+4\. Collection Of Information By Third Parties 
+    
 
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).   
-**
+  * a. Co-Branded Pages - We may enter into relationships with "powered by" partners, business partners, sponsors, and co-branded sites (referred to here as "co-branded pages"). These might include, for example, pages that share our name and that of another entity. You should look for a specific privacy policy on any such co-branded page. Any PII that you provide when signing up at any co-branded page may be collected by, or shared with, our third-party partner. We have no control over, and are not responsible for, our partners' use of your PII. You should check our posted partners' websites for information regarding their privacy policies.
+  * b. Transactions With E-Commerce Partners, Vendors and Advertisers - When you provide PII to one of our Site's e-commerce partners, vendors or advertisers, this transaction will occur in connection with the site of the e-commerce partner, vendor or advertiser, not on the Site, and, as such, the PII you provide is collected pursuant to and controlled by the privacy policy of such e-commerce partner, vendor or advertiser. LifeandTimes.com is not responsible for such parties' privacy policies and we encourage you to familiarize yourself with the applicable privacy policy of the e-commerce site with which you transact business or to contact the operator of such site for more information. Please be aware that at times, at the request of or on behalf of our e-commerce partners, vendors or advertisers, LifeandTimes.com may "pre-populate" forms with your PII for your review, and, if you so choose, for submission to such e-commerce partners, vendors or advertisers. Accordingly, we encourage you to review each pre-populated form carefully before agreeing to submit your PII to determine who is seeking to collect your information, and to familiarize yourself with the applicable privacy policy governing use of any PII collected about you.
+  * c. Third Party Advertising - The ads appearing on this Site are delivered to you by our web advertising partner. Non-PII about your visits to this Site, such as number of times you have viewed an ad, is used to serve ads to you. In the course of serving advertisements to this Site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+  * d. Third Party Links - The Site may contain links to third-party Internet websites, which are not owned or operated by LifeandTimes.com. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by LifeandTimes.com. If you provide any PII through any such third-party website, your transaction will occur on such third party's website (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party. We are not responsible for the privacy practices or the content of such third-party websites, including such websites' use of any PII that you provide to them. We strongly encourage you to become familiar with the privacy practices of those sites. 
+
+
+
+PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.
+
+5\. Accessing, Updating Or Deleting Information Collected About You
+    
+
+This Site also gives you the opportunity to modify or remove PII that you have provided to us by way of this Site. You may do so by modifying your password-protected registered user information on the Site. To the extent that such information is stored in our databases, we will respond to your changes as soon as reasonably possible, although please understand that although this information, once deleted, is not available on the Site, that information may remain stored indefinitely in our backup and archival records. To the extent that such information is not stored in our databases, we cannot always ensure that these corrections or deletions will reach such other databases in a timely manner.
+
+6\. Security Of Your PII
+    
+
+LifeandTimes.com employs reasonable security measures consistent with standard industry practice, for PII collected through this Site, including physical, electronic and operational measures to maintain security and prevent unauthorized access. While LifeandTimes.com takes all appropriate steps to safeguard PII under our control, unfortunately, no data transmission over the Internet or method of storing data can be guaranteed to be 100% secure. As such, we cannot guarantee that PII supplied by users will not be accessed on our servers, or intercepted while being transmitted to us over the Internet. We assume no liability for any damages you may suffer as a result of interception, alteration or misuse of information during such transfers. If you have reason to believe that there has been any breach of the security of the Site, please contact us at [privacy@scarterenterprises.com](mailto:privacy@scarterenterprises.com). Please remember that security of the username and password you create when you register with the Site is your responsibility; we recommend that you do not share them with anyone. If you share your username and password, you are providing access to your PII. You will be responsible for all uses of your registration, whether or not authorized by you. You agree to immediately notify S. Carter Enterprises of any unauthorized use of your username or password. 
+
+7\. Offline VS. Online Practices 
+    
+
+Please note that this Privacy Policy applies solely to our online information gathering and dissemination practices in connection with the Site, and does not apply to any of our practices conducted offline. 
+
+8\. Contacting LifeandTimes.com Regarding This Site 
+    
+
+If you have any questions concerning this Policy, you may send them by email to our Privacy Officer at [privacy@scarterenterprises.com](mailto:privacy@scarterenterprises.com). Please note that email communications will not necessarily be secure; accordingly you should not include sensitive information in your email correspondence with us. 
+
+9\. Access To Your PII 
+    
+
+We appreciate your assistance in keeping your PII up to date and accurate. You are entitled to access, verify, amend and/or correct your PII collected by LifeandTimes.com. You are encouraged to contact our Privacy Officer [privacy@scarterenterprises.com](mailto:privacy@scarterenterprises.com), or the below postal address to verify, correct or update your PII. 
+
+If you have a concern regarding the collection, use or disclosure of your PII by LifeandTimes.com, please contact our Privacy Officer. Your concern will be investigated and you will be notified as soon as possible of the outcome of the investigation and any action required as a result. 
+
+Att: LifeandTimes.com   
+S. Carter Enterprises  
+1411 Broadway 39th Floor   
+New York, NY 10018
+
+Policy Updated: 1.31.2011
