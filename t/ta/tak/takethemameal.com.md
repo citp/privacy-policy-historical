@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the takethemameal.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210142251id_/http%3A//www.takethemameal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takethemameal.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411204821id_/http%3A//takethemameal.com/privacy.php) for the most accurate reproduction.*
 
-# Take Them A Meal | a free online tool for coordinating the delivery of meals to someone in need
+# Take Them A Meal | simplifying meal coordination so friends, family, neighbors and co-workers can show they care
 
 privacy policy . . . 
 
@@ -19,4 +19,4 @@ From time to time we may send an e-mail to all past meal coordinators and meal p
 In what ways can the general public access the information stored on TakeThemAMeal.com?   
 As is hopefully evident through use of TakeThemAMeal.com, information can only be accessed by knowing the last name and user password for a meal recipient. 
 
-[**Take me back to schedule some meals!**](https://web.archive.org/web/20101210142251id_/http%3A//www.takethemameal.com/index.php)
+[**Take me back to schedule some meals!**](https://web.archive.org/web/20110411204821id_/http%3A//takethemameal.com/index.php)
