@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the plusnetwork.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216085412id_/http%3A//www.plusnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plusnetwork.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411104747id_/http%3A//www.plusnetwork.com/privacy) for the most accurate reproduction.*
 
-# Search Plus!
-
-Viewing site in 
-
-[ ](http://www.plusnetwork.com/)
+# Search Plus! – 隐私声明
 
   
 
@@ -33,6 +29,5 @@ We may use cookies. A cookie is a small amount of data which is stored on your c
 
 We would be grateful if you would also let us know (at [Contact Us](http://www.plusnetwork.com/contact_us)) if you have any comments on this site or have spotted any errors or non-functioning parts of the site.
 
-## Ask.com:
-
+Ask.com:  
 In addition to our privacy policy, please review the following privacy policy for the Ask search engine: <http://sp.uk.ask.com/en/docs/about/privacy.shtml>
