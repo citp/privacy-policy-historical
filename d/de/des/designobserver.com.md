@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designobserver.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225003753id_/http%3A//designobserver.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designobserver.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411200747id_/http%3A//designobserver.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Design Observer
 
@@ -8,7 +8,7 @@ Non-personally identifiable information such as site usage information is occasi
 
 We collect personal information when you provide it to us by sending an email to us or signing up to receive a newsletter or posting comments.
 
-We may disclose and use personal information in special circumstances when it is necessary to enforce our [User Agreement](https://web.archive.org/web/20101225003753id_/http%3A//designobserver.com/termsofuse.html) or this Privacy Policy, or when we, in good faith, believe that the law requires us to disclose your personal information to third parties. This policy does not protect information you post to any on-line comment board, chat room, newsgroup, job board or other public forum within the Design Observer Group Sites.
+We may disclose and use personal information in special circumstances when it is necessary to enforce our [User Agreement](https://web.archive.org/termsofuse.html) or this Privacy Policy, or when we, in good faith, believe that the law requires us to disclose your personal information to third parties. This policy does not protect information you post to any on-line comment board, chat room, newsgroup, job board or other public forum within the Design Observer Group Sites.
 
 The personal information we collect from you is stored on our data host’s secure servers. Within Observer, only authorized personnel have access to your information. Despite our best efforts, no transmission over the Internet can be guaranteed to be 100% secure. Therefore, you provide us with your personal information at your own risk.
 
