@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paniniamerica.net privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210074537id_/http%3A//paniniamerica.net/privacyStatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paniniamerica.net privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411150740id_/http%3A//paniniamerica.net/privacyStatement.cfm) for the most accurate reproduction.*
 
 # Panini America formerly Donruss Trading Card Company
 
@@ -58,13 +58,14 @@ Unless there is a material change in the way we collect data or the way we use d
 **Contact Information:**  
 _COPPA Concerns_  
 Panini America, Inc.  
-2300 E. Randol Mill Road  
-Arlington, TX 76012 
+5325 FAA Blvd.  
+Suite 100  
+Irving, TX 75061 
 
 **The Phone Number is:** (817) 983-0203. 
 
 Please note that this number is for questions about the Privacy statement, or for a contact to remove your child from a web-based database. It is not for Customer Service questions. 
 
-[Click here to contact us concerning privacy issues.](https://web.archive.org/web/20101210074537id_/http%3A//paniniamerica.net/custserv.cfm?t=privacy#contact)
+[Click here to contact us concerning privacy issues.](https://web.archive.org/web/20110411150740id_/http%3A//paniniamerica.net/custserv.cfm?t=privacy#contact)
 
 THIS PRIVACY POLICY WAS LAST UPDATED ON 3/28/2008 
