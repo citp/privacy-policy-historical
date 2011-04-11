@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metcams.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627022931id_/http%3A//www.metcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metcams.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411064231id_/http%3A//www.metcams.com/privacy.html%3F) for the most accurate reproduction.*
 
-# MetCams - Privacy Policy
+# MetCams - Privacy
 
 [Home](http://www.metcams.com/) / Privacy Policy
 
@@ -54,4 +54,4 @@ c/o Ariel Secretaries Limited
 P.O. Box 57528  
 3316 Limassol - Cyprus
 
-MetCams LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! MetCams is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
+MetCams Live Chats have the best quality live webcams available. Chat live 1 on 1 with these exotic beauties or check the schedule to view a FREE public show and select your favorite models for a private chat. MetCams is the best selection of gorgeous models from all over the world and the most popular of all Live Cam communities.
