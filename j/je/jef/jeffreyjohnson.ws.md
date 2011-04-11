@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeffreyjohnson.ws privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905171116id_/http%3A//acme-people-search.com/privacy.php%3Fu%3D1222194370JINS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffreyjohnson.ws privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411071005id_/http%3A//acme-people-search.com/privacy.php%3Fu%3D1222194370JINS) for the most accurate reproduction.*
 
 # Privacy Policy - Acme-People-Search.com
 
@@ -14,7 +14,7 @@ When you visit our Web site, third parties such as Google AdSense may send cooki
 
 We use [third-party advertising companies](https://www.google.com/adsense/support/bin/answer.py?answer=94149) to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-We reserve the right to change this Privacy Policy at any time. All changes will be published on this page, which is located here: <http://acme-people-search.com/privacy.php>. If you have any questions or concerns about this Privacy Policy, please [contact us online](https://web.archive.org/web/20090905171116id_/http%3A//acme-people-search.com/contact.php?u=1222194370JINS), or at the mailing address below:
+We reserve the right to change this Privacy Policy at any time. All changes will be published on this page, which is located here: <http://acme-people-search.com/privacy.php>. If you have any questions or concerns about this Privacy Policy, please [contact us online](https://web.archive.org/web/20110411071005id_/http%3A//acme-people-search.com/contact.php?u=1222194370JINS), or at the mailing address below:
 
 Acme-People-Search.com  
 Attn.: Privacy Policy  
