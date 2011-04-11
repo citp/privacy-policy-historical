@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the captchatrader.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123011311id_/http%3A//captchatrader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captchatrader.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411053022id_/http%3A//captchatrader.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - CaptchaTrader
+# CaptchaTrader - Privacy Policy
 
 ##  Privacy Policy 
 
