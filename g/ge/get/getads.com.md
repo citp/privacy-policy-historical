@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the getads.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725111109id_/http%3A//www.getads.com/index-5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getads.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411053557id_/http%3A//www.getads.com/privacy.php) for the most accurate reproduction.*
 
-# GetAds Affiliate Sign Up
+# GetAds Digital Marketing Affiliate Network
 
-  | 
-
-## Privacy Policy
-
-**GETADS, LLC, and each of its related web sites (** **** **GetAds** **** **) Privacy Policy**  
-Last updated September 26, 2007.    
+**GETADS, LLC, and each of its related web sites (** **GetAds** **) Privacy Policy**  
+Last updated March 31, 2011.    
 This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website.  GetAds provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website.    
 PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. GETADS DOES NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEB SITE. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY PLEASE DO NOT PROVIDE ANY INFORMATION TO GETADS OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEB SITES REFERRED IN THIS PRIVACY POLICY. 
 
@@ -103,17 +99,6 @@ Anyone using the Website outside of the United States acknowledges that personal
 **6\. Unsubscribe Procedures.**  
 **6,1** If you wish to discontinue receiving email messages from GetAds, you have several options: 
 
-  1. **Unsubscribe from one email list.    **To unsubscribe from a particular list, either (1) send an email to [unsubscribe@getads.com ](mailto:unsubscribe@getads.com)or (2) follow the instructions in each promotional email message sent by GetAds. 
-  2. **Unsubscribe from all of GetAds's email lists.**  
-We reserve the right to add Individual Information to multiple lists maintained by GetAds. To globally unsubscribe from all of GetAds's lists, send an email to [unsubscribe@getads.com ](mailto:unsubscribe@getads.com). 
-
-
-    1. **Unsubscribe from a particular SMS messaging campaign.**
-
-
-
 To unsubscribe from a particular SMS messaging campaign on a cell phone, send STOP, END, or QUIT to the SMS message received by the individual.  In addition, other methods to unsubscribe may be set forth on the website at which the individual signed up for the SMS messaging campaign. 
 
 **For more information about protecting your privacy, you may wish to visit:**[ **www.ftc.gov**](http://www.ftc.gov/) **.   If you have questions about this policy, please contact us at [legalnotices@getads.com ](mailto:legalnotices@getads.com). **
-
-|  
