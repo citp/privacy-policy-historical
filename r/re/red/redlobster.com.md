@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redlobster.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127130435id_/http%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlobster.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411230549id_/http%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Red Lobster - Privacy Policy
 
@@ -37,6 +37,6 @@ Red Lobster may, at any time, amend the provisions in this Privacy Policy. Chang
 **How to Contact Us**  
 If you have questions or concerns regarding our Privacy Policy or use of your information, please [contact us online](https://www.redlobster.com/contact_us/) or by mail at
 
-5900 Lake Ellenor Drive  
-Orlando, FL 32809  
+1000 Darden Center Drive  
+Orlando, Florida 32837   
 (407) 245-4000 
