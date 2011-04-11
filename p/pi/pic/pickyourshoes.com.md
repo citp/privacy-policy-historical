@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickyourshoes.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215201642id_/http%3A//www.pickyourshoes.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickyourshoes.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411173559id_/http%3A//www.pickyourshoes.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # PickYourShoes.Com Shopping Cart - Online Boutique, Nike, Jordan, Supra, Adidas, Reebok, Creative Recreation, Clae, Sneaktip
 
