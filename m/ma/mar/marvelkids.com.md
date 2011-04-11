@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvelkids.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119012934id_/http%3A//marvelkids.marvel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvelkids.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411144709id_/http%3A//marvelkids.marvel.com/privacy) for the most accurate reproduction.*
 
 # Marvel Kids
 
@@ -6,7 +6,7 @@ Last Updated: December 19, 2007
 
 **Marvel Web Site Privacy Policy**
 
-This Privacy Policy governs your use of the web sites published and maintained by Marvel Entertainment, Inc., with offices located at 417 5th Avenue, 11th Floor, New York, NY 10016 ("Marvel," "we," "us," "our," or other similar pronouns) including marvel.com and www.marvelkids.com (each, a "Web Site"). By visiting this Web Site, and/or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our Web Site, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the Marvel Web Site [Terms and Conditions](https://web.archive.org/kids_redirect?to=marvel.com/company/index.htm?sub=terms_current.htm), which governs your use of this Web Site in general. 
+This Privacy Policy governs your use of the web sites published and maintained by Marvel Entertainment, LLC., with offices located at 417 5th Avenue, 11th Floor, New York, NY 10016 ("Marvel," "we," "us," "our," or other similar pronouns) including marvel.com and www.marvelkids.com (each, a "Web Site"). By visiting this Web Site, and/or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy as they may be amended from time to time. As we update and expand our Web Site, this Privacy Policy may change, so check back to this page from time to time. This Privacy Policy is incorporated into, and part of, the Marvel Web Site [Terms and Conditions](https://web.archive.org/kids_redirect?to=marvel.com/company/index.htm?sub=terms_current.htm), which governs your use of this Web Site in general. 
 
 **Summary**
 
@@ -145,7 +145,7 @@ In the unlikely event that we believe that the security of your Personal Informa
 
 You may review and delete the Personal Information about you that is contained in your user account at Marvel at any time. If you would like to review or delete this information, please contact us at: 
 
-Marvel Entertainment Inc.  
+Marvel Entertainment LLC.  
 Attn: Online Privacy  
 417 5th Avenue, 11th Floor  
 New York, NY 10016  
@@ -168,7 +168,7 @@ Marvel reserves the right to change or update this Privacy Policy, or any other 
 
 **Questions, Concerns and Comments**
 
-Please contact us at [onlinesupport@marvel.com](mailto:onlinesupport@marvel.com) or write to us at: Business & Legal Affairs, Marvel Entertainment, Inc., 417 5th Avenue, 11th Floor, New York, New York, 10016 with any questions regarding Marvel's Privacy Policy. 
+Please contact us at [onlinesupport@marvel.com](mailto:onlinesupport@marvel.com) or write to us at: Business & Legal Affairs, Marvel Entertainment, LLC., 417 5th Avenue, 11th Floor, New York, New York, 10016 with any questions regarding Marvel's Privacy Policy. 
 
 **KIDS:**
 
@@ -180,7 +180,7 @@ Never provide any information about yourself on the Internet without your parent
 
 Prior to providing any Personal Information (such as your name, email address, address, phone number etc.) either by placing an order for merchandise, setting up a Web Site account, entering a contest or sweepstakes (if eligible), or participating in any other activity offered through the Web Site, where legally required, children who Marvel has knowledge are under the age of 13 must have a parent provide an express confirmation of parental consent through the Web Site�s electronic consent notification system. In these instances, users who Marvel has knowledge are under the age of 13 are prompted for a parent's e-mail address. This e-mail address will be sent a notification message with an embedded link to a parental consent page on the Marvel Web Site. The child's registration, order, transaction or request will be considered incomplete until the child's parent uses this link to complete the parental consent process. 
 
-Alternatively, parents may send a Parental Consent Form to MARVEL.COM - Marvel Entertainment, Inc., 417 5th Avenue, 11th Floor, New York, NY 10016; or by fax to: 212-576-8507. The Consent Form states that the child's "Parent" or "Legal Guardian," by his or her signature, consents to the collection of the child's Personal Information . Consent may be revoked by completing a "Marvel Revocation of Parental Consent Form" and sending it to the address or fax number above. Please note that if a parent does not permit Marvel�s use or collection of Personal Information or has instructed Marvel to delete personally identifiable information, a child's participation in those Web Site activities for which the Personal Information has been requested may not be possible. 
+Alternatively, parents may send a Parental Consent Form to MARVEL.COM - Marvel Entertainment, LLC., 417 5th Avenue, 11th Floor, New York, NY 10016; or by fax to: 212-576-8507. The Consent Form states that the child's "Parent" or "Legal Guardian," by his or her signature, consents to the collection of the child's Personal Information . Consent may be revoked by completing a "Marvel Revocation of Parental Consent Form" and sending it to the address or fax number above. Please note that if a parent does not permit Marvel�s use or collection of Personal Information or has instructed Marvel to delete personally identifiable information, a child's participation in those Web Site activities for which the Personal Information has been requested may not be possible. 
 
 In compliance with COPPA, Marvel is sensitive about children consulting with parents or guardians before furnishing Personal Information or ordering anything online. It is also Marvel's intention to adhere to the Children's Advertising Review Unit (CARU) Guidelines on Internet advertising with its special sensitivities regarding solicitations to children under thirteen (13). Marvel encourages parents/guardians to supervise and join their children in exploring cyberspace. Marvel is proud of the MarvelKids.com Web Site and believes that it is suitable for Marvel fans of all ages. 
 
