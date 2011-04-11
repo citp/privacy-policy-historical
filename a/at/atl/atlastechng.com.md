@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atlastechng.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207124804id_/http%3A//atlastechng.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlastechng.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411220632id_/http%3A//www.atlastechng.com/privacy) for the most accurate reproduction.*
 
-# Atlas systems Privacy Policy ..
+# Privacy Policy | Atlas Systems and Technology Solutions
 
 The following policy dictates the manner in which Atlas Systems collects and uses information gathered from users of this (each, a "User").
 
