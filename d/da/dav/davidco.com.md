@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davidco.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024042127id_/http%3A//www.davidco.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidco.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412043932id_/http%3A//www.davidco.com/privacy.php) for the most accurate reproduction.*
 
 # The David Allen Company
 
