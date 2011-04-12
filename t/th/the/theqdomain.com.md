@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theqdomain.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122215013id_/http%3A//theqdomain.com/ocstore/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theqdomain.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412051022id_/http%3A//theqdomain.com/ocstore/privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: OpenCart Mods, Contribs, Modules, Payment Modules, Shipping Modules, Custom work, Authorize.net, UPS, USPS, Money Order, Paymate, and more
+# Privacy Policy
 
 We guarantee your privacy and on-line shopping safety.
 
