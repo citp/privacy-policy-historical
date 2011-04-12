@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-elitegear.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211111623id_/http%3A//www.us-elitegear.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-elitegear.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412051322id_/http%3A//www.us-elitegear.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # US Elite Gear: Finest Quality Tactical Gear for the Armed and First Responder professionals.
 
