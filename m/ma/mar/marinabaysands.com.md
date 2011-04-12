@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinabaysands.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228161451id_/http%3A//www.marinabaysands.com/Corporate/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinabaysands.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412022332id_/http%3A//www.marinabaysands.com/Corporate/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Marina Bay Sands Singapore
 
