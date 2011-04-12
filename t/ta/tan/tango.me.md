@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tango.me privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230185604id_/http%3A//www.tango.me/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tango.me privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412041923id_/http%3A//www.tango.me/privacy-policy.php) for the most accurate reproduction.*
 
-# Tango
+# Tango | Privacy Policy
 
 [Home](https://web.archive.org/index.php) **Privacy Policy**
 
