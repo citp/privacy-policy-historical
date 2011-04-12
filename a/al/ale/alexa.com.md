@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the alexa.com privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518212655id_/http%3A//www.alexa.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexa.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412184327id_/http%3A//www.alexa.com/help/privacy) for the most accurate reproduction.*
 
 # Alexa Privacy Policy
 
 ## Alexa Internet Privacy Policy
 
-Last Updated: March 1, 2010
+Last Updated: April 7, 2011
 
 To see what has changed, [click here](https://web.archive.org/help/changed)
 
-Alexa knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy is a binding part of Alexa's [Website Terms of Use and End User License Agreement](https://web.archive.org/web/20100518212655id_/http%3A//www.alexa.com/help/terms) ("Agreement") and explains the type of information Alexa collects through its website and browser companion software ("Toolbar Service") and what Alexa does with it. If you download and use Alexa's Toolbar Service software or use the Alexa website, you will be bound by the terms of the Agreement, including this Privacy Policy. This policy may change from time to time so you should check it frequently.
+Alexa knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Policy is a binding part of Alexa's [Website Terms of Use and End User License Agreement](https://web.archive.org/web/20110412184327id_/http%3A//www.alexa.com/help/terms) ("Agreement") and explains the type of information Alexa collects through its website and browser companion software ("Toolbar Service") and what Alexa does with it. If you download and use Alexa's Toolbar Service software or use the Alexa website, you will be bound by the terms of the Agreement, including this Privacy Policy. This policy may change from time to time so you should check it frequently.
 
 Alexa is the Web Information Company. We measure Internet activity in order to understand trends, help people discover new content, and help people make better online decisions. Millions of people download Alexa toolbars to help measure the web. In return, Alexa provides toolbar users with information about Internet trends, website popularity, new and exciting topics, and related content.
 
@@ -23,6 +23,8 @@ The information we learn from users helps us continually improve and provide inf
   * **Automatic Information We Collect From the Toolbar Service:** When you use the Toolbar Service, we collect information about the websites you visit and the advertisements that you see on those websites, the searches you perform using search engines and when you use the "search" function of the Toolbar Service, the ways in which you use various Toolbar Service features (including whether the Toolbar Service is still installed on your computer), and the pages you view. [Click here] to see examples of what we collect. Although this information may contain some personally identifiable information, Alexa does not use it to determine the identity of individual users or correlate it to your email address or other personally identifiable information that you give us or our affiliates, except as required by subpoenas, court orders, or other legal requirements.
 
   * **Automatic Information We Collect from Our Website:** We receive and store certain types of information whenever you interact with our website. For example, like many websites, we use "cookies," and we obtain certain types of information when your Web browser accesses Alexa.com, when you use the Toolbar Service, or when you view advertisements and other content served by or on behalf of Alexa.com on other Web sites. [Click here] to see examples of the information we receive.
+
+  * **Automatic Information We Collect from Other Websites:** We receive and store certain types of information when you interact with third-party websites that use our web beacons (also known as “action tags” or “single-pixel gifs”) and other technologies. For example, we obtain certain types of information when your Web browser accesses websites using Alexa Direct Measurement. [Click here] for examples. For more information about how you may choose to prevent your computer from running the Alexa Direct Measurement service, [[click here](https://web.archive.org/settings/optout)] . 
 
   * **Information from Other Sources:** We might receive information about you from other sources. [Click here] to see examples of such information. 
 
@@ -44,7 +46,7 @@ We share Alexa user data with our parent corporation, Amazon.com, Inc., and the 
 
   * **Businesses We Do Not Control:** We may offer search or other services that are powered or provided by another company. You can tell when a third party is involved in a given service offering, and, if you choose to use the service, we will share information related to your use of the service with that company. For example, if you use a third-party search engine offered through our Toolbar Service, we will transmit your search term and IP address to that company so that it can provide you with the requested search results. Likewise, if you download our Toolbar Service from a third party website, the Toolbar Service may display the third party's brand, and consequently that third party may receive information about your use of the Toolbar Service. 
 
-  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include storing and analyzing data, providing search results and links (including paid listings and links), and providing customer service. They have access to user information needed to perform their functions, but may not use it for other purposes. 
+  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include storing and analyzing data, providing search results and links (including paid listings and links), providing customer service, and payment processing. They have access to user information needed to perform their functions, but may not use it for other purposes. 
 
   * **Business Transfers:** As we continue to develop our business, we might sell or buy subsidiaries or business units. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the event that Alexa or substantially all of its assets are acquired, user information will of course be one of the transferred assets. 
 
@@ -120,6 +122,10 @@ Finally, to ensure accurate information about the number of Toolbar Service user
 #### Automatic Information We Collect From Our Website
 
 Examples of the information we collect and analyze when you use our website include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; the full Uniform Resource Locator (URL) clickstream to, through, and from our Web site, including date and time; cookie; web pages you viewed or searched for; and the phone number you used to call us. During some visits to our website we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
+
+#### Automatic Information We Collect From Other Websites
+
+Examples of automatic information we collect from third-party websites include the account identifier for the website, the URL’s of web pages visited, any referring URL’s to the visited web pages, the IP addresses and browser user-agents of visitors, and a unique identifier for each visitor.
 
 #### Information from Other Sources
 
