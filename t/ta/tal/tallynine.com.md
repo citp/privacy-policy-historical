@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tallynine.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210072544id_/http%3A//www.tallynine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tallynine.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412025158id_/http%3A//www.tallynine.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Learn Tally
+# Privacy Policy - Free E class of Tally.erp 9 - Learn Tally
+
+## Privacy Policy
 
 Any opinion and views that are expressed here are purely individual opinion.
 
