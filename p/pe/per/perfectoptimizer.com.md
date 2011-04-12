@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectoptimizer.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125140537id_/http%3A//www.perfectoptimizer.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectoptimizer.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412220459id_/http%3A//www.perfectoptimizer.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy * fix clean repair registry errors to optimize your computer
 
