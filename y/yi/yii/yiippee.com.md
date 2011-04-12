@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yiippee.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201123142id_/http%3A//yiippee.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yiippee.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412030708id_/http%3A//yiippee.com/privacy.php) for the most accurate reproduction.*
 
 # Yiippee Terms
 
