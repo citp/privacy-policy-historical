@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612063545id_/http%3A//www.equifax.com/privacy_policy/en_us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412233519id_/http%3A//www.equifax.com/privacy_policy/en_us) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,15 +10,15 @@ For more than 100 years, Equifax has been a catalyst for commerce by bringing bu
 
 We have built our reputation on our commitment to deliver reliable information to our customers (both businesses and consumers) and to protect the privacy and confidentiality of personal information about consumers. We also protect the sensitive information about businesses. Safeguarding the privacy and security of information, both online and offline is a top priority for Equifax.
 
-This privacy policy applies Equifax's commitment to privacy in an online setting. This privacy policy applies to the following Equifax U.S. web sites: 
+This privacy policy applies Equifax's commitment to privacy in an online setting. This privacy policy applies to the following Equifax U.S. web sites:
 
-  * [www.equifax.com](http://www.equifax.com/ "equifax.com"), 
-  * [www.econsumer.equifax.com](http://www.econsumer.equifax.com/ "econsumer.equifax.com"), 
-  * [www.mycrediteducation.com](http://www.mycrediteducation.com/ "mycrediteducation.com"), 
-  * [http://fact.econsumer.equifax.com](https://fact.econsumer.equifax.com/fact/landing.ehtml "fact.econsumer.equifax.com"), 
+  * [www.equifax.com](http://www.equifax.com/ "equifax.com"),
+  * [www.econsumer.equifax.com](http://www.econsumer.equifax.com/ "econsumer.equifax.com"),
+  * [www.mycrediteducation.com](http://www.mycrediteducation.com/ "mycrediteducation.com"),
+  * [http://fact.econsumer.equifax.com](https://fact.econsumer.equifax.com/fact/landing.ehtml "fact.econsumer.equifax.com"),
   * [www.equifax.com/fcra](http://www.equifax.com/fcra "equifax.com/fcra")
-  * <https://aa.econsumer.equifax.com/>. 
-  * [www.af.equifax.com](http://www.af.equifax.com/ "www.af.equifax.com")
+  * <https://aa.econsumer.equifax.com/>.
+  * [www.ai.equifax.com](https://www.ai.equifax.com/ "www.ai.equifax.com")
   * [https://www.alerts.equifax.com](https://www.alerts.equifax.com/ "www.alerts.equifax.com") _._
   * [https://www.freeze.equifax.com](https://www.freeze.equifax.com/)
 
@@ -125,7 +125,7 @@ We may also collect information about your transactions with us, our affiliates,
 **How We Use The Information We Collect**  
 We use the information we collect about you to handle the requests you make to us. If _you as an individual_ request an individual credit file disclosure or an individual credit score disclosure, either directly from us or through [www.annualcreditreport.com](http://www.annualcreditreport.com/), or initiate an online dispute reinvestigation, or request an initial fraud alert or an active duty alert be placed on your credit file online, or request a security freeze, a temporary lift, or a permanent removal of a security freeze on your credit file online, the information we collect from you is only used to handle those requests and possibly update your Equifax individual credit file.
 
-In connection with your online request that an initial fraud alert or an active duty alert be placed on your credit file, we will use your email address to communicate with you regarding the status of your online request for an initial fraud alert or an active duty alert. 
+In connection with your online request that an initial fraud alert or an active duty alert be placed on your credit file, we will use your email address to communicate with you regarding the status of your online request for an initial fraud alert or an active duty alert.
 
 When you become a Member of Personal Solutions we also use the information we collect about you. Once you have become Member of Personal Solutions, we use the information when you ask Personal Solutions to provide you: 1) the Personal Solutions products and services you requested; 2) support for these Personal Solutions products and services; and 3) information about your Personal Solutions products.
 
@@ -152,10 +152,10 @@ When _you as an individual_ request disclosure of your individual Equifax credit
 
 When you become a Member of Personal Solutions and purchase products or services directly from Personal Solutions, we may disclose any of the information we collect from or about you, as described above, to the following types of non-affiliated third parties (companies that are not owned or controlled by us) for various business purposes, including marketing and joint business efforts for related and unrelated products and services, _such as:_
 
-  * Financial services providers, such as banks and mortgage lenders; 
-  * Non-financial companies such as retailers, direct marketers, and publishers; 
-  * Companies that perform marketing services on our behalf and other financial institutions with which we have joint marketing agreements; and 
-  * Others, as permitted by law. 
+  * Financial services providers, such as banks and mortgage lenders;
+  * Non-financial companies such as retailers, direct marketers, and publishers;
+  * Companies that perform marketing services on our behalf and other financial institutions with which we have joint marketing agreements; and
+  * Others, as permitted by law.
 
 
 
@@ -230,7 +230,7 @@ You can decide if and how your computer will accept a cookie by establishing you
 
 ## CHILDREN'S PRIVACY
 
-The Equifax web sites where we may collect _personally identifiable information_ or _business organization identifiable information_ in conjunction with a transaction involving: 1) registering or filling out any forms, 2) requesting disclosure of your Equifax individual credit file or Equifax individual credit score, 3) filing an online dispute reinvestigation request, 4) requesting an initial fraud alert or an active duty alert be placed on your credit file online, 5) requesting a security freeze, a temporary lift, or a permanent removal of a security freeze on your credit file online, or 6) becoming a Member of Personal Solutions or ordering a Personal Solutions product are intended for use only by adults. We comply with the Children's Online Privacy Protection Act and do not knowingly solicit or collect information from children. 
+The Equifax web sites where we may collect _personally identifiable information_ or _business organization identifiable information_ in conjunction with a transaction involving: 1) registering or filling out any forms, 2) requesting disclosure of your Equifax individual credit file or Equifax individual credit score, 3) filing an online dispute reinvestigation request, 4) requesting an initial fraud alert or an active duty alert be placed on your credit file online, 5) requesting a security freeze, a temporary lift, or a permanent removal of a security freeze on your credit file online, or 6) becoming a Member of Personal Solutions or ordering a Personal Solutions product are intended for use only by adults. We comply with the Children's Online Privacy Protection Act and do not knowingly solicit or collect information from children.
 
 ## NON-APPLICABILITY OF PRIVACY POLICY TO COMMERCIAL USE
 
