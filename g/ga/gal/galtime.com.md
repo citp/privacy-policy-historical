@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the galtime.com privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022100546id_/http%3A//www.galtime.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galtime.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412060514id_/http%3A//galtime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GalTime
-
-****
 
 When you decide to become a member of GalTime.com, we ask you for some personal information like your name, gender, birth date and email address.  When creating your account, you must provide accurate information. 
 
 Your mailing address is only required if you plan on entering GalTime giveaways and contests. 
 
-GalTime will not share this information with anyone outside of the LLC unless you choose to enter a giveaway or contest and it is required in order to deliver your gift/prize, or we are required to do so by law or subpoena.  We will never sell your information to anyone.
+GalTime will not share this information with anyone outside of the LLC or its partners unless you choose to enter a giveaway or contest and it is required in order to deliver your gift/prize, or we are required to do so by law or subpoena.  We will never sell your information to anyone.
 
 You do not have to register to visit the GalTime website, but in order to access certain features, such as our social network components, and to enter our giveaways, you will need to open a member account.  You are solely responsible for any activity that occurs in your account. 
 
@@ -25,15 +23,3 @@ We are not responsible for the practices employed by Websites linked to or from 
 **Changes to Our Privacy Policy**
 
 If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
-[](http://www.rswebsols.com/)[](http://www.rswebsols.com/)[](http://www.rswebsols.com/)[](http://www.rswebsols.com/)[](http://www.rswebsols.com/)[](http://www.rswebsols.com/)[](http://www.rswebsols.com/)[](http://www.rswebsols.com/)[](http://www.rswebsols.com/)[](http://www.rswebsols.com/)[](http://www.rswebsols.com/)[](http://www.rswebsols.com/)
-
-Comments 
-
-  
-
-
-Write comment
-
-  
-
