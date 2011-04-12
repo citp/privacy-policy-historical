@@ -1,14 +1,19 @@
-<!--The following is the downloaded HTML source of the naijan.com privacy policy that was archived on 2010-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225032413id_/http%3A//naijan.com/contact/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the naijan.com privacy policy that was archived on 2011-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110412213738id_/http%3A//naijan.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta name="distribution" content="global">
 
-<meta name="robots" content="index,follow">
-<meta name="language" content="en">
+<!-- 
+HTML Title
+~~~ -->
 
+<title>Privacy Policy | Naijan.com</title>
+
+
+<meta name="robots" content="index,follow">
 <!-- 
 Meta Description and KeyWords for Home Page
 ~~~ -->
@@ -19,29 +24,20 @@ Meta Description and KeyWords for a Post or a Page
 ~~~ -->
 
 
-<!-- 
-HTML Title
-~~~ -->
-
-<title>Privacy Policy | Naijan.com</title>
-
 <!--
 Favicon
 ~~~ -->
 
-<link rel="Shortcut Icon" href="http://naijan.com/wp-content/themes/heatmaptheme-v4.0/images/favicon.ico" type="image/x-icon"> 
+
+ 
+	<link rel="Shortcut Icon" href="http://naijan.com/wp-content/themes/hmt-pro-skin-emerald-isle-401/images/favicon.ico" type="image/x-icon"> 
+
 <!--
 Stylesheet
 ~~~ -->
 
-<link rel="stylesheet" href="http://naijan.com/wp-content/themes/heatmaptheme-v4.0/menu.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://naijan.com/wp-content/themes/hmt-pro-skin-emerald-isle-401/style.css" type="text/css" media="screen">
 
-<link rel="stylesheet" href="http://naijan.com/wp-content/themes/heatmaptheme-v4.0/style.css" type="text/css" media="screen">
-
-
-
-
-	<link rel="stylesheet" href="http://naijan.com/wp-content/themes/heatmaptheme-v4.0/default.css" type="text/css" media="screen">
 
 
 <!--
@@ -62,34 +58,34 @@ Pingback URL
 Javascript for the Suckerfish Menu plugin
 ~~~ -->
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"><!--//--><![CDATA[//><!--
-	sfHover = function() {
-		var sfEls = document.getElementById("hmt-sf-nav").getElementsByTagName("LI");
-		for (var i=0; i<sfEls.length; i++) {
-			sfEls[i].onmouseover=function() {
-				this.className+=" sfhover";
-			}
-			sfEls[i].onmouseout=function() {
-				this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-			}
-		}
-	}
-	if (window.attachEvent) window.attachEvent("onload", sfHover);
-			//--><!]]></script>
-	<script type="text/javascript"><!--//--><![CDATA[//><!--
-	sfCatHover = function() {
-		var sfEls = document.getElementById("hmt-sf-cat").getElementsByTagName("LI");
-		for (var i=0; i<sfEls.length; i++) {
-			sfEls[i].onmouseover=function() {
-				this.className+=" sfcathover";
-			}
-			sfEls[i].onmouseout=function() {
-				this.className=this.className.replace(new RegExp(" sfcathover\\b"), "");
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"><!--//--><![CDATA[//><!--
+		sfHover = function() {
+			var sfEls = document.getElementById("hmt-sf-nav").getElementsByTagName("LI");
+			for (var i=0; i<sfEls.length; i++) {
+				sfEls[i].onmouseover=function() {
+					this.className+=" sfhover";
+				}
+				sfEls[i].onmouseout=function() {
+					this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+				}
 			}
 		}
-	}
-	if (window.attachEvent) window.attachEvent("onload", sfCatHover);
-			//--><!]]></script>
+		if (window.attachEvent) window.attachEvent("onload", sfHover);
+				//--><!]]></script>
+		<script type="text/javascript"><!--//--><![CDATA[//><!--
+		sfCatHover = function() {
+			var sfEls = document.getElementById("hmt-sf-cat").getElementsByTagName("LI");
+			for (var i=0; i<sfEls.length; i++) {
+				sfEls[i].onmouseover=function() {
+					this.className+=" sfcathover";
+				}
+				sfEls[i].onmouseout=function() {
+					this.className=this.className.replace(new RegExp(" sfcathover\\b"), "");
+				}
+			}
+		}
+		if (window.attachEvent) window.attachEvent("onload", sfCatHover);
+				//--><!]]></script>
 <!--
 Additional Head Scripts
 ~~~ -->
@@ -99,66 +95,167 @@ Additional Head Scripts
 wp_head()
 ~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
 
+<script type="text/javascript">
+//<![CDATA[
+var BrowserDetect = {
+init: function () {
+this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+this.version = this.searchVersion(navigator.userAgent)|| this.searchVersion(navigator.appVersion)|| "an unknown version";
+this.OS = this.searchString(this.dataOS) || "an unknown OS";
+},
+searchString: function (data) {
+for (var i=0;i<data.length;i++)	{
+        var dataString = data[i].string;
+        var dataProp = data[i].prop;
+        this.versionSearchString = data[i].versionSearch || data[i].identity;
+        if (dataString) {if (dataString.indexOf(data[i].subString) != -1)
+                return data[i].identity;}
+        else if (dataProp){return data[i].identity;}
+}
+},
+searchVersion: function (dataString) {
+var index = dataString.indexOf(this.versionSearchString);
+if (index == -1) return;
+return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+},
+dataBrowser: [
+        {string: navigator.userAgent,subString: "Chrome",identity: "Chrome"},
+        {string: navigator.userAgent,subString: "OmniWeb",versionSearch: "OmniWeb/",identity: "OmniWeb"},
+        {string: navigator.vendor,subString: "Apple",identity: "Safari",versionSearch: "Version"},
+        {prop: window.opera,identity: "Opera"},
+        {string: navigator.vendor,subString: "iCab",identity: "iCab"},
+        {string: navigator.vendor,subString: "KDE",identity: "Konqueror"},
+        {string: navigator.userAgent,subString: "Firefox",identity: "Firefox"},
+        {string: navigator.vendor,subString: "Camino",identity: "Camino"},
+        {string: navigator.userAgent,subString: "Netscape",identity: "Netscape"},
+        {string: navigator.userAgent,subString: "MSIE",identity: "Explorer",versionSearch: "MSIE"},
+        {string: navigator.userAgent,subString: "Gecko",identity: "Mozilla",versionSearch: "rv"},
+        {string: navigator.userAgent,subString: "Mozilla",identity: "Netscape",versionSearch: "Mozilla"}],
+dataOS:[{string: navigator.platform,subString: "Win",identity: "Windows"},
+        {string: navigator.platform,subString: "Mac",identity: "Mac"},
+        {string: navigator.userAgent,subString: "iPhone",identity: "iPhone/iPod"},
+        {string: navigator.platform,subString: "Linux",identity: "Linux"}]
+};
+BrowserDetect.init();
+
+function bookMark(theurl, thetitle, browser){
+    switch(browser){
+        case "Firefox":
+            window.sidebar.addPanel(thetitle, theurl,"");
+            break;
+        case "Explorer":
+            window.external.AddFavorite( theurl, thetitle);
+            break;
+        case "Chrome":
+        case "Safari":
+        case "Opera":
+        case "Netscape":
+            switch(BrowserDetect.OS){
+            case "Windows":
+            case "Linux":
+            alert('press ctrl+D to bookmark this page');
+            break;
+            case "Mac":
+                alert('press cmd+D to bookmark this page');
+            break;
+            }
+            break;
+    }
+}
+//]]>
+</script>
+                        <style type="text/css" media="screen">
+                                .socialwrap li.icon_text a img, .socialwrap li.iconOnly a img, .followwrap li.icon_text a img, .followwrap li.iconOnly a img{border-width:0 !important;background-color:none;}#follow.bottom {width:100%; position:fixed; left:0px; bottom:0px;background-color:#878787;border:2px solid #fff;border-width:2px 0 0 0;}
+}
+#follow.bottom ul {padding-left:20px;list-style-type:none;} #follow.bottom ul li {float:left;padding-top:4px;margin-right:10px;list-style-type:none;}
+#follow.bottom ul li.follow {color:#000;line-height:16px;}
+.share {margin:0 2px 2px 0;}
+.phat span {display:inline;}
+ul.row li {float:left;list-style-type:none;}
+li.iconOnly a span.head {display:none}
+#follow.left ul.size16 li.follow{margin:0px auto !important}
+li.icon_text a {padding-left:0;margin-right:2px}
+li.text_only a {background-image:none !important;padding-left:0;}
+li.text_only a img {display:none;}
+li.icon_text a span{background-image:none !important;padding-left:0 !important; }
+li.iconOnly a span.head {display:none}
+ul.socialwrap li {margin:0 2px 2px 0 !important;}
+ul.socialwrap li a {text-decoration:none;}ul.row li {float:left;line-height:auto !important;}
+ul.row li a img {padding:0}.size16 li a,.size24 li a,.size32 li a, .size48 li a, .size60 li a {display:block}ul.socialwrap {list-style-type:none !important;margin:0; padding:0;text-indent:0 !important;}
+ul.socialwrap li {list-style-type:none !important;background-image:none;padding:0;list-style-image:none !important;}
+ul.followwrap {list-style-type:none !important;margin:0; padding:0}
+ul.followwrap li {margin-right:2px;margin-bottom:2px;list-style-type:none !important;}
+#follow.right ul.followwrap li, #follow.left ul.followwrap li {margin-right:0px;margin-bottom:0px;}
+.shareinpost {clear:both;padding-top:0px}.shareinpost ul.socialwrap {list-style-type:none !important;margin:0 !important; padding:0 !important}
+.shareinpost ul.socialwrap li {padding-left:0 !important;background-image:none !important;margin-left:0 !important;list-style-type:none !important;text-indent:0 !important}
+.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img{border-width:0}ul.followrap li {list-style-type:none;list-style-image:none !important;}
+div.clean {clear:left;}
+div.display_none {display:none;}
+                        </style>
+                                                <style type="text/css" media="print">
+                                body {background: white;font-size: 12pt;color:black;}
+ * {background-image:none;}
+ #wrapper, #content {width: auto;margin: 0 5%;padding: 0;border: 0;float: none !important;color: black;background: transparent none;}
+ a { text-decoration : underline; color : #0000ff; }
+#menu, #navigation, #navi, .menu {display:none}
+                        </style>
+                        <link rel="image_src" href="http://www.gravatar.com/avatar/d41d8cd98f00b204e9800998ecf8427e?default=&amp;size=110.jpg"> 
 <link rel="stylesheet" id="wp-postratings-css" href="http://naijan.com/wp-content/plugins/wp-postratings/postratings-css.css?ver=1.50" type="text/css" media="all">
-<link rel="stylesheet" id="sexy-bookmarks-css" href="http://naijan.com/wp-content/plugins/sexybookmarks/css/style.css?ver=3.2.4.2" type="text/css" media="all">
-<script type="text/javascript" src="http://naijan.com/wp-content/plugins/si-captcha-for-wordpress/captcha-secureimage/si_captcha.js?ver=3.0.3"></script>
-<script type="text/javascript" src="http://naijan.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
-<script type="text/javascript" src="http://naijan.com/wp-content/plugins/sexybookmarks/js/sexy-bookmarks-public.js?ver=3.2.4.2"></script>
+<script type="text/javascript" src="http://naijan.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://naijan.com/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
+<script type="text/javascript" src="http://naijan.com/wp-includes/js/hoverIntent.js?ver=3.1.1"></script>
+<script type="text/javascript" src="http://naijan.com/wp-admin/js/utils.js?ver=20101110"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var cl_settings = {
+	name: "author",
+	url: "url",
+	comment: "comment",
+	email: "email",
+	prepend: "",
+	badge: "http://naijan.com/wp-content/plugins/commentluv/images/CL91_White.gif",
+	show_text: "CommentLuv Enabled",
+	badge_text: "",
+	heart_tip: "on",
+	default_on: "checked",
+	select_text: "choose a different post to show",
+	cl_version: "281.8",
+	images: "http://naijan.com/wp-content/plugins/commentluv/images/",
+	api_url: "http://api.comluv.com/cl_api/commentluvapi.php",
+	refer: "http://naijan.com/privacy-policy/",
+	infoback: "white",
+	usetemplate: ""
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://naijan.com/wp-content/plugins/commentluv/js/commentluv.js?ver=3.1.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://naijan.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://naijan.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="Naijan.com" href="http://naijan.com/">
-<link rel="up" title="Contact" href="http://naijan.com/contact/">
-<link rel="prev" title="Forum" href="http://naijan.com/forum/">
+<link rel="prev" title="Advertise" href="http://naijan.com/advertise-2/">
 <link rel="next" title="Contact" href="http://naijan.com/contact/">
-<meta name="generator" content="WordPress 3.0.3">
+<meta name="generator" content="WordPress 3.1.1">
 
-<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[801,889] -->
+<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Design[526,620] -->
 <meta name="description" content="Your Privacy Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the">
-<meta name="keywords" content="naijan.,naijan.com">
-<link rel="canonical" href="http://naijan.com/contact/privacy-policy/">
+<meta name="keywords" content="jan.com,naijan.,naijan.c,naijan.co,naijan.com,very,web">
+<link rel="canonical" href="http://naijan.com/privacy-policy/">
 <!-- /all in one seo pack Pro Version-->
-          <link rel="stylesheet" type="text/css" media="all" href="http://naijan.com/wp-content/plugins/ucan-post/niceforms/niceforms-default.css">
-          <link rel="stylesheet" id="thickbox-css" href="http://naijan.com/wp-includes/js/thickbox/thickbox.css" type="text/css" media="all">
-          <!-- TODO - Possibly add a setting to NOT load the jquery if users have problems with the following line -->
-          <script type="text/javascript" src="http://naijan.com/wp-admin/load-scripts.php?c=1&amp;load=jquery,utils,thickbox,media-upload"></script><!-- Left Out ,quicktags, editor -->
-          <script type="text/javascript" src="http://naijan.com/wp-content/plugins/ucan-post/js/tinymce/tiny_mce.js"></script>
-          <script type="text/javascript">
-            tinyMCE.init({
-              mode : "specific_textareas",
-              theme : "advanced",
-              skin : "o2k7",
-              editor_selector:"theEditor",
-              width:"80%",
-              theme_advanced_buttons1 : "bold,italic,underline,|,justifyleft,justifycenter,justifyright,fontsizeselect,formatselect",
-              theme_advanced_buttons2 : "cut,copy,paste,|,bullist,numlist,|,outdent,indent,|,undo,redo,|,link,unlink,image,media",
-              theme_advanced_buttons3 : "blockquote,|,forecolor,backcolor,|,emotions,charmap,spellchecker,|,code,preview,|,help",
-              theme_advanced_toolbar_location : "top",
-              theme_advanced_toolbar_align : "left",
-              plugins : "emotions,preview,safari,spellchecker,media"
-            });
-          </script>
-          <script type="text/javascript">
-            /* <![CDATA[ */
-            var thickboxL10n = {
-              next: "Next &gt;",
-              prev: "&lt; Prev",
-              image: "Image",
-              of: "of",
-              close: "Close",
-              noiframes: "This feature requires inline frames. You have iframes disabled or your browser does not support them."
-            };
-            try{convertEntities(thickboxL10n);}catch(e){};
-            /* ]]> */
-          </script>
-        
-<!-- Start Of Script Generated By WP-PostViews 1.50 -->
+<link rel="stylesheet" href="http://naijan.com/wp-content/plugins/commentluv/style/cl_style.css" type="text/css"><script type="text/javascript" src="http://naijan.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
 <script type="text/javascript">
-/* <![CDATA[ */
-jQuery.ajax({type:'GET',url:'http://naijan.com/wp-content/plugins/wp-postviews/wp-postviews.php',data:'postviews_id=149',cache:false});/* ]]> */
+var ajaxurl = ajaxurl;
 </script>
-<!-- End Of Script Generated By WP-PostViews 1.50 -->
-	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<script type="text/javascript">
+
+<!-- using Like-Button-Plugin-For-Wordpress [v4.4.3] | by Stefan Natter (http://www.gb-world.net) -->
+<meta property="og:type" content="blog">
+<meta property="fb:page_id" content="126951640702740">
+<meta property="og:description" content="Nollywood Gossip,Nigeria News,Hollywood Gists,World New">
+<!-- using Like-Button-Plugin-For-Wordpress [v4.4.3] | by Stefan Natter (http://www.gb-world.net) -->
+	<script type="text/javascript">/* <![CDATA[ */ var _wpaudio = {url: 'http://naijan.com/wp-content/plugins/wpaudio-mp3-player', enc: {}, convert_mp3_links: true, style: {text_font:'Sans-serif',text_size:'18px',text_weight:'normal',text_letter_spacing:'normal',text_color:'inherit',link_color:'#24f',link_hover_color:'#02f',bar_base_bg:'#eee',bar_load_bg:'#ccc',bar_position_bg:'#46f',sub_color:'#aaa'}}; /* ]]> */</script><style type="text/css">
+        #header {
+            background: url(http://naijan.com/wp-content/themes/hmt-pro-skin-emerald-isle-401/images/header-bg.png);
+        }
+    </style><script type="text/javascript">
 //<![CDATA[
 	var screen_res = "";
 	function writeCookie(name,value,hours) {
@@ -182,6 +279,19 @@ jQuery.ajax({type:'GET',url:'http://naijan.com/wp-content/plugins/wp-postviews/w
 	}
 //]]>
 </script>
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>    <link href="http://naijan.com/wp-content/plugins/wp-reportpost/assets/wprp.css" rel="stylesheet" type="text/css">
+        <script language="javascript" type="text/javascript">
+		var wprpURL = 'http://naijan.com/wp-content/plugins/wp-reportpost';
+    </script>
+    <script language="javascript" type="text/javascript" src="http://naijan.com/wp-content/plugins/wp-reportpost/assets/wprp.js"></script>
+    
+
+<link rel="stylesheet" href="http://naijan.com/wp-content/themes/hmtpro4/advanced.css" type="text/css" media="screen">
+
+
+
 
 <!--
 End of wp_head()
@@ -189,217 +299,231 @@ End of wp_head()
 
 </head>
 
-<body>
+<body class="page page-id-149 page-template page-template-default nav-wide widebar-float-right no-squeeze has-sidebars">
 
-
+	
 <!--
 Find out if this theme has the preset mode deactivated. If its not deactivated then lets show off a bit. Party time!
 ~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
 
-	
+	    
 <!--
-The High Bar
+The SEO Bar
 ~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
 
-	<div id="high-bar">
 	
-				
-				
-		<!-- hmt_widget_link_unit_1 --><div id="hmt-widget-link-unit-1" class="widget hmt_widget_link_unit_1"><script type="text/javascript"><!--
-google_ad_client = "pub-0369700383539022";
-/* 728x15, created 11/22/10 */
-google_ad_slot = "7640827311";
-google_ad_width = 728;
-google_ad_height = 15;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>		
-	</div> <!-- id="high-bar" -->
-		
-	<div class="clearFloat"></div>
- 
-    <div id="main">
 	
+	    
+	        
 <!--
-The Header Bar
+[Header] Lock Bar
 ~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
 
-        <div id="header-bar">
-		
-<!--
-The Logo
-~~~ -->
-        	
-							<div id="header-bar-logo">
-					<a href="http://naijan.com/"><img src="http://naijan.com/wp-content/themes/heatmaptheme-v4.0/images/preset-images/logo.png" alt="Latest Nigerian Jobs,Movies,Music and More"></a>
-				</div> <!-- id="header-bar-logo" -->
-								
-<!--
-The Name of the Blog and the Tagline
-~~~ -->
-			
-			            
-<!--
-Widget Area: Header Right
-~~~ -->
-			
-            <div id="header-bar-right">
-				
-								
-								
-				<!-- hmt_widget_ad_unit_1 --><div id="hmt-widget-ad-unit-1" class="widget hmt_widget_ad_unit_1"><script type="text/javascript"><!--
-google_ad_client = "pub-0369700383539022";
-/* 468x60, created 10/10/10 */
-google_ad_slot = "6381670046";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>					
-            </div> <!-- id="header-bar-right" -->
-			
-        </div> <!-- id="header-bar" -->
-        
-        <div class="clearFloat"></div>
-        
+	    
+     
+     
+            
+	    
+    <div class="clearFloat"></div>
+
+	
+
 <!--
 The Nav Bar
 ~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
-		
-			<div id="nav-bar">
+	 
+		 
+	<div id="nav-bar-wipe">
+		<div id="nav-bar-wrapper">
+					<div id="nav-bar">
 				<div id="hmt-sf-navbar">
 <ul id="hmt-sf-nav">
-<li><a href="http://naijan.com">Home</a></li>
-<li class="page_item page-item-2"><a href="http://naijan.com/nigeriancommunityonline/">Community</a></li>
-<li class="page_item page-item-83"><a href="http://naijan.com/register/">Register</a></li>
-<li class="page_item page-item-85"><a href="http://naijan.com/blogs/">Blogs</a></li>
-<li class="page_item page-item-87"><a href="http://naijan.com/classifieds/">Classifieds</a></li>
-<li class="page_item page-item-89"><a href="http://naijan.com/forum/">Forum</a></li>
-<li class="page_item page-item-159 current_page_ancestor current_page_parent"><a href="http://naijan.com/contact/">Contact</a>
-<ul class="children">
-	<li class="page_item page-item-149 current_page_item"><a href="http://naijan.com/contact/privacy-policy/">Privacy Policy</a></li>
-</ul>
-</li>
-<li class="page_item page-item-878"><a href="http://naijan.com/faq/">FAQ</a></li>
+<li id="menu-item-4712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4712"><a href="http://www.naijan.com">Home</a></li>
+<li id="menu-item-6339" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6339"><a href="http://naijan.com/advertise/">Advertise</a></li>
+<li id="menu-item-7423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7423"><a href="http://nigeriajobvacancies.naijan.com/">Jobs</a></li>
+<li id="menu-item-6046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6046"><a href="http://naijan.com/gists/">Gists</a></li>
+<li id="menu-item-7825" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7825"><a href="http://naijan.com/news/">News</a></li>
+<li id="menu-item-5921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5921"><a href="http://www.youtubenigerianmovies.com/">Movies</a></li>
+<li id="menu-item-4719" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4719"><a href="http://naijan.com/nigerian-recipes/">Recipes</a></li>
+<li id="menu-item-5103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5103"><a href="http://naijan.com/submit-content/">Write</a></li>
 </ul>
 </div>
 
-        	</div> <!-- id="nav-bar" -->
+			</div> <!-- id="nav-bar" -->
 		
-<!--
-The Search Bar
-~~~ -->
-        					<div id="search-bar">
-				
-					<div id="search-bar-content">
-						<form action="http://www.naijan.com/google-results" id="cse-search-box">
+		<!--The Search Bar~~~ -->			<div id="search-bar">
+			
+				<div id="search-bar-content">
+							<div id="google-search-box">
+			
+<form action="http://www.naijan.com/google-results" id="cse-search-box">
   <div>
     <input type="hidden" name="cx" value="partner-pub-0369700383539022:w616ab-43l7">
-    <input type="hidden" name="cof" value="FORID:11">
+    <input type="hidden" name="cof" value="FORID:10">
     <input type="hidden" name="ie" value="ISO-8859-1">
     <input type="text" name="q" size="28">
     <input type="submit" name="sa" value="Search">
   </div>
 </form>
-<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-					</div> <!-- id="search-bar-content" -->
+<script type="text/javascript" src="//www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+        </div>
+    				</div> <!-- id="search-bar-content" -->
+	
+			</div> <!-- id="search-bar" -->
+				
 		
-				</div> <!-- id="search-bar" -->
-						
-			<div class="clearFloat"></div>
+		<div id="rss-bar">
 		
-		
+			<div id="rss-bar-content">
+            
+            	<span class="social-image"><a href="http://feeds2.feedburner.com/naijan" target="_blank"><img src="http://naijan.com/wp-content/themes/hmtpro4/images/rss-feed-v4.png" width="23" height="22" alt="FeedBurner RSS Subscription" title="FeedBurner RSS Subscription"></a></span><span class="social-image"><a href="http://feedburner.google.com/fb/a/mailverify?uri=naijan&amp;loc=en_US" target="_blank"><img src="http://naijan.com/wp-content/themes/hmtpro4/images/feedburner.png" width="23" height="22" alt="FeedBurner RSS Email Subscription" title="RSS Email Subscription"></a></span><span class="social-image"><a href="http://facebook.com/pages/Nigerians-Online-Community/126951640702740" target="_blank"><img src="http://naijan.com/wp-content/themes/hmtpro4/images/facebook.png" width="23" height="22" alt="FaceBook" title="FaceBook"></a></span><span class="social-image"><a href="http://twitter.com/nigeriansonline" target="_blank"><img src="http://naijan.com/wp-content/themes/hmtpro4/images/twitter.png" width="23" height="22" alt="Twitter" title="Twitter"></a></span> 
+  
+       		</div> <!-- id="rss-bar-content" -->
+    
+       </div> <!-- id="rss-bar" -->
+                
+				
+		</div> <!-- id="nav-bar-wrapper" -->
+	</div> <!-- id="nav-bar-wipe" -->
+
+<div class="clearFloat"></div>
+
 <!--
 The Categories Bar
 ~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
 
-		
+
+	 
+
+	<div id="cat-bar-wipe">
+		<div id="cat-bar-wrapper">
+	
+			
 			<div id="cat-bar">
 				<div id="hmt-sf-catbar">
 <ul id="hmt-sf-cat">
-	<li class="cat-item cat-item-357"><a href="http://naijan.com/nigeriaanswers/">Answers</a>
-</li>
-	<li class="cat-item cat-item-1"><a href="http://naijan.com/general/">General</a>
-<ul class="children">
-	<li class="cat-item cat-item-2203"><a href="http://naijan.com/general/featured/">Featured</a>
-</li>
-</ul>
-</li>
-	<li class="cat-item cat-item-7"><a href="http://naijan.com/jobsinnigeria/">Jobs</a>
-</li>
-	<li class="cat-item cat-item-3"><a href="http://naijan.com/freenigerianmoviesonline/">Movies</a>
-<ul class="children">
-	<li class="cat-item cat-item-249"><a href="http://naijan.com/freenigerianmoviesonline/yoruba/">Yoruba</a>
-	<ul class="children">
-	<li class="cat-item cat-item-427"><a href="http://naijan.com/freenigerianmoviesonline/yoruba/comedy/">Comedy</a>
-</li>
-	</ul>
-</li>
-</ul>
-</li>
-	<li class="cat-item cat-item-263"><a href="http://naijan.com/nigerianmusic/">Music</a>
-</li>
-	<li class="cat-item cat-item-6"><a href="http://naijan.com/news/">News</a>
-<ul class="children">
-	<li class="cat-item cat-item-2003"><a href="http://naijan.com/news/breaking-news/">Breaking News</a>
-</li>
-	<li class="cat-item cat-item-8"><a href="http://naijan.com/news/nollywoodgossip/">Nollywood</a>
-</li>
-</ul>
-</li>
-	<li class="cat-item cat-item-287"><a href="http://naijan.com/nigerianweddingvideos/">Weddings</a>
-</li>
+<li id="menu-item-64" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64"><a href="http://www.youtubenigerianmovies.com">Nigerian Movies</a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66"><a href="http://www.nollywood.naijan.com">Nollywood Gossip</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a href="http://www.nigeriajobvacancies.naijan.com">Jobs in Nigeria</a></li>
+<li id="menu-item-6002" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6002"><a href="http://www.etopedia.com">Places to Visit</a></li>
+<li id="menu-item-67" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67"><a href="http://naijan.com/nigerianmusic/">Music</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a href="http://naijan.com/nigerianweddingvideos/">Wedding</a></li>
+<li id="menu-item-5337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5337"><a href="http://www.internet-business-directory.org">Directory</a></li>
+<li id="menu-item-8954" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8954"><a href="http://www.answers.naijan.com">Ask a Question</a></li>
+<li id="menu-item-5336" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5336"><a href="http://internet-business-directory.org/submit.php">Add Website</a></li>
 </ul>
 </div>
 
 			</div> <!-- id="cat-bar" -->
-	  
-	<!--
-	The RSS Bar (inc Feedburner)
-	~~~ -->  
-	
-				  
-				<div id="rss-bar">
-				
-					<div id="rss-bar-content">
-		<!--
-		Feedburner Email Link
-		~~~ --> 	
-											
-													<div class="rss-feedburner">
-								<a href="http://feedburner.google.com/fb/a/mailverify?uri=naijan&amp;loc=en_US" target="_blank">Email Subscription</a>
-							</div> <!-- class="rss-feedburner" -->
-												
 		
-		<!--
-		RSS Comments Link
-		~~~ -->	
-						<div class="rss-comments">
-						
-															<a href="http://naijan.com/comments/feed/">Comments</a>
-										
-						</div> <!-- class="rss-comments" -->
-		
-		<!--
-		RSS Posts Link
-		~~~ -->
-						<div class="rss-posts">
-						
-															<a href="http://feeds2.feedburner.com/naijan">Posts</a>
-										
-						</div> <!-- class="rss-posts" -->
-						
-					</div> <!-- id="rss-bar-content" -->
-	
-				</div> <!-- id="rss-bar" -->
 				
 		
-		        
+		</div> <!-- id="cat-bar-wrapper" -->
+	</div> <!-- id="cat-bar-wipe" -->
+
+
+<div class="clearFloat"></div>                  
+<!--
+[Sub Header] Lock Bar
+~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
+
+	    
+           
+        
+
+    <div class="clearFloat"></div>      
+        
+               
+<!--
+The High Bar
+~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
+
+	 
+
+        <div id="high-bar">
+        
+        
+				                
+                                
+                <span class="high-bar-widget-block">
+                	<!-- hmt_widget_link_unit_1 --><span id="hmt-widget-link-unit-1" class="header-high widget hmt_widget_link_unit_1"><script type="text/javascript"><!--
+google_ad_client = "pub-0369700383539022";
+/* 728x15, created 1/26/11 */
+google_ad_slot = "4810972742";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></span>                </span>
+            
+            
+        </div> <!-- id="high-bar" -->
+            
         <div class="clearFloat"></div>
-				
-				
+    
+    
+
+    	
+<!--
+The Header Bar
+~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
+		<div id="header-bar"> 	
+<!--
+The Logo
+~~~ -->
+  	
+		            <div id="header-bar-logo">
+                <a href="http://naijan.com/"><img src="http://naijan.com/wp-content/themes/heatmaptheme-v4.0/images/preset-images/logo.png" alt="Latest Nigerian News,Jobs,Movies,Music and Social Networking"></a>
+            </div> <!-- id="header-bar-logo" -->
+        					
+<!--
+The Name of the Blog and the Tagline
+~~~ -->
+			
+		            
+<!--
+Widget Area: Header Right
+~~~ -->
+			
+		 
+
+        <div id="header-bar-right">
+            
+                        
+                        
+            <!-- hmt_widget_ad_unit_1 --><div id="hmt-widget-ad-unit-1" class="header-right widget hmt_widget_ad_unit_1"><script type="text/javascript"><!--
+google_ad_client = "pub-0369700383539022";
+/* 468x60, created 1/26/11 */
+google_ad_slot = "4554944440";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>                
+        </div> <!-- id="header-bar-right" -->
+        
+        				
+                
+    </div> <!-- id="header-bar" -->
+        
+    <div class="clearFloat"></div>
+        
+        
+            
+<!--
+[Header] Low
+~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
+
+	   
+    <div id="main">
+                        
+             
+
+        
+
+		
 <!--
 End of header.php
 ~~~ -->
@@ -416,8 +540,9 @@ Content of the page (inc comments and post details)
 	
 	<div id="content">
 		
-		
-	
+            
+                
+    	
 <!--
 The Post
 ~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
@@ -427,47 +552,64 @@ The Post
 <!--
 Widget Area: [All Content] Above
 ~~~ -->
-			<!-- hmt_widget_link_unit_2 --><div id="hmt-widget-link-unit-2" class="all-content-above hmt_widget_link_unit_2"><script type="text/javascript"><!--
+							
+                <div id="all-content-above">
+				
+                    <span class="all-content-above-widget-block">
+                        <!-- hmt_widget_link_unit_2 --><span id="hmt-widget-link-unit-2" class="all-content-above widget hmt_widget_link_unit_2"><script type="text/javascript"><!--
 google_ad_client = "pub-0369700383539022";
-/* 468x15, created 11/22/10 */
-google_ad_slot = "9835775780";
+/* 468x15, created 1/26/11 */
+google_ad_slot = "9892149443";
 google_ad_width = 468;
 google_ad_height = 15;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>	
+</script></span>                    </span>
+                
+                </div> <!-- id="all-content-above" -->
+            
+            	
 <!--
 The Post Title 
 ~~~ -->				
-			<h1 class="h1-underline">Privacy Policy</h1>
+			           			<h1 class="h1-underline">Privacy Policy</h1>  
+				            
 <!--
 Widget Area: [Content Item] Above
 ~~~ -->			
-			 
-<!--
-Widget Area: [Content Item] Left 
-~~~ -->	
-			<!-- hmt_widget_additional_unit_3 --><div id="hmt-widget-additional-unit-3" class="content-item-left hmt_widget_additional_unit_3"><script type="text/javascript"><!--
+			                
+                <div id="content-item-above">
+                
+                	<span class="content-item-above-widget-block">
+						<!-- hmt_widget_additional_unit_3 --><span id="hmt-widget-additional-unit-3" class="content-item-above widget hmt_widget_additional_unit_3"><script type="text/javascript"><!--
 google_ad_client = "pub-0369700383539022";
-/* 336x280, created 12/5/10 */
-google_ad_slot = "1597353413";
+/* 336x280, created 1/26/11 */
+google_ad_slot = "1264135820";
 google_ad_width = 336;
 google_ad_height = 280;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div><!--
+</script></span>                    </span>
+                
+                </div> <!-- id="content-item-above" -->
+            
+            <!--
+Widget Area: [Content Item] Left 
+~~~ -->	
+			<!--
 Widget Area: [Content Item] Right
 ~~~ -->
-			<!--
+				
+<!--
 The content itself 
 ~~~ -->
-			<p>Your Privacy</p>
+			<p><strong>Your Privacy</strong></p>
 <p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
 <p><strong>Google Adsense and the DoubleClick DART Cookie</strong><br>
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.</p>
-<p>To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.</p>
+<p>To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <noindex><a target="_blank" rel="nofollow" href="http://naijan.com//goto/http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a></noindex> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.</p>
 <p>Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies , naijan.com has no access or control over these cookies that may be used by third party advertisers.</p>
 <p><strong>Our Commitment To Childrens Privacy</strong><br>
 Protecting the privacy of the very young is especially important. For that reason, naijan.com will never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18.<br>
@@ -478,15 +620,26 @@ When visiting naijan.com, the IP address used to access the site will be logged 
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.</p>
 <p><strong>Changes to this Privacy Statement</strong><br>
 The contents of this statement may be altered at any time, at our discretion.</p>
-<p>If you have any questions regarding the privacy policy of naijan.com then you may <a href="http://naijan.com/contact/" title="contact">contact</a> us at adewoyin@gmail.com</p>			
+<p>If you have any questions regarding the privacy policy of naijan.com then you may contact us at <a href="mailto:info@naijan.com">info@naijan.com</a></p>
+<h4>Incoming Searches:</h4><ul><li><a href="http://naijan.com/search/cookie-recipes-add-website/" title="cookie recipes add website">cookie recipes add website</a> (2)</li></ul><!-- SEO SearchTerms Tagging 2 Plugin --><div class="shareinpost"><ul class="socialwrap row"><li class="iconOnly share">Share:</li><li class="iconOnly"><noindex><a target="_blank" rel="nofollow" href="http://naijan.com//goto/http://delicious.com/post?url=http%3A%2F%2Fnaijan.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Bookmark this post : Privacy Policy on Delicious"><img src="http://naijan.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-198px 0px" class="image-32" width="32" alt="blank Privacy Policy" title="Privacy Policy"> <span class="head">Bookmark on Delicious</span></a></noindex></li><li class="iconOnly"><noindex><a target="_blank" rel="nofollow" href="http://naijan.com//goto/http://digg.com/submit?url=http%3A%2F%2Fnaijan.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy&amp;bodytext=Your+Privacy%0D%0A%0D%0AYour+privacy+is+important+to+us.+To+better+protect+your+privacy+we+provide+this+notice+explaining+our+online+information+practices+and+the+choices+you+can+make+about+the+way+your+information+is+collected+and+used.+To+make+this+notice+easy+to+find%2C+we+make+it+available+on+our+homepage+and+at+every+point+" title="Digg this post : Privacy Policy"><img src="http://naijan.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-264px 0px" class="image-32" width="32" alt="blank Privacy Policy" title="Privacy Policy"> <span class="head">Digg this post</span></a></noindex></li><li class="iconOnly"><noindex><a target="_blank" rel="nofollow" href="http://naijan.com//goto/http://www.facebook.com/sharer.php?u=http%3A%2F%2Fnaijan.com%2Fprivacy-policy%2F&amp;t=Privacy+Policy" title="Recommend this post : Privacy Policy on Facebook"><img src="http://naijan.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-363px 0px" class="image-32" width="32" alt="blank Privacy Policy" title="Privacy Policy"> <span class="head">Recommend on Facebook</span></a></noindex></li><li class="iconOnly"><noindex><a target="_blank" rel="nofollow" href="http://naijan.com//goto/http://www.google.com/buzz/post?url=http%3A%2F%2Fnaijan.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Buzz up this post : Privacy Policy "><img src="http://naijan.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-627px 0px" class="image-32" width="32" alt="blank Privacy Policy" title="Privacy Policy"> <span class="head">Buzz it up</span></a></noindex></li><li class="iconOnly"><noindex><a target="_blank" rel="nofollow" href="http://naijan.com//goto/http://www.reddit.com/submit?url=http%3A%2F%2Fnaijan.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Share this post : Privacy Policy on Reddit"><img src="http://naijan.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1419px 0px" class="image-32" width="32" alt="blank Privacy Policy" title="Privacy Policy"> <span class="head">share via Reddit</span></a></noindex></li><li class="iconOnly"><noindex><a target="_blank" rel="nofollow" href="http://naijan.com//goto/http://www.stumbleupon.com/submit?url=http%3A%2F%2Fnaijan.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Share this post : Privacy Policy with Stumblers"><img src="http://naijan.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1617px 0px" class="image-32" width="32" alt="blank Privacy Policy" title="Privacy Policy"> <span class="head">Share with Stumblers</span></a></noindex></li><li class="iconOnly"><noindex><a target="_blank" rel="nofollow" href="http://naijan.com//goto/http://twitter.com/home/?status=Privacy+Policy+-+http%3A%2F%2Fbit.ly%2FhVgCiW" title="Tweet this post : Privacy Policy on Twitter"><img src="http://naijan.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1749px 0px" class="image-32" width="32" alt="blank Privacy Policy" title="Privacy Policy"> <span class="head">Tweet about it</span></a></noindex></li><li class="iconOnly"><a href="http://naijan.com/privacy-policy/feed" rel="_self" title="Follow this post : Privacy Policy comments"><img src="http://naijan.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" width="32" style="background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1452px 0px" class="image-32" alt="blank Privacy Policy" title="Privacy Policy"> <span class="head">Subscribe to the comments on this post</span></a></li><li class="iconOnly"><a href="javascript:window.bookMark('http%3A%2F%2Fnaijan.com%2Fprivacy-policy%2F', 'Privacy+Policy', BrowserDetect.browser);" title="Bookmark this post : Privacy Policy"><img src="http://naijan.com/wp-content/plugins/share-and-follow/images/blank.gif" rel="nofollow" target="_self" height="32" style="background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-99px 0px" class="image-32" width="32" alt="blank Privacy Policy" title="Privacy Policy"> <span class="head">Bookmark in Browser</span></a></li><li class="iconOnly"><a href="mailto:?subject=Naijan.com%20:%20Privacy%20Policy&amp;body=Here%20is%20a%20link%20to%20a%20site%20I%20really%20like%20%20http://naijan.com/privacy-policy/" rel="_self" title="Tell a friend about this post : Privacy Policy "><img src="http://naijan.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" width="32" style="background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-330px 0px" class="image-32" alt="blank Privacy Policy" title="Privacy Policy"> <span class="head">Tell a friend</span></a></li></ul><div class="clean"></div> </div>
+<!-- using Like-Button-Plugin-For-Wordpress [v4.4.3] | by Stefan Natter (http://www.gb-world.net) -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fnaijan.com&amp;layout=standard&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=40" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:150px; height:40px"></iframe>
+<!-- using Like-Button-Plugin-For-Wordpress [v4.4.3] | by Stefan Natter (http://www.gb-world.net) -->
+			
 							
 <!--
 Pagination for Multi-page posts
 ~~~ -->
-				
+							
 <!--
 Widget Area: [Content Item] Below 
 ~~~ -->
+							<div id="content-item-below">
+                	<span class="content-item-below-widget-block">
+						                    </span>
+				</div> <!-- id="content-item-below" -->
+					
+				<div class="clearFloat"></div>
 				
 		</div> <!-- class="post-content" -->
 	
@@ -497,16 +650,15 @@ Post Details
 ~~~ -->
 		
 				
-		 
-	
+		        	
 		<!--
 		<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 			xmlns:dc="http://purl.org/dc/elements/1.1/"
 			xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
-		<rdf:Description rdf:about="http://naijan.com/contact/privacy-policy/"
-    dc:identifier="http://naijan.com/contact/privacy-policy/"
+		<rdf:Description rdf:about="http://naijan.com/privacy-policy/"
+    dc:identifier="http://naijan.com/privacy-policy/"
     dc:title="Privacy Policy"
-    trackback:ping="http://naijan.com/contact/privacy-policy/trackback/" />
+    trackback:ping="http://naijan.com/privacy-policy/trackback/" />
 </rdf:RDF>		-->
 	
 			
@@ -519,149 +671,267 @@ The comments
 <!--
 Widget Area: [All Content] Below
 ~~~ -->
-		<!-- hmt_widget_link_unit_3 --><div id="hmt-widget-link-unit-3" class="all-content-below hmt_widget_link_unit_3"><script type="text/javascript"><!--
-google_ad_client = "pub-0369700383539022";
-/* 468x15, created 11/22/10 */
-google_ad_slot = "9835775780";
-google_ad_width = 468;
-google_ad_height = 15;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>		
-	</div> <!-- id="content" -->
+		            
+            <div id="all-content-below">
+            
+                <span class="all-content-below-widget-block">
+                    <!-- widget_text --><span id="text-11" class="all-content-below widget widget_text"><h4 class="widgettitle">NAIJAN.COM NAVIGATION AND LINKS</h4>			<div class="textwidget"><b><a href="http://www.facebook.com/pages/Nigerians-Online-Community/126951640702740">Our Facebook Page</a>|<a href="http://www.twitter.com/nigeriansonline">Our Twitter Page</a>|<a href="http://www.nollywood.naijan.com">Nollywood Gossip &amp; Gists</a>|<a href="http://www.answers.naijan.com">Ask A Question</a>|<a href="http://www.youtubenigerianmovies.com">Watch Latest Nigerian Movies Free</a>|<a href="http://www.youtubenigerianmovies.com">Watch Latest Nigerian Movies Free</a>|<a href="http://www.etopedia.com">Beautiful Places To Visit in Nigeria and Worldwide</a>|<br><a href="http://www.nigeriajobvacancies.naijan.com">Jobs in Nigeria</a>|<a href="http://www.internet-business-directory.org">Internet Business Directory</a>|<a href="http://naijan.com/nigerian-recipes/">Nigerian Recipes</a>|<a href="http://www.outdoor-wedding-ideas.com">Outdoor Wedding Ideas</a>
+</b></div><b>
+		</b></span><b>                </b></span><b>
+            
+            </b></div><b> <!-- id="all-content-below" -->
+        
+        		
+	</b></div><b> <!-- id="content" -->
 	
 	
 <!-- 
 sidebar.php
 ~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
 
-<!-- 
-top-widebar
-~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
+
 	
 	<div id="sidebar-wrapper">
+    
+<!-- 
+widebar 125
+~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->   
 	
-		<div id="top-widebar">
-			
-			<ul>
-			<!-- hmt_widget_ad_unit_3 --><li id="hmt-widget-ad-unit-3" class="widget hmt_widget_ad_unit_3"><script type="text/javascript"><!--
+		       
+            <div id="widebar-125">
+     
+                <span id="widebar-125-widget-block">
+                <!-- follow_links --><span id="follow-widget-3" class="widebar-125 widget follow_links">Follow Us !<ul class="followwrap size48 row"><li class="iconOnly"><a rel="nofollow me" target="_blank" style="display:block;background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/48/facebook.png) no-repeat top left;height:48px;width:48px;" class="facebook" href="http://www.facebook.com/home.php#!/pages/Nigerians-Online-Community/126951640702740" title="Become a Fan"><span class="head">Become a Fan</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" style="display:block;background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/48/feedburner.png) no-repeat top left;height:48px;width:48px;" class="feedburner" href="http://feeds.feedburner.com/naijan" title="Stay updated"><span class="head">Stay updated</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" style="display:block;background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/48/rss.png) no-repeat top left;height:48px;width:48px;" class="rss" href="http://naijan.com/feed/rss/" title="RSS feed"><span class="head">RSS feed</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" style="display:block;background: transparent url(http://naijan.com/wp-content/plugins/share-and-follow/default/48/twitter.png) no-repeat top left;height:48px;width:48px;" class="twitter" href="http://twitter.com/nigeriansonline" title="Tweet with me"><span class="head">Tweet with me</span></a></li></ul><div class="clean"></div> </span><!-- widget_text --><span id="text-19" class="widebar-125 widget widget_text">CURRENT TIME IN NIGERIA			<div class="textwidget"><!-- Begin of localTimes.info script --> <div align="center" style="margin:15px 0px 0px 0px"> <noscript> <div align="center" style="width:140px; border:1px solid #ccc; background: #FFFFFF; color: #000F04; font-weight:bold;"> <a style="font-size:13px; line-height:16px; padding:2px 0px; font-family:arial; text-decoration: none; color: #000F04;" href="http://localtimes.info/Africa/Nigeria/Abuja/"><img src="http://localtimes.info/images/countries/ng.png" border=0 style="border:0;margin:0;padding:0">&nbsp;&nbsp;Abuja Time</a></div> </noscript> <script type="text/javascript" src="http://localtimes.info/clock.php?cp3_Hex=176D00&amp;cp2_Hex=FFFFFF&amp;cp1_Hex=000F04&amp;fwdt=150&amp;ham=0&amp;hbg=0&amp;hfg=0&amp;sid=&amp;mon=&amp;wek=&amp;wkf=&amp;sep=&amp;continent=Africa&amp;country=Nigeria&amp;city=Abuja&amp;widget_number=119"></script>
+</div> <!-- End of localTimes.info script --></div>
+		</span><!-- hmt_widget_feedburner --><span id="hmt-feedburner-subscription" class="widebar-125 widget hmt_widget_feedburner">Subscribe by Email<form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=naijan', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><input type="text" id="fbinput" name="email"><input type="hidden" value="naijan" name="uri"><input type="hidden" name="loc" value="en_US"><input id="fbsubmit" type="submit" value="Subscribe"></form></span>
+<!-- widget_text --><span id="text-18" class="widebar-125 widget widget_text">FEATURED SECTIONS			<div class="textwidget"><b><a href="http://www.youtubenigerianmovies.com">Watch Nigerian Movies Online</a><p>
+<a href="http://www.nigeriajobvacancies.naijan.com">Jobs in Nigeria</a></p><p>
+<a href="http://www.etopedia.com">Explore Beautiful Places To Visit Worldwide</a></p><p>
+
+
+</p></b></div><b>
+		</b></span><b>                </b></span><b>
+                
+            </b></div><b> <!-- id="widebar-125" -->
+        
+<!-- 
+top-widebar
+~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->   
+	
+		            <div id="top-widebar">
+                
+                <ul>
+                <!-- hmt_widget_recent_posts_plus --><li id="hmt-recent-posts-plus" class="widebar-top widget hmt_widget_recent_posts_plus"><h4 class="widgettitle">More Great Entries</h4><ul><li><h5><a href="http://naijan.com/rita-dominic-and-kate-henshaw-blackberry-addiction/" rel="bookmark">Rita Dominic and Kate Henshaw Blackberry Addiction</a></h5>
+<div class="clearFloat-spacer">&nbsp;</div><h5><a href="http://naijan.com/omotola-jalade-with-michael-bolton-in-la-usa/" rel="bookmark"> Sexy Picture of Omotola Jalade With Michael Bolton ...</a></h5>
+<div class="clearFloat-spacer">&nbsp;</div><h5><a href="http://naijan.com/bunmi-akinleye-bone-marrow-cancer-patient-is-dead/" rel="bookmark">Bunmi Akinleye: Bone Marrow Cancer Patient Is Dead</a></h5>
+<div class="clearFloat-spacer">&nbsp;</div><h5><a href="http://naijan.com/anambra-election-result-chris-ngige-acn-candidate-the-winner/" rel="bookmark"> Anambra Election Result: Chris Ngige ACN Candidate ...</a></h5>
+<div class="clearFloat-spacer">&nbsp;</div><h5><a href="http://naijan.com/ini-edomercy-johnson-and-oge-okoye-alleged-ritualism-rumour/" rel="bookmark"> Ini Edo, Mercy Johnson and Oge Okoye Ritualism ...</a></h5>
+<div class="clearFloat-spacer">&nbsp;</div><h5><a href="http://naijan.com/inec-election-results-for-zamfara-and-bauchi-nigeria/" rel="bookmark"> INEC Election Results for Zamfara and Bauchi ...</a></h5>
+</li></ul></li>
+<!-- hmt_widget_additional_unit_4 --><li id="hmt-widget-additional-unit-4" class="widebar-top widget hmt_widget_additional_unit_4"><script type="text/javascript"><!--
 google_ad_client = "pub-0369700383539022";
-/* 300x250, created 12/9/10 */
-google_ad_slot = "8974217679";
-google_ad_width = 300;
-google_ad_height = 250;
+/* 160x600, created 1/29/11 */
+google_ad_slot = "0410625480";
+google_ad_width = 160;
+google_ad_height = 600;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></li><!-- widget_text --><li id="text-3" class="widget widget_text"><h4 class="widgettitle">SIKIRU AYINDE BARRISTER UPDATES</h4>			<div class="textwidget"><a href="http://naijan.com/news/breaking-news/">Click Here To Get The Latest News On Late Sikiru Ayinde Barrister</a></div>
-		</li><!-- widget_categories --><li id="categories-5" class="widget widget_categories"><h4 class="widgettitle">Categories</h4>		<ul>
-	<li class="cat-item cat-item-357"><a href="http://naijan.com/nigeriaanswers/" title="View all posts filed under Answers">Answers</a> (48)
-</li>
-	<li class="cat-item cat-item-2003"><a href="http://naijan.com/news/breaking-news/" title="View all posts filed under Breaking News">Breaking News</a> (7)
-</li>
-	<li class="cat-item cat-item-427"><a href="http://naijan.com/freenigerianmoviesonline/yoruba/comedy/" title="View all posts filed under Comedy">Comedy</a> (1)
-</li>
-	<li class="cat-item cat-item-2203"><a href="http://naijan.com/general/featured/" title="View all posts filed under Featured">Featured</a> (17)
-</li>
-	<li class="cat-item cat-item-1"><a href="http://naijan.com/general/" title="View all posts filed under General">General</a> (42)
-</li>
-	<li class="cat-item cat-item-7"><a href="http://naijan.com/jobsinnigeria/" title="View all posts filed under Jobs">Jobs</a> (153)
-</li>
-	<li class="cat-item cat-item-3"><a href="http://naijan.com/freenigerianmoviesonline/" title="View all posts filed under Movies">Movies</a> (377)
-</li>
-	<li class="cat-item cat-item-263"><a href="http://naijan.com/nigerianmusic/" title="View all posts filed under Music">Music</a> (198)
-</li>
-	<li class="cat-item cat-item-6"><a href="http://naijan.com/news/" title="View all posts filed under News">News</a> (206)
-</li>
-	<li class="cat-item cat-item-8"><a href="http://naijan.com/news/nollywoodgossip/" title="View all posts filed under Nollywood">Nollywood</a> (10)
-</li>
-	<li class="cat-item cat-item-287"><a href="http://naijan.com/nigerianweddingvideos/" title="View all posts filed under Weddings">Weddings</a> (178)
-</li>
-	<li class="cat-item cat-item-249"><a href="http://naijan.com/freenigerianmoviesonline/yoruba/" title="View all posts filed under Yoruba">Yoruba</a> (11)
-</li>
-		</ul>
-</li>			</ul>
-		
-		</div> <!-- id="top-widebar" -->
-	
+</script></li><!-- widget_rss --><li id="rss-6" class="widebar-top widget widget_rss"><h4 class="widgettitle"><a class="rsswidget" href="http://www.etopedia.com/feed/" title="Syndicate this content"><img style="border:0" width="14" height="14" src="http://naijan.com/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://www.etopedia.com" title="Places To Visit, Travel and Destination Guides">Beautiful Places To Visit Worldwide</a></h4><ul><li><a class="rsswidget" href="http://www.etopedia.com/villa-batujimbar-sanur-bali/" title="Villa Batujimbar is located in the spunk of Sanur, on the southeastern tip of Bali. Set within Batujimbar Land,&nbsp; Villa Batujimbar is an superior blot for family, conveniently confidential to spa shelter, restaurants, dark clubs, and shopping areas. Villa Batujimbar has 5 generously sorted suites, each with an open-plan en-suite room. Two of the suites [...]  […]">Villa Batujimbar, Sanur, Bali</a></li><li><a class="rsswidget" href="http://www.etopedia.com/kulturhuset-stockholm/" title="In Kulturhuset, Stockholm there is something for everyone. Including you. Every year, thousands of contemporary cultural events and photo exhibitions, stories for kids, concerts, literary discussions, films, debates and so many other things that a complete list would be too long to read. Daytime and night-time. Popular and exclusive. Laughter and tears. On e […]">Kulturhuset Stockholm</a></li><li><a class="rsswidget" href="http://www.etopedia.com/lunds-konsthall/" title="Lund Konsthall Museum is a result of a donation from the Old Savings’ Bank (today’s Finn Savings’ Bank) to the City of Lund, Sweden. In 1953 the City Council decided to accept the gift and invited six architects for a competition to design the new kunsthalle. Lund Konsthall has not fully retained its original architectural [...] Related posts:Lund, Sweden GL […]">Lunds Konsthall</a></li><li><a class="rsswidget" href="http://www.etopedia.com/nordic-watercolor-museum/" title="This museum is one of the most exciting cultural projecs in the Nordic countries. It serves as a Nordic center for contemporary art, for research and training, with the emphasis laid on techiniques of watercolour art. At the museum you can explore the work of famous international watercolourists or study classical watercolour paintings of the [...] Related p […]">Nordic Watercolor Museum</a></li><li><a class="rsswidget" href="http://www.etopedia.com/maison-saint-gabriel-montreal/" title="The Maison Saint-Gabriel is settled at 2146 Square Dublin in Pointe Saint-Charles, which is not far from downtown Montreal . This is 19th-century withdraw barn, this farmhouse is one of the finest examples of traditional New France structure. It was remodeled in 1960 and turned into a museum of complex spiritedness, with exhibits from the [...] Related posts […]">Maison Saint-Gabriel, Montreal</a></li><li><a class="rsswidget" href="http://www.etopedia.com/the-teatro-all%E2%80%99antica/" title="The Antique Theatre in Sabbioneta, Italy was built between 1588 and 1590 by the architect Vincenzo Scamozzi Vicenza and is the most important building in town, plays a major role in building theatrical constitutes the first example of a&nbsp; permanent theater was built from nothing, constrained by existing structures. The stylish exterior has two orders, [...] R […]">The Teatro all’Antica</a></li><li><a class="rsswidget" href="http://www.etopedia.com/the-soumaya-museum/" title="&nbsp; The Soumaya Museum is located in in Mexico City. It was designed by Fernando Romero Enterprise. The museum is showing Carlos Slim’s extensive collection of works by It was opened its doors on march&nbsp; 2011, entry is free. &nbsp; &nbsp; The collections are featuring art works from the 11th through the 20th century originating [...] Related posts:Thorvaldsens Museum Nat […]">The Soumaya Museum</a></li><li><a class="rsswidget" href="http://www.etopedia.com/the-nanjing-museum-of-art-and-architecture/" title="&nbsp; &nbsp; The Nanjing Museum of Art and Architecture is the latest cultural facility in Nanjing, China, designed by Steven Holl. &nbsp; &nbsp; Considered to be the gateway to a contemporary cultural evolution, the museum observes various viewpoints and layers of space remindful of spatial compositions seen in traditional chinese paintings. &nbsp; Related posts:Bonn Museum [...]  […]">The Nanjing Museum of Art and Architecture</a></li><li><a class="rsswidget" href="http://www.etopedia.com/hotel-luca-yountville/" title="Yountville is a lovely town tucked among the rolling landscapes of Napa Valley. This town is a regional center of fine dining, with such well-regarded restaurants as the French Laundry, Bouchon and Redd. The high standard there did not scared the owners of Hotel Luca, Paul and Cassandra Hazen from opening it, in December 2006. [...] Related posts: Understand […]">Hotel Luca, Yountville</a></li><li><a class="rsswidget" href="http://www.etopedia.com/hangzhou/" title="Hangzhou has a very mythical status in China, due to its beautiful lakeside location and as a place for meditative and spiritual retreat in times of trouble. During the culturally rich but politically disastrous Southern Song period of the 12th and 13th centuries, many of the country’s most famous painters and poets lived there, seeking [...] Related posts:A […]">Hangzhou</a></li></ul></li>                </ul>
+            
+            </div> <!-- id="top-widebar" -->
+        	
 <!-- 
 left sidebar
 ~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
-	
-		<div id="left-sidebar">
-			
-			<ul>				
-						</ul>
-		
-		</div> <!-- id="left-sidebar" -->
-	
+
+		        
 <!-- 
 right sidebar
 ~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
-	
-		<div id="right-sidebar">
-			
-			<ul>
-						</ul>
-			
-		</div> <!-- id="right-sidebar" -->
-		
+
+		            
 <!-- 
 bottom widebar
 ~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
-	
-		<div id="bottom-widebar">
-			
-			<ul>
-					<!-- widget_recent_entries --><li id="recent-posts-5" class="widget widget_recent_entries">		<h4 class="widgettitle">RECENT POSTS</h4>		<ul>
-				<li><a href="http://naijan.com/ogazi-tasks-nigerians-on-eagles/" title="OGAZI TASKS NIGERIANS ON EAGLES">OGAZI TASKS NIGERIANS ON EAGLES</a></li>
-				<li><a href="http://naijan.com/i%e2%80%99m-no-troublemaker-says-mua%e2%80%99zu/" title="I’M NO TROUBLEMAKER, SAYS MUA’ZU">I’M NO TROUBLEMAKER, SAYS MUA’ZU</a></li>
-				<li><a href="http://naijan.com/ciara%e2%80%99s-boots-dazzles-all-at-basketball-game-coo/" title=" Ciara’s Boots Dazzles All At Basketball Game ..."> Ciara’s Boots Dazzles All At Basketball Game ...</a></li>
-				<li><a href="http://naijan.com/nigerian-nwakwo-kanu%e2%80%99s-film-project-starts/" title="Nigerian Nwakwo Kanu’s Film Project Starts">Nigerian Nwakwo Kanu’s Film Project Starts</a></li>
-				<li><a href="http://naijan.com/isu-iboji-part-4-2010-latest-yoruba-movies/" title="Isu Iboji Part 4 – 2010 Latest Yoruba Movies">Isu Iboji Part 4 – 2010 Latest Yoruba Movies</a></li>
-				<li><a href="http://naijan.com/lilian-bachs-latest-film-eletan-is-set-for-the-cinema/" title=" Lilian Bach’s Latest Nigerian Film Eletan Is Set ..."> Lilian Bach’s Latest Nigerian Film Eletan Is Set ...</a></li>
-				<li><a href="http://naijan.com/nigerian-model-nancy-wuzor-offered-10m-to-act-unclothed/" title=" Nigerian Model Nancy Wuzor Offered 10M To Act ..."> Nigerian Model Nancy Wuzor Offered 10M To Act ...</a></li>
-				<li><a href="http://naijan.com/sikiru-ayinde-barrister-unfulfilled-dreams/" title="Late Sikiru Ayinde Barrister Unfulfilled Dreams">Late Sikiru Ayinde Barrister Unfulfilled Dreams</a></li>
-				<li><a href="http://naijan.com/dont-try-me-material-official-video/" title="Dont try me – Material (Official Video)">Dont try me – Material (Official Video)</a></li>
-				<li><a href="http://naijan.com/tonto-dike-and-ini-edo-alleged-lesbianism-scandal/" title="Tonto Dike and Ini Edo Alleged Lesbianism Scandal">Tonto Dike and Ini Edo Alleged Lesbianism Scandal</a></li>
-				</ul>
-		</li><!-- widget_recent_terms --><li id="recent-search-terms" class="widget widget_recent_terms"><h4 class="widgettitle">RECENT SEARCHES</h4><ul><li><a href="http://naijan.com/search/is+sikiru+back+in+nigeria/" title="is sikiru back in nigeria">is sikiru back in nigeria</a></li><li><a href="http://naijan.com/search/tributes+to+ayinde/" title="tributes to ayinde">tributes to ayinde</a></li><li><a href="http://naijan.com/search/sikiru+ayinde+burial/" title="sikiru ayinde burial">sikiru ayinde burial</a></li><li><a href="http://naijan.com/search/sikiru+ayinde+burial/" title="sikiru ayinde burial">sikiru ayinde burial</a></li><li><a href="http://naijan.com/search/couches+in+nigerian+movies/" title="couches in Nigerian movies">couches in Nigerian movies</a></li><li><a href="http://naijan.com/search/ayinde+barrister+burial+ceremony/" title="ayinde barrister burial ceremony">ayinde barrister burial ceremony</a></li><li><a href="http://naijan.com/search/ojukwu+suffers+stroke/" title="ojukwu suffers stroke">ojukwu suffers stroke</a></li><li><a href="http://naijan.com/search/sikiru+ayinde+barrister+buri/" title="sikiru ayinde barrister buri">sikiru ayinde barrister buri</a></li><li><a href="http://naijan.com/search/sikiru+ayinde+barrister+s+corps/" title="sikiru Ayinde barrister s corps">sikiru Ayinde barrister s corps</a></li><li><a href="http://naijan.com/search/latest+news+about+sikiru+ayinde+barister+burial/" title="latest news about sikiru ayinde barister burial">latest news about sikiru ayinde barister burial</a></li></ul><!-- SEO SearchTerms Tagging 2 plugin took 1.955 ms --></li><!-- widget_recent_comments --><li id="recent-comments-3" class="widget widget_recent_comments"><h4 class="widgettitle">RECENT COMMENTS</h4><ul id="recentcomments"><li class="recentcomments"><a href="?cid=12115">raffattu</a> on <a href="http://naijan.com/letters-to-a-stranger-part6of10-nollywood-nigerian-movie/comment-page-1/#comment-12115"> LETTERS TO A STRANGER (PART6of10) – ...</a></li><li class="recentcomments"><a href="?cid=12114">PYFE2007</a> on <a href="http://naijan.com/letters-to-a-stranger-part6of10-nollywood-nigerian-movie/comment-page-1/#comment-12114"> LETTERS TO A STRANGER (PART6of10) – ...</a></li><li class="recentcomments"><a href="?cid=12113">HmmThatVoice</a> on <a href="http://naijan.com/letters-to-a-stranger-part6of10-nollywood-nigerian-movie/comment-page-1/#comment-12113"> LETTERS TO A STRANGER (PART6of10) – ...</a></li><li class="recentcomments"><a href="?cid=12112">njapon</a> on <a href="http://naijan.com/letters-to-a-stranger-part6of10-nollywood-nigerian-movie/comment-page-1/#comment-12112"> LETTERS TO A STRANGER (PART6of10) – ...</a></li><li class="recentcomments"><a href="?cid=12111">ynil04</a> on <a href="http://naijan.com/letters-to-a-stranger-part6of10-nollywood-nigerian-movie/comment-page-1/#comment-12111"> LETTERS TO A STRANGER (PART6of10) – ...</a></li><li class="recentcomments"><a href="?cid=12639">ojesulem</a> on <a href="http://naijan.com/p-square-bizzy-body/comment-page-1/#comment-12639">P-Square : Bizzy Body</a></li><li class="recentcomments"><a href="?cid=12110">DrSnowflakes</a> on <a href="http://naijan.com/letters-to-a-stranger-part6of10-nollywood-nigerian-movie/comment-page-1/#comment-12110"> LETTERS TO A STRANGER (PART6of10) – ...</a></li><li class="recentcomments"><a href="?cid=12109">tekenareuben</a> on <a href="http://naijan.com/letters-to-a-stranger-part6of10-nollywood-nigerian-movie/comment-page-1/#comment-12109"> LETTERS TO A STRANGER (PART6of10) – ...</a></li><li class="recentcomments"><a href="?cid=12638">Meetmetheree</a> on <a href="http://naijan.com/p-square-bizzy-body/comment-page-1/#comment-12638">P-Square : Bizzy Body</a></li><li class="recentcomments"><a href="?cid=12637">fasia27</a> on <a href="http://naijan.com/p-square-bizzy-body/comment-page-1/#comment-12637">P-Square : Bizzy Body</a></li></ul></li><!-- widget_global_translator --><li id="global-translator" class="widget widget_global_translator"><h4 class="widgettitle">Translator</h4>
-<!--FLAG_BAR_BEGIN--><div id="translation_bar"><map id="gltr_flags_map" name="gltr_flags_map"><area shape="rect" coords="0,0,16,11" href="http://naijan.com/contact/privacy-policy/" id="flag_en" title="English"><area shape="rect" coords="20,0,36,11" href="http://naijan.com/it/contact/privacy-policy/" id="flag_it" title="Italian"><area shape="rect" coords="40,0,56,11" href="http://naijan.com/ko/contact/privacy-policy/" id="flag_ko" title="Korean"><area shape="rect" coords="60,0,76,11" href="http://naijan.com/zh-CN/contact/privacy-policy/" id="flag_zh-CN" title="Chinese (Simplified)"><area shape="rect" coords="80,0,96,11" href="http://naijan.com/zh-TW/contact/privacy-policy/" id="flag_zh-TW" title="Chinese (Traditional)"><area shape="rect" coords="100,0,116,11" href="http://naijan.com/pt/contact/privacy-policy/" id="flag_pt" title="Portuguese"><area shape="rect" coords="120,0,136,11" href="http://naijan.com/de/contact/privacy-policy/" id="flag_de" title="German"><area shape="rect" coords="140,0,156,11" href="http://naijan.com/fr/contact/privacy-policy/" id="flag_fr" title="French"><area shape="rect" coords="160,0,176,11" href="http://naijan.com/es/contact/privacy-policy/" id="flag_es" title="Spanish"><area shape="rect" coords="180,0,196,11" href="http://naijan.com/ja/contact/privacy-policy/" id="flag_ja" title="Japanese"><area shape="rect" coords="200,0,216,11" href="http://naijan.com/ar/contact/privacy-policy/" id="flag_ar" title="Arabic"><area shape="rect" coords="220,0,236,11" href="http://naijan.com/ru/contact/privacy-policy/" id="flag_ru" title="Russian"><area shape="rect" coords="240,0,256,11" href="http://naijan.com/el/contact/privacy-policy/" id="flag_el" title="Greek"><area shape="rect" coords="260,0,276,11" href="http://naijan.com/nl/contact/privacy-policy/" id="flag_nl" title="Dutch"><area shape="rect" coords="280,0,296,11" href="http://naijan.com/bg/contact/privacy-policy/" id="flag_bg" title="Bulgarian"><area shape="rect" coords="0,15,16,26" href="http://naijan.com/cs/contact/privacy-policy/" id="flag_cs" title="Czech"><area shape="rect" coords="20,15,36,26" href="http://naijan.com/hr/contact/privacy-policy/" id="flag_hr" title="Croatian"><area shape="rect" coords="40,15,56,26" href="http://naijan.com/da/contact/privacy-policy/" id="flag_da" title="Danish"><area shape="rect" coords="60,15,76,26" href="http://naijan.com/fi/contact/privacy-policy/" id="flag_fi" title="Finnish"><area shape="rect" coords="80,15,96,26" href="http://naijan.com/hi/contact/privacy-policy/" id="flag_hi" title="Hindi"><area shape="rect" coords="100,15,116,26" href="http://naijan.com/pl/contact/privacy-policy/" id="flag_pl" title="Polish"><area shape="rect" coords="120,15,136,26" href="http://naijan.com/ro/contact/privacy-policy/" id="flag_ro" title="Romanian"><area shape="rect" coords="140,15,156,26" href="http://naijan.com/sv/contact/privacy-policy/" id="flag_sv" title="Swedish"><area shape="rect" coords="160,15,176,26" href="http://naijan.com/no/contact/privacy-policy/" id="flag_no" title="Norwegian"><area shape="rect" coords="180,15,196,26" href="http://naijan.com/ca/contact/privacy-policy/" id="flag_ca" title="Catalan"><area shape="rect" coords="200,15,216,26" href="http://naijan.com/tl/contact/privacy-policy/" id="flag_tl" title="Filipino"><area shape="rect" coords="220,15,236,26" href="http://naijan.com/iw/contact/privacy-policy/" id="flag_iw" title="Hebrew"><area shape="rect" coords="240,15,256,26" href="http://naijan.com/id/contact/privacy-policy/" id="flag_id" title="Indonesian"><area shape="rect" coords="260,15,276,26" href="http://naijan.com/lv/contact/privacy-policy/" id="flag_lv" title="Latvian"><area shape="rect" coords="280,15,296,26" href="http://naijan.com/lt/contact/privacy-policy/" id="flag_lt" title="Lithuanian"><area shape="rect" coords="0,30,16,41" href="http://naijan.com/sr/contact/privacy-policy/" id="flag_sr" title="Serbian"><area shape="rect" coords="20,30,36,41" href="http://naijan.com/sk/contact/privacy-policy/" id="flag_sk" title="Slovak"><area shape="rect" coords="40,30,56,41" href="http://naijan.com/sl/contact/privacy-policy/" id="flag_sl" title="Slovenian"><area shape="rect" coords="60,30,76,41" href="http://naijan.com/uk/contact/privacy-policy/" id="flag_uk" title="Ukrainian"><area shape="rect" coords="80,30,96,41" href="http://naijan.com/vi/contact/privacy-policy/" id="flag_vi" title="Vietnamese"><area shape="rect" coords="100,30,116,41" href="http://naijan.com/sq/contact/privacy-policy/" id="flag_sq" title="Albanian"><area shape="rect" coords="120,30,136,41" href="http://naijan.com/et/contact/privacy-policy/" id="flag_et" title="Estonian"><area shape="rect" coords="140,30,156,41" href="http://naijan.com/gl/contact/privacy-policy/" id="flag_gl" title="Galician"><area shape="rect" coords="160,30,176,41" href="http://naijan.com/mt/contact/privacy-policy/" id="flag_mt" title="Maltese"><area shape="rect" coords="180,30,196,41" href="http://naijan.com/th/contact/privacy-policy/" id="flag_th" title="Thai"><area shape="rect" coords="200,30,216,41" href="http://naijan.com/tr/contact/privacy-policy/" id="flag_tr" title="Turkish"><area shape="rect" coords="220,30,236,41" href="http://naijan.com/hu/contact/privacy-policy/" id="flag_hu" title="Hungarian"><area shape="rect" coords="240,30,256,41" href="http://naijan.com/be/contact/privacy-policy/" id="flag_be" title="Belarus"><area shape="rect" coords="260,30,276,41" href="http://naijan.com/ga/contact/privacy-policy/" id="flag_ga" title="Irish"><area shape="rect" coords="280,30,296,41" href="http://naijan.com/is/contact/privacy-policy/" id="flag_is" title="Icelandic"><area shape="rect" coords="0,45,16,56" href="http://naijan.com/mk/contact/privacy-policy/" id="flag_mk" title="Macedonian"><area shape="rect" coords="20,45,36,56" href="http://naijan.com/ms/contact/privacy-policy/" id="flag_ms" title="Malay"><area shape="rect" coords="40,45,56,56" href="http://naijan.com/fa/contact/privacy-policy/" id="flag_fa" title="Persian"></map><img style="border:0px;" src="http://naijan.com/wp-content/plugins/global-translator/gltr_image_map.png" usemap="#gltr_flags_map"></div><div id="transl_sign"></div><!--FLAG_BAR_END-->
-</li>			</ul>
-			
-		</div> <!-- id="bottom-widebar" -->
-	 
-	</div> <!-- id="sidebar-wrapper" -->
+
+				
+            <div id="bottom-widebar">
+                
+                <ul>
+                <!-- widget_text --><li id="text-3" class="widebar-bottom widget widget_text"><h4 class="widgettitle">ADVERTISEMENTS</h4>			<div class="textwidget"><b>Nigerian Singles Matchmaking<a href="http://meetnigeriansinglesonline.com/">Are You Single &amp; Looking, Click Here To Visit Our Matchmaker</a><br>
+<a href="http://www.adlabors.com" title="promotion website submit" target="_blank"><img src="http://www.adlabors.com/adlab.png" width="88" height="31" border="0" alt="Promotion Directory list"></a></b></div><b>
+		</b></li><!-- dfrads --><li id="dfrads-widget-4" class="widebar-bottom widget dfrads"><b><a href="http://www.kqzyfj.com/27103efolfn2854BB9A243B87BB9?sid=naijan" target="_blank" onmouseover="window.status='http://www.hostgator.com';return true;" onmouseout="window.status=' ';return true;">
+<img src="http://www.ftjcfx.com/6h116p59y31NTQPWWUVNPOWTSWWU" alt="" border="0"></a></b></li><!-- widget_categories --><li id="categories-2" class="widebar-bottom widget widget_categories"><h4 class="widgettitle"><b>NAIJAN.COM NAVIGATOR</b></h4><b>		<ul>
+	<li class="cat-item cat-item-357"><a href="http://naijan.com/nigeriaanswers/" title="View all posts filed under Answers">Answers</a>
+</li>
+	<li class="cat-item cat-item-13931"><a href="http://naijan.com/biographies/" title="View all posts filed under Biographies">Biographies</a>
+</li>
+	<li class="cat-item cat-item-2003"><a href="http://naijan.com/news/breaking-news/" title="View all posts filed under Breaking News">Breaking News</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://naijan.com/general/" title="View all posts filed under General">General</a>
+</li>
+	<li class="cat-item cat-item-14030"><a href="http://naijan.com/gists/" title="View all posts filed under Gists">Gists</a>
+</li>
+	<li class="cat-item cat-item-14600"><a href="http://naijan.com/ideas/" title="View all posts filed under Ideas">Ideas</a>
+</li>
+	<li class="cat-item cat-item-16379"><a href="http://naijan.com/inec-election-results-2011-nigeria/" title="Latest INEC 2011 Election Result in Nigeria">INEC Election Results 2011</a>
+</li>
+	<li class="cat-item cat-item-14756"><a href="http://naijan.com/information-2/" title="View all posts filed under Information">Information</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://naijan.com/jobsinnigeria/" title="For Latest Job Vacancies Please visit our dedicated Nigeria Job Vacancy Site at http://www.nigeriajobvacancies.naijan.com. Thank you">Jobs in Nigeria</a>
+</li>
+	<li class="cat-item cat-item-13342"><a href="http://naijan.com/nigeria-2/" title="View all posts filed under Nigeria">Nigeria</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://naijan.com/news/" title="View all posts filed under Nigeria News">Nigeria News</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="http://naijan.com/nigerianweddingvideos/" title="View all posts filed under Nigeria Wedding">Nigeria Wedding</a>
+</li>
+	<li class="cat-item cat-item-427"><a href="http://naijan.com/comedy/" title="View all posts filed under Nigerian Comedy">Nigerian Comedy</a>
+</li>
+	<li class="cat-item cat-item-15781"><a href="http://naijan.com/nigerian-gospel/" title="View all posts filed under nigerian gospel">nigerian gospel</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://naijan.com/freenigerianmoviesonline/" title="View all posts filed under Nigerian Movies">Nigerian Movies</a>
+</li>
+	<li class="cat-item cat-item-263"><a href="http://naijan.com/nigerianmusic/" title="View all posts filed under Nigerian Music">Nigerian Music</a>
+</li>
+	<li class="cat-item cat-item-4465"><a href="http://naijan.com/nigerian-recipes/" title="View all posts filed under Nigerian Recipes">Nigerian Recipes</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://naijan.com/nollywoodgossip/" title="View all posts filed under Nollywood Gossip">Nollywood Gossip</a>
+</li>
+	<li class="cat-item cat-item-16179"><a href="http://naijan.com/nollywood-photo-gallery-2/" title="View all posts filed under Nollywood Photo Gallery">Nollywood Photo Gallery</a>
+</li>
+	<li class="cat-item cat-item-8057"><a href="http://naijan.com/news/politics-news/" title="View all posts filed under Politics">Politics</a>
+</li>
+	<li class="cat-item cat-item-14378"><a href="http://naijan.com/news/sport/" title="View all posts filed under Sport">Sport</a>
+</li>
+	<li class="cat-item cat-item-14414"><a href="http://naijan.com/weird-news/" title="View all posts filed under Weird News">Weird News</a>
+</li>
+	<li class="cat-item cat-item-15623"><a href="http://naijan.com/world-news/" title="View all posts filed under World News">World News</a>
+</li>
+		</ul>
+</b></li><!-- widget_rss --><li id="rss-7" class="widebar-bottom widget widget_rss"><h4 class="widgettitle"><b><a class="rsswidget" href="http://youtubenigerianmovies.com/feed/" title="Syndicate this content"><img style="border:0" width="14" height="14" src="http://naijan.com/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://youtubenigerianmovies.com" title="Watch Nigerian Movies Free Online">LATEST NOLLYWOOD MOVIES 2011</a></b></h4><ul><li><b><a class="rsswidget" href="http://youtubenigerianmovies.com/baby-police-5/" title="A comedy about Dada and Ntoto, the two living nightmare to anyone they meet, including the police force. Video Rating: 4 / 5 […]">Baby Police</a></b></li><li><b><a class="rsswidget" href="http://youtubenigerianmovies.com/sherikoko/" title="A tale that revolves around a young and ill-mannered woman who desires to live life at its best. This reflects on her discourteous behaviour towards the husband including denying him his marital rights. She soon abandons her marriage for school. Video Rating: 4 / 5 The comedy of a man(Moses Armstrong) who has lived in […]">Sherikoko</a></b></li><li><b><a class="rsswidget" href="http://youtubenigerianmovies.com/brain-box-2/" title="Dozie (Osita Iheme) &amp; Eke (Chinedu Ikedieze) are two young boys full of ambition but their quest to make money lead them into doing shady deals, to the extent of duping their father &amp; elder brother who stays abroad. Their elder brother, Nnamdi, returns to Nigeria and threatens to kill them if his properties are […]">Brain Box 2</a></b></li><li><b><a class="rsswidget" href="http://youtubenigerianmovies.com/ghost-in-love-3/" title="Bob’s abrupt dissolution of his relationship with sandra(Tonto Dike) is now hunting him after so many years of being away from each other. The invention of the new Blackberry Series spontanously defines the kind of friends or clique you will belong in the society. For the ladies it equals fashion and style also part of […]">Ghost in Love</a></b></li><li><b><a class="rsswidget" href="http://youtubenigerianmovies.com/mr-ibu-in-london/" title="A security man Mr Ibu (John Okafor) who wants to impress an international girl who happens to have an american boyfriend. Because he feels so intimidated by the american and decides to travel. He then requested for his salary in advance goes to london, Finally he is in london, messes up throughout his stay and […]">Mr Ibu in London</a></b></li><li><b><a class="rsswidget" href="http://youtubenigerianmovies.com/chelsea-and-liverpool-2/" title="Group of friends, Osondo(John Okafor) Reuben(Alaso Wariboko) Briggs(Charles Anurum) are notorious armed robbers in the city. They get mixed up with another gang of armed robbers things continues to get messier. […]">Chelsea and Liverpool</a></b></li><li><b><a class="rsswidget" href="http://youtubenigerianmovies.com/house-of-doom-2/" title="Chike (Zack Orji) impregnates Ijeoma (Uche Jombo) his mistress,then she forces her way into his matrimonial home which leads to hatred, misunderstanding…How would Chike fix this mess without making things worse…Find out ! […]">House of Doom</a></b></li><li><b><a class="rsswidget" href="http://youtubenigerianmovies.com/keziah-final-conflict-2-3/" title="Kezaih’s (Mercy Johnson’s) Lesbian friend refuses to let her go despite the fact that she is now married. Video Rating: 5 / 5 Bernard(John Okafor) return from Ivory Coast penniless but fortunately for him he discovers gold. Now he lies to his people that he returned from Germany instead Ivory-Coast. […]">Keziah Final Conflict 2</a></b></li><li><b><a class="rsswidget" href="http://youtubenigerianmovies.com/keziah-final-conflict-4/" title=".Kezaih’s (Mercy Johnson’s) Lesbian friend refuses to let her go despite the fact that she is now married. Video Rating: 5 / 5 Keziah (Mercy Johnson) return with full force. This time sleeping with women introduced to her by her youth corper room mate. Video Rating: 4 / 5 […]">Keziah Final Conflict</a></b></li><li><b><a class="rsswidget" href="http://youtubenigerianmovies.com/jaiyeku-2-2/" title="YORUBA MOVIE […]">Jaiyeku – 2.</a></b></li></ul></li><!-- widget_rss --><li id="rss-8" class="widebar-bottom widget widget_rss"><h4 class="widgettitle"><b><a class="rsswidget" href="http://nigeriajobvacancies.naijan.com/feed/" title="Syndicate this content"><img style="border:0" width="14" height="14" src="http://naijan.com/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://nigeriajobvacancies.naijan.com" title="Daily Job Vacancies From Employers in Nigeria">LATEST NIGERIA JOB VACANCIES</a></b></h4><ul><li><b><a class="rsswidget" href="http://nigeriajobvacancies.naijan.com/nigeria-social-insurance-trust-fund-massive-job-vacancies/" title="Nigeria Social Insurance Trust Fund Mass Job Vacancies INTERNAL/EXTERNAL ADVERTISEMENT EXCITING CAREER OPPORTUNITIES IN NIGERIA SOCIAL INSURANCE TRUST FUND (NSITF) Our client, NSITF, a Federal Government Agency, with nationwide presence, mandate to implement the new Employees’ Compensation Act for both private and public sectors, now invites applications fro […]">Nigeria Social Insurance Trust Fund Massive Job ...</a></b></li><li><b><a class="rsswidget" href="http://nigeriajobvacancies.naijan.com/mass-recruitment-and-job-opportunities-in-abuja-nigeria-at-adesen-consultants/" title="April 12, 2011 Mass Recruitment and Job Opportunities in Abuja Nigeria at Adesen Consultants Executive Search and Recruitment Services is now recruiting for Rewarding Career Opportunities in a World Class Organization Our client, an Urban Parking and Management Firm with a Public Private Partnership (PPP) Agreement has been given the Concession to manage ZON […]">Mass Recruitment and Job Opportunities in Abuja ...</a></b></li><li><b><a class="rsswidget" href="http://nigeriajobvacancies.naijan.com/head-cost-analyst-job-vacancy-at-swift-in-lagos-nigeria-april-2011/" title="April 11, 2011 Head Cost Analyst Job Vacancy at Swift in Lagos Nigeria April 2011 HEAD COST ANALYSTJOB REFERENCE: 878/2465SALARY: NegotiableCLOSING DATE: 18 Apr 2011LOCATION: LagosJOB TYPE: Contract JOB SUMMARYSwift Worldwide Resources are currently looking on behalf of our client for a Lead Cost Analyst. The role will be based in Lagos, Nigeria on a […]">Head Cost Analyst Job Vacancy at Swift in Lagos ...</a></b></li><li><b><a class="rsswidget" href="http://nigeriajobvacancies.naijan.com/certified-project-manager-job-vacancy-at-sunrose-nigeria-april-2011/" title="April 11,2011 Certified Project Manager Job Vacancy at Sunrose Nigeria April 2011 CERTIFIED PROJECT MANAGER POSITION DETAILS: Reporting to the Senior Project Manager, you will be responsible for overall project planning and scheduling, resource allocation, project accounting, and control, while providing technical direction and ensuring compliance with quali […]">Certified Project Manager Job Vacancy at Sunrose ...</a></b></li><li><b><a class="rsswidget" href="http://nigeriajobvacancies.naijan.com/business-development-manager-job-vacancy-at-restrai-in-lagos-nigeria-april-2011/" title="April 11, 2011 Business Development Manager Job Vacancy at Restrai in Lagos Nigeria April 2011 MANAGER – BUSINESS DEVELOPMENT FC NIGERIAORGANIZATION / LOCATION: Restral Consulting / Lagos DESCRIPTIONReStraL Limited seeks to engage a young, vibrant and energetic, professional with good business acumen to join a team of people managing its Franklin Covey busin […]">Business Development Manager Job Vacancy at ...</a></b></li><li><b><a class="rsswidget" href="http://nigeriajobvacancies.naijan.com/labour-relations-manager-job-vacancy-at-oil-and-gas-co-in-lagos-nigeria-april-2011/" title="April 11, 2011 Labour Relations Manager Job Vacancy at OIl and Gas co in Lagos Nigeria April 2011 LABOUR RELATIONS MANAGERORGANIZATION / LOCATION: Oil and Gas Company / Lagos DESCRIPTIONThe position requires foresight to anticipate the changing business environment and the ability to creatively and proactively react to the demands of the unions. The successf […]">Labour Relations Manager Job Vacancy at OIl and ...</a></b></li><li><b><a class="rsswidget" href="http://nigeriajobvacancies.naijan.com/procurement-assistant-job-vacancy-at-apin-nigeria-april-2011/" title="Procurement Assistant Job Vacancy at APIN Nigeria April 2011 PROCUREMENT ASSISTANTCLOSING DATE: 15th April, 2011 In order to further strengthen our Procurement Unit to effectively handle its increasing responsibility, we are seeking a qualified and competent candidate to assume the position of Procurement Assistant at our Abuja office. Reporting to the Procu […]">Procurement Assistant Job Vacancy at APIN Nigeria ...</a></b></li><li><b><a class="rsswidget" href="http://nigeriajobvacancies.naijan.com/audit-assistantchairmans-aide-job-vacancy-at-hospitality-co-in-lagos-nigeria-april-2011/" title="April 11, 2011 Audit Assistant,Chairman’s Aide Job Vacancy at Hospitality Co in Lagos, Nigeria April 2011 ANNOUNCEMENT: We are a major player in the Hospitality Industry with Head Office in Lagos. As part of our Business expansion, we are in need of suitably qualified candidates to fill the following positions: AUDIT ASSISTANTPROFILEHND/BSC in AccountancyATS […]">Audit Assistant,Chairman’s Aide Job Vacancy ...</a></b></li><li><b><a class="rsswidget" href="http://nigeriajobvacancies.naijan.com/job-vacancies-at-construction-company-in-victoria-island-lagos-nigeria-april-2011/" title="April 11, 2011 Job Vacancies at Construction Company in Victoria Island Lagos, Nigeria April 2011 ANNOUNCEMENT An expanding Group of Construction companies requires the following candidate for immediate employment: PROJECT ARCHITECTSCONFIDENTIAL SECRETARYCOMPANY SECRETARY/LEGAL ADVISERQUANTITY SURVEYORSTOWN PLANNERS REQUIREMENTSAcademic excellencePersonality […]">Job Vacancies at Construction Company in Victoria ...</a></b></li><li><b><a class="rsswidget" href="http://nigeriajobvacancies.naijan.com/teller-job-vacancy-at-standard-chartered-bank-in-ikejagralagos-nigeria-april-2011/" title="April 7,2011 Standard Chartered Bank Job Vacancy in Ikeja, GRA, Lagos Nigeria April 2011 JOB DESCRIPTIONJOB TITLE: TELLER – IKEJA GRAJOB ID: 277817JOB FUNCTION: Consumer BankingLOCATION: Nigeria – SCBFULL/PART TIME: Full-TimeREGULAR/TEMPORARY: Permanent JOB DESCRIPTIONPROCESSING OF CUSTOMERS CASH/CHEQUE/TRANSFER TELLER RELATED TRANSACTIONS KEY ROLES &amp; RE […]">Teller Job Vacancy at Standard Chartered Bank in ...</a></b></li></ul></li><!-- widget_rss --><li id="rss-9" class="widebar-bottom widget widget_rss"><h4 class="widgettitle"><b><a class="rsswidget" href="http://www.answers.naijan.com/feed" title="Syndicate this content"><img style="border:0" width="14" height="14" src="http://naijan.com/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget" href="http://answers.naijan.com" title="Answers To Popular Online Questions">Recent Questions &amp; Answers</a></b></h4><ul><li><b><a class="rsswidget" href="http://answers.naijan.com/objective-answers-for-got-paper-waec-2011/" title="Where can I find the Objective answers for got paper waec 2011 Incoming search terms:waec 2011waec 2011 questionswaec2011waec questionwaec question for 2011waec 2011 questions and answerswaec questions 2011Waec questionswaec answersWAEC QUESTION 2011 […]">Objective Answers for Got Paper Waec 2011</a></b></li><li><b><a class="rsswidget" href="http://answers.naijan.com/is-tb-joshua-a-real-prophet/" title="I have watched a lot of TB Joshua’s message on youtube and I have read his prophecy for the year. My question is this Is he doing those miracle through the help of the holyspirit or is he a fake prophet &nbsp; Please let me have your input Incoming search terms:TB JoshuaPROPHET TB JOSHUAtb jeshua […]">Is TB Joshua a Real Prophet ?</a></b></li><li><b><a class="rsswidget" href="http://answers.naijan.com/is-part-time-law-degree-accepted-in-nigeria/" title="is part time law degree accepted in nigeria Incoming search terms:law degree in nigeriapart time law degree in nigeria […]">Is Part Time Law Degree Accepted in Nigeria</a></b></li><li><b><a class="rsswidget" href="http://answers.naijan.com/how-can-i-prepare-nigerian-beans-cake-akara/" title="I will like to know how to prepare Nigerian Beans Cake or Akara Incoming search terms:nigerian akara […]">How Can I Prepare Nigerian Beans Cake, Akara</a></b></li><li><b><a class="rsswidget" href="http://answers.naijan.com/follow-us/" title="Follow Us on Twitter […]">Follow Us</a></b></li><li><b><a class="rsswidget" href="http://answers.naijan.com/should-i-marry-a-nigerian-man/" title="A Nigerian Man Wants to marry me, should I marry him or not […]">Should I Marry a Nigerian Man?</a></b></li><li><b><a class="rsswidget" href="http://answers.naijan.com/who-is-9ice-new-girlfriend/" title="Who is the current girlfriend of nigerian singer 9ice Incoming search terms:9ice new girlfriend9ice girlfriendwho is 9ice9ice and new girlfriend9ice new girl9ice new girl friend9ice new girlfirend9ice with new girlfriend […]">Who Is 9ice New Girlfriend</a></b></li><li><b><a class="rsswidget" href="http://answers.naijan.com/what-is-the-differences-between-pygmy-goats-and-nigerian-dwarfs/" title="pygmy goats vs nigerian dwarfs what is the differences Incoming search terms:pigmey goats as meat goatstörpekecske […]">What Is the Differences Between Pygmy Goats and ...</a></b></li><li><b><a class="rsswidget" href="http://answers.naijan.com/is-mercy-johnson-liberian-or-nigerian/" title="is actress mercy johnson liberian or nigerian Incoming search terms:is mercy johnson a nigerianMercy johnson nigerianIs mercy johnson originally from nigeria or liberiaMercy johnsonmercy johnson from which countryIs mercy johnson from kogi state?nigeria mercy johnsonnigerian mercy johnsonwhere in nigeria is mercy Johnson fromwhere is mercy Johnson from in ni […]">Is Mercy Johnson Liberian or Nigerian</a></b></li><li><b><a class="rsswidget" href="http://answers.naijan.com/what-is-the-full-meaning-of-efcc/" title="What does the acronym EFCC stands for Incoming search terms:full meaning of efccwhat is efccwhat is the meaning of efcc and other agencies […]">What Is the Full Meaning of EFCC</a></b></li></ul></li><!-- widget_text --><li id="text-14" class="widebar-bottom widget widget_text"><h4 class="widgettitle"><b>NAIJAN ONLINE RADIO **Listen **</b></h4><b>			<div class="textwidget"><a href="http://naijan.com/nigerian-online-radio//"><img class="alignnone size-full wp-image-5361" title="Nigerian Online Radio" src="http://naijan.com/wp-content/images/nigerianonlineradio.jpg" alt="" width="250" height=""></a>
+<a href="http://naijan.com/community/music/playlist/7/popout/1/" onclick="window.open('http://naijan.com/community/music/playlist/7/popout/1/','popup','width=450,height=400,scrollbars=yes,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=0'); return false">**Best Nigerian Music of All Time**</a> <br>
+<a href="http://naijan.com/community/music/playlist/6/popout/1/" onclick="window.open('http://naijan.com/community/music/playlist/6/popout/1/','popup','width=450,height=400,scrollbars=yes,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=no,left=50,top=0'); return false">**Best Nigerian Gospel Music**</a></div>
+		</b></li><!-- widget_text --><li id="text-16" class="widebar-bottom widget widget_text"><b>			<div class="textwidget"><a href="http://s08.flagcounter.com/more/n4HK"><img src="http://s08.flagcounter.com/count/n4HK/bg=FFFFFF/txt=000000/border=439C40/columns=4/maxflags=50/viewers=0/labels=0/pageviews=1/" alt="free counters" border="0"></a></div>
+		</b></li><b>                </b></ul><b>
+                
+            </b></div><b> <!-- id="bottom-widebar" -->
+            
+        	 
+	</b></b></div><b><b> <!-- id="sidebar-wrapper" -->
 	
 	<div class="clearFloat"></div>
 
 <!--
 End of sidebar.php
 ~~~ -->
-		
-</div> <!-- id="page-body-wrapper" -->
+		<!--
+[Footer Above] Below
+~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
+
+	
+        <div id="footer-above">
+            <ul class="footer-above-widget-block">
+            	<!-- widget_links --><li id="linkcat-2" class="footer-above widget widget_links"><h4 class="widgettitle">Useful Links</h4>
+	<ul class="xoxo blogroll">
+<li><a href="http://www.almapubliclibrary.org">Alma Public Directory</a></li>
+<li><a href="http://www.askalink.com" title="Online games to win cash prizes: backgammon, gin-rummy, cribbage, mahjong, collapse, darts, pacman, pool, solitaire, poker-rush, canasta and other.Play arcade and classic tournaments.">Ask-A-Link Games. Play to win</a></li>
+<li><a href="http://www.atgear.com">AtGear Directory</a></li>
+<li><a href="http://www.blogs-collection.com">Blogs Directory</a></li>
+<li><a href="http://www.crazyleafdesign.com/webdirectory">CrazyLeaf FREE Web Directory</a></li>
+<li><a href="http://www.hitwebdirectory.com">Directory Quality Web sites</a></li>
+<li><a href="http://www.littlewebdirectory.com" title="The Little Web Directory">Free Web Directory – Add Your Link</a></li>
+<li><a href="http://www.londovor.com">Free Web Directory Londovor</a></li>
+<li><a href="http://www.genocidefactor.com">GF Directory</a></li>
+<li><a href="http://www.marketingwebdirectory.com/computers_and_internet/">Internet Directory</a></li>
+<li><a href="http://www.nigeriajobvacancies.naijan.com">Jobs in Nigeria</a></li>
+<li><a href="http://www.magdalyns.com">MagDalyns Online</a></li>
+<li><a href="http://www.naijafeed.com" title="Naijafeed is your one stop destination for anything Nigerian related. From entertainment news,sports,people,places, politics (we dabble) and anything else Naija you care about, we bring it.">Naija Feed</a></li>
+<li><a href="http://nigeriajobvacancies.naijan.com" title="Latest Nigeria Job Listings">Nigeria Job Vacancies</a></li>
+<li><a href="http://nigerianblogawards.com">Nigerian Blog Awards</a></li>
+<li><a href="http://www.nigerianrecipes.org">Nigerian Recipes</a></li>
+<li><a href="http://www.onlinenigerianmovies.org">Online Nigerian Movies</a></li>
+<li><a href="http://www.plainstone.com">PLAINSTONE.COM</a></li>
+<li><a href="http://www.uocsa.net">PR5 Premium Free Website Directory Links To Your Website</a></li>
+<li><a href="http://www.phillyfirstonthefourth.com" title="Bring valuable traffic to your site by adding your domain to our free search engine friendly directory">Search Engine Friendly Directory</a></li>
+<li><a href="http://www.internet-business-directory.org" title="Free Backlink Directory">Seo Friendly Free Backlink Directory</a></li>
+<li><a href="http://www.tsection.com" title="Tsection Web Directory" target="_blank">Tsection – Great places to visit on the net</a></li>
+<li><a href="http://www.skoobe.biz">web link directory</a></li>
+<li><a href="http://www.qualityinternetdirectory.com/health">Web Sites Directory</a></li>
+<li><a href="http://www.whiplashclaim4u.co.uk/">Whiplash Claims</a></li>
+<li><a href="http://www.youtubegospelmusic.com">Youtube Gospel Music</a></li>
+
+	</ul>
+</li>
+<!-- widget_text --><li id="text-4" class="footer-above widget widget_text"><h4 class="widgettitle">PARTNERS LINK</h4>			<div class="textwidget"><a href="http://meetnigeriansinglesonline.com/">Meet Nigerian Singles</a><br>
+<a href="http://www.youtubenigerianmovies.com">Watch Nigerian Movies Online Free</a><br>
+<a href="http://www.etopedia.com/">Beautiful Photo Blog</a><br>
+<a href="http://www.nursing-school-programs.net">Nursing Schools Guide</a><br>
+<a href="http://www.answers.naijan.com">Nigeria Answers</a><br>
+<a href="http://directory.classifieds1000.com/Nigeria">Nigeria Directory</a><br>
+<a href="http://www.dmegs.com">Link Directory</a><br>
+<a href="http://www.rightbiz.co.uk">Businesses for sale</a><br>
+<a href="http://www.claimsheaven.co.uk/car-accidents/">Car Accident Claims</a><br>
+<a href="http://www.5z5.com/Feeds/?cc16e3ff43a9916a" title="Dr.5z5 Open Feed Directory"><img src="http://gadget.5z5.com/FeedReaders/Counter/?cc16e3ff43a9916a" border="0" alt="Subscribe My Feed"></a><br><a href="http://www.movingtruckrental.net/">Moving Truck Rental</a><br>
+<a href="http://www.londovor.com">Free Web Directory Londovor</a><br>
+<a href="http://www.websites4smallbusiness.net/ ">PR5 Premium Free Website Directory Links To Your Website</a><br><a href="http://www.codeclassic.net">Search Engine Friendly Directory </a><br>
+<a href="http://www.sh-ed.com">Quality Web Directory</a><br><a href="http://www.imadec.com">Imadec Open Web Directory</a><br><a href="http://www.shane-english.com">Shane English WEB Directory</a><br><a href="http://www.etopedia.com">Beautiful Places To Visit Worldwide</a>
+</div>
+		</li><!-- widget_global_translator --><li id="global-translator" class="footer-above widget widget_global_translator"><h4 class="widgettitle">Translator</h4>
+<!--FLAG_BAR_BEGIN--><div id="translation_bar"><map id="gltr_flags_map" name="gltr_flags_map"><area shape="rect" coords="0,0,16,11" href="http://naijan.com/privacy-policy/" id="flag_en" title="English"><area shape="rect" coords="20,0,36,11" href="http://naijan.com/it/privacy-policy/" id="flag_it" title="Italian"><area shape="rect" coords="40,0,56,11" href="http://naijan.com/ko/privacy-policy/" id="flag_ko" title="Korean"><area shape="rect" coords="60,0,76,11" href="http://naijan.com/zh-CN/privacy-policy/" id="flag_zh-CN" title="Chinese (Simplified)"><area shape="rect" coords="80,0,96,11" href="http://naijan.com/zh-TW/privacy-policy/" id="flag_zh-TW" title="Chinese (Traditional)"><area shape="rect" coords="100,0,116,11" href="http://naijan.com/pt/privacy-policy/" id="flag_pt" title="Portuguese"><area shape="rect" coords="120,0,136,11" href="http://naijan.com/de/privacy-policy/" id="flag_de" title="German"><area shape="rect" coords="140,0,156,11" href="http://naijan.com/fr/privacy-policy/" id="flag_fr" title="French"><area shape="rect" coords="160,0,176,11" href="http://naijan.com/es/privacy-policy/" id="flag_es" title="Spanish"><area shape="rect" coords="180,0,196,11" href="http://naijan.com/ja/privacy-policy/" id="flag_ja" title="Japanese"><area shape="rect" coords="200,0,216,11" href="http://naijan.com/ar/privacy-policy/" id="flag_ar" title="Arabic"><area shape="rect" coords="220,0,236,11" href="http://naijan.com/ru/privacy-policy/" id="flag_ru" title="Russian"><area shape="rect" coords="240,0,256,11" href="http://naijan.com/el/privacy-policy/" id="flag_el" title="Greek"><area shape="rect" coords="260,0,276,11" href="http://naijan.com/nl/privacy-policy/" id="flag_nl" title="Dutch"><area shape="rect" coords="280,0,296,11" href="http://naijan.com/bg/privacy-policy/" id="flag_bg" title="Bulgarian"><area shape="rect" coords="0,15,16,26" href="http://naijan.com/cs/privacy-policy/" id="flag_cs" title="Czech"><area shape="rect" coords="20,15,36,26" href="http://naijan.com/hr/privacy-policy/" id="flag_hr" title="Croatian"><area shape="rect" coords="40,15,56,26" href="http://naijan.com/da/privacy-policy/" id="flag_da" title="Danish"><area shape="rect" coords="60,15,76,26" href="http://naijan.com/fi/privacy-policy/" id="flag_fi" title="Finnish"><area shape="rect" coords="80,15,96,26" href="http://naijan.com/hi/privacy-policy/" id="flag_hi" title="Hindi"><area shape="rect" coords="100,15,116,26" href="http://naijan.com/pl/privacy-policy/" id="flag_pl" title="Polish"><area shape="rect" coords="120,15,136,26" href="http://naijan.com/ro/privacy-policy/" id="flag_ro" title="Romanian"><area shape="rect" coords="140,15,156,26" href="http://naijan.com/sv/privacy-policy/" id="flag_sv" title="Swedish"><area shape="rect" coords="160,15,176,26" href="http://naijan.com/no/privacy-policy/" id="flag_no" title="Norwegian"><area shape="rect" coords="180,15,196,26" href="http://naijan.com/ca/privacy-policy/" id="flag_ca" title="Catalan"><area shape="rect" coords="200,15,216,26" href="http://naijan.com/tl/privacy-policy/" id="flag_tl" title="Filipino"><area shape="rect" coords="220,15,236,26" href="http://naijan.com/iw/privacy-policy/" id="flag_iw" title="Hebrew"><area shape="rect" coords="240,15,256,26" href="http://naijan.com/id/privacy-policy/" id="flag_id" title="Indonesian"><area shape="rect" coords="260,15,276,26" href="http://naijan.com/lv/privacy-policy/" id="flag_lv" title="Latvian"><area shape="rect" coords="280,15,296,26" href="http://naijan.com/lt/privacy-policy/" id="flag_lt" title="Lithuanian"><area shape="rect" coords="0,30,16,41" href="http://naijan.com/sr/privacy-policy/" id="flag_sr" title="Serbian"><area shape="rect" coords="20,30,36,41" href="http://naijan.com/sk/privacy-policy/" id="flag_sk" title="Slovak"><area shape="rect" coords="40,30,56,41" href="http://naijan.com/sl/privacy-policy/" id="flag_sl" title="Slovenian"><area shape="rect" coords="60,30,76,41" href="http://naijan.com/uk/privacy-policy/" id="flag_uk" title="Ukrainian"><area shape="rect" coords="80,30,96,41" href="http://naijan.com/vi/privacy-policy/" id="flag_vi" title="Vietnamese"><area shape="rect" coords="100,30,116,41" href="http://naijan.com/sq/privacy-policy/" id="flag_sq" title="Albanian"><area shape="rect" coords="120,30,136,41" href="http://naijan.com/et/privacy-policy/" id="flag_et" title="Estonian"><area shape="rect" coords="140,30,156,41" href="http://naijan.com/gl/privacy-policy/" id="flag_gl" title="Galician"><area shape="rect" coords="160,30,176,41" href="http://naijan.com/mt/privacy-policy/" id="flag_mt" title="Maltese"><area shape="rect" coords="180,30,196,41" href="http://naijan.com/th/privacy-policy/" id="flag_th" title="Thai"><area shape="rect" coords="200,30,216,41" href="http://naijan.com/tr/privacy-policy/" id="flag_tr" title="Turkish"><area shape="rect" coords="220,30,236,41" href="http://naijan.com/hu/privacy-policy/" id="flag_hu" title="Hungarian"><area shape="rect" coords="240,30,256,41" href="http://naijan.com/be/privacy-policy/" id="flag_be" title="Belarus"><area shape="rect" coords="260,30,276,41" href="http://naijan.com/ga/privacy-policy/" id="flag_ga" title="Irish"><area shape="rect" coords="280,30,296,41" href="http://naijan.com/is/privacy-policy/" id="flag_is" title="Icelandic"><area shape="rect" coords="0,45,16,56" href="http://naijan.com/mk/privacy-policy/" id="flag_mk" title="Macedonian"><area shape="rect" coords="20,45,36,56" href="http://naijan.com/ms/privacy-policy/" id="flag_ms" title="Malay"><area shape="rect" coords="40,45,56,56" href="http://naijan.com/fa/privacy-policy/" id="flag_fa" title="Persian"></map><img style="border:0px;" src="http://naijan.com/wp-content/plugins/global-translator/gltr_image_map.png" usemap="#gltr_flags_map"></div><div id="transl_sign"></div><!--FLAG_BAR_END-->
+</li> 
+            </ul>
+        </div> <!-- id="footer-above" -->
+            
+        <div class="clearFloat"></div>
+    
+    
+</b></b></b></div><b><b><b> <!-- id="page-body-wrapper" -->
 	
 
+<!-- using Like-Button-Plugin-For-Wordpress [v4.4.3] | by Stefan Natter (http://www.gb-world.net) -->
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fnaijan.com&amp;layout=standard&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=light&amp;height=40" scrolling="no" frameborder="0" allowtransparency="true" style="border:none; overflow:hidden; width:150px; height:40px"></iframe>
+<!-- using Like-Button-Plugin-For-Wordpress [v4.4.3] | by Stefan Natter (http://www.gb-world.net) -->
+
+<!-- using Like-Button-Plugin-For-Wordpress [v4.4.3] | by Stefan Natter (http://www.gb-world.net) -->
+
+
+    </b></b></b></div><b><b><b> <!-- id="main" -->
 <!--
 footer.php
 ~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
 <div class="clearFloat"></div>
 
+	
+	
+<!--
+[Footer] Lock Bar
+~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
+
+	
+
 
 <!-- 
 Footers Left and Right
 ~~~ -->
-			<div id="footer">
-			<div id="footer-content">
-				<div id="footer-content-left">	
-					Copyright © 2010 · <a href="http://naijan.com">Naijan.com</a>, All Rights Reserved.  
-				</div> <!-- id="footer-content-left" -->
-				<div id="footer-content-right">	
-					Powered by <a href="http://www.free-premium-wordpress-themes.com" rel="dofollow">Free Wordpress Themes</a>
-				</div> <!-- id="footer-content-right" -->
-			</div> <!-- "footer-content" -->
-		</div> <!-- id="footer" -->
+	    
+    	    
+    	<div id="footer-wipe">
+            <div id="footer">
+                <div id="footer-content">
+                    
+                                            <div id="footer-content-left">	   
+                             <p>Copyright ©​ 2011  Naijan.com </p>        
+                        </div> <!-- id="footer-content-left" -->  
+                        
+                        <div id="footer-content-right">	
+                                                    </div> <!-- id="footer-content-right" -->
+                        
+                                         
+                </div> <!-- "footer-content" -->
+            </div> <!-- id="footer" -->
+        </div> <!-- id="foote-wipe" -->
 		
 		<div class="clearFloat"></div>
 	
@@ -670,27 +940,40 @@ Footers Left and Right
 Sub Footers Left and Right
 ~~~ -->  
 
-			<div id="sub-footer">
-			<div id="sub-footer-content">
-				<div id="sub-footer-content-left">	
-					
-				</div> <!-- id="sub-footer-content-left" -->
-				<div id="sub-footer-content-right">	
-				
-				</div> <!-- id="sub-footer-content-right" -->
-			</div> <!-- id="sub-footer-content" -->  
-		</div> <!-- id="sub-footer" -->
+	    
+            
+    	<div id="sub-footer-wipe">
+            <div id="sub-footer">
+                <div id="sub-footer-content">
+                
+                                            <div id="sub-footer-content-left">	
+                            <p><a href="http://naijan.com">Home</a>| <a href="http://naijan.com/about">About us</a> | <a href="http://naijan.com/contact">Contact </a> | <a href="http://naijan.com/privacy-policy">Privacy Policy </a> </p>                        </div> <!-- id="sub-footer-content-left" -->
+     
+                        <div id="sub-footer-content-right">	
+                            <p>Naijan.com <a href="http://naijan.com">Latest Nigerian Jobs, Movies, Musics and Networking</a></p>                        </div> <!-- id="sub-footer-content-right" -->
+     
+                                
+    
+                </div> <!-- id="sub-footer-content" -->  
+            </div> <!-- id="sub-footer" -->
+        </div> <!-- id="sub-footer-wipe" -->
 		
 		<div class="clearFloat"></div>
-	
-	</div> <!-- id="main" -->
 
-			
+	    
+<!--
+[Footer] Lock Bar
+~~~~~~~~~~~~~~~~~~~~~~~~ ~~~ -->
+
+	    
+   	    
+    
+	     
+		
 <!-- 
 Google Analytics
 ~~~ -->	
 	<script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-20387792-2']);
   _gaq.push(['_trackPageview']);
@@ -702,6 +985,41 @@ Google Analytics
   })();
 
 </script>	<script type="text/javascript">
+/* <![CDATA[ */
+var commonL10n = {
+	warnDelete: "You are about to permanently delete the selected items.\n  \'Cancel\' to stop, \'OK\' to delete."
+};
+try{convertEntities(commonL10n);}catch(e){};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://naijan.com/wp-admin/js/common.js?ver=20101211"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpAjax = {
+	noPerm: "You do not have permission to do that.",
+	broken: "An unidentified error has occurred."
+};
+try{convertEntities(wpAjax);}catch(e){};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://naijan.com/wp-includes/js/wp-ajax-response.js?ver=20091119"></script>
+<script type="text/javascript" src="http://naijan.com/wp-includes/js/wp-lists.js?ver=20101222"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var thickboxL10n = {
+	next: "Next &gt;",
+	prev: "&lt; Prev",
+	image: "Image",
+	of: "of",
+	close: "Close",
+	noiframes: "This feature requires inline frames. You have iframes disabled or your browser does not support them."
+};
+try{convertEntities(thickboxL10n);}catch(e){};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://naijan.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20100407"></script>
+<script type="text/javascript" src="http://naijan.com/wp-content/plugins/wpaudio-mp3-player/wpaudio.min.js?ver=3.1"></script>
+<script type="text/javascript">
 /* <![CDATA[ */
 var ratingsL10n = {
 	plugin_url: "http://naijan.com/wp-content/plugins/wp-postratings",
@@ -719,28 +1037,17 @@ var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.
 </script>
 <script type="text/javascript" src="http://naijan.com/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.50"></script>
 <noscript><a href="http://www.luminous-solutions.net">SEO services</a></noscript>
-<div style="display:none;"></div>
-<!-- tracker added by Ultimate Google Analytics plugin v1.6.0: http://www.oratransplant.nl/uga -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-XXXXXX-X");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-<!--
-<p class="small"> WassUp 1.8.1 timestamp: 2010-12-25 03:24:07AM UTC (03:24AM)<br />
+<div style="display:none;"></div><!--
+<p class="small"> WassUp 1.8.1 timestamp: 2011-04-12 09:37:33PM UTC (09:37PM)<br />
 If above timestamp is not current time, this page is cached.</p> -->
-<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201051.js" type="text/javascript"></script>
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201115.js" type="text/javascript"></script>
 <script type="text/javascript">
 st_go({blog:'18173977',v:'ext',post:'149'});
 var load_cmc = function(){linktracker_init(18173977,149,2);};
 if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 else load_cmc();
 </script>
-	<!-- Number of Queries:82   Seconds: 1.223-->
+	<!-- Number of Queries:22   Seconds: 1.718-->
 	
 
 
@@ -749,9 +1056,15 @@ else load_cmc();
 <!--
 End of footer.php
 ~~~ -->
-	
 
-	
 <!--
 End of page.php 
-~~~ --></body></html>
+~~~ -->
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk
+Page Caching using disk (enhanced)
+Database Caching 15/37 queries in 0.098 seconds using disk
+Object Caching 1839/1859 objects using disk
+
+Served from: naijan.com @ 2011-04-12 21:37:33 --></b></b></b></body></html>
