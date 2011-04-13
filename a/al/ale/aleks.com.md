@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217072933id_/http%3A//www.aleks.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413100101id_/http%3A//www.aleks.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**ALEKS Privacy Statement** (Last Updated 8/22/2008)
+(Last Updated 7/7/2010)
 
 This privacy statement provides important information about the privacy practices of ALEKS Corporation ("ALEKS") for our website: [www.aleks.com](http://www.aleks.com/) (the "ALEKS Website"). If you are under 18 years of age, please be sure to read this privacy statement with a parent or guardian and ask questions about anything you don’t understand.
 
-**I** **mportant Note:** **The privacy practices described below** **apply to all ALEKS use except for ALEKS use through a K-12 school. (The privacy practices discussed below do not apply to use of ALEKS through K-12 schools.) To see ALEKS privacy practices  that apply to use of ALEKS through a K-12 school, please click [here](http://www.aleks.com/privacy_statement_k12)** ** _._**
+**I** **mportant Note:** **The privacy practices described below** **apply to all ALEKS use except for ALEKS use through a K-12 school. (The privacy practices discussed below do not apply to use of ALEKS through K-12 schools.) To see ALEKS privacy practices  that apply to use of ALEKS through a K-12 school, please click [here](http://www.aleks.com/privacy_statement_k12)** **.**
 
 ALEKS is the sole owner of the information collected on the ALEKS Website. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. ALEKS collects information from our users at several different points on our website, including information about the knowledge of users of our services in order to provide instructional services suitable to their needs. 
 
@@ -41,7 +41,7 @@ The ALEKS Website is operated by [ALEKS Corporation](http://www.aleks.com/); 1
 
 A cookie is a piece of data stored on the user's hard drive containing information about the user. A plug-in is software which the user downloads and is installed into the user's web browser that enables certain web software to operate. Cookies enable us to protect confidential data, and track and target the interests of our users to enhance the experience on the ALEKS Website. In order to use the ALEKS Website, a user must accept the installation of one or more ALEKS plug-ins into the user's browser. Cookies and the ALEKS plug-in are not linked to any personally identifiable information. 
 
-  **Log Files**
+**Log Files**
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. Log files are are linked to personally identifiable information for purposes of (i) tracking and fixing software "bugs" and (ii) as and to the extent required by applicable law. 
 
