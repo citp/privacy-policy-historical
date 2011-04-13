@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the physionet.org privacy policy that was archived on 2010-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129095739id_/http%3A//www.physionet.org/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the physionet.org privacy policy that was archived on 2011-04-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110413114051id_/http%3A//www.physionet.org/privacy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>PhysioNet Privacy Policy</title>
@@ -8,17 +8,64 @@
 
 <script language="JavaScript" type="text/javascript">
 <!--
-function expand(thistag, tag) {
-   styleObj=document.getElementById(thistag).style;
-   if (styleObj.display=='none')
-   {
-   	styleObj.display='';
-	tag.innerHTML = "&nbsp;<b><tt>-</tt></b>&nbsp;";
-   }
-   else {
-   	styleObj.display='none';
-    tag.innerHTML = "&nbsp;<b><tt>+</tt></b>&nbsp;";
-   }
+function setCookie(c_name, value, path, exdays)
+{
+    var exdate = new Date();
+    exdate.setDate(exdate.getDate() + exdays);
+    var c_value = escape(value) +
+       ((exdays) ? ";expires=" + exdate.toUTCString() : "") +
+       ((path) ? ";path=" + path : "");
+    document.cookie = c_name + "=" + c_value;
+}
+
+function getCookie(c_name)
+{
+    var i, x, y, ARRcookies = document.cookie.split(";");
+    for (i = 0; i < ARRcookies.length; i++) {
+        x = ARRcookies[i].substr(0, ARRcookies[i].indexOf("="));
+	y = ARRcookies[i].substr(ARRcookies[i].indexOf("=") + 1);
+	x = x.replace(/^\s+|\s+$/g, "");
+	if (x == c_name) {
+	    return unescape(y);
+	}
+    }
+}
+
+window.onload=function()
+{
+    showHide();
+}
+
+function showHide()
+{
+    styleObj = document.getElementById('droplinks').style;
+    var headcompact = getCookie("headcompact");
+    if (headcompact == null) {
+	setCookie("headcompact", "false", "/");
+	headcompact = "false";
+    }
+    if (headcompact == "false") {
+   	styleObj.display = '';
+	document.getElementById('div1').innerHTML =
+	    "&nbsp;<b><tt title='Click \"-\" to show less'>-</tt></b>&nbsp;";
+    }
+    else {
+   	styleObj.display = 'none';
+	document.getElementById('div1').innerHTML =
+	    "&nbsp;<b><tt title='Click \"+\" to show more'>+</tt></b>&nbsp;";
+    }
+}
+
+function toggle() {
+    var headcompact = getCookie("headcompact");
+    if (headcompact == null || headcompact == "false") {
+	headcompact = "true";
+    }
+    else {
+        headcompact = "false";
+    }
+    setCookie("headcompact", headcompact, "/");
+    showHide();
 }
 //-->
 </script>
@@ -28,17 +75,17 @@ function expand(thistag, tag) {
 <table width="100%" cellpadding="2" cellspacing="0" border="0">
    <tbody><tr bgcolor="green">
     <td align="left" bgcolor="darkgreen" width="3"><font color="white">
-      <div id="div1" onclick="expand('droplinks',this);">&nbsp;<b><tt>-</tt></b>&nbsp;</div></font></td>
+      <div id="div1" onclick="toggle();">&nbsp;<b><tt title="Click &quot;-&quot; to show less">-</tt></b>&nbsp;</div></font></td>
     
+    <td><a href="/" title="PhysioNet main page" style="text-decoration:none"><font color="white"><b>Home</b></font></a></td>
     <td align="right"><font color="white"><b>
-	  <a href="/"><font color="white">PhysioNet</font></a>
+	  <a href="/physionet-intro.shtml" title="Challenges, tutorials, ..." style="text-decoration:none"><font color="white">PhysioNet Library</font></a>
 	  &nbsp;·&nbsp; 
-	  <a href="/physiobank/"><font color="white">PhysioBank</font></a>
+	  <a href="/physiobank/" title="Data archives, ATM" style="text-decoration:none"><font color="white">PhysioBank</font></a>
 	  &nbsp;·&nbsp;
-	  <a href="/physiotools/"><font color="white">PhysioToolkit</font></a>
+	  <a href="/physiotools/" title="Open source software" style="text-decoration:none"><font color="white">PhysioToolkit</font></a>
 	  &nbsp;·&nbsp;
-	  <a href="http://physionet.org/cgi-bin/pnw-login">
-	    <font color="white">PhysioNetWorks</font></a></b>
+	  <a href="/users/" title="Community workspace" style="text-decoration:none"><font color="white">PhysioNetWorks</font></a></b>
    </font></td></tr>
 </tbody></table>
 <table id="droplinks" style="display:'';" width="100%" cellpadding="2" cellspacing="0" border="0">
@@ -54,11 +101,10 @@ function expand(thistag, tag) {
   <input type="hidden" name="cx" value="007405203507124691154:xfntrbzi-tu">
   <input type="hidden" name="cof" value="FORID:11">
   <input type="text" name="q" size="25">
-  <input type="submit" name="sa" value="Search">
+  <input type="submit" name="sa" value="PhysioNet Search">
 </form>
 <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_007405203507124691154%3Axfntrbzi-tu"></script>
 <!-- Google CSE Search Box Ends -->
-<a href="/search.shtml">Advanced Search</a>&nbsp;|
 <a href="/physiotour/">Tour</a>&nbsp;|
 <a href="/mirrors/">Mirrors</a><br>
 <a href="/citations.shtml">How to Cite</a>&nbsp;|
@@ -68,25 +114,25 @@ function expand(thistag, tag) {
   </tr>
 
   <tr><td colspan="2" align="center" bgcolor="green"><font color="white"><b>
-       <a href="/news.shtml"><font color="white">What's&nbsp;New?</font></a>
+       <a href="/news.shtml" style="text-decoration:none"><font color="white">What's&nbsp;New?</font></a>
 	 &nbsp;·&nbsp;
-       <a href="/challenge/"><font color="white">Challenges</font></a>
+       <a href="/challenge/" style="text-decoration:none"><font color="white">Challenges</font></a>
 	 &nbsp;·&nbsp;
-       <a href="/contributors/"><font color="white">Contributors</font></a>
+       <a href="/contributors/" style="text-decoration:none"><font color="white">Contributors</font></a>
 	 &nbsp;·&nbsp;
-       <a href="/events/"><font color="white">Events</font></a>
+       <a href="/events/" style="text-decoration:none"><font color="white">Events</font></a>
 	 &nbsp;·&nbsp;
-       <a href="/publications/"><font color="white">Publications</font></a>
+       <a href="/publications/" style="text-decoration:none"><font color="white">Publications</font></a>
 	 &nbsp;·&nbsp; 
-       <a href="/tutorials/"><font color="white">Tutorials</font></a>
+       <a href="/tutorials/" style="text-decoration:none"><font color="white">Tutorials</font></a>
 	 &nbsp;·&nbsp;
-       <a href="/sponsors/"><font color="white">Sponsors</font></a>
+       <a href="/sponsors/" style="text-decoration:none"><font color="white">Sponsors</font></a>
 	 &nbsp;·&nbsp;
-       <a href="/resource.shtml"><font color="white">About&nbsp;PhysioNet</font></a>
+       <a href="/resource.shtml" style="text-decoration:none"><font color="white">About&nbsp;PhysioNet</font></a>
 	 &nbsp;·&nbsp;
-      <a href="/in-the-news.shtml"><font color="white">In&nbsp;the&nbsp;News</font></a>
+      <a href="/in-the-news.shtml" style="text-decoration:none"><font color="white">In&nbsp;the&nbsp;News</font></a>
 	 &nbsp;·&nbsp;
-       <a href="/site-map.shtml"><font color="white">Site&nbsp;Map</font></a></b></font>
+       <a href="/site-map.shtml" style="text-decoration:none"><font color="white">Site&nbsp;Map</font></a></b></font>
     </td>
   </tr>
 </tbody></table>
@@ -101,6 +147,7 @@ phone call, or by postal mail. Even when you choose to give us such
 information, we keep it confidential.
 
 </p><p>
+<strong>Mailing lists:</strong>
 We do not sell, rent, share, or otherwise disclose mailing lists or
 other personally identifiable information. We maintain some records of
 individuals who contact us so that we may contact you later or provide
@@ -108,6 +155,7 @@ further information to you in the future.  We do not provide
 this information to anyone else unless you give us your permission.
 
 </p><p>
+<strong>Web server logs:</strong>
 Our web servers collect information about dates and times when our web
 site was accessed, the IP addresses and host names of the computers
 that connect to our site, and the URLs of the web sites from which you
@@ -116,28 +164,35 @@ stripped of personally identifiable information, to analyze web
 traffic and to document usage of this resource to funding agencies.
 
 </p><p>
-If you choose to use PhysioNetWorks, our server will use HTTP cookies
-in combination with other authentication methods, such as passwords,
-to protect content that you upload to your workspace from access by
-others.  PhysioNet does not use cookies elsewhere on its web site.
+<strong>Cookies:</strong> If you use the '-' or '+' controls (which condense or
+expand the page header) in the upper left corner of a page, your most recent
+choice is saved in a session cookie, so that page headers will maintain the
+appearance you have chosen as you navigate around the site.  Within the
+PhysioNetWorks section of this web site, our server uses secure session cookies
+in combination with other authentication methods, such as passwords, to ensure
+that the source of uploaded content is correctly identified, and to protect
+restricted content from unauthorized access.  PhysioNet does not use cookies
+elsewhere on its web site.
 
 </p><p>
-You may register as a member of PhysioNet if you use PhysioBank data
-or PhysioToolkit software, or if you wish to contribute data, software, or
-commentary to the PhysioNet web site.  The information you submit with
-your registration is entered into the PhysioNet membership database.
-The PhysioNet membership database is never sold, rented, lent,
-exchanged, or used for anything other than official PhysioNet
-activity.  We may elect to send members mailings with information from
-other groups, but the mailings will always originate with PhysioNet.
+<strong>Registration:</strong> If you wish to have access to any part of
+PhysioNetWorks, you must register as a member.  <em>Registration is not
+necessary for access to any other part of the PhysioNet web site, including all
+of PhysioBank, PhysioToolkit, and the PhysioNet Library.</em>
 
 </p><p>
-Members may post data, software, and commentary via PhysioNet, but all such
-postings are identified by the member's e-mail address (at a minimum; you may
-of course include other identifying information, such as a PGP signature, if
-you wish).
+<strong>Member profiles:</strong> Registration requires you to create a member
+profile including your email address, full name, and country of residence. (You
+may provide additional information as part of your member profile, but this is
+optional).  Your member profile is available to the owner of any PhysioNetWorks
+project you apply to join, and to other members of projects that you join.  If
+you become the owner of a PhysioNetWorks project (either by your request or by
+your agreement to the previous owner's request), your member profile is
+available to all PhysioNetWorks members.  Member profiles are not sold, rented,
+lent, exchanged, or made available for any other purpose.
 
 </p><p>
+<strong>About this policy:</strong>
 Our privacy policy is based on those adopted by <a href="http://www.cpsr.org/" target="other">Computer Professionals for Social Responsibility</a> and by the
 <a href="http://www.privacyrights.org" target="other">Privacy Rights
 Clearinghouse</a>.  This is a <a href="http://www.w3.org/P3P/" target="other">P3P-enabled</a> web site.  If you are using a P3P-enabled web
@@ -145,7 +200,7 @@ browser, it should be able to fetch our P3P policy automatically.  If not,
 here are our <a href="/w3c/policy1.xml">P3P policy</a> and <a href="/w3c/p3p.xml">P3P policy reference</a> files.
 
 <table width="100%" cellpadding="5"><tbody><tr><td align="center" bgcolor="green">
-<a href="http://physionet.org/cgi-bin/feedback">
+<a href="http://physionet.org/cgi-bin/feedback" style="text-decoration:none">
 <font color="white"><b>Send feedback about this page to PhysioNet</b></font></a>
 </td></tr></tbody></table>
 <table cellpadding="10"><tbody><tr><td>
@@ -170,7 +225,7 @@ Cambridge, MA 02139 USA<br></address></i>
 </p><p>
 Updated 
 
-Saturday, 20-Mar-2010 12:37:00 EDT
+Thursday, 17 March 2011 at 10:41 EDT
 <map name="nih">
  <area shape="rect" coords="0,0,160,100" href="http://www.nibib.nih.gov/" target="other" alt="National Institute of Biomedical Imaging and Bioengineering">
  <area shape="rect" coords="170,0,230,100" href="http://www.nih.gov/" target="other" alt="National Institutes of Health">
