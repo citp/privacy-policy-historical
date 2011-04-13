@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divinvest.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121190513id_/http%3A//www.divinvest.com/home/en/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinvest.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414000335id_/http%3A//www.divinvest.com/home/en/privacy.jsp) for the most accurate reproduction.*
 
 # Diversified Investment Advisors
 
@@ -32,7 +32,7 @@ Diversified does not disclose any information gathered or collected from this We
 
 ### Our Information Security Procedures
 
-In the event that you choose to submit nonpublic personal information on our Web site, Diversified also takes steps internally to safeguard such information. We restrict access to your personal information to those employees and service providers who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. (If you become a retail customer of Diversified or a retirement plan participant, you will receive a [Privacy Notice](https://www.divinvest.com/ddol/servlet/com.aegon.arch.service.documentmanagement.proxy.DocumentManagementServiceProxyInvokerServlet?Saction=doTemplateView&CATALG_ITEM_C=9b688e-10494791db6--726) when you open an account or otherwise submit an application form. The Privacy Notice describes Diversified's procedures for handling and safeguarding nonpublic personal information collected from you during the establishment and servicing of your account.)
+In the event that you choose to submit nonpublic personal information on our Web site, Diversified also takes steps internally to safeguard such information. We restrict access to your personal information to those employees and service providers who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information. (If you become a retail customer of Diversified or a retirement plan participant, you will receive a [Privacy Notice](https://ddol.divinvest.com/ddol/servlet/com.aegon.arch.service.documentmanagement.proxy.DocumentManagementServiceProxyInvokerServlet?Saction=doTemplateView&CATALG_ITEM_C=9b688e-10494791db6--726) when you open an account or otherwise submit an application form. The Privacy Notice describes Diversified's procedures for handling and safeguarding nonpublic personal information collected from you during the establishment and servicing of your account.)
 
 ### Changes to the Privacy Policy
 
