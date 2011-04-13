@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfedloan.org privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211071308id_/http%3A//myfedloan.org/about/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfedloan.org privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413074639id_/http%3A//www.myfedloan.org/about/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - FedLoan Servicing
 
