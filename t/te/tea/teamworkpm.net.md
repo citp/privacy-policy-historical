@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamworkpm.net privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905045315id_/http%3A//www.teamworkpm.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamworkpm.net privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413021526id_/http%3A//www.teamworkpm.net/privacypolicy) for the most accurate reproduction.*
 
 # Teamwork Project Manager - Privacy Policy
 
@@ -19,7 +19,7 @@ If you decide you no longer wish to receive postal mailings and/or e-mails from 
 
 ### Information Automatically Collected and Stored
 
-In common with many websites, we also measure the performance of our website in order to improve and customize it in favor of our visitors. During your visit, we may automatically collect and temporarily store certain usage information about visits to our websites. This information may include information such as your web request, internet Protocol ("IP") address, browser type, referring/ existing pages and URLs, domain names, pages viewed and the date and time of your request and other such information that uniquely identify your browser. Such information is used for system administration and for producing usage statistics. We may entrust third parties with the described performance measurement. Such third parties will be required to use appropriate confidentiality and security measures.
+In common with many websites, we also measure the performance of our website in order to improve and customize it in favor of our visitors. During your visit, we may automatically collect and temporarily store certain usage information about visits to our websites. This information may include information such as your web request, Internet Protocol ("IP") address, browser type, referring/ existing pages and URLs, domain names, pages viewed and the date and time of your request and other such information that uniquely identify your browser. Such information is used for system administration and for producing usage statistics. We may entrust third parties with the described performance measurement. Such third parties will be required to use appropriate confidentiality and security measures.
 
 Our website may deposit certain bits of information called "cookies" in a visitor’s computer. Generally, a cookie assigns a unique number to the visitor that has no meaning outside the assigning site. Cookies can tell us how and when pages in a website are visited and by how many people. This technology does not collect an individual visitor’s identifying information; rather, this information is also in an aggregate form. The purpose of this technology and the information it provides is again to help us improve our website. Most web browsers allow the user to deny or accept the cookie feature. However, please note that cookies may be necessary to provide you with certain features (e.g. customized delivery of information) available on our website. Further information about cookies can be found at http://www.microsoft.com/info/cookies.mspx 
 
@@ -46,4 +46,4 @@ For any question or to request modification or deletion of your personal informa
 
 ### Changes and Updates to this Policy
 
-We reserve the right to amend this Privacy Policy from time to time. We will provide notification of the change on our website. The Privacy Policy does not create any contractual or other legal right in or on behalf of any party. 
+We reserve the right to amend this Privacy Policy from time to time. We will provide notification of the change on our website. The Privacy Policy does not create any contractual or other legal right in or on behalf of any party.
