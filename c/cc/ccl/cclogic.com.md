@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cclogic.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228152532id_/http%3A//www.cclogic.com/cyprus-company-formation/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cclogic.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413151244id_/http%3A//www.cclogic.com/cyprus-company-formation/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | cyprus-company-formation
 
