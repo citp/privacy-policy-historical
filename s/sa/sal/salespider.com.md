@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salespider.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216164718id_/http%3A//www.salespider.com/index.php%3Fprivacy%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salespider.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413192523id_/http%3A//www.salespider.com/index.php%3Fprivacy%3D1%26ref%3Dfooter) for the most accurate reproduction.*
 
 # The Entrepreneur Network for Small Business, Home Business & Business Opportunity
 
