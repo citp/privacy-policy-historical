@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strange-lands.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128205458id_/http%3A//strange-lands.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strange-lands.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413063122id_/http%3A//strange-lands.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ESL & Travel
 
