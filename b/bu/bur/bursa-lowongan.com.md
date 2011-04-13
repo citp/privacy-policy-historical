@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bursa-lowongan.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218082013id_/http%3A//bursa-lowongan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bursa-lowongan.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414000523id_/http%3A//bursa-lowongan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LOWONGAN KERJA
 
