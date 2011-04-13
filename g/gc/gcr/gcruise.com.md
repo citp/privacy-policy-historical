@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gcruise.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630084911id_/http%3A//www.gcruise.com/index.php%3Flink_id%3D30%26c%3Dmain%26a%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcruise.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413203104id_/http%3A//www.gcruise.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
 
-# GCruise - Cruise and Search for Gay men online now with Hot group VideoChat.
+# Gay Sex, Hookups | Hot Gays | Meet Local Gay Men | GCruise
 
 ### GCruise Privacy Policy:
 
@@ -13,7 +13,7 @@ We at GCruise offer this Privacy Policy ("Policy") to inform Users of the GCruis
 
 By providing personal information to us, and by using the Website or Service, you consent to our collection, use and disclosure of your personal information in accordance with this Policy.
 
-Please read this Policy carefully and save it. If you do not agree with the terms of this Policy, you should leave the Website and discontinue use of the Service immediately. In addition, if you are an individual who wishes to become a Registered User or Member, you must read this Policy and indicate your acceptance of its terms by following the instructions on the [REGISTRATION [http://www.gcruise.com/index.php?c=register&a=index]](https://web.archive.org/index.php?c=register&a=index) page and check the box labelled "I have read and agree to the Privacy Policy and Terms and Conditions. I confirm I have reached the age of majority in my jurisdiction." 
+Please read this Policy carefully and save it. If you do not agree with the terms of this Policy, you should leave the Website and discontinue use of the Service immediately. In addition, if you are an individual who wishes to become a Registered User or Member, you must read this Policy and indicate your acceptance of its terms by following the instructions on the [REGISTRATION [http://www.gcruise.com/register]](https://web.archive.org/register) page and check the box labelled "I have read and agree to the Privacy Policy and Terms and Conditions. I confirm I have reached the age of majority in my jurisdiction." 
 
 For the purposes of this Policy, "personal information" shall mean any information that can identify an individual directly or through other reasonable means.
 
@@ -27,7 +27,7 @@ What are IP Addresses? An IP address is a number that's automatically assigned t
 
 What are Cookies? We use cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements, and to customize advertising and web page content for individual users. A cookie is an alphanumeric identifier which we transfer to your hard drive through your web browser when you visit our Website. It enables our own system to recognise you when you visit our Website again and improve our service to you. Cookies may also be used to compile aggregate information about areas of our Website that are visited most frequently. 
 
-This traffic information can be used to enhance the content of our Website and make your use of it easier. We do not link the information we store in cookies to any personally identifiable information you submit while on the Website. Note that you must enable cookies from GCruise in order to use most functions on the Website. Nevertheless, if you wish to reject our cookies, you can configure your browser to do so (instructions for disabling cookies can be found in our FAQs [here](https://web.archive.org/index.php?c=main&a=faq). Please note that GCruise allows third parties who are presenting advertisements on some of our pages to set and access their cookies on your computer in a process that GCruise does not control. Advertisers' uses of cookies are subject to their own privacy policies, not this Policy. Therefore, we suggest that you examine the privacy policies of such advertisers to learn how they may collect, use, share and disclose your personal information. 
+This traffic information can be used to enhance the content of our Website and make your use of it easier. We do not link the information we store in cookies to any personally identifiable information you submit while on the Website. Note that you must enable cookies from GCruise in order to use most functions on the Website. Nevertheless, if you wish to reject our cookies, you can configure your browser to do so (instructions for disabling cookies can be found in our FAQs [here](https://web.archive.org/main/faq). Please note that GCruise allows third parties who are presenting advertisements on some of our pages to set and access their cookies on your computer in a process that GCruise does not control. Advertisers' uses of cookies are subject to their own privacy policies, not this Policy. Therefore, we suggest that you examine the privacy policies of such advertisers to learn how they may collect, use, share and disclose your personal information. 
 
 #### 2) Information Required for Registration. 
 
@@ -41,7 +41,7 @@ Note that, during the Membership process, third party billing agents will collec
 
 #### 3) Voluntary Inclusion of Personal Information. 
 
-Personally identifiable information that you enter into your profile, that you include in communications with other Members or Users, or that you disclose in any media (text, chat streams, graphical, audio, visual or audio-visual), or that you post or display on the Website is accessible by other Users (Registered Users and Members) of the Website. GCruise is not responsible for any privacy issues arising from your own voluntary posting or transmission of personal information via the Service. You acknowledge and agree that you (not GCruise or our affiliates, advertisers, employees and content providers) shall be solely responsible and liable for all damages, liability or other consequences, foreseen or unforeseen, of all information which you submit, publish, display, disseminate or otherwise communicate through the Website even if a claim for damages or liability should arise after termination of service.
+Personally identifiable information that you enter into your profile, that you include in communications with other Members or Users, or that you disclose in any media (text, chat streams, graphical, audio, visual or audio-visual), or that you post or display on the Website is accessible by visitors to the website, and by other Users (Registered Users and Members) of the Website. GCruise is not responsible for any privacy issues arising from your own voluntary posting or transmission of personal information via the Service. You acknowledge and agree that you (not GCruise or our affiliates, advertisers, employees and content providers) shall be solely responsible and liable for all damages, liability or other consequences, foreseen or unforeseen, of all information which you submit, publish, display, disseminate or otherwise communicate through the Website even if a claim for damages or liability should arise after termination of service.
 
 #### 4) Communication. 
 
@@ -138,12 +138,12 @@ BY PROVIDING PERSONAL INFORMATION TO US YOU SIGNIFY YOUR CONSENT TO OUR COLLECTI
 
 #### 17) Handling Complaints, Questions and Suggestions. 
 
-To stop or resume receiving email notifications regarding various site activity or offers, users can edit their settings at: [ GCruise](https://web.archive.org/index.php?c=myprofile&a=settings)
+To stop or resume receiving email notifications regarding various site activity or offers, users can edit their settings at: [ GCruise](https://web.archive.org/myprofile/settings)
 
-If you have any further questions or concerns about GCruise's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/index.php?c=contact&a=index), or by email to [the webmaster.](mailto:abuse@GCruise.com)
+If you have any further questions or concerns about GCruise's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/contact) or by email to [the webmaster.](mailto:abuse@GCruise.com)
 
 #### 18). Dispute Resolution 
 
 Any claim or cause of action you may have arising from, connected with, or relating to this privacy policy or GCruise's handling of your personal information, or any related matters must be commenced within six (6) months after the claim or cause of action arises, after which time the claim or cause of action is forever barred, regardless of any statute or law to the contrary. 
 
-Version [08/26/08]
+Version [06/23/10]
