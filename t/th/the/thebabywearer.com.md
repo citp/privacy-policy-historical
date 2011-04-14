@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebabywearer.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901203329id_/http%3A//www.thebabywearer.com/w3c/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebabywearer.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414134920id_/http%3A//www.thebabywearer.com/w3c/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
