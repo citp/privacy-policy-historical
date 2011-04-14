@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vitalmx.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801130509id_/http%3A//www.vitalmx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitalmx.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414223634id_/http%3A//www.vitalmx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Vital MX
+# Vital MX
+
+## Privacy Policy
 
 VitalMediaNetwork.com, VitalMediaNet.com, VitalBMX.com, VitalMTB.com, and VitalMX.com are part of the Vital Media Network group of sites and services.
 
@@ -11,7 +13,7 @@ You must be at least 13 years old to use VitalMediaNetwork.com, VitalMediaNet.co
 I. INFORMATION COLLECTED
     
 
-We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address, computer settings or most-recently visited URL. We may also ask you to provide certain non-personally identifiable information about yourself, such as your age, household income, buying preferences, etc. We do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by, for example, filling out a survey or registration form. The types of information that may be requested include your name, address, e-mail address, and telephone number.
+We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address, computer settings or URLs visited. We may also ask you to provide certain non-personally identifiable information about yourself, such as your age, household income, buying preferences, etc. We do not collect any personally identifiable information about you unless you voluntarily submit such information to us, by, for example, filling out a survey or registration form. The types of information that may be requested include your name, address, e-mail address, and telephone number.
 
 II. USE OF INFORMATION
     
@@ -23,7 +25,7 @@ Non-personal demographic and profile data may be used to tailor your experience 
 III. USE OF IP ADDRESSES
     
 
-Your IP address may be used to help diagnose problems with our server, and to administer our Web site; to tailor advertising based on characteristics derived from your IP address; to estimate the number of users from geographic regions; and to limit submissions in polls or promotions.
+Your IP address may be used to help diagnose problems with our server, and to administer our Web site; to tailor advertising based on characteristics derived from your IP address; to estimate the number of users from geographic regions; and to limit submissions in polls or promotions. At the sole discretion of our administrators and moderators, IP addresses may also be used to identify and/or block members. 
 
 IV. USE OF COOKIES
     
@@ -65,6 +67,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Or
 
-Vital Media Network, Inc. Customer Care (Privacy) 2151 Michelson, #144 Irvine, CA 92612 (949) 265-3090 
+Vital Media Network, Inc. Customer Care (Privacy) 2151 Michelson, #144 Irvine, CA 92612 (949) 478-4820 
 
-Updated: July 29, 2009
+Updated: April 8, 2011
