@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cascadedesigns.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213222813id_/http%3A//cascadedesigns.com/Home/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cascadedesigns.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414202502id_/http%3A//cascadedesigns.com/Home/Privacy-Policy) for the most accurate reproduction.*
 
 # Cascade Designs, Inc.
 
@@ -9,3 +9,7 @@ Cascade Designs, Inc. sets high standards and has a strong commitment to protect
 ## How do we use cookies?
 
 "Cookies" are small text files stored on your computer that a web site can use to recognize repeat visitors, and to allow a web site to provide a personalized experience to each visitor. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to disable the cookie feature. The Cascade Designs, Inc. web site uses cookies for various reasons. The main use of cookies is to measure advertising effectiveness so that we can better tailor our advertising efforts. Cookies are in no way used to collect any personal information about you the user. Any personal information collected is given voluntarily by you the user in a catalog request or a request for more information. 
+
+## Sweepstakes and Contest entries
+
+Cascade Designs, Inc. periodically conducts sweepstakes and contests where we gather personal information. The information is used to help create products that are better suited for you, our customer. We may contact you if contact information is supplied. You can always unsubscribe from any contact list of Cascade Designs’. We do not sell or share the information provided to any outside company or third party and all information is stored on secure servers with limited access. 
