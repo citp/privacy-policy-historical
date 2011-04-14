@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommasterminds.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220093517id_/http%3A//mommasterminds.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommasterminds.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414183648id_/http%3A//mommasterminds.com/policies.htm) for the most accurate reproduction.*
 
 # Privacy and Policies
 
