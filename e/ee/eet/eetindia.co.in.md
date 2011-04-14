@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eetindia.co.in privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229030848id_/http%3A//www.eetindia.co.in/STATIC/SITE/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eetindia.co.in privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414200254id_/http%3A//www.eetindia.co.in/STATIC/SITE/PRIVACY.HTM) for the most accurate reproduction.*
 
 # Privacy Policy - EETimes India
 
