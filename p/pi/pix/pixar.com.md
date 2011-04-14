@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pixar.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230094557id_/http%3A//www.pixar.com/companyinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixar.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414200937id_/http%3A//www.pixar.com/companyinfo/privacy.html) for the most accurate reproduction.*
 
 # Pixar Online Privacy Policy
 
-[](https://web.archive.org/web/20101230094557id_/http%3A//www.pixar.com/companyinfo/about_us/overview.htm)  
-[](https://web.archive.org/web/20101230094557id_/http%3A//www.pixar.com/companyinfo/about_us/execs.htm)  
-[](https://web.archive.org/web/20101230094557id_/http%3A//www.pixar.com/companyinfo/about_us/contactus.html) |  | 
+[](https://web.archive.org/web/20110414200937id_/http%3A//www.pixar.com/companyinfo/about_us/overview.htm)  
+[](https://web.archive.org/web/20110414200937id_/http%3A//www.pixar.com/companyinfo/about_us/execs.htm)  
+[](https://web.archive.org/web/20110414200937id_/http%3A//www.pixar.com/companyinfo/about_us/contactus.html) |  | 
 
 Thank you for visiting Pixar.com. This Privacy Policy sets forth the online information practices of Pixar Animation Studios (“Pixar”), including:
 
@@ -17,7 +17,7 @@ Thank you for visiting Pixar.com. This Privacy Policy sets forth the online info
 
 SPECIAL POLICY WITH REGARD TO INFORMATION FROM CHILDREN UNDER THIRTEEN
 
-Pixar is especially sensitive to privacy issues concerning children. Pixar.com is not targeted specifically to children under the age of 13, and we do not knowingly collect personally-identifiable information from any child under the age of 13. If we discover that we have received such information, we delete it immediately and we do not use it or share it with third parties. 
+Pixar is especially sensitive to privacy issues concerning children. Pixar.com is not targeted specifically to children under the age of 13, and we do not knowingly collect personally-identifiable information from any child under the age of 13 without parental consent. When we discover that we have received such information, we delete it immediately and we do not use it or share it with third parties. 
 
 INFORMATION COLLECTION AND USE
 
@@ -50,9 +50,9 @@ Pixar provides you with the following choices regarding the use of your informat
 
   * You may choose to not provide us with any contact information. However, if you do so, your ability to navigate this site may be impaired.  
 
-  * If you would like to change or modify information you have previously provided us, please send an e-mail to [webmaster@pixar.com](mailto:webmaster@pixar.com).  
+  * If you would like to change or modify information you have previously provided us, please send an e-mail to [webmaster@pixar.com](mailto:webmaster@pixar.com?subject=&body=Please%20Note:%20Pixar%20does%20not%20accept%20unsolicited%20submissions%20of%20creative%20materials.%20Please%20do%20not%20use%20this%20e-mail%20alias%20to%20send%20unsolicited%20materials.%20All%20communications%20with%20Pixar%20via%20this%20e-mail%20link%20are%20governed%20by%20the%20Terms%20of%20Use%20found%20at%20Pixar.com).  
 
-  * If you have any questions about this privacy policy or the practices of our web site, please contact [webmaster@pixar.com](mailto:webmaster@pixar.com).
+  * If you have any questions about this privacy policy or the practices of our web site, please contact [webmaster@pixar.com](mailto:webmaster@pixar.com?subject=&body=Please%20Note:%20Pixar%20does%20not%20accept%20unsolicited%20submissions%20of%20creative%20materials.%20Please%20do%20not%20use%20this%20e-mail%20alias%20to%20send%20unsolicited%20materials.%20All%20communications%20with%20Pixar%20via%20this%20e-mail%20link%20are%20governed%20by%20the%20Terms%20of%20Use%20found%20at%20Pixar.com).
 
 
 
@@ -63,7 +63,7 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 SECURITY
 
-We make every effort to have reasonable security procedures in place to protect against the loss, misuse or alteration of information under our control. If you have any questions about the security of our web site or about this privacy policy, please contact [webmaster@pixar.com](mailto:webmaster@pixar.com).
+We make every effort to have reasonable security procedures in place to protect against the loss, misuse or alteration of information under our control. If you have any questions about the security of our web site or about this privacy policy, please contact [webmaster@pixar.com](mailto:webmaster@pixar.com?subject=&body=Please%20Note:%20Pixar%20does%20not%20accept%20unsolicited%20submissions%20of%20creative%20materials.%20Please%20do%20not%20use%20this%20e-mail%20alias%20to%20send%20unsolicited%20materials.%20All%20communications%20with%20Pixar%20via%20this%20e-mail%20link%20are%20governed%20by%20the%20Terms%20of%20Use%20found%20at%20Pixar.com).
 
 |   
   
