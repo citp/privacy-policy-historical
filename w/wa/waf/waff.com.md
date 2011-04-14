@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waff.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226104906id_/http%3A//www.waff.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waff.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414131920id_/http%3A//www.waff.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - WAFF.com: North Alabama News, Radar, Weather, Sports and Jobs-
 
