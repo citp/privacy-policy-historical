@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crossmediaservices.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215103144id_/http%3A//crossmediaservices.com/privatepolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crossmediaservices.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414113640id_/http%3A//crossmediaservices.com/privatepolicy.html) for the most accurate reproduction.*
 
 # ShopLocal, the leader in multi-channel shopping services, connects advertisers and consumers.
 
