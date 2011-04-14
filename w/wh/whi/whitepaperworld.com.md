@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepaperworld.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606204836id_/http%3A//whitepaperworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepaperworld.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414133219id_/http%3A//whitepaperworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | White Paper World
 
