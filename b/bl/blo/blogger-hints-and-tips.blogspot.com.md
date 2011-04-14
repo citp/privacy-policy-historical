@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the blogger-hints-and-tips.blogspot.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123011104id_/http%3A//blogger-hints-and-tips.blogspot.com/2009/12/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogger-hints-and-tips.blogspot.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414114037id_/http%3A//blogger-hints-and-tips.blogspot.com/2009/12/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Blogger-Hints-and-Tips
+
+###  [Privacy Policy](http://blogger-hints-and-tips.blogspot.com/2009/12/privacy-policy.html)
 
 **This article describes the personal information that Blogger-hints-and-Tips collects and how it is used.**  
 
@@ -32,3 +34,12 @@ Queries about this policy should be sent to:  bloggerhintsandtips@gmail.com
 **Related Articles:  **
 
 There are no related articles for this topic.
+
+* * *
+
+  
+|  |  | 
+
+[](http://www.printfriendly.com/ "Print an optimized version of this blog post or generate a PDF")  
+  
+---|---|---|---
