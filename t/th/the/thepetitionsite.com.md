@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepetitionsite.com privacy policy that was archived on 2010-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100222145131id_/http%3A//www.care2.com/help/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepetitionsite.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414112811id_/http%3A//www.care2.com/help/membership/privacy.html) for the most accurate reproduction.*
 
 # Care2 Help Center
 
