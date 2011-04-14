@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230014515id_/http%3A//privacy-policy.truste.com/verified-policy/numerologist.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numerologist.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414095151id_/http%3A//privacy-policy.truste.com/verified-policy/numerologist.com) for the most accurate reproduction.*
 
 # Privacy Policy for numerologist.com
 
 Effective on March 24, 2010
 
-This privacy statement describes how Atlantic Private Equity Incorporated collects and uses the personal information you provide on our Web site: [numerologist.com](http://numerologist.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how Atlantic Private Equity Incorporated collects and uses the personal information you provide on our Web site: [numerologist.com](https://numerologist.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
