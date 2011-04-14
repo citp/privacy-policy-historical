@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123000951id_/http%3A//www.bill4time.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill4time.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414114906id_/http%3A//www.bill4time.com/privacy.htm) for the most accurate reproduction.*
 
 # Bill4Time Privacy Policy
 
