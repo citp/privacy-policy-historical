@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the careertimes.com.hk privacy policy that was archived on 2010-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101214001651id_/http%3A//www.careertimes.com.hk/english/terms/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careertimes.com.hk privacy policy that was archived on 2011-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110414080517id_/http%3A//www.careertimes.com.hk/english/terms/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="pragma" content="no-cache">
-<script language="JavaScript">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript">
 page = ((navigator.platform.indexOf('Win') > -1) ? "pc" : "mac");
 document.write("<LINK REL=STYLESHEET HREF='/include/english_style_" + page + ".css' TYPE='text/css'>")
 </script><link rel="STYLESHEET" href="/include/english_style_mac.css" type="text/css">
@@ -19,16 +19,360 @@ document.write("<LINK REL=STYLESHEET HREF='/include/english_style_" + page + ".c
 
 
 <meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline ZH-HK v2.0&quot; l gen true for &quot;http://www.careertimes.com.hk&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.careertimes.com.hk&quot; r (n 0 s 0 v 0 l 0))">
-<link rel="SHORTCUT ICON" href="http://www.careertimes.com.hk/images/logo/ct.ico">
+<link rel="SHORTCUT ICON" type="image/x-icon" href="http://www.careertimes.com.hk/images/logo/favicon.ico">
 
 <title></title>
 </head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" class="background01">
-<table width="992" border="0" cellpadding="0" cellspacing="0">
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" background="">
+<link rel="stylesheet" type="text/css" href="/include/layer_0.css"><table width="992" border="0" cellpadding="0" cellspacing="0">
       
 
-<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
-<script src="/Facebook/js/fbConn.js" type="text/javascript"></script>
+<script>
+document.body.background = '';
+
+</script>
+
+
+<script language="javascript" src="/js/common/preload.js"></script>
+
+<script>
+// Start - JS for menu layer
+var timerID = null;
+var timerOn = false;
+var timecount = 800;
+var timerLayerID = null;
+var timerLayerOn = false;
+var timeLayercount = 0;
+
+function firstNavStartTime() {
+	if (timerOn == false) {
+		timerID=setTimeout( "hideAllNavTable()" , timecount);
+		timerOn = true;
+	}
+
+}
+
+
+function firstNavStopTime() {
+	if (timerOn) {
+		clearTimeout(timerID);
+		timerID = null;
+		timerOn = false;
+	}
+}
+
+
+function showNavTable(sDivID, bState) {
+	
+	if (sDivID != '')
+	{
+	
+		var oDiv = document.getElementById(sDivID);
+		
+		if (bState)
+		{
+			oDiv.style.display = "";
+			document.getElementById("firstNavTable").style.display = "none";
+		}
+		else
+		{
+			//oDiv.style.display = "none";
+			//document.getElementById("firstNavTable").style.display = "";
+		}			
+		
+	}
+	
+}
+
+
+	
+function hideIframeLayer()
+{
+	var obj = document.getElementById('HelpFrame');
+			obj.frameborder = 0;
+			obj.style.position = 'absolute';
+			obj.style.top = 0;
+			obj.style.left = 0;
+			obj.style.display = 'none';
+	obj.style.display = 'none';
+}
+	
+	
+function hideAllNavTable() {
+
+	var i = 1;
+	
+	document.getElementById("firstNavTable").style.display = "";
+	while (true)
+	{
+		if (document.getElementById("firstNavTable" + i) == null)
+			break;
+		else
+		{
+			document.getElementById("firstNavTable" + i).style.display = "none";
+		}
+		i++;
+	}
+	
+	//alert (document.getElementById("firstNavTable") == null);
+}
+	
+function showDiv(sDivID, bState) {
+	return;
+	var oDiv = document.getElementById(sDivID);
+	/*@cc_on
+	@if (@_jscript_version >= 5)
+	try {
+		var oIframe = document.getElementById('HelpFrame');
+		oIframe.scrolling = 'no';
+	}
+	catch (e) {
+		var oIframe = document.createElement('iframe');
+		var oParent = oDiv.parentNode;
+		oIframe.id = 'HelpFrame';
+		oParent.appendChild(oIframe);
+	}
+	
+	@end @*/
+	if (bState) {
+		/*@cc_on
+		if(oIframe.style.display != "block")
+		{
+			oIframe.frameborder = 0;
+			oIframe.style.position = 'absolute';
+			oIframe.style.top = 0;
+			oIframe.style.left = 0;
+			oIframe.style.display = 'none';
+		}
+		@if (@_jscript_version >= 5)
+		oIframe.style.top = oDiv.style.top;
+		oIframe.style.left = oDiv.style.left;
+		oIframe.style.zIndex = oDiv.style.zIndex - 1;
+		oIframe.style.width = parseInt(oDiv.offsetWidth);
+		oIframe.style.height = parseInt(oDiv.offsetHeight);
+		oIframe.style.display = 'block';
+		if (timerLayerOn) {
+			clearTimeout(timerLayerID);
+			timerLayerID = null;
+			timerLayerOn = false;
+		}
+		@end @*/
+	}
+	else {
+		//alert ('L268, out');
+		/*@cc_on
+		@if (@_jscript_version >= 5)
+	   
+		if (timerLayerOn == false) {
+			timerLayerID=setTimeout( "hideIframeLayer()" , timeLayercount);
+			timerLayerOn = true;
+		}
+		@end @*/
+	}
+}	
+
+function startTime() {
+	if (timerOn == false) {
+		timerID=setTimeout( "hideAll()" , timecount);
+		timerOn = true;
+
+	}
+
+}
+
+
+function stopTime() {
+	if (timerOn) {
+		clearTimeout(timerID);
+		timerID = null;
+		timerOn = false;
+	}
+}
+
+// Turns the layers on and off
+function showLayer(layerName){
+	if (document.getElementById(layerName))
+		document.getElementById(layerName).style.visibility="visible";       		
+}
+
+function hideLayer(layerName){
+	if (document.getElementById(layerName))
+		document.getElementById(layerName).style.visibility="hidden";
+}
+
+
+function hideAll(){
+	hideLayer('layer_menu_1');
+	hideLayer('layer_menu_2');
+	hideLayer('layer_menu_3');
+	hideLayer('layer_div');
+	hideLayer('layer_div_search');
+}
+// End - JS for menu layer
+</script>
+
+
+
+<tbody><tr>
+   	<td>
+    	<!--<div style="position:relative; z-index:20">-->
+		<table border="0" cellpadding="0" cellspacing="0" width="100%" id="home_top">        	
+            <tbody><tr valign="top">
+                <td rowspan="2"><img src="/english/images/home/home_top_l.gif" width="14" height="98" border="0"></td>
+                <td>
+                	<table cellspacing="0" cellpadding="0" border="0" id="middle">	
+                    	<tbody><tr valign="top">
+                        	<td style="padding: 7px 0px 0px; width: 212px;">
+                            	<a target="_top" href="/english/main.asp"><img height="58" border="0" width="212" src="/english/images/home/logo_ct.gif"></a>
+                            </td>
+                            <td style="padding: 12px 0px 0px 24px;">
+                            	
+<div id="myct_menu_box"><a href="/english/signup/my_login.asp" class="home_link08">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/english/registration/default.asp" class="home_link08">Register</a>
+
+</div>
+
+
+                            </td>
+                            <td align="right" style="padding: 7px 0px 0px; width: 468px;">
+                            	<!--<a target="_blank" href="#"><img height="60" border="0" width="468" src="/english/images/home/468x60_Banner_Sample.png"></a>-->
+                                <script type="text/javascript"><!--//<![CDATA[
+								   var m3_u = (location.protocol=='https:'?'https://adms.hket.com/openxprod2/www/delivery/ajs.php':'http://adms.hket.com/openxprod2/www/delivery/ajs.php');
+								   var m3_r = Math.floor(Math.random()*99999999999);
+								   if (!document.MAX_used) document.MAX_used = ',';
+								   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+								   document.write ("?zoneid=2131");
+								   document.write ('&amp;cb=' + m3_r);
+								   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+								   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+								   document.write ("&amp;loc=" + escape(window.location));
+								   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+								   if (document.context) document.write ("&context=" + escape(document.context));
+								   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+								   document.write ("'><\/scr"+"ipt>");
+								//]]>--></script><script type="text/javascript" src="https://adms.hket.com/openxprod2/www/delivery/ajs.php?zoneid=2131&amp;cb=68077304217&amp;charset=Big5&amp;loc=https%3A//web.archive.org/web/20110414080517id_/http%253A//www.careertimes.com.hk/english/terms/privacy.asp"></script><noscript><a href='http://adms.hket.com/openxprod2/www/delivery/ck.php?n=af7f8966&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://adms.hket.com/openxprod2/www/delivery/avw.php?zoneid=2131&amp;n=af7f8966' border='0' alt='' /></a></noscript>
+                            </td>                        
+                        </tr>
+                    </tbody></table>
+                </td>
+                <td rowspan="2"><img src="/english/images/home/home_top_r.gif" width="14" height="98" border="0"></td>
+            </tr>
+            <tr valign="bottom">
+                <td style="padding: 0px 0px 1px;">
+                	<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    	<tbody><tr valign="bottom">
+                        	<td>
+                                <div id="top_nav"><ul>
+                                <li><a href="/english/main.asp" target="_top">Home</a></li>                
+                                <li><a href="/english/search/criteria.asp" target="_top">Find Jobs</a></li>
+                                <li><a href="/english/my_careertimes/my_preference_reg_jobalert.asp" target="_top">Job Alert</a></li>
+                                <li><a class="top_nav_url_red" onmouseout="startTime();showDiv('layer_menu_3', false);" onmouseover="hideAll(); showLayer('layer_menu_3'); stopTime(); showDiv('layer_menu_3', true);" href="#">myCareerTimes</a></li>
+                                <li><a class="top_nav_url_red" onmouseout="startTime();showDiv('layer_menu_1', false);" onmouseover="hideAll(); showLayer('layer_menu_1'); stopTime(); showDiv('layer_menu_1', true);" href="#">Career Resources</a></li>
+                                <li><a href="http://www.cthr.com.hk" target="_blank">CTHR</a></li>
+                                <li><a href="/english/count/count_banner.asp?banner_name=blogs_in_navigation&amp;href=http%3A%2F%2Fblog.careertimes.com.hk%2Fblogs%2Fblog_index.php%3Fc%3DDE&amp;from=main" target="_top">Blogs</a></li>
+                                <!--<li><a class="top_nav_url_red" onmouseout="startTime();showDiv('layer_menu_2', false);" onmouseover="hideAll(); showLayer('layer_menu_2'); stopTime(); showDiv('layer_menu_2', true);" href="#">Blogs</a></li>-->
+                                </ul>
+                                </div>
+                                <div id="top_nav">
+                                	<ul><li class="li_right"><a class="a_right" target="_top" href="/english/count/count_banner.asp?banner_name=tag_rc&amp;href=/english/main_recruiter.asp&amp;from=navigation">Employer</a></li></ul>
+                                </div>
+                            </td>
+                            <!--<td align="right" style="padding:0px 0px 3px 0px;"><img src="/english/images/home/logo_ct_s.gif" width="96" height="20" border="0"></td>-->
+                        </tr>
+                    </tbody></table>
+                    
+<!-- Start - menu layer -->
+<div onmouseout="showDiv('layer_menu_1', false);" onmouseover="showDiv('layer_menu_1', true);" style="position: absolute; left: 356px; top: 100px; width: 520px; z-index: 2; visibility: hidden; border: 1px #053255 solid; padding:5px 5px 5px 5px; background-color:#0c6ebc;" id="layer_menu_1">
+<table width="520" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr><td width="485" onmouseout="startTime();" style="" onmouseover="stopTime();">
+
+<table width="100%" cellspacing="0" border="0" id="home_top_nav">
+<tbody><tr>
+<td bgcolor="#0c6ebc" onclick="window.location.href='/english/hr_news/news_detail.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/hr_news/news_detail.asp">&gt; 職場新聞 (HR News Express)</a></td>
+<td bgcolor="#0c6ebc" onclick="window.location.href='/english/newsroom/salary/salary_update.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/newsroom/salary/salary_update.asp">&gt; Salary Update</a></td>
+<td bgcolor="#0c6ebc" onclick="window.location.href='/english/newsroom/hiring/hiring.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/newsroom/hiring/hiring.asp">&gt; Hiring Index</a></td>
+</tr>
+<tr>
+<td bgcolor="#0c6ebc" onclick="window.location.href='/english/newsroom/salary/trends.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/newsroom/salary/trends.asp">&gt; Trends &amp; Projections</a></td>
+<td bgcolor="#0c6ebc" onclick="window.location.href='/english/centre/coverletters_cv.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/centre/coverletters_cv.asp">&gt; Cover Letter &amp; CV</a></td>
+<td bgcolor="#0c6ebc" onclick="window.location.href='/english/education/course.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/education/course.asp">&gt; Edu &amp; Seminar</a></td>
+</tr>
+<tr>
+<td colspan="3" style="padding:5px 0px 0px 5px; color:#ffffff;"><font class="f9">&gt;</font> Features</td>
+</tr>
+
+<tr>
+<td colspan="3" style="padding: 0px 10px 0px 15px;"><div style="padding: 3px 0px 0px 0px;">
+<table width="100%" cellspacing="0" border="0">
+	<tbody><tr>
+		<td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/show_article.asp?category_id=1037'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" onmouseover="bgColor='#0b4d81';stopTime();" nowrap=""><a target="_top" class="nav10px02" href="/english/article/show_article.asp?category_id=1037">Career Path</a></td>
+		<td style="color:#ffffff;">&nbsp;|&nbsp;</td>
+		<td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/show_article.asp?category_id=1052'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" onmouseover="bgColor='#0b4d81';stopTime();" nowrap=""><a target="_top" class="nav10px02" href="/english/article/show_article.asp?category_id=1052">MT Opportunities</a></td>
+		<td style="color:#ffffff;">&nbsp;|&nbsp;</td>
+		<td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/show_article.asp?category_id=1038'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" onmouseover="bgColor='#0b4d81';stopTime();" nowrap=""><a target="_top" class="nav10px02" href="/english/article/show_article.asp?category_id=1038">Cream of the Crop</a></td>
+	</tr>
+	<tr>
+		<td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/show_article.asp?category_id=1042'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();" nowrap=""><a target="_top" class="nav10px02" href="/english/article/show_article.asp?category_id=1042">HR Corner</a></td>
+		<td style="color:#ffffff;">&nbsp;|&nbsp;</td>
+		<td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/show_article.asp?category_id=1039'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();" nowrap=""><a target="_top" class="nav10px02" href="/english/article/show_article.asp?category_id=1039">Embracing Change</a></td>
+		<td style="color:#ffffff;">&nbsp;|&nbsp;</td>
+		<td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/default.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();" nowrap=""><a target="_top" class="nav10px02" href="/english/article/default.asp">Industry Updates</a></td>
+		<td style="color:#ffffff;">&nbsp;|&nbsp;</td>
+		<td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/show_article.asp?category_id=1057'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();" nowrap=""><a target="_top" class="nav10px02" href="/english/article/show_article.asp?category_id=1057">Money Moves</a></td>
+	</tr>
+	<tr>
+		<td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/show_article.asp?category_id=1081'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();" nowrap=""><a target="_top" class="nav10px02" href="/english/article/show_article.asp?category_id=1081">Gear Up</a></td>
+		<td style="color:#ffffff;">&nbsp;|&nbsp;</td>
+		<td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/show_article.asp?category_id=1041'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();" nowrap=""><a target="_top" class="nav10px02" href="/english/article/show_article.asp?category_id=1041">From the Bookshelf</a></td>
+		<td style="color:#ffffff;">&nbsp;|&nbsp;</td>
+		<td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/legal_puzzle.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();" nowrap=""><a target="_top" class="nav10px02" href="/english/article/legal_puzzle.asp">Legal Puzzle</a></td>
+		<td style="color:#ffffff;">&nbsp;|&nbsp;</td>
+		<td bgcolor="#0c6ebc" onclick="window.location.href='/english/article/show_article.asp?category_id=1058'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();" nowrap=""><a target="_top" class="nav10px02" href="/english/article/show_article.asp?category_id=1058">On Campus</a></td>
+		<td style="color:#ffffff;">&nbsp;|&nbsp;</td>
+		<td bgcolor="#0c6ebc" onclick="window.location.href='/english/centre/taxtips/tax_tips20090529.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();" nowrap=""><a target="_top" class="nav10px02" href="/english/centre/taxtips/tax_tips20090529.asp">Tax Tips</a></td>
+	</tr>
+</tbody></table>
+</div></td>
+</tr>
+
+</tbody></table>
+
+</td></tr>
+</tbody></table>
+
+</div>
+<div onmouseout="showDiv('layer_menu_2', false);" onmouseover="showDiv('layer_menu_2', true);" style="position: absolute; left: 545px; top: 100px; width: 60px; z-index: 2; visibility: hidden; border: 1px #053255 solid; padding:5px 5px 5px 5px; background-color:#0c6ebc;" id="layer_menu_2">
+<table width="60" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td bgcolor="#0c6ebc" onclick="window.location.href='/english/count/count_banner.asp?banner_name=blogs_in_navigation&amp;href=http%3A%2F%2Fblog.careertimes.com.hk%2Fblogs%2Fblog_index.php%3Fc%3DDE&amp;from=main'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/count/count_banner.asp?banner_name=blogs_in_navigation&amp;href=http%3A%2F%2Fblog.careertimes.com.hk%2Fblogs%2Fblog_index.php%3Fc%3DDE&amp;from=main">趣誌辦館</a></td>
+</tr>
+</tbody></table>
+</div>
+<div onmouseout="showDiv('layer_menu_3', false);" onmouseover="showDiv('layer_menu_3', true);" style="position: absolute; left: 235px; top: 100px; width: 120px; z-index: 2; visibility: hidden; border: 1px #053255 solid; padding:5px; background-color:#0c6ebc; background-repeat: repeat-x;" id="layer_menu_3">
+<table width="120" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td bgcolor="#0c6ebc" onclick="window.location.href='/english/my_careertimes/my_job.asp?top=preference&amp;c=DE'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/my_careertimes/my_job.asp?top=preference&amp;c=DE">myJobListings</a></td>
+</tr>
+<tr>
+<td bgcolor="#0c6ebc" onclick="window.location.href='/english/resume/my_resume.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/resume/my_resume.asp">myResume</a></td>
+</tr>
+<tr>
+<td bgcolor="#0c6ebc" onclick="window.location.href='/english/my_careertimes/search_saved.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/my_careertimes/search_saved.asp">mySearchCriteria</a></td>
+</tr>
+<tr>
+<td bgcolor="#0c6ebc" onclick="window.location.href='/english/my_careertimes/setting_overview.asp'" class="box1" onmouseout="bgColor='#0c6ebc';startTime();" style="" onmouseover="bgColor='#0b4d81';stopTime();"><a target="_top" class="nav12px" href="/english/my_careertimes/setting_overview.asp">mySettings</a></td>
+</tr>
+</tbody></table>
+</div>
+
+<!-- End - menu layer -->                    
+                    
+				</td>
+            </tr>    
+		</tbody></table>
+        <!--</div>-->
+    </td>
+</tr>
+
 
 <script>
 function checkformForQuickSearch(obj)
@@ -46,7 +390,7 @@ function checkformForQuickSearch(obj)
 			obj.keywordForQuickSearch.focus();
 		}
 
-		if((obj.keywordForQuickSearch.value.substring(1,18) == "Keyword search in") && (obj.job_area.value == ""))
+		if((obj.keywordForQuickSearch.value.substring(1,15) == "Keyword search") && (obj.job_area.value == ""))
 		{
 			alert ("Please enter keyword or select a function!");
 			status = false;
@@ -70,7 +414,7 @@ function checkformForQuickSearch(obj)
 //end task 1108
 		if(status == true)
 		{
-			if(obj.keywordForQuickSearch.value.substring(1,18) == "Keyword search in")
+			if(obj.keywordForQuickSearch.value.substring(1,15) == "Keyword search")
 			{
 				obj.keywordForQuickSearch.value = "";
 			}
@@ -83,7 +427,7 @@ function checkformForQuickSearch(obj)
 function clearkeywordForQuickSearchbox(obj)
 {
 	obj.style.color = "black";
-	if(obj.value.substring(1,18) == "Keyword search in")
+	if(obj.value.substring(1,15) == "Keyword search")
 	{
 		obj.value = "";
 	}
@@ -94,62 +438,81 @@ function checkkeywordForQuickSearchbox(obj)
 	if(obj.value == "")
 	{
 		obj.style.color = "gray";
-		obj.value = " Keyword search in Corporate Openings";
+		obj.value = " Keyword search";
 	}
 }
 
-
-</script>
-<script language="javascript" src="/js/common/preload.js"></script>
-
-
-<tbody><tr valign="top">
-	<td class="bkg_top_header02">
-	<table cellspacing="0" cellpadding="0" border="0" width="992">
-	<tbody><tr valign="top">
-		<td><a href="/"><img src="/english/images/space.gif" width="220" height="70" border="0"></a></td>
-		<td align="right">
-			<table cellspacing="0" cellpadding="0" border="0" width="100%">
-			<tbody><tr>
-				<td colspan="2" class="f8" style="padding: 10px 0px 0px 48px"><font color="9E9E9E">
-	        
+function change_section_nav(type)
+{
+	
+	orig_path = window.location.href;
+	final_path = "";
+	
+	if (orig_path.indexOf("c=DE") > 0 || orig_path.indexOf("c=PC") > 0 || orig_path.indexOf("c=IA") > 0) {
+	
+		if (orig_path.indexOf("c=DE") > 0)
+			final_path = orig_path.replace("c=DE","c="+type);
+		else if (orig_path.indexOf("c=PC") > 0)
+			final_path = orig_path.replace("c=PC","c="+type);
+		else if (orig_path.indexOf("c=IA") > 0)
+			final_path = orig_path.replace("c=IA","c="+type);
+	
+	}
+	else {
+		if (orig_path.indexOf("?") > 0)
+			final_path = orig_path.replace("?","?c="+type+"&");
+		else		
+			final_path = orig_path + "?c="+type;
+	}	
 		
-<link rel="stylesheet" type="text/css" href="/facebook/style.css">
+	window.location.href = "/english/count/count_chs.asp?banner_name=" + type + "&href=" + escape(final_path) + "&from=other";
+	
+}
+</script>
 
-<div id="myct_menu_box"><a href="/english/signup/my_login.asp" class="home_link08">Login</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/english/registration/default.asp" class="home_link08">Register</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/english/signup/seek_forgot.asp" class="home_link08">Forgot password</a>
-&nbsp;|&nbsp;&nbsp;<a href="login.html" class="fb03" onclick="return FacebookLogin();">Log in using your Facebook account</a>&nbsp;&nbsp;
+	
+<tr>
+   	<td>
 
-</div>
+<table cellspacing="0" cellpadding="0" border="0" class="main_home">
+<tbody><tr valign="bottom">
+	<td style="padding: 9px 0px 0px 14px;">
+	<table cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+    	<td style="padding: 0px 5px 0px 0px;"><img height="26" border="0" width="131" name="channel_r" alt="Direct Employers" src="/english/images/home/btn_home_red02_on.gif"></td>
+<td style="padding: 0px 5px 0px 0px;"><a target="_top" onmouseout="channel_g.src='/english/images/home/btn_home_green02.gif';" onmouseover="channel_g.src='/english/images/home/btn_home_green02_on.gif';" href="javascript:change_section_nav('PC')"><img height="26" border="0" width="131" name="channel_g" alt="Recruitment Agencies" src="/english/images/home/btn_home_green02.gif"></a></td>
+<td style="padding: 0px 5px 0px 0px;"><a target="_top" onmouseout="channel_b.src='/english/images/home/btn_home_blue02.gif';" onmouseover="channel_b.src='/english/images/home/btn_home_blue02_on.gif';" href="javascript:change_section_nav('IA')"><img height="26" border="0" width="131" name="channel_b" alt="Insurance Agencies and Others" src="/english/images/home/btn_home_blue02.gif"></a></td>
 
-	        
-	        	</font></td>
-	        	<td align="right" style="padding:4px 22px 0px 0px;"><a href="/english/count/count_banner.asp?banner_name=tag_rc&amp;href=/english/main_recruiter.asp&amp;from=navigation"><img src="/english/images/home/btn_employer.gif" width="119" height="23" border="0"></a></td>
-	        </tr>
-	        <tr>
-	        <form name="quickSearch" action="/english/my_careertimes/my_job.asp?search=Y&amp;top=search" method="POST" onsubmit="return checkformForQuickSearch(document.quickSearch);" target="_top"></form>
-	        <input type="hidden" name="quick_search" value="Y">
-			<td colspan="3" style="padding:7px 0px 0px 45px;">
-					<table cellspacing="0" cellpadding="0" border="0" height="26" bgcolor="69ADE0" style="border:2px solid #69ADE0;">
-					<tbody><tr>
-						<td class="top_nav_sp02">
-							<div class="search5">
-								
-									<input class="f8s" type="Text" id="keywordForQuickSearch" name="keywordForQuickSearch" size="21" value=" Keyword search in Corporate Openings" maxlength="100" style="font-family:arial; font-size:9pt; height:20px; width:285px; color:#868787;" onfocus="clearkeywordForQuickSearchbox(this);" onblur="checkkeywordForQuickSearchbox(this);">
-								
-							</div>
-						</td>
-						<td class="top_nav_sp01">
-						<select name="fulltext" id="fulltext" style="font-family:arial;font-size:8pt;width:100px;">
-						
-								<option value="T" selected="">Job title</option>	
-								<option value="N">Company name</option>		
-								<option value="Y">All text</option>
-						
-						</select>
-						</td>
-						<td class="top_nav_sp01">
-						<select id="job_area" name="job_area" style="font-family:arial;font-size:8pt;width:180px;">
-						<option value="">-- Select a function --</option><option value="001">Accounting / Finance</option>
+	</tr>
+	</tbody></table>
+	</td>
+	<td align="right" style="padding: 9px 0px 2px 0px;">
+    
+	<table cellspacing="0" cellpadding="0" border="0" id="subpage_search">
+	<tbody>
+    <tr>
+    <td><table cellspacing="0" cellpadding="0" border="0">
+    <form name="quickSearch" action="/english/my_careertimes/my_job.asp?search=Y&amp;top=search" method="POST" onsubmit="return checkformForQuickSearch(document.quickSearch);" target="_top"></form>
+	<input type="hidden" name="quick_search" value="Y">
+    <input type="hidden" name="top_search_block" value="Y">
+    <tbody><tr>
+		<td style="padding: 0px 5px 0px 0px;" class="sub_search">
+				
+                    <input class="search" type="Text" id="keywordForQuickSearch" name="keywordForQuickSearch" value=" Keyword search" maxlength="100" onfocus="clearkeywordForQuickSearchbox(this);" onblur="checkkeywordForQuickSearchbox(this);">
+                
+        </td>
+		<td style="padding: 0px 3px 0px 0px; width: 60px;">
+        	<select name="fulltext" id="fulltext" style="font-family:arial;font-size:8pt;width:80px;">
+			
+                    <option value="T" selected="">Job title</option>	
+                    <option value="N">Company name</option>		
+                    <option value="Y">All text</option>
+            
+            </select>
+        </td>
+		<td style="padding: 0px 3px 0px 0px; width: 110px;">
+        	<select id="job_area" name="job_area" style="font-family:arial;font-size:8pt;width:150px;">
+			<option value="">-- Select a function --</option><option value="001">Accounting / Finance</option>
 <option value="002">Administration &amp; Human Resources</option>
 <option value="004">Architecture</option>
 <option value="005">Artistic Performance</option>
@@ -190,333 +553,29 @@ function checkkeywordForQuickSearchbox(obj)
 <option value="042">Translation</option>
 <option value="043">Travel / Tourism</option>
 
-						</select>
-						</td>
-						<td style="padding:0px 1px 0px 0px"><a href="javascript:if (checkformForQuickSearch(document.quickSearch)) document.quickSearch.submit();" onmouseover="home_search.src='/english/images/home/btn_home_search02.gif';" onmouseout="home_search.src='/english/images/home/btn_home_search01.gif';"><img src="/english/images/home/btn_home_search01.gif" width="105" height="20" border="0" name="home_search"></a></td>
-					</tr>
-					</tbody></table>
-			</td>
-			<input type="hidden" name="top_search_block" value="Y">
-			  
-			</tr>
-			</tbody></table>
-		</td>
-		</tr>
-		<tr>
-			<td colspan="2" style="padding: 0px 0px 15px 0px">
-			<table cellspacing="0" cellpadding="0" border="0" width="100%">
-			<tbody><tr>
+            </select>
+        </td>
+		<td style="padding: 0px 8px 0px 0px;">
+			<a href="javascript:if (checkformForQuickSearch(document.quickSearch)) document.quickSearch.submit();" class="reg_btn" target="_top"><img src="/english/images/home/btn_sub_page_search.gif" width="46" height="20" border="0"></a></td>		
+		<td nowrap=""><a href="/english/search/criteria.asp">Advanced Search</a></td>
+	</tr>	    
+	
+    </tbody></table></td>
+ </tr>
+ </tbody></table>
 
-				<td style="padding: 0px 0px 0px 24px"><font color="#ce6633"><b>熱門：</b></font> <a href="/english/my_careertimes/my_job.asp?top=list&amp;keyword=china" class="home_link07">china</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/english/my_careertimes/my_job.asp?top=list&amp;keyword=clerk" class="home_link07">clerk</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/english/my_careertimes/my_job.asp?top=list&amp;keyword=japanese" class="home_link07">japanese</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/english/my_careertimes/my_job.asp?top=list&amp;keyword=part time" class="home_link07">part time</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/english/my_careertimes/my_job.asp?top=list&amp;keyword=marketing" class="home_link07">marketing</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/english/my_careertimes/my_job.asp?top=list&amp;keyword=secretary" class="home_link07">secretary</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/english/my_careertimes/my_job.asp?top=list&amp;keyword=trainee" class="home_link07">trainee</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/english/my_careertimes/my_job.asp?top=list&amp;keyword=shipping" class="home_link07">shipping</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/english/my_careertimes/my_job.asp?top=list&amp;keyword=manager" class="home_link07">manager</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="/english/my_careertimes/my_job.asp?top=list&amp;keyword=officer" class="home_link07">officer</a></td>
-				<td align="right" style="padding:0px 30px 0px 0px"><font color="9E9E9E"><a href="/english/count/count_banner.asp?banner_name=weekly_highlight_jobs&amp;href=%2Fenglish%2Fmy_careertimes%2Fmy_job.asp%3Ftop%3Dlist%26channel%3D009%26hotjob_category%3D501&amp;from=main" class="top_nav_adv_search03">最新好工</a>&nbsp; | &nbsp;<a href="/english/search/criteria.asp" class="top_nav_adv_search03">Advanced Search</a></font></td>
-			</tr>
-
-			</tbody></table>
-			</td>
-		</tr>    
-	</tbody></table>
 	</td>
 </tr>
-
-
-
-
-<script>
-	    var timerID = null;
-		var timerOn = false;
-		var timecount = 800;
-		
-		function firstNavStartTime() {
-	        if (timerOn == false) {
-                timerID=setTimeout( "hideAllNavTable()" , timecount);
-                timerOn = true;
-	        }
-
-		}
-
-
-		function firstNavStopTime() {
-	        if (timerOn) {
-    	        clearTimeout(timerID);
-                timerID = null;
-                timerOn = false;
-	        }
-		}
-		
-</script>
-
-<script>
-// Task 1012
-		var timerLayerID = null;
-		var timerLayerOn = false;
-		var timeLayercount = 0;
-
-		function showDiv(sDivID, bState) {
-		    var oDiv = document.getElementById(sDivID);
-		    /*@cc_on
-		    @if (@_jscript_version >= 5)
-		    try {
-		        var oIframe = document.getElementById('HelpFrame');
-		        oIframe.scrolling = 'no';
-		    }
-		    catch (e) {
-		        var oIframe = document.createElement('iframe');
-		        var oParent = oDiv.parentNode;
-		        oIframe.id = 'HelpFrame';
-		        oParent.appendChild(oIframe);
-		    }
-		    
-		    @end @*/
-		    if (bState) {
-		        /*@cc_on
-		        if(oIframe.style.display != "block")
-		        {
-		        	oIframe.frameborder = 0;
-			    	oIframe.style.position = 'absolute';
-			    	oIframe.style.top = 0;
-			    	oIframe.style.left = 0;
-			    	oIframe.style.display = 'none';
-	    		}
-		        @if (@_jscript_version >= 5)
-		        oIframe.style.top = oDiv.style.top;
-		        oIframe.style.left = oDiv.style.left;
-		        oIframe.style.zIndex = oDiv.style.zIndex - 1;
-		        oIframe.style.width = parseInt(oDiv.offsetWidth);
-		        oIframe.style.height = parseInt(oDiv.offsetHeight);
-		        oIframe.style.display = 'block';
-		        if (timerLayerOn) {
-		        	clearTimeout(timerLayerID);
-                	timerLayerID = null;
-                	timerLayerOn = false;
-            	}
-		        @end @*/
-		    }
-		    else {
-		        /*@cc_on
-		        @if (@_jscript_version >= 5)
-		       
-		        if (timerLayerOn == false) {
-                	timerLayerID=setTimeout( "hideIframeLayer()" , timeLayercount);
-                	timerLayerOn = true;
-	        	}
-		        @end @*/
-		    }
-		}		
-
-	// Turns the layers on and off
-        function showLayer(layerName){
-        			document.getElementById(layerName).style.visibility="visible";       		
-		}
-
-        function hideLayer(layerName){
-        			document.getElementById(layerName).style.visibility="hidden";
-        }
-
-
-		function hideAll(){
-				hideLayer('layer1');
-				hideLayer('layer2');
-				hideLayer('layer3');
-				hideLayer('layer4');
-		}
-
-
-		function startTime() {
-	        if (timerOn == false) {
-                timerID=setTimeout( "hideAll()" , timecount);
-                timerOn = true;
-
-	        }
-
-		}
-
-
-		function stopTime() {
-	        if (timerOn) {
-    	        clearTimeout(timerID);
-                timerID = null;
-                timerOn = false;
-	        }
-		}
-		
-		
-		function hideAllNavTable() {
-
-			var i = 1;
-			
-			document.getElementById("firstNavTable").style.display = "";
-			while (true)
-			{
-				if (document.getElementById("firstNavTable" + i) == null)
-					break;
-				else
-				{
-					document.getElementById("firstNavTable" + i).style.display = "none";
-				}
-				i++;
-			}
-			
-			//alert (document.getElementById("firstNavTable") == null);
-		}
-		
-		
- 		function showNavTable(sDivID, bState) {
-		    
-			if (sDivID != '')
-			{
-			
-				var oDiv = document.getElementById(sDivID);
-				
-				if (bState)
-				{
-					oDiv.style.display = "";
-					document.getElementById("firstNavTable").style.display = "none";
-				}
-				else
-				{
-					//oDiv.style.display = "none";
-					//document.getElementById("firstNavTable").style.display = "";
-				}			
-				
-			}
-		    
-		}
-		
-	function hideIframeLayer()
-	{
-		var obj = document.getElementById('HelpFrame');
-		 		obj.frameborder = 0;
-			    obj.style.position = 'absolute';
-			    obj.style.top = 0;
-			    obj.style.left = 0;
-			    obj.style.display = 'none';
-		obj.style.display = 'none';
-	}
-// End of Task 1012
-</script>
 <tr>
-		
-	<td colspan="2">
-	<table cellspacing="0" cellpadding="0" border="0" width="992" class="top_nav_line_red">
-		<tbody><tr>
-			
-						<td style="padding: 0px 0px 0px 10px;"><a href="/english/main.asp"><img src="/english/images/home/btn_corp_open02.gif" width="155" height="46" border="0" alt="Corporate Openings" name="corp_open"></a></td>
-			
-						<td style="padding: 0px 0px 0px 2px;"><a href="/english/main_recruitment_agencies.asp" onmouseover="recruit_ag.src='/english/images/home/btn_recruitment_on.gif';" onmouseout="recruit_ag.src='/english/images/home/btn_recruitment_out.gif';"><img src="/english/images/home/btn_recruitment.gif" width="155" height="46" border="0" alt="Recruitment Agencies" name="recruit_ag"></a></td>
-			
-						<td style="padding: 0px 0px 0px 2px;"><a href="/english/main_insurance_agencies.asp" onmouseover="insurance_ag.src='/english/images/home/btn_insurance_on.gif';" onmouseout="insurance_ag.src='/english/images/home/btn_insurance_out.gif';"><img src="/english/images/home/btn_insurance.gif" width="155" height="46" border="0" name="insurance_ag" alt="Insurance Agencies and Others"></a></td>
-			
-			<td width="513" align="right" valign="bottom" style="padding: 0px 10px 6px 0px;">
-			<a href="#" onmouseover="hideAll(); showLayer('layer1'); stopTime(); showDiv('layer1', true);" onmouseout="startTime();showDiv('layer1', false);" class="top_nav_url_red">Articles</a>
-			<a href="#" onmouseover="hideAll(); showLayer('layer2'); stopTime(); showDiv('layer2', true);" onmouseout="startTime();showDiv('layer2', false);" class="top_nav_url_red">Trends &amp; Salaries</a>
-			<a href="#" onmouseover="hideAll(); showLayer('layer3'); stopTime(); showDiv('layer3', true);" onmouseout="startTime();showDiv('layer3', false);" class="top_nav_url_red">Tools &amp; Tips</a>
-			<a href="#" onmouseover="hideAll(); showLayer('layer4'); stopTime(); showDiv('layer4', true);" onmouseout="startTime();showDiv('layer4', false);" class="top_nav_url_red">Education &amp; Seminar</a></td>
-		</tr>
-	</tbody></table>
-	
-		<div id="layer1" style="position:absolute; left:463px; top:151px; width:130px; height:35px; z-index:1" onmouseover="showDiv('layer1', true);" onmouseout="showDiv('layer1', false);">
-		<table width="130" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/article/show_article.asp?category_id=1037&amp;c=DE'"><a href="/english/article/show_article.asp?category_id=1037" class="nav12px" target="_top">Career Path</a></td>
-                </tr>
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/article/show_article.asp?category_id=1038&amp;c=DE'"><a href="/english/article/show_article.asp?category_id=1038" class="nav12px" target="_top">Cream of the Crop</a></td>
-                </tr>
+	<td colspan="2" style="padding: 0px 0px 9px;"><img height="2" border="0" width="986" src="/english/images/home/sub_hor_line.gif"></td>
+</tr>
+</tbody>
+</table>
 
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/article/show_article.asp?category_id=1039&amp;c=DE'"><a href="/english/article/show_article.asp?category_id=1039" class="nav12px" target="_top">Embracing Change</a></td>
-                </tr>
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/article/show_article.asp?category_id=1041&amp;c=DE'"><a href="/english/article/show_article.asp?category_id=1041" class="nav12px" target="_top">From the Bookshelf</a></td>
-                </tr>
-                <tr>
+    </td>
+</tr>
 
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/article/show_article.asp?category_id=1081&amp;c=DE'"><a href="/english/article/show_article.asp?category_id=1081" class="nav12px" target="_top">Gear Up</a></td>
-                </tr>
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/article/show_article.asp?category_id=1042&amp;c=DE'"><a href="/english/article/show_article.asp?category_id=1042" class="nav12px" target="_top">HR Corner</a></td>
-                </tr>
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/article/default.asp?c=DE'"><a href="/english/article/default.asp" class="nav12px" target="_top">Industries</a></td>
-
-                </tr>
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/article/legal_puzzle.asp?c=DE'"><a href="/english/article/legal_puzzle.asp" class="nav12px" target="_top">Legal Puzzle</a></td>
-                </tr>
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/article/show_article.asp?category_id=1057&amp;c=DE'"><a href="/english/article/show_article.asp?category_id=1057" class="nav12px" target="_top">Money Moves</a></td>
-                </tr>
-                <tr>
-
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/article/show_article.asp?category_id=1052&amp;c=DE'"><a href="/english/article/show_article.asp?category_id=1052" class="nav12px" target="_top">MT Opportunities</a></td>
-                </tr>
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/article/show_article.asp?category_id=1058&amp;c=DE'"><a href="/english/article/show_article.asp?category_id=1058" class="nav12px" target="_top">On Campus</a></td>
-                </tr>
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/centre/taxtips/tax_tips20090529.asp?c=DE'"><a href="/english/centre/taxtips/tax_tips20090529.asp" class="nav12px" target="_top">Tax Tips</a></td>
-
-                </tr>
-              </tbody></table>
-	</div>
-
-	   <div id="layer2" style="position:absolute; left:542px; top:151px; width:185px; height:35px; z-index:1" onmouseover="showDiv('layer2', true);" onmouseout="showDiv('layer2', false);">
-       <table border="0" cellpadding="0" cellspacing="0" width="185">
-	   <tbody><tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/newsroom/hiring/hiring.asp?c=DE'"><a href="/english/newsroom/hiring/hiring.asp" class="nav12px" target="_top">Hiring Index</a></td>
-                </tr>
-
-				<tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/hr_news/news_detail.asp?c=DE'"><a href="/english/hr_news/news_detail.asp" class="nav12px" target="_top">職場新聞 (HR News Express)</a></td>
-                </tr>
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/newsroom/salary/hr_bulletin.asp?c=DE'"><a href="/english/newsroom/salary/hr_bulletin.asp" class="nav12px" target="_top">HR Bulletin</a></td>
-                </tr>
-				<tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/newsroom/salary/salary_update.asp?c=DE'"><a href="/english/newsroom/salary/salary_update.asp" class="nav12px" target="_top">Salary Update</a></td>
-
-                </tr>
-				<tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/newsroom/salary/trends.asp?c=DE'"><a href="/english/newsroom/salary/trends.asp" class="nav12px" target="_top">Trends &amp; Projections</a></td>
-                </tr>
-              </tbody></table>
-</div>
-
-<div id="layer3" style="position:absolute; left:659px; top:151px; width:170px; height:35px; z-index:1" onmouseover="showDiv('layer3', true);" onmouseout="showDiv('layer3', false);">
-              <table width="171" border="0" cellspacing="0">
-
-                <tbody><tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand;" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/centre/facebook/facebook.asp?c=DE'"><a href="/english/centre/facebook/facebook.asp" class="nav12px" target="_top">Career Times on Facebook</a></td>
-                </tr>
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand;" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/centre/coverletters_cv.asp?c=DE'"><a href="/english/centre/coverletters_cv.asp" class="nav12px" target="_top">Cover Letters &amp; CV</a></td>
-                </tr>
-                <tr>
-
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand;" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/centre/explore/default.asp?c=DE'"><a href="/english/centre/explore/default.asp" class="nav12px" target="_top">Explore These Professions</a></td>
-                </tr>
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand;" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/centre/twitter/twitter.asp?c=DE'"><a href="/english/centre/twitter/twitter.asp" class="nav12px" target="_top">Instant Twitter Updates</a></td>
-                </tr>
-                <tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand;" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/centre/mobile.asp?c=DE'"><a href="/english/centre/mobile.asp" class="nav12px" target="_top">Mobile Job Search</a></td>
-
-                </tr>
-              </tbody></table>
-</div>  
-<div id="layer4" style="position:absolute; left:860px; top:151px; width:120px; height:35px; z-index:1" onmouseover="showDiv('layer4', true);" onmouseout="showDiv('layer4', false);">
-              <table width="120" border="0" cellspacing="0">
-                <tbody><tr>
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/education/course.asp?c=DE'"><a href="/english/education/course.asp" class="nav12px" target="_top">Education Course</a></td>
-                </tr>
-                <tr>
-
-                  <td onmouseover="bgColor='#f18885';stopTime();" style="cursor:hand" onmouseout="bgColor='#f3c6c5';startTime();" bgcolor="#f3c6c5" class="box1" onclick="window.location.href='/english/seminar/seminar.asp?c=DE'"><a href="/english/seminar/seminar.asp" class="nav12px" target="_top">Seminar</a></td>
-                </tr>
-              </tbody></table>
-          </div>
-	
-</td></tr></tbody></table>
+</tbody></table>
 
 <table width="992" border="0" cellspacing="0" cellpadding="0" height="100%">
 	<tbody><tr valign="TOP">
@@ -704,11 +763,12 @@ function checkkeywordForQuickSearchbox(obj)
 <tbody><tr>
 	<td class="f8" valign="top" align="left">
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr>
-    	<td>
-        <br>
-        	
+<table border="0" cellpadding="0" cellspacing="0" width="100%" id="footer_ct">
+	<tbody><tr style="height: 15px; background-color: rgb(255, 255, 255);">
+        <td colspan="2"></td>
+    </tr>
+    
+    
 <script language="javascript" src="/js/common/cookies.js"></script>		
 <script language="javascript" src="/js/jquery/jquery.js"></script>
 <script language="javascript">
@@ -719,110 +779,148 @@ function checkkeywordForQuickSearchbox(obj)
 				createCookie('c','DE',5/(24*60));
 			}
 		});
+		
+		$('a').click(function (event)  {	
+			if ((this.href) != "") {
+			var temp_href;
+			temp_href = (this.href);		
+			this.href = temp_href.replace("ctgoodjobs.hk","careertimes.com.hk");
+			}
+		}); 
+		
 	});
-	
+		
 	window.onbeforeunload = function() {createCookie('c','DE',5/(24*60));}
-</script>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tbody><tr class="home_sitemap04">
-		<td class="btm_sitemap01" colspan="2">
-			<font color="#ffde00"><b><a href="/english/main.asp" style="color:#ffde00;text-decoration:none;">Jobseeker</a>:</b></font>&nbsp;<br>
-            <font color="#ffffff"><b>Articles:</b></font>&nbsp; 
-            <a href="/english/article/show_article.asp?category_id=1037" class="btm02">&nbsp;Career Path&nbsp;</a> &nbsp;|&nbsp; 
-            <a href="/english/article/show_article.asp?category_id=1038" class="btm02">&nbsp;Cream of the Crop&nbsp;</a> &nbsp;|&nbsp; 
-            <a href="/english/article/show_article.asp?category_id=1039" class="btm02">&nbsp;Embracing Change&nbsp;</a> &nbsp;|&nbsp; 
-            <a href="/english/article/show_article.asp?category_id=1041" class="btm02">&nbsp;From the Bookshelf</a> &nbsp;|&nbsp;
+</script>					
 
-			<a href="/english/article/show_article.asp?category_id=1081" class="btm02">&nbsp;Gear Up&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/article/show_article.asp?category_id=1042" class="btm02">&nbsp;HR Corner&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/article/default.asp" class="btm02">&nbsp;Industries&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/article/legal_puzzle.asp" class="btm02">&nbsp;Legal Puzzle&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/article/show_article.asp?category_id=1057" class="btm02">&nbsp;Money Moves&nbsp;</a> &nbsp;
+<tr>
+	
+    <td class="bar_l">    
+    
+        <a href="/english/aboutus/about.asp" target="_top">About Us</a> &nbsp;|&nbsp; 
+        <a href="/english/my_careertimes/my_job.asp?top=comjob&amp;m_companyid=00024236&amp;c=DE" target="_top">Careers with Us</a> &nbsp;|&nbsp; 
+        <a href="/english/faq/default.asp" target="_top">FAQ</a> &nbsp;|&nbsp; 
+        <a href="/english/site_map/default.asp" target="_top">Site Map</a> &nbsp;|&nbsp; 
+        <a href="/english/contactus/default.asp" target="_top">Contact Us</a>
+    </td>
+    
+    <td class="bar_r" align="right">
+    	
+        <a href="/english/terms/privacy.asp" target="_top">Privacy Policy</a> &nbsp;|&nbsp; 
+        <a href="/english/terms/terms.asp" target="_top">Terms &amp; Conditions</a> &nbsp;|&nbsp; 
+        <a href="mailto:info@careertimes.com.hk" target="_top">Feedback</a>
+    </td>
+</tr>  	 
 
-			<div class="btm_sitemap02d">
-			<a href="/english/article/show_article.asp?category_id=1052" class="btm02">&nbsp;MT Opportunities&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/article/show_article.asp?category_id=1058" class="btm02">&nbsp;On Campus&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/centre/taxtips/tax_tips20090529.asp" class="btm02">&nbsp;Tax Tips&nbsp;</a> &nbsp;
-			</div>
-    		<div class="btm_sitemap_sp"></div>
-
-			<font color="#ffffff"><b>Trends &amp; Salaries:</b></font>&nbsp; 
-			<a href="/english/newsroom/hiring/hiring.asp" class="btm02">&nbsp;Hiring Index&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/hr_news/news_detail.asp" class="btm02">&nbsp;職場新聞 (HR News Express)&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/newsroom/salary/hr_bulletin.asp" class="btm02">&nbsp;HR Bulletin&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/newsroom/salary/salary_update.asp" class="btm02">&nbsp;Salary Update&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/newsroom/salary/trends.asp" class="btm02">&nbsp;Trends &amp; Projections&nbsp;</a> &nbsp;
-
-			<div class="btm_sitemap_sp"></div>
-			<font color="#ffffff"><b>Tools &amp; Tips:</b></font>&nbsp; 
-			<a href="/english/centre/facebook/facebook.asp" class="btm02">&nbsp;Career Times on Facebook&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/centre/coverletters_cv.asp" class="btm02">&nbsp;Cover Letters &amp; CV&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/centre/explore/default.asp" class="btm02">&nbsp;Explore These Professions&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/centre/twitter/twitter.asp" class="btm02">&nbsp;Instant Twitter Updates&nbsp;</a> &nbsp;|&nbsp; 
-			<a href="/english/centre/mobile.asp" class="btm02">&nbsp;Mobile Job Search&nbsp;</a> &nbsp;
-
-			<div class="btm_sitemap_sp"></div>
-            <font color="#ffffff"><b>Education &amp; Seminar:</b></font>&nbsp; 
-            <a href="/english/education/course.asp" class="btm02">&nbsp;Education Course&nbsp;</a> &nbsp;|&nbsp; 
-            <a href="/english/seminar/main.asp" class="btm02">&nbsp;Seminar&nbsp;</a>
-            
-            <div class="btm_sitemap_sp"></div>
-            <font color="#ffde00"><b><a href="/english/main_recruiter.asp" style="color:#ffde00;text-decoration:none;">Employer</a>:</b></font>&nbsp; 
-            <a href="/english/advertise_online.asp" class="btm02">&nbsp;Advertise online&nbsp;</a> &nbsp;|&nbsp; 
-            <a href="http://www.ctplacement.com" class="btm02">&nbsp;Placement service&nbsp;</a> &nbsp;|&nbsp; 
-            <a href="/english/advertise_print.asp" class="btm02">&nbsp;Advertise in print&nbsp;</a>
-            
-        </td>
-    </tr>
-	</tbody></table>
-
-					
-<table border="0" cellpadding="0" cellspacing="0" width="100%">				  	 
-    <tbody><tr class="home_sitemap02">
-        <td class="home_sitemap02a">
-        	<font color="#ffffff">
-            <a href="/english/aboutus/about.asp" class="home_link02">About Us</a> &nbsp;|&nbsp; 
-            <a href="/english/my_careertimes/my_job.asp?top=comjob&amp;m_companyid=00024236" class="home_link02">Careers with Us</a> &nbsp;|&nbsp; 
-            <a href="/english/faq/default.asp" class="home_link02">FAQ</a> &nbsp;|&nbsp; 
-            <a href="/english/site_map/default.asp" class="home_link02">Site Map</a> &nbsp;|&nbsp; 
-            <a href="/english/contactus/default.asp" class="home_link02">Contact Us</a>
-            </font>
-        </td>
-        <td align="right" class="home_sitemap02b">
-        	<font color="#ffffff">
-            <a href="/english/terms/privacy.asp" class="home_link02">Privacy Policy</a> &nbsp;|&nbsp; 
-            <a href="/english/terms/terms.asp" class="home_link02">Terms &amp; Conditions</a> &nbsp;|&nbsp; 
-            <a href="mailto:info@careertimes.com.hk" class="home_link02">Feedback</a>
-            </font>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" class="copyright01">© Copyright 2010 Career Times Online Limited. All rights reserved.		</td>
-    </tr>
-
-</tbody></table>
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-2864443-1");
-pageTracker._trackPageview();
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2864443-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 
-<script language="JavaScript">init();</script>
+<!--<SCRIPT LANGUAGE=JavaScript>init();</script>-->
 <!--hideAll();-->
 <script language="Javascript" src="/include/check_browser_main.js"></script>
 
 <script language="Javascript">
 	//if ((document.body.className == null) || (document.body.className == ""))
-		document.body.className = "background01";
+		//document.body.className = "background01";
 	//else
 	//	document.body.className = document.body.className + "; " + "background01";
+	
+	// reset background images
+	
 </script>
+
+<tr>
+	<td colspan="2" style="padding:0px 10px;">
+    	
+        <div style="padding:10px 0px 0px 0px;" class="header">Jobseeker:</div>
+            	
+		<div style="padding:8px 0px 0px 0px;"><a href="/english/search/criteria.asp" target="_top" class="hl02">Find Jobs</a></div>
+		<div style="padding:8px 0px 0px 0px;"><a href="/english/my_careertimes/my_preference_reg_jobalert.asp" target="_top" class="hl02">Job Alert</a></div>
+		<div style="padding:8px 0px 0px 0px;"><font class="title">myCareerTimes:</font> <a href="/english/my_careertimes/my_job.asp?top=preference&amp;c=DE" target="_top" class="hl">&nbsp;myJobListings&nbsp;</a> |  <a href="/english/resume/my_resume.asp" target="_top" class="hl">&nbsp;myResume&nbsp;</a> |  <a href="/english/my_careertimes/search_saved.asp" target="_top" class="hl">&nbsp;mySearchCriteria&nbsp;</a> |  <a href="/english/my_careertimes/setting_overview.asp" target="_top" class="hl">&nbsp;mySettings&nbsp;</a></div>
+		<div style="padding:8px 0px 0px 0px;"><font class="title">Career Resources:</font> <a href="/english/hr_news/news_detail.asp" target="_top" class="hl">&nbsp;職場新聞 (HR News Express)&nbsp;</a> | <a href="/english/newsroom/salary/salary_update.asp" target="_top" class="hl">&nbsp;Salary Update&nbsp;</a> | <a href="/english/newsroom/hiring/hiring.asp" target="_top" class="hl">&nbsp;Hiring Index&nbsp;</a> | <a href="/english/newsroom/salary/trends.asp" target="_top" class="hl">&nbsp;Trends &amp; Projections&nbsp;</a> | <a href="/english/centre/coverletters_cv.asp" target="_top" class="hl">&nbsp;Cover Letter &amp; CV&nbsp;</a> | <a href="/english/education/course.asp" target="_top" class="hl">&nbsp;Edu &amp; Seminar&nbsp;</a></div>		
+		<div style="padding:4px 0px 0px 0px;">Features: <a href="/english/article/show_article.asp?category_id=1037" target="_top" class="hl">&nbsp;Career Path&nbsp;</a> | <a href="/english/article/show_article.asp?category_id=1052" target="_top" class="hl">&nbsp;MT Opportunities&nbsp;</a> | <a href="/english/article/show_article.asp?category_id=1038" target="_top" class="hl">&nbsp;Cream of the Crop&nbsp;</a></div>
+		<div style="padding:4px 0px 0px 50px;"><a href="/english/article/show_article.asp?category_id=1042" target="_top" class="hl">&nbsp;HR Corner&nbsp;</a> | <a href="/english/article/show_article.asp?category_id=1039" target="_top" class="hl">&nbsp;Embracing Change&nbsp;</a> | <a href="/english/article/default.asp" target="_top" class="hl">&nbsp;Industry Updates&nbsp;</a> | <a href="/english/article/show_article.asp?category_id=1057" target="_top" class="hl">&nbsp;Money Moves&nbsp;</a></div>
+		<div style="padding:4px 0px 0px 50px;"><a href="/english/article/show_article.asp?category_id=1081" target="_top" class="hl">&nbsp;Gear Up&nbsp;</a> | <a href="/english/article/show_article.asp?category_id=1041" target="_top" class="hl">&nbsp;From the Bookshelf&nbsp;</a> | <a href="/english/article/legal_puzzle.asp" target="_top" class="hl">&nbsp;Legal Puzzle&nbsp;</a> | <a href="/english/article/show_article.asp?category_id=1058" target="_top" class="hl">&nbsp;On Campus&nbsp;</a> | <a href="/english/centre/taxtips/tax_tips20090529.asp" target="_top" class="hl">&nbsp;Tax Tips&nbsp;</a></div>
+		<div style="padding:8px 0px 0px 0px;"><a href="http://www.cthr.com.hk/" target="_blank" class="hl02">CTHR</a></div>
+        <div style="padding:8px 0px 0px 0px;"><a href="/english/count/count_banner.asp?banner_name=blogs_in_footer&amp;href=http%3A%2F%2Fblog.careertimes.com.hk%2Fblogs%2Fblog_index.php%3Fc%3DDE&amp;from=main" target="_top" class="hl02">Blogs</a></div>
+        <div style="padding:10px 0px 0px 0px;">
+        	
+            <font class="header">Employer:</font> 
+                         
+            <a href="/english/advertise_online.asp" target="_top" class="hl">&nbsp;Advertise online&nbsp;</a> | <a href="http://www.ctplacement.com/" target="_top" class="hl">&nbsp;Placement service&nbsp;</a> | <a href="/english/advertise_print.asp" target="_top" class="hl">&nbsp;Advertise in print&nbsp;</a>
+        </div>
+		<div style="padding:20px 0px 10px 0px;">© Copyright 2011 Career Times Online Limited. All rights reserved.</div>
+    </td>
+</tr>
+
+<!--
+    <tr class="home_sitemap04">
+		<td class="btm_sitemap01" colspan="2">
+			<font color="#ffde00"><b><a href="/english/main.asp" style="color:#ffde00;text-decoration:none;">Jobseeker</a>:</b></font>&nbsp;<br>
+            <font color="#ffffff"><b>Articles:</b></font>&nbsp; 
+            <a href="/english/article/show_article.asp?category_id=1037" class=btm02>&nbsp;Career Path&nbsp;</a> &nbsp;|&nbsp; 
+            <a href="/english/article/show_article.asp?category_id=1038" class=btm02>&nbsp;Cream of the Crop&nbsp;</a> &nbsp;|&nbsp; 
+            <a href="/english/article/show_article.asp?category_id=1039" class=btm02>&nbsp;Embracing Change&nbsp;</a> &nbsp;|&nbsp; 
+            <a href="/english/article/show_article.asp?category_id=1041" class=btm02>&nbsp;From the Bookshelf</a> &nbsp;|&nbsp;
+
+			<a href="/english/article/show_article.asp?category_id=1081" class=btm02>&nbsp;Gear Up&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/article/show_article.asp?category_id=1042" class=btm02>&nbsp;HR Corner&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/article/default.asp" class=btm02>&nbsp;Industries&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/article/legal_puzzle.asp" class=btm02>&nbsp;Legal Puzzle&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/article/show_article.asp?category_id=1057" class=btm02>&nbsp;Money Moves&nbsp;</a> &nbsp;
+
+			<div class="btm_sitemap02d">
+			<a href="/english/article/show_article.asp?category_id=1052" class=btm02>&nbsp;MT Opportunities&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/article/show_article.asp?category_id=1058" class=btm02>&nbsp;On Campus&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/centre/taxtips/tax_tips20090529.asp" class=btm02>&nbsp;Tax Tips&nbsp;</a> &nbsp;
+			</div>
+    		<div class="btm_sitemap_sp"></div>
+
+			<font color="#ffffff"><b>Trends & Salaries:</b></font>&nbsp; 
+			<a href="/english/newsroom/hiring/hiring.asp" class=btm02>&nbsp;Hiring Index&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/hr_news/news_detail.asp" class=btm02>&nbsp;職場新聞 (HR News Express)&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/newsroom/salary/hr_bulletin.asp" class=btm02>&nbsp;HR Bulletin&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/newsroom/salary/salary_update.asp" class=btm02>&nbsp;Salary Update&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/newsroom/salary/trends.asp" class=btm02>&nbsp;Trends & Projections&nbsp;</a> &nbsp;
+
+			<div class="btm_sitemap_sp"></div>
+			<font color="#ffffff"><b>Tips:</b></font>&nbsp; 
+			<a href="/english/centre/facebook/facebook.asp" class=btm02>&nbsp;Career Times on Facebook&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/centre/coverletters_cv.asp" class=btm02>&nbsp;Cover Letters & CV&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/centre/explore/default.asp" class=btm02>&nbsp;Explore These Professions&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/centre/twitter/twitter.asp" class=btm02>&nbsp;Instant Twitter Updates&nbsp;</a> &nbsp;|&nbsp; 
+			<a href="/english/centre/mobile.asp" class=btm02>&nbsp;Mobile Job Search&nbsp;</a> &nbsp;
+
+			<div class="btm_sitemap_sp"></div>
+            <font color="#ffffff"><b>Edu &amp; Seminar:</b></font>&nbsp; 
+            <a href="/english/education/course.asp" class=btm02>&nbsp;Education Course&nbsp;</a> &nbsp;|&nbsp; 
+            <a href="/english/seminar/main.asp" class=btm02>&nbsp;Seminar&nbsp;</a>
+            
+            <div class="btm_sitemap_sp"></div>
+			<a href="/english/count/count_banner.asp?banner_name=blogs_in_footer&href=http%3A%2F%2Fblog.careertimes.com.hk%2Fblogs&from=main" class=btm02><b>趣誌辦館</b></a>&nbsp; 
+            
+            <div class="btm_sitemap_sp"></div>
+            <font color="#ffde00"><b><a href="/english/main_recruiter.asp" style="color:#ffde00;text-decoration:none;">Employer</a>:</b></font>&nbsp; 
+            <a href="/english/advertise_online.asp" class=btm02>&nbsp;Advertise online&nbsp;</a> &nbsp;|&nbsp; 
+            <a href="http://www.ctplacement.com" class=btm02>&nbsp;Placement service&nbsp;</a> &nbsp;|&nbsp; 
+            <a href="/english/advertise_print.asp" class=btm02>&nbsp;Advertise in print&nbsp;</a>
+            
         </td>
-    </tr>		
+    </tr>
+   -->
+    	
 </tbody></table></td>
 </tr>
 </tbody></table>
