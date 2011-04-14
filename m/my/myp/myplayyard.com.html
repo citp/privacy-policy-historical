@@ -1,37 +1,64 @@
-<!--The following is the downloaded HTML source of the myplayyard.com privacy policy that was archived on 2010-03-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100306074543id_/http%3A//www.myplayyard.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myplayyard.com privacy policy that was archived on 2011-04-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110414134808id_/http%3A//www.myplayyard.com/pages/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<meta name="description" content="Our privacy policy.">
-	<meta name="keywords" content="">
-	<title>Privacy Policy - myplayyard.com</title>
-	<link href="http://www.myplayyard.com/templates/blue/files/default.css" rel="stylesheet" type="text/css">
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <meta name="description" content="Our privacy policy.">
+    <meta name="keywords" content="">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <title>Privacy Policy - myplayyard.com</title>    
+    <link href="http://static.myplayyard.com/templates/spaceinvaders/files/style.css?v=72" type="text/css" rel="stylesheet">
+	<!--[if IE 6]>
+	<link href="http://www.myplayyard.com/templates/spaceinvaders/files/style_ie6.css?v=72" type="text/css" rel="stylesheet" />
+	<style>  
+	img  { behavior: url("http://www.myplayyard.com/templates/spaceinvaders/files/iepngfix.htc") }	</style>
+	<![endif]-->
 
-	<!--<script type="text/javascript" src="http://www.myplayyard.com/templates/blue/files/jquery-1.2.2.pack.js"></script>-->
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<!--[if IE 7]>
+	<link href="http://www.myplayyard.com/templates/spaceinvaders/files/style_ie7.css?v=72" type="text/css" rel="stylesheet" />
+	<![endif]-->
+	<!--[if IE 8]>
+	<link href="http://www.myplayyard.com/templates/spaceinvaders/files/style_ie8.css?v=72" type="text/css" rel="stylesheet" />
+	<![endif]-->
 
 
 
-	<link href="http://www.myplayyard.com/templates/blue/files/featuredcontentglider.css" rel="stylesheet" type="text/css">
-	<link href="http://www.myplayyard.com/templates/blue/files/cssbuttonstoggler.css" rel="stylesheet" type="text/css">
-	<script type="text/javascript">var baseDir = 'http://www.myplayyard.com/';var templateBase = 'http://www.myplayyard.com/templates/blue/';    </script>
-	<script src="http://www.myplayyard.com/templates/blue/files/javascript.js" type="text/javascript"></script>
-	<script type="text/javascript" src="http://www.myplayyard.com/templates/blue/files/featuredcontentglider.js"></script>
 
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	var baseDir = 'http://www.myplayyard.com/';
+	var templateBase = 'http://www.myplayyard.com/templates/spaceinvaders/';
+    </script>
 
+    
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script src="http://static.myplayyard.com/templates/spaceinvaders/files/jquery.cookie.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script>
+    <script src="http://static.myplayyard.com/templates/spaceinvaders/files/javascript.js?v=72" type="text/javascript"></script>
+		<script src="http://s7.addthis.com/js/250/addthis_widget.js#username=moshekipud&amp;async=1" type="text/javascript"></script>
+		
+	
+	
 
-	<!-- Conduit API script declaration -->
-<script language="javascript" type="text/javascript" src="http://api.conduit.com/ToolbarApi.js"></script>
+    <!-- Conduit API script declaration -->
+<script>
+if (!isIE6){
+	document.write ('<scr'+'ipt language="javascript" type="text/javascript" src="http://api.conduit.com/ToolbarApi.js"></sc'+'ript>');
+}
+</script>
+
 <script language="javascript" type="text/javascript">
 var foundToolbar = false;
-if ('0'!='1'){
+if (!isIE6 && '0'!='1'){
     $(document).ready(FindToolbar);
-    $(window).load(FindToolbar);
+    $(window).load(FindToolbar);	
+	
     var toolbarInterval = setInterval(FindToolbar, 20000);
 }
 function FindToolbar(){
-
+	if (isIE6){
+		clearInterval(toolbarInterval);
+		return;
+	}
    // if (foundToolbar)return;
 
     //default is enabling games
@@ -41,151 +68,169 @@ function FindToolbar(){
 
     // check the toolbar only for toolbar enabled browsers
     if (!jQuery.browser.chrome && ( jQuery.browser.msie || jQuery.browser.safari || jQuery.browser.mozilla ) ){
-
-	var oToolbar = new TPI.Toolbar("CT2402548");
-	var oReturn = oToolbar.IsVisible();
-	has_toolbar = oReturn.returnValue;
-
-	//$("#smalldebug").html($("#smalldebug").html() + " | js:has_toolbar" + has_toolbar);
+		var oToolbar = new TPI.Toolbar("CT2402548");
+		var oReturn = oToolbar.IsVisible();
+		has_toolbar = oReturn.returnValue;
+		//$("#smalldebug").html($("#smalldebug").html() + " | js:has_toolbar" + has_toolbar);
     }else{
-	clearInterval(toolbarInterval);
+		clearInterval(toolbarInterval);
+		has_toolbar = 1;
     }
 
     foundToolbar = has_toolbar;
 
     if (foundToolbar){
-	clearInterval(toolbarInterval);
-
+		clearInterval(toolbarInterval);
         var iframe = $("#hiddenFrame");
-	iframe.attr("src","/identify_toolbar.php?v="+has_toolbar);
-
+		iframe.attr("src","/identify_toolbar.php?v="+has_toolbar);
     }
 
 }
-</script>    </head>
+</script>	</head>
+<body class="page_page">
 
-<body class="layout  id2  page-1  name-privacy-policy ">
-    <div align="center" id="MainWrap">
-	<div class="main_center">
-	    <div class="main">
-		<div class="header">
-		    <div class="logo">
-			<a href="http://www.myplayyard.com/">                            <img src="http://www.myplayyard.com/templates/blue/images/logo.gif" width="469" height="89" border="0" alt=""></a>                    </div>                    <div class="top_nav">
+    <div id="mainBoxOuter">
+        <div id="mainBox">
+            <div id="headerBox">
+                <h1 style="text-indent: -3333em; height: 100px; width: 170px; float: left; margin: 40px 0 0 35px;">
+                    <a href="http://www.myplayyard.com/" style="display: block; height: 100px">The best girl games,
+                        funny games,shooting games and Ben 10 games</a></h1>
+                <div id="searchBox" class="searchbox">
+                    <div class="searchboxInner">
+                        <form name="searchForm" action="http://www.google.com/cse" id="cse-search-box" target="_blank">
+                        <div>
+                            <input type="hidden" name="cx" value="partner-pub-5021573984633461:8egpqz-4ruf">
+                            <input type="hidden" name="ie" value="ISO-8859-1">
+                            <input type="text" name="q" size="31" class="search" maxlength="50">
+                            <input type="submit" name="sa" class="searchsubmit" value="Search">
+                        </div>
+                        </form>
 
-			<a rel="noindex" class="bookmark_link" href="javascript:bookmark(window.location.href, 'Privacy Policy - myplayyard.com');" style="color: #FFFFFF;"><strong>ADD TO FAVORITES</strong></a>                    </div>
-
-			<a class="homepage_link" href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://myplayyard.com');" style="" rel="noindex">SET AS HOMEPAGE</a>
-			
-			<!-- AddThis Button BEGIN -->
-			<a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=moshekipud"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=moshekipud"></script>
-			<!-- AddThis Button END -->
-
-
-			<div class="searchbox">
-			    <form name="searchForm" action="http://www.myplayyard.com/index.php" method="get">
-			    <input type="hidden" name="a" id="a" value="gamelist"><input type="text" name="q" id="q" value="Search for games..." onfocus="this.value='';" class="search"><input type="image" class="searchsubmit" src="http://www.myplayyard.com/templates/blue/images/searchsubmit.gif" name="submit" alt="Search">
-			    </form>
-				
-
-			</div>
-		</div>
-		<div class="menu">                    <ul>                        <li class="current"><a href="http://www.myplayyard.com/pages/more-games">More Games</a></li>
-		<li><a href="http://www.myplayyard.com/all-games">All Games</a></li>
-		<li><a href="http://www.myplayyard.com/top-rated">Top Rated</a></li>
-		<li><a href="http://www.myplayyard.com/most-popular">Most Popular</a></li>
-		<li><a href="http://www.myplayyard.com/video/">Video</a></li>
-		                    </ul>                </div>
-		<div class="find_games">
-		    		</div>
-
-		<!--
-		<div class="toolbarLinkWrap">
-			<div class="toolbarLink">
-
-				<div id="toolBarHider" ><table style='width:0px;border:0px;'><tr><td><script src="http://hosting.conduit.com/DrawToolbar/?ct=CT2402548&cover=0&culture=en&exe=true"></script></td></tr><tr><td style='font-size: 9px;font-family: Verdana;text-align: right;color:#888888'><a href='http://www.Conduit.com' style='text-decoration:none;color:#888888;'>toolbar</a> powered by Conduit</td></tr></table></div>
-
-
-				<div class="text"><a href="http://myplayyardtoolbar.ourtoolbar.com/exe" >Download our free games toolbar, installs in seconds,safe and can be removed anytime</a></div>
-			</div>
-
-		</div>
-		-->
-
-
-
-
-		<div class="body_area">
-		    <div class="left_area">                        					<div class="left_boxes">
-						<!--<span id="smalldebug">ix:0|</span>-->
-						<h2>Games Categories</h2>
-						<ul>
-						<li><a href="http://www.myplayyard.com/4wd-games" style="background-image: url(../content/thumbs/RQNGn_4wd-games-thumb-1.gif);background-position: left 3px;  ">4WD Games</a></li><li><a href="http://www.myplayyard.com/action" style="background-image: url(../content/thumbs/3Phq2_action-thumb-1.gif);background-position: left 3px;  ">Action</a></li><li><a href="http://www.myplayyard.com/ben10-games" style="background-image: url(../content/thumbs/ikyRD_ben10-games-thumb-1.gif);background-position: left 3px;  ">Ben10 games</a></li><li><a href="http://www.myplayyard.com/board-games" style="background-image: url(../content/thumbs/board-games-thumb-1.gif);background-position: left 3px;  ">Board Games</a></li><li><a href="http://www.myplayyard.com/car-games" style="background-image: url(../content/thumbs/kr9UJ_car-games-thumb-1.gif);background-position: left 3px;  ">Car Games</a></li><li><a href="http://www.myplayyard.com/card-games" style="background-image: url(../content/thumbs/_CO3T_card-games-thumb-1.gif);background-position: left 3px;  ">Card Games</a></li><li><a href="http://www.myplayyard.com/checkers" style="background-image: url(../content/thumbs/checkers-thumb-1.gif);background-position: left 3px;  ">Checkers</a></li><li><a href="http://www.myplayyard.com/chess" style="background-image: url(../content/thumbs/chess-thumb-1.gif);background-position: left 3px;  ">Chess</a></li><li><a href="http://www.myplayyard.com/classic-games" style="background-image: url(../content/thumbs/pnINu_classic-games-thumb-1.gif);background-position: left 3px;  ">Classic Games</a></li><li><a href="http://www.myplayyard.com/coloring-pages">coloring pages</a></li><li><a href="http://www.myplayyard.com/dora-games" style="background-image: url(../content/thumbs/c0PBg_dora-games-thumb-1.gif);background-position: left 3px;  ">Dora Games</a></li><li><a href="http://www.myplayyard.com/fashion-games" style="background-image: url(../content/thumbs/_350H_fashion-games-thumb-1.gif);background-position: left 3px;  ">Fashion Games</a></li><li><a href="http://www.myplayyard.com/flight-games" style="background-image: url(../content/thumbs/flight-games-thumb-1.gif);background-position: left 3px;  ">Flight Games</a></li><li><a href="http://www.myplayyard.com/funny-games" style="background-image: url(../content/thumbs/funny-games-thumb-1.gif);background-position: left 3px;  ">Funny Games</a></li><li><a href="http://www.myplayyard.com/girls-games" style="background-image: url(../content/thumbs/5WsRr_girls-games-thumb-1.gif);background-position: left 3px;  ">Girls Games</a></li><li><a href="http://www.myplayyard.com/kids-games" style="background-image: url(../content/thumbs/2osNV_kids-games-thumb-1.gif);background-position: left 3px;  ">Kids Games</a></li><li><a href="http://www.myplayyard.com/mind-games" style="background-image: url(../content/thumbs/TVo3O_mind-games-thumb-1.gif);background-position: left 3px;  ">Mind Games</a></li><li><a href="http://www.myplayyard.com/misc-games">Misc Games</a></li><li><a href="http://www.myplayyard.com/puzzle" style="background-image: url(../content/thumbs/KVbMI_puzzle-thumb-1.gif);background-position: left 3px;  ">Puzzle</a></li><li><a href="http://www.myplayyard.com/shooting-games" style="background-image: url(../content/thumbs/GyuU2_shooting-games-thumb-1.gif);background-position: left 3px;  ">Shooting Games</a></li><li><a href="http://www.myplayyard.com/spongebob-games" style="background-image: url(../content/thumbs/spongebob-games-thumb-1.gif);background-position: left 3px;  ">SpongeBob Games</a></li><li><a href="http://www.myplayyard.com/sudoku" style="background-image: url(../content/thumbs/eh4Vb_sudoku-thumb-1.gif);background-position: left 3px;  ">Sudoku</a></li><li><a href="http://www.myplayyard.com/super-mario" style="background-image: url(../content/thumbs/n_ciB_super-mario-thumb-1.gif);background-position: left 3px;  ">Super Mario</a></li>						</ul>
-						<br>
-						<img src="http://www.myplayyard.com/templates/blue/images/left_box_bottom.gif" width="180" height="5" border="0" alt="" align="left">
-					</div> 					<div class="left_boxes_02">
-						<h2>Most Popular Games</h2>
-						<ul>
-						<li>
-			<a href="http://www.myplayyard.com/ben10-games/play-ben-10-alien-force-omnimatch" title="Played 3407 times"><img src="http://www.myplayyard.com/content/icons/ben-10-alien-force-omnimatch-icon-1.jpg" width="60" height="60" alt="Play Ben 10 Alien Force Omnimatch" style="border: 1px solid #000000;" align="left"></a>
-			<a href="http://www.myplayyard.com/ben10-games/play-ben-10-alien-force-omnimatch" title="Played 3407 times">Ben 10 Alien Force Omnimatch</a><br>
-			</li><li>
-			<a href="http://www.myplayyard.com/girls-games/play-bratz-kissing" title="Played 3259 times"><img src="http://www.myplayyard.com/content/icons/bratz-kissing-icon-1.gif" width="60" height="60" alt="Play Bratz kissing" style="border: 1px solid #000000;" align="left"></a>
-			<a href="http://www.myplayyard.com/girls-games/play-bratz-kissing" title="Played 3259 times">Bratz kissing</a><br>
-			</li><li>
-			<a href="http://www.myplayyard.com/classic-games/play-tetris" title="Played 3219 times"><img src="http://www.myplayyard.com/content/icons/tetris-icon-1.jpg" width="60" height="60" alt="Play Tetris" style="border: 1px solid #000000;" align="left"></a>
-			<a href="http://www.myplayyard.com/classic-games/play-tetris" title="Played 3219 times">Tetris</a><br>
-			</li><li>
-			<a href="http://www.myplayyard.com/shooting-games/play-weapon" title="Played 2317 times"><img src="http://www.myplayyard.com/content/icons/weapon-icon-1.gif" width="60" height="60" alt="Play Weapon" style="border: 1px solid #000000;" align="left"></a>
-			<a href="http://www.myplayyard.com/shooting-games/play-weapon" title="Played 2317 times">Weapon</a><br>
-			</li>						</ul>
-                                                <a href="http://www.myplayyard.com/most-popular" class="viewall">View All</a>
-                        <br>
-                        <br>
-                        <img src="http://www.myplayyard.com/templates/blue/images/left_box_bottom.gif" width="180" height="5" border="0" alt="" align="left">
-                    </div> 						 				<div class="left_area">
-					<div class="left_boxes_03">
-						<h2>Top Referrers</h2>
-						<ul>
-                        <li><a href="http://www.myplayyard.com/out.php?id=40" target="_blank" title="Free Games">Free Games</a></li><li><a href="http://www.myplayyard.com/out.php?id=5" target="_blank" title="Hit Arcade">Hit Arcade</a></li><li><a href="http://www.myplayyard.com/out.php?id=42" target="_blank" title="Arcade Games">Arcade Games</a></li><li><a href="http://www.myplayyard.com/out.php?id=43" target="_blank" title="onlinepoker66.com">onlinepoker66.com</a></li><li><a href="http://www.myplayyard.com/out.php?id=49" target="_blank" title="1001arcade.com">1001arcade.com</a></li><li><a href="http://www.myplayyard.com/out.php?id=66" target="_blank" title="Shooting Games.">Shooting Games.</a></li><li><a href="http://www.myplayyard.com/out.php?id=1" target="_blank" title="Car games">Car games</a></li><li><a href="http://www.myplayyard.com/out.php?id=2" target="_blank" title="flashgameheroes">flashgameheroes</a></li><li><a href="http://www.myplayyard.com/out.php?id=6" target="_blank" title="Free Online Games">Free Online Games</a></li><li><a href="http://www.myplayyard.com/trade-traffic" class="viewall">Trade Traffic</a></li><br><li><a href="http://www.myplayyard.com/trade-stats" class="viewall">Trade Stats</a></li>                        </ul>
-                        <br>
-                        <br>
-                        <img src="http://www.myplayyard.com/templates/blue/images/left_box_bottom.gif" width="180" height="5" border="0" alt="" align="left">
-					</div>
-				</div>                    </div>
-			                    <div class="center_area">                        					<div style="width: 468px; position: relative; left: -3px; float: left;">
-                    	
-
-
-<title>Untitled document</title>
-
-
-<p>
-<script type="text/javascript"><!--
-google_ad_client = "pub-5021573984633461";
-/* 468x60, created 8/28/09 */
-google_ad_slot = "5783367007";
-google_ad_width = 468;
-google_ad_height = 60;
-//-->// --&gt; // --&gt;</script>
-
-
-<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript"></script>
-
-
-
-</p>
+                        <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
                     </div>
-                    <div class="center_directory_01">
-                        <div class="center_directory">
-                            <div class="center_directory_title">
-                            	<h2>Privacy Policy</h2>
+                </div>
+                <a rel="noindex" class="bookmark_link" href="javascript:bookmark(window.location.href, 'Privacy Policy - myplayyard.com');">
+                    FAVORITES</a> <a class="homepage_link" href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://myplayyard.com');" style="" rel="noindex">HOMEPAGE</a>
+            </div>
+            <div id="leftTopWrap">
+                						<div id="CategoriesBox">
+                      	<ul id="nav">
+                                <li id="Homenav"><a href="http://www.myplayyard.com">Home</a></li><li id="Actionnav"><a href="http://www.myplayyard.com/action">Action</a></li><li id="Ben10gamesnav"><a href="http://www.myplayyard.com/ben10-games">Ben 10</a></li><li id="Cargamesnav"><a href="http://www.myplayyard.com/car-games">Car</a></li><li id="Doragamesnav"><a href="http://www.myplayyard.com/dora-games">Dora</a></li><li id="fashiongamesnav"><a href="http://www.myplayyard.com/fashion-games">Dress Up</a></li><li id="funnygamesnav"><a href="http://www.myplayyard.com/funny-games">Funny</a></li><li id="girlgamesnav"><a href="http://www.myplayyard.com/girls-games">Girls</a></li><li id="shootinggamesnav"><a href="http://www.myplayyard.com/shooting-games">Shooting</a></li><li id="Spongebobgamesnav"><a href="http://www.myplayyard.com/spongebob-games">SpongeBob</a></li><li id="morenav"><a href="#more_categories">More +</a></li>                        </ul>
+                        </div>				<div id="featuredBox" class="">
+	<h2>Random games</h2> 
+	<ul>          
+		<li class="mostpopgame" id="TopPlayed1">
+								<a href="http://www.myplayyard.com/funny-games/play-egg-catcher"><img src="http://static.myplayyard.com/content/icons/egg-catcher-icon-1.jpg" width="84" height="72" border="0" alt="Play Egg catcher"></a>
+								<a href="http://www.myplayyard.com/funny-games/play-egg-catcher">Egg catcher</a>
+								<span class="stars1"></span>
+								<p>Egg Catcher - You are the farmer and your chickens are ...</p>
+							</li><li class="mostpopgame" id="TopPlayed2">
+								<a href="http://www.myplayyard.com/fashion-games/play-my-dream-girl"><img src="http://static.myplayyard.com/content/icons/my-dream-girl-icon-1.jpg" width="84" height="72" border="0" alt="Play My dream girl"></a>
+								<a href="http://www.myplayyard.com/fashion-games/play-my-dream-girl">My dream girl</a>
+								<span class="stars0"></span>
+								<p>Design a perfect look for your dream girl. </p>
+							</li><li class="mostpopgame" id="TopPlayed3">
+								<a href="http://www.myplayyard.com/4wd-games/play-extreme-truck-2"><img src="http://static.myplayyard.com/content/icons/extreme-truck-2-icon-1.jpg" width="84" height="72" border="0" alt="Play Extreme Truck 2"></a>
+								<a href="http://www.myplayyard.com/4wd-games/play-extreme-truck-2">Extreme Truck 2</a>
+								<span class="stars3"></span>
+								<p>The monster trucks have returned. Drive them through wa...</p>
+							</li>	 </ul>
+</div>
+
+	<div id="LastPlayedBox" style="display:none;">
+		<h2>Last Played</h2> 
+		
+		<script>
+		if (typeof(AddLastPlayed)!="undefined")AddLastPlayed();
+		</script>
+ 
+	</div>
+	
+ 
+				
+				
+				 				<div id="TopAd"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-5021573984633461";
+/* mpy-728x90-up */
+google_ad_slot = "8122265671";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>
                             </div>
-                            <div class="center_directory_space_01">
-                                <img src="http://www.myplayyard.com/templates/blue/images/spacer.gif" width="1" height="5" border="0" alt="">
-                            </div>
-                            <div class="center_directory_area" style="width: 442px; padding: 10px;">
-                                MyPlayYard.com/ understands how important the privacy of personal information is to our users. We respect and are committed to protecting your privacy. This Privacy Policy will tell you what information we collect about you and about your use of Arcaderush and its services. 
+			
+            <!-- share/addthing code -->            	
+			<div class="up-share">
+				
+				<span id="TopShareScript"></span>
+				<div class="up-share-end-img">
+				<div id="up-share-inner" class="up-share-inner">
+								<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
+								  <a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_email">
+								   </a><a class="addthis_button_google"></a><a class="addthis_button_compact"></a>
+								</div>
+				</div>
+				</div>
+			</div>
+            <!-- end share code -->
+            
+             	            <div id="topReferrersBox">
+		<div class="adsense200x200">
+          		  <script type="text/javascript"><!--
+google_ad_client = "pub-5021573984633461";
+/* 200x200, created 9/2/10 */
+google_ad_slot = "2885338799";
+google_ad_width = 200;
+google_ad_height = 200;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+		</div>
+		</div>
+	
+
+            <div id="middleBox">
+                            <div id="mainMiddleBox">
+                				 <div id="leftColumn">
+					 <div class="ad_300x250">
+                        <h2>Advertisment</h2>
+                        
+
+<div id="advert">
+<!-- 300x250 ad code goes here -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-5021573984633461";
+/* 300x250, created 1/6/10 */
+google_ad_slot = "1132010137";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</div>                    </div>		
+         	
+                   <div id="slideshowBox">
+	<div class="bg">
+					<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FMyPlayYard%2F179339025446249&amp;width=298&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=255" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:298px; height:255px;" allowtransparency="true"></iframe>
+			</div>
+</div>                	
+                </div>
+                <div id="rightWrapper">
+					                    <div id="rightColumn">
+											
+										<div id="searchresults">
+											<h2>Privacy Policy</h2>
+											<div id="whitebg">
+												<p>MyPlayYard.com/ understands how important the privacy of personal information is to our users. We respect and are committed to protecting your privacy. This Privacy Policy will tell you what information we collect about you and about your use of Arcaderush and its services. 
 <br>
 <br>Personal Information: 
 <br>
@@ -215,67 +260,222 @@ google_ad_height = 60;
 <br>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. One of these vendors is Google. 
 <br>Google, as a third party vendor, Uses cookies to serve ads on our site. 
 <br>Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy. If you have any questions about this privacy policy or our treatment of your personal data, please write to us: <a href="http://www.MyPlayYard.com/pages/contact-us">Contact us form</a>
-<br>				
-                            </div>
-                            <div class="center_box_bottom">
-                                <img src="http://www.myplayyard.com/templates/blue/images/center_box_bottom.gif" width="462" height="5" border="0" alt="">
-                            </div>
-                        </div>
-                    </div>                    </div>                                         <div class="right_area">                        
+<br></p>
+												
+																	
+											</div>
+										</div>
+										
+                	</div>
+                 </div>	 	<a name="more_categories"></a>
+	<div class="categoriestable">
+        <ul>          
+            <li class="circle1"><a style=" background-position: 21px -393px; " href="http://www.myplayyard.com/4wd-games">4WD Games</a></li>
 
+            
+            <li class="circle2">
+                <a style=" background-position: -61px -392px; " href="http://www.myplayyard.com/car-games">Car Games</a>
+            </li>
+            
+            <li class="circle3">
+                <a style=" background-position: -381px -232px " href="http://www.myplayyard.com/dora-games">Dora Games</a>
+            </li>
+            <li class="circle4">
+                <a style=" background-position: -61px -230px " href="http://www.myplayyard.com/kids-games">Kids Games</a>
 
-			<div class="right_banners">                            <div><script>if (document.all){	document.write ('<iframe width="300" height="250" scrolling="no" frameborder="0" src="/templates/blue/files/ad-300x250-adsense.html" ></iframe>');	/*document.write ('<iframe width="300" height="250" scrolling="no" frameborder="0" src="/templates/blue/files/ad-300x250-IE.html" ></iframe>');	*/}else{	document.write ('<iframe width="300" height="250" scrolling="no" frameborder="0" src="/templates/blue/files/ad-300x250-adsense.html" ></iframe>');}</script><iframe width="300" height="250" scrolling="no" frameborder="0" src="/templates/blue/files/ad-300x250-adsense.html"></iframe></div>                        </div>                        <div class="right_colum01">                                                	                     	<div class="randgames_box">
-                            <h2>Random Games</h2>
-                            <ul>
-                            <li><a href="http://www.myplayyard.com/fashion-games/play-alva-donna-dressup" title="Played 251 times"><img src="http://www.myplayyard.com/content/icons/alva-donna-dressup-icon-1.bmp" width="60" height="60" alt="Play Alva Donna Dressup" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/fashion-games/play-alva-donna-dressup">Alva Donna Dressup</a></li><li><a href="http://www.myplayyard.com/classic-games/play-donkey-kong" title="Played 653 times"><img src="http://www.myplayyard.com/content/icons/donkey-kong-icon-1.jpg" width="60" height="60" alt="Play Donkey Kong" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/classic-games/play-donkey-kong">Donkey Kong</a></li><li><a href="http://www.myplayyard.com/action/play-blackbeard-s-assault" title="Played 228 times"><img src="http://www.myplayyard.com/content/icons/blackbeard-s-assault-icon-1.gif" width="60" height="60" alt="Play Blackbeard's Assault" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/action/play-blackbeard-s-assault">Blackbeard's Assault</a></li><li><a href="http://www.myplayyard.com/dora-games/play-dora-s-space-adventure" title="Played 1126 times"><img src="http://www.myplayyard.com/content/icons/dora-s-space-adventure-icon-1.jpg" width="60" height="60" alt="Play Dora's Space Adventure" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/dora-games/play-dora-s-space-adventure">Dora's Space Adventure</a></li><li><a href="http://www.myplayyard.com/car-games/play-runaway" title="Played 282 times"><img src="http://www.myplayyard.com/content/icons/runaway-icon-1.gif" width="60" height="60" alt="Play Runaway" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/car-games/play-runaway">Runaway</a></li><li><a href="http://www.myplayyard.com/car-games/play-bike-mania" title="Played 417 times"><img src="http://www.myplayyard.com/content/icons/bike-mania-icon-1.jpg" width="60" height="60" alt="Play Bike Mania" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/car-games/play-bike-mania">Bike Mania</a></li><li><a href="http://www.myplayyard.com/chess/play-chess-2" title="Played 384 times"><img src="http://www.myplayyard.com/content/icons/chess-2-icon-1.jpg" width="60" height="60" alt="Play Chess 2" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/chess/play-chess-2">Chess 2</a></li><li><a href="http://www.myplayyard.com/shooting-games/play-hover-tank-2" title="Played 387 times"><img src="http://www.myplayyard.com/content/icons/hover-tank-2-icon-1.gif" width="60" height="60" alt="Play Hover Tank 2" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/shooting-games/play-hover-tank-2">Hover Tank 2</a></li><li><a href="http://www.myplayyard.com/fashion-games/play-barbies-living-room" title="Played 290 times"><img src="http://www.myplayyard.com/content/icons/barbies-living-room-icon-1.png" width="60" height="60" alt="Play Barbies living room" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/fashion-games/play-barbies-living-room">Barbies living room</a></li><li><a href="http://www.myplayyard.com/kids-games/play-pup-world" title="Played 183 times"><img src="http://www.myplayyard.com/content/icons/pup-world-icon-1.jpg" width="60" height="60" alt="Play Pup-world" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/kids-games/play-pup-world">Pup-world</a></li><li><a href="http://www.myplayyard.com/fashion-games/play-super-lifeguard" title="Played 417 times"><img src="http://www.myplayyard.com/content/icons/super-lifeguard-icon-1.jpg" width="60" height="60" alt="Play Super lifeguard" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/fashion-games/play-super-lifeguard">Super lifeguard</a></li><li><a href="http://www.myplayyard.com/funny-games/play-computer-punches" title="Played 470 times"><img src="http://www.myplayyard.com/content/icons/computer-punches-icon-1.jpg" width="60" height="60" alt="Play Computer Punches" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/funny-games/play-computer-punches">Computer Punches</a></li><li><a href="http://www.myplayyard.com/fashion-games/play-barbie-spring" title="Played 190 times"><img src="http://www.myplayyard.com/content/icons/barbie-spring-icon-1.jpg" width="60" height="60" alt="Play Barbie-spring" style="border: 1px solid #000000;" align="left"></a><a href="http://www.myplayyard.com/fashion-games/play-barbie-spring">Barbie-spring</a></li>                            </ul>
-                            <br>
-                            <br>
-                            <img src="http://www.myplayyard.com/templates/blue/images/smallbox_bottom.gif" width="173" height="5" border="0" alt="" align="left">
-						</div>                        </div>
-			<div class="right_colum02">
-			    <script type="text/javascript"><!--
-google_ad_client = "pub-5021573984633461";
-/* 468x60, created 8/28/09 */
-google_ad_slot = "4860598627";
-google_ad_width = 120;
-google_ad_height = 600;
-//-->// --&gt; // --&gt;</script>
+            </li>
+            <li class="circle5">
+               <a style=" background-position: -301px -312px; " href="http://www.myplayyard.com/shooting-games">Shooting Games</a> 
+            </li>
+            <li class="circle6">
+				<a style=" background-position: -141px -392px; " href="http://www.myplayyard.com/toy-story-games">Toy Story Games</a> 
+            </li>
 
+            <li class="circle7">
+				<a style=" background-position: -225px -70px; " href="http://www.myplayyard.com/dragon-ball-z-games">Dragon Ball Z games</a>     
+            </li>
 
-<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript"></script>
-			</div>
+            <li class="circle8">
+                <a style=" background-position: -62px -473px; " href="http://www.myplayyard.com/action">Action</a>
+            </li>
+            <li class="circle9">
+                <a style=" background-position: -140px -473px; " href="http://www.myplayyard.com/card-games">Card Games</a>
+            </li>
+            <li class="circle10">
 
-				
-			</div>                    			</div>
-			<div class="body_bottom">
-			    <img src="http://www.myplayyard.com/templates/blue/images/bottom_curve.gif" width="972" height="4" border="0" alt="">
-			</div>
-			<br class="clear">
-	    </div>
-	</div>
-		    <div class="footermain"><div class="footer">                			<a href="http://www.myplayyard.com/">Home</a> | <a href="http://www.myplayyard.com/pages/contact-us">Contact Us</a> | <a href="http://www.myplayyard.com/pages/download-games">Download Games</a> | <a href="http://www.myplayyard.com/pages/download-our-games-addon">Download our Games Addon</a> | <a href="http://www.myplayyard.com/pages/friend-sites">Friend Sites</a> | <a href="http://www.myplayyard.com/pages/more-games">More Games</a> | <a href="http://www.myplayyard.com/pages/our-blog">Our Blog</a> | <a href="http://www.myplayyard.com/pages/privacy-policy">Privacy Policy</a>			<div id="WelcomeText">
-			<p>Welcome to MyPlayYard.com the source of best free online games. Here you will find plenty of free girl games to play, fashion games and many more… If you enjoy playing shooting games or even checkers,chess or card games, you have found the best place. If you prefer sudoku or puzzle games MyPlayYard.com should be your home page. everyone can find enjoyable games to play, Dora games, funny games, classic games and many other kids games.</p>
-<p>			Free games are being added daily here in our playard, Come visit us, all you have to do is click and play...</p>
-			</div>
-			<span>Copyright © 2009 <a href="http://www.myplayyard.com/">MyPlayYard.com</a>. All rights reserved. All games, animations, images, and sprites are copyright to their respective owners or creators.</span></div>
-	    </div>
+                <a style=" background-position: -381px -310px; " href="http://www.myplayyard.com/fashion-games">Fashion Games</a>
+            </li>
+            <li class="circle11">
+				<a style=" background-position: -143px 7px; " href="http://www.myplayyard.com/kim-possible-games">Kim possible games</a>               
+            </li>
+
+            <li class="circle12">
+                <a style=" background-position: -141px -73px; " href="http://www.myplayyard.com/simulator-games">Simulator games</a>
+
+            </li>
+            <li class="circle13">
+				<a style=" background-position: -300px -391px; " href="http://www.myplayyard.com/bakugan-games">Bakugan games</a>
+            </li>
+           
+            <li class="circle14">			
+				<a style=" background-position: -219px -394px; " href="http://www.myplayyard.com/animal-games">Animal games</a>
+			</li>
+
+            <li class="circle15">
+                <a style=" background-position: -301px -234px; " href="http://www.myplayyard.com/checkers">Checkers</a>
+            </li>
+            <li class="circle16">
+                <a style=" background-position: -142px -152px; " href="http://www.myplayyard.com/flight-games">Flight Games</a>
+            </li>
+            <li class="circle1">
+                <a style=" background-position: 19px -154px; " href="http://www.myplayyard.com/kissing-games">Kissing games</a>
+
+            </li>
+            <li class="circle2">
+                <a style=" background-position: -61px -153px; " href="http://www.myplayyard.com/smurfs">Smurfs</a>
+            </li>
+            <li class="circle3">
+                <a style=" background-position: -302px 7px; " href="http://www.myplayyard.com/cooking-games">Cooking games</a>
+            </li>        
+            <li class="circle4">
+                <a style=" background-position: -221px -470px; " href="http://www.myplayyard.com/ben10-games">Ben10 games</a>
+            </li>            
+            <li class="circle5">
+                <a style=" background-position: -379px -152px; " href="http://www.myplayyard.com/chess">Chess</a>
+            </li>
+            <li class="circle6">
+                <a style=" background-position: -60px -312px; " href="http://www.myplayyard.com/funny-games">Funny Games</a>
+
+            </li>
+            <li class="circle7">
+                <a style=" background-position: 22px 12px; " href="http://www.myplayyard.com/mind-games">Mind Games</a>
+            </li>
+            <li class="circle8">
+                <a style=" background-position: -61px -71px; " href="http://www.myplayyard.com/spongebob-games">SpongeBob Games</a>    
+            </li>
+            <li class="circle9">
+				<a style=" background-position: 20px -313px; " href="http://www.myplayyard.com/gormiti-games">Gormiti Games</a>    	             
+            </li>
+        
+            <li class="circle10">
+                <a style=" background-position: -382px -391px; " href="http://www.myplayyard.com/board-games">Board Games</a>
+            </li>
+            <li class="circle11">
+                <a style=" background-position: -303px -150px; " href="http://www.myplayyard.com/classic-games">Classic Games</a>
+
+            </li>
+            <li class="circle12">
+                <a style=" background-position: -223px -152px; " href="http://www.myplayyard.com/garfield-games">Garfield games</a>
+            </li>
+            <li class="circle13">
+                <a style=" background-position: -140px -313px; " href="http://www.myplayyard.com/phineas-and-ferb-games">Phineas and Ferb Games</a>
+            </li>
+            <li class="circle14">
+
+                <a style=" background-position: -61px 9px; " href="http://www.myplayyard.com/sudoku">Sudoku</a>
+            </li>
+            <li class="circle15">
+                 <a style=" background-position: 19px -72px; " href="http://www.myplayyard.com/memory-games">Memory Games</a>   
+            </li>
+          
+            <li class="circle16">
+                <a style=" background-position: 21px -474px; " href="http://www.myplayyard.com/boys-games">Boys games</a>
+
+            </li>
+            <li class="circle1">
+                <a style=" background-position: -300px -74px; " href="http://www.myplayyard.com/coloring-pages">coloring pages</a>
+            </li>
+            <li class="circle1">
+                <a style=" background-position: -221px 7px; " href="http://www.myplayyard.com/girls-games">Girls Games</a>
+            </li>
+            <li class="circle2">
+
+                <a style=" background-position: -141px -235px; " href="http://www.myplayyard.com/puzzle">Puzzle</a>
+            </li>
+            <li class="circle3">
+                <a style=" background-position: -381px -75px; " href="http://www.myplayyard.com/super-mario">Super Mario</a>
+            </li>
+            <li class="circle4">
+				  <a style=" background-position: 19px -232px; " href="http://www.myplayyard.com/incredibles-games">Incredibles Games</a>
+            </li>
+			<li class="circle5">
+				  <a style=" background-position: -380px 8px; " href="http://www.myplayyard.com/chatman-games">Chatman Games</a>
+            </li>
+			
+             <li class="circle9">
+                <a style=" background-position: -219px -234px; " href="http://www.myplayyard.com/christmas-games">Christmas Games</a>
+            </li>		
+          
+		  <li class="circle10">
+                <a style=" background-position: -298px -472px; " href="http://www.myplayyard.com/bubble-games">Bubble Games</a>
+            </li>		
+          		  <li class="circle4">
+                <a style=" background-position: -389px -476px " href="http://www.myplayyard.com/bike-games">Bike Games</a>
+            </li>		
+          		  <li class="circle12">
+                <a style=" background-position: 19px -544px" href="http://www.myplayyard.com/soccer-games">Soccer Games</a>
+            </li>		
+          		  <li class="circle5">
+                <a style=" background-position: -61px -544px" href="http://www.myplayyard.com/zombie-games">Zombie Games</a>
+            </li>	 
+			  <li class="circle11">
+                <a style=" background-position: -221px -544px" href="http://www.myplayyard.com/batman-games">Batman Games</a>
+            </li>	
+			  <li class="circle6">
+                <a style=" background-position: -140px -544px" href="http://www.myplayyard.com/bratz-games">Bratz Games</a>
+            </li>
+          
+        </ul>   
+
+		<a class="chatman" href=" http://www.iamchatman.co.uk" target="_blank"><img width="100" height="69" src="http://static.myplayyard.com/templates/spaceinvaders/images/chatman.gif" alt="Chatman"></a>
+
     </div>
-    <iframe id="hiddenFrame" src="/spacer.gif" width="0" height="0" frameborder="0" scrolling="0"></iframe>
-<script>
-    FindToolbar();
-</script>
+ 
+                <div class="thefooter">
+                    <div id="pageMenuBox">
+                        <a href="http://www.myplayyard.com/">Home</a> | <a href="http://www.myplayyard.com/pages/contact-us">Contact Us</a> | <a href="http://www.myplayyard.com/pages/download-our-toolbar">Download our Toolbar</a> | <a href="http://www.myplayyard.com/pages/free-games-for-your-website">Free Games for your Website</a> | <a href="http://www.myplayyard.com/pages/friend-sites">Friend Sites</a> | <a href="http://www.myplayyard.com/pages/more-games">More Games</a> | <a href="http://www.myplayyard.com/pages/new-games">New Games</a> | <a href="http://www.myplayyard.com/pages/our-blog">Our Blog</a> | <a href="http://www.myplayyard.com/pages/privacy-policy">Privacy Policy</a> <div id="sitedesc">
+<p>	
+<br>
+Welcome to MyPlayYard.com the source of best free online games.<br>Here you will find a huge collection of free <b><a href="http://www.myplayyard.com">girl games</a></b> to play, <b><a href="http://www.myplayyard.com/fashion-games">fashion games</a></b> for girls, <b><a href="http://www.myplayyard.com/kissing-games">kissing games</a></b>, dress up games and many more… <br>If you enjoy playing <b><a href="http://www.myplayyard.com/shooting-games">shooting games</a></b>,Sniper games, <b><a href="http://www.myplayyard.com/ben10-games">Ben 10 games</a></b> or even checkers,chess, <b><a href="http://www.myplayyard.com/bike-games">Bike games</a></b> or <b><a href="http://www.myplayyard.com/car-games">car games</a></b>, you have found the best place.<br>If you prefer sudoku or online puzzle, MyPlayYard.com should be your home page. Everyone can find hereenjoyable games to play, Dora games, <b><a href="http://www.myplayyard.com/funny-games">funny games</a></b>, classic games, <a href="http://www.myplayyard.com/soccer-games">Soccer games</a> and many other online games for kids.
+MyPlayYard.com contains the best games for kids and family, games are being added daily here in our playard, Come visit us, the games site or our <a href="http://www.myplayyard.com/our-blog/">blog</a>, all you have to do is click and play...
+</p>
+</div>
+	<div id="copyrightBox">
+        	<p><br>Copyright © 2009-2011 <a href="http://www.myplayyard.com">MyPlayYard.com</a>. All rights reserved. All games, animations, images, and sprites are copyright to their respective owners or creators.</p><br></div>
+
+                    </div>
+                </div>
+                
+                	<center>
+                  	<a href="http://www.myplayyard.com/trade-traffic">Trade Traffic</a> | <a href="http://www.myplayyard.com/trade-stats">Trade Stats</a><br>
+ 
+ 
+	</center>
+            </div>
+        </div>
+    </div>
+    <iframe id="hiddenFrame" src="/spacer.gif" width="0" height="0" frameborder="0" scrolling="0">
+    </iframe>
+
+	
+		
+    <script>if (typeof(FindToolbar)!="undefined")FindToolbar();</script>
+
+    
+	 
 	<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-10633237-1']);
+	  _gaq.push(['_setDomainName', 'www.myplayyard.com']);
+	  _gaq.push(['_trackPageview']);
+	  (function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	</script>
+	 
+    
 
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-
-    try {
-    var pageTracker = _gat._getTracker("UA-10633237-1");
-    pageTracker._trackPageview();
-    } catch(err) {}
-</script>
-
-</body></html>
+</div></body></html>
