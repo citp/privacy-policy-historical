@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jingdaily.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127070300id_/http%3A//www.jingdaily.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jingdaily.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414184249id_/http%3A//www.jingdaily.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Jing Daily : The Business of Luxury and Culture in China
 
