@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sustainlane.com privacy policy that was archived on 2010-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100826202438id_/http%3A//www.sustainlane.com/sp/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sustainlane.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414121544id_/http%3A//www.sustainlane.com/sp/help/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Sustainlane
 
