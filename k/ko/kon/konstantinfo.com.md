@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the konstantinfo.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124182601id_/http%3A//www.konstantinfo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konstantinfo.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414092936id_/http%3A//www.konstantinfo.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy, for securing your personal information | Konstant Infosolutions
 
-  * [Home](https://web.archive.org/web/20101124182601id_/http%3A//www.konstantinfo.com/index.php)
+  * [Home](https://web.archive.org/web/20110414092936id_/http%3A//www.konstantinfo.com/index.php)
   * /
-  * [Privacy Policy](https://web.archive.org/web/20101124182601id_/http%3A//www.konstantinfo.com/privacy-policy.php)
+  * [Privacy Policy](https://web.archive.org/web/20110414092936id_/http%3A//www.konstantinfo.com/privacy-policy.php)
 
 
 
