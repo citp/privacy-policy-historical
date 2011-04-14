@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kluwerarbitration.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609235735id_/http%3A//www.kluwerlaw.com/legalnotice/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kluwerarbitration.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414080715id_/http%3A//www.kluwerlaw.com/legalnotice/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Kluwer Law International
 
@@ -97,5 +97,4 @@
 > 
 > For questions or comments concerning our privacy policy, please send an email to our [Rights and Permissions Department](mailto:permissions@kluwerlaw.com?subject=Questions%20or%20comments%20concerning%20our%20privacy%20policy).
 
-> |   
----|---|---
+> | 
