@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the whatsabyte.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104165501id_/http%3A//www.whatsabyte.com/P1/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsabyte.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414214407id_/http%3A//www.whatsabyte.com/P1/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for the What's A Byte Website
 
-Effective 01/01/2008
-
-**Privacy Policy Table Of Contents:**
+## **Privacy Policy Table Of Contents:**
 
   * Our Commitment To Privacy 
   * Advertising Policy
