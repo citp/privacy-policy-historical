@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careertimes.com.hk privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214001651id_/http%3A//www.careertimes.com.hk/english/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careertimes.com.hk privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414080517id_/http%3A//www.careertimes.com.hk/english/terms/privacy.asp) for the most accurate reproduction.*
 
 # 
 
