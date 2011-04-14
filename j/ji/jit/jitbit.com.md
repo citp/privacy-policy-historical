@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jitbit.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229071044id_/http%3A//www.jitbit.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jitbit.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414143118id_/http%3A//www.jitbit.com/privacy.aspx) for the most accurate reproduction.*
 
 # Macro Recorder, Help-Desk, ASP.NET Forum, CRM - Jitbit Software.
 
@@ -17,27 +17,27 @@
 
  Hosted Solutions
 
-  * [Hosted HelpDesk](https://web.archive.org/hosted-helpdesk/ "Hosted \(SaaS\) version of our web-based HelpDesk software for an affordable monthly fee \(saas helpdesk, on-demand\). Let us install and maintain a hosted ticket system for you.")
-  * [Hosted CRM](https://web.archive.org/hosted-crm/ "Hosted \(SaaS\) version of our web-based CRM software for an affordable monthly fee. "On-demand" CRM - a managed CRM solution where installation, backups and upgrades are handled by us.")
+  * [Hosted HelpDesk](https://web.archive.org/hosted-helpdesk/ "Hosted Help Desk - the hosted \(SaaS\) version of our HelpDesk software for an affordable monthly fee \(saas helpdesk, on-demand\). Let us install and maintain a hosted ticket system for you.")
+  * [Hosted CRM](https://web.archive.org/hosted-crm/ "Hosted CRM \(SaaS CRM\) software for an affordable monthly fee. "On-demand" version of our CRM - a managed CRM solution when the installation, backups and upgrades are handled by us.")
 
 
 
  Server Products
 
-  * [AspNetForum](https://web.archive.org/asp-net-forum/ "ASP.NET forum software, .NET forum application. Easily integrated into existing .NET-websites \(both design and authentication\). Free edition available. Source codes license available.")
-  * [HelpDesk](https://web.archive.org/helpdesk-software/ "Web-based help desk software that is NOT priced "per technician". Tracks your customers")
+  * [Forum](https://web.archive.org/asp-net-forum/ "ASP.NET forum software, .NET forum application. Easily integrated into existing .NET-websites \(both design and authentication\). Free edition available. Source codes license available.")
+  * [HelpDesk](https://web.archive.org/helpdesk-software/ "Web-based help desk software that is NOT priced "per technician". Tracks your customers issues, fully integrates with your email. Support software for you service team.")
   * [CRM](https://web.archive.org/crm-software/ "A simple CRM - lightweight and cost-effective web-based .NET CRM software and contact management system. Based on ASP.NET. Same price for any number of users.")
 
 
 
  Desktop Products
 
-  * [Macro Recorder](https://web.archive.org/macro-recorder/ "A Macro Recorder: keyboard and mouse recorder, player, powerful macro script editor - the best automation software for Windows. Macro Recorder records your actions, edits the resulting scripts, converts scripts to EXE files etc.")
+  * [Macro Recorder](https://web.archive.org/macro-recorder/ "A Macro Recorder: keyboard and mouse recorder, player and powerful macro script editor - the best automation software for Windows. Macro Recorder records your actions, edits the resulting scripts, converts scripts to EXE files and more")
   * [Net Profile Switch](https://web.archive.org/net-profile-switch/ "Network switcher \(network settings switcher\) for mobile laptop users. Switches a computer between multiple network settings - switch IP address, proxy server, printer etc.")
   * [Macro Recorder LITE](https://web.archive.org/macro-recorder-lite/ "Lite version of our Macro Recorder - simple keyboard and mouse recorder for Windows. Low cost automation solution to record and play mouse clicks, mouse movements and keyboard strokes.")
   * [RSS Feed Creator](https://web.archive.org/rss-feed-creator/ "RSS Feed Creator is an RSS feed editor software tool - create, edit, publish feeds and podcasts. RSS Feed Creator / RSS Maker.")
   * [AutoText](https://web.archive.org/autotext/ "Auto typing software. Assign acronyms to frequently used text snippets and AutoText will insert a snippet each time you type the corresponding acronym.")
-  * [MailJet](https://web.archive.org/mailjet-mass-email-software.aspx "MailJet - "mass email software", used to send personalized emails to a list of recipients.")
+  * [Bat-To-Exe](https://web.archive.org/bat-to-exe/ "Bat-to-Exe converter. A compiler that converts batch files to standalone executables.")
 
 
 
@@ -45,11 +45,11 @@
 
 [](http://feeds.feedburner.com/JitbitSoftwareReleasesHistory) **Latest releases:**
 
- Dec 22 2010  
-[HelpDesk **5.3.2**](https://web.archive.org/helpdesk-software/versionhistory/)
+ Apr 14 2011  
+[Macro Recorder **5.1.1**](https://web.archive.org/macro-recorder/versionhistory/)
 
- Dec 21 2010  
-[HelpDesk **5.3.0**](https://web.archive.org/helpdesk-software/versionhistory/)
+ Apr 11 2011  
+[Forum **7.0.7**](https://web.archive.org/asp-net-forum/versionhistory/)
 
 * * *
 
@@ -57,9 +57,17 @@
 
 [](http://feeds.feedburner.com/JitbitSoftwareNews "RSS - Jitbit Software News - Macro Recorder, ASP.NET Forum, Help-Desk, Net Profile Switch") **Latest news:**
 
+ Feb 22 2011  
+**Macro Recorder 5.0**  
+We are really happy to announce that Jitbit [Macro Recorder 5.0](http://www.jitbit.com/macro-recorder/) is out of beta! The recorder is now .NET based, which means: a simpler installer, automatic version updates, faster development cycles (which mean - faster releases with new functionalities added) and many other great features!
+
+ Jan 23 2011  
+**Macro Recorder Beta**  
+We're launching a private beta test for the all new version of our Macro Recorder. All bea-testers are eligible for a free license. [More info](http://blog.jitbit.com/2011/01/free-macro-recorder-for-beta-testers.html)
+
  Dec 23 2010  
 **Facebook promotion**  
-We have launched a Facebook campaign - if you go to our [Facebook page](http://www.facebook.com/pages/Jitbit/121095774595000?v=app_4949752878) and "like" it - you instantly get a 15% discount coupon. [Click here](http://www.facebook.com/pages/Jitbit/121095774595000?v=app_4949752878).
+We have launched a Facebook campaign - go to our [Facebook page](http://www.facebook.com/jitbit) and "like" it - you instantly get a 10% discount coupon. [Click here](http://www.facebook.com/jitbit).
 
  Dec 17 2010  
 **Affiliate program**  
@@ -76,11 +84,3 @@ We are happy to announce that we now offer the "Direct Debit" payment method for
  Dec 6 2010  
 **Holiday Sale 2010**  
 Our [Holidays Sale](http://www.jitbit.com/christmas-sale.aspx) is here. Get a discount on all Jitbit products. We offer both coupons and quantity promotions this year, hurry up!
-
- Nov 18 2010  
-**Custom domains**  
-The long awaited feature is here: our hosted apps now support custom domains. Both the [Hosted Helpdesk](http://www.jitbit.com/hosted-helpdesk/articles/hosted-help-desk-custom-domain/) and [Hosted CRM](http://www.jitbit.com/hosted-crm/articles/hosted-crm-custom-domain/) support this new feature in full. Follow those links to know more.
-
- Sep 13 2010  
-**Hosted products URLs**  
-Our hosted (SaaS) products - [Hosted Helpdesk](http://www.jitbit.com/hosted-helpdesk/) and [Hosted CRM](http://www.jitbit.com/hosted-helpdesk/) \- now feature a simpler URL format. You don't have to specify the application at the end anymore, so instead of **"mycompany.jitbit.com/helpdesk"** use just a simple **"mycompany.jitbit.com"** and our server will redirect you to a proper location.
