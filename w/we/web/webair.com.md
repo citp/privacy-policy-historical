@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webair.com privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905055330id_/http%3A//www.webair.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webair.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414140257id_/http%3A//www.webair.com/privacy.html) for the most accurate reproduction.*
 
 # Custom Complex Web Hosting | Dedicated Servers | ICANN Accredited Registrar | Datacenter Colocation
 
@@ -109,4 +109,4 @@ The foregoing statements, terms and conditions contained in this Privacy Policy 
 
 This Privacy Policy was last modified on JULY 4, 2010 and is effective immediately.
 
-© Copyright 2010 Webair Internet Development, Inc. All Rights Reserved.
+© Copyright 2011 Webair Internet Development, Inc. All Rights Reserved.
