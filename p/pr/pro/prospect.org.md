@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prospect.org privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128065942id_/http%3A//www.prospect.org/cs/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospect.org privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414082415id_/http%3A//prospect.org/cs/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | The American Prospect
+# Privacy Policy
 
 _The American Prospect_ , Inc. (collectively referred to in this Privacy Statement as "we," "us," or " _The American Prospect_ , Inc.") recognize the importance of protecting the privacy of all information provided by users of our websites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters, donors, and all of our customers. We created this policy with a fundamental respect for our users' right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by _The American Prospect_ , Inc. 
 
