@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ingentaconnect.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212213055id_/http%3A//www.ingentaconnect.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingentaconnect.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414055257id_/http%3A//www.ingentaconnect.com/about/privacy) for the most accurate reproduction.*
 
 # ingentaconnect Data Privacy Statement
 
-[Home](https://web.archive.org/ "home") >> Data Privacy Statement 
+[Home](https://web.archive.org/;jsessionid=270doetnv006l.victoria "home") >> Data Privacy Statement 
 
 ## Privacy of Information
 
