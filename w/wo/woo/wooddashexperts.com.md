@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the wooddashexperts.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220070155id_/http%3A//www.carid.com/help-zone/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wooddashexperts.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414114241id_/http%3A//www.carid.com/help-zone/privacy) for the most accurate reproduction.*
 
 # CARiD.com - PRIVACY STATEMENT
 
-CARiD.com is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web Site www.carid.com. Because this Web Site want to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first email info@carid.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+CARiD.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html") including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [info@carid.com](mailto:info@carid.com?subject=CARiD%20Privacy%20Policy) or call 800-505-3274. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "http://watchdog.truste.com/pvr.php?page=complaint").
 
 Customer Information
 
@@ -54,11 +52,11 @@ Contact Information:
 
 CARiD.com  
 Customer Service Dept.  
-180 Raritan Center Parkway  
-Edison, NJ 08837  
+1 Corporate Drive  
+Cranbury, NJ 08512  
 
 
 Email: [info@carid.com](mailto:info@carid.com)  
 Telephone: 800-505-3274  
-Facsimile: 718-989-9202   
+Facsimile: 609-964-1983  
 
