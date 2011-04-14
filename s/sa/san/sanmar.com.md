@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanmar.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815095143id_/http%3A//www.sanmar.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanmar.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414175027id_/http%3A//www.sanmar.com/privacy.jsp) for the most accurate reproduction.*
 
 # SanMar : Privacy Policy
 
