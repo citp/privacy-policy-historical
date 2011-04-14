@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketing-interactive.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125012355id_/http%3A//marketing-interactive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketing-interactive.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414110326id_/http%3A//www.marketing-interactive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Market-interactive.com
 
@@ -41,4 +41,5 @@ Lighthouse Independent Media is committed to using all reasonable efforts to abi
 
 To ensure that we follow our stated Policy, we also conduct periodic and random reviews of our Web sites and other products and services. The results of our reviews are shared with senior management and our Board of Directors.
 
-| 
+|   
+---|---
