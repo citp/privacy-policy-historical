@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the innotas.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218224843id_/http%3A//www.innotas.com/innotas-itg-software/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innotas.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414122330id_/http%3A//www.innotas.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# Privacy Statement | Innotas
+# Innotas | Privacy Policy
 
-Share your information with confidence.
+## Share your information with confidence
 
 The Innotas Privacy Policy demonstrates our commitment to the privacy of our valued customers and site visitors. Privacy on our Web site is of great importance to us. This statement addresses our information-gathering and dissemination practices.
 
