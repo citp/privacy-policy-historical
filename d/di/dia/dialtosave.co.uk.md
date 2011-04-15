@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialtosave.co.uk privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219020809id_/http%3A//www.dialtosave.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialtosave.co.uk privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415161147id_/http%3A//www.dialtosave.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | DialToSave
 
