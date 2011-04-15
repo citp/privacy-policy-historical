@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaclub.com privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018064321id_/http%3A//www.indiaclub.com/shop/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaclub.com privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415072805id_/http%3A//www.indiaclub.com/shop/privacy.asp) for the most accurate reproduction.*
 
 # Indiaclub.com - Privacy
 
@@ -42,11 +42,9 @@
 
  Indiaclub.com shares Personal Customer Information that we collect as follows: 
 
-  * Subcontractors. We send Personal Customer Information to third-party subcontractors and agents that work on our behalf to provide certain services. These third parties do not have the right to use the Personal Customer Information beyond what is necessary to assist us. They are contractually obligated to maintain the confidentiality and security of the Personal Customer Information and are restricted from using such information in any way not expressly authorized by Indiaclub.com .
-  * Service Providers. We send Personal Customer Information to third-party providers of goods and services that you may purchase from time to time on our site (e.g., music). Like subcontractors, these third parties do not have the right to use the Personal Customer Information beyond what is necessary to assist us. They are contractually obligated to maintain the confidentiality and security of the Personal Customer Information and are restricted from using such information in any way not expressly authorized by Indiaclub.com .
+  * Subcontractors. We send Personal Customer Information to third-party subcontractors and agents that work on our behalf to provide certain services. These third parties do not have the right to use the Personal Customer Information beyond what is necessary to assist us. **They are contractually obligated to maintain the confidentiality and security of the Personal Customer Information and are restricted from using such information in any way not expressly authorized by Indiaclub.com.**
+  * Service Providers. We send Personal Customer Information to third-party providers of goods and services that you may purchase from time to time on our site (e.g., music). Like subcontractors, these third parties do not have the right to use the Personal Customer Information beyond what is necessary to assist us. **They are contractually obligated to maintain the confidentiality and security of the Personal Customer Information and are restricted from using such information in any way not expressly authorized by  Indiaclub.com**
   * Credit card companies. Credit card transactions are handled by a third-party financial institution and their vendors, which receive the credit card number and other personal identifying information only to verify the credit card numbers and process transactions.
-  * Trustworthy Third Parties. From time to time, on limited bases, we share with trustworthy third parties contact information of our registered customers so that such third parties can promote their products and services. You, as a registered customer, can opt out from our disclosure of your information for this purpose at any time by visiting [Unsubscribe](http://www.indiaclub.com/shop/unsubscribe.asp)   
-
   * Law Enforcement Investigations. Indiaclub.com may release Personal Customer Information when we believe, in our good judgment, that such release is reasonably necessary to comply with law, enforce or apply the terms of any of our policies or user agreements, or to protect the rights, property, or safety of Indiaclub.com, our users, or others.
 
 
@@ -58,7 +56,7 @@
   * **Communications related to transaction and account maintenance activities.** These communications include without limitation: order confirmations; order update notices; order problem notices; and notices regarding material changes to site policies and account management procedures.
   *  **Communications containing information about Indiaclub.com and its partners products and services.** We send promotional emails and other outbound communications to Indiaclub.com customers regarding products and services from Indiaclub.com, its subsidiaries and trustworthy third parties. Any Indiaclub.com customer who does not wish to receive such product and service communications can choose to remove his or her contact information from our contact list at any time by visiting [Unsubscribe](http://www.indiaclub.com/shop/unsubscribe.asp)   
 
-  * **Books of my Choice! Newsletter and Alerts.** You may sign up for free email Newsletters and Alerts filled with recommendations and reviews for books, music, and more.  Such registry is different from the Indiaclub.com Account and password which you set up to make purchases. You can sign up for our Newletter service as either a registered or nonregistered customer of Indiaclub.com . Furthermore, the contact information collected in the Newletter service is only used to forward the Newsletters and Alerts you select.    
+  * **Books of my Choice! Newsletter, Alerts, Recommendations.** You may sign up for free email Newsletters and Alerts filled with recommendations and reviews for books, music, and more.  Such registry is different from the Indiaclub.com Account and password which you set up to make purchases. You can sign up for our Newsletter service as either a registered or nonregistered customer of Indiaclub.com . Furthermore, the contact information collected in the Newsletter service is only used to forward the Newsletters and Alerts you select.    
 
 
 
@@ -78,7 +76,7 @@ Our products and services are marketed for purchase by adults or with the consen
 
 **7\. Questions or comments**
 
- If you have any questions regarding our privacy policy, please email us at [help@indiaclub.com](mailto:help@indiaclub.com). 
+ If you have any questions regarding our privacy policy, please [ contact us](http://www.indiaclub.com/shop/contactcenter.asp)
 
   
 
