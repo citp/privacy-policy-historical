@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the basekit.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921033950id_/http%3A//www.basekit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basekit.com privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415090828id_/http%3A//www.basekit.com/legals/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BaseKit
 
-This privacy policy sets out how BaseKit uses and protects any information that you give BaseKit when you use this or any related websites managed or maintained by and on behalf of BaseKit.
-
-BaseKit is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
-
-BaseKit may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from March 2010.
-
 ### What we collect
 
-As a minimum, we require the following information in order for you to register for a Free Trial account with BaseKit :
+As a minimum, we require the following information in order for you to register for a Free Trial account with BaseKit:
 
   * A valid E-mail Address
 
@@ -19,7 +13,7 @@ As a minimum, we require the following information in order for you to register 
 
 
 
-Should you wish to upgrade your Free Trial account to a paid account, we will require additional information including :
+Should you wish to upgrade your Free Trial account to a paid account, we will require additional information including:
 
   * Your name (forename / surname)
 
@@ -36,7 +30,7 @@ Should you contact us by phone, Skype, email or post or by any other method - we
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you.
 
-However, we may also use your information :
+However, we may also use your information:
 
   * For internal record keeping.
 
@@ -54,6 +48,8 @@ We will not provide your details to any third parties for marketing purposes, wi
 ### Storing Your Personal Data
 
 We may transfer data that we collect from you to locations outside of the European Economic Area for processing and storing. Also, it may be processed by staff operating outside the European Economic Area who work for us. For example, such staff maybe engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this Privacy Policy.
+
+Please note that we have the ability to retain any data that you provide on this website using VeCapture by Ve Interactive, even if you do not complete your registration/transaction by clicking submit/next. Such contact details and data may be used to contact you to enquire why you did not complete your registration/transaction and improve our online operations.
 
 Data that is provided to us is stored on our secure servers.
 
