@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neweggbusiness.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203020817id_/http%3A//www.neweggbusiness.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neweggbusiness.com privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415090007id_/http%3A//www.neweggbusiness.com/HelpInfo/PrivacySecurity.aspx) for the most accurate reproduction.*
 
 # NeweggBusiness - Computer Parts, PC Components, Laptop Computers, Digital Cameras and more!
 
