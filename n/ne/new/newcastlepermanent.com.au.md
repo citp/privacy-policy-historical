@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218123920id_/http%3A//www.newcastlepermanent.com.au/Footer/Privacypolicy/tabid/208/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastlepermanent.com.au privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416003247id_/http%3A//www.newcastlepermanent.com.au/Footer/Privacypolicy/tabid/208/Default.aspx) for the most accurate reproduction.*
 
 # Newcastle Permanent - Privacy Policy
 
