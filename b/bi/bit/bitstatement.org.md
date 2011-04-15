@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitstatement.org privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210124917id_/http%3A//bitstatement.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitstatement.org privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415093807id_/http%3A//bitstatement.net/privacy.html) for the most accurate reproduction.*
 
 # BIT - Your Single Source Provider For Document Delivery
 
