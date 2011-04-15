@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609063209id_/http%3A//www.pizzahut.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415095153id_/http%3A//www.pizzahut.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Ordering Pizza - Privacy Policy - Pizza Hut
+# Privacy Policy - Pizza Hut Australia
 
 **PIZZA HUT AUSTRALIA**  
 A division of Yum! Restaurants Australia Pty Limited A.B.N. 16 000 674 993
@@ -9,7 +9,7 @@ PIZZA HUT is committed to the protection of your personal information. PIZZA HUT
 
 This Policy covers all personal information that we hold and includes information we have collected through our outlets, over the phone through our customer service centres and over the internet through our web sites. This Policy also covers personal information that we have sourced from third parties.
 
-**Collection**
+ **Collection**
 
 PIZZA HUT will only collect personal information that is necessary for one or more of its functions or activities.
 
@@ -21,7 +21,7 @@ PIZZA HUT will not collect sensitive information about you unless you have conse
 
 Where you choose not to provide requested information, PIZZA HUT will advise you of what impact such non-disclosure may have.
 
-**Collection using this web site**
+ **Collection using this web site**
 
 When you use this web site PIZZA HUT collects personal information, which you provide, to us and information about how you use our web site, for example by registering, making a purchase or posting original content to our site. This information includes your name, home or work address, phone number, e-mail contact and information about the products and services, which interest you. If you contact us, we may also keep a record of that contact. 
 
@@ -57,7 +57,7 @@ Personal Information may be disclosed under other circumstances where permitted 
 
 In the course of our business activities, PIZZA HUT may need to disclose some of your personal information to relevant business partners.
 
-**Opt-in**
+ **Opt-in**
 
 We provide you with choice as to whether we send you information about special products and services in the future, and whether information is sent by our franchisees, agents or third party service providers. You may also change this choice in the future by contacting us with this request, although it may also be necessary to contact any other organisations which have obtained your information to indicate your choice at this stage. 
 
@@ -71,7 +71,7 @@ We may also use other technologies such as web bugs to help us collect informati
 
 PIZZA HUT will take reasonable steps to make sure that the personal information it collects, uses or discloses is accurate, complete and up‑to‑date.
 
-**Data security**
+ **Data security**
 
 PIZZA HUT will take reasonable steps to:
 
@@ -79,15 +79,15 @@ PIZZA HUT will take reasonable steps to:
 
 (b) destroy or permanently de‑identify personal information if it is no longer needed for any purpose.
 
-**Access and correction**
+ **Access and correction**
 
 You are entitled, at any time, to request access to your personal information held by PIZZA HUT and to ask us to change any details that may be incorrect or out of date. PIZZA HUT may charge you the reasonable costs of providing you with copies of the information that you have requested. Your request to provide access to this information will be dealt with in a reasonable time.
 
-**Privacy Policy**
+ **Privacy Policy**
 
 This Policy will be reviewed from time to time and any amendments will be incorporated in the updated Policy. The updated Policy will be posted on this web site. Your continued use of this web site indicates your acceptance of the Policy in place at this time.
 
-**Privacy Queries**
+ **Privacy Queries**
 
 All queries regarding our Privacy Policy should be directed to 
 
