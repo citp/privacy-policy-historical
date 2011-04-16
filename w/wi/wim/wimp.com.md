@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wimp.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003558id_/http%3A//www.wimp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimp.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416130820id_/http%3A//www.wimp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Overview
 
 Your privacy is important to us. Wimp.com's service is free for all to use, and prior registration is not needed.
 
-Wimp.com will explicitly ask when it needs information that personally identifies you. All personal identifiable information Wimp.com collects are only gathered with your voluntary act. Wimp.com keeps all information private and does not, and will not, share it with any third parties except under these circumstances:
+Wimp.com will explicitly ask when it needs information that personally identifies you. All personally identifiable information Wimp.com collects is only gathered with your voluntary act. Wimp.com keeps all information private and does not, and will not, share it with any third parties except under these circumstances:
 
 \- When such action is necessary to conform to legal requirements or comply with legal process.
 
