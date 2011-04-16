@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantom-xp.org privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401060150id_/http%3A//www.fantom-xp.org/privacy_policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantom-xp.org privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416131110id_/http%3A//www.fantom-xp.org/privacy_policies.php) for the most accurate reproduction.*
 
 # Privacy policies
 
