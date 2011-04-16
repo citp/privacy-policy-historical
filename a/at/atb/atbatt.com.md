@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atbatt.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229004926id_/http%3A//www.atbatt.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atbatt.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416104838id_/http%3A//www.atbatt.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # 
 
