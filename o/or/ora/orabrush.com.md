@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orabrush.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107072157id_/http%3A//www.orabrush.com/store/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orabrush.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416063623id_/http%3A//www.orabrush.com/store/en/privacy.php) for the most accurate reproduction.*
 
-# Orabrush Privacy Policy
+# Orabrush Orabrush Privacy Policy - Security Commitment | Orabrush
 
 ## INFORMATION USAGE: 
 
