@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kampyle.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612003237id_/http%3A//www.kampyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kampyle.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416221614id_/http%3A//www.kampyle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kampyle
 
