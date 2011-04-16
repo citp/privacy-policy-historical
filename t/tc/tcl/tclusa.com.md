@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tclusa.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204040459id_/http%3A//tclusa.com/en-US/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tclusa.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416025640id_/http%3A//tclusa.com/en-US/Privacy.html) for the most accurate reproduction.*
 
 # TCL USA - privacy
 
