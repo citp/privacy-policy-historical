@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwarscelebration.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223221505id_/http%3A//www.starwarscelebration.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwarscelebration.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416120149id_/http%3A//www.starwarscelebration.com/en/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Star Wars Celebration
 
@@ -24,7 +24,7 @@ Professional Information includes, but is not limited to, name, address, company
 
 ## Opting In
 
-Star Wars Celebration shall comply with all Applicable Laws, including without limitation, applicable rules, directives and regulations relating to the collection, sharing and protection of consumer data and information and such mailing list shall only include registered end consumers which pursuant such Applicable Laws may receive marketing and other promotional materials from third party partners or licensors of Star Wars Celebration and pursuant to which Star Wars Celebration has the permission in accordance with such Applicable Laws to share their information with such third party partners and licensors. Opt-in to receive communication from Star Wars Celebration [here](https://web.archive.org/web/20101223221505id_/en/Outer-Rim/Celebration-Newsletter/).
+Star Wars Celebration shall comply with all Applicable Laws, including without limitation, applicable rules, directives and regulations relating to the collection, sharing and protection of consumer data and information and such mailing list shall only include registered end consumers which pursuant such Applicable Laws may receive marketing and other promotional materials from third party partners or licensors of Star Wars Celebration and pursuant to which Star Wars Celebration has the permission in accordance with such Applicable Laws to share their information with such third party partners and licensors. Opt-in to receive communication from Star Wars Celebration [here](https://web.archive.org/web/20110416120149id_/en/Outer-Rim/Celebration-Newsletter/).
 
 ## Opting Out
 
