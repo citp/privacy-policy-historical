@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getthebigpicture.net privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617053212id_/http%3A//www.getthebigpicture.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getthebigpicture.net privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416221037id_/http%3A//www.getthebigpicture.net/privacy) for the most accurate reproduction.*
 
-# Privacy -
+# Privacy - Movie Reviews | Film News | Celebrity Interviews
 
 PRIVACY POLICY FOR THE BIG PICTURE  GetTheBigPicture
 
@@ -23,4 +23,4 @@ With respect to ad servers: The Big Picture maintains relationships with other c
   
 Should this privacy policy change, those alterations will be reflected on this page on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
 
-For questions about this policy, please contact Colin Boyd at [ colin@getthebigpicture.net](mailto:colin@getthebigpicture.net).
+For questions about this policy, please contact Fave Company, Inc. at [ admin@favecompany.com](mailto:admin@favecompany.com).
