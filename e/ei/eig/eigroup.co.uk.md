@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eigroup.co.uk privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214225901id_/http%3A//eigroup.co.uk/company/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eigroup.co.uk privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416230643id_/http%3A//eigroup.co.uk/company/privacypolicy.html) for the most accurate reproduction.*
 
 # Essential Information Group - Privacy Policy
 
