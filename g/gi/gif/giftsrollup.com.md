@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftsrollup.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212193955id_/http%3A//giftsrollup.com/privacy.php%3Fid%3Dadmin) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftsrollup.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416162256id_/http%3A//giftsrollup.com/privacy.php%3Fid%3Dadmin) for the most accurate reproduction.*
 
 # Gifts Roll Up
 
