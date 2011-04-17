@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thegatesnotes.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530212858id_/http%3A//www.thegatesnotes.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegatesnotes.com privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417123546id_/http%3A//www.thegatesnotes.com/GlobalPages/Privacy-Policy) for the most accurate reproduction.*
 
-# Bill Gates - Privacy Policy - The Gates Notes
+# Bill Gates – Privacy Policy – The Gates Notes
 
-This Privacy Policy is part of and incorporated into the [Terms of Use](https://web.archive.org/Terms-Of-Use/default.aspx) governing use of The Gates Notes website ("www.thegatesnotes.com"). Parts of those Terms of Use affect this Privacy Policy, so unless you have already done so, please review them prior to using the Website. Capitalized terms used but not defined in this Privacy Statement have the definitions provided in the Terms of Use. 
+This Privacy Policy is part of and incorporated into the [Terms of Use](http://www.thegatesnotes.com/Terms-Of-Use/default.aspx) governing use of The Gates Notes website ("www.thegatesnotes.com"). Parts of those Terms of Use affect this Privacy Policy, so unless you have already done so, please review them prior to using the Website. Capitalized terms used but not defined in this Privacy Statement have the definitions provided in the Terms of Use. 
 
 This Privacy Policy describes the information collected from visitors to the Website. We may revise this Privacy Policy from time to time by updating this posting, with the new terms taking effect on the date of posting. You can determine if any changes were made to this Privacy Policy by noting the date that the Privacy Policy was last updated.
 
