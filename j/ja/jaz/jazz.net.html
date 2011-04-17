@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jazz.net privacy policy that was archived on 2010-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215001344id_/http%3A//jazz.net/pub/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jazz.net privacy policy that was archived on 2011-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110417020730id_/http%3A//jazz.net/pub/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class="dj_webkit dj_chrome dj_contentbox"><head>
 	
@@ -14,6 +14,20 @@
 <link rel="stylesheet" type="text/css" href="/_css/feeds.css">
 <link rel="stylesheet" type="text/css" href="/_scripts/templates/NavBar.css">
 <link rel="stylesheet" type="text/css" href="/_css/print.css" media="print">
+
+<!-- Google translate widget http://translate.google.com/translate_tools -->
+<script>
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({
+    pageLanguage: 'en',
+    includedLanguages: 'zh-CN,zh-TW,ja',
+    //includedLanguages: 'ar,ca,zh-CN,zh-TW,da,nl,fi,fr,de,el,iw,it,ja,ko,no,pt,es,sv,th,tr',
+    gaTrack: true,
+    gaId: 'UA-10864409-1'
+  });
+}
+</script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
 <script type="text/javascript">
 		
 		// perform http/https redirect if needed
@@ -108,26 +122,26 @@
 	<div class="login-float-content">
 		<div class="dupe-login-link" style="text-align: right;"><a href="#" onclick="cancelLogin(event)">Log In</a></div>
 		
-<form id="loginForm-1786" class="LoginForm" name="LoginForm" action="https://jazz.net/auth/login" method="post">
+<form id="loginForm-8898" class="LoginForm" name="LoginForm" action="https://jazz.net/auth/login" method="post">
 	<table>
-		<tbody><tr id="errorRow-1786" class="error-row" style="display: none"><td colspan="2" class="error-cell" id="errorCell-1786"></td></tr>
+		<tbody><tr id="errorRow-8898" class="error-row" style="display: none"><td colspan="2" class="error-cell" id="errorCell-8898"></td></tr>
 		<tr><td class="label-col">User ID:</td><td class="field-col"><input class="text-field" type="text" name="j_username"></td></tr>
 		<tr><td class="label-col">Password:</td><td class="field-col"><input class="text-field" type="password" name="j_password"></td></tr>
-		<!--tr><td></td><td><input class="checkbox" type="checkbox" name="rememberMe" id="checkbox-1786" /> <label class="checkbox-label" for="checkbox-1786">Keep me logged in</label></td></tr-->
+		<!--tr><td></td><td><input class="checkbox" type="checkbox" name="rememberMe" id="checkbox-8898" /> <label class="checkbox-label" for="checkbox-8898">Keep me logged in</label></td></tr-->
 		<tr><td></td><td><input type="submit" value="Log In"><input class="login-cancel-button" type="button" value="Cancel" onclick="cancelLogin(event)"></td></tr>
 	</tbody></table>
-	<p><input type="hidden" name="redirectPage" id="redirectPage-1786" value="https://web.archive.org/web/20101215001344id_/http%3A//jazz.net/pub/privacy.jsp"><input type="hidden" name="field" id="field-1786" value="header"></p>
+	<p><input type="hidden" name="redirectPage" id="redirectPage-8898" value="https://web.archive.org/web/20110417020730id_/http%3A//jazz.net/pub/privacy.jsp"><input type="hidden" name="field" id="field-8898" value="header"></p>
 </form>
 <script type="text/javascript">
 (function() {
 	var loginFloat = dojo.byId("login-float");
-	var isFloat = dojo.isDescendant(dojo.byId("loginForm-1786"), loginFloat);
+	var isFloat = dojo.isDescendant(dojo.byId("loginForm-8898"), loginFloat);
 	dojo.addOnLoad(function() {
 		if (isFloat) {
-			dojo.byId("field-1786").value = "header";
+			dojo.byId("field-8898").value = "header";
 		}
 		var s = location.search.substring(1);
-		var node = dojo.byId("redirectPage-1786");
+		var node = dojo.byId("redirectPage-8898");
 		if (!node.value || node.value == "") {
 			if (s.indexOf("errno") >= 0) {
 				s = dojo.queryToObject(location.search.substring(1));
@@ -151,7 +165,7 @@
 		var d = (dojo.isIE && dojo.isIE <=7) ? "inline" : "table-row";
 		var wasFloat = (errno %2 == 1);
 		if (isFloat && wasFloat) showLogin();
-		if (isFloat == wasFloat) document.getElementById("errorRow-1786").style.display = d;
+		if (isFloat == wasFloat) document.getElementById("errorRow-8898").style.display = d;
 		var message = "";
 		if (errno == 1 || errno == 2) {
 			message = "Invalid user ID or password.";
@@ -160,7 +174,7 @@
 		} else if (errno == 5 || errno == 6) {
 			message = "Unable to log in due to a server error.";
 		}
-		if (message) document.getElementById("errorCell-1786").innerHTML = message;
+		if (message) document.getElementById("errorCell-8898").innerHTML = message;
 	}
 })();
 </script>
@@ -389,15 +403,15 @@ Please use the Back button on your browser or close this window to return to the
 									 
 										<div><a href="/projects/rational-requirements-composer">Rational Requirements Composer</a></div>
 									 
-										<div><a href="/projects/rational-project-conductor">Rational Project Conductor</a></div>
-									 
 										<div><a href="/projects/rational-insight">Rational Insight</a></div>
 									 
 										<div><a href="/projects/rational-build-forge">Rational Build Forge</a></div>
 									 
 										<div><a href="/projects/rational-asset-manager">Rational Asset Manager</a></div>
 									 
-										<div><a href="/projects/rational-workbench-for-clm">Rational Workbench for Collaborative Lifecycle Management</a></div>
+										<div><a href="/projects/clm">Collaborative Lifecycle Management</a></div>
+									 
+										<div><a href="/projects/design-management">Design Management</a></div>
 									 
 										<div><a href="/projects/jazz-foundation">Jazz Foundation</a></div>
 									
@@ -418,13 +432,13 @@ Please use the Back button on your browser or close this window to return to the
 									 
 										<div><a href="/downloads/rational-requirements-composer">Rational Requirements Composer</a></div>
 									 
-										<div><a href="/downloads/rational-project-conductor">Rational Project Conductor</a></div>
-									 
 										<div><a href="/downloads/rational-insight">Rational Insight</a></div>
 									 
 										<div><a href="/downloads/rational-build-forge">Rational Build Forge</a></div>
 									 
 										<div><a href="/downloads/rational-asset-manager">Rational Asset Manager</a></div>
+									 
+										<div><a href="/downloads/design-management">Design Management</a></div>
 									 
 										<div><a href="/downloads/jazz-foundation">Jazz Foundation</a></div>
 									
@@ -437,7 +451,7 @@ Please use the Back button on your browser or close this window to return to the
 							 
 										<div><a href="/forums/viewforum.php?f=6">Announcements</a></div>
 									 
-										<div><a href="/forums/index.php?c=12">Rational Workbench for Collaborative Lifecycle Management</a></div>
+										<div><a href="/forums/index.php?c=12">Collaborative Lifecycle Management</a></div>
 									 
 										<div><a href="/forums/index.php?c=13">Systems engineering and embedded software development</a></div>
 									 
@@ -447,13 +461,13 @@ Please use the Back button on your browser or close this window to return to the
 									 
 										<div><a href="/forums/index.php?c=7">Rational Requirements Composer</a></div>
 									 
-										<div><a href="/forums/index.php?c=9">Rational Project Conductor</a></div>
-									 
 										<div><a href="/forums/index.php?c=8">Rational Insight</a></div>
 									 
 										<div><a href="/forums/index.php?c=10">Rational Build Forge</a></div>
 									 
 										<div><a href="/forums/index.php?c=11">Rational Asset Manager</a></div>
+									 
+										<div><a href="/forums/index.php?c=14">Design Management</a></div>
 									 
 										<div><a href="/forums/index.php?c=4">Jazz Foundation</a></div>
 									
@@ -483,7 +497,9 @@ Please use the Back button on your browser or close this window to return to the
 							
 								<strong><a href="/development/">Development</a></strong>
 							 
-										<div><a href="/development/">Submit a Bug</a></div>
+										<div><a href="/development/sandbox/">Sandbox</a></div>
+									 
+										<div><a href="/development/bugs/">Submit a Bug</a></div>
 									 
 										<div><a href="/wiki/">Wiki</a></div>
 									 
@@ -514,7 +530,7 @@ Please use the Back button on your browser or close this window to return to the
 									 
 										<div><a href="/community/opensource">Open Source Users</a></div>
 									 
-										<div><a href="/community/eguide/">Rational Support eGuide</a></div>
+										<div><a href="/community/support/">Rational Support</a></div>
 									
 							</td>
 						
@@ -536,7 +552,7 @@ Please use the Back button on your browser or close this window to return to the
 <script type="text/javascript">
 	dojo.require("jazz.NavBar");
 	dojo.require("dojox.analytics.Urchin");
-	new jazz.NavBar({options:"<?xml version=\"1.0\" encoding=\"UTF-8\"?><options><section><sectionLabel>About Jazz<\/sectionLabel><sectionLink>\/about\/<\/sectionLink><pages><page><label>Vision<\/label><href>\/about\/about-jazz-vision.jsp<\/href><\/page><page><label>Architecture<\/label><href>\/about\/about-jazz-architecture.jsp<\/href><\/page><page><label>Community<\/label><href>\/community\/<\/href><\/page><page><label>Products<\/label><href>\/about\/about-jazz-products.jsp<\/href><\/page><\/pages><\/section><section><sectionLabel>Roles<\/sectionLabel><sectionLink>\/roles\/<\/sectionLink><pages><page><label>Developer<\/label><href>\/roles\/#Developer<\/href><\/page><page><label>Quality Professional<\/label><href>\/roles\/#Test<\/href><\/page><page><label>Analyst<\/label><href>\/roles\/#Analyst<\/href><\/page><page><label>More Roles<\/label><href>\/roles\/#More<\/href><\/page><\/pages><\/section><section type=\"projects\"><sectionLabel>Projects<\/sectionLabel><sectionLink>\/projects\/<\/sectionLink><pages><page><label>Rational Team Concert<\/label><href>\/projects\/rational-team-concert<\/href><\/page><page><label>Rational Quality Manager and Rational Test Lab Manager<\/label><href>\/projects\/rational-quality-manager<\/href><\/page><page><label>Rational Requirements Composer<\/label><href>\/projects\/rational-requirements-composer<\/href><\/page><page><label>Rational Project Conductor<\/label><href>\/projects\/rational-project-conductor<\/href><\/page><page><label>Rational Insight<\/label><href>\/projects\/rational-insight<\/href><\/page><page><label>Rational Build Forge<\/label><href>\/projects\/rational-build-forge<\/href><\/page><page><label>Rational Asset Manager<\/label><href>\/projects\/rational-asset-manager<\/href><\/page><page><label>__separator__<\/label><\/page><page><label>Rational Workbench for Collaborative Lifecycle Management<\/label><href>\/projects\/rational-workbench-for-clm<\/href><\/page><page><label>Jazz Foundation<\/label><href>\/projects\/jazz-foundation<\/href><\/page><\/pages><\/section><section type=\"downloads\"><sectionLabel>Downloads<\/sectionLabel><sectionLink>\/downloads\/<\/sectionLink><pages><page><label>Rational Team Concert<\/label><href>\/downloads\/rational-team-concert<\/href><\/page><page><label>Rational Team Concert for System z<\/label><href>\/downloads\/rational-team-concert-z<\/href><\/page><page><label>Rational Team Concert for Power Systems Software<\/label><href>\/downloads\/rational-team-concert-power<\/href><\/page><page><label>Rational Quality Manager and Rational Test Lab Manager<\/label><href>\/downloads\/rational-quality-manager<\/href><\/page><page><label>Rational Requirements Composer<\/label><href>\/downloads\/rational-requirements-composer<\/href><\/page><page><label>Rational Project Conductor<\/label><href>\/downloads\/rational-project-conductor<\/href><\/page><page><label>Rational Insight<\/label><href>\/downloads\/rational-insight<\/href><\/page><page><label>Rational Build Forge<\/label><href>\/downloads\/rational-build-forge<\/href><\/page><page><label>Rational Asset Manager<\/label><href>\/downloads\/rational-asset-manager<\/href><\/page><page><label>__separator__<\/label><\/page><page><label>Jazz Foundation<\/label><href>\/downloads\/jazz-foundation<\/href><\/page><\/pages><\/section><section><sectionLabel>Forums<\/sectionLabel><sectionLink>\/forums\/<\/sectionLink><pages><page><label>Announcements<\/label><href>\/forums\/viewforum.php?f=6<\/href><\/page><page><label>Rational Workbench for Collaborative Lifecycle Management<\/label><href>\/forums\/index.php?c=12<\/href><\/page><page><label>Systems engineering and embedded software development<\/label><href>\/forums\/index.php?c=13<\/href><\/page><page><label>Rational Team Concert<\/label><href>\/forums\/index.php?c=2<\/href><\/page><page><label>Rational Quality Manager and Rational Test Lab Manager<\/label><href>\/forums\/index.php?c=6<\/href><\/page><page><label>Rational Requirements Composer<\/label><href>\/forums\/index.php?c=7<\/href><\/page><page><label>Rational Project Conductor<\/label><href>\/forums\/index.php?c=9<\/href><\/page><page><label>Rational Insight<\/label><href>\/forums\/index.php?c=8<\/href><\/page><page><label>Rational Build Forge<\/label><href>\/forums\/index.php?c=10<\/href><\/page><page><label>Rational Asset Manager<\/label><href>\/forums\/index.php?c=11<\/href><\/page><page><label>Jazz Foundation<\/label><href>\/forums\/index.php?c=4<\/href><\/page><\/pages><\/section><section><sectionLabel>Library<\/sectionLabel><sectionLink>\/library\/<\/sectionLink><pages><page><label>All Media<\/label><href>\/library\/<\/href><\/page><page><label>Articles<\/label><href>\/library\/#type=article<\/href><\/page><page><label>Documentation<\/label><href>\/library\/#type=documentation<\/href><\/page><page><label>Podcasts<\/label><href>\/library\/#type=podcast<\/href><\/page><page><label>Presentations<\/label><href>\/library\/#type=presentation<\/href><\/page><page><label>Videos<\/label><href>\/library\/#type=video<\/href><\/page><\/pages><\/section><section><sectionLabel>Development<\/sectionLabel><sectionLink>\/development\/<\/sectionLink><pages><page><label>Submit a Bug<\/label><href>\/development\/<\/href><\/page><page><label>Wiki<\/label><href>\/wiki\/<\/href><\/page><page><label>Mailing Lists<\/label><href>\/development\/mailinglists\/<\/href><\/page><\/pages><\/section><section><sectionLabel>Community<\/sectionLabel><sectionLink>\/community\/<\/sectionLink><pages><page><label>Jazz Team Blog<\/label><href>\/blog\/<\/href><\/page><page><label>Tweets about Jazz<\/label><href>\/community\/twitter\/<\/href><\/page><page><label>Events<\/label><href>\/community\/events\/events.jsp<\/href><\/page><page><label>In the News<\/label><href>\/community\/news\/news.jsp<\/href><\/page><page><label>Testimonials about Jazz<\/label><href>\/community\/feedback\/<\/href><\/page><page><label>Surveys<\/label><href>\/evaluate\/mcif\/selfcheck\/web#action=jazz.viewPage&amp;id=com.ibm.mcif.selfcheck.external<\/href><\/page><page><label>Business Partners<\/label><href>\/community\/ensemble\/index.jsp<\/href><\/page><page><label>Academic Users<\/label><href>\/community\/academic\/<\/href><\/page><page><label>Open Source Users<\/label><href>\/community\/opensource<\/href><\/page><page><label>Rational Support eGuide<\/label><href>\/community\/eguide\/<\/href><\/page><\/pages><\/section><\/options>"},dojo.byId("navbar-left"));
+	new jazz.NavBar({options:"<?xml version=\"1.0\" encoding=\"UTF-8\"?><options><section><sectionLabel>About Jazz<\/sectionLabel><sectionLink>\/about\/<\/sectionLink><pages><page><label>Vision<\/label><href>\/about\/about-jazz-vision.jsp<\/href><\/page><page><label>Architecture<\/label><href>\/about\/about-jazz-architecture.jsp<\/href><\/page><page><label>Community<\/label><href>\/community\/<\/href><\/page><page><label>Products<\/label><href>\/about\/about-jazz-products.jsp<\/href><\/page><\/pages><\/section><section><sectionLabel>Roles<\/sectionLabel><sectionLink>\/roles\/<\/sectionLink><pages><page><label>Developer<\/label><href>\/roles\/#Developer<\/href><\/page><page><label>Quality Professional<\/label><href>\/roles\/#Test<\/href><\/page><page><label>Analyst<\/label><href>\/roles\/#Analyst<\/href><\/page><page><label>More Roles<\/label><href>\/roles\/#More<\/href><\/page><\/pages><\/section><section type=\"projects\"><sectionLabel>Projects<\/sectionLabel><sectionLink>\/projects\/<\/sectionLink><pages><page><label>Rational Team Concert<\/label><href>\/projects\/rational-team-concert<\/href><\/page><page><label>Rational Quality Manager and Rational Test Lab Manager<\/label><href>\/projects\/rational-quality-manager<\/href><\/page><page><label>Rational Requirements Composer<\/label><href>\/projects\/rational-requirements-composer<\/href><\/page><page><label>Rational Insight<\/label><href>\/projects\/rational-insight<\/href><\/page><page><label>Rational Build Forge<\/label><href>\/projects\/rational-build-forge<\/href><\/page><page><label>Rational Asset Manager<\/label><href>\/projects\/rational-asset-manager<\/href><\/page><page><label>__separator__<\/label><\/page><page><label>Collaborative Lifecycle Management<\/label><href>\/projects\/clm<\/href><\/page><page><label>Design Management<\/label><href>\/projects\/design-management<\/href><\/page><page><label>Jazz Foundation<\/label><href>\/projects\/jazz-foundation<\/href><\/page><\/pages><\/section><section type=\"downloads\"><sectionLabel>Downloads<\/sectionLabel><sectionLink>\/downloads\/<\/sectionLink><pages><page><label>Rational Team Concert<\/label><href>\/downloads\/rational-team-concert<\/href><\/page><page><label>Rational Team Concert for System z<\/label><href>\/downloads\/rational-team-concert-z<\/href><\/page><page><label>Rational Team Concert for Power Systems Software<\/label><href>\/downloads\/rational-team-concert-power<\/href><\/page><page><label>Rational Quality Manager and Rational Test Lab Manager<\/label><href>\/downloads\/rational-quality-manager<\/href><\/page><page><label>Rational Requirements Composer<\/label><href>\/downloads\/rational-requirements-composer<\/href><\/page><page><label>Rational Insight<\/label><href>\/downloads\/rational-insight<\/href><\/page><page><label>Rational Build Forge<\/label><href>\/downloads\/rational-build-forge<\/href><\/page><page><label>Rational Asset Manager<\/label><href>\/downloads\/rational-asset-manager<\/href><\/page><page><label>__separator__<\/label><\/page><page><label>Design Management<\/label><href>\/downloads\/design-management<\/href><\/page><page><label>Jazz Foundation<\/label><href>\/downloads\/jazz-foundation<\/href><\/page><\/pages><\/section><section><sectionLabel>Forums<\/sectionLabel><sectionLink>\/forums\/<\/sectionLink><pages><page><label>Announcements<\/label><href>\/forums\/viewforum.php?f=6<\/href><\/page><page><label>Collaborative Lifecycle Management<\/label><href>\/forums\/index.php?c=12<\/href><\/page><page><label>Systems engineering and embedded software development<\/label><href>\/forums\/index.php?c=13<\/href><\/page><page><label>Rational Team Concert<\/label><href>\/forums\/index.php?c=2<\/href><\/page><page><label>Rational Quality Manager and Rational Test Lab Manager<\/label><href>\/forums\/index.php?c=6<\/href><\/page><page><label>Rational Requirements Composer<\/label><href>\/forums\/index.php?c=7<\/href><\/page><page><label>Rational Insight<\/label><href>\/forums\/index.php?c=8<\/href><\/page><page><label>Rational Build Forge<\/label><href>\/forums\/index.php?c=10<\/href><\/page><page><label>Rational Asset Manager<\/label><href>\/forums\/index.php?c=11<\/href><\/page><page><label>Design Management<\/label><href>\/forums\/index.php?c=14<\/href><\/page><page><label>Jazz Foundation<\/label><href>\/forums\/index.php?c=4<\/href><\/page><\/pages><\/section><section><sectionLabel>Library<\/sectionLabel><sectionLink>\/library\/<\/sectionLink><pages><page><label>All Media<\/label><href>\/library\/<\/href><\/page><page><label>Articles<\/label><href>\/library\/#type=article<\/href><\/page><page><label>Documentation<\/label><href>\/library\/#type=documentation<\/href><\/page><page><label>Podcasts<\/label><href>\/library\/#type=podcast<\/href><\/page><page><label>Presentations<\/label><href>\/library\/#type=presentation<\/href><\/page><page><label>Videos<\/label><href>\/library\/#type=video<\/href><\/page><\/pages><\/section><section><sectionLabel>Development<\/sectionLabel><sectionLink>\/development\/<\/sectionLink><pages><page><label>Sandbox<\/label><href>\/development\/sandbox\/<\/href><\/page><page><label>Submit a Bug<\/label><href>\/development\/bugs\/<\/href><\/page><page><label>Wiki<\/label><href>\/wiki\/<\/href><\/page><page><label>Mailing Lists<\/label><href>\/development\/mailinglists\/<\/href><\/page><\/pages><\/section><section><sectionLabel>Community<\/sectionLabel><sectionLink>\/community\/<\/sectionLink><pages><page><label>Jazz Team Blog<\/label><href>\/blog\/<\/href><\/page><page><label>Tweets about Jazz<\/label><href>\/community\/twitter\/<\/href><\/page><page><label>Events<\/label><href>\/community\/events\/events.jsp<\/href><\/page><page><label>In the News<\/label><href>\/community\/news\/news.jsp<\/href><\/page><page><label>Testimonials about Jazz<\/label><href>\/community\/feedback\/<\/href><\/page><page><label>Surveys<\/label><href>\/evaluate\/mcif\/selfcheck\/web#action=jazz.viewPage&amp;id=com.ibm.mcif.selfcheck.external<\/href><\/page><page><label>Business Partners<\/label><href>\/community\/ensemble\/index.jsp<\/href><\/page><page><label>Academic Users<\/label><href>\/community\/academic\/<\/href><\/page><page><label>Open Source Users<\/label><href>\/community\/opensource<\/href><\/page><page><label>Rational Support<\/label><href>\/community\/support\/<\/href><\/page><\/pages><\/section><\/options>"},dojo.byId("navbar-left"));
 	dojo.addOnLoad(function(){
 		var tracker = new dojox.analytics.Urchin({
 			acct:"UA-10864409-1",
