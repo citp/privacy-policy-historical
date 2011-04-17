@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weblogbetter.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211230335id_/http%3A//weblogbetter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblogbetter.com privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418000525id_/http%3A//weblogbetter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » We Blog Better
 
@@ -48,7 +48,7 @@ We use cookies to help us remember and process the items in your shopping cart, 
 
 **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for [marketing](http://weblogbetter.com/go/books/inboundmarketing), advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 **Third party links**
 
