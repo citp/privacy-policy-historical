@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the mapinc.org privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215034732id_/http%3A//www.drugsense.org/pages/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapinc.org privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417094835id_/http%3A//www.drugsense.org/cms/privacy) for the most accurate reproduction.*
 
-# DrugSense: Drug Law Reform - DrugSense/MAP Inc. Privacy Policy
-
-DrugSense/MAP Inc. Privacy Policy
-
-### DrugSense/Media Awareness Project Inc. Privacy Policy
+# DrugSense/Media Awareness Project Inc. Privacy Policy | DrugSense
 
 Effective as of July 27, 2010. 
 
 1 **INTRODUCTION**
 
-We take the privacy of members of, and visitors to, the http://www.mapinc.org, http://www.drugpolicycentral.com and http://www.drugsense.org websites (the “Service”) very seriously. Please read this Privacy Policy to learn more about how the Media Awareness Project Inc. (“MAP,” “we,” our,” or “us”) treats information, including personally identifiable information, in connection with the Service. We provide this Privacy Policy because visitors to our websites have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at [privacy@drugsense.org](mailto:privacy@drugsense.org) or by post at: 
+We take the privacy of members of, and visitors to, the http://www.mapinc.org/, http://www.drugpolicycentral.com/ and http://www.drugsense.org/ websites (the “Service”) very seriously. Please read this Privacy Policy to learn more about how the Media Awareness Project Inc. (“MAP,” “we,” our,” or “us”) treats information, including personally identifiable information, in connection with the Service. We provide this Privacy Policy because visitors to our websites have a right to know what information we collect, how it is protected and used, and the circumstances under which it may be disclosed. If you have comments, suggestions, questions, or concerns about our Privacy Policy, please contact us via email at or by post at: 
     
     
     DrugSense,
@@ -39,7 +35,7 @@ _When You Donate_. When you choose to donate to MAP, you will be asked to provid
 
 **Information We Do Not Collect From Any Users**
 
-_Children_ . As explained further in our Terms of Use (available at [http://www.drugsense.org/terms_of_use](http://www.drugsense.org./terms_of_use)), you must be 18 years of age or older – or, if you are under the age of majority in your jurisdiction, have the consent of your parent or guardian – to use the Service. Therefore, we do not knowingly collect personally identifiable information from or about children. In accordance with Federal Children's Online Privacy Protection Act of 1998 (“COPPA”), MAP will never knowingly solicit, nor will we accept, personally identifiable information from visitors known to be under thirteen (13) years of age. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at [privacy@drugsense.org](mailto:privacy@drugsense.org), or write to our Privacy Officer at the address noted above.
+_Children_ . As explained further in our Terms of Use (available at [http://www.drugsense.org/terms_of_use](http://www.drugsense.org./terms_of_use)), you must be 18 years of age or older – or, if you are under the age of majority in your jurisdiction, have the consent of your parent or guardian – to use the Service. Therefore, we do not knowingly collect personally identifiable information from or about children. In accordance with Federal Children's Online Privacy Protection Act of 1998 (“COPPA”), MAP will never knowingly solicit, nor will we accept, personally identifiable information from visitors known to be under thirteen (13) years of age. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at , or write to our Privacy Officer at the address noted above.
 
 **Information We Track**
 
