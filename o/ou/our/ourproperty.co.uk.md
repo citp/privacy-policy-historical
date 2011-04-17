@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourproperty.co.uk privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211180828id_/http%3A//www.ourproperty.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourproperty.co.uk privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417195032id_/http%3A//www.ourproperty.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Your privacy - OurProperty.co.uk
 
@@ -10,18 +10,18 @@ OurProperty.co.uk may be required to revise this Privacy Policy in the future to
 
 ##### When you access OurProperty.co.uk 
 
-OurProperty.co.uk uses [cookies](https://web.archive.org/web/20101211180828id_/http%3A//www.ourproperty.co.uk/privacy-terms.html) to store and collect information about your usage of the site in order to enhance your online experience and to help us improve the quality of our services. 
+OurProperty.co.uk uses [cookies](https://web.archive.org/web/20110417195032id_/http%3A//www.ourproperty.co.uk/privacy-terms.html) to store and collect information about your usage of the site in order to enhance your online experience and to help us improve the quality of our services. 
 
-  * When you access OurProperty.co.uk, your computer automatically sends us information such as the URL on our site you have visited, your [IP address](https://web.archive.org/web/20101211180828id_/http%3A//www.ourproperty.co.uk/privacy-terms.html), your browser type and language, and the date and time of your request.
+  * When you access OurProperty.co.uk, your computer automatically sends us information such as the URL on our site you have visited, your [IP address](https://web.archive.org/web/20110417195032id_/http%3A//www.ourproperty.co.uk/privacy-terms.html), your browser type and language, and the date and time of your request.
   * If you perform a search on OurProperty.co.uk, your searches are logged and may be used internally, so as to better personalise our service to you.
 
 
 
 ##### When you Subscribe to OurProperty.co.uk
 
-  * **Your personal details will never be passed onto any other companies or third parties including affiliates and will never be added to any third party mailing lists or databases** with the exception of [OurProperty.co.uk Survey](https://web.archive.org/web/20101211180828id_/http%3A//www.ourproperty.co.uk/faq-survey.html#q4).
-  * OurProperty.co.uk collects [personal information](https://web.archive.org/web/20101211180828id_/http%3A//www.ourproperty.co.uk/privacy-terms.html) when you register on the site. Your information will be stored confidentially by us and only used by OurProperty.co.uk and sites owned by Fubra Ltd in order to provide you with access to our products, services and information that we believe will interest you.
-  * Fubra Limited (trading as OurProperty.co.uk) may also use information about our users in statistical aggregate form. This is [non personal information](https://web.archive.org/web/20101211180828id_/http%3A//www.ourproperty.co.uk/privacy-terms.html) but simply refers to information such as number of registrations, traffic patterns and site user trends.
+  * **Your personal details will never be passed onto any other companies or third parties including affiliates and will never be added to any third party mailing lists or databases** with the exception of [OurProperty.co.uk Survey](https://web.archive.org/web/20110417195032id_/http%3A//www.ourproperty.co.uk/faq-survey.html#q4).
+  * OurProperty.co.uk collects [personal information](https://web.archive.org/web/20110417195032id_/http%3A//www.ourproperty.co.uk/privacy-terms.html) when you register on the site. Your information will be stored confidentially by us and only used by OurProperty.co.uk and sites owned by Fubra Ltd in order to provide you with access to our products, services and information that we believe will interest you.
+  * Fubra Limited (trading as OurProperty.co.uk) may also use information about our users in statistical aggregate form. This is [non personal information](https://web.archive.org/web/20110417195032id_/http%3A//www.ourproperty.co.uk/privacy-terms.html) but simply refers to information such as number of registrations, traffic patterns and site user trends.
   * If you register for our email alert service, your preferences, for example the post codes you are interested in, are logged so that we are able to update you with the most relevant information.
 
 
@@ -35,14 +35,14 @@ OurProperty.co.uk uses [cookies](https://web.archive.org/web/20101211180828id_/h
 ##### Your Preferences and the Fubra Passport
 
   * Fubra Limited, the company behind OurProperty.co.uk and various other popular web sites operates a central login system called the Fubra Passport. This system is a database of the users who can access our web sites and also contains a set of preferences for each subscriber. 
-  * When you sign up to a [Fubra](http://www.fubra.com/) web site a [Fubra Passport](http://www.fubra.com/passport.php) account is opened for you and you can use this to access the content on any of our web sites. 
+  * When you sign up to a [Fubra](http://www.fubra.com/) web site a [Fubra Passport](https://passport.fubra.com/) account is opened for you and you can use this to access the content on any of our web sites. 
   * As we are usually providing expensive data sets to consumers free of charge, our aim has been to establish a database of subscribers who we communicate with when we add new features to our current web sites or when we launch a new web site that we think our subscribers may be interested in. 
   * The data we hold in the Fubra Passport system is **not available for sale to any third parties** and will only ever be used by us with your consent.
   * If you would prefer **not** to receive alerts about house prices and other data that we email to our subscribers free of charge on a regular basis then you can manage your alerts with us on the [My Alerts](https://secure.ourproperty.co.uk/account-alerts.html) page. 
   * If you remove all your alerts then we will no longer send you any automatic update emails. However you will still remain a subscriber to our web sites via the Fubra Passport system and will therefore still have access to our web sites when you choose to search for information. 
-  * As a subscriber of the Fubra Passport we will occasionally still email you with news and information about our company, our new web site features and new web sites we develop. If you **do not** wish to receive any email from us at all, you must then cancel your subscription to our Fubra Passport login system which you can do on this [page.](https://secure.ourproperty.co.uk/fubrapassport.html)(requires login)
+  * As a subscriber of the Fubra Passport we will occasionally still email you with news and information about our company, our new web site features and new web sites we develop. If you **do not** wish to receive any email from us at all, you must then cancel your subscription to our Fubra Passport login system which you can do on this [page.](https://passport.fubra.com/site/op/login/)(requires login)
   * Please note once you have done this you will no longer be able to log in to any of our web sites without re-subscribing. 
-  * You can use the [Fubra Passport](https://secure.ourproperty.co.uk/fubrapassport.html)(requires login) page to easily join or leave any of our other web sites that are currently supported by the system. By leaving just one site you will continue to receive emails about other sites if you remain a member of those. 
+  * You can use the [Fubra Passport](https://passport.fubra.com/site/op/login/)(requires login) page to easily join or leave any of our other web sites that are currently supported by the system. By leaving just one site you will continue to receive emails about other sites if you remain a member of those. 
 
 
 
@@ -62,4 +62,4 @@ OurProperty.co.uk uses [cookies](https://web.archive.org/web/20101211180828id_/h
 
 ##### Contacting OurProperty.co.uk
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you may [contact us.](https://web.archive.org/web/20101211180828id_/http%3A//www.ourproperty.co.uk/contact-us.html)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you may [contact us.](https://web.archive.org/web/20110417195032id_/http%3A//www.ourproperty.co.uk/contact-us.html)
