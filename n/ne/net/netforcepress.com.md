@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netforcepress.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226014256id_/http%3A//www.netforcepress.com/index.php%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netforcepress.com privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418003935id_/http%3A//www.netforcepress.com/privacy-policy) for the most accurate reproduction.*
 
-# NetForce Press, Free Press Release Distribution Service, Press Release Website
+# Privacy Policy | NetForce Press
 
 The following Privacy Policy applies to NetForce PRESS and all Websites owned and maintained by Race River Corporation Pty Ltd.
 
@@ -29,7 +29,7 @@ We may release account and other personal information to comply with law, or to 
 
 ## Conditions of Use, Notices, and Revisions
 
-If you choose to visit our websites, your visit and any dispute over privacy is subject to this Privacy Policy. Please send any concerns you may have about privacy on our websites to the following e-mail address: [info@netforcemarketing.com](mailto:info@netforcemarketing.com). Race River Corporation will respond to your request and attempt to resolve any matters that violate Race River policies. Our business constantly changes therefore this Policy may change, and use of information that we collect now is subject to the Privacy Policy in effect at the time of use. We may send periodic reminders of our notices via e-mail, please check our websites frequently for changes.
+If you choose to visit our websites, your visit and any dispute over privacy is subject to this Privacy Policy. Please send any concerns you may have about privacy on our websites to the following e-mail address: [support@netforcepress.com](mailto:support@netforcepress.com). Race River Corporation will respond to your request and attempt to resolve any matters that violate Race River policies. Our business constantly changes therefore this Policy may change, and use of information that we collect now is subject to the Privacy Policy in effect at the time of use. We may send periodic reminders of our notices via e-mail, please check our websites frequently for changes.
 
   
-| 
+
