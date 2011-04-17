@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycashbynumbers.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210072343id_/http%3A//easycashbynumbers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycashbynumbers.com privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417193422id_/http%3A//easycashbynumbers.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Easy Cash By Numbers - privacypolicy
 
