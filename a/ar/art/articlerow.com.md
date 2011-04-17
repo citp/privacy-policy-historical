@@ -1,57 +1,39 @@
-> *The following text is extracted and transformed from the articlerow.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618005059id_/http%3A//www.articlerow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlerow.com privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417154956id_/http%3A//www.articlerow.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | ArticleRow.com is Article Directory to Submit Articles and Find Free Reprint Articles
+# Article Directory to Submit Free Articles Content
 
-Browse >
+ArticleRow.com Privacy Policy
 
-[Home](http://www.articlerow.com/ "Browse to: Home") / Privacy Policy 
+ArticleRow.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
-**ArticleRow.com  Privacy Statement**
+**How we gather information from users**  
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, ArticleRow.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
 
-What follows is the Privacy Statement for all ArticleRow.com websites including all the websites run under the ArticleRow.com domain.
+**What we do with the information we collect**  
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and we do not share your information with anyone.   
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.   
+We may use Personally Identifiable Information collected on ArticleRow.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by ArticleRow.com and other topics we think you might find of interest.   
+Personally Identifiable Information collected by ArticleRow.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
 
-Please read this statement regarding our blogs. If you have questions please ask us via our contact form.
+**Affiliated sites, linked sites and advertisements**  
+ArticleRow.com expects its partners, advertisers and affiliates to espect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a ArticleRow.com page, certain content that is actually created or hosted by a third party. Also, through ArticleRow.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. ArticleRow.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.   
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. ArticleRow.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties. You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of ArticleRow.com and this policy. 
 
-**Email Addresses**
+**Children**  
+ArticleRow.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe ArticleRow.com has any information from or about anyone under 13, please contact us at the address listed below. 
 
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don’t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please contact us via our contact form.
+**Contacting Us**  
+We can be reached by emailing us via the Contact Us Link. 
 
-**Ownership of Information**
+**Changes to this Policy**  
+ArticleRow.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
-ArticleRow.com is the sole owner of any information collected on our websites.
+**Governing law**  
+This policy and the use of this Site are governed by United States of America law.  
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-**Comments/Message Boards**
+**Cookies**  
+Currently we assign cookies to our readers in order to save their preferences. This data is not shared with any third party. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish. 
 
-Most ArticleRow.com websites contain comment sections. We do not actively monitor these comments and the information on them is for entertainment purposes only. If we are alerted to something we deem inappropriate in any way, we may delete it at our discretion. We use email validation on most of our message boards in order to reduce “comment spam.” These email addresses will not be shared with any third party.
-
-**Cookies**
-
-Currently we assign cookies to our readers in order to save their preferences. This data is not shared with any third party. Accessing our websites is not dependent on accepting cookies and all major browsers allow you to disable cookies if you wish.
-
-**Third Party Cookies**
-
-Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. ArticleRow.com does not have access to this data.
-
-**Traffic Reports**
-
-Our industry-standard traffic reporting records IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages are loaded. We use this information in the aggregate only to provide traffic statistics to advertisers and to figure out which features and editorials are most popular.
-
-**Legal proceedings**
-
-We will make every effort to preserve user privacy but ArticleRow.com may need to disclose information when required by law.
-
-**Business Transitions**
-
-If ArticleRow.com is acquired by or merges with another firm, the assets of our websites, including personal information, will likely be transferred to the new firm.
-
-**Links**
-
-ArticleRow.com websites frequently link to other websites. We are not responsible for the content or business practices of these websites. When you leave our websites we encourage you to read the destination site’s privacy policy. This privacy statement applies solely to information collected by ArticleRow.com
-
-**Notification of Changes**
-
-When ArticleRow.com makes changes to this privacy policy we will post those changes here.
-
-**Contact Information**
-
-If you have any questions regarding our privacy policy, please contact us.
+**Third Party Cookies**  
+Many of our advertisers use cookies in order to determine the number of times you have seen an advertisement. This is done to limit the number times you are shown the same advertisement. ArticleRow.com does not have access to this data. 
