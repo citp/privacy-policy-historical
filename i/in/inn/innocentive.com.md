@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225100538id_/http%3A//www2.innocentive.com/privacy-policy-last-updated-february-1-2009) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocentive.com privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417200437id_/http%3A//www.innocentive.com/privacy-policy-last-updated-february-1-2009) for the most accurate reproduction.*
 
 # Privacy Policy: Last Updated February 1, 2009 | InnoCentive
 
