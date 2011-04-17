@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jazz.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215001344id_/http%3A//jazz.net/pub/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jazz.net privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417020730id_/http%3A//jazz.net/pub/privacy.jsp) for the most accurate reproduction.*
 
 # Jazz Community Site - Privacy Policy
 
