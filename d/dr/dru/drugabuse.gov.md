@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220174411id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417095132id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
 
 # NIDA - Privacy Notice
 
@@ -61,5 +61,5 @@ This site is maintained by the U.S. Government. It is protected by various provi
 
 For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual. 
 
-**Additional Links** \- [Privacy Notice, Part 2 - How NIDA uses Third-Party Web sites and Applications](https://web.archive.org/web/20101220174411id_/http%3A//www.drugabuse.gov/tools/privacy2.html)   
+**Additional Links** \- [Privacy Notice, Part 2 - How NIDA uses Third-Party Web sites and Applications](https://web.archive.org/web/20110417095132id_/http%3A//www.drugabuse.gov/tools/privacy2.html)   
 
