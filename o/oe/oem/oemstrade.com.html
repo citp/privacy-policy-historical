@@ -1,12 +1,10 @@
-<!--The following is the downloaded HTML source of the oemstrade.com privacy policy that was archived on 2010-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100618202649id_/http%3A//oemstrade.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oemstrade.com privacy policy that was archived on 2011-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110418000857id_/http%3A//www.oemstrade.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	     <title>OEMsTrade - Electronics Part Search</title>
 	    <link rel="stylesheet" href="/css/main.css" media="screen" type="text/css">
 		
-	    
-	    
 	    <meta name="ROBOTS" content="INDEX, FOLLOW, ARCHIVE">
 		
 		
@@ -18,25 +16,16 @@
 	   	
 <!-- W01 - 0 -->
 
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	
 	<script language="JavaScript" src="/js/forms.js"></script><script language="JavaScript" src="/js/strings.js"></script></head>
 	
 	
 	
-	 
-		
-	 
-		
 			
 		
-	 
 	
 	
-	
-	
-	
-	
-	
-		
 	
 <!-- W02 - 0 -->
 	
@@ -50,10 +39,29 @@
 		
 			<div id="searchForm">
 
-				<form action="/results.cfm" method="post" name="mainSrchForm" target="_self">
+				<form action="/results.cfm" method="post" name="mainSrchForm" target="_self" onsubmit="return submitForm(this);">
 					<input type="Text" name="searchText" style="width:190px;" maxlength="30"> 
 					<input type="submit" value="Go">
+					
 				</form>
+				
+				<script type="text/javascript">
+					function submitForm(form){
+						form.action = '/search/' + form.searchText.value + '/';
+						return true;
+					}
+					
+					function submitEnter(myfield,e) {
+						var keycode;
+						if (window.event) keycode = window.event.keyCode;
+						else if (e) keycode = e.which;
+						else return true;
+						if (keycode == 13) {
+							return true;
+						} else return false;
+					}
+					
+				</script>
 
 			</div>
 		
@@ -63,9 +71,6 @@
 	</div>
 <!-- W03 - 0 -->
 
-	
-	
-	
 	<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -77,18 +82,13 @@
 			var pageTracker = _gat._getTracker("UA-2310427-1");
 			
 			
+			
 			pageTracker._trackPageview();
 			pageTracker._setDomainName("oemstrade.com");
 		} catch(err) {}
 	</script>
 	
-	<script type="text/javascript" src="/js/gaAddons.js"></script>
-	
-	
-	
-	
-	
-	
+	<script type="text/javascript" src="/js/jqGAAddons.js"></script>
 	
 	<script type="text/javascript">
 		_qoptions={
@@ -100,15 +100,9 @@
 		<img src="http://pixel.quantserve.com/pixel/p-7fbgyVc6FL-wc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 	</noscript>
 	
-	
-	
-	
 	<div id="content">
-			
 	
-
-
-
+	
 
 
 <h1>OEMsTrade Privacy Policy</h1>
@@ -139,31 +133,12 @@ If you have any questions or comments regarding this privacy policy, please cont
 
 
 
-
-		
+ 
 		<div class="clear"></div>
-		<div id="another_div_test"></div>
+		
 		</div>
-
 		<div class="clear"></div>
-
 		
 		
 		
-		
-		
-		
-		
-
-		
-		
-		
-		
-		
-
-		
-		
-		
-
-
-</body></html>
+		</body></html>
