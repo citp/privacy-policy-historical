@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmu.se privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222043255id_/http%3A//www.wmu.se/Home/tabid/38/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmu.se privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418092544id_/http%3A//www.wmu.se/Home/tabid/38/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # World Maritime University > Home
 
