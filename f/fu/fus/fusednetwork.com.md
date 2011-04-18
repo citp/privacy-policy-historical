@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusednetwork.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231095053id_/http%3A//www.fusednetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusednetwork.com privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418201623id_/http%3A//www.fused.com/privacy.php) for the most accurate reproduction.*
 
 # Fused | Privacy Policy
 
@@ -48,7 +48,7 @@ Web Sites(s):
 
 | 
 
-http://www.fusednetwork.com   
+http://www.fused.com   
   
 ****Policy subject to change  
 ******The policy contained in this document may be updated, modified, or otherwise changed with notice given to you other than this document being updated.**
@@ -126,7 +126,7 @@ We ensure that your personal data will not be disclosed to State institutions an
 **Access to the personal data we may hold about you  
 ** You can ask us, by: 
 
-  * sending an email ( support@fusednetwork.com ) 
+  * sending an email ( support@fused.com ) 
 
 
 
@@ -135,7 +135,7 @@ whether we are keeping personal data about you.
 
 Upon request, which you can indicate by: 
 
-  * sending an email ( support@fusednetwork.com ) 
+  * sending an email ( support@fused.com ) 
 
 
 
@@ -200,13 +200,13 @@ Email address :
 
 | 
 
-support@fusednetwork.com   
+support@fused.com   
   
 URL : 
 
 | 
 
-http://www.fusednetwork.com   
+http://www.fused.com   
   
 We do not recommend another means by which visitors' concerns may be addressed. 
 
