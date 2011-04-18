@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocklayouts.com privacy policy that was archived on 2010-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100403040949id_/http%3A//www.stocklayouts.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocklayouts.com privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418113611id_/http%3A//www.stocklayouts.com/Privacy.aspx) for the most accurate reproduction.*
 
 # StockLayouts® - Privacy Policy
 
@@ -6,7 +6,8 @@
 
 Privacy Policy 
 
-**StockLayouts Privacy Policy for the Internet.**  
+StockLayouts Privacy Policy for the Internet 
+
 StockLayouts LLC respects your ability to make informed choices about the collection and uses of your personal information. This privacy policy tells you about our online collection and uses of information that identifies you personally so that you can make an informed choice about using this site. The terms of this policy apply to www.stocklayouts.com unless different terms are otherwise specified in a form or contract provided to you by us. 
 
 The websites of our third party content providers may have different privacy policies and practices from those disclosed here, and we encourage you to become familiar with them. This site is operated by StockLayouts LLC in the United States. By using this website, you understand and agree that (1) the information collected from this site may be retained indefinitely, and may be stored, accessed, and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction; (2) StockLayouts LLC may use this information for a variety of purposes including direct marketing (unless you opt out of receiving direct marketing from StockLayouts LLC); and (3) unless you opt out of disclosing your personal information to a third party, StockLayouts LLC may disclose this information to affiliates, subsidiaries, agents, third party content providers and necessary payment processors, whose privacy policies and practices may be different from those of StockLayouts LLC, and for which StockLayouts LLC assumes no responsibility. 
