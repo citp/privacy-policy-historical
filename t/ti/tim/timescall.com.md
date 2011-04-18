@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timescall.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207063020id_/http%3A//www.timescall.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timescall.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419015912id_/http%3A//www.timescall.com/privacy.asp) for the most accurate reproduction.*
 
 # The Longmont Times-Call
 
-TimesCall.com is the website representing The Longmont Times-Call, a division of Lehman Communications Corporation. Other Web sites operated by Lehman Communications Corporation include ReporterHerald.com, ColoradoHometownNewspapers.com, CanonCityDailyRecord.com, and LehmanFYI.com. Questions or comments regarding these sites can be directed to Bill Schmich at [wschmich@lehmancomm.com](mailto:bschmich@lehmancomm.com). 
+TimesCall.com is the website representing The Longmont Times-Call, a division of Prairie Mountain Publishing. Other Web sites operated by Prairie Mountain Publishing include ReporterHerald.com, ColoradoHometownWeekly.com, CanonCityDailyRecord.com, and LehmanPrintingCenter.com. Questions or comments regarding these sites can be directed to Bill Schmich at [wschmich@lehmancomm.com](mailto:bschmich@lehmancomm.com). 
 
 TimesCall.com collects information when you place a classified ad online, subscribe online, enter a contest, or send us an e-mail. Our tracking software monitors IP addresses and referring URLs, along with other information about what you view on the site. We do not extract individual information from those logs. We use the aggregate statistical information to help us understand how users view our sites. 
 
