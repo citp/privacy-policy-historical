@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122090654id_/http%3A//www.sportssignup.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419011956id_/http%3A//www.sportssignup.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # SportsSignup Privacy Policy
 
-|  [ ](http://www.truste.org/ivalidate.php?url=www.sportssignup.com&sealid=101) |    
+| [](http://www.truste.org/ivalidate.php?url=www.sportssignup.com&sealid=101) |    
 ---|---|---  
   
-League Sports Services LLC (dba SportsSignup) is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site [www.SportsSignup.com](http://www.sportssignup.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+League Sports Services LLC (d.b.a. SportsSignup) is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the web site [www.SportsSignup.com](http://www.sportssignup.com/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this statement, you should first contact John Haller at [jhaller@sportssignup.com](mailto:jhaller@sportssignup.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -27,51 +27,52 @@ This Policy does not apply to the practices of companies that SportsSignup does 
 
 The SportsSignup system collects information about Registrants on behalf of the organization (“Customer”) in which a Registrant is participating.  SportsSignup acts as an agent in collecting information from Registrant for the Customer and produces a variety of reports and notification for the Customer about Registrants. The personal information we collect on the site includes first and last name, email address, mailing address and credit card information. 
 
-The information collected will not be shared with any party other than the authorized representatives of the Customer, unless we are required to do so to complete a requirement for a Customer, such as when team information is sent to a separate scheduling program, personal information is sent to a background check company with the applicant's permission, or unless authorization is granted and explicitly defined in SportsSignup’s Service Agreement with Customer.  For example, Registrant information may be sent as part of a roster submission process from the Customer to Customer’s parent organization(s). Registrants are advised to check with their organization regarding the use and privacy of personal information collected on behalf of the Customer.
+The information collected is not shared with any party other than the authorized representatives of the Customer, unless we are required to do so to complete a requirement for a Customer, such as when team information is sent to a separate scheduling program, personal information is sent to a background check company with the applicant's permission, or unless authorization is granted and explicitly defined in SportsSignup’s Service Agreement with Customer.  For example, Registrant information may be sent as part of a roster submission process from the Customer to Customer’s parent organization(s). Registrants are advised to check with their organization regarding the use and privacy of personal information collected on behalf of the Customer.
 
 Registrant information is protected by a password that Registrant chooses.  Users should assure that the password selection is not obvious (name, address, etc.) and should change it periodically.
 
 Registrant information is stored in Microsoft's SQL Server Database, which supports industry standard security.  The Database is hosted by Rackspace, a top-grade hosting company and Microsoft Certified Partner. Rackspace uses the latest technologies available when ensuring data security and database availability. 
 
-####  **Updating/Correcting Personal Information**
+#### **Updating/Correcting Personal Information**
 
-For SportsSignup account holders and end users, personal information collected such as (name, address, phone numbers, etc.) can be update or modified by logging into your SportsSignup account and clicking on “Contact Info” at the top of the page.
+For SportsSignup account holders and end users, personal information collected (e.g. name, address, phone numbers, etc.) can be updated or modified by logging into your SportsSignup account and clicking on “Contact Info” at the top of the page.
 
 #### **Cookies and Tracking Technologies**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
 
-We use session ID cookies. We use session ID cookies to make it easier for you to navigate our site and to track behavior of users that visit the site, for example, to track pages a user visited to help determine what content is most valuable. A session ID cookie expires when you close your browser.
+We use session ID cookies to make it easier for you to navigate our site and to track behavior of users that visit the site, for example, to track pages a user visited to help determine what content is most valuable. A session ID cookie expires when you close your browser.
 
 #### Credit Card Information
 
-When Registrants use the SportsSignup system to make payment via credit card, the payment information is entered on a secure web page, using SSL encryption (see Web Security section) and processed via a merchant account. Only the last 4 digits of the credit card number are stored in the SportsSignup system. The Customer name (e.g. Springfield Soccer League”) will appear on the Registrant’s credit card statement.
+When Registrants use the SportsSignup system to make payment via credit card, the payment information is entered on a secure web page, using SSL encryption (see Web Security section) and processed via a merchant account. Only the last 4 digits of the credit card number are stored in the SportsSignup system. The Customer name (e.g. Springfield Soccer League) will appear on the Registrant’s credit card statement.
 
-The SportsSignup system is PCI Complaint. SportsSignup is enrolled in Trustwave's Trusted Commerce program, a third party service provider, to validate compliance with the Payment Card Industry Data Security Standard (PCI DSS) mandated by all the major credit card associations including: American Express, Diners Club, Discover, JCB, MasterCard Worldwide, Visa, Inc. and Visa Europe.   
+The SportsSignup system is PCI Complaint. SportsSignup is enrolled in Trustwave's Trusted Commerce program, a third party service provider, to validate compliance with the Payment Card Industry Data Security Standard (PCI DSS) mandated by all the major credit card associations including: American Express, Diners Club, Discover, JCB, MasterCard Worldwide, Visa, Inc. and Visa Europe. 
+
 Trustwave's Trusted CommerceSM designation indicates that SportsSignup protects credit card and order information in accordance with payment card industry best practices. 
 
-####  Social Security Numbers
+#### Social Security Numbers
 
-SportsSignup provides a service, called **KidSafe** _Plus_ , to help manage the background check process for Customer’s volunteers.  While it is understandable that consumers are reluctant to disclose their Social Security numbers, it is a crucial piece of information to help ensure the name being provided will match potential criminal records.  Social Security numbers are captured as part of a volunteer's profile, and passed on to LexisNexis (via secure communications), who performs the background check.  The Social Security numbers are deleted from the SportsSignup system once the results are returned from LexisNexis (often minutes after the user supplies the information).
+SportsSignup provides a service, called **KidSafe** _Plus_ , to help manage the background check process for Customer’s volunteers.  While it is understandable that consumers are reluctant to disclose their Social Security Number, it is a crucial piece of information to help ensure the name being provided will match potential criminal records.  Social Security numbers are captured as part of a volunteer's profile, and passed on to LexisNexis (via secure communications), who performs the background check.  The Social Security numbers are deleted from the SportsSignup system once the results are returned from LexisNexis (often minutes after the user supplies the information).
 
 #### **Testimonials**
 
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name.  We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. 
+We post customer testimonials on our web site, which may contain personally identifiable information such as the customer's name.  We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial. 
 
 #### Mailing Lists
 
 E-mailing Registrants is the primary method by which Customers communicate with Registrants - and a vital component of the SportsSignup system. Therefore, Registrants can expect to receive periodic e-mails from the Customer regarding sign-up deadlines, meeting notices, and other timely notifications. 
 
-E-mail information collected will not be shared with any other party, unless authorization is granted and explicitly defined in SportsSignup’s Service Agreement with Customer. Registrants are advised to check with their organization regarding the use and privacy of personal information collected on behalf of the Customer.
+E-mail information collected is not shared with any other party, unless authorization is granted and explicitly defined in SportsSignup’s Service Agreement with Customer. Registrants are advised to check with their organization regarding the use and privacy of personal information collected on behalf of the Customer.
 
 #### Legal Disclaimer
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our web site.  
 ****
 
-####  Blogs
+#### Blogs
 
-If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums.
+If you use a bulletin board, blog, or chat room on this web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the personally identifiable information you choose to submit in these forums.
 
 #### **Changes to this Privacy Policy**
 
