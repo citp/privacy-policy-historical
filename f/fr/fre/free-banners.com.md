@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-banners.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525164754id_/http%3A//home.free-banners.com/fb-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-banners.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419230741id_/http%3A//home.free-banners.com/fb-privacy.htm) for the most accurate reproduction.*
 
 # Free-Banners.com Privacy Statement
 
