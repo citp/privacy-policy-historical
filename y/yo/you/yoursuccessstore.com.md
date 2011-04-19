@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursuccessstore.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219041029id_/http%3A//www.yoursuccessstore.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursuccessstore.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419204830id_/http%3A//www.yoursuccessstore.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Security Statement : Your Success Store - Motivational Quotes - Inspirational Quotes - Personal Development and More
 
