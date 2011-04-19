@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianblog.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211171158id_/http%3A//www.christianblog.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianblog.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420004827id_/http%3A//www.christianblog.com/privacy.php) for the most accurate reproduction.*
 
 # ChristianBlog.Com Privacy Policy, Christian Blog, Christian Blogs, ChristianBlog.Com
 
@@ -47,18 +47,12 @@ Last updated: July 16, 2008
 
 [](http://www.christianblog.com/join/ "Join ChristianBlog.Com!")
 
-**Donation Saturday:**
-
-Every Saturday we like to remind our fellow bloggers that ChristianBlog.Com is highly dependant upon donations from our bloggers to help keep ChristianBlog.Com operational. If you have the ability to [donate a few dollars](http://www.christianblog.com/donate/) you can help keep this wonderful and awesome ministry website online! 
-
 **Follow us on twitter!**
 
 [@christianblog](http://twitter.com/christianblog) \- _our primary twitter account with tweets of all the latest published blogs!_
 
-[@christianblogpr](http://twitter.com/christianblogpr) \- _our PR twitter account for releasing news and updates and such_
+[@christianblogpr](http://twitter.com/christianblogpr) \- _our PR twitter account for releasing news and updates and such._
 
-[@abelajohnb](http://twitter.com/abelajohnb) \- _the twitter account of the owner of ChristianBlog.Com_
-
-[](http://feeds.feedburner.com/Christianblogcom)  
+[@abelajohnb](http://twitter.com/abelajohnb) \- _the twitter account of the owner of ChristianBlog.Com_  
   
 ---|---|---
