@@ -1,611 +1,1001 @@
-<!--The following is the downloaded HTML source of the papyrusonline.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616180523id_/http%3A//www.papyrusonline.com/category/privacy%2B%26%2Bsecurity.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the papyrusonline.com privacy policy that was archived on 2011-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110420003845id_/http%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
-// Disable edit cell tab.
-   parent.editCell.className    = "tab-button-dis";
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Privacy &amp; Security</title>
+<meta http-equiv="X-UA-Compatible" content="IE=8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Papyrus believes that life is a celebration. Our fabulous selection of greeting cards, stationery, wrap, ribbon, and gifts are perfect for commemorating birthdays, anniversaries, weddings, baby showers, holidays  and more. ">
+<meta name="keywords" content="greeting cards, cards, gifts, holidays, sale, printing, wrap,  baby showers, weddings, anniversaries, birthdays">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/favicon.ico" type="image/x-icon">
+<script type="text/javascript" src="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/js/slider.js"></script>
+<script type="text/javascript">
+	jQuery.noConflict();
+	jQuery(window).bind('load', function(){
+		jQuery().prepare_slider(); 
+		jQuery('.home-block button').over();	
+		//=======intro================
+		var slider_link = jQuery('div#mantle-images .box-right img');
+		var slider_link_index = 1;
+		var slider_count = jQuery('ul#slider_list > li').size();	
+		
+		function slider_intro(){													
+			if(slider_link_index <= slider_count){
+				slider_link.trigger('click');
+				slider_link_index++;
+				setTimeout(function(){slider_intro()}, 4500); //select change time
+			}				
+		}		
+		setTimeout(function(){slider_intro()}, 4500)
+	  //===============			
+	});	
+</script>
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://www.papyrusonline.com/js/blank.html';
+    var BLANK_IMG = 'http://www.papyrusonline.com/js/spacer.gif';
+//]]>
+</script>
+<script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/css/sidebars.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/css/print.css" media="print">
+<script type="text/javascript" src="http://www.papyrusonline.com/media/js/ac8890e9e3ccb120c73dd7add7c18a3b.js"></script>
+<link rel="start" href="http://www.papyrusonline.com/customer-services/customer-service">
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.papyrusonline.com/media/js/b770a4668dd2b2a3130f12f6e880a94d.js"></script>
+<![endif]-->
 
-function saveForm() {
-    location.replace("/admin/displayeditcell.do?action=save");
-}
-
-   function editCell(ruleID, itemID, slotID, itemType) {
-        parent.editDisplay.className     = "tab-button";
-        if(typeof(parent.displayRules)!="undefined") {
-            parent.displayRules.className = "tab-button";
-        }
-        parent.editCell.className    = "tab-button-on";
-
-        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
-//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
-    }
-      function clickIt()
-      {
-          if(window.event.srcElement.id != "good") {
-              window.event.returnValue = false;
-           }
-      }
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.papyrusonline.com';
+//]]>
 </script>
 
-<link rel="stylesheet" href="/admin/include/styles/adminbrowser.css" type="text/css">
-
-
-
-
-
-
-    
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <title>
-      
-        Privacy &amp; Security
-        
-      
-      - Papyrus
-    </title>
-  
-
-
-
-    <meta name="description" content="">
-  
-
-
-
-    <meta name="keywords" content=" ">
-  
-        <link rel="stylesheet" type="text/css" href="/includes/stylesheet.css" title="style">
-        <script src="/includes/common.js"></script>
-        <script src="/includes/flyopen.js"></script>
-        <script src="/includes/rollover.js"></script>
-        <script src="/includes/cleartext.js"></script>
-    </head>
-<body class="main">
-
-<table width="768" border="0" cellpadding="0" cellspacing="0" class="mainLayoutTable" align="center">
-
-  <tbody><tr>
-	  <td class="navheaderbg">
-		  <div><!--TopNav Start-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script>
-  function checkKeyword(keyword, defaultText) {
-    var minKeywordLength = 0;
-    var maxKeywordLength = 0;
-    minKeywordLength += 3;
-    maxKeywordLength += 30;
-    var errMsg = '';
-    //alert("minKeywordLength " + minKeywordLength);
-    var searchTerms = '';
-    searchTerms = keyword.value;
-    //alert("searchTerms.length " + searchTerms.length);
-
-    var noSearchTerm = 'Please enter a keyword or item number';
-    var shortSearchTerm = 'Your keyword or item number must be at least 3 characters long';
-
-    if (searchTerms == defaultText) {
-        alert(noSearchTerm);
-        return false;
-    }
-    if (searchTerms == '') {
-        alert(noSearchTerm);
-        return false;
-    } else if ( searchTerms.length < minKeywordLength ) {
-        alert(shortSearchTerm);
-        return false;
-    } else {
-      return true;
-    }
-  }
- 
-<!-- Begin
-function popUp(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=700,height=700,left = 262,top = 134');");
-}
-// End -->
-
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
 </script>
-
-<table border="0" width="768" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td class="clearbg"><a href="/home.do"><img src="/images/en_US/global/globalnav/logo01.gif" border="0" alt="Papyrus "></a></td>
-	<td valign="bottom" align="right" class="clearbg">
-		<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td valign="bottom" colspan="4">
-				<table align="right" border="0" cellpadding="0" cellspacing="0">
-					<form name="searchForm" action="/p2p/basicSearch.do" onsubmit="return checkKeyword(this.keyword, 'keyword or item#');"></form>
-					<tbody><tr>
-						<td align="right"><input type="text" name="keyword" value="keyword or item#" size="10" maxlength="30" class="navsearchbox" onfocus="if(this.value=='keyword or item#')this.value='';"></td>
-						<td><input type="Image" name="Search" src="/images/en_US/global/globalgraphics/search_btn.gif" border="0" alt="search"></td>
-				        
-		                <td align="right" colspan="2"><a href="/p2p/advancedSearch.do?init=true" onmouseover="rollover('top_advancedsearch','/images/en_US/global/globalnav/advancedsearch_on.gif');" onmouseout="rollover('top_advancedsearch','/images/en_US/global/globalnav/advancedsearch_off.gif');"><img src="/images/en_US/global/globalnav/advancedsearch_off.gif" border="0" alt="advanced search" name="top_advancedsearch"></a></td>
-				        
-			        </tr>
-					
-				</tbody></table>			
-			</td>
-		</tr>
-		<tr>
-			<td valign="bottom"><a href="javascript:popUp('http://www.papyrusonline2.com/store+locator/')" onmouseover="rollover('top_storelocator','/images/en_US/global/globalnav/storelocator_on.gif');" onmouseout="rollover('top_storelocator','/images/en_US/global/globalnav/storelocator_off.gif');"><img src="/images/en_US/global/globalnav/storelocator_off.gif" border="0" alt="store locator" name="top_storelocator"></a></td>
-			<td valign="bottom"><a href="/basket.do?nav=%2Fcategory%2Fid%2F100464" onmouseover="rollover('top_shopbasket','/images/en_US/global/globalnav/shopbasket_on.gif');" onmouseout="rollover('top_shopbasket','/images/en_US/global/globalnav/shopbasket_off.gif');"><img src="/images/en_US/global/globalnav/shopbasket_off.gif" border="0" alt="shopping basket" name="top_shopbasket"></a></td>
-			<td valign="bottom"><a href="/account.do?method=start" onmouseover="rollover('top_myaccount','/images/en_US/global/globalnav/myaccount_on.gif');" onmouseout="rollover('top_myaccount','/images/en_US/global/globalnav/myaccount_off.gif');"><img src="/images/en_US/global/globalnav/myaccount_off.gif" border="0" alt="my account" name="top_myaccount"></a></td>
-			<td valign="bottom"><a href="/category/help.do" onmouseover="rollover('top_customerserv','/images/en_US/global/globalnav/customerserv_on.gif');" onmouseout="rollover('top_customerserv','/images/en_US/global/globalnav/customerserv_off.gif');"><img src="/images/en_US/global/globalnav/customerserv_off.gif" border="0" alt="help" name="top_customerserv"></a></td>
-		</tr>
-	</tbody></table></td>
-</tr>
-</tbody></table>
-<!--TopNav End--></div>
-		  <div><!--CatNav Start-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script>
-  var aCatImgs = new Array();
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navcards3_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navcards3_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navstationery3_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navstationery3_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navwrap3_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navwrap3_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navgifts3_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navgifts3_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navholiday3_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navholiday3_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navsale3_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navsale3_on.gif";
-  
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navcp3_off.gif";
-    aCatImgs[aCatImgs.length] = "/images/en_US/global/globalnav/navcp3_on.gif";
-  
-  preload(aCatImgs);
-
-function catLinkPopUp(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "');");
-}
+<script type="text/javascript">var Translator = new Translate({"Credit card number doesn't match credit card type":"Credit card number does not match credit card type","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<body id="wrap" class=" cms-page-view cms-privacy-security">
 	
-</script>
-
-<!-- milonic menu start -->
-<script type="text/javascript" src="/nav/menu/milonic_src.js"></script><style>.milonic{width:1px;visibility:hidden;position:absolute}</style>
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
-<!--
-if(ns4)_d.write("<scr"+"ipt language=JavaScript src=/nav/menu/mmenuns4.js><\/scr"+"ipt>");
-else _d.write("<scr"+"ipt language=JavaScript src=/nav/menu/mmenudom.js><\/scr"+"ipt>");
- -->
-</script><script language="JavaScript" src="/nav/menu/mmenudom.js"></script>
-<script type="text/javascript">
-/*
-Milonic DHTML Menu - JavaScript Website Navigation System.
-Copyright 2004 (c) Milonic Solutions Limited. All Rights Reserved.
-Version 5+ Data File structure is the property of Milonic Solutions Ltd and must only be used in Milonic DHTML Products
-This is a commercial software product, please visit http://www.milonic.com/ for more information.
-See http://www.milonic.com/license.php for Commercial License Agreement
-All Copyright statements must always remain in place in all files at all times
-*******  PLEASE NOTE: THIS IS NOT FREE SOFTWARE, IT MUST BE LICENSED FOR ALL USE  *******
-*/
-fixMozillaZIndex=true; //Fixes Z-Index problem  with Mozilla browsers but causes odd scrolling problem, toggle to see if it helps
-_menuCloseDelay=450   // The time delay for menus to remain visible on mouse out
-_menuOpenDelay=80     // The time delay before menus open on mouse over
-_subOffsetTop=0       // Sub menu top offset
-_subOffsetLeft=-15     // Sub menu left offset
+//<![CDATA[
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
 
-with(menuStyle=new mm_style()){
-  onclass="menuItemOn";
-  offclass="menuItemOff";
-  bordercolor="#336699";
-  borderstyle="solid";
-  borderwidth=0;
-}
-
-with(menuStyle0=new mm_style()){
-  onclass="menuItemOn";
-  offclass="menuItemOff";
-  onbgcolor="#FFFFFF";
-  offbgcolor="#F1EBDF";
-  bordercolor="#FFFFFF";
-  borderstyle="solid";
-  borderwidth="0";
-  horizontalMenuDelay = true;
-  separatorsize="1";
-  separatorcolor="#a07e70";
-  overfilter="Fade(duration=0.2);Alpha(opacity=85);Shadow(color='#f1edbf', Direction=135, Strength=5)";
-  outfilter="randomdissolve(duration=0.3)";
-
-
-}
-
-with(milonic=new menuname('Menu4')){style=menuStyle0;aI('text=Birthday General;showmenu=Menu102279;url=/category/cards/birthday+general.do;');aI('text=Birthday Friend;showmenu=Menu102280;url=/category/cards/birthday+friend.do;');aI('text=Birthday Humor;showmenu=Menu102311;url=/category/cards/birthday+humor.do;');aI('text=Birthday For Her;showmenu=Menu102312;url=/category/cards/birthday+for+her.do;');aI('text=Birthday For Him;showmenu=Menu102313;url=/category/cards/birthday+for+him.do;');aI('text=Birthday Kids & Teens;showmenu=Menu102282;url=/category/cards/birthday+kids+and+teens.do;');aI('text=Birthday Age Specific;showmenu=Menu102316;url=/category/cards/birthday+age+specific.do;');aI('text=Birthday Relative;showmenu=Menu102315;url=/category/cards/birthday+relative.do;');aI('text=Birthday Love;showmenu=Menu102281;url=/category/cards/birthday+love.do;');aI('text=Wedding & Anniversary;showmenu=Menu101444;url=/category/cards/wedding+and+anniversary.do;');aI('text=Bridal Shower & Engagement;showmenu=Menu102283;url=/category/cards/bridal+shower+and+engagement.do;');aI('text=Friendship;showmenu=Menu101446;url=/category/cards/friendship.do;');aI('text=Love;showmenu=Menu102278;url=/category/cards/love.do;');aI('text=Thank You;showmenu=Menu101451;url=/category/cards/thank+you.do;');aI('text=Baby;showmenu=Menu102276;url=/category/cards/baby.do;');aI('text=Blank;showmenu=Menu101441;url=/category/cards/blank.do;');aI('text=Graduation;showmenu=Menu102361;url=/category/cards/graduation.do;');}with(milonic=new menuname('Menu5')){style=menuStyle0;aI('text=Note Cards;showmenu=Menu101401;url=/category/stationery/note+cards.do;');aI('text=Thank You Notes;showmenu=Menu101403;url=/category/stationery/thank+you+notes.do;');aI('text=Invitations;showmenu=Menu102091;url=/category/stationery/invitations.do;');aI('text=Writing Papers;showmenu=Menu102051;url=/category/stationery/writing+papers.do;');aI('text=Caddies;showmenu=Menu102061;url=/category/stationery/caddies.do;');aI('text=Gift Sets;showmenu=Menu102031;url=/category/stationery/gift+sets.do;');aI('text=Notepads & Sticky Notes;showmenu=Menu102421;url=/category/stationery/notepads+%26+sticky+notes.do;');aI('text=Eco-Friendly;showmenu=Menu102033;url=/category/stationery/eco-friendly.do;');aI('text=For Him;showmenu=Menu102055;url=/category/stationery/for+him.do;');}with(milonic=new menuname('Menu9')){style=menuStyle0;aI('text=Wrapping Paper;showmenu=Menu102262;url=/category/wrap+and+bags/wrapping+paper.do;');aI('text=Gift Bags;showmenu=Menu101412;url=/category/wrap+and+bags/gift+bags.do;');aI('text=Ribbon & Bows;showmenu=Menu102271;url=/category/wrap+and+bags/ribbons+and+bows.do;');aI('text=Tissue;showmenu=Menu102272;url=/category/wrap+and+bags/tissue.do;');aI('text=Enclosures;showmenu=Menu102273;url=/category/wrap+and+bags/enclosures.do;');aI('text=Gift Boxes;showmenu=Menu101961;url=/category/wrap+and+bags/gift+boxes.do;');}with(milonic=new menuname('Menu8')){style=menuStyle0;aI('text=Frames;showmenu=Menu101392;url=/category/gifts/frames.do;');aI('text=Journals;showmenu=Menu101391;url=/category/gifts/journals.do;');aI('text=Pens;showmenu=Menu101173;url=/category/gifts/pens.do;');aI('text=Bath & Body;showmenu=Menu101180;url=/category/gifts/bath+and+body.do;');aI('text=Candles & Scents;showmenu=Menu101395;url=/category/gifts/candles+and+scents.do;');aI('text=Filofax;showmenu=Menu101921;url=/category/gifts/filofax.do;');aI('text=Labels & Seals;showmenu=Menu102121;url=/category/gifts/labels+and+seals.do;');aI('text=Jewelry & Accessories;showmenu=Menu101181;url=/category/gifts/jewelry+and+accessories.do;');aI('text=Books & Accessories;showmenu=Menu101692;url=/category/gifts/books+%26+accessories.do;');aI('text=Wedding Gifts;showmenu=Menu102471;url=/category/gifts/wedding+gifts.do;');}with(milonic=new menuname('Menu100761')){style=menuStyle0;aI('text=Cards;showmenu=Menu101821;url=/category/holidays/cards.do;');aI('text=Stationery;showmenu=Menu102451;url=/category/holidays/stationery.do;');aI('text=Wrap & Bags;showmenu=Menu101822;url=/category/holidays/wrap+%26+bags.do;');aI('text=Gifts;showmenu=Menu101811;url=/category/holidays/gifts.do;');}with(milonic=new menuname('Menu100819')){style=menuStyle0;aI('text=Cards;showmenu=Menu102211;url=/category/sale/cards.do;');aI('text=Note Cards;showmenu=Menu102203;url=/category/sale/note+cards.do;');aI('text=Stationery;showmenu=Menu100841;url=/category/sale/stationery.do;');aI('text=Invitations;showmenu=Menu101856;url=/category/sale/invitations.do;');aI('text=Gifts;showmenu=Menu101861;url=/category/sale/gifts.do;');aI('text=Embellishments;showmenu=Menu101857;url=/category/sale/embellishments.do;');aI('text=Gift Bags;showmenu=Menu101326;url=/category/sale/gift+bags.do;');aI('text=Tissue;showmenu=Menu101342;url=/category/sale/tissue.do;');aI('text=Favor Boxes;showmenu=Menu101341;url=/category/sale/favor+boxes.do;');}with(milonic=new menuname('Menu21')){style=menuStyle0;}
-drawMenus();
-function catLinkPopUp(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "');");
-}
+    var _gaq = _gaq || [];
+    _gaq.push(["_setAccount", "UA-17961741-1"]);
+    _gaq.push(["_trackPageview", "/customer-services/privacy-security"]);
+//]]>
 </script>
-<!-- milonic menu end -->
-
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-
-
-    
-        <td>
-          <script>
-          with(milonic=new menuname("Main Menu")){
-            style=menuStyle;
-            alwaysvisible=1;
-            orientation="horizontal";
-            position="relative";
-
-          
-							
-							
-							
-              
-                    aI("image=/images/en_US/global/globalnav/navcards3_off.gif;overimage=/images/en_US/global/globalnav/navcards3_on.gif;title=Cards;url=/category/cards.do;showmenu=Menu4;");
-                  
-          
-							
-							
-							
-              
-                    aI("image=/images/en_US/global/globalnav/navstationery3_off.gif;overimage=/images/en_US/global/globalnav/navstationery3_on.gif;title=Stationery;url=/category/stationery.do;showmenu=Menu5;");
-                  
-          
-							
-							
-							
-              
-                    aI("image=/images/en_US/global/globalnav/navwrap3_off.gif;overimage=/images/en_US/global/globalnav/navwrap3_on.gif;title=Wrap & Bags;url=/category/wrap+and+bags.do;showmenu=Menu9;");
-                  
-          
-							
-							
-							
-              
-                    aI("image=/images/en_US/global/globalnav/navgifts3_off.gif;overimage=/images/en_US/global/globalnav/navgifts3_on.gif;title=Gifts;url=/category/gifts.do;showmenu=Menu8;");
-                  
-          
-							
-							
-							
-              
-                    aI("image=/images/en_US/global/globalnav/navholiday3_off.gif;overimage=/images/en_US/global/globalnav/navholiday3_on.gif;title=Holidays;url=/category/holidays.do;showmenu=Menu100761;");
-                  
-          
-							
-							
-							
-              
-                    aI("image=/images/en_US/global/globalnav/navsale3_off.gif;overimage=/images/en_US/global/globalnav/navsale3_on.gif;title=Sale;url=/category/sale.do;showmenu=Menu100819;");
-                  
-          
-							
-							
-							
-								
-							
-              
-                    aI("image=/images/en_US/global/globalnav/navcp3_off.gif;overimage=/images/en_US/global/globalnav/navcp3_on.gif;title=Custom Printing;url=javascript:catLinkPopUp('http://www.papyruscustomprinting.com?aff=FROMFG');showmenu=Menu21;");
-                  
-          
-          }
-          drawMenus();
-          </script>
-        </td>
-      
-
-  </tr>
-</tbody></table>
-<!--CatNav End-->
+<!-- END GOOGLE ANALYTICS CODE -->
+        	<div id="page">
+		<div id="page-inner">
+			    <noscript>
+        <div class="noscript">
+            <div class="noscript-inner">
+                <p><strong>JavaScript seem to be disabled in your browser.</strong></p>
+                <p>You must have JavaScript enabled in your browser to utilize the functionality of this website.</p>
+            </div>
+        </div>
+    </noscript>
+			<div id="openness-holder">
+	<div id="openness" class="width980">
+		<div id="openness-inner">
+			<p><span>Looking for something a little more personalized?</span> <a href="http://www.papyruscustomprinting.com/" target="_blank">Shop PAPYRUS Custom Printing ›</a></p>
+			<div class="clr"><!-- ie6 issue to put comment --></div>
+		</div><!-- //openness-inner -->
+	</div><!-- //openness -->
+</div>			<div id="header-holder">
+	<div id="header" class="width980">
+		<div id="header-inner">
+			<div id="header-col-1">
+				<div id="logo"><a href="http://www.papyrusonline.com/" title="Papyrus Online"><img src="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/images/logo.gif" title="Papyrus Online" alt="Papyrus Online" border="0"></a></div>
+			</div>
+			<div id="header-col-2">
+				<div id="header-account">
+					<p class="welcome-msg">Welcome to our online store!</p>
+					<ul class="links">
+            <li class="first"><a href="https://www.papyrusonline.com/customer/account/login/" title=" Log In "> Log In </a></li>
+            <li class=" last"> or <a href="https://www.papyrusonline.com/customer/account/create/" title="register">register</a>.</li>
+    </ul>
+					<div class="clr"><!-- ie6 issue to put comment --></div>
+				</div>
+				<div id="header-search" class="clear">
+					<form id="search_mini_form" action="http://www.papyrusonline.com/catalogsearch/result/" method="get">
+	<div class="form-search">
+		<table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td>
+					<input type="text" id="search" name="q" value="" class="input-text" onfocus="this.style.color='#333';">
+				</td>
+				<td>
+					<button type="submit" title="FIND" class="button"><span><span>FIND</span></span></button>
+				</td>
+			</tr>
+		</tbody></table>
+		<div id="search_autocomplete" class="search-autocomplete"></div>
+		<script type="text/javascript">
+		//<![CDATA[
+			var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+			searchForm.initAutocomplete('http://www.papyrusonline.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+		//]]>
+		</script>
+		<p>&nbsp; </p>
+	</div>
+</form>
+				</div>
+								<div id="header-link" class="clear ">
+					<ul class="links">
+            <li class="first"><a href="https://www.papyrusonline.com/customer/account/" title="My Account">My Account</a></li>
+            <li><a href="http://www.papyrusonline.com/customer-services/" title="Customer Service">Customer Service</a></li>
+            <li><a href="http://www.papyrusonline.com/store-locator/" title="Store Locator">Store Locator</a></li>
+            <li><a href="http://www.papyrusonline.com/checkout/cart/" title="Shopping Cart (<strong>0</strong>)" class="top-link-cart">Shopping Cart (<strong>0</strong>)</a></li>
+            <li class=" last"><a href="http://www.papyrusonline.com/checkout/" title="Check Out" class="top-link-checkout">Check Out</a></li>
+    </ul>
+					<div class="clr"><!-- ie6 issue to put comment --></div>
+				</div>
+			</div>
+			<div class="clr"><!-- ie6 issue to put comment --></div>
+			<div id="nav">
+				<div class="nav-container">
+	<ul>
+		<li class="level0 nav-1 level-top first parent">
+<a href="http://www.papyrusonline.com/i-occasions.html" class="level-top">
+<span>Occasions</span>
+</a>
+<div class="sub-menu">
+<div class="nav-arrow"><!-- ie6 --></div>
+<div class="sub-menu-inner">
+<ul class="level0">
+<li class="col-1-1">
+<ul class="level0">
+<li class="level1 nav-1-1 first">
+<a href="http://www.papyrusonline.com/i-occasions.html">
+<span>View All</span>
+</a>
+</li><li class="level1 nav-1-19">
+<a href="http://www.papyrusonline.com/i-occasions.html?dir=asc&amp;order=num_sold">
+<span>Best Sellers</span>
+</a>
+</li><li class="level1 nav-1-20 last">
+<a href="http://www.papyrusonline.com/i-occasions.html?dir=asc&amp;order=entity_id">
+<span>New Arrivals</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="col-1-2">
+<ul class="level0">
+<li class="level1 nav-1-2 featured">
+<a href="http://www.papyrusonline.com/i-occasions/passover.html">
+<span>Passover</span>
+</a>
+</li><li class="level1 nav-1-3 parent featured">
+<a href="http://www.papyrusonline.com/i-occasions/easter.html">
+<span>Easter</span>
+</a>
+</li><li class="level1 nav-1-4 featured">
+<a href="http://www.papyrusonline.com/i-occasions/administrative-professionals-day.html">
+<span>Admin Professionals Day</span>
+</a>
+</li><li class="level1 nav-1-5 parent featured">
+<a href="http://www.papyrusonline.com/i-occasions/mother-s-day.html">
+<span>Mother's Day</span>
+</a>
+</li><li class="level1 nav-1-6 parent">
+<a href="http://www.papyrusonline.com/i-occasions/anniversary.html">
+<span>Anniversary</span>
+</a>
+</li><li class="level1 nav-1-7 parent">
+<a href="http://www.papyrusonline.com/i-occasions/baptism-christening.html">
+<span>Baptism/Christening</span>
+</a>
+</li><li class="level1 nav-1-8 parent">
+<a href="http://www.papyrusonline.com/i-occasions/bat-mitzvah.html">
+<span>Bat Mitzvah</span>
+</a>
+</li><li class="level1 nav-1-9 parent">
+<a href="http://www.papyrusonline.com/i-occasions/bar-mitzvah.html">
+<span>Bar Mitzvah</span>
+</a>
+</li><li class="level1 nav-1-10 parent">
+<a href="http://www.papyrusonline.com/i-occasions/birthday.html">
+<span>Birthday</span>
+</a>
+</li><li class="level1 nav-1-11 parent">
+<a href="http://www.papyrusonline.com/i-occasions/bridal-shower.html">
+<span>Bridal Shower</span>
+</a>
+</li><li class="level1 nav-1-12 parent">
+<a href="http://www.papyrusonline.com/i-occasions/communion.html">
+<span>Communion</span>
+</a>
+</li><li class="level1 nav-1-13 parent">
+<a href="http://www.papyrusonline.com/i-occasions/confirmation.html">
+<span>Confirmation</span>
+</a>
+</li><li class="level1 nav-1-14 parent">
+<a href="http://www.papyrusonline.com/i-occasions/engagement.html">
+<span>Engagement</span>
+</a>
+</li><li class="level1 nav-1-15">
+<a href="http://www.papyrusonline.com/i-occasions/graduation.html">
+<span>Graduation</span>
+</a>
+</li><li class="level1 nav-1-16 parent">
+<a href="http://www.papyrusonline.com/i-occasions/new-baby.html">
+<span>New Baby</span>
+</a>
+</li><li class="level1 nav-1-17 parent">
+<a href="http://www.papyrusonline.com/i-occasions/thank-you.html">
+<span>Thank You</span>
+</a>
+</li><li class="level1 nav-1-18 parent">
+<a href="http://www.papyrusonline.com/i-occasions/wedding.html">
+<span>Wedding</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clr clearer"><!-- ie6 issue to put comment --></div>
 </div>
-		</td>
-	</tr>
+</div>
+</li><li class="level0 nav-2 level-top parent">
+<a href="http://www.papyrusonline.com/greeting-cards.html" class="level-top">
+<span>Greeting Cards</span>
+</a>
+<div class="sub-menu">
+<div class="nav-arrow"><!-- ie6 --></div>
+<div class="sub-menu-inner">
+<ul class="level0">
+<li class="col-1-1">
+<ul class="level0">
+<li class="level1 nav-2-24">
+<a href="http://www.papyrusonline.com/greeting-cards.html">
+<span>View All</span>
+</a>
+</li><li class="level1 nav-2-25">
+<a href="http://www.papyrusonline.com/greeting-cards.html?dir=asc&amp;order=num_sold">
+<span>Best Sellers</span>
+</a>
+</li><li class="level1 nav-2-26 last">
+<a href="http://www.papyrusonline.com/greeting-cards.html?dir=asc&amp;order=entity_id">
+<span>New Arrivals</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="col-1-2">
+<ul class="level0">
+<li class="level1 nav-2-1 first featured">
+<a href="http://www.papyrusonline.com/greeting-cards/passover.html">
+<span>Passover</span>
+</a>
+</li><li class="level1 nav-2-2 featured">
+<a href="http://www.papyrusonline.com/greeting-cards/easter-cards.html">
+<span>Easter</span>
+</a>
+</li><li class="level1 nav-2-3 featured">
+<a href="http://www.papyrusonline.com/greeting-cards/admin-professionals-day.html">
+<span>Admin Professionals Day</span>
+</a>
+</li><li class="level1 nav-2-4 featured">
+<a href="http://www.papyrusonline.com/greeting-cards/mother-s-day.html">
+<span>Mother's Day</span>
+</a>
+</li><li class="level1 nav-2-5 parent">
+<a href="http://www.papyrusonline.com/greeting-cards/birthday-cards.html">
+<span>Birthday</span>
+</a>
+</li><li class="level1 nav-2-6">
+<a href="http://www.papyrusonline.com/greeting-cards/wedding.html">
+<span>Wedding</span>
+</a>
+</li><li class="level1 nav-2-7">
+<a href="http://www.papyrusonline.com/greeting-cards/anniversary.html">
+<span>Anniversary</span>
+</a>
+</li><li class="level1 nav-2-8">
+<a href="http://www.papyrusonline.com/greeting-cards/bridal-shower.html">
+<span>Bridal Shower</span>
+</a>
+</li><li class="level1 nav-2-9">
+<a href="http://www.papyrusonline.com/greeting-cards/engagement.html">
+<span>Engagement</span>
+</a>
+</li><li class="level1 nav-2-10">
+<a href="http://www.papyrusonline.com/greeting-cards/friendship.html">
+<span>Friendship</span>
+</a>
+</li><li class="level1 nav-2-11">
+<a href="http://www.papyrusonline.com/greeting-cards/thank-you-cards.html">
+<span>Thank You</span>
+</a>
+</li><li class="level1 nav-2-12">
+<a href="http://www.papyrusonline.com/greeting-cards/love.html">
+<span>Love</span>
+</a>
+</li><li class="level1 nav-2-13 parent">
+<a href="http://www.papyrusonline.com/greeting-cards/baby.html">
+<span>Baby</span>
+</a>
+</li><li class="level1 nav-2-14">
+<a href="http://www.papyrusonline.com/greeting-cards/blank-inside-greeting-cards.html">
+<span>Blank Inside</span>
+</a>
+</li><li class="level1 nav-2-15">
+<a href="http://www.papyrusonline.com/greeting-cards/congratulations.html">
+<span>Congratulations</span>
+</a>
+</li><li class="level1 nav-2-16 parent">
+<a href="http://www.papyrusonline.com/greeting-cards/religious.html">
+<span>Religious</span>
+</a>
+</li><li class="level1 nav-2-17">
+<a href="http://www.papyrusonline.com/greeting-cards/sympathy-cards.html">
+<span>Sympathy</span>
+</a>
+</li><li class="level1 nav-2-18">
+<a href="http://www.papyrusonline.com/greeting-cards/get-well.html">
+<span>Get Well</span>
+</a>
+</li><li class="level1 nav-2-19">
+<a href="http://www.papyrusonline.com/greeting-cards/retirement.html">
+<span>Retirement</span>
+</a>
+</li><li class="level1 nav-2-20">
+<a href="http://www.papyrusonline.com/greeting-cards/new-home.html">
+<span>New Home</span>
+</a>
+</li><li class="level1 nav-2-21">
+<a href="http://www.papyrusonline.com/greeting-cards/goodbye-good-luck.html">
+<span>Goodbye &amp; Good Luck</span>
+</a>
+</li><li class="level1 nav-2-22">
+<a href="http://www.papyrusonline.com/greeting-cards/recycled.html">
+<span>Recycled</span>
+</a>
+</li><li class="level1 nav-2-23">
+<a href="http://www.papyrusonline.com/greeting-cards/sound-cards.html">
+<span>Sound Cards</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clr clearer"><!-- ie6 issue to put comment --></div>
+</div>
+</div>
+</li><li class="level0 nav-3 level-top parent">
+<a href="http://www.papyrusonline.com/stationery.html" class="level-top">
+<span>Stationery</span>
+</a>
+<div class="sub-menu">
+<div class="nav-arrow"><!-- ie6 --></div>
+<div class="sub-menu-inner">
+<ul class="level0">
+<li class="col-1-1">
+<ul class="level0">
+<li class="level1 nav-3-10">
+<a href="http://www.papyrusonline.com/stationery.html">
+<span>View All</span>
+</a>
+</li><li class="level1 nav-3-11">
+<a href="http://www.papyrusonline.com/stationery.html?dir=asc&amp;order=num_sold">
+<span>Best Sellers</span>
+</a>
+</li><li class="level1 nav-3-12 last">
+<a href="http://www.papyrusonline.com/stationery.html?dir=asc&amp;order=entity_id">
+<span>New Arrivals</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="col-1-2">
+<ul class="level0">
+<li class="level1 nav-3-1 first featured">
+<a href="http://www.papyrusonline.com/stationery/taylor-swift-stationery.html">
+<span>Taylor Swift Collection</span>
+</a>
+</li><li class="level1 nav-3-2">
+<a href="http://www.papyrusonline.com/stationery/boxed-note-cards.html">
+<span>Boxed Notes</span>
+</a>
+</li><li class="level1 nav-3-3">
+<a href="http://www.papyrusonline.com/stationery/boxed-thank-you-cards.html">
+<span>Boxed Thank You</span>
+</a>
+</li><li class="level1 nav-3-4">
+<a href="http://www.papyrusonline.com/stationery/boxed-flat-note-cards.html">
+<span>Flat Cards</span>
+</a>
+</li><li class="level1 nav-3-5">
+<a href="http://www.papyrusonline.com/stationery/gift-sets.html">
+<span>Gift Sets</span>
+</a>
+</li><li class="level1 nav-3-6">
+<a href="http://www.papyrusonline.com/stationery/writing-sheets.html">
+<span>Writing Sheets</span>
+</a>
+</li><li class="level1 nav-3-7">
+<a href="http://www.papyrusonline.com/stationery/envelopes.html">
+<span>Envelopes</span>
+</a>
+</li><li class="level1 nav-3-8">
+<a href="http://www.papyrusonline.com/stationery/notepads.html">
+<span>Notepads</span>
+</a>
+</li><li class="level1 nav-3-9">
+<a href="http://www.papyrusonline.com/stationery/recycled.html">
+<span>Recycled</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clr clearer"><!-- ie6 issue to put comment --></div>
+</div>
+</div>
+</li><li class="level0 nav-4 level-top parent">
+<a href="http://www.papyrusonline.com/invitations-accessories.html" class="level-top">
+<span>Invitations &amp; Accessories</span>
+</a>
+<div class="sub-menu">
+<div class="nav-arrow"><!-- ie6 --></div>
+<div class="sub-menu-inner">
+<ul class="level0">
+<li class="col-1-1">
+<ul class="level0">
+<li class="level1 nav-4-13">
+<a href="http://www.papyrusonline.com/invitations-accessories.html">
+<span>View All</span>
+</a>
+</li><li class="level1 nav-4-14">
+<a href="http://www.papyrusonline.com/invitations-accessories.html?dir=asc&amp;order=num_sold">
+<span>Best Sellers</span>
+</a>
+</li><li class="level1 nav-4-15">
+<a href="http://www.papyrusonline.com/invitations-accessories.html?dir=asc&amp;order=entity_id">
+<span>New Arrivals</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="col-1-2">
+<ul class="level0">
+<li class="level1 nav-4-1 first">
+<a href="http://www.papyrusonline.com/invitations-accessories/fill-in-invitations.html">
+<span>Fill-In Invitations</span>
+</a>
+</li><li class="level1 nav-4-2">
+<a href="http://www.papyrusonline.com/invitations-accessories/print-at-home-invitations.html">
+<span>Print at Home</span>
+</a>
+</li><li class="level1 nav-4-3">
+<a href="http://www.papyrusonline.com/invitations-accessories/matching-thank-you-notes.html">
+<span>Matching Thank You Notes</span>
+</a>
+</li><li class="level1 nav-4-4">
+<a href="http://www.papyrusonline.com/invitations-accessories/all-occasion-invitations.html">
+<span>All Occasion Invitations</span>
+</a>
+</li><li class="level1 nav-4-5">
+<a href="http://www.papyrusonline.com/invitations-accessories/bachelorette-parties.html">
+<span>Bachelorette Parties</span>
+</a>
+</li><li class="level1 nav-4-6 parent">
+<a href="http://www.papyrusonline.com/invitations-accessories/birthday-invitations.html">
+<span>Birthday Invitations</span>
+</a>
+</li><li class="level1 nav-4-7">
+<a href="http://www.papyrusonline.com/invitations-accessories/graduation-invitations.html">
+<span>Graduation Invitations</span>
+</a>
+</li><li class="level1 nav-4-8">
+<a href="http://www.papyrusonline.com/invitations-accessories/kids-party-invitations.html">
+<span>Kid's Party Invitations</span>
+</a>
+</li><li class="level1 nav-4-9">
+<a href="http://www.papyrusonline.com/invitations-accessories/moving-announcements.html">
+<span>Moving Announcements</span>
+</a>
+</li><li class="level1 nav-4-10">
+<a href="http://www.papyrusonline.com/invitations-accessories/new-baby-invitations.html">
+<span>New Baby Invitations</span>
+</a>
+</li><li class="level1 nav-4-11">
+<a href="http://www.papyrusonline.com/invitations-accessories/party-invitations.html">
+<span>Party Invitations</span>
+</a>
+</li><li class="level1 nav-4-12">
+<a href="http://www.papyrusonline.com/invitations-accessories/wedding-invitations.html">
+<span>Wedding Invitations</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clr clearer"><!-- ie6 issue to put comment --></div>
+</div>
+</div>
+</li><li class="level0 nav-5 level-top parent">
+<a href="http://www.papyrusonline.com/gifts.html" class="level-top">
+<span>Gifts</span>
+</a>
+<div class="sub-menu">
+<div class="nav-arrow"><!-- ie6 --></div>
+<div class="sub-menu-inner">
+<ul class="level0">
+<li class="col-1-1">
+<ul class="level0">
+<li class="level1 nav-5-21">
+<a href="http://www.papyrusonline.com/gifts.html">
+<span>View All</span>
+</a>
+</li><li class="level1 nav-5-22">
+<a href="http://www.papyrusonline.com/gifts.html?dir=asc&amp;order=num_sold">
+<span>Best Sellers</span>
+</a>
+</li><li class="level1 nav-5-23 last">
+<a href="http://www.papyrusonline.com/gifts.html?dir=asc&amp;order=entity_id">
+<span>New Arrivals</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="col-1-2">
+<ul class="level0">
+<li class="level1 nav-5-1 first featured">
+<a href="http://www.papyrusonline.com/gifts/easter-gifts.html">
+<span>Easter</span>
+</a>
+</li><li class="level1 nav-5-2 featured">
+<a href="http://www.papyrusonline.com/gifts/mother-s-day.html">
+<span>Mother's Day</span>
+</a>
+</li><li class="level1 nav-5-3 featured">
+<a href="http://www.papyrusonline.com/gifts/taylor-swift-gifts.html">
+<span>Taylor Swift Collection</span>
+</a>
+</li><li class="level1 nav-5-4">
+<a href="http://www.papyrusonline.com/gifts/agendas.html">
+<span>Agendas</span>
+</a>
+</li><li class="level1 nav-5-5">
+<a href="http://www.papyrusonline.com/gifts/albums.html">
+<span>Albums</span>
+</a>
+</li><li class="level1 nav-5-6">
+<a href="http://www.papyrusonline.com/gifts/art.html">
+<span>Art</span>
+</a>
+</li><li class="level1 nav-5-7">
+<a href="http://www.papyrusonline.com/gifts/bookmarks.html">
+<span>Bookmarks</span>
+</a>
+</li><li class="level1 nav-5-8">
+<a href="http://www.papyrusonline.com/gifts/candles.html">
+<span>Candles</span>
+</a>
+</li><li class="level1 nav-5-9">
+<a href="http://www.papyrusonline.com/gifts/drinkware.html">
+<span>Drinkware</span>
+</a>
+</li><li class="level1 nav-5-10">
+<a href="http://www.papyrusonline.com/gifts/entertaining.html">
+<span>Entertaining</span>
+</a>
+</li><li class="level1 nav-5-11">
+<a href="http://www.papyrusonline.com/gifts/photo-frames.html">
+<span>Frames</span>
+</a>
+</li><li class="level1 nav-5-12">
+<a href="http://www.papyrusonline.com/gifts/guestbooks.html">
+<span>Guestbooks</span>
+</a>
+</li><li class="level1 nav-5-13">
+<a href="http://www.papyrusonline.com/gifts/journals.html">
+<span>Journals</span>
+</a>
+</li><li class="level1 nav-5-14">
+<a href="http://www.papyrusonline.com/gifts/keychains.html">
+<span>Keychains</span>
+</a>
+</li><li class="level1 nav-5-15">
+<a href="http://www.papyrusonline.com/gifts/plush.html">
+<span>Plush</span>
+</a>
+</li><li class="level1 nav-5-16 parent">
+<a href="http://www.papyrusonline.com/gifts/toys.html">
+<span>Toys</span>
+</a>
+</li><li class="level1 nav-5-17">
+<a href="http://www.papyrusonline.com/gifts/travel.html">
+<span>Travel</span>
+</a>
+</li><li class="level1 nav-5-18">
+<a href="http://www.papyrusonline.com/gifts/trinket-boxes.html">
+<span>Trinket Boxes</span>
+</a>
+</li><li class="level1 nav-5-19">
+<a href="http://www.papyrusonline.com/gifts/women-s-accessories.html">
+<span>Women's Accessories</span>
+</a>
+</li><li class="level1 nav-5-20">
+<a href="http://www.papyrusonline.com/gifts/writing.html">
+<span>Writing</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clr clearer"><!-- ie6 issue to put comment --></div>
+</div>
+</div>
+</li><li class="level0 nav-6 level-top parent">
+<a href="http://www.papyrusonline.com/gift-wrap.html" class="level-top">
+<span>Gift Wrap</span>
+</a>
+<div class="sub-menu">
+<div class="nav-arrow"><!-- ie6 --></div>
+<div class="sub-menu-inner">
+<ul class="level0">
+<li class="col-1-1">
+<ul class="level0">
+<li class="level1 nav-6-10">
+<a href="http://www.papyrusonline.com/gift-wrap.html">
+<span>View All</span>
+</a>
+</li><li class="level1 nav-6-11">
+<a href="http://www.papyrusonline.com/gift-wrap.html?dir=asc&amp;order=num_sold">
+<span>Best Sellers</span>
+</a>
+</li><li class="level1 nav-6-12 last">
+<a href="http://www.papyrusonline.com/gift-wrap.html?dir=asc&amp;order=entity_id">
+<span>New Arrivals</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="col-1-2">
+<ul class="level0">
+<li class="level1 nav-6-1 first featured">
+<a href="http://www.papyrusonline.com/gift-wrap/easter-gift-wrap.html">
+<span>Easter</span>
+</a>
+</li><li class="level1 nav-6-2 featured">
+<a href="http://www.papyrusonline.com/gift-wrap/taylor-swift-gift-wrap.html">
+<span>Taylor Swift Collection</span>
+</a>
+</li><li class="level1 nav-6-3">
+<a href="http://www.papyrusonline.com/gift-wrap/gift-bags.html">
+<span>Gift Bags</span>
+</a>
+</li><li class="level1 nav-6-4">
+<a href="http://www.papyrusonline.com/gift-wrap/gift-enclosures.html">
+<span>Gift Enclosures</span>
+</a>
+</li><li class="level1 nav-6-5">
+<a href="http://www.papyrusonline.com/gift-wrap/labels.html">
+<span>Labels</span>
+</a>
+</li><li class="level1 nav-6-6">
+<a href="http://www.papyrusonline.com/gift-wrap/ribbon-bows.html">
+<span>Ribbon &amp; Bows</span>
+</a>
+</li><li class="level1 nav-6-7">
+<a href="http://www.papyrusonline.com/gift-wrap/treat-bags.html">
+<span>Treat Bags</span>
+</a>
+</li><li class="level1 nav-6-8">
+<a href="http://www.papyrusonline.com/gift-wrap/wrapping-paper.html">
+<span>Wrapping Paper</span>
+</a>
+</li><li class="level1 nav-6-9">
+<a href="http://www.papyrusonline.com/gift-wrap/recycled.html">
+<span>Recycled</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clr clearer"><!-- ie6 issue to put comment --></div>
+</div>
+</div>
+</li><li class="level0 nav-7 level-top last parent">
+<a href="http://www.papyrusonline.com/sale.html" class="level-top">
+<span>Sale</span>
+</a>
+<div class="sub-menu">
+<div class="nav-arrow"><!-- ie6 --></div>
+<div class="sub-menu-inner">
+<ul class="level0">
+<li class="col-1-1">
+<ul class="level0">
+<li class="level1 nav-7-7">
+<a href="http://www.papyrusonline.com/sale.html">
+<span>View All</span>
+</a>
+</li><li class="level1 nav-7-8">
+<a href="http://www.papyrusonline.com/sale.html?dir=asc&amp;order=num_sold">
+<span>Best Sellers</span>
+</a>
+</li><li class="level1 nav-7-9 last">
+<a href="http://www.papyrusonline.com/sale.html?dir=asc&amp;order=entity_id">
+<span>New Arrivals</span>
+</a>
+</li>
+</ul>
+</li>
+<li class="col-1-2">
+<ul class="level0">
+<li class="level1 nav-7-1 first featured">
+<a href="http://www.papyrusonline.com/sale/valentines-day.html">
+<span>Valentine's Day</span>
+</a>
+</li><li class="level1 nav-7-2 parent featured">
+<a href="http://www.papyrusonline.com/sale/holiday-greeting-cards.html">
+<span>Christmas</span>
+</a>
+</li><li class="level1 nav-7-3">
+<a href="http://www.papyrusonline.com/sale/stationery.html">
+<span>Stationery</span>
+</a>
+</li><li class="level1 nav-7-4">
+<a href="http://www.papyrusonline.com/sale/invitations-accessories.html">
+<span>Invitations &amp; Accessories</span>
+</a>
+</li><li class="level1 nav-7-5">
+<a href="http://www.papyrusonline.com/sale/gifts.html">
+<span>Everyday Gifts</span>
+</a>
+</li><li class="level1 nav-7-6">
+<a href="http://www.papyrusonline.com/sale/gifts-for-children.html">
+<span>Gifts for Children</span>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+<div class="clr clearer"><!-- ie6 issue to put comment --></div>
+</div>
+</div>
+</li>	</ul>
+</div>
+				<div class="clr"><!-- ie6 issue to put comment --></div>
+			</div>
+		</div><!-- //header-inner -->		
+	</div><!-- //header -->
+</div><!-- //header-holder -->			<div id="container-holder">
+				<div id="container" class="width980 col2-left-layout">
+					<div id="container-inner">
+						
+<div class="breadcrumbs">
+    <ul>
+                    <li class="home">
+                            <a href="http://www.papyrusonline.com/" title="Go to Home Page">Home</a>
+                                        <span>&nbsp;›&nbsp;</span>
+                        </li>
+                    <li class="cms_page">
+                            <!-- active or last-->
+				Privacy &amp; Security                                    </li>
+            </ul>
+	<div class="clr"><!-- ie6 issue to put comment --></div>
 
 
-	<tr valign="top">
-	<!--heightdef3  height=""-->
-		<td height="480" width="768" class="contentbg"><div>
 
+</div><!-- //breadcrumbs -->
+						<div id="col-left" class="col-left sidebar">
+							<div id="col-left-inner">
+								<div class="block cms-menu last-block">
+	<ul class="cms-menu"><li class="parent"><a href="http://www.papyrusonline.com/customer-services"><span>Customer Service</span></a><ul><li><a href="http://www.papyrusonline.com/customer-services/customer-service"><span>Customer Service</span></a></li><li><a href="http://www.papyrusonline.com/customer-services/faq"><span>FAQ</span></a></li><li><strong>Privacy &amp; Security</strong></li><li><a href="http://www.papyrusonline.com/customer-services/returns"><span>Returns</span></a></li><li><a href="http://www.papyrusonline.com/customer-services/payment-pricing"><span>Payment &amp; Pricing</span></a></li><li><a href="http://www.papyrusonline.com/customer-services/perfect-card"><span>Perfect Card</span></a></li></ul></li></ul></div>    	
+							</div>
+						</div>
+						<div id="main">
+							<div id="main-inner">
+								<a name="top"></a>
+																<div id="main-content">
+									    <div class="page-title">
+        <h1 class="title">Privacy &amp; Security</h1>
+    </div>
+<div class="std"><p><strong>Thank you for visiting the Papyrus web site.</strong> Papyrus takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our web site, we have developed a privacy policy to help our visitors understand the terms and conditions surrounding the collection and use of information. This policy only applies to visitors accessing our web site from the United States. By visiting our web site you are accepting the practices described in this policy. </p>
 
+<hr>
 
-  <table border="0" width="768" cellpadding="0" cellspacing="0">
-      <tbody><tr valign="top">
-              <td width="166">
-              	<table border="0" cellspacing="0" cellpadding="0">
-                	<tbody><tr>
-	                  <td valign="bottom">
-					  			<img src="/images/en_US/local/headers/main/privacy_mhd.gif" border="0" alt="Privacy &amp; Security">
+<h4>Guiding Principles </h4>
+
+<ul>
+<li><p>Papyrus collects information online primarily to provide our visitors with a more relevant experience on our web site. When doing so, we will make every reasonable effort to avoid excessive or irrelevant collection of data.</p></li>
+<li><p>Papyrus will take reasonable physical, electronic and managerial measures to safeguard and secure any information you provide to us (e.g., data will be stored in protected databases on secured servers with restricted access).</p></li>
+<li><p>Papyrus will honor its customers’ requests to not receive future communication from Papyrus</p></li>
+</ul>
+
+<h4>Information Collected</h4>
+
+<p>Generally, you may visit the Papyrus web site without revealing personal information about yourself. When you visit our web site, however, we may track your Internet domain address, any search engine you may have used to locate the web site, and we may track certain navigational information about where you go on our web site. This information enables us to determine which areas of the web site are most frequently visited and helps us tailor the web site to the needs and interests of our online visitors.</p>
+
+<p>You will remain anonymous unless you specifically request otherwise. When you purchase a product online, we ask for your name, mailing address, phone number, and your credit card number to complete your order. In some cases, we may use this information to personalize your future experience with Papyrus. For example, if your zip code indicates you live near one of our stores, we may notify you about an upcoming event (such as a sale or workshop). If you do not wish to be contacted, please let us know and we will remove your name from our email list immediately (see Opt-Out Procedures below).</p>
+
+<h4>Disclosure of Personal Information</h4>
+
+<p>Papyrus may disclose specific personal information based on a good-faith belief that such disclosure is necessary to comply with or conform to the law (subpoenas, warrants) or that such disclosure is necessary to protect the users of the web site or the public. </p>
+
+<p>Further, in the event Papyrus sells or transfers a particular portion of its business assets, consumer information may be one of the business assets transferred as part of the transaction. If substantially all of the assets of Papyrus are acquired, consumer information may be transferred as part of the acquisition.</p>
+
+<h4>How we Communicate with You</h4>
+
+<p>Papyrus may send communications to you on the basis of the information you provide to us through email or postal mail. You may always specifically request not to be contacted (see Opt-Out Procedures below). </p>
+
+<h4>Protect Children Accessing this Web Site</h4>
+
+<p>Papyrus strives to protect the privacy of children. Children under the age of 13 should obtain parental consent before accessing this web site. We never intend to collect personal information from children under 13.</p>
+
+<h4>Passwords</h4>
+
+<p>The personal data record created through your registration with this web site can only be accessed with the unique password associated with that record. To protect the integrity of the information contained in this record you should not disclose or otherwise reveal your password to third parties. </p>
+
+<h4>Opt-Out Procedures</h4>
+
+<p>You may always opt-out of receiving future communications from Papyrus by either (a) clicking the “Unsubscribe” link at the bottom of the email message, or (b) making a request through customer service. If you request not to receive information from Papyrus, it may take several weeks to have your name removed from our files. Your request not to receive information will not preclude us from contacting you regarding a question we have about your purchase. </p>
+
+<h4>Use of Cookies</h4>
+
+<p>Papyrus may use a browser feature known as a “cookie.” Cookies are small text files placed on your hard drive that allow Papyrus to provide you with a customized browsing experience. Papyrus uses cookies to provide you with the convenience of not having to reenter information, such as coupon codes, user ids and passwords multiples times during your visits to the Papyrus web site.</p>
+
+<p>Cookies can also be used to help Papyrus provide you with information targeted to your interests, based upon your prior browsing on the web site. The “help” section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of the cookies completely. We recommend against disabling cookies however, as it will be detrimental to proper website functionality.</p>
+
+<h4>Links to Third Party Sites</h4>
+
+<p>The Papyrus web site may contain links to other sites. Papyrus is not responsible for the privacy practices or the content of such sites. To help ensure your privacy, Papyrus recommends that you review the privacy policy of any site you visit. </p>
+
+<h4>Accessing the Papyrus Web Site from Outside the United States</h4>
+
+<p>If you are visiting this web site from a location outside the United States, your connection will be through and to servers located in the United States. Any information you provide during your visit will be processed and maintained on our web server and other internal systems located within the United States. </p>
+
+<h4>Security</h4>
+
+<p>We use state-of-the-art software to encrypt your credit card numbers and personal information automatically while they are in transit over the Internet, preventing a third party from viewing this information. The instant you reach our checkout page, your browser should indicate that you have entered our secure shopping zone. Each web browser offers a different security indicator—please refer to your browser’s help section to learn more.  If you do not see any secure shopping indicators, please call our customer service number at 1-800-789-1649 to complete your transaction.</p>
+
+<p>An internal security system, known as a firewall, protects information about our customers from being viewed by a third party. Information access is restricted within our offices as well. Personal information collected about our customers is only viewable by employees who need the information to perform a specific job (such as a billing clerk or customer service representative), and the personal information is protected by a random password. </p>
+
+<p>Unfortunately, however, due to the nature of the Internet the privacy and security of every transmission over the Internet cannot be absolutely guaranteed. While we strive to protect your personal information, we cannot guarantee the privacy and security of the information you transmit to our web site. </p>
+
+<h4>Policy Changes</h4>
+
+<p>We reserve the right to change, modify, or amend this policy at any time. If amended, the effective date of the policy amendment will always be posted at the beginning of this policy. The new policy will replace any prior policies to the extent that there are any inconsistencies. Use of this web site after modification, implies that you consent to the policy as amended. </p>
+
+<h4>Your Feedback</h4>
+
+<p>If you have questions concerning this privacy policy or the practices of these sites, you may contact us at: <a href="http://www.papyrusonline.com/customer-services">customerservice[at]papyrusonline.com</a></p>
+
+<a href="#top">Back to top <sup>Λ</sup></a></div>								</div>
+							</div><!-- //main-inner -->
+						</div><!-- //main -->
+						<div class="clr"><!-- ie6 issue to put comment --></div>
+					</div><!-- //container-inner -->
+				</div><!-- //container -->
+			</div><!-- //container-holder -->
+			<div id="footer-holder">
+	<div id="footer" class="width980">
+		<div id="footer-inner">
+			<div id="footer-col-1">
+				<div id="footer-nav">
 								
-	                  </td>
-	                </tr>
-                     <tr>
-	                      <td><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="166" height="1" border="0"></td>
-	                 </tr>
-	
-	          
-	                <tr>
-	                  <td>
+			<a href="http://www.papyrusonline.com/i-occasions.html">Occasions</a> &nbsp;
 
+					
+			<a href="http://www.papyrusonline.com/greeting-cards.html">Greeting Cards</a> &nbsp;
 
+					
+			<a href="http://www.papyrusonline.com/stationery.html">Stationery</a> &nbsp;
 
+					
+			<a href="http://www.papyrusonline.com/invitations-accessories.html">Invitations &amp; Accessories</a> &nbsp;
 
+					
+			<a href="http://www.papyrusonline.com/gifts.html">Gifts</a> &nbsp;
 
+					
+			<a href="http://www.papyrusonline.com/gift-wrap.html">Gift Wrap</a> &nbsp;
 
+					
+			<a href="http://www.papyrusonline.com/sale.html">Sale</a> &nbsp;
 
+			
 
-
-
-
-
-
-
-
-
-
-
-
-<script>
-  var aSubCatImgs = new Array();
-  
-  preload(aSubCatImgs);
-
-function catLinkPopUp(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "');");
-}
-		
-</script>
-
-<table border="0" cellspacing="0" cellpadding="0">
-  
-</table>
-</td>
-	                </tr>
-	             </tbody></table>
-	           </td>
-	              <td>
-						<table border="0" cellspacing="0" cellpadding="0">
-	              
-	                  		<tbody><tr>
-								<td colspan="4" class="default"><div class="default" style="margin-top:20px;">	Thank you for visiting the Papyrus web site. Papyrus takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our web site, we have developed a privacy policy to help our visitors understand the terms and conditions surrounding the collection and use of information. This policy only applies to visitors accessing our web site from the United States. By visiting our web site you are accepting the practices described in this policy. <br><br>      		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Guiding Principles</div>        <ul>          <li>Papyrus collects information online primarily to provide our visitors with a more relevant experience on our web site. When doing so, we will   make every reasonable effort to avoid excessive or irrelevant collection of   data. </li>          <li>Papyrus will take reasonable physical, electronic and managerial measures to safeguard and secure any information you provide to us (e.g., data   will be stored in protected databases on secured servers with restricted   access). </li>          <li>Papyrus will honor its customers’ requests to not receive future communication from Papyrus <!--and will never share, sell, or rent your   personal email address.--> </li>        </ul>      		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Information Collected</div>		<div>		Generally, you may visit the Papyrus web site without revealing personal information about yourself. When you visit our web site,   however, we may track your Internet domain address, any search engine you may   have used to locate the web site, and we may track certain navigational   information about where you go on our web site. This information enables us to   determine which areas of the web site are most frequently visited and helps us   tailor the web site to the needs and interests of our online visitors. You will   remain anonymous unless you specifically request otherwise. When you purchase a   product online, we ask for your name, mailing address, phone number, and your   credit card number to complete your order. In some cases, we may use this   information to personalize your future experience with Papyrus. For   example, if your zip code indicates you live near one of our stores, we may notify you about an upcoming event (such as a sale or workshop). If you do not wish to be contacted, please let us know and we will remove your name from our email list immediately (see Opt-Out Procedures below). <br>	  	</div>      		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Disclosure of Personal Information</div>		<div>		We occasionally share the postal addresses of customers with our affiliated companies and select   partner companies whom we deem trustworthy. These partners may contact you with   products or services that may be of interest to you. <!--Your personal email address   will not be shared, sold, or rented. If you do not want Papyrus to   share your postal address with our select affiliates and partners, you may   request otherwise (see Opt-Out Procedures below).--> If the policy changes, Papyrus will notify those customers who have opted in of the change and   provide them with the opportunity to opt out. <br><br>      	Papyrus may disclose specific personal information based on a good-faith belief that such   disclosure is necessary to comply with or conform to the law (subpoenas,   warrants) or that such disclosure is necessary to protect the users of the web   site or the public. <br><br>      	If you shop at one of our affiliates, we   share information so that our affiliates can communicate with you by postal mail   about their products or services that that may be of interest to you. Our affiliates have privacy policies that are similar and consistent with our own. <br>      	<br>      	Further, in the event Papyrus sells or transfers a particular   portion of its business assets, consumer information may be one of the business   assets transferred as part of the transaction. If substantially all of the   assets of Papyrus are acquired, consumer information may be   transferred as part of the acquisition. 	  	</div>      		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">How we Communicate with You</div>		<div>      	Papyrus may send communications to you   on the basis of the information you provide to us through email or postal mail.   You may always specifically request not to be contacted (see Opt-Out Procedures   below). 	  	</div>      		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Protect Children Accessing this Web   Site</div>		<div>      	Papyrus strives to protect the privacy of children.   Children under the age of 13 should obtain parental consent before accessing   this web site. We never intend to collect personal information from children under 13. 	  	</div>      		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Passwords</div>		<div>      	The personal data record created through your registration with this web site can only be accessed   with the unique password associated with that record. To protect the integrity   of the information contained in this record you should not disclose or otherwise   reveal your password to third parties. 	  	</div>      		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Opt-Out Procedures</div>		<div>      	You may always opt-out of receiving future communications from Papyrus by either (a) replying to an email message you receive   and placing the word “unlist” in the subject line, or (b) making a request   through the web site. <!--You may also request that we do not share your postal   address with our select partners. -->If you request not to receive information from   Papyrus, it may take several weeks to have your name removed from our   files. Your request not to receive information will not preclude us from   contacting you regarding a question we have about your purchase. 	  	</div>     		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Use of Cookies</div>		<div>      	Papyrus may use a browser feature known as a “cookie.” Cookies are small files placed on your hard drive   that assist Papyrus in providing you with a customized browsing   experience. Papyrus uses cookies to provide you with the convenience   of not having to reenter information, such as user Ids and passwords, multiples   times during your visits to the Papyrus web site. Cookies can also be   used to help Papyrus provide you with information targeted to your   interests, based upon your prior browsing on the web site. The “help” section of   the toolbar on most browsers will inform you on how to prevent your browser from   accepting new cookies, how to have the browser notify you upon the receipt of a   new cookie, or how to disable the use of the cookies completely.	  	</div>      		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Links to Third Party Sites</div>		<div>      	The Papyrus web site may contain links to other sites. Papyrus is not responsible for the privacy practices or the content of such sites. To help ensure your privacy,   Papyrus recommends that you review the privacy policy of any site you   visit. 	  	</div>      		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Accessing the Papyrus Web   Site from Outside the United States</div>		<div>      	If you are visiting this web site from a location outside the United States, your connection will be through and   to servers located in the United States. Any information you provide during your   visit will be processed and maintained on our web server and other internal   systems located within the United States. 	  	</div>      		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Security</div>		<div>      	We use state-of-the-art software to encrypt your credit card numbers and personal information automatically while they are   in transit over the Internet, preventing a third party from viewing this   information. The instant you reach our checkout page, a padlock symbol at the   bottom of your screen indicates that you have entered our secure shopping zone.   If you do not see the padlock symbol at the bottom of your screen, please call   our customer service number at 1-800-789-1649 to complete your transaction. An   internal security system, known as a firewall, protects information about our   customers from being viewed by a third party. Information access is restricted   within our offices as well. Personal information collected about our customers   is only viewable by employees who need the information to perform a specific job   (such as a billing clerk or customer service representative), and the personal   information is protected by a random password. <br><br>      	Unfortunately, however, due to the nature of the Internet the privacy and security of every transmission over the Internet cannot be absolutely guaranteed. While we strive to protect   your personal information, we cannot guarantee the privacy and security of the   information you transmit to our web site.	  	</div><!--      		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Correcting, Updating, and Removing Information </div>		<div>      	Papyrus supports the individual&rsquo;s right to protect their privacy. Accordingly, personal information you provide us will be made available for your   review. You may update, modify, or remove your personal information any time by   any of the following methods:         <table cellspacing="0" cellpadding="2" border="0">            <tr valign="top">              <td>By Email:</td>              <td><a href="mailto:customerservice@papyrusonline.com">customerservice@papyrusonline.com</a></td>            </tr>            <tr valign="top">              <td>By Phone:</td>              <td>1-800-789-1649</td>            </tr>            <tr valign="top">              <td>By Regular U.S. Mail:</td>              <td>Papyrus Customer Service, 500 Chadbourne Rd, Box 6030, Fairfield, CA 94533</td>            </tr>        </table>-->		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Policy Changes</div>		<div>      	We reserve the right to change, modify, or amend this policy at any time. If amended, the effective date of the policy amendment will always   be posted at the beginning of this policy. The new policy will replace any prior   policies to the extent that there are any inconsistencies. Use of this web site   after modification, implies that you consent to the policy as amended.	  	</div>      		<div class="defaultsubheader" style="margin:10px 0px 5px 0px;">Your Feedback</div>		<div>      	If you have questions concerning this privacy policy or the practices of these sites, you may contact us at: <br>        <table cellspacing="0" cellpadding="2" border="0">            <tbody><tr valign="top">              <td>By Email:</td>              <td><a href="mailto:customerservice@papyrusonline.com">customerservice@papyrusonline.com</a></td>            </tr>            <tr valign="top">              <td>By Phone:</td>              <td>1-800-789-1649</td>            </tr>            <tr valign="top">              <td>By Regular U.S. Mail:</td>              <td>Papyrus Customer Service, 500 Chadbourne Rd, Box 6030, Fairfield, CA 94533</td>            </tr>        </tbody></table>	  	</div>		  </div>  </td>
-							</tr>
-							<tr>
-		              
-		                      <td class="default"></td>
-		                      <td class="default"></td>
-		                      <td class="default"></td>
-<!--		                      <td class=default></td>
--->							</tr>
-		                 </tbody></table>
-	                </td>
-		         </tr>
-	         </tbody></table>
-      </div></td>
-	</tr>
-
-
-	<tr valign="bottom">
-		<td align="center" class="navfooterbg"><!--BottomNav Start-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script language="JavaScript">
-<!-- Begin
-function popUp(URL) {
-day = new Date();
-id = day.getTime();
-eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=700,height=700,left = 262,top = 134');");
-}
-// End -->
-</script>
-<table class="footer" width="768" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td colspan="2" class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="768" height="18" border="0"></td>
-</tr>
-<tr><td><table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr><td><a href="/account.do?method=start">my account</a></td>
-			<td class="dot"><img src="/images/en_US/global/globalgraphics/footerbullet.gif" border="0"></td>
-			<td><a href="/category/customer+service.do">customer service</a></td>
-			<td class="dot"><img src="/images/en_US/global/globalgraphics/footerbullet.gif" border="0"></td>
-			<td><a href="/category/help.do">help</a>
+				</div>
+				<div id="footer-link">
+					<a href="http://www.papyrusonline.com/customer/account">My Account</a>&nbsp;
+<a href="http://www.papyrusonline.com/wishlist">Wish List</a>&nbsp;
+<a href="http://www.papyrusonline.com/customer-services">Customer Service</a>&nbsp;
+<a href="http://www.papyrusonline.com/store-locator">Store Locator</a>&nbsp;
+<a href="http://www.papyrusonline.com/catalog/seo_sitemap/category/">Site Index</a>									</div>
+				<div id="footer-news-letter">
+					<form action="https://www.papyrusonline.com/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+	<h3 class="title">Subscribe to our email newsletter</h3>
+	<table cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+			<td>
+				<input type="text" name="email" id="newsletter" value="Enter your email address" onclick="this.value=='Enter your email address'?this.value='':''; this.style.color='#333';" onblur="this.value==''?this.value='Enter your email address':''" class="input-text required-entry validate-email">
+			</td>
+			<td>
+				<button type="submit" class="button" title="SIGN UP"><span><span>SIGN UP</span></span></button>
 			</td>
 		</tr>
-	   </tbody></table>
-	</td>
-	<td class="clearbg"><table align="right" border="0" cellspacing="0" cellpadding="0">
-		<form id="emailSignUp" method="post" action="/ancillary/emailsignup.do"></form>
-		<tbody><tr>
-			<td><img src="/images/en_US/global/globalgraphics/emailsignup.gif" border="0" alt="sign up for special offers"></td>
-			<td><input name="emailAddress" type="text" value="Enter Email Address" size="12" maxlength="100" class="navemailbox" onfocus="if(this.value=='Enter Email Address')this.value='';" onfocusout="if(this.value=='')this.value='Enter Email Address';"></td>
-			<td><input type="image" name="emailSubmit" src="/images/en_US/global/globalgraphics/emailsignup_btn.gif" border="0" alt="submit"></td>
-		</tr>
-		
-	</tbody></table></td>
-</tr>
-<tr>
-	<td colspan="2" class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="12" border="0"></td>
-</tr>
-<tr><td colspan="2"><table width="768" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr><td><a href="/category/about+papyrus.do">about us</a></td>
-			<td class="dot"><img src="/images/en_US/global/globalgraphics/footerbullet.gif" border="0"></td>
-		  <td align="center"><a href="/category/privacy+&amp;+security.do">privacy &amp; security</a></td>
-	  	    <td class="dot"><img src="/images/en_US/global/globalgraphics/footerbullet.gif" border="0"></td>
-			      
-      		<td align="center"><a href="/ancillary/sitemap.do">site map</a></td>
-	  	    <td class="dot"><img src="/images/en_US/global/globalgraphics/footerbullet.gif" border="0"></td>
-				  
-      	    <td align="center"><a href="javascript:popUp('http://www.papyrusonline2.com/store+locator/')">store locator</a></td>
-	  	    <td class="dot"><img src="/images/en_US/global/globalgraphics/footerbullet.gif" border="0"></td>
-      		<td align="center"><a href="javascript:popUp('http://www.papyrusonline2.com/reminder+service/')">reminder service</a></td>
-	  	    <td class="dot"><img src="/images/en_US/global/globalgraphics/footerbullet.gif" border="0"></td>
-      		<td align="center"><a href="/wishlist/friendfind.do?initial=true">wish list</a></td>
-	  	    <td class="dot"> <img src="/images/en_US/global/globalgraphics/footerbullet.gif" border="0"></td>
-      		<td align="right"><a href="/category/etiquette+&amp;+expertise.do">etiquette &amp; expertise</a></td>
-   </tr></tbody></table>
-   </td></tr>
-<tr>
-	<td colspan="2" class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="12" border="0"></td>
-</tr>
-
-<tr>
-	<td class="copyright" align="right" colspan="2">©2009 PAPYRUS</td>
-</tr>
-
-<tr>
-	<td colspan="2" class="clearbg"><img src="/images/en_US/global/globalgraphics/spacer01.gif" width="1" height="30" border="0"></td>
-</tr>
-</tbody></table>
-<!--BottomNav End--></td>
-	</tr>
-</tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- Omniture Reporting Support -->
-
-<!-- SiteCatalyst code version: H.1.
-Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
-<script language="JavaScript">
-function getId() {
-  return "MLPaprsprod"
-}
+	</tbody></table>
+</form>
+<script type="text/javascript">
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+//]]>
 </script>
-<script language="JavaScript" src="/omniture/s_code.js"></script><img name="s_i_MLPaprsprod" height="1" width="1" border="0" alt="" src="https://marketlive.122.2O7.net/b/ss/MLPaprsprod/1/H.1-Pdv-2/s82473280845565?[AQB]&amp;ndh=1&amp;t=30/0/2020%201%3A37%3A53%204%200&amp;ns=marketlive&amp;pageName=Product%20Groups/Privacy%20%26%20Security&amp;g=https%3A//web.archive.org/web/20090616180523id_/http%253A//www.papyrusonline.com/category/privacy%252B%2526%252Bsecurity.do&amp;cc=USD&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
-<script language="JavaScript"><!--
-s.pageName='Product Groups/Privacy & Security';
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img
-src="http://marketliveglobaldev.122.2O7.net/b/ss/marketliveglobaldev/1/H.1--NS/0"
-height="1" width="1" border="0" alt="" /></noscript>
-<!-- End, Omniture Reporting Support -->
+
+<!--
+<div id="feedback" style="display:none" class="mini-newsletter">
+    Thank you for subscribing to our newsletter!
+</div>
+<form name="newsletter-form" id="newsletter-form" onsubmit="new Ajax.Updater({success:'newsletter-form'}, 'http://www.papyrusonline.com/newsletter/subscriber/new/', {asynchronous:true, evalScripts:false, onComplete:function(request, json){Element.hide('newsletter-form');Element.show('feedback');}, onLoading:function(request, json){}, parameters:Form.serialize(this)}); return false;" action="/home/send" method="post"> 
+-->
 
 
-
-
-
-
-
-
-
-
-
+				</div>
+				<div id="footer-content">
+					<p>PAPYRUS believes that life is a celebration. Our fabulous selection of greeting cards, stationery, gift wrap, ribbon, and gifts are perfect for commemorating birthdays, anniversaries, weddings, baby showers, holidays and more. </p>
+				</div>
+			</div>
+			<div id="footer-col-2">
+				<div id="logo-footer">
+					<img src="http://www.papyrusonline.com/skin/frontend/custom/papyrus301/images/logo_footer.png" alt="" title="">
+					<p>Shop the PAPYRUS Custom Printing collection to create unique cards, invitations, and more.</p>
+					<a href="http://www.papyruscustomprinting.com/" target="_blank">Visit PAPYRUS custom printing</a>
+				</div>
+			</div>
+			<div class="clr"><!-- ie6 issue to put comment --></div>
+		</div><!-- //footer-inner -->
+	</div><!-- //footer -->
+</div><!-- //footer-holder -->			<div id="closure-holder">
+	<div id="closure" class="width980">
+		<div id="closure-inner">
+			<div id="closure-col-1">
+				<address class="copyright">© 2011 PAPYRUS</address>&nbsp;&nbsp;&nbsp;&nbsp;
+				<a href="http://www.papyrusonline.com/about-papyrus">About Papyrus</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.papyrusonline.com/customer-services/privacy-security">Privacy &amp; Security</a>							</div>
+			<div id="closure-col-2">
+				<a id="twitter-icon" href="http://twitter.com/papyrus_online" target="_blank">Follow us on</a>
+			</div>
+			<div class="clr"><!-- ie6 issue to put comment --></div>
+		</div><!-- //closure-inner -->
+	</div><!-- //closure -->
+</div><!-- //closure-holder -->					</div>
+	</div>
+	<script type="text/javascript">		
+		function lastblock(sidebarName){		
+			var searchColumn = document.getElementsByClassName(sidebarName)[0];		
+			var sidebarBlocks = searchColumn.getElementsByClassName('block');			
+			if(sidebarBlocks.length > 0){
+				sidebarBlocks[sidebarBlocks.length-1].className += ' last-block';
+			}
+		}
+		lastblock('col-left');
+	</script>
+	
 
 </body></html>
