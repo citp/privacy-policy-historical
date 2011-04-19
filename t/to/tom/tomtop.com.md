@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922125009id_/http%3A//www.tomtop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtop.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419221042id_/http%3A//www.tomtop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 #### You're currently on:
 
-  * Keyboard
-  * Air Phone 4 No.4 AIRPHONE 4G i9 Quad band Dual Sim GSM AT&T Unlocked MHI9
-  * PS3 Controller
-  * Sexy Lingerie
+  * 10" Android 2.2 Tablet PC WiFi 1024*600 1.5M Cam G-Sensor 
+  * TV Mount Clip for Microsoft Xbox 360 Kinect Sensor 
+  * Shock Dog Pet Training Collar With LCD Remote 300M 
+  * Women Dress
 
 
 
