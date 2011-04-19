@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jvexecutive.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821083422id_/http%3A//unselfishmarketer.com/anti_spam.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvexecutive.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419230758id_/http%3A//unselfishmarketer.com/anti_spam.html) for the most accurate reproduction.*
 
 # Anti-Spam Privacy Policy
 
