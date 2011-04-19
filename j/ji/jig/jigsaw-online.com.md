@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218054107id_/http%3A//www.jigsaw-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigsaw-online.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419195524id_/http%3A//www.jigsaw-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Women's Fashion Clothes – Online Shop
 
