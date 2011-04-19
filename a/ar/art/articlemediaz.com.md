@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the articlemediaz.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121180029id_/http%3A//articlemediaz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlemediaz.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420004109id_/http%3A//www.articlemediaz.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
-YOUR SITE NAME HERE strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
+Article Mediaz strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
 **How we gather information from users**
 
@@ -36,7 +36,7 @@ We can be reached by emailing us.
 
 **Changes to this Policy**
 
-YOUR SITE NAME HERE reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
+Article Mediaz reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
 **Governing law**
 
