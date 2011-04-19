@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mathsonline.com.au privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126165652id_/http%3A//mathsonline.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathsonline.com.au privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419171933id_/http%3A//www.mathsonline.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy
 
 We are committed to preserving the privacy of all visitors to our website at http://www.mathsonline.com.au. Please read the following privacy policy to understand how we use and protect information that you provide to us. By using our website and any service we offer via this website you agree to the collection, use and disclosure of your information under the terms of this policy. If you are under 18 please obtain the consent of your parent or guardian before providing us with any information.
 
