@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playcombo.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217042405id_/http%3A//www.playcombo.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playcombo.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419224655id_/http%3A//www.playcombo.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# PlayCombo: Play free flash games online every day!_Privacy Policy
+# PlayCombo: Play free flash games online every day!
 
 This is Games flash portal of [playcombo.com](https://web.archive.org/ "Site playcombo.com")
 
