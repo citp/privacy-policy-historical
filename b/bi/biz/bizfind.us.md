@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizfind.us privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210074211id_/http%3A//www.bizfind.us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizfind.us privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419232959id_/http%3A//www.bizfind.us/privacy.asp) for the most accurate reproduction.*
 
 # Bizfind - PORTAL OF USA COMPANIES
 
