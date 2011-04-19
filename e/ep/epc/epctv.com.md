@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epctv.com privacy policy that was archived on 2010-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100913064131id_/http%3A//www.epctv.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epctv.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420013640id_/http%3A//www.epctv.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
