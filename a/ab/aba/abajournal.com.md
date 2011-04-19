@@ -1,88 +1,83 @@
-> *The following text is extracted and transformed from the abajournal.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224055627id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abajournal.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419223340id_/http%3A//www.americanbar.org/utility/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement for ABAnet.org - American Bar Association
+# Privacy Policy
 
-Welcome to the American Bar Association web site. The American Bar Association has created this privacy statement in order to demonstrate our firm commitment to privacy for our web site users and our membership. The following paragraphs disclose our information gathering and dissemination practices. The privacy statement may change at any time; any changes will be posted on this page. Should you have additional questions, comments or concerns please contact us: 
+## American Bar Association
 
-**Our postal address is:**  
-American Bar Association  
-Customer Service/Correspondence  
-321 North Clark Street  
-Chicago, IL 60654  
+The American Bar Association (ABA) respects your privacy. This Privacy Policy explains how the ABA collects, uses and safeguards information on _www.americanbar.org_ , and any other websites operated by the ABA from time to time (the “Site” or “Sites”).  This Privacy Policy applies **only** to information collected by the ABA through its Sites.
 
+### Changes to the Privacy Policy
 
-  * We can be reached via e-mail at: [service@abanet.org](mailto:service@abanet.org)
-  * You can reach us by telephone at 1-800-285-2221
+As the ABA, its membership and benefits change from time to time, this Privacy Policy is expected to change as well. We reserve the right to amend the Privacy Policy at any time, for any reason.  The date of the last revision to the Privacy Policy will be indicated by the "Last updated" date at the bottom of this page.
 
+If you have questions about this Privacy Policy, please email us at [customercare@americanbar.org](mailto:customercare@americanbar.org).  Please note that we cannot process opt-out requests sent to this e-mail address.
 
+### What information we collect and how we use it
 
-## E-Mail Privacy
+ **Information we collect** – When you browse the Sites and do not interact for any online service or product from the ABA, we do not collect personally identifiable information, such as your name, address, phone number and e-mail address.
 
-Are you interested in ABA events and updates from your Sections? Would you like to hear about ABA member benefits and services? Please [click here](http://www.abanet.org/abanet/common/MyABA/home.cfm) to send us your e-mail address and we will send you the latest in legal resources through e-mails designed to meet your needs. 
+When you become a registered user on our Sites or provide personally identifying information on our Sites, such as subscribing to ABA publications, purchasing an ABA product, applying for ABA membership, participating in online surveys, submitting questions or comments or requesting information or materials, we will retain certain personal information from you.  The type of personal information collected will vary but may include name, address, phone number, birth date, billing and delivery information, e-mail address, credit card or other financial account information and other demographic information. The type of information you provide will determine the personal information that is collected.
 
-Your e-mail address will only be used within the ABA and its entities. We do not sell or rent e-mail addresses to anyone outside the ABA. If you wish to be removed from our e-mail mailings, please [click here](http://www.abanet.org/abanet/common/MyABA/home.cfm) and complete the form to remove your e-mail address from our list or call our Service Center at 1-800-285-2221. 
-
-## E-mail Information Gathered by the ABA
-
-For some e-mails distributed by the ABA and its Sections, specific information on recipient response is collected. For example, we sometimes review how many recipients open and subsequently choose to click through to links provided in an e-mail. We use this information only for the purposes of analyzing areas of interest, improving our products and enhancing the usefulness of our website for ABA members and other visitors. None of this information is sold or distributed outside of the ABA in any manner. 
-
-## The ABA's Support Level Agreement
-
-The ABA is committed to providing 100 percent availability of its Internet site(s). We have implemented safeguards and alarms to notify us in the event of loss of Internet connectivity to the backbone and of hardware failures. Even with these safeguards in place, loss of connectivity or hardware failure can still occur. For this reason, the ABA cannot "guarantee" its Internet connectivity, nor can we be responsible for lost or delayed requests, email, or content. 
-
-For questions regarding our web site being down or any related service outage, please send an email to [help@abanet.org](mailto:help@abanet.org). 
-
-## Use of Cookies and IP addresses 
-
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site uses cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We also use cookies to maintain user session identity, and, in some non-member areas, to store your username and password locally for ease of access. 
+ **Tracking activity on our Sites** – We use your IP address, cookies and tags to track user behavior on our Sites and to make usability improvements.  We also use cookies to maintain user session identity, and, in some non-member areas, to store your username and password locally for ease of access.
 
   * "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future.
-  * A unique number called an IP address identifies every computer on the Internet. Each time you connect to the Internet your machine is assigned an IP address. An IP address is a number that identifies each sender or receiver of information that is sent in packets across the Internet. 
+  * A unique number called an IP address identifies every computer on the Internet. Each time you connect to the Internet your machine is assigned an IP address. An IP address is a number that identifies each sender or receiver of information that is sent in packets across the Internet.
+  * “Tags” refer to scripts that are used to track a visitor’s activity on our Sites by web analytics software.  A visitor’s activity is anonymous if he/she is not logged in.  If she/he has logged in using their username and password, additional information is passed through these tags.  Tags are used for, but not limited to, determining effectiveness of the Sites design, information architecture, and consumption of information and services provided via the Sites.
 
 
 
-## ABANET.ORG Site/Membership Registration Forms 
+ **How we use personal information** – Once collected, we may use your personal information (except for e-mail address, which is described below) for the following purposes:
 
-Our site's registration forms require users to give us contact information (like name and email address), method of payment, and demographic information. We use customer contact information from the registration forms to send the user information about our association. The customer's contact information is also used to contact the visitor when necessary. Information regarding method of payment is collected for member enrollment, registration and to process orders for products and services. 
-
-## External Links
-
-ABANET.ORG contains links to other external web sites that do not fall under the ABANET.ORG domain. ABANET.ORG is not responsible for the privacy practices or the content of such external web sites. 
-
-## E-Commerce
-
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like email address) and method of payment. Contact information from the order form is used to process orders and to send information about our association. User payment information that is collected is used to check the users' qualifications and bill the user for products and services. 
-
-## Surveys
-
-Our online surveys ask respondents for contact information (like email address) and demographic information (like zip code, age). We also may use contact data from our surveys to send the user information about our association. 
-
-## Contest
-
-We run contests on some sections of our site in which we ask visitors for contact information (like email address) and demographic information. The customer's contact information is also used to contact the visitor when necessary. 
-
-## Advertising
-
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company and are used for advertisement banner rotation purposes only. 
-
-## Public Forums
-
-This site makes chat rooms, forums, List Serves and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Although ABANET.ORG tries to protect your personal information when using these public forums, ABANET.ORG cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. It is also not the ABANET.ORG's responsibility for maintaining the secrecy of any passwords you set up and/or any account information you have disclosed. 
-
-## Security
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-
-## Children's Guidelines
-
-We at the ABA are concerned about protecting children's privacy and follow these guidelines:
-
-### ABANET.ORG DOES NOT:
-
-  * collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-  * collect personally identifiable offline contact information without prior parental consent
-  * distribute to third parties any personally identifiable information with out prior parental consent
-  * give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
-  * entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
+  * Register you for programs and services you have requested
+  * Process, fulfill and follow up on your orders or membership application
+  * Answer your e-mails or on-line requests
+  * Send information that you requested
+  * Send and process surveys
+  * Ensure the Sites are relevant to your needs
+  * Deliver ABA services such as newsletters, meetings or events
+  * Communicate general substantive information about the ABA
+  * Notify you about new products/services special offers, upgrades and other related information from the ABA and other approved third parties. 
 
 
+
+ **Publication of your personal information for Membership Directories and Registration Lists** – As a professional organization representing the legal profession, the personal information you provide may be published on the Sites and in print form in a variety of ways to allow other lawyers and the public to find you, including, but not limited to directories, membership lists, and other types of registration lists for ABA program and events (“Directory Lists”).  Directory Lists will not include financial information, such as credit card or bank information, or social security numbers. 
+
+ **E-mail Policy** – Your e-mail address will only be used within the ABA and its entities. We do not sell or rent e-mail addresses to anyone outside the ABA.  For some e-mail messages distributed by the ABA and its entities, specific information on recipient response is collected. For example, we sometimes review how many recipients open and subsequently choose to click through to links provided in an e-mail message. We use this information only for the purposes of analyzing areas of interest, improving our products and enhancing the usefulness of our Sites for ABA members and other visitors. None of this information is sold or distributed outside of the ABA in any manner.
+
+ **How To Manage the Communications You Receive By E-mail** – You can manage your E-mail preferences, including opting out, by [going here](http://apps.americanbar.org/aba_timssnet/demographics/aba_addressupdate.cfm) or by calling our Service Center at 1-800-285-2221.
+
+ **With whom we may share information** – The ABA may share personal information with our business associates in order to provide them an opportunity to offer products or services that may be of interest to you. The ABA also occasionally hires other companies to provide limited services on our behalf including, but not limited to, packaging, mailing and delivering purchases and promotional offers, answering customer questions about products or services, consulting services, data modeling, printing, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service.   
+
+The ABA may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on the ABA; (b) protect and defend the rights or property of ABA; or (c) protect the personal safety of ABA personnel or members of the public in urgent circumstances.
+
+ **How To Manage the Communications You Receive By Regular Mail –** The ABA makes a list of names and addresses available to carefully screened companies and organizations, which helps contribute to non-dues dollars to the ABA. However, if you prefer to receive mailings only from the ABA and have your name and address removed from the list provided to these companies and organizations, please call the ABA Service Center at 1-800-285-2221 or write to:  321 North Clark Street, Chicago, IL 60654-7598. 
+
+ **Banner advertisements on our Sites** – Online advertisements on the Sites do not collect any personally identifiable information on individual visitors. The ABA does collect aggregate data on visitors such as time of day and Web browser type. Such information may be shared with advertisers to determine their advertising effectiveness.
+
+### Children 
+
+ ****We do not knowingly solicit data online from or market online to children under the age of 13.
+
+### Information security 
+
+The ABA implements commercially reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. We restrict access to personal information to the ABA’s business partners who may need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. ****
+
+### User ID and password 
+
+Certain areas of the Site require the use of a user ID, email address and password as an additional security measure that helps protect your information.
+
+When you have finished using a secure area of a Site, make sure you always click on the "Sign Out" link which appears on every secure page. When you click on the "Sign Out" link, your secured session will end. No further secure transactions can be conducted without re-entering your user ID and password. You should be aware that browser software often "caches" a page as you look at it, meaning that some pages are saved in your computer's temporary memory. Therefore, you may find that clicking on your "Back" button shows you a saved version of a previously viewed page. Caching in no way affects the security of your confidential user ID or password.
+
+### No guarantee
+
+ ****Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, and despite our efforts, the ABA cannot guarantee or warrant the security of any information you transmit to us, or to or from our online products or services.
+
+###  **Linking to other Internet sites**  
+
+You should be aware that other Internet sites that are linked from the Sites or from an ABA e-mail message may contain privacy provisions that differ from the provisions of this Internet Privacy Policy. To ensure your privacy is protected, we recommend that you review the privacy statements of other Internet sites you visit from the ABA.
+
+### How you can access and change information
+
+ ****If you are a registered user of the Site, subscriber to ABA publications, purchaser of ABA products and services or an ABA member, you may review and update/correct your information by using your user ID or email address and password or by contacting the ABA Service Center at 1-800-285-2221.
+
+Last updated February 7, 2011
