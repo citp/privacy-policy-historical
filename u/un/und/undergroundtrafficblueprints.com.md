@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undergroundtrafficblueprints.com privacy policy that was archived on 2010-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100716180311id_/http%3A//www.undergroundtrafficblueprints.com/Members/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undergroundtrafficblueprints.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419211740id_/http%3A//www.undergroundtrafficblueprints.com/Members/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
