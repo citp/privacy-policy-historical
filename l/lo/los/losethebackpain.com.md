@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the losethebackpain.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210024453id_/http%3A//www.losethebackpain.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losethebackpain.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419225612id_/http%3A//www.losethebackpain.com/privacy.html) for the most accurate reproduction.*
 
 # LoseTheBackPain.com's Privacy Policy
 
@@ -68,16 +68,6 @@ VIII. Use of Information
 
 **
 
-HBI may share NPI, PI, and PHI among its current and future parent, subsidiary, and affiliated companies, and as otherwise permitted under this Privacy Policy, subject to applicable law. Some examples of how HBI may use information collected via its Website follow.
-
-NPI may be used to analyze user traffic and navigation on its Website and generate reports, track user interest in particular topics, products, services and other Website features, advertisements, and links, and may also be used for any other purpose in HBI's sole discretion.
-
-PI may be compiled and rented to third parties who offer products or services that may be of interest to you, or who otherwise have an interest in a demographic group in which you may fall.
-
-PI and PHI may be used by HBI to provide products, services and information to users, and to communicate with Website users in various ways including via email and electronic and/or paper newsletters.
-
-NPI may be extracted from any PI and PHI and shared with others in its NPI form and otherwise used as NPI in any manner consistent with this Privacy Policy.
-
 HBI will not share PI or PHI with any third-parties without the user's consent with the following exceptions: (i) HBI may have to make incidental disclosures to third-party vendors who are providing technical or other services to or on behalf of HBI, including web hosting, software and hardware maintenance service providers (however HBI will endeavor to have all vendors sign appropriate confidentiality agreements in these circumstances); (ii) when compelled by legal requirements such as a court order, subpoena, search warrant, applicable law or the like; and (iii) under special circumstances that may involve a health or other physical threat to you or others or to protect, defend or otherwise assert legal rights.
 
 **
@@ -109,17 +99,4 @@ President, The Healthy Back Institute
 
 | 
 
-  
-
-
-**Questions: Call Us**  
- **Toll Free:** 800-216-4908  
- **Outside U.S.:** 00+1+240-780-5977  
- **Australia:** 0011+1+240-780-5977  
-Or [Click Here](http://www.losethebackpain.com/customersupport.html)
-
-[](http://www.losethebackpain.com/inflammation.html)
-
-[](http://www.losethebackpain.com/sleep.html)
-
-[](http://twitter.com/HealthyBackInst)
+[](https://gethealthy.infusionsoft.com/go/7DayQSS/ltbp-sidebar/)
