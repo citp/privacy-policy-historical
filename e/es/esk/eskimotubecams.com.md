@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eskimotubecams.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530071300id_/http%3A//www.eskimotubecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eskimotubecams.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419231349id_/http%3A//www.eskimotubecams.com/privacy.html%3F) for the most accurate reproduction.*
 
-# EskimoTubeCams - Privacy Policy
+# EskimoTubeCams - Privacy
 
 [Home](http://www.eskimotubecams.com/) / Privacy Policy
 
