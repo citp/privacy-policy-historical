@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geegain.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127050739id_/http%3A//geegain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geegain.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419194913id_/http%3A//geegain.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Geegain
 
@@ -58,6 +58,8 @@ You may choose to restrict the collection or use of your personal information in
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+But remember, If you make any false statements about any of our services, anywhere, we are using required informations (according to the false statement) of your's to prove our stand.
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 771/1, Thorana junction, Kandy Road, Kelaniya, WP, 1600, Sri Lanka.
 
