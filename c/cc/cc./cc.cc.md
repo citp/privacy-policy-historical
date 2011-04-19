@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the cc.cc privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228023452id_/http%3A//www.cc.cc/etc/contents_view.php%3Fw%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cc.cc privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419182707id_/http%3A//www.cc.cc/privacy_statment/privacy_statment.php) for the most accurate reproduction.*
 
-# Privacy - CC.CC : Sell Online The Easy Way, Web Business Made Simple.
+# CC.CC Network - Free domain name and DNS service.
 
-CC.CC respects and protects your privacy  
-We will not give any information about you to others without your express permission.
+CC.CC Network Privacy Statement
+
+**CC.CC respects and protects your privacy  
+We will not give any information about you to others without your express permission.**
 
 Our site uses forms in which you give us contact information (your name, address, daytime telephone number, and email address) so you can place orders, request information and support, and make product suggestions. We will then create an account number for you and if you choose to order from us using a credit card, we will collect your credit card number and expiration date. If you contact us for support, we will keep an internal record of what support was given. We use your customer information only when it will be important for us to contact you regarding functionality changes to our products, our web site, new CC.CC Software services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "My Account" section below on how to change your preferences. If we present a co-branded offer with our partners or affiliates, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. 
 
@@ -17,11 +19,11 @@ Our site uses cookies to keep track of your shopping cart and receipts. We use c
 
 This site also contains links to other sites. Unfortunately CC.CC is not responsible for the privacy practices or the content of such Web sites. 
 
-Security
+**Security**
 
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-Updating Your Information
+**Updating Your Information**
 
 As a customer of CC.CC , you may alter your customer information or opt-out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your customer information.
 
@@ -32,33 +34,33 @@ As a customer of CC.CC , you may alter your customer information or opt-out of r
 \- You may call us at: +82-31-919-6171  
 \- Or you may fax us at +82-31-919-6150
 
-Emails
+**Emails**
 
 We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our "About Us" page, to allow you to contact us directly. We strive to promptly reply to your messages. 
 
 The information you send to us may be stored and used to improve this site and our products, or it may be reviewed and discarded. However, your information will only be shared with third parties with your explicit permission. 
 
-Only If We Have To
+**Only If We Have To**
 
 As stated previously in this policy, we will not share your personal information except with a third party to assist us in the processing or securing of your personal information or when we are required by law unless we have given you notice and choice, in the good-faith belief that such action is necessary in order to conform to the edicts of the law, or we must comply with a legal process served on our web site. We may also need to give out your information if one of our partners requires it, but these situations are rare. 
 
-Changes in Our Practices
+**Changes in Our Practices**
 
 If we make material changes to our information handling practices or other privacy aspects, we will post those changes on this privacy statement, at least 30 days prior to their implementation or notify you directly via email. Minor changes will be immediately effective upon reposting to this privacy policy on the CC.CC Software Web site. 
 
-Service Provider
+**Service Provider**
 
 We use a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. 
 
-Affiliates
+**Affiliates**
 
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. CC.CC will automatically send the friend a one-time email inviting them to visit the site. CC.CC stores this information for the sole purpose of sending this one-time email. The friend may contact CC.CC at support@CC.CC to request the removal of this information from our database. 
 
-If I Terminate my CC.CC Account
+**If I Terminate my CC.CC Account**
 
 When Your CC.CC account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant CC.CC databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to resolve disputes or enforce our agreements.
 
-Contacting the Web Site
+**Contacting the Web Site**
 
 If you have any questions about our privacy statement, the practices of this site, or your dealings with this Web site,   
 please contact us at :   
