@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230073807id_/http%3A//outdoorchannel.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorchannel.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419233934id_/http%3A//www.outdoorchannel.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Outdoor Channel
 
