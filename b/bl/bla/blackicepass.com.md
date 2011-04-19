@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the blackicepass.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224083959id_/http%3A//www.blackicepass.com/legal.php%3Flink_id%3D1%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackicepass.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419053649id_/http%3A//www.blackicepass.com/legal.php%3F%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # Full High Definition Ebony and Interracial Movies - HD Porn Movies from BlackIcePass.com
 
    
-[](https://web.archive.org/index.php?link_id=5168&tracker_id=1730)  
+[](https://web.archive.org/index.php?)  
 |    | 
 
 |   
@@ -73,9 +73,9 @@ Contact Information
 
 If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please contact us by sending an e-mail. Please provide us with your password, user name and account number so we can service you quicker. 
 
-For www.blackicepass.com and its related sites, please [contact us](https://web.archive.org/contact.php?link_id=5168&tracker_id=1730).   
+For www.blackicepass.com and its related sites, please [contact us](https://web.archive.org/contact.php?).   
   
 Download and watch all of the BlackIcePass Exclusive DVDs for one low price!  
-[](https://web.archive.org/join.php?link_id=5168&tracker_id=1730)  
+[](https://web.archive.org/join.php?)  
   
  
