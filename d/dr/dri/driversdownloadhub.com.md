@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversdownloadhub.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203101614id_/http%3A//www.driversdownloadhub.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversdownloadhub.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420000941id_/http%3A//www.driversdownloadhub.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
