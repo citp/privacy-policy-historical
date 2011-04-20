@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanichost.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218052856id_/http%3A//www.titanichost.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanichost.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420171205id_/http%3A//www.titanichost.com/policy.asp) for the most accurate reproduction.*
 
 # TitanicHost - Privacy Policy
 
