@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydaymax.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221030648id_/http%3A//www.paydaymax.com/Short-Term-Payday-Loans-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydaymax.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420044728id_/http%3A//www.paydaymax.com/Short-Term-Payday-Loans-privacy-policy.php) for the most accurate reproduction.*
 
 # Short Term Payday Loans, Fast Cash -PayDayMax.com - privacy policy
 
@@ -63,6 +63,6 @@ If you disagree with the terms of our privacy policy, please do not use our webs
 
 
 
-© 2010 PayDayMax.com® \- All Rights Reserved - [Privacy Policy](https://web.archive.org/web/20101221030648id_/http%3A//www.paydaymax.com/Short-Term-Payday-Loans-privacy-policy.php "Review our Privacy Policy") \- [Site Map](https://web.archive.org/web/20101221030648id_/http%3A//www.paydaymax.com/sitemap.php "List of the pages on PayDayMax.com for fast access to information on a cash advance")
+© 2011 PayDayMax.com® \- All Rights Reserved - [Privacy Policy](https://web.archive.org/web/20110420044728id_/http%3A//www.paydaymax.com/Short-Term-Payday-Loans-privacy-policy.php "Review our Privacy Policy") \- [Site Map](https://web.archive.org/web/20110420044728id_/http%3A//www.paydaymax.com/sitemap.php "List of the pages on PayDayMax.com for fast access to information on a cash advance")
 
-*Important Notice: PayDayMax and its affiliates **do not** provide payday loan services to those who live in the following states: Georgia, Montana, New Hampshire, West Virginia, Ohio, Virginia, New Jersey, Colorado, Nevada and Sacramento, CA
+*Important Notice: PayDayMax and its affiliates **do not** provide payday loan services to those who live in the following states: Georgia, Montana, New Hampshire, West Virginia, Ohio, Virginia, New Jersey, Oregon, Colorado, Nevada and Sacramento, CA
