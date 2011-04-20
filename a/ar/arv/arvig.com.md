@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arvig.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220010039id_/http%3A//arvig.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvig.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420223643id_/http%3A//arvig.com/privacy.html) for the most accurate reproduction.*
 
 # Arvig Communication Systems
 
