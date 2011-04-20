@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instapaper.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204002831id_/http%3A//www.instapaper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instapaper.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420022215id_/http%3A//www.instapaper.com/privacy-policy) for the most accurate reproduction.*
 
 # Instapaper: Privacy Policy
 
