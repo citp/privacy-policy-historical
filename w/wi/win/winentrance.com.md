@@ -1,35 +1,31 @@
-> *The following text is extracted and transformed from the winentrance.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225004456id_/http%3A//winentrance.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winentrance.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420142125id_/http%3A//winentrance.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Winentrance.com - Privacy Policy
+# Privacy Policy - Winentrance.com
 
-**Our Commitment To Privacy :**
+## Privacy Policy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose certain service provided to you like purchase of our products.
 
-At [www.winentrance.com](http://www.winentrance.com/ "www.winentrance.com"), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit [www.winentrance.com](http://www.winentrance.com/ "www.winentrance.com"), and how we safeguard your information. We never sell your personal information to third parties.
+**Visits Traffic**
 
-**Log Files**
+This website records your visit and logs the following information for statistical purposes your IP address; type of browser you use; the date and time you access the site; the pages you have accessed and the documents downloaded and the previous Internet address from which you linked directly to the site.
 
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (Internet Protocol) address, your ISP (Internet Service Provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+We will not identify users or their browsing activities, except when a law enforcement agency may exercise a warrant to inspect the service provider’s logs.
 
-**Cookies and Web Beacons**
+**Cookies:**
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+A cookie is a piece of software code that an internet web site sends to your browser when you access information at that site. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. A cookie can’t read data off your hard disk or read cookie files created by other sites. Winentrance.com uses cookies to track user traffic and for the personalization feature.
 
-We also use third party advertisements on [www.winentrance.com](http://www.winentrance.com/ "www.winentrance.com") to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed.
+**Electronic Newsletter**
 
-This is generally used for geotargeting purposes (showing New Delhi real estate ads to someone in Delhi, for example) or showing certain ads based on specific sites visited (such as showing Educational ads to someone who frequents education sites).
+Your email address will only be recorded if you choose to subscribe for daily updates of our website. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Users may remove themselves from this mailing list by using the link provided in every newsletter. Your email address will not be used for any other purpose, and will not be disclosed, without your consent.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+**Collection of Personal Information:**
 
-In addition, Google, as a third party vendor, uses cookies to serve ads to our site. Google's use of the Dart cookie enables it to serve ads to visitors based on visits to our site and other sites on the Internet. Visitors may opt out of the Dart cookie by visiting the Google ad and content network privacy policy. Google may use interest based advertising where they recognize the types of web pages users visit across the Adsense network. This helps advertisers reach users on the basis of their interests.
+If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the contact us page.
 
-**The Way We Use Information :**
+Note: The use of the term “Personal Information” in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.
 
-WinEntrance.com may use this information for internal marketing and promotional purposes. We may use this information to get in touch with you when necessary and inform you of new services and features. 
+**Contacting Us**
 
-WinEntrance.com may like to update viewers with information on related issues, which the users may find interesting. 
-
-We do not share this information with outside parties, but we may share your information with advertisers on an aggregate basis only.
-
-#### Winentrance.com - Privacy Policy
+We welcome your suggestions or feedback to improve our service and request that any error found may kindly be brought to our notice or the practices of this site or your dealings with this website contact Genuine InfoTech Private Limited. Thanks for visiting our site.
