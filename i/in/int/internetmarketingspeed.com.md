@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the internetmarketingspeed.com privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912190539id_/http%3A//www.internetmarketingspeed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketingspeed.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420151041id_/http%3A//www.internetmarketingspeed.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Internet Marketing Speed
-
-## Privacy
 
 [Privacy](http://www.internetmarketingspeed.com/privacy/ "Privacy") Policy
 
