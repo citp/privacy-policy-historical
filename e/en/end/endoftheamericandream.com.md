@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endoftheamericandream.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215100121id_/http%3A//endoftheamericandream.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endoftheamericandream.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420043318id_/http%3A//endoftheamericandream.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
@@ -64,7 +64,7 @@ VII. DATA PROCESSING/SAFE HARBOR
 
 The European Union maintains strict privacy laws. These rules differ significantly from US laws. To reconcile these differences, the US and the EU have created a Safe Harbor that defines mutually acceptable privacy operations. This website adheres to the Safe Harbor principals.
 
-For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+For more information see [www.export.gov/safeharbor](http://www.export.gov/safeharbor "www.export.gov/safeharbor").
 
 VIII. LIMITATION OF LIABILITY, THIRD PARTY INFORMATION & LANGUAGE
 
