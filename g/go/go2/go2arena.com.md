@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the go2arena.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218054011id_/http%3A//www.go2arena.com/site/item/id/49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go2arena.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420020739id_/http%3A//www.go2arena.com/site/item/id/49) for the most accurate reproduction.*
 
-# Main Page - prepaid, World of Warcraft, Age of Conan, Counter Strike
+# Cheap, Fast and Safe online shop Go2Arena PC games, MMO, RPG, Xbox 360, PlayStation 3 - online shop go2arena.com
 
 Go2Arena respects your privacy and works hard to safeguard the privacy of your personal data. We realize that the exciting growth of the Internet and online services raise questions concerning the nature, use and confidentiality of information collected about consumers. We want you to know that we apply our long-standing commitment of safeguarding privacy to our online and Internet activities. 
 
