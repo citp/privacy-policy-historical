@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aberdeen.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216124052id_/http%3A//www.aberdeen.com/_aberdeen/app/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aberdeen.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421203421id_/http%3A//aberdeen.com/_aberdeen/app/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Aberdeen Group: Get Smart. Read Research.
 
