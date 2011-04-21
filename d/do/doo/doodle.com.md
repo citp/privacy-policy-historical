@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121173128id_/http%3A//www.doodle.com/about/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doodle.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422003040id_/http%3A//www.doodle.com/about/policy.html) for the most accurate reproduction.*
 
-# Doodle: Privacy Policy
+# Doodle: Yksityisyysperiaatteet
 
 Doodle takes great care to protect your privacy and to secure the data that is stored on the Doodle servers. Doodle employs several security professionals who implement the technical and organizational security during development and operations. Doodle takes measures to protect personal information against loss, misuse, unauthorized access, unauthorized disclosure, manipulation, or destruction.
 
@@ -32,8 +32,6 @@ Advertising is one of Doodle’s revenue streams. Therefore, Doodle displays adv
 
 You can delete outdated or completed (or, in fact, any) polls manually at any time using the admin link. When deleting a poll, that poll’s information will be deleted from the Doodle databases. Furthermore, outdated polls are automatically deleted from time to time, but no earlier than 30 days after the last date in the poll, or 30 days after the last access to a poll without dates.
 
-Optional attachments to polls are stored and managed by our partner drop.io. These attachments will not be deleted automatically when you delete your poll; you have to delete them manually.
-
 ## Unauthorized access
 
 Doodle implements several mechanisms to prevent unauthorized access to polls, accounts, or other data.
@@ -44,7 +42,7 @@ Doodle accounts are protected by passwords. You should choose a secure password 
 
 ## Inviting from Doodle
 
-As an option, you can contact and invite people to participate in a poll from Doodle. In this case, Doodle needs to know the e-mail addresses of the people to be contacted. You can enter these e-mail addresses in the corresponding form. Doodle stores these e-mail addresses in you user account (MyDoodle) for your convenience; Doodle will be able to offer you the same contacts again next time you use the service. You can have Doodle delete all stored e-mail addresses any time using the corresponding function in your user account (MyDoodle).
+As an option, you can contact and invite people to participate in a poll from Doodle. In this case, Doodle needs to know the e-mail addresses of the people to be contacted. You can enter these e-mail addresses in the corresponding form. Doodle stores these e-mail addresses in your user account (MyDoodle) for your convenience; Doodle will be able to offer you the same contacts again next time you use the service. You can have Doodle delete all stored e-mail addresses any time using the corresponding function in your user account (MyDoodle).
 
 General remark: Like all other personal information, Doodle will not share participants' e-mail addresses with third parties. Doodle will not send any e-mail communication participants' e-mail addresses without your consent.
 
@@ -84,6 +82,6 @@ Doodle may share personal information with other companies or individuals only i
 
 ## Changes
 
-Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at <http://doodle.com/about/policy.html>.
+Doodle reserves the right to update this Privacy Policy at any time. The most current version of this policy is available at [http://doodle.com/about/policy.html](http://www.doodle.com/about/policy.html).
 
-July 22 2010
+Dec 3 2010
