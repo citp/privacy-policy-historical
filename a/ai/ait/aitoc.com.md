@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aitoc.com privacy policy that was archived on 2010-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100127110639id_/http%3A//www.aitoc.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aitoc.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421213030id_/http%3A//www.aitoc.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,7 +7,7 @@ Thank you for visiting our web site. This privacy policy tells you how we use p
 
 ## Collection of Information
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to our mailing list.
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to our mailing list.
 
 ## Cookie/Tracking Technology
 
