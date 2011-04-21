@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anetforums.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812092709id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anetforums.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421205056id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
@@ -199,7 +199,7 @@ Site Search
 Awards  
   
 ** Credits**  
-©1997-2010, Active Network, Inc. All Rights Reserved.  
+©1997-2011, Active Network, Inc. All Rights Reserved.  
 Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
   
 [ ](http://www.amazon.com/exec/obidos/redirect-home/activedvd-20)
