@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itcoworld.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125072004id_/http%3A//itcoworld.com/prp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcoworld.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421234013id_/http%3A//www.itcoworld.com/prp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
