@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jaxenter.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123203410id_/http%3A//jaxenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaxenter.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421191442id_/http%3A//jaxenter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Jaxenter
-
-### Privacy Policy Jaxenter
+# Privacy Policy - JAXenter Magazine
 
 ### General
 
