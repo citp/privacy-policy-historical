@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shriramproperties.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725032543id_/http%3A//shriramproperties.com/ShriRam_Privacy_Policy-28.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shriramproperties.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421073257id_/http%3A//www.shriramproperties.com/ShriRam_Privacy_Policy-35.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
