@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultfilmstube.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224194541id_/http%3A//adultfilmstube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultfilmstube.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421212450id_/http%3A//adultfilmstube.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
