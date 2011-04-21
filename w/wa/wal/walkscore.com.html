@@ -1,61 +1,76 @@
-<!--The following is the downloaded HTML source of the walkscore.com privacy policy that was archived on 2010-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100627220644id_/http%3A//www.walkscore.com/privacy-policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the walkscore.com privacy policy that was archived on 2011-04-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110421071515id_/http%3A//www.walkscore.com/privacy-policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="description" content="Walk Score helps people find walkable places to live.  Walk Score calculates the walkability of any address.">
 
 <meta name="keywords" content="walk, walking, walkable, walkable neighborhoods, compact neighborhood, pedestrian friendly design, pedestrian-friendly design, pedestrian centric design, pedestrian-centric design, walking map, urban planning, urban planning walking, urban design, sidewalk design, street design, grid, walking grid">
 <title>Walk Score - Helping homebuyers, renters, and real estate agents find houses and apartments in great neighborhoods.</title>
-<link rel="stylesheet" type="text/css" href="http://www2.walkscore.com/css/main.css?v=2.722">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://www2.walkscore.com/js/util.js?v=2.722"></script>
-
+<link rel="stylesheet" type="text/css" href="http://cdn.walkscore.com/css/main_v46337.css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdn.simplegeo.com/js/1.2/simplegeo.places.jq.min.js"></script>
+<script type="text/javascript" src="http://oauth.googlecode.com/svn/code/javascript/oauth.js"></script>
+<script type="text/javascript" src="http://oauth.googlecode.com/svn/code/javascript/sha1.js"></script>
+<script type="text/javascript" src="http://cdn.walkscore.com/js/underscore_v46337.js"></script>
+<script type="text/javascript" src="http://cdn.walkscore.com/js/util_v46337.js"></script>
 <script type="text/javascript" charset="utf-8">
-  var is_ssl = ("https:" == document.location.protocol);
-  var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
-  document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
-<script type="text/javascript" charset="utf-8">
-  var feedback_widget_options = {};
-  feedback_widget_options.display = "overlay"; 
-  feedback_widget_options.company = "walk_score";
-  feedback_widget_options.placement = "right";
-  feedback_widget_options.color = "#BBB";
-  feedback_widget_options.style = "idea";
-  var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+	$.ajaxSetup({
+		timeout: 9000 //9 second global timeout -- can be overridden for particular calls
+	});
+	
+	var ACTIVE_COMPONENT = "untracked page";
 </script>
 
 <!--[if IE]>
 	<style type="text/css">
-  	.address-query input[type="text"] {
-    	padding-top: 4px;
+  	#h-t-form input[type="text"] { 
+    	padding-top: 2px; 
+			height: 18px;
+    }
+  	.styled-input input[type="text"] {
+    	padding-top: 5px;
 			height: 21px;
-      margin-top: -1px;
     }
   </style>
-<![endif]--></head>
+<![endif]-->
+
+<!--[if lt IE 7]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js"></script>
+<![endif]-->
+</head>
 <body>
 <div class="root-container">
   <div id="branding">
-	<a href="http://www.walkscore.com/"><h1><span>Walk Score</span></h1></a>
+	<a href="http://www.walkscore.com/"><span>Walk Score</span></a>
 	<h2>Find a Walkable Place to Live.</h2>
 </div>
-  <div id="navigation"><a href="/rankings/">Walkable Neighborhoods</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/walkable-neighborhoods.shtml">Walkability</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/how-it-works.shtml">How It Works</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/services/">Walk Score On Your Site</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blog.walkscore.com/">Blog</a></div>
-  <div class="content-container">
-    
-<div id="address-bar">
+  <!-- style tag removed to pass W3C markup validation. See main.css FRIENDS AND FOLLOWERS -->
+
+<div id="social-media-buttons">
+	<label>Follow us:</label>
+  <div onclick="trackNavigationNewWindow(&quot;http://twitter.com/walkscore&quot;, &quot;untracked page&quot;, &quot;follow us&quot;, &quot;twitter&quot;)" class="friend-twitter">
+  </div>
+  <div onclick="trackNavigationNewWindow(&quot;http://www.facebook.com/walkscore&quot;, &quot;untracked page&quot;, &quot;follow us&quot;, &quot;facebook&quot;)" class="friend-facebook">
+  </div>
+</div>
+<div id="navigation"><a href="/rankings/">Cities &amp; Neighborhoods</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/walkable-neighborhoods.shtml">Why It Matters</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/how-it-works.shtml">How It Works</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/professional/">Walk Score Professional</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blog.walkscore.com/">Blog</a></div>
+
+  
+<div id="address-bar" class="styled-input">
 <h3>Type an Address:</h3>
 <form name="address-query" class="address-query" method="get" action="/get-score.php" onsubmit="return addressSubmit(this, 'untracked page');">
 	<div class="text-sizer"><input type="text" name="street" id="street" value=""></div>
-  <input id="address-go" type="image" src="http://www2.walkscore.com/images/button-go.gif" name="go" value="Go" height="27" width="42" alt="Submit">
+  <input id="address-go" type="image" src="http://cdn.walkscore.com/images/button-go.gif" name="go" value="Go" alt="Submit">
 </form>
-</div>    <div class="content-main content-body">
+</div>  <div class="content-container">
+    <div class="content-main content-body">
       <h1>Walk Score Privacy Policy </h1>
       <p> By using Walk Score, a Front Seat Management, LLC ("FSM") website, you permit the collection and use of your personal information as outlined below in our Privacy Policy. You should visit this page periodically to review any changes to the Privacy Policy. </p>
       <h2><strong> 1. Information We Collect </strong></h2>
-      <p> FSM collects user-submitted information such as street addresses. We collect email addresses if you join the Walk Score mailing list. Some information collected is not explicitly submitted by the user. For example, we log your browser information, IP address, requested URL, referring URL, and timestamp. </p>
+      <p> FSM collects user-submitted information such as street addresses. We collect email addresses if you join the Walk Score mailing list and we collect information from your Facebook profile when you use Facebook Connect. Some information collected is not explicitly submitted by the user. For example, we log your browser information, IP address, requested URL, referring URL, and timestamp. </p>
       <h2><strong> 2. How We Use Your Information </strong></h2>
-      <p> Information such as street addresses may be redisplayed on the Walk Score website or other FSM websites, for example in lists of the most or least walkable addresses. FSM will occasionally send email to the email addresses we collect for our mailing list. </p>
+      <p> Information such as street addresses may be redisplayed on the Walk Score website or other FSM websites, for example in lists of the most or least walkable addresses. FSM will occasionally send email to the email addresses we collect for our mailing list</p>
+      <p>We use Facebook Connect to prevent abuse when people edit Walk Score information and to keep statistics about user edits. We may use information from your Facebook profile to contact you about Walk Score related features and we may redisplay your Facebook profile information and comments on the Walk Score website or other FSM websites. </p>
       <p> Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server and administer Walk Score. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners. </p>
       <h2><strong> 3. Transfer of Information </strong></h2>
       <p> FSM will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoenas, court orders, or other legal processes. Further, FSM may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or to enforce or apply the terms and conditions of this Privacy Policy. </p>
@@ -72,7 +87,7 @@
       <p> By using the website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the site. FSM may modify this Privacy Policy at any time. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy. </p>
       <h2><strong> 9. Contacting Walk Score </strong></h2>
       <p> If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can <a href="contact-us.php">contact us</a>.</p>
-      <p><em>Last modified 7/17/2008</em><br clear="all">
+      <p><em>Last modified 12/16/2010</em><br clear="all">
       </p>
     </div>
     <br clear="all">
@@ -80,10 +95,10 @@
   
 <div id="footer">
   <div id="footer-links">
-    <p><a href="/about.shtml">About Walk Score</a> - <a href="/join-list.shtml" rel="nofollow">Mailing List</a> - <a href="/iphone">iPhone</a> - <a href="/transit-map.php">Transit Maps</a> - <a href="/privacy-policy.shtml" rel="nofollow">Privacy</a> - <a href="/terms-of-use.shtml" rel="nofollow">Terms</a></p>
+    <p><a href="/about.shtml">About Walk Score</a> - <a href="/join-list.shtml" rel="nofollow">Mailing List</a> - <a href="/iphone">iPhone</a> - <a href="/transit-map.php">Transit Maps</a> - <a href="/privacy-policy.shtml" rel="nofollow">Privacy</a> - <a href="/terms-of-use.shtml" rel="nofollow">Terms</a> - <a href="/jobs/">Jobs</a></p>
   </div>
   <div id="footer-branding">
-    <p>© 2010 <a href="http://www.frontseat.org/" target="_blank">Front Seat</a></p>
+    <p>© 2011 <a href="http://www.frontseat.org/" target="_blank">Front Seat</a></p>
   </div>
 </div>
 <script type="text/javascript">
@@ -105,6 +120,20 @@ qacct:"p-e0nESeHrFzS1c"
 <img src="http://pixel.quantserve.com/pixel/p-e0nESeHrFzS1c.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
 <!-- End Quantcast tag --></div>
+<script type="text/javascript" charset="utf-8">
+  var is_ssl = ("https:" == document.location.protocol);
+  var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+  document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
+<script type="text/javascript" charset="utf-8">
+  var feedback_widget_options = {};
+  feedback_widget_options.display = "overlay"; 
+  feedback_widget_options.company = "walk_score";
+  feedback_widget_options.placement = "right";
+  feedback_widget_options.color = "#BBB";
+  feedback_widget_options.style = "idea";
+  var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+</script>
 
 
 </body></html>
