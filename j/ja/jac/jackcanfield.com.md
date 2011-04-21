@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jackcanfield.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128065344id_/http%3A//www.jackcanfield.com/index.php%3Foption%3Dcom_flexicontent%26view%3Ditems%26cid%3D44%26id%3D147%26Itemid%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackcanfield.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422015245id_/http%3A//www.jackcanfield.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Business & Legal - Privacy Policy | Jack Canfield
+# Site Business - Privacy Policy | Jack Canfield
 
 ## SPAM-Free Privacy
 
@@ -58,4 +58,4 @@ Our business changes constantly. This privacy statement will change also, and us
 
 * * *
 
-If you have any questions about this policy, the practices of this site, or your dealings with this Web site, please [contact us](http://www.jackcanfield.com/contact-us "Contact Us").
+If you have any questions about this policy, the practices of this site, or your dealings with this Web site, please [contact us](http://www.jackcanfield.com/component/flexicontent/item/190.html "Contact Us").
