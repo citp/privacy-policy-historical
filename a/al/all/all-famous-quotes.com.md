@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-famous-quotes.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211203730id_/http%3A//all-famous-quotes.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-famous-quotes.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421215045id_/http%3A//all-famous-quotes.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
