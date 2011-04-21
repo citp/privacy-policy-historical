@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walkscore.com privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627220644id_/http%3A//www.walkscore.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walkscore.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421071515id_/http%3A//www.walkscore.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Walk Score - Helping homebuyers, renters, and real estate agents find houses and apartments in great neighborhoods.
 
@@ -6,11 +6,13 @@ By using Walk Score, a Front Seat Management, LLC ("FSM") website, you permit th
 
 ## **1\. Information We Collect**
 
-FSM collects user-submitted information such as street addresses. We collect email addresses if you join the Walk Score mailing list. Some information collected is not explicitly submitted by the user. For example, we log your browser information, IP address, requested URL, referring URL, and timestamp. 
+FSM collects user-submitted information such as street addresses. We collect email addresses if you join the Walk Score mailing list and we collect information from your Facebook profile when you use Facebook Connect. Some information collected is not explicitly submitted by the user. For example, we log your browser information, IP address, requested URL, referring URL, and timestamp. 
 
 ## **2\. How We Use Your Information**
 
-Information such as street addresses may be redisplayed on the Walk Score website or other FSM websites, for example in lists of the most or least walkable addresses. FSM will occasionally send email to the email addresses we collect for our mailing list. 
+Information such as street addresses may be redisplayed on the Walk Score website or other FSM websites, for example in lists of the most or least walkable addresses. FSM will occasionally send email to the email addresses we collect for our mailing list
+
+We use Facebook Connect to prevent abuse when people edit Walk Score information and to keep statistics about user edits. We may use information from your Facebook profile to contact you about Walk Score related features and we may redisplay your Facebook profile information and comments on the Walk Score website or other FSM websites. 
 
 Browser-type related information, IP address, requested URL, referring URL, and timestamp data help us diagnose problems with our server and administer Walk Score. In addition, we use this information to perform statistical analyses of user behavior and characteristics in order to measure interest in and use of the various areas of the site and to inform advertisers of such information as well as the number of users that have been exposed to, or clicked on, their advertising banners. 
 
@@ -42,7 +44,7 @@ By using the website, you signify your agreement to the terms of our Privacy Pol
 
 ## **9\. Contacting Walk Score**
 
-If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can [contact us](https://web.archive.org/web/20100627220644id_/http%3A//www.walkscore.com/contact-us.php).
+If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can [contact us](https://web.archive.org/web/20110421071515id_/http%3A//www.walkscore.com/contact-us.php).
 
-_Last modified 7/17/2008_  
+_Last modified 12/16/2010_  
 
