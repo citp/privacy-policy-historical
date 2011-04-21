@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatemonster.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231123427id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatemonster.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422002227id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,6 +65,6 @@ TemplateMonster.com, Inc. (hereafter referred to as TemplateMonster.com) has cre
 
   
   
-Copyright © 2003-2010 Templatemonster.com. All Rights Reserved. Payments are carried out by Colerno Trade Limited.   
-[Intellectual Property Rights Policy](https://web.archive.org/intellectual-property.php) | [Report spam](https://web.archive.org/report-spam.php)  
+Copyright © 2003-2011 Templatemonster.com. All Rights Reserved. Payments are carried out by Colerno Trade Limited.   
+[Privacy Policy](https://web.archive.org/privacy-policy.php) | [Report spam](https://web.archive.org/report-spam.php)  
 Template Monster - Website Templates  |  Flash Templates  |  Web Templates Design 
