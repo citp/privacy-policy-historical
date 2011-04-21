@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the articlecontentprovider.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620125948id_/http%3A//www.articlecontentprovider.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecontentprovider.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422015450id_/http%3A//articlecontentprovider.com/privacy.html) for the most accurate reproduction.*
 
-# Article Content Provider Privacy Policy
+# Article Writing Service - 512.322.9566
 
-**Article Content Provider Privacy Policy**   
 **Our Commitment To Privacy and Nondisclosure**
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Your privacy is important to our article writing service. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the Article Content Provider website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the Article Content Provider website. On some pages, you can order products like our article writing services, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
 Name   
 Address   
@@ -20,11 +19,11 @@ Sensitive Information about your business plan, products, and services
 
 **The Way We Use Information:**
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+We use the information you provide about yourself when placing an order for our article writing service or other services, only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out one of the contact forms on our website or on the constant contact website. 
+You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out one of the contact forms on our website. 
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
@@ -40,7 +39,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 786-317-8774 or send us an email at webmaster@articlecontentprovider.com. 
-
-[**Home Page**](http://www.articlecontentprovider.com/ "content provider") | [**Order Articles**](http://www.articlecontentprovider.com/articles.html "article writer") | [**Website Content**](http://www.articlecontentprovider.com/website-content.html "website Content") | [**Press Releases**](http://www.articlecontentprovider.com/press-release.html "press release writer") | [**Article Marketing Ebook**](http://www.articlecontentprovider.com/articlemarketingebook.html "article marketing ebook")   
-[**For More, see Article Marketing Blog**](http://articlecontentprovider.com/article-marketing-blog/ "Article Marketing")
+Should you have other questions or concerns about these privacy policies, please call us at 512.322.9566 or send us an email at webmaster@articlecontentprovider.com. 
