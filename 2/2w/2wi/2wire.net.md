@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2wire.net privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216005815id_/http%3A//2wire.net%3Fp%3D275) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2wire.net privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421194108id_/http%3A//2wire.net%3Fp%3D275) for the most accurate reproduction.*
 
 # 2Wire.com: Privacy Policy
 
