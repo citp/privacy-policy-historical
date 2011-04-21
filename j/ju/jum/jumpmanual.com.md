@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpmanual.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219115552id_/http%3A//jumpmanual.com/170) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpmanual.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421192207id_/http%3A//jumpmanual.com/170) for the most accurate reproduction.*
 
 # The Jump Manual Privacy Policy | The Jump Manual: Comprehensive vertical jump training manual. How to jump higher.
 
