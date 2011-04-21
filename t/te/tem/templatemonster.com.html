@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the templatemonster.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231123427id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the templatemonster.com privacy policy that was archived on 2011-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110422002227id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <!-- Common Header Start-->
@@ -11,6 +11,7 @@
     </script>
 <title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="fb:page_id" content="240734989375">
 
 		<link type="text/css" href="http://images.templatemonster.com/themes/default/css/main.css" rel="stylesheet">
 		<link type="text/css" href="http://images.templatemonster.com/themes/default/css/search_form.css" rel="stylesheet">
@@ -34,17 +35,19 @@
 
 		<script type="text/javascript" src="http://images.templatemonster.com/js/formsubmit.js"></script>
 
-<script language="javascript" type="text/javascript">
-function buy(id) {
-	var url = '/cart.php?add=' + id
-                       + '&PHPSESSID=eh9cm5ds97u7e487vvnldkp7i1';
-	var priceVariantElement = $('input[name=price_variant]:checked');
-	if ('undefined' != typeof priceVariantElement) {
-		url = url + "&price_variant="+priceVariantElement.val();
-	}
-	window.location.href = url;
-}
+		<script type="text/javascript" src="http://images.templatemonster.com/js/wac.js"></script>
 
+<script language="javascript" type="text/javascript">
+	function buy(id) {
+		var url = '/cart.php?add=' + id
+						   + '&PHPSESSID=cad62660aa6b026e068b0f62fd590616';
+		var priceVariantElement = $('input[name=price_variant]:checked');
+		if ('undefined' != typeof priceVariantElement && priceVariantElement.length) {
+			url = url + "&price_variant="+priceVariantElement.val();
+		}
+		window.location.href = url;
+	}
+	
 function cart(s) {
   s = s || '';
   var priceVariantElement = $('input[name=price_variant]:checked');
@@ -59,13 +62,13 @@ function cart(s) {
     $.ajax({type: "POST",url: "/particles.php",data: "mode=add-to-cart&id="+s+priceStr,success: function(html){$('#add-to-cart').html(html).fadeIn(1000);}
     });
   } else {
-      window.location.href = "/cart.php?" + s + priceStr + "&PHPSESSID=eh9cm5ds97u7e487vvnldkp7i1";
+      window.location.href = "/cart.php?" + s + priceStr + "&PHPSESSID=cad62660aa6b026e068b0f62fd590616";
   }
 }
 
 function cartWithYourPrice(id, price) {
   window.location.href = "/cart.php?add="+ id + "&price="+ price
-                       + "&PHPSESSID=eh9cm5ds97u7e487vvnldkp7i1";
+                       + "&PHPSESSID=cad62660aa6b026e068b0f62fd590616";
 }
 
     function timeMeasurement()
@@ -92,6 +95,7 @@ function cartWithYourPrice(id, price) {
 <!-- ============================================================================ -->
 
 </head>
+<!--[if gte IE 9]><body class="gteIE9" id='breadTab_body_id_privacy_policy'><![endif]-->
 <!--[if IE 8]><body class="isIE8" id='breadTab_body_id_privacy_policy'><![endif]-->
 <!--[if IE 7]><body class="isIE" id='breadTab_body_id_privacy_policy'><![endif]-->
 <!--[if IE 6]><body class="isIE6" id='breadTab_body_id_privacy_policy'><![endif]-->
@@ -118,6 +122,11 @@ function cartWithYourPrice(id, price) {
     </a>
   </div>
 </div>
+<!--[if lt IE 7]>
+    <div style='clear: both; height: 30px; position: absolute; top:0; text-align:center; width:100%;'>
+        <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode" onclick="_gaq.push(['_trackPageview', '/out/links/upgradeIE6']);"><img src = "http://images.templatemonster.com/themes/default/images/ie6-countdown-bg.png"  alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."    /></a>
+    </div>
+<![endif]-->
 <!--// Network bar -->
 
 <table id="page">
@@ -131,19 +140,18 @@ function cartWithYourPrice(id, price) {
           <span class="button"><a id="help" href="/support.php">Support</a></span>
 	<span class="button"><a id="site_map" href="/sitemap.php">Site Map</a></span>
 	<span class="button"><a id="about_us_page" href="/about.php">About Us</a></span>
-	<span class="button"><a id="shopping_cart" href="/cart.php" onclick="javascript: cart(''); return false;" rel="nofollow">Shopping Cart</a></span>          <div class="banner">
+	<span class="button"><a id="shopping_cart" href="/cart.php" onclick="javascript: cart(''); return false;" rel="nofollow">Shopping Cart</a></span>          <div class="banner affiliate_banner">
           <!-- Banner -->
-            <div class="lbg">
-            </div>
-            <div class="banner_content">
-                <p><span>Affiliate Program</span><br>
-                Sell Web Templates and  Earn 20% Commission!</p>
-                <a href="/register_aff.php">
-                      <span class="join_lbg"></span>
-                      <span class="join_content">Join Now!</span>
-                      <span class="join_rbg"></span>
-                </a>
-            </div>
+            <div class="lbg"></div>
+                <div class="banner_content">
+                                            <p><span>Affiliate Program</span><br>Sell Web Templates and  Earn 20% Commission!</p>
+                        
+                        <a href="/register_aff.php">
+                            <span class="join_lbg"></span>
+                            <span class="join_rbg"></span>
+                            Join Now!
+                        </a>
+                                    </div>
             <div class="rbg"></div>
           <!--// Banner -->
           </div>
@@ -173,11 +181,11 @@ function cartWithYourPrice(id, price) {
                 <div>
                   <a href="/corporate-design.php"><span>Corporate Design</span></a>
                 </div>
-              </li><li id="silverlight_nav" class="">
+              </li><li class="">
                 <div>
-                  <a href="/silverlight.php"><span>Silverlight</span></a>
+                  <a href="/facebook-layouts.php"><span>Facebook Layouts</span></a>
                 </div>
-              </li><li id="video_nav" class="">
+              </li><li class="">
                 <div>
                   <a href="/video-templates.php"><span>Video Templates</span></a>
                 </div>
@@ -307,7 +315,13 @@ function cartWithYourPrice(id, price) {
       <td class="footer">
         <div style="float: left;">
 		Main Products:
-                                                  <a href="/website-templates.php">Website Templates</a>&nbsp;&nbsp;|&nbsp;                        <a href="/flash-templates.php">Flash Templates</a>&nbsp;&nbsp;|&nbsp;                        <a href="/flash-intro.php">Flash Intro Templates</a>&nbsp;&nbsp;|&nbsp;                        <a href="/dynamic-flash-photo-galleries.php">Flash Photo Gallery Templates</a>&nbsp;&nbsp;|&nbsp;                        <a href="/swish-templates.php">SWiSH Templates</a>&nbsp;&nbsp;|&nbsp;                        <a href="/ebooks.php">eBooks</a>                  <br>
+                                    		          <a href="/website-templates.php">Website Templates</a>
+                    &nbsp;&nbsp;|&nbsp;          		          <a href="/flash-templates.php">Flash Templates</a>
+                    &nbsp;&nbsp;|&nbsp;          		          <a href="/flash-intro.php">Flash Intro Templates</a>
+                    &nbsp;&nbsp;|&nbsp;          		          <a href="/dynamic-flash-photo-galleries.php">Flash Photo Gallery Templates</a>
+                    &nbsp;&nbsp;|&nbsp;          		          <a href="/swish-templates.php">SWiSH Templates</a>
+                    &nbsp;&nbsp;|&nbsp;          		          <a href="/ebooks.php">eBooks</a>
+                                      <br>
         Products:
                                       
           <a href="/zencart-templates.php">Zen cart Templates</a>
@@ -345,6 +359,9 @@ function cartWithYourPrice(id, price) {
             &nbsp;|&nbsp;                                
           <a href="/mobile-templates.php">Mobile Templates</a>
           
+            &nbsp;|&nbsp;            <br>                    
+          <a href="/silverlight.php">Silverlight</a>
+          
                                           </div>
         <!-- START SCANALERT CODE -->
 		<div id="McAfeeBox"></div><!-- END SCANALERT CODE -->
@@ -355,9 +372,9 @@ function cartWithYourPrice(id, price) {
 				<br class="clear">
                 <br>
         <div style="text-align: center;">
-			Copyright © 2003-2010 Templatemonster.com. All Rights Reserved. Payments are carried out by Colerno Trade Limited.
+			Copyright © 2003-2011 Templatemonster.com. All Rights Reserved. Payments are carried out by Colerno Trade Limited.
         <br>
-	<a href="/intellectual-property.php" rel="nofollow">Intellectual Property Rights Policy</a> |
+	<a href="/privacy-policy.php">Privacy Policy</a> |
 	<a href="/report-spam.php" rel="nofollow">Report spam</a><br>
 	Template Monster - Website Templates &nbsp;|&nbsp; Flash Templates &nbsp;|&nbsp; Web Templates Design
 			</div>
@@ -387,10 +404,11 @@ try {
 	_gaq.push(['_setDomainName', '.templatemonster.com']);
 	_gaq.push(['_setAllowLinker', true]);
 	_gaq.push(['_setAllowHash', false]);
-	_gaq.push(['_trackEvent', 'Time Spent', 'Server Generation', '/privacy-policy.php', 57]);
+	_gaq.push(['_trackEvent', 'Time Spent', 'Server Generation', '/privacy-policy.php', 109]);
 } catch (err) {}
 </script>
 <!--// Google analytics -->
+<div id="popup_back_layout"></div>
 <script type="text/javascript">
 window.onload = timeMeasurement;
 </script>
