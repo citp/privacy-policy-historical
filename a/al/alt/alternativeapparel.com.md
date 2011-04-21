@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531181613id_/http%3A//www.alternativeapparel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeapparel.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421230145id_/http%3A//alternativeapparel.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Alternative | Privacy Policy
 
-|    
+  
 
 
 ##  Privacy Statement
@@ -11,7 +11,7 @@ Alternative collects customer information in an effort to improve our customer's
 
 Alternative will not rent or sell your e-mail address for any reason. We do not share credit card information with third parties except for the purpose of processing payment for products you've ordered, and as required by law.
 
-You can always update or delete your personal information on our web site. Simply click **[My Account](https://web.archive.org/Login.aspx)** in the menu at the top of each page on our site, log in, and you'll be able to edit or change your information. If at any time you would like us to delete any of your personal information on file, you can email us ([contactus@alternativeapparel.com](mailto:contactus@alternativeapparel.com)) or call us at 888.481.4287. Please be sure to include your e-mail address, full name and password.
+You can always update or delete your personal information on our web site. Simply click **[My Account](https://web.archive.org/Login.aspx)** in the menu at the top of each page on our site, log in, and you'll be able to edit or change your information. If at any time you would like us to delete any of your personal information on file, you can email us ([contactus@alternativeapparel.com](mailto:contactus@alternativeapparel.com)) or call us at 888.481.8339. Please be sure to include your e-mail address, full name and password.
 
   
 
