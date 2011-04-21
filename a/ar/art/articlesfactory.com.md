@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesfactory.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204112213id_/http%3A//www.articlesfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesfactory.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421215713id_/http%3A//www.articlesfactory.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
