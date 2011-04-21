@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the formetocoupon.com privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813105302id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formetocoupon.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421230144id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Overview**
 
-For Me to Coupon ("FMTC") is committed to clearly informing users about the collection and use of their information when using our services. As a result, we have put together this Privacy Policy to explain how we collect, use and disclose certain information. This Privacy Policy only applies to our website and service located at ForMeToCoupon.com (the "Web site").
+For Me To Coupon ("FMTC") is committed to clearly informing users about the collection and use of their information when using our services. As a result, we have put together this Privacy Policy to explain how we collect, use and disclose certain information. This Privacy Policy only applies to our website and service located at ForMeToCoupon.com (the "Web site").
 
 **Collection of Personal Information**
 
 When using the Web site and/or registering for our service, you may be asked to provide, or you may choose to upload, certain personally identifiable information about yourself ("Personal Information"). Personal Information can include your name, email address, physical address, payment information (such as credit card number) and other information that specifically identifies you. 
 
-We will never collect Personal Informational directly from you unless you have voluntarily provided it to us.
+We will never collect Personal Information directly from you unless you have voluntarily provided it to us.
 
 **Collection of Non-Personal Information**
 
@@ -24,7 +24,7 @@ Except as described below, we do not share your Personal Information with any th
 
   * We may use your Personal Information from time to time to send you newsletters and other information about FMTC. 
   * We may use your Personal Information to respond to your questions or to provide service you have requested.
-  * We may provide your Personal Information to Marketers and Affiliate Networks in connection with any suspected violation of our Terms of Service.
+  * We may provide your Personal Information to Marketers and Affiliate Networks in connection with any suspected violation of our [Terms of Service.](http://www.formetocoupon.com/agreement)
   * We may provide your Personal Information to our contractors only for use in connection with services they are performing on our behalf.
   * We may transfer your Personal Information in connection with the sale or merger, in whole or in part, of FMTC, its assets or the division responsible for the applicable services. 
   * We reserve the right to access and/or disclose Personal Information and Non-Personal Information we gather as required by courts or administrative agencies and to the extent required to permit us to investigate suspected fraud, harassment or other violations of any law, rule or regulation, the Web site's policies, or the rights of third parties or to investigate any suspected conduct which we deem improper.
