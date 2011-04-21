@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeqn.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221105015id_/http%3A//www.homeqn.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeqn.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421072859id_/http%3A//www.homeqn.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Homeqn: A complete guide to Home Decor, Home Tech and Home Improvement
 
