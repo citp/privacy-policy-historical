@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigmoneyinmail.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120040536id_/http%3A//bigmoneynmail.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigmoneyinmail.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422164832id_/http%3A//www.bigmoneynmail.com/privacy.html) for the most accurate reproduction.*
 
 # Big Money In Mail
 
