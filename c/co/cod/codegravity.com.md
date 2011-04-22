@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codegravity.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204164934id_/http%3A//codegravity.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codegravity.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422130443id_/http%3A//www.codegravity.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - CodeGravity.com
+# Privacy policy
 
 CodeGravity.com is strongly committed to protecting the privacy of its user community.
 
@@ -8,7 +8,7 @@ Whilst this Privacy Policy also covers the fine detail, we can sum it up here: w
 
 **Individual User Information**
 
-Individually identifiable information will not be released without that individual's prior consent. Visitors are specifically asked for individually identifiable information when signing up to use certain CodeGravity.com services. In some instances, users may be asked for personal interest and demographic information in order to create a more customized user experience; however these fields will generally be optional. From time to time, Codegravity.com may wish to contact individual users regarding community news or to make promotional offers. However, such communications will only be delivered to users who have previously approved them, and we do not share neither e-mail addresses nor individually identifiable information with any third parties **.**
+Individually identifiable information will not be released without that individual's prior consent. visitors are specifically asked for individually identifiable information when signing up to use certain CodeGravity.com services. In some instances, users may be asked for personal interest and demographic information in order to create a more customized user experience; however these fields will generally be optional. From time to time, Codegravity.com may wish to contact individual users regarding community news or to make promotional offers. However, such communications will only be delivered to users who have previously approved them, and we do not share neither e-mail addresses nor individually identifiable information with any third parties **.**
 
 **Site Usage**
 
@@ -26,5 +26,5 @@ CodeGravity.com reserves the right to access and disclose individually identifia
 
 By using this site, you signify your assent to the CodeGravity.com Privacy Policy. If you do not agree to this policy, please do not use this site. The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. Your continued use of this site following the posting of changes to these terms will mean you accept those changes. If you have any questions about our privacy policy, or believe that we have not adhered to the guidelines set forth above, please [contact us](mailto:foo%7Bat%7Dcodegravity\[dot\]com). 
 
-|  [< Prev](https://www.codegravity.com/about/codegravity-com-has-now-pagerank-7) |    |  [Next >](https://www.codegravity.com/about/work-and-freelance)  
+|  [< Prev](http://www.codegravity.com/about/codegravity-com-has-now-pagerank-7) |    |  [Next >](http://www.codegravity.com/about/work-and-freelance)  
 ---|---|---
