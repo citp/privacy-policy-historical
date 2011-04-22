@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aveva.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212161401id_/http%3A//www.aveva.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveva.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422204424id_/http%3A//aveva.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - AVEVA
 
-(Revised 30 November 2007) 
+(Revised 2 January 2011) 
 
-This website is operated by AVEVA Group plc and the AVEVA group of companies, some of which are located in countries outside the European Economic Area. AVEVA and its associated companies will use the information we collect from you in accordance with this policy. A list of our associated companies is available on request to [marketing.contact@aveva.com](mailto:marketing.contact@aveva.com)
+This website is operated by AVEVA Group plc and the AVEVA group of companies, some of which are located in countries outside the European Economic Area. AVEVA and its associated companies will use the information we collect from you in accordance with this policy. A list of our associated companies is available on request.
 
 ## Use of submitted information
 
@@ -18,9 +18,7 @@ Any changes to this privacy policy will be clearly notified on this website.
 
 ## Contact
 
-All comments, queries and requests relating to our use of your information should be addressed to [marketing.contact@aveva.com](mailto:marketing.contact@aveva.com)
-
-If you would like us to stop sending you information about AVEVA’s products and services at any time, please let us know by using the [Contact Us](https://web.archive.org/web/20101212161401id_/http%3A//www.aveva.com/contact_us.php) page on this website.
+If at any time you would like us to stop sending you information about AVEVA’s products and services, or you have any comments, queries or requests relating to our use of your information, please let us know by using the [Contact Us](https://web.archive.org/web/20110422204424id_/http%3A//aveva.com/contact_us.php) page on this website.
 
 ## AVEVA's use of cookies
 
