@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classstartstoday.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122072506id_/http%3A//classstartstoday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classstartstoday.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422220720id_/http%3A//classstartstoday.com/privacy.html) for the most accurate reproduction.*
 
 # ::: welcome to classstarttoday.com :::
 
