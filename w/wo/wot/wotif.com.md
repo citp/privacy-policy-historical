@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618144707id_/http%3A//www.wotif.com/info/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422063739id_/http%3A//www.wotif.com/info/Privacy) for the most accurate reproduction.*
 
 # Wotif.com: Privacy
 
@@ -6,7 +6,7 @@
 
 At Wotif.com, we are committed to protecting the privacy and security of any personally identifiable information ("PII") you provide us. PII includes information that can be linked to a specific individual, such as name, address, phone number, or email address.
 
-This privacy policy explains how we handle and protect your PII in accordance with commonly accepted privacy principles. This policy was last adjusted on 18 December 2006. 
+This privacy policy explains how we handle and protect your PII in accordance with commonly accepted privacy principles. This policy was last adjusted on 18 December 2006.
 
 We reserve the right to modify or amend this policy at any time and for any reason. Any material changes to this privacy policy will be posted prior to their implementation. Questions regarding this policy should be emailed to [privacy@wotif.com](mailto:privacy@wotif.com?subject=\[privacy%20policy\]) or sent via postal mail to: Wotif.com Pty Ltd, Attention: Privacy Officer, 13 Railway Terrace, Milton, Qld, 4064, Australia.
 
@@ -39,14 +39,14 @@ Wotif collects email addresses from people who subscribe to the Wotif newsletter
   * _Surveys, promotions and competition information_  
 Occasionally, We may offer site visitors or newsletter recipients an opportunity to participate in a survey, promotion or competition. The PII we collect when you participate in a survey, promotion or competition may include your full name, email address, telephone number and street address.
   * _Contact Wotif.com_  
-We collect PII such as your full name, email address and/or telephone number whenever you submit an enquiry or suggestion, or request assistance with a booking through our Feedback pages.
+We collect PII such as your full name, email address and/or telephone number and feedback whenever you submit an enquiry or suggestion, provide feedback or comments or request assistance with a booking .
 
 
 
 Other information we collect:
 
   * _Statistical information_  
-When you visit our site, we record general information about your visit for statistical purposes. These statistics do not contain any PII. 
+When you visit our site, we record general information about your visit for statistical purposes. These statistics do not contain any PII.
   * _Cookies_  
 We may, from time to time, use "cookies" to store your preferences, record session information and collect information on how you visit and access our web pages. We collect information on the web pages visited by our customers to help us continue to improve our services. 
 
@@ -62,7 +62,7 @@ You can delete cookies from your computer at any time (see your internet browser
 We use your PII only for the purpose of responding to and fulfilling your requests for our products and services. Information collected on the Wotif.com site may be used to:
 
   * _Purchase Wotif.com products or services_  
-Information collected when you purchase from us is used to charge your credit card and deliver your booking confirmation electronically. We may also contact you about your stay for customer service purposes or to make any changes or cancellations to your booking.
+Information collected when you purchase from us is used to charge your credit card and deliver your booking confirmation electronically. We may also contact you about your stay for customer service and feedback purposes or to make any changes or cancellations to your booking.
   * _Display your details when you next book with us_  
 We will only display your details if you have ticked 'Remember my details for next time' while making a booking with us. This is done to reduce the information you need to type when you next make a booking. Your full name, email address, phone number, credit card type, and name on card are the only details stored when you select this option. We will also add any property you attempt to book to your shortlist for easier future access.
   * _Send newsletter email_  
@@ -77,7 +77,7 @@ We will use your email address and/or telephone number to contact you when you s
 We do not disclose any information about customer bookings to anyone except in the following circumstances:
 
   * _Accommodation suppliers_  
-We provide the guest name, telephone number and email address for each booking made to the relevant accommodation supplier. Our accommodation suppliers require this information for the booking and may use it if they need to contact you about the booking. Although we offer accommodation from reputable accommodation suppliers, we have not placed specific limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the privacy policies of any suppliers whose accommodation you purchase on our website. 
+We provide the guest name, telephone number and email address for each booking made to the relevant accommodation supplier. Our accommodation suppliers require this information for the booking and may use it if they need to contact you about the booking. Although we offer accommodation from reputable accommodation suppliers, we have not placed specific limitations on these suppliers from using or disclosing your information without your permission. Therefore, we encourage you to review the privacy policies of any suppliers whose accommodation you purchase on our website.
   * _Legal obligations_  
 We may be required by law to disclose information you provide us with for the purposes of obtaining products or services from Wotif.com. We may also disclose information against someone who poses a threat to our interests (such as customer fraud) or whose activities could cause harm to others.
 
@@ -89,7 +89,7 @@ We believe that site visitors and customers should have control over the collect
 
   * _Newsletter subscription and unsubscription_  
 If at any time you would like to either change your email address with us or unsubscribe from our newsletter you can: 
-    1. Go to the "Newsletter" section of our site from the home page and follow the instructions to change your email address or unsubscribe; or 
+    1. Go to the "Newsletter" section of our site from the home page and follow the instructions to change your email address or unsubscribe; or
     2. Send an email to [newsletter@wotif.com](mailto:newsletter@wotif.com?subject=\[newsletter%20subscription%20changes\]) advising that you would like to unsubscribe or change your email address. Be sure to include details of your old and new email addresses for changes.
   * _Booking information_  
 If at any time you would like to alter the PII you provided us in your booking, please [contact us](http://info.wotif.com/ContactUs).
@@ -102,11 +102,11 @@ If at any time you want to enquire about any of your PII that we store, please [
 
 ## How We Protect Your Information
 
-To ensure the confidentiality of your PII, we use leading security technology and procedures that are regularly reviewed and updated. 
+To ensure the confidentiality of your PII, we use leading security technology and procedures that are regularly reviewed and updated.
 
 We have also obtained a digital certificate from Thawte Server CA (part of the VeriSign group), an industry leader in the protection and management of data transmission.
 
-Our systems are configured with industry standard data encryption and firewall technology. When you send PII to us over the Internet, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission. 
+Our systems are configured with industry standard data encryption and firewall technology. When you send PII to us over the Internet, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission.
 
   
 
