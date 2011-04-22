@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityrail.info privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125123858id_/http%3A//www.cityrail.info/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityrail.info privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422070454id_/http%3A//www.cityrail.info/general/privacy) for the most accurate reproduction.*
 
 # Privacy - CityRail
 
