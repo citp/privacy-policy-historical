@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubpics.info privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125204308id_/http%3A//hubpics.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubpics.info privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422090623id_/http%3A//hubpics.info/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # WEB Hosting Provider <# REAL_FILENAME #>
 
