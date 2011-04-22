@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223202742id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptlance.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422162908id_/http%3A//www.scriptlance.com/privacy.shtml) for the most accurate reproduction.*
 
 # ScriptLance.com Custom Freelance Programming. Outsource web projects to programmers and designers.
 
 | |    THE 20 LATEST PROJECTS  
 ---|---  
-[Skin Wordpress Blog](http://www.scriptlance.com/projects/1266956693.shtml)  
+[Duplicate Html Pages And Ed...](http://www.scriptlance.com/projects/1303489019.shtml "Duplicate Html Pages And Edit Content 2")  
 ---  
-[Chatroulette Clonescript](http://www.scriptlance.com/projects/1266956553.shtml)  
-[Word Template](http://www.scriptlance.com/projects/1266956526.shtml)  
-[Programming Project 2503682](http://www.scriptlance.com/projects/1266956333.shtml)  
-[An Video Expert](http://www.scriptlance.com/projects/1266956129.shtml)  
-[Madbid Website Clone](http://www.scriptlance.com/projects/1266956029.shtml)  
-[Mysql With Gis Setup & Queries](http://www.scriptlance.com/projects/1266955846.shtml)  
-[Auto Posting Script](http://www.scriptlance.com/projects/1266955571.shtml)  
-[Simple Facebook Fan Page](http://www.scriptlance.com/projects/1266955209.shtml)  
-[One Page Ringtone Niche Site](http://www.scriptlance.com/projects/1266955088.shtml)  
-[Need Two Psds Coded Asap](http://www.scriptlance.com/projects/1266955018.shtml)  
-[Banners For Hosting Company](http://www.scriptlance.com/projects/1266954825.shtml)  
-[Photoshop Tutorial](http://www.scriptlance.com/projects/1266954276.shtml)  
-[Move Wpress Blog To New Domain](http://www.scriptlance.com/projects/1266954161.shtml) [](https://web.archive.org/prepaid.shtml)  
-[Re Design - Company Logo](http://www.scriptlance.com/projects/1266954074.shtml)  
-[Custom Article Php Script](http://www.scriptlance.com/projects/1266953748.shtml)  
-[Flash Webshop - Edit Files](http://www.scriptlance.com/projects/1266953234.shtml)  
-[Small Wordpress Blog Changes](http://www.scriptlance.com/projects/1266953163.shtml)  
-[Photoshop Help Expertise](http://www.scriptlance.com/projects/1266952975.shtml)  
-[Vectorize Colored Logo](http://www.scriptlance.com/projects/1266952927.shtml)  
+[Essay 2000 Words](http://www.scriptlance.com/projects/1303488980.shtml)  
+[Easy Job -get The Keywords ...](http://www.scriptlance.com/projects/1303488737.shtml "Easy Job -get The Keywords From The Webpages For Meta Tags 3")  
+[Copy Flash Template Website...](http://www.scriptlance.com/projects/1303488623.shtml "Copy Flash Template Website With Cms")  
+[Project For Alive Hope Aliv...](http://www.scriptlance.com/projects/1303488607.shtml "Project For Alive Hope Alivehope12")  
+[Real Estate](http://www.scriptlance.com/projects/1303488331.shtml)  
+[Build Website With Sales La...](http://www.scriptlance.com/projects/1303488192.shtml "Build Website With Sales Landing Page")  
+[Wordpress Thematic Framwork](http://www.scriptlance.com/projects/1303487853.shtml)  
+[Data Collection](http://www.scriptlance.com/projects/1303486905.shtml)  
+[Ten Articles Needed](http://www.scriptlance.com/projects/1303486897.shtml)  
+[Link Building](http://www.scriptlance.com/projects/1303486787.shtml)  
+[Script](http://www.scriptlance.com/projects/1303486601.shtml)  
+[Need New Header File With L...](http://www.scriptlance.com/projects/1303486049.shtml "Need New Header File With Logo And More..")  
+[Project For Muhammad Umer340](http://www.scriptlance.com/projects/1303485445.shtml)  
+[Oscommerce Fixes](http://www.scriptlance.com/projects/1303485074.shtml)  
+[Write Product Reviews](http://www.scriptlance.com/projects/1303484406.shtml)  
+[My Website Development](http://www.scriptlance.com/projects/1303483387.shtml)  
+[Copy Cached Content From Go...](http://www.scriptlance.com/projects/1303482422.shtml "Copy Cached Content From Google")  
+[Clone A Website](http://www.scriptlance.com/projects/1303482399.shtml)  
+[Opencart - 2 Projects](http://www.scriptlance.com/projects/1303481991.shtml)  
 |    POPULAR NEW PROJECTS  
 ---|---  
 | 
