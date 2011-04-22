@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cs-cart.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223111053id_/http%3A//www.cs-cart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cs-cart.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422032957id_/http%3A//www.cs-cart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Resources :: Privacy Policy -
 
-This privacy policy (the “Policy”) applies to all personal information that Simbirsk Technology Ltd. (the “Company”) can receive from the User during the period of the User's staying at the website http://www.cs-cart.com and its subdomains (the “Website”). And the Policy describes how the Company collects, uses and discloses the personal information obtained through the Website.
+This privacy policy (the “Policy”) applies to all personal information that Simbirsk Technology Ltd. (the “Company”) can receive from the User during the period of the User's staying at the website [http://www.cs-cart.com](http://www.cs-cart.com/) and its subdomains (the “Website”). And the Policy describes how the Company collects, uses and discloses the personal information obtained through the Website.
 
 By using the Website, the User agrees that the Company can collect and use his personal information.
 
@@ -16,7 +16,7 @@ The Company uses the User's personal information to provide products and service
 
 The Company does not sell or disclose personal information about the User. The Company may disclose and transfer personal information to third parties only if required by the Russian or international law and/or authorities in accordance with legal procedure.
 
-If the User is registered at the Website, he can access, review and modify his personal information at any time. In order to edit his personal information, the User has to log in to his profile page on the Website (at http://helpdesk.cs-cart.com or http://forum.cs-cart.com).
+If the User is registered at the Website, he can access, review and modify his personal information at any time. In order to edit his personal information, the User has to log in to his profile page on the Website (at <http://www.cs-cart.com/helpdesk> or [http://forum.cs-cart.com](http://forum.cs-cart.com/)).
 
 The Website contains links to third party websites. However, the Company has no control over these websites or their privacy practices. Before submitting personal information on these websites, the Company encourages the User to carefully review their privacy policies.
 
