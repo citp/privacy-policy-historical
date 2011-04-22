@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tweetdeck.posterous.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221215808id_/http%3A//www.tweetdeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetdeck.posterous.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423015803id_/http%3A//www.tweetdeck.com/privacy) for the most accurate reproduction.*
 
-# Privacy « TweetDeck
+# Privacy « TweetDeck - Your social world
 
 ## Privacy Policy
 
@@ -106,4 +106,4 @@ TweetDeck may amend this Privacy Policy. Use of information we collect now is su
 
 ### Questions Or Concerns
 
-If you have any questions or concerns regarding privacy at TweetDeck, please send us a detailed message to [legal@tweetdeck.com](mailto:legal@tweetdeck.com)or to TweetDeck, Inc., c/o Betaworks Studio, LLC, 416 West 13th Street, Suite 203, New York, NY 10014. Your privacy is important to us and we will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy at TweetDeck, please send us a detailed message to [legal@tweetdeck.com](mailto:legal@tweetdeck.com) or to TweetDeck, Inc., c/o Betaworks Studio, LLC, 416 West 13th Street, Suite 203, New York, NY 10014. Your privacy is important to us and we will make every effort to resolve your concerns.
