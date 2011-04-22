@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cs-cart.com privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223111053id_/http%3A//www.cs-cart.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cs-cart.com privacy policy that was archived on 2011-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110422032957id_/http%3A//www.cs-cart.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 <title>Resources :: Privacy Policy - </title>
@@ -10,18 +10,24 @@
 <meta name="description" content="This privacy policy “Policy” applies personal information that Simbirsk Technology “Company” receive from User during period User staying website http //www cs-cart subdomains “Website” Policy describes Company collects uses discloses personal information obtained through Website using Website User agrees that Company collect personal information Collection Personal Information User visit Website without disclosing personal information cases when User decided request certain">
 <meta name="keywords" content="">
 
-<link href="/skins/basic/customer/addons/cscart_site/overrides/images/icons/favicon.ico" rel="shortcut icon">
+<link href="/skins/base/customer/addons/cscart_site/overrides/images/icons/favicon.ico" rel="shortcut icon">
 
-<link href="/skins/basic/customer/addons/cscart_site/overrides/styles.css" rel="stylesheet" type="text/css">
-<link href="/skins/basic/customer/print.css" rel="stylesheet" media="print" type="text/css">
-<link href="/skins/basic/customer/addons/cscart_site/overrides/dropdown.css" rel="stylesheet" type="text/css">
+<link href="/skins/base/customer/css/ui/jqueryui.css" rel="stylesheet" type="text/css">
+<link href="/skins/base/customer/addons/cscart_site/overrides/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/base/customer/print.css" rel="stylesheet" media="print" type="text/css">
+<link href="/skins/base/customer/addons/cscart_site/overrides/dropdown.css" rel="stylesheet" type="text/css">
 <!--[if lte IE 7]>
-<link href="/skins/basic/customer/addons/cscart_site/overrides/styles_ie.css" rel="stylesheet" type="text/css" />
+<link href="/skins/base/customer/addons/cscart_site/overrides/styles_ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-<link href="/skins/basic/customer/addons/discussion/styles.css" rel="stylesheet" type="text/css"><link href="/skins/basic/customer/addons/cscart_site/styles.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/lib/jquery/jquery.js"></script>
+<link href="/skins/base/customer/addons/helpdesk/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/base/customer/addons/discussion/styles.css" rel="stylesheet" type="text/css"><link href="/skins/base/customer/addons/cscart_site/styles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/lib/js/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="/lib/js/jqueryui/jquery-ui.custom.min.js"></script>
+<script type="text/javascript" src="/lib/js/tools/tooltip.min.js"></script>
+
 <script type="text/javascript" src="/js/core.js"></script>
 <script type="text/javascript" src="/js/ajax.js"></script>
+
 <script type="text/javascript" src="/js/buy_menu.js"></script>
 <script type="text/javascript" src="/documentation/reference_guide/cscart_reference_guide_navigation.js"></script>
 <script type="text/javascript" src="/documentation/reference_guide/highlight.js"></script>
@@ -74,21 +80,22 @@ var warning_mark = "&lt;&lt;";
 
 var currencies = {
 	'primary': {
-		'decimals_separator': '',
-		'thousands_separator': '',
-		'decimals': '',
-		'coefficient': ''
+		'decimals_separator': '.',
+		'thousands_separator': ',',
+		'decimals': '2',
+		'coefficient': '1.00000'
 	},
 	'secondary': {
-		'decimals_separator': '',
-		'thousands_separator': '',
-		'decimals': '',
-		'coefficient': ''
+		'decimals_separator': '.',
+		'thousands_separator': ',',
+		'decimals': '2',
+		'coefficient': '1.00000'
 	}
 };
 
 var cart_language = 'EN';
-var images_dir = '/skins/basic/customer/images';
+var skin_name = 'base';
+var images_dir = '/skins/base/customer/images';
 var notice_displaying_time = 5;
 var cart_prices_w_taxes = false;
 var translate_mode = false;
@@ -121,7 +128,26 @@ $(document).ready(function(){
 </script>
 <![endif]-->
 
-<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
+<script type="text/javascript" src="/lib/js/appear/jquery.appear-1.1.1.js"></script>
+
+<script type="text/javascript" src="/addons/helpdesk/js/func.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+	lang.dear = 'Dear';
+	
+	var defined_company_id = '';
+	var area = 'C';
+	
+	//Wysiwyg
+	var skin_name_customer = 'base';
+	$(document).ready(function(){
+		$('textarea.cm-wysiwyg').appear(function() {
+			$(this).ceEditor();
+		});
+	});
+//]]>
+</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
 
 <body>
 
@@ -130,9 +156,6 @@ $(document).ready(function(){
 <div class="helper-container">
 	<a name="top"></a>
 	<div id="ajax_loading_box" class="ajax-loading-box"><div class="right-inner-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div></div>
-	
-
-<div class="cm-notification-container"></div>
 
 	
 
@@ -144,7 +167,7 @@ $(document).ready(function(){
 <div class="head">
 	<div class="header-helper-container clear">
 		<div class="logo-image">
-			<a href="/"><img src="/skins/basic/customer/addons/cscart_site/overrides/images/cscart-logo.png" width="171" height="29" border="0" alt="Ecommerce shopping cart software"></a>
+			<a href="/"><img src="/skins/base/customer/addons/cscart_site/overrides/images/help_desk_1a.gif" width="175" height="37" border="0" alt="Ecommerce shopping cart software"></a>
 		</div>
 		<div class="top-search float-right">
 			<div>
@@ -158,7 +181,11 @@ $(document).ready(function(){
 	<li>|</li>
 	<li class="simple"><a href="send-message.html">Contact</a></li>
 	<li>|</li>
-	<li class="simple last"><a href="http://helpdesk.cs-cart.com">Log in</a></li>
+	<li class="simple last">
+					<a rel="nofollow" href="/index.php?dispatch=auth.login_form&amp;return_url=">Sign in</a>
+			or
+			<a href="/index.php?dispatch=profiles.add" rel="nofollow">Register</a>
+			</li>
 </ul>
 <div class="clear s-clear"></div>
 
@@ -176,7 +203,7 @@ $(document).ready(function(){
 <input type="hidden" name="search_performed" value="Y">
  
 
-<span class="phone"><span class="usa">+1 800-676-1298</span></span><span class="phone"><span class="uk">+44 203-026-2550</span></span><span class="search"><input type="text" name="q" value="Search..." onfocus="this.select();" class="search-input cm-hint"><input type="image" src="/skins/basic/customer/addons/cscart_site/overrides/images/icons/go.gif" alt="Search" title="Search" class="go-button">
+<span class="phone"><span class="usa">+1 800-676-1298</span></span><span class="phone"><span class="uk">+44 203-026-2550</span></span><span class="search"><input type="text" name="q" value="Search..." onfocus="this.select();" class="search-input cm-hint"><input type="image" src="/skins/base/customer/addons/cscart_site/overrides/images/icons/go.gif" alt="Search" title="Search" class="go-button">
 <input type="hidden" name="dispatch" value="search.results"></span>
 
 </form></div>
@@ -303,8 +330,14 @@ $(document).ready(function(){
 		<li class="tm-shadow">&nbsp;</li>		</ul>
 </li><li class="has-subitems "><span><a href="/support-item.html">Services</a></span>
 <ul>
-			<li class="">
+			<li class="dir">
 		<a href="/support-item.html">Technical Support</a>
+					
+<ul>
+			<li class=" m-last-items">
+		<a href="/live-chat-support.html">Technical Support via Live Chat</a>
+			</li>
+		<li class="tm-shadow">&nbsp;</li>		</ul>
 			</li>
 					<li class="">
 		<a href="/custom-development.html">Custom Development</a>
@@ -400,7 +433,7 @@ $(document).ready(function(){
 		<a href="/shopping-cart-labs.html">CS-Cart Labs</a>
 			</li>
 		<li class="tm-shadow">&nbsp;</li>		</ul>
-</li><li class="first-level "><span><a href="http://blog.cs-cart.com/">Blog</a></span></li></ul>
+</li><li class="first-level "><span><a href="http://blog.cs-cart.com/">Blog</a></span></li><li class="first-level "><span><a href="/helpdesk">Help Desk</a></span></li></ul>
 </div>
 <span class="helper-block">&nbsp;</span>
 </div>
@@ -426,7 +459,7 @@ $(document).ready(function(){
 <input type="hidden" name="return_url" value="index.php?dispatch=pages.view&amp;page_id=98">
 
 <div class="form-field">
-	<label for="login_popup" class="cm-required">Username:</label>
+	<label for="login_popup" class="cm-required cm-trim cm-email">Email:</label>
 	<input type="text" id="login_popup" name="user_login" size="30" value="" class="input-text cm-focus">
 </div>
 
@@ -436,6 +469,12 @@ $(document).ready(function(){
 </div>
 
 
+<input type="hidden" name="gmt_offset" id="gmt_19f3cd308f1455b3fa09a282e0d496f4" value="">
+
+<script language="javascript" type="text/javascript">
+var date = new Date();
+$('#gmt_19f3cd308f1455b3fa09a282e0d496f4').val(-(date.getTimezoneOffset() / 60));
+</script>
 <div class="clear">
 	<div class="float-left">
 		<input class="valign checkbox" type="checkbox" name="remember_me" id="remember_me_popup" value="Y">
@@ -463,14 +502,36 @@ $(document).ready(function(){
 	<span class="float-right">&nbsp;</span>
 	<div class="content-tools-helper clear">
 		
-	&nbsp;
+	<div id="cart_status">
+	<div class="float-left">
+					<img id="sw_cart_box" class="cm-combination cm-combo-on valign hand" src="/skins/base/customer/images/icons/empty_cart_icon.gif" alt="Cart is empty" title="Cart is empty"><strong>&nbsp;&nbsp;&nbsp;Cart is empty</strong>
+			
+		<div id="cart_box" class="cart-list hidden cm-popup-box">
+			<img src="/skins/base/customer/images/icons/empty_cart_list_icon.gif" alt="Cart" class="cm-popup-switch hand cart-list-icon">
+			<div class="list-container">
+				<div class="list">
+									<p class="center">Cart is empty</p>
+								</div>
+				<div class="buttons-container">
+					<a href="/index.php?dispatch=checkout.cart" rel="nofollow" class="view-cart">View cart</a>
+											<a href="/index.php?dispatch=checkout.checkout" rel="nofollow">Checkout</a>
+									</div>
+			</div>
+		</div>
+	</div>
 
+	<div class="checkout-link">
+
+	<a href="/index.php?dispatch=checkout.checkout" rel="nofollow">Checkout</a>
+
+	</div>
+	<!--cart_status--></div>
 		<div class="float-right">
 			
 			<!--dynamic:languages-->
 						<!--/dynamic-->
 
-					</div>
+														</div>
 	</div>
 </div></div>
 		
@@ -480,40 +541,34 @@ $(document).ready(function(){
 						<div class="central-column">
 				<div class="central-content">
 						<div class="breadcrumbs">
-		<a href="/">Home</a><img src="/skins/basic/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">"><a href="/license.html">Resources</a><img src="/skins/basic/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
+		<a href="/">Home</a><img src="/skins/base/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">"><a href="/license.html">Resources</a><img src="/skins/base/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
 	</div>
-					<div class="mainbox-container">
+										
+
+<div class="cm-notification-container"></div>
+										<div class="mainbox-container">
 		<h1 class="mainbox-title"><span>Privacy Policy</span></h1>
 		<div class="mainbox-body">
 <div class="wysiwyg-content">
 		<div class="mainbox-body">
-
-    <p>This privacy policy (the “Policy”) applies to all personal information that Simbirsk Technology Ltd. (the “Company”) can receive from the User during the period of the User's staying at the website  http://www.cs-cart.com and its subdomains (the “Website”). And the Policy describes how the Company collects, uses and discloses the personal information obtained through the Website.</p>
-    <p>By using the Website, the User agrees that the Company can collect and use his personal information.</p>
-
-    <h2 class="subheader">Collection of Personal Information</h2>
-        <p>The User can visit the Website without disclosing his personal information, but in the cases when the User has decided to request certain information, use the services or purchase the Products (any software developed by the Company and distributed on the Website), the Company may ask the User to provide his personal information.</p>
-        <p>The Company has a right to ask the User to provide the following information: the first name and last name, the name of the company that he represents (if any), home or office address, telephone number, email address as well as financial and other information that is specified on the Website.</p>
-        <p>Any information that is automatically collected as a result of the User's visiting the Website, including the order in which the Website pages are visited, is not intended for identifying individual users. The Company uses “cookies” to make the Website more user-friendly.</p>
-
-    <h2 class="subheader">Use and Disclosure of Personal Information</h2>
-        <p>The Company uses the User's personal information to provide products and services, resolve disputes and troubleshoot problems, increase usability and improve the Website, and inform the User of new services and products. When the User registers at the Website, he automatically agrees that he may receive certain information from the Company, such as the information about the services, updates or new Products as well as other information which the Company may consider important to inform about.</p>
-        <p>The Company does not sell or disclose personal information about the User. The Company may disclose and transfer personal information to third parties only if required by the Russian or international law and/or authorities in accordance with legal procedure.</p>
-
-    <h2 class="subheader">Reviewing and Editing Personal Information</h2>
-        <p>If the User is registered at the Website, he can access, review and modify his personal information at any time. In order to edit his personal information, the User has to log in to his profile page on the Website (at http://helpdesk.cs-cart.com or http://forum.cs-cart.com).</p>
-
-    <h2 class="subheader">Links to Third Party Webites</h2>
-        <p>The Website contains links to third party websites. However, the Company has no control over these websites or their privacy practices. Before submitting personal information on these websites, the Company encourages the User to carefully review their privacy policies.</p>
-
-    <h2 class="subheader">Security</h2>
-        <p>The Company uses a variety of security technologies and procedures to help protect the User's personal information from loss, misuse, unauthorized access, disclosure, or modification. However, the information that is transferred or stored on the Internet cannot be guarded perfectly, so the Company makes no guarantees of the absolute security of personal information.</p>
-
-    <h2 class="subheader">Changes to This Privacy Policy</h2>
-        <p>The Company has a right to amend this Privacy Policy. In the event of amendment, the Company publics all changes or additions to this Privacy Policy on the Website. The User's continued use of the Company Products will constitute his acceptance of new terms of this Privacy Policy.</p>
-
-    <div class="note">If you have questions about this statement, please contact us by using our <a href="send-message.html">contact form</a>.</div>
-    
+<p>This privacy policy (the “Policy”) applies to all personal information that Simbirsk Technology Ltd. (the “Company”) can receive from the User during the period of the User's staying at the website <a href="http://www.cs-cart.com">http://www.cs-cart.com</a> and its subdomains (the “Website”). And the Policy describes how the Company collects, uses and discloses the personal information obtained through the Website.</p>
+<p>By using the Website, the User agrees that the Company can collect and use his personal information.</p>
+<h2 class="subheader">Collection of Personal Information</h2>
+<p>The User can visit the Website without disclosing his personal information, but in the cases when the User has decided to request certain information, use the services or purchase the Products (any software developed by the Company and distributed on the Website), the Company may ask the User to provide his personal information.</p>
+<p>The Company has a right to ask the User to provide the following information: the first name and last name, the name of the company that he represents (if any), home or office address, telephone number, email address as well as financial and other information that is specified on the Website.</p>
+<p>Any information that is automatically collected as a result of the User's visiting the Website, including the order in which the Website pages are visited, is not intended for identifying individual users. The Company uses “cookies” to make the Website more user-friendly.</p>
+<h2 class="subheader">Use and Disclosure of Personal Information</h2>
+<p>The Company uses the User's personal information to provide products and services, resolve disputes and troubleshoot problems, increase usability and improve the Website, and inform the User of new services and products. When the User registers at the Website, he automatically agrees that he may receive certain information from the Company, such as the information about the services, updates or new Products as well as other information which the Company may consider important to inform about.</p>
+<p>The Company does not sell or disclose personal information about the User. The Company may disclose and transfer personal information to third parties only if required by the Russian or international law and/or authorities in accordance with legal procedure.</p>
+<h2 class="subheader">Reviewing and Editing Personal Information</h2>
+<p>If the User is registered at the Website, he can access, review and modify his personal information at any time. In order to edit his personal information, the User has to log in to his profile page on the Website (at <a href="http://www.cs-cart.com/helpdesk">http://www.cs-cart.com/helpdesk</a> or <a href="http://forum.cs-cart.com">http://forum.cs-cart.com</a>).</p>
+<h2 class="subheader">Links to Third Party Webites</h2>
+<p>The Website contains links to third party websites. However, the Company has no control over these websites or their privacy practices. Before submitting personal information on these websites, the Company encourages the User to carefully review their privacy policies.</p>
+<h2 class="subheader">Security</h2>
+<p>The Company uses a variety of security technologies and procedures to help protect the User's personal information from loss, misuse, unauthorized access, disclosure, or modification. However, the information that is transferred or stored on the Internet cannot be guarded perfectly, so the Company makes no guarantees of the absolute security of personal information.</p>
+<h2 class="subheader">Changes to This Privacy Policy</h2>
+<p>The Company has a right to amend this Privacy Policy. In the event of amendment, the Company publics all changes or additions to this Privacy Policy on the Website. The User's continued use of the Company Products will constitute his acceptance of new terms of this Privacy Policy.</p>
+<div class="note">If you have questions about this statement, please contact us by using our <a href="send-message.html">contact form</a>.</div>
 </div>
 		</div>
 	
@@ -532,10 +587,22 @@ $(document).ready(function(){
 	<div class="sidebox-body">
 <ul class="p-navigation">
 
-						
+									
 	
 	<li class="">
 		<a href="/license.html">CS-Cart License Agreement</a>
+</li>
+	
+	<li class="">
+		<a href="/cooperation-agreement.html">Cooperation Agreement</a>
+</li>
+	
+	<li class="">
+		<a href="/development-services-agreement.html">Development Services Agreement</a>
+</li>
+	
+	<li class="">
+		<a href="/software-installation-agreement.html">Software Installation Agreement</a>
 </li>
 	
 	<li class="">
@@ -561,7 +628,8 @@ $(document).ready(function(){
 </div>
 	<div class="sidebox-bottom"><span>&nbsp;</span></div>
 </div><div class="ad-container center">
-		<a href="/send-message.html">		<img class=" " src="/images/promo/0/have_quest_112755503844c075ab07fcf9.png" width="270" height="92" alt="" border="0">		</a>	</div>
+		<a href="/send-message.html">		<img class=" " src="/images/promo/0/have_quest_112755503844c075ab07fcf9.png" width="270" height="92" alt="" border="0">
+		</a>	</div>
 			</div>
 								</div>
 	</div>
@@ -571,8 +639,8 @@ $(document).ready(function(){
 	<div class="footer-helper-container">
 		
 <div class="float-right footer-logos">
-	<a href="http://www.facebook.com/pages/CS-Cart/156687676230"><img src="/skins/basic/customer/addons/cscart_site/overrides/images/facebook_logo.gif" width="22" height="22" border="0" alt="CS-Cart on Facebook"></a>
-	<a href="http://twitter.com/cscart"><img src="/skins/basic/customer/addons/cscart_site/overrides/images/twitter_logo.gif" width="22" height="22" border="0" alt="CS-Cart on Twitter"></a>
+	<a href="http://www.facebook.com/pages/CS-Cart/156687676230"><img src="/skins/base/customer/addons/cscart_site/overrides/images/facebook_logo.gif" width="22" height="22" border="0" alt="CS-Cart on Facebook"></a>
+	<a href="http://twitter.com/cscart"><img src="/skins/base/customer/addons/cscart_site/overrides/images/twitter_logo.gif" width="22" height="22" border="0" alt="CS-Cart on Twitter"></a>
 </div>
 
 
@@ -583,7 +651,7 @@ $(document).ready(function(){
 			<a href="/upgrade-policy.html">Upgrade Policy</a>&nbsp;&nbsp;
 			<a href="http://helpdesk.cs-cart.com/">Support Help Desk</a>&nbsp;&nbsp;
 	</p>
-<p class="bottom-copyright class">© 2004-2010 Simbirsk Technologies Ltd.</p>
+<p class="bottom-copyright class">© 2004-2011 Simbirsk Technologies Ltd.</p>
 
 
 
