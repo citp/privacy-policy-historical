@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soft32.com privacy policy that was archived on 2007-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070501204339id_/http%3A//www.soft32.com/at/65-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft32.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422025136id_/http%3A//www.soft32.com/at/65-1.html) for the most accurate reproduction.*
 
-# Soft32.com - Download Free Software
+# Soft32.com - Freeware and Shareware Downloads
 
 **Privacy Policy**
 
