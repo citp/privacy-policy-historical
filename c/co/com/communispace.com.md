@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the communispace.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122112307id_/http%3A//www.communispace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communispace.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422113213id_/http%3A//www.communispace.com/privacy.aspx) for the most accurate reproduction.*
 
-# 
+# Communispace Privacy Policy
 
 The following Privacy Policy applies to your use of this web site.  If you have questions or concerns regarding this Privacy Policy, you should first contact Communispace Corporation’s privacy office by sending an email to [privacy at communispace.com](mailto:Privacy@communispace.com).
 
