@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andybeard.eu privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217160501id_/http%3A//andybeard.eu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andybeard.eu privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422124900id_/http%3A//andybeard.eu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
