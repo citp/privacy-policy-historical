@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediafire.com privacy policy that was archived on 2007-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071002201706id_/http%3A//www.mediafire.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediafire.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422024244id_/http%3A//www.mediafire.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Free File Hosting Made Simple - MediaFire
 
@@ -12,11 +12,15 @@ MediaFire uses IP addresses to measure usage and analyze trends, administer the 
 
 A cookie is a piece of data stored on your hard drive containing information about you. Cookies identify you for our database, but provide no information other than that which you have already provided MediaFire. You may reject or delete the cookie, however, you may not be able to access your uploaded files if you have not already created a free account. Cookies also can enable MediaFire to track and target your interests to enhance your experience on our website. 
 
-We may use your information to contact you with important announcements. 
+You may review, update, correct or delete personal information or your account on your My Account page.
+
+The email address you provide for order processing will only be used to send you information and updates pertaining to your order. 
+
+We shall have the right to reference and refer to usage of, and relationship with, the Customer or the Customer's company, which may be determined by the domain used in the registered email account. No press releases shall be made without the written consent of the Customer. 
 
 We will not rent, sell or share your information with third parties. However, we may disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to: conform to the edicts of the law or comply with a legal process served on us; protect and defend the rights or property of MediaFire, or visitors of MediaFire; identify persons who may be violating the law, the legal notice, or the rights of third parties; co-operate with the investigations of purported unlawful activities. 
 
-Third-party websites linked to MediaFire are not covered by this Privacy Policy. These websites may collect personally identifiable information about you and place a cookie on your browser. MediaFire is not responsible for the privacy practices of the third-party websites and companies. 
+Third-party websites or services linked to MediaFire are not covered by this Privacy Policy. These websites may collect personally or non-personally identifiable information about you and place a cookie on your browser. MediaFire is not responsible for the privacy practices of the third-party websites and companies. 
 
 You are solely responsible for safeguarding the secrecy of your password. 
 
