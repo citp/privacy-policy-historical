@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120064645id_/http%3A//bollywood.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywood.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423002027id_/http%3A//www.bollywood.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bollywood.com : Entertainment news, movie, music and fashion reviews
 
