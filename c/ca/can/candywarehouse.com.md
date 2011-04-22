@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423133011id_/http%3A//www.candywarehouse.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candywarehouse.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422194422id_/http%3A//www.candywarehouse.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Candy Warehouse Privacy Policy
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
-
-[](http://www.truste.org/ivalidate.php?url=www.candywarehouse.com&sealid=101)
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.candywarehouse.com/seal_m "Validate TRUSTe privacy certification")  
+CandyWarehouse.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at customercare@candywarehouse.com. If you are not satisfied with our response you can contact TRUSTe here: [Submit a Privacy Complaint with TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint)
 
  **CandyWarehouse.com Privacy Policy** Effective on: 1/19/2007
 
@@ -116,8 +115,9 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **Contact Us**
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at: 626-480-0899, 626-480-0818, customercare@candywarehouse.com.
+If you have any questions or suggestions regarding our privacy policy, please contact us at: 310-343-4099, customercare@candywarehouse.com.
 
 CandyWarehouse.com  
-5314 3rd Street  
-Irwindale, CA 91706
+215 S. Douglas Street  
+El Segundo, CA 90245  
+U.S.A.
