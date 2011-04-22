@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwanzy.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124043726id_/http%3A//kwanzy.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwanzy.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422230820id_/http%3A//kwanzy.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
 
 # KwanZy - Privacy Policy
 
