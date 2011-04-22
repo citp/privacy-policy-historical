@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articles4pr.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205163834id_/http%3A//articles4pr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles4pr.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422132120id_/http%3A//articles4pr.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
