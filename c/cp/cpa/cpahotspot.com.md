@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpahotspot.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425060157id_/http%3A//www.payperclickformula.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpahotspot.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422231154id_/http%3A//www.payperclickformula.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
