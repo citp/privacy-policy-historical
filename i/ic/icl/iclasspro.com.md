@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iclasspro.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530105942id_/http%3A//www.iclasspro.com/icpprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iclasspro.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422072149id_/https%3A//www.iclasspro.com/icpprivacy.php) for the most accurate reproduction.*
 
 # iClassPro Privacy Policy
 
