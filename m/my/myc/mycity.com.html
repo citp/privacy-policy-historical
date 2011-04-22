@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mycity.com privacy policy that was archived on 2010-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100314063358id_/http%3A//www.mycity.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mycity.com privacy policy that was archived on 2011-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110422051618id_/http%3A//www.mycity.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <html><head>
 		<link rel="stylesheet" href="screen.css" type="text/css" media="screen, projection">
@@ -10,7 +10,8 @@
 <script type="text/javascript" src="/scriptaculous.js?load=effects"></script>
 <script type="text/javascript" src="/lightbox.js"></script>	<script type="text/javascript" src="javascript/validate.js"></script>
 	</head>
-		<body bgcolor="#ffffff"><div class="headerBGCenter">
+	<body onload="start()" onunload="leave()" bgcolor="#ffffff">
+	<div class="headerBGCenter">
 		<div class="container">
 			<div class="column span-24 last">
 				<div class="column span-18">
@@ -44,17 +45,16 @@
 		 			<a href="http://www.mycity.com/createVenue.php" class="headerLink">Add a Business <b>for FREE</b>&nbsp;&nbsp;</a>|&nbsp;&nbsp;
 		 			<a href="http://www.mycity.com/memberSearch.php" class="headerLink">Find Members&nbsp;</a>|&nbsp;&nbsp;	
 					<a href="http://www.mycity.com/mycity_chat.php?location=Los Angeles, CA" class="headerLink">Chat&nbsp;</a>|&nbsp;&nbsp;				
-					<a href="http://www.mycity.com/dating.php" class="headerLink">Dating</a>			
-
+<a href="http://www.mycity.com/discountCoupon.php" class="headerLink">Coupon</a>
 				</div>
 
 
 			</div>
 		<div class="column span-24 last">
-            		<div class="column span-11">
+            		<div class="column span-10">
 				<span style="font-size:40px; color:#FF6600;font-family:Arial,Helvetica,sans-serif;letter-spacing:-0.7pt;">Los Angeles, CA</span>
 			</div>
-			<div class="column span-13 last">
+			<div class="column span-14 last">
 							
 <form id="basicSearch" name="basicSearch" onsubmit="return true;" action="http://www.mycity.com/privacy_policy.php" method="post">
 					
@@ -69,14 +69,72 @@
 							</td>
 							<td>
 								<span class="redcopy ">Near&nbsp;</span>
-								<font style="color: #FF0000"><b>&nbsp;(city , state or zip)</b>
+								<font style="color: #FF0000" size="2"><b>&nbsp;(city , state or zip)</b>
 							</font></td>
 						</tr>
-							<tr><td><input type="text" name="searchTerm" size="20" value="" id="searchTerm"></td><td><input type="text" name="location" id="location" size="20" value="Los Angeles, CA">&nbsp;<input type="submit" value="Submit"></td></tr>					</tbody></table>
+							<tr><td><input type="text" name="searchTerm" size="20" style="height:30px; font-size:16px" value="" id="searchTerm"></td><td><input type="text" name="location" id="location" size="25" style="height:30px; font-size:16px" value="Los Angeles, CA">&nbsp;<input type="submit" value="Submit"></td></tr>					</tbody></table>
 				</form>
 			<div>	
    		 </div>
-	</div>	
+	</div>
+	<script language="javascript" type="text/javascript">
+
+             function getHTTPTimeObj(){
+      if (window.ActiveXObject) { return new ActiveXObject("Microsoft.XMLHTTP");
+  	// Internet Explorer
+	}
+      else if (window.XMLHttpRequest) {  return new XMLHttpRequest();
+		// Firefox //etc
+		if (http_request.overrideMimeType) {
+		http_request.overrideMimeType('text/xml');
+		}
+      }
+else {
+ 
+      alert("Your browser does not support AJAX.");
+      return null;
+      }
+  
+   			   }
+
+
+	function start(){       
+		starttime = (new Date()).getTime();
+	}
+  
+    function leave(){
+		stoptime = (new Date()).getTime();
+		//alert("STOP "+stoptime);
+        //xmlobj.send('spent='+(stoptime-starttime)+"ip "+);
+		var spent = stoptime-starttime;
+		var ip = "207.241.237.235";
+		var currUrl = "http://www.mycity.com/privacy_policy.php";
+		var memberId = "";
+		//if(currUrl!="http://www.mycity.com/notes.php"){
+			//var currUrl = window.location.href;
+		//	var params = "lorem=ipsum&name=binny";
+			var url = "http://www.mycity.com/timelog.php";
+		
+			var params = "spent="+spent+"&ip="+ip+"&currUrl="+currUrl+"&memId="+memberId;
+
+   			httpTime = getHTTPTimeObj();  
+			httpTime.open("POST", url, false);
+
+			httpTime.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+			httpTime.setRequestHeader("Content-length", params.length);
+			httpTime.setRequestHeader("Connection", "close");
+		/*if (httpTime != null) {
+			httpTime.open("GET", "http://localhost/mycity/timelog.php?spent="+spent+"&ip="+ip+"&currUrl="+currUrl+"&var="+Math.random(), true)
+			httpTime.send(null);
+ 		 // httpTime.onreadystatechange = function(){setComment()};
+			httpTime.close;
+			}*/ 
+   			httpTime.send(params);
+	//	}
+  	}
+   var httpTime = null;  
+
+      </script>	
 
 
 
@@ -270,7 +328,7 @@ information to MyCity.com, or to anyone online for that matter. </font></p><p>
 
 		<a href="http://www.mycity.com/bug_report.php">Bug Report</a> 
 | <a href="http://help.mycity.com">Help/FAQ</a>
-		<br><center>Copyright&nbsp;©&nbsp;2009 MyCity.com</center>
+		<br><center>Copyright&nbsp;©&nbsp;2009 MyCity.com™</center>
 <!-- Start of StatCounter Code -->
 		<script type="text/javascript">
 		sc_project=3599266; 
