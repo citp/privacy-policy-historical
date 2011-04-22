@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prophecy.co.za privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221105613id_/http%3A//www.prophecy.co.za/pages.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophecy.co.za privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422110639id_/http%3A//www.prophecy.co.za/pages.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Prophecy.co.za
 
