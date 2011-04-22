@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishcycling.org.uk privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225023713id_/http%3A//www.britishcycling.org.uk/staticcontent/info--Privacy-Policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishcycling.org.uk privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423002404id_/http%3A//www.britishcycling.org.uk/staticcontent/info--Privacy-Policy-0) for the most accurate reproduction.*
 
 # British Cycling / Information
 
