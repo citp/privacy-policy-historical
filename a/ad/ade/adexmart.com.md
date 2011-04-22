@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adexmart.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213032731id_/http%3A//adexmart.com/content/7-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adexmart.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422103442id_/http%3A//adexmart.com/content/7-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - adexmart
 
@@ -58,4 +58,4 @@ Customers may change or review their stored account information such as street a
 
 The Privacy Policy contained herein became officialy effective Jan 6th, 2010. adexmart.com
 
-Email: [sales@Adexmart.Com](https://web.archive.org/web/20101213032731id_/http%3A//adexmart.com/content/contact-form.php "Contact Us")
+Email: [sales@Adexmart.Com](https://web.archive.org/web/20110422103442id_/http%3A//adexmart.com/content/contact-form.php "Contact Us")
