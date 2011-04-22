@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycity.com privacy policy that was archived on 2010-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100314063358id_/http%3A//www.mycity.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycity.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422051618id_/http%3A//www.mycity.com/privacy_policy.php) for the most accurate reproduction.*
 
 # MyCity
 
