@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cakewrecks.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124052135id_/http%3A//cakewrecks.blogspot.com/p/cake-wrecks-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakewrecks.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422184126id_/http%3A//cakewrecks.blogspot.com/p/cake-wrecks-privacy-policy.html) for the most accurate reproduction.*
 
 # Cake Wrecks: Cake Wrecks Privacy Policy
 
