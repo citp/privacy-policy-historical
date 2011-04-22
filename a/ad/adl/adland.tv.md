@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adland.tv privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116121110id_/http%3A//adland.tv/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adland.tv privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422091749id_/http%3A//adland.tv/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | adland.tv
 
