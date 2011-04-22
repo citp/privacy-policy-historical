@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcup.com privacy policy that was archived on 2010-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100710154848id_/http%3A//www.dcup.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcup.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422035558id_/http%3A//www.dcup.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HTTP Electronic Publishing, Inc.
 
