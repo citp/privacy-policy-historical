@@ -1,0 +1,474 @@
+<!--The following is the downloaded HTML source of the turkishmusic.com privacy policy that was archived on 2011-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110422082804id_/http%3A//akmarket.com/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<title>Privacy Policy - AKMARKET.com - Turkish Grocery, Turkish Food, Turkish Music, Turkish Delights,Turkish Movies, Evil Eye, Shopping &amp; Books </title>
+
+<base href="http://akmarket.com/">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en">
+<meta name="description" content="AKMARKET committed protecting your privacy This privacy statement discloses what information gather about when visit AKMARKET Site describes that information policy keep personal information receive from Site completely confidential used solely internal purposes will share your personal information with other parties Collection your Personal Information personal information collect include your name title company organization name e-mail phone collect certain information">
+<meta name="keywords" content="akmarket, turkish grocery, turkish food in usa, turkish music, evil eye, turkish news, turkish food, turkish english dictionary, turkish shopping, books, music, ethnic food, turkey calling card, turkish jewelry, tulumba, turkish apple tea, ipek foods, turkish delight, lokum, turkish sweets, apple tea, turkish tea, sezen aksu, tarkan, besiktas, fenerbahce, milli takim, turkey, turkish, turks, ferhat gocer, best turkish food, tulumba, taste of turkey, galatasaray, turkish cook book, oktay usta, caydanlik, demlik, tea pot, yufka, manti, ">
+
+
+<link href="/skins/mobishop_green/customer/images/icons/favicon.ico" rel="shortcut icon">
+
+<link href="/skins/mobishop_green/customer/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/mobishop_green/customer/print.css" rel="stylesheet" media="print" type="text/css">
+<link href="/skins/mobishop_green/customer/dropdown.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]>
+<link href="/skins/mobishop_green/customer/styles_ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="/skins/mobishop_green/customer/addons/buy_together/styles.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]>
+<link href="/skins/mobishop_green/customer/addons/buy_together/styles_ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<link href="/skins/mobishop_green/customer/addons/quick_search/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/mobishop_green/customer/addons/news_and_emails/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/mobishop_green/customer/addons/polls/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/mobishop_green/customer/addons/discussion/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/mobishop_green/customer/addons/hot_deals_block/styles.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="/js/core.js"></script>
+<script type="text/javascript" src="/js/ajax.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+var index_script = 'index.php';
+var current_path = '';
+var changes_warning = 'Y';
+
+var lang = {
+	cannot_buy: 'You cannot buy product with these options variants ',
+	no_products_selected: 'No products selected',
+	error_no_items_selected: 'No items selected! At least one check box must be selected to perform this action.',
+	delete_confirmation: 'Are you sure you want to delete selected items?',
+	text_out_of_stock: 'Out-of-stock',
+	in_stock: 'In stock',
+	items: 'item(s)',
+	text_required_group_product: 'Please select a product for the required group [group_name]',
+	notice: 'Notice',
+	warning: 'Warning',
+	loading: 'Loading...',
+	none: 'None',
+	text_are_you_sure_to_proceed: 'Are you sure you want to proceed?',
+	text_invalid_url: 'You have entered an invalid URL',
+	text_cart_changed: 'Items in the shopping cart have been changed. Please click on \"OK\" to save changes, or on \"Cancel\" to leave the items unchanged.',
+	error_validator_email: 'The email address in the <b>[field]<\/b> field is invalid.',
+	error_validator_confirm_email: 'The email addresses in the <b>[field]<\/b> field and confirmation fields do not match.',
+	error_validator_phone: 'The phone number in the <b>[field]<\/b> field is invalid. The correct format is (555) 555-55-55 or 55 55 555 5555.',
+	error_validator_integer: 'The value of the <b>[field]<\/b> field is invalid. It should be integer.',
+	error_validator_multiple: 'The <b>[field]<\/b> field does not contain the selected options.',
+	error_validator_password: 'The passwords in the <b>[field2]<\/b> and <b>[field1]<\/b> fields do not match.',
+	error_validator_required: 'The <b>[field]<\/b> field is mandatory.',
+	error_validator_zipcode: 'The ZIP / Postal code in the <b>[field]<\/b> field is incorrect. The correct format is [extra].',
+	error_validator_message: 'The value of the <b>[field]<\/b> field is invalid.',
+	text_page_loading: 'Loading... Your request is being processed, please wait.',
+	view_cart: 'View cart',
+	checkout: 'Checkout',
+	product_added_to_cart: 'Product was added to your cart',
+	products_added_to_cart: 'Products were added to your cart',
+	product_added_to_wl: 'Product was added to your Wish list',
+	product_added_to_cl: 'Product was added to your Compare list',
+	close: 'Close',
+	error: 'Error',
+	error_ajax: 'Oops, something goes wrong ([error]). Please try again.',
+	text_changes_not_saved: 'Your changes have not been saved.',
+	text_data_changed: 'Your changes have not been saved.\n\nPress OK to continue, or Cancel to stay on the current page.'
+}
+
+var warning_mark = "&lt;&lt;";
+
+var currencies = {
+	'primary': {
+		'decimals_separator': '.',
+		'thousands_separator': ',',
+		'decimals': '2',
+		'coefficient': '1.000'
+	},
+	'secondary': {
+		'decimals_separator': '.',
+		'thousands_separator': ',',
+		'decimals': '2',
+		'coefficient': '1.000'
+	}
+};
+
+var cart_language = 'EN';
+var images_dir = '/skins/mobishop_green/customer/images';
+var notice_displaying_time = 5;
+var cart_prices_w_taxes = false;
+var translate_mode = false;
+var iframe_urls = new Array();
+var iframe_extra = new Array();
+var regexp = new Array();
+$(document).ready(function(){
+	jQuery.runCart('C');
+});
+
+document.write('<style>.cm-noscript { display:none }</style>'); // hide noscript tags
+//]]>
+</script>
+
+<!--[if lt IE 8]>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	$('ul.dropdown li').hover(function(){
+		$(this).addClass('hover');
+		$('> .dir',this).addClass('open');
+		$('ul:first',this).css('display', 'block');
+	},function(){
+		$(this).removeClass('hover');
+		$('.open',this).removeClass('open');
+		$('ul:first',this).css('display', 'none');
+	});
+});
+//]]>
+</script>
+<![endif]-->
+
+
+<script type="text/javascript" src="/addons/buy_together/js/func.js"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+	lang['buy_together_fill_the_mandatory_fields'] = '_buy_together_fill_the_mandatory_fields';
+//]]>
+</script>
+<script type="text/javascript" src="/addons/quick_search/js/func.js"></script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head>
+
+<body>
+<div class="helper-container">
+	<a name="top"></a>
+	
+<div id="ajax_loading_box" class="ajax-loading-box"><div class="right-inner-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div></div>
+
+	
+
+
+
+
+<div id="container" class="container-long">
+		<div id="header">
+<div class="header-helper-container">
+	<div class="logo-image">
+		<a href="/"><img src="/skins/mobishop_green/customer/images/logo.png" width="266" height="65" border="0" alt=""></a>
+	</div>
+	
+	<p class="quick-links">&nbsp;
+			<a href="http://akmarket.com/index.php?dispatch=gift_certificates.add">Gift Certificates</a>
+	</p>
+	
+	
+
+<div id="top_menu">
+<ul class="top-menu dropdown"><li class="first-level "><span><a href="http://www.akmarket.com">Home</a></span></li><li class="first-level "><span><a href="http://akmarket.com/catalog">Shop</a></span></li><li class="first-level "><span><a href="/index.php?dispatch=profiles.update">My Account</a></span>
+
+<ul>
+			<li>
+		<a href="http://akmarket.com/orders">Orders</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="http://akmarket.com/index.php?dispatch=profiles.update">Profile Details</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="http://akmarket.com/index.php?dispatch=rma.returns">Return Requests</a>
+			</li>
+		<li class="h-sep">&nbsp;</li>
+			<li>
+		<a href="http://akmarket.com/index.php?dispatch=wishlist.view">Wish List</a>
+			</li>
+		</ul>
+</li><li class="first-level "><span><a href="http://www.akmarket.com/index.php?dispatch=product_features.view_all&amp;q=index.php%3Fdispatch%3Dproducts.search%26filter_id%3D2%26">Shop by Brand</a></span></li></ul>
+</div>
+<span class="helper-block">&nbsp;</span>
+</div>
+
+<div class="top-tools-container">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	<div class="top-tools-helper">
+		<div class="float-right" id="sign_io">
+										<a id="sw_login" rel="nofollow" href="/login?return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D5">Sign in</a>
+				OR
+				<a href="/index.php?dispatch=profiles.add" rel="nofollow">Register</a>
+						
+					<!--sign_io--></div>
+		<div class="top-search">
+			
+<form action="/" name="search_form" method="get">
+<input type="hidden" name="subcats" value="Y">
+<input type="hidden" name="status" value="A">
+<input type="hidden" name="pshort" value="Y">
+<input type="hidden" name="pfull" value="Y">
+<input type="hidden" name="pname" value="Y">
+<input type="hidden" name="pkeywords" value="Y">
+<input type="hidden" name="search_performed" value="Y">
+
+<div class="qsearch-result border cm-popup-box" id="quick_search_result">
+
+	<div class="center">No data found</div>
+
+<p class="right">
+	<a class="extra-link" onclick="$('#quick_search_result').hide();">Close</a>
+</p>
+<!--quick_search_result--></div>
+
+<script type="text/javascript">
+	var qs_min_length = 3
+</script> 
+
+<span class="search-products-text">Search:</span>
+
+<select name="cid" class="search-selectbox">
+	<option value="0">- All categories -</option>
+		<option value="163">Turkish Food &amp; Grocery</option>
+		<option value="250">Turkish Media</option>
+		<option value="157">Personal Care</option>
+		<option value="330">Kitchenware</option>
+	</select>
+
+<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/mobishop_green/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search"><a href="/index.php?dispatch=products.search" class="search-advanced">Advanced search</a>
+
+</form>		</div>
+	</div>
+</div>
+
+<div class="content-tools">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	<div class="content-tools-helper clear">
+		
+	<div id="cart_status">
+	<div class="float-left">
+					<img id="sw_cart_box" class="cm-combination cm-combo-on valign hand" src="/skins/mobishop_green/customer/images/icons/empty_cart_icon.gif" alt="Cart is empty" title="Cart is empty"><strong>&nbsp;&nbsp;&nbsp;Cart is empty</strong>
+			
+		<div id="cart_box" class="cart-list hidden cm-popup-box cm-smart-position">
+			<img src="/skins/mobishop_green/customer/images/icons/empty_cart_list_icon.gif" alt="Cart" class="cm-popup-switch hand cart-list-icon">
+			<div class="list-container">
+				<div class="list">
+									<p class="center">Cart is empty</p>
+								</div>
+				<div class="buttons-container">
+					<a href="/index.php?dispatch=checkout.cart" rel="nofollow" class="view-cart">View cart</a>
+											<a href="/index.php?dispatch=checkout.checkout" rel="nofollow">Checkout</a>
+									</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="checkout-link">
+
+	<a href="/index.php?dispatch=checkout.checkout" rel="nofollow">Checkout</a>
+
+	</div>
+	<!--cart_status--></div>
+		<div class="float-right">
+			
+			
+					</div>
+	</div>
+</div></div>
+		
+	<div id="content">
+		<div class="content-helper clear">
+						
+						<div class="central-column">
+				<div class="central-content">
+					
+	<div class="breadcrumbs">
+		<a href="/">Home</a><img src="/skins/mobishop_green/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy Policy
+	</div>
+					
+
+
+<div class="cm-notification-container"></div>
+					
+					<div class="mainbox-container ">
+		<h1 class="mainbox-title"><span>Privacy Policy</span></h1>
+		<div class="mainbox-body">
+<div class="wysiwyg-content">
+		<p>AKMARKET is committed to protecting your privacy.<br>This privacy statement discloses what information we gather about you when you visit the AKMARKET.com Site and describes how we use that information. Our policy is to keep the personal information we receive from our Site completely confidential and used solely for internal purposes. We will not share your personal information with any other parties.<br></p>
+<p><strong>Collection of your Personal Information:</strong></p>
+<p>The personal information we collect may include your name, title, company or organization name, e-mail, phone. We may collect certain information about your visit, such as type of browser you use; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our Site. This information is used to help improve the Site and administer the Site. <br></p>
+<p><strong>Use of your Personal Information:</strong></p>
+<p>The personal information collected on this Site will be used to provide the services you have requested.<br>We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, we may send you information about other products and services.<br></p>
+<p><strong>Questions:</strong></p>
+<p>If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the <a href="https://www.akmarket.com/ask-a-question.html">Contact Us</a> form. <br><br>We may occasionally modify this privacy statement. All such changes will be reflected on this web page.</p>
+		</div>
+	
+
+
+
+</div>
+</div>
+				</div>
+			</div>
+		
+						
+									
+						<div class="bottom clear-both">
+				<table class="fixed-layout" width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top"><td><div class="wysiwyg-content">
+<!--=========== BOTTOM TABLE HTML CODE =============-->
+
+<table class="t-bottom" width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr class="t-header">
+    <td class="first-column" rowspan="2">
+        <!--img src="images/cards.gif" alt="" -->
+        <a href="#"><img src="images/twitter.gif" alt="Follow us on Twitter"></a>
+        <a href="http://www.facebook.com/akmarket" target="_new"><img src="images/fbook.gif" alt="Like us on Facebook"></a>
+     
+    </td>
+	<th>Paterson, NJ</th>
+    <th>Cliffside Park, NJ</th>
+	<th>Site Information</th>
+	<th>Deliveries &amp; Returns</th>
+
+</tr>
+<tr>
+	<td>
+    <u>Store Hours:</u> 7AM - 10PM<br>
+	251 Crooks Avenue<br>
+	Paterson, NJ 07503<br>
+	Tel: (973) 742 - 3700<br>
+	Fax: (973) 754 - 1133<br>
+		
+	</td>
+    <td>
+    <u>Store Hours:</u> 9AM - 9PM<br>
+	575 Anderson Avenue<br>
+	Cliffside Park, NJ 07010<br>
+	Tel: (201) 313 - 9995<br>
+	
+		
+	</td>
+	<td>
+		<ul>
+		<li><a href="http://akmarket.com/contact-information.html">Contact Info</a></li>
+		<li><a href="http://akmarket.com/privacy-policy.html">Privacy Policy</a></li>
+		<li><a href="http://akmarket.com/security-and-privacy.html">Security</a></li>
+		<li><a href="http://akmarket.com/terms-and-conditions.html">Terms &amp; Conditions</a></li>
+		</ul>
+	</td>
+	<td>
+		<ul>
+		<li><a href="http://akmarket.com/shipping-and-rates.html">Shipping &amp; Rates </a></li>
+		<li><a href="#"></a></li>
+		<li><a href="http://akmarket.com/ask-a-question.html">Ask A Question</a></li>
+		<li><a href="#">F.A.Q</a></li>
+		</ul>
+	</td>
+</tr>
+</tbody></table>
+
+<!--=========== /BOTTOM TABLE HTML CODE =============-->
+</div></td></tr></tbody></table>
+			</div>
+					</div>
+	</div>
+	
+	<div id="footer">
+		<div class="footer-helper-container">
+			<div class="footer-top-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
+			
+<div class="bottom-search center">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	
+<form action="/" name="search_form" method="get">
+<input type="hidden" name="subcats" value="Y">
+<input type="hidden" name="status" value="A">
+<input type="hidden" name="pshort" value="Y">
+<input type="hidden" name="pfull" value="Y">
+<input type="hidden" name="pname" value="Y">
+<input type="hidden" name="pkeywords" value="Y">
+<input type="hidden" name="search_performed" value="Y">
+
+<div class="qsearch-result border cm-popup-box" id="quick_search_result">
+
+	<div class="center">No data found</div>
+
+<p class="right">
+	<a class="extra-link" onclick="$('#quick_search_result').hide();">Close</a>
+</p>
+<!--quick_search_result--></div>
+
+<script type="text/javascript">
+	var qs_min_length = 3
+</script> 
+
+<span class="search-products-text">Search:</span>
+
+<select name="cid" class="search-selectbox">
+	<option value="0">- All categories -</option>
+		<option value="163">Turkish Food &amp; Grocery</option>
+		<option value="250">Turkish Media</option>
+		<option value="157">Personal Care</option>
+		<option value="330">Kitchenware</option>
+	</select>
+
+<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/mobishop_green/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button"><input type="hidden" name="dispatch" value="products.search">
+
+</form></div>
+<p class="quick-links">
+			<a href="http://akmarket.com/index.php?dispatch=gift_certificates.add">Gift Certificates</a>
+	</p>
+<p class="bottom-copyright class">© 2004-2011 AKMARKET. 
+</p>
+
+
+
+			<div class="footer-bottom-helper"><span class="float-left">&nbsp;</span><span class="float-right">&nbsp;</span></div>
+		</div>
+	</div>
+</div>
+			</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	jQuery.ajaxRequest('/index.php?dispatch=statistics.collect', {
+		method: 'post',
+		data: {
+			've[url]': location.href,
+			've[title]': document.title,
+			've[browser_version]': jQuery.ua.version,
+			've[browser]': jQuery.ua.browser,
+			've[os]': jQuery.ua.os,
+			've[client_language]': jQuery.ua.language,
+			've[referrer]': document.referrer,
+			've[screen_x]': (screen.width || null),
+			've[screen_y]': (screen.height || null),
+			've[color]': (screen.colorDepth || screen.pixelDepth || null),
+			've[time_begin]': 1303460884.86
+		},
+		hidden: true
+	});
+});
+//]]>
+</script>
+
+<noscript>
+<object data="/index.php?dispatch=statistics.collect&amp;ve%5Burl%5D=%2Fprivacy-policy.html&amp;ve%5Btitle%5D=AKMARKET.com+-+Turkish+Grocery%2C+Turkish+Food%2C+Turkish+Music%2C+Turkish+Delights%2CTurkish+Movies%2C+Evil+Eye%2C+Shopping+%26+Books++-+Privacy+Policy&amp;ve%5Breferrer%5D=&amp;ve%5Btime_begin%5D=1303460884.86" width="0" height="0"></object>
+</noscript>
+<script type="text/javascript">
+//<![CDATA[
+	var _gaq = _gaq || [];
+	_gaq.push(["_setAccount", "UA-2853286-5"]);
+	_gaq.push(["_trackPageview"]);
+	
+	(function() {
+		var ga = document.createElement("script");
+		ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";
+		ga.setAttribute("async", "true");
+		document.documentElement.firstChild.appendChild(ga);
+	})();
+//]]>
+</script>
+
+
+
+</body></html>
