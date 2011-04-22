@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329151615id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.vic.gov.au privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422072056id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy (Victoria Online)
 
 ## Victoria Online - Who we are
 
-Victoria Online is the entry point website of the government of the State of Victoria, Australia (here referred to as "the Victorian Government"), operated by the Department of Innovation, Industry and Regional Development. This is a portal website with links to external websites. If you have any queries about this website, please contact the Manager, eServices as follows: 
+Victoria Online is the entry point website of the government of the State of Victoria, Australia (here referred to as "the Victorian Government"), operated by the Department of Business and Innovation. This is a portal website with links to external websites. If you have any queries about this website, please contact the Manager, eServices as follows: 
 
 by email at:
     [victoria.online@diird.vic.gov.au](mailto:%76%69%63%74%6f%72%69%61%2e%6f%6e%6c%69%6e%65%40%64%69%69%72%64%2e%76%69%63%2e%67%6f%76%2e%61%75)
@@ -12,7 +12,7 @@ by post at:
 
     Manager, eServices  
 Victoria Online  
-Department of Innovation, Industry and Regional Development  
+Department of Business and Innovation  
 GPO Box 4509  
 Melbourne Vic 3001
 
@@ -37,21 +37,21 @@ by email at:
 by post at:
     Manager, eServices  
 Victoria Online  
-Department of Innovation, Industry and Regional Development  
+Department of Business and Innovation  
 GPO Box 2392  
 Melbourne Vic 3001  
 
 
-The Privacy Officer for the Department of Innovation, Industry and Regional Development may also be contacted about access to, and correction of, personal information collected by Victoria Online or for any questions or concerns you may have arising out of this privacy statement:
+The Privacy Officer for the Department of Business and Innovation may also be contacted about access to, and correction of, personal information collected by Victoria Online or for any questions or concerns you may have arising out of this privacy statement:
 
 by email at:
     [privacy@diird.vic.gov.au](mailto:%76%69%63%74%6f%72%69%61%2e%6f%6e%6c%69%6e%65%40%64%69%69%72%64%2e%76%69%63%2e%67%6f%76%2e%61%75)
 by telephone on:
     03 9651 9749 (between 9.00 am and 5.00 pm on weekdays except public holidays in Melbourne) 
 by post at:
-    The DIIRD Privacy Officer  
-Department of Innovation, Industry and Regional Development  
-Level 31, 121 Exhibition Street   
+    The DBI Privacy Officer  
+Department of Business and Innovation  
+Level 31, 121 Exhibition Street  
 Melbourne Vic 3001 
 
 ## Collection of Personal Information
@@ -64,7 +64,7 @@ You will know if Victoria Online is collecting personal information from you bec
 
 The first exception is where someone else provides Victoria Online with your personal information. Victoria Online cannot prevent this. However, you are entitled to access and correct any personal information about you collected by Victoria Online. 
 
-The second exception is where Victoria Online collects statistics using software techniques such as web server log file analysis, clickstream data, cookies and web beacons. For an explanation of these techniques, and how they are used on Victoria Online, see Web measurement services used by Victoria Online below. Such statistics may qualify as personal information under the Information Privacy Act 2000 (Vic.). However, these statistics are not used to identify individual users of Victoria Online.
+The second exception is where Victoria Online collects statistics using software techniques such as web server log file analysis, clickstream data, cookies and web beacons. For an explanation of these techniques, and how they are used on Victoria Online, see Web measurement services used by Victoria Online below. Such statistics may qualify as personal information under the _Information Privacy Act 2000 (Vic)_. However, these statistics are not used to identify individual users of Victoria Online.
 
 ## Internet Use Risk
 
@@ -88,7 +88,7 @@ A cookie is a block of data that is shared between a web server and a user's bro
 
 Victoria Online uses first party cookies to enable users to personalise their use of the website's weather information. A first party cookie is that which is created by the website you are currently visiting - in this case Victoria Online. If you do not allow cookies to be used within your browser, then you will not be able to take advantage of the weather personalisation features offered by this website. 
 
-In using these cookies Victoria Online does not retrieve or record any personal information. For example, we do not use cookies to collect names or email addresses. 
+In using these cookies Victoria Online does not retrieve or record any personal information. For example, we do not use cookies to collect names or email addresses.
 
 ### Web Server Log Files
 
@@ -110,6 +110,18 @@ SiteCatalyst cookies contain no personally identifiable information. All cookie 
 
 The SiteCatalyst cookies belong to the Victoria Online web site.
 
+### Effective Measure
+
+Victoria Online is currently testing the [Effective Measure](http://www.effectivemeasure.com/) demographic profiling tool. Effective Measure is an independent measurement and research company which gathers data regarding visitors to our website using browser cookies and code which is embedded on our web pages.
+
+We use this type of information to help improve the services we provide to our visitors and gather anonymous feedback via a website survey. If you would like more information about the cookies used by Effective Measure and how to Opt Out of this process, please visit [Effective Measure's privacy policy](http://www.effectivemeasure.com/privacy-policy).
+
 ## Data Collection
 
 While the anonymous statistical data Victoria Online collects may be aggregated and used in broader statistical analysis by the State of Victoria, at no time can we personally identify you as the source of that data.
+
+## Contacts & Services Directory
+
+The Contacts & Services Directory aims to assist citizens to find relevant services, websites or contacts within the Victorian Government.
+
+To ensure privacy is being managed effectively and to report any possible breaches there are several feedback loops in place. On the Contacts & Services directory website there is a link to a feedback form for the general public to alert Victoria Online to errors or omissions in data for resolution or referral. The Information Victoria Call Centre phone number is displayed to allow for verbal feedback.
