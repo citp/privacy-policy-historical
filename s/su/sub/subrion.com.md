@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subrion.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231063857id_/http%3A//www.subrion.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subrion.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423005557id_/http%3A//www.subrion.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Subrion Classified Software, Classifieds Script
 
@@ -44,3 +44,9 @@ If you feel that this site is not following its stated information policy, you m
 Please send an email to **support@subrion.com** if you suspect a site is not using a valid license of Subrion Content Management System or if they are breaking the [license agreement](http://www.subrion.com/license.html). We take piracy very seriously, and appreciate your help in our efforts to reduce any piracy or illegal distribution of our software.
 
 Alternatively you can report piracy using our [contact form](http://www.subrion.com/contact-us.html?piracy=true). Thanks in advance!
+
+[](http://www.subrion.com/downloads/)
+
+## Testimonials
+
+This team of professionals is patient, reliable, trustworthy and ready to assist you in any way they can. It is comforting to know that a helping hand is always there for you. In a word, Subrion is about quality. We highly recommend their product and their service is second to none. Thanks for such a great product and we sincerely appreciate the level of service that you have been providing us.
