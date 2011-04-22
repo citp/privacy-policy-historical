@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lavasoft.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124101136id_/http%3A//www.lavasoft.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavasoft.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422090720id_/http%3A//www.lavasoft.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lavasoft
 
-Lavasoft AB is a leading actor within the IT security field and makes every effort to protect the privacy of the users of the Lavasoft web sites (the "Lavasoft Sites"). The overall purpose with this privacy policy (the "Privacy Policy") is to advise you ("You") of what type of personal information that Lavasoft collects about You as a result of Your use of the Lavasoft Sites, if any, and describe the limited purposes for which Lavasoft uses, processes and shares such collected information.
+Lavasoft Ltd is a leading actor within the IT security field and makes every effort to protect the privacy of the users of the Lavasoft web sites (the "Lavasoft Sites"). The overall purpose with this privacy policy (the "Privacy Policy") is to advise you ("You") of what type of personal information that Lavasoft collects about You as a result of Your use of the Lavasoft Sites, if any, and describe the limited purposes for which Lavasoft uses, processes and shares such collected information.
 
 ##### Collection of Personal Information
 
@@ -82,6 +82,6 @@ This Privacy Policy will be updated by Lavasoft on a regular basis. We therefore
 
 ##### Contact Information
 
-If You have any questions about this Privacy Policy You may contact Lavasoft through the following contact details:
+If You have any questions about this Privacy Policy , don't hesitate to [contact us](http://www.lavasoft.com/mylavasoft/company/contact).
 
-Last updated: February 19, 2010.
+Last updated: February 16, 2011.
