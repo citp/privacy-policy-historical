@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joonmali.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216171356id_/http%3A//joonmali.com/tour3/index.php%3Fsection%3D53%26nats%3DMDowOjE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joonmali.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422231140id_/http%3A//joonmali.com/tour3/index.php%3Fsection%3D53%26nats%3DMDowOjE) for the most accurate reproduction.*
 
 # Joon Mali - Bubble Butt Thai Asian Teen!
 
