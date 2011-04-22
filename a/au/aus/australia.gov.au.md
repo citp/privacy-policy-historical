@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australia.gov.au privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212074503id_/http%3A//australia.gov.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australia.gov.au privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422090950id_/http%3A//australia.gov.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - australia.gov.au
 
