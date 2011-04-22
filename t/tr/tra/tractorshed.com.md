@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tractorshed.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330085125id_/http%3A//www.ytmag.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractorshed.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422044619id_/http%3A//www.ytmag.com/privacy.htm) for the most accurate reproduction.*
 
 # Yesterday's Tractor Co. - Privacy Policy
-
-**Privacy Policy**
 
 **Yesterday's Tractor Co. Privacy Policy**
 
@@ -18,18 +16,10 @@ In some cases, you may voluntarily provide personal information when filling out
 
 **[[ Home ]](http://www.ytmag.com/index.htm)**
 
-**Discount Prices for Parts!** You can help support this extensive website by purchasing your tractor parts, manuals and merchandise from our [[ Antique Tractor Store ]](http://www.yesterdaystractors.com/store/) or call our friendly sales staff toll free **(800) 853-2651**. [[ More Info ]](http://www.yesterdaystractors.com/store/about.htm)
+[**Same-Day Shipping!**](http://www.ytmag.com/store/index.htm?b3)  Most of our stocked parts ship the same day you order (M-F).  Expedited shipping available, just call!  Most prices for parts and manuals are below our competitors.  Compare our super low shipping rates!  We've kept the same low rate for six years.  We are a Company you can trust and have generous return policies!   [ **Shop Online Today**](http://www.ytmag.com/store/index.htm?b3) or call our friendly sales staff toll free **(800) 853-2651**. [[ More Info ]](http://www.ytmag.com/store/about.htm?b3)
 
-* * *
+[Home](http://www.ytmag.com/) | [Tractor Manuals](http://www.ytmag.com/tractor_manuals.html) | [Tractor Parts](http://www.antiquetractorstore.com/) | [Forums](http://www.ytmag.com/cgi-bin/boards.cgi)
 
-[Home](http://www.yesterdaystractors.com/) | [Manuals](http://www.yesterdaystractors.com/store/manuals/index.htm) | [Parts](http://www.yesterdaystractors.com/store/parts/) | [12-Volt Kits](http://www.yesterdaystractors.com/store/parts/convcat.htm) | [Carburetors](http://www.yesterdaystractors.com/store/parts/carbcat.htm) | [Radiators](http://www.yesterdaystractors.com/store/parts/radiators.htm) | [Engine Kits](http://www.yesterdaystractors.com/store/parts/engreb.htm) | [Videos](http://www.yesterdaystractors.com/store/videos/index.htm) | [Books](http://www.yesterdaystractors.com/store/literature/index.htm) Know someone interested in antique tractors? Tell them about this site!  
----  
-**Your  EMail Addr**  
-| **Your  Name**  
-| **Friend's  Email**  
-| **Friend's  Name**  
-|   
-  
 Copyright © 1997-2010 Yesterday's Tractor Co. - A Washington State Corporation  
 All Rights Reserved. Reproduction of any part of this website, including design and content, without written permission is strictly prohibited. Trade Marks and Trade Names contained and used in this Website are those of others, and are used in this Website in a descriptive sense to refer to the products of others. Use of this Web site constitutes acceptance of our [User Agreement](http://www.ytmag.com/user-agreement.htm) and [Privacy Policy](http://www.ytmag.com/privacy.htm)
 
