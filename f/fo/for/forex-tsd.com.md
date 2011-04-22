@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex-tsd.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226030638id_/http%3A//forex-tsd.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-tsd.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422192623id_/http%3A//www.forex-tsd.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Forex-TSD Privacy Policy
 
