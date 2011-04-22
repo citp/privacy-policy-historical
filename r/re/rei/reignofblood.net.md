@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the reignofblood.net privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128230448id_/http%3A//reignofblood.net/vampire_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reignofblood.net privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423002941id_/http%3A//reignofblood.net/vampire_privacy.php) for the most accurate reproduction.*
 
 # Reign Of Blood - Vampire Game Privacy Policy
 
+  
 [Game Advertising Online](http://www.game-advertising-online.com/)  
-banner requires iframes
+banner requires iframes   
+
 
 ## Not yet a member of the free online vampire game Reign Of Blood?
 
-[ ](https://web.archive.org/web/20101128230448id_/http%3A//reignofblood.net/vampire_signup.php "Become a vampire")
-
-Contact: To contact us please email reignofblood.net [at] gmail.com
+[ ](https://web.archive.org/web/20110423002941id_/http%3A//reignofblood.net/vampire_signup.php "Become a vampire") Contact: To contact us please email reignofblood.net [at] gmail.com
 
 Third Party Adverts:  
 ROB will contain adverts around the various pages, many of these being 3rd party adverts. We take no responsibility for what these adverts may contain, but we do try and restrict the type of adverts shown.
