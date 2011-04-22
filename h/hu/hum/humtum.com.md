@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humtum.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123100057id_/http%3A//humtum.com/customerservice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humtum.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422141207id_/http%3A//humtum.com/customerservice/privacy-policy) for the most accurate reproduction.*
 
 # HumTum.com - Indian Dating and Matrimonials
 
