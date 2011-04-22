@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the itsmarta.com privacy policy that was archived on 2010-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101213041214id_/http%3A//www.itsmarta.com/privacy-disclaimers.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itsmarta.com privacy policy that was archived on 2011-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110422215557id_/http%3A//www.itsmarta.com/privacy-disclaimers.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>MARTA - Metropolitan Atlanta Rapid Transit Authority</title>
@@ -9,7 +9,12 @@
 <link href="site.css" rel="stylesheet" type="text/css">
 <link href="CalendarControl.css" rel="stylesheet" type="text/css">
 <link href="top_nav_CSS.css" rel="stylesheet" type="text/css"> 
-<script src="CalendarControl1.js" language="javascript" type="text/javascript"></script></head><body style="background-image:url(images/sitebackground/sunset_back2.jpg);" onload="writeTimeDate();"><iframe id="CalendarControlIFrame" src="javascript:false;" frameborder="0" scrolling="no"></iframe><div id="CalendarControl"></div>
+<link rel="stylesheet" href="../BOD_images/engine/css/vlightbox.css" type="text/css">
+		<style type="text/css">#vlightbox a#vlb{display:none}</style>
+		
+<link rel="stylesheet" href="../BOD_images/engine/css/visuallightbox.css" type="text/css" media="screen">
+<script src="../BOD_images/engine/js/jquery.min.js" type="text/javascript"></script>
+<script src="CalendarControl1.js" language="javascript" type="text/javascript"></script>
 <link href="trip_planner.css" rel="stylesheet" type="text/css"> 
 <link href="Workarea/csslib/search.css" rel="stylesheet" type="text/css">
 <link rel="SHORTCUT ICON" href="/favicon.ico" type="image/x-icon">
@@ -44,7 +49,7 @@ border: 1px;
 
 #domticker{
 width: 200px;
-height: 100px;
+height: 30px;
 border: 1px dashed black;
 padding: 5px;
 background-color: #FFFFCA;
@@ -59,22 +64,32 @@ font-weight: bold;
 }
 
 #domticker2{
-width: 450px;
-height: 1.2em;
+width: 300px;
+height: 1.8em;
 border: 0px solid black;
-padding: 3px;
+padding: 0px;
 }
 
 #domticker2 a{
 text-decoration: none;
 }
 
+#domticker3{
+width: 300px;
+height: 1.8em;
+border: 0px solid black;
+padding: 0px;
+}
+
+#domticker3 a{
+text-decoration: none;
+}
 .someclass{ //class to apply to your scroller(s) if desired
 }
 
     </style>
 <script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<script language="JavaScript"> 
+<script type="JavaScript"> 
 
 // Source: CodeFoot.com
 
@@ -85,7 +100,7 @@ window.onerror = blockError;
 </script>
 
 <script language="JavaScript" type="text/JavaScript">
-  
+ 
 function searchclick()
 {
     if(document.getElementById("txtSearch").value == 'Search')
@@ -255,76 +270,90 @@ document.getElementById('schedules_trip').style.display = "block";
 		</script>
 		
 		
-		
-		
-		
-		
-		<script type="text/javascript">
+<script type="text/javascript">
 
 /*Example message arrays for the two demo scrollers*/
-var ELEMENT_NODE = 1
+var ELEMENT_NODE22 = 1
+var ELEMENT_NODE2 = 1
 
-
+var tickercontent22=new Array()
 var tickercontent2=new Array()
 
-</script>
-
-
-<script>
-
-  
 if (document.implementation && document.implementation.createDocument)
 {
-  xmlDoc = document.implementation.createDocument("", "", null);
-  xmlDoc.onload = writeList;
-  xmlDoc.load("signpost_alerts.xml");
+//This code executes Fire Fox Browser
+
+  xmlDoc1 = document.implementation.createDocument("", "", null);
+  xmlDoc1.onload = writeList22;
+  xmlDoc1.load("signpost_alerts.xml");
+  //alert('Fire Fox');
 }
 else
 {
-    xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
-    loadXML("signpost_alerts.xml");
+//This code sxecutes Internet Explorer Browser
+
+    xmlDoc1 = new ActiveXObject("Microsoft.XMLDOM");
+    loadXML22("signpost_alerts.xml");
+    //alert('Internet Explorer');
 }
 
-function loadXML(xmlFile) 
-{ 	
-    xmlDoc.async="false"; 	
-    xmlDoc.onreadystatechange=verify; 					
-    xmlDoc.load(xmlFile); 					
-    xmlObj=xmlDoc.documentElement; 					
-    SetContent(xmlObj);
+function loadXML22(xmlFile) 
+//This code executes IE browser
+
+{ 
+	
+    xmlDoc1.async="false"; 	
+    xmlDoc1.onreadystatechange=verify22; 					
+    xmlDoc1.load(xmlFile); 					
+    xmlObj=xmlDoc1.documentElement; 	
+    SetContent22(xmlObj);
 }
 
-function SetContent(tree)
+function SetContent22(tree)
+//This code executes IE browser
+
 {	        
     var intNode,i;        
     var intCode,strValue;        
     if(tree.hasChildNodes())        
     {                
         var nodes=tree.childNodes.length; 	
-        
-        
+        var ba = 0;
+        var ra = 0
         for (var i = 0; i < nodes; i++) 
-            tickercontent2[i]="<a href='systemalerts.aspx'>" + tree.childNodes[i].getAttribute('title') +"</a>";
+        {
+            if(tree.childNodes[i].nodeName == 'bus')
+            {
+                tickercontent22[ba]="<a href='alerts.aspx?id=" + tree.childNodes[i].getAttribute('id') + "&type=bus'>" + tree.childNodes[i].getAttribute('title') +"</a>";
+                ba = ba + 1;
+            }
+            else
+            {
+                tickercontent2[ra]="<a href='alerts.aspx?id=" + tree.childNodes[i].getAttribute('id') + "&type=rail'>" + tree.childNodes[i].getAttribute('title') +"</a>";
+                ra = ra + 1;
+            }
+        }
      }
 }
 
-function verify() 
+function verify22() 
+
+
     {          
         // 0 Object is not initialized          
         // 1 Loading object is loading data          
         // 2 Loaded object has loaded data          
         // 3 Data from object can be worked with          
         // 4 Object completely initialized          
-        if (xmlDoc.readyState != 4)          
+        if (xmlDoc1.readyState != 4)          
         {                   
         return false;          
         } 
     }
 
-
-function writeList()
+function writeList22()
 {
-  var labels = xmlDoc.getElementsByTagName('alert');
+  var labels = xmlDoc1.getElementsByTagName('bus');
   var ol = document.createElement('OL');
 
   for (i=0; i < labels.length; i++)
@@ -332,40 +361,40 @@ function writeList()
     var li = document.createElement('LI');
     for (j=0; j < labels[i].childNodes.length; j++)
     {
-      if (labels[i].childNodes[j].nodeType != ELEMENT_NODE) continue;
+      if (labels[i].childNodes[j].nodeType != ELEMENT_NODE22) continue;
       var cdata = document.createTextNode(
         labels[i].childNodes[j].firstChild.nodeValue);
       li.appendChild(cdata);
-      //alert(labels[i].childNodes[j].firstChild.nodeValue);     
     }
     var labelId = document.createTextNode('(' +
       labels[i].getAttribute('id') + ')');
-      
-      tickercontent2[i]="<a href='alerts.aspx?id=" + labels[i].getAttribute('id') +"'>" + labels[i].getAttribute('title') +"</a>";
-      
+      tickercontent22[i]="<a href='alerts.aspx?id=" + labels[i].getAttribute('id') +"&type=bus'>" + labels[i].getAttribute('title') +"</a>";
     li.appendChild(labelId);
     ol.appendChild(li);
-    
-    
-    
   }
-  document.getElementById('updateTarget').appendChild(ol);
-  
+    
+  var labels1 = xmlDoc1.getElementsByTagName('rail');
+  var ol1 = document.createElement('OL');
+
+  for (i=0; i < labels1.length; i++)
+  {
+    var li1 = document.createElement('LI');
+    for (j=0; j < labels1[i].childNodes.length; j++)
+    {
+      if (labels1[i].childNodes[j].nodeType != ELEMENT_NODE2) continue;
+      var cdata1 = document.createTextNode(
+        labels1[i].childNodes[j].firstChild.nodeValue);
+      li1.appendChild(cdata1);
+    }
+    var labelId1 = document.createTextNode('(' +
+      labels1[i].getAttribute('id') + ')');
+      tickercontent2[i]="<a href='alerts.aspx?id=" + labels1[i].getAttribute('id') +"&type=rail'>" + labels1[i].getAttribute('title') +"</a>";
+    li1.appendChild(labelId1);
+    ol1.appendChild(li1);
+  }
 }
-</script>
 
-
-
-
-<script type="text/javascript">
-
-/***********************************************
-* DHTML Ticker script- © Dynamic Drive (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit http://www.dynamicdrive.com/ for this script and 100s more.
-***********************************************/
-
-function domticker(content, divId, divClass, delay, fadeornot){
+function domticker22(content, divId, divClass, delay, fadeornot){
 this.content=content
 this.tickerid=divId //ID of master ticker div. Message is contained inside first child of ticker div
 this.delay=delay //Delay between msg change, in miliseconds.
@@ -374,62 +403,26 @@ this.pointer=0
 this.opacitystring=(typeof fadeornot!="undefined")? "width: 100%; filter:progid:DXImageTransform.Microsoft.alpha(opacity=100); -moz-opacity: 1" : ""
 if (this.opacitystring!="") this.delay+=500 //add 1/2 sec to account for fade effect, if enabled
 this.opacitysetting=0.2 //Opacity value when reset. Internal use.
+
 if(content[0] != 'undefined')
-    document.write('<div id="'+divId+'" class="'+divClass+'"><div style="'+this.opacitystring+'">'+content[0]+'</div></div>')
+{
+   var value = '<div id="'+divId+'" class="'+divClass+'"><div style="'+this.opacitystring+'">'+content[0]+'</div></div>';
+   document.write(value);
+}
 var instanceOfTicker=this
 setTimeout(function(){instanceOfTicker.initialize()}, delay)
 }
 
-domticker.prototype.initialize=function(){
+domticker22.prototype.initialize=function(){
 var instanceOfTicker=this
 this.contentdiv=document.getElementById(this.tickerid).firstChild //div of inner content that holds the messages
 document.getElementById(this.tickerid).onmouseover=function(){instanceOfTicker.mouseoverBol=1}
 document.getElementById(this.tickerid).onmouseout=function(){instanceOfTicker.mouseoverBol=0}
-this.rotatemsg()
-}
-
-domticker.prototype.rotatemsg=function(){
-var instanceOfTicker=this
-if (this.mouseoverBol==1) //if mouse is currently over ticker, do nothing (pause it)
-setTimeout(function(){instanceOfTicker.rotatemsg()}, 100)
-else{
-this.fadetransition("reset") //FADE EFFECT- RESET OPACITY
-this.contentdiv.innerHTML=this.content[this.pointer]
-this.fadetimer1=setInterval(function(){instanceOfTicker.fadetransition('up', 'fadetimer1')}, 100) //FADE EFFECT- PLAY IT
-this.pointer=(this.pointer<this.content.length-1)? this.pointer+1 : 0
-setTimeout(function(){instanceOfTicker.rotatemsg()}, this.delay) //update container
-}
-}
-
-// -------------------------------------------------------------------
-// fadetransition()- cross browser fade method for IE5.5+ and Mozilla/Firefox
-// -------------------------------------------------------------------
-
-domticker.prototype.fadetransition=function(fadetype, timerid){
-var contentdiv=this.contentdiv
-if (fadetype=="reset")
-this.opacitysetting=0.2
-if (contentdiv.filters && contentdiv.filters[0]){
-if (typeof contentdiv.filters[0].opacity=="number") //IE6+
-contentdiv.filters[0].opacity=this.opacitysetting*100
-else //IE 5.5
-contentdiv.style.filter="alpha(opacity="+this.opacitysetting*100+")"
-}
-else if (typeof contentdiv.style.MozOpacity!="undefined" && this.opacitystring!=""){
-contentdiv.style.MozOpacity=this.opacitysetting
-}
-else
-this.opacitysetting=1
-if (fadetype=="up")
-this.opacitysetting+=0.2
-if (fadetype=="up" && this.opacitysetting>=1)
-clearInterval(this[timerid])
 }
 
 </script>
-
-
-
+</head>
+<body style="background-image:url(images/sitebackground/day.jpg);" onload="writeTimeDate();">
 <!-- Google Analytics -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -444,7 +437,7 @@ pageTracker._trackPageview();
 
 <br>
 <form name="aspnetForm" method="post" action="/tplGeneral.aspx?id=3429" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk2NDk0NTMzNg9kFgJmD2QWAgIBD2QWBGYPFgIeBGhyZWYFIHRleHR2ZXIvcHJpdmFjeS1kaXNjbGFpbWVycy5hc3B4ZAIBD2QWBAIBDw8WCh4ISW1hZ2VVcmwFFGNjaWNvbnMvMzJ4MzEvMjYucG5nHgVXaWR0aBsAAAAAAABAQAEAAAAeBkhlaWdodBsAAAAAAAA/QAEAAAAeDUFsdGVybmF0ZVRleHQFBkNsb3VkeR4EXyFTQgKAA2RkAgMPDxYGHgRUZXh0BQgxMiZkZWc7Rh4IQ3NzQ2xhc3MFBHRlbXAfBQICZGRkKqZi2NYm+yvqcoQ35qjX7a4DklY=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk2NDk0NTMzNg9kFgJmD2QWAgIBD2QWBGYPFgIeBGhyZWYFIHRleHR2ZXIvcHJpdmFjeS1kaXNjbGFpbWVycy5hc3B4ZAIBD2QWBAIBDw8WCh4ISW1hZ2VVcmwFFGNjaWNvbnMvMzJ4MzEvMjYucG5nHgVXaWR0aBsAAAAAAABAQAEAAAAeBkhlaWdodBsAAAAAAAA/QAEAAAAeDUFsdGVybmF0ZVRleHQFBkNsb3VkeR4EXyFTQgKAA2RkAgMPDxYGHgRUZXh0BQg2NiZkZWc7Rh4IQ3NzQ2xhc3MFBHRlbXAfBQICZGRknOc3beWHctvmrPapo22y9uAjAQc=">
 
 <link rel="stylesheet" type="text/css" href="/WorkArea/csslib/global.css">
 
@@ -454,29 +447,41 @@ pageTracker._trackPageview();
       <td colspan="3" align="right">
           <table border="0" cellpadding="0" cellspacing="0" width="965" align="right"><tbody><tr>
           <td valign="top"><a href="default.aspx"><img src="IMAGES/header-logo.png" border="0" alt="MARTA logo"></a></td>
-          <td height="67" class="header-repeater"></td>
+          <td class="header-repeater"></td>
           <td valign="top" class="header-image-right" align="left"><br>
            <div align="right" class="header">
            <a href="Search.aspx">Search</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="textver/privacy-disclaimers.aspx" id="ctl00_lnkTextOnly">Text 
                Only Site</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="Contact-us.aspx">Contact Us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="Sitemap.aspx">Site 
-               Map</a>&nbsp;&nbsp;&nbsp;<br><br><br>
-           
+               Map</a>&nbsp;&nbsp;&nbsp;<br><br>
+           	   <table width="65%" cellpadding="0" cellspacing="0">
+				   <tbody><tr>
+					   <td><div align="center"><a href="http://www.facebook.com/pages/Atlanta-GA/MARTA/64214098113?v=wall">
+				       <img src="IMAGES/social-icons/facebook-icon-new.jpg" alt="Click here to find us on Facebook" border="0"></a></div></td>
+					    <td><div align="center"><a href="http://twitter.com/MARTAMARKETING">
+				        <img src="images/social-icons/twitter-icon-new.jpg" alt="Click here to access our TWITTER page" border="0"></a></div></td>
+
+					   <td><div align="center"><a href="http://www.youtube.com/user/itsmartanews?feature=mhum">
+				       <img src="images/social-icons/youTube-new.jpg" alt="Click here to access our YouTube page" border="0"></a></div></td>
+					   <td>
 
     <table cellpadding="0" cellspacing="0" width="100" border="0">
         <tbody><tr>
             <td align="right"><img id="ctl00_weathercontrol_ccImg" src="control/ccicons/32x31/26.png" alt="Cloudy" height="31" width="32" border="0"></td>
-            <td align="left" style="font-weight:bold;font-size:10px;"><span id="ctl00_weathercontrol_ccCurT" class="temp">12°F</span></td>
+            <td align="left" style="font-weight:bold;font-size:10px;"><span id="ctl00_weathercontrol_ccCurT" class="temp">66°F</span></td>
         </tr> 
     </tbody></table>
 
-
+</td>
+				   </tr>
+			   </tbody></table>
+			   
             </div>
            
           </td>
           </tr></tbody></table>
       </td>
-      <td height="100%">
-      <table border="0" cellpadding="0" cellspacing="0" style="width: 29px; height: 83px;"><tbody><tr>
+      <td>
+      <table border="0" cellpadding="0" cellspacing="0" style="width: 29px;"><tbody><tr>
       <td height="30" valign="bottom"><img border="0" alt="layout image" src="images/upperritecorn.png" style="height: 18px; width: 27px"></td>
           </tr>
       <tr><td background="images/leftshadow.png" height="57" valign="top"></td></tr>
@@ -496,20 +501,20 @@ pageTracker._trackPageview();
             <td width="98%"></td>
           </tr>
             <tr>
-              <td style="width: 4px">&nbsp;</td>
+              <td style="width: 4px;">&nbsp;</td>
               <td width="98%"><div id="multi-level">
-                <ul class="menu"><li class="top p1"><a href="/using-marta.aspx" id="using" class="top_link"><span>Using MARTA</span></a><ul class="sub"><li><a href="http://mycommute.itsmarta.com" class="topnavflyout">MyCommute - Trip Planner</a></li><li><a href="/how-to-ride-marta.aspx" class="topnavflyout">How to Ride MARTA</a></li><li><a href="/marta-accessibility.aspx" class="topnavflyout">Accessibility</a></li><li><a href="/accessibility-Mobility.aspx" class="topnavflyout">MARTA Mobility</a></li><li><a href="/safety-on-marta.aspx" class="topnavflyout">Safety on MARTA</a></li><li><a href="/visiting-atlanta.aspx" class="topnavflyout">Visiting Atlanta</a></li><li><a href="/regional-transit.aspx" class="topnavflyout">Regional Transit</a></li><li><a href="/using-marta-faq.aspx" class="topnavflyout">Frequently Asked Questions</a></li></ul></li><li class="top p2"><a href="/schedules-maps.aspx" id="schedules" class="top_link"><span>Schedules &amp; Maps</span></a><ul class="sub"><li><a href="/bus-schedules.aspx" class="topnavflyout">Bus Routes &amp; Schedules</a></li><li><a href="/rail-schedules-or-route.aspx" class="topnavflyout">Rail Stations &amp; Schedules</a></li><li><a href="/holiday-schedule.aspx" class="topnavflyout">Holiday Schedule</a></li><li><a href="/system-map.aspx" class="topnavflyout">Interactive System Map</a></li><li><a href="/rail-map.aspx" class="topnavflyout">Rail Maps</a></li><li><a href="/regional-map.aspx" class="topnavflyout">Regional &amp; Partner Maps</a></li></ul></li><li class="top p3"><a href="/fares-discounts.aspx" id="fares" class="top_link"><span>Fares &amp; Discounts</span></a><ul class="sub"><li><a href="/fares-passes.aspx" class="topnavflyout">Fares and Passes</a></li><li><a href="/reduced-fare.aspx" class="topnavflyout">Reduced Fare</a></li><li><a href="/employer-pass.aspx" class="topnavflyout">Employer Pass</a></li><li><a href="/visitor-pass.aspx" class="topnavflyout">Visitor Pass</a></li><li><a href="/university-pass.aspx" class="topnavflyout">University Pass</a></li><li><a href="/student-pass.aspx" class="topnavflyout">K-12 School Discount Program</a></li><li><a href="/mobility-fare.aspx" class="topnavflyout">Mobility Fare</a></li></ul></li><li class="top p4"><a href="/news-and-events.aspx" id="news" class="top_link"><span>News &amp; Events</span></a><ul class="sub"><li><a href="/all-alerts.aspx" class="topnavflyout">News &amp; Updates</a></li><li><a href="/Press-Releases.aspx" class="topnavflyout">Press Releases</a></li><li><a href="/newsletters.aspx" class="topnavflyout">Newsletters</a></li><li><a href="/Photography-Film-Policy.aspx" class="topnavflyout">Photography &amp; Film Policy</a></li><li><a href="/calendar-of-events.aspx" class="topnavflyout">Calendar of Events</a></li><li><a href="/public-hearing-and-meetings.aspx" class="topnavflyout">Public Hearings &amp; Meetings</a></li><li><a href="/MARTA-Highlights.aspx" class="topnavflyout">MARTA Highlights</a></li></ul></li><li class="top p5"><a href="/about-marta.aspx" id="about" class="top_link"><span>About MARTA</span></a><ul class="sub"><li><a href="/marta-past-and-future.aspx" class="topnavflyout">MARTA's Past &amp; Future</a></li><li><a href="/marta-vision-mission.aspx" class="topnavflyout">MARTA's Vision &amp; Mission</a></li><li><a href="/careers.aspx" class="topnavflyout">Careers@MARTA</a></li><li><a href="/MARTA-Leadership.aspx" class="topnavflyout">MARTA Leadership</a></li><li><a href="/police-and-safety.aspx" class="topnavflyout">MARTA Police</a></li><li><a href="/marta-in-your-community.aspx" class="topnavflyout">MARTA in Your Community</a></li><li><a href="/deo-dbe.aspx" class="topnavflyout">Diversity &amp; Equal Opportunity</a></li><li><a href="/architectual-engineering.aspx" class="topnavflyout">Architectural/Engineering</a></li><li><a href="/planning.aspx" class="topnavflyout">Planning &amp; Projects</a></li><li><a href="/vendor-opportunities.aspx" class="topnavflyout">Vendor Opportunities</a></li><li><a href="/reports.aspx" class="topnavflyout">Reports</a></li><li><a href="/advertising-on-marta.aspx" class="topnavflyout">Advertising on MARTA</a></li><li><a href="/partners-and-promotions.aspx" class="topnavflyout">MARTA Partners</a></li><li><a href="/title-vi-notice.aspx" class="topnavflyout">Title VI Notice to the Public</a></li></ul></li></ul>
+                <ul class="menu"><li class="top p1"><a href="/using-marta.aspx" id="using" class="top_link"><span>Using MARTA</span></a><ul class="sub"><li><a href="/hours-of-operations.aspx" class="topnavflyout">Hours of Operation</a></li><li><a href="/how-to-ride-marta.aspx" class="topnavflyout">How to Ride MARTA</a></li><li><a href="/parking-information.aspx" class="topnavflyout">Parking Information</a></li><li><a href="http://mycommute.itsmarta.com" class="topnavflyout">MyCommute - Trip Planner</a></li><li><a href="/marta-accessibility.aspx" class="topnavflyout">Accessibility</a></li><li><a href="/accessibility-Mobility.aspx" class="topnavflyout">MARTA Mobility</a></li><li><a href="/safety-on-marta.aspx" class="topnavflyout">Safety on MARTA</a></li><li><a href="/visiting-atlanta.aspx" class="topnavflyout">Visiting Atlanta</a></li><li><a href="/regional-transit.aspx" class="topnavflyout">Regional Transit</a></li><li><a href="/using-marta-faq.aspx" class="topnavflyout">Frequently Asked Questions</a></li></ul></li><li class="top p2"><a href="/schedules-maps.aspx" id="schedules" class="top_link"><span>Schedules &amp; Maps</span></a><ul class="sub"><li><a href="/bus-schedules.aspx" class="topnavflyout">Bus Routes &amp; Schedules</a></li><li><a href="/rail-schedules-or-route.aspx" class="topnavflyout">Rail Stations &amp; Schedules</a></li><li><a href="/holiday-schedule.aspx" class="topnavflyout">Holiday Schedule</a></li><li><a href="/system-map.aspx" class="topnavflyout">Interactive System Map</a></li><li><a href="/rail-map.aspx" class="topnavflyout">Rail Maps</a></li><li><a href="/regional-map.aspx" class="topnavflyout">Regional &amp; Partner Maps</a></li></ul></li><li class="top p3"><a href="/fares-discounts.aspx" id="fares" class="top_link"><span>Fares &amp; Discounts</span></a><ul class="sub"><li><a href="/fares-passes.aspx" class="topnavflyout">Fares and Passes</a></li><li><a href="/reduced-fare.aspx" class="topnavflyout">Reduced Fare</a></li><li><a href="/employer-pass.aspx" class="topnavflyout">Employer Pass</a></li><li><a href="/visitor-pass.aspx" class="topnavflyout">Visitor Pass</a></li><li><a href="/university-pass.aspx" class="topnavflyout">University Pass</a></li><li><a href="/student-pass.aspx" class="topnavflyout">K-12 School Discount Program</a></li><li><a href="/mobility-fare.aspx" class="topnavflyout">Mobility Fare</a></li></ul></li><li class="top p4"><a href="/news-and-events.aspx" id="news" class="top_link"><span>News &amp; Events</span></a><ul class="sub"><li><a href="/all-alerts.aspx" class="topnavflyout">News &amp; Updates</a></li><li><a href="/Press-Releases.aspx" class="topnavflyout">Press Releases</a></li><li><a href="/newsletters.aspx" class="topnavflyout">MARTA Publications</a></li><li><a href="/Photography-Film-Policy.aspx" class="topnavflyout">Photography &amp; Film Policy</a></li><li><a href="/calendar-of-events.aspx" class="topnavflyout">Calendar of Events</a></li><li><a href="/public-hearing-and-meetings.aspx" class="topnavflyout">Public Hearings &amp; Meetings</a></li><li><a href="/MARTA-Highlights.aspx" class="topnavflyout">MARTA Highlights</a></li></ul></li><li class="top p5"><a href="/about-marta.aspx" id="about" class="top_link"><span>About MARTA</span></a><ul class="sub"><li><a href="/marta-past-and-future.aspx" class="topnavflyout">MARTA's Past &amp; Future</a></li><li><a href="/marta-vision-mission.aspx" class="topnavflyout">MARTA's Vision &amp; Mission</a></li><li><a href="/careers.aspx" class="topnavflyout">Careers@MARTA</a></li><li><a href="/MARTA-Leadership.aspx" class="topnavflyout">MARTA Leadership</a></li><li><a href="/police/police-home.aspx" class="topnavflyout">MARTA Police</a></li><li><a href="/marta-in-your-community.aspx" class="topnavflyout">MARTA in Your Community</a></li><li><a href="/deo-dbe.aspx" class="topnavflyout">Diversity &amp; Equal Opportunity</a></li><li><a href="/architectual-engineering.aspx" class="topnavflyout">Architectural/Engineering</a></li><li><a href="/planning.aspx" class="topnavflyout">Planning &amp; Projects</a></li><li><a href="/vendor-opportunities.aspx" class="topnavflyout">Vendor Opportunities</a></li><li><a href="/reports.aspx" class="topnavflyout">Reports</a></li><li><a href="/advertising-on-marta.aspx" class="topnavflyout">Advertising on MARTA</a></li><li><a href="/partners-and-promotions.aspx" class="topnavflyout">MARTA Partners</a></li><li><a href="/title-vi-notice.aspx" class="topnavflyout">Title VI Notice to the Public</a></li><li><a href="/pension-information.aspx" class="topnavflyout">Pension Information</a></li></ul></li></ul>
                 <table border="0" cellpadding="0" cellspacing="0" width="288">
-                  <!-- fwtable fwsrc="searchBox.jpg" fwbase="searchBox.jpg" fwstyle="Dreamweaver" fwdocid = "774316038" fwnested="0" -->
+              
                   <tbody><tr>
                     <td><img src="images/search_box/images/spacer.gif" alt="search box image" name="undefined_2" width="136" height="1" border="0" id="undefined_2"></td>
                     <td><img src="images/search_box/images/spacer.gif" alt="search box image" name="undefined_2" width="110" height="1" border="0" id="Img1"></td>
-                    <td><img src="images/search_box/images/spacer.gif" alt="search box image" name="undefined_2" width="42" height="1" border="0" id="Img2"></td>
+                    <td style="width: 43px"><img src="images/search_box/images/spacer.gif" alt="search box image" name="undefined_2" width="42" height="1" border="0" id="Img2"></td>
                     <td style="width: 2px"><img src="images/search_box/images/spacer.gif" alt="search box image" name="undefined_2" width="1" height="1" border="0" id="Img3"></td>
                   </tr>
                   <tr>
                     <td colspan="2" style="height: 6px"><img name="searchBox_r1_c1" src="images/search_box/images/searchBox_r1_c1.jpg" width="246" height="6" border="0" id="searchBox_r1_c1" alt="search box image"></td>
-                    <td rowspan="3"><a href="#" onclick="javascript:searchclick();" id="lnkSearch"><img name="searchBox_r1_c3" src="images/search_box/images/searchBox_r1_c3.jpg" width="42" height="37" border="0" id="searchBox_r1_c3" alt="search box image"></a></td>
+                    <td rowspan="3" style="width: 43px"><a href="#" onclick="javascript:searchclick();" id="lnkSearch"><img name="searchBox_r1_c3" src="images/search_box/images/searchBox_r1_c3.jpg" width="42" height="37" border="0" id="searchBox_r1_c3" alt="search box image"></a></td>
                     <td style="width: 2px; height: 6px"><img src="images/search_box/images/spacer.gif" alt="search box image" name="undefined_2" width="1" height="6" border="0" id="Img4"></td>
                   </tr>
                   <tr>
@@ -522,8 +527,8 @@ pageTracker._trackPageview();
                     <td style="width: 2px"><img src="images/search_box/images/spacer.gif" alt="search box image" name="undefined_2" width="1" height="11" border="0" id="Img6"></td>
                   </tr>
                   <tr>
-                    <td><img name="searchBox_r4_c3" src="images/search_box/images/searchBox_r4_c3.jpg" width="42" height="1" border="0" id="searchBox_r4_c3" alt="search box image"></td>
-                    <td style="width: 2px"><img src="images/search_box/images/spacer.gif" alt="search box image" name="undefined_2" width="1" height="1" border="0" id="Img7"></td>
+                    <td style="width: 43px; height: 1px;"><img name="searchBox_r4_c3" src="images/search_box/images/searchBox_r4_c3.jpg" width="42" height="1" border="0" id="searchBox_r4_c3" alt="search box image"></td>
+                    <td style="width: 2px; height: 1px;"><img src="images/search_box/images/spacer.gif" alt="search box image" name="undefined_2" width="1" height="1" border="0" id="Img7"></td>
                   </tr>
                 </tbody></table>
               </div></td>
@@ -533,8 +538,10 @@ pageTracker._trackPageview();
         </tr>
       </tbody></table>
         <table border="0" width="900">
+		<tbody><tr>
+<td>
         
-<tbody><tr>
+</td></tr><tr>
 <td width="100%">
 <table><tbody><tr><td width="20"></td><td width="800"><div id="ctl00_hometemplate_ContentBlock1">
 	<p><span class="PageHeaderBlack">Privacy Policy &amp; Disclaimers</span></p>
@@ -595,7 +602,10 @@ pageTracker._trackPageview();
 </tr>
 
 
-        </tbody></table>
+        
+		 
+  
+		</tbody></table>
 
           <table border="0" cellpadding="0" cellspacing="0" width="100%">
               <tbody><tr>
@@ -610,31 +620,18 @@ pageTracker._trackPageview();
                   <td valign="top">
                       <p align="center">
                           <span class="footer">
-                             <a href="http://mycommute.itsmarta.com"><strong><br>
-                             Plan Your Trip&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;  <span class="footer"></span></strong></a><strong><a href="how-to-ride-marta.aspx"><strong>How to Ride MARTA &nbsp; 
-                          |&nbsp;&nbsp;&nbsp;&nbsp; <span class="footer"></span></strong></a><strong><a href="advertising-on-marta.aspx">
-                          &nbsp;<strong>Advertise with MARTA</strong></a> </strong></strong></span><strong><strong>&nbsp; &nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;  <span class="footer"><a href="contact-us.aspx"><strong>
+                             <a href="http://mycommute.itsmarta.com"><strong><br></strong> </a></span><a href="http://mycommute.itsmarta.com">
+                             Plan Your Trip&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; <span class="footer"></span></a><a href="how-to-ride-marta.aspx"><strong>How to Ride MARTA &nbsp;</strong> 
+                          |&nbsp;&nbsp;&nbsp;&nbsp; <span class="footer"></span></a><a href="advertising-on-marta.aspx">
+                          &nbsp;<strong>Advertise with MARTA</strong></a> &nbsp; &nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;  <span class="footer"><a href="contact-us.aspx"><strong>
                           Contact Us</strong></a></span>&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp;&nbsp;  <span class="footer"><a href="Sitemap.aspx"><strong>
                           Sitemap</strong></a></span>&nbsp;&nbsp; &nbsp;|&nbsp;&nbsp;&nbsp;  <span class="footer"><a href="privacy-disclaimers.aspx"><strong>
-                          Privacy Policy &amp; Disclaimers</strong></a></span>					</strong></strong></p><strong><strong>
+                          Privacy Policy &amp; Disclaimers</strong></a></span>					</p>
                          <table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
             <td width="27%">&nbsp;
                 <div align="center">Powered by Google Translation: </div></td>
-            <td valign="bottom" style="width: 425px"><center>
-                <!-- AddThis Button BEGIN
-                <script type="text/javascript">addthis_pub  = 'mwebba';</script>
-                <a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s9.addthis.com/button1-addthis.gif" width="125" height="16" border="0" alt="add this" /></a>
-              <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
-               AddThis Button END -->
-			   
-			   <!-- <table width="48%" border="0" cellspacing="0" cellpadding="0">
-                                  <tr>
-                                    <td width="50%"><a href="http://www.facebook.com/pages/Atlanta-GA/MARTA/64214098113?v=wall"><img src="IMAGES/find_us_on_facebook_badge.gif" alt="Click here to find us on Facebook" width="144" height="44" border="0" /></a></td>
-                                    <td width="50%"><a href="http://twitter.com/MARTAMARKETING"><img src="images/twitter-icon.jpg" alt="Click here to access our TWITTER page" width="144" height="50" border="0" /></a></td>
-                                  </tr>
-                                </table> -->
-            </center></td>
+           
             <td width="27%" valign="bottom"><div align="center"><p>Regional System Partners:</p></div></td>
           </tr>
                     <tr>
@@ -661,15 +658,15 @@ pageTracker._trackPageview();
             </div></td>
             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                 <tbody><tr>
-                  <!--<td width="26%"><a href="http://web.co.clayton.ga.us/ctran/index.htm"><img src="images/partner_logo/c-tran_logo.jpg" alt="C-Tran" width="66" height="36" border="0" /></a></td> -->
+         
                   <td width="22%"><a href="http://dot.cobbcountyga.gov/cct/"><img src="images/partner_logo/cct_logo.jpg" alt="CCT" width="55" height="36" border="0"></a></td>
                   <td width="28%"><a href="http://www.xpressga.com/"><img src="images/partner_logo/grta_logo.jpg" alt="GRTA Xpress" width="69" height="36" border="0"></a></td>
-                  <td width="24%"><a href="http://www.gwinnettcounty.com/cgi-bin/gwincty/egov/ep/gcbrowse.do?channelId=-12797&amp;pageTypeId=536880236"><img src="images/partner_logo/gwin_logo.jpg" alt="Gwinnett Transit" width="40" height="36" border="0"></a></td>
+                  <td width="24%"><a href="http://www.gwinnettcounty.com/portal/gwinnett/Departments/Transportation/GwinnettCountyTransit"><img src="images/partner_logo/gwin_logo.jpg" alt="Gwinnett Transit" width="40" height="36" border="0"></a></td>
                 </tr>
             </tbody></table></td>
           </tr>
       </tbody></table>
-                  </strong></strong></td>
+                  </td>
               </tr>
           </tbody></table>
           </td>
@@ -678,7 +675,7 @@ pageTracker._trackPageview();
     <tr>
       <td width="24" style="height: 53px">&nbsp;</td>
       <td style="height: 53px" valign="top"><img src="images/lowerleftcorn.png" width="24" height="47" alt="layout image"></td>
-      <td style="width: 920px; height: 53px" valign="top"><img src="images/botstrip.png" width="941" height="47" alt="layout image"></td>
+      <td style="width: 899px; height: 53px" valign="top"><img src="images/botstrip.png" width="941" height="47" alt="layout image"></td>
       <td style="height: 53px" valign="top"><img src="images/lowerritecorn.png" width="31" height="47" alt="layout image">
       <div align="right" class="header">
            <br><br><br>
