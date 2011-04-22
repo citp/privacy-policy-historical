@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kwanzy.com privacy policy that was archived on 2010-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101124043726id_/http%3A//kwanzy.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kwanzy.com privacy policy that was archived on 2011-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110422230820id_/http%3A//kwanzy.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -34,6 +34,18 @@ function linkclick(cmstag) {
 	if (currentLink) url += '&type=' + currentLink;
 	if (subid.length > 0) url += "&subid=" + subid;
 	location.href = url;
+}
+
+function staticlink(st, pos) {
+	exit = false;
+	pos = (typeof(pos) != 'undefined') ? pos : '';
+	location.href = u + 'aid=6&fwdId=1200&pos=' + pos + '&ps=DAUSUE&Keywords=' + st + '&';
+	return false;
+}
+
+function googleTrackPage(str) {
+	_gaq.push(['_trackPageview', str]);
+	return;
 }
 //-->
 </script>
@@ -86,6 +98,6 @@ function linkclick(cmstag) {
 
 </div><!--content-->
 </div><!--wrapper-->
-<img src="http://cms.trafficmp.com/tpix.gif?clid=dom82cdacebb4801a86bda680377702a&amp;sid=b3798b56-cefe-4a98-b10f-3c1b2f014bcc" width="1" height="1">
+<img src="http://cms.trafficmp.com/tpix.gif?clid=domc81723d9140bf88db6051d08a1e78&amp;sid=fd2090cf-1713-473a-9b55-a1091793fc56" width="1" height="1">
 
 </body></html>
