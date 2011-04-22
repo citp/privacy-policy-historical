@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blekko.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025164456id_/http%3A//blekko.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blekko.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422154151id_/http%3A//blekko.com/ws/%2B/privacy) for the most accurate reproduction.*
 
-# blekko - Privacy Policy
-
-privacy policy
+# blekko | /privacy
 
 **Effective May 2010**
 
@@ -14,19 +12,15 @@ This Privacy Policy applies to blekko services only, and does not apply to any s
 
 In order to provide you with our technology, we may collect the following types of information:
 
-**Personal Information:** When you register for an account, your name, title, company, email address, mailing address and other personally identifying information (collectively, “Personally Identifiable Information”), in addition to other demographic data, will be retained in order to allow you to use your account. It is our policy to use Personally Identifiable Information to provide our technology and services, and not provide such to anyone outside of blekko without your consent (but see “Exceptions to this Privacy Policy” below). 
+  * **Personal Information:** When you register for an account, your name, title, company, email address, mailing address and other personally identifying information (collectively, “Personally Identifiable Information”), in addition to other demographic data, will be retained in order to allow you to use your account. It is our policy to use Personally Identifiable Information to provide our technology and services, and not provide such to anyone outside of blekko without your consent (but see “Exceptions to this Privacy Policy” below). 
+  * **Submitted Material:** When you use the blekko website and functionality, you will provide certain materials and content. As you participate in the website, you will also provide certain information regarding such participation to us. As a reminder, whenever you share information on blekko in your profile, in public areas, or with specific individuals, such information can be viewed by such persons.
+  * **Public Content:** If you provide content to blekko for public view, we may distribute that content to a wider audience by sharing it (or portions of it) with third parties so that they can publish it on their websites and other media platforms. blekko may, in some instances, ask that such third parties credit you as the source of these contributions, and will provide your account name and profile photo, if any, to them for such purpose.
+  * **Website Visit Information:** When you visit our website, we may create a log of your visit with information, which includes information such as your Internet Protocol (IP) address, URL information, browser type and language, and the date, time and duration of your visit. 
+  * **Links:** The blekko website may present links in a format that permits us to track whether these links have been followed. We will use this tracking information to help improve the quality of our custom content, search technology and advertising.
+  * **Cookies:** When you visit our website, we may send cookies (little files for your browser that identify your browser and your visit). blekko also uses cookies in its advertising services in order to help publishers and advertisers manage and provide advertising across the web.
+  * **Communications:** If you send us emails, faxes, letters or other communications, we may keep these in order to address your issue
 
-**Submitted Material:** When you use the blekko website and functionality, you will provide certain materials and content. As you participate in the website, you will also provide certain information regarding such participation to us. As a reminder, whenever you share information on blekko in your profile, in public areas, or with specific individuals, such information can be viewed by such persons.
 
-**Public Content:** If you provide content to blekko for public view, we may distribute that content to a wider audience by sharing it (or portions of it) with third parties so that they can publish it on their websites and other media platforms. blekko may, in some instances, ask that such third parties credit you as the source of these contributions, and will provide your account name and profile photo, if any, to them for such purpose.
-
-**Website Visit Information:** When you visit our website, we may create a log of your visit with information, which includes information such as your Internet Protocol (IP) address, URL information, browser type and language, and the date, time and duration of your visit. 
-
-**Links:** The blekko website may present links in a format that permits us to track whether these links have been followed. We will use this tracking information to help improve the quality of our custom content, search technology and advertising.
-
-**Cookies:** When you visit our website, we may send cookies (little files for your browser that identify your browser and your visit). blekko also uses cookies in its advertising services in order to help publishers and advertisers manage and provide advertising across the web.
-
-**Communications:** If you send us emails, faxes, letters or other communications, we may keep these in order to address your issue
 
 The information we collect, as described above, will be used pursuant to this Privacy Policy, and for the following purposes: to improve our services and products; to develop new services; to ensure and improve the technical functionality of our website and network; to protect your rights, blekko’s rights and the rights of other blekko users; and to assist blekko in providing you with services (including customizing the content and advertising provided to you).
 
@@ -42,14 +36,10 @@ blekko may host blogs or search field topics that gather visitor demographic dat
 
 In certain circumstances, blekko may release the information it collects, for the following purposes:
 
-to respond to court orders, subpoenas, or other legal process, or to help blekko in establishing or exercising its legal rights or defend itself against legal claims;
-
-to investigate, prevent or take action with regard to illegal activity, suspected fraud, potential threat to the physical safety of any individual, violations of the blekko Terms of Service, or as otherwise required by law;
-
-to investigate or take action with respect to any circumstance that could expose blekko to liability; and
-
-if blekko is acquired by or merges with another company. In this event, blekko will notify you before your information is transferred and becomes subject to a different privacy policy.
-
+  * to respond to court orders, subpoenas, or other legal process, or to help blekko in establishing or exercising its legal rights or defend itself against legal claims;
+  * to investigate, prevent or take action with regard to illegal activity, suspected fraud, potential threat to the physical safety of any individual, violations of the blekko Terms of Service, or as otherwise required by law;
+  * to investigate or take action with respect to any circumstance that could expose blekko to liability; and
+  * if blekko is acquired by or merges with another company. In this event, blekko will notify you before your information is transferred and becomes subject to a different privacy policy.
 
 
 
