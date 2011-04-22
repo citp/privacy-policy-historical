@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the bukisa.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207135543id_/http%3A//www.bukisa.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bukisa.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422150521id_/http%3A//www.bukisa.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Bukisa - Privacy Policy
 
 ## General
 
-Bukisa.com sees great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which Bukisa.com collects, uses, and discloses the personal information provided by you as a result of the use of Bukisa.com Web Site and the content, information and services provided through the Web Site by Bukisa.com.
+BUKISA sees great importance in protecting your privacy. Our Privacy Policy is designed to explain the manner in which BUKISA collects, uses, and discloses personal information provided by you as a result of the use of the BUKISA Web Site and the content, information and services provided throughout the Site.
 
 ## User's Consent
 
-BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.BUKISA.COM AND/OR ANY OTHER SITE PROVIDED BY Bukisa (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. Bukisa.com reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by Bukisa.com will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please contact us if you have any questions about our privacy policy.
+BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.BUKISA.COM AND/OR ANY OTHER SITE PROVIDED BY BUKISA (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. BUKISA reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by the Site will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please [contact us](http://www.bukisa.com/contact) if you have any questions about our privacy policy.
 
 ## Collection and Use of Information
 
@@ -20,18 +20,30 @@ This Site implements a user tracking feature, whereby the activities of each uni
 
 ## Use of Cookies
 
-A "cookie\" is a small text file transferred by a Web Site to a computer that is browsing the Web Site. Even if you do not register on this Site, upon your first visit to this Site (or subsequent visits if you delete the cookie), a cookie is stored on your computer, which automatically identifies you to the Site. This is done several technical reasons, including enabling the "User Tracking" described above. In addition, for your convenience, the cookie can "autofill" information on forms on the Site, precluding the need for you to fill out the same information on our registration forms each time you want to access information that requires registration. However, cookies by themselves cannot be used to discover the identity of the user; the only personal information we learn about you is that which you provide to us, as described above.If you would prefer not to receive cookies, you can change the configuration of your browser to refuse cookies. In addition, you can delete any cookies that have already been placed on your computer.
+A "cookie" is a small text file transferred by a Web Site to a computer that is browsing the Web Site. Even if you do not register on this Site, upon your first visit to this Site (or subsequent visits if you delete the cookie), a cookie is stored on your computer, which automatically identifies you to the Site. This is done for several technical reasons, including enabling the "User Tracking" described above. In addition, for your convenience, the cookie can "autofill" information on forms on the Site, removing the need for you to fill out the same information on our registration forms each time you want to access information that requires registration. However, cookies by themselves cannot be used to discover the identity of the user; the only personal information we learn about you is that which you provide to us, as described above. If you would prefer not to receive cookies, you can change the configuration of your browser to refuse cookies. In addition, you can delete any cookies that have already been placed on your computer.
 
 ## Internet Protocol Addresses
 
-We collect the IP addresses of all visitors to our Site. We use your IP address in order to administer the Site, help diagnose problems with our server, to gather broad demographic information, and for the "User Tracking" described above.
+We collect the IP addresses of all visitors to our Site. We use your IP address in order to administer the Site, help diagnose problems with our server, gather broad demographic information, and for the "User Tracking" described above.
 
 ## Hyperlinks
 
-This Site contains hyperlinks to other web sites. This privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. Bukisa.com has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over, the privacy policies of any of these sites. When you leave our Site, including by linking from the Site to another site, you should read the privacy policy, if any, provided by such site.
+This Site contains hyperlinks to other web sites. This privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. BUKISA has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over the privacy policies of any of these sites. When you leave our Site, including by linking from the Site to another site, you should read the privacy policy, if any, provided by such site.
 
-The applicable law and exclusive jurisdiction for settling any disputes in connection with the use of the Site shall be the laws and jurisdiction of the state of Israel according to the provisions of the then policy in effect.
+The applicable law and exclusive jurisdiction for settling any disputes in connection with the use of the Site shall be the laws and jurisdiction of the State of Israel according to the provisions of the then policy in effect.
 
-Bukisa.com will accumulate and process your personal information in the USA, Israel or, from time to time, in other locations at its discretion in order to provide you with competent and effective service.
+BUKISA will accumulate and process your personal information in the USA, Israel or, from time to time, in other locations at its discretion in order to provide you with competent and effective service.
 
-In order to assist in protecting the confidentiality of your personal information, Bukisa.com applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, Bukisa.com cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
+In order to assist in protecting the confidentiality of your personal information, BUKISA applies appropriate security safeguards in which to secure your sensitive information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, BUKISA cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
+
+## 3rd Party Based Advertising
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+In addition:
+
+  * Google, as a third party vendor, uses cookies to serve ads on the Site.
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet.
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
