@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classworks.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213181447id_/http%3A//www.classworks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classworks.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422190554id_/http%3A//classworks.com/privacy.php) for the most accurate reproduction.*
 
 # Curriculum Advantage, Inc - Producer of educational curriculum and management tools
 
