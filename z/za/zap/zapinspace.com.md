@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapinspace.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329103235id_/http%3A//www.zapinspace.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapinspace.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422171742id_/http%3A//www.zapinspace.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Z A P ! Online Comic
 
