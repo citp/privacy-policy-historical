@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the bengali-mp3.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120032801id_/http%3A//bengali-mp3.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bengali-mp3.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422192430id_/http%3A//bengali-mp3.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-[FREE TAMIL HINDI 3GP VIDEO SONGS](http://c.w.mkhoj.com/c.asm/3/t/5mx/knd/2/2m/ba/u/p/0/1/UniqueID/6753058e-012c-1000-f149-000101420003/1/d66582b5)
-
-[Hottest Dloads @ wapmaza.in](http://adsalvo.com/xvtrqd/r.php/c8639c9bd92a783de9f57b4d9314248f)
+[](http://ads2.mojiva.com/redir/26c35b02-6d16-11e0-90d6-001ec9fd582d/0/18181)  
+[Cool People, Hot Fun](http://ads2.mojiva.com/redir/26c35b02-6d16-11e0-90d6-001ec9fd582d/0/18181)
 
 * * *
 
