@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eventcinemas.com.au privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229203736id_/http%3A//www.eventcinemas.com.au/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eventcinemas.com.au privacy policy that was archived on 2011-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110422093037id_/http%3A//www.eventcinemas.com.au/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head id="ctl00_ctl00_Head1"><title>
 	
@@ -11,7 +11,7 @@
 
     
 </title>
-    <!-- WEBAHL6 -->
+    <!-- AHLPRWEB01 -->
     <!-- MetaDescription -->
     
         <meta name="description" content="Event Cinemas is the new complete cinema entertainment experience. With the ultimate in movie-going indulgence through Gold Class to the new gigantic screen, sound and seating experience Vmax, a range of cafe and bar facilities and a delicious array of tasty treats in Scoop Alley, going to the movies is now an EVENT!">
@@ -53,7 +53,7 @@
         <div class="menu">
 
         <ul>
-            <li><a class="hide" href="/Sessions">times &amp; tickets</a>
+            <li><a class="hide" href="/sessions">times &amp; tickets</a>
             <!--[if lte IE 6]>
             <a href="/sessions">times & tickets
             <table cellpadding="0" cellspacing="0" border="0"><tr><td>
@@ -76,13 +76,12 @@
                         </a>
                     </li>
                     <li><a href="http://www.moonlight.com.au">Moonlight Cinemas</a></li>
-                    <li><a href="/Sessions?filter=movie&amp;sessionAttribute=BABES&amp;screenType=all&amp;movieId=0">babes in arms</a></li>
-					<li><a href="/Sessions?filter=movie&amp;sessionAttribute=BOLL&amp;screenType=all&amp;movieId=0">bollywood films</a></li>
-					
-					
-                    <li><a href="/Sessions?filter=movie&amp;sessionAttribute=OC&amp;screenType=all&amp;movieId=0">open captions</a></li>
+                    <li><a href="/BabesInArms">babes in arms</a></li>
+					<li><a href="/sessions?filter=movie&amp;sessionAttribute=BOLL&amp;screenType=all&amp;movieId=0">bollywood films</a></li>
+					<li><a href="/sessions?filter=movie&amp;sessionAttribute=OC&amp;screenType=all&amp;movieId=0">open captions</a></li>
+					<li><a href="/sessions?filter=movie&amp;sessionAttribute=C CAP&amp;screenType=all&amp;movieId=0">closed captions</a></li>
 					<li><a href="/sessions?filter=movie&amp;sessionAttribute=FF&amp;screenType=all&amp;movieId=0">film festival</a></li>
-                    <li><a href="/Sessions">show all sessions</a></li>
+                    <li><a href="/sessions">show all sessions</a></li>
                 </ul>
             <!--[if lte IE 6]>
             </td></tr></table>
@@ -137,7 +136,7 @@
                         <a href="/Cinebuzz">CINE BUZZ</a>
                     </li>
                     <li>
-                        <a href="/seniorsclubonline">Seniors Club</a>
+                        <a href="/SeniorsClubOnline">Seniors Club</a>
                     </li>
                     <li>
                         <a href="/StudentMondays">Student Mondays</a>
@@ -164,8 +163,29 @@
                     <li>
                         <a href="http://www.moonlight.com.au">Moonlight Cinema</a>
                     </li>
+                </ul>
+                <!--[if lte IE 6]>
+                    </td></tr></table>
+                    </a>
+                <![endif]-->
+            </li>
+ <li><a class="hide" href="/kidsclub">kids club</a>
+                <!--[if lte IE 6]>
+                    <a href="/kidsclub">kids club
+                    <table cellpadding="0" cellspacing="0" border="0"><tr><td>
+                <![endif]-->
+                <ul>
                     <li>
-                        <a href="/Top-Ryde">Top Ryde Cinema</a>
+                        <a href="/kidsclub">Kids Club Home</a>
+                    </li>
+                    <li>
+                        <a href="/kidsclub/coolstuff">Cool Stuff</a>
+                    </li>
+                    <li>
+                        <a href="/kidsclub/movies">Awesome Movies</a>
+                    </li>
+					<li>
+                        <a href="/kidsclub/about">About Kids Club</a>
                     </li>
                 </ul>
                 <!--[if lte IE 6]>
@@ -173,7 +193,8 @@
                     </a>
                 <![endif]-->
             </li>
-
+			
+			
         </ul>
         </div>
     </div>
@@ -181,7 +202,7 @@
     <div id="rightnav">
         <a class="navsub" href="/CorporateSales/GiftCards">gift shop</a>
         <a class="navsub" href="/CorporateSales">corporate sales</a>
-        <a class="navsub" href="https://ahl.taleo.net/careersection/entertainment/jobsearch.ftl?lang=en">careers</a>
+        <a class="navsub" href="http://www.totallyintoit.com.au/pages.html?link=1http://www.totallyintoit.com.au/pages.html?link=1">careers</a>
         <a class="navsub" href="/help">help</a>
     </div>
 </div>
@@ -293,21 +314,21 @@
         $('#club-login-divider').html(msg);
     }
 
-    $(document).ready(function() {
+    $(document).ready(function () {
         $("#club-login-form").pngFix();
         bindCard('Card1', 'Card2');
         bindCard('Card2', 'Card3');
         $('#Card1').focus();
 
-        $('#login-button').click(function(event) {
+        $('#login-button').click(function (event) {
             if ($(this).css("cursor") == "wait") {
                 return;
             }
 
             $(this).css("cursor", "wait");
             $(this).hover(
-                    function() { $(this).css("cursor", "wait") },
-                    function() { $(this).css("cursor", "default") }
+                    function () { $(this).css("cursor", "wait") },
+                    function () { $(this).css("cursor", "default") }
             );
 
             var formCardNumber = joinCardInformation().replace(" ", "");
@@ -328,7 +349,7 @@
                 return;
             }
 
-            $.getJSON("/Home/LogOn", { cardNumber: formCardNumber, password: formPassword }, function(data) {
+            $.getJSON("/Home/LogOn", { cardNumber: formCardNumber, password: formPassword }, function (data) {
 
                 switch (data) {
                     case 'success':
@@ -350,6 +371,8 @@
                     case 'error':
                         // Don't know
                         displayError('An error occurred. Try again');
+                    default:
+                        displayError(data);
                 }
                 resetLoginButtonCursor();
             });
@@ -373,7 +396,7 @@
 
                                 </h1>
                             </div>
-                            
+
                             <dl id="show-me" class="clear">
                                 <dt>only show me</dt>
                                 
@@ -482,7 +505,7 @@ Sydney NSW 2000<br>
 
                     
 <div id="footer" class="clear">
-    <p class="copy">© 2010 Event Cinemas</p>
+    <p class="copy">© 2011 Event Cinemas</p>
 	<ul id="foot-icons">
 		<li class="triple">
 			<p>Find us on:</p>
@@ -520,7 +543,7 @@ Sydney NSW 2000<br>
                     Customer Service</h6>
             </li>
             <li><a href="/help">help &amp; faqs</a></li>
-            <li><a href="/help">contact us</a></li>
+            <li><a href="/ContactUs">contact us</a></li>
         </ul>
         <ul class="second">
             <li>
@@ -529,7 +552,7 @@ Sydney NSW 2000<br>
             </li>
             <li><a href="/Terms">terms &amp; conditions</a></li>
             <li><a href="/Privacy">privacy policy</a></li>
-			<li><a href="http://www.ahladvertising.com.au/advertisingSpecs_EventCinemas.html">advertise with us</a></li>
+			<li><a href="http://www.ahladvertising.com.au">advertise with us</a></li>
         </ul>
         <ul class="third">
             <li>
