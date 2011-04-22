@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the momsmiami.com privacy policy that was archived on 2010-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204090032id_/http%3A//www.miamiherald.com/825/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the momsmiami.com privacy policy that was archived on 2011-04-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110422181227id_/http%3A//www.miamiherald.com/825/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -140,6 +140,11 @@ div.static li { margin-top: 5px; }
 	*/
 	miAppControler.prototype.commenting = 1;
 
+	/*
+	 2 = display static coupon ad
+	*/
+	miAppControler.prototype.findnsave = 1;
+
 var pageInfo = {'version':1.0};
 pageInfo.section = {};
 pageInfo.section.id = 825;
@@ -175,6 +180,7 @@ var miCommentingEnabled = 1;
 
 
 
+ 
 
 
 
@@ -361,6 +367,8 @@ mi.search = new mi.Search();
 
 
  
+
+<script type="text/javascript">if(typeof gomez != "undefined" && gomez.nameEvent){gomez.nameEvent("Head Completed");}</script>
 
 </head>
 
@@ -572,6 +580,10 @@ if (loc.match('/reg-bin/') )
 {
     rurl_qs = "goto=/";
 }
+else if(loc.match('/vendor_dp/'))
+{
+    rurl_qs = "goto=http://forums.miamiherald.com"
+}
 else 
 { 
     rurl_qs = "goto="+loc 
@@ -586,12 +598,13 @@ if (GetCookie(insitecookie)) {
 }
 document.write('<li class="greeting">Welcome ' + name + ' </li>');
 document.write('<span id="nonmember"><li><a href="http://www.miamiherald.com/static/insite/login.html?' + rurl_qs + '">Login</a></li><li><a href="/reg-bin/int.cgi?mode=register">Register</a></li></span>')
-</script><li class="greeting">Welcome Guest </li><span id="nonmember"><li><a href="http://www.miamiherald.com/static/insite/login.html?goto=https://web.archive.org/web/20101204090032id_/http%3A//www.miamiherald.com/825/index.html">Login</a></li><li><a href="/reg-bin/int.cgi?mode=register">Register</a></li></span>
+</script><li class="greeting">Welcome Guest </li><span id="nonmember"><li><a href="http://www.miamiherald.com/static/insite/login.html?goto=https://web.archive.org/web/20110422181227id_/http%3A//www.miamiherald.com/825/index.html">Login</a></li><li><a href="/reg-bin/int.cgi?mode=register">Register</a></li></span>
 <span id="member">
-    <li><a href="/reg-bin/tint.cgi?mode=logout">Logout</a></li><li><a href="/reg-bin/tint.cgi?mode=edit">Member Center</a></li>
+    <li><a id="pluckLogOut" href="/reg-bin/tint.cgi?mode=logout">Logout</a></li><li><a href="/reg-bin/tint.cgi?mode=edit">Member Center</a></li>
 </span>
 
-   
+ 
+  
 </ul>
 </div>
 
@@ -618,9 +631,28 @@ document.write('<span id="nonmember"><li><a href="http://www.miamiherald.com/sta
     </div> 
 
     <div id="mainnav" class="cf">
-    
+    <script type="text/javascript">if(typeof gomez != "undefined" && gomez.nameEvent){gomez.nameEvent("Masthead Completed");}</script>
 
 
+
+
+<style type="text/css">
+#navbar ul li.f a { padding:0 5px;}
+#navbar ul li a {padding: 0 5px 0 6px;}
+#navbar ul li.l a:hover {background-position: 0 0}
+
+#navbar .dart {
+   display: none;
+}
+
+.navAd {
+   background: url("http://media.miamiherald.com/static/images/redesign/nav_bg.gif") repeat-x scroll  0 0 transparent;
+    height:26px;
+    width:80px;
+    padding:2px 0 2px 4px;
+}
+
+</style>
 
 <div id="navbar" class="cf">
  	<ul>
@@ -634,8 +666,17 @@ document.write('<span id="nonmember"><li><a href="http://www.miamiherald.com/sta
 		<li><a href="http://www.miamiherald.com/jobs/">Jobs</a></li>
 		<li><a href="http://www.miamiherald.com/cars/">Cars</a></li>
 		<li><a href="http://www.miamiherald.com/real_estate/">Real Estate</a></li>
-		<li><a href="http://www.miamiherald.com/deals/">Deals</a></li>
-		<li class="l"><a href="http://www.miamiherald.com/classifieds/">Classifieds</a></li>
+		<li><a href="http://findnsave.miamiherald.com/">Deals</a></li>
+		<li><a href="http://www.miamiherald.com/classifieds/">Classifieds</a></li>
+                <li class="l"><div class="navAd">
+          <!-- start: nav ad -->
+                    
+ 
+<!-- generic call  -->
+<!-- section ads not active -->  
+          <!-- end: nav ad -->
+
+</div></li>
 	</ul>
 </div>
 
@@ -664,6 +705,8 @@ document.write('<span id="nonmember"><li><a href="http://www.miamiherald.com/sta
 <div class="full cf">
 
                 
+
+
 <div class="static">
 <h1>Privacy Policy</h1>
 <h5>Effective Date: 10-13-09</h5>
@@ -695,7 +738,7 @@ document.write('<span id="nonmember"><li><a href="http://www.miamiherald.com/sta
 
 <p>We use services provided by Yahoo! to display advertising on MiamiHerald.com, and we may use cookies in conjunction with displaying those ads.  Please refer to Yahoo!'s privacy policy at <a href="http://privacy.yahoo.com/">http://privacy.yahoo.com/</a> for further information concerning Yahoo!'s use of cookies.</p>
 
-<p>We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <a href="http://www.platform-a.com/privacy-policy/tacoda">http://www.platform-a.com/privacy-policy/tacoda</a>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.</p>
+<p>We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <a href="http://www.platform-a.com/privacy/tacoda">http://www.platform-a.com/privacy/tacoda</a>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.</p>
 
 <p>In addition, advertisers may elect to use other advertising companies to serve their ads on MiamiHerald.com, and advertisers themselves may also place a cookie on a user's computer. We do not have access to the cookies or their contents that are placed by advertisers or by third-party advertising companies. We, therefore, recommend that you read the privacy policy of each and every Web site you visit or with which you interact.</p>
 
@@ -769,6 +812,8 @@ document.write('<span id="nonmember"><li><a href="http://www.miamiherald.com/sta
 <h3>Contact Information</h3>
 <p>If you have any questions or comments about our policies, we may be reached at MiamiHerald.com, 1 Herald Plaza, Miami, FL 33132, at 305-350-2111 or at <a href="mailto:miamifeedback@miamiherald.com">miamifeedback@miamiherald.com</a>.</p>
 </div>
+
+
 
 </div> 
 
@@ -961,6 +1006,8 @@ Miami, FL 33132 <br>
 
            
 
+<script type="text/javascript">if(typeof gomez != "undefined" && gomez.nameEvent){gomez.nameEvent("Starting Footer");}</script>
+
 <div id="footernav" class="cf">
 <ul class="top cf">
 <li class="f"><a href="/news/" onmouseover="$('#footernav ul li.f').css({ backgroundPosition:'0 100%'});" onmouseout="$('#footernav ul li.f').css({ backgroundPosition:'0 0'});">News</a></li>
@@ -1012,7 +1059,7 @@ Miami, FL 33132 <br>
 <a href="http://www.miamiherald.com/partners">More</a> 
 </p>
 
-<span class="copy"><a href="http://www.miamiherald.com/copyright/index.html" title="Copyright">Copyright 2010 Miami Herald Media Co. All rights reserved</a></span>
+<span class="copy"><a href="http://www.miamiherald.com/copyright/index.html" title="Copyright">Copyright 2011 Miami Herald Media Co. All rights reserved</a></span>
 </div>
 
 
@@ -1053,6 +1100,18 @@ Miami, FL 33132 <br>
  
 
  
+
+
+
+
+
+
+
+
+
+
+
+
 
       </div> 
     
