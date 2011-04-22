@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalimagecafe.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124071846id_/http%3A//digitalimagecafe.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalimagecafe.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422222804id_/http%3A//www.digitalimagecafe.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy |Photo Contest - Digital Image Cafe
 
