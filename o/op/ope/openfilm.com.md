@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the openfilm.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619000230id_/http%3A//www.openfilm.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openfilm.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423010340id_/http%3A//www.openfilm.com/info/privacy-policy) for the most accurate reproduction.*
 
-# Openfilm » Help & Info » Privacy Policy
+# Privacy Policy - Legal | Openfilm
 
 The Openfilm Privacy Policy describes how Openfilm treats personal information when you use Openfilm services, including information provided when you use the Openfilm website. Openfilm may modify or revise its privacy policies from time to time, and therefore advises you to check this site for information regarding revisions to our Privacy Policy.
 
-## Personal Information
+### Personal Information
 
   * **Non-Account Activity.** You can watch videos on Openfilm or contact us about a particular video on Openfilm without having an Openfilm Account.
   * **Account-Related Activity.** Certain other activities on Openfilm, such as uploading videos or posting comments, require you to have an Openfilm account. We ask for some personal information when you create an Openfilm account, including your email address and a password, which is used to protect your account from unauthorized access. An Openfilm account allows you to access some of our services that require registration.
@@ -13,7 +13,7 @@ The Openfilm Privacy Policy describes how Openfilm treats personal information w
 
 
 
-## Uses
+### Uses
 
   * If you submit personally identifiable information to us through the Openfilm website, we use your personal information to operate, maintain, and provide to you the general and personalized features and functionality of the Openfilm website, and to process any flagging activity or correspondence you send to us.
   * Your account name (not your email address) is displayed to other users when you upload videos or send messages through the Openfilm website and other users can contact you through messages and comments. Any videos that you submit to the Openfilm website may be redistributed through the internet and other media channels, and may be viewed by the general public.
@@ -23,7 +23,7 @@ The Openfilm Privacy Policy describes how Openfilm treats personal information w
 
 
 
-## Information That is Publicly Available
+### Information That is Publicly Available
 
   * When you create an account on the site, some information about your account and your account activity will be provided to other users of the site. This may include the date you opened your account, the date you last logged into your account, your age (if you choose to make it public), the country and the number of videos you have watched.
   * Your account name (not your email address) is displayed to other users when you engage in certain activity on the site, such as uploading videos or sending messages through the Openfilm website. Other users can contact you through messages and comments.
@@ -33,7 +33,7 @@ The Openfilm Privacy Policy describes how Openfilm treats personal information w
 
 
 
-## Your Choices
+### Your Choices
 
   * You may decline to submit personally identifiable information through the Openfilm website, in which case you can still view videos and explore the Openfilm website, but Openfilm may be unable to provide certain services to you, and the privacy notices of those services govern the use of your personal information associated with them.
   * You may update or correct your personal profile information and email preferences at any time by visiting your account profile page.
@@ -42,7 +42,7 @@ The Openfilm Privacy Policy describes how Openfilm treats personal information w
 
 
 
-## Third-party Advertisers, Links to Other Sites
+### Third-party Advertisers, Links to Other Sites
 
 Openfilm may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Openfilm website. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Openfilm website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. Openfilm's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Any data obtained by third-party ad servers subsequently shared with Openfilm is maintained and dealt with by Openfilm in accordance with this privacy policy.
 
