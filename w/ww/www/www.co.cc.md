@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the www.co.cc privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214121150id_/http%3A//www.co.cc/etc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.co.cc privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423085856id_/http%3A//www.co.cc/etc/privacy.php) for the most accurate reproduction.*
 
-# CO.CC Miễn phí domain - Miễn phí, Cần một tên Miền mới, Kiểm soát hoàn toàn DNS và quản lý miền, Tìm kiếm các tên miền hiện có:
+# CO.CC Gratis domain - Gratis, Skaffa en ny domän, Fullständig DNS-kontroll och domänadministration, Sök efter tillgängliga domännamn:
 
 CO.CC respects and protects your privacy  
 We will not give any information about you to others without your express permission.Our site uses forms in which you give us contact information (your name, address, daytime telephone number, and email address) so you can place orders, request information and support, and make product suggestions. We will then create an account number for you and if you choose to order from us using a credit card, we will collect your credit card number and expiration date. If you contact us for support, we will keep an internal record of what support was given. We use your customer information only when it will be important for us to contact you regarding functionality changes to our products, our web site, new CO.CC Software services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "My Account" section below on how to change your preferences. If we present a co-branded offer with our partners or affiliates, it will be clear at the point of collection who is collecting the information and whose privacy statement applies. 
@@ -63,6 +63,3 @@ If you have any questions about our privacy statement, the practices of this sit
 please contact us at :   
 \- CO.CC, Inc.   
 \- ATTN: Web Team : 864-2,502, JANGHANG-DONG, ILSAN-GU, GOYANG, GYEONGGI-DO, 410380 KOREA 
-
-  
-
