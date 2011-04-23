@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiseesoft.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223212938id_/http%3A//www.aiseesoft.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiseesoft.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423213335id_/http%3A//www.aiseesoft.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Aiseesoft Customer Privacy Policy
 
@@ -16,19 +16,16 @@ How we protect your personal information?
 
 Aiseesoft takes precautions — including administrative, technical, and physical measures — to safeguard your personal information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction.
 
-Aiseesoft uses secure server hosted by RegNow and other 3rd party credit card processors that encrypt the entire customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information. 
+Aiseesoft uses secure server hosted by RegNow and other 3rd party credit card processors that encrypt the entire customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information.
 
 You can help us by also taking precautions to protect your personal data when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure web browser like Safari. 
 
 RegNow
 
-RegNow is the software industry’s premier registration commerce provider. Aiseesoft uses RegNow to provide you with very secure and fast online purchase.
+RegNow is the software industry's premier registration commerce provider. Aiseesoft uses RegNow to provide you with very secure and fast online purchase.
 
 Cookies
 
-In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our web site and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses. 
+In order to better understand what services are valuable to our customers, we use "cookies". A cookie is a small text file that a Website writes to your hard drive. Cookies work as your identification card and may record passwords, preferences and purchases. Cookies let the web page server know that you have returned to this site. Cookies also can determine other information, such as the daily visitors to our web site and the pages of the site most frequently visited. Cookies are unique and can only be read by the server that assigns them. They cannot be executed as code or deliver viruses.
 
-You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages. 
-
-  
-
+You can change the settings in your browser to prevent cookies if you do not want to have a cookie set when you visit our website. However, by doing so, you may not have full access to all the web pages.
