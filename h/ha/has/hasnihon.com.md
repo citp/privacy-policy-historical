@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hasnihon.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029154737id_/http%3A//www.hasnihon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hasnihon.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423021731id_/http%3A//hasnihon.com/privacy) for the most accurate reproduction.*
 
 # Japanese Used Car|Damaged Car|Passenger Car|Sedan Car|Sports Car|Used Car Auction
 
