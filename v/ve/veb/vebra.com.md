@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vebra.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123020238id_/http%3A//www.vebra.com/vebra/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vebra.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423082514id_/http%3A//www.vebra.com/vebra/privacypolicy.htm) for the most accurate reproduction.*
 
 # Vebra Privacy Policy - Property for sale and rent - Vebra
 
