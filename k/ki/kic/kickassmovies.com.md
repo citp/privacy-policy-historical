@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the kickassmovies.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620192246id_/http%3A//www.kickassmovies.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickassmovies.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423204622id_/http%3A//www.kickassmovies.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  |  |  |  |  |   
----|---|---|---|---|---  
-  
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
 We gather user information to provide you with a customized experience on our site. Your user information helps us tailor the content, services, goods and advertising to your current and future needs. For this reason, we may ask you to register or to provide personal information when you post comments, enter a contest, order products, subscribe to a newsletter and/or visit certain areas of our site. If you choose not to register you may not have access to areas that require personal identification. 
@@ -64,6 +61,3 @@ KickAssMovies.com P.O. Box 296 Nehalem, OR 97131
 or as to a successor address that we make available on the Site or through other reasonable manner. You may also send us an e-mail at [support@KickAssMovies.com](mailto:support@kickassmovies.com). 
 
 Your use of our site, including any dispute concerning privacy, is subject to this Privacy Policy and our Terms of Use. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms of Use. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 11/04/06
-
-|  |  |  |  |   
----|---|---|---|---|---
