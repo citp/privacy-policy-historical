@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcn.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231081258id_/http%3A//www.rcn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcn.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424005100id_/http%3A//www.rcn.com/privacy-policy) for the most accurate reproduction.*
 
 # RCN New York City | Policies & Disclaimers | Privacy Policy
 
