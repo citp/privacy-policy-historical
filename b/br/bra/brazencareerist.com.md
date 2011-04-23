@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brazencareerist.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207150652id_/http%3A//www.brazencareerist.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazencareerist.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423092614id_/http%3A//www.brazencareerist.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brazen Careerist
 
