@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syfygames.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206062730id_/http%3A//www.syfy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syfygames.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423022751id_/http%3A//www.syfy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Syfy
 
