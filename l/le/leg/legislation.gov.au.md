@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legislation.gov.au privacy policy that was archived on 2009-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091007172547id_/http%3A//legislation.gov.au/comlaw/comlaw.nsf/preview/privacy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legislation.gov.au privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423213211id_/http%3A//legislation.gov.au/comlaw/comlaw.nsf/preview/privacy%3FOpenDocument) for the most accurate reproduction.*
 
 # ComLaw - Site privacy notice
 
