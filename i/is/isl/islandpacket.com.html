@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the islandpacket.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226191623id_/http%3A//www.islandpacket.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the islandpacket.com privacy policy that was archived on 2011-04-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110423212955id_/http%3A//www.islandpacket.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><!-- Start: /mi/shared/head.comp --><head>
  
@@ -72,6 +72,11 @@ var miCommentingEnabled = 1;
 	 4 = disable popular threads widget
 	*/
 	miAppControler.prototype.commenting = 1;
+
+	/*
+	 2 = display static coupon ad
+	*/
+	miAppControler.prototype.findnsave = 1;
 
 var pageInfo = {'version':1.0};
 pageInfo.section = {};
@@ -156,17 +161,21 @@ dart_reg="reg=0;";for(var i=0;i < ca.length;i++){var c=ca[i];while (c.charAt(0)=
     miyahoo.slots.slot_1.ad_delivery_mode = "ipatf";
     miyahoo.slots.slot_1.ad_marker = "";
     miyahoo.slots.slot_2 = {};
-    miyahoo.slots.slot_2.ad_size_list = ["300x250"];
+    miyahoo.slots.slot_2.ad_size_list = ["100x25"];
     miyahoo.slots.slot_2.ad_delivery_mode = "ipatf";
     miyahoo.slots.slot_2.ad_marker = "";
     miyahoo.slots.slot_3 = {};
     miyahoo.slots.slot_3.ad_size_list = ["300x250"];
-    miyahoo.slots.slot_3.ad_delivery_mode = "ipbtf";
+    miyahoo.slots.slot_3.ad_delivery_mode = "ipatf";
     miyahoo.slots.slot_3.ad_marker = "";
     miyahoo.slots.slot_4 = {};
-    miyahoo.slots.slot_4.ad_size_list = ["728x90"];
+    miyahoo.slots.slot_4.ad_size_list = ["300x250"];
     miyahoo.slots.slot_4.ad_delivery_mode = "ipbtf";
     miyahoo.slots.slot_4.ad_marker = "";
+    miyahoo.slots.slot_5 = {};
+    miyahoo.slots.slot_5.ad_size_list = ["728x90"];
+    miyahoo.slots.slot_5.ad_delivery_mode = "ipbtf";
+    miyahoo.slots.slot_5.ad_marker = "";
 
 
 -->
@@ -372,7 +381,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_1"
  </div><!-- End .hdrNTL2 -->
  
     <div class="hdrRow2Elements">
-      <!-- <div class="hdrDate">Monday, December 13, 2010&nbsp;&nbsp;&nbsp;&nbsp;|</div> -->
+      <!-- <div class="hdrDate">Monday, April 18, 2011&nbsp;&nbsp;&nbsp;&nbsp;|</div> -->
       <div class="hdrGeography">&nbsp;&nbsp;&nbsp;&nbsp;Serving&nbsp;
 Beaufort, Hilton Head Island and Bluffton, South Carolina
       </div>
@@ -391,12 +400,16 @@ Beaufort, Hilton Head Island and Bluffton, South Carolina
 <!-- No weather for this page -->
 <!-- Begin pet contest leaderboard -->
 <div style="float:right;padding-top:19px;margin-right:5px;">
+<!--
   <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="146" height="70">
-    <param name="movie" value="http://www.islandpacket.com/static/includes/20101210_e-Tree_146.swf">
-    <param name="quality" value="high">
+    <param name="movie" value="http://www.islandpacket.com/static/includes/20101210_e-Tree_146.swf" />
+    <param name="quality" value="high" />
     <param name="allowScriptAccess" value="always">
-    <embed src="http://www.islandpacket.com/static/includes/20101210_e-Tree_146.swf" allowscriptaccess="always" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="146" height="70">
+    <embed src="http://www.islandpacket.com/static/includes/20101210_e-Tree_146.swf" allowScriptAccess="always" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="146" height="70"></embed>
   </object>
+  </noscript>
+-->
+
   
 </div>
 <!-- End pet contest leaderboard -->
@@ -437,9 +450,9 @@ if (document.URL)
      cursor:pointer;
 </style>
 
-<form method="get" action="http://localsearch.islandpacket.com/sp" name="miSearchForm">
+<form method="get" action="/search_results" name="miSearchForm">
   <span class="searchLabel">Search </span>
-  <input class="yahooSearchBox" type="text" size="25" name="keywords" style="font: 11px arial,helvetica">
+  <input class="yahooSearchBox" type="text" size="25" name="q" style="font: 11px arial,helvetica">
   <input name="aff" type="radio" id="pd_search" value="1100" checked="true">
   <label for="pd_search" class="radio_label">&nbsp;This Site&nbsp;</label>
   <input name="aff" type="radio" value="web_search" id="search_web" class="radio">
@@ -502,9 +515,32 @@ else {
     <li><a href="#idTab8">Blogs</a></li>
     <li><a href="http://www.islandpacket.com/photos/">Photos</a></li>
     <li><a href="#idTab10">Vacation</a></li>
-    <li><a href="http://www.islandpacket.com/forums">Forums</a></li>
     <li><a href="http://www.islandpacket.com/deals" style="color:orange;">Deals</a></li>
     <li><a href="http://lowcountry.adperfect.com" style="color:yellow;">Place An Ad</a></li>
+    <li>
+          <!-- start: nav ad -->
+                    
+ 
+<!-- generic call  -->
+             
+			<div class="advertisement nav_ad dart" id="dart_100x25_ats_1"><script language="JavaScript" type="text/javascript">
+<!--
+if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
+document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=1;' + dart_reg + dart_segs + dart_tk + kw_str + 'sz=100x25;tile=2;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+}
+//-->
+</script>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=1;sz=100x25;tile=2;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=1;sz=100x25;tile=2;ord=123456789?" border="0" alt="Advertisement"></a></noscript>   
+			</div>                   
+			<div class="advertisement nav_ad yahoo" id="yahoo_100x25_ipatf_1">
+<script><!--
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_2");}
+--></script>
+			</div> 
+
+          <!-- end: nav ad -->
+
+</li>
   </ul>
   <div id="idTab1" class="idTabAll">
     <ul id="nav-one" class="nav">
@@ -519,7 +555,6 @@ else {
       <li> <a href="http://www.islandpacket.com/world/">World</a> </li>
       <li> <a href="http://www.islandpacket.com/politics/">Politics</a> </li>
       <li> <a href="http://www.islandpacket.com/technology/">Technology</a> </li>
-      <li> <a href="http://www.islandpacket.com/forums/?plckForumPage=Forum&amp;plckForumId=Cat%3a1ab2e249-241c-4287-9ac6-43c2c8619c5dForum%3a2a154be9-884a-4e8a-be67-28984d8b50a4&amp;plckNumPerPage=200&amp;plckCategoryCurrentPage=0">Local News Forum</a> </li>
       <li> <a href="http://www.islandpacket.com/nie">NIE</a> </li>
     </ul>
   </div>
@@ -546,15 +581,14 @@ else {
       <li> <a href="http://www.islandpacket.com/sports/college">College</a> </li>
       <li> <a href="http://www.islandpacket.com/sports/pro">Pro</a> </li>
       <li> <a href="http://www.islandpacket.com/sports/local/recpage/">Recreation</a> </li>
-      <li> <a href="http://heritage.islandpacket.com">Verizon Heritage</a> </li>
-      <li> <a href="http://www.islandpacket.com/forums/?plckForumPage=Forum&amp;plckForumId=Cat%3a1ab2e249-241c-4287-9ac6-43c2c8619c5dForum%3a52118d1a-6a7a-4343-9453-0ccb9ceeabac&amp;plckNumPerPage=200&amp;plckCategoryCurrentPage=0">Sports Forum</a> </li>
+      <li> <a href="http://heritage.islandpacket.com">The Heritage</a> </li>
     </ul>
   </div>
   <!-- End #idTab2 (Sports) -->
   <div id="idTab3" class="idTabAll">
     <ul id="nav-one" class="nav">
       <li> <a href="http://blogs.islandpacket.com/theguide">The Guide</a> </li>
-      <li> <a href="http://localsearch.islandpacket.com/sp?skin=&amp;keywords=&amp;aff=1105&amp;skin=&amp;aff=1105&amp;movieId=&amp;theaterId=&amp;submit=Search">Movies</a> </li>
+      <li> <a href="http://www.islandpacket.com/movies/movie/index.html">Movies</a> </li>
       <li> <a href="http://affiliate.zap2it.com/zp/?aid=a2w">TV Listings</a> </li>
       <li> <a href="http://guide.islandpacket.com/guide/restaurants/">Restaurant Guide</a> </li>
       <li> <a href="http://www.islandpacket.com/horoscope/">Horoscopes</a> </li>
@@ -771,11 +805,11 @@ else {
 <script language="JavaScript" type="text/javascript">
 <!--
 if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
-document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=NTL3;' + dart_reg + dart_segs + dart_tk + kw_str + 'sz=300x250;tile=2;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=NTL3;' + dart_reg + dart_segs + dart_tk + kw_str + 'sz=300x250;tile=3;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
 }
 //-->
 </script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=NTL3;sz=300x250;tile=2;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=NTL3;sz=300x250;tile=2;ord=123456789?" border="0" alt="Advertisement"></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=NTL3;sz=300x250;tile=3;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=NTL3;sz=300x250;tile=3;ord=123456789?" border="0" alt="Advertisement"></a></noscript>
 
 </div>
 
@@ -794,11 +828,11 @@ document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.ne
 <script language="JavaScript" type="text/javascript">
 <!--
 if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
-document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=MREC01;' + dart_reg + dart_segs + dart_tk + kw_str + 'sz=300x250;tile=3;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=MREC01;' + dart_reg + dart_segs + dart_tk + kw_str + 'sz=300x250;tile=4;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
 }
 //-->
 </script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=MREC01;sz=300x250;tile=3;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=MREC01;sz=300x250;tile=3;ord=123456789?" border="0" alt="Advertisement"></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=MREC01;sz=300x250;tile=4;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=MREC01;sz=300x250;tile=4;ord=123456789?" border="0" alt="Advertisement"></a></noscript>
 
 </div>
  </div>
@@ -809,7 +843,7 @@ document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.ne
         <div class="advertisement" id="yahoo_300x250_ipatf_1">
             
 <script><!--
-if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_2");}
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3");}
 --></script>
         </div>
     
@@ -831,7 +865,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_2"
         <div class="advertisement" id="yahoo_300x250_ipbtf_1">
             
 <script><!--
-if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3");}
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4");}
 --></script>
         </div>
     
@@ -844,6 +878,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
     </div>  <!-- End #body -->
     
  
+
 <!-- Begin: Yahoo and bottom nav -->
 
 <div style="margin:0;width:100%;">
@@ -962,11 +997,11 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
     <script language="JavaScript" type="text/javascript">
 <!--
 if(typeof(miyahoo) == "undefined" || miyahoo.ads[mi_live_or_preview].dart.enabled){
-document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=LDRB01;' + dart_reg + dart_segs + dart_tk + kw_str + 'sz=728x90;tile=4;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
+document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=LDRB01;' + dart_reg + dart_segs + dart_tk + kw_str + 'sz=728x90;tile=5;ord=' + ord + '?" type="text/javascript"></scr' + 'ipt>');
 }
 //-->
 </script>
-<noscript><a href="http://ad.doubleclick.net/jump/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=LDRB01;sz=728x90;tile=4;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=LDRB01;sz=728x90;tile=4;ord=123456789?" border="0" alt="Advertisement"></a></noscript></div>
+<noscript><a href="http://ad.doubleclick.net/jump/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=LDRB01;sz=728x90;tile=5;ord=123456789?" target="_blank"><img src="http://ad.doubleclick.net/ad/mi.hhd00/Online/SiteInformation;dcove=d;pl=sectfront;lvl6=PrivacyPolicy;loc=ats;pos=LDRB01;sz=728x90;tile=5;ord=123456789?" border="0" alt="Advertisement"></a></noscript></div>
         
  
 
@@ -975,7 +1010,7 @@ document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.ne
         <div class="advertisement" id="yahoo_728x90_ipbtf_1">
             
 <script><!--
-if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4");}
+if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_5");}
 --></script>
         </div>
     
@@ -996,7 +1031,24 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 <!-- END TACODA TAGS -->
 
 
-   </div>  <!-- End #container -->
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>  <!-- End #container -->
   <!-- End section ID div -->
 
 <script type="text/javascript">
@@ -1024,7 +1076,7 @@ mistats.pagename='Section: Privacy Policy';
 mistats.version='1.0|';
 mistats.taxonomy='Online|SiteInformation|||';
 mistats.channel='Privacy Policy';
-mistats.adposition='NTL2,NTL3,MREC01,LDRB01';
+mistats.adposition='NTL2,1,NTL3,MREC01,LDRB01';
 
 
 
