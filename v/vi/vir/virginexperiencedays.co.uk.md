@@ -1,42 +1,38 @@
-> *The following text is extracted and transformed from the virginexperiencedays.co.uk privacy policy that was archived on 2008-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080517094212id_/http%3A//www.virginexperiencedays.co.uk/privacy%2C9%2CIP.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginexperiencedays.co.uk privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423100458id_/http%3A//www.virginexperiencedays.co.uk/content/privacy_policy) for the most accurate reproduction.*
 
-# Privacy - Virgin Experience Days
-
-## Privacy
+# Virgin Experience Days - Privacy Policy
 
 We are committed to ensuring that all your personal information that we collect is kept private and protected. We'll make sure that our website is absolutely secure in the collection and use of your personal information. We follow the Data Protection Act 1998 and are registered on the public register of data controllers maintained by the Information Commissioner.
 
 You also have complete control over the information stored about you and what types of information, if any, you'd like to receive. Sometimes you may be asked to provide proof of identity before we show you your personal information - that's so we can prevent unauthorised access.
 
- **Contact Us**  
+**Contact Us**  
 You can write to us at our registered address:  
-Acorne Ltd  
+Acorne Plc  
 Acorne House  
 9 Lane End Business Park  
 Lane End  
 High Wycombe  
 HP14 3BY
 
-You can phone us on 0845 330 5115   
-You can email us on info@virgin-experience.co.uk 
+You can phone us on 0844 504 0844  
+You can email us on [info@virginexperiencedays.co.uk](mailto:info@virginexperiencedays.co.uk)
 
 **Eight Principles of Privacy**  
-We operate our Data Protection Policy under the eight principles of privacy as outlined in the Data Protection Act of 1998. These are _summarised_ below:
+We operate our Data Protection Policy under the eight principles of privacy as outlined in the Data Protection Act of 1998. These are summarised below:
 
 Personal Data must be
 
-  1. processed fairly and lawfully
-  2. processed only for one or more specified and lawful process
-  3. adequate, relevant and not excessive for those purposes
-  4. accurate and kept up to date – inaccurate data must be destroyed or altered on request
-  5. kept for no longer than necessary
-  6. processed in line with the rights of individuals 
-  7. secured against loss, destruction or damage and unauthorised or unlawful processing
-  8. not transferred to countries outside the EU that do not have adequate protection.
+processed fairly and lawfully  
+processed only for one or more specified and lawful process  
+adequate, relevant and not excessive for those purposes  
+accurate and kept up to date – inaccurate data must be destroyed or altered on request  
+kept for no longer than necessary  
+processed in line with the rights of individuals   
+secured against loss, destruction or damage and unauthorised or unlawful processing  
+not transferred to countries outside the EU that do not have adequate protection.
 
-
-
- **Getting to know you**  
+**Getting to know you**  
 We ask for information about you in 3 areas of our website for Virgin Experience Days,
 
 a) When purchasing an experience online  
@@ -52,7 +48,7 @@ We'll only use your data when you have given us permission to do so. When you re
 
 "We may from time to time send you information about our products and services and those offered by other companies in the Virgin Group; details of our special offers or promotions; and any other advertising or marketing materials that we think might interest you. If you would like to be contacted by us please tick the box below."
 
- **Why we're interested**  
+**Why we're interested**  
 We may wish to contact you from time to time with details of special offers, promotions, competitions, and information about our products and services. If you want all of this, please tick the box when registering with us. We won't use your details for direct marketing without your consent.
 
 Third parties and/or other Virgin Group companies may also wish to contact you from time to time with information they believe may be of interest to you. If you wish to receive such communications then please tick the box when registering with us. 
@@ -71,30 +67,30 @@ If you give us your consent by ticking the box when you register with us, then w
 
 We may use your personal data in order to analyse our customer base, and statistical information may be shared with third parties and other Virgin Group companies - but we'll keep it anonymous.
 
-We will never rent or sell our customer lists to any other organisation or individual. Customer lists may be used to process customer information and research customer's   
-needs and preferences.
+We will never rent or sell our customer lists to any other organisation or individual. Customer lists may be used to process customer information and research customer's needs and preferences.
 
- **Outside the EU**  
-You should be aware that countries outside the European Union may have a lower standard of protection for personal information than that required by the Data Protection Act 1998. If it is necessary to transfer your data to a company based outside the EU (e.g. for the purpose of completing a contract for your benefit) then we'll make every effort to ensure that your personal data is processed in accordance with the Data Protection Act 1998, as implementing the EU Directive on the Protection of Personal Data (95/46/EC), and any other Act or Acts replacing or modifying such Act for the time being in force, through the implementation of an agreement ensuring adequate protection of your personal data.
+**Outside the EU  
+**You should be aware that countries outside the European Union may have a lower standard of protection for personal information than that required by the Data Protection Act 1998. If it is necessary to transfer your data to a company based outside the EU (e.g. for the purpose of completing a contract for your benefit) then we'll make every effort to ensure that your personal data is processed in accordance with the Data Protection Act 1998, as implementing the EU Directive on the Protection of Personal Data (95/46/EC), and any other Act or Acts replacing or modifying such Act for the time being in force, through the implementation of an agreement ensuring adequate protection of your personal data.
 
- **Safe and sure**  
+**Safe and sure**  
 Our website has security installed to ensure that any personal data entered onto the site is protected against loss, misuse or alteration.
 
 However, due to the nature of the Internet, we can't guarantee the protection of your personal information and we can't be responsible for any outcomes resulting from a breach of security when the website is used.
 
 We're confident in our security, and it is always a top priority to ensure we do not get any problems.
 
- **Cookies**  
+**Cookies**  
 We use "cookies" to store and collect information regarding your usage of the website. These cookies do not contain any personally identifying information, but they do enable us to put in place personal settings and load your personal preferences. This makes it a better experience for you.
 
- **Details**  
+**Details**  
 You can update your personal information at any time by clicking on ‘my account’. Use your email address and password to log in, and then you'll be able to update your information. If we have shared your personal information with third parties or other Virgin Group companies then we will ensure that they're aware of any alterations or deletions.
 
- **Requesting access to your data**  
+**Requesting access to your data**  
 If you wish to know what personal information we hold about you then you can request, at any time, access to all personal information held by us which relates to you. You should write to us on at the above address, enclosing proof of identity such as a copy of your passport or driving license, requesting access to your personal information. You may have to pay a small administrative fee. You are entitled to be told by us within 40 days of a valid written request, whether we or someone else on our behalf is processing your personal information; what personal information we hold on you; together with details of the purposes for the processing and details of any third party to whom your personal information has been disclosed.
 
- **In the future...**  
+**In the future...**  
 This policy may change, and if it does, any changes will be identified on our website and the Virgin.com website. That way you'll always be fully aware of what information is collected, how it's used and under which circumstances it may be made available.
 
- **Talk to us**  
-If you have any queries, comments or complaints regarding this privacy policy, just get in touch!
+**Talk to us**  
+If you have any queries, comments or complaints regarding this privacy policy, just get in touch!  
+
