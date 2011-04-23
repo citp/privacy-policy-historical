@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4tube.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323101131id_/http%3A//www.4tube.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4tube.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423034113id_/http%3A//www.4tube.com/legal/privacy) for the most accurate reproduction.*
 
 # 4tube - Privacy Statement
 
