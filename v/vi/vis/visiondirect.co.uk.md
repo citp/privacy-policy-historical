@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visiondirect.co.uk privacy policy that was archived on 2010-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100518182657id_/http%3A//www.visiondirect.co.uk/page.php%3FxPage%3Dprivacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiondirect.co.uk privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423083930id_/http%3A//www.visiondirect.co.uk/page.php%3FxPage%3Dprivacy_policy.html) for the most accurate reproduction.*
 
 # Vision Direct - Contact Lenses Online > Privacy Policy
 
@@ -8,7 +8,7 @@ We are committed to safeguarding the privacy of our website visitors; this polic
 
 We may collect, store and use the following kinds of personal data:
 
-[(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit and number of page view)
+[(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit and number of page views)
 
 [(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services
 
@@ -50,7 +50,8 @@ We may use your personal information to:
 
 (g) send you email notifications which you have specifically requested;
 
-(h) send to you our newsletter and other marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you by post or, by email or similar technology (you can inform us at any time if you no longer require marketing communications) Opt-Out.  
+(h) send to you our newsletter and other marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you by post or, by email or similar technology (you can inform us at any time if you no longer require marketing communications) Opt-Out.
+
 [(i) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
 
 [(j) deal with enquiries and complaints made by or about you relating to the website; 
@@ -74,6 +75,8 @@ In addition, we may disclose information about you:
 (c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
 
 (d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
+
+(e) to couriers/ shipping companies in order for those companies to contact you regarding your order(s). 
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
@@ -115,7 +118,8 @@ Please let us know if the personal information which we hold about you needs to 
 
  **(11) Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to our main email address in about us or by post to VISION DIRECT, Postbus 37030, 1030 AA Amsterdam, Netherlands.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to our main email address in   
+[About Us](http://www.visiondirect.co.uk/page.php?xPage=amex_aboutus.html) or by post to VISION DIRECT, Postbus 37030, 1030 AA Amsterdam, Netherlands.
 
 This [privacy policy](http://www.website-law.co.uk/privacypolicy.html) is courtesy of  
 [Employment Law Contracts](http://www.employmentlawcontracts.co.uk/) and [Website Law](http://www.website-law.co.uk/)
