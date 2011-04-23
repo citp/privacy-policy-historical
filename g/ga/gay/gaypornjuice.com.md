@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaypornjuice.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923224323id_/http%3A//www.gaypornjuice.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaypornjuice.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423183836id_/http%3A//www.gaypornjuice.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Gay Porn Juice - Gay Tube: Gay Porn Juice Privacy Policy
 
