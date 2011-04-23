@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qgiv.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222202004id_/http%3A//www.qgiv.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qgiv.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423034719id_/http%3A//www.qgiv.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Accept Online Donations, Secure Online Donations Software
 
