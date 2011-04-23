@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessvn.net privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222003458id_/http%3A//businessvn.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessvn.net privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423020717id_/http%3A//businessvn.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Business - Commercial - Trade
 
