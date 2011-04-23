@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the elitetraveler.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122123838id_/http%3A//elitetraveler.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitetraveler.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423223939id_/http%3A//elitetraveler.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**Elite Traveler Magazine**  
-**Internet Privacy Policy**
 
 **UPDATED AS OF September 12, 2007**
 
@@ -57,7 +54,9 @@ ELITE TRAVELER occasionally conducts subscriber and/or user surveys to better ta
 
 ELITE TRAVELER has numerous products and services and therefore numerous email and promotion lists. In an effort to allow users to tailor their participation in ELITE TRAVELER services and promotions, ELITE TRAVELER provides users the ability to choose specific lists or products of interest and opt-out options are product and use/list specific. All email promotions sent from ELITE TRAVELER provide an opt-out link at the bottom of the email pursuant to which users can opt-out of specific products and promotions. If you receive one of these emails and wish to unsubscribe please follow the instructions given in each email or contact 
 
-[_support@elitetraveler.com_](mailto:support@elitetraveler.com). 
+[_support@elitetraveler.com_](mailto:support@elitetraveler.com)
+
+. 
 
 From time to time we may use customer information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change at some time in the future we will post the policy changes to our website. 
 
@@ -113,4 +112,5 @@ By using our website, you consent to the collection and use of information by EL
 
 Please send any questions about ELITE TRAVELER's Privacy Policy to 
 
-[_support@elitetraveler.com_](mailto:support@elitetraveler.com)
+[_support@elitetraveler.com_](mailto:support@elitetraveler.com)   
+
