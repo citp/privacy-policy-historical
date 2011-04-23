@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adeccousa.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222150757id_/http%3A//www.adeccousa.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adeccousa.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423033934id_/http%3A//www.adeccousa.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Adecco - Temp Jobs | Full-time Jobs| Employment Agency | Temp Agency | Staffing Services
 
