@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeechat.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202172608id_/http%3A//yeechat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeechat.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423093927id_/http%3A//yeechat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Video Chat Room - YeeChat
 
