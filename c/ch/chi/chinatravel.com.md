@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the chinatravel.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230062920id_/http%3A//chinatravel.com/about-china-travel/china-travel-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatravel.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423040045id_/http%3A//www.chinatravel.com/about-china-travel/china-travel-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy and Security
+# Privacy Policy, Chinatravel User Privacy and Security Protection
 
 Last Updated on November 18, 2010
 
 [](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.chinatravel.com/seal_m "Validate TRUSTe privacy certification")
 
-This privacy statement describes how China Highlights collects and uses the personal information you provide on our Web site: [www.chinatravel.com](http://www.chinatravel.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how we collect and use the personal information you provide on our Web site: [www.chinatravel.com](http://www.chinatravel.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-China Highlights has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at China Highlights, No.11 Binjiang Road, Guilin, China 541002 or email to [marketing@chinatravel.com](mailto:marketing@chinatravel.com). 
+Chinatravel.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at CITS Guilin, No.11 Binjiang Road, Guilin, China 541002 or email to [marketing@chinatravel.com](mailto:marketing@chinatravel.com). 
 
 If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site. ****
 
@@ -38,7 +38,7 @@ We use this information to:
 
 ### Choice/Opt-Out
 
-You may choose to stop receiving our newsletters by the unsubscribe instructions contained in the each newsletter that we sent, or go to our newsletter page on our website, logging into your account and updating your selections or you can contact us at China Highlights, [marketing@chinatravel.com](mailto:marketing@chinatravel.com).  
+You may choose to stop receiving our newsletters by the unsubscribe instructions contained in the each newsletter that we sent, or go to our newsletter page on our website, logging into your account and updating your selections or you can contact us at [marketing@chinatravel.com](mailto:marketing@chinatravel.com).  
 We also allow you to create an account, and share information such as messages, questions, comments, & travel experience with others.
 
 ### **Information Obtained from Third Parties**
@@ -55,7 +55,7 @@ We may also disclose your personal information:
 
   * as required by law such as to comply with a subpoena, or similar legal process
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
-  * if China Highlights is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * if Chinatravel.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
   * to any other third party with your prior consent to do so. 
 
 
@@ -80,14 +80,14 @@ We use a third party (Google analytics) to gather information about how you and 
 
 _Links to Other Web Sites_
 
-Our Site includes links to other Web sites whose privacy practices may differ from China Highlights. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+Our Site includes links to other Web sites whose privacy practices may differ from Chinatravel.com. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
 ### **Security**
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our website (www.chinahighlightstravel.com), we encrypt the transmission of that information using secure socket layer technology (SSL).
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.  
-If you have any questions about security on our Web site, you can contact us at China Highlights, [marketing@chinatravel.com](mailto:marketing@chinatravel.com).
+If you have any questions about security on our Web site, you can contact us at [marketing@chinatravel.com](mailto:marketing@chinatravel.com).
 
 ### **Additional Policy Information**
 
@@ -97,13 +97,13 @@ Our Web site offers publicly community forums like travel stories and reviews sh
 
 You can link to our site using social networking services such as Facebook, Twitter, TripAdvisor, Lonelyplanet and Wiki. These services will authenticate your identity and provide you the option to share certain personal information with us such as your sign-in information, name and email address to link between the sites. Services like Facebook & Twitter give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
-Tell-A-Friend: If you choose to use our referral service to tell a friend about our site or send free e-cards to your friends, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site. China Highlights stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+Tell-A-Friend: If you choose to use our referral service to tell a friend about our site or send free e-cards to your friends, we will ask you for your friend’s name and email address.  We will automatically send your friend a one-time email inviting him or her to visit the site.
 
-With your consent we may post your testimonials, questions and reviews along with your name.  If you want your testimonials, questions and reviews removed please contact us at China Highlights, [marketing@chinatravel.com](mailto:marketing@chinatravel.com).
+With your consent we may post your testimonials, questions and reviews along with your name.  If you want your testimonials, questions and reviews removed please contact us at [marketing@chinatravel.com](mailto:marketing@chinatravel.com).
 
 ### **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, you may login to your account to make the changes or contact us directly at [marketing@chinatravel.com](mailto:marketing@chinatravel.com).
+To review and update your personal information to ensure it is accurate, you may [login to your account](https://web.archive.org/my/) to make the changes or contact us directly at [marketing@chinatravel.com](mailto:marketing@chinatravel.com).
 
 ### **Notification of Privacy Statement Changes**
 
@@ -112,5 +112,5 @@ We may update this privacy statement to reflect changes to our information pract
 ### **Contact Information**
 
 You can contact us about this privacy statement by writing or email us at the address below:  
-Address: China Highlights, No.11 Binjiang Road, Guilin, China 541002  
+Address: CITS Guilin, No.11 Binjiang Road, Guilin, China 541002  
 Email: [marketing@chinatravel.com](mailto:marketing@chinatravel.com)
