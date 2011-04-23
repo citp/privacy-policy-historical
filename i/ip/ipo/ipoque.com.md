@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipoque.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620170208id_/http%3A//www.ipoque.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipoque.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423202624id_/http%3A//www.ipoque.com/privacy) for the most accurate reproduction.*
 
 # ipoque :: Privacy Statement
 
