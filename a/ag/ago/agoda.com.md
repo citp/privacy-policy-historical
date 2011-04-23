@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agoda.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227231936id_/http%3A//www.agoda.com/info/agoda_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agoda.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423184959id_/http%3A//www.agoda.com/info/agoda_privacy.html) for the most accurate reproduction.*
 
 # Agoda Privacy Policy
 
@@ -45,14 +45,3 @@ If you wish to update any Personal Data you have previously provided, or to exer
 A Special Note About Children
 
 Persons under the age of 18 are not eligible to use any services on our Site.
-
-How to Contact Us
-
-Should you have any questions, concerns or comments, please contact us at:
-
-Agoda Support Center  
-Agoda Services Co., Ltd.  
-The Offices at Central World, 27th Floor  
-999/9 Rama I Road, Patumwan  
-Bangkok 10330 Thailand   
-Tel: +44 (0)20 3027 7900
