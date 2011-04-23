@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giblink.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220004250id_/http%3A//giblink.com/component/content/article/650.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giblink.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423114844id_/http%3A//www.giblink.com/component/content/article/650.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
