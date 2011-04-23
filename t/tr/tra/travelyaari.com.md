@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelyaari.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203020712id_/http%3A//www.travelyaari.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelyaari.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423234210id_/http%3A//www.travelyaari.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Travelyaari.com - Privacy Policy
 
@@ -22,6 +22,6 @@ We appreciate your business
   * ##  Largest bus ticket inventory for 5000+ [ bus routes](http://www.travelyaari.com/bus-tickets/cities.htm)
 
   * Pay only bus ticket price. No additional charge
-  * Return bus ticket booking and [cancellation](https://web.archive.org/web/20101203020712id_/http%3A//www.travelyaari.com/GetBookingDetails.aspx?cmd=Cancel) facility
+  * Return bus ticket booking and [cancellation](https://web.archive.org/web/20110423234210id_/http%3A//www.travelyaari.com/GetBookingDetails.aspx?cmd=Cancel) facility
 
 
