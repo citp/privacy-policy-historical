@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flights.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112103735id_/http%3A//www.flights.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flights.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423043240id_/http%3A//www.flights.com/privacy.htm) for the most accurate reproduction.*
 
 # Flights.com Privacy Policy
 
@@ -11,6 +11,10 @@ Flights.com has created this privacy statement in order to demonstrate our firm 
 ### Disclosure
 
 We do not disclose personal information such as your name, address, email address or telephone numbers to any outside company. However, as mentioned above, we may share with our web site partners the necessary information required for the efficient completion of your travel arrangements. 
+
+### Interest-based advertising
+
+Flights.com uses internet based advertising on some of our pages. This allows us to better match your possible interests specifically related to travel. 
 
 ### Session Data
 
