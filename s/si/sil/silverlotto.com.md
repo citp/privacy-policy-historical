@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silverlotto.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223175243id_/http%3A//www.silverlotto.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silverlotto.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423140325id_/http%3A//www.silverlotto.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
