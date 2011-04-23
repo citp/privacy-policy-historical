@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toseeka.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201175924id_/http%3A//www.toseeka.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toseeka.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423022301id_/http%3A//www.toseeka.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ToseekA.com - Privacy Policy
 
