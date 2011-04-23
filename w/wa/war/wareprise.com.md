@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wareprise.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223102530id_/http%3A//www.wareprise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wareprise.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423193528id_/http%3A//www.wareprise.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Software for Enterprise
+# Privacy Policy - Software for Enterprise
 
 The privacy of our visitors to Wareprise.com is important to us.
 
@@ -23,6 +23,5 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
 
-  
   
 
