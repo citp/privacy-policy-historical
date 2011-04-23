@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petango.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213101515id_/http%3A//www.petango.com/Forms/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petango.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423201648id_/http%3A//www.petango.com/Forms/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
