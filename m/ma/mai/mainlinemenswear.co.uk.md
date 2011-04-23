@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainlinemenswear.co.uk privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504113350id_/http%3A//www.mainlinemenswear.co.uk/page.php%3FxPage%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainlinemenswear.co.uk privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423064817id_/http%3A//www.mainlinemenswear.co.uk/page.php%3FjssCart%3D67f5195de78cd6651380bbe13cebc350%26xPage%3Dprivacy.html) for the most accurate reproduction.*
 
 # Mainline Menswear Ltd. > Our Privacy Statement
 
