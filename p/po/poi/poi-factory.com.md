@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poi-factory.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131004846id_/http%3A//www.poi-factory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poi-factory.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423112805id_/http%3A//www.poi-factory.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | POI Factory
 
