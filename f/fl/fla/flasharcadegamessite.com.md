@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the flasharcadegamessite.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007215637id_/http%3A//www.flasharcadegamessite.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flasharcadegamessite.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423133649id_/http%3A//www.flasharcadegamessite.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | FAQ - Play flash arcade games - puzzle, strategy, free online games
+# Privacy Policy | FAQ
+
+  
+
 
 ## Information Collection and Use
 
 FlashArcadeGamesSites is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. FlashArcadeGamesSites collects information from our users at several different points on our website.
-
-## Links
-
-This web site contains links to other sites. Please be aware that we [FlashArcadeGamesSites] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 ## Notification of Changes  
 
@@ -21,11 +20,11 @@ Flasharcadegamessite.com makes use of log files. The information inside the log 
 
 ## Advertising
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third-party vendor, uses cookies to serve ads on this site. Googles use of the DART cookie enables it to serve ads to you based on your visits to flasharcadegamessite and other portals on the Internet. You may opt out of the use of the DART cookie by visiting the [Google Ad and Content Network Privacy Policy](http://www.google.co.uk/privacy_ads.html)
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third-party vendor, uses cookies to serve ads on this site. Googles use of the DART cookie enables it to serve ads to you based on your visits to flasharcadegamessite and other portals on the Internet. You may opt out of the use of the DART cookie by visiting http://www.google.co.uk/privacy_ads.html 
 
-ValueClick Media, as a third party vendor, also uses cookies to serve ads on our site. ValueClick Medias use cookies enables it to serve ads to our users based on content and your interests. ValueClick Media also offers “opt-out Cookies” to block the placement of future ValueClick Media Cookies on your system. Users may opt out of the use of the ValueClick Medias cookie by Installing the [ValueClick Media Opt-Out Cookies](https://admin.valueclickmedia.com/optout/index.html)
+ValueClick Media, as a third party vendor, also uses cookies to serve ads on our site. ValueClick Medias use cookies enables it to serve ads to our users based on content and your interests. ValueClick Media also offers “opt-out Cookies” to block the placement of future ValueClick Media Cookies on your system. Users may opt out of the use of the ValueClick Medias cookie by Installing the https://admin.valueclickmedia.com/optout/index.html valueclick media opt-out cookies
 
-Flasharcadegamessite.com supports the efforts of the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. More information about the NAI can be found at [http://www.networkadvertising.org](http://www.networkadvertising.org/). The NAI offers an Opt-out Tool developed in conjunction with its members for the express purpose of allowing consumers to "opt out" of the behavioral advertising delivered by its member companies. To use the NAIs opt-out visit: <http://www.networkadvertising.org/managing/opt_out.asp>. 
+Flasharcadegamessite.com supports the efforts of the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. More information about the NAI can be found at http://www.networkadvertising.org. The NAI offers an Opt-out Tool developed in conjunction with its members for the express purpose of allowing consumers to "opt out" of the behavioral advertising delivered by its member companies. To use the NAIs opt-out visit: http://www.networkadvertising.org/managing/opt_out.asp. 
 
 ## FAQ
 
@@ -40,11 +39,6 @@ First of all, please try to refresh the page, if this can not resolve the proble
 3\. How to submit my high scores ?
 
 You have to be logged in to submit to the high score system
-
-4\. How does the trophy system work ?
-
-Were still trying to figure that one out ourselves, once we do well let you know at the moment it has a few BUgz.  
-
 
 Copyright
 
