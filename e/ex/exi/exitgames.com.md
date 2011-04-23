@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exitgames.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216195752id_/http%3A//exitgames.com/Home/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exitgames.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423195351id_/http%3A//www.exitgames.com/Home/PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Statement | Exit Games
 
