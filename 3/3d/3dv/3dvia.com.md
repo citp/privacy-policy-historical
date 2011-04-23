@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3dvia.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210034650id_/http%3A//www.3dvia.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dvia.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423211057id_/http%3A//www.3dvia.com/about/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - 3dvia.com
+# Privacy Policy on 3DVIA.com
 
 The following personal data protection policy (the "Privacy Policy") is a declaration of principles and guidelines for the protection of the personal data of all persons browsing the website of Dassault Systèmes .
 
@@ -131,7 +131,7 @@ DS has put suitable protection mechanism in place and complies with this Privacy
 
 You have a right to access your Personal Data, as well as a right to request the rectification, completion, update or erasure of your Personal Data. You also have a right to obtain communication of the Personal Data conserved by DS.
 
-If You have an account, You can exercise your rights of access to and rectification of the data by logging on to your account. Otherwise, You may exercise your rights of access to and rectification of the data by using the [contact us ](https://web.archive.org/about/contact_us.php "contact us")form.
+If You have an account, You can exercise your rights of access to and rectification of the data by logging on to your account. Otherwise, You may exercise your rights of access to and rectification of the data by using the [contact us ](https://web.archive.org/need-more-help "contact us")form.
 
   10. Data Security  
 
@@ -147,7 +147,7 @@ However, it is important for You to exercise caution to prevent unauthorised acc
   11. Dispute settlement  
 
 
-Although DS has put in place reasonable safeguards to protect Personal Data, we recognize that there is no method of transmitting or storing Personal Data that is completely secure. Consequently, if you have a reason to believe that the security of your Personal Data has been compromised or that your Personal Data has been misused or accessed by an unauthorized person, we ask you to use the [contact us ](https://web.archive.org/about/contact_us.php "contact us")form.
+Although DS has put in place reasonable safeguards to protect Personal Data, we recognize that there is no method of transmitting or storing Personal Data that is completely secure. Consequently, if you have a reason to believe that the security of your Personal Data has been compromised or that your Personal Data has been misused or accessed by an unauthorized person, we ask you to use the [contact us ](https://web.archive.org/need-more-help "contact us")form.
 
 DS will undertake the necessary investigations and attempt to resolve any complaints concerning any utilisation or disclosure of Personal Data in infringement of the principles set out in this Privacy Policy. If the dispute cannot be resolved through DS internal procedures, You may then directly seize the local authorities in charge of personal data protection (e.g. the CNIL in France). 
 
@@ -156,7 +156,7 @@ Unauthorised access to Personal Data or the improper use of Personal Data may co
   12. Contact  
 
 
-For any additional question concerning this Privacy Policy, you may send an e-mail by using the [contact us](https://web.archive.org/about/contact_us.php "Contact us") form.
+For any additional question concerning this Privacy Policy, you may send an e-mail by using the [contact us](https://web.archive.org/need-more-help "Contact us") form.
 
   13. Date of entry into force of the Privacy Policy and changes to it  
 
