@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiatees.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611060946id_/http%3A//www.asiatees.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiatees.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423165018id_/http%3A//www.asiatees.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AsiaTees.com
 
@@ -45,15 +45,6 @@ Email our [Customer Loyalty Team](http://www.asiatees.com/email) \- we reply to 
 
 |   
 ---  
-  Order any $25 and enjoy free shipping to ANY location in the world! Shipping only takes 5-10 business days with tracking information available.  
-**[View our Shipping Policy](https://web.archive.org/shipping)**  
-  
-****************  
-  
-********************
-
-|   
----  
   If, for any reasons you are not 100% satisfied with your order, you may return it in its original condition within 365 days of purchase for a full refund (less shipping).  
   
 ****************  
@@ -72,5 +63,14 @@ Email our [Customer Loyalty Team](http://www.asiatees.com/email) \- we reply to 
 ---  
   AsiaTees.com respects your privacy. We don't rent or sell your personal information to anyone.  
 **[Read our Privacy Policy](https://web.archive.org/privacy)**  
+  
+****************  
+  
+********************
+
+|   
+---  
+  Order any $75 and enjoy FREE shipping to ANY location in the world! Shipping only takes 5-10 business days with tracking information available.  
+**[View our Shipping Policy](https://web.archive.org/shipping)**  
   
 ****************
