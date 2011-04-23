@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the songsterr.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208081401id_/http%3A//www.songsterr.com/a/wa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songsterr.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423205324id_/http%3A//www.songsterr.com/a/wa/privacy) for the most accurate reproduction.*
 
-# Songsterr
+# Privacy Policy | Songsterr Guitar Tabs
 
 Songsterr.com is an online educational and entertainment community that allows users to watch and learn how to play guitar tabs from worldwide music artists. Users can create their own accounts.
 
