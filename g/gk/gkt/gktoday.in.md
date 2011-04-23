@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gktoday.in privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528122655id_/http%3A//www.gktoday.in/2009/03/adsense-privacy-policy-for-general.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gktoday.in privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423235414id_/http%3A//www.gktoday.in/2009/03/adsense-privacy-policy-for-general.html) for the most accurate reproduction.*
 
-# Disclaimer & Privacy PolicyGeneral Knowledge Today
+# Copyright, Disclaimer & Privacy PolicyGeneral Knowledge Today
 
 **Our Privacy Policy**
 
@@ -20,7 +20,7 @@ As with most other websites, we collect and use the data contained in log files.
 
  **Viewing ads of your choice**
 
-Google AdSense is world's largest , most prestigious and transparent advertising company. The Ads presented on the site are non obtrusive and don't affect your computer adversely. **AdSense can also show show you relevant ads based on your interests. By visiting**[ **this link**](http://www.google.com/ads/preferences/html/about.html) **you can add your interests so that Google shows you ads based upon your interest, while browsing internet.**
+Google AdSense is world's largest , most prestigious and transparent advertising company. The Ads presented on the site are non obtrusive and don't affect your computer adversely. **AdSense can also show you relevant ads based on your interests. By visiting**[ **this link**](http://www.google.com/ads/preferences/html/about.html) **you can add your interests so that Google shows you ads based upon your interest, while browsing internet.**
 
 **About Cookies & Web Beacons:**  
 Cookies and web beacons are used by these advertisers (such as Google through the Google AdSense program) to collect information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. **This does not include your email address, mobile numbers etc. This** _is used for geotargeting purposes (showing New York real estate ads to someone in New York and showing India specific ads to somebody in India at the same time " ), so You don't need to worry about it._
@@ -57,10 +57,26 @@ You can opt-out of this ad serving on all sites using this advertising by visiti
 
   8.  _While every effort has been has been made to ensure accuracy of the information published in this blog, the author does not accept responsibility for any error or omission._
 
+  9.  _This disclaimer applies to all subomains of gktoday.in, gktoday.net, gktoday.org and all other programmes / courses run by Gktoday and its authors such as online / email assistance proggramme, e-mail updates, pdf versions of the documents / articles and anything associated with this site._
+
+  10.  _GKToday.in which has its title as " **General Knowledge Today** " in all subdomains of gktoday.in, gktoday.net and gktoday.org is a **personal blog** and have NO relationships with any other website, blog, news magazine, comeptition magazine, book, newsletter or other electronic / print publications. We have no relationships with any coaching institutes, publishers and any other media entities. The name "General Knoweldge Today" is NOT our trademark and its a generic name which is being used by the blog author for his blogs. _
 
 
 
- __ **Can this Privacy Policy Change?**  
+
+**_Copyright_**
+
+  
+
+
+  1. The quizzes and articles of [http://www.gktoday.in/](http://www.gktoday.in/) and **all subdomains of gktoday.in, gktoday.net and gktoday.org** are protected by Copyrighted to its authors , unless otherwise mentioned. 
+
+  2. You are supposed to **NOT to copy, paste** the content in your blog , website, magazine, e-magazine or any other electronic / print media , unless and until you have prior written consent from the author **.**
+
+
+
+
+__**Can this Privacy Policy Change?**  
 Please note that this Privacy Policy may change from time to time. We expect most such changes will be minor.We will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice on the homepage .Each version of this Policy will be identified at the top of the page by its effective date.  
 
 
@@ -68,7 +84,7 @@ Please note that this Privacy Policy may change from time to time. We expect mos
 
 If you have additional questions regarding your privacy and www.gktoday.in, please contact Suresh Soni electronically via email [gktoday.in@gmail.com](mailto:gktoday.in@gmail.com) or mobile : +919928053351 .
 
- **Last Updated : June 23, 2009**
+ **Last Updated : February 22, 2011**
 
   
 
