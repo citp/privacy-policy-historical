@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europeana.eu privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225174704id_/http%3A//europeana.eu/portal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europeana.eu privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423034944id_/http%3A//www.europeana.eu/portal/privacy.html) for the most accurate reproduction.*
 
 # Europeana - Privacy policy
 
@@ -57,7 +57,7 @@ Last amendment: 30 September 2008
 
 ## Feedback Form
 
-If you encounter any problem using this site or wish to make general comments/suggestions, please use [this form](https://web.archive.org/web/20101225174704id_/http%3A//europeana.eu/portal/contact.html).
+If you encounter any problem using this site or wish to make general comments/suggestions, please use [this form](https://web.archive.org/web/20110423034944id_/http%3A//www.europeana.eu/portal/contact.html).
 
 All of our online forms that require you to enter personal information are designed to meet privacy requirements. This privacy policy provides further details.
 
