@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disstudies.org privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120234136id_/http%3A//www.disstudies.org/privacy_policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disstudies.org privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423104125id_/http%3A//www.disstudies.org/privacy_policy/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Society for Disability Studies
 
