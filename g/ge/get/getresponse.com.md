@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getresponse.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226140310id_/http%3A//www.getresponse.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getresponse.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424185901id_/http%3A//www.getresponse.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - email marketing - GetResponse
 
