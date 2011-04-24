@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activtrak.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823024347id_/http%3A//bgrove.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activtrak.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424050620id_/http%3A//bgrove.com/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
