@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the dragonfable.com privacy policy that was archived on 2010-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101015011128id_/http%3A//www.aq.com/aw-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonfable.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425004623id_/http%3A//www.aq.com/aw-privacy.asp) for the most accurate reproduction.*
 
 # Artix Entertainment Privacy Policy
-
-**REVISED September 7, 2010**
-
-| 
 
 [](http://www.truste.org/ivalidate.php?url=www.aq.com&sealid=105)
 
@@ -15,7 +11,7 @@
 has been awarded **TRUSTe Privacy Seal** signifying that this privacypolicy and practices have been reviewed by TRUSTe for compliance with TRUSTE's [program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html), including transparency, accountability, and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trustsolutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at   
 . If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-This privacy statement covers the Web Sites: [www.battleon.com](http://www.battleon.com/), [www.dragonfable.com](http://www.dragonfable.com/), [www.mechquest.com](http://www.mechquest.com/), and [www.aq.com](http://www.aq.com/). Because these Web Sites want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe. 
+This privacy statement covers the Web Sites: [www.battleon.com](http://www.battleon.com/), [www.dragonfable.com](http://www.dragonfable.com/), [www.mechquest.com](http://www.mechquest.com/), [www.herosmash.com](http://www.herosmash.com/) and [www.aq.com](http://www.aq.com/). Because these Web Sites want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe. 
 
 Artix Entertainment LLC complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use and retention of data from the European Union.
 
@@ -26,6 +22,7 @@ What We WILL NOT DO With the Information You Provide to Us
 What Are Cookies?  
 What Are IP Addresses?  
 Message Boards  
+Mobile  
 Security and Credit Card Use  
 CHILDRENS’S PRIVACY POLICY  
 Revision Information  
@@ -59,22 +56,6 @@ A Subscriber Account is a paid membership account that provides our users with a
 
 We are copied with this information by PayPal (see Security and Credit Card Use below) and require this information for the sole purpose of verifying your account and payment information.
 
-**Artix Affiliate Program**  
-The Artix Entertainment Partner Program is Artix’s affiliate marketing program. The Partner Program is the FIRST EVER such program for a Massively Single Player Role Playing Game (MSPRPG), and it is open to anyone 18 years old or older with an active website. For additional information on the Partner Program, please go to 
-
-_[http://www.battleon.com/aq-partner.asp](http://www.battleon.com/aq-partner.asp)_
-
-. In order to register for the Partner Program, we will require you to provide the following information:
-
-  * First and last name
-  * Address, city, state, zip code and country
-  * Phone number
-  * Email address
-  * Social security number / Corporate ID number/ABN/EIN
-  * Website URL 
-
-
-
 **What We WILL DO With Your Personal Information**  
 We use third-party service providers (“Service Providers”), such as a shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. When you sign up with the website, we will provide your personal information (e.g. name, address, phone number and email address) to Service Providers as necessary for such Service Providers to provide their respective services. Service Providers to whom Artix Entertainment discloses your personal information all have agreed to abide by this Privacy Policy, and Service Providers are specifically prohibited from using your personal information for promotional purposes. Please note that Service Providers (e.g., PayPal)may have separate privacy policies that govern their collection, use and storage of information that you provide to them directly. 
 
@@ -107,6 +88,11 @@ If you use a message board or forum on this Web Site, you should be aware that a
 
 The message board must be signed up for separately from the game and is subject to TERMS OF USE.
 
+**Mobile**  
+Artix Entertainment may use tools or third party analytical software to collect and use certain non-personal data that does not enable Artix Entertainment to identify you. The types of non-personal data Artix Entertainment may collect and use include, but are not limited to: (i) mobile device type and device properties; (ii) mobile device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data no more accurate that metropolitan areas; (v) gamescore and achievements; (vi) other non-personal data as reasonably required by Artix Entertainment to enhance its services.
+
+Artix Entertainment may use the collected data for purposes of analyzing usage of Artix Entertainment games, managing and providing Artix Entertainment games and to further develop Artix Entertainment’s services and products. Artix Entertainment reserves the right to use and disclose the collected non-personal data for purposes of advertisement by Artix Entertainment or Artix Entertainment’s partners.
+
 **Security and Credit Card Use**  
 The security of your personal information is important to us and our third party vendors. When you enter sensitive information (such as credit card number and/or social security number, Corp ID number or ABN) on our site or an affiliate sign up page, registration or order forms, both Artix Entertainment and our third party vendors encrypt that information using secure socket layer technology (SSL). 
 
@@ -119,8 +105,8 @@ Artix Entertainment utilizes a credit card processor to process your payments wh
 **PayPal**  
 Founded in 1998, PayPal, an eBay Company, enables any individual or business with an email address to securely, easily and quickly send and receive payments online. To find our more about PayPal and its privacy and security policies, please visit [www.paypal.com](http://www.paypal.com/). PayPal is our preferred method of payment. 
 
-**PayByCash**  
-Founded in 1998, PayByCash offers over 20 methods of payment, including cash and money order methods (additional fees may apply). To find out more about PayByCash and its privacy and security policies, please visit [www.paybycash.com](http://www.paybycash.com/). 
+**PlaySpan**  
+Founded in 1998, PlaySpan offers over 100 methods of payment, including cash and money order methods (additional fees may apply). To find out more about PlaySpan and its privacy and security policies, please visit [www.playspan.com](http://www.playspan.com/)
 
 **ClickAndBuy**  
 Founded in 2001, ClickAndBuy enables individuals or businesses with an email address the ability to securely and easily send and receive payments online. To find out more about ClickAndBuy and its privacy and security policies, please visit [www.clickandbuy.com](http://www.clickandbuy.com/).
