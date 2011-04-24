@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woio.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221220700id_/http%3A//www.woio.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woio.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424125734id_/http%3A//woio.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - 19 Action News|Cleveland, OH|Breaking News, Weather, Exclusives
 
