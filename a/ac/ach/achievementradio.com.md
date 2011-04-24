@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achievementradio.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121141810id_/http%3A//achievementradio.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achievementradio.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424045958id_/http%3A//www.achievementradio.com/privacy-statement) for the most accurate reproduction.*
 
 # Achievement Radio Network - Privacy Statement
 
