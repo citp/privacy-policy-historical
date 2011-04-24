@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blastoffnetwork.com privacy policy that was archived on 2010-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100908082447id_/http%3A//blastoffnetwork.com%3Fpage_id%3D509) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blastoffnetwork.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424092024id_/http%3A//blastoffnetwork.com/overlays/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy « Blastoff Network
-
-This is the web site of Blastoff Communications.
+# 
 
 Our postal address is:  
 5760 Legacy Drive  
