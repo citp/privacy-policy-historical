@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degruyter.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203012447id_/http%3A//www.degruyter.com/cont/serv/datenschutzEn.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degruyter.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424230422id_/http%3A//www.degruyter.com/cont/serv/datenschutzEn.cfm) for the most accurate reproduction.*
 
 # DE GRUYTER - Datenschutz
 
@@ -40,3 +40,12 @@ D-10785 Berlin / Germany
 Tel: +49 30 260 05-0  
 Fax: +49 30 260 05-251  
 E-mail: [feedback@degruyter.com](mailto:feedback@degruyter.com)
+
+### Data Security and Youth Protection Officer
+
+Bénédict Ripperger  
+Genthiner Str. 13  
+10785 Berlin, Germany  
+Tel: +49 (0)30 26 005 263  
+Fax: +49 (0)30 26 005 258  
+E-mail: [benedict.ripperger@degruyter.com](mailto:benedict.ripperger@degruyter.com)
