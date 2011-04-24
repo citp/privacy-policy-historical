@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubylane.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229221050id_/http%3A//www.rubylane.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubylane.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425002418id_/http%3A//www.rubylane.com/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,8 @@ We define personal information as any and all of the information specific to you
   4. Will Ruby Lane disclose any of my personal information?
   5. Does Ruby Lane use Cookies?
   6. How does Ruby Lane use my IP address?
-  7. Is there more information on the Net?
+  7. Will I be able to request changes to my personally identifiable information?
+  8. How will I be informed of material changes to the Privacy Policy?
 
 
 
@@ -89,13 +90,21 @@ IP addresses are the unique ID assigned to your computer while connected to the 
 Ruby Lane uses IP addresses for system administration (for example, tracking down problems accessing our web site) and to determine which parts of our site are most frequently accessed. IP addresses are never released to third parties. 
 
   
-**Is there more information on the Net?** Back to Top.  
+**Will I be able to request changes to my personally identifiable information?** Back to Top.  
 
 
-  * [Electronic Frontier Foundation](http://www.eff.org/) \- a civil liberties organization working to protect your rights online. 
-  * [Electronic Privacy Information Center](http://epic.org/) \- established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure. 
-  * [Privacy Issues Page](http://www.cdt.org/privacy/) \- from the Center for Democracy and Technology (CDT). 
-  * [The EPIC Cookies Page](http://www.epic.org/privacy/internet/cookies/) \- definitions, links, and news. 
-  * [How to Protect Your Privacy](http://www.ftc.gov/privacy/index.html) \- information from the Federal Trade Commission. 
+Yes you can do that at any time, by signing in, going to My Account, and clicking Edit. 
+
+  
+**How will I be informed of material changes to the Privacy Policy?** Back to Top.  
 
 
+If we make material changes to the Privacy Policy, at our election we will either inform you the next time you sign in as a Member, or you will receive an email notification from us. 
+
+  
+**FOR CALIFORNIA RESIDENTS**
+
+We not disclose your personal information to third parties for the third parties' direct marketing purposes, unless you first affirmatively agree to that disclosure. California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. If you would like more information with respect to your privacy rights under California law, you may contact us using the Email Ruby Lane link below. Please reference your request as "California Disclosure Information." 
+
+  
+**This Privacy Statement was last revised on and is effective as of July 25, 2009.**
