@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitquickies4newbies.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219155042id_/http%3A//profitquickies4newbies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitquickies4newbies.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424165942id_/http%3A//profitquickies4newbies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Make Money Online | Make Money From Home | Earn Fast Money Online | Make Money At Home
 
