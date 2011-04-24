@@ -1,18 +1,20 @@
-<!--The following is the downloaded HTML source of the quidco.com privacy policy that was archived on 2010-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101207180352id_/http%3A//www.quidco.com/privacy-policy/%3Fnclnsi) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quidco.com privacy policy that was archived on 2011-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110424072422id_/http%3A//www.quidco.com/privacy-policy/%3Fnclnsi) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraph.org/schema/"><head>
 		
 												
-		<title>Quidco Privacy Policy</title>
-
+					<title>Quidco Privacy Policy</title>
+				
 		
-			<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+	
+		
+			<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 			<meta name="description" content="Quidco Privacy Policy">
 			<meta name="keywords" content="cashback, UK, deals, cash back, ebates, rebate site, commission">
 							<meta name="robots" content="index, follow">
-						<meta name="google-site-verification" content="ILFWjlG5qiUBIhXpM6LyYcr6gPpEUVHVUWv6YSHKikQ">
+									<meta name="google-site-verification" content="ILFWjlG5qiUBIhXpM6LyYcr6gPpEUVHVUWv6YSHKikQ">
 
 							<meta property="og:image" content="http://static.quidco.com/img/quidco_fb_logo.gif" xmlns:og="http://opengraphprotocol.org/schema/">
 			
@@ -20,23 +22,27 @@
 		    <meta property="fb:admins" content="100001113871795">
 		    <meta property="fb:app_id" content="114825185235079">
 
-			<link rel="alternate" type="application/rss+xml" title="RSS - Savvy Tips" href="http://www.quidco.com/rss/savvy">
-			<link rel="alternate" type="application/rss+xml" title="RSS - Quidblog" href="http://www.quidco.com/blog/?feed=rss2">
+			<!-- it's a variant page with different params so we don't want search engines to think we are spamming -->
+			
+			<link rel="alternate" type="application/rss+xml" title="RSS - Savvy Tips" href="/rss/savvy">
+			<link rel="alternate" type="application/rss+xml" title="RSS - Quidblog" href="/blog/?feed=rss2">
 			<link rel="shortcut icon" href="http://static.quidco.com/img/favicon.ico" type="image/x-icon">
 				
 				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
-        		<script src="/static/js/jquery.colorbox-min.js" type="text/javascript"></script>
-		<script src="/static/js/quidcoModal.js" type="text/javascript"></script>
-		<script src="/static/js/global.js?v=47" type="text/javascript"></script>
+        					<script src="/static/js/jquery.colorbox-min.js" type="text/javascript"></script>
+				<script src="/static/js/quidcoModal.js" type="text/javascript"></script>
+		<script src="/static/js/global.js?v=67" type="text/javascript"></script>
 		<script type="text/javascript">
 			  jQuery(document).ready(function() {
 			  	jQuery("div.search form").qsearch({autoSuggest : "true"});
 				jQuery("#nav").nav();
 				jQuery(".addthis_toolbox").share();
 				jQuery(".referLink").referModal();
+				jQuery("#content").activityHover();
+				jQuery("body").janBan();
 
-				jQuery("#header").xmasRolls();
-				
+				jQuery("body").headerBanner();
+
 										jQuery("#header").loginSignUp();
 				
 									jQuery(".join-quidco").attachTransitMerchant();
@@ -44,80 +50,103 @@
 								
 
 				
+
+				jQuery('.close-notification a').closeNotificationHandler();
 				
 			  });
 			  var WRInitTime=(new Date()).getTime(); //Click Tale
 		</script>
-
-		<link rel="stylesheet" media="screen, projection" type="text/css" href="/global-css?v=1003">
-		<link rel="stylesheet" media="screen, projection" type="text/css" href="/static/css/css3.css?v=56">
-
-		<!--[if IE 6]> <link rel="stylesheet" media="screen, projection" type="text/css" href="/ie6-css?v=56" /> <![endif]-->
-		<!--[if IE 7]> <link rel="stylesheet" media="screen, projection" type="text/css" href="/static/css/ie7.css?v=56" /> <![endif]-->
-
+		<link rel="stylesheet" media="screen, projection" type="text/css" href="/global-css?v=1072">
+		<link rel="stylesheet" media="screen, projection" type="text/css" href="/static/css/css3.css?v=64">
+					<script src="http://platform.twitter.com/anywhere.js?id=tIA50RJOQY5wP9HBK6W3Og&amp;v=1" type="text/javascript"></script>
 		
+		<!--[if IE 6]> <link rel="stylesheet" media="screen, projection" type="text/css" href="/ie6-css?v=61" /> <![endif]-->
+		<!--[if IE 7]> <link rel="stylesheet" media="screen, projection" type="text/css" href="/static/css/ie7.css?v=58" /> <![endif]-->
+
 	</head>
 
 	
 								
 	<body class="privacy-policy">
 	
-			
-		<script type="text/javascript">
-		    var path=window.location.pathname;
 		
-		    if (path.lastIndexOf('/')==path.length-1) {
-		        path=path.substring(0,path.length-1)
-		    }
-		
-		    var numSlashes=path.split('/').length-1;
-		
-		    var host=window.location.host;
-		    var url=window.location.href;
-		    var i=url.indexOf(host);
-		
-		    var uri = url.substring(i+host.length);
+	<script type="text/javascript">
+	    var path=window.location.pathname;
+	
+	    if (path.lastIndexOf('/')==path.length-1) {
+	        path=path.substring(0,path.length-1)
+	    }
+	
+	    var numSlashes=path.split('/').length-1;
+	
+	    var host=window.location.host;
+	    var url=window.location.href;
+	    var i=url.indexOf(host);
+	
+	    var uri = url.substring(i+host.length);
 
-		    				var customPageURL = uri+'&ga-cls='+document.getElementsByTagName('body')[0].className+'&ga-dpth='+numSlashes;
-					
-		    var _gaq = _gaq || [];
-		    _gaq.push(
-		    						['_setAccount', 'UA-5946757-2'],
-					['_setDomainName', '.quidco.com'],
-					['_setAllowHash', false],
-					['_trackPageview', customPageURL],
+	    			var customPageURL = uri+'&ga-cls='+document.getElementsByTagName('body')[0].className+'&ga-dpth='+numSlashes;
+			
+	    var _gaq = _gaq || [];
+	    _gaq.push(
+	    	
+			['_setAccount', 'UA-5946757-2'],
+			['_setDomainName', '.quidco.com'],
+			['_setAllowHash', false],
+			['_addOrganic', 'search.bt.com', 'p'],
+			['_addOrganic', 'talktalk.co.uk', 'query'],
+			['_addOrganic', 'sky.com', 'term'],
+			['_addOrganic', 'mywebsearch.com', 'searchfor'],
+
+			
+			['_trackPageview', customPageURL],
+			
 						
-				['cross._setAccount', 'UA-5946757-8'],
-				['cross._setDomainName', '.quidco.com'],
-				['cross._setAllowHash', false],
-				['cross._setAllowLinker', true],
-				['cross._trackPageview', customPageURL]
-			);
-		</script>
+			['cross._setAccount', 'UA-5946757-8'],
+			['cross._setNamespace', 'cross'],
+			['cross._setDomainName', '.quidco.com'],
+			['cross._setAllowHash', false],
+			['cross._setAllowLinker', true],
+			['cross._addOrganic', 'search.bt.com', 'p'],
+			['cross._addOrganic', 'talktalk.co.uk', 'query'],
+			['cross._addOrganic', 'sky.com', 'term'],
+			['cross._addOrganic', 'mywebsearch.com', 'searchfor'],
+					
+						
+			['cross._trackPageview', customPageURL]
+
+		);
+	</script>
+			
 													
 	
-	
+		
+			
 		<div id="wrapper">
 
 			
-								<div id="header" class="xmas-header">
+								<div id="header" class="banner-header">
 					<div class="logo">
 						
-								
-								<a href="/">
-									<img src="/static/img/skins/xmas_2010/xmas_logo.png" alt="Quidco - The secret to smart shopping">
-								</a>
-													
-										</div><!-- .logo -->
+							<a href="/">
+								<img src="/static/img/quidco_logo.gif" alt="Quidco - The secret to smart shopping">
+							</a>
+											</div><!-- .logo -->
 
 					
 		                		                    		                		                <div class="text-nav">
 	            			<ul>
-					            					            <li>
+					            													            <li>
+					                <a href="/onek-challenge/">Save £1k</a>
+					            </li>
+																<li>
 					                <a href="/about/">About</a>
 					            </li>
 				                <li>
 					                <a href="/quidclans/">Community</a>
+					            </li>
+					            <li>
+					                <a href="/press/">Press</a>
 					            </li>
 					            <li>
 					                <a href="/help/">Help</a>
@@ -169,30 +198,69 @@
 								<fieldset>
 									<legend>Store Search</legend>
 				                    <input type="submit" name="login" class="sq-submit" value="Search">
-									<label for="store-qsearch">Type in a store, e.g. Apple, Tesco, Amazon</label>
+									<label for="store-qsearch" id="store-qsearch-label">Type in a store or product, e.g. Tesco, iPad, Amazon</label>
 									<input type="text" id="store-qsearch" name="search" maxlength="100" tabindex="1" value="">
 								</fieldset>
 							</form>
 						</div><!-- .search -->
 					
 					
-																
+																				
 					
-							
-							<div class="xmas-present">
-								<a href="/clarks?head"><img src="/static/uploads/a/img/header_banners/header_banner-4215-2010-12-06 00:00:00_large.png"></a>
-								<input type="hidden" name="xmas_image_large" id="xmas_image_large" value="header_banner-4215-2010-12-06 00:00:00_large.png">
-								<input type="hidden" name="xmas_image_small" id="xmas_image_small" value="header_banner-4215-2010-12-06 00:00:00_small.png">
-								<img src="/static/uploads/a/img/header_banners/header_banner-4215-2010-12-06 00:00:00_large.png" style="display:none;">
-							</div>
-															<div class="xmas-book"><a target="_blank" href="/christmas/"></a></div>
-																	
-					
+													<div id="header-banner">
+								<div class="title">
+									<div>
+										<h2>Gifts for Easter!</h2>
+										<a href="http://smartshopper.quidco.com/2011/04/18/easter-gift-ideas/">See all offers</a>
+									</div>
+								</div>
+								<div class="title-image">
+									<img src="http://static.quidco.com/uploads/a/img/header_banners/EASTERGRAPHICS.png" width="46" height="46" alt="">
+								</div>
+								<div class="carousel">
+									<div class="scroll-button left">
+										<a href=""></a>
+									</div>
+									<div class="caro-container">
+										<ul>
+																							<li>
+													<a class="banner-item" href="/hotel-chocolat?eas"><img src="http://static.quidco.com/uploads/a/img/merchant-tn/hotel-chocolat.gif" alt=""></a>
+													<a class="item-description" href="/hotel-chocolat?eas">10% off + 8% cashback</a>
+												</li>	
+																							<li>
+													<a class="banner-item" href="/best-buy?eas"><img src="http://static.quidco.com/uploads/a/img/merchant-tn/best-buy.gif" alt=""></a>
+													<a class="item-description" href="/best-buy?eas">Get 8% cashback</a>
+												</li>	
+																							<li>
+													<a class="banner-item" href="/virgin-money-travel-insurance?eas"><img src="http://static.quidco.com/uploads/a/img/merchant-tn/virgin-money-travel-insurance.gif" alt=""></a>
+													<a class="item-description" href="/virgin-money-travel-insurance?eas">£10 annual travel policies</a>
+												</li>	
+																							<li>
+													<a class="banner-item" href="/homebase/?eas"><img src="http://static.quidco.com/uploads/a/img/merchant-tn/homebase.gif" alt=""></a>
+													<a class="item-description" href="/homebase/?eas">5% cashback + 20% off</a>
+												</li>	
+																							<li>
+													<a class="banner-item" href="/vodafone/?eas"><img src="http://static.quidco.com/uploads/a/img/merchant-tn/vodafone.gif" alt=""></a>
+													<a class="item-description" href="/vodafone/?eas">£140 cashback on iPhone</a>
+												</li>	
+																					</ul>
+									</div>
+									<div class="scroll-button right">
+										<a href=""></a>
+									</div>
+								</div>
+																	<div class="static_banner_right">
+										<a href="http://smartshopper.quidco.com"><img src="http://static.quidco.com/uploads/a/img/header_banners/qco-header-msg-smartshopper.png" width="310" height="46" alt=""></a>
+									</div>
+															</div>
+											
+									
 				</div><!-- #header -->
 							
 			
 				
-							
+						
+		
 	            							
 		<div class="modal-wrapper">
 			<div id="modal-join" class="group modal-sign-up">
@@ -235,7 +303,7 @@
 
 											<input type="hidden" name="action" value="login">
 									
-											<input type="hidden" name="sign_in_redirect_path" value="/privacy-policy/">
+											<input type="hidden" name="sign_in_redirect_path" value="/privacy-policy/?nclnsi">
 											<input type="hidden" name="inbound_filename" value="privacy-policy">
 											
 											<input type="hidden" id="code_link_to_reveal" name="code_link_to_reveal" value="">
@@ -305,15 +373,15 @@
 		                    <div class="module">
 		                        <div class="module-content">
 		                        	<div class="content-item transit" id="transit_merchant_no_cashback_container">
-		                        		<p><span id="dont_have_time">Don't have time?</span> 
-		                        					                        			
-		                        							                        		<a href="/visit///no-cashback/?bp" target="_blank" id="transit_merchant_no_cashback_link">
-				                        			Just go to the merchant
-				                        		</a>
-			                        				                        		</p>
-		                        	</div>
+		                        					                        		<p><span id="dont_have_time">Don't have time?</span> 
+			                        						                        			
+			                        								                        		<a href="/visit///no-cashback/?bp" target="_blank" id="transit_merchant_no_cashback_link">
+					                        			Just go to the merchant
+					                        		</a>
+				                        					                        		</p>
+		                        				                        	</div>
 		                        	<div class="content-item help">
-		                        		<p><a href="http://www.quidco.com/contact-us/?category=Joining%20and%20Login%20Problems">Need help joining?</a></p>
+		                        		<p><a href="http://www.quidco.com/support-join-sign-in/?category=Joining%20and%20Login%20Problems">Need help joining?</a></p>
 		                        	</div>
 		                        </div>
 							</div>
@@ -335,34 +403,34 @@
 									<span class="nav-left"></span>
 									<a href="/browse/">Browse</a>
 									<ul class="sub-menu">
-										<li><a href="/a-z/a">a</a></li>
-										<li><a href="/a-z/b">b</a></li>
-										<li><a href="/a-z/c">c</a></li>
-										<li><a href="/a-z/d">d</a></li>
-										<li><a href="/a-z/e">e</a></li>
-										<li><a href="/a-z/f">f</a></li>
-										<li><a href="/a-z/g">g</a></li>
-										<li><a href="/a-z/h">h</a></li>
-										<li><a href="/a-z/i">i</a></li>
-										<li><a href="/a-z/j">j</a></li>
-										<li><a href="/a-z/k">k</a></li>
-										<li><a href="/a-z/l">l</a></li>
-										<li><a href="/a-z/m">m</a></li>
-										<li><a href="/a-z/n">n</a></li>
-										<li><a href="/a-z/o">o</a></li>
-										<li><a href="/a-z/p">p</a></li>
-										<li><a href="/a-z/q">q</a></li>
-										<li><a href="/a-z/r">r</a></li>
-										<li><a href="/a-z/s">s</a></li>
-										<li><a href="/a-z/t">t</a></li>
-										<li><a href="/a-z/u">u</a></li>
-										<li><a href="/a-z/v">v</a></li>
-										<li><a href="/a-z/w">w</a></li>
-										<li><a href="/a-z/x">x</a></li>
-										<li><a href="/a-z/y">y</a></li>
-										<li class="rpos-3"><a href="/a-z/z">z</a></li>
-										<li class="rpos-2 popular"><a href="/browse/">By popularity</a></li>
-										<li class="rpos-1 new"><a href="/newest/">Newest</a></li>
+										<li><a href="/a-z/a?hov">a</a></li>
+										<li><a href="/a-z/b?hov">b</a></li>
+										<li><a href="/a-z/c?hov">c</a></li>
+										<li><a href="/a-z/d?hov">d</a></li>
+										<li><a href="/a-z/e?hov">e</a></li>
+										<li><a href="/a-z/f?hov">f</a></li>
+										<li><a href="/a-z/g?hov">g</a></li>
+										<li><a href="/a-z/h?hov">h</a></li>
+										<li><a href="/a-z/i?hov">i</a></li>
+										<li><a href="/a-z/j?hov">j</a></li>
+										<li><a href="/a-z/k?hov">k</a></li>
+										<li><a href="/a-z/l?hov">l</a></li>
+										<li><a href="/a-z/m?hov">m</a></li>
+										<li><a href="/a-z/n?hov">n</a></li>
+										<li><a href="/a-z/o?hov">o</a></li>
+										<li><a href="/a-z/p?hov">p</a></li>
+										<li><a href="/a-z/q?hov">q</a></li>
+										<li><a href="/a-z/r?hov">r</a></li>
+										<li><a href="/a-z/s?hov">s</a></li>
+										<li><a href="/a-z/t?hov">t</a></li>
+										<li><a href="/a-z/u?hov">u</a></li>
+										<li><a href="/a-z/v?hov">v</a></li>
+										<li><a href="/a-z/w?hov">w</a></li>
+										<li><a href="/a-z/x?hov">x</a></li>
+										<li><a href="/a-z/y?hov">y</a></li>
+										<li class="rpos-3"><a href="/a-z/z?hov">z</a></li>
+										<li class="rpos-2 popular"><a href="/browse/?hov">By popularity</a></li>
+										<li class="rpos-1 new"><a href="/newest/?hov">Newest</a></li>
 									</ul>
 									<span class="nav-right"></span>
 								</div>
@@ -381,54 +449,54 @@
 				                                	
 			                                		
 			                                		
-			                                   					                                   			<li class="pos-1"><a href="/in-store-cashback/">In-Store</a></li>
+			                                   					                                   			<li class="pos-1"><a href="/in-store-cashback/?hov">In-Store</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-2"><a href="/high-street/high-street-fashion/">Fashion</a></li>
-			                                        				                                                		                                                        <li class="sub-category"><a href="/high-street/high-street-fashion/clothing/">Clothing</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/high-street-fashion/footwear/">Footwear</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/high-street-fashion/jewellery-accessories/">Jewellery &amp; Accessories</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/high-street-fashion/lingerie/">Lingerie</a></li>
+			                                   					                                   			<li class="pos-2"><a href="/high-street/high-street-fashion/?hov">Fashion</a></li>
+			                                        				                                                		                                                        <li class="sub-category"><a href="/high-street/high-street-fashion/clothing/?hov">Clothing</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/high-street-fashion/footwear/?hov">Footwear</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/high-street-fashion/jewellery-accessories/?hov">Jewellery &amp; Accessories</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/high-street-fashion/lingerie/?hov">Lingerie</a></li>
 		                                                        			                                                			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-3"><a href="/high-street/supermarkets/">Supermarkets</a></li>
+			                                   					                                   			<li class="pos-3"><a href="/high-street/supermarkets/?hov">Supermarkets</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-4"><a href="/high-street/department-stores/">Department Stores</a></li>
+			                                   					                                   			<li class="pos-4"><a href="/high-street/department-stores/?hov">Department Stores</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-5"><a href="/high-street/home-diy/">Home &amp; DIY</a></li>
-			                                        				                                                		                                                        <li class="sub-category"><a href="/high-street/home-diy/homewares/">Homewares</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/home-diy/diy/">DIY</a></li>
-		                                                        		                                                        			                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/home-diy/garden/">Garden</a></li>
+			                                   					                                   			<li class="pos-5"><a href="/high-street/home-diy/?hov">Home &amp; DIY</a></li>
+			                                        				                                                		                                                        <li class="sub-category"><a href="/high-street/home-diy/homewares/?hov">Homewares</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/home-diy/diy/?hov">DIY</a></li>
+		                                                        		                                                        			                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/home-diy/garden/?hov">Garden</a></li>
 		                                                        			                                                			                                        						                                    					                                         </ul></li><li class="new-column"><ul>
 					                                         					                                    					                                    
-			                                   					                                   			<li class="pos-6"><a href="/high-street/toys-gifts/">Toys &amp; Gifts</a></li>
-			                                        				                                                		                                                        <li class="sub-category"><a href="/high-street/toys-gifts/toys/">Toys</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/toys-gifts/flowers/">Flowers</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/toys-gifts/food-chocolate/">Food &amp; Chocolate</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/toys-gifts/drink/">Drink</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/toys-gifts/gadgets/">Gadgets</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/toys-gifts/gifts/">Gifts</a></li>
+			                                   					                                   			<li class="pos-6"><a href="/high-street/toys-gifts/?hov">Toys &amp; Gifts</a></li>
+			                                        				                                                		                                                        <li class="sub-category"><a href="/high-street/toys-gifts/toys/?hov">Toys</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/toys-gifts/flowers/?hov">Flowers</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/toys-gifts/food-chocolate/?hov">Food &amp; Chocolate</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/toys-gifts/drink/?hov">Drink</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/toys-gifts/gadgets/?hov">Gadgets</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/toys-gifts/gifts/?hov">Gifts</a></li>
 		                                                        			                                                			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-7"><a href="/high-street/health-beauty/">Health &amp; Beauty</a></li>
-			                                        				                                                		                                                        <li class="sub-category"><a href="/high-street/health-beauty/health/">Health</a></li>
-		                                                        		                                                        			                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/health-beauty/beauty/">Beauty</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/health-beauty/fragrances/">Fragrances</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/health-beauty/glasses-and-lenses/">Glasses &amp; Lenses</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/health-beauty/vitamins-suppliments/">Vitamins &amp; Supplements</a></li>
+			                                   					                                   			<li class="pos-7"><a href="/high-street/health-beauty/?hov">Health &amp; Beauty</a></li>
+			                                        				                                                		                                                        <li class="sub-category"><a href="/high-street/health-beauty/health/?hov">Health</a></li>
+		                                                        		                                                        			                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/health-beauty/beauty/?hov">Beauty</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/health-beauty/fragrances/?hov">Fragrances</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/health-beauty/glasses-and-lenses/?hov">Glasses &amp; Lenses</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/high-street/health-beauty/vitamins-suppliments/?hov">Vitamins &amp; Supplements</a></li>
 		                                                        			                                                			                                        						                                    					                                         </ul></li><li class="new-column"><ul>
 					                                         					                                    					                                    
-			                                   					                                   			<li class="pos-8"><a href="/high-street/mum-kids/">Mum &amp; Kids</a></li>
+			                                   					                                   			<li class="pos-8"><a href="/high-street/mum-kids/?hov">Mum &amp; Kids</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-9"><a href="/high-street/office/">Office</a></li>
+			                                   					                                   			<li class="pos-9"><a href="/high-street/office/?hov">Office</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-10"><a href="/high-street/sport-outdoor/">Sport</a></li>
+			                                   					                                   			<li class="pos-10"><a href="/high-street/sport-outdoor/?hov">Sport</a></li>
 			                                        						                                    					                                    
 			                                   					                                   	</ul>
 			                               	</li>
 			                    	   		<li class="browse">
 		                        	       		<h3>Browse</h3>
 					                        	<ul>
-						                            <li class="pos-0"><a href="/high-street/">By Popularity</a></li>
-						                            <li class="pos-1"><a href="/high-street/a-z/">A-Z</a></li>
-						                            <li class="pos-2"><a href="/high-street/newest/">Newest</a></li>
+						                            <li class="pos-0"><a href="/high-street/?hov">By Popularity</a></li>
+						                            <li class="pos-1"><a href="/high-street/a-z/?hov">A-Z</a></li>
+						                            <li class="pos-2"><a href="/high-street/newest/?hov">Newest</a></li>
 					                        	</ul>
 			                    	   		</li>
 			                	   		</ul>
@@ -447,32 +515,32 @@
 				                                	
 			                                		
 			                                		
-			                                   					                                   			<li class="pos-1"><a href="/entertainment/attractions-experiences/">Attractions &amp; Experiences</a></li>
+			                                   					                                   			<li class="pos-1"><a href="/entertainment/attractions-experiences/?hov">Attractions &amp; Experiences</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-2"><a href="/entertainment/books-mags/">Books &amp; Mags</a></li>
+			                                   					                                   			<li class="pos-2"><a href="/entertainment/books-mags/?hov">Books &amp; Mags</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-3"><a href="/entertainment/dating/">Dating</a></li>
+			                                   					                                   			<li class="pos-3"><a href="/entertainment/dating/?hov">Dating</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-4"><a href="/entertainment/gambling/">Gambling</a></li>
+			                                   					                                   			<li class="pos-4"><a href="/entertainment/gambling/?hov">Gambling</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-5"><a href="/entertainment/games/">Games</a></li>
+			                                   					                                   			<li class="pos-5"><a href="/entertainment/games/?hov">Games</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-6"><a href="/entertainment/movies/">Movies</a></li>
+			                                   					                                   			<li class="pos-6"><a href="/entertainment/movies/?hov">Movies</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-7"><a href="/entertainment/music/">Music</a></li>
+			                                   					                                   			<li class="pos-7"><a href="/entertainment/music/?hov">Music</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-8"><a href="/entertainment/tickets/">Tickets</a></li>
+			                                   					                                   			<li class="pos-8"><a href="/entertainment/tickets/?hov">Tickets</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-9"><a href="//"></a></li>
+			                                   					                                   			<li class="pos-9"><a href="//?hov"></a></li>
 			                                        						                                    					                                    
 			                                   					                                   	</ul>
 			                               	</li>
 			                    	   		<li class="browse">
 		                        	       		<h3>Browse</h3>
 					                        	<ul>
-						                            <li class="pos-0"><a href="/entertainment/">By Popularity</a></li>
-						                            <li class="pos-1"><a href="/entertainment/a-z/">A-Z</a></li>
-						                            <li class="pos-2"><a href="/entertainment/newest/">Newest</a></li>
+						                            <li class="pos-0"><a href="/entertainment/?hov">By Popularity</a></li>
+						                            <li class="pos-1"><a href="/entertainment/a-z/?hov">A-Z</a></li>
+						                            <li class="pos-2"><a href="/entertainment/newest/?hov">Newest</a></li>
 					                        	</ul>
 			                    	   		</li>
 			                	   		</ul>
@@ -491,22 +559,22 @@
 				                                	
 			                                		
 			                                		
-			                                   					                                   			<li class="pos-1"><a href="/fashion/fashion-clothing/">Clothing</a></li>
+			                                   					                                   			<li class="pos-1"><a href="/fashion/fashion-clothing/?hov">Clothing</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-2"><a href="/fashion/fashion-footwear/">Footwear</a></li>
+			                                   					                                   			<li class="pos-2"><a href="/fashion/fashion-footwear/?hov">Footwear</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-3"><a href="/fashion/fashion-jewellery/">Jewellery &amp; Accessories</a></li>
+			                                   					                                   			<li class="pos-3"><a href="/fashion/fashion-jewellery/?hov">Jewellery &amp; Accessories</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-4"><a href="/fashion/fashion-lingerie/">Lingerie</a></li>
+			                                   					                                   			<li class="pos-4"><a href="/fashion/fashion-lingerie/?hov">Lingerie</a></li>
 			                                        						                                    					                                    
 			                                   					                                   	</ul>
 			                               	</li>
 			                    	   		<li class="browse">
 		                        	       		<h3>Browse</h3>
 					                        	<ul>
-						                            <li class="pos-0"><a href="/fashion/">By Popularity</a></li>
-						                            <li class="pos-1"><a href="/fashion/a-z/">A-Z</a></li>
-						                            <li class="pos-2"><a href="/fashion/newest/">Newest</a></li>
+						                            <li class="pos-0"><a href="/fashion/?hov">By Popularity</a></li>
+						                            <li class="pos-1"><a href="/fashion/a-z/?hov">A-Z</a></li>
+						                            <li class="pos-2"><a href="/fashion/newest/?hov">Newest</a></li>
 					                        	</ul>
 			                    	   		</li>
 			                	   		</ul>
@@ -525,26 +593,26 @@
 				                                	
 			                                		
 			                                		
-			                                   					                                   			<li class="pos-1"><a href="/mobiles/pay-monthly/">Pay Monthly</a></li>
+			                                   					                                   			<li class="pos-1"><a href="/mobiles/pay-monthly/?hov">Pay Monthly</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-2"><a href="/mobiles/sim-only/">SIM Only</a></li>
+			                                   					                                   			<li class="pos-2"><a href="/mobiles/sim-only/?hov">SIM Only</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-3"><a href="/mobiles/pay-as-you-go/">Pay As You Go</a></li>
+			                                   					                                   			<li class="pos-3"><a href="/mobiles/pay-as-you-go/?hov">Pay As You Go</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-4"><a href="/mobiles/mobile-phone-recycling/">Mobile Phone Recycling</a></li>
+			                                   					                                   			<li class="pos-4"><a href="/mobiles/mobile-phone-recycling/?hov">Mobile Phone Recycling</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-5"><a href="/mobiles/mobile-broadband/">Mobile Broadband</a></li>
+			                                   					                                   			<li class="pos-5"><a href="/mobiles/mobile-broadband/?hov">Mobile Broadband</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-6"><a href="/mobiles/accessories-ringtones/">Accessories &amp; Ringtones</a></li>
+			                                   					                                   			<li class="pos-6"><a href="/mobiles/accessories-ringtones/?hov">Accessories &amp; Ringtones</a></li>
 			                                        						                                    					                                    
 			                                   					                                   	</ul>
 			                               	</li>
 			                    	   		<li class="browse">
 		                        	       		<h3>Browse</h3>
 					                        	<ul>
-						                            <li class="pos-0"><a href="/mobiles/">By Popularity</a></li>
-						                            <li class="pos-1"><a href="/mobiles/a-z/">A-Z</a></li>
-						                            <li class="pos-2"><a href="/mobiles/newest/">Newest</a></li>
+						                            <li class="pos-0"><a href="/mobiles/?hov">By Popularity</a></li>
+						                            <li class="pos-1"><a href="/mobiles/a-z/?hov">A-Z</a></li>
+						                            <li class="pos-2"><a href="/mobiles/newest/?hov">Newest</a></li>
 					                        	</ul>
 			                    	   		</li>
 			                	   		</ul>
@@ -563,29 +631,29 @@
 				                                	
 			                                		
 			                                		
-			                                   					                                   			<li class="pos-1"><a href="/electricals/audio-visual/">Audio Visual</a></li>
+			                                   					                                   			<li class="pos-1"><a href="/electricals/audio-visual/?hov">Audio Visual</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-2"><a href="/electricals/cameras-photography/">Cameras &amp; Photography</a></li>
+			                                   					                                   			<li class="pos-2"><a href="/electricals/cameras-photography/?hov">Cameras &amp; Photography</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-3"><a href="/electricals/computing/">Computing</a></li>
-			                                        				                                                		                                                        <li class="sub-category"><a href="/electricals/computing/computers/">Computers</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/electricals/computing/domains-hosting/">Domains &amp; Hosting</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/electricals/computing/software/">Software</a></li>
+			                                   					                                   			<li class="pos-3"><a href="/electricals/computing/?hov">Computing</a></li>
+			                                        				                                                		                                                        <li class="sub-category"><a href="/electricals/computing/computers/?hov">Computers</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/electricals/computing/domains-hosting/?hov">Domains &amp; Hosting</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/electricals/computing/software/?hov">Software</a></li>
 		                                                        			                                                			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-4"><a href="/electricals/appliances/">Appliances</a></li>
+			                                   					                                   			<li class="pos-4"><a href="/electricals/appliances/?hov">Appliances</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-5"><a href="/electricals/electrical-gadgets/">Gadgets</a></li>
+			                                   					                                   			<li class="pos-5"><a href="/electricals/electrical-gadgets/?hov">Gadgets</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-6"><a href="/electricals/gaming/">Gaming</a></li>
+			                                   					                                   			<li class="pos-6"><a href="/electricals/gaming/?hov">Gaming</a></li>
 			                                        						                                    					                                    
 			                                   					                                   	</ul>
 			                               	</li>
 			                    	   		<li class="browse">
 		                        	       		<h3>Browse</h3>
 					                        	<ul>
-						                            <li class="pos-0"><a href="/electricals/">By Popularity</a></li>
-						                            <li class="pos-1"><a href="/electricals/a-z/">A-Z</a></li>
-						                            <li class="pos-2"><a href="/electricals/newest/">Newest</a></li>
+						                            <li class="pos-0"><a href="/electricals/?hov">By Popularity</a></li>
+						                            <li class="pos-1"><a href="/electricals/a-z/?hov">A-Z</a></li>
+						                            <li class="pos-2"><a href="/electricals/newest/?hov">Newest</a></li>
 					                        	</ul>
 			                    	   		</li>
 			                	   		</ul>
@@ -601,36 +669,36 @@
 				                    		<li class="category">
 			                        			<h3>By Category</h3>
 			                                	<ul>
-				                                					                                		<li class="pos-{position()}"><a href="/car-insurance-comparison?car_pcomp_hove">Quidco Compare Car Insurance <span id="car-insurance-comparison-new">&nbsp;</span></a></li>
+				                                					                                		<li class="pos-{position()}"><a href="/car-insurance-comparison?car_pcomp_hove">Quidco Compare Car Insurance</a></li>
 				                                	
 			                                		
 			                                		
-			                                   					                                   			<li class="pos-1"><a href="/insurance-finance/insurance/">Insurance</a></li>
-			                                        				                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/breakdown/">Breakdown</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/car/">Car</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/home/">Home</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/insurance-travel/">Travel</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/insurance-health/">Health</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/life/">Life</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/pet/">Pet</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/wedding/">Wedding</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/car-rental-insurance/">Car Hire</a></li>
+			                                   					                                   			<li class="pos-1"><a href="/insurance-finance/insurance/?hov">Insurance</a></li>
+			                                        				                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/breakdown/?hov">Breakdown</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/car/?hov">Car</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/home/?hov">Home</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/insurance-travel/?hov">Travel</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/insurance-health/?hov">Health</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/life/?hov">Life</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/pet/?hov">Pet</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/wedding/?hov">Wedding</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/insurance/car-rental-insurance/?hov">Car Hire</a></li>
 		                                                        			                                                			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-2"><a href="/insurance-finance/finance/">Finance</a></li>
-			                                        				                                                		                                                        <li class="sub-category"><a href="/insurance-finance/finance/bank-accounts/">Bank Accounts</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/finance/credit-cards/">Credit Cards</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/finance/loans/">Loans</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/finance/savings/">Savings</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/finance/credit-rating/">Credit Rating</a></li>
+			                                   					                                   			<li class="pos-2"><a href="/insurance-finance/finance/?hov">Finance</a></li>
+			                                        				                                                		                                                        <li class="sub-category"><a href="/insurance-finance/finance/bank-accounts/?hov">Bank Accounts</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/finance/credit-cards/?hov">Credit Cards</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/finance/loans/?hov">Loans</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/finance/savings/?hov">Savings</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/insurance-finance/finance/credit-rating/?hov">Credit Rating</a></li>
 		                                                        			                                                			                                        						                                    					                                    
 			                                   					                                   	</ul>
 			                               	</li>
 			                    	   		<li class="browse">
 		                        	       		<h3>Browse</h3>
 					                        	<ul>
-						                            <li class="pos-0"><a href="/insurance-finance/">By Popularity</a></li>
-						                            <li class="pos-1"><a href="/insurance-finance/a-z/">A-Z</a></li>
-						                            <li class="pos-2"><a href="/insurance-finance/newest/">Newest</a></li>
+						                            <li class="pos-0"><a href="/insurance-finance/?hov">By Popularity</a></li>
+						                            <li class="pos-1"><a href="/insurance-finance/a-z/?hov">A-Z</a></li>
+						                            <li class="pos-2"><a href="/insurance-finance/newest/?hov">Newest</a></li>
 					                        	</ul>
 			                    	   		</li>
 			                	   		</ul>
@@ -649,20 +717,20 @@
 				                                	
 			                                		
 			                                		
-			                                   					                                   			<li class="pos-1"><a href="/utilities/broadband-digital-tv/">Broadband &amp; Digital TV</a></li>
+			                                   					                                   			<li class="pos-1"><a href="/utilities/broadband-digital-tv/?hov">Broadband &amp; Digital TV</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-2"><a href="/utilities/gas-electricity/">Gas &amp; Electricity</a></li>
+			                                   					                                   			<li class="pos-2"><a href="/utilities/gas-electricity/?hov">Gas &amp; Electricity</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-3"><a href="/utilities/landline-phone/">Landline Phone</a></li>
+			                                   					                                   			<li class="pos-3"><a href="/utilities/landline-phone/?hov">Landline Phone</a></li>
 			                                        						                                    					                                    
 			                                   					                                   	</ul>
 			                               	</li>
 			                    	   		<li class="browse">
 		                        	       		<h3>Browse</h3>
 					                        	<ul>
-						                            <li class="pos-0"><a href="/utilities/">By Popularity</a></li>
-						                            <li class="pos-1"><a href="/utilities/a-z/">A-Z</a></li>
-						                            <li class="pos-2"><a href="/utilities/newest/">Newest</a></li>
+						                            <li class="pos-0"><a href="/utilities/?hov">By Popularity</a></li>
+						                            <li class="pos-1"><a href="/utilities/a-z/?hov">A-Z</a></li>
+						                            <li class="pos-2"><a href="/utilities/newest/?hov">Newest</a></li>
 					                        	</ul>
 			                    	   		</li>
 			                	   		</ul>
@@ -681,34 +749,34 @@
 				                                	
 			                                		
 			                                		
-			                                   					                                   			<li class="pos-1"><a href="/travel/accommodation/">Accommodation</a></li>
+			                                   					                                   			<li class="pos-1"><a href="/travel/accommodation/?hov">Accommodation</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-2"><a href="/travel/car-rental/">Car Rental</a></li>
-			                                        				                                                		                                                        <li class="sub-category"><a href="/travel/car-rental/car-hire/">Car Hire</a></li>
-		                                                        			                                                		                                                        <li class="sub-category"><a href="/travel/car-rental/car-hire-insurance/">Insurance</a></li>
+			                                   					                                   			<li class="pos-2"><a href="/travel/car-rental/?hov">Car Rental</a></li>
+			                                        				                                                		                                                        <li class="sub-category"><a href="/travel/car-rental/car-hire/?hov">Car Hire</a></li>
+		                                                        			                                                		                                                        <li class="sub-category"><a href="/travel/car-rental/car-hire-insurance/?hov">Insurance</a></li>
 		                                                        			                                                			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-3"><a href="/travel/ferries/">Ferries</a></li>
+			                                   					                                   			<li class="pos-3"><a href="/travel/ferries/?hov">Ferries</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-4"><a href="/travel/flights/">Flights</a></li>
+			                                   					                                   			<li class="pos-4"><a href="/travel/flights/?hov">Flights</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-5"><a href="/travel/holidays/">Holidays</a></li>
+			                                   					                                   			<li class="pos-5"><a href="/travel/holidays/?hov">Holidays</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-6"><a href="/travel/parking-transfers/">Parking &amp; Transfers</a></li>
+			                                   					                                   			<li class="pos-6"><a href="/travel/parking-transfers/?hov">Parking &amp; Transfers</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-7"><a href="/travel/rail-coach/">Rail &amp; Coach</a></li>
+			                                   					                                   			<li class="pos-7"><a href="/travel/rail-coach/?hov">Rail &amp; Coach</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-8"><a href="/travel/foreign-exchange/">Foreign Exchange</a></li>
+			                                   					                                   			<li class="pos-8"><a href="/travel/foreign-exchange/?hov">Foreign Exchange</a></li>
 			                                        						                                    					                                    
-			                                   					                                   			<li class="pos-9"><a href="/travel/travel-insurance/">Travel Insurance</a></li>
+			                                   					                                   			<li class="pos-9"><a href="/travel/travel-insurance/?hov">Travel Insurance</a></li>
 			                                        						                                    					                                    
 			                                   					                                   	</ul>
 			                               	</li>
 			                    	   		<li class="browse">
 		                        	       		<h3>Browse</h3>
 					                        	<ul>
-						                            <li class="pos-0"><a href="/travel/">By Popularity</a></li>
-						                            <li class="pos-1"><a href="/travel/a-z/">A-Z</a></li>
-						                            <li class="pos-2"><a href="/travel/newest/">Newest</a></li>
+						                            <li class="pos-0"><a href="/travel/?hov">By Popularity</a></li>
+						                            <li class="pos-1"><a href="/travel/a-z/?hov">A-Z</a></li>
+						                            <li class="pos-2"><a href="/travel/newest/?hov">Newest</a></li>
 					                        	</ul>
 			                    	   		</li>
 			                	   		</ul>
@@ -725,21 +793,22 @@
 										<li class="category">
 											<h3>By Category</h3>
 											<ul>
-												<li class="pos-0"><a href="/voucher-code-cashback-hot-offers/">Hottest</a></li>
-												<li class="pos-1"><a href="http://www.quidco.com/top-cashback">Top cashback</a></li>
-												<li class="pos-2"><a href="http://www.quidco.com/voucher-codes">Top voucher codes</a></li>
-												<li class="pos-3"><a href="http://www.quidco.com/printable-vouchers">Printable vouchers</a></li>
-												<li class="pos-4"><a href="http://www.quidco.com/restaurant-vouchers">Restaurant vouchers</a></li>
-												<li class="pos-5"><a href="http://www.quidco.com/freebies">Freebies</a></li>
+												<li class="pos-0"><a href="/voucher-code-cashback-hot-offers/?hov">Hottest</a></li>
+												<li class="pos-1"><a href="http://www.quidco.com/top-cashback?hov">Top cashback</a></li>
+												<li class="pos-2"><a href="http://www.quidco.com/voucher-codes?hov">Top voucher codes</a></li>
+												<li class="pos-3"><a href="http://www.quidco.com/printable-vouchers?hov">Printable vouchers</a></li>
+												<li class="pos-4"><a href="http://www.quidco.com/restaurant-vouchers?hov">Restaurant vouchers</a></li>
+												<li class="pos-5"><a href="http://www.quidco.com/freebies?hov">Freebies</a></li>
+												<li class="pos-6"><a href="http://www.quidco.com/sales?hov">Sales</a></li>
 											</ul>
 										</li>
 				                   	    <li class="browse">
 											<h3>Browse</h3>
 											<ul>
-												<li class="pos-0"><a href="http://www.quidco.com/hot-offers/best-offer/">Best Offer</a></li>
-												<li class="pos-1"><a href="http://www.quidco.com/hot-offers/popularity/">By Popularity</a></li>
-												<li class="pos-2"><a href="http://www.quidco.com/hot-offers/latest/">Latest</a></li>
-												<li class="pos-3"><a href="http://www.quidco.com/hot-offers/expiring/">Expiring</a></li>
+												<li class="pos-0"><a href="http://www.quidco.com/hot-offers/best-offer/?hov">Best Offer</a></li>
+												<li class="pos-1"><a href="http://www.quidco.com/hot-offers/popularity/?hov">By Popularity</a></li>
+												<li class="pos-2"><a href="http://www.quidco.com/hot-offers/latest/?hov">Latest</a></li>
+												<li class="pos-3"><a href="http://www.quidco.com/hot-offers/expiring/?hov">Expiring</a></li>
 											</ul>
 				                   	    </li>
 									</ul>
@@ -757,8 +826,8 @@
 			
 							
 
-			<div id="content">
-								
+							<div id="content">
+											
 				
 				
 	<div id="content-1">
@@ -771,8 +840,7 @@
 					<div class="module">
 						<div class="module-content">
 							<div class="content-item">
-								<p>This privacy policy will come into effect for transactions after 10 Dec 2010.<br><a href="/current-privacy-policy">Read our current privacy policy</a>.</p>
-							
+														
 								<p>Personal data, or personal information as it is sometimes called, is data that relates to or is capable of identifying a living person.  Account holder privacy is very important to us and we do all we can to protect it.</p> 
 
 								<p>The purpose of this Privacy Policy is to let you know the type of information we may gather about you, how we may use it, whether we disclose it to anyone, and the choices you have regarding our use of the information. Words and phrases in this Privacy Policy have the same meaning as in the <a href="/terms-and-conditions/">Quidco Account Holder Agreement</a>.</p>
@@ -881,151 +949,6 @@
 			
 									<div id="footer">
 						
-			        	<div class="group next-click">
-			            	<div class="group-content">
-			                	<div class="item ipos-1">
-			                    	<div class="module">
-			                            <div class="module-header">
-			                                <h3>Your next click?</h3>
-			                            </div><!-- .module-header -->
-			                            <div class="module-content">
-			                            </div><!-- .module-content -->
-			                        </div><!-- .module -->
-								</div><!-- .ipos-1 -->
-			                    <div class="item ipos-2">
-			                    	
-				                    	<div class="module">
-				                            <div class="module-header">
-				                                <h3>Categories</h3>
-				                            </div><!-- .module-header -->
-				                            <div class="module-content">
-				                                <div class="content-item">
-				                                	<ul>
-				                                    				                                                		                                                    	<li><a href="/high-street/?nclnsi">High Street</a></li>
-				                                            				                                        			                                                		                                                    	<li><a href="/entertainment/?nclnsi">Entertainment</a></li>
-				                                            				                                        			                                                		                                                    	<li><a href="/fashion/?nclnsi">Fashion</a></li>
-				                                            				                                        			                                                		                                                    	<li><a href="/mobiles/?nclnsi">Mobiles</a></li>
-				                                            				                                        			                                                		                                                    	<li><a href="/electricals/?nclnsi">Electricals</a></li>
-				                                            				                                        			                                                		                                                    	<li><a href="/insurance-finance/?nclnsi">Insurance &amp; Finance</a></li>
-				                                            				                                        			                                                		                                                    	<li><a href="/utilities/?nclnsi">Utilities</a></li>
-				                                            				                                        			                                                		                                                    	<li><a href="/travel/?nclnsi">Travel</a></li>
-				                                            				                                        				                                    </ul>
-				                                </div><!-- .content-item -->
-				                            </div><!-- .module-content -->
-				                        </div><!-- .module -->
-			                        
-			                    </div><!-- .ipos-2 -->
-			                    <div class="item ipos-3">
-			                    	
-				                    	<div class="module browse">
-				                            <div class="module-header">
-		                                		<h3>Browse Quidco</h3>
-				                            </div><!-- .module-header -->
-				                            <div class="module-content">
-				                                <div class="content-item">
-				                                	<ul>
-			                                            			                                                <li><a href="/a-z/?nclnsi">Browse A-Z</a></li>
-			                                                <li><a href="/browse/?nclnsi">By popularity</a></li>
-			                                                <li><a href="/newest/?nclnsi">By newest</a></li>
-			                                            				                                    </ul>
-				                                </div><!-- .content-item -->
-				                            </div><!-- .module-content -->
-				                        </div><!-- .module -->
-			                        
-			                        
-				                        <div class="module save">
-				                            <div class="module-header">
-				                                <h3>Save more</h3>
-				                            </div><!-- .module-header -->
-				                            <div class="module-content">
-				                                <div class="content-item">
-				                                	<ul>
-			                                            			                                                <li><a href="/voucher-code-cashback-hot-offers/?nclnsi">Hot offers</a></li>
-			                                        		<li><a href="/in-store-cashback/?nclnsi">In-store cashback</a></li>
-			                                            				                                    </ul>
-				                                </div><!-- .content-item -->
-				                            </div><!-- .module-content -->
-				                        </div><!-- .module -->
-									
-									
-				                        <div class="module search">
-				                            <div class="module-header">
-		                                		<h3>Search Quidco</h3>
-				                            </div><!-- .module-header -->
-				                            <div class="module-content">
-				                                <div class="content-item">
-				                                	<form accept-charset="ISO-8859-1" action="http://www.quidco.com/search" method="get" autocomplete="off">
-				                                        <fieldset>
-				                                            <legend>Store Search</legend>
-				                                            <label for="store-qsearch-footer">Store name or product</label>
-				                                            <input type="text" id="store-qsearch-footer" name="search" maxlength="100" value="">
-				                                            <input class="submit" type="image" src="/cobrand/img/icon-search-btn" value="Go">
-				                                        </fieldset>
-				                                    </form>
-				                                </div><!-- .content-item -->
-				                            </div><!-- .module-content -->
-				                        </div><!-- .module -->
-									
-			                    </div><!-- .ipos-3 -->
-			                    <div class="item ipos-4">
-			                    	
-				                    	<div class="module recent">
-				                            <div class="module-header">
-			                                    			                                        <h3>Most visited merchants</h3>
-			                                    				                            </div><!-- .module-header -->
-				                            <div class="module-content">
-				                                <div class="content-item">
-				                                	<ul>
-			                                            			                                                			                                                    <li><a href="/play-com/?nclnsimvm">Play.com</a></li>
-			                                                			                                                    <li><a href="/tesco-com/?nclnsimvm">Tesco.com</a></li>
-			                                                			                                                    <li><a href="/ebay-co-uk/?nclnsimvm">eBay.co.uk</a></li>
-			                                                			                                                    <li><a href="/argos-co-uk/?nclnsimvm">Argos.co.uk</a></li>
-			                                                			                                                    <li><a href="/marks-spencer/?nclnsimvm">Marks &amp; Spencer</a></li>
-			                                                			                                            													</ul>
-				                                </div><!-- .content-item -->
-				                            </div><!-- .module-content -->
-				                        </div><!-- .module -->
-									
-									
-				                        <div class="module vouchers">
-				                            <div class="module-header">
-				                                <h3>Newest vouchers</h3>
-				                            </div><!-- .module-header -->
-				                            <div class="module-content">
-				                                <div class="content-item">
-				                                	<ul>
-				                                    				                                                			                                                    <li><a href="/simply-electronics/?nclnsivou">Simply Electronics</a>&nbsp;- £5 off when you ...</li>
-			                                                				                                        			                                                			                                                    <li><a href="/your-good-win/?nclnsivou">Your Good Win</a>&nbsp;- Deposit £10 and get e...</li>
-			                                                				                                        			                                                			                                                    <li><a href="/thorntons/?nclnsivou">Thorntons</a>&nbsp;- Free Milk chocolate colle...</li>
-			                                                				                                        			                                                			                                                    <li><a href="/pizza-hut/?nclnsivou">Pizza Hut</a>&nbsp;- £10 off orders over £25 a...</li>
-			                                                				                                        			                                                			                                                    <li><a href="/waterford-wedgwood-and-royal-doulton-uk/?nclnsivou">Waterford, Wedgwood, and Royal Doulton UK</a>&nbsp;- Free delivery on all orders o...</li>
-			                                                				                                        				                                    </ul>
-				                                </div><!-- .content-item -->
-				                            </div><!-- .module-content -->
-				                        </div><!-- .module -->
-									
-									
-				                        <div class="module favourites">
-				                            <div class="module-header">
-			                                    			                                        <h3>Favourite merchants</h3>
-			                                    				                            </div><!-- .module-header -->
-				                            <div class="module-content">
-				                                <div class="content-item">
-				                                	<ul>
-			                                            			                                                			                                                    <li><a href="/play-com/?nclnsifavmer">Play.com</a></li>
-			                                                			                                                    <li><a href="/ebay/?nclnsifavmer">eBay</a></li>
-			                                                			                                                    <li><a href="/tesco/?nclnsifavmer">Tesco</a></li>
-			                                                			                                                    <li><a href="/hmv/?nclnsifavmer">HMV</a></li>
-			                                                			                                                    <li><a href="/kelkoo/?nclnsifavmer">Kelkoo</a></li>
-			                                                			                                            													</ul>
-				                                </div><!-- .content-item -->
-				                            </div><!-- .module-content -->
-				                        </div><!-- .module -->
-									
-			                    </div><!-- .ipos-4 -->
-			                </div><!-- .group-content -->
-			            </div><!-- .group -->
-			            
 			            
 			            <div class="group footer">
 			            	<div class="group-content">
@@ -1055,10 +978,9 @@
 			                                            			                                                <li><a href="/help/?nclnsi">Help</a></li>
 			                                                <li><a href="/about/?nclnsi">About</a></li>
 		                                                	<li><a href="/press/?nclnsi">Press</a></li>
-		                                                	<li><a href="/blog/?cat=9">Careers</a></li>
 			                                                <li><a href="/contact/?nclnsi">Contact</a></li>
 			                                                <li><a href="/terms-and-conditions/?nclnsi">Quidco Account Holder Agreement</a></li>
-			                                                <li><a href="/privacy-policy/?nclnsi">Privacy Policy</a> (new 10 Dec 2010)</li>
+			                                                <li><a href="/privacy-policy/?nclnsi">Privacy Policy</a></li>
 			                                                <li><a href="/sitemap/?nclnsi">Site Map</a></li>
 																		                                    </ul>
 				                                </div><!-- .content-item -->
@@ -1077,6 +999,7 @@
 				                                    <p><strong>Address for all correspondence and queries</strong>: Quidco.com The
 				                                    Workstation, Paternoster Row, Sheffield, S1 2BX, United Kingdom</p>
 				                                    <p>Registered under the Data Protection Act. Registration No. Z9450695</p>
+				                                    <p>Authorised and regulated by the <a href="http://www.fsa.gov.uk/Pages/register" target="_blank">Financial Services Authority</a> (Reg No. 533105)</p>				                                    
 				                                </div><!-- .content-item -->
 				                            </div><!-- .module-content -->
 				                        </div><!-- .module -->
@@ -1087,7 +1010,7 @@
 				                    	<div class="module">
 				                            <div class="module-content">
 				                                <div class="content-item">
-				                                	<a href="http://www.nma.co.uk" target="_blank"><img src="http://static.quidco.com/img/footer_nma_winner.gif" alt="NewMediaAge Winner" class="nma"></a>
+				                                	<a href="http://www.quidco.com/blog/?p=442" target="_blank"><img src="http://static.quidco.com/img/footer_fast_track.gif" alt="Fast Track 100" class="fasttrack"></a>
 				                                    <a href="http://www.equifax.co.uk" target="_blank"><img src="http://static.quidco.com/img/footer_equifax.gif" alt="Equifax" class="equifax"></a>
 				                                    <a href="http://www.paypal.com" target="_blank"><img src="http://static.quidco.com/img/footer_paypal.gif" alt="PayPal Verfied" class="paypal"></a>
 				                                    <a href="http://www.thegoodwebguide.co.uk/?PAGEID=012488&amp;SEARCHFOR=quidco" target="_blank"><img src="http://static.quidco.com/img/footer_goodwebguide.gif" alt="thegoodwebguide.co.uk recommended site" class="gwg"></a>
