@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swissotel.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214075802id_/http%3A//www.swissotel.com/Swissotel.com/EN/Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swissotel.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424055732id_/http%3A//www.swissotel.com/Swissotel.com/EN/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
