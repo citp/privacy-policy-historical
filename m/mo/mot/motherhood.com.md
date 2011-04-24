@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherhood.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217050133id_/http%3A//www.motherhood.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherhood.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424223419id_/http%3A//www.motherhood.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
 
 # retail sites privacy policy | Motherhood Maternity
 
