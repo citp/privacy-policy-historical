@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the700level.com privacy policy that was archived on 2010-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100317150451id_/http%3A//www.the700level.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the700level.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424061235id_/http%3A//www.the700level.com/privacy-policy.html) for the most accurate reproduction.*
 
 # The700Level.com - Philly Sports & Minutiae: Privacy Policy
 
