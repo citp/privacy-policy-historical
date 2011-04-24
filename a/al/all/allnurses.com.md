@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120202344id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnurses.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424110313id_/http%3A//allnurses.com/privacy-info.html) for the most accurate reproduction.*
 
 # allnurses: A Nursing Community for Nurses
 
@@ -15,7 +15,7 @@ Because we gather certain types of information about our users, we feel you shou
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
 ALLNURSES.COM, INC.   
-17587 GLASGOW AVE. SUITE #22 LAKEVILLE, MN 55044 USA 
+
 
 Or, you may contact us by [email](http://allnurses.com/sendmessage.php) or via Private Message.
 
