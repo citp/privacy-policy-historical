@@ -1,282 +1,85 @@
-> *The following text is extracted and transformed from the consumeropinionpanel.com privacy policy that was archived on 2005-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051223205058id_/http%3A//www.consumeropinionpanel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeropinionpanel.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424092438id_/http%3A//consumeropinionpanel.com/privacy.html) for the most accurate reproduction.*
 
-# Synovate Consumer Opinion Panel - Privacy Policy
+# Privacy Policy
 
-   
-We Respect Your Privacy
+This document was last updated on October 02, 2010.
 
-Protecting your privacy is important to us.
+* * *
 
-  * You will **NEVER** be asked to buy anything or contribute to any organization.
+## Section 1. Acknowledgement and Acceptance of Terms.
 
-  * We will **NEVER** sell or send your name (or e-mail address) to another party that might want to sell you anything.
+We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-  * Any information you provide to us will be combined with responses given by others and reported in aggregate.  Individual information, including your e-mail address, will be kept strictly confidential.
+* * *
 
-  * Should you decide to discontinue participation in a particular study or your Panel membership, we will respect your decision to do so.
+## Section 2. Participating Merchant Policies
 
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-**
+* * *
 
-Our Privacy Policy In Detail
+## Section 3. Information We Collect and How We Use It
 
-**
+Anyone under the age of 18, may only use this site and its services in conjunction with and under the supervision of their parents or guardians, and with express permission from us. For this reason, we ask that anyone under the age of 18 should not submit any personal information through our site. This website collects certain information from and about its users three ways: directly from our Web Server logs, information provided by user, and with Cookies.
 
-Synovate Consumer Opinion Panel is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [** ConsumerOpinionPanel.com**](http://www.consumeropinionpanel.com/). If you have questions or concerns regarding this statement, you should first contact our Privacy Officer by e-mail at **[ privacy@synovate.net](mailto:privacy@synovate.net)**. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe ( _ **[http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)**_ ). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+* * *
 
-Privacy is very important to Synovate. We are committed to protecting the information you provide to us. If you have any questions or you feel we have not addressed your concerns, please feel free to [** contact us**](https://web.archive.org/web/20051223205058id_/http%3A//www.consumeropinionpanel.com/contact.htm).
+## a. Web Server Logs
 
-You can be assured that Synovate will conduct research in a professional and ethical manner. As a member of [** CASRO**](http://www.casro.org/) (The Council of American Survey Research Organizations), we are committed to maintaining panelists’ privacy. Our privacy policy and Web site conform to the Code of Standards and Ethics for Survey Research put forth by [** CASRO**](http://www.casro.org/).
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-Synovate observes the following principles of behavior regarding information privacy. Each principle is stated below, along with links to more detailed explanations.
+  * Your Internet protocol address.
+  * The kind of browser or computer you use.
+  * Number of links you click within the site.
+  * State or country from which you accessed the site.
+  * Date and time of your visit.
+  * Name of your Internet service provider.
+  * Web page you linked to our site from.
+  * Pages you viewed on the site.
 
-****
 
-**Principle of Openness:** We practice ** openness** in explaining who we are and how we use information we receive. Whenever we request personally identifiable information (e.g. name, address and other data that identifies an individual), we clearly disclose what details are required and how your ability to participate in our services will be impacted if you choose not to provide such information.
 
-**Principle of Accuracy:** To ensure the ** accuracy** of Synovate records, we will contact you periodically to confirm the information we receive. You can also contact us to review, amend or correct such information.
+* * *
 
-**Principle of Collection:** We limit ** collection** of information to only those details we need for the stated purpose(s). We do not collect personally identifiable information (e.g. name, address and other data that identifies an individual) unless you provide it to us via our Web site, an e-mail message, a phone call or by postal mail. Because you must be 18 years of age or older to register for participation in survey projects through our Web site, we never target or knowingly collect personally identifiable information directly from children. If we would like the opinions of children who are under age 18 in your household, we will explicitly address the survey to the adult registered panel member and ask him/her to supervise the questions to be asked of the child. We enable members to Tell-A-Friend about participating in Synovate surveys but use referred e-mail addresses one time only for the purpose of inviting their participation.
+## b. Use of Cookies
 
-**Principles of Use, Disclosure and Retention:** We ** limit use**, **disclosure** and ** retention** of the information contained in Synovate records. Under no circumstances will we ever disclose personally identifiable information, except when: 1) we need to secure behavioral data from clients to compare with survey responses; 2) we believe in good faith that the law requires it; 3) we are conducting business with our worldwide offices, subsidiaries and affiliates; or 4) we must protect the rights and property of Synovate. At any time, you may opt-out from receiving survey project notifications.
+This site uses cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We reserve the right to share aggregated site statistics with partner companies. For more information about how our third-party service providers may use cookies, please see Section 4, below. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
-**Principle of Secondary Usage:** Synovate strictly limits **secondary usage** of personally identifiable information provided to us. In addition to identifying survey projects based on personally identifiable information, Synovate uses data from our members in statistical modeling to better understand trends among the general population.
+* * *
 
-**Principle of Security** : We employ a series of ** security** procedures to protect the information provided to us.
+## c. Use of Personal Information
 
-**Principle of Compliance:** We continually review all aspects of our operations to ensure ** compliance** with our stated privacy policy.
+Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you requested and/or purchased and any applicable fees that are compliant with our Terms of Use. If you purchase by credit card, the information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. Under some circumstances we may require some additional financial information, including, without limitation, your billing address, bank account information, and tracking information from checks or money orders. We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-**Principle of Accountability:** Synovate has designated a Chief Privacy Officer responsible for ** accountability** of all actions involving our privacy policy.
+* * *
 
-If you have any questions or concerns about this policy, please **[contact us](https://web.archive.org/web/20051223205058id_/http%3A//www.consumeropinionpanel.com/contact.htm)**.
+  * To fulfill your service requests for services,
+  * To protect ourselves from liability,
+  * To respond to legal process or comply with law, or
+  * In connection with a merger, acquisition, or liquidation of the company.
 
-Privacy Policy Principles
 
-**
 
-OPENNESS
+* * *
 
-**
+Please note that we will use your information and other information we obtain from your current and past activities on the site to resolve any disputes, troubleshoot problems, collect fees owed, pay amounts due you, or verify your account data. We employ many different security techniques to protect any personal data from unauthorized access by users inside and outside the company, however please be aware that "perfect security" does not exist on the Internet or with any digital or physical data.
 
-Synovate, one of the largest marketing research firms in America, specializes in collecting and processing information to assist clients with strategic business decisions. For more than 50 years, we have questioned millions of consumers like you. Our panelists have provided opinions on everything from hair spray to refrigerators - and many other products and services in between. Our original panel of consumers was started back in 1949 and is now one of the largest in the world.
+* * *
 
-Through our network of offices across the U.S. and Canada, as well as global affiliations, Synovate's primary activity is the design, execution, and interpretation of market research conducted on behalf of clients, which include a majority of the largest 100 multinational consumer products and services companies.
+## Section 4. Third Party Advertisers, Use of Web Beacons or GIF Files
 
-Companies both large and small are interested in your opinions as they strive to provide better products and services to you, their customers. Synovate provides opportunities for our members to voice their opinions. We have traditionally obtained opinions from our panelists through the mail, over the telephone or at shopping malls. With the advent of computers and the growth of the Internet, we now have an exciting new way to gather your opinions. The Internet allows you to respond to a survey at your leisure any time of day, any day of the week and at your own computer.
+This Website may contain electronic images known as Web beacons, sometimes also called single-pixel gifs, that allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. This information in addition to the web searches you make while visiting this website and your web surfing behavior on this site and other websites you may visit is used to show you advertisements tailored to your interests on other websites and other forms of media. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). We prohibit Web beacons from being used to collect or access your personal information.
 
-In order for us to determine which survey opportunities are appropriate for you and your household, we need to request some personally identifiable information (e.g. name, address and other data that identifies an individual). When we request personally identifiable information, we clearly disclose what details are required and how your ability to participate in our services will be impacted if you choose not to provide such information.
+* * *
 
-Synovate headquarters are located at 222 South Riverside Plaza Chicago, IL 60606. We can be reached by mail, by calling (312) 526-4000, sending a fax to (312) 526-4099 or an e-mail to **[ privacy@synovate.net](mailto:privacy@synovate.net)**.
+## 5\. Accessing Web Account Information
 
-**
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant via our contact form.
 
-ACCURACY
+* * *
 
-**
+## 6\. Changes to this Statement
 
-To ensure we are providing survey projects that match your and your household's habits, interests and preferences, we will contact you periodically to confirm the information provided to us. Even though you are not able to opt-out of receiving these e-mails, you may decline to respond.
+We have the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-Should your e-mail address change, please send a message to **[ marie@synovate.net](mailto:marie@synovate.net)**. Please include your membership ID along with your old and new e-mail information. If you would like to review, amend or correct the information in your registration record, please:
-
-  * e-mail your request to **[ marie@synovate.net](mailto:marie@synovate.net)**;
-
-  * call our help line at (800) 745-4267; or
-
-  * send a written request to Marie Brighton, Synovate, P.O. Box 5030, Chicago Illinois 60680.
-
-
-
-
-Please provide your membership ID when contacting us regarding your registration record.
-
-**
-
-COLLECTION
-
-**
-
-Synovate limits the information we collect for our records to those details we need for the stated purpose(s). We will always disclose what details are required and how your ability to participate in our services will be impacted if you choose not to provide certain information. To complete your registration, we need your name, geographic location and various other types of personally identifiable information. When you respond to survey project notifications, we may ask for additional personally identifiable information to ensure a particular project is appropriate for you and your household's habits, interests and preferences. This information will be aggregated with other survey respondents.
-
-You can browse our Web site without entering any personally identifiable information and therefore remain anonymous during your visit. However, we hope all of our visitors will register with us so we can make their opinions known.
-
-In order to participate in surveys or receive product trials, however, registration for the panel is required.
-
-**_
-
-Children’s Data
-
-_**
-
-You must be 18 years of age or older to register for participation in survey projects through our Web site. When you register, we ask you to provide demographic information on all members of your household, including children, for classification and survey qualification purposes only. However, we never target or knowingly collect personally identifiable information (e.g. name, address or other data that identifies the individual) directly from children. If we would like the opinions of children who are under age 18 in your household, we will explicitly address the survey to the adult registered panel member and ask him/her to supervise the questions to be asked of the child. The way in which the opinions of children will be used will always be stated explicitly at the same time the question is asked and we will not require a child to disclose more information than is reasonably necessary to participate in an activity. You and your household's children are never obligated to complete a survey and we will not use any games, prizes or other activities/inducements directed at children for any purpose.
-
-The registered panel member may at any time ask to have a child’s information deleted, and refuse to allow further collection or use. To do so, please:
-
-  * e-mail your request to **[ marie@synovate.net](mailto:marie@synovate.net)**;
-
-  * call our help line at (800) 745-4267; or
-
-  * send a written request to Marie Brighton, Synovate, P.O. Box 5030, Chicago Illinois 60680.
-
-
-**_
-
-Usage Tracking
-
-_**
-
-In order to ensure our Web site is as useful as possible, Synovate may retain details concerning visits to the Web site but will **NOT** compile these details with personally identifiable information. The purpose of such activity is to collect details about all users’ activities so we can track the number of visits to our site, how many times each page is accessed, the paths visitors take to access various pages and other usage details.
-
-Whenever you provide your household ID for a survey project, our servers document each session’s log-in, pages visited and log-out. Our servers also record your IP address. Each time you access the Internet, your computer is automatically assigned an IP address by your ISP (Internet Service Provider) or network. When you visit pages on the Synovate web site, our servers record your IP address in a log. These logs are then used for system administration (such as site usage reporting and analysis) so we can constantly improve the content we provide. For instance, if our tracking indicates numerous members are accessing a particular page, we will post a special link that makes it as easy to find as possible. We will not associate IP addresses with personally identifiable information unless our system administrators believe it is necessary to do so for recognizing visitors who threaten our site, registrants, customers or others.
-
-**_
-
-Cookies
-
-_**
-
-At this time, Synovate employs "cookies" (messages stored in text files on your hard drive containing details about your visits to our web site) for the purpose of tracking particular survey sessions, and they are made inactive when surveys are completed.  Synovate does not link the information stored in cookies to any personally identifiable information you submit while you are on our site.  If there is ever an occasion, however, to expand the use of this technology, we will first ask for your complete consent to do so and explain the intended use of the information gathered.
-
-**_
-
-Links to Other Sites
-
-_**
-
-The Synovate web site provides links to other World Wide Web pages that provide additional opportunities and information from third parties. Synovate’s privacy policy cannot and does not apply to external Web areas. Even if a business partnership or third party affiliation exists between Synovate and the operator of a linked Web page, once you depart the Synovate site you are subject to the linked site’s privacy policies and procedures. Because Synovate has no control over such Web operators, you should consult each Web site’s privacy policy before providing personally identifying information. However, we invite you to [** contact us**](https://web.archive.org/web/20051223205058id_/http%3A//www.consumeropinionpanel.com/contact.htm) if you have concerns about privacy policies of sites linked on [** ConsumerOpinionPanel.com**](http://www.consumeropinionpanel.com/). We will use your feedback to determine whether to continue providing those links.
-
-**_
-
-Tell-A-Friend
-
-_**
-
-Synovate provides a referral service for members to provide names and e-mail addresses for informing friends about participating in our survey opportunities. When members provide the necessary information, we will automatically send the friend a one-time e-mail inviting him/her to register. Synovate collects this information for the sole purpose of sending this one-time e-mail. The friend’s information will not be stored and used again unless the recipient opts-in to participate.
-
-**
-
-LIMIT USE
-
-**
-
-After you register with Synovate, we will use the information you provide to:
-
-  * determine which specific surveys you and your household qualify for, based on demographics and indicated interests, and contact you for participation;
-
-  * send product samples tailored to your habits, interests and preferences; or
-
-  * award and publicize contest and sweepstakes prizes. Winners are identified on our Web site by first name, last name initial, city and state only. For information on our contests and sweepstakes, and to review the Official Contest Rules, please go to our home page at [** ConsumerOpinionPanel.com**](http://www.consumeropinionpanel.com/).
-
-
-
-
-In addition, Synovate collects members’ survey responses (referred to as syndicated data) to design additional survey opportunities, but this process does not involve the disclosure of any personally identifiable information.
-
-**
-
-LIMIT DISCLOSURE
-
-**
-
-Synovate releases registrants’ general demographic information, but this does not involve identifying any individual survey participant. We will not disclose any personally identifiable information (e.g. name, address and other data that identifies you) to business partners or third parties unless you agree, in advance, that we may do so, or for one of the reasons explained below:
-
-  * It may occasionally be necessary for Synovate to provide survey participants’ names and addresses to clients for single-use matching purposes to compare actual behaviors with survey responses. The matching is performed by Synovate after clients provide behavioral data for survey participants. When these completed survey reports are presented to clients, participants’ names and addresses are not included with the results. Clients that receive survey participants' names and addresses are required to sign an agreement stating that the information will not be retained, copied or utilized in any manner other than identifying product or service usage history for the single-use matching purpose. These procedures strictly adhere to the Code of Standards and Ethics for Survey Research established by [**CASRO**](http://www.casro.org/).
-
-  * In the course of operations to conduct market research surveys, Synovate may share members’ information with our various worldwide offices, subsidiaries and affiliates. The recipients of this information are bound by the same use and disclosure terms as stated in this policy.
-
-  * Synovate may disclose personally identifiable information when we believe in good faith that disclosure is necessary to identify, contact or bring legal action against someone who is infringing or misappropriating Synovate’s legal rights, or injuring or interfering with the property of Synovate or third parties (other individuals, organizations or businesses).
-
-  * We may also disclose personally identifiable information when required to do so by law, or if there is a risk of injury to you, Synovate or third parties (other individuals, organizations or businesses).
-
-
-**
-
-LIMIT RETENTION
-
-**
-
-If you decide at any time to opt-out of participating in Synovate’s survey projects, please:
-
-  * e-mail your request to **[ marie@synovate.net](mailto:marie@synovate.net)**;
-
-  * call our help line at (800) 745-4267; or
-
-  * send a written request to Marie Brighton, Synovate, P.O. Box 5030, Chicago Illinois 60680.
-
-
-
-
-We will then delete your e-mail address from future notifications.
-
-**
-
-SECONDARY USAGE
-
-**
-
-Whenever Synovate requests personally identifiable information, we will state the reasons for doing so. For example, we need to know geographic location, ages and other details in order to identify appropriate surveys for which you and your household will later be invited to participate.
-
-In addition to identifying survey projects based on personally identifiable information, Synovate uses data from our members in statistical modeling to better understand trends among the general population. This statistical modeling helps companies identify the types of consumers who may be interested in products and services. For instance, a company introducing a new baby care product in grocery stores may seek to know which zip codes in a city have the highest concentration of families with young children. When we perform this statistical modeling, we never release names or other personally identifiable information. Also, you or your household will not be targeted or contacted for marketing purposes as a result of this process.
-
-Should Synovate have a need to use personally identifiable information for another purpose than those stated here, we will request your permission before doing so.
-
-**
-
-SECURITY
-
-**
-
-Synovate employs stringent security protocols to protect all facets of electronic and paper-based data collection, transmission, distribution and storage.
-
-To protect information from unauthorized internal or external access, we:
-
-  * require a unique user ID to authenticate anyone submitting, reviewing or working with information in our databases;
-
-  * store members’ personally identifiable information on separate servers from survey response data;
-
-  * utilize firewalls to protect servers;
-
-  * maintain audit records of log-ins, file accesses and other security incidents; and
-
-  * employ a series of pass coded building security systems.
-
-
-
-
-Our Chief Security Officer and staff review security protocols on a monthly basis to ensure the system’s integrity. In the future, Synovate will incorporate new technologies as they evolve to ensure the highest level of protection at all times.
-
-**
-
-COMPLIANCE AND ACCOUNTABILITY
-
-**
-
-Access to all data collected by Synovate is limited to the internal Chief Privacy Officer and those staff members designated by him/her who manage surveys or maintain the Synovate web site.
-
-Synovate staff members receive training on this privacy policy and our general information practices. Each staff person who requires access to system data must sign a confidentiality agreement yearly, as contained in Synovate’s human resources policy.
-
-**CONTACT**
-
-If you have any questions about this privacy policy, the practices of Synovate and its Web site, including the use of children’s information or your experiences when visiting [** ConsumerOpinionPanel.com**](http://www.consumeropinionpanel.com/), please contact:
-
-Jisoon Barton  
-Chief Privacy Officer  
-Synovate  
-P.O. Box 5030  
-Chicago, Illinois 60680
-
-(312) 526-4000 work  
-(312) 526-4099 fax
-
-**[ privacy@synovate.net](mailto:privacy@synovate.net)**
-
-**
-
-NOTE
-
-**
-
-This policy is effective as of January 1, 2004. Synovate reserves the right to change this privacy policy at any time.
-
-Synovate reserves the right to transfer personally identifiable information to a buyer in connection with a sale of stock or assets, merger or any other transaction resulting in a change of control of Synovate. Of course, that buyer will have to honor the promises of privacy that we have made to you. You will have an opportunity to opt-out of such a transfer prior to the sale, merger, or change in control of Synovate.
-
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also e-mail users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+* * *
