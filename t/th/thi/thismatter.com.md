@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thismatter.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225214454id_/http%3A//thismatter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thismatter.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424101747id_/http%3A//www.thismatter.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy For thismatter.com
 
@@ -7,7 +7,7 @@ We use third-party advertising companies to serve ads when you visit our website
   * No personal information is collected from anyone by this site unless the person specifically submits it. 
   * There may be cookies or web beacons, especially by third-party advertisers and services, that do collect information. Currently, the main advertiser is Google, and this page provides more information about their cookies: <http://www.google.com/privacy_cookies.html>. 
   * Like almost all servers, this site's servers automatically records information when you visit our website, including the URL, IP address, browser type and language, and the date and time of your request.
-  * You can learn all about how you can control your online privacy at the [Network Advertising Initiative](http://www.networkadvertising.org/).
+  * You can learn all about how you can control your online privacy at the [Network Advertising Initiative](http://networkadvertising.org/).
 
 
 
