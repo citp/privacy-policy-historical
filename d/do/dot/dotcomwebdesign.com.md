@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotcomwebdesign.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218061442id_/http%3A//dotcomwebdesign.com/%3FPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcomwebdesign.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424100619id_/http%3A//www.dotcomwebdesign.com/%3FPrivacy-Policy) for the most accurate reproduction.*
 
 # Dotcomwebdesign.com - Web Design Sydney Australia - Free Website Templates, Quality, Affordable & Cheap Webdesign - Privacy Policy
 
