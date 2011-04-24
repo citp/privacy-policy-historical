@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketnext.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008203944id_/http%3A//cricketnext.in.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketnext.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424132302id_/http%3A//cricketnext.in.com/policy.html) for the most accurate reproduction.*
 
 # CricketNext.com : Live Cricket Scorecard, Cricket News, Cricket Videos
 
