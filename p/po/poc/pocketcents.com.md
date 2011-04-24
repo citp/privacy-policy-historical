@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocketcents.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222151105id_/http%3A//pocketcents.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketcents.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424084829id_/https%3A//pocketcents.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # PocketCents Local Online Advertising - Privacy Statement
 
@@ -8,7 +8,7 @@ September 1, 2007
 
 At PocketCents we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by PocketCents Inc. or its subsidiaries or affiliated companies (collectively, PocketCents "services"). This Policy is provided to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
-If you have any questions about this Policy, please feel free to [ contact us](http://pocketcents.com/customer_service/) through our website or write to us at PocketCents Inc., P.O. Box 443, Washington, Michigan, 48094 USA.
+If you have any questions about this Policy, please feel free to [ contact us](https://pocketcents.com/customer_service/) through our website or write to us at PocketCents Inc., P.O. Box 443, Washington, Michigan, 48094 USA.
 
 ** Information we collect and how we use it:**
 
@@ -56,7 +56,7 @@ PocketCents only shares personal information with other companies or individuals
 
 \- We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures. 
 
-\- We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process or enforceable governmental request, enforce applicable [ Terms of Service Agreement](http://pocketcents.com/index.php?page=agreement), including investigation of potential violations thereof, detect, prevent, or otherwise address fraud, security or technical issues, or protect against imminent harm to the rights, property or safety of PocketCents, its users or the public as required or permitted by law. 
+\- We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process or enforceable governmental request, enforce applicable [ Terms of Service Agreement](https://pocketcents.com/index.php?page=agreement), including investigation of potential violations thereof, detect, prevent, or otherwise address fraud, security or technical issues, or protect against imminent harm to the rights, property or safety of PocketCents, its users or the public as required or permitted by law. 
 
 If PocketCents becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy. 
 
@@ -80,7 +80,7 @@ When you use PocketCents services, we make good faith efforts to provide you wit
 
 ** Enforcement**
 
-PocketCents regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or PocketCents treatment of personal information by [ contacting us](http://pocketcents.com/customer_service/) through this web site or by writing to us at PocketCents Inc., P.O. Box 443, Washington, Michigan, 48094, USA. When we receive formal written complaints at this address, it is PocketCents policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between PocketCents and an individual. 
+PocketCents regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or PocketCents treatment of personal information by [ contacting us](https://pocketcents.com/customer_service/) through this web site or by writing to us at PocketCents Inc., P.O. Box 443, Washington, Michigan, 48094, USA. When we receive formal written complaints at this address, it is PocketCents policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between PocketCents and an individual. 
 
 ** Changes to this policy**
 
