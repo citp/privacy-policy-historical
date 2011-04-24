@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mmogamesite.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121035250id_/http%3A//www.mmogamesite.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmogamesite.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424112123id_/http%3A//www.mmogamesite.com/privacy-statement) for the most accurate reproduction.*
 
-# MMO Game Site.com > Free MMORPG Games
+# Privacy Statement - MMOGameSite.com
 
 This document describes the information gathering, use, and dissemination practices for SoftMMO Entertainment, Inc., and its affiliate and subsidiary companies (“mmogamesite”), in connection with the Web site located at www.mmogamesite.com and its related sites, including but not limited to:
 
@@ -69,5 +69,3 @@ MGS may amend this Privacy Statement at any time by posting the amended policy o
 This Privacy Statement is effective April 10, 2010.
 
 Copyright© 2010 MGS Gaming Technologoy. All rights reserved.
-
-Rating: 0.0/ **10** (0 votes cast)
