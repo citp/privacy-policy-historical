@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wawaza.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229165012id_/https%3A//wawaza.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wawaza.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424092150id_/https%3A//wawaza.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # WAWAZA - Privacy Policy
 
