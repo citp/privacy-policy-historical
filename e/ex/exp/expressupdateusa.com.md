@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expressupdateusa.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205185455id_/http%3A//www.expressupdateusa.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressupdateusa.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424093113id_/http%3A//www.expressupdateusa.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # ExpressUpdate Gets Your Business Listed in all Major Search Engines, In-Car Navigation and Mobile Devices
 
