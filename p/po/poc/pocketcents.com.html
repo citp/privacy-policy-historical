@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the pocketcents.com privacy policy that was archived on 2010-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222151105id_/http%3A//pocketcents.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pocketcents.com privacy policy that was archived on 2011-04-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110424084829id_/https%3A//pocketcents.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="https://www.w3.org/1999/xhtml"><head>
 <link rel="shortcut icon" href="/favicon.ico">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
@@ -162,16 +162,16 @@ body,td,th {
 	top: 19px;
 }
 a:link {
-	color: #3A599F;
+	color: #3A599F; text-decoration: none;
 }
 a:visited {
-	color: #6983B7;
+	color: #6983B7;  text-decoration: none;
 }
 a:hover {
-	color: #FF9933;
+	color: #FF9933;  text-decoration: none;
 }
 a:active {
-	color: #999999;
+	color: #999999; text-decoration: none;
 }
 #Layer10 {
 	position:absolute;
@@ -324,6 +324,212 @@ a:active {
 </style>
 
 
+
+
+<link rel="stylesheet" type="text/css" href="/include/designStyle.css" media="all">
+<script type="text/javascript" src="/include/jquery.min.js"></script>
+<script type="text/javascript" src="/include/jquery.mousewheel.pack.js"></script>
+<script type="text/javascript" src="/include/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="/include/jqueryui.js"></script>
+<link rel="stylesheet" type="text/css" href="/include/jquery.fancybox.css" media="screen">
+
+
+<script type="text/javascript">
+				$(document).ready(function() {
+				$("a[rel=infoBox]").fancybox({
+						'modal' : true,
+								'showNavArrows' : false
+					});
+					
+				$('#addByPaypal').click(function() {
+					$('#choices').slideUp('slow', function() {
+						$('#paypal').slideDown('slow', function() {
+						//Animation complete.
+						});
+					});
+				});
+				$('#addByGoogle').click(function() {
+					$('#choices').slideUp('slow', function() {
+						$('#google').slideDown('slow', function() {
+						//Animation complete.
+						});
+					});
+				});
+				$('.back').click(function(){
+					$('#paypal').slideUp('slow', function() {
+						$('#google').slideUp('slow', function() {
+							$('#choices').slideDown('slow', function() {
+							//Done
+							});
+						});
+					});
+				});
+				$(".clickToUploadImage").fancybox({
+					'modal'			: 'true',
+					'autodimensions' 	: 'false',
+					'type'			: 'iframe',
+					'scrolling'		: 'no',
+					'transitionIn'		: 'fade',
+					'transitionOut'		: 'fade',
+					'centerOnScroll'	: 'true',
+					'width'			: 575,
+					'margin'		: 0,
+					'padding'		: 0,
+					'height'		: 500,
+					'speedIn'		: 750,
+					'speedOut'		: 750
+				});
+				
+				$("#clickToUploadCoupon").fancybox({
+					'modal'				: 'true',
+					'autodimensions' 	: 'false',
+					'type'				: 'iframe',
+					'scrolling'			: 'no',
+					'transitionIn'		: 'fade',
+					'transitionOut'		: 'fade',
+					'centerOnScroll'	: 'true',
+					'width'				: 575,
+					'margin'			: 0,
+					'padding'			: 0,
+					'height'			: 500,
+					'speedIn'			: 750,
+					'speedOut'			: 750
+				});
+				
+				$('#uploadVideo').click(function() {
+					$('#addVideo').slideDown('slow', function() {
+					// Animation complete.
+					});
+				});
+				
+				$('#type').change(function() {
+					if($('#type').val() == 'image') {
+						$('#uploadHybridAd').slideUp('slow', function() {
+						//Animation complete.
+						});
+						$('#uploadImageAd').slideDown('slow', function() {
+						//Animation complete.
+						});
+					} else if ($('#type').val() == 'text/image') {
+						$('#uploadImageAd').slideUp('slow', function() {
+						//Animation complete.
+						});
+						$('#uploadHybridAd').slideDown('slow', function() {
+						//Animation complete.
+						});
+					} else {
+						$('#uploadImageAd').slideUp('slow', function() {
+						//Animation complete.
+						});
+						$('#uploadHybridAd').slideUp('slow', function() {
+						//Animation complete.
+						});
+
+					}
+					setType($('#type').val());
+					updatePreview();
+				});
+				
+				$('#clickAction').change(function() {
+					if($('#clickAction').val() != 'clickAction' && $('#clickAction').val() != '') {
+						if($('#clickAction').val() == 'coupon') {
+							$('#websiteURL').slideUp('slow', function() {
+								$('#addVideo').slideUp('slow', function() {
+									$('#couponPreview').slideDown('slow', function() {
+										$('#uploadCoupon').slideDown('slow', function() {
+										//Animation complete.
+										});
+									});
+								});
+							});
+						} else {
+							$('#uploadCoupon').slideUp('slow', function () {
+								$('#couponPreview').slideUp('slow', function() {
+									$('#websiteURL').slideDown('slow', function() {
+										$('#addVideo').slideDown('slow', function() {
+										//Animation complete.
+										});
+									});
+								});
+							});
+						}
+					} else {
+						$('#websiteURL').slideDown('slow', function() {
+						//Animation complete.
+						});
+						$('#uploadCoupon').slideUp('slow', function() {
+						//Animation complete.
+						});
+						$('#couponPreview').slideUp('slow', function() {
+						//Animation complete.
+						});
+						$('#addVideo').slideUp('slow', function() {
+						//Animation complete.
+						})
+					}
+				});
+				
+				/* Step One - Design your Ad */
+				$('.stepOne').click(function() {
+					if($('#designAd').css('display') == 'none') {
+						$('#designAd').slideDown('slow', function() {
+						// Animation complete.
+						});
+						$('#targetAudience').slideUp('slow', function() {
+						// Animation complete.
+						});
+						$('#setBudget').slideUp('slow', function() {
+						// Animation complete.
+						});
+					} else {
+						$('#designAd').slideUp('slow', function() {
+						// Animation complete.
+						});
+					}
+				});
+				
+				/* Step Two - Target your Audience */
+				$('.stepTwo').click(function() {
+					if($('#targetAudience').css('display') == 'none') {
+						$('#targetAudience').slideDown('slow', function() {
+						// Animation complete.
+						});
+						$('#designAd').slideUp('slow', function() {
+						// Animation complete.
+						$('#setBudget').slideUp('slow', function() {
+						// Animation complete.
+						});
+						});
+					} else {
+						$('#targetAudience').slideUp('slow', function() {
+						// Animation complete.
+						});
+					}
+				});
+				
+				/* Step Three - Set your Budget */
+				$('.stepThree').click(function() {
+					if($('#setBudget').css('display') == 'none') {
+						$('#setBudget').slideDown('slow', function() {
+						// Animation complete.
+						});
+						$('#designAd').slideUp('slow', function() {
+						// Animation complete.
+						});
+						$('#targetAudience').slideUp('slow', function() {
+						// Animation complete.
+						});
+					} else {
+						$('#setBudget').slideUp('slow', function() {
+						// Animation complete.
+						});
+					}
+				});
+			});
+
+
+	
+		</script>
 </head>
 
 <body onload="MM_preloadImages('/Graphics/signupbuttonover.png','/Graphics/signupbutton.png', '/Graphics/aboutusbutton.png','/Graphics/publishersbutton.png','/Graphics/advertisersbutton.png','/Graphics/signupbuttonrollover.png','/Graphics/aboutusbuttonrollover.png','/Graphics/agentsbuttonrollover.png','/Graphics/publishersbuttonrollover.png','/Graphics/advertisersbuttonrollover.png','/Graphics/servicessectionbuttonrollover.png','/Graphics/cservicesectionbuttonrollover.png','/Graphics/loginsectionbuttonrollover.png','/Graphics/gobuttonover.png');"><div id="alertLayer" class="alertBoxStyle"></div>
@@ -354,7 +560,7 @@ function MM_swapImage() { //v3.0
 }
 </script>
 
-<div id="Layer9"><a href="http://pocketcents.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home Button','','/Graphics/homesectionbuttonrollover2.png',1)"><img src="/Graphics/homesectionbuttonover.png" alt="Home" name="Home Button" width="78" height="52" border="0" id="Home Button"></a><a href="http://pocketcents.com/services/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Services','','/Graphics/servicessectionbuttonrollover.png',1)"><img src="/Graphics/servicessectionbutton.png" alt="Services" name="Services" width="71" height="52" border="0" id="Services"></a><a href="http://pocketcents.com/customer_service/contact/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Contact Button','','/Graphics/cservicesectionbuttonrollover.png',1)"><img src="/Graphics/cservicesectionbutton.png" alt="Customer Service" name="Contact Button" width="67" height="52" border="0" id="Contact Button"></a><a href="http://pocketcents.com/account/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Login Button','','/Graphics/loginsectionbuttonrollover.png',1)"><img src="/Graphics/loginsectionbutton.png" alt="Log-In" name="Login Button" width="75" height="52" border="0" id="Login Button"></a>
+<div id="Layer9"><a href="https://pocketcents.com/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Home Button','','/Graphics/homesectionbuttonrollover2.png',1)"><img src="/Graphics/homesectionbuttonover.png" alt="Home" name="Home Button" width="78" height="52" border="0" id="Home Button"></a><a href="https://pocketcents.com/services/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Services','','/Graphics/servicessectionbuttonrollover.png',1)"><img src="/Graphics/servicessectionbutton.png" alt="Services" name="Services" width="71" height="52" border="0" id="Services"></a><a href="https://pocketcents.com/customer_service/contact/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Contact Button','','/Graphics/cservicesectionbuttonrollover.png',1)"><img src="/Graphics/cservicesectionbutton.png" alt="Customer Service" name="Contact Button" width="67" height="52" border="0" id="Contact Button"></a><a href="https://pocketcents.com/account/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Login Button','','/Graphics/loginsectionbuttonrollover.png',1)"><img src="/Graphics/loginsectionbutton.png" alt="Log-In" name="Login Button" width="75" height="52" border="0" id="Login Button"></a>
 </div>
 
 
@@ -403,7 +609,7 @@ function MM_swapImage() { //v3.0
           <td><input name="password" type="password" id="password" accesskey="u" tabindex="u" size="15"></td>
 	</tr>
         <tr>
-          <td colspan="2"><div align="center"><a href="http://pocketcents.com/customer_service/forgot_password/">Forgot password?</a></div></td>
+          <td colspan="2"><div align="center"><a href="https://pocketcents.com/customer_service/forgot_password/">Forgot password?</a></div></td>
         </tr>
         <tr>
           <td colspan="2"><div align="center"><input class="submitclear" type="image" id="Image22" name="Image22" src="/Graphics/gobutton.png" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','/Graphics/gobuttonover.png',1)"></div></td>
@@ -463,7 +669,7 @@ function MM_swapImage() { //v3.0
 <div id="Layer1">
     <div align="left">
 
-<a href="http://pocketcents.com/services/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ServicesButton','','/Graphics/servicesbuttonrollover.png',1)"><img src="/Graphics/servicesbuttonover.png" name="ServicesButton" width="90" height="38" border="0" id="ServicesButton" alt="Services"></a><a href="http://pocketcents.com/company/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('AboutButton','','/Graphics/aboutusbuttonrollover.png',1)"><img src="/Graphics/aboutusbuttonover.png" name="AboutButton" width="90" height="38" border="0" id="AboutButton" alt="About Us"></a><a href="http://pocketcents.com/customer_service/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Contact Us Button','','/Graphics/contactusbuttonrollover.png',1)"><img src="/Graphics/contactusbuttonover.png" name="Contact Us Button" width="90" height="38" border="0" id="Contact Us Button" alt="Contact Customer Service"></a><a href="http://pocketcents.com/customer_service/find_agent/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Find an Agent Button','','/Graphics/findanagentbuttonrollover.png',1)"><img src="/Graphics/findanagentbuttonover.png" name="Find an Agent Button" width="102" height="38" border="0" id="Find an Agent Button" alt="Find an Agent"></a><a href="http://www.pocketcents.com/forum/" target="blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Forum Button','','/Graphics/forumbuttonrollover.png',1)"><img src="/Graphics/forumbutton.png" name="Forum Button" width="90" height="38" border="0" id="Forum Button" alt="Forum Button"></a><a href="http://pocketcents.com/services/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Sign Up Button','','/Graphics/signupbuttonrollover.png',1)"><img src="/Graphics/signupbuttonover.png" name="Sign Up Button" width="90" height="38" border="0" id="Image14" alt="Sign Up Button"></a>
+<a href="https://pocketcents.com/services/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ServicesButton','','/Graphics/servicesbuttonrollover.png',1)"><img src="/Graphics/servicesbuttonover.png" name="ServicesButton" width="90" height="38" border="0" id="ServicesButton" alt="Services"></a><a href="https://pocketcents.com/company/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('AboutButton','','/Graphics/aboutusbuttonrollover.png',1)"><img src="/Graphics/aboutusbuttonover.png" name="AboutButton" width="90" height="38" border="0" id="AboutButton" alt="About Us"></a><a href="https://pocketcents.com/customer_service/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Contact Us Button','','/Graphics/contactusbuttonrollover.png',1)"><img src="/Graphics/contactusbuttonover.png" name="Contact Us Button" width="90" height="38" border="0" id="Contact Us Button" alt="Contact Customer Service"></a><a href="https://pocketcents.com/customer_service/find_agent/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Find an Agent Button','','/Graphics/findanagentbuttonrollover.png',1)"><img src="/Graphics/findanagentbuttonover.png" name="Find an Agent Button" width="102" height="38" border="0" id="Find an Agent Button" alt="Find an Agent"></a><a href="http://www.pocketcents.com/forum/" target="blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Forum Button','','/Graphics/forumbuttonrollover.png',1)"><img src="/Graphics/forumbutton.png" name="Forum Button" width="90" height="38" border="0" id="Forum Button" alt="Forum Button"></a><a href="https://pocketcents.com/services/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Sign Up Button','','/Graphics/signupbuttonrollover.png',1)"><img src="/Graphics/signupbuttonover.png" name="Sign Up Button" width="90" height="38" border="0" id="Image14" alt="Sign Up Button"></a>
 
 
 
@@ -489,7 +695,7 @@ function MM_swapImage() { //v3.0
 <table cellpadding="5" cellspacing="0">
 <tbody><tr><td>
 <div class="style7" id="Layer7">
-    <a href="http://pocketcents.com/">Home</a> | <a href="http://pocketcents.com/services/">Services</a> | <a href="http://pocketcents.com/about/">About Us</a> | <a target="blank" href="www.pocketcents.com/forum/">Forum</a> | <a href="http://pocketcents.com/services/">Sign-Up</a> | <a href="http://pocketcents.com/customer_service/">Customer Service</a> | <a href="http://pocketcents.com/index.php?page=privacy">Privacy</a>
+    <a href="https://pocketcents.com/">Home</a> | <a href="https://pocketcents.com/services/">Services</a> | <a href="https://pocketcents.com/about/">About Us</a> | <a target="blank" href="www.pocketcents.com/forum/">Forum</a> | <a href="https://pocketcents.com/services/">Sign-Up</a> | <a href="https://pocketcents.com/customer_service/">Customer Service</a> | <a href="https://pocketcents.com/index.php?page=privacy">Privacy</a>
 </div>
 </td><td>
 &nbsp;
@@ -528,8 +734,35 @@ function MM_swapImage() { //v3.0
 
 <a href="http://www.merchantcircle.com/business/PocketCents.Local.Online.Advertising.888-835-2975" target="_blank">
 <img src="/Graphics/social-merchantcircle.png" width="30" height="30" border="0" title="PocketCents on MerchantCircle" alt="Follow PocketCents on Merchant Circle"></a>
-
+<br>
+<a class="a2a_dd" href="http://www.addtoany.com/share_save"><img src="/Graphics/share_button.png" alt="Friend/Share/Bookmark us!"></a>
+<span class="a2a_divider"></span>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_email"></a>
+<a class="a2a_button_myspace"></a>
+<a class="a2a_button_ping"></a>
+<a class="a2a_button_google_buzz"></a>
+<a class="a2a_button_aim"></a>
+<a class="a2a_button_linkedin"></a>
+<a class="a2a_button_tumblr"></a>
+<a class="a2a_button_identi_ca"></a>
+<a class="a2a_button_friendfeed"></a>
+<a class="a2a_button_printfriendly"></a>
+<a class="a2a_button_plurk"></a>
+<a class="a2a_button_blogger_post"></a>
+<a class="a2a_button_wordpress"></a>
+<a class="a2a_button_multiply"></a>
+<a class="a2a_button_posterous"></a>
+<a class="a2a_button_bebo"></a>
 </div>
+<script type="text/javascript">
+var a2a_config = a2a_config || {};
+a2a_config.num_services = 22;
+</script>
+<script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
+
+
 
 
       </td>
@@ -555,7 +788,7 @@ are accessible from the navigation bar to the left of this notice.</span></p>
 <p>
 <span style="font-size:10.0pt;font-family:Arial;color:black">If you have any 
 questions about this Policy, please feel free to
-<a style="color: blue; text-decoration: underline; text-underline: single" href="http://pocketcents.com/customer_service/">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="https://pocketcents.com/customer_service/">
 <span style="color:#0000CC">contact us</span></a> through our website or write 
 to us at PocketCents Inc., P.O. Box 443, Washington, Michigan, 48094 USA.</span></p>
 <p><b>
@@ -696,7 +929,7 @@ confidentiality and security measures. </span></p>
 faith belief that access, use, preservation or disclosure of such information is 
 reasonably necessary to satisfy any applicable law, regulation, legal process or 
 enforceable governmental request, enforce applicable
-<a style="color: blue; text-decoration: underline; text-underline: single" href="http://pocketcents.com/index.php?page=agreement">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="https://pocketcents.com/index.php?page=agreement">
 <span style="color: #0000CC">Terms of Service Agreement</span></a>, including 
 investigation of potential violations thereof, detect, prevent, or otherwise 
 address fraud, security or technical issues, or protect against imminent harm to 
@@ -777,7 +1010,7 @@ Arial;color:black"> </span></p>
 regularly reviews its compliance with this Policy. Please feel free to direct 
 any questions or concerns regarding this Policy or PocketCents treatment of 
 personal information by
-<a style="color: blue; text-decoration: underline; text-underline: single" href="http://pocketcents.com/customer_service/">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="https://pocketcents.com/customer_service/">
 <span style="color:#0000CC">contacting us</span></a> through this web site or by 
 writing to us at PocketCents Inc., P.O. Box 443, Washington, Michigan, 48094, 
 USA. When we receive formal written complaints at this address, it is 
@@ -835,20 +1068,23 @@ Washington, Michigan, 48094, USA.</span></p>
 <table cellpadding="5" cellspacing="0">
 <tbody><tr><td>
 <div class="style7" id="Layer7">
-    <a href="http://pocketcents.com/">Home</a> | <a href="http://pocketcents.com/services/">Services</a> | <a href="http://pocketcents.com/about/">About Us</a> | <a target="blank" href="http://www.pocketcents.com/forum/">Forum</a> | <a href="http://pocketcents.com/services/online_advertising/">Local Advertising</a> | <a href="http://pocketcents.com/services/banner_advertising/">Publish Ads</a> | <a href="http://pocketcents.com/services/affiliate_marketing/">Affiliates</a> | <a href="http://pocketcents.com/customer_service/">Customer Service</a> | <a href="http://pocketcents.com/company/">Company</a> | <a href="http://pocketcents.com/index.php?page=privacy">Privacy</a>
+    <a href="https://pocketcents.com/">Home</a> | <a href="https://pocketcents.com/services/">Services</a> | <a href="https://pocketcents.com/about/">About Us</a> | <a target="blank" href="https://www.pocketcents.com/forum/">Forum</a> | <a href="https://pocketcents.com/services/online_advertising/">Local Advertising</a> | <a href="https://pocketcents.com/services/banner_advertising/">Publish Ads</a> | <a href="https://pocketcents.com/services/affiliate_marketing/">Affiliates</a> | <a href="https://pocketcents.com/customer_service/">Customer Service</a> | <a href="https://pocketcents.com/company/">Company</a> | <a href="https://pocketcents.com/index.php?page=privacy">Privacy</a>
 </div>
 </td><td>
 &nbsp;
 </td><td>
 <div id="Layer8">
-    <span class="style9">©2008-2010 PocketCents Inc. &nbsp;|&nbsp; Next Generation Online   Advertising</span>
+    <span class="style9">©2008-2010 PocketCents Inc. &nbsp;|&nbsp; Next Generation Online Advertising</span>
 </div>
 </td></tr>
 </tbody></table>
 </div>
-
 <div style="padding-left: -100px" align="center">
-<a href="https://www.xing.com/companies/pocketcentsinc." target="_blank">
+
+
+
+<div align="center">
+<a href="http://www.xing.com/companies/pocketcentsinc." target="_blank">
 <img src="/Graphics/social-xing.png" width="30" height="30" border="0" title="Xing" alt="PocketCents on Xing"></a>
 
 <a href="http://www.startupnation.com/community/PocketCents" target="_blank">
@@ -874,6 +1110,33 @@ Washington, Michigan, 48094, USA.</span></p>
 
 <a href="http://www.merchantcircle.com/business/PocketCents.Local.Online.Advertising.888-835-2975" target="_blank">
 <img src="/Graphics/social-merchantcircle.png" width="30" height="30" border="0" title="PocketCents on MerchantCircle" alt="Follow PocketCents on Merchant Circle"></a>
+<br>
+<a class="a2a_dd" href="http://www.addtoany.com/share_save"><img src="/Graphics/share_button.png" alt="Friend/Share/Bookmark us!"></a>
+<span class="a2a_divider"></span>
+<a class="a2a_button_facebook"></a>
+<a class="a2a_button_twitter"></a>
+<a class="a2a_button_email"></a>
+<a class="a2a_button_myspace"></a>
+<a class="a2a_button_ping"></a>
+<a class="a2a_button_google_buzz"></a>
+<a class="a2a_button_aim"></a>
+<a class="a2a_button_linkedin"></a>
+<a class="a2a_button_tumblr"></a>
+<a class="a2a_button_identi_ca"></a>
+<a class="a2a_button_friendfeed"></a>
+<a class="a2a_button_printfriendly"></a>
+<a class="a2a_button_plurk"></a>
+<a class="a2a_button_blogger_post"></a>
+<a class="a2a_button_wordpress"></a>
+<a class="a2a_button_multiply"></a>
+<a class="a2a_button_posterous"></a>
+<a class="a2a_button_bebo"></a>
+<script type="text/javascript">
+var a2a_config = a2a_config || {};
+a2a_config.num_services = 22;
+</script>
+<script type="text/javascript" src="https://static.addtoany.com/menu/page.js"></script>
+</div>
 
 </div>
 
@@ -894,4 +1157,5 @@ var pageTracker = _gat._getTracker("UA-5848524-1");
 pageTracker._trackPageview();
 </script>
 
-</body></html>
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
