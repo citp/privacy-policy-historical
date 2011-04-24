@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awaz.tv privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116212826id_/http%3A//www.awaztoday.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awaz.tv privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424122907id_/http%3A//www.awaztoday.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,6 +39,6 @@ While we have implemented safeguards, you should be aware that Internet security
 _**Third-Party Links**_   
 Portions of the Awaz.tv Service may contain links to other third party websites that you may access. These other sites have their own privacy policies, and you should review those policies before following those links. We cannot control the information disclosed at these third-party sites or how that information is used. _**Young Children**_   
 We do not knowingly collect any personal information from children under the age of 13. To best protect your child�s privacy, we suggest that you carefully supervise your child�s access to the Internet and our website. _**Opt-Out**_   
-The Awaz.tv Service provides users the opportunity to opt-out of receiving certain communications from us regarding products and services in which you may be interested. You will be given this opportunity at the time we request information about you. If you do not opt-out at the time you provide information, but choose to opt-out later, click [here](https://web.archive.org/web/20101116212826id_/http%3A//www.awaztoday.com/contact.asp) to send an email indicating that you no longer wish to receive such communications. Please provide your name and physical and/or email address(es) at which you are receiving the unwanted communications. 
+The Awaz.tv Service provides users the opportunity to opt-out of receiving certain communications from us regarding products and services in which you may be interested. You will be given this opportunity at the time we request information about you. If you do not opt-out at the time you provide information, but choose to opt-out later, click [here](https://web.archive.org/web/20110424122907id_/http%3A//www.awaztoday.com/contact.asp) to send an email indicating that you no longer wish to receive such communications. Please provide your name and physical and/or email address(es) at which you are receiving the unwanted communications. 
 
-If you have any questions, please [contact us](https://web.archive.org/web/20101116212826id_/http%3A//www.awaztoday.com/contact.asp)
+If you have any questions, please [contact us](https://web.archive.org/web/20110424122907id_/http%3A//www.awaztoday.com/contact.asp)
