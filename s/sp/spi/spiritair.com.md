@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritair.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231102505id_/http%3A//www.spiritair.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritair.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425010837id_/http%3A//www.spirit.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Spirit Airlines - cheap tickets, cheap flights, discount airfare, cheap hotels, cheap car rentals, cheap travel
 
@@ -26,7 +26,7 @@ We do not rent, sell, or share any personally identifiable information we collec
 
 ###  How do you remove your information from the spirit.com e-mail list?
 
-We want to communicate with you only if you want to hear from us. If you prefer to stop receiving information from us about our Red Light Specials and spirit.com special offers via e-mail, please visit our [Sign-Up](https://web.archive.org/web/20101231102505id_/http%3A//www.spiritair.com/EMailNotifySignIn.aspx) page accessible from the home page. You may also opt-out of receiving communications from us by sending us an e-mail message at [customer@spirit.com](mailto:customer@spirit.com). Please include your e-mail address and full name with your request. 
+We want to communicate with you only if you want to hear from us. If you prefer to stop receiving information from us about our Red Light Specials and spirit.com special offers via e-mail, please visit our [Sign-Up](https://web.archive.org/web/20110425010837id_/http%3A//www.spirit.com/EMailNotifySignIn.aspx) page accessible from the home page. You may also opt-out of receiving communications from us by sending us an e-mail message at [customer@spirit.com](mailto:customer@spirit.com). Please include your e-mail address and full name with your request. 
 
 Please note that when you book an online reservation, we will contact you via e-mail to confirm your reservation. In addition, we may need to contact you via e-mail or phone if we have other questions or information regarding your reservation.
 
