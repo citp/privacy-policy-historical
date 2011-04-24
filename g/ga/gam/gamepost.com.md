@@ -1,61 +1,60 @@
-> *The following text is extracted and transformed from the gamepost.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002025135id_/http%3A//www.efanguide.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamepost.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424050516id_/http%3A//www.gamepost.com/privacy) for the most accurate reproduction.*
 
-# eFanGuide.com : Keeping Fans Wired
+# GamePost.com - Free Online Games - Play A Mini Game Now!
 
-**Privacy Policy**
+**PRIVACY POLICY**
 
-efanguide inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: eFanGuide.com. 
+This privacy policy (hereafter referred to as the "Privacy Policy") is applicable to our websites and to all games and other activities that are offered by us on or through our websites. (Our websites, all the web pages that are part of the websites, and such games and activities are hereafter collectively referred to as the "Websites.") Web Entertainment Limited (hereafter referred to as "WEL"), is the responsible party as referred to in the Hong Kong Personal Data Protection Act. WEL may use affiliates' or reputable third parties' services for the processing of personal data collected on or through the Websites. By using or accessing our Websites, you are accepting the practices described in this Privacy Policy. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+GamePost is committed to providing an entertaining, fun and educational service. GamePost.com is a property of WEL. WEL respects the privacy concerns of visitors to GamePost network websites. It does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
 
-Our site uses cookies to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site. 
+  1. **INFORMATION WE COLLECT**
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
-**Public Forums**   
-This site makes chat rooms, forums, and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-**Children's Guidelines**   
-According to the answers that you have chosen, your Web site meets the guidelines of TRUSTe's Children's program. 
+We may log IP addresses and/or drop cookies and/or flash cookies to prevent abuse of our website and or to provide and or to enhance services. Email addresses of persons under 13 are not stored. They are encrypted into an unrecoverable format using a one way hash. Of those users who choose to register we collect date of birth, username, password and email address of users 13 years and older. For registered users non personal information may be collected related to use of the website and website services and activities such as high scores, game rankings, league rankings, game challenges, avatars, etc.
 
-* NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
+  2. **INFORMATION THAT IS REASONABLY NECESSARY**
 
-* NOT collect personally identifiable offline contact information without prior parental consent
 
-* NOT distribute to third parties any personally identifiable information with out prior parental consent
 
-* NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent
 
-* NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
+GamePost Network website does not require persons under 13 years of age to disclose any more information than is reasonably necessary to participate in the activity as a condition of participation.
 
-**Choice/Opt-Out**   
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+  3. **HOW WE USE THE INFORMATION**
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-* You can send email to [support@efanguide.com](mailto:support@efanguide.com)
 
-* You can call the following telephone number: 516-753-3272 
 
-**Third Party Advertising**   
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+We do not retain any personal information beyond the time it is needed. We may use information to ensure that users are in compliance with our terms. Persons over 13 years of age authorize us to send them email notifications related to GamePost.com products and services including the GamePost Newsletter. GamePost Network may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with GamePost network’s property, visitors, or anyone else that could be harmed by such activities.
 
-**Third Party Cookies**   
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
+We may sometimes use non-personally identifiable information that we collect to improve the design and content of our website, to personalize our visitors' experience or to offer products, programs and services. We may also use this information in the aggregate to analyze website usage, as well as to offer products, programs, or services.
 
-**Correct/Update**   
-This site gives users the following options for changing and modifying information previously provided. 
+  4. **COLLECTION OF INFORMATION, THIRD PARTY AND SPONSORS**
 
-* email [support@efanguide.com](mailto:support@efanguide.com)
 
-* call the following telephone number: 516-753-3272 
 
-**Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Rajiv Doshi  
-efanguide inc.  
-285 Eastern Parkway  
-Farmingdale, NY, 11735 
+We do not disclose personally identifiable information of users under 13 years of age to third parties. We use Google AdSense to serve ads when you visit our website. These companies and WEL may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this website and other websites about goods and services that may be of interest to you. Third parties and or WEL may be placing and reading standard and or flash cookies on your browser and machine, or using web beacons to collect information on the website and in the course of ads being served. We may also share the anonymous information that we collect from you with our business partners or clients so that they may improve their services. Third parties such as advertisers, games companies and or developers may ask for information from you which would be governed by the privacy policy of those other companies in which case they should provide adequate disclosure of their privacy policies to you. We may use anonymous information that we collect from you to improve our services and or to help serve advertising to you. [You may manage or opt out of your flash cookies here](http://www.google.com/url?q=http%3A%2F%2Fwww.macromedia.com%2Fsupport%2Fdocumentation%2Fen%2Fflashplayer%2Fhelp%2Fsettings_manager06.html&sa=D&sntz=1&usg=AFQjCNEAp1b8XTlYEnEoO4Bx-5RK0pTY7Q) You may manage or opt out of your standard cookies via your web browser and if you would like more information about this practice and to know your choices about not having this information used by these companies, please _[click](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org%2Foptout_nonppii.asp&sa=D&sntz=1&usg=AFQjCNGCio23mFoYRHgbjTdoJHtsf5wT6A)[ ](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org%2Foptout_nonppii.asp&sa=D&sntz=1&usg=AFQjCNGCio23mFoYRHgbjTdoJHtsf5wT6A)[here](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org%2Foptout_nonppii.asp&sa=D&sntz=1&usg=AFQjCNGCio23mFoYRHgbjTdoJHtsf5wT6A)_
+
+  5. **SECURITY**
+
+
+
+
+We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
+
+  6. **PARENTAL REVIEW**
+
+
+
+
+Parents, if you would like to review your child's personal information, ask to have it deleted, and refuse to allow any further collection or use of the child's information then please send a letter to our Privacy Manager at Web Entertainment Limited, Room 409 Yu To Sang Building, 37 Queen's Road Central Hong Kong SAR. Please be sure to include your email address and a telephone number where we can reach you. To protect your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about your child.
+
+  7. **PARENTAL REVIEW**
+
+
+
+
+This Privacy Policy is part of WEL’s main Terms and Conditions which you agree to by accessing the GamePost.com website and/or services. You agree that WEL may change this Privacy Policy and the main GamePost network Terms and Conditions at any time. Our current Privacy Policy will be in footer which is part of our Terms and Conditions in footer Our contact email for questions is _[why](mailto:why@y8.com)[@](mailto:why@y8.com)[GamePost](mailto:why@y8.com)[.](mailto:why@y8.com)[com](mailto:why@y8.com)_
