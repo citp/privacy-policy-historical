@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidetrade.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109125006id_/http%3A//insidetrade.com/201008302184052/Inside-Trade-General/About/privacy-policy/menu-id-614.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidetrade.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425002757id_/http%3A//insidetrade.com/201008302184052/Inside-Trade-General/About/privacy-policy/menu-id-614.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
