@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pdf-word.net privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728094712id_/http%3A//www.pdf-word.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-word.net privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424222629id_/http%3A//www.pdf-word.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Free eBook PDF File Download - Privacy Policy
+# Free eBook PDF Files Download - Privacy Policy
 
 ## Privacy Policy
 
@@ -20,22 +20,18 @@ Thank you for visiting our web site and enjoy your searching PDF Files from our 
 
 ## Latest PDF Files
 
-293
+159
 
-### [Tips for Preparing Foods in the Microwave](http://www.pdf-word.net/Hobbies-Cooking/Tips-for-Preparing-Foods-in-the-Microwave.html "Tips for Preparing Foods in the Microwave")
+### [Sewing Machine Maintenance How To](http://www.pdf-word.net/DIY-Fashions-and-Textiles/Sewing-Machine-Maintenance-How-To.html "Sewing Machine Maintenance How To")
 
-#### category [Hobbies](http://www.pdf-word.net/Hobbies-pdf-files.html "Tips for Preparing Foods in the Microwave") » [Hobbies Cooking](http://www.pdf-word.net/Hobbies-Cooking-pdf.html "Tips for Preparing Foods in the Microwave")
+#### category [Hobbies](http://www.pdf-word.net/Hobbies-pdf-files.html "Sewing Machine Maintenance How To") » [DIY Fashions and Textiles](http://www.pdf-word.net/DIY-Fashions-and-Textiles-pdf-p-1.html "Sewing Machine Maintenance How To")
 
-It is important to be careful when setting time in microwave cooking. Always start with the shortest time given in a recipe. It is easy to add extra time if the food needs more cooking but you cannot subtract time from overcooked foods
-
-518
-
-### [Converting Recipes for Microwave](http://www.pdf-word.net/Hobbies-Cooking/Converting-Recipes-for-Microwave.html "Converting Recipes for Microwave")
-
-#### category [Hobbies](http://www.pdf-word.net/Hobbies-pdf-files.html "Converting Recipes for Microwave") » [Hobbies Cooking](http://www.pdf-word.net/Hobbies-Cooking-pdf.html "Converting Recipes for Microwave")
-
-After you have some experience with amicrowave oven you rsquo ll probably want to begin convertingsome of your favorite recipes foruse with the microwave. You rsquo ll beable to convert some recipes veryeasily. Others may require moreexperimentation. Because microwave ovens
+A well made sewing machine mdash traditional or serger new or old used often or only occasionally mdash will sew perfectly for many years if it is given proper care. It may need to be adjusted or a part may need to be replaced but a sewing machine that is given proper maintenance and cleaned regularly seldom... more.
 
 ## Our Partners
 
 [](http://www.onlinejobfinder.net/ "online job finder") [](http://www.autopartshouse.net/ "advance auto parts")
+
+## Latest Added
+
+Find latest added pdf files for new topics and updates : [1](http://www.pdf-word.net/newly-added-p-1.html "PDF File Download page 1") [2](http://www.pdf-word.net/newly-added-p-2.html "PDF File Download page 2") [3](http://www.pdf-word.net/newly-added-p-3.html "PDF File Download page 3") [4](http://www.pdf-word.net/newly-added-p-4.html "PDF File Download page 4") [5](http://www.pdf-word.net/newly-added-p-5.html "PDF File Download page 5") [6](http://www.pdf-word.net/newly-added-p-6.html "PDF File Download page 6") [7](http://www.pdf-word.net/newly-added-p-7.html "PDF File Download page 7") [8](http://www.pdf-word.net/newly-added-p-8.html "PDF File Download page 8") [9](http://www.pdf-word.net/newly-added-p-9.html "PDF File Download page 9") [10](http://www.pdf-word.net/newly-added-p-10.html "PDF File Download page 10") [11](http://www.pdf-word.net/newly-added-p-11.html "PDF File Download page 11") [12](http://www.pdf-word.net/newly-added-p-12.html "PDF File Download page 12") [13](http://www.pdf-word.net/newly-added-p-13.html "PDF File Download page 13") [14](http://www.pdf-word.net/newly-added-p-14.html "PDF File Download page 14") [15](http://www.pdf-word.net/newly-added-p-15.html "PDF File Download page 15") ... and more. 
