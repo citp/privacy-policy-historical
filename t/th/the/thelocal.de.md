@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelocal.de privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216153157id_/http%3A//www.thelocal.de/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelocal.de privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424205940id_/http%3A//www.thelocal.de/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The Local
 
@@ -16,34 +16,42 @@ The Local will use all reasonable precautions to ensure only responsible third p
 
 Please note that we reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate our systems properly and to protect both ourselves and our users.
 
+We use third-party advertising companies to serve ads when you visit The Local. These companies may use information (not including your name or email address) about your visits to this and other sites in order to provide advertisements about goods and services of interest to you.
+
 **COOKIES**
 
 The Local uses cookies to track users' 'sessions' and to determine whether a user is signed in or not so that relevant information may be delivered. These are not used to identify any individuals and no personal information is stored in relation to the cookies.
 
 You can delete all cookies on your computer via your web browser, as well as switching them off altogether. Click 'help' on your browser for relevant instructions.
 
-**Back to[registration](https://web.archive.org/members/register.php).**
-
 Highlights
 
-[](https://web.archive.org/opinion/20081216-16175.html)
+[](https://web.archive.org/lifestyle/20110421-34551.html)
+
+[](https://web.archive.org/lifestyle/20110420-34527.html)
+
+[](https://web.archive.org/opinion/20110419-34487.html)
+
+[](https://web.archive.org/travel/20110419-34501.html)
+
+[](https://web.archive.org/travel/20110401-34113.html)
 
 Jobs in Germany, in English
 
-**619** jobs in Germany, in English  
-**386** new jobs this week  
-**50** new jobs today 
+**1041** jobs available  
+**724** new jobs this week  
+**47** new jobs today 
 
-  * [GLOBAL PROCESS & PROJECT MANAGER](https://web.archive.org/jobs/?id=78148263)
-  * [Account Executive Group IT Shared Services](https://web.archive.org/jobs/?id=78145753)
-  * [IT Infrastructure Manager (m/w)](https://web.archive.org/jobs/?id=78146497)
-  * [Chief- or Senior Specialist in Lean, Vestas Nacelles A/S, Denmark or Germany](https://web.archive.org/jobs/?id=78144038)
-  * [Business Development Managers - Enterprise Software Sales](https://web.archive.org/jobs/?id=78144379)
-  * [Marketing Associate (m/f)](https://web.archive.org/jobs/?id=78142935)
-  * [Insulation System Engineer (m/f) Turbogenerators](https://web.archive.org/jobs/?id=78143611)
-  * [German Qualified Financial Lawyer](https://web.archive.org/jobs/?id=78143797)
-  * [Executive Director Operational Risk](https://web.archive.org/jobs/?id=78085305)
-  * [Product Manager / Automation Technology in Tokyo, Japan (m/f)](https://web.archive.org/jobs/?id=78085267)
+  * [Analyst (f/m) Portfolio Risk Management, Portfolio Risk Reporting & Analysis in Berlin / Ziel-Sta...](https://web.archive.org/jobs/?l=98094786&j=73084161&c=163)
+  * [Personalreferent (m/w)](https://web.archive.org/jobs/?l=98073990&j=73065249&c=163)
+  * [Senior Realisation Manager / Portfolio Architect (m/f) (2011-2990)](https://web.archive.org/jobs/?l=98073419&j=73064796&c=163)
+  * [PA/Rechanwaltsfachangestellte/r](https://web.archive.org/jobs/?l=98065840&j=73058605&c=163)
+  * [Gruppenleiter/-in Debitoren](https://web.archive.org/jobs/?l=98065429&j=73058359&c=163)
+  * [Technology Specialist (m/f) within Biomass Programme / Bio-Chemical Routes](https://web.archive.org/jobs/?l=98064275&j=73057390&c=163)
+  * [Team Lead System Integrity Database (m/f)](https://web.archive.org/jobs/?l=98064273&j=73057388&c=163)
+  * [Assistant (m/f)](https://web.archive.org/jobs/?l=98063794&j=73057022&c=163)
+  * [(Senior) Bank Analyst](https://web.archive.org/jobs/?l=98063743&j=73056976&c=163)
+  * [Specialist Portfolio & Project Management Office (m/f)](https://web.archive.org/jobs/?l=98063072&j=73056479&c=163)
 
 
 
@@ -51,11 +59,11 @@ Jobs in Germany, in English
 
 Latest news from The Local in Sweden
 
-  * 16/12 ['We woke up screaming in our sleep' »](http://www.thelocal.se/16390/20081216/)
-  * 16/12 [Earthquake shakes southern Sweden »](http://www.thelocal.se/16374/20081216/)
-  * 16/12 [High court rejects gay priest marriage case »](http://www.thelocal.se/16388/20081216/)
-  * 16/12 [Charitable Swedes defy credit crunch »](http://www.thelocal.se/16384/20081216/)
-  * 16/12 [Swedish doctor reprimanded following accidental abortion »](http://www.thelocal.se/16380/20081216/)
+  * 24/04 [Sweden's Vasa marks 50 years out of the water »](http://www.thelocal.se/33378/20110424/)
+  * 24/04 [Swede dies in avalanche in Norway  »](http://www.thelocal.se/33376/20110424/)
+  * 24/04 [Top Italian official blasts Ikea over gay advert »](http://www.thelocal.se/33374/20110424/)
+  * 24/04 [Boy survives Swedish campground 'hanging' »](http://www.thelocal.se/33372/20110424/)
+  * 23/04 [Lay-offs loom at Saab suppliers »](http://www.thelocal.se/33370/20110423/)
 
 
 
@@ -90,15 +98,5 @@ Register now for:
 
 [REGISTER FOR FREE »](https://web.archive.org/members/register.php)
 
-News from Die Welt
-
-  * [Afghan Revolutionary Front: Police find explosives in Paris store after tip-off](http://www.welt.de/english-news/article2887794/Police-find-explosives-in-Paris-store-after-tip-off.html#reqRSS)  
-Police found explosives in a Paris department store on Tuesday after a warning from a group demanding the withdrawal of French troops from Afghanistan. The group called itself the Afghan Revolutionary Front and was not previously known to the security services.The five sticks of explosives were not primed and police said there was no danger of a detonation. 
-  * [New York: Caroline Kennedy wants Clinton's Senate seat](http://www.welt.de/english-news/article2884703/Caroline-Kennedy-interested-in-Clintons-Senate-seat.html#reqRSS)  
-Caroline Kennedy Schlossberg, member of one of the most famous and powerful families in U.S. politics, said Monday that she is interested in Secretary of State nominee Hillary Clinton's Senate seat should it be vacated after inauguration day. New York governor David Paterson was non-commital when pressed for comment. 
-  * [Corrupt Governor: Lawmakers move to impeach Rod Blagojevich](http://www.welt.de/english-news/article2884801/Lawmakers-move-to-impeach-Rod-Blagojevich.html#reqRSS)  
-Illinois lawmakers announced Monday an inquiry into the possible impeachment of Illinois Governor Rod Blagojevich is set to be launched over the coming weeks after court approved wiretaps revealed an attempt to sell Barack Obama's Senate seat. Meanwhile the office of president-elect Barack Obama was trying to distance itself from the affair.
-  * [Russia: 'Crisis' a word best said quietly in Russia](http://www.welt.de/english-news/article2885277/Crisis-a-word-best-said-quietly-in-Russia.html#reqRSS)  
-While the media in Western countries have been using the word 'crisis' to report the bad economic news for months, in Russia, despite frightening conditions, describing the situation as dire is taboo. Other ex-Soviet states as well have been suppressing negative coverage, hoping that more upbeat reports will become self-fulfilling prophesies.
-
+  
 
