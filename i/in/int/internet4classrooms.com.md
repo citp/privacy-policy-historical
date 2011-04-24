@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the internet4classrooms.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207072520id_/http%3A//www.internet4classrooms.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet4classrooms.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424082233id_/http%3A//www.internet4classrooms.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy at Internet 4 Classrooms
 
-> This is the web site of **Internet 4 Classrooms, LLC**. 
+> This is the web site of **Internet 4 Classrooms, Corp.**. 
 > 
 > Our postal address is   
 >  **250 Colegrove Street  
 >  Memphis, Tennessee, 38120**
 > 
-> We can be reached via e-mail at [mgold@internet4classrooms.com](mailto:mgold@internet4classrooms.com)  
->  or you can reach us by telephone at 
+> We can be reached via e-mail at [susan.brooks@internet4classrooms.com](mailto:susan.brooks@internet4classrooms.com)
 > 
 > For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 > 
@@ -35,7 +34,7 @@
 > 
 > With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 > 
-> If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+> If you feel that this site is not following its stated information policy, you may contact us at the above addresses, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
 Internet4classrooms is a collaborative effort by Susan Brooks and Bill Byles.  
  
