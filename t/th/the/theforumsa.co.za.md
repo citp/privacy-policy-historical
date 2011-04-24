@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theforumsa.co.za privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223053100id_/http%3A//www.theforumsa.co.za/wiki/index.php%3Ftitle%3DThe_Forum_SA_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theforumsa.co.za privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424072727id_/http%3A//www.theforumsa.co.za/wiki/index.php%3Ftitle%3DThe_Forum_SA_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # The Forum SA Wiki:Privacy policy - The Forum SA Wiki
 
