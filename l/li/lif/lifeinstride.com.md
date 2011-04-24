@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lifeinstride.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205222653id_/http%3A//www.lifeinstride.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinstride.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424052429id_/http%3A//www.lifeinstride.com/privacy.php) for the most accurate reproduction.*
 
 # Life in Stride - Helping You Live Your Life!
 
 Privacy Policy:
 
-Lifeinstride & Parent Companies are committed to protecting your privacy, and we strive to keep sensitive and personal information confidential. We suggest that all affiliates and merchants/advertisers read this policy in order to better understand how the information you provide to us and that we may otherwise collect may be used. If you have any queries relating to this policy, please do not hesitate to contact us at adcanadian8@gmail.com. By accessing the Site, you are consenting to the information collection and use practices described in this Privacy Policy. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY OR THE ACCEPTABLE USE POLICY PROVIDED ON THIS SITE, PLEASE DO NOT PROVIDE ANY INFORMATION TO Lifeinstride & Parent Companies OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY.
+Lifeinstride & Parent Companies are committed to protecting your privacy, and we strive to keep sensitive and personal information confidential. We suggest that all affiliates and merchants/advertisers read this policy in order to better understand how the information you provide to us and that we may otherwise collect may be used. If you have any queries relating to this policy, please do not hesitate to contact us at lifeinstride@gmail.com. By accessing the Site, you are consenting to the information collection and use practices described in this Privacy Policy. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY OR THE ACCEPTABLE USE POLICY PROVIDED ON THIS SITE, PLEASE DO NOT PROVIDE ANY INFORMATION TO Lifeinstride & Parent Companies OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY.
 
 Please note that our privacy policy changes from time to time, and the changes are effective upon posting. Please check back frequently for updates as it is your sole responsibility to be aware of changes. Lifeinstride & Parent Companies do not provide any notices of changes in any manner other than by posting the changes at this website. The continued use of the Site after such modification or amendments constitutes acceptance of such modifications or amendments.
 
@@ -52,7 +52,7 @@ Lifeinstride & Parent Companies will transfer your Personal Information to third
 Lifeinstride & Parent Companies may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
 
 3.7. Other Access to Personal Information:  
-You have access to your Personal Information collected by the Site and Lifeinstride & Parent Companies. You may correct, amend, or delete such Personal Information by logging into your Lifeinstride & Parent Companies account, or emailing adcanadian8@gmail.com Lifeinstride & Parent Companies. may also give advertising clients and email services providers access to your email address and IP addresses to verify the origin of the Personal Information collected.
+You have access to your Personal Information collected by the Site and Lifeinstride & Parent Companies. You may correct, amend, or delete such Personal Information by logging into your Lifeinstride & Parent Companies account, or emailing lifeinstride@gmail.com Lifeinstride & Parent Companies. may also give advertising clients and email services providers access to your email address and IP addresses to verify the origin of the Personal Information collected.
 
 3.8. Data Summary:  
 Lifeinstride & Parent Companies may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
@@ -70,17 +70,17 @@ We are also not responsible for the privacy policies of our partner merchants' a
 
 5\. Unsubscribe Procedures.
 
-If you wish to discontinue receiving email messages from Lifeinstride & Parent Companies, you may submit your email address to [adcanadian8@gmail.com](mailto:adcanadian8@gmail.com) or the postal address listed below.
+If you wish to discontinue receiving email messages from Lifeinstride & Parent Companies, you may submit your email address to [lifeinstride@gmail.com](mailto:lifeinstride@gmail.com) or the postal address listed below.
 
 Third Party Newsletter – if applicable
 
-By submitting your information you agree to receive third party newsletters and marketing material from selected Lifeinstride & Parent Companies Affiliate. There is no cost to receive this material. Should you have any questions or concerns or if you would like to discontinue receipt of the newsletter simply email us at [adcanadian8@gmail.com](mailto:adcanadian8@gmail.com)  
+By submitting your information you agree to receive third party newsletters and marketing material from selected Lifeinstride & Parent Companies Affiliate. There is no cost to receive this material. Should you have any questions or concerns or if you would like to discontinue receipt of the newsletter simply email us at [lifeinstride@gmail.com](mailto:lifeinstride@gmail.com)  
 6\. Special Notice to California Residents and California User Consumer Rights.
 
-As a California resident, you have certain rights under state law that relate to the sharing of your Personal Information with third parties for their own direct marketing purposes. Lifeinstride & Parent Companies has chosen to comply with California law SB-27 in the following way: First, individual consumers who reside in California and who have provided their Personal Information to Lifeinstride & Parent Companies may request (no more than once per calendar year) information about our disclosures of certain categories of your Personal Information to any third parties. To make such a request, please send an e-mail to [adcanadian8@gmail.com](mailto:adcanadian8@gmail.com) and provide us with your name, address, and e-mail address. Within thirty days of receiving such a request, Lifeinstride & Parent Companies will provide a list of categories of Personal Information disclosed to third parties during the immediately preceding calendar year, along with the names and addresses of such third parties.
+As a California resident, you have certain rights under state law that relate to the sharing of your Personal Information with third parties for their own direct marketing purposes. Lifeinstride & Parent Companies has chosen to comply with California law SB-27 in the following way: First, individual consumers who reside in California and who have provided their Personal Information to Lifeinstride & Parent Companies may request (no more than once per calendar year) information about our disclosures of certain categories of your Personal Information to any third parties. To make such a request, please send an e-mail to [lifeinstride@gmail.com](mailto:lifeinstride@gmail.com) and provide us with your name, address, and e-mail address. Within thirty days of receiving such a request, Lifeinstride & Parent Companies will provide a list of categories of Personal Information disclosed to third parties during the immediately preceding calendar year, along with the names and addresses of such third parties.
 
-All inquiries relating to California SB-27 should be directed to us at [adcanadian8@gmail.com](mailto:adcanadian8@gmail.com)  
+All inquiries relating to California SB-27 should be directed to us at [lifeinstride@gmail.com](mailto:lifeinstride@gmail.com)  
 Additionally, in accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with the California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to [dca@dca.ca.gov](mailto:dca@dca.ca.gov)
 
 If you have any questions about this Privacy Policy or the practices of Lifeinstride & Parent Companies please contact us at:  
-adcanadian8@gmail.com 
+lifeinstride@gmail.com 
