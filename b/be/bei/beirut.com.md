@@ -1,52 +1,42 @@
-> *The following text is extracted and transformed from the beirut.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912231810id_/http%3A//www.beirut.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beirut.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424122903id_/http%3A//www.beirut.com/Privacy) for the most accurate reproduction.*
 
-# Beirut.com | Privacy Policy
+# Privacy Policy :: Beirut.com :: Beirut City Guide
 
-### The Beirut Privacy Pledge  
- 
+[](https://web.archive.org/)
 
-Beirut.com™ is a trademark of Tom Steiner in the United States and / or other countries. Other product and company names mentioned herein may be the trademarks or servicemarks of other companies. Please read all terms and conditions. If you are looking for different registrar-related you might try the search engine Google. This site is not affiliated with anyone else having registrar in their name. We have been providing investment and technology advisory services, registrar services, multimedia publishing, free web based email services, chat, video and production services and bespoke software services since 1995, For more information about us you can send [Mail to our Address](https://web.archive.org/web/20080912231810id_/http%3A//www.beirut.com/about.html), or contact us via [phone or email](https://web.archive.org/web/20080912231810id_/http%3A//www.beirut.com/about.html).
+When you use Beirut.com, we may do the following: 
 
-When you sign-up for a Beirut.com account:
+1\. Collect personally identifiable and demographic information about you.
 
-We may do the following:
+2\. Provide industry-standard security to protect your personal information while it is in our possession. If you use your credit card to pay for our services, then your credit card information will be encrypted using SSL technology. However, we will not store your credit card on our servers.
 
- **1.** Collect personally identifiable and demographic information about you.
+3\. Give you access to review and edit your personal and demographic information while it is in our possession. 
 
- **2.** Provide industry-standard security to protect your personal information while it is in our possession. If you use your credit card to pay for our services, then your credit card information will be encrypted using SSL technology. However, we will not store your credit card on our servers.
+4\. Send you service announcements notifying you of any new products or updates to the service. We may use your alternate E-mail address and home address to ensure that you receive important information about your account or information you have requested.
 
- **3.** Give you access to review and edit your personal and demographic information while it is in our possession. 
+5\. Give you the choice of "opting in" to receive third party mailings.
 
-**4.** Send you service announcements notifying you of any new products or updates to the service. We may use your alternate E-mail address and home address to ensure that you receive important information about your account or information you have requested.
+6\. Make it easy for you to unsubscribe from any Beirut.com-owned mailing list by following directions at the bottom of any e-mail that you receive from us unless it is vital to the operation of your account). 
 
- **5.** Give you the choice of "opting in" to receive third party mailings.
+When you use Beirut.com, we _will not_ do the following:
 
- **6.** Make it easy for you to unsubscribe from any Beirut.com-owned mailing list by following directions at the bottom of any e-mail that you receive from us unless it is vital to the operation of your account).
+1\. Send you unsolicited commercial e-mail (SPAM). 
 
-We **_will not_** do the following:
+2\. Without your explicit permission,
 
- **1.** Send you unsolicited commercial e-mail (SPAM). 
+a. Share your personal information or demographic data   
+b. Give anyone access to your e-mail. 
 
-**2.** Without your explicit permission,
+3\. Share any data with outside parties that would identify a specific user.
 
- **a.** Share your personal information or demographic data   
-**b.** Give anyone access to your e-mail,   
-or **c.** Open or read messages in your account: 
+4\. Contact you via e-mail or any other method to ask you for your password. Do not share your password with anyone; you should only enter it directly into our Web site.
 
-unless, we believe, in good faith, that such release is necessary to:
+5\. Contact you via e-mail or any other method to ask you for your credit card information.
 
- **a.** Comply with the law   
-**b.** Enforce or apply the terms of our user agreement,  
-or c. Protect the rights, property, or safety of Beirut.com, our users, or the public. 
+6\. Materially change how we use your personally identifiable information without placing a prominent notice on our Web site first.
 
-**3.** Share any data with outside parties that would identify a specific user.
+A general note about Facebook Connect:
 
- **4.** Contact you via e-mail or any other method to ask you for your password. Do not share your password with anyone; you should only enter it directly into our Web site.
+When you login to Beirut.com using Facebook Connect, we retrieve your Facebook user ID. With this user ID, we can retrieve your current profile picture and your display name. We will also link to your Facebook profile from Beirut.com. Your Facebook profile page may or may not be visible depending on how you have your Facebook privacy settings setup. _We do not store personal details_ about your profile and/or your friends network such as passwords, email addresses, locations, etc.
 
- **5.** Contact you via e-mail or any other method to ask you for your credit card information. You should only enter this information directly into our Web site.
-
- **6.** Materially change how we use your personally identifiable information without placing a prominent notice on our Web site first. 
-
-For any questions or comments concerning Beirut.com's privacy policy, please write to support@beirut.com.
-
- **Last updated:**   7, 2008
+For any questions or comments concerning Beirut.com's privacy policy, please write to support at beirut.com.
