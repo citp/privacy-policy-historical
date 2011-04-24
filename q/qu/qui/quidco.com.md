@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the quidco.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207180352id_/http%3A//www.quidco.com/privacy-policy/%3Fnclnsi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quidco.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424072422id_/http%3A//www.quidco.com/privacy-policy/%3Fnclnsi) for the most accurate reproduction.*
 
 # Quidco Privacy Policy
-
-This privacy policy will come into effect for transactions after 10 Dec 2010.  
-[Read our current privacy policy](https://web.archive.org/current-privacy-policy).
 
 Personal data, or personal information as it is sometimes called, is data that relates to or is capable of identifying a living person. Account holder privacy is very important to us and we do all we can to protect it.
 
