@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the gotobus.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619195312id_/http%3A//www.gotobus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotobus.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424041543id_/http%3A//www.gotobus.com/privacy.html) for the most accurate reproduction.*
 
-# GotoBus - Privacy Notice
+# Privacy Notice - GotoBus
+
+Privacy Notice
+
+* * *
 
 **Privacy Notice**
 
@@ -46,6 +50,8 @@ IvyMedia/GotoBus.com gives you access to the following information about you for
 
   * Your Account 
   * Marketplace and Resource Area 
+
+
 
 What Choices Do I Have? 
 
