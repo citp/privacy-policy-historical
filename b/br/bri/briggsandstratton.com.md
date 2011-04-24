@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125153023id_/http%3A//www.briggsandstratton.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425010830id_/http%3A//www.briggsandstratton.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Briggs & Stratton
 
-This privacy statement discloses the privacy practices for [http://www.briggsracing.com](http://www.briggsracing.com/). This web site has agreed to notify you of:
+This privacy statement discloses the privacy practices for [http://www.briggsandstratton.com](http://www.briggsandstratton.com/). This web site has agreed to notify you of:
 
   * what personally identifiable information of yours is collected from you on the web site 
   * the organization collecting the information 
