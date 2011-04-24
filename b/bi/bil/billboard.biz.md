@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the billboard.biz privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210053226id_/http%3A//www.billboard.biz/bbbiz/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billboard.biz privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424212728id_/http%3A//www.billboard.biz/bbbiz/footer/privacy-policy) for the most accurate reproduction.*
 
-# BILLBOARD BIZ
+# Billboard Music Charts - Album Sales - Top 100 - Billboard.biz
 
 **Effective Date: August 10, 2010**
 
-This Privacy Policy is applicable to www.billboard.com, www.billboard.biz, www.adweek.com, www.mediaweek.com, www.brandweek.com, www.backstage.com, www.hollywoodreporter.com, www.clioawards.com, www.filmjournal.com and any other site that may be operated by or for e5 Global Media, LLC (together, the "Websites"). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our [Terms of Use](https://web.archive.org/bbbiz/terms-of-use.html), which govern the basic operation of the Websites.
+This Privacy Policy is applicable to www.billboard.com, www.billboard.biz, www.adweek.com, www.mediaweek.com, www.brandweek.com, www.backstage.com, www.hollywoodreporter.com, www.clioawards.com, www.filmjournal.com and any other site that may be operated by or for e5 Global Media, LLC (together, the "Websites"). It explains how we collect information from users of the Websites and how we use such information. Your use of the Websites constitutes your acceptance of this Privacy Policy. Please also read our [Terms of Use](https://web.archive.org/bbbiz/footer/terms-of-use), which govern the basic operation of the Websites.
 
 ### 1\. The Information We Collect and Use
 
@@ -23,7 +23,7 @@ No Personally Identifiable Information (see below) is collected through our cook
 
 ### B. Personally Identifiable Information
 
-We also may collect information that can be used to identify you ("Personally Identifiable Information"). We only collect Personally Identifiable Information when you specifically provide it to us. For example, in connection with your use of certain features of the Websites you may be asked to create a user account and provide certain information including your name, email addresses, address, and telephone number. You may also provide User Uploaded Information to the Websites, as described in the [Terms of Use](https://web.archive.org/bbbiz/terms-of-use.html), or you may provide information such as your credit card number in connection with the purchase of services or content available through the Websites. When you create a user account with an e5 Global media website and sign in to your account on the Websites or post User Uploaded Information, you are not anonymous to us.
+We also may collect information that can be used to identify you ("Personally Identifiable Information"). We only collect Personally Identifiable Information when you specifically provide it to us. For example, in connection with your use of certain features of the Websites you may be asked to create a user account and provide certain information including your name, email addresses, address, and telephone number. You may also provide User Uploaded Information to the Websites, as described in the [Terms of Use](https://web.archive.org/bbbiz/footer/terms-of-use), or you may provide information such as your credit card number in connection with the purchase of services or content available through the Websites. When you create a user account with an e5 Global media website and sign in to your account on the Websites or post User Uploaded Information, you are not anonymous to us.
 
 We may use Personally Identifiable Information to fulfill your requests, respond to your inquiries and provide other services, and to alert you to information, offers, or publications in which we think you may be interested. The emails that we send contain links that enable you to “unsubscribe” from such mailings.
 
