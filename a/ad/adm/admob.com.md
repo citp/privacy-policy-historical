@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admob.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223045029id_/http%3A//www.admob.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admob.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426013821id_/http%3A//www.admob.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AdMob
 
