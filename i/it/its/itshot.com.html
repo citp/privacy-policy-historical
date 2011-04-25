@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the itshot.com privacy policy that was archived on 2010-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101128093441id_/http%3A//www.itshot.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itshot.com privacy policy that was archived on 2011-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110426000029id_/http%3A//www.itshot.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,18 +7,28 @@
     <title>ItsHot.com Privacy Policy</title>
     <meta name="description" content="ItsHot.com Diamond Watches &amp; Diamond Jewelry Privacy Policy.">
     <meta name="keywords" content="privacy policy">
-    <link rel="stylesheet" href="skins/Skin_1/style.css" "="" type="text/css">
-    <link rel="stylesheet" href="skins/Skin_1/style_jairo.css?n=15" "="" type="text/css">
+    <link rel="stylesheet" href="skins/Skin_1/style.css?y=3" type="text/css">
+    <link rel="stylesheet" href="skins/Skin_1/style_jairo.css?x=k1Ady" type="text/css">
     <link rel="stylesheet" href="skins/Skin_1/style_topmenu.css" type="text/css">
+    <link rel="stylesheet" href="skins/Skin_1/jquery.autocomplete.css" type="text/css">
+    
     <link rel="canonical" href="http://www.itshot.com/privacypolicy.aspx">
     <!--[if IE 6]>
     <link rel="stylesheet" href="skins/Skin_1/style_jairo_ie6.css" type="text/css" />
     <script type="text/javascript" src="skins/Skin_1/scripts/scripts_ie6.js"></script>
     <![endif]-->
     
+    
+    
+
+    <script type="text/javascript" src="skins/Skin_1/scripts/jquery-1.4.3.min.js"></script>
+
+    <script type="text/javascript" src="skins/Skin_1/scripts/jquery.autocomplete.js"></script>
 
     <script type="text/javascript" src="jscripts/formValidate.js"></script>
-    <script type="text/javascript" src="skins/Skin_1/scripts/common.js"></script>
+
+    <script type="text/javascript" src="skins/Skin_1/scripts/common.js?z=2"></script>
+
     <script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -28,7 +38,8 @@
 <meta name="robots" content="noodp,noydir">
 <link rel="icon" href="http://www.itshot.com/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.itshot.com/favicon.ico" type="image/x-icon">
-   
+  
+    
 </head>
 <body>
     
@@ -63,12 +74,7 @@
 									<font color="#AE0203">CELEBRITIES</font>
 								</a>
 							</li>
-							<li>
-								<a rel="nofollow" href="http://www.itshot.com/account.aspx">Account</a>
-							</li>
-							<li>
-								<a rel="nofollow" href="http://www.itshot.com/wishlist.aspx">Wish List</a>
-							</li>
+
 						</ul>
 					</div>
 					<div class="header-topblk-rb">
@@ -79,6 +85,9 @@
 				</div>
                     
                 </div>
+                
+                
+                
                 <div class="header-midblk">
                     <div class="mainmenu-blk">
                         <div class="mainmenu-insyd">
@@ -128,33 +137,82 @@
                             <br>
                             Jewelry
                         </a></li>
-  <li class="lastlist"><a href="http://www.itshot.com/diamond-earrings-studs-hoops-chandelier.aspx">
+  <li><a href="http://www.itshot.com/diamond-earrings-studs-hoops-chandelier.aspx">
                             Diamond
                             <br>
                             Earrings
                         </a></li>
+  <li class="lastlist"><a href="http://www.itshot.com/selling-gold/sell-gold.aspx" style="padding-left: 15px; padding-right: 10px; padding-top: 12px;">
+						    Sell Gold
+					    </a></li>
 </ul>
                             
                         </div>
                     </div>
-                    <div class="header-viewcart-blk">
-                        <div class="viewcart-l1">
-                            <div class="viewcart-l2">
-                                
-                                
-                                <a class="link-vctop" rel="nofollow" href="http://www.itshot.com/shoppingcart.aspx">
-                                    <img src="images/view_cart.gif" alt="View Cart at Itshot.com for Diamond Watches" width="85" height="23">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
+                    
                     <div class="livechat-block" id="liveChatContainer">
                         
 
+                        
+                        
+                        
+                        
                         <script type="text/javascript" language="JavaScript" src="http://www.itshot.com/absolutels/als.aspx"></script>
 
                         
                         
+                    </div>
+                </div>
+                <div class="header-midblk-b">
+                    <div class="header-search-blk">
+                        <script type="text/javascript">
+                    setupAutoComplete('#SearchBox');
+                    $(document).ready(function() {
+                        function deactivateSearchBox() {
+                            if (this == document.activeElement) return;
+                            
+                            var self = $(this);
+                            
+                            if (self.val().length == 0) {
+                                self.addClass('empty');
+                                self.val('Keyword or Item Code');
+                            }
+                        }
+                        
+                        var searchBox = $('#SearchBox');
+                        searchBox.blur(deactivateSearchBox);
+                        searchBox.focus(function() {
+                            var self = $(this);
+                            
+                            if (self.hasClass('empty')) {
+                                self.val('');
+                                self.removeClass('empty');
+                            }
+                        });
+                        deactivateSearchBox.call(searchBox);
+                    });
+                    
+                </script><span class="search-title">Search</span><form method="GET" action="search.aspx" onsubmit="return SearchForm_Validator(this)" id="SearchForm" name="SearchForm">
+  <fieldset><input type="text" id="SearchBox" class="ac-search-home ac-search empty" name="SearchTerm" size="15" value="" autocomplete="off"><input type="hidden" id="SearchTermPattern" name="SearchTermPattern" value=""><input type="hidden" id="CategoryID" name="CategoryID" value=""><input type="hidden" id="rawterm" name="rawterm"><input type="submit" name="Submit" class="btn-leftfind" id="Submit1" title="Click Go to Submit" value=""></fieldset>
+</form>
+                    </div>
+                    <div class="headermcaffee-blk">
+                        <a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.itshot.com" rel="nofollow">       <img width="115" height="30" border="0" src="//images.scanalert.com/meter/www.itshot.com/32.gif" align="middle" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;">  </a>
+                    </div>
+                    <a href="shoppingcart.aspx">
+                        <div class="header-cartblk">
+                            <div class="blk-01">
+                                0
+                            </div>
+                            <div class="blk-02">
+                                View Cart<br>
+                                Checkout
+                            </div>
+                        </div>
+                    </a>
+                    <div class="header-acctblk">
+                        <a href="account.aspx">Account</a><br>
+                        <a href="wishlist.aspx">Wishlist</a>
                     </div>
                 </div>
                 <div class="headed-btmblk">
@@ -167,7 +225,8 @@
                     <div id="LeftPanelArea" class="leftpanel-area">
                         <div class="shippingmsg-blk">
                             <a href="http://www.itshot.com/jewelry-free-shipping.aspx">FREE SHIPPING</a><br>
-                            <a href="http://www.itshot.com/wholesale-jewelry-watches-returns.aspx">30 DAY RETURNS</a>
+                            <a href="http://www.itshot.com/wholesale-jewelry-watches-returns.aspx">30
+                                DAY RETURNS</a>
                         </div>
                         <div class="leftcat-blk">
                             
@@ -190,47 +249,7 @@
       <li style="display: none;"><a id="leftCategoryLink_20" href="http://www.itshot.com/iced-out-watches-icetime.aspx" onclick="window.setLastAccessedCategory(20, this.href);">Iced Out Watches Ice Time</a></li>
       <li style="display: none;"><a id="leftCategoryLink_47" href="http://www.itshot.com/invicta-diamond-watches.aspx" onclick="window.setLastAccessedCategory(47, this.href);">Invicta Diamond Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_52" href="http://www.itshot.com/diamond-jacob-and-co-watches.aspx" onclick="window.setLastAccessedCategory(52, this.href);">Jacob And Co Watches</a></li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_45" href="http://www.itshot.com/jojo-watches-joe-rodeo.aspx" onclick="window.setLastAccessedCategory(45, this.href);">Joe Rodeo Jojo Watches</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_434" href="http://www.itshot.com/joe-rodeo-jojo/view-all-joe-rodeo-diamond-watches.aspx" onclick="window.setLastAccessedCategory(434, this.href);">View All Joe Rodeo Watches</a></li>
-          <li><a id="leftCategoryLink_435" href="http://www.itshot.com/jojo-joe-rodeo/mens-joe-rodeo-diamond-watches.aspx" onclick="window.setLastAccessedCategory(435, this.href);">Mens Joe Rodeo Watches</a></li>
-          <li><a id="leftCategoryLink_436" href="http://www.itshot.com/jojo-joe-rodeo/womens-joe-rodeo-diamond-watches.aspx" onclick="window.setLastAccessedCategory(436, this.href);">Womens Joe Rodeo Watches</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_396" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-2000-diamond-watches.aspx" onclick="window.setLastAccessedCategory(396, this.href);">Joe Rodeo 2000 Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_388" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-apollo-diamond-watches.aspx" onclick="window.setLastAccessedCategory(388, this.href);">Joe Rodeo Apollo Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_415" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-beverly-diamond-watches.aspx" onclick="window.setLastAccessedCategory(415, this.href);">Joe Rodeo Beverly Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_708" href="http://www.itshot.com/jojo-joe-rodeo-watches/chelsea-diamond-watches.aspx" onclick="window.setLastAccessedCategory(708, this.href);">Joe Rodeo Chelsea Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_398" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-classic-diamond-watches.aspx" onclick="window.setLastAccessedCategory(398, this.href);">Joe Rodeo Classic Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_390" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-junior-diamond-watches.aspx" onclick="window.setLastAccessedCategory(390, this.href);">Joe Rodeo Junior Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_406" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-king-diamond-watches.aspx" onclick="window.setLastAccessedCategory(406, this.href);">Joe Rodeo King Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_420" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-madison-diamond-watches.aspx" onclick="window.setLastAccessedCategory(420, this.href);">Joe Rodeo Madison Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_404" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-manhattan-diamond-watches.aspx" onclick="window.setLastAccessedCategory(404, this.href);">Joe Rodeo Manhattan Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_418" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-marina-diamond-watches.aspx" onclick="window.setLastAccessedCategory(418, this.href);">Joe Rodeo Marina Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_397" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-master-diamond-watches.aspx" onclick="window.setLastAccessedCategory(397, this.href);">Joe Rodeo Master Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_534" href="http://www.itshot.com/joe-rodeo-watches-master-pilot.aspx" onclick="window.setLastAccessedCategory(534, this.href);">Joe Rodeo Watches - Master Pilot</a></li>
-          <li><a id="leftCategoryLink_387" href="http://www.itshot.com/joe-rodeo/joe-rodeo-masterpiece-puzzle-diamond-watches.aspx" onclick="window.setLastAccessedCategory(387, this.href);">Joe Rodeo Masterpiece Puzzle Watches</a></li>
-          <li><a id="leftCategoryLink_408" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-maximus-diamond-watches.aspx" onclick="window.setLastAccessedCategory(408, this.href);">Joe Rodeo Maximus Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_417" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-mini-heart-diamond-watches.aspx" onclick="window.setLastAccessedCategory(417, this.href);">Joe Rodeo Mini Heart Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_413" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-moving-heart-diamond-watches.aspx" onclick="window.setLastAccessedCategory(413, this.href);">Joe Rodeo Moving Heart Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_401" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-panama-diamond-watches.aspx" onclick="window.setLastAccessedCategory(401, this.href);">Joe Rodeo Panama Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_405" href="http://www.itshot.com/joe-rodeo/joe-rodeo-panter-diamond-watches.aspx" onclick="window.setLastAccessedCategory(405, this.href);">Joe Rodeo Panter Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_414" href="http://www.itshot.com/joe-rodeo/joe-rodeo-passion-diamond-watches.aspx" onclick="window.setLastAccessedCategory(414, this.href);">Joe Rodeo Passion Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_394" href="http://www.itshot.com/joe-rodeo/joe-rodeo-phantom-diamond-watches.aspx" onclick="window.setLastAccessedCategory(394, this.href);">Joe Rodeo Phantom Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_392" href="http://www.itshot.com/joe-rodeo/joe-rodeo-pilot-diamond-watches.aspx" onclick="window.setLastAccessedCategory(392, this.href);">Joe Rodeo Pilot Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_400" href="http://www.itshot.com/joe-rodeo/joe-rodeo-planet-diamond-watches.aspx" onclick="window.setLastAccessedCategory(400, this.href);">Joe Rodeo Planet Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_389" href="http://www.itshot.com/joe-rodeo/joe-rodeo-rainbow-diamond-watches.aspx" onclick="window.setLastAccessedCategory(389, this.href);">Joe Rodeo Rainbow Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_391" href="http://www.itshot.com/joe-rodeo/joe-rodeo-razor-diamond-watches.aspx" onclick="window.setLastAccessedCategory(391, this.href);">Joe Rodeo Razor Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_409" href="http://www.itshot.com/joe-rodeo/joe-rodeo-rio-diamond-watches.aspx" onclick="window.setLastAccessedCategory(409, this.href);">Joe Rodeo Rio Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_416" href="http://www.itshot.com/joe-rodeo/joe-rodeo-sahara-diamond-watches.aspx" onclick="window.setLastAccessedCategory(416, this.href);">Joe Rodeo Sahara Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_412" href="http://www.itshot.com/joe-rodeo/joe-rodeo-secret-heart-diamond-watches.aspx" onclick="window.setLastAccessedCategory(412, this.href);">Joe Rodeo Secret Heart Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_402" href="http://www.itshot.com/jojo-joe-rodeo/joe-rodeo-shapiro-diamond-watches.aspx" onclick="window.setLastAccessedCategory(402, this.href);">Joe Rodeo Shapiro Watches</a></li>
-          <li><a id="leftCategoryLink_393" href="http://www.itshot.com/joe-rodeo/joe-rodeo-trooper-diamond-watches.aspx" onclick="window.setLastAccessedCategory(393, this.href);">Joe Rodeo Trooper Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_399" href="http://www.itshot.com/joe-rodeo/joe-rodeo-tyler-diamond-watches.aspx" onclick="window.setLastAccessedCategory(399, this.href);">Joe Rodeo Tyler Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_419" href="http://www.itshot.com/joe-rodeo/joe-rodeo-valerie-diamond-watches.aspx" onclick="window.setLastAccessedCategory(419, this.href);">Joe Rodeo Valerie Diamond Watches</a></li>
-          <li><a id="leftCategoryLink_395" href="http://www.itshot.com/joe-rodeo/joe-rodeo-victory-diamond-watches.aspx" onclick="window.setLastAccessedCategory(395, this.href);">Joe Rodeo Victory Diamond Watches</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_45" href="http://www.itshot.com/jojo-watches-joe-rodeo.aspx" onclick="window.setLastAccessedCategory(45, this.href);">Joe Rodeo Jojo Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_424" href="http://www.itshot.com/diamond-watches/womens-mens-jojino-diamond-watches.aspx" onclick="window.setLastAccessedCategory(424, this.href);">JoJino Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_95" href="http://www.itshot.com/luxurman-diamond-watches.aspx" onclick="window.setLastAccessedCategory(95, this.href);">Luxurman Diamond Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_194" href="http://www.itshot.com/techno-master-watches.aspx" onclick="window.setLastAccessedCategory(194, this.href);">Techno Master Watches</a></li>
@@ -238,249 +257,77 @@
       <li style="display: none;"><a id="leftCategoryLink_82" href="http://www.itshot.com/diamond-tenakey-watches.aspx" onclick="window.setLastAccessedCategory(82, this.href);">Tenakey Diamond Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_540" href="http://www.itshot.com/mens-womens-black-diamond-watches.aspx" onclick="window.setLastAccessedCategory(540, this.href);">Black Diamond Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_384" href="http://www.itshot.com/diamond-watches/real-hip-hop-watches.aspx" onclick="window.setLastAccessedCategory(384, this.href);">Hip Hop Diamond Watches</a></li>
+      <li><a href="http://www.itshot.com/custom-watches.aspx" onclick="window.setLastAccessedCategory(44, this.href);" style="
+                                    display: none;
+                            ">Custom Watches</a></li>
     </ul>
   </li>
   <li><a id="leftCategoryLink_59" href="http://www.itshot.com/wrist-watches-mens-womens.aspx" onclick="window.setLastAccessedCategory(59, this.href);">Luxury Wrist Watches</a><ul id="leftCategoryMenu_59">
       <li style="display: none;"><a id="leftCategoryLink_556" href="http://www.itshot.com/mens-ladies-wrist-watches/activa-swiss-watches.aspx" onclick="window.setLastAccessedCategory(556, this.href);">Activa Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_557" href="http://www.itshot.com/mens-ladies-wrist-watches/angular-momentum-watches.aspx" onclick="window.setLastAccessedCategory(557, this.href);">Angular Momentum Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_558" href="http://www.itshot.com/mens-ladies-wrist-watches/aquanautic-watches.aspx" onclick="window.setLastAccessedCategory(558, this.href);">Aquanautic Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_721" href="http://www.itshot.com/mens-ladies-wrist-watches/baume-mercier-watches.aspx" onclick="window.setLastAccessedCategory(721, this.href);">Baume Mercier Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_559" href="http://www.itshot.com/mens-ladies-luxury-watches/bertolucci-watches.aspx" onclick="window.setLastAccessedCategory(559, this.href);">Bertolucci Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_49" href="http://www.itshot.com/luxury-wrist-watches/ladies-mens-breitling-watches.aspx" onclick="window.setLastAccessedCategory(49, this.href);">Breitling Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_560" href="http://www.itshot.com/mens-ladies-wrist-watches/bulova-accutron-watches.aspx" onclick="window.setLastAccessedCategory(560, this.href);">Bulova Accutron Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_198" href="http://www.itshot.com/ladies-mens-bulova-watches.aspx" onclick="window.setLastAccessedCategory(198, this.href);">Bulova Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_561" href="http://www.itshot.com/mens-ladies-wrist-watches/burett-watches.aspx" onclick="window.setLastAccessedCategory(561, this.href);">Burett Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_562" href="http://www.itshot.com/mens-ladies-wrist-watches/calvin-klein-watches.aspx" onclick="window.setLastAccessedCategory(562, this.href);">Calvin Klein Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_563" href="http://www.itshot.com/mens-ladies-wrist-watches/carrera-watches.aspx" onclick="window.setLastAccessedCategory(563, this.href);">Carrera Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_195" href="http://www.itshot.com/luxury-wrist-watches/mens-womens-ceramic-watches.aspx" onclick="window.setLastAccessedCategory(195, this.href);">Ceramic Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_203" href="http://www.itshot.com/luxury-wrist-watches/ladies-mens-chanel-watches.aspx" onclick="window.setLastAccessedCategory(203, this.href);">Chanel Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_565" href="http://www.itshot.com/mens-ladies-wrist-watches/christian-bernard-watches.aspx" onclick="window.setLastAccessedCategory(565, this.href);">Christian Bernard</a></li>
       <li style="display: none;"><a id="leftCategoryLink_197" href="http://www.itshot.com/discount-citizen-watches.aspx" onclick="window.setLastAccessedCategory(197, this.href);">Citizen Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_567" href="http://www.itshot.com/mens-ladies-wrist-watches/clerc-watches.aspx" onclick="window.setLastAccessedCategory(567, this.href);">Clerc Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_568" href="http://www.itshot.com/mens-ladies-wrist-watches/corum-watches.aspx" onclick="window.setLastAccessedCategory(568, this.href);">Corum Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_569" href="http://www.itshot.com/mens-ladies-wrist-watches/diesel-watches.aspx" onclick="window.setLastAccessedCategory(569, this.href);">Diesel Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_570" href="http://www.itshot.com/mens-ladies-wrist-watches/dkny-womens-mens-watches.aspx" onclick="window.setLastAccessedCategory(570, this.href);">DKNY Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_571" href="http://www.itshot.com/mens-ladies-wrist-watches/dolce-and-gabbana-watches.aspx" onclick="window.setLastAccessedCategory(571, this.href);">Dolce Gabbana Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_572" href="http://www.itshot.com/mens-ladies-wrist-watches/dreyfuss-watches.aspx" onclick="window.setLastAccessedCategory(572, this.href);">Dreyfuss Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_573" href="http://www.itshot.com/mens-ladies-wrist-watches/ducati-watches.aspx" onclick="window.setLastAccessedCategory(573, this.href);">Ducati Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_574" href="http://www.itshot.com/mens-ladies-luxury-watches/ebel-watches.aspx" onclick="window.setLastAccessedCategory(574, this.href);">Ebel Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_687" href="http://www.itshot.com/mens-ladies-wrist-watches/edox-watches.aspx" onclick="window.setLastAccessedCategory(687, this.href);">EDOX Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_575" href="http://www.itshot.com/mens-ladies-luxury-watches/elini-watches.aspx" onclick="window.setLastAccessedCategory(575, this.href);">Elini Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_576" href="http://www.itshot.com/mens-ladies-wrist-watches/emporio-armani-watches.aspx" onclick="window.setLastAccessedCategory(576, this.href);">Emporio Armani Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_577" href="http://www.itshot.com/mens-ladies-wrist-watches/field-and-stream-watches.aspx" onclick="window.setLastAccessedCategory(577, this.href);">Field And Stream Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_583" href="http://www.itshot.com/mens-ladies-wrist-watches/fontenay-watches.aspx" onclick="window.setLastAccessedCategory(583, this.href);">Fontenay Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_715" href="http://www.itshot.com/mens-ladies-wrist-watches/fossil-watches.aspx" onclick="window.setLastAccessedCategory(715, this.href);">Fossil Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_584" href="http://www.itshot.com/mens-ladies-wrist-watches/gevril-watches.aspx" onclick="window.setLastAccessedCategory(584, this.href);">Gevril Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_585" href="http://www.itshot.com/mens-ladies-wrist-watches/giordano-watches.aspx" onclick="window.setLastAccessedCategory(585, this.href);">Giordano Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_586" href="http://www.itshot.com/mens-ladies-wrist-watches/glam-rock-watches.aspx" onclick="window.setLastAccessedCategory(586, this.href);">Glam Rock Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_587" href="http://www.itshot.com/mens-ladies-luxury-watches/gucci-wrist-watches.aspx" onclick="window.setLastAccessedCategory(587, this.href);">Gucci Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_588" href="http://www.itshot.com/mens-ladies-wrist-watches/guess-watches.aspx" onclick="window.setLastAccessedCategory(588, this.href);">Guess Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_589" href="http://www.itshot.com/mens-ladies-wrist-watches/hugo-boss-watches.aspx" onclick="window.setLastAccessedCategory(589, this.href);">Hugo Boss Watches</a></li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_62" href="http://www.itshot.com/invicta-watches.aspx" onclick="window.setLastAccessedCategory(62, this.href);">Invicta Watches</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_625" href="http://www.itshot.com/mens-ladies-wrist-watches/all-invicta-watches.aspx" onclick="window.setLastAccessedCategory(625, this.href);">View All Invicta Watches</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_590" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-adrenaline-watches.aspx" onclick="window.setLastAccessedCategory(590, this.href);">Invicta Adrenaline Watches</a></li>
-          <li><a id="leftCategoryLink_591" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-akula-watches.aspx" onclick="window.setLastAccessedCategory(591, this.href);">Invicta Akula Watches</a></li>
-          <li><a id="leftCategoryLink_592" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-anatomic-watches.aspx" onclick="window.setLastAccessedCategory(592, this.href);">Invicta Anatomic Watches</a></li>
-          <li><a id="leftCategoryLink_593" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-angel-watches.aspx" onclick="window.setLastAccessedCategory(593, this.href);">Invicta Angel Watches</a></li>
-          <li><a id="leftCategoryLink_594" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-corduba-watches.aspx" onclick="window.setLastAccessedCategory(594, this.href);">Invicta Corduba Watches</a></li>
-          <li><a id="leftCategoryLink_596" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-force-watches.aspx" onclick="window.setLastAccessedCategory(596, this.href);">Invicta Force Watches</a></li>
-          <li><a id="leftCategoryLink_597" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-invicta-ii-watches.aspx" onclick="window.setLastAccessedCategory(597, this.href);">Invicta Invicta II Watches</a></li>
-          <li><a id="leftCategoryLink_598" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-is410-watches.aspx" onclick="window.setLastAccessedCategory(598, this.href);">Invicta IS410 Watches</a></li>
-          <li><a id="leftCategoryLink_599" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-lupah-watches.aspx" onclick="window.setLastAccessedCategory(599, this.href);">Invicta Lupah Watches</a></li>
-          <li><a id="leftCategoryLink_600" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-ocean-quest-watches.aspx" onclick="window.setLastAccessedCategory(600, this.href);">Invicta Ocean Quest Watches</a></li>
-          <li><a id="leftCategoryLink_601" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-pro-diver-watches.aspx" onclick="window.setLastAccessedCategory(601, this.href);">Invicta Pro Diver Watches</a></li>
-          <li><a id="leftCategoryLink_602" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-reserve-watches.aspx" onclick="window.setLastAccessedCategory(602, this.href);">Invicta Reserve Watches</a></li>
-          <li><a id="leftCategoryLink_716" href="http://www.itshot.com/invicta-watches/russian-diver-watches.aspx" onclick="window.setLastAccessedCategory(716, this.href);">Invicta Russian Diver Watches</a></li>
-          <li><a id="leftCategoryLink_603" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-s1-watches.aspx" onclick="window.setLastAccessedCategory(603, this.href);">Invicta S1 Watches</a></li>
-          <li><a id="leftCategoryLink_606" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-sea-spider-watches.aspx" onclick="window.setLastAccessedCategory(606, this.href);">Invicta Sea Spider Watches</a></li>
-          <li><a id="leftCategoryLink_607" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-signature-watches.aspx" onclick="window.setLastAccessedCategory(607, this.href);">Invicta Signature Watches</a></li>
-          <li><a id="leftCategoryLink_608" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-slim-artist-watches.aspx" onclick="window.setLastAccessedCategory(608, this.href);">Invicta Slim Artist Watches</a></li>
-          <li><a id="leftCategoryLink_609" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-specialty-watches.aspx" onclick="window.setLastAccessedCategory(609, this.href);">Invicta Specialty Watches</a></li>
-          <li><a id="leftCategoryLink_611" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-speedway-ii-watches.aspx" onclick="window.setLastAccessedCategory(611, this.href);">Invicta Speedway II Watches</a></li>
-          <li><a id="leftCategoryLink_612" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-speedway-lx-watches.aspx" onclick="window.setLastAccessedCategory(612, this.href);">Invicta Speedway LX Watches</a></li>
-          <li><a id="leftCategoryLink_610" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-speedway-watches.aspx" onclick="window.setLastAccessedCategory(610, this.href);">Invicta Speedway Watches</a></li>
-          <li><a id="leftCategoryLink_613" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-square-watches.aspx" onclick="window.setLastAccessedCategory(613, this.href);">Invicta Square Watches</a></li>
-          <li><a id="leftCategoryLink_614" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-subaqua-watches.aspx" onclick="window.setLastAccessedCategory(614, this.href);">Invicta Subaqua Watches</a></li>
-          <li><a id="leftCategoryLink_615" href="http://www.itshot.com/mens-ladies-wrist-watches/invicta-wildflower-watches.aspx" onclick="window.setLastAccessedCategory(615, this.href);">Invicta Wildflower Watches</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_62" href="http://www.itshot.com/invicta-watches.aspx" onclick="window.setLastAccessedCategory(62, this.href);">Invicta Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_616" href="http://www.itshot.com/mens-ladies-wrist-watches/jacques-lemans-watches.aspx" onclick="window.setLastAccessedCategory(616, this.href);">Jacques Lemans Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_617" href="http://www.itshot.com/mens-ladies-wrist-watches/locman-watches-italy.aspx" onclick="window.setLastAccessedCategory(617, this.href);">Locman Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_618" href="http://www.itshot.com/mens-ladies-wrist-watches/marc-jacobs-watches.aspx" onclick="window.setLastAccessedCategory(618, this.href);">Marc Jacobs Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_439" href="http://www.itshot.com/mens-ladies-luxury-watches/maurice-lacroix-watches.aspx" onclick="window.setLastAccessedCategory(439, this.href);">Maurice Lacroix Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_619" href="http://www.itshot.com/mens-ladies-wrist-watches/michael-kors-watches.aspx" onclick="window.setLastAccessedCategory(619, this.href);">Michael Kors Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_200" href="http://www.itshot.com/mens-womens-michele-watches.aspx" onclick="window.setLastAccessedCategory(200, this.href);">Michele Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_50" href="http://www.itshot.com/mens-ladies-luxury-watches/movado-wrist-watches.aspx" onclick="window.setLastAccessedCategory(50, this.href);">Movado Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_621" href="http://www.itshot.com/mens-ladies-wrist-watches/nautica-watches.aspx" onclick="window.setLastAccessedCategory(621, this.href);">Nautica Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_622" href="http://www.itshot.com/mens-ladies-wrist-watches/nexus-watches.aspx" onclick="window.setLastAccessedCategory(622, this.href);">Nexus Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_623" href="http://www.itshot.com/mens-ladies-wrist-watches/officina-del-tempo-watches.aspx" onclick="window.setLastAccessedCategory(623, this.href);">Officina Del Tempo Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_624" href="http://www.itshot.com/mens-ladies-luxury-watches/oris-watches.aspx" onclick="window.setLastAccessedCategory(624, this.href);">Oris Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_431" href="http://www.itshot.com/glycine-watches-for-sale.aspx" onclick="window.setLastAccessedCategory(431, this.href);">Glycine Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_627" href="http://www.itshot.com/mens-ladies-wrist-watches/philippe-starck-watches.aspx" onclick="window.setLastAccessedCategory(627, this.href);">Philippe Starck Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_629" href="http://www.itshot.com/mens-ladies-wrist-watches/pulsar-watches.aspx" onclick="window.setLastAccessedCategory(629, this.href);">Pulsar Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_631" href="http://www.itshot.com/mens-ladies-wrist-watches/raymond-weil-watches.aspx" onclick="window.setLastAccessedCategory(631, this.href);">Raymond Weil Watches</a></li>
+      <li style="display: none;"><a id="leftCategoryLink_630" href="http://www.itshot.com/mens-ladies-wrist-watches/puma-watches.aspx" onclick="window.setLastAccessedCategory(630, this.href);">Puma Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_386" href="http://www.itshot.com/luxury-wrist-watches/mens-ladies-rolex-watches.aspx" onclick="window.setLastAccessedCategory(386, this.href);">Rolex Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_632" href="http://www.itshot.com/mens-ladies-wrist-watches/rotary-gents-ladies-watches.aspx" onclick="window.setLastAccessedCategory(632, this.href);">Rotary Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_633" href="http://www.itshot.com/mens-ladies-luxury-watches/salvatore-ferragamo-watches.aspx" onclick="window.setLastAccessedCategory(633, this.href);">Salvatore Ferragamo Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_199" href="http://www.itshot.com/sector-watches-swiss.aspx" onclick="window.setLastAccessedCategory(199, this.href);">Sector Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_634" href="http://www.itshot.com/mens-ladies-wrist-watches/seiko-watches.aspx" onclick="window.setLastAccessedCategory(634, this.href);">Seiko Watches</a></li>
       <li style="display: none;"><a id="leftCategoryLink_639" href="http://www.itshot.com/mens-ladies-wrist-watches/swiss-legend-watches.aspx" onclick="window.setLastAccessedCategory(639, this.href);">Swiss Legend Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_640" href="http://www.itshot.com/mens-ladies-wrist-watches/swiss-watch-international-swi.aspx" onclick="window.setLastAccessedCategory(640, this.href);">Swiss Watch International</a></li>
       <li style="display: none;"><a id="leftCategoryLink_196" href="http://www.itshot.com/mens-womens-technomarine-watches.aspx" onclick="window.setLastAccessedCategory(196, this.href);">Technomarine Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_722" href="http://www.itshot.com/mens-ladies-wrist-watches/tissot-watches.aspx" onclick="window.setLastAccessedCategory(722, this.href);">Tissot Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_643" href="http://www.itshot.com/mens-ladies-wrist-watches/triumph-motorcycles-watches.aspx" onclick="window.setLastAccessedCategory(643, this.href);">Triumph Watches Motorcycles</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_644" href="http://www.itshot.com/mens-ladies-wrist-watches/versus-watches.aspx" onclick="window.setLastAccessedCategory(644, this.href);">Versus Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_646" href="http://www.itshot.com/mens-ladies-wrist-watches/wittnauer-watches.aspx" onclick="window.setLastAccessedCategory(646, this.href);">Wittnauer Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_717" href="http://www.itshot.com/mens-ladies-wrist-watches/wyler-watches.aspx" onclick="window.setLastAccessedCategory(717, this.href);">Wyler Watches</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_686" href="http://www.itshot.com/c-686-invicta-jewelry.aspx" onclick="window.setLastAccessedCategory(686, this.href);">Invicta Jewelry</a></li>
+      <li style="display: none;"><a id="leftCategoryLink_746" href="http://www.itshot.com/mens-ladies-luxury-watches/valentino-wrist-watches.aspx" onclick="window.setLastAccessedCategory(746, this.href);">Valentino Watches</a></li>
+      <li style="display: none;"><a id="leftCategoryLink_686" href="http://www.itshot.com/.aspx" onclick="window.setLastAccessedCategory(686, this.href);">Invicta Jewelry</a></li>
     </ul>
   </li>
   <li><a id="leftCategoryLink_693" href="http://www.itshot.com/watch-accessories.aspx" onclick="window.setLastAccessedCategory(693, this.href);">Watch Accessories</a><ul id="leftCategoryMenu_693">
       <li style="display: none;"><a id="leftCategoryLink_709" href="http://www.itshot.com/automatic-watch-winders.aspx" onclick="window.setLastAccessedCategory(709, this.href);">Automatic Watch Winders</a></li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_440" href="http://www.itshot.com/replacement-watch-bands.aspx" onclick="window.setLastAccessedCategory(440, this.href);">Replacement Watch Bands</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_445" href="http://www.itshot.com/replacement-watch-bands/joe-rodeo-14mm-straps.aspx" onclick="window.setLastAccessedCategory(445, this.href);">14mm Joe Rodeo Watch Bands</a></li>
-          <li><a id="leftCategoryLink_451" href="http://www.itshot.com/replacement-watch-bands/joe-rodeo-16mm-straps.aspx" onclick="window.setLastAccessedCategory(451, this.href);">16mm Joe Rodeo Watch Bands</a></li>
-          <li><a id="leftCategoryLink_461" href="http://www.itshot.com/replacement-watch-bands/benny-co-20mm-straps.aspx" onclick="window.setLastAccessedCategory(461, this.href);">20mm Benny &amp; Co Watch Bands</a></li>
-          <li><a id="leftCategoryLink_463" href="http://www.itshot.com/replacement-watch-bands/joe-rodeo-20mm-straps.aspx" onclick="window.setLastAccessedCategory(463, this.href);">20mm Joe Rodeo Watch Bands</a></li>
-          <li><a id="leftCategoryLink_469" href="http://www.itshot.com/replacement-watch-bands/joe-rodeo-22mm-straps.aspx" onclick="window.setLastAccessedCategory(469, this.href);">22mm Joe Rodeo Watch Bands</a></li>
-          <li><a id="leftCategoryLink_475" href="http://www.itshot.com/replacement-watch-bands/joe-rodeo-24mm-straps.aspx" onclick="window.setLastAccessedCategory(475, this.href);">24mm Joe Rodeo Watch Bands</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_440" href="http://www.itshot.com/replacement-watch-bands.aspx" onclick="window.setLastAccessedCategory(440, this.href);">Replacement Watch Bands</a></li>
     </ul>
   </li>
   <li>
     <div class="menu-line">&nbsp;</div>
   </li>
   <li><a id="leftCategoryLink_2" href="http://www.itshot.com/mens-diamond-jewelry.aspx" onclick="window.setLastAccessedCategory(2, this.href);">Mens Diamond Jewelry</a><ul id="leftCategoryMenu_2">
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_3" href="http://www.itshot.com/mens-diamond-jewelry/mens-diamond-gold-rings.aspx" onclick="window.setLastAccessedCategory(3, this.href);">Men's Diamond Rings</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_98" href="http://www.itshot.com/mens-diamond-jewelry-rings/all-mens-diamond-gold-rings.aspx" onclick="window.setLastAccessedCategory(98, this.href);">View All Men's Diamond Rings</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_322" href="http://www.itshot.com/mens-diamond-jewelry-rings/10k-gold-mens-diamond-rings.aspx" onclick="window.setLastAccessedCategory(322, this.href);">10k Gold Men's Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_290" href="http://www.itshot.com/mens-diamond-jewelry-rings/14k-gold-mens-diamond-rings.aspx" onclick="window.setLastAccessedCategory(290, this.href);">14k Gold Men's Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_244" href="http://www.itshot.com/mens-diamond-jewelry-rings/18k-gold-mens-diamond-rings.aspx" onclick="window.setLastAccessedCategory(244, this.href);">18k Gold Mens Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_259" href="http://www.itshot.com/mens-diamond-jewelry-rings/mens-diamond-platinum-rings.aspx" onclick="window.setLastAccessedCategory(259, this.href);">Men's Diamond Platinum Rings</a></li>
-          <li><a id="leftCategoryLink_337" href="http://www.itshot.com/mens-diamond-jewelry-rings/mens-black-yellow-blue-diamond-rings.aspx" onclick="window.setLastAccessedCategory(337, this.href);">Men's Fancy Color Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_205" href="http://www.itshot.com/mens-black-onyx-gold-rings.aspx" onclick="window.setLastAccessedCategory(205, this.href);">Mens Black Onyx Gold Rings</a></li>
-          <li><a id="leftCategoryLink_519" onclick="window.setLastAccessedCategory(519, this.href);" href="http://www.itshot.com/mens-diamond-wedding-rings.aspx">Men's Diamond Wedding Rings/Bands</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_3" href="http://www.itshot.com/mens-diamond-jewelry/mens-diamond-gold-rings.aspx" onclick="window.setLastAccessedCategory(3, this.href);">Men's Diamond Rings</a></li>
       <li style="display: none;"><a id="leftCategoryLink_4" href="http://www.itshot.com/mens-diamond-jewelry/mens-diamond-gold-earrings-studs.aspx" onclick="window.setLastAccessedCategory(4, this.href);">Men's Diamond Earrings</a></li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_5" href="http://www.itshot.com/mens-diamond-jewelry/mens-diamond-gold-bracelets.aspx" onclick="window.setLastAccessedCategory(5, this.href);">Men's Diamond Bracelets</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_352" href="http://www.itshot.com/mens-diamond-jewelry-bracelets/all-mens-diamond-bracelets.aspx" onclick="window.setLastAccessedCategory(352, this.href);">View All Men's Diamond Bracelets</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_346" href="http://www.itshot.com/mens-diamond-jewelry-bracelets/mens-gold-white-diamond-bracelets.aspx" onclick="window.setLastAccessedCategory(346, this.href);">Men's White Diamond Bracelets</a></li>
-          <li><a id="leftCategoryLink_339" href="http://www.itshot.com/mens-diamond-jewelry-bracelets/mens-black-yellow-diamond-bracelets.aspx" onclick="window.setLastAccessedCategory(339, this.href);">Men's Color Diamond Bracelets</a></li>
-        </ul>
-      </li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_6" href="http://www.itshot.com/mens-diamond-jewelry/mens-diamond-gold-pendants.aspx" onclick="window.setLastAccessedCategory(6, this.href);">Men's Diamond Pendants</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_353" href="http://www.itshot.com/mens-diamond-pendants/all-mens-diamond-pendants.aspx" onclick="window.setLastAccessedCategory(353, this.href);">View All Mens Diamond Pendants</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_526" onclick="window.setLastAccessedCategory(526, this.href);" href="http://www.itshot.com/diamond-crosses-necklaces/mens-diamond-cross-pendants.aspx">Mens Diamond Cross Pendants</a></li>
-          <li><a id="leftCategoryLink_529" onclick="window.setLastAccessedCategory(529, this.href);" href="http://www.itshot.com/gold-diamond-dog-tags.aspx">Diamond Dog Tag Pendants</a></li>
-          <li><a id="leftCategoryLink_528" onclick="window.setLastAccessedCategory(528, this.href);" href="http://www.itshot.com/womens-mens-diamond-pendants/gold-diamond-initial-necklaces-pendants.aspx">Diamond Initial Pendants</a></li>
-          <li><a id="leftCategoryLink_531" onclick="window.setLastAccessedCategory(531, this.href);" href="http://www.itshot.com/diamond-gold-pendants/gold-diamond-jesus-piece-face-pendants.aspx">Diamond Jesus Piece Pendants</a></li>
-          <li><a id="leftCategoryLink_533" onclick="window.setLastAccessedCategory(533, this.href);" href="http://www.itshot.com/diamond-gold-pendants/mens-fancy-color-diamond-pendants.aspx">Mens Color Diamond Pendants</a></li>
-          <li><a id="leftCategoryLink_530" onclick="window.setLastAccessedCategory(530, this.href);" href="http://www.itshot.com/diamond-gold-pendants/ladies-mens-unique-diamond-pendants.aspx">Unique Diamond Pendants</a></li>
-          <li><a id="leftCategoryLink_532" onclick="window.setLastAccessedCategory(532, this.href);" href="http://www.itshot.com/diamond-gold-pendants/other-mens-diamond-pendants.aspx">Other Mens Diamond Pendants</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_5" href="http://www.itshot.com/mens-diamond-jewelry/mens-diamond-gold-bracelets.aspx" onclick="window.setLastAccessedCategory(5, this.href);">Men's Diamond Bracelets</a></li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_6" href="http://www.itshot.com/mens-diamond-jewelry/mens-diamond-gold-pendants.aspx" onclick="window.setLastAccessedCategory(6, this.href);">Men's Diamond Pendants</a></li>
       <li style="display: none;"><a id="leftCategoryLink_7" href="http://www.itshot.com/mens-diamond-jewelry/mens-diamond-gold-chains-necklaces.aspx" onclick="window.setLastAccessedCategory(7, this.href);">Men's Diamond Chains/Necklaces</a></li>
       <li style="display: none;"><a id="leftCategoryLink_294" href="http://www.itshot.com/gold-rosaries/gold-diamond-rosary-beads-necklaces.aspx" onclick="window.setLastAccessedCategory(294, this.href);">Gold Rosary Necklaces</a></li>
       <li style="display: none;"><a id="leftCategoryLink_35" href="http://www.itshot.com/mens-10k-14k-gold-chains/white-yellow-rose-gold-chain-necklaces.aspx" onclick="window.setLastAccessedCategory(35, this.href);">Plain Gold Necklaces Chains</a></li>
       <li style="display: none;"><a id="leftCategoryLink_79" href="http://www.itshot.com/mens-diamond-designer-cufflinks.aspx" onclick="window.setLastAccessedCategory(79, this.href);">Diamond Designer Cufflinks</a></li>
+      <li><a href="http://www.itshot.com/custom-jewelry.aspx" onclick="window.setLastAccessedCategory(2, this.href);" style="
+                                    display: none;
+                            ">Custom Jewelry</a></li>
     </ul>
   </li>
   <li><a id="leftCategoryLink_8" href="http://www.itshot.com/womens-jewelry.aspx" onclick="window.setLastAccessedCategory(8, this.href);">Women's Diamond Jewelry</a><ul id="leftCategoryMenu_8">
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_9" href="http://www.itshot.com/womens-diamond-gold-rings.aspx" onclick="window.setLastAccessedCategory(9, this.href);">Women's Diamond Rings</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_354" href="http://www.itshot.com/womens-diamond-rings/all-ladies-gold-diamond-rings.aspx" onclick="window.setLastAccessedCategory(354, this.href);">View All Ladies Rings</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_279" href="http://www.itshot.com/womens-diamond-rings/gold-diamond-heart-rings.aspx" onclick="window.setLastAccessedCategory(279, this.href);">Diamond Heart Rings</a></li>
-          <li><a id="leftCategoryLink_276" href="http://www.itshot.com/womens-diamond-rings/gold-diamond-cluster-rings.aspx" onclick="window.setLastAccessedCategory(276, this.href);">Diamond Cluster Rings</a></li>
-          <li><a id="leftCategoryLink_10" href="http://www.itshot.com/diamond-right-hand-rings.aspx" onclick="window.setLastAccessedCategory(10, this.href);">Right Hand Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_277" href="http://www.itshot.com/womens-diamond-rings/gold-diamond-promise-rings.aspx" onclick="window.setLastAccessedCategory(277, this.href);">Diamond Promise Rings</a></li>
-          <li><a id="leftCategoryLink_40" href="http://www.itshot.com/diamond-cocktail-fashion-rings.aspx" onclick="window.setLastAccessedCategory(40, this.href);">Diamond Cocktail/Fashion Rings</a></li>
-          <li><a id="leftCategoryLink_521" onclick="window.setLastAccessedCategory(521, this.href);" href="http://www.itshot.com/journey-diamond-jewelry/ladies-journey-diamond-rings.aspx">Journey Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_278" href="http://www.itshot.com/gemstone-jewelry/ladies-gemstone-diamond-rings.aspx" onclick="window.setLastAccessedCategory(278, this.href);">Gemstone Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_522" onclick="window.setLastAccessedCategory(522, this.href);" href="http://www.itshot.com/&#10;pearl-jewelry/gold-fine-diamond-pearl-rings.aspx">Diamond Pearl Ring</a></li>
-          <li><a id="leftCategoryLink_295" href="http://www.itshot.com/womens-diamond-rings/ladies-fancy-color-diamond-rings.aspx" onclick="window.setLastAccessedCategory(295, this.href);">Ladies Fancy Color Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_288" href="http://www.itshot.com/womens-diamond-rings/other-ladies-gold-diamond-rings.aspx" onclick="window.setLastAccessedCategory(288, this.href);">Other Ladies Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_245" href="http://www.itshot.com/womens-diamond-rings/ladies-18k-gold-diamond-rings.aspx" onclick="window.setLastAccessedCategory(245, this.href);">Ladies 18K Gold Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_260" href="http://www.itshot.com/womens-diamond-rings/ladies-platinum-diamond-rings.aspx" onclick="window.setLastAccessedCategory(260, this.href);">Ladies Platinum Diamond Rings</a></li>
-        </ul>
-      </li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_12" href="http://www.itshot.com/diamond-gold-tennis-bracelets-bangles.aspx" onclick="window.setLastAccessedCategory(12, this.href);">Ladies Diamond Bracelets</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_355" href="http://www.itshot.com/ladies-diamond-bracelets/all-ladies-gold-diamond-bracelets.aspx" onclick="window.setLastAccessedCategory(355, this.href);">View All Ladies Bracelets</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_64" href="http://www.itshot.com/diamond-tennis-bracelets.aspx" onclick="window.setLastAccessedCategory(64, this.href);">Diamond Tennis Bracelets</a></li>
-          <li><a id="leftCategoryLink_281" href="http://www.itshot.com/ladies-diamond-bracelets/womens-gold-diamond-bangle-bracelets.aspx" onclick="window.setLastAccessedCategory(281, this.href);">Diamond Bangle Bracelets</a></li>
-          <li><a id="leftCategoryLink_283" href="http://www.itshot.com/ladies-diamond-bracelets/other-womens-gold-diamond-bracelets.aspx" onclick="window.setLastAccessedCategory(283, this.href);">Other Diamond Bracelet</a></li>
-          <li><a id="leftCategoryLink_282" href="http://www.itshot.com/gemstone-jewelry/gemstone-gold-diamond-bracelets.aspx" onclick="window.setLastAccessedCategory(282, this.href);">Gemstone Diamond Bracelet</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_9" href="http://www.itshot.com/womens-diamond-gold-rings.aspx" onclick="window.setLastAccessedCategory(9, this.href);">Women's Diamond Rings</a></li>
+      <li style="display: none;"><a id="leftCategoryLink_749" onclick="window.setLastAccessedCategory(749, this.href);" href="http://www.itshot.com/diamond-earrings-studs-hoops-chandelier.aspx">Diamond Earrings</a></li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_12" href="http://www.itshot.com/diamond-gold-tennis-bracelets-bangles.aspx" onclick="window.setLastAccessedCategory(12, this.href);">Ladies Diamond Bracelets</a></li>
       <li style="display: none;"><a id="leftCategoryLink_14" href="http://www.itshot.com/gold-diamond-necklaces.aspx" onclick="window.setLastAccessedCategory(14, this.href);">Ladies Diamond Necklaces</a></li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_13" href="http://www.itshot.com/womens-diamond-jewelry/diamond-gold-pendants-hearts-crosses.aspx" onclick="window.setLastAccessedCategory(13, this.href);">Ladies Diamond Pendants</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_356" href="http://www.itshot.com/ladies-diamond-pendants/all-womens-gold-diamond-pendants.aspx" onclick="window.setLastAccessedCategory(356, this.href);">View Ladies Diamond Pendants</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_508" onclick="window.setLastAccessedCategory(508, this.href);" href="http://www.itshot.com/womens-diamond-jewelry/diamond-gold-heart-shaped-pendants.aspx">Diamond Heart Pendants</a></li>
-          <li><a id="leftCategoryLink_510" onclick="window.setLastAccessedCategory(510, this.href);" href="http://www.itshot.com/ladies-diamond-pendants/gold-diamond-key-pendants-necklaces.aspx">Diamond Key Pendants</a></li>
-          <li><a id="leftCategoryLink_523" onclick="window.setLastAccessedCategory(523, this.href);" href="http://www.itshot.com/journey-diamond-jewelry/journey-diamond-pendants-necklaces.aspx">Journey Diamond Pendant Necklaces</a></li>
-          <li><a id="leftCategoryLink_509" onclick="window.setLastAccessedCategory(509, this.href);" href="http://www.itshot.com/ladies-diamond-pendants/gold-diamond-circle-pendants-necklaces.aspx">Diamond Circle Pendants</a></li>
-          <li><a id="leftCategoryLink_512" onclick="window.setLastAccessedCategory(512, this.href);" href="http://www.itshot.com/ladies-diamond-pendants/gold-diamond-flower-pendants-necklaces.aspx">Diamond Flower Necklaces</a></li>
-          <li><a id="leftCategoryLink_517" onclick="window.setLastAccessedCategory(517, this.href);" href="http://www.itshot.com/diamond-crosses-necklaces/womens-childrens-diamond-cross-pendants.aspx">Ladies Diamond Cross Pendants</a></li>
-          <li><a id="leftCategoryLink_515" onclick="window.setLastAccessedCategory(515, this.href);" href="http://www.itshot.com/ladies-diamond-pendants/ladies-18k-gold-diamond-pendants-necklaces.aspx">18k Gold Diamond Pendants</a></li>
-          <li><a id="leftCategoryLink_513" onclick="window.setLastAccessedCategory(513, this.href);" href="http://www.itshot.com/womens-mens-diamond-pendants/gold-diamond-initial-necklaces-pendants.aspx">Gold Diamond Initial Pendants</a></li>
-          <li><a id="leftCategoryLink_514" onclick="window.setLastAccessedCategory(514, this.href);" href="http://www.itshot.com/gold-diamond-dog-tags.aspx">Diamond Dog Tags Pendant</a></li>
-          <li><a id="leftCategoryLink_524" onclick="window.setLastAccessedCategory(524, this.href);" href="http://www.itshot.com/&#10;pearl-jewelry/gold-fine-diamond-pearl-pendants.aspx">Pearl Diamond Pendants</a></li>
-          <li><a id="leftCategoryLink_520" onclick="window.setLastAccessedCategory(520, this.href);" href="http://www.itshot.com/&#10;diamond-gold-pendants/womens-fancy-color-diamond-pendants-necklaces.aspx">Ladies Color Diamond Pendants</a></li>
-          <li><a id="leftCategoryLink_516" onclick="window.setLastAccessedCategory(516, this.href);" href="http://www.itshot.com/ladies-diamond-pendants/other-womens-diamond-pendants-necklaces.aspx">Other Diamond Pendants</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_13" href="http://www.itshot.com/womens-diamond-jewelry/diamond-gold-pendants-hearts-crosses.aspx" onclick="window.setLastAccessedCategory(13, this.href);">Ladies Diamond Pendants</a></li>
       <li style="display: none;"><a id="leftCategoryLink_81" href="http://www.itshot.com/wholesale-fine-gemstone-jewelry.aspx" onclick="window.setLastAccessedCategory(81, this.href);">Fine Gemstone Jewelry</a></li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_78" href="http://www.itshot.com/gold-diamond-body-jewelry.aspx" onclick="window.setLastAccessedCategory(78, this.href);">Gold Diamond Body Jewelry</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_360" href="http://www.itshot.com/gold-diamond-body-jewelry/all-real-gold-diamond-body-jewelry.aspx" onclick="window.setLastAccessedCategory(360, this.href);">View All Diamond Body Jewelry</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_323" href="http://www.itshot.com/gold-diamond-body-jewelry/gold-diamond-belly-button-rings.aspx" onclick="window.setLastAccessedCategory(323, this.href);">Gold Diamond Belly Rings</a></li>
-          <li><a id="leftCategoryLink_324" href="http://www.itshot.com/gold-diamond-body-jewelry/real-gold-diamond-toe-rings.aspx" onclick="window.setLastAccessedCategory(324, this.href);">Gold Diamond Toe Rings</a></li>
-        </ul>
-      </li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_41" href="http://www.itshot.com/diamond-jewelry-journey-collection.aspx" onclick="window.setLastAccessedCategory(41, this.href);">Journey Diamond Jewelry</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_359" href="http://www.itshot.com/journey-diamond-jewelry/all-gold-diamond-journey-jewelry-collection.aspx" onclick="window.setLastAccessedCategory(359, this.href);">View All Journey Diamond Jewelry</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_506" onclick="window.setLastAccessedCategory(506, this.href);" href="http://www.itshot.com/journey-diamond-jewelry/gold-journey-diamond-earrings.aspx">Journey Diamond Earrings</a></li>
-          <li><a id="leftCategoryLink_285" href="http://www.itshot.com/journey-diamond-jewelry/journey-diamond-pendants-necklaces.aspx" onclick="window.setLastAccessedCategory(285, this.href);">Journey Diamond Pendant Necklaces</a></li>
-          <li><a id="leftCategoryLink_300" href="http://www.itshot.com/journey-diamond-jewelry/ladies-journey-diamond-rings.aspx" onclick="window.setLastAccessedCategory(300, this.href);">Journey Diamond Rings</a></li>
-        </ul>
-      </li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_65" href="http://www.itshot.com/south-sea-pearl-diamond-jewelry.aspx" onclick="window.setLastAccessedCategory(65, this.href);">Pearl Diamond Jewelry</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_358" href="http://www.itshot.com/pearl-jewelry/all-gold-fine-pearl-diamond-jewelry.aspx" onclick="window.setLastAccessedCategory(358, this.href);">View All Pearl Diamond Jewelry</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_299" href="http://www.itshot.com/pearl-jewelry/gold-fine-diamond-pearl-rings.aspx" onclick="window.setLastAccessedCategory(299, this.href);">Diamond Pearl Rings</a></li>
-          <li><a id="leftCategoryLink_235" href="http://www.itshot.com/pearl-jewelry/gold-fine-diamond-pearl-earrings.aspx" onclick="window.setLastAccessedCategory(235, this.href);">Diamond Pearl Earrings</a></li>
-          <li><a id="leftCategoryLink_518" onclick="window.setLastAccessedCategory(518, this.href);" href="http://www.itshot.com/&#10;pearl-jewelry/gold-fine-diamond-pearl-pendants.aspx">Diamond Pearl Pendants</a></li>
-          <li><a id="leftCategoryLink_301" href="http://www.itshot.com/pearl-jewelry/gold-fine-diamond-pearl-necklaces.aspx" onclick="window.setLastAccessedCategory(301, this.href);">Diamond Pearl Necklaces</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_78" href="http://www.itshot.com/gold-diamond-body-jewelry.aspx" onclick="window.setLastAccessedCategory(78, this.href);">Gold Diamond Body Jewelry</a></li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_41" href="http://www.itshot.com/diamond-jewelry-journey-collection.aspx" onclick="window.setLastAccessedCategory(41, this.href);">Journey Diamond Jewelry</a></li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_65" href="http://www.itshot.com/south-sea-pearl-diamond-jewelry.aspx" onclick="window.setLastAccessedCategory(65, this.href);">Pearl Diamond Jewelry</a></li>
+      <li><a href="http://www.itshot.com/custom-jewelry.aspx" onclick="window.setLastAccessedCategory(8, this.href);" style="
+                                    display: none;
+                            ">Custom Jewelry</a></li>
     </ul>
   </li>
   <li><a id="leftCategoryLink_23" href="http://www.itshot.com/childrens-gold-diamond-jewelry.aspx" onclick="window.setLastAccessedCategory(23, this.href);">Diamond Children's Jewelry</a></li>
@@ -488,33 +335,11 @@
     <div class="menu-line">&nbsp;</div>
   </li>
   <li><a id="leftCategoryLink_11" href="http://www.itshot.com/diamond-earrings-studs-hoops-chandelier.aspx" onclick="window.setLastAccessedCategory(11, this.href);">Gold Diamond Earrings</a><ul id="leftCategoryMenu_11">
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_87" href="http://www.itshot.com/diamond-stud-earrings.aspx" onclick="window.setLastAccessedCategory(87, this.href);">Diamond Stud Earrings</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_541" href="http://www.itshot.com/ladies-mens-diamond-stud-earrings/all-diamond-stud-earrings.aspx" onclick="window.setLastAccessedCategory(541, this.href);">View All Diamond Stud Earrings</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_238" href="http://www.itshot.com/ladies-mens-diamond-stud-earrings/gold-diamond-solitaire-earrings.aspx" onclick="window.setLastAccessedCategory(238, this.href);">Diamond Solitaire Earrings</a></li>
-          <li><a id="leftCategoryLink_345" href="http://www.itshot.com/ladies-mens-diamond-stud-earrings/solitaire-with-accents-earrings.aspx" onclick="window.setLastAccessedCategory(345, this.href);">Solitaire With Accents Earrings</a></li>
-          <li><a id="leftCategoryLink_89" href="http://www.itshot.com/ladies-mens-diamond-stud-earrings/gold-diamond-cluster-earrings.aspx" onclick="window.setLastAccessedCategory(89, this.href);">Diamond Cluster Earrings</a></li>
-          <li><a id="leftCategoryLink_344" href="http://www.itshot.com/ladies-mens-diamond-stud-earrings/gold-princess-cut-diamond-earrings.aspx" onclick="window.setLastAccessedCategory(344, this.href);">Princess Cut Diamond Earrings</a></li>
-          <li><a id="leftCategoryLink_332" href="http://www.itshot.com/ladies-mens-diamond-stud-earrings/gold-pave-diamond-earrings.aspx" onclick="window.setLastAccessedCategory(332, this.href);">Pave Diamond Stud Earrings</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_87" href="http://www.itshot.com/diamond-stud-earrings.aspx" onclick="window.setLastAccessedCategory(87, this.href);">Diamond Stud Earrings</a></li>
       <li style="display: none;"><a id="leftCategoryLink_504" onclick="window.setLastAccessedCategory(504, this.href);" href="http://www.itshot.com/mens-diamond-jewelry/mens-diamond-gold-earrings-studs.aspx">Mens Diamond Earrings</a></li>
       <li style="display: none;"><a id="leftCategoryLink_88" href="http://www.itshot.com/diamond-earrings/gold-diamond-hoop-earrings.aspx" onclick="window.setLastAccessedCategory(88, this.href);">Diamond Hoop Earrings</a></li>
       <li style="display: none;"><a id="leftCategoryLink_432" href="http://www.itshot.com/diamond-earrings/gold-diamond-earrings-huggies.aspx" onclick="window.setLastAccessedCategory(432, this.href);">Diamond Huggie Earrings</a></li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_233" href="http://www.itshot.com/diamond-earrings/black-blue-yellow-pink-chocolate-diamond-earrings.aspx" onclick="window.setLastAccessedCategory(233, this.href);">Color Diamond Earrings</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_362" href="http://www.itshot.com/diamond-earrings/ladies-mens-all-color-diamond-earrings.aspx" onclick="window.setLastAccessedCategory(362, this.href);">View All Color Diamond Earrings</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_92" href="http://www.itshot.com/diamond-earrings/black-diamond-hoop-stud-earrings.aspx" onclick="window.setLastAccessedCategory(92, this.href);">Black Diamond Earrings</a></li>
-          <li><a id="leftCategoryLink_93" href="http://www.itshot.com/diamond-earrings/blue-diamond-hoop-stud-earrings.aspx" onclick="window.setLastAccessedCategory(93, this.href);">Blue Diamond Earrings</a></li>
-          <li><a id="leftCategoryLink_239" href="http://www.itshot.com/diamond-earrings/pink-diamond-stud-earrings.aspx" onclick="window.setLastAccessedCategory(239, this.href);">Pink Diamond Earrings</a></li>
-          <li><a id="leftCategoryLink_240" href="http://www.itshot.com/diamond-earrings/gold-fancy-yellow-diamond-earrings.aspx" onclick="window.setLastAccessedCategory(240, this.href);">Yellow Diamond Earrings</a></li>
-          <li><a id="leftCategoryLink_334" href="http://www.itshot.com/diamond-earrings/gold-multi-color-diamond-earrings.aspx" onclick="window.setLastAccessedCategory(334, this.href);">Multi-Color Diamond Earrings</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_233" href="http://www.itshot.com/diamond-earrings/black-blue-yellow-pink-chocolate-diamond-earrings.aspx" onclick="window.setLastAccessedCategory(233, this.href);">Color Diamond Earrings</a></li>
       <li style="display: none;"><a id="leftCategoryLink_91" href="http://www.itshot.com/diamond-earrings/gold-diamond-drop-earrings.aspx" onclick="window.setLastAccessedCategory(91, this.href);">Diamond Drop Earrings</a></li>
       <li style="display: none;"><a id="leftCategoryLink_236" href="http://www.itshot.com/diamond-earrings/gold-diamond-chandelier-earrings.aspx" onclick="window.setLastAccessedCategory(236, this.href);">Diamond Chandelier Earrings</a></li>
       <li style="display: none;"><a id="leftCategoryLink_237" href="http://www.itshot.com/diamond-earrings/real-gold-diamond-heart-earrings.aspx" onclick="window.setLastAccessedCategory(237, this.href);">Diamond Heart Earrings</a></li>
@@ -523,6 +348,9 @@
       <li style="display: none;"><a id="leftCategoryLink_280" href="http://www.itshot.com/gemstone-jewelry/gold-diamond-gemstone-earrings.aspx" onclick="window.setLastAccessedCategory(280, this.href);">Gemstone Diamond Earrings</a></li>
       <li style="display: none;"><a id="leftCategoryLink_90" href="http://www.itshot.com/diamond-earrings/gold-diamond-designer-earrings.aspx" onclick="window.setLastAccessedCategory(90, this.href);">Designer Diamond Earrings</a></li>
       <li style="display: none;"><a id="leftCategoryLink_291" href="http://www.itshot.com/diamond-earrings/other-gold-diamond-earrings.aspx" onclick="window.setLastAccessedCategory(291, this.href);">Other Diamond Earrings</a></li>
+      <li><a href="http://www.itshot.com/custom-earrings.aspx" onclick="window.setLastAccessedCategory(11, this.href);" style="
+                                    display: none;
+                            ">Custom Earrings</a></li>
     </ul>
   </li>
   <li><a id="leftCategoryLink_363" href="http://www.itshot.com/ladies-mens-diamond-gold-pendants-jewelry.aspx" onclick="window.setLastAccessedCategory(363, this.href);">Gold Diamond Pendants</a><ul id="leftCategoryMenu_363">
@@ -533,206 +361,60 @@
       <li style="display: none;"><a id="leftCategoryLink_383" href="http://www.itshot.com/ladies-diamond-pendants/gold-diamond-key-pendants-necklaces.aspx" onclick="window.setLastAccessedCategory(383, this.href);">Diamond Key Pendants</a></li>
       <li style="display: none;"><a id="leftCategoryLink_297" href="http://www.itshot.com/ladies-diamond-pendants/gold-diamond-flower-pendants-necklaces.aspx" onclick="window.setLastAccessedCategory(297, this.href);">Diamond Flower Necklaces</a></li>
       <li style="display: none;"><a id="leftCategoryLink_511" onclick="window.setLastAccessedCategory(511, this.href);" href="http://www.itshot.com/journey-diamond-jewelry/journey-diamond-pendants-necklaces.aspx">Journey Diamond Pendants</a></li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_229" href="http://www.itshot.com/diamond-crosses-necklaces/diamond-cross-pendants.aspx" onclick="window.setLastAccessedCategory(229, this.href);">Diamond Cross Pendants</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_423" href="http://www.itshot.com/pave-diamond-cross-pendants.aspx" onclick="window.setLastAccessedCategory(423, this.href);">All Diamond Cross Pendants</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_421" href="http://www.itshot.com/diamond-crosses-necklaces/mens-diamond-cross-pendants.aspx" onclick="window.setLastAccessedCategory(421, this.href);">Mens Diamond Cross Pendants</a></li>
-          <li><a id="leftCategoryLink_422" href="http://www.itshot.com/diamond-crosses-necklaces/womens-childrens-diamond-cross-pendants.aspx" onclick="window.setLastAccessedCategory(422, this.href);">Womens Diamond Cross Pendants</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_229" href="http://www.itshot.com/diamond-crosses-necklaces/diamond-cross-pendants.aspx" onclick="window.setLastAccessedCategory(229, this.href);">Diamond Cross Pendants</a></li>
       <li style="display: none;"><a id="leftCategoryLink_273" href="http://www.itshot.com/womens-mens-diamond-pendants/gold-diamond-initial-necklaces-pendants.aspx" onclick="window.setLastAccessedCategory(273, this.href);">Gold Diamond Initial Pendants</a></li>
       <li style="display: none;"><a id="leftCategoryLink_39" href="http://www.itshot.com/gold-diamond-dog-tags.aspx" onclick="window.setLastAccessedCategory(39, this.href);">Diamond Dog Tags Pendants</a></li>
       <li style="display: none;"><a id="leftCategoryLink_275" href="http://www.itshot.com/diamond-gold-pendants/ladies-mens-unique-diamond-pendants.aspx" onclick="window.setLastAccessedCategory(275, this.href);">Unique Diamond Pendants</a></li>
       <li style="display: none;"><a id="leftCategoryLink_287" href="http://www.itshot.com/pearl-jewelry/gold-fine-diamond-pearl-pendants.aspx" onclick="window.setLastAccessedCategory(287, this.href);">Pearl Diamond Pendants</a></li>
       <li style="display: none;"><a id="leftCategoryLink_292" href="http://www.itshot.com/ladies-diamond-pendants/ladies-18k-gold-diamond-pendants-necklaces.aspx" onclick="window.setLastAccessedCategory(292, this.href);">18k Gold Diamond Pendants</a></li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_341" href="http://www.itshot.com/diamond-gold-pendants/womens-mens-fancy-color-diamond-pendants.aspx" onclick="window.setLastAccessedCategory(341, this.href);">Fancy Color Diamond Pendants</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_342" href="http://www.itshot.com/diamond-gold-pendants/mens-fancy-color-diamond-pendants.aspx" onclick="window.setLastAccessedCategory(342, this.href);">Mens Color Diamond Pendants</a></li>
-          <li><a id="leftCategoryLink_343" href="http://www.itshot.com/diamond-gold-pendants/womens-fancy-color-diamond-pendants-necklaces.aspx" onclick="window.setLastAccessedCategory(343, this.href);">Ladies Color Diamond Pendants</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_341" href="http://www.itshot.com/diamond-gold-pendants/womens-mens-fancy-color-diamond-pendants.aspx" onclick="window.setLastAccessedCategory(341, this.href);">Fancy Color Diamond Pendants</a></li>
       <li style="display: none;"><a id="leftCategoryLink_274" href="http://www.itshot.com/diamond-gold-pendants/gold-diamond-jesus-piece-face-pendants.aspx" onclick="window.setLastAccessedCategory(274, this.href);">Diamond Jesus Piece Pendants</a></li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_230" href="http://www.itshot.com/gold-diamond-jewish-jewelry.aspx" onclick="window.setLastAccessedCategory(230, this.href);">Diamond Jewish Jewelry</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_550" href="http://www.itshot.com/diamond-jewish-jewelry/hamsa-star-of-david-chai-necklaces.aspx" onclick="window.setLastAccessedCategory(550, this.href);">View All Diamond Jewish Jewelry</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_547" href="http://www.itshot.com/gold-jewish-jewelry/diamond-star-of-david-necklaces.aspx" onclick="window.setLastAccessedCategory(547, this.href);">Diamond Star Of David Necklaces</a></li>
-          <li><a id="leftCategoryLink_548" href="http://www.itshot.com/gold-jewish-jewelry/diamond-hamsa-hand-necklaces.aspx" onclick="window.setLastAccessedCategory(548, this.href);">Diamond Hamsa Jewelry | Hamsa Hand Necklaces</a></li>
-          <li><a id="leftCategoryLink_549" href="http://www.itshot.com/gold-jewish-jewelry/diamond-chai-pendants.aspx" onclick="window.setLastAccessedCategory(549, this.href);">Diamond Chai Pendants</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_230" href="http://www.itshot.com/gold-diamond-jewish-jewelry.aspx" onclick="window.setLastAccessedCategory(230, this.href);">Diamond Jewish Jewelry</a></li>
       <li style="display: none;"><a id="leftCategoryLink_289" href="http://www.itshot.com/diamond-gold-pendants/other-mens-diamond-pendants.aspx" onclick="window.setLastAccessedCategory(289, this.href);">Other Mens Diamond Pendants</a></li>
       <li style="display: none;"><a id="leftCategoryLink_284" href="http://www.itshot.com/ladies-diamond-pendants/other-womens-diamond-pendants-necklaces.aspx" onclick="window.setLastAccessedCategory(284, this.href);">Other Womens Diamond Pendants</a></li>
+      <li><a href="http://www.itshot.com/custom-pendants.aspx" onclick="window.setLastAccessedCategory(363, this.href);" style="
+                                    display: none;
+                            ">Custom Pendants</a></li>
     </ul>
   </li>
   <li>
     <div class="menu-line">&nbsp;</div>
   </li>
   <li><a id="leftCategoryLink_22" href="http://www.itshot.com/wedding-rings-bands/diamond-gold-wedding-anniversary-rings.aspx" onclick="window.setLastAccessedCategory(22, this.href);">Diamond Wedding Bands</a><ul id="leftCategoryMenu_22">
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_364" href="http://www.itshot.com/mens-diamond-wedding-rings.aspx" onclick="window.setLastAccessedCategory(364, this.href);">Mens Diamond Wedding Rings</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_347" href="http://www.itshot.com/diamond-wedding-bands/all-mens-diamond-wedding-bands-rings.aspx" onclick="window.setLastAccessedCategory(347, this.href);">View All Mens Diamond Bands</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_349" href="http://www.itshot.com/diamond-wedding-bands/mens-10k-gold-diamond-wedding-bands-rings.aspx" onclick="window.setLastAccessedCategory(349, this.href);">10k Men's Diamond Wedding Bands</a></li>
-          <li><a id="leftCategoryLink_27" href="http://www.itshot.com/diamond-wedding-bands/mens-14k-gold-diamond-wedding-bands-rings.aspx" onclick="window.setLastAccessedCategory(27, this.href);">14K Men's Diamond Wedding Rings</a></li>
-          <li><a id="leftCategoryLink_248" href="http://www.itshot.com/diamond-wedding-bands/mens-18k-gold-diamond-wedding-bands-rings.aspx" onclick="window.setLastAccessedCategory(248, this.href);">18k Gold Mens Wedding Rings</a></li>
-          <li><a id="leftCategoryLink_263" href="http://www.itshot.com/diamond-wedding-bands/mens-platinum-diamond-wedding-bands-rings.aspx" onclick="window.setLastAccessedCategory(263, this.href);">Platinum Mens Wedding Ring</a></li>
-        </ul>
-      </li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_365" href="http://www.itshot.com/diamond-wedding-bands/womens-diamond-wedding-bands-rings.aspx" onclick="window.setLastAccessedCategory(365, this.href);">Women's Diamond Wedding Bands</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_348" href="http://www.itshot.com/diamond-wedding-bands/all-ladies-diamond-wedding-bands-rings.aspx" onclick="window.setLastAccessedCategory(348, this.href);">All Ladies Diamond Bands</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_29" href="http://www.itshot.com/diamond-wedding-bands/womens-14k-gold-diamond-wedding-rings.aspx" onclick="window.setLastAccessedCategory(29, this.href);">14K Women's Diamond Wedding Rings</a></li>
-          <li><a id="leftCategoryLink_249" href="http://www.itshot.com/diamond-wedding-bands/womens-18k-gold-diamond-wedding-rings.aspx" onclick="window.setLastAccessedCategory(249, this.href);">18 Gold Ladies Wedding Rings</a></li>
-          <li><a id="leftCategoryLink_264" href="http://www.itshot.com/diamond-wedding-bands/womens-platinum-diamond-wedding-rings.aspx" onclick="window.setLastAccessedCategory(264, this.href);">Platinum Ladies Wedding Rings</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_364" href="http://www.itshot.com/mens-diamond-wedding-rings.aspx" onclick="window.setLastAccessedCategory(364, this.href);">Mens Diamond Wedding Rings</a></li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_365" href="http://www.itshot.com/diamond-wedding-bands/womens-diamond-wedding-bands-rings.aspx" onclick="window.setLastAccessedCategory(365, this.href);">Women's Diamond Wedding Bands</a></li>
       <li style="display: none;"><a id="leftCategoryLink_366" href="http://www.itshot.com/diamond-wedding-bands/gold-diamond-wedding-bands-rings-sets.aspx" onclick="window.setLastAccessedCategory(366, this.href);">Diamond Wedding Ring Sets</a></li>
+      <li><a href="http://www.itshot.com/custom-rings.aspx" onclick="window.setLastAccessedCategory(22, this.href);" style="
+                                    display: none;
+                            ">Custom Rings</a></li>
     </ul>
   </li>
   <li><a id="leftCategoryLink_26" href="http://www.itshot.com/wedding-rings-bands/diamond-eternity-rings-wedding-bands.aspx" onclick="window.setLastAccessedCategory(26, this.href);">Diamond Eternity Bands</a><ul id="leftCategoryMenu_26">
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_208" href="http://www.itshot.com/diamond-eternity-bands/14k-gold-diamond-eternity-bands-rings.aspx" onclick="window.setLastAccessedCategory(208, this.href);">14k Diamond Eternity Bands</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_368" href="http://www.itshot.com/diamond-eternity-bands/all-14k-gold-diamond-eternity-bands.aspx" onclick="window.setLastAccessedCategory(368, this.href);">View All 14k Eternity Bands</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_209" href="http://www.itshot.com/diamond-eternity-bands/14k-round-diamond-eternity-bands-rings.aspx" onclick="window.setLastAccessedCategory(209, this.href);">Round Diamond Eternity Bands</a></li>
-          <li><a id="leftCategoryLink_210" href="http://www.itshot.com/diamond-eternity-bands/14k-emerald-diamond-eternity-bands-rings.aspx" onclick="window.setLastAccessedCategory(210, this.href);">Emerald Diamond Eternity Bands</a></li>
-          <li><a id="leftCategoryLink_211" href="http://www.itshot.com/diamond-eternity-bands/14k-combination-diamonds-eternity-bands.aspx" onclick="window.setLastAccessedCategory(211, this.href);">Combination Diamonds Eternity Bands</a></li>
-          <li><a id="leftCategoryLink_212" href="http://www.itshot.com/diamond-eternity-bands/14k-princess-cut-diamonds-eternity-bands.aspx" onclick="window.setLastAccessedCategory(212, this.href);">Princess Cut Diamond Eternity Bands</a></li>
-          <li><a id="leftCategoryLink_213" href="http://www.itshot.com/diamond-eternity-bands/14k-baguette-diamonds-eternity-bands-rings.aspx" onclick="window.setLastAccessedCategory(213, this.href);">Baguette Diamond Eternity Bands</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_208" href="http://www.itshot.com/diamond-eternity-bands/14k-gold-diamond-eternity-bands-rings.aspx" onclick="window.setLastAccessedCategory(208, this.href);">14k Diamond Eternity Bands</a></li>
       <li style="display: none;"><a id="leftCategoryLink_257" href="http://www.itshot.com/diamond-eternity-bands/18k-gold-diamond-eternity-bands-rings.aspx" onclick="window.setLastAccessedCategory(257, this.href);">18k Diamond Eternity Rings</a></li>
       <li style="display: none;"><a id="leftCategoryLink_272" href="http://www.itshot.com/diamond-eternity-bands/platinum-diamond-eternity-bands-rings.aspx" onclick="window.setLastAccessedCategory(272, this.href);">Platinum Eternity Bands</a></li>
+      <li><a href="http://www.itshot.com/custom-rings.aspx" onclick="window.setLastAccessedCategory(26, this.href);" style="
+                                    display: none;
+                            ">Custom Rings</a></li>
     </ul>
   </li>
   <li><a id="leftCategoryLink_15" href="http://www.itshot.com/diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(15, this.href);">Diamond Engagement Rings</a><ul id="leftCategoryMenu_15">
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_371" href="http://www.itshot.com/diamond-engagement-rings/wholesale-gold-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(371, this.href);">Preset Diamond Engagement Rings</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_314" href="http://www.itshot.com/diamond-engagement-rings/all-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(314, this.href);">View All Diamond Engagement Rings</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_106" href="http://www.itshot.com/diamond-engagement-rings/antique-vintage-style-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(106, this.href);">Antique Style Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_100" href="http://www.itshot.com/diamond-engagement-rings/solitaire-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(100, this.href);">Solitaire Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_103" href="http://www.itshot.com/diamond-unique-engagement-rings.aspx" onclick="window.setLastAccessedCategory(103, this.href);">Unique Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_110" href="http://www.itshot.com/diamond-engagement-rings/baguette-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(110, this.href);">Baguette Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_113" href="http://www.itshot.com/diamond-engagement-rings/trapezoid-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(113, this.href);">Trapezoid Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_116" href="http://www.itshot.com/diamond-engagement-rings/round-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(116, this.href);">Round Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_119" href="http://www.itshot.com/diamond-engagement-rings/princess-cut-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(119, this.href);">Princess Cut Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_122" href="http://www.itshot.com/diamond-engagement-rings/pear-shape-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(122, this.href);">Pear Shape Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_125" href="http://www.itshot.com/diamond-engagement-rings/oval-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(125, this.href);">Oval Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_128" href="http://www.itshot.com/diamond-engagement-rings/marquise-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(128, this.href);">Marquise Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_137" href="http://www.itshot.com/diamond-engagement-rings/emerald-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(137, this.href);">Emerald Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_140" href="http://www.itshot.com/diamond-engagement-rings/trillion-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(140, this.href);">Trillion Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_143" href="http://www.itshot.com/diamond-engagement-rings/combination-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(143, this.href);">Combination Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_251" href="http://www.itshot.com/diamond-engagement-rings/18k-gold-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(251, this.href);">18k Gold Diamond Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_266" href="http://www.itshot.com/diamond-engagement-rings/diamond-platinum-engagement-rings.aspx" onclick="window.setLastAccessedCategory(266, this.href);">Platinum Engagement Rings</a></li>
-          <li><a id="leftCategoryLink_313" href="http://www.itshot.com/engagement-rings/cheap-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(313, this.href);">Engagement Rings For Cheap</a></li>
-        </ul>
-      </li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_372" href="http://www.itshot.com/engagement-rings/diamond-wedding-bridal-engagement-ring-sets.aspx" onclick="window.setLastAccessedCategory(372, this.href);">Diamond Engagement Ring Sets</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_315" href="http://www.itshot.com/diamond-engagement-rings/all-diamond-wedding-engagement-rings-sets.aspx" onclick="window.setLastAccessedCategory(315, this.href);">View All Engagement Ring Sets</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_117" href="http://www.itshot.com/diamond-engagement-rings/round-diamond-engagement-ring-sets.aspx" onclick="window.setLastAccessedCategory(117, this.href);">Round Diamond Engagement Sets</a></li>
-          <li><a id="leftCategoryLink_120" href="http://www.itshot.com/diamond-engagement-rings/princess-cut-diamond-engagement-ring-sets.aspx" onclick="window.setLastAccessedCategory(120, this.href);">Princess Cut Diamond Engagement Sets</a></li>
-          <li><a id="leftCategoryLink_101" href="http://www.itshot.com/diamond-engagement-rings/solitaire-diamond-engagement-rings-sets.aspx" onclick="window.setLastAccessedCategory(101, this.href);">Solitaire Engagement Rings Sets</a></li>
-          <li><a id="leftCategoryLink_104" href="http://www.itshot.com/diamond-engagement-rings/unique-diamond-engagement-rings-sets.aspx" onclick="window.setLastAccessedCategory(104, this.href);">Unique Diamond Engagement Rings Sets</a></li>
-          <li><a id="leftCategoryLink_107" href="http://www.itshot.com/diamond-engagement-rings/antique-vintage-diamond-engagement-ring-sets.aspx" onclick="window.setLastAccessedCategory(107, this.href);">Vintage Style Engagement Rings Sets</a></li>
-          <li><a id="leftCategoryLink_111" href="http://www.itshot.com/diamond-engagement-rings/baguette-diamond-engagement-rings-sets.aspx" onclick="window.setLastAccessedCategory(111, this.href);">Baguette Diamond Engagement Sets</a></li>
-          <li><a id="leftCategoryLink_126" href="http://www.itshot.com/diamond-engagement-rings/oval-diamond-engagement-ring-sets.aspx" onclick="window.setLastAccessedCategory(126, this.href);">Oval Diamond Engagement Sets</a></li>
-          <li><a id="leftCategoryLink_144" href="http://www.itshot.com/diamond-engagement-rings/combination-diamond-engagement-ring-sets.aspx" onclick="window.setLastAccessedCategory(144, this.href);">Combination Diamond Engagement Sets</a></li>
-          <li><a id="leftCategoryLink_378" href="http://www.itshot.com/diamond-engagement-rings/diamond-trio-wedding-engagement-ring-sets.aspx" onclick="window.setLastAccessedCategory(378, this.href);">Diamond Trio Wedding Rings Set</a></li>
-          <li><a id="leftCategoryLink_253" href="http://www.itshot.com/diamond-engagement-rings/18k-gold-diamond-engagement-ring-sets.aspx" onclick="window.setLastAccessedCategory(253, this.href);">18k Gold Engagement Ring Sets</a></li>
-          <li><a id="leftCategoryLink_268" href="http://www.itshot.com/diamond-engagement-rings/platinum-diamond-engagement-ring-sets.aspx" onclick="window.setLastAccessedCategory(268, this.href);">Platinum Engagement Ring Sets</a></li>
-        </ul>
-      </li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_145" href="http://www.itshot.com/engagement-rings/diamond-engagement-rings-settings.aspx" onclick="window.setLastAccessedCategory(145, this.href);">Engagement Ring Settings</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_316" href="http://www.itshot.com/engagement-rings-settings/all-diamond-engagement-ring-settings-mountings.aspx" onclick="window.setLastAccessedCategory(316, this.href);">View All Engagement Ring Settings / Mountings</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_152" href="http://www.itshot.com/engagement-rings-settings/antique-style-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(152, this.href);">Antique Style Diamond Engagement Ring Settings</a></li>
-          <li><a id="leftCategoryLink_162" href="http://www.itshot.com/engagement-rings-settings/round-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(162, this.href);">Round Diamond Engagement Settings</a></li>
-          <li><a id="leftCategoryLink_165" href="http://www.itshot.com/diamond-engagement-settings/princess-cut-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(165, this.href);">Princess Cut Engagement Settings</a></li>
-          <li><a id="leftCategoryLink_146" href="http://www.itshot.com/diamond-engagement-rings/solitaire-engagement-ring-settings-mountings.aspx" onclick="window.setLastAccessedCategory(146, this.href);">Solitaire Engagement Ring Settings</a></li>
-          <li><a id="leftCategoryLink_149" href="http://www.itshot.com/engagement-rings-settings/unique-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(149, this.href);">Unique Engagement Ring Settings</a></li>
-          <li><a id="leftCategoryLink_156" href="http://www.itshot.com/engagement-rings-settings/baguette-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(156, this.href);">Baguette Diamond Engagement Settings</a></li>
-          <li><a id="leftCategoryLink_158" href="http://www.itshot.com/engagement-rings-settings/trapezoid-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(158, this.href);">Trapezoid Side Stones Rings</a></li>
-          <li><a id="leftCategoryLink_168" href="http://www.itshot.com/diamond-engagement-settings/pear-shape-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(168, this.href);">Pear Shape Engagement Settings</a></li>
-          <li><a id="leftCategoryLink_171" href="http://www.itshot.com/diamond-engagement-settings/oval-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(171, this.href);">Oval Diamond Engagement Settings</a></li>
-          <li><a id="leftCategoryLink_174" href="http://www.itshot.com/diamond-engagement-settings/marquise-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(174, this.href);">Marquise Diamond Engagement Settings</a></li>
-          <li><a id="leftCategoryLink_183" href="http://www.itshot.com/diamond-engagement-settings/emerald-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(183, this.href);">Emerald Diamond Engagement Settings</a></li>
-          <li><a id="leftCategoryLink_186" href="http://www.itshot.com/diamond-engagement-settings/trillion-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(186, this.href);">Trillion Diamond Engagement Settings</a></li>
-          <li><a id="leftCategoryLink_189" href="http://www.itshot.com/diamond-engagement-settings/combination-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(189, this.href);">Combination Engagement Settings</a></li>
-          <li><a id="leftCategoryLink_252" href="http://www.itshot.com/diamond-engagement-settings/18k-gold-diamond-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(252, this.href);">18k Diamond Engagement Ring Settings</a></li>
-          <li><a id="leftCategoryLink_267" href="http://www.itshot.com/diamond-engagement-settings/diamond-platinum-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(267, this.href);">Platinum Engagement Ring Settings</a></li>
-        </ul>
-      </li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_373" href="http://www.itshot.com/engagement-rings-settings/diamond-engagement-settings-mountings-sets.aspx" onclick="window.setLastAccessedCategory(373, this.href);">Engagement Ring Mounting Sets</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_317" href="http://www.itshot.com/engagement-rings-settings/all-diamond-engagement-ring-mountings-settings.aspx" onclick="window.setLastAccessedCategory(317, this.href);">View All Engagement Ring Mounting Sets</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_147" href="http://www.itshot.com/diamond-engagement-rings/solitaire-engagement-ring-mounting-sets.aspx" onclick="window.setLastAccessedCategory(147, this.href);">Solitaire Engagement Ring Mounting Sets</a></li>
-          <li><a id="leftCategoryLink_150" href="http://www.itshot.com/engagement-rings-settings/unique-diamond-engagement-ring-mounting-sets.aspx" onclick="window.setLastAccessedCategory(150, this.href);">Unique Engagement Rings Mounting Sets</a></li>
-          <li><a id="leftCategoryLink_153" href="http://www.itshot.com/engagement-rings-settings/antique-style-diamond-engagement-ring-mounting-sets.aspx" onclick="window.setLastAccessedCategory(153, this.href);">Vintage Style Engagement Rings Mounting Sets</a></li>
-          <li><a id="leftCategoryLink_157" href="http://www.itshot.com/engagement-rings-settings/baguette-diamond-engagement-ring-mounting-sets.aspx" onclick="window.setLastAccessedCategory(157, this.href);">Baguette Diamond Engagement Mounting Sets</a></li>
-          <li><a id="leftCategoryLink_163" href="http://www.itshot.com/engagement-rings-settings/round-diamond-engagement-ring-mounting-sets.aspx" onclick="window.setLastAccessedCategory(163, this.href);">Round Diamond Engagement Mounting Sets</a></li>
-          <li><a id="leftCategoryLink_166" href="http://www.itshot.com/diamond-engagement-settings/princess-diamond-engagement-ring-mounting-sets.aspx" onclick="window.setLastAccessedCategory(166, this.href);">Princess Diamond Engagement Mounting Sets</a></li>
-          <li><a id="leftCategoryLink_172" href="http://www.itshot.com/diamond-engagement-settings/oval-diamond-engagement-ring-mounting-sets.aspx" onclick="window.setLastAccessedCategory(172, this.href);">Oval Diamond Engagement Ring Mounting Sets</a></li>
-          <li><a id="leftCategoryLink_190" href="http://www.itshot.com/diamond-engagement-settings/combination-diamond-engagement-ring-mounting-sets.aspx" onclick="window.setLastAccessedCategory(190, this.href);">Combination Diamond Ring Sets</a></li>
-          <li><a id="leftCategoryLink_254" href="http://www.itshot.com/diamond-engagement-settings/18k-gold-diamond-engagement-ring-mounting-sets.aspx" onclick="window.setLastAccessedCategory(254, this.href);">18k Diamond Engagement Ring Mountings</a></li>
-          <li><a id="leftCategoryLink_269" href="http://www.itshot.com/diamond-engagement-settings/diamond-platinum-engagement-ring-mounting-sets.aspx" onclick="window.setLastAccessedCategory(269, this.href);">Platinum Engagement Ring Mounting Sets</a></li>
-        </ul>
-      </li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_191" href="http://www.itshot.com/engagement-rings-diamond-wedding-bands.aspx" onclick="window.setLastAccessedCategory(191, this.href);">Engagement Ring Bands</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_192" href="http://www.itshot.com/engagement-ring-bands/14k-gold-diamond-engagement-ring-bands.aspx" onclick="window.setLastAccessedCategory(192, this.href);">14K Diamond Engagement Ring Bands</a></li>
-          <li><a id="leftCategoryLink_193" href="http://www.itshot.com/engagement-rings-bands/plain-14k-gold-engagement-ring-bands.aspx" onclick="window.setLastAccessedCategory(193, this.href);">Plain 14k Gold Engagement Bands</a></li>
-          <li><a id="leftCategoryLink_318" href="http://www.itshot.com/engagement-rings-bands/18k-gold-diamond-engagement-ring-bands.aspx" onclick="window.setLastAccessedCategory(318, this.href);">18K Diamond Engagement Bands</a></li>
-          <li><a id="leftCategoryLink_319" href="http://www.itshot.com/engagement-rings-bands/plain-18k-gold-engagement-ring-bands.aspx" onclick="window.setLastAccessedCategory(319, this.href);">Plain 18k Gold Engagement Ring Bands</a></li>
-          <li><a id="leftCategoryLink_320" href="http://www.itshot.com/engagement-rings-bands/platinum-diamond-engagement-ring-bands.aspx" onclick="window.setLastAccessedCategory(320, this.href);">Platinum Diamond Engagement Bands</a></li>
-          <li><a id="leftCategoryLink_321" href="http://www.itshot.com/engagement-rings-bands/plain-platinum-engagement-ring-bands.aspx" onclick="window.setLastAccessedCategory(321, this.href);">Plain Platinum Engagement Ring Bands</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_371" href="http://www.itshot.com/diamond-engagement-rings/wholesale-gold-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(371, this.href);">Preset Diamond Engagement Rings</a></li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_372" href="http://www.itshot.com/engagement-rings/diamond-wedding-bridal-engagement-ring-sets.aspx" onclick="window.setLastAccessedCategory(372, this.href);">Diamond Engagement Ring Sets</a></li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_145" href="http://www.itshot.com/engagement-rings/diamond-engagement-rings-settings.aspx" onclick="window.setLastAccessedCategory(145, this.href);">Engagement Ring Settings</a></li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_373" href="http://www.itshot.com/engagement-rings-settings/diamond-engagement-settings-mountings-sets.aspx" onclick="window.setLastAccessedCategory(373, this.href);">Engagement Ring Mounting Sets</a></li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_191" href="http://www.itshot.com/engagement-rings-diamond-wedding-bands.aspx" onclick="window.setLastAccessedCategory(191, this.href);">Engagement Ring Bands</a></li>
+      <li><a href="http://www.itshot.com/custom-rings.aspx" onclick="window.setLastAccessedCategory(15, this.href);" style="
+                                    display: none;
+                            ">Custom Rings</a></li>
     </ul>
   </li>
   <li><a id="leftCategoryLink_380" href="http://www.itshot.com/three-stone-rings/diamond-three-stone-engagement-rings.aspx" onclick="window.setLastAccessedCategory(380, this.href);">Three Stone Diamond Rings</a><ul id="leftCategoryMenu_380">
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_214" href="http://www.itshot.com/three-stone-rings/three-stone-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(214, this.href);">Pre-Set 3 Stone Diamond Rings</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_374" href="http://www.itshot.com/three-stone-rings/all-three-stone-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(374, this.href);">View All 3 Stone Diamond Rings</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_215" href="http://www.itshot.com/three-stone-rings/three-stone-round-diamond-engagement-ring-mountings.aspx" onclick="window.setLastAccessedCategory(215, this.href);">3 Stone Round Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_216" href="http://www.itshot.com/three-stone-rings/three-stone-combination-diamond-engagement-ring-mountings.aspx" onclick="window.setLastAccessedCategory(216, this.href);">Combination 3 Stone Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_217" href="http://www.itshot.com/three-stone-rings/three-stone-princess-cut-diamond-rings.aspx" onclick="window.setLastAccessedCategory(217, this.href);">Three Stone Rings Princess Cut</a></li>
-          <li><a id="leftCategoryLink_218" href="http://www.itshot.com/three-stone-rings/three-stone-emerald-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(218, this.href);">3 Stone Emerald Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_220" href="http://www.itshot.com/three-stone-rings/three-stone-oval-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(220, this.href);">Three Stone Oval Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_255" href="http://www.itshot.com/three-stone-rings/18k-gold-diamond-three-stone-engagement-rings.aspx" onclick="window.setLastAccessedCategory(255, this.href);">18k Gold 3 Stones Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_270" href="http://www.itshot.com/three-stone-rings/platinum-diamond-three-stone-engagement-rings.aspx" onclick="window.setLastAccessedCategory(270, this.href);">Platinum 3 Stones Diamond Rings</a></li>
-        </ul>
-      </li>
-      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_221" href="http://www.itshot.com/three-stone-rings/three-stone-diamond-engagement-ring-mountings.aspx" onclick="window.setLastAccessedCategory(221, this.href);">3 Stone Rings Mountings</a><ul class="leftnav-childmenu">
-          <li><a id="leftCategoryLink_375" href="http://www.itshot.com/three-stone-rings/all-three-stone-diamond-engagement-ring-mountings.aspx" onclick="window.setLastAccessedCategory(375, this.href);">View All 3 Stone Rings Mountings</a></li>
-          <li>
-            <div class="menu-line">&nbsp;</div>
-          </li>
-          <li><a id="leftCategoryLink_222" href="http://www.itshot.com/three-stone-rings/three-stone-round-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(222, this.href);">3 Stone Round Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_223" href="http://www.itshot.com/three-stone-rings/three-stone-combination-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(223, this.href);">Combination 3 Stone Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_224" href="http://www.itshot.com/three-stone-rings/three-stone-princess-cut-diamond-ring-mountings.aspx" onclick="window.setLastAccessedCategory(224, this.href);">Three Stone Rings Princess Cut</a></li>
-          <li><a id="leftCategoryLink_225" href="http://www.itshot.com/three-stone-rings/three-stone-emerald-diamond-engagement-ring-mountings.aspx" onclick="window.setLastAccessedCategory(225, this.href);">3 Stone Emerald Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_227" href="http://www.itshot.com/three-stone-rings/three-stone-oval-diamond-engagement-ring-mountings.aspx" onclick="window.setLastAccessedCategory(227, this.href);">Three Stone Oval Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_256" href="http://www.itshot.com/three-stone-rings/18k-gold-diamond-three-stone-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(256, this.href);">18k Gold 3 Stones Diamond Rings</a></li>
-          <li><a id="leftCategoryLink_271" href="http://www.itshot.com/three-stone-rings/platinum-diamond-three-stone-engagement-ring-settings.aspx" onclick="window.setLastAccessedCategory(271, this.href);">Platinum 3 Stones Diamond Rings</a></li>
-        </ul>
-      </li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_214" href="http://www.itshot.com/three-stone-rings/three-stone-diamond-engagement-rings.aspx" onclick="window.setLastAccessedCategory(214, this.href);">Pre-Set 3 Stone Diamond Rings</a></li>
+      <li style="display: none;" class="scurrent"><a id="leftCategoryLink_221" href="http://www.itshot.com/three-stone-rings/three-stone-diamond-engagement-ring-mountings.aspx" onclick="window.setLastAccessedCategory(221, this.href);">3 Stone Rings Mountings</a></li>
+      <li><a href="http://www.itshot.com/custom-rings.aspx" onclick="window.setLastAccessedCategory(380, this.href);" style="
+                                    display: none;
+                            ">Custom Rings</a></li>
     </ul>
   </li>
   <li><a id="leftCategoryLink_16" href="http://www.itshot.com/loose-diamonds.aspx" onclick="window.setLastAccessedCategory(16, this.href);">Solitaire Loose Diamonds</a><ul id="leftCategoryMenu_16">
@@ -751,55 +433,33 @@
   <li><a id="leftCategoryLink_231" href="http://www.itshot.com/fashion-designer/mens-womens-sunglasses.aspx" onclick="window.setLastAccessedCategory(231, this.href);">Designer Sunglasses</a><ul id="leftCategoryMenu_231">
       <li style="display: none;"><a id="leftCategoryLink_648" href="http://www.itshot.com/fashion-designer-sunglasses/mens-sunglasses.aspx" onclick="window.setLastAccessedCategory(648, this.href);">View Men's Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_649" href="http://www.itshot.com/fashion-designer-sunglasses/womens-sunglasses.aspx" onclick="window.setLastAccessedCategory(649, this.href);">View Women's Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_726" href="http://www.itshot.com/mens-womens-sunglasses/alexander-mcqueen-sunglasses.aspx" onclick="window.setLastAccessedCategory(726, this.href);">Alexander McQueen</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_724" href="http://www.itshot.com/mens-womens-sunglasses/balenciaga-sunglasses.aspx" onclick="window.setLastAccessedCategory(724, this.href);">Balenciaga Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_650" href="http://www.itshot.com/mens-womens-sunglasses/blinde-sunglasses.aspx" onclick="window.setLastAccessedCategory(650, this.href);">Blinde Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_729" href="http://www.itshot.com/mens-womens-sunglasses/burberry-sunglasses.aspx" onclick="window.setLastAccessedCategory(729, this.href);">Burberry Sunglasses</a></li>
+      <li style="display: none;"><a id="leftCategoryLink_726" href="http://www.itshot.com/mens-womens-sunglasses/alexander-mcqueen-sunglasses.aspx" onclick="window.setLastAccessedCategory(726, this.href);">Alexander McQueen Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_651" href="http://www.itshot.com/mens-womens-sunglasses/calvin-klein-sunglasses.aspx" onclick="window.setLastAccessedCategory(651, this.href);">Calvin Klein Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_652" href="http://www.itshot.com/mens-womens-sunglasses/carrera-sunglasses.aspx" onclick="window.setLastAccessedCategory(652, this.href);">Carrera Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_654" href="http://www.itshot.com/mens-womens-sunglasses/christian-dior-sunglasses.aspx" onclick="window.setLastAccessedCategory(654, this.href);">Christian Dior Sunglasses</a></li>
+      <li style="display: none;"><a id="leftCategoryLink_710" href="http://www.itshot.com/.aspx" onclick="window.setLastAccessedCategory(710, this.href);">Cheap Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_720" href="http://www.itshot.com/mens-womens-sunglasses/cole-haan-sunglasses.aspx" onclick="window.setLastAccessedCategory(720, this.href);">Cole Haan Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_656" href="http://www.itshot.com/mens-womens-sunglasses/dolce-and-gabbana-sunglasses.aspx" onclick="window.setLastAccessedCategory(656, this.href);">Dolce And Gabbana Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_725" href="http://www.itshot.com/mens-womens-sunglasses/emilio-pucci-sunglasses.aspx" onclick="window.setLastAccessedCategory(725, this.href);">Emilio Pucci Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_727" href="http://www.itshot.com/mens-womens-sunglasses/emporio-armani-sunglasses.aspx" onclick="window.setLastAccessedCategory(727, this.href);">Emporio Armani Sunglasses</a></li>
+      <li style="display: none;"><a id="leftCategoryLink_747" href="http://www.itshot.com/mens-womens-sunglasses/diesel-sunglasses.aspx" onclick="window.setLastAccessedCategory(747, this.href);">Diesel Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_657" href="http://www.itshot.com/mens-womens-sunglasses/fendi-sunglasses.aspx" onclick="window.setLastAccessedCategory(657, this.href);">Fendi Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_658" href="http://www.itshot.com/mens-womens-sunglasses/giorgio-armani-sunglasses.aspx" onclick="window.setLastAccessedCategory(658, this.href);">Giorgio Armani Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_659" href="http://www.itshot.com/mens-womens-sunglasses/gucci-sunglasses.aspx" onclick="window.setLastAccessedCategory(659, this.href);">Gucci Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_660" href="http://www.itshot.com/mens-womens-sunglasses/hugo-boss-sunglasses.aspx" onclick="window.setLastAccessedCategory(660, this.href);">Hugo Boss Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_728" href="http://www.itshot.com/mens-womens-sunglasses/jean-paul-gaultier-sunglasses.aspx" onclick="window.setLastAccessedCategory(728, this.href);">Jean Paul Gaultier Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_661" href="http://www.itshot.com/mens-womens-sunglasses/jimmy-choo-sunglasses.aspx" onclick="window.setLastAccessedCategory(661, this.href);">Jimmy Choo Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_662" href="http://www.itshot.com/mens-womens-sunglasses/john-varvatos-sunglasses.aspx" onclick="window.setLastAccessedCategory(662, this.href);">John Varvatos Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_663" href="http://www.itshot.com/mens-womens-sunglasses/juicy-couture-sunglasses.aspx" onclick="window.setLastAccessedCategory(663, this.href);">Juicy Couture Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_664" href="http://www.itshot.com/mens-womens-sunglasses/just-cavalli-sunglasses.aspx" onclick="window.setLastAccessedCategory(664, this.href);">Just Cavalli Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_719" href="http://www.itshot.com/mens-womens-sunglasses/karl-lagerfeld-sunglasses.aspx" onclick="window.setLastAccessedCategory(719, this.href);">Karl Lagerfeld Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_665" href="http://www.itshot.com/mens-womens-sunglasses/kate-spade-sunglasses.aspx" onclick="window.setLastAccessedCategory(665, this.href);">Kate Spade Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_666" href="http://www.itshot.com/mens-womens-sunglasses/kenneth-cole-reaction-sunglasses.aspx" onclick="window.setLastAccessedCategory(666, this.href);">Kenneth Cole Reaction Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_667" href="http://www.itshot.com/mens-womens-sunglasses/lucky-brand-sunglasses.aspx" onclick="window.setLastAccessedCategory(667, this.href);">Lucky Brand Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_669" href="http://www.itshot.com/mens-womens-sunglasses/marc-jacobs-sunglasses.aspx" onclick="window.setLastAccessedCategory(669, this.href);">Marc Jacobs Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_668" href="http://www.itshot.com/mens-womens-sunglasses/marc-sunglasses.aspx" onclick="window.setLastAccessedCategory(668, this.href);">Marc Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_670" href="http://www.itshot.com/mens-womens-sunglasses/michael-sunglasses.aspx" onclick="window.setLastAccessedCategory(670, this.href);">Michael Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_672" href="http://www.itshot.com/mens-womens-sunglasses/nautica-sunglasses.aspx" onclick="window.setLastAccessedCategory(672, this.href);">Nautica Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_673" href="http://www.itshot.com/mens-womens-sunglasses/discount-oakley-sunglasses.aspx" onclick="window.setLastAccessedCategory(673, this.href);">Oakley Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_723" href="http://www.itshot.com/mens-womens-sunglasses/prada-sunglasses.aspx" onclick="window.setLastAccessedCategory(723, this.href);">Prada Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_674" href="http://www.itshot.com/mens-womens-sunglasses/ralph-lauren-sunglasses.aspx" onclick="window.setLastAccessedCategory(674, this.href);">Ralph Lauren Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_675" href="http://www.itshot.com/mens-womens-sunglasses/discount-ray-ban-sunglasses.aspx" onclick="window.setLastAccessedCategory(675, this.href);">Ray Ban Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_676" href="http://www.itshot.com/mens-womens-sunglasses/roberto-cavalli-sunglasses.aspx" onclick="window.setLastAccessedCategory(676, this.href);">Roberto Cavalli Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_677" href="http://www.itshot.com/mens-womens-sunglasses/salvatore-ferragamo-sunglasses.aspx" onclick="window.setLastAccessedCategory(677, this.href);">Salvatore Ferragamo Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_679" href="http://www.itshot.com/mens-womens-sunglasses/theory-sunglasses.aspx" onclick="window.setLastAccessedCategory(679, this.href);">Theory Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_680" href="http://www.itshot.com/mens-womens-sunglasses/timberland-sunglasses.aspx" onclick="window.setLastAccessedCategory(680, this.href);">Timberland Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_681" href="http://www.itshot.com/mens-womens-sunglasses/tom-ford-sunglasses.aspx" onclick="window.setLastAccessedCategory(681, this.href);">Tom Ford Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_682" href="http://www.itshot.com/mens-womens-sunglasses/valentino-sunglasses.aspx" onclick="window.setLastAccessedCategory(682, this.href);">Valentino Sunglasses</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_683" href="http://www.itshot.com/mens-womens-sunglasses/versace-sunglasses.aspx" onclick="window.setLastAccessedCategory(683, this.href);">Versace Sunglasses</a></li>
       <li style="display: none;"><a id="leftCategoryLink_684" href="http://www.itshot.com/mens-womens-sunglasses/yves-saint-laurent-sunglasses.aspx" onclick="window.setLastAccessedCategory(684, this.href);">Yves Saint Laurent Sunglasses</a></li>
     </ul>
   </li>
   <li><a id="leftCategoryLink_542" href="http://www.itshot.com/designer-jewelry.aspx" onclick="window.setLastAccessedCategory(542, this.href);">Designer Jewelry</a><ul id="leftCategoryMenu_542">
-      <li style="display: none;"><a id="leftCategoryLink_685" href="http://www.itshot.com/designer-jewelry/dolce-and-gabbana-jewelry.aspx" onclick="window.setLastAccessedCategory(685, this.href);">Dolce and Gabbana Jewelry</a></li>
       <li style="display: none;"><a id="leftCategoryLink_544" href="http://www.itshot.com/designer-jewelry/luccello-jewelry.aspx" onclick="window.setLastAccessedCategory(544, this.href);">Luccello Jewelry</a></li>
-      <li style="display: none;"><a id="leftCategoryLink_712" href="http://www.itshot.com/designer-jewelry/moschino-cheap-and-chic.aspx" onclick="window.setLastAccessedCategory(712, this.href);">Moschino Cheap and Chic</a></li>
       <li style="display: none;"><a id="leftCategoryLink_543" href="http://www.itshot.com/designer-jewelry/tiffany-jewelry.aspx" onclick="window.setLastAccessedCategory(543, this.href);">Tiffany Jewelry</a></li>
     </ul>
   </li>
+  <li><a id="leftCategoryLink_551" href="http://www.itshot.com/black-diamonds-jewelry.aspx" onclick="window.setLastAccessedCategory(551, this.href);">Black Diamond Jewelry</a></li>
 </ul>
                         </div>
                         <div class="news-blk">
@@ -812,12 +472,12 @@
                             <input type="button" name="button" class="btn-newspec" value="Subscribe" />
 							</form>-->
                                 <form method="post" target="_blank" action="http://visitor.constantcontact.com/d.jsp" onsubmit="return validateNewsLetter();" name="ccoptin">
-                                    <input type="hidden" value="1100365236434" name="m">
-                                    <input type="hidden" value="oi" name="p">
-                                    <input id="newsLetterEmail" type="text" onfocus="hasEmail(this);" onblur="hasEmail(this, true)" style="font-size: 10pt; margin-top: 3px;" value="Enter your email . . ." size="20" name="ea">
-                                    <br>
-                                    <!--<input id="newsLetterSubmitButton" class="submit" type="submit" style="font-family: Verdana,Geneva,Arial,Helvetica,sans-serif; font-size: 9pt; margin-top: 8px;" value="Subscribe" name="go" disabled=""/>-->
-                                    <input id="newsLetterSubmitButton" type="submit" name="button" class="btn-newspec" value="">
+                                <input type="hidden" value="1100365236434" name="m">
+                                <input type="hidden" value="oi" name="p">
+                                <input id="newsLetterEmail" type="text" onfocus="hasEmail(this);" onblur="hasEmail(this, true)" style="font-size: 10pt; margin-top: 3px;" value="Enter your email . . ." size="20" name="ea">
+                                <br>
+                                <!--<input id="newsLetterSubmitButton" class="submit" type="submit" style="font-family: Verdana,Geneva,Arial,Helvetica,sans-serif; font-size: 9pt; margin-top: 8px;" value="Subscribe" name="go" disabled=""/>-->
+                                <input id="newsLetterSubmitButton" type="submit" name="button" class="btn-newspec" value="">
                                 </form>
                             </div>
                         </div>
@@ -859,7 +519,6 @@
   <li><a id="leftCategoryLink_327" href="http://www.itshot.com/womens-diamond-scarab-jewelry.aspx" onclick="window.setLastAccessedCategory(327, this.href);">Diamond Scarab Jewelry</a></li>
   <li><a id="leftCategoryLink_42" href="http://www.itshot.com/rubber-and-gold-bracelets.aspx" onclick="window.setLastAccessedCategory(42, this.href);">Rubber &amp; Gold Bracelets</a></li>
   <li><a id="leftCategoryLink_25" href="http://www.itshot.com/fancy-color-diamonds-jewelry-yellow-blue-black.aspx" onclick="window.setLastAccessedCategory(25, this.href);">Fancy Color Diamonds Jewelry Yellow Blue Black</a></li>
-  <li><a id="leftCategoryLink_503" href="http://www.itshot.com/buy-gold-bullion/gold-coins.aspx" onclick="window.setLastAccessedCategory(503, this.href);">Buy Gold Coins</a></li>
 </ul>
                         </div>
                     </div>
@@ -900,6 +559,13 @@
                             <!--COMPUNIX-->
                             <div class="recentitems-blk" style="display:block;"></div>
                             <!--COMPUNIX-->
+                            <div id="facebookLikeBlock">
+    <script>
+        if (window.location.protocol == 'http:') {
+            document.write('<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2FItsHot&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;action=like&amp;font&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border: none; overflow: hidden; width: 450px; height: 35px;" allowtransparency="true"></iframe>');
+        }
+    </script>
+</div>
                         </div>
                     </div>
                 </div>
@@ -907,76 +573,12 @@
                     <div id="RightPanelArea" class="rightpanel-area">
                         <div class="rightpanel-content-1">
                             <div class="rightpanel-bookmark">
-                                <a href="javascript:bookmark_us('http://www.ItsHot.com','ItsHot.com - Hottest Products At Guaranteed Lowest Prices')" class="bookmark">
-                                    Click Here To Bookmark Us!</a>
+                                <a href="javascript:bookmark_us('http://www.ItsHot.com','ItsHot.com - Hottest Products At Guaranteed Lowest Prices')" class="bookmark">Click Here To Bookmark Us!</a>
                             </div>
                             <div class="rightpanel-block">
                                 <hr class="hr-001">
                             </div>
-                            <div id="LeftAdvSearch" class="advsearch-blk">
-                                <!--
-                                <form id="topsearchform" name="topsearchform" method="GET" action="cSearchs.aspx">
-                                <fieldset>
-                                    <span class="search-title">Enter Your Search Term Below</span><br />
-                                    
-                                    <input type="text" size="15" name="Search" class="txtb-leftsearch" id="Text1" autocomplete="off"
-                                        onfocus="javascript:this.style.background='#ffffff';" onblur="javascript:this.style.background='#dddddd';" />
-                                    <input type="button" onclick="document.topsearchform.submit()" title="Click Go to Submit"
-                                        id="Button1" class="btn-leftfind" value=" " />
-                                    <input type="hidden" name="CategoryID" value="0" />
-                                    <input type="hidden" name="ManufacturerID" value="0" />
-                                    <input type="hidden" name="SectionID" value="0" />
-                                    <input type="hidden" name="PriceRange" value="0" />
-                                    <input type="hidden" name="SortBy" value="0" />
-                                    <input type="hidden" name="PageSize" value="9" />
-                                    <input type="hidden" name="AndOr" value="AND" />
-                                    <input type="hidden" name="DisplayMode" value="Grid" />
-                                    
-                                    <span class="span-advsearch"><a href="searchadv.aspx">Or Click Here For Advanced Search</a></span>
-                                </fieldset>
-                                </form>
-                                -->
-                                <span class="search-title">Enter Your Search Term Below</span><br>
-                                <form method="GET" action="search.aspx" onsubmit="return SearchForm1_Validator(this)" id="topsearchform" name="SearchForm">
-                                    <fieldset>
-                                        <!--
-                                    <input type="text" class="txtb-leftsearch" /><input type="button" onclick="document.topsearchform.submit()" class="btn-leftfind" value="Find" />
-                                    -->
-
-                                        <script type="text/javascript" language="javascript">
-				                        function SearchForm_Validator(theForm) {
-				                            try {
-				                                submitonce(theForm);
-				                            } catch (e) {
-				                            }
-				                            if (theForm.SearchTerm.value.length <  3)
-				                            {
-				                                var msg = 'Please enter at least {0} characters in the Search For field.';
-				                                alert(msg.replace(/\{0\}/i, '3'));
-				                                theForm.SearchTerm.focus();
-				                                submitenabled(theForm);
-				                                return (false);
-				                            }
-				                            else {
-				                                theForm.submit();
-				                            }
-				                        }
-                                        </script>
-
-                                        <input type="hidden" name="SearchTermPattern" value="">
-                                        <input type="text" name="SearchTerm" class="txtb-leftsearch" id="searchBox" size="15" autocomplete="off" onfocus="javascript:this.style.background='#ffffff';" onblur="javascript:this.style.background='#dddddd';">
-                                        <input type="submit" name="Submit" class="btn-leftfind" id="Submit1" title="Click Go to Submit" value="">
-                                        <!--
-                                    <input type="button" onclick="SearchForm_Validator(document.topsearchform)" title="Click Go to Submit" id="Button1" class="btn-leftfind" value=" " />
-                                    <input type="submit" name="submit" title="Click Go to Submit" id="Go" class="btn-leftfind" />
-                                    -->
-                                        <span class="span-advsearch"><a href="http://www.itshot.com/searchadv.aspx">Or Click Here For Advanced Search</a></span>
-                                    </fieldset>
-                                </form>
-                            </div>
-                            <div class="rightpanel-block">
-                                <hr class="hr-001">
-                            </div>
+                            
                         </div>
                         
                         <div id="LeftCurrency" class="currency-blk">
@@ -1004,14 +606,7 @@
                                         " selected="">USD&nbsp;(&nbsp;United States Dollar&nbsp;)
                                 </option></select></div>
 </div> <div class="leftpanel-blk">
-						<div class="rightpanel-block">
-							<hr class="hr-001">
-						</div>
-<center>
-<a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.itshot.com" rel="nofollow">
-					<img width="115" height="30" border="0" src="//images.scanalert.com/meter/www.itshot.com/32.gif" align="middle" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;">
-				</a>
-</center>
+
 						<div class="rightpanel-block">
 							<hr class="hr-001">
 						</div>
@@ -1023,7 +618,7 @@
 								<br>
 								<font color="#ae0203">100% Real, Brand New, Authentic Items</font>
 								<br>
-								<a href="http://www.itshot.com/jewelry-free-shipping.aspx">Free Shipping </a> AND <a href="(!RESOLVEURL url='wholesale-jewelry-watches-returns.aspx">30 Day Returns</a><br>
+								<a href="http://www.itshot.com/jewelry-free-shipping.aspx">Free Shipping </a> AND <a href="http://www.itshot.com/wholesale-jewelry-watches-returns.aspx">30 Day Returns</a><br>
 								<a href="http://www.itshot.com/jewelry-watches-best-price-guarantee.aspx">
 									<font color="#ae0203">Lowest Price Guarantee</font>
 								</a>
@@ -1040,9 +635,9 @@
 								<br>
 								<a href="http://www.itshot.com/unique-diamond-handcrafted-jewelry.aspx">One of a Kind Jewelry Designs</a>
 								<br>
-								<font color="#ae0203">Excellent customer service</font>
+								<font color="#ae0203">Excellent 24/7 customer service</font>
 								<br>
-								<a href="http://www.itshot.com/custom-handcrafted-jewelry.aspx">Custom Jewelry Made</a>
+								<a href="http://www.itshot.com/custom-handcrafted-jewelry.aspx">Custom Jewelry Made. Contact us!</a>
 								<br>
 								<font color="#ae0203">Wholesale Prices on Jewelry and Watches</font>
 								<br>
@@ -1076,54 +671,54 @@
 									Jewelry Of The Week:
 								</span>
 								<span class="lpi-itemtitle">
-									<a title="Diamond Earrings" href="http://www.itshot.com/14k-white-black-diamond-earrings-156-p-6883.aspx">1.5ct Diamond Earrings</a>
+									<a title="Diamond Earrings" href="http://www.itshot.com/10k-gold-square-pave-diamond-stud-earrings-019ct-p-5933.aspx">Gold Diamond Earrings</a>
                                  </span>
                                     <br>
-								<a title="Black Diamond Earrings" href="http://www.itshot.com/14k-white-black-diamond-earrings-156-p-6883.aspx">
-		<img height="150px" width="150px" src="images/products/800426t150.jpg" alt="Black Diamond Earrings">
+								<a title="Diamond Earrings Studs" href="http://www.itshot.com/10k-gold-square-pave-diamond-stud-earrings-019ct-p-5933.aspx">
+		<img height="150px" width="150px" src="images/products/501087t150.jpg" alt="Diamond Stud Earrings">
         						</a>
  								<br>
 								<span class="lpi-itemprice">
-									Now Only $499!
+									Now Only $125!
 								</span>
                                 <br>  
  To view all our diamond earrings please click <a title="diamond earrings" href="http://www.itshot.com/diamond-earrings-studs-hoops-chandelier.aspx">here</a>.
                                 <hr class="hr-001"> 
 								<span class="lpi-itemtitle">
-									<a title="Diamond Watch" href="http://www.itshot.com/joe-rodeo-watches-madison-diamond-watch-1025ct-p-8405.aspx">Iced Out Diamond Watch</a>
+									<a title="Mens Diamond Watches" href="http://www.itshot.com/luxurman-mens-black-diamond-watch-225ct-p-44421.aspx">Mens Black Diamond Watch</a>
                                  </span>
                                     <br>
-								<a title="Diamond Watch" href="http://www.itshot.com/joe-rodeo-watches-madison-diamond-watch-1025ct-p-8405.aspx">
-		<img height="150px" width="150px" src="images/products/964517t150.jpg" alt="Diamond Watch">
+								<a title="Mens Diamond Watch" href="http://www.itshot.com/luxurman-mens-black-diamond-watch-225ct-p-44421.aspx">
+		<img height="150px" width="150px" src="images/products/965811t150.jpg" alt="Luxurman Mens Black Diamond Watch">
         						</a>
  								<br>
 								<span class="lpi-itemprice">
-									Now Only $1,943!
+									Now Only $349!
 								</span>
 								<hr class="hr-001">
 								<span class="lpi-itemtitle">
-								<a title="Mens Diamond Watches" href="http://www.itshot.com/diamond-watches-luxurman-mens-diamond-watch-018ct-p-35207.aspx">Men's Diamond Watch</a>
+								<a title="Diamond Watches" href="http://www.itshot.com/joe-rodeo-madison-watch-full-diamond-watch-1025ct-p-8404.aspx">10.25ct Diamond Watch</a>
 								</span>
 								<br>
-								<a title="Mens Diamond Watches" href="http://www.itshot.com/diamond-watches-luxurman-mens-diamond-watch-018ct-p-35207.aspx">
-									<img height="150px" width="150px" src="images/products/964768t150.jpg" alt="Mens Diamond Watches">
+								<a title="Ladies Diamond Watch" href="http://www.itshot.com/joe-rodeo-madison-watch-full-diamond-watch-1025ct-p-8404.aspx">
+									<img height="150px" width="150px" src="images/products/964516t150.jpg" alt="Diamond Watches">
 								</a>
 								<br>
 								<span class="lpi-itemprice">
-									Now Only $149!
+									Now Only $2,234!
 								</span><br>
 								To view more men's diamond watches click <a title="men's diamond watches" href="http://www.itshot.com/mens-diamond-wrist-watches.aspx">here</a>. To view all our diamond watches please click <a title="diamond watches" href="http://www.itshot.com/mens-ladies-diamond-watches.aspx">here</a>.
 								<hr class="hr-001">
 								<span class="lpi-itemtitle">
-								<a title="14k Mens Diamond Ring" href="http://www.itshot.com/designer-mens-diamond-ring-802ct-14k-gold-p-6007.aspx">Mens Diamond Ring</a>
+								<a title="Diamond Wedding Band" href="http://www.itshot.com/wide-princess-cut-diamond-wedding-band-196ct-14k-p-40587.aspx">Diamond Wedding Band 14K Gold</a>
 								</span>
 								<br>
-							  <a title="Mens Diamond Ring" href="http://www.itshot.com/designer-mens-diamond-ring-802ct-14k-gold-p-6007.aspx">
-									<img src="images/products/004719t150.jpg" alt="Mens Diamond Ring" height="150px" width="150px">
+							  <a title="Diamond wedding band" href="http://www.itshot.com/wide-princess-cut-diamond-wedding-band-196ct-14k-p-40587.aspx">
+									<img src="images/products/800972t150.jpg" alt="14kk Diamond Wedding Band" height="150px" width="150px">
 								</a>
 								<br>
 								<span class="lpi-itemprice">
-									Now $3,995!
+									Now $1,895!
 								</span><br>
 								To view all our mens diamond rings click <a title="men's diamond rings" href="http://www.itshot.com/mens-diamond-jewelry/mens-diamond-gold-rings.aspx">here</a>. To view all our womens diamond rings click <a title="women's diamond rings" href="http://www.itshot.com/womens-diamond-gold-rings.aspx">here</a>.
 								<hr class="hr-001">
@@ -1137,7 +732,23 @@
 									<img border="0" src="images/Diamond-Jewelry-Watches-Facebook.gif" title="ItsHot.com Diamond Jewelry Watches On Facebook" alt="ItsHot.com Diamond Jewelry Watches On Facebook">
 								</a>
 							</div>
+    <div id="giveFeedbackBlock">
+        <hr class="hr-001">
+        <center>
+            <a id="giveFeedbackLink" href="givefeedback.aspx">Give Us Your Feedback</a>
+        </center>
+        <script>
+            $('#giveFeedbackLink').click(function() {
+                var feedbackWindow = window.open($(this).attr('href'), $(this).text(),'height=500, width=460');
 
+                if (window.focus) {
+                    feedbackWindow.focus();
+                }
+
+                return false;
+            });
+        </script>
+    </div>
 
 					</div>
                     
@@ -1207,7 +818,13 @@
 					</li>
 					<li>
 						<a href="http://www.itshot.com/jewelry-affiliate-program.aspx">
-							Jewelry Affiliate Program
+							Affiliate Program
+						</a>
+					|
+					</li>
+					<li>
+						<a href="http://www.itshot.com/referafriend.aspx">
+							Refer A Friend
 						</a>
 					</li>
 				</ul>
@@ -1228,9 +845,16 @@
 				<img width="68" height="24" src="images/FedEx.gif" alt="FedEx">
 				<img width="106" height="34" src="images/GIA-Appriasals.gif" alt="GIA Appraisals">
 				<img width="88" height="33" src="images/Paypal_Verified.gif" alt="Paypal Verified">
+				<img width="88" height="33" src="images/google-checkout.gif" alt="Google Checkout">
+				<img width="50" height="32" src="images/amazonFooter.gif" alt="Amazon Checkout">
 				<a title="Rss Feed" href="http://www.itshot.com/rss.xml">
 					<img height="23" width="25" src="images/rss_icon.gif" alt="RSS Feed">
 				</a>
+				<a target="_blank" title="Secured by Verisign" href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.itshot.com&amp;lang=en" rel="nofollow">
+					<img height="46" width="88" src="images/verisign.gif" alt="Secured by Verisign">
+				</a>
+				<img width="41" height="34" src="images/inc500.gif" alt="Diamond Watches Jewelry Inc 500">
+
                 </div>
                 <div class="footer-keywrdsblk">
                     		 Real diamond watches &amp; mens &amp; womens diamond jewelry: rings, bracelets, earrings, necklaces, pendants, <a title="Diamond Cross Pendants" href="http://www.itshot.com/pave-diamond-cross-pendants.aspx">diamond cross pendants</a>, <a title="diamond wedding bands" href="http://www.itshot.com/wedding-rings-bands/diamond-gold-wedding-anniversary-rings.aspx">diamond wedding bands</a> &amp; <a title="Diamond Engagement Rings" href="http://www.itshot.com/diamond-engagement-rings.aspx">diamond engagement rings</a>. <br>
@@ -1271,7 +895,7 @@ var pageTracker = _gat._getTracker("UA-239390-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+ 
 
 
-
-</body></html>
+<div class="acResultsHome" style="display: none; position: absolute;"></div></body></html>
