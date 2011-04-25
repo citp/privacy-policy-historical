@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantis.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114190244id_/http%3A//www.atlantis.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantis.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425075639id_/http%3A//www.atlantis.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: Atlantis Resort & Casino Paradise Island Bahamas BS
 
