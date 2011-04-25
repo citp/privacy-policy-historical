@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the jaagore.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121043413id_/http%3A//www.jaagore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaagore.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425172733id_/http%3A//www.jaagore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jaagore
 
-We at Tata Tea Limited are committed to protecting your privacy as a visitor to our Website and take your privacy very seriously. By using this website, you consent to the terms of our privacy policy for the collection, use and disclosure of your personal information for the purpose set out below. We do not collect, use or disclose your personal information for any purpose other than those identified below, except with your prior consent or as required by the laws applicable in India. 
+We at Tata Global beverages Limited are committed to protecting your privacy as a visitor to our Website and take your privacy very seriously. By using this website, you consent to the terms of our privacy policy for the collection, use and disclosure of your personal information for the purpose set out below. We do not collect, use or disclose your personal information for any purpose other than those identified below, except with your prior consent or as required by the laws applicable in India. 
 
 ##### INFORMATION COLLECTION: 
 
 When you register on our Website, you create your own personal profile. You may form relationships, send messages, perform searches and queries, form groups, share and transmit information and carry out a whole bunch of interactive activities. Your profile information as well as your name, email and photo (if submitted) are displayed on the website to enable you to connect with people on our Website. We may collect, store and use the following kind of personal data: 
 
   * Your profile information;
-  * Information about your computer and about your visits to and the use of this website (including your IP address, geographical location, browser type, referral source. please insert any other personal information which would be accessed by Tata Tea through the website.
+  * Information about your computer and about your visits to and the use of this website (including your IP address, geographical location, browser type, referral source. please insert any other personal information which would be accessed by Tata Global beverages through the website.
   * Information that would provide us with your purpose of registering with us;
   * Any other information that you may choose to send us.
 
@@ -40,7 +40,7 @@ We restrict access of your personal information to our employees, contractors an
 
 ##### THIRD PARTY LINKS 
 
-This Website may contain links to third party websites that are not controlled by Tata Tea Limited. These third party links are available to you as a convenience and you agree to use these links at your own risk. Please be aware that Tata Tea Limited is not responsible for the content of third party websites linked to Tata Tea Limited. 
+This Website may contain links to third party websites that are not controlled by Tata Global beverages Limited. These third party links are available to you as a convenience and you agree to use these links at your own risk. Please be aware that Tata Global beverages Limited is not responsible for the content of third party websites linked to Tata Global beverages Limited. 
 
 ##### CHANGES TO THIS PRIVACY POLICY
 
