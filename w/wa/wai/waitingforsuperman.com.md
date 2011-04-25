@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waitingforsuperman.com privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026191054id_/http%3A//www.takepart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waitingforsuperman.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425212458id_/http%3A//www.takepart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TakePart - Inspiration to Action
 
