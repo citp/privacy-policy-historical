@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freebratzdressupgames.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106162053id_/http%3A//www.freebratzdressupgames.com/page/3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freebratzdressupgames.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425152452id_/http%3A//www.freebratzdressupgames.com/page/3.html) for the most accurate reproduction.*
 
 # Bratz - Bratz Games - Free Bratz Dress Up Games - Cooking Games - Online Bratz - Privacy Policy
 
@@ -17,3 +17,5 @@ We also use third party advertisements on http://www.freebratzdressupgames.com t
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.For further information, consult the privacy policy of: [ Google ad and content network privacy policy](http://www.google.com/privacy.html).
 
 Should you have any questions about this privacy statement, the practices of this site, or a technical problem about the site that you cannot resolve, please contact the [webmaster](http://www.freebratzdressupgames.com/contact.php). 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>
