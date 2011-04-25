@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigoven.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123013420id_/http%3A//www.bigoven.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigoven.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425184748id_/http%3A//bigoven.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BigOven
 
@@ -10,18 +10,18 @@ We provide a simple [ opt-out](https://web.archive.org/account/me) screen for yo
 
 If you elect to sign up for access to our recipe archive, we need your email address.  This is so we (or other users) can contact you in the event that your posted recipes or comments have problems. 
 
-If you purchase the product, or provide additional optional information to us, we keep it private.  You can always [ opt-in or opt-out](http://www.bigoven.com/managesubscription.aspx) of our newsletter at any time. 
+If you purchase the product, or provide additional optional information to us, we keep it private.  You can always [ opt-in or opt-out](http://www.bigoven.com/account/subscriptions) of our newsletter at any time. 
 
 #### 2\. What is done with my email address?
 
 The email address that you give us will be used to send you any newsletters that you signed up for.  
 
-#### 3\. What is done with the information collected by the Message Board or the Recipe Archive?
+#### 3\. What is done with the information collected by BigOven?
 
 We refer to it to improve the service and product we deliver to you.  Over time, we will be customizing BigOven further to make it even more focused on your individual needs, and this information may be used in that effort. 
 
 #### Statement of Copyright
 
-BigOven's recipe software and unique method of retrieving, posting, rating and sharing recipes is proprietary.  The recipe archive at BigOven.com is a mechanism for other users to share, discuss and swap recipes, in conjunction with our proprietary, copyrighted software.  Users are not permitted to access our electronically hosted archive through any other means than via BigOven for Windows or manually, via an internet browser without the expressed written consent of Lakefront Software, Inc.  The starting content resident on it is a collection of recipes that have been posted or shared in public newsgroups, forums or bulletin boards by a number of people from around the world over many years, but it has gone through substantial editing by Lakefront Software, Inc. and that editing and improvement process is ongoing.  Neither the edited and formatted content, nor the method to access it, search and post recipes and user ratings have been placed in the public domain, and are copyright Lakefront Software, Inc.  The recipe archive allows other users to swap and share recipes more easily; we do not claim copyright ownership of the recipes themselves.  Except as explicitly noted in each individual recipe itself, the recipes are deemed purely instructional content and thus in the public domain.  Many of the recipes have been modified for categorization, spelling and/or accuracy by BigOven editors, but we do not claim copyright ownership on the content itself.  
+BigOven's recipe software and unique method of retrieving, posting, rating and sharing recipes is proprietary.  The recipe archive at BigOven.com is a mechanism for other users to share, discuss and swap recipes, in conjunction with our proprietary, copyrighted software.  Users are not permitted to access our electronically hosted archive through any other means than via our own software, or manually via a web browser (without automation) without the expressed written consent of Lakefront Software, Inc.  The starting content resident on it is a collection of recipes that have been posted or shared in public newsgroups, forums or bulletin boards by a number of people from around the world over many years, but it has gone through substantial editing by Lakefront Software, Inc. and that editing and improvement process is ongoing.  Neither the edited and formatted content, nor the method to access it, search and post recipes and user ratings have been placed in the public domain, and are copyright Lakefront Software, Inc.  The recipe archive allows other users to swap and share recipes more easily; we do not claim copyright ownership of the recipes themselves.  Except as explicitly noted in each individual recipe itself, the recipes are deemed purely instructional content and thus in the public domain.  Many of the recipes have been modified for categorization, spelling and/or accuracy by BigOven editors, but we do not claim copyright ownership on the content itself.  
 
 Are you the older of work you believe has been shared here improperly?  We'd be happy to quickly investigate and respond.  Please visit our [copyright](https://web.archive.org/site/copyright) section for more information.
