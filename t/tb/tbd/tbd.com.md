@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tbd.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224051142id_/http%3A//www.tbd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbd.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425175743id_/http%3A//www.tbd.com/privacy) for the most accurate reproduction.*
 
 # Privacy | TBD.com
 
