@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208104558id_/http%3A//www.ahima.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahima.org privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425113147id_/http%3A//www.ahima.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement for AHIMA Web Sites
 
@@ -65,7 +65,7 @@ At the point where we request information about the visitor, our site provides u
 
 AHIMA respects its members' and nonmembers' Internet privacy and right to choose which communications they want to receive. If you prefer not to receive AHIMA product and services e-mails, faxes, or postal mailings, go to [your profile page](https://secure.ahima.org/Profile/CommunicationPreferences.aspx) and you will be taken to the log-in page. You will need your ID and password. If you don't know your password you can use your e-mail address to have it sent to you.
 
-If you have any questions about this privacy statement, AHIMA's Web site practices, or your dealings with these Web sites, please [submit a customer support request](https://secure.ahima.org/contact/contact.aspx?code=other) for assistance.
+If you have any questions about this privacy statement, AHIMA's Web site practices, or your dealings with these Web sites, please [submit a customer support request](https://secure.ahima.org/contact/contact.aspx) for assistance.
 
 American Health Information Management Association  
 233 N. Michigan Ave., 21st Floor  
