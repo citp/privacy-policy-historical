@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scitraining.com privacy policy that was archived on 2007-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070609202148id_/http%3A//www.scitraining.com/Dispstpg.htm%3FID%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitraining.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425133412id_/http%3A//www.scitraining.com/Dispstpg.htm%3FID%3D7698) for the most accurate reproduction.*
 
-# Privacy Statement | Stratford Career Institute
+# Privacy Policy | Stratford Career Institute
 
 This privacy statement discloses the privacy practices for Stratford Career Institute and all of its web sites. To demonstrate our commitment to your privacy, we agree to notify you of:
 
@@ -23,8 +23,10 @@ Prospective students will ask for detailed information about our programs. This 
 **Enroll Online**  
 We request information from new students on our Internet-enrollment form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to ship textbooks. If we have trouble processing a shipment, this contact information is used to get in touch with the user. 
 
-**Cookies**  
+**Cookies & Ads**  
 A cookie is a piece of data stored on an individual's computer that contains information about the user. Stratford uses temporary cookies to verify that a registered student has correctly logged in for online servicing on our web site. Once the user closes the browser, the cookie simply terminates. If a user selects the “Remember Me” option, a permanent cookie is created on the user’s system. This cookie contains only an encrypted student number and no other information. If a user rejects a cookie, they may still use our site, but will not be able to take advantage of our e-service options.
+
+Stratford also uses a temporary cookie to record visitors who arrive on our site in response to advertisements. Third party vendors, including Google, show ads for our website (scitraining.com) on the Internet. Sometimes, these third party vendors, including Google, also use cookies to serve ads based on a user's prior visits to our website. No personally identifiable information is stored and the cookies terminate after 30-60 days.
 
 **Log Files**  
 We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
@@ -49,7 +51,7 @@ If a user elects to use our referral service for informing a friend about our si
  **Security**  
 This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, all information is protected both online and off-line. 
 
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just ‘surfing’. To learn more about SSL, follow this link <http://www.verisign.com/site/ssl.html>. 
+When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon will appear in the address bar, or status bar of your web browser software. This is your assurance that no one can see your private information except you and Stratford Career Institute. To learn more about SSL, follow this link <http://www.verisign.com/site/ssl.html>. 
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a student services representative) are granted access to personally identifiable information. Finally, the servers where we store personally identifiable information are kept in a secure environment, behind locked doors. 
 
@@ -63,7 +65,7 @@ If a student’s personally identifiable information changes (such as your addre
 
 **Choice/Opt-out**  
 Our students and prospective students are given the opportunity to ‘opt-in’ or ‘opt-out’ of various mailing lists when they request course information.  
-Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by replying with unsubscribe in the subject line of the email or by emailing us at [admissions@scitraining.com](mailto:admissions@scitraining.com).
+Users who no longer wish to receive our newsletter or promotional materials may opt-out of receiving these communications by replying with unsubscribe in the subject line of the email or by emailing us at [admissions@scitraining.com](mailto:admissions@scitraining.com).Users may also opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/Privacy_ads.html).
 
  **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our visitors are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
