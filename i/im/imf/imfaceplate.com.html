@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the imfaceplate.com privacy policy that was archived on 2010-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212205855id_/http%3A//imfaceplate.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imfaceplate.com privacy policy that was archived on 2011-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110425030658id_/http%3A//imfaceplate.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
@@ -10,14 +10,14 @@
 <meta name="author" content="Logiscape Technologies Inc.">
 <meta name="distribution" content="all">
 <meta name="revisit-after" content="7 days">
-<meta name="copyright" content="Copyright 2010 Logiscape Technologies Inc. All Rights Reserved">
+<meta name="copyright" content="Copyright 2011 Logiscape Technologies Inc. All Rights Reserved">
 <meta name="robots" content="ALL">
 <meta name="google-site-verification" content="mEWW2FLtnFPpPFJHsRt7oVe5RYooh7zPfhD65t8woQw">
 <title>IM faceplate - brand yourself!</title>
 <link rel="SHORTCUT ICON" href="favicon.ico">
-	<link href="/css/a-092810.css" rel="stylesheet" type="text/css">
-				<link href="/css/b-110110.css" rel="stylesheet" type="text/css">
-				<link href="/css/c-082010.css" rel="stylesheet" type="text/css">
+	<link href="/css/a-031811.css" rel="stylesheet" type="text/css">
+				<link href="/css/b-031811.css" rel="stylesheet" type="text/css">
+				<link href="/css/c-031811.css" rel="stylesheet" type="text/css">
 			<link rel="stylesheet" type="text/css" href="/js/fancybox/jquery.fancybox-1.3.1.css" media="screen">
 
 <!--[if lt IE 7]>
@@ -48,11 +48,16 @@
 -->
 <script src="http://cdn.jquerytools.org/1.2.3/jquery.tools.min.js"></script>
 <script type="text/javascript" src="/js/fancybox/jquery.fancybox-1.3.1.pack.js"></script>
+<script type="text/javascript" src="/js/jquery.cycle.all.latest.js"></script>
 <script type="text/javascript" src="/js/jquery.throttle.js"></script>
 <script type="text/javascript">
 $(document).ready(
 	function() {
-	
+		$('.slideshow').cycle({
+			fx: 		'fade', // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+			timeout:	5000
+		});
+		
 		$("#join_un").focus();
 		$("#promo_rotate").newsTicker(5000,"promo_feed");
 	
@@ -176,15 +181,15 @@ $(document).ready(
 
 
 	<div id="container"> 
-	
+	<div id="track_uri" style="display:none;"></div><script type="text/javascript">$('#track_uri').load('/track_rurl.php?id=9001564&rurl='+document.referrer);</script>
 	    <div id="header">
 		    <div id="head_1" style="position:relative;">
 		    	<a href="/" id="logoclick" style="position:absolute;top:0;left:0;height:70px;width:240px;display:block;"></a>
 				<div id="head_2_nav">
 				
-				<ul id="basic_nav"><li id="m_home"><a href="http://www.imfaceplate.com/">home</a></li>
+				<ul id="basic_nav"><li id="m_hometop"><a href="http://www.imfaceplate.com/">home</a></li>
 <li id="m_about"><a href="http://www.imfaceplate.com/about" class="selected">about</a></li>
-<li id="m_join"><a href="http://www.imfaceplate.com/create">create your faceplate</a></li>
+<li id="m_join"><a href="http://www.imfaceplate.com/create">sign up free</a></li>
 <li id="m_login"><a href="#login_form_pop" class="login_pop">sign in</a></li>
 <li id="m_help"><a href="http://www.imfaceplate.com/help">help</a></li>
 </ul></div>
@@ -200,10 +205,8 @@ $(document).ready(
 </ul></div>
 		    </div>
 	    </div>
-	
-	    
 	    	<div id="main">
-			<div id="main_content"><div id="about_menu" style="float:left; padding:0 30px 0 0;"><ul><li><a href="/about/how_it_works">» How it works</a></li><li><a href="/about/privacy">» Privacy</a></li><li><a href="/about/terms">» Terms of Use</a></li></ul></div><div style="float:left;" class="general_content"><h1>privacy</h1>
+			<div id="main_content" class="pad"><div id="about_menu" style="float:left; padding:0 30px 0 0;"><ul><li><a href="/about/how_it_works">» How it works</a></li><li><a href="/about/privacy">» Privacy</a></li><li><a href="/about/terms">» Terms of Use</a></li></ul></div><div style="float:left;" class="general_content"><h1>privacy</h1>
 <p>
     This site is owned and operated by <a href="http://www.logiscape.com" target="_blank">Logiscape Technologies Inc.</a>. Your privacy on the Internet is of the utmost importance to us. 
     At Logiscape Technologies Inc., we want to make your experience online satisfying and safe.
@@ -358,10 +361,10 @@ $(document).ready(
 	   	 	</div>		
 	   	 	<div style="clear:both;">
 	    <div id="footer">
-	    	© 2010 Logiscape Technologies Inc. 
+	    	© 2011 Logiscape Technologies Inc. 
 	    	<a href="/about/privacy">privacy</a> | 
 	    	<a href="/about/terms">terms of use</a> | 
-	    	<a href="/support">support</a> &nbsp;&nbsp;referred by <a href="/houseofmax">houseofmax</a>
+	    	<a href="/support">support</a> &nbsp;&nbsp;
 	    </div> 	
 	   	<br style="clear:both;">
 	</div>
