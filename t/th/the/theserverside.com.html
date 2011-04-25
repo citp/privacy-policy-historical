@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theserverside.com privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224180324id_/http%3A//www.techtarget.com/html/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theserverside.com privacy policy that was archived on 2011-04-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110425154747id_/http%3A//www.techtarget.com/html/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><!-- InstanceBegin template="/Templates/no_navigation_template.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -29,182 +29,30 @@ function MM_preloadImages() { //v3.0
 <!-- BEGIN WEBSIDESTORY CODE v7.3 -->
 <!-- The following calls the hitbox code from a central location; DO NOT REMOVE -->
 <!-- A new URL requires the central code to be updated -->
-<script language="JavaScript" src="/shared/conf_hbx.js"></script>
+<!--Begin Google Analytics CODE-->
 
-<!--VISUAL SCIENCES CODE HBX2.0 (Universal)-->
+<script language="JavaScript" src="/shared/googleanalytics.js"></script>
 
-<!--COPYRIGHT 1997-2005 VISUAL SCIENCES,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://visualsciences.com-->
+<script type="text/javascript">
 
-<script language="javascript">
+var _gaq = _gaq || [];
 
-//custom notification cookie
+_gaq.push(['_setAccount',getGAAccount()]);
 
-if (window.location.search.indexOf("wrData=on") != -1) document.cookie="wrData=on; path=/";
+_gaq.push(['_trackPageview']);
 
-if (window.location.search.indexOf("wrData=off") != -1) document.cookie="wrData=off; path=/";
+(function() {
 
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
 
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ehg-techtarget.hitbox.com";
+</script>
 
-var pnHost = window.location.host.substring(0,window.location.host.indexOf("."));
 
-var pnPath = window.location.pathname;
-
-pnPath = (pnPath.indexOf('/html/') != '-1') ? pnPath.substring(pnPath.indexOf('/html/')+6, pnPath.length) : pnPath.substring(1, pnPath.length);
-
-var pnWLS = window.location.search.toLowerCase();
-
-
-
-//BEGIN EDITABLE SECTION
-
-//CONFIGURATION VARIABLES
-
-hbx.acct="DM5212204PCA83EN3;" + getAccount();//ACCOUNT NUMBER(S)
-
-hbx.pn="/" + pnHost + "/" + pnPath;//PAGE NAME(S)
-
-if (pnWLS.indexOf("offer=") != -1) hbx.pn += "--" + getURLParam("offer");
-
-if (pnWLS.indexOf("track=") != -1) hbx.pn += "--" + getURLParam("track");
-
-hbx.mlc= (typeof tt_mlc != "undefined") ? tt_mlc : getMLC();//MULTI-LEVEL CONTENT CATEGORY
-
-hbx.pndef="title";//DEFAULT PAGE NAME
-
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-
-
-//OPTIONAL PAGE VARIABLES
-
-//ACTION SETTINGS
-
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-
-hbx.lt="auto";//LINK TRACKING
-
-hbx.dlf="n";//DOWNLOAD FILTER
-
-hbx.dft="n";//DOWNLOAD FILE NAMING
-
-hbx.elf="n";//EXIT LINK FILTER
-
-
-
-//SEGMENTS AND FUNNELS
-
-hbx.seg="";//VISITOR SEGMENTATION
-
-hbx.fnl="";//FUNNELS
-
-
-
-//CAMPAIGNS
-
-hbx.cmp="";//CAMPAIGN ID
-
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-
-hbx.hra="";//RESPONSE ATTRIBUTE
-
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-
-hbx.hlt="";//LEAD TRACKING
-
-hbx.hla="";//LEAD ATTRIBUTE
-
-hbx.gp="";//CAMPAIGN GOAL
-
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-
-hbx.hcn="";//CONVERSION ATTRIBUTE
-
-hbx.hcv="";//CONVERSION VALUE
-
-hbx.cp="null";//LEGACY CAMPAIGN
-
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-
-
-//CUSTOM VARIABLES
-
-var asrcParam = getURLParam("asrc");
-
-var asrc_und_1_pos = asrcParam.indexOf("_");
-
-var asrcLast2 = asrcParam.substring(asrc_und_1_pos+1,asrcParam.length);
-
-var asrc_und_2_pos = asrcLast2.indexOf("_");
-
-var asrc_src = asrcParam.substr(0,asrc_und_1_pos);
-
-var asrc_vehicle = asrcLast2.substr(0,asrc_und_2_pos);
-
-var asrc_vid = asrcLast2.substr(asrc_und_2_pos+1,asrcLast2.length);
-
-var psrcParam = getURLParam("psrc");
-
-if (psrcParam.indexOf("_") != -1) psrcParam = psrcParam.substring(0,psrcParam.indexOf("_")) + "|" + psrcParam.substring(psrcParam.indexOf("_")+1, psrcParam.length);
-
-hbx.ci="";//CUSTOMER ID
-
-if (asrc_src != "") {
-
-
-	hbx.hc1=asrc_src + "|" + pnHost + "-" + asrc_vehicle + "-" + asrc_vid + "-";//CUSTOM 1
-
-} else {
-
-	hbx.hc1="";//CUSTOM 1 if no src
-
-}
-
-hbx.hc2=psrcParam;//CUSTOM 2
-
-hbx.hc3="";//CUSTOM 3
-
-hbx.hc4="";//CUSTOM 4
-
-hbx.hrf="";//CUSTOM REFERRER
-
-hbx.pec="";//ERROR CODES
-
-
-
-//INSERT CUSTOM EVENTS
-
-if (document.cookie.indexOf("wrData=on") != -1) {
-
-	window.alert("HITBOX DATA \n accounts (hbx.acct) = " + hbx.acct + "\n pagename (hbx.pn) = " + hbx.pn + "\n hbx.mlc = " + hbx.mlc + "\n visitor segment (hbx.seg) = " + hbx.seg + "\n funnel id (hbx.fnl) = " + hbx.fnl + "\n campaign page (hbx.cmp) = " + hbx.cmp + "\n goal page (hbx.gp) = " + hbx.gp + "\n custom metric 1 (hbx.hc1) =" + hbx.hc1 + "\n custom metric 2 (hbx.hc2) = " + hbx.hc2);
-
-}
-
-
-
-//END EDITABLE SECTION
-
-
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-
-</script><script language="javascript1.1" src="/shared/hbx.js"></script>
-
-<!--END VISUAL SCIENCES CODE-->
+<!--END Google Analytics CODE-->
 <!-- COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy notice at: http://websidestory.com/privacy -->
 <!-- END WEBSIDESTORY CODE  -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -243,7 +91,13 @@ if (document.cookie.indexOf("wrData=on") != -1) {
       <td><!-- InstanceBeginEditable name="pageflag" --><!-- InstanceEndEditable --><!-- InstanceBeginEditable name="Page Content" -->
 <p class="pageheading">TechTarget, Inc. Privacy Policy</p>
 <p class="subheading">Introduction</p>
-<p class="bodytext">TechTarget, Inc. and its affiliates (collectively, “TechTarget”) are committed to protecting our users' privacy. This Privacy Policy is designed to inform users of TechTarget’s network of websites about how TechTarget gathers and uses information provided to, or collected by, TechTarget and under what circumstances TechTarget will disclose such information. TechTarget will take reasonable steps to protect user privacy consistent with the guidelines set forth in this Privacy Policy and with the laws of the United States and all other applicable jurisdictions. </p>
+<p class="bodytext">TechTarget, Inc. and its affiliates (collectively, “TechTarget”) are committed to protecting our users' privacy. This Privacy Policy is designed to inform users of TechTarget’s network of websites about how TechTarget gathers and uses information provided to, or collected by, TechTarget and under what circumstances TechTarget will disclose such information. TechTarget will take reasonable steps to protect user privacy consistent with the guidelines set forth in this Privacy Policy and with the laws of the United States and all other applicable jurisdictions.<br>
+  <br>
+  TechTarget has certified to the United States Department of Commerce that it adheres to the Safe Harbor framework developed by the United States Department of Commerce in coordination with the European Union.  The European Union’s Directive on Data Protection prohibits the transfer of personal data to non-EU countries that do not provide an “adequate” level of privacy protection.  Safe Harbor certification permits a “certified” entity to transfer personal data from the EU to the United States in accordance with the EU Directive. <br>
+  <br>
+  <a href="https://safeharbor.export.gov/list.aspx" target="_parent"><img src="../images/safeharbor.jpg" alt="Safe Harbor" width="120" height="50" hspace="5" border="0" align="right"></a>
+  <a href="../downloads/clientresources/ttgt_eu_safeharbor_privacy_policy.pdf">TechTarget’s EU Safe Harbor Privacy Policy</a> describes the manner in which TechTarget adheres to the seven Safe Harbor principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity and Enforcement. <br>
+</p>
 <p class="subheading">Privacy Policy Details</p>
 <ul>
 <li><a href="#KeyDefinitions">Key Definitions</a></li>
@@ -403,7 +257,7 @@ if (document.cookie.indexOf("wrData=on") != -1) {
 </tr>
 <tr>
 <td class="footertextcopyright">©
-2010
+2011
 TechTarget&nbsp;&nbsp;&nbsp;&nbsp;To report issues with this Web site, please contact <a href="mailto:techtargetwebsite@techtarget.com?subject=Issue%20on%20TechTarget%20Web%20site">TechTargetWebSite@techtarget.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="privacy_policy.html">Privacy Policy</a></td>
 </tr>
 </tbody></table>
