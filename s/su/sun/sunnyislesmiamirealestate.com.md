@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121150927id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnyislesmiamirealestate.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425232325id_/http%3A//www.sunnyislesmiamirealestate.com/Privacy.htm) for the most accurate reproduction.*
 
 # Sunny Realty Privacy Statement
 
@@ -35,7 +35,7 @@ www.SunnyRealty.com contain links to other websites that are not operated by Sun
 
 **Contact Sunny Realty**
 
-Sunny Realty is the sole operator of the electronic web pages known as www.SunnyRealty.com or www.SunnyRealty.com or www.SunnyIslesMiamiRealEstate.com and are © Copyright 2004-2009 by Sunny Realty. All rights reserved. If you would like to contact us for any reason regarding our privacy practices, please call, write, or email us at the following address: 
+Sunny Realty is the sole operator of the electronic web pages known as www.SunnyRealty.com or www.Sunny-Realty.com or www.SunnyRealtyFL.com or www.SunnyIslesMiamiRealEstate.com and are © Copyright 2003-2010 by Sunny Realty. All rights reserved. If you would like to contact us for any reason regarding our privacy practices, please call, write, or email us at the following address: 
 
 **Mailing Address:**   
 Sunny Realty  
@@ -44,8 +44,8 @@ Miami Beach, FL 33139
 
 **Toll Free:** 1-877-368-2318  
 **Customer Care:** 1-954-336-1016  
-**Fax:** 1-305-935-1301
+**Fax:** 1-305-945-5628
 
 **General Feedback:** [ info@SunnyRealty.com](mailto:info@SunnyRealty.com)
 
-Effective Date: 11/21/2010 
+Effective Date: 4/25/2011 
