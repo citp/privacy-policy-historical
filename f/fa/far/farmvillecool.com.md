@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the farmvillecool.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218222048id_/http%3A//farmvillecool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmvillecool.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425051758id_/http%3A//farmvillecool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | farmville cheats
-
-### Privacy Policy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -24,3 +22,5 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion. 
 
 If you have any questions regarding the privacy policy of farmvillecool.com then you may contact us at directlink.info at gmail.com
+
+Categories: Uncategorized  
