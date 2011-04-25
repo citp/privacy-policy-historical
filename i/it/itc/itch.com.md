@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the itch.com privacy policy that was archived on 2010-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100707125136id_/http%3A//www.itch.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itch.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425020338id_/http%3A//www.itch.com/privacy.cfm) for the most accurate reproduction.*
 
-# Multiplayer Online Games and Entertainment @ itch.com
+# Multiplayer Online Games | itch.com
 
 |     |  **Last Updated: July 6th, 2007**
 
