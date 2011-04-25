@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the egirlgames.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227171320id_/http%3A//www.girlgames1.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egirlgames.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425165414id_/http%3A//www.girlgames1.com/privacy.html) for the most accurate reproduction.*
 
-# Untitled Document
+# Girl Games 1 - Privacy Policy
 
 ## Google Ad Policy
 
