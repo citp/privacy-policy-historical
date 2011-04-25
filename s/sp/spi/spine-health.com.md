@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417141014id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425095007id_/http%3A//www.spine-health.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Spine-health Privacy Policy
 
-(Updated July 2009)
+(Updated September 2010)
 
 Spine-health.com is committed to maintaining the privacy of your online information, and Internet privacy is an issue that we take very seriously. We believe it is important for you to know what information is being collected about you, how that information is being used, with whom it is being shared, and how to contact us if you have additional questions or concerns.
 
@@ -41,6 +41,8 @@ Each e-mail newsletter and special offer sent by Spine-health.com contains an ea
 Subscribers to Spine-health’s e-newsletters and other emails should log in to their account to update their preferences, revise their email address, unsubscribe from a particular email, etc.
 
 On occasion, Spine-health.com will make available to potential advertisers and research firms aggregated results from research it has conducted on its user base. Once again, Spine-health.com will only provide such demographic information on an aggregated basis and does not disclose individual member profiles without user consent.
+
+Spine-health.com maintains a forums area, in which visitors can post and review posts from other visitors. [Click here](https://web.archive.org/spine-health-forum-rules-and-guidelines "Spine-health Forum Rules and Guidelines") to view the complete Spine-health Forum Rules and Regulations. 
 
 In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), Spine-health.com will never knowingly request personally identifiable information from anyone under the age of 13.
 
