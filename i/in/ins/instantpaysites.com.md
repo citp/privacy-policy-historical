@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the instantpaysites.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210001636id_/http%3A//www.instantpaysites.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpaysites.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425161558id_/http%3A//www.instantpaysites.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Instant Home Business Pays Directly to your PayPal Account
-
-  
-Privacy Policy  
-
 
   
 1) PERSONS OR PARTIES COVERED:This Privacy Policy is intended to cover all visitors to this website, all subscribers to lists or newsletters whether paid or unpaid, all members or affiliates whether paid or unpaid, and all customers. Persons who visit or view this website, whether intentionally or unintentionally, whether solicited or unsolicited, are described herein as "Visitors" and are parties to this Privacy Policy. Subscribers to lists or Newsletters are referred to herein as "Subscribers" and are parties to the Privacy Policy. Persons who join an organization or marketing endeavor (e.g. "affiliates") promoted by this website are called "Members" herein and are covered by this Privacy Policy. Finally, anyone who orders, attempts to order, or receives a product sold (recipients) or advertised on or delivered from this website, even at no cost, is called a "Customer" herein and is subject to this Privacy Policy not only by passive acceptance, but by virtue of the Purchase Agreement contract. The website, its agents, owners, operators, and employees are referred to collectively herein as "Website," "Site," and/or "Seller".
@@ -31,3 +27,6 @@ We use Web site browser software tools such as cookies and Web server logs to ga
 Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding. 
 
 9) Your Consent:By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
+
+  
+
