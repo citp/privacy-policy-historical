@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efaucets.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227195222id_/http%3A//www.efaucets.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efaucets.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425022200id_/http%3A//www.efaucets.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - eFaucets.com
 
@@ -9,7 +9,7 @@
 
 At eFaucets.com, your privacy is very important to us. We appreciate our customers and understand the value of protecting your rights. We hope to address all of your concerns through this list of privacy-related Frequently Asked Questions. 
 
-Our site is also [P3P compliant](https://web.archive.org/web/20101227195222id_/http%3A//www.efaucets.com/p3pcompliance.asp).  
+Our site is also [P3P compliant](https://web.archive.org/web/20110425022200id_/http%3A//www.efaucets.com/p3pcompliance.asp).  
   
 |    
    
