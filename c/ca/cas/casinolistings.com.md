@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinolistings.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121150642id_/http%3A//www.casinolistings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinolistings.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425232223id_/http%3A//www.casinolistings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Casino Listings
 
@@ -33,5 +33,3 @@ CasinoListings.com reserves the right to change, at any time, at our sole discre
 ## Contacting Us
 
 If you have any questions or comments on our privacy policy, please contact us via our [contact page](http://www.casinolistings.com/contact).
-
-Actions:
