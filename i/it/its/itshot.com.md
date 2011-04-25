@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itshot.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128093441id_/http%3A//www.itshot.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itshot.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426000029id_/http%3A//www.itshot.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # ItsHot.com Privacy Policy
 
