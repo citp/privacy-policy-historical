@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verzu.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201185828id_/http%3A//verzu.com/privacy.php%3Fqt%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verzu.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425162011id_/http%3A//verzu.com/privacy.php%3Fqt%3D) for the most accurate reproduction.*
 
 # verzu.com
 
