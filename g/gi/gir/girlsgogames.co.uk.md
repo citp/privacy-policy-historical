@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsgogames.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121033532id_/http%3A//www.girlsgogames.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgogames.co.uk privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425105603id_/http%3A//www.girlsgogames.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Free Online Girls Games on GirlsGoGames.co.uk
 
@@ -98,7 +98,7 @@ _Parents of users under the age of 16_
 
 **7.     ** **Children**
 
-7.1   Users under the age of 16 will be notified not to submit any personal data without the consent of their parent or legal guardian. 
+7.1   Users under the age of 8 are not allowed to register. 
 
 **8.     ** **Miscellaneous**
 
