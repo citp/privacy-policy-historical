@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the escapegames24.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610174542id_/http%3A//www.escapegames24.com/2006/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapegames24.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426014752id_/http%3A//www.escapegames24.com/2006/01/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Walkthrough, Hints, Tips, Cheats, Solutions, Help, Guide, Answers, and Tutorial
+# Privacy Policy Walkthrough, Hints, Tips, Cheats, Solutions, Help, Guide
 
   
 Privacy Policy for www.escapegames24.com
@@ -32,5 +32,6 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
   
-[Report Broken Link](http://www.escapegames24.com/2006/01/contact.html)  
-Please let us know about nonworking game links! 
+Play Random Game
+
+If you find any broken link, please report it by using [Contact](http://www.escapegames24.com/2006/01/contact.html) link. 
