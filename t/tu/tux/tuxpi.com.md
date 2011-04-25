@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuxpi.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130103217id_/http%3A//www.tuxpi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuxpi.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425062806id_/http%3A//www.tuxpi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,6 +9,10 @@ This privacy policy document outlines the types of personal information is recei
 ## Uploaded Files
 
 All files you upload to tuxpi.com are deleted from our server after a short timespan, normally after 2-3 hours. 
+
+## Sharing Photos
+
+This website doesn't provide any hosting of photos by itself but the editing interface allows to send images to third party sites for storage. Image hosting is currently provided by imageshack.us. You can find their TOS and privacy policy [here](http://imageshack.us/content.php?page=rules). 
 
 ## Log Files
 
@@ -31,5 +35,3 @@ www.tuxpi.com has no access to or control over these cookies that are used by th
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.tuxpi.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
-Loading...
