@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lilyallenmusic.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203143858id_/http%3A//lilyallenmusic.com/lily/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lilyallenmusic.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425203728id_/http%3A//www.lilyallenmusic.com/lily/privacy) for the most accurate reproduction.*
 
 # — • Lily Allen • Privacy • —
 
