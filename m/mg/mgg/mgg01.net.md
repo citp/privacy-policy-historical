@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgg01.net privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219223048id_/http%3A//mgg01.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgg01.net privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425113855id_/http%3A//www.mgg01.net/privacy.htm) for the most accurate reproduction.*
 
 # MGM Resorts International Privacy Statement
 
@@ -101,7 +101,7 @@ When we provide Personal Information to our Partners and other third parties for
 
 We are committed to protecting the accuracy and confidentiality of your Personal Information and encourage you to tell us how you want us to communicate with you and let you know about special offers. By creating an MGM Resorts International Preference Account, you can view and update your Personal Information and choose your communication preferences. Your Preference Account gives you the ability to choose which MGM Resorts International Resorts and Casinos and MGM Resorts International Web Sites you would like to receive communications from and how. You can select from communications preference options including direct mail, e-mail, telemarketing, and text messaging. To create a Preference Account or to update your preferences at any time after you have created your Preference Account, click [here](https://secure02.mgm-mirage.com/Guestbook/privacy.aspx) or visit any MGM Resorts International Web Site and select "E-mail Promotions" or "Guestbook". These options will allow you to create and access your Preference Account.
 
-If you are a member of Players Club, you may update your communications preferences by visiting [www.playersclub.com](https://www.playersclub.com/), logging in to your account, and selecting "Update Account".
+If you are a member of Players Club, you may update your communications preferences by visiting [www.mlife.com](https://www.mlife.com/), logging in to your account, and selecting "Update Account".
 
 ### B. How to Opt-Out 
 
