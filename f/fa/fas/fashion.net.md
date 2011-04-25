@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashion.net privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124055126id_/http%3A//www.fashion.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashion.net privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425065022id_/http%3A//www.fashion.net/privacy.html) for the most accurate reproduction.*
 
 # fashion net | feedback
 
