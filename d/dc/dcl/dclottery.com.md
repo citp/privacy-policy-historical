@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dclottery.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216190701id_/http%3A//www.dclottery.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dclottery.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425025434id_/http%3A//www.dclottery.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Website Privacy and Security Policy
 
