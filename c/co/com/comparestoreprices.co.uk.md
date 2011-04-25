@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparestoreprices.co.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206192959id_/http%3A//www.comparestoreprices.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparestoreprices.co.uk privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425050638id_/http%3A//www.comparestoreprices.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
