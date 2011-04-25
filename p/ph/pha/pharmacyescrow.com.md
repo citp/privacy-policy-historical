@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pharmacyescrow.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223124604id_/http%3A//www.pharmacyescrow.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmacyescrow.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426005252id_/http%3A//www.pharmacyescrow.com/privacy.aspx) for the most accurate reproduction.*
 
 # Online Pharmacy Privacy Policy
 
@@ -80,7 +80,7 @@ In the course of daily operations, PharmacyEscrow.com attempts to restrict acces
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information you submit while on our site. The information that can be stored in a cookie can include your customer ID and password (if you chose to save the password when logging into your account), the contents of your shopping cart, and whether or not you were referred by an affiliate.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
 We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
@@ -128,7 +128,7 @@ Back to Top
 
 [ ](http://server.iad.liveperson.net/hc/73507357/?cmd=file&file=visitorWantsToChat&site=73507357&byhref=1&imageUrl=http://www.pharmacyescrow.com/images/timpani/)  
   
-By using this site you agree to our [Terms and Conditions](https://web.archive.org/terms.aspx) © 2004-2010, PharmacyEscrow.com  
+By using this site you agree to our [Terms and Conditions](https://web.archive.org/terms.aspx) © 2004-2011, PharmacyEscrow.com  
 Our pharmacy escrow service does not allow shipments to any Canadian address. _  
 ** Please note that all information provided on this site is for informational purposes only.  
 Information is provided by the U.S. Food & Drug Administration as well as each medications individual manufacturer.   
