@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesmap.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224071242id_/http%3A//www.filesmap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesmap.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425122035id_/http%3A//www.filesmap.com/privacy) for the most accurate reproduction.*
 
 # - FilesMap.com
 
