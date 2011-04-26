@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renu.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213084104id_/http%3A//www.bausch.com/en_US/home/corpcomm/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renu.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426035114id_/http%3A//www.bausch.com/en_US/home/corpcomm/general/privacy.aspx) for the most accurate reproduction.*
 
 # Bausch + Lomb: Privacy Policy
 
