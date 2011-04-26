@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the opendoorsusa.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226064909id_/http%3A//www.opendoorsusa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendoorsusa.org privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426125607id_/http%3A//www.opendoorsusa.org/privacy-policy) for the most accurate reproduction.*
 
 # Open Doors Privacy Policy
 
-_
+_By visiting opendoorsusa.org you are accepting and consenting to the practices described in this Privacy Policy notice.
 
-By visiting opendoorsusa.org you are accepting and consenting to the practices described in this Privacy Policy notice. 
-
-######  Last updated August 11, 2006 
+###### Last updated August 11, 2006 
 
 _
 
