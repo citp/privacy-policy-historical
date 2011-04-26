@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isi.edu privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609045052id_/http%3A//policies.usc.edu/policies/personalinfo120104.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isi.edu privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426051243id_/http%3A//policies.usc.edu/policies/personalinfo120104.pdf) for the most accurate reproduction.*
 
 # 
 
