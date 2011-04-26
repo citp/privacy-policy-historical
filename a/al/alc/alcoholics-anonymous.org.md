@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alcoholics-anonymous.org privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124212543id_/http%3A//www.aa.org/lang/en/subpage.cfm%3Fpage%3D25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcoholics-anonymous.org privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426031750id_/http%3A//www.aa.org/lang/en/subpage.cfm%3Fpage%3D25) for the most accurate reproduction.*
 
 # Alcoholics Anonymous : Privacy Policy
 
