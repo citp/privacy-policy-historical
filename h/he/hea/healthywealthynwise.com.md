@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the healthywealthynwise.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207035221id_/http%3A//www.healthywealthynwise.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthywealthynwise.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426201838id_/http%3A//healthywealthynwise.com/privacy.asp) for the most accurate reproduction.*
 
-# HealthyWealthynWise.com | Privacy Statement
-
-  
-  
-|     |  **
+# Motivational Training - Personal Development Coach - Self-Help
 
 PRIVACY POLICY
-
-**
-
-Last Updated: July 3, 2003
 
 HealthyWealthynWise.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
@@ -20,7 +12,9 @@ How we gather information from users
 
 **
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, HealthyWealthynWise.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, HealthyWealthynWise.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors.
+
+For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
 
 **
 
@@ -34,7 +28,9 @@ Aggregated Information (information that does not personally identify you) may b
 
 We may use Personally Identifiable Information collected on HealthyWealthynWise.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by HealthyWealthynWise.com and other topics we think you might find of interest.
 
-Personally Identifiable Information collected by HealthyWealthynWise.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+Personally Identifiable Information collected by HealthyWealthynWise.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law.
+
+In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
 **
 
@@ -64,7 +60,7 @@ HealthyWealthynWise.com
 
 Email: privacy@HealthyWealthynWise.com
 
-Changes to this Policy
+**Changes to this Policy**
 
 HealthyWealthynWise.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
@@ -79,15 +75,3 @@ This policy and the use of this Site are governed by West Virginia law. If a dis
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Jefferson Couny, West Virginia, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
 HealthyWealthynWise.com is controlled, operated and administered entirely within West Virginia. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
-
-##### Send mail to [ info@healthywealthynwise.com](mailto:info@healthywealthynwise.com) with questions or comments about this web site. 
-
-|     |    
-[ ](http://myquickpaypro.com/qpp.cgi?adminid=2855&tid=8469)
-
-  [ ](http://healthywealthynwise.artselect.com/go.pl?id=785316766)
-
-  [ ](http://www.endchildhunger.com/index.php?786394)
-
-  
-| 
