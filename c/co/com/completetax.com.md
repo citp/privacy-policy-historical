@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the completetax.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228003531id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completetax.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426170101id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,7 +85,7 @@ If you choose to use our referral service to tell a friend about our site, we wi
   
 Customer Testimonials
 
-We post customer testimonials on our web site which may contain a photo of you. We do obtain the customer's consent via email prior to posting the testimonial to post their photo along with their testimonial.   
+We post customer testimonials on our web site which may contain a photo of you. We do obtain the customer's consent via email prior to posting the testimonial to post their photo along with their testimonial. To request removal of your personal information from our testimonials, click [ this link](http://tax.cchgroup.com/cforms/newsletters/taa-unsubscribe.aspx?leadsource=unsubscribe-completetax). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.   
   
 Use of Cookies
 
@@ -121,13 +121,13 @@ Our Basic Service entitles you to notification via e-mail of filing deadlines, e
 
 Personally identifiable information is only shared as indicated in this document or as otherwise consented to by you in writing, subject to compliance with all applicable laws and regulations.
 
-If you sign up for our newsletter, we will use your email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. If you no longer wish to receive our newsletter, you may opt-out of receiving them by following the instructions in each newsletter or by emailing us at [support@completetax.com](mailto:support@completetax.com).   
+If you sign up for our newsletter, we will use your email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. If you no longer wish to receive our newsletter, you may opt-out of receiving them by following the instructions in each newsletter or by clicking [this link](http://tax.cchgroup.com/cforms/newsletters/taa-unsubscribe.aspx?leadsource=unsubscribe-completetax).   
   
 Consent to Use Information
 
 Your use of the Service means that you consent to CCH's and Affiliate's access and review of your tax return information necessary to provide you with the Basic Service described above.
 
-In addition, we may provide you with promotional messages. If you wish to opt-out of receiving such promotional messages, you may send an email to [support@completetax.com](mailto:support@completetax.com) or write to CCH INCORPORATED, Online Tax Group - MS 28, 21250 Hawthorne Boulevard, Torrance, CA 90503. Declining to receive e-mail promotional messages will not affect CCH's and Affiliate's ability to deliver the Basic Service to you.  
+In addition, we may provide you with promotional messages. If you wish to opt-out of receiving such promotional messages, you may click [this link](http://tax.cchgroup.com/cforms/newsletters/taa-unsubscribe.aspx?leadsource=unsubscribe-completetax) or write to CCH INCORPORATED, Online Tax Group - MS 28, 21250 Hawthorne Boulevard, Torrance, CA 90503. Declining to receive e-mail promotional messages will not affect CCH's and Affiliate's ability to deliver the Basic Service to you.  
   
 Third Party Services 
 
@@ -161,6 +161,8 @@ From mid-October through mid-December you can still complete and mail your retur
 
 If your personally identifiable information or email address changes, or if you no longer desire our service, you may correct or update it by making the change within your account by clicking on "Manage/Edit your account information" or by emailing our Customer Support at [support@completetax.com](mailto:support@completetax.com).
 
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@completetax.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 After paying for your return, the financial information used to make your payment (e.g. credit card number), as well as the record of your payment, will not be retrievable by you.  
   
 Changes in this Privacy Statement
@@ -171,7 +173,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
   
 How to Contact Us
 
-Should you have other questions or concerns about this Privacy Policy, please submit your questions using our [Customer Support](https://web.archive.org/web/20101228003531id_/http%3A//www.completetax.com/supportrequest.asp) link or one of the methods below.
+Should you have other questions or concerns about this Privacy Policy, please submit your questions using our [Customer Support](https://web.archive.org/web/20110426170101id_/http%3A//www.completetax.com/supportrequest.asp) link or one of the methods below.
 
 CCH INCORPORATED  
 Online Tax Group - Suite 200  
@@ -183,5 +185,5 @@ Web site URL: [www.completetax.com](http://www.completetax.com/)
   
 Effective September 27, 2011
 
-[© 2010-2011, CCH. All Rights Reserved.](https://web.archive.org/web/20101228003531id_/http%3A//www.completetax.com/copyright.asp)  
+[© 2010-2011, CCH. All Rights Reserved.](https://web.archive.org/web/20110426170101id_/http%3A//www.completetax.com/copyright.asp)  
 CCH, a Wolters Kluwer business
