@@ -1,549 +1,465 @@
-<!--The following is the downloaded HTML source of the iom.edu privacy policy that was archived on 2010-07-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100717035303id_/http%3A//www.nationalacademies.org/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iom.edu privacy policy that was archived on 2011-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110426182401id_/http%3A//www.nationalacademies.org/legal/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline v2.0&quot; l gen true for &quot;http://www.national-academies.org&quot;  r (nz 1 vz 1 lz 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.national-academies.org&quot;  r (n 0 s 0 v 0 l 0))">
-<meta http-equiv="content-language" content="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="generator" content="Fog Creek CityDesk 2.0.25">
+<meta name="citydesk" content="F43ABD69/93">
+<title>National-Academies.org | Where the Nation Turns for Independent, Expert Advice</title>
 <meta name="Description" content="The nation turns to the National Academies -- National Academy of Sciences, National Academy of Engineering, Institute of Medicine, and National Research Council -- for independent, objective advice on issues that affect people's lives worldwide.">
 <meta name="Keywords" content="National Academy of Sciences, National Academy of Engineering, Institute of Medicine, National Research Council, National Academies, NAS, NAE, IOM, NRC">
 <meta name="Identifier-URL" content="www.nationalacademies.org">
-<link href="http://www.nationalacademies.org/nav/na_styles6.css" rel="stylesheet" type="text/css">
-<meta name="generator" content="Fog Creek CityDesk 2.0.25">
-<meta name="citydesk" content="1BF8D657/93">
-<title>The National Academies</title>
 
-       <script language="JavaScript">
-<!-- Begin
-function formHandler(form){
-var URL = document.topics.selection[document.topics.selection.selectedIndex].value;
-window.location.href = URL;
+<link href="http://www.nationalacademies.org/site_test/mainpage.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="http://www.nationalacademies.org/site_test/pro_dropdown_2.css">
+
+
+<!--Call jQuery-->
+
+<script type="text/javascript">
+
+// copyright 1999 Idocs, Inc. http://www.idocs.com/tags/
+// Distribute this script freely, but please keep this 
+// notice with the code.
+
+var rollOverArr=new Array();
+function setrollover(OverImgSrc,pageImageName)
+{
+if (! document.images)return;
+if (pageImageName == null)
+    pageImageName = document.images[document.images.length-1].name;
+rollOverArr[pageImageName]=new Object;
+rollOverArr[pageImageName].overImg = new Image;
+rollOverArr[pageImageName].overImg.src=OverImgSrc;
 }
-// End -->
+
+function rollover(pageImageName)
+{
+if (! document.images)return;
+if (! rollOverArr[pageImageName])return;
+if (! rollOverArr[pageImageName].outImg)
+    {
+    rollOverArr[pageImageName].outImg = new Image;
+    rollOverArr[pageImageName].outImg.src = document.images[pageImageName].src;
+    }
+document.images[pageImageName].src=rollOverArr[pageImageName].overImg.src;
+}
+
+function rollout(pageImageName)
+{
+if (! document.images)return;
+if (! rollOverArr[pageImageName])return;
+document.images[pageImageName].src=rollOverArr[pageImageName].outImg.src;
+}
+//-->
+</script>
+
+<script src="http://www.nationalacademies.org/site_test/stuHover.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.nationalacademies.org/site_test/jquery-1.3.2.min.js"></script>
+<script type="text/javascript">
+
+$(document).ready(function() {	
+ 
+	//Show Banner
+	$(".main_image .desc").show(); //Show Banner
+	$(".main_image .block").animate({ opacity: 0.85 }, 1 ); //Set Opacity
+ 
+	//Click and Hover events for thumbnail list
+	$(".image_thumb ul li:first").addClass('active'); 
+	$(".image_thumb ul li").click(function(){ 
+		//Set Variables
+		var imgAlt = $(this).find('img').attr("alt"); //Get Alt Tag of Image
+		var imgTitle = $(this).find('a').attr("href"); //Get Main Image URL
+		var imgDesc = $(this).find('.block').html(); 	//Get HTML of block
+		var imgDescHeight = $(".main_image").find('.block').height();	//Calculate height of block	
+		
+		if ($(this).is(".active")) {  //If it's already active, then...
+			return false; // Don't click through
+		} else {
+			//Animate the Teaser				
+			$(".main_image .block").animate({ opacity: 0, marginBottom: -imgDescHeight }, 250 , function() {
+				$(".main_image .block").html(imgDesc).animate({ opacity: 0.85,	marginBottom: "0" }, 250 );
+				$(".main_image img").attr({ src: imgTitle , alt: imgAlt});
+			});
+		}
+		
+		$(".image_thumb ul li").removeClass('active'); //Remove class of 'active' on all lists
+		$(this).addClass('active');  //add class of 'active' on this list only
+		return false;
+		
+	}) .hover(function(){
+		$(this).addClass('hover');
+		}, function() {
+		$(this).removeClass('hover');
+	});
+
+			
+	//Toggle Teaser
+	$("a.collapse").click(function(){
+		$(".main_image .block").slideToggle();
+		$("a.collapse").toggleClass("show");
+	});
+	
+});//Close Function
 </script>
 
 </head>
-
-
-
-
-
 <body>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="white">	
+<div align="center">
 
-		<tbody><tr>
-			<td valign="top">
-			
-<!-- Top Navigation, Search starts here -->
-				<table cellspacing="0" cellpadding="0" border="0" width="100%">
+<!--HEADER/BANNER START -->
 
+<table cellpadding="0" cellspacing="0" align="center">
+	<tbody>
+		<tr>
+			<td>
+				<table cellpadding="0" border="0" cellspacing="0">
 					<tbody>
 						<tr>
-							<td bgcolor="#000066" align="left" valign="middle" height="56" width="25%"><a href="http://www.nationalacademies.org/"><img src="http://www.nationalacademies.org/includes/tnalogo.jpg" alt="The National Academies: Advisers to the Nation on Science, Engineering, and Medicine" title="The National Academies: Advisers to the Nation on Science, Engineering, and Medicine" border="0" align="bottom" width="350" height="56/"></a>
-							</td><td rowspan="2" width="10%" height="56" bgcolor="#000066">
-							<!-- quick links for screen readers to skip links and go to Top News and Quick Links -->
-							<a href="#TN" class="invisible" style="font: 3pt verdana">Jump to Top News</a><a href="#SITH" class="invisible" style="font: 3pt verdana">Jump to Science in the Headlines</a>
+							<td>
+							<ul id="topnav" style="padding-right:10px">
+							<li><a href="http://www.nationalacademies.org/giving/">Giving</a></li>
+							
+							<li><a align="right" href="http://www7.nationalacademies.org/careers">Careers</a></li>
+							
+							<li><a align="right" href="http://www.nationalacademies.org/education/index.html">Teachers &amp; Students</a></li>
+							
+							<li><a align="right" href="http://www.nationalacademies.org/about/sponsors.html">Sponsors</a></li>
+							
+							<li><a align="right" href="http://www7.nationalacademies.org/ocga/">Congressional Affairs</a></li>
+							
+							<li><a align="right" href="http://nationalacademies.org/newsroom/">Newsroom</a></li>
+							
+							<li><a align="right" href="http://www.nationalacademies.org/memarea">Members</a></li>
+							
+							<li><img alt="tiny arrow graphic" src="http://www.nationalacademies.org/site_test/lilarrow.jpg"></li>
+							
+							<li><font color="#5392b5">Gateways</font>
+							</li>
+							</ul>
 							</td>
-							<td align="right" bgcolor="#000066" style="padding: 5px;" height="56" width="65%">
-
-								<table cellpadding="0" cellspacing="0" bgcolor="#000066" border="0">
+						</tr>
+					</tbody>
+				</table>
+				<table cellpadding="0" border="0" cellspacing="0">
+					<tbody>
+						<tr>
+							<td>
+								<table cellpadding="0" border="0" cellspacing="0" bgcolor="#1e406d" width="318" height="123">
 									<tbody>
-										<tr><td valign="top" height="48" width="205" style="font-size: 12px"><div align="center">
-									
-									
-										<!-- Search My Google Search Appliance --> <form method="get" action="http://search.nationalacademies.org/search">
-
- 
-
-  <table>
-
- 
-
-    <tbody><tr>
-
- 
-
-      <td>
-
- 
-
-        <input type="text" name="q" size="17" maxlength="255" value="">
-
-        <input type="image" name="sa" value="Search" src="http://www.nationalacademies.org/nav/images/searchbutton2.jpg" alt="Search" align="absmiddle">
-
-        <input type="hidden" name="site" value="main_collection">
-
-        <input type="hidden" name="client" value="def6v3_cluster">
-
-        <input type="hidden" name="proxystylesheet" value="def6v3_cluster">
-
-        <input type="hidden" name="output" value="xml_no_dtd">
-
-      </td>
-
-    </tr>
-
-  </tbody></table>
-
-</form>
-
- 
-
-<!-- Search My Google Search Appliance-->
-
-
-
-<p><a href="http://www.nationalacademies.org/mail.html" class="subscribe">Subscribe to our FREE
-                        e-newsletter!</a></p>
-											</div></td>
+										<tr>
+											<td valign="top">
+											<a href="http://www.nasonline.org/" onmouseover="rollover('NAS')" onmouseout="rollout('NAS')"><img title="National Academy of Sciences" align="top" src="http://www.nationalacademies.org/site_test/nas1.jpg" name="NAS" alt="National Academy of Sciences" border="0"></a>
+											<script type="text/javascript">
+											<!--
+											setrollover("http://www.nationalacademies.org/site_test/nas2.jpg");
+											//-->
+											</script>
+											
+											</td>
+										</tr>
+										<tr>
+											<td>
+											<a href="http://www.nae.edu/" onmouseover="rollover('NAE')" onmouseout="rollout('NAE')"><img title="National Academy of Engineering" align="top" src="http://www.nationalacademies.org/site_test/nae1.jpg" name="NAE" alt="National Academy of Engineering" border="0"></a>
+											<script type="text/javascript">
+											<!--
+											setrollover("http://www.nationalacademies.org/site_test/nae2.jpg");
+											//-->
+											</script>
+											</td>
+										</tr>	
+										<tr>
+											<td>
+											
+											<a href="http://www.iom.edu/" onmouseover="rollover('IOM')" onmouseout="rollout('IOM')"><img align="top" src="http://www.nationalacademies.org/site_test/iom1.jpg" name="IOM" alt="Institute of Medicine" title="Institute of Medicine" border="0"></a>
+											<script type="text/javascript">
+											<!--
+											setrollover("http://www.nationalacademies.org/site_test/iom2.jpg");
+											//-->
+											</script>
+											
+											</td>
+										</tr>
+										<tr>
+											<td>
+											
+											<a href="http://www.nationalacademies.org/nrc/index.html" onmouseover="rollover('NRC')" onmouseout="rollout('NRC')"><img align="top" src="http://www.nationalacademies.org/site_test/nrc1.jpg" name="NRC" alt="National Research Council" title="National Research Council" border="0"></a>
+											<script type="text/javascript">
+											<!--
+											setrollover("http://www.nationalacademies.org/site_test/nrc2.jpg");
+											//-->
+											</script>
+											
+											</td>
 										</tr>
 									</tbody>
 								</table>
 							</td>
-
+							<td>
+								<table id="bannerimage" cellpadding="0" cellspacing="0" bgcolor="#1e406d">
+									<tbody>
+										<tr>
+											<td valign="top">
+												<div class="class1">
+													<div align="right" style="padding:4px">
+													<!-- Search My Google Search Appliance --> 
+													
+													<form method="get" action="http://search.nationalacademies.org/search">
+													  <table>
+														<tbody><tr>
+														  <td align="right" style="padding-right:15px; padding-top:5px;">
+															<input type="text" name="q" size="24" maxlength="255" value="">
+															<input type="image" name="sa" value="Search" src="http://www.nationalacademies.org/site_test/searchicongray.jpg" alt="Search" align="absmiddle">
+															<input type="hidden" name="site" value="main_collection">
+															<input type="hidden" name="client" value="def6v3_cluster">
+															<input type="hidden" name="proxystylesheet" value="def6v3_cluster">
+															<input type="hidden" name="output" value="xml_no_dtd">      </td>
+													</tr>
+													</tbody></table>
+													</form>
+													</div>
+													<div align="right" style="height:31px; font-size:13px; font:Arial, Helvetica, sans-serif; padding-right:22px">
+												 <a style="text-decoration:none" href="http://www.nationalacademies.org/contact/index.html">Contact Us</a> | <a style="text-decoration:none" href="http://www.nationalacademies.org/status/">Current Operating Status</a>
+													</div>
+													<div style="height:51px">
+													</div>
+												</div>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				<table cellpadding="0" cellspacing="0">
+					<tbody>
+						<tr>
+							<td width="800px" align="left">
+								<span class="preload1"></span>
+								<span class="preload2"></span>
+								<ul id="nav">
+									<li class="top"><a href="http://www.nationalacademies.org/" class="top_link"><span>Home</span></a></li>
+									
+									<li class="top"><a href="http://www.nationalacademies.org/about/" class="top_link"><span class="down">About Us</span></a>
+										<ul class="sub">
+											<li><a href="http://www.nationalacademies.org/about/whoweare.html">Who We Are</a></li>
+											<li><a href="http://www.nationalacademies.org/about/whatwedo.html">What We Do</a></li>
+											<li><a href="http://www.nationalacademies.org/directories/">Organization &amp; Staff Directories</a></li>
+											<li><a href="http://www.nationalacademies.org/memarea/">Members &amp; Volunteers</a></li>
+											<li><a href="http://www.nationalacademies.org/president/">Presidents’ Corner</a></li>
+											<li><a href="http://www.nationalacademies.org/studyprocess/index.html">Study Process</a></li>
+											<li><a href="http://www8.nationalacademies.org/cp/information.aspx?key=Conflict_of_Interest">Conflict-of-Interest Policy</a></li>
+											<li><a href="http://www.nationalacademies.org/about/contact/">Visiting Our Buildings</a></li>
+										</ul>
+									</li>	
+									<li class="top"><a href="http://www.nationalacademies.org/directories/" id="Organization" class="top_link"><span class="down">Organization</span></a>
+										<ul class="sub">
+											<li><a href="http://www.nasonline.org/">National Academy of Sciences</a></li>
+											<li><a href="http://www.nae.edu/">National Academy of Engineering</a></li>
+											<li><a href="http://www.iom.edu/">Institute of Medicine</a></li>
+											<li><a href="http://www.nationalacademies.org/nrc/" class="fly">National Research Council Divisions</a>
+											<ul>
+													<li><a href="http://www7.nationalacademies.org/dbasse/">Behavioral and Social Sciences and Education</a></li>
+													<li><a href="http://dels.nas.edu/">Earth and Life Studies</a></li>
+													<li><a href="http://sites.nationalacademies.org/deps/index.htm">Engineering and Physical Sciences</a></li>
+													<li><a href="http://sites.nationalacademies.org/pga/index.htm">Policy and Global Affairs</a></li>
+													<li><a href="http://www.trb.org/">Transportation Research Board</a></li>
+											</ul>
+											</li>
+										</ul>
+									</li>
+									<li class="top"><a href="" id="activities" class="top_link"><span class="down">Events &amp; Activities</span></a>
+										<ul class="sub">
+											<li><a href="http://www8.nationalacademies.org/cp">Current Projects</a></li>
+											<li><a href="http://www8.nationalacademies.org/publicevent/">Upcoming Meetings &amp; Events</a></li>
+											<li><a href="http://www.nationalacademies.org/multimedia/index.html">Multimedia</a></li>
+											<li><a href="http://sites.nationalacademies.org/International/index.htm">International Activities</a></li>
+											<li><a href="http://www.nationalacademies.org/about/awards.html">Awards &amp; Honors</a></li>
+											<li><a href="http://nationalacademies.org/grantprograms.html">Fellowships &amp; Postdocs</a></li>
+											<li><a href="http://www.koshland-science-museum.org/">Koshland Science Museum</a></li>
+											<li><a href="http://www.nasonline.org/site/PageServer?pagename=cpnas_home">Cultural Programs</a></li>
+										</ul>
+									</li>
+									
+									<li class="top"><a href="http://www.nationalacademies.org/publications/" id="Reports &amp; Publications" class="top_link"><span class="down">Reports &amp; Publications</span></a>
+										
+										<ul class="sub">
+											<li><a href="http://www.nap.edu/">Read and Search Thousands of Reports Online</a></li>
+											<li><a href="http://www.pnas.org/"><em>Proceedings of the National Academy of Sciences</em></a></li>
+											<li><a href="http://pubsindex.trb.org/">Transportation Research Board Publications</a></li>
+											<li><a href="http://www.infocusmagazine.org/"><em>The National Academies In Focus</em> Magazine </a></li>
+											<li><a href="http://www.nae.edu/Publications/Bridge.aspx&#10;">NAE’s <em>The Bridge</em></a></li>
+											<li><a href="http://dels-old.nas.edu/ilar_n/ilarjournal/journal.shtml"><em>Institute of Laboratory Animal Research Journal</em></a></li>
+											<li><a href="http://www.issues.org/"><em>Issues in Science and Technology</em></a></li>
+											<li><a href="http://www7.nationalacademies.org/nrclibrary/index.html">Research Center Library</a></li>
+											<li><a href="http://www.nationalacademies.org/publications/">More</a></li>
+										</ul>
+									</li>
+									
+									
+								</ul>
+							</td>
+							<td>
+								<div class="classdate">
+									<div align="right" style="font-size:20px; font: arial, Helvetica, sans-serif; padding-right:21px; padding-top:5px; width:185px">
+									<script type="text/javascript" language="JavaScript1.2">
+									<!--
+									var mydate=new Date()
+									var year=mydate.getYear()
+									if (year < 1000)
+									year+=1900
+									var day=mydate.getDay()
+									var month=mydate.getMonth()
+									var daym=mydate.getDate()
+									if (daym<10)
+									daym="0"+daym
+									var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
+									var montharray=new Array("Jan.","Feb.","March","April","May","June","July","Aug.","Sep.","Oct.","Nov.","Dec.")
+									document.write("<font color='000000' face='arial' size='2'><b>"+montharray[month]+" "+daym+", "+year+"</b>")
+									
+									// -->
+									</script><font color="000000" face="arial" size="2"><b>Jan. 30, 2020</b>
+									</font>  
+									</div>
+								</div>
+							</td>
 						</tr>
 					</tbody>
 				</table>
 			</td>
 		</tr>
-		
-<!-- End Top Nav and Search -->
+	</tbody>
+</table>
 
-<!-- Start Institutional Links -->
-		<tr>
-			<td valign="top" height="20">
+<!-- HEADER/BANNER END -->
 
-				<table width="100%" border="0" cellspacing="1" cellpadding="0" bgcolor="white" align="left" style="padding-bottom: 2px;">
-					<tbody>
-						<tr>
-							<td bgcolor="#666699" onmouseover="this.style.backgroundColor='#000066';" onmouseout="this.style.background='#666699';" valign="middle" align="center" nowrap="" width="28%" height="20"><a href="http://www.nasonline.org" class="inst" style="font: 7pt verdana; color: white; text-decoration: none;">NATIONAL ACADEMY OF SCIENCES</a>
-							</td>
-							<td bgcolor="#666699" onmouseover="this.style.backgroundColor='#000066';" onmouseout="this.style.background='#666699';" valign="middle" align="center" nowrap="" width="28%"><a href="http://www.nae.edu/" class="inst" style="font: 7pt verdana; color: white; text-decoration: none;">NATIONAL
-                        ACADEMY OF ENGINEERING</a>
-							</td>
-							<td bgcolor="#666699" onmouseover="this.style.backgroundColor='#000066';" onmouseout="this.style.background='#666699';" valign="middle" align="center" nowrap="" width="19%"><a href="http://www.iom.edu/" class="inst" style="font: 7pt verdana; color: white; text-decoration: none;">INSTITUTE OF
-                        MEDICINE</a>
+<!-- CONTENT AREA STARTS -->
 
-							</td>
-							<td bgcolor="#666699" onmouseover="this.style.backgroundColor='#000066';" onmouseout="this.style.background='#666699';" valign="middle" align="center" nowrap="" width="25%"><a href="http://www.nationalacademies.org/nrc/" class="inst" style="font: 7pt verdana; color: white; text-decoration: none;">NATIONAL RESEARCH COUNCIL</a>
-							</td>
-						</tr>
-					</tbody>
-				</table>
-			</td>
-		</tr>	
-
-<!-- End Inst. Links -->
-
-		 
-		 
-<!-- Latest News Marquee, Current Date, and Op Stat info starts -->
-		<tr>
-			<td style="padding-left: 5px;" valign="middle" height="20">
-				<table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
-					<tbody>
-						<tr>
-							 <td valign="top" width="1" height="20" style="font: 8pt verdana, arial, sans-serif; color: #999999; padding-top: 2px; padding-bottom: 2px;" nowrap="">
-          </td>
-
-                     <td valign="top" height="20" width="500" style="
-                     padding-top: 2px; padding-bottom: 2px; color: #666666;" nowrap="">
-                        
-                     </td>
-							<td height="20" valign="top" style="padding-bottom: 0px; padding-right: 10px; padding-top: 4px;" align="right" nowrap="">
-<script type="text/javascript" language="JavaScript1.2"><!--
-
-var mydate=new Date()
-
-var year=mydate.getYear()
-
-if (year < 1000)
-
-year+=1900
-
-var day=mydate.getDay()
-
-var month=mydate.getMonth()
-
-var daym=mydate.getDate()
-
-if (daym<10)
-
-daym="0"+daym
-
-var dayarray=new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")
-
-var montharray=new Array("January","February","March","April","May","June","July","August","September","October","November","December")
-
-document.write("<font color='666666' face='verdana' size='1'>"+montharray[month]+" "+daym+", "+year+"<\/b>")
-
-// -->
-</script><font color="666666" face="verdana" size="1">January 30, 2020
-							</font></td>
-							<td valign="top" height="20" width="160" nowrap="" style="padding-bottom: 3px; padding-left: 3px;" align="right"><a href="http://www.nationalacademies.org/status/" class="leftlink"><img src="http://www.nationalacademies.org/includes/opstatus2.jpg"></a>
-							</td>
-						</tr>
-
-					</tbody>
-				</table>
-			</td>
-		</tr>	
-<!-- End Marquee -->
-
- <tr>
-			<td valign="top">
-
-<!-- Start Center Table containing left nav, center content, and right nav elements -->
-
-<table width="100%" align="left" border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					
-					
-<!-- left column starts -->
-						<td valign="top" width="150" align="left">
-							<table width="150" border="0" cellspacing="0" cellpadding="0" style="padding-left: 3px;">
-								<tbody>
-																
-									<tr>
-										<td valign="bottom" align="left"><img alt="Quick Links" src="http://www.nationalacademies.org/nav/images/tab_ql.gif" width="150" height="20" align="top" title="Quick Links">
-										</td>
-									</tr>
-								<!-- quick links -->
-								
-								
-									<tr>	
-
-										<td valign="top">
-											<table width="150" border="0" cellspacing="0" cellpadding="0">
-												<tbody>
-													<tr>
-														<td class="leftnav" style="border-top: 1px solid silver;" valign="top"><a href="http://www.nationalacademies.org/about" class="leftlink">About 
-            the National Academies</a>
-														</td>
-													</tr>
-													<tr>
-
-														<td class="leftnav"><a href="http://www8.nationalacademies.org/cp" class="leftlink">Current 
-            Projects</a>
-														</td>
-													</tr>
-													<tr>
-														<td class="leftnav"><a href="http://nationalacademies.org/newsroom/" class="leftlink">News 
-            Office</a>
-														</td>
-													</tr>
-													<tr>
-
-														<td class="leftnav"><a href="http://www.nationalacademies.org/publications/" class="leftlink">Publications</a>
-														</td>
-													</tr>
-													<tr>
-														<td class="leftnav"><a href="http://www7.nationalacademies.org/ocga/" class="leftlink">For Congress</a>
-														</td>
-													</tr>
-													<tr>
-
-														<td class="leftnav"><a href="http://www.nationalacademies.org/memarea" class="leftlink">Members' Site</a>
-														</td>
-													</tr>
-<tr>
-														<td class="leftnav"><a href="http://www.koshland-science-museum.org/" class="leftlink">Marian Koshland<br>Science Museum</a>
-														</td>
-													</tr>
-													<tr>
-
-														<td class="leftnav"><a href="http://www.nationalacademies.org/giving/" class="leftlink">Giving to the National 
-            Academies</a>
-														</td>
-													</tr>
-
-													
-													<tr>
-														<td class="leftnav"><a href="http://www.nationalacademies.org/directories/" class="leftlink">Directories</a>
-														</td>
-													</tr>
-
-													<tr>
-														<td class="leftnav"><a href="http://www.nationalacademies.org/contact/index.html" class="leftlink">Contact Us</a>
-														</td>
-													</tr>
-<tr>
-														<td class="leftnav"><a href="http://www.nationalacademies.org/coi/index.html" class="leftlink">Conflict-of-Interest Policy</a>
-														</td>
-													</tr>
-
-													<tr>
-														<td class="leftnav"><a href="http://www.nationalacademies.org/studycommitteprocess.pdf" class="leftlink">National Academies Study Process</a>
-														</td>
-													</tr>
-													<tr>
-														<td class="leftnav"><a href="http://www.nationalacademies.org/sitemap/" class="leftlink">Site Map</a>
-														</td>
-													</tr>
-
-												</tbody>
-											</table>
-										</td>
-									</tr>
-									
-								 <tr> 
-          <td height="5" valign="top">
-            <!-- spacer -->
-          </td>
-        </tr>
-        	<tr>
-										<td height="10" valign="top">&nbsp;<a href="http://www.nas.edu/podcast/" class="leftlink"><img src="http://www.nationalacademies.org/includes/mp3logo_tiny.jpg"></a><a href="http://www.nas.edu/podcast/" class="leftlink"> Podcasts</a>
-										</td></tr>
-									
-									<tr>
-										</tr><tr>
-										<td height="10" valign="top">&nbsp;<a href="http://www.nationalacademies.org/about/rss.html" class="leftlink"><img src="http://www.nationalacademies.org/elements/rss.JPG"></a><a href="http://www.nationalacademies.org/about/rss.html" class="leftlink"> News Feeds</a>
-										</td>
-									</tr>
-									
-								
-										<tr><td height="10" valign="top">	<!-- spacer -->
-										</td>
-									</tr>
-
-									<tr>
-										<td valign="top" align="left"><!-- Popular Searches -->
-											<table width="150" border="0" cellspacing="0" cellpadding="0" align="left">
-												<tbody>
-													<tr>
-														<th class="newhead" align="left">&nbsp;Popular Searches</th>
-													</tr>
-													
-			<tr>
-
-				<td class="new">
-				<a href="http://nationalacademies.org/evolution/" class="leftlink">Evolution</a> 
-				</td>
-			</tr>
-
-		
-			<tr>
-				<td class="new" style="border-bottom: 1px solid silver;">
-				<a href="http://americasclimatechoices.org" class="leftlink">Climate Change</a> 
-				</td>
-			</tr>
-
-            </tbody></table></td>
-        </tr>
-
-        <tr> 
-          <td height="10" valign="top">
-            <!-- spacer -->
-          </td>
-        </tr>
-        <tr>
-										<td valign="top" align="left">	<!-- Career Links -->
-											<table width="150" border="0" cellspacing="0" cellpadding="0" align="left">
-												<tbody>
-
-													<tr>
-														<th class="newhead" align="left">&nbsp;Career Links
-														</th>
-													</tr>
-													<tr>
-														<td class="new"><a href="http://www7.nationalacademies.org/careers" class="leftlink">Employment</a>
-														</td>
-													</tr>
-													<tr>
-
-														<td class="new" style="border-bottom: 1px solid silver;"><a href="http://nationalacademies.org/grantprograms.html" class="leftlink">Fellowships 
-                  &amp; Postdoc</a>
-														</td>
-													</tr>
-													<tr>
-														<td class="new" style="border-bottom: 1px solid silver;"><a href="http://nationalacademies.org/careerguides.html" class="leftlink">Career Guides</a>
-														</td>
-													</tr>
-
-							
-												</tbody>
-											</table>
-										</td>
-									</tr>
-
-
-<!-- Divisions -->
-        <tr> 
-          <td height="10" valign="top">
-            <!-- spacer -->
-          </td>
-        </tr>
-        <tr>
-
-<td valign="top" align="left">
-<table width="150" border="0" cellspacing="0" cellpadding="0" align="left">
-
+<table width="1006px" align="center" cellspacing="0" bgcolor="white" border="0">
 <tbody>
 <tr>
-<th class="newhead" align="left">&nbsp;Major Divisions
-</th>
-</tr>
-<tr>
-<td class="new"><a href="http://www7.nationalacademies.org/dbasse/" class="leftlink">Division of Behavioral<br>and Social Sciences<br>and Education</a>
-</td>
-</tr>
-<tr>
-<td class="new" style="border-bottom: 1px solid silver;"><a href="http://dels.nas.edu" class="leftlink">Division on Earth<br>and Life Studies</a>
-</td>
+<td width="1006px" cellspacing="0" cellpadding="0" border="0" bgcolor="white" valign="top">
+<div id="content_blank" align="left">
 
-</tr>
-<tr>
-<td class="new" style="border-bottom: 1px solid silver;"><a href="http://sites.nationalacademies.org/deps/index.htm" class="leftlink">Division on Engineering<br>and Physical Sciences</a>
-</td>
-</tr>
-<tr>
-<td class="new" style="border-bottom: 1px solid silver;"><a href="http://www.iom.edu" class="leftlink">Institute of Medicine</a>
-</td>
-</tr>
-<tr>
-<td class="new" style="border-bottom: 1px solid silver;"><a href="http://sites.nationalacademies.org/pga/index.htm" class="leftlink">Policy and Global<br>Affairs Division</a>
-</td>
-</tr>
-<tr>
-<td class="new" style="border-bottom: 1px solid silver;"><a href="http://www.trb.org/" class="leftlink">Transportation<br>Research Board</a>
+<h3><strong>Privacy Statement</strong></h3><br>
 
+<p><strong>About our Web site</strong></p>
+
+<p>This Privacy Statement applies to the public Web sites of the National Academy of Sciences, the National Academy of Engineering, Institute of Medicine, and National Research Council (collectively "The National Academies"). We recognize the importance of online privacy, and we strive to minimize the amount of personally identifying information we maintain. Specific information about our privacy practices relating to information collected through our Web sites are as follows.</p>
+
+<p><strong>Information Collected and Stored Automatically</strong></p>
+
+<p>We record the following information automatically for all Web site visitors:  The IP address from which you access the Internet; the date and time; the Internet address of the Web site from which you linked directly to our site; the name of the file or the words you searched; and the browser used to access our site.</p>  
+
+<p>Some public areas of our site use customized JavaScript code to record this same information in a statistics log.</p>
+
+<p>We use this information to measure the number of visitors to the various sections of our site and identify system performance or problem areas.  We may also use this information to help us expand the coverage of our Web sites and to make the Web sites more useful.</p>  
+
+<p><strong>Cookies</strong></p>
+
+<p>A cookie is a piece of data stored on the user's hard drive containing information useful for the user's Web interactions.  We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals.  The National Academies uses cookies primarily to provide general internal analytics. Some optional or customizable features of our Web site require that the user's browser accept a cookie.  The cookie information does not include personal data such as name, age, phone number, e-mail address or mailing address.  Most browsers are initially set up to accept cookies. If you would prefer, you can set your browser to reject cookies.</p>
+
+<p><strong>Information You Submit to Message Boards and Other Public Areas</strong></p>
+
+<p>Information submitted to public message boards and other public interactive web pages is available to the general public.  The e-mail address of users who post such information will be available to anyone who browses or uses the message area. The National Academies does not control the sending or receiving of e-mail messages as a result of postings to our Web sites.</p> 
+ 
+<p><strong>Sharing Personal Data with Third Parties</strong></p>
+
+<p>If a user accesses a webpage on the National Academies website to subscribe to one of our publications, register to gain access to specific areas of the National Academies' Web sites, purchase a book or other product, or requests to be added to an electronic mailing list maintained by the National Academies (“Subscription Webpage”), we may ask for contact information such as name, address and e-mail address.  We may store this information and may use it to contact you.  Your participation and the provision of such information are entirely voluntary.</p>
+ 
+<p>The use or disclosure by the National Academies of such information you provide on or in response to a Subscription Webpage (such as making subscription lists available to others) is subject to the terms and conditions, if any, set forth on each Subscription Webpage, and unless stated otherwise on the Subscription Webpage, such information you provide is not shared with third parties except as provided below.  You will be able to opt-out of communications from our partners.</p>
+
+<p>The National Academies may share personal data that is disclosed on or in response to a Subscription Webpage with its consultants or affiliates for internal business purposes and may also disclose personal data if such data is required by law.</p>    
+
+<p><strong>Technical Feedback</strong></p>
+
+<p>We may request technical information regarding the operation and functioning of our Web sites from users through surveys. Survey participation is completely voluntary and the user has a choice whether or not to disclose any information. Information requested may include contact information (such as name and e-mail address) and demographic information (such as zip code and age). Technical feedback received is used to respond to the user's question or comment and to improve our Web sites. Personally identifiable data submitted by the user for this purpose is not used for other purposes.</p>
+
+<p><strong>For Parents and Guardians</strong></p>
+
+<p>There are activities on the National Academies Web sites that children can participate in without having to share personally identifiable information.  For those activities that may require personally identifiable information, we will not condition a child's participation on the disclosure of more personally identifiable information than is reasonably necessary to administer the activity.  We may collect the child's name and online contact information to obtain parental consent or provide parents with notice, respond directly to a child's specific request, or to comply with legal requirements.   Unless we indicate otherwise on the specific Web site in question and obtain prior parental consent, personally identifiable information collected from children will be used solely by us or our agents and will not be sold or otherwise transferred to third parties.  We do not monitor public areas of our Web site for use by minors, and minors and parents should use caution when participating in such activities.</p>   
+
+<p><strong>Public Access Records</strong></p>
+
+<p>Electronic comments submitted in connection with or in response to a request for input in connection with a study committee created by the National Academies will become part of the public record of that project unless indicated on the specific Web page in question. Participation is completely voluntary and the user has a choice whether or not to disclose any information.</p>
+
+<p><strong>Links</strong></p>
+
+<p>Our Web pages may contain links to other Websites.  We are not responsible for the privacy practices of such other Web sites. Websites maintained by third parties may collect information and use it in a way inconsistent with this privacy statement.  We encourage our users to be aware when they leave our Web sites and to read carefully the privacy statements of each Web site they visit.</p>
+
+<p><strong>Financial Information</strong></p>
+
+<p>The National Academies recognizes the importance of protecting the financial information of users of this Web site that may be collected in connection with the purchase of books, periodicals, or other products, or when making a charitable contribution.  Such on-line transactions may require credit card and personal contact information. We will use your credit card number only to process the payment and we will not use it for any other purpose. Specific security provisions may be detailed on specific Web pages.   If you complete a financial transaction, the financial data is stored and shared with the necessary third parties to complete the transaction.</p>
+  
+<p><strong>Changes to this Statement</strong></p>
+
+<p>The National Academies reserve the right to change this privacy statement at any time. We will use data in accordance with the privacy statement under which any data has been collected. Questions should be directed to <a href="mailto:WebPrivacy@nas.edu">WebPrivacy@nas.edu</a>.</p> 
+	
+</div>
 </td>
 </tr>
-</tbody>
+</tbody>	
+	
 </table>
-</td>
-</tr>
 
+<!-- CONTENT AREA ENDS -->
 
-</tbody></table>
-						</td>
-<!-- End left column -->
-		
+<!-- FOOTER STARTS -->
 
-			
-<!-- Center Column Starts here -->		
-            <td valign="top" style="padding-left: 5px; padding-right: 5px;" align="left" width="100%">
-<!--StartFragment --><img height="20" alt="Legal Information" src="http://www.nationalacademies.org/elements/legal_tab.gif" width="182" align="top">
+<table width="1006px" align="center" cellspacing="0">
+	<tbody><tr><td valign="top" bgcolor="#FFFFFF">
+		<div id="footer"> 
+			<div class="footer">
+			 	<ul class="footer-right-ul">
+				 	<li><a style="text-decoration:none" class="homelink" href="/"><font size="-1">Where the Nation Turns for Independent, Expert Advice</font></a></li>	
+			 	</ul>
+			 	<ul>
+				 	<li>Follow Us: </li>
+				 	<li><a href="http://www.nationalacademies.org/about/rss.html"><img alt="RSS Icon" title="RSS Icon" style="margin-left:5px; margin-top:2px" src="http://www.nationalacademies.org/includes/rssnewicon.jpg"></a></li>
+				 	<li><a href="http://www.facebook.com/NationalAcademiesPress"><img alt="Facebook Icon" title="Facebook Icon" style="margin-left:5px; margin-top:2px" src="http://www.nationalacademies.org/includes/facebookicon.jpg"></a></li>
+				 	<li><a href="http://twitter.com/NAS_news/national-academies"><img alt="Twitter Icon" title="Twitter Icon" style="margin-left:5px; margin-top:2px" src="http://www.nationalacademies.org/includes/twittericon.jpg"></a></li>
+				 	<li class="sep">|</li>
+					<li><a href="http://www.nationalacademies.org/subscribe.html">E-Newsletters</a></li>
+				 	
+			 	</ul> 
+				
+				<div class="address" align="left" style="padding-top:5px">
+				<a href="http://www.nationalacademies.org"><img alt="The National Academies" title="The National Academies" width="241" height="38" align="right" src="http://www.nae.edu/common/images/footerlogo.png"></a>  
+				<p><strong>The National Academies</strong>      <br>500 Fifth Street, NW | Washington, DC 20001 | T. 202.334.2000<br>
+				<a href="http://www.nationalacademies.org/legal/privacy.html">Privacy Policy</a> | <a href="http://www.nationalacademies.org/legal/terms.html">Terms of Use</a> | <a href="http://www.nationalacademies.org/sitemap/">Site Map</a></p>
+				</div>
+				<div class="copyright" align="left">Copyright © 2011 National Academy of Sciences. All rights reserved.
+				</div>
+			</div>
+		</div>
+	</td>
+</tr></tbody></table>
 
-			<table border="0" cellspacing="0" cellpadding="20" width="100%">
-                        <tbody><tr>
-                           <td valign="top" width="50%" style="border-top: 1px solid silver; border-bottom: 1px solid silver; border-left: 1px solid silver; border-right: 1px solid silver;">
+<!-- FOOTER ENDS -->
 
-<!-- Content Starts Here -->
-
-
-<p style="PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: larger; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif">Privacy Statement</p>
-
-<p class="blurb"><strong>About our Web site</strong><br><br>
-The National Academies, which include the National Academy of Sciences, National Academy of Engineering, Institute of Medicine, National Research Council and National Academies Press, recognize the importance of online privacy.</p>
-
-<br>
-
-<p class="blurb"><strong>Providing Visitors with Anonymous Access</strong><br><br>
-Users can browse our Web sites without disclosing personal data subject to the specific policies and provisions set forth below. Users always have the option not to provide personal data that may be requested on our Web sites. We do collect technical information such as browser type. This information is analyzed in aggregate form to help us improve the Web sites for users. Notwithstanding anything herein to the contrary, the National Academies may share personal data that are disclosed with consultants and affiliates for internal business purposes and may divulge personal data if such data is subpoenaed, or if the National Academies believe that such disclosure may be required by law. It is the National Academies" policy to not share personal data with third parties.</p>
-
-<br>
-
-<p class="blurb"><strong>Cookies</strong><br><br>
-A cookie is a piece of data stored on the user's hard drive containing information useful for the user's Web interactions. We do not use cookies to store personal data nor do we link non-personal information stored in cookies with personal data about specific individuals. Some features of our site require that the user's browser accept a cookie that contains a unique, random number used to maintain a logon session or provide a personalized experience. We will provide an explanation of how cookies are used for such features.</p>
-
-<br>
-
-<p class="blurb"><strong>Registration, Newsletter &amp; Electronic mailing lists</strong><br><br>
-If a user wishes to subscribe to one of our publications, register to gain access to specific areas of the National Academies' Web sites, or be added to an electronic mailing list maintained by the National Academies, we may ask for contact information such as name, address and e-mail address. Participation and the provision of such information are entirely voluntary. Note that use of such personal data is subject to the terms and conditions, if any, set forth on the individual Web pages, and unless indicated otherwise, such information is not shared with third parties.</p>
-
-<br>
-
-<p class="blurb"><strong>Technical Feedback</strong><br><br>
-We may request technical information regarding the operation and functioning of our Web sites from users through surveys. Survey participation is completely voluntary and the user has a choice whether or not to disclose any information. Information requested may include contact information (such as name and e-mail address) and demographic information (such as zip code and age). Technical feedback received is used to respond to the user's question or comment and to improve our Web sites. Personally identifiable data submitted by the user for this purpose is not used for other purposes.</p>
-
-<br>
-
-<p class="blurb"><strong>Public Access Records</strong><br><br>
-Electronic comments submitted in connection with or in response to a request for input in connection with a study committee created by the National Academies may become part of the public record of that project. Participation is completely voluntary and the user has a choice whether or not to disclose any information.</p>
-
-<br>
-
-<p class="blurb"><strong>Community and Public Areas</strong><br><br>
-Unless clearly declared a "private" area, information posted to message boards, chat areas and other interactive Web pages is available to the general public. The e-mail address of users who post such information will be available to anyone who browses or uses the message area. Please use caution when posting any such information. The National Academies does not control the sending or receiving of e-mail messages as a result of postings to our Web sites.</p>
-
-<br>
-
-<p class="blurb"><strong>Children</strong><br><br>
-
-We will not request personally identifiable information from children. If a child sends us an e-mail or other communication with a question or comment or enters a contest, we may respond using his or her e-mail address. We do not typically monitor community and public areas (described above) for use by children, and children and parents should use caution when participating in those activities.</p>
-
-<br>
-
-<p class="blurb"><strong>Security of Financial Information</strong><br><br>
-The National Academies recognize the importance of protecting the financial information of users of this Web site that may be collected in connection with the purchase of books, periodicals, or other products, or when making a charitable donation. Such on-line transactions may require credit card and personal contact information. We will use your credit card number only to process the payment and we will not use it for any other purpose. Security provisions may be detailed on specific Web pages. For a specific example, <a href="http://books.nap.edu/v3/makepage.phtml?val1=security">see the National Academies Press security statement</a>. If you have questions about the security on other parts of our Web site, send a message to our Web feedback box, <a href="http://www.nationalacademies.org/cgi-bin/formfeed.cgi">accessible from this link</a> or from the menu at the top and bottom of most pages on our site.</p>
-
-<br>
-
-<p class="blurb"><strong>Links </strong><br><br>
-Our Web pages may contain links to other Web sites. The National Academies are not responsible for the privacy practices of such other Web sites. Web sites maintained by third parties may collect information and use it in a way inconsistent with this privacy statement. We encourage our users to be aware when they leave our Web sites and to read the privacy statements of each Web site they visit. Web sites maintained by third parties may also refer to products, processes or services of the National Academies; unless we have provided explicit authority, such references in no way indicate our endorsement, recommendation or preference.</p>
-
-<br>
-
-<p class="blurb"><strong>Changes to this Statement</strong><br><br>
-The National Academies reserve the right to change this privacy statement at any time. We will use data in accordance with the privacy statement under which any data has been collected. Questions should be directed toto our Web feedback box, <a href="http://www.nationalacademies.org/cgi-bin/formfeed.cgi">accessible from this link</a> or from the menu at the bottom of most pages on our site.</p>
-
-
-<!-- Content Ends Here -->
-
-                           </td>
-                        </tr>
-                     </tbody></table>
-                           
-                  
-            </td>
-
-
-        </tr><tr><td height="10" colspan="3"><!-- spacer --></td></tr>
-		
-		
-<!-- Bottom Navigation Links and Copyright Information here -->	
-         <tr>
-            <td valign="absmiddle" align="center" bgcolor="#666699" colspan="3" height="20">
-               <a href="http://www.nationalacademies.org/about/rss.html"><img src="http://www.nationalacademies.org/elements/xml.gif" alt="RSS News Feed" width="36" height="14" align="absbottom"></a> | 
-               <a href="http://www.nationalacademies.org/subscribe.html" class="bottomlinks">Subscribe to e-newsletters</a> | 
-               <a href="http://www.nationalacademies.org/cgi-bin/formfeed.cgi" class="bottomlinks">Feedback</a> | <a href="#top" class="bottomlinks">Back to Top</a>
-
-            </td>
-         </tr>
-         <tr>
-            
-    <td colspan="3" valign="top" align="center"> 
-      <div class="copyright"><a href="http://www.national-academies.org/legal/" class="copyright">Copyright © 2010. National Academy of Sciences. All rights reserved. 500 Fifth St. N.W., Washington, D.C. 20001.</a> <br>
-<a href="http://www.national-academies.org/legal/" class="copyright">Terms of Use and Privacy Statement</a> </div>
-            </td>
-         </tr>
-
-      </tbody></table>
-
-      </td></tr></tbody></table>
-   
+</div>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+var gaJsHost = (("https:" == document.location.protocol)
+? "https://ssl." : "http://www.");
+document.write("\<script src='" + gaJsHost
++ "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
 
 <script type="text/javascript">
 var firstTracker = _gat._getTracker("UA-3065995-1");
 firstTracker._initData();
 firstTracker._trackPageview();
 
-var secondTracker = _gat._getTracker("UA-2130316-1");
+var secondTracker = _gat.getTracker("UA-2130316-1");
 secondTracker._initData();
 secondTracker._trackPageview();
 
-var thirdTracker = _gat._getTracker("UA-3310925-1");
+var thirdTracker = _gat.getTracker("UA-3310925-1");
 thirdTracker._initData();
 thirdTracker._trackPageview();
 </script>
-
 
 
 </body></html>
