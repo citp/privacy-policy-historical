@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213024544id_/http%3A//britainexpress.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426083531id_/http%3A//britainexpress.com/Privacy.htm) for the most accurate reproduction.*
 
 # Britain Express Privacy Policy
 
@@ -70,6 +70,8 @@ GL54 2ND
 
 ### Name the Historic attraction
 
+### British Heritage Awards
+
 ### British History Quiz
 
 ### This Day in British History
@@ -79,19 +81,17 @@ GL54 2ND
   
 
 
-|  **Old English Inns**  
+|  +Great British Heritage Pass+  
 ---  
   
-[](http://www.awin1.com/cread.php?s=214050&v=2779&q=109062&r=90363)   
-[**Old English Inns**](http://www.awin1.com/awclick.php?mid=2779&id=90363)
+[](https://web.archive.org/gbhp.htm) [**Free entry to almost 600 top UK attractions**](https://web.archive.org/gbhp.htm)
 
-A collection of over 50 traditional Inns and Hotels in country and seaside locations in England.
+**Visit** castles, gardens, abbeys, stately homes, Roman forts, museums, mills, historic buildings, lighthouses, townhouses, museums, windmills, nature reserves, stone circles, medieval tithe barns, industrial heritage sites, dovecotes, battlefields, tunnels, cathedrals, bridges, and royal palaces. **Whew!**
 
-Perfect for people wanting a quick break at a great value price. All Old English hotels and inns are AA graded, and offer a warm and welcoming atmosphere, great food, real cask ales and good value for money.
-
-[**_Find an Inn_**](http://www.awin1.com/awclick.php?mid=2779&id=90363)  
+ [ **Great British Heritage Pass**](https://web.archive.org/gbhp.htm)  
   
-[](http://www.historytimes.com/)
+  
+
 
   
 
