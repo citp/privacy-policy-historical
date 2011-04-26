@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cherryculture.com privacy policy that was archived on 2010-01-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100108022846id_/http%3A//www.cherryculture.com/security-and-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cherryculture.com privacy policy that was archived on 2011-04-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110426025427id_/http%3A//www.cherryculture.com/security-and-privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>
@@ -119,19 +119,10 @@ var x, rg;
 }
 
 function formvalidation(form) {
-	if (form.processedby.selectedIndex==0)
-	{
-		alert("Please select the person processing the order!");
-		form.processedby.focus();
-		return false;
-	}
-	else
-	{
-		form.submit();
-	}
+	form.submit();
 } 
 
-function checkShippingAndWeight(txShipping, txWeight, txPriority)
+function checkShippingAndWeight(txShipping, txWeight, txPriority, txNoFedex, txCountry, txState)
 {
 	if ((txWeight.value>13)&&(txWeight.value<16))
 	{
@@ -149,7 +140,14 @@ function checkShippingAndWeight(txShipping, txWeight, txPriority)
 			{
 				if (txWeight.value>=18)
 				{
-					txShipping.selectedIndex=4;
+					if (txNoFedex == 0)
+					{
+						txShipping.selectedIndex=4;
+					}
+					else
+					{
+						txShipping.selectedIndex=3;
+					}
 				}
 				else
 				{
@@ -159,6 +157,36 @@ function checkShippingAndWeight(txShipping, txWeight, txPriority)
 			}
 		}
 	}
+	if (((txCountry=='US')&&((txState=='HI')||(txState=='AK')))||(txCountry=='UM'))
+	{
+		txShipping.selectedIndex=2;
+	}
+	if (txCountry=='UT')
+	{
+		if (txShipping.selectedIndex>2)
+		{
+			txShipping.selectedIndex=2;
+		}
+	}	
+}
+
+function checkIfProcessed(frm, newstatus)
+{
+	if (newstatus=='C')
+	{
+		if (frm.bProcessed.value == 1)
+		{
+			frm.submit();
+		}
+		else
+		{
+			alert("You must select Staff");
+		}
+	}
+	else
+	{
+		frm.submit();
+	}
 }
 
 -->
@@ -167,13 +195,13 @@ function checkShippingAndWeight(txShipping, txWeight, txPriority)
 <table border="0" cellpadding="0" cellspacing="0" align="center"><tbody><tr><td background="/skin1/images/shadow_left.gif"><img src="/skin1/images/spacer.gif" width="10" height="10"></td>
 <td>
 <table border="0" cellpadding="0" cellspacing="0" bordercolor="#FFC7C7" align="center"><tbody><tr><td>
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="984" height="400">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="984" height="700">
   <tbody><tr>
     <td valign="top" bgcolor="FFFFFF"><div style="position: absolute;" id="div_null"></div>
 <script language="javascript">
 
 <!--
-function ShowBrand(strBrand, brandid)
+function ShowBrand(strBrand, brandid, url)
 {
 	if ((strBrand!='Shop By Brand')&&(brandid!=0))
 	{
@@ -183,7 +211,8 @@ function ShowBrand(strBrand, brandid)
 		strBrand = strBrand.replace(' ', '-');
 		strBrand = strBrand.replace('.', '');
 		strBrand = strBrand.replace(' ', '-');
-		location.href = "http://www.cherryculture.com/cosmetics/brands/" + strBrand + "/" + brandid;
+		//location.href = "http://www.cherryculture.com/cosmetics/brands/" + strBrand + "/" + brandid;
+		location.href = url;
 	}
 	else
 	{
@@ -260,48 +289,40 @@ function TimedHide()
 	  </tr>
 	<tr valign="middle">
 	  <td height="29" align="left" valign="middle"><a href="http://www.cherryculture.com/cosmetics/makeup/eyes" onmouseover="MM_swapImage('Menu254','','/skin1/images/barEyes_o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/barEyes.gif" name="Menu254" width="79" height="36" border="0" id="Menu254"></a><a href="http://www.cherryculture.com/cosmetics/makeup/lips" onmouseover="MM_swapImage('Menu255','','/skin1/images/barLips_o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/barLips.gif" name="Menu255" width="68" height="36" border="0" id="Menu255"></a><a href="http://www.cherryculture.com/cosmetics/makeup/face" onmouseover="MM_swapImage('Menu256','','/skin1/images/barFace_o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/barFace.gif" name="Menu256" width="74" height="36" border="0" id="Menu256"></a><a href="http://www.cherryculture.com/cosmetics/makeup/nails" onmouseover="MM_swapImage('Menu257','','/skin1/images/barNails_o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/barNails.gif" name="Menu257" width="75" height="36" border="0" id="Menu257"></a><a href="http://www.cherryculture.com/cosmetics/makeup/body" onmouseover="MM_swapImage('Menu269','','/skin1/images/barBody_o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/barBody.gif" name="Menu269" width="78" height="36" border="0" id="Menu269"></a><a href="http://www.cherryculture.com/cosmetics/makeup/tools" onmouseover="MM_swapImage('Menu270','','/skin1/images/barTools_o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/barTools.gif" name="Menu270" width="79" height="36" border="0" id="Menu270"></a><a href="http://www.cherryculture.com/cosmetics/makeup/sets" onmouseover="MM_swapImage('Menu321','','/skin1/images/barSets_o.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/skin1/images/barSets.gif" name="Menu321" width="67" height="36" border="0" id="Menu321"></a><img src="/skin1/images/barBrands.gif" width="75" height="36" border="0" id="Menu321"><img src="/skin1/images/spacer.gif" width="5" height="1"></td>
-          <td width="190"><select name="selbrand" id="selbrand" class="BorderTableGrey" style="width:180px" onchange="javascript: var cmbBrand=document.getElementById('selbrand');	ShowBrand(cmbBrand.options[cmbBrand.selectedIndex].text, cmbBrand.options[cmbBrand.selectedIndex].value)">
+          <td width="190"><select name="selbrand" id="selbrand" class="BorderTableGrey" style="width:180px" onchange="javascript: var cmbBrand=document.getElementById('selbrand');	ShowBrand(cmbBrand.options[cmbBrand.selectedIndex].text, cmbBrand.options[cmbBrand.selectedIndex].value, cmbBrand.options[cmbBrand.selectedIndex].title)">
 <option value="0">Shop By Brand</option>		  
-<option value="2">Amuse</option>
-<option value="65">Arissa</option>
-<option value="51">Beauty Blender</option>
-<option value="55">Blah Blah</option>
-<option value="35">Bloom Cosmetics</option>
-<option value="56">Cherry Culture</option>
-<option value="43">Crazy Rumors</option>
-<option value="26">Eyeko</option>
-<option value="54">Freeze 24.7</option>
-<option value="28">Girlactik Beauty</option>
-<option value="27">Jelly Pong Pong</option>
-<option value="47">Juice Beauty</option>
-<option value="6">Kissywear</option>
-<option value="52">Kitten Vixen</option>
-<option value="7">Kleancolor</option>
-<option value="33">L.A. Colors</option>
-<option value="8">L.A. Girl</option>
-<option value="64">LASplash</option>
-<option value="53">Lucky Chick</option>
-<option value="25">Lulu Beauty</option>
-<option value="24">Luscious</option>
-<option value="45">Me! Bath</option>
-<option value="63">MILANI</option>
-<option value="48">MOR Cosmetics</option>
-<option value="10">NYX Cosmetics</option>
-<option value="22">Pinkie Swear</option>
-<option value="38">Playboy Beauty</option>
-<option value="37">Pookie</option>
-<option value="16">Princessa</option>
-<option value="44">Principessa</option>
-<option value="21">Rosie Jane</option>
-<option value="58">Sassi</option>
-<option value="62">Sinful Colors</option>
-<option value="12">Starry</option>
-<option value="60">Styli-Style</option>
-<option value="50">SUGAR Cosmetics</option>
-<option value="32">Sugar Baby</option>
-<option value="34">TINte</option>
-<option value="59">Wild and Crazy</option>
-<option value="14">Zalan</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/amuse/2" value="2">Amuse</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/arissa/65" value="65">Arissa</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/beauty-blender/51" value="51">Beauty Blender</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/bloom-cosmetics/35" value="35">Bloom Cosmetics</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/crazy-rumors/43" value="43">Crazy Rumors</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/eyeko/26" value="26">Eyeko</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/freshminerals/67" value="67">freshMinerals</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/girlactik/28" value="28">Girlactik Beauty</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/jelly-pong-pong/27" value="27">Jelly Pong Pong</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/juice-beauty/47" value="47">Juice Beauty</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/jordana/66" value="66">Jordana</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/kitten-vixen/52" value="52">Kitten Vixen</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/la-colors/33" value="33">L.A. Colors</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/la-girl/8" value="8">L.A. Girl</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/lasplash/64" value="64">LASplash</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/lucky-chick/53" value="53">Lucky Chick</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/lulu-beauty/25" value="25">Lulu Beauty</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/luscious/24" value="24">Luscious</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/me!-bath/45" value="45">Me! Bath</option>
+<option title="http://www.cherryculture.com/milani" value="63">MILANI</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/mor-cosmetics/48" value="48">MOR Cosmetics</option>
+<option title="http://www.cherryculture.com/nyx" value="10">NYX</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/pinkie-swear/22" value="22">Pinkie Swear</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/playboy-beauty/38" value="38">Playboy Beauty</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/pookie/37" value="37">Pookie</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/principessa/44" value="44">Principessa</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/sinful-colors/62" value="62">Sinful Colors</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/styli-style/60" value="60">Styli-Style</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/sugar-cosmetics/50" value="50">SUGAR Cosmetics</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/sugar-baby/32" value="32">Sugar Baby</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/tinte/34" value="34">TINte</option>
+<option title="http://www.cherryculture.com/cosmetics/brands/wild-and-crazy/59" value="59">Wild and Crazy</option>
 		  
 		  </select></td>
     </tr>	
@@ -396,34 +417,34 @@ Our business changes constantly, and our Privacy Policy and the Terms of Agreeme
             <div align="right"><img src="/skin1/images/bottomSocialNet.jpg" width="472" height="85" border="0" usemap="#MapBottom"></div></td></tr></tbody></table></td>									
   		</tr>
 		<tr>
-          <td width="144" height="20" valign="middle"><div align="left"><a href="http://www.cherryculture.com/customer-service" class="SmallMenuItems">Customer Service</a></div></td>
-          <td width="119" valign="middle"><div align="left"><a href="http://www.cherryculture.com/cosmetics/makeup/new-items/332&amp;sort=categ" class="SmallMenuItems">New Items</a></div></td>
-          <td width="196" valign="middle"><div align="left"><a href="http://www.cherryculture.com/about-cherry-culture" class="SmallMenuItems">About Cherry Culture</a></div></td>
+          <td width="144" height="20" valign="top"><div align="left"><a href="http://www.cherryculture.com/customer-service" class="SmallMenuItems">Customer Service</a></div></td>
+          <td width="119" valign="top"><div align="left"><a href="http://www.cherryculture.com/cosmetics/makeup/new-items/332&amp;sort=categ" class="SmallMenuItems">New Items</a></div></td>
+          <td width="196" valign="top"><div align="left"><a href="http://www.cherryculture.com/about-cherry-culture" class="SmallMenuItems">About Cherry Culture</a></div></td>
         </tr>
 		<tr>
-          <td height="20" valign="middle"><div align="left"><a href="http://www.cherryculture.com/rewardsprogram" class="SmallMenuItems">Rewards</a></div></td>		
-          <td valign="middle"><div align="left"><a href="http://www.cherryculture.com/cosmetics/makeup/gift-ideas/341" class="SmallMenuItems">Gift Ideas</a></div></td>
-          <td valign="middle"><div align="left"><a href="http://www.cherryculture.com/press-and-media" class="SmallMenuItems">Press and Media</a></div></td>
+          <td height="20" valign="top"><div align="left"><a href="http://www.cherryculture.com/rewardsprogram" class="SmallMenuItems">Rewards</a></div></td>		
+          <td valign="top"><div align="left"><a href="http://www.cherryculture.com/cosmetics/makeup/gift-ideas/341" class="SmallMenuItems">Gift Ideas</a></div></td>
+          <td valign="top"><div align="left"><a href="http://www.cherryculture.com/press-and-media" class="SmallMenuItems">Press and Media</a></div></td>
         </tr>
 		<tr>
-          <td height="20" valign="middle"><div align="left"><a href="http://www.cherryculture.com/terms-and-conditions" class="SmallMenuItems">Terms &amp; Conditions</a></div></td>		
-          <td valign="middle"><div align="left"><a href="http://www.cherryculture.com/cosmetics/makeup/sales/306" class="SmallMenuItems">Sales</a></div></td>
-          <td valign="middle"><div align="left"><a href="http://www.cherryculture.com/affiliates" class="SmallMenuItems">Affiliates</a></div></td>
+          <td height="20" valign="top"><div align="left"><a href="http://www.cherryculture.com/special-offers" class="SmallMenuItems">Special Offers</a></div></td>		
+          <td valign="top"><div align="left"><a href="http://www.cherryculture.com/cosmetics/makeup/sales/306" class="SmallMenuItems">Sales</a></div></td>
+          <td valign="top"><div align="left"><a href="http://www.cherryculture.com/beauty-buzz" class="SmallMenuItems">Beauty Buzz</a></div></td>
         </tr>
 		<tr>
-          <td height="20" valign="middle"><div align="left"><a href="http://www.cherryculture.com/security-and-privacy" class="SmallMenuItems">Security and Privacy</a></div></td>		
-          <td valign="middle"><div align="left"><a href="http://www.cherryculture.com/insider-pick" class="SmallMenuItems">Insider Pick</a></div></td>
-          <td valign="middle"><div align="left"><a href="http://www.cherryculture.com/vendor-relations" class="SmallMenuItems">Vendor Relations</a></div></td>
+          <td height="20" valign="top"><div align="left"><a href="http://www.cherryculture.com/terms-and-conditions" class="SmallMenuItems">Terms &amp; Conditions</a></div></td>		
+          <td valign="top"><div align="left"><a href="http://www.cherryculture.com/featured-brand-girlactik-beauty" class="SmallMenuItems">Featured Brand</a></div></td>
+          <td valign="top"><div align="left"><a href="http://www.cherryculture.com/affiliates" class="SmallMenuItems">Affiliates</a></div></td>
         </tr>
 		<tr>
-          <td height="20" valign="middle"><div align="left"><a href="http://www.cherryculture.com/sitemap" class="SmallMenuItems">Site Map</a></div></td>		
-          <td valign="middle"><div align="left"><a href="http://www.cherryculture.com/cosmetics/makeup/tips-and-trends" class="SmallMenuItems">Tips &amp; Trends</a></div></td>
-          <td valign="middle"><div align="left"><a href="http://www.cherryculture.com/wholesale_program" class="SmallMenuItems">Wholesale</a></div></td>
+          <td height="20" valign="top"><div align="left"><a href="http://www.cherryculture.com/security-and-privacy" class="SmallMenuItems">Security and Privacy</a></div></td>		
+          <td valign="top"><div align="left"><a href="http://www.cherryculture.com/insider-pick" class="SmallMenuItems">Insider Pick</a></div></td>
+          <td valign="top"><div align="left"><a href="http://www.cherryculture.com/premium-members" class="SmallMenuItems">Premium Members</a></div></td>
         </tr>
 		<tr>
-		  <td height="30" valign="middle"></td>
-		  <td valign="middle"></td>
-		  <td valign="middle"></td>
+		  <td height="30" valign="top" align="left"><a href="http://www.cherryculture.com/sitemap" class="SmallMenuItems">Site Map</a></td>
+		  <td valign="top" align="left"><a href="http://www.cherryculture.com/cosmetics/makeup/tips-and-trends" class="SmallMenuItems">Tips &amp; Trends</a></td>
+		  <td valign="top" align="left"><a href="http://www.cherryculture.com/vendor-relations" class="SmallMenuItems">Vendor Relations</a></td>
 	    </tr>							
 </tbody></table></td>
     <td width="25" valign="top"></td>
@@ -446,7 +467,7 @@ Our business changes constantly, and our Privacy Policy and the Terms of Agreeme
 </tbody></table>
 <table width="100%" cellpadding="0" cellspacing="0" align="center">
   <tbody><tr align="center" valign="bottom">
-    <td height="21" colspan="2" valign="bottom" class="Bottom">Copyright © 2006-2009 Cherry Culture ALL RIGHTS RESERVED
+    <td height="21" colspan="2" valign="bottom" class="Bottom">Copyright © 2006-2011 Cherry Culture ALL RIGHTS RESERVED
 </td>
 </tr>
 </tbody></table>
