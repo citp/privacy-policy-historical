@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dataxu.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126155400id_/http%3A//www.dataxu.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataxu.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426092724id_/http%3A//www.dataxu.com/privacy-policy.php) for the most accurate reproduction.*
 
 # DataXu - How We Work - DataXu
 
@@ -77,7 +77,7 @@ We may disclose your information to third parties when we reasonably believe we 
 
 ### Data Collection for Our Corporate Site
 
-Our web site ([www.dataxu.com](https://web.archive.org/web/20101126155400id_/http%3A//www.dataxu.com/)) is intended primarily to offer information about DataXu and our services. DataXu uses information from our web site log files to understand how visitors use our site and to recommend future site improvements. If you choose to submit personal information, we may use that information for general marketing purposes and to notify you regarding updates to our products and services. We do not sell, rent, share, or otherwise dispose of the personal information collected on www.dataxu.com to third parties. Once collected, we will store your information for a reasonable time for record keeping purposes. 
+Our web site ([www.dataxu.com](https://web.archive.org/web/20110426092724id_/http%3A//www.dataxu.com/)) is intended primarily to offer information about DataXu and our services. DataXu uses information from our web site log files to understand how visitors use our site and to recommend future site improvements. If you choose to submit personal information, we may use that information for general marketing purposes and to notify you regarding updates to our products and services. We do not sell, rent, share, or otherwise dispose of the personal information collected on www.dataxu.com to third parties. Once collected, we will store your information for a reasonable time for record keeping purposes. 
 
 ### Changes to Our Privacy Policy
 
