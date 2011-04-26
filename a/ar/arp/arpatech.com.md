@@ -1,28 +1,66 @@
-> *The following text is extracted and transformed from the arpatech.com privacy policy that was archived on 2007-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071209134840id_/http%3A//www.arpatech.com/main/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arpatech.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426071726id_/http%3A//www1.arpatech.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D102%26Itemid%3D158) for the most accurate reproduction.*
 
-# Arpatech : Privacy Policy
+# Privacy Policy
 
----  
-|   
----  
-  
-|  |  | 
+## What information do we collect
 
-Please read the following policy that describes how and what information we collect on our website and how we use this information. Additional privacy policies apply when using information obtained from but not limited to in-person meetings, trade shows, conferences, educational sessions, and other opt-in customer agreements and disclaimers.Personal Information Usage  
-When specifically requesting information, printed materials, or participating in any of our online surveys or self-assessments, you will be asked to identify yourself and submit certain information to us. When you use our submission forms, some of the information you provide is discretionary, and some maybe required (such as name, address, and contact information).
+We collect information from you when you register to our site or fill out a form.
 
-We will use this information to respond to your request or self-assessment/survey submissions. In addition, we may add your information to one or more databases that we maintain. These databases are intended to provide important demographic information to us about our current and prospective clients. Where required we may come into possession through these submissions forms of sensistive client data. As a policy ARPATECH, classifiies all customer data into two categories. Sensitive and Non-Senstive, with neither of the data sents having any basic means of cross reference. This is in order to minimize the threat of identity theaft. In other limited and controlled circumstances, we may disclose personally identifiable information in response to legal process, including response to a court order or a subpoena. We also may disclose such information in response to law enforcement agency request.
+When ordering or registering to our site, as appropriate, your may be asked to enter your name, or email address. You may however visit our site anonymously.
 
-If you visit our website simply to browse, we collect and store information such as (but not limited to): the name of the domain and host from which you access the Internet (for example, hp.com); the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the web site from which you linked directly to our site.
+## What do we use your information for?
 
-This information is used to track the number of visitors to the different sections of our website. In some circumstances, we may combine this information with your personal information and use this combined information to send you emails about areas of interest of our website which you have visited.
+Any of the information we collect from you may be used in one of the following ways:
 
-Security (Data Classification)  
-When ARPATECH receives any submitted information, we take steps to protect it from unauthorized disclosure. If you send us email, please be aware that email is not necessarily secure against disclosure or modification. As a matter of policy, ARPATECH will not use forms of instant messaging (IM) when responding to initial requests for information. If you prefer, you may use telephone or facsimile communications if you choose not to use our online forms or email. We encourage the use of encryption when discussing sensitive or proprietary matters. Please contact ARPATECH for more information concerning encrypted communications.
+  * To personalize your experience (your information helps us to better respond your individual needs)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you).
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs).
+  * To send periodic emails
 
-To further expand our data classification process, at ARPATECH all data collected from customers and consumers is stored in two physical distinct and seperate database infrastructures. Senstive data could include but limited to financial information such as credit cards, and identification information such as mother's maiden name. Cross referencing is done through a propritary cross-reference programming logic and via mathematical computation that makes reverse identity verification very difficult. ARPATECH has undertaken this process to minimize and control identity theft.
 
-Updates  
-If you would like to unsubscribe from any service that you subscribed to, change any personal information you have provided to us, or remove your information from our internal databases, please notify us by sending an email message to [webmaster@arpatech.com](mailto:webmaster@arpatech.com).  
-  
----
+
+The email address you provide, may be used to send you information and updates pertaining to any open vacancies within Arpatech. In addition to receiving occasional company news, events, updates, related product or service information etc.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+  * To administer a contest, promotion, survey or any other site feature.
+
+
+
+## How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information.
+
+## Do we use cookies?
+
+No, we dont use cookies.
+
+## Do we disclose any information to outside parties?
+
+We do not sell, trade or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operation our website, conducting our business or serving you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising or other uses.
+
+## Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have seperate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our website and welcome any feedback about these sites.
+
+## Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+## Your Consent
+
+By using our site, you agree to our privacy policy
+
+## Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+This policy was last modified by 11th September 2010.
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy, you can contact us using the information below:
+
+Plot 20-E, 24th Commercial Street, Phase II Ext  
+DHA, Karachi  
+Email: [info@arpatech.com](mailto:info@arpatech.com)
