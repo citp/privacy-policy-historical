@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusfood.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401162921id_/http%3A//www.campusfood.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusfood.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426071723id_/http%3A//www.campusfood.com/content/privacy.asp) for the most accurate reproduction.*
 
 # Campusfood.com - The #1 source for online food ordering at college campuses - Privacy Policy
 
@@ -78,8 +78,11 @@ Under the law of certain states, including California Civil Code § 1798.83, you
 
 Privacy  
 Dotmenu, Inc.  
-39 West 19th Street  
-7th Floor  
-New York, NY 10011
+39 West 19th Street   
+7th Floor   
+New York, NY 10011  
 
-fax: 800.886.6226
+
+tel: (212) 616-3070
+
+fax: (800) 886-6226
