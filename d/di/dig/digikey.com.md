@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digikey.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226004507id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html%3FWT.z_homepage_link%3Dhp_PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426212245id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html%3FWT.z_homepage_link%3Dhp_PrivacyStatement) for the most accurate reproduction.*
 
 # Privacy Statement | DigiKey
 
@@ -24,7 +24,7 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 
 > ### Postal Addresses
 > 
-> Digi-Key may use your mailing address to send the Digi-Key catalog to keep you updated on our most current products and services.
+> Digi-Key may use your mailing address to send Digi-Key marketing materials to keep you updated on our most current products and services.
 > 
 > Occasionally, Digi-Key may make the names and addresses of our customer list available to carefully screened companies that offer products and/or services that may be of interest to you.
 > 
