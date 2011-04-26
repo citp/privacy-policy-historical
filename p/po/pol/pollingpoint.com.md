@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollingpoint.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220233720id_/http%3A//pollingpoint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollingpoint.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426200205id_/http%3A//www.pollingpoint.com/privacy) for the most accurate reproduction.*
 
 # YouGovPollingPoint | What the World Thinks
 
