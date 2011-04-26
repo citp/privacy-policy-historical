@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadtek.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124235803id_/http%3A//www.leadtek.com/eng/company/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadtek.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426175749id_/http%3A//www.leadtek.com/eng/company/legal.asp) for the most accurate reproduction.*
 
 # Leadtek - We make dreams a reality
 
