@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105160940id_/http%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpost.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426024246id_/http%3A//www.adpost.com/us/%3Fdb%3D%26website%3D%26language%3D%26session_key%3D%26print_privacy_page%3Don) for the most accurate reproduction.*
 
 # American Classifieds @ Adpost.com Classifieds > USA > American Classifieds,free
 
-|  Find |  |  in |  |   
----|---|---|---|---  
-  
 ## Adpost.com Classifieds Privacy Policy Statement
 
 Adpost.com Classifieds is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of Adpost.com Classifieds. This policy may change from time to time so please check back periodically. 
