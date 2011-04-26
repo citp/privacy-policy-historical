@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendyflash.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128235636id_/http%3A//trendyflash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendyflash.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427013909id_/http%3A//www.trendyflash.com/privacy.html) for the most accurate reproduction.*
 
 # Trendy Site Builder: Flash Web Design Software, Flash Templates & Websites
 
