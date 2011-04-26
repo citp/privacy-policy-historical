@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607034739id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426022203id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
 
 # About Us - Privacy Policy - Main | BabyCenter
 
-[About BabyCenter](https://web.archive.org/web/20090607034739id_/http%3A//www.babycenter.com/100_about-us-company-overview_10309636.bc) | [Advisory Board](https://web.archive.org/web/20090607034739id_/http%3A//www.babycenter.com/100_about-us-advisory-board_10309640.bc) | [Awards](https://web.archive.org/web/20090607034739id_/http%3A//www.babycenter.com/100_about-us-awards_10309638.bc) | [Contact Us](https://web.archive.org/help-contactus) | [In the News](https://web.archive.org/web/20090607034739id_/http%3A//www.babycenter.com/100_about-us-in-the-news_10309633.bc) | [Jobs](https://web.archive.org/web/20090607034739id_/http%3A//www.babycenter.com/100_about-us-jobs-main_10309632.bc)  
-[Management Team](https://web.archive.org/web/20090607034739id_/http%3A//www.babycenter.com/100_about-us-management-team_10309629.bc) | [Mission Statement](https://web.archive.org/web/20090607034739id_/http%3A//www.babycenter.com/100_about-us-mission-statement_10309627.bc) | [Press Releases](https://web.archive.org/web/20090607034739id_/http%3A//www.babycenter.com/100_about-us-press-releases-main_10309618.bc) | [Privacy Policy](https://web.archive.org/web/20090607034739id_/http%3A//www.babycenter.com/100_about-us-privacy-policy-main_10309602.bc)  
-[Terms of Use](https://web.archive.org/web/20090607034739id_/http%3A//www.babycenter.com/100_about-us-terms-of-use-main_10309608.bc)
+[About BabyCenter](https://web.archive.org/help-about-company) | [Advisory Board](https://web.archive.org/prkit-advisoryboard) | [Awards](https://web.archive.org/prkit-awards) | [Contact Us](https://web.archive.org/help-contactus) | [In the News](https://web.archive.org/in-the-news) | [Jobs  
+](https://web.archive.org/help-aboutus-jobs)[Management Team](https://web.archive.org/management-team) | [Mission Statement](https://web.archive.org/babycenter-mission-statement) | [Press Releases](https://web.archive.org/prkit-pressreleases) | [Privacy Policy](https://web.archive.org/help-privacy)  
+[Terms of Use](https://web.archive.org/help-aboutus-terms) | [Terms of Use - Supplemental](https://web.archive.org/babycenter-classes-terms-of-use)
 
 #### Introduction and Scope
 
@@ -18,11 +18,11 @@ The Sites are not intended for children under the age of 13. We do not knowingly
 
 You actively send information to us when you sign up with us a member on a Site, participate in surveys or promotions, post opinions on our bulletin boards, respond to us or otherwise contact us. Depending on your choices, you may send us personally identifiable information such as your email address, name, mailing address, phone number, birthday, and gender; password; baby due date/birthday, name and gender. But, you can also use certain features of our Sites without telling us your name and if you do not tell us who you are, we do not try to find out.
 
-We also track information about how our Site is used by you through cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream -- for more information click [here](http://www.babycenter.com/help-privacy-1)). For example, your Internet browser automatically transmits to us information such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using.
+We also track information about how our Site is used by you through cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream -- for more information click [here](https://web.archive.org/help-privacy-1)). For example, your Internet browser automatically transmits to us information such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using.
 
-To accomplish some of the foregoing data processing, we utilize independent contractors. Click here to read about examples of some of our contractors and how we work with them.
+To accomplish some of the foregoing data processing, we utilize independent contractors. Click [here](https://web.archive.org/help-privacy-3) to read about examples of some of our contractors and how we work with them.
 
-In addition, we participate in ad networks. The ad networks that we participate in collect anonymous information using cookies to target some of the advertising you see on the Sites and on other third party websites. Click [here](http://www.babycenter.com/help-privacy-4) to learn more about the ad networks in which BabyCenter participates and their advertising and privacy policies, including how to decline participation in such networks.
+In addition, we participate in ad networks. The ad networks that we participate in collect anonymous information using cookies to target some of the advertising you see on the Sites and on other third party websites. Click [here](https://web.archive.org/help-privacy-4) to learn more about the ad networks in which BabyCenter participates and their advertising and privacy policies, including how to decline participation in such networks.
 
 You can set your browser to notify you when a cookie is sent or to refuse or delete cookies altogether, but certain features of the Sites might not work without certain cookies.
 
@@ -30,7 +30,7 @@ If you have actively sent us your name or other personally identifiable informat
 
 #### Purposes of Data Collection
 
-We collect information about you because we want to determine what you may like or find interesting, so we can provide you with targeted information and advertising (on our Site, in newsletters, via email and otherwise). In addition, we use data to create statistics and reports where personally identifiable information has been removed and aggregated (such that it is anonymous as regards any specific user) for various business purposes. [Click here](http://www.babycenter.com/help-privacy-2) for additional information.
+We collect information about you because we want to determine what you may like or find interesting, so we can provide you with targeted information and advertising (on our Site, in newsletters, via email and otherwise). In addition, we use data to create statistics and reports where personally identifiable information has been removed and aggregated (such that it is anonymous as regards any specific user) for various business purposes. [Click here](https://web.archive.org/help-privacy-2) for additional information.
 
 #### Disclosure of Data
 
@@ -63,7 +63,7 @@ You may modify your communication preferences and/or opt-out from specific commu
 
 #### Changes to This Privacy Policy
 
-This Privacy Policy is effective January 19, 2009. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Sites. Please check back periodically, and especially before you provide any personally identifiable information to us.
+This Privacy Policy was last updated on January 19, 2009. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Sites. Please check back periodically, and especially before you provide any personally identifiable information to us.
 
 #### Terms of Use
 
