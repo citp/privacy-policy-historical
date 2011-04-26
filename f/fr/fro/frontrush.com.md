@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2010-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100907205322id_/http%3A//www.frontrush.com/web/company/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontrush.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426125413id_/http%3A//www.frontrush.com/web/company/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy: Front Rush
 
@@ -25,7 +25,7 @@ We respect the privacy of children, and do not collect any more personal informa
 
 **Information on Children**   
 With respect to our online information collection practices from children under 13 years of age, we do not collect personally identifiable information. With respect to the collection by other organizations of personal information from children at our site, our policy is that we do not have any agreements with outside organizations to collect personal information at our site. We do not share children's personal information with anyone other than those who provide support for the internal operations of the Web site and our agents (e.g., contractors who provide fulfillment services or technical support to the Web site). Parents can review the information that we have collected from their children online, prevent the further use or maintenance of such information, or direct the deletion of their children's personal information by calling, emailing or writing us as outlined below. **Correcting & Updating Your Information**  
-Customers can discontinue the Service at anytime by calling 866.634.1186.Front Rush or by emailing info@frontrush.com. We will respond to your request within at most 7 days from the date of your request.
+Customers can discontinue the Service at anytime by calling 215.489.2100.Front Rush or by emailing info@frontrush.com. We will respond to your request within at most 7 days from the date of your request.
 
 **Third-Party Sites**  
 The Site contains links to other web sites. Front Rush LLC is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential. 
@@ -43,4 +43,4 @@ Front Rush uses small gif images within emails to recover information about the 
 Front Rush may update this Statement at any time, so please review it frequently. If we make material changes to this Statement, we will notify you in this Statement, by email or by a notice posted on the home page of the Site.
 
 **Questions?**  
-If you have any questions about this Statement or the practices of this Site, please contact us at info@frontrush.com. You may also write to us at Front Rush LLC, 350 S Main St Ste 215 Doylestown PA 18901 or call 866.634.1186. 
+If you have any questions about this Statement or the practices of this Site, please contact us at info@frontrush.com. You may also write to us at Front Rush LLC, 350 S Main St Ste 215 Doylestown PA 18901 or call 215.489.2100. 
