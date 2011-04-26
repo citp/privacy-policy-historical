@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205170752id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426022326id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
 
 # ArchitectureWeek Privacy Statement
 
@@ -73,65 +73,65 @@ Kevin Matthews Editor in Chief, ArchitectureWeek Artifice, Inc. PO Box 1588 Euge
 
 [**Daily Architecture Headlines**](http://www.architectureweek.com/headlines.html) — Updated every day at ArchitectureWeek 
 
-[**BCJ Wins Award for Clarion University Science Centre**](http://www.architectureweek.com/cgi-bin/wllk?http://education.worldinteriordesignnetwork.com/news/bcj_scoops_architectural_award_for_clarion_universitys_science_and_technology_centre_101203/) — World Interior Design Network, 2010.1203 
+[**AIA Top Green Buildings 2011**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2011/0420/index.html) — ArchitectureWeek, 2011.0420 
 
-[**Healthcare AIA Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1201/index.html) — Architects' Journal, 2010.1201 
+[**"Modernist Masterpiece" Meets Wrecking Ball in Aspen**](http://www.architectureweek.com/cgi-bin/wllk?http://www.denverpost.com/business/ci_17876982) — Denver Post, 2011.0419 
 
-[**People and Places 2010.1201**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1201/news_2-1.html) — ArchitectureWeek, 2010.1201 
+[**3 Winnipeg Buildings Get Architecture Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.cbc.ca/news/arts/story/2011/04/19/architecture-awards.html) — CBC News, 2011.0419 
 
-[**Utah Architects Honored**](http://www.architectureweek.com/cgi-bin/wllk?http://www.realestatenewsutah.com/news/architects-honored-new-designs-and-special-achievements-30118) — Real Estate Utah, 2010.1129 
+[**Japanese Crane Runs over, Kills Six Children**](http://www.architectureweek.com/cgi-bin/wllk?http://search.japantimes.co.jp/cgi-bin/nn20110419a3.html) — Japan Times, 2011.0419 
 
-[**Reichstag Cupola Shut Due to Threat**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/aponline/2010/11/22/world/europe/AP-EU-Germany-Terror-Threat.html?_r=1) — New York Times, 2010.1122 
+[**A Death in the Lab**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nature.com/news/2011/110418/full/472270a.html) — Nature, 2011.0418 
 
-[**Fire Sprinklers Made a Must in California Homes**](http://www.architectureweek.com/cgi-bin/wllk?http://www.modbee.com/2010/11/20/1438392/fire-sprinklers-made-a-must.html) — Modesto Bee, 2010.1120 
+[**One Month on, Debris Fields Barely Dented**](http://www.architectureweek.com/cgi-bin/wllk?http://search.japantimes.co.jp/cgi-bin/nn20110416f2.html) — Japan Times, 2011.0416 
 
-[**Australia Architecture Awards 2010**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1117/index.html) — ArchitectureWeek, 2010.1117 
+[**AIA Announces 2011 COTE Top Ten Green Projects**](http://www.architectureweek.com/cgi-bin/wllk?http://www.aia.org/press/releases/AIAB088729) — AIA Press Release, 2011.0414 
 
-[**Shanghai High-Rise Flats Fire Leaves Dozens Dead**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bbc.co.uk/news/world-asia-pacific-11759276) — BBC, 2010.1115 
+[**Comparing Fukushima and Chernobyl**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2011/0413/news_2-1.html) — ArchitectureWeek, 2011.0413 
 
-[**U.S. Audits Compton Housing Programs**](http://www.architectureweek.com/cgi-bin/wllk?http://www.latimes.com/news/local/la-me-compton-audit-20101112,0,7251498.story) — Los Angeles Times, 2010.1112 
+[**People and Places 2011.0413**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2011/0413/news_1-1.html) — ArchitectureWeek, 2011.0413 
 
-[**Portland AIA Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1110/index.html) — ArchitectureWeek, 2010.1110 
+[**Flights Resume at Tsunami-Ravaged Airport**](http://www.architectureweek.com/cgi-bin/wllk?http://www.abc.net.au/news/stories/2011/04/13/3190763.htm?section=justin) — ABC News, 2011.0413 
 
-[**People and Places 2010.1110**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1110/news_2-1.html) — ArchitectureWeek, 2010.1110 
+[**NZ to Spend $US6 Billion Rebuilding Christchurch**](http://www.architectureweek.com/cgi-bin/wllk?http://www.radioaustralianews.net.au/stories/201104/3189603.htm?desktop) — Radio Australia News, 2011.0412 
 
-[**Danish Architect Bjarke Ingels Receives the European Prize for Architecture**](http://www.architectureweek.com/cgi-bin/wllk?http://www.canadianarchitect.com/issues/story.aspx?aid=1000390211) — Canadian Architect, 2010.1107 
+[**Japan's Reconstruction Panel Set Up, Basic Plan to Be Ready in June**](http://www.architectureweek.com/cgi-bin/wllk?http://mdn.mainichi.jp/mdnnews/news/20110412p2g00m0dm008000c.html) — Mainichi Daily News, 2011.0412 
 
-[**Ariz. Court Ruling Rejects Challenge to Impact Fee**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/ap/financialnews/D9J9V8G00.htm) — Bloomberg, 2010.1105 
+[**Neues Museum Wins Mies Van Der Rohe Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.independent.co.uk/life-style/house-and-home/neues-museum-wins-mies-van-der-rohe-award-2266408.html) — Independent Digital, 2011.0411 
 
-[**Giant Sinkhole Opens in Germany**](http://www.architectureweek.com/cgi-bin/wllk?http://news.blogs.cnn.com/2010/11/02/giant-sinkhole-opens-in-germany/) — CNN, 2010.1102 
+[**Japan Raises Severity of Nuclear Accident to Highest**](http://www.architectureweek.com/cgi-bin/wllk?http://www.reuters.com/article/2011/04/12/us-japan-idUSTRE72A0SS20110412) — Reuters, 2011.0411 
 
-[**Beijing Trims Discount on First-Home Lending Rate**](http://www.architectureweek.com/cgi-bin/wllk?http://www.marketwatch.com/story/beijing-trims-discount-on-first-home-lending-2010-11-01?reflink=MW_news_stmp) — Market Watch, 2010.1101 
+[**Texas Wildfires Destroy Homes, Buildings**](http://www.architectureweek.com/cgi-bin/wllk?http://www.reuters.com/article/2011/04/11/us-wildfires-texas-idUSTRE7383DF20110411) — Reuters, 2011.0410 
 
-[**Zaha Hadid to Design New Serpentine Gallery in London**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bdonline.co.uk/5008258.article?origin=BDdaily) — BD (Registration required), 2010.1101 
+[**Homebuilder Pasquinelli Files for Bankruptcy**](http://www.architectureweek.com/cgi-bin/wllk?http://www.chicagotribune.com/business/chibrknews-homebuilder-pasquinelli-files-for-bankruptcy-20110408,0,2929176.story) — Chicago Tribune, 2011.0408 
 
-[**Woods Bagot Take Out Arabian Property Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureanddesign.com.au/article/Woods-Bagot-take-out-Arabian-Property-Award/524879.aspx) — Architecture & Design (Australia), 2010.1029 
+[**Magnitude 7.4 Earthquake Strikes Japan; 4 Killed, 141 Injured**](http://www.architectureweek.com/cgi-bin/wllk?http://www.japantoday.com/category/national/view/7-4-quake-jolts-miyagi-pref-vicinity-tsunami-warning-lifted) — Japan Today, 2011.0407 
 
-[**Aqua Leads Parade of 2010 Design Excellence Award Winners**](http://www.architectureweek.com/cgi-bin/wllk?http://featuresblogs.chicagotribune.com/theskyline/2010/10/aqua-leads-parade-of-2010-design-excellence-award-winners.html) — Chicago Tribune, 2010.1029 
+[**New York Fed Sells $1.3 Billion of AIG-Related Mortgage Bonds in Auction**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bloomberg.com/news/2011-04-06/new-york-fed-sold-1-3-billion-of-mortgage-securities-in-auction.html) — Bloomberg, 2011.0406 
 
-[**Great Architecture as Urban Landscaping**](http://www.architectureweek.com/cgi-bin/wllk?http://www.theaustralian.com.au/news/arts/great-architecture-as-urban-landscaping/story-e6frg8n6-1225944871372) — The Australian, 2010.1029 
+[**AIA Housing Awards: Single-Family**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2011/0406/index.html) — ArchitectureWeek, 2011.0406 
 
-[**Architects Angry at Prince's Power Grab**](http://www.architectureweek.com/cgi-bin/wllk?http://www.independent.co.uk/arts-entertainment/architecture/architects-angry-at-princes-power-grab-2119593.html) — Independent Digital, 2010.1028 
+[**People and Places 2011.0406**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2011/0406/news_2-1.html) — ArchitectureWeek, 2011.0406 
 
-[**Jean Nouvel Slams Developer for Blurring His Vision Machine**](http://www.architectureweek.com/cgi-bin/wllk?http://ny.curbed.com/archives/2010/10/27/jean_nouvel_slams_developer_for_blurring_his_vision_machine.php) — Curbed, 2010.1027 
+[**China Takes Artist AI Weiwei into Custody**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2011/04/04/world/asia/04china.html) — New York Times, 2011.0404 
 
-[**Death Toll Rises after Indonesia Disasters**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2010/10/28/world/asia/28indo.html?_r=1&emc=eta1) — New York Times, 2010.1027 
+[**Detained Chinese Artist's New York Project Will Go On**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2011/04/05/arts/design/chinese-artist-ai-weiwei-detained-new-york-sculpture-still-planned.html) — New York Times, 2011.0404 
 
-[**People and Places 2010.1027**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1027/news_1-1.html) — ArchitectureWeek, 2010.1027 
+[**Queensland School Wins Architectural Award**](http://www.architectureweek.com/cgi-bin/wllk?http://www.themorningbulletin.com.au/story/2011/04/02/parkhurst-state-school-architectural-award/) — Morning Bulletin, 2011.0402 
 
-[**Sailor's Hideaway Wins Top Design Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=10682845) — New Zealand Herald, 2010.1024 
+[**Star Architect's Civic Center Design Divides California City**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2011/04/01/us/01hadid.html) — New York Times, 2011.0401 
 
-[**New York Guggenheim Museum Reopens**](http://www.architectureweek.com/cgi-bin/wllk?http://www.examiner.com/history-in-new-york/guggenheim-museum-opens-to-the-public) — New York Examiner, 2010.1021 
+[**AIA Housing Awards: Multifamily**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2011/0330/index.html) — ArchitectureWeek, 2011.0330 
 
-[**David Chipperfield - Royal Gold Medal**](http://www.architectureweek.com/cgi-bin/wllk?http://www.architectureweek.com/2010/1020/index.html) — ArchitectureWeek, 2010.1020 
+[**Jeddah’S Kingdom Tower, World’S Tallest Building Given the Go Ahead**](http://www.architectureweek.com/cgi-bin/wllk?http://singularityhub.com/2011/03/29/jeddah%E2%80%99s-kingdom-tower-world%E2%80%99s-tallest-building-given-the-go-ahead/) — Singularity Hub, 2011.0329 
 
-[**Nationwide Seeks U.S. Buyers for First Securitization in a Year**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-10-18/nationwide-seeks-u-s-buyers-for-first-securitization-in-a-year.html) — Bloomberg BusinessWeek, 2010.1018 
+[**Christchurch Will Be 'World's Most Quake-Safe City'**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nzherald.co.nz/small-business/news/article.cfm?c_id=85&objectid=10715686) — New Zealand Herald, 2011.0329 
 
-[**Foreclosures Provide Fillip for QE2**](http://www.architectureweek.com/cgi-bin/wllk?http://www.ft.com/cms/s/0/c659025c-daed-11df-a5bb-00144feabdc0.html) — Financial Times, 2010.1018 
+[**Critic's Notebook: Pritzker Prize Jury Keeps It Minimalist with Eduardo Souto de Moura**](http://www.architectureweek.com/cgi-bin/wllk?http://www.latimes.com/entertainment/news/la-et-pritzker-prize-20110329,0,506037.story) — Los Angeles Times, 2011.0329 
 
-[**NAHB Housing Index Highest Since June**](http://www.architectureweek.com/cgi-bin/wllk?http://www.reuters.com/article/idUSTRE69H2RE20101018) — Reuters, 2010.1018 
+[**U.S. Housing Prices Fell Again in January**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2011/03/30/business/economy/30housing.html) — New York Times, 2011.0329 
 
-[**Super Typhoon Megi Hits Northern Philippines**](http://www.architectureweek.com/cgi-bin/wllk?http://www.bbc.co.uk/news/world-asia-pacific-11562238) — BBC, 2010.1018 
+[**Souto de Moura Wins 2011 Pritzker Architecture Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://artsbeat.blogs.nytimes.com/2011/03/28/souto-de-moura-wins-2011-pritzker-architecture-prize/) — New York Times, 2011.0328 
 
 Note: Pages will open in a new browser window  
 External sites are not endorsed by ArchitectureWeek.  
@@ -141,4 +141,4 @@ External sites are not endorsed by ArchitectureWeek.
 
 [**News Department Archive**](http://www.architectureweek.com/articles/news_articles.html)
 
-**Special thanks** to our [Sustaining Subscribers](http://www.architectureweek.com/cgi-bin/support_archweek.cgi)  [BuilderSpace.com](http://www.builderspace.com/), and offering  [custom doors](http://www.steinerdoors.com/),  [log bags](http://www.artpromos.com/),  [shutters](http://www.hillarys.co.uk/shutters/), and  [kitchen faucets](http://www.qualitybath.com/kitchen-faucets.htm). 
+**Special thanks** to our [Sustaining Subscribers](http://www.architectureweek.com/cgi-bin/support_archweek.cgi)  [BuilderSpace.com](http://www.builderspace.com/), and offering  [custom doors](http://www.steinerdoors.com/),  [log bags](http://www.artpromos.com/),  and  [kitchen faucets](http://www.qualitybath.com/kitchen-faucets.htm). 
