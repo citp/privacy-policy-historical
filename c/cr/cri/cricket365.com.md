@@ -1,76 +1,149 @@
-> *The following text is extracted and transformed from the cricket365.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529155420id_/http%3A//www.sky.com/portal/site/skycom/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricket365.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426034306id_/http%3A//www.sky.com/portal/site/skycom/privacy) for the most accurate reproduction.*
 
-# Sky.com - Sky Help Centre>Sky.com Privacy Statement
+# Sky Account & Billing | Privacy Notice
 
-This Privacy Notice is with British Sky Broadcasting Limited and explains how British Sky Broadcasting Ltd and any member of the British Sky Broadcasting group of companies (“Sky”) may collect, use and protect your information. 
+This Privacy Notice applies to the use of personal information by British Sky Broadcasting Limited and its group companies.
 
-Last changed on 22/10/2009 
+Any member of the British Sky Broadcasting group may use and share, within that group, the information you provide and other information it holds about you for the purposes set out below.
 
-**What information does Sky  
-collect about me?** | **·**   The information you provide to Sky to receive services on Sky websites. This may consist of information such as your name, email address, postal address, telephone or mobile number or date of birth. 
+### Information we may hold about you
 
-**·**   Information about your purchase of or subscription to Sky products and services, whether through your use of Sky websites or otherwise.
+  * Information you have provided to us, including on Sky websites
+  * Information about Sky products and services you have ordered or enquired about
+  * Information provided by other companies who have obtained your permission to share information about you
+  * Information about the channels, programmes, advertisements and services you access, for example how you view, record or fast-forward them
+  * Information we collect using cookies stored on your device about your use of Sky and/or selected third party websites. For more information on cookies and how to manage them, please see the section on Cookies.
+  * Your IP address (this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites).
+  * Technical information from your set top box relating to the service you receive
 
- **·**   Information about your use of Sky and/or selected third party websites will be collected from cookies stored on your device when you use such websites. For more information on cookies and how to manage them, please see our 
 
-_section on Cookies_. 
 
-**·**   Your IP address (this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites).
+### How we may we use your information
 
- **·**   We may also collect information that you have provided to other companies which they share with us.  
-  
+In addition to using your information to provide you with requested products or services and general account management and the management of traffic across our network, Sky may also use your information in the following ways:
+
+  * To monitor and improve Sky products, services and websites
+  * We may share information with credit reference and fraud prevention agencies for use in credit decisions, and for fraud detection and prevention purposes. 
+    * If false or inaccurate information is provided and fraud is identified, the details will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related or other facilities; managing credit and credit related accounts and facilities; recovering debt; checking details on proposals and claims for all types of insurance; or checking details of job applications and employees. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies. Please contact us by emailing us at [mysky@bskyb.com](mailto:mysky@bskyb.com) if you want to receive details of the relevant fraud prevention agencies.
+  * We may also share your information with other companies for debt recovery purposes.
+  * For market research
+  * To enable us to comply with any legal or regulatory requirements; to protect or enforce our rights or the rights of any third party; in the detection and prevention of fraud and other crimes; and for the purpose of safeguarding national security
+  * We may disclose your information to any successors of our business for them to use for the purposes set out in this Privacy Notice.
+
+
+
+and unless you have asked us not to:
+
+  * To send you periodic Sky newsletters about your chosen services
+  * To send you direct marketing (this may include communications by post, telephone or email, and, if you have a Sky Bet, Sky Poker, Sky Vegas and/or Sky Bingo account, by SMS) about Sky’s and our business partners’ products and services, events and special offers, including, where applicable, for a reasonable time after you have ceased to be a Sky customer
+  * To provide you with personalised services, such as providing you with viewing recommendations and tailored advertising. This means that we have your agreement to store information about you on the devices you use, for example to make some of the adverts you see more relevant to you.
+  * To provide you with online behavioural advertising through the use of cookies when you visit our websites.
+
+ 
+
+### Your preferences
+
+**Marketing  
+** | You can opt out by calling us on 08442 41 41 41 or via your My Sky account. You can also click on the "unsubscribe" link in direct marketing emails from us. You can opt out of direct marketing altogether or you can choose between post, telephone and email. Sky Bet, Sky Poker, Sky Vegas and Sky Bingo customers can opt out of marketing SMS messages by replying "STOP"  
 ---|---  
-**Are there any other terms  
-which may apply to the  
-collection and use of my  
-information?** | **·**   Different web pages or services may ask for different personal information. We will let you know if there is any additional detail which applies to the use and/or collection of your information on those web pages.  
-**I’m on a co-branded website,  
-whose terms apply?** | There are a number of websites which you can link to from a Sky website which are provided by third parties under Sky’s brand.
-
-This Privacy Notice will not apply to the use and/or collection of your information on these co-branded third party websites (or any other third party websites which you may link to from a Sky website). These third party websites will have their own terms which will apply to the collection and/or use of your information on that website.  
+**Personalisation (including tailored advertising)** | You can opt out by calling us on 08442 41 41 41 or via your My Sky account. Please note that if you opt out of personalisation you will not receive tailored advertising. This means you will still see the same number of adverts but they will be ones that appear as standard.  
+**Online behavioural advertising  
+** | If you do not want to receive online behavioural advertising, or do not want any information processed through the use of cookies, please see the section on cookies.  
   
-**How does Sky protect my information?** | Security is very important to us. Secure Socket Layer (SSL) encryption technology is used for protection of information in transit for any sensitive transactions such as payments. We also take additional technical and organisational measures as appropriate to ensure the security of your personal information.  
-**What does Sky use my information for?** | In addition to using your information to provide you with requested products or services, Sky may also use your information for the following purposes:
+ 
 
-**·**   to monitor and improve Sky websites and Sky's services;
+You can also opt out of receiving our newsletters by clicking on the "unsubscribe" link in emails, or via your My Sky account.
 
-**·**   market research, including depersonalised statistical analysis of user behaviour which we may disclose to third parties; 
+### Contacting Sky
 
-**·**   to enable us to comply with any legal requirements, in the detection and prevention of fraud and other crimes, and for the purpose of safeguarding national security;
+Any queries or comments about this Privacy Notice or for requests of copies of the information we hold about you should be sent to [dpoffice@bskyb.com](mailto:dpoffice@bskyb.com) or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK.
 
-**·**   to personalise your online Sky experience (e.g. to provide you with access to premium content and services which may only be available to certain Sky customers);
+Please ensure you notify us of any updates, amendments and corrections to your information by contacting us on 08442 41 41 41 or through My Sky.
 
-**·**   unless you have asked us not to:
+ 
 
-     **·**   to send you periodic Sky newsletters about your chosen services; 
+### COOKIES
 
-     **·**   to send you direct marketing (this may include communications by post, telephone, mobile or email) about Sky’s and business partners’ features, products and services, events and special offers which we believe you may like, including, where applicable, for a reasonable time after you have ceased to be a Sky customer; 
+You should be aware that information on you may be collected through the use of cookies, when you use Sky websites and/or selected third party sites. Some cookies are essential for us to use in order to provide you with the services you have requested. When using Sky websites you agree to the use of the non-essential cookies unless you set your browser to reject them (see below).
 
-     **·**   to share your information with other carefully selected companies outside the Sky group for sales, marketing and market research by such companies;
+ 
 
-     **·**   to provide tailored advertising and online behavioural advertising. 
+### What is a cookie?
 
-       These involve swapping standard advertisements and promotions for ones that are likely to be more relevant to you. For behavioural advertising, we choose adverts based on the content you view on Sky and third party websites. (For example, if you regularly view Sky Sports golf pages you are more likely to see adverts relating to golf on Sky and selected third party sites.) For tailored advertising, we choose adverts based on non-internet based information we hold about you. (For example, if you are a Sky Sports subscriber in Scotland you might see an advert relating to the Scottish Premier League rather than the Barclay’s Premier League.)  
-  
-**Can I change the way Sky uses  
-my information, including  
-opting out of direct marketing  
-and tailored and/or  
-behavioural advertising?** | You can change your direct marketing preferences by contacting us on 08442 41 41 41 or through [Contact Us](https://web.archive.org/portal/site/skycom/skyhelpcentre/contactus). You can also click on the "unsubscribe" link in direct marketing emails from us.
+A cookie is a small file, which is placed on your device when you visit a website or open certain emails.
 
-Where you opt out of behavioural and/or tailored advertising you will see the same number of adverts but they will be the ones that appear as standard on the programme or webpage you are viewing. You can opt out of tailored advertising by ticking the appropriate box when registering for online services, or via your [My Sky](https://web.archive.org/portal/site/skycom/mysky) account.
+ 
 
-For how to opt out of behavioural advertising please go to 
+### How does Sky use cookies?
 
-_Audience Science_ in the Cookies section. 
+We use information from cookies for purposes which may include:
 
-If you do not want any information processed through the use of cookies, please see the section on 
+  * Identifying you when you sign in to My Sky, allowing you to see a customised version of Sky websites and eliminating the need for you to re-enter your log-in details;
+  * tracking your use of Sky websites to better develop them (for example, working out which parts of the website are more popular and developing our content accordingly);
+  * unless you have opted out, serving behavioural and tailored advertising on Sky online services and websites and selected third party websites, including by combining Sky cookie data with selected third party cookie data, which means you may receive advertisements which are more relevant to you.
 
-_How do I manage or refuse Cookies?_  
-**What happens if this Privacy Notice changes?** | For browsers of our websites and My Sky Guest Users who have not subscribed to or registered for a product or service, we may change this Privacy Notice from time to time and you should check it regularly. Your continued use of Sky websites will be deemed an acceptance of the Privacy Notice on the website or service at the time of each use.
+ 
 
-Where this Privacy Notice has been provided to you together with additional terms for the use of a product or service that you have subscribed to or registered for, the notice provisions of those terms will apply.  
-  
-**How do I contact Sky?** | Any queries or comments about this Privacy Notice should be sent to [dpoffice@bskyb.com](https://web.archive.org/web/20100529155420id_/http%3A//www.sky.com/portal/site/skycom/dpoffice@bskyb.com) or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK.
+### How do I manage or refuse cookies?
 
-Please ensure you notify us of any updates, amendments and corrections to your information by contacting us on 08442 41 41 41 or through [My Sky](https://web.archive.org/portal/site/skycom/mysky).
+If you do not want information to be collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookies feature. Please note, however, that there may be some deterioration in the service you receive (for example, you may not be able to access online content such as Sky Player or undertake self-service activities).
+
+For more detailed information on how to manage or disable cookies, please go to [http://www.aboutcookies.org](http://www.aboutcookies.org/). To opt out of the use of specific cookies, please see below.
+
+ 
+
+### Session cookie
+
+Used to maintain your session when you sign in on Sky websites. This allows you to access Sky’s online services without the need to sign in on every page you visit.
+
+The session cookie is used to tailor advertising to you on Sky online services and websites and selected third party websites. If you opt out of tailored advertising, we stop using this cookie for this purpose.
+
+ 
+
+### Tracking cookie
+
+Used to recognise repeat visitors to Sky websites. It may also be used in conjunction with other information we or our third party partners hold to attempt to record specific browsing information (for example, about the way you arrive at the relevant Sky website, pages you view, options you select, information you enter and the path you take through the Sky website).
+
+ 
+
+### Survey ad exposure cookie
+
+Provided by Survey Interactive for Sky website survey purposes. Storing this cookie allows the accurate measurement of advertising on Sky websites, should you subsequently choose to participate in an ad effectiveness survey. If you do not choose to participate in an ad effectiveness survey, this cookie will expire without being used.
+
+ 
+
+### Customisation cookie
+
+Used to customise your experience. For example, when you sign in to use any Sky services, cookies will be used to recognise you as a returning visitor and customise your experience on Sky websites.
+
+ 
+
+### Audience Science cookie
+
+The Audience Science cookie enables behavioural advertising. Audience Science uses the cookie to place your device in certain advertising segments (e.g. sports segment) based on the content you view on Sky online services and websites and selected third party websites. This cookie is then recognised when you visit Sky online services and websites and/or selected third party sites, and enables advertising to be served according to the segments your device is in.
+
+If you do not wish to receive such behavioural advertising you can opt out at <http://www.youronlinechoices.com/uk/your-ad-choices>. Audience Science will send an "opt-out cookie" to your device. Please note that if you subsequently delete all your cookies, you will also delete the Audience Science opt-out cookie.
+
+You can find more information on behavioural advertising at [http://www.youronlinechoices.com](http://www.youronlinechoices.com/).
+
+ 
+
+### Other third party cookies
+
+We also use cookies served by third parties in order to make our advertising on other websites more relevant. You can opt out of behavioural advertising via these means with an "opt-out cookie" by visiting these sites:
+
+  * [www.youronlinechoices.com/uk/your-ad-choices](http://www.youronlinechoices.com/uk/your-ad-choices)
+  * [www.doubleclick.com/privacy/index.aspx](http://www.doubleclick.com/privacy/index.aspx)
+  * [www.infectiousmedia.com/index.php/privacy-statement](http://www.infectiousmedia.com/index.php/privacy-statement)
+  * [www.google.com/ads/preferences/html/about.html](http://www.google.com/ads/preferences/html/about.html)
+  * <https://choice.live.com/advertisementchoice/Default.aspx>
+  * [www.contextweb.com/privacy_policy/opt_out](http://www.contextweb.com/privacy_policy/opt_out)
+  * [www.invitemedia.com/privacy_policy.shtml](http://www.invitemedia.com/privacy_policy.shtml)
+  * <http://content.yieldmanager.com/ym_privacy.html>
+  * [www.rubiconproject.com/transparency](http://www.rubiconproject.com/transparency)
+
+  
+
+### Adtech cookie
+
+Adtech is Sky's online ad server used for serving and tracking third party advertisements across the Sky websites and selected third party sites. You can visit the Adtech site at [adtech.info/cookie_opt-out](http://www.adtech.info/cookie_opt-out) to opt out of cookie data being used by Adtech to track the advertising served to you. This is done by Adtech sending an "opt-out cookie" to your device. Please note that if you subsequently delete all your cookies, you will also delete this opt-out cookie.
