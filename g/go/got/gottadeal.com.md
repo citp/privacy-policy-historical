@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516030404id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gottadeal.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426193746id_/http%3A//www.gottadeal.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - GottaDeal.com
 
@@ -54,20 +54,8 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 Should you have other questions or concerns about these privacy policies, please call us at (414) 375-2359 or contact us using the form available here on the site. 
 
-|   |  |   | 
-
-**GottaDeal Forums**
-
-[](http://forums.gottadeal.com/ "Visit the GottaDeal.com Forums")
-
-**180,000+** Members  
- **120,000+** Threads  
- **1,250,000+** Posts
-
-[ **Enter the Forums**](http://forums.gottadeal.com/)
-
-[](http://goto.gd/3q) [](http://goto.gd/47)  
-[](http://goto.gd/4c) [](http://goto.gd/4d)  
-[](http://www.gottadeal.com/Shop/6pmcom) [](http://www.gottadeal.com/Coupon/984) [](http://www.facebook.com/gottadeal "Join Our Facebook Group") [](http://www.twitter.com/gottadeal "Follow Us On Twitter") [](http://www.gottadeal.com/rss.xml "Check Out Our RSS Feed") [](http://www.gottadeal.mobi/ "Visit Our Mobile Site") [](http://www.youtube.com/gottadeal "Watch Our YouTube Videos") [](http://www.gottadeal.com/DailyDealUpdate "Subscribe to Daily Deal Update") Get the latest deals   
-e-mailed to you daily! [Click here](http://www.gottadeal.com/DailyDealUpdate) to sign up!  [](http://www.bettercreditcard.com/ "Visit BetterCreditCard.com") Check out this [new list](http://www.bettercreditcard.com/) of our highly recommended "hot deal-friendly" cards.   
+|   |  |   |  [](http://www.facebook.com/gottadeal "Join Our Facebook Group") [](http://www.twitter.com/gottadeal "Follow Us On Twitter") [](http://www.gottadeal.com/rss.xml "Check Out Our RSS Feed") [](http://www.gottadeal.com/App) [](http://forums.gottadeal.com/ "Visit the GottaDeal.com Forums") **150,000+** Members  
+ **140,000+** Threads  
+ **1,000,000+** Posts [**Enter the Forums**](http://forums.gottadeal.com/) [](http://www.gottadeal.com/DailyDealSignup "Subscribe to Daily Deal Update") Get the latest deals   
+e-mailed to you daily! [Click here](http://www.gottadeal.com/DailyDealSignup) to sign up!  [](http://www.bettercreditcard.com/ "Visit BetterCreditCard.com") Check out this [new list](http://www.bettercreditcard.com/) of our highly recommended "hot deal-friendly" cards.   
 ---|---|---|---|---
