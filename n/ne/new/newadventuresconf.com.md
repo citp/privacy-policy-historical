@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newadventuresconf.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226025308id_/http%3A//www.newadventuresconf.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newadventuresconf.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426225120id_/http%3A//newadventuresconf.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | New Adventures In Web Design conference | Nottingham | 20th January 2011
 
