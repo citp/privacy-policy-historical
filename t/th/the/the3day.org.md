@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the3day.org privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227071004id_/http%3A//ww5.komen.org/AboutUs/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the3day.org privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426022219id_/http%3A//ww5.komen.org/AboutUs/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Susan G. Komen for the Cure | Komen.org | Privacy Policy | Privacy Policy
 
