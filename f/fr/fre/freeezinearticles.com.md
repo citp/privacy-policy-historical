@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeezinearticles.com privacy policy that was archived on 2010-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100304120348id_/http%3A//www.freeezinearticles.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeezinearticles.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426145027id_/http%3A//www.freeezinearticles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Ezine Articles
+# Free Ezine Articles » Privacy Policy
 
 **Privacy Policy**
 
