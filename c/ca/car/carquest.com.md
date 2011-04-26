@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213053626id_/http%3A//www.carquest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carquest.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427005419id_/http%3A//www.carquest.com/privacy.html) for the most accurate reproduction.*
 
 # CARQUEST Auto Parts® - Privacy Statement
 
