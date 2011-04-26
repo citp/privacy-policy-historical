@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fosterandsmithaquatics.com privacy policy that was archived on 2010-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100721180934id_/http%3A//www.fosterandsmithaquatics.com/general.cfm%3Fgid%3D997) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fosterandsmithaquatics.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426103925id_/http%3A//www.fosterandsmithaquatics.com/general.cfm%3Fgid%3D997) for the most accurate reproduction.*
 
 # Customer Service: Privacy & Security
 
