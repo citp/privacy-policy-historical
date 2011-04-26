@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easycalculation.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122121230id_/http%3A//easycalculation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycalculation.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426024205id_/http%3A//easycalculation.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
-**Privacy Policy**
+**PRIVACY POLICY**
 
 Thank you for visiting EasyCalculation.com. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit the EastCalculation.com Web site, unless you affirmatively choose to make such information available to us.
 
@@ -20,6 +20,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 **Cookies**
 
-Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this site.If you want to find out more information about this practice, and to learn about your options, including your options with regard to the following companies that may serve advertising on this site .
-
-For privacy related queries contact us at [privacy@easycalculation.com](mailto:privacy@easycalculation.com)
+Advertisements may display on this web site and, if so, may set and access cookies on your computer; such cookies are subject to the privacy policy of the parties providing the advertisement. These parties usually use non-personally-identifiable or anonymous codes to obtain information about your visits to this site.If you want to find out more information about this practice, and to learn about your options, including your options with regard to the following companies that may serve advertising on this site.
