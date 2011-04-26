@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the brilliantstore.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205032751id_/http%3A//www.brilliantstore.com/service/serprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantstore.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426103934id_/http%3A//www.brilliantstore.com/service/serprivacypolicy.html) for the most accurate reproduction.*
 
 # BrilliantStore | Privacy Policy
 
 Brilliant store does not collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we don't require visitors to register or provide information to us in order to view our site. Whether we gather your personal or corporate information on the Internet, or by other means, we pledge:
-
-  
-
 
   * We ship your order with plain packages, no indication of contents will be shown on the packages;
   * Not to sell, giveaway, or otherwise communicate your personal or corporate information to any other persons or companies;
@@ -16,9 +13,6 @@ Brilliant store does not collect personally identifiable information from indivi
 
 Brilliant store does not and will not engage in the following activities:
 
-  
-
-
   * unsolicited email or postal mail,
   * unsolicited phone call or Fax.
 
@@ -26,18 +20,10 @@ Brilliant store does not and will not engage in the following activities:
 
 We contact you via email only for the following purposes:
 
-  
-
-
   * Order confirmation and delivery notice,
   * Other order-related issues, if any, and
   * Answer to your inquiry
 
-  
 
 
-If you have any question or concern about brilliant store's privacy policy, please 
-
-[_click here_](mailto:Customercare@brilliantstore.com)
-
-to let us help you.
+If you have any question or concern about brilliant store's privacy policy, please [_click here_](mailto:Customercare@brilliantstore.com) to let us help you.
