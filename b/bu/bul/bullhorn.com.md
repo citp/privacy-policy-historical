@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullhorn.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126155521id_/http%3A//www.bullhorn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullhorn.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426040852id_/http%3A//www.bullhorn.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - On Demand Recruiting & Staffing Software - Bullhorn
 
@@ -19,7 +19,7 @@ Staffing and Recruiting Industry?
   
   
 Join the Bullhorn Community and gain access to trends research reports, compensation studies, and learn what other staffing and recruiting firms are doing to grow their business.  
-  |  | [home](https://web.archive.org/web/20101126155521id_/http%3A//www.bullhorn.com/index.php) > [company](https://web.archive.org/web/20101126155521id_/http%3A//www.bullhorn.com/company.php) > privacy statement  |    
+  |  | [home](https://web.archive.org/web/20110426040852id_/http%3A//www.bullhorn.com/index.php) > [company](https://web.archive.org/web/20110426040852id_/http%3A//www.bullhorn.com/company.php) > privacy statement  |    
 ---|---  
   
 ### Bullhorn Privacy Statement 
@@ -30,9 +30,9 @@ Because customers entrust Bullhorn with important information/data, we have esta
 ---  
 **Robin Mee**  
 President,  
-[Mee Derby](https://web.archive.org/web/20101126155521id_/http%3A//www.bullhorn.com/client_meederby.php)
+[Mee Derby](https://web.archive.org/web/20110426040852id_/http%3A//www.bullhorn.com/client_meederby.php)
 
-[View Testimonials](https://web.archive.org/web/20101126155521id_/http%3A//www.bullhorn.com/testimonials.php)  
+[View Testimonials](https://web.archive.org/web/20110426040852id_/http%3A//www.bullhorn.com/testimonials.php)  
   
 ##### **Collected Information**
 
@@ -64,7 +64,7 @@ Our Site has security measures in place to help protect against the loss, misuse
 ---|---|---  
   | 
 
-By integrating email, calendaring, sourcing, applicant tracking, job management and customer relationship management, Bullhorn's **On Demand, integrated front office** enables users to communicate and collaborate with contacts, candidates, colleagues and clients in real-time to **generate, source** and **fill** job orders, at anytime and from anyplace.[ **Talk to an expert. Contact us now.**](https://web.archive.org/web/20101126155521id_/http%3A//www.bullhorn.com/calltoactioncontact.php)
+By integrating email, calendaring, sourcing, applicant tracking, job management and customer relationship management, Bullhorn's **On Demand, integrated front office** enables users to communicate and collaborate with contacts, candidates, colleagues and clients in real-time to **generate, source** and **fill** job orders, at anytime and from anyplace.[ **Talk to an expert. Contact us now.**](https://web.archive.org/web/20110426040852id_/http%3A//www.bullhorn.com/calltoactioncontact.php)
 
 |    
  
