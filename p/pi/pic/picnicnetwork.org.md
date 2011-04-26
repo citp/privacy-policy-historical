@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picnicnetwork.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222024258id_/http%3A//www.picnicnetwork.org/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picnicnetwork.org privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426080923id_/http%3A//www.picnicnetwork.org/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy: PICNIC
 
