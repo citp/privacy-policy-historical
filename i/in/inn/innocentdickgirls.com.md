@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innocentdickgirls.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218223234id_/http%3A//innocentdickgirls.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocentdickgirls.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426183722id_/http%3A//www.innocentdickgirls.com/privacy.htm) for the most accurate reproduction.*
 
 # Innocent Dickgirls: The Best shemale and futanari art
 
