@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluestoneperennials.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516080647id_/http%3A//www.bluestoneperennials.com/b/bp/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluestoneperennials.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427094547id_/http%3A//www.bluestoneperennials.com/b/bp/privacypolicy.html) for the most accurate reproduction.*
 
 # Bluestone Perennials, Inc -- Privacy Policy
 
