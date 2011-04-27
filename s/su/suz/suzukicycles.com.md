@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224001224id_/http%3A//suzukicycles.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427035618id_/http%3A//suzukicycles.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Suzuki Cycles - Privacy
 
@@ -13,6 +13,7 @@
   * Identifiable Information Collected Through Sweepstakes, Giveaways, or Promotional Events
   * Copyright/Trademark Ownership
   * No Offer to Sell or Lease
+  * NAI Member Ad Network
 
 
 
@@ -27,7 +28,7 @@ Limitation on Scope of Content
 
 The Suzuki Website contains information regarding Suzuki and its products and promotional programs. The Suzuki vehicles described in this site contain uniquely American specifications and equipment and are offered for sale only in the U.S.A. (excluding Hawaii). The promotional programs described in this site are available only in those states and territories of the U.S. (excluding Hawaii, Guam and Puerto Rico) specifically referred to within the description of the program. All pricing information referred to in this site is in U.S. dollars. 
 
-**The policies described in this Online Privacy and Use Policy do not apply to ASMC’s offline communications, data collection practices, or other activities.**
+The policies described in this Online Privacy and Use Policy do not apply to ASMC’s offline communications, data collection practices, or other activities.
 
 Back To Top
 
@@ -88,5 +89,11 @@ Back To Top
 No Offer to Sell or Lease; Consent to Terms of Online Privacy and Use Policy
 
 All of the information contained in this site is for information purposes only and in no way constitutes an offer to buy or sell Suzuki products. The purchase of any Suzuki vehicle or engine shall be subject to the terms and conditions of the applicable sale, lease or retail installment contract. The MSRPs (Manufacturer's Suggested Retail Prices) listed in this site exclude destination charges, government fees and dealer charges. This site shall not be used or relied upon by you as a substitute for information that is available to you from an authorized Suzuki Automobile, Motorcycle, ATV, Utility Vehicle or Marine dealer. By using this site, you signify your assent to the Suzuki Online Privacy and Use Policy. If you do not agree to this policy, please do not use this site. We reserve the right to change any part of the Suzuki Online Privacy and Use Policy. If you have questions or comments regarding the Suzuki Online Privacy and Use Policy, please contact Webmaster@suzuki.com and note Privacy and Use in the Subject line of the e-mail or contact us via mail by sending a letter to Suzuki.com Privacy Team, P.O. Box 1100, Brea, CA 92822-1100. 
+
+Back To Top
+
+NAI Member Ad Network
+
+We allow third-party companies to collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 Back To Top
