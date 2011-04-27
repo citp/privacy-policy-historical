@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221025748id_/http%3A//www.achooallergy.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428005658id_/http%3A//www.achooallergy.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # AchooAllergy.com Privacy Policy
 
