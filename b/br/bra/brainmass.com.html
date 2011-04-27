@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brainmass.com privacy policy that was archived on 2010-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101122094458id_/http%3A//brainmass.com/content/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brainmass.com privacy policy that was archived on 2011-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110427171210id_/http%3A//www.brainmass.com/content/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,6 +13,8 @@
 <!--[if IE 7]><link href="/css/v4/ie7fixes.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
 
 
+
+<script type="text/javascript" src="/js/jquery.tools.min.js"></script>
 
 
 </head>
@@ -115,6 +117,29 @@ Last updated September 1, 2010</p>
 
 
 <br><br><br>
+
+<!-- easter egg -->
+<div id="easteregg-overlay" class="apple_overlay">
+	<div class="contentWrap"></div>
+</div>
+<script type="text/javascript">
+var eastereggframe = $('<iframe frameborder="0" scrolling="no" allowtransparency="true"></iframe>');
+var easteregg = $("#easteregg-overlay").overlay({
+	mask: '#333333',
+	speed: '0',
+	onBeforeLoad: function() {
+        var wrap = this.getOverlay().find(".contentWrap");
+        var link = "/resources/easter-egg.php?egg=u2UEXE";
+        $(eastereggframe).attr({ src: link, style: 'height:424px;width:610px;border:2px solid #333;' });
+        wrap.html(eastereggframe);
+    }
+});
+$('#easter-egg').click(function() {
+    easteregg.data("overlay").load();
+});
+    var preloadbg = $('<img />').attr('src', '/images/v4/misc/eastereggs.png');
+</script>
+<!-- easter egg-->    
 
 		</div>
         
@@ -228,6 +253,24 @@ Last updated September 1, 2010</p>
     }
 	</script>
 	
+	<!-- Google Code for Public Pages Visitors Remarketing List -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1071952036;
+    var google_conversion_language = "en";
+    var google_conversion_format = "3";
+    var google_conversion_color = "666666";
+    var google_conversion_label = "QgoQCIDk_AEQpOGS_wM";
+    var google_conversion_value = 0;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1071952036/?label=QgoQCIDk_AEQpOGS_wM&guid=ON&script=0"/>
+    </div>
+    </noscript>  
 
 
 
