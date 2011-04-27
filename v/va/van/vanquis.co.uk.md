@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202025437id_/http%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanquis.co.uk privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427222614id_/http%3A//www.vanquis.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy statement - Vanquis
+# Privacy Statement | Vanquis Bank
 
 **1 st February 2010**
 
