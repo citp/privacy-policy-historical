@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theybf.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229204427id_/http%3A//theybf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theybf.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427191618id_/http%3A//theybf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Young, Black, and Fabulous
 
