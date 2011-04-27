@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the payoneer.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309134101id_/http%3A//www.payoneer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payoneer.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427211715id_/http%3A//www.payoneer.com/privacy.aspx) for the most accurate reproduction.*
 
 # Payoneer uses MasterCard prepaid cards to enable payouts from websites to individuals worldwide.
 
-This Privacy Disclosure explains the privacy policies of MetaBank and Payoneer® (“Company”) with respect to the Payoneer prepaid card program.
+This Privacy Disclosure explains the privacy policies of Choice Bank Limited and Payoneer® (“Company”) with respect to the Payoneer prepaid card program.
 
 We are committed to protecting our customers’ privacy and security. This disclosure explains what information we collect about you, with whom we share it, and how you can direct us not to share certain information with certain parties.
 
-**We, our, and us,** means MetaBank and Company, the marketer for your Prepaid card issued by MetaBank.
+**We, our, and us,** means Choice Bank Limited and Company, the marketer for your Prepaid card issued by Choice Bank Limited.
 
-**You and your,** means customers with a prepaid card issued by MetaBank, as well as any consumers who enroll for a prepaid card issued by MetaBank.
+**You and your,** means customers with a prepaid card issued by Choice Bank Limited, as well as any consumers who enroll for a prepaid card issued by Choice Bank Limited.
 
 **Nonpublic personal information,** means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records. Hereafter we will use the term “information” to mean nonpublic personal information as defined by this section.
 
-**Affiliate,** means a company MetaBank or Company owns or controls, a company that owns or controls MetaBank or Company, or a company that is owned or controlled by the same company that owns or controls MetaBank or Company. Ownership does not mean complete ownership, but means enough to have control.
+**Affiliate,** means a company Choice Bank Limited or Company owns or controls, a company that owns or controls Choice Bank Limited or Company, or a company that is owned or controlled by the same company that owns or controls Choice Bank Limited or Company. Ownership does not mean complete ownership, but means enough to have control.
 
-**Nonaffiliated third party,** means a person not employed by MetaBank or Company or a company that is not an affiliate of MetaBank or Company.
+**Nonaffiliated third party,** means a person not employed by Choice Bank Limited or Company or a company that is not an affiliate of Choice Bank Limited or Company.
 
 **Opt out,** means a choice you can make to prevent certain sharing or use of information. We will explain how you can exercise this choice.
 
