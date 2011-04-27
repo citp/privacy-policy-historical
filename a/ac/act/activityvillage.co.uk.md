@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activityvillage.co.uk privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
 |   
 ---  
 |   
-[ ](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/index.htm) |   
+[ ](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/index.htm) |   
 |  |   
 ---|---|---  
 | 
@@ -107,85 +107,60 @@ We may change this Privacy Policy from time to time. If/when changes are made to
 |   
 |    | **Don't miss...**  
 ---|---  
-[ Advent Calendar 2010](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/advent_calendar_2010.htm)  
-[ Advent](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/advent_for_kids.htm)  
-[ Hanukkah](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/hanukkah_for_kids.htm)  
-[ Christmas](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/christmas_pages.htm)  
-[ Kwanzaa](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/kwanzaa_for_kids.htm)  
-[ Winter](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/winter_pages.htm)  
+[Easter](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/easter.htm)  
+[The Royal Wedding](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/the_royal_wedding.htm)  
+[Teacher Appreciation Week (US)](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/teacher_appreciation.htm)  
+[Children's Day (Japan)](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/childrens_day_japan.htm)  
+[Mother's Day (US)](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/mother's_day.htm)  
+[Spring](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/spring.htm)  
 **More Favourite Pages...**  
-[ Free Printables](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/free_printables.htm)  
-[ Christmas Crafts](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/christmas_crafts.htm)  
-[ Printable Christmas Cards](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/printable_christmas_cards.htm)  
-[ Christmas Coloring](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/christmas_coloring.htm)  
-[ Birthday Printables](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/birthday_printables.htm)  
-[ Printable Certificates](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/free_printable_certificates.htm)  
-[ Puzzles](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/puzzles.htm)  
-[ Kids Crafts](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/kids_crafts.htm)  
+[ Free Printables](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/free_printables.htm)  
+[ Puzzles](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/puzzles.htm)  
+[ Birthday Printables](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/birthday_printables.htm)  
+[ Printable Certificates](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/free_printable_certificates.htm)  
+[ Kids Crafts](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/kids_crafts.htm)  
+[ Kids Games & Activities](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/kids_games_and_activities.htm)  
   
-[ ](http://www.christmasiscoming.co.uk/)  
-**Christmas is coming!**  
-Need help? Free inspiration, crafts, decorating ideas, planning sheets, recipes, printables and more!   
-**[Click here!](http://www.christmasiscoming.co.uk/)**
+[ ](http://tinyurl.com/2vfwtuz)  
+**[The Teacher's Binder](http://tinyurl.com/2vfwtuz)** is the world’s largest and most complete collection of often-used, printable, interactive, classroom forms, helping teachers simplify work, personal organization, record keeping and classroom management. 
 
   
-** [Christmas Doodle Fun](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/christmas_doodle_fun.htm)**  
-24 pages of creative Christmas colouring fun for kids!
+27 printable pages of creative fun for kids!  
+**[Easter Doodle Fun](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/easter_doodle_fun.htm)**
 
   
 120 Sudoku Puzzles   
 designed just for kids!    
-**[ Download and ](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/sudoku_for_kids2.htm)  
-[ print now!](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/sudoku_for_kids2.htm)**
-
-  
-**[ Love Dogs?](http://www.findoutaboutdogs.com/)**
-
-[ ](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/whizz.htm)  
-**[Free trial of Math Whizz](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/whizz.htm)**
-
-  
-**[The Teacher's Binder](http://tinyurl.com/2vfwtuz)** is the world’s largest and most complete collection of often-used, printable, interactive, classroom forms, helping teachers simplify work, personal organization, record keeping and classroom management.
+**[ Download and ](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/sudoku_for_kids2.htm)  
+[ print now!](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/sudoku_for_kids2.htm)**
 
 **Latest Articles...**
 
-  
-A global survey of over 61,000 young people from 33 countries by Habbo Hotel and Norton internet security reveals that today’s generation of young people feel that they are savvy when it comes to their own online safety. Despite this, online bullying and spam risks are still very real issues, which are affecting a large proportion of young people.  
-[Cyber Bullying - Online Study](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/cyber_bullying_online_study.htm)
+**Emergency in Japan  
+**The dramatic images of the past week impact children not only in the immediate area where the destruction has taken place but also children throughout the country, and world, who are watching the images on television. **** Concerned about the emotional well-being of their children, many parents, teachers, grandparents and caregivers are looking for advice on how to respond to questions from children about unsettling and upsetting events that continue to be shown in the media about the disaster and the impact on homes, families and neighbourhoods.  
+[How to Help Children Cope with the Emergency in Japan: Ten Tips from Save the Children ](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/how_to_help_children_cope_with_the_emergency_in_japan.htm)
 
   
-TV Diners: New research shows that half of UK families spend mealtimes on the couch in front of the TV.   
-[TV diners](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/tv_diners.htm)
-
-Though most of us will tell our babysitters to call if they need anything, I do not know many people who really want their cell phones ringing three or four times a night while out at dinner, a movie, a party etc. By leaving the babysitter the information contained in this article, you will decrease your chances of having your night out interrupted by phone calls with questions about how to turn the DVD player on or what snacks are allowed before bed.  
-[A Babysitter Checklist - Everything She Will Need To Know](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/babysitter_checklist.htm)
+What Are Fine Motor Skills in Preschoolers? We examine why fine motor skill development is important and look at ways in which we can help our toddlers develop their fine motor muscles.  
+[What Are Fine Motor Skills in Preschoolers?](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/fine_motor_skills_in_preschoolers.htm)
 
   
-Christmas doesn't have to be a stressful time - we have tips and tricks for reducing holiday stress and allowing you to enjoy the holiday season with your family   
-[Battling holiday stress](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/battling_holiday_stress.htm)
+Pre-school children are very busy with both growing and learning. During these extremely important years, our children are learning to walk and talk. They are learning language skills, math skills, and social skills; and we hope they are developing a self-concept that says, "I know I can learn" and "I want to learn."   
+[Parents - What To Do If Your Pre-Schooler Says "This Is Too Hard"](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/preschooler_says_this_is_too_hard.htm)
 
   
-Christmas - Amazing Fun Facts, Trivia and Insights From Around the World to Excite & Humour Family!  
-[Christmas Fun Facts](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/christmas_fun_facts.htm)
+We have all had the experience of being at a movie, at the doctor's office, at a concert, at a restaurant, or even in church, and having small children running around laughing or screaming. We look side to side trying to find the parents while hoping a dirty look will give the parents the message to corral their children. The parents, though, seem oblivious....  
+[Teach behavior expectations to your children](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/teach_behavior_expectations_to_your_children.htm)
 
-  
-Many of us have heard of cookie swaps - but have you thought of these other ideas, all great ways to save at Christmas?  
-[Swap and Save This Year For Christmas](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/swap_and_save_for_christmas.htm)
+[Cyber Bullying - Online Study](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/cyber_bullying_online_study.htm)
 
-[Got to, Get to - Change The Way Your Family Thinks](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/got_to_get_to.htm) **  
-** I recently heard a story that has literally changed the way that I, and my family, think about life. The story is as follows...
+[TV diners](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/tv_diners.htm)
 
-  
-[Motivating Your Children To Get Things Done](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/motivating-your-children.htm)  
-If you have children, you know how hard it can be to get them to do the things they should, and how frustrating. When the kids are distracted, convincing them to take care of their household chores and other responsibilities can be a real challenge. 
-
-  
-[Children Learn What They Live](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/children_learn_what_they_live.htm)  
-An ancient Chinese proverb tells us, "A child's life is like a piece of paper on which every passerby leaves a mark." We cannot teach our children self-esteem. We can only help them discover it within themselves by adding positive marks and strokes on their slates. All positive motivation is rooted in self-esteem – the development of which, just as with other skills takes practice. Think of self-esteem as a four-legged chair...  
+[A Babysitter Checklist - Everything She Will Need To Know](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/babysitter_checklist.htm)  
   
   |   |    
   
-[ A Small Publishing Website](http://www.smallpublishing.co.uk/)    [Contact Us ](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/activity_village_contact_us.htm)   [Sudoku for Kids](http://www.sudokuforkids.com/)   [Privacy Policy](https://web.archive.org/web/20101204235402id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm)
+[ A Small Publishing Website](http://www.smallpublishing.co.uk/)    [Contact Us ](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/activity_village_contact_us.htm)   [Sudoku for Kids](http://www.sudokuforkids.com/)   [Privacy Policy](https://web.archive.org/web/20110427063507id_/http%3A//www.activityvillage.co.uk/privacy_policy.htm)
 
 These pages are property of Activity Village and are for personal, classroom and library use only  
   
