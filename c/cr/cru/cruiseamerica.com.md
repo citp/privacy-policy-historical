@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruiseamerica.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214011726id_/http%3A//www.cruiseamerica.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseamerica.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427140751id_/http%3A//cruiseamerica.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # RV Office - Motorhome Dealers - RV Inventories
 
