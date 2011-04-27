@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the r4king.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230043934id_/http%3A//www.r4king.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r4king.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427055607id_/http%3A//www.r4king.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
