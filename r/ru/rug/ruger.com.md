@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruger.com privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023090056id_/http%3A//www.ruger.com/footer/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruger.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427133103id_/http%3A//ruger.com/footer/privacyPolicy.html) for the most accurate reproduction.*
 
 # Ruger Privacy Policy
 
@@ -6,7 +6,7 @@ Effective September 1, 2010
 
 **This Web Site Privacy Policy** ("Privacy Policy") is provided by Sturm, Ruger & Co., Inc. ("Sturm, Ruger," "we," "our," or "us").  This Privacy Policy describes Sturm, Ruger's practices regarding Personal Information (as defined below) collected via the Sturm, Ruger web sites that include a link to this Privacy Policy (the "Web Sites").  Unless specifically stated otherwise, this Privacy Policy **applies solely** to Personal Information that we gather or collect via such Web Sites.  It does not apply to any information collected offline or otherwise outside of the Web Sites.
 
-Please take a moment to review the terms of this Privacy Policy.  Please also review our [Terms of Use](https://web.archive.org/web/20101023090056id_/http%3A//www.ruger.com/footer/legalStatement.html), which govern your use of our Web Sites. Please note that certain features or services discussed in this Privacy Policy may not be offered or available on all of our Web Sites.
+Please take a moment to review the terms of this Privacy Policy.  Please also review our [Terms of Use](https://web.archive.org/footer/legalStatement.html), which govern your use of our Web Sites. Please note that certain features or services discussed in this Privacy Policy may not be offered or available on all of our Web Sites.
 
 **What Personal Information Does Sturm, Ruger Collect About Me?**  
 When you visit a Web Site, we may collect two types of information from you: (1) Personal Information you voluntarily choose to disclose to us, and (2) Web Site Usage Information that we automatically collect as you interact with the Web Site.
@@ -59,7 +59,7 @@ The Web Sites are operated in the United States.  If you are located in the Eur
 We take commercially reasonable steps to help protect and secure the Personal Information we collect.  However, no data transmission over the Internet, wireless transmission or electronic storage of information can be 100% secure. While we strive to protect your Personal Information, Sturm, Ruger cannot warrant the security of any Personal Information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure its security on our systems. Please keep in mind that whenever you disclose Personal Information Online, that information can be collected and used by others. You are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're Online. 
 
 **Contact Us; Additional Information**  
-We appreciate the trust that you, our customers, have placed in us and look forward to serving you in the future. If you have any questions regarding this Privacy Policy, or if you feel that we are not following this Privacy Policy, please [contact us electronically](https://web.archive.org/web/20101023090056id_/http%3A//www.ruger.com/footer/contact.html), via telephone at 603-863-3300, or via mail at the following address: Sturm, Ruger & Co., Inc., Attention Chief Information Officer, 411 Sunapee Street, Newport, NH 03773.
+We appreciate the trust that you, our customers, have placed in us and look forward to serving you in the future. If you have any questions regarding this Privacy Policy, or if you feel that we are not following this Privacy Policy, please [contact us electronically](https://web.archive.org/footer/contact.html), via telephone at 603-863-3300, or via mail at the following address: Sturm, Ruger & Co., Inc., Attention Chief Information Officer, 411 Sunapee Street, Newport, NH 03773.
 
 **Changes to our Web Site Privacy Policy**  
 We may change this Privacy Policy at any time without notice to you. Any changes will be effective immediately upon the posting of the revised Privacy Policy.  However, we will not use Personal Information about you in a manner materially different than what was stated at the time it was collected unless we receive your consent.
