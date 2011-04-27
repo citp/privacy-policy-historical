@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanta-airport.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116192026id_/http%3A//atlanta-airport.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanta-airport.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427141641id_/http%3A//www.atlanta-airport.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
