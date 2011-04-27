@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the michaeljfox.org privacy policy that was archived on 2010-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221011213id_/http%3A//www.michaeljfox.org/privacyPolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the michaeljfox.org privacy policy that was archived on 2011-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110427175636id_/http%3A//www.michaeljfox.org/privacyPolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1">
@@ -20,14 +20,22 @@
 	
 	<meta name="google-site-verification" content="UYlbwktVWGC-HvZafOD7Lbsvx2OcFSgNWv3mRdiG6w4">
 	
-	<link rel="stylesheet" type="text/css" href="_styles.css" media="Screen">
+	<link rel="stylesheet" type="text/css" href="_styles.css?v=3" media="Screen">
 	<link rel="stylesheet" type="text/css" href="_styles_handheld.css" media="handheld">
 	<link rel="alternate stylesheet" type="text/css" href="_styles_large.css" title="largeFont" disabled="">
 	<link rel="stylesheet" type="text/css" href="_styles_print.css" media="print">
 	
 	<!--[if IE]><link rel="stylesheet" type="text/css" href="_styles_IE.css" media="all"><![endif]-->
 	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="_scripts.js" type="text/javascript"></script>
+	
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+	<script>!window.jQuery && document.write(unescape('%3Cscript src="_jquery-1.4.4.min.js"%3E%3C/script%3E'))</script><script src="_jquery-1.4.4.min.js"></script>
+	
+	
+	<script type="text/javascript" src="http://use.typekit.com/hpn3tvf.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	
+	<script src="_scripts.js" type="text/javascript"></script>
 	
 	<link rel="shortcut icon" href="images/favicon.ico">
 	<link rel="apple-touch-icon" href="images/iphone-icon.png">
@@ -46,8 +54,73 @@
 		</div>
 	</noscript>
 	
-	
+
+
+
+<script type="text/javascript">
+jQuery(document).ready(function($){
+	$('a').mouseup(function(){
+		var href = $(this).attr('href');
+		var href_lower = href.toLowerCase(); 
+		var rel = $(this).attr('rel');
 		
+		if(href_lower.substr(-3) == "pdf" || href_lower.substr(-3) == "xls" || href_lower.substr(-3) == "doc") {
+			_gaq.push(['_trackEvent', 'Document', 'Download', href]);
+			return false;
+		} 
+		var linkType = 'External_Link';
+		var label = 'Open';
+		var value = href;
+		if(href_lower.substr(0, 4) == "http") {
+			if(href_lower.indexOf('twitter.com/michaeljfoxorg') != -1) {
+				linkType = 'SocialNetwork';
+				label = 'Twitter';
+				if(rel){ value = rel; }
+			}
+			if(href_lower.indexOf('facebook.com/michaeljfoxfoundation') != -1) {
+				linkType = 'SocialNetwork';
+				label = 'Facebook';
+				if(rel){ value = rel; }
+			}
+			if(href_lower.indexOf('youtube.com/user/michaeljfox') != -1) {
+				linkType = 'SocialNetwork';
+				label = 'YouTube';
+				if(rel){ value = rel; }
+			}
+			if(href_lower.indexOf('michaeljfoxfoundation.tumblr.com') != -1) {
+				linkType = 'SocialNetwork';
+				label = 'Tumblr';
+				if(rel){ value = rel; }
+			}
+			_gaq.push(['_trackEvent', linkType, label, value]);
+		}
+	});
+});
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1794727-1']);
+  _gaq.push(['_setDomainName', 'michaeljfox.org']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script type="text/javascript">var addthis_config = {data_ga_property: 'UA-1794727-1',"data_track_clickback":true};</script>
+
+
+
+
+
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=kkahl"></script>    
+    
+
+
 		
 	<script type="text/javascript" src="ajax/core/prototype.js"></script>
 	<script type="text/javascript" src="ajax/core/suggest.js"></script>
@@ -124,7 +197,10 @@
   
 </head>
 
-<body>
+<!--[if lt IE 7 ]> <body class="ie6 ieLTE8 ieLTE7"> <![endif]-->
+<!--[if IE 7 ]>    <body class="ie7 ieLTE8 ieLTE7"> <![endif]-->
+<!--[if IE 8 ]>    <body class="ie8 ieLTE8"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--> <body> <!--<![endif]-->
 <div id="mainContainer">
 <a name="top"></a>
 	
@@ -168,6 +244,25 @@
 		
 	</div>
 	
+
+
+
+
+
+<div id="header2" class="clearfix">
+	
+	<div class="social-links">
+		<p>
+			Connect with us
+			<a href="http://twitter.com/michaeljfoxorg" target="_blank" class="first" rel="header"><img src="images/social_icon_twitter.gif" width="16" height="16" alt="Twitter" title="Twitter" border="0"></a>
+			<a href="http://www.facebook.com/michaeljfoxfoundation" target="_blank" rel="header"><img src="images/social_icon_facebook.gif" width="16" height="16" alt="Facebook" title="Facebook" border="0"></a>
+			<a href="http://www.youtube.com/user/michaeljfox" target="_blank" rel="header"><img src="images/social_icon_youtube.gif" width="16" height="16" alt="YouTube" title="YouTube" border="0"></a>
+			<a href="http://michaeljfoxfoundation.tumblr.com/" target="_blank" rel="header"><img src="images/social_icon_tumblr.gif" width="16" height="16" alt="Tumblr" title="Tumblr" border="0"></a>
+		</p>
+	</div>
+	
+	
+</div>
 	
 	
 	
@@ -176,7 +271,8 @@
 		<div class="USLP_contentArea">
 			
 			
-			<h1 class="pageheader"><img src="images/pageheader_privacyPolicy.gif" width="141" height="19" alt="Privacy Policy" title="Privacy Policy"></h1>
+			
+			<h1 class="pageheader">Privacy Policy</h1>
 			
 			<div class="USLP_content contactus">
 								
@@ -250,7 +346,7 @@
 	<img src="images/footerUtil_divider.gif" width="1" height="19" alt="">
 	
 	
-	<a href="javascript:void(0);" onclick="emailThisPage('michaeljfox.org/privacyPolicy.cfm');"><img src="images/footerUtil_emailPage.gif" width="111" height="14" alt="Email This Page" title="Email This Page"></a>
+	<a href="javascript:void(0);" onclick="emailThisPage('www.michaeljfox.org/privacyPolicy.cfm');"><img src="images/footerUtil_emailPage.gif" width="111" height="14" alt="Email This Page" title="Email This Page"></a>
 	
 </div>
 
@@ -269,9 +365,9 @@
 	
 	
 	
-<div id="footer">
+<div id="footer" class="clearfix">
 	<div id="copyright">
-		Copyright © 2010 The Michael J. Fox Foundation for Parkinson's Research
+		Copyright © 2011 The Michael J. Fox Foundation for Parkinson's Research
 	</div>
 	<div id="footerNav">
 		
@@ -282,26 +378,19 @@
 		<a href="privacyPolicy.cfm">Privacy Policy</a>
 		<a href="termsAndConditions.cfm">Terms and Conditions</a>
 	</div>
+	<div class="social-links">
+		<p>
+			Connect with us
+			<a href="http://twitter.com/michaeljfoxorg" target="_blank" class="first" rel="footer"><img src="images/social_icon_twitter.gif" width="16" height="16" alt="Twitter" title="Twitter" border="0"></a>
+			<a href="http://www.facebook.com/michaeljfoxfoundation" target="_blank" rel="footer"><img src="images/social_icon_facebook.gif" width="16" height="16" alt="Facebook" title="Facebook" border="0"></a>
+			<a href="http://www.youtube.com/user/michaeljfox" target="_blank" rel="footer"><img src="images/social_icon_youtube.gif" width="16" height="16" alt="YouTube" title="YouTube" border="0"></a>
+			<a href="http://michaeljfoxfoundation.tumblr.com/" target="_blank" rel="footer"><img src="images/social_icon_tumblr.gif" width="16" height="16" alt="Tumblr" title="Tumblr" border="0"></a>
+		</p>
+	</div>
 </div>
 
 
 </div>
-
-
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1794727-1']);
-  _gaq.push(['_setDomainName', '.michaeljfox.org']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
 
 
 <!-- Added to possibly fix a bug with IE7 Main Landing Pages -->
