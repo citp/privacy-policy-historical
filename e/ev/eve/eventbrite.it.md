@@ -1,0 +1,97 @@
+> *The following text is extracted and transformed from the eventbrite.it privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427121016id_/http%3A//eventbrite.it/privacypolicy) for the most accurate reproduction.*
+
+# Eventbrite Privacy Policy
+
+### Our Policy:
+
+Welcome to the web site (the "Site") of Eventbrite, Inc. ("Company", "we", "us" and/or "our"). This Site is operated by Company and has been created to provide information about our company and to provide customized online event management, registration and ticketing services (the "Company Services") to our Site visitors ("you", "your"). This Privacy Policy sets forth Company's policy with respect to information including personally identifiable data ("Personal Data") and other information that is collected from Site visitors. 
+
+### Information We Collect:
+
+When you interact with us through the Site, we may collect Personal Data and other information from you, as further described below: 
+
+Personal Data That You Provide Through the Site: We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for an event, register for access to the Company Services or use certain Company Services. The Personal data we collect includes without limitation your name, email address and other personally identifiable data. In addition, if you buy or sell a ticket, we will collect financial information from you (e.g., your credit card number and expiration date, billing address, etc). Wherever Company collects Personal Data we make an effort to provide a link to this Privacy Policy. 
+
+By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to this Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Company and the authorized third parties referred to herein located in the United States. 
+
+#### Other Information:
+
+##### Non-Identifiable Data:
+
+When you interact with Company through the Site, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Company may store such information itself or such information may be included in databases owned and maintained by Company affiliates, agents or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process. 
+
+In operating this Site, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. When you visit the Site, third party advertising networks may also place a cookie on your computer. These cookies may be used to tailor content and advertisements you see on the Site as well as other sites that you may visit in the future. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site's features. 
+
+##### Aggregated Personal Data:
+
+In an ongoing effort to better understand and serve the users of the Company Services, Company often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Company may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Company may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes. 
+
+### Our Use of Your Personal Data and Other Information:
+
+Company uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Company Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Company and its subsidiaries and affiliates (the "Related Companies") may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the Company Services. Company and its Related Companies may use this information to contact you in the future to tell you about services we believe will be of interest to you. Other uses of your Personal Data include without limitation: processing payment for purchases you make; delivering tickets, products or services you request; managing your account and providing you with customer service; developing and providing you with promotional or marketing material; protecting against or identifying fraudulent transactions; and generally managing the Company Services and our business. 
+
+If Company intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected. 
+
+### Our Disclosure of Your Personal Data and Other Information:
+
+Company is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: 
+
+#### Business Transfers:
+
+As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. 
+
+#### Related Companies:
+
+We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. 
+
+#### Agents, Consultants and Related Third Parties:
+
+Company, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function. 
+
+#### Event Organizers:
+
+"Event Organizers" are registered users who use the Company Services to create, manage, promote and/or sell tickets to an event online. When you buy or sell tickets on our Site, you consent to our providing your Personal Data to the Event Organizers of the specific event for which you have registered. We share this information with these Event Organizers so they can contact you about the event or other events you may be interested in. 
+
+#### Legal Requirements:
+
+Company may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Company, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability. 
+
+### Your Choices:
+
+You can use the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Company Services. For instance, in order to open an Eventbrite account, or buy or sell tickets, your Personal Data will be required. 
+
+At any time, you can choose to no longer receive future communications from us. You can "opt out" of receiving Company newsletter emails by logging in, clicking on "Account" and following the instructions to "email preferences." You may modify your choices at any time in your Eventbrite account. In addition, each communication we send you will contain instructions permitting you to "opt out" of receiving future communications by clicking on the link at the bottom of the email that says "unsubscribe." It may take up to 24 hours for us to process an unsubscribe request. 
+
+You can also unsubscribe from Event Organizer emails. Please note that if you unsubscribe from receiving Event Organizer emails, you will no longer receive emails from the particular Event Organizer, but you will still get order confirmations and newsletters from Company. If you unsubscribe from all Company emails, you will no longer receive any communications from Company. 
+
+### Exclusions:
+
+This Privacy Policy does not apply to any Personal Data collected by Company other than Personal Data collected through the Site. This Privacy Policy shall not apply to any unsolicited information you provide to Company through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards (collectively, "Public Areas"), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and Company shall be free to reproduce, use, disclose, distribute and exploit such Unsolicited Information without limitation or attribution. 
+
+### Children:
+
+Company does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on this Site without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Company through this Site, please contact us, and we will endeavor to delete that information from our databases. 
+
+### Links to Other Web Sites:
+
+This Privacy Policy applies only to the Site. This Site may contain links to other web sites not operated or controlled by Company (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from this Site do not imply that Company endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
+
+### Security:
+
+Company takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from this Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data to Company via the Internet. 
+
+### Other Terms and Conditions:
+
+Your access to and use of this Site is subject to the [Terms of Service](http://www.eventbrite.com/tos). If you are using the Eventbrite application programming interfaces (the "Eventbrite APIs"), you are subject to the Eventbrite [API Terms of Use](http://developer.eventbrite.com/terms). 
+
+### Changes to Company's Privacy Policy:
+
+The Site and our business may change from time to time. As a result, at times it may be necessary for Company to make changes to this Privacy Policy. Company reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
+
+### Access to Information; Contacting Company:
+
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this Site. 
+
+Please also feel free to contact us if you have any questions about Company's Privacy Policy or the information practices of this Site. 
+
+You may contact us as follows: <http://www.eventbrite.com/contact/>
