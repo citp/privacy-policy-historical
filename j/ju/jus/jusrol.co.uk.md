@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jusrol.co.uk privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128032554id_/http%3A//www.jusrol.co.uk/pdf/JusRol_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jusrol.co.uk privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427185438id_/http%3A//www.jusrol.co.uk/pdf/JusRol_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # General Mills Online Privacy Policy
 
