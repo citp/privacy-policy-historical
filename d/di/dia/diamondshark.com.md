@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamondshark.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229002442id_/http%3A//www.diamondshark.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamondshark.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427162050id_/http%3A//www.diamondshark.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # DiamondShark | Deal of the Day on Discounted Diamond & Gold Jewelry, Diamond Jewelry
 
