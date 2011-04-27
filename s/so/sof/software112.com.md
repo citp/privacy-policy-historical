@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the software112.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229141749id_/http%3A//www.software112.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the software112.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427113003id_/http%3A//www.software112.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy at SOFTWARE 112
 
@@ -37,9 +37,6 @@ We use third-party advertising companies to serve ads when you visit our website
 
 
 SOFTLAND knows that your privacy is very important to you and we respect that.We welcome questions and comments regarding this policy, so feel free to contact us at webmaster@softland.ro.
-
-  
-
 
   
 
