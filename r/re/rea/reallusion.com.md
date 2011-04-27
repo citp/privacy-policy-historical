@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the reallusion.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222075536id_/http%3A//www.reallusion.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallusion.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427113020id_/http%3A//www.reallusion.com/privacy.asp) for the most accurate reproduction.*
 
 # Reallusion 3d animation and text to speech software
-
-Privacy Policy
 
 Reallusion.com realizes the importance of protecting the privacy of personal information. Personal information includes all of the information provided by the customers or collected by Reallusion.com. 
 
