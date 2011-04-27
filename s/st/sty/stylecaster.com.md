@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stylecaster.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223100633id_/http%3A//www.stylecaster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylecaster.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427201436id_/http%3A//www.stylecaster.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - StyleCaster
+# Privacy Policy on StyleCaster
 
 _October, 2008_
 
