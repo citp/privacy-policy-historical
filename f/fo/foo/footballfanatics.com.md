@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballfanatics.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129140849id_/http%3A//www.footballfanatics.com/HelpDesk/Security_Information%233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballfanatics.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427042704id_/http%3A//www.footballfanatics.com/HelpDesk/Security_Information%233) for the most accurate reproduction.*
 
 # 
 
@@ -47,5 +47,3 @@ OTHER MATTERS
 13\. Former Users - If you stop using the Web site or your permission to use the Web site is terminated, we may continue to use and disclose your personal information in accordance with this policy as amended from time to time. However, if you want us to stop sending you unsolicited email and other information, please notify us at [shop@email.teamfanshop.com.](mailto:shop@email.teamfanshop.com)
 
 14\. Policy Changes - To accommodate changes on the Web site, changing technology and legal developments, we have the sole discretion to change this policy from time to time without any prior notice or liability to you or any other person. New versions of this policy will be posted here. Our collection, use and disclosure of your personal information will be governed by the version of this policy in effect at that time. Accordingly, when you use the Web site you should check the date of this policy and review any changes since the last version.
-
-15\. Your Comments - If you have any comments or questions about this policy or your personal information, please contact us at [privacy@teamfanshop.com.](mailto:privacy@teamfanshop.com)
