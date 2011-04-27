@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bookmarky.com privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223065950id_/http%3A//www.bookmarky.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bookmarky.com privacy policy that was archived on 2011-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110427213420id_/http%3A//www.bookmarky.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Bookmarky - Privacy</title>
@@ -10,6 +10,7 @@
 <link type="text/css" rel="stylesheet" href="http://static.bookmarky.com/css/common/structure/header.css?v2">
 <link type="text/css" rel="stylesheet" href="http://static.bookmarky.com/css/common/bookmark/ovl_registration.css?v6">
 <link type="text/css" rel="stylesheet" href="http://static.bookmarky.com/css/common/bookmark/ovl_bookmark.css?v1">
+<link type="text/css" rel="stylesheet" href="http://static.bookmarky.com/css/common/structure/sidebar_list.css?v2">
 <!--[if lte IE 7]>
 <style type="text/css">
 body {
@@ -62,7 +63,7 @@ behavior:url("/jslib/csshover3.htc");
 </div>
 <div id="logo"><a title="Bookmarky - Privacy" href="/" class="pngie6">Bookmarky - Privacy</a></div>
 <div class="search">
-<form action="/tag/" id="searchForm" method="post">
+<form action="/lp/" id="searchForm" method="post">
 <input class="pngie6" type="text" value="Search by Tag..." id="searchInput" name="searchInput" gtbfieldid="1">
 <input class="pngie6" type="submit" id="searchsubmit" value="Search">
 </form>
@@ -425,113 +426,6 @@ You can update or amend your contact details at any time from within the Bookmar
 </p>
 </div>  
 </div>                            
-<div id="overlay-addbookmark" class="ovl-bookmark" style="display:none;">
-<div id="close-ovl">
-<a href="#" title="Close" onclick="return closeSaveOverlay();"><img class="pngie6" src="http://media.bookmarky.com/images/common/elements/registration/close.png" alt="Close"></a>
-</div>
-<div class="clear"></div>
-<div id="add-bookmark">
-<div class="error_msg" id="error_msg_add" style="display:none;">
-<span class="heading">Oops. We've noticed some errors.</span>
-<ol class="cs"></ol>
-</div>
-<div class="success_msg" id="success_msg_add" style="display: none;">
-<span class="heading"><strong>Your bookmark has been properly added.</strong></span>
-<span class="heading">The list of bookmarks will be updated in the next 20 minutes</span>
-</div>
-<form method="post" class="ovl-form" name="add-bookmark" id="ovl_add_bookmark">
-<fieldset>
-<legend><span>Add bookmark</span></legend>
-<ol>                    
-<li>
-<label for="url">Url<em>*</em></label>
-<p>
-<input type="text" id="url" name="url" onblur="getInfoUrl();return false;">
-</p>
-</li>              
-<div id="loader-gif" style="display:none;"><span></span></div>
-<div class="clear"></div>
-<li>
-<label for="title">Title<em>*</em></label>
-<p>
-<input type="text" id="title" name="title">
-</p>
-</li>                                      
-<div class="clear"></div>                   
-<li>
-<label for="tags">Tags<em>*</em></label>
-<p>
-<input type="text" id="tags" name="tags">
-<br>
-<span>Separate with comma</span>
-</p>
-</li>       
-<div class="clear"></div>      
-<li>
-<label for="note">Note</label>
-<p>
-<textarea id="description" type="textarea" name="description"></textarea>
-<br>
-<span></span>
-</p>
-</li>   
-<div class="clear"></div>
-<li>
-<label>&nbsp;</label>
-<p><input id="bookmarkBtn" name="addBookmark" class="rounded-button" value="Save" type="button" onclick="return checkField();"></p>
-</li>  
-<div class="clear"></div>
-<li class="mandatory">* Mandatory fields</li>
-<div class="clear"></div>                   
-</ol>
-</fieldset>
-</form> 
-</div>
-</div>
-<script language="Javascript">
-
-var scrollable = $('div.scrollable').scrollable({api:true});
-if(scrollable != undefined){
-    scrollable.getConf().keyboard = false;
-    scrollable.reload();
-}
-
-function getInfoUrl(){
-    if(!toEdit) { 
-        if($("#error_msg_add").length != 0){
-            $("#error_msg_add").css('display', 'none');
-        }
-        $('ol.cs').remove();
-        $("#ol").remove();
-        $("#url").removeClass("missed");
-
-        if($('#url').val() == ""){
-            return false;
-        }
-        else{
-
-            $("#loader-gif").css("display", "block");
-
-            var params = new Array();
-                params['link'] = $('#url').val();
-                params['market'] = globalMarket;
-                params['brand'] = siteModule;
-                params['brandgroup'] = siteModule;
-                params['theme'] = siteTheme;
-                params['country'] = siteCountry;
-
-            $.ajax({
-                    type: "POST",
-                    url: "/ajaxServer.php?gjaction=bookmarkUrlInfo",
-                    data: http_build_query(params),
-                    dataType : "script"
-                    });
-
-            return false;
-        }
-    }
-}
-</script>
 <!-- Begin comScore Tag -->
 <script type="text/javascript">
       setTimeout(function()
