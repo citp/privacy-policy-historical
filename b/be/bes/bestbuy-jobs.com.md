@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestbuy-jobs.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202171553id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbuy-jobs.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427022556id_/http%3A//www.bestbuy.com/site/Help-Topics/Privacy-Policy/pcmcat204400050062.c%3Fid%3Dpcmcat204400050062) for the most accurate reproduction.*
 
 # Privacy Policy - Best Buy
 
@@ -294,7 +294,7 @@ Back to Top
 
 #### U.S.-EU Safe Harbor Framework
 
-We adhere to the U.S.-EU Safe Harbor Framework ("Safe Harbor Framework") Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and are registered with the U.S. Department of Commerce's Safe Harbor Program.
+We adhere to the U.S.-EU Safe Harbor Framework ("Safe Harbor Framework") Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and are registered with the [U.S. Department of Commerce's Safe Harbor Program.](http://export.gov/safeharbor)
 
 Best Buy Co, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.
 
@@ -326,9 +326,9 @@ Back to Top
 
 As Best Buy continues to improve the services, products and the features we provide, this policy is subject to change. We will post significant changes to this Policy here and/or other formats for you to review. If we change our information practices or this Privacy Policy in such a way that your personal information may be used or shared in a manner not described in the Privacy Policy at the time you provided it, we will give you the opportunity to opt-out of having your information used or shared in that new manner.
 
-Changes as of the last revision date relate to adding Google to Third-Party Ad Providers and Interest-Based Advertising section.
+Changes as of the last revision date relate to adding a link to the Department of Commerce website and being a licensee of the TRUSTe Privacy Program.
 
-Last revision date: 11.11.10
+Last revision date: 2.04.2011
 
 Back to Top
 
