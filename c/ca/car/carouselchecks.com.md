@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carouselchecks.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428084649id_/http%3A//www.carouselchecks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carouselchecks.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427110518id_/http%3A//www.carouselchecks.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Carousel Checks
 
@@ -13,6 +13,8 @@ Cookies are a technology which can be used to provide you with tailored informat
 Carousel Checks order form requires users to give us contact information. We use customer contact information from this form to send the requested catalog and follow up, if needed to ensure customer satisfaction. 
 
 Carousel Checks online store uses an order form for customers to request information, products, and services. Carousel Checks collect visitor's contact information (like their email address), and financial information (like their bank account or credit card information). This information is confidential, and is collected solely for fulfilling orders and to properly bill the user for products and services. Contact information from the order form is used to send orders and information about Carousel Checks to our customers. The customer's contact information is also used to get in touch with the customer when necessary. 
+
+We partner with FetchBack to serve ads and/or collect certain information when you visit our website. FetchBack may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit www.networkadvertising.org. 
 
 If you supply us with your mailing address online, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know at [info@carouselchecks.com](mailto:info@carouselchecks.com) or by phone at 888-422-6122. 
 
