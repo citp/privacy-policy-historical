@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copilotgps.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223043054id_/http%3A//www.alk.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copilotgps.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427193954id_/http%3A//www.alk.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement: ALK Technologies
 
@@ -22,7 +22,7 @@ At ALK, we are committed to protecting your privacy. We use the information we c
 
 ### How does ALK protect customer information?
 
-Your personal information is secure because we work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. SSL encrypts the transmissions from both ALK's server as well as your computer. You'll know that it is secure when you see a yellow padlock icon in the status bar. 
+Your personal information includes your CoPilot user name and CoPilot password, as well as certain other data. Your personal information is secure because we work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. SSL encrypts the transmissions from both ALK's server as well as your computer. You'll know that it is secure when you see a yellow padlock icon in the status bar. 
 
 ### What about "cookies?"
 
@@ -30,7 +30,11 @@ Your personal information is secure because we work to protect the security of y
 
 ### Will ALK disclose the information it collects to outside parties? 
 
-ALK does not sell, trade, or rent your personal information to others.
+ALK abides by Facebook's Privacy Policy for all users of the CoPilot LiveLink Facebook Application. ALK does not sell, trade, or rent your personal information to others.
+
+###  How will ALK respond to legal requests and prevent harm?
+
+Consistent with Facebook's Privacy Policy, ALK may disclose information pursuant to subpoenas, court orders, or other requests (including criminal and civil matters) if we have a good faith belief that the response is required by law. This may include respecting requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law under the local laws in that jurisdiction, apply to users from that jurisdiction, and are consistent with generally accepted international standards. ALK may also share information when we have a good faith belief it is necessary to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to protect ourselves and you from people violating ALK's Terms and Conditions for use of CoPilot or Facebook's Statement of Rights and Responsibilities. This may include sharing information with other companies, lawyers, courts or other government entities.
 
 ### In summary
 
@@ -46,4 +50,6 @@ Please note that ALK offers links to a wide variety of other sites. We do not co
 
 ### Tell us what you think
 
-ALK welcomes your questions and comments about privacy. Please [contact us here](http://www.alk.com/alk/contact_us.asp?contact=feedback&subject=Privacy).
+ALK welcomes your questions and comments about privacy. Please [contact us here](http://www.alk.com/alk/contact_us.asp).
+
+Updated: 5 January 2010
