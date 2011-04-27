@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekinterview.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424202320id_/http%3A//www.geekinterview.com//privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekinterview.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427080937id_/http%3A//www.geekinterview.com/privacy.html) for the most accurate reproduction.*
 
 # GeekInterview.com - Privacy Policy
 
@@ -39,6 +39,10 @@ Though browsers are initially set up to accept cookies, you can reset your brows
 If cookies are refused or disabled, some of our website’s features and services may not function properly.
 
 **Google Advertising**
+
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies.
+
+About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher.s website and either view or click on an ad, a cookie may be dropped on that end user.s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web.[Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **DoubleClick DART cookie**
 
