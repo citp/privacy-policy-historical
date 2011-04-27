@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216133728id_/http%3A//epam.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epam.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427200101id_/http%3A//www.epam.com/privacy.htm) for the most accurate reproduction.*
 
 # EPAM Systems - Privacy Policy
 
 |   
 
 
-Print version [](https://web.archive.org/web/20101216133728id_/http%3A//epam.com/privacy-pv.htm)
+Print version [](https://web.archive.org/web/20110427200101id_/http%3A//www.epam.com/privacy-pv.htm)
 
 |  |  |  | 
 
