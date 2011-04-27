@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build-reciprocal-links.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203010902id_/http%3A//www.build-reciprocal-links.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build-reciprocal-links.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427044747id_/http%3A//www.build-reciprocal-links.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - build-reciprocal-links.com
 
