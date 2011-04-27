@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puma.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223092558id_/http%3A//www.puma.com/imprint/privacy.html%3FTB_iframe%3Dtrue%26height%3D450%26width%3D475) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puma.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427052828id_/http%3A//www.puma.com/imprint/privacy.html%3FTB_iframe%3Dtrue%26height%3D450%26width%3D475) for the most accurate reproduction.*
 
 # PUMA PRIVACY
 
