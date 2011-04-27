@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvsrilankan.info privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226185142id_/http%3A//www.tvsrilankan.info/%3Fnav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvsrilankan.info privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427080718id_/http%3A//www.tvsrilankan.info/%3Fnav%3Dprivacy) for the most accurate reproduction.*
 
-# col3negmoviechannel: col3neg movie channel: col3neg
+# HOME | www.TVSrilankan.com - The People's Channel
 
 **What information do we collect?**
 
