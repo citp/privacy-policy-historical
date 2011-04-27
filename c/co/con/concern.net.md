@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630081757id_/http%3A//www.concern.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concern.net privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427190209id_/http%3A//www.concern.net/privacy) for the most accurate reproduction.*
 
-# Privacy policy : Concern Worldwide : Concern, Concern Worldwide, Concern Ireland, Donate to Charity, Concern.net
+# Privacy policy | Concern Worldwide
 
 #### 
 
