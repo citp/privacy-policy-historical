@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the urbanthreads.com privacy policy that was archived on 2010-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101026072515id_/http%3A//www.urbanthreads.com/content/view/20/35) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the urbanthreads.com privacy policy that was archived on 2011-04-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110427065720id_/http%3A//www.urbanthreads.com/content/view/20/35) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Embroidery Designs at Urban Threads - Privacy Policy</title>
 <meta name="title" content="Privacy Policy">
-<meta name="description" content="Alternative and indie art for machine embroidery designs, hand embroidery designs, and clip art.">
+<meta name="description" content="Fresh, new, alternative designs for machine embroidery and hand embroidery.">
 <meta name="keywords" content="embroidery designs, machine embroidery designs, hand embroidery designs, clip art, urban threads, urbanthreads, Singer Futura, Brother, Viking, Husqvarna, BabyLock, Janome, Elna, Bernina Artista, Deco, Pfaff, indie, alt, alternative, stitching, machine stitching, art, cool, modern, craft, crafting">
 <meta name="Generator" content="Joomla! - Copyright (C) 2005 - 2007 Open Source Matters. All rights reserved.">
 <meta name="robots" content="index, follow">
@@ -17,6 +17,16 @@
 function format_change(x,y)
 {
 	document.forms[y].elements['format'].value = document.forms[x].elements['format'].value;
+	return;
+}
+function format_change_browse(x,y, format_change)
+{
+	var format_dd = document.getElementById(format_change);
+	var format_idx = format_dd.selectedIndex;
+	var selected = format_dd.options[format_idx].value;
+
+	document.forms[y].elements['format'].value = selected;
+	document.forms[x].elements['format'].value = selected;
 	return;
 }
 function format_change_productdetails()
@@ -255,7 +265,7 @@ footerlink{background:#B5454A;}
 										<tbody><tr height="5"><td width="105" rowspan="3"></td><td width="50"></td><td width="40"></td><td width="40"></td><td width="10"></td></tr>
 										<tr><td></td>
 											<td colspan="2" height="28" width="170" style="text-align: right;">
-<a href="http://www.urbanthreads.com/action_login"><img style="vertical-align: bottom; width:92px; border:0px;" src="images/sign_in.jpg"></a>												
+<a href="/action_login"><img style="vertical-align: bottom; width:92px; border:0px;" src="images/sign_in.jpg"></a>												
 											</td>
 										</tr>
 										<tr height="5">
@@ -299,9 +309,32 @@ footerlink{background:#B5454A;}
 										<td border="0" valign="top">
 											
 <form action="index.php" method="get">
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="5"></td><td height="20" valign="bottom"><input name="keyword" id="mod_search_searchword" maxlength="100" alt="search" type="text" size="16" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"></td><td>&nbsp;</td><td valign="bottom"><div valign="bottom"><input height="23" type="image" src="http://www.urbanthreads.com/images/search_button.jpg"></div></td></tr></tbody></table><input type="hidden" name="mode" value="search">
+<table border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="5"></td>
+					<td height="20" valign="bottom"><input name="keyword" id="mod_search_searchword" maxlength="200" alt="search" type="text" size="17" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"></td>
+					<td>&nbsp;</td><td valign="bottom"><div valign="bottom"><input height="23" type="image" src="http://www.urbanthreads.com/images/search_button.jpg"></div>
+					</td>
+				</tr>
+		   </tbody></table><input type="hidden" name="mode" value="search">
 <input type="hidden" name="option" value="com_virtuemart">
 <input type="hidden" name="page" value="shop.browse">	
+
+<!-- machine/hand/jpg dropdown -->
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr height="5"></tr>
+	<tr>
+		<td width="5"></td>
+		<td height="20" valign="bottom">
+			<select name="selectEMType" style="width: 150px;">
+  				<option value="6">Machine Embroidery</option>
+  				<option value="7">Hand Embroidery</option>
+  				<option value="8">Digital Stock Art</option>
+  				<option value="ALL">All</option>
+			</select>
+		</td>
+	</tr>
+</tbody></table>
 </form>
 											<br>
 										</td>
@@ -820,7 +853,7 @@ footerlink{background:#B5454A;}
 												<td><div id="rolloverFeatured"><a href="http://www.urbanthreads.com/pages?id=402"></a></div></td>
 												<td><div id="rolloverBlog"><a href="http://www.urbanthreads.com/blog"></a></div></td>
 												<td><div id="rolloverCustomer"><a href="http://www.flickr.com/groups/urbanthreads/" target="_blank"></a></div></td>
-												<td><div id="rolloverFaq"><a href="http://www.urbanthreads.com/pages?id=429"></a></div></td>
+												<td><div id="rolloverFaq"><a href="http://www.urbanthreads.com/faq"></a></div></td>
 										</tr></tbody></table></td>
 									</tr>
 									<tr height="10px"><td></td></tr>
@@ -839,210 +872,179 @@ footerlink{background:#B5454A;}
 			<td valign="top" colspan="2">
 				<div align="center">
 <center><center></center>
-<table width="525" cellpadding="5" border="0">
+<table width="600" border="0" cellpadding="5">
 	<tbody>
 		<tr>
-			<td width="564">
+			<td>
 			<p align="center">
-			<a target="_blank" href="http://www.truste.org/ivalidate.php?url=www.urbanthreads.com&amp;sealid=101"><img src="images/seal_ctv_en_75.png" border="0" style="border: #000000 0px solid"></a> 
-			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Urban Threads</span></b><span style="font-family: Arial; font-size: 10pt"> has created this privacy statement to demonstrate my commitment to your privacy, and my pledge to keep your personal information secure. The following is information that <b>Urban Threads</b> gathers and uses:<br>
-			&nbsp;</span> 
+			<a href="http://www.truste.org/ivalidate.php?url=www.urbanthreads.com&amp;sealid=101" target="_blank"><img src="images/seal_ctv_en_75.png" style="border: 0px solid #000000" border="0"></a> 
 			</p>
 			</td>
 		</tr>
 	</tbody>
 </table>
-<table width="525" cellpadding="0" border="0" class="MsoNormalTable" id="Table2" style="width: 393.75pt">
+<table style="font-family: Arial,Helvetica,sans-serif; font-size: 10pt" width="600" border="0">
 	<tbody>
 		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">TrustE</span></b><span style="font-family: Arial; font-size: 10pt"><br>
-			<br>
-			<b>Urban Threads </b>is a licensee of the TRUSTe Web Privacy Seal Program.&nbsp; TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.&nbsp;This privacy statement covers the Web site <a href="http://www.UrbanThreads.com">http://www.UrbanThreads.com</a>. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</span> 
+			<td>
+			<p>
+			<b>Urban Threads Privacy Policy</b> 
 			</p>
-			<p class="MsoNormal">
-			<span style="font-family: Arial; font-size: 10pt"></span>
+			<p>
+			<b>Urban Threads</b> has created this privacy statement to demonstrate our commitment to your privacy and our pledge to keep your personal information secure. The following is information that <b>Urban Threads</b> gathers and uses: 
 			</p>
-			<p class="MsoNormal">
-			<span style="font-family: Arial; font-size: 10pt">If you have questions or concerns regarding this statement, you should first contact<br>
-			Niamh at <a href="mailto:support@UrbanThreads.com">support@UrbanThreads.com</a> (or use the <a target="_self" href="form_contact">online Contact Urban Threads form</a> at <a href="http://www.UrbanThreads.com">www.UrbanThreads.com</a>). <br>
+			<p>
 			<br>
-			If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <span style="color: #ff0000"><a target="_blank" href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url=www.urbanthreads.com">http://watchdog.truste.com/pvr.php?page=complaint&amp;url=www.urbanthreads.com</a></span> TRUSTe will then serve as a liaison with <b>Urban Threads</b> to resolve your concerns.<br>
-			&nbsp;</span> 
+			<b>TRUSTe</b> 
 			</p>
-			</td>
-		</tr>
-	</tbody>
-</table>
-<span style="display: none"><o:p>&nbsp;</o:p></span> 
-<table width="525" cellpadding="0" border="0" class="MsoNormalTable" id="Table3" style="width: 393.75pt">
-	<tbody>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Registration</span></b><span style="font-family: Arial; font-size: 10pt"><br>
-			<br>
-			<b>Urban Threads</b> requires that shoppers register with a real email address, name, and original password chosen by you. The email address is required so that I can contact you about designs that you have purchased. The name is required to avoid any potential confusion with payment. A password is necessary for shoppers to access the products that they've purchased, and use the unique and persona parts of my site, such as the basket, list of faves, and past purchases.<br>
-			<br>
-			Shoppers at <b>Urban Threads</b> are assured that their email address, name, and password is never shared with any third party. I keep your information private and secure, and it is not shared, sold, exchanged, or traded with anyone else.<br>
-			<br>
-			After registration, shoppers will receive a confirmation email with their email address and password that they can keep for their records. </span><br>
-			&nbsp; 
+			<p>
+			<b>Urban Threads</b> has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a> including transparency, accountability, and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site <a href="http://www.UrbanThreads.com">http://www.UrbanThreads.com</a>. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Cookies</span></b><span style="font-family: Arial; font-size: 10pt"><br>
-			<br>
-			<b>Urban Threads</b> uses cookies to keep track of how shoppers use the website. This information is used for website improvements. The cookies are removed from your computer when you sign out of <b>Urban Threads</b>. <br>
-			<br>
-			If your web browser is set to not accept cookies, you may still browse through the website, use all areas of the site, and purchase products.<br>
-			<br>
-			<b>Urban Threads</b> uses persistent cookies for shoppers' convenience. These persistent cookies are tied to personally identifiable information. If a shopper's web browser allows persistent cookies, the shopper will be automatically signed into the site at every visit.<br>
-			&nbsp;</span> 
+			<p>
+			If you have questions or concerns regarding this statement, you should first contact us at <a href="mailto:support@UrbanThreads.com">support@UrbanThreads.com</a> (or use the online <a href="form_contact">Contact Urban Threads</a> form at <a href="http://www.UrbanThreads.com">www.UrbanThreads.com</a>). 
 			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Third-Party Cookies</span></b><span style="font-family: Arial; font-size: 10pt"><br>
-			<br>
-			A session cookie from&nbsp;<a target="_blank" href="http://www.godaddy.com">GoDaddy</a> (the issuer of <b>Urban Threads's</b> security certificate) is used on pages that display the seal of authenticity. The cookie does not collect any information, and is used to aid in displaying <b>Urban Threads's</b> validation page when shoppers click on the seal.<br>
-			&nbsp;</span> 
+			<p>
+			If you do not receive a satisfactory response to your inquiry or your inquiry has not been satisfactorily addressed, you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe</a>. 
 			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">IP Address</span></b><span style="font-family: Arial; font-size: 10pt"><br>
+			<p>
 			<br>
-			<b>Urban Threads</b> has the ability to track and record IP addresses. This information is not shared or given to any third party. It's used to help diagnose problems with my server, and to administer the website. I run reports that show how many visitors come to my site each day, and from which part of the world. The information that's gathered gives me a good idea of which web browsers are most popular, and which parts of the world my visitors are coming from.<br>
-			<br>
-			No personal information (name or email address) links any visitor to any IP address. All the data that is gathered by tracking IP addresses is used for the sole purpose of improving my website and products, and is not shared with anyone else.<br>
-			&nbsp;</span> 
+			<b>Registration</b> 
 			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Promotional Mailings and Newsletters</span></b><span style="font-family: Arial; font-size: 10pt"><br>
-			<br>
-			Email newsletters are sent every Friday with information about new designs and projects. <br>
-			<br>
-			All shoppers can choose not to receive weekly updates by filling out the Contact Urban Threads form at the website, or by replying to one of the promotional emails and requesting to be removed from the promotional emails.<br>
-			&nbsp;</span> 
+			<p>
+			<b>Urban Threads</b> requires that shoppers register with an email address and original password. The email address is required so that we can contact you about designs that you have purchased. A password is necessary for shoppers to access the products that they've purchased, and to use the unique and personal parts of the site, such as the basket, list of faves, and past purchases. 
 			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Ordering</span></b><span style="font-family: Arial; font-size: 10pt"><br>
-			<br>
-			<b>Urban Threads</b> uses a shopping basket/order form for shoppers to purchase products. The site collects billing and financial information (credit card numbers and security codes). Financial information that is collected is used only to bill the shopper for the products requested. This information is used only for that purpose, and is never shared with any other person or company. No credit card information is stored in your profile or in any other area of the site.<br>
-			<br>
-			We use a secure third party&nbsp;to process credit cards. No credit card information is stored for any use other than processing the transactions. <br>
-			<br>
-			If a shopper wishes to purchase a gift certificate for someone else, I'll ask for the name and email address of the person getting the certificate. This information is used to send an email to the person to notify them of the certificate code.<br>
-			&nbsp;</span> 
+			<p>
+			Shoppers at <b>Urban Threads</b> are assured that their email address, name, and password are kept private and secure and are not shared, sold, exchanged, or traded with any third party. 
 			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Links</span></b><span style="font-family: Arial; font-size: 10pt"><br>
-			<br>
-			<b>Urban Threads</b> contains links to other websites. <b>Urban Threads</b> is not responsible for the privacy practices or the content of the other websites. As privacy practices may vary at other sites, please review each site's privacy statement.</span><br>
-			&nbsp; 
+			<p>
+			Your information shall be retained for as long as your account is active. If you wish to cancel your account please contact us at <a href="mailto:support@urbanthreads.com">support@urbanthreads.com</a>. We will retain your information as necessary to comply with legal obligations and resolve disputes. 
 			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Security</span></b><span style="font-family: Arial; font-size: 10pt"><br>
-			<br>
-			<b>Urban Threads</b> has security measures in place to protect the loss, misuse, and alternation of your personal information under our control. The security certificate is provided by <a target="_blank" href="https://seal.godaddy.com/verifySeal?sealID=201954842703dfa46b41011f6e8536b957ce3942843567420">GoDaddy</a>. There is a seal of authenticity at <b>Urban Threads</b> and the purchasing page. Click on the seals for information about the security certificate.<br>
-			<br>
-			<b>Urban Threads</b> uses SSL encryption to transmit sensitive information.<br>
-			&nbsp;</span> 
+			<p>
+			After registration, shoppers will receive a confirmation email with their email address registered on the site that they can keep for their records. 
 			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Correct and Change Personal Information</span></b><span style="font-family: Arial; font-size: 10pt"><br>
+			<p>
 			<br>
-			You can change or delete any personal information retained at the site with one of these methods:<br>
-			<br>
-			1.&nbsp; Complete the Contact Urban Threads form at <b>UrbanThreads.com</b> and advise me <br>
-			&nbsp;&nbsp;&nbsp;&nbsp; of what to change<br>
-			2.&nbsp; Sign in to <b>UrbanThreads.com</b> and edit your personal profile<br>
-			&nbsp;</span> 
+			<b>Cookies</b> 
 			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Updates and Changes</span></b><span style="font-family: Arial; font-size: 10pt"><br>
-			<br>
-			If <b>Urban Threads</b> decides to make any material changes to the privacy policy, I'll post a notice on the home page at the website. I'll also advise you how the change affects you, so you are aware of the information I collect, how I use it, and under what circumstances (if any) I disclose it.<br>
-			<br>
-			I'll also mention any significant and upcoming changes in an email at least 30 days in advance of the changes. At that time, if you wish to remove or amend any information that is stored at <b>UrbanThreads.com</b>, you may do so. Instructions for removing or amending information will be included in the email sent to you.<br>
-			<br>
-			<b>Urban Threads</b> reserves the right to modify this privacy statement at any time, so please review it frequently. If material changes are made to this policy, you'll be notified here, by email, or by means of a notice on the home page.<br>
-			&nbsp;</span> 
+			<p>
+			<b>Urban Threads</b> uses cookies to keep track of how shoppers use the Web site. This information is used for Web site improvements. The cookies are removed from your computer when you sign out of <b>Urban Threads</b>. 
 			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Contacting Urban Threads</span></b><span style="font-family: Arial; font-size: 10pt"><br>
+			<p>
+			If your Web browser is set to not accept cookies, you may still browse through the Web site, use all areas of the site, and purchase products. 
+			</p>
+			<p>
+			<b>Urban Threads</b> uses persistent cookies for shoppers' convenience. These persistent cookies are tied to personally identifiable information. If a shopper's Web browser allows persistent cookies, the shopper will be automatically signed into the site at every visit. 
+			</p>
+			<p>
 			<br>
-			If you have any questions about the privacy policy or need to contact me, please use the following methods:<br>
+			<b>Third-Party Cookies</b> 
+			</p>
+			<p>
+			A session cookie from <a href="http://wwwl.godaddy.com/" target="_blank">GoDaddy.com</a> (the issuer of <b>Urban Threads</b>' security certificate) is used on pages that display the seal of authenticity. The cookie does not collect any information, and is used to aid in displaying <b>Urban Threads</b>' validation page when shoppers click on the seal. 
+			</p>
+			<p>
 			<br>
-			Complete the Contact Urban Threads form (link on the left side of <b>UrbanThreads.com</b>)<br>
+			<b>IP Address</b> 
+			</p>
+			<p>
+			<b>Urban Threads</b> has the ability to track and record IP addresses. This information is not shared or given to any third party. It's used to help diagnose problems with our servers and to administer the Web site. We run reports that show how many visitors come to our site each day, which parts of the world visitors are coming from, and which Web browsers are most popular with our visitors. 
+			</p>
+			<p>
+			No personal information (name or email address) links any visitor to any IP address. All the data that is gathered by tracking IP addresses is used for the sole purpose of improving our Web site and products, and is not shared with anyone else. 
+			</p>
+			<p>
 			<br>
+			<b>Promotional Mailings and Newsletters</b> 
+			</p>
+			<p>
+			Email newsletters are sent every Friday with information about new designs and projects. 
+			</p>
+			<p>
+			All shoppers can choose not to receive weekly updates by filling out the <a href="form_contact">Contact Urban Threads</a> form at the Web site, or by replying to one of the promotional emails and requesting to be removed from the mailing list. 
+			</p>
+			<p>
+			<br>
+			<b>Ordering</b> 
+			</p>
+			<p>
+			<b>Urban Threads</b> uses a shopping basket/order form for shoppers to purchase products. Shoppers may pay for an order via PayPal, or using a Visa, MasterCard, or Discover credit card. The site collects billing and financial information (credit card numbers and security codes). Financial information that is collected is used only to bill the shopper for the products requested. This information is used only for that purpose, and is never shared with any other person or company. No credit card information is stored in your profile or in any other area of the site other than the data legally required by the credit card companies. 
+			</p>
+			<p>
+			We use a secure third party to process credit cards. No credit card information is stored for any other use other than processing the transaction. 
+			</p>
+			<p>
+			If a shopper wishes to purchase a gift certificate for someone else, we'll ask for the name and email address of the person getting the certificate. This information is used to send an email to the person to notify them of the certificate code. 
+			</p>
+			<p>
+			<br>
+			<b>Links</b> 
+			</p>
+			<p>
+			<b>Urban Threads</b> contains links to other Web sites. <b>Urban Threads</b> is not responsible for the privacy practices or the content of the other Web sites. As privacy practices may vary at other sites, please review each site's privacy statement. 
+			</p>
+			<p>
+			<br>
+			<b>Security</b> 
+			</p>
+			<p>
+			<b>Urban Threads</b> has security measures in place to protect the loss, misuse, and alternation of your personal information under our control. The security certificate is provided by <a href="http://www.godaddy.com/" target="_blank">GoDaddy</a>. There is a seal of authenticity at <b>Urban Threads</b> and the purchasing page. Click on the seals for information about the security certificate. 
+			</p>
+			<p>
+			<b>Urban Threads</b> uses secure socket layer technology (SSL) to encrypt and transmit sensitive information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
+			</p>
+			<p>
+			<br>
+			<b>Correcting and Changing Personal Information</b> 
+			</p>
+			<p>
+			You can change or delete any personal information retained at the site with one of these methods: 
+			</p>
+			<ul>
+				<li>Complete the <a href="form_contact">Contact Urban Threads</a> form at <b>UrbanThreads.com</b> and advise us of what to change. </li>
+				<li>Sign in to <b>UrbanThreads.com</b> and edit your personal profile </li>
+			</ul>
+			<br>
+			<br>
+			<b>Updates and Changes</b> 
+			<p>
+			<b>Urban Threads</b> reserves the right to modify this privacy statement at any time. If we make any material changes to the privacy policy, we'll post a notice on the home page of this website. We'll also advise you how the change affects you, so you are aware of the information we collect, how we use it, and under what circumstances (if any) we disclose it. 
+			</p>
+			<p>
+			We'll also mention any significant and upcoming changes in an email at least 30 days in advance of the changes. At that time, if you wish to remove or amend any information that is stored at UrbanThreads.com, you may do so. Instructions for removing or amending information will be included in the email sent to you. 
+			</p>
+			<p>
+			<br>
+			<b>Contacting Urban Threads</b> 
+			</p>
+			<p>
+			If you have any questions about the privacy policy or need to contact us, please use the following methods: 
+			</p>
+			<p>
+			Complete the <a href="form_contact">Contact Urban Threads</a> form (link on the left side of <b>UrbanThreads.com</b>) 
+			</p>
+			<p>
 			Send a letter to:<br>
 			<br>
 			Urban Threads<br>
-			5000 Cheshire Lane N. #3<br>
-			Minneapolis, MN&nbsp; 55446</span> 
+			5000 Cheshire Lane N # 3<br>
+			Minneapolis, MN 55446 
 			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Legal Disclaimer</span></b><span style="font-family: Arial; font-size: 10pt"><br>
+			<p>
 			<br>
-			I make every effort to preserve user privacy, but I may need to disclose personal information when required by law, wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process.<br>
-			&nbsp;</span> 
+			<b>Legal Disclaimer</b> 
 			</p>
-			</td>
-		</tr>
-		<tr>
-			<td width="564" style="width: 423pt; padding: 3.75pt">
-			<p class="MsoNormal">
-			<b><span style="font-family: Arial; font-size: 10pt">Effective and Revision Date<br>
-			</span></b><span style="font-family: Arial; font-size: 10pt"><br>
-			This privacy policy was last updated on May 5, 2008.</span> 
+			<p>
+			We make every effort to preserve user privacy, but we may need to disclose personal information when required by law, wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process. 
+			</p>
+			<p>
+			If Urban Threads is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
+			</p>
+			<p>
+			<br>
+			<b>Effective and Revision Date</b> 
+			</p>
+			<p>
+			This privacy policy was last updated on March 24, 2011. 
 			</p>
 			</td>
 		</tr>
@@ -1082,7 +1084,7 @@ footerlink{background:#B5454A;}
 				<tr>
 					<td colspan="4">
 		<div align="center">
-  © 2010 Urban Threads.	
+  © 2011 Urban Threads.	
 </div>
 
 							</td>
@@ -1091,4 +1093,4 @@ footerlink{background:#B5454A;}
 
 	
 
-<!-- Tue, 26 Oct 2010 02:25:14 -0500 --></div></center></body></html>
+<!-- Wed, 27 Apr 2011 01:57:20 -0500 --></div></center></body></html>
