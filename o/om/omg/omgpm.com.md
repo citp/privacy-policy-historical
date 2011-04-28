@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgpm.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614055713id_/http%3A//www.omgpm.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgpm.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428074804id_/http%3A//www.omgpm.com/privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -35,7 +35,7 @@ This privacy policy is governed by UK law.
 
 ## Registration under the Data Protection Act
 
-OMG Services Limited is registered under the Data Protection Act 1998 (registration number XXXXXX).
+OMG Services Limited is registered under the Data Protection Act 1998 (registration number Z7016101).
 
 ## Scope and exclusions
 
