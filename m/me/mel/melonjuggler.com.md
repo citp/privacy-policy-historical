@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melonjuggler.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220233047id_/http%3A//melonjuggler.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melonjuggler.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429001853id_/http%3A//www.melonjuggler.com/privacy.htm) for the most accurate reproduction.*
 
 # FAQ
 
