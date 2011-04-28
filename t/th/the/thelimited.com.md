@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelimited.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501175840id_/http%3A//www.thelimited.com/customer-service/security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelimited.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428200921id_/http%3A//www.thelimited.com/customer-service/security/privacy) for the most accurate reproduction.*
 
 # Security & Privacy: The Limited
 
@@ -6,9 +6,7 @@ Welcome! This Privacy Policy is intended to explain what types of information we
 
 This Privacy Policy applies only to the information collected online by TheLimited.com.
 
-WHAT TYPE OF INFORMATION DOES THELIMITED.COM COLLECT ONLINE?
-
-  
+WHAT TYPE OF INFORMATION DOES THELIMITED.COM COLLECT ONLINE?   
 **1\. General Browsing:**   
 TheLimited.com gathers navigational information about where visitors go on our Web site and information about the technical efficiencies of our Web site and services (i.e., time to connect to our Web site, time to download pages, etc.). This information allows us to see which areas of our Web site are most visited and helps us better understand our visitors' experiences at TheLimited.com. With the navigational information, we can improve the quality of our Web site by recognizing and delivering more of the features, areas and services our visitors prefer. In the process of gathering navigational information, non-personally identifiable information (for example, domain type, browser version, service provider and IP address) may be collected which will provide information regarding a visitor's use of our Web site. 
 
@@ -17,9 +15,10 @@ TheLimited.com may ask you to provide personal information when you establish or
 
 Categories of personal information collected online include name, billing and shipping address information, e-mail address, telephone number, mobile number, credit card information, resume information and any other information you choose to provide us. 
 
-HOW DOES THELIMITED.COM USE AND SHARE THE INFORMATION COLLECTED ONLINE?
+BACK TO TOP
 
-TheLimited.com uses the information you provide to:
+HOW DOES THELIMITED.COM USE AND SHARE THE INFORMATION COLLECTED ONLINE?   
+TheLimited.com uses the information you provide to: 
 
   * deliver products that you have ordered, 
   * contact you or the product recipient(s) in the event of order delay or difficulty,
@@ -37,8 +36,9 @@ We will use the information you provide in a career profile, including in your r
 
 With respect to The Limited e-mails and text messages, you will receive exclusive information about special offers, media events, new products and much more. If at any time you would like to stop future delivery of The Limited e-mails and text messages, please follow the removal instructions located at the end of each message. Please note, however, that your request not to receive email information will not preclude us from contacting you by email or otherwise regarding questions we have about your purchase and other operational e-mails, such as shipping information.
 
-WHAT INFORMATION DOES THELIMITED.COM SHARE WITH THIRD PARTIES?
+BACK TO TOP
 
+WHAT INFORMATION DOES THELIMITED.COM SHARE WITH THIRD PARTIES?   
 We may use third party vendors to help us provide services to you, such as monitoring site activity, hosting the Web site, processing orders, running promotions and events and surveys, maintaining our database, providing store locator services, processing employment applications, and administering and monitoring e-mails.
 
 We may make names and addresses collected online available to other companies. If you do not wish to have your name and address shared with other companies (other than third parties who provide services to TheLimited.com) please call us at 1-877-LTD-1963.
@@ -55,12 +55,14 @@ There is a possibility that The Limited could merge with, acquire, or be acquire
 
 You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our Web site, the site or the public.
 
-VISITORS FROM OUTSIDE THE U.S. 
+BACK TO TOP
 
+VISITORS FROM OUTSIDE THE U.S.    
 If you are visiting TheLimited.com from a location outside of the U.S., your connection will be through and to servers located in the U.S. All information you provide to TheLimited.com will be maintained in Web servers and/or internal systems located within the U.S. 
 
-COOKIES
+BACK TO TOP
 
+COOKIES   
 TheLimited.com uses a browser feature known as a cookie. A cookie is a small data file that is stored by your Web browser on your computer. Cookies are typically stored on your computer's hard drive and are used by TheLimited.com to help track clicks and pass information as you go through the pages within our Web site. We may also use cookies to tell us whether TheLimited.com has been previously visited by you or someone using your computer, what products you may have viewed or added to your shopping cart, and to assist in the administration of your use of features and programs on our site.
 
 We may use cookies and a technology known as clear gifs which are typically stored in e-mails to help us confirm your receipt of, and response to, our e-mails and to provide you a more personalized experience.
@@ -71,36 +73,43 @@ Advertisements displayed to you on our websites and elsewhere on the Web may be 
 
 We will use a program that will place cookies on your computer to collect information on our behalf. The information that will be collected through these cookies will educate us on such things as search engine referral, IP address, how you navigate around our site, traffic driven by banner ads, responses to e-mail, unique visitor identification, and product browsing. We will use this information and analysis to assist us in better understanding the interests of visitors to our Web site and to better serve those interests, including providing e-mails aimed at interests you expressed on our site.  Through the use of privacy settings on your browser it is possible (depending on the browser version) to block cookies. 
 
-UPDATING YOUR PERSONAL INFORMATION 
+BACK TO TOP
 
+UPDATING YOUR PERSONAL INFORMATION   
 We prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your TheLimited.com Account by [logging in](https://web.archive.org/account/signin).
 
-PRIVACY OF CHILDREN ON OUR WEB SITE
+BACK TO TOP
 
+PRIVACY OF CHILDREN ON OUR WEB SITE  
 To ensure compliance with federal law, TheLimited.com does not knowingly collect or maintain information provided by children under the age of 13. 
 
-LINKS TO OTHER WEB SITES AND SERVICES
+BACK TO TOP
 
+LINKS TO OTHER WEB SITES AND SERVICES  
 For your convenience, our web site may contain links to other web sites. TheLimited.com is not responsible for the privacy practices, advertising, products or the content of such web sites. Links that appear on TheLimited.com should not necessarily be deemed to imply that TheLimited.com endorses or has any affiliation with the linked web sites. We encourage you to review the separate privacy policies of each site you visit.
 
-UPDATES TO PRIVACY POLICY
+BACK TO TOP
 
+UPDATES TO PRIVACY POLICY  
 As The Limited.com continues to offer visitors new and different types of content and services, TheLimited.com may modify its information collection, use or disclosure practices. Should there be a material change to our information collection, use or disclosure practices, it will be applied only to information collected on a going forward basis, and we will update this privacy policy.
 
-SECURITY STATEMENT
+BACK TO TOP
 
+SECURITY STATEMENT  
 TheLimited.com has imposed confidentiality obligations on its service providers who will have access to the personal information collected on this site. In addition, we have implemented administrative, technical and physical measures to address the confidentiality of personal information collected on this Web site.
 
 While we implement the above security measures for this Web site, you should be aware that 100% security is not always possible. 
 
-QUESTIONS OR CONCERNS
+BACK TO TOP
 
+QUESTIONS OR CONCERNS  
 If you have additional questions or would like more information on this topic, please feel free to contact us at:
 
 Limited Stores Client Relations  
-7775 Walton Parkway  
-4th Floor  
-New Albany, OH 43054  
+PO Box 182651  
+Columbus, OH 43218-2651  
 [ privacypolicy@thelimited.com](mailto:privacypolicy@thelimited.com)
+
+BACK TO TOP
 
 This privacy policy is effective March 12, 2010.
