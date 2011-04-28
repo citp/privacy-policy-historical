@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denimology.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226012428id_/http%3A//www.denimology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denimology.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428153834id_/http%3A//www.denimology.com/privacy.php) for the most accurate reproduction.*
 
 # Denimology - Privacy Policy
 
