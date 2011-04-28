@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128202036id_/http%3A//rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429005253id_/http%3A//www.rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rapid Learning Center
 
-|  [](http://www.bbbonline.org/cks.asp?id=108031018228)  
----  
   
-  **Need Help?**  
+|   **Need Help?**  
 ---  
   
 M-F: 9am-5pm(PST):  
@@ -14,10 +12,10 @@ US Direct: (714) 692-2900
 Int'l: 001-714-692-2900 
 
 24/7 Technical Support:  
-[The Rapid Support Center](https://web.archive.org/web/20101128202036id_/http%3A//rapidlearningcenter.com/contact.html)
+[The Rapid Support Center](https://web.archive.org/web/20110429005253id_/http%3A//www.rapidlearningcenter.com/contact.html)
 
 Online Order with Instant Access:  
-[](https://www.rapidlearning24.com/members/signup.php)  
+[](https://rapidlearningcenter.com/members/signup.php)  
   
   **Member Login:**  
 ---  
@@ -39,6 +37,7 @@ Send a gift of education to someone you care. Give the learning edge with our ra
 
 **Product Code**
 
+  * RL-700-GPL Platinum 
   * RL-700-GP Premium 
   * RL-700-GS Standard
   * RL-700-GL Lite 
