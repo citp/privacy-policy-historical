@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227033608id_/http%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashleymadison.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428133759id_/http%3A//www.ashleymadison.com/app/public/privacy.p) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | The Ashley Madison Agency
 
 Privacy Statement
 
-Avid Dating Life Inc. ("we," "us" or "Ashley Madison") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: December 15, 2008.
+Ashley Dating Life Inc. ("we," "us" or "Ashley Madison") is firmly committed to privacy. The following discloses our information gathering and dissemination practices for this website (the "Website") and use of our service ("Service"). By accessing the Website, you accept this Privacy Statement and agree to the terms, conditions and notices contained or referenced herein. We reserve the right to make changes to this Privacy Statement at any time without prior notice and such changes become effective once a revised Privacy Policy is posted on our Website. Your continued use of our Website constitutes your acceptance of such changes. Accordingly, you should review this Privacy Statement from time to time for changes. THIS PRIVACY STATEMENT WAS LAST UPDATED ON: December 15, 2008.
 
 The protection of your privacy is very important and we have adopted the following practices to safeguard the confidentiality of your personal information.
 
@@ -49,7 +49,7 @@ We keep the information you have given us for at least as long as your Ad Profil
 Please be aware that it may take several hours for any custom changes you make to take effect on the public areas of the system. Please also note that changing or deleting your information through the 'Manage Profile' or 'Message Center' section of the system, or opting-out of email notifications from us, will only change or delete the data in our database for the purpose of future activities and communications. These changes and deletions will not change or delete information or emails that are queued to be sent or have already been sent.
 
 **Unsolicited Contact (SPAM)**  
-Ashley Madison, our affiliates and our channel partners do not send unsolicited email at any time. Members are automatically opted in to receive email messages to the email address they register on their Ad Profile. You may opt-out of receiving email messages at any time.
+Ashley Madison, our affiliates and our channel partners do not send unsolicited email at any time. Members are automatically opted in to receive email messages to the email address they register on their Ad Profile. You may opt-out of receiving email messages at any time. Any abuse or evidence of unsolicited email that appears to have been initiated from us, directly or indirectly, should be brought to the immediate attention of our compliance officer by using the Contact Form. 
 
 **Do you monitor online behavior?**  
 Our users communicate with each other through on-site Mail Messaging and Instant Messaging. While we do not, as a rule, moderate or monitor advertisers' private exchanges, we reserve the right to do so if we suspect users of being under the age of 18 or of using our service for the purpose of solicitation or any other violation of our Terms & Conditions or Privacy Statement. Submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site.
@@ -67,7 +67,7 @@ We treat data as an asset that must be protected against loss and unauthorized a
 The Canadian government has enacted the Personal Information Protection and Electronic Documents Act. That Act outlines the way personal information may be used in Canada, and we fully adhere to it. That Act defines personal information as anything that identifies an individual, such as, for example, their name, telephone number, age, home address, email address, gender. You may at any time contact us regarding our use of your personal information by using the Contact Form referred to below or at the mailing address referred to below (you may also change your personal information usage profile by accessing the "Manage Profile" or "Message Center" sections of your Ad Profile).
 
 **California Privacy Rights**  
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Ashley Madison for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliatesâ€™ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Ashley Madison for a notice describing what categories of personal customer information we share with third parties or affiliates for those third parties or affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with whom it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the address listed below. Please note that it may take 60 days from receipt of your written request to receive the notice.
 
 To contact us concerning Privacy issues, please use the [Contact Form](http://www.ashleymadison.com/app/public/contact.p). All other inquiries should be sent using our [Contact Us](http://www.ashleymadison.com/app/public/contact.p) section.
 
@@ -75,5 +75,5 @@ To contact us concerning Privacy issues, please use the [Contact Form](http://ww
 Avid Dating Life Inc.  
 (DBA The Ashley Madison Agency)  
 20 Eglinton Ave West, Suite 1200, P.O. Box 2055  
-Toronto, ON CanadaÂ  M4R 1K8  
+Toronto, ON Canada  M4R 1K8  
 
