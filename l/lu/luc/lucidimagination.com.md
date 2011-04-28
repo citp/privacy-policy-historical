@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lucidimagination.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123133600id_/http%3A//www.lucidimagination.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidimagination.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428212823id_/http%3A//www.lucidimagination.com/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | Enterprise Search support for Apache Lucene and Solr by Lucid Imagination
+# Privacy Policy | Lucid Imagination
 
 This Privacy Policy statement describes our practices regarding how information we collect on the Lucid Imagination Web sites is used and shared with third parties. By visiting the Lucid Imagination Web sites, you accept the practices described in this statement. This statement applies to anonymous data and personal information collected at the Lucid Imagination Web sites. This statement also applies to personally identifiable customer information collected in connection with the sale, support and use of Lucid Imagination Products and Services.
 
@@ -20,7 +20,7 @@ In order to protect the privacy interests of younger Internet users, we do not a
 
 **Part II. Information Usage**
 
-Information collected by Lucid Imagination isused to understand how customers are using our Products and Services in order to make them better.
+Information collected by Lucid Imagination is used to understand how customers are using our Products and Services in order to make them better.
 
 Anonymous, aggregated data is analyzed on a regular basis to understand product use and quality, feature popularity, quality, and to assist in the design of future products and services.
 
@@ -34,7 +34,7 @@ We may share some or all of your personal information with our current or future
 
 We offer links to other Web sites. Please note: those other Web sites may observe privacy standards different from ours and the collection and use of your personal information will be governed by the privacy policies on those other sites.
 
-Our Web sites offer a space for postings and sumissions. Please be advised that any information posted in these venues will be publicly available.
+Our Web sites offer a space for postings and submissions. Please be advised that any information posted in these venues will be publicly available.
 
 Finally, please be assured that Lucid Imagination does not sell information collected from customers.
 
