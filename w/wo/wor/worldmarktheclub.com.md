@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417113349id_/http%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429004654id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # WorldMark, The Club | Privacy Policy
 
@@ -10,12 +10,26 @@ Resort Finder
 Accessibility Guides  
 Inventory Specials  
 WorldMark Travel  
+RCI Exchange  
 Vacation Forum  
-Owner Education  
+Online Learning Center  
+Publications & Newsletters  
+Owner to Owner Communication  
 Become an Owner  
-Merchandise  
 Contact Us  
   
+## Flash version 3,0 or greater is required
+
+### You have no flash plugin installed
+
+Download latest version from [here](https://web.archive.org/web/20110429004847/http://www.adobe.com/go/getflashplayer)
+
+## Flash version 3,0 or greater is required
+
+### You have no flash plugin installed
+
+Download latest version from [here](https://web.archive.org/web/20110429004847/http://www.adobe.com/go/getflashplayer)
+
 Privacy Policy
 
 **Wyndham Vacation Ownership, Inc. ("WVO")** recognizes the importance of protecting the privacy of certain Information collected about the users and visitors ( **"user," "you" or "your"** ) of WVO’s Web site ( **"Web Site"** ). The following privacy and information practices policy discloses and describes what Information WVO may gather about you, how WVO may use such Information, and how you can correct or change such Information ( **"Privacy Policy"** ). This Privacy Policy is designed to give you an understanding about how WVO collects your Information and the uses WVO may make of such Information during the course of WVO’s business and in providing you with access to the information, products and services that may be available at this Web Site.
@@ -107,7 +121,7 @@ Opting Out; How Can You Control the Use of Information?
 
 In the event that you decide that you want to opt out from WVO’s use of any Personal Information that you previously provided to (and/or authorized for use by) WVO, or if any of your Personal Information (such as your zip code or e-mail address) changes, WVO will use reasonable efforts to provide you with a way to correct, update or remove such Personal Information. WVO makes repeated efforts to verify the accuracy of your Personal Information and to correct and update its databases based on the information available to WVO. In the event that you believe that any Personal Information held by WVO is inaccurate or outdated, WVO, upon notification and sufficient time for verification, will take all reasonable steps to correct any inaccuracy or update outdated Personal Information of which it is made aware. WVO also gives you the opportunity to control or opt out from the communications that WVO directs to you. If you wish to update or change your Personal Information or opt out from any use or communication described in this Privacy Policy for any reason, you may notify WVO of such update, change or opt out as follows: 
 
-Change or opt out by completing this online form, [click here](http://media.trendwest.com/wbw_optout/).
+Change or opt out by completing this online form, [click here](https://media.trendwest.com/wbw_optout/).
 
 By mail, write to:   
 E-Commerce Department — Privacy  
