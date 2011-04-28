@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourarticlesource.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219115038id_/http%3A//ourarticlesource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourarticlesource.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428151456id_/http%3A//ourarticlesource.com/privacy.php) for the most accurate reproduction.*
 
 # Article Source | Privacy Statement
 
