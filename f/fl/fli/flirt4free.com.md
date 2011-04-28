@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flirt4free.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526073435id_/http%3A//www.flirt4free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flirt4free.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428093838id_/http%3A//www.flirt4free.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Flirt 4 Free
+# Privacy Policy | Flirt4Free
 
 We know you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Flirt 4 Free, you are accepting the practices described in this Privacy Notice.**
 
@@ -71,3 +71,16 @@ Flirt 4 Free does not sell products for purchase by children. We do not permit a
 ### Conditions of Use, Notices, and Revisions
 
 If you choose to visit Flirt 4 Free, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Flirt 4 Free, please send us a thorough description to [feedback@vs.com](mailto:feedback@vs.com), and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+
+### Opt-Out Instructions
+
+If you do not wish to receive emails about our service please use one of the following means to remove yourself. We certainly do not wish to market to anyone who doesn't want it!
+
+Toll Free: | 1-800-685-9236 (USA only)  
+---|---  
+Int'l Phone: | 1-818-880-9021  
+Email: | [customerservice@vs.com](mailto:%20customerservice@vs.com)  
+Regular Mail: |  VS Media Inc.  
+26500 W. Agoura Rd.  
+Suite 102-734  
+Calabasas, CA 91302 
