@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwcfx.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819222623id_/http%3A//www.uwcfx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcfx.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429012005id_/http%3A//www.uwcfx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
