@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thescene.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119054754id_/http%3A//www.thescene.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thescene.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428203719id_/http%3A//www.thescene.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Scene
 
-Last updated: June 3, 2008
+Last updated: January 1st 2011
 
 Protecting the privacy of all of our users is a dedicated commitment of thescene.com and all of the services brought to you by thescene.com (collectively, "The Scene", 'us' or 'we'). This Privacy Policy ('Privacy Policy'), applies to all URLs and services provided under the The Scene name and in connection with the The Scene marks. It explains how The Scene treats personal information that we collect and receive on the The Scene website from our users and visitors.
 
