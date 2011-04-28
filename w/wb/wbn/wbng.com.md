@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbng.com privacy policy that was archived on 2010-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101015061935id_/http%3A//www.wbng.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbng.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428152942id_/http%3A//www.wbng.com/home/privacy) for the most accurate reproduction.*
 
 # WBNG-TV: News, Sports and Weather Binghamton, New York | Privacy Policy
 
