@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812104344id_/http%3A//www.visitflorida.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitflorida.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428031510id_/http%3A//www.visitflorida.com/privacy_policy) for the most accurate reproduction.*
 
 # VISIT FLORIDA Privacy Policy - | Florida Vacation, Tourism, Travel & Entertainment Information - VISITFLORIDA.com
 
@@ -62,6 +62,3 @@ The offers provided on this(ese) page(s) are the sole responsibility of the vend
 This site uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, 24/7 Real Media. These files enable 24/7 Real Media to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our web site. The cookie was placed by us, or by another advertiser who works with 24/7 Real Media. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. 
 
 This statement was updated on 11/07/2007. 
-
-  
-
