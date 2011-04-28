@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearpathtechnology.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213234133id_/http%3A//clearpathtechnology.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearpathtechnology.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428155040id_/http%3A//www.clearpathtechnology.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy : Seo Techniques : Website Promotion : Clearpath Technology
 
