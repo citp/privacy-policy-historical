@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the onepakistan.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212120754id_/http%3A//www.onepakistan.com/data/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepakistan.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428122546id_/http%3A//www.onepakistan.com/data/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Home of Pakistan | Pakistan News, Entertainment, Cricket, Pakistan Forums, Business, Politics | OnePakistan.com
+# Privacy Policy
 
-OnePakistan.com cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By visiting and registering at onepakistan.com portal you are accepting the practices outlined in this Privacy Policy. 
+**
+
+Privacy Policy
+
+** OnePakistan.com cares about how your personal information is used and shared, and we take your privacy seriously. Please read the following terms to learn more about our privacy policy. By visiting and registering at onepakistan.com portal you are accepting the practices outlined in this Privacy Policy. 
 
   * We will never sell your personal information, or use it for any other purpose other than logging in/out, demographics for our knowledge, and any voluntary feature of the site.
   * We use cookies with minimal information in them. For Example we use cookies set to remember your preferences when you visit, i.e favorite tabs, location etc
@@ -25,5 +29,4 @@ We reserve the right to delete any message, ban any member for any or no reason 
   5. **Children below 13 DO NOT Register**   
 The Federal Trade Commission's Children Online Privacy Protection Act of 1998 (COPPA) require that Web Sites are to obtain parental consent before collecting, using, or disclosing personal information from children under 13\. If you are below 13 then you cannot use this forum. Do NOT register if you are below the age of 13. 
 
-|   
----|---
+
