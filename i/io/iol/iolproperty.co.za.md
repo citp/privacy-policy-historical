@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iolproperty.co.za privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219012706id_/http%3A//www.iolproperty.co.za/IOLProperty_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iolproperty.co.za privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428035813id_/http%3A//www.iolproperty.co.za/IOLProperty_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
