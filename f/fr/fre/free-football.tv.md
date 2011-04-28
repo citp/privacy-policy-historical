@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-football.tv privacy policy that was archived on 2010-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100406220821id_/http%3A//www.free-football.tv/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-football.tv privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428095402id_/http%3A//www.free-football.tv/privacy-policy.php) for the most accurate reproduction.*
 
 # Free-Football.tv Privacy Policy
 
