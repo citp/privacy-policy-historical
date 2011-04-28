@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcareers.ca privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106141842id_/http%3A//www.hcareers.ca/abouthospitalityjobs/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcareers.ca privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428220830id_/http%3A//www.hcareers.ca/abouthospitalityjobs/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Hcareers
 
