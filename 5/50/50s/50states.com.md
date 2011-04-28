@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50states.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223074710id_/http%3A//www.50states.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50states.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428182335id_/http%3A//www.50states.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
