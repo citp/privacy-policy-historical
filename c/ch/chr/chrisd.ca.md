@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chrisd.ca privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229072129id_/http%3A//www.chrisd.ca/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrisd.ca privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428142011id_/http%3A//www.chrisd.ca/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ChrisD.ca
+# Privacy Policy | ChrisD.ca
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
