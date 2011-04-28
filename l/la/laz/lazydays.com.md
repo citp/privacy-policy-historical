@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124111753id_/http%3A//lazydays.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazydays.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428200333id_/http%3A//www.lazydays.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Lazydays RV - Number One In RVs (Gas & Diesel Motor homes, Fifth Wheels, and Travel Trailers)
 
@@ -55,7 +55,7 @@ We will give out personal information as required by law, for example, to comply
 
 **Q4:** What choices do I have about Lazydays collecting, using, and sharing my information?
 
-It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us, or give us personally identifiable information, you will have an opportunity, at the time we collect your information, to limit e-mail communications from Lazydays and from our third-party partners. You can request, at any time, that Lazydays not send future e-mail to you either by unsubscribing from the communication or by contacting us at HYPERLINK "" Error! Hyperlink reference not valid. Also, as mentioned above, there are ways to limit the information collected through technology, although some of our features will not work if you decide to do this.
+It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us, or give us personally identifiable information, you will have an opportunity, at the time we collect your information, to limit e-mail communications from Lazydays and from our third-party partners. You can request, at any time, that Lazydays not send future e-mail to you either by unsubscribing from the communication or by contacting us [here](http://www.lazydays.com/contacttoc.aspx "Contact Lazydays"). Also, as mentioned above, there are ways to limit the information collected through technology, although some of our features will not work if you decide to do this.
 
 **Q5:** What type of security does Lazydays provide?
 
@@ -70,7 +70,7 @@ You can access the personally identifiable information you gave us to create you
 If you need further assistance, please send an e-mail with your questions or comments to: 
 
 Steve Adams  
-Lazydays R.V. Center, Inc.  
+Lazydays  
 6130 Lazydays Boulevard  
 Seffner, Florida 33584  
 Telephone: 813/246-4333  
