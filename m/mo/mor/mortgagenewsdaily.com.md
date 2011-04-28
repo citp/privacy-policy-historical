@@ -1,111 +1,134 @@
-> *The following text is extracted and transformed from the mortgagenewsdaily.com privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915124336id_/http%3A//www.mortgagenewsdaily.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgagenewsdaily.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428093527id_/http%3A//www.mortgagenewsdaily.com/privacy.asp) for the most accurate reproduction.*
 
-# Mortgage News Daily Privacy Statement
+# Mortgage News Daily : Privacy Policy
 
-Privacy Statement
+### Mortgage News Daily
 
-**Introduction**
+### Effective and Last Updated: August 1, 2010
 
-MortgageNewsDaily.com takes your privacy seriously. The following privacy statement describes how your personal information is collected and used on MortgageNewsDaily.com. Please read the following information to learn more about our privacy practices.
+This website is owned and operated by Brown House Media, Inc. We are **committed to protecting the privacy of our visitors** while they interact with the content, products and services on this site (the “Site”). This Privacy Policy applies to the Site only. It does not apply to other websites to which we link. Beca **If you do not agree with this Privacy Policy, please do not use the Site.**
 
-**Information Collection & Use**
+Occasionally we may revise this Privacy Policy. If we make revisions that change the way we collect information, those changes will be posted in this Privacy Policy and the effective date will be noted at the beginning of the Policy. You should review it periodically so that you are up to date on our most current policies and practices.
 
-It is not necessary to register with MortgageNewsDaily.com in order to use our website. However we do have some optional services that require submission of personal data. The way we use this personal information is outlined below. 
+### Information Collected
 
-Brown House Media, Inc. is the sole owner of the information collected on MortgageNewsDaily.com. Brown House Media, Inc. collects personally identifiable information from our users at the following points on our Web site.
+We collect two types of information from you: i) information that you voluntarily provide to us (e.g. through a voluntary registration process, sign-ups or emails); and ii) information that is derived through automated tracking mechanisms.
 
-**News Alerts**  
-If you choose to utilize our News Alerts service, we request certain personally identifiable information from you upon signup. The information we collect during this signup includes your email address. 
+Voluntary Registration Information
 
-Signup for our News Alerts Service includes an email verification process. No news alerts will be sent until your email address has been verified. When you signup, an email is sent to your email address with a unique verification code. You must enter this verification code in our verification form. A link to this form is included in the verification email.
+In order to fully access all features of this Site, you must first complete the registration process, during which we will collect personally identifiable information about you. The information may include your name, address, telephone number and email address. We do not collect personally identifiable information about you except when you specifically provide such information to us on a voluntary basis.
 
-Upon verification we will use your email address to send you an email notification each time a news story is published on MortgageNewsDaily.com. We will not share your email address with third parties other than a service provider that mails the News Alerts for us.
+By registering with us, you consent to the use and method of disclosure as described in this Privacy Policy.
 
-Out of respect for your privacy, we provide you a way to [unsubscribe](https://web.archive.org/newsalerts/newsalertsunsubscribe.asp). You can simply click the 'unsubscribe' link at the bottom of each email or contact [customer service](https://web.archive.org/contact.asp) directly to have your email address removed from our system.
+Voluntary Information for Services and Features
 
-**Comments**  
-If you post a comment on one of our pages that accepts user comments, we do request certain personally identifiable information from you. The information we collect during this process includes name, email address and your URL. Your email address is not required and will only be used if we wish to respond to your comment or suggestion. We may make public any information that you provide including your name, URL and e-mail address. 
+We [also] collect personally identifiable information when you choose to use certain other features of the Site, including: purchasing subscriptions, email news alerts, text alerts, Q&A question and answer submissions, email forwards, inviting friends, participating in our forums, rating/tagging/commenting articles/posts/pages, surveys, creating a profile, contacting us, submitting loan scenarios and loan closings, and others. When you choose to use these additional features, we require you to provide your “Contact Information” in addition to other personal information that may be required to complete a transaction such as your phone number, billing and shipping addresses and credit card information.
 
-If you post comments on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of this website, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in your comments.
+Cookies
 
-**Wiki Submissions**  
-If you post a question or topic suggestion to our Wiki Program, we do request certain personally identifiable information from you. The information we collect during this process includes name and email address. Your email address is not required and will only be used if we wish to respond to your question or topic suggestion. We may make public any information that you provide including your name and e-mail address.
+Our site uses "cookies" and other tracking technologies. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. If a user's system is idle for a defined time, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorized access to the user's information while they are away from their computer.
 
-**Wiki Contributors**  
-If you sign up to become a contributor to our Wiki Program, we do request certain personally identifiable information from you. The information we collect during this process includes name, address, phone number, email address and your URL. This information will be used to communicate with our contributors. We may make public any information that you provide including your name, address, phone number, email address and URL. 
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Site.
 
-**Surveys**  
-Occasionally we may provide you the opportunity to participate in surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and email address), and demographic information (such as zip code). We use this information tabulate the results for the survey. We may share this information with third parties.
+Third-Party Cookies: In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers See "Third Party Advertisers."
 
-**Tell-A-Friend**  
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Brown House Media, Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. 
+Clear Gifs (Web Beacons)
 
-Your friend may [contact us](https://web.archive.org/contact.asp) to request that we remove this information from our database.
+We employ a software technology called clear gifs. Clear gifs are often referred to as pixel tags or Web Beacons. These clear gifs are used to help us recognize and assess traffic patterns on our website. Clear gifs are actually small graphics that contain a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. Unlike cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly into Web pages. We do not tie the information gathered by clear gifs to our user's personally identifiable information.
 
-**Contact Us**  
-If you submit personal information, such as your email address, to us by following the "Contact Us" link located throughout our Site, we will use that information to respond to your question or request for information. This information will not be shared with third parties without your explicit permission. 
+Third Party Advertisers
 
-**Service-related Announcements**  
-We will send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You may not opt-out of these non-promotional communications. If you do not wish to receive them, you have the option to deactivate the service related to the service announcement. 
+Some of the advertisements appearing on this Web site are delivered to users by third party advertisers. We may share Web site usage information about users with reputable third parties for the purpose of targeting our advertisements on this site.
 
-**Choice/Opt-out**  
-If you no longer wish to utilize services such as our News Alerts, you may opt-out of receiving them by clicking the unsubscribe link included in each News Alert. You can also opt out of any communications by [contacting](https://web.archive.org/contact.asp) us directly. 
+Third party advertisers may uses cookies and clear GIFs on this site, which allow it to recognize a user's cookie when a user visits this site. The collected and shared through this technology is not personally identifiable.
 
-**Log Files**  
-As is true of most Web sites, we gather certain non-personally identifiable information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+If you would like more information about this practice or to opt out of having this information used by companies that are part of the Network Advertising Initiative to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track user navigation around the website and to gather demographic information about our user base as a whole. 
+### Notice
 
-We do not link this automatically-collected data to personally identifiable information. 
+Third Party Web Sites
 
-We also use a third-party tracking service called HitsLink that uses log files to track and aggregate the same non-personally identifiable information listed above. 
+Our web site links to web sites operated by other companies. Some of these third party sites may be co- branded or provide data/services.
 
-**Cookies**  
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We do use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
+We're not responsible for the privacy practices of web sites operated by third parties that are linked to or integrated with our sites or for the privacy practices of third party Internet advertising companies. Once you've left our site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
 
-We do use session ID cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+Links to Other Sites
 
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this site only and does not cover the use of cookies by any advertisers See "Third Party Advertisers." 
+This Web site contains links to other sites that are not owned or controlled by Brown House Media, Inc. Please be aware that we, Brown House Media, Inc., are not responsible for the privacy practices of such other sites.
 
-**Clear Gifs (Web Beacons)**  
-We employ a software technology called clear gifs. Clear gifs are often referred to as pixel tags or Web Beacons. These clear gifs are used to help us recognize and assess traffic patterns on our website. Clear gifs are actually small graphics that contain a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. Unlike cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly into Web pages. We do not tie the information gathered by clear gifs to our user's personally identifiable information. 
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
-**Third Party Advertisers**  
-The ads appearing on this Web site are delivered to users by third party advertisers. We may share Web site usage information about users with reputable third parties for the purpose of targeting our advertisements on this site. 
+This privacy statement applies only to information collected by this Web site.
 
-Third party advertisers may uses cookies and clear GIFs on this site, which allow it to recognize a user's cookie when a user visits this site. The collected and shared through this technology is not personally identifiable. 
+### How We Use Your Information
 
-**Links to Other Sites**  
-This Web site contains links to other sites that are not owned or controlled by Brown House Media, Inc. Please be aware that we, Brown House Media, Inc., are not responsible for the privacy practices of such other sites. 
+Mortgage News Daily only uses your personal information for the original purposes it was given. **Your personal information will not be sold or otherwise transferred** to unaffiliated third parties without your approval at the time of collection.
 
-We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. 
+Mortgage News Daily will not disclose, use, give or sell any personal information to third parties for any purposes other than to our suppliers and other third parties who need to know in order to deliver services on behalf of Mortgage News Daily unless required to do so by law. Further, Mortgage News Daily reserves the right to contact you regarding matters relevant to the underlying service provided and/or the information collected.
 
-This privacy statement applies only to information collected by this Web site. 
+Please note that personally identifiable information is used only to provide you with a more enjoyable, convenient online experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your personally identifiable information to support and enhance your use of the Site and its features. 
 
-  
-**Access to Personally Identifiable Information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate this information by contacting [Customer Support](https://web.archive.org/contact.asp).
+Mortgage News Daily may use your personal information for target advertising toward you based on things such as location, region, gender, interests, goals, habits, etc.
 
-**Security**  
-The security of your personal information is important to us. When you enter sensitive information on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+We may permit certain trusted third parties to track usage, analyze data such as the source address that a page request is coming from, your IP address or domain name, the date and time of the page request, the referring Web site (if any) and other parameters in the URL. This is collected in order to better understand our Web site usage, and enhance the performance of services to maintain and operate the Site and certain features on the Site. We may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Also, we may share personally identifiable or other information with our parent, subsidiaries, divisions, and affiliates.
 
-If you have any questions about security on our Web site, you can send email by [clicking here](https://web.archive.org/contact.asp).
+We may transfer personally identifiable information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control.
 
-**Business Transitions**  
-In the event BROWN HOUSE MEDIA, INC. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. 
+Mortgage News Daily may disclose Contact Information in special cases where we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our terms and conditions of use or may be causing injury or interference with our rights, property, our customers or anyone who could be harmed by such activities.
 
-**Legal Disclaimer**  
+WE ARE NOT LIABLE OR RESPONSIBLE FOR THE PERSONALLY IDENTIFIABLE OR OTHER INFORMATION YOU CHOOSE TO SUBMIT IN FORUMS SUCH AS A BULLETIN BOARD, CHAT ROOM, COMMENTS OR ANY OTHER PUBLICLY ACCESSIBLE AREA OF THE SITE.
+
+You will receive notice when your personally identifiable information might be provided to any third party for any reason other than as set forth in this Privacy Policy, and you will have an opportunity to request that we not share such information.
+
+We use non-identifying and aggregate information to better design our website and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information.
+
+### How We Protect Your Information
+
+We are committed to protecting the information we receive from you. We take appropriate security measures to protect your information against unauthorized access to or unauthorized alteration, disclosure or destruction of data. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we maintain appropriate physical, electronic, and managerial procedures to safeguard and secure the information and data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.
+
+### Accessing and Updating Your Personal Information and Preferences
+
+We provide mechanisms for updating and correcting your personal information for many of our services. You may modify or remove any of your personal information at any time by logging into your account and accessing features such as edit and account.
+
+### Email Choice/Opt-out
+
+If you no longer wish to receive updates or notifications may opt-out of receiving these communications by changing your “email notification” settings in your “account settings.”
+
+### Children's Privacy and Parental Controls
+
+We do not solicit any personal information from children. If you are not 18 or older, you are not authorized to use the Site. Parents should be aware that there are parental control tools available online that can be used to prevent children from submitting information online without parental permission or from accessing material that is harmful to minors.
+
+### Disclaimer to Security
+
+By consenting to the Terms and Conditions of the Site and hence the Privacy Policy, you consent that no data transmission over the Internet is completely secure. We cannot guarantee or warrant the security of any information you provide to us and you transmit such information to us at your own risk.
+
+### Business Transitions
+
+In the event BROWN HOUSE MEDIA, INC. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.
+
+### Legal Disclaimer
+
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-**Data Retention**  
-We retain your information for as long as necessary to permit us to use it for the purposes that we have communicated to you and comply with applicable law or regulations. 
+### Data Retention
 
-**Changes in this Privacy Statement**  
-If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+We retain your information for as long as necessary to permit us to use it for the purposes that we have communicated to you and comply with applicable law or regulations.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. It is your responsibility to review this document for changes.
+### Notification of Changes
 
-**Contact Us**  
-If you have any questions or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/contact.asp).
+Mortgage News Daily reserves the right to change this Privacy Policy from time to time at its sole discretion. If at some point in the future, there is a change to our Privacy Policy, unless we obtain your express consent, such change will only apply to information collected after the revised Privacy Policy took effect. Your continued use of the Site indicates your assent to the Privacy Policy as posted.
+
+### CONTACT INFORMATION:
+
+If you have any questions or concerns regarding this Privacy Policy please contact:
+
+Mortgage News Daily  
+Attn: Privacy Policy  
+19706 One Norman Blvd. - Suite B225  
+Cornelius, NC 28031
+
+http://www.mortgagenewsdaily.com
+
+[Contact us online](https://web.archive.org/contact.asp)
