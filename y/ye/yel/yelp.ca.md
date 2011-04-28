@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp.ca privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025153237id_/http%3A//www.yelp.ca/static%3Fp%3Dprivacy%26country%3DCA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.ca privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428152243id_/http%3A//www.yelp.ca/static%3Fp%3Dprivacy%26country%3DCA) for the most accurate reproduction.*
 
 # Privacy Policy | Yelp
 
