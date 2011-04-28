@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the domdex.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127160341id_/http%3A//privacy.magnetic.is) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domdex.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429010633id_/http%3A//privacy.magnetic.is) for the most accurate reproduction.*
 
 # Privacy Statement for Magnetic Media Online, Inc.
 
-## Effective September 26, 2010
+## Effective January 11, 2011
 
 This is a privacy policy for Magnetic Media Online, Inc.. Our homepage on the Web is located at [http://www.magnetic.is](http://www.magnetic.is/). The full text of our privacy policy is available on the Web at [http://privacy.magnetic.is/](http://privacy.magnetic.is/w3c/policy.html). 
 
@@ -15,6 +15,8 @@ Magnetic does collect Personally Identifiable information from the magnetic.is w
 Magnetic collects Non-Personally Identifiable information (anonymous) data, that cannot by itself be used to identify a particular person or entity for targeting purposes from keywords. We use keywords collected from user-entered searches to infer a user's interests. Magnetic shows as well as enables our third-party agents to show on-line advertisements targeted at those keywords. Our third-party agents include website publishers, advertising networks, advertising exchange buyers, demand-side platforms, advertisers and their agencies. We do not use unique identifiers in our cookies, ensuring sensitive category information cannot be uniquely associated with your browser.
 
 We do not use Flash cookies or Local Storage Objects. The only kind of cookies we use are standard browser cookies easily visible & manageable in your browser.
+
+For information on how to opt-in or opt-out of use of their information by Magnetic, go to [http://domdex.com/w3c/optout.html](http://domdex.is/w3c/optout.html).
 
 ### Sensitive information
 
@@ -30,7 +32,7 @@ While we endeavor to associate only with reputable entities, if you click a link
 
 ### Opt out
 
-Users may go to [http://magnetic.is/i](http://domdex.com/i) for information on what is being tracked in their cookies. For information on how to opt-in or opt-out of use of their information by Magnetic, go to [http://domdex.com/w3c/optout.html](http://magnetic.is/w3c/optout.html). Visit the [NAI website](http://www.networkadvertising.org/managing/opt_out.asp) to opt out of Magnetic and other NAI members. It is recommended that you delete all cookies before opting out in order to remove any 3rd party cookies that are not members of the NAI. If you use more than one type of browser or computer you will need to opt out from each browser on each computer. If you delete the opt-out cookie, you will have to opt-out again. 
+Users may go to [http://magnetic.is/i](http://domdex.com/i) for details on what information is being used for ad personalization in their cookies. For information on how to opt-in or opt-out of use of their information by Magnetic, go to [http://domdex.com/w3c/optout.html](http://domdex.is/w3c/optout.html). Visit the [NAI website](http://www.networkadvertising.org/managing/opt_out.asp) to opt out of Magnetic and other NAI members, and visit the [IAB UK website](http://www.youronlinechoices.com/opt-out) to opt out of IAB UK members. It is recommended that you delete all cookies before opting out in order to remove any 3rd party cookies that are not members of the NAI. If you use more than one type of browser or computer you will need to opt out from each browser on each computer. If you delete the opt-out cookie, you will have to opt-out again. 
 
 ### Data retention
 
