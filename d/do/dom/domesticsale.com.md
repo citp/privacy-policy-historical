@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512021225id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428124244id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
-
-**Worldwide**
 
 | 
 
@@ -44,16 +42,26 @@ Member area
 
 Testimonials
 
+"Bravo Domestic sale team! The **best website** for free ads i ever seen(and i have seen some)! Excellent job! Keep it up!  
+Best Regards,  
+Melania"  
+ _Santiago, Chile_
+
+"My ad was on less than a week and I had a couple take both of my Beagles to their forever homes. Thanks for having **such a great place to sell stuff** You get 10 stars **********"  
+ _Dublin, GA_
+
 "This website is great! I listed my Dodge, Neon and **in 2 hours** of listing it I got a offer for full price! This site is recommended!!!"
 
 "I was having a difficult time selling my pups...then I added them to Domesticsale.com. **Within 2 weeks they were sold**. I had over 300 hits! I'll come here first next time! Thanks so much!"   
-Mineral Wells, WV
+_Mineral Wells, WV_
 
 " **Dear Domestic Sale** , I just want to thank you for the opportunity to place a free ad. My Doberman puppies **sold within hours** of publication. Excellent site!!!"  
-Thanks again, Maryann Ward. Kemptville, Ontario, Canada
+Thanks again, Maryann Ward.  
+ _Kemptville, Ontario_
 
  **"Thank you** for helping me find a new home for my puppy! I placed the ad on the 13th and **got 180 responses in 2 days!** I was able to interview to find the PERFECT home on the 16th!"  
-Rebecca , Gainesville FL
+Rebecca  
+ _Gainesville FL_
 
 I love your site, **the best** FREE classified site I've come accross EVER!!! ..."  
 Regards, Kerry *pinkbike*
@@ -62,7 +70,8 @@ I love this site too! The guy who set this up **really knows** what we shoe peop
 ELENITA SCHNEIDER
 
  **This site is fantastic.** Placed an ad to sell an antique 55 gal. aquarium and was **sold within two days**. Talk about results! Thanks!  
-Perry Pono, Rhode Island
+Perry Pono  
+ _Rhode Island_
 
 This is a very nice site, I **sold my car** in few days!!!"   
 Thank You. Steve.
