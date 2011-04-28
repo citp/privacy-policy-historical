@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bensbargains.net privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409084429id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dbensbargains.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bensbargains.net privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429015717id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dbensbargains.net) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
