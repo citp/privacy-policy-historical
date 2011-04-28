@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrwebdir.org privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123104558id_/http%3A//hrwebdir.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrwebdir.org privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428030540id_/http%3A//hrwebdir.org/privacy.htm) for the most accurate reproduction.*
 
 # Human Ranked Directory - Privacy Policy
 
