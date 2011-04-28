@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikebandit.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025093517id_/http%3A//www.bikebandit.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikebandit.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428043119id_/http%3A//www.bikebandit.com/help/privacy) for the most accurate reproduction.*
 
 # Motorcycle Parts, Motorcycle Accessories by BikeBandit.com
 
