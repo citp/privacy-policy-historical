@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamrreview.com privacy policy that was archived on 2010-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100910014832id_/http%3A//network.vgchartz.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamrreview.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429003914id_/http%3A//www.vgchartz.com/privacy-policy.php) for the most accurate reproduction.*
 
-# VGChartz Network - Privacy Policy
+# VGChartz Network Privacy Policy
 
 ## Version 10/01/2009
 
