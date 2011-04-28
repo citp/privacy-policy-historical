@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldmarktheclub.com privacy policy that was archived on 2010-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100417113349id_/http%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldmarktheclub.com privacy policy that was archived on 2011-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110429004654id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>WorldMark, The Club | Privacy Policy</title>
@@ -15,7 +15,8 @@
 	<meta name="MSSmartTagsPreventParsing" content="true">
 	<link rel="stylesheet" type="text/css" href="/includes/styles/style-screen-wm.css" media="screen">
 	<link rel="stylesheet" type="text/css" href="/includes/styles/style-print-wm.css" media="print"> 
-	<script language="JavaScript" type="text/javascript" src="/includes/scripts/common/jquery-1.4.1.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/includes/scripts/common/jquery-1.4.1.js"></script>	
+	<script language="JavaScript" type="text/javascript" src="/includes/scripts/common/jquery.tools.min.js"></script>
 	<script type="text/javascript" src="/includes/scripts/common/javascript-wm.js"></script>
 	<style type="text/css" media="screen">
 		body {
@@ -38,8 +39,70 @@ $(document).ready(function() {
     <tbody><tr style="vertical-align:middle;">
       <td width="182"><a href="/index.shtml"><img src="/images/logo.gif" width="179" height="90" border="0"></a></td>
       <td width="430"><a name="top" id="top"></a> <img src="../images/banners/couple-laptop.jpg" width="430" height="90"></td>
-      <td width="163" bgcolor="#D0E9CD" class="RightFeature" align="center"><!-- Start registration link -->
-<a href="/help/">Help</a> : <a href="/contact/">Contact Us</a><br>
+      <td width="163" bgcolor="#D0E9CD" class="RightFeature" align="center"><script> 
+$(document).ready(function(){
+	getTextResponse("/owners/ownerLoggedIn.do", setLogStatus)
+});
+
+function setLogStatus(log){
+
+	if(log == "true")
+	{
+		$("#logStatus").html("Log Out");
+		$("#logStatus").attr('href','/owners/signOff.do');
+	}
+	if(log == "false")
+	{
+		$("#logStatus").html("Log In");
+		$("#logStatus").attr('href','/');
+	}
+	
+	if(log != "false" && log != "true")
+	{
+		$("#logStatus").html("Log In");
+		$("#logStatus").attr('href','/');
+		clearTimeout(timer);
+	}
+	
+	log=null;
+	stimer();
+}
+function stimer(){
+	timer = setTimeout("getTextResponse('/owners/ownerLoggedIn.do', setLogStatus)", 2700000);
+	return;
+}
+
+function getTextResponse(urlLoc, returnFunction){
+    //Retrieves text 
+    //Sends to init function to parse
+    var ranEnd;
+	ran_unrounded=Math.random()*999999; 
+	ran_number=Math.floor(ran_unrounded);
+	    
+    if(urlLoc.indexOf("?") == -1)
+        ranEnd = "?";
+    else
+        ranEnd = "&";    
+
+    $.ajax({
+       type: "GET",
+       url: urlLoc +ranEnd+"id="+ ran_number,
+	   dataType: "text",
+       success: returnFunction
+    });
+	
+	ranEnd=null;
+	urlLoc=null;
+	return;
+}
+</script>
+
+<!-- Start registration link -->
+<div style="width:163px">
+<a href="#" id="logStatus"></a> : 
+<a href="/help/">Help</a> : 
+<a href="/contact/">Contact Us</a>
+</div><br>
 <!-- End registration link -->
 </td>
     </tr>
@@ -69,20 +132,27 @@ $(document).ready(function() {
 	<tr onclick="location.href='/inventory_specials/'">
 		<td>Inventory Specials</td>
 	</tr>
-	<tr onclick="location.href='/adventures/'">
+	<tr onclick="location.href='/travel/'">
 		<td>WorldMark Travel</td>
+	</tr>
+	<tr onclick="location.href='/owners/secure/rciEnablement.do'">
+		<td>RCI Exchange</td>
 	</tr>
 	<tr onclick="window.open('http://forums.trendwest.com/')">
 		<td>Vacation Forum</td>
 	</tr>
-	<tr onclick="location.href='/education/'">
-		<td>Owner Education</td>
+	<tr onclick="location.href='/owners/secure/onlinelearningcenter/index.jsp'">
+		<td>Online Learning Center</td>
+	</tr>
+	<tr>
+      <td onclick="location.href='/owners/secure/destinations/main.jsp'">
+      Publications &amp; Newsletters</td>
+    </tr>
+	<tr onclick="window.location='/owners/secure/ownerCommunications.do'">
+		<td>Owner to Owner Communication</td>
 	</tr>
 	<tr onclick="location.href='/owners/become-owner.shtml'">
 		<td>Become an Owner</td>
-	</tr>
-	<tr onclick="window.open('http://www.worldmarkstore.com/')">
-		<td>Merchandise</td>
 	</tr>
 	<tr onclick="location.href='/contact/'">
 		<td>Contact Us</td>
@@ -100,15 +170,9 @@ $("table.Nav tr").hover(function () {
 </script>
 <br><br>
 
+<div style="margin-top:12px;width:182px;height:144px;" class="flashInsert" loc="/flash/sidebar_ad.swf"><h2>Flash version 3,0 or greater is required</h2><h3>You have no flash plugin installed</h3><p>Download latest version from <a href="https://web.archive.org/web/20110429004847/http://www.adobe.com/go/getflashplayer">here</a></p></div>
 
-<div style="margin-top:12px;">
-	<script type="text/javascript">checkFlash('width','182','height','144','src','/flash/sidebar_ad','noflashImgSrc','http://media.trendwest.com/wm_campaigns/images/noflash_182x144.gif','wmode','transparent');</script>
-</div>
-
-<div>
-	<script type="text/javascript">checkFlash('width','182','height','200','src','http://media.trendwest.com/flash/go/travelsecure','noflashImgSrc','/images/banners/noflash_182x200.gif','wmode','transparent');</script>
-</div>
-
+<div style="width:182px;height:200px;" class="flashInsert" loc="/flash/go/travelsecure.swf"><h2>Flash version 3,0 or greater is required</h2><h3>You have no flash plugin installed</h3><p>Download latest version from <a href="https://web.archive.org/web/20110429004847/http://www.adobe.com/go/getflashplayer">here</a></p></div>
 
         </div></td>
       <td class="DefaultText" colspan="2"><!-- Begin: Page Body -->
@@ -186,7 +250,7 @@ $("table.Nav tr").hover(function () {
           <p><a href="#top"><img src="/images/back-to-top.gif" width="50" height="12" border="0"></a></p>
           <a name="Opting" id="Opting"></a><span class="DefaultTextBlueBold">Opting Out; How Can You Control the Use of Information?</span>
           <p>In the event that you decide that you want to opt out from WVO’s use of any Personal Information that you previously provided to (and/or authorized for use by) WVO, or if any of your Personal Information (such as your zip code or e-mail address) changes, WVO will use reasonable efforts to provide you with a way to correct, update or remove such Personal Information. WVO makes repeated efforts to verify the accuracy of your Personal Information and to correct and update its databases based on the information available to WVO. In the event that you believe that any Personal Information held by WVO is inaccurate or outdated, WVO, upon notification and sufficient time for verification, will take all reasonable steps to correct any inaccuracy or update outdated Personal Information of which it is made aware. WVO also gives you the opportunity to control or opt out from the communications that WVO directs to you. If you wish to update or change your Personal Information or opt out from any use or communication described in this Privacy Policy for any reason, you may notify WVO of such update, change or opt out as follows: </p>
-          <p style="margin-left:30px;"><span id="part1">Change or opt out by completing this online form, <a href="http://media.trendwest.com/wbw_optout/" target="_blank">click here</a></span>.</p>
+          <p style="margin-left:30px;"><span id="part1">Change or opt out by completing this online form, <a href="https://media.trendwest.com/wbw_optout/" target="_blank">click here</a></span>.</p>
           <p style="margin-left:30px;"> By mail, write to: <br>
             E-Commerce Department — Privacy<br>
             Wyndham Vacation Ownership, Inc.<br>
@@ -235,8 +299,8 @@ $("table.Nav tr").hover(function () {
 		</tr>
 	<tr>
 		<td class="FooterText" align="center" style="vertical-align:middle; height:20px;">
-		© 2000 -  <script type="text/javascript">document.write(year)</script>2020 Wyndham Resort Development Corporation. All rights reserved.<br>
-		WorldMark® is licensed for use by Wyndham Resort Development Corp.
+		©2005 -  <script type="text/javascript">document.write(year)</script>2020 Wyndham Resort Development Corporation. All rights reserved.<br>
+		WorldMark® is a federally registered service mark of Wyndham Resort Development Corporation.
 		</td>
 		</tr>	
 </tbody></table>
