@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windmobile.ca privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227234947id_/http%3A//www.windmobile.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windmobile.ca privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428123146id_/http%3A//www.windmobile.ca/privacy-policy) for the most accurate reproduction.*
 
 # WIND Mobile | Privacy Policy
 
