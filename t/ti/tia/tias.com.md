@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423112918id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429014744id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
 
 # TIAS Privacy Statement
 
@@ -46,6 +46,8 @@ While you are shopping at TIAS, we may place a temporary cookie on your computer
 
 **Oversight**  
 If you have comments or questions about our privacy policy,  you can contact us:
+
+| 
 
 **E-mail:**
 
