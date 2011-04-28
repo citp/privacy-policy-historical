@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mixcloud.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103163926id_/http%3A//www.mixcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixcloud.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428052758id_/http%3A//www.mixcloud.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mixcloud - Re-think radio
 
 This privacy policy sets out how Mixcloud Limited ("Mixcloud" or "we", "our" or "us") uses and protects any information that you give Mixcloud when you use www.mixcloud.com (the "Website"). Mixcloud enables users to submit and share "Cloudcasts". A Cloudcast is an audio file that is stored remotely rather than locally and accessible to listen to on-demand. A Cloudcast may include, but is not limited to, a radio show, a Podcast, a DJ mix-set or a live recording. 
 
-Mixcloud is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, and then you can be assured that it will only be used in accordance with this Privacy Policy.
+Mixcloud is committed to ensuring that your privacy is protected. Any information you provide to us by which you may be identified when using the Website will only be used in accordance with this privacy policy.
 
 Mixcloud may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st January 2009.
 
@@ -44,11 +44,11 @@ From time to time, you will be able to send to a friend or to another service or
 
 ### 7\. How we use cookies
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+A cookie is a small file which may be placed on your computer's hard drive. Once the file is added the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We also use cookies to identify you as a valid user and to help personalise your Mixcloud experience in conjunction with your profile. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log onto our Website. Please note, our advertisers may also use cookies over which we have no control.
 
 ### 8\. Links to other websites
 
@@ -58,7 +58,7 @@ Our website may contain links to enable you to visit other websites of interest 
 
 Mixcloud complies with the Data Protection Act 1998 (the "Act"), including UK amending legislation and E.U. Directives. Pursuant to the Act, you have the right to be informed of, and to have access to, all of the personally identifiable information we hold about you, and you may do so by visiting your user profile when logged-in to your account on the Website, or by e-mailing us at: legal@mixcloud.com. A small admin fee may be payable.
 
-We may store information provided by you on our servers both in the U.S. and in the U.K.
+We may store information provided by you on our servers in the U.S., the U.K and/or elsewhere within the EEA.
 
 ### 10\. Transfers of your Information
 
