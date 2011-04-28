@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the internetmarketinginc.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223102651id_/http%3A//www.internetmarketinginc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetmarketinginc.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428101514id_/http%3A//www.internetmarketinginc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Internet Marketing Inc.
-
-[](http://www.internetmarketinginc.com/request-a-proposal "Request A Media Kit")
-
-[Home](http://www.internetmarketinginc.com/ "Go to Home.") » Privacy Policy 
 
 ### Privacy Policy
 
@@ -34,5 +30,4 @@ You may opt out of any future contacts from us at any time. You can do the follo
   * 3\. Have us delete any data we have about you.
   * 4\. Express any concern you have about our use of your data. 
 
-  
 
