@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417085543id_/http%3A//www.shine.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shine.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429015400id_/http%3A//www.shine.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Shine.com
 
