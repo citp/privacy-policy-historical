@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motocross.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221095905id_/http%3A//www.motocross.com/moto/page/service) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motocross.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429235314id_/http%3A//www.motocross.com/moto/page/service) for the most accurate reproduction.*
 
 # Motocross, Motocross Gear, Motocross and Supercross Videos, Motocross Race Coverag, Motocross Riding Apparel, Motocross News, Motocross Girls - Motocross.com
 
