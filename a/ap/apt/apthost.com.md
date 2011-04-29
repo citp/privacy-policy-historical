@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apthost.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212030836id_/http%3A//www.apthost.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apthost.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429054830id_/http%3A//www.apthost.com/privacy.shtml) for the most accurate reproduction.*
 
-# APTHost Communications - Privacy Policy
+# AptHost - Privacy Policy
 
   
 AptHost.com ("AptHost") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of our consulting services, online services, websites, and web services ("Services").
