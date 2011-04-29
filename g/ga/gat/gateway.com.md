@@ -1,45 +1,75 @@
-> *The following text is extracted and transformed from the gateway.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724173134id_/http%3A//www.gateway.com/about/legal/security.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gateway.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430000750id_/http%3A//www.gateway.com/about/legal/security.php) for the most accurate reproduction.*
 
-# Gateway Official Site: Gateway Computers - Privacy & Data Security
+# Gateway Official Site: Gateway Computers - Privacy Policy
 
-Privacy Statement  
-Gateway respects our customers' rights to privacy. We hold your detailed customer information in confidence. This policy applies to information held by Gateway and its affiliated brands, including eMachines, in connection with Gateway's domestic activities.
+Our Commitment to You...  
+Acer Inc. of 8F, 88, Sec. 1, Hsin Tai Wu Rd., Hsichih, Taipei 221, Taiwan and its group of companies around the world (including its affiliated brands Gateway, eMachines and Packard Bell), a list of which can be found at <http://www.acer-group.com/officelist.html> (collectively: “Acer”), respect the privacy of our customers and online visitors. This Privacy Policy is to inform you of our online information practices, our practices concerning the collection, storage, processing, transfer, and use of personal information, and the choices available regarding the collection and use of your personal information.
 
-  
-There are times when we may ask our customers for personal information such as your name, address, telephone number and e-mail address. This information is used in fulfilling orders made for Gateway as well as sending service e-mails that contain order confirmations and other relevant information about your account. Your name and e-mail address may be collected and used in conjunction with other information, such as your occupation, hobbies and other specifics. This information assists us in offering products and services we think you'd like to hear about. If you prefer not to be contacted, please follow the unsubscribe instructions in the e-mail, or contact Gateway at 800-846-2000.
-
-Gateway also collects purchasing information, including credit card numbers and information used to provide requested services, such as order fulfillment. Information collected with our “E-mail This Page” web feature is used one time for that purpose only.
-
-When we ask for personal information for any reason, we will provide a link to this policy statement to make our intentions clear.
+By submitting your personal information to Acer through this website or otherwise, you thereby give your consent to the handling of your personal data in the manner described in this policy.
 
   
-If you wish to update or correct the personal information you provided to Gateway, please call 800-846-2000. To add your name to any of the Gateway “Do Not E-Mail” lists for marketing communications, please visit our [Gateway Communication Preferences](https://web.archive.org/about/dnc/index.php?Type=all "Gateway Communication Preferences") page.
+For each visitor browsing our websites, our web server automatically recognizes and stores the visitor’s IP address (the Internet address of the visitor’s computer) to determine which areas of our website are being visited and how long each visitor spends there. This information helps us to understand visitors’ traffic patterns through our websites so that we can enhance the overall usability of our websites. Your computer provides this information automatically each time you log on, unless you’ve activated blocking technology available in some browsers. 
+
+Although we do not generally require that you provide us with individually identifiable information in order to visit and use our website, at times we may ask you to provide us with personal information, such as your e-mail address, name, mailing address, telephone number, credit card number, demographic information, or persistent identifier (such as user name and password) that is associated with individually identifiable information, to enable you to make a purchase, register a product, receive support, correspond with us, participate in an online survey, subscribe to a mailing list or newsletter, or register for special purchase discounts. The submission of your personal information is voluntary; however, if you choose not to provide it for those activities, you may not be able to participate in them.
+
+We do not collect or use the personal information you submit for any unrelated purposes, other than where obliged or permitted by local laws to do so without informing you in advance.
+
+We do not require you to provide sensitive personal information (such as information about your health, political or religious beliefs, criminal offenses alleged or committed, sexual orientation), and request that you do not provide us with such information. Any such information you do provide to us of your own volition will be used only in accordance with this policy.
+
+We may also use your information to comply with laws or to defend ourselves in claims under such laws, or where necessary to exercise Acer’s legitimate business interests and needs, in which case special care is taken to safeguard your rights and to ensure any use of your personal information is fair, lawful, and proportionate.
 
   
-Gateway will take all appropriate steps to keep your personal information confidential, including limiting access to customer information databases, communicating this policy statement to all Gateway employees, and establishing and enforcing penalties for violating this statement. Additionally, Gateway annually certifies itself to the U.S. Department of Commerce Safe Harbor program and ensures its adherence to the Safe Harbor’s standards for privacy protection.
+Like many websites today, ours may employ a standard technology called cookies to collect information about how you use our site in order to provide you with a better experience by measuring which areas of our website are of greatest interest or to remember you when you return to visit us. We have no desire or intent to infringe on your privacy while visiting our website. Most browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You can choose to set your browser to notify you when you receive a cookie, giving you the choice of rejecting or accepting the cookie.
 
-Gateway will not sell, rent or give away customer information to other companies for use in selling others' products or services. We do, however, use third parties to provide us with necessary services such as credit card processing, shipping, credit financing or providing Internet service. When you request a service or purchase a product from Gateway, we will share your personal information as necessary for that third party to provide that service. These third-party service providers are prohibited from using your personally identifiable information for any other purpose.
-
-We gather personal information from our customers so we can better develop our relationship with those customers. Occasionally, we seek customer comments on our products and services. These comments allow us to determine which products and services our customers should be made aware of based on their specific needs.
-
-We will proactively communicate with customers via e-mail or other online delivery devices to provide offers and information we believe will be of interest. Customers who no longer wish to receive these communications should inform us and we will remove their names from our e-mail lists. Gateway will be judicious in the use of e-mail to communicate with customers, putting ourselves in the place of the recipients of our e-mail and treating our customers as we ourselves would like to be treated. If you would like to be taken off Gateway’s various marketing programs, please [click here to opt out](https://web.archive.org/about/dnc/index.php?Type=all) and enter the information you wish, and you will be unsubscribed as you request.
-
-Our website shares usage information about site visitors with reputable third-party companies for targeting our Internet banner advertisements on this site and other sites, as well as for gathering aggregate information about site traffic and usage. For these purposes, we and our third-party companies note some of the pages you visit on our website using pixel tags (also called transparent gifs). The information collected by our third-party advertisers using these pixel tags is not personally identifiable. Some of the information collected by our third-party analytics provider may be personally identifiable; however, our provider is contractually precluded from selling, licensing or conveying any such information to any third party or from using that information in any way outside Gateway’s own privacy policy. [View more information](http://www.omniture.com/privacy#optout "About Gateway's third-party analytics provider") about our third-party analytics provider, including how to [exclude/include](http://www.omniture.com/optout "Omniture Opt Out") your sessions from data collection.
-
-Notification of Changes  
-If we decide to substantively change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of changes to the information we collect, how we use that information, and under what circumstances, if any, we disclose it. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection, we will notify users by providing 30 days' notice on www.gateway.com.
+Cookies may also be used by third-party ad-serving companies when they place ads on our website and control which ads are shown. These ad-serving companies may use cookies to collect non-personally identifiable information from you. Advertisers use this information to target the ads and measure their impact. 
 
   
-We currently use the Secure Sockets Layer (SSL) protocol to safeguard your information, including your credit card number, during online transactions. None of the tens of thousands of people who have made purchases through Gateway's Web site using SSL has reported to us fraudulent use of their credit card as a result of their online order. We believe SSL to be a very safe encryption method, but we are always looking for even more secure encryption methods to safeguard information sent online. Our server will run detection software to help ensure you are using a secure browser and your information is secure when you check out. If our browser determines you are not using a secure browser, a message will appear at checkout.
+The personal information you provide may be used to support your customer relationship with Acer. We want to use this data to tailor your experience at our website and with the company generally. Unless you instruct us otherwise (as described below), we will send you information about our various product upgrades, special offers, and other new products and services from Acer that we feel may be of interest to you. Only Acer (or agents working on behalf of Acer) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. At any time should you choose to, you can opt-out of receiving future mailings by contacting Acer; see the opt-out section below.
 
-Find out more on [SSL technology](https://web.archive.org/about/legal/ssl.php "Info about SSL technology").
+To the extent permitted by law, the information you provide may be accessed by, or transferred to, any member of the Acer group of companies at locations throughout the world. These locations include countries that do not have laws protecting the use of personal information. A list of the Acer entities (and their respective registered offices) that may receive your data in those locations and become data controllers of that data can be found at [www.acer-group/officelist.html](http://www.acer-group.com/officelist.html). This use may continue even if they cease to be a member of the Acer group of companies. All of the Acer companies that receive your personal information will use it in accordance with this Privacy Policy.
 
-To protect your information once your transaction is complete, Gateway stores your information on an offline server stored securely behind our firewall. There is no external access to this information and its internal access is strictly monitored.
+Acer will not share your personal information with any outside organization for its use in marketing or solicitation without your consent. Your information may be shared with agents or contractors of Acer for the purpose of performing services for an Acer company. For example, if we need to ship something to you, we must share your name and address with a shipping company. We provide third-party agents or contractors only with the minimum amount of information needed to complete the requested service or transaction. Your information may also be disclosed to third parties where we are legally obliged or entitled to do so; for example, in response to a request from a government or regulatory authority or in connection with potential legal proceedings.
 
-For your protection, never put your credit card number or other sensitive information in unencrypted e-mail. In the extremely unlikely event that we ever do suspect a customer's credit card number has been intercepted, we will immediately notify the customer.
-
-  
-Gateway helps ensure your protection by offering a safe shopping guarantee. Under the Fair Credit Billing Act, your credit card bank cannot hold you liable for more than $50 in unauthorized or fraudulent charges. Gateway will cover the amount for which you are held liable up to the full $50 if the fraudulent transaction resulted through no fault of your own from purchases made at Gateway.com using our secure server. Gateway also requires that you have followed all rules and procedures of your credit card provider relating to fraudulent and authorized use.
+If we merge with, or any part of the Acer group is acquired by, another business (or enter into discussions concerning the same) we may share your information with such a business and its advisers, but if we do so we will ensure steps are taken so that your rights in relation to your information continue to be protected.
 
   
-Gateway currently uses “cookies” on our site. Our cookies tag each visitor's browser with a random, unique number. The cookie simply assigns a number and does not disclose any personal information about the person using the browser. By noting where these uniquely numbered browsers go on our site, we can study traffic patterns and improve our site. [Learn more about cookies](https://web.archive.org/about/legal/cookies.php "Learn more about cookies").
+Where the information provided by you is transferred by an Acer company in the European Economic Area to an Acer company or agent outside of the EEA, appropriate steps are put in place to provide adequate protection for the data.
+
+  
+If you have questions or concerns about Acer policies and practices for handling personal information received through this website, please contact [privacy_officer@acer.com](mailto:privacy_officer@acer.com). Alternatively, for specific application and/or local data-handling queries, please contact the Acer entity to which you submitted your information. Contact addresses for each Acer entity can be found at [www.acer-group.com/officelist.html](http://www.acer-group.com/officelist.html). In order to allow us to provide you with faster service, please submit inquiries in English if possible and advise us of the country you are contacting us from along with a description of the make and model of your products.
+
+In connection with said processing of your personal data please also be aware that:
+
+  1. You have the right to obtain confirmation as to whether or not your personal data are processed.
+  2. You have the right to be informed:
+    1. of the source of your personal data;
+    2. of the purposes and methods of the processing;
+    3. of the data controller’s identity;
+    4. of the entities or categories of entities to whom or which the personal data may be communicated.
+  3. You have the right to obtain:
+    1. updating, rectification, or integration of your data;
+    2. erasure, anonymization, or blocking of your data if processed unlawfully.
+  4. You have the right to object, in whole or in part:
+    1. on legitimate grounds, to the processing of your personal data, even though they are relevant to the purpose of the collection;
+    2. to the processing of your personal data, where it is made for the purpose of sending advertising materials or direct selling or else for the performance of market or commercial communication surveys.
+
+Linked Websites:  
+Other sites that are linked to/from our website may have different policies. Acer Inc. does not share any personal information collected with those sites and is not responsible for any information or content of such websites. We encourage you to review the privacy policies posted on those sites for details. Acer does not embrace any information given on any website controlled by legally independent entities.
+
+  
+We protect the personal information you share with us. At Acer, access to your personal information is limited to people who need it to do their job. In addition, it is our policy to maintain the integrity of any personal information within our possession. To prevent security breaches, Acer collects and stores all personal information in a location separate from this website, with no connection to the Internet or any other network. Furthermore, Acer uses lots of security techniques, such as the Secure Electronic Transaction (SET) protocol or industry-standard Secure Sockets Layer (SSL) encryption for transmission of credit card information or wherever personal information is required on all webpages, to protect any personal information from unauthorized access by users; however, we do not guarantee perfect security on the Internet.
+
+  
+You may, at any time, opt-out of our use of your personal information by contacting Acer (see below). We will remove your personal information from our database(s) as soon as reasonably possible.
+
+  
+Acer will NOT knowingly collect online contact information from children or minors (as defined by local requirements) and, if we learn that we have personal information on a child or minor, we will delete that information from our systems. Acer encourages parents or guardians to spend time online with their children and to participate in their online activities. Children or minors are eligible to use our online sales transactions services ONLY with a parent or guardian’s consent to and payment for the transaction, or to the extent permitted by applicable law. If you are a child or a minor, you are required to get the permission of your parents or guardians in order to complete certain transactions on this website.
+
+  
+Acer may also collect, aggregate, and maintain anonymous information about our customers and the online visitors to our website, such as visitors’ hobbies, interests, purchasing habits, and the like. This data can then be used to tailor Acer website content and advertising to deliver a better experience for our visitors. In addition, Acer may also share such aggregate information about our visitors with advertisers, business partners, sponsors, and other third parties; for example, to inform them about the percentage of male/female visitors or percentage of visitors within a particular age range.
+
+  
+The terms of this policy will govern the use of any information collected while it is in place. Acer reserves the right to change this policy at any time and we therefore encourage you to check back on our websites from time to time. Changes to this Privacy Policy are effective at the time they are posted to our websites. Last update: May 2009.
+
+  
+For any questions or comments regarding this Acer Privacy Policy or website, please contact us at: [privacy_officer@acer.com](mailto:privacy_officer@acer.com). In order to allow us to provide you with faster service, please submit inquiries in English if possible and advise us of the country you are contacting us from along with a description of the make and model of your products. 
