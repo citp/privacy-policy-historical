@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elliman.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225122923id_/http%3A//elliman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elliman.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429071104id_/http%3A//www.elliman.com/privacy-policy) for the most accurate reproduction.*
 
-# New York Real Estate - Prudential Douglas Elliman
+# New York Real Estate | Prudential Douglas Elliman
 
 At Prudential Douglas Elliman, we understand and respect your concerns about privacy and security, and will do our best to provide a convenient and safe online experience. This Privacy Policy describes what information we collect, how we may use that information, how we share that information, and how we protect that information on our website, which is located at [www.elliman.com](http://www.elliman.com/) (the “Site”). We may update this Privacy Policy at any time, and we therefore encourage you to check this section periodically for any changes.
 
