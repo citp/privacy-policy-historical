@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnestyusa.org privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628120511id_/http%3A//www.amnestyusa.org/privacy-policy/page.do%3Fid%3D1031006) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnestyusa.org privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429024158id_/http%3A//www.amnestyusa.org/privacy-policy/page.do%3Fid%3D1031006) for the most accurate reproduction.*
 
 # Privacy Policy | Amnesty International USA
 
