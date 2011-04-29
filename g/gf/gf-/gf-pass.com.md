@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the gf-pass.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117052015id_/http%3A//tour.gf-pass.com/information.php%3Fprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gf-pass.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429220252id_/http%3A//secure.gf-pass.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-**Gf-pass.com**  
+**Gf Pass**
 
-
-**PRIVACY POLICY STATEMENT  
-Marketing Social Ltd**  
+**PRIVACY POLICY STATEMENT**  
+  
 
 
 * * *
 
-Marketing Social Ltd has created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of gf-pass.com. gf-pass.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
+has created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of gf-pass.com. gf-pass.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
 
 ### Non-Personal Information and Cookies
 
