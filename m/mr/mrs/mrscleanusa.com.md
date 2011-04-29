@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129083925id_/http%3A//www.mrscleanusa.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429050337id_/http%3A//www.mrscleanusa.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
 
 # Mrs Clean Privacy Policy | Mrs Clean | Cleaning Services
 
@@ -48,13 +48,13 @@ If you supply us with your postal address on-line you will only receive the info
 
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-## Third Party Advertizing
+## Third Party Advertising
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
   * Google, as a third party vendor, uses cookies to serve ads on this site. 
   * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy/ads/). 
 
 
 
@@ -65,7 +65,7 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
   * [Amazon privacy policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
   * [Kontera privacy policy](http://www.kontera.com/em-privacy-policy).
   * [Commission Junction privacy policy](https://www.cj.com/privacy.html).
-  * [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * [Google ad and content network privacy policy](http://www.google.com/privacy/ads/).
 
 
 
