@@ -1,16 +1,84 @@
-<!--The following is the downloaded HTML source of the xpmedia.com privacy policy that was archived on 2010-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100608185542id_/http%3A//www.xpmedia.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xpmedia.com privacy policy that was archived on 2011-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110429212457id_/http%3A//www.xpmedia.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+
+
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <title>XPmedia.com - Policy</title>
+<script language="javascript" type="text/javascript">
+	var SITE_URL='http://www.xpmedia.com';
+</script>
+<link rel="fontdef" src="http://www.xpmedia.com/wp-content/themes/xpmedia2/fonts/MyriadPro-Black.ttf">
+<link rel="fontdef" src="http://www.xpmedia.com/wp-content/themes/xpmedia2/fonts/MyriadPro-Regular.otf">
+<link rel="stylesheet" href="http://www.xpmedia.com/wp-content/themes/xpmedia2/reset.css" type="text/css" media="screen">
 
-<link rel="stylesheet" href="http://www.xpmedia.com/wp-content/themes/xpmedia/reset.css" type="text/css" media="screen">
-<link rel="stylesheet" href="http://www.xpmedia.com/wp-content/themes/xpmedia/style.css" type="text/css" media="screen">
+<link rel="stylesheet" href="http://www.xpmedia.com/wp-content/themes/xpmedia2/style.css" type="text/css" media="screen">
 <link rel="shortcut icon" href="http://www.xpmedia.com/faviconlogo.ico">
+<script type="text/javascript" src="http://www.xpmedia.com/wp-content/themes/xpmedia2/js/flowplayer-3.1.4.min.js"></script> 
 <script type="text/javascript" src="http://www.xpmedia.com/wp-includes/js/swfobject.js"></script>
+<script type="text/javascript" src="http://www.xpmedia.com/wp-includes/js/video_page.js"></script>
 <script type="text/javascript">
+window.onload=function()
+{
+			var elem=document.getElementById("s");
+			var vl=elem.value;
+			if(vl=="" || vl=="Search XPmedia.com")
+			{
+				elem.style.color="#B8BAB7";
+				elem.style.fontWeight="bold";
+				elem.value="Search XPmedia.com";
+			}
+			else
+			{
+				elem.style.color="#000000";
+				elem.style.fontWeight="normal";
+			}
+			
+			elem.onfocus=function()
+			{
+					var vl=this.value;
+					this.style.color="#000000";
+					this.style.fontWeight="normal";
+					if(vl=="Search XPmedia.com")
+					{
+						this.value="";
+					}
+			}
+
+			elem.onblur=function()
+			{
+				var vl=this.value;
+				if(vl=="")
+				{
+					this.style.color="#B8BAB7";
+					this.value="Search XPmedia.com";
+					this.style.fontWeight="bold";
+				}
+			}
+}
+function load_playlist(pl_id)
+{
+		jQuery.ajax({
+					url:"http://www.xpmedia.com/load_playlist.php",
+					type:"POST",
+					data:"playlist_id="+pl_id,
+					complete:function(dta)
+					{
+						if(dta.responseText!="")
+						{
+							window.location.href=dta.responseText;
+						}
+						else
+						{
+							alert("Playlist is empty");
+						}
+					}
+		});
+}
 function add_to_playlist( id, selected )
 {
 	(function($)
@@ -70,117 +138,110 @@ function playlist_next()
 	(jQuery);
 }
 </script>
+<!--[if lte IE 6]>
+<script type="text/javascript" src="http://www.xpmedia.com/wp-content/themes/xpmedia2/js/supersleight-min.js"></script>
+<![endif]-->
+
+
 <script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=76dfa780-980f-4232-b714-dd0f594110cd&amp;type=wordpress&amp;post_services=email%2Cfacebook%2Ctwitter%2Cdigg%2Cgoogle_bmarks%2Csms%2Cwindows_live%2Cdelicious%2Cstumbleupon%2Creddit%2Cmyspace%2Clinkedin%2Cbebo%2Cybuzz%2Cblogger%2Cyahoo_bmarks%2Cmixx%2Ctechnorati%2Cfriendfeed%2Cpropeller%2Cwordpress%2Cnewsvine%2Cxanga"></script>
+
+
+
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.xpmedia.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.xpmedia.com/wp-includes/wlwmanifest.xml"> 
 <script type="text/javascript" src="http://www.xpmedia.com/wp-includes/js/jquery/jquery.js?ver=1.2.6"></script>
 <meta name="generator" content="WordPress 2.7">
 
 
+<script language="javascript" type="text/javascript" src="http://www.xpmedia.com/wp-content/themes/xpmedia2/js/main.js"></script>	
 
 </head>
 
 <body>
 <div id="page">
-
-<div id="title_bar">
-<form method="get" id="searchform" action="http://www.xpmedia.com/">
+	<div id="home_ad" class="">
+		<div class="home_banner">
+			<iframe id="3Df6lCmw" name="3Df6lCmw" src="http://www.xpmedia.com/openx/www/delivery/afr.php?refresh=0&amp;n=3Df6lCmw&amp;zoneid=2&amp;cb=3979075216" framespacing="0" frameborder="no" scrolling="no" width="728" height="102"><a href='http://www.xpmedia.com/openx/www/delivery/ck.php?n=iCw77SR4&amp;cb=3979075216' target='_blank'><img src='http://www.xpmedia.com/openx/www/delivery/avw.php?zoneid=2&amp;cb=3979075216&amp;n=iCw77SR4' border='0' alt='' /></a></iframe>		</div> 
+		<div class="header_banner_image">
+			<a href="http://www.xpmedia.com/wp-login.php?action=register" target="_blank">
+				<img src="http://www.xpmedia.com/wp-content/paperclip_ad/paperclip_ad_1296231571.jpg" border="0">
+			</a>
+		</div>
+	</div>	  
+	<div id="title_bar">
+		<form method="get" id="searchform" action="http://www.xpmedia.com/">
 	<label class="hidden" for="s"></label>
-	<div><input type="text" value="" name="s" id="s"><input type="submit" id="searchsubmit" value="">
+	<div><input type="text" value="" name="s" id="s" style="color: rgb(184, 186, 183); font-weight: bold;"><input type="submit" id="searchsubmit" value="">
 	</div>
-	</form><div class="clear"></div>
-</div>
-<div class="menu">
-<ul>
-<li class=""><a title="Home" href="http://www.xpmedia.com">HOME</a></li>
-<li class=""><a title="Channels" href="http://www.xpmedia.com/channels">CHANNELS</a></li>
-<li class=""><a title="Videos" href="http://www.xpmedia.com/videos">VIDEOS</a></li>
-<li class=""><a title="Audio" href="http://www.xpmedia.com/audio">AUDIO</a></li>
-<li class=""><a title="Articles" href="http://www.xpmedia.com/articles">ARTICLES</a></li> 
-<li class=""><a title="Events" href="http://www.xpmedia.com/events">EVENTS</a></li>
-<!--<li class=""><a title="Advertise" href="http://www.xpmedia.com/advertise">Advertise</a></li> -->
-
-<!-- <li class="">
-	<a title="MarketPlace" href="javascript:void(0);">MarketPlace</a>
-	<ul>
-		<li><a href="http://www.xpmedia.com/marketplace">Ministry and Business Directory</a></li>
-		<li><a href="http://www.xpmedia.com/marketplace?action=min_add">Advertise with us</a></li>
-	</ul>
-</li> -->
-
-<li class=""><a title="Links" href="http://www.xpmedia.com/marketplace">LINKS</a></li> 
-
-
-<li class="">
-	<a title="MarketPlace" href="javascript:void(0);">ADVERTISE</a>
-	<ul>
-		<li><a href="http://www.xpmedia.com/advertise">XPMEDIA</a></li>
-		<li><a href="http://www.xpmedia.com/marketplace?action=min_add">XPMARKETPLACE</a></li>
-	</ul>
-</li>
-<li>
-<a href="javascript:void(0);">Store</a>
-	<ul>
-		<li><a href="../redirect_menu/redirect_store.html">XP STORE</a></li>
-                <li><a href="../redirect_menu/redirect_donate.html">DONATE (CSA)</a></li>
-	</ul>
-</li>
-<li>
-	<a href="../redirect_menu/redirect_home.html">XPMINISTRIES</a>
-	<ul>	
-<li> <a href="../redirect_menu/redirect_home.html">Home-Ministy Site</a>
-</li><li><a href="../redirect_menu/redirect_xpwebchurch.html">XP Webchurch</a></li>
-<li><a href="../redirect_menu/redirect_xpmissions.html">XP Missions</a></li>
-<li><a href="../redirect_menu/redirect_itinerants.html">Itinerants</a></li>
-<li><a href="../redirect_menu/redirect_patricia.html">Patricia King</a></li>
-<li><a href="../redirect_menu/redirect_xpacting.html">XP Acting</a></li>
-<li><a href="../redirect_menu/redirect_xpmediatraining.html">XP Media Training</a></li>
-<li><a href="../redirect_menu/redirect_xppublishing.html">XP Publishing</a></li>
-<li><a href="../redirect_menu/redirect_xpextremewomen.html">XP Extreme Women</a></li>
-<li><a href="../redirect_menu/redirect_xpplungeprogram.html">Plunge Program</a></li>
-<li><a href="../redirect_menu/redirect_donate.html">Donate (CSA)</a></li>
-<li><a href="../redirect_menu/redirect_partner.html">Partner (CSA)</a></li>		
-	</ul>
-</li>
-
-
-<li>
-	<a href="../redirect_menu/redirect_donate.html">GIVE</a>
-	<ul>
-<li><a href="../redirect_menu/redirect_donate.html">Donate (CSA)</a></li>
-<li><a href="../redirect_menu/redirect_partner.html">Partner (CSA)</a></li>
-        </ul>
-</li>
-
-<li class=""><a href="http://www.xpmedia.com/members">Platinum Members</a></li>
-<li><a href="http://www.christianfilmfest.org" target="_blank">FilmFest</a></li>
-</ul>
-<div class="clear"></div>
-</div>
-
-
-<div id="home_topleft">
-<div class="home_spacer">
-<img src="http://www.xpmedia.com/wp-content/themes/xpmedia/images/home_spacer.gif">
-</div>
-<p class="tagline">your online media network</p>
-<div id="ad_hpb" class="ad"><iframe id="cjCPgNvG" name="cjCPgNvG" src="http://www.xpmedia.com/openx/www/delivery/afr.php?refresh=0&amp;n=cjCPgNvG&amp;zoneid=2&amp;cb=5296290424" framespacing="0" frameborder="no" scrolling="no" width="728" height="90"><a href='http://www.xpmedia.com/openx/www/delivery/ck.php?n=dujdRq66&amp;cb=5296290424' target='_blank'><img src='http://www.xpmedia.com/openx/www/delivery/avw.php?zoneid=2&amp;cb=5296290424&amp;n=dujdRq66' border='0' alt='' /></a></iframe></div>
-</div>
-
-<div id="signup"><a href="http://www.xpmedia.com/wp-login.php?action=register"><img src="http://www.xpmedia.com/wp-content/themes/xpmedia/images/platreg.jpg"></a></div>
-<div class="spacer">
-	<span class="advertisement">Advertisement <span class="arrow_gray"></span></span>
+	</form>		<div class="clear"></div>
 	</div>
+	<div id="menu_parent">
+	<div class="menu">
+		<ul>
+			<li class=""><a title="Home" href="http://www.xpmedia.com">HOME</a></li>
+			<li class=""><a title="Channels" href="http://www.xpmedia.com/channels">CHANNELS</a></li>
+			<li class=""><a title="Videos" href="http://www.xpmedia.com/videos">VIDEOS</a></li>
+			<li class=""><a title="Audio" href="http://www.xpmedia.com/audio">AUDIO</a></li>
 
+			<!-- <li class="blue"><a title="Articles" href="http://www.xpmedia.com/articles">ARTICLES</a></li>-->
+			<li class=""><a title="Articles" href="http://www.xpmedia.com/articles">ARTICLES</a></li> 
+			<li class=""><a title="Events" href="http://www.xpmedia.com/events">EVENTS</a></li>
+			<li class=""><a title="Links" href="http://www.xpmedia.com/marketplace">LINKS</a></li> 
+			<li class="">
+				<a title="MarketPlace" href="javascript:void(0);">ADVERTISE</a>
+				<ul>
+					<li><a href="http://www.xpmedia.com/advertise">XPMEDIA</a></li>
+					<li><a href="http://www.xpmedia.com/marketplace?action=min_add">XPMARKETPLACE</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="javascript:void(0);">Store</a>
+				<ul>
+					<li><a href="../redirect_menu/redirect_store.html">XP STORE</a></li>
+							<li><a href="../redirect_menu/redirect_donate.html">DONATE (CSA)</a></li>
+					<li><a href="https://icbbooks.com/index.php?referredby=ICB0002" target="_blank">ICB</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="../redirect_menu/redirect_home.html">XPMINISTRIES</a>
+				<ul>
+			<li> <a href="../redirect_menu/redirect_home.html">Home-Ministry Site</a>
+			</li><li><a href="../redirect_menu/redirect_xpwebchurch.html">XP Webchurch</a></li>
+			<li><a href="../redirect_menu/redirect_xpmissions.html">XP Missions</a></li>
+                        <li><a href="../redirect_menu/redirect_xppublishing.html">XP Publishing</a></li>
+			<li><a href="../redirect_menu/redirect_itinerants.html">Itinerants</a></li>
+			<li><a href="../redirect_menu/redirect_patricia.html">Patricia King</a></li>
+                        <li><a href="http://www.xpmedia.com/social-media">Social Media</a></li>
+			<li><a href="../redirect_menu/redirect_xpacting.html">XP Acting</a></li>
+			<li><a href="../redirect_menu/redirect_xpmediatraining.html">XP Media Training</a></li>
+			<li><a href="../redirect_menu/redirect_donate.html">Donate (CSA)</a></li>
+			<li><a href="../redirect_menu/redirect_partner.html">Partner (CSA)</a></li>		
+				</ul>
+			</li>
+			<li>
+				<a href="../redirect_menu/redirect_donate.html">GIVE</a>
+				<ul>
+			<li><a href="../redirect_menu/redirect_donate.html">Donate (CSA)</a></li>
+			<li><a href="../redirect_menu/redirect_partner.html">Partner (CSA)</a></li>
+					</ul>
+			</li>
+                        <li><a href="http://xpmissions.com/training.html" target="_blank">Nations</a></li>
+			<li class=""><a href="http://www.xpmedia.com/members">Members</a></li>
+			<li><a href="http://www.christianfilmfest.org" target="_blank">FilmFest</a></li>
+			</ul>
+		<div class="clear"></div>
+	</div>
+	</div>
 <div class="textpage">
 
 		
 <h1>XPmedia.com Privacy Policy</h1>
 <p>This policy will outline our organization’s guidelines respecting your privacy and the protection of personal information. This policy will apply to XPmedia.com.</p>
 <h3>Why we collect personal information</h3>
-<p>XPmedia.com collects and discloses personal information about a variety of individuals, including&nbsp; subscribers, employees, volunteers, teachers, intercessors and ministers.</p>
+<p>XPmedia.com collects and discloses personal information about a variety of individuals, including subscribers, employees, volunteers, teachers, intercessors and ministers primarily in order to build relationship with these individuals through email transmissions.</p>
 <h3>Subscribers</h3>
-<p>In voluntarily subscribing for newsletters or product specials, whether by mail or on the internet, subscribers provide basic contact information to us, and sometimes credit card or other payment information. We use that information to provide the material or product to you, to process payment, to track your utilization of our resources and to recommend other products or services that we believe may be of interest to you.</p>
+<p>In voluntarily subscribing for newsletters, product specials, event registrations, or platinum membership, whether by mail or on the internet, subscribers provide basic contact information to us, and sometimes credit card or other payment information. We use that information to keep you informed of updates, provide the material or product to you, to process payment, to track your utilization of our resources and to recommend other products or services that we believe may be of interest to you.</p>
+<p>XPmedia.com also purchases email lists containing subscriber contact information from marketing sources. These names and contact information are added to our database.</p>
 <h3>Employees/Volunteers</h3>
 <p>With respect to employees and volunteers, we collect personal information in order to manage and supervise the employment or volunteer relationship between our organization and the individual. The information is not utilized for any other purpose without your consent.</p>
 <h3>Teachers, Intercessors and Ministers</h3>
@@ -188,10 +249,10 @@ function playlist_next()
 <h3>The kinds of information we collect</h3>
 <p>XPmedia.com collects widely varying types of personal information, depending on the circumstances. What we collect depends on the particular purpose for collection and the particular circumstances involved. For example, employee information includes certain medical and health information. Teachers, intercessors and ministers provide us with more detailed background information. Subscribers voluntarily supply us with name, address, phone number and email particulars.</p>
 <h3>How we obtain the personal information</h3>
-<p>Most of the personal information collected by XPmedia.com is collected directly by our representatives from either subscribers, employees, volunteers, teachers, intercessors and ministers.</p>
+<p>Most of the personal information collected by XPmedia.com is collected directly by our representatives from either subscribers, employees, volunteers, teachers, intercessors and ministers along with subscriber information obtained form marketing companies.</p>
 <p>In many cases, the consent of the individual providing information to us is inferred from the circumstances in which the information is provided. On occasion, as with compilation of subscriber information, we rely on specific subscriber consent or provide the individual with an opportunity to “opt out” of participation in certain programs.</p>
 <h3>Disclosure of personal information</h3>
-<p>Disclosure of subscriber information is restricted to our own purposes, and disclosure outside the organization is generally limited to those circumstances where consent has been provided. With respect to employee and volunteer information, XPmedia.com may from time to time disclose that information to affiliated organizations or to third party service providers. In all cases, disclosure may be made to legal counsel and other consultants and agents, to government authorities and otherwise as permitted or required by law.</p>
+<p>Disclosure of subscriber information is generally restricted to our own purposes, and disclosure outside the organization is usually limited to those circumstances where consent has been provided although we reserve the right to disclose or sell subscriber information when the corporation determines necessary. With respect to employee and volunteer information, XPmedia.com may from time to time disclose that information to affiliated organizations or to third party service providers. In all cases, disclosure may be made to legal counsel and other consultants and agents, to government authorities and otherwise as permitted or required by law.</p>
 <h3>Security of personal information</h3>
 <p>Personal information recorded in documents is securely stored at the XPmedia.com premises and affiliated offices. Electronically recorded information is stored on computer systems maintained by us and our affiliated organizations or service providers. Those computer systems and the information stored in them are protected by electronic security systems. We restrict access to personal information to only those employees or volunteers who have a legitimate purpose in doing so. Employees who routinely handle personal information receive training with respect to proper personal information handling practices and they are under an obligation to comply with all privacy laws, this policy and any related codes of conduct.</p>
 <p>Our compliance with appropriate personal information practices and privacy laws is overseen by and it is the responsibility of our Chief Privacy Officer who can be contacted at 520-483-2786 or by writing XPmedia.com, 20987 N. John Wayne Pkwy, B104-122, Maricopa, AZ  85239.</p>
@@ -220,7 +281,7 @@ function playlist_next()
         <a href="http://www.xpmedia.com/faq">FAQ</a> |
 	<a href="http://www.xpmedia.com/feed">RSS</a> | 
 	<a href="http://www.xpmedia.com/wp-login.php">Login</a> | 
-	<span> © 2009 XPmedia.com. All rights reserved.</span>
+	<span> © 2011 XPmedia.com. All rights reserved.</span>
 	</p>
 </div>
 
