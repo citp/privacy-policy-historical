@@ -1,51 +1,123 @@
-> *The following text is extracted and transformed from the souq.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227183349id_/http%3A//www.souq.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the souq.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429091237id_/http%3A//uae.souq.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Souq.com : Auctions and Marketplace - internet shopping souk
+# Buy and sell -great deals on online Marketplace| UAE Souq.com
 
-**_Information collected on Souq.Com will not be sold, shared or rented with others._**
+4) We last amended our privacy policy on 4 November 2009 and we would encourage you to check the Site regularly for the announcement of any amendments to our privacy policy.
 
-Souq.Com’s privacy policy covers the collection and use of personal information that may be collected by Souq.Com anytime you interact with Souq.Com, such as when you visit our website, when you purchase Souq.Com products and services, or when you call our community support team. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Souq.Com, and we go to great lengths to protect it.
+2) We will also need to collect selected financial information from you, such as your credit card and/or bank account details. 
 
-**Registration Form**
+3) You will need to input this financial information into the “My Account” section of the Site. 
 
-* * *
+We use this financial information for billing purposes and for the fulfilment of your orders. 
 
-Souq.Com requires information from customers on our Registration Form. Here customers must provide contact information (like name and shipping address) and requires financial information in the _My Account_ section (like credit card number, expiration date, banking details). This information is used for billing purposes and to fill customers’ orders. If we have trouble processing an order, this contact information is used to get in touch with a customer. 
+Following your registration on the Site, you should not post any personal information (including any financial information) anywhere on the Site other than on the My Account section of the Site. 
 
-**Cookies**
+Restricting the posting of personal information to the My Account section of the Site protects you from the possibility of fraud or identity theft. The posting by you of any personal information anywhere on the Site other than on the My Account section of the Site may lead to the suspension of your use of the Site.
 
-* * *
+4) We will collect transactional information based on your activities using the Site (such as buying and selling items and participating in auctions), This transactional information is used solely in relation to the transactions you undertake on the Site and for no other reasons. 
 
-A cookie is a piece of data stored on the customer's hard drive containing information about the user. For instance, by setting a cookie on our site, users will not have to provide address details each time they order and the view my orders screen can remember products purchased at an earlier time. Cookies are stored on the customer's computer only. We have no access to their content.
+5) Please note that we may use your Internet protocol (or IP) address (which is a unique number assigned to your computer server or your Internet service provider (or ISP)) to analyse user trends and improve the administration of the Site. 
 
-**Log Files**
+6) We may also collect information about your computer (for example, browser type) and navigation information (for example, the pages you visit on the Site) along with the times that you access the Site. 
 
-* * *
+Finally, we may collect additional information from or about you in other ways not specifically described here. 
 
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
+For example, we may collect information related to your contact with our customer support team or store results when you respond to a survey. 
 
-**Links**
+We may also collect feedback ratings and other comments relating to your use of the Site. 
 
-* * *
+Where we aggregate personal information for statistical purposes, such aggregated personal information shall be anonymized.
 
-This page may contain links to other sites. Please be aware that Souq.Com does not control or affirm the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by Souq.Com 
+**2\. Our use of your personal information**
 
-**Security**
+1) We only use your personal information to provide services and customer support to you; to measure and improve our services to you; to prevent illegal activities and implement our user agreement with you (“User Agreement”); troubleshoot problems; collect fees; provide you with promotional emails and verify information you give us with third parties. For example, we may share some of the personal information you give us with banks or credit card authorisation, processing and verification services or with third parties for fraud screening purposes.
 
-* * *
+2) Though we make every effort to preserve your privacy, we may need to disclose your personal information to law enforcement agencies, government agencies or other third parties where we are compelled so to do by court order or similar legal procedure; where we are required to disclose your personal information to comply with law; where we are cooperating with an ongoing law enforcement investigation or where we have a good faith belief that our disclosure of your personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate a possible violation of our User Agreement. 
 
-Souq.Com takes every precaution to protect our users' information. When our registration form asks users to enter sensitive information (such as credit card number or bank details); that information is encrypted and is protected with the best encryption software in the industry.
+3) In the event of a sale of Souq.com FZ-LLC, any of its affiliates and subsidiaries or any related business assets, your personal information may be disclosed to any potential purchaser for the purposes of the continued provision of the Site or otherwise in relation to any such sale.
 
-**Notification of Changes**
+We may share your personal information with our other group companies so as to provide joint content and services to you, to help detect illegal acts and/or the violations of our policies. 
 
-* * *
+We may also share your personal information with other Site members as part of an auction or “Buy Now” purchase on the Site. For example, at the end of a successful auction on the Site we will provide the seller and the successful buyer with each other’s contact information. 
 
-If Souq.Com decides to change our privacy policy, Souq.Com will post those changes on our Homepage and Community Café so our users are always aware of what information Souq.Com collects, how Souq.Com uses it, and under circumstances, if any, Souq.Com discloses it. If at any point Souq.Com decide to use personally identifiable information in a manner different from that stated at the time it was collected, Souq.Com will notify users by way of an email. Users will have a choice as to whether or not Souq.Com uses their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+This contact information will be the personal information provided by you to us on registration and, as a result, should always be kept up-to-date. 
 
-**Other**
+4) Additionally, information relating to items you are buying or selling or auctions you are participating in be displayed on the Site.  
+This information can include details of your user ID, feedback ratings and associated comments relating to your use of the Site. Otherwise, we will only disclose your personal information to a third party with your express permission. 
 
-* * *
+5) We do not sell or rent any of your personal information to third parties in the normal course of doing business and will only share your personal information with third parties in accordance with this privacy policy. 
 
-We reserve the right to repeat comments about our products made in communications with us for marketing purposes. Souq.Com prohibits the use of personal information and personal contact details anywhere on the Site except in the registration form, and such posting of personal information will lead to your account being suspended as outlined in our  [_user agreement_](https://web.archive.org/web/20090227183349id_/http%3A//www.souq.com/contents.php?show=terms) ,  [_Article 3, section 1.9_](https://web.archive.org/web/20090227183349id_/http%3A//www.souq.com/contents.php?show=terms) . This policy is enforced to protect our users from fraud and identity theft. We strive to ensure the integrity and privacy of your personal information, kindly help us to ensure the same.
+6) By registering on the Site, you give us your express consent to receive promotional emails about our services and emails announcing changes to, and new features on, the Site.
 
-Souq.Com requires your consent during the registration process to occasionally send you promotional emails from Souq.Com. These emails announce new changes and features added to the site to enhance your auction experience as well as any special promotional auctions that maybe hosted by Souq.Com.
+If, at any time, you decide that you do not wish to receive any such emails, you can opt out of receiving such emails by clicking on the link at the bottom of any of the emails or by going to the My Account section of the Site.
+
+7) Additionally, we do use comments made by you about the Site for marketing purposes and by making such comments you expressly consent to our using such comments for marketing purposes.
+
+**3\. Your use of your and other users’ personal information**
+
+1) Site members may need to share personal information (including financial information) with each other to complete transactions on the Site. You should respect, at all times, the privacy of other Site members. 
+
+2) We cannot guarantee the privacy of your personal information when you share personal information with other Site members so you should always seek information on the privacy and security policies of any other Site members with whom you are transacting prior to sharing any of your personal information with another Site member. 
+
+3) This privacy policy does not cover your release of your personal information to another Site member. 
+
+4) You agree to use any personal information received from another Site member in relation to a transaction on the Site solely in relation to such transaction and shall not use the information received from another Site member for any other purposes (except with the express consent of the other Site member). 
+
+5) You acknowledge and agree and you shall use personal information received from another Site member in accordance with all applicable laws.
+
+**4\. Accessing, reviewing and amending your personal information**
+
+  
+
+
+1) You can access and review your personal information in the My Account section of the Site. 
+
+If your personal information changes in any way or is incorrectly presented on the Site you should immediately update or correct your personal information (as applicable) by accessing the My Account section on the Site or, alternatively, by contacting our customer support team.
+
+The “Customer Support” link at the top of each Site webpage contains our customer support email and phone details.
+
+2) Please note that we shall retain your personal information during and following the end of your use of the Site as required to comply with law, for technical troubleshooting requirements, to prevent fraud, to assist in any legal investigations and to take any other actions otherwise permitted by law.
+
+**5\. Third party website links**
+
+The Site may contains links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage you when you leave the Site to read the privacy statements of each and every website you visit if you intend to provide personal information to that website. Our privacy policy applies solely to your personal information that we collect on the Site.
+
+**6\. Cookies**
+
+1) Like many websites, the Site uses 'cookie' technology (small computer files placed on your computer’s hard drive). When you go to particular website pages on the Site, the cookie identifies your browser with a unique, random number. 
+
+2) The cookies we use do not reveal any personal information about you. Cookies help us improve your experience of the Site and also help us understand which parts of the Site are the most popular. You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of the Site. 
+
+**7\. No spam or spoof emails**
+
+1) We do not tolerate spam. To report Site related spam or spoof emails, please forward the email to spam@souq.com or spoof@souq.com. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content. 
+
+**8\. Protecting your personal information**
+
+  
+
+
+We hold your personal information on servers located in the United Kingdom and the United States.
+
+By providing us with personal information, you consent to the transfer of your personal information to, and its storage on, our servers located in the United Kingdom and/or the United States. We take every precaution to safeguard all your personal information from unauthorised access, use or disclosure.
+
+All personal information is encrypted. 
+
+However, the Internet is not a secure medium and we cannot guarantee the privacy of your personal information. 
+
+You must enter your username and password each time you want to access your account or make transactions on the Site.
+
+Choose your password carefully using unique numbers, letters and special characters. 
+
+Never share your username and password with anyone. 
+
+If you are concerned that your username or password has been compromised, please contact our customer support team immediately and ensure you change your password by logging onto the My Account section of the Site. 
+
+**9\. How you can contact us about privacy questions**
+
+If you have questions or concerns about our collection and use of your personal information, please contact our customer support team at the “Customer Support” link at the top of any Site webpage.
+
+ver.1.3_5Nov09
+
+  
+
