@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romanoriginals.co.uk privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611132440id_/http%3A//www.romanoriginals.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romanoriginals.co.uk privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429074429id_/http%3A//www.romanoriginals.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Roman Originals
 
@@ -9,6 +9,8 @@ This Privacy Policy explains our policies on privacy. Any information you submit
 ## What Information Do We Collect?
 
 We collect personal information from you when you fill in any registration form and every time you email or tell us any personal details. If you visit the Website, we also collect information automatically about your visits, such as your browsing patterns, but information collected in this way is only used in aggregate form rather than being linked to identifiable individuals.
+
+To ensure that your credit, debit or charge card is not being used without your consent, we will validate name, address and other personal information supplied by you during the order process against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection Act 1998.
 
 ## How Do We Use It?
 
