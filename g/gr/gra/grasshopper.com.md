@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grasshopper.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216103432id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grasshopper.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429231430id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Grasshopper
 
