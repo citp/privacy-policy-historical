@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the idiva.com privacy policy that was archived on 2010-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101030161241id_/http%3A//idiva.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idiva.com privacy policy that was archived on 2011-04-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110429074205id_/http%3A//idiva.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -13,7 +13,7 @@
       var rndtno = Math.random();         
       var timeslog_channel_url = 'idiva.com';       
       document.write('<img border="0" width="0" height="0" style="display:none;visibility:hidden;" src="http://timeslog.idiva.com/timeslog.dll/topcnt?CHUR=idiva.com&randomno='+ rndtno +'" align="left"/>'); 
-        </script></head><body><img border="0" width="0" height="0" style="display:none;visibility:hidden;" src="http://timeslog.idiva.com/timeslog.dll/topcnt?CHUR=idiva.com&amp;randomno=0.5201758716371347" align="left">
+        </script></head><body><img border="0" width="0" height="0" style="display:none;visibility:hidden;" src="http://timeslog.idiva.com/timeslog.dll/topcnt?CHUR=idiva.com&amp;randomno=0.5941146557267407" align="left">
 <noscript>
   <img width="0" height="0" border="0" style="display:none;visibility:hidden;" src="http://timeslog.idiva.com/timeslog.dll/topcnt?CHUR=idiva.com&nojs=1"/>
 </noscript>
@@ -27,12 +27,22 @@ function newletterpopup(){
 }
 
 /******Set home page***************/
-function setHomepage(what, url){
+/*function setHomepage(what, url){
 	if (navigator.appName == 'Microsoft Internet Explorer' && getObj)
 			setHomepageExplorer(what, url);
 	else if (document.layers || getObj) 
 			setHomepageNetscape(what, url);	
 return false;
+}*/
+
+/******Set home page***************/
+function setHomepage(what, url){
+	if (navigator.appName == 'Microsoft Internet Explorer' && getObj){
+			setHomepageExplorer(what, url);
+	}else if (document.layers || getObj){ //alert("hidsfsdf");
+			callmakeidiva();
+	}
+//return false;
 }
 
 function setHomepageNetscape(what, url){
@@ -59,22 +69,23 @@ function getObj(id){return document.getElementById(""+id);}
 
 <div class="header clearfix header-temp">
     <div class="FL" style="width:160px;">
-	     <p class="PT15" style="*padding-top: 5px"><a id="yourhomepage" href="#" onclick="return setHomepage(this, 'http://idiva.com/');" class="gL_9">Make iDiva My Homepage</a>		
+	     <p class="PT15" style="*padding-top: 5px"><a id="yourhomepage" href="javascript:;" onclick="return setHomepage(this, 'http://idiva.com/');" class="gL_9">Make iDiva My Homepage</a>		
 
 		 </p>
-        <a href="http://idiva.com/"><img src="http://images.idiva.com/images/idiva-breast-cancer-logo.gif" width="154" height="51" alt="Breast Cancer Awareness Month" title="Breast Cancer Awareness Month" class="PT5"></a> 
+       <!-- <a href=""><img src="/idva-logo-turns2.gif"  alt="2nd Anniversary" title="2nd Anniversary" class="PT5" /></a> width="154" height="51"-->
+		<a href="http://idiva.com/"><img src="http://images.idiva.com/images/logo.png" alt="iDiva" title="iDiva" class="PT5"></a>
     </div>
-    <div class="FL ML10 clearfix" style="width:810px">
+    <div class="FR ML10 clearfix" style="width:686px">
         <!--div class="MT15 FR clearfix" style="width:330px;"-->
 		  <div class="MT15 FR clearfix">
 			<form method="get" action="" onsubmit="return processSearch();">
             <input name="searchTags" id="searchTags" type="text" class="txtboxs FL MR10" style="width:175px">
-            <input name="" type="image" src="http://images.idiva.com/images/searchbtn.gif" class="FL">
+            <input name="" type="image" src="http://images.idiva.com/images/search-bttn-3.png" alt="Search" title="Search" class="FL">
 			</form>
         </div>
         <div class="CL"></div>
         <div class="MT15 clearfix">
-            <ul class="FL topnav brd">
+            <ul class="FL topnav">
 								 <li><a class="l_hometab  " href="http://idiva.com/"><strong>HOME</strong></a></li>
 				<li><a class="l_relationship " href="http://idiva.com/relationships/"><strong>RELATIONSHIPS</strong></a></li> 
 				<li><a class="l_health " href="http://idiva.com/health/"><strong>HEALTH</strong></a></li>
@@ -110,46 +121,120 @@ function getObj(id){return document.getElementById(""+id);}
 </div>
  -->
  <div class="contbody">
- <script language="javascript">			
+ <style>
+.log_lnk{ color:#000!important; font:bold 16px Trebuchet MS!important}
+.log_lnk:hover{ color:##FF3399!important}
+</style>
+
+<script language="javascript">			
 	var iscookies = readCookie('USERSCREENNAME');
 	var displayusername = iscookies;
+	if(displayusername != null)
+		displayusername = displayusername.replace('+',' '); //alert(displayusername);
 	var statusLoginStr='';
 	if(iscookies==null){
-		statusLoginStr       = '<div class="clearfix PT3"><p class="b_16c FR"><a href="javascript:;" onclick="loginpopup();" class="r_16c">LOGIN</a>';
-		statusLoginStr      +='/ <a href="javascript:;" id="globalSigninPopup" class="b_16c">SIGNUP</a></p>';
-		statusLoginStr      +='<p class="CL"></p></div>';
+		statusLoginStr       = '<div class="clearfix PT3"><p class="b_16c FR"> <div class="FR ML10"><a href="javascript:;" class="fConnectBtn" onclick="update_user_box();"><img src="http://images.idiva.com/images/fb_connect_button.png" alt="" border="0"/> </a></div>  <div class="FR" style="border-right:1px solid #656262;"><a href="javascript:;" onclick="loginpopup();" class="log_lnk"><strong>LOGIN</strong></a>&nbsp;';
+		statusLoginStr      +='/ <a href="javascript:;" id="globalSigninPopup" class="log_lnk"><strong>SIGNUP</strong></a> &nbsp; </div></p>';
+		statusLoginStr      +='</div>';
 	}else{
-		statusLoginStr       = '<div class="clearfix PT3"><p class="b_16c FR">Welcome '+displayusername;
-		statusLoginStr      += '/ <a href="http://idiva.com/signout.php">LOGOUT</a></p><p class="CL"></p></div>';
+
+		if(readCookie('USER_TYPE')=='Facebook'){	
+			statusLoginStr       = '<div class="clearfix PT3"><p class="b_16c FR">Welcome '+displayusername;
+		    statusLoginStr      += ' / <a href="javascript:void(0)" onclick="fblogout();" style="color:#F39!important">LOGOUT</a></p><p class="CL"></p></div>';
+		}else{
+			statusLoginStr       = '<div class="clearfix PT3" style="padding-bottom:8px;"><p class="b_16c FR">Welcome '+displayusername+' / <a href="javascript:void(0)" onclick="myaccountpopup();"  style="color:#F39!important">Edit Profile</a>';
+			statusLoginStr      += ' / <a href="http://idiva.com/signout.php" style="color:#F39!important">Sign Out</a></p><p class="CL"></p></div>';
+		}
 	}
 	document.write(statusLoginStr);
+</script>
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script type="text/javascript">
+FB.init({
+				 appId  : '9c8691026cef2b560335bf0631da9ea9',
+				 status : true, // check login status
+				 cookie : true, // enable cookies to allow the server to access the session
+				 xfbml  : true  // parse XFBML								
+			   });
+</script>
+<script type="text/javascript">
+function update_user_box(){
+	//-----------------To get full permission
+            FB.login(function(response) {
+				  if (response.session) {
+					if (response.perms) {
+						$.post("http://idiva.com/fb/facebookregistration2db.php",{}, 
+						function(data){ 
+							if(Trimnew(data)=='1'){ 
+								//window.location = "http://revampstg.idiva.com/photogallery-work-life/make-the-most-of-the-diwali-vacations/2343";
+									window.location.reload(); 
+								}
+						});	
+						// user is logged in and granted some permissions.
+					  // perms is a comma separated list of granted permissions
+					} else {
+						  update_user_box();
+						// user is logged in, but did not grant any permissions
+					}
+				  } else {
+					  //alert('user is not logged in');
+					  // user is not logged in					
+				  }
+				}, {perms:'email'});          
+}
+function fblogout(){
+	FB.logout(function(response) {
+		window.location = "http://idiva.com/signout.php";
+	});		
+}
+FB.getLoginStatus(function(response){
+  if (response.session) {		
+	if(readCookie("UI") == ""){
+	 $.post("http://idiva.com/fb/facebookregistration2db.php",{}, 
+	   function(data){ 
+			if(Trimnew(data)=='1'){ 
+				window.location.reload();		
+			}
+		});
+	}
+  } else {
+    // no user session available, someone you dont know
+  }
+});
 </script>
 
 
 <div class="banner">
-	<div class="main clearfix" style="padding:0 0 18px 0;">
-		  <div>
-			<div class="FL">
-				<div><img src="http://images.idiva.com/images/adver.gif" alt="" rel=""></div>
-								<script type="text/javascript">
+			<div class="main clearfix" style="padding:0 0 18px 0;">
+			  <div>
+				<div class="FL">
+					<div>
+						<img src="http://images.idiva.com/images/adver.gif" alt="" rel="">
+					</div>
+<script type="text/javascript">
     var RN = new String (Math.random());
     var RNS = RN.substring (2,11);
     document.write('<iframe src=\"http://adstil.indiatimes.com/RealMedia/ads/adstream_sx.ads/www.iDiva.com/iDiva_Home/index.html/1'+RNS+'@Top?\" WIDTH=728 HEIGHT=90 marginwidth=0 marginheight=0 hspace=0 vspace=0 frameborder=0 scrolling=no bordercolor=\"#000000\"> </iframe>')
-</script><iframe src="http://adstil.indiatimes.com/RealMedia/ads/adstream_sx.ads/www.iDiva.com/iDiva_Home/index.html/1180932104@Top?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"> </iframe>
+</script><iframe src="http://adstil.indiatimes.com/RealMedia/ads/adstream_sx.ads/www.iDiva.com/iDiva_Home/index.html/1449251987@Top?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000"> </iframe>
 
 			</div>
 			<!--<img src="http://images.idiva.com/images/ad.jpg" alt="" width="728" height="90" /> </div> -->
+			<!--<div class="FR">
+				<a href="http://tuhimeristar.idiva.com/" target="_blank"><img src="http://revampstg.idiva.com/images/Tujh_banner_final.gif" title="" alt="" /></a>
+				<div class="CL"></div>
+			</div>-->
 		<div class="FR folo_box">
-			<div class="FL"><a href="http://twitter.com/idiva" target="_blank" class="twitb" title="Twitter">Twitter</a></div>
-			<div class="FL ML5"><a href="http://www.facebook.com/iDivaonfb" target="_blank" class="fbb" title="Facebook">Facebook</a></div>
-			<!--<div class="FL ML5"><a href="javascript:;" class="rssb" onClick="showrssBox();">RSS</a></div>-->
+			<div class="FL"><a href="http://twitter.com/idiva" target="_blank" class="twitb" title="Twitter" style="text-decoration:none;"><img src="http://images.idiva.com/images/imgtwitter.gif" style="padding-left:2px;padding-top:2px;"></a></div>
+			<div class="FL ML5"><a href="http://www.facebook.com/iDivaonfb" target="_blank" class="fbb" title="Facebook" style="text-decoration:none;">Facebook</a></div>
+		<!--	<div class="FL ML5"><a href="javascript:;" class="rssb" onClick="showrssBox();">RSS</a></div>-->
 			<div class="FL ML5">
-				<a href="http://idiva.com/popup/rsspopup.php?height=300&amp;width=500;modal=true" class="thickbox rssb" title="RSS">RSS</a>
+							<a href="http://idiva.com/popup/rsspopup.php?height=300&amp;width=500;modal=true" class="thickbox rssb" title="RSS" style="text-decoration:none;">RSS</a>
+							
 			</div>
 			<div class="FL ML5">
-			<!--<a href="javascript:;" class="newsb" OnClick="signinbxfornewsletter();" >Newsletter</a>  rsspopup.php-->
-			<a href="http://idiva.com/popup/newsletter.php?height=180&amp;width=500;modal=true" title="" class="thickbox newsb">Newsletter</a>
-			</div>
+						<a href="http://idiva.com/popup/newsletter.php?height=180&amp;width=500;modal=true" title="" class="thickbox newsb" style="text-decoration:none;">Newsletter</a>
+						</div>
 			<div class="CL"></div>
 		</div>
 		<div class="CL"></div>
@@ -198,85 +283,58 @@ When you invite another person to join iDiva, we use the name and email address 
     <p class="gD_13 MT7">If you have any questions about this privacy policy, please contact us at <a href="mailto:idiva@indiatimes.co.in" class="bl_13"><strong>idiva@indiatimes.co.in</strong></a></p>
 </div>
 <div class="footer">
-    
-	
-<div class="footer">
-    <div class="footmain">
-    	<div class="CTR youmissed"><img src="http://images.idiva.com/images/misss.gif" alt=""></div>
-        <div class="clearfix MT15">
-			            <div class="FL PR10 brd_rd PB10" style="width:145px">
-			<p><a href="http://idiva.com/news-relationships/5-crazy-ways-to-surprise-him/2143"><img src="http://images.idiva.com/media/content/2010/Oct/5_crazy_ways_to_surprise_him_140x105.jpg" class="brd" alt="5 Crazy Ways to Surprise Him"></a></p>
-                <p><a href="http://idiva.com/news-relationships/5-crazy-ways-to-surprise-him/2143" class="bl_16gD">5 Crazy Ways to Surprise Him</a></p>
-               				<p class="gL_12m MT7">
-										Showing your partner that you mean it when you say, “I love you,” keeps the...				</p>
-				            </div>
-			            <div class="FL PR10 brd_rd PB10 PL10" style="width:140px">
-			<p><a href="http://idiva.com/news-entertainment/bollywoods-specsy-look/2160"><img src="http://images.idiva.com/media/content/2010/Oct/jhootha_hi_sahi_geeky_look_john_abraham_140x105.jpg" class="brd" alt="Bollywood's 'Spec-sy' Look!"></a></p>
-                <p><a href="http://idiva.com/news-entertainment/bollywoods-specsy-look/2160" class="bl_16gD">Bollywood's 'Spec-sy' Look!</a></p>
-               				<p class="gL_12m MT7">
-										It doesn’t matter if you like the geeky look or not, the thick/thin,...				</p>
-				            </div>
-			            <div class="FL PR10 brd_rd PB10 PL10" style="width:140px">
-			<p><a href="http://idiva.com/news-work-life/food-decor-for-a-rocking-diwali/2184"><img src="http://images.idiva.com/media/content/2010/Oct/festive_recipes_decor_140x105.jpg" class="brd" alt="Food &amp; Decor for a Rocking Diwali!"></a></p>
-                <p><a href="http://idiva.com/news-work-life/food-decor-for-a-rocking-diwali/2184" class="bl_16gD">Food &amp; Decor for a Rocking Diwali!</a></p>
-               				<p class="gL_12m MT7">
-										iDiva readers share their quick and easy recipes for a sweet festive season and...				</p>
-				            </div>
-			            <div class="FL PR10 brd_rd PB10 PL10" style="width:140px">
-			<p><a href="http://idiva.com/news-style-beauty/get-these-hot-festive-looks/2185"><img src="http://images.idiva.com/media/content/2010/Oct/festivelooks_140x105.jpg" class="brd" alt="Get These Hot Festive Looks!"></a></p>
-                <p><a href="http://idiva.com/news-style-beauty/get-these-hot-festive-looks/2185" class="bl_16gD">Get These Hot Festive Looks!</a></p>
-               				<p class="gL_12m MT7">
-										Inspired by the abundant firecrackers that define this season, expert makeup...				</p>
-				            </div>
-			            <div class="FL PR10 brd_rd PB10 PL10" style="width:140px">
-			<p><a href="http://idiva.com/news-health/why-jennifer-anistons-diet-isnt-for-you/2178"><img src="http://images.idiva.com/media/content/2010/Oct/why_jennifer_anistons_diet__140x105.jpg" class="brd" alt="Why Jennifer Aniston's Diet Isn't for You"></a></p>
-                <p><a href="http://idiva.com/news-health/why-jennifer-anistons-diet-isnt-for-you/2178" class="bl_16gD">Why Jennifer Aniston's Diet Isn't for You</a></p>
-               				<p class="gL_12m MT7">
-										Hollywood star Jennifer Aniston has a low-carb diet to thank for her fab...				</p>
-				            </div>
-			            <div class="FL PB10 PL10" style="width:140px">
-			<p><a href="http://idiva.com/news-work-life/how-to-raise-an-ecofriendly-kid/2142"><img src="http://images.idiva.com/media/content/2010/Oct/raise_an_eco_friendly_kid_140x105.jpg" class="brd" alt="How to Raise an Eco-Friendly Kid"></a></p>
-                <p><a href="http://idiva.com/news-work-life/how-to-raise-an-ecofriendly-kid/2142" class="bl_16gD">How to Raise an Eco-Friendly Kid</a></p>
-               				<p class="gL_12m MT7">
-										You drive your kid to school every morning and pack his lunch in a nice little...				</p>
-				            </div>
-						
-            <div class="CL"></div>
-        </div>
-		
-    	<div class="clearfix MT45">
-            <div class="FL" style="width:300px">
-                <div class="FL"><a href="http://twitter.com/idiva" target="_blank" class="twit">Twitter</a></div>
-                <div class="FL ML5"><a href="http://www.facebook.com/iDivaonfb" target="_blank" class="fb">Facebook</a></div>
-                <div class="FL ML5"><a href="http://idiva.com/popup/rsspopup.php?height=280&amp;width=300;modal=true" class="thickbox rss1">RSS</a><!--<a href="javascript:;" class="rss1" onClick="showrssBox();">RSS</a>--></div>
-                <div class="FL ML5"><a href="javascript:;" onclick="showNewsletterDiv();" class="news">Newsletter</a></div>
-                <div class="CL"></div>
-                <div class="news_box clearfix" id="newsLetter" style="display:none;">
-                    <input name="nlVal" type="text" id="nlVal" class="FL txt" style="width:150px">
-                    <input name="nlValImage" id="nlValImage" type="image" src="http://images.idiva.com/images/subscr.gif" class="FR" onclick="sendNL();">
-                </div>
-				<div id="nlError_msg" style="display:none"></div>
-            </div>
-            <div class="tar FR" style="width:660px">
-                
-				<p class="gL_11">Explore: <a href="http://idiva.com/style-beauty/" class="gD_11">Style &amp; Beauty</a> | <a href="http://idiva.com/entertainment/" class="gD_11">Entertainment</a> | <a href="http://idiva.com/relationship/" class="gD_11">Relationships</a>| <a href="http://idiva.com/health/" class="gD_11">Health</a> | <a href="http://idiva.com/work-life/" class="gD_11">Work &amp; Life</a></p>
-					
-				<p class="gL_11 PT5">Engage: <a href="http://idiva.com/darksecret" class="gD_11">Dark Secrets</a> | <a href="http://idiva.com/archive.html?sid=&amp;id=5" class="gD_11">Photos</a> | <a href="http://shopping.idiva.com/" class="gD_11">Shop @ iDiva</a> | <a href="http://idiva.com/experts" class="gD_11">Ask Experts</a></p>
-				  
-				<!-- <p class="gL_11 PT5">Experience: <a href="#" class="gD_11">Fit n Fab</a> | <a href="#" class="gD_11">Bioclock</a> | <a href="#" class="gD_11">Numerologic</a> | <a href="#" class="gD_11">Haroscope</a> | <a href="#" class="gD_11">Chinese Zodiac</a></p> -->
+    	
+<!--Footer starts -->
+<div class="footerpg">
+	<div class="footmain">
+		<div class="missedPage">
+<iframe frameborder="0" scrolling="no" width="100%" height="492" src="http://luxpresso.com/genratefiles/generate/commonfooter/tplfooterUpper.html">
+</iframe>
+<link rel="stylesheet" type="text/css" href="http://luxpresso.com/css/missed-style2.css">
+<script type="text/javascript" src="http://luxpresso.com/js/footer.js"></script>
+<div id="missedFooterPanel">
+	<div id="newsLetterFooter">
+		<div class="">
+			<div class="serchSection">
+				<div class="msdSearch" style="clear:left;">
+					<form name="frmSearch1" method="POST" action="" onsubmit="return processSearch1(&quot;http://idiva.com/&quot;, &quot;idiva&quot;);">
+						<input type="text" class="sb_input" name="searchTags1" id="searchTags1" value="search" onclick="make_blankFSearch(&quot;frmSearch1&quot;)"><input class="search" type="submit" value="">
+					</form>
+				<div class="clear"></div>
+			</div>
 
-                <p class="MT15 gL_11">More on  iDiva : <a href="http://idiva.com/archive.html" class="gD_11">Archive</a> | <a href="http://idiva.com/terms.php" class="gD_11">Terms of Use</a> | <a href="http://idiva.com/privacypolicy.php" class="gD_11">Privacy Policy</a> | <a href="http://idiva.com/communityguideline.php" class="gD_11">Community Guidelines</a> | <a href="http://idiva.com/contactus.php" class="gD_11">Contact Us</a> </p>
-
-                <p class="MT5 gL_11">Other sites: <a href="http://www.indiatimes.com/" class="gD_11" target="_blank">Indiatimes</a> | <a href="http://www.timesofindia.com/" class="gD_11" target="_blank">The Times of India</a> | <a href="http://economictimes.indiatimes.com/" class="gD_11" target="_blank">The Economic Times</a> | <a href="http://zoomtv.in/" class="gD_11" target="_blank">Zoom TV</a> | <a href="http://timesnow.tv/" class="gD_11" target="_blank">Times Now</a> | <a href="http://oneclick.indiatimes.com/" class="gD_11" target="_blank"> One Click</a> | <a href="http://www.hotklix.com/" class="gD_11" target="_blank">HotKlix</a></p>
-                <p class="gL_11 MT40">Copyright © 2010 Times Internet Limited. All Rights Reserved.</p>
-
-            </div>
-            <div class="CL"></div>
-    	</div>
-    </div>
+			<div class="signUp"><a href="http://idiva.com/popup/newsletter.php?height=180&amp;width=500;modal=true" title="Newsletter" class="thickbox">Sign up for Newsletter</a></div>
+			<div class="socialshares column">
+				<ul>
+					<li><span class="PR5">Follow Us: &nbsp;</span></li>
+					<li><a href="http://idiva.com/popup/rsspopup.php?height=300&amp;width=500;modal=true" class="thickbox"><img src="http://idiva.com/images/rss.png" border="0" style="3px 0 0 0"></a></li>
+					<li><img src="http://idiva.com/images/separtor_bottom.png" border="0" style="margin:0 5px;"></li>
+					<li><a href="http://twitter.com/idiva" target="_blank"><img src="http://idiva.com/images/twitter.png" border="0" style="3px 0 0 0"></a></li>
+					<li><img src="http://idiva.com/images/separtor_bottom.png" border="0" style="margin:0 5px;"></li>
+					<li><a href="http://www.facebook.com/iDivaonfb" target="_blank"><img src="http://idiva.com/images/facebook.png" border="0" style="3px 0 0 0"></a></li>
+				</ul>
+			</div>
+			<br>
+			<div style="background:url(http://idiva.com/images/hozLine.gif) repeat-x; float:left; padding:0; width:940px;">
+				<div style="width: 600px;margin-top: 5px;" class="FL">
+					<p class="MT15 oSites" style="margin-top:8px">Other sites: <a class="gD_11f" href="http://www.indiatimes.com/" target="_blank">Indiatimes</a> | <a class="gD_11f" href="http://timesofindia.indiatimes.com" target="_blank">The Times of India</a> | <a class="gD_11f" href="http://economictimes.indiatimes.com/" target="_blank">The Economic Times</a> | <a class="gD_11f" href="http://zoomtv.in/" target="_blank">Zoom TV</a> | <a class="gD_11f" href="http://www.timesnow.tv/" target="_blank">Times Now</a> | <a class="gD_11f" href="http://oneclick.indiatimes.com/" target="_blank">One Click</a> | <a class="gD_11f" href="http://www.hotklix.com/" target="_blank">HotKlix</a></p>
+				</div>
+				<div class="tar FR">
+					<p align="right" style="color: #cccccc; font-size: 11px;">Copyright © 2011 Times Internet Limited. All Rights Reserved.</p>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 
-<script language="javascript">
+<div class="clearfixfooter">
+	<p class="MT15 oSites" style="margin:7px 0 0 10px"><strong>More on Idiva : 
+<a class="gD_11f" href="http://idiva.com/archive.html" style="color:#414141;">Archive</a> | <a class="gD_11f" href="http://idiva.com/terms" style="color:#414141;">Terms of Use</a> | <a class="gD_11f" href="http://idiva.com/privacypolicy" style="color:#414141;">Privacy Policy</a> | <a class="gD_11f" href="http://idiva.com/communityguideline" style="color:#414141;">Community Guidelines</a> | <a class="gD_11f" href="http://idiva.com/contactus" style="color:#414141;">Contact Us</a> | <a class="gD_11f" href="http://idiva.com/faq" style="color:#414141;">FAQs</a> | <a class="gD_11f" href="http://idiva.com/sitemap" style="color:#414141;">Sitemap</a></strong></p>
+</div>
+		</div>
+	</div>
+</div>
+<!--Footer Ends --><script language="javascript">
 		<!--
 				function showNewsletterDiv(){
 					$("#nlError_msg").hide();
@@ -328,52 +386,20 @@ When you invite another person to join iDiva, we use the name and email address 
 				
 		//-->
 </script>
-<script type="text/javascript">
-function facebook_register(){
-	if(readCookie('UID')==null){
-		var api = FB.Facebook.apiClient;
-		var userId = api.get_session().uid;
-		$.post('http://idiva.com/fb/facebookregistration2db.php',{'userId':userId}, 
-			function(data){ 	
-				if(Trimnew(data)=='1'){						
-					window.location.reload();
-				}
-			});
-	}
-}
-</script>
-<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" mce_src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"> </script>
 <!-- Begin google Tag -->
-
 <script type="text/javascript">
-
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
 <script type="text/javascript">
-
 try {
-
 var pageTracker = _gat._getTracker("UA-116455-7");
-
 pageTracker._setDomainName("none");
-
 pageTracker._setAllowLinker(true);
-
 pageTracker._initData();
-
 pageTracker._trackPageview();
-
 } catch(err) {}
-
 </script>
-
-
-
-
 <!-- End TimesTrend Tag -->
 <!-- Begin TimesTrend Tag -->
 <script language="javascript" src="http://timeslog.idiva.com/timestrend_idiva_v1.js"></script><noscript><img width="0" height="0" src="http://timeslog.idiva.com/timeslog.dll/pgcnt?CHUR=idiva.com&nojs=1"></noscript>
@@ -382,8 +408,7 @@ pageTracker._trackPageview();
 <script>
     document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
 </script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
- 
-<script>
+ <script>
   COMSCORE.beacon({
     c1:2,
     c2:6036484,
@@ -398,10 +423,7 @@ pageTracker._trackPageview();
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&c3=&c4=&c5=&c6=&c15=&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
- 
- 
- 
-<!-- START Nielsen Online SiteCensus V6.0 -->
+ <!-- START Nielsen Online SiteCensus V6.0 -->
 <!-- COPYRIGHT 2010 Nielsen Online -->
 <script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js">
 </script>
@@ -417,15 +439,8 @@ pageTracker._trackPageview();
  </div>
 </noscript>
 <script id="aptureScript" type="text/javascript" src="http://www.apture.com/js/apture.js?siteToken=UvG5UUG" charset="utf-8"></script>
-
-		<script type="text/javascript">
-			var server_name = window.location.host;
-			var api_key		    = "9c8691026cef2b560335bf0631da9ea9";
-			var channel_path = "/xd_receiver.htm";
-			FB.init(api_key, channel_path, {"ifUserConnected": update_user_box});
-		</script>		
 </div>
 </div>
 
 
-</div></body></html>
+</div></div></body></html>
