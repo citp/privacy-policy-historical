@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgridus.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231062135id_/http%3A//www.nationalgridus.com/0-1_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgridus.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430004812id_/http%3A//www.nationalgridus.com/0-1_privacypolicy.asp) for the most accurate reproduction.*
 
 # National Grid - Privacy Policy
 
@@ -58,7 +58,7 @@ We may modify this privacy policy at any time; please check back for updates.
 Contacting Us   
 We offer various ways that you may contact us online—by electronic mail or online forms. Please note that while we are in the process of answering your questions or fulfilling your request, information you submit to us may be seen by various people in National Grid. If you decide to send us personally identifying information—for example, in an electronic mail message containing a question or problem—we will only use this information to help us solve your problem or answer your question. 
 
-If you have any questions about this privacy statement, please [Contact Us](https://web.archive.org/0-4_contact.asp?topic=WEB&category=SINGLE).
+If you have any questions about this privacy statement, please [Contact Us](https://web.archive.org/0-4_contact1a.asp).
 
 You may also write to:   
 National Grid   
