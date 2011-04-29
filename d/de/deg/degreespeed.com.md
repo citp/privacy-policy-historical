@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreespeed.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230032329id_/http%3A//www.degreespeed.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreespeed.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429193414id_/http%3A//degreespeed.com/privacy.asp) for the most accurate reproduction.*
 
 # www.degreespeed.com
 
