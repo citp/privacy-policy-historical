@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206212150id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429030947id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for GigMasters.com
 
@@ -59,7 +59,7 @@ Removal From Directory
 
 
 Company Testimonials/Notable Quotes
-    We post customer notable quotes on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to to posting the testimonial to post their name along with their testimonial This site sends an e-mail to each customer directly to obtain consent to use his/her full name, event type, city, state, and quote for use on our company's Testimonials page (<http://www.gigmasters.com/about/testimonials.aspx>) and in our Notable Quotes sections. Requests for removal of a customer testimonial can be done in two ways: 
+    We post customer notable quotes on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to to posting the testimonial to post their name along with their testimonial This site sends an e-mail to each customer directly to obtain consent to use his/her full name, event type, city, state, and quote for use on our company's Testimonials page (<http://www.gigmasters.com/testimonials.asp>) and in our Notable Quotes sections. Requests for removal of a customer testimonial can be done in two ways: 
 
   1. email <http://www.gigmasters.com/contact.aspx>
   2. call the following telephone number: 866-342-9794
