@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thumbvu.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111756id_/http%3A//www.thumbvu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbvu.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429032328id_/http%3A//www.thumbvu.com/privacy) for the most accurate reproduction.*
 
-# ThumbVu - Privacy
+# thumbvu - Privacy
 
 ## Privacy Policy
 
