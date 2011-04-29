@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idiva.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030161241id_/http%3A//idiva.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idiva.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429074205id_/http%3A//idiva.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | iDiva.com
 
