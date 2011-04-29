@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newezinearticles.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127101218id_/http%3A//newezinearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newezinearticles.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429164108id_/http%3A//newezinearticles.com/privacy.php) for the most accurate reproduction.*
 
-# New Ezine Articles | Privacy Statement
+# New Ezine Articles Directory | Privacy Statement
 
 New Ezine Articles strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
