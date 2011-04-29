@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230191157id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoworkers.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429094047id_/http%3A//www.seoworkers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO Workers Web Site Privacy Policy & Important Notices
 
@@ -9,9 +9,9 @@
 
 **Call us:**
 
-  * US (323) 580-6285
-  * UK (20) 8133-7065
-  * AU (2) 8011-3838
+  * US (0323) 58 06 285
+  * UK (020) 3 286 0213
+  * AU (03) 901 6 3603
 
 
 
