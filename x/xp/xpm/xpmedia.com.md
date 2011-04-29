@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpmedia.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608185542id_/http%3A//www.xpmedia.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpmedia.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429212457id_/http%3A//www.xpmedia.com/policy) for the most accurate reproduction.*
 
 # XPmedia.com - Policy
 
@@ -6,11 +6,13 @@ This policy will outline our organization’s guidelines respecting your privacy
 
 ### Why we collect personal information
 
-XPmedia.com collects and discloses personal information about a variety of individuals, including  subscribers, employees, volunteers, teachers, intercessors and ministers.
+XPmedia.com collects and discloses personal information about a variety of individuals, including subscribers, employees, volunteers, teachers, intercessors and ministers primarily in order to build relationship with these individuals through email transmissions.
 
 ### Subscribers
 
-In voluntarily subscribing for newsletters or product specials, whether by mail or on the internet, subscribers provide basic contact information to us, and sometimes credit card or other payment information. We use that information to provide the material or product to you, to process payment, to track your utilization of our resources and to recommend other products or services that we believe may be of interest to you.
+In voluntarily subscribing for newsletters, product specials, event registrations, or platinum membership, whether by mail or on the internet, subscribers provide basic contact information to us, and sometimes credit card or other payment information. We use that information to keep you informed of updates, provide the material or product to you, to process payment, to track your utilization of our resources and to recommend other products or services that we believe may be of interest to you.
+
+XPmedia.com also purchases email lists containing subscriber contact information from marketing sources. These names and contact information are added to our database.
 
 ### Employees/Volunteers
 
@@ -26,13 +28,13 @@ XPmedia.com collects widely varying types of personal information, depending on 
 
 ### How we obtain the personal information
 
-Most of the personal information collected by XPmedia.com is collected directly by our representatives from either subscribers, employees, volunteers, teachers, intercessors and ministers.
+Most of the personal information collected by XPmedia.com is collected directly by our representatives from either subscribers, employees, volunteers, teachers, intercessors and ministers along with subscriber information obtained form marketing companies.
 
 In many cases, the consent of the individual providing information to us is inferred from the circumstances in which the information is provided. On occasion, as with compilation of subscriber information, we rely on specific subscriber consent or provide the individual with an opportunity to “opt out” of participation in certain programs.
 
 ### Disclosure of personal information
 
-Disclosure of subscriber information is restricted to our own purposes, and disclosure outside the organization is generally limited to those circumstances where consent has been provided. With respect to employee and volunteer information, XPmedia.com may from time to time disclose that information to affiliated organizations or to third party service providers. In all cases, disclosure may be made to legal counsel and other consultants and agents, to government authorities and otherwise as permitted or required by law.
+Disclosure of subscriber information is generally restricted to our own purposes, and disclosure outside the organization is usually limited to those circumstances where consent has been provided although we reserve the right to disclose or sell subscriber information when the corporation determines necessary. With respect to employee and volunteer information, XPmedia.com may from time to time disclose that information to affiliated organizations or to third party service providers. In all cases, disclosure may be made to legal counsel and other consultants and agents, to government authorities and otherwise as permitted or required by law.
 
 ### Security of personal information
 
