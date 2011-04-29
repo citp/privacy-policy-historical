@@ -1,25 +1,77 @@
-> *The following text is extracted and transformed from the arcadesimple.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121140353id_/http%3A//www.arcadesimple.com/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadesimple.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429051201id_/http%3A//www.arcadesimple.com/index.php%3Fa%3Dpage%26id%3D2) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Free flash games
+
+[](http://www.arcadesimple.com/out.php)
+
+| 
+
+### Disclaimer
+
+  
 
 
-    Privacy Policy for this site
-    
-    The privacy of our visitors to this site is important to us.
-    
-    At this site, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit this site, and how we safeguard your information.  We never sell your personal information to third parties.
-    
-    Log Files
-    As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
-    
-    Cookies and Web Beacons
-    We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
-    
-    We also use third party advertisements on this site to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
-    
-    DoubleClick DART cookies
-    We also may use DART cookies for ad serving through Google?fs DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests (?hinterest based targeting?h).  The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey).  DART uses ?gnon personally identifiable information?h.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.  You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx  
-    
-    You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
-    
-    Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+Liability
+
+All materials, information, software, products and services (also referred to as "Content"), included in or available through www.arcadesimple.com (also referred to as "Site") are provided on an "as is" basis. The Content is provided without warranties of any kind.
+
+**By using the Content of the Site, you explicitly agree to these terms and conditions. We do not warrant that the Content on this Site is accurate, reliable or correct; that this Site will be available at any particular time or location; that any defects or errors will be corrected; or that the Content is free of viruses or other harmful components. Your use of this Site is solely at your own risk. Any Content viewed, downloaded or otherwise obtained through the use of this Site is done solely at your own discretion and risk, and you will be solely responsible for any damage, including without limitation personal injury or distress, damage to your computer system, or loss of data, that results from the viewing or download of any Content. The operator of arcadesimple.com can not be held responsible for any problems occuring by using or not using the Site and its Content in any way.**
+
+Links, advertisements and third party sites  
+  
+This Site provides advertisements and links to other third party websites over which we have no control. We can not be held responsible for those advertisements and websites or any of its Content. You acknowledge that you view and access these advertisements and websites entirely at your own risk.
+
+### Terms Of Use / Copyright / Licensing
+
+Content made by the operator of arcadesimple.com
+
+The Site (www.arcadesimple.com) and its subpages is copyright by its operator. Copyrighted content of this site may not be copied, reproduced, republished, uploaded, posted, transmitted, or distributed, in whole or partly, for any purpose other than individual viewing of this content, without the express prior written consent of arcadesimple.com's operator. Any modification, decompilation or reverse-engeneering of arcadesimple.com's operator copyrighted content for any purpose is prohibited.
+
+Content of Third Parties
+
+Games and other content on the site which is not made and copyrighted by the operator of this site, is either licensed or used with permission and protected by international copyright. These games are intellectual property and/or copyright and/or trademark by their respective owners and/or authors.If you are the developer/owner/copyright holder of a game and you wish to have it removed us, please send an email through the email link at the bottom of the site.
+
+### Privacy Policy
+
+Automatically logged information (server logs), cookies, Flash shared objects
+
+Server logs:   
+Like most servers, our servers automatically record the page requests made when users visit our Site. These "server logs" typically include your web request (the requested content), IP address, browser type, browser language and the date and time of your request. We use this information to help diagnose problems, to analyze statistics of our Site, and to allow us to improve the overall user-experience. No personal information (like your name, email or phone number) is being gathered with server logs. We do not transfer these data to third parties as long as it is not required by law.
+
+Cookies:  
+The Site also uses the third party web analytics service "Google Analytics" (GA), by Google, Inc. GA use "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. No personal information (like your name, email or phone number) is being gathered with cookies.   
+By using this Site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+Flash shared objects:  
+Most games on this Site are based on Flash technology (Flash Games). Flash Games may collect data in "shared objects" which are textfiles stored on your computer. We have no control over what data Flash Games of third parties may collect. We are not responsible for the privacy practices of third parties Flash Games.
+
+Third Party Advertising  
+  
+We use several third party advertising companies to serve ads when you visit the Site. These companies may use cookies to store information about your visits to this and other websites (your browsing activity) in order to provide advertisements on this Site and other sites about goods and services that may be of interest to you.  
+You may refuse the use of cookies by selecting the appropriate settings on your browser.
+
+Google Adsense:  
+Delivered by Google, Inc., may make use of one or more "DoubleClick DART Cookies".  
+DART cookies store and collect data on your computer about your browsing activity. Google may use this data to show advertisements on this Site based on your browsing activity.
+
+You can choose to opt out of Google's use of cookies by visiting:  
+the [Google ad and content privacy policy](http://www.google.com/privacy_ads.html).
+
+Value Click Media:  
+<http://www.valueclickmedia.com/privacy.shtml>
+
+Contact via email
+
+When you contact us via email, by using a contact link on the bottom of the site, you are providing us with personal information such as your name and email address. Such information is used only for the purpose of assisting you with, and validating your inquiry, request or submission. We respect the privacy concerns of visitors to www.arcadesimple.com.
+
+We do not sell or disclose your email address or any other personal information about you.
+
+Links
+
+We may present internal links (i.e. links to our own pages) or external links (i.e. links to other websites) in a format that allows us to track statistics like the number of clicks a link gets. These statistics will only be used to help us improve the site. We are not responsible for the privacy practices or the content of websites that are being linked to from our Site or newsletters.
+
+Security
+
+We protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures.  
+  
+---|---
