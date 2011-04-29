@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the luckyregister.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227063030id_/http%3A//www.luckyregister.com/Privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyregister.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429172049id_/http%3A//www.luckyregister.com/Privacy_policy.php) for the most accurate reproduction.*
 
 # Legal Agreement
 
-Pham Van Quang Respects your privacy
+LuckyRegister.com Respects your privacy
 
 **Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
@@ -12,7 +12,7 @@ Our Site uses forms in which you give us contact information (including your nam
 
 We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications with our customer service department. If you contact us for support, we will keep an internal record of what support was given.
 
-We use your information to contact you regarding functionality changes to our products, our Site, new Pham Van Quang services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We use your information to contact you regarding functionality changes to our products, our Site, new LuckyRegister.com services, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
 We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
@@ -20,7 +20,7 @@ We use information gathered about you from our Site statistics (for example, you
 
 Our Site uses cookies to keep track of your shopping cart and receipts. We use cookies to identify you so you don't need to log in each time you visit our Site. The cookies are linked to your customer number, which is associated with the information in your account.
 
-This Site also contains links to other websites. Unfortunately, Pham Van Quang is not responsible for the privacy practices or the content of such sites.
+This Site also contains links to other websites. Unfortunately, LuckyRegister.com is not responsible for the privacy practices or the content of such sites.
 
 **Security**
 
@@ -31,7 +31,7 @@ This Site has security measures in place to protect against the loss, misuse or 
 You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
   1. Visit your online [Account Manager](https://www.securepaynet.net/gdshop/shopper_lookup.asp?prog_id=Luckyregister)
-  2. You may send mail to Pham Van Quang at the following postal address:   
+  2. You may send mail to LuckyRegister.com at the following postal address:   
 14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA 
 
 
@@ -64,11 +64,11 @@ We may use a third party service provider to conduct these surveys or contests. 
 
 **Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Pham Van Quang will automatically send the friend a one-time email inviting them to visit our Site. Pham Van Quang stores this information for the sole purpose of sending this one-time email. The friend may contact Pham Van Quang at to request the removal of this information from our database.
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. LuckyRegister.com will automatically send the friend a one-time email inviting them to visit our Site. LuckyRegister.com stores this information for the sole purpose of sending this one-time email. The friend may contact LuckyRegister.com at to request the removal of this information from our database.
 
-**What Happens to my Personal Information if I Terminate my Pham Van Quang Account?**
+**What Happens to my Personal Information if I Terminate my LuckyRegister.com Account?**
 
-When your Pham Van Quang account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant Pham Van Quang databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+When your LuckyRegister.com account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant LuckyRegister.com databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
 **Changes in Our Practices**
 
@@ -81,3 +81,10 @@ If we make material changes to this Policy, we will notify you here, by email, o
 If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
 * * *
+
+LuckyRegister.com   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.  
+ 
