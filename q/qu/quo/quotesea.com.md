@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotesea.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219110846id_/http%3A//quotesea.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotesea.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429060711id_/http%3A//www.quotesea.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
