@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadebomb.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221180805id_/http%3A//www.arcadebomb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadebomb.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429020232id_/http%3A//www.arcadebomb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for ArcadeBomb.com
 
@@ -51,5 +51,5 @@ The best free online flash games are rotated in this box, stay up to date with t
 
 Try this flash game if you are looking for more then our 1000 web arcade games on our internet gaming site.
 
-|  [](http://www.arcadebomb.com/out.php?id=7)  
+|  [](http://www.arcadebomb.com/out.php?id=5)  
 ---|---
