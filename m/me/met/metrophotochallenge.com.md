@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metrophotochallenge.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211042458id_/http%3A//www.metrophotochallenge.com/us/show/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metrophotochallenge.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429120121id_/http%3A//www.metrophotochallenge.com/us/show/privacy_policy) for the most accurate reproduction.*
 
 # METRO Photo Challenge: Privacy policy
 
@@ -8,7 +8,7 @@ The personal information collected on this website will be used to contact you i
 
 ### Using your name, age and city for promotional activity
 
-Metro reserves the right to publish your photos, your name, and age for all promotional activity related to this competition. For example, photo of the day – every day for 10+ days in more than 17 countries we will publish a selected photo, along with the photographer's name, age and city. That also includes the publication of your photo, its title and your name in the photo album that will later be distributed to general public (please read [Rules and Terms & ](https://web.archive.org/web/20101211042458id_/http%3A//www.metrophotochallenge.com/us/show/rules)[Conditions](https://web.archive.org/sow/rules)).
+Metro reserves the right to publish your photos, your name, and age for all promotional activity related to this competition. For example, photo of the day – every day for 10+ days in more than 17 countries we will publish a selected photo, along with the photographer's name, age and city. That also includes the publication of your photo, its title and your name in the photo album that will later be distributed to general public (please read [Rules and Terms & ](https://web.archive.org/web/20110429120121id_/http%3A//www.metrophotochallenge.com/us/show/rules)[Conditions](https://web.archive.org/sow/rules)).
 
 ### What personal information does Metro collect on this website?
 
