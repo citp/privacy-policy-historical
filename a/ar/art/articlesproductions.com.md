@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesproductions.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130093848id_/https%3A//www.articleproductions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesproductions.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429025527id_/https%3A//www.articleproductions.com/privacy.php) for the most accurate reproduction.*
 
 # Article Productions :: article marketing, article directory, content syndication, article marketer, article syndication
 
@@ -47,4 +47,4 @@ Though ArticleProductions.com makes every effort to preserve member's privacy, w
 * Protect the personal safety or property of our users or the public
 
  **Contacting this Web Site:**  
-If you have any questions about this privacy statement, the practices and policies of ArticleProductions.com, or your dealings with this web site, you can [contact support](https://web.archive.org/web/20101130093848id_/https%3A//www.articleproductions.com/support.php)
+If you have any questions about this privacy statement, the practices and policies of ArticleProductions.com, or your dealings with this web site, you can [contact support](https://web.archive.org/web/20110429025527id_/https%3A//www.articleproductions.com/support.php)
