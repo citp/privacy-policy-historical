@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foliomag.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126120954id_/http%3A//www.red7media.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foliomag.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429060152id_/http%3A//www.red7media.com/privacypolicy.shtml) for the most accurate reproduction.*
 
 # Red 7 Media
 
