@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xaxtube.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130235801id_/http%3A//xaxtube.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xaxtube.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429222045id_/http%3A//www.xaxtube.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
