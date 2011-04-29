@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the timetoast.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805102921id_/http%3A//www.timetoast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetoast.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429022532id_/http%3A//www.timetoast.com/pages/privacy) for the most accurate reproduction.*
 
-# Timetoast timelines - Privacy
-
-* * *
+# Privacy Policy | Timetoast timelines
 
 ## Website Visitors
 
