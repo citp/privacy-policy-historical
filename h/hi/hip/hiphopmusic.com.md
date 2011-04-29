@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphopmusic.com privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704163238id_/http%3A//www.hiphopmusic.com/2007/07/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopmusic.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430013558id_/http%3A//www.hiphopmusic.com/2007/07/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
