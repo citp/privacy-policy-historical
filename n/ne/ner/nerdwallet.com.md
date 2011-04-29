@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdwallet.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602043113id_/http%3A//www.nerdwallet.com/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdwallet.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429174350id_/http%3A//www.nerdwallet.com/privacystatement.html) for the most accurate reproduction.*
 
 # NerdWallet Privacy Statement
 
