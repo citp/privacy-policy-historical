@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morewords.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222004816id_/http%3A//www.morewords.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morewords.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429051111id_/http%3A//www.morewords.com/privacy) for the most accurate reproduction.*
 
 # More Words - Privacy Policy
 
@@ -12,4 +12,4 @@ If you have any questions about this policy, please write to us using the [conta
 
 [New Search](https://web.archive.org/)
 
-Some random words: [roach](https://web.archive.org/word/roach/)   [irid](https://web.archive.org/word/irid/)   [aah](https://web.archive.org/word/aah/)   [juice](https://web.archive.org/word/juice/)   [oboe](https://web.archive.org/word/oboe/)   [oeillade](https://web.archive.org/word/oeillade/)   [bake](https://web.archive.org/word/bake/)  
+Some random words: [vocable](https://web.archive.org/word/vocable/)   [boras](https://web.archive.org/word/boras/)   [tea](https://web.archive.org/word/tea/)   [eunuch](https://web.archive.org/word/eunuch/)   [eking](https://web.archive.org/word/eking/)   [elocution](https://web.archive.org/word/elocution/)   [ibuprofen](https://web.archive.org/word/ibuprofen/)  
