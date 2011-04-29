@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dubaiforums.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201192441id_/http%3A//www.dubaiforums.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaiforums.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429024254id_/http%3A//www.dubaiforums.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Dubai Forums privacy policy
-
-[Back to Dubai forums index page](https://web.archive.org/)
+# Dubai Forums Privacy Policy
 
 At **DubaiForums.com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines what types of personal information is received and collected while you browse our website. 
 
