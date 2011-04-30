@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the petermillar.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230162011id_/http%3A//www.petermillar.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petermillar.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430085043id_/http%3A//www.petermillar.com/terms/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## Privacy Policy
 
 We take seriously the issue of safeguarding the privacy of information. We have created this Privacy Policy in order to better familiarize you with the information we collect or obtain, and the way in which we use this information to better operate our business and serve the needs of our guests.
 
