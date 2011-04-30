@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bzzagent.com privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224085836id_/http%3A//www.bzzagent.com/pg/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bzzagent.com privacy policy that was archived on 2011-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110430145945id_/http%3A//www.bzzagent.com/pg/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><head>
     <title>Privacy Policy - BzzAgent</title>
@@ -24,6 +24,9 @@
 		
 		
         <link rel="stylesheet" type="text/css" href="/css/v4_1/colorbox-min.css">
+		<!--[if lte IE 8]>
+		  <link rel="stylesheet" type="text/css" href="/css/v4_1/ie8-Fix-min.css" />
+		 <![endif]-->
 		<!--[if lte IE 7]>
 		  <link rel="stylesheet" type="text/css" href="/css/v4_1/ie-Fix-min.css" />
 		 <![endif]-->
@@ -64,6 +67,8 @@
 		<style type="text/css">
 			ul.subNav li# a { color: #ffffff; font-weight:bold }
             .facebookLoginButton { visibility: hidden; }
+			ul.main li.helpJapan{background:transparent url(/images/v4_1/helpJapan.png) no-repeat 6px 1px; padding:8px 0 8px 8px;}
+			ul.main li.helpJapan a{color:#bd1b1d;}
 		</style>
 		<meta name="bzzPageName" content="agent site:general:agent information:privacy policy">
 <script>
@@ -269,37 +274,38 @@ a.fb_button_small_rtl:active{background-position:right -458px}
             loginStarted = true;
             $j('.facebookLoginButton').toggle();
         }
-        FB.login(function(response){
-        FacebookAjax.doLogin(function(status){
-            switch(status[0]){
-                case "SUCCESS":
-                    login_redirect(status[1]);
-                    break;
-                case "FAIL":
-                    $j('#connectErrorMsg').html('Failed to log in');
-                    $j.fn.colorbox({inline: true, href:"#connectError", open: true, overlayClose: false});
-                    break;
-                case "BADSIG":
-                    $j('#connectErrorMsg').html('There was a problem verifying your Facebook account. Please reload this page and try again.');
-                    $j.fn.colorbox({inline: true, href:"#connectError", open: true, overlayClose: false});
-                    break;
-                case "EXISTING":
-                    FacebookAjax.getExistingUserData(function(data){
-                        $j('.knownUsername').html(data[0]);
-                        $j.fn.colorbox({inline: true, href: '#knownFbUserForm', open:true, height:'280px', width:'600px'});
-                    });
-                    break;
-                case "UNKNOWN":
-                    $j.fn.colorbox({inline: true, href: '#newUnknownFbUserForm', open:true, height:'260px', width:'600px'});
-                    $j('#newUsername').focus();
-                    break;
-                default:
-                    $j('#connectErrorMsg').html('Unknown error. Please try again or <a href="/pg/Contact-Us" class="orange">Contact us</a>');
-                    $j.fn.colorbox({inline: true, href:"#connectError", open: true, overlayClose: false});
-                    break;
-            }
-            $j().trigger('cbox_closed');
-        });
+        
+        FB.login(function(response) {
+            FacebookAjax.doLogin(response.session, function(status){
+                switch(status[0]){
+                    case "SUCCESS":
+                        login_redirect(status[1]);
+                        break;
+                    case "FAIL":
+                        $j('#connectErrorMsg').html('Failed to log in');
+                        $j.fn.colorbox({inline: true, href:"#connectError", open: true, overlayClose: false});
+                        break;
+                    case "BADSIG":
+                        $j('#connectErrorMsg').html('There was a problem verifying your Facebook account. Please reload this page and try again.');
+                        $j.fn.colorbox({inline: true, href:"#connectError", open: true, overlayClose: false});
+                        break;
+                    case "EXISTING":
+                        FacebookAjax.getExistingUserData(function(data){
+                            $j('.knownUsername').html(data[0]);
+                            $j.fn.colorbox({inline: true, href: '#knownFbUserForm', open:true, height:'280px', width:'600px'});
+                        });
+                        break;
+                    case "UNKNOWN":
+                        $j.fn.colorbox({inline: true, href: '#newUnknownFbUserForm', open:true, height:'260px', width:'600px'});
+                        $j('#newUsername').focus();
+                        break;
+                    default:
+                        $j('#connectErrorMsg').html('Unknown error. Please try again or <a href="/pg/Contact-Us" class="orange">Contact us</a>');
+                        $j.fn.colorbox({inline: true, href:"#connectError", open: true, overlayClose: false});
+                        break;
+                }
+                $j().trigger('cbox_closed');
+            });
         });
         return false;
     }
@@ -508,6 +514,7 @@ $j(document).ready(function(){
 
 	<div id="header">
 		<div id="headerWrap">
+			
 			<a href="/" class="logo fLeft">BzzAgent</a>
 
 
@@ -568,9 +575,7 @@ $j(document).ready(function(){
 				
 					<li id="campaigns"><a href="/campaign/PublicCampaignsOverview.do">BzzCampaigns</a></li>
 					
-						<li id="frog"><a href="/frog/FrogPond.do?action=browse">Frogpond</a></li>
-					
-						<li id="bzzscapes"><a href="/bzzscapes/">BzzScapes</a></li>
+						
 					
 					<li id="hire"><a href="http://about.bzzagent.com">Hire Us</a></li>
 					
@@ -585,9 +590,11 @@ $j(document).ready(function(){
 				
 				
 			
-		</ul>
+				
+
 		
 	
+			</ul>
 
 
 
@@ -602,7 +609,6 @@ $j(document).ready(function(){
 
 
 				
-
 
 
 
@@ -753,6 +759,8 @@ Boston, MA 02110<br>
 			
 			
 			
+			
+			
 </div><!--end main body-->
 </div>
 <div id="footer" class="clear">
@@ -780,7 +788,7 @@ Boston, MA 02110<br>
 		</ul>
 		 <a href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.bzzagent.com/seal_s" class="fRight marginBtm marginTop8px" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/wps/en/www.bzzagent.com/seal_s.png" alt="TRUSTe online privacy certification"></a>
 			
-				<p class="small white copy"><span class="trans"><img height="11" width="16" alt="" src="/img/flags/us.png"><img height="11" width="16" class="trans" alt="" src="/img/flags/ca.png"><a href="http://www.bzzagent.co.uk/"><img height="11" class="trans" width="16" alt="" src="/img/flags/gb.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;</span>©2010 <a href="http://about.bzzagent.com/word-of-mouth/company" class="white">BzzAgent</a>, Inc., All Rights Reserved</p>
+				<p class="small white copy"><span class="trans"><img height="11" width="16" alt="" src="/img/flags/us.png"><img height="11" width="16" class="trans" alt="" src="/img/flags/ca.png"><a href="http://www.bzzagent.co.uk/"><img height="11" class="trans" width="16" alt="" src="/img/flags/gb.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;</span>©2011 <a href="http://about.bzzagent.com/word-of-mouth/company" class="white">BzzAgent</a>, Inc., All Rights Reserved</p>
 				
 				
 			
@@ -818,7 +826,7 @@ Boston, MA 02110<br>
 
 
 
-    <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe id="f2a2af14e542828" name="f1786168f810178" class="FB_UI_Hidden" src="https://web.archive.org/web/20100926051154/http://www.facebook.com/extern/login_status.php?api_key=20441684670&amp;channel_url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100926051154%2Fhttp%3A%2F%2Fstatic.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%23cb%3Df1a3f226969dc6c%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ffdd0b6d53c8a2c%26relation%3Dparent.parent%26transport%3Dpostmessage&amp;display=hidden&amp;extern=2&amp;locale=en_US&amp;method=auth.status&amp;next=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100926051154%2Fhttp%3A%2F%2Fstatic.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%23cb%3Df3863c98c13495%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ffdd0b6d53c8a2c%26relation%3Dparent%26transport%3Dpostmessage%26frame%3Df266f290ac103d4%26result%3D%2522xxRESULTTOKENxx%2522&amp;no_session=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100926051154%2Fhttp%3A%2F%2Fstatic.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%23cb%3Dfbb452d8890824%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ffdd0b6d53c8a2c%26relation%3Dparent%26transport%3Dpostmessage%26frame%3Df266f290ac103d4%26result%3DxxRESULTTOKENxx&amp;no_user=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100926051154%2Fhttp%3A%2F%2Fstatic.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%23cb%3Dfac897c83d47f%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ffdd0b6d53c8a2c%26relation%3Dparent%26transport%3Dpostmessage%26frame%3Df266f290ac103d4%26result%3DxxRESULTTOKENxx&amp;ok_session=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100926051154%2Fhttp%3A%2F%2Fstatic.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%23cb%3Df198bed24dc3dd4%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ffdd0b6d53c8a2c%26relation%3Dparent%26transport%3Dpostmessage%26frame%3Df266f290ac103d4%26result%3DxxRESULTTOKENxx&amp;sdk=joey&amp;session_version=3" style="border: none; overflow: hidden;"></iframe></div></div></div>
+    <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe id="f3d4f3d34f58f1" name="f91b59d9897868" class="FB_UI_Hidden" src="https://web.archive.org/web/20100926051154/http://www.facebook.com/extern/login_status.php?api_key=20441684670&amp;channel_url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100926051154%2Fhttp%3A%2F%2Fstatic.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%23cb%3Df71684cb8cfee%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff1923e89543af84%26relation%3Dparent.parent%26transport%3Dpostmessage&amp;display=hidden&amp;extern=2&amp;locale=en_US&amp;method=auth.status&amp;next=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100926051154%2Fhttp%3A%2F%2Fstatic.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%23cb%3Df1eb85ad556fe68%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff1923e89543af84%26relation%3Dparent%26transport%3Dpostmessage%26frame%3Df1ef4c338388188%26result%3D%2522xxRESULTTOKENxx%2522&amp;no_session=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100926051154%2Fhttp%3A%2F%2Fstatic.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%23cb%3Df247d573fa246b4%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff1923e89543af84%26relation%3Dparent%26transport%3Dpostmessage%26frame%3Df1ef4c338388188%26result%3DxxRESULTTOKENxx&amp;no_user=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100926051154%2Fhttp%3A%2F%2Fstatic.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%23cb%3Df3d01077077be08%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff1923e89543af84%26relation%3Dparent%26transport%3Dpostmessage%26frame%3Df1ef4c338388188%26result%3DxxRESULTTOKENxx&amp;ok_session=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100926051154%2Fhttp%3A%2F%2Fstatic.ak.fbcdn.net%2Fconnect%2Fxd_proxy.php%23cb%3Df318f2bc380d7e8%26origin%3Dhttps%253A%252F%252Fweb.archive.org%252Ff1923e89543af84%26relation%3Dparent%26transport%3Dpostmessage%26frame%3Df1ef4c338388188%26result%3DxxRESULTTOKENxx&amp;sdk=joey&amp;session_version=3" style="border: none; overflow: hidden;"></iframe></div></div></div>
     <script type="text/javascript" src="/js/fb_sdk.js"></script>
     <script type="text/javascript" src="/dwr/interface/FacebookAjax.js"></script>
 
@@ -829,16 +837,7 @@ Boston, MA 02110<br>
 
     var permission_callback = function(){};
     var never_more = false;
-    var sdk_hack_needed = true;
     function doFbStreamPost(msg, att, links, target, prompt, cb){
-        if (sdk_hack_needed){
-            origPostTarget = FB.Content.postTarget;
-            FB.Content.postTarget = function(opts) {
-                    opts.params = FB.JSON.flatten(opts.params);
-                    origPostTarget(opts);
-            };
-            sdk_hack_needed = false;
-        }
         permission_callback = function() {
             FB.ui( { method: 'stream.publish',
                 message: msg,
@@ -847,7 +846,7 @@ Boston, MA 02110<br>
                 target_id: target,
                 user_prompt_message: prompt},
                 function(response){
-                    cb(response ? response.post_id : null, null, response ? response.data : []);
+                    cb(response ? response.post_id : null, null, null);
                 });
             };
         
@@ -884,7 +883,7 @@ Boston, MA 02110<br>
     $j('.facebookLoginButton').css('visibility', 'visible');
     FB.Event.subscribe('auth.sessionChange', function(response) {
         if (response.session) {
-            if (typeof connect_login == 'function') { connect_login(); }
+            // if (typeof connect_login == 'function') { connect_login(); }
         } else {
             FacebookAjax.validateFbSession(function(val){
                     if(!val) window.location.reload();
@@ -902,6 +901,7 @@ Boston, MA 02110<br>
     });
     </script>
     
+
 
 
 
