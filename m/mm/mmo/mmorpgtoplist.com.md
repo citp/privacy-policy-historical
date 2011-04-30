@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmorpgtoplist.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126055306id_/http%3A//www.mmorpgtoplist.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmorpgtoplist.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430162437id_/http%3A//www.mmorpgtoplist.com/privacypolicy.php) for the most accurate reproduction.*
 
 # MmorpgTopList.com - mmorpg top list
 
