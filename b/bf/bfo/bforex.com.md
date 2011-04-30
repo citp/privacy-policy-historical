@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bforex.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019010439id_/http%3A//bforex.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bforex.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430182934id_/http%3A//www.bforex.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,9 +42,11 @@ Should you choose to have your name and personal data removed from our database,
 
 Any amendments to our privacy policy that affect the personal information of users collected on our website will be notified to the users, within a reasonable time, via email. Users will have a choice whether or not we use the information in a different manner. Any amendments made by us that do not affect personal information will be posted on our website.
 
-Whether you wish to talk to us about our privacy policy or any other issue, the professional team at bforex is available to assist you 24/7. Please feel free to contact us via e-mail, phone, fax and postal address. You can also or use our chat facility to IM a customer service representative.
+Whether you wish to talk to us about our privacy policy or any other issue, the professional team at bforex is available to assist you 24/7. Please feel free to contact us via e-mail, phone, fax and mailing address. You can also or use our chat facility to IM a customer service representative.
 
-Address: 29 Route de Pré-Bois  
+Mailing Address: 
+
+29 Route de Pré-Bois  
 CH - 1215 Geneva 15.  
 Switzerland 
 
