@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogstash.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218032235id_/http%3A//www.blogstash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogstash.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430225751id_/http%3A//www.blogstash.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ways To Make Money Online
+# Privacy Policy
 
 Privacy Policy for www.BlogStash.com
 
@@ -19,3 +19,5 @@ If you don’t like the way your information are stored and used, you can manual
 If you would like more information, or have any questions about the privacy policy of BlogStash.com, please feel free to contact me at **satrap@blogstash.com**. Thank you for vising BlogStash.com. and I hope you enjoy reading my posts.
 
 Satrap
+
+* * *
