@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebgames.com.au privacy policy that was archived on 2010-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com.au privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EB Games Australia
 
@@ -16,7 +16,7 @@ If we ask you for personal information for a secondary reason, like contests, we
 
 We may ask you to give your consent, such as by checking a box to indicate your consent to receive marketing communications, or by providing your signature to indicate your acceptance of the use and disclosure terms presented on an application form.  Other times, we may obtain your consent implicitly when we can reasonably conclude that you’ve given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you. 
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
 
 **How to Change or Withdraw Your Consent**
 
@@ -26,7 +26,7 @@ If you have "opted in" or subscribed to one of our newsletters or mailing lists,
 
 When you choose to provide us with your personal information, you consent to the use and disclosure of your personal information as stated in this Privacy Policy and as may be further stated at the time of collection. 
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
 
 **Information That We Collect About Customers**
 
@@ -52,7 +52,7 @@ Automatic Collection of Information: Through interaction with our website, we wi
 
 The information we receive or can determine from your interaction with our website includes your Internet (IP) address; login and password information; e-mail address; web browser type and version; operating system and computer platform; purchase history, which we may aggregate with similar information from other customers; the full Uniform Resource Locator (URL) click stream to, through, and from our website, including date and time; cookie number; products you viewed or searched for; areas of our website you visited. We also may log the length of time of your visit and the number of times you visit and purchase from us. We assign you a unique internal identifier to help keep track of your future visits.
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
 
 **Information EB Games Collects Directly from You**
 
@@ -78,7 +78,7 @@ E-mail Communications: We provide email links on our "Contact Us" page that allo
 
 Information from Other Sources: If we receive any information about you from other sources, we may add it to our account information. For example, if we receive a list of subscribers to a gaming publication, and we note that you are a subscriber, we may include that information in the account information that we store about you.   We also may receive page-view information from business partners who operate their own websites or for which we provide any services, or search term and search result information from searches conducted through the website.
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
 
 **How We Use Your Personal Information**
 
@@ -95,7 +95,7 @@ To limit the possibility of fraud or error when we process your transactions, re
 To administer rebates   
 To conduct contests, promotions or surveys 
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
 
 **We also use your personal information for other, secondary reasons, including**
 
@@ -108,7 +108,7 @@ If you ask us, to offer and promote additional products and services we offer
 For other purposes as described in this Privacy Policy  
 As otherwise provided or required by law
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
 
 **An Explanation of "Cookies"**
 
@@ -126,7 +126,7 @@ Data on Returned Product – if you return products that may contain stored or r
 
 We May Supplement Information - From time to time we may supplement information you give us with information from other sources, such as information validating your address or other available information you have provided to us. This is to help us maintain the accuracy of the information we collect and to help us provide better service.
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
 
 **Sharing of Information**  
 
@@ -144,7 +144,7 @@ Sale or Transfer of Business or Assets of EB Games - Any information we have abo
 
 Legal Disclosure - EB Games may disclose your information as permitted or required by law. For example, we may be compelled to release information by a court of law or other person or entity with jurisdiction to compel production of such information. If we have reasonable grounds to believe information could be useful in the investigation of improper or unlawful activity, we may disclose information to law enforcement agencies or other appropriate investigative bodies. 
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
 
 **How does EB Games Protect Your Information?**
 
@@ -159,7 +159,7 @@ VeriSign Certification - Our websites have received a VeriSign certificate to co
 
 Choosing a Password - When you create an online account on our websites, you will be prompted to select a personal password. To maximize your level of protection, you should choose a strong personal password, which means that you should use at least 6 characters including a combination of both letters and numbers. You are solely responsible for maintaining the secrecy of your password and any account information. EB Games will never send an unsolicited communication asking you for your password or requesting that you update your account credentials.
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
 
 **Accessing and Verifying Your Personal Information**
 
@@ -167,19 +167,19 @@ You are legally entitled to know what personal information an organisation holds
 
 If you created an account on one of our websites, you can access and change your online account profile yourself. You can also ask to review any of the information that we have retained, how we have used it, and to whom we have disclosed it at any time by contacting us as indicated below under the heading “Contacting EB Games”. 
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
 
 **When is Your Information Removed?**
 
 We keep your information only as long as we need it for legitimate business purposes and to meet any legal requirements. We have retention standards that meet these parameters. We destroy your information when it is no longer needed, or we remove your personally identifiable information to render it anonymous.
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
 
 **We May Change These Terms**
 
 Whether or not you have viewed our terms and conditions of use of this website, or this privacy notice, and whether or not you have chosen to not receive notices from us, those terms and notices will still govern your use of ebgames.com.au or ebgames.co.nz. We may update or change our terms of use and this privacy notice at any time and from time to time, as we determine is appropriate. It is your responsibility to review them for changes.
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
 
 **Contacting EB Games**
 
@@ -200,6 +200,6 @@ Facsimile: + 61 73860 7710 
 
 All prices in Australian Dollars.  
 
-[View our Terms and Conditions of Use](https://web.archive.org/web/20100701173633id_/http%3A//terms)
+[View our Terms and Conditions of Use](https://web.archive.org/web/20110430150201id_/http%3A//terms)
 
-[Return to Top](https://web.archive.org/web/20100701173633id_/http%3A//www.ebgames.com.au/privacy)
+[Return to Top](https://web.archive.org/web/20110430150201id_/http%3A//www.ebgames.com.au/privacy)
