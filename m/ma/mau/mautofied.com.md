@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mautofied.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222180151id_/http%3A//www.mautofied.com/info/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mautofied.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430113747id_/http%3A//www.mautofied.com/info/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ This is the web site of Mautofied, Inc.
 
 Our postal address is 
 
-1407 N. Batavia Suite 103
+1407 N. Batavia Suite 203
 
 Orange, CA 92867
 
@@ -36,6 +36,8 @@ Consumers can have this information corrected by visiting us at http://www.mauto
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.networkadvertising.org/managing/opt_out.asp">click here</a>.
+Mautofied.com does not allow third party businesses to solicit users on the site. If any third party business or entity solicits users using email, phone, or any other means of contact from the information in their listing, they are in direct violation of this policy and legal recourse is available. If you are being solicited by a business or entity through your contact information on Mautofied.com please email: help@mautofied.com with all details of the solicitation. We have a zero tolerance policy for this type of action.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number or admin@mautofied.com.
