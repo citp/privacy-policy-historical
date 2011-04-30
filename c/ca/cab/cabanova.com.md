@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cabanova.com privacy policy that was archived on 2010-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100511143329id_/http%3A//www.cabanova.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabanova.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430141031id_/http%3A//www.cabanova.com/page/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Cabanova
 
 This privacy policy sets out how Cabanova GmbH uses and protects any information that you give Cabanova GmbH when you use this website.
 
