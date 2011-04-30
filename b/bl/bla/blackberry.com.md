@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the blackberry.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307044842id_/http%3A//na.blackberry.com/eng/legal/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackberry.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430192852id_/http%3A//na.blackberry.com/eng/legal/privacy_policy.jsp) for the most accurate reproduction.*
 
-# BlackBerry - BlackBerry | BlackBerry.com Privacy Policy from Research in Motion (RIM)
+# BlackBerry - BlackBerry.com Privacy Policy from Research In Motion (RIM)
 
-  * [Printer Friendly Version](https://web.archive.org/web/20100307044842id_/http%3A//na.blackberry.com/eng/legal/privacy_policy.htm)
-  * [Downloadable Version](https://web.archive.org/web/20100307044842id_/http%3A//na.blackberry.com/eng/legal/RIM_Privacy_Policy.pdf) (PDF)
+  * [Printer Friendly Version](https://web.archive.org/web/20110425154836id_/http://us.blackberry.com/legal/privacy_policy.htm)
+  * [Downloadable Version](https://web.archive.org/web/20110425154836id_/http://us.blackberry.com/legal/RIM_Privacy_Policy.pdf) (PDF)
 
 
 
