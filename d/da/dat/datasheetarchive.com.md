@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the datasheetarchive.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124145438id_/http%3A//www.datasheetarchive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasheetarchive.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430222700id_/http%3A//www.datasheetarchive.com/privacy.html) for the most accurate reproduction.*
 
 # Advertising Cookie and Privacy Policies | Datasheet Archive
 
-  | 
+    | 
 
 [Datasheet Archive Home](http://www.datasheetarchive.com/ "Datasheet Archive")
 
