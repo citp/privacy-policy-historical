@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cmt.com privacy policy that was archived on 2010-10-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101001204317id_/http%3A//www.cmt.com/interact/terms/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cmt.com privacy policy that was archived on 2011-04-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110430103438id_/http%3A//www.cmt.com/interact/terms/privacy.jhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 
@@ -23,14 +23,31 @@ var sections="&portal=interact&section_1=terms";
 <script type="text/javascript" src="http://btg.mtvnservices.com/aria/coda.html?site=cmt.com"></script>
 <script type="text/javascript">
 /* ad reload rules and configuration */
-if ((location.href != "http://www.cmt.com/") && 
-(location.href != "http://www.cmt.com/index.jhtml") && 
-(location.href.indexOf("http://www.cmt.com/cmt-music-awards/") < 0) && 
-(location.href.indexOf("http://blog.cmt.com/") < 0) && 
-(location.href.indexOf("testmode") < 0)) {
-mtvn.btg.config.AdSettings.reloadableAds=true;
+var isAdReloading = true;
+if ((location.hostname == "www.cmt.com" || 
+location.hostname == "stage.cmt.com" ||
+location.hostname == "posting.cmt.com" ||
+location.hostname == "www.cmt-d.mtvi.com" ||
+location.hostname == "www.cmt-q.mtvi.com" ||
+location.hostname == "www.cmt-jd.mtvi.com" ||
+location.hostname == "www.cmt-jq.mtvi.com") &&
+(location.pathname == "/" ||
+location.pathname == "/index.jhtml" || 
+location.pathname.indexOf("/cmt-music-awards/") >= 0 ||
+location.pathname.indexOf("/music/radio/") >= 0
+)
+) {
+isAdReloading = false;
 }
-mtvn.btg.config.AdSettings.reloadInterval=210000;
+if (location.href.indexOf("http://blog.cmt.com/") >= 0) {
+isAdReloading = false;
+}
+if (location.href.indexOf("testmode") >= 0) {
+isAdReloading = false;
+}
+
+mtvn.btg.config.AdSettings.reloadableAds=isAdReloading;
+mtvn.btg.config.AdSettings.reloadInterval=150000;
 mtvn.btg.Controller.init(); 
 mtvn.btg.config.AdSettings.DoubleClick["positionThreshold"] = '3';
 mtvn.btg.config.AdSettings.DoubleClick.autoDcopt=true;
@@ -106,8 +123,6 @@ var $j = jQuery;
 <script type="text/javascript" src="/sitewide/scripts/common.js"></script>
 <script type="text/javascript" src="/sitewide/scripts/flipbook.js"></script>
 <script type="text/javascript" src="http://www.rhapsody.com/simple.js"></script>
-
-<script type="text/javascript" src="http://www.mtv.com/global/scripts/special/projx.jhtml?channelname=CMT"></script>
 
 
 <script language="javascript">
@@ -222,7 +237,7 @@ Browse Artists<br>
 </div><!-- searchbar -->
 
 <!-- menubar -->
-<div id="header_menu_container"><div id="menu_links"><a href="/video/">Videos</a>&nbsp;&nbsp;+&nbsp;&nbsp;<a href="/photos/">Photos</a>&nbsp;&nbsp;+&nbsp;&nbsp;<a href="/music/radio/">Radio</a>&nbsp;&nbsp;+&nbsp;&nbsp;<a href="/music/lyrics/">Lyrics</a></div><ul id="header_menu"><li><a class="top" href="/news/">News</a></li><li><a class="top trigger" href="/music/">Music</a><ul><li><a href="/music/lyrics/">Lyrics</a></li><li><a href="/music/tours/">Tours</a></li><li><a href="/music/unplugged/">Unplugged</a></li><li><a href="/artists/browse/a.jhtml">Browse Artists A-Z</a></li></ul></li><li><a class="top trigger" href="/shows/">TV</a><ul><li><a href="/shows/schedule/">TV Schedule</a></li></ul></li><li><a class="top" href="/music/radio/">Radio</a></li></ul></div>
+<div id="header_menu_container"><div id="menu_links"><a href="/video/">Videos</a>&nbsp;&nbsp;+&nbsp;&nbsp;<a href="/photos/">Photos</a>&nbsp;&nbsp;+&nbsp;&nbsp;<a href="/music/radio/">Radio</a>&nbsp;&nbsp;+&nbsp;&nbsp;<a href="/music/lyrics/">Lyrics</a></div><ul id="header_menu"><li><a class="top" href="/">Home</a></li><li><a class="top trigger" href="/news/">News</a><ul><li><a href="/news/">News Main</a></li></ul></li><li><a class="top trigger" href="/music/">Videos</a><ul><li><a href="/music/">Music Main</a></li><li><a href="/music/unplugged/">Unplugged</a></li><li><a href="/artists/browse/a.jhtml">Browse Artists A-Z</a></li></ul></li><li><a class="top trigger" href="/shows/">TV</a><ul><li><a href="/shows/">Shows Main</a></li><li><a href="/shows/schedule/">TV Schedule</a></li></ul></li><li><a class="top trigger" href="/music/radio/">Radio</a><ul><li><a href="/music/radio/">Radio Main</a></li></ul></li></ul></div>
 
 </div><!-- header -->
 
@@ -467,7 +482,7 @@ E-commerce on this website is brought to you by MTVN Direct Inc.
 <td width="39%" align="right" class="copyright_border">
 <p class="copyright">
 <a href="/interact/terms/">Terms of Use</a> | <a href="https://jobhuntweb.viacom.com/jobhunt/main/jobhome.asp">Job Opportunities</a><br>
-<a href="/interact/terms/privacy.jhtml">Privacy Statement</a> | <a href="/interact/terms/user_content.jhtml">User Generated Content Statement</a> <a href="/interact/terms/copyright_compliance_policy.jhtml">Copyright Compliance Policy</a> | Updated 10/18/09.
+<a href="/interact/terms/privacy.jhtml">Privacy Statement</a> | <a href="/interact/terms/user_content.jhtml">User Generated Content Statement</a> <a href="/interact/terms/copyright_compliance_policy.jhtml">Copyright Compliance Policy</a> | Updated 09/02/10.
 </p>
 </td>
 </tr>
@@ -476,7 +491,7 @@ E-commerce on this website is brought to you by MTVN Direct Inc.
 
 <img src="/sitewide/assets/img/logos/mtvn_logo_dark.gif" width="129" height="24" border="0" alt="MTV Networks">
 
-© 2010 MTV Networks,© and TM <a href="/interact/help/help_mtvn_info.jhtml">MTV Networks</a>. All Rights Reserved.
+© 2011 MTV Networks,© and TM <a href="/interact/help/help_mtvn_info.jhtml">MTV Networks</a>. All Rights Reserved.
 </div>
 
 </div><!-- footer -->
@@ -502,7 +517,7 @@ if (isNaN(document.axel)) {document.axel = Math.random() + ""; ord = document.ax
 // new survey ad
 var ad='<' + 'script type="text/javascript" src="http://ad.doubleclick.net/adj/country.mtvi/survey;section_0=' + section_0 + ';' + sec1 + keyVals + ';!category=' + exCat + ';research=survey;sz=1x2;ord=' + ord + '?"><'+'/script>';
 document.write(ad);
-</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/country.mtvi/survey;section_0=interact;;portal=interact;section_1=terms;pageName=privacy;!category=community;research=survey;sz=1x2;ord=950115567122408000?"></script>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/country.mtvi/survey;section_0=interact;;portal=interact;section_1=terms;pageName=privacy;!category=community;research=survey;sz=1x2;ord=418666573058976060?"></script>
 </div>
 
 
