@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stockpilingmoms.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231003135id_/http%3A//www.stockpilingmoms.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpilingmoms.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430220904id_/http%3A//www.stockpilingmoms.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-If you are new here and never want to miss out on another deal or freebie, you may want to sign up for our FREE updates via [EMAIL](http://feedburner.google.com/fb/a/mailverify?uri=stockpilingmom/Fdkx&loc=en_US) or [RSS](http://www.stockpilingmoms.com/feed) feed. Another way to keep up with us is through [facebook](http://www.facebook.com/StockpilingMoms) and [twitter](http://twitter.com/stockpilingmoms). Thanks for visiting! 
 
 The privacy of our visitors to StockpilingMoms.com is important to us.
 
@@ -23,6 +21,6 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-[](http://www.linkwithin.com/) _If you enjoyed this post, make sure you[subscribe to my RSS feed](http://www.stockpilingmoms.com/feed)!_
+[](http://www.linkwithin.com/)
 
 Tagged as: [Privacy Policy](http://www.stockpilingmoms.com/tag/privacy-policy)
