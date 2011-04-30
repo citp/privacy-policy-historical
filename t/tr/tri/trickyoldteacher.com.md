@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trickyoldteacher.com privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817073338id_/http%3A//www.longbucks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trickyoldteacher.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430183850id_/http%3A//www.longbucks.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
