@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230173514id_/http%3A//www.speedwaymotors.com/privacypolicy.dlp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedwaymotors.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430084650id_/http%3A//www.speedwaymotors.com/privacypolicy.dlp) for the most accurate reproduction.*
 
-# Privacy and Security Policy - Speedway Motors
+# Privacy and Security Policy - Speedway Motors, America's Oldest Speed Shop
 
 What personally identifiable information is being collected?  
 You may be asked to provide us with personally identifiable information when you visit the Speedway Motors website in order for us to provide you with the products or services that you have requested. For example, when you order a product we may ask you to become a registered user of our site. You will be asked for your shipping and billing addresses, your email address, and your credit card number or other payment-related information. If you request one of our newsletters or send an inquiry to one of our customer service representatives we will store a record of your request along with your email address. Additionaly, our Web servers track various technical details about your visit, such as your computer's IP address and which pages you visited. That information does not typically contain any personally identifiable information about you.
