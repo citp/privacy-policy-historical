@@ -1,8 +1,13 @@
-> *The following text is extracted and transformed from the discoverybenefits.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122130018id_/http%3A//discoverybenefits.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverybenefits.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430160844id_/http%3A//discoverybenefits.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Discovery Benefits
+# Privacy Policy | Discovery Benefits
+
+**Privacy Statement  
+**
 
 Discovery Benefits recognizes that the cornerstone of our success is the trust and confidence of our customers. We are dedicated to protecting the information we collect, maintain and use to provide services for you. To help you better understand our commitment to protecting your personal information, we are providing you with the following notice describing our practice with respect to the privacy and confidentiality of customer information.
+
+**Protecting your Information:**
 
 We work to protect your personal information from loss, misuse, or unauthorized alteration by using industry-recognized security safeguards, coupled with carefully developed security procedures and practices. We maintain physical, electronic and procedural safeguards that comply with applicable laws and federal standards. We use both internal and external resources to review our security procedures. Your sensitive information is encrypted when it is transmitted to us. Our employees are trained and required to safeguard your information.
 
@@ -24,17 +29,21 @@ We have established procedures to ensure that your information is accurate, curr
 
 We continue to provide this notice at the frequency required by law and will notify customers of any modification at least annually. Updates will be provided electronically through the web site as changes are made. We will continue to follow the policies set forth in this notice even when a customer relationship no longer exists. However, that party will no longer receive an annual notice.
 
+**Information We Collect:**
+
 We collect personal information such as your name, billing address, e-mail, and phone number when you interact with us to use our products.
 
 We collect personal information to deliver or allow access to our products and services.
 
 We collect information about your system as it interacts with us such as your IP address and browser information.
 
-We use common internet technologies, such as cookies and Web beacons to manage our Web sites and services, advertising and e-mail programs.
+We use common Internet technologies, such as cookies and Web beacons to manage our websites and services, advertising and e-mail programs.
 
 We collect user feedback, community discussions, chats and other interactions, such as surveys.
 
 We may obtain additional information about you, such as demographic information, from commercially available sources.
+
+**Uses:**
 
 We do not sell or rent your personal information to anyone for promotional or marketing purposes.
 
@@ -46,9 +55,4 @@ We summarize information about you and we also combine that information with tha
 
 We may use service companies to help provide you products and services who are not allowed to use your information for their own purposes.
 
-Contact us with your question by calling 866-451-3399 or use [this](https://web.archive.org/web/20101122130018id_/http%3A//discoverybenefits.com/contactus.aspx) contact form.
-
-Privacy Team  
-Discovery Benefits  
-3216 13th Avenue S.  
-Fargo, ND 58103
+**Effective Date: August 1, 2010**
