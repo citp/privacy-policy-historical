@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005554id_/http%3A//wdwinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wdwinfo.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430192437id_/http%3A//wdwinfo.com/privacy.htm) for the most accurate reproduction.*
 
 # DIS - Privacy Policy
 
@@ -57,7 +57,8 @@ In compliance with the **Children's Online Privacy Act** , we affirm the followi
 
 **Contact Information:**
 
-Peter Werner, President  
+Corey Martin, President  
+Peter Werner, Owner  
 Werner Technologies, LLC.  
 424 E. Central Blvd 324  
 Orlando, Fl 32801  
