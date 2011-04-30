@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the humtum18.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230143813id_/http%3A//www.humtum18.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humtum18.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430230301id_/http%3A//www.humtum18.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Worldwide News & National News
+# Privacy Policy | HumTum18.Com
 
 **Privacy Policy for www.HumTum18.com**
 
