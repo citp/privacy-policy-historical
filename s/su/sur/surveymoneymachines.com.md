@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the surveymoneymachines.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921112216id_/http%3A//www.surveymoneymachines.com/main.php%3Fpage%3Dprivacy_policy%26id%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveymoneymachines.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430103355id_/http%3A//www.surveymoneymachines.com/privacy-policy) for the most accurate reproduction.*
 
-# Survey Money Machine -
-
-## PRIVACY POLICY
+# Survey Money Machines - Privacy Policy
 
 **What information do we collect?**
 
@@ -18,13 +16,13 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-• To personalize your experience  
+��To personalize your experience  
 (your information helps us to better respond to your individual needs)
 
-• To improve our website  
+��To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-• To send periodic emails
+��To send periodic emails
 
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
@@ -76,24 +74,23 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
 
-This policy was last modified on **July 16, 2010**
+This policy was last modified on **December 9, 2010**
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-www.surveymoneymachines.com  
-3901 Legacy Dr. Ste A-119  
-Plano, TX 75023  
+surveymoneymachines.com  
+7800 Preston Rd.  
+Plano, TX 75024  
 USA  
-hailey surveymoneymachines.com  
+hailey[at]www.surveymoneymachines.com  
 972-275-9610
 
 **Privacy Policy Customer Pledge**
 
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
 Federal Trade Commision Fair  
-California Online Privacy Protection Act  
 Childrens Online Privacy Protection Act  
 Privacy Alliance  
 Controlling the Assault of Non-Solicited Pornography and Marketing Act
