@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prophpbb.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208150846id_/http%3A//www.prophpbb.com/privacy.hml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophpbb.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430131245id_/http%3A//www.prophpbb.com/privacy.hml) for the most accurate reproduction.*
 
 # Privacy Policy - Free Forum Hosting
 
