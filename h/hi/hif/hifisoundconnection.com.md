@@ -1,30 +1,20 @@
-> *The following text is extracted and transformed from the hifisoundconnection.com privacy policy that was archived on 2010-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100825093836id_/http%3A//www.hifisoundconnection.com/Shop/Control/fp/SFV/30046/view_page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hifisoundconnection.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430212719id_/http%3A//www.hifisoundconnection.com/Shop/Control/fp/SFV/30046/view_page/privacy) for the most accurate reproduction.*
 
-# HiFiSoundConnection.com - Privacy Policy
+# Privacy Policy - HiFiSoundConnection
 
-|   
----  
-| [Car Audio](https://web.archive.org/Shop/Control/fp/cat/27457/SFV/30046)  
-| [Car Audio Accessories](https://web.archive.org/Shop/Control/fp/cat/39853/SFV/30046)  
-| [Closeouts](https://web.archive.org/Shop/Control/fp/cat/365922/SFV/30046)  
-| [Home Theater](https://web.archive.org/Shop/Control/fp/cat/221016/SFV/30046)  
-| [Home Theater Accessories](https://web.archive.org/Shop/Control/fp/cat/110242/SFV/30046)  
-| [Marine Audio](https://web.archive.org/Shop/Control/fp/cat/40263/SFV/30046)  
-| [Mobile Video](https://web.archive.org/Shop/Control/fp/cat/28092/SFV/30046)  
-| [Pro Audio](https://web.archive.org/Shop/Control/fp/cat/355017/SFV/30046)  
-| [Pro Lighting](https://web.archive.org/Shop/Control/fp/cat/363452/SFV/30046)  
-| [Satellite Radio](https://web.archive.org/Shop/Control/fp/cat/40302/SFV/30046)  
   
-[Reviews, Guides  
-& How-To's](http://www.hifisoundconnection.com/Shop/Control/fp/SFV/30046/view_page/Reviews_Guides_How-Tos)
 
-[](http://www.hifisoundconnection.com/Shop/Control/fp/cat/269876/SFV/30046/set_num/2)
 
-[](http://www.hifisoundconnection.com/Shop/Control/fp/cat/270010/SFV/30046/set_num/2)
+[](http://www.hifisoundconnection.com/Shop/Control/fp/cat/269876/SFV/30046/set_num/2 "Kicker Sale Banner")
+
+[](http://www.hifisoundconnection.com/Shop/Control/fp/cat/270010/SFV/30046/set_num/2 "ipod Sale banner")
 
 | 
 
-|  **Privacy Statement for hifisoundconnection.com**  
+|  |  |  |  |    |   
+---|---  
+  
+**Privacy Statement for hifisoundconnection.com**  
 HiFiSoundconnection.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: hifisoundconnection.com 
 
   * Our site uses cookies to keep track of your shopping cart. 
@@ -50,7 +40,4 @@ HiFiSoundconnection.com has created this privacy statement in order to demonstra
 
   
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [**sales@hifisoundconnection.com**](mailto:sales@hifisoundconnection.com)  
-  
-|    
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [**sales@hifisoundconnection.com**](mailto:sales@hifisoundconnection.com)
