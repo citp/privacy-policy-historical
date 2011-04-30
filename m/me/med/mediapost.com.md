@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212074307id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430221248id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
 
 # MediaPost - news and directories for media, marketing and online advertising professionals
 
@@ -64,9 +64,7 @@ Domestic (USA only) shipping charges for the monthly print magazines are include
 |  **MediaPost Communications**  
 15 East 32nd Street  
 7th floor  
-New York, NY 10016  
-Phone: (212) 204-2000  
-Fax: (212) 204-2038
+New York, NY 10016
 
 **Kenneth Fadner**  
 Chairman, Publisher  
@@ -74,42 +72,37 @@ Chairman, Publisher
 
 **Jeff Loechner**  
 President  
-(212) 204-2001  
+(203) 293-6422  
 [jeff@mediapost.com](mailto:jeff@mediapost.com)
 
 **Joe Mandese**  
 Editor-in-Chief  
-(212) 204-2009  
 [joe@mediapost.com](mailto:joe@mediapost.com)
 
 **Seth Oilman**  
 Director, Online Media Sales  
-(212) 204-2012  
 [seth@mediapost.com](mailto:seth@mediapost.com)
 
 **Jon Whitfield**  
 Vice President, Events Sales  
-(212) 204-2025  
+(303) 263-7412  
 [jon@mediapost.com](mailto:jon@mediapost.com)
 
 **Elaine Wong**  
 Director, Conferences & Events  
-(212) 204-2035  
 [elaine@mediapost.com](mailto:elaine@mediapost.com)
 
 **Jonathan McEwan**  
 Creative Director  
-(212) 204-2015  
 [jonnymack@mediapost.com](mailto:jonnymack@mediapost.com)
 
 **Mark Kecko**  
 Technology Director  
-(212) 204-2002  
 [mark@mediapost.com](mailto:mark@mediapost.com)
 
 **Robert McEvily**  
 Director of Marketing  
-(212) 204-2019  
+(917) 301-9097  
 [rob@mediapost.com](mailto:rob@mediapost.com)  
   
 ---|---
