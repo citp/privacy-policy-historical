@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentacenter.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115165959id_/http%3A//www6.rentacenter.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentacenter.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430155734id_/http%3A//www6.rentacenter.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
