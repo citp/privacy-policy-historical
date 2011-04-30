@@ -1,61 +1,81 @@
-> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727135315id_/http%3A//www.newgrounds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newgrounds.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430140700id_/http%3A//www.newgrounds.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Newgrounds Wiki - Privacy Policy
 
-Newgrounds has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site, [Newgrounds.com](https://web.archive.org/).
+Newgrounds has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site, Newgrounds.com.
 
-#### Information Automatically Logged
+**Information Automatically Logged**
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you for online voting. If your account is linked to illegal activity or personal threats, your IP address will be made available to law enforcement personnel.
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you for online voting.
 
-#### Cookies
+**Cookies, Web Beacons, Flash Cookies and Web Logs**
 
-Our site uses cookies to store your login information if you choose to create an account and browse the site as a registered user.
+When you log into the site, we set a persistent cookie, which will allow us to recognize you as an existing registered user and avoid the need to log into the site again. You may clear these cookies in your browser after a session in which you have logged in.
 
-#### Third Party Advertising
+Our web pages may also contain an electronic file called a web beacon that allows us to count users who have visited that page or to access certain cookies.
+
+The Flash content on this site may contain Flash cookies put in place by the developers. These are used to store game save data and serve third party ads. We are not responsible for the use of these Flash cookies and do not share data with them.
+
+We use Google Analytics to automatically record information that your browser sends whenever you visit a website. This data is stored in files called web logs. These web logs may include information such as your Internet Protocol address, browser type, browser language, the site you came from, the next site you visit and cookies that may uniquely identify your browser.
+
+None of the data collected through web beacons, cookies, Flash cookies or web log data provides us with any personal information about you. We use this data on an aggregated basis to analyze how our users are interacting with the site and to customize your experience. If you are logged in to the site, we could associate information about your site usage that is collected by cookies, web beacons and web logs with your user account. However, we don't do this on an individual basis other than in cases of suspected abuse or illegal behavior. See our policy below about Investigating Abuse.
+
+**Third Party Advertising**
 
 Ads appearing on this website are delivered to you by CPM Star, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site.
 
 CPM Star or other advertising companies we deal with may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-####  Advertisers & Third Party Cookies
+**Advertisers & Third Party Cookies**
 
 In the course of serving advertisements to this site, our third-party ad servers, their affiliates, or individual advertisers may place or recognize a unique cookie on your browser. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-#### Registration Forms
+**Registration Forms**
 
 Our site's registration form requires users to give us contact information (like their name, email address), unique identifiers (like their email address), and demographic information (such as their zip code or age). Contact information from these forms is used to get in touch with the customer when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
 Unique identifiers (such as email address) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. If your account is linked to illegal activity or personal threats, your registration info will be made available to law enforcement personnel.
 
-#### Order Forms
+We do not collect home and / or cell phone numbers.
 
-Our site uses an order form for customers to request information, products, and services. We may collect contact information (such as their email address) from these forms to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the Choice/Opt-Out section below.
+**Order Forms**
 
-#### Contests
+Our site uses an order form for customers to purchase items from our store. We collect contact information (such as email address) from these forms to get in touch with the purchaser when necessary. We collect mailing addresses for shipping purposes. None of this information is shared with third parties.
+
+Credit card information is processed via secure server and not saved on our servers. Newgrounds is verified by [Verisign](https://www.verisign.com/) as a trusted vendor.
+
+If you are logged in when purchasing from the store, your order history will be saved. You may choose to make individual purchases public on your user page. You may also place orders without creating an account.
+
+**Contests**
 
 We run contests on our site in which we ask visitors for contact information. This information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-#### External Links
+**External Links**
 
 This site contains links to other sites. Newgrounds is not responsible for the privacy practices or the content of such Web sites.
 
-#### Public Forums
+**Public Forums**
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-#### Children's Guidelines
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. Children's Guidelines
 
 This site DOES NOT MEET the Online Privacy Protection Act guidelines. This site has links that are unsuitable for children.
 
-#### Choice/Opt-Out
+**Special Rules for Children**
 
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. This may be done from the [account options page](https://web.archive.org/account/).
+Children under the age of 13 are not eligible to become registered users. If you are under 18, we also ask that you not include any personal information in your user profile (such as your name, city or date of birth) or in your posts on the site.
 
-#### Data Quality/Access
+**Investigating Potential Abuse**
 
-This site gives users the option of changing and modifying information previously provided. This may be done from the [account options page](https://web.archive.org/account/).
+We may use any information provided to us by a user, including personally identifiable information, along with any data gathered from our web logs and from third parties to conduct investigations, and we may disclose this information to third parties, including law enforcement officials, investigators, or private parties seeking to protect and enforce their rights; if we have a good faith belief that it is necessary to comply with a court order, judicial proceeding, legal process, subpoena or warrant; we have a good faith belief that it is necessary to exercise our legal rights or defend against legal claims; or we believe that your actions violate the law or our Terms of Use or threaten the rights, property, or safety of our company, our users, or others.
 
-#### Contacting the Web Site
+**Choice/Opt-Out**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: [tom@newgrounds.com](mailto:tom@newgrounds.com).
+Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. This may be done from the [account options page](http://www.newgrounds.com/account/).
+
+**Data Quality/Access**
+
+This site gives users the option of changing and modifying information previously provided. This may be done from the [account options page](http://www.newgrounds.com/account/).
+
+**Contacting the Web Site**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: tom @ newgrounds.com. 
