@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizbuysell.com privacy policy that was archived on 2010-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100425044927id_/http%3A//www.bizbuysell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbuysell.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430182040id_/http%3A//www.bizbuysell.com/privacy.htm) for the most accurate reproduction.*
 
 # BizBuySell - The Internet's Largest Business for Sale Marketplace
 
@@ -12,7 +12,7 @@ BizBuySell is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an in
 
 
 
-Questions regarding this statement can be submitted via this [contact form](http://www.bizbuysell.com/cgi-bin/contactus?tc=t5 "Contact Form"). Alternatively, please contact us by mail at BizBuySell Administration -- Privacy Statement, 185 Berry Street, Suite 4000, San Francisco, CA 94107, or by telephone at (415) 284-4380. 
+Questions regarding this statement can be submitted via this [contact form](http://www.bizbuysell.com/cgi-bin/contactus?tc=t5 "Contact Form"). Alternatively, please contact us by mail at BizBuySell Administration -- Privacy Statement, 185 Berry Street, Suite 4000, San Francisco, CA 94107, or by telephone at 888-777-9892. 
 
 If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. For more information on TRUSTe, please go to [http://www.truste.org](http://www.truste.org/ "TRUSTe"). 
 
@@ -82,7 +82,7 @@ Users who do not wish to receive marketing emails including the BizBuySell Bulle
 
 You may correct or update your personally identifiable information by going to the area of the site where you submitted the information, and following the instructions to view, change or delete the information. 
 
-Credit card information submitted to BizBuySell is typically used for a one-time charge to your account, and subsequent orders for renewals require users to resubmit the credit information. (An exception: BrokerWorks Membership accounts and Franchise Directory advertising are automatically renewed each month, using the original credit information submitted.) Therefore, for added security, any credit card information submitted to BizBuySell is not accessible for review or modification by signing on to your ad. If you have questions regarding the credit card information used in ordering your products or services, please [contact us](http://www.bizbuysell.com/cgi-bin/contactus?tc=t5 "Contact Us") or at 415-284-4380. 
+Credit card information submitted to BizBuySell is typically used for a one-time charge to your account, and subsequent orders for renewals require users to resubmit the credit information. (An exception: BrokerWorks Membership accounts and Franchise Directory advertising are automatically renewed each month, using the original credit information submitted.) Therefore, for added security, any credit card information submitted to BizBuySell is not accessible for review or modification by signing on to your ad. If you have questions regarding the credit card information used in ordering your products or services, please [contact us](http://www.bizbuysell.com/cgi-bin/contactus?tc=t5 "Contact Us") or at 888-777-9892. 
 
 ##  Changes to this Privacy Statement: 
 
