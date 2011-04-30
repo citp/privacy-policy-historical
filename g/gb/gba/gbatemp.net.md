@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gbatemp.net privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201125302id_/http%3A//gbatemp.net/d78-gbatemp-net-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gbatemp.net privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430193158id_/http%3A//gbatemp.net/d78-gbatemp-net-privacy-policy) for the most accurate reproduction.*
 
 # GBAtemp.net -> The Free Independent Video Game Community: 3DS, NDS, Wii, GBA, PSP, Hacking, Dingoo, PS3, Xbox 360...
 
@@ -30,4 +30,4 @@ Privacy Policy information regarding Google advertisements that are displayed to
   * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
 
-
+Mmm, delicious cookies. 
