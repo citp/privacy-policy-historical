@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ads2india.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123222012id_/http%3A//www.ads2india.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads2india.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430180909id_/http%3A//www.ads2india.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy, Ads2india.com
 
@@ -28,7 +28,7 @@ We may disclose certain personal information as follows:
 
 \- to legal, financial, and other professional advisors or in connection with the sale or reorganization of all or part of its business or operations.
 
-\- By having your mobile number listed on ads2India.com, you agree to receive SMS from users who may wish to contact you through WebSite.
+\- By having your mobile number listed on ads2india.com, you agree to receive SMS from users who may wish to contact you through WebSite.
 
 Except as provided above, we will not use or disclose personal information for purposes other than those for which it was collected, except with the consent of the individual or as required or permitted by law.
 
@@ -56,4 +56,5 @@ Users of this Site may contact Ads2India to modify or correct any of their perso
 
 Contact Us
 
-If you have any questions about this Privacy Statement, our privacy practices in connection with this Site, or our collection, use, disclosure, or retention of your personal information in connection with this Site, please contact us at mail [at] Ads2India.com.
+If you have any questions about this Privacy Statement, our privacy practices in connection with this Site, or our collection, use, disclosure, or retention of your personal information in connection with this Site, please contact us at mail [at] Ads2India.com.  
+
