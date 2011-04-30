@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atoall.com privacy policy that was archived on 2010-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100115165608id_/http%3A//atoall.com/asp/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atoall.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430125547id_/http%3A//www.atoall.com/asp/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Atoall.com investment opportunity keyboard shortcuts
 
