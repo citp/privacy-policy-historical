@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 32red.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525015141id_/http%3A//www.32red.com/banking/32red-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32red.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430103217id_/http%3A//www.32red.com/banking/32red-privacy-policy.html) for the most accurate reproduction.*
 
 # 32Red Online Casino's Privacy Policy - 32Red Online Casino
 
@@ -42,6 +42,8 @@ We may require your personal information for access to certain parts of the Site
 
 We will validate name, address and other personal information supplied by you against appropriate third party databases. By accepting these terms and conditions you consent to such checks being made. In performing these checks personal information provided by you may be disclosed to a registered Credit Reference Agency which may keep a record of that information. You can rest assured that this is done only to confirm your identity, that a credit check is not performed and that your credit rating will be unaffected. All information provided by you will be treated securely and strictly in accordance with the Data Protection legislation.
 
+In order to assist us in processing your transaction where your credit card may have been declined, we receive further information from your bank about the reasons for this.  We use this information to facilitate completion of your transaction so that we can provide our service to you. We do not use this information for any other purposes.
+
 Generally, when our third-party contractors or partners collect and/or have access to your personal information we require that they adhere to our stated privacy policies and protect the confidentiality of your personal information.
 
 32Red Online Casino may elect to share your personal information with qualified third-party partners for marketing or other similar purposes but only where you agree to share such information. Such partners will be prohibited from disclosing or using such information except for the limited purposes which the users have consented to. 
@@ -66,4 +68,4 @@ Please remember that protection of your privacy begins with you. You are solely 
 
 Corrections, Updates and Removal of Information If you are concerned with the accuracy of the personal information provided by you and maintained by 32Red or would like your personal information removed from 32Red' records, you may use the tools made available on the Site to update or remove such information. 32Red reserves the right to charge a reasonable fee for supplying copies of such information. If you choose to delete your personal information, you may not be able to access some areas of the Site and/or Services to which you have subscribed. We will not provide a refund for any prepaid Service which is inaccessible to you because of the deletion of your personal information. We may, however, still retain your personal information in our files to resolve disputes, to enforce our user agreement, and to comply with any and all technical and legal requirements and constraints related to the security, integrity and operation of the Site.
 
-_Last updated 7th April 2010_
+_Last updated 18th November 2010_
