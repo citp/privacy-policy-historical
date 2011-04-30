@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the diydoctor.org.uk privacy policy that was archived on 2010-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100204131123id_/http%3A//www.diydoctor.org.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diydoctor.org.uk privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430111005id_/http%3A//www.diydoctor.org.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # DIY Doctor Privacy Policy : Privacy Policy Information and Protecting Customer Information : DIY Doctor
 
-## DIYDoctor Ltd – Privacy policy.
+## DIYDoctor Ltd – Privacy policy
 
 DIY Doctor is committed to protecting your personal information while you are using any of our services and products such as advertising or web site information requests. 
 
@@ -28,4 +28,4 @@ If you are an advertiser on DIY Doctor we may have more information if you have 
 
 If you would like to contact DIY Doctor about information we may hold on you, please call our Data Protection Manager on 08456 342179; [E-mail here](mailto:office@diydoctor.org.uk?subject=data%20protection%20enquiry) or write to:
 
-DIY Doctor Ltd: Dillybrook Business Park, Poplar Tree Lane, Southwick, BA14 9NB
+DIY Doctor Ltd, Block 1 - Suite 2 Lakeside Park, Mells, Nr Frome, Somerset, BA11 3RH 
