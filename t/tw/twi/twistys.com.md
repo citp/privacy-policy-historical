@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistys.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118135005id_/http%3A//www.twistys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistys.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430204257id_/http%3A//www.twistys.com/privacy.html) for the most accurate reproduction.*
 
 # Carsed Marketing LLC. Privacy Policy
 
@@ -10,7 +10,7 @@ Your privacy is very important to us.  Twistys, Inc. ( **“Twistys”)** has c
 **What information do we collect?**  
 We do not collect personally identifiable information except where you specifically provide us with such information.  We may collect your full name, e-mail address, street address and telephone number. We may also collect credit card information from you. We generally collect this personal information on our registration and order forms when you sign up to receive products or services from our Web Site and to access our member’s area.  
 
-We collect aggregate technical information (such as IP addresses, screen resolution, browser language, etc.) and anonymous demographic information (such as your postal or zip code, the web site that you came from, etc.) during your usage of the Web Site. \
+We collect aggregate technical information (such as IP addresses, screen resolution, browser language, etc.) and anonymous demographic information (such as your postal or zip code, the web site that you came from, etc.) during your usage of the Web Site. 
 
 **What do we do with the information we collect?**  
 We use personal information and other demographic or profile information you provide to us to: fulfill your orders or requests; attempt to prevent fraudulent transactions; verify your age, and; contact you when necessary.  Your personal information is NEVER shared with advertisers and market researchers.
@@ -20,7 +20,7 @@ Whenever possible, we use non-identifiable information (i.e. IP addresses and an
 Personal information collected on our Web Site is stored and processed in the United States and by using our Web Site, you consent to any such transfer of information outside of your country.  It is important for you to note that the laws on holding data in the United States may be less stringent than the laws of your country, but Twistys intends to adhere to the principles set forth in this Policy.
 
 **Do we share the information we collect with third parties?**  
-We NEVER sell, provide or otherwise transfer your personally identifiable information to any arm-length third parties for any reason.  Twistys is opposed to spam mail activities and does not participate in such mailings, nor do we release or authorize the use of membership data for such purposes.  We may transfer information between Twistys affiliates.
+We NEVER sell, provide or otherwise transfer your personally identifiable information to any arm-length third parties for any reason.  Twistys is opposed to spam mail activities and does not participate in such mailings, nor do we release or authorize the use of membership data for such purposes.  We may transfer information between Twistys affiliates.  We may transfer your information to a third party as a result of a sale, acquisition, merger or reorganization involving Twistys, the Web Site, its affiliates or related companies and/or any of their respective assets.
 
 We may use statistical analysis of aggregate information to inform advertisers of aggregate user demographics and behaviour, as well as the number of users that have been exposed to or clicked on their advertising banners.  We will provide only aggregate data from these analyses to third parties.  
 We may share information we collect with third party service providers to manage certain aspects of the services we provide, such as maintaining our servers and processing or fulfilling orders for products and services you purchase through the Web Site.  We ensure that the third party service providers that we share your information with have privacy policies in place substantially similar to our own.
@@ -28,7 +28,7 @@ We may share information we collect with third party service providers to manage
 We may also disclose your information in special cases if required to do so by law, court order or other governmental authority or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact, or bring legal action against someone who may be causing injury to or interfering with the rights or property of Twistys, the Web Site, another user or anyone else that could be harmed by such activities (ie. for identify theft or fraud). 
 
 **How long do we retain information?**  
-We retain personal information for such period of time as we feel is necessary to ensure that you have a reasonable opportunity to access the information.  If you no longer consent to us retaining your personal information, you can contact us and request that it be removed at: [support@twistys.com](mailto:support@twistys.com).
+We retain personal information for such period of time as we feel is necessary to ensure that you have a reasonable opportunity to access the information.  If you no longer consent to us retaining your personal information, you can contact us and request that it be removed at: [twistyssupport.com](http://www.twistyssupport.com/).
 
 **Do we save any correspondence that you send to us?**  
 Yes. If you send us correspondence, including e-mails and faxes, we may retain such information in the records of your account.  We may also retain customer service correspondence and other correspondence from Twistys to you.  We may retain these records in order to measure and improve our customer service, and investigate potential fraud and violation of Twistys Terms and Conditions of Subscription.  We may, over time, delete these records if permitted by law. 
@@ -51,22 +51,9 @@ No. The Web Site contains links to other Internet web sites.  By clicking on a 
 **How do you unsubscribe?**  
 We sometimes email you in order to provide targeted marketing from our Web Site and related services.  All emails you receive from us will include specific instructions on how to unsubscribe and you may unsubscribe at any time. Additionally, we give you the following options for removing your information from our database:
 
-> (1) send an email to [support@twistys.com](mailto:support@twistys.com);  
+> (1) contact us at [twistyssupport.com](http://www.twistyssupport.com/);  
 >  (2) select the opt-out link at the bottom of any Twistys email and follow the instructions provided;   
->  (3) send conventional mail to the following address: 
-
-_Customer Service_  
-_Twistys, Inc._  
-_xxxxxx_
+> 
 
 **Can we update/correct your information?**  
-Yes.  You may correct or update your personal information by writing to our Privacy Contact:
-
-  1. by email at [support@twistys.com](mailto:support@twistys.com);
-  2. by conventional mail to:
-
-_Twistys, Inc.  
-xxx_
-
-
-
+Yes.  You may correct or update your personal information by writing to our Privacy Contact through [twistyssupport.com](http://www.twistyssupport.com/); 
