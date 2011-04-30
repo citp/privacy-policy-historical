@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110025436id_/http%3A//boomerang.com/About-Us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boomerang.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430161822id_/http%3A//boomerang.com/About-Us/privacy-policy) for the most accurate reproduction.*
 
 # Our Promise To Protect Your Privacy - Boomerang
 
@@ -62,5 +62,5 @@ _Last updated and effective as of January 29,2008._
 
 Please send any questions about our privacy policy to [ privacy@boomerang.com](mailto:privacy@boomerang.com).
 
-|   
----|---
+|    |   
+---|---|---
