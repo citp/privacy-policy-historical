@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211181404id_/http%3A//psychologistworld.com/sitestuff/contactinfo.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychologistworld.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430150258id_/http%3A//www.psychologistworld.com/sitestuff/contactinfo.php%23privacy) for the most accurate reproduction.*
 
 # Contact Information - Psychologist World
 
@@ -67,19 +67,19 @@
   
 Contact Details & Privacy Policy - Psychologist World
 
-> **UK Customer Support & Sales: **_Freephone_ 0800 035 1017 / (01302 786977)
+> **UK Customer Support & Sales: **(01302) 786977
 > 
 > **International Customer Support & Sales:** +44 (1302) 786977
 > 
 > **Alternative You can write to the Psychologist World Head Office at:**
 > 
-> 24 St. David's Drive
+> 78 Tennyson Avenue
 > 
 > Doncaster
 > 
 > South Yorkshire
 > 
-> DN5 8NF
+> DN5 8EX
 > 
 > England
 > 
@@ -129,7 +129,7 @@ If you prefer, you can choose to have your computer warn you each time a cookie 
 
 ###### Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information, unless we provide you with advanced notice. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information, unless we provide you with advanced notice. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. Data is processed and stored in the EU and in some cases, countries outside of the EU including but not limited to the United States of America.
 
 ###### Third party links
 
@@ -144,6 +144,8 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 >  
+
+###### Self Hypnosis CD's from Hypnotic World:
 
 ###### Keep Up-to-Date:
 
