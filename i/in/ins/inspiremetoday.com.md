@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230155529id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiremetoday.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501000327id_/http%3A//www.inspiremetoday.com/privacy.php) for the most accurate reproduction.*
 
 # Inspire Me Today - Daily Inspiration, Interviews, Videos and More!
-
-  
-  
-
 
 * * *
 
   
+
+
 |   |    
 
 
@@ -169,6 +167,6 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 
 * * *
 
-## Most Commented  
+#### Most Commented  
   
 ---|---|---|---|---
