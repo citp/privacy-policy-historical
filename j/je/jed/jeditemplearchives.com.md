@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jeditemplearchives.com privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020222950id_/http%3A//www.jeditemplearchives.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeditemplearchives.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430205249id_/http%3A//www.jeditemplearchives.com/privacy.shtml) for the most accurate reproduction.*
 
 # Jedi Temple Archives Privacy Policy
+
+**What information do we collect?**
 
 We collect information from you when you register on our site (in our forums). 
 
@@ -12,8 +14,9 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+
 
 **Do we use cookies?**
 
