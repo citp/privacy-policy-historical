@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiro7.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121035036id_/http%3A//www.kirotv.com/station/1873436/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiro7.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430161825id_/http%3A//www.kirotv.com/station/1873436/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - KIRO-TV News Story - KIRO Seattle
 
