@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattel.com privacy policy that was archived on 2010-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100112112736id_/http%3A//corporate.mattel.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattel.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430082036id_/http%3A//corporate.mattel.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Mattel - Privacy Policy
 
@@ -6,7 +6,7 @@
 
   
   
-Updated May 2009.
+Updated June 2008.
 
 Use of this site signifies your acceptance of the terms and conditions.
 
@@ -81,8 +81,6 @@ Consumer Relations
 East Aurora, NY 14052  
 In the U.S.: 800-524-TOYS (800-524-8697)  
 In Canada: 800-665-6288**
-
-© 2009 Mattel, Inc. All Rights Reserved
 
   
 | 
