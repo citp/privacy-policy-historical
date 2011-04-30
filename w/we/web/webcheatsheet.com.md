@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcheatsheet.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120014805id_/http%3A//www.webcheatsheet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcheatsheet.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430023836id_/http%3A//www.webcheatsheet.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
