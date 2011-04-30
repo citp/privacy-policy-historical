@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the librarium-online.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617211909id_/http%3A//www.librarium-online.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the librarium-online.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430185228id_/http%3A//www.librarium-online.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -65,5 +65,3 @@ If we decide to change our privacy policy, we will post those changes to this pr
 With the exception of the pictures/images/sounds/text of the bands, albums, songs, and record labels, all text and images contained herein are owned by and are Copyright © 1995 – 2005 Librarium Online, LLC. Copying and/or reproduction except as noted is denied. If you’d like to link here, copy and/or use any of this material for any purpose, please read our copy and use provisions below. Thank you.
 
 If you would like to reproduce and/or use part of or all of this text in a printed document for educational, non-profit purposes you are welcome to do so, all I ask is that credit be given to me on the same document this information is reproduced, and that none of this text be modified or altered (if you would like to add your own comments feel free to do so by including them in parenthesis and establishing that the comments are not my own.) I do not give permission for any contents herein to be reproduced in whole or in part on another web page or web site (whatever the nature or purpose) or to be reproduced in whole or in part in any publication or collection of widespread circulation, whether offline or online, for whatever purpose. Translations of this page into other languages are not authorized.
-
-**Views: 0**
