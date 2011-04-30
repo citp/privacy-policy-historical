@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094413id_/http%3A//www.ryanhomes.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanhomes.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430021255id_/http%3A//www.ryanhomes.com/privacy-policy) for the most accurate reproduction.*
 
-# Ryan Homes - Privacy Policy
+# Privacy Policy - Ryan Homes
 
-### Ryan Homes’ Website Privacy Policy Statement
+###  Ryan Homes’ Website Privacy Policy Statement
 
 Ryan Homes is committed to protecting your privacy and ensuring you have a positive experience on our website. This policy outlines our personal information handling practices for data received from you on Ryan Homes’ websites. If you give us personal information, we will treat it according to this policy. We encourage you to read this privacy policy to ensure you understand our privacy practices. 
 
-### Information Collected by Ryan Homes’ Websites
+###  Information Collected by Ryan Homes’ Websites
 
 When Ryan Homes collects any personal information on our websites, we will express our need for the personal data at the point of collection. We collect personal information only if you voluntarily provide it. 
 
@@ -14,7 +14,7 @@ Personal information is any information that can be used to identify you as an i
 
 Ryan Homes does not collect any information stored on your computer except for the information related to the browsing of Ryan Homes’ websites. 
 
-### Uses of Your Personal Information
+###  Uses of Your Personal Information
 
 Some of the ways we may use personal information collected from you on our websites include: 
 
@@ -29,7 +29,7 @@ Some of the ways we may use personal information collected from you on our websi
   
 
 
-### Sharing your personal information
+###  Sharing your personal information
 
 Our general practice is not to sell or rent our customers’ personal information to third-parties for marketing purposes although we reserve the right to do so. 
 
