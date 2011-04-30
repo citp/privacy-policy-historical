@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dailyspark.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104142548id_/http%3A//www.sparkpeople.com/resource/motivation_articles.asp%3Fid%3D922) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyspark.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430215355id_/http%3A//www.sparkpeople.com/resource/motivation_articles.asp%3Fid%3D922) for the most accurate reproduction.*
 
 # SparkPeople Privacy Policy
-
-  | 
 
 ###### \-- By SparkPeople Support
 
@@ -64,11 +62,3 @@ We use a combination of multiple firewalls and multiple levels of physical secur
 If you have a question or comment about the SparkPeople site, please contact us at support@sparkpeople.com. 
 
 Last updated May 17, 2010 
-
-  
-|   | 
-
-  
-
-
-| 
