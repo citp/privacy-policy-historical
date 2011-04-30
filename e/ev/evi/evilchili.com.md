@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the evilchili.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609182859id_/http%3A//www.evilchili.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilchili.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430145926id_/http%3A//www.evilchili.com/privacy) for the most accurate reproduction.*
 
-# EvilChili :: Hot Entertainment Delivered Daily :: Fear the chili
+# EvilChili - Funny Clips, Articles and More - Updated Daily
 
-THIS DOCUMENT SETS FORTH THE PRIVACY POLICY FOR THE DYNAMIC MEDIA, LLC ("EVILCHILI.COM") WEBSITE WWW.EVILCHILI.COM ("SITE"). EVILCHILI.COM VALUES THE PROTECTION OF INDIVIDUAL PRIVACY AND IS COMMITTED TO THE PRIVACY OF ITS VISITORS. THIS PRIVACY POLICY SETS FORTH EVILCHILI.COM'S PRIVACY POLICY FOR THE SITE, AND GOVERNS THE MANNER IN WHICH EVILCHILI.COM COLLECTS, USES, MAINTAINS AND DISCLOSES INFORMATION COLLECTED FROM USERS OF THE SITE. BY USING THE SITE, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, DO NOT USE THE SITE IN ANY MANNER. THIS PRIVACY POLICY DOES NOT GOVERN PRIVACY PRACTICES ASSOCIATED WITH OFFLINE ACTIVITIES OR ACTIVITIES OCCURRING ON WEBSITES NOT UNDER EVILCHILI.COM'S CONTROL.
+THIS DOCUMENT SETS FORTH THE PRIVACY POLICY FOR THE ENDURANCE MEDIA, LLC ("EVILCHILI.COM") WEBSITE WWW.EVILCHILI.COM ("SITE"). EVILCHILI.COM VALUES THE PROTECTION OF INDIVIDUAL PRIVACY AND IS COMMITTED TO THE PRIVACY OF ITS VISITORS. THIS PRIVACY POLICY SETS FORTH EVILCHILI.COM'S PRIVACY POLICY FOR THE SITE, AND GOVERNS THE MANNER IN WHICH EVILCHILI.COM COLLECTS, USES, MAINTAINS AND DISCLOSES INFORMATION COLLECTED FROM USERS OF THE SITE. BY USING THE SITE, YOU AGREE TO BE BOUND BY THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, DO NOT USE THE SITE IN ANY MANNER. THIS PRIVACY POLICY DOES NOT GOVERN PRIVACY PRACTICES ASSOCIATED WITH OFFLINE ACTIVITIES OR ACTIVITIES OCCURRING ON WEBSITES NOT UNDER EVILCHILI.COM'S CONTROL.
 
   
 
@@ -80,7 +80,7 @@ An adult may review, request corrections, ask that we delete, or refuse further 
 
 ## EvilChili.com Contact Information
 
-If you have any questions or comments regarding this Privacy Policy, or wish to review or revise any personally identifiable information as provided herein, please email EvilChili.com at [dynamicmediallc@gmail.com](mailto:dynamicmediallc@gmail.com).
+If you have any questions or comments regarding this Privacy Policy, or wish to review or revise any personally identifiable information as provided herein, please email EvilChili.com at [endurancemedia@gmail.com](mailto:endurancemedia@gmail.com).
 
-THIS PRIVACY POLICY WAS LAST UPDATED ON October 10, 2008  
+THIS PRIVACY POLICY WAS LAST UPDATED ON August 19, 2010  
 PLEASE RETAIN A COPY OF THIS PRIVACY POLICY FOR YOUR RECORDS.
