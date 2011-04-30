@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230031402id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430042617id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
 
 # RV.Net : Privacy Policy
 
@@ -105,4 +105,4 @@ This Privacy Policy shall not apply to any unsolicited information you provide u
 
 Please note: Due to the rapidly changing nature of the Internet, we may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. This Privacy Policy is effective as of October 06, 2009 and has not been revised in any material respect since such effective date. All changes to this Privacy Policy are effective immediately. In the event of any material changes to this Privacy Policy, we will notify users of our site of the change by providing an "updated as of" date on the "Privacy Policy" link on our website, which "updated as of" date will remain in the "Privacy Policy" link for a period of at least 30 days after the effectiveness of the changes.
 
-Copyright 2010 Affinity Group, Inc. All Rights Reserved.
+Copyright 2011 Affinity Group, Inc. All Rights Reserved.
