@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aferry.to privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226162321id_/http%3A//www.aferry.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aferry.to privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430105047id_/http%3A//www.aferry.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # AFerry.com Privacy Policy
 
