@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cockrockingteens.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216023452id_/http%3A//cockrockingteens.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cockrockingteens.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430233058id_/http%3A//littlelara.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -56,3 +56,6 @@ Changes in the Ownership of the Sites
 
 
 The Sites are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
+
+Nethole Services LTD Strovolou 77, Strovolos Center, Flat 204, Nicosia, P.C. 2018, Cyprus  
+Sampson Investments AVV holds the Trademark & Copyright.
