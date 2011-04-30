@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119202516id_/http%3A//baliwww.com/hotel/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430070829id_/http%3A//baliwww.com/hotel/policy.html) for the most accurate reproduction.*
 
-# Bali Hotel, Bali Villa Accommodation Travel Portal in Indonesia
+# Bali Hotel Bali Villa Accommodation Travel Portal in Indonesia
 
   
 Access Bali Online, which is sister company of ABL Tours & Travel Ltd., committed to safeguarding your privacy online. Even when you visit us as a visitor and or general user, we stay give our high commitment to make you feel safe and free. In order to contact us, for instance, we provide you with various safe ways which you can prefer and use according to your own conditions. All are in safe and fair way. Please read the following  
