@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the 9tut.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122172245id_/http%3A//9tut.com/component/content/article/43-privacy/56-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9tut.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430155316id_/http%3A//www.9tut.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy-Policy
+# CCNA Training » Privacy-Policy
 
-All of the articles on 9tut.com are copyright its respective owner. You are allowed to use them anywhere with a link back to its original article on this site. 
+All of the articles on 9tut.com are copyright its respective owner. You are allowed to use them anywhere with a link back to its original article on this site.
 
 Privacy Policy:
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy. ](http://www.google.com/privacy_ads.html)
 
 
@@ -28,4 +28,4 @@ This Web site contains links to other sites. Please be aware that we are not res
 
 Advertisers
 
-We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense. Please check their websites for respective privacy policies. 
+We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense. Please check their websites for respective privacy policies.
