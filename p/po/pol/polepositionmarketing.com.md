@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213122304id_/http%3A//www.polepositionmarketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430133841id_/http%3A//www.polepositionmarketing.com/privacy.php) for the most accurate reproduction.*
 
 # Pole Position Marketing Privacy Policy
 
@@ -35,7 +35,7 @@ Our website uses cookies to enhance our site.
 
 **Profiles**
 
-Pole Position Marketing does not create a user profile.
+Pole Position Marketing does not use or create users profiles that store information for visitors. Clien't profiles are created and held in a secure portion of the site.
 
 **Communications from the Site**
 
@@ -70,15 +70,9 @@ The information you submit to us is controlled by the privacy policy in effect a
 
 **Contact Information**
 
-Using the following information, you can contact us if you have questions about our privacy policy.  
-9472 Mustang Trail Drive  
-Reno, NV 89506  
-USA 
+You may [contact us](https://web.archive.org/web/20110430133841id_/http%3A//www.polepositionmarketing.com/contact-us.php) if you have questions about our privacy policy.  
 
-E-mail: info@menu.php 
 
 **Resolving Privacy Policy Disputes**
 
-If you think we have not followed our privacy policy in some way, it can be resolved in the following manner.
-
-Pole Position Marketing Customer Service 
+If you think we have not followed our privacy policy in some way, it can be resolved by [contacting us](https://web.archive.org/web/20110430133841id_/http%3A//www.polepositionmarketing.com/contact-us.php).
