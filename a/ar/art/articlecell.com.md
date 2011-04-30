@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the articlecell.com privacy policy that was archived on 2010-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100809131442id_/http%3A//www.articlecell.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecell.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430151801id_/http%3A//www.articlecell.com/privacy.php) for the most accurate reproduction.*
 
-# Submit Articles Directory
-
-**www.ArticleCell.com  
-**
-
-****
-
-## **PRIVACY POLICY**
+# Privacy Policy
 
 Welcome to www.ArticleCell.com (the "Site").
 
@@ -66,6 +59,6 @@ admin@articlecell.com. However, because of backups and records of deletions, it 
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
 **Links:**  
-This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
+This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-© 2006 **www.ArticleCell.com** , All rights reserved.
+© 2006 - 2020 **www.ArticleCell.com** , All rights reserved.
