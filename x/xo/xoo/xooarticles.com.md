@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xooarticles.com privacy policy that was archived on 2010-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100411074639id_/http%3A//www.xooarticles.com/pages/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xooarticles.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430113048id_/http%3A//www.xooarticles.com/pages/1.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# XooArticles.com - Xoo Article Submission - Submit press release online free of charge
 
 Your privacy is very important to Xooarticles.com. We want to make your experience online satisfying and safe and we take our responsibility seriously to protect the data that you provide us in the normal course of interacting with our site. Therefore, we have developed the comprehensive privacy policy below to help you better understand the manner in which Xooarticles collects , uses, and discloses the personal information provided by you as a result of the use of Xooarticles.com and the content, information and services provided through the website Xooarticles.com.
 
