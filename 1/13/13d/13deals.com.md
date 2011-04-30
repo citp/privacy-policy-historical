@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 13deals.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211202509id_/https%3A//13deals.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 13deals.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430024751id_/http%3A//www.13deals.com/privacy.php) for the most accurate reproduction.*
 
 # 13 Deals.com -
 
