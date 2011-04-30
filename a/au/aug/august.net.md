@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the august.net privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208013440id_/http%3A//august.net/InReach_Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the august.net privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430195324id_/http%3A//www.august.net/InReach_Privacy_Policy.html) for the most accurate reproduction.*
 
 # InReach :: DSL, VoIP, Data and Internet Services for Business and Residential
 
