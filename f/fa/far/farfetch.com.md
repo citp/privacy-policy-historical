@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the farfetch.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616155340id_/http%3A//www.farfetch.com/pag92.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farfetch.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430191611id_/http%3A//www.farfetch.com/pag92.aspx) for the most accurate reproduction.*
 
 # Privacy - farfetch
 
-[Home](https://web.archive.org/) / Privacy
+[](https://web.archive.org/pag1399.aspx) [Home](https://web.archive.org/) / Privacy
 
 **Farfetch.com** recognises the concern of our customers regarding privacy of information. All information you give to **Farfetch.com** is stored securely, and is not accessible to other users. Rest assured that any information you give to **Farfetch.com** will not be distributed to any other company outside of the **Farfetch.com** group or its affiliated partners.
 
