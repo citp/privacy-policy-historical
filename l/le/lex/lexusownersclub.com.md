@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lexusownersclub.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029224353id_/http%3A//www.lexusownersclub.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexusownersclub.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501105209id_/http%3A//www.lexusownersclub.com/privacy) for the most accurate reproduction.*
 
-# Lexus Owners Club US
+# Lexus Owners Club USA
 
 **THE OWNERS CLUB PRIVACY POLICY**
 
