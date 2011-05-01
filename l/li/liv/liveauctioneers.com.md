@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveauctioneers.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111173840id_/http%3A//www.liveauctioneers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveauctioneers.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501144854id_/http%3A//www.liveauctioneers.com/privacy.html) for the most accurate reproduction.*
 
 # LIVE AUCTIONEERS PRIVACY POLICY - Live Auctioneers
 
@@ -24,7 +24,7 @@ We may collect browser and Internet-related information through access to our Si
 
 ### OUR USE OF YOUR INFORMATION
 
-We use your personal information to facilitate the services you personally request. We use your personal file information and activity information to: resolve disputes; troubleshoot problems; collect fees owed; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce applicable agreements; and as otherwise described to you at the time of collection. 
+We use your personal information to facilitate the services you personally request. Your contact information and bidding history will be passed onto the Auction Companies during the auction sign-up process for them to make a decision whether you are able to bid in their auction. We also use your personal file information and activity information to: resolve disputes; troubleshoot problems; collect fees owed; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce applicable agreements; and as otherwise described to you at the time of collection. 
 
 Providing us with your personal information indicates that you agree to our use of any personal information to improve our marketing and promotional efforts, to analyze Site usage, improve our content and product offerings, and customize the Site's content, layout, and services. In turn, we are able to improve the Site and better tailor it to meet your needs, providing you with a smooth, efficient, safe and customized experience. 
 
