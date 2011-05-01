@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igirlsgames.com privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912163512id_/http%3A//www.igirlsgames.com/index.php%3Fpageid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igirlsgames.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501064838id_/http%3A//www.igirlsgames.com/privacy.html) for the most accurate reproduction.*
 
-# Igirlsgames.com's privacy
+# Our privacy | Games for girls | Free girls games | The Home of Free Online Games For Girls on Igirlsgames
 
 Our Privacy
 
@@ -32,7 +32,7 @@ Unsubscribing from Igirlsgames.com's ezine is simple and can be done by followin
 
 Disclaimer
 
-Igirlsgames.com does not denote ownership of any images or content unless specified. Igirlsgames.com recognizes all images and content on this site as free material. Igirlsgames.com does not use images or content that are copyrighted unless express written permission is given by the author. Frequently, images and content are submitted by the visitors. Igirlsgames.com does not have a way of checking for its copyright unless specifically stated on or in the image or content. If any image or content on Igirlsgames.com is your work, please [Click Here](http://www.igirlsgames.com/contact/index.php) to Contact us for its removal. 
+Igirlsgames.com does not denote ownership of any images or content unless specified. Igirlsgames.com recognizes all images and content on this site as free material. Igirlsgames.com does not use images or content that are copyrighted unless express written permission is given by the author. Frequently, images and content are submitted by the visitors. Igirlsgames.com does not have a way of checking for its copyright unless specifically stated on or in the image or content. If any image or content on Igirlsgames.com is your work, please [Click Here](http://www.igirlsgames.com/contact.html) to Contact us for its removal. 
 
 Any pages that are original material of Igirlsgames.com will include Igirlsgames.com's URL on or in it. Any theft, alteration, modification, translation, or transgenderation of this material will be construed as robbery of intellectual property and will land in a fine and court date. 
 
@@ -42,4 +42,4 @@ Contact
 
 If you have any questions about this Privacy Statement, or the dealings with this website, please contact:
 
-Email: [Click Here](http://www.igirlsgames.com/contact/index.php)
+Email: [Click Here](http://www.igirlsgames.com/contact.html)
