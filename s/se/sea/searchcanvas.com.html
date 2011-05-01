@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the searchcanvas.com privacy policy that was archived on 2010-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119085230id_/http%3A//www.searchcanvas.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the searchcanvas.com privacy policy that was archived on 2011-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110501082038id_/http%3A//www.searchcanvas.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   
@@ -315,7 +315,10 @@ top:10px;
 }
 .results .utils{
 width:456px;
+/*
 font-size:14px;
+*/
+font-size:12px;
 text-align:right;
 position:absolute;
 top:-44px;
@@ -649,6 +652,11 @@ top:5px;
 .foundon{
 color:#999;
 font-size:11px;
+}
+
+.deep_links{
+float:left;
+margin-left:20px;
 }
 
 .videothumb{
@@ -1233,14 +1241,14 @@ _background-color:#ffffff;
 /* Skin Starts Here */
 
 .search .skinned {
-	background-image: url(http://lw-cdn.searchcanvas-static.com/skins/0236_celtic_moon_fairy/bg.gif); 
-	background-position:top center;
-	background-color: #001571;
+	background-image: url(http://lw-cdn.searchcanvas-static.com/skins/0206_around_europe/bg.gif); 
+	background-position:bottom center;
+	background-color: #00E2EA;
 	color:#ffffff;             			
 	background-repeat:no-repeat;				
 }
 .results .skinned #header {
-	background-image: url(http://lw-cdn.searchcanvas-static.com/skins/0236_celtic_moon_fairy/header.gif); 
+	background-image: url(http://lw-cdn.searchcanvas-static.com/skins/0206_around_europe/header.gif); 
 	background-repeat: repeat-x;
 	height: 44px;
 	background-position: top center;
@@ -1252,7 +1260,7 @@ _background-color:#ffffff;
   
   
   
-  <link rel="image_src" href="/skins/0236_celtic_moon_fairy/thumb.gif">
+  <link rel="image_src" href="/skins/0206_around_europe/thumb.gif">
   
   
   
@@ -1579,6 +1587,18 @@ background-position:0 -119px;
 background-position:0 -139px;
 }
 
+/*
+.dropdown .credits{
+background-image:url(/images/ui/icon16_coins.png);
+_background-image:url(/images/ui/icon16_coins.gif);
+background-repeat:no-repeat;
+padding-left:20px;
+}
+.utils .dropdown .credits{
+background-position:center left;
+}
+*/
+
 
   -->
   </style>
@@ -1663,7 +1683,7 @@ function f_filterResults(n_win, n_docel, n_body) {
   
   
   <!--[if lt IE 7]>
-  <script src="/javascripts/canvas_dropdown.js?1289980122" type="text/javascript"></script>
+  <script src="/javascripts/canvas_dropdown.js?1302523335" type="text/javascript"></script>
   <![endif]-->
   
   
@@ -2022,12 +2042,13 @@ Event.observe(document, 'dom:loaded', function(){ Autocomplete.isDomLoaded = tru
     <div id="logo">
       <ul>
         <li>
-          <a href="/"><img alt="Search the web" class="trans" height="57" src="/images/ui/logos/searchcanvas_logo_185x57.png?1289980122" width="185"></a>
+          <a href="/"><img alt="Search the web" class="trans" height="57" src="/images/ui/logos/searchcanvas_logo_185x57.png?1302523336" width="185"></a>
         </li>
       </ul>
     </div>
     <div class="utils">
       <ul class="dropdown dropdown-horizontal">
+        
         <li class="top"><a href="/skins">Change Skin</a></li>
         <li class="top"><span class="sep"> | </span></li>
         <li class="top">
@@ -2534,7 +2555,7 @@ var pageTracker = _gat._getTracker("UA-1048535-3");
 
 pageTracker._setVar("");
 pageTracker._setCustomVar(1, "Agent", "", 1); // visitor
-pageTracker._setCustomVar(1, "Skin", "Cnvs:236", 2); // session
+pageTracker._setCustomVar(1, "Skin", "Cnvs:206", 2); // session
 pageTracker._trackPageview();
 } catch(err) {}
 // -->
