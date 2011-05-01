@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chicos.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229174048id_/http%3A//www.chicos.com/store/page.jsp%3Fid%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicos.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501073653id_/http%3A//www.chicos.com/store/page.jsp%3Fid%3D33) for the most accurate reproduction.*
 
-# Chico's - Privacy Policy
+# Privacy Policy - Chico's
 
 **Privacy Policy**  
 Revised October 28, 2010
@@ -13,7 +13,7 @@ We may collect information (including name, address, telephone number, email add
   * Register for our loyalty program or ask to receive our emails or catalogs. 
   * Participate in a contest, sweepstakes, promotion, or survey. 
   * Are referred to us through a marketing promotion. 
-  * Visit out website (see **Cookies **below). 
+  * Visit our website (see **Cookies **below). 
 
 
 
