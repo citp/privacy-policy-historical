@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficwonderland.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528161605id_/http%3A//www.trafficwonderland.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficwonderland.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501140437id_/http%3A//trafficwonderland.com/privacy.php) for the most accurate reproduction.*
 
-# TrafficWonderland Manual Traffic Exchange | Free Traffic - Free Advertising | Can Your Site Handle The Bandwidth
+# Increase Website Traffic | Manual Traffic Exchange | Free Website Advertising
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR** **TrafficWonderland.com**
 
