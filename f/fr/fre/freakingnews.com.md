@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freakingnews.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227080048id_/http%3A//www.freakingnews.com/help5.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakingnews.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501063247id_/http%3A//www.freakingnews.com/help7.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
 
 # FreakingNews.com - News Photoshop Pictures Contests - home page
 
@@ -57,10 +57,12 @@ When using a shared computer, be sure to sign off and do not opt to stay logged 
 
 In the event that our security system is breached, we will attempt to notify you as soon as possible via the [Site News](https://web.archive.org/sitenews.asp).
 
-**Links, Hosted Sites & Advertisers  
-**We do not have any control over the privacy practices of any external websites linked from the main [www.FreakingNews.com](http://www.freakingnews.com/) domain (or any of the websites that are hosted on our server and aren't affiliated with Freaking News). Therefore you should review their privacy policies separately from ours and know that we in no way have any control over their practices.
+**Advertisers:  
+**We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, you may read it at the following page: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-Third party advertisers may collect certain information that is available to them through your interaction with their advertisements. Freaking News has no control or knowledge as to their practices and it is suggested that you read their privacy policy separately before clicking on any advertisements.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/) . 
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit this link: [www.valueclickmedia.com/member_privacy.shtml](http://www.valueclickmedia.com/member_privacy.shtml)
 
 **Questions?  
 **If you have any questions regarding this Privacy Statement, the practices of FreakingNews.com, or your dealings on our web site, please [contact us](https://web.archive.org/message.asp?uid=2).
