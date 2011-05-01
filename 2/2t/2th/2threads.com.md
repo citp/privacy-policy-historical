@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2threads.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229171849id_/http%3A//2threads.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2threads.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501073314id_/http%3A//2threads.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy | 2Threads
 
