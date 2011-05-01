@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208011251id_/http%3A//covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagerline.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501033655id_/http%3A//covers.com/covers/about/privacy.aspx) for the most accurate reproduction.*
 
 # Sports Betting and Gambling Odds Online
 
