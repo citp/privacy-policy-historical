@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231073715id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacycling.org privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501070800id_/http%3A//www.usacycling.org/news/user/story.php%3Fid%3D3176) for the most accurate reproduction.*
 
-# www.usacycling.org -- CHILDREN'S ONLINE PRIVACY PROTECTION ACT
+# CHILDREN'S ONLINE PRIVACY PROTECTION ACT - USA Cycling
 
 In compliance with the Children's Online Privacy Protection Act (COPPA), USA Cycling, as sole Operator of the USA Cycling Website, wishes to advise parents of junior riders and other children creating personal accounts online with USAC,  that USAC may collect (directly from you or your child) and retain the following personal information regarding your child:
 
@@ -51,4 +51,4 @@ Parents are advised that should they opt to delete or remove personal informatio
 
 **Parents are advised the use of a credit card in an on-line transaction to purchase a junior license constitutes implied consent for USAC to collect and retain personal information regarding your child.**
 
-This Article Published 2007-09-13 13:38:12 For more information contact: [membership@usacycling.org](mailto:membership@usacycling.org)
+This Article Published 2007-09-13 13:38:12For more information contact: [membership@usacycling.org](mailto:membership@usacycling.org)
