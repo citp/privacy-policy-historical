@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the wiredtree.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706192948id_/http%3A//www.wiredtree.com/legal/pa.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiredtree.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501163720id_/http%3A//www.wiredtree.com/legal/pa.php) for the most accurate reproduction.*
 
 # WiredTree Privacy Agreement
 
 **Effective Date:**
 
-This Privacy Policy was last updated on October 26, 2006.
+This Privacy Policy was last updated on September 14, 2010.  
+The last update before that was on October 26, 2006.
 
 ## Our Commitment To Privacy
 
-Your privacy is important to WiredTree. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our website.
+Your privacy is important to WiredTree. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. Additionally, WiredTree adheres to the Safe Harbor Principles as agreed to and set forth by the United States Department of Commerce and the European Union ("EU"), [ http://export.gov/safeharbor/](http://export.gov/safeharbor/). To make this notice easy to find, we make it available on our website.
 
 WiredTree reserves the right to change this Privacy Policy at any time. Such changes, modifications, additions or deletions shall be effective immediately upon posting on-line at this location. You acknowledge and agree that it is your responsibility to review this site and this Policy periodically and to be aware of any modifications. You may identify whether WiredTree has revised this Privacy Policy by noting the "Effective Date" above. Your continued use of the site after such modifications will constitute your: (a) acknowledgment of the modified Policy; and (b) agreement to abide and be bound by the modified Policy. If you do not agree to these terms, please do not access or use this site.
 
@@ -18,13 +19,15 @@ In order to better provide you with our numerous services, we collect two types 
 
 ## Personal Information
 
-When you order services through WiredTree, we request certain personally identifiable information from you on our order form to us to allow us to process your order, provide you with the services you order from us, and to provide ongoing technical support for your account. You must provide contact information (such as name, email, phone number, and address) and financial information (such as credit card number, expiration date). By purchasing our services, you agree to provide and maintain accurate, complete and updated information.
+When you order services through WiredTree, we request certain personally identifiable information from you on our order form to us to allow us to process your order, provide you with the services you order from us, and to provide ongoing technical support for your account. You must provide contact information (such as name, email, phone number, and address) and financial information (such as credit card number, expiration date). By purchasing our services, you agree to provide and maintain accurate, complete and updated information. Your personal information will be kept only as long as we need it for the purposes for which we collected it, or as permitted by law.
 
 After you have ordered our services, we may be in communication with you about your account. These communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. As a result, we may maintain information about our communications with you for future use.
 
+WiredTree shall only process Personal Information in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, WiredTree shall take reasonable steps to ensure that personal information is accurate, complete, current and reliable for its intended use.
+
 ## Disclosure of Personal Information
 
-We use the information you provide about yourself when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide service. In the event that this policy changes, we will provide you with an opportunity to opt out or otherwise prohibit the disclosure of your information to third parties for any purpose other than your ordering and ongoing use of our services.
+We use the information you provide about yourself when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide service. In the event that this policy changes, we will provide you with an opportunity to opt out or otherwise prohibit the disclosure of your information to third parties for any purpose other than your ordering and ongoing use of our services. For sensitive information, affirmative or explicit (opt in) choice will be given if the information is to be disclosed to a third party or used for a purpose other than previously authorized. 
 
 We do not sell, trade, or rent your Personal Information to others. We do provide some of our services through contractual arrangements with affiliates, services providers, partners and other third parties. We and our service partners use your Personal Information to operate our sites and to deliver our services. For example, we must release your credit card information to the card-issuing bank to confirm payment for products and services purchased on this site or release your address information to the delivery service to deliver products that you ordered.
 
@@ -48,6 +51,14 @@ A cookie is a small text file that is stored on a users computer for record-keep
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. The WiredTree website uses industry-standard Secure Sockets Layer (SSL) encryption on all web pages where personal information is required. When entering Personal Information, we strongly recommend an SSL-enabled web browser.
 
+## Our Commitment to Safe Harbor
+
+WiredTree believes in protecting your privacy. When we collect personal information from you on our website, we comply with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. WiredTree will regularly review our privacy promises, to ensure that we are in compliance U.S.-EU Safe Harbor Framework. 
+
+## Safe Harbor Enforcement
+
+WiredTree uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles of Safe Harbor. Should you have any concerns please contact us with the information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles.
+
 ## Our Commitment To Children's Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
@@ -58,4 +69,14 @@ You always have access to the information we have about you. To review and updat
 
 ## Questions
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending an email to: legal@wiredtree.com
+If you have any questions about this Privacy Policy, the practices of this site, or our compliance with the Safe Harbor principals, please contact us at:
+
+WiredTree  
+Attn: Legal Department  
+53 W. Jackson Blvd.   
+Suite 635   
+Chicago, IL 60604
+
+Email: [legal@wiredtree.com](mailto:legal@wiredtree.com)
+
+If you have a complaint or dispute relating to Safe Harbor Framework cannot be resolved through our internal process, we agree to dispute resolution using American Arbitration Association. 
