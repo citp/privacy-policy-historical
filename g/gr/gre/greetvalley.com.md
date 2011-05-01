@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greetvalley.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231202842id_/http%3A//www.greetvalley.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greetvalley.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501035252id_/http%3A//www.greetvalley.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Animated free greeting cards, animated free greetings and ecards
 
@@ -104,7 +104,11 @@ Advantages of paid membership
   
 |  |  |    
 ---|---  
-|   
+| 
+
+[](http://smscafe.in/)  
+  
+  
 ---  
   
 Privacy policy
@@ -130,7 +134,7 @@ However, we can't control those sites content, therefore we are not responsible 
 
 If you have any questions about this privacy policy, or about anything that related to our site, contact us through this 
 
-[contact form](https://web.archive.org/web/20101231202842id_/http%3A//www.greetvalley.com/contact.php)  
+[contact form](https://web.archive.org/web/20110501035252id_/http%3A//www.greetvalley.com/contact.php)  
   
 |   
   
