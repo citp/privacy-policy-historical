@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getonlinecar.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230034558id_/http%3A//getonlinecar.com/privacy-policy.cnet) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getonlinecar.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501104022id_/http%3A//getonlinecar.com/privacy-policy.cnet) for the most accurate reproduction.*
 
 # Privacy Policy | Get Online Car | automotive pit stop
 
