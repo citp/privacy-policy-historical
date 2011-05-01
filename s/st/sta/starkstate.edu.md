@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starkstate.edu privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228021944id_/http%3A//www.starkstate.edu/%3Fq%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starkstate.edu privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501103317id_/http%3A//www.starkstate.edu/%3Fq%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Stark State College - North Canton, Ohio
 
