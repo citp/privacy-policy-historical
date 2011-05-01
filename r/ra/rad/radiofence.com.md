@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiofence.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920121431id_/http%3A//www.radiofence.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiofence.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501054505id_/http%3A//www.radiofence.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # RadioFence.com Privacy Policy
 
