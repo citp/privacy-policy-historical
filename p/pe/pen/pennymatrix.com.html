@@ -1,0 +1,1086 @@
+<!--The following is the downloaded HTML source of the pennymatrix.com privacy policy that was archived on 2011-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110502001043id_/http%3A//www.worldlightbiz.com/LEGALDOCUMENTS/PP.CFM) for the most accurate reproduction.-->
+
+<html><head><link rel="STYLESHEET" type="TEXT/CSS" href="CSS/TEMPLATESSTYLE.CSS">
+              
+              <script src="/COM/DHTMLSUITE/ENGINE.JS"></script>
+              
+              
+
+<style>
+body{margin-left: 0px;margin-top: 0px;margin-right: 0px;margin-bottom: 0px;  background-color:#EDF7F9;background-image:url(../IMAGES/BG_7_NEW.jpg); background-repeat:repeat-x; background-position:top }
+</style>
+
+
+
+
+
+
+
+
+            
+            
+            <title>BIZ PRIVACY POLICY </title>
+            <style>
+body{margin-left: 0px;margin-top: 0px;margin-right: 0px;margin-bottom: 0px;  background-color:#EDF7F9;background-image:url(../IMAGES/BG_7_NEW.jpg); background-repeat:repeat-x; background-position:top }
+</style><script>
+		var isopen       = false
+		var alertTimerId = 0
+		
+		function openMenu(){
+			  
+				  if(isopen){
+					  isopen = false
+				  }else{
+					  isopen = true
+				  }
+				  
+				  
+				  slide(isopen,'MENUSLIDE',680,50)
+		}
+		
+		
+		
+		
+		function slide(status,id,height,speed){
+			   var currentHeight = getInput(id).clientHeight
+				  
+			   
+			   clearTimeout(alertTimerId)
+			   
+		
+			   if(status == true){
+						 var getPercent = (currentHeight*100)/height
+						 
+						 currentHeight = currentHeight +  Number(speed - ((speed*getPercent)/100))
+						 getInput(id).style.height  = currentHeight+'px'
+						 getInput(id).style.display = ''
+						 
+						 if(currentHeight+2 > height){
+							 getInput(id).style.height  = height
+							 currentHeight              = height
+						 }
+				}else{
+						 if(currentHeight == height){
+							currentHeight =  currentHeight - 10 
+						 }
+						 var getPercent = (currentHeight*100)/height
+						 
+						 currentHeight = currentHeight -  Number((speed*getPercent)/100)
+						 getInput(id).style.height = currentHeight+'px'
+						 
+						 if(currentHeight < 2){
+							 getInput(id).style.height  = 1
+							 getInput(id).style.display = 'none'
+							 currentHeight              = 1
+						 }
+			   }
+			   
+			   
+			   alertTimerId = setTimeout('slide('+status+',"'+id+'",'+height+','+speed+')',20) 
+		}
+		
+		function getInput(id){
+			   return document.getElementById(id)
+		}
+		
+		
+		function searchIn(e,word){
+				 if(e.value == word){
+					 e.value = ''
+				 }else if(String(e.value).length == 0){
+					 e.value = word
+				 }
+		}
+		function changeLogButtonText(e){
+					
+					if(e.innerHTML == 'Log In'){
+						e.innerHTML   = 'Close Panel'
+						e.style.color = '#993300'
+					}else{
+						e.innerHTML = 'Log In'
+						e.style.color = '#19ADFF'
+					}
+		}
+		
+		
+		
+		
+		
+		var email;
+		var emailValidateMsg;
+		function echeck(str) {
+				
+				var at="@"
+				var dot="."
+				var lat=str.indexOf(at)
+				var lstr=str.length
+				var ldot=str.indexOf(dot)
+				if (str.indexOf(at)==-1){
+				   emailValidateMsg = "Invalid E-mail";
+				   return false
+				}
+		
+				if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+				   emailValidateMsg = "Invalid E-mail";
+				   return false
+				}
+		
+				if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+					emailValidateMsg = "Invalid E-mail";
+					return false
+				}
+		
+				 if (str.indexOf(at,(lat+1))!=-1){
+					emailValidateMsg = "Invalid E-mail";
+					return false
+				 }
+		
+				 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+					emailValidateMsg = "Invalid E-mail";
+					return false
+				 }
+		
+				 if (str.indexOf(dot,(lat+2))==-1){
+					emailValidateMsg = "Invalid E-mail";
+					return false
+				 }
+				
+				 if (str.indexOf(" ")!=-1){
+					emailValidateMsg = "Invalid E-mail";
+					return false
+				 }
+					 
+				 if(String(email).toLowerCase() ==  String(str).toLowerCase()){
+						  document.getElementById('EMAIL').select()
+						  
+						  
+						  if(navigator.appName == 'Netscape'){
+							 var txtNode=document.createTextNode(document.getElementById('EMAIL').value);
+								 document.getElementById('EMAIL').appendChild(txtNode);
+						  }else{
+								 document.getElementById('EMAIL').select()
+						  }
+						  
+						  
+						  document.getElementById('EMAIL').focus()
+						  emailValidateMsg = 'This email is arledy taken.'
+						  return false;
+						  
+						  
+				 }else{
+						  emailValidateMsg = 'Email is good.'
+						  return true;
+						  
+				 }
+				 
+				 return true					
+		 }
+		 
+		 
+		 var emailValidate = false
+		 function ValidateForm(){
+			var step = 0 
+			var msg  =''
+			 
+			 
+			
+			ValidatePassword()
+			/*
+			if(String(document.getElementById("VERIFYWORD").value).length != 0 ){
+				  step++
+			}else{
+				  msg = "Word Verification is empty."
+			}*/
+			
+			if(String(document.getElementById('REFINPUT').value).length != 0){
+				 step++
+			}else{
+				 msg = 'Referrer Error'
+			}
+			
+			if(passV){
+				  step++
+			}else{
+				  msg = 'Password is incorrect'
+			}
+			
+			if(userValidate){
+				step++
+			}else{
+				  msg = userValidateMsg
+			}
+			
+			if(echeck(document.getElementById('EMAIL').value)){
+				step++
+			}else{
+				msg = emailValidateMsg;
+				document.getElementById('EMAIL').focus()
+			}
+			
+			
+			
+			
+			
+			if(step == 4){
+			   document.getElementById('REGFORM').submit()
+			  
+			}else{
+			   alert(msg)
+			}
+		 }
+		 
+		 
+		 
+		 function ValidateUsername(username){
+			//document.getElementById('reg').disabled        = true
+			document.getElementById('EMAIL').disabled         = true
+			document.getElementById('REGUSERNAME').disabled   = true
+			document.getElementById('PASSWORD').disabled      = true
+			document.getElementById('REPASSWORD').disabled    = true
+			
+			param="username="+username
+			http( 'post','http://www.worldlightbiz.com/COM/CYCLE/BIZ/DEFULT.CFC?method=verifyName',ValidateUsernameResult,param)
+		 }
+		 
+		 
+		 
+		 var userValidate    = false
+		 var userValidateMsg = ''
+		 function ValidateUsernameResult(evt){
+			 
+			  email = evt.cd_email;
+			  
+			  document.getElementById('EMAIL').disabled         = false
+			  document.getElementById('REGUSERNAME').disabled   = false
+			  document.getElementById('PASSWORD').disabled      = false
+			  document.getElementById('REPASSWORD').disabled    = false
+			  
+			  
+			  if(evt.cd_username.length == 1 || String(document.getElementById('REGUSERNAME').value).length == 0){
+					  document.getElementById('REGUSERNAME').select()
+					  
+					  
+					  if(navigator.appName == 'Netscape'){
+						 var txtNode=document.createTextNode(document.getElementById('REGUSERNAME').value);
+							 document.getElementById('REGUSERNAME').appendChild(txtNode);
+					  }else{
+							 document.getElementById('REGUSERNAME').select()
+					  }
+					  
+					  
+					  document.getElementById('REGUSERNAME').focus()
+					  userValidate    = false
+					  userValidateMsg = 'This username is arledy taken.'
+			  }else{
+					  userValidate    = true
+					  userValidateMsg = 'Username is good.'
+			  }
+			  
+			  
+			  
+			  
+			  
+			  if(String(document.getElementById('REGUSERNAME').value).length < 5){
+					  userValidate    = false
+					  userValidateMsg = 'This username is to short. Minimum 5 charts.'
+			  }
+			  
+			  var userString = String(document.getElementById('REGUSERNAME').value)
+			  var letters = String('q,w,e,r,t,y,u,i,o,p,a,s,d,f,g,h,j,k,l,z,x,c,v,b,n,m,1,2,3,4,5,6,7,8,9,0').split(',')
+			 
+			 
+			  var symboles = false
+			  for(i=0;i<userString.length;i++){
+					 var p = false
+					 for(m=0;m<letters.length;m++){
+						 
+						 if(String(userString.substr(i,1)).toLowerCase() == String(letters[m]).toLowerCase() ){
+							 p=true
+						 }
+					 }
+						
+					 if(p==false){ 
+						   symboles     = true
+						 userValidate = false
+						   break
+					 }
+			  }
+			  
+			  if(symboles){
+					   userValidateMsg = 'Symboles are not allowed.'
+			  }
+			  
+			  ValidateForm()
+		 }
+		 
+		 
+		 
+		 var passV = false
+		 function ValidatePassword(){
+			  if(document.getElementById('PASSWORD').value == document.getElementById('REPASSWORD').value && String(document.getElementById('REPASSWORD').value).length >= 7 && String(document.getElementById('PASSWORD').value).length >= 7){
+					passV = true
+			  }else{
+					passV = false
+			  }
+		 }
+</script></head>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body>
+
+      <table width="100%" height="100%" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+      <td style="background-repeat:no-repeat; background-position:top" valign="top" height="100%">
+                  
+                  
+                  
+                   
+                  <div style="width:100%; height:57px; position:absolute; z-index:15">
+                  
+                                <div style="overflow:hidden; height:1px; display:block; width:100%; background-color:#575758; z-index:15" id="MENUSLIDE">
+                                               
+                                                 <table width="100%" border="0" cellpadding="0" cellspacing="0" height="100%">
+                                                 <tbody><tr>
+                                                 <td align="left" valign="top">
+                                                          <table width="100%" height="100%" cellpadding="0" cellspacing="0" bgcolor="#575758">
+                                                          <tbody><tr>
+                                                          <td height="41" style="padding:0px 0px 0px 40px; border-bottom:solid 1px #000; background-image:url(../IMAGES/BG_LOGIN_TOP_1.jpg); background-repeat:repeat-x" align="center">
+                                                                     <table border="0" width="1000" height="100%" style="filter:DropShadow(Color=#333333, OffX=1, OffY=1, Positive=true);text-shadow: 1px 1px 0 #333;">
+                                                                           <tbody><tr>
+                                                                           <td width="240" nowrap="nowrap" align="left" style="font-size:11px"><strong style="color:#ED8000">NOT A MEMBER YET?</strong> <strong style="color:#FFF">SIGN UP</strong></td>
+                                                                           <td width="240" align="left" style="padding:0px 0px 0px 0px;font-size:11px"><strong style="color:#ED8000">MEMBER</strong> <strong style="color:#FFF">LOGIN</strong></td>
+                                                                           <td width="240" align="left"><strong style="color:#ED8000;font-size:11px">PASSWORD</strong> <strong style="color:#FFF">RETRIEVER</strong> </td>
+                                                                           </tr>
+                                                                     </tbody></table>
+                                                          </td>
+                                                          </tr>
+                                                          <tr>
+                                                          <td align="center" style="padding:0px 0px 0px 40px; border-top:solid 1px #666; background-image:url(../IMAGES/BOTTOM_MENUBG_NEW.png); background-position:bottom; background-repeat:repeat-x">
+                                                                       
+                                                                       
+                                                                       <table width="1000" height="100%" border="0">
+                                                                           <tbody><tr>
+                                                                           <td width="240" valign="top">
+                                                                                              
+                                                                                              <form method="post" id="REGFORM" action="?login">
+                                                                                                      
+                                                                                                      
+                                                                                                      <table style="color:#FFF">
+                                                                                                     
+                                                                                                      <tbody><tr>
+                                                                                                          <td style="padding-top:10px" class="textShadow">
+                                                                                                             <strong style="color:#CCC">Referrer</strong>
+                                                                                                             
+                                                                                                          </td>
+                                                                                                      </tr>
+                                                                                                  
+                                                                                                      <tr>
+                                                                                                          <td style="filter:Glow(Color=#999999, Strength=1);"><input type="text" class="darkInput" name="REFINPUT" id="REFINPUT" value=""></td>
+                                                                                                      </tr>
+                                                                                                      
+                                                                                                      <tr>
+                                                                                                          <td style="padding-top:10px" class="textShadow">
+                                                                                                             <strong style="color:#CCC" class="textShadow">Email</strong>
+                                                                                                          </td>
+                                                                                                      </tr> 
+                                                                                                      <tr>
+                                                                                                      <td style="color:#999">
+                                                                                                         This email address is used to authenticate your account should you ever encounter problems or forget your password. 
+                                                                                                      </td>
+                                                                                                      </tr>
+                                            
+                                                                                                      <tr>
+                                                                                                      <td style="filter:Glow(Color=#999999, Strength=1);"><input type="text" class="darkInput" name="EMAIL" id="EMAIL" value=""></td>
+                                                                                                      </tr> 
+                                                                                                      <tr>
+                                                                                                          <td style="padding-top:10px" class="textShadow">
+                                                                                                             <strong style="color:#CCC">Username</strong>
+                                                                                                          </td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                      <td>
+                                                                                                      <span style="color:#999">Please select username(no symbols)</span>
+                                                                                                      </td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                      <td style="filter:Glow(Color=#999999, Strength=1);"><input value="" type="text" class="darkInput" name="REGUSERNAME" id="REGUSERNAME"></td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                          <td style="padding-top:10px" class="textShadow">
+                                                                                                             <strong style="color:#CCC" class="textShadow">Password</strong> 
+                                                                                                          </td>
+                                                                                                      </tr> 
+                                                                                                      <tr>
+                                                                                                      <td style="color:#999">
+                                                                                                         Minimum of 8 characters in length.
+                                                                                                      </td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                      <td style="filter:Glow(Color=#999999, Strength=1);"><input value="" type="password" class="darkInput" name="PASSWORD" id="PASSWORD"></td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                          <td style="padding-top:10px" class="textShadow">
+                                                                                                             <strong style="color:#CCC" class="textShadow">Password Again</strong>
+                                                                                                          </td>
+                                                                                                      </tr> 
+                                                                                                      <tr>
+                                                                                                      <td style="filter:Glow(Color=#999999, Strength=1);"><input type="password" value="" class="darkInput" name="REPASSWORD" id="REPASSWORD"></td>
+                                                                                                      </tr>
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      <tr>
+                                                                                                          <td style="padding-top:10px" class="textShadow">
+                                                                                                             <strong style="color:#CCC" class="textShadow">Word Verification</strong>
+                                                                                                          </td>
+                                                                                                      </tr> 
+                                                                                                      <tr>
+                                                                                                      
+                                                                                                      </tr><tr>
+                                                                                                      <td style="filter:Glow(Color=#999999, Strength=1);">
+                                                                                                    
+                                                                                                      <input type="TEXT" class="darkInput" name="VERIFYWORD" id="VERIFYWORD">
+                                                                                                      </td>
+                                                                                                      </tr>
+                                                                                                      <tr><td style="color:#999">Type the characters you see in the picture.</td></tr>
+                                                                                                      
+                                                                                                      <tr><td>
+                                                                                                     
+                                                                                                                  
+                                                                                                                  <img src="../IMAGES/VERIFICATIONIMAGES/SIGNUP.PNG">
+                                                                                                                  
+                                                                                                                  
+                                                                                                      </td>
+                                                                                                      </tr>
+                                                                                                      
+                                                                                                      <tr>
+                                                                                                          <td style="padding-top:5px">
+                                                                                                            
+                                                                                                              
+      <table cellpadding="0" cellspacing="0" width="239" style="z-index:123456">
+      <tbody><tr>
+      <td style="cursor:pointer;background-image:url(); width:239px; height:35px;" onclick="ValidateUsername(document.getElementById('REGUSERNAME').value)">
+     
+              <table width="100%" height="100%" onclick="if(0 != 0){window.location.href = ''}" style="font-weight:bold; color:#FFF" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+              
+              
+              <td align="LEFT" valign="middle" class="textShadow" style="" onmouseover="this.style.color = '#0066CC'" onmouseout="this.style.color = '#FFFFFF'"> 
+                   SIGN UP 
+              </td>
+              </tr>
+              </tbody></table>
+      
+      </td>
+      </tr>
+      </tbody></table>
+
+ 
+
+
+
+
+                                                                                                             
+                                                                                                          </td>
+                                                                                                      </tr> 
+                                                                                                      </tbody></table>
+                                                                                              </form>
+                                                                           </td>
+                                                                           <td width="240" style="padding:0px 0px 0px 0px" valign="top" align="left">
+                                                                                                
+                                                                                              
+                                                                                                <form method="post" id="LOGINFORM" action="?login">
+                                                                                                      
+                                                                                                      <script>
+                                                                                                          function doSomething(e) {
+                                                                                                              var code;
+                                                                                                              
+                                                                                                              if (!e){ 
+                                                                                                                    var e = window.event;
+                                                                                                              }
+                                                                                                              
+                                                                                                              if (e.keyCode){
+                                                                                                                  code = e.keyCode;
+                                                                                                              }else if (e.which){ 
+                                                                                                                  code = e.which;
+                                                                                                              }
+                                                                                                          
+                                                                                                              if(code == 13){
+                                                                                                                 document.getElementById('LOGINFORM').submit()
+                                                                                                              }
+                                                                                                          }
+              
+                                                                                                      </script>
+                                                                                                      <table style="color:#FFF">
+                                                                                                        
+                                                                                                      <tbody><tr>
+                                                                                                          <td style="padding-top:10px">
+                                                                                                             <strong style="color:#CCC" class="textShadow">Username</strong>
+                                                                                                          </td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                      <td style="filter:Glow(Color=#999999, Strength=1);"><input type="text" class="darkInput" name="USERNAME" onkeydown="doSomething()"></td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                          <td style="padding-top:10px">
+                                                                                                             <strong style="color:#CCC" class="textShadow">Password</strong>
+                                                                                                          </td>
+                                                                                                      </tr> 
+                                                                                                      <tr>
+                                                                                                      <td style="filter:Glow(Color=#999999, Strength=1);"><input type="password" class="darkInput" name="PASSWORD" onkeydown="doSomething()"></td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                         <td height="215" style="background-image:url(../IMAGES/info.jpg); background-repeat:no-repeat; padding:0px 0px 0px 15px; line-height:17px; color:#000; font-size:11px;">
+                                                                                                         <div style="width:200px">
+                                                                                                         You can sign in with your <strong><a href="http://www.worldlightfunding.com" target="_blank" style="color:#000">WorldLightFunding.com</a></strong> username and password if you have paid username with <strong>"Funding.com"</strong> - that will carry you to the Pay Page for "Biz.com".
+                                                                                                         </div>
+                                                                                                         </td>
+                                                                                                      </tr>
+                                                                                                      
+                                                                                                      <tr>                                                                                                   
+                                                                                                          <td style="padding-top:10px">                                                                      
+                                                                                                             <span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=i72cD5wp1J1yIPlzS0QNOvdNUNw777FFdfBlRLekfNacJgf6dQoYmGN6E2"></script><br><a style="font-family: arial; font-size: 9px" href="http://www.godaddy.com" target="_blank">GoDaddy</a></span>
+                                                                                                             <br>
+                                                                                                             
+      <table cellpadding="0" cellspacing="0" width="239" style="z-index:123456">
+      <tbody><tr>
+      <td style="cursor:pointer;background-image:url(); width:239px; height:35px;" onclick="document.getElementById('LOGINFORM').submit()">
+     
+              <table width="100%" height="100%" onclick="if(0 != 0){window.location.href = ''}" style="font-weight:bold; color:#FFF" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+              
+              
+              <td align="LEFT" valign="middle" class="textShadow" style="" onmouseover="this.style.color = '#0066CC'" onmouseout="this.style.color = '#FFFFFF'"> 
+                   SIGN IN 
+              </td>
+              </tr>
+              </tbody></table>
+      
+      </td>
+      </tr>
+      </tbody></table>
+
+ 
+
+
+
+
+                                                                                                          </td>
+                                                                                                      </tr> 
+                                                                                                      </tbody></table>
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                      
+                                                                                                </form>
+                                                                           </td>
+                                                                           <td width="240" valign="top" style="color:#FFF; padding:0px 0px 0px 0px; line-height:15px">
+                                                                                                
+                                                                                                
+                                                                                                <form method="post" action="?login&amp;RETRIVE" id="retriveForm">
+                                                                                                     <table>
+                                                                                                      <tbody><tr>
+                                                                                                          <td style="padding-top:10px" class="textShadow">
+                                                                                                             <strong style="color:#CCC">Email or Username</strong>
+                                                                                                          </td>
+                                                                                                      </tr> 
+                                                                                                      <tr>
+                                                                                                          <td style="filter:Glow(Color=#999999, Strength=1);"><input type="text" class="darkInput" name="REEMAIL"></td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                          <td style="padding-top:10px" class="textShadow">
+                                                                                                             <strong style="color:#CCC">Word Verification</strong>
+                                                                                                          </td>
+                                                                                                      </tr> 
+                                                                                                      
+                                                                                                      <tr>
+                                                                                                          <td style="filter:Glow(Color=#999999, Strength=1);">
+                                                                                                          <input type="text" class="darkInput" name="REVERIFYWORD">
+                                                                                                          </td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                          <td>
+                                                                                                             <span style="color:#999">Type the characters you see in the picture.</span>
+                                                                                                          </td>
+                                                                                                      </tr>
+                                                                                                      <tr>
+                                                                                                          <td>
+                                                                                                          
+                                                                                                          
+                                                                                                          <br>
+                                                                                                          
+                                                                                                                  
+                                                                                                                  <img src="../IMAGES/VERIFICATIONIMAGES/RETRIVEVERIFY.PNG">
+                                                                                                         
+                                                                                                          </td>
+                                                                                                      </tr>
+                                                                                                      
+                                                                                                      <tr>
+                                                                                                          <td>
+                                                                                                            
+      <table cellpadding="0" cellspacing="0" width="239" style="z-index:123456">
+      <tbody><tr>
+      <td style="cursor:pointer;background-image:url(); width:239px; height:35px;" onclick="document.getElementById('retriveForm').submit()">
+     
+              <table width="100%" height="100%" onclick="if(0 != 0){window.location.href = ''}" style="font-weight:bold; color:#FFF" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+              
+              
+              <td align="LEFT" valign="middle" class="textShadow" style="" onmouseover="this.style.color = '#0066CC'" onmouseout="this.style.color = '#FFFFFF'"> 
+                   RETRIEVE 
+              </td>
+              </tr>
+              </tbody></table>
+      
+      </td>
+      </tr>
+      </tbody></table>
+
+ 
+
+
+
+
+                                                                                                        
+                                                                                                          </td>
+                                                                                                      </tr>
+                                                                                                      
+                                                                                                      
+                                                                                                      <tr>
+                                                                                                      <td height="72" style="padding:10px 5px 0px 10px; color:#999 ; background-repeat:no-repeat; background-image:url(../IMAGES/bg_black_1.gif); background-repeat:no-repeat">
+                                                                                                        <div style="width:240px">
+                                                                                                         Forgot your password? Enter your login email  and fill the security check. We will send you your password.
+                                                                                                         </div>
+                                                                                                      </td>
+                                                                                                      </tr>
+                                                                                                      
+                                                                                                            
+                                                                                                      </tbody></table>
+                                                                                                </form>
+                                                                                               
+                                                                           
+                                                                                
+                                                                          
+                                                                           </td>
+                                                                           </tr>
+                                                                       </tbody></table>
+                                                                       
+                                                          </td>
+                                                          </tr>
+                                                          </tbody></table>
+                                                 </td>
+                                                 </tr>
+                                                 </tbody></table>
+                                </div>
+                                <div style="width:100%; height:55px; z-index:15">
+                                                
+                                                 <table width="100%" cellpadding="0" cellspacing="0" height="80" border="0">
+                                                 <tbody><tr>
+                                                 <td width="50%" style="background-image:url(../IMAGES/TOP_MENUBG_NEW.png);  background-repeat:repeat-x;  background-position:top; cursor:pointer"></td>
+                                                 <td width="534" style="background-image:url(../IMAGES/BG_2.png); cursor:pointer; background-repeat:no-repeat">
+                                                             <div style="width:532px; color:#FFF; margin-left:0px;">
+                                                                <table>
+                                                                <tbody><tr>
+                                                                   <td style="padding:0px 15px 0px 15px"> <a href="http://www.worldlightbiz.com/INDEX.CFM" style="color:#FFF">Home</a></td>      
+                                                                   <td style="padding:0px 15px 0px 15px"><a href="http://www.worldlightbiz.com/MARKETING.CFM" style="color:#FFF">Commissions</a></td>  
+                                                                   <td style="padding:0px 15px 0px 15px"><a href="http://www.worldlightbiz.com/CONTACTUS.CFM" style="color:#FFF">Contact Us</a></td>
+                                                                   <td style="padding:0px 15px 0px 15px"><a href="http://www.worldlightbiz.com/FAQ.CFM" style="color:#FFF">FAQ</a></td>
+                                                                   
+                                                                   <td style="padding:0px 15px 0px 15px" class="textShadow"><a href="" style="color:#FFF" onclick="openMenu();changeLogButtonText(getInput('LOGBUTTON')); return false"><strong>Sign Up</strong></a></td>
+                                                                   
+                                                                </tr>
+                                                                </tbody></table>
+                                                             </div>
+                                                 </td>
+                                                 <td width="298" style="background-image:url(../IMAGES/TOP_MENUTAB_NEW.png); background-repeat:no-repeat; background-position:top" nowrap="">
+                                                             <div style="width:298; color:#FFF; margin-left:0px">
+                                                                     <center>
+                                                                     
+                                                                        Hello Guest!&nbsp; | &nbsp; <strong><a href="#" onclick="openMenu(); return false" style="color:#19ADFF"><span id="LOGBUTTON" onclick="changeLogButtonText(this)">Log In</span></a></strong> 
+                                                                     
+                                                                     </center>
+                                                             </div>
+                                                 </td>
+                                                 <td width="35%" style="background-image:url(../IMAGES/TOP_MENUBG_NEW.png);  background-repeat:repeat-x;  background-position:top"></td>
+                                                 </tr>
+                                                 </tbody></table>
+                                </div>
+                  
+                  </div>
+                  
+                  
+                  
+                  
+                  
+                 
+                  
+                           
+                            
+                  <div id="mainFrame" style="width:100%">
+                  <table width="100%" border="0">
+                  <tbody><tr>
+                  <td colspan="4" height="140"></td>
+                  </tr>
+                  <tr>
+                              <td width="50%">&nbsp;</td>
+                              <td style="padding:0px 0px 15px 0px" width="540" align="LEFT">
+                                      <table>
+                                      <tbody><tr>
+                                      <td>
+                                       
+                                      </td>
+                                      </tr>
+                                      </tbody></table>
+                                      <table width="540" height="100%">
+                                      <tbody><tr>
+                                         
+                                         
+                                         
+                                         <td valign="top" align="left" style="padding:120px 0px 0px 40px">
+                                                          
+                                                          
+                                                          
+                                                          <table style="color:#FFF">
+                                                          
+                                                          
+                                                          <tbody><tr>
+                                                                  <td style="padding:15px 10px 25px 0px; color:#000" nowrap="">
+                                                                  
+                                                                  <table cellpadding="0" cellspacing="0">
+                                                                  <tbody><tr>
+                                                                  <td>
+                                                                        
+                                                                                <span style="color:#FFF">-</span> <strong style="color:#FFF">Documents</strong>
+                                                                        
+                                                                  </td>
+                                                                  </tr>
+                                                                  </tbody></table>
+                                                                  
+                                                                  <table>
+                                                                      
+                                                                          <tbody><tr>
+                                                                          <td style="padding:4px 0px 4px 15px" nowrap="">
+                                                                          
+                                                                          
+                                                                         
+                                                                          
+                                                                          <a onclick="" href="http://www.worldlightbiz.com/LEGALDOCUMENTS/dis.cfm">Disclaimers and Warranties</a>
+                                                                          </td>
+                                                                             
+                                                                          </tr> 
+                                                                      
+                                                                          <tr>
+                                                                          <td style="padding:4px 0px 4px 15px" nowrap="">
+                                                                          
+                                                                          
+                                                                         
+                                                                          
+                                                                          <a onclick="" href="http://www.worldlightbiz.com/LEGALDOCUMENTS/eai.cfm">Earnings and Income</a>
+                                                                          </td>
+                                                                             
+                                                                          </tr> 
+                                                                      
+                                                                          <tr>
+                                                                          <td style="padding:4px 0px 4px 15px" nowrap="">
+                                                                          
+                                                                          
+                                                                         
+                                                                          
+                                                                          <a onclick="" href="http://www.worldlightbiz.com/LEGALDOCUMENTS/pp.cfm">Privacy Policy</a>
+                                                                          </td>
+                                                                             
+                                                                          </tr> 
+                                                                      
+                                                                          <tr>
+                                                                          <td style="padding:4px 0px 4px 15px" nowrap="">
+                                                                          
+                                                                          
+                                                                         
+                                                                          
+                                                                          <a onclick="" href="http://www.worldlightbiz.com/LEGALDOCUMENTS/tou.cfm">Terms of Service</a>
+                                                                          </td>
+                                                                             
+                                                                          </tr> 
+                                                                      
+                                                                  </tbody></table>
+                                                                  </td>
+                                                          </tr>
+                                                          
+                                                          </tbody></table>
+                                         </td>
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         
+                                         <td width="80%" height="100%" style="padding:20px 0px 0px 15px" valign="top">
+                                              
+                                              <table width="100%" height="100%" bgcolor="" cellpadding="0" cellspacing="0">
+                                              <tbody><tr>
+                                              
+                                              <td valign="top" style="padding-top:150PX">
+                                              <img src="../IMAGES/shadow_7.PNG">
+                                              </td>
+                                              
+                                              <td align="left" valign="top" width="100%">
+                                              
+                                                          <table width="100%" cellpadding="0" cellspacing="0">
+                                                          <tbody><tr>
+                                                          <td>
+                                                             
+                                                          </td>
+                                                          <td align="left" valign="bottom">
+                                                             <table cellpadding="0" cellspacing="0" border="0">
+                                                             <tbody><tr>
+                                                             <script>
+																	<!-- Idea by:  Nic Wolfe -->
+																	<!-- This script and many more are available free online at -->
+																	<!-- The JavaScript Source!! http://javascript.internet.com -->
+																	
+																	<!-- Begin
+																	function popUp(URL) {
+																			day = new Date();
+																			id = day.getTime();
+																			eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=1,scrollbars=1,location=1,statusbar=1,menubar=1,resizable=1,width=1600,height=900,left = 0,top = 0');");
+																	}
+																	// End -->
+						  
+															 </script>
+                                                             <td valign="bottom"><img style="cursor:pointer" align="absbottom" src="../IMAGES/FACEBOOK.PNG" onclick="popUp('http://www.facebook.com/worldlightfunding')"></td>
+                                                             <td valign="bottom"><img style="cursor:pointer" align="absbottom" src="../IMAGES/TEITTER.PNG" onclick="popUp('http://www.twitter.com/mikedodd')"></td>
+                                                             <td valign="bottom"><img style="cursor:pointer" align="absbottom" src="../IMAGES/sokule.png" onclick="popUp('http://www.sokule.com/postit/mikedodd')"></td>
+                                                             <td align="right" width="100%" valign="bottom" style="padding-bottom:5px">
+																	 
+                                                             </td>
+                                                             
+                                                             </tr>
+                                                             </tbody></table>
+                                                          </td>
+                                                          </tr>
+                                                          </tbody></table>
+                                                          
+                                                          <table width="100%" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" style="background-image:url(); background-position:right top; background-repeat:no-repeat">
+                                                          <tbody><tr>
+                                                               <td bgcolor="5476BB" width="30%" style="padding-left:20px">
+                                                                      <strong>PRIVACY POLICY </strong>
+                                                               </td>
+                                                               <td height="50" width="70%" bgcolor="#000000">&nbsp;</td>
+                                                          </tr>
+                                                          
+                                                          
+                                                          <tr>
+                                                          <td height="100%" colspan="2" valign="top">
+                     <table width="640">
+                     <tbody><tr>
+                       <td style="padding:40px 40px 40px 40px"><p><strong>PRIVACY  POLICY</strong> </p>
+                         <p>Your privacy is very important to us. We want to make your experience on the  Internet as enjoyable and rewarding as possible, and we want you to use the  Internet's vast array of information, tools, and opportunities with complete  confidence. <br>
+                         We have  created this Privacy Policy to demonstrate our firm commitment to privacy and  security. This Privacy Policy describes how our company collects information  from all end users of our Internet services (the "Services")-those  who access some of our Services but do not have accounts ("Visitors")  as well as those who may purchase Products and/or pay a monthly service fee to  subscribe to the Service ("Members")-what we do with the information  we collect, and the choices Visitors and Members have concerning the collection  and use of such information. We request that you read this Privacy Policy  carefully. </p>
+                         <p><br>
+                           <strong>Personal  Information Our Company Collects and How It Is Used</strong> <br>
+                         Introduction.  Our company collects information in different ways from Visitors and Members who  access the various parts of our Services and the network of Web sites  accessible through our Service. We use this information primarily to provide a  customized experience as you use our Products and Services, and generally, do  not share this information with third parties. However, we may disclose  personal information collected if we have received your permission beforehand  or in very special circumstances, such as when we believe that such disclosure  is required by law or other special cases described below. </p>
+                         <p>&nbsp;</p>
+                         <p><br>
+                           <strong>Registration</strong>: </p>
+                         <p>Members may be  asked to provide certain personal information when they sign up for our  Products or Services including name, address, telephone number, billing  information (such as a credit card number), and the type of personal computer  being used to access the Services. The personal information collected from  Members during the registration process is used to manage each Member's account  (such as for billing purposes). This information is not shared with third  parties, unless specifically stated otherwise or in special circumstances.  However, in instances where our company and a partner jointly promote our  Services, we may provide the partner certain personal information, such as the  name, address, and username of persons who subscribed to the Services as a  result of the joint promotion for the sole purpose of allowing us and the  partner to assess the results of the promotion. In this instance, personal  information may not be used by the partner for any other purpose. We may also  generate non-identifying and aggregate profiles from personal information  Members provide during registration (such as the total number, but not the  names, of Members). As explained in more detail below, we may use this  aggregated and non-identifying information to sell advertisements that appear  on the Services. </p>
+                         <p>&nbsp;</p>
+                         <p><br>
+                           <strong>Our  Company Partners and Sponsors</strong>: </p>
+                         <p>Some products and services may be offered  to Visitors and Members in conjunction with an affiliate, independent  contractor seller or non-affiliated partner. To provide Visitors and Members  some of these products and services, the partner may need to collect and  maintain personal information. In these instances, you will be notified before  any such data is collected or transferred and may decide not to use that  particular service or feature. Additionally, our partners may have  advertisements or co-branded Web Pages that are cosponsored by an affiliate,  independent contractor seller, or non-affiliated partner. Our company may share  non-identifying and aggregate information (except as described above), but not  personal information, with such partners in order to administer the co-branded  products or services offered. <br>
+                         </p>
+                         <p>&nbsp;</p>
+                         <p><strong>Online  Shopping</strong>:  </p>
+                         <p>At some Web sites, you can purchase products and services or register to  receive materials, such as a newsletter, catalog or new product and service  updates. In many cases, you may be asked to provide contact information, such  as your name, address, email address, phone number, and credit/debit card  information. If you complete an order for someone else, such as an online gift  order sent directly to a recipient, you may be asked to provide information  about the recipient, such as the recipient's name, address, and phone number.  Our company has no control over the third parties' use of any personal  information you provide when placing such an order. Please exercise care when  doing so. <br>
+                           If you  order services or products directly from our company we will use the personal  information you provide only to process that order. We do not share this  information with outside parties except to the extent necessary to complete  that order. <br>
+                         </p>
+                         <p>&nbsp;</p>
+                         <p><strong>Online  Advertisements</strong>:  </p>
+                         <p>Our company may display our online advertisements. In those cases we share  aggregated and non-identifying information about our Visitors and Members collected  through the registration process as well as through online surveys and  promotions with these advertisers. Additionally, in some instances, we use this  aggregated and non-identifying information to deliver tailored advertisements  or joint ventures. For instance, an advertiser or joint venture company tells  us the audience they want to reach and provides us an advertisement tailored to  the audience. Based upon the aggregated and non-identifying information we have  collected, we may then display or send the advertisement to the intended  audience. Our company does not share personal information about its Visitors or  Members with these advertisers or joint venture companies.<br>
+                         </p>
+                         <p><strong>Responses  to Email Inquiries</strong>:</p>
+                         <p> When Visitors or Members send email inquiries to our  company, the return email address is used to answer the email inquiry we  receive. Our company does not use the return email address for any other  purpose and does not share the return email address with any third party. <br>
+                         </p>
+                         <p><strong>Voluntary  Customer Surveys</strong>:  </p>
+                         <p>We may periodically conduct both business and individual customer surveys. We  encourage our customers to participate in these surveys because they provide us  with important information that helps us to improve the types of products and  services we offer and how we provide them to you. Your personal information and  responses will remain strictly confidential, even if the survey is conducted by  a third party. Participation in our customer surveys is voluntary. <br>
+                           We may take  the information we receive from individuals responding to our Customer Surveys  and combine (or aggregate) it with the responses of other customers we may  have, to create broader, generic responses to the survey questions (such as  gender, age, residence, hobbies, education, employment, industry sector, or  other demographic information). We then use the aggregated information to  improve the quality of our services to you, and to develop new services and  products. This aggregated, non-personally identifying information may be shared  with third parties. Promotions: Our company may offer polls, contests,  sweepstakes, drawings, games, content, or other promotions that are sponsored  by or cobranded with third parties. In certain instances, company may have to  supply personally identifiable information of the winners to the third parties.  Our company has no control over third parties' use of this information. <br>
+                           You may be  entered in a sweepstakes, contest, or other promotion, simply by making a  purchase from us or by providing us with personally identifiable information  for some other reason or purpose. When the winning entries are chosen, only the  names and personally identifiable information of the winners are shared with  the entity administering the sweepstakes or contest, so that they can notify  the winners.<br>
+                         </p>
+                         <p><strong>Special  Cases</strong>:</p>
+                         <p> It is our company's policy not to use or share the personal information about  Visitors of Members in ways unrelated to the ones described above without also  providing you an opportunity to opt out or otherwise prohibit such unrelated  uses. However, we may disclose personal information about Visitors or Members,  or information regarding your use of the Services or Web sites accessible  through our Services, for any reason if, in our sole discretion, we believe  that it is reasonable to do so, including: credit agencies, collection  agencies, merchant database agencies, law enforcement, or to satisfy laws, such  as the Electronic Communications Privacy Act, the Child Online Privacy Act,  regulations, or governmental or legal requests for such information; to  disclose information that is necessary to identify, contact, or bring legal  action against someone who may be violating our Acceptable Use Policy or Terms  Of Service, or other user policies; to operate the Services properly; or to  protect our company and our Members. <br>
+                           Notice of  Compliance to California Residents; Your California Privacy Rights Under The California  Online Privacy Protection Act and the California  Business and Professions Code <br>
+                           This  privacy policy identifies the categories of personally identifiable information  that our company collects through our Web site or online service, about  individual consumers who use or visit our company's commercial Web site or  online service and the categories of third-party persons or entities with whom  our company may share that personally identifiable information.<br>
+                           Our company  does not maintain a process for an individual consumer who uses or visits our  commercial Web site or online service to review and request changes to any of  his or her personally identifiable information that is collected through our  Web site or online service.<br>
+                           See the  section below entitled "Revisions To This Policy" for a description  of the process by which our company notifies consumers who use or visit our  commercial Web site or online service of material changes to our company's  privacy policy for this Web site or online service.<br>
+                           The  effective date of this privacy policy is listed at the end of this privacy  policy under the heading, "Last updated."<br>
+                         </p>
+                         <p><strong>For  the purposes of this policy and California  compliance the following definitions apply:</strong> <br>
+                           Depending  on the visitor's activity, in our commercial Web site or online service, the  following "personally identifiable information" may be collected, in  addition to information set forth in other sections of this document.<br>
+                           The term  "personally identifiable information" means individually identifiable  information about an individual consumer collected online by our company from  an individual and maintained by our company in an accessible form, and may  include any of the following:<br>
+                           (1) A first  and last name. (2) A home or other physical address, including street name and  name of a city or town. (3) An e-mail address. (4) A telephone number. (5) A  social security number. (6) Any other identifier that permits the physical or  online contacting of a specific individual. (7) Information concerning a user  that the Web site or online service collects online, from the user, and  maintains in personally identifiable form, in combination with an identifier described  within this privacy policy.<br>
+                           Under  California Law SB 27, California  residents have the right to receive, once a year, information about third  parties with whom we have shared information about you or your family for their  marketing purposes during the previous calendar year, if any, and a description  of the categories of personal information shared. To make such a request,  please send an email to Privacy@PrivacyRequest.com and please include the  phrase "California Privacy Request" in the subject line, the domain  name of the Web site you are inquiring about, along with your name, address and  email address. We will respond to you within thirty days of receiving such a  request. <br>
+                           "Cookies"  and How Our Company Uses Them. A "cookie" is a small data file that  can be placed on your hard drive when you visit certain Web sites. Our company  may use cookies to collect, store, and sometimes track information for  statistical purposes to improve the products and services we provide and to  manage our telecommunications networks. If you are a Visitor or Member we may  use a cookie to save your settings and to provide customizable and personalized  services. These cookies do not enable third parties to access any of your  customer information. Additionally, be aware that if you visit other Web sites  where you are prompted to log in or that are customizable, you may be required  to accept cookies. <br>
+                           Advertisers  and partners may also use their own cookies. We do not control use of these  cookies and expressly disclaim responsibility for information collected through  them. <br>
+                           Our Company  Commitment to Children's Privacy. Protecting children's privacy is especially  important to us. It is our policy to comply with the Children's Online Privacy  Protection Act of 1998 and all other applicable laws. Therefore we restrict our  Web site to persons eighteen years or older.<br>
+                           YOU MUST BE  EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN  YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE  TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY  THIS WEB SITE, FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT  (COPPA) AND IS NOT MONITORED AS DOING SO.<br>
+                           Public  Forums: Please remember that any information you may disclose in any Member  Directory, or other public areas of our Web sites or the Internet, becomes  public information. You should exercise caution when deciding to disclose  personal information in these public areas. <br>
+                           Our  Company's Commitment to Data Security: Services and Web sites we sponsor have  security measures in place to protect the loss, misuse, and alteration of the  information under our control. While we make every effort to ensure the  integrity and security of our network and systems, we cannot guarantee that our  security measures will prevent third-party "hackers" from illegally  obtaining this information. <br>
+                           Where to  Direct Questions About Our Privacy Policy: If you have any questions about this  Privacy Policy or the practices described herein, you may contact us through  the contact information provided on this Web site. <br>
+                           Revisions  to This Policy: Our company reserves the right to revise, amend, or modify this  policy, our Terms Of Service agreement, and our other policies and agreements  at any time and in any manner, by updating this posting. Your use of this site  after such changes are implemented constitutes your acknowledgement and  acceptance of these changes. Please consult this privacy statement prior to  every use for any changes.<br>
+                       Copyright  2003-2008 <a href="http://InternetMarketingLawProducts.com" target="_blank">InternetMarketingLawProducts.com</a> for World Light Ltd. Direct all correspondence to World Light LLC, a public  relations firm for World Light Ltd. in Seychelles.</p></td>
+                     </tr>
+                     </tbody></table>
+</td>
+                                                          </tr>
+                                                          </tbody></table>
+                                              
+                                              </td>
+                                              
+                                              <td valign="top" style="padding-top:150PX">
+                                              <img src="../IMAGES/shadow_8.PNG">
+                                              </td>
+                                              
+                                              </tr>
+                                              <tr>
+                                              <td align="center" colspan="3"><img src="../IMAGES/NEW_SHADOW_1.PNG"></td>
+                                              </tr>
+                                              </tbody></table>
+                                         </td>
+                                         
+                                      </tr>
+                                      </tbody></table>
+                              </td>
+                              <td width="298">&nbsp;</td>
+                              <td width="35%">&nbsp;</td>
+                  </tr>
+                  </tbody></table>
+                  </div>
+                  
+                  
+                  
+      </td>
+      </tr>
+      </tbody></table>
+      
+      
+      <table cellpadding="0" cellspacing="0" width="100%">
+                  <tbody><tr>
+                  <td align="center" height="100%">
+                          <table cellpadding="0" cellspacing="0" width="100%">
+                          <tbody><tr>
+                                <td style="background-image:url(../IMAGES/BOTTOM_MENUBG_NEW.png);  background-repeat:repeat-x;  background-position:bottom" width="20%"></td>
+                                <td align="left" height="40" style="background-image:url(../IMAGES/BOTTOM_MENUTAB_NEW.png); background-repeat:no-repeat; background-position:bottom" nowrap="">
+                                 <div style="width:228px; color:#FFF; margin-left:40px">
+                                    Site Map
+                                 </div>
+                                </td>
+                                <td style="background-image:url(../IMAGES/BOTTOM_MENUBG_NEW.png);  background-repeat:repeat-x;  background-position:bottom" width="80%"></td>
+                          </tr>
+                          </tbody></table>
+                          <table cellpadding="0" cellspacing="0" height="100%" width="100%" bgcolor="#212121" style=" background-repeat:repeat-x">
+                          <tbody><tr>
+                          <td height="200" align="CENTER" valign="TOP" style="padding:15px 0px 20px 0px; background-image:url(../IMAGES/TOP_MENUBG_NEW.png);  background-repeat:repeat-x;  background-position:top;">
+                          <table>
+                          <tbody><tr>
+                          <td width="900" align="CENTER" valign="TOP">
+                                <table border="0" width="80%">
+                                <tbody><tr>
+                                <td nowrap="" height="100" valign="top" align="left" width="20%" style="line-height:19px">
+                                          <strong style="color:#4F4F4F">WORLDLIGHT</strong>
+                                          <br><br>
+                                          <li><a href="http://www.worldlightbiz.com" style="color:#ccc; text-decoration:none">Home</a></li>
+                                          <li><a href="http://www.worldlightbiz.com" style="color:#ccc; text-decoration:none">Marketing</a></li>
+                                </td>
+                                <td nowrap="" height="100" valign="top" align="left" width="20%" style="line-height:19px">
+                                            <strong style="color:#4F4F4F">MARKETING</strong>
+                                            <br><br>
+                                            <li><a href="http://www.worldlightbiz.com/MARKETING.CFM" style="color:#ccc; text-decoration:none">Comissions </a></li>
+                                </td>
+                                
+                                
+                                <td nowrap="" height="100" valign="top" align="left" width="20%" style="line-height:19px">
+                                            <strong style="color:#4F4F4F">SUPPORT</strong>
+                                            <br><br>
+                                            <li><a href="http://www.worldlightbiz.com/CONTACTUS.CFM" style="color:#ccc; text-decoration:none">Contact Us</a></li>
+                                            <li><a href="http://www.worldlightbiz.com/FAQ.CFM" style="color:#ccc; text-decoration:none">FAQ</a></li>
+                                            
+                                            <li><a href="http://www.worldlightbiz.com/INDEX.CFM?login" style="color:#ccc; text-decoration:none">Login</a></li>
+                                            
+                                </td>
+                                
+                                <td nowrap="nowrap" height="100" valign="top" align="left" width="20%" style="line-height:19px">
+
+                                            <strong style="color:#4F4F4F">LEGAL DOCUMENTS</strong>
+                                            <br><br>
+                                            <li><a href="http://www.worldlightbiz.com/LEGALDOCUMENTS/DIS.CFM" style="color:#ccc; text-decoration:none">Disclaimers and Warranties</a></li>
+                                            <li><a href="http://www.worldlightbiz.com/LEGALDOCUMENTS/EAI.CFM" style="color:#ccc; text-decoration:none">Earnings and Income </a></li>
+                                            <li><a href="http://www.worldlightbiz.com/LEGALDOCUMENTS/PP.CFM" style="color:#ccc; text-decoration:none">Privacy Policy</a></li>
+                                            <li><a href="http://www.worldlightbiz.com/LEGALDOCUMENTS/tou.CFM" style="color:#ccc; text-decoration:none">Terms of Service</a></li>
+                                </td>
+                                </tr>
+                                </tbody></table>
+                          </td>
+                          </tr>
+                          </tbody></table>
+                          </td>
+                          </tr>
+                          </tbody></table>
+                          
+                  </td>
+                  </tr>
+      </tbody></table>
+
+
+        
+        
+        <script>
+		          function findPosition(obj){
+									var curtop  = 0;
+									var curleft = 0;
+									
+									if (obj.offsetParent) {
+										 do{
+											 curleft += obj.offsetLeft;
+											 curtop += obj.offsetTop;
+											 
+											 }while(obj = obj.offsetParent)
+									}
+									
+									return [curtop,curleft]
+				 }
+				 
+				 var alltags = document.getElementsByTagName('A')
+				 for(i=0;i<alltags.length;i++){
+				      if(alltags[i].innerHTML == 'David Preston SEO'){
+						  document.getElementById('DAVIDMSG').style.left = findPosition(alltags[i])[1]+105
+				          document.getElementById('DAVIDMSG').style.top  = findPosition(alltags[i])[0]-40
+					  }
+				 }
+	   </script>
+        
+        
+</body></html>
