@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scmp.com privacy policy that was archived on 2007-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070612143512id_/https%3A//register.scmp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scmp.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501183024id_/https%3A//register.scmp.com/privacy.php) for the most accurate reproduction.*
 
 # SCMP.com - the online edition of South China Morning Post, Hong Kong's premier English-language newspaper
 
@@ -194,5 +194,10 @@ By using the SCMP.com Web site you consent to our collection and use of your per
 
   
   
+**What Do We Do with the Information We Gather?**
+
+We may use third-party advertising companies, such as Performics Inc., to serve or track ads on our web site and other web sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services that may be of interest to you. To find out more about the use of cookies and the information-gathering practices and opt-out procedures of Performics, please 
+
+[_click here_](http://performics.com/our_company_files/privacy.htm).   
   
 |  
