@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sputnikmusic.com privacy policy that was archived on 2010-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101130033057id_/http%3A//sputnikmusic.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sputnikmusic.com privacy policy that was archived on 2011-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110501081950id_/http%3A//www.sputnikmusic.com/policy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Sputnikmusic - Privacy Policy</title>
@@ -19,17 +19,49 @@
 	--></style>
 
 
-<script type="text/javascript" src="/scripts/jquery-1.3.1.min.js"></script>
+		<style type="text/css">
+		<!--
+		.ui-menu-item{
+		font-size:10px;
+		}
+			--></style>
+<script type="text/javascript" src="/scripts/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery-ui.min.js"></script>
 <script type="text/javascript" src="/scripts/buttons.js"></script>
 
 <script type="text/javascript" src="/scripts/tipsy/src/javascripts/jquery.tipsy.js"></script>
 <link rel="stylesheet" href="/scripts/tipsy/src/stylesheets/tipsy.css" type="text/css">
-<script type="text/javascript" src="/scripts/jquery-ui-personalized-1.6rc6.min.js"></script>
 <script type="text/javascript" src="/boxy-0.1.4/docs/javascripts/jquery.boxy.js"></script>
+
 <link rel="stylesheet" href="/boxy-0.1.4/docs/stylesheets/boxy.css" type="text/css">
+<link rel="stylesheet" type="text/css" href="/scripts/jquery-ui.css">
 <link type="text/css" rel="stylesheet" href="/scripts/theme/ui.tabs.css">
-<link type="text/css" rel="stylesheet" href="/scripts/theme/ui.core.css">
 <link type="text/css" rel="stylesheet" href="/scripts/theme/ui.theme.css">
+
+<script>
+	$(function() {
+		var cache = {},
+			lastXhr;
+		$( "#birds" ).autocomplete({
+			minLength: 4,
+			source: function( request, response ) {
+				var term = request.term;
+				if ( term in cache ) {
+					response( cache[ term ] );
+					return;
+				}
+
+				lastXhr = $.getJSON( "/autosuggest.php", request, function( data, status, xhr ) {
+					cache[ term ] = data;
+					if ( xhr === lastXhr ) {
+						response( data );
+					}
+				});
+			}
+		});
+	});
+	</script>
+
   <script>
   $(document).ready(function(){
     $("#tabs").tabs();
@@ -40,6 +72,7 @@
 
     
 
+ 
 <script language="Javascript" src="/FusionCharts/FusionCharts.js"></script>
 <script type="text/javascript" src="/includes/rest.js"></script>
 <script type="text/javascript" src="/includes/ajaxtabs.js"></script>
@@ -70,6 +103,7 @@ $(document).ready(function() {
 </head>
 
 <body bgcolor="#CCCCCC" color="#333333">
+
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://optimize.indieclick.com/www/delivery/ajs.php':'http://optimize.indieclick.com/www/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
@@ -84,7 +118,7 @@ $(document).ready(function() {
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=380302&amp;cb=77107226854&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101130033057id_/http%253A//sputnikmusic.com/policy.php"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=a6d686d5&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=380302&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a6d686d5' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=380302&amp;cb=98029157570&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110501081950id_/http%253A//www.sputnikmusic.com/policy.php"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=a6d686d5&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=380302&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a6d686d5' border='0' alt='' /></a></noscript>
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://optimize.indieclick.com/www/delivery/ajs.php':'http://optimize.indieclick.com/www/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
@@ -99,7 +133,7 @@ $(document).ready(function() {
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=153402&amp;cb=4526606121&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101130033057id_/http%253A//sputnikmusic.com/policy.php"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=adf57c0f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=153402&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=adf57c0f' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=153402&amp;cb=36902116628&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110501081950id_/http%253A//www.sputnikmusic.com/policy.php"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=adf57c0f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=153402&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=adf57c0f' border='0' alt='' /></a></noscript>
 <div align="center"> 
   <table width="870" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr> 
@@ -119,7 +153,7 @@ $(document).ready(function() {
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=2032&amp;cb=33744906468&amp;loc=https%3A//web.archive.org/web/20101130033057id_/http%253A//sputnikmusic.com/policy.php"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=a8aad2f0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=2032&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a8aad2f0' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=2032&amp;cb=16175726042&amp;loc=https%3A//web.archive.org/web/20110501081950id_/http%253A//www.sputnikmusic.com/policy.php"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=a8aad2f0&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=2032&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a8aad2f0' border='0' alt='' /></a></noscript>
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <script type="text/javascript">_qacct="p-52tPwtcDlSoqU";quantserve();</script>
 <noscript>
@@ -184,8 +218,8 @@ $(document).ready(function() {
                     <input type="hidden" name="search_in" value="Bands">
                 
 			
-			<input name="search_text" class="search_fielld" type="text" id="search_text" size="25" style="font-family: Verdana;font-size: 9pt; color:#bbb;border: 1px solid #444;padding:
-3px;background-color: #333;margin-bottom:4px;" onfocus="MM_setTextOfTextfield('search_text','','')" value="Find a Band">
+			<input name="search_text" type="text" id="birds" size="25" style="font-family: Verdana;font-size: 9pt; color:#bbb;border: 1px solid #444;padding:
+3px;background-color: #333;margin-bottom:4px;" onfocus="MM_setTextOfTextfield('birds','','')" value="Find a Band" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
 <input value="Search" class="search_button" src="http://www.sputnikmusic.com/newdesign/images/search.jpg" style="margin-bottom:-4px;" type="image"></td>
                   </tr>
                   <tr>  
@@ -269,4 +303,4 @@ urchinTracker();
 </script>
 
 
-</td></tr></tbody></table></div></body></html>
+</td></tr></tbody></table></div><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
