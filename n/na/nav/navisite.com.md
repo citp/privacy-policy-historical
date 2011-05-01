@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navisite.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229201011id_/http%3A//www.navisite.com/legal-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navisite.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501021259id_/http%3A//www.navisite.com/legal-privacy-policy.htm) for the most accurate reproduction.*
 
 # NaviSite Legal Statements | Privacy Policy
 
@@ -48,12 +48,6 @@ Some of our business partners (e.g., advertisers) use cookies on our site. We ha
 
 This privacy statement covers the use of cookies by NaviSite, Inc. only and does not cover the use of cookies by any advertisers.
 
-## Clear Gifs (Web Beacons/Web Bugs)
-
-One of our third party advertising partners employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personally identifiable information.
-
-To learn more about our third party advertising partners’ use of clear gifs, please go to LeadForce1's privacy policy.
-
 ## Access to Opt Out
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by emailing our Marketing Department at [webinfo@navisite.com](mailto:webinfo@navisite.com) or by contacting us by telephone or postal mail at the contact information listed below.
@@ -88,5 +82,3 @@ If, however, we are going to use users' personally identifiable information in a
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. This policy and the statements outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
 If you have any questions about the security at our website, you can send an email to [webinfo@navisite.com](mailto:webinfo@navisite.com).
-
-Trademarks: © 2010 NaviSite, Inc. All rights reserved. NaviSite and the NaviSite logo are trademarks of NaviSite, Inc.
