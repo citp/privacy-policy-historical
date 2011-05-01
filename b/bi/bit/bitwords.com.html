@@ -1,0 +1,1292 @@
+<!--The following is the downloaded HTML source of the bitwords.com privacy policy that was archived on 2011-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110501121938id_/http%3A//www.bitwords.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<title>Bitwords media privacy policy</title>
+<meta name="description" content="Bitwords media privacy policy, Bitwords media specialized in Logo design, and development services in New York City, USA">
+<meta name="keywords" content="Bitwords media privacy-policy, privacy policy">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta name="Distribution" content="Global">
+
+<meta name="Language" content="en-us">
+
+
+<link rel="stylesheet" type="text/css" href="http://www.bitwords.com/css/style.css">
+<link rel="stylesheet" type="text/css" href="http://www.bitwords.com/css/listmenu_h.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.bitwords.com/style_light.css" title="day">
+
+<!--[if lte IE 6]>
+	<link rel="stylesheet" type="text/css" href="css/ie6.css" />
+<![endif]-->
+<!--[if IE 7]>
+	<style type="text/css">
+		@import url("css/ie.css");
+	</style>
+<![endif]-->
+
+<script src="js/jquery-1.3.2.js" type="text/javascript"></script>
+			<script src="js/jquery-easing.1.2.pack.js" type="text/javascript"></script>
+			<script src="js/jquery-easing-compatibility.1.2.pack.js" type="text/javascript"></script>
+			<script src="js/coda-slider.1.1.1.js" type="text/javascript"></script>
+			<script src="js/accordian-src.js" type="text/javascript"></script>
+			<script src="js/script.js" type="text/javascript"></script>
+			<script src="js/mail.js" type="text/javascript"></script>
+			<script src="js/validation3.js" type="text/javascript"></script>
+			<script src="js/jquery.smoothanchors2.js" type="text/javascript"></script>
+			
+<script type="text/javascript">
+	
+
+// -------------------- code end -----------------
+
+jQuery.noConflict();
+jQuery(document).ready(function(){
+
+	jQuery(".form-tab").click(function(){			
+		jQuery(".form-box").slideToggle("slow");
+		jQuery(this).toggleClass("form-bottom-tab");
+	});
+	
+	jQuery(".form-bottom-tab").click(function(){			
+		jQuery(".form-box").slideToggle("slow");
+		jQuery(this).toggleClass("form-tab");
+	});
+	
+	/*jQuery('#logoCarousel').jcarousel({
+		vertical: true,
+        scroll: 1,		
+		auto: 2
+    });*/
+});
+
+// -------------------- code end -----------------
+
+if('privacy-policy' == 'index')
+	var PlayPause = 0;
+else
+	var PlayPause = 1;
+
+var IEE = /*@cc_on!@*/false; // for banner
+var IE = /*@cc_on!@*/false; // for side show
+
+		jQuery(window).bind("load", function() {
+			
+			//alert(document.getElementById( 'zzzzmeri_id' ));
+			jQuery("div#slider1").codaSlider();
+						
+						
+			// jQuery("div#slider2").codaSlider()
+			// etc, etc. Beware of cross-linking difficulties if using multiple sliders on one page.
+		});
+		
+		var trigerAnchor,trigerAnchor2;
+		
+		if(!IE)
+		{
+			var evt = document.createEvent("MouseEvents");
+			evt.initMouseEvent("click", true, true, window,0, 0, 0, 0, 0, false, false, false, false, 0, null);
+		}
+
+		jQuery(document).ready( function()
+		{
+			if('privacy-policy' == 'index')
+				new Accordian('basic-accordian',3,'header_highlight');
+			
+			if(PlayPause == 0)
+				setTimeout('runBANNER()',1000); // for banner
+						
+		});
+		
+		function runBANNER()
+		{
+			
+			if(IEE)
+			{
+				if(PlayPause == 0)
+					setTimeout('forIEE()',7000);
+			}
+			else
+			{
+				if(PlayPause == 0)
+					setTimeout('forFireFoxX()',7000);
+			}
+		}
+		
+		function forFireFoxX() // for FireFox and Rest -- BANNER
+		{ 
+			trigerAnchor2 = document.getElementById('R');
+			
+			evt = document.createEvent("MouseEvents");
+			evt.initMouseEvent("click", true, true, window,0, 0, 0, 0, 0, false, false, false, false, 0, null);
+			//alert(trigerAnchor2);
+			trigerAnchor2.dispatchEvent(evt);
+			if(PlayPause == 0)
+			{
+				//setTimeout('forFireFoxX()',7000);
+			}
+			
+		}
+		
+		function forIEE() // for IE -- BANNER
+		{
+			trigerAnchor2 = document.getElementById('R');
+			trigerAnchor2.fireEvent('onClick');
+			if(PlayPause == 0)
+			{
+				setTimeout('forIEE()',7000);
+			}
+		}
+		
+	
+		
+// -------------------- code end -----------------
+	
+jQuery.noConflict();
+
+function openContainer ( strID , strID2 ){
+	if ( jQuery("#"+strID).css("height") != 'auto' ) {
+		jQuery("#"+strID).slideUp("slow");
+		resetImages ( );
+	}else{
+		closeOthers ( ) ;
+		jQuery("#"+strID).slideDown("slow");
+		overImage ( strID2 );
+	}
+}
+
+function overImage ( strID2 ){
+	if ( jQuery("#"+strID2).attr('class')== 'accordionTop') {
+		
+		jQuery("#"+strID2).css("background","transparent url(images/head-01-over.jpg) no-repeat scroll 0 0");
+		
+	}else if ( jQuery("#"+strID2).attr('class')== 'accordionMid') {
+		
+		jQuery("#"+strID2).css("background","transparent url(images/head-02-over.jpg) no-repeat scroll 0 0");
+		
+	}else if ( jQuery("#"+strID2).attr('class')== 'accordionBottom') {
+		
+		jQuery("#"+strID2).css("background","transparent url(images/head-02-over.jpg) no-repeat scroll 0 0");
+		
+		jQuery("#divSideMenu99").slideDown("slow");
+		
+	}		
+}
+
+function resetImages ( ){
+	jQuery(".accordionTop").css("background","transparent url(images/head-01.jpg) no-repeat scroll 0 0");
+	jQuery(".accordionMid").css("background","transparent url(images/head-02.jpg) no-repeat scroll 0 0");
+	jQuery(".accordionBottom").css("background","transparent url(images/head-03.jpg) no-repeat scroll 0 0");
+	jQuery("#divSideMenu99").slideUp("slow");
+}
+
+function closeOthers ( ){
+	jQuery(".accordionDiv").slideUp("slow");
+	resetImages ( );
+}
+
+// -------------------- code end -----------------
+
+var baseName = '';
+var ID_1 = 0;
+var ID_2 = 0;
+var ID_3 = 0;
+var ID_4 = 0;
+
+var PlayPause = 0;
+var IEE = /*@cc_on!@*/false; // for banner 
+var IE = /*@cc_on!@*/false; // for side show
+
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore(dummy) { //v3.0
+
+	  var i,x,a=document.MM_sr; 
+	  for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) 
+	  {
+		 switch(x.id)
+		 {
+			case 'Image1':
+				//alert(ID_1);
+				if(ID_1 == 0)
+				{
+					x.src=x.oSrc;
+				}
+				break;
+			case 'Image2':
+			//	alert(ID_2);
+				if(ID_2 == 0)
+				{
+					x.src=x.oSrc;
+				}
+				break;
+			case 'Image3':
+			//	alert(ID_3);
+				if(ID_3 == 0)
+				{
+					x.src=x.oSrc;
+				}
+				break;
+			case 'Image4':
+			//	alert(ID_4);
+				if(ID_4 == 0)
+				{
+					x.src=x.oSrc;
+				}
+				break;
+			default:
+				x.src=x.oSrc;
+				break;		 
+		  }
+	  }
+  
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+
+  var i,j=0,x,a=MM_swapImage.arguments; 
+  document.MM_sr=new Array; 
+  for(i=0;i<(a.length-2);i+=3)
+  	if ((x=MM_findObj(a[i]))!=null)
+   	{
+	   document.MM_sr[j++]=x; 
+	   
+	   switch(x.id)
+		{
+			case 'Image1':
+				if(ID_1 == 0)
+				{
+					if(!x.oSrc) 
+				   		x.oSrc=x.src; 
+					x.src=a[i+2];
+				}
+				break;
+			case 'Image2':
+				if(ID_2 == 0)
+				{
+					if(!x.oSrc) 
+				   		x.oSrc=x.src; 	
+					x.src=a[i+2];
+				}
+				break;
+			case 'Image3':
+				if(ID_3 == 0)
+				{
+					if(!x.oSrc) 
+				   		x.oSrc=x.src; 	
+					x.src=a[i+2];
+				}
+				break;
+			case 'Image4':
+				if(ID_4 == 0)
+				{
+					if(!x.oSrc) 
+				   		x.oSrc=x.src; 	
+					x.src=a[i+2];
+				}
+				break;
+			default:
+				if(!x.oSrc) 
+				   		x.oSrc=x.src; 	
+				x.src=a[i+2];
+				break;	
+		}
+		
+	}
+}
+//-->
+
+</script>
+<script type="text/javascript">
+	   jQuery(document).ready( function()
+		{
+		   	document.getElementById('outer').innerHTML = document.getElementById('inner').innerHTML;
+			document.getElementById('inner').innerHTML = '';
+			if('privacy-policy' == 'index')
+				new Accordian('basic-accordian',3,'header_highlight');
+
+		});	
+		jQuery.noConflict();
+		jQuery(document).ready(function()
+		{
+			jQuery.smoothAnchors(3000, "swing", false);
+		});
+	   </script>
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=66340308"></script></head>
+
+
+<body onload="MM_preloadImages('images/made-in-usa.png')">
+ <!--<div style="right:-20px;
+position:fixed;
+bottom:56px; z-index:1000"><img src="images/cOffers.png"  alt="" /></div>-->
+
+<div class="bgMain"><a name="pageTop"></a>
+<div id="divShutter" class="top-form-main">
+
+    <!--<form name="frmQoute" id="frmQoute" action="" method="post" onsubmit="return false;">-->
+    <form name="frmQoute" id="frmQoute" action="" method="post" onsubmit="return validate();">
+
+    <h1>Request a Quote Here</h1>
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+        <td width="48%"><label for="txtFirstName">First Name: *</label></td>
+        <td width="3%" align="left">&nbsp;</td>
+        <td align="left"><label for="txtLastName">Last Name: *</label></td>
+      </tr>
+      <tr>
+        <td><input type="text" name="txtFirstName" id="txtFirstName" value="" size="30" class="text_box_bg_02 required" title="Required first name"></td>
+        <td>&nbsp;</td>
+        <td align="left"><input type="text" name="txtLastName" id="txtLastName" value="" size="30" class="text_box_bg_02 required" title="Required last name"></td>
+      </tr>
+      <tr>
+        <td><label for="txtEmail">Email Address: *</label></td>
+        <td>&nbsp;</td>
+        <td align="left"><label for="txtPhone">Phone: *</label></td>
+      </tr>
+      <tr>
+        <td><input type="text" name="txtEmail" id="txtEmail" value="" size="30" class="text_box_bg_02 required validate-email" title="Invalid email address"></td>
+        <td>&nbsp;</td>
+        <td align="left"><input type="text" name="txtPhone" id="txtPhone" value="" maxlength="10" size="30" class="text_box_bg_02 required validate-number" title="Invalid phone number"></td>
+      </tr>
+      <tr>
+        <td><label for="txtCompany">Company Name:</label></td>
+        <td>&nbsp;</td>
+        <td align="left"><label for="txtWebsite">Website (if any)</label></td>
+      </tr>
+      <tr>
+        <td><input type="text" name="txtCompany" id="txtCompany" value="" size="30" class="text_box_bg_02"></td>
+        <td>&nbsp;</td>
+        <td align="left"><input type="text" name="txtWebsite" id="txtWebsite" value="" size="30" class="text_box_bg_02"></td>
+      </tr>
+      <tr>
+        <td><label for="chkServices">Services Your Require:</label></td>
+        <td>&nbsp;</td>
+        <td align="left">
+		  <input type="checkbox" name="chkWebDesign" id="chkWebDesign" value="Web Design &amp; Development">
+        		<label for="chkWebDesign">Web Design and Development</label><br>
+        <input type="checkbox" name="chkECommerce" id="chkECommerce" value="E_commerce Store">
+          	<label for="chkECommerce">E-commerce Store</label><br>
+        <input type="checkbox" name="chkSEM" id="chkSEM" value="Search Engine Mmarketing">
+        		<label for="chkSEM">Search Engine Marketing</label><br>
+        <input type="checkbox" name="chkPrintLogoDesign" id="chkPrintLogoDesign" value="Print and Logo Desgin">
+        		<label for="chkPrintLogoDesign">Website Upgrade</label><br>
+        <input type="checkbox" name="chkSubscribe" id="chkSubscribe" value="Subscribe to our">
+        		<label for="chkSubscribe">Website Maintenance</label><br>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top"><label for="txtProject">Quick overview of your project:</label></td>
+        <td>&nbsp;</td>
+        <td align="left"></td>
+      </tr>
+      <tr>
+        <td colspan="3"><textarea class="text_area_02" name="txtProject" id="txtProject" cols="10" rows=""></textarea></td>
+      </tr>
+      <tr>
+        <td><label for="txtBudget">What is your budget for this project?</label></td>
+        <td>&nbsp;</td>
+        <td align="left"><label for="txtPlan"> How quickly you plan to proceed?</label></td>
+      </tr>
+      <tr>
+        <td height="45" valign="top"><select name="txtBudget" id="txtBudget" class="select_box_02">
+            <option value="">Select Budget</option>
+            <option value="$5000-$10000">$5000-$10000</option>
+            <option value="$10000-$20000">$10000-$20000</option>
+            <option value="$20000-$30000">$20000-$30000</option>
+            <option value="$30000-$50000">$30000-$50000</option>
+            <option value="$50000-$100000">$50000-$100000</option>
+            <option value="$100000+ ">$100000+</option>
+          </select>
+          <br></td>
+        <td align="left" valign="top">&nbsp;</td>
+        <td align="left" valign="top"><select class="select_box_02" name="txtPlan" id="txtPlan">
+            <option value="">Select Plan</option>
+            <option value="A.S.A.P">A.S.A.P</option>
+            <option value="1- 2 Weeks">1 -2 Weeks</option>
+            <option value="2 Weeks - 1Month">2 Weeks - 1Month</option>
+            <option value="1 Month+">1 Month+</option>
+          </select></td>
+      </tr>
+      <tr>
+        <td colspan="3" align="center" valign="bottom" style="border-top: solid 1px #dadada;"><input type="submit" value="Send" class="quote_button" id="submitQoute"></td>
+      </tr>
+    </tbody></table>
+  </form>
+</div>
+
+<input type="hidden" name="hidPageName" id="hidPageName" value="Privacy Policy">
+
+
+<div class="headerBtm">
+	
+    <div id="tabRes" style="display:none"></div>
+ <div class="formsContainer">
+  <div style=" display:none" class="bgForms" id="get_a_quote">
+
+		<form name="quote" id="quote" action="" method="post" onsubmit="javascript: var t = validate_form(quote); if(t==true)mail(quote,1); return false;">
+        <div id="topquote" style=" color:white;!important"></div>
+        <div class="form-text"><img src="http://www.bitwords.com/images/pencil.png" alt="" class="fl"><h1 style="color:#fff" class="fl">Get Free Quote</h1></div><div><span style="float:right;color:#fff;margin-right:7px;margin-top:-5px;cursor:pointer;" onclick="getaquote();">X</span></div>
+        
+        <div class="clr"></div>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" class="form-text">
+          <tbody><tr>
+            <td width="274" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td width="274" height="24">Full Name:</td>
+                </tr>
+                <tr>
+                  <td><input name="full_name" id="full_name" type="text" class=" required  get-quote-feild"></td>
+                </tr>
+                <tr>
+                  <td height="24">Email Address: *</td>
+                </tr>
+                <tr>
+                  <td><input name="email" id="email" type="text" class="get-quote-feild required validate-email"></td>
+                </tr>
+                <tr>
+                  <td height="24">Phone: *</td>
+                </tr>
+                <tr>
+                  <td><input name="phone" id="phone" type="text" class="get-quote-feild required validate-number"></td>
+                </tr>
+                <tr>
+                  <td height="24">Company Name:</td>
+                </tr>
+                <tr>
+                  <td><input name="company" id="company" type="text" class="get-quote-feild"></td>
+                </tr>
+              </tbody></table></td>
+            <td width="15"></td>
+            <td width="274" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td height="24">Services Your Require:</td>
+                </tr>
+                <tr>
+                  <td><label>
+                      <select name="services" id="services" class="required get-quote-dropdown">
+                      	<option value="Web Design and Development">Web Design and Development</option>
+                      	<option value="E-commerce Store">E-commerce Store</option>
+                      	<option value="Search Engine Marketing">Search Engine Marketing</option>
+                      	<option value="Website Upgrade">Website Upgrade</option>
+                      	<option value="Website Maintenance">Website Maintenance</option>
+                      </select>
+                    </label></td>
+                </tr>
+                <tr>
+                  <td height="24">What is your budget for this project?</td>
+                </tr>
+                <tr>
+                  <td><select name="budget" id="budget" class="get-quote-dropdown required">
+                      <option value=""> Please Choose </option>
+						<option value="0-1,000"> $ 0 - $ 1,000 </option>
+						<option value="1,000-2,500"> $ 1,000 - $ 2,500 </option>
+						<option value="2,500-5,000"> $ 2,500 - $ 5,000 </option>
+						<option value="5,000-10,000"> $ 5,000 - $ 10,000 </option>
+						<option value="10,000-20,000"> $ 10,000 - $ 20,000 </option>
+						<option value="20,000-50,000"> $ 20,000 - $ 50,000 </option>
+						<option value="50,000-100,000"> $ 50,000 - $ 100,000 </option>
+						<option value="100,000-500,000"> $ 100,000 - $ 500,000 </option>
+                    </select></td>
+                </tr>
+                <tr>
+                  <td height="24">How quickly you plan to proceed?</td>
+                </tr>
+                <tr>
+                  <td height="24"><select name="plan" id="plan" class="get-quote-dropdown">
+                        <option value="">Select Plan</option>
+						<option value="A.S.A.P">A.S.A.P</option>
+						<option value="1- 2 Weeks">1 -2 Weeks</option>
+						<option value="2 Weeks - 1Month">2 Weeks - 1Month</option>
+						<option value="1 Month+">1 Month+</option>
+                    </select></td>
+                </tr>
+              </tbody></table></td>
+            <td width="15">&nbsp;</td>
+            <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td>Quick overview of your project:
+                    <textarea name="overview" id="overview" cols="" rows="" class="required get-quote-textarea"></textarea></td>
+                </tr>
+                <tr>
+
+                  <td><input type="submit" value="Submit" class="btnGetQuote"></td>
+                </tr>
+              </tbody></table></td>
+          </tr>
+        </tbody></table>
+      </form>
+
+    </div>
+
+   
+      <div style=" display:none" class="bgForms" id="callback_area">
+        
+        <div id="nameee"></div>
+      
+		<form name="frmCalBack" id="frmCalBack" method="post" onsubmit="javascript: var t = validate_form(frmCalBack); if(t==true)mail(frmCalBack,4); return false;" action="">
+		  <div class="form-text"><img src="http://www.bitwords.com/images/icoCallback.png" alt="" class="fl "><h1 style="color:#fff">Get a Call Back</h1></div><div><span style="float:right;color:#fff;margin-right:7px;margin-top:-37px;cursor:pointer;" onclick="callback();">X</span></div>
+          <div class="sider-text-feild">
+          
+		    <label for="txtRSLastName">Full Name:</label>
+		    <input type="text" name="txtRSFullName" id="txtRSFullName" class="required " title="required last name">
+	      </div>
+          <div class="sider-text-feild">
+            <label for="txtRSEmail">Suitable Time:</label>
+            <select size="1" class="required" id="time">
+              <option value="8am to 12am">8am to 12am</option>
+              <option value="12am to 4pm">12am to 4pm</option>
+              <option value="4pm to 8ap">4pm to 8pm</option>
+            </select>
+          </div>
+          <div class="sider-text-feild">
+            <label for="txtRSPhone">Phone :</label>
+            <input type="text" name="txtRSPhone" id="txtRSPhone" class="required validate-number" title="Invalid phone number">
+          </div>
+          <div class="sider-form-button ">
+            <input name="frmCalBackSubmit" id="frmCalBackSubmit" type="submit" value="Submit" class="btnGetQuote">
+          </div>
+  
+        <div class="cl"></div>
+		</form>
+        
+    </div>
+    
+    
+     <div style=" display:none" class="bgForms" id="callback_area2">
+        
+        <div id="nameee2"></div>
+      
+		<form name="frmCalBack2" id="frmCalBack2" method="post" onsubmit="javascript: var t = validate_form(frmCalBack2); if(t==true)mail(frmCalBack2,5); return false;" action="">
+		  <div class="form-text"><img src="http://www.bitwords.com/images/icoCallback.png" alt="" class="fl "><h1 style="color:#fff">Get a Call Back</h1></div><div><span style="float:right;color:#fff;margin-right:7px;margin-top:-37px;cursor:pointer;" onclick="callback2();">X</span></div>
+          <div class="sider-text-feild">
+          
+		    <label for="txtRSLastName">Full Name:</label>
+		    <input type="text" name="txtRSFullName" id="txtRSFullName" class="required" title="required last name" style="width:128px;margin:2px 10px 5px 6px;">
+	      </div>
+          <div class="sider-text-feild">
+            <label for="txtRSEmail">Suitable Time:</label>
+            <select size="1" class="required" id="time" style="width:100px;margin:2px 10px 5px 6px;">
+              <option value="8am to 12am">8am to 12am</option>
+              <option value="12am to 4pm">12am to 4pm</option>
+              <option value="4pm to 8ap">4pm to 8pm</option>
+            </select>
+          </div>
+          <div class="sider-text-feild">
+            <label for="txtRSPhone">Phone :</label>
+            <input type="text" name="txtRSPhone" id="txtRSPhone" class="required validate-number" title="Invalid phone number" style="width:128px;margin:2px 10px 5px 6px;">
+          </div>
+       
+   <div class="sider-text-feild">
+            <label for="txtRSEmail">Interested in:</label>
+            <select size="1" class="required" id="interest" style="width:128px;margin:2px 10px 5px 6px;">
+                <option value="Yahoo Store Design Packages" style="color:orange;">Custom Web Design --------------</option>
+              <option value="Custom Web Starter Package">Custom Web Starter Package:$479</option>
+              <option value="Custom Web Venture Package">Custom Web Venture Package:$898</option>
+              <option value="Custom Web Standard Package">Custom Web Standard Package:$1499</option>
+                <option value="Custom Web Business Package">Custom Web Business Package:$2499</option>
+              <option value="Custom Web Enterprise Package">Custom Web Enterprise Package:$2998</option>
+               <option value="Yahoo Store Design Packages" style="color:orange">Yahoo Store Design --------------</option>
+              <option value="Yahoo Store Standard Package">Yahoo Store Standard Package</option>
+                <option value="Yahoo Store Professional Package">Yahoo Store Professional Package</option>
+              <option value="Yahoo Store Premium Package">Yahoo Store Premium Package</option>
+              <option value="Yahoo Store Enterprise Package">Yahoo Store Enterprise Package</option>
+                <option value="Yahoo Store Design Packages" style="color:orange">eBay Store Design --------------</option>
+                <option value="eBay Store Premium Package">eBay Store Premium Package</option>
+              <option value="eBay Store Enterprise Package">eBay Store Enterprise Package</option>
+               <option value="Yahoo Store Design Packages" style="color:orange">Internet Marketing Services --------------</option>
+              <option value="SEO Starter Package">SEO Starter Package</option>
+                <option value="SEO Professional Package">SEO Professional Package</option>
+              <option value="SEO Xpert Package">SEO Xpert Package</option>
+              
+            </select>
+          </div>   
+        <div class="cl"></div><div class="sider-form-button ">
+            <input name="frmCalBackSubmit" id="frmCalBackSubmit" type="submit" value="Submit" class="btnGetQuote">
+          </div>
+		</form>
+        
+    </div>
+    
+    
+    
+    
+    
+      <div class="clr"></div>
+ </div>
+  <div class="logoBtm"><a href="index.php"><img src="http://www.bitwords.com/images/imgLogoBtm.png" class="fl"></a>
+  <div class="headerMenu fr">
+      <ul>
+        <li><img onclick="getaquote();" id="shutter_slider_getaquote" class="pointer" src="http://www.bitwords.com/images/getaQuote.png" alt=""></li>
+        
+        <li><img src="http://www.bitwords.com/images/tollFree.png" alt=""></li>
+        <li><!-- BEGIN LivePerson Button Code -->
+<div id="lpButDivID-1280408230554"></div>
+<script type="text/javascript" charset="UTF-8" src="https://server.iad.liveperson.net/hc/66340308/?cmd=mTagRepstate&amp;site=66340308&amp;buttonID=12&amp;divID=lpButDivID-1280408230554&amp;bt=1&amp;c=1"></script>
+<!-- END LivePerson Button code --></li>
+        <li><img onclick="callback();" id="shutter_slider_callback" class="pointer" src="http://www.bitwords.com/images/callback.png" alt=""></li>
+        
+      </ul>
+    </div></div>
+</div>
+
+
+
+
+<script type="text/javascript">
+
+	function getaquote()
+	{
+		jQuery("#callback_area").css('display','none');
+		jQuery("#callback_area2").css('display','none');
+		jQuery("#get_a_quote").slideToggle("normal");
+		jQuery("#shutter_slider_getaquote").fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100);
+	}
+
+	function callback()
+	{
+		jQuery("#get_a_quote").css('display','none');
+		jQuery("#callback_area2").css('display','none');
+		jQuery("#callback_area").slideToggle("normal");
+		jQuery("#shutter_slider_callback").fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100);
+	}
+	
+	function callback2()
+	{
+		jQuery("#get_a_quote").css('display','none');
+		jQuery("#callback_area2").slideToggle("normal");
+		jQuery("#callback_area").css('display','none');
+		jQuery("#shutter_slider_callback").fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100).fadeOut(100).fadeIn(100);
+	}
+
+</script><div class="container">
+  <script type="text/javascript">
+function toggle_banner( id ) 
+{
+	var el = document.getElementById( id );
+		//el.style.visibility = 'visible';
+
+
+	if ( el.style.display == 'none' )
+	{
+		el.style.display='';
+ 		document.getElementById( 'show_hide_btn' ).innerHTML = 'Hide Promotions';
+		PlayPause = 0;
+		//setTimeout('runBANNER()',5000);
+	}
+	else 
+	{
+		el.style.display = 'none';
+		document.getElementById( 'show_hide_btn' ).innerHTML = 'Show Promotions';
+		PlayPause = 1;
+	}
+
+		
+//	if ( el.style.visibility == 'hidden' )
+//	{
+//		 el.style.visibility='visible';
+// 		document.getElementById( 'zzzzmeri_id' ).style.position = 'relative';
+//
+//		document.getElementById( 'show_hide_btn' ).innerHTML = 'Hide Promotions';
+//	}
+//	else 
+//	{
+//		el.style.visibility='hidden';
+// 		document.getElementById( 'zzzzmeri_id' ).style.position = 'absolute';
+//		document.getElementById( 'show_hide_btn' ).innerHTML = 'Show Promotions';
+//		
+//
+//	}
+}
+
+</script>
+
+<div class="topHeader  fl" style=" margin-bottom:17px;  position:relative">
+<!-- <div style="left:223px;position:absolute;
+top:3px;"><img src="images/cap.png"  alt="" /></div>-->
+     <div class="top-right-main"><a href="http://www.bitwords.com/"><img src="images/bLogo.jpg" style="padding-top:5px; float:left" alt=""></a>
+       <div class="top-navigation"> <a href="http://www.bitwords.com/"> Home </a>  |   <a href="account.php">Account</a>     |   
+               <a href="login.php">Sign&nbsp;In</a>     |   
+                <a href="cart.php"> My Cart</a>     |   <a id="show_hide_btn" onclick="toggle_banner( 'zzzzmeri_id' );" class="pointer">Show Promotions</a><br>
+<strong style="color:#333; font-size:18px; line-height:34px;"><img src="images/callNow.jpg">
+</strong>            
+        	</div></div>
+    
+    
+</div><div id="zzzzmeri_id" style="display: none;">
+<div class="banner fl">
+      <div class="bannerLeft fl"><img src="http://www.bitwords.com/images/bannerLeft.png" alt=""></div>
+      
+      <div id="MainBanner" class="bannerMid fl">
+      
+      
+    <div class="slider-wrap">
+	<div class="stripNavL" id="stripNavL0"><a href="#">Left</a></div><div class="stripNav" id="stripNav0" style="width: 6560px;"><ul><li class="tab1"><a href="#1" class="current">Panel 2</a></li><li class="tab2"><a href="#2">Panel 3</a></li><li class="tab3"><a href="#3">Panel 5</a></li><li class="tab4"><a href="#4">Panel 6</a></li><li class="tab5"><a href="#5">Panel 7</a></li></ul></div><div id="slider1" class="stripViewer">
+		<div class="panelContainer" style="width: 6750px;">
+		
+			
+			<div class="panel" title="Panel 2">
+				<div class="wrapper" id="slide11" style="background:url(images/s1.jpg) no-repeat 93% 30px">
+					<h1 style="font-size:36px;">Design, Development &amp; Marketing </h1>
+                    <h2>Becomes affordable &amp; workable  </h2>
+                    <p></p>					
+					
+					<p styl="">We are offering wide<strong> packages</strong> range in <strong>custom web design</strong>,<strong>Ecommerce web design</strong> &amp; <strong>SEO</strong> services</p>
+                    <!--<p><strong>Custom Web Design</strong>, <strong>Ecommerce web design</strong>, and <strong>SEO starting</strong>  from as low as</p>-->
+					<span style="background:url(images/btnReadMore.png) no-repeat; margin-bottom:12px;"><a href="#packages">&nbsp;</a></span>
+                    
+					
+			<div class="testi" style="padding:30px 0 0;">"Every time they bring such creative designs which exceeds my expectations" — <strong>Strongbox Hosting</strong></div>
+
+					
+				</div>
+			</div>		
+			<div class="panel" title="Panel 3">
+				<div class="wrapper" style="background:url(images/s3.jpg) no-repeat 87% 30px ">
+					<h1>Web Design Services </h1>
+                    <h2>Creative Designs, Unlimited Dimensions  </h2>					
+					<h3>Completely Custom Website Design – No Templates</h3>
+                    <p>Bitwords Introduces custom web design packages as low as</p><p><big style="font-family:Lucida Grande;
+font-size:55px; line-height:50px;"> <strong>$240</strong></big>CMS Included.</p>
+					
+					<span style="margin:-8px auto 21px;;"><a href="#packages">&nbsp;</a></span>
+					
+					<div class="testi">"We are very impressed with the enthusiasm they have for the project and commitment to making it work." — <strong>Jade Perfect Images</strong></div>
+
+					
+				</div>
+			</div>
+						<div class="panel" title="Panel 5">
+				<div class="wrapper" style="background:url(images/s4.jpg) no-repeat 87% 30px;
+">
+					<h1>Ecommerce Solutions </h1>
+                    <h2>Simple, Flexible Yet Powerful </h2>	<br>
+	
+                    <p>We offer packages for custom shopping cart(Bitcart),<strong>Yahoo</strong> Stores, <strong>ebayPro</strong> Stores, <strong>Magento</strong>, <strong>Amazon</strong> web store along with other available open source solutions.    </p>
+                   <!-- <p style="width:562px; margin-top:-10px;">Try out <big style="font-family:Lucida Grande;
+font-size:36px; color:orange; text-shadow:1px 1px #666;line-height:40px;"> <strong><a href="free-hosted-shopping-cart-package.php" style="color:orange; display:inline" >Bitcart Starter Free Package</a></strong></big> to start your <strong>online store</strong> in less than <strong>20</strong> seconds at<strong> no cost</strong>.</p>-->
+					
+					<span><a href="#packages">&nbsp;</a></span>
+					
+										<div class="testi" style="padding:28px 0 0;">"A web development team fulfilling all business needs through a perfect strategy" — <strong>Paradise Construction</strong></div>
+
+					
+					
+				</div>
+			</div>
+            <div class="panel" title="Panel 6">
+				<div class="wrapper" style="background:url(images/s5.jpg) no-repeat 87% 30px;
+">
+					<h1>Website Promotion  </h1>
+                    <h2>Lead your Competition and “Hold” it </h2>					
+					<h3>You are at “Bitwords”, You have Every Reason to Get on Top! </h3>
+                    
+                    <p>Starting from <big style="font-family:Lucida Grande;font-size:55px;line-height:50px;"><strong>$250</strong></big>, Our SEO Packages can be customized to meet your specific business needs.</p>
+					
+					<span style="margin:-1px 0 24px;"><a href="#packages">&nbsp;</a></span>
+					
+										<div class="testi" style="padding:0px 0 0;">"The kind team provided us with great support and advice on how to get the most from our limited time and resources. " — <strong>ecomerce-company.com</strong></div>
+
+					
+					
+				</div>
+			</div>
+            <div class="panel" title="Panel 7">
+				<div class="wrapper" style="background:url(images/s6.jpg) no-repeat 87% 30px;
+">
+					<h1>Explore us More!</h1>
+                    <h2>Get Free Quotes from our Experts!  </h2>					
+					<h3>We have “Unlimited Option” for your Business!</h3>
+                  <p>Have question or concerns? Feel free to contact us at</p>
+                  <p><img src="images/tollfreeNo.png" alt="800 223  1891"></p>
+					
+					<span style="background:url(images/btnReadMore2.png) no-repeat; margin-top:-2px"><a href="http://www.bitwords.com/#" onclick="getaquote();" class="pointer">&nbsp;</a></span>
+                    <span style="background:url(images/btnEmailUs.png) no-repeat;margin-top:-2px"><a href="http://www.bitwords.com/contactus.php" class="pointer">&nbsp;</a></span>
+                    <span style="background:url(images/btnCallBack.png) no-repeat;margin-top:-2px"><a href="http://www.bitwords.com/#" onclick="callback();" class="pointer">&nbsp;</a></span>
+					
+										<div class="testi" style="padding-top:15px;">"Bitwords Media’s team is very helpful and imaginative in designing a website to meet our needs." — <strong>aai-uae.com</strong></div>
+
+					
+					
+				</div>
+			</div>
+			
+		</div><!-- .panelContainer -->
+	</div><div class="stripNavR" id="stripNavR0"><a id="R" href="#">Right</a></div><!-- #slider1 -->
+    <br clear="all">
+</div>
+
+      
+      </div>
+
+
+      <div class="bannerRight fl"><img src="http://www.bitwords.com/images/bannerRight.png" alt=""></div>
+    </div>
+    </div>
+    
+<script type="text/javascript">
+
+function show_hide_banner ( show_hide )
+{
+	var el = document.getElementById( 'zzzzmeri_id' );
+
+	if ( show_hide == 'hidden' )
+	{
+		document.getElementById( 'show_hide_btn' ).innerHTML = 'Show Promotions';
+		document.getElementById( 'zzzzmeri_id' ).style.display = 'none';
+		PlayPause=1;
+	}
+	else if ( show_hide == 'show' )
+	{
+		document.getElementById( 'show_hide_btn' ).innerHTML = 'Hide Promotions';
+		document.getElementById( 'zzzzmeri_id' ).style.display = '';
+		PlayPause = 0;
+		//runBANNER();
+	}
+	
+}
+
+</script>  
+
+
+
+
+<script type="text/javascript">
+if('privacy-policy' == 'index')
+	show_hide_banner ( 'show' );		
+else
+{
+	show_hide_banner ( 'show' );		
+	setTimeout("show_hide_banner ( 'hidden' )",1500);	
+}
+//	setTimeout('runBANNER()',1000);				
+
+</script> 
+<div class="pageMenu " style="position:absolute; top:38px; right:0px;">
+  <ul class="main-nav" id="menu">
+    <li>
+    <a class="menulink" style="padding:0; cursor:pointer"><img src="http://www.bitwords.com/images/tabServices.png" alt=""></a>
+    <ul>
+      <li>
+      <a href="http://www.bitwords.com/web-design-services.php">+ Web Design Services</a>
+      <ul>
+        <li><a href="http://www.bitwords.com/custom-web-design.php">+ Custom Web Design</a>
+          <ul>
+            <li><a href="http://www.bitwords.com/custom-web-design-packages-starter.php" class="topline">Starter Package</a></li>
+            <li><a href="http://www.bitwords.com/custom-website-design-packages-venture.php">Venture Package</a></li>
+            <li><a href="http://www.bitwords.com/custom-web-design-packages-standard.php">Standard Package</a> </li>
+            <li><a href="http://www.bitwords.com/custom-business-web-design.php">Business Package</a> </li>
+            <li><a href="http://www.bitwords.com/custom-enterprise-web-design.php">Enterprise Package</a> </li>
+            <li><a href="http://www.bitwords.com/website-design-packages.php">Compare Packages</a> </li>
+          </ul>
+        </li>
+        <li> <a href="http://www.bitwords.com/ecommerce-web-design.php"> + Ecommerce Web Design</a>
+        <ul>
+          <li><a href="http://www.bitwords.com/ecommerce-web-design-packages-standard.php" class="topline">Standard Ecommerce Web Design </a></li>
+                      <li><a href="http://www.bitwords.com/ecommerce-web-design-packages-custom.php" class="topline">Custom Ecommerce Web Design</a></li>
+          <li><a href="http://www.bitwords.com/ecommerce-web-design-packages-professional.php">Professional Ecommerce Web Design</a></li>
+          <li><a href="http://www.bitwords.com/yahoo-ebay-store-design.php" class="topline">+ Yahoo Store Design</a>
+            <ul>
+              <li><a href="http://www.bitwords.com/yahoo-store-design-basic.php" class="topline">Yahoo Store Basic Package</a></li>
+              <li><a href="http://www.bitwords.com/yahoo-store-standard-package.php">Yahoo Store Standard Package</a></li>
+              <li><a href="http://www.bitwords.com/yahoo-store-professional-package.php">Yahoo Store Professional Package</a></li>
+              <li><a href="http://www.bitwords.com/yahoo-store-premium-package.php">Yahoo Store Premium Package</a></li>
+              <li><a href="http://www.bitwords.com/yahoo-store-enterprise-package.php">Yahoo Store Enterprise Package</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.bitwords.com/ebay-store-design-packages.php">+ eBay Store Design</a>
+            <ul>
+              <li><a href="http://www.bitwords.com/ebay-store-design.php">eBay Store Premium Package</a></li>
+              <li><a href="http://www.bitwords.com/ebay-store-enterprise-package.php">eBay Store Enterprise Package</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.bitwords.com/flash-shopping-cart.php">Flash Shopping Cart</a></li></ul>
+          </li>
+       
+        <li><a href="http://www.bitwords.com/corporate-web-design.php">Corporate Web Design</a> </li>
+        <li><a href="http://www.bitwords.com/cms-web-design.php">CMS Web Design</a></li>
+        <li><a href="http://www.bitwords.com/flash-website-design.php">Flash Website Design</a></li>
+        <li><a href="http://www.bitwords.com/wordpress-blog-design.php">Wordpress Blog Design </a></li>
+        <li><a href="http://www.bitwords.com/website-redesign-services.php">Website Redesign Services</a></li>
+        <li><a href="http://www.bitwords.com/logo-design-service.php">Logo Design Services</a></li>
+        <li><a href="http://www.bitwords.com/print-identity-design.php" class="">+ Branding &amp; Print Media</a>
+          <ul>
+            <li><a href="http://www.bitwords.com/corporate-identity-design.php" class="topline">Corporate Identity Design</a></li>
+            <li><a href="http://www.bitwords.com/brochure-designing.php">Brochure Designing</a></li>
+            <li><a href="http://www.bitwords.com/marketing-material-design.php">Marketing Presentations</a> </li>
+          </ul>
+        </li>
+      </ul>
+      </li>
+      <li><a href="http://www.bitwords.com/web-development-services.php">+ Web Development Services</a>
+        <ul>
+          <li><a href="http://www.bitwords.com/custom-web-development-services.php" class="topline">Custom Web Development</a></li>
+          <li><a href="http://www.bitwords.com/ecommerce-web-development-services.php" class="topline">ECommerce Web Development</a></li>
+          <li><a href="http://www.bitwords.com/web-application-development.php">Web Application Development</a></li>
+          <li><a href="http://www.bitwords.com/website-maintenance-upgrade.php">Website Maintenance &amp; Upgrade</a></li>
+        </ul>
+      </li>
+      <li><a href="http://www.bitwords.com/internet-marketing-services.php">+ Internet Marketing Services</a>
+        <ul>
+          <li><a href="http://www.bitwords.com/seo-services.php" class="topline">+ SEO Services</a>
+            <ul>
+              <li><a href="http://www.bitwords.com/starter-seo-package.php" class="topline">SEO Starter Package</a></li>
+              <li><a href="http://www.bitwords.com/professional-seo-package.php" class="topline">SEO Professional Package</a></li>
+              <li><a href="http://www.bitwords.com/xpert-seo-package.php">SEO Xpert Package</a></li>
+            </ul>
+          </li>
+          <li><a href="http://www.bitwords.com/ppc-management-services.php">PPC Management</a></li>
+          <li><a href="http://www.bitwords.com/affiliate-marketing-services.php">Affiliate Marketing </a></li>
+          <li><a href="http://www.bitwords.com/email-marketing-services.php">Email Marketing</a></li>
+          <li><a href="http://www.bitwords.com/social-media-marketing.php">Social Media Marketing</a></li>
+        </ul>
+      </li>
+     </ul>
+        </li>
+    
+       <li><a class="menulink" style="padding:0; cursor:pointer"><img src="http://www.bitwords.com/images/tabCompany.png" alt=""></a>
+      <ul>
+        <li><a href="http://www.bitwords.com/about_us.php">About Us</a></li>
+        <li><a href="http://www.bitwords.com/client.php">Clients</a></li>
+        <li><a href="#" onclick="getaquote();">Request a Proposal</a></li>
+        <li><a href="http://www.bitwords.com/privacy-policy.php">Privacy Policy</a> </li>
+        <!--<li><a href="sitemap.php">Sitemap</a></li>-->
+        <li><a href="http://www.bitwords.com/blog.php">Blog</a> </li>
+        <li><a href="http://www.bitwords.com/news-detail.php">News</a></li>
+      </ul>
+    </li>
+    <li><a class="menulink" style="padding:0; cursor:pointer"><img src="http://www.bitwords.com/images/tabPortfolio.png" alt=""></a>
+      <ul>
+        <li><a href="http://www.bitwords.com/portfolio.php" class="topline">Web Design</a></li>
+        <li><a href="http://www.bitwords.com/portfolio-ecommerce-sites.php">Ecommerce Deign</a></li>
+        <li><a href="http://www.bitwords.com/portfolio-shopping-cart-design.php">Shopping Cart Design</a></li>
+        <li><a href="http://www.bitwords.com/portfolio-corporate-identity.php">Corporate Identity</a></li>
+        <li><a href="http://www.bitwords.com/testimonials.php">Testimonials</a></li>
+      </ul>
+    </li>
+    <li style="background:none;"><a href="http://www.bitwords.com/contactus.php" class="menulink" style="padding:0;"><img src="http://www.bitwords.com/images/tabContactus.png" alt=""></a> </li>
+  </ul>
+</div>
+
+ 
+  <div class="Wrapper">
+     <div class="panelContainer">
+      <div class="panelHeadInner "> <img src="http://www.bitwords.com/images/icoPrivacy.png" alt="" class="pad10LR fl"><h1 style="font-size:43px">Privacy Policy</h1><h2>Our Commitment to Privacy</h2></div>
+      <div class="panelMid"><div class="sideLinks fr" style=" width:284px; overflow:hidden;  margin:20px 25px 0 0;">
+         <script type="text/javascript" src="mootools-release-1.js"></script>
+	<script type="text/javascript" src="scripts.js"></script>
+   <style>ul#webprojects li ul.temp2_active li.name h4 span{ color:orange}</style>
+    
+    <ul id="webprojects">
+					<li>
+						<ul style="background-position: 0px 0px;" class="webnav webnav_active">
+							<li class="left">1</li>
+							<li class="name"><h4>Corporate Web Design</h4></li>
+							<li class="date"><!--spanner--></li>
+							<li class="right"><!--spanner--></li>
+						</ul>
+						<div style="border-top: none; border-bottom: none; overflow: hidden; padding-top: 0px; padding-bottom: 0px; height: 246px;" class="web_content">	
+							<p class="web_header">
+								<a href="http://www.bitwords.com/portfolio.php" rel="lightbox">View Portfolio</a><img alt="" src="link_arrow_green.gif">							</p>
+							<div class="web_imgs" id="optiver">
+
+								<a href="http://www.bitwords.com/portfolio.php" rel="lightbox" style="border: 0pt none ; display: block; width: 284px; height: 163px; position: absolute; z-index: 999;">
+
+								<img src="http://www.bitwords.com/images/ecoExperts.jpg" alt="Optiver" style="position: absolute; top: 0pt; z-index: 2;">								</a>							</div>
+							<p style="visibility: visible; opacity: 0.95;" class="web_comment hide"><strong>Optiver trades as a member on various financial exchanges.</strong>
+They've organized a weekend for their employees to compete against
+eachother in various activities, the website I've designed shows an
+overview of the teams and its members, including some background info
+on the weekend itself. <span>© 2008 MediaMonks</span></p>
+							<div class="web_footer">
+								<a style="background-image: url(btn_comment.gif);" class="btn_comment"></a>							</div>
+						</div>
+				  </li>
+					<li>
+						<ul style="background-position: 0px 0px;" class="webnav">
+							<li class="left">2</li>
+							<li class="name"><h4>Ecommerce Web Design</h4></li>
+							<li class="date"><!--spanner--></li>
+							<li class="right"><!--spanner--></li>
+						</ul>
+						<div style="border-top: none; border-bottom: none; overflow: hidden; padding-top: 0px; padding-bottom: 0px; height: 0px;" class="web_content">	
+							<p class="web_header">
+								<a href="http://www.bitwords.com/portfolio-ecommerce-sites.php" rel="lightbox">View Portfolio</a><img alt="" src="link_arrow_green.gif">							</p>
+							<div class="web_imgs" id="buttonfreaks">
+
+								<a href="http://www.bitwords.com/portfolio-ecommerce-sites.php" rel="lightbox" style="border: 0pt none ; display: block; width: 284px; height: 163px; position: absolute; z-index: 999;">
+
+								<img src="http://www.bitwords.com/images/comparizon.jpg" alt="Buttonfreaks" style="position: absolute; top: 0pt; z-index: 2;">								</a>							</div>
+							<p style="visibility: visible; opacity: 0.95;" class="web_comment hide"><strong>Buttonfreaks is a button badge manufacturer located in Finland.</strong>
+They needed a design overhaul for their costcalculator and order form.
+Although due to recent events within their company the site never got
+developed.</p>
+							<div class="web_footer">
+								<a style="background-image: url(btn_comment.gif);" class="btn_comment"></a>							</div>
+						</div>
+				  </li>
+					<li>
+						<ul style="background-position: 0px 0px;" class="webnav">
+							<li class="left">3</li>
+							<li class="name"><h4>Shopping Cart Design</h4></li>
+							<li class="date"><!--spanner--></li>
+							<li class="right"><!--spanner--></li>
+						</ul>
+						<div style="border-top: none; border-bottom: none; overflow: hidden; padding-top: 0px; padding-bottom: 0px; height: 0px;" class="web_content">	
+							<p class="web_header">
+								<a href="http://www.bitwords.com/portfolio-shopping-cart-design.php" rel="lightbox">View Portfolio</a><img alt="" src="link_arrow_green.gif">							</p>
+							<div class="web_imgs" id="sk123">
+
+								<a href="http://www.bitwords.com/portfolio-shopping-cart-design.php" rel="lightbox" style="border: 0pt none ; display: block; width: 284px; height: 163px; position: absolute; z-index: 999;">
+
+								<img src="http://www.bitwords.com/images/zaraliving.jpg" alt="Studiekeuze123" style="position: absolute; top: 0pt; z-index: 2;">								</a>							</div>
+							<p style="visibility: visible; opacity: 0.95;" class="web_comment hide"><strong>Studiekeuze123 is a website to search and compare courses in higher education.</strong>
+With many possible criteria visitors can come to a fitting result when
+looking for advice on what course to choose. Currently it's still under
+development and should be online February 2008. I was responsible for
+the entire redesign. <span>© 2007 MediaMonks</span></p>
+							<div class="web_footer">
+								<a style="background-image: url(btn_comment.gif);" class="btn_comment"></a>							</div>
+						</div>
+				  </li>
+					<li>
+						<ul style="background-position: 0px 0px;" class="webnav">
+							<li class="left">4</li>
+							<li class="name"><h4>Corporate Identity Design</h4></li>
+							<li class="date"><!--spanner--></li>
+							<li class="right"><!--spanner--></li>
+						</ul>
+						<div style="border-top: none; border-bottom: none; overflow: hidden; padding-top: 0px; padding-bottom: 0px; height: 0px;" class="web_content">	
+							<p class="web_header">
+								<a href="http://www.bitwords.com/portfolio-corporate-identity.php" rel="lightbox">View Portfolio</a><img alt="" src="link_arrow_green.gif">							</p>
+							<div class="web_imgs" id="tomtomwork">
+
+								<a href="http://www.bitwords.com/portfolio-corporate-identity.php" rel="lightbox" style="border: 0pt none ; display: block; width: 284px; height: 163px; position: absolute; z-index: 999;">
+
+								<img src="http://www.bitwords.com/images/paradise.jpg" alt="" style="position: absolute; top: 0pt; z-index: 2;" width="284" height="163">								</a>							</div>
+							<p style="visibility: visible; opacity: 0.95;" class="web_comment hide"><strong>For TomTom I designed a Flash application to give insight on how much people would save using TomTom Work.</strong> <span>© 2007 MediaMonks</span></p>
+							<div class="web_footer">
+								<a style="background-image: url(btn_comment.gif);" class="btn_comment"></a>							</div>
+						</div>
+				  </li>
+										
+				</ul><div style="background-image: url(dd_select.gif);" id="feat_select"></div>        </div>
+        <div class="textContent fl ">
+        <h1>Privacy Notice Table Of Contents:</h1>
+       <ul style="margin: 12px 0pt; padding: 0pt 0pt 0pt 20px; font-size: 12px; font-weight: bold; line-height: 22px; list-style-type: none; list-style-image: none; list-style-position: outside;">
+        <li>1.	<a href="#commitment-privacy">Our Commitment To Privacy</a></li>
+        <li>2.	<a href="#information-collect">The Information We Collect</a></li>
+        <li>3.	<a href="#how-use-information">How We Use Information</a></li>
+        <li>4.	<a href="#commitment-data-security">Our Commitment To Data Security</a></li>
+        <li>5.	<a href="#commitment-children-privacy ">Our Commitment To Children's Privacy </a></li>
+        <li>6.	<a href="#how-access-correct-information">How To Access Or Correct Your Information</a></li>
+        <li>7.	<a href="#contact-us">How To Contact Us</a></li>
+        </ul>
+       <a name="commitment-privacy"> <h2> Our Commitment to Privacy</h2></a>
+        <p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
+<a name="information-collect"><h2>The Information We Collect: </h2></a>
+<p>This notice applies to all information collected or submitted on the Bitwords Media website (www.bitwords.com). On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:</p> 
+<ul>
+            <li>Name </li>
+            <li>Email address</li>
+            <li>Phone number </li>
+            <li>Required Services</li>
+            <li>Project Description </li>
+            <li>Estimated Budget</li>
+            <li>Plan to Start Your Project</li>
+            <li>(etc.) </li>
+            </ul>
+            
+            <a name="how-use-information"><h2>The Way We Use Information:</h2></a>
+            <p>We use the information you provide about yourself sending us request for online service quote for web design, web development &amp; internet marketing services or contacting us for any other information through contact us page or call back page to provide us your name, phone number and reason of contact. We do not share this information with outside parties except to the extent necessary to discuss more about your project.</p>
+            
+            <p>We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.</p>
+            
+            <p>You can register with our website if you would like to receive our services catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.</p>
+            
+            <p>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.</p>
+            
+            <p>Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
+            
+             
+          <a name="commitment-data-security">  <h2>Our Commitment To Data Security</h2></a>
+            <p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.</p>
+            
+           <a name="commitment-children-privacy ">  <h2>Our Commitment To Children's Privacy: </h2></a>
+            <p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+</p>
+            
+             <a name="how-access-correct-information"><h2>How You Can Access Or Correct Your Information</h2></a>
+            <p>You can access all your personally identifiable information that we collect online and maintain by email us at info@bitwords.com. We use this procedure to better safeguard your information.</p>
+            
+             <p>You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. </p>
+             
+              <p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p>
+            
+            <a name="contact-us"> <h2>How to Contact Us</h2></a>
+            <p>Should you have other questions or concerns about these privacy policies, please call us at 800 223 1891 or send us an email at info@bitwords.com. </p>
+</div>
+
+        
+        
+       
+          <div class="clr"></div>
+        <div class=" fl titleBtm"><img src="http://www.bitwords.com/images/supportedPlt.png" alt=""></div>
+      </div>
+ <div class="panelBottom"><div class="fr panelBtmR"><a href="supported-platform.php"><img src="http://www.bitwords.com/images/btnViewMore.png" alt=""></a></div> 
+        <div class="fl panelBtmL"><img src="http://www.bitwords.com/images/imgPlatform.png" alt=""></div></div>
+    
+    
+    </div>
+    
+  
+    
+    
+    
+    
+
+
+  </div>
+  <br clear="all">
+</div>
+</div>
+
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+
+<div class="footer"><div class="bottom-main-01">
+  <div class="bottom-main-01">
+        	<div class=" bottom-main-02">
+            
+            <div class="bottom-nav">
+            <h1><a href="web-design-services.php">Web Design</a></h1>
+			<ul>
+            <li><a href="custom-web-design.php" class="topline">Custom Web Design</a></li>
+			<li><a href="corporate-web-design.php">Corporate Web Design</a> </li>
+			<li><a href="flash-website-design.php">Flash Website Design</a></li>
+			<li><a href="website-redesign-services.php">Website Redesign Services</a></li>
+			<li><a href="cms-web-design.php">CMS Web Design</a></li>
+   			<li><a href="ecommerce-web-design.php">Ecommerce Web Design</a></li>
+			<li><a href="print-identity-design.php">Branding &amp; Print Media</a></li>
+			</ul>
+            </div>
+            
+            <div class="bottom-nav">
+            <h1><a href="web-development-services.php">Web development</a></h1>
+			<ul>
+             <li><a href="custom-web-development-services.php" class="topline">Custom Web Development</a></li>
+			<li><a href="ecommerce-web-development-services.php" class="topline">ECommerce Web Development</a></li>
+			<li><a href="web-application-development.php">Web Application Development</a></li>
+			<li><a href="website-maintenance-upgrade.php">Website Maintenance</a></li>
+			</ul>            
+            </div>
+            
+            <div class="bottom-nav">
+            <h1><a href="ecommerce-web-design.php">Ecommerce</a></h1>
+			  <ul>
+				<li><a href="shopping-cart-design.php" class="topline">Shopping Cart Design</a></li>
+				<li><a href="flash-shopping-cart.php">Flash Shopping Cart</a></li>
+				<li><a href="yahoo-ebay-store-design.php">Yahoo &amp; Ebay Design</a> </li>
+				</ul>            
+            </div>
+             <div class="bottom-nav">
+            <h1><a href="internet-marketing-services.php">Internet Marketing</a></h1>
+			   <ul>
+			<li><a href="seo-services.php" class="topline">SEO Services</a></li>
+			<li><a href="ppc-management-services.php">PPC Management</a></li>
+			<li><a href="affiliate-marketing-services.php">Affiliate Marketing	</a></li>
+			<li><a href="email-marketing-services.php">Email Marketing</a></li>
+			<li><a href="social-media-marketing.php">Social Media Marketing</a></li>
+			</ul>            
+            </div>
+				
+             <div class="bb-logo" style="margin-bottom:5px;"><a href="https://www.bbb.org/online/consumer/cks.aspx?id=1091028105024"><img src="images/bbb_logo.png"></a></div>
+
+
+            <div class="bb-logo"><a onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('made in usa','','images/made-in-usa.png',1)"><img src="images/made-in-usa-bw.png" alt="made in USA" name="made in usa" width="60" height="62" border="0" id="made in usa"></a><br>
+Made in USA</div>
+             
+             <div class="clr"></div>
+             
+             <div class="bottom-nav-02 ">
+			 
+			
+			 Copyrights © 2011 A Bitwords Media Group LLC. 898 Bay Ridge Avenue, New York 11220. All Rights Reserved.<br>  
+			 <a href="privacy-policy.php" style="font-weight:normal">Privacy Policy</a> |   <a href="http://www.bitwords.com/linkpartners.php" style="font-weight:normal">Link Partners</a> |  <a href="sitemap.php" style="font-weight:normal">Sitemap</a> |  <a href="contactus.php" style="font-weight:normal">Contact Us</a></div>
+
+			<div class="clr"></div>
+          </div>
+        </div></div></div>
+
+<div class="clr"></div>
+
+					<script type="text/javascript">
+	var menu=new menu.dd("menu");
+	menu.init("menu","menuhover");
+</script>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8073754-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "66340308",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
+<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+var sc_project=4714766;
+var sc_invisible=1;
+var sc_security="c2d1a339";
+</script>
+
+<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="customizable counter"
+href="http://www.statcounter.com/free_hit_counter.html"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/4714766/0/c2d1a339/1/"
+alt="customizable counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+
+
+
+<div class="tt_night-tip" style="position: absolute; top: 0px; left: 0px; visibility: hidden;"><div></div></div><div class="tt_day-tip" style="position: absolute; top: 0px; left: 0px; visibility: hidden;"><div></div></div><div class="tt_sunrise-tip" style="position: absolute; top: 0px; left: 0px; visibility: hidden;"><div></div></div><div class="tt_desc-tip" style="position: absolute; top: 0px; left: 0px; visibility: hidden;"><div></div></div></body></html>
