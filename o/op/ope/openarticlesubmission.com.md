@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the openarticlesubmission.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501230827id_/http%3A//openarticlesubmission.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openarticlesubmission.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501134149id_/http%3A//openarticlesubmission.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Article Submission - Article Directory
+
+Browse >
+
+[Home](http://openarticlesubmission.com/ "Browse to: Home") / Privacy Policy 
 
 The following discloses the information gathering and dissemination practices for this Web site.
 
