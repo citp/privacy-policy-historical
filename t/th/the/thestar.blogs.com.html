@@ -1,27 +1,37 @@
-<!--The following is the downloaded HTML source of the thestar.blogs.com privacy policy that was archived on 2010-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100209065316id_/http%3A//www.thestar.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thestar.blogs.com privacy policy that was archived on 2011-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110501084720id_/http%3A//www.thestar.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><link rel="shortcut icon" href="http://static.thestar.topscms.com/favicon.ico" type="image/x-icon"><link rel="icon" href="http://static.thestar.topscms.com/favicon.ico" type="image/x-icon">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+
+    <script type="text/javascript" async="" src="https://static.crowdscience.com/start-75f64e298d.js"></script><script type="text/javascript">
+
+        if (!window.console) {
+            var console = { log: function(msg) { } };
+        } 
+    
+    </script>
+
+    <link rel="shortcut icon" href="http://static.thestar.topscms.com/favicon.ico" type="image/x-icon"><link rel="icon" href="http://static.thestar.topscms.com/favicon.ico" type="image/x-icon">
    	<!-- RSS Autodiscovery -->
    	<link rel="alternate" type="application/rss+xml" title="thestar.com Top Stories" href="/rss/216357"><link rel="alternate" type="application/rss+xml" title="thestar.com News Alerts" href="/rss/133353"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width;">
-<link type="text/css" rel="stylesheet" href="http://static.thestar.topscms.com/css/global.css">
+<link type="text/css" rel="stylesheet" href="http://static.thestar.topscms.com/css/global.css?version=1">
     <!--[if lt IE 7]> 
 <link type="text/css" rel="stylesheet" href="http://static.thestar.topscms.com/css/ie6.css" /><![endif]-->
     <!--[if IE 7]>  
 <link type="text/css" rel="stylesheet" href="http://static.thestar.topscms.com/css/ie7.css" /><![endif]-->
     
-<link type="text/css" rel="stylesheet" href="http://static.thestar.topscms.com/css/td.css">
+<link type="text/css" rel="stylesheet" href="http://static.thestar.topscms.com/css/td.css?version=1">
 <script language="javascript" type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<script language="javascript" type="text/javascript" src="http://static.thestar.topscms.com/js/s_code.js"></script>
 <script language="javascript" type="text/javascript" src="http://static.thestar.topscms.com/js/TD.js"></script>
 <script language="javascript" type="text/javascript" src="http://static.thestar.topscms.com/js/TD.ProjectTheStar.js"></script>
 <script language="javascript" type="text/javascript" src="http://static.thestar.topscms.com/js/TLax.js"></script>
-<script language="javascript" type="text/javascript" src="http://static.thestar.topscms.com/js/s_code.js"></script>
     
 
     
     
     
-    <title>Privacy Code - thestar.com</title>
+    <title></title>
 
     <meta name="Keywords" content="">
     <meta name="Description" content="">
@@ -32,12 +42,70 @@
     
     
     <script type="text/javascript" language="javascript">
-        TD.ProjectTheStar.SetUserLastVisit("2010-02-09 01:42:29", "http://www.thestar.com/generic/article/108477");
+        TD.ProjectTheStar.SetUserLastVisit("2011-05-01 04:43:46", "http://www.thestar.com/privacy");
+        $(document).ready(function() {
+            var isiPad = navigator.userAgent.match(/iPad/i) != null;
+            if (isiPad) {
+                // All over the site to hide the multimedia widget
+            	$("#ts-multimedia_module, #ts-multimedia_module .ts-module_row_item:has(.ts-icon_slideshow)").hide();
+                /*
+                // to hide the Midtier for Home / Section Page
+                $('a').find("span.ts-video_overlay_medium").parent().hide();
+                // For New Article Template Gallery Size
+                $('a').find("span.ts-video_overlay_gallery").parent().parent().hide();
+                // to hide the TopStory for Home / Section Page
+                $('div').find("a.td-video_thumbnail").parent().hide();
+                // Related Nagivation Items for Section and HomePage
+                */
+                $('li').find("a[href*='fpLarge']").parent().parent().hide();
+                /*
+                $('li').find("a[href*='videozone']").parent().parent().hide()
+                // Topic and Article Page
+                $("#tabvideo").hide();
+                // Features Widget
+                $("span.ts-label_feature_type:contains('Video')").parent().hide()
+                */
+                $("span.ts-label_feature_type:contains('Interactive')").parent().hide()
+
+                // For Article In Article Tab Video Link
+                //$("span.ts-feature_title:contains('Video')").parent().hide();
+            }
+            if (navigator.userAgent.match(/FireFox/i) != null) FFFixiframes();
+        });
+        function FFFixiframes() {
+            var iframes = new Array();
+
+            iframes = document.getElementsByTagName("iframe");
+            for (var i = 0; i < iframes.length; i++) {
+                iframes[i].src = iframes[i].src;
+            }
+        }
+        
     </script>
 <title>
-
+	Privacy Code - thestar.com
 </title></head>
 <body class="static">    
+    
+        
+        
+        <!-- Begin comScore Tag -->
+    <script type="text/javascript">
+        document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+    </script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+    <script type="text/javascript">
+        COMSCORE.beacon({
+            c1: 2,
+            c2: "3005674",
+            c3: "",
+            c4: "http%3a%2f%2fwww.thestar.com%2fprivacy",
+            c5: "",
+            c6: "",
+            c15: ""
+        });
+    </script>
+<!-- End comScore Tag -->
+    
     
     
     <div id="zip">
@@ -58,7 +126,7 @@ window.adgroupid = Math.round(Math.random() * 1000);
 } 
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214.1/987201/0/-1/ADTECH;loc=100;target=_blank;alias=thestar_generic_237x90_1;size=237x90;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>'); 
 //--> 
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214.1/987201/0/-1/ADTECH;loc=100;target=_blank;alias=thestar_generic_237x90_1;size=237x90;key=;grp=474;misc=1580509444373;aduho=0;rdclick="></script> 
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214.1/987201/0/-1/ADTECH;loc=100;target=_blank;alias=thestar_generic_237x90_1;size=237x90;key=;grp=224;misc=1580509444656;aduho=0;rdclick="></script> 
 <noscript> 
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1/987201/0/-1/ADTECH;loc=100;alias=thestar_generic_237x90_1;size=237x90;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/987201/0/-1/ADTECH;loc=100;alias=thestar_generic_237x90_1;size=237x90;key=;" border="0" width="237" height="90"></a> 
 </noscript> 
@@ -78,7 +146,7 @@ window.adgroupid = Math.round(Math.random() * 1000);
 } 
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214.1/906388/0/-1/ADTECH;loc=100;target=_blank;alias=thestar_generic_728x90_1;size=728x90;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>'); 
 //--> 
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214.1/906388/0/-1/ADTECH;loc=100;target=_blank;alias=thestar_generic_728x90_1;size=728x90;key=;grp=474;misc=1580509444380;aduho=0;rdclick="></script> 
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214.1/906388/0/-1/ADTECH;loc=100;target=_blank;alias=thestar_generic_728x90_1;size=728x90;key=;grp=224;misc=1580509444659;aduho=0;rdclick="></script> 
 <noscript> 
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1/906388/0/-1/ADTECH;loc=100;alias=thestar_generic_728x90_1;size=728x90;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/906388/0/-1/ADTECH;loc=100;alias=thestar_generic_728x90_1;size=728x90;key=;" border="0" width="728" height="90"></a> 
 </noscript> 
@@ -86,6 +154,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 
     </div>
                         </div>
+                        <div class="cb"></div>
                     
             
 
@@ -93,84 +162,135 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 	        
             
 
-
+<style type="text/css">
+.ts-verticals_Wrapper{float:right; margin:0 5px 0 0;}
+.ts-verticals_Wrapper ul li{display:inline;}
+#ts-masthead{padding-top:0px;}
+#ts-masthead #ts-bad-weather_module{display:block; text-align:left; margin-left:57px; margin-top:30px;  font-weight: bold;}
+#ts-masthead #ts-bad-weather_module a{text-decoration:none;color: #C12727;}
+#ts-masthead div.ts-toplevelnav_wrapper{border-bottom:1px solid #0066A4; margin:0 5px 15px; height:35px;}
+#LoginView{margin:0 0 5px 0;}
+.ts-fblogin_new div{position:absolute;margin-left:200px; *margin-left:10px; margin-top:20px;}
+.ts-fblogin_new .ts-left{position:static;margin-left:80px; *margin-left:70px; _margin-left:40px; margin-top:0px;}
+.ts-fblogin_new{text-align:left;margin:15px 0 0 -10px;}
+.ts-fblogin_new .ts-left{margin-right:5px;}
+input{margin:0; padding:0;}
+</style>
 <div id="ts-global_header">
     <div id="ts-masthead">
+        <div class="ts-toplevelnav_wrapper">
+            <div id="ts-edition_info">
+                Sunday, May 1, 2011
+
+              <!--     
+                         <div id="ts-bad-weather_module">
+                            <a href="/theweather/Canada/Ontario/Toronto">
+                                <script type="text/javascript" src="http://btn.weather.ca/weatherbuttons/warningalerts.php?placeCode=CAON0696&alerttype=all&maxalerts=all&buttontype=image&clientref=thestar&image_size=20"></script>
+                            </a>
+                        </div>   
+                    
+                -->
+            </div>
+            <div class="ts-verticals_Wrapper">
+                <ul>
+                    <li><a href="http://www.moneyville.ca" target="_blank"><img src="/App_Themes/Standard/images/icons/moneyville.gif" alt="moneyville"></a></li>
+                    <li><a href="http://www.wheels.ca" target="_blank"><img src="/App_Themes/Standard/images/icons/wheels.gif" alt="wheels"></a></li>
+                    <li><a href="http://www.healthzone.ca" target="_blank"><img src="/App_Themes/Standard/images/icons/healthzone.gif" alt="healthzone"></a></li>
+                    <li><a href="http://www.parentcentral.ca" target="_blank"><img src="/App_Themes/Standard/images/icons/parentcentral.gif" alt="parentcentral"></a></li>
+                    <li><a href="http://www.yourhome.ca" target="_blank"><img src="/App_Themes/Standard/images/icons/yourhome.gif" alt="yourhome"></a></li>
+                    <li><a href="http://www.toronto.com" target="_blank"><img src="/App_Themes/Standard/images/icons/tdc.gif" alt="tdc"></a></li>                                                                
+                </ul>        
+            </div>
+            <br class="ts-clearer">
+        </div>
+
+        
+
+<div id="ts-weather_module">&nbsp;</div>
+
+        <script type="text/javascript">
+        	$(document).ready(function() {
+        		$("#ts-weather_module").load("/includes/headerweather?CurrentEdition=toronto");
+        	});
+        </script>
+    
+
+                
         <div id="ts-logo">
             <div class="logos">
                 <a href="/" class="thestarlogo"><img src="http://static.thestar.topscms.com/app_themes/standard/images/common/thestar_logo.gif" alt="The Star"></a>
             </div>
         </div>
-        <div class="ts-clearer"></div>
-
-        
                 
-                <table class="ts-verticals_list">
-                    <tbody><tr>
+        <div id="ts-signup_login">
             
-                        <td><a href="http://www.wheels.ca/" target="_blank_">wheels.ca</a></td>
-            
-                        <td><a href="http://www.healthzone.ca/" target="_blank_">healthzone.ca</a></td>
-            
-                        <td><a href="http://www.yourhome.ca/" target="_blank_">yourhome.ca</a></td>
-            
-                        <td><a href="http://www.parentcentral.ca/" target="_blank_">parentcentral.ca</a></td>
-            
-                        <td><a href="http://www.toronto.com/" target="_blank_">toronto.com</a></td>
-            
-                    </tr>
-                </tbody></table>
-             
-        
-        <div id="ts-edition_info">
-            Tuesday, February 9, 2010
-	        
-            
-            
-                    <span class="NationalText">Toronto Edition</span>
-                
-        </div>
+		            
+<div id="LoginView">
 
-        
-		<script src="/WebResource.axd?d=rIsLvctcBQMVSbvydQbuaF_xkYBfR8j_NVWC-haFYjDe_xB8aQiMeK2HoFBBjCICfS9aC9osCnHgjpYy9cY7n8ivecmH241Hit6byYfJ3aduftCgeBLI_nHjXfelJWAn0&amp;t=633945691090000000" type="text/javascript"></script><span id="ctl00$ctl00$ctl01$LoginView_ContentArea"></span>
-                <script type="text/javascript">
-                    function updatectl00$ctl00$ctl01$LoginView(param, ignorecache, queryParam, callback) {
-                        if (!param) param = ''; else param = '&' + param;
-                        if (ignorecache) param += '&ignorecache=true';
-                        param += '&hostingPageUrl=%2fgeneric%2farticle%2f108477';
-                        updateControlContent2('ctl00$ctl00$ctl01$LoginView_ContentArea', '/control-update?assetId=108477&virtualPath=/generic/article','id=ctl00$ctl00$ctl01$LoginView&source=~/Toplets/Login/LoginView.ascx&duration=0&' + param, queryParam, function(responseText) { if (callback) callback(responseText);})
-                    }updatectl00$ctl00$ctl01$LoginView();</script>
-        
 
-<div id="ts-weather_module"></div>
-<script type="text/javascript">
-    $("#ts-weather_module").load("/includes/headerweather?CurrentEdition=toronto");
-</script>
-        
-        
-        <div id="ts-header_search_area">
-            <div>
 	
-                <form name="search_form" id="search_form">
-                    <div class="ts-header_search_box">
-                        <input type="text" name="keywords" onkeypress="return TD.ProjectTheStar.CheckEnter(event,this.form,'');" id="ts-header_search_field" class="ts-search_field">
-                        <input type="image" src="http://static.thestar.topscms.com/app_themes/standard/images/buttons/btn_header_search_hover.gif" id="ts-header_search_button" onclick="javascript:return TD.Search.SearchAssets(this.form,'');" class="ts-search_button" alt="Search">
-                    </div>
-                    <ul class="ts-float_wrapper">
-                        <li><input type="radio" name="searchType" id="ts-search_thestar" class="ts-radio" value="" checked="checked"> <label for="ts-search_thestar">thestar.com</label></li>
-                        <li><input type="radio" name="searchType" id="ts-search_web" class="ts-radio" value="web"> <label for="ts-search_web">Web</label></li>
-                        <li><input type="radio" name="searchType" id="ts-search_findabusiness" class="ts-radio" value="business"> <label for="ts-search_findabusiness">find a business</label></li>
-                    </ul>
-                </form>
-            
+
+	
+			<a id="FbLogin" style="display:none;" href="#" class="td-facebook_icon" onclick="TD.Facebook.ProcessLogin(); return false;">Connect with Facebook</a>&nbsp;|
+			<script type="text/javascript">
+				TD.Facebook.EnsureLoad(function() { jQuery('#FbLogin').toggle(); });
+			</script>
+		
+		<a href="/app/Login?ReturnUrl=/privacy" rel="nofollow">Login/Register</a>
+	
+
+	
+		<script type="text/javascript">
+			if (!(TD.Framework.ReadCookie('TOPSCMSAUTH') === null)) {
+				var url = "/Toplets/Login/LoginView2Page?ReturnUrl=" + TD.Framework.GetReturnUrl(document.location);
+				$.get(url, {},
+					function(data) {
+						$("#LoginView").html(data);
+					});
+			}
+		</script>
+	
+
+
 </div>
-            <div id="td-extra_search">
-                <ul class="ts-float_wrapper">
-                    <li class="first"><a href="/advancedsearch">advanced search</a></li>
-                    <li><a href="http://pqasb.pqarchiver.com/thestar/search.html">full text article archive</a></li>
-                </ul>
-            </div>
+
+		            <div class="ts-clearer">&nbsp;</div>
+                
+            
+            <div id="ts-header_search_area">
+                <div id="ctl00_ctl00_ctl01_Panel1">
+	
+                    <form name="search_form" id="search_form">
+                        <div class="ts-header_search_box">
+                            <input type="text" name="keywords" onkeypress="return TD.ProjectTheStar.CheckEnter(event,this.form,'');" id="ts-header_search_field" class="ts-search_field">
+                            <input type="image" src="http://static.thestar.topscms.com/app_themes/standard/images/buttons/btn_header_search_hover.gif" id="ts-header_search_button" onclick="javascript:return TD.Search.SearchAssets(this.form,'');" class="ts-search_button" alt="Search">
+                        </div>
+                        <ul class="ts-float_wrapper">
+                            <li><input type="radio" name="searchType" id="ts-search_thestar" class="ts-radio" value="" checked="checked"> <label for="ts-search_thestar">thestar.com</label></li>
+                            <li><input type="radio" name="searchType" id="ts-search_web" class="ts-radio" value="web"> <label for="ts-search_web">Web</label></li>
+                            <li><input type="radio" name="searchType" id="ts-search_findabusiness" class="ts-radio" value="business"> <label for="ts-search_findabusiness">find a business</label></li>
+                        </ul>
+                    </form>
+                
+</div>
+                <div id="td-extra_search">
+                    <ul class="ts-float_wrapper">
+                        <li class="first"><a href="/advancedsearch">advanced search</a></li>
+                        <li><a href="http://pqasb.pqarchiver.com/thestar/search.html">full text article archive</a></li>
+                    </ul>
+                </div>
+            </div>            
         </div>
+
+        
+        
+        
+        
+        
+
+
+
+        <br class="ts-clearer">
     </div>
     
     <div id="ts-global_menu">
@@ -219,14 +339,14 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                     </li>
             
                     <li class="  ">
-                        <a href="/entertainment">
-                            <span>A &amp; E</span>
+                        <a href="http://www.toronto.com">
+                            <span>Entertainment</span>
                         </a>
                     </li>
             
                     <li class="  ">
                         <a href="/living">
-                            <span>Living</span>
+                            <span>Life</span>
                         </a>
                     </li>
             
@@ -243,14 +363,14 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                     </li>
             
                     <li class="  ">
-                        <a href="http://thestar.blogs.com/" target="_blank_">
+                        <a href="http://thestar.blogs.com/" target="_blank">
                             <span>Blogs</span>
                         </a>
                     </li>
             
                     <li class="  ">
                         <a href="/sitemap" id="ts-global_menu_more_link">
-                            <span>More ∇</span>
+                            <span>More</span>
                         </a>
                     </li>
             
@@ -261,11 +381,11 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                 <ul class="ts-main_classifieds">
             
                     <li class="ts-first">
-                        <a href="http://www.wheels.ca/usedvehicles" target="_blank_">Autos</a>
+                        <a href="http://vehicles.wheels.ca/used-cars/" target="_blank">Autos</a>
                     </li>
             
                     <li>
-                        <a href="http://thestar.workopolis.com" target="_blank_">Careers</a>
+                        <a href="http://thestar.workopolis.com" target="_blank">Careers</a>
                     </li>
             
                     <li>
@@ -273,11 +393,11 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                     </li>
             
                     <li>
-                        <a href="http://www.legacy.com/TheStar/Obituaries.asp" target="_blank_">Deaths</a>
+                        <a href="http://www.legacy.com/TheStar/Obituaries.asp" target="_blank">Deaths</a>
                     </li>
             
                     <li class="ts-last">
-                        <a href="http://www.homefinder.ca" target="_blank_">Real Estate</a>
+                        <a href="http://www.gottarent.com/" target="_blank">Rentals</a>
                     </li>
             
                 </ul>
@@ -301,14 +421,14 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
             
                         <li><a href="/contests">Contests</a></li>
             
+                        <li><a href="http://www3.thestar.com/static/Third_Party/lotto/on_lottery.html" target="_blank">Lotteries</a></li>
+            
                     </ul>
                     <ul>
             
-                        <li><a href="http://www3.thestar.com/static/Third_Party/lotto/on_lottery.html" target="_blank_">Lotteries</a></li>
-            
                         <li><a href="/entertainment/comics">Comics</a></li>
             
-                        <li><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=tos" target="_blank_">TV Listings</a></li>
+                        <li><a href="http://affiliate.zap2it.com/tvlistings/ZCGrid.do?aid=tos" target="_blank">TV Listings</a></li>
             
                         <li><a href="/horoscopes">Horoscopes</a></li>
             
@@ -340,15 +460,17 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                     <h4 class="ts-more_list_title">Stay up to date</h4>
                     <ul>
             
+                        <li><a href="http://www3.thestar.com/static/newsletter/email_registration.html">Newsletters</a></li>
+            
+                        <li><a href="/getmobile">Mobile Devices</a></li>
+            
+                        <li><a href="/alerts">News Alerts</a></li>
+            
                         <li><a href="/rssfeeds">RSS Feeds</a></li>
             
                         <li><a href="/twitter">Twitter Updates</a></li>
             
-                        <li><a href="/alerts">News Alerts</a></li>
-            
-                        <li><a href="http://www3.thestar.com/static/newsletter/email_registration.html">Newsletters</a></li>
-            
-                        <li><a href="/getmobile">Mobile Devices</a></li>
+                        <li><a href="/timelineview">Timeline View</a></li>
             
                     </ul>
                 </div>
@@ -360,28 +482,28 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
                     <h4 class="ts-more_list_title">Other Sites:</h4>
                     <ul>
             
-                        <li><a href="http://www.toronto.com/" target="_blank_">toronto.com</a></li>
+                        <li><a href="http://www.goldbook.ca" target="_blank">goldbook.ca</a></li>
             
-                        <li><a href="http://www.parentcentral.ca" target="_blank_">parentcentral.ca</a></li>
+                        <li><a href="http://www.flyerland.ca" target="_blank">flyerland.ca</a></li>
             
-                        <li><a href="http://www.yourhome.ca" target="_blank_">yourhome.ca</a></li>
+                        <li><a href="http://www.starauctions.ca" target="_blank">starauctions.ca</a></li>
             
-                        <li><a href="http://www.healthzone.ca" target="_blank_">healthzone.ca</a></li>
+                        <li><a href="http://www.wonderlist.ca" target="_blank">wonderlist.ca</a></li>
             
-                        <li><a href="http://www.wheels.ca" target="_blank_">wheels.ca</a></li>
+                        <li><a href="http://www.insurancehotline.com" target="_blank">insurancehotline.com</a></li>
+            
+                        <li><a href="http://www.parentcentral.ca" target="_blank">parentcentral.ca</a></li>
             
                     </ul>
                     <ul>
             
-                        <li><a href="http://www.flyerland.ca" target="_blank_">flyerland.ca</a></li>
+                        <li><a href="http://www.toronto.com/" target="_blank">toronto.com</a></li>
             
-                        <li><a href="http://www.goldbook.ca" target="_blank_">goldbook.ca</a></li>
+                        <li><a href="http://www.yourhome.ca" target="_blank">yourhome.ca</a></li>
             
-                        <li><a href="http://www.starauctions.ca" target="_blank_">starauctions.ca</a></li>
+                        <li><a href="http://www.wheels.ca" target="_blank">wheels.ca</a></li>
             
-                        <li><a href="http://www.insurancehotline.com" target="_blank_">insurancehotline.com</a></li>
-            
-                        <li><a href="http://www.wonderlist.ca" target="_blank_">wonderlist.ca</a></li>
+                        <li><a href="http://newinhomes.com" target="_blank">Newinhomes.com</a></li>
             
                     </ul>
                 </div>
@@ -399,38 +521,66 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
             
         
                 <div id="ts-global_hot_topics">
-                    <span class="ts-label_hot_topics"><a href="/topics">Hot topics</a></span>
+                    <span class="ts-label_hot_topics">
+                         
+                                <a href="/topics" onclick="javascript: pageTracker._trackPageview('Privacy/Navigation/Hot Topics/Head Title/TheStar/1');">Hot topics</a>
+                            
+                    </span>
                     <ul class="ts-hot_topics">
             
-                        <li><a href="/topic/SuperBowl">Super Bowl</a></li>
+                
+                          <li><a href="http://themes.thestar.com/page/royal-wedding" onclick="javascript: pageTracker._trackPageview('Privacy-/Navigation/Hot Topics/Topic Title/Thestar/1/1');">Royal Wedding</a></li>
+                    
             
-                        <li><a href="http://olympics.thestar.com/">Winter Olympics</a></li>
+                
+                          <li><a href="http://www.thestar.com/politics" onclick="javascript: pageTracker._trackPageview('Privacy-/Navigation/Hot Topics/Topic Title/Thestar/2/1');">Politics Page</a></li>
+                    
             
-                        <li><a href="http://www.thestar.com/hdtv">HDTV</a></li>
+                
+                          <li><a href="/topic/youthnation" onclick="javascript: pageTracker._trackPageview('Privacy-/Navigation/Hot Topics/Topic Title/TheStar/3/1');">Youth Nation</a></li>
+                    
             
-                        <li><a href="/topic/MapleLeafs">Maple Leafs</a></li>
+                
+                          <li><a href="/topic/ufc" onclick="javascript: pageTracker._trackPageview('Privacy-/Navigation/Hot Topics/Topic Title/TheStar/4/1');">UFC</a></li>
+                    
             
-                        <li><a href="http://www.thestar.com/oscars">Oscars</a></li>
+                
+                          <li><a href="http://www.thestar.com/golf" onclick="javascript: pageTracker._trackPageview('Privacy-/Navigation/Hot Topics/Topic Title/Thestar/5/1');">Golf Magazine</a></li>
+                    
             
-                        <li><a href="/topic/Raptors">Raptors</a></li>
+                
+                          <li><a href="/topic/bluejays" onclick="javascript: pageTracker._trackPageview('Privacy-/Navigation/Hot Topics/Topic Title/TheStar/6/1');">Blue Jays</a></li>
+                    
             
-                        <li><a href="/topic/ActsofKindness">Acts of Kindness</a></li>
+                
+                          <li><a href="http://www.thestar.com/investigations" onclick="javascript: pageTracker._trackPageview('Privacy-/Navigation/Hot Topics/Topic Title/Thestar/7/1');">Investigations</a></li>
+                    
             
-                        <li><a href="/topic/NHL">NHL</a></li>
+                
+                          <li><a href="/topic/apple" onclick="javascript: pageTracker._trackPageview('Privacy-/Navigation/Hot Topics/Topic Title/TheStar/8/1');">Apple</a></li>
+                    
             
                     </ul>
-                    <a class="ts-hot_topics_more" title="more" href="/topics">more</a>
+                    
+                            <a class="ts-hot_topics_more" title="more" href="/topics" onclick="javascript: pageTracker._trackPageview('Privacy/Navigation/Hot Topics/More Link/TheStar/1');">more</a>
+                        
+                    
                 </div>
             
     
         
 </div>
+
+
+
+
+
            
-            <form name="aspnetForm" method="post" action="/generic/article/108477" id="aspnetForm" enctype="multipart/form-data">
+            <form name="aspnetForm" method="post" action="/privacy" id="aspnetForm" enctype="multipart/form-data">
 <div>
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA0ODM1NDIzOQ9kFgJmD2QWAmYPZBYEAgUPZBYCAgUPZBYEZg8WAh4HVmlzaWJsZWhkAgIPZBYCAgEPFgIfAGdkAg8PZBYEAgEPFgIeBFRleHQFIGU1MmFiNGIxMjg1ZmEyZTY0Njk3OTM3NDIzYjc3NzJiZAIDD2QWAmYPDxYCHwBoZGRkufZLDj9TMtxJZlLZYu1FkLOvoWM=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjQwMjM0MDM4D2QWAmYPZBYCZg9kFgQCBw9kFgICBQ9kFgJmD2QWAgIBD2QWCmYPFgIeB1Zpc2libGVnZAICD2QWAmYPZBYCZg8PFgIfAGhkZAIEDxYCHwBnZAIGDxYCHwBnZAIIDxYCHwBnZAIPD2QWAgIBDxYCHgRUZXh0BSBlNTJhYjRiMTI4NWZhMmU2NDY5NzkzNzQyM2I3NzcyYmRkc9I3uS0shy89o8N1XhBxL1O03dQ=">
 </div>
 
 <script type="text/javascript">
@@ -450,11 +600,11 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=huaqz8lus5aIa-zgYpFpdw2&amp;t=633750486833416323" type="text/javascript"></script>
+<script src="/WebResource.axd?d=pF4WHrC6CQAEdIripK6hpXrGKciG73Muk1soIJ0MQOWoRgh3Dsal5VO6jmBv9cEjUs00vJKT9euwDWEtK7Z0MXNi0eQ1&amp;t=634210220612724343" type="text/javascript"></script>
 
 
-<script src="/ScriptResource.axd?d=qlx7qQuT4UHAXPe3HcOcSt-Qv1aC8wK6C9X7JL5RDcp8gqJrdUMiv6Up4uoW7GNCA0UvhAgBoAbumIYK8T_cfThigqWRofs2Z6ddz_GFGYE1&amp;t=b8d3e81" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=qlx7qQuT4UHAXPe3HcOcSt-Qv1aC8wK6C9X7JL5RDcp8gqJrdUMiv6Up4uoW7GNCQ0DdFztubNX_AiMIUvej9ns_1cZEqaZU_LwRW490nYU1&amp;t=b8d3e81" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qnbYFiFzVcWz1_NG2xX_Lfyn5jlaBx6CXOXyAfALMLe-c3nfpaeAPlGwQcDr9EU05mtbDLcne3kvCzBxaz0k99HhXM_X5lvV0NamLtfeGXcec7peXXig-rW52aBvdntkWJSzn_xg6ieVK0Hz6a0IwtxR0J81&amp;t=ffffffffdd05d692" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Hqvm3mzRTuNOMXZRRj34bzAjv7J5UDk_20NBE9OmfdUrrl5lYiVnXxwyMqZSRPaSqEL6KF3vSAvprKpIVjDUd0jOjKR4tBhCFI9yqoQcIbKdl00xqcDZyzeDzYkQXFfKrdZ3kj88u3EiKnmo8FR9iDDehMwlV7ZxwLh2flJBRS0UTRtl0&amp;t=ffffffffdd05d692" type="text/javascript"></script>
                 <script type="text/javascript">
 //<![CDATA[
 Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager1', document.getElementById('aspnetForm'));
@@ -500,6 +650,7 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
     
     
 
+
                              
                     
                     
@@ -508,17 +659,17 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
         
         <script language="JavaScript" type="text/javascript">
             var cookieEVar = TD.ProjectTheStar.ReadCookie("cookieEVar1");
-            if(cookieEVar=="generic") 
+            if(cookieEVar=="privacy") 
             {
                 TD.ProjectTheStar.CreateCookie("cookieEVar1",cookieEVar, 3600);
             }
-            else if ("generic" == "")
+            else if ("privacy" == "")
             {
                 TD.ProjectTheStar.CreateCookie("cookieEVar1","standard", 3600);
             }    
-            else if("generic"=="visualview" || "generic"=="timelineview" || "generic"=="gridview" || "generic"=="mapview")
+            else if("privacy"=="visualview" || "privacy"=="timelineview" || "privacy"=="gridview" || "privacy"=="mapview")
             {
-                    TD.ProjectTheStar.CreateCookie("cookieEVar1","generic", 3600);
+                    TD.ProjectTheStar.CreateCookie("cookieEVar1","privacy", 3600);
             }    
         </script>    
            
@@ -529,12 +680,12 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
         /* You may give each page an identifying name, server, and channel on
         the next lines. */
 
-        s.pageName="/Generic/Article/Index"
-        s.channel="Generic"
+        s.pageName="/Privacy/Index"
+        s.channel="Privacy"
         s.prop2=document.title
         s.prop18=document.location.href
         s.prop19=s.prop18+'/'+s.prop2
-        s.hier2="Generic/Article/Index"
+        s.hier2="Privacy/Index"
         s.eVar1=TD.ProjectTheStar.ReadCookie("cookieEVar1")
         //--></script>
     
@@ -556,6 +707,8 @@ Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
     <div class="ts-content_jsPhotoPlayer">
         
     </div>
+
+    
 
     
   	<div class="ts-content_left">
@@ -602,7 +755,7 @@ window.adgroupid = Math.round(Math.random() * 1000);
 } 
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214.1/906389/0/-1/ADTECH;loc=100;target=_blank;alias=thestar_generic_300x250_1;size=300x250;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+';aduho='+offset+';rdclick="></scri'+'pt>'); 
 //--> 
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214.1/906389/0/-1/ADTECH;loc=100;target=_blank;alias=thestar_generic_300x250_1;size=300x250;key=;grp=474;misc=1580509446679;aduho=0;rdclick="></script> 
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5214.1/906389/0/-1/ADTECH;loc=100;target=_blank;alias=thestar_generic_300x250_1;size=300x250;key=;grp=224;misc=1580509446721;aduho=0;rdclick="></script> 
 <noscript> 
 <a href="http://adserver.adtechus.com/adlink/3.0/5214.1/906389/0/-1/ADTECH;loc=100;alias=thestar_generic_300x250_1;size=300x250;key=;rdclick=" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5214.1/906389/0/-1/ADTECH;loc=100;alias=thestar_generic_300x250_1;size=300x250;key=;" border="0" width="300" height="250"></a> 
 </noscript> 
@@ -620,7 +773,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 
 
         
-            
+        
                 <div id="ts-google_ads" class="ts-module ts-standard_module">    
                     <script type="text/javascript" src="/js/googlead-300x250.js"></script>
                     <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
@@ -653,102 +806,195 @@ Sys.Application.initialize();
 </form>
             
             
-        <div id="ts-other_star_sites">
+        
+        <div id="ts-other_star_sites_header">
             <div class="ts-section_module_title">
                 <h2>Other Star Sites</h2>
             </div>
-            
-                    <div class="ts-other_site">
-                        <a href="http://www.wheels.ca" class="ts-label_standard">Wheels.ca</a>
-
-<a href="http://www.wheels.ca/article/783590">
-<img src="http://media.wheels.topscms.com/images/97/95/35fb40a746b28ab86059c4c5bd9e.jpeg" class="ts-sponsor_image ts-article_image" alt="Image">
-</a>
-<a href="http://www.wheels.ca/article/783590" class="ts-site_title">2009 Best &amp; Worst Moments</a>
-
-<!--
-<span class="ts-sponsor">brought to you by:</span>
-<a href="#">
-  <img src="" alt="Sponsor" />
-</a>
--->
-                    </div>                
+            <div id="ts-promo_slider">
                 
-                    <div class="ts-other_site">
-                        <a href="http://www.healthzone.ca" class="ts-label_standard">HealthZone.ca</a>
+                        <div class="ts-footer_slide">
+                            <div class="ts-slideleft">
+                                <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/moneyville_left.jpg" alt="moneyville">
+            		        </div>
+            		         <div class="ts-moneyville_slidemiddle">
+            		            
+                                    
+                                                    <div class="ts-smgfooter_logo">
+                                                        <a href="http://www.moneyville.ca" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Vertical Promo Strip/moneyville/1/1');">
+                                                            <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/moneyville.jpg" alt="moneyville Logo">
+                                                        </a>
+                                                    </div>
+			                                        
+                                                            <div class="ts-footer_imgset133">
+                                                                <a href="/moneyville/borrowing/mortgages/article/980303--how-to-break-a-mortgage-and-not-pay-a-penalty" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Image/Vertical Promo Strip/moneyville/1/2');">
+                                                                    <img src="http://media.thestar.topscms.com/images/03/09/4c963dfd41c19e025f08f37599b5.jpeg" alt="interest">
+                                                                </a>
+                                                            </div>
+                                                        
+			                                        <div class="ts-moneyville_slide_desc"><a href="/moneyville/borrowing/mortgages/article/980303--how-to-break-a-mortgage-and-not-pay-a-penalty" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Vertical Promo Strip/moneyville/1/3');">How to 'break' a mortgage and not pay a penalty</a></div>
+                                                
+                                </div>
+		                    <div class="ts-slideright">
+                                <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/moneyville_right.jpg" alt="moneyville">
+		                    </div>           
+		                 </div>
+                    
+                        <div class="ts-footer_slide">
+                            <div class="ts-slideleft">
+                                <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/Wheels_left.jpg" alt="Wheels">
+            		        </div>
+            		         <div class="ts-wheels_slidemiddle">
+            		            
+                                    
+                                                    
+                                                                  <div class="ts-smgfooter_logo">
+                                                                    <a href="http://www.wheels.ca" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Vertical Promo Strip/Wheels/2/1');">
+                                                                        <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/Wheels.jpg" alt="Wheels Logo">
+                                                                    </a>
+                                                                  </div>  
+                                                                
+                                                    <!-- 4 steps to update so follow the numbers -->
 
-<a href="http://www.healthzone.ca/health/dietfitness/newyearsfitnessguide">
-<img src="http://media.thestar.topscms.com/images/28/f8/d7081a414dd587e8affd1158f37d.jpeg" class="ts-sponsor_image ts-article_image" alt="Image">
-</a>
-<a href="http://www.healthzone.ca/health/dietfitness/newyearsfitnessguide" class="ts-site_title">Fitness Guide</a>
+<div class="ts-footer_imgset133">
 
-<!--
-<span class="ts-sponsor">brought to you by:</span>
-<a href="#">
-  <img src="" alt="Sponsor" />
-</a>
--->
-                    </div>                
-                
-                    <div class="ts-other_site">
-                        <a href="http://www.yourhome.ca" class="ts-label_standard">YourHome.ca</a>
+<!-- 1 wheels page URL here -->
+    <a href="http://www.wheels.ca/article/asset/795213" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Image/Vertical Promo Strip/Wheels/1/2');">
 
+<!-- 2 image url 133x100 size -->
+        <img src="http://media.thestar.topscms.com/images/6e/27/1d027be844fd80aa4b0a8d819eaf.jpeg" width="133" height="100" alt="The top 10 weirdest traffic laws"></a>
+</div>
+<div class="ts-wheels_slide_desc">
 
-<a href="http://www.yourhome.ca/homes/renosrepairs/homerenovationtaxcredit">
-<img src="http://media.thestar.topscms.com/images/5c/e5/15c2d07140f5807d893b1d8efa81.jpeg" class="ts-sponsor_image ts-article_image" alt="Image">
-</a>
-<a href="http://www.yourhome.ca/homes/renosrepairs/homerenovationtaxcredit" class="ts-site_title">Home Renovation Tax Credit Guide</a>
+<!-- 3 repeat wheels page URL -->
+    <a href="http://www.wheels.ca/article/asset/795213" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Vertical Promo Strip/Wheels.ca/1/3');">
 
-<!--
-<a href="http://www.yourhome.ca/homes/decor/colinjustin">
-<img src="http://media.thestar.topscms.com/images/04/5d/6aa3b4554127b2c559d0c6faa0a3.jpeg" class="ts-sponsor_image ts-article_image" alt="Image" />
-</a>
-<a href="http://www.yourhome.ca/homes/decor/colinjustin" class="ts-site_title">Colin and Justin</a>
--->
-
-<!--
-<span class="ts-sponsor">brought to you by:</span>
-<a href="#">
-  <img src="" alt="Sponsor" />
-</a>
--->
-                    </div>                
-                
-                    <div class="ts-other_site">
-                        <a href="http://www.parentcentral.ca" class="ts-label_standard">ParentCentral.ca</a>
-
-<a href="http://www.parentcentral.ca/parent/education/earlylearning">
-<img src="http://media.thestar.topscms.com/images/7f/75/a746df8140ac800f949fb3438e5b.jpeg" class="ts-sponsor_image ts-article_image" alt="Image">
-</a>
-<a href="http://www.parentcentral.ca/parent/education/earlylearning" class="ts-site_title">Early Learning</a>
-
-<!--
-<span class="ts-sponsor">brought to you by:</span>
-<a href="#">
-  <img src="" alt="Sponsor" />
-</a>
--->
-                    </div>                
-                
-                    <div class="ts-other_site ts-last">
-                        <a href="http://www.toronto.com" class="ts-label_standard">Toronto.com</a>
-
-<a href="http://www.toronto.com/winterlicious">
-<img src="http://media.thestar.topscms.com//images/cd/62/dde8ade6490598b466c1bcd1b156.jpeg" class="ts-sponsor_image ts-article_image" alt="Image">
-</a>
-<a href="http://www.toronto.com/winterlicious" class="ts-site_title">Winterlicious Guide</a>
-
-<!--
-<span class="ts-sponsor">brought to you by:</span>
-<a href="#">
-  <img src="" alt="Sponsor" />
-</a>
--->
-                    </div>                
-                
-            <div class="ts-clearer"></div>
+<!-- 4 text goes here -->
+        What's with all the gas guzzlers, anyway?</a>
+</div>
+                                                
+                                </div>
+		                    <div class="ts-slideright">
+                                <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/Wheels_right.jpg" alt="Wheels">
+		                    </div>           
+		                 </div>
+                    
+                        <div class="ts-footer_slide">
+                            <div class="ts-slideleft">
+                                <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/ParentCentral_left.jpg" alt="ParentCentral">
+            		        </div>
+            		         <div class="ts-parentcentral_slidemiddle">
+            		            
+                                    
+                                                    <div class="ts-smgfooter_logo">
+                                                        <a href="http://www.parentcentral.ca" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Vertical Promo Strip/ParentCentral/3/1');">
+                                                            <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/ParentCentral.jpg" alt="ParentCentral Logo">
+                                                        </a>
+                                                    </div>
+			                                        
+                                                            <div class="ts-footer_imgset133">
+                                                                <a href="/parentcentral/activities/placestogo/article/982083--win-tickets-to-see-the-monkey-bunch" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Image/Vertical Promo Strip/ParentCentral/3/2');">
+                                                                    <img src="http://media.thestar.topscms.com/images/a5/93/b5ff55874b1992aa74653bdd8804.jpeg" alt="Popular children's band The Monkey Bunch is putting on two concerts the day before the federal election and hopes to leave little fans nagging their parents to get to the polls on Monday.">
+                                                                </a>
+                                                            </div>
+                                                        
+			                                        <div class="ts-parentcentral_slide_desc"><a href="/parentcentral/activities/placestogo/article/982083--win-tickets-to-see-the-monkey-bunch" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Vertical Promo Strip/ParentCentral/3/3');">Win tickets to see The Monkey Bunch!</a></div>
+                                                
+                                </div>
+		                    <div class="ts-slideright">
+                                <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/ParentCentral_right.jpg" alt="ParentCentral">
+		                    </div>           
+		                 </div>
+                    
+                        <div class="ts-footer_slide">
+                            <div class="ts-slideleft">
+                                <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/YourHome_left.jpg" alt="YourHome">
+            		        </div>
+            		         <div class="ts-yourhome_slidemiddle">
+            		            
+                                    
+                                                    <div class="ts-smgfooter_logo">
+                                                        <a href="http://www.yourhome.ca" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Vertical Promo Strip/YourHome/4/1');">
+                                                            <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/YourHome.jpg" alt="YourHome Logo">
+                                                        </a>
+                                                    </div>
+			                                        
+                                                            <div class="ts-footer_imgset133">
+                                                                <a href="/yourhome/decor/article/981626--peloso-it-s-true-size-does-matter" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Image/Vertical Promo Strip/YourHome/4/2');">
+                                                                    <img src="http://media.thestar.topscms.com/images/20/a2/d15e2482419cb741e33e952eee6e.jpeg" alt="In small spaces it is important to keep the colour scheme monochromatic and to not clutter shelves.">
+                                                                </a>
+                                                            </div>
+                                                        
+			                                        <div class="ts-yourhome_slide_desc"><a href="/yourhome/decor/article/981626--peloso-it-s-true-size-does-matter" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Vertical Promo Strip/YourHome/4/3');">Peloso: It's true — size does matter</a></div>
+                                                
+                                </div>
+		                    <div class="ts-slideright">
+                                <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/YourHome_right.jpg" alt="YourHome">
+		                    </div>           
+		                 </div>
+                    
+                        <div class="ts-footer_slide">
+                            <div class="ts-slideleft">
+                                <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/HealthZone_left.jpg" alt="HealthZone">
+            		        </div>
+            		         <div class="ts-healthzone_slidemiddle">
+            		            
+                                    
+                                                    <div class="ts-smgfooter_logo">
+                                                        <a href="http://www.healthzone.ca" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Vertical Promo Strip/HealthZone/5/1');">
+                                                            <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/HealthZone.jpg" alt="HealthZone Logo">
+                                                        </a>
+                                                    </div>
+			                                        
+                                                            <div class="ts-footer_imgset133">
+                                                                <a href="/healthzone/newsfeatures/cancer/article/982843--blogging-her-way-through-cancer" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Image/Vertical Promo Strip/HealthZone/5/2');">
+                                                                    <img src="http://media.thestar.topscms.com/images/76/9b/9084625d4b218af64f0d5141399a.jpeg" alt="Alicia Merchant, fighting cancer for a second time at the age of 30, says &quot;tell me about something funny you saw on the street or about the vacation you're planning. This is what I want from friends.&quot;">
+                                                                </a>
+                                                            </div>
+                                                        
+			                                        <div class="ts-healthzone_slide_desc"><a href="/healthzone/newsfeatures/cancer/article/982843--blogging-her-way-through-cancer" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Vertical Promo Strip/HealthZone/5/3');">Blogging her way through cancer</a></div>
+                                                
+                                </div>
+		                    <div class="ts-slideright">
+                                <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/HealthZone_right.jpg" alt="HealthZone">
+		                    </div>           
+		                 </div>
+                    
+                        <div class="ts-footer_slide">
+                            <div class="ts-slideleft">
+                                <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/tdc_left.jpg" alt="Toronto.com">
+            		        </div>
+            		         <div class="ts-tdc_slidemiddle">
+            		            
+                                    
+                                                    
+                                                            <div class="ts-smgfooter_logo">
+                                                                <a href="http://www.toronto.com" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Vertical Promo Strip/Toronto.com/6/5');">
+                                                                    <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/Toronto.com.jpg" alt="Toronto.com Logo">
+                                                                </a>
+                                                            </div>
+                                                        
+                                                    <div class="ts-footer_imgset133">
+    <a href="http://www.toronto.com/guide/family" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Image/Vertical Promo Strip/Toronto.com/guide/family/5/2');">
+        <img src="http://media.thestar.topscms.com/images/d6/7b/ae594d1a4cd88f4dfa56d408b7c7.jpeg" alt="toronto.com: Family Guide"></a>
+</div>
+<div class="ts-tdc_slide_desc">
+    <a href="http://www.toronto.com/guide/family" onclick="javascript: pageTracker._trackPageview('Privacy/Footer/Vertical Promo Strip/Toronto.com/guide/family/5/3');">
+        Family-friendly events, attractions and activities.</a>
+</div>
+                                                
+                                </div>
+		                    <div class="ts-slideright">
+                                <img src="http://static.thestar.topscms.com/app_themes/Standard/images/common/Footer/tdc_right.jpg" alt="Toronto.com">
+		                    </div>           
+		                 </div>
+                    
+             </div>
+            <div class="ts-clearer">&nbsp;</div>
         </div>
     
+    
+
 
         
                 <div id="ts-global_footer" class="ts-float_wrapper">
@@ -762,6 +1008,7 @@ Sys.Application.initialize();
 <ul>
   <li class="ts-title">Toronto Star</li>
   <li><a href="/aboutus">About</a></li>
+  <li><a href="http://www.thestar.com/opinion/publiceditor/article/974222">Statement of Principles</a></li>
   <li><a href="/subscribe">Subscribe</a></li>
   <li><a href="/subscribe/selfservice">Subscriber Self Service</a></li>
   <li><a href="/contactus">Contact Us</a></li>                                
@@ -790,9 +1037,9 @@ Sys.Application.initialize();
   <li class="ts-twitter"><a href="/twitter">Twitter Updates</a></li>
   <li><a href="/alerts">News Alerts</a></li>
   <li><a href="http://www3.thestar.com/static/newsletter/email_registration.html">Newsletters</a></li>
-  <li><a href="/getmobile1">Mobile Devices</a></li>
+  <li><a href="/getmobile">Mobile Devices</a></li>
 </ul>
-                    <div class="ts-clearer"></div>
+                    <div class="ts-clearer">&nbsp;</div>
                 </div>
             
     
@@ -803,8 +1050,8 @@ Sys.Application.initialize();
   <tbody><tr>
     <td><a href="http://www.wheels.ca" target="_blank">wheels.ca</a></td>
     <td><a href="http://www.toronto.com" target="_blank">toronto.com</a></td>
-    <td><a href="http://pagesofthepast.ca/" target="_blank">pages of the past</a></td>
-    <td><a href="http://www.getstockphotos.ca/" target="_blank">Stock photos</a></td>
+    <td><a href="http://www.getstockphotos.ca/" target="_blank">Stock Photography</a></td>
+    <td><a href="http://travelalerts.ca/?utm_source=TheStar&amp;utm_content=homepage_textlink&amp;utm_campaign=TheStar_Homepage&#10;" target="_blank">Cheap Flights</a></td>
     <td><a href="http://www.newinhomes.com/" target="_blank">New in Homes</a></td> 
     <td><a href="http://www.InsuranceHotline.com" target="_blank">Car Insurance Quotes</a></td>
 <td><a href="http://leasebusters.com/" target="_blank">Leasebusters.com</a></td>
@@ -814,7 +1061,7 @@ Sys.Application.initialize();
     <td class="ts-last"><a href="/aboutus/affiliates" class="ts-footer_more" title="more">more</a></td>             
   </tr>
 </tbody></table>
-                    <div class="ts-clearer"></div>
+                    <div class="ts-clearer">&nbsp;</div>
                 </div>
             
     
@@ -822,22 +1069,12 @@ Sys.Application.initialize();
 
         <div id="ts-logo_footer">
   <a href="http://www.thestar.com" class="ts-footer_logo"><img src="/app_themes/standard/images/common/thestar_logo_small.gif" alt="The Star Logo"></a>
-  <span class="ts-copyright_footer">© Copyright Toronto Star 1996-2010 <a href="/terms">Terms &amp; Conditions</a> <a href="/privacy">Privacy Policy</a></span>
+  <span class="ts-copyright_footer">© Copyright Toronto Star 1996-2010 <a href="/terms">Terms &amp; Conditions</a> <a href="/privacy">Privacy Policy</a> <a href="http://media.thestar.topscms.com/acrobat/a5/0a/95f5cb924677af6bd44728d0b428.pdf">Freelance Class Action - Notice to Freelancers</a></span>
 </div>
     
         </div>
     </div>
     
-    
-    
-    
-        
-        
-        <!-- Comscore Beacon #562554 -->
-<script type="text/javascript">
-document.write("<img id='comScoreBeacon' height='1' width='1' style='position: absolute; left: -9999px; top: -9999px;' />");
-document.getElementById("comScoreBeacon").src = "http://beacon.scorecardresearch.com/scripts/beacon.dll?C1=2&C2=3005674&C3=&C4=http%3a%2f%2fwww.thestar.com%2fgeneric%2farticle%2f108477&C5=&C6=&C7=" + escape(window.location.href) + "&C8=" + escape(document.title) + "&C9=" + escape(document.referrer) + "&rn=" + Math.floor(Math.random() * 99999999);
-</script><img id="comScoreBeacon" height="1" width="1" style="position: absolute; left: -9999px; top: -9999px;" src="http://beacon.scorecardresearch.com/scripts/beacon.dll?C1=2&amp;C2=3005674&amp;C3=&amp;C4=http%3a%2f%2fwww.thestar.com%2fgeneric%2farticle%2f108477&amp;C5=&amp;C6=&amp;C7=https%3A//web.archive.org/web/20100209065316id_/http%253A//www.thestar.com/privacy&amp;C8=Privacy%20Code%20-%20thestar.com&amp;C9=&amp;rn=8836333">
     
     
     
@@ -848,14 +1085,7 @@ document.getElementById("comScoreBeacon").src = "http://beacon.scorecardresearch
 	TD.Facebook.FbAPIKey = 'e52ab4b1285fa2e64697937423b7772b';
 	TD.Facebook.Init();
 </script>
-<span id="ctl00$ctl00$FbLoader1$ctl00_ContentArea"></span>
-                <script type="text/javascript">
-                    function updatectl00$ctl00$FbLoader1$ctl00(param, ignorecache, queryParam, callback) {
-                        if (!param) param = ''; else param = '&' + param;
-                        if (ignorecache) param += '&ignorecache=true';
-                        param += '&hostingPageUrl=%2fgeneric%2farticle%2f108477';
-                        updateControlContent2('ctl00$ctl00$FbLoader1$ctl00_ContentArea', '/control-update?assetId=108477&virtualPath=/generic/article','id=ctl00$ctl00$FbLoader1$ctl00&source=~/Toplets/Facebook/ConnectValidation.ascx&duration=0&' + param, queryParam, function(responseText) { if (callback) callback(responseText);})
-                    }updatectl00$ctl00$FbLoader1$ctl00();</script>    
+    
     
     
     
@@ -872,10 +1102,34 @@ pageTracker._trackPageview();
     
     
         <script type="text/javascript">
-            TD.ProjectTheStar.TimeSincePublished2('ts-publishdate', '2010/02/09 01:42:29', '', '');
-            TD.ProjectTheStar.TimeSincePublished2('ts-breaking_time_stamp', '2010/02/09 01:42:29', '', '', 86400);
-            TD.ProjectTheStar.TimeSincePublished2('ts-label_published', '2010/02/09 01:42:29', 'Published', 'On');
+            TD.ProjectTheStar.TimeSincePublished2('ts-publishdate', '2011/05/01 04:43:46', '', '');
+            TD.ProjectTheStar.TimeSincePublished2('ts-breaking_time_stamp', '2011/05/01 04:43:46', '', '', 86400);
+            TD.ProjectTheStar.TimeSincePublished2('ts-label_published', '2011/05/01 04:43:46', 'Published', 'On');
+
+            TD.ProjectTheStar.AttachAlertText('ts-fullmodifydate', '2011/05/01 04:43:46', 'ts-article_title_alert', "Updated: ");
+            TD.ProjectTheStar.AttachAlertText('ts-fullpublishdate', '2011/05/01 04:43:46', 'ts-article_title_alert', "New: ");
         </script>
+        
     
+
+    
+    
+    
+    
+    
+    
+            <script type="text/javascript">
+  (function () {
+    var cs = document.createElement('script'); cs.type = 'text/javascript';
+    cs.async = true;
+    cs.src = ('https:' == document.location.protocol ? 'https://' : 'http://') +
+              'static.crowdscience.com/start-75f64e298d.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(cs, s);
+  })();
+</script>
+        
+
+
 
 <img width="0" height="0" border="0" src="/tops-counter?uid=108477&amp;counter="></body></html>
