@@ -1,46 +1,82 @@
-> *The following text is extracted and transformed from the bluegartr.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501234743id_/http%3A//privacy-policyonline.com/%3Ftmp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluegartr.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501173858id_/http%3A//www.bluegartr.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Google Adsense Privacy Policy
 
-Updated: April 20, 2009
+##  [Google Adsense 3rd Party Cookie Info]() [](http://www.bluegartr.com/privacy.php#top)
 
-Your privacy is important to us, so we have created the following Privacy Policy to let you know what information we collect when you visit our web sites and when we serve advertisements on our network of websites, why we collect it and how it is used.
+As with most other websites, We collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-Please read this privacy policy carefully since by visiting this site you agree to be bound by the terms and conditions of this Privacy Policy and our website Terms and Conditions.
-
-During your visit to the Site, we and/or our third party vendors may collect certain information, as follows.  
+  
 
 
-## Personally Identifiable Information
+##  [Registration]() [](http://www.bluegartr.com/privacy.php#top)
 
-We do not collect "Personally Identifiable Information" or"PII" on any of our websites.  PII means any information that may be used to identify an individual, including first and last name, physical address, email address, or telephone number.
+Registration is not necessary for the public to use this Web site. However, members must register in order to gain access to adding threads to the Web site. During registration, you must complete the registration form and create a user name and password. During registration you are required to give us contact information. We use this information to contact you about the services on our site in which you have expressed interest.We are the sole owner of the information collected on this Web site.
 
-## Non-Personally Identifiable Information
+  
 
-We automatically receive and record anonymous information that your browser sends whenever you visit our website. We use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, one or more cookies that may uniquely identify your browser, and responses by a web surfer to an advertisement delivered by us. This information may be stored on our systems for about one year. We use technology, including technology from its third party advertising vendors, which includes cookies, "web beacons" and/or "action tags." A "cookie" is a small text file stored by your browser on your computer when you visit our Network. A "web beacon" or "action tag" is a small image (usually 1x1 pixel) embedded in a web page or email. We use cookies, web beacons and action tags to collect non-personally identifiable data to provide better and more relevant services and messages to that user. Cookies, web beacons and action tags permit us to recognize users and avoid repetitive requests for the same information.
 
-As a rule, non-personally identifiable information is anonymous and is not used to identify a specific person.
+##  [Inappropriate Language]() [](http://www.bluegartr.com/privacy.php#top)
 
-Web surfers may elect not to provide non-personally identifiable information by following the cookie opt-out procedures set forth below.
+The use of inappropriate or offensive language is not permitted in these forums. Inappropriate or offensive language includes, but is not limited to, any language or content that is sexually oriented, sexually suggestive or abusive, harassing, defamatory, vulgar, obscene, profane, hateful, or that contains racially, ethnically or otherwise objectionable material of any kind. We ask that you please be considerate to other members in the forums when posting your messages.
 
-## Personally identifiable information
+  
 
-We do not collect PII.
 
-## Non-personally identifiable information
+##  [Posting Links]() [](http://www.bluegartr.com/privacy.php#top)
 
-We may use your non-personal information in order to better target advertisements, to provide aggregate reporting to advertisers and clients, and to improve our advertising systems and products. We use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content.  We may also share non-personally identifiable information with our subsidiaries and third party partners for similar use. 
+Our policy on linking to other forums is pretty simple. Members may link to any other site that provides information that helps answer another member's question or is just of general interest to members of that particular forum. One of the most basic tenets of the Web is the open exchange of information.
 
-We do not collect PII.
+  
 
-We employ commercially reasonable security measures to ensure the security of all data. We cannot, however, ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission of information, we make commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-## Non-personally identifiable information
+##  [Security]() [](http://www.bluegartr.com/privacy.php#top)
 
-Our advertising partners may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/) and work with industry leading companies to address important privacy and consumer protection issues in online advertising.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you prefer not to receive behavioral ads you may opt-out of this anonymous ad targeting. Please note that if you opt-out ad companies may continue to collect non-personal information in connection with ad serving for limited reporting and auditing purposes. Examples of these include but are not limited to reporting overall advertising performance, geographic activity, and other similar analyses.  Most browsers will accept cookies unless you change your browser settings to refuse them and opt-out of the use of cookies and those of our third party advertising technology vendors. For more information on cookies and how to manage and delete them, please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
+  
 
-We are very sensitive to the issue of children's privacy and make every effort to protect the privacy of children using the Internet. Our website, products, and services are not developed for or directed at children under 13. For that reason, we does not knowingly collect or maintain information on the websites from persons under 13 years of age. If you are under 13 years of age, please do not use or access the websites at any time or in any manner.
 
-We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page and update the effective date so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.  For all other changes, it is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. Your continued use of this website constitutes your agreement to this Privacy Policy and any updates.
+##  [Ad Servers]() [](http://www.bluegartr.com/privacy.php#top)
+
+To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+[ **Google**](http://www.google.com/privacypolicy.html) **  
+[vBulletin](http://www.vbulletin.org/forum/info.php?do=privacy)**[](http://www.vbulletin.org/forum/info.php?do=privacy)  
+ **If you have any questions about security on our Web site, you can send email:[Here](http://www.bluegartr.com/sendmessage.php)**
+
+  
+
+
+##  [Opt-Out Policy]() [](http://www.bluegartr.com/privacy.php#top)
+
+We give users options wherever necessary and practical. Such choices include:  
+Opting not to register to receive our electronic newsletters.  
+Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our user
+
+  
+
+
+##  [Consent]() [](http://www.bluegartr.com/privacy.php#top)
+
+By using this site, you consent to the collection and use of this information by us.
+
+  
+
+
+##  [Disclaimer]() [](http://www.bluegartr.com/privacy.php#top)
+
+reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+  
+
+
+##  [Changes in this Privacy Statement]() [](http://www.bluegartr.com/privacy.php#top)
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.  
+
+
+  
+**PLEASE NOTE that opting out of the ad-serving cookie does not mean that you will stop seeing either pop up advertising or banner ads embedded in websites! You can control many pop ups by using free software available on the Internet or by disabling JavaScript on your browser. DoubleClick has no control over the use or frequency of pop-up ads employed by website publishers or software manufacturers.** For more information about pop-up ads, please [click here](http://www.bluegartr.com/us/about_doubleclick/privacy/faq.asp#pop-ups) **.** | **DoubleClick Opt-out Click link below**  
+[](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl)  
+---|---
