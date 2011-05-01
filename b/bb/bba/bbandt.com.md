@@ -1,108 +1,37 @@
-> *The following text is extracted and transformed from the bbandt.com privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514070403id_/http%3A//www.bbt.com/bbt/about/privacyandsecurity/consumerprivacynotice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbandt.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501110511id_/http%3A//bbt.com/bbt/about/privacyandsecurity/default.html) for the most accurate reproduction.*
 
-# BB&T - Consumer Privacy Notice
+# BB&T - Privacy and Security
 
-**Overview**
+Why do you share information within the BB&T Corporate Family?
 
-The BB&T Corporate Family includes many types of financial services providers, such as banks, consumer finance companies, securities broker-dealers, insurance agencies, and mortgage companies. Over our long history as a financial services provider, we have placed the highest value on the information you share with us, and we are committed to protecting your privacy. This commitment forms the cornerstone of trust and confidence on which we hope to build long-lasting relationships with the clients we serve. Our Consumer Privacy Notice ("Notice") reaffirms our commitment to safeguarding your information.
+We share information within the BB&T Corporate Family for various purposes, such as offering to you or considering you for other products, services, or opportunities made available by other BB&T companies. 
 
-Back to top
+What are some of the advantages of information sharing?
 
-**BB &T Corporation Consumer Privacy Notice**
+Advantages include: our ability to share information among the companies in our Corporate family enables us to offer you a wide variety of financial products and services, such as credit cards, investment products, certificates of deposit, home equity loans, and checking accounts, and to send you special offers on our products. This sharing could save you time and provide convenience for you. Also, we have carefully chosen some companies in order to jointly offer other beneficial financial products, such as mortgage and credit life insurance. 
 
-Our Consumer Privacy Notice tells you the kind of information we collect about you, with whom we share it, and how we protect it responsibly. The Notice applies to consumers who obtain financial products or services for personal, family, or household purposes. You may receive a different privacy notice if you have other relationships with companies in the BB&T Corporate Family. The examples that you will find throughout this Notice are for purposes of illustration only and should not be considered a complete description of our information practices. In addition, we may not collect or disclose all of the categories of information described in this Notice in every transaction.
+What do you mean by saving me time and providing convenience?
 
-This Notice is provided on behalf of certain specific companies within the BB&T Corporate Family (which are not all of the BB&T Corporate Family members with whom information about you may be shared as described in this Notice). Those specific companies are: 
+We can save you time because we will already have your information on file, and we can provide convenience because we don't have to ask you to furnish the information again. 
 
-  * BB&T Asset Management, Inc.
-  * BB&T Credit Services, Inc.
-  * BB&T Financial, FSB
-  * BB&T Investment Services, Inc.
-  * Branch Banking and Trust Company
-  * Lendmark Financial Services, Inc.
-  * Lendmark Financial Services of West Virginia, Inc.
-  * Lendmark Mortgage and Finance, Inc.
-  * Liberty Mortgage Corporation
-  * Regional Acceptance Corporation
-  * Scott & Stringfellow, Inc.
-  * Wilson Fiduciary Management Corporation
+Do you collect information through cookies?
 
-  
-Back to top
+Yes, we may collect information necessary to manage your online session with us. For more information, please visit the Online Information Practices section of the website. 
 
-**Categories of Information We May Collect**
+What level of encryption do you use at BB&T?
 
-We may collect the following categories of information about you: 
+128-bit encryption, which is the highest level currently supported by any browser. 
 
-  * Information we receive from you on applications, personal financial statements, and other oral, written, or electronic communications, such as your name, address, social security number, assets, and income;
-  * Information we receive from third parties, including persons providing services in connection with your transactions and credit bureaus, such as your credit history;
-  * Information we obtain from others to verify information provided by you, such as your employment history and credit or other relationships with third parties; and
-  * Information collected from our Internet web sites, such as information you provide to us and information necessary to manage your online session with us.
+How can I reduce the number of pre-approved offers I receive from other financial institutions?
 
-  
-Back to top
+You may request that consumer reporting agencies not provide information about you to such companies by calling the national "Opt Out Request Line" at **1-888-567-8688**. 
 
-**Disclosure of Information to Third Parties**
+How can I have my name removed from telephone and mail lists so that I do not receive calls, letters, magazines, etc. from companies I am not interested in?
 
-We do not disclose information about you to companies outside of the BB&T Corporate Family, except as required or permitted by law. For example, we may disclose information about you to third parties to assist us in servicing your loan(s) or account(s) with us, to government entities in response to subpoenas or other governmental information requests, and to credit bureaus. In addition, we may disclose the information we collect about you described above to companies that perform marketing services on our behalf and to financial institutions for the purpose of jointly offering financial products and services to you, such as mortgage life insurance.
+You may request that your name be removed from mail and telephone lists by writing to: 
 
-If you close your accounts or your relationship becomes inactive, we will continue to treat the information we have collected about you in accordance with this Notice.
-
-Back to top
-
-**Information We May Share Within the BB &T Corporate Family**
-
-To the extent permitted by law, we may share information about our experiences and transactions with you (such as payment history) and identification information (such as your name and address) with companies in the BB&T Corporate Family. Unless you tell us not to, we may also share other information about you with companies within the BB&T Corporate Family for various purposes, such as offering to you, or considering you for, other products, services, or opportunities made available by other BB&T companies. This other information includes the following: 
-
-  * Information we obtain from your applications or other forms, such as your income, assets, and employment history;
-  * Information we obtain from a credit bureau, such as your credit history; and
-  * Information we obtain from others to verify information provided by you, such as your credit or other relationships with third parties.
-
-Companies in the BB&T Corporate Family that may receive this information are all financial services companies, including banks, consumer finance companies, securities broker-dealers, insurance agencies, and mortgage companies.
-
-Back to top
-
-**Your Information Choices**
-
-**How to Tell Us to Limit the Sharing of Information Within the BB &T Corporate Family**
-
-If you ask us to limit the sharing of information within our corporate family, you may miss learning of financial products and services offered by these companies that might be of benefit to you.
-
-If you prefer that we not share application information and credit-related information obtained from you and others with companies within the BB&T Corporate Family, you may direct us not to share (opt out) by calling us at **1-888-800-3420** between the hours of 6:00 a.m. and 9:00 p.m., ET, 7 days a week. We will process your request as soon as we reasonably can. If you have already directed us not to share, you do not need to opt out again.
-
-**Note:** Your choice to limit the sharing of information only covers application information and credit-related information obtained from you and others that we might otherwise share within our corporate family. We may continue to share other information about you within the BB&T Corporate Family as permitted by law, such as information about your transactions with us and certain identifying information, including name, address, telephone number, and Social Security Number. Each company within the BB&T Corporate Family will continue to contact its consumer clients with offers of its own products and services. You will continue to receive product messages via your statement(s), as well as telephone and mail offers from BB&T companies with whom you have relationships.
-
-**How to Tell Us to Limit Marketing Within the BB &T Corporate Family**
-
-  * Federal law gives you the right to limit some, but not all marketing from the BB&T companies. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the BB&T companies. This federal law is effective October 1, 2008.
-  * You may limit the BB&T companies, such as the banking, lending, credit card, insurance, and securities companies, from marketing their products or services to you based on your personal information that they receive from other BB&T companies. This information may include your income, your account history, and your credit score.
-  * Your choice to limit marketing offers from the BB&T companies will apply for at least five years from when you tell us your choice. Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from the BB&T companies for at least another five years.
-  * Beginning October 1, 2008, you may limit marketing offers by contacting us by telephone: **1-888-800-3420** between the hours of 6:00 a.m. and 9:00 p.m., ET, 7 days a week.
-
-**Note:** Joint Accounts — For a joint account (one account held by two or more consumers), each of the joint accountholders may exercise the right to opt out. We will treat an opt-out direction by one joint accountholder as applying to all of the joint accountholders with respect to that joint account. For example, if Pat and Kim have a joint account, Pat's opt-out direction will also apply to Kim with respect to the joint account, but not to Kim's individual accounts. Kim may separately exercise the right to opt out as to Kim's individual accounts. In this example, Pat's opt out will also apply to all of Pat's individual accounts.
-
-Back to top
-
-**Our Security Procedures**
-
-We maintain physical, electronic, and procedural safeguards that comply with federal guidelines to safeguard consumer information. Our employees are bound by our Code of Ethics and policies to access consumer information only for legitimate business purposes and to keep information about you confidential.
-
-Back to top
-
-**Other Privacy Protections**
-
-You may have other privacy protections under some state laws. We will comply with applicable state laws as to information about you. For example, certain state laws may restrict the types of information we may disclose about you or require us to provide you with an additional notice.
-
-Accounts with California addresses will be treated as if you opted out of joint marketing arrangements.
-
-Accounts with Vermont addresses will be treated as if you opted out of sharing of information among the BB&T Corporate Family and opted out of joint marketing arrangements.
-
-We will not use or share personally identifiable medical information for any purpose other than the underwriting or administration of your insurance account, policy, or claim, unless otherwise required or permitted by law.
-
-Back to top
-
-**Our Commitment**
-
-We will continue to maintain our dedication to protecting your privacy. Should you have questions concerning our Notice, you may call **1-888-800-3420** between the hours of 6:00 a.m. and 9:00 p.m., ET, 7 days a week. You may also view our [Online Security Statement.](http://www.bbt.com/about/privacyandsecurity/onlinesecurity.html)
-
-Back to top
+The Direct Marketing Association, Mail Preference Service  
+c/o Direct Marketing Association  
+PO Box 9008  
+Farmingdale, NY  
+11735-9008
