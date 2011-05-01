@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicurious.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226201446id_/http%3A//www.epicurious.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicurious.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501214124id_/http%3A//www.epicurious.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy at Epicurious.com
 
