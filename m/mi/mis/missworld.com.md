@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the missworld.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918170257id_/http%3A//www.missworld.com/Legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missworld.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501235111id_/http%3A//missworld.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D83%26Itemid%3D93%26lang%3Den) for the most accurate reproduction.*
 
-# Privacy Policy for www.missworld.com | Legal
+# Privacy Policy for www.missworld.com | Miss World
 
 When you register or download material from this site you may be asked to provide certain information about yourself including your name, contact details and company or business identity. We may also collect information about your usage of our website as well as information about you from e-mails or letters you send to us.   
 
