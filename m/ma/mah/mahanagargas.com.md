@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mahanagargas.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230124704id_/http%3A//www.mahanagargas.com/HF_Content.aspx%3FKey%3DNg%3D%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mahanagargas.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501064933id_/http%3A//mahanagargas.com/HF_Content.aspx%3FKey%3DNg%3D%3D) for the most accurate reproduction.*
 
 # Mahanagar Gas | Privacy Policy
 
