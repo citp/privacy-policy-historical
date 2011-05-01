@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the efukt.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229165850id_/http%3A//www.efukt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efukt.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501070839id_/http%3A//www.efukt.com/privacy) for the most accurate reproduction.*
 
-# efukt.com - maker of lulz
-
-THIS SITE IS STRICTLY FOR ADULTS. IF YOU ARE NOT 18 THEN GET THE FUCK OUT!
+# eFukt.com | adult humor for adults
 
 Privacy Policy
 
