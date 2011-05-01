@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squawkfox.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029221450id_/http%3A//www.squawkfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squawkfox.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501131642id_/http%3A//www.squawkfox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Squawkfox | Squawkfox
 
@@ -27,3 +27,7 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 ## Network Advertising Initiative (NAI)
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+## Other information collected by third-parties
+
+We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
