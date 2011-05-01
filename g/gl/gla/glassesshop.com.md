@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassesshop.com privacy policy that was archived on 2010-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100310012238id_/http%3A//www.glassesshop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesshop.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501094704id_/http%3A//www.glassesshop.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy: Glassesshop Online Shopping
 
@@ -9,3 +9,7 @@ GlassesShop.com is committed to safeguarding your privacy when making online pur
 ## Security Policy
 
 GlassesShop.com has put in place security measures to protect the loss, misuse, or theft of information under our control. All transactions are protected by Thawte, a world-renowned online security system, ensuring as far as possible that every transaction is 100% safe. With the rise in fraudulent use of credit card information over the Internet, GlassesShop.com takes credit card security very seriously. Our accounting department may at time request additional information regarding the credit card account that is being used during a purchase to ensure that no improper use takes place. We have your best interests at heart and believe you will appreciate our conviction to your security. 
+
+## About Virtual Try-on
+
+We will not be liable for the infringement（if it is possible） to photos uploaded to our Virtual Try-On program if you do not delete photos in the user center. 
