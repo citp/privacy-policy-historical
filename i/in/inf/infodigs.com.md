@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infodigs.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213143339id_/http%3A//www.consumeronly.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infodigs.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501103021id_/http%3A//www.consumeronly.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Compare Prices on ConsumerOnly.com
 
@@ -33,4 +33,4 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/Contact.aspx). **Effective Date: Privacy Notice last modified April 5, 2009.**
 
-© 2010 ConsumerOnly.com 
+© 2011 ConsumerOnly.com 
