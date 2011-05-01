@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardrunners.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225045205id_/http%3A//www.cardrunners.com/page/privacy_policy_cardrunners) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardrunners.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501033143id_/http%3A//www.cardrunners.com/page/privacy_policy_cardrunners) for the most accurate reproduction.*
 
 # CardRunners - Privacy Policy
 
@@ -47,6 +47,6 @@ We have taken appropriate security measures, consistent with modern information 
 
 **Managing Your Privacy Preferences**
 
-You can manage your privacy preferences or receive answers to any questions about our privacy policy by using the "Contact Us" link at www.cardrunners.com or by sending written correspondence to 2402 N. Lincoln, Chicago, Illinois 60610 United States of America.
+You can manage your privacy preferences or receive answers to any questions about our privacy policy by using the "Contact Us" link at www.cardrunners.com or by sending written correspondence to 1165 N. Clark, Suite 614, Chicago, Illinois 60610 United States of America.
 
 Published: May 1, 2010
