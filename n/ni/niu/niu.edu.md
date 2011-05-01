@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the niu.edu privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630201708id_/http%3A//www.its.niu.edu/its/Policies/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niu.edu privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501125302id_/http%3A//www.its.niu.edu/its/Policies/privacy_policy.shtml) for the most accurate reproduction.*
 
-# Web Site Privacy Policy - NIU - Information Technology Services
+# Web Site Privacy Policy
 
 ## Northern Illinois University Web Site Privacy Policy
 
 ### General
 
-The Board of Trustees of Northern Illinois University ("Northern Illinois University," "NIU," or "University") respects the privacy of every individual who visits the NIU web site. This privacy policy outlines the information the NIU web site may collect and how that information may be used. 
+The Board of Trustees of Northern Illinois University ("Northern Illinois University," "NIU," or "University") respects the privacy of every individual who visits the NIU web site. This privacy policy outlines the information the NIU web site may collect and how that information may be used.
 
-The NIU web site is supported by many University web servers. Some servers or sites hosted by Northern Illinois University may adopt different privacy notices that go beyond the parameters set forth in this document, as their specific needs require. However, those servers or sites cannot adopt a privacy notice that in any way supercedes federal or state laws or regulations, NIU Board of Trustees Bylaws and Regulations, and/or this Privacy Policy. Any discrepancy between the information presented here and the official Bylaws and Regulations of the Board of Trustees of Northern Illinois University and the policies and procedures of Northern Illinois University is not intended to and does not alter or amend the official Bylaws, Regulations, policies or procedures. NIU reserves the right to alter this policy at any time and will post future amended documents at this location. 
+The NIU web site is supported by many University web servers. Some servers or sites hosted by Northern Illinois University may adopt different privacy notices that go beyond the parameters set forth in this document, as their specific needs require. However, those servers or sites cannot adopt a privacy notice that in any way supercedes federal or state laws or regulations, NIU Board of Trustees Bylaws and Regulations, and/or this Privacy Policy. Any discrepancy between the information presented here and the official Bylaws and Regulations of the Board of Trustees of Northern Illinois University and the policies and procedures of Northern Illinois University is not intended to and does not alter or amend the official Bylaws, Regulations, policies or procedures. NIU reserves the right to alter this policy at any time and will post future amended documents at this location.
 
 ### Definitions
 
@@ -18,22 +18,22 @@ The NIU web site is defined as publicly accessible pages hosted under the domain
 
 Northern Illinois University uses the University Web for business purposes and is committed to fostering and protecting the privacy of personal information. The NIU web site will not collect personally identifiable information (personal data) about visitors, such as name, address, telephone number, or email address unless the information was provided voluntarily. Visitors should not voluntarily provide personal data if they do not want it to be collected. When collected, personal data may be used in the following ways:
 
-  1. Fulfill an order or request; 
-  2. Assist with better understanding the needs of visitors, thereby allowing NIU to improve services; 
+  1. Fulfill an order or request;
+  2. Assist with better understanding the needs of visitors, thereby allowing NIU to improve services;
   3. Reply to, or contact users.
 
 
 
-NIU will not sell, rent, or market personal data to third parties. 
+NIU will not sell, rent, or market personal data to third parties.
 
 In some cases, information that is not personally identifiable may be automatically collected and/or logged. For example, information about the visitor's browser, operating system, IP address, and the domain name of sites that are linked to the NIU web site allows NIU to accommodate the needs of the majority of visitors. It also assists with troubleshooting and diagnoses if there are problems with servers, and the information helps produce important statistics on how often pages are visited. Finally, this information can be used in the detection of security breaches and the safeguarding of NIU computing resources.
 
 Use of the University Web is subject to all applicable state and federal law, as well as all relevant University and campus policies. It is the University's usual practice not to share any personal information with those outside of the University. However, when circumstances arise for the need to share information gathered from its computing resources within the NIU IP Address space, the University may share as:
 
-  * Authorized and/or mandated by law, 
-  * Permitted under University policies, 
-  * Authorized by an approved Northern Illinois University contract, 
-  * Clearly stated at a University Web site that such information will be shared and the user actively indicated informed consent by providing the information, or 
+  * Authorized and/or mandated by law,
+  * Permitted under University policies,
+  * Authorized by an approved Northern Illinois University contract,
+  * Clearly stated at a University Web site that such information will be shared and the user actively indicated informed consent by providing the information, or
   * When consent is otherwise given.
 
 
@@ -42,11 +42,11 @@ Information Technology Services has taken several steps to safeguard the integri
 
 ### Information Placed Automatically on Visitors' Computers (Cookies)
 
-When visitors view the NIU web site, some information may be stored on their computer. This information will be in the form of a "cookie" or similar file. Cookies help web authors tailor web sites to better match user interests and preferences. With most Internet browsers, users can alter user preferences to erase cookies from their hard drive, block cookies, or have it prompt the user to either accept or refuse to store the cookie. Most browser help files have detailed instructions on how to set user preferences for cookies. 
+When visitors view the NIU web site, some information may be stored on their computer. This information will be in the form of a "cookie" or similar file. Cookies help web authors tailor web sites to better match user interests and preferences. With most Internet browsers, users can alter user preferences to erase cookies from their hard drive, block cookies, or have it prompt the user to either accept or refuse to store the cookie. Most browser help files have detailed instructions on how to set user preferences for cookies.
 
 In compliance with the Illinois State Agency Web Site Act ("Act"), NIU Web sites will not use permanent cookies or any other invasive tracking programs that monitor and track web site viewing habits, unless they meet the following criteria:
 
-  1. The use of permanent cookies adds value to the user otherwise not available; 
+  1. The use of permanent cookies adds value to the user otherwise not available;
   2. The permanent cookies are not used to monitor and track web site viewing habits unless all types of information collected and the University's use of that information add user value and are disclosed through a comprehensive online privacy statement.
 
 
@@ -69,9 +69,9 @@ Northern Illinois University is committed to complying fully with the Children's
 
 In addition, Northern Illinois University is committed to complying fully with, among all other applicable federal and state laws:
 
-  1. The Family Educational Rights and Privacy Act ("FERPA"), which generally prohibits the release of student education records without student permission; 
-  2. The Health Insurance Portability and Accountability Act ("HIPAA"), which generally safeguards the integrity and confidentiality of health information that is transmitted electronically; 
-  3. The Gramm-Leach-Bliley Act ("GLB"), which generally safeguards nonpublic, personal information, in electronic or paper form, associated with customers of NIU's financial services and products; and 
+  1. The Family Educational Rights and Privacy Act ("FERPA"), which generally prohibits the release of student education records without student permission;
+  2. The Health Insurance Portability and Accountability Act ("HIPAA"), which generally safeguards the integrity and confidentiality of health information that is transmitted electronically;
+  3. The Gramm-Leach-Bliley Act ("GLB"), which generally safeguards nonpublic, personal information, in electronic or paper form, associated with customers of NIU's financial services and products; and
   4. The Illinois Freedom of Information Act ("FOIA"). As a state institution, NIU may be legally required under the Illinois Freedom of Information Act or other laws to provide specific information, such as some electronic correspondence sent via the NIU web site.
 
 
