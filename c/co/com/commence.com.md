@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commence.com privacy policy that was archived on 2010-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100618140042id_/http%3A//www.commence.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commence.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501044958id_/http%3A//www.commence.com/privacy.aspx) for the most accurate reproduction.*
 
-# Our Privacy Statement : Web Based CRM Software : Commence.com
+# Our Privacy Statement : Web Based CRM : Commence.com
 
 Commence.com is owned and operated by Commence Corporation ("Commence"). Commence collects personal and non-personal information on Commence.com. Commence is committed to protecting the privacy of its users. We have created this Privacy Statement in order to describe and explain to users our information collection practice. If you have any questions or concerns in connection with Commence's information collection practice summarized in this Privacy Statement, please send an email, with the subject heading "Privacy Statement Question," to [webmaster@commence.com](mailto:webmaster@commence.com?subject=Privacy%20Statement%20Question). In the email, please state your questions or concerns. 
 
