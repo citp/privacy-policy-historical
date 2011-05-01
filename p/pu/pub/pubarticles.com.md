@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubarticles.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528161629id_/http%3A//www.pubarticles.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubarticles.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501105543id_/http%3A//www.pubarticles.com/policy.html) for the most accurate reproduction.*
 
 # Policy For Submitting Your Articles To PubArticles.com
 
