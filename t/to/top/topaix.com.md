@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topaix.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230141255id_/http%3A//www.topaix.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topaix.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501071039id_/http%3A//www.topaix.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Topaix | Articles Submission, Authors & Publishers Forums, Technology & Computer Hardware Support Forums
+# Privacy Policy - Topaix.com
 
 ### PRIVACY POLICY
 
