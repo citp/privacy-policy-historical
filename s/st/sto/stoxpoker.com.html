@@ -1,17 +1,63 @@
-<!--The following is the downloaded HTML source of the stoxpoker.com privacy policy that was archived on 2010-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225045205id_/http%3A//www.cardrunners.com/page/privacy_policy_cardrunners) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stoxpoker.com privacy policy that was archived on 2011-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110501033143id_/http%3A//www.cardrunners.com/page/privacy_policy_cardrunners) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <meta name="description" content="CardRunners Privacy Policy">
-
-
 <title>CardRunners - Privacy Policy </title>
 <link rel="icon" type="image/png" href="http://www.cardrunners.com/layout/cardrunners/images/favicon.ico">
 <link href="http://www.cardrunners.com/layout/cardrunners/css/video.css" type="text/css" rel="stylesheet">
 <link href="http://www.cardrunners.com/layout/cardrunners/css/menu.css" type="text/css" rel="stylesheet">
-<!--[if IE 6]>
+<!-- remove after survey -->
+<style>
+#survey_lightbox{width:585px;height:303px;background-image:url(http://www.cardrunners.com/layout/cardrunners/images/light_box_survey_bg.png);background-repeat:no-repeat;position:absolute;top:20%;left:50%;margin-left:-293px;z-index:300;}
+#survey_lightbox p{font-size:18px;color:#FFF;width:450px;margin:130px 0 0 60px;margin:135px 0 0 0px\9;}
+#survey_lightbox a img{float:left;margin:-30px 0 0 100px;}
+#survey_monkey{width:800px;display:none;position:absolute;top:10%;left:50%;margin-left:-400px;z-index:300;}
+#survey_monkey a img{float:right;position:relative;z-index:300;top:15px;left:10px;}
+</style>
+<script>
+	function survey_lightbox()
+	{
+		if (document.getElementById('survey_lightbox').style.display == 'block' && document.getElementById('greyOutScreen').style.display == 'block')
+		{
+			document.getElementById('survey_lightbox').style.display = 'none';
+			document.getElementById('greyOutScreen').style.display = 'none';
+		}
+		else
+		{
+			document.getElementById('survey_lightbox').style.display = 'block';
+			document.getElementById('greyOutScreen').style.display = 'block';
+			setCookie('has_seen_survey', 'YES', '200');
+			}
+	}
+
+	function survey_monkey()
+	{
+		if (document.getElementById('survey_monkey').style.display == 'block')
+		{
+				document.getElementById('survey_monkey').style.display = 'none';
+	                        document.getElementById('greyOutScreen').style.display = 'none';
+		}
+		else
+		{
+	                        document.getElementById('survey_lightbox').style.display = 'none';
+				document.getElementById('survey_monkey').style.display = 'block';
+		}
+	}
+
+	function setCookie(c_name,value,exdays)
+	{
+		var exdate=new Date();
+		exdate.setDate(exdate.getDate() + exdays);
+		var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+		document.cookie=c_name + "=" + c_value + ";path=/;domain=cardrunners.com";
+	}
+</script>
+<script type="text/javascript" src="http://www.cardrunners.com/js/prototype.js"></script>
+                      <script type="text/javascript" src="http://www.cardrunners.com/js/scriptaculous/src/scriptaculous.js?load=effects,builder"></script>
+                      <script type="text/javascript" src="http://www.cardrunners.com/js/lightbox.js"></script><!--[if IE 6]>
 	<script type="text/javascript" src="http://www.cardrunners.com/js/DD_belatedPNG.js"></script>
 	<script>
 	DD_belatedPNG.fix('#affiliate_page_wrap img, .Header img, .MainBody img, .LoginButton img, .FollowCRHead img, .FollowCR img, .FooterIcon img, .CloseIco img, #quickhit img, #quickhit1 img, .Search_top img');
@@ -32,10 +78,10 @@
 <script src="http://www.cardrunners.com/js/media.js" type="text/javascript"></script>
 <script src="http://www.cardrunners.com/js/prototype.js" type="text/javascript"></script>
 -->
+
 <script src="http://www.cardrunners.com/js/poker-videos-poker-training.js" type="text/javascript"></script>
 </head>
-<body>
-<div class="Header_Wrap">
+<body><div class="Header_Wrap">
 <div class="Header">
 	<div class="Logo"><a href="http://www.cardrunners.com"><img border="0" alt="Poker Training" src="http://www.cardrunners.com/layout/cardrunners/images/CardRunners_logo.png"></a></div>
 
@@ -43,7 +89,8 @@
 		<a class="HeaderLinks3" href="http://www.cardrunners.com/poker-videos/">Media</a>
 		<a class="HeaderLinks3" href="http://www.cardrunners.com/blog/">Blogs</a>
 		<a class="HeaderLinks3" href="http://www.cardrunners.com/cr_forums/">Forums</a>
-		<a class="HeaderLinks3" target="_blank" href="http://www.fastrakeback.com/rakeback/Full-Tilt-Poker.aspx">Rakeback</a>
+		<!--<a class="HeaderLinks3" target="_blank" href="http://www.fastrakeback.com/rakeback/Full-Tilt-Poker.aspx">Rakeback</a>-->
+                <a class="HeaderLinks3" href="http://www.cardrunners.com/cr-deals/" style="color:#FFFF00!important;">CR Deals</a>
 		<a class="HeaderLinks3" href="javascript:void(0)" onclick="javascript:chat_window('www.cardrunners.com');">Chat</a>
 		<a class="HeaderLinks3" href="http://www.cardrunners.com/pokertools/">HH Tools</a>
 		<a class="HeaderLinks3" style="padding: 0 6px 0 6px !important;" target="_blank" href="http://www.trulyfreepokertraining.com/">My TFPT</a>
@@ -187,6 +234,7 @@
 									<option value="Alex Huang">Alex Huang</option>
 									<option value="Alexdb">Alexdb</option>
 									<option value="augie">augie</option>
+									<option value="Awesemo">Awesemo</option>
 									<option value="µ(x+t)">µ(x+t)</option>
 									<option value="BallzDeepx">BallzDeepx</option>
 									<option value="Banana">Banana</option>
@@ -205,14 +253,15 @@
 									<option value="Citizenwind">Citizenwind</option>
 									<option value="ckingusc">ckingusc</option>
 									<option value="cmyr">cmyr</option>
-									<option value="CollinMoshman">CollinMoshman</option>
+									<option value="Collin Moshman">Collin Moshman</option>
 									<option value="CornellXC">CornellXC</option>
 									<option value="Cpar1">Cpar1</option>
 									<option value="CTS">CTS</option>
 									<option value="Curran Bhatia">Curran Bhatia</option>
 									<option value="D_Smith77">D_Smith77</option>
 									<option value="D_Zoo">D_Zoo</option>
-									<option value="DamnRinger">DamnRinger</option>
+									<option value="D.Redstone">D.Redstone</option>
+									<option value="Damn Ringer">Damn Ringer</option>
 									<option value="Daut44">Daut44</option>
 									<option value="Dean">Dean</option>
 									<option value="dirty.brasil">dirty.brasil</option>
@@ -224,9 +273,12 @@
 									<option value="Faarcyde">Faarcyde</option>
 									<option value="Fabian">Fabian</option>
 									<option value="Filthy">Filthy</option>
+									<option value="Fishbones11">Fishbones11</option>
+									<option value="Foldngst8n">Foldngst8n</option>
 									<option value="Fonkey123">Fonkey123</option>
 									<option value="fooz">fooz</option>
 									<option value="Fruitypro">Fruitypro</option>
+									<option value="Gakn29">Gakn29</option>
 									<option value="Gaucho2121">Gaucho2121</option>
 									<option value="Gordo16">Gordo16</option>
 									<option value="Green Plastic">Green Plastic</option>
@@ -245,6 +297,7 @@
 									<option value="Jeremiah Smith">Jeremiah Smith</option>
 									<option value="jfish">jfish</option>
 									<option value="JimmyLegs">JimmyLegs</option>
+									<option value="Joe Tehan">Joe Tehan</option>
 									<option value="Jordan Alpert">Jordan Alpert</option>
 									<option value="JSchnett">JSchnett</option>
 									<option value="Jsup">Jsup</option>
@@ -253,7 +306,7 @@
 									<option value="Ket">Ket</option>
 									<option value="KPR16">KPR16</option>
 									<option value="Kush">Kush</option>
-									<option value="Lana Maier">Lana Maier</option>
+									<option value="Lana O'Brien">Lana O'Brien</option>
 									<option value="LatestLines2">LatestLines2</option>
 									<option value="LearnedfromTV">LearnedfromTV</option>
 									<option value="Leatherass">Leatherass</option>
@@ -315,6 +368,7 @@
 									<option value="smizmiatch">smizmiatch</option>
 									<option value="SpartanFox">SpartanFox</option>
 									<option value="SplitSuit">SplitSuit</option>
+									<option value="SpurrierFTW">SpurrierFTW</option>
 									<option value="StacysMom001">StacysMom001</option>
 									<option value="StellarWind">StellarWind</option>
 									<option value="Steve Albini">Steve Albini</option>
@@ -341,7 +395,8 @@
 									<option value="Wazz">Wazz</option>
 									<option value="WCGRider">WCGRider</option>
 									<option value="wooz">wooz</option>
-									<option value="Xerok">Xerok</option>
+									<option value="Xorc1st">Xorc1st</option>
+									<option value="zachjackdad">zachjackdad</option>
 									<option value="Zaitsev">Zaitsev</option>
 									<option value="Zpaceman">Zpaceman</option>
 								</select>
@@ -354,6 +409,7 @@
 									<option value="122">2 Heads are Better Than 1</option>
 									<option value="156">3 Bet Pots</option>
 									<option value="137">3 Heads are Better Than 2</option>
+									<option value="231">30/60 Follow Up</option>
 									<option value="120">99 Problems</option>
 									<option value="68">A Cure for the Mondays</option>
 									<option value="102">A Lag in Nit's Clothing</option>
@@ -382,7 +438,9 @@
 									<option value="149">Climbing Mt. Micro</option>
 									<option value="161">Climbing Mt. Micro, Season 2</option>
 									<option value="117">Common Situations</option>
+									<option value="512">Concept Series </option>
 									<option value="35">Count The Zeros</option>
+									<option value="532">CR Insider</option>
 									<option value="75">Crushing the Micros</option>
 									<option value="140">Deep Thoughts on SSPLO</option>
 									<option value="179">Destination: SSNL</option>
@@ -390,23 +448,32 @@
 									<option value="42">Don't Be the Casino Fish</option>
 									<option value="83">Double or Nothing</option>
 									<option value="155">Double Vision</option>
+									<option value="452">Duel</option>
 									<option value="100">durrrr Challenge</option>
 									<option value="105">Educational</option>
+									<option value="361">Exploitation</option>
 									<option value="28">Exploitation vs. Exploitability</option>
+									<option value="442">Fishin' for Fish</option>
 									<option value="180">Fooz on the Fly</option>
 									<option value="154">From Pennies to Dollars</option>
+									<option value="261">FTOPS $100 Rebuy</option>
 									<option value="49">FTOPS: Shootout</option>
 									<option value="181">Full Ring Theory and Practice</option>
+									<option value="321">General Mathematics</option>
 									<option value="104">Going Robusto</option>
 									<option value="23">Green Plastic vs. CTS HU</option>
+									<option value="341">Hand Reading</option>
 									<option value="81">He Huffs and He Puffs</option>
 									<option value="195">Heads Up SNG from Scratch</option>
+									<option value="197">Heads Up Specialist 2011: CPar1</option>
 									<option value="146">Heads Up Specialists</option>
 									<option value="39">Heads Up: Zero to Sixty in 15,650 Seconds</option>
 									<option value="103">Heads Up! SSNL’s Got Game Too</option>
 									<option value="40">High Stakes Fridays</option>
+									<option value="199">High Stakes Thursdays</option>
 									<option value="84">Holdem Manager Tutorial</option>
 									<option value="141">How NOT to be a NIT</option>
+									<option value="432">How to Catch a Fish</option>
 									<option value="31">I Bet You... the Minimum (LHE)</option>
 									<option value="29">I Like to Move It, Move It</option>
 									<option value="36">I Want to Be a Mid-Stakes Regular</option>
@@ -436,6 +503,8 @@
 									<option value="187">Leakfinder: Stud 8/b</option>
 									<option value="125">Leakhunter</option>
 									<option value="194">LearnedFromSkjervoy</option>
+									<option value="492">Learning Curve</option>
+									<option value="331">LHE University</option>
 									<option value="135">Live No-Limit: The Real Cash Game</option>
 									<option value="62">Live Sessions: 12-Tabling MSNL</option>
 									<option value="96">Live Sessions: 9 Tabling SNGs</option>
@@ -454,6 +523,7 @@
 									<option value="153">Live Sessions: Razz</option>
 									<option value="65">Live Sessions: SNG</option>
 									<option value="66">Live Sessions: SSNL</option>
+									<option value="281">Live Sessions: Stud 8/b</option>
 									<option value="148">Live Sessions: Super Turbo SNG</option>
 									<option value="190">Live Sessions: uNL</option>
 									<option value="12">Loewa $100 MTT</option>
@@ -467,11 +537,18 @@
 									<option value="56">Monkey See, Monkey Do: Advanced LHE Concepts</option>
 									<option value="118">Move and Go!</option>
 									<option value="192">Movin' On Up</option>
+									<option value="371">Moving On Up</option>
 									<option value="131">Moving up the SNG Ladder: Six Max</option>
+									<option value="200">Mt. Micro 2011</option>
 									<option value="97">MTT Satellites</option>
+									<option value="251">MTT University</option>
 									<option value="47">Myth of the Redline</option>
+									<option value="221">Noting Limit</option>
+									<option value="412">Noting PLO</option>
 									<option value="109">Off Topic</option>
 									<option value="37">Omaha Ain't Just for Euros Anymore! </option>
+									<option value="381">Optimal Positional Flop Play</option>
+									<option value="401">Optimal Preflop Play</option>
 									<option value="129">Peeling Apart PLO</option>
 									<option value="128">Play Along II</option>
 									<option value="114">Play Along!</option>
@@ -480,6 +557,7 @@
 									<option value="24">PLO for the NL player</option>
 									<option value="95">PLO HH Review</option>
 									<option value="159">PLO Postflop Theory</option>
+									<option value="462">PLO8 from Scratch</option>
 									<option value="110">PLOwning: Advanced PLO strategy</option>
 									<option value="157">Podcast</option>
 									<option value="91">Poker On Demand: 3 Handed LHE</option>
@@ -488,6 +566,9 @@
 									<option value="130">Put Me in Coach</option>
 									<option value="136">Pwning Shorties</option>
 									<option value="74">Pwning the Midstakes</option>
+									<option value="482">Quest for $100K</option>
+									<option value="301">Razz Made Complex</option>
+									<option value="502">Regular Night for a Low Stakes Grinder</option>
 									<option value="132">Replayer: HSNL</option>
 									<option value="184">Replayer: LHE</option>
 									<option value="177">Replayer: MSNL</option>
@@ -502,40 +583,54 @@
 									<option value="78">Retrospective Review: PLO</option>
 									<option value="163">Revolutionize</option>
 									<option value="106">Rhythm and Flow</option>
+									<option value="472">Rush Hour</option>
 									<option value="151">Rush Poker</option>
 									<option value="54">Satellites Are More Than a Longshot</option>
 									<option value="165">Saturday Seminar</option>
 									<option value="8">sbrugby $1000 NL</option>
 									<option value="147">Schmooze You Can Use</option>
 									<option value="138">SCOOP Main Event</option>
+									<option value="291">SCOOP Stud Hi/Low</option>
 									<option value="158">SixDawg and NutePeppers - Moving from Full Ring to</option>
 									<option value="19">Sixpeppers Full Ring NL</option>
+									<option value="211">Small Stakes Stud 8</option>
 									<option value="127">SNG Ladder</option>
+									<option value="422">SNG Payout Analysis</option>
+									<option value="241">SNG University</option>
 									<option value="46">SNG: Advanced</option>
 									<option value="58">So You Think You Can Play?</option>
 									<option value="69">So You've Been Raised</option>
+									<option value="311">Solving Problems</option>
+									<option value="271">Spotty Logic</option>
+									<option value="351">Stages of TAG</option>
 									<option value="126">Statistically Speaking</option>
+									<option value="391">Statman</option>
 									<option value="145">Steals &amp; Peels</option>
 									<option value="113">Steps to the WSOP</option>
 									<option value="14">Stinger $20 MTT</option>
 									<option value="13">Stinger $5 rebuy MTT</option>
 									<option value="43">StoxPoker Bonus Video</option>
+									<option value="196">Stud/8 from Scratch</option>
 									<option value="116">Swing Sessions</option>
 									<option value="171">Table Ninja</option>
 									<option value="183">Tag Team</option>
+									<option value="522">TBA</option>
 									<option value="139">The Big Difference</option>
 									<option value="152">The Derek Zoolander Center for Kids Who Can't Read</option>
 									<option value="107">The Fish Pond</option>
 									<option value="101">The Jump Off</option>
+									<option value="198">The New Poker Climate</option>
 									<option value="173">The Odd Couple</option>
 									<option value="51">The SNG System</option>
 									<option value="72">Triple Draw 101</option>
 									<option value="82">Triple Draw Holiday Redux</option>
+									<option value="411">Utilizing Hold'em Manager</option>
 									<option value="176">Video Challenge Finalist</option>
 									<option value="186">Video Vault</option>
 									<option value="33">We Are the Champions</option>
 									<option value="89">We Are The Champions: FTP $750K</option>
 									<option value="87">We Be HUD'n</option>
+									<option value="201">When Worlds Collide</option>
 									<option value="70">Where Da Coach At?</option>
 									<option value="45">Where Da Gold At?</option>
 									<option value="27">You Too Can Crush Micros</option>
@@ -621,8 +716,26 @@
 	</div>
 </form>
 </div></div>
-<div id="ajax_loading" style="visibility:hidden;display: none;">
+<div id="ajax_loading" style="visibility:hidden;display: none;"></div>
+<!--
+<div id="survey_lightbox" style="display:none;">
+    <a href="javaScript:void(0);" onclick="survey_lightbox();"><img src="http://www.cardrunners.com/layout/cardrunners/images/close_button.png" style="margin:0px;float:right;" alt="Close Button" /></a>
+    <br clear="all"/>
+    <p>
+    	Participate in our brief survey for your chance to win a  free CardRunners membership.<br>
+    	<span style="font-size: 10px;">*Will take 5 minutes or less to complete.</span>
+    </p>
+    <br/>
+    <a href="javaScript:void(0);" onclick="survey_monkey();"><img src="http://www.cardrunners.com/layout/cardrunners/images/participate_button.png" alt="Participate Button" /></a>
+    <a href="javaScript:void(0);" onclick="survey_lightbox();"><img src="http://www.cardrunners.com/layout/cardrunners/images/no_thanks_button.png" style="margin-left:0px;" alt="No Thanks Button" /></a>
 </div>
+<div id="survey_monkey">
+    <a href="javaScript:void(0);" onclick="survey_monkey();"><img src="http://www.cardrunners.com/layout/cardrunners/images/close_button.png" alt="Close Button" /></a>
+    <iframe src="http://www.surveymonkey.com/s/SL735CY" width="800" height="600" marginwidth="0" marginheight="0" frameborder="no" scrolling="yes" style="border:2px solid #333;background:#FFF;"></iframe>
+</div>
+-->
+<div id="greyOutScreen" style="display:none;"></div>
+
 <div class="FormBody"><p><strong><span style="font-size: x-large;">CARDRUNNERS PRIVACY POLICY</span></strong></p>
 <p>&nbsp;</p>
 <p><span style="font-size: small;">The CardRunners Privacy Policy describes the types of information we collect at CardRunners web sites, how we may use that information, and with whom we may share it.</span></p>
@@ -662,7 +775,7 @@
 <p><span style="font-size: small;">We have taken appropriate security measures, consistent with modern information practices, to protect your personal information. These measures include, on our web sites and Internet-enabled technologies, administrative, technical, physical and procedural steps to protect your data from misuse, unauthorized access or disclosure, loss, alteration, or destruction.</span></p>
 <p>&nbsp;</p>
 <p><span style="font-size: medium;"><strong>Managing Your Privacy Preferences</strong></span></p>
-<p><span style="font-size: small;">You can manage your privacy preferences or receive answers to any questions about our privacy policy by using the "Contact Us" link at www.cardrunners.com or by sending written correspondence to 2402 N. Lincoln, Chicago, Illinois 60610 United States of America.</span></p>
+<p><span style="font-size: small;">You can manage your privacy preferences or receive answers to any questions about our privacy policy by using the "Contact Us" link at www.cardrunners.com or by sending written correspondence to 1165 N. Clark, Suite 614, Chicago, Illinois 60610 United States of America.</span></p>
 <p><span style="font-size: small;">Published: May 1, 2010</span></p></div>
 <div class="CommunityFooter_Wrap">
 	<div class="CommunityFooter">
@@ -680,7 +793,7 @@
 					<a href="http://www.cardrunners.com/instructors/">Poker Instructors</a>
 					<a href="http://www.cardrunners.com/poker-articles/">Poker Articles</a>
 					<a href="http://www.trulyfreepokertraining.com/" target="_blank">Free Poker Training</a>
-				</div>
+                                				</div>
 				<span>&nbsp;</span>
 				<div><p>FAQs and Terms</p>
 					<a href="http://www.cardrunners.com/page/technical_support_cardrunners">Technical Support</a>
