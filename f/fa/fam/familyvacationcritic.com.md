@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the familyvacationcritic.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215054856id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyvacationcritic.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501220415id_/http%3A//www.familyvacationcritic.com/privacy/abt) for the most accurate reproduction.*
 
 # Privacy - Family Vacation Critic
 
-[](https://web.archive.org/rss.php) [](http://addthis.com/bookmark.php?v=250)
+[](http://www.familyvacationcritic.com/rss.php) [](http://addthis.com/bookmark.php?v=250)
 
   
 
@@ -23,17 +23,24 @@ We have adopted the following Principles of Privacy, which summarize and clarify
 
 6\. Information Collected by Third Parties. Third parties, such as vendors, advertising entities, and business partners, may use cookies and other technologies to collect information about your online activities. The purposes for collecting this information include: to measure usage of our site; to analyze, modify, and personalize advertising content on this and other sites; and to provide ads about goods and services that may be of interest to you. We do not have access to or control over cookies or other features these third parties may use, and the information practices of these third parties are not covered by this Privacy Policy. Some of these third parties may be third-party network advertisers that offer you the option of not having this information collected. To learn more, please visit [NetworkAdvertising.org](http://www.networkadvertising.org/).
 
-This Privacy Policy is effective as of 07/15/09. 
+7\. Email newsletters. If you wish to unsubscribe from our email newsletters at any time, please visit <http://www.familyvacationcritic.com/newsletter/manage.php> or contact the [Community Manager](mailto:community@familyvacationcritic.com).
+
+The Independent Traveler, Inc.  
+7 Tree Farm Road  
+Pennington, NJ 08534  
+609-730-9155
+
+This Privacy Policy is effective as of 02/24/2011. 
 
 For additional information regarding our Principles of Privacy, please contact community@familyvacationcritic.com
 
 LauraS  
-Community Manager  
+Senior Manager, Community   
 Family Vacation Critic
 
   
 
 
-© Copyright 2010. The Independent Traveler, Inc.  
+© Copyright 2011. The Independent Traveler, Inc.  
 All rights reserved. This file may be downloaded for personal  
 use only. Other copying or reproduction is expressly prohibited. 
