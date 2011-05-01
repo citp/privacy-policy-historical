@@ -1,16 +1,21 @@
-<!--The following is the downloaded HTML source of the bbandt.com privacy policy that was archived on 2008-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080514070403id_/http%3A//www.bbt.com/bbt/about/privacyandsecurity/consumerprivacynotice.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bbandt.com privacy policy that was archived on 2011-05-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110501110511id_/http%3A//bbt.com/bbt/about/privacyandsecurity/default.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
 	
 			
+				<meta name="description" content="Protect your personal information and learn more about how to prevent identity theft and online fraud.
+">
+				
 			
+				<meta name="keywords" content="protect personal information, online privacy, identity theft prevention, identity theft protection, avoid online fraud, secure personal information">
+				
 		
 	
 	
-			<title>BB&amp;T - Consumer Privacy Notice</title>
+			<title>BB&amp;T - Privacy and Security</title>
 		
 	
 
@@ -27,11 +32,206 @@
 
 
 	
+
+	<!--meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+
+	<link rel="stylesheet" type="text/css" href="/bbt/css/faq.css">
+	<script src="http://www.bbt.com/includes/javascript/SpryEffects.js" type="text/javascript"></script>
+	<link href="/bbt/css/proddetail/proddetail.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" type="text/css" href="/bbt/css/product-templates.css">
+
+	<style type="text/css">
+		.myPng{ behavior: url(/includes/proddetail/iepngfix.htc) }
+	</style>
+
+	<!-- *************** START eliminate hover flicker *************** -->
+	<script language="javascript" type="text/javascript">
+	try {
+	document.execCommand("BackgroundImageCache", false, true);
+	} catch(err) {}
+	</script>
+	<!-- *************** END eliminate hover flicker *************** -->
+
+<script type="text/javascript">
+<!--
+var anchorFlag = 0;
+var anchorTopic, anchorAnswer;
+
+function MM_effectBlind(targetElement, duration, from, to, toggle)
+{
+	Spry.Effect.DoBlind(targetElement, {duration: duration, from: from, to: to, toggle: toggle});
+}
+
+//function to show or hide a layer
+function MM_showHideLayers() { //v9.0
+  var i,p,v,d,obj,args=MM_showHideLayers.arguments;
+  d='text';
+  for (i=0; i<(args.length-2); i+=3) 
+  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { 
+    v=args[i+2];
+	//alert(obj.id+', '+obj.currentStyle.display);
+	obj=obj.style;
+	obj.display=(obj.display=='block')?'none':'block';  //this line enables us to toggle the function call
+	//    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+	//    obj.visibility=v; 
+	//   	d=(v=='visible')?'block':(v=='hidden')?'none':d; 
+	//    obj.display=d; 
+  }
+}//end MM_showHideLayers
+
+function myShowHide(num){
+
+	MM_showHideLayers('topic'+num,'','show');
+	MM_showHideLayers('plus'+num,'','show');
+	MM_showHideLayers('minus'+num,'','show');
+}
+
+
+function topicShowHide(num){
+
+	MM_showHideLayers('topic'+num,'','show');
+	MM_showHideLayers('plus'+num,'','show');
+	MM_showHideLayers('minus'+num,'','show');
+}
+
+
+function myanchor(topic,ans){
+	
+	// First, get the topic's collapsed state ('none', '', or 'block').
+	var topic_id = "topic"+topic
+	var topic_element = document.getElementById(topic_id);
+	var currentState = topic_element.style.display;
+
+	// If it is collapsed, then run the "topicShowHide" subroutine.
+	if((currentState == '') || (currentState == 'none')) {
+		topicShowHide(topic);		
+	}
+
+	// If it isn't collapsed (ie, expanded), there is no need to run the "topicShowHide" subroutine.
+	if(currentState == 'block') {
+		//topicShowHide(topic);		
+	}
+	
+	MM_effectBlind(ans, 500, '0%', '100%', true);
+	anchorFlag = 1;
+}
+
+
+function showall(){
+	
+	var x = document.getElementsByTagName('div');
+    var mycount = 0;
+    var sa = document.getElementById("chkShowAll");
+    var chkd = sa.checked;
+	var currentState = 0;
+	var strTopicID;
+	var intTopicNumber;
+	
+	//toggle all answers open / closed
+	for (var i=0;i<x.length;i++){
+
+		currentState = x[i].style.display;
+		currentHeight = x[i].style.height;
+	
+		if(chkd){
+			//open all
+			
+			if(x[i].className == 'mytopic') { 							//x[i].id = is topic1, topic2..the id value
+				
+				if((currentState == '') || (currentState == 'none')) {
+					
+					// Extract trailing integer from element id - for example, if element id is "topic12", 
+					// extract the "12".
+					strTopicID = x[i].id;
+					intTopicNumber = strTopicID.substr(5, strTopicID.length-5);
+					//alert("intTopicNumber: " + intTopicNumber);
+					
+					//topicShowHide(x[i].id.charAt(5));	
+					topicShowHide(intTopicNumber);
+					//topicX where X is a number
+				}
+			}//end if mytopic
+			if(x[i].className == 'myanswer'){
+				if((currentHeight == '') || (currentHeight == '0px'))
+					//alert("effectBlind");
+					MM_effectBlind(x[i].id, 500, '0%', '100%', true);
+			}//end if myanswer
+		}else{
+			//close all
+			
+			if(x[i].className == 'mytopic') { 							//x[i].id = is topic1, topic2..the id value
+				if(currentState == 'block')	  {
+
+					// Extract trailing integer from element id - for example, if element id is "topic12", 
+					// extract the "12".
+					strTopicID = x[i].id;
+					intTopicNumber = strTopicID.substr(5, strTopicID.length-5);
+					//alert("intTopicNumber: " + intTopicNumber);
+
+					// Use intTopicNumber to access this topic's question display status.
+					//alert(arrTopicDisplayMode[intTopicNumber-1]);
+
+					// If this topic's question display status is "Yes", then do NOT run the topicShowHide routine.
+					if (arrTopicDisplayMode[intTopicNumber-1] == "Yes") {
+							//topicShowHide(intTopicNumber);
+						   //topicShowHide(x[i].id.charAt(5));
+					}
+					else {
+						//topicShowHide(x[i].id.charAt(5));
+						topicShowHide(intTopicNumber);
+					}
+				}
+			}//end if mytopic
+			if(x[i].className == 'myanswer'){
+				if((currentHeight != '') && (currentHeight != '0px'))
+					MM_effectBlind(x[i].id, 500, '0%', '100%', true);
+			}//end if myanswer
+		}//end if else chkd
+	}//end for loop	
+
+}//end function showall
+
+
+
+
+
+// Array to hold "Yes" or "No" for each topic, to indicate whether it is to display the questions or not.
+var arrTopicDisplayMode = new Array(1);
+
+
+
+	
+		arrTopicDisplayMode[0]="Yes";
+		
+
+
+
+
+//-->
+</script>
 </head>
+<!--
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+-->
+
 <body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('/images/topnav/bbt_personal_over.gif','/images/topnav/bbt_business_over.gif','/images/topnav/bbt_customer_service_over.gif')">
+						
+			
+	
+
+	
+	<!-- Start SiteCatalyst Page Specific Code -->
+	<script language="JavaScript" type="text/javascript">
+		
+	</script>
+	<!-- End SiteCatalyst Page Specific Code -->
+
+
 	
 <div class="noprint"><link rel="stylesheet" type="text/css" href="/bbt/css/topNav.css">
-<script src="/bbt/includes/javascript/AC_RunActiveContent.js" type="text/javascript"></script>
 
 
 <script type="text/JavaScript">
@@ -63,45 +263,14 @@ function MM_swapImage() { //v3.0
 
 
 <script src="/bbt/includes/javascript/SpryEffects.js" type="text/javascript"></script>
+<script src="/bbt/includes/javascript/AC_RunActiveContent.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-<!--
-function MM_effectBlind(targetElement, duration, from, to, toggle)
-{
-	Spry.Effect.DoBlind(targetElement, {duration: duration, from: from, to: to, toggle: toggle});
-}
-
-function MM_changeProp(objId,x,theProp,theValue) { //v9.0
-  var obj = null; with (document){ if (getElementById)
-  obj = getElementById(objId); }
-  if (obj){
-    if (theValue == true || theValue == false)
-      eval("obj.style."+theProp+"="+theValue);
-    else eval("obj.style."+theProp+"='"+theValue+"'");
-  }
-}
-var mytoggle=0;	//global var for showhide toggle
-function myshowhide(){
-	//this function allows us to toggle the MM_changeProp function above
-	if(mytoggle){
-		MM_changeProp('olbclose','','display','none','DIV');
-		MM_changeProp('olblogon','','display','inline','DIV');
-		mytoggle=0;
-	}
-	else{
-		MM_changeProp('olbclose','','display','inline','DIV');
-		MM_changeProp('olblogon','','display','none','DIV');
-		mytoggle=1;
-	}
-}
-//-->
-</script>
 <!-- ~*~ Start:homepage:globalnav ~*~ -->
 <div class="container">
 	<div id="top-nav">
   <div class="left" id="logo"><a href="http://www.bbt.com/default.html"><img src="/bbt/images/globalnav/bbt-logo-top.gif" width="68" height="68" alt="BB&amp;T Logo" border="0"></a></div>
     <div class="right" id="utilitylinks">
-        <a href="/bbt/default.html">Home</a>|<a href="/bbt/locator/default.html">Locations</a>|<a href="/bbt/about/">About BB&amp;T</a>|<a href="/bbt/contactus.html">Contact Us</a>|<a href="/bbt/about/careers.html?WT.ac=careers_topnav_subpage">Careers</a>|<a href="/bbt/sitemap.html">Site Map</a>
+        <a href="/bbt/default.html">Home</a>|<a href="/bbt/locator/default.html">Locations</a>|<a href="/bbt/about/">About BB&amp;T</a>|<a href="/bbt/contactus.html">Contact Us</a>|<a href="/bbt/careers/">Careers</a>|<a href="/bbt/sitemap.html">Site Map</a>
     
 <!--Search box begins here-->
         <!-- ~*~ Start:homepage:search ~*~ -->
@@ -139,15 +308,15 @@ form {
 		////Remove the leading and trailing blanks from the string to be tested.
 		strTestString = strTestString.trimspaces(); 
 
-		if ((strTestString == "type keyword(s)") || (strTestString == "")) 
-			{
-			alert('Please enter at least one keyword, then click Search.');
-			return false;
-			}
-		else 
-			{
-				return true;
-			}
+		//if ((strTestString == "type keyword(s)") || (strTestString == "")) 
+			//{
+			//alert('Please enter at least one keyword, then click Search.');
+			//return false;
+			//}
+		//else 
+			//{
+				//return true;
+			//}
 		}
 
 	function submitSiteWideSearchOnEnter( e ) {
@@ -159,7 +328,7 @@ form {
 
 <form action="http://www.bbt.com/search/query.html" method="get" name="seek1" id="seek2" style="display: inline" accept-charset="iso-8859-1" onsubmit="return submitSiteWideSearch();" onkeydown="return submitSiteWideSearchOnEnter(event);">
       <input type="hidden" name="col" value="widget">
-      <input class="searchbox copysmall" type="text" name="qt" id="qt2" value="type keyword(s)" maxlength="1991" size="18" onfocus="(this.value=='type keyword(s)')?this.value='':this.select();">
+      <input class="searchbox copysmall" type="text" name="qt" id="qt2" value="" maxlength="1991" size="18" onfocus="(this.value=='')?this.value='':this.select();">
       <input type="hidden" name="qc" value="widget">
   <input name="image" id="image" value="Go" src="/bbt/images/buttons/search_sm.gif" class="searchbutton" width="53" height="16" alt="Search bbt.com" border="0" type="image">
 </form>
@@ -168,18 +337,17 @@ form {
 	</div>
   <div class="clearboth no-text"></div>
   </div>
-  <div id="oao-graybar-large" class="left" style="width:216px;">
-    
+  
+ <div id="oao-graybar-large">   
 <!--BB&T OnLine starts here-->
+<div id="oao-graybar-large" class="left">
     <img src="/bbt/images/topnav/online_banking_login_top.gif" usemap="#Map" class="imgLeftSpace">
+	<span id="olblogon"><a href="/bbt/default.html" title="Log on to BB&amp;T OnLine Banking">log on</a></span></div>
     <map name="Map" id="Map">
     <area shape="rect" coords="136,11,150,25" href="/bbt/about/privacyandsecurity/onlinebankinglogin.html" onclick="NewWindow(this.href,'product','660','340','no');return false;" alt="This login form is secure. Click here to learn more." title="This login form is secure. Click here to learn more.">
 	</map>
-    <!--The logon/close href is applied to both the arrow graphic and the text links below in order for them to work correctly in Safari. Otherwise the arrow graphic displays below the text.-->
-	<span id="olblogon"><a href="javascript:void(0);" onclick="MM_effectBlind('olbui', 1000, '0px', '154px', false); myshowhide();setTimeout('document.loginForm[\'UserName\'].focus();',1500);" title="Logon to BB&amp;T OnLine Banking">logon</a> <a href="javascript:void(0);" onclick="MM_effectBlind('olbui', 1000, '0px', '154px', false); myshowhide();setTimeout('document.loginForm[\'UserName\'].focus();',1500);" title="Logon to BB&amp;T OnLine Banking"><img src="/bbt/images/topnav/online_banking_arrow_down.gif"></a></span>
-    <span id="olbclose"><a href="javascript:void(0);" onclick="MM_effectBlind('olbui', 1000, '154px', '0px', false);myshowhide();" title="Close">close</a> <a href="javascript:void(0);" onclick="MM_effectBlind('olbui', 1000, '154px', '0px', false);myshowhide();" title="Close"><img src="/bbt/images/topnav/online_banking_arrow_up.gif"></a></span>    
 <!--BB&T OnLine ends here-->
-</div>     
+        
 <!-- ~*~ Start:homepage:mainnav ~*~ -->
 <script type="text/javascript">
 <!--
@@ -208,13 +376,13 @@ function MM_swapImage() { //v3.0
 </script>
 
 
- <div class="right" id="oao-graybar-large" style="width:554px">
-<a href="/bbt/personal/solutions/default.html?WT.svl=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('personal','','/images/topnav/bbt_personal_over.gif',1)"><img src="/bbt/images/topnav/bbt_personal.gif" alt="BB&amp;T Personal Banking" name="personal" width="118" height="40" border="0" id="personal"></a><a href="/bbt/business/solutions/default.html?WT.svl=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('business','','/images/topnav/bbt_business_over.gif',1)"><img src="/bbt/images/topnav/bbt_business.gif" alt="BB&amp;T Business Banking" name="business" width="118" height="40" border="0" id="business"></a><a href="/bbt/customerservice/default.html?WT.svl=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('customer_service','','/images/topnav/bbt_customer_service_over.gif',1)"><img src="/bbt/images/topnav/bbt_customer_service.gif" alt="BB&amp;T Customer Service" name="customer_service" width="163" height="40" border="0" id="customer_service"></a><a href="/bbt/bbtracing/" target="_blank" onmouseover="MM_swapImage('nascar','','/images/topnav/bbt_nascar_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/bbt/images/topnav/bbt_nascar.gif" alt="BB&amp;T Racing" name="nascar" width="155" height="40" border="0" id="nascar"></a><!-- ~*~ End:homepage:mainnav ~*~ --></div>
-<div class="clearboth"></div>
+ <div class="right" id="oao-graybar-large">
+<a href="/bbt/Personal/Products/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('personal','','/images/topnav/bbt_personal_over.gif',1)"><img src="/bbt/images/topnav/bbt_personal.gif" alt="BB&amp;T Personal Banking" name="personal" width="118" height="40" border="0" id="personal"></a><a href="/bbt/Business/Products/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('business','','/images/topnav/bbt_business_over.gif',1)"><img src="/bbt/images/topnav/bbt_business.gif" alt="BB&amp;T Business Banking" name="business" width="118" height="40" border="0" id="business"></a><a href="/bbt/customerservice/default.html?WT.svl=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('customer_service','','/images/topnav/bbt_customer_service_over.gif',1)"><img src="/bbt/images/topnav/bbt_customer_service.gif" alt="BB&amp;T Customer Service" name="customer_service" width="163" height="40" border="0" id="customer_service"></a><a href="/bbt/Financial-Education/default.html" onmouseover="MM_swapImage('learn','','/images/topnav/bbt_learnplan_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/bbt/images/topnav/bbt_learnplan.gif" alt="Learn and Plan" name="learn" width="155" height="40" border="0" id="nascar"></a></div>
+<div class="clearright"></div>
+<!-- ~*~ End:homepage:mainnav ~*~ -->
+    </div>  
 </div>
-
 </div>
-
  
 <!-- *************** START Site-Wide Search Box Validation *************** -->
 <script language="javascript" type="text/javascript">
@@ -236,7 +404,7 @@ function MM_swapImage() { //v3.0
 		////Remove the leading and trailing blanks from the string to be tested.
 		strTestString = strTestString.trimspaces(); 
 
-		if ((strTestString == "type keyword(s)") || (strTestString == "")) 
+		if ((strTestString == "1458976type keyword(s)") || (strTestString == "amfhedk")) // changed to render alert null 11/10 HE
 			{
 			alert('Please enter at least one keyword, then click Search.');
 			return false;
@@ -270,431 +438,415 @@ function MM_swapImage() { //v3.0
 
  
 
+
+		
+				
+					<script language="javascript">
+					  anchorTopic = 0;
+					  anchorAnswer = '0';
+					</script>
+					
+			
+	
+
 <table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
 	<tbody><tr>
 		<td width="216" valign="top" bgcolor="#e5e5e5" class="noprint"><!--<br />-->
 			
-<!-- ~*~ Start:homepage:onlinebanking ~*~ -->
-
-<div id="olbui" style="height: 0px;">	
-<link href="/bbt/css/onlinebanking.css" rel="stylesheet" type="text/css">
-
-<div id="loginContainer">
-
-	<div id="linkBar">
-	<span class="linkBartext"><a href="https://online.bbandt.com/online/bbtolbext/enroll/info?enroll=new">Enroll</a> | <a href="/bbt/flash/online/olbdemo_enroll.html" onclick="NewWindow(this.href,'product','790','490','no');return false;">Demo</a> | <a href="/bbt/personal/products/onlinebanking/default.html">Learn More</a> | <a href="https://online.bbandt.com/online/servlet/efs/disclosures-menu.html">Disclosures</a></span>
-	</div>
-
-	<div id="loginArea">
-
-		<form action="https://online.bbandt.com/auth/pwd.tb" method="post" id="loginForm" name="loginForm" onsubmit="return submitOLBLogin();" onkeydown="return submitOLBLoginOnEnter( event );">
-		
-				<label for="userid" class="loginlabel">User ID:</label> 
-				<br>
-				<input id="usernamefield" name="UserName" type="text" class="logininput" size="15" maxlength="40" tabindex="1">
-				<br>
-
-				<label for="pword" class="loginlabel">Password:</label>
-				<span class="forgotpword"><a href="https://online.bbandt.com/online/servlet/efs/password-reset.html?flow=pwdreset" tabindex="-1">Forgot Password?</a></span><br>
-				<input id="userpw" name="Password" maxlength="20" size="15" type="password" class="logininput" tabindex="2">
-				<br>
-				
-		  <div id="loginline">
-            <table width="180" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td width="48"><input name="input" type="image" src="/bbt/images/buttons/logon_secure.gif" border="0" vspace="4" alt="Logon to Secure BB&amp;T OnLine Banking" tabindex="3"></td>
-                    <td width="132"><div id="alertMsgarea"><span class="alertMsg"><a href="/bbt/about/privacyandsecurity/onlinebankinglogin.html" onclick="NewWindow(this.href,'product','660','340','no');return false;">Our secure logon</a></span></div></td>
-					</tr>
-            </tbody></table>
-          </div>
-      </form>
-	</div>
-
-</div>
-	
-<script language="JavaScript" type="text/javascript">
-
-  function submitOLBLoginOnEnter( e ) {
-    if ( e.keyCode == 13 ) { return submitOLBLogin(); }
-  }
-
-	function submitOLBLogin() {
-		if ( ( document.loginForm.elements[ 'usernamefield' ].value.length > 0 ) &&
-				( document.loginForm.elements[ 'userpw' ].value.length > 0 ) )
-		{
-			document.loginForm.action='https://online.bbandt.com/auth/pwd.tb';
-			document.loginForm.submit();
-		}
-		else {
-			alert( 'A User ID and Password are required to process your logon request.' );
-			return false;
-		}	 
-	}
-
-	function setfocus_OLBLogin() {
-		document.loginForm.elements[ 'usernamefield' ].focus();
-	}
-</script>
-
-<script type="text/javascript">
-<!--
-
-	var olbui_obj = null; 
-			 
-	with (document){ if (getElementById) olbui_obj = getElementById('olbui'); }
-			 
-	eval("olbui_obj.style.height='0'");
-			  
-//-->
-</script>
-</div>
 <br>
-<!-- ~*~ End:homepage:onlinebanking ~*~ -->
 
 
-			<!--<img src="/images/whiteshim.gif" width="216" height="1" border="0" /><br />&nbsp;-->
+			<img src="/bbt/images/menubridge.gif" width="216" height="1" border="0">
 			
-			<br>
-		
-			<table width="100%" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td rowspan="100" width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td colspan="2"><a href="/bbt/about/privacyandsecurity/default.html"><b>Privacy and Security</b></a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/cardsecurity.html" onclick="">Card Security</a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><b>Consumer Privacy Notice</b></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/completeclientprotection/default.html" onclick="">Complete Client Protection</a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/creditreports.html" onclick="">Credit Reports</a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/identitytheft.html" onclick="">Identity Theft</a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/emailcommunication.html" onclick="">BB&amp;T Promotional Email</a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/emailandwebsitefraud.html" onclick="">Email and Website Fraud</a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/bbtsecuremessage.html" onclick="">BB&amp;T SecureMessage<sup>SM</sup></a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/onlinesecurity.html" onclick="">Online Security</a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/onlineinformationpractices.html" onclick="">Online Information Practices</a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/faq.html" onclick="">Frequently Asked Questions</a></td></tr></tbody></table><br>
 			
 		
-			<img src="/bbt/images/whiteshim.gif" width="216" height="1"><br>
-			<!-- ~*~ Start:banner:internetfraud ~*~ --><a href="/bbt/about/privacyandsecurity/emailandwebsitefraud.html"><img src="/bbt/images/bnr/internetalert.gif" alt="Internet Fraud Alert" width="216" height="50" border="0"></a><!-- ~*~ End:banner:internetfraud ~*~ --><br>
-			<img src="/bbt/images/whiteshim.gif" width="216" height="1"><br>
-			<br>
+			<!-- ~*~ Start:about:privacyandsecurity ~*~ --><table width="100%" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td rowspan="100" width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td colspan="2"><b>Privacy and Security</b></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/privacy/default.html" onclick="">Privacy</a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;&nbsp;&nbsp;</td><td><a href="/bbt/about/privacyandsecurity/onlineinformationpractices.html" onclick="">Online Information Practices</a></td></tr></tbody></table></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;&nbsp;&nbsp;</td><td><a href="/bbt/about/privacyandsecurity/consumerprivacynotice.html" onclick="">Consumer Privacy Notice</a></td></tr></tbody></table></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;&nbsp;&nbsp;</td><td><a href="/bbt/about/privacyandsecurity/completeclientprotection/default.html" onclick="">Complete Client Protection</a></td></tr></tbody></table></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/security/default.html" onclick="">Security</a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;&nbsp;&nbsp;</td><td><a href="/bbt/about/privacyandsecurity/security/cardsecurity/default.html" onclick="">Card Security</a></td></tr></tbody></table></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;&nbsp;&nbsp;</td><td><a href="/bbt/about/privacyandsecurity/security/everydaysecurity/default.html" onclick="">Everyday Security</a></td></tr></tbody></table></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;&nbsp;&nbsp;</td><td><a href="/bbt/about/privacyandsecurity/security/onlinesecurity/default.html" onclick="">Online Security</a></td></tr></tbody></table></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><a href="/bbt/about/privacyandsecurity/identitytheft/default.html" onclick="">Identity Theft</a></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;&nbsp;&nbsp;</td><td><a href="/bbt/about/privacyandsecurity/identitytheft.html" onclick="">Identity Theft Protection</a></td></tr></tbody></table></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;&nbsp;&nbsp;</td><td><a href="/bbt/Financial-Education/Security/protect-against-investment-scams.asp" onclick="">Internet Scam Protection</a></td></tr></tbody></table></td></tr><tr><td width="1"><img src="/bbt/images/shim.gif" width="1" height="1"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;&nbsp;&nbsp;</td><td><a href="/bbt/Financial-Education/Security/protect-internet-activities.asp" onclick="">Internet Activity and Electronic Data Protection</a></td></tr></tbody></table></td></tr></tbody></table><br><!-- ~*~ End:about:privacyandsecurity ~*~ -->
+			
+
 		
+
+		
+
+		
+
 		</td>
 
 		<td width="10" valign="top">&nbsp;</td>
 		<td width="548" valign="top">
-			
-			<table width="100%" border="0" cellspacing="0" cellpadding="3">
-				<tbody><tr>
-					<td width="370">
-						<br><span class="header"><a name="top"></a>BB&amp;T Corporation Consumer Privacy Notice</span>
-					</td>
-					<td width="144" align="right" class="noprint"><img src="/bbt/images/icons/print3.gif" width="18" height="14" alt="Printable Version"><a href="/bbt/about/privacyandsecurity/consumerprivacynotice.html?page=print&amp;" onclick="NewWindow(this.href,'product','650','500','yes');return false;">Printable Version</a></td>
+
+<!--
+			<table width="25%" border="1" cellspacing="0" cellpadding="3">
+				<tr>
+					<td width="144" align="right" class="noprint"><img src="/images/icons/print3.gif" width="18" height="14" alt="Printable Version" /><a href="/about/privacyandsecurity/default.html?page=print&" onclick="NewWindow(this.href,'product','650','500','yes');return false;">Printable Version</a></td>
 				</tr>
-			</tbody></table>
-			
-			<br>
-			
-			<table width="100%" border="0" cellspacing="3" cellpadding="3">
-				
-				
-			
-			
-				<tbody><tr><td valign="top">
-						<span class="subheader10"></span>
-						<ul>
-						
-
-					
-							<li><a href="#00">Overview</a></li>
-					
-
-							
-						
-
-					
-							<li><a href="#01">BB&amp;T Corporation Consumer Privacy Notice</a></li>
-					
-
-							
-						
-
-					
-							<li><a href="#02">Categories of Information We May Collect</a></li>
-					
-
-							
-						
-
-					
-							<li><a href="#03">Disclosure of Information to Third Parties</a></li>
-					
-
-							
-						
-
-					
-							<li><a href="#04">Information We May Share Within the BB&amp;T Corporate Family</a></li>
-					
-
-							
-						
-
-					
-							<li><a href="#05">Your Information Choices</a></li>
-					
-
-							
-						
-
-					
-							<li><a href="#06">Our Security Procedures</a></li>
-					
-
-							
-						
-
-					
-							<li><a href="#07">Other Privacy Protections</a></li>
-					
-
-							
-						
-
-					
-							<li><a href="#08">Our Commitment</a></li>
-					
-
-							
-						</ul>
-					</td>
-				</tr>
-
-			
-
-			
-			<tr><td valign="top">
-					Last updated May 2008.
-				</td>
-			</tr>
-			
-
-			<tr><td valign="top">&nbsp;</td></tr>
-			
-				<tr><td valign="top"><p class="subheader10"></p>
-					
-						<p><a name="00"></a>
-						<b>Overview</b><br>
-						<br>
-The BB&amp;T Corporate Family includes many types of financial services providers, such as banks, consumer finance companies, securities broker-dealers, insurance agencies, and mortgage companies. Over our long history as a financial services provider, we have placed the highest value on the information you share with us, and we are committed to protecting your privacy. This commitment forms the cornerstone of trust and confidence on which we hope to build long-lasting relationships with the clients we serve. Our Consumer Privacy Notice ("Notice") reaffirms our commitment to safeguarding your information.<br>
-<br>
-						<a href="#top">Back to top</a></p>
-						
-					
-						<p><a name="01"></a>
-						<b>BB&amp;T Corporation Consumer Privacy Notice</b><br>
-						<br>
-Our Consumer Privacy Notice tells you the kind of information we collect about you, with whom we share it, and how we protect it responsibly. The Notice applies to consumers who obtain financial products or services for personal, family, or household purposes. You may receive a different privacy notice if you have other relationships with companies in the BB&amp;T Corporate Family. The examples that you will find throughout this Notice are for purposes of illustration only and should not be considered a complete description of our information practices. In addition, we may not collect or disclose all of the categories of information described in this Notice in every transaction.<br>
-<br>
-This Notice is provided on behalf of certain specific companies within the BB&amp;T Corporate Family (which are not all of the BB&amp;T Corporate Family members with whom information about you may be shared as described in this Notice). Those specific companies are:
-
-</p><ul style="margin-bottom: 0;">
-<li>BB&amp;T Asset Management, Inc.</li>
-<li>BB&amp;T Credit Services, Inc.</li>
-<li>BB&amp;T Financial, FSB</li>
-<li>BB&amp;T Investment Services, Inc.</li>
-<li>Branch Banking and Trust Company</li>
-<li>Lendmark Financial Services, Inc.</li>
-<li>Lendmark Financial Services of West Virginia, Inc.</li>
-<li>Lendmark Mortgage and Finance, Inc.</li>
-<li>Liberty Mortgage Corporation</li>
-<li>Regional Acceptance Corporation</li>
-<li>Scott &amp; Stringfellow, Inc.</li>
-<li>Wilson Fiduciary Management Corporation</li>
-</ul>
-<br>
-						<a href="#top">Back to top</a><p></p>
-						
-					
-						<p><a name="02"></a>
-						<b>Categories of Information We May Collect</b><br>
-						<br>
-We may collect the following categories of information about you:
-
-</p><ul style="margin-bottom: 0;">
-<li>Information we receive from you on applications, personal financial statements, and other oral, written, or electronic communications, such as your name, address, social security number, assets, and income;</li>
-<li>Information we receive from third parties, including persons providing services in connection with your transactions and credit bureaus, such as your credit history;</li>
-<li>Information we obtain from others to verify information provided by you, such as your employment history and credit or other relationships with third parties; and</li>
-<li>Information collected from our Internet web sites, such as information you provide to us and information necessary to manage your online session with us.</li>
-</ul>
-<br>
-						<a href="#top">Back to top</a><p></p>
-						
-					
-						<p><a name="03"></a>
-						<b>Disclosure of Information to Third Parties</b><br>
-						<br>
-We do not disclose information about you to companies outside of the BB&amp;T Corporate Family, except as required or permitted by law. For example, we may disclose information about you to third parties to assist us in servicing your loan(s) or account(s) with us, to government entities in response to subpoenas or other governmental information requests, and to credit bureaus. In addition, we may disclose the information we collect about you described above to companies that perform marketing services on our behalf and to financial institutions for the purpose of jointly offering financial products and services to you, such as mortgage life insurance.<br>
-<br>
-If you close your accounts or your relationship becomes inactive, we will continue to treat the information we have collected about you in accordance with this Notice.<br>
-<br>
-						<a href="#top">Back to top</a></p>
-						
-					
-						<p><a name="04"></a>
-						<b>Information We May Share Within the BB&amp;T Corporate Family</b><br>
-						<br>
-To the extent permitted by law, we may share information about our experiences and transactions with you (such as payment history) and identification information (such as your name and address) with companies in the BB&amp;T Corporate Family. Unless you tell us not to, we may also share other information about you with companies within the BB&amp;T Corporate Family for various purposes, such as offering to you, or considering you for, other products, services, or opportunities made available by other BB&amp;T companies. This other information includes the following:
-
-</p><ul>
-<li>Information we obtain from your applications or other forms, such as your income, assets, and employment history;</li>
-<li>Information we obtain from a credit bureau, such as your credit history; and</li>
-<li>Information we obtain from others to verify information provided by you, such as your credit or other relationships with third parties.</li>
-</ul>
-
-Companies in the BB&amp;T Corporate Family that may receive this information are all financial services companies, including banks, consumer finance companies, securities broker-dealers, insurance agencies, and mortgage companies.<br>
-<br>
-						<a href="#top">Back to top</a><p></p>
-						
-					
-						<p><a name="05"></a>
-						<b>Your Information Choices</b><br>
-						<br>
-<strong>How to Tell Us to Limit the Sharing of Information Within the BB&amp;T Corporate Family</strong><br>
-<br>
-If you ask us to limit the sharing of information within our corporate family, you may miss learning of financial products and services offered by these companies that might be of benefit to you.<br>
-<br>
-If you prefer that we not share application information and credit-related information obtained from you and others with companies within the BB&amp;T Corporate Family, you may direct us not to share (opt out) by calling us at <strong>1-888-800-3420</strong> between the hours of 6:00 a.m. and 9:00 p.m., ET, 7 days a week. We will process your request as soon as we reasonably can. If you have already directed us not to share, you do not need to opt out again.<br>
-<br>
-<strong>Note:</strong> Your choice to limit the sharing of information only covers application information and credit-related information obtained from you and others that we might otherwise share within our corporate family. We may continue to share other information about you within the BB&amp;T Corporate Family as permitted by law, such as information about your transactions with us and certain identifying information, including name, address, telephone number, and Social Security Number. Each company within the BB&amp;T Corporate Family will continue to contact its consumer clients with offers of its own products and services. You will continue to receive product messages via your statement(s), as well as telephone and mail offers from BB&amp;T companies with whom you have relationships.<br>
-<br>
-<strong>How to Tell Us to Limit Marketing Within the BB&amp;T Corporate Family</strong>
-
-</p><ul>
-<li>Federal law gives you the right to limit some, but not all marketing from the BB&amp;T companies. Federal law also requires us to give you this notice to tell you about your choice to limit marketing from the BB&amp;T companies. This federal law is effective October 1, 2008.</li>
-<li>You may limit the BB&amp;T companies, such as the banking, lending, credit card, insurance, and securities companies, from marketing their products or services to you based on your personal information that they receive from other BB&amp;T companies. This information may include your income, your account history, and your credit score.</li>
-<li>Your choice to limit marketing offers from the BB&amp;T companies will apply for at least five years from when you tell us your choice. Once that period expires, you will receive a renewal notice that will allow you to continue to limit marketing offers from the BB&amp;T companies for at least another five years.</li>
-<li>Beginning October 1, 2008, you may limit marketing offers by contacting us by telephone: <strong>1-888-800-3420</strong> between the hours of 6:00 a.m. and 9:00 p.m., ET, 7 days a week.</li>
-</ul>
-
-<strong>Note:</strong> Joint Accounts — For a joint account (one account held by two or more consumers), each of the joint accountholders may exercise the right to opt out. We will treat an opt-out direction by one joint accountholder as applying to all of the joint accountholders with respect to that joint account. For example, if Pat and Kim have a joint account, Pat's opt-out direction will also apply to Kim with respect to the joint account, but not to Kim's individual accounts. Kim may separately exercise the right to opt out as to Kim's individual accounts. In this example, Pat's opt out will also apply to all of Pat's individual accounts.<br>
-<br>
-						<a href="#top">Back to top</a><p></p>
-						
-					
-						<p><a name="06"></a>
-						<b>Our Security Procedures</b><br>
-						<br>
-We maintain physical, electronic, and procedural safeguards that comply with federal guidelines to safeguard consumer information. Our employees are bound by our Code of Ethics and policies to access consumer information only for legitimate business purposes and to keep information about you confidential.<br><br>
-						<a href="#top">Back to top</a></p>
-						
-					
-						<p><a name="07"></a>
-						<b>Other Privacy Protections</b><br>
-						<br>
-You may have other privacy protections under some state laws. We will comply with applicable state laws as to information about you. For example, certain state laws may restrict the types of information we may disclose about you or require us to provide you with an additional notice.<br>
-<br>
-Accounts with California addresses will be treated as if you opted out of joint marketing arrangements.<br>
-<br>
-Accounts with Vermont addresses will be treated as if you opted out of sharing of information among the BB&amp;T Corporate Family and opted out of joint marketing arrangements.<br>
-<br>
-We will not use or share personally identifiable medical information for any purpose other than the underwriting or administration of your insurance account, policy, or claim, unless otherwise required or permitted by law.<br>
-<br>
-						<a href="#top">Back to top</a></p>
-						
-					
-						<p><a name="08"></a>
-						<b>Our Commitment</b><br>
-						<br>
-We will continue to maintain our dedication to protecting your privacy. Should you have questions concerning our Notice, you may call <strong>1-888-800-3420</strong> between the hours of 6:00 a.m. and 9:00 p.m., ET, 7 days a week. You may also view our <a href="http://www.bbt.com/about/privacyandsecurity/onlinesecurity.html">Online Security Statement.</a><br><br>
-						<a href="#top">Back to top</a></p>
-						
-					</td>
-				</tr>
-
-				<tr><td valign="top">&nbsp;</td></tr>
-			
-
-			
-
-			</tbody></table>
-			
+			</table>
+-->
 		
-			<table width="100%" cellpadding="0" cellspacing="0" class="borderyellow">
+
+
+
+			<!-- had to change cellspacing and padding for THESE TEMPLATES -->
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<td>
-						<table width="100%" border="0" cellpadding="3" cellspacing="0" bgcolor="#FFFFCC">
-				
+                  <td valign="top">
+<!-- NOTE: CHANGES START HERE, BUT SEE COMMENT ABOVE REGARDING A SLIGHT DIFFERENCE FROM EXISTING TEMPLATES REGARDING THE TABLE PROPERITIES
+ (commment added by jjs)  -->
+                   
+ 
+    
 
-					
-
-					
-
-					
-							<tbody><tr>
-								<td><b>Speak with us in Person</b></td>
-							</tr>
-							<tr>
-								<td>We'll be happy to answer your questions when you visit your <a href="/bbt/locator/">local branch</a></td>
-							</tr>
-						
-
-					
-
-					
-
-					
-						<tr>
-							<td>&nbsp;</td>
-						</tr>
-					
-
-				
-
-					
-
-					
-
-					
-							<tr>
-								<td><b>Contact us by Phone</b></td>
-							</tr>
-							<tr>
-								<td>Call us at <b>1-888-800-3420</b> between the hours of 6:00 a.m. and 9:00 p.m., Eastern Time, 7 days a week</td>
-							</tr>
-						
-
-					
-
-					
-
-					
-						<tr>
-							<td>&nbsp;</td>
-						</tr>
-					
-
-				
-
-					
-							<tr>
-								<td><b>Send us an Email</b></td>
-							</tr>
-							<tr>
-								<td>Feel free to contact us by <a href="https://www.bbt.com/bbtapps/apps/contact/corporate.asp">email</a></td>
-							</tr>
-						
-
-					
-
-					
-
-					
-
-					
-
-					
-
-				
-						</tbody></table>
-					</td>
+<div id="presentation-fold" style="background: url(/images/privacyandsecurity/lifestyle-ps-main.jpg) no-repeat">
+		<img src="/bbt/images/product-images/splash-placeholder.gif" alt="BB&amp;T Privacy and Security " title="BB&amp;T Privacy and Security " class="fake-image" style="width:240px;height:190px;">
+	 <!--
+		<table width="25%" border="0" cellspacing="0" cellpadding="3">
+				<tr>
+					<td width="144" align="right" class="noprint"><img src="/images/icons/print3.gif" width="18" height="14" alt="Printable Version" /><a href="/about/privacyandsecurity/default.html?page=print&" onclick="NewWindow(this.href,'product','650','500','yes');return false;">Printable Version</a></td>
 				</tr>
+		</table>
+	  -->
+	    <div class="sub-region">
+		<h1 class="main-heading">Privacy &amp; Security</h1>
+		</div>
+		
+			<div id="intro-pad">
+    			<p>
+				AT BB&amp;T, we work to ensure your personal information is protected. Your security is our highest priority. Our privacy and security information will help you understand the policies that protect you. Learn how to minimize your risk and protect yourself online.
+   				</p>	
+   	  		 </div><!-- end intro pad -->
+
+			 
+			<!--<br />-->
+			
+
+
+			
+
+				
+						<img src="/bbt/images/product-images/package-top2.gif" style="float:left;" class="top-edge">
+						<div class="package-container">
+							<div class="package">
+								<img src="/bbt/images/product-images/package-float-left.jpg" class="p-left">
+								<img src="/bbt/images/product-images/package-float-right.jpg" class="p-right">
+								 
+								<h3 class="product-heading"><span>
+								
+										Relax and bank with confidence
+									
+								</span></h3>
+								<img src="/bbt/images/privacy/lifestyle-privacyb1.jpg" alt="Privacy" title="Privacy" class="group-image">
+								<div class="package-pad">
+									<p>
+									Get the answers you need to make smart online banking decisions...
+									</p>
+									
+									
+									
+									<!--
+									<p>
+									Product Count: 3
+									</p>
+									-->
+
+									
+											<div class="one-column">
+										
+									
+											
+											<span>
+											
+													
+															
+																<a href="/bbt/about/privacyandsecurity/privacy/ "><strong>Privacy</strong> <br>  - Protect your personal information</a>
+																
+														
+																							
+											</span>
+											
+											<span>
+											
+													
+															
+																<a href="/bbt/about/privacyandsecurity/security/ "><strong>Security</strong> <br> - Guarantee your accounts are secure</a>
+																
+														
+																							
+											</span>
+											
+											<span>
+											
+													
+															
+																<a href="/bbt/about/privacyandsecurity/identitytheft/ "><strong>Identity Theft Protection</strong> <br> - Avoid online fraud</a>
+																
+														
+																							
+											</span>
+										
+										
+									</div><!-- two column end --> 
+								</div><!-- package-pad -->
+								
+								
+								<img src="/bbt/images/product-images/package-bottom.jpg" style="float:left;">
+
+							</div><!-- package -->
+						</div><!-- package container -->
+						<br style="clear:both;">
+					
+
+				
+
+			
+
+
+
+
+			
+
+				
+				
+
+
+
+
+
+
+
+				
+						<!-- No content blocks exist, so nothing to do. -->
+						<br>
+					
+
+				
+	
+				<br>
+
+
+
+
+
+
+
+<div id="faq-root" class="product-faq">
+<br>
+
+
+		<span class="subheader11"><a name="FAQ"></a>Privacy and Security Frequently Asked Questions </span>
+		<p></p>
+	
+
+
+
+
+		<div style="text-align: right; margin-bottom: 10px;">
+		  <form>
+			
+					<input id="chkShowAll" onclick="showall()" type="checkbox">
+				
+			Display all answers
+		  </form>
+		</div>
+	
+
+
+
+
+
+
+	<div class="nav">
+		
+				<!-- notice onClick myShowHide() value is topic number --->
+				<a href="javascript:void(0);" onclick="myShowHide(1);"> <img src="/bbt/images/box_plus.gif" border="0" id="plus1" class="plus" style="display:none;">
+				<!-- style display must be here to work -->
+				<img src="/bbt/images/box_minus.gif" border="0" id="minus1" class="minus" style="display:block;">&nbsp;</a>
+			
+	</div>
+	 
+	
+			<div id="topic1" class="mytopic" style="display:block;">
+		
+	
+		 <a name="FAQ_1_1"></a><a href="javascript:void(0);" onclick="MM_effectBlind('answer1_1', 500, '0%', '100%', true)">Why do you share information within the BB&amp;T Corporate Family?</a>
+		 <div id="answer1_1" class="myanswer">
+			 We share information within the BB&amp;T Corporate Family for various purposes, such as offering to you or considering you for other products, services, or opportunities made available by other BB&amp;T companies.
+		 </div>
+		
+	
+		 <a name="FAQ_1_2"></a><a href="javascript:void(0);" onclick="MM_effectBlind('answer1_2', 500, '0%', '100%', true)">What are some of the advantages of information sharing?</a>
+		 <div id="answer1_2" class="myanswer">
+			 Advantages include: our ability to share information among the companies in our Corporate family enables us to offer you a wide variety of financial products and services, such as credit cards, investment products, certificates of deposit, home equity loans, and checking accounts, and to send you special offers on our products. This sharing could save you time and provide convenience for you. Also, we have carefully chosen some companies in order to jointly offer other beneficial financial products, such as mortgage and credit life insurance.
+		 </div>
+		
+	
+		 <a name="FAQ_1_3"></a><a href="javascript:void(0);" onclick="MM_effectBlind('answer1_3', 500, '0%', '100%', true)">What do you mean by saving me time and providing convenience?</a>
+		 <div id="answer1_3" class="myanswer">
+			 We can save you time because we will already have your information on file, and we can provide convenience because we don't have to ask you to furnish the information again.
+		 </div>
+		
+	
+		 <a name="FAQ_1_4"></a><a href="javascript:void(0);" onclick="MM_effectBlind('answer1_4', 500, '0%', '100%', true)">Do you collect information through cookies?</a>
+		 <div id="answer1_4" class="myanswer">
+			 Yes, we may collect information necessary to manage your online session with us. For more information, please visit the Online Information Practices section of the website.
+		 </div>
+		
+	
+		 <a name="FAQ_1_5"></a><a href="javascript:void(0);" onclick="MM_effectBlind('answer1_5', 500, '0%', '100%', true)">What level of encryption do you use at BB&amp;T?</a>
+		 <div id="answer1_5" class="myanswer">
+			 128-bit encryption, which is the highest level currently supported by any browser.
+		 </div>
+		
+	
+		 <a name="FAQ_1_6"></a><a href="javascript:void(0);" onclick="MM_effectBlind('answer1_6', 500, '0%', '100%', true)">How can I reduce the number of pre-approved offers I receive from other financial institutions?</a>
+		 <div id="answer1_6" class="myanswer">
+			 You may request that consumer reporting agencies not provide information about you to such companies by calling the national "Opt Out Request Line" at <strong>1-888-567-8688</strong>.
+		 </div>
+		
+	
+		 <a name="FAQ_1_7"></a><a href="javascript:void(0);" onclick="MM_effectBlind('answer1_7', 500, '0%', '100%', true)">How can I have my name removed from telephone and mail lists so that I do not receive calls, letters, magazines, etc. from companies I am not interested in?</a>
+		 <div id="answer1_7" class="myanswer">
+			 You may request that your name be removed from mail and telephone lists by writing to:
+<br><br>
+The Direct Marketing Association, Mail Preference Service<br>
+c/o Direct Marketing Association<br>
+PO Box 9008<br>
+Farmingdale, NY<br>
+11735-9008<br>
+
+		 </div>
+		
+	
+	</div>
+	
+	
+
+	<br>
+
+
+
+<br>
+</div>
+
+
+
+
+
+
+
+
+
+
+	<div class="callout-box">
+	<div class="call-pad">
+	<!--
+    <img src="/images/product-images/call-accent.gif" style="float:left;margin:0 12px 4px 8px; " />
+    -->			
+				
+
+					
+					
+					
+							<strong>Contact us by Phone</strong>
+						
+							<span>Call us at <strong>1-800-BANK-BBT 1-800-226-5228</strong></span>
+						
+					
+					
+					
+						<br>
+					
+
+				
+
+					
+					
+					
+							<strong>Speak with us in Person</strong>
+						
+							<span>We'll be happy to answer your questions when you visit your <a href="http://www.bbt.com//ebusns/locator/findLocation.do?command=new">local branch</a></span>
+						
+					
+					
+					
+						<br>
+					
+
+				
+
+					
+							<strong>Send us an Email</strong>
+							
+							<span>Feel free to contact us by <a href="/bbt/apps/contact/corporate.asp">email</a></span>
+						
+					
+					
+					
+					
+					
+
+				
+
+	<br style="clear:left;">
+	</div><!-- call pad -->
+	</div><!-- call out box -->
+				
+
+
+
+  
+
+<!--
+<div class="callout-box">
+	<div class="call-pad">
+    <img src="/images/product-images/call-accent.gif" style="float:left;margin:0 12px 4px 8px; " />
+		<strong>Contact Your Local Lending Center</strong>
+		<span>Find the BB&T Sales Finance Lending Center near you</span>
+		
+        <strong>Send Us an Email</strong>
+		<span>Feel free to contact us by email</span>
+        <br style="clear:left;"/ >
+	</div>
+</div>
+-->
+
+
+</div><!-- end presentation fold -->
+
+
+
+
+ <!-- end of article canvas for new template-->
+				
+					</td>
+              	</tr>
 			</tbody></table><br>
 
+
+
+			
+			
+
+
+
+
+
+
+
+
 		
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		
+		
+
+
+		<div class="c2acontent">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td>
-			<span class="copyright"><a href="http://www.bbt.com/personal/solutions/default.html" class="linkssmall">Personal</a>&nbsp;|&nbsp;<a href="http://www.bbt.com/business/solutions/default.html" class="linkssmall">Business</a>&nbsp;|&nbsp;<a href="http://www.bbt.com/customerservice/default.html" class="linkssmall">Customer
-			Service</a>&nbsp;|&nbsp;<a href="http://www.bbt.com/about/privacyandsecurity/default.html" class="linkssmall">Privacy &amp; Security</a>&nbsp;|&nbsp;<a href="http://www.bbt.com/about/default.html" class="linkssmall">About BB&amp;T</a>&nbsp;|&nbsp;<a href="http://www.bbt.com/about/legal.html" class="linkssmall">Legal</a><br>&nbsp;</span>
+			<span class="copyright"><a href="/bbt/Personal/Products/" class="linkssmall">Personal</a>&nbsp;|&nbsp;<a href="/bbt/Business/Products/" class="linkssmall">Business</a>&nbsp;|&nbsp;<a href="/bbt/customerservice/default.html" class="linkssmall">Customer
+		  Service</a>&nbsp;|&nbsp;<a href="/bbt/about/privacyandsecurity/default.html" class="linkssmall">Privacy &amp; Security</a>&nbsp;|&nbsp;<a href="/bbt/bbtracing/" target="_blank" class="linkssmall">BB&amp;T Racing</a>&nbsp;|&nbsp;<a href="/bbt/about/default.html" class="linkssmall">About BB&amp;T</a>&nbsp;|&nbsp;<a href="/bbt/about/legal.html" class="linkssmall">Legal</a><br>&nbsp;</span>
 		</td>
 	</tr>
 </tbody></table>            
+</div>
 
 		
 				<table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -703,16 +855,10 @@ We will continue to maintain our dedication to protecting your privacy. Should y
 	
 			<tbody><tr><td><img src="/bbt/images/shim.gif" width="10" height="5"></td></tr>
 			<tr><td><span class="copyright"><!-- ~*~ Start:discolsures:copyright ~*~ -->
-Copyright © 2008, Branch Banking and Trust Company. All Rights Reserved.<br>
+<div style="margin-bottom:10px;">Copyright © 2011, Branch Banking and Trust Company. All Rights Reserved.</div>
 
-<br>
-<a href="/bbt/about/privacyandsecurity/completeclientprotection/default.html" class="ccprotection"><b>BB&amp;T Complete Client Protection</b></a>
-
-
-<!-- ~*~ End:discolsures:copyright ~*~ -->
-
-<!-- webtrends live tag begin-->
-<!-- START OF SDC Advanced Tracking Code harry-->      
+		<a href="/bbt/about/privacyandsecurity/completeclientprotection/default.html" class="ccprotection"><b>BB&amp;T Complete Client Protection</b></a>
+	<!-- ~*~ End:discolsures:copyright ~*~ --><!-- webtrends live tag begin--><!-- START OF SDC Advanced Tracking Code harry-->      
 <!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
 <!-- V8.0c -->
 <!-- $DateTime: 2006/04/07 16:45:14 $ -->
@@ -721,9 +867,9 @@ var gService = false;
 var gTimeZone = -8;
   
 
-// VERSION V8.0c
-// LAST UPDATED 6-12-2007
-// RDIAZ
+
+
+
 
 // WebTrends SmartSource Data Collector
 // Copyright (c) 1996-2006 WebTrends Inc. All rights reserved.
@@ -814,7 +960,7 @@ function dcsAdv(){
 <!-- START OF SmartSource Data Collector TAG -->
 <!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
 
-<!-- $DateTime: 2006/04/07 16:45:14 $ -->
+<!-- DateTime: 2006/04/07 16:45:14  -->
 <script type="text/javascript"><!--
 
 
@@ -871,7 +1017,7 @@ Copyright 1997-2007 Omniture, Inc. More info available at
 http://www.omniture.com --> 
 
 <script language="JavaScript">
-var s_account="bbtglobal,bbtcomprod"
+var s_account="bbtglobal,bbtcomprod";
 </script>
 
 <script language="JavaScript" src="/bbt/touchclarity/s_code.js"></script>
@@ -880,23 +1026,25 @@ var s_account="bbtglobal,bbtcomprod"
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 
-s.pageName=""
-s.channel=""
-s.campaign=""
-s.events=""
-s.siteID="BBT.com"            // leftmost value in pagename
-//s.defaultPage=""       // filename to add when none exists
-s.queryVarsList="tab"     // query parameters to keep
-//s.pathExcludeDelim=";" // portion of the path to exclude
-//s.pathConcatDelim=""   // page name component separator
-//s.pathExcludeList=""// elements to exclude from thepath
+s.channel="BBT.com";
+s.server="BBT.com";
+s.siteID="BBT.com";
 
+
+		try {
+			setWAVars();
+		} catch(ex) {
+		
+		}
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script><script language="javascript" src="https://www.bbt.com/touchclarity/omtr_tc.js"></script>
 <!-- End SiteCatalyst code version: H.14. -->
-
-<!-- webtrends live tag end -->
+<!-- webtrends live tag end --><!-- begin: Cy Site Seal Code -->
+ <script type="text/javascript" src="http://cyseal.cyveillance.com/SiteSeal/siteseal2p.js"> 
+ </script>
+<script type="text/javascript"> try{ cyseal(false); } catch(cyerr){};</script>
+<!-- end: Cy Site Seal Code -->
 </span></td></tr>
 		
 	
@@ -904,9 +1052,31 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script><script language=
 	
 			<tr><td><img src="/bbt/images/shim.gif" width="10" height="5"></td></tr>
 			<tr><td><span class="copyright"><!-- ~*~ Start:disclosures:fdic_ehl ~*~ -->
-<b>Branch Banking and Trust Company and BB&amp;T Financial, FSB, are member FDIC. An Equal Housing Lender.</b> <img src="/bbt/images/icons/ELH.gif" alt="Equal Housing Lender" width="18" height="14">
+<b>Branch Banking and Trust Company is a Member FDIC and an Equal Housing Lender.</b> <img src="/bbt/images/icons/ELH.gif" alt="Equal Housing Lender" width="18" height="14">
 <!-- ~*~ End:disclosures:fdic_ehl ~*~ -->
 </span></td></tr>
+		
+	
+	<!-- other -->
+	
+			
+				<tr><td><img src="/bbt/images/shim.gif" width="10" height="5"></td></tr>
+				<tr><td><span class="copyright"><!-- ~*~ Start:disclosures:FDIC Insured ~*~ -->
+<p class="copyright">Only deposit products are FDIC insured.</p>
+<!-- ~*~ End:disclosures:FDIC Insured ~*~ --></span></td></tr>
+			
+			
+				<tr><td><img src="/bbt/images/shim.gif" width="10" height="5"></td></tr>
+				<tr><td><span class="copyright"><!-- ~*~ Start:disclosures:Credit product approval ~*~ -->
+Credit products are subject to credit approval. 
+<!-- ~*~ End:disclosures:Credit product approval  ~*~ --></span></td></tr>
+			
+				<tr><td><img src="/bbt/images/shim.gif" width="10" height="5"></td></tr>
+				<tr><td><span class="copyright"><!-- ~*~ Start:disclosures:creditcardapproval ~*~ -->
+Credit approval required. Credit cards are issued by BB&amp;T Financial, FSB, a subsidiary of BB&amp;T Corporation. Member FDIC.
+<!-- ~*~ End:disclosures:creditcardapproval ~*~ -->
+</span></td></tr>
+			
 		
 	
 			<tr><td>&nbsp;</td></tr>
@@ -921,6 +1091,12 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script><script language=
 	<tbody><tr><td class="bg_burgundy"><img src="/bbt/images/shim.gif" width="1" height="5"></td></tr>
 
 </tbody></table><br><br>
+
+
+
+		  
+	
+
 
 
 
