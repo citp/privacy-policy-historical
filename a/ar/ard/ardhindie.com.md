@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225131008id_/http%3A//www.ardhindie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardhindie.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501145353id_/http%3A//www.ardhindie.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TV Shows Spoiler | Movies Guide | Video On Demand
+# Privacy Policy | TV Shows Spoiler | Movies Guide
 
 Ardhi Indie’s Blog Privacy Statement
 
