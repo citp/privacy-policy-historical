@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polijam.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202025826id_/http%3A//www.polijam.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polijam.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501194219id_/http%3A//www.polijam.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D54) for the most accurate reproduction.*
 
 # Privacy Policy
 
