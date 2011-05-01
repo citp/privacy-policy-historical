@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aerocharm.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025081954id_/http%3A//aerocharm.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerocharm.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501181749id_/http%3A//aerocharm.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
