@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the forcedgreen.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230143850id_/http%3A//www.forcedgreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcedgreen.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502103611id_/http%3A//www.forcedgreen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
-
-[](http://www.forcedgreen.com/privacy-policy/?pfstyle=wp)
 
 Privacy Policy for Forced Green
 
