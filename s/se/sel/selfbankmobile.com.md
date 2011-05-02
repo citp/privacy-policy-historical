@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selfbankmobile.com privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806073759id_/http%3A//selfbankmobile.com/faq/questions/55/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfbankmobile.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502155730id_/http%3A//faq.selfbankmobile.com/questions/55/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # SelfBank Mobile Knowledgebase :: Privacy Policy
 
@@ -80,8 +80,8 @@ This policy was last modified on **March 9 2009**
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 selfbankmobile.com  
-C.P. 314, Succ. R Saint Laurent Blvd   
-Montreal, QC H2S 3K9  
+999 De Maisonneuve West, Suite 1810   
+Montreal, QC H3A-3L4  
 Canada  
-support@selfbankfinancial.com  
-1-888-932-5165
+support@selfbankmobile.com  
+1-514-907-2048
