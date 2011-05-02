@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the dukebasketballreport.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225100457id_/http%3A//www.dukebasketballreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukebasketballreport.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502125827id_/http%3A//www.dukebasketballreport.com/privacy) for the most accurate reproduction.*
 
 # Duke Basketball Report - Privacy Policy
 
 | 
 
-"In practices he'll tell somebody, 'Get out of the way, I've got it. You don't really hear that too often -- a freshman telling two seniors on the wings to get out of the way. But we have no problem sitting back and letting him do it, because we know he can."   
-Nolan Smith on Kyrie Irving
+"He's a human being. Kyle's won 117 games as a player he's 117-20. He's entitled to not playing as well every once in a while. In other words, he's a champion. I'm okay with Kyle."  
+Coach K on Kyle Singler's "slump"
 
 [](http://www.cafepress.com/juliovision/5912367) [](http://www.bluedevilphotos.com/) [](http://www.dukesportsmedicine.com/)
 
