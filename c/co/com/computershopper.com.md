@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the computershopper.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215205350id_/http%3A//computershopper.com/more/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computershopper.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502133152id_/http%3A//computershopper.com/more/privacy-policy) for the most accurate reproduction.*
 
 # Find reviews, top products, technology deals and more at ComputerShopper.com
+
+[](http://ad.doubleclick.net/clk;238906505;61212152;x)
 
 | 
 
