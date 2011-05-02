@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vivaterra.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101205925id_/http%3A//www.vivaterra.com/who-we-are/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivaterra.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502172056id_/http%3A//www.vivaterra.com/who-we-are/privacy-policy) for the most accurate reproduction.*
 
-# VivaTerra - Privacy Policy
+# Privacy Policy - VivaTerra
 
 **How can I contact VivaTerra regarding its privacy policy?  
 ** Email: [customerservice@vivaterra.com](mailto:customerservice@vivaterra.com)  
