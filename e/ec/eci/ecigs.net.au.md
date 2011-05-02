@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecigs.net.au privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819165859id_/http%3A//www.ecigs.net.au/joomla/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6%26Itemid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigs.net.au privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503010018id_/http%3A//www.ecigs.net.au/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D6%26Itemid%3D10) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Electronic Cigarettes Australia Pty Ltd
 
 We understand that your privacy while using our Site is important, especially when conducting business or providing sensitive personal information. This Notice will govern our Privacy Policy for users of this Site, whether or not a transaction of any sort is conducted while visiting.
 
@@ -25,6 +25,3 @@ While we take commercially reasonable measures to maintain a secure site, electr
  **Conditions of Use, Notices, and Revisions** : If you choose to visit our Site, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use.If you have any concern about privacy on our site, please contact us with a thorough description, and we will try to resolve it.
 
 Because our business changes constantly, our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web Site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
-
- _Electronic Cigarettes Australia Pty Ltd:  
-for all your e-cig supplies and accessories in Australia_
