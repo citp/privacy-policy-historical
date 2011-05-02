@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcps.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228223402id_/http%3A//www.mcps.org/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcps.org privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502183835id_/http%3A//www.mcps.org/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
