@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frogads.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234653id_/http%3A//frogads.com/Home/Content/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frogads.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502172746id_/http%3A//www.frogads.com/Home/Content/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy: FrogAds.com
 
@@ -32,6 +32,6 @@ Unauthorized Use or Abuse of FrogAds.com
 
 Unauthorized Use or Abuse of FrogAds.com will result in criminal prosecution. This site is exclusively for the use by our customers for the placing of ads for the purpose of advertising, buying, selling, vehicles or related products and services. Please use FrogAds.com responsibly for the benefit of all. 
 
-©2010 FrogAds Inc.   
+©2011 FrogAds Inc.   
 All rights reserved.  
 
