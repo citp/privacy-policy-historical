@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229081401id_/https%3A//firstcommunity.com/member/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502164521id_/https%3A//firstcommunity.com/member/privacy.html) for the most accurate reproduction.*
 
 # First Community Credit Union - Privacy Policy
 
 |  | 
 
 PERSONAL BANKING
-
-Online Banking/Expressnet
 
 [](https://web.archive.org/education_news/pet_insurance.html)
 
