@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hotelium.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421090945id_/http%3A//info.hotelium.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelium.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502152913id_/http%3A//info.hotelium.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
 **What information do we collect?**
 
-Our computers collect non-personally identifiable data (your IP address, how often you visit our site, which pages you visit, etc.) each time you visit HotelsCombined.com. We use this information to make the site better â€“ easier to use and simpler. 
+Our computers collect non-personally identifiable data (your IP address, how often you visit our site, which pages you visit, etc.) each time you visit HotelsCombined.com. We use this information to make the site better – easier to use and simpler. 
 
 We will only collect personally identifiable data (your name, email address, phone number, etc.) on forms YOU complete. This information might be used for promotions, specials, or to contact you when you have a question. YOU are in complete control of what personally identifiable information you give us. 
 
