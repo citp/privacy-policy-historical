@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skinnerinc.com privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629161827id_/http%3A//skinnerinc.com/resources/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnerinc.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503015147id_/http%3A//www.skinnerinc.com/resources/privacy.php) for the most accurate reproduction.*
 
-# 
+# auction website privacy policy | Skinner
 
 Skinner, Inc. values the privacy of all users of our website (skinnerinc.com). Accordingly, we have adopted the following privacy policy.
 
-Please read this policy carefully. It tells you, among other things, what information we gather from you, how we may use or disclose that information, and what efforts we take to protect it. Contact us at _[info@skinnerinc.com](mailto:info@skinnerinc.com)_ if you have any questions regarding this policy's contents or in order to correct your personal information.
+Please read this policy carefully. It tells you, among other things, what information we gather from you, how we may use or disclose that information, and what efforts we take to protect it. Contact us at _[iskinner@skinnerinc.com](mailto:info@skinnerinc.com)_ if you have any questions regarding this policy's contents or in order to correct your personal information.
 
 ## Types of Information Collected
 
@@ -30,8 +30,8 @@ We may provide your personally identifying information, and information about yo
 
 Finally, we may disclose information to fulfill certain legal and regulatory requirements or if we believe, in good faith, that such disclosure is legally required or necessary to protect others' rights or to prevent harm.
 
-In addition, we will not send unsolicited messages to users of our site who indicate that they do not wish to receive such messages. If you do not wish to receive unsolicited email messages from us, please contact us at _[info@skinnerinc.com](mailto:info@skinnerinc.com)_.
+In addition, we will not send unsolicited messages to users of our site who indicate that they do not wish to receive such messages. If you do not wish to receive unsolicited email messages from us, please contact us at _[iskinner@skinnerinc.com](mailto:info@skinnerinc.com)_.
 
 ## Changes to Privacy Policy
 
-It may be necessary from time to time for us to modify this policy to reflect changes in the way we collect and use information or changes in privacy-related laws, regulations, and industry standards. Accordingly, we reserve the right to change this policy at any time by posting the revised policy on this website. Thus, it is incumbent on users to check this privacy policy frequently. If at any time you wish to be removed from our system as a result of such changes, please e-mail us at _[info@skinnerinc.com](mailto:info@skinnerinc.com)_.
+It may be necessary from time to time for us to modify this policy to reflect changes in the way we collect and use information or changes in privacy-related laws, regulations, and industry standards. Accordingly, we reserve the right to change this policy at any time by posting the revised policy on this website. Thus, it is incumbent on users to check this privacy policy frequently. If at any time you wish to be removed from our system as a result of such changes, please e-mail us at _[iskinner@skinnerinc.com](mailto:info@skinnerinc.com)_.
