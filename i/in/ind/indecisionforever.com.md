@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indecisionforever.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234852id_/http%3A//www.indecisionforever.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indecisionforever.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502200348id_/http%3A//www.indecisionforever.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Indecision Forever | Political Humor, 2010 Election, and Satire Blog | Comedy Central
+# Privacy Policy | Indecision Forever | Political Humor and Satire Blog | 2012 Election | Comedy Central
 
 ## Privacy Policy
 
@@ -174,10 +174,10 @@ Copyright © 2009 MTV Networks, a division of Viacom International Inc. – All 
 
 [ ](mailto:theindecider@comedycentral.com)
 
-[ ](http://www.indecisionforever.com/2010/11/30/play-barack-paper-scissors-on-your-mobile-device/)
+[ ](http://www.indecisionforever.com/2011/04/25/john-mccain-apparently-not-sold-on-donald-trump/)
 
-## [](http://www.indecisionforever.com/2010/12/20/winner-caption-challenge-michelle-obama-santa-claus/)
+## [](http://www.indecisionforever.com/2011/04/25/winner-caption-challenge-donald-trump-2/)
 
-"Twas the night before Christmas and all through the house no one could pass a law not even my spouse." 
+"Trump/Palin 2012... their slogan: You're fired, I quit!!!" 
 
-[ ](http://www.indecisionforever.com/2010/12/20/winner-caption-challenge-michelle-obama-santa-claus/)
+[ ](http://www.indecisionforever.com/2011/04/25/winner-caption-challenge-donald-trump-2/)
