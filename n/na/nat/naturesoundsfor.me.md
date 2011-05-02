@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturesoundsfor.me privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231102829id_/http%3A//naturesoundsfor.me/load/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturesoundsfor.me privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502061650id_/http%3A//naturesoundsfor.me/load/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
