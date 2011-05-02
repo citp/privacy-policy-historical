@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the delicious.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204031613id_/http%3A//info.yahoo.com/privacy/us/delicious) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delicious.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502091441id_/http%3A//info.yahoo.com/privacy/us/delicious) for the most accurate reproduction.*
 
 # Delicious Privacy Policy
+
+As of April 27, 2011, Delicious is owned by AVOS.
+
+During a transition period, the Delicious site will continue to be run by Yahoo! and your Delicious account information will be subject to [Yahoo!'s Privacy Policy for Delicious](http://info.yahoo.com/privacy/us/delicious/). You will have the opportunity to transfer your account information to AVOS during this transition period, and if you agree to the transfer, your account information will, once transferred, be subject to [AVOS’s privacy policy](http://avos.com/privacy).
 
 At Delicious, we respect the privacy of the users of our website and services and are committed to protecting it. We have created this policy to demonstrate our commitment to you and to help you understand it.
 
