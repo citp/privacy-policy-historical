@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uschesschamps.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223110923id_/http%3A//saintlouischessclub.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uschesschamps.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502204033id_/http%3A//saintlouischessclub.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Chess Club and Scholastic Center of Saint Louis
 
