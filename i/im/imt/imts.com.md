@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imts.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230120818id_/http%3A//www.imts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imts.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502073938id_/http%3A//www.imts.com/privacy.html) for the most accurate reproduction.*
 
 # Important Information - IMTS - International Manufacturing Technology Show
 
@@ -53,5 +53,5 @@ If you have any questions or comments about this Privacy Policy or the collecti
 [](https://web.archive.org/index.html)  
 **CONNECTING GLOBAL TECHNOLOGY**  
 International Manufacturing Technology Show: September 10-15, 2012 McCormick Place Chicago, IL   
-Copyright © 2009 AMT-The Association For Manufacturing Technology, All Rights Reserved   
+Copyright © 2011 AMT-The Association For Manufacturing Technology, All Rights Reserved   
 [Important Info](https://web.archive.org/importantinfo.html) | [PRIVACY POLICY](https://web.archive.org/privacy.html)
