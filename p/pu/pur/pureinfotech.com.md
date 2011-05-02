@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pureinfotech.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231085902id_/http%3A//pureinfotech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pureinfotech.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502062528id_/http%3A//pureinfotech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pureinfotech
 
@@ -29,8 +29,6 @@ All content within this website is created using our best efforts to help you al
 Use the content of this website at your own risk.
 
 We may change our policy at any time without notice.
-
-**Comment Privacy**
 
 Pureinfotech website does not allow just anybody to leave any comment. Because this site is dedicated to help and inform people, only helpful, constructive, on-topic or interesting and respectful comments will be approved.
 
