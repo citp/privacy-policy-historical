@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcginc.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229064737id_/http%3A//www.gcginc.com/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcginc.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503010023id_/http%3A//gcginc.com/pages/privacy-policy.php) for the most accurate reproduction.*
 
 # GCG - Privacy Policy
 
