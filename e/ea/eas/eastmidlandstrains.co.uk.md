@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastmidlandstrains.co.uk privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921170235id_/http%3A//www.eastmidlandstrains.co.uk/EMTrains/Legal/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastmidlandstrains.co.uk privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502151055id_/http%3A//www.eastmidlandstrains.co.uk/Legal/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - East Midlands Trains
 
@@ -91,4 +91,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Customer Relations, East Midlands Trains, First Floor, Waterfront House, Waterfront Plaza, 35 Station Street, Nottingham, NG2 3DQ.
 
-[](https://web.archive.org/emtrains/myjourneys/login_fullscreen.htm)
+[](https://web.archive.org/myjourneys/pages/login_fullscreen.aspx)
