@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applebottoms.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226132615id_/http%3A//applebottoms.com/privacy.php%3Fview%3Dlisting%26section%3Dcustservice%26category%3DPrivacy%26category%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applebottoms.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502043901id_/http%3A//applebottoms.com/privacy) for the most accurate reproduction.*
 
 # Apple Bottoms: Customer Service: Privacy Policy: Read Our Online Privacy Policy.
 
@@ -16,7 +16,7 @@ Apple Bottoms respects your privacy. Accordingly, it has adopted the following p
 
 
 
-If you have questions or concerns regarding this statement, you should contact us by [emailing us](https://web.archive.org/contactus.php/) or by calling 1-800-637-9594
+If you have questions or concerns regarding this statement, you should contact us by [emailing us](https://web.archive.org/contact) or by calling 1-800-637-9594
 
 Scope of Policy
 
@@ -41,11 +41,11 @@ Apple Bottoms uses the information you provide to us, including name, address, c
 
 Use of Cookies
 
-Apple Bottoms uses cookies to enhance the interactive nature of your Internet experience and to provide a convenient feature to save you time. Cookies enable Apple Bottoms to quickly retrieve specific information from previous visits and to recall features that you may have customized on your browser. 
+Apple Bottoms uses cookies to enhance the interactive nature of your Internet experience and to provide a convenient feature to save you time. Cookies enable Apple Bottoms to quickly retrieve specific information from previous visits and to recall features that you may have customized on your browser.
 
 Managing your information
 
-You are entitled to request access to and correction of all your personal data collected by us via this Web site, as well as to require us to delete your data if you no longer want us to process it. You can make such a request or a related inquiry by [emailing us](https://web.archive.org/contactus.php/) or by calling 1-800-637-9594. Please note that there may be a small charge for making an access request or it may be free, depending on the circumstances. You can find out more details by emailing or calling us as provided above. We will keep your data as long as it is reasonably necessary for the purposes described in this Statement. You may choose not to receive unsolicited marketing material from Apple Bottoms and you have the right to request deletion of your Apple Bottoms account information, subject to Apple Bottoms's need to keep appropriate archives of its business operations.
+You are entitled to request access to and correction of all your personal data collected by us via this Web site, as well as to require us to delete your data if you no longer want us to process it. You can make such a request or a related inquiry by [emailing us](https://web.archive.org/contact) or by calling 1-800-637-9594. Please note that there may be a small charge for making an access request or it may be free, depending on the circumstances. You can find out more details by emailing or calling us as provided above. We will keep your data as long as it is reasonably necessary for the purposes described in this Statement. You may choose not to receive unsolicited marketing material from Apple Bottoms and you have the right to request deletion of your Apple Bottoms account information, subject to Apple Bottoms's need to keep appropriate archives of its business operations.
 
 Security
 
