@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the healthcabin.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611221658id_/http%3A//www.healthcabin.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcabin.net privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502200509id_/http%3A//www.healthcabin.net/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : Healthcabin Electronic Cigarettes - Wholesale and Retail
+# Privacy Notice : Healthcabin Electronic Cigarettes - Wholesale and Retail--
 
 We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of healthcabin.net Inc.
 
 If you have visited our website, that will be considered to be your acceptance to this privacy policy.
 
-_What kind of personal information does healthcabin.net collect？  
+ _What kind of personal information does healthcabin.net collect?  
 What do the Cookies mean?  
 Will healthcabin.net share the collected information with the third party?  
 On how secure my information will be  
@@ -30,25 +30,25 @@ We will receive and deposit the information produced by logging in our website o
 _
 
 Whenever you interact with us, we will receive and deposit the given information.  
-For example, like many other sites, we use “cookies”.  
+For example, like many other sites, we use"cookies".  
 When your internet browser visits healthcabin.net, we will collect some information. (Please refer to the sample of information collecting process stated at the end of this policy)  
-Many companies provide you with the technology that can help you to visit the website anonymously. Although under this condition we can’t offer you the individualized experience on our website as your ID is unidentified, we still like to remind you of the existence of these technologies.
+Many companies provide you with the technology that can help you to visit the website anonymously. Although under this condition we can't offer you the individualized experience on our website as your ID is unidentified, we still like to remind you of the existence of these technologies.
 
  _E-mail Correspondence_
 
-To help us making the E-mail more useful and interesting, when you open the email from healthcabin.net, we will often receive a mail confirming you having read the delivered email. (if your computer support this function)We will also make the comparison between our customer list and other companies’in order to avoid the junk messages.
+To help us making the E-mail more useful and interesting, when you open the email from healthcabin.net, we will often receive a mail confirming you having read the delivered email. (if your computer support this function)We will also make the comparison between our customer list and other companies' in order to avoid the junk messages.
 
  _The information from other resources:_
 
 We may collect your information for other resources and add it into our customer database (please refer to the sample of information collecting process stated at the end of this policy)
 
-**What do the Cookies mean?**  
+ **What do the Cookies mean?**  
 Cookies can be defined as a kind of discriminating symbols consisting of letters and numbers read-in your computer hard disc by us through your internet browser so that our system will identify your browser during your visit and display the characteristics and quantity of items in your shopping cart.   
 The help function of tool bar on your browser will tell you how to prevent the browser from installing new cookies and inform you when the browser installing a new cookie or shut down the cookies totally.  
-Besides, you can close or cancel the alike data of browser add-ons like Flash cookies by changing its setting or visiting other manufactures’websites.  
+Besides, you can close or cancel the alike data of browser add-ons like Flash cookies by changing its setting or visiting other manufactures' websites.  
 However, cookies can help you to make most use of the best special services from healthcabin.net, so we recommend you to set up an open status for this program.
 
-**Will healthcabin.net share the collected information with the third party?**  
+ **Will healthcabin.net share the collected information with the third party?**  
 It is an important part of our business in terms of our customers’ information, we won’t resell this information to others. We will share the client information only with the affiliate enterprise in the following manner according to this privacy policy or at least the convention with the same protection as this policy.
 
  _The merchants we cooperate with_
@@ -67,7 +67,7 @@ However, we are not able to get to and hold the control over their using possibl
 
  _Sales promotion opportunity_
 
-Sometimes we provide the opportunities of sales promotion to the selected group among our customers standing for other company. When we proceed with this activity, we won’t reveal your name and address to the company.
+Sometimes we provide the opportunities of sales promotion to the selected group among our customers standing for other company. When we proceed with this activity, we won't reveal your name and address to the company.
 
  _Operation transfer  
 _
@@ -76,7 +76,7 @@ For maintaining the development of our business, we may sell or buy shops, subsi
 
  _The protection over healthcabin and other people_
 
-For observing law, executing or applying our conditions of use and other agreements, or for protecting healthcabin.net, the property and security of our consumer or other people and their interest, we may bring the individual’s account information and others to the public. These include preventing illegal activity like fraudulent behaviour, reducing financial risks and exchanging information with other companies and organizations.  
+For observing law, executing or applying our conditions of use and other agreements, or for protecting healthcabin.net, the property and security of our consumer or other people and their interest, we may bring the individual's account information and others to the public. These include preventing illegal activity like fraudulent behaviour, reducing financial risks and exchanging information with other companies and organizations.  
 But obviously, this does not include to reveal personal identifiable information by selling, leasing, sharing or any other ways for commercial reason, which break up the promise in this declaration. 
 
 _Solicitation to your consent  
@@ -118,7 +118,7 @@ Help_
 
 ## The examples of collected personal information.
 
-_The information you provide for us_
+ _The information you provide for us_
 
 the information you provide for us when you are looking for, purchasing, pasting, attending competition or questionnaire or contact the customer service center.  
 For example, when you search products, place an order on healthcabin.net, offer information in your account (you may have more than one account if you use not only one email address shopping from us) or “My Settings”, contact us through telephone, email or any other ways, fill the questionnaire or application form for competition, edit the wishes’ list or gift registration; take part in community activity as well as submit and evaluate the comments and enjoy any personal notification functions, you will provide information  
