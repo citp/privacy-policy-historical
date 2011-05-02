@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webroot.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231042343id_/http%3A//www.webroot.com/En_US/about-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webroot.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502052744id_/http%3A//www.webroot.com/En_US/about-privacy.html) for the most accurate reproduction.*
 
 # Collecting Personal Information & Technology | Privacy Policy | Webroot
 
@@ -95,7 +95,7 @@ The Privacy Policy addresses Webroot’s collection, use and disclosure of perso
 
 ###  13\. Enforcement for Personal Information Subject to the Safe Harbor 
 
-13.1. Webroot will conduct periodic self-assessments of its relevant practices to verify adherence to this Privacy Policy and the Safe Harbor Principles. Any Webroot employee who intentionally violates this Privacy Policy will be subject to disciplinary action up to and including termination. Any EU-based user who has a complaint concerning Webroot’s processing of his or her Personal Information should contact the Legal Department at Webroot Software Inc., 2560 55th Street, Boulder Colorado 80301, USA. Webroot will investigate and attempt to resolve such complaints in accordance with the principles contained in this Privacy Policy. Any E.U.-based user who is not satisfied with the internal resolution of the complaint may seek redress with the U.S. Federal Trade Commission.
+13.1. Webroot will conduct periodic self-assessments of its relevant practices to verify adherence to this Privacy Policy and the Safe Harbor Principles. Any Webroot employee who intentionally violates this Privacy Policy will be subject to disciplinary action up to and including termination. Any EU-based user who has a complaint concerning Webroot’s processing of his or her Personal Information should contact the Legal Department at Webroot, 385 Interlocken Crescent, Suite 800, Broomfield, CO 80021 USA. Webroot will investigate and attempt to resolve such complaints in accordance with the principles contained in this Privacy Policy. Any E.U.-based user who is not satisfied with the internal resolution of the complaint may seek redress with the U.S. Federal Trade Commission.
 
 ###  14\. Privacy Policy Revisions and Notifications 
 
@@ -115,14 +115,10 @@ The Privacy Policy addresses Webroot’s collection, use and disclosure of perso
 
 15.2. Send written correspondence to:
 
-  * Webroot Software, Inc.  
-2560 55th Street  
-Boulder, CO 80301  
-USA  
-or
-  * Webroot Software, Inc.  
-PO Box 19816  
-Boulder, CO 80308-2816  
+  * Webroot  
+385 Interlocken Crescent  
+Suite 800  
+Broomfield, CO 80021  
 USA
 
 
@@ -131,6 +127,5 @@ USA
 
   * Office hours: Monday - Friday 9 AM - 5 PM, MST (except Holidays) 
   * Telephone: (800) 772-9383 or (303) 442-3813 
-  * Fax: (303) 442-3846
 
 
