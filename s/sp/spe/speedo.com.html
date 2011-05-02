@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the speedo.com privacy policy that was archived on 2010-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101221040415id_/http%3A//www.speedousa.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speedo.com privacy policy that was archived on 2011-05-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110503012009id_/http%3A//www.speedousa.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -34,6 +34,22 @@
 <script src="http://spdo.imageg.net/js/df138/Df.Slider.js" type="text/javascript"></script>
 <script src="http://spdo.imageg.net/js/spdo.js" type="text/javascript"></script>
 <script type="text/javascript">
+function _doResize(){
+    try{	
+        
+            
+            
+            
+                if($('sidebar1').offsetHeight > $('rightBody').offsetHeight){
+                    $('rightBody').style.height = $('sidebar1').offsetHeight - 6 + 'px';
+                }else{
+                    $('sidebar1Mid').style.height = ($('rightBody').offsetHeight - 14) + 'px';
+                    $('whiteSpace').setStyle({'_bottom':'0px'});
+                }
+            
+        			
+    }catch(err){}
+}
 Event.observe(window,'load',function(){
 
 	
@@ -110,22 +126,6 @@ try{
 }catch(err){}
 
 
-try{	
-	
-		
-		
-			if($('sidebar1').offsetHeight > $('rightBody').offsetHeight){
-				$('rightBody').style.height = $('sidebar1').offsetHeight - 6 + 'px';
-			}else{
-				$('sidebar1Mid').style.height = ($('rightBody').offsetHeight - 14) + 'px';
-				$('whiteSpace').setStyle({'_bottom':'0px'});
-			}
-		
-				
-	
-	
-}catch(err){}
-
 
 	
 try{	//Fix browser display  
@@ -142,6 +142,7 @@ try{	//Fix browser display
 	}
 }catch(err){}
 
+setTimeout("_doResize()",3000); //calling this as on ie/safari/chrome .. window load occurs before the power reviews section actual gets shown and thus the height calculations go haywire.
  
 },false)
 
@@ -194,12 +195,11 @@ function getMouseXY(e) {
 
 
 
-
 </script>
 <!--[if lt IE 7]>
 <script src="http://spdo.imageg.net/js/ieDropMenuFix.js" type="text/javascript"></script>
 <![endif]-->
-
+<link href="http://spdo.imageg.net/include/pr_override.css" rel="stylesheet" type="text/css">
 </head>
 <body>	
 <div id="helpdesk">
@@ -294,6 +294,8 @@ document.cookie = 'domain=.speedousa.com';
 
 
 
+    <script type="text/javascript" src="http://spdo.imageg.net/pwr/engine/js/full.js"></script>
+
 
 
 
@@ -338,15 +340,15 @@ document.cookie = 'domain=.speedousa.com';
 <div class="wrap cms-wrap">
 	<div id="header-CMS-1">
 		<!-- BEGIN CMS SLOT --><!-- =========================== CMS Page and Campaign info ========================== -->
-<!-- === Page ID:  176253   -->
-<!-- === Page Name:  Speedo_GG_1215_2010_PROMO   -->
+<!-- === Page ID:  217777   -->
+<!-- === Page Name:  Speedo_FS100_04.26.2011   -->
 <!-- === Page URI:  /gsi/spdo/cmsTemplates/spdo_headerInclude_1_v1.jsp   -->
 <!-- === -->
-<!-- === Campaign ID:  88142   -->
-<!-- === Campaign Name:  Speedo_GG_121510_HP_CART_PROMO_refresh   -->
-<!-- === Campaign Tracking Code:  null   -->
-<!-- === Campaign Start Time:  2010-12-16 06:00:00.0   -->
-<!-- === Campaign End Time:  2010-12-26 05:59:00.0   -->
+<!-- === Campaign ID:  112699   -->
+<!-- === Campaign Name:  Speedo_FS100_04262011   -->
+<!-- === Campaign Tracking Code:  Speedo_FS100_0426201   -->
+<!-- === Campaign Start Time:  2011-04-26 03:00:00.0   -->
+<!-- === Campaign End Time:  null   -->
 <!-- === -->
 <!-- ================================================================================= -->
 <!-- =========================== Request info ========================== -->
@@ -356,13 +358,22 @@ document.cookie = 'domain=.speedousa.com';
 <!-- === Include Query String:  null   -->
 <!-- ================================================================================= -->
 <!-- =========================== CMS Slot and Widget info ========================== -->
-<!-- === Widget ID:  380779   -->
+<!-- === Widget ID:  462890   -->
 <!-- === Widget Name:  spdo_header_1   -->
 <!-- === Slot Name:  null   -->
-<!-- === Slot Data Map:  {spdo_header_1=380779}   -->
+<!-- === Slot Data Map:  {spdo_header_1=462890}   -->
 <!-- ================================================================================= -->
 <div id="spdo_header_1" style="width:992px;border:0px;overflow:hidden;">
-<img border="0" name="promotion" src="http://spdo.imageg.net/cms_widgets/38/07/380779_assets/20101216n.png" height="60" width="957" alt="promotion" usemap="#GGma"><map name="GGma"><area shape="rect" coords="5,0,756,55" title="Find out more" href="javascript:void(window.open('/promo/index.jsp?promoId=11062898','promo','width=450,height=500,toolbar=no,status=no,menubar=no,scrollbars=no,resizable=no'))"><area shape="rect" coords="760,0,951,55" title="View the Gift Guide" href="/category/index.jsp?categoryId=3365652&amp;ab=Speedo_Promo_Gift_Guide"></map></div><!-- END CMS SLOT -->
+
+
+<div id="OUTER0" style="textOverflow:clip;overflow:hidden;position:relative;height:60px;width:957px;"><script type="text/javascript">
+function invokeAnchor(id)
+{
+var anchor = document.getElementById(id);
+window.location = anchor.href;
+}
+</script>
+<a id="linkURL0" href="javascript:void(window.open('/promo/index.jsp?promoId=11560836&amp;ab=FS100','promo','width=500,height=400,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=no'))" title="Free Shipping on orders $100 or more. Limited time only! Details" style="display:none"></a><img border="0" name="04202011FS100OAS.png" src="http://spdo.imageg.net/cms_widgets/46/28/462890_assets/04202011FS100OAS.png" height="60" width="957" alt="Free Shipping on orders $100 or more. Limited time only! Details" align="Default" valign="Default" style="visibility: visible; cursor: pointer; display: block;" title="Free Shipping on orders $100 or more. Limited time only! Details" onclick="javascript:invokeAnchor('linkURL0');"><img border="0" name="04192011productReviewOAS.png" src="http://spdo.imageg.net/cms_widgets/46/28/462890_assets/04192011productReviewOAS.png" height="60" width="957" align="Default" valign="Default" style="visibility: hidden; display: none;"></div><script type="text/javascript">function CMS_Rotate(id,spd,isRandom){    var obj=document.getElementById(id);    if (!obj) {        return;    }    imgs = obj.getElementsByTagName("IMG");    if (!imgs || imgs.length < 2) {        return;    }    ary = new Array(imgs.length);    for (i = 0; i < imgs.length; i++) {        imgs[i].style.visibility='hidden';        imgs[i].style.display='none';        ary[i] = imgs[i];    }    if (isRandom) {        ary.sort(function() { return Math.round(Math.random())-0.5; });    }    ary[0].style.visibility='visible';    ary[0].style.display='block';    var roop=new CMS_RotateOOP(obj,ary,spd);}function CMS_RotateOOP(obj,ary,spd,srt){    this.obj=obj;    this.ary=ary;    this.spd=(spd||45)*1000;    this.curr=0;    this.to=null;    this.to=setTimeout(function(oop){return function(){oop.rotate();}}(this),this.spd);}CMS_RotateOOP.prototype.rotate=function(){    clearTimeout(this.to);    this.ary[this.curr].style.visibility="hidden";    this.ary[this.curr].style.display="none";        this.curr=++this.curr%this.ary.length;    this.ary[this.curr].style.visibility="visible";    this.ary[this.curr].style.display="block";        this.to=setTimeout(function(oop){return function(){oop.rotate();}}(this),this.spd);};</script><script type="text/javascript"> CMS_Rotate("OUTER0", 10, false);</script> </div><!-- END CMS SLOT -->
 	</div>
 </div>
 
@@ -524,7 +535,7 @@ return false;
 					
 					
 				</div>
-				<div id="headerPromo" style="float:right;"><a href="http://oas.imageg.net/O/a/s/www.speedousa.com/helpdesk/index.jsp/2023265405/Top1/default/empty.gif/61633135303730393464313032373330" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/default/empty.gif" width="2" height="2" alt="" border="0"></a></div>
+				<div id="headerPromo" style="float:right;"><a href="http://oas.imageg.net/O/a/s/www.speedousa.com/helpdesk/index.jsp/850228360/Top1/default/empty.gif/61633134303730393464626635383430" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/default/empty.gif" width="2" height="2" alt="" border="0"></a></div>
 			</div>
 		</div>
 		
@@ -594,9 +605,9 @@ return false;
 						
 							<li><a href="/family/index.jsp?categoryId=3131886" title="Boys Racing Swimwear">Boys Racing Swimwear</a></li>
 						
-							<li><a href="/family/index.jsp?categoryId=3781981" title="Watches">Watches</a></li>
+							<li><a href="/category/index.jsp?categoryId=3124324" title="Women">Women</a></li>
 						
-							<li><a href="/family/index.jsp?categoryId=3132046" title="Training Gear" style="border:0">Training Gear</a></li>
+							<li><a href="/category/index.jsp?categoryId=3124328" title="Kids" style="border:0">Kids</a></li>
 						
 					</ul>
 				</div>
@@ -794,7 +805,7 @@ If you have any questions about the Privacy Policy, the practices of our web sit
 
 
 
-<!--You are running on secprd2_ws_65_6-->
+<!--You are running on ashprd2_ws_63_1-->
 
 
 
@@ -852,7 +863,7 @@ If you have any questions about the Privacy Policy, the practices of our web sit
 
 
 
-<!--You are running on secprd2_ws_65_6-->
+<!--You are running on ashprd2_ws_63_1-->
 
 
 
@@ -888,7 +899,7 @@ If you have any questions about the Privacy Policy, the practices of our web sit
 
 
 
-<!--You are running on secprd2_ws_65_6-->
+<!--You are running on ashprd2_ws_63_1-->
 
 
 
@@ -942,7 +953,8 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_65_6-->
+
+<!--You are running on ashprd2_ws_63_1-->
 
 
 
@@ -962,7 +974,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_65_6-->
+<!--You are running on ashprd2_ws_63_1-->
 
 
 
@@ -989,7 +1001,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_65_6-->
+<!--You are running on ashprd2_ws_63_1-->
 
 
 
@@ -1007,7 +1019,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_65_6-->
+<!--You are running on ashprd2_ws_63_1-->
 
 
 
@@ -1029,8 +1041,10 @@ if(rewardsflagPage==1){
 			var br_data = [];
 			br_data['Q165'] = '';			
 		</script>
-		<script type="text/javascript" src="https://eval.bizrate.com/js/survey_141820_1.js"></script>
+		<script type="text/javascript" src="http://eval.bizrate.com/js/survey_141820_1.js"></script>
 	
+
+
 
 
 
@@ -1055,6 +1069,9 @@ storeSREDID();
 
 
 
+
+
+
 	
 
 
@@ -1064,7 +1081,7 @@ storeSREDID();
 
 
 
-<!--You are running on secprd2_ws_65_6-->
+<!--You are running on ashprd2_ws_63_1-->
 
 
 
