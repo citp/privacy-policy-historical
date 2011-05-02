@@ -1,0 +1,357 @@
+<!--The following is the downloaded HTML source of the intribu.com privacy policy that was archived on 2011-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110502161733id_/http%3A//intribu.com/pg/expages/read/Privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="ElggRelease" content="1.7.6">
+	<meta name="ElggVersion" content="2010071002">
+	<title>InTribu</title>
+
+	<script type="text/javascript" src="http://intribu.com/vendors/jquery/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="http://intribu.com/vendors/jquery/jquery-ui-1.7.2.custom.min.js"></script>
+	<script type="text/javascript" src="http://intribu.com/vendors/jquery/jquery.form.js"></script>
+	<script type="text/javascript" src="http://intribu.com/_css/js.php?lastcache=1303375090&amp;js=initialise_elgg&amp;viewtype=default"></script>
+	<!-- include the default css file -->
+	<link rel="stylesheet" href="http://intribu.com/_css/css.css?lastcache=1303375090&amp;viewtype=default" type="text/css">
+
+	
+		
+		<script type="text/javascript">
+		 jQuery(document).ready(function($) {
+		  $('a[rel*=facebox]').facebox()
+		});
+		</script>
+	<link rel="stylesheet" href="http://intribu.com/pg/microthemes/css&amp;guid=1" type="text/css">
+
+	<meta name="likes_comment_release" content="0.3.3">
+	<meta name="likes_comment_version" content="2010063001">
+	<script type="text/javascript">
+		jQuery(document).ready(function($) {
+		});
+	</script>
+</head>
+
+<body>
+<script>
+
+  function initPage() {
+    var c = document.cookie.split(";");
+    for (var i = 0; i < c.length; i++) {
+      if (c[i].indexOf("_html") != -1) {
+	var cname = c[i].split("=")[0];
+	$.cookie(cname, "", { path: "/"});
+      }
+    }
+  }
+
+  initPage();
+ 
+</script>
+
+	<div id="elgg_topbar">
+
+<div id="elgg_topbar_container_left">
+	<div class="toolbarimages">
+		<a href="http://intribu.com"><img src="http://files.intribu.com/black.gif"></a>
+	</div>
+		
+<ul class="topbardropdownmenu">
+	<li class="drop"><a href="#" class="menuitemtools">Tools</a>
+	<ul>
+	<li><a href="http://intribu.com/pg/blog/all/">Blogs</a></li><li><a href="http://intribu.com/pg/file/all/">Files</a></li><li><a href="http://intribu.com/pg/groups/all/">Groups</a></li><li><a href="http://intribu.com/pg/pages/all/">Pages</a></li><li><a href="http://intribu.com/mod/poll/everyone.php">Poll</a></li>	</ul>
+	</li>
+</ul>
+
+<script type="text/javascript">
+$(function() {
+	$('ul.topbardropdownmenu').elgg_topbardropdownmenu();
+});
+</script>
+
+</div>
+
+<div id="elgg_topbar_container_search">
+
+<form id="searchform" action="http://intribu.com/pg/search/" method="get">
+	<input type="text" size="21" name="q" value="Search" onclick="if (this.value=='Search') { this.value='' }" class="search_input">
+	<input type="submit" value="Go" class="search_submit_button">
+</form>
+</div>
+
+</div><!-- /#elgg_topbar -->
+
+<div class="clearfloat"></div>
+
+
+	<script type="text/javascript">
+        // opacity
+        function opacity(element, value) {
+            var value_noie = value / 100;
+            $(element).css('filter', 'alpha(opacity=' + value + ')');
+            $(element).css('-moz-opacity', value_noie);
+            $(element).css('-khtml-opacity', value_noie);
+            $(element).css('opacity',value_noie);
+        }
+        // center horizontally
+        function centerHoriz(lo_que) {
+            var x = parseFloat($(window).width()) / 2 - parseFloat($(lo_que).width()) / 2;
+            var y = $(window).scrollTop() + $(window).height() / 2 - parseFloat($(lo_que).height()) / 2;
+            x = x + 'px';
+            y = y + 'px';
+            $(lo_que).css({'left': x, 'top': y});
+        }
+        // center vertically
+        function centerVert(lo_que) {
+        	lo_que_height = $(lo_que).height();
+            window_height = $(window).height();
+            document_height = $(document).height();
+            var y = $(window).scrollTop(); //Default value
+            if (window_height > lo_que_height) {
+	            y = $(window).scrollTop() + parseInt(window_height / 2) - parseInt(lo_que_height / 2);
+            } else {
+                //this code fix the problem of infinity scroll
+	            if (y > document_height-lo_que_height) {
+					y = document_height-lo_que_height;
+		        }
+            }
+            $(lo_que).css({'top': y});
+        }
+
+        // lightbox
+				function showLB(lb) {
+                    $('#fonLB').css('width', $(window).width() + 'px');
+                    $('#fonLB').css('height', $(document).height() + 'px');
+                    opacity('#fonLB', 70);
+                    centerHoriz(lb);
+                    centerVert(lb);
+                    $('#fonLB').fadeIn('normal', function() {$(lb).fadeIn('normal');});
+                }
+                function closeLB() {
+                    $('.lb').fadeOut('normal', function() {$('#fonLB').fadeOut('normal');});
+                }
+
+                function clearLBClass() {
+                	$('.lb .lightbox-content').attr('class','lightbox-content');
+                }
+
+                $(document).ready(function(){
+	                $('#fonLB, .lbHome .cerrar').click(
+	                    function() {
+	                        closeLB();
+	                        clearLBClass();
+	                        return false;
+	                    }
+	                );
+	                $(window).scroll(
+	                    function() {
+	                        if($('.lb').is(':visible')) {
+	                            centerVert($('.lb'));
+	                        }
+	                    }
+	                );
+                });
+	</script>
+
+	<div id="fonLB">&nbsp;</div>
+	<div class="lb lbHome">
+		<div class="lightbox-content">
+		</div>
+	    <div class="cerrar">X</div>
+	</div>
+
+
+<div id="page_container">
+<div id="page_wrapper">
+
+<div id="layout_header">
+<div id="wrapper_header">
+	<!-- display the page title -->
+	<h1><a href="http://intribu.com/">InTribu</a></h1>
+</div><!-- /#wrapper_header -->
+</div><!-- /#layout_header -->
+<!-- main contents -->
+
+<!-- display any system messages -->
+
+
+<!-- canvas -->
+<div id="layout_canvas">
+
+
+<!-- main content -->
+<div id="one_column">
+
+<div id="content_area_user_title"><h2>Privacy</h2></div><div class="contentWrapper">
+<p>InTribu takes the private nature of your personal information very seriously. This Privacy Policy (which we adapted from a policy originally provided by Automattic (WordPress.com)) describes how we treat the information we collect when you visit and use the website available at InTribu.com (the “Website”) and is made available under the Creative Commons Sharealike license. Please read this notice very carefully.</p>
+<ol>
+<h2>
+<li>Website Visitors</li>
+</h2>
+Like most website operators, InTribu collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. InTribu’s purpose in collecting non-personally identifying information is to better understand how InTribu’s visitors use its Website. From time to time, InTribu may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its Website.  InTribu also collects potentially personally-identifying information like Internet Protocol (IP) addresses. InTribu does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+<h2>
+<li>Gathering of Personally-Identifying Information</li>
+</h2>
+Certain visitors to the Website choose to interact with InTribu in ways that require InTribu to gather personally-identifying information. The amount and type of information that InTribu gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at InTribu.com to provide a username and email address. Those who engage in transactions with InTribu – InTribu collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with InTribu. InTribu does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.  InTribu does not collect personally identifiable information from children under the age of 13. If you believe that a child has provided InTribu with personally identifiable information without the consent of his or her parent or guardian, please contact us at info@intribu.com. If InTribu becomes aware that a child under age 13 has provided us with personally identifiable information, we will delete such information.
+<h2>
+<li>Aggregated Statistics</li>
+</h2>
+InTribu may collect statistics about the behavior of visitors to the Website. For instance, InTribu may monitor the most popular posts on the InTribu.com site to help identify spam. InTribu may display this information publicly or provide it to others. However, InTribu does not disclose personally-identifying information other than as described below.
+<h2>
+<li>Protection of Certain Personally-Identifying Information</li>
+</h2>
+InTribu discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on InTribu’s behalf or to provide services available at the Website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Website, you consent to the transfer of such information to them. In addition, in some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if InTribu or substantially all of its assets were acquired, or in the unlikely event that InTribu goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of InTribu may continue to use your personal and non-personal information only as set forth in this policy. Otherwise, InTribu will not rent or sell potentially personally-identifying and personally-identifying information to anyone.  Other than to its employees, contractors and affiliated organizations or as described above, InTribu discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when InTribu believes in good faith that disclosure is reasonably necessary to protect the property or rights of InTribu, third parties or the public at large. If you are a registered user of the InTribu Website and have supplied your email address, InTribu may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with InTribu and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. InTribu takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.  You should also be aware that if you submit information to “chat rooms,” “forums” or “message boards” such information becomes public information, meaning that you lose any privacy rights you might have with regards to that information. Such disclosures may also increase your chances of receiving unwanted communications.  For users outside the United States, please note that any personally-identifiable information you enter into the Website will be transferred out of your country and into the United States. You consent to such transfer through your use of the Website. You also warrant that you have the right to transfer such information outside your country and into the United States.
+<h2>
+<li>Links to Third Party Sites</li>
+</h2>
+This Privacy Policy only applies to information collected by InTribu. This Privacy Policy does not apply to the practices of companies that InTribu does not own or control, or employees that InTribu does not manage. The Website contains links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. We encourage you to read such privacy policies of any third-party sites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally-identifying information, and InTribu and its affiliates shall not be liable for wrongful use or disclosure of your personally-identifying information by any third party.
+<h2>
+<li>Security</li>
+</h2>
+All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers.
+<h2>
+<li>Choice/Opt-out</li>
+</h2>
+If we ever send you information by e-mail concerning new products, services or information that you did not expressly request, we will provide you with an e-mail address by which you may request no further notices.
+<h2>
+<li>Cookies</li>
+</h2>
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. InTribu uses cookies to help InTribu identify and track visitors, their usage of the InTribu Website, and their Website access preferences. InTribu visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the InTribu Website, with the drawback that certain features of InTribu’s Website may not function properly without the aid of cookies.
+<h2>
+<li>Address Book Data</li>
+</h2>
+Any external address book data (email contacts, etc.) that a user voluntarily gives InTribu access to will only be used for the described feature (looking up friends, etc.), and will not be stored or repurposed.
+<h2>
+<li>Privacy Policy Changes</li>
+</h2>
+Although most changes are likely to be minor, InTribu may change its Privacy Policy from time to time, and in InTribu’s sole discretion. If we do then we’ll notify you by posting the amended policy on the Website or by emailing you of the nature of the modifications along with a link to the modified document so that you can review it. In all cases, use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected.
+<h2>
+<li>Review and Access</li>
+</h2>
+Upon your request, we will provide you with a summary of the information we collect about you. You will have the opportunity to correct, update, modify or delete this information by sending an e-mail to support@intribu.com. Please note that some information may remain in our records after deletion of your account.
+<h2>
+<li>Contact Us</li>
+</h2>
+If you have any questions about this policy or our site in general, please contact us at info@intribu.com </ol></div>
+</div><!-- /one_column -->
+<div class="clearfloat"></div>
+</div><!-- /#layout_canvas -->
+
+
+<!-- footer -->
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		lkPrepareItems();
+	})
+	function lkPrepareItems(){
+		//Execute the action
+		$('.likes a.action').unbind('click')
+		$('.likes a.action').click(function(e) {
+			e.stopPropagation();
+			readyToAnnotate(this);
+			return false;
+		});
+
+		//Show a lightbox
+		$('.likes a.who_else').unbind('click');
+		$('.likes a.who_else').click(function(e) {
+			e.stopPropagation();
+			showWhoElse(this);
+			return false;
+		});
+	}
+
+	function readyToAnnotate(oObject) {
+		oContainer = $(oObject).parents('.likes');
+		sUrl = "http://intribu.com/mod/likes/endpoint/ping.php";
+		sCallBack = lkPrepareItems;
+		executeAction(oObject, oContainer, sUrl, sCallBack);
+	}
+
+	function showWhoElse(oObject){
+		oContainer = $('.lb .lightbox-content');
+		//add special Class.
+		$(oContainer).addClass('likes-content');
+		sUrl = "http://intribu.com/pg/likes/who/";
+		sCallBack = showLB('.lbHome');
+		executeAction(oObject, oContainer, sUrl, sCallBack);
+	}
+
+	function executeAction(oObject, oContainer, sUrl, sCallBack) {
+		oObject = $(oObject);
+		var linkElement = oObject.attr('href');
+		var queryString = '';
+		var queryStringAux = linkElement.split('?');
+		if (typeof queryStringAux[1] != 'undefined') {
+			queryString = '?' + queryStringAux[1] + '&callback=true';
+		}
+		var actionFile = '';
+		if (typeof queryStringAux[0] != 'undefined') {
+			var actionAux = queryStringAux[0];
+			actionAux = actionAux.split('/');
+			if (actionAux.length > 0) {
+				actionAux = actionAux[actionAux.length-1];
+				actionFile = "&action_file=" + actionAux;
+			}
+		}
+		oContainer.load(sUrl + queryString + actionFile, sCallBack);
+	}
+
+</script>
+
+<div class="clearfloat"></div>
+
+<div id="layout_footer">
+<table width="958" height="79" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td width="210" height="50">
+<div class="advertisement group-tids-0" id="group-id-tids-0"><script type="text/javascript" src="http://ads.wolfand10.com/sites/all/modules/ad/serve.php?q=3&amp;k=7846b316c2669f6faec74e6096616e5e&amp;t=0&amp;u=admin%2Fcontent%2Fad%2Fad_remote&amp;l=admin%2Fcontent%2Fad%2Fad_remote"></script></div>
+		</td>
+
+		<td width="748" height="50" align="right">
+		<p class="footer_toolbar_links">
+		
+</p><div class="footer_toolbar_links">| 
+<a href="http://intribu.com/pg/expages/read/About/">About</a> |
+<a href="http://intribu.com/pg/expages/read/Terms/">Terms</a> |
+<a href="http://intribu.com/pg/expages/read/Privacy/">Privacy</a> |
+</div>		<p></p>
+		</td>
+	</tr>
+
+	<tr>
+		<td width="210" height="28">
+		</td>
+
+		<td width="748" height="28" align="right">
+		<p class="footer_legal_links">	</p><span style="color: #cccccc; ">15.850056
+</span>
+<iframe src="http://wolfand10.com/wand10.php" frameborder="0" width="100%" height="20px"></iframe>
+
+<!-- Piwik --> 
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://webstats.wolfand10.com/" : "http://webstats.wolfand10.com/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://webstats.wolfand10.com/piwik.js" type="text/javascript"></script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 8);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><p><img src="http://webstats.wolfand10.com/piwik.php?idsite=8" style="border:0" alt="" /></p></noscript>
+<!-- End Piwik Tracking Tag -->
+<!-- Piwik Image Tracker -->
+<img src="http://webstats.wolfand10.com/piwik.php?idsite=8&amp;rec=1" style="border:0" alt="">
+<!-- End Piwik -->
+		</td>
+	</tr>
+</tbody></table>
+</div><!-- /#layout_footer -->
+
+<div class="clearfloat"></div>
+
+</div><!-- /#page_wrapper -->
+</div><!-- /#page_container -->
+<!-- insert an analytics view to be extended -->
+
+</body></html>
