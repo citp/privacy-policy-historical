@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228020327id_/http%3A//www.carlashes.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carlashes.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502152541id_/http%3A//carlashes.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Turbo Style Products, LLC  
-PATENT PENDING
+Shopping Cart [](http://www.1automationwiz.com/SecureCart/SecureCart.aspx?mid=178383D6-7FEB-43DB-BD36-B8AB77A4F4DC)
+
+[](https://web.archive.org/web/20110502152541id_/http%3A//carlashes.com/order-carlashes.html)
 
   
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -24,11 +25,11 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-**If you have any questions about our privacy policy, please[contact us](https://web.archive.org/web/20101228020327id_/http%3A//www.carlashes.com/contact-us.html).**
+**If you have any questions about our privacy policy, please[contact us](https://web.archive.org/web/20110502152541id_/http%3A//carlashes.com/contact-us.html).**
 
 CARLASHES™ MAKE YOU SMILE!  
 Trademark Carlashes™ owned by Robert Small, And Used By Permission  
-Copyright (c) 2009, 2010 Robert Small, And Used by Permission  
+Copyright © 2009, 2010 Robert Small, And Used by Permission  
 PATENT PENDING
 
 SISTER SITES:  
@@ -37,4 +38,4 @@ SISTER SITES:
 
 REFERENCE:  
 CUTE EYELASHES FOR YOUR CAR, EYELASHES FOR YOUR VW BUG, EYELASHES FOR YOUR MINI COOPER, EYELASHES FOR   
-YOUR SMART CAR, PORCHE EYE LASHES, EYELASHES FOR YOUR PORCHE, VW EYELASHES, VOLKSWAGEN EYELASHES, BUG EYELASHES, MINI COOPER EYELASHES , SMART CAR EYELASHES, EYELASHES FOR YOUR HEADLIGHTS
+YOUR SMART CAR, PORCHE EYE LASHES, EYELASHES FOR YOUR PORSCHE, VW EYELASHES, VOLKSWAGEN EYELASHES, BUG EYELASHES, MINI COOPER EYELASHES , SMART CAR EYELASHES, EYELASHES FOR YOUR HEADLIGHTS
