@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cvent.com privacy policy that was archived on 2010-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101002143235id_/http%3A//www.cvent.com/en/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvent.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502203543id_/http%3A//www.cvent.com/en/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Cvent
 
-([Downloadable PDF](https://web.archive.org/en/pdf/privacy-policy.pdf))
+([Downloadable PDF](https://web.archive.org/en/assets/elqNow/elqRedir.htm?ref=http://www.cvent.com/en/pdf/privacy-policy.pdf))
 
 Cvent, Inc. (sometimes referred to as "Cvent") respects individual privacy and values the confidence of its customers, shareholders, employees, vendors, users and business partners. Not only does Cvent strive to collect, use, and disclose personally identifiable information (Personal Information) in a manner consistent with the laws of the countries in which it does business, but it also has a tradition of upholding the highest ethical standards in its business practices. Cvent abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission.
 
@@ -32,13 +32,13 @@ Event Registration. Cvent customers may invite guests to register for events cre
 
 Special Circumstances. Cvent may disclose Personal Information when it has reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who is violating Cvent’s [Terms of Use](http://www.cvent.com/en/terms-of-use.shtml) or may be causing injury to or interference with other Cvent users or anyone else who could be harmed by such activities.
 
-Cookies. A cookie is a small data file written to a user’s hard drive when a website is accessed. Cookies are used for authenticating, session tracking, and maintaining specific information about users, such as site preferences. A cookie cannot read or access other cookies or any data from a user’s hard drive. Cvent uses cookies to save usernames in order to minimize data entry and for general ease of use. Cookies are also used to to "time-out" user sessions that are idle for an extended period of time.
+Cookies. A cookie is a small data file written to a user’s hard drive when a website is accessed. Cookies are used for authenticating, session tracking, and maintaining specific information about users, such as site preferences. A cookie cannot read or access other cookies or any data from a user’s hard drive. Cvent uses cookies to save usernames in order to minimize data entry and for general ease of use. Cookies are also used to "time-out" user sessions that are idle for an extended period of time.
 
 IP Addresses. Cvent may use user IP addresses to diagnose problems with Cvent servers and to administer the Cvent application.
 
 ## Choice
 
-Cvent users may choose whether or not to submit Personal Information while using Cvent’s services. In some cases, Cvent’s customers require Pesonal Information from their guests. In such cases, choosing to withhold PersonalInformation, may limit a user’s ability to use all of Cvent’s services.
+Cvent users may choose whether or not to submit Personal Information while using Cvent’s services. In some cases, Cvent’s customers require Pesonal Information from their guests. In such cases, choosing to withhold Personal Information, may limit a user’s ability to use all of Cvent’s services.
 
 ## Security
 
@@ -79,7 +79,7 @@ Cvent does everything it can to protect the privacy of its users. For questions 
 **Cvent**  
 Privacy Representation   
 8180 Greensboro Drive   
-Suite 450   
+Suite 900   
 McLean, VA 22102   
 [privacy@cvent.com](mailto:privacy@cvent.com)
 
