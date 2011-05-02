@@ -1,16 +1,43 @@
-<!--The following is the downloaded HTML source of the pureinfotech.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231085902id_/http%3A//pureinfotech.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pureinfotech.com privacy policy that was archived on 2011-05-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110502062528id_/http%3A//pureinfotech.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head profile="http://gmpg.org/xfn/11">
-
-
 
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
         <meta name="google-site-verification" content="pLbH9EnfuMH7sPYg1z_4IIxWuoSNPCjZsYj3dTgTcgI">
         
-	  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        <!--[if lt IE 8]> <div style=' clear: both; height: 59px; padding:0 0 0 15px; position: relative;'> <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode"><img src="http://www.theie6countdown.com/images/upgrade.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today." /></a></div> <![endif]-->
       
+      <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script> 
+      
+	<script type="text/javascript">
+//avoid conflict with other script
+    $j=jQuery.noConflict();
+ 
+    $j(document).ready(function($) {  
+	
+	
+    $(function() {
+     var offset = $("#sharebox").offset();
+     var topPadding = 15;
+     $(window).scroll(function() {
+         if ($(window).scrollTop() > offset.top) {
+             $("#sharebox").stop().animate({
+                 marginTop: $(window).scrollTop() - offset.top + topPadding
+             });
+         } else {
+             $("#sharebox").stop().animate({
+                 marginTop: 0
+             });
+         };
+     });
+ });
+ 
+});
+	</script>
+        
+	  <script type="text/javascript">
         var _gaq = _gaq || [];
         _gaq.push(['_setAccount', 'UA-17195787-2']);
         _gaq.push(['_trackPageview']);
@@ -19,8 +46,7 @@
           var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
           ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-      
+        })();   
       </script>
 
         <meta name="blogcatalog" content="9BC9981094">
@@ -33,65 +59,47 @@
             <meta name="application-name" content="Pureinfotech home page">
             <meta name="msapplication-tooltip" content="Pureinfotech - Simple computer help"> 
             <meta name="msapplication-task" content="name=Subscribe to RSS;action-uri=http://feeds.feedburner.com/Pureinfotech;icon-uri=http://pureinfotech.com/wp-content/themes/Pureinfotech/img/fvc/ie9-rss.ico">  
-            <meta name="msapplication-task" content="name=Become a Facebook fan;action-uri=http://www.facebook.com/pages/Pureinfotech/126900804012982;icon-uri=http://www.facebook.com/favicon.ico">
+            <meta name="msapplication-task" content="name=Become a Facebook fan;action-uri=http://www.facebook.com/pages/Pureinfotech/126900804012982;icon-uri=http://pureinfotech.com/wp-content/themes/Pureinfotech/img/fvc/fb-favicon.ico">
             <meta name="msapplication-task" content="name=Follow @Pureinfotech;action-uri=http://twitter.com/Pureinfotech;icon-uri=http://twitter.com/favicon.ico">
         
     
-        <script type="text/javascript">
-		
-        function customJumplist() {
+        <script type="text/javascript">		
+        
         window.external.msSiteModeCreateJumplist('Pureinfotech');
         window.external.msSiteModeAddJumpListItem('Difficulty level: Basic', 'http://pureinfotech.com/tag/difficulty-level-basic', 'http://pureinfotech.com/wp-content/themes/Pureinfotech/img/fvc/favicon.ico');
         window.external.msSiteModeAddJumpListItem('Difficulty level: Intermediate', 'http://pureinfotech.com/tag/difficulty-level-intermediate', 'http://pureinfotech.com/wp-content/themes/Pureinfotech/img/fvc/favicon.ico');
         window.external.msSiteModeAddJumpListItem('Difficulty level: Advanced', 'http://pureinfotech.com/tag/difficulty-level-advanced', 'http://pureinfotech.com/wp-content/themes/Pureinfotech/img/fvc/favicon.ico');
-        window.external.msSiteModeAddJumpListItem('How-to', 'http://pureinfotech.com/category/how-tos/', 'http://pureinfotech.com/wp-content/themes/Pureinfotech/img/fvc/howtotools.ico');
+        window.external.msSiteModeAddJumpListItem('Learn how-to tech', 'http://pureinfotech.com/category/how-tos/', 'http://pureinfotech.com/wp-content/themes/Pureinfotech/img/fvc/howtotools.ico');
         window.external.msSiteModeAddJumpListItem('News', 'http://pureinfotech.com/category/news/', 'http://pureinfotech.com/wp-content/themes/Pureinfotech/img/fvc/news.ico');
         window.external.msSiteModeShowJumplist();
-        }
+        
         if (window.external.msSiteModeCreateJumplist) {
 			customJumplist();
-			} 
-		
-		</script> 
-   
-		
-        
-			<link rel="stylesheet" href="http://pureinfotech.com/wp-content/themes/Pureinfotech/style.css" type="text/css" media="screen">
+			} 		
+		</script>    
+
+			<link rel="stylesheet" href="http://pureinfotech.com/wp-content/themes/Pureinfotech/style.css.pagespeed.ce.oktoWUPCPR.css" type="text/css" media="screen">
 
 			<link rel="pingback" href="http://pureinfotech.com/xmlrpc.php">
 
 			<link rel="alternate" type="application/rss+xml" title="Pureinfotech RSS Feed" href="http://pureinfotech.com/feed/">
 
-	
-
 			<title>Privacy Policy | Pureinfotech</title>
 
 
-
-
 <link rel="alternate" type="application/rss+xml" title="Pureinfotech » Privacy Policy Comments Feed" href="http://pureinfotech.com/privacy-policy/feed/">
-<link rel="stylesheet" id="gdsr_style_main-css" href="http://pureinfotech.com/wp-content/plugins/gd-star-rating/css/gdsr.css.php?t=1291170158&amp;s=a05i05m20k20c00r05%23121620243046%23121620243240%23s1pchristmas%23s1pcrystal%23s1pdarkness%23s1poxygen%23s1goxygen_gif%23s1ppit-stars%23s1pplain%23s1ppumpkin%23s1psoft%23s1pstarrating%23s1pstarscape%23t1pclassical%23t1pstarrating%23t1gstarrating_gif%23lsgradar%23lsgarrows%23lsg&amp;o=off&amp;ver=1.9.6" type="text/css" media="all">
-<link rel="stylesheet" id="gdsr_style_xtra-css" href="http://pureinfotech.com/wp-content/gd-star-rating/css/rating.css?ver=1.9.6" type="text/css" media="all">
 <link rel="stylesheet" id="wp-polls-css" href="http://pureinfotech.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.50" type="text/css" media="all">
-<link rel="stylesheet" id="easy-fancybox.css-css" href="http://pureinfotech.com/wp-content/plugins/easy-fancybox/easy-fancybox.css.php?ver=1.3.4" type="text/css" media="screen">
 <link rel="stylesheet" id="featured-post-css-css" href="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/featured-post.css?ver=3.0" type="text/css" media="all">
-<link rel="stylesheet" id="wp_greet_box_style-css" href="http://pureinfotech.com/wp-content/plugins/wp-greet-box/css/style.css?ver=3.0" type="text/css" media="all">
-<script type="text/javascript" src="http://pureinfotech.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/areyousure/js/ays_js.js?ver=3.0"></script>
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/si-captcha-for-wordpress/captcha-secureimage/si_captcha.js?ver=3.0"></script>
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/si-contact-form/captcha-secureimage/ctf_captcha.js?ver=3.0"></script>
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/gd-star-rating/js/gdsr.js?ver=1.9.6"></script>
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/snow-storm/snow-storm.js?ver=1.41"></script>
-<script type="text/javascript" src="http://pureinfotech.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4"></script>
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/easy-fancybox/fancybox/jquery.easing-1.3.pack.js?ver=1.3"></script>
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/easy-fancybox/fancybox/jquery.mousewheel-3.0.4.pack.js?ver=3.0.4"></script>
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/wp-greet-box/js/functions.js?ver=3.0"></script>
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/wp-greet-box/js/js-mode.js?ver=3.0"></script>
+<link rel="stylesheet" id="lightboxStyle-css" href="http://pureinfotech.com/wp-content/plugins/lightbox-plus/css/lightweight/colorbox.css?ver=2.0.2" type="text/css" media="screen">
+<script type="text/javascript" src="http://pureinfotech.com/wp-includes/js/jquery/jquery.js,qver=1.4.2.pagespeed.ce.UYIVxka-_1.js"></script>
+<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/areyousure/js/ays_js.js,qver=3.0.pagespeed.ce.hi9kSj2R8I.js"></script>
+<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/jquery.fancybox-1.3.1.pack.js,qver=1.3.1.pagespeed.ce.Y4v1YbkPMi.js"></script>
+<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/modal-dialog/cookie.js,qver=1.0.pagespeed.ce.OEdyFC0ZB9.js"></script>
+<script type="text/javascript" src="http://pureinfotech.com/wp-includes/js/comment-reply.js,qver=20090102.pagespeed.ce.UAzqpyPZW-.js"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://pureinfotech.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://pureinfotech.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="Pureinfotech" href="http://pureinfotech.com/">
-<link rel="prev" title="Do you have a question? Try to put it in words" href="http://pureinfotech.com/contact-us/">
+<link rel="prev" title="Do you have a question or suggestion?" href="http://pureinfotech.com/contact-us/">
 <link rel="next" title="Submit your Tech News or Story to Pureinfotech." href="http://pureinfotech.com/submit/">
 <meta name="generator" content="WordPress 3.0">
 <link rel="shortlink" href="http://wp.me/P11jJC-s">
@@ -103,7 +111,7 @@ param.style.display=(param.style.display=="none") ? "" : "none";
 //--></script>
 
 <link rel="stylesheet" href="http://pureinfotech.com/wp-content/plugins/ajax-calendar/calendar.css" type="text/css" media="screen" title="no title" charset="utf-8">
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/ajax-calendar/js/microajax.js"></script>
+<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/ajax-calendar/js/microajax.js.pagespeed.ce.T6OC1Oj0nM.js"></script>
 <script type="text/javascript" charset="utf-8">
 /*<![CDATA[ */
 	function calendar (year,month,full,base)
@@ -114,93 +122,104 @@ param.style.display=(param.style.display=="none") ? "" : "none";
 /*]]>*/
 </script>
 
-<!-- All in One SEO Pack 1.6.13.1 by Michael Torbert of Semper Fi Web Design[3762,3805] -->
+<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[4940,4983] -->
 <meta name="description" content="Privacy Statement for Pureinfotech We can be reached via e-mail through&nbsp;this contact form here. Pureinfotech has created this privacy statement to">
 <link rel="canonical" href="http://pureinfotech.com/privacy-policy/">
 <!-- /all in one seo pack -->
-
-<!-- Easy FancyBox plugin for WordPress using FancyBox 1.3.4 - RavanH (http://4visions.nl/en/wordpress-plugins/easy-fancybox/) -->
-<script type="text/javascript">
-jQuery(document).ready(function($){
-var fb_opts = { 'overlayShow' : true, 'centerOnScroll' : true, 'showCloseButton' : true, 'showNavArrows' : true, 'titleShow' : true, 'titlePosition' : 'over', 'titleFromAlt' : true, 'transitionIn' : 'elastic', 'easingIn' : 'easeOutBack', 'transitionOut' : 'elastic', 'easingOut' : 'easeInBack', 'opacity' : false };
-/* IMG */
-var fb_IMG_selector = 'a[href$=".jpg"],a[href$=".JPG"],a[href$=".gif"],a[href$=".GIF"],a[href$=".png"],a[href$=".PNG"]';
-$(fb_IMG_selector).not(':empty').addClass('fancybox').attr('rel', 'gallery');
-$('a.fancybox').not(':empty').fancybox( $.extend(fb_opts, { }) );
-});
-</script>
-
-<script type="text/javascript">
-//<![CDATA[
-var gdsr_cnst_nonce = "2c1ba25880";
-var gdsr_cnst_ajax = "http://pureinfotech.com/wp-content/plugins/gd-star-rating/ajax.php";
-var gdsr_cnst_button = 0;
-var gdsr_cnst_cache = 0;
-// ]]>
-</script>
-<!--[if IE]><style type="text/css">.ratemulti .starsbar .gdcurrent { -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; filter: alpha(opacity=70); }</style><![endif]-->
-<style type="text/css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/jquery.fancybox-1.3.1.css.pagespeed.ce.yRNQl3zgVE.css">
+<style>
+/* IE */
+#fancybox-loading.fancybox-ie div	{ background: transparent; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_loading.png', sizingMethod='scale'); }
+.fancybox-ie #fancybox-close		{ background: transparent; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_close.png', sizingMethod='scale'); }
+.fancybox-ie #fancybox-title-over	{ background: transparent; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_title_over.png', sizingMethod='scale'); zoom: 1; }
+.fancybox-ie #fancybox-title-left	{ background: transparent; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_title_left.png', sizingMethod='scale'); }
+.fancybox-ie #fancybox-title-main	{ background: transparent; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_title_main.png', sizingMethod='scale'); }
+.fancybox-ie #fancybox-title-right	{ background: transparent; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_title_right.png', sizingMethod='scale'); }
+.fancybox-ie #fancybox-left-ico		{ background: transparent; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_nav_left.png', sizingMethod='scale'); }
+.fancybox-ie #fancybox-right-ico	{ background: transparent; filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_nav_right.png', sizingMethod='scale'); }
+.fancybox-ie .fancy-bg { background: transparent !important; }
+.fancybox-ie #fancy-bg-n	{ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_shadow_n.png', sizingMethod='scale'); }
+.fancybox-ie #fancy-bg-ne	{ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_shadow_ne.png', sizingMethod='scale'); }
+.fancybox-ie #fancy-bg-e	{ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_shadow_e.png', sizingMethod='scale'); }
+.fancybox-ie #fancy-bg-se	{ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_shadow_se.png', sizingMethod='scale'); }
+.fancybox-ie #fancy-bg-s	{ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_shadow_s.png', sizingMethod='scale'); }
+.fancybox-ie #fancy-bg-sw	{ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_shadow_sw.png', sizingMethod='scale'); }
+.fancybox-ie #fancy-bg-w	{ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_shadow_w.png', sizingMethod='scale'); }
+.fancybox-ie #fancy-bg-nw	{ filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://pureinfotech.com/wp-content/plugins/modal-dialog/fancybox/fancy_shadow_nw.png', sizingMethod='scale'); }
+</style><style type="text/css">
 .wp-polls .pollbar {
 	margin: 1px;
-	font-size: 6px;
-	line-height: 8px;
-	height: 8px;
-	background: #E3ECF6;
-	border: 1px solid #105CB6;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background: #3366ff;
+	border: 1px solid #3366cc;
 }
 </style>
+
+<link rel="stylesheet" href="http://pureinfotech.com/wp-content/plugins/wp-synhighlight/themes/default/wp-synhighlighter.css.pagespeed.ce.7iUXVRxrAe.css" type="text/css" media="screen">
+
+<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/wp-synhighlight/themes/default/wp-synhighlighter.js.pagespeed.ce.5OW2_0gFpp.js"></script>
+<!-- Wordpress Popular Posts v2.1.4 -->
+<script type="text/javascript" charset="utf-8">
+    /* <![CDATA[ */				
+	jQuery.post('http://pureinfotech.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: 'ef7d7eade8', id: 28});
+    /* ]]> */
+</script>
+<!-- End Wordpress Popular Posts v2.1.4 -->
+            
+<!-- Wordpress Popular Posts v2.1.4 -->
+<link rel="stylesheet" href="http://pureinfotech.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css.pagespeed.ce.G0xT6MMGX0.css" type="text/css" media="screen">
+<!-- End Wordpress Popular Posts v2.1.4 -->
 <style type="text/css">.broken_link, a.broken_link {
 	text-decoration: line-through;
 }</style><meta id="syntaxhighlighteranchor" name="syntaxhighlighter-version" content="3.1.1">
 
-</head>
-
-
+<script defer="" src="http://www.apture.com/js/apture.js?siteToken=3ciAmb1"></script></head>
 
 <body id="top">
-
-
+	
+<div align="center" style="background-color: #336699; padding: 2px 4px 4px 4px; border-bottom: 1px solid #C9DBEC;">  
+        <script type="text/javascript"><!--
+				google_ad_client = "ca-pub-2540388230795423";
+				/* HeaderPHP_Very-Top_728x15-Text_Only */
+				google_ad_slot = "1681577703";
+				google_ad_width = 728;
+				google_ad_height = 15;
+				//-->
+				</script>
+				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+        </div>
 
 <div id="network">
 
 	<div class="center-wrapper smaller-font-size">
 
-		<div class="left" id="overview">
-		</div>
-
-
-
+		<span class="left" id="overview">		</span>
+        
+        
 		<div class="right">
-
 			<ul class="tabbed header-top-menu" id="network-tabs">
-             <li><a href="http://pureinfotech.com" atl="Pureinfotech Home Page" title="Pureinfotech Home Page">Home</a></li>
+             <li><a href="http://pureinfotech.com" atl="Go to Pureinfotech homepage" title="Go to Pureinfotech homepage">Home</a></li>
+             <li><a href="http://pureinfotech.com/category/news" alt="Tech News" title="Tech News">News</a></li>
              <li><a href="http://Pureinfotech.com/tag/difficulty-level-basic" alt="Difficulty level: Basic" title="Difficulty level: Basic">Basic</a></li>
              <li><a href="http://Pureinfotech.com/tag/difficulty-level-intermediate" alt="Difficulty level: Intermediate" title="Difficulty level: Intermediate">Intermediate</a></li>
              <li><a href="http://Pureinfotech.com/tag/difficulty-level-advanced" alt="Difficulty level: Advanced" title="Difficulty level: Advanced">Advanced</a></li>
-			 <li><a href="http://pureinfotech.com/feedback" atl="Send Pureinfotech a Feedback" title="Send Pureinfotech a Feedback">Feedback</a><div class="clearer">&nbsp;</div></li>
-             <li><a href="http://pureinfotech.com/Submit" alt="Submit your news or story to Pureinfotech" title="Submit your news or story to Pureinfotech" style="color: #FE5815; font-weight:bold; font-size:11px;">TIP US</a></li>
+             
 				</ul>   
 
-			<div class="clearer">&nbsp;</div>
+			<div class="clearer"></div>
 
 				</div>
-
-			<div class="clearer">&nbsp;</div>
-
-	</div>
-
-</div>
-
-
-
-<div id="site">
-
-	<div class="center-wrapper">
-
-		<div id="header">
-
-			<div id="site-title">
+		<div id="feedback" class="feedback-button">
+		<a href="/feedback" target="_blank">feedback</a>
+        </div>
+            
+            <div id="site-title">
+   
             <!--Search Code-->
+            <div class="clearer"></div>
             <div id="search-box" class="search-box">
 								 
 
@@ -208,7 +227,7 @@ var gdsr_cnst_cache = 0;
 
     <form method="get" id="searchform" action="http://pureinfotech.com/"> 
 
-        <input type="text" size="18" value="Search Site" style="border:1px solid #ABD2E9; color: #D9D9D9; padding:4px; width:215px;" name="s" id="s" onblur="if (this.value == this.defaultValue || this.value == '') {this.value = this.defaultValue;this.style.color='#d9d9d9';}" onfocus="if (this.value == this.defaultValue) {this.value = '';this.style.color='#000';}">
+        <input type="text" size="18" value="Search on Pureinfotech" style="border:1px solid #2E6BA5; color: #A9A9A9; padding:5px; width:215px;" name="s" id="s" onblur="if (this.value == this.defaultValue || this.value == '') {this.value = this.defaultValue;this.style.color='#d9d9d9';}" onfocus="if (this.value == this.defaultValue) {this.value = '';this.style.color='#000';}">
 
        			 <input type="submit" id="searchsubmit" value="Search" class="button">
 
@@ -223,13 +242,14 @@ var gdsr_cnst_cache = 0;
 							var addthis_config = {
 												username: "pureinfotech",
 												data_track_clickback: true,
-												services_compact: 'email, print, favorites, facebook, googlebuzz, reddit, live, buzz, digg, googlebuzz, technorati, stumbleupon, twitter, myspace, more',
-												ui_header_color: "#333",
+												services_compact: 'favorites, facebook, googlebuzz, reddit, live, identica, digg, googlebuzz, slashdot, stumbleupon, twitter, more',
+												ui_header_color: "#36f",
 												ui_header_background: "#fff", 
 												ui_language: "en",
+												ui_click: true,
+												ui_delay: 500, 
 												ui_cobrand: "Pureinfotech",
 												ui_use_addressbook: true,
-												ui_click: true,
 												}
 										
 							var addthis_share = { 
@@ -242,46 +262,121 @@ var gdsr_cnst_cache = 0;
 											}	
                     </script>
                     <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=Pureinfotech"></script>
+                    
+                    <!--addthis to google analytics-->
+                    <script type="text/javascript">
+						   var addthis_config = {
+							  data_ga_property: 'UA-17195787-2',
+							  data_track_clickback: true
+						   };
+						</script>
+						
                         <!-- AddThis Buttons END -->
 					</div>	
 
 				<h1>
-				<a href="http://pureinfotech.com" title="Pureinfotech"><img src="http://pureinfotech.com/wp-content/themes/Pureinfotech/img/logo-pit.png" alt="Pureinfotech"></a></h1>
-
+				<a href="http://pureinfotech.com" title="Go to Pureinfotech homepage"><img src="http://pureinfotech.com/wp-content/themes/Pureinfotech/img/logo-pit.png.pagespeed.ce.J0m4F5QQW5.png" alt="Pureinfotech" width="250" height="60"></a></h1>
+                
+              
 			</div>
+            
+            
+          
+            
 
+	</div>
+
+</div>
+
+<div id="site">
+
+	<div class="center-wrapper">
+
+		<div id="header">
+      
+			
+            
+            
+            
+            
 			<div id="navigation">
 
 				<div id="main-nav" class="main-nav">
 
-					<div class="main-nav"><ul id="menu-mainmenu" class="menu"><li id="menu-item-584" class="home-main-nav menu-item menu-item-type-custom"><a href="http://Pureinfotech.com">Home</a></li>
+					 
+                    <div class="main-nav"><ul id="menu-mainmenu" class="menu"><li id="menu-item-584" class="home-main-nav menu-item menu-item-type-custom"><a href="/">ALL</a></li>
 <li id="menu-item-585" class="home-main-nav menu-item menu-item-type-taxonomy"><a href="http://pureinfotech.com/category/how-tos/">How To’s</a></li>
 <li id="menu-item-586" class="home-main-nav menu-item menu-item-type-taxonomy"><a href="http://pureinfotech.com/category/windows/">Windows</a></li>
 <li id="menu-item-590" class="home-main-nav menu-item menu-item-type-taxonomy"><a href="http://pureinfotech.com/category/wordpress/">WordPress</a></li>
-<li id="menu-item-5495" class="home-main-nav menu-item menu-item-type-taxonomy"><a href="http://pureinfotech.com/category/video-tutorials/">Video Tutorials</a></li>
+<li id="menu-item-8509" class="home-main-nav menu-item menu-item-type-taxonomy"><a href="http://pureinfotech.com/category/tips-tricks/">Tips &amp; Tricks</a></li>
 <li id="menu-item-588" class="home-main-nav menu-item menu-item-type-taxonomy"><a href="http://pureinfotech.com/category/reviews/">Reviews</a></li>
+<li id="menu-item-5495" class="home-main-nav menu-item menu-item-type-taxonomy"><a href="http://pureinfotech.com/category/video-tutorials/">Video Tutorials</a></li>
+<li id="menu-item-8968" class="home-main-nav menu-item menu-item-type-taxonomy"><a href="http://pureinfotech.com/category/desktop-fun/">Desktop Fun</a></li>
 <li id="menu-item-589" class="home-main-nav menu-item menu-item-type-taxonomy"><a href="http://pureinfotech.com/category/downloads/">Downloads</a></li>
-</ul></div>
+</ul></div>                  
+                    <a href="http://pureinfotech.com/Submit" alt="Submit your news or story to Pureinfotech" title="Submit your news or story to Pureinfotech" style="color: #ffffff!important; font-weight:bold; font-size:11px; padding-right:10px; padding-top:6px; border-bottom:0!important; float:right; text-shadow: 0 0 3px #c20000,  0 0 0.2em black!important;">TIP US!</a>
+                    
+
 					<div class="clearer">&nbsp;</div>
                    
 
 				</div>
- 
+
 			</div>
-
-		</div>
-        <div id="greeting-msg"><div id="greet_block"><noscript><div class="greet_block wpgb_shadowed"><div class="greet_text"><div class="greet_image"><a href="http://feeds.feedburner.com/Pureinfotech" target="_blank" rel="nofollow"><img src="http://pureinfotech.com/wp-content/themes/Pureinfotech/img/social_balloons/24x24/rss.png" alt="WP Greet Box icon"/></a></div>Hello there! If you are new here, you might want to <a style="decoration: underline!important; color:#11c!important;" href="http://feedburner.google.com/fb/a/mailverify?uri=Pureinfotech" rel="nofollow">subscribe to the RSS feed</a> for updates. Follow us on Facebook too <div style="display:inline; vertical-align:middle;"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/pages/Pureinfotech/126900804012982&layout=button_count&show_faces=false&width=120&action=like&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:120px; height:21px;" allowTransparency="true"></iframe></div><div style="clear:both"></div></div></div></noscript></div></div>
-        <div class="clear">&nbsp;</div>
-
-<!--<div class="popup-front"> 
-    					<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-					Support Pureinfotech in Facebook <fb:like href="http://www.facebook.com/pages/Pureinfotech/126900804012982" width="225"></fb:like>
+            
+            
+        <div class="clear5">&nbsp;</div>
+        <div class="clear5">&nbsp;</div>
+   <!--adsense here under menu-->
+   <div style="float:left">
+             <script type="text/javascript"><!--
+				google_ad_client = "ca-pub-2540388230795423";
+				/* HeaderPHP_Top_728x90_Leaderboard_Image-Only */
+				google_ad_slot = "0838448865";
+				google_ad_width = 728;
+				google_ad_height = 90;
+				//-->
+				</script>
+				<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+				</script>
+      </div>
     
-   					 </div>
-        -->
+     
+     
+      
+     
+      
+  <!--is_single-->
+     
+      <div class="clearer">&nbsp;</div>
+		</div>
 
 		<div class="main" id="main-two-columns">
+        <div class="clear5">&nbsp;</div>
+        <div class="clear5">&nbsp;</div>
+        <div>
+<div id="seventh" class="" role="complementary">
+			<ul class="top-widget" style="margin:0;"> 
+				<div class="section widget widget_text" id="text-28">			<div class="textwidget"><h3 style="background-color: #ebebeb; line-height: 8px;"><span style=" padding: 1pt 8px 1px 0; background-color:white; font-size: 0.6em!important;" class="related-posts-home-title">TRENDING STORIES </span></h3></div>
+		</div><!-- Wordpress Popular Posts Plugin v2.1.4 [W] [daily] [custom] -->
+<div class="section widget popular-posts" id="wpp-3">
+<div>
+<div style="width:313px; margin: 0 10px 0 10px; float:left;"><a href="http://pureinfotech.com/2010/11/17/how-to-set-up-windows-remote-assistance-in-windows-7/" class="wppgen"><img src="http://pureinfotech.com/wp-content/plugins/wordpress-popular-posts/scripts/timthumb.php,qsrc=,hpureinfotech.com,_wp-content,_uploads,_2010,_11,_wra-password-150x150.png,ah=75,aw=125,azc=1.pagespeed.ce.k1B0FVak0t.png" alt="How to set up Windows Remote Assistance in Windows 7" border="0" class="wpp-thumbnail" width="125" height="75"></a><a class="wpp-a" href="http://pureinfotech.com/2010/11/17/how-to-set-up-windows-remote-assistance-in-windows-7/"><div class="wpp-inline-fix wpp-post-title">How to set up Windows Remote Assistance in Windows 7</div></a> </div>
+<div style="width:313px; margin: 0 10px 0 10px; float:left;"><a href="http://pureinfotech.com/2011/05/01/tech-roundup-of-the-week-may-1-2011/" class="wppgen"><img src="http://pureinfotech.com/wp-content/plugins/wordpress-popular-posts/scripts/timthumb.php,qsrc=,hpureinfotech.com,_wp-content,_uploads,_2011,_04,_google-wordpress-facebook-wallpaper-150x150.png,ah=75,aw=125,azc=1.pagespeed.ce.B-XHnSvnV6.png" alt="Tech roundup of the week - May 1, 2011" border="0" class="wpp-thumbnail" width="125" height="75"></a><a class="wpp-a" href="http://pureinfotech.com/2011/05/01/tech-roundup-of-the-week-may-1-2011/"><div class="wpp-inline-fix wpp-post-title">Tech roundup of the week - May 1, 2011</div></a> </div>
+<div style="width:313px; margin: 0 10px 0 10px; float:left;"><a href="http://pureinfotech.com/2011/04/09/desktop-fun-rio-the-movie-windows-7-theme/" class="wppgen"><img src="http://pureinfotech.com/wp-content/plugins/wordpress-popular-posts/scripts/timthumb.php,qsrc=,hpureinfotech.com,_wp-content,_uploads,_2011,_04,_Rio-Movie-Wallpaper-150x150.png,ah=75,aw=125,azc=1.pagespeed.ce.Zq4SUaU3AV.png" alt="Desktop fun: Rio - The movie Windows 7 Theme" border="0" class="wpp-thumbnail" width="125" height="75"></a><a class="wpp-a" href="http://pureinfotech.com/2011/04/09/desktop-fun-rio-the-movie-windows-7-theme/"><div class="wpp-inline-fix wpp-post-title">Desktop fun: Rio - The movie Windows 7 Theme</div></a> </div>
+</div>
+</div>
+<!-- End Wordpress Popular Posts Plugin v2.1.4 -->
+			</ul>
+		</div><!-- #secondary .widget-area -->
+</div>
 
+	<div class="clear5">&nbsp;</div>
+        <!--infolinks-->
+                 
+        
+        
+		<div class="clear">&nbsp;</div>
 			<div class="left" id="main-left">
 					<div class="post" id="post-28">
 				<div class="page-title"><h1>Privacy Policy</h1></div>
@@ -294,20 +389,20 @@ var gdsr_cnst_cache = 0;
 <p>This website contains links to other websites. Pureinfotech is not responsible for the content, privacy practices, or anything else regarding such websites.</p>
 <p>We use outside advertisement companies to display ads on our website. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with banner ads are collected by our third party advertisement company and we do not have access to this information.</p>
 <p>We do our best to ensure that this website has security measures in place to protect the loss and misuse of the information under our control. All accounts have regularly changed passwords. All data at this website is backed-up regularly. Pureinfotech is not responsible for any damages in the result of a situation where there is a loss/manipulation of data.</p>
-<p><strong>Disclaimer</strong></p>
+<div id="disclaimer"><strong>Disclaimer</strong></div>
 <p>The content within this website consists of original and non-original pictures, videos, and text.&nbsp; All non-original content is being used where permission has been granted by the owner of the content or a license has been purchased to use it.</p>
 <p>Some of the content on this website has been collected through the submissions of visitors. It is assumed they hold the copyright to this submitted material. If this is not the case, please use <a href="http://pureinfotech.com/contact-us" target="_self">this contact form</a> along with your claim to the content and it will be dealt with immediately.</p>
 <p>All content within this website is created using our best efforts to help you although we are not responsible in any way for damages resulting in the use or misuse of the information, pictures, videos, and posts within this website.</p>
 <p>Use the content of this website at your own risk.</p>
 <p>We may change our policy at any time without notice.</p>
-<p><strong>Comment Privacy</strong></p>
+<div id="comment"><strong>Comment Privacy</strong></div>
 <p>Pureinfotech website does not allow just anybody to leave any comment. Because this site is dedicated to help and inform people, only helpful, constructive, on-topic or interesting and respectful comments will be approved.</p>
 <p>Questions about the article will also be approved.</p>
 <p><strong>Affiliate Statement </strong></p>
 <p>Some of the products that we recommend on this website have affiliate links which allow me to make a percentage of sales through my efforts. It costs nothing extra on your part and helps support my writing and this website.</p>
 <p><strong>Contacting Us</strong></p>
 <p>If you have any questions or concerns you can reach us using the&nbsp;contact form provided <a href="http://pureinfotech.com/contact-us" target="_self">here</a>.</p>
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/top-10/top-10-addcount.js.php?top_ten_id=28"></script>
+<!-- PHP 5.x --><script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/top-10/top-10-addcount.js.php?top_ten_id=28"></script>
 					
 				</div>
 			</div>
@@ -317,100 +412,122 @@ var gdsr_cnst_cache = 0;
 
 			<div class="right sidebar" id="sidebar">
 
-<div class="section widget widget_text" id="text-10">			<div class="textwidget"><div style="border:#ABD2E9 solid 1px; background-color:#E8F0F9; padding-top:5px; padding-left:7px; font-size:12px; width:290px;">
-<div style="color:#26B; font-size:13px; padding-bottom:3px;">Stay connected: </div>
-<div class="addthis_toolbox addthis_32x32_style addthis_default_style">
-                        <a class="addthis_button_rss_follow" addthis:url="http://feeds.feedburner.com/Pureinfotech"></a>
-                        <a class="addthis_button_twitter_follow" addthis:userid="Pureinfotech"><img src="http://pureinfotech.com/wp-content/themes/Pureinfotech/img/t_logo-a.png" width="32" height="32" alt="Twitter" title="Follow me on Twitter @Pureinfotech"></a>
-						
-                        <a class="addthis_button_google_follow" addthis:url="http://fusion.google.com/add?feedurl=http://feeds.feedburner.com/Pureinfotech" title="Subscribe via Google Reader"></a>
-                        <a class="addthis_button_youtube_follow" addthis:userid="Pureinfotech" title="Subscribe to Pureinfotech YouTube channel"></a>
-
-                        </div>
-<div style="height:5px;"></div>
-  <div style="color:#26B; font-size:12px;">Sign up for Pureinfotech posts sent to your inbox</div>
-<form style="padding:3px;text-align:left; width:280px; height:50px;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=Pureinfotech', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p style="height:17px;"><input type="text" style="border:1px solid #ABD2E9; color: #D9D9D9; padding:4px; width:170px;" name="email" value="Enter your email address" onblur="if (this.value == this.defaultValue || this.value == '') {this.value = this.defaultValue;this.style.color='#d9d9d9';}" onfocus="if (this.value == this.defaultValue) {this.value = '';this.style.color='#000';}">
+<div class="section widget widget_text" id="text-14">			<div class="textwidget"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2540388230795423";
+/* IndexPHP_Text-Widget-Sidebar_300x250-Medium_Rectangle-Image */
+google_ad_slot = "5122963906";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+		</div><div class="section widget widget_text" id="text-10">			<div class="textwidget"><div style="border-top: 1px solid #B1D0E0; border-left: 1px solid #B1D0E0; border-right: 1px solid #B1D0E0; background-color:#EEF3F8; padding-top:5px; padding-left:7px; font-size:12px; width:291px;">
+  <div class="wd-subscribe">Free newsletter Sign Up and stay in touch!</div>
+<form style="padding:3px;text-align:left; width:280px; height:25px;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=Pureinfotech', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p style="height:17px;"><input type="text" style="border:1px solid #B1D0E0; color: #A9A9A9; padding:5px; width:160px;" name="email" value="Enter your email address" onblur="if (this.value == this.defaultValue || this.value == '') {this.value = this.defaultValue;this.style.color='#d9d9d9';}" onfocus="if (this.value == this.defaultValue) {this.value = '';this.style.color='#000';}">
 <input type="hidden" value="Pureinfotech" name="uri">
 <input style="width:5px;" type="hidden" name="loc" value="en_US">
-<input type="submit" class="button" value="Subscribe"></p>
-<p style="font-size:10px; height:12px;">Delivered by <a href="http://feedburner.google.com" target="_blank">FeedBurner</a></p>
+<input type="submit" class="orange" value="Sign Up Free"></p>
 </form>
+<div style="color:#26b; font-size:13px; padding-bottom:3px;"></div>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox">
+    <div class="two_column">
+        <div class="column1">
+<a class="addthis_button_twitter_follow" addthis:userid="Pureinfotech" title="Follow me on Twitter @Pureinfotech">Twitter</a>
+            
+        </div>
+        <div class="column2">
+          <a class="addthis_button_youtube_follow" addthis:userid="Pureinfotech" title="Subscribe to Pureinfotech YouTube channel">YouTube</a>
+        </div>
+        <div class="column1">
+<a class="addthis_button_rss_follow" addthis:url="http://feeds.feedburner.com/Pureinfotech">RSS</a>
+        </div>
+        <div class="column2">
+            <a class="addthis_button_stumbleupon_follow" addthis:url="http://www.stumbleupon.com/stumbler/Pureinfotech">Stumble</a>
+        </div>
+
+    </div>
+</div>
+<!-- AddThis Button END -->
+</div>
+<div style="border-bottom: 1px solid #B1D0E0; border-left: 1px solid #B1D0E0; border-right: 1px solid #B1D0E0; background:#EEF3F8;">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FPureinfotech%2F126900804012982&amp;width=296&amp;colorscheme=light&amp;show_faces=false&amp;stream=false&amp;header=false&amp;height=62" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:296px; height:62px;" allowtransparency="true"></iframe>
 </div></div>
-		</div><div class="section widget widget_text" id="text-7">			<div class="textwidget"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http://www.facebook.com/pages/Pureinfotech/126900804012982&amp;width=300&amp;colorscheme=light&amp;connections=5&amp;stream=false&amp;header=false&amp;height=180" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:auto; height:180px;" allowtransparency="true"></iframe></div>
-		</div><div class="section widget widget_featured-posts" id="widget_featured-posts-4"><div class="section-title">RECENT POSTS</div><ul class="clearfix">      
+		</div><div class="section widget widget_featured-posts" id="widget_featured-posts-6"><div class="section-title">LATEST POSTS</div><ul class="clearfix">      
       
 
 <li>
    
-	 	    <a href="http://pureinfotech.com/2010/12/29/wincdemu-is-free-lightweight-awesome-image-mounting-cd-dvd-software-for-windows/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2010/12/CD-Drive-icon.png&amp;h=57&amp;w=73&amp;zc=1" class="alignleft" alt="WinCDEmu is free, lightweight, and an awesome image mounting CD/DVD software for Windows">
-	    WinCDEmu is free, lightweight, and an awesome image mounting CD/DVD soft...</a>
+	 	    <a href="http://pureinfotech.com/2011/04/29/desktop-fun-have-a-closer-look-to-natures-wonders-with-the-small-world-windows-7-theme/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php,qsrc=,hpureinfotech.com,_wp-content,_uploads,_2011,_04,_flowers-insects-windows-7-theme.jpg,ah=70,aw=120,azc=1.pagespeed.ce.O-Av6tblK7.png" class="alignleft" alt="Desktop fun: Have a closer look to nature’s wonders with the Small World Windows 7 Theme">
+	    Desktop fun: Have a closer look to nature’s wonders with the Small Wor...</a>
 </li>
          
       
 
 <li>
    
-	 	    <a href="http://pureinfotech.com/2010/12/22/dont-waste-save-energy-in-windows-with-smartpower/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2010/12/windows-7-devices-icon.png&amp;h=57&amp;w=73&amp;zc=1" class="alignleft" alt="Don’t waste! Save energy in Windows with SmartPower">
-	    Don’t waste! Save energy in Windows with SmartPower</a>
+	 	    <a href="http://pureinfotech.com/2011/04/29/seven-different-antivirus-rescue-cds-to-help-fix-an-infected-computer/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php,qsrc=,hpureinfotech.com,_wp-content,_uploads,_2011,_04,_7-recue-cds.png,ah=70,aw=120,azc=1.pagespeed.ce.qNFPLgOQbM.png" class="alignleft" alt="Seven different Antivirus Rescue CDs to help fix an infected computer">
+	    Seven different Antivirus Rescue CDs to help fix an infected computer</a>
 </li>
          
       
 
 <li>
    
-	 	    <a href="http://pureinfotech.com/2010/12/21/microsoft-security-essentials-2-released-the-best-free-antivirus/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2010/12/microsoft-security-essentials-2-screenshot.png&amp;h=57&amp;w=73&amp;zc=1" class="alignleft" alt="Microsoft Security Essentials 2 released, the best free antivirus!">
-	    Microsoft Security Essentials 2 released, the best free antivirus!</a>
+	 	    <a href="http://pureinfotech.com/2011/04/27/google-chrome-11-is-now-in-the-stable-channel-and-is-ready-for-download/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php,qsrc=,hpureinfotech.com,_wp-content,_uploads,_2011,_03,_google-chrome-flatten-logo.png,ah=70,aw=120,azc=1.pagespeed.ce.OgwgaJt720.png" class="alignleft" alt="Google Chrome 11 is now in the Stable Channel and is ready for download">
+	    Google Chrome 11 is now in the Stable Channel and is ready for download</a>
 </li>
          
       
 
 <li>
    
-	 	    <a href="http://pureinfotech.com/2010/12/18/opera-11-is-out-with-great-new-features-tab-stacking-extensions-and-more-take-the-tour/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2010/12/opera-11-UI.png&amp;h=57&amp;w=73&amp;zc=1" class="alignleft" alt="Opera 11 is out with great new features, tab stacking, extensions, and more. Take the tour!">
-	    Opera 11 is out with great new features, tab stacking, extensions, and m...</a>
+	 	    <a href="http://pureinfotech.com/2011/04/27/facebook-released-the-send-button-and-it-brings-back-some-features-of-the-share-button/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php,qsrc=,hpureinfotech.com,_wp-content,_uploads,_2011,_04,_orbitz-send-facebook-button.png,ah=70,aw=120,azc=1.pagespeed.ce.78XzLRCtxD.png" class="alignleft" alt="Facebook released the Send button and it brings back some features of the Share button">
+	    Facebook released the Send button and it brings back some features of th...</a>
 </li>
-   </ul></div><div class="section widget widget_featured-posts" id="widget_featured-posts-3"><div class="section-title">FEATURED POSTS</div><ul class="clearfix">      
+   </ul></div><div class="section widget widget_featured-posts" id="widget_featured-posts-5"><div class="section-title">FEATURED POSTS</div><ul class="clearfix">      
       
 
 <li>
    
-	 	    <a href="http://pureinfotech.com/2010/11/30/test-alternative-headlines-with-wordpress-headline-split-tester-plugin/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2010/11/alternative-headlines.png&amp;h=57&amp;w=73&amp;zc=1" class="alignleft" alt="Test alternative headlines with WordPress Headline Split Tester plugin">
-	    Test alternative headlines with WordPress Headline Split Tester plugin</a>
-</li>
-         
-      
-
-<li>
-   
-	 	    <a href="http://pureinfotech.com/2010/11/01/new-xbox-360-dashboard-update-is-ready-for-download/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2010/11/xbox360logo1.jpg&amp;h=57&amp;w=73&amp;zc=1" class="alignleft" alt="New Xbox 360 Dashboard update is ready for download!">
-	    New Xbox 360 Dashboard update is ready for download!</a>
+	 	    <a href="http://pureinfotech.com/2011/03/30/google-is-introducing-the-like-button-sorry-i-meant-the-1-button/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2011/03/Google-plus1-Button.png&amp;h=70&amp;w=120&amp;zc=1" class="alignleft" alt="Google is introducing the “Like” button, sorry I meant the +1 button">
+	    Google is introducing the “Like” button, sorry I meant the +1 button</a>
 </li>
          
       
 
 <li>
    
-	 	    <a href="http://pureinfotech.com/2010/12/06/google-ebookstore-is-open-for-business/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2010/12/Google-eBookstore.png&amp;h=57&amp;w=73&amp;zc=1" class="alignleft" alt="Google eBookstore is open for business">
-	    Google eBookstore is open for business</a>
+	 	    <a href="http://pureinfotech.com/2011/02/08/wordpress-3-0-5-and-3-1-rc4-has-been-released-simultaneously/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2011/02/wordpress-logo-stacked-rgb.png&amp;h=70&amp;w=120&amp;zc=1" class="alignleft" alt="WordPress 3.0.5 and 3.1 RC4 has been released simultaneously">
+	    WordPress 3.0.5 and 3.1 RC4 has been released simultaneously</a>
 </li>
          
       
 
 <li>
    
-	 	    <a href="http://pureinfotech.com/2010/08/30/how-to-enable-gmail-keyboard-shortcuts/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2010/08/gmail-shortcuts-1.png&amp;h=57&amp;w=73&amp;zc=1" class="alignleft" alt="How to enable Gmail keyboard shortcuts">
-	    How to enable Gmail keyboard shortcuts</a>
+	 	    <a href="http://pureinfotech.com/2011/03/03/learn-the-history-of-operating-systems-infographic/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2011/03/history-operating-systems-infographic-150x150.jpg&amp;h=70&amp;w=120&amp;zc=1" class="alignleft" alt="Learn the history of Operating Systems [Infographic]">
+	    Learn the history of Operating Systems [Infographic]</a>
 </li>
          
       
 
 <li>
    
-	 	    <a href="http://pureinfotech.com/2010/10/05/how-to-add-twitter-widget-to-your-wordpress-blog-sidebar/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2010/10/twitter-widget-halfscreenshot.png&amp;h=57&amp;w=73&amp;zc=1" class="alignleft" alt="How to add Twitter widget to your WordPress blog sidebar">
-	    How to add Twitter widget to your WordPress blog sidebar</a>
+	 	    <a href="http://pureinfotech.com/2011/04/27/google-chrome-11-is-now-in-the-stable-channel-and-is-ready-for-download/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php,qsrc=,hpureinfotech.com,_wp-content,_uploads,_2011,_03,_google-chrome-flatten-logo.png,ah=70,aw=120,azc=1.pagespeed.ce.OgwgaJt720.png" class="alignleft" alt="Google Chrome 11 is now in the Stable Channel and is ready for download">
+	    Google Chrome 11 is now in the Stable Channel and is ready for download</a>
+</li>
+         
+      
+
+<li>
+   
+	 	    <a href="http://pureinfotech.com/2010/08/20/free-microsoft-software-via-dreamspark-program/"><img src="http://pureinfotech.com/wp-content/plugins/featured-post-with-thumbnail/scripts/timthumb.php?src=http://pureinfotech.com/wp-content/uploads/2010/08/download-products-500x216.png&amp;h=70&amp;w=120&amp;zc=1" class="alignleft" alt="Free Microsoft software via DreamSpark program">
+	    Free Microsoft software via DreamSpark program</a>
 </li>
    </ul></div><div class="section widget widget_calendar" id="calendar-5"><div class="section-title">ARCHIVES</div><div id="calendar_wrap"><table id="wp-calendar" summary="Calendar">
-	<caption>December 2010</caption>
+	<caption>May 2011</caption>
 	<thead>
 	<tr>
 		<th scope="col" title="Monday">M</th>
@@ -425,7 +542,7 @@ var gdsr_cnst_cache = 0;
 
 	<tfoot>
 	<tr>
-		<td colspan="3" id="prev"><a href="http://pureinfotech.com/2010/11/" title="View posts for November 2010">« Nov</a></td>
+		<td colspan="3" id="prev"><a href="http://pureinfotech.com/2011/04/" title="View posts for April 2011">« Apr</a></td>
 		<td class="pad">&nbsp;</td>
 		<td colspan="3" id="next" class="pad">&nbsp;</td>
 	</tr>
@@ -433,38 +550,48 @@ var gdsr_cnst_cache = 0;
 
 	<tbody>
 	<tr>
-		<td colspan="2" class="pad">&nbsp;</td><td><a href="http://pureinfotech.com/2010/12/01/" title="WordPress 3.0.2 has just been released. This is mandatory update!, Christmas desktop fun 2010: Wallpapers, icons, fonts, and Windows 7 themes">1</a></td><td>2</td><td><a href="http://pureinfotech.com/2010/12/03/" title="New CCleaner: Adds secure wipe, 64-bit, Windows 7 integration and more">3</a></td><td><a href="http://pureinfotech.com/2010/12/04/" title="Reading Google Books just got better with GooReader 2">4</a></td><td><a href="http://pureinfotech.com/2010/12/05/" title="Tech roundup of the week – Dec. 5, 2010">5</a></td>
+		<td colspan="6" class="pad">&nbsp;</td><td><a href="http://pureinfotech.com/2011/05/01/" title="Tech roundup of the week – May 1, 2011">1</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://pureinfotech.com/2010/12/06/" title="Google eBookstore is open for business">6</a></td><td><a href="http://pureinfotech.com/2010/12/07/" title="Google eBookstore: Things that you need to know">7</a></td><td><a href="http://pureinfotech.com/2010/12/08/" title="What is and how to connect your printer with Google Cloud Print?">8</a></td><td>9</td><td><a href="http://pureinfotech.com/2010/12/10/" title="Understanding and installing Chrome Web Apps">10</a></td><td>11</td><td><a href="http://pureinfotech.com/2010/12/12/" title="Tech roundup of the week – Dec. 12, 2010">12</a></td>
+		<td id="today">2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td>
 	</tr>
 	<tr>
-		<td>13</td><td><a href="http://pureinfotech.com/2010/12/14/" title="How to install and recover accidentally deleted files with Recuva">14</a></td><td><a href="http://pureinfotech.com/2010/12/15/" title="How to shrink a volume or partition in Windows">15</a></td><td><a href="http://pureinfotech.com/2010/12/16/" title="How to create a new volume or partition in Windows">16</a></td><td>17</td><td><a href="http://pureinfotech.com/2010/12/18/" title="Opera 11 is out with great new features, tab stacking, extensions, and more. Take the tour!">18</a></td><td><a href="http://pureinfotech.com/2010/12/19/" title="Tech roundup of the week – Dec. 19, 2010 [Christmas Wallpaper Edition]">19</a></td>
+		<td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td>
 	</tr>
 	<tr>
-		<td>20</td><td><a href="http://pureinfotech.com/2010/12/21/" title="Microsoft Security Essentials 2 released, the best free antivirus!">21</a></td><td><a href="http://pureinfotech.com/2010/12/22/" title="Don’t waste! Save energy in Windows with SmartPower">22</a></td><td>23</td><td>24</td><td>25</td><td>26</td>
+		<td>16</td><td>17</td><td>18</td><td>19</td><td>20</td><td>21</td><td>22</td>
 	</tr>
 	<tr>
-		<td><a href="http://pureinfotech.com/2010/12/27/" title="New Year Desktop fun 2011: Wallpaper collection &amp; New Year countdown clocks">27</a></td><td>28</td><td><a href="http://pureinfotech.com/2010/12/29/" title="WinCDEmu is free, lightweight, and an awesome image mounting CD/DVD software for Windows">29</a></td><td id="today">30</td><td>31</td>
-		<td class="pad" colspan="2">&nbsp;</td>
+		<td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td><td>29</td>
+	</tr>
+	<tr>
+		<td>30</td><td>31</td>
+		<td class="pad" colspan="5">&nbsp;</td>
 	</tr>
 	</tbody>
-	</table></div></div>
+	</table></div></div><div class="section widget widget_text" id="text-7">			<div class="textwidget"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http://www.facebook.com/pages/Pureinfotech/126900804012982&amp;width=300&amp;colorscheme=light&amp;connections=15&amp;stream=false&amp;header=false&amp;height=330" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:auto; height:330px;" allowtransparency="true"></iframe></div>
+		</div>
 			</div>
 			<div class="clearer">&nbsp;</div>
+			
 		</div>
 
-		<div id="dashboard" class="footer smaller-font-size footer-style">
+</div>
+		
+		<div id="footer-frame" class="footer-frame">
+        
+        <div id="footer-wrapper" class="footer-wrapper">
+        
+		<div id="dashboard" class="footer smaller-font-size">
 
-<!--            <div class="footerdc" id="footerdc"><img src="http://pureinfotech.com/wp-content/themes/Pureinfotech/img/footerlogo.png" alt="Pureinfotech Footer Logo"/></div>
--->
 			<div class="column left" id="column-1">
 
 				<div class="column-content">
 
 					<div class="column-title">Info</div>
 					<a href="http://pureinfotech.com/about" alt="About Pureinfotech">About</a><div class="clearer">&nbsp;</div>
-					<a href="http://pureinfotech.com/privacy-policy" alt="Pureinfotech privacy policy">Privacy policy &amp; disclaimer</a><div class="clearer">&nbsp;</div>
+					<a href="http://pureinfotech.com/privacy-policy" alt="Pureinfotech privacy policy">Privacy policy</a><div class="clearer">&nbsp;</div>
+                    <a href="http://pureinfotech.com/privacy-policy/#disclaimer" alt="Pureinfotech privacy policy">Disclaimer</a><div class="clearer">&nbsp;</div>
 					<a href="http://pureinfotech.com/contact-us" alt="Contact Pureinfotech">Contact us</a><div class="clearer">&nbsp;</div>
 					<a href="http://pureinfotech.com/feedback" alt="Send a feedback to Pureinfotech">Feedback</a><div class="clearer">&nbsp;</div>
 
@@ -472,23 +599,21 @@ var gdsr_cnst_cache = 0;
 
 			</div>
 
-			<div class="column left" id="column-2">
+			<div class="column left" id="column-2"> 
 
 				<div class="column-content">
 
 					<div class="column-title">Connect with us</div>
 
 					<ul class="plain-list">
-                    
-                    	<li><a href="http://pureinfotech.com/subscribe">Email Subscription</a></li>
-
-						<li><a href="http://feeds.feedburner.com/Pureinfotech">Rss Feeds</a></li>
-
-						<li><a href="http://fusion.google.com/add?feedurl=http://pureinfotech.com/feed/">Google Reader</a></li>
-
-						<li><a href="http://add.my.yahoo.com/rss?url=http://pureinfotech.com/feed/">Yahoo! Reader</a></li>						
-
-                        <li><a href="http://youtube.com/pureinfotech">Youtube</a></li>
+                  
+                    	
+						<li><a href="http://feeds.feedburner.com/Pureinfotech" class="footer-social-rss">RSS</a></li>
+                        <li><a href="http://twitter.com/Pureinfotech" class="footer-social-twitter">Twitter</a></li>
+                        <li><a href="http://www.facebook.com/pages/Pureinfotech/126900804012982" class="footer-social-facebook">Facebook</a></li>	
+                        <li><a href="http://youtube.com/pureinfotech" class="footer-social-youtube">Youtube</a></li>
+						<li><a href="http://fusion.google.com/add?feedurl=http://pureinfotech.com/feed/" class="footer-social-google">Google Reader</a></li>
+                        <li><a href="http://pureinfotech.com/subscribe" class="footer-social-email">Email Subscription</a></li>
 
 					</ul>
 
@@ -500,30 +625,109 @@ var gdsr_cnst_cache = 0;
 				<div class="column-content">
                 <div class="column-title">Links of interest</div>
                  <ul class="plain-list">
-                 <li><a href="http://pureinfotech.com/link-to-pureinfotech" atl="Pureinfotech | Link to Us" title="Pureinfotech | Link to Us code">Link to us</a></li>
+                 <li><a href="http://pureinfotech.com/link-to-pureinfotech" atl="Pureinfotech | Link to Us" title="Pureinfotech | Link to Us code">Link to our site</a></li>
                  <li><a href="http://pureinfotech.com/Submit" alt="Submit your news or story to Pureinfotech">Submit news or story</a></li>
 				</ul>
 			</div>
                        </div>
-			<div class="column right" id="column-4">
+			<div class="column left" id="column-4">
 				<div class="column-content">
-
                 </div>
 			</div>
+            
+            <div class="column-poll column right" id="column-5">
+				<div class="column-content">
+                <div class="column-title">Pureinfotech ask the reader</div>
+                                        <ul class="plain-list">
+                          <li><div id="polls-17" class="wp-polls">
+	<form id="polls_form_17" class="wp-polls-form" action="/privacy-policy/" method="post">
+		<p style="display: none;"><input type="hidden" name="poll_id" value="17"></p>
+		<p style="text-align: center;"><strong>What do you want more of?</strong></p><div id="polls-17-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-70" name="poll_17" value="70"> <label for="poll-answer-70">How to Windows</label></li>
+		<li><input type="radio" id="poll-answer-71" name="poll_17" value="71"> <label for="poll-answer-71">How to WordPress</label></li>
+		<li><input type="radio" id="poll-answer-72" name="poll_17" value="72"> <label for="poll-answer-72">Articles Tips &amp; Tricks</label></li>
+		<li><input type="radio" id="poll-answer-73" name="poll_17" value="73"> <label for="poll-answer-73">Free software</label></li>
+		<li><input type="radio" id="poll-answer-74" name="poll_17" value="74"> <label for="poll-answer-74">Web browsers</label></li>
+		</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(17);"></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(17); return false;" title="View Results Of This Poll">View Results</a></p></div>
+	</form>
+</div>
+<div id="polls-17-loading" class="wp-polls-loading"><img src="http://pureinfotech.com/wp-content/plugins/wp-polls/images/loading.gif.pagespeed.ce.AO-HGykbwD.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image">&nbsp;Loading ...</div>
+</li>
+                          <li align="center"><a href="http://pureinfotech.com/contact-us/" alt="We need your input">Suggest topics that you want to read about.</a></li>
+                       </ul>
+                    			</div>
+            </div>
 			<div class="clearer">&nbsp;</div>
-		</div>
-		<div id="footer" class="footer smaller-font-size">
-			<div class="left">Copyright © 2010 Pureinfotech &nbsp;All Rights Reserved.&nbsp;<span class="text-separator">|</span> <a href="#top">Page Top ↑</a></div>
-			<div class="right">
-			<div class="clearer">&nbsp;</div>
-		</div>
+			</div>
+            
+            
+            <div id="dashboard1" class="footer smaller-font-size">
+            
+            	<div class="column left" id="column-6">
+
+				<div class="column-content" style="color:#E9F1FA">
+                <div class="column-title"></div>
+                <div>
+                <a href="http://www.ontoplist.com/blogs/pureinfotech-simple-computer-help_4d8d21c9e4609/" target="_blank" title="Pureinfotech - Simple computer help"><img src="http://www.ontoplist.com/images/ontoplist12.jpg?id=4d8d21c9e4609" alt="Pureinfotech - Simple computer help" border="0"></a><br>Add blog to our <a href="http://www.ontoplist.com/blog-directory/" title="blog directory" style="color:#E9F1FA">blog directory</a>
+                </div>
+                <div style="padding-bottom:15px;"><!-- Begin BlogToplist tracker code -->
+            <a href="http://www.blogtoplist.com/technology/" title="Technology">
+            <img src="http://www.blogtoplist.com/tracker.php?u=164544" alt="Technology" border="0"></a>
+            <!-- End BlogToplist tracker code --></div>
+                <div><a href="http://www.bloggapedia.com/" title="Blog Directory"><img src="http://www.bloggapedia.com/bp_small_images/blog-gapedia6.png" border="0" alt="Blog Directory"></a><a href="http://www.reser.se/europa/grekland/" style="color:#E9F1FA">resa till grekland</a>
+            </div>
+                </div>
+                
+                </div>
+                
+                <div class="column left" id="column-7">
+
+				<div class="column-content">
+                <div class="column-title"></div>
+                
+                </div>
+                
+                </div>
+                
+                <div class="column left" id="column-8">
+
+				<div class="column-content">
+                <div class="column-title"></div>
+                
+                </div>
+                
+                </div>
+                
+                <div class="column left" id="column-9">
+
+				<div class="column-content">
+                <div class="column-title"></div>
+                
+                </div>
+                
+                </div>
+                
+                <div class="column right" id="column-10">
+
+				<div class="column-content">
+                <div class="column-title"></div>
+ 
+                </div>
+                
+                </div>
+            <div class="clearer">&nbsp;</div>
+            </div>
+            
+		<div id="footer" class="smaller-font-size"> 
+			<span styly="float:left;">Copyright © 2011 Pureinfotech &nbsp;All Rights Reserved.&nbsp;<span></span> <a href="#top">Back to Top ↑</a></span>
+          
+			
 	</div>
 
-
-
+  </div>
 </div>
 
-
+<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox-min.js,qver=1.3.8.pagespeed.ce.XqNCfEdHt0.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var pollsL10n = {
@@ -536,8 +740,63 @@ var pollsL10n = {
 };
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.50"></script>
-<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201052.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://pureinfotech.com/wp-content/plugins/wp-polls/polls-js.js,qver=2.50.pagespeed.ce.CmGjpzwyul.js"></script>
+<script type="text/javascript">
+		   var infolink_pid =239449; var infolink_wsid = 0;
+		</script>
+		<script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
+		<script type="text/javascript">
+							jQuery(document).ready(function(){ 
+							jQuery('.description').before('<span><!--INFOLINKS_OFF--></span>');jQuery('.description').after('<span><!--INFOLINKS_ON--></span>');jQuery('#headerimg').before('<span><!--INFOLINKS_OFF--></span>');jQuery('#headerimg').after('<span><!--INFOLINKS_ON--></span>');jQuery('h1').before('<span><!--INFOLINKS_OFF--></span>');jQuery('h1').after('<span><!--INFOLINKS_ON--></span>');jQuery('h1').before('<span><!--INFOLINKS_OFF--></span>');jQuery('h1').after('<span><!--INFOLINKS_ON--></span>');	
+								});
+						</script>
+		<!-- Lightbox Plus v2.0.5 - 2010.07.02 - Message: -->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[rel*=lightbox]").colorbox({opacity:0.8});
+});
+</script>
+<!-- Modal Dialog Output -->
+<a id="inline" href="#data"></a>
+<div style="display:none"><div id="data" style="color:#000000;background-color:#000000;width:100%;height:100%"><div align="center" style="background: #0095ff; width: 496px; height: 216px; padding:10px; background: -webkit-gradient(linear, left top, left bottom, from(#0095ff), to(#0061a7)); background: -moz-linear-gradient(top,  #0095ff,  #0061a7); filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#0095ff', endColorstr='#0061a7');">
+<img src="http://pureinfotech.com/wp-content/themes/Pureinfotech/img/envelope-singup.png.pagespeed.ce.frBJrIpOCz.png" align="left">
+<p style="font-size:22px; 0 0 3px black; color:white; margin-top:3px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif!important;">Sign Up to our FREE Newsletter!</p>
+<p style="color:white; margin-bottom: 5px; font-size:15px;">Your newsletter is packed with valuable How To's, Tips &amp; Tricks, and Tech News. It is FREE to subscribe, you can unsubscribe at anytime and your email address will NEVER be shared! So hey, no worries.</p> 
+<form style="padding:3px;text-align:center; width:280px; height:25px;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=Pureinfotech', 'popupwindow', 'scrollbars=yes,width=600,height=640');return true"><p style="height:19px; font-size:15px;"><input type="text" style="border:1px solid #26c; color: #A9A9A9; padding:5px; width:220px;" name="email" value="Enter your email address" onblur="if (this.value == this.defaultValue || this.value == '') {this.value = this.defaultValue;this.style.color='#d9d9d9';}" onfocus="if (this.value == this.defaultValue) {this.value = '';this.style.color='#000';}">
+<input type="hidden" value="Pureinfotech" name="uri">
+<input style="width:5px;" type="hidden" name="loc" value="en_US">
+<input type="submit" class="buttonplus buttongreen" value="Sign Up Free"></p>
+</form>
+</div></div></div>
+<div id="md-content">
+<script type="text/javascript">
+jQuery(document).ready(function() {
+jQuery("a#inline").fancybox({
+'hideOnOverlayClick': false,
+'hideOnContentClick': false,
+'centerOnScroll': true,
+'autoDimensions': true,
+'overlayColor': '#000000',
+'width': 0,
+'height': 0,
+'overlayOpacity': 0.5
+});
+	var cookievalue = jQuery.cookie('modal-dialog');
+	if (cookievalue == null) cookievalue = 0;
+	if (cookievalue < 1)
+	{
+		cookievalue++;
+		jQuery.cookie('modal-dialog', cookievalue, { expires: 10, path: '/'});
+		setTimeout(
+			function(){
+				jQuery("a#inline").trigger('click')
+			}, 2000);
+		};
+});
+</script>
+</div>
+<!-- End of Modal Dialog Output -->
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201118.js" type="text/javascript"></script>
 <script type="text/javascript">
 st_go({blog:'15090528',v:'ext',post:'28'});
 var load_cmc = function(){linktracker_init(15090528,28,2);};
@@ -546,20 +805,21 @@ else load_cmc();
 </script>
 
 
-<!-- 73 queries. 0.606 seconds. -->
+<!-- 54 queries. 0.859 seconds. -->
 <!-- Woopra Code Start -->
 <script type="text/javascript" src="//static.woopra.com/js/woopra.v2.js"></script>
 <script type="text/javascript">
 woopraTracker.track();
 </script>
 <!-- Woopra Code End -->
+<!--apture code start-->
+<script id="aptureScript">
+(function (){var a=document.createElement("script");a.defer="true";a.src="http://www.apture.com/js/apture.js?siteToken=3ciAmb1";document.getElementsByTagName("head")[0].appendChild(a);})();
+</script>
+<!--apture code end-->
+        
 
 
-
-
-
-
-
-<!-- Dynamic page generated in 0.594 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2010-12-30 13:52:20 -->
+<!-- Dynamic page generated in 0.846 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2011-05-02 01:55:17 -->
 <!-- super cache --></div></body></html>
