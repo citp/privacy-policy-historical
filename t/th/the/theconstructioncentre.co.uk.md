@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theconstructioncentre.co.uk privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101095439id_/http%3A//www.theconstructioncentre.co.uk/information/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theconstructioncentre.co.uk privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503061347id_/http%3A//www.theconstructioncentre.co.uk/information/privacy.html) for the most accurate reproduction.*
 
 # The Construction Centre - Privacy
 
@@ -75,7 +75,3 @@ We will not have liability in connection with:
 
 
 **The Construction Centre is a trading name of UK250 Limited, 2 Alpha House, Farmer Ward Road, Kenilworth, CV8 2ED.**
-
-[](http://www.cnplus.co.uk/news/ "Get the latest construction news from CNplus.co.uk")
-
-#### Sponsored Links
