@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227102448id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutor.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503180218id_/http%3A//www.tutor.com/privacy) for the most accurate reproduction.*
 
-# Tutor.com | Privacy Policy
+# Privacy Policy - Tutor.com
 
 Tutor.com takes your privacy seriously. We know you trust us to help with your homework and we want you to know that you can trust us with your personal information.
 
@@ -33,13 +33,13 @@ If you are under age 13, a law called the Children's Online Privacy Protection A
 
 Note to parents of children under the age of 13: You are welcome to call us at (800) 411-1970 to review any identifiable information we have collected about your child. If you desire, you may request that we delete this information and/or specify that we collect no more of your child's information. Please note that we will need to verify the identity of anyone requesting information about a child to ensure that the person is in fact the child's parent or legal guardian, and that a request for us to delete all personal information about a child requires us to cancel the child's tutoring account.
 
-### We Share Your Personal Information With Those Who Pay For Your Account and With Those Vendors Who Help Us Process Transactions 
+### We Share Your Personal Information With Those Who Pay For Your Account and With Those Vendors Who Help Us Process Transactions
 
-If your parents and/or your school pay for/subsidize the cost of your tutoring, we may share your Personal Information with them at their request. This includes the content of your tutoring sessions (transcripts) and the written comments you leave in post-session surveys. On the other hand, if you pay us for your own account, without the involvement of your parents or your school, we will not share your Personal Information with them. 
+If your parents and/or your school pay for/subsidize any of your tutoring, we may share your Personal Information with them at their request. This may include the content of any (or all) of your tutoring sessions (transcripts) as well as the written comments you leave in post-session surveys. For the purposes of our Privacy Policy, your school is considered to be subsidizing your tutoring if it has negotiated a special price or trial offer for its students. On the other hand, if you pay us for your own account, without the involvement of your parents or your school, we will not share your Personal Information with them.
 
-If you use a promotion code at Tutor.com to create an account, or to add minutes to an account, we may let the source of that promotion code know that you used that code. For example, if you sign up for Tutor.com as part of our tell a friend program, we may let your friend know that you redeemed their tell a friend offer. 
+If you use a promotion code at Tutor.com to create an account, or to add minutes to an account, we may let the source of that promotion code know that you used that code. For example, if you sign up for Tutor.com as part of our tell a friend program, we may let your friend know that you redeemed their tell a friend offer.
 
-We share your personal information with the vendors (companies) that help us process transactions, such as charging your credit card when you make purchases. Any such sharing is always done subject to a legal agreement that requires them to keep your personal information strictly confidential. 
+We share your personal information with the vendors (companies) that help us process transactions, such as charging your credit card when you make purchases. Any such sharing is always done subject to a legal agreement that requires them to keep your personal information strictly confidential.
 
 ### We May Share Your Personal Information For Safety Reasons
 
@@ -47,9 +47,9 @@ If we have reason to believe that disclosing your Personal Identification is req
 
 ### Cookies
 
-Cookies are files that your Web browser puts on your computer when you visit a Web site. We use cookies to tell us how often you visit our site, and what pages you go to on our site. The cookie itself does not have personal information in it, so no one except Tutor.com can figure out who you are from our cookie.
+Cookies are files that your Web browser puts on your computer when you visit a Web site. We use cookies to tell us how often you visit our site, and what pages you go to on our site. Sometimes we use files from other companies (called third-party cookies) to help us see where people go on our website, to improve our services and the performance of our advertising. Unless you give us permission, the cookies we use do not store any personally identifying information. For example, If you choose the option to “remember my email address” on our login page, we will store the information we need to identify you on your next visit in a cookie on your computer.
 
-Sometimes we use files from other companies (called third-party cookies) to help us see where people go on our website, to improve our services. Third-party cookies do not contain any personally identifying information, and the third party can not figure out who you are, or contact you.
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.fetchback.com/optout.html).
 
 ### Links to Other Sites
 
@@ -60,6 +60,9 @@ Sometimes, we link to other sites. Tutor.com does not make these sites, and we c
 If you have any questions, comments or concerns about Tutor.com's privacy policy, you can contact us:
 
 Tutor.com  
-40 Fulton St  
-New York, NY 10038  
+9 East 40th St, 2nd Floor  
+New York, NY 10016  
 [direct@tutor.com](mailto:direct@tutor.com)
+
+  
+
