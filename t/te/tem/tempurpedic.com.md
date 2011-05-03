@@ -1,109 +1,150 @@
-> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924215939id_/http%3A//www.tempurpedic.com/customer_service/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tempurpedic.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503232726id_/http%3A//www.tempurpedic.com/customer-service/privacy-policy.asp) for the most accurate reproduction.*
 
-# Tempur-Pedic® - Mattresses, Pillows, Sleep Systems- Welcome to Bed.™
+# Privacy policy | Tempur-Pedic
 
-You know and trust Tempur-Pedic and we value your trust. We want you to know how we collect, use and protect information about our online guests.
+At Tempur-Pedic, we are committed to protecting your privacy and making it clear how we use your information. This privacy policy describes the kinds of information that we may collect about you; how we use that information; how we protect it; when we disclose it; and how you can access and control your information.
 
-## _What information about guests do we collect?_
+## Your consent
 
-## Information You Give Us
+By visiting our website, by requesting an information kit or other product detail, or by purchasing products directly from us (either on our website or by phone) you are indicating that you agree to these policies.
 
-We receive and may store any information you enter on our website or give to our website in any other way. For example, we collect information you provide when you place an order, register with us, send us an e-mail or call us. This information may include:
+## Information we collect
 
-  * your name
-  * your mailing address
-  * your e-mail address
-  * your phone number
-  * your credit card number
+There are three kinds of information we collect: “personal information“, “credit information“ and “non-personal“. There’s a difference in how we treat each type of information.
 
+### Personal information
 
+Personal information includes your name, address (both billing and shipping addresses), e-mail address credit card information, phone number and information about the products you purchase from us. We share your name, billing address, phone number and the products you purchase with the vendors we use to process your order and ship the products to you. We share your credit card information with the vendors who process the credit card purchase. We use your shipping address to ship your products to you and to send catalogs and other mailings to you. We use your billing address to verify your billing information. If you don’t want to receive mailings from us, please see the "How to control your information" section below.
 
-It may also include any other personal or preference information you provide to us. It may also include information you submit about other people, for example, the name and address of a gift recipient.
+### Credit information
 
-## Information from Other Sources
+Credit information is the information we use if you apply for financing through us. When you apply for Tempur-Pedic Financing or an alternative form of financing that we may offer, we pass your personal information directly to the bank(s) administering that account for us. We don’t store the information on our servers: rather we send it to the administering bank. Except for the bank(s) administering the lines of credit, we do not share your credit information either internally or externally with anyone else. Please note that “credit information“ as described in this paragraph is not the same as “credit card information“, which is part of your personal information.
 
-We may receive information about you from other sources. This may help improve the personalization of our service to you by providing better product recommendations or special offers that we think will interest you.
+### Non-personal information
 
-## Automatic Information
+Non-personal information includes the pages you visit on our website, how many clicks it takes to reach specific information, and the kinds of purchases you make on our site. This data is in an anonymous format and doesn’t contain any personal information about you. We share non-personal information about your website visits with vendors who help us administer our website or help us market our products.
 
-We receive and store certain types of information whenever you interact with our website. For example, we use "cookies" like many other websites. Through "cookies" we obtain certain types of information when your web browser accesses our website. There are utilities designed to help you visit websites anonymously. Although we cannot provide you with a personalized experience or certain services at our website if we cannot recognize you, we want you to be aware that these tools exist.
+### When we collect your information
 
-## What are "Cookies" and how do we use them?
+We collect information from you when you visit the site and when you do business with us.
 
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser. Cookies allow us to provide storage of items in your Cart between visits or improved services when viewing or shopping on our website.
+### When ordering and making a purchase
 
-The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. However, cookies allow you to take full advantage of some of our website's best features, so we recommend that you leave them turned on.
+When you place an order with us, either using our website or by phone, we collect your personal information. This includes your name, shipping and billing addresses, e-mail address, phone number, credit card information, and the details of your order. We collect such personal information to process your order, including collecting payment and shipping products to you.
 
-## _Does your website share information that it receives?_
+### When creating an online account
 
-## Tempur-Pedic
+When you set up an online shopping account, we collect your personal information. This includes your name, shipping and billing addresses and e-mail address. We collect such personal information to simplify doing business with us by retaining your information for return visits to our website.
 
-We share information we collect at our website within Tempur-Pedic. Tempur-Pedic may use this information to offer you products and services that may be of interest to you.
+### When signing up for promotional mail and e-mail
 
-## Carefully Selected Companies and Organizations
+When you sign up for promotional mail and e-mails or request a product information kit from us, we may collect your personal information. This may include your name, mailing address and e-mail address. We collect such personal information so we can send you product information and notice of special promotions.
 
-We may share information with carefully selected vendors, business partners and other organizations, which are not part of Tempur-Pedic. These companies and organizations may use the information we share to provide special opportunities and offers to you.
+### When registering a product
 
-## Service Providers
+When you register a Tempur-Pedic product with us, we collect your personal information. If you bought the product directly from us, we have your basic personal information, but we collect information about the specific item you purchased, including information like the serial number. We also optionally collect personal preference information, which includes questions about your household and your purchase decision. We collect personal preference information because it helps us in developing new products and marketing that meet consumers’ needs.
 
-Our website may also share information with companies that provide support services to us (such as a printer, mailing house or web host) or that help us market our products and services. These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose.
+### When contributing to our website
 
-## Protection of Our Website and Others
+When you submit product reviews, product testimonials, or other content to our website, we collect some personal information. This may include your name and e-mail address. We collect personal information because it helps us ensure we are giving accurate and authentic feedback about our products.
 
-We may disclose information you provide to our website when we believe disclosure is appropriate to comply with the law; to enforce or apply our Terms + Conditions and other agreements; or to protect the rights, property or safety of our website, our users or others.
+### When visiting our website
 
-## Business Transfers
+When you visit our website, we collect non-personal information about your visit. This includes information about your Internet service provider, the type of computer and web browser you are using, and the pages you click on when you visit the site. We collect non-personal information because it helps us to keep our site working properly with the many types of computers and browsers people use to view our site, and because knowing this information helps us to determine which information on our site is most valuable to people who visit.
 
-If some or all of the business assets of our website are sold or transferred, we generally would transfer the corresponding information regarding our guests. We also may retain a copy of that guest information.
+### How we collect information
 
-## _What choices do I have?_
+We collect information in three ways: when you give us your information during checkout (on our website or over the phone) or using one of the forms on our website, when you visit our website and click through the pages, and when we collect information from other sources (such as information kit requests and calls to our 1-800 Number).
 
-## E-Mails
+### Information you give us
 
-If you provide our website with your e-mail address, you may receive e-mails from us. If you do not want to receive marketing or promotional e-mails from us, please email [drsupportemail@tempurpedicdr.com](mailto:drsupportemail@tempurpedicdr.com). You may still receive select e-mails from us for Order Notification.
+When you purchase a product from us, either on our website or by phone, we ask you for personal information so we can complete your order. We also collect personal information when you set up an online shopping account, sign up for promotional mail or e-mail, and when you call us to request an information kit or to learn about products. The personal information that you give us may be combined with other personal information (such as order history and demographic information) from third-party sources to make our marketing efforts more efficient.
 
-## Sharing with Other Companies
+### Information we collect when you visit our website
 
-We may share information with carefully selected vendors, business partners and other organizations that are not part of Tempur-Pedic. These companies and organizations may use the information we share to provide special opportunities and offers to you.
+When you visit our website, we collect non-personal information about your visit using common website tracking technologies. These include your Internet Protocol ("IP") address, “cookies“, and action tags.
 
-If you do not want us to share information you provide to our website with vendors, business partners and other organizations that are not part of Tempur-Pedic, please email [drsupportemail@tempurpedicdr.com](mailto:drsupportemail@tempurpedicdr.com).
+IP address is the number automatically assigned to your computer whenever you access the Internet that we use to help diagnose problems with our server and to administer our website; this number does not identify your name, email address, or other personal information.
 
-## More Information
+Cookies are computer files that act as an identification card for your computer. When you visit our site, unique cookies are placed on your browser. The purpose of the cookie is to distinguish your browser from other browsers that visit our site. Cookies make it easier for you to use our website. We use a cookie in order to remember the products in your shopping cart, both while you are viewing other areas on our website and when you return to our site. We also use cookies to gather aggregate usage information about the numbers and frequency of visitors to our website and individual pages of our website, in order to improve the appearance and usability of the website. Working through our third party digital advertising agency (along with its ad serving technology partner and several partnered networks of publishers) we also use cookies to track your interests and then provide you with customized banner ads that we think will be more useful because they are based on past purchase and page visits to our site. These cookies do not collect personal information about you, nor do we combine information collected through these cookies with other personal information about you. Cookies may remain on your hard drive after you leave our website. You may decline to accept cookies by modifying your Web browser settings. If you choose to decline cookies, you may not be able to sign up for or use certain features of the website that depend on your Web browser accepting cookies (such as keeping products in your cart).
 
-Email [drsupportemail@tempurpedicdr.com](mailto:drsupportemail@tempurpedicdr.com) if you have further questions about our e-mail unsubscribe process.
+Action Tags recognize specific cookies that have been placed on your browser by us and by networks of publishers that are partnered with our digital advertising agency. They can convey information that a browser with a recognized cookie has accessed a page or a part of a page on our website, depending on where the action tag is located on our site. For instance, an action tag located on our purchase confirmation page will record that a browser with a recognized cookie has made a purchase. Action tags do not, however, tell us that a specific person has purchased a product because the cookie is only the web browser’s identification card. It does not obtain any Personally Identifiable Information. We use Action Tags to measure the effectiveness of our digital advertising campaign and to make our website more relevant to visitors by seeing what pages are visited and whether visits result in a purchase. Action Tags also allow our digital advertising agency to select and serve banner advertisements to your browser that you find most interesting and relevant.
 
-## _What about links to and from other websites?_
+### Information we collect from other sources
 
-Our website may offer links to other sites. Other sites have their own policies regarding privacy. If you visit one of these sites, you may want to review the privacy policy on that site. In addition, you may have linked to our website through another site. For example, in certain cases you may have linked to tempurpedic.com through banner advertising on another site. In such cases the site you linked from may collect information from people who click on the banner or link. You may want to refer to the privacy policies on those sites to see how they collect and use this information.
+When you sign up for catalogs from companies, many of those companies share your personal information with trusted partners who will also send you catalogs. We belong to a group of companies, all of them screened for their business practices, which share the names and addresses of people who agree to receive our printed catalogs. We may receive other information from these sources including updated delivery and address information, which we use to correct our records and deliver catalogs and promotions accurately.
 
-## _Application of this privacy policy_
+### How to control your information
 
-This privacy policy applies to all information collected or submitted on our website.
+After you give us your personal information, you can access and check, add, change or remove the information we have on file for you.
 
-In addition, other members of Tempur-Pedic may obtain information independently from their transactions and experiences with you or from other sources. This privacy policy does not apply to that information.
+### Adding your name to our lists
 
-## Children
+If you haven’t ordered from us, but want to receive catalogs or e-mails from us, you can add your name to our mailing lists. You can receive printed catalogs, e-mails, or both. We use our mailing lists to send notice of new products and special offers. Add your name to our lists [here](http://www.tempurpedic.com/customer-service/contact-preferences.asp).
 
-We recognize the particular importance of protecting privacy where children are involved. We are committed to protecting children's privacy on the Internet and we comply fully with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personally identifiable information from children under the age of 13. If a child has provided our website with personally identifiable information, we ask that a parent or guardian call 1-800-440-0680 or email [drsupportemail@tempurpedicdr.com](mailto:drsupportemail@tempurpedicdr.com) and we will delete the information about the child from our files.
+### Removing your name from our lists
 
-## Your Consent
+If you decide you don’t want to receive mailings from us, you can remove your name from our mailing lists. You can stop receiving printed mailings, e-mails, or both. Remove your name from our lists [here](http://www.tempurpedic.com/customer-service/contact-preferences.asp).
 
-By using our website, you consent to our use of information that is collected or submitted as described in this online privacy policy. We may change or add to this privacy policy so we encourage you to review it periodically. To help you track changes we will include a history of material changes at the end of this privacy policy. This history will begin as of the end of December 2007 and will include the date the privacy policy was last updated and a description of any material changes.
+### Changing the information we have on file
 
-## _Security_
+If your personal information changes (like when you move), you can change the information we have on file for you.Change your personal information [here](http://www.tempurpedic.com/customer-service/contact-preferences.asp).
 
-## Our Commitment to Data Security
+### Accessing your personal information
 
-We have appropriate physical, electronic and procedural security safeguards to protect and secure the information we collect.
+You may contact us (see contact details below) to check what personal information we have on file for you. To protect your personal information against unauthorized disclosure, we will ask you to appropriately identify yourself before responding to your inquiries.
 
-## Secure Sockets Layering (SSL)
+You can also contact us by phone, e-mail or mail to add, remove or change your information:
 
-Our website uses Secure Sockets Layering (SSL) to encrypt your personal credit information, including your credit card number, before it travels over the Internet. SSL technology is the industry standard for secure online transactions. Because we use SSL, placing an order online at our website is just as safe as giving your credit card number over the phone.
+Phone: 800-821-6621 (Customer Service)  
+E-mail: customer.service@tempurpedic.com  
+Mail: Tempur-Pedic, Customer Service, 1713 Jaggie Fox Way, Lexington, KY 40511
 
-## Safe Shopping Guarantee
+## Sharing your information
 
-Our security measures are designed to prevent anyone from stealing and using your credit card number. In addition, consumer protection laws protect you against the unauthorized use of your credit card. Under the Fair Credit Billing Act, if your credit card is used without your authorization, your liability for those fraudulent charges cannot exceed $50. So, if someone steals your credit card or your credit card number, your liability is limited to $50 no matter how much the thief charges to your account. If your credit card provider does hold you liable for any part of this $50, we will cover the entire liability for you, up to the full $50.
+### Social networking
 
-We will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at our website while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+We offer you the opportunity to share information about our products and our website using “share this“ functionality. We offer this functionality in order to generate interest in our products among the members of your social networks and to permit you to share opinions and recommendations about our products with your friends. Sharing either personal or non-personal information with a social network may result in that information being collected by the social network hosting company or may result in that information being made public.
 
-LAST UPDATED December 2007
+### Service providers
+
+We employ other companies and individuals to perform certain services and functions on our behalf. These include operating and maintaining our website, taking orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing consultation and assistance, distributing customer surveys, processing credit card payments, and providing customer service. These companies have access to the personal information needed to perform their services or functions, but may not use it for other purposes.
+
+We also work with third parties to serve advertisements about our company across the web. These third parties my use tracking technologies (described under “How We Collect Information“ above) to collect anonymous data about users who view or interact with advertisements on our website. We do not provide any personal information about the users to these third parties. However, by interacting with, viewing, or clicking on an ad or visiting our website, the third party might collect non-personally identifiable information about you like an anonymous cookie ID, the specific ad posted on the site, and the place and time of ad delivery. Third parties may use tracking technologies, such as cookies and action tags when serving ads. These commonly used technologies are used for auditing, research, and reporting purposes. Third party cookies and action tags are subject to the privacy policy of the company placing them. For information about opting out of third party cookies, you may visit the Network Advertising Initiative at [www.networkadvertsing.org](http://www.networkadvertsing.org/).
+
+### For your protection and ours
+
+We may release personal information when we believe it is appropriate to comply with applicable law regulation, legal process, or governmental request; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Tempur-Pedic, our customers, our employees or others.
+
+### Business transfer
+
+As we develop our business, we might sell or buy subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policy (unless, of course, the customer consents otherwise). Also, in the unlikely event that Tempur-Pedic or substantially all of its assets are acquired, customer information will be one of the transferred assets.
+
+### Sharing
+
+We may share your name and mailing address with other reputable companies so they may send you catalogs about products of potential interest. We only share your name and address; we do not share your e-mail address, credit card information or information about the purchases you make from us.
+
+## How we protect your personal information
+
+We want you to feel confident about using our website or making purchases directly from us, and we are committed to protecting the personal information we collect. We have implemented appropriate physical, electronic, administrative and organizational security measures to protect the personal information that you provide to us against unauthorized access or disclosure. Our security system includes protocols to authenticate users and to restrict access. If we transmit personal information across public networks and wirelessly, the data will be encrypted.
+
+In the unlikely event that your personal information is accessed without authorization or disclosed to unauthorized individuals, we will promptly comply with any data breach notification requirements imposed under applicable law.
+
+### Children's privacy
+
+We do not knowingly sell merchandise to or direct advertising toward persons under 13 years of age (“children“). We do not knowingly collect any PII from children.
+
+### Links to external websites
+
+If any part of our website links you to other websites, those websites do not operate under this privacy policy. We recommend that you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information.
+
+## Changes to this policy
+
+We may update this policy in the future. We will post at the top of this Privacy Policy the date on which it was most recently updated.
+
+## How to contact us
+
+If you have questions about our privacy policy or the privacy and security of your information, you can contact us in one of the following ways:
+
+E-mail: [privacy.compliance@tempurpedic.com](mailto:privacy.compliance@tempurpedic.com)  
+Mail: Tempur-Pedic, Privacy Compliance, 1713 Jaggie Fox Way, Lexington, KY 40511
