@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infosecisland.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124031501id_/https%3A//www.infosecisland.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosecisland.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503222507id_/https%3A//infosecisland.com/privacy.html) for the most accurate reproduction.*
 
 # Infosec Island
 
