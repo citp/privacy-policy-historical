@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtendmedia.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724071628id_/http%3A//www.xtendmedia.com/index.php/About-XTEND/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtendmedia.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503180109id_/http%3A//www.xtendmedia.com/index.php/About-XTEND/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ In addition, We collect information from you for the purpose of opening an accou
 **NON-PERSONAL INFORMATION**  
 We automatically, directly or on behalf of our Clients in connection with your use of our services, collect non-personal information such as IP addresses during your access and use of the Site to help diagnose problems with our server, and to identify ways of making our Site better. This information is not linked to anything personal. 
 
-**USE OF GIDITAL IDENTIFIERS**  
+**USE OF DIGITAL IDENTIFIERS**  
 A digital identifier is information that a site puts on your hard disk so that it can remember something about you at a later time (more technically, it is information for future use that is stored by the server on the client side of a client/server communication, such as "cookies"). We automatically use 'digital identifiers' for tracking transactions, identification, security and the user characteristics as set forth herein. No Personally Identifiable Information is collected by use of digital identifier and We use the information collected through the use of such digital identifier to analyze trends, track movements and transactions, retargeting and behavioral targeting for example, in providing you with advertisements that are more relevant to your interests and in order to gather aggregate demographic information and to produce statistical analysis and reports for our benefit and for the benefit of our Clients (collectively the " **Non PII Purposes** "). 
 
 In addition We use various third party ad serving technology to serve ads (. As part of the ad delivery process, the third party ad serving party may a digital identifier on your browser and use information (not including your name, address, email address or telephone number) about your visits to this and other web sites to track how many people have seen it. These digital identifiers cannot be used to identify an individual; they can only be used for Non PII Purposes. 
@@ -30,7 +30,7 @@ If you would like to disable the digital identifiers used by us or "third party"
 We employ industry standard security measures to ensure the security of all data. Any data that is stored on our servers is treated as proprietary and confidential and is not available to the public. We maintain an internal security policy with respect to the confidentiality of your data, allowing access only to those employees or third parties who have a need to know such information. While We take measures to protect your information, please know that (i) no computer system is immune from intrusion; and (ii) information transmitted to the Site may need to pass through many systems in order to process such information. Therefore, We cannot guarantee the absolute security or confidentiality of information held by us. 
 
 **INFORMATION SHARING**  
-We may use the collected Personally Identifiable Information and non-personal information for any legally permissible purpose in our sole discretion, including but not limited to those detailed below: 
+We may use the collected Personally Identifiable Information and non-personal information for any legally permissible purpose in our sole discretion, including but not limited to those detailed below:
 
 * We may share information We collect or provided to us with affiliated companies and Clients, for use in their ad serving and marketing programs as aforesaid on an individual basis with each Client and without sharing data and information between or among our various different Clients. 
 * We may share your information with various third party vendors that are not part of the Company. 
