@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pregnancyguideonline.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627212250id_/http%3A//www.storknet.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancyguideonline.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503230535id_/http%3A//www.storknet.com/privacy.htm) for the most accurate reproduction.*
 
 # StorkNet - The Pregnancy and Parenting Online Community
 
@@ -15,19 +15,15 @@ StorkNet has created this privacy statement in order to demonstrate our firm com
 
 Doerr Consulting is the legal owner of StorkNet and is the sole owner of the information collected on this site. We will never share, sell, or rent your personal information in ways that are not disclosed in this statement without your consent. Any breach of this policy by our staff will result in immediate dismissal. 
 
-**Information Automatically Logged**
-
-We use your IP address to help diagnose problems with our server and to administer our website, monitor site usage and help us collect broad demographic information. Such statistics help us identify popular areas so we can improve the visitor experience.
+We use your IP address to help diagnose problems with our server and to administer our website, monitor site usage and help us collect broad demographic information. Such statistics help us identify popular areas so we can improve the visitor experience. 
 
 **Cookies**
 
 The StorkNet message boards (at StorkNotes.com) use cookies so you don't have to re-enter your user name and password each time you visit the boards. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. Cookies are not executable pieces of code and cannot do anything to your hard drive. They are merely pieces of "text" stored on your computer. They are easy to delete from your hard drive (and it's not a bad idea to do this once in awhile).
 
-If you would like to know more about cookies, read the US Government Information Bulletin (I-034) regarding cookie technology at <http://www.ciac.org/ciac/bulletins/i-034.shtml>.
-
 **Advertisers**
 
-We use an outside advertising company to display some of the ads on our site. These ads may contain cookies. While we use cookies on our message boards, cookies received with banner ads are collected by our ad agency, and we do not have access to this info. 
+We use outside advertising companues to display some of the ads on our site. These ads may contain cookies. While we use cookies on our message boards, cookies received with banner ads are collected by our ad agencies, and we do not have access to this information. These companies may use information ( **not** including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [**click here**](http://networkadvertising.org/managing/opt_out.asp). 
 
 **Message Board Registration**
 
@@ -35,11 +31,7 @@ Our Message Boards require registration to post, and the registration form requi
 
 **Public Forums**
 
-StorkNet makes message board forums and email (via StorkNetMail.com) available to its users. Please be aware that any information that is disclosed in these areas becomes public information, and care should be exercised when deciding to disclose personal information. StorkNet cannot be responsible for the information users post in these public areas including other websites.
-
-**Email Service**
-
-Users of our free email service are required to complete a personal profile with everyone.net (our email service provider). Please review **[everyone.net's privacy statement](http://www.everyone.net/main/html/p_policy.html)** for more details.
+StorkNet makes message board forums available to its users. Please be aware that any information that is disclosed in these areas becomes public information, and care should be exercised when deciding to disclose personal information. StorkNet cannot be responsible for the information users post in these public areas including other websites.
 
 **Surveys and Contests**
 
@@ -61,4 +53,4 @@ If a user elects to use our referral service for informing a friend about our si
 
 If you have any questions about this privacy statement or the practices of this site, you may contact:  
 Maribeth Doerr  
-**[contact us](https://web.archive.org/web/20090627212250id_/http%3A//www.storknet.com/contactus.htm)**
+**[contact us](https://web.archive.org/web/20110503230535id_/http%3A//www.storknet.com/contactus.htm)**
