@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaeexchange.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103095842id_/http%3A//www.uaeexchange.com/uae/validate_country.php%3Fmlink%3D23%26slink%3D0%26sslink%3D0%26pageid%3D28%26ctry%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaeexchange.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503222307id_/http%3A//www.uaeexchange.com/uae/validate_country.php%3Fmlink%3D23%26slink%3D0%26sslink%3D0%26pageid%3D28%26ctry%3D3) for the most accurate reproduction.*
 
 # uaeexchange - money transfer | online money transfer | money transfer service
 
