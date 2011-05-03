@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winnou.net privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102165637id_/http%3A//www.winnou.com/content/view/130/45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnou.net privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503074153id_/http%3A//www.winnou.com/content/view/130/45) for the most accurate reproduction.*
 
 # Winnou - School and College Management Software, Hyderabad - Privacy Policy
 
