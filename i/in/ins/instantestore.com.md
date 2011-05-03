@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantestore.com privacy policy that was archived on 2010-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101007172835id_/http%3A//www.instantestore.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantestore.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503231147id_/http%3A//www.instantestore.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # InstanteStore Privacy Policy
 
