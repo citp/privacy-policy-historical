@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobicity.com.au privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120182435id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobicity.com.au privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503195629id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy | MobiCity
 
@@ -52,7 +52,7 @@ We may use an "email management system" to automate the management and dispatch 
 
 The kind of personal information we collect about you 
 
-The tracking code allows us to collect personal information about you, such as whether you received and opened an email, and whether you clicked through to any links to our website. This information that we collect about you will be stored by our email management system. 
+The tracking code allows us to collect personal information about you, such as whether you received and opened an email, and whether you clicked through to any links to our website. This information that we collect about you will be stored by our email management system. If you have joined our customer base and wish to be removed from our list at any time in the future, please follow the links within the email newsletter to do so. We also use Google's remarketing system which utilise's cookies in your web browser to show you dedicated content through Google's content system. To disable this service please remove the cookie from your web browser. 
 
 The purpose for which we collect the information about you 
 
@@ -74,6 +74,6 @@ If you would like to access details of the personal information held by Simply M
 
 Attn: Privacy Officer  
 MobiCity  
-Shop 1, 196 Wynnum Rd,  
-Norman Park,   
-Qld 4170
+1a, 36 Agnes St  
+Fortitude Valley,   
+QLD 4006
