@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101204441id_/http%3A//www.soul-source.co.uk/index.php/articles.html%3Frecord%3D504) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soul-source.co.uk privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503075503id_/http%3A//www.soul-source.co.uk/index.php/articles.html%3Frecord%3D504) for the most accurate reproduction.*
 
 # Privacy Policy - Soul Source
 
