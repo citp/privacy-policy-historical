@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minuteworkers.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215170109id_/http%3A//www.minuteworkers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minuteworkers.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504000634id_/http%3A//www.minuteworkers.com/privacy.php) for the most accurate reproduction.*
 
 # Minute Workers - Turning Your Minutes Into Money
 
