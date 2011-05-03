@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pc-cleaners.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902092638id_/http%3A//www.pc-cleaners.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pc-cleaners.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503050207id_/http%3A//www.pc-cleaners.com/privacypolicy.php) for the most accurate reproduction.*
 
 # PC Cleaner
 
@@ -23,13 +23,11 @@ For the purposes of this Privacy Statement, "corporate affiliates" means any ent
 
 
 
-Information we may request includes your name, e-mail address, home address and telephone number. If you make an order, we may ask for your home address, telephone number, credit card number and billing information. Job applicants may be requested to provide information such as educational background, employment experience and job interest. If you contact us for e-mail technical support, we may ask you for information on which product you are using, which version of Windows you are using, the nature of your issue, and any other information pertinent to the support request. If you use our products, in addition to your name and e-mail address, we will also receive technical information regarding your computer specifications. We may also collect your business or company information, title or department and other information (including demographic information). Any forms that you may fill in will indicate whether information requested is mandatory or voluntary. 
+Information we may request includes your name, e-mail address, home address and telephone number. If you make an order, we may ask for your home address, telephone number. Job applicants may be requested to provide information such as educational background, employment experience and job interest. If you contact us for e-mail technical support, we may ask you for information on which product you are using, which version of Windows you are using, the nature of your issue, and any other information pertinent to the support request. If you use our products, in addition to your name and e-mail address, we will also receive technical information regarding your computer specifications. We may also collect your business or company information, title or department and other information (including demographic information). Any forms that you may fill in will indicate whether information requested is mandatory or voluntary. 
 
 You can browse the PC Cleaners website without creating an account, but you may need to create an account when you purchase something. When you create an account at PC Cleaners.com, you can choose to save your billing and shipping information in the "My Account / View or Modify My Account Information" section of the PC Cleaners website. You may log in to your account to change or delete this saved information anytime.
 
 We may collect information about your visits to our websites, including the pages you view, the links you click, search terms you enter and other actions you take in connection with the PC Cleaners websites and services. We may also collect certain information from the browser you used to come to our website, such as your Internet Protocol ("IP") address, browser type and language, access times, the Uniform Resource Locator ("URL") of the website that referred you to our website and to which URL you browse away from our site if you click on a link on our site.
-
-When you receive newsletters or promotional e-mails from PC Cleaners, we may use web beacons (described below), customized links or similar technologies to determine whether the e-mail has been opened and which links you click. The data is used to help us determine the effectiveness of our communications with you, and to provide you with more focused communications.
 
 In order to offer you a more consistent and personalized experience in your interactions with PC Cleaners, information collected through one source may be combined with information obtained through other PC Cleaners resources. We may also supplement the information we collect with information obtained from other parties as well.
 
@@ -51,15 +49,9 @@ Personal information collected may be stored and processed in the United States 
 
 #### **Disclosing Personal Information**
 
-We may share your personal information with corporate affiliates to carry out transactions you request or to make our business or that of our corporate affiliates more responsive to your needs. We may also disclose your personal information in connection with law enforcement, fraud prevention, or other legal action; as required by law or regulation; or if PC Cleaners reasonably believes it is necessary to protect PC Cleaners, its customers or the public. In addition, we may share your personal information with business partners that help PC Cleaners carry out transactions you request or that help PC Cleaners to customize, analyze and/or improve our communications or relationship with you, and then only with business partners who share PC Cleaners's commitment to protecting your personal information. Except as described above, we will not disclose your personal information to third parties for their marketing purposes unless you have provided consent.
+We will never share your information with third parties.
 
 As we continue to develop our business, we might sell or buy products, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy policy (unless, of course, you consent otherwise). Also, in the event that PC Cleaners, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
-
-#### **How You Can Access Your Information**
-
-PC Cleaners wants to help you keep your personal information accurate. To view or edit your personal information that has been stored online, please visit the "My Account / View or Modify My Account Information" section of the PC Cleaners.com website. For the security of your account, you will be required to sign in with your account name and password.
-
-If you wish to exercise the access rights you have in law concerning the use of your personal information by PC Cleaners, please contact us.
 
 #### **How We Secure Your Personal Information**
 
