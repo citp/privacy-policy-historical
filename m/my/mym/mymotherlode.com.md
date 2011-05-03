@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymotherlode.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227005604id_/http%3A//mymotherlode.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymotherlode.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504014916id_/http%3A//www.mymotherlode.com/privacy-policy.php) for the most accurate reproduction.*
 
 # myMotherLode.com Privacy Policy - Sonora Mother Lode: News, Weather, Traffic, Classifieds, Yellow Pages - myMotherLode.com
 
