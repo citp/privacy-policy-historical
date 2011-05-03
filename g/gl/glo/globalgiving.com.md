@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009010843id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503234057id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalGiving
 
 GlobalGiving values you and respects your privacy. We collect information to support our relationship with you, improve our services, and communicate about promotions or special services. GlobalGiving recognizes that we must maintain and use information responsibly. 
 
 GlobalGiving adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. Department of Commerce. 
+
+[We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)  
+[](http://www.export.gov/safeharbor)
 
 This policy describes what personal information we collect and how we use it. You can always find the most current version of our privacy policy at [www.globalgiving.org/aboutus/privacypol.html](https://web.archive.org/aboutus/privacypol.html). 
 
@@ -66,8 +69,9 @@ We will share your personal information with our agents, representatives, servic
 Unless you ask us not to, we also share your personal information when you make a donation: 
 
   * When you donate to a registry, fundraiser, or giving group, we share your name and the date and amount of your donation with the person who created the fundraiser, registry, or group.
+  * When you make a donation that is part of a campaign sponsored by your employer, and/or when your employer is being asked to match your donation, we will share your name, email address and the amount of you donation with your employer.
   * When you donate to a project, we share your name and contact information and the amount of your donation with the project leader.
-  * Each time you make a donation, however, we will give you the opportunity to tell us not to share your personal information in the ways described above.
+  * Each time you make a donation, however, we will give you the opportunity to tell us not to share your personal information in the ways described above (except in the case of employer matched donations).
 
 
 
