@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the paradisehunter.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202201148id_/http%3A//www.paradisehunter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paradisehunter.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504010834id_/http%3A//www.paradisehunter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Paradise Hunter
-
-Privacy Policy  
-
 
 Paradise Hunter Inc. respects the privacy of visitors to our website. 
 
