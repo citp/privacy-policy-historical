@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webcam.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203181259id_/http%3A//www.webcam.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcam.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503214538id_/http%3A//www.webcam.com/privacy.html%3F) for the most accurate reproduction.*
 
-# WebCam - Privacy
+# WebCam | Privacy
 
 [Home](http://www.webcam.com/) / Privacy Policy
 
@@ -53,5 +53,3 @@ c/o Ariel Secretaries Limited
 1st Flr, Office 102  
 P.O. Box 57528  
 3316 Limassol - Cyprus
-
-WebCam LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! WebCam is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
