@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the moneynowusa.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227215914id_/http%3A//www.moneynowusa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneynowusa.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503232052id_/http%3A//www.moneynowusa.com/privacy.html) for the most accurate reproduction.*
 
 # Bad Credit Loans :: Personal Loans :: Payday Loans :: Unsecured Cash Advances and Cash Call Loans from Money Now USA
 
-MoneyNowUSA.com ("Company," "we" or "us") reserves the right to revise this Privacy Policy at any time simply by posting such revision, so we encourage you to review it periodically. In order to track any changes to this Privacy Policy, we will include a historical reference at the top of this document. 
+**Notification of Privacy Statement Changes**
+
+MoneyNowUSA.com may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+
+MoneyNowUSA has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 480-365-0335. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 This Privacy Policy will tell you, among other things: 
 
@@ -35,6 +39,8 @@ We collect information about you when you register on one of our websites. This 
 * date of birth   
 * gender 
 
+Please note that users can not update or delete previously submitted information. If your information (such as your email address) should change, we ask that you re-submit a registration form or request. 
+
 **Publisher Partners**
 
 When you complete a registration or offer form that is hosted by one of our website publisher partners on our behalf, the website publisher partner may submit all or a portion of the information that you submitted on the form to the Company. This information may include, but is not limited to: your IP address, e-mail address, name, mailing address, telephone number, date of birth, gender, and payment information; information about your background, interests, health, education, career goals, and shopping preferences; and any other information you provide to our website publisher partner. 
@@ -45,13 +51,15 @@ We may receive information about you, including but not limited to your IP addre
 
 **Automatic Information/Digital Identifiers**
 
-We may automatically receive and store certain types of information about you through the data sources listed above. 
+We may automatically receive and store certain types of information about you through the data sources listed below. 
 
 You may be familiar with the term "cookies," which are unique alphanumeric identifiers that store information on your computer. A cookie is placed on your computer when your web browser accesses our website. We use cookies for tracking transactions and the user characteristics explained in detail throughout this Privacy Policy. If you choose, there are utilities available for purchase from independent software providers to install on your computer as well as tools/preferences you can choose through most web browsers to make website visits anonymous. Of course, cookies let you have a more satisfying website experience, so we recommend that you leave them turned on. 
 
 We also collect information through our web server applications. This information includes your Internet Protocol or "IP" address, date/time stamp, browser type, and referring URL. 
 
 Additionally, we may use pixel tracking technology to track the completion of transactions with us or our advertisers, the source information for those transactions, and your IP address, date/time stamp, browser type, and referring URL. 
+
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by MoneyNowUSA.com only and does not cover the use of cookies by any advertisers. 
 
 **Government Forms**
 
@@ -60,6 +68,10 @@ The Company may be required to create, collect, maintain, and submit certain inf
 **HOW DO WE USE THIS INFORMATION?**
 
 We may use the collected PII and Non-PII for any legally permissible purpose in our sole discretion, including but not limited to those explained below. 
+
+**Customer Testimonials/Comments/Reviews**
+
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. 
 
 **Pre-select/Pre-fill Offers**
 
@@ -129,7 +141,7 @@ Should the Company choose to sell or transfer business assets, it is possible th
 
 **Marketing Communications**
 
-By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications from the Company and its third party marketing partners, you can discontinue the communications by clicking here and following the opt-out instructions. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account. 
+By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications from the Company and its third party marketing partners, you can discontinue the communications by clicking [here](http://www.money4nowusa.com/unsubscribe.aspx) and following the opt-out instructions. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account. 
 
 **WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?**
 
@@ -141,14 +153,17 @@ This Privacy Policy applies to all information collected by or submitted to the 
 
 **WHAT IS THE POLICY WITH RESPECT TO COMMUNICATING WITH CHILDREN?**
 
-We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. In particular, our intention is to fully comply with the Children's Online Privacy Protection Act ("COPPA"). Per COPPA guidelines, we do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, please contact us and we will delete the information about the child referenced from our files. 
+We recognize the unique privacy concerns regarding children. We are committed to carefully protecting privacy where children are involved no matter the point of contact. 
+
+We do not knowingly collect PII from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with PII through any point of contact, please contact us and we will delete the information about the child referenced from our files. 
 
 **SECURITY**
 
-There is no such thing as complete security on the Internet or otherwise. The Company uses various security techniques on our websites to help protect against the loss, misuse or modification of information we've collected from you. When you access your personal information or transmit information to us, that information is stored on servers that we have taken steps to protect from unauthorized access or intrusion. While we strive to protect your information, the Company cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with the Company, its partners and affiliates. 
-
-**LIMITATION OF LIABILITY**
-
-**YOU UNDERSTAND AND AGREE THAT ANY DISPUTE OVER PRIVACY IS SUBJECT TO THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, AS WELL AS THE TERMS AND CONDITIONS OF THIS WEBSITE (INCLUDING LIMITATIONS ON DAMAGES). YOU AGREE THAT THE COMPANY'S LIABILITY FOR ANY BREACH OF THIS PRIVACY POLICY SHALL BE LIMITED TO THE VALUE OF THE TRANSACTIONS OR SERVICES PROVIDED TO YOU BY THE COMPANY TO THE EXTENT SUCH CLAIM IS NOT OTHERWISE BARRED BY OUR TERMS AND CONDITIONS.**
+There is no such thing as complete security on the Internet or otherwise. The Company uses various security techniques on our websites to help protect against the loss, misuse or modification of information we've collected from you. When you access your personal information or transmit information to us, that information is stored on servers that we have taken steps to protect from unauthorized access or intrusion. While we strive to protect your information, the Company cannot ensure or warrant the security of any information you transmit to us. You acknowledge and assume this risk when communicating with the Company, its partners and affiliates. The transmission of sensitive information collected on our site is encrypted using secure socket layer technology (SSL). 
 
 Effective Date: June 2009 
+
+MoneyNowUSA  
+480-365-0335  
+17470 N Pacesetter Way  
+Scottsdale, AZ 85255
