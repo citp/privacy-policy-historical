@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenncria.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503143234id_/http%3A//www.jenncria.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenncria.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503071738id_/http%3A//www.jenncria.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,8 +16,8 @@ We also use third-party advertising partners on our website. Advertisers may sen
 
 ## DoubleClick DART Cookie
 
-  * Google, as a third party vendor, uses cookies to serve ads on JennCria Quality Directory
-  * Google's use of the DART cookie enables it to serve ads to users based on their visit to JennCria Quality Directory and other sites on the Internet.
+  * Google, as a third party vendor, uses cookies to serve ads on JennCria Quality Bid Links Directory
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to JennCria Quality Bid Links Directory and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
 
 
