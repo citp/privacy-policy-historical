@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620015735id_/http%3A//www.healthequity.com/NewAboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthequity.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503080518id_/http%3A//www.healthequity.com/NewAboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,20 +38,20 @@ We collect and use the information you provide us online to respond to your need
 
 **Use of "Cookies" on HealthEquity’s Web Sites** While visitors to our Web site(s) remain anonymous, we do occasionally utilize "cookies" to provide a more valuable experience. Such cookies are used only to enhance the customer’s experience. We do not use cookies for marketing purposes. (A cookie is a small text file sent by a Web server and stored on your hard drive in your browser. Cookies cannot "read" information about you from your computer or be used to "steal" information about you; cookies do not carry viruses and are not programs that can perform functions on your computer. Most browsers will allow you to disable cookies, or can be set to notify you when you receive a cookie, thus giving you the opportunity to decide whether or not to accept it.) 
 
-**ID's and Passwords**   
+**IDs and Passwords**   
 To access certain online services, you will need a User ID and a Password. This information may either be provided to you or you will be allowed to choose your own. The User ID and Password are designed to protect you by confirming your identity to our computer network systems, and are to be kept confidential. Our employees do not have access to your password. It is very important that you not share this information or allow a computer to "remember" your password, particularly if you are using a computer with public access such as one located in a library. For additional security, you may be required to change your password from time to time. 
 
 **Encryption and Security**   
 Information provided via the Web site is submitted within a secure session. These sessions utilize Secure Socket Layer (SSL) technology in order to ensure that the information is encrypted. 
 
-**Email**   
-Email, by nature, is generally not secure and may be intercepted and viewed by others. Therefore, you should refrain from sending any confidential or private information via email to us. However, should you request that we send your account information via e-mail; we will need to confirm your identity before any such information is released. Information provided via email will be maintained by us in order to comply with legal and regulatory requirements. 
+**E-Mail**   
+E-mail, by nature, is generally not secure and may be intercepted and viewed by others. Therefore, you should refrain from sending any confidential or private information via e-mail to us. However, should you request that we send your account information via e-mail; we will need to confirm your identity before any such information is released. Information provided via e-mail will be maintained by us in order to comply with legal and regulatory requirements. 
 
 **Links to Other Web Sites**   
 HealthEquity works with a number of other companies to ensure that we are providing the value and service you expect. Some of these companies offer "co-branded" or "alliance" products; others may be third parties who provide additional online products and services. You will see a disclosure on our site that alerts you when you are leaving our Web site. These parties often have their own privacy policies, and may have online data collection policies that differ from ours. Although we encourage these parties to adopt and follow privacy procedures, we are not responsible for their use of your personal information and our Privacy Notice does not cover their information practices. Therefore, for your protection, we recommend that you review the privacy notices provided on their Web sites. 
 
 **California Privacy Notice**   
-California Civil Code Section 1798.83 permits you, if you are a California resident to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to legal@healthequity.com or write us at Privacy Officer, HealthEquity, Inc., 15 West Scenic Pointe Drive, Draper, UT 84020. 
+California Civil Code Section 1798.83 permits you, if you are a California resident to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [legal@healthequity.com](mailto:legal@healthequity.com) or write us at Privacy Officer, HealthEquity, Inc., 15 West Scenic Pointe Drive, Draper, UT 84020. 
 
 We hope our Privacy Notice will help you understand how we collect and share information. If you have any questions, please contact us. 
 
@@ -60,5 +60,5 @@ We are required by federal and state law to provide you with a copy of our Priva
 **OPT OUT INSTRUCTIONS**   
 
 
-If you wish to be excluded from HealthEquity’s marketing efforts, simply call HealthEquity at 1-866-346-5800 (toll free).   
+If you wish to be excluded from HealthEquity’s marketing efforts, simply call HealthEquity at 866.346.5800 (toll-free).   
 
