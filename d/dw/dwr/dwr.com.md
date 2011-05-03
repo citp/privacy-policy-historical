@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwr.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526233004id_/http%3A//www.dwr.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwr.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503222510id_/http%3A//www.dwr.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service - Design Within Reach
 
@@ -40,7 +40,7 @@ Top
 
 **With whom does Design Within Reach share information?**
 
-As part of our commitment to your privacy, Design Within Reach adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We periodically make information, including aggregated information, available to selected third parties including but not limited to, those who share information for direct marketing purposes. You may instruct us not to share information with third parties by calling us at 1.800.944.2233, emailing us at [service@dwr.com](mailto:service@dwr.com) or writing to us at: Design Within Reach, 1 Montgomery St., 2nd Floor, San Francisco, CA 94104. Design Within Reach does not make your email address or phone number available to third parties.
+As part of our commitment to your privacy, Design Within Reach adheres to the guidelines and practices adopted by the Direct Marketing Association's "Privacy Promise to American Consumers." We periodically make information, including aggregated information, available to selected third parties including but not limited to, those who share information for direct marketing purposes. You may instruct us not to share information with third parties by calling us at 1.800.944.2233, emailing us at [service@dwr.com](mailto:service@dwr.com) or writing to us at: Design Within Reach, 700 Canal St., 3rd floor, Stamford, CT 06902. Design Within Reach does not make your email address or phone number available to third parties. 
 
 We may disclose your Data to a third party if we believe in good faith that the law or legal process requires it, to protect the rights or property of Design Within Reach or others, or as otherwise described in this privacy policy.
 
