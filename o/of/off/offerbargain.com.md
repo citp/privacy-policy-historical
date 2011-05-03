@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerbargain.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921134847id_/http%3A//offerbargain.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerbargain.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503155924id_/http%3A//www.offerbargain.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
 
 # - Privacy Policy
 
