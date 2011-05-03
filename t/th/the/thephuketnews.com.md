@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the thephuketnews.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503205144id_/http%3A//www.thephuketnews.com/Privatepolicy.php) for the most accurate reproduction.*
+
+# Phuket Newspaper | Phuket – Phuket news, events, jobs, classifieds
+
+### Privacy & Confidentiality Statement.
+
+We are committed to protecting your privacy. Authorized employees within the company and in the course of carrying out their normal work obligations only use any information collected from individual customers. 
+
+We constantly review our systems and data to ensure the best possible service to our customers. Client records are regarded as confidential and therefore will not be divulged to any third party unless authorised by you or if legally required to do so to the appropriate authorities. 
+
+We will not sell, share, or rent your personal information to any third party or use your e-mail address for unsolicited mail. Any emails sent by this Company will only be in connection with the provision of agreed services and products.
