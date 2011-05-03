@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaspersky.co.in privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922043644id_/http%3A//www.kaspersky.com/in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.co.in privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503095316id_/http%3A//www.kaspersky.co.in/privacy) for the most accurate reproduction.*
 
 # Privacy
 
