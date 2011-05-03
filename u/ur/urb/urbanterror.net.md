@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanterror.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231234306id_/http%3A//www.urbanterror.info/docs/texts/37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanterror.net privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503200730id_/http%3A//www.urbanterror.info/docs/texts/37) for the most accurate reproduction.*
 
 # Urban Terror Docs : Licences : Privacy Policy
 
@@ -6,9 +6,6 @@
 Privacy Policy
 
 ### Urban Terror Passport Privacy Policy
-
-  
-
 
 Thank you for visiting passport.urbanterror.net. We, Frozen Sand LLC, as owner of the game Urban Terror™ and Urban Terror Passport, appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information and whether we disclose that information to anyone.
 
@@ -42,7 +39,7 @@ If you have any concerns about our use of your information or about this Privacy
 
  _This Privacy Statement was last revised on June 21, 2009._
 
-_by - By Frozen Sand  -  Wednesday, 23 December 2009  -  viewed by 238 members and 4180 visitors_
+_by - By Frozen Sand  -  Wednesday, 23 December 2009  -  viewed by 306 members and 6514 visitors_
 
   
 
