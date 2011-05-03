@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coca-colahellenic.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610023503id_/http%3A//www.coca-colahellenic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coca-colahellenic.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503201138id_/http%3A//www.coca-colahellenic.com/privacy) for the most accurate reproduction.*
 
 # CocaColaHellenic - Privacy statement
 
@@ -8,7 +8,9 @@ By registering for any services on this site, you consent to the collection, use
 
 ## Information that we collect from you
 
-In general, you can visit this website without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. In addition, there are parts of this website where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request and where requested to register you to our website. We do this through the use of online forms and every time you e-mail us your details. The information collected from you may include your name, address, telephone, fax number, or e-mail address. You will find that it is not compulsory to provide us with any additional information we request which is not necessary or reasonable in order to provide you with the services you have requested. We may also collect information about you from e-mails or letters you send to us.
+In general, you can visit this website without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. In addition, there are parts of this website where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request and where requested to register you to our website. 
+
+We do this through the use of online forms and every time you e-mail us your details. The information collected from you may include your name, address, telephone, fax number, or e-mail address. You will find that it is not compulsory to provide us with any additional information we request which is not necessary or reasonable in order to provide you with the services you have requested. We may also collect information about you from e-mails or letters you send to us.
 
 ## Use of information collected
 
@@ -27,7 +29,9 @@ If you change your mind about being contacted in the future, please let us know.
 
 ## Disclosures
 
-The information you provide to us will be held on a server in UK and may be accessed by or given to our staff working outside UK and to third parties, including companies within the Coca-Cola Hellenic Group, to business partners, government bodies and law enforcement agencies, successors in title to our business and suppliers we engage to process data on our behalf, some of whom may be located outside the European Economic Area, who act for us for the purposes set out in this policy or for other purposes approved by you. In particular, please note that if you sign up for our corporate web-cast service, we will ask you to provide your consent to us passing your personal information to our web-cast agency in the USA in order for them to provide you with these services on our behalf. All of the parties mentioned above process information, fulfil and deliver orders and provide support services on our behalf. We may also pass aggregate information on the usage of our site to third parties but this will not include information that can be used to identify you.
+The information you provide to us will be held on a server in UK and may be accessed by or given to our staff working outside UK and to third parties, including companies within the Coca-Cola Hellenic Group, to business partners, government bodies and law enforcement agencies, successors in title to our business and suppliers we engage to process data on our behalf, some of whom may be located outside the European Economic Area, who act for us for the purposes set out in this policy or for other purposes approved by you. 
+
+In particular, please note that if you sign up for our corporate web-cast service, we will ask you to provide your consent to us passing your personal information to our web-cast agency in the USA in order for them to provide you with these services on our behalf. All of the parties mentioned above process information, fulfil and deliver orders and provide support services on our behalf. We may also pass aggregate information on the usage of our site to third parties but this will not include information that can be used to identify you.
 
 Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners.
 
