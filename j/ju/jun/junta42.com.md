@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the junta42.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102194210id_/http%3A//www.junta42.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junta42.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503224256id_/http%3A//www.junta42.com/Privacy.aspx) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Junta42
 
 Junta42 (a division of [Z Squared Media, LLC](http://zsquaredmedia.com/ "Z Squared Media, LLC")) collects registration and other information (including e-mail addresses) on many of its web sites. This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from Junta42 and appropriate third parties.
 
