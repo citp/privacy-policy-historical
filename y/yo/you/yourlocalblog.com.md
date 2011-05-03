@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlocalblog.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101104745id_/http%3A//www.yourlocalblog.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlocalblog.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503060508id_/http%3A//yourlocalblog.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Your Local Blog
 
