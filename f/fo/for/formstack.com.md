@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formstack.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620104807id_/http%3A//www.formstack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formstack.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503183758id_/http%3A//www.formstack.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Formstack
 
@@ -15,6 +15,9 @@ For statistical purposes, Formstack will gather certain information automaticall
 However, any information collected by Formstack may be shared if it is necessary to investigate, prevent or prosecute illegal activities, suspected fraud, violations to the Terms and Conditions, or as otherwise required by law or a valid government request (including, but not limited to, search warrants, subpoenas or court orders). Formstack may also share information if it is acquired by or merged with another company. In this event, Formstack will notify you before information is transferred and becomes subject to a different privacy policy. Formstack reserves the right to use and disclose any information collected that is not in personally identifiable form.
 
 A "cookie" is a small text file containing a unique identifier that our web server sends to a user's browser, and may be stored on a user's hard drive. Cookies are required to use Formstack services. If you have your browser set to reject cookies, your use of the Formstack services is likely to be interrupted. The cookies we use are not permanent.
+
+  
+Formstack participates in online advertising, including remarketing. Third party vendors, including Google, show Formstack ads on other sites on the internet. The vendors use cookies to serve Formstack ads based on a user's prior visits to the Formstack website. Users may opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).[](http://www.networkadvertising.org/managing/opt_out.asp%5D)
 
 Formstack is not responsible for the practices employed by websites linked to or from the Formstack website, nor the information or content contained therein. When you use a link from the Formstack website to another website, our Privacy Policy is no longer in effect. Browsing and interaction on any other website, including websites which have a link to the Formstack website, is subject to that website's own rules and policies.
 
