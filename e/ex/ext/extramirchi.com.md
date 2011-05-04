@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extramirchi.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230104549id_/http%3A//www.extramirchi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extramirchi.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504125355id_/http%3A//www.extramirchi.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
