@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagetraffic.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129075853id_/http%3A//www.pagetraffic.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagetraffic.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504214826id_/http%3A//www.pagetraffic.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PAGE TRAFFIC PRIVACY POLICY - A Search Engine Optimization Web Promotion
 
@@ -111,10 +111,12 @@ Contact Us
 
 Chicago:
 
-2614 N California  
-Chicago, IL 60647
+1900 West Chicago Ave   
+Chicago, IL 60622
 
-Ph: 800-718-7603
+Ph (Toll-Free US): 800-718-7603
+
+Outside US: 1-704-380-0113
 
 Delhi:
 
@@ -123,5 +125,5 @@ New Delhi 110024
 
 Ph: 91-9810178155
 
-PageTraffic Web Tech Pvt. Ltd. Copyrights 2002- 2010. All rights reserved.  
-[Search Engine Positioning](https://web.archive.org/) SEO Company India | Offices in New Delhi, Noida & Chicago
+PageTraffic Web Tech Pvt. Ltd. Copyrights 2002- 2011. All rights & trademark reserved.  
+[Search Engine Positioning](https://web.archive.org/) SEO Company India | Offices in Chicago, London, Los Angeles, New Delhi & Noida
