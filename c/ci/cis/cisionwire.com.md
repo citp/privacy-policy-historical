@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cisionwire.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225054844id_/http%3A//www.cisionwire.com/Footer/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisionwire.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504110552id_/http%3A//www.cisionwire.com/Footer/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Cision Wire
 
@@ -129,24 +129,3 @@ Washington, DC 20580
 ### Changes to this Safe Harbor Policy
 
 The practices described in this policy are current personal data protection policies as of December 22, 2009. We reserve the right to modify or amend this policy at any time consistent with the requirements of the Safe Harbor Principles and will provide appropriate public notice of such amendments. 
-
-#### Popular Tags
-
-[Bridge PR & Media Services](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/bridge-pr---media-services/) , [BSI](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/bsi/) , [BSI Kitemark](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/bsi-kitemark/) , [CEO](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/ceo/) , [Church of Scientology](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/church-of-scientology/) , [design](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/design/) , [Drivers](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/drivers/) , [Gift](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/gift/) , [Johan Risberg](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/johan-risberg/) , [Kungsleden](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/kungsleden/) , [meet a scientologist](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/meet-a-scientologist/) , [PR Coventry](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/pr-coventry/) , [PR Services](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/pr-services/) , [Research](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/research/) , [Saab](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/saab/) , [scientologist](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/scientologist/) , [scientology](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/scientology/) , [sustainable](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/sustainable/) , [Thomas Erséus](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/thomas-erseus/) , [TLK Fusion](https://web.archive.org/web/20101225054844id_/http://www.cisionwire.com/news-by-tag/tlk-fusion/)
-
-#### Locations
-
-To contact Client Services in the United States, use one of the following methods:
-
-Phone: 800.588.3827  
-Email: [support.us@cision.com](mailto:support.us@cision.com)   
-Fax: 312.922.9387  
-After hours urgent support 312.363.9793 (this number is only monitored outside the business hours of 7 am to 7 pm CT) 
-
-Cision USA  
-332 S Michigan Ave.  
-Chicago IL 60604
-
-Financial information  
-<http://corporate.cision.com/>   
-
