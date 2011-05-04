@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231232049id_/http%3A//bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bottomlinesecrets.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504080319id_/http%3A//bottomlinesecrets.com/simple.html%3Farticle_id%3D16004) for the most accurate reproduction.*
 
 # BottomLineSecrets.com Web Site Privacy Policy
 
@@ -12,6 +12,8 @@ Experts](http://www.bottomlinesecrets.com/experts/expert_ads.html)
     * [Bottom Line Secrets](http://www.bottomlinesecrets.com/el/bls_signup.html)
     * [Daily Health News](http://www.bottomlinesecrets.com/el/dhn_signup.html)
     * [HealthyWoman](http://www.bottomlinesecrets.com/el/bhw_signup.html)
+    * [Household Magic  
+DAILY TIPS](http://www.bottomlinesecrets.com/el/bhm_signup.html)
     * [Update Your E-mail Preferences](http://www.bottomlinesecrets.com/el/prefs.html)
   * [BOTTOM LINE/  
 Personal](http://www.bottomlinesecrets.com/store/pubs/sub_blp.html)
