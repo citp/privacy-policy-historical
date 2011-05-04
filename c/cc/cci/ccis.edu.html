@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ccis.edu privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228111012id_/http%3A//www.ccis.edu/policies/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ccis.edu privacy policy that was archived on 2011-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110504161952id_/http%3A//www.ccis.edu/policies/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Columbia College Privacy Policy</title>
@@ -13,12 +13,9 @@
 <link rel="icon" type="image/png" href="/images/favicon.png">
 <link rel="stylesheet" href="/css/interior.css" type="text/css">
 <script type="text/javascript" src="/includes/jquery.js"></script>
-<script type="text/javascript" src="/includes/jquery_plugins/ui/ui.core.js"></script>
-<script type="text/javascript" src="/includes/jquery_plugins/ui/ui.tabs.js"></script>
-<script type="text/javascript" src="/includes/jquery_plugins/ui/ui.dialog.js"></script>
 <script type="text/javascript" src="/includes/jquery_plugins/bgiframe/jquery.bgiframe.pack.js"></script>
-<script type="text/javascript" src="/includes/jquery_plugins/ui/effects.core.js"></script>
-<script type="text/javascript" src="/includes/jquery_plugins/ui/effects.blind.js"></script>
+<script type="text/javascript" src="/includes/jquery_plugins/ui/jquery-ui.js"></script>
+<script type="text/javascript" src="/jsfunctions.js"></script>
 
 <!--[if (lte IE 7)]> <link rel="stylesheet" type="text/css" href="/css/ie-interior.css" media="screen" /> <![endif]-->
 <!--[if IE 6]> <link rel="stylesheet" type="text/css" href="/css/ie6-interior.css" media="screen" /> <![endif]-->
@@ -48,7 +45,7 @@
 	$(document).ready(function(){
 		// show the Calendar when the Calendar link is clicked.
 		$("#calendar_link").click(function(event){
-			$("#calendar").dialog('open');
+			$("#calendar").show('blind');
 			event.preventDefault();
 
 			// load the calendar events
@@ -75,7 +72,7 @@
 		});
 
 		// create the Calendar dialog (pop-up) and keep it hidden for now.
-		$("#calendar").dialog({autoOpen: false, bgiframe:true, resizable:true, position:['center', 'top'], width:900, height:452, show:'blind', hide:'blind'});
+		$("#calendar").bgiframe();
 
 		// Blank out the word 'Search' when the user clicks inside the textbox.
 		$("#search_box").focus(function(event){
@@ -89,7 +86,7 @@
 
 		$("#close_calendar").click(function(event){
 			event.preventDefault();
-			$("#calendar").dialog('close');
+			$("#calendar").hide('blind');
 		});
 	});
 -->
@@ -98,6 +95,35 @@
 <body>
 <a href="#maincontent" id="skip-nav">Skip to Main Content</a>
 <div id="container" class="clearfix">
+
+<div id="calendar" style="display:none;z-index:999 !important;position:absolute">
+<h2>Calendars</h2>
+<a href="/" class="close" id="close_calendar">Close Calendar</a>
+     <div class="shell" id="events">
+        <h3>Events</h3>
+         <ul id="event_calendar_links" class="calendar-links"><li>No events scheduled.</li></ul>
+         <div class="rule"><hr></div>
+          <ul class="calendar-links">    
+             <li><a href="/cougarlink">CougarLink</a></li>
+             <li><a href="http://www.columbiacougars.com/">Cougar athletics schedule</a></li>
+         </ul>
+    </div><!--end events shell-->
+	<div class="shell" id="academics">
+      <h3>Academic Calendar</h3>
+          <ul id="academic_calendar_links" class="calendar-links"><li>Nothing on the academic calendar at this time.</li></ul>
+          <div class="rule"><hr></div>
+       <ul class="calendar-links2" style="float:left;">
+          <li><a href="/day/newsroom/academic.asp">Day Campus calendar</a></li>
+          <li><a href="/evening/newsroom/academic.asp">Evening Campus calendar</a></li>
+          <li><a href="/nationwide/ESDnewsroom/academic.asp">Nationwide Campus calendar</a></li>
+        </ul>
+        <ul class="calendar-links2" style="float:right;">
+          <li><a href="/online/newsroom/academic.asp">Online Campus calendar</a></li>
+          <li><a href="/graduate/academics/academiccalendar.asp">Graduate Studies calendar (main campus)</a></li>
+        </ul>    
+    </div><!--end academics shell-->
+</div><!--end calender-->
+  
 <ul id="topNav_interior" class="clearfix">
 <li id="eServices"><a href="/eServices" title="eServices" name="top">eServices</a></li>
 <li id="cougarMail"><a href="https://mail.google.com/a/cougars.ccis.edu" title="CougarMail">CougarMail</a></li>
@@ -123,7 +149,7 @@
 <input id="search_box" class="box" type="text" name="q" value="Search" title="Search box">
 <input type="hidden" name="cx" value="000278345938292922905:6h6wwg7gcse">
 <input type="hidden" name="cof" value="FORID:11">
-<input class="btn" type="image" name="sa" value="" title="Search" src="/img/search-box-btn.jpg" alt="Search button">
+<input class="btn" type="image" name="sa" value="" title="Search" src="/img/search-box-btn.png" alt="Search button">
 </form>
 </div>
 
@@ -133,42 +159,6 @@
 <li class="online"><a href="/online" title="Online">Online</a></li>
 <li class="nation"><a href="/nationwide" title="Nationwide">Nationwide</a></li>
 </ul>
-
-<div id="calendar" style="display:none;">
-<h2>Calendars</h2>
-<a href="/" class="close" id="close_calendar">Close Calendar</a>
-
-
-     <div class="shell" id="events">
-        <h3>Events</h3>
-         <ul id="event_calendar_links" class="calendar-links"><li>No events scheduled.</li></ul>
-         <div class="rule"><hr></div>
-          <ul class="calendar-links">    
-             <li><a href="/cougarlink">CougarLink</a></li>
-             <li><a href="http://www.columbiacougars.com/">Cougar athletics schedule</a></li>
-         </ul>
-    </div><!--end events shell-->
-
-
-  <div class="shell" id="academics">
-      <h3>Academic Calendar</h3>
-          <ul id="academic_calendar_links" class="calendar-links"><li>Nothing on the academic calendar at this time.</li></ul>
-          <div class="rule"><hr></div>
-       <ul class="calendar-links2" style="float:left;">
-          <li><a href="/day/newsroom/academic.asp">Day Campus calendar</a></li>
-          <li><a href="/evening/newsroom/academic.asp">Evening Campus calendar</a></li>
-          <li><a href="/nationwide/ESDnewsroom/academic.asp">Nationwide Campus calendar</a></li>
-        </ul>
-        <ul class="calendar-links2" style="float:right;">
-          <li><a href="/online/newsroom/academic.asp">Online Campus calendar</a></li>
-          <li><a href="/graduate/academics/academiccalendar.asp">Graduate Studies calendar (main campus)</a></li>
-        </ul>    
-      </div><!--end academics shell-->
-      
-      
-      
-  </div><!--end calender-->
-  
 
 <!--begin google analytics tracking code-->
 	<script type="text/javascript">
@@ -208,7 +198,8 @@
 	<a href="/policies/alumni_email_policies.asp" class="menu">Alumni E-mail Policy</a>
     
     <div class="menusubhead">Nondiscrimination</div> 
-<a href="/policies/eoaa.asp" class="menu">Equal Opportunity &amp; Affirmative Action</a>
+	<a href="/policies/nondiscrimination.asp" class="menu">Statement of Nondiscrimination</a>
+	<a href="/policies/eoaa.asp" class="menu">Equal Opportunity &amp; Affirmative Action</a>
 	<a href="/policies/ada.asp" class="menu">ADA Policy</a>
 </div>
 <!-- end Menu -->
@@ -286,7 +277,7 @@
 <div class="license">
 <ul>
 <li><a href="/">Home</a></li>
-<li><a href="/offices/development/giving.asp">Give To CC</a></li>
+<li><a href="http://www.choosecc.org/">Give To CC</a></li>
 <li><a href="/offices/humanresources/vacancies.asp">Employment</a></li>
 <li><a href="/apply/requestcampus.asp">Request Admissions Info</a></li>
 <li><a href="/newsroom">Newsroom</a></li>
@@ -306,7 +297,9 @@ Tel: (573) 875-8700 or (800) 231-2391
 </p>
 
 <p>
-<a href="/policies/copyright.asp">©1999-2010 Copyright information</a> • <a href="/policies/privacy.asp">Privacy Policy</a>
+<a href="/policies/copyright.asp">©1999-2011 Copyright information</a>
+• <a href="/policies/privacy.asp">Privacy Policy</a>
+• <a href="/policies/nondiscrimination.asp">Statement of Nondiscrimination</a>
 </p>
 <!--end section-->
 
