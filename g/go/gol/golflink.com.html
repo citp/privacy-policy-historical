@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the golflink.com privacy policy that was archived on 2010-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101028053634id_/http%3A//www.golflink.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the golflink.com privacy policy that was archived on 2011-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110504035025id_/http%3A//www.golflink.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head id="ctl00_Head1"><title>
 	GolfLink Privacy and Information Security Policy
@@ -9,6 +9,16 @@
 
 	<script type="text/javascript" src="http://ui.glimg.net/ui/scripts/global.js" onload="GOLFLINK.settings.scripts.push(this.src)"></script>
     
+	<!-- Demdex Tag Insertion Manager -->
+		<script type="text/javascript">
+		var dexBaseURL=(("https:"==document.location.protocol) ? 
+		 "https://a248.e.akamai.net/demdex.download.akamai.com/dm/19/" : 
+		 "http://cdn.demdex.net/dm/19/");
+		document.write(unescape("%3Cscript src='"+ dexBaseURL + 
+		 "demdex.js' type='text/javascript' %3E%3C/script%3E"));
+		</script><script src="https://a248.e.akamai.net/demdex.download.akamai.com/dm/19/demdex.js" type="text/javascript"></script>
+	<!-- End Demdex Tag Insertion Manager -->
+
 <link type="image/x-icon" href="http://i.glimg.net/favicon.ico"><link rel="alternate" type="text/html" media="handheld" href="http://m.golflink.com/" title="Mobile/PDA">
 <link type="text/css" rel="stylesheet" media="all" href="http://ui.glimg.net/inc/css/layout.css">
 <script type="text/javascript" src="http://i.glimg.net/inc/global.js"></script>
@@ -28,49 +38,26 @@
 	<div class="KonaBody" style="display:none;"></div>
 
 	
-	<!------ OAS SETUP begin ------>
+	<!-- AUDIENCESCIENCE AD TAG CODE -->
 	<script type="text/javascript">
-		//<![CDATA[
-		//configuration
-		OAS_url = 'http://oascentral.golflink.com/';
-		//OAS_sitepage = window.location.hostname + window.location.pathname;
-		OAS_sitepage = 'gl/misc';
-		OAS_listpos = '';
-		OAS_query = '';
-		OAS_target = '_top';
-		//end of configuration
-		OAS_version = 10;
-		OAS_rn = '001234567890'; OAS_rns = '1234567890';
-		OAS_rn = new String(Math.random()); OAS_rns = OAS_rn.substring(2, 11);
-		function OAS_NORMAL(pos) {
-			document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" TARGET=' + OAS_target + '>');
-			document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" BORDER=0></A>');
-		}
-		//]]>
+		   var rsi_segs = [];
+		   var segs_beg=document.cookie.indexOf('rsi_segs=');
+		   if (segs_beg>=0){ segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+				   if(segs_beg>0){var segs_end=document.cookie.indexOf(';',segs_beg);
+						  if(segs_end==-1) segs_end=document.cookie.length;
+						   rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+				   }
+		   }
+		   var segLen=20;
+		   var segQS="";
+		   if (rsi_segs.length<segLen){segLen=rsi_segs.length}
+		   for (var i=0;i<segLen;i++){
+				   segQS+=("rsi"+"="+rsi_segs[i]+";")
+		   }
 	</script>
+	<!-- END AUDIENCESCIENCE AD TAG CODE -->
+	
 
-	<script type="text/javascript" language="JavaScript1.1">
-		//<![CDATA[
-		OAS_version = 11;
-		if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
-			OAS_version = 10;
-		if (OAS_version >= 11)
-			document.write('<SCR' + 'IPT LANGUAGE="JavaScript1.1" SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
-		//]]>
-	</script><script language="JavaScript1.1" src="http://oascentral.golflink.com/adstream_mjx.ads/gl/misc/1659367711@?"></script>
-
-	<script type="text/javascript">
-		//<![CDATA[
-		document.write('');
-		function OAS_AD(pos) {
-			if (OAS_version >= 11)
-				OAS_RICH(pos);
-			else
-				OAS_NORMAL(pos);
-		}
-		//]]>
-	</script>
-	<!------ OAS SETUP end ------>
 	
 
 
@@ -79,11 +66,16 @@
 			<div class="wrapper">
 				<div><span style="display: none;">GolfLink</span><a href="/"><img src="http://i.glimg.net/ui/images/layout/header-logo.gif" width="219" height="77" alt="Golf"></a></div>
 				<span>Track. Learn. Improve.</span>
+				<div class="socialLinks">
+					<p>Follow Us:</p>
+					<a href="http://www.facebook.com/pages/GolfLink/345565610615" target="_blank"><div class="facebookLink"></div></a>
+					<a href="http://www.twitter.com/golflink/" target="_blank"><div class="twitterLink"></div></a>
+				</div>
 				<form method="get" action="/search.aspx">
 					<input type="text" name="q" class="search">
 					<input type="submit" class="Button1a" value="">
 				</form>
-				<img class="sponsor" src="http://ui.glimg.net/ui/images/layout/header-golf-channel-logo.jpg" width="97" height="77" alt="Golf Channel">
+				
 			</div>
 		</div>
     </div>
@@ -113,59 +105,60 @@
 					<li><a href="http://www.golflink.com/golf-real-estate/" title="Golf Real Estate">Golf Real Estate</a></li>
 				</ul>
 			</li>
-			<li><a href="http://www.golflink.com/tipsvideos/" id="ctl00_NavItemTips">Tips &amp; Lessons</a>
-				<ul>
-					<li><a href="http://www.golflink.com/sub_16-golf-instruction-techniques.html" title="Instruction &amp; Techniques">Instruction &amp; Techniques</a></li>
-					<li><a href="http://www.golflink.com/sub_14-beginners.html" title="Beginners">Beginners</a></li>
-					<li><a href="http://www.golflink.com/instructor/" title="Instructors">Instructors</a></li> 
-					<li><a href="http://www.golflink.com/sub_24-golf-exercises.html" title="Golf Fitness">Golf Fitness</a></li>
-					<li><a href="http://www.golflink.com/sub_20-golf-terms.html" title="Golf Terms">Golf Terms</a></li>
-					<li><a href="http://www.golflink.com/sub_22-golf-rules.html" title="Golf Rules">Golf Rules</a></li>
-					<li><a href="http://www.golflink.com/golf-shots/" title="Great Shots">Great Shots</a></li>
-				</ul>
-			</li>
-			<li><a href="http://www.golflink.com/mygame/" id="ctl00_NavItemMyGame">My Game</a>
-				<ul>
-					<li><a href="http://www.golflink.com/mygame/" id="ctl00_MyProfile">My Profile</a></li>
-					<li><a href="http://www.golflink.com/mobile/iphone/">Mobile</a></li>
-					<li><a href="/mygame/yardage-maps/default.aspx" id="ctl00_MyYardageMaps">My Yardage Maps</a></li>
-					<li><a id="ctl00_MyHandicap" title="You must be logged in to use this feature" class="disabled">My Handicap</a></li>
-					<li><a id="ctl00_MyRounds" title="You must be logged in to use this feature" class="disabled">My Rounds</a></li>
-					<li><a id="ctl00_MyStats" title="You must be logged in to use this feature" class="disabled">My Stats</a></li>
-					<li><a id="ctl00_MyVideos" title="You must be logged in to use this feature" class="disabled">My Videos</a></li>
-					<li><a id="ctl00_MyTips" title="You must be logged in to use this feature" class="disabled">My Tips</a></li>
-					<li><a id="ctl00_MyCourses" title="You must be logged in to use this feature" class="disabled">My Courses</a></li>
-					<li><a id="ctl00_Blog" title="You must be logged in to use this feature" class="disabled">Blog</a></li>
-					<li><a id="ctl00_Photos" title="You must be logged in to use this feature" class="disabled">Photos</a></li>
-					<li><a id="ctl00_Messages" title="You must be logged in to use this feature" class="disabled">Messages</a></li> 
-					<li><a id="ctl00_Friends" title="You must be logged in to use this feature" class="disabled">Friends</a></li>
-				</ul>
-			</li>
-			<li><a href="http://www.golflink.com/golf-equipment/" id="ctl00_NavItemEquipment">Golf Gear &amp; Reviews</a></li>
-			<li><a href="http://www.golflink.com/community/" id="ctl00_NavItemGolfers">Golfers</a></li>
-			<li class="last">
+			
+			
+				<li><a href="http://www.golflink.com/tipsvideos/" id="ctl00_NavItemTips">Tips &amp; Lessons</a>
+					<ul>
+						<li><a href="http://www.golflink.com/sub_16-golf-instruction-techniques.html" title="Instruction &amp; Techniques">Instruction &amp; Techniques</a></li>
+						<li><a href="http://www.golflink.com/sub_14-beginners.html" title="Beginners">Beginners</a></li>
+						<li><a href="http://www.golflink.com/golf-tips/tips/" title="Golf Tips">Golf Tips</a></li>
+						<li><a href="http://www.golflink.com/instructor/" title="Instructors">Instructors</a></li> 
+						<li><a href="http://www.golflink.com/sub_24-golf-exercises.html" title="Golf Fitness">Golf Fitness</a></li>
+						<li><a href="http://www.golflink.com/sub_20-golf-terms.html" title="Golf Terms">Golf Terms</a></li>
+						<li><a href="http://www.golflink.com/sub_22-golf-rules.html" title="Golf Rules">Golf Rules</a></li>
+						<li><a href="http://www.golflink.com/golf-shots/" title="Great Shots">Great Shots</a></li>
+					</ul>
+				</li>
+				<li><a href="http://www.golflink.com/mygame/" id="ctl00_NavItemMyGame">My Game</a>
+					<ul>
+						<li><a href="http://www.golflink.com/mygame/" id="ctl00_MyProfile">My Profile</a></li>
+						<li><a href="http://www.golflink.com/mobile/iphone/">Mobile</a></li>
+						<li><a href="/mygame/yardage-maps/default.aspx" id="ctl00_MyYardageMaps">My Yardage Maps</a></li>
+						<li><a id="ctl00_MyHandicap" title="You must be logged in to use this feature" class="disabled">My Handicap</a></li>
+						<li><a id="ctl00_MyRounds" title="You must be logged in to use this feature" class="disabled">My Rounds</a></li>
+						<li><a id="ctl00_MyStats" title="You must be logged in to use this feature" class="disabled">My Stats</a></li>
+						<li><a id="ctl00_MyVideos" title="You must be logged in to use this feature" class="disabled">My Videos</a></li>
+						<li><a id="ctl00_MyCourses" title="You must be logged in to use this feature" class="disabled">My Courses</a></li>
+						<li><a id="ctl00_Blog" title="You must be logged in to use this feature" class="disabled">Blog</a></li>
+						<li><a id="ctl00_Photos" title="You must be logged in to use this feature" class="disabled">Photos</a></li>
+						<li><a id="ctl00_Messages" title="You must be logged in to use this feature" class="disabled">Messages</a></li> 
+						<li><a id="ctl00_Friends" title="You must be logged in to use this feature" class="disabled">Friends</a></li>
+					</ul>
+				</li>
+				<li><a href="http://www.golflink.com/golf-equipment/" id="ctl00_NavItemEquipment">Golf Gear &amp; Reviews</a></li>
+				<li><a href="http://www.golflink.com/community/" id="ctl00_NavItemGolfers">Golfers</a></li>
+				<li class="last">
 
-				
-				
-				
-				<ul class="SignInNavModule">
-						<li>
-							
-							<a href="https://www.golflink.com/login.aspx?r=%2fprivacy.aspx" rel="nofollow">Sign In</a>
-							
-						</li>
-						<li class="last">
-							<a href="https://www.golflink.com/subscribe.aspx?h=010&amp;x=" rel="nofollow">Register</a>
-						</li>
-				</ul>
-				
-				
-			</li>
+					
+					<ul class="SignInNavModule">
+							<li>
+								
+								<a href="https://www.golflink.com/login.aspx?r=%2fprivacy.aspx" rel="nofollow">Sign In</a>
+								
+							</li>
+							<li class="last">
+								<a href="https://www.golflink.com/subscribe.aspx?h=010&amp;x=" rel="nofollow">Register</a>
+							</li>
+					</ul>
+					
+					
+				</li>
+			
 		</ul>
 		
 	</div>
 	
-    <div id="ctl00_PromoStripe1_BG" style="text-align:center;background-image:url(http://i.glimg.net/img/promo-bar/TT-Promo_strip-03-bg.gif);"><a href="http://www.golflink.com/golf-courses/golf-tee-times/"><img src="http://ui.glimg.net/img/promo-bar/TT-Promo_strip-03.gif" alt=""></a></div>
+    <div id="ctl00_PromoStripe1_BG" style="text-align:center;background-image:url(http://i.glimg.net/img/promo-bar/GL_YM_SitePromo_strip-bg.gif);"><a href="http://www.golflink.com/mygame/yardage-maps/search.aspx"><img src="http://ui.glimg.net/img/promo-bar/GL_YM_SitePromo_strip.gif" alt=""></a></div>
 
 
     <div id="main">
@@ -185,18 +178,27 @@
 
 
 <div id="TGCAdUnitTop" style="position: relative; z-index: 1001; width: 100%;">
-    <script type="text/javascript">
-	//<![CDATA[
-		OAS_AD('Top');
-	//]]>
-	</script>
+
+			<!-- begin ad tag (tile=1) -->
+			<script language="JavaScript" type="text/javascript">
+				var ctl00_ad728x90_ctl00 = 'homepage;cat=homepage;scat=;state=;city=;course=;gear=;ctype=;art=;vid=0;ugc=0;%RSI%loc=atf;tile=1;dcopt=ist;sz=990x90,728x90;ord=348754?';
+				
+				if (typeof segQS!== "undefined" && segQS.length > 0)
+					ctl00_ad728x90_ctl00 = ctl00_ad728x90_ctl00.replace('%RSI%', segQS);
+				else
+					ctl00_ad728x90_ctl00 = ctl00_ad728x90_ctl00.replace('%RSI%', "");
+			
+				document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.golflink/' + ctl00_ad728x90_ctl00 +'" type="text/javascript"><\/scr' + 'ipt>');
+			</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.golflink/homepage;cat=homepage;scat=;state=;city=;course=;gear=;ctype=;art=;vid=0;ugc=0;loc=atf;tile=1;dcopt=ist;sz=990x90,728x90;ord=348754?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.golflink/homepage;cat=homepage;scat=;state=;city=;course=;gear=;ctype=;art=;vid=0;ugc=0;loc=atf;tile=1;dcopt=ist;sz=990x90,728x90;ord=348754?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.golflink/homepage;cat=homepage;scat=;state=;city=;course=;gear=;ctype=;art=;vid=0;ugc=0;loc=atf;tile=1;dcopt=ist;sz=990x90,728x90;ord=348754?" width="728" height="90" border="0" alt=""></a></noscript>
+			<!-- End ad tag -->	
+		    
 </div>
 </div>
 <div class="clear">
 </div>
                 
                 
-                <script type="text/javascript" src="http://i.glimg.net/inc/adsense.js"></script>                
+                <script type="text/javascript" src="http://ui.glimg.net/inc/adsense.js"></script>                
                 
 				
                 
@@ -552,11 +554,20 @@ var Akamai = "http://i.glimg.net/";
 
 
 <div id="TGCAdUnitBottom" style="position: relative; z-index: 1001; width: 100%;">
-    <script type="text/javascript">
-	//<![CDATA[
-		OAS_AD('Bottom');
-	//]]>
-	</script>
+
+			<!-- begin ad tag (tile=1) -->
+			<script language="JavaScript" type="text/javascript">
+				var ctl00_BottomLeaderboard_ctl00 = 'homepage;cat=homepage;scat=;state=;city=;course=;gear=;ctype=;art=;vid=0;ugc=0;%RSI%loc=btf;tile=2;sz=990x90,728x90;ord=348754?';
+				
+				if (typeof segQS!== "undefined" && segQS.length > 0)
+					ctl00_BottomLeaderboard_ctl00 = ctl00_BottomLeaderboard_ctl00.replace('%RSI%', segQS);
+				else
+					ctl00_BottomLeaderboard_ctl00 = ctl00_BottomLeaderboard_ctl00.replace('%RSI%', "");
+			
+				document.write('<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.golflink/' + ctl00_BottomLeaderboard_ctl00 +'" type="text/javascript"><\/scr' + 'ipt>');
+			</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.golflink/homepage;cat=homepage;scat=;state=;city=;course=;gear=;ctype=;art=;vid=0;ugc=0;loc=btf;tile=2;sz=990x90,728x90;ord=348754?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.golflink/homepage;cat=homepage;scat=;state=;city=;course=;gear=;ctype=;art=;vid=0;ugc=0;loc=btf;tile=2;sz=990x90,728x90;ord=348754?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.golflink/homepage;cat=homepage;scat=;state=;city=;course=;gear=;ctype=;art=;vid=0;ugc=0;loc=btf;tile=2;sz=990x90,728x90;ord=348754?" width="728" height="90" border="0" alt=""></a></noscript>
+			<!-- End ad tag -->	
+		    
 </div>
 </div>
 <div class="clear">
@@ -568,24 +579,24 @@ var Akamai = "http://i.glimg.net/";
 	     <div class="section">
             <h3 class="title">Video of the Day</h3>
 		    <div class="flc">
-                <a href="/free-online-golf-video.html"><img src="http://ui.glimg.net/FLVPlayer/images/TA034-daily-small.jpg" alt=""></a>
+                <a href="/free-online-golf-video.html"><img src="http://i.glimg.net/FLVPlayer/images/JM054-daily-small.jpg" alt=""></a>
 			    <div class="data">
-				    <a href="/free-online-golf-video.html">Chipping for Juniors</a>
-				    <div class="byline">By <a href="/instructor/andersen/tandersen.aspx">Ty Andersen</a></div>
-	                <p class="text">Short game shots differentiate the best juniors, so teach your kids this simple three-step guide to making chipping easy and  ... <a href="/free-online-golf-video.html">Watch the Video Now</a></p>
+				    <a href="/free-online-golf-video.html">Power Driving</a>
+				    <div class="byline">By <a href="/instructor/mclean/jmclean.aspx">Jim  McLean</a></div>
+	                <p class="text">Getting some more distance out of your drive is an important shot to have in your bag for when the course sets up well or you ... <a href="/free-online-golf-video.html">Watch the Video Now</a></p>
 			    </div>
 			    <div class="cb"></div>
 		    </div>
 	     </div>   				 
 		 
 	      <div class="section">
-            <h3 class="title">Tip of the Day</h3>
+            <h3 class="title">Article of the Day</h3>
 		    <div class="flc">
-                <a href="/tipsvideos/tip.aspx?t=35334"><img src="http://i.glimg.net/img/tips/GTM0305-040-large-0.jpg" alt="Try One-Armed Putting for Greater Confidence and Control"></a>
+                <a href="http://www.golflink.com/list_789_cuff-exercises-torn-rotator-cup.html"><img src="" alt="Rotator Cuff Exercises for a Torn Rotator Cup"></a>
 			    <div class="data">
-				    <a href="/tipsvideos/tip.aspx?t=35334">Try One-Armed Putting for Greater Confidence and Control</a>
-				    <div>By Debbie Steinbach</div>
-	                <p>It sounds crazy, but one-armed putting can improve even the worst putting strokes. Putting with your rear arm (the right arm for ... <a href="/tipsvideos/tip.aspx?t=35334">View Complete Tip</a></p>
+				    <a href="http://www.golflink.com/list_789_cuff-exercises-torn-rotator-cup.html">Rotator Cuff Exercises for a Torn Rotator Cup</a>
+	                <p>Exercise is always the first option when the muscles around the rotator cuff are injured or torn...</p>
+	                <a href="http://www.golflink.com/list_789_cuff-exercises-torn-rotator-cup.html">Read full article</a>
 			    </div>
 			    <div class="cb"></div>
 		    </div>
@@ -595,10 +606,9 @@ var Akamai = "http://i.glimg.net/";
             <h3 class="title">Top Blog Post</h3>
 		    <div class="flc">
 			    <div class="data">
-				    <a href="http://blog.golflink.com/2010/10/18/rocco-harrington-win-galea-indicted/" id="ctl00_ucFooterFeatured_PostTitleLink">Rocco, Harrington Win; Galea Indicted</a>
-				    <p style="width: 325px;">Forgive Rocco Mediate, if he continues to channel Carl Spackler.
-Excuse, too, those in future Mediate galleries who might yell: “It’s in the hole!”
-Mediate earned the right to his own cinderella story and will enjoy the fit of his spikes for at least another two years in the form of ... <a href="http://blog.golflink.com/2010/10/18/rocco-harrington-win-galea-indicted/" id="ctl00_ucFooterFeatured_PostMoreLink">More</a></p>
+				    <a href="http://blog.golflink.com/2011/03/28/bay-hill-proves-tough-test/" id="ctl00_ucFooterFeatured_PostTitleLink">Bay Hill Proves Tough Test</a>
+				    <p style="width: 325px;">Arnold Palmer is known to prefer a thorough test of golf.
+As host of the invitational that bears his name, Palmer, like Jack Nicklaus at the Memorial, is the guiding influence over the course set up at Bay Hill and he wasn’t disappointed in giving players a fair dose of what the average hack sees ... <a href="http://blog.golflink.com/2011/03/28/bay-hill-proves-tough-test/" id="ctl00_ucFooterFeatured_PostMoreLink">More</a></p>
 			    </div>
 			    <div class="cb"></div>
 		    </div>
@@ -623,21 +633,23 @@ Mediate earned the right to his own cinderella story and will enjoy the fit of h
         </div>
         <div class="content site_width tac">
             <ul>
-                <li class="first"><a href="/about.aspx">About Us</a></li>
-                <li><a href="/faq.aspx">FAQ</a></li>
-                <li><a href="/privacy.aspx">Privacy Policy</a></li>
-                <li><a href="/terms.aspx">Terms of Use</a></li>
-                <li><a href="/contact.aspx">Contact GolfLink</a></li> 
-                <li><a href="/golf-courses/golf-resorts/">Golf Resorts</a></li>
-                <li><a href="/golf-real-estate/">Golf Real Estate</a></li>
+				<li class="first"><a class="jsNoFollow" rel="/advertise.aspx">Advertise</a><sup>†</sup></li>
+                <li><a class="jsNoFollow" rel="/about.aspx">About Us</a><sup>†</sup></li>
+                <li><a class="jsNoFollow" rel="/faq.aspx">FAQ</a><sup>†</sup></li>
+                <li><a class="jsNoFollow" rel="/privacy.aspx">Privacy Policy</a><sup>†</sup></li>
+                <li><a class="jsNoFollow" rel="/terms.aspx">Terms of Use</a><sup>†</sup></li>
+                <li><a class="jsNoFollow" rel="/contact.aspx">Contact GolfLink</a><sup>†</sup></li> 
                 <li><a href="/site-map.aspx">Site Map</a></li>
             </ul>
             <p>
-                Copyright © 1996-2010, Demand Media. All rights reserved.
+                Copyright © 1996-2011, Demand Media. All rights reserved.
             </p>
             
 			<p><img src="http://ui.glimg.net/ui/images/layout/DM.gif" height="34" width="136" alt="Driven by Demand Media"></p>
             
+			<p>
+				<sup>†</sup> Requires Javascript
+			</p>
             <p class="mb">
                 GolfLink™ is a trademark or registered trademark of Demand Media, Inc. in the United States and or other countries.
             </p>
@@ -651,13 +663,6 @@ Mediate earned the right to his own cinderella story and will enjoy the fit of h
     
     
     
-    <div id="ctl00_pnlQuantcastScript">
-	
-
-    
-</div>
-
-
 	<script type="text/javascript">
 		//<![CDATA[
 
@@ -701,8 +706,20 @@ Mediate earned the right to his own cinderella story and will enjoy the fit of h
 		<img src="http://b.scorecardresearch.com/b?c1=2&c2=6035083&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none;" alt="" />
 	</noscript>
     <!-- End comScore Tag -->  
+
+	<script type="text/javascript">
+    	
+		$('a.jsNoFollow').noFollow();
+	</script>
     
     
+	
+			
+		<script type="text/javascript">
+			document.write(unescape('%3Cscript src="http://js.revsci.net/gateway/gw.js?csid=F08747"%3E %3C/script%3E'));
+		</script><script src="http://js.revsci.net/gateway/gw.js?csid=F08747"> </script>
+		<script type="text/javascript">DM_tag();</script>
+	
 
 
 </body></html>
