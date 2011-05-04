@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomerang.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101032259id_/http%3A//www.markettools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomerang.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504135452id_/http%3A//www.markettools.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MarketTools, Inc.
 
@@ -31,7 +31,7 @@ We collect primarily for two purposes: Firstly, for the purpose for which you or
 We are not in the business of selling or renting your information to telemarketers and do not share your personally identifiable information with others, except as follows:
 
   * We may share your information with affiliated companies for reward redemption and/or other market research opportunities.
-  * If you use any of our services with a corporate email account (i.e., an account for employees, contractors, etc. as opposed to a personal email account with a general email service provider such as AOL, Hotmail, Yahoo, Gmail, etc.), and such corporation signs up for an enterprise account with us, we may inform such corporation of your use of our service, so that you can benefit from enterprise pricing and any other benefits negotiated by the corporation for its registered users or otherwise arising from such coordination.
+  * If you use any of our services with a corporate email account (i.e., an account for employees, contractors, etc. as opposed to a personal email account with a general email service provider such as AOL, Hotmail, Yahoo, Gmail, etc.), and such corporation signs up for an enterprise account with us or is considering an enterprise account, we may inform such corporation of your use of our service, so that you can benefit from enterprise pricing and any other benefits negotiated by the corporation for its registered users or otherwise arising from such coordination.
   * We also engage agents and service providers who have access to data, but only to process such data on our behalf and for our purposes under confidentiality agreements.
   * We may share your information as required by law or in the interest of protecting or exercising our or others' legal rights, e.g., without limitation, in connection with requests from law enforcement officials and in connection with court proceedings.
   * We may share or transfer your information in connection with a prospective or actual sale, merger, transfer or other reorganization of all or parts of our business.
