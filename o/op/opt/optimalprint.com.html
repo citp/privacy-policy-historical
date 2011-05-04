@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the optimalprint.com privacy policy that was archived on 2010-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100430190104id_/http%3A//www.optimalprint.com/en-US/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the optimalprint.com privacy policy that was archived on 2011-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110504023116id_/http%3A//www.optimalprint.com/en-US/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" dir="ltr"><head>
-<title>Privacy Policy | Optimalprint</title>
+<title>Privacy Policy: Optimalprint</title>
 <meta name="description" content="Optimalprint offers full color print material such as Business Cards, Letterheads,  Appointment Cards, Correspondence Cards, Wedding Invitations, Party Invitations, Birth Announcement Cards, Confirmation Cards, Postcards, and Envelopes.">
 <meta name="keywords" content="">
 <meta http-equiv="imagetoolbar" content="no">
@@ -18,217 +18,136 @@
 
 
 
+<!-- Google Analitics Tracker code start -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+/* Init default tracker */
+if (typeof(_gaq) == 'undefined') var _gaq = [];
+_gaq.push(['_setAccount', 'UA-859089-1']);
+_gaq.push(['_setDomainName', 'none']);
+_gaq.push(['_setAllowLinker', true]);
+_gaq.push(['_trackPageview', ]);
 
-
-<script type="text/javascript">
-	var test_suit_has_arror = false;
-	var test_suit_error_msg = '';
-			var session_log_id="";
-		
-			function log_message(msg,url,ln,type) {
-				try {
-					test_suit_has_arror = true;
-					test_suit_error_msg = type +': "' + msg + '" in line ' + ln + ', url: ' + url;
-					var i = new Image();
-					i.src = '/log_js/?m='+encodeURIComponent(msg)+'&t='+type+'&l='+ln+'&u='+encodeURIComponent(url)+'&r='+encodeURIComponent(document.referrer)+'&s='+session_log_id;
-					i = null;
-					if (window.console) {
-						window.console.log(type + ': ' + msg + '; line: ' + ln);
-					}
-					if (document.cookie.indexOf('DEBUG' + "=")!=-1) {
-						return false;
-					} else {
-						return true;
-					}
-				} catch(e) {}
-				return true;
-			}
-			function log_error(msg,url,ln) { log_message(msg,url,ln,'error'); }
-			function log_warning(msg,url,ln) { log_message(msg,url,ln,'warning'); }
-			function log_notice(msg,url,ln) { log_message(msg,url,ln,'notice'); }
-			function log_info(msg,url,ln) { log_message(msg,url,ln,'info'); }
-			function log_debug(msg,url,ln) { log_message(msg,url,ln,'debug'); }
-			function log(msg) { log_message(msg,'',0,'error'); }
-			try { window.onerror = log_error; } catch(e) {}
-		
-	
-	
-	function shippingCountries(){
-		if (document.getElementById("shippingCountries").style.display=="none"){
-			document.getElementById("shippingCountries").style.display="block";
-		}else{
-			document.getElementById("shippingCountries").style.display="none"
-		}
-	}
-	
-
-	
-			
-			function notify_on_error(item, msg){
-				var img = new Image();
-				img.src = "/en-US/server_error?item=" + item + ":" + msg;
-			}
-			function notify_not_found(item, msg){
-				var img = new Image();
-				img.src = "/not_found?missing_items=" + item + ":" + msg;
-			}
-		
-	</script>
-
-
-
-
-		
-
-
-<link rel="stylesheet" type="text/css" href="/c/css/1271849178/assets/css/opStatic.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/c/css/1271746658/assets/css/reset.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/c/css/1271774619/assets/css/content.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/c/css/1271746657/assets/css/modules/menu.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/c/css/1272438250/assets/css/modules/buttonNew.css" media="screen">
-<link rel="stylesheet" type="text/css" href="/c/css/1271746657/assets/css/modules/roundedCorners.css" media="screen">
-
-		
-<script src="https://ssl.google-analytics.com/ga.js" async="true"></script></head><body id="body" class="yui-skin-sam">
-<script type="text/javascript">
-
-if (typeof($) == 'undefined'){
-	function $(id)
-	{
-		return document.getElementById(id);
-	}
-}
-
-function checkSearchParams(url,type)
-{
-	if (!document.getElementById('topKeywordsID').value && !document.getElementById('topIndustryID').selectedIndex)
-	{
-
-		return false;
-	}
-	document.body.style.cursor='wait';
-	return doSearch('topKeywordsID','topIndustryID',url, 1,type)
-}
-
-function doSearch(keywordsId, industryId, submitUrl, isTopSearch, typeSearch)
-{
-	var keyword = document.getElementById(keywordsId).value;
-	var industry = document.getElementById(industryId).value;
-	var path = submitUrl + "?";
-	if (typeSearch != "")
-	{
-		path += 'typeSearch=' + typeSearch + "&";
-	}
-	if (keyword != "")
-	{
-		path += 'keywords=' + encodeURIComponent(keyword) + "&";
-	}
-	if (industry != "" && industry != 0)
-	{
-		path += 'industry=' + encodeURIComponent(industry) + "&";
-	}
-	if(isTopSearch && ((keyword != "") || (industry != "" && industry != 0)))
-	{
-		path +=  't=1&';
-	}
-	path = path.replace(/%20/g, "+");
-	window.location = path.substr(0, path.length - 1);
-	return false;
-}
-
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); s.parentNode.insertBefore(ga, s);
+})();
 </script>
+<!-- Google Analitics Tracker code end -->
 
-   <div id="container">
-   <!--[if IE 6]>
-		<div class="info">
-        	<span class="infoIcon"></span><div class="floatLeft"><strong>Your browser is no longer supported. Please upgrade to a newer web browser, for example IE7, IE8, Firefox or Chrome.</strong></div><br/><br/>
-            <a href="http://www.microsoft.com/windows/internet-explorer/worldwide-sites.aspx"><img src="/s/assets/images/general/browser/ie-v1272435029.png" border="0"/></a>
-            <a href="http://www.google.com/chrome"><img src="/s/assets/images/general/browser/chrome-v1272435029.png" border="0" /></a>
-            <a href="http://www.mozilla.com/en-US/products/download.html"><img src="/s/assets/images/general/browser/ff-v1272435029.png" border="0"/></a>
-            <a href="http://www.apple.com/safari/download/"><img src="/s/assets/images/general/browser/safari-v1272435029.png" border="0"/></a>
-            <a href="http://www.opera.com/download/"><img src="/s/assets/images/general/browser/opera-v1272435029.png" border="0"/></a>
-        </div> 
-   <![endif]--> 
 
-	   <!-- Header -->
+
+
+
+	
+    
+    
+
+	
+		
+		
+
+
+<link rel="stylesheet" type="text/css" href="/c/css/1303222683/assets_c/css/opStatic.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/c/css/1303197089/assets_c/css/reset.css|assets_c/css/content.css|assets_c/css/modules/menu.css|assets_c/css/modules/buttonNew.css|assets_c/css/modules/roundedCorners.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/c/css/1303197089/assets_c/css/modules/tabs.css" media="screen">
+
+<script type="text/javascript"><!--
+
+function $ID(id){if(document.getElementById(id)){return document.getElementById(id);}else{return false;}}
+function isPreloadSupported(){return(navigator.userAgent.indexOf('AppleWebKit')==-1||navigator.userAgent.indexOf('Chrome')>=0)&&!(/MSIE 6/.test(navigator.appVersion))&&!(/MSIE 7/.test(navigator.appVersion));}
+function preload(e){for(var f=e.length,c,g=document,h=g.body;f--;)try{c=g.createElement("object");c.data=e[f];c.width=1;c.height=1;c.style.visibility="hidden";c.type="text/plain";h.appendChild(c)}catch(i){}};
+
+
+--></script>
+
+<script type="text/javascript" async="" src="https://static.getclicky.com/js"></script></head>
+<body id="body" class="yui-skin-sam">
+					    <div id="container">
+														
+
+		<!-- Header -->
 		<div id="header">
-		  <div id="logo"><a href="/" title="Home"><img src="/s/assets/images/general/opLogo-v1271945340.png" width="267" height="51" alt="Optimalprint" title="Optimalprint"></a></div>
-		  <div id="headerMenu">
-						<a href="/en-US/my_orders" title="My Orders">My Orders</a>
-			<span>|</span>
-			<a href="/en-US/my_gallery" title="My Gallery">My Gallery</a>
-			<span>|</span>
-			<a href="/en-US/my_account" title="My Account">My Account</a>
-			<span>|</span>
-			
-			<a href="/en-US/login" title="Sign in">
-				Sign in
-			</a>
-					  </div>
-		  <div id="cart">
-			 <a href="/my_cart" title="My Cart"><span>My Cart</span><br>
-			 0.00 &nbsp;
-				(0 items)
-			 </a>
-		  </div>
-		  <div class="clear">&nbsp;</div>
-
-		<!-- Top Menu and Search  -->
+			<div id="logo"><a class="designer_confirm_link" href="/" title="Home"><img src="/s/assets/images/general/online-printing-v1301032844.png" width="267" height="51" alt="Optimalprint" title="Optimalprint"></a></div>
+			<div id="cart">    <a class="designer_confirm_link" href="/my_cart" title="My Cart"><span>My Cart</span><br>
+        0 items    </a>
+</div>
+			<div id="headerMenu">    
+    <a class="grey designer_confirm_link" href="/en-US/login" id="top_menu_login_link" title="Sign in">
+        Sign in
+    </a>    
+	<span>|</span>	
+	<a class="grey designer_confirm_link" href="/en-US/my_account" title="My Account">My Account</a> 
+	<span>|</span>	  
+</div>
+			<div class="clear">&nbsp;</div>
+			<div id="navToB" class="navToBTop">
+				<ul class="tabsControl" id="tabCtrl" style="display:inline;">
+					<li class="greyTab dark"><a id="tabCtrlBusiness" href="/business" title="Business"><span>Business</span></a></li>
+					<li class="greyTab tabSelected"><a id="tabCtrlFamily" href="/" title="Private"><span>Private</span></a></li>
+				</ul>
+						</div>
+			<!-- Top Menu and Search    -->
 			<div id="navigation">
-			  <div id="navLeft"></div>
-			  <div id="navMenu">
-				 <ul id="navMenuUl">
- <li class="topLi"><a href="/" class="topA" title="Home">Home</a></li>
- <li class="topLiSepr">&nbsp;</li>
- <li class="topLi"><a href="/en-US/upload_design" class="topA" title="Print Own Files">Print Own Files</a>
-    <ul>
-       <li><a href="/en-US/upload_design?product_type=GXRxNPsMzuA" title="Business Cards">Business Cards</a></li>
-       <li><a href="/en-US/upload_design?product_type=KIRi5mkMjCA" title="Envelopes">Envelopes</a></li>
-       <li><a href="/en-US/upload_design?product_type=_R9ozCQ-Cas" title="Postcards">Postcards</a></li>
-       <li><a href="/en-US/upload_design?product_type=mNwOtuTXJvk" title="Letterheads">Letterheads</a></li>
-       <li><a href="/en-US/upload_design?product_type=z0MZG-YqITM" title="Brochures">Brochures</a></li>
-       <li><a href="/en-US/upload_design?product_type=BB2jOywfZe4" title="Thank You Cards">Thank You Cards</a></li>
-       <li><a href="/en-US/upload_design?product_type=BB2jOywfZe4" title="Invitations">Invitations</a></li>
-       <li class="topLiL"><a href="/en-US/upload_design" title="View all options">View all options</a></li>
-    </ul>
- </li>
- <li class="topLiSepr">&nbsp;</li>
- <li class="topLi"><a href="/en-US/price_list" class="topA" title="Prices">Prices</a>
-    <ul>
-        <li><a href="/en-US/pricelist/Business-Cards" title="Business Cards">Business Cards</a></li>
-        <li><a href="/en-US/pricelist/Letterheads" title="Letterheads">Letterheads</a></li>
-        <li><a href="/en-US/pricelist/Envelopes" title="Envelopes">Envelopes</a></li>
-        <li><a href="/en-US/pricelist/Invitations/Birthday" title="Invitations">Invitations</a></li>
-        <li><a href="/en-US/pricelist/Wedding-Invitations/Thank-You-Cards" title="Thank You Cards">Thank You Cards</a></li>
-        <li class="topLiL"><a href="/en-US/price_list" title="View All Prices">View All Prices</a></li>
-    </ul>
- </li>
- <li class="topLiSepr">&nbsp;</li>
- <li class="topLi"><a href="/en-US/FAQ" class="topA last" title="Customer Service">Customer Service</a>
-    <ul>
-       <li><a href="/en-US/shipping" title="Delivery Time">Delivery Time</a></li>
-       <li><a href="/en-US/price_quality_guarantee" title="Quality Guarantee">Quality Guarantee</a></li>
-       <li><a href="/en-US/my_orders" title="Where Is My Order?">Where Is My Order?</a></li>
-                     <li><a href="/en-US/login" title="Login/Register">Login/Register</a></li>
-              <li><a href="/en-US/quality" title="Paper Quality">Paper Quality</a></li>
-       <li class="topLiL"><a href="/en-US/FAQ" title="Customer Service">Customer Service</a></li>
-    </ul>
- </li>
-</ul>    
-<br clear="all" class="clear">			  </div>
-			  <div id="navRight"></div>
-			  <div id="navSearch">
+				<div id="navLeft"></div>
+				<div id="navMenu">
+				 
+<ul id="navMenuUl">
+    <li class="topLi">
+        <a href="/" class="designer_confirm_link topA" title="Home">Home</a>
+        <ul>
+            <li><a href="/" title="Private"><span>Private</span></a></li>
+            <li class="topLiL"><a href="/business" title="Business"><span>Business</span></a></li>
+        </ul>
+    </li>      
+
+    <li class="topLiSepr">&nbsp;</li>    
+	<li class="topLi"><a href="/en-US/upload_design" title="Print Your Own Files" class="topA">Print Your Own Files - <strong class="red">New!</strong></a></li>
+	           
+    <li class="topLiSepr">&nbsp;</li>    
+    <li class="topLi"><a href="/en-US/FAQ" class="topA designer_confirm_link" title="Customer Service">Customer Service</a>
+        <ul>
+            <li><a class="designer_confirm_link" href="/en-US/shipping" title="Delivery Time">Delivery Time</a></li>
+            <li><a class="designer_confirm_link" href="/en-US/price_list" title="Prices">Prices</a></li>
+            <li><a class="designer_confirm_link" href="/en-US/price_quality_guarantee" title="Quality Guarantee">Quality Guarantee</a></li>
+            <li><a class="designer_confirm_link" href="/en-US/my_orders" title="Where Is My Order?">Where Is My Order?</a></li>
+                                        <li><a id="signInLink" href="/en-US/login" title="Login/Register">Login/Register</a></li>
+                        <li><a class="designer_confirm_link" href="/en-US/quality" title="Paper Quality">Paper Quality</a></li>
+            <li class="topLiL"><a class="designer_confirm_link" href="/en-US/FAQ" title="Customer Service">Customer Service</a></li>
+        </ul>
+    </li>
+    <li class="topLiSepr">&nbsp;</li>   
+	<li class="topLi"><a href="/en-US/about_us" title="About Us" class="topA">About Us</a></li>
+        
+</ul>
+<br clear="all" class="clear">
+<div id="callDiv" style="display:none">
+    <h3>Call our shopping support</h3>
+    <div class="callNamber"><b>Denmark:</b> +45 36 964944</div>
+    <div class="callNamber"><b>Estonia:</b> +372 712 1175</div>
+    <div class="callNamber"><b>Finland:</b> +358 923 163 377</div>
+    <div class="callNamber"><b>France:</b> +33 9 70 448 003</div>
+    <div class="callNamber"><b>Germany:</b> +49-30-243263579</div>
+    <div class="callNamber"><b>Netherlands:</b> +31 208 910 390</div>
+    <div class="callNamber"><b>Norway:</b> +47 21 30 21 00</div>
+    <div class="callNamber"><b>Spain:</b> +34 93 1846716</div>
+    <div class="callNamber"><b>Sweden:</b> +46 8 559 22 656</div>
+    <div class="callNamber"><b>UK:</b> +44 2081332771</div>
+    <br>
+</div>
+				</div>
+				<div id="navRight"></div>
+				<div id="navSearch">
 				 <form id="topSearchForm" name="topSearchForm" action="/search_designs">
-																					<input type="button" name="search" id="topSearchBtn" value="" class="navSearchBtn" onclick="checkSearchParams('/search_designs','')">
-					<label class="enterFieldGen" id="enter_field" onclick="this.style.display='none';document.getElementById('topKeywordsID').focus();">Enter a keyword</label>
-					<input type="text" id="topKeywordsID" name="keywords" class="inputSearch" value="" onkeypress="if (event.keyCode == 13) return check_search_field();" onblur="if(!this.value) document.getElementById('enter_field').style.display='';" onclick="$('enter_field').style.display='none';document.getElementById('topKeywordsID').focus();">
+																					 <input type="button" name="search" id="topSearchBtn" value="" class="navSearchBtn">
+					<label class="enterFieldGen" id="enter_keywords" onclick="this.style.display='none';document.getElementById('topKeywordsID').focus();">Enter a keyword</label>
+					<input type="text" id="topKeywordsID" name="keywords" class="inputSearch" value="" onkeypress="if (event.keyCode == 13) return $ID('topSearchForm').submit();" onblur="if(!this.value) document.getElementById('enter_keywords').style.display='';" onclick="$ID('enter_keywords').style.display='none';document.getElementById('topKeywordsID').focus();">
 					<select name="industry" id="topIndustryID" class="floatLeft" onchange="document.topSearchForm.topSearchBtn.click();">
-					   <option value="" selected="selected">Search occasion or industry</option>
-					   <optgroup label="Search occasion">
-<option label="Anniversary" value="Anniversary">Anniversary</option>
+						 							 <option value="" selected="selected">Search occasion</option>
+							 <option label="Anniversary" value="Anniversary">Anniversary</option>
 <option label="Baptism / Christening" value="Baptism / Christening">Baptism / Christening</option>
 <option label="Birthday" value="Birthday">Birthday</option>
-<option label="Christmas &amp; New Year" value="Christmas &amp; New Year">Christmas &amp; New Year</option>
+<option label="Christmas" value="Christmas">Christmas</option>
 <option label="Confirmation" value="Confirmation">Confirmation</option>
 <option label="Easter" value="Easter">Easter</option>
 <option label="Engagement" value="Engagement">Engagement</option>
@@ -236,164 +155,156 @@ function doSearch(keywordsId, industryId, submitUrl, isTopSearch, typeSearch)
 <option label="Goodbye Party" value="Goodbye Party">Goodbye Party</option>
 <option label="Kids Party" value="Kids Party">Kids Party</option>
 <option label="Newborn" value="Newborn">Newborn</option>
+<option label="New Year" value="New Year">New Year</option>
 <option label="Party" value="Party">Party</option>
 <option label="Thank You" value="Thank You">Thank You</option>
+<option label="Valentine" value="Valentine">Valentine</option>
 <option label="Wedding" value="Wedding">Wedding</option>
-</optgroup>
-<optgroup label="Search industry">
-<option label="Accounting &amp; Finance" value="Accounting &amp; Finance">Accounting &amp; Finance</option>
-<option label="Animal &amp; Pet Care" value="Animal &amp; Pet Care">Animal &amp; Pet Care</option>
-<option label="Appointment Cards" value="Appointment Cards">Appointment Cards</option>
-<option label="Art &amp; Photography" value="Art &amp; Photography">Art &amp; Photography</option>
-<option label="Automotive &amp; Transportation" value="Automotive &amp; Transportation">Automotive &amp; Transportation</option>
-<option label="Beauty Shop &amp; Nails" value="Beauty Shop &amp; Nails">Beauty Shop &amp; Nails</option>
-<option label="Childcare" value="Childcare">Childcare</option>
-<option label="Cleaning Services" value="Cleaning Services">Cleaning Services</option>
-<option label="Clothing" value="Clothing">Clothing</option>
-<option label="Construction" value="Construction">Construction</option>
-<option label="Consulting" value="Consulting">Consulting</option>
-<option label="Dentist" value="Dentist">Dentist</option>
-<option label="Education" value="Education">Education</option>
-<option label="Entertainment" value="Entertainment">Entertainment</option>
-<option label="Fitness &amp; Health" value="Fitness &amp; Health">Fitness &amp; Health</option>
-<option label="Food &amp; Beverage" value="Food &amp; Beverage">Food &amp; Beverage</option>
-<option label="Funky" value="Funky">Funky</option>
-<option label="Gardening &amp; Flowers" value="Gardening &amp; Flowers">Gardening &amp; Flowers</option>
-<option label="Generic Designs" value="Generic Designs">Generic Designs</option>
-<option label="Home Maintenance" value="Home Maintenance">Home Maintenance</option>
-<option label="Hotel &amp; Hospitality" value="Hotel &amp; Hospitality">Hotel &amp; Hospitality</option>
-<option label="Information Technology" value="Information Technology">Information Technology</option>
-<option label="Legal Services" value="Legal Services">Legal Services</option>
-<option label="Literature &amp; Books" value="Literature &amp; Books">Literature &amp; Books</option>
-<option label="Manufacturing" value="Manufacturing">Manufacturing</option>
-<option label="Medical Professions" value="Medical Professions">Medical Professions</option>
-<option label="Music - Dj - Club" value="Music - Dj - Club">Music - Dj - Club</option>
-<option label="Real Estate" value="Real Estate">Real Estate</option>
-<option label="Religious &amp; Spiritual" value="Religious &amp; Spiritual">Religious &amp; Spiritual</option>
-<option label="Restaurant - Bar" value="Restaurant - Bar">Restaurant - Bar</option>
-<option label="Retail &amp; Sales" value="Retail &amp; Sales">Retail &amp; Sales</option>
-<option label="Security" value="Security">Security</option>
-<option label="Taxi" value="Taxi">Taxi</option>
-<option label="Travel &amp; Tourism" value="Travel &amp; Tourism">Travel &amp; Tourism</option>
-</optgroup>
 
-					</select>
+						 					</select>
 				 </form>
-			  </div>
+				</div>
 			</div>
 			<div class="clear"></div>
-			 <!--  //Top Menu and Search -->		       
+
+			<!--    //Top Menu and Search -->
 		</div>
-	   <!-- //Header -->       
-       
-       
-	   <!-- Content -->
-	   		  	   
-	   		   <div class="contentMain" id="contentMain">  <b class="tl">&nbsp;</b>  <b class="tr">&nbsp;</b>  <b class="top">&nbsp;</b>  <b class="left">&nbsp;</b>  <b class="right">&nbsp;</b>  <b class="bottom">&nbsp;</b>  <b class="bl">&nbsp;</b>  <b class="br">&nbsp;</b>  <b class="center">&nbsp;</b>  <b class="centerBot">&nbsp;</b>  <b class="close" id="contentMainClose">&nbsp;</b>  <div id="contentMainCon" class="contentMainCon">			  <div class="clear">&nbsp;</div>
-			  			  <div id="leftMenu">
-				 <form id="left_filter_form" name="left_filter_form" action="" method="post">
-    </form>
+		<!-- //Header -->
+	       		<!-- Content -->
+							
+	  							<div class="contentMain" id="contentMain">  <b class="tl">&nbsp;</b>  <b class="tr">&nbsp;</b>  <b class="top">&nbsp;</b>  <b class="left">&nbsp;</b>  <b class="right">&nbsp;</b>  <b class="bottom">&nbsp;</b>  <b class="bl">&nbsp;</b>  <b class="br">&nbsp;</b>  <b class="center">&nbsp;</b>  <b class="centerBot">&nbsp;</b>  <b class="close" id="contentMainClose">&nbsp;</b>  <div id="contentMainCon" class="contentMainCon">										<div class="clear"></div>
+											<div id="leftMenu">
+							            <ul class="leftMenu">
+                                                                      </ul>
+                <h2>Private</h2>
+                <ul class="leftMenu">
+                        <li><a href="javascript:void(0);" title="Photo books">Photo books</a>
+                            <ul class="subMenuL">
+                                            <li class="topLiLeftA"><a href="/en-US/choose/photobooks" title="Photo books">Photo books</a></li>
+                                        <li class="topLiLeftAL">&nbsp;</li>
+                </ul>
+                        </li>
+                                             <li><a href="javascript:void(0);" title="Family Occasion">Family Occasion</a>
+                            <ul class="subMenuL">
+                                            <li class="topLiLeftA"><a href="/en-US/buy/Invitations/Birthday" title="Birthday">Birthday</a></li>
+                                            <li><a href="/en-US/choose/Thank-You-Card" title="Thank You Cards">Thank You Cards</a></li>
+                                            <li><a href="/en-US/choose/Postcards" title="Postcards">Postcards</a></li>
+                                            <li><a href="/en-US/buy/Invitations/Confirmation" title="Confirmation">Confirmation</a></li>
+                                            <li><a href="/en-US/buy/Invitations/Christmas" title="Christmas Cards">Christmas Cards</a></li>
+                                            <li><a href="/en-US/buy/Invitations/NewYear" title="New Year Cards">New Year Cards</a></li>
+                                        <li class="topLiLeftAL">&nbsp;</li>
+                </ul>
+                        </li>
+                                             <li><a href="javascript:void(0);" title="Kids &amp; Babies">Kids &amp; Babies</a>
+                            <ul class="subMenuL">
+                                            <li class="topLiLeftA"><a href="/en-US/buy/Invitations/NewBaby" title="Newborn">Newborn</a></li>
+                                            <li><a href="/en-US/buy/Invitations/Baptism" title="Baptism">Baptism</a></li>
+                                            <li><a href="/en-US/choose/Thank-You-Card" title="Thank You Cards">Thank You Cards</a></li>
+                                        <li class="topLiLeftAL">&nbsp;</li>
+                </ul>
+                        </li>
+                                             <li><a href="javascript:void(0);" title="Party">Party</a>
+                            <ul class="subMenuL">
+                                            <li class="topLiLeftA"><a href="/en-US/buy/Invitations/Kids" title="Kids Party">Kids Party</a></li>
+                                            <li><a href="/en-US/buy/Invitations/Birthday" title="Birthday">Birthday</a></li>
+                                            <li><a href="/en-US/buy/Invitations/Party" title="Party Invitations">Party Invitations</a></li>
+                                            <li><a href="/en-US/choose/Menu" title="Menu">Menu</a></li>
+                                            <li><a href="/en-US/choose/Placement-Card" title="Placement Cards">Placement Cards</a></li>
+                                        <li class="topLiLeftAL">&nbsp;</li>
+                </ul>
+                        </li>
+                                             <li><a href="javascript:void(0);" title="Wedding">Wedding</a>
+                            <ul class="subMenuL">
+                                            <li class="topLiLeftA"><a href="/en-US/choose/Wedding-Invitations" title="Wedding Invitations">Wedding Invitations</a></li>
+                                            <li><a href="/en-US/choose/Driving-Instructions" title="Driving Directions">Driving Directions</a></li>
+                                            <li><a href="/en-US/choose/RSVP-Card" title="RSVP Cards">RSVP Cards</a></li>
+                                            <li><a href="/en-US/choose/Church-Program" title="Church Program">Church Program</a></li>
+                                            <li><a href="/en-US/choose/Menu" title="Menu">Menu</a></li>
+                                            <li><a href="/en-US/choose/Placement-Card" title="Placement Cards">Placement Cards</a></li>
+                                            <li><a href="/en-US/choose/Thank-You-Card" title="Thank You Cards">Thank You Cards</a></li>
+                                        <li class="topLiLeftAL">&nbsp;</li>
+                </ul>
+                        </li>
+                                             <li><a href="javascript:void(0);" title="Calendars">Calendars</a>
+                            <ul class="subMenuL">
+                                            <li class="topLiLeftA"><a href="/en-US/buy/calendar/wall/2011" title="Wall calendars">Wall calendars</a></li>
+                                        <li class="topLiLeftAL">&nbsp;</li>
+                </ul>
+                        </li>
+                                             <li><a href="javascript:void(0);" title="Posters">Posters</a>
+                            <ul class="subMenuL">
+                                            <li class="topLiLeftA"><a href="/en-US/buy/posters" title="Posters">Posters</a></li>
+                                        <li class="topLiLeftAL">&nbsp;</li>
+                </ul>
+                        </li>
+             </ul>
+ 
+    <div id="lmBs">
+        <div id="bcContacts" class="lmBox">
+            <a href="javascript:;" id="bcContactUs" class="pointer link emailIcon">Send us an e-mail</a>
+        </div>
+         
+        <a href="/en-US/price_quality_guarantee" class="lmBox lmIcon policy" title="Read more">
+            <strong>100% <br>Return Policy</strong>
+        </a>
 
-<!-- Categories -->
-<h2>Shop for Business</h2>
-<ul class="leftMenu">
-         <li><a href="javascript:void(0);" title="Office Stationery">Office Stationery</a>
-         <ul class="subMenuL">
-                  <li class="topLiLeftA"><a href="/en-US/choose/Business-Cards" title="Business Cards">Business Cards</a></li>
-                  <li><a href="/en-US/choose/Letterheads" title="Letterheads">Letterheads</a></li>
-                  <li><a href="/en-US/choose/Correspondence-Cards" title="Correspondence Cards">Correspondence Cards</a></li>
-                  <li><a href="/en-US/choose/Envelopes" title="Envelopes">Envelopes</a></li>
-                  <li><a href="/en-US/choose/Appointment-Cards" title="Appointment Cards">Appointment Cards</a></li>
-                  <li><a href="/return-address-label" title="Address labels">Address labels</a></li>
-                  <li class="topLiLeftAL">&nbsp;</li>
-      </ul>
-      </li> 
-      <li><a href="javascript:void(0);" title="Marketing">Marketing</a>
-         <ul class="subMenuL">
-                  <li class="topLiLeftA"><a href="/en-US/choose/Flyers" title="Flyers">Flyers</a></li>
-                  <li><a href="/en-US/choose/Brochures" title="Brochures">Brochures</a></li>
-                  <li><a href="/posters" title="Posters">Posters</a></li>
-                  <li><a href="/en-US/choose/Folders" title="Folders">Folders</a></li>
-                  <li><a href="/en-US/choose/Postcards" title="Postcards">Postcards</a></li>
-                  <li><a href="/en-US/buy/Invitations/Christmas" title="Christmas Cards">Christmas Cards</a></li>
-                  <li class="topLiLeftAL">&nbsp;</li>
-      </ul>
-      </li> 
-   </ul>   
-<br clear="all">
-<h2>Shop for Family</h2>
-<ul class="leftMenu">
-      <li><a href="javascript:void(0);" title="Family Occasion">Family Occasion</a>
-         <ul class="subMenuL">
-                  <li class="topLiLeftA"><a href="/en-US/buy/Invitations/Confirmation" title="Confirmation">Confirmation</a></li>
-                  <li><a href="/en-US/buy/Invitations/Birthday" title="Birthday">Birthday</a></li>
-                  <li><a href="/en-US/choose/Thank-You-Card" title="Thank You Cards">Thank You Cards</a></li>
-                  <li><a href="/en-US/choose/Postcards" title="Postcards">Postcards</a></li>
-                  <li><a href="/en-US/buy/Invitations/Christmas" title="Christmas Cards">Christmas Cards</a></li>
-                  <li><a href="/en-US/buy/Invitations/NewYear" title="New Year Cards">New Year Cards</a></li>
-                  <li class="topLiLeftAL">&nbsp;</li>
-      </ul>
-      </li> 
-      <li><a href="javascript:void(0);" title="Labels">Labels</a>
-         <ul class="subMenuL">
-                  <li class="topLiLeftA"><a href="/return-address-label" title="Address labels">Address labels</a></li>
-                  <li><a href="/custom-label" title="Custom labels">Custom labels</a></li>
-                  <li class="topLiLeftAL">&nbsp;</li>
-      </ul>
-      </li> 
-      <li><a href="javascript:void(0);" title="Party">Party</a>
-         <ul class="subMenuL">
-                  <li class="topLiLeftA"><a href="/en-US/buy/Invitations/Kids" title="Kids Party">Kids Party</a></li>
-                  <li><a href="/en-US/buy/Invitations/Birthday" title="Birthday">Birthday</a></li>
-                  <li><a href="/en-US/buy/Invitations/Party" title="Party Invitations">Party Invitations</a></li>
-                  <li><a href="/en-US/choose/Menu" title="Menu">Menu</a></li>
-                  <li><a href="/en-US/choose/Placement-Card" title="Placement Cards">Placement Cards</a></li>
-                  <li class="topLiLeftAL">&nbsp;</li>
-      </ul>
-      </li> 
-      <li><a href="javascript:void(0);" title="Wedding">Wedding</a>
-         <ul class="subMenuL">
-                  <li class="topLiLeftA"><a href="/en-US/choose/Wedding-Invitations" title="Wedding Invitations">Wedding Invitations</a></li>
-                  <li><a href="/en-US/choose/Driving-Instructions" title="Driving Directions">Driving Directions</a></li>
-                  <li><a href="/en-US/choose/RSVP-Card" title="RSVP Cards">RSVP Cards</a></li>
-                  <li><a href="/en-US/choose/Church-Program" title="Church Program">Church Program</a></li>
-                  <li><a href="/en-US/choose/Menu" title="Menu">Menu</a></li>
-                  <li><a href="/en-US/choose/Placement-Card" title="Placement Cards">Placement Cards</a></li>
-                  <li><a href="/en-US/choose/Thank-You-Card" title="Thank You Cards">Thank You Cards</a></li>
-                  <li class="topLiLeftAL">&nbsp;</li>
-      </ul>
-      </li> 
-      <li><a href="javascript:void(0);" title="Calendars">Calendars</a>
-         <ul class="subMenuL">
-                  <li class="topLiLeftA"><a href="/en-US/buy/calendar/wall/2010" title="Wall calendars">Wall calendars</a></li>
-                  <li class="topLiLeftAL">&nbsp;</li>
-      </ul>
-      </li> 
-      <li><a href="javascript:void(0);" title="Kids &amp; Babies">Kids &amp; Babies</a>
-         <ul class="subMenuL">
-                  <li class="topLiLeftA"><a href="/en-US/buy/Invitations/NewBaby" title="Newborn">Newborn</a></li>
-                  <li><a href="/en-US/buy/Invitations/Baptism" title="Baptism">Baptism</a></li>
-                  <li><a href="/en-US/choose/Thank-You-Card" title="Thank You Cards">Thank You Cards</a></li>
-                  <li class="topLiLeftAL">&nbsp;</li>
-      </ul>
-      </li> 
-</ul>   
-<br clear="all">
-<h2>TODAY'S OFFERS </h2>
-<ul class="leftMenu">
-	<li><a href="/en-US/Free-Business-Cards" title="Free Business Cards">Free Business Cards</a></li>
-    <li><a href="/free-postcards" title="10 Free A6 Cards">10 Free A6 Cards</a></li>
-    <li><a href="/en-US/free-leaflets" title="Free Leaflets">Free Leaflets</a></li>
-    <li><a href="/en-US/buy/calendar/wall/2010" title="Wall calendars">Wall calendars</a></li>    
-</ul>   
-<br clear="all">
-<!-- //Categories -->
+                <a href="/en-US/shipping" class="lmBox lmIcon express" title="Read more">
+            <strong>Tracked <br>Delivery</strong>
+        </a>
+        
+        <div class="lmBox lmCC">
+            <strong>Shop with confidence</strong><br>
+            <a title="mcAfee" id="mcAfee" target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.optimalprint.com" class="designer_confirm_link">&nbsp;</a><br>
+                        <a href="/en-US/security_guide" title="Secure payment"><img src="/s/assets/images/icons/cc_en-US-v1303307191.png" alt="cc"></a>
+        </div>
+        <a href="/gbm" class="lmBox lmIcon gbm" title="Read more">
+            <strong>Supporting the Green Belt Movement</strong>
+        </a>
+    </div>
+    <div id="contactUs" style="display:none;">
+            <form class="contactUsForm" name="contactUsForm">
+                <h3>Contact Us</h3>
+                <br clear="all">
+                <label>Please enter your comment:</label><br>
+                <textarea name="contactUsDesc" id="contactUsDesc" style="width:360px;" class="textArea" cols="63" rows="8"></textarea>
+                <br clear="all"><br>
+                <label>Email Address:</label><br>
+                <input type="text" name="contactUsEmail" id="contactUsEmail" class="inputBox" value="">
+                <br clear="all"><br>
 
-				 <br clear="all" class="cleat">
-			  </div>
-			  <div id="mainContent" class="mainContent">
-			    <center>
-</center>			   <h1>Privacy Policy</h1>
+                <div id="captchaBlockCUs">
+                    <div id="enterCaptchaCUs">
+                        <label>Enter the code:</label><br>
+                        <input type="text" name="captchaCUs" id="captchaCUs"> 
+                    </div>
+                    <div id="captchaDivCUs"><img src="/s/images/spacer-v1301032817.gif" id="captchaImgCUs" alt=""></div>
+                    <div id="reloadCUs"><a href="javascript:;" onclick="reloadCaptchaCUs()" class="relButton">&nbsp;</a></div>
+                    <br clear="all"><div class="clear"></div>
+                </div>
+                
+                <br clear="all"><br>
+                <div class="floatRight">
+                    <a href="javascript:;" class="button blue ok" id="contactUsCancel"><span>Cancel</span></a>
+                    <a href="javascript:;" class="button blue" id="contactUsOk"><span>Send</span></a>
+                </div>
+                <br clear="all"><br>
+            </form>
+        </div>    
+        
+        <div id="contactUsThx" style="display:none">
+            <br clear="all">
+            Thank you for your e-mail! We will get back to you shortly.
+            <br clear="all"><br>
+            <div class="floatRight"><a href="javascript:;" class="button blue" id="contactUsThxCancel"><span>Close</span></a></div>
+            <br clear="all"><br>
+        </div>    
+    
+    
+							<br clear="all" class="cleat">
+						</div>
+						<div id="mainContent" class="mainContent">
+							 <center>
+</center>							<h1>Privacy Policy</h1>
 <div class="clear"></div><br>
 
 <h2>Part of Optimalprint's <a href="/en-US/terms">Terms and Conditions</a></h2><div class="clear"></div><br>
@@ -454,148 +365,348 @@ This Site should not be used to send or use e-cards, e-mails, SMS or any other e
 <br><br>
 You agree that you are responsible for protecting your password and controlling access to your registered account and that you will be responsible for all orders placed or other actions that are taken through your registered account.
 
-			   <br clear="all" class="clear">
-			  </div>
-			  <div class="clear"></div>
-			  			  </div></div>			   <!-- //Content -->
+							<br clear="all" class="clear">
+						</div>
+						<div class="clear"></div>
+									
+				  </div></div>							<!-- //Content -->
 
-	   <!-- FOOTER -->
-	   <!-- Footer Menu  --> 
-   <div id="footerMenu">
-      
-      <div class="footerRound" id="footerRound">  <b class="tl">&nbsp;</b>  <b class="tr">&nbsp;</b>  <b class="top">&nbsp;</b>  <b class="left">&nbsp;</b>  <b class="right">&nbsp;</b>  <b class="bottom">&nbsp;</b>  <b class="bl">&nbsp;</b>  <b class="br">&nbsp;</b>  <b class="center">&nbsp;</b>  <b class="centerBot">&nbsp;</b>  <b class="close" id="footerRoundClose">&nbsp;</b>  <div id="footerRoundCon" class="footerRoundCon"> 
+			<!-- FOOTER -->
+		﻿<!-- Footer Menu  -->
+                  <div id="footerMenu">
+            <div class="footerRound" id="footerRound">  <b class="tl">&nbsp;</b>  <b class="tr">&nbsp;</b>  <b class="top">&nbsp;</b>  <b class="left">&nbsp;</b>  <b class="right">&nbsp;</b>  <b class="bottom">&nbsp;</b>  <b class="bl">&nbsp;</b>  <b class="br">&nbsp;</b>  <b class="center">&nbsp;</b>  <b class="centerBot">&nbsp;</b>  <b class="close" id="footerRoundClose">&nbsp;</b>  <div id="footerRoundCon" class="footerRoundCon">          <div id="footerWrap">
             <div class="footerLinks">
                <h2>Help</h2>
-               <ul> 
-                  <li><a href="/en-US/FAQ" title="Customer Service">Customer Service</a></li>
-                  <li><a href="/en-US/shipping" title="Delivery Time">Delivery Time</a></li>
-                  <li><a href="/en-US/quality" title="Paper Quality">Paper Quality</a></li>
-                  <li><a href="/en-US/terms" title="Terms and Conditions">Terms and Conditions</a></li>
-                  <li><a href="/en-US/privacy" title="Privacy Policy">Privacy Policy</a></li>
-                  <li><a href="/site-map" title="Site map">Site map</a></li>
-               </ul>
+               <ul>
+                  <li><a class="designer_confirm_link" href="/en-US/FAQ" title="Customer Service">Customer Service</a></li>
+                  <li><a class="designer_confirm_link" href="/en-US/shipping" title="Delivery Time">Delivery Time</a></li>
+    			  <li><a href="javascript:;" class="designer_confirm_link" id="shippingCountries" title="Shipping Countries">Shipping Countries</a></li>
+                  <li><a class="designer_confirm_link" href="/en-US/quality" title="Paper Quality">Paper Quality</a></li>
+                  <li><a class="designer_confirm_link" href="/en-US/terms" title="Terms and Conditions">Terms and Conditions</a></li>
+                  <li><a class="designer_confirm_link" href="/en-US/privacy" title="Privacy Policy">Privacy Policy</a></li>
+                                 </ul>
             </div>
-            <div class="footerLinks">  
+            <div class="footerLinks">
                <h2>MY SERVICES</h2>
-               <ul>  
-                                    <li><a href="/en-US/login" title="Login/Register">Login/Register</a></li>
-                  <li><a href="/en-US/my_account" title="My Account">My Account</a></li>
-                  <li><a href="/en-US/my_orders" title="My Orders">My Orders</a></li>
-                  <li><a href="/en-US/my_gallery" title="My Gallery">My Gallery</a></li>
-                  <li><a href="/en-US/recover_password" title="Forgot your password?">Forgot your password?</a></li>
-                               </ul> 
-            </div> 
+               <ul>
+                                    <li><a class="designer_confirm_link" href="/en-US/login" title="Login/Register">Login/Register</a></li>
+                  <li><a class="designer_confirm_link" href="/en-US/my_account" title="My Account">My Account</a></li>
+                  <li><a class="designer_confirm_link" href="/en-US/my_orders" title="My Orders">My Orders</a></li>
+                  <li><a class="designer_confirm_link" href="/en-US/my_gallery" title="My Gallery">My Gallery</a></li>
+                  <li><a class="designer_confirm_link" href="/refer-friend" title="Recommend a friend">Recommend a friend</a></li>
+                  <li><a class="designer_confirm_link" href="/en-US/recover_password" title="Forgot your password?">Forgot your password?</a></li>
+                               </ul>
+            </div>
             <div class="footerLinks">
                <h2>Our Services</h2>
                <ul>
-                    <li><a href="/en-US/price_quality_guarantee" title="Quality Guarantee">Quality Guarantee</a></li>
-                    <li><a href="/en-US/upload_design" title="Upload Own Files">Upload Own Files</a></li>
-                    <li><a href="/search_designs" title="Search Our Designs">Search Our Designs</a></li>
-               </ul>  
+                    <li><a class="designer_confirm_link" href="/en-US/price_quality_guarantee" title="Quality Guarantee">Quality Guarantee</a></li>
+                    <li><a class="designer_confirm_link" href="/en-US/upload_design" title="Print Your Own Files">Print Your Own Files</a></li>
+                    <li><a class="designer_confirm_link" href="/search_designs" title="Search Our Designs">Search Our Designs</a></li>
+                  	<li><a class="designer_confirm_link" href="/en-US/price_list" title="Prices">Prices</a></li>
+                    <li><a class="designer_confirm_link" href="/site-map" title="Site map">Site map</a></li>
+               </ul>
             </div>
             <div class="footerLinks">
                <h2>ABOUT OPTIMALPRINT</h2>
                <ul>
-                                    <li><a href="/en-US/about_us" title="About Us">About Us</a></li>
-                  <li><a href="/en-US/about_us#1" title="Management">Management</a></li>
-                  <li><a href="/en-US/about_us#2" title="Testimonials">Testimonials</a></li>
-                  <li><a href="/en-US/about_us#3" title="Press">Press</a></li>
-                                                      <li><a href="http://blog.optimalprint.com" title="Blog">Blog</a></li>
-                                    <li><a href="/affiliate" title="Affiliate Program">Affiliate Program</a></li>
-                                 </ul>  
-            </div> 
-            <div class="footerLinks">
-               <h2>TODAY'S OFFERS </h2>
-               <ul> 
-				  <li><a href="/en-US/Free-Business-Cards" title="Free Business Cards">Free Business Cards</a></li>
-                  <li><a href="/free-postcards" title="10 Free A6 Cards">10 Free A6 Cards</a></li>
-                  <li><a href="/en-US/free-leaflets" title="Free Leaflets">Free Leaflets</a></li>
-				  <li><a href="/en-US/buy/calendar/wall/2010" title="Wall calendars">Wall calendars</a></li>                      
-               </ul>  
+                                    <li><a class="designer_confirm_link" href="/en-US/about_us" title="About Us">About Us</a></li>
+                  <li><a class="designer_confirm_link" href="/en-US/about_us#1" title="Management">Management</a></li>                  <li><a class="designer_confirm_link" href="/en-US/about_us#4" title="Board Members">Board Members</a></li>
+                  <li><a class="designer_confirm_link" href="/en-US/about_us#2" title="Testimonials">Testimonials</a></li>
+                  <li><a class="designer_confirm_link" href="/en-US/about_us#3" title="Press">Press</a></li>
+                                                      <li><a class="designer_confirm_link" href="http://www.optimalprint.com/blog/" title="Blog">Blog</a></li>
+                                    <li><a class="designer_confirm_link" href="/affiliate" title="Affiliate Program">Affiliate Program</a></li>
+                                 </ul>
             </div>
-             <br clear="all" class="clear"><br clear="all" class="clear"> 
-        </div></div> 
-   </div>
-   <!-- //Footer Menu  --> 
-    
+            <div class="footerLinks">
+               <h2>Today's Offers </h2>
+               <ul>
+				  <li><a class="designer_confirm_link" href="/en-US/Free-Business-Cards" title="Free Business Cards">Free Business Cards</a></li>
+				  <li><a class="designer_confirm_link" href="/en-US/buy/calendar/wall/2011" title="Wall calendars">Wall calendars</a></li>
+               </ul>
+            </div>
+             <br clear="all" class="clear"><br clear="all" class="clear">
+         </div>
+        </div></div>   </div>
+   <!-- //Footer Menu  -->
+
    <!-- Footer -->
    <div id="footer">
-      <div id="footerCards">&nbsp;</div>
+      <div id="footerCards">
+		      </div>
       <div id="footerLocales">
-                                        <a href="http://www.optimalprint.be" title="Belgique">Belgique</a>
-                                                |              <a href="http://www.optimalprint.com.br" title="Brasil">Brasil</a>
-                                                |              <a href="http://www.optimalprint.no" title="Denmark">Denmark</a>
-                                                |              <a href="http://www.optimalprint.de" title="Deutschland">Deutschland</a>
-                                                |              <a href="http://www.optimalprint.es" title="España">España</a>
-                                                |              <a href="http://www.optimalprint.com" title="Europe">Europe</a>
-                                                |              <a href="http://www.optimalprint.fr" title="France">France</a>
-                                                |              <a href="http://www.optimalprint.com" title="Ireland">Ireland</a>
-                                                |              <a href="http://www.optimalprint.nl" title="Nederland">Nederland</a>
-                                                            <br>
-                                                <a href="http://www.optimalprint.no" title="Norge">Norge</a>
-                                                |              <a href="http://www.optimalprint.de" title="Österreich">Österreich</a>
-                                                |              <a href="http://www.optimalprint.pt" title="Portugal">Portugal</a>
-                                                |              <a href="http://www.optimalprint.de" title="Schweiz">Schweiz</a>
-                                                |              <a href="http://www.optimalprint.com" title="Suomi">Suomi</a>
-                                                |              <a href="http://www.optimalprint.se" title="Sverige">Sverige</a>
-                                                |              <a href="http://www.optimalprint.co.uk" title="United Kingdom">United Kingdom</a>
-                                </div>
-      <div id="footerSecured">
-         <a href="/en-US/security_guide" title="Secure payment"><span id="secPayment">&nbsp;</span><span class="floatLeft" id="secPaymentTxt">Secure payment</span></a>
-         <a href="#" id="mcAfee" title="mcAfee">&nbsp;</a>
+          	      <form name="CrossdomainGATrackerForm" method="post" action="">
+	            	             	                	                    							<a class="designer_confirm_link" href="http://www.optimalprint.be" title="Belgique">Belgique</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.com.br" title="Brasil">Brasil</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.dk" title="Denmark">Denmark</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.de" title="Deutschland">Deutschland</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.es" title="España">España</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.com" title="Europe">Europe</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.fr" title="France">France</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.it" title="Italia">Italia</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.com" title="Ireland">Ireland</a>
+							                	             	         	             	                	                 <br>
+	             	         	             	                	                    							<a class="designer_confirm_link" href="http://www.optimalprint.nl" title="Nederland">Nederland</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.no" title="Norge">Norge</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.de" title="Österreich">Österreich</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.pl" title="Polska">Polska</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.pt" title="Portugal">Portugal</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.de" title="Schweiz">Schweiz</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.com" title="Suomi">Suomi</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.se" title="Sverige">Sverige</a>
+							                	             	         	             	                 | 	                    							<a class="designer_confirm_link" href="http://www.optimalprint.co.uk" title="United Kingdom">United Kingdom</a>
+							                	             	         	      </form>
+		  <script type="text/javascript">
+		  
+		  	(function (){
+				var footerLocales = document.getElementById('footerLocales');
+				if (footerLocales && footerLocales.childNodes.length > 0) {
+					document.CrossdomainGATrackerForm.onsubmit = function () {
+						_gaq.push(['_linkByPost', this]);
+					}
+					for (var n = 0; n < footerLocales.childNodes.length; n++) {
+						var node = footerLocales.childNodes[n];
+						if (node.nodeName == 'A') {
+							node.onclick = function () {
+								document.CrossdomainGATrackerForm.action = this.href;
+								document.CrossdomainGATrackerForm.submit();
+								return false;
+							}
+						}
+					}
+				}
+			})();
+		  
+		  </script>
       </div>
+      <div id="footerSecured">
+         <a class="designer_confirm_link" href="/en-US/security_guide" title="Secure payment"><span id="secPayment">&nbsp;</span><span class="floatLeft" id="secPaymentTxt">Secure payment</span></a>
+         <a class="designer_confirm_link" href="https://www.scanalert.com/RatingVerify?ref=www.optimalprint.com" target="_blank" id="mcAfee" title="mcAfee">&nbsp;</a>
+	           </div>
       <br clear="all" class="clear"><br>
    </div>
-<!-- //Footer -->	   <!-- //FOOTER -->
+<!-- //Footer -->
+
+<div id="countriesDiv" style="display:none">
+    <br><h3>We Print &amp; Ship to these countries</h3>
+            <div class="shippingCountry">Aland Islands</div>
+                    <div class="shippingCountry">Andorra</div>
+                    <div class="shippingCountry">Argentina</div>
+        <br clear="all">            <div class="shippingCountry">Australia</div>
+                    <div class="shippingCountry">Austria</div>
+                    <div class="shippingCountry">Belgium</div>
+        <br clear="all">            <div class="shippingCountry">Brazil</div>
+                    <div class="shippingCountry">Bulgaria</div>
+                    <div class="shippingCountry">Chile</div>
+        <br clear="all">            <div class="shippingCountry">Colombia</div>
+                    <div class="shippingCountry">Croatia</div>
+                    <div class="shippingCountry">Cyprus</div>
+        <br clear="all">            <div class="shippingCountry">Czech Republic</div>
+                    <div class="shippingCountry">Denmark</div>
+                    <div class="shippingCountry">Ecuador</div>
+        <br clear="all">            <div class="shippingCountry">El Salvador</div>
+                    <div class="shippingCountry">Estonia</div>
+                    <div class="shippingCountry">Faroe Islands</div>
+        <br clear="all">            <div class="shippingCountry">Finland</div>
+                    <div class="shippingCountry">France</div>
+                    <div class="shippingCountry">Germany</div>
+        <br clear="all">            <div class="shippingCountry">Gibraltar</div>
+                    <div class="shippingCountry">Greece</div>
+                    <div class="shippingCountry">Greenland</div>
+        <br clear="all">            <div class="shippingCountry">Guatemala</div>
+                    <div class="shippingCountry">Guernsey</div>
+                    <div class="shippingCountry">Hungary</div>
+        <br clear="all">            <div class="shippingCountry">Iceland</div>
+                    <div class="shippingCountry">Ireland</div>
+                    <div class="shippingCountry">Italy</div>
+        <br clear="all">            <div class="shippingCountry">Jersey</div>
+                    <div class="shippingCountry">Latvia</div>
+                    <div class="shippingCountry">Liechtenstein</div>
+        <br clear="all">            <div class="shippingCountry">Lithuania</div>
+                    <div class="shippingCountry">Luxembourg</div>
+                    <div class="shippingCountry">Malta</div>
+        <br clear="all">            <div class="shippingCountry">Martinique</div>
+                    <div class="shippingCountry">Mauritius</div>
+                    <div class="shippingCountry">Mexico</div>
+        <br clear="all">            <div class="shippingCountry">Monaco</div>
+                    <div class="shippingCountry">Netherlands</div>
+                    <div class="shippingCountry">New Zealand</div>
+        <br clear="all">            <div class="shippingCountry">Norway</div>
+                    <div class="shippingCountry">Panama</div>
+                    <div class="shippingCountry">Peru</div>
+        <br clear="all">            <div class="shippingCountry">Poland</div>
+                    <div class="shippingCountry">Portugal</div>
+                    <div class="shippingCountry">Romania</div>
+        <br clear="all">            <div class="shippingCountry">San Marino</div>
+                    <div class="shippingCountry">Slovak Republic</div>
+                    <div class="shippingCountry">Slovenia</div>
+        <br clear="all">            <div class="shippingCountry">Spain</div>
+                    <div class="shippingCountry">Sweden</div>
+                    <div class="shippingCountry">Switzerland</div>
+        <br clear="all">            <div class="shippingCountry">United Kingdom</div>
+                    <div class="shippingCountry">Venezuela</div>
+                <br><br>
+</div>		<!-- //FOOTER -->
+	</div>
+
+
+<div id="expressShippingC" style="display:none;">
+	<table id="expressShippingInfo" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+		<td height="254" valign="top">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td height="137" colspan="9" valign="top">
+						<table width="200" border="0" cellspacing="0" cellpadding="0" align="right">
+						<tbody><tr>
+							<td height="27" colspan="3">&nbsp;</td>
+						</tr>
+						<tr>
+							<td width="31" height="41">&nbsp;</td>
+							<td width="83" class="cost"></td>
+							<td width="86">&nbsp;</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td width="20" height="42">&nbsp;</td>
+					<td width="98">Day 0 <br> Order</td>
+					<td width="19">&nbsp;</td>
+					<td width="99">Day 1<br> Print</td>
+					<td width="21">&nbsp;</td>
+					<td width="97">Day 2<br> Package</td>
+					<td width="21">&nbsp;</td>
+					<td width="97">Day 3-4<br> Delivery</td>
+					<td width="15">&nbsp;</td>
+				</tr>
+				<tr>
+					<td height="26" colspan="9">&nbsp;</td>
+				</tr>
+				<tr>
+					<td height="28" colspan="9"><center>No processing during weekends or holidays</center></td>
+				</tr>
+			</tbody></table>
+			<table width="436" style="height:101px;" align="center">
+				<tbody><tr>
+					<td></td>
+				</tr>
+				<tr>
+					<td><ol><li>Track your order real-time </li><li>Door to Door daytime delivery - Please enter your work address </li><li>Fastest delivery form guaranteed</li>
+</ol></td>
+				</tr>
+			</tbody></table>
+		</td>
+		</tr>
+	</tbody></table>
 </div>
 
+<div id="reportAproblemForm" style="display:none">
+	<h3>Report a problem</h3>
+	<br clear="all">
+	<label>Please briefly describe the problem: </label><br>
+	<textarea name="description" id="descriptionReport" style="width:360px;" class="textArea" cols="63" rows="8"></textarea>
+	<br clear="all"><br>
+	<label>Email Address:</label><br>
+	<input type="text" name="emailReport" id="emailReport" class="inputBox" value="">
+    <br clear="all"><br>
 
+    <label>Enter your phone number</label><br>
+    <input type="text" name="phoneReport" id="phoneReport" class="inputBox" value="">
+	<br clear="all"><br>
 
+	<div id="captchaBlock">
+		<div id="enterCaptcha">
+			<label>Enter the code</label><br>
+			<input type="text" name="captcha" id="captcha">
+		</div>
+		<div id="captchaDiv"><img src="/s/images/spacer-v1301032817.gif" id="captchaImg" alt=""></div>
+		<div id="reload"><a href="javascript:;" onclick="reloadCaptcha()" class="relButton">&nbsp;</a></div>
+		<br clear="all"><div class="clear"></div>
+	</div>
+	<br clear="all"><br>
+	<div class="floatRight">
+		<a href="javascript:;" class="button blue ok" id="reportAproblemFormCancel"><span>Cancel</span></a>
+		<a href="javascript:;" class="button blue" id="reportAproblemFormOk"><span>Send</span></a>
+	</div>
+	<br clear="all"><br>
+</div>
 
-<script type="text/javascript">
+<div id="reportAproblemFormThx" style="display:none">
+	<br clear="all">
+	    Thank you for bringing this to our attention.<br><br>      We'll review your submission and follow up with you if we require more info or we have additional info to share.     Sincerely,<br>       Optimalprint team
+	<br clear="all"><br>
+	<div class="floatRight"><a href="javascript:;" class="button blue" id="reportAproblemFormThxCancel"><span>Close</span></a></div>
+	<br clear="all"><br>
+</div>
+<script type="text/javascript"><!--
+var test_suit_has_arror = false;
+var test_suit_error_msg = '';
 
-function showCSNumbers(){
-	document.getElementById("cs_numbers").style.display='';
+function addEvent(element, ev, handler){var doHandler = function(e){return handler(e||window.event);};if (element.addEventListener){element.addEventListener(ev, doHandler, false);}else if (element.attachEvent){element.attachEvent("on" + ev, doHandler);}};
+function dynamicLoading(url,callback,chkObj){if(typeof(url)=='array'||typeof(url)=='object'){for(var i=0;i<url.length;i++){dynamicLoading(url[i],'','')}}else{if(typeof(callback)=='undefined')callback='';if(typeof(chkObj)=='undefined')chkObj='';var rslt=navigator.appVersion.match(/MSIE (\d+\.\d+)/,'');var ie=(rslt!=null&&Number(rslt[1])>=6.0&&Number(rslt[1])<10.0);var type=url.substr(url.length-3,url.length);var sr=url.replace(/\//g,'\\/');var sr1Arr=sr.split('\\\/');var sr2Arr=sr1Arr[sr1Arr.length-1].split('.');var sr1=sr2Arr[0];var currScript=sr2Arr[0];var splSr1=sr1.split('-');var sr1L=splSr1[splSr1.length-1];var sr2=sr2Arr[1];var cachedScript=sr1.replace('-'+sr1L,'');if(type=='.js'){var script=document.createElement("script");script.type="text/javascript";script.src=url;var reg=new RegExp('src=.+'+currScript+'\.js|src=.+'+cachedScript+'\.js','g');var chkStr=reg.test(document.getElementsByTagName('html')[0].innerHTML)}else if(type=='css'){var script=document.createElement("link");script.href=url;script.rel='stylesheet';script.type="text/css";script.media='screen';var reg=new RegExp('href=.+'+currScript+'\.css|href=.+'+cachedScript+'\.css','g');var chkStr=reg.test(document.getElementsByTagName('html')[0].innerHTML)}function doInclude(){if(chkStr!=false){if(typeof(callback)=='function')callback()}else{if(ie){script.onreadystatechange=function(){if(script.readyState=="loaded"||script.readyState=="complete"){script.onreadystatechange=null;if(typeof(callback)=='function')callback()}}}else{script.onload=function(){if(typeof(callback)=='function')callback()}}document.getElementsByTagName("head")[0].appendChild(script)}};if(chkObj.length!=0){try{if(typeof(eval(chkObj))==='object'||typeof(eval(chkObj))==='function'){if(ie&&chkStr==false){setTimeout(function(){doInclude()},300)}else{doInclude()}}}catch(e){setTimeout(function(){dynamicLoading(url,callback,chkObj)},300)}}else{if(ie&&chkStr==false){setTimeout(function(){doInclude()},300)}else{doInclude()}}}}
+function checkSearchParams(url,type){if (!$ID('topKeywordsID').value && !$ID('topIndustryID').selectedIndex){return false;}document.body.style.cursor='wait';return doSearch('topKeywordsID','topIndustryID',url, 1,type);}
+$ID('topSearchBtn').onclick = function(){checkSearchParams("/search_designs","");}
+function doSearch(keywordsId, industryId, submitUrl, isTopSearch, typeSearch){var keyword = $ID(keywordsId).value;var industry = $ID(industryId).value;var path = submitUrl + "?";if (typeSearch != ""){path += 'typeSearch=' + typeSearch + "&";}if (keyword != ""){path += 'keywords=' + encodeURIComponent(keyword) + "&";}if (industry != "" && industry != 0){path += 'industry=' + encodeURIComponent(industry) + "&";}if(isTopSearch && ((keyword != "") || (industry != "" && industry != 0))){path +=  't=1&';}path = path.replace(/%20/g, "+"); window.location = path.substr(0, path.length - 1); return false;}
+function showLightBox(params) { 
+    var wrapper = ( typeof params.wrapper != 'undefined' )?params.wrapper:'shadowBox'; 
+	var url = ( typeof params.url != 'undefined' )?params.url:'';
+	var type = ( typeof params.type != 'undefined' )?params.type:'box'; 
+ 	var width = ( typeof width != undefined )?params.width:'auto'; 
+ 	var callback = ( typeof params.callback == 'object' ||  typeof params.callback == 'function')?params.callback:function(){}; 
+    if ( typeof params.id != 'undefined' && $ID(params.id)) {
+        if(typeof lightbox != 'undefined') {
+            lightbox.showBox(type, params.id, url, width, wrapper, callback);
+ 		} else {
+            dynamicLoading('/c/css/1301032873/assets_c/css/modules/modalBox.css'); 
+ 			dynamicLoading('/c/css/1301032873/assets_c/css/modules/lightbox.css'); 
+ 			dynamicLoading('/c/js/1301032873/assets_c/js/lightbox.js', function() {
+				if (typeof lightbox.oldWinOnScroll == 'function') {
+					lightbox.winOnScroll = lightbox.oldWinOnScroll;
+					lightbox.oldWinOnScroll = null;
+				}
+ 				lightbox.showBox(type, params.id, url, width, wrapper, callback); 
+ 			});
+		} 
+	} else if($ID(params.id+'Added')) {
+		lightbox.showBox(type, params.id, url, width, wrapper, callback);
+ 	} else {                          
+ 		return false;
+ 	} 
+} 
+
+function hideLightBoxes() {
+	if(typeof(lightbox != 'undefined')) {
+		lightbox.closeBox();
+	}
 }
-function hideCSNumbers(){
-	document.getElementById("cs_numbers").style.display='none';
-}
+function move(url) {location.href = url;}
+function popup(url) {window.open(url, "name","height=550,width=750,left=30,top=30,location=no,resizable=yes,scrollbars=yes,toolbar=no,status=no");}
+                     
 
+var session_log_id="";
+
+	/*Errors*/
+	function log_message(msg,url,ln,type){try{test_suit_has_arror = true;test_suit_error_msg = type +': "' + msg + '" in line ' + ln + ', url: ' + url;var i = new Image();i.src = '/log_js/?m='+encodeURIComponent(msg)+'&t='+type+'&l='+ln+'&u='+encodeURIComponent(url)+'&r='+encodeURIComponent(document.referrer)+'&s='+session_log_id;i = null;if (window.console){window.console.log(type + ': ' + msg + '; line: ' + ln);}if (document.cookie.indexOf('DEBUG' + "=")!=-1){return false;}else{return true;}} catch(e) {} return true;}
+	function log_error(msg,url,ln) { log_message(msg,url,ln,'error'); }
+	function log_warning(msg,url,ln) { log_message(msg,url,ln,'warning'); }
+	function log_notice(msg,url,ln) { log_message(msg,url,ln,'notice'); }
+	function log_info(msg,url,ln) { log_message(msg,url,ln,'info'); }
+	function log_debug(msg,url,ln) { log_message(msg,url,ln,'debug'); }
+	function log(msg) { log_message(msg,'',0,'error'); }
+	function notify_on_error(item, msg){log(item+'-'+msg);}
+	function showException(originalRequest, exception) {log_error("ajax exception: " + exception,'','');}
+
+	
+	try { window.onerror = log_error; } catch(e) {}
+	
+    
+// -->
 </script>
 
-
-
-
-<script type="text/javascript"><!--
-
-clickTaleExecLocal = function(){};
-clickTalePrefillFormsChecker = function(){};
-clickTaleAddPrefillForms = function(){};
-window.ClickTaleIsPlayback = window.ClickTaleIsPlayback || function(){return window.parent && window.parent.WebPlayer?true:false;};
-
-// --></script>
-
-
-
-
-
-<script type="text/javascript"><!--
-	var missing_items = [];
-	
-		for(var i=0; i<document.styleSheets.length; i++) {
-		  var sheet = document.styleSheets[i];
-		  try
-		  {
-			  var rules = sheet.rules ? sheet.rules : sheet.cssRules;
-			  if (sheet.href && !rules.length){
-				missing_items[missing_items.length] = sheet.href;
-			  }
-		  } catch(e) {}
-		}
-		if (missing_items.length) notify_not_found('css', missing_items.join(','));
 	
 
-// --></script>
+
 
 
 
@@ -605,43 +716,263 @@ window.ClickTaleIsPlayback = window.ClickTaleIsPlayback || function(){return win
 <script type="text/javascript">
 <!--
 
-  TailGoogleAnalytics = function(){}
 
-//-->
+var x = { log: function(){ return; }, goal: function(){ return; }};
+var clicky_site_id = '213242';
+
+
+
+	var clickTaleExecLocal = function(){};
+	var clickTalePrefillFormsChecker = function(){};
+	var clickTaleAddPrefillForms = function(){};
+	window.ClickTaleIsPlayback = window.ClickTaleIsPlayback || function(){return window.parent && window.parent.WebPlayer?true:false;};
+
+
+// -->
+</script>
+
+<script type="text/javascript" src="/c/js/1301634396/jquery/js/jquery.js"></script>
+<script type="text/javascript" src="/c/js/1303885068/js_y_c/ajax_handlers.js"></script>
+
+<script type="text/javascript"><!--
+	var missing_items = [];
+	
+		for(var i=0; i<document.styleSheets.length; i++) {
+			var sheet = document.styleSheets[i];
+			try {
+				var rules = sheet.rules ? sheet.rules : sheet.cssRules;
+				if (sheet.href && !rules.length) {
+					missing_items[missing_items.length] = sheet.href;
+				}
+			} catch(e) {}
+		}
+		if (missing_items.length)  log('Missing CSS: ' + missing_items.join(','));
+	
+
+// -->
 </script>
 
 
 <script type="text/javascript">
+<!--
 
-
-
-
-var _gaq = _gaq || [];
-_gaq.push(['tail._setAccount', 'UA-859089-1']);
-_gaq.push(['tail._trackPageview']);
-
-(function() {
-	var ga = document.createElement('script');
-	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	ga.setAttribute('async', 'true');
-	document.documentElement.firstChild.appendChild(ga);
-})();
-
-</script>
-
-
-<script type="text/javascript"><!--
-function TailPage(){
-	TailGoogleAnalytics();
-
-		
+if($('#mainContentCat').length) {
+    var leftFilterOffset = $('#leftMenu').position().top - 20;
+    window.onscroll = function() {
+        var contentLP = $('#mainContentCat').height();
+        var filterLP = $('#leftMenu').height();
+        var filterBotPos =parseInt($(window).scrollTop()) + filterLP -20;
+        if($(window).scrollTop() > 130 ) {
+            if(filterBotPos < contentLP)  {
+                $('#leftMenu').css('top', parseInt($(window).scrollTop()) - 120 + 'px');
+            } else {
+                $('#leftMenu').css('top', (contentLP - filterLP) - 20 + 'px');
+            }
+        } else {
+            $('#leftMenu').css('top', '0px');
+        }
+    }
+    if(typeof lightbox != 'undefined') lightbox.onscrollBuffer = window.onscroll;
 }
 
 
-if (window.attachEvent) window.attachEvent('onload', TailPage); else window.addEventListener("load",TailPage,false);
+    
+        $('#bcContactUs').click(function() {
+            dynamicLoading('/c/css/1301032873/assets_c/css/modules/modalBox.css');
+            dynamicLoading('/c/css/1301032873/assets_c/css/modules/lightbox.css');
+            dynamicLoading('/c/js/1301032873/assets_c/js/lightbox.js', function() {
+                lightbox.showBox('box', 'contactUs', '', '400', 'shadowBox', function() {
+                    reloadCaptchaCUs();
+                    $('#contactUsOk').click(function() {
+                        $('#contactUsOk').css('display', 'none');
+                        $('#contactUsCancel').css('display', 'none');
+                        var description = $('#contactUsDesc').val();
+                        if(description.split(' ').join('') !='') {
+                            var email = $('#contactUsEmail').val();
+                            var captcha = $('#captchaCUs').val();
+                            var url = 'ajax_action=reportAproblem&';
+                            url = url +'description='+encodeURIComponent(description);
+                            url = url +'&email='+email;
+                            url = url +'&captcha='+captcha;
+                            url = url +'&action=contacts';
+                            $.ajax({
+                              url: '/en-US/reportAproblem?'+url,
+                              type: 'POST',
+                              dataType: 'json',
+                              success: function(response) {
+                                    $('#contactUsOk').css('display', 'block');
+                                    $('#contactUsCancel').css('display', 'block');
+                                    try    {
+                                        if(response.msg == 'ok') {
+                                            hideLightBoxes(); 
+                                            lightbox.showBox('box', 'contactUsThx', '', '400', 'shadowBox', function() {
+                                                $('#contactUsThxCancel').click(function() {
+                                                    hideLightBoxes(); 
+                                                });
+                                            });
+                                        } else if(response.msg == 'captchaErr') {
+                                            reloadCaptchaCUs();
+                                            alert('Wrong code. Please try again.');
+                                        } else {
+                                            alert('Please enter a valid email address.');
+                                        }
+                                    } catch(e) {
+                                        showException(response, e);
+                                    }                          
+                                },
+                                error : function(responce) {alert(responce);} 
+                            });                        
+                        } else {
+                            $('#contactUsOk').css('display', 'block');
+                            $('#contactUsCancel').css('display', 'block');
+                            alert('Please fill in all mandatory fields.');
+                        }
+                    });
+                    $('#contactUsCancel').click(function() {
+                        hideLightBoxes();
+                    });
+                });
+            });            
+            dynamicLoading('/c/js/1301032873/assets_c/js/ajax.js');
+            dynamicLoading('/c/css/1301032873/assets_c/css/modules/form.css');
+            dynamicLoading('/c/css/1301634395/assets_c/css/modules/captcha.css');
+        }); 
+
+        function reloadCaptchaCUs() {
+            $('#captchaImgCUs').attr('src', '');
+            setTimeout(function(){$('#captchaImgCUs').attr('src',"/en-US/reportAproblem?ajax_action=reportAproblem&action=getCaptchaImg&randPath=" + Math.random());},100);
+        }
+        
+    
+
+    $ID('showCSNumbers').onclick = function() {
+    	showLightBox({'id' : 'callDiv' ,'width' : '250'});
+    }
 
 
 
-//-->
+    $ID('shippingCountries').onclick = function() {
+        showLightBox({'id' : 'countriesDiv' ,'width' : '454'});
+    }
+
+
+
+	if ($ID('showDHLInfo')) {
+		$ID('showDHLInfo').onclick = function() {
+			showLightBox({'id' : 'expressShippingC' ,'width' : '530'});
+		}
+	}
+
+
+
+	function reportAproblem()
+	{
+		reloadCaptcha();
+		dynamicLoading('/c/css/1301634395/assets_c/css/modules/captcha.css');
+		dynamicLoading('/c/css/1301032873/assets_c/css/modules/modalBox.css');
+		dynamicLoading('/c/css/1301032873/assets_c/css/modules/lightbox.css');
+		dynamicLoading('/c/css/1301032873/assets_c/css/modules/form.css');
+		dynamicLoading('/c/js/1301032873/assets_c/js/ajax.js');
+		dynamicLoading('/c/js/1301032873/assets_c/js/lightbox.js', function() {
+			if(typeof(Recaptcha)!= 'undefined') {
+				Recaptcha.reload ();
+			}
+			lightbox.showBox('box','reportAproblemForm','','400','shadowBox', function() {
+				$ID('reportAproblemFormOk').onclick = function() {
+					$ID('reportAproblemFormOk').style.display = 'none';
+					$ID('reportAproblemFormCancel').style.display = 'none';
+					var description = $ID('descriptionReport').value;
+					if(description.split(' ').join('') !='') {
+						var email = $ID('emailReport').value;
+						var captcha = $ID('captcha').value;
+                        var phone = $ID('phoneReport').value;
+						var url = 'ajax_action=reportAproblem&';
+						url = url +'description='+encodeURIComponent(description);
+						url = url +'&email='+email;
+                        url = url +'&phoneNumber='+phone;
+						url = url +'&captcha='+captcha;
+						url = url +'&location='+location.href;
+						if($ID('parent_design_id')) {
+							url = url +'&designId='+encodeURIComponent($ID('parent_design_id').value);
+						}
+						url = url +'&browser='+encodeURIComponent(navigator.appName);
+						url = url +'&browserVersion='+encodeURIComponent(navigator.appVersion);
+						url = url +'&platform='+encodeURIComponent(navigator.platform);
+						url = url +'&userAgent='+encodeURIComponent(navigator.userAgent);
+                        
+						ajax({
+							url: '/en-US/reportAproblem?'+url,
+							method: 'POST',
+							json: 1,
+							success : function(response) {
+								$ID('reportAproblemFormOk').style.display = 'block';
+								$ID('reportAproblemFormCancel').style.display = 'block';
+
+								try {
+									if(response.msg == 'ok') {
+										lightbox.closeBox();
+										lightbox.showBox('box','reportAproblemFormThx','','400','shadowBox', function() {
+											$ID('reportAproblemFormThxCancel').onclick = function()	{
+												lightbox.closeBox();
+											}
+										});
+									} else if(response.msg == 'captchaErr') {
+										reloadCaptcha();
+										alert('Wrong code. Please try again.');
+									} else {
+										alert('Please enter a valid email address.');
+									}
+								} catch(e) {
+									showException(response, e);
+								}
+							},
+							error : function(responce){alert(responce);}
+						});
+					} else {
+						$ID('reportAproblemFormOk').style.display = 'block';
+						$ID('reportAproblemFormCancel').style.display = 'block';
+						alert('Please add a description of the problem in the comment field');
+					}
+				}
+				$ID('reportAproblemFormCancel').onclick = function() {
+					lightbox.closeBox();
+				}
+			});
+		});
+	}
+
+	function reloadCaptcha() {
+		$ID('captchaImg').src = '';
+		setTimeout(function(){$ID('captchaImg').src = "/en-US/reportAproblem?ajax_action=reportAproblem&action=getCaptchaImg&randPath=" + Math.random();},100);
+	}
+
+
+// -->
 </script>
+
+
+
+
+
+
+	<script type="text/javascript">
+	
+		(function() {
+			var s = document.createElement('script');
+  			s.type = 'text/javascript';
+  			s.async = true;
+  			s.src = ( document.location.protocol == 'https:' ? 'https://static.getclicky.com' : 'http://static.getclicky.com' ) + '/js';
+  			( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+		})();
+		
+	</script>
+
+
+
+
+
+
+
+
+
 </body></html>
