@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videogoneviral.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225062627id_/http%3A//videogoneviral.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videogoneviral.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504161548id_/http%3A//videogoneviral.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Video Gone Viral
 
