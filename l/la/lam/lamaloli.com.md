@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamaloli.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323191828id_/http%3A//lamaloli.com/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamaloli.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504094526id_/http%3A//lamaloli.com/en/privacy_notice) for the most accurate reproduction.*
 
 # LamaLoLi - Kid's fashion online store Hello Kitty, Spiderman, Disney and many more
 
