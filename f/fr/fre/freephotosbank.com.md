@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freephotosbank.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105215436id_/http%3A//www.freephotosbank.com/index.php%3Faction%3Dshow%26cat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freephotosbank.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504023012id_/http%3A//www.freephotosbank.com/index.php%3Faction%3Dshow%26cat%3Dprivacy) for the most accurate reproduction.*
 
 # Free Photos, Free Stock Photos, Images
 
