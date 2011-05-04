@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the music123.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101192748id_/http%3A//www.music123.com/staticPages/yourPrivacyRights.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music123.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504152617id_/http%3A//www.music123.com/staticPages/yourPrivacyRights.jsp) for the most accurate reproduction.*
 
-# Music 123 - Your Privacy Rights
+# Your Privacy Rights | Music123
 
 At music123 ("music123"), we are committed to protecting the privacy of our customers and users of our web site located at www.music123.com (the "Site"). This privacy policy ("Privacy Policy") gives you details of our privacy practices, including (a) what information we collect about you when you use the Site; (b) how the information will be used or disclosed; and (c) your rights with respect to our collection and use of your data. We may modify these policies from time to time and will provide notice of any major changes by posting such notice on the Site.
 
