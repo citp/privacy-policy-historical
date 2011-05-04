@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the chainreactioncycles.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130011744id_/http%3A//www.chainreactioncycles.com/Information.aspx%3FTranslationLargeID%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chainreactioncycles.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504041401id_/http%3A//www.chainreactioncycles.com/Information.aspx%3FTranslationLargeID%3D22) for the most accurate reproduction.*
 
-# SEO Keywords
+# Terms and Conditions
+
+[](https://web.archive.org/ "Chain Reaction Cycles Homepage") |   
+---|---  
+  
+|    
+
 
 |   |   |    
 ---|---|---  
@@ -26,4 +32,12 @@ You can help CRC update and maintain the accuracy of any personal information yo
 ---|---|---  
   | 
 
-Cookies are small bits of text used by a browser to store information on your computer’s hard drive. Each cookie can only be read by the web server that originally issued it. Cookies cannot profile your system or collect information from your hard drive. Most On-Line retailers use cookies. CRC uses Cookies to let us know you are a prior customer and thus you will not need to re-enter certain information every time you shop at the site. We do not use cookies to store credit card numbers, address information or any other personal information.
+Cookies are small bits of text used by a browser to store information on your computer’s hard drive. Each cookie can only be read by the web server that originally issued it. Cookies cannot profile your system or collect information from your hard drive. Most On-Line retailers use cookies. CRC uses Cookies to let us know you are a prior customer and thus you will not need to re-enter certain information every time you shop at the site. We do not use cookies to store credit card numbers, address information or any other personal information.  
+  
+  
+  
+
+
+  
+  
+
