@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the degreetrail.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224224248id_/http%3A//degreetrail.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreetrail.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504124700id_/http%3A//www.degreetrail.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - DegreeTrail.com
 
-  
-Our postal address is  
-3267 Bee Caves Rd  
-Austin, TX 78746
-
-We can be reached via e-mail at [support@degreetrail.com](mailto:support@degreetrail.com)  
+We can be reached via e-mail at support@degreetrail.com  
 or you can reach us by telephone at 512-687-5143  
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
