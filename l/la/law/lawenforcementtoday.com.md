@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawenforcementtoday.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124230636id_/http%3A//www.lawenforcementtoday.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawenforcementtoday.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504165803id_/http%3A//www.lawenforcementtoday.com/pages/privacy) for the most accurate reproduction.*
 
 # Law Enforcement Today Online Community Network Website - Privacy Policy
 
