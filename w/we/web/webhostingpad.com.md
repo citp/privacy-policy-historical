@@ -1,10 +1,34 @@
-> *The following text is extracted and transformed from the webhostingpad.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229014638id_/http%3A//www.webhostingpad.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingpad.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504214613id_/http%3A//www.webhostingpad.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy, Privacy Statement of Web Hosting Pad
 
-WebHostingPad respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site [www.hostingpad.com](http://www.hostingpad.com/). We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Use (“TOU”) Agreement found at [Terms of Use](https://web.archive.org/web/20101229014638id_/http%3A//www.webhostingpad.com/terms.html). 
+| 
 
-**WebHostingPad does NOT trade, rent or sell your personal information to any other organization or third party.**
+Question?  
+Call Us Toll Free
+
+Local:   
+847-346-1801  
+  
+---|---  
+  
+### you can count on:
+
+  * Award Winning Customer Service
+  * Quality Brand Name Equipment
+  * 99.9% Uptime Guarantee
+  * State-of-the-Art Data Center
+  * 30 Day Money-back Guarantee
+  * Backup Solution for your Website
+  * NO Hidden Fees!! 
+
+
+
+Privacy Policy
+
+WebHostingPad respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site[ www.hostingpad.com.](http://www.hostingpad.com/cgi-sys/defaultwebpage.cgi) We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Use (“TOU”) Agreement found at [Terms of Use.](https://web.archive.org/web/20110504214613id_/http%3A//www.webhostingpad.com/terms.html)
+
+WebHostingPad does NOT trade, rent or sell your personal information to any other organization or third party. 
 
 This Policy describes our general principles for the collection and use of information from customers and visitors to our Web sites. We want to ensure that you understand how we will and will not use the information you entrust to us. In order to fully understand your rights we encourage you to read this Policy. 
 
@@ -19,3 +43,6 @@ WebHostingPad does not sell products or services for purchase by children. Custo
 WebHostingPad reserves the right to change this Policy simply by posting such changes on our site. We encourage you to periodically check our site for changes to this Policy since your continued use of the site following any changes to this Policy will be deemed to constitute your acceptance of such change. The operative and effective version of this Policy will be the latest version available on the site. 
 
 If you have questions or concerns regarding this Policy, you should contact us by email at [support@webhostingpad.com](mailto:support@webhostingpad.com)
+
+  
+
