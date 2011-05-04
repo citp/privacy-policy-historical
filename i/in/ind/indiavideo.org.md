@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the indiavideo.org privacy policy that was archived on 2009-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090808083538id_/http%3A//www.indiavideo.org/privacy-policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiavideo.org privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504135123id_/http%3A//www.indiavideo.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Website :** The term website refers to the site www.keralavideos.com, collectively, including all content available through the domain name www.keralavideos.com
+**Website :** The term website refers to the site www.indiavideo.org, collectively, including all content available through the domain name www.indiavideo.org
 
 **Third Party Website :** The term third party website refers to all or any website owned and or controlled by any individual, corporate body or any type of entity other than Invis Multimedia Pvt. Ltd. 
 
-**User :** The term ‘user’ refers to any person who visits the Website www.keralavideos.com or access the content of the Website www.keralavideos.com by any mode of form and also include contributors as referred to in para. 
+**User :** The term ‘user’ refers to any person who visits the Website www.indiavideo.org or access the content of the Website www.indiavideo.org by any mode of form and also include contributors as referred to in para. 
 
 **User Information :** The term user information refers to any information voluntarily submitted by the user as well as any other information collected by the Company while using the site or collected as pre-condition for using the site. It includes both personally identifiable and non-personally identifiable information. 
 
-**Company :** The term ‘company’ refers to Invis Multimedia Private Limited a company registered under the Companies Act of India which owns and controls the Websites www.keralavideos.com, www.invis.in and other sites. 
+**Company :** The term ‘company’ refers to Invis Multimedia Private Limited a company registered under the Companies Act of India which owns and controls the Websites www.indiavideo.org, www.invis.in and other sites. 
 
 **Privacy Notice**
 
