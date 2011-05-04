@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internap.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824131502id_/http%3A//www.internap.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internap.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504101118id_/http%3A//www.internap.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Internap Privacy Policy
 
