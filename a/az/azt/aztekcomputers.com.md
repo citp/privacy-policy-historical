@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aztekcomputers.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224122901id_/http%3A//www.aztekcomputers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aztekcomputers.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504025648id_/http%3A//www.aztekcomputers.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for AztekComputers.com
 
