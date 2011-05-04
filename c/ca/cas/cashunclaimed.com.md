@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashunclaimed.com privacy policy that was archived on 2010-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100716185904id_/http%3A//www.cashunclaimed.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashunclaimed.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504081240id_/http%3A//www.cashunclaimed.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Unclaimed Money - Cash Unclaimed Privacy Policy
 
@@ -19,11 +19,11 @@ We collect information for the following purpose(s):
 * Research and development.  
 * Building records of visitors without linking identifying information to the records for the purpose of research, analysis and reporting.  
 * Assisting you in your search for unclaimed money  
-* Signing you up for your membership and related payment transactions
+* Signing you up for your membership, newsletter lists and related payment transactions
 
 Use Of Email Addresses: 
 
-If you provide us with your email address we will utilize it to send you email regarding our services and related promotional messages. You can opt-out of these email messages at any time by clicking the unsubscribe link at the bottom of these emails. 
+If you provide us with your email address we will utilize it to send you email regarding our services and promotional messages. You can opt-out of these email messages at any time by clicking the unsubscribe link at the bottom of these emails. 
 
 Who has access to the information we collect? 
 
@@ -33,11 +33,13 @@ How long is information kept?
 
 Information is retained for an indeterminate period of time. 
 
-If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page. 
+If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address on this page. 
 
 Cash Unclaimed Money Search does use cookies. 
 
 On some payment processes (for example: if you choose to pay via paypal) our servers do not handle sensitive financial information such as credit card numbers. All financial transaction details are handled on the secure servers of PayPal.com. You can visit PayPal to read their privacy policy. 
+
+This website may contain advertising from 3rd parties. These 3rd parties may have different privacy terms than Cashunclaimed maintains. You should check the privacy policies of those 3rd parties directly to understand those terms. 
 
 If you have any questions about this privacy statement and/or our practices involving your privacy, feel free to contact us at: 
 
