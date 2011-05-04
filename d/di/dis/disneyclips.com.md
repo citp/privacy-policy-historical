@@ -1,6 +1,29 @@
-> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031150510id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyclips.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504074920id_/http%3A//www.disneyclips.com/privacy.html) for the most accurate reproduction.*
 
 # Disneyclips.com - Privacy Policy
+
+|  | 
+
+| | 
+
+[*Disney's World of Wonders](http://www.disneyclips.com/indexdww.html)  
+[*Banners](http://www.disneyclips.com/linktous.html)  
+[*Site Map](http://www.disneyclips.com/sitemap.html)  
+[*Shop Disney](http://www.disneyclips.com/imagesnewb6/disneystore.html)  
+[*Terms of use](http://www.disneyclips.com/termsofuse.html)  
+[*Privacy Policy](http://www.disneyclips.com/privacy.html)  
+  
+---|---  
+  
+  
+  
+  
+| 
+
+| 
+
+  
+_**Privacy Policy**_
 
 This page was last updated on March 16th 2009.
 
@@ -24,3 +47,22 @@ Information about your IP address, as well as the type of browser and operating 
 Disneyclips.com is not responsible for the content or privacy policies of websites visited through links from this website.
 
 Please be advised that this privacy policy may be changed in the future. Return to this page to see any changes made. 
+
+|  | 
+
+Magical Movies
+
+| |  **Tangled**  
+---  
+[](http://www.amazon.com/exec/obidos/ASIN/B004G600A4/disneysworldofwo)| |  [  
+Get ready to cheer for "Tangled"!](http://www.amazon.com/exec/obidos/ASIN/B004G600A4/disneysworldofwo)  
+---|---|---  
+[](http://www.amazon.com/exec/obidos/ASIN/B004G600A4/disneysworldofwo)  
+  
+  
+Updates
+
+April 1st 2011  
+35 new cliparts, featuring Cinderella, The Little Mermaid, Beauty and the Beast, Easter, Tangled, The Princess and the Frog, Ariel's Beginning, Weddings, Sleeping Beauty and Snow White.  
+  
+| 
