@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asweetpeachef.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101030355id_/http%3A//www.asweetpeachef.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asweetpeachef.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504174338id_/http%3A//www.asweetpeachef.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | a sweet pea chef
 
