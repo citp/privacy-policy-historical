@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the optimalprint.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430190104id_/http%3A//www.optimalprint.com/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimalprint.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504023116id_/http%3A//www.optimalprint.com/en-US/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Optimalprint
+# Privacy Policy: Optimalprint
 
   
 
