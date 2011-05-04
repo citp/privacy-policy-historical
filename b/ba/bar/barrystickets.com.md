@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barrystickets.com privacy policy that was archived on 2010-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100912090556id_/http%3A//www.barrystickets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrystickets.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504035257id_/http%3A//www.barrystickets.com/privacy.php) for the most accurate reproduction.*
 
 # Barrys Tickets - Privacy Policy
 
