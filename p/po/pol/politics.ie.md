@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102232040id_/http%3A//www.politics.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politics.ie privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504125452id_/http%3A//www.politics.ie/privacy) for the most accurate reproduction.*
 
 # Politics.ie - The Irish Politics Website - Privacy Policy
 
@@ -116,4 +116,4 @@ The identifying details for your computer (or your internet company’s computer
 
 Small pieces of information, stored in simple text files, placed on your computer by a web site.  
   
-All times are GMT. The time now is 11:20 PM.
+All times are GMT +1. The time now is 01:54 PM.
