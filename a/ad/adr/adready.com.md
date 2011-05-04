@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206043713id_/http%3A//www.adready.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adready.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504035435id_/http%3A//adready.com/privacy-policy) for the most accurate reproduction.*
 
 # AdReady | Privacy Policy
 
@@ -69,7 +69,7 @@ We may aggregate Personal Information, and disclose such information to third pa
 
 ## Other Third Parties
 
-We will not share Personal Information collected on this web site with third parties for their direct marketing purposes without your consent. In addition, AdReady does not otherwise share Personal Information about site users with third parties unless doing so is appropriate to carry out a user's request or it reasonably believes that doing so is legally required or is in AdReady's interest to protect its property or other legal rights or the rights or property of others, or necessary for national security, other law enforcement, issues of public importance or safety, or to enforce our Terms and Conditions or other policies. 
+AdReady does not otherwise share Personal Information about site users with third parties unless doing so is appropriate to carry out a user's request or it reasonably believes that doing so is legally required or is in AdReady's interest to protect its property or other legal rights or the rights or property of others, or necessary for national security, other law enforcement, issues of public importance or safety, or to enforce our Terms and Conditions or other policies. 
 
 ## Merger, Sale or Bankruptcy 
 
@@ -101,12 +101,10 @@ Consistent with the federal Children's Online Privacy Protection Act of 1998 (CO
 
 ## QUESTIONS RELATING TO OUR PRIVACY POLICY?
 
-If you have questions or concerns about this privacy policy, please e-mail us at: [privacy@adready.com](mailto:privacy@adready.com).
+If you have questions or concerns about this privacy policy, please e-mail us at: [privacy@adready.com](mailto:privacy@adready.com), or mail to:
 
-or mail to:  
-Attention: Privacy Officer/Operations   
-936 34th Street, Suite 300   
-Seattle, WA 98103  
-
+> Attention: Privacy Officer/Operations  
+>  936 34th Street, Suite 300  
+>  Seattle, WA 98103 
 
 Policy updated as of February 1, 2007
