@@ -1,20 +1,34 @@
-> *The following text is extracted and transformed from the thebark.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130154056id_/http%3A//thebark.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebark.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504021739id_/http%3A//thebark.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Bark
 
+Last updated: 04/18/11  
 The Bark, Inc. (“Bark,” “we” or “us”) respects your privacy and has adopted policies and procedures to ensure that information collected on our website about visitors (“you”) is handled responsibly. This Privacy Policy (“Policy”) describes the privacy practices of [www.thebark.com](http://www.thebark.com/ "www.thebark.com") (“website”). Use of this website is also subject to our Terms of Use.
 
 **Information Collection and Use – Personally Identifiable Information**  
-The website only collects the personally identifiable information that you provide to us. Personally identifiable information includes data such as your name, street address, email address, or telephone number. For information about updating or requesting deletion of your personally identifiable information, click here.
+The website only collects the personally identifiable information that you provide to us. Personally identifiable information includes data such as your name, street address, email address, telephone number, or, when necessary, financial, payment, or billing information. For information about updating or requesting deletion of your personally identifiable information, click here.
 
-**Requests, Orders and Customer Service**  
-When a visitor asks us to provide information or a service, we request information to enable us to respond to the visitor. This information could include contact information such as name, email address, and mailing address and, if applicable, financial, payment, or billing information.
+We may collect personally identifiable information (including name, address, telephone number, e-mail address, and, when necessary, financial, payment, or billing information) when you:  
+• Place an order from our store or on the website  
+• Make a purchase at one of our retail stores  
+• Return an item or make an exchange  
+• Subscribe to our print and/or digital magazine  
+• Inquire about our services  
+• Subscribe to a newsletter  
+• Provide your email address when leaving a comment on our site  
+• Enter a contest or sweepstakes, including, but not limited to, Smiling Dogs and Me & My Dog, Show & Tell  
+• Participate in a marketing survey, promotion, or event wither online or offline.
 
-**Bark Newsletters**  
-If a visitor wishes to subscribe to any of our newsletters, we collect registration information including the visitor’s name and email address. Subscribers may unsubscribe from email communications; please see the “Updating Your Communication Preferences” section below.
+At Bark, we always want to provide you with the best possible service experience and fulfill your orders exactly as you’ve requested. In order to do this, we use your personally identifiable information to allow us to:  
+• Process and track your order or subscription  
+• Provide the services you request  
+• Contact you about the status of a product or subscription order  
+• Send you promotional offers or information we believe will be of interest to you  
+• Send you our e-nNewsletters and other relevant mailings  
+• Customize our communications to you  
+• Improve our customer service
 
-**Announcements**  
-We occasionally send registered visitors email messages about features on our website, promotions, events, or other information that may be of interest to them. To change your communications preferences, please see the “Updating Your Communication Preferences” section below.  
+By providing your email address to us in any of the ways listed above, you consent to receive our newsletter and other promotional or informational mailings from us. Instructions for unsubscribing are included in every e-mail. We will not sell your email address to a third party.  
 **  
 Information Collection and Use: Anonymous or Aggregate Data**
 
