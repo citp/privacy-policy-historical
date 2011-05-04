@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727004341id_/http%3A//www.hammacher.com/Editorial/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammacher.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504082345id_/http%3A//www.hammacher.com/Editorial/Privacy) for the most accurate reproduction.*
 
 # Privacy - Hammacher Schlemmer
 
