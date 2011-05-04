@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchnext.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923023823id_/http%3A//www.searchnext.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchnext.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504070208id_/http%3A//www.searchnext.com/privacy.php) for the most accurate reproduction.*
 
 # SearchNext - Privacy Policy
 
