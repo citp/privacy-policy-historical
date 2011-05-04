@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicusor.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231140839id_/http%3A//nicusor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicusor.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504192248id_/http%3A//nicusor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nickoo Shore
 
