@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricshall.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231131700id_/http%3A//www.lyricshall.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricshall.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504231339id_/http%3A//www.lyricshall.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
