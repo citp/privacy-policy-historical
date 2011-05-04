@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sovereignsociety.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127181846id_/http%3A//sovereignsociety.com/faqs/terms-of-use/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignsociety.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504135038id_/http%3A//sovereignsociety.com/faqs/terms-of-use/%23privacy) for the most accurate reproduction.*
 
 # Terms of Use | The Sovereign Society
 
@@ -45,9 +45,9 @@ This “Terms of Use” is copyrighted The Sovereign Society and is fully licens
 We at The Sovereign Society take your privacy very seriously.
 
 **e-Mail Address**  
-When you subscribe to The Sovereign Society Offshore A-Letter via e-mail, your e-mail address is placed in a database and used to send your issues of The Sovereign Society Offshore A-Letter and occasional Sovereign Society Investment Alerts. We will not sell, rent, or otherwise share your e-mail address with anyone.
+When you subscribe to The Sovereign Investor via e-mail, your e-mail address is placed in a database and used to send your issues of The Sovereign Investor and occasional Sovereign Society Investment Alerts. We will not sell, rent, or otherwise share your e-mail address with anyone.
 
-You can remove your address from our e-mailing list by following the instructions at the end of every e-mail we send. Any e-mail you send to The Sovereign Society Offshore A-Letter is considered confidential unless you tell us otherwise. We will not add your name to our e-mail list without your permission. If your inquiry is about an order or subscription, Agora’s customer service staff will ask you to verify your identity by confirming information already in your record.
+You can remove your address from our e-mailing list by following the instructions at the end of every e-mail we send. Any e-mail you send to The Sovereign Investor is considered confidential unless you tell us otherwise. We will not add your name to our e-mail list without your permission. If your inquiry is about an order or subscription, The Sovereign Society”s customer service staff will ask you to verify your identity by confirming information already in your record.
 
 **Personal Information**  
 We will never ask you for personal information–your credit card number, for example–except when you place an order. At that time, we will provide a secure (SSL, encrypted) connection and require you to submit only the information needed to complete and fulfill your order. Only authorized employees will have access to this information. We will not sell or rent this information to anyone, nor share it in any other way, unless required to by a law enforcement agency that takes the proper steps to require it. Please note that “personal information” does not include your mailing address. See Mailing Address, below.
