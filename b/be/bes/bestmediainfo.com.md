@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the bestmediainfo.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228061920id_/http%3A//www.bestmediainfo.com/advertisement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmediainfo.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504120957id_/http%3A//www.bestmediainfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Best Media Info, News and Analysis on Indian Advertising, Marketing and Media Industry.
 
-[Home](http://www.bestmediainfo.com/ "Go to Home.") > Privacy Policy 
-
-## Privacy Policy
-
- **[www.BestMediaInfo.com](http://www.bestmediainfo.com/) is maintained by:** **Best Media Info**
+**[www.BestMediaInfo.com](http://www.bestmediainfo.com/) is maintained by:** **Best Media Info**
 
 A-27L, Sector-16, Noida  
 Uttar Pradesh, India – 201301 Ph.: +91 120 4359565.  
