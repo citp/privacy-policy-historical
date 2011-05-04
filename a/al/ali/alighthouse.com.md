@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alighthouse.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231141258id_/http%3A//www.alighthouse.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alighthouse.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504023355id_/http%3A//www.alighthouse.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
