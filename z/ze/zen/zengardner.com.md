@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zengardner.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501022538id_/http%3A//www.naturalmedicine.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zengardner.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504164526id_/http%3A//www.naturalmedicine.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Natural Medicine Health and Living
+# Privacy Policy
 
 Privacy Policy For Natural Medicine
 
