@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menvsboys.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231031312id_/http%3A//www.menvsboys.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menvsboys.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504020504id_/http%3A//menvsboys.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy.
 
