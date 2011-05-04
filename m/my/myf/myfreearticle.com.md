@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myfreearticle.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229113918id_/http%3A//www.myfreearticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreearticle.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504195354id_/http%3A//www.myfreearticle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Free Article Directory
+# Privacy Policy-Free Articles .:. Free Articles
+
+## [Privacy Policy](http://www.myfreearticle.com/privacy-policy "Privacy Policy")
 
 **MyFreeArticle.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for **MyFreeArticle.com**.
 
@@ -96,10 +98,28 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 
 ### Data Quality/Access
 
-This site gives users the following options for changing and modifying information previously provided:
+This site gives users the following options for changing and modifying information previously provided.
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: admin[at]myfreearticle.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: admin[at]myfreearticle.com.
 
-[morporno](http://www.myfreearticle.com/search/morporno.html "morporno")
+## [Cody Baker, Football Standout, to Appear on National TV](http://www.myfreearticle.com/cody-baker-football-standout-to-appear-on-national-tv.html "Cody Baker, Football Standout, to Appear on National TV")
+
+Baker’s fumble return for a touchdown will be part of the featured segment on the eighth-grade, unlimited weight limit game. The ...
+
+## [Coffee Cupping For The Fun Of It](http://www.myfreearticle.com/coffee-cupping-for-the-fun-of-it.html "Coffee Cupping For The Fun Of It")
+
+Having a coffee cupping party at home is a great way to socialize and enjoy coffee while evaluating and sharing ...
+
+## [Get Real-time Adsense Channel Stats And Find Out Which Ads Are Being Clicked](http://www.myfreearticle.com/get-real-time-adsense-channel-stats-and-find-out-which-ads-are-being-clicked.html "Get Real-time Adsense Channel Stats And Find Out Which Ads Are Being Clicked")
+
+If you have multiple sites or multiple directories in your site for different subjects and you have placed Adsense codes ...
+
+## [Pick of the Day: Deliverance at The Belcourt](http://www.myfreearticle.com/pick-of-the-day-deliverance-at-the-belcourt.html "Pick of the Day: Deliverance at The Belcourt")
+
+Deliverance's rape scene — an oft-referenced, oft-sampled, oft-parodied linchpin of popular culture — embodied a sort of PBS nightmare about ...
+
+## [Blu Ray Discs The New DVDs](http://www.myfreearticle.com/blu-ray-discs-the-new-dvds.html "Blu Ray Discs The New DVDs")
+
+Blu ray disks were originaly develped for high definition video distrobution. The disks when used for high definition TV recording ...
