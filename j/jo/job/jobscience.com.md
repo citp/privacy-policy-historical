@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109202334id_/http%3A//www.jobscience.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504055347id_/http%3A//www.jobscience.com/privacypolicy) for the most accurate reproduction.*
 
 # Jobscience.com
-
-## Privacy Policy
 
 Jobscience is committed to protecting the privacy of our users. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes as set forth herein. The following reflects our commitment to you.
 
@@ -36,7 +34,7 @@ Effective November 28, 2007, this Privacy Policy sets forth the privacy principl
 
 ## Safe Harbor
 
-Consistent with its commitment to protect personal privacy, Jobscience declares that it adheres to the Safe Harbor Principlesembodied in the Safe Harbor Agreement concerning the transfer of personal data from the European Union to the United States of America. The United States Department of Commerce and the European Commission have agreed on the Safe Harbor Principles as they are articulated in a set of data protection principles and frequently asked questions as a means to enable U.S. companies to satisfy EU law requirements for adequate protection of personal information transferred from the EU to the United States. If there is a conflict between the provisions of this Privacy Policy and the Safe Harbor Principles, the Safe Harbor Principles will govern.
+Consistent with its commitment to protect personal privacy, Jobscience declares that it adheres to the Safe Harbor Principlesembodied in the Safe Harbor Agreement concerning the transfer of personal data from the european Union to the United States of America. The United States Department of Commerce and the european Commission have agreed on the Safe Harbor Principles as they are articulated in a set of data protection principles and frequently asked questions as a means to enable U.S. companies to satisfy EU law requirements for adequate protection of personal information transferred from the EU to the United States. If there is a conflict between the provisions of this Privacy Policy and the Safe Harbor Principles, the Safe Harbor Principles will govern.
 
 ## Definitions
 
