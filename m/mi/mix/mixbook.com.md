@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixbook.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226225327id_/http%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixbook.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504072249id_/http%3A//www.mixbook.com/main/privacy) for the most accurate reproduction.*
 
 # Mixbook Privacy Policy
 
@@ -50,7 +50,7 @@ You post Personal Information in User Content (as defined in Mixbook's _[Terms o
 
 Any improper collection or misuse of information provided on Mixbook is a violation of the Mixbook Terms of Use and should be reported to [privacy@mixbook.com](mailto:privacy@mixbook.com).
 
-If you choose to use our invitation service to tell friends about our Web Site or invite them to collaborate on a book, we will ask you for your friend’s email address.  Your friend will automatically be sent a one-time email inviting him or her to visit the Web Site. Mixbook stores information gathered during this process to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at [info@mixbook.com](mailto:info@mixbook.com) to request that we remove your friend's information from our database.
+If you choose to use our invitation service to tell friends about our Web Site or invite them to collaborate on a book, we will ask you for your friend’s email address.  Your friend will automatically be sent a one-time email inviting him or her to visit the Web Site. Mixbook stores information gathered during this process to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at [support@mixbook.com](mailto:support@mixbook.com) to request that we remove your friend's information from our database.
 
 By using Mixbook, you are consenting to have your personal data transferred to and processed in the United States.
 
