@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessforhome.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221004510id_/http%3A//www.businessforhome.org/support-and-faq/contact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessforhome.org privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505145435id_/http%3A//www.businessforhome.org/support-and-faq/contact) for the most accurate reproduction.*
 
-# Trevor chatham dubli - Contact & Privacy Policy | Direct Selling
+# Trevor chatham dubli - Contact & Privacy Policy | Direct Selling Facts & Figures
 
 **Remarks, suggestions, improvements? Contact:**
 
