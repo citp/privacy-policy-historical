@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercuts.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231000250id_/http%3A//www.supercuts.com/PrivacyPolicy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercuts.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505183726id_/http%3A//www.supercuts.com/PrivacyPolicy/default.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ To sign up for a mailing list or reminder service you must be 13 or older. Paren
 
   
 Mobile Privacy Policy  
-You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can remove yourself from the program by either texting "STOP" to 44218; or contacting Customer Service by email at [DEPARTMENTCS@REGISCORP.COM](mailto:DEPARTMENTCS@REGISCORP.COM) or by phone at 1.888.456.2887.**
+You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can remove yourself from the program by either replying "STOP" to 667788; or contacting Customer Service by email at [DEPARTMENTCS@REGISCORP.COM](mailto:DEPARTMENTCS@REGISCORP.COM) or by phone at 1.888.456.2887.**
 
   
 **You will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from Supercuts during this time.  
