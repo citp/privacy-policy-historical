@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vlacs.org privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729054642id_/http%3A//www.vlacs.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D72%26Itemid%3D126) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vlacs.org privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505033345id_/http%3A//www.vlacs.org/index.php/right-to-privacy-policy) for the most accurate reproduction.*
 
 # Right to Privacy Policy
 
