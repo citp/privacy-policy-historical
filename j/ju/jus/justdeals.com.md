@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justdeals.com privacy policy that was archived on 2010-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100828093145id_/http%3A//www.justdeals.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D78%26Itemid%3D123) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justdeals.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505101420id_/http%3A//www.justdeals.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D78%26Itemid%3D123) for the most accurate reproduction.*
 
-# Privacy Policy
+# Daily Deals, Best Electronic Deals, Best Online Deals, Daily Electronic Deals | JustDeals.com
 
 This Privacy Policy tells you how We at JustDeals.com collect information when you visit our website, or if you purchase a product from us.
 
