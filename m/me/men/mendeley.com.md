@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219123304id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mendeley.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505044223id_/http%3A//www.mendeley.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Mendeley
 
@@ -155,6 +155,12 @@ Non-personal information about research documents, such as bibliographic informa
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by contacting us at .
 
 Our Site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+* TOP
+
+### U.S. - EU SAFE HARBOR PRIVACY STATEMENT
+
+For personal information of our users that Mendeley, Inc. receives from the European Economic Area, Mendeley, Inc. has committed to handling such personal information in accordance with the Safe Harbor Principles, defined as the seven principles outlined in EU Directive 95/46/EC on the protection of personal data. Mendeley, Inc. Safe Harbor certification can be found at <http://safeharbor.export.gov/list.aspx>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <http://export.gov/safeharbor/>.
 
 * TOP
 
