@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfatpocket.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824074859id_/http%3A//www.myfatpocket.com/static-content/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfatpocket.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505081925id_/http%3A//www.myfatpocket.com/static-content/privacy-policy/privacy-policy.html%3FphpMyAdmin%3DY-02CWOZ3w91n24SeJu62b0W-Le) for the most accurate reproduction.*
 
-# Privacy Policy - MyFatPocket - Because You're Smart &amp; Beautiful. From Top To Toe.
+# Privacy Policy - My Fat Pocket
 
 | My-Fat-Pocket.com (MFP) takes the private nature of your personal information seriously. In order to send members with the MFP newsletter, the member’s e-mail address is needed. Member’s name, geography, and telephone number may also be requested. My-Fat-Pocket.com does not collect any other personal information that readers and / or members do not expressly provide.   
 ---  
