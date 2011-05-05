@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202055552id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505150118id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
 
 # FRB: Privacy
 
@@ -53,7 +53,7 @@ The Board’s website is part of a Federal computer system used to accomplish Fe
 
 ##  How to Contact Us about the Website 
 
-If you have a question about the way your information is used in connection with this website or about the Board's privacy policy and information practices, you may send an online [Privacy Policy Comment](https://web.archive.org/web/20101202055552id_/http%3A//www.federalreserve.gov/feedback.cfm) or send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551. 
+If you have a question about the way your information is used in connection with this website or about the Board's privacy policy and information practices, you may send an online [Privacy Policy Comment](https://web.archive.org/web/20110505150118id_/http%3A//www.federalreserve.gov/feedback.cfm) or send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551. 
 
 ##  Responsibility 
 
