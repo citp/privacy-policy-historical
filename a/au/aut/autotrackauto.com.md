@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotrackauto.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226075240id_/http%3A//www.autotrackauto.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrackauto.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505072732id_/http%3A//www.autotrackauto.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy | New cars,Used cars find good cars in AutoTrackAuto
 
@@ -10,7 +10,7 @@ We have created this privacy policy to demonstrate our firm commitment to your p
 
 Our email marketing is permission based. If you received a mailing from us, our records indicate that (a) you have expressly shared this address for the purpose of receiving information in the future (“opt-in”), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
 
-If you believe you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to [info@autotrackauto.com](mailto:info@healthadd.us) for review.
+If you believe you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to admin@autotrackauto.com for review.
 
 **How can you stop receiving email from us?**
 
@@ -33,3 +33,5 @@ Web Beacons can be refused when delivered via email. If you do not wish to recei
 **Privacy Policy Changes**
 
 This policy was created on March 2010.
+
+**Webmaster :   Emily**
