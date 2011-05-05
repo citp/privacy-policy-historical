@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clapalong.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128144114id_/http%3A//www.clapalong.com%3Faction%3Ddefault%21privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clapalong.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505162235id_/http%3A//www.clapalong.com%3Faction%3Ddefault%21privacy) for the most accurate reproduction.*
 
 # Clapalong: Where Games Are Played and Shared
 
@@ -63,7 +63,7 @@ If at any time you wish to update your information or stop receiving communicati
 
 ### 8\. Contact
 
-Please address comments or questions regarding this Privacy Policy to us by e-mail at legal@clapalong.com.
+Please address comments or questions regarding this Privacy Policy to us by e-mail at .
 
 ### 9\. Binding Agreement
 
