@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the myfatpocket.com privacy policy that was archived on 2010-08-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100824074859id_/http%3A//www.myfatpocket.com/static-content/privacy-policy/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myfatpocket.com privacy policy that was archived on 2011-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110505081925id_/http%3A//www.myfatpocket.com/static-content/privacy-policy/privacy-policy.html%3FphpMyAdmin%3DY-02CWOZ3w91n24SeJu62b0W-Le) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
       <base href="http://www.myfatpocket.com/">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
   <meta name="keywords" content="my fat pocket, female, women, beauty, lifestyle, warehouse sale, how to videos, smart, beautiful, top to toe">
-  <meta name="title" content="Privacy Policy - MyFatPocket - Because You're Smart &amp; Beautiful. From Top To Toe.">
+  <meta name="title" content="Privacy Policy - My Fat Pocket">
   <meta name="description" content="Because You're Smart &amp; Beautiful. From Top To Toe.">
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
-  <title>Privacy Policy - MyFatPocket - Because You're Smart &amp;amp; Beautiful. From Top To Toe.</title>
+  <title>Privacy Policy - My Fat Pocket</title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <link rel="stylesheet" href="http://www.myfatpocket.com/modules/mod_slick_login_vm/mod_slick_login_vm.css.php" type="text/css">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/silverlight.js"></script>
   <script type="text/javascript" src="/plugins/content/avreloaded/wmvplayer.js"></script>
@@ -21,8 +22,9 @@
 /*<![CDATA[*/
 	var jax_live_site = 'http://www.myfatpocket.com/index.php';
 	var jax_site_type = '1.5';
+	var jax_token_var = 'f2771ffa07852d1a3287359140342aca';
 /*]]>*/
-</script><script type="text/javascript" src="http://www.myfatpocket.com/plugins/system/pc_includes/ajax_1.2.js"></script>
+</script><script type="text/javascript" src="http://www.myfatpocket.com/plugins/system/pc_includes/ajax_1.3.js"></script>
   <link rel="stylesheet" type="text/css" href="http://www.myfatpocket.com/components/com_jomcomment/style.css">
 <link rel="stylesheet" type="text/css" href="http://www.myfatpocket.com/components/com_jomcomment/templates/default/comment_style.css">
 
@@ -41,6 +43,8 @@ var jc_commentForm;
   <script type="text/javascript" src="http://www.myfatpocket.com/plugins/content/ja_tabs/ja_tabs.js" charset="utf-8"></script>
 <link type="text/css" href="http://www.myfatpocket.com/plugins/content/ja_tabs/ja_tabs.css" rel="stylesheet">
 
+    <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css">
+    <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css">
     <link rel="stylesheet" href="/templates/myfatpocket/css/mfp.css" type="text/css">
     <link rel="stylesheet" href="/templates/myfatpocket/css/mfp_content.css" type="text/css">
     <link rel="stylesheet" href="/templates/myfatpocket/css/superfish_test.css" type="text/css">
@@ -48,9 +52,15 @@ var jc_commentForm;
 
     <script type="text/javascript" src="/templates/myfatpocket/js/jquery-1.4.2.min.js"></script>  
     <script type="text/javascript" src="/templates/myfatpocket/js/jquery-ui-1.8.1.custom.min.js"></script>  
-    
+    <script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_WDDWYCCjo2G6VRjDaVq1QGms-VM6kfpRJMB9eIzUb-obL9hPGuw6QVh3l7TdPZg1"></script>
+
     <script type="text/javascript">
         <!--
+        jQuery.noConflict();
+			var conf = {
+				APIKey: '2_WDDWYCCjo2G6VRjDaVq1QGms-VM6kfpRJMB9eIzUb-obL9hPGuw6QVh3l7TdPZg1',
+				enabledProviders: 'facebook,twitter,myspace,yahoo,google,linkedin,liveid'
+			};
             var TabImages = new Array();
             var TabImagesSelected = new Array();
 
@@ -89,13 +99,13 @@ var jc_commentForm;
             function swap_slideshow()
             {
                 // Reset everything back to default
-                $('.divSlideShow').removeClass('highlightBox');
-                $('.divSlideShowContent').css('display', 'none');
+                jQuery('.divSlideShow').removeClass('highlightBox');
+                jQuery('.divSlideShowContent').css('display', 'none');
 
                 if (slideShowIndex == sizeLimit) { slideShowIndex = 0; } // if the highlight exceed the div, reset back to 0
 
-                $('.divSlideShow').eq(slideShowIndex).addClass('highlightBox'); // highlight div in order
-                $('.divSlideShowContent').eq(slideShowIndex).css('display', 'block'); // show the content respectively
+                jQuery('.divSlideShow').eq(slideShowIndex).addClass('highlightBox'); // highlight div in order
+                jQuery('.divSlideShowContent').eq(slideShowIndex).css('display', 'block'); // show the content respectively
 
                 slideShowIndex++; // increase index by 1
             }
@@ -109,18 +119,18 @@ var jc_commentForm;
                 }
                 */
                 // Reset the tab image to original state
-                $('.divTabSlideShow').each(function() {
-                    self = $(this).find('img');
+                jQuery('.divTabSlideShow').each(function() {
+                    self = jQuery(this).find('img');
                     self.attr({ src: TabImages[self.attr('id')] });
                 });
-                $('#tabSlideShowContainer .table').css('display', 'none');
+                jQuery('#tabSlideShowContainer .table').css('display', 'none');
 
                 if (tabSlideShowIndex == tabSizeLimit) { tabSlideShowIndex = 0; } // if the highlight exceed the div, reset back to 0
 
-                self = $('.divTabSlideShow').eq(tabSlideShowIndex).find('img'); // highlight the tab
+                self = jQuery('.divTabSlideShow').eq(tabSlideShowIndex).find('img'); // highlight the tab
                 self.attr({ src: TabImagesSelected[self.attr('id')] }); // display the image selected
 
-                $('#tabSlideShowContainer .table').eq(tabSlideShowIndex).css('display', 'block'); // show the content respectively
+                jQuery('#tabSlideShowContainer .table').eq(tabSlideShowIndex).css('display', 'block'); // show the content respectively
 
                 tabSlideShowIndex++; // increase index by 1
             }
@@ -128,41 +138,41 @@ var jc_commentForm;
             function swap_tabside()
             {
                 // Reset for tabs at the side too
-                $('.divTabSideSlideShow').each(function() {
-                    self = $(this).find('img');
+                jQuery('.divTabSideSlideShow').each(function() {
+                    self = jQuery(this).find('img');
                     self.attr({ src: TabSideImages[self.attr('id')] });
-                    $(this).css('border-bottom', '3px solid #ed1261');
-                    $(this).css('padding-bottom', '0');
+                    jQuery(this).css('border-bottom', '3px solid #ed1261');
+                    jQuery(this).css('padding-bottom', '0');
                 });
-                $('#tabSideSlideShowContainer .table').css('display', 'none');                    
+                jQuery('#tabSideSlideShowContainer .table').css('display', 'none');                    
 
                 if (tabSideSlideShowIndex == tabSideSizeLimit) { tabSideSlideShowIndex = 0; } // if the highlight exceed the div, reset back to 0
 
-                self = $('.divTabSideSlideShow').eq(tabSideSlideShowIndex).find('img'); // highlight the tab
+                self = jQuery('.divTabSideSlideShow').eq(tabSideSlideShowIndex).find('img'); // highlight the tab
                 self.attr({ src: TabSideImagesSelected[self.attr('id')] }); // display the image selected
-                $('.divTabSideSlideShow').eq(tabSideSlideShowIndex).css('border-bottom', '0');
-                $('.divTabSideSlideShow').eq(tabSideSlideShowIndex).css('padding-bottom', '3px');
-                $('.divTabSideSlideShow').eq(tabSideSlideShowIndex).css('background-color', '#ffffff');
+                jQuery('.divTabSideSlideShow').eq(tabSideSlideShowIndex).css('border-bottom', '0');
+                jQuery('.divTabSideSlideShow').eq(tabSideSlideShowIndex).css('padding-bottom', '3px');
+                jQuery('.divTabSideSlideShow').eq(tabSideSlideShowIndex).css('background-color', '#ffffff');
 
-                $('#tabSideSlideShowContainer .table').eq(tabSideSlideShowIndex).css('display', 'block'); // show the content respectively
+                jQuery('#tabSideSlideShowContainer .table').eq(tabSideSlideShowIndex).css('display', 'block'); // show the content respectively
 
                 tabSideSlideShowIndex++; // increase index by 1
             }
 
-            $(document).ready(function() {
+            jQuery(document).ready(function() {
                 slideShowIndex = 0;
                 tabSlideShowIndex = 0;
                 tabSideSlideShowIndex = 0;
-                sizeLimit = $('.divSlideShow').size();
-                tabSizeLimit = $('.divTabSlideShow').size();  
-                tabSideSizeLimit = $('.divTabSideSlideShow').size();
+                sizeLimit = jQuery('.divSlideShow').size();
+                tabSizeLimit = jQuery('.divTabSlideShow').size();  
+                tabSideSizeLimit = jQuery('.divTabSideSlideShow').size();
                 tabClicked = false
                 tabSideClicked = false
                 self = null;
 
-                $('#slideShowContainer .CellOne .divSlideShowContent').css('display', 'none'); // hide all the content
-                $('#slideShowContainer .CellOne .divSlideShowContent').eq(0).css('display', 'block'); // auto show the first content
-                $('#slideShowContainer .slideShowContentSeparator').css('height', $('#slideShowContainer .CellTwo').height() + 7); // set the separator
+                jQuery('#slideShowContainer .CellOne .divSlideShowContent').css('display', 'none'); // hide all the content
+                jQuery('#slideShowContainer .CellOne .divSlideShowContent').eq(0).css('display', 'block'); // auto show the first content
+                jQuery('#slideShowContainer .slideShowContentSeparator').css('height', jQuery('#slideShowContainer .CellTwo').height() + 7); // set the separator
                 
                 window.setInterval(function() {
                     swap_slideshow();
@@ -176,41 +186,41 @@ var jc_commentForm;
                     }
                 }, 4000);
 
-                $('.categoryHeaderSmall').each(function(index) {
-                    $(this).click(function() {
+                jQuery('.categoryHeaderSmall').each(function(index) {
+                    jQuery(this).click(function() {
                         slideShowIndex = index;
                         swap_slideshow();
                     });
                 }); 
 
-                $("#tab_sales").click(function () {
+                jQuery("#tab_sales").click(function () {
                     tabClicked = true;
                     tabSlideShowIndex = 0;
                     swap_tab();
                 });
-                $("#tab_gossips").click(function () {
+                jQuery("#tab_gossips").click(function () {
                     tabClicked = true;
                     tabSlideShowIndex = 1;
                     swap_tab();
                 });
-                $("#tab_hotprices").click(function () {
+                jQuery("#tab_hotprices").click(function () {
                     // comment out the below 3 lines to disable hotprices tab
                     tabClicked = true;
                     tabSlideShowIndex = 2;
                     swap_tab();
                 });
                 
-                $("#tab_side_blogs").click(function () {
+                jQuery("#tab_side_blogs").click(function () {
                     tabSideClicked = true;
                     tabSideSlideShowIndex = 0;
                     swap_tabside();
                 });
-                $("#tab_side_comments").click(function () {
+                jQuery("#tab_side_comments").click(function () {
                     tabSideClicked = true;
                     tabSideSlideShowIndex = 1;
                     swap_tabside();
                 });
-                $("#tab_side_events").click(function () {
+                jQuery("#tab_side_events").click(function () {
                     tabSideClicked = true;
                     tabSideSlideShowIndex = 2;
                     swap_tabside();
@@ -219,55 +229,42 @@ var jc_commentForm;
                 jQuery("#dialog").dialog({
                     bgiframe: true, autoOpen: false, height: 500, modal: true
                 });
-
-                $('#gigya_link_account').click(function() {
-                    gigya_site_username = $('#gigya_site_username').val();
-                    gigya_site_password = $('#gigya_site_password').val();
-                    gigya_id = $('#gigya_id').val();
-                    $.post
-                    (
-                        "gigya_login.php", 
-                        { gigya_site_username: gigya_site_username, gigya_site_password: gigya_site_password, gigya_id: gigya_id, action: 'gigya_link_account' }, 
-                        function(data)
-                        {
-                            if (data == "Linked.")
-                            {
-                                // refresh window to show that joomla user has been logged in.
-                                window.location.reload(true);
-                            }
-                            else
-                            {
-                                //alert(data);
-                            }
-                        }
-                    );
-                });
-
-
-                $('#gigya_share_article, #gigya_share_article_2, #gigya_share_section, #gigya_share_category').click(function() {
+				
+                jQuery('#gigya_share_article, #gigya_share_article_2, #gigya_share_section, #gigya_share_category, #jc_submit').click(function() {
         		    // Constructing a UserAction Object
         		    var act = new gigya.services.socialize.UserAction();
 
         		    // Setting the default user message 
-        		    act.setUserMessage("Your comment here...");
+        		    if (jQuery(this).attr('id') == "jc_submit")
+        		    {
+        		        if (jQuery('#jc_agree').is(':checked') != true)
+        		        {
+        		            return;
+        		        }
+        		        act.setUserMessage(jQuery('#jc_comment').val());
+        		    }
+        		    else
+        		    {
+        		        act.setUserMessage("Your comment here...");
+        		    }
 
-                    if ($(this).attr('id') == "gigya_share_section")
+                    if (jQuery(this).attr('id') == "gigya_share_section")
                     {
             		    // Setting the title and description 
-            		    act.setTitle($('#gigya_share_section_title').text());
-            		    act.setDescription("Latest " + $('#gigya_share_section_title').text() + " Articles from MyFatPocket.Com...");
+            		    act.setTitle(jQuery('#gigya_share_section_title').text());
+            		    act.setDescription("Latest " + jQuery('#gigya_share_section_title').text() + " Articles from MyFatPocket.Com...");
                     }
-                    else if ($(this).attr('id') == "gigya_share_category")
+                    else if (jQuery(this).attr('id') == "gigya_share_category")
                     {
             		    // Setting the title and description 
-            		    act.setTitle($('#gigya_share_category_title').text());
-            		    act.setDescription("Latest " + $('#gigya_share_category_title').text() + " Articles from MyFatPocket.Com...");
+            		    act.setTitle(jQuery('#gigya_share_category_title').text());
+            		    act.setDescription("Latest " + jQuery('#gigya_share_category_title').text() + " Articles from MyFatPocket.Com...");
                     }
                     else
                     {
                         // sets up the description text.
                         var gigya_share_desc = "";
-                        gigya_share_desc = $("#articleContent").text();
+                        gigya_share_desc = jQuery("#articleContent").text();
                         gigya_share_desc = jQuery.trim(gigya_share_desc);
                         // do another level of stripping just in case the jquery .text() don't work perfectly.
                         gigya_share_desc = gigya_share_desc.replace(/<(.|\n)*?>/g, '');
@@ -275,12 +272,12 @@ var jc_commentForm;
                         gigya_share_desc = gigya_share_desc.substring(0, gigya_share_desc.lastIndexOf(" "));
 
             		    // Setting the title and description 
-            		    act.setTitle($('#gigya_share_article_title').html());
+            		    act.setTitle(jQuery('#gigya_share_article_title').html());
             		    act.setDescription(gigya_share_desc + "...");
 
             		    // Adding an image (will be presented in the preview on the Share UI)
             		    var image = {
-            		        src: $("#articleContent img").attr("src"),
+            		        src: jQuery("#articleContent img").attr("src"),
         	                href: window.location,
         	                type: 'image'
             		    }
@@ -306,395 +303,8 @@ var jc_commentForm;
 		        	// Show the "Share" dialog
 	        		gigya.services.socialize.showShareUI(conf, params);
                 });
-
-
-
+ 
             });
-        -->
-    </script>
-    
-<!-- socialize.js script should only be included once -->
-<script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_WDDWYCCjo2G6VRjDaVq1QGms-VM6kfpRJMB9eIzUb-obL9hPGuw6QVh3l7TdPZg1"></script>
-<script type="text/javascript">
-	var conf = {
-		APIKey: '2_WDDWYCCjo2G6VRjDaVq1QGms-VM6kfpRJMB9eIzUb-obL9hPGuw6QVh3l7TdPZg1',
-		enabledProviders: 'facebook,twitter,myspace,yahoo,google,linkedin,liveid'
-	};
-
-    var login_params=
-    {
-    	useHTML: 'true'
-        ,hideGigyaLink:'true'
-    	,showTermsLink: 'false'
-    	,height: 45
-    	,width: 170
-    	,containerID: 'componentDiv'
-    	,UIConfig: '<config><body><controls><snbuttons buttonsize="20"></snbuttons></controls></body></config>'
-    	,useHTML: 'true'
-        //,redirectURL: 'gigya_rest.php' // uncomment this to unlink account
-    }
-    var login_params_2=
-    {
-    	useHTML: 'true'
-        ,hideGigyaLink:'true'
-    	,showTermsLink: 'false'
-    	,height: 45
-    	,width: 170
-    	,containerID: 'componentDiv2'
-    	,UIConfig: '<config><body><controls><snbuttons buttonsize="20"></snbuttons></controls></body></config>'
-    	,useHTML: 'true'
-        //,redirectURL: 'gigya_rest.php' // uncomment this to unlink account
-    }
-    var login_params_popup=
-    {
-    	useHTML: 'true'
-        ,hideGigyaLink:'true'
-    	,showTermsLink: 'false'
-    	,height: 45
-    	,width: 170
-    	,containerID: 'gigya_popup_login'
-    	,UIConfig: '<config><body><controls><snbuttons buttonsize="20"></snbuttons></controls></body></config>'
-    	,useHTML: 'true'
-        //,redirectURL: 'gigya_rest.php' // uncomment this to unlink account
-    }
-
-
-    gigya.services.socialize.addEventHandlers(conf, {  
-		context: { str: 'congrats on your' }  
-		, onLogin: onLoginHandler   
-        , onLogout: onLogoutHandler  
-        , onConnect: onConnectHandler
-		, onDisconnect: onDisconnectHandler
-	});
-
-	// onLogin Event handler  
-	function onLoginHandler(eventObj) 
-    {
-        $('#gigya_logout_btn').show();
-        $('#gigya_logout_btn_2').show();
-        gigya.services.socialize.showConnectUI(conf,login_params);
-        gigya.services.socialize.showConnectUI(conf,login_params_2);
-        //alert("Logged In. UID = " + eventObj.UID);
-        if (eventObj.user.isSiteUID == true)
-        {
-            // logs in the user to joomla
-            gigya_site_user_id = eventObj.UID;
-            $.post
-            (
-                "gigya_login.php", 
-                { gigya_site_user_id: gigya_site_user_id, action: 'gigya_login' }, 
-                function(data)
-                {
-                    if (data == "done")
-                    {
-                        // refresh window to show that joomla user has been logged in.
-                        window.location.reload(true);
-                    }
-                    else
-                    {
-                        alert(data);
-                    }
-                }
-            );
-        }
-        else
-        {
-            // check if member's email exist
-            $.post
-            (
-                "gigya_check_member_exist.php",
-                {gigya_member_email: eventObj.user.email, action: 'gigya_check_member_email'},
-                function (data)
-                {
-
-                    if ((data == "no") && (eventObj.user.loginProvider != "twitter") && (eventObj.user.loginProvider != "linkedin"))
-                    {
-                        // pre register the member behind the scene
-                        $.post
-                        (
-                            "gigya_check_member_exist.php", 
-                            { g_username: eventObj.user.email, g_email: eventObj.user.email, g_name: eventObj.user.firstName, g_gender: eventObj.user.gender, g_date: eventObj.user.birthDay, g_month: eventObj.user.birthMonth, g_year: eventObj.user.birthYear, action: 'gigya_auto_register_member', gigya_id: eventObj.UID }, 
-                            function(data)
-                            {
-                                if (data == "All Done.")
-                                {
-                                    // refresh window to show that joomla user has been logged in.
-                                    window.location.reload(true);
-                                }
-                                else
-                                {
-                                    alert("T" + data);
-                                }
-                            }
-                        );
-                    }
-                    else
-                    {
-
-                        jQuery('#gigya_id').val(eventObj.UID);
-                        jQuery('#dialog').dialog('open');
-
-                        $('#g_username').val(eventObj.user.nickname);
-                        $('#g_name').val(eventObj.user.firstName);
-                        $('#g_email').val(eventObj.user.email);
-                        $('#g_gender').val(eventObj.user.gender);
-                        $('#g_date').val(eventObj.user.birthDay);
-                        $('#g_month').val(eventObj.user.birthMonth);
-                        $('#g_year').val(eventObj.user.birthYear);
-
-                        $('#user_detail_img').html('<img src="' + eventObj.user.thumbnailURL + '" border="0" />');
-                        $('#user_detail_img_2').html('<img src="' + eventObj.user.thumbnailURL + '" border="0" />');
-                        $('#user_detail_greeting').html('Hi ' + eventObj.user.firstName);
-                        $('#user_detail_greeting_2').html('Hi ' + eventObj.user.firstName);
-                        $('#user_detail_logout').show();
-                        $('#user_detail_logout_2').show();
-                        $('#user_detail_box').width('400px');
-                        $('#udb_img').css('display','inline');
-                        $('#udb_greeting_btn').width('200px');
-
-                        var sConnectedProviders = "";
-                        if (eventObj.user.providers.length > 0)
-                        {
-                            var arrConnectedProviders = eventObj.user.providers;
-                            for(var i=0; i < arrConnectedProviders.length; i++) 
-                            {
-                                sConnectedProviders = sConnectedProviders + ", " + arrConnectedProviders[i];
-                            }
-                            sConnectedProviders = sConnectedProviders.substr(2);
-                        }
-                        else
-                        {
-                            sConnectedProviders = "";
-                        }
-                        $('#ui-dialog-title-dialog').html('You are now logged in via ' + sConnectedProviders);
-                        $('#gigya_connected_user_pic').html('<img src="' + eventObj.user.thumbnailURL + '" border="0" />');
-                        $('#gigya_connected_user_name').html(' ' + eventObj.user.firstName);
-                    }
-                }
-            );
-        }
-        /*
-        else
-        {
-            jQuery('#gigya_id').val(eventObj.UID);
-            jQuery('#dialog').dialog('open');
-
-            $('#user_detail_img').html('<img src="' + eventObj.user.thumbnailURL + '" border="0" />');
-            $('#user_detail_img_2').html('<img src="' + eventObj.user.thumbnailURL + '" border="0" />');
-            $('#user_detail_greeting').html('Hi ' + eventObj.user.firstName);
-            $('#user_detail_greeting_2').html('Hi ' + eventObj.user.firstName);
-            $('#user_detail_logout').show();
-            $('#user_detail_logout_2').show();
-            $('#user_detail_box').width('400px');
-            $('#udb_img').css('display','inline');
-            $('#udb_greeting_btn').width('200px');
-
-            var sConnectedProviders = "";
-            if (eventObj.user.providers.length > 0)
-            {
-                var arrConnectedProviders = eventObj.user.providers;
-                for(var i=0; i < arrConnectedProviders.length; i++) 
-                {
-                    sConnectedProviders = sConnectedProviders + ", " + arrConnectedProviders[i];
-                }
-                sConnectedProviders = sConnectedProviders.substr(2);
-            }
-            else
-            {
-                sConnectedProviders = "";
-            }
-            $('#ui-dialog-title-dialog').html('You are now logged in via ' + sConnectedProviders);
-            $('#gigya_connected_user_pic').html('<img src="' + eventObj.user.thumbnailURL + '" border="0" />');
-            $('#gigya_connected_user_name').html(' ' + eventObj.user.firstName);
-        }
-        */
-   	}
-
-	// onConnect Event handler  
-	function onConnectHandler(eventObj) 
-    {
-        //alert("Connected");
-   	}
-
-	// onLogout Event handler  
-	function onLogoutHandler(eventObj) 
-    {
-        $('#gigya_logout_btn').hide();
-        $('#gigya_logout_btn_2').hide();
-        $('#user_detail_greeting').html('<a href="index.php?option=com_signup&task=register"><img id="sign_up_image" src="/staging/common/images/icon_signup.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<a href="index.php?option=com_member&view=login"><img id="login_image" src="/staging/common/images/icon_login.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<img id="sign_in_with_image" src="/staging/common/images/icon_sign_in_with.jpg" height="25" border="0" style="margin-top: 7px;" />');
-        $('#user_detail_greeting_2').html('<a href="index.php?option=com_signup&task=register"><img id="sign_up_image" src="/staging/common/images/icon_signup.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<a href="index.php?option=com_member&view=login"><img id="login_image" src="/staging/common/images/icon_login.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<img id="sign_in_with_image" src="/staging/common/images/icon_sign_in_with.jpg" height="25" border="0" style="margin-top: 7px;" />');
-        $('#user_detail_box').width('520px');
-        $('#udb_img').css('display','none');
-        $('#udb_greeting_btn').width('250px');
-        gigya.services.socialize.showLoginUI(conf,login_params);
-        gigya.services.socialize.showLoginUI(conf,login_params_2);
-        window.location='index.php?option=com_user&task=logout&return=Lw';
-	}
-
-	// onDisconnect Event handler  
-	function onDisconnectHandler(eventObj) 
-    { 
-        if (eventObj.user.providers.length == 0)
-        {
-            $('#gigya_logout_btn').hide();
-            $('#gigya_logout_btn_2').hide();
-            $('#user_detail_greeting').html('<a href="index.php?option=com_signup&task=register"><img id="sign_up_image" src="/staging/common/images/icon_signup.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<a href="index.php?option=com_member&view=login"><img id="login_image" src="/staging/common/images/icon_login.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<img id="sign_in_with_image" src="/staging/common/images/icon_sign_in_with.jpg" height="25" border="0" style="margin-top: 7px;" />');
-            $('#user_detail_greeting_2').html('<a href="index.php?option=com_signup&task=register"><img id="sign_up_image" src="/staging/common/images/icon_signup.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<a href="index.php?option=com_member&view=login"><img id="login_image" src="/staging/common/images/icon_login.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<img id="sign_in_with_image" src="/staging/common/images/icon_sign_in_with.jpg" height="25" border="0" style="margin-top: 7px;" />');
-            $('#user_detail_box').width('520px');
-            $('#udb_img').css('display','none');
-            $('#udb_greeting_btn').width('250px');
-            gigya.services.socialize.showLoginUI(conf,login_params);
-            gigya.services.socialize.showLoginUI(conf,login_params_2);
-        }
-    }
-
-    function response_user_info(response) 
-    {
-        if ((response.user.isLoggedIn == true) || (response.user.isConnected == true))
-        {
-            if (response.user.isSiteUID == true)
-            {
-                $.post
-                (
-                    "gigya_login.php", 
-                    { gigya_site_user_id: response.user.UID, action: 'gigya_login' }, 
-                    function(data)
-                    {
-                        if (data == "done")
-                        {
-                            // refresh window to show that joomla user has been logged in.
-                            //window.location.reload(true);
-                            //alert("logged in as id : " + response.user.UID);
-                        }
-                        else
-                        {
-                            alert(data);
-                        }
-                    }
-                );
-            }
-            $('#user_detail_img').html('<img src="' + response.user.thumbnailURL + '" border="0" />');
-            $('#user_detail_img_2').html('<img src="' + response.user.thumbnailURL + '" border="0" />');
-            if (response.user.firstName.length > 0)
-            {
-                $('#user_detail_greeting').html('Hi ' + response.user.firstName);
-                $('#user_detail_greeting_2').html('Hi ' + response.user.firstName);
-            }
-            else
-            {
-                if (response.context != "")
-                {
-                                        $('#user_detail_greeting').html('Hi ');
-                    $('#user_detail_greeting_2').html('Hi ');
-                }
-            }
-            $('#user_detail_box').width('400px');
-            $('#udb_img').css('display','inline');
-            $('#udb_greeting_btn').width('200px');
-        }
-
-        if ((response.user.isLoggedIn == true) || (response.context != ""))
-        {
-            $('#user_detail_logout').show();
-            $('#user_detail_logout_2').show();
-        }
-        else
-        {
-            $('#user_detail_logout').hide();
-            $('#user_detail_logout_2').hide();
-            $('#user_detail_box').width('520px');
-            $('#udb_img').css('display','none');
-            $('#udb_greeting_btn').width('250px');
-        }
-
-        var sConnectedProviders = "";
-        if (response.user.providers.length > 0)
-        {
-            var arrConnectedProviders = response.user.providers;
-            for(var i=0; i < arrConnectedProviders.length; i++) 
-            {
-                sConnectedProviders = sConnectedProviders + ", " + arrConnectedProviders[i];
-            }
-            sConnectedProviders = sConnectedProviders.substr(2);
-        }
-        else
-        {
-            sConnectedProviders = "";
-        }
-        $('#gigya_connected_providers').html(sConnectedProviders);
-    }
-
-    function printResponse2(response) 
-    {
-        if (response.operation == "isLoggedIn")
-        {
-            /*
-            if ((response.loggedIn == true) && (response.context != ""))
-            {
-                $('#gigya_logout_btn').show();
-                $('#gigya_logout_btn_2').show();
-                gigya.services.socialize.showConnectUI(conf,login_params);
-                gigya.services.socialize.showConnectUI(conf,login_params_2);
-                //gigya.services.socialize.getUserInfo(conf, {callback:response_user_info});
-            }
-            else if ((response.loggedIn == true) && (response.context == ""))
-            {
-                gigya.services.socialize.logout(conf,{});
-                $('#gigya_logout_btn').hide();
-                $('#gigya_logout_btn_2').hide();
-                $('#user_detail_greeting').html('<a href="index.php?option=com_signup&task=register"><img id="sign_up_image" src="/staging/common/images/icon_signup.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<a href="index.php?option=com_member&view=login"><img id="login_image" src="/staging/common/images/icon_login.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<img id="sign_in_with_image" src="/staging/common/images/icon_sign_in_with.jpg" height="25" border="0" style="margin-top: 7px;" />');
-                $('#user_detail_greeting_2').html('<a href="index.php?option=com_signup&task=register"><img id="sign_up_image" src="/staging/common/images/icon_signup.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<a href="index.php?option=com_member&view=login"><img id="login_image" src="/staging/common/images/icon_login.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<img id="sign_in_with_image" src="/staging/common/images/icon_sign_in_with.jpg" height="25" border="0" style="margin-top: 7px;" />');
-                gigya.services.socialize.showLoginUI(conf,login_params);
-                gigya.services.socialize.showLoginUI(conf,login_params_2);
-            }
-            */
-            if (response.loggedIn == true)
-            {
-                $('#gigya_logout_btn').show();
-                $('#gigya_logout_btn_2').show();
-                $('#user_detail_box').width('400px');
-                $('#udb_img').css('display','inline');
-                $('#udb_greeting_btn').width('200px');
-                gigya.services.socialize.showConnectUI(conf,login_params);
-                gigya.services.socialize.showConnectUI(conf,login_params_2);
-            }
-            else if ((response.loggedIn == false) && (response.context != ""))
-            {
-                $('#user_detail_logout').show();
-                $('#user_detail_logout_2').show();
-                $('#user_detail_box').width('400px');
-                $('#udb_img').css('display','inline');
-                $('#udb_greeting_btn').width('200px');
-                                $('#user_detail_greeting').html('Hi ');
-                $('#user_detail_greeting_2').html('Hi ');
-                gigya.services.socialize.showConnectUI(conf,login_params);
-                gigya.services.socialize.showConnectUI(conf,login_params_2);
-            }
-            else
-            {
-                $('#user_detail_greeting').html('<a href="index.php?option=com_signup&task=register"><img id="sign_up_image" src="/staging/common/images/icon_signup.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<a href="index.php?option=com_member&view=login"><img id="login_image" src="/staging/common/images/icon_login.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<img id="sign_in_with_image" src="/staging/common/images/icon_sign_in_with.jpg" height="25" border="0" style="margin-top: 7px;" />');
-                $('#user_detail_greeting_2').html('<a href="index.php?option=com_signup&task=register"><img id="sign_up_image" src="/staging/common/images/icon_signup.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<a href="index.php?option=com_member&view=login"><img id="login_image" src="/staging/common/images/icon_login.jpg" height="25" border="0" style="margin-top: 7px;" /></a>&nbsp;<img id="sign_in_with_image" src="/staging/common/images/icon_sign_in_with.jpg" height="25" border="0" style="margin-top: 7px;" />');
-                $('#gigya_logout_btn').hide();
-                $('#gigya_logout_btn_2').hide();
-                $('#user_detail_box').width('520px');
-                $('#udb_img').css('display','none');
-                $('#udb_greeting_btn').width('250px');
-                gigya.services.socialize.showLoginUI(conf,login_params);
-                gigya.services.socialize.showLoginUI(conf,login_params_2);
-            }
-        }
-        else
-        {
-            if ( response.errorCode == 0 ) 
-            {  
-                //alert('After notifyLogin');      
-            }
-            else  
-            {
-                //alert(response.operation + " generated error code of " + response.errorCode + " which means " + response.errorMessage);
-            }
-        }
-    }
 
 	// onError event handler for gigya sharing article
 	function onGigyaShareError(event) 
@@ -706,43 +316,61 @@ var jc_commentForm;
 	function onGigyaShareDone(event)
 	{
         //alert("The newsfeed has been posted to : " + event.providers);
-	}
+	}			
+        -->
     </script>
-              <script language="JavaScript">
-function setVisibility(id, visibility) {
-document.getElementById(id).style.display = visibility;
+    
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22116760-1']);
+  _gaq.push(['_setDomainName', '.myfatpocket.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+
+function bookmark_us(url, title){
+
+if (window.sidebar) // firefox
+    window.sidebar.addPanel(title, url, "");
+else if(window.opera && window.print){ // opera
+    var elem = document.createElement('a');
+    elem.setAttribute('href',url);
+    elem.setAttribute('title',title);
+    elem.setAttribute('rel','sidebar');
+    elem.click();
 }
-</script>  
+else if(document.all)// ie
+    window.external.AddFavorite(url, title);
+}
+</script>
+<meta name="alexaVerifyID" content="Fh5VjL3ZrjPOaQ9lunhrJSQgynQ">
 </head>
 <body>
     <form>
-<input type="button" value="Make MyFatPocket Your Homepage" onclick="this.style.behavior='url(#default#homepage)'; this.setHomePage('http://www.myfatpocket.com');" class="Button_Class_Name">
+<input type="button" value="Make MyFatPocket Your Homepage" onclick="bookmark_us('http://www.myfatpocket.com','My Fat Pocket');" class="Button_Class_Name">
 </form>
-<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId  : '115954488452111',
-      status : true, // check login status
-      cookie : true, // enable cookies to allow the server to access the session
-      xfbml  : true  // parse XFBML
-    });
-  };
 
-  (function() {
-    var e = document.createElement('script');
-    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-    e.async = true;
-    document.getElementById('fb-root').appendChild(e);
-  }());
-</script>
+
+
     <div id="contentMain">
         <div id="header">
-           <div style="float: left"><a href="index.php"><img src="/templates/myfatpocket/images/MFPlogo.jpg" border="0" alt="My Fat Pocket" title="My Fat Pocket" style="padding-top: 10px"></a></div>
-           <!--<div class="bannergroup topBanner">-->
-<div class="bannergroup">
+            <div id="logo" style="float: left;"><a href="index.php"><img src="/templates/myfatpocket/images/MFPlogo.jpg" border="0" alt="My Fat Pocket" title="My Fat Pocket" style="padding-top: 10px"></a></div>
+            <div id="top">
+                            <div class="banner">
+                		<div class="moduletable">
+					<div class="bannergroup">
 
-<div class="banneritem topBanner"><!--JavaScript Tag // Tag for network 559: Asia Digital Holdings // Website: SG_MyFatPocket // Page: Homepage // Placement: Homepage-default-728 x 90 (2817634) // created at: Aug 5, 2010 4:39:03 AM-->
+<div class="banneritem"><!--JavaScript Tag // Tag for network 559: Asia Digital Holdings // Website: SG_MyFatPocket // Page: Homepage // Placement: Homepage-default-728 x 90 (2817634) // created at: Jan 17, 2011 3:04:14 AM-->
 <script language="javascript">
 <!--
 if (window.adgroupid == undefined) {
@@ -750,49 +378,97 @@ if (window.adgroupid == undefined) {
 }
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|559|2817634|0|225|ADTECH;cookie=info;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 //-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|559|2817634|0|225|ADTECH;cookie=info;loc=100;target=_blank;grp=923;misc=1580470551280"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|559|2817634|0|225|ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|559|2817634|0|225|ADTECH;cookie=info;loc=300" border="0" width="728" height="90"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|559|2817634|0|225|ADTECH;cookie=info;loc=100;target=_blank;grp=253;misc=1580470555177"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|559|2817634|0|225|ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|559|2817634|0|225|ADTECH;cookie=info;loc=300" border="0" width="728" height="90"></a></noscript>
 <!-- End of JavaScript Tag --><div class="clr"></div>
 	</div>
 
-</div>
-           <div id="externalSite">
+</div>		</div>
+	
+              </div>
+                                          <div class="search">
+              			<div class="moduletable">
+					
+<form action="/" method="post" name="login">
+
+<span class="horizontal" style="display: block;">
+	<span class="slick_login_vm">
+	
+				<span class="login">
+		
+						
+			<span class="username">
+			<input type="text" name="username" size="18" alt="Username" value="Username" onblur="if(this.value=='') this.value='Username';" onfocus="if(this.value=='Username') this.value='';">
+			</span>
+			<span class="password">
+			<input type="password" name="passwd" size="10" alt="Password" value="Password" onblur="if(this.value=='') this.value='Password';" onfocus="if(this.value=='Password') this.value='';">
+			</span>
+
+						
+			<span class="login-button-icon">
+			<button name="Submit" type="submit" title="Login"></button>
+			</span>
+			
+						<span class="lostpassword">
+			<a href="/user-publish/reset.html" title="Forgot your password?"></a>
+
+			</span>
+
+			
+			
+
+			
+			<span class="lostusername">
+
+<a href="/user-publish/remind.html" title="Forgot your username?"></a>
+
+			</span>
+
+			
+			
+
+			
+<span class="registration">
+
+<a href="/user-publish/create-an-account.html" title="Create an Account"></a>
+
+
+</span>
+			
+			
+
+			<input type="hidden" name="option" value="com_user">
+
+			<input type="hidden" name="task" value="login">
+
+			<input type="hidden" name="return" value="aHR0cDovL3d3dy5teWZhdHBvY2tldC5jb20vcHJpdmFjeS1wb2xpY3kvcHJpdmFjeS1wb2xpY3kuaHRtbA==">
+
+			<input type="hidden" name="f2771ffa07852d1a3287359140342aca" value="1">
+
+
+		</span>
+
+		
+
+		
+		
+
+	</span>
+
+</span>
+
+</form>		</div>
+	
+              </div>
                
-               <style type="text/css">
-  .toplogin {
-      text-decoration:none;
-      font-family: Verdana, Arial, Helvetica, sans-serif;
-  }  
+            </div>
 
-  .toplogin:hover {
-      text-decoration:underline;
-  }    
-</style>  
-<!--
-    <a title="Login" href="component/member"><img id="login_image" src="/staging/common/images/icon_login.jpg" height="25" border="0" /></a>&nbsp;
-    <a title="Register" href="component/signup"><img id="register_image" src="/staging/common/images/icon_signup.jpg" height="25" border="0" /></a>
--->
-
-
-               <div id="user_detail_box" style="float: right; width: 520px;">
-                   <div id="udb_img" style="float: left; width: 100px; height: 70px; display: none;">
-                       <span id="user_detail_img" style="text-align: right;"></span>
-                   </div>
-                   <div id="udb_greeting_btn" style="text-align:left; margin-left:10px; float: left; width: 250px;">
-                       <span id="user_detail_greeting"></span>
-                       <span id="user_detail_logout" style="display: none"><input type="button" value="Log out" class="button" name="Logout" onclick="gigya.services.socialize.logout(conf,{});"></span>
-                   </div>
-                   <div id="componentDiv" style="float: left"></div>
-                   <div style="position: absolute; right: 0px; bottom: 0px; float: left; width: 80px; height:50px; border: 0px solid blue;"><!--Invite Friend Image--></div>
-               </div>
-
-           </div>
-        </div>
+        </div><!-- end header -->
 
         <div id="mainMenu" style="overflow: hidden; height: 60px">
-            <ul class="menu sf-menu sf-navbar"><li id="current" class="active item101"><a href="http://www.myfatpocket.com/"><span>Home</span></a></li><li class="parent item102"><a href="/beauty/"><span>Beauty</span></a><ul><li class="item107"><a href="/beauty/good-looks/"><span>good looks</span></a></li><li class="item106"><a href="/beauty/beauty-trials/"><span>beauty trials</span></a></li><li class="item108"><a href="/beauty/interviews/"><span>interviews</span></a></li><li class="item109"><a href="/beauty/event-coverage/"><span>Event Coverage</span></a></li><li class="item166"><a href="/beauty/beauty-news/"><span>Beauty News</span></a></li></ul></li><li class="parent item104"><a href="/fashion/2.html"><span>Fashion</span></a><ul><li class="item111"><a href="/fashion/fashion-spotting/"><span>fashion spotting</span></a></li><li class="item113"><a href="/fashion/touch-of-vogue/"><span>touch of vogue</span></a></li><li class="item112"><a href="/fashion/frugalista/"><span>frugalista</span></a></li><li class="item114"><a href="/fashion/interviews/"><span>interviews</span></a></li><li class="item115"><a href="/fashion/fashion-events/"><span>Event Coverage</span></a></li><li class="item171"><a href="/fashion/fashion-news/"><span>Fashion News</span></a></li></ul></li><li class="parent item105"><a href="/videos/"><span>How-To Videos</span></a><ul><li class="item138"><a href="/videos/hairstyles/"><span>Hairstyles</span></a></li><li class="item139"><a href="/videos/nails/"><span>Nails</span></a></li><li class="item140"><a href="/videos/make-up/"><span>Make Up</span></a></li></ul></li><li class="item116"><a href="/static-content/make-up-academy/make-up-academy.html"><span>Make-Up Academy</span></a></li><li class="item123"><a href="/hot-prices.html"><span>Hot Prices</span></a></li><li class="parent item142"><a href="/love-sex/"><span>Love&amp;Sex</span></a><ul><li class="item144"><a href="/menu-my-sweetheart/"><span>My Sweetheart</span></a></li><li class="item145"><a href="/menu-sex-in-the-city.html"><span>Sex in the city</span></a></li></ul></li><li class="parent item124"><a href="/her-gadgets/"><span>Her Gadgets</span></a><ul><li class="item149"><a href="/her-gadgets/miss-it-trend/"><span>Miss IT Trend</span></a></li><li class="item148"><a href="/her-gadgets/her-tech-review/"><span>Her Tech Review</span></a></li><li class="item147"><a href="/her-gadgets/gadget-news/"><span>Gadget News</span></a></li></ul></li><li class="parent item126"><a href="/lifestyle/"><span>Lifestyle</span></a><ul><li class="item151"><a href="/lifestyle/our-society/"><span>Our Society</span></a></li><li class="item154"><a href="/lifestyle/health-wellness/"><span>Health &amp; Wellness</span></a></li><li class="item155"><a href="/lifestyle/career-management/"><span>Career</span></a></li><li class="item156"><a href="/lifestyle/wine-dine/"><span>Wine &amp; Dine</span></a></li><li class="item157"><a href="/lifestyle/rich-women/"><span>Rich Women</span></a></li><li class="item170"><a href="/lifestyle/travel-lounge/"><span>Travel Lounge</span></a></li><li class="item159"><a href="/lifestyle/interviews/"><span>Interviews</span></a></li><li class="item152"><a href="/lifestyle/event-coverage/"><span>Event Coverage</span></a></li></ul></li><li class="item127"><a href="/gossips/gossips/"><span>Gossips</span></a></li><li class="item128"><a href="/sales/sales-promo/"><span>Sales</span></a></li><li class="parent item129"><a href="/treats/"><span>Treats</span></a><ul><li class="item130"><a href="/treats/beauty/"><span>beauty</span></a></li><li class="item131"><a href="/treats/fashion/"><span>fashion</span></a></li><li class="item132"><a href="/treats/wine-dine/"><span>Lifestyle</span></a></li></ul></li><li class="item137"><a href="/resident-bloggers.html"><span>Bloggers</span></a></li></ul>
+            <ul class="menu sf-menu sf-navbar"><li id="current" class="active item101"><a href="http://www.myfatpocket.com/"><span>Home</span></a></li><li class="parent item102"><a href="/beauty/"><span>Beauty</span></a><ul><li class="item107"><a href="/beauty/good-looks/"><span>good looks</span></a></li><li class="item106"><a href="/beauty/beauty-trials/"><span>beauty trials</span></a></li><li class="item108"><a href="/beauty/interviews/"><span>interviews</span></a></li><li class="item109"><a href="/beauty/event-coverage/"><span>Event Coverage</span></a></li><li class="item166"><a href="/beauty/beauty-news/"><span>Beauty News</span></a></li></ul></li><li class="parent item104"><a href="/fashion/"><span>Fashion</span></a><ul><li class="item111"><a href="/fashion/fashion-spotting/"><span>fashion spotting</span></a></li><li class="item113"><a href="/fashion/touch-of-vogue/"><span>touch of vogue</span></a></li><li class="item112"><a href="/fashion/frugalista/"><span>frugalista</span></a></li><li class="item114"><a href="/fashion/interviews/"><span>interviews</span></a></li><li class="item115"><a href="/fashion/fashion-events/"><span>Event Coverage</span></a></li><li class="item171"><a href="/fashion/fashion-news/"><span>Fashion News</span></a></li></ul></li><li class="parent item105"><a href="/videos/"><span>How-To Videos</span></a><ul><li class="item138"><a href="/videos/hairstyles/"><span>Hairstyles</span></a></li><li class="item139"><a href="/videos/nails/"><span>Nails</span></a></li><li class="item140"><a href="/videos/make-up/"><span>Make Up</span></a></li></ul></li><li class="item116"><a href="/b2b"><span>Make-Up Academy</span></a></li><li class="parent item142"><a href="/love-sex/"><span>Love&amp;Sex</span></a><ul><li class="item144"><a href="/love-sex/my-sweetheart/"><span>My Sweetheart</span></a></li><li class="item145"><a href="/love-sex/sex-in-the-city/"><span>Sex in the city</span></a></li></ul></li><li class="item124"><a href="/her-gadgets/her-gadgets/"><span>Her Gadgets</span></a></li><li class="parent item126"><a href="/lifestyle/"><span>Lifestyle</span></a><ul><li class="item188"><a href="/lifestyle/career-money/"><span>Career &amp; Money</span></a></li><li class="item189"><a href="/lifestyle/health-food/"><span>Health &amp; Food</span></a></li><li class="item190"><a href="/lifestyle/travel-living/"><span>Travel &amp; Living</span></a></li><li class="item191"><a href="/lifestyle/event-coverage/"><span>Event Coverage</span></a></li></ul></li><li class="item127"><a href="/gossips/gossips/"><span>Gossips</span></a></li><li class="item137"><a href="/resident-bloggers.html"><span>Bloggers</span></a></li><li class="item192"><a href="/community"><span>Community</span></a></li></ul>
         </div>
         <div id="content">
-            <div style="margin-bottom:10px; width:100%; overflow: hidden;"><div style="width:60px; float:left;"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script> </div><div style="cursor:pointer; width:60px; float:left; "><img src="/templates/myfatpocket/images/share.gif" alt="" border="0" id="gigya_share_article"></div><div style="float:left; width:180px; "><fb:like ref="top_left" show_faces="false"></fb:like></div></div>
+            <div style="margin-bottom:10px; width:100%; overflow: hidden;"><div style="width:60px; float:left;"><a href="http://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script> </div><div style="cursor:pointer; width:60px; float:left; "><img src="/templates/myfatpocket/images/share.gif" alt="" border="0" id="gigya_share_article"></div><div style="float:left; width:180px; "><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.myfatpocket.com%2Fprivacy-policy%2Fprivacy-policy.html&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;action=like&amp;font&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowtransparency="true"></iframe></div></div>
           
 <div class="breadcrumb">You are here: <a href="index.php">Home</a> <img src="/templates/myfatpocket/images/breadcrumb_arrow.png" alt="" border="0"> <a href="/static-content/">Static Content</a> <img src="/templates/myfatpocket/images/breadcrumb_arrow.png" alt="" border="0"> <a href="/static-content/privacy-policy/">Privacy Policy</a> <img src="/templates/myfatpocket/images/breadcrumb_arrow.png" alt="" border="0"> Privacy Policy</div>
 
@@ -810,7 +486,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
                         </span>
                     
                                             <span class="article_createby">
-                            by administrator                        </span>
+                            by MyFatPocket                        </span>
                                     </div>
             </div>
             
@@ -881,10 +557,10 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy48774 = 'm&#97;rk&#101;t&#105;ng' + '&#64;';
- addy48774 = addy48774 + 'My-F&#97;t-P&#111;ck&#101;t' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy48774 + suffix + '\'' + attribs + '>' );
- document.write( addy48774 );
+ var addy44867 = 'm&#97;rk&#101;t&#105;ng' + '&#64;';
+ addy44867 = addy44867 + 'My-F&#97;t-P&#111;ck&#101;t' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy44867 + suffix + '\'' + attribs + '>' );
+ document.write( addy44867 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:marketing@My-Fat-Pocket.com">marketing@My-Fat-Pocket.com</a> <script language="JavaScript" type="text/javascript">
@@ -907,13 +583,13 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
 
 
                 <!-- start of gigya login again-->
-               <div id="user_detail_box_2" style="float: left; width: 400px;">
+               <div id="user_detail_box_2" style="float: left; width: 400px; display:none;">
                    <div id="udb_img_2" style="float: left; width: 50px; height: 70px;">
                        <span id="user_detail_img_2" style="text-align: right;"></span>
                    </div>
                    <div id="udb_greeting_btn_2" style="text-align:left; margin-left:10px; float: left; width: 200px;">
                        <span id="user_detail_greeting_2"></span>
-                       <span id="user_detail_logout_2" style="display: none"><input type="button" value="Log out" class="button" name="Logout" onclick="gigya.services.socialize.logout(conf,{});"></span>
+                       <span id="user_detail_logout_2" style="display: none"><input type="button" value="Log out" id="gigya_logout_btn_2" class="button" name="Logout" onclick="gigya.services.socialize.logout(conf,{});"></span>
                    </div>
                    <div id="componentDiv2" style="float: left"></div>
                </div>
@@ -943,38 +619,12 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.
                 <!--<img src="/templates/myfatpocket/images/video_banner.jpg"></img>-->
                 <img src="/templates/myfatpocket/images/tab_side_title_videos.jpg" style="margin-left: -14px; border: 0; padding-bottom: 10px;">
                 <div id="tabSideVideos">
-                    <div class="cell_merge"><object style="width: 300px; height: 180px;"><param name="movie" value="http://www.youtube.com/v/lVuLD0WKYBw?fs=1&amp;autoplay=0&amp;showinfo=1&amp;egm=1&amp;color1=0x2b405b&amp;color2=0x6b8ab6"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/lVuLD0WKYBw?fs=1&amp;autoplay=0&amp;showinfo=1&amp;egm=1&amp;color1=0x2b405b&amp;color2=0xed1261" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="300" height="180" wmode="transparent"></object><br>Katy Perry Inspired Signature Make-up</div>                    
+                    <div class="cell_merge"><object style="width: 300px; height: 180px;"><param name="movie" value="http://www.youtube.com/v/MZpwI7xnmmM?fs=1&amp;autoplay=0&amp;showinfo=1&amp;egm=1&amp;color1=0x2b405b&amp;color2=0x6b8ab6"><param name="allowFullScreen" value="true"><param name="allowScriptAccess" value="always"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/MZpwI7xnmmM?fs=1&amp;autoplay=0&amp;showinfo=1&amp;egm=1&amp;color1=0x2b405b&amp;color2=0xed1261" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="300" height="180" wmode="transparent"></object><br>S/S 2011 Make-up Must-Have (Video) </div>                    
                     
                     <a href="index.php?option=com_content&amp;view=section&amp;id=1"><img src="/templates/myfatpocket/images/tab_side_btn_videos.jpg" style="float:right; border: 0; padding: 0; margin-top: 0px;"></a>
                 </div>
+				<p><a mce_href="b2b" href="b2b"><img style="border: 0pt none;" mce_style="border: 0pt none;" src="images/banners/b2b_banner.jpg" mce_src="images/banners/b2b_banner.jpg" height="180" width="301"></a><br></p><p><a mce_href="community" href="community"><img src="images/banners/community_side.jpg" mce_src="images/banners/community_side.jpg"></a><br mce_bogus="1"></p>
 				
-				                <!--<div class="bannergroup bannerBig">-->
-<div class="bannergroup">
-
-<div class="banneritem bannerBig"><!--JavaScript Tag // Tag for network 559: Asia Digital Holdings // Website: SG_MyFatPocket // Page: ROS // Placement: ROS-default-300 x 250 (2817635) // created at: Aug 5, 2010 4:40:43 AM-->
-<script language="javascript">
-<!--
-if (window.adgroupid == undefined) {
-	window.adgroupid = Math.round(Math.random() * 1000);
-}
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|559|2817635|0|170|ADTECH;cookie=info;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|559|2817635|0|170|ADTECH;cookie=info;loc=100;target=_blank;grp=923;misc=1580470551308"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|559|2817635|0|170|ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|559|2817635|0|170|ADTECH;cookie=info;loc=300" border="0" width="300" height="250"></a></noscript><div class="clr"></div>
-	</div>
-<div class="banneritem bannerBig"><script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0','width','300','height','250','src','banner/banner300x250_new_codeCS3_2','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','banner/banner300x250_new_codeCS3_2' ); //end AC code
-</script><noscript><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="300" height="250">
-  <param name="movie" value="banner/banner300x250_new_codeCS3_2.swf">
-  <param name="quality" value="high">
-  <embed src="banner/banner300x250_new_codeCS3_2.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="300" height="250"></embed>
-</object>
-</noscript><div class="clr"></div>
-	</div>
-
-</div>
-<div style="margin-bottom:25px;"><!--JavaScript Tag // Tag for network 559: Asia Digital Holdings // Website: SG_MyFatPocket // Page: ROS // Placement: ROS-default-300 x 250 (2817635) // created at: Aug 5, 2010 4:40:43 AM-->
-</div>
                 <div id="tabSideSlideShowContainer">
                     <div id="tabSideSlideShowHighLight">
                         <div class="divTabSideSlideShow"><img src="/templates/myfatpocket/images/tab_side_blogs.jpg" id="tab_side_blogs" alt="Blogs"></div>
@@ -982,58 +632,58 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                         <div class="divTabSideSlideShow" style="border-right: 0"><img src="/templates/myfatpocket/images/tab_side_events.jpg" id="tab_side_events" alt="Latest Events"></div>
                     </div>
                     
-                    <div id="tabs-1" class="table">
+                    <div id="tabs-1" class="table" style="display:block;">
                             <div style="float:left">
         
       <div class="cell1">
-        <a href="http://www.myfatpocket.com/blog/dearestbel/?p=1207" target="_blank"><img width="74" border="0" src="/images/blog/blog_belinda.jpg"></a>
+        <a href="http://www.myfatpocket.com/shopaholiclady/?p=7785" target="_blank"><img width="74" border="0" src="images/blog/blog_jocelyn.jpg"></a>
       </div>
           
       
       <div class="cell2">
-              <b><a href="http://www.myfatpocket.com/blog/dearestbel/?p=1207" target="_blank" style="color: #ED1261">Dearestbel</a></b><br>
+              <b><a href="http://www.myfatpocket.com/shopaholiclady/?p=7785" target="_blank" style="color: #ED1261">Shopaholic Lady</a></b><br>
         
-              <b><a href="http://www.myfatpocket.com/blog/dearestbel/?p=1207" target="_blank">Be a member of MFP and win PRIZES!</a></b><br>
+              <b><a href="http://www.myfatpocket.com/shopaholiclady/?p=7785" target="_blank">ME MYSELF AND ME</a></b><br>
         
-              <span style="font-size:10px">2010-08-24 02:33:49</span><br>
+              <span style="font-size:10px">2011-05-05 05:38:59</span><br>
         
-                      ...<a href="http://www.myfatpocket.com/blog/dearestbel/?p=1207" target="_blank"><img border="0" src="images/icon_readmore.png"></a>
+              Unlike my usual self Double eye-lid sticker,        ...<a href="http://www.myfatpocket.com/shopaholiclady/?p=7785" target="_blank"><img border="0" src="images/icon_readmore.png"></a>
         
       </div>
     </div><br>
         <div style="float:left">
         
       <div class="cell1">
-        <a href="http://www.myfatpocket.com/celestina-loves/?p=5620" target="_blank"><img width="74" border="0" src="/images/blog/blog_celestina.jpg"></a>
+        <a href="http://myfatpocket.com/blog/anticipatingdiva/?p=632" target="_blank"><img width="74" border="0" src="images/blog/blog_cordelia.jpg"></a>
       </div>
           
       
       <div class="cell2">
-              <b><a href="http://www.myfatpocket.com/celestina-loves/?p=5620" target="_blank" style="color: #ED1261">Celestina-Loves</a></b><br>
+              <b><a href="http://myfatpocket.com/blog/anticipatingdiva/?p=632" target="_blank" style="color: #ED1261">anticipatingdiva</a></b><br>
         
-              <b><a href="http://www.myfatpocket.com/celestina-loves/?p=5620" target="_blank">Benefit bloggers party&lt;3</a></b><br>
+              <b><a href="http://myfatpocket.com/blog/anticipatingdiva/?p=632" target="_blank">(no title)</a></b><br>
         
-              <span style="font-size:10px">2010-08-23 18:33:13</span><br>
+              <span style="font-size:10px">2011-05-05 00:50:53</span><br>
         
-              WOOHOOO ~~~ Benefit's bloggers event knowing        ...<a href="http://www.myfatpocket.com/celestina-loves/?p=5620" target="_blank"><img border="0" src="images/icon_readmore.png"></a>
+              I'm backkkkk!!!! Better then never, I'm more        ...<a href="http://myfatpocket.com/blog/anticipatingdiva/?p=632" target="_blank"><img border="0" src="images/icon_readmore.png"></a>
         
       </div>
     </div><br>
         <div style="float:left">
         
       <div class="cell1">
-        <a href="http://www.myfatpocket.com/blog/mybittersweetmemories/?p=3311" target="_blank"><img width="74" border="0" src="/images/blog/blog_meiting.jpg"></a>
+        <a href="http://myfatpocket.com/blog/jaiyeinblack/?p=380" target="_blank"><img width="74" border="0" src="images/blog/blog_jessebella.jpg"></a>
       </div>
           
       
       <div class="cell2">
-              <b><a href="http://www.myfatpocket.com/blog/mybittersweetmemories/?p=3311" target="_blank" style="color: #ED1261">MyBitterSweetMemories</a></b><br>
+              <b><a href="http://myfatpocket.com/blog/jaiyeinblack/?p=380" target="_blank" style="color: #ED1261">Jaiye in Black</a></b><br>
         
-              <b><a href="http://www.myfatpocket.com/blog/mybittersweetmemories/?p=3311" target="_blank">Mentholatum Mojitate!!</a></b><br>
+              <b><a href="http://myfatpocket.com/blog/jaiyeinblack/?p=380" target="_blank">hey, stranger</a></b><br>
         
-              <span style="font-size:10px">2010-08-23 15:27:40</span><br>
+              <span style="font-size:10px">2011-05-04 20:40:35</span><br>
         
-              What would you do for a pair of kissable        ...<a href="http://www.myfatpocket.com/blog/mybittersweetmemories/?p=3311" target="_blank"><img border="0" src="images/icon_readmore.png"></a>
+                      ...<a href="http://myfatpocket.com/blog/jaiyeinblack/?p=380" target="_blank"><img border="0" src="images/icon_readmore.png"></a>
         
       </div>
     </div><br>
@@ -1042,7 +692,8 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                         <div>
                             <div class="comments">
                             <table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td><a href="http://www.myfatpocket.com/her-gadgets/gadget-news/possibly-the-coolest-lg-phone-ever.html#comment-721">Possibly the Coolest LG Phone Ever</a><br><span class="small" style="overflow: hidden;">Prefer iPhone!</span><a href="http://www.myfatpocket.com/her-gadgets/gadget-news/possibly-the-coolest-lg-phone-ever.html#comment-721"><img src="images/icon_readmore.png" border="0"></a><br><br></td></tr><tr><td><a href="http://www.myfatpocket.com/her-gadgets/gadget-news/a-robot-that-helps-you-lose-weight.html#comment-720">A Robot that Helps You Lose Weight!</a><br><span class="small" style="overflow: hidden;">Its good to own one! </span><a href="http://www.myfatpocket.com/her-gadgets/gadget-news/a-robot-that-helps-you-lose-weight.html#comment-720"><img src="images/icon_readmore.png" border="0"></a><br><br></td></tr><tr><td><a href="http://www.myfatpocket.com/her-gadgets/gadget-news/sony-psp-gets-fashion-forward.html#comment-719">Sony PSP Gets Fashion Forward</a><br><span class="small" style="overflow: hidden;">Ya, jill stuart is a makeup brand.</span><a href="http://www.myfatpocket.com/her-gadgets/gadget-news/sony-psp-gets-fashion-forward.html#comment-719"><img src="images/icon_readmore.png" border="0"></a><br><br></td></tr><tr><td><a href="http://www.myfatpocket.com/gossips/gossips/adam-lambert-makes-out-with-fans.html#comment-718">Adam Lambert Makes Out with Fans!</a><br><span class="small" style="overflow: hidden;">Making out <img border="0" src="http://www.myfatpocket.com/components/com_jomcomment/smilies/kiss.gif"></span><a href="http://www.myfatpocket.com/gossips/gossips/adam-lambert-makes-out-with-fans.html#comment-718"><img src="images/icon_readmore.png" border="0"></a><br><br></td></tr></tbody></table>
+<tbody><tr><td><a href="http://www.myfatpocket.com/beauty/good-looks/perfect-colour-duo.html#comment-2063">Perfect Colour Duo</a><br><span class="small" style="overflow: hidden;">lovin the ash!
+</span><a href="http://www.myfatpocket.com/beauty/good-looks/perfect-colour-duo.html#comment-2063"><img src="images/icon_readmore.png" border="0"></a><br><br></td></tr><tr><td><a href="http://www.myfatpocket.com/beauty/beauty-news/too-cute-to-be-true.html#comment-2062">Too Cute To Be True</a><br><span class="small" style="overflow: hidden;">i love the nail colour!!! Funky!!!!! <img border="0" src="http://www.myfatpocket.com/components/com_jomcomment/smilies/cheesy.gif"></span><a href="http://www.myfatpocket.com/beauty/beauty-news/too-cute-to-be-true.html#comment-2062"><img src="images/icon_readmore.png" border="0"></a><br><br></td></tr><tr><td><a href="http://www.myfatpocket.com/beauty/good-looks/perfect-colour-duo.html#comment-2061">Perfect Colour Duo</a><br><span class="small" style="overflow: hidden;">I'm so tempted to try many colors!</span><a href="http://www.myfatpocket.com/beauty/good-looks/perfect-colour-duo.html#comment-2061"><img src="images/icon_readmore.png" border="0"></a><br><br></td></tr><tr><td><a href="http://www.myfatpocket.com/beauty/beauty-news/too-cute-to-be-true.html#comment-2060">Too Cute To Be True</a><br><span class="small" style="overflow: hidden;">Also want Playing Koi lipstick! <img border="0" src="http://www.myfatpocket.com/components/com_jomcomment/smilies/wink.gif" alt="wink"></span><a href="http://www.myfatpocket.com/beauty/beauty-news/too-cute-to-be-true.html#comment-2060"><img src="images/icon_readmore.png" border="0"></a><br><br></td></tr></tbody></table>
 
 							</div>
                         </div>
@@ -1050,22 +701,47 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                     <div id="tabs-3" class="table">
                         <div style="padding: 5px">
                             <div class="comments">
-                            <p><img style="float: left; margin: 7px;" mce_style="float: left; margin: 7px;" src="http://www.orchardcentral.com.sg/admin/viewpic.php?filename=../userfiles/Image/Lip1.jpg&amp;width=640&amp;height=456" mce_src="http://www.orchardcentral.com.sg/admin/viewpic.php?filename=../userfiles/Image/Lip1.jpg&amp;width=640&amp;height=456" width="100" height="71">Orchard Central, Singapore, is on the look out for the sexiest lips! Stand to win $2,500 worth of  beauty and wellness vouchers. Additional $500 worth of vouchers for  spending of $50* and above. Supporters of the winner stand to win a  prize too!</p><p>Announcing the winner at the Kiss Me! Party on 29 August 2010, 3 to 5pm.</p>
-<p><b>Qualifying period: 2 to 28 August 2010.</b></p>
-<p><b>Last vote on 28 August 2010 at 7pm.</b><br> <br></p><p><input id="gwProxy" type="hidden"><!--Session data--><input onclick="if(typeof(jsCall)=='function'){jsCall();}else{setTimeout('jsCall()',500);}" id="jsProxy" type="hidden"></p><div id="refHTML"></div><p><input id="gwProxy" type="hidden"><!--Session data--><input onclick="if(typeof(jsCall)=='function'){jsCall();}else{setTimeout('jsCall()',500);}" id="jsProxy" type="hidden"></p><div id="refHTML"></div><p><input id="gwProxy" type="hidden"><!--Session data--><input onclick="if(typeof(jsCall)=='function'){jsCall();}else{setTimeout('jsCall()',500);}" id="jsProxy" type="hidden"></p><div id="refHTML"></div><p><input id="gwProxy" type="hidden"><!--Session data--><input onclick="if(typeof(jsCall)=='function'){jsCall();}else{setTimeout('jsCall()',500);}" id="jsProxy" type="hidden"></p><div id="refHTML"></div>
+                            <p style="text-align: center;" mce_style="text-align: center;"><a mce_href="gossips/gossips/natalie-portman-new-pusuit.html" href="gossips/gossips/natalie-portman-new-pusuit.html"><img src="images/stories/event/laop.jpg" mce_src="images/stories/event/laop.jpg" height="235" width="235"></a><br mce_bogus="1"></p>
 							</div>
                         </div>
                     </div>             
                 </div>
+				
+				                <div class="bannergroup bannerBig">
 
-                <!--<div class="bannergroup bannerSmall">-->
-<div class="bannergroup">
+<div class="banneritem bannerBig"><!--JavaScript Tag // Tag for network 559: Asia Digital Holdings // Website: SG_MyFatPocket // Page: Homepage // Placement: Homepage BOTTOM 300 x 250 (3053779) // created at: Jan 17, 2011 3:04:13 AM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|559|3053779|0|170|ADTECH;cookie=info;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|559|3053779|0|170|ADTECH;cookie=info;loc=100;target=_blank;grp=253;misc=1580470555262"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|559|3053779|0|170|ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|559|3053779|0|170|ADTECH;cookie=info;loc=300" border="0" width="300" height="250"></a></noscript>
+<!-- End of JavaScript Tag --><div class="clr"></div>
+	</div>
+<div class="banneritem bannerBig"><!--JavaScript Tag // Tag for network 559: Asia Digital Holdings // Website: SG_MyFatPocket // Page: Homepage // Placement: Homepage TOP 300 x 250 (2817633) // created at: Jan 17, 2011 3:04:13 AM-->
+<script language="javascript">
+<!--
+if (window.adgroupid == undefined) {
+	window.adgroupid = Math.round(Math.random() * 1000);
+}
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|559|2817633|0|170|ADTECH;cookie=info;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|559|2817633|0|170|ADTECH;cookie=info;loc=100;target=_blank;grp=253;misc=1580470555263"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|559|2817633|0|170|ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|559|2817633|0|170|ADTECH;cookie=info;loc=300" border="0" width="300" height="250"></a></noscript>
+<!-- End of JavaScript Tag --><div class="clr"></div>
+	</div>
 
-<div class="banneritem bannerSmall"><img src="http://img191.imageshack.us/img191/6923/shua.jpg"><div class="clr"></div>
-	</div>
-<div class="banneritem bannerSmall"><img src="http://img155.imageshack.us/img155/3376/pullin.jpg"><div class="clr"></div>
-	</div>
-<div class="banneritem bannerSmall"><img src="http://img375.imageshack.us/img375/402/sunsilk.jpg"><div class="clr"></div>
+</div>
+				
+				
+<!--div style="margin-bottom:25px;"--><!--JavaScript Tag // Tag for network 559: Asia Digital Holdings // Website: SG_MyFatPocket // Page: ROS // Placement: ROS-default-300 x 250 (2817635) // created at: Aug 5, 2010 4:40:43 AM-->
+<!--/div-->
+
+
+                <div class="bannergroup bannerSmall">
+
+<div class="banneritem bannerSmall"><a href="http://www.velvut.com/?page_id=86&amp;shopp_category=1" target="_blank"><img src="http://www.myfatpocket.com/banner/kent.jpg"></a><div class="clr"></div>
 	</div>
 
 </div>
@@ -1092,8 +768,8 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                 -->
             </div>
             <div id="footer">
-                <ul class="footertext"><li><a href="/static-content/about-us/about-mfp.html" mce_href="static-content/about-us/about-mfp.html" target="_self">about mfp</a><br mce_bogus="1"></li>                     <li><a href="/static-content/contact-us/contact-us.html" mce_href="static-content/contact-us/contact-us.html" target="_self">contact us</a><br mce_bogus="1"></li>                     <li><a href="/static-content/advertise-with-us/advertise-with-us.html" mce_href="static-content/advertise-with-us/advertise-with-us.html" target="_self">advertise with us</a><br mce_bogus="1"></li>                     <li><a href="/static-content/partners-sponsors/partners-sponsors.html" mce_href="static-content/partners-sponsors/partners-sponsors.html" target="_self">partners &amp; sponsors</a><br mce_bogus="1"></li>                     <li><a href="/static-content/we-are-hiring/we-are-hiring.html" mce_href="static-content/we-are-hiring/we-are-hiring.html" target="_self">we are hiring</a><br mce_bogus="1"></li>                     <li><a href="/static-content/privacy-policy/privacy-policy.html" mce_href="static-content/privacy-policy/privacy-policy.html" target="_self">privacy policy</a><br mce_bogus="1"></li>                     
-  <li><a href="/static-content/terms-condition/terms-of-use.html" mce_href="static-content/terms-condition/terms-of-use.html" target="_self">terms of use</a><br mce_bogus="1"></li>                 
+                <ul class="footertext"><li><a href="/static-content/about-us/about-mfp.html?phpMyAdmin=Y-02CWOZ3w91n24SeJu62b0W-Le" mce_href="static-content/about-us/about-mfp.html" target="_self">about mfp</a><br mce_bogus="1"></li>                     <li><a href="/static-content/contact-us/contact-us.html?phpMyAdmin=Y-02CWOZ3w91n24SeJu62b0W-Le" mce_href="static-content/contact-us/contact-us.html" target="_self">contact us</a><br mce_bogus="1"></li>                     <li><a href="/static-content/advertise-with-us/advertise-with-us.html?phpMyAdmin=Y-02CWOZ3w91n24SeJu62b0W-Le" mce_href="static-content/advertise-with-us/advertise-with-us.html" target="_self">advertise with us</a><br mce_bogus="1"></li>                     <li><a href="/static-content/partners-sponsors/partners-sponsors.html?phpMyAdmin=Y-02CWOZ3w91n24SeJu62b0W-Le" mce_href="static-content/partners-sponsors/partners-sponsors.html" target="_self">partners &amp; sponsors</a><br mce_bogus="1"></li>                     <li><a href="/static-content/we-are-hiring/we-are-hiring.html?phpMyAdmin=Y-02CWOZ3w91n24SeJu62b0W-Le" mce_href="static-content/we-are-hiring/we-are-hiring.html" target="_self">we are hiring</a><br mce_bogus="1"></li>                     <li><a href="/static-content/privacy-policy/privacy-policy.html?phpMyAdmin=Y-02CWOZ3w91n24SeJu62b0W-Le" mce_href="static-content/privacy-policy/privacy-policy.html" target="_self">privacy policy</a><br mce_bogus="1"></li>                     
+  <li><a href="/static-content/terms-condition/terms-of-use.html?phpMyAdmin=Y-02CWOZ3w91n24SeJu62b0W-Le" mce_href="static-content/terms-condition/terms-of-use.html" target="_self">terms of use</a><br mce_bogus="1"></li>                 
 </ul>
                 <p>Copyright © 2010 www.myfatpocket.com. All rights reserved.</p>
             </div>
@@ -1102,47 +778,6 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
     </div>
 
 
-<script type="text/javascript">
-    gigya.services.socialize.isLoggedIn(conf,{callback:printResponse2, context:0});
-</script>
-
-<div id="dialog" title="Already have a MyFatPocket account?">
-    <!--<h3>Do you already have an account at myfatpocket.com?</h3><br />-->
-    <div style="height: 60px;float:left;overflow:hidden">
-        <span id="gigya_connected_user_pic" style="float: left; height: 55px;"></span>
-        Hi<span id="gigya_connected_user_name"></span>, do you already have an account at myfatpocket.com?
-    </div>
-    Link both accounts now. <br>
-	<form>
-    <input type="hidden" id="gigya_id" name="gigya_id" value="">
-    <table border="0" align="center">
-        <tbody><tr>
-            <td align="right">Username:</td>
-            <td><input type="text" id="gigya_site_username" name="gigya_site_username"></td>
-        </tr>
-        <tr>
-            <td align="right">Password:</td>
-            <td><input type="password" id="gigya_site_password" name="gigya_site_password"></td>
-        </tr>
-        <tr>
-            <td colspan="2"><input type="button" id="gigya_link_account" value="Link Accounts"></td>
-        </tr>
-    </tbody></table>
-    </form><br><br>
-    <!--I wish to create a MyFatPocket account now.-->
-    Fill in your details to enjoy our weekly treats<br>
-    <input type="hidden" name="g_username" id="g_username" value="">
-    <input type="hidden" name="g_name" id="g_name" value="">
-    <input type="hidden" name="g_email" id="g_email" value="">
-    <input type="hidden" name="g_gender" id="g_gender" value="">
-    <input type="hidden" name="g_date" id="g_date" value="">
-    <input type="hidden" name="g_month" id="g_month" value="">
-    <input type="hidden" name="g_year" id="g_year" value="">
-    <input type="button" id="gigya_register" value="Proceed" onclick="window.location='index.php?option=com_signup&amp;task=register&amp;g_username=' + $('#g_username').val() + '&amp;g_name=' + $('#g_name').val() + '&amp;g_email=' + $('#g_email').val() + '&amp;g_gender=' + $('#g_gender').val() + '&amp;g_date=' + $('#g_date').val() + '&amp;g_month=' + $('#g_month').val() + '&amp;g_year=' + $('#g_year').val()">
-    <script type="text/javascript">
-        gigya.services.socialize.getUserInfo(conf, {callback:response_user_info, context:0});
-    </script>
-</div>
 
 
 </body></html>
