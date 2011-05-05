@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportchek.ca privacy policy that was archived on 2010-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100303151003id_/http%3A//www.sportchek.ca/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportchek.ca privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505060326id_/http%3A//www.sportchek.ca/helpdesk/index.jsp%3Bjsessionid%3DRJQJN6nQgctD82HZV6Rcv3nNpyw4M5X9q8vhcMTCh3Rk4rhgV2MC%21811824672%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # Sport Chek - Help Desk - Privacy Policy
 
@@ -45,7 +45,11 @@ Shop by Appointment: at SportChek.ca we strive to make your shopping experience 
 
 Promotions: you may register to receive information about our special promotions without becoming a SportChek.ca member. You will be asked to enter your email address.
 
+Team Registration: when you register your team with Team Assist you will be asked for certain personal information in order for us to complete the registration, set up your team profile, track your team's purchases, update you and your team about the Team Assist program, and provide you with status updates.
+
 Categories of information collected online may include name, billing and shipping address, email address, phone numbers, credit card information, gift card information, demographic information, your photo or video, stories or personal reviews or experiences that you share.
+
+Categories of information collected for the Team Assist program may include team name, team's sport and level, team's demographic information, team contact's name, team contact's position with team, and team contact's mailing address, phone numbers and email address.
 
 ## 2\. How Do We Use The Information That We Collect?
 
@@ -69,7 +73,7 @@ Other: for any other purpose for which you consent.
 
 We will not retain your personal information any longer than is required to fulfill the business purpose for which you provided the information or as required by law. Further, only those employees or third parties who require your personal information in the performance of their duties will have access to your personal information. 
 
-Your information will be processed and stored in the GSI servers located in Virginia and New Jersey. Certain information will also be held at the head office of Sport-Chek International 2000 Ltd. located at 824, 41st Avenue NE, Calgary, Alberta. Finally, information used by the third party who will conduct promotions and campaigns will be stored in Waltham, MA and Dallas, TX. Where personal information is stored or processed outside of Canada, it is subject to the laws of that foreign jurisdiction and may be accessible to that jurisdiction's governments, courts, law enforcement and regulatory agencies.
+Your information will be processed and stored in the GSI servers located in Virginia and New Jersey. Certain information will also be held at the head office of Sport-Chek International 2000 Ltd. located at 824, 41st Avenue NE, Calgary, Alberta. Information used by the third party who will conduct email promotions and campaigns will be stored in Waltham, MA and Dallas, TX. Information used by the third parties who will administer the Team Assist program will be stored in Toronto, ON and Montreal, QC. Where personal information is stored or processed outside of Canada, it is subject to the laws of that foreign jurisdiction and may be accessible to that jurisdiction's governments, courts, law enforcement and regulatory agencies.
 
 ## 3\. How Will We Share The Information That We Collect?
 
