@@ -1,46 +1,61 @@
-> *The following text is extracted and transformed from the ekkotv.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128011712id_/http%3A//www.ekko.tv/ekko_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekkotv.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505215932id_/http%3A//ekkotv.com/%3Fpage_id%3D42) for the most accurate reproduction.*
 
-# Privacy Policy | ekko - Every voice has a face
+# Privacy Policy | Jawad's Internet Marketing Blog
 
-Privacy Policy for ekko, Inc.  
-Effective Date: October, 2008
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
 
-ekko, Inc. ("ekko," "we," "us," or “our”) respects and understands its website users' concerns about confidentiality and privacy. As such, we have developed this Privacy Policy to disclose our privacy practices and describe the information we collect about you and how we might use this information. We suggest that you refer to this Privacy Policy on a regular basis as it may change at any time in our sole discretion, for business purposes or technological or legal reasons. By using the application service on this website (the “Service”), you accept the practices that are described in this Privacy Policy as part of the Terms of Use governing the Service.
+When accessing our Website, will learn certain information about you during your visit.
 
-INFORMATION WE MAY COLLECT  
-We collect information in different areas of our Service. The nature of the information we collect depends on the areas of our Service that you use. For example, we require that you provide us with [your name, address, email address and telephone number.] If you do not wish to provide us with this or any other requested information, you will not be permitted to use the Services. Additionally, the Service may allow you to voluntarily disclose additional information to us through a survey or in an email.
+Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
 
-In the course of using our Service, we may automatically track certain information about you. This information may include the URL that you came from (whether this URL is on our website or not), which URL you go to next (whether this URL is on our website or not), what browser you are using, and your Internet Protocol (IP) address. Many sites automatically collect this information.
+  
+**What Are Cookies?**
 
-We may also decide to use cookies on certain pages of our Service. Cookies can help us provide information which is targeted to your unique interests. Importantly, cookies are stored on your hard drive, not on our site. Moreover, most cookies are "session cookies," meaning they are automatically deleted at the end of a web-browsing session. [Discuss.]
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-OUR USE OF YOUR INFORMATION  
-We use personally identifiable information internally to improve our goods and services, to statistically analyze usage of our Service, to improve and customize our content, and for other general customer service purposes. We believe these uses allow us to improve our Service and better tailor it to meet your needs. We may disclose your personally identifiable information to third parties solely for purposed of providing service to us. We may also disclose or use personally identifiable information to investigate or respond to any violations of our Terms of Use or any state or federal law as discussed below.
+  
+**IP Addresses**
 
-We do not disclose, sell, lend or rent personally identifiable information about you to any third-parties outside of ekko or one of our related entities unless it is reasonably necessary in order to provide you with information, goods or services that you have requested.
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
 
-We may also use personally identifiable information to deliver information that, in some cases, is targeted to your needs and interests, such as promotional e-mails, targeted banners and promotions. If you supply us with your e-mail or mailing address, you may receive occasional mail or email from us or a service provider on our behalf announcing services, product information, promotional events or updates to our Service. If you do not wish to receive such mailings, please send an e-mail to [support@ekko.im](mailto:support@ekko.im) with the word "Remove" in the subject line.
+  
+**Email Information**
 
-In the event our company is ever sold or reorganized, we reserve the right to transfer ownership of our e-mail list and other personally identifiable information to the acquiring company or other successor.
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
 
-We can (and you authorize us to) disclose any information about you as required by law, including voluntary disclosures to law enforcement agencies and government officials, as we, in our sole discretion, believe necessary or appropriate.
+  
+**How Do We Use the Information That You Provide to Us?**
 
-We may also disclose or use personally identifiable information to investigate and respond to any customer complaints or violations of our Terms of Use.
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
 
-Unfortunately, we cannot ensure that information will never be disclosed in ways other than as described in this Privacy Policy, including, without limitation, as the result of third-parties unlawfully intercepting or accessing files, transmissions or private communications. Therefore, although we use industry standard practices to protect personally identifiable information, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. 
+will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-THIRD-PARTY COLLECTORS OF INFORMATION  
-Our Privacy Policy only addresses the use and disclosure of information we collect from you. If your information is disclosed by you to third parties, different rules may apply to their use or disclosure of your information. Such third-parties adhere to their own privacy customs and policies. Therefore, we do not make any representations or warranties as to how such third-parties may use your information. 
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-NOTIFICATION OF MATERIAL CHANGES TO THIS POLICY  
-This Section identifies material changes to this Policy since the Effective Date. 
+**  
+A Special Note About Children**
 
-(None at present)
+Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
 
-CONTACTING EKKO  
-If you have any questions about this Privacy Policy, you can email us at [info@ekko.tv](mailto:info@ekko.tv), or you can write to us at:
+  
+**How Do We Protect Your Information and Secure Information Transmissions?**
 
-500 Office Center Dr, Fort Washington, PA 19034
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
 
-PERSONAL INFORMATION FROM CHILDREN  
-ekko is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request personally identifiable information online from anyone under the age of 13 without prior verifiable parental consent. Our Service is a general audience website and is not targeted to or intended for use by children under the age of 13.
+may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+For site security purposes and to ensure that this service remains available to all users, uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+  
+**Policy Changes**
+
+We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+**  
+Contact**
+
+If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
+
+jawadrafique@hotmail.com
