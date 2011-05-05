@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612163516id_/http%3A//www.xtend-life.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506010851id_/http%3A//www.xtend-life.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Our Privacy Statement and committment to you
 
@@ -21,6 +21,10 @@ When you register for our newsletter we require only your first name and email a
 ### Order Forms
 
 Our site uses secure encrypted forms for customers to place their product orders. Through these secure forms we collect contact information, shipping details and credit card info.
+
+### PayPal
+
+When using PayPal we do not store PayPal credentials. However customers who wish to pay for their orders using PayPal are still required to enter their delivery address and contact information in order for us to process the purchase.
 
 ### Security
 
