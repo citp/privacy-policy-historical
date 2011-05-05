@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinksgenius.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102152805id_/http%3A//www.backlinksgenius.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinksgenius.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505075959id_/http%3A//www.backlinksgenius.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | BackLinks Genius
 
