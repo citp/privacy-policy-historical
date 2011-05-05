@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycouponteacher.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104213900id_/http%3A//www.mycouponteacher.com/disclosure-privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycouponteacher.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505225207id_/http%3A//www.mycouponteacher.com/disclosure-privacy-policies) for the most accurate reproduction.*
 
 # Disclosure and Privacy Policies
 
