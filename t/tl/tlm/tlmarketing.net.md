@@ -1,40 +1,26 @@
-> *The following text is extracted and transformed from the tlmarketing.net privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218105708id_/http%3A//www.tlmarketing.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tlmarketing.net privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505143235id_/http%3A//www.tlmarketing.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy  **
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-**                           **TLMarketing.net                             
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-According to the new FTC guidelines we are informing you that TLMarketing.net is an independent third party content publisher, which may on occasion receive some form of compensation for content published, be it in the way of free product samples, money, and, or other form of compensation. As an independent third party content publisher, every effort is made to ensure that the information on this blog remains as impartial and as accurate as possible. 
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-All content and information shown or talked about on this site is for informational and entertainment purposes only. TLMarketing.net makes no representations as to accuracy, completeness, currentness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use. All information is provided on an as-is basis. 
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, TLMarketing.net has no access or control over these cookies that may be used by third party advertisers. 
 
-What information do we collect?   
-We collect information from you when you subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. 
+**Collection of Personal Information**  
+When visiting TLMarketing.net, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
 
-What do we use your information for?   
-Any of the information we collect from you may be used in one of the following ways: 
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion. 
 
-• To send periodic emails Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+If you have any questions regarding the privacy policy of TLMarketing.net then you may contact us at support[a]tlmarketing.net 
 
-Do we use cookies? Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
-
-Do we disclose any information to outside parties?   
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. Third party links Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
-
-California Online Privacy Protection Act Compliance   
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
-
-Childrens Online Privacy Protection Act Compliance   
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
-
-Your Consent   
-By using our site, you consent to our online privacy policy. 
-
-Changes to our Privacy Policy   
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
-
-This policy was last modified on June 11, 2010. 
+Last updated Thu, 06 Jan 2011 01:34
