@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the supercuts.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231000250id_/http%3A//www.supercuts.com/PrivacyPolicy/default.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the supercuts.com privacy policy that was archived on 2011-05-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110505183726id_/http%3A//www.supercuts.com/PrivacyPolicy/default.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,15 +11,13 @@
 <link rel="Stylesheet" href="../stellent/fragments/sct_shared_v2/library/css/component-style.css" type="text/css">
 <link rel="Stylesheet" href="../stellent/fragments/sct_shared_v2/library/css/locator.css" type="text/css">
 <link rel="Stylesheet" href="../stellent/fragments/sct_shared_v2/library/css/superfish.css" type="text/css">
-
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="../stellent/fragments/all_shared/library/js/common.js"></script>
-<script type="text/javascript" src="../stellent/fragments/all_shared/library/js/cookie.js"></script>
+<script type="text/javascript" src="../stellent/fragments/all_shared/library/js/cookie_v2.js"></script>
 
 <script type="text/javascript" src="../stellent/fragments/all_shared/library/js/jquery.js"></script>
 
 <script type="text/javascript" src="../stellent/fragments/all_shared/library/js/superfish.js"></script>
 <script type="text/javascript" src="../stellent/fragments/all_shared/library/js/jquery.corner.js"></script>
-<script type="text/javascript" src="../stellent/fragments/en_locatorui/brandsites_locator.js"></script>  
 <!--[if lte IE 6]>
         <style type="text/css">
             @import "/stellent/fragments/sct_shared_v2/library/css/ie6.css";
@@ -41,7 +39,6 @@
         </style>
 <![endif]-->
 <script language="javascript" type="text/javascript">
-			
 	$(document).ready(function() { 
         $('ul.sf-menu').superfish(); 
     }); 
@@ -57,12 +54,14 @@
     });
 </script>
 
-<!-- SS_END_SNIPPET(fragment1,1)--><!-- SS_BEGIN_SNIPPET(fragment2,Javascript)--><script type="text/javascript" src="../stellent/fragments/en_locatorui/brandsites_locator.js"></script>  
-<!-- SS_END_SNIPPET(fragment2,Javascript)-->
+<!-- SS_END_SNIPPET(fragment1,1)-->
  
 
 <script type="text/javascript">try{ var _gaq = _gaq || [];   _gaq.push(['_setAccount', 'UA-2457507-1']);   _gaq.push(['_trackPageview']);    (function() {     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);   })();} catch(err) {}  </script> 
-</head>
+<!-- SS_BEGIN_SNIPPET(fragment2,Head)--><script type="text/javascript" src="../stellent/fragments/en_locatorui/brandsites_search_form.js"></script>
+
+
+<!-- SS_END_SNIPPET(fragment2,Head)--></head>
 
 <body>
 <div id="mainContainer">
@@ -72,27 +71,34 @@
 		</div>
 		<div id="componentLocator">
 			<!-- SS_BEGIN_SNIPPET(fragment2,ASP)-->
-			
-    <form id="frmSearch" method="post" action="" onsubmit="return false">
-        <input id="searchAddress" name="searchAddress" type="hidden" value="">
-        <input id="searchRadius" name="searchRadius" type="hidden" value="">
-        <input id="hdnSelectedSalons" name="hdnSelectedSalons" type="hidden" value="">
-        <input id="hdnAddSalons" name="hdnAddSalons" type="hidden" value="">
-
-         <div class="loc_search">
-                <div id="loc_findText"><h3>Find a Supercuts near:</h3></div>
-                <div id="loc_example"><p class="message">e.g. "Elm &amp; Main Street, City" or city, state, zip</p></div>
-                <div id="loc_fields"><p><input id="txtSearch" name="txtSearch" class="loc_searchinput" tabindex="32" onkeypress="return submitViaEnter(event, '0', '0', '')" maxlength="50" type="text" value="">
-                    <select id="selRadius" class="loc_searchinput" name="selRadius" tabindex="33">
-                    <option value="">Radius</option>
-                    <option value="5">5 Miles</option><option value="10">10 Miles</option><option value="25">25 Miles</option><option value="50">50 Miles</option>
-                    </select>
-                    <input id="btnSearch" name="btnSearch" value="Search" tabindex="34" title="Search for salons" class="loc_searchinput" type="image" src="/stellent/groups/images/@images/@supercuts/documents/images/sct_search_btn.gif" onclick="javascript:SearchAddress('0', '0', '')">
-                    
-                </p></div>
+<script language="javascript" type="text/javascript">
+    GoogleRegion = "";
+    m_hideEntryFields = "false";
+</script>
+<form id="frmSearch" method="post" action="" onsubmit="return false">
+    <div id="locatorLbl" class="labelNoError">
+        
+    </div>
+    <div id="searchForm">
+        
+        <div id="searchFind">
+            Find a Supercuts Near:
         </div>
-    </form>
-			<!-- SS_END_SNIPPET(fragment2,ASP)-->
+        <div id="searchExample">
+            e.g. "Elm &amp; Main Street, City" or city, state, zip
+        </div>
+        <div id="searchEntryField"><input id="searchAddress" name="searchAddress" tabindex="1" onkeypress="return submitViaEnter(event, '5', '')" maxlength="50" type="text" value=""></div>
+        <div id="searchRadiusField"><select id="searchRadius" name="searchRadius" tabindex="2">
+        <option value="">Radius</option>
+        <option value="5" "="">5 Miles</option><option value="10" "="">10 Miles</option><option value="25" "="">25 Miles</option><option value="50" "="">50 Miles</option>
+        </select></div>
+        
+        <div id="searchSubmitButton"><input id="btnSearch" name="btnSearch" value="Search" tabindex="3" title="Search for salons" class="loc_searchinput" type="image" src="/stellent/groups/images/@images/@supercuts/documents/images/sct_search_btn.gif" onclick="javascript:SearchAddress('5', '')"></div>
+        <input id="searchLat" name="searchLat" type="hidden" value="">
+        <input id="searchLon" name="searchLon" type="hidden" value="">
+
+    </div>
+</form><!-- SS_END_SNIPPET(fragment2,ASP)-->
     	</div>
 	</div>
     <div id="topNav">
@@ -172,7 +178,7 @@
             
         </div>
         <div id="pageCopyWide" class="smallPadding">
-        	<p><span class="font7">The Information We Collect</span></p><p><br>The information we collect when you visit our website depends on what you do when you visit. If you read or download information, we collect and store only the following: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account); the date and time; and the Internet address of the Web site from which you linked directly to our site (if applicable). We use this information to measure the number of visitors to the different sections of our site and to help us make our site more useful. We may share such user information with partners, advertisers and others but only in aggregate form, not in a manner that would allow personal identification of a specific user. If you visit our site and make requests, register to receive materials, apply for employment, or participate in our reminder services, the types of personal information collected are the following: your name, your address, your e-mail address, your phone number and any other information you submit. If you participate in an online survey or questionnaire, any information you provide will also be maintained.</p><p><br><span class="font7">How We Use Information</span><br>From time to time, we may send offers and/or information from our salons to addresses provided. We only share personally identifiable information provided by you with third parties outside of Regis Corp. with your permission. By opting to a Regis Corp. mailing list, we assume that you have given permission for Regis Corp. to share this information with third parties. We always provide you an opportunity to opt-out of our mailing lists, prohibiting any further sharing of your information (except when we believe the law requires us to disclose it or when the disclosure is necessary to protect the rights or property of Regis Corp.).</p><p><br><span class="font7">How to Opt Out</span><br>If you choose to opt-out of our mailing list, please click on the link below to remove your name from the list. Enter your e-mail address and click 'remove' and you will be taken off the mailing list. Please state your name, address and phone number for identification purposes. Remove me from the mailing list</p><p><br><span class="font7">Contact Us</span><br>Should you have other questions or concerns about this privacy policy, please send us an e-mail at <a href="mailto:SCPRIVACYPOLICY@SUPERCUTS.COM">SCPRIVACYPOLICY@SUPERCUTS.COM</a>.</p><p><br><span class="font7">Children's Privacy (COPPA)</span><br>To sign up for a mailing list or reminder service you must be 13 or older. Parents, if you suspect that your child has signed-up for a service, you have the right to terminate this service for your child. To request that your child be removed from our mailing list, please send a request via email to <a href="mailto:SCPRIVACYPOLICY@SUPERCUTS.COM">SCPRIVACYPOLICY@SUPERCUTS.COM</a>.</p><p><br><span class="font7">Mobile Privacy Policy<br></span>You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can remove yourself from the program by either texting "STOP" to 44218; or contacting Customer Service by email at <a href="mailto:DEPARTMENTCS@REGISCORP.COM">DEPARTMENTCS@REGISCORP.COM</a> or by phone at 1.888.456.2887.**</p><p><br>**You will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from Supercuts during this time.<br>Supercuts respects your privacy and will never sell or share your mobile number. Supercuts and its third party marketing partner administering this program on Supercuts' behalf will only use your mobile number in conjunction with this mobile alerts program.<br>&nbsp;</p>
+        	<p><span class="font7">The Information We Collect</span></p><p><br>The information we collect when you visit our website depends on what you do when you visit. If you read or download information, we collect and store only the following: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account); the date and time; and the Internet address of the Web site from which you linked directly to our site (if applicable). We use this information to measure the number of visitors to the different sections of our site and to help us make our site more useful. We may share such user information with partners, advertisers and others but only in aggregate form, not in a manner that would allow personal identification of a specific user. If you visit our site and make requests, register to receive materials, apply for employment, or participate in our reminder services, the types of personal information collected are the following: your name, your address, your e-mail address, your phone number and any other information you submit. If you participate in an online survey or questionnaire, any information you provide will also be maintained.</p><p><br><span class="font7">How We Use Information</span><br>From time to time, we may send offers and/or information from our salons to addresses provided. We only share personally identifiable information provided by you with third parties outside of Regis Corp. with your permission. By opting to a Regis Corp. mailing list, we assume that you have given permission for Regis Corp. to share this information with third parties. We always provide you an opportunity to opt-out of our mailing lists, prohibiting any further sharing of your information (except when we believe the law requires us to disclose it or when the disclosure is necessary to protect the rights or property of Regis Corp.).</p><p><br><span class="font7">How to Opt Out</span><br>If you choose to opt-out of our mailing list, please click on the link below to remove your name from the list. Enter your e-mail address and click 'remove' and you will be taken off the mailing list. Please state your name, address and phone number for identification purposes. Remove me from the mailing list</p><p><br><span class="font7">Contact Us</span><br>Should you have other questions or concerns about this privacy policy, please send us an e-mail at <a href="mailto:SCPRIVACYPOLICY@SUPERCUTS.COM">SCPRIVACYPOLICY@SUPERCUTS.COM</a>.</p><p><br><span class="font7">Children's Privacy (COPPA)</span><br>To sign up for a mailing list or reminder service you must be 13 or older. Parents, if you suspect that your child has signed-up for a service, you have the right to terminate this service for your child. To request that your child be removed from our mailing list, please send a request via email to <a href="mailto:SCPRIVACYPOLICY@SUPERCUTS.COM">SCPRIVACYPOLICY@SUPERCUTS.COM</a>.</p><p><br><span class="font7">Mobile Privacy Policy<br></span>You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can remove yourself from the program by either replying "STOP" to 667788; or contacting Customer Service by email at <a href="mailto:DEPARTMENTCS@REGISCORP.COM">DEPARTMENTCS@REGISCORP.COM</a> or by phone at 1.888.456.2887.**</p><p><br>**You will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from Supercuts during this time.<br>Supercuts respects your privacy and will never sell or share your mobile number. Supercuts and its third party marketing partner administering this program on Supercuts' behalf will only use your mobile number in conjunction with this mobile alerts program.<br>&nbsp;</p>
         </div>
         
     </div>
@@ -197,7 +203,7 @@
         <div id="footerLegal">
              
  
-© 2010&nbsp;Supercuts, a division of <a href="http://www.regiscorp.com" target="_blank">Regis Corporation</a>. 
+© 2011&nbsp;Supercuts, a division of <a href="http://www.regiscorp.com" target="_blank">Regis Corporation</a>. 
         </div>
     </div>
 </div>
