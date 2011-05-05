@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turntotap.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531073853id_/http%3A//www.turntotap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turntotap.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505174204id_/http%3A//turntotap.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | TurnToTap -- Conscious Consumption to Make a Difference
 
