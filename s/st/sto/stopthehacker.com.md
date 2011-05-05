@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stopthehacker.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614183543id_/http%3A//www.stopthehacker.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stopthehacker.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506002455id_/http%3A//www.stopthehacker.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – stopthehacker.com – Jaal, LLC
 
