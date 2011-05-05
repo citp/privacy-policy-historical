@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kittenspet.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101203617id_/http%3A//www.kittenspet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kittenspet.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505072939id_/http%3A//www.kittenspet.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kittens - Cats Pictures, Pet Cat And More
+# Privacy Policy | Cats Pictures, Pet Cat Kittens and More
 
 kittenspet.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -42,4 +42,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.kittenspet.com/contact/ "contact us").
