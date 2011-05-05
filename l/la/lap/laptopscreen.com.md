@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the laptopscreen.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104052438id_/http%3A//www.laptopscreen.com/English/article/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopscreen.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505145005id_/http%3A//www.laptopscreen.com/English/article/Privacy%2BPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | CHEAP LAPTOP SCREENS, LCD panels from $49.
+# Privacy Policy | LAPTOP SCREEN, LCD panels from $42.
 
-**At Vancouver Laptop Inc. we respect your privacy.**  
+**At LAPTOPSCREEN.COM we respect your privacy.**  
 • We are firm believers in our customer's right to privacy, and therefore we follow the Personal Information Protection and Electronic Documents Act regulations.
 
 **Collection Purpose:**  
