@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prospering.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206065150id_/http%3A//www.prospering.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospering.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505071855id_/http%3A//www.prospering.com/privacy.php) for the most accurate reproduction.*
 
-# Prosper, Inc. : Privacy Policy
+# Prosper : Privacy Policy
 
 Last updated April, 2007
 
