@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the trusnow.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419131952id_/http%3A//www.trusnow.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trusnow.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506031627id_/http%3A//www.trusnow.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy and Security - Customer Service - TruSnow
+# TruSnow - Returns
 
-|  | 
-
-|  | [](https://web.archive.org/category/customer+service.do) |   
----|---  
+Privacy Policy  
   
-All information obtained at TruSnow is for our internal use only. Your private information will never be sold, loaned, or given to anyone. If at anytime you would like to be removed from our e-mail list, please unsubscribe using the account link on the right side of any page.
+**Your Personal Information**  
+We collect information from you in several different ways on this Site. Our goal in collecting such personal information from you is to provide you with the best service possible. With use of such information we are able to make the website custom to your preferences, product suggestions based on your needs, and enable us to create content that is most relevant to you. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. By using our site you consent to our online privacy policy. 
 
-TruSnow ensures a very high level of security for your online purchases. We utilize 128 bit secure encryption software (SSL) in our checkout process. This software encrypts all your personal information on the internet. If you prefer to order by phone, please call us at 866.986.7669.
+**Community Registration and Ordering.**   
+Community registration requires a valid email and the creation of a personal username. Once an order has been made, your order information will be associated with said username. Your email address will be the first point of contact with you if: there is a problem with your order, you have won a contest, giveaway or sweepstakes, newsletters, promotions, etc..
 
-**Product Review Privacy Information**
+Before ordering products, you must complete an online registration form. During registration you will be prompted to provide to us certain personal information, including but not limited to your name, shipping and billing address, phone number, email address and credit card number. In addition, we may also ask you for your country of residence and/or your organization's country of operation, so we can comply with applicable laws and regulations, and for your gender. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and the Sites, and for internal marketing purposes. If we encounter a problem when processing your order, your personal information may be used to contact you.
 
-If you decide to review a product that we carry, we will send you a coupon good for $10 off your next order of $100 or more. Please keep in mind that your review will be shared with other snowboarders on our site as well as on [Buzzillions.com](http://www.buzzillions.com/4294965877_nz_snowboarding_reviews), a network site that shares reviews with the shopping community. 
+**Contests and Giveaways**  
+We promote our contests and giveaways through email newsletters and forum postings on our site. For giveaway eligibility customers must be logged into their user account. To create a user account you are required to enter an email address. Your email address will be the form of communication used to inform you if you have won a contest or giveaway.
 
-By posting a review, you agree that your first name and review will be posted on both TruSnow.com and Buzzillions.com. For more information, see Buzzillion's [Privacy Page](http://www.powerreviews.com/legal/privacy_policy_en_US.html) or call us at 866.986.7669..
+**External Links**  
+trusnow.com may contain links to external sites. trusnow.com is not responsible for the privacy practices or the content of such other sites.
+
+**Secure Transactions**  
+Information such as credit card numbers is secure and safe. You can enter your credit card number on a secure (https) form and transmit the form over the Internet to a secure server without risk of an intermediary obtaining your credit card information. The security features offered by your web browser technology protects commercial transactions, as well as all other communications, from misappropriation and fraud that could otherwise occur as information passes through the Internet. With Secure Socket Layer (SSL) implemented on both your browser and ISP server, your Internet communications are transmitted in an encrypted form. Information you send can be trusted to arrive securely and privately to the server you specify and no other. SSL uses authentication and encryption technology. For example, your browser's export implementation of SSL (U.S. government approved) uses a High-grade, 128-bit key size. The encryption established between you and a server remains valid and in place over multiple connections, yet any illegal attempts to defeat the encryption of one message cannot be leveraged to defeat the encryption of the next message. Your browser and secure servers deliver server authentication using signed digital certificates issued by trusted third parties known as certificate authorities. A digital certificate verifies the connection between a server's public key and the server's identification (just as a driver's license verifies the connection between your photograph and your personal identification. Cryptographic checks, using digital signatures, ensure that information within a certificate can be trusted. You can tell when you have a secure connection by looking at the location (URL) field. If the URL begins with https:// (instead of http://), the document comes from a secure server. You can also verify the security of a document by examining the security icon in the bottom-left corner of the browser window. Only your computer and the server can encrypt and decrypt your information. In transit, the information is meaningless and unreadable. An intermediary can continue to route the data, and even make copies of it, but the information cannot be decrypted and remains private and safely communicated.
