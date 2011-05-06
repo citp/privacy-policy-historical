@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allnextdoor.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203073042id_/http%3A//www.allnextdoor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allnextdoor.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506073459id_/http%3A//www.allnextdoor.com/privacy) for the most accurate reproduction.*
 
 # Carsed Marketing Inc. Privacy Policy
 
