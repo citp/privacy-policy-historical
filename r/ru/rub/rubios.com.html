@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rubios.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228033750id_/http%3A//www.rubios.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rubios.com privacy policy that was archived on 2011-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110506050259id_/http%3A//www.rubios.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Mexican Restaurant | Rubio's | Privacy Policy</title>
@@ -37,8 +37,32 @@
 	</div>
 
 	<div id="findrubios" style="background:none;padding-left:10px;">
-		<a href="/cards/"><img src="/images/joy-to-their-world.jpg"></a>
-			
+		<img style="position: absolute;top:1px;left:10px;" src="/images/signup.gif">
+		<!--a href="<//?=$xfac->xfa2uri("cards")?>"><img src="<//?=IMAGES_ROOT?>joy-to-their-world.jpg" /></a-->
+				<script type="text/javascript">
+			function BCSignUp() {
+				pageTracker._trackEvent('beachclub','signup');
+				var valid = validateEmail();
+				if(valid){
+					document.signup.submit();
+				}else{
+					return false;
+				}
+			}
+			function validateEmail(){
+				var reg = '^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,4}$';
+				if(document.signup.email.value.search(reg) == -1){
+					return false;
+				}
+				return true;
+			}
+			</script>
+		<form name="signup" method="get" action="/beachclub/">
+			<input style="color:#696863;position:relative;top:32px;left:10px;" name="email" id="email" value="Your email address" onfocus="this.value=''; this.style.color='#000';">
+		<div id="signup-submit" class="hmpos" onclick="BCSignUp();"></div>
+		</form>
+	
+	
 		
 	</div>
 	<div id="header_main_container">
@@ -217,9 +241,10 @@
 				<a href="/beachclub/">Beach Club</a>
 			</div>
 			<div style="padding-top:3px;">
+				<a href="/files/menu/fax-menus-no-prices-3-11.pdf">Printable Menu (PDF)</a>
 				<a href="/nutrition/calculator">Nutrition Calculator</a>
 				<a href="/nutrition/">Nutrition Information</a>
-				<a href="/nutrition/allergen">Allergen Information</a>
+				<a href="/nutrition/allergen">Allergen Information</a>				
 			</div>
 		</div>
 		<div class="footerRowRight">
@@ -243,7 +268,7 @@
 	</div>
 	<div id="footerInfo">
 		<div class="footerRowLeft">
-			<span>Copyright© 2010 Rubio's, Inc. All Rights Reserved</span>
+			<span>Copyright© 2011 Rubio's, Inc. All Rights Reserved</span>
 			<a href="/sitemap">Site Map</a> |
 			<a href="/terms">Terms of Use</a> |
 			<a href="/privacy">PRIVACY</a>
