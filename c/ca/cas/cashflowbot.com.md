@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashflowbot.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashflowbot.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506202223id_/http%3A//www.cashflowbot.com/index.php%3Fgo%3Dprivacy) for the most accurate reproduction.*
 
 # DollarMonster - Double Your Money In A Few Days
 
@@ -22,7 +22,19 @@ SITE STATS
 
 ******** | 
 
-7,778   
+8,892   
+  
+**Total In +: ******
+
+******** | 
+
+**$1,448,383.00**  
+  
+**Total Out -: ******
+
+******** | 
+
+**$978,670.00**  
   
 **Today In +: ******
 
@@ -30,29 +42,29 @@ SITE STATS
 
 **$0.00**  
   
-**Paid Out -: ******
+**Today Out -: ******
 
 ******** | 
 
-**$638,309.00**  
+****$0.00****  
   
-**This Month +: ******
+**Users On: ******
 
 ******** | 
 
-**$39,690.00**  
+11   
   
 **New Member: ******
 
 ******** | 
 
-magnat   
+aurangzaibfaraz   
   
 **Last Purchase: ******
 
 ******** | 
 
-Dec 11, 2010 10:05 PM   
+May 05, 2011 11:53 PM   
   
   
 
@@ -61,16 +73,14 @@ Dec 11, 2010 10:05 PM
 
 LATEST NEWS 
 
-**REFUND OPTION AVAILABLE**  
-You can now issue a refund yourself via our API Refund System on any shares that are moving too slow, or you want to change your strategy!
+**OSAMA BIN LADEN IS DEAD!!**  
+Source: AP - Osama Bin Laden has been killed in Pakistan by United States Assets. 
 
-Just enter your AlertPay Reference Number into the form, and your Refund is sent instantly to your account!
-
-You can find the ORDER REFUND option in the MAIN MENU of your members area!
+"Justice has been done." - US President Barack Obama
 
 * * *
 
-[All news](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php?go=news)
+[All news](https://web.archive.org/web/20110506202223id_/http%3A//www.cashflowbot.com/index.php?go=news)
 
 * * *
 
@@ -205,46 +215,45 @@ F. Contacting Us
 
 If you have any questions about this privacy statement, DollarMonster’s information practices, or your dealings with DollarMonster, you can contact us at [admin@cashflowbot.com](mailto:admin@cashflowbot.com). 
 
-SIGN UP FOR YOUR FREE ACCOUNT TODAY 
-
-|   |   | 
+[SIGN UP FOR YOUR FREE ACCOUNT TODAY](https://web.archive.org/web/20110506202223id_/http%3A//www.cashflowbot.com/index.php?go=signup) |   |   | 
 
 ACCOUNT LOGIN 
 
   
-[](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php?go=livesupport)  
+[](https://web.archive.org/web/20110506202223id_/http%3A//www.cashflowbot.com/index.php?go=livesupport)  
 
 
 * * *
 
 FORUM POSTS 
 
-**muny4me said:**  
-In Cycle means your share is in cycle. pretty obvious what it means....  
-**_Dec-11-2010 04:56 PM_**  
-**[REPLY](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php?go=forum)**  
+**$$FastMoney$$ said:**  
+congratulations megmashu on your cycle. :-)  
+**_May-06-2011_**  
+**[REPLY](https://web.archive.org/web/20110506202223id_/http%3A//www.cashflowbot.com/index.php?go=forum&page=1)**  
   
 \-------------------------  
-**dominir said:**  
-Would you please tell me what means "IN CYCLE" ???
-
-Thank you and have nice weekend
-
-  
-**_Dec-11-2010 04:37 PM_**  
-**[REPLY](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php?go=forum)**  
+**travelmate said:**  
+Nice to back again in dollars monster... waiting for my investment to cycle... have a great day...  
+**_May-06-2011_**  
+**[REPLY](https://web.archive.org/web/20110506202223id_/http%3A//www.cashflowbot.com/index.php?go=forum&page=1)**  
   
 \-------------------------  
-**weallwin said:**  
-can someone please post the latest REF# that doubled in the $50 line?  
-**_Dec-11-2010 04:15 PM_**  
-**[REPLY](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php?go=forum)**  
+**linda. lindsey said:**  
+Yay! megmashu has been cycled off the top! Congrats megmashu!  
+**_May-06-2011_**  
+**[REPLY](https://web.archive.org/web/20110506202223id_/http%3A//www.cashflowbot.com/index.php?go=forum&page=1)**  
   
 \-------------------------  
-[Read More...](https://web.archive.org/web/20101212093522id_/http%3A//www.cashflowbot.com/index.php?go=forum)   
+[Read More...](https://web.archive.org/web/20110506202223id_/http%3A//www.cashflowbot.com/index.php?go=forum&page=1)   
 
 
 * * *
 
+FREE ADVERTISING 
+
   
+[](http://websitesubmit.hypermart.net/ "Add URL to Google and Yahoo search")  
+[ ](http://www.sonicrun.com/)  
+[ ](http://freewebsubmission.com/)   
 
