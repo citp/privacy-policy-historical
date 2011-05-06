@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the listmywebsite.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122231350id_/http%3A//www.listmywebsite.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listmywebsite.net privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506203638id_/http%3A//www.listmywebsite.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy of Listmywebsite.net
+# Privacy Policy ::List My Website Directory
 
-**ListMyWebsite.Net Web Directory** do respect the privacy of individuals who use the services provided on this Site, [http://www.listmywebsite.net](http://www.listmywebsite.net/). At the same time, we may collect the user's information of IP address, Web Browser and Operating System Versions in order to know the demographic information of the users. We only collect these information with the purpose of helping us in promoting our site's performances and compatibilities for the various browser versions and operating systems. This Privacy Policy is provided here to help our users understand how we deal with the information collected from the users.
+[Home](https://web.archive.org/web/20110506203638id_/http%3A//www.listmywebsite.net/index.php) » Privacy Policy
+
+**List My Website Web Directory** do respect the privacy of individuals who use the services provided on this Site, [http://www.listmywebsite.net](http://www.listmywebsite.net/). At the same time, we may collect the user's information of IP address, Web Browser and Operating System Versions in order to know the demographic information of the users. We only collect these information with the purpose of helping us in promoting our site's performances and compatibilities for the various browser versions and operating systems. This Privacy Policy is provided here to help our users understand how we deal with the information collected from the users.
 
 We uses cookies to keep track of users activities with our site. But the only personal information a cookie can contain is information you supply yourself. A cookie can not read data off your hard disk or read cookie files created by other sites.
 
@@ -12,8 +14,22 @@ Our site's registration form requires users to provide us contact information su
 
 Our tell a friend form requires users to provide their name, e-mail address to post messages to their friends. We collect user's name, email address and ip address and send these information to the recipient together with the message. But, we won't save or store these information for any purposes.
 
-This policy may be revised over time as new features are added to the website. We will post our new privacy policy at <http://www.listmywebsite.net/privacy.asp> So that you will always know what information we gather and how we might use that information. Please check this page to know the most current version of our Privacy Policy.
+This policy may be revised over time as new features are added to the website. We will post our new privacy policy at <http://www.listmywebsite.net/privacy.php> So that you will always know what information we gather and how we might use that information. Please check this page to know the most current version of our Privacy Policy.
 
-**For questions, feedback or suggestions, please contact us at[ http://www.listmywebsite.net/contact.asp](http://www.listmywebsite.net/contact.asp).**
+**For questions, feedback or suggestions, please contact us at[ http://www.listmywebsite.net/contact.php](http://www.listmywebsite.net/contact.php).**
 
-Updated on 07.11.2007
+Updated on 07.11.2010
+
+### Advertisements
+
+[](https://web.archive.org/web/20110506203638id_/http%3A//www.listmywebsite.net/href=%22advertise.php%22 "Advertise")
+
+### Site News
+
+[](https://web.archive.org/web/20110506203638id_/http%3A//www.listmywebsite.net/news.php "Site News")
+
+  * **Existing User Password Changed** As we have moved from old server to a new server, all member account password has been reset for the security purpose. Therefore, we suggest that you get a [new password](https://web.archive.org/web/20110506203638id_/http%3A//www.listmywebsite.net/forgotpassword.php) to login to your account. Thank you.
+
+
+
+   
