@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the runaware.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822000154id_/http%3A//www.runaware.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runaware.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506055945id_/http%3A//main.runaware.com/company_privacy.aspx) for the most accurate reproduction.*
 
 # Runaware Privacy Policy
-
-Runaware Privacy Statement
 
 Runaware deems privacy a central issue of Internet use. Runaware attempts to have reasonable measures in place to assure the anonymity of visitors to the Runaware web site. Runaware feels as part of responsible disclosure that Runaware web site users are aware of what information is being logged.
 
