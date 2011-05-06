@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamordownload.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109143140id_/http%3A//www.streamordownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamordownload.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506221435id_/http%3A//www.streamordownload.com/privacy.php) for the most accurate reproduction.*
 
 # Download the Latest Software, Games, DVD Movies, Music, TV Shows and ebooks! -
 
