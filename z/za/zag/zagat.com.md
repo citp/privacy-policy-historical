@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the zagat.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204072507id_/http%3A//www.zagat.com/About/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zagat.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506172930id_/http%3A//www.zagat.com/privacy) for the most accurate reproduction.*
 
-# Zagat Survey
-
-## Privacy Policy
+# Privacy from Zagat
 
 Last Updated: August, 10 2009
-
-[](http://www.truste.com/ivalidate.php?companyName=Zagat%20Survey,%20LLC&sealid=101)
 
 This overall Privacy statement verifies, among other things, that Zagat Survey, LLC ("we" or "us" or "Zagat") on the Web is a member of the TRUSTe program and is in compliance with TRUSTe Privacy principles.
 
@@ -26,7 +22,7 @@ We always have and always will respect your privacy. Any information that you gi
 
 Zagat Survey has created this Privacy Policy to demonstrate our commitment to your privacy on ZAGAT.com and ZAGAT.mobi (the "Zagat Site(s)"). The "Zagat" name and reputation have been built on the trust of our customers, and we hope that our commitment to online privacy will inspire the same trust in you while you are visiting the Zagat Sites.
 
-We have adopted a set of information management guidelines that serve as the basis for our customer relationships. These guidelines have been developed with the recognition that Internet and mobile technologies are rapidly evolving. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. Please read this Privacy Policy to understand how your personal information will be treated as you use the Zagat Sites. Please see our [Terms of Use](https://web.archive.org/About/terms.aspx) for more information about our online policies in general.
+We have adopted a set of information management guidelines that serve as the basis for our customer relationships. These guidelines have been developed with the recognition that Internet and mobile technologies are rapidly evolving. Accordingly, guidelines are subject to change. Any such changes will be posted on this page. Please read this Privacy Policy to understand how your personal information will be treated as you use the Zagat Sites. Please see our [Terms of Use](https://web.archive.org/terms-of-use) for more information about our online policies in general.
 
 If you have questions or concerns regarding this statement, you should contact us via 'Ask a Question' in our online [Help](http://zagatsurvey.custhelp.com/cgi-bin/zagatsurvey.cfg/php/enduser/ask.php) section. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe: <http://www.truste.com/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
