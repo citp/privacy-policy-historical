@@ -1,132 +1,97 @@
-> *The following text is extracted and transformed from the k2radio.com privacy policy that was archived on 2003-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030405154347id_/http%3A//www.k2radio.com/jacor-common/tou.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k2radio.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506233247id_/http%3A//k2radio.com/privacy) for the most accurate reproduction.*
 
-# K2 Radio
+# K2 Radio - Wyoming's Radio Station - AM 1030 KTWO Radio
 
-Revised: 2.6.02 
+### About K2RADIO.COM
 
-  
-PRIVACY STATEMENT
+This Privacy Policy is an integral part of the agreement between Townsquare Media, LLC ("Townsquare" or "we" or "us") and each visitor or registered user, as the case may be (each, a "user" or "you") concerning the use of the websites, including this website, owned, controlled, operated or hosted (whether now or in the future) by Townsquare and/or its corporate affiliates, including but not limited to K2RADIO.COM (collectively the "Websites"). The other integral part of this agreement is the Townsquare Terms of Use (link here). All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be defined in the [Terms of Use](https://web.archive.org/terms). If you have any questions concerning this Privacy Policy, please email us at .
 
-This site "www.k2radio.com" is owned by Clear Channel Communications, Inc., and is part of the Clear Channel family of companies which includes other quality entertainment brands such as broadcast and Internet radio stations, television stations, Clear Channel Entertainment, and the Premiere Radio Network (collectively referred to hereinafter as "we" or "this site"). This statement informs you of Clear Channel's practices with respect to the collection, use, and disclosure of personal information. Personal information is information that allows us to contact you (such as e-mail address, home address, or telephone number) or other information that, when linked to your name or contact information, allows us to personalize your visit to our site by providing you with information that suits your interests. 
+### Information Collection and Use by the Websites
 
-Clear Channel is the owner of this website and retains all ownership rights to the information collected at this site. Clear Channel reserves the right to change, modify, add, or remove provisions of this Privacy Statement. Any changes to this Statement will be posted here, and we encourage you to check back from time to time.
+The Websites gather identifying information about individuals only when individuals provide that information on a voluntary basis pursuant to the voluntary registration process for the Websites. Such information includes, but is not limited to, name, age, gender, email address, cell phone number, personal interests, and physical address. We use this voluntary profile data to, (a) authenticate users, (b) send notifications to users relating to the Websites, (c) assist users in communicating with each other, and (d) make offers to users that we believe may be of interest to them based on their personal profile data. With the exception of email address, physical address and cell phone number, registered users' voluntary personal profile information, including pictures, are displayed to other registered users in order to facilitate user interaction. Registered users' user names are displayed to all users, although each verified user has the option of having his or her full name displayed to all users instead of his or her user name. Under no circumstances are email addresses, physical addresses and cell phone numbers directly revealed to other users or disclosed to third parties other than as set forth below in the "Sharing and Disclosure of Information" section.
 
-  
-Personalization
+We also log non-personally identifiable information about use of the Websites, including, but not limited to, IP address, profile information, pages visited, and browser type, from users of the Websites. This data is used for, among other things, to provide customized content to users, provide targeted offers to users, manage the site, track usage and improve the site services. This non-personally identifiable information may be shared with third-parties to provide more relevant services and advertisements to users. User IP addresses are recorded for security and monitoring purposes.
 
-Although you may use many features of this site without completing a registration or sign up form, visitors who do register and/or sign up for special services may have access to additional features of the site and are more likely to receive information suited to their interests. For example, a registered user is eligible for additional services provided by this website such as listener clubs and personalized content. Our registration and special services sign up forms may ask you for contact information (like name or email address) and demographic information (like zip code or age). You must provide the information in order to receive the benefits of registration or of the special service. 
+Users must provide us, at a minimum, with a valid email address in order to complete the voluntary registration process. Email addresses are used to send notifications related to the Websites and to communicate offers. Registered users may communicate with each other through the Websites without disclosing their email addresses.
 
-We may use the contact information that you give us to better tailor your website experience to your interests, and to send you information about Clear Channel and its services as well as promotional material on behalf of some of our partners. We use other information that you provide to us to show you content in which you may be interested and to display the content according to your preferences. We will also share this information within the Clear Channel family in order to enhance your experience on this and other Clear Channel websites. 
+Cell phone numbers are used to send SMS (short Message Service), text and voice message notifications related to the Websites and to communicate offers. Registered users may choose not to receive text messages from us by not providing their cell phone number to us at registration. Registered users who have provided their cell phone number to us may remove it from within their personal profile settings. Please note that standard message rates and data charges from your cellular service provider apply to sending and/or receiving text messages. You are solely responsible for such message rates and data charges.
 
-In addition, we may share this information with advertisers or other third parties that are not part of the Clear Channel family on an aggregate or other basis that does not disclose your identity or contact information. 
+We do not sell or make available any individual user information to unrelated third parties, except to third parties that are providing services to the Websites or as provided in the "Sharing and Disclosure of Information" section below. We may aggregate user information for the purpose of user analyses and inform advertisers of the results of such analyses. In all such instances, we will refer only to general, aggregate usage data from these analyses and will never provide specific identifying information. We may also aggregate user information for the purpose of making offers to users that we believe may be of interest to them.
 
-Online Surveys/Contests
+From time to time, Townsquare or a partner, may sponsor a promotion, sweepstakes or contest on the Websites. Users may be asked to provide personal information including name, email address or home address or to answer question in order to participate. We may transfer personal information to certain ad partners that you have explicitly required to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
 
-From time to time, we may conduct online surveys and contests. These ask you for contact information (like name or email address) and demographic information (like zip code or age). We may use this contact information from our surveys and contests to provide you with information about our company and promotional material on behalf of some of our partners, and to contact you when necessary. 
+Third parties can read information voluntarily posted by registered users on the Websites. That information can be used by those third parties to send you unsolicited messages. We have no control over such unsolicited messages.
 
-  
-Supplemental Information
+By using any of the Websites, you affirmatively consent to this Privacy Policy and agree to have your personal information (to the extent disclosed by you to the Websites) collected by the Websites (or its agents or contractors).
 
-To enhance Clear Channel's ability to tailor this site to your preferences, we may combine information that you provide us on registration and other online sign up forms with other information about you that we may obtain. We do not share that information with any other party.
+### User Content
 
-  
-Shopping/Commercial Services
+Any information that you disclose when participating on the Websites (including creating a profile or submitting a comment to a story, a video or in a discussion thread), such as your full name and any nickname, is likely to become public. This information may be posted on the Websites. In addition, Townsquare, its affiliates and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any user Content, and any information contained therein, in any and all media formats or channels, whether now known or thereafter devised, including, but not limited to, the Websites, other Townsquare services, over the air and on mobile platforms. Further, other users of the Websites may embed a widget or feed that allows your user Content to appear on their personal, noncommercial website or page, blog or other application, subject to conditions set forth in the Terms of Use.
 
-This Clear Channel site may offer shopping services, which may be offered by us or by a firm that operates a store under contract with us. If our site offers shopping or other commercial services, you will use a customer order form to request information, products, and services. The order form will ask you to give us contact information (like name or email address), financial information (like account or credit card numbers), and demographic information (like zip code or age).
+### Use of Cookies
 
-We will use the financial information that you provide to bill you for products and services. By giving our site your credit card and related personal information, you are authorizing our store to give that information to the merchant and credit card company in order to confirm and fulfill your order.
+The Websites uses cookies to store users' preferences, account status, traffic origination and to record session information. We do not link the information we store in cookies to any personally identifiable information you submit while on our Websites. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences. However, you must enable cookies from the specific website you wish to access in order to use most functions on such website. Third party advertisers on the Websites may have the ability to set and access their cookies on your computer. Advertisers' use of cookies are subject to their own privacy policies and are not subject to this Privacy Policy.
 
-We will use contact information from the order form to fulfill your orders. We may also use contact data to get in touch with you when necessary. We will not otherwise use or distribute your financial information without your prior approval. 
+### Alternative Tracking Devices
 
-  
-Public Forums 
+We may use other industry standard technologies like pixel tags and web beacons to track your use of our Websites and promotions, or we may allow our third party service providers to use those devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Websites, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Websites, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates or third party service providers for the same purposes.
 
-This site may make available chat rooms, forums, message boards, and news groups. Please remember that any information that you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+### Links
 
-  
-Third Parties
+The Websites contain links to other websites, applications and services maintained by third parties that may not follow the same privacy policies as the Websites. For instance, clicking on a third party logo or advertisement will take you to an entirely different site, application or service. These sites, applications and services may use cookies, collect data and use the data in ways that Townsquare would not. Townsquare is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. Our Privacy Policy only governs information collected on the Websites. Furthermore, we bear no responsibility for any offensive material or violations of law on any site linked from the Websites.
 
-From time to time we may enter into a special relationship with another company that is not owned by Clear Channel to provide additional features at this site. These special relationships may include "powered by" partners, business partners, sponsors, and co-branded sites (referred to here as "co-branded pages"). These might include, for example, pages that share our name and that of another entity, such as TicketMaster. 
+The Websites may include a tool that allows you to sign in or comment using information from your account with a third party service, such as Facebook, Twitter, Google or Yahoo. Please be aware that those third party services are unrelated to the Websites and that your use of the third party services is subject to the terms and policies of those services.
 
-You should look for a specific privacy statement on any such co-branded page. Any personal information that you provide when signing up at one of these co-branded pages may be shared with our third party partner. You should also check our partner's website for information regarding its privacy policies. 
+### Correcting/Updating Information and Terminating Registration
 
-In addition, we may share any of the information collected from you with these other non-Clear Channel companies on an aggregate basis. The aggregated information is not linked to any information that can identify you. 
+Registered users may modify any of their personal information at any time by logging into their account and accessing their personal profile. Registered users may terminate their registration at any time, for any reason, by contacting . Terminating your registration will not necessarily remove previous public comments and other user Content on public display on the Websites. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.
 
-  
-IP Address
+### Third Party Advertising
 
-We may use your IP address to help diagnose problems with our server, to administer our website, to help identify you and your shopping cart, and to gather broad demographic information for aggregate use. We do not link IP addresses to personal information.
+Ads appearing on the Websites may be delivered to users by Townsquare or one of our advertising partners. Our advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by Townsquare and does not cover the use of cookies by any advertisers.
 
-  
-Cookies
+### Agents
 
-This Clear Channel site may use a standard technology called a "cookie" to collect information about how you use the site. Cookies reside on your computer, and help our website to recognize your computer's browser as a previous visitor. This information allows us to customize delivery of information. For example, our site may use cookies to save and remember registration information or preferences that you may have set while you were browsing the site, to keep track of your shopping cart, to ensure you don't see the same ad repeatedly, to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site. We use cookies only to gather information as indicated in this policy. 
+We use a third party company to prepare and ship products ordered on our Websites. Our fulfillment company has access to your full name and shipping address to complete this transaction but does not retain, share, store or use personally identifiable information for any other purposes.
 
-In addition, on occasion our site may also set a "session cookie" which cookie helps us administer the site. A session cookie expires when you close your browser, and does not retain any information about you after it expires. 
+### Service Providers
 
-  
-Log Files
+We may use third party providers to process payments. When you checkout of our store, you will be asked to enter your first and last name, credit card information, billing and shipping address as necessary to complete your transaction. We do not store any of our users credit card information in our database.
 
-We may use IP addresses to administer the site, to analyze trends, track users' webpage movements, and gather broad demographic information for aggregate use. 
+### Opt-out
 
-  
-Banner Advertising
+Registered users may choose to no longer receive updates or notifications by managing their email and text message preferences in their personal profile settings.
 
-We license ad-server software from another company to place banner advertising on our sites. All of the data provided and generated by the ad-server software remains in our possession, and no data is transferred to the licensor of the software. This feature of our site may, on occasion, set "cookies" on your computer. Any information collected or stored by the ad-service or the cookie is treated in the same manner as other information as described in this statement. 
+### Security
 
-  
-Children's Personal Information 
+We have in place what we believe to be appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. Credit card information provided to the Websites is protected against unauthorized use by 128-bit encryption and Secure Sockets Layer (SSL) security features, which scramble your personal information so that only your browser and the Websites can decipher it. However, no internet, email or mobile transmission is ever fully secure or error free. Because most email and mobile transmissions are not encrypted, you should take special care in deciding what information you send to us via email, text message, SMS or other mobile transmission.
 
-Consistent with the Children's Online Privacy Protection Act:
+Registered user accounts are secured by user-created passwords. Townsquare uses reasonable measures to protect registered user information that is stored within our database. Please note that we cannot guarantee the security of registered user account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of registered user information at any time. We will endeavor to notify users in the event that the security of their personal information is breached or compromised. By submitting personal information on any of the Websites, you expressly consent to receiving our notification regarding any breach or compromise, or suspected breach or compromise, of the security of your personal information, by email or postal mail, as we deem appropriate, and as required by law. For any additional information about the security measures we use on the Websites, please contact us at .
 
-· This site does NOT collect, use, or disclose personal information (including online contact information) of children under the age of 13. 
+We urge you to keep your username, password and other account access information in a safe place and not to divulge it to anyone. Also, remember to sign off your account and close your browser window when you have finished your visit. This is to ensure that others cannot access your account, especially if you are sharing a computer with someone else or are using a computer in public place such as a library or an internet café.
 
-· In the event that a child under the age of 13 attempts to register on our site, we will NOT accept the registration and will delete information received from the child. 
+### Sharing and Disclosure of Information
 
-· In the event that a child posts personal information in a public forum such as a chat room, we will attempt to delete that information once we become aware of it. 
+Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (a) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by us; (b) to enforce our Terms of Use Agreement or to protect our rights; (c) to protect the safety of members of the public and users of the Websites or d) the user requests to be contacted with additional information, materials or special offers from third parties. If a registered user elects to opt-in to receive information, materials or special offers from these third parties, the user gives Townsquare permission to transfer personal information to our partners to fulfill such a request. The Websites will only share secure user information with those advertisers or category of advertisers you specifically opt-in to. Third party partners have separate privacy and data collection practices; Townsquare has no responsibility or liability for these independent policies. If you do not want your personal information shared with advertisers, please select the option to not participate in our opt-in program. Our Site also provides users the opportunity to opt-out of receiving communications from us and our advertisers at the point where we request information about the visitor. We give users the option to remove their information from our database, to not receive future communications, or to no longer receive our service, by submitting your request to . Townsquare reserves the right to transfer, disclose or sell personal information as part of a business divestiture, sale, merger, or acquisition of one or more of its Websites, Townsquare or substantially all of its assets. For more information see the "Changes in Our Privacy Policy" section below.
 
-Your Choices
+### Children's Privacy
 
-This Clear Channel site provides you the opportunity to opt-out of receiving e-mail communications from us and our special relationship partners. As explained above, if you choose not to provide us with information sought on registration or sign up forms, it is possible that you will not be able to access or use certain features of our site. If you do choose to opt-out of such e-mail communications, you may:
+Under 13: You must be at least 13 years old in order to register for email newsletters or other features of the Websites. If you are under 13 years of age, please do not send any information about yourself, including your name, address or email address. If we discover that we have collected any personally identifiable information from a child under the age of 13, we will remove that information from our database as soon as possible.
 
-· Modify your registered user information on our website; or  
-· Send an email to [Clear Channel Radio Interactive Support](mailto:webservices@clearchannel.com)  
-· Click [**HERE**](https://web.archive.org/jacor-common/global_edit_user.html)
+Ages 13-18: You must be at least 18 years old in order to submit any Content on our Websites, create a profile, participate in any online contests, or place an order on our Websites. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for email newsletters or other features of the Websites or otherwise sending any personally identifiable information.
 
-Access to Personal Information
+### International User Notice
 
-Clear Channel gives you the opportunity to modify or remove personal information that you have provided to us. You may do so by modifying your password-protected registered user information on our website. 
+For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States. For residents of the European Union: the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union. Please be assured that we take steps to ensure that your privacy is protected as described in this Privacy Policy. By using the Websites, you agree to have your information used and transferred to the United States as set forth in this policy.
 
-  
-Security of Your Personal Information
+### Changes in Our Privacy Policy
 
-Clear Channel employs reasonable security measures consistent with standard industry practice, for information collected through this website. We believe that we have adequate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of the information that we collect on our website. We also use internal protections to limit access to users' personal information to only those employees who need the information to perform a specific job.
+From time to time we may make changes to our Privacy Policy. If we make changes, we will post them on the Websites to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A user is bound by any changes to the policy when she or he uses the Websites after those changes have been posted. If, however, we intend to disclose users' personally identifiable information in a manner different from that stated at the time of collection, we will post a notice of such intent on the Websites 30 days prior to such action.
 
-  
-Sale or Merger 
+### Contacting Us
 
-If this site is sold to, or merges with, another company not owned by Clear Channel, you should expect that some or all of the information collected from this website may be transferred to the buyer/surviving company. If so, Clear Channel will seek to obligate the acquiring company to use any personal information transferred by this site in a manner consistent with this statement, but cannot guarantee that it will be able to impose that requirement or that the acquiring company will comply.
+If you have any questions about this privacy statement, the practices of the Websites, or your dealings with the Websites, please contact us at: .
 
-  
-Legal Process
+### Effective Date
 
-You should be aware that Clear Channel may be required to disclose your personal information to the government or third parties under certain circumstances, such as in court or regulatory proceedings. 
-
-  
-Links
-
-This site may contain links to other sites. We are not responsible for the privacy practices or the content of these websites. You should check the Privacy Statement of the website sponsor when linking to other sites. 
-
-  
-Contacting the Website 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact [Clear Channel Radio Interactive Support](mailto:%20webservices@clearchannel.com?subject=KTWO-AM%27s%20Privacy%20Statement%20Link). 
-
-  
-Leased Content 
-
-Neither S&P nor any third-party licensor shall have any liability for the accuracy or completeness of the this service or any component thereof or for delays, unauthenticity, omissions or other defects therein nor for any claims or losses arising therefrom or occasioned thereby, including without limitation any lost profits, indirect, special or consequential damages. Either S&P or third-party licensors have exclusive proprietary rights in the information received via the service. Customer, end-user or visitor, as applicable, shall not use or permit anyone to use the information provided through the service for any unlawful or unauthorized purpose. Customer, end user, or visitor, as applicable, is not authorized or permitted to furnish such information to any person or firm for reuse or retransmission without prior written approval of the source of such information. Provision of the information on the service is subject to termination in the event that any agreement between a third-party licensor and a provider of information distributed through the service is terminated in accordance with its terms. Third-party licensor and its subsidiaries, affiliates, information providers and content partners shall have no liability for investment decisions based on the information provided hereby. 
-
-Users may not download any images provided by Getty Images for any purpose other than personal, noncommercial use. Republication, retransmission, reproduction or other use of these images is strictly prohibited. EUROPEAN UNION AND OTHER FOREIGN NATIONS 
-
-This Clear Channel website is governed by and operated in accordance with the laws of the United States of America and is intended for the enjoyment of residents of the United States. Clear Channel makes no representation that this website is governed by or operated in accordance with the laws of other nations. By using this site, visitors from outside of the United States acknowledge that this site is subject to U.S. law and waive any claims that may arise under their own national laws.
+This Privacy Policy is effective as of November 1, 2010. It was last updated on February 7, 2011.
