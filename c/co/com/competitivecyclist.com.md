@@ -1,22 +1,16 @@
-> *The following text is extracted and transformed from the competitivecyclist.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206083052id_/http%3A//www.competitivecyclist.com/za/CCY%3FPAGE%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitivecyclist.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506062457id_/http%3A//www.competitivecyclist.com/za/CCY%3FPAGE%3DPRIVACY) for the most accurate reproduction.*
 
-# Privacy/Security :: Competitive Cyclist
-
-[](https://web.archive.org/za/CCY?PAGE=HOME)[](https://web.archive.org/za/CCY?PAGE=BRANDS&TYPE=FRAME)[](https://web.archive.org/za/CCY?PAGE=TOP_CATEGORY&CAT.ID=2)[](https://web.archive.org/za/CCY?PAGE=TOP_CATEGORY&CAT.ID=1)[](https://web.archive.org/za/CCY?PAGE=TOP_CATEGORY&CAT.ID=3)[](https://web.archive.org/za/CCY?PAGE=ABOUT_US)[](https://web.archive.org/za/CCY?PAGE=SPECIALS)[](https://web.archive.org/za/CCY?PAGE=CART)
-
-[](https://web.archive.org/za/CCY?PAGE=HOME)
+# Privacy/Security - Competitive Cyclist
 
 ### Privacy
 
-The information you give us stays at Competitive Cyclist. We maintain strict security over the information you give us and use it only in the following ways:
+We maintain strict security over the information you give us and use it only in the following ways:
 
-  1. To send you information you request and to update you on the status of that request.
-  2. To monitor the traffic on our site to help us design the best, most efficient site we can. 
-  3. To occasionally send you free promotional materials.
+1\. To send you information you request and to update you on the status of that request.  
+2\. To monitor the traffic on our site to help us design the best, most efficient site we can. We use cookies to collect anonymous traffic data.  
+3\. To share your name and postal address with other reputable companies so they may send you catalogs about products of potential interest. We do not share credit card information or email address with these third parties. 
 
-
-
-We maintain your information in-house at Competitive Cyclist. If you want to remove your information from our database, call us at 888-276-7130 or email us at [sales@competitivecyclist.com](mailto:sales@competitivecyclist.com).
+If you want to remove your information from our database and/or you prefer that we not share your name and postal address with other companies, please call us at 888-276-7130 or email us at [sales@competitivecyclist.com](mailto:sales@competitivecyclist.com).
 
 ### Security
 
