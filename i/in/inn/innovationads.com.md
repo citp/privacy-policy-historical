@@ -1,59 +1,85 @@
-> *The following text is extracted and transformed from the innovationads.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205092002id_/http%3A//www.innovationads.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innovationads.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506063955id_/http%3A//www.innovationads.com/privacy.html) for the most accurate reproduction.*
 
-# About
+# Privacy Policy
 
-POLICY OVERVIEW
+This document was last updated on October 02, 2010.
 
-Innovation Ads, Inc. is committed to protecting your privacy and has created this privacy policy to disclose our information gathering and dissemination practices for the World Wide Web site located at [http://www.innovationads.com](http://www.innovationads.com/). We believe very strongly that private information should remain private. We would like to hear your feedback about this policy, if you have comments or questions, please contact us. 
+* * *
 
-Quote / Information Registration
+## Section 1. Acknowledgement and Acceptance of Terms.
 
-In order to use certain areas of this Web site, a user may be required to complete a registration form. During registration a user gives contact information (such as name and email address, etc). We use this information to contact the user about services on our site for which he has expressed interest.
+We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-Information Use:
+* * *
 
-While Innovation Ads, Inc. holds your personal information securely, we do provide third-party access to your personal information, we may provide third parties with aggregate statistics about our customers, traffic patterns, and related site information. This data reflects site usage patterns gathered during customer visits to our Web site each month and may contain behavioral or identifying information about any individual member, unless that member has not given us permission to share that information. 
+## Section 2. Participating Merchant Policies
 
-Profile
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences. Consequently, collected information is tied to the user’s personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user's visit to our Web site, and to direct pertinent marketing promotions to them, by Innovation Ads, Inc. or our partners. Your profile is shared with third-parties in aggregate form only. Our partners may include advertisers, retailers, financial service companies, and other companies that have signed a valid marketing, non-disclosure and confidentiality agreements with Innovation Ads, Inc.
+* * *
 
-Log Files
+## Section 3. Information We Collect and How We Use It
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking cookie that enables our log file analyzer to track user movement.
+Anyone under the age of 18, may only use this site and its services in conjunction with and under the supervision of their parents or guardians, and with express permission from us. For this reason, we ask that anyone under the age of 18 should not submit any personal information through our site. This website collects certain information from and about its users three ways: directly from our Web Server logs, information provided by user, and with Cookies.
 
-Special Offers and Updates:
+* * *
 
-For those areas of the site that require online registration, we send all new members a welcoming email to verify your request. Our sales team will promptly respond to your request and occasionally our prospects will receive information on products, services, special deals from Innovation Ads, Inc. or our partners. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Opt-out section. 
+## a. Web Server Logs
 
-Newsletter
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Opt-out section.
+  * Your Internet protocol address.
+  * The kind of browser or computer you use.
+  * Number of links you click within the site.
+  * State or country from which you accessed the site.
+  * Date and time of your visit.
+  * Name of your Internet service provider.
+  * Web page you linked to our site from.
+  * Pages you viewed on the site.
 
-Legal Disclaimer:
 
-Though we make every effort to preserve user privacy within our network, we may need to disclose personal information when required by law where we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
 
-Opt-out:
+* * *
 
-Our users are given the opportunity to `opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our site form has an `opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.   
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by following the instructions given on each e-mail. If these mechanisms fail, the user may contact us at opt-out@innovationads.com to opt-out.
+## b. Use of Cookies
 
-Links
+This site uses cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We reserve the right to share aggregated site statistics with partner companies. For more information about how our third-party service providers may use cookies, please see Section 4, below. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
-This Web site may contain links to other sites. Please be aware that we, Innovation Ads, Inc., is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+* * *
 
-Security
+## c. Use of Personal Information
 
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.  
-When our quote/information form asks users to enter sensitive information, that information is protected with to ensure your privacy. We use the highest level of security encryption, firewalls, and dependable servers. If you are on a secure page, such as an order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just `surfing'.
+Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you requested and/or purchased and any applicable fees that are compliant with our Terms of Use. If you purchase by credit card, the information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. Under some circumstances we may require some additional financial information, including, without limitation, your billing address, bank account information, and tracking information from checks or money orders. We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Finally, the servers that store personally identifiable information are in a secure environment, in a locked facility.
+* * *
 
-Notification of Changes
+  * To fulfill your service requests for services,
+  * To protect ourselves from liability,
+  * To respond to legal process or comply with law, or
+  * In connection with a merger, acquisition, or liquidation of the company.
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
 
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-[request more information](https://web.archive.org/web/20041205092002id_/http%3A//www.innovationads.com/informationrequest.htm)
+* * *
+
+Please note that we will use your information and other information we obtain from your current and past activities on the site to resolve any disputes, troubleshoot problems, collect fees owed, pay amounts due you, or verify your account data. We employ many different security techniques to protect any personal data from unauthorized access by users inside and outside the company, however please be aware that "perfect security" does not exist on the Internet or with any digital or physical data.
+
+* * *
+
+## Section 4. Third Party Advertisers, Use of Web Beacons or GIF Files
+
+This Website may contain electronic images known as Web beacons, sometimes also called single-pixel gifs, that allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. This information in addition to the web searches you make while visiting this website and your web surfing behavior on this site and other websites you may visit is used to show you advertisements tailored to your interests on other websites and other forms of media. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). We prohibit Web beacons from being used to collect or access your personal information.
+
+* * *
+
+## 5\. Accessing Web Account Information
+
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant via our contact form.
+
+* * *
+
+## 6\. Changes to this Statement
+
+We have the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+
+* * *
