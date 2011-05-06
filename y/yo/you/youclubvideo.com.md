@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youclubvideo.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126150525id_/http%3A//www.youclubvideo.com/static_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youclubvideo.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506133301id_/http%3A//www.youclubvideo.com/static_privacy.php) for the most accurate reproduction.*
 
 # Privacy - YouClubVideo
 
