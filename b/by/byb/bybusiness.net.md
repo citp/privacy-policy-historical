@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bybusiness.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228114718id_/http%3A//bybusiness.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bybusiness.net privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506180154id_/http%3A//bybusiness.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Business Blog | Blogger Business News
+# Privacy Policy | Home Business News Page
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
