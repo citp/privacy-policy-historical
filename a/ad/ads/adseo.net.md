@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adseo.net privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204023921id_/http%3A//www.adseo.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adseo.net privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506201746id_/http%3A//www.adseo.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for adseo.net
 
