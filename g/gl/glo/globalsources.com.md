@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205002556id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506173824id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
 
 # Global Sources - Help & FAQ
 
