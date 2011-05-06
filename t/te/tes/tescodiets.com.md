@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tescodiets.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106063826id_/http%3A//www.tescodiets.com/privacy/24030) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescodiets.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507015856id_/http%3A//www.tescodiets.com/privacy/24030) for the most accurate reproduction.*
 
-# Tesco Diets - Online Dieting, Weight Loss and Healthy Eating
+# Diets, Weight Loss, Healthy Living, Exercise & Fitness | Tesco Diets
 
 These Terms and Conditions govern your use of the Tesco Diets website (Tesco Diets Site) and your relationship with Tesco Ireland Limited (Tesco, we or us). Please read them carefully as they affect your rights and liabilities under the law. If you do not agree to these Terms and Conditions, please do not use or become a member of the Tesco Diets Site.
 
@@ -23,7 +23,7 @@ Tesco Diets may share your details among Tesco companies at home and abroad (e.g
 If you subscribe to the Tesco Diets Recipe Club, Tesco Diets will share your information with the third party provider of the Tesco Diets Recipe Club for the purposes of giving you access to this service.  
 Tesco Diets may also use and share information relating to groups of customers, without identifying individuals, to learn more about customer behaviour and find ways of enhancing our service.
   4. **Other web sites**  
-Tesco Diets may contain links to other web sites that are outside Tesco and eDiet UK's control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you that will be used by them in accordance with their privacy policy, which may differ from this one.
+Tesco Diets may contain links to other web sites that are outside Tesco Diet's control and are not covered by this Privacy Policy. If you access other sites using the links provided, the operators of these sites may collect information from you that will be used by them in accordance with their privacy policy, which may differ from this one.
   5. **Cookies**  
 "Cookies" are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. You can find out more about the way cookies work on http://www.cookiecentral.com. Tesco Diets uses cookies to: 
     * help ensure the security of transactions
@@ -51,7 +51,7 @@ You have a right to access the personal data that is held about you. To obtain a
 Tesco Diets, Unit 5, Roof Garden Office, Clare Hall Shopping Centre, Malahide Road, Coolock, Dublin 17, Ireland.  
 Tesco Diets reserves the right to withdraw products referred to at Tesco Diets or change this Privacy Policy at any time.
   9. **Bulletin Boards**  
-Our Support Groups have a bulletin board format that provides our visitors with the opportunity to interact with our online community of "eDieters." These areas are moderated by Tesco Diets technicians strictly to keep inappropriate messages from being posted. You are offered the opportunity to include your email address with your message but you are not obligated to do so. Please keep in mind that whenever you voluntarily disclose personal information online - on message boards, through email, or in meeting rooms - your information can be collected by and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. We cannot control the actions of any 3rd parties. We will not sell email addresses from our bulletin boards.  
+Our Support Groups have a bulletin board format that provides our visitors with the opportunity to interact with our online community of Tesco Dieters. These areas are moderated by Tesco Diets technicians strictly to keep inappropriate messages from being posted. You are offered the opportunity to include your email address with your message but you are not obligated to do so. Please keep in mind that whenever you voluntarily disclose personal information online - on message boards, through email, or in meeting rooms - your information can be collected by and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. We cannot control the actions of any 3rd parties. We will not sell email addresses from our bulletin boards.  
 The company reserves the right to use comments provided by participants on Tesco Diets bulletin boards, chat rooms and in the Tesco Diets newsletter as part of our promotion and marketing. Specifically, we will be free to use any ideas, concepts, know-how or techniques contained in such information for any purpose, including developing, manufacturing or marketing products. Any information you send to Tesco Diets must be truthful, legal, and not violate the rights of others.
   10. **How to Reach Us**  
 Please relay any questions you may have pertaining to our above stated policies to our Customer Service Department on:   
