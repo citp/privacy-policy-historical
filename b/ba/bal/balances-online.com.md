@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the balances-online.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103080635id_/http%3A//www.balances-online.com/Privacy-statement-sp-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balances-online.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506074650id_/http%3A//www.balances-online.com/Privacy-statement-sp-4.html) for the most accurate reproduction.*
 
 # Privacy statement :: Balances-Online.com
 
