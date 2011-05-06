@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the randmcnally.com privacy policy that was archived on 2010-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101212044716id_/http%3A//www.randmcnally.com/privacyPolicy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the randmcnally.com privacy policy that was archived on 2011-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110507003700id_/http%3A//www.randmcnally.com/privacyPolicy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-  <!--v. 0.0.22-->
-   
-
+  <!--v. 0.0.36-->
 	<title>Privacy Policy - RandMcNally</title>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content=""> 
     <meta name="keywords" content=""> 
-   
+    <link rel="apple-touch-icon" href="/images/ios-icon.png">
 	<link rel="stylesheet" href="/styles/global.css" type="text/css">
+    <link href="/styles/jquery-ui.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/styles/jquery-ui.css" type="text/css">
+    
 	<!--[if IE 6]>
         <link rel="stylesheet" href="/styles/global_ie6.css" type="text/css" />
      <![endif]-->
@@ -18,14 +19,39 @@
         <link rel="stylesheet" href="/styles/global_ie7.css" type="text/css" />
      <![endif]-->
      
+      
      
-     
-     <script type="text/javascript" src="/scripts/uiTools.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.1/jquery-ui.min.js"></script>
-	
-<script src="http://www.traveladvertising.com/Live/TanHeader.aspx?PlacementId=463" language="javascript" type="text/javascript"></script>
+
+
+   
+      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+      <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.0/jquery-ui.min.js"></script>
+      <script src="http://www.traveladvertising.com/Live/TanHeader.aspx?PlacementId=463" language="javascript" type="text/javascript"></script>
+   
+   
+ 
+
+<!-- Offline Dev
+<script type="text/javascript" src="/scripts/jQuery/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/scripts/jQuery/jquery-ui-1.7.1.min.js"></script> --> 
+
+<script type="text/javascript" src="/scripts/jQuery/jquery.popupWindow.js"></script>
+<script type="text/javascript" src="/scripts/uiTools.js"></script>
+
+<script type="text/javascript">
+   var routeLoggingDomain = '';
+   var mapAndDirectionDomain = 'http://maps.randmcnally.com/';
+       jQuery.extend({
+      postJSON: function( url, data, callback) {
+          return jQuery.post(url, data, callback, "json");
+       }
+    });
+
+       jQuery(document).ajaxError(function(event, request, settings){
+         var data = {"errors":[{"message":"This request could not be performed.<br />Please check your Internet connection or try again later."}]};      
+         displayErrors (data);    
+       });       
+</script>
      
 
 
@@ -33,10 +59,10 @@
 Copyright 1996-2010 Adobe, Inc. All Rights Reserved
 More info available at http://www.omniture.com -->
 <script language="JavaScript">
-var s_account = "randmcnally ";
+var s_account = "randmcnally";
 </script>
 
-<script language="JavaScript" type="text/javascript" src="/scripts/s_codeMaps.js"></script></head><body onload="" onunload="" id="aboutUs"><img name="s_i_randmcnally " height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/randmcnally /1/H.1-pdv-2/s93049125192746?[AQB]&amp;ndh=1&amp;t=31/0/2020%209%3A42%3A43%205%200&amp;pageName=jsp/privacyPolicy.jsp&amp;g=https%3A//web.archive.org/web/20101212044716id_/http%253A//www.randmcnally.com/privacyPolicy.do&amp;cc=USD&amp;ch=2010_new&amp;server=www.randmcnally.com&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script language="JavaScript" type="text/javascript" src="/scripts/s_codeMaps.js"></script></head><body onload="" onunload="" id="aboutUs"><img name="s_i_randmcnally" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/randmcnally/1/H.1-pdv-2/s94862888033704?[AQB]&amp;ndh=1&amp;t=31/0/2020%209%3A42%3A43%205%200&amp;pageName=jsp/privacyPolicy.jsp&amp;g=https%3A//web.archive.org/web/20110507003700id_/http%253A//www.randmcnally.com/privacyPolicy.do&amp;cc=USD&amp;ch=2010_new&amp;server=www.randmcnally.com&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script language="JavaScript" type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
@@ -100,15 +126,42 @@ pageTracker._trackPageview();
 
 
 <div id="container">
+   
+   
 
-<!-- Main Nav : topNav + travel menu + search -->
+
+
+<!-- acct -->
+<div style="position: relative; height: 30px">
+<ul class="account-options floatR" style="position: absolute; right: 0px; top: 0px; margin: 0">
 	
+      
+         <li class="last fbLog"><img src="/images/fbconnect.gif"></li>        
+         <li><a href="/login.do">Log in</a></li>
+         <li><a href="/register.do">Register</a></li>
+     
+</ul>
+</div>
+<div class="clearR"></div>
+<script type="text/javascript">
+var oPostLoginURI = encodeURIComponent(window.document.location);
+$('.fbLog').popupWindow({
+      windowURL: 'https://graph.facebook.com/oauth/authorize?client_id=191429654202339&redirect_uri=https://www.randmcnally.com/fbRedirect.do%3FdoRefresh%3Dtrue%26postLoginURI%3D'+oPostLoginURI+'&scope=email,user_photos&display=popup',
+      height:400, 
+      width:500, 
+      centerBrowser:1
+   });
+</script>
+   
+
+
+
 
 
 
 
 <!-- acct -->
-	<div id="global-nav" class="clear">
+	<div id="global-nav" class="clearL">
 		<div class="global-primary clear">
 			<ul class="floatR">
 				<li class="glbl nav-travel"><a href="http://randmcnally.com/" class="active">Travel</a></li>
@@ -124,17 +177,22 @@ pageTracker._trackPageview();
 				<li class="glbl nav-news"><a class="SubscribeNewsletter" href="#" title="Subscribe to our Newsletter">Newsletter</a></li>
 			</ul>
 			<ul class="nav-sub">
-
 			<!-- travel menu -->
-			    <li class="glbl nav-maps"><a href="http://maps.randmcnally.com/">Maps &amp; Directions</a></li>
+			    <li class="glbl nav-products"><a href="/products">Products<!--[if IE 8]><!--></a><!--<![endif]--><!--[if IE 7]><!--><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+
+				<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+				</li>
+
+			    <li class="glbl nav-maps"><a href="http://maps.randmcnally.com">Maps &amp; Directions</a></li>
 				<li class="glbl nav-guides"><a href="/North_America_travel_guide.html">Travel Guides</a></li>
-				<li class="glbl nav-blog"><a href="http://ontheroad.randmcnally.com/">Travel Blog</a></li>
+			 <li class="glbl nav-trips"><a href="/roadtrips/">Road Trips</a></li>
+            <li class="glbl nav-blog"><a href="http://ontheroad.randmcnally.com/">Travel Blog</a></li>
 
 				<li class="glbl nav-plan"><a href="#">Plan a Trip<!--[if IE 8]><!--></a><!--<![endif]--><!--[if IE 7]><!--><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--> 
 					<ul>
-                 	 <li><a href="http://hotels.randmcnally.com">Find a Hotel</a></li>
+                 	<!-- <li><a href="http://hotels.randmcnally.com">Find a Hotel</a></li> -->
                   <li><a href="http://www.tripology.com">Find a Travel Specialist</a></li>
-                   <li><a href="http://maps.randmcnally.com/">Maps and Directions</a></li>
+                   <li><a href="http://maps.randmcnally.com">Maps and Directions</a></li>
                    <li><a href="/travelDeals.do">Travel Deals</a></li>
                   </ul>
 					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
@@ -142,7 +200,6 @@ pageTracker._trackPageview();
 				<li class="glbl nav-shop"><a href="http://store.randmcnally.com/?SCInternal=rmheader_main">Shop<!--[if IE 8]><!--></a><!--<![endif]--><!--[if IE 7]><!--><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--> 
 					<ul>
                  	 <li><a href="http://store.randmcnally.com/road-atlas.html?SCInternal=rmheader_atlas">Road Atlases</a></li>
-                  	 <li><a href="http://store.randmcnally.com/travel-gear.html?SCInternal=rmheader_gear">Travel Gear</a></li>
                   	 <li><a href="http://store.randmcnally.com/us-maps.html?SCInternal=rmheader_usmaps">US Maps</a></li>
                   	 <li><a href="http://store.randmcnally.com/international-maps.html?SCInternal=rmheader_international">International Maps</a></li>
                   	 <li><a href="http://store.randmcnally.com/wall-maps.html?SCInternal=rmheader_wall">Wall Maps</a></li>
@@ -150,35 +207,28 @@ pageTracker._trackPageview();
                  	 <li><a href="http://store.randmcnally.com/globes.html?SCInternal=rmheader_globes">Globes</a></li>
                   </ul>
 					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-				</li>
-			<!-- /travel menu -->
+				</li>               
 			</ul>
 		</div>
-		<!-- travel menu 
-		<fieldset class="clear">
-			<label>What:</label>
-			<input type="text"/>
-			<label>Where:</label>
-			<input type="text"/>
-			<input type="submit" class="nav-search"/>
-		</fieldset>-->
+      
+ 
 		
-		<form id="Form1" action="/search.do" method="get" onsubmit="return validateFormSearch(this); ">
+		<form id="Form1" action="/search.do" method="get" onsubmit="return validateFormSearch(this);">
 		<fieldset id="search" class="clear">
 			<label>What:</label>
-			<input name="what" type="text" value="" id="searchWhat" maxlength="25">
+			<input class="searchWhat" name="what" type="text" value="" id="searchWhat" maxlength="25">
 			<label>Where:</label>
-			<input name="where" type="text" value="" id="searchWhere" maxlength="25">
+			<input class="searchWhere" name="where" type="text" value="" id="searchWhere" maxlength="25">
 			<input type="submit" class="nav-search">
 		</fieldset>
       </form>
-		<!-- /travel menu -->
 	
 	</div><!-- global-nav -->
+  
 
 	<div id="content">
 	
-	<!-- breadcrumb -->
+	     <!-- breadcrumb -->
 		
 
 
@@ -512,8 +562,7 @@ Click here</a> to unsubscribe to Rand McNally e-mail.</p>
 		<li><a href="/mileage-calculator.do">Mileage
 		Calculator</a></li>
 		<li><a href="/North_America_travel_guide.html">Travel Guides</a></li>
-		<li><a href="http://ontheroad.randmcnally.com/">Travel Blog</a></li>
-		<li class="last"><a href="http://hotels.randmcnally.com">Find a Hotel</a></li>
+		<li class="last"><a href="http://ontheroad.randmcnally.com/">Travel Blog</a></li>
 	</ul>
 	<ul>
 		<li><a href="http://tripology.com">Find a Travel Specialist </a></li>
@@ -536,14 +585,14 @@ Click here</a> to unsubscribe to Rand McNally e-mail.</p>
 		<li class="last"><a href="/terms.do">Order Terms &amp; Conditions</a></li>
 	</ul>
 </div>
+<div class="alignC" style="padding:10px 0 0;"><a href="http://www.randmcnally.com/news.do?newsId=2037"><img src="/images/logo-wbenc.jpg"></a></div>
 
 
 
 </div><!-- container -->
 
 
-<!-- JQuery style -->
-<link href="/styles/datepicker.css" rel="stylesheet" type="text/css">
+
 
 <!-- Contact Popup -->
 <div id="dialog-newsletter" title="Get the latest news from Rand McNally" class="hide">
@@ -561,6 +610,16 @@ Click here</a> to unsubscribe to Rand McNally e-mail.</p>
    	 </span>
    </form>
 </div>
+<div id="dialog-confirm-common" title="Confirmation" class="hide">
+   <span id="confirm-message"></span>
+</div>
+<div id="dialog-alert" title="" class="hide">
+   <span class="ui-icon ui-icon-alert" style="display: inline;"></span><p></p>
+</div>
+<div id="dialog-error" title="Something went wrong !" class="hide">
+   <span class="ui-icon ui-icon-alert" style="display: inline;"></span>
+   <p class="message-error"></p>
+</div>
 
 
 
@@ -569,8 +628,27 @@ Click here</a> to unsubscribe to Rand McNally e-mail.</p>
 <script type="text/javascript">
 //<![CDATA[
            
-function initDialog () {
-
+function initConfirmDialog(pOnConfirm, pHeight) {
+    $("#dialog-confirm-common").dialog({
+         resizable: false,
+         autoOpen: false,
+         draggable: false,
+         height: pHeight,
+         modal: true,
+         buttons: {
+            'Yes': function() {
+               $('#loading-div-common').css('visibility', 'visible');
+    	       pOnConfirm();
+    	       $('#loading-div-common').css('visibility', 'hidden');
+            },
+             Cancel: function() {
+               $(this).dialog('close');
+            }
+         }
+        }); 
+}
+           
+function initNewsLetterDialog () {
 	$("#dialog-newsletter").dialog({
 		   resizable: false,
 		   autoOpen: false,
@@ -645,6 +723,63 @@ function initDialog () {
 		  });	
 }
 
+function displayErrors (data) {
+     var i;
+    var errorHTML = "";
+    for (i = 0; i < data.errors.length; i++) {
+      errorHTML += data.errors[i].message + "<br />";
+    }             
+    $(".message-error").html(errorHTML);
+   $("#dialog-error").dialog("open");
+} 
+
+$("#dialog-error").dialog({
+      resizable: false,
+      autoOpen: false,
+      draggable: false,
+      width:500,
+      modal: true,
+      buttons: {
+         Ok: function() {
+            $(this).dialog('close');
+         }
+      }
+ });
+
+function displayConfirm(data) {
+   $("#message-confirm-common").html(data.message);
+   $("#message-confirm-common").show().delay(2000).slideUp().fadeOut(400);
+   $("#dialog-confirm-common").dialog("close");
+} 
+
+//When deleted li element from list, this function redirect
+//to previous page in the iteration, have not tested on HTTPS
+//the UL must be identified as BEName[s], this is have to be a list paginated with TF taglib
+function deletedFromList(pBeName, pId){
+	 $('#'+pBeName + pId).fadeOut(500);
+	 $('#'+pBeName + pId).remove();    
+     if($("#"+pBeName+"s li").length == 0) {
+    	 setTimeout(function (){
+    		 window.location.replace($(".pageNavPrev a").attr('href'));
+    	}, 2500);
+     }      
+}
+
+$("#dialog-error").dialog({
+     resizable: false,
+     autoOpen: false,
+     draggable: false,
+     width:500,
+     modal: true,
+     buttons: {
+        Ok: function() {
+           $(this).dialog('close');
+        }
+     }
+    });
+
+
+
 	$('a.SubscribeNewsletter').click(function() {
 		   jQuery.data(document.body, 'deleteId', this.name);
 		   $("#dialog-newsletter").dialog("open");
@@ -665,13 +800,25 @@ function initDialog () {
 	$('#searchWhere').blur(function() {
 		   setSearchCaption(this.id, 'blur', searchDefaultCaptionWhere);
 		});
-	initDialog();
+
+	$('.searchRoadTrip').focus(function() {
+         //alert('focus');
+		   setSearchCaption('searchRoadTrip', '', searchDefaultCaptionRoadTrip);
+		});
+
+	$('.searchRoadTrip').blur(function() {
+        //alert('blur');    
+		   setSearchCaption('searchRoadTrip', 'blur', searchDefaultCaptionRoadTrip);
+		});
+	setSearchCaption("searchRoadTrip", 'blur', searchDefaultCaptionRoadTrip);
+	   
+	
+	initNewsLetterDialog();
 	setSearchCaption("searchWhat", 'blur', searchDefaultCaptionWhat);
 	setSearchCaption("searchWhere", 'blur', searchDefaultCaptionWhere);
-	
+   
 //]]>
 </script>
    
-    <!--CNAM Aq. VAE T.Dussau-->
 
 </body></html>
