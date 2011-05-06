@@ -1,55 +1,40 @@
-> *The following text is extracted and transformed from the datamyne.com privacy policy that was archived on 2005-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050831095547id_/http%3A//www.datamyne.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datamyne.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506074845id_/http%3A//www.datamyne.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Datamyne Privacy Statement
+# WEBSITE PRIVACY POLICY
 
-**PRIVACY STATEMENT**
+**DATAMYNE INC. PRIVACY POLICY**   
 
-Last Updated: May 23, 2003
 
-Datamyne.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
+This Privacy Policy (the Privacy Policy) applies to information collected by Datamyne Inc. (Datamyne) through or in connection with the operation of Datamyne’s website (the Site). Datamyne understands how important your personal privacy is to you, and we want you to be aware of the kinds of information we collect, how we collect it, how we use it, and with whom we share it. When you submit information to Datamyne, you acknowledge and agree to the terms and conditions of this Privacy Policy. Datamyne may revise this Privacy Policy from time to time by updating the information posted on the Site. Amendments to the Privacy Policy will be effective when posted.  You should therefore periodically visit this page to review the current Privacy Policy, so that you are aware of any such revisions.
 
-How we gather information from users
+1\. **The Information We Collect**.
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, Datamyne.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
+  
+_Personally Identifiable Information._  Subscribers to the Site are required to supply certain information to Datamyne as part of a registration and subscription process, including but not limited to information identifying a e-mail address, telephone number(s), and physical address of the subscriber; and financial information of the subscriber, including credit card or bank account information, for purposes of remuneration for services rendered by Datamyne to the subscriber.  Subscribers access the services available through the Site by using login credentials supplied by Datamyne, which are linked with the personally identifiable information provided to Datamyne.  Datamyne may, from time to time, collect additional personal information from subscribers in connection with subscriber surveys.  Participation in the surveys will always be optional.
 
-What we do with the information we collect
+  
+_Non-Personally Identifiable Information._  We also collect autonomous, non-personally identifiable information through the Site, including the Internet Protocol (IP) address(es) from which you access the Site, and information about the nature of your use of the Site.  We collect this information and use it in the aggregate to monitor the Site, to improve Site offerings, and for targeted promotional or marketing initiatives.  Aggregated data are compiled into statistical and demographic information that we use, and may share with others, to show preferences of Site subscribers in the aggregate, but not the preferences of any individual subscribers.  If we share this kind of aggregated data with third parties, it will not include a level of detail that would permit a third party to associate an individual subscriber with the subscriber's usage or preferences. We may combine autonomous information with personally identifiable information to identify a subscriber in order to enforce Datamyne’s Terms of Use Policy.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+  
+2\. **Use of the Information We Collect**.
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+  
+The personally identifiable information that we collect through or in connection with the operation of the Site is used for purposes of ensuring compliance with Datamyne’s Terms of Use Policy, offering and rendering our services, and responding to subscribers’ queries.  Personally identifiable information is accessible by our employees, contractors, and agents to the extent reasonably necessary for these purposes. Except as described in this section, we will not share your personally identifiable information with any third party unless you expressly consent to such disclosure in advance.  We use cookies to identify you as a subscriber of the Site, to permit your access to the Site services, and to monitor your use of the Site.  Cookies are text files, stored in your web browser, that contain information about you relative to your use of the Site.  If you configure your web browser to disable or block cookies, you will not be able to use the Site services.  
 
-We may use Personally Identifiable Information collected on Datamyne.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by Datamyne.com and other topics we think you might find of interest. 
 
-Personally Identifiable Information collected by Datamyne.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+We have the right to disclose and transfer subscriber lists and related personally identifiable information in connection with any merger, sale, or contemplated sale of all or part of our business related to the Site, and to treat such information as a business asset in the event of bankruptcy or liquidation. We may also disclose personally identifiable information to a third party if disclosure is required to comply with a subpoena, court order, and/or other legal instrument, legal proceeding or relevant law; or if there is an immediate, imminent threat to the safety of any person, Datamyne, or the Site.   
 
-Affiliated sites, linked sites and advertisements
 
-Datamyne.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a Datamyne.com page, certain content that is actually created or hosted by a third party. Also, through Datamyne.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. Datamyne.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+We use e-mail links to allow subscribers to contact us directly with any questions or comments you may have.  We will use your e-mail address to respond to these questions or comments.  We may also periodically send you promotional e-mail about services offered by Datamyne. Additionally, the e-mail address provided by you at registration may be used by Datamyne to contact you regarding (1) account status (including confirmation of registration), (2) major changes to the Site, and (3) participation in subscriber surveys.  Except as permitted by this policy, Datamyne does not send unsolicited e-mail.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. Datamyne.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+  
+3\. **_Security_**. We use industry-standard security methods such as firewalls, encryption, and system access controls.  However, as no computer or network-based product exists that can provide "perfect security," we cannot guarantee that the steps we have taken to secure your information will prevent our systems from being compromised and your information from being disclosed.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of Datamyne.com and this policy.
+  
+4\. **_Modifying Information_**. We allow subscribers to the Site to inspect the personally identifiable information they have provided and that we maintain, and to request correction of any error in our records relating to their personally identifiable information.   
 
-Children
+   
+5\. **_Links to Other Websites_**  The Site may contain links to websites that are not affiliated with Datamyne and that may or may not have similar practices in place to protect the privacy of information that you supply.  We encourage you to review the privacy statements of each of the sites that are linked to or accessed from the Site so that you will be aware of how each visited site collects, uses, and distributes such information.  We are not responsible for the privacy practices employed by third-party sites.
 
-Datamyne.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Datamyne.com has any information from or about anyone under 13, please contact us at the address listed below.
-
-Contacting Us.
-
-We can be reached by contacting:
-
-Datamyne.com
-
-Email: [info@datamyne.com](mailto:info@datamyne.com)
-
-Changes to this Policy
-
-Datamyne.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
-
-Governing law
-
-This policy and the use of this Site are governed by Indiana law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Fort Wayne, IN. . Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
-
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Fort Wayne, IN. , under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
-
-Datamyne.com is controlled, operated and administered entirely within Datamyne.com. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+  
+6\. **_DoubleClick DART Cookie_.  **Google, as a third party vendor, uses cookies to serve ads on the Site.  Google’s use of the DART cookie enables it to serve ads to our users based on their visit to the Site and other sites on the Internet.  Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL:  <http://www.google.com/privacy_ads.html>.
