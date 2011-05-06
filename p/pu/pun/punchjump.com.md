@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punchjump.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204072930id_/http%3A//www.punchjump.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchjump.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506032335id_/http%3A//www.punchjump.com/privacy.php) for the most accurate reproduction.*
 
 # Punch Jump - Hip to be Square - Privacy Policy
 
@@ -9,6 +9,8 @@ Punch Jump L.L.C employs security measures to keep personally identifiable data 
 **Information collection**
 
 Punch Jump L.L.C collects personally identifiable information from registered users and anonymous, aggregate information from all users. We use cookies to identify your IP address, browser and track site travel. A cookie is a small file sent to a user's computer to record general user information or activity. Users can choose to disable the receipt of cookies, though certain site features may not be accessible without cookies enabled. The information we collect is used to send opt-in materials, make site content more relevant to readers, and measure site usage.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Shared information**
 
