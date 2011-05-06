@@ -1,0 +1,784 @@
+<!--The following is the downloaded HTML source of the ibp.org.pk privacy policy that was archived on 2011-05-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110506051137id_/http%3A//ibp.org.pk/privacypolicy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 Transitional//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" enableviewstate="false"><head>
+<title>
+IBP | Privacy Policy
+</title> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="Description" content="">
+<meta name="Keywords" content="">
+<link href="css/style.css" rel="stylesheet" type="text/css">
+<link href="css/style1.css" rel="stylesheet" type="text/css">
+ 
+<script type="text/javascript">
+     
+    function showSub(id) {    
+   /* for (i=0; i<subMenus.length; i++) {
+    if (document.getElementById('sub'+subMenus[i]))
+        document.getElementById('sub'+subMenus[i]).style.display='none';
+    }
+    if (document.getElementById('sub'+id))
+    document.getElementById('sub'+id).style.display='block';*/
+}
+function changeEffect(id,count, i) {
+		/*for(k=0; k<count;k++) {
+			if (subDivs[k].id==id) {
+				j=id;
+			} else {
+				Effect.Fade(subDivs[k].id);
+			}
+		}
+			setTimeout("Effect.Appear(j)",150);
+		i++;
+		if (i>=count) {
+		i=0;
+		}
+		setTimeout("changeEffect('"+subDivs[i].id+"','"+count+"', '"+i+"')", 7000);
+		*/
+		}
+		var swidth=215;
+
+//scroller's height
+var sheight=90;
+
+
+//scroller's speed 
+var sspeed=2;
+var restart=sspeed;
+var rspeed=sspeed;
+
+//scroller's pause 
+var spause=2000;
+
+//scroller's background
+var sbcolor="#ffffff";
+
+//messages: set your own; use as many as you'd like; set up Hyperlinks to
+//URLs as you normally do: <a target=... href="... URL ...">..message..</a>;
+var singletext=new Array();
+
+
+
+var ii=0;
+function goup(){if(sspeed!=rspeed*16){sspeed=sspeed*2;restart=sspeed;}}
+
+function start(){
+if(document.getElementById){ns6div=document.getElementById('iens6div');ns6div.style.top=sheight+"px";ns6div.innerHTML=singletext[0];sizeup=ns6div.offsetHeight;ns6scroll();}
+else 
+if(document.layers){ns4layer=document.ns4div.document.ns4div1;ns4layer.top=sheight;ns4layer.document.write(singletext[0]);ns4layer.document.close();sizeup=ns4layer.document.height;ns4scroll();}
+else 
+if(document.all){iediv=iens6div;iediv.style.pixelTop=sheight+"px";iediv.innerHTML=singletext[0];sizeup=iediv.offsetHeight;iescroll();}}
+function iescroll(){if(iediv.style.pixelTop>0&&iediv.style.pixelTop<=sspeed){iediv.style.pixelTop=0;setTimeout("iescroll()",spause);}else 
+if(iediv.style.pixelTop>=sizeup*-1){iediv.style.pixelTop-=sspeed+"px";setTimeout("iescroll()",100);}else{if(ii==singletext.length-1)ii=0;else ii++;iediv.style.pixelTop=sheight+"px";iediv.innerHTML=singletext[ii];sizeup=iediv.offsetHeight;iescroll();}}
+function ns4scroll(){if(ns4layer.top>0&&ns4layer.top<=sspeed){ns4layer.top=0;setTimeout("ns4scroll()",spause);}else 
+if(ns4layer.top>=sizeup*-1){ns4layer.top-=sspeed;setTimeout("ns4scroll()",100);}else{if(ii==singletext.length-1)ii=0;else ii++;ns4layer.top=sheight;ns4layer.document.write(singletext[ii]);ns4layer.document.close();sizeup=ns4layer.document.height;ns4scroll();}}
+function ns6scroll(){if(parseInt(ns6div.style.top)>0&&parseInt(ns6div.style.top)<=sspeed){ns6div.style.top=0;setTimeout("ns6scroll()",spause);}else 
+if(parseInt(ns6div.style.top)>=sizeup*-1){ns6div.style.top=parseInt(ns6div.style.top)-sspeed+"px";setTimeout("ns6scroll()",100);}
+else{if(ii==singletext.length-1)ii=0;else ii++;
+ns6div.style.top=sheight+"px";ns6div.innerHTML=singletext[ii];sizeup=ns6div.offsetHeight;ns6scroll();}}
+//-- end Algorithm -->
+		 
+function serach_page(part){
+    var kw = document.getElementById('searchField').value;
+    var myOption = -1;
+
+    if (document.getElementById('sction1').checked) {
+        myOption=0;
+    }
+    if (document.getElementById('sction2').checked) {
+        myOption=1;
+    }
+    if (document.getElementById('sction3').checked) {
+        myOption=2;
+    }
+    if (kw=="") {
+        alert('Please enter search term.');
+        document.getElementById('kw').focus();
+    }else if (myOption== -1) {
+        alert('Please select area of search eg:workshop, exam or website.');
+    } else if (myOption==0) {
+        window.location='serach_wrokshop.aspx?page=0&opt=0&kw='+kw;
+    }
+     else if (myOption==1) {
+        window.location='serach_exam.aspx?page=0&opt=1&kw='+kw;
+    }else if (myOption==2) {
+        window.location='serach_site.aspx?page=0&opt=2&kw='+kw;
+    }
+}
+/*function ent_event()
+{    
+      
+    var key;     
+    var charCode = (evt.which) ? evt.which : event.keyCode
+alert(charCode);
+   /* if(window.event) {
+       key = window.event.keyCode; //IE
+    } else {
+        key = e.which; //firefox     
+    }
+     return (key != 13);
+     return false;
+            if (window.event.keyCode == 13)
+            {
+               event.returnValue=false;
+                event.cancel = true;
+            }
+}*/
+    </script>
+   <style type="text/css">
+   
+   </style>
+    <!--[if IE]>
+    <style type="text/css">        
+        body {
+        behavior: url("csshover3.htc");
+        }
+        form 
+        {
+            padding:0px;
+            margin:0px;
+        }
+        .menu1:hover{background-position:center bottom;
+        .menu1{height:12px;padding-bottom:0px; }        
+        }    
+    </style>
+    <![endif]-->    
+        <!-- CSS for Drop Down Tabs Menu #1 -->
+<link rel="stylesheet" type="text/css" href="/dropdowntabfiles/ddcolortabs.css">
+<script type="text/javascript" src="/dropdowntabfiles/dropdowntabs.js">
+/***********************************************
+* Drop Down Tabs Menu- (c)
+***********************************************/
+</script>
+<link rel="stylesheet" type="text/css" href="/css/base.css" media="screen">
+<link href="/css/style_new.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="/css/anylinkcssmenu.css">
+<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/js/utils.js"></script>
+<script type="text/javascript" src="/js/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+<script type="text/javascript" src="/js/gothamBook.js"></script>
+<script type="text/javascript" src="/js/gothamMedium.js"></script>
+<script type="text/javascript" src="/js/cufonConfig.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script src="/popup.js" type="text/javascript"></script>
+<script type="text/javascript">
+function serach_page(part){
+    var kw = document.getElementById('searchField').value;
+    var myOption = -1;
+
+    if (document.getElementById('sction1').checked) {
+        myOption=0;
+    }
+    if (document.getElementById('sction2').checked) {
+        myOption=1;
+    }
+    if (document.getElementById('sction3').checked) {
+        myOption=2;
+    }
+    if (kw=="") {
+        alert('Please enter search term.');
+        document.getElementById('kw').focus();
+    }else if (myOption== -1) {
+        alert('Please select area of search eg:workshop, exam or website.');
+    } else if (myOption==0) {
+        window.location='serach_wrokshop.aspx?page=0&opt=0&kw='+kw;
+    }
+     else if (myOption==1) {
+        window.location='serach_exam.aspx?page=0&opt=1&kw='+kw;
+    }else if (myOption==2) {
+        window.location='serach_site.aspx?page=0&opt=2&kw='+kw;
+    }
+}
+</script>
+<script type="text/javascript" src="/js/anylinkcssmenu.js">
+/***********************************************
+* AnyLink CSS Menu script v2.0- Â© 
+***********************************************/
+</script>
+<script type="text/javascript">
+//anylinkcssmenu.init("menu_anchors_class") ////Pass in the CSS class of anchor links (that contain a sub menu)
+anylinkcssmenu.init("anchorclass")
+</script>
+
+</head>
+<body>
+
+<form name="aspnetForm" method="post" action="privacypolicy.aspx?ContentID=%2fprivacypolicy.aspx&amp;" id="aspnetForm" onkeypress="javascript:return ent_event();">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTAyMTMzODg1Ng9kFgJmD2QWCAIBDxYCHgRUZXh0BRRJQlAgfCBQcml2YWN5IFBvbGljeWQCAw8WAh8AZWQCBQ8WAh8AZWQCDQ8WAh4Kb25rZXlwcmVzcwUeamF2YXNjcmlwdDpyZXR1cm4gZW50X2V2ZW50KCk7Fg5mDxYCHwAF6QE8bGk+PGEgaHJlZj0iSVNRT3ZlcnZpZXcuYXNweCI+SVNRPC9hPjxociAvPjwvbGk+CjxsaT48YSBocmVmPSJUcmFpbmluZ3MuYXNweCI+SUJQIFRyYWluaW5nIFByb2dyYW1zPC9hPjxociAvPjwvbGk+CjxsaT48YSBocmVmPSJlY29sZXR0ZXIuYXNweCI+RWNvbm9taWMgTGV0dGVyPC9hPjxociAvPjwvbGk+CjxsaT48YSBocmVmPSJMb2NhdGlvbi5hc3B4Ij5JQlAgTG9jYXRpb25zPC9hPjxociAvPjwvbGk+CmQCBQ8WAh8ABbsFPGxpPjxhIGhyZWY9ImluZGV4LmFzcHgiIHRpdGxlPSJIb21lIiA+PHNwYW4+SG9tZTwvc3Bhbj48L2E+PC9saT4KPGxpPjxhIGhyZWY9Ildob3dlYXJlLmFzcHgiIHJlbD0iZHJvcG1lbnUyIiB0aXRsZT0iICAgICAgICAgIEFib3V0IElCUCIgPjxzcGFuPiAgICAgICAgICBBYm91dCBJQlA8L3NwYW4+PC9hPjwvbGk+CjxsaT48YSBocmVmPSJJU1FPdmVydmlldy5hc3B4IiByZWw9ImRyb3BtZW51MTMiIHRpdGxlPSJCYW5raW5nIFF1YWxpZmljYXRpb24iID48c3Bhbj5CYW5raW5nIFF1YWxpZmljYXRpb248L3NwYW4+PC9hPjwvbGk+CjxsaT48YSBocmVmPSJUcmFpbmluZ3MuYXNweCIgcmVsPSJkcm9wbWVudTEyIiB0aXRsZT0iVHJhaW5pbmciID48c3Bhbj5UcmFpbmluZzwvc3Bhbj48L2E+PC9saT4KPGxpPjxhIGhyZWY9ImlicHRyYWluZXJzLmFzcHgiIHJlbD0iZHJvcG1lbnUxNCIgdGl0bGU9IlRyYWluZXJzIiA+PHNwYW4+VHJhaW5lcnM8L3NwYW4+PC9hPjwvbGk+CjxsaT48YSBocmVmPSJlY29sZXR0ZXIuYXNweCIgcmVsPSJkcm9wbWVudTE4IiB0aXRsZT0iUHVibGljYXRpb25zIiA+PHNwYW4+UHVibGljYXRpb25zPC9zcGFuPjwvYT48L2xpPgo8bGk+PGEgaHJlZj0iYXNzZXNzbWVudHNlcnZpY2VzLmFzcHgiIHJlbD0iZHJvcG1lbnUxNSIgdGl0bGU9Ik90aGVycyIgPjxzcGFuPk90aGVyczwvc3Bhbj48L2E+PC9saT4KZAIGDxYCHwAFhw88ZGl2IGlkPSJkcm9wbWVudTExIiBjbGFzcz0iZHJvcG1lbnVkaXZfYSI+CjwvZGl2Pgo8ZGl2IGlkPSJkcm9wbWVudTIiIGNsYXNzPSJkcm9wbWVudWRpdl9hIj4KPGEgaHJlZj0iV2hvd2VhcmUuYXNweCI+V2hvIFdlIEFyZTwvYT4KPGEgaHJlZj0idmlzaW9uX21pc3Npb24uYXNweCI+VmlzaW9uIGFuZCBNaXNzaW9uPC9hPgo8YSBocmVmPSJMb2NhdGlvbi5hc3B4Ij5Mb2NhdGlvbnM8L2E+CjxhIGhyZWY9IkNhcmVlcnMuYXNweCI+Q2FyZWVyczwvYT4KPGEgaHJlZj0iY29udGFjdC5hc3B4Ij5Db250YWN0IFVzPC9hPgo8L2Rpdj4KPGRpdiBpZD0iZHJvcG1lbnUxMyIgY2xhc3M9ImRyb3BtZW51ZGl2X2EiPgo8YSBocmVmPSJJU1FPdmVydmlldy5hc3B4Ij5XaGF0IGlzIElTUTwvYT4KPGEgaHJlZj0iSVNRU3lsbGFidXMuYXNweCI+U3lsbGFidXM8L2E+CjxhIGhyZWY9ImlzcWFwcGx5LmFzcHgiPlJlZ2lzdHJhdGlvbiBQcm9jZXNzPC9hPgo8YSBocmVmPSJmZWVzLmFzcHgiPkZlZSBTdHJ1Y3R1cmU8L2E+CjxhIGhyZWY9ImNvYWNoaW5nY2xhc3Nlcy5hc3B4Ij5Db2FjaGluZyBDbGFzc2VzPC9hPgo8YSBocmVmPSJwYXN0cGFwZXJzLmFzcHgiPlBhc3QgUGFwZXJzPC9hPgo8YSBocmVmPSJTY2hlZHVsZS5hc3B4Ij5FeGFtIFNjaGVkdWxlIGFuZCBDZW50ZXJzPC9hPgo8YSBocmVmPSJJU1FSZXN1bHRzLmFzcHgiPlJlc3VsdHM8L2E+CjwvZGl2Pgo8ZGl2IGlkPSJkcm9wbWVudTEyIiBjbGFzcz0iZHJvcG1lbnVkaXZfYSI+CjxhIGhyZWY9IlRyYWluaW5ncy5hc3B4Ij5XaGF0IFdlIE9mZmVyPC9hPgo8YSBocmVmPSJjZXJ0aWZpY2F0aW9uLmFzcHgiPkNlcnRpZmllZCBQcm9ncmFtczwvYT4KPGEgaHJlZj0iaW50ZXJuYXRpb25hbHByb2dyYW1zLmFzcHgiPkludGVybmF0aW9uYWwgUHJvZ3JhbXM8L2E+CjxhIGhyZWY9ImN1c3RvbWl6ZWRjb3Vyc2VzLmFzcHgiPkN1c3RvbWl6ZWQgQ291cnNlczwvYT4KPGEgaHJlZj0iY2FsZW5kYXJwcm9ncmFtcy5hc3B4Ij5DYWxlbmRhciBQcm9ncmFtczwvYT4KPGEgaHJlZj0idHJhaW5pbmdfY2FsZW5kYXIuYXNweCI+VHJhaW5pbmcgQ2FsZW5kYXI8L2E+CjxhIGhyZWY9InJlZ2lzdHJhdGlvbnByb2Nlc3MuYXNweCI+UmVnaXN0cmF0aW9uIFByb2Nlc3M8L2E+CjwvZGl2Pgo8ZGl2IGlkPSJkcm9wbWVudTE0IiBjbGFzcz0iZHJvcG1lbnVkaXZfYSI+CjxhIGhyZWY9ImlicHRyYWluZXJzLmFzcHgiPlRyYWluZXJzIGF0IElCUDwvYT4KPGEgaHJlZj0iYmVjb21ldHJhaW5lci5hc3B4Ij5CZWNvbWUgYSBUcmFpbmVyPC9hPgo8YSBocmVmPSJ0cmFpbmVyc2ZvcnVtLmFzcHgiPlRyYWluZXJzIEZvcnVtPC9hPgo8YSBocmVmPSJyZXNvdXJjZXMuYXNweCI+UmVzb3VyY2VzPC9hPgo8L2Rpdj4KPGRpdiBpZD0iZHJvcG1lbnUxOCIgY2xhc3M9ImRyb3BtZW51ZGl2X2EiPgo8YSBocmVmPSJlY29sZXR0ZXIuYXNweCI+RWNvbm9taWMgTGV0dGVyPC9hPgo8YSBocmVmPSJxdWFydGVybHkuYXNweCI+UXVhcnRlcmx5IEpvdXJuYWw8L2E+CjxhIGhyZWY9ImlzcXJlZmVyZW5jZWJvb2tzLmFzcHgiPklTUSBSZWZlcmVuY2UgQm9va3M8L2E+CjxhIGhyZWY9ImJhbmtlcnNkaWFyeS5hc3B4Ij5CYW5rZXJzIERpYXJ5PC9hPgo8L2Rpdj4KPGRpdiBpZD0iZHJvcG1lbnUxNSIgY2xhc3M9ImRyb3BtZW51ZGl2X2EiPgo8YSBocmVmPSJhc3Nlc3NtZW50c2VydmljZXMuYXNweCI+QXNzZXNzbWVudCBTZXJ2aWNlczwvYT4KPGEgaHJlZj0ibWJhLmFzcHgiPk1CQSBCYW5raW5nIFByb2dyYW08L2E+CjxhIGhyZWY9ImxpYnJhcnkuYXNweCI+TGlicmFyeTwvYT4KPGEgaHJlZj0iRmFjaWxpdGllcy5hc3B4Ij5GYWNpbGl0aWVzPC9hPgo8YSBocmVmPSJuZXdzLmFzcHgiPk5ld3M8L2E+CjxhIGhyZWY9ImdhbGxlcnkuYXNweCI+UGljdHVyZSBHYWxsZXJ5PC9hPgo8L2Rpdj4KZAIHDxYCHwAFH3RhYmRyb3Bkb3duLmluaXQoImNvbG9ydGFiIiwwKTtkAggPFgIfAAWLFDx0cj48dGQgYWxpZ249ImxlZnQiIHZhbGlnbj0ibWlkZGxlIiBjbGFzcz0ibGVmdG5hdmJnIj4KPHRhYmxlIHdpZHRoPSIxMDAlIiBib3JkZXI9IjAiIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCI+CiAgICA8dHI+PHRkIHdpZHRoPSIyMCI+PGltZyBzcmM9Ii9pbWFnZXMvYnVsbGV0LnBuZyIgc3R5bGU9ImJlaGF2aW9yOiB1cmwoaWVwbmdmaXguaHRjKSIgLz48L3RkPgogICAgPHRkPjxhIGhyZWY9ImluZGV4LmFzcHgiID5Ib21lPC9hPjwvdGQ+CiAgIDwvdHI+CjwvdGFibGU+CjwvdGQ+CjwvdHI+Cjx0cj4gICAgPHRkIGhlaWdodD0iMiIgYWxpZ249ImxlZnQiIGNsYXNzPSJ3aGl0ZWJnIj48L3RkPgo8L3RyPgo8dHI+PHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249Im1pZGRsZSIgY2xhc3M9ImxlZnRuYXZiZyI+Cjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiPgogICAgPHRyPjx0ZCB3aWR0aD0iMjAiPjxpbWcgc3JjPSIvaW1hZ2VzL2J1bGxldC5wbmciIHN0eWxlPSJiZWhhdmlvcjogdXJsKGllcG5nZml4Lmh0YykiIC8+PC90ZD4KICAgIDx0ZD48YSBocmVmPSJXaG93ZWFyZS5hc3B4IiA+ICAgICAgICAgIEFib3V0IElCUDwvYT48L3RkPgogICA8L3RyPgo8L3RhYmxlPgo8L3RkPgo8L3RyPgo8dHI+ICAgIDx0ZCBoZWlnaHQ9IjIiIGFsaWduPSJsZWZ0IiBjbGFzcz0id2hpdGViZyI+PC90ZD4KPC90cj4KPHRyPjx0ZCBhbGlnbj0ibGVmdCIgdmFsaWduPSJtaWRkbGUiIGNsYXNzPSJsZWZ0bmF2YmciPgo8dGFibGUgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIj4KICAgIDx0cj48dGQgd2lkdGg9IjIwIj48aW1nIHNyYz0iL2ltYWdlcy9idWxsZXQucG5nIiBzdHlsZT0iYmVoYXZpb3I6IHVybChpZXBuZ2ZpeC5odGMpIiAvPjwvdGQ+CiAgICA8dGQ+PGEgaHJlZj0iSVNRT3ZlcnZpZXcuYXNweCIgPkJhbmtpbmcgUXVhbGlmaWNhdGlvbjwvYT48L3RkPgogICA8L3RyPgo8L3RhYmxlPgo8L3RkPgo8L3RyPgo8dHI+ICAgIDx0ZCBoZWlnaHQ9IjIiIGFsaWduPSJsZWZ0IiBjbGFzcz0id2hpdGViZyI+PC90ZD4KPC90cj4KPHRyPjx0ZCBhbGlnbj0ibGVmdCIgdmFsaWduPSJtaWRkbGUiIGNsYXNzPSJsZWZ0bmF2YmciPgo8dGFibGUgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIj4KICAgIDx0cj48dGQgd2lkdGg9IjIwIj48aW1nIHNyYz0iL2ltYWdlcy9idWxsZXQucG5nIiBzdHlsZT0iYmVoYXZpb3I6IHVybChpZXBuZ2ZpeC5odGMpIiAvPjwvdGQ+CiAgICA8dGQ+PGEgaHJlZj0iVHJhaW5pbmdzLmFzcHgiID5UcmFpbmluZzwvYT48L3RkPgogICA8L3RyPgo8L3RhYmxlPgo8L3RkPgo8L3RyPgo8dHI+ICAgIDx0ZCBoZWlnaHQ9IjIiIGFsaWduPSJsZWZ0IiBjbGFzcz0id2hpdGViZyI+PC90ZD4KPC90cj4KPHRyPjx0ZCBhbGlnbj0ibGVmdCIgdmFsaWduPSJtaWRkbGUiIGNsYXNzPSJsZWZ0bmF2YmciPgo8dGFibGUgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIj4KICAgIDx0cj48dGQgd2lkdGg9IjIwIj48aW1nIHNyYz0iL2ltYWdlcy9idWxsZXQucG5nIiBzdHlsZT0iYmVoYXZpb3I6IHVybChpZXBuZ2ZpeC5odGMpIiAvPjwvdGQ+CiAgICA8dGQ+PGEgaHJlZj0iaWJwdHJhaW5lcnMuYXNweCIgPlRyYWluZXJzPC9hPjwvdGQ+CiAgIDwvdHI+CjwvdGFibGU+CjwvdGQ+CjwvdHI+Cjx0cj4gICAgPHRkIGhlaWdodD0iMiIgYWxpZ249ImxlZnQiIGNsYXNzPSJ3aGl0ZWJnIj48L3RkPgo8L3RyPgo8dHI+PHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249Im1pZGRsZSIgY2xhc3M9ImxlZnRuYXZiZyI+Cjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiPgogICAgPHRyPjx0ZCB3aWR0aD0iMjAiPjxpbWcgc3JjPSIvaW1hZ2VzL2J1bGxldC5wbmciIHN0eWxlPSJiZWhhdmlvcjogdXJsKGllcG5nZml4Lmh0YykiIC8+PC90ZD4KICAgIDx0ZD48YSBocmVmPSJlY29sZXR0ZXIuYXNweCIgPlB1YmxpY2F0aW9uczwvYT48L3RkPgogICA8L3RyPgo8L3RhYmxlPgo8L3RkPgo8L3RyPgo8dHI+ICAgIDx0ZCBoZWlnaHQ9IjIiIGFsaWduPSJsZWZ0IiBjbGFzcz0id2hpdGViZyI+PC90ZD4KPC90cj4KPHRyPjx0ZCBhbGlnbj0ibGVmdCIgdmFsaWduPSJtaWRkbGUiIGNsYXNzPSJsZWZ0bmF2YmciPgo8dGFibGUgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIj4KICAgIDx0cj48dGQgd2lkdGg9IjIwIj48aW1nIHNyYz0iL2ltYWdlcy9idWxsZXQucG5nIiBzdHlsZT0iYmVoYXZpb3I6IHVybChpZXBuZ2ZpeC5odGMpIiAvPjwvdGQ+CiAgICA8dGQ+PGEgaHJlZj0iYXNzZXNzbWVudHNlcnZpY2VzLmFzcHgiID5PdGhlcnM8L2E+PC90ZD4KICAgPC90cj4KPC90YWJsZT4KPC90ZD4KPC90cj4KPHRyPiAgICA8dGQgaGVpZ2h0PSIyIiBhbGlnbj0ibGVmdCIgY2xhc3M9IndoaXRlYmciPjwvdGQ+CjwvdHI+CmQCCQ9kFgICAQ8WAh8ABegePGgxIHN0eWxlPSJjb2xvcjojMWI4YWMxOyBmb250LXNpemU6MTZweDsgcGFkZGluZzowcHg7IG1hcmdpbjowcHg7IGZvbnQtd2VpZ2h0OmJvbGQ7Ij5Qcml2YWN5IFBvbGljeTwvaDE+PHA+DQoJPHNwYW4gc3R5bGU9ImNvbG9yOiAjMDAwIj48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxMnB4Ij48c3BhbiBzdHlsZT0iZm9udC1mYW1pbHk6IHZlcmRhbmEsZ2VuZXZhLHNhbnMtc2VyaWYiPjxzdHJvbmc+V2hhdCBpbmZvcm1hdGlvbiBkbyB3ZSBjb2xsZWN0Pzwvc3Ryb25nPjxiciAvPg0KCTxiciAvPg0KCVdlIGNvbGxlY3QgaW5mb3JtYXRpb24gZnJvbSB5b3Ugd2hlbiB5b3UgcmVnaXN0ZXIgb24gb3VyIHNpdGUsIHN1YnNjcmliZSB0byBvdXIgbmV3c2xldHRlciwgcmVzcG9uZCB0byBhIHN1cnZleSBvciBmaWxsIG91dCBhIGZvcm0uPGJyIC8+DQoJPGJyIC8+DQoJV2hlbiBvcmRlcmluZyBvciByZWdpc3RlcmluZyBvbiBvdXIgc2l0ZSwgYXMgYXBwcm9wcmlhdGUsIHlvdSBtYXkgYmUgYXNrZWQgdG8gZW50ZXIgeW91cjogbmFtZSwgZS1tYWlsIGFkZHJlc3MsIG1haWxpbmcgYWRkcmVzcywgcGhvbmUgbnVtYmVyIG9yIHNvY2lhbCBzZWN1cml0eSBudW1iZXIuPGJyIC8+DQoJPGJyIC8+DQoJPHN0cm9uZz5XaGF0IGRvIHdlIHVzZSB5b3VyIGluZm9ybWF0aW9uIGZvcj88L3N0cm9uZz48YnIgLz4NCgk8YnIgLz4NCglBbnkgb2YgdGhlIGluZm9ybWF0aW9uIHdlIGNvbGxlY3QgZnJvbSB5b3UgbWF5IGJlIHVzZWQgaW4gb25lIG9mIHRoZSBmb2xsb3dpbmcgd2F5czo8YnIgLz4NCgk8YnIgLz4NCgkmYnVsbDsgVG8gaW1wcm92ZSBvdXIgd2Vic2l0ZTxiciAvPg0KCSh3ZSBjb250aW51YWxseSBzdHJpdmUgdG8gaW1wcm92ZSBvdXIgd2Vic2l0ZSBvZmZlcmluZ3MgYmFzZWQgb24gdGhlIGluZm9ybWF0aW9uIGFuZCBmZWVkYmFjayB3ZSByZWNlaXZlIGZyb20geW91KTxiciAvPg0KCTxiciAvPg0KCSZidWxsOyBUbyBpbXByb3ZlIGN1c3RvbWVyIHNlcnZpY2U8YnIgLz4NCgkoeW91ciBpbmZvcm1hdGlvbiBoZWxwcyB1cyB0byBtb3JlIGVmZmVjdGl2ZWx5IHJlc3BvbmQgdG8geW91ciBjdXN0b21lciBzZXJ2aWNlIHJlcXVlc3RzIGFuZCBzdXBwb3J0IG5lZWRzKTxiciAvPg0KCTxiciAvPg0KCTxiciAvPg0KCSZidWxsOyBUbyBhZG1pbmlzdGVyIGEgY29udGVzdCwgcHJvbW90aW9uLCBzdXJ2ZXkgb3Igb3RoZXIgc2l0ZSBmZWF0dXJlPGJyIC8+DQoJPGJyIC8+DQoJPGJyIC8+DQoJJmJ1bGw7IFRvIHNlbmQgcGVyaW9kaWMgZW1haWxzPGJyIC8+DQoJPGJyIC8+DQoJVGhlIGVtYWlsIGFkZHJlc3MgeW91IHByb3ZpZGUgbWF5IGJlIHVzZWQgdG8gc2VuZCB5b3UgaW5mb3JtYXRpb24sIHJlc3BvbmQgdG8gaW5xdWlyaWVzLCBhbmQvb3Igb3RoZXIgcmVxdWVzdHMgb3IgcXVlc3Rpb25zLjxiciAvPg0KCTxiciAvPg0KCTxzdHJvbmc+SG93IGRvIHdlIHByb3RlY3QgeW91ciBpbmZvcm1hdGlvbj88L3N0cm9uZz48YnIgLz4NCgk8YnIgLz4NCglXZSBpbXBsZW1lbnQgYSB2YXJpZXR5IG9mIHNlY3VyaXR5IG1lYXN1cmVzIHRvIG1haW50YWluIHRoZSBzYWZldHkgb2YgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiB3aGVuIHlvdSBlbnRlciwgc3VibWl0LCBvciBhY2Nlc3MgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbi48YnIgLz4NCgk8YnIgLz4NCgk8c3Ryb25nPkRvIHdlIHVzZSBjb29raWVzPzwvc3Ryb25nPjxiciAvPg0KCTxiciAvPg0KCVdlIGRvIG5vdCB1c2UgY29va2llcy48YnIgLz4NCgk8YnIgLz4NCgk8c3Ryb25nPkRvIHdlIGRpc2Nsb3NlIGFueSBpbmZvcm1hdGlvbiB0byBvdXRzaWRlIHBhcnRpZXM/PC9zdHJvbmc+PGJyIC8+DQoJPGJyIC8+DQoJV2UgZG8gbm90IHNlbGwsIHRyYWRlLCBvciBvdGhlcndpc2UgdHJhbnNmZXIgdG8gb3V0c2lkZSBwYXJ0aWVzIHlvdXIgcGVyc29uYWxseSBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24uIFRoaXMgZG9lcyBub3QgaW5jbHVkZSB0cnVzdGVkIHRoaXJkIHBhcnRpZXMgd2hvIGFzc2lzdCB1cyBpbiBvcGVyYXRpbmcgb3VyIHdlYnNpdGUsIGNvbmR1Y3Rpbmcgb3VyIGJ1c2luZXNzLCBvciBzZXJ2aWNpbmcgeW91LCBzbyBsb25nIGFzIHRob3NlIHBhcnRpZXMgYWdyZWUgdG8ga2VlcCB0aGlzIGluZm9ybWF0aW9uIGNvbmZpZGVudGlhbC4gV2UgbWF5IGFsc28gcmVsZWFzZSB5b3VyIGluZm9ybWF0aW9uIHdoZW4gd2UgYmVsaWV2ZSByZWxlYXNlIGlzIGFwcHJvcHJpYXRlIHRvIGNvbXBseSB3aXRoIHRoZSBsYXcsIGVuZm9yY2Ugb3VyIHNpdGUgcG9saWNpZXMsIG9yIHByb3RlY3Qgb3VycyBvciBvdGhlcnMgcmlnaHRzLCBwcm9wZXJ0eSwgb3Igc2FmZXR5LiBIb3dldmVyLCBub24tcGVyc29uYWxseSBpZGVudGlmaWFibGUgdmlzaXRvciBpbmZvcm1hdGlvbiBtYXkgYmUgcHJvdmlkZWQgdG8gb3RoZXIgcGFydGllcyBmb3IgbWFya2V0aW5nLCBhZHZlcnRpc2luZywgb3Igb3RoZXIgdXNlcy48YnIgLz4NCgk8YnIgLz4NCgk8c3Ryb25nPlRoaXJkIHBhcnR5IGxpbmtzPC9zdHJvbmc+PGJyIC8+DQoJPGJyIC8+DQoJT2NjYXNpb25hbGx5LCBhdCBvdXIgZGlzY3JldGlvbiwgd2UgbWF5IGluY2x1ZGUgb3Igb2ZmZXIgdGhpcmQgcGFydHkgcHJvZHVjdHMgb3Igc2VydmljZXMgb24gb3VyIHdlYnNpdGUuIFRoZXNlIHRoaXJkIHBhcnR5IHNpdGVzIGhhdmUgc2VwYXJhdGUgYW5kIGluZGVwZW5kZW50IHByaXZhY3kgcG9saWNpZXMuIFdlIHRoZXJlZm9yZSBoYXZlIG5vIHJlc3BvbnNpYmlsaXR5IG9yIGxpYWJpbGl0eSBmb3IgdGhlIGNvbnRlbnQgYW5kIGFjdGl2aXRpZXMgb2YgdGhlc2UgbGlua2VkIHNpdGVzLiBOb25ldGhlbGVzcywgd2Ugc2VlayB0byBwcm90ZWN0IHRoZSBpbnRlZ3JpdHkgb2Ygb3VyIHNpdGUgYW5kIHdlbGNvbWUgYW55IGZlZWRiYWNrIGFib3V0IHRoZXNlIHNpdGVzLjxiciAvPg0KCTxiciAvPg0KCTxzdHJvbmc+T25saW5lIFByaXZhY3kgUG9saWN5IE9ubHk8L3N0cm9uZz48YnIgLz4NCgk8YnIgLz4NCglUaGlzIG9ubGluZSBwcml2YWN5IHBvbGljeSBhcHBsaWVzIG9ubHkgdG8gaW5mb3JtYXRpb24gY29sbGVjdGVkIHRocm91Z2ggb3VyIHdlYnNpdGUgYW5kIG5vdCB0byBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgb2ZmbGluZS48YnIgLz4NCgk8YnIgLz4NCgk8c3Ryb25nPllvdXIgQ29uc2VudDwvc3Ryb25nPjxiciAvPg0KCTxiciAvPg0KCUJ5IHVzaW5nIG91ciBzaXRlLCB5b3UgY29uc2VudCB0byBvdXIgPC9zcGFuPjwvc3Bhbj48L3NwYW4+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJweCI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiB2ZXJkYW5hLGdlbmV2YSxzYW5zLXNlcmlmIj48YSBfbWNlX2hyZWY9IiIgX21jZV9zdHlsZT0idGV4dC1kZWNvcmF0aW9uOiBub25lOyBjb2xvcjogIzNjM2MzYzsiIGhyZWY9Imh0dHA6Ly93d3cuZnJlZXByaXZhY3lwb2xpY3kuY29tLyIgc3R5bGU9ImNvbG9yOiAjM2MzYzNjOyB0ZXh0LWRlY29yYXRpb246IG5vbmUiIHRhcmdldD0iX2JsYW5rIj48c3BhbiBzdHlsZT0iY29sb3I6ICMwMDAiPndlYnNpdGVzIHByaXZhY3kgcG9saWN5PC9zcGFuPjwvYT48L3NwYW4+PC9zcGFuPjxzcGFuIHN0eWxlPSJjb2xvcjogIzAwMCI+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMTJweCI+PHNwYW4gc3R5bGU9ImZvbnQtZmFtaWx5OiB2ZXJkYW5hLGdlbmV2YSxzYW5zLXNlcmlmIj4uPGJyIC8+DQoJPGJyIC8+DQoJPHN0cm9uZz5DaGFuZ2VzIHRvIG91ciBQcml2YWN5IFBvbGljeTwvc3Ryb25nPjxiciAvPg0KCTxiciAvPg0KCUlmIHdlIGRlY2lkZSB0byBjaGFuZ2Ugb3VyIHByaXZhY3kgcG9saWN5LCB3ZSB3aWxsIHBvc3QgdGhvc2UgY2hhbmdlcyBvbiB0aGlzIHBhZ2UuPGJyIC8+DQoJPGJyIC8+DQoJVGhpcyBwb2xpY3kgd2FzIGxhc3QgbW9kaWZpZWQgb24gMjh0aCBTZXB0IDIwMTA8L3NwYW4+PC9zcGFuPjwvc3Bhbj48L3A+DQpkAgoPFgIfAAWGAzx0ZD48YSBocmVmPSd0ZXJtc29mdXNlLmFzcHgnPlRlcm1zIG9mIFVzZTwvYT48L3RkPgo8dGQgY2xhc3M9IndoaXRlYmcyIiB3aWR0aD0iMXB4Ij48L3RkPjx0ZD48YSBocmVmPSdwcml2YWN5cG9saWN5LmFzcHgnPlByaXZhY3kgUG9saWN5PC9hPjwvdGQ+Cjx0ZCBjbGFzcz0id2hpdGViZzIiIHdpZHRoPSIxcHgiPjwvdGQ+PHRkPjxhIGhyZWY9J2ZhcS5hc3B4Jz5GQVE8L2E+PC90ZD4KPHRkIGNsYXNzPSJ3aGl0ZWJnMiIgd2lkdGg9IjFweCI+PC90ZD48dGQ+PGEgaHJlZj0nc2l0ZV9tYXAuYXNweCc+U2l0ZSBNYXA8L2E+PC90ZD4KPHRkIGNsYXNzPSJ3aGl0ZWJnMiIgd2lkdGg9IjFweCI+PC90ZD48dGQ+PGEgaHJlZj0nY29udGFjdC5hc3B4Jz5Db250YWN0IFVzPC9hPjwvdGQ+CmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgQFEmN0bDAwJEltYWdlQnV0dG9uMQUSY3RsMDAkSW1hZ2VCdXR0b24yBQ9jdGwwMCRsb2dpbl9idG4FD2N0bDAwJGJ0TG9nb3V0MR0Va4Rg7aqSsmvQkSuvidoR/iJW">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwLg6oC7BAK33sGJAQK33rWJAQLssvLQAwL+0K6WCgKB7cu1BQKejIxLFJRxCcZQrkCoaMenDVZaHAco9ag=">
+
+<table style="width:960px;" cellpadding="0" cellspacing="0" border="0" align="center">
+    <tbody><tr>
+        <td>
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td height="100" align="left" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="80" align="left"><a href="/" target="_self"><img src="images/logo1.png" border="0" style="behavior: url(iepngfix.htc)"></a></td>
+        <td align="left"><a href="/" target="_self"><img src="images/logo2.png" alt="Institute of Bankers Pakistan" border="0" style="behavior: url(iepngfix.htc)"></a></td>
+      </tr>
+    </tbody></table>      
+      </td>
+    <td width="100" align="right" valign="top">&nbsp;</td>
+    <td width="400" align="right" valign="top" style="padding-top:8px"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td valign="top">
+       <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top" style="padding-top:1px"><p align="center" class="whitea"><a href="#" class="anchorclass myownclass" rel="submenu3">Quick Links<br>
+<img src="images/downarrow.png" vspace="2" border="0"></a></p>
+                                                    
+<div id="submenu3" class="anylinkcsscols">
+
+<div class="column">
+
+	<ul>
+	<li><a href="ISQOverview.aspx">ISQ</a><hr></li>
+<li><a href="Trainings.aspx">IBP Training Programs</a><hr></li>
+<li><a href="ecoletter.aspx">Economic Letter</a><hr></li>
+<li><a href="Location.aspx">IBP Locations</a><hr></li>
+
+	</ul>
+</div>
+</div></td>
+
+
+
+    <td align="center" valign="top" width="260px" style="padding-top:10px"> 
+         <!-- BEGIN IBP LOGO AND SEARH BOX -->
+            <div class="nyuLogoContainer">
+                <!-- LOGO -->
+               
+                <!-- SEARCH -->
+                <div class="nyuSearch">                    
+                    <div id="searchBar">
+                      <table border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td>Search:</td>
+    <td> <input id="searchField" value="Keywords..." type="text" onclick="this.value='';" name="search"></td>
+    <td>   <button id="searchBtn" type="button" onclick="serach_page('home');" style="cursor:pointer;">
+                    </button></td>
+  </tr>
+</tbody></table>
+
+                    </div>
+                 
+                    <ul style="display: none; list-style::none;" id="searchTypes">
+                        <li><label><input type="radio" name="section" id="sction1" style="border:0px;" value="workshops" checked="checked">Workshops </label><span class="searchTypePipe">|</span></li>
+                        <li><label><input type="radio" name="section" id="sction2" value="exams">Exams </label><span class="searchTypePipe">|</span></li>
+                        <li><label><input type="radio" name="section" id="sction3" value="website">Website</label></li>
+                        </ul>                        
+                </div>
+            </div>
+            <!-- END NYU LOGO AND SEARH BOX --></td>
+            
+            
+<!--            <a href="#" class="anchorclass myownclass" rel="submenu3"> id="button"-->
+            <td width="50" align="right" valign="top"><p align="center" class="whitea">
+             
+            <span class="myownclass" style="cursor:pointer;">Login<br>
+<img src="images/downarrow.png" vspace="2" border="0"></span></p>
+        <div id="popupContact">  
+         <a id="popupContactClose" style="cursor:pointer;">x</a>  
+         <div id="contactArea" class="blackcolumn">  
+         
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td align="left">
+                  <table border="0" cellspacing="2" cellpadding="2">
+                      <tbody><tr>
+                        <td width="60px" align="left">User ID:</td>
+                        <td align="left">
+                        <input name="ctl00$TextBox1" type="text" id="ctl00_TextBox1" class="top_login">
+                        </td>
+            <td></td>
+                      </tr>
+                  </tbody></table>
+                  
+                  
+                  </td>
+                  </tr><tr>
+                  
+                  <td><table border="0" cellspacing="2" cellpadding="2">
+                      <tbody><tr>
+                        <td width="60px" align="left">Password:</td>
+                        <td align="left">
+                        <input name="ctl00$TextBox2" type="password" id="ctl00_TextBox2" class="top_login"> 
+                        </td>
+          <td><input type="image" name="ctl00$ImageButton1" id="ctl00_ImageButton1" src="images/submit.png" border="0">
+          </td>
+                      </tr>
+                  </tbody></table>
+                  
+                  
+                  
+                  </td>
+                  </tr>
+                  <tr>
+                  <td>
+                  
+                  
+                  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+   
+    <td align="right" width="70px"><a href="registration.aspx">Register</a>&nbsp;&nbsp;</td>
+    <td class="whitebg" width="1px"></td>
+    <td align="left">&nbsp;&nbsp;<a href="lost_password.aspx">Forget your password?</a></td>
+  </tr>
+</tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+           
+         </div>  
+     </div>  
+     <div id="backgroundPopup"></div>     
+                                       
+</td>
+  </tr>
+</tbody></table>
+
+            
+            </td>
+      </tr><tr>
+        <td align="right">&nbsp;</td>
+      </tr>
+      
+    </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+        </td>
+    </tr>
+    <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>
+
+<div id="colortab" class="ddcolortabs">
+<ul>
+<li><a href="index.aspx" title="Home"><span>Home</span></a></li>
+<li><a href="Whoweare.aspx" rel="dropmenu2" title="          About IBP"><span>          About IBP</span></a></li>
+<li><a href="ISQOverview.aspx" rel="dropmenu13" title="Banking Qualification"><span>Banking Qualification</span></a></li>
+<li><a href="Trainings.aspx" rel="dropmenu12" title="Training"><span>Training</span></a></li>
+<li><a href="ibptrainers.aspx" rel="dropmenu14" title="Trainers"><span>Trainers</span></a></li>
+<li><a href="ecoletter.aspx" rel="dropmenu18" title="Publications"><span>Publications</span></a></li>
+<li><a href="assessmentservices.aspx" rel="dropmenu15" title="Others"><span>Others</span></a></li>
+
+</ul>
+</div>
+
+<div class="ddcolortabsline">&nbsp;</div>
+<div id="dropmenu11" class="dropmenudiv_a">
+</div>
+<div id="dropmenu2" class="dropmenudiv_a">
+<a href="Whoweare.aspx">Who We Are</a>
+<a href="vision_mission.aspx">Vision and Mission</a>
+<a href="Location.aspx">Locations</a>
+<a href="Careers.aspx">Careers</a>
+<a href="contact.aspx">Contact Us</a>
+</div>
+<div id="dropmenu13" class="dropmenudiv_a">
+<a href="ISQOverview.aspx">What is ISQ</a>
+<a href="ISQSyllabus.aspx">Syllabus</a>
+<a href="isqapply.aspx">Registration Process</a>
+<a href="fees.aspx">Fee Structure</a>
+<a href="coachingclasses.aspx">Coaching Classes</a>
+<a href="pastpapers.aspx">Past Papers</a>
+<a href="Schedule.aspx">Exam Schedule and Centers</a>
+<a href="ISQResults.aspx">Results</a>
+</div>
+<div id="dropmenu12" class="dropmenudiv_a">
+<a href="Trainings.aspx">What We Offer</a>
+<a href="certification.aspx">Certified Programs</a>
+<a href="internationalprograms.aspx">International Programs</a>
+<a href="customizedcourses.aspx">Customized Courses</a>
+<a href="calendarprograms.aspx">Calendar Programs</a>
+<a href="training_calendar.aspx">Training Calendar</a>
+<a href="registrationprocess.aspx">Registration Process</a>
+</div>
+<div id="dropmenu14" class="dropmenudiv_a">
+<a href="ibptrainers.aspx">Trainers at IBP</a>
+<a href="becometrainer.aspx">Become a Trainer</a>
+<a href="trainersforum.aspx">Trainers Forum</a>
+<a href="resources.aspx">Resources</a>
+</div>
+<div id="dropmenu18" class="dropmenudiv_a">
+<a href="ecoletter.aspx">Economic Letter</a>
+<a href="quarterly.aspx">Quarterly Journal</a>
+<a href="isqreferencebooks.aspx">ISQ Reference Books</a>
+<a href="bankersdiary.aspx">Bankers Diary</a>
+</div>
+<div id="dropmenu15" class="dropmenudiv_a">
+<a href="assessmentservices.aspx">Assessment Services</a>
+<a href="mba.aspx">MBA Banking Program</a>
+<a href="library.aspx">Library</a>
+<a href="Facilities.aspx">Facilities</a>
+<a href="news.aspx">News</a>
+<a href="gallery.aspx">Picture Gallery</a>
+</div>
+
+<script type="text/javascript">
+//SYNTAX: tabdropdown.init("menu_id", [integer OR "auto"])
+tabdropdown.init("colortab",0);
+</script>
+
+</td>
+  </tr>
+  <tr>
+    <td class="bluebg" height="4px"></td>
+  </tr>
+  <tr><td class="whitebg2"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="165" align="left" valign="top" style="padding-left:4px; padding-top:4px"><table width="100%" border="0" cellspacing="0" cellpadding="0" class="tabborder">
+          <tbody><tr><td align="left" valign="middle" class="leftnavbg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr><td width="20"><img src="/images/bullet.png" style="behavior: url(iepngfix.htc)"></td>
+    <td><a href="index.aspx">Home</a></td>
+   </tr>
+</tbody></table>
+</td>
+</tr>
+<tr>    <td height="2" align="left" class="whitebg"></td>
+</tr>
+<tr><td align="left" valign="middle" class="leftnavbg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr><td width="20"><img src="/images/bullet.png" style="behavior: url(iepngfix.htc)"></td>
+    <td><a href="Whoweare.aspx">          About IBP</a></td>
+   </tr>
+</tbody></table>
+</td>
+</tr>
+<tr>    <td height="2" align="left" class="whitebg"></td>
+</tr>
+<tr><td align="left" valign="middle" class="leftnavbg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr><td width="20"><img src="/images/bullet.png" style="behavior: url(iepngfix.htc)"></td>
+    <td><a href="ISQOverview.aspx">Banking Qualification</a></td>
+   </tr>
+</tbody></table>
+</td>
+</tr>
+<tr>    <td height="2" align="left" class="whitebg"></td>
+</tr>
+<tr><td align="left" valign="middle" class="leftnavbg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr><td width="20"><img src="/images/bullet.png" style="behavior: url(iepngfix.htc)"></td>
+    <td><a href="Trainings.aspx">Training</a></td>
+   </tr>
+</tbody></table>
+</td>
+</tr>
+<tr>    <td height="2" align="left" class="whitebg"></td>
+</tr>
+<tr><td align="left" valign="middle" class="leftnavbg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr><td width="20"><img src="/images/bullet.png" style="behavior: url(iepngfix.htc)"></td>
+    <td><a href="ibptrainers.aspx">Trainers</a></td>
+   </tr>
+</tbody></table>
+</td>
+</tr>
+<tr>    <td height="2" align="left" class="whitebg"></td>
+</tr>
+<tr><td align="left" valign="middle" class="leftnavbg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr><td width="20"><img src="/images/bullet.png" style="behavior: url(iepngfix.htc)"></td>
+    <td><a href="ecoletter.aspx">Publications</a></td>
+   </tr>
+</tbody></table>
+</td>
+</tr>
+<tr>    <td height="2" align="left" class="whitebg"></td>
+</tr>
+<tr><td align="left" valign="middle" class="leftnavbg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr><td width="20"><img src="/images/bullet.png" style="behavior: url(iepngfix.htc)"></td>
+    <td><a href="assessmentservices.aspx">Others</a></td>
+   </tr>
+</tbody></table>
+</td>
+</tr>
+<tr>    <td height="2" align="left" class="whitebg"></td>
+</tr>
+          
+          <tr>
+            <td class="bluebg" height="2px"></td>
+          </tr>
+          
+        </tbody></table></td>
+        <td height="440" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td align="left">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" height="1px"></td>
+          </tr>
+          
+          <tr>
+         <td align="center" height="1px"></td>
+          </tr>
+          <tr>
+            <td align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="20">&nbsp;</td>
+                <td class="text" style="padding-right:20px;">
+               
+        <h1 style="color:#1b8ac1; font-size:16px; padding:0px; margin:0px; font-weight:bold;">Privacy Policy</h1><p>
+	<span style="color: #000"><span style="font-size: 12px"><span style="font-family: verdana,geneva,sans-serif"><strong>What information do we collect?</strong><br>
+	<br>
+	We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.<br>
+	<br>
+	When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or social security number.<br>
+	<br>
+	<strong>What do we use your information for?</strong><br>
+	<br>
+	Any of the information we collect from you may be used in one of the following ways:<br>
+	<br>
+	• To improve our website<br>
+	(we continually strive to improve our website offerings based on the information and feedback we receive from you)<br>
+	<br>
+	• To improve customer service<br>
+	(your information helps us to more effectively respond to your customer service requests and support needs)<br>
+	<br>
+	<br>
+	• To administer a contest, promotion, survey or other site feature<br>
+	<br>
+	<br>
+	• To send periodic emails<br>
+	<br>
+	The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.<br>
+	<br>
+	<strong>How do we protect your information?</strong><br>
+	<br>
+	We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.<br>
+	<br>
+	<strong>Do we use cookies?</strong><br>
+	<br>
+	We do not use cookies.<br>
+	<br>
+	<strong>Do we disclose any information to outside parties?</strong><br>
+	<br>
+	We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br>
+	<br>
+	<strong>Third party links</strong><br>
+	<br>
+	Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.<br>
+	<br>
+	<strong>Online Privacy Policy Only</strong><br>
+	<br>
+	This online privacy policy applies only to information collected through our website and not to information collected offline.<br>
+	<br>
+	<strong>Your Consent</strong><br>
+	<br>
+	By using our site, you consent to our </span></span></span><span style="font-size: 12px"><span style="font-family: verdana,geneva,sans-serif"><a _mce_href="" _mce_style="text-decoration: none; color: #3c3c3c;" href="http://www.freeprivacypolicy.com/" style="color: #3c3c3c; text-decoration: none" target="_blank"><span style="color: #000">websites privacy policy</span></a></span></span><span style="color: #000"><span style="font-size: 12px"><span style="font-family: verdana,geneva,sans-serif">.<br>
+	<br>
+	<strong>Changes to our Privacy Policy</strong><br>
+	<br>
+	If we decide to change our privacy policy, we will post those changes on this page.<br>
+	<br>
+	This policy was last modified on 28th Sept 2010</span></span></span></p>
+
+        <br>
+
+                      </td>
+              </tr>
+            </tbody></table></td>
+          </tr>          
+        </tbody></table></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td class="blackbg" align="center" height="40px">
+         <table border="0" cellspacing="8" cellpadding="0" class="whitea">
+            <tbody><tr>
+                <td><a href="termsofuse.aspx">Terms of Use</a></td>
+<td class="whitebg2" width="1px"></td><td><a href="privacypolicy.aspx">Privacy Policy</a></td>
+<td class="whitebg2" width="1px"></td><td><a href="faq.aspx">FAQ</a></td>
+<td class="whitebg2" width="1px"></td><td><a href="site_map.aspx">Site Map</a></td>
+<td class="whitebg2" width="1px"></td><td><a href="contact.aspx">Contact Us</a></td>
+
+            </tr>
+        </tbody></table>
+    </td>
+  </tr>
+</tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0" width="990" bgcolor="#FFFFFF" align="center" style="display:none;"><tbody><tr><td>
+<div class="main">
+<div class="header">
+	     <div class="header-left-new"><img src="images/logo-ibp.jpg" align="left" alt="IBP" style="margin-top:5px;"></div>
+		 
+		 
+		 <div class="header-right" style="text-align:center;">
+		 <table width="361" border="0" cellspacing="0" cellpadding="0" align="right">
+          <tbody><tr>
+            <td height="94" valign="top" style="background-image:url(images/loginbg.gif); background-repeat:no-repeat;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td height="26">&nbsp;</td>
+              </tr>
+              <tr>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                      <td width="14">&nbsp;</td>
+                    <td align="left"><table border="0" cellspacing="2" cellpadding="2">
+  <tbody><tr>
+    <td>User ID:</td>
+    <td>
+    <input name="ctl00$user_id" type="text" id="ctl00_user_id" class="top_login">
+   
+            </td>
+  </tr>
+</tbody></table></td><td><table border="0" cellspacing="2" cellpadding="2">
+  <tbody><tr>
+    <td>Password:</td>
+    <td>
+     <input name="ctl00$txtPassword" type="password" id="ctl00_txtPassword" class="top_login"> 
+   </td>
+  </tr>
+</tbody></table></td>
+                    <td width="14">&nbsp;</td>
+                  </tr>
+                </tbody></table></td>
+              </tr>
+              <tr>
+                <td height="18px"></td>
+              </tr>
+              <tr>
+                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td width="10"></td>
+                    <td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td><a href="registration.aspx"><img src="images/register.gif" width="65" height="18" border="0"></a></td>
+                        <td>&nbsp;</td>
+                        <td><a href="lost_password.aspx"><img src="images/forgot.gif" width="134" height="18" border="0"></a></td>
+                      </tr>
+                    </tbody></table></td>
+                     <td align="right" valign="top"><input type="image" name="ctl00$login_btn" id="ctl00_login_btn" src="images/submit.gif" border="0">
+                      </td>
+                    <td width="10"></td>
+                  </tr>
+                </tbody></table></td>
+              </tr>
+
+            </tbody></table></td>
+          </tr>
+       
+        </tbody></table>
+		   
+			
+		 </div>
+		 
+	</div>
+	
+	<div class="nav">
+			
+	</div>
+	
+	<div class="nav2">
+		   
+	</div>
+	
+	<table width="990" cellpadding="0" cellspacing="5" height="100%">
+	    <tbody><tr>
+	        <td width="215" valign="top" style="background-image:url(/images/grey_left_repeat.jpg);" class="hide_me">
+	        <div style="border-top:#1b8ac1 solid 4px; background-color:#ffffff; background-image:url(images/arrow-bg1.jpg);">	        
+	                
+	        </div>
+	        
+	        <table border="0" cellpadding="0" cellspacing="0" width="215" style=" background-color:#ffffff;">
+		   <tbody><tr><td style="color:#1b8ac1;border-top:#1b8ac1 solid 4px; font-size:14px; font-weight:bold; padding-left:10px;" bgcolor="#e4e4e4" height="25">
+		   Search
+		   </td>
+		   </tr>
+		   <tr><td style="border:#e8e3e3 solid 1px; font-size:9px; padding-bottom:5px;">
+		        
+		        <table border="0" cellpadding="0" cellspacing="0" style="width: 100%">				
+				<tbody><tr><td height="40" align="center"><input type="text" name="kw" id="kw" value="" class="keyword-search" size="30"></td></tr>
+				<tr><td>
+				<label><input type="radio" name="section" id="sction1" value="workshops" checked="checked">Workshops </label><label><input type="radio" name="section" id="sction2" value="exams">Exams </label>
+				<label><input type="radio" name="section" id="sction3" value="website">Website</label>
+				</td></tr>
+			    <tr><td height="20" align="right">
+			    <span onclick="serach_page('sub');" style="cursor:pointer;">
+			    <font color="#1178c7" style="font-size:12px;"><b>Go&nbsp;&nbsp;</b></font>
+			    </span>
+			    </td></tr>				
+				</tbody></table>
+				
+				</td>
+				</tr>
+				</tbody></table>
+						
+				<table border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-top:5px; background-color:#ffffff;">
+		   <tbody><tr><td style="color:#1b8ac1;border-top:#1b8ac1 solid 4px; font-size:14px; font-weight:bold; padding-left:10px;" bgcolor="#e4e4e4" height="25">
+		   Quick Links
+		   </td>
+		   </tr>
+		   <tr><td style="border:#e8e3e3 solid 1px; font-size:9px; padding-bottom:5px;">
+		        
+		        <table border="0" cellpadding="0" cellspacing="0" width="100%" style=" background-color:#ffffff;">				
+				<tbody><tr><td height="40" align="center">
+				  <select name="quick_links" id="ql" style="width:200px;">				        
+				         
+				  </select>
+				</td></tr>
+				<tr><td height="20" align="right"><span onclick="window.location=document.getElementById('ql').options[document.getElementById('ql').selectedIndex].value;" style="cursor:pointer;"><font color="#1178c7" style="font-size:12px;"><b>Go&nbsp;&nbsp;</b></font></span></td></tr>
+				</tbody></table>
+								
+		   </td></tr>
+		   </tbody></table>
+	        </td>
+	        <td style="width: 10px" class="hide_me">&nbsp;</td>
+	        <td valign="top" class="page_header" width="100%">
+	          </td>
+	     <td style="width:10px;" class="hide_me">&nbsp;</td>
+	    </tr>
+	</tbody></table>
+	
+                      </div>
+</td></tr>
+<tr>
+<td style="height:10px;">
+<img src="/images/spacer.gif" height="10">
+</td>
+</tr>
+<tr>
+    <td style="background-color:Black;" align="center" class="footer hide_me">
+    
+    
+    </td>
+</tr>
+</tbody></table>
+
+
+<script type="text/javascript">
+
+ 
+ function ent_event()
+{ 
+ document.getElementById("aspnetForm").onkeypress=function(e){
+var e=window.event || e
+var keyunicode=e.charCode || e.keyCode
+//Allow alphabetical keys, plus BACKSPACE and SPACE
+return (keyunicode!=13)? true : false
+//return (keyunicode>=65 && keyunicode<=122 || keyunicode==8 || keyunicode==32)? true : false
+}
+}
+ document.getElementById("kw").onkeypress=function(e){
+var e=window.event || e
+var keyunicode=e.charCode || e.keyCode
+//Allow alphabetical keys, plus BACKSPACE and SPACE
+return (keyunicode!=13)? true : false
+//return (keyunicode>=65 && keyunicode<=122 || keyunicode==8 || keyunicode==32)? true : false
+}
+
+</script>
+</form>
+
+</body></html>
