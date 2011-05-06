@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the logisticsjobsite.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227072908id_/http%3A//www.logisticsjobsite.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logisticsjobsite.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506102804id_/http%3A//www.logisticsjobsite.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# Search Transportation & Logistics Jobs & Resumes, Find Career Resources - LogisticsJobsite.com
+# Search Jobs | Transportation Jobs, Logistics Jobs - LogisticsJobSite.com
 
 ### Privacy Policy
 
