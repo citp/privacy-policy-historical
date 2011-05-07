@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carshowp.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106003308id_/http%3A//www.carshowp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carshowp.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507222123id_/http%3A//www.carshowp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | New Car Show
 
@@ -18,4 +18,4 @@ Other Third Party ad servers or ad networks may also use cookies to track users 
 
 The contents of this statement may be altered at any time, at our discretion.
 
-If you have any questions regarding the privacy policy of  New Car Show then you may [contact us](http://www.carshowp.com/contact "Contact Us")
+If you have any questions regarding the privacy policy of  New Car Show then you may [contact us](http://www.carshowp.com/contact)
