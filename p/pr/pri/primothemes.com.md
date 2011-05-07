@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primothemes.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106143022id_/http%3A//www.primothemes.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primothemes.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507221952id_/http%3A//www.primothemes.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy « PriMoThemes.com
 
@@ -74,4 +74,4 @@ Other sites and services powered by WebSharks ( are separate divisions of WebSha
 
 ###### Contacting WebSharks, Inc.
 
-If you have any questions about this privacy statement, the practices of our company, or your dealings with our company, you can contact support using: ( [primothemes@websharks-inc.com](http://www.primothemes.com/support/contact/) ). Or write to: WebSharks, Inc P.O. Box 1409 Loganville, GA 30052 USA.
+If you have any questions about this privacy statement, the practices of our company, or your dealings with our company, you can contact support using: ( [websharks-group@googlegroups.com](http://www.primothemes.com/support/contact/) ). Or write to: WebSharks, Inc P.O. Box 1409 Loganville, GA 30052 USA.
