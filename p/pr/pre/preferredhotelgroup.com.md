@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the preferredhotelgroup.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208185334id_/http%3A//preferredhotelgroup.com/PHG/privacy_policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preferredhotelgroup.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507065238id_/http%3A//www.preferredhotelgroup.com/PHG/privacy_policy/index.aspx) for the most accurate reproduction.*
 
 # Preferred Hotel Group - Privacy Policy
+
+| 
 
 Preferred Hotel Group is committed to providing exceptional service to all of our customers. We believe that we can engage in more relevant communications with you through the intelligent use of information. We understand that you may have questions about the collection and use of information about you. Accordingly, we have prepared this statement to inform you of our Privacy Policy.
 
@@ -16,8 +18,11 @@ Principle 4: All information, including credit card information that you provide
 
 At any time, whether you receive e-mail or direct mail, you may ask us to discontinue use of the information you have provided and request that we refrain from sending any further communications.
 
-You may call us at +800.237.7254, ext. 1020. Please give us your name and address and specify which promotion you received and how (i.e. mail or e-mail), and we will proceed to remove your name and address from all further communications.
+You may call us at +800.237.7254, ext. 9207. Please give us your name and address and specify which promotion you received and how (i.e. mail or e-mail), and we will proceed to remove your name and address from all further communications.
 
 Should you have any questions or concerns about our Consumer Privacy Policy, you may write to us at:
 
 Preferred Hotel Group Consumer Privacy Policy 311 South Wacker Drive, Suite 1900 Chicago, Illinois 60606 USA
+
+|  |   
+---|---|---
