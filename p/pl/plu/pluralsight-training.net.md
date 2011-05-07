@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluralsight-training.net privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122233504id_/http%3A//www.pluralsight-training.net/microsoft/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluralsight-training.net privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507085551id_/http%3A//www.pluralsight-training.net/microsoft/privacy.aspx) for the most accurate reproduction.*
 
 # Pluralsight Privacy Statement
 
@@ -40,7 +40,7 @@ The security of your personal information is important to us. When you enter sen
 
 We store your personal information only on servers with limited access that are located in controlled facilities, and use a variety of technologies and procedures to protect your personal information from unauthorized access, use, or disclosure.
 
-If you have any questions about security on our website, [contact](https://web.archive.org/web/20101122233504id_/http%3A//www.pluralsight-training.net/microsoft/Contact.aspx) us. 
+If you have any questions about security on our website, [contact](https://web.archive.org/web/20110507085551id_/http%3A//www.pluralsight-training.net/microsoft/Contact.aspx) us. 
 
 #### Use of Cookies
 
