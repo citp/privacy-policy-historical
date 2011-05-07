@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sendthetrend.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230143723id_/http%3A//sendthetrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendthetrend.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507080053id_/http%3A//www.sendthetrend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEND THE TREND
 
-## Privacy Policy
+**Privacy Policy**
 
-Thank you for accessing the Web site ("Site") of SendTheTrend.com, ("Send the Trend"), owned by Behind the Burner, LLC. We respect your privacy and want to protect your personal information. To learn more, please read this privacy policy ("Privacy Policy").
+Thank you for accessing the Web site ("Site") of SendTheTrend.com, ("Send the Trend"), owned by Send the Trend,Inc. We respect your privacy and want to protect your personal information. To learn more, please read this privacy policy ("Privacy Policy").
 
 Your privacy is very important to us. Our Privacy Policy spells out Send the Trend's commitment to respecting the privacy of the members and visitors to the Site. We reserve the right to change this policy, which we'll do through online posting. We are very careful with what we do with your information. Collection of information is usually grouped into two categories: personal, which is information identifiable to a specific member, and aggregate, which is general demographic information that does not identify any individual member. Personal information may include your name, email address, mailing address, credit card information and phone number. We may also collect certain demographic information such as your genre preferences, age, gender, geographical location, language, time zone, income and education (some of the information we ask for may be optional). Send the Trend may use or disclose aggregate information for any purpose.
 
@@ -51,7 +51,7 @@ We collect information from you in several different ways on this Site. One goal
 
 (f) **Product Reviews and Testimonials**. You may choose to submit a product review or a testimonial. If you post a review or testimonial, we will ask for your email address and geographic location. If you submit a review or testimonial, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review. We believe you can post a helpful review without disclosing any personal information.
 
-2. <!--[endif]-->Information Use and Disclosure.
+2\. Information Use and Disclosure.
 
 (a) **Internal Use**. We use your personal information to process your order. We may internally use your personal information to improve our Site's content and layout, to improve our outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to this Site.
 
