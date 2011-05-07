@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daysofwonder.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221184527id_/http%3A//www.daysofwonder.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daysofwonder.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507023042id_/http%3A//www.daysofwonder.com/en/about/privacy) for the most accurate reproduction.*
 
 # Days of Wonder Privacy Policy - Get Board Game Fever! | Days of Wonder
 
