@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kabbalah.info privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230185643id_/http%3A//www.kabbalah.info/engkab/homepage/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabbalah.info privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507032859id_/http%3A//www.kabbalah.info/engkab/homepage/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | kabbalah.info
 
