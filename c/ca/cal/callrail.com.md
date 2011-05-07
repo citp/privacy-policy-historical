@@ -1,58 +1,61 @@
-> *The following text is extracted and transformed from the callrail.com privacy policy that was archived on 2008-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080222133055id_/http%3A//callrail.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callrail.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507040405id_/http%3A//www.callrail.com/privacy) for the most accurate reproduction.*
 
-# Canadian Pharmacy
+# Privacy Policy | CallRail
 
-[](https://web.archive.org/web/20080222133055id_/http%3A//callrail.com/contacts.php)
+### What information do we collect?
 
-What does Generic stand for?
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
 
-Generic means using a different name for the same ingredients. The contents of the pills are absolutely the same in our generic version and the branded analogue.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Why is your product so cheap?
+### What do we use your information for?
 
-There is a number of reasons for that. We do not spend anything on marketing, there are no taxes to be paid as the product comes into the country unregistered, the manufacturer is located in an offshore zone and the production costs are way lower. No child labor is used.
+Any of the information we collect from you may be used in one of the following ways:
 
-Where are your Physicians Licensed?
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions (Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.)
+  * To send periodic emails (The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.)
 
-Our physicians are U.S licensed. We use only board certified physicians and U.S licensed pharmacies.
 
-How do you ship orders?
 
-We can offer 2 shipping methods at the moment: Trackable Courier Service: the packages sent by this postal service can by tracked by the tracking number supplied after the order is shipped. 
+### How do we protect your information?
 
-| 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order
 
-To report any abuse or violations of the Canadian Pharmacy service, please [send us a message](https://web.archive.org/contacts.php). We will follow up with you and make every effort to trace the origin of the message. Feel free to [contact us](https://web.archive.org/contacts.php) with any questions or concerns regarding this privacy policy. 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-**Web Site Information Collection**   
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name or IP address, but not the e-mail address. Unless otherwise stated on our web site, we collect only the domain name or IP address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and registrations to access portions of the site and their related services or to set up a Canadian Pharmacy account. 
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-**Use of Web Site Information Collected**   
-The information we collect is used to create an aggregate demographic profile of our user base so that we can improve the content and services of our Web site and provide aggregate information to potential advertisers (no individual information is provided to any third-party without your consent), to customize the content and/or layout of our page for each individual visitor, to notify consumers about updates to our Web site and services, to send visitors our opt-in e-mail newsletter(s) (if requested by the visitor), to provide users with the products and/or services for which they signed-up or registered which may include sending service disruption notices or other service- or product-related information via e-mail, and is not shared with other organizations for commercial purposes without the visitor's consent. 
+### Do we use cookies?
 
-**Use of Your Email Information**   
-Canadian Pharmacy is not an email list rental service and does not rent or sell any email addresses or other contact information that you provide. 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-**E-mail and Direct Response Contact**   
-All of our direct response methods are opt-in. If you subscribed to our e-mail newsletter(s) but do not want to receive it in the future, please follow the "unsubscribe" instructions contained in the newsletter(s). 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-**Postal Address Collection and Use**   
-If you supply us with your postal address on-line, we will use it to send you the product for which you provided us your address. If you supply us with your telephone number on-line, we will use it to contact you with information regarding your account, orders your have placed, or with information regarding your inquiry. We **will not** send you information about additional services that we offer and we **will not** rent or sell your contact information to any third parties without your permission. 
+### Do we disclose any information to outside parties?
 
-**Cookies**   
-We, and some of our partners who provide some of the services and products on our site, use cookies to record session information, such as past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends, and to enable access to specific areas on the web site. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Changes to Privacy Policy**   
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this Privacy Policy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site's Privacy Policy page to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site's Privacy Policy page periodically. 
+### Third party links
 
-© 2002-2005 Canadian Pharmacy, Inc. All Rights Reserved. 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Last Updated: March 4, 2005 
+### Childrens Online Privacy Protection Act Compliance
 
-|  | 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Licensed by The College of Pharmacists of British Columbia.
+### Terms and Conditions
 
-If you have any questions or concerns you can contact the college at 200-1765 West 8th Ave. Vancouver, BC, Canada V6J 5C6 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.callrail.com/legal>.
 
-You may contact us at +1(210) 888-9089, please, keep your order I.D. every time you make a call.
+### Consent, Changes, & Contact
+
+By using our site, you consent to our online privacy policy. If we decide to change our privacy policy, we will post those changes on this page.
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+PO Box 250111  
+Atlanta, GA 30325  
+support@callrail.com
