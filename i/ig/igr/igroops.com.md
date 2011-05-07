@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igroops.com privacy policy that was archived on 2010-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100123153020id_/http%3A//www.igroops.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igroops.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507140200id_/http%3A//www.igroops.com/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
