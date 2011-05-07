@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229112218id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507055951id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
 
 # Opodo
 
@@ -78,5 +78,5 @@ If you wish us to stop sending you newsletters or details of other offers and pr
 ---|---  
   
 **How safe are my details?**  
-To find out more, read our  [ Privacy](http://www.opodo.co.uk/opodo/StrutsServlet/PrivacyPopUp?pageName=privacy&Int_Id=PS_1.0&locale=en_GB)  
-and  [ Security](http://www.opodo.co.uk/opodo/StrutsServlet/SecurityPopUp?pageName=security&Int_Id=PS_1.0&locale=en_GB)  policies
+To find out more, read our  [ Privacy](http://www.opodo.co.uk/opodo/StrutsServlet/PrivacyPopUp;jsessionid=B3660F287526D272C90622F03521DEA1.jbossFenlive2nodeB2?pageName=privacy&Int_Id=PS_1.0&locale=en_GB_123)  
+and  [ Security](http://www.opodo.co.uk/opodo/StrutsServlet/SecurityPopUp;jsessionid=B3660F287526D272C90622F03521DEA1.jbossFenlive2nodeB2?pageName=security&Int_Id=PS_1.0&locale=en_GB_123)  policies
