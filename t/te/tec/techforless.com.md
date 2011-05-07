@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231171716id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techforless.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507060304id_/http%3A//www.techforless.com/cgi-bin/tech4less/privacy_new) for the most accurate reproduction.*
 
 # Our Policy in Summary - Tech for Less
 
@@ -71,7 +71,7 @@ With Visa's Zero Liability policy*, your liability for unauthorized transactions
 
 ### Confirmation, Pricing and Availability Information:
 
-Tech for Less LLC makes every effort to get your order to you as soon as possible. All advertised products are in stock. When you place your order before 4:00 pm M.S.T., we will ship your order the same business day. If there is a problem with your order you will receive an email providing more details about the problem within one business day. Special and Custom orders may take longer to process. 
+Tech for Less LLC makes every effort to get your order to you as soon as possible. All advertised products are in stock. If you place your order by 5pm MST and select 3-day or faster shipping we will ship it the same business day. All other orders ship within 2 business days. If there is a problem with your order you will receive an email providing more details about the problem within one business day. Special and Custom orders may take longer to process. 
 
 ### Payment information:
 
@@ -99,4 +99,4 @@ E-mail: [sales@techforless.com](mailto:sales@techforless.com)
   
 ---|---  
   
-*Lowest internet price is the lowest price we've recently found on the Web from another reputable merchant.
+*The Compare At price is the lowest price we've recently found on the Web from another reputable merchant.
