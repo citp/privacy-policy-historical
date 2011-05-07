@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the getaroom.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105124606id_/http%3A//news.getaroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaroom.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507235939id_/http%3A//news.getaroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hotels - Cheap Hotel Rates - Rooms & Reservations
+
+[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.getaroom.com/seal_m "Validate TRUSTe privacy certification")
 
 ### GETAROOM PRIVACY POLICY
 
@@ -8,7 +10,7 @@ We respect your privacy. We will not provide your personal information to third 
 
 We send you information you want. You may choose whether and to what extent you receive marketing messages from Getaroom. Once you are registered, you can click on “My Reservations” and select the “Email” tab where you have a choice to opt in or out at any time to receive the following: email newsletters, email promotions, and email deals. If you are receiving the stated emails above and decide you no longer wish to receive this or any additional marketing material from us, you can indicate your preference on your “My Reservations” tab. It clearly shows you how to uncheck any boxes you may have checked prior and will update your preferences after you click the save button.
 
-If you no longer wish to receive our newsletter and promotional email communications, you may opt out of receiving them by going to your “My Reservations” Tab or by emailing us at [customerservice@getaroom.com](mailto:customerservice@getaroom.com) , or by calling Customer Care at 800-HOTELS-8 (800-468-3578).
+If you no longer wish to receive our newsletter and promotional email communications, you may opt out of receiving them by going to your “My Reservations” Tab or by emailing us at [customerservice@getaroom.com](mailto:customerservice@getaroom.com) or by calling Customer Care at 800-HOTELS-8 (800-468-3578).
 
 Also, you will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
@@ -18,7 +20,11 @@ Your privacy is very important to us. We do not sell, rent, loan or disclose you
 
 The privacy practices of this statement apply to our services available under the domain [ www.getaroom.com](http://www.getaroom.com/) (the “Site”). By visiting the Site, you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our Site.
 
-This Privacy Policy describes the information we collect from you, as part of the normal operation of our services, and what may happen to that information. Because we believe you should know as much as possible about Getaroom ’s practices, we have prepared a detailed policy so that you can make informed decisions.
+This Privacy Policy describes the information we collect from you, as part of the normal operation of our services, and what may happen to that information. Because we believe you should know as much as possible about Getaroom’s practices, we have prepared a detailed policy so that you can make informed decisions.
+
+### Important Information.
+
+Getaroom has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact Customer Care at [customerservice@getaroom.com](mailto:customerservice@getaroom.com) or call Customer Care at 800-HOTELS-8 (800-468-3578). If you are not satisfied with our response [you can contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 ### Information We Collect.
 
@@ -42,7 +48,7 @@ We use your personal information to facilitate the services you request. We use 
 
 You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyze site usage, improve our content and product offerings, and customize the Site’s content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site.
 
-You agree that we may use with your permission via the “My Reservations” tab, your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product and services offerings of Getaroom or third parties, and communications relevant to your use of the Site. By opting in to receive this communication on the “My Reservations” tab of our Web Site, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications under the notification preferences on the “My Reservations” tab of our Web Site. You may make changes to your notification preferences on the “My Reservations” tab at any time or you may contact a customer service representative at [ customerservice@getaroom.com](mailto:customerservice@getaroom.com) . We reserve the right to send you specific administrative notices that are required by law, regulation or as needed to service your account.
+You agree that we may use with your permission via the “My Reservations” tab, your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product and services offerings of Getaroom or third parties, and communications relevant to your use of the Site. By opting in to receive this communication on the “My Reservations” tab of our Web Site, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications under the notification preferences on the “My Reservations” tab of our Web Site. You may make changes to your notification preferences on the “My Reservations” tab at any time or you may contact a customer service representative at [ customerservice@getaroom.com](mailto:customerservice@getaroom.com). We reserve the right to send you specific administrative notices that are required by law, regulation or as needed to service your account.
 
 ### Our Disclosure of Your Information.
 
@@ -64,7 +70,7 @@ You are responsible for all actions taken with your Customer ID and password. Th
 
 We offer you the ability to automatically review and change the information you submit to us by logging into the Site and entering in the new information yourself. Generally, we will not modify your personal information based on your request because it is very difficult to authenticate your account manually. You can change your Customer ID, password, email address, contact information, user preferences and other information by going to the preferences and setup section in the user profile section of the site. You must promptly update your personal information if it changes or is inaccurate.
 
-Upon your request, we will deactivate your account, contact information and all other information from our active databases. To make this request, email [ customerservice@getaroom.com](mailto:customerservice@getaroom.com) . Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our deactivation policy and applicable law.
+Upon your request, we will deactivate your account, contact information and all other information from our active databases. To make this request, email [ customerservice@getaroom.com](mailto:customerservice@getaroom.com). Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our deactivation policy and applicable law.
 
 We will retain in our files some personal information you have requested to remove to prevent fraud, troubleshoot problems, assist with any investigations, enforce our agreements with you and comply with legal requirements as is permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such personal information will only be available to select Getaroom personnel.
 
