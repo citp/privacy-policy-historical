@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108175043id_/http%3A//www.bluebunny.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebunny.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507111507id_/http%3A//www.bluebunny.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Blue Bunny Privacy Policy
 
-### WWW.BLUEBUNNY.COM PRIVACY POLICY
+## WWW.BLUEBUNNY.COM PRIVACY POLICY
 
-Wells’ Dairy, Inc. is a family owned business and we respect your privacy. Any personally identifiable information such as your name, address, telephone number, or e-mail address that you give to us via the WWW.BLUEBUNNY.COM website or by other methods such as email, phone call or US Mail is kept in strict confidence.
+Wells Enterprises, Inc. is a family owned business and we respect your privacy. Any personally identifiable information such as your name, address, telephone number, or e-mail address that you give to us via the WWW.BLUEBUNNY.COM website or by other methods such as email, phone call or US Mail is kept in strict confidence.
 
-Wells’ Dairy, Inc., and WWW.BLUEBUNNY.COM (collectively “we” or “our”) do not knowingly collect any information whatsoever from anyone under the age of 18. For those 18 and older, we do not collect personally identifiable information on this website or otherwise unless you choose to give it to us via email, an online registration form, a phone call, or by US Mail. Even when you choose to give us personally identifiable information, we keep it confidential.
+Wells Enterprises, Inc., and WWW.BLUEBUNNY.COM (collectively “we” or “our”) do not knowingly collect any information whatsoever from anyone under the age of 18. For those 18 and older, we do not collect personally identifiable information on this website or otherwise unless you choose to give it to us via email, an online registration form, a phone call, or by US Mail. Even when you choose to give us personally identifiable information, we keep it confidential.
 
 We do not sell, rent, share, or otherwise disclose mailing lists or other personally identifiable information, except as follows:
 
@@ -38,4 +38,4 @@ Any material changes to these privacy terms and conditions will be posted on our
 
 ### PRIVACY POLICY EFFECTIVE DATE: 4/20/2007
 
-If you have any questions about this privacy statement or this web site, please feel free to [contact us](https://web.archive.org/web/20100108175043id_/http%3A//www.bluebunny.com/About/ContactUs.aspx).
+If you have any questions about this privacy statement or this website, please feel free to [contact us](https://web.archive.org/web/20110507111507id_/http%3A//www.bluebunny.com/About/ContactUs.aspx).
