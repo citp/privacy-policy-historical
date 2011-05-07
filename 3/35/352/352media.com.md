@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 352media.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221021616id_/http%3A//www.352media.com/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 352media.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507091719id_/http%3A//www.352media.com/Privacypolicy.aspx) for the most accurate reproduction.*
 
-# web design company, Web development - 352 Media Privacy Policy for Web site development - 352 Media Group®
+# web design company, Web development - 352 Media Privacy Policy for Web site development - 352 Media Group
 
 Silverscape Technologies, Inc. d/b/a 352 Media Group (“352 Media”) respects the privacy of its customers and the visitors and users of its websites.
 
