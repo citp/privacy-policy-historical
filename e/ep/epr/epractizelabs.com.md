@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epractizelabs.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204042834id_/http%3A//www.epractizelabs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epractizelabs.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507053259id_/http%3A//www.epractizelabs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
