@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the banks.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221080322id_/http%3A//www.banks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banks.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507231914id_/http%3A//www.banks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mortgage Rates, Refinance Rates, and CD Rates
 
-Internet Revenue Services, Inc., the owner and operator of Banks.Com, has created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy describes our practices regarding the collection and use of information submitted through our U.S. website, Banks.com (the “Site”). By using our Site, you agree to the collection and use of information as set forth in this Policy. If you do not agree to this Policy, please do not use the Site. This Policy is the sole authorized statement of our practices concerning the collection, use and protection of personal information obtained through this Site.
+Banks.com, Inc., the owner and operator of Banks.Com, has created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy describes our practices regarding the collection and use of information submitted through our U.S. website, Banks.com (the “Site”). By using our Site, you agree to the collection and use of information as set forth in this Policy. If you do not agree to this Policy, please do not use the Site. This Policy is the sole authorized statement of our practices concerning the collection, use and protection of personal information obtained through this Site.
 
 We may update this Policy from time to time. We will notify you of material changes to this Policy by posting the updated Policy on this page. You can determine when this Policy was last revised by checking the “Effective Date of Current Policy” legend at the top of this Policy.
 
@@ -20,7 +20,7 @@ Additionally, we allow third parties to place ads on our Site. These ads may con
 
 **Third-Party Websites**
 
-Our Site contains links to other websites, including sites that we do not own or operate. Unless otherwise expressly stated, Internet Revenue Services, Inc. is not responsible for the privacy practices or the content of such websites, including such sites’ use of any information collected when Site visitors click through links to those sites. We encourage you to read the Privacy Policies of websites linked to our Site.
+Our Site contains links to other websites, including sites that we do not own or operate. Unless otherwise expressly stated, Banks.com, Inc. is not responsible for the privacy practices or the content of such websites, including such sites’ use of any information collected when Site visitors click through links to those sites. We encourage you to read the Privacy Policies of websites linked to our Site.
 
 **Security**
 
