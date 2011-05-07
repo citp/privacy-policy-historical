@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshnmarine.com.sg privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210231316id_/http%3A//freshnmarine.com.sg/estore/privacy.php%3FosCsid%3D8b05e4d0250933a91fe4246c0b531764) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshnmarine.com.sg privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507095449id_/http%3A//freshnmarine.com.sg/estore/privacy.php) for the most accurate reproduction.*
 
 # fresh 'n' marine aQuarium Singapore
 
