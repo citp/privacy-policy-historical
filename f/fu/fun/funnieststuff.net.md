@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnieststuff.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121102652id_/http%3A//www.funnieststuff.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnieststuff.net privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507105249id_/http%3A//www.funnieststuff.net/privacy.php) for the most accurate reproduction.*
 
 # Funniest Stuff on the Net!
 
