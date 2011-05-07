@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rownine.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105113506id_/http%3A//www.rownine.com/aboutus.aspx%3Fpage%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rownine.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507023514id_/http%3A//www.rownine.com/aboutus.aspx%3Fpage%3D5) for the most accurate reproduction.*
 
 # RowNine - The finer things ... for less
 
