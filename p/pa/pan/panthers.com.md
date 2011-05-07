@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130061640id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508015723id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Carolina Panthers | Privacy Policy
 
@@ -32,6 +32,7 @@ Please read the information below to learn more about our data collection polici
   10. [Your California Privacy Rights](http://www.panthers.com/about-us/privacy-policy.html#10)
   11. [Questions About This Privacy Policy](http://www.panthers.com/about-us/privacy-policy.html#11)
 
+  
 
 
 #### Types Of Information That May Be Collected
@@ -66,7 +67,7 @@ Transaction Information: If you conduct a financial transaction with our Website
 
 #### How We Use The Information Collected
 
-As applicable, the information you provide to us may be used to contact you about the Website; contact you relating to your membership status; confirm or fulfill an order you have made; inform you of a prize you have won; monitor or improve the use of the Website; customize the advertising and content you see; monitor compliance with our terms and conditions of use of the Website; and send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties. 
+As applicable, the information you provide to us may be used to contact you about the Website; contact you relating to your membership status; confirm or fulfill an order you have made; inform you of a prize you have won; monitor or improve the use of the Website; customize the advertising and content you see; monitor compliance with our terms and conditions of use of the Website; and send you promotional material or special offers on behalf of our marketing partners and/or their respective affiliates and subsidiaries and other third parties.
 
 #### With Whom The Information May Be Shared
 
@@ -90,11 +91,11 @@ Administrative or Legal Process: Your personal information may be transferred to
 
 #### Links To Other Web Sites
 
-You should be aware that when you are on the Website you could be directed to other Websites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Website onto a different Website. This includes links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Website, you should consult that Website's privacy policy before providing any personal information. 
+You should be aware that when you are on the Website you could be directed to other Websites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Website onto a different Website. This includes links from advertisers, sponsors and marketing partners that may use the Website's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Website, you should consult that Website's privacy policy before providing any personal information.
 
 #### Security
 
-This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect, and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required. 
+This Website incorporates reasonable safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information that we may collect, and we have put into place reasonable precautions to protect such information from loss, misuse and alteration. Only those employees who need access to your information in order to do their jobs are allowed access. Our security policies are reviewed periodically and revised as required.
 
 #### A Special Note For Parents Concerning Privacy
 
@@ -104,15 +105,15 @@ The Internet offers children wonderful educational and entertainment resources. 
 
 #### Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy
 
-By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and/or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address. 
+By using this Website, you signify your agreement to the terms of our privacy policy. We may amend this privacy policy at any time. If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on our website and/or send an email to users who have provided an email address. We will assume that you have given your permission for your information to be used under the terms of the new privacy policy, if you do not respond to our email within thirty days or continue to use the Website thirty days after a notice is posted. Please note that you should always update your personal information to provide us with a current email address.
 
 #### Correcting/Updating Personal Information
 
-If your personally identifiable information changes, such as your email address or zip code, or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, using an opt out, replying to unsubscribe, or emailing us at [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com). We will respond to your request within 30 days. 
+If your personally identifiable information changes, such as your email address or zip code, or if you no longer desire to access our Website, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, using an opt out, replying to unsubscribe, or emailing us at [privacy@panthers.nfl.com](mailto:privacy@panthers.nfl.com). We will respond to your request within 30 days.
 
 #### Your California Privacy Rights
 
-A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes. 
+A California privacy law that went into effect on January 1, 2005, allows California residents to obtain specific information about a business's privacy practices if it shares information with other companies for those companies' direct marketing purposes.
 
 As explained in this privacy policy, whenever you agree to let us collect personal information about you, we will always provide you with an option to prevent this information from being shared for non-administrative purposes with third parties. You can exercise this option at any time by following the steps outlined above.
 
