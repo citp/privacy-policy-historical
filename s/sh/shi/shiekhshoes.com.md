@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shiekhshoes.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815121514id_/http%3A//www.shiekhshoes.com/store/t-privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiekhshoes.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507082643id_/http%3A//www.shiekhshoes.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**
+Privacy Policy
 
 The privacy policy adopted by Shiekh is designed to provide you with an understanding of the type of information we collect, how it is done, and what we do with this information. Shiekh is the sole owner of this information and it is never shared, sold or rented to anyone not disclosed in this statement.
 
@@ -12,7 +12,7 @@ Shiekh is not responsible for any content of information collected from non-Shie
 
 **Information Collection and Use**
 
-Information Collected: Information is collected from a number of places on the web site including customer order and account registration forms. The goal in collecting this information is to make ordering more efficient and your shopping experience more meaningful. This information may be shared with our stores in order to better serve our customers who shop on line and in the stores. 
+Information Collected: Information is collected from a number of places on the web site including customer order and account registration forms. The goal in collecting this information is to make ordering more efficient and your shopping experience more meaningful. This information may be shared with our stores in order to better serve our customers who shop online and in the stores. 
 
 Registration and Ordering. During the order process we will ask you for information including, but not limited to your name, shipping and billing address, phone number, email address, and credit card number. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you. 
 
@@ -40,16 +40,19 @@ Our users are given the opportunity to “opt-out” of having their information
 
 Any changes to our privacy policy will be posted on our website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Additionally, if at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email. At that time, you will have a choice as to whether we use your information in this different manner.
 
+We partner with FetchBack to serve ads and/or collect certain information when you visit our website. FetchBack may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit www.networkadvertising.org. 
+
+NAI Opt Out Page:  
+[www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+FetchBack Opt Out Page:   
+[www.FetchBack.com/optout.html ](http://www.fetchback.com/optout.html)
+
 If you feel that we are not abiding by our posted privacy policy, you should first contact:
 
 Shiekhshoes.com Customer Service  
 4083 East Airport Drive  
 Ontario, CA 91761 
 
-Contact us via Email
+  
 
-[[ _Continue Shopping_](http://www.shiekhshoes.com/store) _]_
-
- __
-
-_ _
