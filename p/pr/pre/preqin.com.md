@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229002922id_/http%3A//www.preqin.com/item/privacy-policy/100/1592) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preqin.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507222142id_/http%3A//www.preqin.com/item/privacy-policy/100/1592) for the most accurate reproduction.*
 
 # About - Privacy Policy
 
@@ -78,8 +78,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.preqin.com](https://web.archive.org/)  
-Preqin Ltd, Scotia House, 33 Finsbury Square  
-London EC2A 1BB, UK  
+[http://www.preqin.com](https://web.archive.org/)
+
+Preqin Ltd, Equitable House, 47 King William Street,  
+London EC4R 9AF, UK  
 [info@preqin.com](mailto:info@preqin.com)  
-+44 (0)20 7065 5100
++44 (0)20 7645 8888
