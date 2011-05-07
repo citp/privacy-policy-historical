@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emarketer.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231075011id_/http%3A//www.emarketer.com/AboutUs.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketer.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507232122id_/http%3A//www.emarketer.com/AboutUs.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.*
 
 # About Us - eMarketer
 
@@ -6,7 +6,7 @@ Information Gathered
 
 eMarketer gathers information about its users in order to offer useful and easily accessible online content while providing privacy protection.
 
-**1\. Web site Visitors and Newsletter Subscribers:**  
+**1\. Web site Visitors and Newsletter Subscribers:**   
 eMarketer catalogs traffic patterns throughout the site through non-invasive click-through tracking. eMarketer develops summary—not individual—reports for our advertisers. For example, we will report that "12,000 people clicked on advertisement X today and they were in the Reports section of the site."
 
 **2\. Product Purchasers:**  
