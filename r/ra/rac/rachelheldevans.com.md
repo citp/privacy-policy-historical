@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rachelheldevans.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103234729id_/http%3A//rachelheldevans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachelheldevans.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507033920id_/http%3A//rachelheldevans.com/privacy) for the most accurate reproduction.*
 
 # Rachel Held Evans | Privacy Policy
+
+## RachelHeldEvans.com Privacy Policy
 
 **What you say may be used by Rachel in books and blog posts.**  
 By using this site, and/or contacting Rachel you hereby understand and give Rachel license to use without limitation any of your submitted messages, emails or comments in future works created by Rachel including but not limited to future books and blog posts.
