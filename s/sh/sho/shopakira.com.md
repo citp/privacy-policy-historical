@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopakira.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107191217id_/http%3A//www.shopakira.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopakira.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507041527id_/http%3A//www.shopakira.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | ShopAKIRA
 
-This privacy policy applies to the online commerce services of AKIRA CHICAGO ("AKIRA") at 1837 W. North Ave., Chicago, IL 60622, USA. This policy is for protection of your information and privacy. AKIRA is committed to protecting your privacy and understands that your personal information is indeed private, and we only use personal information that you provide to help create a more customized shopping experience for you.
+This privacy policy applies to the online commerce services of AKIRA CHICAGO ("AKIRA") at 1430 W. Willow Street, Chicago, IL 60642, USA. This policy is for protection of your information and privacy. AKIRA is committed to protecting your privacy and understands that your personal information is indeed private, and we only use personal information that you provide to help create a more customized shopping experience for you.
 
 ## Information
 
@@ -33,4 +33,4 @@ Should you forget your password, we will email you a new temporary password. Bec
 
 ## Contact Us
 
-To contact AKIRA with a question or comment regarding this policy, click here to contact us or telephone 1-877-477-2299.
+To contact AKIRA with a question or comment regarding this policy, click here to contact us or telephone 1-866-477-2299.
