@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the servicem8.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029025202id_/http%3A//www.servicem8.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicem8.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507233502id_/http%3A//www.servicem8.com/privacy-policy) for the most accurate reproduction.*
 
-# ServiceM8 - Privacy Policy
+# Privacy Policy | ServiceM8
 
 ServiceM8 (Service Mate) respects your online time and privacy. We only send our newsletter to customers and people who have signed up to receive it. It is our policy:
 
