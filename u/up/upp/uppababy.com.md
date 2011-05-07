@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uppababy.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615225822id_/http%3A//www.uppababy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppababy.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507122444id_/http%3A//uppababy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
