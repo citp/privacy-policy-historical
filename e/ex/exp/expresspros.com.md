@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expresspros.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126142359id_/http%3A//www.expresspros.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expresspros.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507055253id_/http%3A//www.expresspros.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Express Employment Professionals
 
