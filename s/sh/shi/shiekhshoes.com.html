@@ -1,640 +1,351 @@
-<!--The following is the downloaded HTML source of the shiekhshoes.com privacy policy that was archived on 2009-08-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090815121514id_/http%3A//www.shiekhshoes.com/store/t-privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shiekhshoes.com privacy policy that was archived on 2011-05-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110507082643id_/http%3A//www.shiekhshoes.com/t-privacy.aspx) for the most accurate reproduction.-->
 
-<html><head>
-    <meta http-equiv="Content-Language" content="en-us">
-    <!-- ASPDNSF: %NOLEFTCOL% -->
-    <!-- ASPDNSF: %NORIGHTCOL% -->
-    <!-- Begin IA Modification -->
-    <title>Privacy Policy</title>
-    <meta name="MSSmartTagsPreventParsing" content="TRUE">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="rating" content="General">
-    <meta name="MS.LOCALE" content="EN-US">
-    <meta http-equiv="Classification" content="shiekh shoes">
-    <meta name="URL" content="http://www.shiekhshoes.com">
-    <meta name="revisit-after" content="31 days">
-    <meta name="DC.Title" content="Shiekh Shoes - Shop Men’s, Women’s, and Kids shoes and apparel">
-    <meta name="DC.Subject" content="Shiekh shoes, 310 motoring, lugz, stacy adams shoes, pony shoes, phat farm shoes, ecko, timberland shoes, k-swiss, converse shoes, puma shoes, fila shoes, lacoste shoes, reebok shoes, nike shoes">
-    <meta name="DC.Description" content="Shiekh Shoes - Shop Men’s, Women’s, and Kids shoes and apparel">
-    <meta name="DC.Coverage.PlaceName" content="Global">
-    <meta name="VW96.objecttype" content="Shiekh shoes, 310 motoring, lugz, stacy adams shoes, pony shoes, phat farm shoes, ecko, timberland shoes, k-swiss, converse shoes, puma shoes, fila shoes, lacoste shoes, reebok shoes, nike shoes">
-    <meta name="CATEGORY" content="home page">
-    <meta name="distribution" content="global">
-    <meta name="robots" content="noodp,index,follow">
-    <meta name="description" content="Affordable shoes, sandals, boots and apparel for men, women and kids' of all ages! With over 150 brands to choose from and free continental US shipping!">
-    <meta name="keywords" content="womens, women's, womans, woman's, mens, men's, mans, man's, kids', boys, girls, toddler, infants, crib, casuals, casual, dress, shoes, shoes, sandals, sandal, boots, boot, strappy, espadrille, high, heel, low, flats, discount, shoes, sale, basketball, driving mocs, boat, athletic, sneakers, wedge, stiletto, stilettos, flip flops, thongs, platform, slingback, t-strap, espadrille, maryjance, knee, thigh, ankle, midcalf, pastry, baby phat, handbags, purses, diesel, clothes, michael antonio, adidas, puma, reebok, lacoste, ben sherman, EMU australia, skechers, sanuk, timberland, soda, wild diva, ">
-     <!--End IA Modifications-->
+    <title>Privacy Policy</title>
+    <meta name="description" content="Affordable shoes, sandals, boots and apparel for men, women and kids of all ages! With over 150 brands to choose from and free shipping in the continental US of order of $35 or more!">
+    <meta name="keywords" content="womens shoes,womens boots,womens sandals,athletic shoes,mens shoes,mens boots,kids shoes, kids boots, toddlers shoes, infant shoes, crib shoes, discount shoes, discount boots, discount sandals, athletic shoes, skate shoes, skateboard shoes, sale shoes, sale boots, stilletto heels, wedges, espadrilles, flats, knee high boots, thigh high boots">
+    <link rel="stylesheet" href="skins/Skin_2/style.css" type="text/css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="jscripts/formValidate.js"></script>
+    <script type="text/javascript" src="jscripts/shiekh.js"></script><link rel="stylesheet" type="text/css" href="skins/Skin_2/ajaxpagination.css">
+    <script type="text/javascript" src="https://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.min.js">   
+    </script>
     
-    <link rel="stylesheet" href="/store/skins/Skin_1/style.css" type="text/css">
-    <script type="text/javascript">_dynarch_menu_url = "skins/skin_1/";</script>
-    <script type="text/javascript" src="formValidate.js"></script>
-	
-
     <script type="text/javascript">
-        
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+        $(document).ready(function () {
+            if (window.location.pathname.toLowerCase() == "/default.aspx" || window.location.pathname == "/") {
+                $.ajax({
+                    type: "POST",
+                    url: "ProductDetail.asmx/GetRecommended",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    success: function (msg) {
+                        AjaxSucceeded(msg);
+                    },
+                    error: AjaxFailed
+                });
+            }
+        });
+        function AjaxSucceeded(result) {
+            $('div.WeRecommend').html(result.d);
+        }
+        function AjaxFailed(result) {
+            $('div.WeRecommend').html(result.status + ' ' + result.statusText);
+        }  
+    </script>
+     <script type="text/javascript">
+        function switchMenu(obj, img) {
+            var el = document.getElementById(obj);
+            var Img = document.getElementById(img);
 
-    <script type="text/javascript">
-        
-        var pageTracker = _gat._getTracker("UA-527458-1");
-        
-        function googleAnalytics(){
-            
-            pageTracker._initData();
-            pageTracker._trackPageview();
-    
-            if(location.href.indexOf("orderconfirmation.aspx") != -1){
-                //-=-=-=-=- This block is for commerce tracking -=-=-=-=-=-
-                pageTracker._trackTrans();
+            if (el.style.display == 'block') {
+                el.style.display = 'none';
+                Img.src = 'skins/skin_2/images/arrow.gif';
+            }
+            else {
+                el.style.display = 'block';
+                Img.src = 'skins/skin_2/images/arrow-down.gif';
             }
         }
-        
-        
-        function open_win(){
-            window.open ("/store/images/MuseEntryForm.pdf","_blank","toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=yes, copyhistory=yes, width=400, height=400");
-        }
     </script>
-	
-    <style>
-        
-        
-        p.solid {border-style:solid;     
-                 border-color: #333333;      
-                 border-width: 1px;      
-                 padding : 0px;          
-                           
-                 color:#333333                        
-                }   
+    <!--New google tracking code -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-527458-1']);
+        _gaq.push(['_trackPageview']);
 
-
-          
-        
-        
-        
-        .ShiekhMenuText {
-            font-family: verdana, arial, helvetica;
-            font-size: 8pt;
-            color: #E4E8E9;
-            text-decoration: none;
-        }
-        .small8 {
-            FONT-SIZE: 8pt; FONT-FAMILY: verdana; TEXT-DECORATION: none
-        }
-        
-        .small6 {
-            FONT-SIZE: 6pt; FONT-FAMILY: verdana; TEXT-DECORATION: none
-        }
-        
-        .Verdana9 {
-            FONT-SIZE: 9pt; 9 FONT-FAMILY: verdana;  TEXT-DECORATION: none
-        }
-
-        #dropmenudiv{
-            position:absolute;
-            background-color: #424142;
-            border:2px solid #E5E5E5;
-            font:normal 12px Verdana;
-            line-height:18px;
-            z-index:100;
-            visibility: hidden;
-        }
-        
-        #dropmenudiv a{
-            display: block;
-            color: white;
-            padding-left: 6px;
-            text-decoration: none;
-            font-size: 10px;
-            border-bottom: 1px solid white;
-        }
-        
-        #dropmenudiv a:hover{
-            background-color: #0067b1;
-        }
-                
-       
-</style>
-    <script type="text/javascript" language="javascript" src="menujavapulled1.js"></script></head><body style="TEXT-ALIGN: center" topmargin="0" marginwidth="0" leftmargin="0" marginheight="0" bgcolor="#C8C8C8" onload="googleAnalytics();"><div id="dropmenudiv" style="visibility:hidden;width: 160px" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)" nowrap=""></div>
-    
-    
-    
-	
-    <!-- PAGE INVOCATION: '/store/t-privacy_policy.aspx' -->
-    <!-- PAGE REFERRER: '' -->
-    <!-- CUSTOMER ID: '0' -->
-    <!-- STORE LOCALE: 'en-US' -->
-    <!-- CUSTOMER LOCALE: 'en-US' -->
-    <!-- STORE VERSION: '4.3 PRO' -->
-    <!-- to center your pages, set text-align: center -->
-    <!-- to left justify your pages, set text-align: center -->
-    <!-- if using dynamic full width page sizes, the left-right align has no effect (obviously) -->
-	<div id="centerDiv" style=" MARGIN-RIGHT:auto;">
-    <!-- for dynamic full width page sizes, leave centerDiv width at 100% --> <!-- for fixed width page sizes, set centerDiv width:800px (or whatever you want) -->  <!-- to left align, set margin-right: auto; --> <!-- to center align, set margin-left: auto; margin-right: auto; -->
-
-<table style="BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" border="0" width="828" height="690" align="middle">
-	<tbody><tr>
-		<td valign="top" bgcolor="424142" width="128">
-			<table cellpadding="0" cellspacing="0" width="100%" bgcolor="#424142">
-				<tbody><tr>
-					<td bgcolor="#424142" valign="top"><a href="/"><img src="/store/images/main_page/logo3.gif" border="0" width="128" height="118"></a></td>
-				</tr>
-				<tr>
-					<td width="128" height="20" bgcolor="#424142">
-						<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber7">
-							<tbody><tr onmouseover="this.style.backgroundColor='#0067b1';this.style.forecolor='#000000'" onmouseout="this.style.backgroundColor='#424142'">
-								<td class="small8" style="padding:10px;">
-								<a title="Back to main page" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none" href="/"><u>HOME</u></a></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>  
-				<tr>
-					<td><a href="/store/t-Brands0.aspx"><img border="0" src="/store/images/main_page/brands.gif"></a><br><a href="/store/t-Landing_Womens.aspx"><img border="0" src="/store/images/main_page/womens.jpg" width="128" height="25"></a></td>
-				</tr>
-				<tr>
-					<td>
-						<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber6" class="Verdana9" width="100%">
-							<tbody><tr onmouseover="this.style.backgroundColor='#0067b1';dropdownmenu(this, event, menu200, '65px')" onmouseout="this.style.backgroundColor='#424142';delayhidemenu()">
-								<td height="14" style="padding-left:16px">
-								<a style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none" href="/store/c-9-sedress.aspx"><u>DRESS</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1';dropdownmenu(this, event, menu201, '65px')" onmouseout="this.style.backgroundColor='#424142';delayhidemenu()">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-17-casual.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none"><u>CASUAL</u></a></td>
-						  	</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1';dropdownmenu(this, event, menu204, '65px')" onmouseout="this.style.backgroundColor='#424142';delayhidemenu()">
-								<td height="14" style="padding-left:16px">
-								<a style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none" href="/store/c-65-sandal.aspx"><u>SANDALS</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1';dropdownmenu(this, event, menu202, '80px')" onmouseout="this.style.backgroundColor='#424142';delayhidemenu()">
-								<td height="14" style="padding-left:16px">
-								<a style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none" href="/store/c-40-seboot.aspx"><u>BOOTS</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="14" style="padding-left:16px">
-								<a style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none" href="/store/c-116-slippers.aspx"><u>SLIPPERS</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1';dropdownmenu(this, event, menu205, '65px') " onmouseout="this.style.backgroundColor='#424142';delayhidemenu()">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-43-athletic.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none"><u>ATHLETIC</u></a></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			
-				<tr>
-					<td><a href="/store/t-Landing_Mens.aspx"><img border="0" src="/store/images/main_page/mens.jpg" width="128" height="25"></a></td>
-				</tr>
-				<tr>
-					<td>
-						<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber9" class="Verdana9">
-							<tbody><tr onmouseover="this.style.backgroundColor='#0067b1';dropdownmenu(this, event, menu206, '80px')" onmouseout="this.style.backgroundColor='#424142';delayhidemenu()">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-45-casual.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>CASUAL</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1';dropdownmenu(this, event, menu207, '65px')" onmouseout="this.style.backgroundColor='#424142';delayhidemenu()">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-85-dress.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>DRESS</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">    
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-104-sandals.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>SANDALS</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1' ;dropdownmenu(this, event, menu208, '65px')" onmouseout="this.style.backgroundColor='#424142' ;delayhidemenu()">    
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-46-boot.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>BOOTS</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1';dropdownmenu(this, event, menu203, '65px')" onmouseout="this.style.backgroundColor='#424142';delayhidemenu()">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-47-athletic.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>ATHLETIC</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-83-slippers.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>SLIPPERS</u></a></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td><a href="/store/t-Landing_Kids.aspx"><img border="0" src="/store/images/main_page/kids.gif" width="128" height="25"></a></td>
-				</tr>
-				<tr>
-					<td>
-						<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber11" class="Verdana9">
-							<tbody><tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-49-infant.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>INFANT</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-103-toddler.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>TODDLER</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">    
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-50-junior.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>YOUTH</u></a></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td><a href="/store/t-Landing_Apparel_Accessories.aspx"><img border="0" src="/store/images/main_page/apparel.gif" width="128" height="25"></a></td>
-				</tr>
-				<tr>
-					<td>
-						<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber13" class="Verdana9">
-							<tbody><tr onmouseover="this.style.backgroundColor='#0067b1';dropdownmenu(this, event, menu212, '65px')" onmouseout="this.style.backgroundColor='#424142';delayhidemenu()">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-127-mens.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>MENS</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-128-womens.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>WOMENS</u></a></td>
-							</tr>
-							
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td><a href="/store/t-Landing_Apparel_Accessories.aspx"><img border="0" src="/store/images/main_page/accessories.gif" width="128" height="25"></a></td>
-				</tr>
-				<tr>
-					<td>
-						<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber15" class="Verdana9">
-							<tbody><tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-96-Cosmetics.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>COSMETICS</u></a></td>
-                            </tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/c-56-hats.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>HATS</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="14" style="padding-left:16px">
-								<a style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none" href="/store/c-79-hand-bags.aspx">
-								<u>HANDBAGS</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="14" style="padding-left:16px">
-								<a style="font-size: 7pt; color: #FFFFFF; font-family: Verdana; text-decoration: none blink" href="/store/m-120-giftCards.aspx">
-								<u>GIFT CARDS</u></a></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>	
-				<tr>
-					<td><a href="/store/t-Brands0.aspx"><img border="0" src="/store/images/main_page/brands.gif"></a><br><a href="/store/t-Landing_OnSale.aspx"><img src="images/main_page/sale.gif" width="128" height="25" border="0"></a></td>
-				</tr>
-				<tr>
-					<td>
-						<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber15" class="Verdana9">
-							<tbody><tr onmouseover="this.style.backgroundColor='#0067b1';dropdownmenu(this, event, menu209, '65px')" onmouseout="this.style.backgroundColor='#424142';delayhidemenu()">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/cl-2.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>WOMEN'S</u></a></td>
-                            </tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1';dropdownmenu(this, event, menu210, '65px')" onmouseout="this.style.backgroundColor='#424142';delayhidemenu()">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/cl-44.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>MEN'S</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1';dropdownmenu(this, event, menu211, '65px')" onmouseout="this.style.backgroundColor='#424142';delayhidemenu()">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/cl-48.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>KIDS'</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/cl-51.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>APPAREL</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="14" style="padding-left:16px">
-								<a href="/store/cl-78.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-								<u>ACCESSORIES</u></a></td>
-							</tr>
-
-						</tbody></table>
-					</td>
-				</tr>	
-				
-				
-				<!--
-				<tr>
-					<td>
-					<a href="/store/t-clearance_policy.aspx" style="text-decoration: none"><img src="/store/images/main_page/clearance.gif" width="128" height="25" border="0"></a></td>
-				</tr>-->	
-				<tr>
-					<td width="128" height="21" bgcolor="#424142"><img border="0" src="/store/images/main_page/divider.gif"></td>
-				</tr>
-				<tr>
-					<td>
-						<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber5" class="Verdana9">
-							<tbody><tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="16" style="padding-left:16px">
-								<a href="/store/t-cs.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-									<u>CUSTOMER SERVICE</u></a></td>
-							</tr>
-							
-							<tr onmouseover="this.style.backgroundColor='#0067b1';this.style.forecolor='#000000'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="16" style="padding-left:16px">
-								<a href="/store/t-upstracking.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-									<u>TRACK ORDER</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1';this.style.forecolor='#000000'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="16" style="padding-left:16px">
-								<a href="/store/t-store_by_city.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-									<u>FIND A STORE</u></a></td>
-							</tr>
-							
-							
-							
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="16" style="padding-left:16px">
-								<a href="/store/t-returns.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-									<u>RETURNS POLICY<u></u></u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="16" style="padding-left:16px">
-								<a href="/store/t-policies3.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-									<u>SHIPPING INFO</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="16" style="padding-left:16px">
-								<a href="/store/t-size_chart.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-									<u>SIZE CHART</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="16" style="padding-left:16px">
-								<a href="/store/t-comments.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-									<u>CUSTOMER TESTIMONIALS</u></a></td>
-							</tr>
-							<tr onmouseover="this.style.backgroundColor='#0067b1'" onmouseout="this.style.backgroundColor='#424142'">
-								<td height="16" style="padding-left:16px">
-								<a href="/store/wishlist.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-									<u>WISH LIST</u></a></td>
-							</tr>
-							<!--
-							<tr onMouseover="this.style.backgroundColor='#0067b1'" onMouseout="this.style.backgroundColor='#424142'">
-								<td height="16" style="padding-left:16px">
-								<a href="/store/t-letter.aspx" style="font-size: 7pt; color: #FFFFFF; font-family: verdana, arial, helvetica; text-decoration:none">
-									<u>RETURNS</a></td>
-							</tr>
-                            -->
-															
-							
-		
-							<tr>
-								<td align="center" height="100%">
-									<!-- (c) 2006. Authorize.Net is a registered trademark of Lightbridge, Inc. --> <br><div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="40f20c56-3c0e-4743-8e71-f97e27f57664";</script> <script type="text/javascript" language="javascript" src="//VERIFY.AUTHORIZE.NET/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Accept Credit Cards Online</a> </div> 
-								</td>
-							</tr>
-							
-							<tr>
-							    <td align="center" height="100%">
-<!--
-<table width="10" border="0" cellspacing="0" align="center">
- <tr>
-  <td>
-   <script src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe" defer="defer"></script>
-  </td>
- </tr>
- <tr>
-  <td height="0" align="center">
-   <a style="color:#AD0034" target="_new"
-   href="http://www.thawte.com/digital-certificates/">
-   <span style="font-family:arial; font-size:8px; color:#AD0034">
-   ABOUT SSL CERTIFICATES</span>
-   </a>
-  </td>
- </tr>
-</table>
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+</head>
+<!--**************** STORE-8 ********************-->
+<body onload="daShiekh()">
+     <!--
+PAGE INVOCATION: /t-privacy.aspx
+PAGE REFERRER: 
+STORE LOCALE: en-US
+STORE CURRENCY: USD
+CUSTOMER ID: 0
+AFFILIATE ID: 0
+CUSTOMER LOCALE: en-US
+CURRENCY SETTING: USD
+CACHE MENUS: True
 -->
-<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL for secure e-commerce and confidential communications.">
-<tbody><tr>
-<td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.shiekhshoes.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script><br>
-<a href="http://www.verisign.com/ssl-certificate/" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT SSL CERTIFICATES</a></td>
-</tr>
-</tbody></table>
-							    </td>
-						    </tr>
-						</tbody></table>
-					</td>
-				</tr>			
-			</tbody></table>
-		</td>		
-		<td valign="top" bgcolor="#FFFFFF" height="100%">			
-			<table border="0" cellpadding="0" cellspacing="0" width="100%" id="AutoNumber21">
-			<tbody><tr><td bgcolor="#424142" align="center"><img src="images/banners/fs.gif"></td></tr>
-				<tr>
-					<td width="100%" bgcolor="#424142">
-						&nbsp;&nbsp;&nbsp;
-								<table border="0" cellpadding="3" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber19">
-							<tbody><tr>
-							<form name="KeywordSearchForm" method="get" action="searchadv2.aspx"></form>
-								<td width="190" height="1">								
-									<input type="hidden" name="IsSubmit" value="true">
-									<input type="hidden" name="MaxPrice" value="">
-									<input type="hidden" name="MinPrice" value="">
-									<input type="hidden" name="ShowPics" value="1">
-									<input type="hidden" name="SKU" value="">
-									<input type="hidden" name="ManufacturerID" value="0">
-									<input type="hidden" name="SectionID" value="0">
-									<input type="hidden" name="CategoryID" value="0">
-									<input type="hidden" name="ProductTypeID" value="0">
-									<input type="hidden" name="SearchDescriptions" value="0">
-									
-									<img border="0" src="/store/images/main_page/search.gif">&nbsp; 
-									<input name="SearchTerm" type="text" size="11">&nbsp;
-									<input type="image" src="/store/images/main_page/submit.gif" alt="[Submit]" name="submit">
-									
-								
-								</td>
-							
-								<td><img border="0" src="/store/images/main_page/separator.gif" width="3" height="32"></td>
-								
-								<td align="center"><a href="/store/AdvSearch.html"><img border="0" src="/store/images/main_page/advanced-search.gif"></a></td>
-								
-								<td><img border="0" src="/store/images/main_page/separator.gif" width="3" height="32"></td><td><a href="/Store/t-Brands0.aspx"><img border="0" src="/store/images/main_page/brands1.gif"></a></td>
-								
-								<td><img border="0" src="/store/images/main_page/separator.gif" width="3" height="32"></td>							
-								<td height="0" class="Verdana9" align="center">
-				<nobr>
-									<span class="username"><font color="#FFFFFF">0</font><font color="#E4E8E9">&nbsp;
-																		<span class="username">
-									<a class="username" href="shoppingcart.aspx">
-													<font color="#FFFFFF">VIEW CART</font></a></span></font></span>
-								  </nobr>
-								</td>
-								
-								<td><img border="0" src="/store/images/main_page/separator.gif" width="3" height="32"></td>
-								<td width="150" height="1" bgcolor="#424142" class="small8" align="center">
-									<font color="#FFFFFF">
-									<span class="username">&nbsp;&nbsp;<a class="username" href="signin.aspx">Login</a>
-									</span></font>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-			</tr></tbody></table>
-			
-			<table cellpadding="0" cellspacing="0" border="0">
-				<tbody><tr>
-					<td>
-					    <iframe name="darthHidious" id="MailingList" style="display: none; visibility: hidden;" src="custom/mailingList.asp"></iframe>
-						<font color="#FFFFFF"><table border="0" cellpadding="4" cellspacing="0" width="100%">
-<tbody><tr>
-<td width="100%" valign="top" align="left">
-<!-- READ FROM DB:  -->
-<div style="font-family:Verdana; font-size:8.5pt; margin-left:55px; margin-right:20px;">
-    
-    <p><font face="verdana, geneva, arial" size="3" color="#0067b1"></font></p><center><font face="verdana, geneva, arial" size="3" color="#0067b1"><b>Privacy Policy</b></font></center><br><br><p></p>
-    <p>The privacy policy adopted by Shiekh is designed to provide you with an understanding of the type of information we collect, how it is done, and what we do with this information.   Shiekh is the sole owner of this information and it is never shared, sold or rented to anyone not disclosed in this statement.</p>
-    <p>This policy only applies to this web site and does not necessarily apply to offline collection as stated below. </p>
-    <p>Shiekh is not responsible for any content of information collected from non-Shiekhshoes.com web sites which link to Shiekhshoes.com or that Shiekhshoes.com links to.</p>
-    
-    <p><b>Information Collection and Use</b></p>
-    <p>Information Collected:  Information is collected from a number of places on the web site including customer order and account registration forms.  The goal in collecting this information is to make ordering more efficient and your shopping experience more meaningful.  This information may be shared with our stores in order to better serve our customers who shop on line and in the stores. </p>
-    <p>Registration and Ordering.  During the order process we will ask you for information including, but not limited to your name, shipping and billing address, phone number, email address, and credit card number.  These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you. </p>
-    <p>Email Addresses.  In addition to the order and registration forms we may ask you to enter your email address for purposes including but not limited to: to register for a contest; participate in surveys; or to sign up for our email newsletter and special offers.  Your participation in a contest is completely voluntary, so you have a choice whether to participate and disclose information to us.  We use this information to notify contest winners and to award prizes.  We may post on our Site the names and cities of contest winners. </p>
-    <p>Email a Friend.  If you elect to refer a friend to our website, we ask you for your name and email address and your friend's name and email address.  We will automatically send the friend an email inviting him or her to view your selected items on the website.  We use this information for the sole purpose of sending this email.</p>
-    <p>Cookies.  Like most web sites we use cookies and other technology to assist navigation, track your browsing activity and record your preference.  Cookies do not collect or store any personal data… it's really just a combination of numbers and letters that uniquely identify your computer.  All real account information and transaction histories are kept in our secure database. When you leave our site, we terminate our interaction with the cookie. The cookie stays on your computer, and you can delete it anytime you'd like, but that means that you would need to login again and re-enter any preferences you have set. </p>
-    <p>Log Files.  We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes.</p>
-    <p>Product Reviews.  Should you choose to submit a product review we will ask for your geographic location and email address.  If you submit a review, your geographic location will be visible to other users (your email address will be kept private).  Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site.  We are not responsible for any personally identifiable information that you choose to submit as part of your review.</p>
-    
-    <p><b>Information Use and Disclosure</b></p>
-    <p>Internal Use.  We use your information for order processing and to provide customer service and delivery updates. Also, should you choose to receive our newsletters we will use your information to provide you with information on new products, brands, and promotional events.  We always permit you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.</p>
-    <p>External Use.  As do most catalog and on-line retailers we sometimes ask others to perform specific functions on our behalf.  For example, we enlist the services of UPS and USPS to deliver the merchandise you purchased on our site and need to share your information with them.  In the case of shippers we only share the information required to complete the delivery, which includes order information such as the shipping address, phone number and email address provided when the order was placed.  Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers.  When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information.</p>
-    <p>Legal Process.  We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.</p>
-    
-    <p><b>Opt Out and Corrections</b></p>
-    <p>Our users are given the opportunity to “opt-out” of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our Customer Account information form has an opt-out mechanism so users who register with us but do not want any marketing material can keep their email address off our lists. If you no longer wish to receive our promotional materials, you may opt-out of receiving these communications by using the unsubscribe option at the bottom of any email communication you receive or contact us via Shiekhshoes.com customer service.</p>
-    <p>Any changes to our privacy policy will be posted on our website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.  Additionally, if at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email.  At that time, you will have a choice as to whether we use your information in this different manner.</p>
-    <p>If you feel that we are not abiding by our posted privacy policy, you should first contact:</p>
-    
-    <p>
-    Shiekhshoes.com Customer Service<br>
-    4083 East Airport Drive<br>
-    Ontario, CA 91761
-    </p>
-    <br>
-    <p>Contact us via Email</p>
-    <br><br>
-<p align="left">[<a href="http://www.shiekhshoes.com/store"><u><font face="verdana, geneva, arial" size="2">Continue Shopping</font></u></a><u><font face="verdana, geneva, arial" size="2">]</font></u></p><u><font face="verdana, geneva, arial" size="2">
-    </font></u></div><u><font face="verdana, geneva, arial" size="2">
-<!-- END OF DB:  -->
-</font></u></td>
-</tr>
-</tbody></table>
-</font>
-					</td>
-				</tr>
-		
-			</tbody></table>
-			
-			
-			
-			
-			
-	  	</td>
-	</tr>
-			
-    <tr>
-        <td height="67" colspan="2">
-        	<p align="center" class="small8">
-        	
-        	<!--****************Join mailing list function wrapped in this html table************************-->
-			    <table border="0" align="center">
-							<tbody><tr>
-								<td valign="top" style="padding-top:5px;">
-									Join Our Mailing List:
-								</td>
-								<td>
-								    <script>
-								        function validateJML(daForm){
-								            
-								            //-=-=-=-=-=-=- RFC 2822: valid email format
-								            daRegularExpression = /(?:[a-z0-9!#$%&'*+/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+/=?^_`{|}~-]+)*|"(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21\x23-\x5b\x5d-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])*")@(?:(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?|\[(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?|[a-z0-9-]*[a-z0-9]:(?:[\x01-\x08\x0b\x0c\x0e-\x1f\x21-\x5a\x53-\x7f]|\\[\x01-\x09\x0b\x0c\x0e-\x7f])+)\])/;
-								            
-								            if(daRegularExpression.test(daForm.daEmail.value)){
-								                
-								                return true;
-								            }
-								            else{
-								                
-								                alert('Invalid E-Mail format.\nPlease check the email address.');
-								                daForm.daEmail.focus();
-								                daForm.daEmail.select();
-								                return false;
-								            }
-								        }
-								    </script>
-									<form target="darthHidious" action="custom/mailingList.asp" method="post" onsubmit="return validateJML(this)">
-									    <input type="text" name="daEmail" size="25">
-									    <input type="submit" name="daAction" value="Join!">
-									    <!--<INPUT TYPE="submit" NAME="daAction" VALUE="Remove!">-->
-									</form>
-								</td>
-							</tr>
-						</tbody></table>
-						<!--*********************end of Join Mailing List function**********************-->
-			
-            
-            <br>
-            <a href="http://www.shiekhshoes.com/store/t-privacy_policy.aspx">Privacy Policy</a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
-            <a href="http://www.shiekhshoes.com/store/t-cs.aspx">Customer Service</a>&nbsp;<b>|</b>&nbsp;&nbsp;
-            <a target="_top" href="http://www.shiekhshoes.com/store/t-about.aspx">About Us</a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
-            <a target="_top" href="http://www.shiekhshoes.com/store/t-about.aspx"></a>
-            <a target="_top" href="http://www.shiekhshoes.com/store/t-contact.aspx">Contact Us</a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
-            <a target="_top" href="http://www.shiekhshoes.com/store/t-employment.aspx">Jobs</a><br>
-            <a target="_top" href="http://www.shiekhshoes.com/store/t-affiliate_program.aspx">Affiliate Program</a>&nbsp;&nbsp;<b>|</b>
-            &nbsp;&nbsp;<a class="nu" target="_top" href="t-legal.aspx">Terms of Use</a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
-            <a target="_top" href="t-SiteMap.aspx">Site Map</a>&nbsp;&nbsp;<b>|</b>&nbsp;&nbsp;
-            <!--<a href="http://www.shiekhshoes.com/store/t-link-exchange.aspx">links</a> &nbsp;&nbsp;|&nbsp;&nbsp;-->
-            <a href="https://shiekhorders.com/specialorders">Employees Only</a></p>
-            <p align="center" class="small8">
-            <img border="0" src="/store/images/main_page/creditpic.GIF" width="293" height="48"></p>
-        </td>
-    </tr>
-    <tr>
-        <td height="28" class="small8" colspan="2">
-            <font color="#111111"><center>COPYRIGHT © 2008 SHIEKHSHOES. ALL RIGHTS RESERVED.
-            <p align="center" valign="top" class="small8"><font color="#424142">Shiekh Shoes.com Privacy Policy: We never give out our customer's information to anyone.</font>
-            </p>
-            </center></font>	      			
-        </td>
-    </tr>
-			
-			
-</tbody></table>		
-	
-</div>
 
-<script language="JavaScript" type="text/javascript">
-<!-- Yahoo! Inc.
-var ysm_accountid  = "1NRCNN83D07MUI73BQR28TP5EPO";
-document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
-+ "SRC=//" + "srv2.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
-+ "></SCR" + "IPT>");
-// -->
-</script><script language="JavaScript" type="text/javascript" src="//srv2.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1NRCNN83D07MUI73BQR28TP5EPO"></script>
-	
+    <div id="gradient_wrapper_TOP">
+        <div id="gradient_wrapper_BOTTOM">
+            <br>
+            <br>
+            <div id="wrapper">
+                <div style="height: 115px; background-image: url(skins/Skin_2/images/header_102px.png);">
+                    <div style="position: relative; left: 170px; top: 11px; text-align: left;">
+                        <span style="color: #333333;"><a style="color: #333333;" href="signin.aspx">LOGIN or REGISTER</a></span><a style="padding: 0px 10px 0px 20px;
+                            color: #333333;" href="account.aspx">MY ACCOUNT</a> <a style="padding: 0px 10px 0px 10px;
+                                color: #333333;" href="wishlist.aspx">WISH LIST</a> <a style="padding: 0px 10px 0px 10px;
+                                    color: #333333;" href="http://www.shiekhshoes.com/t-international_shipping.aspx">
+                                    INTERNATIONAL SHIPPING</a>
+                    </div>
+                    <form name="topsearchform" method="get" action="search.aspx">
+                    <div style="position: relative; left: 170px; top: 18px; width: 750px;">
+                        <input type="text" name="SearchTerm" class="searchBox" id="Text1">
+                        <input type="image" style="position: relative; padding: 0px 10px 0px 10px; top: 5px" onclick="document.topsearchform.submit()" title="Click Go to Submit" id="Button1" value="Go" src="skins/Skin_2/images/go-button.gif">
+                    </div>
+                    <div style="background-image: url(skins/Skin_2/images/cart.png); background-repeat: no-repeat;
+                        cursor: hand; cursor: pointer; position: relative; height: 40px; left: 780px;
+                        top: -20px;" onclick="window.location.href='shoppingcart.aspx'">
+                        <div style="position: relative; top: -8px; left: 87px; color: white; border: 8; border-color: White;
+                            background-color: Red; font-weight: bold; width: 30px; font-size: small; text-align: center;
+                            border-radius: 35px;" onclick="window.location.href='shoppingcart.aspx'">
+                            0</div>
+                    </div>
+                    </form>
+                </div>
+                <div style="position: relative; left: 38px; bottom: 100px;">
+                    <a href="default.aspx">
+                        <img src="skins/Skin_2/images/logo.gif" border="0" alt="" style="position: absolute;">
+                    </a>
+                </div>
+                <div style="position: relative; left: 148px; bottom: 45px;">
+                    <!-- TOP MENU -->
+                    <div id="nav">
+                        <ul>
+                            <li><a href="gallery.aspx?CatID=2">WOMENS</a>
+                                <ul>
+                                    <li><a href="gallery.aspx?CatID=9">Dress Shoes</a></li>
+                                    <li><a href="gallery.aspx?CatID=17">Casual Shoes</a></li>
+                                    <li><a href="gallery.aspx?CatID=65">Sandals</a></li>
+                                    <li><a href="gallery.aspx?CatID=40">Boots</a></li>
+                                    <li><a href="gallery.aspx?CatID=43">Athletic Shoes</a></li>
+                                    <li><a href="gallery.aspx?CatID=116">Slippers</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="gallery.aspx?CatID=44" id="active">MENS</a>
+                                <ul>
+                                    <li><a href="gallery.aspx?CatID=85">Dress Shoes</a></li>
+                                    <li><a href="gallery.aspx?CatID=45">Casual Shoes</a></li>
+                                    <li><a href="gallery.aspx?CatID=104">Sandals</a></li>
+                                    <li><a href="gallery.aspx?CatID=46">Boots</a></li>
+                                    <li><a href="gallery.aspx?CatID=47">Athletic Shoes</a></li>
+                                    <li><a href="gallery.aspx?CatID=83">Slippers</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="gallery.aspx?CatID=48">KIDS</a>
+                                <ul>
+                                    <li><a href="gallery.aspx?CatID=49">Infant</a></li>
+                                    <li><a href="gallery.aspx?CatID=103">Toddler</a></li>
+                                    <li><a href="gallery.aspx?CatID=50">Youth</a></li>
+                                    <li><a href="gallery.aspx?CatID=149">Kids Boots</a></li>
+                                    <li><a href="gallery.aspx?CatID=125">Kids Sandals</a></li>
+                                    <li><a href="gallery.aspx?CatID=126">Kids Skate</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="gallery.aspx?CatID=51">APPAREL</a>
+                                <ul>
+                                    <li><a href="gallery.aspx?CatID=127">Mens Apparel</a></li>
+                                    <li><a href="gallery.aspx?CatID=128">Womens Apparel</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="gallery.aspx?CatID=78">ACCESSORIES</a>
+                                <ul>
+                                    <li><a href="gallery.aspx?CatID=79">Hand Bags</a></li>
+                                    <li><a href="gallery.aspx?CatID=165">Socks and Hosiery</a></li>
+                                    <li><a href="gallery.aspx?CatID=166">Insoles</a></li>
+                                    <li><a href="gallery.aspx?CatID=56">Hats</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="brands.aspx">BRANDS</a></li>
+                            <li><a href="salelanding.aspx">SALE</a></li>
+                        </ul>
+                    </div>
+                    <!-- END TOP MENU -->
+                </div>
+                <!--Inside scope right DIV-->
+                
+                
+                <div id="bodyWrapper">
+                    <div id="ML">
+                        <div style="visibility: hidden; display: none;">
+                            Language: </div>
+                        <div style="visibility: hidden; display: none;">
+                            Currency: </div>
+                        <div style="visibility: hidden; display: none;">
+                            VAT Mode: </div>
+                    </div>
+                    <div id="content">
+                        <!-- CONTENTS START -->
+                        <!-- READ FROM DB --><img src="images/Free-shipping-banner.jpg">
+<table width="745" align="center">
+    <tbody>
+        <tr>
+            <td>
+            <p style="FONT-FAMILY: verdana; COLOR: #0068b7; FONT-SIZE: 18pt; FONT-WEIGHT: bold">Privacy Policy</p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">The privacy policy adopted by Shiekh is designed to provide you with an understanding of the type of information we collect, how it is done, and what we do with this information. Shiekh is the sole owner of this information and it is never shared, sold or rented to anyone not disclosed in this statement.</p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">This policy only applies to this web site and does not necessarily apply to offline collection as stated below. </p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Shiekh is not responsible for any content of information collected from non-Shiekhshoes.com web sites which link to Shiekhshoes.com or that Shiekhshoes.com links to.</p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt"><strong>Information Collection and Use</strong></p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Information Collected: Information is collected from a number of places on the web site including customer order and account registration forms. The goal in collecting this information is to make ordering more efficient and your shopping experience more meaningful. This information may be shared with our stores in order to better serve our customers who shop online and in the stores. </p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Registration and Ordering. During the order process we will ask you for information including, but not limited to your name, shipping and billing address, phone number, email address, and credit card number. These kinds of personal information are used for billing purposes, to fulfill your orders, to communicate with you about your order and our site, and for internal marketing purposes. If we encounter a problem when processing your order, we use the personal information to contact you. </p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Email Addresses. In addition to the order and registration forms we may ask you to enter your email address for purposes including but not limited to: to register for a contest; participate in surveys; or to sign up for our email newsletter and special offers. Your participation in a contest is completely voluntary, so you have a choice whether to participate and disclose information to us. We use this information to notify contest winners and to award prizes. We may post on our Site the names and cities of contest winners. </p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Email a Friend. If you elect to refer a friend to our website, we ask you for your name and email address and your friend's name and email address. We will automatically send the friend an email inviting him or her to view your selected items on the website. We use this information for the sole purpose of sending this email.</p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Cookies. Like most web sites we use cookies and other technology to assist navigation, track your browsing activity and record your preference. Cookies do not collect or store any personal data… it's really just a combination of numbers and letters that uniquely identify your computer. All real account information and transaction histories are kept in our secure database. When you leave our site, we terminate our interaction with the cookie. The cookie stays on your computer, and you can delete it anytime you'd like, but that means that you would need to login again and re-enter any preferences you have set. </p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Log Files. We may also log your Internet protocol ("IP") address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing, and system troubleshooting purposes.</p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Product Reviews. Should you choose to submit a product review we will ask for your geographic location and email address. If you submit a review, your geographic location will be visible to other users (your email address will be kept private). Also, any personally identifiable information that you submit as part of the review can be read or used by other visitors to the Site. We are not responsible for any personally identifiable information that you choose to submit as part of your review.</p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt"><strong>Information Use and Disclosure</strong></p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Internal Use. We use your information for order processing and to provide customer service and delivery updates. Also, should you choose to receive our newsletters we will use your information to provide you with information on new products, brands, and promotional events. We always permit you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.</p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">External Use. As do most catalog and on-line retailers we sometimes ask others to perform specific functions on our behalf. For example, we enlist the services of UPS and USPS to deliver the merchandise you purchased on our site and need to share your information with them. In the case of shippers we only share the information required to complete the delivery, which includes order information such as the shipping address, phone number and email address provided when the order was placed. Similarly, to help you buy products and provide customer service to you, we must provide your credit card number to financial-services corporations such as credit-card processors and issuers. When we submit your credit card number for authorization, we use state-of-the-art data encryption to protect your information.</p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Legal Process. We may be required to disclose such information in response to requests from law-enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our Terms of Use or other agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use our Site for illegal reasons or to commit fraud.</p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt"><strong>Opt Out and Corrections</strong></p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Our users are given the opportunity to “opt-out” of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our Customer Account information form has an opt-out mechanism so users who register with us but do not want any marketing material can keep their email address off our lists. If you no longer wish to receive our promotional materials, you may opt-out of receiving these communications by using the unsubscribe option at the bottom of any email communication you receive or contact us via Shiekhshoes.com customer service.</p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Any changes to our privacy policy will be posted on our website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Additionally, if at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email. At that time, you will have a choice as to whether we use your information in this different manner.</p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">We partner with FetchBack to serve ads and/or collect certain information when you visit our website. FetchBack may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit www.networkadvertising.org. </p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">NAI Opt Out Page:<br>
+            <a href="http://www.networkadvertising.org/managing/opt_out.asp ">www.networkadvertising.org/managing/opt_out.asp </a></p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">FetchBack Opt Out Page: <br>
+            <a href="http://www.FetchBack.com/optout.html ">www.FetchBack.com/optout.html </a></p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">If you feel that we are not abiding by our posted privacy policy, you should first contact:</p>
+            <p style="FONT-FAMILY: Verdana; COLOR: #484848; FONT-SIZE: 8pt">Shiekhshoes.com Customer Service<br>
+            4083 East Airport Drive<br>
+            Ontario, CA 91761 </p>
+            <br>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <p align="right"><a href="/default.aspx"><span style="TEXT-DECORATION: underline"><img src="images/continue_shopping.jpg"></span></a></p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<!-- END OF DB -->
+
+
+                        <!-- CONTENTS END -->
+                    </div>
+                </div>
+                <!-- bodywrapper -->
+                <div id="footer_new">
+                    <img style="width: 922px; height: 2px;" alt="" src="skins/Skin_2/images/line.gif"><div id="footer_new_HelpInfo">
+                        <img alt="" src="skins/Skin_2/images/tabs-help-info.gif"><br>
+                        <img style="width: 446px; height: 2px" alt="" src="skins/Skin_2/images/line.gif"><br>
+
+                                    <table>
+            <tbody><tr>
+                <td><a href="http://www.shiekhshoes.com/t-TrackOrder.aspx">TRACK ORDER</a></td>
+                <td><a href="http://www.shiekhshoes.com/stores.aspx">FIND A STORE</a></td>
+                <td><a href="http://www.shiekhshoes.com/t-glossary.aspx">GLOSSARY OF TERMS</a></td>
+            </tr>
+            <tr>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+            </tr>
+            <tr>
+                <td><a href="http://www.shiekhshoes.com/t-returns.aspx">RETURN POLICY</a></td>
+                <td><a href="http://www.shiekhshoes.com/t-shipping.aspx">SHIPPING INFO</a></td>
+                <td><a href="http://www.shiekhshoes.com/t-privacy.aspx">PRIVACY POLICY</a></td>
+            </tr>
+            <tr>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+            </tr>
+            <tr>
+                <td><a href="http://www.shiekhshoes.com/t-service.aspx">CUSTOMER SERVICE</a></td>
+                <td><a href="http://www.shiekhshoes.com/t-SizeChart.aspx">SIZE CHART</a></td>
+                <td><a href="http://www.shiekhshoes.com/t-termsandconditions.aspx">TERMS OF USE</a></td>
+            </tr>
+            <tr>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+            </tr>
+            <tr>
+                <td><a href="http://www.shiekhshoes.com/t-contact.aspx">CONTACT US</a></td>
+                <td><a href="sitemap2.aspx">SITE MAP</a></td>
+                <td><a href="http://www.shiekhshoes.com/t-affiliate.aspx">AFFILIATE PROGRAM</a></td>
+            </tr>
+            <tr>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+            </tr>
+             <tr>
+                <td><a href="http://www.shiekhshoes.com/t-faq.aspx">FAQ</a></td>
+                <td><a href="http://www.shiekhshoes.com/t-security.aspx">SECURITY</a></td>
+                <td><a href="http://www.shiekhshoes.com/t-100PriceGurantee.aspx">100% PRICE GUARANTEE</a></td>
+            </tr>
+            <tr>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+                <td><img id="footer_new_HelpInfo_UnderlineLineSize" alt="" src="skins/Skin_2/images/line.gif"></td>
+            </tr>
+            </tbody></table>
+
+                    </div>
+                    <div id="footer_new_ShiekhMail">
+                        <div style="width: 5px; float: left;">
+                            <img alt="" src="skins/Skin_2/images/line-vertical.gif" style="height: 172px;
+                                width: 2px;"></div>
+                        <div style="position: relative; right: 180px; top: 15px; float: right; width: 230px;">
+                            <img src="skins/Skin_2/images/shiekh-mail.gif" border="0" alt="">
+                            <iframe name="darthHidious" id="MailingList" style="display: none; visibility: hidden;" src="custom/mailingList.asp"></iframe>
+                            <font color="#FFFFFF">%CONTENTS%</font>
+                            <script type="text/javascript">
+                                function validateJML(daForm) {
+                                    var daRegularExpression = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i;
+                                    if (daRegularExpression.test(daForm.daEmail.value)) {
+                                        alert('Your email address is submitted successfully. Thank you.');
+                                        return true;
+                                    }
+                                    else {
+
+                                        alert('Invalid E-Mail format.\nPlease check the email address.');
+                                        daForm.daEmail.focus();
+                                        daForm.daEmail.select();
+                                        return false;
+                                    }
+                                }
+                            </script>
+                            <form target="darthHidious" action="custom/mailingList.asp" method="post" onsubmit="return validateJML(this)">
+                            <input type="text" size="15" name="daEmail" style="border: solid 2px black; width: 230px;
+                                position: relative; left: 0px; bottom: 15px; background-color: white;">
+                            <input type="image" src="skins/Skin_2/images/submit.gif" name="daAction" value="Join!" style="position: relative; left: 0px; bottom: 10px;">
+                            </form>
+                        </div>
+                        <div style="border: 0px black solid; position: relative; top: 35px; left: 215px;
+                            float: right; text-align: left;">
+                            <br>
+                            <a href="https://www.facebook.com/pages/Shiekh-Shoes/163762275750" target="_blank">
+                                <img src="skins/Skin_2/images/facebook_be_a_fanatic.gif" border="0" alt=""></a>
+                            <br>
+                            <br>
+                            <a href="https://www.twitter.com/shiekhshoes" target="_blank">
+                                <img src="skins/Skin_2/images/twitter_followus.gif" alt="Follow shiekh on Twitter"></a>
+                        </div>
+                    </div>
+                    <map id="Map1" name="PaymentsOptions">
+                        <area href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.shiekhshoes.com&amp;lang=en" shape="rect" alt="Verisign" coords="1,1,77,35">
+                        <area href=" https://verify.authorize.net/anetseal/?pid=40f20c56-3c0e-4743-8e71-f97e27f57664&amp;rurl=www.shiekhshoes.com" shape="rect" alt="Authorize.Net" coords="78,1,128,35">
+                    </map>
+                    <img style="width: 920px; height: 2px;" alt="" src="skins/Skin_2/images/line.gif"><img usemap="#PaymentsOptions" src="skins/Skin_2/images/payment-options.gif" border="0" alt="" style="position: relative; top: 1px; left: 0px;"></div>
+                <!--END of footer_new-->
+            </div>
+            <img src="skins/Skin_2/images/reflection.gif" border="0" alt="">
+            <!-- END of wrapper -->
+        </div>
+    </div>
+    <script type="text/javascript">
+var pageTracker = _gat._getTracker("");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+    <iframe src="https://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=3233" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0">
+    </iframe>
 
 
 </body></html>
