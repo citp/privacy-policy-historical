@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinecricketbetting.net privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129034710id_/http%3A//www.onlinecricketbetting.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecricketbetting.net privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507125825id_/http%3A//www.onlinecricketbetting.net/privacy-policy.php) for the most accurate reproduction.*
 
 # OnlineCricketBetting.net | Privacy Policy
 
@@ -13,5 +13,3 @@ While we make reasonable efforts to provide accurate and timely information abou
 ### Credits
 
 This site has been created for the purpose of providing information regarding online cricket betting. If you find any incorrect information, bad links, or other errors on this site please [contact us](http://www.onlinecricketbetting.net/contact-us.php).
-
-[ ](http://www.onlinecricketbetting.net/go/pinnacle-sports.php)
