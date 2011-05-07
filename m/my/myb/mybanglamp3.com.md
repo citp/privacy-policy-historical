@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybanglamp3.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127065440id_/http%3A//mybanglamp3.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybanglamp3.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508000238id_/http%3A//mybanglamp3.com/privacy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
