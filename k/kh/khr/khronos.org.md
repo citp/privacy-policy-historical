@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khronos.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228191629id_/http%3A//www.khronos.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khronos.org privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507041726id_/http%3A//www.khronos.org/help/privacy) for the most accurate reproduction.*
 
 # Khronos.org Privacy Policy - Khronos Group
 
