@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buywithme.com privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915171746id_/http%3A//www.buywithme.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buywithme.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507214621id_/http%3A//www.buywithme.com/pages/privacy) for the most accurate reproduction.*
 
 # BuyWithMe - Group Buying, Big Discounts from Local Businesses
 
@@ -13,7 +13,7 @@
 
 ### Section 2. How We Use Your Private Information
 
-  * **2.1 Email Address.** When you sign up for our mailing lists, a BuyWithMe account, or other service or promotion that requires registration, you will be required to provide a valid email address. We will only use this email address to contact you as part of the transaction process, to send you periodic emails that you have subscribed to, or for purposes that are intended to enhance your user experience. We may also occasionally contact you to obtain feedback on a specific merchant deal in which you have participated. We will not share your contact information with third parties, except as provided in Section 6.1. BuyWithMe will generally ask you to indicate whether or not you want to receive certain types of email communication from us, and we will adhere to your preferences unless we consider a particular communication to be absolutely necessary. Emails will generally contain a link at the bottom to be removed from our mailing list.
+  * **2.1 Email Address.** When you sign up for our mailing lists, a BuyWithMe account, or other service or promotion that requires registration, you will be required to provide a valid email address. We will only use this email address to contact you as part of the transaction process, to send you periodic emails that you have signed up for, or for purposes that are intended to enhance your user experience. We may also occasionally contact you to obtain feedback on a specific merchant deal in which you have participated. We will not share your contact information with third parties, except as provided in Section 6.1. BuyWithMe will generally ask you to indicate whether or not you want to receive certain types of email communication from us, and we will adhere to your preferences unless we consider a particular communication to be absolutely necessary. Emails will generally contain a link at the bottom to be removed from our mailing list.
   * **2.2 Name.** When purchasing a voucher, you may be required to provide the full name of the person who will use it, whether that will be you or the person to whom you plan to transfer the voucher. We will only share this name with the merchant listed on that voucher. Your full name may be used by the merchant for the purposes of verifying that the voucher is valid. We will also collect your full name during the checkout process to verify your credit card payment information. When signing up for our mailing lists, a BuyWithMe account, or other services or promotions that require registration, you may also be asked to provide your name at that time so that we can personalize all communications you receive from us.
   * **2.3 Financial Information.** For certain services, such as our merchant deals, we also request credit card or other payment account information which are maintained by our payment processor in encrypted form on secure servers. We do not share this information with any third party except the companies responsible for processing our credit card transactions.
   * **2.4 Demographic Information.** We will occasionally collect demographic data, such as zip code, gender, and occupation. Providing this information is typically optional but helps us bring you better deals. We use this data to help determine which deals our users would most appreciate. We may also share this data with third parties, such as merchants featured on our site; however, no third party will be able to trace your personal demographic information back to you unless you have separately given your permission to do so.
@@ -46,14 +46,12 @@
 
   * **6.1** BuyWithMe only shares your personally identifying information with other companies or individuals outside of BuyWithMe in limited circumstances.
   * **6.1.1 Consent.** Except as provided in Section 6.1.2, we require your consent before we share any of your personally identifying information.
-
-### 6.1.2 Disclosure to Third Parties.
+  * #### 6.1.2 Disclosure to Third Parties.
 
     * **6.1.2.1** We may provide personally identifying information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personally identifying information on our behalf.
     * **6.1.2.2** We reserve the right to transfer or assign the personally identifying information we have collected from you in the event BuyWithMe is acquired by, or mergers into, a third party, or in the event we undergo any other form of reorganization. In certain limited circumstances, our business partners may have a contractual right to obtain a copy of your contact information and to contact you if BuyWithMe is unable to fulfill our contractual obligations to those parties.
     * **6.1.2.3** We may share your personally identifying information when we believe in good faith that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of BuyWithMe, its users or the public as required or permitted by law.
-
-### 6.1.3 Notice to California Residents
+  * #### 6.1.3 Notice to California Residents
 
     * As required by California state law, if you are a resident of California and a User of our Site and you would like to know what information we have collected from you and/or to update or change that information, please contact us in writing at the address at the very end of this Privacy Policy, with a letter identifying your name, address, and email address. In that letter, you may update or request that we remove your information (although we retain the right to keep a copy of your information for financial auditing and similar business purposes).
 
@@ -92,6 +90,7 @@
 _If you have any questions about this Privacy Policy, please feel free to contact us through our website by clicking the “contact us” link._
 
 **BuyWithMe, Inc**   
-P.O. Box 990749   
-Boston, MA 02199   
+345 Hudson St.  
+13th Floor  
+New York, NY 10014  
 866-680-7008
