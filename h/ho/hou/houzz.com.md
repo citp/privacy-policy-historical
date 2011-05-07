@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houzz.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230090916id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houzz.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507234934id_/http%3A//www.houzz.com/privacyPolicy) for the most accurate reproduction.*
 
 # Houzz- Home Design, Decorating and Remodeling Ideas and Inspiration, Kitchen and Bathroom Design
 
@@ -14,7 +14,7 @@ Computer sign-on data, statistics on page views, traffic to and from the Houzz s
 Ideabooks, comments, images, other uploaded content, questions and answers, discussion area posts and other messages, including correspondence between Houzz and you. 
 
 We may use your information to provide Houzz services:   
-verify your identity when you log in;   
+verify your identity when you sign in;   
 encourage safe online experiences and enforce our policies;   
 customize users' experience, analyze site usage, improve and measure interest in our services, and inform users about services and updates;   
 communicate administrative announcements when we need to provide users with information that may affect their use of Houzz;   
