@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spruz.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906075812id_/http%3A//www.spruz.com/%3Fpage%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spruz.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507231727id_/http%3A//www.spruz.com/%3Fpage%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
 
-# Free Websites, Free Social Websites, Get More
+# Create a Free Social Website
 
 **PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY**
 
