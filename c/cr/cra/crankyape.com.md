@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crankyape.com privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022020747id_/http%3A//www.crankyape.com/default.asp%3Fpg%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crankyape.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508194632id_/http%3A//www.crankyape.com/default.asp%3Fpg%3DPrivacy) for the most accurate reproduction.*
 
 # Crankyape.com Bank repo rvs, motorcycles, snowmobiles, atvs, boats, trucks, trailers, go karts, jet skis, sleds, fourwheelers, trailers, motorhomes, rvs.
 
@@ -21,8 +21,6 @@
   * [  Watercraft](http://www.crankyape.com/default.asp?pg=DisItems&Cat=5)
   * [  Miscellaneous](http://www.crankyape.com/default.asp?pg=DisItems&Cat=7)
   * [  Lawn & Garden](http://www.crankyape.com/default.asp?pg=DisItems&Cat=17)
-  * [  All items](http://www.crankyape.com/default.asp?pg=todaysInventory)
-  * [  Online Store](http://www.crankyape.com/store/AllItems.aspx "get your CrankyApe.com GEAR here")
 
   
   
@@ -34,6 +32,8 @@
   
   Resources  
   
+  * [  Online Store](http://www.crankyape.com/store/AllItems.aspx "get your CrankyApe.com GEAR here")
+  * [  Forums](http://www.crankyapeforums.com/ "CrankyApe Forums")
   * [  Financing](http://www.crankyape.com/Financing.aspx)
   * [  Shipping](http://www.crankyape.com/shipping.aspx)
   * [  Links](http://www.crankyape.com/Links.aspx)
