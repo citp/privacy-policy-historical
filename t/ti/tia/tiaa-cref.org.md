@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiaa-cref.org privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106223602id_/https%3A//www.tiaa-cref.org/public/about/inside/topics/index.html%3Ftc_lnk%3Dbottomutlity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiaa-cref.org privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508231935id_/https%3A//www.tiaa-cref.org/public/about/inside/topics/index.html%3Ftc_lnk%3Dbottomutlity) for the most accurate reproduction.*
 
 # TIAA-CREF - TIAA-CREF Online Privacy Policy
 
@@ -52,7 +52,7 @@ TIAA-CREF protects the personal information you provide against unauthorized acc
 
 Providing us with access to your information permits us to offer you distinct advantages and better service. It enables us to provide you with more comprehensive financial guidance. In fact, we have established different TIAA-CREF companies to offer you various types of financial products and services. Using your information helps us tailor product offerings to you and eliminate those that may not interest you. This helps us keep expenses low. Unless you tell us otherwise, any TIAA-CREF company may use your nonpublic personal information from records maintained by one of the other TIAA-CREF companies for marketing purposes.
 
-However, if you do not want other TIAA-CREF companies to use your personal financial information for marketing purposes, you may simply let us know by opting out. If you opt out, we will not use your personal information to notify you of new products, services, or enhancements, nor will it be available to other TIAA-CREF companies for marketing purposes. It will, however, still be released as permitted or required by law. Please note that we cannot withdraw any previous disclosures made with your authorization.
+However, if you do not want other TIAA-CREF companies to use your personal financial information for marketing purposes, you may simply let us know by opting out. If you opt out, we will not use your personal information to notify you of new products or services, nor will it be available to other TIAA-CREF companies for marketing purposes. It will, however, still be released as permitted or required by law. Please note that we cannot withdraw any previous disclosures made with your authorization.
 
 To opt out, please call the ATS Service Center at 1 877 518 9161. If you are a Trust Company client or own a tuition financing product (529 Plan) and wish to opt out, please follow the instructions provided below:
 
