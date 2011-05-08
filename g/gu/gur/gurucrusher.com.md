@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurucrusher.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216171205id_/http%3A//gurucrusher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurucrusher.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508222222id_/http%3A//gurucrusher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -89,8 +89,3 @@ In the event that the web site (or a substantial portion of its assets) is acqui
 
 Policy Modifications  
 We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. 
-
-  * ### Current Reviews and Bonuses
-
-
-
