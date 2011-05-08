@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmart.co.nz privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106184234id_/http%3A//www.kmart.co.nz/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.co.nz privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508123624id_/http%3A//kmart.co.nz/about/privacypolicy) for the most accurate reproduction.*
 
 # Kmart Home >
 
@@ -6,7 +6,7 @@ Below is a privacy statement that applies to Kmart.
 
 ####  You know us - you can trust us
 
-At Kmart, we understand and share our customers' and employees concerns about how personal information is collected, used and shared. We want to assure you that we will always handle personal information securely and carefully. We are committed to safeguarding your information; this means that, among other things, we will comply with all applicable Australian privacy laws and ensure our staff are aware of their obligations.
+At Kmart, we understand and share our customers' and employees concerns about how personal information is collected, used and shared. We want to assure you that we will always handle personal information securely and carefully. We are committed to safeguarding your information; this means that, among other things, we will comply with all applicable New Zealand privacy laws and ensure our staff are aware of their obligations.
 
 ####  Why we collect information
 
