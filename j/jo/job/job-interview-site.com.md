@@ -1,12 +1,58 @@
-> *The following text is extracted and transformed from the job-interview-site.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112093257id_/http%3A//www.job-interview-site.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-interview-site.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508081533id_/http%3A//www.job-interview-site.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to us will be held with the utmost care, and will not be used in ways that you have not consented to.  
-Resale or disclosure of information to third parties: The Job Interview & Career Guide does not sell, rent, loan, trade, or lease any personal information collected at the site, including membership forms or email lists.  
-Browser information collected on the website: We constantly improve the value of the materials available on this website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.  
-Privacy of our email lists: The Job Interview & Career Guide maintains several email lists to keep the members informed about new material. Individuals must affirmatively ask to join our mailing lists by registering to newsletters. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized people.  
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [contact](https://web.archive.org/web/20110508081533id_/http%3A//advertise).
+
+At [http://www.job-interview-site.com](https://web.archive.org/web/20110508081533id_/http%3A//) , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.job-interview-site.com and how it is used.
+
+**Log Files**  
+Like many other Web sites, [http://www.job-interview-site.com](https://web.archive.org/web/20110508081533id_/http%3A//) makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+**Cookies and Web Beacons**  
+[http://www.job-interview-site.com](https://web.archive.org/web/20110508081533id_/http%3A//) does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on [http://www.job-interview-site.com](https://web.archive.org/web/20110508081533id_/http%3A//) .
+
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://www.job-interview-site.com and other sites on the Internet.
+
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+
+Google Adsense  
+Commission Junction  
+Clickbank  
+Contextweb  
+Value Click Media  
+Chitika  
+Adside  
+Linkshare  
+Amazon  
+Kontera  
+Infolinks  
+JobInterviewTools.com  
+Susanireland.com
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.job-interview-site.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
+[http://www.job-interview-site.com](https://web.archive.org/web/20110508081533id_/http%3A//) has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.job-interview-site.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+**Disable cookies**  
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+**How You Can Correct or Remove Information**  
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use the [Contact Us](https://web.archive.org/web/20110508081533id_/http%3A//advertise) page.
+
+**Updates and Effective Date**  
+[http://www.job-interview-site.com](https://web.archive.org/web/20110508081533id_/http%3A//) reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on ou site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+
+**Agreeing to Terms**  
+If you do not agree to [http://www.job-interview-site.com](https://web.archive.org/web/20110508081533id_/http%3A//) ‘s [privacy policy](https://web.archive.org/web/20110508081533id_/http%3A//privacy-policy) as posted here on this website, please do not use this site or any services offered by this site.
+
+Your use of this site indicates acceptance of this privacy policy.
 
 ## Limitation of Liability
 
