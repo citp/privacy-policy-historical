@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thebluebook.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130180620id_/http%3A//thebluebook.com/copywr.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebluebook.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508131733id_/http%3A//www.thebluebook.com/2011/index.php%3Fid%3D107) for the most accurate reproduction.*
 
-# Terms of Use and Privacy Policy
+# Privacy Policy | The Blue Book Building and Construction Network
 
 ## Our Terms:
 
