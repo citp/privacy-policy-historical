@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisisgwent.co.uk privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602103615id_/http%3A//www.southwalesargus.co.uk/my/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisgwent.co.uk privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508022528id_/http%3A//www.southwalesargus.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,7 +54,7 @@ Your personal information, including contact information such as postal and emai
 
 #### Disclosure of personal information to third parties
 
-Your personal information will be disclosed where we are obliged or permitted to do so by law, or in the circumstances described in paragraph 15 of the Terms. We may disclose non-personally identifiable data to commercial advertisers on our websites or any other of our commercial clients to help them understand and meet potential customer preferences and needs. We may disclose your personal information to selected third parties who may then send information to you about goods and services. You can indicate you do not wish to receive such material by contacting us [here]().
+Your personal information will be disclosed where we are obliged or permitted to do so by law, or in the circumstances described in paragraph 15 of the Terms. We may disclose non-personally identifiable data to commercial advertisers on our websites or any other of our commercial clients to help them understand and meet potential customer preferences and needs. We may disclose your personal information to selected third parties who may then send information to you about goods and services. You can indicate you do not wish to receive such material by contacting us [here](https://web.archive.org/my/contact-us).
 
 #### Retention of personal information
 
