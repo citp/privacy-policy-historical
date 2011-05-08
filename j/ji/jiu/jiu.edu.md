@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jiu.edu privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226140107id_/http%3A//www.jiu.edu/about/faq/online-privacy-policy-highlights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiu.edu privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508142922id_/http%3A//www.jiu.edu/about/faq/online-privacy-policy-highlights) for the most accurate reproduction.*
 
-# Online Privacy Policy Highlights | Jones International University
+# Online Privacy Policy Highlights
 
 ### Scope 
 
