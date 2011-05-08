@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the true-blood.net privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129002655id_/http%3A//true-blood.net/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the true-blood.net privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508154057id_/http%3A//true-blood.net/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | True-Blood.net - True Blood season 4 news, spoilers, & photos!
+
+If you're new here, you may want to subscribe to our [RSS feed](http://true-blood.net/feed/) and [follow us on Twitter](http://twitter.com/TrueBloodDotNet). Thanks for visiting!
 
 This is the web site of **True-Blood.net**.
 
