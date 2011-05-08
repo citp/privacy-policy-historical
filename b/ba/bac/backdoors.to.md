@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221162717id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backdoors.to privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508035857id_/http%3A//www.backdoors.to/backdoors/privacy.asp) for the most accurate reproduction.*
 
 # Backdoors.To Privacy Policy
 
@@ -8,7 +8,7 @@
 
 At Backdoors.To we recognize that privacy is important. This Policy applies to all the products and services offered by Backdoors.To.
 
-If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20101221162717id_/http%3A//www.backdoors.to/backdoors/contact.asp).
+If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/web/20110508035857id_/http%3A//www.backdoors.to/backdoors/contact.asp).
 
 **Information we collect and how we use it:**
 
@@ -87,20 +87,22 @@ Backdoors.To regularly reviews its compliance with this Policy. Please feel free
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice.
 
   
-| |  | My Favorites  
+| |  | My Favorites Games  
 ---  
-|  ·  | Visited Games: [Help](https://web.archive.org/backdoors/help.asp#lastvisited)   
-[Y Dynomite](https://web.archive.org/yahoo/dynomite/)  
-[P Nascar](https://web.archive.org/pogo/nascar/)  
-[P Blackjack-Carnival](https://web.archive.org/pogo/blackjack-carnival/)  
+| •  | Visited Games: [Help](https://web.archive.org/backdoors/help.asp#lastvisited)   
+[Yahoo Pool](https://web.archive.org/yahoo/pool/)  
+[Pogo Pool](https://web.archive.org/pogo/pool/)  
+[Yahoo Backgammon](https://web.archive.org/yahoo/backgammon/)  
+[Yahoo Chess](https://web.archive.org/yahoo/chess/)  
+[Yahoo France](https://web.archive.org/yahoo/france/)  
 ---|---  
 Gaming Leagues  
-|  ·  |  Favorite League [[select](https://web.archive.org/backdoors/league-favorite.asp?backurl=/backdoors/privacy.asp)]  
+| •  |  Favorite League [[select](https://web.archive.org/backdoors/league-favorite.asp?backurl=/backdoors/privacy.asp)]  
 ---|---  
- · | [Leagues List](https://web.archive.org/backdoors/leagues.asp)  
- · | [Submit your League](https://web.archive.org/backdoors/league-affiliate.asp)  
- · | [Create a League](http://www.leaga.com/)  
- · | [Eliters.com](http://www.eliters.com/)  
+• | [Leagues List](https://web.archive.org/backdoors/leagues.asp)  
+• | [Submit your League](https://web.archive.org/backdoors/league-affiliate.asp)  
+• | [Create a League](http://www.leaga.com/)  
+• | [Eliters.com](http://www.eliters.com/)  
 Game Resources  
-|  · | [Game Jargon](https://web.archive.org/backdoors/jargon.asp)  
+| • | [Game Jargon](https://web.archive.org/backdoors/jargon.asp)  
 ---|---
