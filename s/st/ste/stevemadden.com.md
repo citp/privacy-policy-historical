@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevemadden.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229214553id_/http%3A//www.stevemadden.com/contentDisplay.aspx%3FpageID%3D1033) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevemadden.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508180534id_/http%3A//www.stevemadden.com/contentDisplay.aspx%3FpageID%3D1033) for the most accurate reproduction.*
 
 # Steve Madden - Privacy Policy
 
@@ -16,12 +16,13 @@ We use customer information in an effort to improve your shopping experience and
 
 **Personal Information Collected Online by SteveMadden.com and at Our Stores**
 
-Personal Information is collected online by us or our service providers on our behalf when users voluntarily register with SteveMadden.com to purchase items, receive electronic newsletters, use community and communication services, answer surveys and enter contests and other promotional opportunities provided on SteveMadden.com, when users make a purchase, and when users utilize the "Email to a Friend" feature. We also maintain a record of your product interests and purchases online. We may receive personal usage and demographic information from our Stores and from third parties we work with. 
+Personal Information is collected online by us or our service providers on our behalf when users voluntarily register with SteveMadden.com to purchase items, receive electronic newsletters, use community and communication services, answer surveys and enter contests and other promotional opportunities provided on SteveMadden.com, when users make a purchase, and when users utilize the "Email to a Friend" feature. We also maintain a record of your product interests and purchases online. We may receive personal usage and demographic information from our Stores and from third parties we work with. When you make an online purchase we collect information about you. We use this information to market our products and services to you, by adding you to our email promotions and campaigns.
 
 In our Stores, Personal Information is collected from you in a number of ways, including the following:   
 
 * When you purchase products from our Stores, we may collect your name, address, email address, telephone number(s) and credit card information (with the expiration date). In addition, we collect transaction information related to your purchase (such as what you bought, the price you paid, the payment method you used and if the product was on sale).      
-* When you fill out any in-store promotional surveys, we may gather certain Personal Information, such as your opinions on specific products and/or services, in addition to identifying information, such as your name, address, telephone number(s), email address(es), income and employment status.
+* When you fill out any in-store promotional surveys, we may gather certain Personal Information, such as your opinions on specific products and/or services, in addition to identifying information, such as your name, address, telephone number(s), email address(es), income and employment status.  
+
 
 **Aggregate Information Collected Online by SteveMadden.com and at Our Stores**
 
