@@ -1,40 +1,48 @@
-> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227085045id_/http%3A//www.handsonnetwork.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508202020id_/http%3A//www.handsonnetwork.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting HandsOnNetwork.org. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this website.
+**HANDSON NETWORK**
 
-HandsOn Network takes precautions to keep the donor information disclosed to us secure, and HandsOn Network will not intentionally disclose such information to third parties for commercial purposes. To prevent unauthorized access, maintain data accuracy, and to ensure the appropriate use of information, we have put in place electronic safeguards, as well as, internal organizational procedures to safeguard and secure the information that you provide.
+**  PRIVACY POLICY**
+
+_**Last Updated 1/13/2011**_
+
+At HandsOn Network, Inc. (“we,” “us,” “our” and “HON”), your right to privacy is a primary concern. This privacy policy explains how the information you provide to HON during your use of this website, handsonnetwork.org (the “Site”) is protected by us.
 
 **The Information We Collect**
 
-In portions of this site, you can donate money, contact us and subscribe to one of our services such as our online newsletters. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+On portions of this Site, you can donate money, contact us, subscribe to one of our services (e.g. online newsletters), interact with our blog, share your own volunteer experiences, and register for volunteer. In connection with theses activities, we may collect personally identifiable information including, name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests.
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
+We may also collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows 7 or Mac OS) and the domain name of your Internet service provider (e.g., Earthink or AT&T).
 
-### How We Use the Information
+**Cookies**
 
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
+"Cookies" are small text files that are either used for the duration of a session ('session cookies'), or saved on a user's hard drive in order to identify that user the next time he/she logs on to the Site ('persistent cookies'). We may use 'session cookies' to identify registered users logging in to the Site. Further, if the functionality is available, we may ask you if you wish to store certain information for use when you are on the Site.  If you choose to use these features, persistent cookies will be stored on your computer.  Session cookies are deleted from the server soon after the session ends and are not collected or saved. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that, although if you do disable cookies from your browser you may not be able to access certain sections of the Site.
 
-We sometimes use this information to communicate with you, to fulfill a request by you for an online newsletter, or to contact you about your relationship with us.
+**How We Use Your Information**
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage.
+We may use the information you provide about yourself to fulfill your requests for information on our programs, and services, to respond to your inquiries to us, and to inform you of other programs or services that we believe may be of interest to you.
 
-We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company.
+We may also use this information to communicate with you, to fulfill a request by you for an online newsletter (if any), or to contact you about your relationship with us.
 
-Agents and contractors of HandsOn Network who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for HandsOn Network.
+We sometimes use the non-personally identifiable information that we collect to improve the design, operation, and content of our Site. We also may use this information in the aggregate to analyze Site usage.
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.
+We may disclose personally identifiable information in response to legal process, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we will transfer information to a company that we are acquired by or merged into.
+
+Agents and contractors of HON who have access to personally identifiable information are required to protect your personally identifiable information in a manner that is consistent with this Privacy Policy.
 
 **Collection of Information by Third-Party Sites, and Sponsors**
 
-Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+Portions of our Site contain links to other websites whose information practices may be different than ours. You should consult the other websites' privacy notices and terms of use as we have no control over those websites or treatment of information that is submitted to, or collected by, these third parties.
 
-This site sometimes may offer content that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. Hands on Network has no control over these third parties' use of this information.
+This Site sometimes may offer content that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the Site activity. HON has no control over these third parties' use of this information.
+
+If you are using our site due to a relationship that the organization with whom you are affiliated has with HON, please understand that that organization has complete access to your information and is not limited by this privacy policy  at all.  You should refer to its privacy policy about it use and protection of your information.
 
 **Our Commitment to Security**
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. Any personal information collected through our donation or event registration is processed by third parties for whom such processing is a primary line of business, ensuring the highest levels of security for your personal and credit information.
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and properly use the information we collect online. Despite our use of the highest levels of security, no data transmission over the Internet can be guaranteed to be 100% secure.  Accordingly, we cannot ensure or warrant the security of the information that you submit to us via the Site and you do so at your own risk.
 
 **Parental Consent**
 
@@ -42,16 +50,10 @@ If you are under the age of 18, you must obtain consent from your parents or gua
 
 **How You can Access or Correct Information**
 
-For instructions on how you can access the personally identifiable information that HandsOn Network site has collected about you online, or how to correct factual errors in such information, please click [here](mailto:info@HandsONetwork.org).
+For instructions on how you can access the personally identifiable information that the HON has collected from you, or how to correct factual errors in such information, please click **[here](mailto:info@handsonnetwork.org)**.
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
 **How to Contact Us**
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [info@HandsONetwork.org](mailto:info@HandsONetwork.org)[.](mailto:info@handsonnetwork.org?subject=Privacy%20Policy%20on%20handsonnetwork.org)
-
-### Updates & Effective Date
-
-From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
-
-_The Privacy Notice posted on this site was updated on or about May 30, 2008._
+If you have any questions or concerns about the online policy for this Site or its implementation please **[contact us](mailto:info@handsonnetwork.org)**.
