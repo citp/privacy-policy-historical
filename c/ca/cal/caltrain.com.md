@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the caltrain.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628041044id_/http%3A//www.caltrain.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caltrain.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508030143id_/http%3A//www.caltrain.com/about/privacypolicy.html) for the most accurate reproduction.*
 
-# caltrain.com - Privacy Policy
-
-| 
-
-#### Caltrain Privacy Policy
+# Privacy Policy
 
 This Privacy Policy ("Policy") is effective as of July 1, 2004. This Policy may be amended from time to time; notices of amendments will appear at the bottom of this Policy. It is your responsibility to review this Policy and to check for notices of amendments. 
 
-Caltrain may collect the following personal information through the Contact page on its Web site: 
+**Use of Personal Information  
+** You provide this personal information, if at all, on a voluntary basis. It is used for the purposes of soliciting feedback and responding to that feedback, as well as for the general purpose of improving the services that we provide. Caltrain does not share this personal information with third parties, except as otherwise permissible by law. Personal information that may be collected includes first and last name; e-mail address; phone number; service used.
 
-  * Your first and last name
-  * Your email address
-  * Your phone number 
+**Use of Subscription Information  
+** Our site's "Subscribe" area requires customers to provide an e-mail address. We use this information to send you updates to the page(s) you decide. We reserve the right to send major service change and fare messages to all subscribers. Users may opt out, or in at any time. (See Opt Out/Opt In, below.) 
 
-You provide this personal information, if at all, on a voluntary basis. It is used for the purposes of soliciting feedback and responding to that feedback, as well as for the general purpose of improving the services that we provide. Caltrain does not share this personal information with third parties, except as otherwise permissible by law. 
+**Opt Out/Opt In  
+** Caltrain.com allows users to opt out of receiving e-mail from us. To opt out of our mailing list you can UnSubscribe or send us an e-mail to remove your address from the subscribed mailing list. 
 
-Caltrain may collect the following personal information through the Ticket-By-Internet page on its Web site: 
+**Disclaimer**  
+This site contains links to other sites. Caltrain.com is not responsible for the content or privacy practices of these sites. 
 
-  * Your first and last name
-  * Your email address
-  * Your phone number 
-  * The Caltrain stations that you travel to and from
-  * Your PIN (provided by Caltrain)
+**Contact Us**  
+If you have any additional questions or concerns about our privacy policy, please [contact us](https://web.archive.org/about/Contact_Us.html "Contact Us"). 
 
-You provide this personal information, if at all, on a voluntary basis. Caltrain uses this personal information to facilitate your purchase of tickets by Internet. Caltrain shares this personal information with third parties, such as credit card companies, only as necessary to accomplish your purchase of tickets, or as otherwise permissible by law. 
+Amended Oct. 21, 2004 + June 30, 2010
+
+You can now receive Caltrain notifications via e-mail!
+
+Find out more [HERE  
+](https://web.archive.org/riderinfo/subscribe.html)
