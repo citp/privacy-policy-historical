@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oipolloi.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107101105id_/http%3A//www.oipolloi.com/Store/OiPolloi-PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oipolloi.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508233523id_/http%3A//www.oipolloi.com/Store/OiPolloi-PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Oi Polloi of Manchester :: Help and Advice
 
