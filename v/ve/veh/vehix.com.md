@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vehix.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231194523id_/http%3A//www.vehix.com/corporate/aboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vehix.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508060205id_/http%3A//www.vehix.com/corporate/aboutUs/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
