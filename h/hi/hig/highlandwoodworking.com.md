@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highlandwoodworking.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906144913id_/http%3A//www.highlandwoodworking.com/highland-woodworkings-privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlandwoodworking.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508023602id_/http%3A//www.highlandwoodworking.com/highland-woodworkings-privacy-statement.aspx) for the most accurate reproduction.*
 
 # Highland Woodworking's Privacy Statement
 
@@ -11,13 +11,6 @@ search for articles and information...
 [   
 ](https://web.archive.org/cart.aspx)  
 ---  
-  
-**HIGHLAND WOODWORKING** has been a dependable source for woodworking tools, books, supplies and education for over 30 years, and is family owned and operated. We invite you to visit our Highland [**Woodworking Tool Blog**](http://www.highlandwoodworking-blog.com/weblog).
-
-[**Highland Affiliate Program**](https://www.highlandwoodworking.com/index.asp?PageAction=Custom&ID=131)  
-Highland Woodworking Tools Affiliate Program! Give your visitors access to one of woodworking's most experienced and trusted tool retailers.   
-[**Become an affiliate member**](https://www.highlandwoodworking.com/index.asp?PageAction=Custom&ID=131) of our woodworking team and earn sale commissions while establishing name recognition for your own site.
-
 | | |   
 ---|---|---  
 | 
@@ -61,24 +54,42 @@ or you can reach us by telephone at 800-241-6748
 
 |   
 | |   
-[](https://www.mcafeesecure.com/RatingVerify?ref=highlandwoodworking.com)   
+  
+[](https://www.mcafeesecure.com/RatingVerify?ref=highlandwoodworking.com)
+
+[ ](http://www.highlandwoodworking.com/woodworking-tool-sale.html "Woodworking Tool Sale")
+
 |   
 ---  
-  
+  
+**OUR LATEST NEW woodworking tool catalog is now available to browse online! _CLICK THE IMAGE  
+TO BEGIN_**
 
-[ ](https://web.archive.org/festool-power-tools.aspx)
+|  [](http://www.highlandwoodworking.com/woodworking-tool-catalog-411.aspx "Woodworking Tool Catalog")  
+---|---  
+  
 
-[   
-](https://web.archive.org/fein-power-tools.aspx) [   
-](https://web.archive.org/spax-unidrive-wood-screws.aspx)
 
-[ ](https://web.archive.org/steel-city-power-tools.aspx)
+**    TWITTER UPDATES**
 
-[   
-](https://web.archive.org/login.aspx?list&id=1061319)  
+
+   
+
+  
+  
 ---  
      
 
-[ ](https://web.archive.org/web/20100906144913id_/http%3A//www.highlandwoodworking.com/saw-sharpening-service.aspx)
+[ ](https://web.archive.org/highland-woodworking-gift-certificate-1.aspx)
 
-[ ](http://www.youtube.com/user/highland1045 "Highland Woodworking Videos")
+     
+
+[ ](https://web.archive.org/web/20110508023602id_/http%3A//www.highlandwoodworking.com/saw-sharpening-service.aspx)
+
+**HIGHLAND WOODWORKING** has been a dependable source for woodworking tools, books, supplies and education for over 30 years, and is family owned and operated. We invite you to visit our Highland [**Woodworking Tool Blog**](http://blog.woodworkingtooltips.com/).
+
+[ **Highland Affiliate Program**](https://www.highlandwoodworking.com/index.asp?PageAction=Custom&ID=131)  
+Highland Woodworking Tools Affiliate Program! Give your visitors access to one of woodworking's most experienced and trusted tool retailers.   
+[****](https://www.highlandwoodworking.com/index.asp?PageAction=Custom&ID=131)
+
+[****](https://www.highlandwoodworking.com/index.asp?PageAction=Custom&ID=131)
