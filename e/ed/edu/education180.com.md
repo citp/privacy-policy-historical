@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education180.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028005838id_/http%3A//education180.com/FindYourDegree/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education180.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508035856id_/http%3A//education180.com/FindYourDegree/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Education180.com
 
@@ -12,19 +12,19 @@ By visiting Education180.com you are accepting the terms described in our privac
 Information we gather on our site helps us enhance the experience that future visitors may have on our site. Here are the types of information we gather: 
 
   * **Information You Give Us**  
-On our site, you will find a variety of forms. Each form pertains to a particular school or educational institution. Each form may collect information such as Name, Phone number, email address, postal address, gender, and age. Not all forms require all the information. You can choose not to provide the information, but you may not be able to complete the process of requesting information from that school. We use the information you provide to inform the schools of your interest and the best way of getting in contact with you. You will usually be contacted via phone or email by a representative of the school. You may request information from more than one school, which means you may be contacted by each school. We may sell your information to other partner companies if your request for information is rejected by a school. In this case a partner may contact you with other educational offers. If you opt into the newsletter, you may receive other info from our site or our partners. This is not a required question to complete the form. 
+On our site, you will find a variety of forms. Each form pertains to a particular school or educational institution. Each form may collect information such as Name, Phone number, email address, postal address, gender, and age. Not all forms require all the information. You can choose not to provide the information, but you may not be able to complete the process of requesting information from that school. We use the information you provide to inform the schools of your interest and the best way of getting in contact with you. You may be contacted via phone, sms, postal mail or email by a representative of the school. You may request information from more than one school, which means you may be contacted by each school. We may sell your information to other partner companies if your request for information is rejected by a school. In this case a partner may contact you with other educational offers. If you opt into the newsletter, you may receive other info from our site or our partners. This is not a required question to complete the form. 
 
 We also want you to know that we do at times send the information to third party validation services to ensure all of the information is accurate and true. This helps us ensure that the schools which you are requesting information from have the most accurate way of getting in contact with you. 
 
   * **Automatic Information**  
 We receive and store certain types of information when you interact with our site. Our site uses "cookies" like many other sites. This helps us determine what browser you are using and how to best present the information to you. Some automatic information examples are: browser type, operating system, IP address, and date and time of information request. You can disable cookies in your web browser, however this may affect the experience you have on our site, since you may not be able to see all of the features. The cookies we set do have an expiration date and will automatically be disabled after the expiration date. 
   * **Information from Other Sources**  
-We do receive information from other sources and append this to the information that is sent to each school. Examples of this information are the following: Source of where you initially clicked on an advertisement, what you may have typed in, during your search at Google, Yahoo!, Ask, or MSN which spawns our advertisement. This information helps us better optimize our site based on your information needs. 
+We do receive information from other sources and append this to the information that is sent to each school. Examples of this information are the following: Source of where you initially clicked on an advertisement, what ad you clicked on, what you may have typed into a search engine, etc. This information helps us better optimize your user experience based on your information needs. 
 
 **Does Education180.com share the information we receive?**  
 Information about our customers is very important to us. We do reserve the right to sell the information to other parties. If you wish to be removed from being contacted by our partners, simply email us at [contactus@Education180.com](mailto:contactus@education180.com). 
 
-The information that is submitted to each school is not subject to being sold to anyone else except the school you have requested information from. Our relationships and contracts with the schools prohibit us from contacting you directly without your expressed consent. 
+Our relationships and contracts with the schools prohibit us from contacting you directly without your expressed consent. 
 
 **What sort of Information might I receive from Education180.com?**  
 If you do opt-in to our newsletter, we may on occasion send out information that we deem of interest to you. This could range from helpful hints about education to other advertising offers such as but not limited to loan offers, and/or consumer product offers. 
@@ -37,7 +37,7 @@ Education180.com fully believes in transparency and accessibility. If you wish t
 If you wish to remove your contact information from a particular school, you must contact that school directly. You can also email us, and we will forward on your request to the appropriate representatives at each school. It usually takes about 10 days for all parties to comply with your request. 
 
 **Are Children allowed to use Education180.com?**  
-All people are allowed to access and use our site. However, since we market education for adult learners, we usually require the person to be at least 18 years old to submit a request for information.
+All people are allowed to access and use our site. However, since we market education for adult learners, we require the person to be at least 18 years old to submit a request for information.
 
 **How safe is my information?**
 
@@ -53,4 +53,4 @@ Sincerely,
 
 The Education180.com Team
 
-Updated September 2009 
+Updated November 21, 2010 
