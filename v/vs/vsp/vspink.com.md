@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vspink.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108044121id_/http%3A//www.vspink.com/pop/security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vspink.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508054116id_/http%3A//www.vspink.com/pop/security.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
