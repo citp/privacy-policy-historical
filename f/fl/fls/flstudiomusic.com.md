@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flstudiomusic.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031165010id_/http%3A//www.flstudiomusic.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flstudiomusic.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508080849id_/http%3A//www.flstudiomusic.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Free FLP Files Samples Loops Soundfonts VST: Privacy Policy
 
@@ -22,4 +22,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-This post confirms my ownership of the site and that this site adheres to Google AdSense program policies and Terms and Conditions. 
+This post confirms my ownership of the site and that this site adheres to Google AdSense program policies and Terms and Conditions.
