@@ -1,56 +1,104 @@
-> *The following text is extracted and transformed from the regonline.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203055708id_/http%3A//www.activenetwork.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regonline.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508195645id_/http%3A//www.regonline.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - The Active Network
+# Privacy Policy
 
-Active recognizes that privacy is important. This Privacy Policy applies to all of the websites and products owned and/or operated by The Active Network, Inc. and its subsidiary and affiliated companies (collectively “Active”) unless expressly noted otherwise. The majority of Active’s websites are intended for a general audience and this policy describes our general use of information. For Active’s websites that may be used by a younger audience, more specific policies applicable to children under the age of 13 will be located on each such site.
+## RegOnLine Privacy Statement
 
-**Collection and Use of Information**
+### Last Updated 12/07/10
 
-Some of Active’s websites permit users, subject further to Active’s online terms of use, to register for events or programs, request information, enter contests, vote in polls or otherwise express opinions or submit comments. As part of such use, you may be asked to register for a free ID and password and to provide certain personally identifying information such as name, address, phone number, email address, birth date, ZIP code, gender, personal interests and credit card information for transactions. Active uses your information to perform transactions, deliver services or information you have requested, and offer you products and services from Active and our trusted partners, programs or services that we believe may be of interest to you. Active also uses your information to contact you when necessary for customer service purposes. We may combine your information that we have with information we obtain from business partners or third parties to provide you with a better product or Active experience. Active may use information relating to your visit or use of our websites, or information you provide to us, for market research purposes in order to continually improve the product and services that Active delivers to you.
+The Active Network, Inc. and our subsidiaries and affiliates (“Active” or “we”) respect your preferences concerning the treatment of personal information that we may collect from your use of RegOnline located at [www.regonline.com](http://www.regonline.com/) (“RegOnline”). This statement lets you know how we collect and use your personal information, and how you can control its use. This policy describes the broadest potential use of personal information while on www.regonline.com and in services that we provide when RegOnline powers and provides services that is consistent with the terms of this statement; however, we may make far less use of your personal information.
 
-If you choose to submit content for publication we may publish your screen name and other information as provided by you or to personalize your user experience. If you register for a competitive event, your name, event entry identification, and interim and final event time results may be made publicly available on any Active website. 
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.regonline.com/seal_m "Validate TRUSTe privacy certification")
 
-Active receives and records information on our server logs from your browser, including your IP address, Active cookies (small pieces of information stored by your browser), and the page(s) you request. Active uses this information to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+RegOnline has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@active.com](mailto:privacy@active.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-When Active does share your information with our subsidiaries, affiliated companies and trusted businesses or persons, we require that these parties agree to process such information based on our direction and in compliance with appropriate confidentiality and security measures. 
+#### Our Use of Your Personally Identifiable Information.
 
-Active also displays targeted advertisements based on personal information. Third party advertisers (including ad-serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria. However, Active does not provide any personal information to the advertiser when you interact with or view a targeted advertisement.
+We only use the personally identifiable information which is provided by you through our Web sites to help us improve our services to you, to provide you with the information you have requested, to respond to your questions, and for other internal purposes. We do not sell your personal information.
 
-Except as otherwise described in this Privacy Policy, it is Active's policy not to distribute to third parties any personally identifying information about you without your consent (usually communicated through either an “opt-out” or “opt-in” notification or mechanism). Upon obtaining your consent, Active may provide access to or otherwise disclose your personally identifying information to third parties. However, we may aggregate certain personally identifying information - meaning that the information from many Active users is grouped together in a way that does not disclose the personal information of any particular user – without your consent. 
+RegOnline, including what type of information is gathered on the Web site, how the information is used, and with whom the information is shared. In addition, we explain how Active’s RegOnline services for clients in “Customer Information and Services Data Privacy” below.
 
-You may choose not to submit certain personal information while on our websites, in such instances Active may not be able to provide you with certain services.
+#### Customer Information and Services Data Privacy
 
-If you are using our services to register for an event, program or to purchase a third party product, Active shares the personal information you provide to applicable third party(ies) to fulfill your request. Each such party operates independently from Active and maintains its own privacy and security policy. Active bears no responsibility from the activities of any such third party to whom Active provides information to process your request and you should contact those third parties directly regarding your preferences for the use of your personal information.
+RegOnline offers online registration services for our clients. The data collected at the behest of our clients is shared by both Active and our clients. When you are on the pages, the appropriate privacy policy that governs the collection and use of the data will be present. RegOnline includes services for our clients where our applications collect user data from our clients’ users who are registering for an event, taking a survey, attending a Web event and/or making a donation to the respective organization. Information may include name, address, phone, email, credit card information and other information required to complete the various forms. For the specific uses by our clients, please consult the client’s privacy statements which govern the use by them of your information, regardless of its inclusion on a registration page through RegOnline.
 
-**Legal Disclosures**
+Active operates globally and has hosting centers that may store and process your data in various locations in the United States. Please be assured that Active takes reasonable precautions to protect personal data in these centers and in other locations in the United States from loss, misuse and unauthorized access, disclosure, alteration, and destruction. 
 
-Active may release your personal information to third parties: (a) in order to comply with a valid legal requirement such as in compliance with any law, regulation, search warrant subpoena or court order; or (b) in special cases, when we believe it is necessary to share information in order to investigate, prevent or take action regarding any illegal or unauthorized activities, suspected fraud, situations involving potential threats to the physical safety of any person or violations of our Terms of Use. 
+#### Personally Identifiable Information That We Collect at our Web Site
 
-**Information Security**
+In general, you can visit our Web site without identifying yourself or revealing any personally identifiable information. There are times, however, that you may choose to give us personally identifiable information, such as your name, address, phone number, e-mail address, and other information about yourself or your company. For example, if you would like to register for our services, receive information about RegOnLine, schedule a demo, use our forums or blogs, and schedule events you will need to provide us with some information about you and/or you business including but not limited to your name, address, phone, email, fax number. 
 
-Active has established and maintains reasonable security procedures to protect the confidentiality, security and integrity of your personally identifiable information, including the use of secure socket layer (SSL) and encryption methods. We regularly evaluate our data collection, storage and processing practices and security to guard against unauthorized access to our systems. You can help to protect your information by safeguarding your Active password and using caution and discretion when posting information on public areas of the sites. 
+If you sign up for our e-mail updates, you will need to provide us with your e-mail address when applicable. If you choose to unsubscribe from promotional emails, please click unsubscribe in any promotional email message. We also provide you with the opportunity to e-mail us questions or comments about this Web site and our Company at [advisor@regonline.com](mailto:advisor@regonline.com). 
 
-Although Active uses commercially reasonable efforts to safeguard your information, transmissions made by means of the Internet cannot be fully secure in all instances and we cannot guarantee that personally identifiable information that we collect will never be disclosed in a manner that is not consistent with this Privacy Policy.
+_Surveys_ RegOnline provides functionality which offers you the opportunity to participate in surveys on one of our sites. If you participate, you may be requested to provide certain personally identifiable information (such as demographic information, e-mail, phone, and address) from you. Participation in these surveys are completely voluntary and you therefore have a choice whether or not to disclose this information. All survey results are provided directly to our client and we have no direct access to this information. 
 
-More information on Active’s security can be found at: <http://www.activenetwork.com/security.htm>.
+_Invitations_ If you choose to use our referral service to tell a friend about one of our sites, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit a site with a link to that site. Active does not store this information. The information collected is for the sole purpose of sending this one-time email to visit one of our sites. 
 
-**Unsubscribe**
+_Forums_ If you use a forum on one of our sites, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-If addition, if at anytime, you no longer want us to send you any regular communications, you may “opt-out” of such future communications, clicking on the “unsubscribe” link at the bottom of the newsletter or email. To “opt-out” of products, programs, services, or offers from our trusted partners, please contact [privacy@activenetwork.com](mailto:privacy@activenetwork.com). 
+_Testimonials_ From time to time we receive and post testimonials from our valued customers on one of our sites. We receive permission to post these testimonials prior to posting to a site. If you would like your testimonial removed, please contact us at [advisor@regonline.com](mailto:advisor@regonline.com).
 
-**Contact Us**
+### Communications from the Site
 
-Active regularly reviews its practices regarding personally identifiable information and this Privacy Policy. If you have any questions, comments or concerns, please contact us at:
+#### Customer Service
 
-Attn: Privacy Officer  
+Based upon the personally identifiable information you provide us, we will communicate with you in response to your inquiries and in order to provide the services you request, confirm transactions and registrations and to manage your account and/or services. You will not be able to unsubscribe from a transactional email. We will communicate with you by email or telephone, in accordance with your wishes. 
+
+Active will use the clients e-mail address provided to send secondary communications such as a newsletter or new product/services information. You may “opt-out” of these secondary communications by following the unsubscribe instructions on the newsletter or other promotional e-mail. To “opt-out” of products, programs, services, or offers from Active or our trusted partners, please contact [privacy@active.com](mailto:privacy@active.com).
+
+#### Third Party Access to Your Personally Identifiable Information
+
+Active will not sell, rent, or lease your personally identifiable information to third parties other than to provide necessary services to register you for your chosen event (which would include the client whose event you register for and if payment is processed, the payment card entities but subject to payment card industry standards) unless we have your permission or as described in this privacy policy (see “Business Transitions”). Active will provide you the option to opt-out from any sharing of your personally identifiable information with our subsidiaries or affiliates within the Active family for their promotional use when the information to be shared is collected. 
+
+We will only share the personally identifiable information you provide online with other service providers (such as marketing partners) for the uses described in this Privacy Statement. Our service providers are prohibited from using your personally identifiable information for their own promotional purposes. 
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web sites. All Active entities having access to your personally identifiable information are subject to this privacy statement with respect to the use of your personally identifiable information. 
+
+#### Business Transitions
+
+In the event Active goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
+
+#### Security
+
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
+
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can email us at [privacy@active.com](mailto:privacy@active.com). 
+
+#### Access
+
+We will respond in a timely manner to your requests to correct inaccuracies in your personal information. To correct inaccuracies or to delete the personal information RegOnline has collected from you send us an e-mail at privacy@active.com with “Remove” in the subject line. We will act upon your request within 30 days. 
+
+#### Technologies on the Web Site
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+
+We do not link this automatically collected data to personally identifiable information. We use a third-party tracking service that uses tracking technologies to track non-personally identifiable information about visitors to our site in the aggregate in order to capture usage and volume statistics. We use this information to improve our Web site and services. 
+
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to your personally identifiable information you submit while on our site.
+
+Some of our business partners (such as a tracking utility company) use cookies and Web beacons on our sites. We have no access or control of these third party tracking utilities. 
+
+We use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookies management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>. 
+
+#### Links to Other Web Sites
+
+From time to time, our Web sites may contain links to other Web sites. If you use these links, you will leave our Web sites. The privacy policies of such other Web sites govern the information collection and dissemination practices occurring on such Web sites. We encourage you to review the policies of these third party sites.
+
+#### Questions Concerning Web Site Privacy 
+
+Questions regarding this Privacy Statement should be directed to [privacy@active.com](mailto:privacy@active.com). 
+
+#### Changes in our Web Site Privacy Disclosures
+
+If we decide to change our privacy statement, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you by means of a notice on our home page.
+
 The Active Network, Inc.  
-10182 Telesis Court  
-San Diego, CA 92121
-
-[](mailto:privacy@activenetwork.com)[privacy@activenetwork.com](mailto:privacy@activenetwork.com) ****
-
-**Changes**
-
-Active may transfer the personal information collected under this Privacy Policy to a third party in the event of a transfer of ownership such as a merger, acquisition or any form of sale of the majority of the assets of Active. 
-
-Active reserves the right to modify or supplement this privacy policy at anytime without any prior notice to you. If we make any changes, we will update the Active websites and this Privacy Policy to include such change. Please regularly review this Privacy Policy to keep up to date with any changes that may affect your use of the Active Websites. Your continued use of the Active websites once the revised privacy policy has been posted on the websites affirms your agreement to such changes.
+10182 Telesis Court   
+San Diego, CA 92121  
+Attn: RegOnline/Privacy Officer
