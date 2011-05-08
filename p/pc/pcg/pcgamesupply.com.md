@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcgamesupply.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926171343id_/http%3A//www.pcgamesupply.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcgamesupply.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508040323id_/http%3A//www.pcgamesupply.com/privacypolicy.php) for the most accurate reproduction.*
 
 # PCGameSupply.com - Privacy Policy
 
@@ -20,13 +20,22 @@ On all Company web sites that collect Personal Information, we specifically desc
 
 We collect Personal Information when you contact us, when you register with us, when you use our products and services, when you submit an order with us, when you visit our web sites or the web sites of certain of the Company's partners, and when you enter promotions and sweepstakes. 
 
+  
+
+
 ### Registration
 
 When you register with us on this site, you first complete the on-line registration form, which requires you to create a username and password. During registration, you are also required to provide Personal Information, which may include name, billing address, shipping address, telephone number, e-mail address, credit card number, and credit card expiration date. We use this information so that we may contact you about the services and products on the site(s) in which you have expressed interest or requested and to facilitate the completion of an order.
 
+  
+
+
 ### Other Information Collected
 
 Some information may be collected automatically every time you visit the Company's web sites, such as cookies and computer information. In addition, information may be collected from other independent, third-party sources. We also collect information about which pages you visit within this site. This site visitation data is identified only by a unique URL.
+
+  
+
 
 ### Cookies
 
@@ -38,15 +47,24 @@ By configuring the options in your browser, you may control how cookies are proc
 
 Some of the Company's business partners (e.g., advertisers) use cookies on the site. We have no access to or control over these cookies (see "Third Party Advertising" and "Third Party Cookies" below). Accordingly, this Privacy Policy covers the use of cookies by the Company only and does not cover the use of cookies by any advertisers.
 
+  
+
+
 ### Log Files
 
 As is true of most web sites, the Company gathers certain information automatically and stores it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet services provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. The Company uses this information to analyze trends, to screen for fraud, to administer the Company's sites, to track users' movements around the web sites and to gather demographic information about the Company's user base as a whole.
 
-## Use of Information
+  
+
+
+#### Use of Information
 
 ### Verification, Billing, and Order Status
 
 The Company collects Personal Information to verify the accuracy of your name, billing address, shipping address, credit card number, and credit card expiration date provided, to screen for fraud, to bill you for products and services purchased and to pay you for products and services sold. The Company uses your e-mail address(es) to contact you regarding the status of your order when necessary and to send you a Receipt Purchase/Sale Confirmation and Order Shipping Notification.
+
+  
+
 
 ### Service-related Announcements
 
@@ -54,37 +72,64 @@ The company may, but is not obligated to, send you strictly service-related anno
 
 Generally, you may not opt-out of these communications since they are not promotional in nature. If you do not wish to receive them, you may have the option to deactivate your account.
 
+  
+
+
 ### Research
 
 We also collect information for research purposes and to provide anonymous reporting for internal and external clients. The Company uses the information collected for its own internal marketing and demographic studies to improve customer service and product offerings.
+
+  
+
 
 ### Customer Service
 
 We will communicate with you in response to your inquiries, to provide the products and services you request, and to manage your account. We will communicate with you by e-mail, live chat or telephone, in accordance with your wishes. 
 
+  
+
+
 ### Preferences
 
 The Company stores information that it collects through cookies, log files, and third party sources to create a profile of your preferences, in order to improve the content of the Company's web site for you.
 
-## Information Sharing and Disclosure
+  
+
+
+#### Information Sharing and Disclosure
 
 The Company does not sell or rent any of the information collected to third parties for any purposes, but it shares information with third parties as described below.
+
+  
+
 
 ### Service Providers
 
 The Company discloses the information collected to external service providers necessary to facilitate the following outsourced operations: address verification, credit card processing, fraud screening and order shipping.
 
+  
+
+
 ### Compliance with Legal Authorities
 
 As required by law, and to enforce customers or the Company's legal rights, and to comply with local, state, federal and international law, the Company may disclose information to law enforcement agencies.
+
+  
+
 
 ### Links to Other Web Sites
 
 There are several places throughout the Company's web sites that may link you to other web sites that do not operate under this Privacy Policy. When you click through to these web sites, this Privacy Policy no longer applies. The Company recommends that you examine the privacy statements for all third party web sites to understand their procedures for collecting, using, and disclosing your Personal Information.
 
+  
+
+
 ### Storage and Security of Personal Information Storage
 
 The Company stores the information it collects on computers located in a controlled, secure facility protected from physical or electronic unauthorized access, use, or disclosure.
+
+  
+
 
 ### Security
 
@@ -94,26 +139,39 @@ Although the Company follows the procedures set forth above to protect the Perso
 
 If you have any questions about the Company's security on its web sites, please feel free to send us an e-mail at support@pcgamesupply.com.
 
+  
+
+
 ### Internet Fraud
 
 The Company has a ZERO TOLERANCE policy for Internet fraud or any attempt to access or acquire customer or other information on its web sites via illegal or surreptitious means. The Company works with local, national, and international fraud investigation agencies and employs a variety of electronic and other means to discourage, detect, and intercept fraudulent activities. The Company aggressively prosecutes, to the fullest extent of the law, those perpetrators apprehended conducting fraudulent activities on its web site.
 
 Agencies with which the Company cooperates are: state and local police authorities, the United States Federal Bureau of Investigation, US and International Customs Agencies, Nationwide Collection Agencies, and Interpol.
 
+  
+
+
 ### International Transfer
 
 Personal Information collected by the Company may be stored and processed in the United States or any other country in which the Company or its affiliates, subsidiaries or agents maintain facilities, and by using the Company's web sites, you consent to any such transfer of Personal Information outside of your country.
+
+  
+
 
 ### Children
 
 The Company's sites are not intended for or directed to persons under the age of 13. The Company does not buy or sell products or services from or to children. Any person who provides their information to the Company through the Company's web sites represents to the Company that they are 13 years of age or older.
 
+  
+
+
 ### Changes to this Statement
 
 The Company will from time-to-time update this Privacy Policy, each time revising the last updated date at the top of the Privacy Policy and indicate the nature of the revisions within the statement. The Company will notify customers of material changes to this statement by e-mail or by placing prominent notice on its web site.
 
+  
+
+
 ### Contact Information
 
 You may contact the Company by e-mail at support@pcgamesupply.com.
-
- 
