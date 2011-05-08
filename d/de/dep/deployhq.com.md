@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deployhq.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101223225id_/http%3A//www.deployhq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deployhq.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509012925id_/http%3A//www.deployhq.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Deploy
 
-To use Deploy you must agree to this privacy policy. When you signed up you agreed to this policy. We collect the following information automatically and it is only archived in system log files unless specified:
+To use Deploy you must agree to this privacy policy. When signing up, you agree to this policy. We collect the following information automatically and it is archived in system log files unless specified:
 
   * e-mail addresses of those who communicate with us by e-mail
   * IP addresses and page views for all users of the Deploy application and the Deploy website
@@ -15,6 +15,7 @@ To use Deploy you must agree to this privacy policy. When you signed up you agre
   * We will make every effort to maintain the security of all information stored within your Deploy account
   * We will comply with any legitimate requests from law enforcement agencies to disclose certain information to them to assist with their investigations
   * aTech Media Limited own all hardware, software, databases and all rights to the Deploy application, you retain all rights to any information you add or upload to your Deploy account, including repositories.
+  * We may occasionally send newsletters to existing customers by email or post
 
 
 
@@ -38,3 +39,5 @@ Deploy does not store your payment card details on it's system and Deploy staff 
 ### Feedback
 
 Please send any comments, suggestions or complaints to support@deployhq.com.
+
+Hosting provided by the awesome guys at [serverlove](http://www.serverlove.com/) — the scalable cloud hosting platform you'll love.
