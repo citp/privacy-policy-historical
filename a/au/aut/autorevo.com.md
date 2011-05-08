@@ -1,41 +1,45 @@
-> *The following text is extracted and transformed from the autorevo.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515160510id_/http%3A//www.autorevo.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autorevo.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508162758id_/http%3A//www.autorevo.com/privacy) for the most accurate reproduction.*
 
-# AutoRevo: Privacy
+# Privacy Policy - AutoRevo | Auto Dealer Websites | Internet Marketing | Inventory Management | Vehicle Pricing Tools
 
-AutoRevo has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the AutoRevo web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect. Collected Information: We require customers who register to use the services ("Services") offered on our Site to give us contact information, such as their name, company name, address, ph one number, and e-mail address, and financial qualification and billing information, such as billing name and address, credit card number, and the number of users within the organization that will be using the Services. At the time you express interest in attaining additional information, or when you register for the service, we may also ask for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not entering it when asked. Customers can update or remove their personal information at any time by logging into the Website and editing their Account Information within Admin. Customers can view their updated profile to confirm their edits have been made. 
+Privacy is important, especially in today's digital world. This privacy policy applies to all AutoRevo websites and all dealer websites hosted by AutoRevo, as well as websites hosted on behalf of our partners, advertisers and clients, collectively known as AutoRevo “websites”. This policy only applies to AutoRevo, not to any companies that AutoRevo does not own, or to any persons not employed by AutoRevo.
 
-AutoRevo uses the information that we collect to set up Services for individuals and their organizations. We may also use the information to contact customers to further discuss customer interest in our company, the Services that we provide, and to send information regarding our company or partners, such as promotions and events. Customers are invited to receive an email newsletter by providing an email address. Customer email addresses and any personal customer information will not be distributed or shared with any third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to support@AutoRevo.com. Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. Again, email will not be distributed or shared and customers can opt out of receiving any communication by emailing support@AutoRevo.com at the time it is distributed, or at the time any customer registers for the Service. 
+### INFORMATION COLLECTION AND USE
 
-Except as we explicitly state at the time we request information, or as provided for in the AutoRevo Master Subscription Agreement, we do not disclose to any third-party the information provided. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for Services. This billing information is not used by AutoRevo for marketing or promotional purposes. AutoRevo uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. Other third parties, such as content providers, may provide content on the web Site but they are not permitted to collect any information nor does AutoRevo share any user information with these parties. 
+AutoRevo uses first-party cookies, which are small text files with a single string of 100% anonymous text or numbers, to collect anonymous visitor information. This information is used to evaluate visitors' use of the website and to compile statistical reports on website activity using our Web Analytics vendors. AutoRevo does not collect any Personally Identifiable Information (PII) about website vendors using these tools.
 
-Customers of the Service will be using the Site to host data and information ("Data"). AutoRevo will not review, share, distribute, print, or reference any such Data except as provided in the AutoRevo Master Subscription Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Master Subscription Agreement, or as may be required by law. Of course, customers are responsible for maintaining the confidentiality and security of their user registration and password. 
+Neither AutoRevo nor the Web Analytics vendors will link, or seek to link, an IP address with the identity of a computer user. AutoRevo will not associate any data gathered from this site with any personally identifiable information from any other source. 
 
-AutoRevo may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties. 
+Information recorded by these methods include browser type, software and hardward attributes, IP address, and any pages you viewed.
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. AutoRevo will automatically send the friend a one-time email inviting them to visit the site. AutoRevo does not store this information. 
+When you voluntarily provide information such to us such as your name, email address, or phone number, you are not anonymous to us. When you send email, submit a form, or send other communications using AutoRevo websites, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
 
-Cookies:   
-When you interact with the AutoRevo Website we strive to make that experience easy and meaningful. When you come to our Web site, our Web server sends a cookie to your computer. Cookies are files that Web browsers place on a computer's hard drive and are used to tell us whether customers and visitors have visited the Site previously. 
+AutoRevo uses information for the following general purposes: to customize the content you see, fulfill your requests for information, improve our services, contact you, conduct research, and provide reporting for internal and external clients.
 
-Standing alone, cookies do not identify you personally. They merely recognize your browser. Unless you choose to identify yourself to AutoRevo, either by responding to a promotional offer, opening an account, or registering for a 14-day Test Drive, you remain anonymous to AutoRevo. Cookies come in two flavors: session and persistent-based. Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you've closed your browser or turned off your computer. They include such information as a unique identifier for your browser. 
+### INFORMATION SHARING AND DISCLOSURE
 
-AutoRevo uses session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in. This information allows AutoRevo to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you've logged in and are required in order to use the AutoRevo application. AutoRevo uses persistent cookies, that only AutoRevo can read and use, to identify the fact that you are a AutoRevo customer or prior AutoRevo Website visitor (whatever the case may be). We are especially careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies. Users who disable their Web browsers' ability to accept cookies will be able to browse our Website but will not be able to successfully use our service. 
+AutoRevo does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide the information or services you’ve requested or under the circumstances described below.
 
-Third-Party Sites:   
-The Site contains links to other web sites. AutoRevo is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential. 
+AutoRevo may provide your personal information in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also provide your personal information when we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of AutoRevo’s policies, or as otherwise required by law.
 
-Security:   
-Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. AutoRevo implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders. Finally, AutoRevo provides unique user names and passwords that must be entered each time a customer logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data. 
+AutoRevo may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular vehicle, for example, or how many users clicked on a particular link. Such information does not identify you individually.
 
-Opt-Out Policy:   
-AutoRevo offers its visitors and customers a means to choose how we may use information provided. If, at any time after registering for information or ordering Services, you change your mind about receiving information from us or about sharing your information with third parties, send us a request specifying your new choice. Simply send your request to support@AutoRevo.com. 
+We reserve the right to send you certain communications such as service announcements and administrative messages relating to AutoRevo.
 
-Correcting & Updating Your Information:   
-If customers need to update or change registration information they may do so by editing the user or organization record. To update a User Profile, log on to AutoRevo and select Admin to add or update information. To update Organization's data, log on to AutoRevo and select Admin. To update billing information please email support@AutoRevo.com or call 972.715.8600. To discontinue the Service and to have data returned, email support@AutoRevo.com or call 972.715.8600. 
+Please contact us with any questions about the management or use of personal data.
 
-Additional Information:   
-Questions regarding this Statement or the practices of this Site should be directed to AutoRevo's corporate office at:   
-AutoRevo   
-RE: Privacy Statement   
-7920 Belt Line Rd, Suite 450   
-Dallas, TX 75254 
+### INFORMATION SECURITY
+
+AutoRevo has physical, electronic, and procedural safeguards that comply with federal regulations to protect your personal information.
+
+### CHANGES TO THIS PRIVACY POLICY
+
+AutoRevo may update this policy from time to time and will post any changes on this page.
+
+### QUESTIONS AND SUGGESTIONS
+
+If you have questions or suggestions, please contact us:
+
+[support@autorevo.com](mailto:support@autorevo.com)
+
+_Last modified: February 15, 2011_
