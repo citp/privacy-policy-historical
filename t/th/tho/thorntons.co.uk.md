@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thorntons.co.uk privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209141408id_/http%3A//www.thorntons.co.uk/cm/Login_Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorntons.co.uk privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508181729id_/http%3A//www.thorntons.co.uk/cm/Login_Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Thorntons chocolates -
 
