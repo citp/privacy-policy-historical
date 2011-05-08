@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2009-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090116215603id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badoo.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508235702id_/http%3A//badoo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy applies to your use of the Badoo website at badoo.com. The website is owned by Badoo Services Limited, company registered in Cyprus with its registered office at Naousis 1, 25 Karapatakis Building, P.C 6018, Larnaca, Cyprus and company number HE 225166.
+This Privacy Policy applies to your use of the Badoo website at badoo.com. The website is owned by Badoo Services Limited, company registered in Cyprus with its registered office at 332 Agiou Andreou Street, "Patrician Chambers", 3035 Limassol, Cyprus and company number HE 225166.
 
 At Badoo your privacy is of paramount importance. As the custodians of your personal information, we have developed this policy to ensure that your privacy is always protected while you are using the Badoo network.
 
