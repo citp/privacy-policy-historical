@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplybestcoupons.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507013401id_/http%3A//simplybestcoupons.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplybestcoupons.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508024811id_/http%3A//www.simplybestcoupons.com/Privacy) for the most accurate reproduction.*
 
-# ► Simply Best Coupons - Never pay a full price again by using coupon codes, promotional and offer codes, discount and free shipping codes. More then 700 stores and websites.
+# Simply Best Coupons Privacy Policy
 
 Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. 
 
@@ -12,7 +12,7 @@ When you visit our Web site you may provide us with two types of information: pe
 
 ### Registration Information
 
-You will provide us information about yourself, your firm or company, and your practices when you register to be a member of Simply Best Coupons, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see CouponThunder servicing your needs and interests. 
+You will provide us information about yourself, your firm or company, and your practices when you register to be a member of Simply Best Coupons, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see Simply Best Coupons servicing your needs and interests. 
 
 ### Email Information
 
@@ -52,7 +52,7 @@ Email is not recognized as a secure medium of communication. For this reason, we
 
 We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
 
-When clicking on coupon codes or other links to merchants on the Simply Best Coupons site, you will be sent, via a new or current web browser window, directly to the merchant's site to complete your transaction.
+When clicking on coupon codes or other links to merchants on the Simply Best Coupons site, you will be sent, via a new or current web browser window, directly to the merchant's site to complete your transaction. 
 
 Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
 
