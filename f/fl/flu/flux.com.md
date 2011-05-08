@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flux.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128030012id_/http%3A//www.socialproject.com/UserAgreements/enUS/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flux.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508182144id_/http%3A//www.socialproject.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Social Project - Privacy Policy
 
@@ -208,4 +208,4 @@ This document is the sole statement of the Privacy Policy for Flux and Flux Site
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
 
-Copyright © MTV Networks, a division of Viacom International Inc. 2009 - All Rights Reserved.
+Copyright © MTV Networks, a division of Viacom International Inc. 2011 - All Rights Reserved.
