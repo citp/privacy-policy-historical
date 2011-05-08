@@ -1,16 +1,13 @@
-> *The following text is extracted and transformed from the uberphones.com privacy policy that was archived on 2007-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070428020534id_/http%3A//www.uberphones.com/2006/01/privacy_policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uberphones.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508053723id_/http%3A//www.uberphones.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Uberphones
 
-[](http://www.uberphones.com/2005/12/motorola_revamps_ui_to_woo_new_customers/) [](http://www.uberphones.com/) [](http://www.uberphones.com/2006/01/terms_of_use/) [](http://www.uberbargain.com/)
+  
 
-### Privacy Policy
-
-Categorie(s): 
 
 **Uberphones.com Privacy Statement**
 
-This statement covers the site www.Uberphones.com ("Uberphones"). Please read this statement carefully before using proceeding to access Uberphones. Your use of Uberphones indicates your agreement to abide by the Terms in effect.
+This statement covers the site www.Uberphones.com (“Uberphones”). Please read this statement carefully before using proceeding to access Uberphones. Your use of Uberphones indicates your agreement to abide by the Terms in effect.
 
 **Information Collection**
 
@@ -26,11 +23,11 @@ Some of our business partners may use cookies on our site (for example, advertis
 
 **Third Party Advertising**
 
-The ads appearing on this Web site are delivered to users by Google, among other services. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, please click here.
+The ads appearing on this Web site are delivered to users by Google, among other services. Information about users’ visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, please click here.
 
 **Log Files**
 
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
 
 **Legal Disclaimer**
 
@@ -38,7 +35,7 @@ Though we make every effort to preserve user privacy, Uberphones may need to dis
 
 **Business Transitions**
 
-In the event Uberphones goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.
+In the event Uberphones goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred.
 
 **Links**
 
@@ -47,8 +44,8 @@ The Uberphones web site contains links to other sites. Please be aware that we, 
 **Third Party Advertising**  
 We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
 
- **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique â€œcookieâ€ on your browser.
 
 **Notification of Changes**
 
@@ -58,4 +55,4 @@ Whenever Uberphones changes our privacy policy, we will post those changes to th
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at contact@Uberphones.com
 
-Story posted on: January 01, 2006
+Link | [Add a Comment](http://www.uberphones.com/2006/01/privacy-policy/#comments)
