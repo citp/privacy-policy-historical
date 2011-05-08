@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the art.com privacy policy that was archived on 2009-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091201063633id_/http%3A//www.art.com/asp/customerservice/privacy_policy-asp/_/posters.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the art.com privacy policy that was archived on 2011-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110508084156id_/http%3A//www.art.com/asp/customerservice/privacy_policy-asp/_/posters.htm) for the most accurate reproduction.-->
 
 <html><head>
     <title>Art.com - Posters, Art Prints, and Framed Art Leader.</title>
@@ -8,9 +8,9 @@
 
 <style>
 .topnavcell{
- background-image: url("http://artfiles.art.com/images/pub/navigation/header/navbar_bkgnd.gif")}
+ background-image: url("http://cache1.artprintimages.com/images/pub/navigation/header/navbar_bkgnd.gif")}
 .topnavBackground{
- background-image: url("http://artfiles.art.com/images/pub/navigation/header/top_grey_bkgnd.gif");}
+ background-image: url("http://cache1.artprintimages.com/images/pub/navigation/header/top_grey_bkgnd.gif");}
 </style>
 	
     <link rel="stylesheet" href="/styles/main.css" type="text/css">
@@ -26,46 +26,116 @@
     </style>
   </head>
   <body bgcolor="#FFFFFF" text="#000000" leftmargin="3" topmargin="3" marginwidth="3" marginheight="3">
-<link rel="stylesheet" href="http://static.art.com/styles/global.css?v=3" type="text/css">
+<link rel="stylesheet" href="/styles/global.css?v=2" type="text/css"><script language="javascript" type="text/javascript" src="/scripts/jquery.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/wt_capi.js"></script>
+
+<script type="text/javascript">
+    WTOptimize.setup(); 
+</script>
+
+
 
 <script language="javascript" type="text/javascript">
+    $(document).ready(function() {
+        var zIndexNumber = 1000;
+        $('#Header > div').each(function() {
+            $(this).css('zIndex', zIndexNumber);
+            zIndexNumber -= 1;
+        });
+    });
 
-function linkForm(action)
-{
-	document.getElementById('globalLinkForm').action = action;
-	document.getElementById('globalLinkForm').submit();
-}
+    function linkForm(action) {
+        document.getElementById('globalLinkForm').action = action;
+        document.getElementById('globalLinkForm').submit();
+    }
+    //Added by Kiranmai for HDT-59584(Add search string to Search url) starts here
+    function triggerSearch() {
+        var txtSearchBox = document.getElementById('Search_String');
+        var searchString = txtSearchBox.value;
+        if (searchString.length > 0) {
+            var f = document.forms['SearchForm'];
+            if (!f) {
+                f = document.SearchForm;
+            }
+            //Modified to handle multiple clicks of search button
+            var aPosSearchUrl = f.action.indexOf("searchstring=")
+            if (aPosSearchUrl > 0) {
+                f.action = f.action.replace(getQuerystring('searchstring', f.action), encodeURI(searchString));
+            }
+            else {
+                f.action = f.action + "&searchstring=" + encodeURI(searchString);
+            }
+            f.submit();
+        }
+    }
+    function getQuerystring(key, url) {
+        key = key.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+        var regex = new RegExp("[\\?&]" + key + "=([^&#]*)");
+        var qs = regex.exec(url);
+        if (qs == null)
+            return "";
+        else
+            return qs[1];
+    }
+
+    function doSearch(event) {
+        if (event.keyCode == '13') {
+            triggerSearch();
+        }
+    }
+    //Added by Kiranmai for HDT-59584(Add search string to Search url) ends here
 
 </script>
+
+<script language="javascript" type="text/javascript" src="/scripts/Utilities.js"></script>
+<script language="javascript" type="text/javascript">
+    var visualSearchCoreEnvironment =
+{
+    'imagePath': 'http://cache1.artprintimages.com'
+    , 'virtualPath': ''
+    , 'countryCode': 'US'
+    , 'currencyCode': 'USD'
+    , 'customerZoneId': '3'
+    , 'languageId': '1'
+    , 'languageIso': 'en'
+    , 'sessionId': 'B3E369E1308244FA9C21F6BB1DFEC28B'
+    , 'domain': 'com'
+    , 'searchServiceUrl': 'http://edge-ws.search.art.com/wcf/SearchService.svc'
+    , 'imageAppServiceUrl': 'http://imageapps.art.com/imageupload/imageuploadservice.asmx/UploadSearchImage'
+    , 'landingPageVSUrl': 'http://www.art.com/visualsearch'
+    , 'OtherCategoryResultsAPNum': '7427277'
+};
+</script>
+<script language="javascript" type="text/javascript" src="/scripts/swfobject.js"></script>
+<link rel="stylesheet" href="/styles/header_menu.css?v=1" type="text/css">
+<link rel="stylesheet" href="/styles/holiday.css" type="text/css">
 
 <!-- Global form to handle inline form links in header, footer, left nav. 
 Action set by js linkForm(action) Don't remove. SC 9/2007 -->
 <form id="globalLinkForm" method="post" class="inline" target="_parent"></form>
 <!-- End Global Form -->
 
+
 <div class="PageContainer GlobalHeader">
 	
 	<div id="Header">
-		<div id="HeaderLogo">
-			<a target="_parent" href="http://www.art.com/asp/default-asp/_/posters.htm"><img src="http://artfiles.art.com/images/holiday-shipping/art_com_logo.gif" height="54" width="250" border="0" alt="Art.com"></a>
+		<div id="HeaderLogo" style="z-index: 1000;">
+			<a target="_parent" href="http://www.art.com/"><img src="http://cache1.artprintimages.com/images/pub/navigation/global/art_com_logo.gif" height="54" width="244" border="0" alt="Art.com" title="Art.com"></a>
 		</div>
-		<div id="HeaderPromo">
-			<link rel="stylesheet" href="http://static.art.com/styles/dhtml_email.css" type="text/css"><script language="javascript" type="text/javascript" src="http://static.art.com/scripts/formvalidation.js"></script><a href="#" onclick="open_dhtml_module();" rel="nofollow"><img src="http://artfiles.art.com/images/pub/dhtml_Email/emailpromo-banner_25_3days.gif" border="0"></a><div id="dhtml_grow" style="visibility:hidden;"></div><div id="dhtml_shrink" style="visibility:hidden;"></div><div id="dhtml_Email_Container"><div id="dhtml_Email_Input" style="background-image:url(http://artfiles.art.com/images/pub/dhtml_Email/dropdown_bg_25.gif);"><table width="350" height="200" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="center" valign="top"><table width="336" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://artfiles.art.com/images/pub/dhtml_Email/spacer.gif" width="8" height="8"></td></tr><tr><td height="14" align="right"><a href="javascript:close_dhtml_module();"><img src="http://artfiles.art.com/images/pub/dhtml_Email/dropdown_close.gif" alt="close this message" width="14" height="13" border="0"></a></td></tr><tr><td><img src="http://artfiles.art.com/images/pub/dhtml_Email/spacer.gif" width="47" height="47"></td></tr><tr><td align="center"><img src="http://artfiles.art.com/images/pub/dhtml_Email/dropdown_3days.gif"></td></tr><tr><td><div id="dhtml_errorLine">Please enter a valid email address</div></td></tr><tr><td align="center"><table width="260" height="26" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><input type="text" id="dhtml_email_textBox" size="16" maxlength="50" value="Enter Your Email Address" onfocus="document.getElementById('dhtml_errorLine').style.visibility='hidden';if(this.value=='Enter Your Email Address') { this.value='' }" onblur="if(this.value=='') { this.value='Enter Your Email Address' }" style="font-size:10px; width:230px; padding:2px;" onkeyup="submitAjaxOnEnter('14903',event);"></td><td width="26"><input type="image" name="imageField" src="http://artfiles.art.com/images/pub/dhtml_Email/dropdown_btn.gif" onclick="return dhtml_ValidatePromo('14903', 'dhtml_errorLine');" title="Get coupon"></td></tr></tbody></table></td></tr><tr><td height="30" align="center"><img src="http://artfiles.art.com/images/pub/dhtml_Email/spacer.gif" width="10" height="10"></td></tr><tr><td height="15" align="center" valign="bottom" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px;color:#FFFFFF;">We value your <a href="http://www.art.com/asp/customerservice/privacy_policy-asp/_/posters.htm" target="_blank" rel="nofollow" style="font-size:10px;color:#FFFFFF;">privacy</a></td></tr></tbody></table></td></tr></tbody></table></div><!-- dhtml_Email_Input --><div id="dhtml_Email_Thanks" style="background-image:url(http://artfiles.art.com/images/pub/dhtml_Email/thankyou_bg.gif);"><table width="350" height="200" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="center" valign="top"><table width="336" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://artfiles.art.com/images/pub/dhtml_Email/spacer.gif" width="8" height="8"></td></tr><tr><td height="14" align="right"><a href="javascript:close_dhtml_module();"><img src="http://artfiles.art.com/images/pub/dhtml_Email/dropdown_close.gif" alt="close this message" width="14" height="13" border="0"></a></td></tr><tr><td height="115" align="center" valign="bottom"><img src="http://artfiles.art.com/images/pub/dhtml_Email/thankyou_soon.gif" width="254" height="27"></td></tr><tr><td align="center"><img src="http://artfiles.art.com/images/pub/dhtml_Email/spacer.gif" width="30" height="20"></td></tr><tr><td height="15" align="center" valign="bottom"><a href="javascript:close_dhtml_module();">Close window</a></td></tr></tbody></table></td></tr></tbody></table></div></div>
+		<div id="HeaderPromo" style="z-index: 999;">
+			<link rel="stylesheet" href="/styles/dhtml_email.css" type="text/css"><script language="javascript" type="text/javascript" src="/scripts/formvalidation.js"></script><a href="#" onclick="open_dhtml_module();" rel="nofollow"><img src="http://cache1.artprintimages.com/images/pub/dhtml_Email/emailpromo-banner_20_today.gif" border="0"></a><div id="dhtml_grow" style="visibility:hidden;"></div><div id="dhtml_shrink" style="visibility:hidden;"></div><div id="dhtml_Email_Container"><div id="dhtml_Email_Input" style="background-image:url(http://cache1.artprintimages.com/images/pub/dhtml_Email/dropdown_bg_20.gif);"><table width="350" height="200" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="center" valign="top"><table width="336" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://cache1.artprintimages.com/images/pub/dhtml_Email/spacer.gif" width="8" height="8"></td></tr><tr><td height="14" align="right"><a href="javascript:close_dhtml_module();"><img src="http://cache1.artprintimages.com/images/pub/dhtml_Email/dropdown_close.gif" alt="close this message" width="14" height="13" border="0"></a></td></tr><tr><td><img src="http://cache1.artprintimages.com/images/pub/dhtml_Email/spacer.gif" width="47" height="47"></td></tr><tr><td align="center"><img src="http://cache1.artprintimages.com/images/pub/dhtml_Email/dropdown_today.gif"></td></tr><tr><td><div id="dhtml_errorLine">Please enter a valid email address</div></td></tr><tr><td align="center"><table width="260" height="26" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><input type="text" id="dhtml_email_textBox" size="16" maxlength="50" value="Enter Your Email Address" onfocus="document.getElementById('dhtml_errorLine').style.visibility='hidden';if(this.value=='Enter Your Email Address') { this.value='' }" onblur="if(this.value=='') { this.value='Enter Your Email Address' }" style="font-size:10px; width:230px; padding:2px;" onkeyup="submitAjaxOnEnter('14903',event);"></td><td width="26"><input type="image" name="imageField" src="http://cache1.artprintimages.com/images/pub/dhtml_Email/dropdown_btn.gif" onclick="return dhtml_ValidatePromo('14903', 'dhtml_errorLine');" title="Get coupon"></td></tr></tbody></table></td></tr><tr><td height="30" align="center"><img src="http://cache1.artprintimages.com/images/pub/dhtml_Email/spacer.gif" width="10" height="10"></td></tr><tr><td height="15" align="center" valign="bottom" style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px;color:#FFFFFF;">We value your <a href="http://www.art.com/asp/customerservice/privacy_policy-asp/_/posters.htm" target="_blank" rel="nofollow" style="font-size:10px;color:#FFFFFF;">privacy</a></td></tr><tr><td>&nbsp;</td></tr><tr><td height="77" align="center" valign="top"><img style="cursor:pointer;" onclick="open_dhtml_redcross();" src="http://cache1.artprintimages.com/images/pub/dhtml_Email/Red_Cross_image.gif" alt="close this message" width="350" height="77" border="0"></td></tr></tbody></table></td></tr></tbody></table></div><!-- dhtml_Email_Input --><div id="dhtml_Email_Thanks" style="background-image:url(http://cache1.artprintimages.com/images/pub/dhtml_Email/thankyou_bg.gif);"><table width="350" height="200" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="center" valign="top"><table width="336" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="http://cache1.artprintimages.com/images/pub/dhtml_Email/spacer.gif" width="8" height="8"></td></tr><tr><td height="14" align="right"><a href="javascript:close_dhtml_module();"><img src="http://cache1.artprintimages.com/images/pub/dhtml_Email/dropdown_close.gif" alt="close this message" width="14" height="13" border="0"></a></td></tr><tr><td height="115" align="center" valign="bottom"><img src="http://cache1.artprintimages.com/images/pub/dhtml_Email/thankyou_midnight.gif" width="254" height="27"></td></tr><tr><td align="center"><img src="http://cache1.artprintimages.com/images/pub/dhtml_Email/spacer.gif" width="30" height="20"></td></tr><tr><td height="15" align="center" valign="bottom"><a href="javascript:close_dhtml_module();">Close window</a></td></tr><tr><td height="77" align="center" valign="top"><img style="cursor:pointer;" onclick="open_dhtml_redcross();" src="http://cache1.artprintimages.com/images/pub/dhtml_Email/Red_Cross_image.gif" alt="close this message" width="350" height="77" border="0"></td></tr></tbody></table></td></tr></tbody></table></div></div>
 		</div>
 		
-		<div id="HeaderRight">
+		<div id="HeaderRight" style="z-index: 998;">
 		
 			<div class="PhoneHeader">
 				<div class="PhoneHeader_Top">Order Toll Free</div>
 				<div class="PhoneHeader_Bottom">800-952-5592</div>
 			</div>
-			<!--Changes done for ART SF-3 ASAP-->
 			
-         
-            <!--''''Changes done for ART SF-3 ASAP-End-->
 			<div id="HeaderCart" onclick="linkForm('http://www.art.com/asp/place_order-asp/_/posters.htm')" class="linkForm" onmouseover="this.className='linkFormHover'" onmouseout="this.className='linkForm'">
-				<center><img class="cartImage" src="http://artfiles.art.com/images/pub/navigation/global/cart.gif" height="20" width="21" border="0" alt="Shopping Cart" title="Shopping Cart"></center>
-				Cart 
+				<center><img class="cartImage" src="http://cache1.artprintimages.com/images/pub/navigation/global/cart.gif" height="20" width="21" border="0" alt="Shopping Cart" title="Shopping Cart"></center>
+                Cart <span id="HeaderCartCount">(4)</span>
 			</div>
 		
 			<div id="HeaderMyLinks">
@@ -78,32 +148,28 @@ Action set by js linkForm(action) Don't remove. SC 9/2007 -->
 		<!-- fix for ie6 peek-a-boo bug -->
 		&nbsp;
 		<!-- DO NOT REMOVE THIS SPACE -->
-		<div class="clear"></div>
+		<div class="clear" style="z-index: 997;"></div>
 	     <!-- Changes done for ASAP:Art remove search caption AB Test -->
 	    
-	   
-	   
-	   <div id="HeaderBar" class="borderFix">
-			<div id="searchBorder" style="float:left;width:272px;margin:3px;font-size:0;border:1px solid #000000;background-color:#FFFFFF;" onmouseover="highlightSearchBox('over',true);" onmouseout="highlightSearchBox('out',true);">
-				<form id="SearchForm" name="SearchForm" method="post" action="http://www.art.com/asp/search_do.asp/_/posters.htm" target="_parent">
-					<input id="Search_String" name="Search_String" type="text" onfocus="highlightSearchBox('over',true);" onblur="highlightSearchBox('out',true);" value="" maxlength="100" style="float:left;margin:5px 0 0 7px;border:none;font-size:11px;color:#666666;width:180px">
-				<div style="float:right;">
-					<input name="Submit" style="margin:0;padding:0;" type="image" src="http://artfiles.art.com/images/pub/navigation/global/art_search_btn.gif" alt="Search" title="Search">
-					<input type="hidden" name="SearchFromLocation" value="TopLeft">
-					<input type="hidden" name="SubmittedForm" value="1">
-				
-				</div></form>
-			
-			</div>
-			
-		
+        <div id="HeaderBar" class="borderFix" style="max-height: 32px; height: 32px; z-index: 996;">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="height:32px; max-height:32px;">
+                <tbody><tr>
+                    <td style="padding-bottom:2px;">
+                        <div id="searchBorder" style="float:left;width:210px;margin:3px;font-size:0;border:1px solid #000000;background-color:#FFFFFF;" onmouseover="highlightSearchBox('over',true);" onmouseout="highlightSearchBox('out',true);">
+                            <form id="SearchForm" name="SearchForm" method="post" action="http://www.art.com/asp/search_do.asp/_/posters.htm" target="_parent">
+                                <input id="Search_String" name="Search_String" type="text" onfocus="highlightSearchBox('over',true);" onblur="highlightSearchBox('out',true);" value="" maxlength="100" style="float:left;margin:5px 0 0 7px;border:none;font-size:13px;color:#000000;width:130px" onkeypress="doSearch(event);">
+                                <div style="float:right;">
+                                    <img name="Submit" style="margin:0;padding:0;" type="image" src="http://cache1.artprintimages.com/images/pub/navigation/global/art_search_btn.gif" alt="Search" title="Search" onclick="triggerSearch();">
+                                    <input type="hidden" name="SearchFromLocation" value="TopLeft">
+                                    <input type="hidden" name="SubmittedForm" value="1">
+                                </div></form>
+                        </div></td>
+                    <td align="right">
 		  <!-- End of:Changes done for ASAP:Art remove search caption AB Test -->					
 			
-				<div id="HolidayHeaderButton" onclick="linkForm('http://www.art.com/asp/customerservice/holiday_faq-asp/_/posters.htm')" class="cPointer" title="Information about Holiday shipping">Holiday<br>Info</div>
+				<!--<div id="HolidayHeaderButton" onClick="linkForm('')" class="cPointer" title="Information about  shipping"> Info</div>-->
 			
-			<link rel="stylesheet" href="http://static.art.com/styles/header_menu.css" type="text/css">
-
-            <script type="text/javascript" src="http://static.art.com/scripts/header_menu.js"></script>
+            
 			<div class="HeaderMenubar">
 				<a id="mnuArtStylesLink" class="headerMnuLink" href="http://www.art.com/home/art-style/posters.htm" target="_parent" onmouseover="fnDisplayMenu(this,'mnuArtStyles');" onmouseout="fnHideMenu('mnuArtStyles'); fnRemoveHighlight('mnuArtStyles');">Art Styles</a>
 				<span class="paddedDivider1" id="divider1">|</span>
@@ -120,17 +186,16 @@ Action set by js linkForm(action) Don't remove. SC 9/2007 -->
 				<a id="mnuCollectionsLink" class="headerMnuLink" href="http://www.art.com/home/collections/posters.htm" target="_parent" onmouseover="fnDisplayMenu(this,'mnuCollections');" onmouseout="fnHideMenu('mnuCollections'); fnRemoveHighlight('mnuCollections');">Collections</a>
 				<span class="paddedDivider1" id="divider5">|</span>
 
-				<a class="headerMnuLink" href="http://www.art.com/home/best-seller/posters.htm" target="_parent">Best Sellers</a>
-			</div>
-			
-			<!-- fix for ie6 peek-a-boo bug -->
-			&nbsp;
-			<!-- DO NOT REMOVE THIS SPACE -->
-			<div class="clear"></div>
+				<a class="headerMnuLink" href="http://www.art.com/home/best-seller/posters.htm" target="_parent">Best&nbsp;Sellers</a>
+
+			</div></td>
+			    <td style="width:102px;"><a href="http://www.art.com/photostoart/" target="_parent" style="padding:0px;margin:0px;"><img src="http://cache1.artprintimages.com/images/photostoart/photos_to_art.gif" border="0" onmouseover="this.src='http://cache1.artprintimages.com/images/photostoart/photos_to_art_rollover.gif'" onmouseout="this.src='http://cache1.artprintimages.com/images/photostoart/photos_to_art.gif'" class="header_p2a_link_img" alt="photos to canvas"></a></td>
+			</tr></tbody></table>
 		</div>
+		<div class="clear" style="z-index: 995;"></div>
 		
      <!--Changes Done for Quick Changes2 ASAP-->
-		    <div id="mnuArtStyles" style="display:none;" class="popup" onmouseover="fnDisplayMenu(this,'mnuArtStyles');" onmouseout="fnHideMenu('mnuArtStyles'); fnRemoveHighlight('mnuArtStyles');">
+		    <div id="mnuArtStyles" style="display: none; z-index: 994;" class="popup" onmouseover="fnDisplayMenu(this,'mnuArtStyles');" onmouseout="fnHideMenu('mnuArtStyles'); fnRemoveHighlight('mnuArtStyles');">
 			    <div class="floatLeft">
 			    <ul class="gNoShowList">
 			        <li class="sub_popup_parentClass" onclick="linkForm('http://www.art.com/gallery/id--c23944/fine-art-prints.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Fine Art</li><li class="sub_popup_parentClass" onclick="linkForm('http://www.art.com/gallery/id--c23975/movement-prints.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">by Movement<br></li>
@@ -193,7 +258,7 @@ Action set by js linkForm(action) Don't remove. SC 9/2007 -->
 		        <!--<div style="clear: both;"/>-->
 	        </div>
 
-	        <div id="mnuSubjects" class="popup" style="display:none;" onmouseover="fnDisplayMenu(this,'mnuSubjects');" onmouseout="fnHideMenu('mnuSubjects'); fnRemoveHighlight('mnuSubjects');">
+	        <div id="mnuSubjects" class="popup" style="display: none; z-index: 993;" onmouseover="fnDisplayMenu(this,'mnuSubjects');" onmouseout="fnHideMenu('mnuSubjects'); fnRemoveHighlight('mnuSubjects');">
 	            <div class="floatLeft">
 			    <ul class="gNoShowList">
 	                <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--b1822/abstract-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Abstract</li>
@@ -244,12 +309,12 @@ Action set by js linkForm(action) Don't remove. SC 9/2007 -->
 			    </div>
 	        </div>
 
-	        <div id="mnuArtists" class="popup" style="display:none;" onmouseover="fnDisplayMenu(this,'mnuArtists');" onmouseout="fnHideMenu('mnuArtists'); fnRemoveHighlight('mnuArtists');">
+	        <div id="mnuArtists" class="popup" style="display: none; z-index: 992;" onmouseover="fnDisplayMenu(this,'mnuArtists');" onmouseout="fnHideMenu('mnuArtists'); fnRemoveHighlight('mnuArtists');">
 	            <div class="floatLeft">
 			    <ul class="gNoShowList">
 	                <li class="sub_popup_parentClass">Most Popular</li>
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--a84/vincent-van-gogh-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Vincent Van Gogh</li>
-                    <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--a16/pablo-picasso-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Pable Picasso</li>
+                    <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--a16/pablo-picasso-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Pablo Picasso</li>
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--a43/claude-monet-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Claude Monet</li>
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--a9/gustav-klimt-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Gustav Klimt</li>
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--a76/andy-warhol-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Andy Warhol</li>
@@ -271,7 +336,7 @@ Action set by js linkForm(action) Don't remove. SC 9/2007 -->
 			    </div>
 	        </div>
 	        
-	        <div id="mnuProductTypes" class="popup" style="display:none;" onmouseover="fnDisplayMenu(this,'mnuProductTypes');" onmouseout="fnHideMenu('mnuProductTypes'); fnRemoveHighlight('mnuProductTypes');">
+	        <div id="mnuProductTypes" class="popup" style="display: none; z-index: 991;" onmouseover="fnDisplayMenu(this,'mnuProductTypes');" onmouseout="fnHideMenu('mnuProductTypes'); fnRemoveHighlight('mnuProductTypes');">
 	            <div class="floatLeft">
 			    <ul class="gNoShowList">
 			        <li class="sub_popup_parentClass" onclick="linkForm('http://www.art.com/gallery/id--d207226/fine-art.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Prints</li>
@@ -281,7 +346,7 @@ Action set by js linkForm(action) Don't remove. SC 9/2007 -->
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--d207230/posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Posters</li>
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--d207231/serigraphs.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Serigraphs</li>
                     <li>&nbsp;</li>
-                    <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--d207239/wall-tapestries.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);"><strong>Wall Tapestries</strong></li>
+                    
 			    </ul>
                 </div>
                 
@@ -307,16 +372,18 @@ Action set by js linkForm(action) Don't remove. SC 9/2007 -->
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--d207242/hand-painted-art.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Hand Painted Art</li>
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--d207244/wall-murals.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Wall Murals</li>
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--d207245/wall-signs.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Wall Signs</li>
-                    <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--d207243/outdoorart.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Outdoor Art</li>
+                    
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--d222448/decorativeaccents.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Decorative Accents</li>
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--d223168/framedmemorabilia.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Framed Memorabilia</li>
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--d223173/framedobjects.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Framed Objects</li>
-                    <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--d222447/walldecals.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Wall Decals</li>
+                    
+                    <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--d207239/walltapestries.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Wall Tapestries</li>
+                    
 			    </ul>
                 </div>
 	        </div>
 
-	        <div id="mnuCollections" class="popup" style="display:none;" onmouseover="fnDisplayMenu(this,'mnuCollections');" onmouseout="fnHideMenu('mnuCollections'); fnRemoveHighlight('mnuCollections');">
+	        <div id="mnuCollections" class="popup" style="display: none; width: 414px !important; z-index: 990;" onmouseover="fnDisplayMenu(this,'mnuCollections');" onmouseout="fnHideMenu('mnuCollections'); fnRemoveHighlight('mnuCollections');">
 	            <div class="floatLeft">
 			    <ul class="gNoShowList">
 			        <li class="menuItemBold" onclick="linkForm('http://www.art.com/gallery/id--b27523/photography-collection-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Photography</li>
@@ -334,7 +401,9 @@ Action set by js linkForm(action) Don't remove. SC 9/2007 -->
 			    <ul class="gNoShowList">
 			        <li class="menuItemBold" onclick="linkForm('http://www.art.com/gallery/id--b206897/specialty-collection-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Specialty</li>
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--b27532/christies-images-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Christie's Images</li>
-                    <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--b27528/thomas-kinkade-collection-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Thomas Kinkade</li>
+                    
+						                    <li class="sub_popup_childClass" onclick="location.href='http://www.art.com/saturdayeveningpost';" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Saturday Evening Post</li>
+						
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--b27533/museum-collections-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Museum Collections</li>
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--b27241/hearst-collection-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Hearst Magazines</li>
                     <li class="sub_popup_childClass" onclick="linkForm('http://www.art.com/gallery/id--b27246/hallmark-posters.htm')" onmouseover="fnUnderlineLink(this);" onmouseout="fnRemoveUnderline(this);">Hallmark</li>
@@ -353,18 +422,12 @@ Action set by js linkForm(action) Don't remove. SC 9/2007 -->
 	        </div>
 			<!--'''''Changes Done for Quick Changes2 ASAP-->
 
-		
-		
-		
+	
 	</div>
-	
-	
-	
 </div>
 
-		
 <div class="PageContainer" id="qq">
-<script language="JavaScript" src="http://static.art.com/scripts/filter.js" type="text/javascript"></script> <script language="JavaScript" src="http://static.art.com/scripts/nav.js" type="text/javascript"></script> <script language="JavaScript">var SaveCartOnExistSessionID='94E379280D164D66A368CD86D2994698';</script><script language="JavaScript" src="http://static.art.com/scripts/SaveCartOnExitPopupCheck.js" type="text/javascript"></script> 
+        <script language="JavaScript">var SaveCartOnExistSessionID='B3E369E1308244FA9C21F6BB1DFEC28B';</script><script language="JavaScript" src="/adc.net/dynfile/25/main-art___v25.js" type="text/javascript"></script> 
 
     <table border="0" valign="top" align="left" cellspacing="0" cellpadding="0" width="769" id="Table1">
       <tbody><tr>
@@ -424,7 +487,7 @@ Action set by js linkForm(action) Don't remove. SC 9/2007 -->
 </td><td width="168px" class="leftNavTitleCell">
 <span class="leftNavTitle" style="padding-bottom:2px;">Corporate Policies</span></td></tr>
 <tr><td width="12px" class="leftNavItemCellSelected">
-<img src="http://artfiles.art.com/images/pub/navigation/left_nav/arrow.gif" width="8" height="8" border="0"></td><td width="168px" class="leftNavItemCell">
+<img src="http://cache1.artprintimages.com/images/pub/navigation/left_nav/arrow.gif" width="8" height="8" border="0"></td><td width="168px" class="leftNavItemCell">
 <a href="http://www.art.com/asp/customerservice/privacy_policy-asp/_/posters.htm" class="leftNavItemSelected" alt="Click to View Privacy Policy">Privacy Policy</a></td></tr>
 <tr><td width="12px" class="leftNavItemCellSelected">
 <span style="color:#E1E8ED;font-size:4px;">.</span></td><td width="168px" class="leftNavItemCell">
@@ -497,7 +560,7 @@ Action set by js linkForm(action) Don't remove. SC 9/2007 -->
              <tbody><tr><td style="text-align:right;height:23px">&nbsp;</td></tr>
 
 		  <tr>
-		    <td><img src="http://artfiles.art.com/images/pub/headers/hdr-corp_pol-privacy.gif" width="563" height="85"></td>
+		    <td><img src="http://cache1.artprintimages.com/images/pub/headers/hdr-corp_pol-privacy.gif" width="563" height="85"></td>
 		  </tr>
 		</tbody></table>
 <table border="0" cellspacing="0" cellpadding="5" width="540"><tbody><tr><td class="cpol_style1"><b><a href="mailto:support@art.com" class="pDetailslink">support@art.com</a></b></td><td>&nbsp;</td><td class="cpol_style1"><div align="right"><b>1-800-952-5592 <br> Monday - Saturday, 9am - 10pm EST </b></div></td></tr></tbody></table>
@@ -505,11 +568,10 @@ Action set by js linkForm(action) Don't remove. SC 9/2007 -->
 <table width="540" border="0" cellspacing="0" cellpadding="5">
             <tbody><tr>
                <td> 
-                  <a name="privacy"></a> <span class="heading2">Privacy</span>
+                  <a name="privacy"></a> <span class="heading2">Privacy Policy</span>
                   <p>
                   
-                  We value the users of our web site (the "Website") and their access to the services offered on it (the "Services"), and we know their privacy is important to them. Accordingly, we have implemented this Privacy Policy to inform you of the 
-information that we collect from you, how we collect it, and what we do with it. By using the Website you are accepting the practices described in this Privacy Policy. 
+                  We value your business and we know your privacy is important to you. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect it, and what we do with it. By using this website you are accepting the practices described in this Privacy Policy. 
                    
                   </p><p>
                </p></td>
@@ -525,68 +587,39 @@ information that we collect from you, how we collect it, and what we do with it.
                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
                               <tbody><tr>
                                  <td>
-                                    <span class="heading1">How and when we collect information:</span> 
-                                       <br>
+                                    <span class="heading1">How and when we collect information</span> 
+                                       <br><br>
                                             
-                                            We collect "personal" information from you when you provide it to us.
-                                           For example, if you purchase a product from us, we collect your name, mailing
-                                           address, telephone number, credit card number and email address. If you sign up
-                                           to receive a newsletter, we will collect your email address. If you utilize Services
-                                           or take advantage of special offers made by us or our marketing partners, we may collect
-                                           other personal information about you.
+                                            We collect "personal" information from you when you provide it to us. For example, if you purchase a product from us, we may collect your name, mailing address, telephone number, credit card number and email address. If you sign up to receive a newsletter, we will collect your email address. If you take advantage of special services offered by us, we may collect other personal information about you.
                                                                                       
                                        <p>                 
-                                    <span class="heading1">What we do with your information:</span> 
-                                       <br>
+                                    <span class="heading1">What we do with your information</span> 
+                                       <br><br>
                                             
-                                            We are committed to protecting your privacy. Under no circumstances do we rent, trade or share your e-mail                                       
-                                           address with any other company for their marketing purposes without your consent. We use
-                                           your personal information for internal purposes such as processing and keeping you informed of your order. You may, from
-                                           time to time, receive information from us about new features, new services and special offers we think you'll find valuable.
-                                           If you take advantage of special offers made by our marketing partners, we may transfer your personal information to them.  
-                                           Also, we make our customer's mailing addresses available to carefully screened companies whose products or services might
-                                           interest you.                                           
+                                            We are committed to protecting your privacy. Under no circumstances do we rent, trade or share your e-mail address with any other company for their marketing purposes without your consent. We use your personal information for internal purposes such as processing and keeping you informed of your order. You may, from time to time, receive information from us about new features, new services and special offers we think you'll find valuable. If you take advantage of special offers made by our marketing partners, we may, with your consent, transfer your personal information to them. We may share your mailing address with select third parties.                                          
                                        <br>                                       
                                        <br>                                           
-                                            The personal information that you give us when you place an order or utilize one of the Services is used
-                                           to process and fulfill your order or request. We also use your personal information for our own internal
-                                           purposes, such as providing customer support or providing, maintaining, evaluating and improving the Services
-                                           and the Website.                                          
-										    If you are outside of the United States, we transfer your personal and non-personal information to our corporate affiliate in the United States.
+                                            The personal information that you give us when you place an order is used to process and fulfill your order. We also use your personal information for our own internal purposes, such as providing customer support or providing, maintaining, evaluating and improving our products and services.
                                            
                                        <br>                                       
                                        <br>                                            
-                                            We partner with one or more credit card processing companies to assist us in processing your payment.
-                                           However, those companies do not retain, share, store, or use personally identifiable information for
-                                           any secondary purposes. The information you provide us is used for processing and fulfilling your order
-                                           and contacting you if we have problems processing your order.                                           
+                                            We partner with one or more credit card processing companies to assist us in processing your payment. However, those companies do not retain, share, store, or use personally identifiable information for any secondary purposes.                                           
                                        <br>                                       
                                        <br>                                            
-                                            We may disclose the personal and non-personal information of our customers to any successor-in-interest
-                                           of ours, such as a company that acquires us. In the event we go through a business transition, such as
-                                           a merger, acquisition by another company, or sale of all or a portion of our assets, your information
-                                           will likely be among the assets transferred. We may need to disclose personal information when required
-                                           by law and when we have a good-faith belief that such action is necessary to comply with a judicial proceeding,
-                                           a court order or legal process.
+                                            We may disclose the personal and non-personal information of our customers to any successor-in-interest of ours, such as a company that acquires our business. We may need to disclose your personal information when required by law or when we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order or legal process.
                                            
                                         </p><p>                          
-                                    <span class="heading1">Your choice to opt-out of certain communications:</span> 
-                                       <br>
+                                    <span class="heading1">Your choice to opt-out of certain communications</span> 
+                                       <br><br>
                                              
-                                            If you are no longer interested in receiving e-mail announcements and other marketing information from us,
-                                           please e-mail your request to <a href="mailto:Support@Art.Com">Support@Art.Com</a>.    
-                                           Please include your complete name and mailing
-                                           address (as well as your e-mail address) if you prefer not to receive direct mail postcards or catalogs.
-                                           Note that you may still receive customer service related communications from us.
+                                            If you are no longer interested in receiving e-mail announcements and other marketing information from us, please e-mail your request to <a href="mailto:Support@Art.Com">support@art.com</a>.    
+                                           Please include your complete name, e-mail address and mailing address. Note that you may still receive customer service related communications from us.
                                            
                                        </p><p>                                                                              
-                                    <span class="heading1">We link to other sites:</span> 
-                                       <br>
+                                    <span class="heading1">We link to other websites</span> 
+                                       <br><br>
                                              
-                                            This Website may contain links to other web sites. Please be aware that we are not responsible for the privacy
-                                           practices of such other web sites. We encourage our users to be aware when they leave our site and to read the
-                                           privacy statements of each and every web site that collects personally identifiable information.
-                                           This privacy statement applies solely to information collected by this Website.
+                                            Our website may contain links to web sites operated by other companies. We are not responsible for the privacy practices of such other web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of such other websites. This privacy statement applies solely to information collected by our website. 
                                            
                                        </p><p>                                                                                                                                                         
                                  </p></td>
@@ -594,82 +627,59 @@ information that we collect from you, how we collect it, and what we do with it.
          	                  <tr>
          	                     <td>
          	                     <p>
-         	                        <span class="heading1">IP address and cookies:</span> 
-         	                           <br>
+         	                        <span class="heading1">IP address and cookies</span> 
+         	                           <br><br>
          	                                  
-         	                                We also collect "non-personal" information from you, such as your browser type, the URL of the
-         	                               previous web site you visited, your ISP, operating system, and your IP address.
-         	                               "Non-personal" information cannot be easily used to personally identify you.
-         	                               We may use your IP address to help diagnose problems with our server and
-         	                               to administer our website. Your IP address also may be used to gather broad demographic
-         	                               information and to recognize customer traffic patterns and site usage. This information aids
-         	                               us in merchandising and in developing the design and layout of the site.
+         	                                We also collect "non-personal" information from you, such as your browser type, the URL of the previous web site you visited, your ISP, operating system, and your IP address. "Non-personal" information cannot be easily used to personally identify you. We may use your non-personal information to help diagnose problems with our server and to administer our website. Your non-personal information may also be used to gather broad demographic information and to recognize customer traffic patterns and website usage. This information aids us in merchandising and in developing the design and layout of the website.
          	                               
          	                           <br>
-         	                           <br>In addition, like almost all e-commerce web sites, we use "cookies." Cookies are bits
-         	                               of information that are stored on your computer by your web browser. Although our
-         	                               cookies don't store any of your personal information, they do allow us to do things
-         	                               like keep items in your shopping cart between visits or during the same visit or
-         	                               provide you with a more personalized user experience. Whether you want your web browser
-         	                               to accept cookies or not is up to you. If you haven't changed your computer's settings,
-         	                               most likely your browser already accepts cookies.
+         	                           <br>In addition, like almost all e-commerce web sites, we use "cookies." Cookies are bits of information that are stored on your computer by your web browser. Although our cookies don't store any of your personal information, they do allow us to do things like keep items in your shopping cart between visits or during the same visit or provide you with a more personalized user experience. Whether you want your web browser to accept cookies or not is up to you. If you haven't changed your computer's settings, most likely your browser already accepts cookies. 
          	                           <br>
-         	                           <br>We may collect and share non-personal information about the pages that you visit on the
-         	                               Website, but this information is not personally identifiable, and we may use selected
-         	                               third parties for marketing and analysis purposes.
+         	                           <br>We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.  If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click <a href="http://www.networkadvertising.org/managing/opt_out.asp">here</a>. You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by clicking <a href="http://www.networkadvertising.org/">here</a>.
          	                               
          	                           </p><p>
-                                    <span class="heading1">How we protect your information:</span> 
-                                       <br>
+                                       <a name="ProtectInformation"></a><span class="heading1">How we protect your information</span> 
+                                       <br><br>
 								               
                                         								               
-                                        
-                                        <script src="https://seal.verisign.com/getseal?host_name=www.art.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
-                                        
-                                       The security of your personal information is important to us. When you enter sensitive
-                                       information such as a credit card number on our registration or order forms, we encrypt
-                                       that information using secure socket layer technology (SSL). We follow generally accepted
-                                       industry standards to protect the personal information submitted to us from unauthorized
-                                       access or disclosure, both during transmission and once we receive it. However, no method
-                                       of transmission over the Internet, or method of electronic storage, is 100% secure.
-                                       Therefore, while we strive to use commercially acceptable means to protect your personal
-                                       information, we cannot guarantee its absolute security. 
-									   We assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or acts or omissions.
+                                       The security of your personal information is very important to us. 
+                                       <br><br>
+                                       When you enter sensitive information such as a credit card number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). For purchases made online with credit cards, we store your credit card number in encrypted form for a limited amount of time, and our employees do not have access to this information.  We do not store PIN data or 3-digit security codes.
+                                <br><br>
+                                We follow generally accepted industry standards to protect the personal information submitted to us from unauthorized access or disclosure, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or other acts or omissions. 
 									   
                                        </p><p>
-                                       <span class="heading1">Children's Privacy:</span>                                                                                                                                                                                           
-                                       <br>
+                                       <span class="heading1">Children's Privacy</span>                                                                                                                                                                                           
+                                       <br><br>
                                        	
-                                       The Services are intended for users ages 18 and older. Accordingly, we will not knowingly collect or use any personal information from children that we know to
-									   be under the age of 18. In addition, we will delete any information in our database that we know originates from a child under the age of 18.
+                                       The Services are intended for users ages 18 and older. Accordingly, we will not knowingly collect or use any personal information from persons that we know to be under the age of 18. In addition, we will delete any information in our database that we know originates from a child under the age of 18. 
 									   
 									             
 									   
                                        </p><p>
-                                    <span class="heading1">Updating your personal information:</span>
-                                       <br>
+                                    <span class="heading1">Updating your personal information</span>
+                                       <br><br>
                                        	
-                                       If your personal information changes, you may correct, update or remove personal information
-                                           previously provided to us by contacting our customer service department at <a href="mailto:Support@Art.Com">Support@Art.Com</a>.
+                                       If your personal information changes, you may correct, update or remove personal information previously provided to us by contacting our customer service department at <a href="mailto:Support@Art.Com">support@art.com</a>.
                                         
                                        </p><p>            
                                         
-                                         
-                                         </p><p>                                                                                                                                           
-                                    <span class="heading1">Changes to our Privacy Policy:</span> 
-                                       <br>
+                                       </p><p>                                                                                                                                           
+                                    <span class="heading1">Changes to our Privacy Policy</span> 
+                                       <br><br>
                                        	
-                                       If we change our Privacy Policy, we will post a new Privacy Policy on our Website, which will become
-                                           effective when posted. The new policy will apply to all current and past users of the Website and
-                                           will replace any prior policies that are inconsistent with it.
+                                       If we change our Privacy Policy, we will post a new version on our Website, which will become effective when posted. The new policy will apply to all current and past users of the Website and will replace any prior policies that are inconsistent with it. 
                                        
                                        </p><p>                                       
-                                    <span class="heading1">Contact us:</span> 
-                                       <br>
+                                    <span class="heading1">Contact us</span> 
+                                       <br><br>
                                        
-                                       If you ever have any questions regarding our privacy policy please contact us at <a href="mailto:Support@Art.Com">Support@Art.Com</a>.
+                                       If you ever have any questions regarding our privacy policy please contact us at <a href="mailto:Support@Art.Com">support@art.com</a>.
                                        
-                                       </p><p><span class="heading1">Privacy Policy Effective Date: </span>July 28,&nbsp;2009.
+                                       </p><p>
+                                       	
+                                       <span class="heading1">Updated: </span>April 7,&nbsp;2011.
+                                       
                                        </p><p>
                                  </p></td>
                               </tr>
@@ -701,8 +711,8 @@ information that we collect from you, how we collect it, and what we do with it.
     </td>
   </tr>
  </tbody></table>     
-
-<script language="javascript" type="text/javascript" src="http://static.art.com/scripts/formvalidation.js"></script>
+<img src="http://atrack.art.com/images/track/blank.gif" height="1" width="1">
+<script language="javascript" type="text/javascript" src="/scripts/formvalidation.js"></script>
 
 
 <script language="javascript" type="text/javascript">
@@ -723,7 +733,7 @@ function restoreFooter(x)
 
 </script>
 </div>
-<link rel="stylesheet" href="http://static.art.com/styles/global.css?v=3" type="text/css">
+<link rel="stylesheet" href="/styles/global.css?v=2" type="text/css">
 
 
 <!-- This clear tag prevents the footer from appearing at the top of the page -->
@@ -732,19 +742,26 @@ function restoreFooter(x)
 
 <div class="clear"></div>
 <div class="PageContainer GlobalFooter">
-
+		<div id="dCustomerZoneID" style="display:none">3</div> <div id="dLanguageID" style="display:none">1</div><div id="dShowVisualSearch" style="display:none">False</div><!--this is needed for search suggest javascript and visual search as footer is global its placed here-->
 	<div id="FooterModules">
-			    	
-            <div id="FooterTopBar" class="TopBar gBkLt"> 
-        	
+		
+            <div id="FooterTopBar" class="TopBar gBkLt">
+        
 		    <div id="LeftModule1" class="LeftModule" onclick="linkForm('http://www.art.com/asp/customerservice/shippingreturns-asp/_/posters.htm')">
-		        <div id="swap1">	                    
+		        <div id="swap1">
 		            <div id="dvfootersatisfaction" class="FooterModuleHeading gTxtDk">100% Satisfaction guaranteed</div>
-		            <div id="dvfooterreturn" class="FooterModuleSubText">30-day Return Policy</div>		            
+		            <div id="dvfooterreturn" class="FooterModuleSubText">30-day Return Policy</div>
 		        </div>
 		    </div>
-		    	
-		        <div id="RightModule1" class="RightModule">		        
+		    
+                  <div id="CenterModule1" class="CenterModule" onclick="void(window.open('http://www.art.com/asp/include/homepage_modules/valuemag_pop-asp/_/posters.htm','details','width=390,height=200,scrollbars=auto,menubar=no,status=no,statusbar=no,location=no,address=no'));return false;">    				
+				        <div id="swap1">
+					        <div class="FooterModuleHeading gTxtDk">Bonus Offer</div>
+					        <div class="FooterModuleSubText">Magazine Offer</div>
+				        </div>
+			      </div>
+			
+		        <div id="RightModule1" class="RightModule">
 		    
 		           <div style="background-color:#E7E2D9; border:0px;float: right;text-align:right; padding-right:3px;">
 					    <form id="FooterNewsletterBoxForm" action="http://ebm.cheetahmail.com/r/regf2" method="post" onsubmit="return validateAndSaveEmailfooter(this,'fError');">
@@ -752,24 +769,24 @@ function restoreFooter(x)
 					            <tbody><tr>
 					                <td><span style="float:right;font-family:Verdana;font-size:11px;color:#4C3327; padding:5px 10px 0px 0px ;">Exclusive Offers and Updates</span></td>
 					                <td><input type="text" name="email" id="FooterNewsletterEmail" maxlength="50" value="Enter Email Address" onfocus="javascript:FooterNewsletterOnFocus(this);" onblur="javascript:FooterNewsletterOnBlur(this);"></td>
-					                <td><input name="Submit" type="image" src="http://artfiles.art.com/images/pub/navigation/global/newsletter_btn.gif" height="22" width="29" id="FooterNewsletterSubmit" alt="GO"></td>
+					                <td><input name="Submit" type="image" src="http://cache1.artprintimages.com/images/pub/navigation/global/newsletter_btn.gif" height="22" width="29" id="FooterNewsletterSubmit" alt="GO"></td>
 					            </tr>
 					            <tr>
 					                <td colspan="3">
 					                    <input type="hidden" name="aid" value="666243671">
 						                <input type="hidden" name="n" value="100">
-						                <input type="hidden" name="NEWSLETTERSIGNUPDATE" value=" 01-DEC-2009 ">
+						                <input type="hidden" name="NEWSLETTERSIGNUPDATE" value=" 08-MAY-2011 ">
 						                <input type="hidden" name="idc" value="%%idc%%">
 						                <input type="hidden" name="submitted" value="Y">
 					                </td>
-					            </tr>					            
+					            </tr>
 					        </tbody></table>
-				        </form>				        
+				        </form>
 				        <span id="fError" style="font-size:10px;color:#ED1C24;font-weight:bold;float:right;display:none;visibility:hidden;text-align:left;padding-right:30px;">Please enter a valid address</span>
 			        </div>
 		        </div>
 		</div>
-		 	
+		
 		<div id="FooterBottomBar" class="BottomBar">
 		    <div id="bottomdiv1" class="One">
 		        <div id="dvFooterPhone" class="BottomFooterPhone">
@@ -784,38 +801,66 @@ function restoreFooter(x)
 		             
 	            </div>
 	        </div>
-	        <div id="bottomdiv2" class="Two">	            
+	        <div id="bottomdiv2" class="Two">
 	             <ul class="FooterlinkHdr">
 	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="linkForm('http://www.art.com/asp/aboutus/default-asp/_/posters.htm')"><span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">About Us</span></li>
 	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="document.getElementById('globalLinkForm').target = '_blank';linkForm('http://corporate.art.com/careers.aspx');document.getElementById('globalLinkForm').target = '';"><span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">Careers</span></li>
 	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="linkForm('http://www.artistrising.com/')"><span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">Artist Rising</span></li>
 	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="linkForm('http://www.art.com/asp/landing/business/default-asp/_/posters.htm')"><span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">Business Sales</span></li>
-	            </ul>	            
-		    </div> 
-		    <div id="bottomdiv3" class="Three">		        
+	            </ul>
+		    </div>
+		    <div id="bottomdiv3" class="Three">
 		        <ul class="FooterlinkHdr">
 	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="linkForm('http://www.art.com/asp/aboutus/contact_us-asp/_/posters.htm')"> <span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">Contact Us</span> </li>
 	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="linkForm('http://www.art.com/asp/customerservice/default-asp/_/posters.htm')"><span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">Help</span></li>
 	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="linkForm('http://www.art.com/asp/customerservice/shippingreturns-asp/_/posters.htm')"><span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">Return Policy</span></li>
 	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="linkForm('http://www.art.com/asp/gc/default-asp/_/posters.htm')"><span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">Gift Certificates</span></li>
-	            </ul> 
-		    </div> 
+	            </ul>
+		    </div>
 		    <div id="bottomdiv4" class="Four">
 		        <ul class="FooterlinkHdr">
 	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="linkForm('http://affiliates.art.com/index.aspx')"><span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">Affiliates</span></li>
 	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="linkForm('http://www.art.com/asp/customerservice/privacy_policy-asp/_/posters.htm')"><span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">Privacy Policy</span></li>
-	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="linkForm('http://www.art.com/asp/customerservice/terms_of_use-asp/_/posters.htm')"><span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">Terms of Use</span></li>
+	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="linkForm('http://www.art.com/asp/customerservice/terms_of_use-asp/_/posters.htm')"><span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">Terms of Use</span></li>	                
+	                <li class="FooterlinkForm" onmouseover="this.className='FooterlinkULHover'" onmouseout="this.className='FooterlinkForm'" onclick="linkForm('http://www.art.com/asp/customerservice/terms_of_sale-asp/_/posters.htm')"><span onmouseover="this.className='FooterlinkFormHover'" onmouseout="this.className='FooterlinkForm'">Terms of Sale</span></li>
 	                
-	            </ul> 	
-		    </div> 
-		</div> 
+	            </ul>
+		    </div>
+		</div>
+
 			
-			
-		    		    
+
 		<div class="clear"></div>
-	</div>
 		
+		<!-- hdt 58200-->
 	
+	 <div class="Findus">
+         <div style="margin-left:270px;">  
+              <div class="floatLeft" style="padding-top:20px;">Find us on:</div>
+              
+              <a class="floatLeft" target="_blank" href="http://www.facebook.com/art.com" style="cursor:pointer; padding-top:17px;text-decoration:none;" rel="nofollow"> 
+                  <span style="float:left; margin-left:10px;"><img alt="Facebook" style="margin-left:10px;vertical-align:middle;margin-right:5px;border:0px;" src="http://cache1.artprintimages.com/images/pub/footer/follow_us_footer_facebook.gif">                  
+                  </span>
+                  <span class="floatLeft" style="margin-left:2px; margin-top:3px;color:#666666">Facebook</span>
+              </a>              
+              
+              <div class="floatLeft" onclick="document.getElementById('globalLinkForm').target = '_blank';linkForm('http://twitter.com/artdotcom');document.getElementById('globalLinkForm').target = '';" style="cursor:pointer;padding-top:17px;">
+              <div style="float:left; margin-left:10px;"><img border="0" title="Twitter" src="http://cache1.artprintimages.com/images/pub/footer/follow_us_footer_twitter.gif" alt="Twitter"></div>
+              <div class="floatLeft" style="margin-left:5px; margin-top:3px;">Twitter</div>
+              </div>
+              <div class="floatLeft" style="margin-bottom:7px; margin-left:5px;cursor:pointer; padding-top:9px;" onclick="document.getElementById('globalLinkForm').target = '_blank';linkForm('http://itunes.apple.com/us/app/art-com/id348423904?mt=8');document.getElementById('globalLinkForm').target = '';">
+              <div style="float:left; margin-left:10px; margin-bottom:8px;"><img border="0" title="Iphone" src="http://cache1.artprintimages.com/images/pub/footer/follow_us_footer_iphone.gif" alt="Iphone"></div>
+              <div class="floatLeft" style="margin-left:5px; margin-top:11px; text-align:center"> iPhone App</div>  
+             </div>
+        </div> 
+    </div> 
+  <div class="clear"></div>
+	
+	<!--end of hdt 58200--> 
+		
+	</div>
+
+
 	
 	    <div id="FooterTrustLogos">
 	
@@ -823,33 +868,33 @@ function restoreFooter(x)
 	        <tbody><tr>
 	            
 	            <td>
-                     <img class="FooterImglinkform" height="36" border="0" title="Certified by BBB" src="http://artfiles.art.com/images/pub/navigation/footer/AB_blue_seal_horizontal_36px.png" alt="Certified by BBB" onclick="document.getElementById('globalLinkForm').target = '_blank';linkForm('http://www.bbb.org/raleigh-durham/business-reviews/art-suppliers/artcom-inc-in-raleigh-nc-5001914');document.getElementById('globalLinkForm').target = ''">
+                     <img class="FooterImglinkform" height="36" border="0" title="Certified by BBB" src="http://cache1.artprintimages.com/images/pub/navigation/footer/AB_blue_seal_horizontal_36px.png" alt="Certified by BBB" onclick="document.getElementById('globalLinkForm').target = '_blank';linkForm('http://www.bbb.org/raleigh-durham/business-reviews/art-suppliers/artcom-inc-in-raleigh-nc-5001914');document.getElementById('globalLinkForm').target = ''">
 	            </td>
 	            
-	            
+
 	            <!-- To remove verisign from gallery pages //-->
-	                   
+	            
 	            <td>
 	                
-                    
-                    <span id="verisignLogoContainerInASP"><script language="javascript" src="https://seal.verisign.com/getseal?host_name=www.art.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script></span>	                                      
+
+                    <!--<span id="verisignLogoContainerInASP"><script language="javascript" src="https://seal.verisign.com/getseal?host_name=www.art.com&size=S&use_flash=YES&use_transparent=YES&lang=en"></script></span>-->
 	            </td>
 	            
 	            <td>
-	                <img class="FooterImglinkform" width="65" height="37" border="0" src="https://images.scanalert.com/meter/www.art.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." onclick="document.getElementById('globalLinkForm').target = '_blank';linkForm('https://www.scanalert.com/RatingVerify?ref=www.art.com');document.getElementById('globalLinkForm').target = ''"> 
+	                <img class="FooterImglinkform" width="65" height="37" border="0" src="https://images.scanalert.com/meter/www.art.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." onclick="document.getElementById('globalLinkForm').target = '_blank';linkForm('https://www.scanalert.com/RatingVerify?ref=www.art.com');document.getElementById('globalLinkForm').target = ''">
 	            </td>
 	        </tr>
 	    </tbody></table>
-	</div>	
-    
+	</div>
+
     
 	<div id="FooterCopyText">
 	
 	    © Art.com Inc. All Rights Reserved.<br><br>
-	 	
-	
-	</div>    
-</div> 
+			 
+
+	</div>
+</div>
 <div id="dartContainer" style="position:absolute;display:none;"></div>
 
 
@@ -864,59 +909,59 @@ function linkForm(action)
 ///ASAP Footer Redesign Changes - End
 
 function fnOnULMouseOver(Nelement, statusLink)
-{            
+{
     //window.status = statusLink;
     Nelement.className='FooterlinkULHover';
-    
+
 }
 
 function fnOnMouseOver(Nelement, statusLink)
-{        
+{
     //window.status = statusLink;
     Nelement.className='FooterlinkFormHover';
-    
+
 }
 
 
 function validateAndSaveEmailfooter(theForm, errorline)
-{         
+{
     var obj, objFTB;
     obj = document.getElementById('NewsletterPrivacy');
     objFTB =  document.getElementById('FooterTopBar');
   var emailOK = false;
-  var x = theForm.email.value;  
+  var x = theForm.email.value;
   var filter  = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-  
+
   if (filter.test(x))
-  {    
-    document.getElementById(errorline).style.display  = 'none'; 
-    document.getElementById(errorline).style.visibility  = 'hidden';    
+  {
+    document.getElementById(errorline).style.display  = 'none';
+    document.getElementById(errorline).style.visibility  = 'hidden';
     emailOK = true;
   }
   else
-  { 
-    
+  {
+
     document.getElementById(errorline).style.display  = 'block';
-    document.getElementById(errorline).style.visibility  = 'visible';   
+    document.getElementById(errorline).style.visibility  = 'visible';
     if (objFTB != null)
-    { 
-        objFTB.style.height = '50px'; 
+    {
+        objFTB.style.height = '50px';
     }
-    
+
     if (obj != null && obj.style.visibility != 'hidden' )
     {
         //obj.style.display = 'none';
-        //obj.style.visibility  = 'hidden';    
+        //obj.style.visibility  = 'hidden';
         document.getElementById(errorline).style.marginTop = '13px';
         if (objFTB != null)
-        { 
-            objFTB.style.height = '60px'; 
+        {
+            objFTB.style.height = '60px';
         }
     }
-    
+
     return false;
   }
-  
+
   if (emailOK)
   {
     req = createXMLHTTPObject();
@@ -924,30 +969,30 @@ function validateAndSaveEmailfooter(theForm, errorline)
   	userEmail = theForm.email.value;
     req.open("GET","/asp/newsletter/saveEmail.asp?email=" + (userEmail),true);
     req.send(null);
-    return true;   
+    return true;
   } //end if emailOK
 }
 
 function FooterNewsletterOnFocus(NLelement)
-{    
+{
     if(NLelement.value=='Enter Email Address')NLelement.value='';
 }
 
 function FooterNewsletterOnBlur(NLelement)
-{    
+{
     var obj, objprivacy, objFTB;
-    obj = document.getElementById('fError'); 
-    objprivacy = document.getElementById('NewsletterPrivacy'); 
+    obj = document.getElementById('fError');
+    objprivacy = document.getElementById('NewsletterPrivacy');
     objFTB =  document.getElementById('FooterTopBar');
     if(NLelement.value=='')
-    {                
+    {
         NLelement.value='Enter Email Address';
         if (obj != null)
         {
-            obj.style.display = 'none';       
-            obj.style.visibility  = 'hidden'; 
+            obj.style.display = 'none';
+            obj.style.visibility  = 'hidden';
             if ( objprivacy != null)
-            { 
+            {
                 objFTB.style.height = '50px';
                 document.getElementById('dvfootersatisfaction').style.marginTop = '9px';
             }
@@ -957,21 +1002,21 @@ function FooterNewsletterOnBlur(NLelement)
                 objFTB.style.height = '40px'; }
             }
         }
-    }    
+    }
 }
 
 
 function ExpandFooterTopBar()
-{    
-    var obj;    
-    obj = document.getElementById('NewsletterPrivacy'); 
-    objFTB = document.getElementById('FooterTopBar');   
+{
+    var obj;
+    obj = document.getElementById('NewsletterPrivacy');
+    objFTB = document.getElementById('FooterTopBar');
     if (obj != null)
     {
         objFTB.style.height = '50px';
         document.getElementById('dvfootersatisfaction').style.marginTop = '9px';
         obj.style.display = 'block';
-        obj.style.visibility  = 'visible'; 
+        obj.style.visibility  = 'visible';
     }
     else
     {
@@ -984,10 +1029,11 @@ function ExpandFooterTopBar()
 ///ASAP Footer Redesign Changes - End
 </script>
 
-<!-- Global form to handle inline form links in header, footer, left nav. 
+
+<!-- Global form to handle inline form links in header, footer, left nav.
 Action set by js linkForm(action) Don't remove. SC 9/2007 -->
 <form id="globalLinkForm" method="post" class="inline"></form>
-<script language="JavaScript"></script>
+<script language="JavaScript">itemsInCart = true;</script>
   
 
 </body></html>
