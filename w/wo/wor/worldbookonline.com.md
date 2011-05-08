@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldbookonline.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221162324id_/http%3A//www.worldbookonline.com/wb/subscribe/Help%3Fid%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldbookonline.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508201830id_/http%3A//www.worldbookonline.com/wb/subscribe/Help%3Fid%3Dprivacy.html) for the most accurate reproduction.*
 
 # World Book Online Subscription
 
@@ -24,7 +24,7 @@ World Book may use the Personal Information that it collects to offer you other 
 
 ****
 
-You may choose not to receive such marketing information and/or to allow World Book to use your information to send you information regarding products and services that might be of interest to you by simply notifying World Book directly at http://store.worldbook.com/wb/register? or, if you are a home user of the Site, please go to the "My Account" tab on the home page to change your Contact Information. Upon receipt and processing of an "opt-out" request, World Book will, within a commercially reasonable amount of time, remove your information from any future marketing communications.
+You may choose not to receive such marketing information and/or to allow World Book to use your information to send you information regarding products and services that might be of interest to you by simply notifying World Book directly at http://www.worldbook.com/wb/register? or, if you are a home user of the Site, please go to the "My Account" tab on the home page to change your Contact Information. Upon receipt and processing of an "opt-out" request, World Book will, within a commercially reasonable amount of time, remove your information from any future marketing communications.
 
 ****
 
