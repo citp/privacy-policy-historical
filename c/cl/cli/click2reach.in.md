@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the click2reach.in privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213050124id_/http%3A//www.click2reach.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the click2reach.in privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508133508id_/http%3A//www.click2reach.in/privacy-policy) for the most accurate reproduction.*
 
 # Click2Reach - Local Search Engine, India's Largest Local Business Search Engine, Online Business Directory
 
