@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cpr.org privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223170248id_/http%3A//www.cpr.org/article/legacy-kvod-59) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cpr.org privacy policy that was archived on 2011-05-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110508111124id_/http%3A//www.cpr.org/article/legacy-kvod-59) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head><style>.ui-button {border-radius:5px 5px 5px 5px; -moz-border-radius:5px 5px 5px 5px;}.ui-button {-webkit-border-top-left-radius:5px 5px; -webkit-border-top-right-radius:5px 5px; -webkit-border-bottom-right-radius:5px 5px; -webkit-border-bottom-left-radius:5px 5px;}</style>
 		<title>Colorado Public Radio - Privacy Statement</title><meta name="description" content="Colorado Public Radio's Privacy Statement  -  Colorado Public Radio does not collect personally-identifying information from visitors...">
@@ -48,7 +48,7 @@
 		<script type="text/javascript" src="/js/cpr/widgetLayout.js"></script>
 		<script type="text/javascript" src="/lib/search/searchdata.php"></script>
 		<script type="text/javascript" src="/js/urlEncode.js"></script>
-		<script type="text/javascript" src="/js/jquery/plugins/jquery.bgiframe.min.js"></script>
+<!--		<script type="text/javascript" src="/js/jquery/plugins/jquery.bgiframe.min.js"></script>-->
 		<script type="text/javascript" src="/js/jquery/plugins/jquery.autocomplete.min.js"></script>
 		<script type="text/javascript" src="/js/jquery/plugins/ddRoundies.js"></script>
 		<script type="text/javascript" src="/js/jquery/plugins/jquery.livequery.js"></script>
@@ -61,10 +61,18 @@
 		<script type="text/javascript" src="/js/jquery/plugins/realsimplehistory/rsh.compressed.js"></script>
 		<script type="text/javascript" src="/js/jquery/plugins/jquery.cycle/jquery.cycle.all.min.js"></script>
 		<script type="text/javascript" src="/js/jquery/plugins/jquery.cookie.js"></script>
+		<script type="text/javascript" src="/js/jquery/plugins/jquery.writeCapture-1.0.5-min.js"></script>
 		
 <!--		<script type="text/javascript" src="/js/cpr/swfobject.js"></script>-->
 		
-		
+		 <!-- Conditional include to deliver jquery bgiframe plugin *ONLY* to IE6 users-->
+                <script type="text/javascript">
+                    if (BrowserDetect.browser == "Explorer" && BrowserDetect.version == "6") {
+                        $.getScript('http://www.cpr.org/js/jquery/plugins/jquery.bgiframe.min.js', function() {
+                            //alert('bgiframe was loaded');
+                        });
+                    }
+                </script>
 
 <!-- End Main Javascript Libraries -->
 
@@ -75,6 +83,7 @@
 		<script type="text/javascript" src="/js/cpr/content_loader.js"></script></head><body><form id="rshStorageForm" style="left:-1000px;top:-1000px;width:1px;height:1px;border:0;position:absolute;"><textarea id="rshStorageField" style="left:-1000px;top:-1000px;width:1px;height:1px;border:0;position:absolute;"></textarea></form>
 		<script type="text/javascript" src="/js/cpr/jwplayer.js"></script>
 		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+		<script type="text/javascript" src="/js/cpr/adserver.js"></script>
 <!--		<script type="text/javascript" src="/js/cpr/embed.jwplayer.js"></script>-->
 		
 <!-- End Main Init -->
@@ -184,65 +193,32 @@ catch(err) {}
 				<div id="searchForm">
 				</div> 
 				
-				<div id="mainTab" class="mainTabClass">
-					
-					<div id="homeSideNav" class="leftSideNav">
+				<div class="adNavWrapper">
+					<div class="adNav">					
 						
 			<ul class="sidebarNav">
 				<li class="sidebarNavHeader underwritersHeader">SUPPORT OUR SPONSORS</li>
 				<li>
 					<div class="adContainer">
-						<div class="adserverLeft"><div class="adserverBorder">
-
-<!-- BEGIN Zone 4 BANNER -->
-<script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://adserver.cpr.org/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:4&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adjs.php?n=808168494&amp;what=zone:4&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.cpr.org/adclick.php?n=ae0d18e8' target='_blank'><img src='http://adserver.cpr.org/adview.php?what=zone:4&amp;n=ae0d18e8' border='0' alt=''></a></noscript>
-<!-- END Zone 4 BANNER -->
-
-</div>
-
-</div>
-						<div class="adserverRight"><div class="adserverBorder">
-
-<!-- BEGIN Zone 5 BANNER -->
-<script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://adserver.cpr.org/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:5&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adjs.php?n=393220930&amp;what=zone:5&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.cpr.org/adclick.php?n=a961bc41' target='_blank'><img src='http://adserver.cpr.org/adview.php?what=zone:5&amp;n=a961bc41' border='0' alt=''></a></noscript>
-<!-- END Zone 5 BANNER -->
-
-</div></div>
+						<div class="adserverLeft">
+						</div>
+						<div class="adserverRight">
+						</div>
 						<div style="clear:both;"></div>
 						<div class="underwriters">
-							<a href="/article/Underwriter_Directory">Sponsors and CO Corporate Partners</a>
+							<a href="/article/Underwriter_Directory">List of Sponsors/Underwriters</a>
 						</div>
 					</div>
 				</li>
 			</ul>
+								
+					</div>
+				</div>
+				
+				<div id="mainTab" class="mainTabClass">
+					
+					<div id="homeSideNav" class="leftSideNav">
+						
 			<ul class="sidebarNav">
 				<li class="sidebarNavHeader cprHeader">PROGRAMS</li>
 				<li class="cprLinks"><a href="/category/news">In-Depth News</a></li>
@@ -255,12 +231,12 @@ catch(err) {}
 				<li class="supportLinks"><a href="https://secure.cpr.org/">Become a Member and Pledge Now</a></li>
 				<li class="supportLinks"><a href="/article/legacy-cpr-88">Become a Sponsor/Underwriter</a></li>
 				<li class="supportLinks"><a href="/article/legacy-cpr-47">Donate Your Vehicle</a></li>
-				<li class="linkLastSupport"><a href="/article/legacy-cpr-87">More Giving Information</a></li>
+				<li class="linkLastSupport"><a href="/article/legacy-cpr-87">More Ways to Support</a></li>
 			</ul>
 			<ul class="sidebarNav">
 				<li class="sidebarNavHeader profileHeader">More</li>
 				<li class="profileLinks"><a href="/article/legacy-cpr-40">About</a></li>
-				<li class="profileLinks"><a href="/article/Airwaves">Airwaves</a></li>
+				<li class="profileLinks"><a href="/article/Airwaves">Airwaves | Listener Publication</a></li>
 				<li class="profileLinks"><a href="/category/colorado_matters">Colorado Matters</a></li>
 				<li class="profileLinks"><a href="/category/colorado_spotlight">Colorado Spotlight</a></li>
 				<li class="profileLinks"><a href="/article/Contact">Contact Us</a></li>
@@ -270,8 +246,7 @@ catch(err) {}
 				<li class="profileLinks"><a href="/article/legacy-cpr-35">Station Map</a></li>
 				<li class="linkLastProfile"><a href="/category/Colorado_Public_Radio_Help">Need Help?</a></li>
 				
-			</ul>
-					</div>
+			</ul>					</div>
 
 		
 					<div id="homeContent">
@@ -312,7 +287,7 @@ catch(err) {}
       document.write ("&amp;referer=" + escape(document.referrer));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adjs.php?n=677151194&amp;what=zone:11&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.cpr.org/adclick.php?n=aa357501' target='_blank'><img src='http://adserver.cpr.org/adview.php?what=zone:11&amp;n=aa357501' border='0' alt=''></a></noscript>
+</script><script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adjs.php?n=877613478&amp;what=zone:11&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.cpr.org/adclick.php?n=aa357501' target='_blank'><img src='http://adserver.cpr.org/adview.php?what=zone:11&amp;n=aa357501' border='0' alt=''></a></noscript>
 <!-- END Zone 11 BANNER -->
 
 </div>							</div>
@@ -334,7 +309,7 @@ catch(err) {}
       document.write ("&amp;referer=" + escape(document.referrer));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adjs.php?n=221869268&amp;what=zone:12&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.cpr.org/adclick.php?n=a2004a13' target='_blank'><img src='http://adserver.cpr.org/adview.php?what=zone:12&amp;n=a2004a13' border='0' alt=''></a></noscript>
+</script><script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adjs.php?n=801652991&amp;what=zone:12&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.cpr.org/adclick.php?n=a2004a13' target='_blank'><img src='http://adserver.cpr.org/adview.php?what=zone:12&amp;n=a2004a13' border='0' alt=''></a></noscript>
 <!-- END Zone 12 BANNER -->
 
 </div>							</div>							
@@ -348,61 +323,6 @@ catch(err) {}
 					<div id="searchResultNav" class="leftSideNav navOff">
 						
 			<ul class="sidebarNav">
-				<li class="sidebarNavHeader underwritersHeader">SUPPORT OUR SPONSORS</li>
-				<li>
-					<div class="adContainer">
-						<div class="adserverLeft"><div class="adserverBorder">
-
-<!-- BEGIN Zone 4 BANNER -->
-<script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://adserver.cpr.org/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:4&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adjs.php?n=963608610&amp;what=zone:4&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.cpr.org/adclick.php?n=ae0d18e8' target='_blank'><img src='http://adserver.cpr.org/adview.php?what=zone:4&amp;n=ae0d18e8' border='0' alt=''></a></noscript>
-<!-- END Zone 4 BANNER -->
-
-</div>
-
-</div>
-						<div class="adserverRight"><div class="adserverBorder">
-
-<!-- BEGIN Zone 5 BANNER -->
-<script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://adserver.cpr.org/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:5&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adjs.php?n=844402683&amp;what=zone:5&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.cpr.org/adclick.php?n=a961bc41' target='_blank'><img src='http://adserver.cpr.org/adview.php?what=zone:5&amp;n=a961bc41' border='0' alt=''></a></noscript>
-<!-- END Zone 5 BANNER -->
-
-</div></div>
-						<div style="clear:both;"></div>
-						<div class="underwriters">
-							<a href="/article/Underwriter_Directory">Sponsors and CO Corporate Partners</a>
-						</div>
-					</div>
-				</li>
-			</ul>
-			<ul class="sidebarNav">
 				<li class="sidebarNavHeader cprHeader">PROGRAMS</li>
 				<li class="cprLinks"><a href="/category/news">In-Depth News</a></li>
 				<li class="cprLinks"><a href="/category/Classical_Music">Classical Music</a></li>
@@ -414,12 +334,12 @@ catch(err) {}
 				<li class="supportLinks"><a href="https://secure.cpr.org/">Become a Member and Pledge Now</a></li>
 				<li class="supportLinks"><a href="/article/legacy-cpr-88">Become a Sponsor/Underwriter</a></li>
 				<li class="supportLinks"><a href="/article/legacy-cpr-47">Donate Your Vehicle</a></li>
-				<li class="linkLastSupport"><a href="/article/legacy-cpr-87">More Giving Information</a></li>
+				<li class="linkLastSupport"><a href="/article/legacy-cpr-87">More Ways to Support</a></li>
 			</ul>
 			<ul class="sidebarNav">
 				<li class="sidebarNavHeader profileHeader">More</li>
 				<li class="profileLinks"><a href="/article/legacy-cpr-40">About</a></li>
-				<li class="profileLinks"><a href="/article/Airwaves">Airwaves</a></li>
+				<li class="profileLinks"><a href="/article/Airwaves">Airwaves | Listener Publication</a></li>
 				<li class="profileLinks"><a href="/category/colorado_matters">Colorado Matters</a></li>
 				<li class="profileLinks"><a href="/category/colorado_spotlight">Colorado Spotlight</a></li>
 				<li class="profileLinks"><a href="/article/Contact">Contact Us</a></li>
@@ -429,8 +349,7 @@ catch(err) {}
 				<li class="profileLinks"><a href="/article/legacy-cpr-35">Station Map</a></li>
 				<li class="linkLastProfile"><a href="/category/Colorado_Public_Radio_Help">Need Help?</a></li>
 				
-			</ul>
-					</div>
+			</ul>					</div>
 
 					<div id="searchWrapper">
 						<h3 class="articleHeader">Search Results</h3>
@@ -443,67 +362,12 @@ catch(err) {}
 					
 				</div>
 
-				<div id="contentTab" style="height: 105%;">
+				<div id="contentTab" style="height: 680px;">
 
 					<div id="contentTabWrapper">
 					
 					<div id="contentSideNav" class="leftSideNav navOff">
 						
-			<ul class="sidebarNav">
-				<li class="sidebarNavHeader underwritersHeader">SUPPORT OUR SPONSORS</li>
-				<li>
-					<div class="adContainer">
-						<div class="adserverLeft"><div class="adserverBorder">
-
-<!-- BEGIN Zone 4 BANNER -->
-<script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://adserver.cpr.org/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:4&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adjs.php?n=463460158&amp;what=zone:4&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.cpr.org/adclick.php?n=ae0d18e8' target='_blank'><img src='http://adserver.cpr.org/adview.php?what=zone:4&amp;n=ae0d18e8' border='0' alt=''></a></noscript>
-<!-- END Zone 4 BANNER -->
-
-</div>
-
-</div>
-						<div class="adserverRight"><div class="adserverBorder">
-
-<!-- BEGIN Zone 5 BANNER -->
-<script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://adserver.cpr.org/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:5&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adjs.php?n=375847964&amp;what=zone:5&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.cpr.org/adclick.php?n=a961bc41' target='_blank'><img src='http://adserver.cpr.org/adview.php?what=zone:5&amp;n=a961bc41' border='0' alt=''></a></noscript>
-<!-- END Zone 5 BANNER -->
-
-</div></div>
-						<div style="clear:both;"></div>
-						<div class="underwriters">
-							<a href="/article/Underwriter_Directory">Sponsors and CO Corporate Partners</a>
-						</div>
-					</div>
-				</li>
-			</ul>
 			<ul class="sidebarNav">
 				<li class="sidebarNavHeader cprHeader">PROGRAMS</li>
 				<li class="cprLinks"><a href="/category/news">In-Depth News</a></li>
@@ -516,12 +380,12 @@ catch(err) {}
 				<li class="supportLinks"><a href="https://secure.cpr.org/">Become a Member and Pledge Now</a></li>
 				<li class="supportLinks"><a href="/article/legacy-cpr-88">Become a Sponsor/Underwriter</a></li>
 				<li class="supportLinks"><a href="/article/legacy-cpr-47">Donate Your Vehicle</a></li>
-				<li class="linkLastSupport"><a href="/article/legacy-cpr-87">More Giving Information</a></li>
+				<li class="linkLastSupport"><a href="/article/legacy-cpr-87">More Ways to Support</a></li>
 			</ul>
 			<ul class="sidebarNav">
 				<li class="sidebarNavHeader profileHeader">More</li>
 				<li class="profileLinks"><a href="/article/legacy-cpr-40">About</a></li>
-				<li class="profileLinks"><a href="/article/Airwaves">Airwaves</a></li>
+				<li class="profileLinks"><a href="/article/Airwaves">Airwaves | Listener Publication</a></li>
 				<li class="profileLinks"><a href="/category/colorado_matters">Colorado Matters</a></li>
 				<li class="profileLinks"><a href="/category/colorado_spotlight">Colorado Spotlight</a></li>
 				<li class="profileLinks"><a href="/article/Contact">Contact Us</a></li>
@@ -531,8 +395,7 @@ catch(err) {}
 				<li class="profileLinks"><a href="/article/legacy-cpr-35">Station Map</a></li>
 				<li class="linkLastProfile"><a href="/category/Colorado_Public_Radio_Help">Need Help?</a></li>
 				
-			</ul>
-					</div>
+			</ul>					</div>
 
 							<script type="text/javascript">loadedContentFromStart = true;loadedTab = 'Content Tab';loadedArticle = 'legacy-kvod-59';loadedAction = 'load_article';$("#contentTabHeader").attr("title", "legacy-kvod-59");$("#contentTabHeader").html("Privacy Stat...");</script><!-- may move to style sheet eventually... -->
 <style type="text/css">
@@ -614,71 +477,7 @@ catch(err) {}
 				<div id="myProfileTab" style="height: 450px">
 				
 						<div id="profileLeftNav" class="leftSideNav navOff">
-							
-			<ul class="sidebarNav" id="profileNav">
-				<li class="sidebarNavHeader profileHeader">YOUR CPR PROFILE</li>
-				<li class="profileLinks" id="profileLink0"><a href="/profile/profileTemplate">Account Overview</a></li>
-				<li class="profileLinks" id="profileLink1"><a href="/profile/addGiftForm">Make an Additional Gift</a></li>
-				<li class="profileLinks" id="profileLink2"><a href="/profile/contactInfoEdit">Change Contact Information</a></li>
-				<!-- li class="profileLinks" id="profileLink3"><a href="/profile/billingInfoEdit">Change Billing Information</a></li -->
-				<li class="profileLinks" id="profileLink4"><a href="#" onclick="return launchReceipt();" target="_self">Print 2009 Donation Receipt</a></li>
-				<li class="profileLinks" id="profileLink5"><a href="/profile/contactCPR">Contact CPR</a></li>
-				<li class="profileLinks" id="profileLink6"><a href="/profile/memberInfo">Missing Information?</a></li>
-			</ul>
-			<ul class="sidebarNav">
-				<li class="sidebarNavHeader underwritersHeader">SUPPORT OUR SPONSORS</li>
-				<li>
-					<div class="adContainer">
-						<div class="adserverLeft"><div class="adserverBorder">
-
-<!-- BEGIN Zone 4 BANNER -->
-<script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://adserver.cpr.org/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:4&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adjs.php?n=904519320&amp;what=zone:4&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.cpr.org/adclick.php?n=ae0d18e8' target='_blank'><img src='http://adserver.cpr.org/adview.php?what=zone:4&amp;n=ae0d18e8' border='0' alt=''></a></noscript>
-<!-- END Zone 4 BANNER -->
-
-</div>
-
-</div>
-						<div class="adserverRight"><div class="adserverBorder">
-
-<!-- BEGIN Zone 5 BANNER -->
-<script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://adserver.cpr.org/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:5&amp;target=_blank");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://adserver.cpr.org/adjs.php?n=436854856&amp;what=zone:5&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://adserver.cpr.org/adclick.php?n=a961bc41' target='_blank'><img src='http://adserver.cpr.org/adview.php?what=zone:5&amp;n=a961bc41' border='0' alt=''></a></noscript>
-<!-- END Zone 5 BANNER -->
-
-</div></div>
-						<div style="clear:both;"></div>
-						<div class="underwriters"><a href="/article/underwriter_directory">Underwriters and CO Corporate Partners</a></div>
-					</div>
-				</li>
-			</ul>
-									</div>
+													</div>
 
 					<div id="profileContentContainer" class="contentContainer">					
 											</div>
@@ -728,30 +527,30 @@ catch(err) {}
                 <div id="loginDialog" title="Log in to CPR.org">
                         <p id="validateTips">All form fields are required.</p>
                         <form action="#">
-                                <fieldset>
+                                <!--  fieldset>
                                 <label for="loginEmail">Email: </label>
-                                <input id="loginEmail" style="margin-right: 0px;" type="text">
+                                <input id="loginEmail" style="margin-right: 0px;" type="text" />
                                 <label for="loginPassword">Password: </label>
-                                <input id="loginPassword" type="password">
-                                </fieldset>
+                                <input id="loginPassword" type="password" />
+                                </fieldset -->
                         </form>
                         <div style="padding-top: 8px;">
-							<a href="#" onclick="$(&quot;#loginDialog&quot;).dialog(&quot;close&quot;); $(&quot;#forgotPasswordDialog&quot;).dialog(&quot;open&quot;); return false;" target="_self">Forgot my password</a>
+							<!--  a href="#" onclick='$("#loginDialog").dialog("close"); $("#forgotPasswordDialog").dialog("open"); return false;' target="_self">Forgot my password</a -->
 							<br>
 							<br>
-							<a href="/profile/register" onclick="$(&quot;#loginDialog&quot;).dialog(&quot;close&quot;);">Register</a>
+							<!-- a href="/profile/register" onclick='$("#loginDialog").dialog("close");'>Register</a -->
 							
 	                    </div>
                 </div>
 
                 <div id="forgotPasswordDialog" title="FORGOT PASSWORD">
                         <form action="#">
-                                <fieldset>
+                                <!-- fieldset>
                                 <label for="forgotPasswordEmail">EMAIL: </label>
  
-                                <input style="margin-left: 37px;" id="forgotPasswordEmail" type="text"> <br><br>
+                                <input style="margin-left: 37px;" id="forgotPasswordEmail" type="text" /> <br /><br />
                                
-                                </fieldset>
+                                </fieldset -->
                         </form>
                         <div style="padding-top: 8px;">
                         	Submit your email address and we will send your cpr.org password.
@@ -793,4 +592,5 @@ $("#tabs").tabs("select", "#contentTabHeader");		</script>
 	
 	
 			
+
 </body></html>
