@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623220554id_/http%3A//www.oneupweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneupweb.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509180125id_/http%3A//www.oneupweb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Oneupweb
+# Oneupweb > Privacy Policy
 
-EFFECTIVE DATE: November 5, 2007
+**EFFECTIVE DATE: November 5, 2007**
 
-**Oneupweb Respects the Privacy of Its Users**
+Oneupweb Respects the Privacy of Its Users
 
-Please read this Privacy Policy carefully. Here, you will learn what personally identifiable information is collected by Oneupweb (“we” or “us”), how and when we might use website visitors’ (“you” or “your”) information, how we protect your information and how you can correct any inaccuracies in the information. By visiting and using OneUpWeb.com (“website”), you indicate your acceptance of this Privacy Policy, and the collection, management and use of your personal information as described below.
+Please read this Privacy Policy carefully. Here, you will learn what personally identifiable information is collected by Oneupweb ("we" or "us"), how and when we might use website visitors’ ("you" or "your") information, how we protect your information and how you can correct any inaccuracies in the information. By visiting and using OneUpWeb.com ("website"), you indicate your acceptance of this Privacy Policy, and the collection, management and use of your personal information as described below.
 
 Because the internet is an evolving technology, we may make changes to our Privacy Policy from time to time. We reserve the right to revise this policy at any time by updating this posting without advance notice to you. These revisions are effective immediately upon posting. Therefore, we encourage you to check this Privacy Policy periodically.
 
@@ -28,7 +28,7 @@ Oneupweb does not make your personal information available to any third parties 
 
 
 
-Oneupweb does not make your personal information available to third parties without your permission, although certain non-personally-identifiable user information may be provided in aggregate to third parties. Oneupweb’s use of information that is voluntarily submitted will be limited to the terms stated at the time the information was submitted. If you do not wish to be contacted by us in the future, please let us know by emailing us at [info@oneupweb.com](mailto:info@oneupweb.com). Please include “Do Not Contact” in the subject line of your email message. You may also submit your request in writing to:
+Oneupweb does not make your personal information available to third parties without your permission, although certain non-personally-identifiable user information may be provided in aggregate to third parties. Oneupweb’s use of information that is voluntarily submitted will be limited to the terms stated at the time the information was submitted. If you do not wish to be contacted by us in the future, please let us know by emailing us at [info@oneupweb.com](mailto:info@oneupweb.com). Please include "Do Not Contact" in the subject line of your email message. You may also submit your request in writing to:
 
 Oneupweb  
 Attn: Privacy Policy Administrator  
@@ -42,7 +42,7 @@ Oneupweb has appropriate security measures in place to protect against the loss,
 
 **How Can I Correct Inaccuracies In My Information?**
 
-You may request to correct inaccuracies in your contact information. To submit corrections to your contact information please email us at [info@oneupweb.com](mailto:info@oneupweb.com). Please include “Contact Information Correction” in the subject line of your email message. You may also submit your corrections in writing to:
+You may request to correct inaccuracies in your contact information. To submit corrections to your contact information please email us at [info@oneupweb.com](mailto:info@oneupweb.com). Please include "Contact Information Correction" in the subject line of your email message. You may also submit your corrections in writing to:
 
 Oneupweb  
 Attn: Privacy Policy Administrator  
@@ -52,4 +52,4 @@ Traverse City, MI 49684
 
 **What If I Have Questions?**
 
-If you have any questions, concerns or feel that Oneupweb is not following its stated Privacy Policy, you may contact us at [info@oneupweb.com](mailto:info@oneupweb.com). Please include “Privacy Policy Inquiries” in the subject line of your email message.
+If you have any questions, concerns or feel that Oneupweb is not following its stated Privacy Policy, you may contact us at [info@oneupweb.com](mailto:info@oneupweb.com). Please include "Privacy Policy Inquiries" in the subject line of your email message.
