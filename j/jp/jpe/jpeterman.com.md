@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jpeterman.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204054210id_/http%3A//www.jpeterman.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpeterman.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509220503id_/http%3A//www.jpeterman.com/Privacy) for the most accurate reproduction.*
 
 # The J. Peterman Company - Privacy Policy
 
