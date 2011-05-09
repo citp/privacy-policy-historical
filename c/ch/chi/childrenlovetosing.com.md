@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childrenlovetosing.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229235039id_/http%3A//www.childrenlovetosing.com/About%2BUs/Privacy%2BPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childrenlovetosing.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509084236id_/http%3A//www.childrenlovetosing.com/About%2BUs/Privacy%2BPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
