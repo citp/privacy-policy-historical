@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelooploft.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421024710id_/http%3A//www.thelooploft.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelooploft.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509032324id_/http%3A//www.thelooploft.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# The Loop Loft - Privacy Policy
+# The Loop Loft
 
 The Loop Loft is committed to respecting and protecting the privacy of visitors to our web sites as well as the privacy of our actual customers.
 
