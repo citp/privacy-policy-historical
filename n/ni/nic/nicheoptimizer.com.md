@@ -1,40 +1,64 @@
-> *The following text is extracted and transformed from the nicheoptimizer.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824110943id_/http%3A//www.nicheoptimizer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheoptimizer.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509073517id_/http%3A//www.nicheoptimizer.com/%3Fpage_id%3D2382) for the most accurate reproduction.*
 
-# Privacy Policy | Niche Optimizer - Building Blocks for your Blog!
+# Privacy Policy | Website Creation Simplified | Niche Optimizer
 
-[](http://del.icio.us/post?url=http://www.nicheoptimizer.com/privacy-policy/&title=Privacy%20Policy) [](http://www.digg.com/submit?phase=2&url=http://www.nicheoptimizer.com/privacy-policy/&title=Privacy%20Policy) [](http://www.reddit.com/submit?url=http://www.nicheoptimizer.com/privacy-policy/&title=Privacy%20Policy) [](http://www.stumbleupon.com/submit?url=http://www.nicheoptimizer.com/privacy-policy/&title=Privacy%20Policy) [](http://www.squidoo.com/lensmaster/bookmark?http://www.nicheoptimizer.com/privacy-policy/) [](http://myweb2.search.yahoo.com/myresults/bookmarklet?t=Privacy%20Policy&u=http://www.nicheoptimizer.com/privacy-policy/) [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://www.nicheoptimizer.com/privacy-policy/&title=Privacy%20Policy) [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http://www.nicheoptimizer.com/privacy-policy/&Title=Privacy%20Policy) [](http://www.technorati.com/faves?add=http://www.nicheoptimizer.com/privacy-policy/) [](http://www.furl.net/storeIt.jsp?t=Privacy%20Policy&u=http://www.nicheoptimizer.com/privacy-policy/) [](http://cgi.fark.com/cgi/fark/edit.pl?new_url=http://www.nicheoptimizer.com/privacy-policy/&new_comment=Privacy%20Policy) [](http://www.sphinn.com/submit.php?url=http://www.nicheoptimizer.com/privacy-policy/&title=Privacy%20Policy)
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy. 
 
-### [ Privacy Policy ](http://www.nicheoptimizer.com/privacy-policy/ "Permanent Link to Privacy Policy")
+When accessing our Website, Niche Optimizer will learn certain information about you during your visit.
 
-**Privacy Policy for www.NicheOptimizer.com**  
+Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@nicheoptimizer.com. 
+  
+**What Are Cookies?**
 
-At www.NicheOptimizer.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.NicheOptimizer.com and how it is used. 
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
 
-**Log Files**  
-Like many other Web sites, www.NicheOptimizer.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+  
+**IP Addresses**
 
-**Cookies and Web Beacons**    
-www.NicheOptimizer.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.
 
-**DoubleClick DART Cookie**    
-.:: Google, as a third party vendor, uses cookies to serve ads on www.NicheOptimizer.com.  
-.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.NicheOptimizer.com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
+  
+**Email Information**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Commission Junction  
-Widget Bucks  
-Adbrite  
-Clickbank  
-Azoogle  
-Linkshare
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.NicheOptimizer.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+  
+**How Do We Use the Information That You Provide to Us?**
 
-www.NicheOptimizer.com has no access to or control over these cookies that are used by third-party advertisers. 
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.NicheOptimizer.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Niche Optimizer will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
+
+**  
+A Special Note About Children**
+
+Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.
+
+  
+**How Do We Protect Your Information and Secure Information Transmissions?**
+
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.
+
+Niche Optimizer may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+For site security purposes and to ensure that this service remains available to all users, Niche Optimizer uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+  
+**Policy Changes**
+
+We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+
+**  
+Contact**
+
+If you have any questions regarding this Policy, or your dealings with our web site, please contact us.
+
+Niche Optimizer  
+Ivystone Square, Chesapeake VA 23320
+
+nicheoptimizer@hotmail.com
