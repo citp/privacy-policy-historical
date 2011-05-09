@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301214251id_/http%3A//www.americansuperstarmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansuperstarmag.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509035633id_/http%3A//www.americansuperstarmag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Superstar Magazine
 
@@ -110,10 +110,9 @@ We may automatically track and collect your IP address, domain server, the type 
   * You can edit your American Superstar account, including your marketing preferences, at any time.
 
   * New categories of marketing communications may be added to the marketing preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive.
+  * We reserve the right to send you certain communications relating to the American Superstar service, such as service announcements, administrative messages and the American Superstar Newsletter, which are considered part of your American Superstar account, without offering you the opportunity to opt-out of receiving them.
 
-  * We reserve the right to send you certain communications relating to the American Superstar service, such as service announcements, administrative messages and The American Superstar Newsletter, which are considered part of your American Superstar account, without offering you the opportunity to opt-out of receiving them.
-
-  * You can delete your American Superstar account by visiting your account information page, by using an opt out message in an email, or by emailing the Site at [customerservice@americansuperstarmag.com](mailto:customerservice@americansuperstarmag.com) with your request.
+  * You can delete your American Superstar account by visiting your account information page, by using an opt out message in an email, or by emailing the Site at customerservice [at] americansuperstarmag.com.
 
 
 
@@ -124,10 +123,16 @@ We may automatically track and collect your IP address, domain server, the type 
 
   * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
 
-  * To learn more about security, including the security steps we have taken and security steps you can take, please contact us at [privacy@americansuperstarmag.com](mailto:privacy@americansuperstarmag.com).
+  * To learn more about security, including the security steps we have taken and security steps you can take, please contact us at privacy [at] americansuperstarmag.com.
 
 
 
+
+**NETWORK ADVERTISING INITIATIVE**
+
+We are committed to following the [Code of Conduct](http://www.networkadvertising.org/networks/2008%20NAI%20Principles_final%20for%20Website.pdf) of the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/), of which we are a member. In accordance with the Code of Conduct, we require our Global Web Alliance clients to provide conspicuous access to their privacy policy statements. Additionally, we require that our network affiliates disclose any and all information that is being collected from Internet users on their Web sites, including data gathered from banners and other forms of advertising, as well as content delivered or other transactions occurring on their Web sites. We periodically monitor the Web sites of our clients to determine whether they are adequately disclosing and updating their privacy statements.
+
+You can also click the link below to reach the Network Advertising Initiative site, a central location for information about Internet advertising and the choices available to you and opt out of our cookies and other NAI member companies.
 
 **CHANGES TO THIS PRIVACY POLICY**
 
@@ -138,16 +143,16 @@ We may automatically track and collect your IP address, domain server, the type 
 
 **CALIFORNIA PRIVACY RIGHTS**
 
-  * Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [privacy@americansuperstarmag.com](mailto:privacy@americansuperstarmag.com).
+  * Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to privacy [at] americansuperstarmag.com.
 
 
 
 
 **CONTACTING THE WEBSITE**
 
-  * If you have questions about this privacy policy, the practices of this Site or your dealings with this Web site, please contact us at [privacy@americansuperstarmag.com](mailto:privacy@americansuperstarmag.com).
+  * If you have questions about this privacy policy, the practices of this Site or your dealings with this Web site, please contact us at privacy [at] americansuperstarmag.com.
 
 
 
 
-Effective Date: August 1, 2005
+Effective Date: March 17, 2011
