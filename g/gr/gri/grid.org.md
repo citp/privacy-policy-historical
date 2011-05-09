@@ -1,49 +1,33 @@
-> *The following text is extracted and transformed from the grid.org privacy policy that was archived on 2007-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070402224305id_/http%3A//www.grid.org/about/gs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grid.org privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509032008id_/http%3A//www.univaud.com/privacy.php) for the most accurate reproduction.*
 
-# GRID.ORG ™ - About Us: Privacy & Security
+# Privacy Policy - Univa: Computing Optimization for Data Center, High-Performance Computing, and Cloud Environments
 
-  
-  
-[Overview](https://web.archive.org/about/gs/index.htm)  |  [System Requirements](https://web.archive.org/about/gs/system.htm)  |  [Privacy & Security](https://web.archive.org/about/gs/privacy.htm)  |  [Download](https://web.archive.org/download/)
+Univa is committed to respecting and protecting your right to privacy and we take your privacy seriously. We have a strictly enforced privacy policy and will keep your personal information secure. To communicate this, we have created this privacy policy to disclose and describe our information gathering and dissemination practices for our online communications.
 
-The grid.org member policy  
+### Collection of Your Personal Information
 
+Most pages on this site can be viewed without providing any information about yourself. However, for some content we will request information that makes you personally identifiable.
 
-United Devices' Community Members have placed great trust in us to allow our project applications to run on their systems, and this is a trust we return and foster. We treat our members with the highest level of personal respect: we don't open members up to security risks, unwanted spam, or invasion of privacy. Here is our policy:
-
-Privacy & security  
-United Devices assures Members that applications will not damage their systems or invade their privacy in any way. Our agent runs unobtrusively in the computing background and is not invasive. It cannot detect or change any other files or material on Members machines. It can only update project-specific data in its own files.
-
-United Devices Members will always be told what projects they are running. They also will have access to Web pages outlining which organizations are providing the project applications and explaining those projects. Members always have the option of opting out of a project. 
-
-Members will be able to control how much of their system resources are used by United Devices and will be given user preference options on a wide range of factors, including: 
-
-  * Whether the program runs as a screensaver or an application
-  * When computation and communication can be done
-  * Whether connections should be made automatically
-  * Which proxies and firewall settings to use
+  * Your personal information is collected for internal use by Univa for site traffic analysis, response to requests and occasional marketing communications.
+  * All personal information submitted to Univa is done so voluntarily and with your consent.
+  * We pledge to hold all information you provide to us in absolute privacy.
+  * We will never sell or rent your name or personal information to any third party without your express permission.
+  * Only authorized employees may access your information.
 
 
 
-To protect Member privacy, Members are asked to create a member name when they install the UD Agent. This member name is maintained in the Member profile and used to identify each member on the UD web site and on any scoreboards.
+### Subscription Status
 
-Tracking technology  
-We use standard tracking technology on our Web site, commonly known as "cookies," to help us deliver a customized experience to Members. Our Web site will save a small temporary file on your computer only while you are visiting our site; it will be removed when you exit the United Devices Web site. Our primary use for cookies is to help us determine which service and support information is appropriate to a Member's machine. Our use of this technology does not mean that we automatically know any information about individual members — we do not.
+We will occasionally send out information on our solutions, announcements and special offers. You can sign up for these emails from us on our home page.
 
-In order to run our projects, United Devices software automatically detects certain basic information from a Member's machine; this includes info about the Member's processor speed, and set preferences regarding disk space, memory and times to run the projects on the machine. Members will have access to the information about the properties that are measured by the UD Agent and for what purpose this information will be used.
+f you no longer wish to receive such communications, you may opt-out of receiving them by emailing us at [unsubscribe@univa.com](mailto:unsubscribe@univa.com).
 
-United Devices may provide aggregate member information such as average computing power and geographic dispersion to partners or customers. The information will be released in aggregate form only and, no personally identifiable information will ever be released. Neither United Devices nor our customers can access any other information on a Member computer or identify anything else for which a Member uses his or her computer.
+### Changes to This Privacy Policy
 
-Communications  
-United Devices gives Members the opportunity to decide what kind of news and information, if any, they to receive from us. We also let Members change those preferences at any later date.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Univa reserves the right to modify this privacy statement at any time, so please review it frequently.
 
-The United Devices web site provides visitors with e-mail forms to send inquiries to various departments (Sales, Business Development, Public Relations, Events, Suggestions, Member Services and Technical Support). The information provided is only used to answer the inquiry or respond to the request.
+### Enforcement of This Privacy Policy and Contact Information
 
-The United Devices web site provides members with a feature to send an e-mail message to a friend, telling them about United Devices. The recipients e-mail address is only used for sending the e-mail and is not stored.
+The Univa web site contains links to other web sites, this privacy statement applies only to the Univa web site. Please review the privacy statement of any site before submitting your personally identifiable information.
 
-About this member policy  
-The United Devices web site contains links to other web sites, this privacy statement applies only to the United Devices web site. Please review the privacy statement of any site before submitting your personally identifiable information.
-
-Any change in information usage practices will be posted on this Privacy Statement. If there is a change in our information usage practices that affects your Personally Identifiable Information, we will notify you by e-mail and provide an opportunity for you to opt-out by sending a message to [member services](https://web.archive.org/help/techsupport.htm).
-
-If you have questions or concerns regarding our policy, or if you want to request the individual information UD has collected about you via the Internet, contact us at [member services](https://web.archive.org/help/techsupport.htm).
+If you have questions or concerns regarding our policy, or if you want to request the individual information Univa has collected about you via the Internet, contact us at [unsubscribe@univa.com](mailto:unsubscribe@univa.com).
