@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobbyfarms.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508131114id_/http%3A//www.hobbyfarms.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobbyfarms.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509025340id_/http%3A//www.hobbyfarms.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # Animal Network Privacy Policy
 
