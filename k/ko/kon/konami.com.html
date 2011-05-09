@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the konami.com privacy policy that was archived on 2010-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101205002237id_/http%3A//www.konami.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the konami.com privacy policy that was archived on 2011-05-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110510013807id_/http%3A//konami.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=7">
@@ -17,7 +17,7 @@
 
 <meta http-equiv="pragma" content="no-cache">
 <!-- INCLUDES -->
-<script type="text/javascript" language="javascript" src="/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="/js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" language="javascript" src="/js/jquery.tools.min.js"></script>
 <script type="text/javascript" language="javascript" src="/js/jquery.autocomplete.min.js"></script>
 <script type="text/javascript" language="javascript" src="/js/jquery.colorbox.js"></script>
@@ -70,7 +70,21 @@ html {
 <!-- THIS IS FOR IE7 COMPATIBILITY MODE -->
 <script src="https://c.compete.com/bootstrap/72042ff62ddc7385b03e1cd64ae6e133/bootstrap.js" type="text/javascript" async=""></script></head>
 <body class="privacy site">
-<img src="http://www.konami.com/imgs/konami_facebook_logo.jpg" alt="Konami" width="1" height="1" style="position:absolute;">
+
+<!-- KONAMI CODE START -->
+<script type="text/javascript" src="/js/konamicode.min.js"></script>
+<script type="text/javascript">
+	konami = new Konami()
+	konami.code = function() {
+		//alert("You have entered the KONAMI CODE!  You now have 30 lives.  Kinda.");
+		var konamiCode = document.getElementById('KonamiCode');
+		konamiCode.style.visibility = "visible";
+	}
+	konami.load()
+</script>
+<div style="position: absolute; color: #ff0000; visibility: hidden; margin: 0; padding: 0; font-size: 1pt;" id="KonamiCode"></div>
+<!-- KONAMI CODE END -->
+<img src="http://www.konami.com/imgs/konami_facebook_logo.jpg" alt="Konami" width="1" height="1" style="position: absolute;">
 <!-- compete -->
 <script type="text/javascript">
     __compete_code = '72042ff62ddc7385b03e1cd64ae6e133';
@@ -302,7 +316,8 @@ html {
 			<div class="dropdown-container">
 				<ul class="nav-dropdown">
 				<li><img src="/imgs/nav/nav_icon_arrow.gif" width="10" height="13" alt=">" border="0"> <a href="/events/" title="Events">Events</a></li>
-					<li><img src="/imgs/nav/nav_icon_arrow.gif" width="10" height="13" alt=">" border="0"> <a href="/forums/" target="_blank" title="Forums">Forums</a></li>
+				<li><img src="/imgs/nav/nav_icon_arrow.gif" width="10" height="13" alt=">" border="0"> <a href="/KonamiU/" title="Konami University">Konami University</a></li>
+					<!--<li><img src="/imgs/nav/nav_icon_arrow.gif" width="10" height="13" alt=">" border="0" /> <a href="/forums/" target="_blank" title="Forums">Forums</a></li>-->
 					<li><img src="/imgs/nav/nav_icon_arrow.gif" width="10" height="13" alt=">" border="0"> <a href="/blog/" target="_blank" title="Blogs">Blogs</a></li>
 					<li><img src="/imgs/nav/nav_icon_arrow.gif" width="10" height="13" alt=">" border="0"> <a class="externallink" href="http://www.facebook.com/konami" target="_blank" title="Facebook">Facebook</a></li>
 					<li><img src="/imgs/nav/nav_icon_arrow.gif" width="10" height="13" alt=">" border="0"> <a class="externallink" href="http://twitter.com/konami" target="_blank" title="Twitter">Twitter</a></li>
@@ -321,6 +336,8 @@ html {
 	</ul>
 
 </div>	     </div>
+  
+  
 	<style>
 .fsize ul
 	 {
@@ -577,38 +594,44 @@ compliance with the applicable laws of these countries. </p>
 	<div class="footer-legal">
 		<p class="legal-copy">© Konami Digital Entertainment. KONAMI is a registered trademark of KONAMI CORPORATION. All Rights Reserved.</p>
 	</div>
-</div><script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-6443231-1");
-	pageTracker._trackPageview();
-	</script>
-	
-	<!-- Google Code for Konami.com Visitors Remarketing List -->
+</div><!-- Konami Google analytics -->
 <script type="text/javascript">
-<!--
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6443231-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	<!-- Google Code for Konami.com Visitors Remarketing List
+<script type="text/javascript">
+
 var google_conversion_id = 1027397481;
 var google_conversion_language = "en";
 var google_conversion_format = "3";
 var google_conversion_color = "666666";
 var google_conversion_label = "R-UNCM-zqAEQ6a7z6QM";
 var google_conversion_value = 0;
-//-->
-</script>
-<script type="text/javascript">
+
+</script>-->
+<!--<script type="text/javascript">
 	var googleAdServicesHost = (("https:" == document.location.protocol) ? "https://" : "http://");
 	document.write(unescape("%3Cscript src='" + googleAdServicesHost + "www.googleadservices.com/pagead/conversion.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://www.googleadservices.com/pagead/conversion.js" type="text/javascript"></script>
+</script>
 <noscript>
 <div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1027397481/?label=R-UNCM-zqAEQ6a7z6QM&amp;guid=ON&amp;script=0"/>
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1027397481/?label=R-UNCM-zqAEQ6a7z6QM&amp;guid=ON&amp;script=0"/> -->
 </div>
-</noscript>	<script type="text/javascript" language="javascript" src="/js/jquery-ui-konami-1.5.2.min.js"></script></div>
+	<script type="text/javascript" language="javascript" src="/js/jquery-ui-konami-1.5.2.min.js"></script>
 
 <!-- FACEBOOK -->
 
 
- 
+            
+            
 <div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden; float: left;"></div><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><div id="cboxNext" style="float: left;"></div><div id="cboxPrevious" style="float: left;"></div><div id="cboxSlideshow" style="float: left;"></div><div id="cboxClose" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
