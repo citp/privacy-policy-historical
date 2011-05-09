@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the liewcf.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108005125id_/http%3A//www.liewcf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liewcf.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509025455id_/http%3A//www.liewcf.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for LiewCF.com at LiewCF.com
+# Privacy Policy for LiewCF.com at LiewCF Tech Blog
 
 The privacy of our visitors to LiewCF.com is important to us.
 
