@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the educationquizzes.com privacy policy that was archived on 2010-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100831092937id_/http%3A//www.educationquizzes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationquizzes.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509042428id_/http%3A//www.educationquizzes.com/privacy-policy) for the most accurate reproduction.*
 
-# KS3 (Key Stage 3) Education Quizzes - Privacy Agreement
+# KS3 (Key Stage 3) Education Quizzes - Privacy Policy
 
-This document forms an integral part of our Terms and Conditions. 
+This document outlines the Privacy Policy of Education Quizzes and forms an integral part of our Terms and Conditions. 
 
-We acknowledge that you need to trust us when you register and share personal information with us. We take our responsibilities in this regard very seriously and we have documented below the ways in which we use the information that you give us.
+In order for us to maintain a record for you of the KS3 quizzes you have played (dates and scores) we need to retain the information that you give us at the time you register or subscribe. We acknowledge that you need to trust us when you share personal information with us and we take our responsibilities in this regard very seriously. We have documented below the ways in which we use the information that you give us.
 
 **1\. Sharing Information**
 
-You will never be contacted by any third party as a result of information that you supply to us. We will neither give nor sell your details to anyone, including other organizations belonging to our parent organization – Jigthings Limited.
+We will never share your information and therefore you will never be contacted by any third party as a result of information that you supply to us.
 
 **2\. E-mails**
 
@@ -36,7 +36,7 @@ You may e-mail us to request that your details be removed from our database at a
 
 **8\. Personal Data Retention Period**
 
-We will retain your personal details for one year from the last time that you use the website or we receive a communication from you to tell us to delete your data.
+We will retain your personal details for one year from the last time that you use the website or we receive a communication from you to tell us to delete your data. This one year period allows you to regain your records (quizzes played, scores and dates) if your subscription lapses and you later decide to re-subscribe. 
 
 **9\. Quiz Playing Data Retention**
 
@@ -44,4 +44,4 @@ We reserve the right to remove your quiz playing records at any time but if this
 
 **10\. Data Protection Information**
 
-You can obtain information about the data protection laws by visiting the Information Commissioner’s website at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/).  You can also search for our Data Protection Notification at the same place.
+You can obtain information about the data protection laws by visiting the Information Commissioner’s website at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/); you can also search for our Data Protection Notification at the same place.
