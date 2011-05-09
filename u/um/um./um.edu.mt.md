@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the um.edu.mt privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108111658id_/http%3A//www.um.edu.mt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the um.edu.mt privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509063608id_/http%3A//www.um.edu.mt/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - University of Malta
 
-The University of Malta is committed to protect the visitors’ privacy whilst viewing University web pages in accordance with the [Data Protection Act 2001](http://docs.justice.gov.mt/lom/legislation/english/leg/vol_13/chapt440.pdf). The underlying Privacy Policy explains the types of data collected and how this information will be used.
+The University of Malta is committed to protect the visitors’ privacy whilst viewing University web pages in accordance with the [Data Protection Act 2001](http://www.dataprotection.gov.mt/article.aspx?art=116). The underlying Privacy Policy explains the types of data collected and how this information will be used.
 
 ### Access Information
 
@@ -39,5 +39,5 @@ Queries about the Privacy Policy statement should be directed [here](mailto:webm
   
 
 
-8 November 2010  
+9 May 2011  
 http://www.um.edu.mt/privacy 
