@@ -1,153 +1,80 @@
-> *The following text is extracted and transformed from the sponsorpay.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523014320id_/http%3A//sponsorpay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sponsorpay.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509173236id_/http%3A//www.sponsorpay.com/privacy-policy) for the most accurate reproduction.*
 
-# Sponsorpay.com Privacy Policy
+# Privacy Policy – SponsorPay
 
-**Sponsorpay.com Privacy Policy**
+### SponsorPay GmbH
 
-Last updated December 10, 2008.
+This is the Privacy Policy of SponsorPay GmbH, Ackerstr. 14/15, 10115 Berlin (hereinafter referred to as “SponsorPay”). It applies to all Websites and services operated by SponsorPay.
 
-PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. Sponsorpay.com DOES NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEB SITE.
+SponsorPay will handle all personal data which a user of the websites and services of SponsorPay (“User”) submits during his business relations with SponsorPay, or which SponsorPay collects by the User using the websites and services, under strict adherence to all relevant data protection regulations. Details can be taken from this Privacy Policy.
 
-IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY PLEASE DO NOT PROVIDE ANY INFORMATION TO Sponsorpay.com OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEB SITES REFERRED TO IN THIS PRIVACY POLICY.
+The services of SponsorPay are primarily services in connection with advertisement of third parties (“Advertisers”) on websites operated by third parties (“Publishers”). Therefore Users are primarily Advertisers, Publishers, other interested parties, or their employees.
 
-The information collection, use, and dissemination practices of Sponsorpay.com
+In the event that the User, for example by a link or an advertisement, is forwarded to a website which is not operated by SponsorPay, SponsorPay points out, that this Privacy Policy does not apply to that other website. Furthermore, this Privacy Policy does not apply to the Publishers’ websites. SponsorPay shall not be responsible for the use of any personal information by the operator of such website. SponsorPay in particular cannot warrant that the same standards of data protection are in force on a website not operated by SponsorPay as those which SponsorPay provides for its Users. SponsorPay recommends that the User reviews such website’s own privacy policy.
 
-This policy applies to Sponsorpay.com's collection, use, storage and disclosure of information by Sponsorpay.com on its (a) websites, including all its divisions, subsidiaries and related companies (collectively, the "Websites"), (b) on various third party websites, and (c) to Sponsorpay.com's other information collection, including the purchase of customer lists from third parties. Sponsorpay.com is not responsible for the information collection or privacy practices of third web sites or applications.
+#### **Which personal data is collected, used and stored by SponsorPay?**
 
-**1\. Collection of Information.**
+SponsorPay collects, uses and stores such personal data which the User voluntarily submits to SponsorPay by electronic or other means of communication (e.g. in standard forms or otherwise on the websites and services operated by SponsorPay).
 
-**1.1 Survey Information.**
+In order to register for use of the websites and services operated by SponsorPay, the User has to provide SponsorPay with certain personal information, including the User’s name, the User’s position in his or her company, and Email address.
 
-Sponsorpay.com collects information from individuals by various methods, including, but not limited to, when an individual voluntarily completes an Sponsorpay.com survey, order form, or a registration page either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by third parties (collectively, a "Survey"). (As used herein, "online" means using the Internet, including the Websites, and related technologies, and "offline" means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.) In the Surveys, Sponsorpay.com or a third party (a "Third Party") may ask an individual to provide various information to Sponsorpay.com, which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time (together, "Survey Information"). Sponsorpay.com may also collect information concerning an individual from another source and uses that information in combination with information provided from this web site. Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to Sponsorpay.com or Third Party, but an individual may receive incentives from Sponsorpay.com or a Third Party in exchange for providing Survey Information to Sponsorpay.com.
+#### **Here are some examples of data stored by SponsorPay:**
 
-**1.2 Third Party List Information.**
+When a User accesses or uses the websites and services operated by SponsorPay, SponsorPay automatically stores the domain name and / or IP address from which the User accesses SponsorPay’s websites and services, the date and duration the User accesses parts of the websites and services operated by SponsorPay, as well as the web-browser used.
 
-Sponsorpay.com collects information from individuals when an individual provides information to a third party and Sponsorpay.com subsequently purchases, licenses, or otherwise acquires the information from the third party (the "Seller"). Such purchased information may include, but is not limited to, an individual's name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), birth date, gender, salary range, education and marital status, occupation, industry of employment, personal and online interests, and such other information as the individual may have provided to the Seller (together, "Third Party List Information"). When acquiring Third Party List Information, Sponsorpay.com seeks assurances from the Seller that the Seller has a right to transfer the Third Party List Information to Sponsorpay.com and that the Seller has a right to provide offers from advertisers to the individuals whose personal information is included on the Seller's list.
+SponsorPay stores the Email address provided by the User. SponsorPay shall be entitled to use this Email address to send newsletters and information about SponsorPay’s offers and services to the User. The User can object to this at any time and request, in written form (e.g. via Email), that his or her data be deleted from the mailing list. The User will not be charged for such request, but he or she will have to pay for the costs of transmitting such request (at basic tariffs). The User will be informed of his or her right to object and he or she will be given the right to transmit his objection in each communication and newsletter sent by SponsorPay.
 
-**1.3 Other Information.**
+#### **What does SponsorPay do with User data?**
 
-Other occasions when Sponsorpay.com obtains information from individuals include (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by Sponsorpay.com or by a third party, (2) when an individual requests assistance through Sponsorpay.com's customer service department, and (3) when an individual voluntarily subscribes to a Sponsorpay.com service or newsletter (together, "Other Information").
+SponsorPay collects, processes and stores personal information only to the extent that SponsorPay reasonably considers that it serves legal business purposes. SponsorPay will use the information automatically collected through the User’s access and use of the websites and services operated by SponsorPay, to help SponsorPay understand how the websites and services are used and thus improve the websites and services. The use of such information is not limited to the direct fulfilment of the contract between SponsorPay and the User (such as the use of the services, billing and customer support). Rather, the information will also allow: (i) determination of which pages are the most popular with Users, (ii) determination of whether the websites and services are working properly or whether they are being used improperly, and (iii) improvement of the User’s experiences on the website.
 
-**1.4 Cookies, Web Beacons, and Other Info Collected Using Technology.**
+SponsorPay will collect and store protocols which reflect how the websites and services operated by SponsorPay are used, e.g. user activity on the Publishers’ sites and in relation to the Advertisers’ advertisements and related services. These protocols include the monitoring of usage patterns and inspections regarding possible manipulations of the services offered by SponsorPay. Therefore, these protocols can be used to detect and disclose improper and undue activity of the Users and the users of the Publishers’ websites (“Publishers’ Users”). SponsorPay uses specific programs in order to detect such activities, e.g. programs which can detect the use of unauthorized scripts and which can store IP-addresses, as well as further data related to the Users’ and Publishers’ Users’ activities. In the event that SponsorPay notices that a User or Publishers’ User is acting in breach of his contractual obligations, e.g. by using unauthorized scripts, SponsorPay expressly reserves its rights to merge the IP-address of the respective User or Publishers’ User with other data which is already stored regarding that person, in order to make him or her aware of this breach of contractual obligations. SponsorPay may institute further measures against the respective User or Publishers’ User in order to restore regular service.
 
-Sponsorpay.com currently uses cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database. Additionally, Sponsorpay.com may use other new and evolving sources of information in the future (together, "Technology Information").
+For the purposes of payments handling, SponsorPay shall be entitled to transfer user data to external service providers assigned with the collection of the remuneration, in as far as this is necessary for the determination of the remuneration and settlement of accounts with the User. SponsorPay shall further be entitled to transfer user data to such thirds parties to whom SponsorPay has assigned its claims against the User, in as far as this is necessary or useful for collection of the assigned claims. SponsorPay shall inform the User of the names of such third parties. If SponsorPay cooperates with third parties in order to render its services, it shall commit such third party to adhere to the applicable data protection regulations and to provide for adequate data protection.
 
-**(a) Cookies.**
+SponsorPay may use the information stored about the Users and Publishers’ Users for research on demography, interests, and behaviour. The aforementioned utilization of data is carried out anonymously. SponsorPay may also aggregate and use the information stored about the Users and Publishers’ Users for research, advertising or marketing purposes and may share, sell and rent or trade that information and statistical data derived from that information with advertisers, vendors, customers or other third parties for research or marketing purposes. The aforementioned utilization of data is carried out anonymously and SponsorPay does not use automatically collected information to identify a particular User. SponsorPay informs the User that such information is not personal information and is therefore not subject to the privacy restrictions of this Privacy Policy. If and to the extent that SponsorPay uses personal data to create user profiles, SponsorPay shall not transfer such profiles without the prior consent of the User or Publishers’ User and shall immediately stop such utilization of user profiles if the person concerned objects to such use of his or her data.
 
-A cookie is a small amount of data stored on the hard drive of the individual's computer that allows Sponsorpay.com to identify the individual with his or her corresponding data that resides in Sponsorpay.com's database. You may read more about cookies at [http://cookiecentral](http://cookiecentral/). Individuals who use the Websites need to accept cookies in order to use all of the features and functionality of the Websites.
+SponsorPay might enable third parties to contact the User for advertising purposes. As long as the User does not object, his or her user data may also be used for sending him or her advertisements which reflect his or her interests (based on the information he or her has submitted to SponsorPay and on his or her actions within the websites and services operated by SponsorPay).
 
-**(b) Web Beacons.**
+#### **Changes to or deletion of personal data**
 
-A web beacon is programming code that can be used to display an image on a web page (by using an <img src="x"> programming function -- see [http://truste.org](http://truste.org/) for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows Sponsorpay.com to track certain web sites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes. For example, Sponsorpay.com might place, with the consent of a third party website, a web beacon on the third party's website where fishing products are sold. When Joe, an individual listed in Sponsorpay.com's database, visits the fishing website, Sponsorpay.com receives notice by means of the web beacon that Joe visited the fishing site, and Sponsorpay.com would then update Joe's profile with the information that Joe is interested in fishing. Sponsorpay.com may thereafter present offers of fishing related products and services to Joe. In addition to using web beacons on web pages, Sponsorpay.com also uses web beacons in email messages sent to individuals listed in Sponsorpay.com's database.
+The User and Publishers’ User may make changes to his or her personal data at any time (e.g. in order to update or correct such data) or delete his personal data completely. If the User or Publishers’ User would like SponsorPay to change or stop using his or her personal data, the User or Publishers’ User may contact SponsorPay at customersupport@sponsorpay.com. SponsorPay will then make the required changes or delete the user data as quickly as possible. SponsorPay points out that due to technical or organizational reasons, some measures may still be carried out after the request for deletion, if such measures were already initiated but not completed by that time.
 
-**(c) New Technology.**
+#### **Information as to personal data**
 
-The use of technology on the Internet, including cookies and web beacons, is rapidly evolving, as is Sponsorpay.com's use of new and evolving technology. As a result, Sponsorpay.com strongly encourages individuals to revisit this policy for any updates regarding its use of technology.
+The User and Publisher’s User shall be entitled to request information, free of charge, on the nature and content of his or her stored personal data through a corresponding written notice to SponsorPay. This information will usually be provided electronically, normally via Email.
 
-**1.5 Outside Information.**
+SponsorPay may change this Privacy Policy from time to time by posting updated versions of the Privacy Policy, always in compliance with all applicable laws on data protection. SponsorPay suggests the User review this Privacy Policy from time to time. Personal information which SponsorPay collects will be treated in accordance with the terms of the Privacy Policy in effect (as posted) at the time that the personal information is collected. SponsorPay will not extend the use of personal data without prior notice.
 
-Sponsorpay.com may receive information about individuals from third parties or from other sources of information outside of Sponsorpay.com including information located in public databases ("Outside Information").
+#### **Users of the Publishers’ services**
 
-**1.6 Individual Information.**
+The Publishers cooperating with SponsorPay provide SponsorPay with data on the activities of the Publishers’ Users on their websites. SponsorPay requires such data in order to give rewards to the Publishers’ Users which are credited within the offers of the Publishers. The data provided by the Publishers to SponsorPay do not allow for identifying the Publishers’ Users’ as individual persons, unless the Publishers’ User himself has caused the data to allow for such identification. The data provided by the Publisher to SponsorPay are, therefore, generally not personal information, unless the Publishers’ User has disclosed his or her personal identity, and by doing so, waived the protection of this personal data. In this event, SponsorPay’s rights to this personal data include, but are not limited to the rights SponsorPay has with regard to the personal data of the Users.
 
-As used herein, Individual Information means Survey Information, Third Party List Information, Other Information, Technology Information, and Outside Information, and any other information Sponsorpay.com gathers or receives about individuals.
+SponsorPay recommends that the Publishers’ Users review the privacy policy (if any) on the Publisher’s website for information on the Publisher’s use of personal information.
 
-**1.7 No Information Collected from Children.**
+#### **Glossary**
 
-Sponsorpay.com will never knowingly collect any personal information about children under the age of 13. If Sponsorpay.com obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database. Because it does not collect such information, Sponsorpay.com has no such information to use or to disclose to third parties. Sponsorpay.com has designed this policy in order to comply with the Children's Online Privacy Protection Act ("COPPA").
+In order to provide for a better understanding of this Privacy Policy, the most important terms are explained hereinafter:
 
-**1.8 Credit Card Information.**
+#### **What is considered personal data?**
 
-Sponsorpay.com may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from Sponsorpay.com. When the Credit Card Information is submitted to Sponsorpay.com, such information is encrypted and is protected with SSL encryption software. Sponsorpay.com will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to third parties only as necessary to complete the purchase transaction.
+Personal data means personally identifiable and recognizable information about an individual person, as defined under applicable privacy laws, and may include his or her name, physical address, email address, telephone number and credit card information.
 
-**2\. Use of Individual Information.**
+#### **What is considered user data?**
 
-**2.1 Discretion to Use Information.**
+User data means data which is collected, used and stored by SponsorPay when a User accesses the websites and services operated by SponsorPay. User data is information which can be used to identify the User (e.g. the name of the domain and/or IP-address from which the User contacts SponsorPay), the date and time the User accesses the websites and services operated by SponsorPay, the scope of use of the websites and services operated by SponsorPay, as well as information about the sites the User accessed on the websites and services operated by SponsorPay.
 
-THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE IN COMPANY'S SOLE DISCRETION.
+#### **What is an IP-address?**
 
-The following paragraphs in Section 2 describe how Sponsorpay.com currently uses Individual Information, but Sponsorpay.com may change or broaden its use at any time. As noted below, Sponsorpay.com may update this policy from time to time. Sponsorpay.com may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
+IP-addresses serve to identify each computer which is connected to the Internet. Each computer which is connected to the Internet can be identified by a specific IP-address, i.e. to a certain numerical combination.
 
-**2.2 Email.**
+#### **What are Cookies?**
 
-Sponsorpay.com uses Individual Information to provide promotional offers by email to individuals. Sponsorpay.com may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Sponsorpay.com's email lists, a person must send an email to unsubscribe@Sponsorpay.com.
+“Cookies” are small text files that a website sends to a User’s hard drive through the browser. SponsorPay uses Cookies to collect information about a User’s visits and to enhance the User’s experience when visiting the websites and services operated by SponsorPay. For example, SponsorPay uses Cookies to, among other things, identify previous visitors to the website, identify a User as he or she navigates the website, track User visits and account set-ups, determine what set-ups are most frequently requested, and save the User’s password so that the User does not have to provide it each time he or she visits the website. Storing information about visits to the website will allow SponsorPay to, on occasion, customize pages for the User.
 
-**2.2(a) Content of Email Messages.**
+By themselves, Cookies do not reveal a User’s Email address or other personal information. SponsorPay does not use Cookies to collect, track, or store personal information. The SponsorPay Cookies will never be used to track a User’s activity on any third-party websites or to send spam. It is possible to configure the browser to accept all Cookies, reject all Cookies or notify the User when a Cookie is received. It is also possible to reject, delete or otherwise disable Cookies at any time. Doing so, however, may inhibit the User’s experience on the websites and services operated by SponsorPay and the User may not be able to take full advantage of all offerings on the websites and services operated by SponsorPay. For example, if the User disables or disallows Cookies, some multimedia images and graphics may not display properly, the User may not be able to view customizable features or the User may have more difficulty navigating the website.
 
-In certain commercial email messages sent by Sponsorpay.com, an advertiser's name will appear in the "From:" line but hitting the "Reply" button will cause a reply email to be sent to Sponsorpay.com. The "Subject:" line of Sponsorpay.com email messages will usually contain a line provided from the advertiser to Sponsorpay.com.
+_2009, July 31_
 
-**2.2(b) Solicited Email.**
+  
 
-Sponsorpay.com only sends email to individuals who have agreed on the Websites to receive email from Sponsorpay.com or to individuals who have agreed on third party websites to receive email from third parties such as Sponsorpay.com. Sponsorpay.com does not send unsolicited email messages. As a result, statutes requiring certain formatting for unsolicited email are not applicable to Sponsorpay.com's email messages.
-
-**2.3 Targeted Advertising.**
-
-Sponsorpay.com uses Individual Information to target advertising to an individual. When an individual is using the Internet, Sponsorpay.com uses Technology Information (see also Section 2.5 below) to associate an individual with that person's Individual Information, and Sponsorpay.com attempts to show advertising for products and services in which the person has expressed an interest in the Surveys, indicated an interest by means of Technology Information, and otherwise. Sponsorpay.com may, at its discretion, target advertising by using email, direct mail, telephones, cell phones, and other means of communication to provide promotional offers.
-
-**2.4 Direct Mail, Telemarketing and SMS messaging.**
-
-Sponsorpay.com uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing, telemarketing or SMS (text message) marketing, using the telephone number you enter, including cell phone numbers. By signing up on this or a partner site, you agree to receive these forms of communication from time to time.
-
-**2.5 Use of Technology Information.**
-
-Sponsorpay.com uses Technology Information (1) to match a person's Survey Information and Third Party List Information to other categories of Individual Information to make and improve profiles of individuals, (2) to track a person's online browsing habits on the Internet, (3) to determine which areas of Sponsorpay.com's web sites are most frequently visited. This information helps Sponsorpay.com to better understand the online habits of individuals so that Sponsorpay.com can target advertising and promotions to them.
-
-**2.6 Profiles of Individuals.**
-
-Sponsorpay.com uses Individual Information to make a profile of an individual. A profile can be created by combining Survey Information and Third Party List Information with other sources of Individual Information such as information obtained from public databases.
-
-**2.7 Storage of Individual Information**.
-
-Sponsorpay.com stores the Individual Information in a database on Sponsorpay.com computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Sponsorpay.com's control. Not withstanding such measures, Sponsorpay.com cannot guarantee that its security measures will prevent Sponsorpay.com computers from being illegally accessed, and the Individual Information on them stolen or altered.
-
-2.8 Use of Personal Information in the Press or in Advertising
-
-Sponsorpay.com or our marketing partners and affiliates may use a written or recorded testimonial by you, including your full name and city in advertising or in press releases or for any other promotional purposes without your further consent. If you accept a cash, other form of award, or if you receive bids on a loan request from Sponsorpay.com, or an organization that we referred you to, you consent to your story being used in a press release or advertising. You also consent to any phone conversations with our staff, marketing partners or affiliates to be recorded for staff development, training purposes as well as for any other promotional purpose.
-
-**3\. Dissemination of Individual Information.**
-
-**3.1 Sale or Transfer to Third Parties.**
-
-Sponsorpay.com MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY PURPOSE INCLUDING ANY AND ALL MARKETING PURPOSES IN Sponsorpay.com'S SOLE DISCRETION.
-
-**3.2 Order Fulfillment.**
-
-Sponsorpay.com will transfer Individual Information to third parties when necessary to provide a product or service that a person orders from such third party while using Sponsorpay.com web sites or when responding to offers provided by Sponsorpay.com.
-
-**3.3 Legal Process.**
-
-Sponsorpay.com may disclose Individual Information to respond to subpoenas, court orders, and other legal processes.
-
-**3.4 Summary Data.**
-
-Sponsorpay.com may sell or transfer non-individualized information, such as summary or aggregated anonymous information about all persons or sub-groups of persons.
-
-**3.5 Access.**
-
-Individuals have access to their Individual Information collected to provide an opportunity for an individual to correct, amend, or delete such information. Access can be obtained by contacting info@Sponsorpay.com. Sponsorpay.com may also grant advertising clients and email services providers' access to an individual's email address to verify the origin of the Individual Information collected.
-
-**4\. Privacy Practices of Third Parties.**
-
-**4.1 Advertiser cookies and web beacons.**
-
-Advertising agencies, advertising networks, and other companies (together, "Advertisers") who place advertisements on the Websites and on the Internet generally may use their own cookies, web beacons, and other technology to collect information about individuals. Sponsorpay.com does not control Advertisers' use of such technology and Sponsorpay.com has no responsibility for the use of such technology to gather information about individuals.
-
-**4.2 Links.**
-
-The Websites and email messages sometimes contain hypertext links to the web sites of third parties. Sponsorpay.com is not responsible for the privacy practices or the content of such other web sites. Linked web sites may contain links to web sites maintained by third parties. Such links are provided for your convenience and reference only. Sponsorpay.com does not operate or control in any respect any information, software, products or services available on such third party web sites. The inclusion of a link to a web site does not imply any endorsement of the services or the site, its contents, or its sponsoring organization.
-
-**4.3 Affiliated Companies.**
-
-Sponsorpay.com may disclose, transfer, and sell Individual Information to entities affiliated with Sponsorpay.com in Sponsorpay.com's discretion.
-
-**5\. Unsubscribe Procedures.**
-
-If you wish to discontinue receiving email messages from Sponsorpay.com, you have several options:
-
-**(a) Unsubscribe from one email list.**
-
-To unsubscribe from a particular list, either (1) send an email to unsubscribe@Sponsorpay.com or (2) follow the instructions in each promotional email message sent by Sponsorpay.com.
-
-**(b) Unsubscribe from all of Sponsorpay.com's email lists.**
-
-We reserve the right to add Individual Information to multiple lists maintained by Sponsorpay.com. To globally unsubscribe from all of Sponsorpay.com's lists, send an email to unsubscribe@Sponsorpay.com. 
