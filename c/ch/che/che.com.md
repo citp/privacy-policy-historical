@@ -1,21 +1,6 @@
-> *The following text is extracted and transformed from the che.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108142238id_/http%3A//www.che.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the che.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509175316id_/http%3A//che.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Chemical Engineering :: Privacy Policy
-
-  
-
-
-### SEARCH
-
-[ADVANCED SEARCH](https://web.archive.org/search/)
-
-  
-Search by Region 
-
-[White Papers](https://web.archive.org/whitepapers/ "White Papers") [Webcasts](https://web.archive.org/webcasts/ "Webcasts") [Conferences](https://web.archive.org/conferences/ "Conferences") [Current Issue](https://web.archive.org/issues/ "Current Issue") [Jobs](https://web.archive.org/chemploy "Jobs") [ADVERTISE](https://web.archive.org/advertise.html "Advertise with CE") [SUBSCRIBE](https://web.archive.org/subscribe/ "Subscribe to CE") Resources  
-[Events & Announcements](https://web.archive.org/events_and_announcements/) [Surveys](https://web.archive.org/surveys/) [Facts At Your Fingertips](https://web.archive.org/facts/) [Advanced Search](https://web.archive.org/search/) [**Buyers' Guide**](https://web.archive.org/buyersguide/) [Plant Cost Index](https://web.archive.org/pci/) [Store](http://store.che.com/) [Editorial Submissions](https://web.archive.org/editorial_submissions.html) Member Services  
-[FREE trial](https://web.archive.org/freetrial.html) [Subscribe](https://web.archive.org/subscribe/) [FAQ](https://web.archive.org/faq.html) Related Websites  
-[Daratech PLANT](http://www.daratechplant.com/) [Chemical Week](http://www.chemweek.com/) [Harriman Chemsult LTD](http://www.harriman.co.uk/) [SRI Consulting](http://www.sriconsulting.com/) [About us](https://web.archive.org/aboutus.html) [Contact us](https://web.archive.org/contactus.html) | 
 
 ## Privacy Policy
 
@@ -29,5 +14,34 @@ Subscribers to our online and offline products and services are asked to provide
 
 Chemical Engineering may modify this policy from time to time to reflect legal, technological or other developments. Any such modified policy will appear at this URL.
 
-|    
+| 
 
+**Get more from Che.com  
+Get email updates in your inbox**
+
+[](https://web.archive.org/issues/)
+
+[](http://www.cpievent.com/)
+
+| 
+
+We have recently launched a general LinkedIn group and three topical subgroups to facilitate practical discussion. Anyone with expertise or a need for advice on this topic is invited to join and start a discussion.
+
+  * [Process Automation & Wireless](http://www.linkedin.com/nus-trk?trkact=viewGroup&pk=group_most_popular&pp=2&poster=36916028&uid=5468783044301160448&ut=NUS_UNIU_NEW_SUBGROUP&r=&url=http%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fgroups%3Fgid%3D3887111%26goback%3D%252Egmp_3880479%26trk%3DNUS_UNIU-nsubgroup&urlhash=CiL8 "Process Automation & Wireless")
+
+  * [Solids Processing](http://www.linkedin.com/nus-trk?trkact=viewGroup&pk=group_most_popular&pp=3&poster=36916028&uid=5468782734170136576&ut=NUS_UNIU_NEW_SUBGROUP&r=&url=http%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fgroups%3Fgid%3D3887110%26goback%3D%252Egmp_3880479%26trk%3DNUS_UNIU-nsubgroup&urlhash=e9I1 "Solids Processing")
+
+  * [Water Treatment & Reuse](http://www.linkedin.com/nus-trk?trkact=viewGroup&pk=anet_network_updates&pp=4&poster=36916028&uid=5468777423560507392&ut=NUS_UNIU_NEW_SUBGROUP&r=&url=http%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fgroups%3Fgid%3D3887096%26goback%3D%26trk%3DNUS_UNIU-nsubgroup&urlhash=BYkU "Water Treatment & Reuse")[  
+](http://www.linkedin.com/nus-trk?trkact=viewGroup&pk=anet_network_updates&pp=4&poster=36916028&uid=5468777423560507392&ut=NUS_UNIU_NEW_SUBGROUP&r=&url=http%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fgroups%3Fgid%3D3887096%26goback%3D%26trk%3DNUS_UNIU-nsubgroup&urlhash=BYkU "Water Treatment & Reuse")
+
+
+
+
+Coming soon... 
+
+We will begin offering experts, who have been vetted by CE editors, to moderate these and other topic areas.
+
+## [_Join  Now_](http://www.linkedin.com/e/-ove8c6-gmr2gysa-4m/vgh/3880479/)
+
+|   
+---|---
