@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pathtoim.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227154656id_/http%3A//pathtoim.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathtoim.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509122047id_/http%3A//pathtoim.com/privacy.html) for the most accurate reproduction.*
 
 # InvisibleWealthSecret|Privacy Policy
 
