@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotgvibe.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227024453id_/http%3A//www.hotgvibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgvibe.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509184343id_/http%3A//www.hotgvibe.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -63,6 +63,6 @@ Canada
 
 The information contained in this website is subject to change without notice.
 
-Copyright © 2009 Hot G Vibe  
+Copyright © 2011 Hot G Vibe  
 All rights reserved  
 
