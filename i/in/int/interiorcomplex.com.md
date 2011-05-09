@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interiorcomplex.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204211653id_/http%3A//interiorcomplex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiorcomplex.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509160253id_/http%3A//interiorcomplex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Interior Complex
 
@@ -28,12 +28,16 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-#### Incoming search terms for the article:
-
-  * [www creativeshake com](http://interiorcomplex.com/search/www+creativeshake+com/ "www creativeshake com")
-  * [www interiorcomplex com](http://interiorcomplex.com/search/www+interiorcomplex+com/ "www interiorcomplex com")
+  
 
 
+ 
 
+[](http://interiorcomplex.com/how-to/)    [](http://www.facebook.com/Interiorcomplex)   [](http://twitter.com/Interiorcomplex)   [](http://www.youtube.com/user/InteriorComplex)   [](http://interiorcomplex.com/feed/)
+
+  
+
+
+  
   
 
