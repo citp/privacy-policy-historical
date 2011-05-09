@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230175121id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyed.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509223335id_/http%3A//www.journeyed.com/page/privacy) for the most accurate reproduction.*
 
 # JourneyEd.com - Academic Software Discounts!
 
@@ -47,7 +47,7 @@ To ensure that your request is handled accurately, please include a copy of your
 
 
 
-The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please email us at [optout@JourneyEd.com](https://web.archive.org/web/20101230175121id_/http%3A//www.journeyed.com/page/output@JourneyEd.com).
+The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please email us at [optout@JourneyEd.com](https://web.archive.org/web/20110509223335id_/http%3A//www.journeyed.com/page/output@JourneyEd.com).
 
   
 
