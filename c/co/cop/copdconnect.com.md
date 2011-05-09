@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the copdconnect.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203064131id_/http%3A//www.copdconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copdconnect.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509212553id_/http%3A//www.copdconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - COPD Connect
+
+**Last Updated: 12/15/2010**
 
 Alliance Health, the owner and operator of this social health network, understands the importance and sensitivity of our member's information and has created this statement to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
 
@@ -12,7 +14,7 @@ Alliance Health, the owner and operator of this social health network, understan
 
   * We will advise you if and when changes to this policy are made.
 
-  * We do not share, sell, rent, or trade our members’ personal information with third parties for their promotional purposes.
+  * We do not share, sell, rent, or trade our members’ personal information with third parties. Exceptions are made in specific cases where you have positively responded to an offer within or hosted on our site requesting information, materials, products or services from a third party. For example, when you make such a request, you provide consent for us to disclose your personally identifiable information, such as your name, address, phone, or email address to said third party that may then use it to contact you and provide you the information, materials, products or services you requested.
 
 
 
@@ -139,5 +141,3 @@ Alliance Health is very sensitive to privacy issues and we are proud of our long
 9 Exchange Place, Suite #200  
 Salt Lake City, UT 84111  
 Phone: 801.355.6002 
-
-Effective Date: 06/15/2010
