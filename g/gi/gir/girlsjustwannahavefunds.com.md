@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the girlsjustwannahavefunds.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106174201id_/http%3A//www.girlsjustwannahavefunds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsjustwannahavefunds.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509071924id_/http%3A//www.girlsjustwannahavefunds.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Girls Just Wanna Have Funds: Personal Finance Blog For Women Taking Charge Of Their Finances
+# | Privacy Policy
+
+As Seen On MSNBC, Fox News DC, The Wall Street Journal, Good Morning America, Korean TV and MSN Web Series Project Engage
 
 The privacy of our visitors to **Girls Just Wanna Have Funds** is important to us.At Girls Just Wanna Have Funds, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Girls Just Wanna Have Funds, and how we safeguard your information. We never sell your personal information to third parties.
 
