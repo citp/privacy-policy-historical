@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kodakgallery.co.uk privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127024225id_/http%3A//www.kodak.com/eknec/PageQuerier.jhtml%3Fpq-path%3D7797%26pq-locale%3Den_US%26CID%3Dgo%26idhbx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kodakgallery.co.uk privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509043952id_/http%3A//www.kodak.com/eknec/PageQuerier.jhtml%3Fpq-path%3D7797%26pq-locale%3Den_US%26CID%3Dgo%26idhbx%3Dprivacy) for the most accurate reproduction.*
 
 # Summary Online Privacy Notice
 
