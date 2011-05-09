@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mormonboyz.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227221344id_/http%3A//www.mormonboyz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mormonboyz.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509150620id_/http%3A//www.mormonboyz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « MormonBoyz
 
