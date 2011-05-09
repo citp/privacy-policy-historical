@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildblue.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230033414id_/http%3A//www.wildblue.com/legal/website_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildblue.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509095558id_/http%3A//www.wildblue.com/legal/website_privacy_policy.jsp) for the most accurate reproduction.*
 
 # WildBlue | Legal | Website Privacy Policy
 
