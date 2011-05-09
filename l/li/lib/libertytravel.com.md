@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertytravel.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104202417id_/http%3A//ww2.libertytravel.com/SecurityPolicy.jsp%3Fleadsourceid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertytravel.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509223345id_/http%3A//www.libertytravel.com/SecurityPolicy.jsp%3Fleadsourceid%3D) for the most accurate reproduction.*
 
 # Privacy & Security Policy | Your Security and Privacy | Liberty Travel
 
@@ -68,7 +68,7 @@ In providing our services to you it may be necessary for us to forward personal 
 We or our third party providers have implemented appropriate physical, electronic and managerial security procedures in order to protect personal information from loss, misuse, alteration or destruction. We uses advanced technology to ensure security on all data transmitted via the Website. Secure Sockets Layer (SSL) technology is used to transmit all data between browsers and our web server where applicable. In order to use the Website, users must be running an SSL-capable browser such as MS Internet Explorer 4.0 (or later version) or Netscape Navigator 4.0 (or a later version).
 
 **Opt-out**  
-Visitors may opt-out of having their personal information collected or used by us for secondary purposes, or used by us to send promotional correspondence to the visitor, by us via email at: [LibertyTravelNewsletter@libertytravel.com](mailto:LibertyTravelNewsletter@libertytravel.com). 
+Visitors may opt-out of having their personal information collected or used by us for secondary purposes, or used by us to send promotional correspondence to the visitor, by us via email at: [LibertyNewsletter@libertytravel.com](mailto:LibertyNewsletter@libertytravel.com). 
 
 To the extent you choose to continue using the Website, however, we may use your personal information as may be reasonably necessary in connection with such use. For sensitive information, we will give you affirmative or explicit (opt in) choice if the information is to be disclosed to a third party or used for a purpose other than those for which it was originally collected or subsequently authorized. 
 
