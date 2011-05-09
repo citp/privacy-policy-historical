@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssh.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106170606id_/http%3A//www.tectia.com/en/Footer/Privacy_Policy.iw3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssh.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509072033id_/http%3A//www.tectia.com/en/Footer/Privacy_Policy.iw3) for the most accurate reproduction.*
 
 # Tectia.com / en / Footer / Privacy Policy
 
