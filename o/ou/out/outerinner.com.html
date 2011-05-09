@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the outerinner.com privacy policy that was archived on 2010-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101109120502id_/http%3A//www.outerinner.com/help-center/Privacy%2520Policy-hd-9) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the outerinner.com privacy policy that was archived on 2011-05-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110509134054id_/http%3A//www.outerinner.com/help-center/Privacy%2520Policy-hd-9) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Privacy Policy</title><meta name="description" content="Privacy Policy"><meta name="keywords" content="Privacy Policy">
@@ -10,8 +10,7 @@
     <script type="text/javascript" src="/Scripts/MicrosoftAjax.js"></script>
     <script type="text/javascript" src="/Scripts/common.js"></script>
     
-<noscript><style type="text/css">body{display:none;}</style></noscript>
-<script type="text/javascript" src="http://cn01.lockview.cn/Js/lockview.js?uid=LK0179970"></script>
+
 <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-19017743-1']);
@@ -28,7 +27,7 @@
     
     <div id="header">
         <div class="center pos-r">
-           <h1><a href="/"> <img src="/images/logo.gif" alt="OuterInner.com"></a></h1>
+           <h1><a href="/" title="OuterInner.com"><img src="/images/logo.gif" alt="OuterInner.com"></a></h1>
             <div class="quick-link">
                 <a class="a-n" href="/">HOME</a>|
 
@@ -36,12 +35,8 @@
 <a class="a-n" href="/Account/Home">MY ACCOUNT</a>
 
 <img src="/images/topper1.gif">
-
 <a id="miniShopCart" href="/ShoppingBag" class="a-n" title="Click to view shopping bag details.">SHOPPING BAG
-
-(<span id="sp_head_shopItemCount" style="font-size:12px;position:relative;top:-1px;*top:0px;">0</span>)
-
-</a>
+(<span id="sp_head_shopItemCount" style="font-size:12px;position:relative;top:-1px;*top:0px;">0</span>)</a>
 <a name="pageTop"></a>
 <div id="miniShoppingCart" class="tip-shopping-cart" style="display:none">
 </div>
@@ -49,14 +44,16 @@
 </div>
                 
 
+
 <div class="menubg">
     <div class="menu" style="width: 1386px;"><img src="/images/menuleft.gif" class="first">
 
-      <a href="/new-in/" alt="NEW IN" class="a-n" style="margin-left:5px;position:relative;">NEW IN</a>|
+      <a href="/new-in-1/" alt="NEW IN" class="a-n" style="margin-left:5px;position:relative;">NEW IN</a>
       
-        <a href="/sale/" alt="SALE" class="a-n">SALE</a>
+      | <a href="/sale-1/" alt="SALE" class="a-n">SALE</a>
+      
+        | <a href="/quick-delivery-1/" alt="QUICK DELIVERY" class="a-n">QUICK DELIVERY</a>
         
- 
  </div>
  </div>
         </div>
@@ -68,14 +65,29 @@
                         
             
 
-   
-    <div class="all-search">
+<div class="all-search">
+    <form method="get" action="/search.html" onsubmit="return testSearch(this);">
         <fieldset>
-          <input class="txt-1" id="SearchKey" name="SearchKey" style="*padding-left:5px;" type="text" value="enter keywords or style code here...">
-          <input id="btnSearchKeyWord" type="button" value="" class="bt-1">
+            <input type="text" name="k" value="enter keywords or style code here..." defval="enter keywords or style code here..." maxlength="100" class="txt-1" style="*padding-left:5px;" onfocus="searchFocus(this)" onblur="searchBlur(this)" defclass="txt-1" focusclass="txt-11">
+            
+            <input type="submit" value="" class="bt-1">
         </fieldset>
-    </div>
-    
+    </form>
+</div>
+<input type="hidden" id="SearchKey">
+<script type="text/javascript">
+    function testSearch(f) {
+        var jSearch = jQuery(f['k']);
+        var defval = jSearch.attr("defval");
+        var searchVal = jQuery.trim(jSearch.val());
+        if (defval == jSearch.val() || searchVal == "") {
+            window.location = window.location;
+            return false;
+        }
+        return true;
+    }
+</script>
+
             <div class="u-curnar">
                 <img src="/images/1.gif">
                 <a href="/" class="a-n">Home</a>/ <a class="a-n" href="/help-center/">Help Center</a>/ <a class="a-n" href="/help-center/privacy---terms-hl-7/">Privacy &amp; Terms</a>/ Privacy Policy
