@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citymoments.cn privacy policy that was archived on 2010-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100908085830id_/http%3A//www.citymoments.cn/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citymoments.cn privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509200839id_/http%3A//shanghai.citymoments.cn/privacy) for the most accurate reproduction.*
 
-# City Moments: Your guide to Shanghai night life.
+# City Moments | Nightlife, Events, Party Pictures, Community and Venues in Shanghai
 
 ##  Privacy Policy 
 
