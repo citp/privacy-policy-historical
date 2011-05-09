@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215212946id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510013404id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
 
@@ -16,17 +16,21 @@ Information collected by Violinist.com becomes the property of Violinist.com, an
 
 | 
 
-## [Music Giveaway](http://www.violinist.com/contest/)
+## Support Violinist.com
 
-[](http://www.violinist.com/contest/) [Enter to win](http://www.violinist.com/contest/) one of three copies of Violinist **Dylana Jenson** 's new CD, a recording of the Shostakovich and Barber Violin Concertos with the London Symphony Orchestra.
+[](http://www.facebook.com/pages/Violinistcom/100897636577)[](http://twitter.com/violinist)[](http://feeds.feedburner.com/violinistcom)[](http://visitor.constantcontact.com/d.jsp?m=1101878620137&p=oi)
 
 ## Search Violinist.com
 
-## Become a Fan
+## [Interviews](http://www.violinist.com/interviews/)
 
-[Be a fan on ](http://www.facebook.com/pages/Violinistcom/100897636577)
+[**Nadja Salerno-Sonnenberg**](http://www.violinist.com/blog/laurie/20114/12266/) talks about her career path with the violin and what it's like to be music director of New Century Chamber Orchestra, after so many years as a soloist.
 
-[Follow us on ](http://twitter.com/violinist)
+[**Nicola Benedetti**](http://www.violinist.com/blog/laurie/20113/12192/) talks about her new recordings of the Bruch and Tchaikovsky Concertos.
+
+[**Lisa Batiashvili**](http://www.violinist.com/blog/laurie/20113/12176/) talks about the Shostakovich Violin Concerto and the composer's influence on Soviet musicians.
+
+[More interviews...](http://www.violinist.com/interviews/)
 
 ## [Editor's Blogs](http://www.violinist.com/blog/laurie/)
 
@@ -35,30 +39,20 @@ Violinist.com's editor is a professional symphony violinist and former newspaper
 
 Plus: [The Weekend Vote](http://www.violinist.com/blog/weekendvote/)
 
-## [Interviews](http://www.violinist.com/interviews/)
-
-[](http://www.violinist.com/blog/laurie/20101/10893/) Indianapolis Symphony concertmaster [**Zach DePue**](http://www.violinist.com/blog/laurie/20101/10893/) explores jazz, folk and other genres as part of the trio "Time for the Three."
-
-[ **Hilary Hahn**](http://www.violinist.com/blog/laurie/20101/10837/) talks about the development of her new recording, "Bach: Violin and Voice."
-
-[ **Sarah Chang**](http://www.violinist.com/blog/laurie/200912/10758/) talks of her perspective on life as a prodigy, and how that's prepared her for her current career.
-
-[More interviews...](http://www.violinist.com/interviews/)
-
 ## [Sponsors](http://www.violinist.com/advertising/)
 
-The following advertisers have made a financial commitment to support the Violinist.com community.
+Violinist.com thanks its May sponsors. We hope you will return the favor by considering them first when making a violin- or music-related purchase.
 
-We hope you will return the favor by considering them first when making a violin- or music-related purchase.
+[\- Shar Music](http://goo.gl/K8uPE)  
+[\- Bazzini String Instruments](http://goo.gl/82rYE)  
+[\- 'Master Your Stage Fright' by Bohdan Warchal](http://goo.gl/6f0dx)  
+[\- Southwest Strings](http://goo.gl/VjjIm)  
+[\- Hans Pluhar](http://goo.gl/qAEWs)  
+[\- Snow Violin](http://goo.gl/TuPPP)  
+[\- StringMall.com](http://goo.gl/Kyoqy)  
+[\- Metronome Plus for iOS](http://goo.gl/RkyER)  
+[\- Concert Fashion New York](http://goo.gl/f0CRy)  
+[\- Charles L. Johnson Violin](http://goo.gl/4Lanz)  
 
-[\- From the Top/Jack Kent Cooke Young Artist Award](http://bit.ly/cPmrhG)  
-[\- Hans Pluhar](http://bit.ly/aOhtKj)  
-[\- International Violin Competition of Indianapolis](http://bit.ly/8DTMG3)  
-[\- IV Moscow International David Oistrakh Violin Competition](http://bit.ly/69TYxR)  
-[\- Join a String Quartet](http://bit.ly/drVnBn)  
-[\- Metzler Violin Shop](http://bit.ly/9LnTUL)  
-[\- Shar](http://bit.ly/4hM1Cv)  
-[\- Snow Violin](http://bit.ly/30YSzB)  
-[\- StringMall.com](http://bit.ly/3eTlD3)  
-[\- Violin Mastery](http://bit.ly/2dPFKQ)  
 
+[**Please consider supporting Violinist.com by becoming a sponsor**](http://www.violinist.com/advertising/)
