@@ -1,60 +1,31 @@
-> *The following text is extracted and transformed from the cruisefashion.co.uk privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115081012id_/http%3A//www.cruisefashion.co.uk/store/Privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisefashion.co.uk privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509031649id_/http%3A//www.cruisefashion.co.uk/privacy-policy.info) for the most accurate reproduction.*
 
-# Privacy statement :: Cruise Fashion Ltd
+# Privacy Policy at Cruise Fashion
 
-| 
+**This is a Secure Website**
 
-Definitions
+This site uses a **thawte SSL123 Certificate** to offer secure communications by encrypting all data to and from the site. **thawte** has checked and verified the site's registered domain name.
 
-This document describes Cruise Clothing's Online Privacy Policy (the "Privacy Policy") for this website, www.cruiseclothing.co.uk(the "Site").
+Cruise Fashion is committed to protecting our customers privacy. We are entirely open about our information gathering practices. Please take the time to review this notice which states our privacy policy.
 
-Changes in Privacy Policy  
-Cruise reserves the right to change the Privacy Policy from time to time at its sole discretion, and will provide notice of material changes on the home page of the Site.
+For us to process your order, we need to know your name, email address, delivery address, credit/debit card number, security code and expiry date. We will not collect any information about you unless it is specifically and knowingly provided by you. The information we collect will be accurate and up to date. You can check this at any time by contacting out customer care department. We will immediately correct any inaccuracies you report.
 
-Collection of Personal Information on this Site  
-Personal information on this Site is collected by Cruise
+Additionally, we will look at the products you buy, together with the way you view our site to enable us to send you information about products and services that you may be interested in. We will use this information to tailor your view of the site to make it more interesting and relevant in respect of the products and offers on view.
 
-Cruise Fashion Limited  
-Martin House  
-184 Ingram Street  
-Glasgow  
-G1 1DN  
-Reg Number SC352739  
-Vat No: 970 0394 26
+We collect information about our customers via server logs, cookies, order forms and competitions. A cookie is a file that your web browser places on your computers hard disk for record keeping purposes. The information collected in this way can be used to identify you unless you modify your browser settings. The cookie does not store any credit/debit card information nor password details.
 
-How Personal Information is collected on this Site  
-As a visitor to the Site, you are not required to provide any personal information to Cruise. If, during your visit to the site, you elect to contact Cruise with Sales, Technical Support or other general enquiries about Cruise products and services, you may be asked to complete an online form and provide information about yourself and the nature of your enquiry, including your name, e-mail address, contact telephone number, postal address and certain other information. 
+We may also use your data, or permit selected third parties to use your data, to provide you with information about goods or services which may be of interest to you and we or they may contact you about these by email.
 
-When you use the Site, Cruise may also collect certain technical and accessibility information about your computer to enable your use of the Site. For example, we may log browser version, operating system and the IP address of your computer. This information is used to monitor use of the Site and to measure traffic patterns on the Site. Cruise does not match this information with any personal information you may have submitted to us.
+In the event that we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-The Site may provide links to other, external websites managed by third parties or partners and affiliates of Cruise. Unless stated to the contrary, any personal information provided on sites other than this Site will not be covered by this Privacy Policy. In such circumstances, you are advised to locate and read the Privacy Policy relating to the use of your personal information on the website you are visiting.
+Cruise Fashion operates an opt out mail system. This gives you the choice of whether or not you wish to receive marketing information. Replying to the 'unsubscribe' link in promotional mail will also ensure that your name is removed from our mailing list. You are automatically opted-in to all promotional emails from The Hut Group brands. You can unsubscribe from any of these emails at any time.
 
-How your Personal Information is used  
-The information Cruise collects about you is used to record and support your purchase of products from us. Your personal information is also used to keep you informed about products, promotions, and other products and services of Cruise
+Cruise Fashion website employs thawte and industry-standard SSL to provide secure credit card transactions. SSL is a communications protocol for transmitting private information over the internet. It works by encrypting data that is transmitted over the SSL connection. When you place an order, your credit/debit card information is encrypted and then sent over the internet using an SSL connection. No one can read or access the data that is being transmitted.
 
-Technical information collected by Cruise monitoring your use of the Site - for example, how many users the Site receives daily and geographical information about user access to the Site - is collected as aggregate data and does not identify any user individually. Cruise may use this data for statistical analysis, marketing, or other promotional purposes.
+It is important for you to protect against unauthorized access to your password and to your computer. Ensure that you log out when you finish using a shared computer.
 
-Cruise will not sell, transfer or give freely your personal information to any company or organization without your consent except to comply with laws or regulations of the government or other regulatory body, or to protect the rights of Cruise.
+In addition to the company's safeguards, your personal data is protected in the UK by the Data Protection Act (the "Act"). The Act requires us, as registered Data Controllers, amongst other things to ensure that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should, where necessary, be kept up to date and not retained for longer than is necessary. It should be kept securely to prevent unauthorized access by other people.
 
-Use of cookies  
-When you visit the Site, you can browse the Site and access information without providing your personal information. To provide a better service from the Site, we use "cookies" to pre-populate certain online forms on the Site so that the information submitted by you need not be re-entered each time you choose to contact us. A cookie is a small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. Most browsers are set to accept cookies by default. You can change your browser settings to prompt you when you are about to receive a cookie, giving you the option to decide whether to accept it or not.
+Cruise Fashion takes the risk of internet fraud very seriously. With the volume of fraudulent credit card transactions increasing, Cruise Fashion makes every effort to ensure all orders are thoroughly checked using the information already supplied. There is a possibility we may contact you to make additional security checks and we ask for your co-operation to enable us to complete them. Fraudulent transactions will not be tolerated by Cruise Fashion and such transactions will be reported to the relevant authorities.
 
-Updating your personal information and privacy preferences  
-You have the right to update or correct your personal information held by Cruise. To update or correct your personal information and privacy preferences please write to or e-mail:
-
-Cruise Fashion Limited  
-Martin House  
-184 Ingram Street  
-Glasgow  
-G1 1DN  
-Reg Number SC352739  
-Vat No: 970 0394 26
-
-E-mail: customerservice@cruiseclothing.co.uk
-
-Please include your name, mailing address, telephone number and e-mail address in any communication with ourselves.
-
-Privacy-related enquiries and complaints  
-If you believe that Cruise has not complied with this Online Privacy Policy with respect to your personal information or you have other related enquiries, you may contact Cruise at the address provided above. In your correspondence, please describe in as much detail as possible the nature of your enquiry or the ways in which you believe that Cruise has not complied with its Online Privacy Policy. We will investigate your enquiry or complaint promptly and reply in writing to you.  
-  
----|---
+If you have any queries on any aspect of the above policy, please [contact us.](https://www.cruisefashion.co.uk/cruisefashion/customerQuery.secure?skeletonAccount=true)
