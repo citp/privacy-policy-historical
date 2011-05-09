@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightprosim.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230202455id_/http%3A//www.flightprosim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightprosim.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509023831id_/http%3A//www.flightprosim.com/privacy) for the most accurate reproduction.*
 
 # FlightProSim.com - Privacy Policy
 
