@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myebizpro.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010111442id_/http%3A//myebizpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myebizpro.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509195655id_/http%3A//www.myebizpro.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,7 +19,7 @@ The information collection, use, and dissemination practices of myebizpro.com (t
 
 We collect information through technology to make our site more interesting and useful to you. For instance, when you come to one of our sites, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet Service Provider). Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our site.
 
-We also collect the anonymous information through the use of “cookies.” A cookie is an element of data that a website can send to your browser, which may then be stored on your system. Some features of our website use cookies to better serve you when you return to our site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some areas of our website may not function properly.
+We also collect the anonymous information through the use of �cookies.� A cookie is an element of data that a website can send to your browser, which may then be stored on your system. Some features of our website use cookies to better serve you when you return to our site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some areas of our website may not function properly.
 
 Web bugs. A web beacon is programming code that can be used to display an image on a web page (by using an programming function -- see www.w3.org for more information), but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. If you wish more information about web bugs, you may wish to visit http://www.webopedia.com/TERM/W/Web_beacon.html
 
@@ -31,9 +31,9 @@ Much of the personally identifiable information we receive comes directly from w
 
 The Company may in certain cases collect credit card numbers and related information, such as the expiration date of the card ("Credit Card Information") when an individual places an order from Company. When the Credit Card Information is submitted to Company, such information is encrypted and is protected with SSL encryption software. The Company will use the Credit Card Information for purposes of processing and completing the purchase transaction, and the Credit Card Information will be disclosed to third parties only as necessary to complete the purchase transaction.
 
-### Our Commitment to Children’s Privacy
+### Our Commitment to Children�s Privacy
 
-Protecting the privacy of children is especially important. The Children’s Online Privacy Protection Act (COPPA) applies to the online collection of personal information from children under the age of 13. It is designed to ensure that parents are in control over what information is collected from children under 13. For that reason, we never collect information at our website from those we actually know are under 13. Any information about a child under the age of 13 must be submitted by the child’s parent or legal guardian.
+Protecting the privacy of children is especially important. The Children�s Online Privacy Protection Act (COPPA) applies to the online collection of personal information from children under the age of 13. It is designed to ensure that parents are in control over what information is collected from children under 13. For that reason, we never collect information at our website from those we actually know are under 13. Any information about a child under the age of 13 must be submitted by the child�s parent or legal guardian.
 
 The Company will never knowingly collect any personal information about children under the age of 13. If the Company obtains actual knowledge that it has collected personal information about a child under the age of 13, that information will be immediately deleted from our database.
 
