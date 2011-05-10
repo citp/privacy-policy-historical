@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205145534id_/http%3A//www.yodle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yodle.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510141036id_/http%3A//www.yodle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Local Business Marketing Experts | Yodle
 
@@ -37,9 +37,9 @@ Yodle.com. Yodle has no desire or intent to infringe on your privacy while using
 
 Please be aware that other web sites that may be accessed through our site may collect personally identifiable information about you. The information practices of those third-party web sites linked to Yodle are not covered by this privacy statement. We generally use the "" symbol to mark links that go to third-party sites. You are solely responsible for maintaining the secrecy of your passwords or any account information. Please be careful and responsible whenever you're online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your personal information, Yodle cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.
 
-## Other Web sites
+## Advertiser Websites
 
-Yodle's Web site contains links to other Web sites that are not operated by Yodle. Yodle is not responsible for the privacy practices of the Web sites that it does not operate.
+We are a leading local online advertising company with a simple mission: to connect local businesses with consumers. As part of the online advertising services we provide to local businesses, we provide information that allows our customers to assess our performance. To the extent that we have provided our customer with the ability to have their website visitors share a coupon using Facebook Connect and you (as a visitor to our customer’s website) use Facebook Connect to share a coupon, then your first name, last name and e-mail address will be shared with our customer within the customer’s password protected Yodle Live account as someone who shared that customer’s coupon through Facebook Connect.
 
 ## Contact Yodle Business Affairs
 
