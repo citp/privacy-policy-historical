@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the younglifetv.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206072019id_/http%3A//younglifetv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younglifetv.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510081512id_/http%3A//younglifetv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | YoungLifeTV
 
 This Privacy Policy applies to all of the products, services, content and websites offered by Hutch Media, LLC dba Ego TV or its subsidiaries or affiliated companies. Sometimes, we may post product specific privacy notices or Help Center materials to explain our products in more detail.
 
