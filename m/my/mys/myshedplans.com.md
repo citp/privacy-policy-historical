@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshedplans.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218000647id_/http%3A//www.myshedplans.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshedplans.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510074742id_/http%3A//www.myshedplans.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy, Terms and Conditions of MyShedPlans.com - Shed Plans Blueprints & Woodworking Designs
 
@@ -10,7 +10,10 @@ MyShedPlans.com strives to offer its visitors the many advantages of Internet te
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
- **How we gather information from users**
+**Opt-Out Right**  
+Visitors may opt out of receiving emails or communication with MyShedPlans. Every email comes with an opt-out link. You can also opt-out by contacting us via postal mail, e-mail, or telephone at the addresses below, or by clicking the link at the bottom of every email. 
+
+**How we gather information from users**
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. 
 
@@ -48,7 +51,7 @@ MyShedPlans.com does not knowingly collect or solicit Personally Identifiable In
 
  **Contacting Us**
 
-We can be reached by using the [contact form](https://web.archive.org/web/20101218000647id_/http%3A//www.myshedplans.com/contact.htm)
+We can be reached by using the [contact form](https://web.archive.org/web/20110510074742id_/http%3A//www.myshedplans.com/contact.htm)
 
  **Changes to this Policy**
 
