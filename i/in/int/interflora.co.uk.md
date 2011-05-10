@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109003522id_/http%3A//www.interflora.co.uk/page.xml%3Fpage_name%3Dhelp_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interflora.co.uk privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510221816id_/http%3A//www.interflora.co.uk/page.xml%3Fpage_name%3Dhelp_privacy) for the most accurate reproduction.*
 
 # Interflora Help - Privacy Policy
 
@@ -52,17 +52,17 @@ We may also use your personal information, or with your consent, or upon being i
 
 If you are an existing customer, we may contact you from time to time (by e-mail, mail, telephone, SMS or other means) with information about goods and services similar to those which were the subject of a previous sale to you. 
 
-If you are a new or existing customer, and where you permit selected third parties (such as Webloyalty, as described below) to use your personal information, we (or they) will contact you by e-mail, mail, telephone, SMS or other means. 
+If you are a new or existing customer, and where you permit selected third parties (such as mutual commercial partners who may advertise on our website from time to time) to use your personal information, we (or they) will contact you by e-mail, mail, telephone, SMS or other means. 
 
-Your personal information will be transferred to Shopper Discounts & Rewards (a company owned and operated by Webloyalty International Limited (hereinafter, Webloyalty), which is not affiliated with Interflora, if you give your consent to this in the process outlined below: 
+Your personal information will be transferred to these commercial partners if you give your consent to this in the process outlined below: 
 
-> (i) If you have clicked the "CONTINUE" or "CLICK HERE" buttons on the Interflora purchase check-out page displayed once you have submitted an order on the Website, agreeing to view details of the discount voucher offer made in conjunction with Webloyalty, and Webloyalty's terms and conditions of such offer and services; and 
+> (i) If you have clicked the "CONTINUE" or "CLICK HERE" buttons on the Interflora purchase check-out page displayed once you have submitted an order on the Website, agreeing to view details of the discount voucher offer made in conjunction with any of our mutual commercial partners, and their terms and conditions of such offers and services; and 
 > 
-> (ii) If you have consented to having Interflora transfer your personal information to Webloyalty by providing your e-mail address and clicking the button beneath on the Webloyalty webpage, consenting to such transfer. 
+> (ii) If you have consented to having Interflora transfer your personal information to our mutual commercial partners by providing your e-mail address and clicking the button on our mutual commercial partners' webpage, consenting to such transfer. 
 
-If you do consent to your personal information being disclosed by us to Webloyalty as referenced above, your personal information will be held by Webloyalty for the purposes set out in Webloyalty's privacy policy. Therefore, you are strongly advised to read Webloyalty's privacy policy and satisfy yourself as to the purposes for which Webloyalty will use your personal information before agreeing to Webloyalty's terms and conditions. We have no responsibility for the uses to which Webloyalty International Limited puts your personal information. 
+If you do consent to your personal information being disclosed by us to our mutual commercial partners as referenced above, your personal information will be held by them for the purposes set out in their privacy policy. Therefore, you are strongly advised to read our mutual commercial partners' privacy policy and satisfy yourself as to the purposes for which they will use your personal information before agreeing to their terms and conditions. We have no responsibility for the uses to which any of our mutual commercial partners puts your personal information. 
 
-If you would like to opt-out of Interflora British Unit contacting you for marketing purposes, you can do so at any time by e-mailing us at [sales.enquiries@interflora.co.uk.](mailto:sales.enquiries@interflora.co.uk?subject=Opt-out) However, once you have consented to the transfer of your personal information to a third party such as Webloyalty as previously described, you must follow the opt out /modify procedures provided for by such third party, to opt out/modify your personal information contained in such third party's database. 
+If you would like to opt-out of Interflora British Unit contacting you for marketing purposes, you can do so at any time by e-mailing us at [sales.enquiries@interflora.co.uk.](mailto:sales.enquiries@interflora.co.uk?subject=Opt-out) However, once you have consented to the transfer of your personal information to a third party as previously described, you must follow the opt out /modify procedures provided for by such third party, to opt out/modify your personal information contained in such third party's database. 
 
 Transfers of your Personal Information Abroad 
 
