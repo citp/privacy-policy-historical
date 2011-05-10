@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wvmetronews.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201085414id_/http%3A//www.wvmetronews.com/main.cfm%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvmetronews.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510100131id_/http%3A//www.wvmetronews.com/main.cfm%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # West Virginia Headline News and Talk Radio
-
-**WVMetroNews.com Privacy Policy**
 
 **Our Commitment To Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
@@ -28,7 +26,6 @@ Phone number
 Login Information  
 
 
-  
 **The Way We Use Information:**  
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
@@ -56,4 +53,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please send us an email at info@wvmetronews.com 
+Should you have other questions or concerns about these privacy policies, please send us an email at [info@wvmetronews.com](mailto:info@wvmetronews.com). 
