@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the tfportal.de privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106111854id_/http%3A//www.tfportal.de%3F54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfportal.de privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510062656id_/http%3A//www.tfportal.de%3F54) for the most accurate reproduction.*
 
-# Impressum « Article « TFPortal - Team Fortress 2 - Team Fortress Classic - Fortress Forever | TF2 - TFC - FF
+# Impressum « Article « All about Team Fortress - TF2 - TFC - FF
 
 ## **Webmaster**
 
 Sven 'MeeB' Scholz  
-Sentmaringer Weg 86  
-48151 Münster
+Elsa-Brändström-Weg 36  
+48165 Münster
 
 [E-Mail senden!](https://web.archive.org/?site=news_send "TFPortal send a News")
 
 **Inhaltlich Verantwortlicher gemäß § 6 MDStV:**
 
-Sven Scholz  
-Sentmaringer Weg 86  
-48151 Münster
+Sven 'MeeB' Scholz  
+Elsa-Brändström-Weg 36  
+48165 Münster
 
 ## Privacy & Policy
 
