@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922104709id_/http%3A//www.pier1.com/SideMenu/CustomerRelations/PrivacyPolicy/tabid/111/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pier1.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510195200id_/http%3A//www.pier1.com/SideMenu/CustomerRelations/PrivacyPolicy/tabid/111/Default.aspx) for the most accurate reproduction.*
 
 # Pier 1 Imports - Privacy Policy
 
-Last Revised July 20, 2010
+Last Revised April 28, 2011
 
 This policy describes the personal information Pier 1 Imports may collect about you, why we collect it, how we use it, and when we share it with third parties. This policy also describes the choices you can make about how we collect and use your personal information. If our personal information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears above.
 
-The phrase “personal information” for purposes of this policy means information collected by us and which we may use to contact you, such as your name, mailing address, email address, telephone number, etc., as well as any financial information such as credit and debit card numbers. This policy applies to personal information collected on pier1.com, from customer service inquiries you make to us, and such information collected by us from you in our stores.
+The phrase “personal information” for purposes of this policy means information collected by us and which we may use to contact you, such as your name, mailing address, email address, telephone number, etc., as well as any financial information such as credit and debit card numbers. This policy applies to personal information collected on pier1.com, from customer service inquiries you make to us, and such information collected by us from you in our stores.p>
 
   * What type of personal information does Pier 1 Imports collect?
   * How does Pier 1 Imports use my personal information?
@@ -31,6 +31,7 @@ The phrase “personal information” for purposes of this policy means informat
 Information You Provide – You provide personal information to us in a variety of ways when you interact with Pier 1 Imports, both in stores and online. Some examples are when you:
 
   * Sign up or request to be placed on our mailing or email lists;
+  * Place an order on Pier 1 To-Go;
   * Sign up for our Pier 1 Rewards Card;
   * Participate in a survey, sweepstakes, contest or promotion;
   * Make merchandise purchases and returns;
@@ -52,10 +53,12 @@ We use the personal information we collect for various purposes, including, but 
   * Improving the effectiveness of our website, marketing endeavors and service offerings;
   * Completing credit applications;
   * Completing purchase and return transactions;
+  * Completing Pier 1 To-Go orders;
   * Providing customer support;
   * Notifying you of product recalls or providing other information concerning products you have purchased;
   * Sending you direct mail offerings;
   * Sending you email communications about our products, services and promotions;
+  * Sending you email about orders you have made on Pier 1 To-Go;
   * Administering surveys, sweepstakes, contests and similar promotions;
   * Identifying your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you;
   * Providing mobile marketing and service messages when requested; and
@@ -78,7 +81,7 @@ To accomplish these purposes, we may combine the personal information that you g
 
 ### What are “Cookies” and “Web Beacons”?
 
-“Cookies” are small files of information that are stored by your web browser on your computer. Cookies allow your computer to more easily communicate and interact with our website. We may use cookies to customize your shopping experience and to make sure you don't see the same ad repeatedly. However, you may [disallow cookies](http://www.doubleclick.com/us/about_doubleclick/privacy/email/) through your web browser and still browse our website. Pier 1 Imports will never use cookies to retrieve information from a computer that is unrelated to our website or your interaction with it.
+“Cookies” are small files of information that are stored by your web browser on your computer. Cookies allow your computer to more easily communicate and interact with our website. We may use cookies to customize your shopping experience and to make sure you don't see the same ad repeatedly. However, you may disallow cookies through your web browser and still browse our website. Pier 1 Imports will never use cookies to retrieve information from a computer that is unrelated to our website or your interaction with it.
 
 Web beacons, also sometimes called “pixel tags,” are small strings of code placed on a web page or in an email message for the purpose of transferring data. Web beacons help us analyze our customers' online behavior and measure the effectiveness of our website and our advertising. We work with third-party service providers to help us track, collect, and analyze this information.
 
@@ -106,7 +109,7 @@ We may supplement the personal information that you provide to us with informati
 
 ### How do I make choices about the use of my personal information?
 
-With your personal information, we may contact you through direct mail, e-mail or phone. If you do not wish to receive these communications, or if you wish that we do not share your personal information with outside companies, please let us know by taking one of the following steps:
+With your personal information, we may contact you through direct mail, e-mail or phone. Before sending you mobile marketing materials and/or mobile order confirmations (e.g., text messages) we will require your express consent. If you do not wish to receive these communications, or if you wish that we do not share your personal information with outside companies, please let us know by taking one of the following steps:
 
   * Follow the directions on an e-mail or direct mail marketing communication you receive from us.
   * Call (800) 245-4595 with your request and current contact information.
