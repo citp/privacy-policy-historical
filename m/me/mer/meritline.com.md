@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the meritline.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224140150id_/http%3A//www.meritline.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meritline.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510204131id_/http%3A//www.meritline.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 
 
-**We are committed to protecting your privacy online.**   
+**We are committed to protecting your privacy online.**  
 
 
 * * *
@@ -41,28 +41,34 @@ In order to improve our services to you, we ask some of our customers to volunta
 
 * * *
 
-If you contact or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name and e-mail address in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you.  We use a third party surveyor to run optional surveys for meritline.com. That surveyor collects Non-Personally Identifiable Information for the sole purpose of providing reports to meritline.com about our shoppers' interests and opinions. The information collected by meritline.com is used only for the limited purposes of processing orders, keeping you informed about your order status, for statistical purposes, for improving our siteA and its performance, to serve ads, and to notify you of products or special offers that may be of interest to you. We will disclose your Personally Identifiable Information to third parties to charge your credit card, fill your order, deliver your order, and provide customer service.. For example, we must release your credit card information to the card-issuing bank to confirm payment; and release your address and telephone information to the delivery service to deliver products that you ordered. We may release account information when we believe that such release is reasonably necessary to enforce or apply our Terms and Conditions or to protect the rights, property, and safety of meritline.com, our users, or others. If customers do not pay us for products ordered, we may submit their account information to a third party collection agency. 
+If you contact or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name and e-mail address in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you.  We use a third party surveyor to run optional surveys for meritline.com. That surveyor collects Non-Personally Identifiable Information for the sole purpose of providing reports to meritline.com about our shoppers' interests and opinions. The information collected by Meritline.com is used only for the limited purposes of processing orders, keeping you informed about your order status, for statistical purposes, for improving our siteA and its performance, to serve ads, and to notify you of products or special offers that may be of interest to you. We will disclose your Personally Identifiable Information to third parties to charge your credit card, fill your order, deliver your order, and provide customer service.. For example, we must release your credit card information to the card-issuing bank to confirm payment; and release your address and telephone information to the delivery service to deliver products that you ordered. We may release account information when we believe that such release is reasonably necessary to enforce or apply our Terms and Conditions or to protect the rights, property, and safety of meritline.com, our users, or others. If customers do not pay us for products ordered, we may submit their account information to a third party collection agency. 
 
 **Services Provided on Our Site  
 **
 
 * * *
 
-Except as otherwise stated in this Policy, at present meritline.com does not disclose its customers' Personally Identifiable Information to other merchants. 
+Except as otherwise stated in this Policy, at present Meritline.com does not disclose its customers' Personally Identifiable Information to other merchants. 
 
 **Compliance with Service of Process or Law Enforcement  
 **
 
 * * *
 
-Occasionally meritline.com may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. meritline.com fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we Ain good faith believe to be unlawful. 
+Occasionally Meritline.com may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. We will disclose Personally Identifiable Information upon receipt of a court order, subpoena, or to cooperate with a law enforcement investigation. meritline.com fully cooperates with law enforcement agencies in identifying those who use our services for illegal activities. We reserve the right to report to law enforcement agencies any activities that we Ain good faith believe to be unlawful. 
 
 **What security precautions are in place to protect against the loss, misuse, or alteration of your information?**   **  
 **
 
 * * *
 
-At meritline.com you can be assured that your personal and account information is secure, consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with our customers is of utmost concern to us. Our secure servers protect the information using advanced firewall technology.  
+At Meritline.com you can be assured that your personal and account information is secure, consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with our customers is of utmost concern to us. 
+
+We employ the most advanced form of SSL software, 128-bit encryption, on all areas of the site which requires user to enter personal information, including those relating to ordering & status.   
+This technology allows for the encryption of potentially sensitive information such as name, address and credit card information. All personal information is safely stored in our database systems behind firewall. All Meritline.com servers, including web and database servers, are housed and maintained offsite in secure locations. We regularly scan our sites and servers for internal/external vulnerability with 3rd party service provided by Trustwave®. 
+
+However, you should recognize that no computer system is fully secure and there are inherent risks with any information stored on a computer and transmitted via the internet. To minimize the risk, you should have the latest security features by downloading the most recent version for your browsers, and keep your computer's security software up to date. 
+
   
 
 
