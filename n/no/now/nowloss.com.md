@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nowloss.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211133807id_/http%3A//www.nowloss.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowloss.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510074612id_/http%3A//www.nowloss.com/privacy.htm) for the most accurate reproduction.*
 
-# the 2 best weight loss proteins
+# Privacy policy for NowLoss.com
 
 **Privacy Policy for NowLoss.com**
 
@@ -19,3 +19,11 @@ We also use third party advertisements on [NowLoss.com](http://www.nowloss.com/)
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
 
 AdSense Privacy Policy Provided by [NowLoss.com](http://www.nowloss.com/)
+
+**Google Adsense and the DoubleClick DART Cookie**
+
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet. 
+
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url [http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies. 
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, NowLoss.com has no access or control over these cookies that may be used by third party advertisers. 
