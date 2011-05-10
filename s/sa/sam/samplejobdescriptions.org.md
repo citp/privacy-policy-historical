@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samplejobdescriptions.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230143938id_/http%3A//www.samplejobdescriptions.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplejobdescriptions.org privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510092845id_/http%3A//www.samplejobdescriptions.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sample Job Descriptions
 
