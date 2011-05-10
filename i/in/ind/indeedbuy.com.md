@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indeedbuy.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231051955id_/http%3A//www.indeedbuy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indeedbuy.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510074028id_/http%3A//www.indeedbuy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - IndeedBuy Wholesale
 
