@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221102819id_/http%3A//myhosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhosting.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510135344id_/http%3A//myhosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myhosting.com
 
-December 2009 -(version 1.4) 
+December 2010 -(version 1.5) 
 
-Purpose. This Privacy Policy (the “Policy”) governs all aspects of how myhosting.com (“We”, “Us” and “Our”) collects, uses, maintains and discloses personal information from all users (“Users”, “You” and “Your”) of this website (“Site”) and all Services (“Services”) offered by myhosting.com. The privacy of Users is very important to Us and We are committed to protecting the confidentiality of all information entrusted to Us by You. myhosting.com complies with the requirements of the Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”). 
+Purpose. This Privacy Policy (the “Policy”) governs all aspects of how myhosting.com (“We”, “Us” and “Our”) collects, uses, maintains and discloses personal information from all users (“Users”, “You” and “Your”) of this website (“Site”) and all Services (“Services”) offered by myhosting.com. The privacy of Users is very important to Us and We are committed to protecting the confidentiality of all information entrusted to Us by You. myhosting.com complies with the requirements of the Canadian Personal Information Protection and Electronic Documents Act (“PIPEDA”).
 
 **myhosting.com values the privacy of their customers.**
 
-  
 The privacy of Users continues to be very important to myhosting.com since being founded in 1997. myhosting.com is committed to protecting the confidentially of all information entrusted to it by Users. All content contained on the myhosting.com website is intended only for people 18 years of age and over and myhosting.com does not knowingly collect or use Personal Information from anyone under the age of 18. 
 
 **Information that myhosting.com collects.**
@@ -30,8 +29,7 @@ If you do not wish to receive information regarding the products and services of
 
 **How myhosting.com uses Personal Information**
 
-  
-myhosting.com may, from time-to-time, use Personal Information collected to: (i) provide Users with a product or service that has been requested; (ii) contact Users directly regarding products and services offered by myhosting.com and its trusted affiliates, independent contractors and business partners; (iii) understand User preferences in order to enhance Users' experience with myhosting.com and such affiliates, independent contractors and business partners; (iv) research the effectiveness of the website and the marketing, advertising and sales efforts of myhosting.com, its trusted affiliates, independent contractors and business partners; and (v) for the collection of account receivables owed by Users to myhosting.com.
+myhosting.com may, from time-to-time, use Personal Information collected to: (i) provide Users with a product or service that has been requested; (ii) contact Users directly regarding products and services offered by myhosting.com and its trusted affiliates, independent contractors and business partners; (iii) understand User preferences in order to enhance Users' experience with myhosting.com and such affiliates, independent contractors and business partners; (iv) research the effectiveness of the website and the marketing, advertising and sales efforts of myhosting.com, its trusted affiliates, independent contractors and business partners; and (v) for the collection of account receivables owed by Users to myhosting.com. myhosting.com does work closely with the Google Advertising Network to present myhosting.com advertisements throughout the Google Advertising Network to myhosting.com customers. Users may opt out of this program at any time by visiting - <http://www.google.com/privacy/ads/> and selecting ‘Opt Out’. 
 
 myhosting.com’s use of Personal Information is limited to these purposes. Unless permitted by law, no Personal Information about a User is collected, without first obtaining the consent of the individual to the collection, use and dissemination of that information. 
 
@@ -69,7 +67,7 @@ To guard against fraudulent requests for access, myhosting.com will require suff
 **Amendment of myhosting.com practices and this Policy**
 
   
-This statement is in effect as of February 25, 2008. myhosting.com will from time to time review and revise its privacy practices and this Policy. In the event of any amendment, an appropriate notice will be posted on this website. Policy changes will apply to the information collected from the date of posting of the revised Policy to myhosting.com’s website as well as to existing information held by myhosting.com.
+This statement is in effect as of December 15, 2010. myhosting.com will from time to time review and revise its privacy practices and this Policy. In the event of any amendment, an appropriate notice will be posted on this website. Policy changes will apply to the information collected from the date of posting of the revised Policy to myhosting.com’s website as well as to existing information held by myhosting.com.
 
 **Questions**
 
