@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirrorfootball.co.uk privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220182053id_/http%3A//www.mirrorfootball.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorfootball.co.uk privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510141138id_/http%3A//www.mirrorfootball.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MirrorFootball.co.uk
 
@@ -55,3 +55,5 @@ Our privacy policy is set out in detail below. Any changes to this policy will b
   * Our site(s) include applications, content and/or ads from third parties that may perform user activity tracking in addition to that described herein.
 
 
+
+Advertisements on our site are provided by another organization. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this features off, please visit [http://www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/).
