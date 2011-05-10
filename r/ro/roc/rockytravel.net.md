@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockytravel.net privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222093331id_/http%3A//www.rockytravel.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D41%26Itemid%3D48%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockytravel.net privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510123045id_/http%3A//www.rockytravel.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D41%26Itemid%3D48%26lang%3Den) for the most accurate reproduction.*
 
 # Privacy Policy
 
