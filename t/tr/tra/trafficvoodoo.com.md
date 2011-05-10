@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficvoodoo.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114215607id_/http%3A//www.trafficvoodoo.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficvoodoo.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511000528id_/http%3A//www.trafficvoodoo.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Jeff Johnson's Traffic Voodoo 2.0: Non-Stop Traffic
+# Privacy Policy — Jeff Johnson's Traffic Voodoo 2.0: Non-Stop Traffic
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
