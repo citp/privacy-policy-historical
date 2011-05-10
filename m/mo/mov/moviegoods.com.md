@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviegoods.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527185626id_/http%3A//www.moviegoods.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviegoods.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510073412id_/http%3A//www.moviegoods.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # MovieGoods - Privacy Policy
 
@@ -15,7 +15,7 @@ Because this website wants to demonstrate its commitment to your privacy, it has
 
 
 
-If you believe that MovieGoods, Inc. is not abiding by its posted privacy policy, please contact our Privacy Advocate by email at [help@moviegoods.com](mailto:help@moviegoods.com), or telephone at (702) 382-7414, or fax at (702) 388-7414, or by mail at 6850 Paradise Road, Las Vegas, Nevada 89119. 
+If you believe that MovieGoods, Inc. is not abiding by its posted privacy policy, please contact our Privacy Advocate by email at [help@moviegoods.com](mailto:help@moviegoods.com), or telephone at (919) 595-1110, or by mail at 9300 Globe Center Drive, Suite 116, Morrisville, North Carolina 5760. 
 
 ## Information Collection and Use
 
