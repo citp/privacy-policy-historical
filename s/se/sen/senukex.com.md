@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the senukex.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222203900id_/http%3A//senukex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senukex.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510221601id_/http%3A//www.senukex.com/%3Fpage_id%3D21) for the most accurate reproduction.*
 
-# Privacy Policy | SENuke X - SEO Software
+# Privacy Policy | SEnuke X SEO Software
+
+## Privacy Policy
 
 When accessing our Website, SENukeX.com will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
