@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsings.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419164546id_/http%3A//www.worldsings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsings.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510051831id_/http%3A//www.worldsings.com/privacy-policy) for the most accurate reproduction.*
 
 # WORLDSINGS - The Global Home For Music
 
@@ -44,6 +44,5 @@ Any questions regarding this Policy including WorldSings collection and use of y
 [privacy@worldsings.com](mailto:privacy@worldsings.com)  
 Or by mail to:  
 WorldSings.com, LLC.  
-433 North Camden Drive  
-Suite 400  
-Beverly Hills, CA 90210
+P.O. Box 11491  
+Burbank, CA 91510
