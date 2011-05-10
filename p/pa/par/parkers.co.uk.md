@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101212836id_/http%3A//www.parkers.co.uk/Legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510221442id_/http%3A//www.parkers.co.uk/Legal) for the most accurate reproduction.*
 
-# Legal/Privacy/Cookies - Parker's
+# Legal/Privacy/Cookies - Parkers
 
 This is parkers.co.uk, part of the Parker's portfolio of products and services, owned by Bauer Consumer Media Limited.
 
