@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinainternetwatch.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231085212id_/http%3A//www.chinainternetwatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinainternetwatch.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510110354id_/http%3A//www.chinainternetwatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | China Internet Watch
 
