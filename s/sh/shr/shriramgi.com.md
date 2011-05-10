@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shriramgi.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206103050id_/http%3A//www.shriramgi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shriramgi.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510115805id_/http%3A//www.shriramgi.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy @ Shriram General Insurance
 
