@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2009-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090727213256id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagem4m.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510085347id_/http%3A//www.massagem4m.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Massage M4M Privacy Policy
 
-Effective Date: 07/24/09
+Effective Date: November 3, 2010
 
 We take your privacy seriously. Please read the following to learn more about our privacy policy.
 
@@ -40,7 +40,12 @@ _Children_
 
 
   * We provide the information to trusted partners who work on behalf of or with MassageM4M under confidentiality agreements. These companies may use your personal information to help MassageM4M communicate with you about offers from MassageM4M and our marketing partners. However, these companies do not have any independent right to share this information.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+
+
+  * Your use of the MassageM4M website or the service signifies acknowledgement of and agreement to our Privacy Policy. You further acknowledge and agree that MassageM4M may, in its sole discretion, preserve or disclose your content, as well as your information, such as email addresses, IP addresses, timestamps, and other user information, if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: comply with legal process; enforce the terms and conditions; respond to claims that any content violates the rights of third-parties; respond to claims that contact information (e.g. phone number) of a third-party has been posted or transmitted without their consent or as a form of harassment; protect the rights, property or personal safety of MassageM4M, its users or the general public.
+
+
+  * We provide the information to trusted partners who work on behalf of or with MassageM4M under confidentiality agreements. These companies may use your personal information to help MassageM4M communicate with you about offers from MassageM4M and our marketing partners. However, these companies do not have any independent right to share this information.
   * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of MassageM4M's terms of use, or as otherwise required by law.
   * We transfer information about you if MassageM4M is acquired by or merged with another company. In this event, MassageM4M will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
@@ -94,7 +99,7 @@ _General_
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20090727213256id_/http%3A//www.massagem4m.com/feedback.cfm) or you can contact us at:
+  * If you have questions or suggestions, please complete a [feedback form](https://web.archive.org/web/20110510085347id_/http%3A//www.massagem4m.com/feedback.cfm) or you can contact us at:
 
 MassageM4M Inc.  
 Customer Care - Privacy Policy Issues  
