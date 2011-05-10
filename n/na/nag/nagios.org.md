@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nagios.org privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209100235id_/http%3A//www.nagios.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nagios.org privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510052526id_/http%3A//www.nagios.com/legal/privacypolicy) for the most accurate reproduction.*
 
-# Nagios Enterprises - Privacy Policy
+# Nagios - Privacy Policy
 
 This privacy policy expresses the standards of Nagios Enterprises, LLC ("Nagios Enterprises") for maintenance of private data. 
 
