@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worknplay.co.kr privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108072910id_/http%3A//www.worknplay.co.kr/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worknplay.co.kr privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510180230id_/http%3A//www.worknplay.co.kr/privacy-policy) for the most accurate reproduction.*
 
 # Teach English in Korea | Korea ESL Teaching Jobs | Classifieds, Blogs, Travel, festival
 
