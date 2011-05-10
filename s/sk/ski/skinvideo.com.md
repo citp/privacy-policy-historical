@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinvideo.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130235153id_/http%3A//www.skinvideo.com/privacy.gsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinvideo.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510053652id_/http%3A//www.skinvideo.com/privacy.gsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
