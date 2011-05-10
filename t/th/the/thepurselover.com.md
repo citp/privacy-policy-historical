@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepurselover.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224064032id_/http%3A//thepurselover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepurselover.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510102745id_/http%3A//thepurselover.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
