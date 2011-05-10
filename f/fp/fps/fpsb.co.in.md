@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpsb.co.in privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215202901id_/http%3A//fpsb.co.in/scripts/FPSBIndiaPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpsb.co.in privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510230135id_/http%3A//fpsb.co.in/scripts/FPSBIndiaPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FPSB India - FPSB India Team
 
