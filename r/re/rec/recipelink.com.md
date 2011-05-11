@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2010-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100911100845id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511190646id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
 
 # recipelink.com Privacy Policy
 
