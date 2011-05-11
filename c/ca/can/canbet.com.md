@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canbet.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206010005id_/http%3A//www.canbet.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canbet.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511153005id_/http%3A//www.canbet.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Canbet.com - Privacy Policy
 
@@ -59,7 +59,12 @@ Remember to close your browser when you have finished your user session. This is
 You, as an individual, are responsible for the security of, and access to, your own computer. Ultimately, you are solely responsible for maintaining the secrecy of your username, password and account information. Please exercise extreme care when you are using the Internet and our website/s.  
   
 ---  
-In order to communicate important account and promotional information, you will receive e-mail and hard mail from us. Should you not wish to receive communications of this nature, please e-mail our [Customer Services Department](http://www.canbet.com/aboutus/contactus.aspx) to indicate your communication preferences.  
+In order to communicate important account and promotional information, you will receive e-mail and hard mail from us. Should you not wish to receive communications of this nature, please e-mail our [Customer Services Department](https://web.archive.org/aboutus/contactus.aspx) to indicate your communication preferences.  
 ---  
 For further information, please contact our Privacy Officer through [mail@canbet.com](mailto:mail@canbet.com) if you have any questions and/or comments in relation to your rights under Privacy with Canbet.  
+---  
+We are entitled to share the information we hold on you which includes personal data and betting history with the regulators, sporting bodies and other bodies, including the police, in order to investigate fraud, money laundering or sports integrity issues and to comply with our regulatory duties under the [UK Gambling Commission](http://www.gamblingcommission.gov.uk/) and the [Kahnawake Gaming Commission](https://certificates.gamingcommission.ca/KGCCertificates.aspx?id=0c9561ee-14e3-4a8d-b183-324f45b5cccc).
+
+_**Last updated, 22 March 2011**_  
+  
 ---
