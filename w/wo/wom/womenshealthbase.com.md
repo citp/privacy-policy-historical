@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the womenshealthbase.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109002444id_/http%3A//www.womenshealthbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenshealthbase.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511215407id_/http%3A//www.womenshealthbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Womens Health Base
+
+  
+
 
 Thank you for visiting WomensHealthBase.com and for taking interest in our Privacy Policy. We have built this site with the objective of making it a valuable resource for you, and understand the importance of your privacy. We’re very aware of the need to respect, and protect the privacy of all our readers. We attempt to honor or exceed the legal requirements for medical/health information privacy for the state of New York, and the United States of America in general.
 
