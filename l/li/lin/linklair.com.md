@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linklair.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202204427id_/http%3A//www.linklair.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linklair.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511182146id_/http%3A//www.linklair.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy [linklair.com]
 
