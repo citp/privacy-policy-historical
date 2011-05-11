@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igirlgames.com privacy policy that was archived on 2010-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100424172358id_/http%3A//www.igirlgames.com/girlgamesforgirlsprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igirlgames.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511231356id_/http%3A//www.igirlgames.com/girlgamesforgirlsprivacy.php) for the most accurate reproduction.*
 
-# Igirlgames.com's privacy
+# Dress Up Games For Girls On igirlgames.com
 
 Access To This Site
 
@@ -15,7 +15,7 @@ igirlgames.com does not attempt to collect personal information from children. N
 
 When visiting any Internet site, your unique address called an "IP address" is recorded. igirlgames.com does not release any information about the collection of this address to any third party except under court order. igirlgames.com archives the log files in order to create aggregate statistical reports, detect errors on the web site, and for security reasons. The log files are eventually deleted.
 
-IP reports for advertisement clicks are shared with the advertiser. However, they usually have this information already since it is captured by their server when you view or click an ad. This is done to verify billing for the ads. No additional information associated with any specific user is provided to the advertisers. 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
 
 Overview
 
