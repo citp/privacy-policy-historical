@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the indonesia.travel privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502055928id_/http%3A//www.indonesia.travel/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indonesia.travel privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511133315id_/http%3A//www.indonesia.travel/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Visit Indonesia Year 2010 - Indonesia Tourism Official Website
+# Privacy Policy | Visit Indonesia - Official Website for Indonesia Tourism and Travel Information
+
+Loading...
+
+[Home](http://www.indonesia.travel/en/) » Privacy Policy 
 
 **Date of last revision: February 9th, 2010.  
 **  
