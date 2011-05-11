@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shureasia.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108123142id_/http%3A//www.shureasia.com/meta_en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shureasia.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511143413id_/http%3A//www.shureasia.com/meta_en/privacy) for the most accurate reproduction.*
 
-# Shure Privacy Statement
+# Shure Asia | Shure Privacy Statement
 
 Shure Asia Limited has created this policy to demonstrate our firm commitment to our Web site users' privacy, and discloses the information gathering and dissemination practices for all Shure Asia Limited Web sites. When we collect personal information from you on our website, we follow the privacy principles of, and comply with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. The long and the short of it is that we are firm believers in keeping your information your own. We will not sell or trade your personal information to any other company.
 
