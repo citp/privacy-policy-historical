@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearculture.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109073026id_/http%3A//www.gearculture.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearculture.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511142803id_/http%3A//www.gearculture.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | GearCulture
 
@@ -24,7 +24,11 @@ The basic user information collected is used to help us analyze web traffic, imp
 
 GearCulture’s analytics software collects industry-standard traffic reporting records, IP addresses, Internet service provider information, referrer strings, browser types and the date and time pages. We use aggregate forms of this information to provide traffic statistics to advertisers and to determine the popularity of specific features.
 
-#### Changes to our Policy
+#### Third-Party Advertising Companies
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+#### Changes to Our Policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
