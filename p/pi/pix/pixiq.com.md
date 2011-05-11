@@ -1,7 +1,39 @@
-> *The following text is extracted and transformed from the pixiq.com privacy policy that was archived on 2008-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080711135130id_/http%3A//pixiq.com/%3Fp%3Dfooter.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixiq.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511033153id_/http%3A//www.pixiq.com/privacy-principles) for the most accurate reproduction.*
 
-# Pixiq.com
+# Privacy Principles | Pixiq
 
-Privacy PhilosophyInternet Privacy is an issue that we at Pixiq.com take very seriously . Pixiq.com respects and protects the privacy of the individuals that use our search services and we believe that our users have an absolute right to know precisely what information is being collected about them, how that information is being used and with whom it is being sharedCookiesPixiq.com may use cookies to track traffic flow and patterns of our users. Pixiq.com only does this to enhance the performance of our website and will not disclose its cookies to third parties except as required by a valid legal process such as a search warrant, subpoena , statute, or court order.What Information Does Pixiq.com Collect? Information gathered online can generally be categorized as either anonymous or personally identifiable. Pixiq.com does not collect any unique information about you (such as your name, email address, etc.) except when you specifically and knowingly provide such information . Pixiq.com does however save information such as time of day, browser type, browser language, and IP address with each query. That information is used to verify our records and to better our services to users.With whom does Pixiq.com share the information it gathers? When we do present information to our advertisers, it is in the form of grouped statistics compiled from our users' answers to survey questions and on-site behavior. Pixiq .com will not disclose the contact or demographic information of any individual user to advertisers or any other outside organization without the express permission of the individual.Links to Other Sites   
-The sites displayed as search results or linked to by Pixiq.com are developed by people over whom Pixiq.com has no control over. These other sites may send their own cookies to users, collect data, or solicit personal information.Your consent to the Privacy PolicyBy using the Pixiq.com tools and web sites, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms of Service](https://web.archive.org/web/20080711135130id_/http%3A//pixiq.com/%3Fp%3Dfooter.privacy?p=footer.terms). Pixiq.com may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect and how we use it.Who can I ask if I have additional questions?Feel free to contact us any time and we'll answer any additional questions you may have. Our email address is [ info@Pixiq.com](mailto:info@Pixiq.com).  
+At Barnes & Noble we value all of our customers and understand that you care about the privacy and security of your personal information. The Privacy Principles set out below apply to Barnes & Noble’s collection, storage, use and disclosure of personal information that may be collected by us when you interact with Barnes & Noble, such as when you visit our stores or websites, participate in our Member program, or deal with customer service.
 
+Protecting the privacy and security of your personal information is a priority at Barnes & Noble, and we do our best to ensure that your personal information is always handled in a safe and responsible manner in accordance with the following Privacy Principles:
+
+**CLARITY**
+
+Barnes & Noble strives to communicate clearly about your privacy and how we handle your personal information.
+
+**SECURITY**
+
+Barnes & Noble follows security standards, processes and procedures that are designed to protect your personal information.
+
+**INTEGRITY**
+
+Barnes & Noble does not sell or rent your personal information and respects your preferences with respect to your personal information, in accordance with these Privacy Principles, as well as our Privacy Policy.
+
+To read the complete Barnes & Noble Privacy Policy, please [click here.](http://www.pixiq.com/privacy-policy) In it you will find the answers to the following questions:
+
+1. [What is the personal information that we collect?](http://www.pixiq.com/privacy-policy#q1)
+
+2. [Why do we collect personal information?](http://www.pixiq.com/privacy-policy#q2)
+
+3. [How do we collect your personal information?](http://www.pixiq.com/privacy-policy#q3)
+
+4. [How do we use personal information?](http://www.pixiq.com/privacy-policy#q4)
+
+5. [With whom do we share personal information?](http://www.pixiq.com/privacy-policy#q5)
+
+6. [How do we secure personal information?](http://www.pixiq.com/privacy-policy#q6)
+
+7. [How do we respect your choices about your personal information?](http://www.pixiq.com/privacy-policy#q7)
+
+8. [Whom do I contact if I have questions or concerns?](http://www.pixiq.com/privacy-policy#q8)
+
+9. [What other information about Barnes & Noble's Privacy Policy would I want to know?](http://www.pixiq.com/privacy-policy#q9)
