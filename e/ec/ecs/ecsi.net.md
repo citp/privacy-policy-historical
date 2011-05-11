@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecsi.net privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230034959id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecsi.net privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511195201id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.*
 
 # ECSI - General Privacy Statement
 
@@ -12,7 +12,7 @@ ECSI's web site collects detail information such as IP address, domain name, bro
 
 In addition to collecting detail information, ECSI may summarize the detail information and prepare aggregated information such as counts and flow patterns. This information is critical for the purposes of service monitoring, site improvement and content analysis. ECSI may periodically publish this summary data. Summary data will never contain any references to or information provided by an individual.
 
-ECSI monitors all unsuccessful access attempts to our servers. We reserver the right to disable any account or IP address/range which repeatedly makes unsuccessful access attempts or, in our judgement, is attempting to bypass our security.
+ECSI monitors all unsuccessful access attempts to our servers. We reserve the right to disable any account or IP address/range which repeatedly makes unsuccessful access attempts or, in our judgement, is attempting to bypass our security.
 
 **Internet Passwords**  
 ECSI may authorize users to access certain web pages or other Internet services by issuing a user ID and password combination. No employee or representative of ECSI will ever ask for password information. If you are ever requested to provide your Internet password, do not provide it! You should immediately send an email to [Webmaster@ecsi.net](mailto:webmaster@ecsi.net) providing the date, time, employee's name (if available) and a brief description of the incident.
@@ -31,10 +31,10 @@ ECSI maintains a database of client information including email addresses. This 
 ECSI enables visitors to provide their Email address on this web site. The Email address will be used only in connection with business between the visitor, the visitor's client and ECSI. Any use outside that just described will be documented on the page requesting an Email address. After you have placed your name on a list, you may request to have your entry removed at any time. To be removed, email [webmaster@ecsi.net](mailto:webmaster@ecsi.net). Include the page or pages from which you wish to be removed. In the future we will offer an automated "Opt-out" procedure. At that time, we will stop accepting email requests.
 
 **Exclusions**  
-In the event that illegal activity (such as but not limited to 'hacking', harassment or violation of standing law or statue) using ECSI equipment or facilities are detected, the offender waives the protection offered in our privacy statement. Any data collected on the offender may then be made available to their domain administrators or any law enforcement agency.
+In the event that illegal activity (such as but not limited to 'hacking', harassment, or violation of standing law or statue) using ECSI equipment or facilities are detected, the offender waives the protection offered in our privacy statement. Any data collected on the offender may then be made available to their domain administrators or any law enforcement agency.
 
 **Compliance**  
-ECSI believes that it is compliant with all applicable privacy laws, regulations and guidelines published by the FTC and W3C. ECSI considers those laws, regulations and guidelines to be minimum standards. We will continually monitor customer and visitor comments and suggestions. This feedback will be used to adjust our privacy statement to better address the needs and desires of our clients.
+ECSI believes that it is compliant with all applicable privacy laws, regulations, and guidelines published by the FTC and W3C. ECSI considers those laws, regulations, and guidelines to be minimum standards. We will continually monitor customer and visitor comments and suggestions. This feedback will be used to adjust our privacy statement to better address the needs and desires of our clients.
 
 **Contacting us**  
 If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us at:
