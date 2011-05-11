@@ -1,12 +1,19 @@
-<!--The following is the downloaded HTML source of the ecsi.net privacy policy that was archived on 2007-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071230034959id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ecsi.net privacy policy that was archived on 2011-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110511195201id_/http%3A//www.ecsi.net/privacy_statement.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>ECSI - General Privacy Statement</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="/css/ecsi-vwa.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/ecsi_main.js"></script>
+<script language="JavaScript1.2" type="text/javascript">
+function loadPage() {
+  loadGlobalNav();
+  dispCopyright();
+}
+</script>
 </head>
-<body>
+<body onload="loadPage();">
 <table id="Table_01" width="750" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td valign="top"><a href="/index.html"><img src="/img/vwa/logo_corner.jpg" width="198" height="115" alt="" border="0"></a></td>
@@ -16,8 +23,8 @@
     <td width="750" colspan="2" valign="top" class="text" id="td_bg">
       <table align="center" id="nav">
         <tbody><tr>
-          <td>&nbsp;&nbsp; <a href="/index.html" title="Return to the main page">ECSI</a> &nbsp;|&nbsp; <a href="/bwr/borrower.html" title="Return to the main Borrower page">BORROWERS</a> &nbsp;|&nbsp; <a href="/tpp/student.html" title="Return to the main Student page">STUDENTS</a> &nbsp;|&nbsp; <a href="/client/clients.html" title="Return to the main Client page">CLIENTS</a> &nbsp;|&nbsp; <a href="/agency/agency.html" title="Return to the main Agency page">AGENCIES</a>
-            <table width="250" height="38" style="float:right;" id="search">
+          <td><span id="globalNavText">&nbsp;&nbsp; <a href="/index.html" title="Return to the main page">HOME</a> &nbsp;|&nbsp; <a href="https://web.archive.org/web/20100527102614/https://www.ecsi.net/bwr/borrower.html" title="Return to the main Borrower page">BORROWERS</a> &nbsp;|&nbsp; <a href="https://web.archive.org/web/20100527102614/https://www.ecsi.net/tpp/student.html" title="Return to the main Student page">STUDENTS</a> &nbsp;|&nbsp; <a href="/client/clients.html" title="Return to the main Client page">CLIENTS</a> &nbsp;|&nbsp; <a href="/agency/agency.html" title="Return to the main Agency page">AGENCIES</a></span>
+            <table id="search">
               <tbody><tr>
                 <td>
                   <form style="margin:0px;" name="sform" method="POST" action="/cgi-bin/idksmcgi.exe">
@@ -28,7 +35,7 @@
                   <input type="HIDDEN" name="basePath" value="/">
                   <input type="HIDDEN" name="batchSize" value="25">
                   <input type="HIDDEN" name="search" value="Search">
-                  &nbsp;&nbsp;&nbsp;<input type="text" name="searchWords" maxlength="100" size="17">&nbsp;<a href="javascript:document.sform.submit();" style="color: #ffffff;">SEARCH&gt;</a></form>
+                  &nbsp;&nbsp;&nbsp;<input type="text" name="searchWords" id="searchWords" maxlength="100">&nbsp;<a href="javascript:document.sform.submit();" style="color: #ffffff;">SEARCH&gt;</a></form>
                 </td>
               </tr>
             </tbody></table>
@@ -71,7 +78,7 @@ site improvement and content analysis. ECSI may periodically publish this
 summary data. Summary data will never contain any references to or information provided
 by an individual.</p>
 
-<p>ECSI monitors all unsuccessful access attempts to our servers. We reserver the right to disable any
+<p>ECSI monitors all unsuccessful access attempts to our servers. We reserve the right to disable any
 account or IP address/range which repeatedly makes unsuccessful access attempts or, in our judgement,
 is attempting to bypass our security.</p>
 
@@ -111,16 +118,16 @@ will offer an automated "Opt-out" procedure. At that time, we will stop acceptin
 email requests.</p>
 
 <p><b>Exclusions</b><br>
-In the event that illegal activity (such as but not limited to 'hacking', harassment
+In the event that illegal activity (such as but not limited to 'hacking', harassment,
 or violation of standing law or statue) using ECSI equipment or facilities are
 detected, the offender waives the protection offered in our privacy statement.
 Any data collected on the offender may then be made available to their domain
 administrators or any law enforcement agency.</p>
 
 <p><b>Compliance</b><br>
-ECSI believes that it is compliant with all applicable privacy laws, regulations
+ECSI believes that it is compliant with all applicable privacy laws, regulations,
 and guidelines published by the FTC and W3C. ECSI considers those laws,
-regulations and guidelines to be minimum standards. We will continually monitor
+regulations, and guidelines to be minimum standards. We will continually monitor
 customer and visitor comments and suggestions. This feedback will be used to
 adjust our privacy statement to better address the needs and desires of our clients.</p>
 
@@ -151,7 +158,8 @@ us at:</p>
   <tr>
     <td colspan="2" align="center">
       <p><img src="/img/vwa/table_foot.jpg" width="750" height="28" alt=""></p>
-      <span class="text">© Copyright 1998-2007, ECSI</span>
+      <span id="copyright" class="text">© Copyright 2020, ECSI</span>
+
     </td>
   </tr>
 </tbody></table>
