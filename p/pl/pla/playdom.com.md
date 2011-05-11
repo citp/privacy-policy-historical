@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playdom.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229041216id_/http%3A//www.playdom.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playdom.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511223226id_/http%3A//www.playdom.com/about/privacy) for the most accurate reproduction.*
 
 # Playdom
 
@@ -68,6 +68,6 @@ The Services are not directed to children under 13. We do not knowingly collect 
 
 ## Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at [privacy@playdom.com](mailto:privacy@playdom.com) or at: Privacy Matters, Playdom, Inc., 100 W. Evelyn Ave., Suite 110, Mountain View, CA 94041.
+If you have any questions about this Privacy Policy, please contact us at [privacy@playdom.com](mailto:privacy@playdom.com) or at: Privacy Matters, Playdom, Inc., 395 Page Mill Road, 2nd Floor, Palo Alto, CA 94306.
 
-© Playdom, Inc. 2008-2009, All Rights Reserved.
+© Playdom, Inc. 2008-2011, All Rights Reserved.
