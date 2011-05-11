@@ -1,7 +1,16 @@
-> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824171935id_/http%3A//starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511080256id_/http%3A//starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Jonathan Parker - StarSearchCasting.com Talent Search for Acting, Modeling, Singing, Dancing
+# Casting Calls for Movies, TV, Disney & Models - Search Open Casting Calls
 
+|  |  [Member Success Stories](https://web.archive.org/testimonials.php) [](https://web.archive.org/testimonials.rss.php) |   
+---|---|---  
+|  |   
+|  |   
+|  [Entertainment News](http://starsearchcasting.com/forums/index.php?showforum=8) [](https://web.archive.org/forums/index.php?act=rssout&id=1) |   
+---|---|---  
+|  |   
+|  |   
+  
 ## Our Commitment To Privacy
 
 **Effective May 1, 2010:**
@@ -104,7 +113,7 @@ Star Search Casting uses commercially reasonable administrative, technical, pers
 
 **ACCESS, REMEDIES AND COMPLIANCE: HOW TO ACCESS, CORRECT OR CHANGE YOUR PREFERENCES REGARDING YOUR PII AND HOW TO CONTACT STAR SEARCH CASTING ABOUT PRIVACY CONCERNS**
 
-Whenever possible, Star Search Casting Members may review the Registration PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is incorrect. If you are a Member, you can view and change you or your child’s Registration PII, Member preferences and Profile Information by logging into you or your child’s account and accessing features such as “Edit Profile” and “Account Settings.” If you have any questions about this privacy policy, please [contact us](http://starsearchcasting.com/html/contact_us.php). 
+Whenever possible, Star Search Casting Members may review the Registration PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member informs us is incorrect. If you are a Member, you can view and change you or your child’s Registration PII, Member preferences and Profile Information by logging into you or your child’s account and accessing features such as “Edit Profile” and “Account Settings.” If you have any questions about this privacy policy, please [contact us](http://starsearchcasting.com/html/contact_us.php). You may also contact us by phone at 702-714-0955 or by mail at 991 Stinson Way Ste 407, West Palm Beach, FL 33411 USA. 
 
 If you ask Star Search Casting to stop using you or your child’s PII, Star Search Casting will honor that request while retaining any record of you or your child’s PII that is necessary to comply with applicable federal, state or local law. 
 
