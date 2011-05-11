@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digikey.in privacy policy that was archived on 2010-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100122222714id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html%3Fwt.z_afil_site%3Din%26wt.z_afil_link%3Dhp_PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digikey.in privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512011615id_/http%3A//dkc1.digikey.com/us/en/mkt/Privacy.html) for the most accurate reproduction.*
 
-# Digi-Key Privacy Statement
+# Privacy Statement | DigiKey
 
 We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the protection of your personal information is handled with great regard. The following text will inform you on how we use and manage the information collected at our site.
 
@@ -24,15 +24,15 @@ We welcome you to the Digi-Key® Web Site. At Digi-Key, your privacy and the pro
 
 > ### Postal Addresses
 > 
-> Digi-Key may use your mailing address to send the Digi-Key catalog to keep you updated on our most current products and services.
+> Digi-Key may use your mailing address to send Digi-Key marketing materials to keep you updated on our most current products and services.
 > 
 > Occasionally, Digi-Key may make the names and addresses of our customer list available to carefully screened companies that offer products and/or services that may be of interest to you.
 > 
-> You may elect to opt out of either of these uses of your mailing address by completing the "[Opt Out Form](http://dkc1.digikey.com/scripts/us/commcenter.cgi?action=optout)."
+> You may elect to opt out of either of these uses of your mailing address by completing the "[Opt Out Form](https://ordering.digikey.com/forms/dkc/WWW/ServicesOptOut.aspx?FormSite=us&FormLang=en&site=us&lang=en)."
 
 > ### Email Addresses
 > 
-> Email addresses may be used to communicate information of interest to you about Digi-Key. This includes Order Shipment/Tracking Information, Obsolete Part Bulletins, Service Change Information or other Digi-Key promotional emails. You may elect to opt out of any or all of these emails by completing the "[Opt Out Form](http://dkc1.digikey.com/scripts/us/commcenter.cgi?action=optout)."
+> Email addresses may be used to communicate information of interest to you about Digi-Key. This includes Order Shipment/Tracking Information, Obsolete Part Bulletins, Service Change Information or other Digi-Key promotional emails. You may elect to opt out of any or all of these emails by completing the "[Opt Out Form](https://ordering.digikey.com/forms/dkc/WWW/ServicesOptOut.aspx?FormSite=us&FormLang=en&site=us&lang=en)."
 > 
 > Emails may be sent by Digi-Key or an authorized agent working for Digi-Key. All authorized agents operate with a confidentiality agreement. Information sent in this manner will always include "opt out" options.
 > 
