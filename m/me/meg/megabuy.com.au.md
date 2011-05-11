@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megabuy.com.au privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017060002id_/http%3A//www.megabuy.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megabuy.com.au privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511111613id_/http%3A//www.megabuy.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | MegaBuy Online Computer Shop
 
