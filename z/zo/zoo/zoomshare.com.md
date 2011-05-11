@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomshare.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224065519id_/http%3A//zoomshare.com/privacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomshare.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511084749id_/http%3A//www.zoomshare.com/privacyPolicy.shtml) for the most accurate reproduction.*
 
 # Zoomshare - Make a free website, free home page, online photo album, free blog, free e-mail, free hosting
 
