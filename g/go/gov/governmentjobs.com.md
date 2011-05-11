@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the governmentjobs.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430064137id_/https%3A//www.governmentjobs.com/display.cfm%3FSubCatID%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentjobs.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511143344id_/https%3A//www.governmentjobs.com/display.cfm%3FSubCatID%3D16) for the most accurate reproduction.*
 
 # GovernmentJobs.com -
-
-GovernmentJobs.com's Privacy Commitment 
 
   * Overview
   * Information About All GovernmentJobs.com Visitors
   * Information About You Specifically
   * General Information Disclosure
-  * Resumes
   * How You Can Access Or Correct Your Information
   * Feedback
   * Data Security
@@ -52,14 +49,6 @@ Back to top
 
 * * *
 
-**Resumes**
-
-Since GovernmentJobs.com is a career site, we give you the option of putting your resume in our database. There are several ways of doing this. You may store your resume in our database, but not allow it to be searchable. Not allowing your resume to be searchable means that you can use it to apply for a job online, but agencies will not have access to search it through our resume database product. Or, you can store it in our database and allow it to be searchable. If you allow your resume to be searchable, then all agencies with access to our resume database product will have access to your resume. We use our best efforts to grant access to this database only to human resource professionals. However, we are not responsible if some other third party, such as someone posing as the aforementioned and paying for the service, evades security measures and gains access to the database, and, subsequently, your resume. You may remove your resume from our searchable database at any time. However, agencies who have paid for access to the database may have retained a copy of your resume in their own files or databases. We are not responsible for the retention, use, or privacy of resumes in these instances. 
-
-Back to top
-
-* * *
-
 **How You Can Access Or Correct Your Information**
 
 You can access all your personally identifiable information that we collect online and maintain by logging into CareerDesktop and making necessary changes. We use this procedure to better safeguard your information.  To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
@@ -92,7 +81,7 @@ We do not specifically collect information about children. We believe that child
 
 **Privacy Commitment Changes**
 
-If we decide to change our privacy commitment for GovernmentJobs.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about GovernmentJobs.com. s privacy commitment, please feel free to E-mail us at [privacy@GovernmentJobs.com](mailto:privacy@GovernmentJobs.com).
+If we decide to change our privacy commitment for GovernmentJobs.com, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about GovernmentJobs.com's privacy commitment, please feel free to E-mail us at [privacy@GovernmentJobs.com](mailto:privacy@GovernmentJobs.com).
 
 Back to top
 
