@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fairtilizer.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923083227id_/http%3A//fairtilizer.com/start/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairtilizer.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511155651id_/http%3A//official.fm/start/privacy_policy) for the most accurate reproduction.*
 
-# Start - Privacy_policy, on Official.fm
+# Start - Privacy_policy on Official.fm
 
 ### Information gathering and usage
 
