@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the examresults.net privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427145724id_/http%3A//www.indiaeducation.net/common/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examresults.net privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511184531id_/http%3A//www.indiaeducation.net/common/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ Users may opt out of receiving future mailings; by sending us an e-mail.
 The site offers a free electronic newsletter to its users. We gather the e-mail addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by using the link provided in every newsletter.
 
  **5\. Cookies**  
-A cookie is a small data file that certain websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Indiaeducation.net uses cookies to track user traffic patterns (as described above) and for the personalisation feature.
+A cookie is a small data file that certain websites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Indiaeducation.net uses cookies to track user traffic patterns (as described above) and for the personalisation feature. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [Click Here](http://www.google.com/privacy_ads.html).
 
  **Registration:** When you register Indiaeducation.net uses a cookie to store a unique, random user ID. We do not store passwords or any personal information about you. We use this ID to identify you anonymously in our database and to track the pages you visit on our site. Cookies also enable you to enter the sites ad use services as a member without having to log on each time.
 
