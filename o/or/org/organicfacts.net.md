@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicfacts.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613161249id_/http%3A//www.organicfacts.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicfacts.net privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511092528id_/http%3A//www.organicfacts.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,4 +31,5 @@ We reserve the absolute right to change, amend, alter, edit, delete or add this 
 YOU ARE BOUND BY ALL THE RULES OF THE TERMS AND CONDITIONS AND THE PRIVACY POLICY IRRESPECTIVE OF WHETHER YOU HAVE READ THE SAME OR NOT. ACCESSING THIS SITE DEEMS THAT YOU HAVE READ AND UNDERSTOOD ALL THE CONTENTS OF THE TERMS OF USE, PRIVACY POLICY AND THE DISCLAIMER.
 
   
-
+[< Prev](http://www.organicfacts.net/advertise-with-us.html) |    |  [Next >](http://www.organicfacts.net/terms-and-conditions.html)  
+---|---|---
