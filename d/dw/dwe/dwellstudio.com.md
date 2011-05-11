@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwellstudio.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230085331id_/http%3A//www.dwellstudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwellstudio.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511150850id_/http%3A//www.dwellstudio.com/privacy-policy) for the most accurate reproduction.*
 
 # DwellStudio | Privacy Policy
 
