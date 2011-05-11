@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the customerparadigm.com privacy policy that was archived on 2010-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101210154746id_/http%3A//www.customerparadigm.com/index/46/Privacy%2520Policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the customerparadigm.com privacy policy that was archived on 2011-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110511143323id_/http%3A//www.customerparadigm.com/index/46/Privacy%2520Policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -31,12 +31,8 @@ body { behavior:url(csshover.htc);
             <param name="quality" value="high">
             <embed src="http://www.customerparadigm.com/flash/logo.swf" style="padding:0px; margin:0px;" width="450" height="173" hspace="0" vspace="0" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash">
           </object></td>
-       	  <td rowspan="2"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="495" height="197" style="display: block;">
-            <param name="movie" value="http://www.customerparadigm.com/flash/header2.swf">
-            <param name="quality" value="high">
-            <embed src="http://www.customerparadigm.com/flash/header2.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="495" height="197">
-          </object></td>
-        </tr>
+       	  <td rowspan="2"><img src="http://www.customerparadigm.com/images/short-menu.jpg" width="496" height="197" border="0" usemap="#Map"></td>
+    </tr>
     	<tr>
     	  <td height="24" align="left" valign="top" background="http://www.customerparadigm.com/images/main_nav_back.jpg" class="mainmenu"><div id="menu"> 
           <ul>
@@ -49,13 +45,15 @@ body { behavior:url(csshover.htc);
                     <li><a href="http://www.customerparadigm.com/index/482/Boulder-Colorado-Website-Design.php">Web 
                       site Design in Boulder, CO</a> 
                     </li><li><a href="http://www.customerparadigm.com/index/532/Website-In-An-Afternoon-in-Boulder-Colorado.php">Web 
-                      site In An Afternoon</a>
+                      site In An Afternoon</a> 
                     </li><li><a href="http://www.customerparadigm.com/index/30/Full-Service-Website-Design-Development.php">Full 
                       Service</a> 
                     </li><li> <a href="http://www.customerparadigm.com/index/37/Do-it-Yourself.php">Do it 
                       Yourself</a> 
                     </li><li><a href="http://www.customerparadigm.com/index/401/eCommerce-Web-Design.php">eCommerce 
                       Web Design</a> 
+                    </li><li><a href="http://www.customerparadigm.com/index/608/magento-ecommerce-programmer.php">Magento 
+                      eCommerce Design</a> 
                     </li><li><a href="http://www.customerparadigm.com/index/27/Flash-Web-Design-Programming.php">Flash 
                       Web Design</a> 
                     </li><li><a href="http://www.customerparadigm.com/index/422/spanish-web-design-spanish-websites.php">Spanish 
@@ -85,6 +83,8 @@ body { behavior:url(csshover.htc);
                 <li><a href="http://www.customerparadigm.com/index/7/Programming.php" title="Programming">Programming</a> 
                   <ul>
                     <li><a href="http://www.customerparadigm.com/index/24/PHP_MySQL.php">PHP Programming/mySQL</a></li>
+                    <li><a href="http://www.customerparadigm.com/index/608/magento-ecommerce-programmer.php">Magento 
+                      eCommerce Programming</a></li>
                     <li><a href="http://www.customerparadigm.com/index/25/ASP_SQL Server.php">ASP/SQL 
                       Server</a></li>
                     <li><a href="http://www.customerparadigm.com/index/26/Perl Programming.php">Perl 
@@ -327,7 +327,8 @@ body { behavior:url(csshover.htc);
 
 		<tr><td width="40%" align="right">Email : </td><td><input type="text" class="textfields" name="email" value=""></td></tr>
 
-					<tr><td valign="top" width="40%" align="right">Comments : </td><td colspan="2"><textarea class="textareafields" name="message" rows="5" cols="40">Please have a real person contact me now.</textarea></td></tr><tr>
+					<tr><td valign="top" width="40%" align="right">Comments : </td><td colspan="2"><textarea class="textareafields" name="message" rows="5" cols="40">Please have a real person contact me now.</textarea></td></tr>
+		<tr>
 						<td colspan="3">&nbsp;</td>
 					</tr>
 					<tr>
@@ -339,7 +340,6 @@ body { behavior:url(csshover.htc);
 						<input type="text" name="private_key" maxlength="6" value="" size="20" class="textfields"><font size="1"><div>&nbsp;This step is required to prevent abuse of our services.</div>
 						</font></td>
 					</tr>
-
 
 					<tr>
 					<td>&nbsp;</td>
@@ -386,12 +386,14 @@ function validate_form(fm)
 		fm.message.focus();
 		return false;
 	}
+	/*
 	if(fm.private_key.value=="")
 	{
 		alert("Please mention the word verification text");
 		fm.private_key.focus();
 		return false;
 	}
+	*/
 }
 
 function EmailCheckjs(argvalue)
@@ -464,11 +466,11 @@ function EmailCheckjs(argvalue)
     </tbody></table>
 	</div>
 <map name="Map" id="Map">
-<area shape="poly" coords="12,8,12,38,96,50,96,19" href="#">
-<area shape="poly" coords="103,20,103,50,186,65,187,36" href="#">
-<area shape="poly" coords="193,37,193,66,278,85,279,56" href="#">
-<area shape="poly" coords="284,59,286,87,373,110,370,83" href="#">
-<area shape="poly" coords="379,86,379,112,466,145,469,133,454,116" href="#">
+<area shape="poly" coords="13,31,13,61,97,73,97,42" href="http://www.customerparadigm.com">
+<area shape="poly" coords="103,44,103,74,186,89,187,60" href="http://www.customerparadigm.com/">
+<area shape="poly" coords="193,62,193,91,278,110,279,81" href="http://www.customerparadigm.com/index/3/Contact%20Us.php">
+<area shape="poly" coords="285,83,287,111,374,134,371,107" href="http://www.customerparadigm.com/index/396/Support.php">
+<area shape="poly" coords="379,109,379,135,466,168,469,156,454,139" href="http://www.customerparadigm.com/paybill_login.php">
 </map>
 
 
