@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the olivegardensweeps.com privacy policy that was archived on 2010-11-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101110140255id_/http%3A//www.olivegarden.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the olivegardensweeps.com privacy policy that was archived on 2011-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110512010657id_/http%3A//www.olivegarden.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -28,6 +28,7 @@
 <div class="og_page_container">
 
 <!-- BEGIN PAGE TOP WITH NAV AND LOCATOR FORM -->
+
 
 <!-- SiteCatalyst code version: H.17.
 Copyright 1997-2008 Omniture, Inc. More info available at
@@ -93,25 +94,58 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
   <td><img class="og_png" src="/images/find_tabs_rev/find_tab_1a.png" alt="" width="12" height="26" border="0"></td>
   
   <td style="width: 246px; background-image: url(/images/find_tabs_rev/find_tab_1_bg.png); background-repeat: no-repeat;">
+  <script language="JavaScript" type="text/javascript">
+  function searchlocator()
+  	{
+		//Updated for FireFox 2010-12-07
+		var frm_locator_search = document.getElementById("locator_search");
+		var frm_q = document.getElementById("q");
+		var srchtext = "";
+		  if(frm_q)
+		  {
+		  	if(frm_q.value=="City & Province or Postal Code" || frm_q.value=="City & State or Zip")
+				{
+					frm_q.value = "";
+					
+				}
+				else
+				{
+				
+				srchtext = frm_q.value;
+				}
+		  }
+		  if(frm_locator_search)
+		  {
+		  	
+		  	frm_locator_search.action="/locator_g/default.aspx?q=" + srchtext + "&S=P";
+		  	//frm_locator_search.submit();
+			document.window.location="/locator_g/default.aspx?q=" + srchtext + "&S=P";
+			return true;
+		  }
+		  else
+		  {
+		  //alert("error?"+ srchtext);
+		  }
+		  
+	}
   
-    <form name="form1" method="post" action="/locator/locationSearchalt.asp" style="margin: 0px;">
-
-      <table cellspacing="0" cellpadding="0" border="0" width="246">
-      <tbody><tr valign="top">    
-      
-        <td width="218">
-
+  </script>
+	
+    <form name="locator_search" id="locator_search" method="get" action="/locator_g/default.aspx" style="margin: 0px; onsubmit=" searchlocator();"="">
+    	<table cellspacing="0" cellpadding="0" border="0" width="246">
+      		<tbody><tr valign="top">    
+				<td width="218">
 		
-		<input type="text" name="zipSearch" id="zipSearch" value="City &amp; State or Zip" class="og_locator_field" style="width: 87px; font-size: 9px; margin: 4px 0px 0px 131px;" onfocus="clearField(this)">
+		<input type="text" name="q" id="q" value="City &amp; State or Zip" class="og_locator_field" style="width: 87px; font-size: 9px; margin: 4px 0px 0px 131px;" onfocus="clearField(this)">
 		
         
-        </td>
+        		</td>
         
-        <td width="28">
-        <input type="image" style="margin: 3px 0px 0px 5px; width:17px; height:18px; border:0px;" src="/images/misc/px.gif" alt="Go">
-        </td>
+        		<td width="28">
+        <input type="image" style="margin: 3px 0px 0px 5px; width:17px; height:18px; border:0px;" src="/images/misc/px.gif" alt="Go" onclick="searchlocator()">
+        		</td>
         
-      </tr>
+      		</tr>
       </tbody></table>
     
     </form>
@@ -200,12 +234,13 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
       </div>
          
       <div class="og_tab_11_sans" style="margin: 7px 0px 0px 0px; text-align: center;">
+	  
       Sun - Thurs:  - <br>
       Fri - Sat:  - 
       </div>
 
       <div class="og_tab_link_10" style="margin: 8px 0px 8px 0px; text-align: center;">
-      <a href="/locator/map.asp?RestaurantID="><b>Get Map and Driving Directions</b></a>
+      <a href="/locator_g/default.aspx?P=S&amp;q="><b>Get Map and Driving Directions</b></a>
 	  
       </div>
              
@@ -285,7 +320,7 @@ else{
         <td width="70"><a href="/specials/" onmouseover="hiLite('our_specials_button','our_specials_over')" onmouseout="hiLite('our_specials_button','our_specials')">
 		<img name="our_specials_button" src="/images/nav_main/our_specials.gif" alt="Specials" width="70" height="32" border="0"></a></td>
         <td width="15"><img class="og_nav_main_divider" src="/images/core/nav_main_divider.gif" alt="" width="1" height="32" border="0"></td>
-        <td width="78"><a href="/locator/default.asp" onmouseover="hiLite('our_locations_button','our_locations_over')" onmouseout="hiLite('our_locations_button','our_locations')"><img name="our_locations_button" src="/images/nav_main/our_locations.gif" alt="Locations" width="78" height="32" border="0"></a></td>
+        <td width="78"><a href="/locator_g/default.aspx" onmouseover="hiLite('our_locations_button','our_locations_over')" onmouseout="hiLite('our_locations_button','our_locations')"><img name="our_locations_button" src="/images/nav_main/our_locations.gif" alt="Locations" width="78" height="32" border="0"></a></td>
         <td width="15"><img class="og_nav_main_divider" src="/images/core/nav_main_divider.gif" alt="" width="1" height="32" border="0"></td>
         <td width="82">
 												
@@ -341,7 +376,7 @@ else{
 document.write('<input type="hidden" name="intro_text" id="intro_text" value="Check out this page on the Olive Garden website:\r\n' + location.href + '\r\n">');
 //-->
 </script><input type="hidden" name="intro_text" id="intro_text" value="Check out this page on the Olive Garden website:
-https://web.archive.org/web/20101110140255id_/http://www.olivegarden.com/privacy/
+https://web.archive.org/web/20110512010657id_/http://www.olivegarden.com/privacy/
 ">
 
 <div style="margin-left: 15px;">
@@ -566,7 +601,7 @@ https://web.archive.org/web/20101110140255id_/http://www.olivegarden.com/privacy
   <table cellspacing="0" cellpadding="0" border="0" width="851" align="center">
       <tbody><tr valign="top">
 	
-        <td width="180"><img name="foot_blank_left" src="/images/nav_main/foot_blank_left.gif" width="180" height="24" border="0"></td>
+        <!--<td width="180">--><td width="214"><img name="foot_blank_left" src="/images/nav_main/foot_blank_left.gif" width="214" height="24" border="0"></td>
         <td width="80"><a href="/company/contact_us/" onmouseover="hiLite('foot_contact_button','foot_contact_over')" onmouseout="hiLite('foot_contact_button','foot_contact')"><img name="foot_contact_button" src="/images/nav_main/foot_contact.gif" alt="Contact Us" width="80" height="24" border="0"></a></td>	
         <td width="15"><img src="/images/core/foot_main_divider.gif" alt="" width="15" height="24" border="0"></td>
         <td width="86"><a href="/employment/" onmouseover="hiLite('foot_employment_button','foot_employment_over')" onmouseout="hiLite('foot_employment_button','foot_employment')">
@@ -577,9 +612,11 @@ https://web.archive.org/web/20101110140255id_/http://www.olivegarden.com/privacy
         <td width="83"><a href="/company/community/" onmouseover="hiLite('foot_community_button','foot_community_over')" onmouseout="hiLite('foot_community_button','foot_community')"><img name="foot_community_button" src="/images/nav_main/foot_community.gif" alt="Community" width="83" height="24" border="0"></a></td>
 		<td width="15"><img src="/images/core/foot_main_divider.gif" alt="" width="15" height="24" border="0"></td>
         <td width="43"><a href="/press/" onmouseover="hiLite('foot_press_button','foot_press_over')" onmouseout="hiLite('foot_press_button','foot_press')"><img name="foot_press_button" src="/images/nav_main/foot_press.gif" alt="Press" title="" width="43" height="24" border="0"></a></td>
-		<td width="15"><img src="/images/core/foot_main_divider.gif" alt="" width="15" height="24" border="0"></td>
-        <td width="53"><a href="/search/" onmouseover="hiLite('foot_search_button','foot_search_over')" onmouseout="hiLite('foot_search_button','foot_search')"><img name="foot_search_button" src="/images/nav_main/foot_search.gif" alt="Search" width="53" height="24" border="0"></a></td>
-		<td width="181"><img name="foot_blank_right" src="/images/nav_main/foot_blank_right.gif" width="181" height="24" border="0"></td>
+		<!--
+		<td width="15"><img src="/images/core/foot_main_divider.gif" alt="" width="15" height="24" border="0" /></td>
+         <td width="53"><a href="/search/" onMouseOver="hiLite('foot_search_button','foot_search_over')" onMouseOut="hiLite('foot_search_button','foot_search')"><img name="foot_search_button" src="/images/nav_main/foot_search.gif" alt="Search" width="53" height="24" border="0" /></a></td> <td width="181">
+		 -->
+		<td width="215"><img name="foot_blank_right" src="/images/nav_main/foot_blank_right.gif" width="215" height="24" border="0"></td>		
       </tr>
       </tbody></table>
 
@@ -597,7 +634,7 @@ https://web.archive.org/web/20101110140255id_/http://www.olivegarden.com/privacy
    
   <a href="/menus/">Menu</a>&nbsp;&nbsp;|&nbsp;  
   <a href="/specials/">Specials</a>&nbsp;&nbsp;|&nbsp;
-  <a href="/locator/">Locations</a>&nbsp;&nbsp;|&nbsp;  
+  <a href="/locator_g/">Locations</a>&nbsp;&nbsp;|&nbsp;  
   <a href="/marketplace/gift_card/">Gift Cards</a>&nbsp;&nbsp;|&nbsp;
   <a href="/recipes/">Recipes</a>&nbsp;&nbsp;|&nbsp;   
   <a href="/culinary/">Culinary Inspiration</a>&nbsp;&nbsp;|&nbsp; 
@@ -605,7 +642,7 @@ https://web.archive.org/web/20101110140255id_/http://www.olivegarden.com/privacy
 
   <a href="/privacy/">Privacy Policy</a>&nbsp;&nbsp;&nbsp;  
   <a href="/legal/">Legal Notices</a>&nbsp;&nbsp;&nbsp;  
-  © 2010 Darden Concepts, Inc. All Rights Reserved.
+  © 2011 Darden Concepts, Inc. All Rights Reserved.
   
   </div>
 
@@ -647,6 +684,24 @@ https://web.archive.org/web/20101110140255id_/http://www.olivegarden.com/privacy
   <script type="text/javascript" language="javascript">LOTCC.bcp();</script>
 <!-- end of LOTAME tags --> 
 
+<!-- Google Code for Olive Garden Sitewide Tag Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1050715506;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "o9EkCLCF6gEQ8sqC9QM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1050715506/?label=o9EkCLCF6gEQ8sqC9QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
 
