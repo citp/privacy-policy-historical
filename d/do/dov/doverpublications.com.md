@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doverpublications.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231180448id_/http%3A//store.doverpublications.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doverpublications.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511175923id_/http%3A//store.doverpublications.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-******Dover Publications Privacy Policy** , last updated 6/24/09
+**Dover Publications Privacy Policy** , last updated 6/24/09
 
 Customers have trusted Dover Publications Inc. (“Dover Publications”) to protect their privacy for over fifty years. Whether you've been buying books from us since 1948 or are new to the Dover family, rest assured we plan to earn your trust every day. That's why we've always backed our products with an unconditional money back guarantee. It's also the reason we've created this Privacy Policy for DoverPublications.com. We want you to understand what information we collect and what we will-and won't do with it. By visiting DoverPublications.com you agree to accept the practices described in this Privacy Policy.
 
