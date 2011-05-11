@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardsmag.com privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828055340id_/http%3A//www.brunico.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardsmag.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511190056id_/http%3A//www.brunico.com/privacy) for the most accurate reproduction.*
 
 # Brunico Communications Ltd. / Brunico Marketing Inc.
 
@@ -45,8 +45,9 @@ Information which Brunico does not treat as personal for the purposes of this po
   * Industry sector and sub-sector describing the organization's activity;
   * Business mailing address;
   * Business telephone numbers;
-  * Email address; and
-  * Website address of the organization or individual.
+  * Email address; 
+  * Website address of the organization or individual; and
+  * Photos or videos of the individual.
 
 
 
@@ -85,4 +86,4 @@ Non-personal information is collected from Our Websites in the form of web logs.
 
 **If you do not agree with this privacy policy, please do not use or subscribe to Our Websites, Our Publications or Our Email Newsletters.**
 
-This policy was last modified on April 22, 2008.
+This policy was last modified on May 5, 2009.
