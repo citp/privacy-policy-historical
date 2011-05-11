@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunshinestatenews.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204155610id_/http%3A//www.sunshinestatenews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunshinestatenews.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511223623id_/http%3A//www.sunshinestatenews.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sunshine State News
 
