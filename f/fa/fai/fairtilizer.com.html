@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the fairtilizer.com privacy policy that was archived on 2010-09-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100923083227id_/http%3A//fairtilizer.com/start/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fairtilizer.com privacy policy that was archived on 2011-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110511155651id_/http%3A//official.fm/start/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Start - Privacy_policy, on Official.fm</title>
+  <title>Start - Privacy_policy on Official.fm</title>
   <meta name="description" content="Manage your music from one single place: Public and Private URL for tracks and playlists, players, traffic stats and more.">
 
-  <!-- Official.fm revision 1e73bd, deploy branch, production environment -->
+  <!-- Official.fm revision e75d3d, deploy branch, production environment (main stack)-->
 
 
-  <link href="http://assets1.official.fm/stylesheets/landing_packaged.css?1284718163" media="screen" rel="stylesheet" type="text/css">  
+  <link href="http://assets1.official.fm/stylesheets/landing_packaged.css?1305017454" media="screen" rel="stylesheet" type="text/css">  
   
 
   <!-- landing js merge -->
-  <script src="http://assets3.official.fm/javascripts/landing_packaged.js?1284718154" type="text/javascript"></script>
+  <script src="http://assets1.official.fm/javascripts/landing_packaged.js?1305017445" type="text/javascript"></script>
   
   
 <script type="text/javascript" charset="utf-8">
@@ -26,36 +26,77 @@
   	    permanent: null
       };
         Fair.Params = {
-      feed: 'http://official.fm/tracks.xspf?limit=200',
-      player_swf: 'http://official.fm/flash/fairplayer-horizontal.swf',
-      movie: 'http://official.fm/flash/fairplayer-horizontal.swf?v=1e73bd&feed=http://official.fm/tracks.xspf?limit=200',
-      flashvars: {"vote":"no","autoplay":0,"player_frame":true}
+      feed: 'http://official.fm/tracks.xspf',
+      player_swf: 'http://official.fm/flash/fairplayer.swf',
+      movie: 'http://official.fm/flash/fairplayer.swf?player_frame=true&v=e75d3d&feed=http://official.fm/tracks.xspf',
+      flashvars: {"vote":"no","autoplay":0,"player_frame":true,"enable_log":false,"fairplayer":"horizontal"}
     };
     if (Fair.loadFeed && Fair.Params.feed != '') Fair.loadFeed();
   }
 </script>
 
   
-  <script type="text/javascript">
+
+
+  
+<script type="text/javascript" charset="utf-8">
+  top.FairPlayerCallbacks = {};
+	top.FairPlayerCallbacks.isReady = function(){try{return Fair.fairplayer.isReady();}catch(e){return false;};};
+	top.FairPlayerCallbacks.playIndex = function(idx){try{return Fair.fairplayer.playIndex(idx);}catch(e){};};
+	top.FairPlayerCallbacks.playIdentifier = function(id){try{return Fair.fairplayer.playIdentifier(id);}catch(e){};};
+	top.FairPlayerCallbacks.pause = function(){try{return Fair.fairplayer.pause();}catch(e){};};
+	top.FairPlayerCallbacks.getCurrentTrackInfo = function(){try{return Fair.fairplayer.getCurrentTrackInfo();}catch(e){};};
+	top.FairPlayerCallbacks.fairplay = function(id, feed, force_reload){try{return Fair.fairplayer.fairplay(id, feed, force_reload);}catch(e){};};
+	top.FairPlayerCallbacks.fairpause = function(){try{return Fair.fairplayer.fairpause();}catch(e){};};
+	top.FairPlayerCallbacks.nexttrack = function(auto){try{return Fair.fairplayer.nexttrack(auto);}catch(e){};};
+	top.FairPlayerCallbacks.prevtrack = function(){try{return Fair.fairplayer.prevtrack();}catch(e){};};
+	top.FairPlayerCallbacks.fairplaying = function(){try{return Fair.fairplayer.fairplaying();}catch(e){};};
+	top.FairPlayerCallbacks.current_track_id = function(){try{return Fair.fairplayer.current_track_id();}catch(e){};};
+	top.FairPlayerCallbacks.current_feed = function() {try{return Fair.fairplayer.current_feed();}catch(e){};};
+	top.FairPlayerCallbacks.switch_to_vote = function(){try{return Fair.fairplayer.switch_to_vote();}catch(e){};};
+	top.FairPlayerCallbacks.switch_to_unvote = function(){try{return Fair.fairplayer.switch_to_unvote();}catch(e){};};
+	top.FairPlayerCallbacks.track_voted = function(id){try{return Fair.fairplayer.track_voted(id);}catch(e){};};
+	top.FairPlayerCallbacks.track_unvoted = function(id){try{return Fair.fairplayer.track_unvoted(id);}catch(e){};};
+	top.FairPlayerCallbacks.playlist_voted = function(id){try{return Fair.fairplayer.playlist_voted(id);}catch(e){};};
+	top.FairPlayerCallbacks.playlist_unvoted = function(id){try{return Fair.fairplayer.playlist_unvoted(id);}catch(e){};};
+	top.FairPlayerCallbacks.user_voted = function(id){try{return Fair.fairplayer.user_voted(id);}catch(e){};};
+	top.FairPlayerCallbacks.user_unvoted = function(id){try{return Fair.fairplayer.user_unvoted(id);}catch(e){};};
+	top.FairPlayerCallbacks.switch_info_mode = function(){try{return Fair.fairplayer.switch_info_mode();}catch(e){};};
+	top.FairPlayerCallbacks.show_popup_button = function(){try{return Fair.fairplayer.show_popup_button();}catch(e){};};
+	top.FairPlayerCallbacks.hide_popup_button = function(){try{return Fair.fairplayer.hide_popup_button();}catch(e){};};
+	top.FairPlayerCallbacks.invalidate_track_from_feed = function(id, feed){try{return Fair.fairplayer.invalidate_track_from_feed(id, feed);}catch(e){};};
+	top.FairPlayerCallbacks.invalidate_feed = function(feed){try{return Fair.fairplayer.invalidate_feed(feed);}catch(e){};};
+	top.FairPlayerCallbacks.preload_feed = function(feed){try{return Fair.fairplayer.preload_feed(feed);}catch(e){};};
+	top.FairPlayerCallbacks.switch_feed = function(){try{return Fair.fairplayer.switch_feed();}catch(e){};};
+</script>
+
+<script type="text/javascript">
 /* <![CDATA[ */
   window.addEvent('domready', function(){
-    var fp = Browser.Plugins.Flash;
-    if (fp.version < 8 || (fp.version == 8 && fp.build < 22)) $('upgrade-player').show();
-    else if (Fair.Params && Fair.Params.movie) {
-      var size = 'horizontal',
-          sizes = { large: [220, 350], standard: [160, 240], medium: [110, 180], small: ['100%', 40], mini: [34, 18], tiny: [16, 16], horizontal: [960, 60] };
-      size = sizes[size] || sizes['horizontal'];
-      Fair.Player = new Swiff(Fair.Params.movie, {
-        width: size[0],
-        height: size[1],
-        id: 'fairplayer',
-        container: 'player',
-        vars: Fair.Params.flashvars
-      }).object;
-    }
-    else {
-      var links = $('player-links');
-      if (links) links.hide(true);
+    document.domain = 'official.fm';
+    var iOs = (navigator.userAgent.match(/(ipad|iphone|ipod)/i) != null);
+    if (iOs){
+      $('player').set('html', '<iframe src="http://play.official.fm/player?fairplayer=horizontal&feed=' + Fair.Params.feed + '" width="100%" style="border:0px;overflow:hidden;"/>');
+    }else{
+      var fp = Browser.Plugins.Flash;
+      if (fp.version < 8 || (fp.version == 8 && fp.build < 22)) $('upgrade-player').show();
+      else if (Fair.Params && Fair.Params.movie) {
+        var size = 'horizontal',
+            sizes = { large: [220, 350], standard: [160, 240], medium: [110, 180], small: ['100%', 40], mini: [34, 18], tiny: [16, 16], horizontal: [960, 60], artwork: [220, 220] };
+        size = sizes[size] || sizes['horizontal'];
+        Fair.Player = new Swiff(Fair.Params.movie, {
+          width: size[0],
+          height: size[1],
+          id: 'fairplayer',
+          container: 'player',
+          vars: Fair.Params.flashvars
+        }).object;
+        Fair.Player.isReady = function(){return false;};
+      }
+      else {
+        var links = $('player-links');
+        if (links) links.hide(true);
+      }
     }
   });
 /* ]]> */
@@ -65,6 +106,12 @@
   
 </head>
 <body>
+  <!-- ClickTale Top part -->
+  <script type="text/javascript">
+  var WRInitTime=(new Date()).getTime();
+  </script>
+  <!-- ClickTale end of Top part -->
+ 
   <div id="header">
     <div id="navigation">
       
@@ -77,12 +124,11 @@
         <ul>
           <li class="signin">
             <div id="signin-alert"></div>
-            <form method="post" action="/sessions">
-              <div id="tease-message" style="display:none;"></div>
+            <form method="post" action="http://official.fm/sessions">
                 <table cellspacing="0" cellpadding="0" border="0" class="form">
                   <tbody><tr>
                     <td>
-                      <label for="login">username</label>
+                      <label for="login">username or email</label>
                       <input type="text" name="login" id="login" tabindex="11" value="">
                     </td>
                   </tr>
@@ -106,7 +152,7 @@
                     </td>
                   </tr>
                   <tr>
-                    <td><a href="/request_password" class="password official notease">I've lost my password</a></td>
+                    <td><a href="http://official.fm/request_password" class="password official notease">I've lost my password</a></td>
                   </tr>
                 </tbody></table>
               </form>
@@ -118,20 +164,22 @@
 		<li><a href="#" class="tease join">Join</a></li>
 		<li class="upload"><a href="#" class="tease">upload</a></li>
 	</ul>
+  <ul class="left">
+    <li class="logo home"><a href="http://official.fm/" class="notease">&nbsp;</a></li>
+  </ul>
 
-	    <ul class="left">
-        <li class="logo home"><a href="http://official.fm/" class="notease">&nbsp;</a></li>
-      </ul>	
     </div>
   </div>
   
   <div id="container">
     <div id="content">
-        <div class="help" style="font-style:normal;margin-bottom:10px;">
-    <h3>Fairtilizer is now official.fm</h3>
+      <!--<div class="help" style="font-style:normal;margin:10px 0;">
+    <h3 style="color:#CC0000;">Downtime due to Hardware issue</h3>
     <div class="enter" style="float:right;margin-top:-10px;"><a href="http://blog.official.fm/official-fm/officialfm/" class="submit" style="font-size:9px;">learn more</a></div>
-    <p>If you were a fairtilizer.com user, simply <a href="#" class="tease">login with your fairtilizer account</a> to discover your new shiny home.</p>
-  </div>
+    <p>Due to the success of the site, we're having a hardware issue.<br/>
+	Therefore, we will interrupt our service <b>for 30 minutes as of 03.30 PM UTC (in one hour).</b> We're really sorry for inconvenience.<br/>
+	Official.fm Team</p>
+</div>-->
       
   <div class="controls top">
     <div class="left info"><span>Privacy Policy</span></div>
@@ -155,11 +203,11 @@
   </div>
 
     </div>
-	  <div id="panel"></div>
+	  <div id="panel" class="panel"></div>
       <div id="mask"></div>
 <div id="overlays" style="display:none;">
-  <table cellspacing="0" cellpadding="0" border="0" width="958">
-    <tbody>  
+  <table cellspacing="0" cellpadding="0" border="0" width="960">
+    <tbody>
       <tr>
         <td class="r2 c2" colspan="3" id="overlay"></td>
       </tr>
@@ -168,6 +216,7 @@
 </div>
 	
       <div style="padding-bottom:200px;"><div class="footer">
+  <a href="#" class="top submit white"><span>top</span></a>
   <div>
     <ul>
       <li><a href="http://official.fm/" class="officialfm">&nbsp;</a></li>
@@ -176,24 +225,24 @@
   <div>
      <ul>
        <!-- <li></li> -->
-       <li><a href="/start/terms" class="terms">Terms of use</a></li>
-       <li><a href="/start/privacy_policy" class="privacy">Privacy policy</a></li>
+       <li><a href="http://blog.official.fm/" target="fairstatic">blog</a></li>
+       <li><a href="http://official.fm/start/terms" class="terms">Terms of use</a></li>
+       <li><a href="http://official.fm/start/privacy_policy" class="privacy">Privacy policy</a></li>
      </ul>
    </div>
    <div>
      <ul>
-       <li><a href="/start/help" class="help">help / feedback</a></li>
-       <li><a href="/start/artists_and_labels" class="artists">club</a></li>
-       <li><a href="/start/pro_account" class="proaccount">pro account</a></li>
-       <li><a href="/developers" class="developers">developers</a></li>
+       <li><a href="http://help.official.fm/" targer="fairstatic">help / feedback</a></li>
+       <li><a href="http://official.fm/start/artists_and_labels" class="artists">club</a></li>
+       <li><a href="http://official.fm/start/pro_account" class="proaccount">pro account</a></li>
+       <li><a href="http://official.fm/developers" class="developers">developers</a></li>
      </ul>
    </div>
   <div>
     <ul>
-       <li><a href="http://blog.official.fm/" target="fairstatic">blog</a></li>
        <!-- <li></li> -->
-       <li><a href="http://twitter.com/officialfm" target="fairstatic">twitter</a></li>
-       <li><a href="http://www.facebook.com/official.fm" target="fairstatic">facebook</a></li>
+       <li><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fofficial.fm&amp;layout=button_count&amp;show_faces=false&amp;width=220&amp;action=like&amp;font=verdana&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:220px; height:26px;" allowtransparency="true"></iframe></li>
+       <li><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://official.fm/" data-text="official.fm - The Do It Yourself Music Club" data-count="horizontal" data-via="officialfm">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></li>
     </ul>
   </div>
 </div>
@@ -202,20 +251,20 @@
   <div class="controls">
     <div class="right actions"><a class="close back" href="javascript:void(0);"><span>close</span></a></div>
   </div>
-  
+ 
   <div id="signin-alert" class="signin-alert-message"></div>
+  <div id="tease-message" style="display:none;"></div>
 
   <div style="width:475px;margin-right:10px;">
-  
-  <form method="post" action="/sessions">
-      <div id="tease-message" style="display:none;"></div>
+ 
+  <form method="post" action="http://official.fm/sessions">
       <fieldset>
         <h2>already a member? sign in</h2>
       <div class="block">
         <table cellspacing="0" cellpadding="0" border="0" class="form">
           <tbody><tr>
             <td colspan="3">
-              <label for="login">Username</label>
+              <label for="login">Username or email</label>
               <input type="text" name="login" id="login" tabindex="21" style="width:400px;" value="" class="signin_login">
             </td>
           </tr>
@@ -225,7 +274,7 @@
               <input type="password" name="password" id="password" tabindex="22" style="width:400px;" class="signin_password">
             </td>
           </tr>
-          
+       
           <tr>
             <td>
               <input type="submit" class="submit" value="Sign in" tabindex="24" style="margin:10px 0;">
@@ -243,34 +292,33 @@
       </fieldset>
   </form>
 
- 
+
   </div>
 
-      
-      <form action="/start/request_invite" method="post">      <fieldset style="width:450px; height:279px; position:absolute;right:0;top:51px;">
+   
+      <form action="/start/request_invite" method="post">      <fieldset style="width:450px; height:279px; position:absolute;right:0;top:62px;">
         <h2>or join official.fm today!</h2>
-        <img alt="" class="free" src="http://assets3.official.fm/images/icons/free.png?1284718131">        <div class="block">
+        <img alt="" class="free" src="http://assets0.official.fm/images/icons/free.png?1305017437">        <div class="block">
           <table cellspacing="0" cellpadding="0" class="form">
             <tbody><tr>
               <td>
-                <label for="invite_email">Email adress</label>
+                <label for="invite_email">Email address</label>
                 <input id="invite_email" name="invite[email]" size="30" style="width:410px;" tabindex="2" type="text" value="">
               </td>
             </tr>
             <tr>
               <td>
                 <input type="submit" class="submit green" value="Join" style="margin:10px 0;">
-                <input id="invite_partner" name="invite[partner]" type="hidden">
               </td>
             </tr>
           </tbody></table>
         </div>
       </fieldset>
-      </form>  
+      </form> 
        <div class="terms" style="margin:20px; padding:20px; float:none; width:auto;-moz-border-radius:10px; ">
          <div class="section">
            <h2 class="number one">host your music</h2>
-           <img alt="Submit" class="illustrate" src="http://assets0.official.fm/images/about/upload.png?1284718131">           <div class="illustrated">
+           <img alt="Submit" class="illustrate" src="http://assets0.official.fm/images/about/upload.png?1305017437">           <div class="illustrated">
              <div class="boxed" style="padding:3px;">
                <table border="0" cellspacing="0" cellpadding="0">
                  <tbody><tr>
@@ -294,7 +342,7 @@
 
          <div class="section">
            <h2 class="number two">create and manage one player for all your sites</h2>
-           <img alt="player" class="illustrate" src="http://assets2.official.fm/images/about/player.png?1284718131">           <div class="illustrated">
+           <img alt="player" class="illustrate" src="http://assets1.official.fm/images/about/player.png?1305017437">           <div class="illustrated">
              <div class="boxed">
                <strong class="head">1. Select a single track or a playlist</strong><br>
                <strong class="head">2. Embed Your Player</strong> on your websites, blogs...<br>
@@ -306,7 +354,7 @@
 
          <div class="section">
            <h2 class="number three">distribute</h2>
-           <img alt="share" class="illustrate" src="http://assets3.official.fm/images/about/share.png?1284718131">           <div class="illustrated">
+           <img alt="share" class="illustrate" src="http://assets3.official.fm/images/about/share.png?1305017437">           <div class="illustrated">
              <p class="section">With the custom track and playlist URL, one click to have your music published on:</p>
              <div class="boxed">
                <strong class="head">Social Networks</strong><br>
@@ -319,7 +367,7 @@
 
          <div class="section">
            <h2 class="number four">follow the stats</h2>
-           <img alt="Stats" class="illustrate" src="http://assets1.official.fm/images/about/stats.png?1284718131">           <div class="illustrated">
+           <img alt="Stats" class="illustrate" src="http://assets1.official.fm/images/about/stats.png?1305017437">           <div class="illustrated">
              <div class="boxed">
                <strong class="head">Plays</strong><br>
                <strong class="head">Downloads</strong><br>
@@ -331,20 +379,20 @@
              <p>Receive direct feedback from listeners on your tracks/playlists pages.</p>
            </div>
          </div>
-         
+      
          <div class="section">
            <h2 class="number five">send and receive music</h2>
-           <img alt="dropbox" class="illustrate" src="http://assets2.official.fm/images/about/dropbox.png?1284718131">           <div class="illustrated">
+           <img alt="dropbox" class="illustrate" src="http://assets2.official.fm/images/about/dropbox.png?1305017437">           <div class="illustrated">
              <div class="boxed">
                <strong class="head">Save time, money, and the environment: get a dropbox!</strong><br>
                <p>Remember when you had to go to the post office to get or send your CD promos?<br>That hassle is over: embed a dropbox on your website, receive an alert whenever you receive a track, and listen to it without moving from your couch. </p><p>The dropbox is also a very handy way to reach the labels and music media you want listening to your tracks!</p>
              </div>
            </div>
          </div>
-         
-         <div style="text-align:center;"><img alt="Get one page for your song" src="http://assets0.official.fm/images/about/getonepage.png?1284718131"></div>
+      
+         <div style="text-align:center;"><img alt="Get one page for your song" src="http://assets2.official.fm/images/about/getonepage.png?1305017437"></div>
              <p class="notes">
-      <img alt="Suisa" src="http://assets2.official.fm/images/about/suisa.gif?1284718131" style="float:left;">      <strong>LEGAL</strong><br>
+      <img alt="Suisa" src="http://assets2.official.fm/images/about/suisa.gif?1305017437" style="float:left;">      <strong>LEGAL</strong><br>
       Official.fm is licenced by SUISA which works in cooperation with a network of local and international rights management societies.
     </p>
 
@@ -356,7 +404,7 @@
   <div id="player-frame">
     <div id="player">
   <a href="http://www.macromedia.com/go/getflashplayer" target="_blank" style="visibility:hidden;" id="upgrade-player">
-    <img alt="" src="http://assets2.official.fm/images/nocover.png?1284718131"><br>
+    <img alt="" src="http://assets1.official.fm/images/nocover.png?1305017437"><br>
     You must update your Flash Player to listen to our tracks.
   </a>
 </div>
@@ -373,8 +421,17 @@
   pageTracker._trackPageview();
   } catch(err) {}</script>
 
+ 
+  <!-- ClickTale Bottom part -->
+  <div id="ClickTaleDiv" style="display: none;"></div>
+  <script src="/javascripts/WRb.js" type="text/javascript"></script>
+<!-- <script src='http://s.clicktale.net/WRb6.js' type='text/javascript'></script> -->
+  <script type="text/javascript">
+  if(typeof ClickTale=='function') ClickTale(5498,0.005,"www07");
+  </script> 
+  <!-- ClickTale end of Bottom part -->
 
-
+ 
 
 
 </body></html>
