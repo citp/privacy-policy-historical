@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bcgurus.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906193508id_/http%3A//www.bcgurus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcgurus.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511164451id_/http%3A//bcgurus.com/website/privacy) for the most accurate reproduction.*
 
-# BC Gurus
+# Privacy Policy
 
 This is the web site of **BC Gurus**.
 
