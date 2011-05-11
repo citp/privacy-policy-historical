@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prizerebel.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118095229id_/http%3A//www.prizerebel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizerebel.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511211757id_/http%3A//www.prizerebel.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
