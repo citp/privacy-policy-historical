@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakersground.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611205859id_/http%3A//www.lakersground.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakersground.net privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511163547id_/http%3A//www.lakersground.net/privacy.php) for the most accurate reproduction.*
 
 # LakersGround.net - Premier Coverage of the L.A. Lakers
 
@@ -39,6 +39,6 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 **Problems or Complaints with Our Privacy Policy**  
 If you have a complaint about compliance with this privacy policy, you may post a comment in the User Feedback Forum. 
 
-If you notice any information that requires updating, please [let us know](http://forums.lakersground.net/newtopic.php?forum=3).
+If you notice any information that requires updating, please [let us know](http://forums.lakersground.net/newtopic.php?f=3).
 
 |   
