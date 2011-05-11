@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popularliving.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129212937id_/http%3A//www.myfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popularliving.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512003653id_/http%3A//www.myfree.com/privacy.php) for the most accurate reproduction.*
 
 # Free Stuff, Fun Stuff Cool Stuff at MyFree.com
 
