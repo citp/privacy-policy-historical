@@ -1,88 +1,74 @@
-> *The following text is extracted and transformed from the peoplespharmacy.com privacy policy that was archived on 2001-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010628092023id_/http%3A//www.healthcentral.com/terms/privacypolicy/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplespharmacy.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511062035id_/https%3A//store.peoplespharmacy.com/privacy-policy) for the most accurate reproduction.*
 
-# HealthCentral.com - About Us - Privacy Policy
+# Buy Privacy Policy from The People's Pharmacy
 
-Privacy Policy  
+**Privacy Notice Table Of Contents:**   
 
 
-Last Revision Date: October 9th, 2000
+* Our Commitment To Privacy
+* The Information We Collect
+* How We Use Information
+* Our Commitment To Data Security
+* Our Commitment To Children's Privacy
+* How To Access Or Correct Your Information
+* How To Contact Us
 
-HealthCentral.com's goal is to become and remain the most trusted, personalized, and useful source of health information, health-related decision support, and health-related e-commerce on the Internet. The protection of your privacy is of the greatest importance to us. We believe that you have the right to understand how your information is stored and used. Our privacy commitment is described in this Privacy Policy. 
+**Our Commitment To Privacy**
 
-This Privacy Policy will let you know the following: ****
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-> **What Information HealthCentral.com Collects From You
-> 
-> How Healthcentral.com Uses the Information that it Collects
-> 
-> Who Else Collects Information From Your Use of HealthCentral.com
-> 
-> What Are Your Choices As to Collection, Use and Distribution of Information
-> 
-> Children's Privacy
-> 
-> Security Measures in Place
-> 
-> How HealthCentral.com Can Modify This Privacy Policy
-> 
-> How You Can Contact HealthCentral.com About this Policy
-> 
-> * * *
-> 
-> **
+**The Information We Collect:**
 
-**What Information Does HealthCentral.com collect from me?**
+This notice applies to all information collected or submitted on the PeoplesPharmacy.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
-Our web server automatically recognizes your domain name. Our web server does not recognize your e-mail address. Most of HealthCentral.com has been designed to not require the use of any personal identifiers (such as name, address, telephone number or e-mail address). IF YOU SEND US AN E-MAIL OR SUBSCRIBE TO A NEWSLETTTER, WE WILL HAVE YOUR E-MAIL ADDRESS AT OUR SITE. 
+Name   
+Address   
+Email address   
+Phone number   
+Credit/Debit Card Information   
+(etc.) 
 
-You may request delivery of content, service, or merchandise to your e-mail address or an off-line destination, or you may elect our more personalized services. If so, you will be notified of the need to provide personal identifying information to us or to another company providing the content, service or merchandise. You may choose whether to request the services or utilize the services.
 
-We use "cookies" to personalize our site for you and to collect aggregate information about site usage by all of our users. A cookie is a text file that our web site transfers to your computer's hard drive for record keeping purposes. The cookie assigns a random, unique number to your computer. It does not contain information which would personally identify you. Our log files contain "clickstream" information (data reporting the categories or sections on [our site] that you have visited) along with the cookie information. 
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. Or, if you want to send an article to a friend, you will need to submit the friend's email address. In this circumstance, the types of personal information collected are: 
 
-If you provide personal identifying information to us by using one of our services, or if you participate in one of our communities or discussion thread, we can connect that information with the data collected by our cookie so that such data will become personally identified. 
+Name   
+Address   
+Email address   
+(etc.) 
 
-**How does Healthcentral.com use the information that it collects?**
 
-We will only use the information to provide you with the services you have requested and as otherwise described in this Privacy Policy. 
+**The Way We Use Information:**
 
-When you provide us with personal identifying information for a specific purpose, we may also use that information to personalize the site for you. We will not use that information to contact you for other purposes, unless use of that information is necessary for enforcement of any of the terms of this Privacy Policy. 
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-**Who Else Collects Information From My Use of HealthCentral.com?**
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-In order to bring you offers that are of interest to you and to help finance the cost of making our site available, we have relationships with other companies that we allow to place advertisements and/or product and service offers on our web site. As a result of your visit to our site, these advertising service companies may collect information such as: 
+We use the information you provide about someone else when using the "Email a Friend" form only to email the article. We do not retain the information you provide on the "Email a Friend" form or use it in any other way. Once the article is sent to your friend, their information is deleted from our system. 
 
-1\. your domain type   
-2\. your IP address (binary code address for your domain)   
-3\. "clickstream" information (data reporting the categories or sections on our site that you have visited). 
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-Our advertising service companies may place cookies on your computer. We do not allow our advertising service companies to collect personal identifying information about you without your express prior consent. Note that if you do provide personal identifying information to an advertising service company, it may be able to connect that information with the data collected by its cookie and other information it may have from other sources so that such data will become personally identified. Other sites linked to our site may also use cookies. For further information, consult those companies' privacy policies: for example, http://www.doubleclick.net:8080/privacy_ policy/ 
+You can sign up for our email newsletter and receive a weekly email message with health news updates. Information you submit on our website will not be used for this purpose unless you indicate that you wish to sign up for the newsletter. 
 
-Unless it is necessary to provide you with the service you have requested, we will not disclose your personal identifying information to any third party; provided that a limited number of our employees, such as customer service representatives, and contractors providing services to us, such as market research companies, may have limited access to personal identifying information maintained on our systems. All are required to keep such information strictly confidential and to use it only as necessary to perform their responsibilities. Failure to do so may result in termination. We also take immediate steps to address any accidental disclosure to third parties which come to our attention. 
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
-We sometimes use, or supply to others, aggregated data (independent of any personal identifiers) for the purposes of target advertising, research and other commercial purposes. 
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-Note that if you obtain dial-up access to our site from a third party independent Internet service provider (an "ISP"), it may have information relating to you which can be connected with information it collects about your usage of our site. 
+**Our Commitment To Data Security**
 
-Please check the privacy policy of any ISP that you use, or other company providing content, service or merchandise to you, as to its use of the information. We require that sites we link to include a notice identifying their privacy policies.
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-**What Are My Choices As to Collection, Use and Distribution of Information?**
+**Our Commitment To Children's Privacy:**
 
-If personal identifying information must be disclosed to a third party to provide a requested service, we will tell you, so you can decide whether to request the service [i.e. opt in or opt out]. 
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
-You will always have the option of requesting that the personal identifying information be removed from our systems by contacting us at the address indicated at the end of this policy. If you register with us, you also have the right, upon reasonable notice, to view your registration information and make any corrections that are necessary. If you have requested e-mails from us, but you decide that you do not want to receive e-mails from us in the future, please contact us at the address indicated at the end of this policy.
+**How You Can Access Or Correct Your Information**
 
-**What About Children's Privacy?**
+If you created an account when you placed an order, you can access all your personally identifiable information that we collect online and maintain by logging into "My Account." We use this procedure to better safeguard your information. If you did not create an account, you can change your information by contacting us at support@peoplespharmacy.com 
 
-We do not intend to collect information from children. If we learn that we inadvertently have collected personal identifying information from a child under the age of 13, we will promptly delete that data from our systems. 
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
-**What Security Measures Are in Place?**
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-We have significant security measures in place in our physical facilities and in our computer systems, databases, and communications networks to strictly protect information contained within our systems from loss, misuse or alteration. 
+**How To Contact Us**
 
-**How Can HealthCentral.com Modify this Privacy Policy?**
-
-We may decide to use information collected from you in new ways and our services may evolve to serve you better. As a result, we may from time to time change this Privacy Policy. Please check back here periodically to see if there have been any changes. To make it easier for you to determine, we post at the top of the policy the last date that the policy was revised. Even if we do make a change to the policy, we will not use any personal information we already have collected in a way not disclosed under the prior version of the policy without first obtaining your consent. 
-
-**Can I Contact HealthCentral.com About this Privacy Policy?**
-
-If you have any questions or suggestions with respect to this Privacy Policy, or if you wish to ask us to delete or show you your information as provided above, please contact us at: [privacypolicy@healthcentral.com](mailto:privacypolicy@healthcentral.com). 
+Should you have other questions or concerns about these privacy policies, please call us at (800) 732-2334 or send us an email at support@peoplespharmacy.com. 
