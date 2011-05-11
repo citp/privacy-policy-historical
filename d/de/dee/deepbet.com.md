@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepbet.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602021408id_/http%3A//deepbet.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepbet.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511074052id_/http%3A//www.deepbet.com/policy.php) for the most accurate reproduction.*
 
 # deepBET - Online Betting Made Simple
 
@@ -48,6 +48,6 @@ We and our regulators are entitled to share the information we hold on you (whic
 
 Privacy Queries
 
-Any queries or comments about our Privacy Policy should be [contact us](https://web.archive.org/web/20100602021408id_/http%3A//deepbet.com/contact.php). Any web site that you may connect to from the site is not covered by this Privacy Policy. 
+Any queries or comments about our Privacy Policy should be [contact us](https://web.archive.org/web/20110511074052id_/http%3A//www.deepbet.com/contact.php). Any web site that you may connect to from the site is not covered by this Privacy Policy. 
 
 We reserve the right, at any time, to modify, alter, or update this Privacy Policy.
