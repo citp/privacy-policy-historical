@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the niharsworld.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229064258id_/http%3A//www.niharsworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niharsworld.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511035909id_/http%3A//www.niharsworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Nihar's World
+# Privacy Policy « Nihar's World
 
 ### Privacy Policy for www.niharsworld.com
 
-Your privacy is important to us. We are committed to safeguarding your privacy while online at our [site](http://www.niharsworld.com/2008/01/30/whos-on-your-site-find-on-world-map-in-real-time/ "site") [www.niharsworld.com](http://www.niharsworld.com/). The following discloses the information gathering and dissemination practices for this [Web](http://www.niharsworld.com/category/Web/ "Web") site.
+Your privacy is important to us. We are committed to safeguarding your privacy while [online](http://www.niharsworld.com/2011/02/16/watch-icc-cricket-world-cup-2011-live-online-free-icc-cricket-world-cup-2011-live-cricket-streaming-links/ "online") at our [site](http://www.niharsworld.com/2008/01/30/whos-on-your-site-find-on-world-map-in-real-time/ "site") [www.niharsworld.com](http://www.niharsworld.com/). The following discloses the information gathering and dissemination practices for this [Web](http://www.niharsworld.com/category/Web/ "Web") site.
 
 ### The Information We Collect
 
@@ -44,4 +44,4 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please [Contact us](http://www.niharsworld.com/contact-me/ "Contact Us"). 
+If users have any questions or suggestions regarding our privacy policy, please [Contact us](http://www.niharsworld.com/contact-me/ "Contact Us").
