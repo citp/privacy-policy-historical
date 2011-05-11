@@ -1,23 +1,23 @@
-> *The following text is extracted and transformed from the cardomain.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901233231id_/http%3A//www.cardomain.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardomain.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511092633id_/http%3A//www.cardomain.net/privacy-policy) for the most accurate reproduction.*
 
-# CarDomain Network, Inc. – Privacy Policy
+# CarDomain Network, Inc. – Privacy Policy — CarDomain Network
 
-**Last Revision: March 9th, 2009**
+**Last Revision: September 30, 2010**
 
 CarDomain wants to make it easy for you to understand its information collection practices. You are probably sick of the legalese that companies put in their privacy policies. We are too. So we decided to revise our privacy policy to be in plain English.
 
-  * [What Categories of Information Does CarDomain Collect and How Does it Typically Use This Information?](https://web.archive.org/web/20100901233231id_/http%3A//privacy-policy/#what)
-  * [Can I Control How CarDomain Uses the Information It Collects?](https://web.archive.org/web/20100901233231id_/http%3A//privacy-policy/#uses)
-  * [Do CarDomain’s Advertisers, Vendors, or Business Partners Collect Information About Me?](https://web.archive.org/web/20100901233231id_/http%3A//privacy-policy/#collect)
-  * [Does CarDomain Share the Information it Collects With Others?](https://web.archive.org/web/20100901233231id_/http%3A//privacy-policy/#share)
-  * [How Secure Is My Personal Information?](https://web.archive.org/web/20100901233231id_/http%3A//privacy-policy/#secure)
-  * [What About The Children?](https://web.archive.org/web/20100901233231id_/http%3A//privacy-policy/#children)
+  * [What Categories of Information Does CarDomain Collect and How Does it Typically Use This Information?](https://web.archive.org/web/20110511092633id_/http://www.cardomain.net/privacy-policy/#what)
+  * [Can I Control How CarDomain Uses the Information It Collects?](https://web.archive.org/web/20110511092633id_/http://www.cardomain.net/privacy-policy/#uses)
+  * [Do CarDomain’s Advertisers, Vendors, or Business Partners Collect Information About Me?](https://web.archive.org/web/20110511092633id_/http://www.cardomain.net/privacy-policy/#collect)
+  * [Does CarDomain Share the Information it Collects With Others?](https://web.archive.org/web/20110511092633id_/http://www.cardomain.net/privacy-policy/#share)
+  * [How Secure Is My Personal Information?](https://web.archive.org/web/20110511092633id_/http://www.cardomain.net/privacy-policy/#secure)
+  * [What About The Children?](https://web.archive.org/web/20110511092633id_/http://www.cardomain.net/privacy-policy/#children)
 
 
 
 Our Privacy Policy describes the types of information we collect from you when you use CarDomain’s websites, services, and applications (the “Services”) and how we use such information. By using the Services, you agree to this policy. We may change or update this policy from time to time. Any updated policy shall be effective after it is posted.
 
-If you have any questions about this policy, write to 3417 Fremont Ave, Suite 400, Seattle, WA 98103 or send email to privacy[@]cardomain.com.
+If you have any questions about this policy, write to 849 S. Broadway, UNIT 802, Los Angeles, CA 90014 or send email to privacy[@]cardomain.com.
 
 * * *
 
@@ -65,3 +65,7 @@ From time to time we may need to disclose the information subject to this policy
 We use reasonable security measures to protect your Personal Information from unauthorized use and disclosure while in our control. We use Secure Socket Layer (SSL) encryption to protect certain Personal Information, such as credit card information, that is transmitted over the Internet. However, no security measures are perfect, and we cannot guarantee that any information we collect will be secure from unauthorized access or use.
 
 Our Services are not intended for children under the age of 16, or anyone who is under the age of majority who does not have the consent of their parent or legal guardian. We do not knowingly publish information for anyone under 16 years old through our Services. If you know of anyone under the age of 16 whose information is published through our Services, or have other concerns about children’s privacy, please write to us at childrensprivacy[@]cardomain.com.
+
+**Magnetic Media Online, Inc.**
+
+Note:  Magnetic Media Online, Inc. (“Magnetic”), a third party, uses cookies to collect General Information from you when you access the CarDomain Network’s websites and Services.  Magnetic may use this information in order to tailor advertisements on this and other websites about goods and services that might be of interest to you.  Magnetic may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. Magnetic does not collect personally identifiable information. For more information about how the information is collected and used by Magnetic, please see Magnetic’s privacy policy at <http://www.magnetic.is/consumer-privacy/>.  For opt-out instructions from Magnetic, please visit <http://domdex.com/w3c/optout.html>.  If you would like more information about this practice and to know your choices about not having this information used by Magnetic, click here: <http://www.networkadvertising.org/managing/opt_out.asp>
