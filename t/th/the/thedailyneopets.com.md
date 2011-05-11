@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailyneopets.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107064724id_/http%3A//www.thedailyneopets.com/tdn/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyneopets.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511213705id_/http%3A//www.thedailyneopets.com/tdn/privacy) for the most accurate reproduction.*
 
 # The Daily Neopets Privacy Policy | The Daily Neopets
 
@@ -12,7 +12,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect**
 
-No personal information will be ever collected without consent from the user. The only place where you will ever be asked to entered personal information is on our forums (tdnforums.com), our contact form, and when signing up for a tdnAccount. There, you will be asked to fill in your e-mail address and name (other personal information is optional).
+No personal information will be ever collected without consent from the user. The only place where you will ever be asked to entered personal information is on our forums (tdnforums.com), our contact form, and when signing up for a myTDN account. There, you will be asked to fill in your email address and name (other personal information is optional).
 
 **The Way We Use Information**
 
@@ -20,7 +20,7 @@ We use the information you provide about yourself when signing up only to regist
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-We will NEVER spam your email box with the email addresses we have in our databases, with the exception of extremely urgent announcements pertaining to TDN (we rarely send out email announcements at all though). For enhanced security, control, and privacy, you can easily disable email announcements in your account preferences.
+We will never spam your email with the email addresses we have in our databases. For enhanced security, control, and privacy, you can easily disable email announcements in your account preferences.
 
 **Cookies**
 
@@ -31,6 +31,10 @@ Cookies can only be "read" by their creators. For example, a cookie created by t
 **Our Commitment To Data Security**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Your data is safe with us and will not be stolen or sold.
+
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here ](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Other Terms**
 
