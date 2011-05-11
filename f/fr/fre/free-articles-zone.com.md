@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-articles-zone.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514103412id_/http%3A//www.free-articles-zone.com/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-articles-zone.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511160501id_/http%3A//www.free-articles-zone.com/Privacy_policy) for the most accurate reproduction.*
 
 # Free articles privacy policy
 
