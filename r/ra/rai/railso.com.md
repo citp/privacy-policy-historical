@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the railso.com privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105225954id_/http%3A//www.railso.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the railso.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511221909id_/http%3A//www.railso.com/privacy) for the most accurate reproduction.*
 
 # Privacy | RAILSO.COM
 
@@ -56,7 +56,7 @@ Your personal data that are collected via this application, may be handled by pe
 Persons to whom your data may be disclosed.  
 Your personal data may be disclosed to third parties to comply with legal requirements, to respect orders issued by public authorities or to exercise a legal right.  
 Data controller and process manager.  
-Data processing is controlled by the marketing office of so magazine srl and Blueape srl, with registered offices in via rail via san martino della battaglia, 5/a 25100 brescia, italy.
+Data processing is controlled by the marketing office of so magazine srl and Blue Ape srl, with registered offices in via rail via san martino della battaglia, 5/a 25100 brescia, italy.
 
   * [Printer-friendly version](https://web.archive.org/print/21 "Display a printer-friendly version of this page.")
   * [Send to friend](https://web.archive.org/printmail/21 "Send this page by e-mail.")
