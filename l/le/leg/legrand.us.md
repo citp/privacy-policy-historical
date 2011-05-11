@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the legrand.us privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212230500id_/http%3A//legrand.us/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legrand.us privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511173124id_/http%3A//www.legrand.us/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-#### Web Privacy Policy
+#### Privacy Policy
 
-Your privacy is important to Legrand North America, Inc. (LNA). This statement discloses the information practices for LNA Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. LNA Web sites include any and all Web sites of LNA's related companies, including but not limited to Cablofil Inc., Ortronics, Inc., Legrand Home Systems, Inc. (formerly OnQ Inc. and Vantage Controls, Inc.), Legrand Canada, Inc., The Watt Stopper, Inc., and The Wiremold Company. 
+Your privacy is important to Legrand North America, Inc. (LNA). This statement discloses the information practices for LNA Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared. LNA Web sites include any and all Web sites of LNA's related companies, including but not limited to Cablofil Inc., Ortronics, Inc., Legrand Home Systems, Inc. (formerly OnQ Inc. and Vantage Controls, Inc.), Legrand Canada, Inc., The Watt Stopper, Inc., The Wiremold Company, and BTicino US.
 
 ##### Personal information
 
