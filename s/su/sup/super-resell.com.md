@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the super-resell.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307031154id_/http%3A//www.super-resell.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the super-resell.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511052509id_/http%3A//www.super-resell.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Super-Resell - Largest Resell Rights Products Membership
 
