@@ -1,38 +1,54 @@
-> *The following text is extracted and transformed from the epltalk.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219014317id_/http%3A//www.epltalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epltalk.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511144155id_/http%3A//www.epltalk.com/privacy-policy) for the most accurate reproduction.*
 
 # EPL Talk Privacy Policy | EPL Talk
 
-[EPLTalk.com](http://www.epltalk.com/) respects your right to privacy, and we’ve created this Customer Privacy Policy (our “Privacy Policy”) to address these important issues. By visiting our Website, you are accepting the practices described in this Privacy Policy.
+EPL Talk knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-We will collect and use personally identifiable information in the following ways:
+This Privacy Policy covers EPL Talk’s treatment of personal information that EPL Talk gathers when you are on the EPL Talk website and when you use EPL Talk services. This policy does not apply to the practices of third parties that EPL Talk does not own or control, or to individuals that EPL Talk does not employ or manage.
 
-* [EPLTalk.com](http://www.epltalk.com/) may track aggregate user information (rather than personally identifiable information) to help us improve the user experience. For example, we may track the aggregate number of keystrokes and length of time it takes for on-line users to locate a news article, so we can streamline and improve the web experience.
+**Information Collected by EPL Talk  
+**We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our EPL Talk users:
 
-* [EPLTalk.com](http://www.epltalk.com/) contains links to other websites. We do not share your personal information with those websites and we are not responsible for their privacy practices. We encourage you to learn about the privacy policies of those other companies.
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
-* Our Website is not intended for, or directed to, anyone under the age of 13. Any person who provides personal information to Good through any part of the Website represents that they are at least 13 years of age or older.
+2\. Automatic Information:
 
-* Other Important Uses: We may disclose personal information if required by applicable law, if we have a good-faith belief that such disclosure is necessary to comply with legal process or public policy, or to protect the public, an individual’s personal safety, or the property or interests of EPL Talk. Under such circumstances, we may be prohibited from providing notice of the disclosure, and we reserve the right not to provide such notice in our sole discretion.
+  * We receive and store certain types of information whenever you interact with us. EPL Talk and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, EPL Talk cookie information, and the page you requested. EPL Talk uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+  * EPL Talk may collect and, on any page, display the total counts that page has been viewed.
+  * Many companies offer programs that help you to visit websites anonymously. While EPL Talk will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-* As our business evolves, EPL Talk may sell, transfer or otherwise share some or all of its assets, including personal information, in connection with a merger, reorganization, or sale of assets, or in the event of bankruptcy.
 
-Choice
 
-We want you to know that you can choose not to provide us with any information that identifies you personally. Each e-mail message that EPL Talk sends you for marketing purposes will give you the choice of “opting out” from receiving similar emails in the future. If you don’t opt out from receiving such future emails, we’ll assume that we can continue to contact you for marketing and related purposes. If you choose to provide us with information that identifies you personally, and you later want to change how we use that information, please let us know by sending an email to privacy@EPLtalk.com If you change your request regarding how we can use your personally identifiable information, we will honor your most recent request. Personal information you provide cannot currently be deleted entirely, but we will honor any request not to contact you further.
+**E-mail Communications  
+**EPL Talk is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. EPL Talk may send out e-mails with EPL Talk-related news, products, offers, surveys or promotions.
 
-Access and Accuracy
+**Cookies  
+**Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. EPL Talk cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-EPL Talk will use reasonable efforts to keep your personal information accurate. Please help us ensure that the information you provide is accurate and up-to-date, as it will help us serve you better. You can update your personally identifiable information by contacting us at privacy@EPLtalk.com
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of EPL Talk’s coolest features.
 
-Security
+EPL Talk’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
 
-EPL Talk has taken reasonable steps to secure the information you provide. For example, EPL Talk uses physical, electronic and administrative safeguards, including advanced firewall and password protection for our databases, which is designed to protect the security of data.
+**Sharing Your Information  
+**Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
 
-If you have any questions or concerns about this Privacy Policy, or if you believe that EPL Talk may not have followed this Privacy Policy, please contact us as soon as possible at privacy@EPLtalk.com and we will take commercially reasonable steps to address your issue.
+EPL Talk Personnel: EPL Talk personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of EPL Talk business.
 
-We may update this Privacy Policy from time to time, and if we do, we will notify you of changes by posting a notice on our Website. The changes will become effective when posted, and your continued use of any of our services, or the Website will signify your acceptance of the new terms. If you do not accept the changes, please immediately discontinue use of our services and the Website. Please check back frequently to review our Customer Privacy Policy and to stay informed about how we treat personally identifiable information that we collect.
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if EPL Talk, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
 
-This Customer Privacy Policy is effective November 11, 2005.
+Protection of EPL Talk and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of EPL Talk, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-  
+Syndication: EPL Talk allows for the RSS syndication of all of its public content within the EPL Talk website.  
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
+**Children Under 18 Years of Age**  
+You must be 13 years and older to register to use the EPL Talk website. As a result, EPL Talk does not specifically collect information about children. If we learn that EPL Talk has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using EPL Talk or sending information about themselves or anyone else over the Internet.
+
+**Changes to this  Privacy Policy **  
+EPL Talk may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to thePrivacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the EPL Talk website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+
+**Conditions of Use**  
+If you decide to visit EPL Talk website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+
+**Effective Date of this  Privacy Policy **  
+This Privacy Policy is effective as of November 30, 2005 and was last updated January 9, 2011.
