@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onbrazzers.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526020134id_/http%3A//www.onbrazzers.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onbrazzers.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511135443id_/http%3A//www.onbrazzers.com/privacy.html%3F) for the most accurate reproduction.*
 
-# OnBrazzers - Privacy Policy
+# OnBrazzers - Privacy
 
 [Home](http://www.onbrazzers.com/) / Privacy Policy
 
@@ -53,5 +53,3 @@ c/o Ariel Secretaries Limited
 1st Flr, Office 102  
 P.O. Box 57528  
 3316 Limassol - Cyprus
-
-OnBrazzers LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! OnBrazzers is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
