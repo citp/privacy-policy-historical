@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yourgiftzone.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228221936id_/http%3A//your-gift-zone.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D380name%26catalog_id%3D7680) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourgiftzone.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512012444id_/http%3A//your-gift-zone.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D380name%26catalog_id%3D7680) for the most accurate reproduction.*
 
 # Your-gift-zone
 
 **PRIVACY POLICY**
 
-**June 24, 2008**
+**March 22, 2011**
 
 **Our Commitment To Privacy**
 
@@ -24,15 +24,35 @@ The term "Information" is used in this policy to refer to both types of informat
 
 We use your Information to administer our business activities, provide customer services such as technical support, distribute information about changes to our site, and send you, and enable others to send you, information about products and services that may be of interest to you and to contact you or use your Information for any other purpose. We send communications to you ourselves, and your Information also is shared with other organizations that may contact you for any purpose by email, phone, text message, U.S. mail or any other means of communication.
 
+In addition to the information collected by us and registration information submitted by you, we may employ both first-party and third-party cookies. A cookie is a piece of data stored on your hard drive containing activity-based information about you, and it is designed to facilitate the receipt of targeted and relevant advertisements. The cookie is not associated with your personally identifiable information.
+
+One of our third-party cookie partners is Datran Media (for Datran Media’s privacy policy, please visit http://www.datranmedia.com/privacy/). To opt out of Datran Media’s cookie-based marketing program, click [here](http://rt.displaymarketplace.com/optout.html).
+
 **OPT-IN NOTICE: By Participating, You Expressly "Opt In" To Receive Information And Grant Us Permission To Share Your Information**
 
 By signing up for our Program you expressly opt in to receive future information about products and services from us and from a variety of advertisers to whom we may provide your Information. We will share your personal information with third parties, including our advertisers, for any reason we choose, including without limitation for the following purposes: (1) to operate our Program (including the transfer of the information to advertisers or to third parties who maintain on our behalf a list of persons having registered with our Program), (2) to permit advertisers or other third parties to use your Information for any purpose such as contacting you by email, phone, text message, U.S. mail or any other means of communication for any purpose, (3) to confirm you have completed all of the necessary steps to receive your gift, and (4) as we are required to do by law, including to notify the IRS that you received your gift. As a result, we will transfer your Information to third parties whose privacy policies and practices are beyond our control.
 
 In addition, in the event we consider a transaction involving the purchase or sale of our assets or stock, other companies may review our records, including your Information, to make business decisions about the transaction. Likewise, your Information may be transferred to third parties in the event of the sale or acquisition of our company or any of its assets. The parties who perform services for us (credit card processors, merchant banks, our internet service provider, etc.) also may have access to your information in performing their services.
 
+**_Special Offer Service Subscription and Express Consent to Receive Messages_**
+
+By accepting the terms and conditions of this website and providing your telephone number, you are subscribing to a Special Offer Service ("SOS"). SOS subscribers receive recorded telephone messages regarding various special product offers and purchase incentives, and are also automatically entered into the SOS Dial-4-Dollars Sweepstakes whenever they receive such calls. Subscribers are also eligible to receive additional awards and benefits. The service is free of charge. For more information regarding the SOS and its associated sweepstakes and/or contests, including applicable rules, please visit [www.specialofferservice.com](http://www.specialofferservice.com/). 
+
+_Recorded Calls_ :  By subscribing, you are providing your Express Written Consent to be contacted by Worldwide Commerce Associates ("WCA") via prerecorded telephone message(s) at the number you provide for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), and the Electronic Signatures in Global and National Commerce Act (15 USC §96), as amended from time to time. The calls you are agreeing to receive include special offers for goods and services offered by third parties through the SOS, which are not sold by or through WCA. You are subscribing to receive calls only from WCA, and only at the specific number(s) you have provided to us. Your consent will be effective if the number you have provided is a home, business, or cell phone, or if the number is registered on any state or federal Do-Not-Call (DNC) list as of the date of this consent. WCA reserves the right to refrain from calling any number registered on a DNC list in connection with its sweepstakes and any other promotion. This consent shall remain in effect until you revoke it by cancelling your subscription. 
+
+_E-Mail and SOS Messages_ : WCA does NOT send e-mail or text messages to SOS subscribers. If you receive offers via email or text please follow the unsubscribe instructions included therein. 
+
+_To unsubscribe_ : You may cancel your SOS subscription and revoke your consent to receive calls at any time by either (a) utilizing the opt-out procedure included in any message you receive; (b) by sending an e-mail that includes your telephone number to [optout@specialofferservice.com](mailto:optout@specialofferservice.com); (c) by calling 800-269-0281; or (d) by sending a written request to Worldwide Commerce Associates, **3651 Lindell Road, Suite D** **,** **Las Vegas Nevada 89103.**
+
+We may take a reasonable period of time (up to seven days) to process cancellation requests.  If you request -cancellation or modification of your subscription, such request may be retained for a period of time in our backup systems as a precaution against system failures. Some information may be retained for longer periods as required by law, contract or auditing requirements. 
+
 **Special Note About Information You Provide Directly To Our Advertisers.**
 
 You are able to access certain advertiser's sites through our site. When you opt to receive information or sign up for an offer from an advertiser, you may be doing so through third party sites and with other companies over which we have no control. You should read those sites' privacy policies to make sure you agree to them before using such sites. If you wish to opt out of those advertisers' mailings, you must do so directly with such advertisers or as otherwise provided on or through their sites.
+
+**Third Party Ad Servers.**
+
+We may serve advertisements within our Web Site either ourselves or by allowing other companies, called third-party ad servers or ad networks, to do so. In addition, some of our advertisers may use the services of third-party ad networks. Some of these third-party ad networks may place a persistent cookie on your computer. Doing this allows the third-party ad network to recognize your computer each time they send you an online advertisement. In this way, third-party ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows a third-party ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third-party ad servers or third-party ad networks. Those third-party ad networks that use persistent cookies may offer you a way to opt-out of ad targeting. You may find more information at the web site of either the individual third-party ad network or the Network Advertising Initiative (http://www.networkadvertising.org), Privacy Choice (http://www.privacychoice.org/choose), and Digital Advertising Alliance (http://www.aboutads.info/choices/). 
 
 **Security Of Your Information.**
 
@@ -40,7 +60,7 @@ We use reasonable technical efforts to prevent unauthorized access or disclosure
 
 **How You Can Choose To "Opt Out" Of Receiving Further Information About Products Or Services**
 
-If at any time you do not wish to receive further information about products or services from us and wish us to cease providing your Information to third parties, you may chose to "opt-out" through the Unsubscribe/"Opt-Out" page of our site or by written request sent by U.S. mail to our Customer Service Manager at the following address:
+If at any time you do not wish to receive further information about products or services from us and wish us to cease providing your Information to third parties, you may choose to "opt-out" through the Unsubscribe/"Opt-Out" page of our site or by written request sent by U.S. mail to our Customer Service Manager at the following address:
 
 Customer Service  
 13762 W. SR. 84, Suite 612  
@@ -58,4 +78,4 @@ If you are a California resident or another state with specific laws relating to
 
 PLEASE CHECK THIS PRIVACY POLICY PERIODICALLY FOR CHANGES AS WE RESERVE THE RIGHT TO REVISE THIS PRIVACY POLICY. SUCH REVISIONS TO THE PRIVACY POLICY SHALL TAKE EFFECT WHEN POSTED. YOUR CONTINUED USE OF OUR SERVICES THROUGH ANY COMMUNICATION CHANNEL FOLLOWING THE POSTING OF ANY CHANGES TO THE PRIVACY POLICY CONSTITUTES YOUR ACCEPTANCE OF SUCH CHANGES.
 
-**Customer Service Department :** 13762 W. SR. 84 • Suite 612 • Davie, FL 33325 • (954) 653-9350
+**Customer Service Department :** 13762 W. SR. 84 • Suite 612 • Davie, FL 33325 •
