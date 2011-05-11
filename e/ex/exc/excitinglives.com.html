@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the excitinglives.com privacy policy that was archived on 2010-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101012204738id_/http%3A//www.excitinglives.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the excitinglives.com privacy policy that was archived on 2011-05-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110511191110id_/http%3A//www.excitinglives.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en"><head>
 <title>Exciting Lives</title>
@@ -7,76 +7,143 @@
 
 <link rel="stylesheet" type="text/css" href="http://www.excitinglives.com/experience/includes/templates/rpl/css/stylesheet.css">
 
-</head>
+<script>
+function getsearchform() {
+	limits = document.searchingform.limit2.value;
+	if (limits == 0) { limit1 = 0; limit2 = 525; }
+	if (limits == 500) { limit1 = 475; limit2 = 1100; }
+	if (limits == 1000) { limit1 = 950; limit2 = 2200; }
+	if (limits == 2000) { limit1 = 1950; limit2 = 5250; }
+	if (limits == 5000) { limit1 = 4750; limit2 = 999999; }
+	if (limits == 99999) { limit1 = 0; limit2 = 999999; }
+	keyword = document.searchingform.keyword.value;
+	category = document.searchingform.category.value;
+	loc0 = 'http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&keyword=' + keyword + '&search_in_description=1&categories_id='+ category + '&inc_subcat=1&pfrom=' + limit1 + '&pto=' + limit2;
+	window.location= loc0;
+}
+</script></head>
 
 
 
 
-<body id="indexBody" style="background: #000000 url('http://www.exciting-lives.com/images/bg13cwg.jpg') no-repeat 50% 0;">
+
+<body id="indexBody" style="background: #000000 url('http://www.exciting-lives.com/images/bg2f.jpg') no-repeat 50% 0;">
 <center><img src="http://www.excitinglives.com/images/8206.gif" class="topborderimage" alt=""></center>
+
+
 
 <div id="mainWrapper">
 
-<table width="890" cellpadding="0" cellspacing="0" class="fadetext" bgcolor="#ffffff" border="0">
+<table width="890" cellpadding="0" cellspacing="0" class="fadetext" bgcolor="#ffffff" border="0" style="border-bottom:2px dashed #eee;">
 	<tbody><tr>
 		<td width="7">
 		</td>
-		<td width="86" align="left" valign="top">
-			<img src="http://www.excitinglives.com/images/topleft4.jpg" style="width:86px;height:68px;border:0px;" alt="Send gifts to India">
+		<td width="526" align="left" valign="top" class="biggertext">
+			&nbsp;India's Most Exciting Gifts &amp; Experiences
 		</td>
-		<td width="508" align="left" valign="top" height="69">
-			<a href="http://www.excitinglives.com"><img src="http://www.excitinglives.com/images/toplogonew.gif" style="width:440px;height:65px;border:0px;" alt="India's most exciting gifting website"></a>
-		</td>
-		<td width="279" align="right" valign="top">
-			<div class="helpbox2"><a href="http://www.excitinglives.com/contact.php" title="Help" class="linkred"><i>HELP!</i></a></div>
-				<a class="link1" href="http://www.excitinglives.com/experience/index.php?main_page=shopping_cart" title="Shopping Cart">Shopping Cart</a><br>
-				<a class="link1" href="http://www.excitinglives.com/experience/index.php?main_page=account_edit" title="My Account">My Account</a><br>
-				<a class="link1" href="http://www.excitinglives.com/giftguide.php" title="Gift Guide">Gift Guide</a><br>
-				<a class="link1" href="http://www.excitinglives.com/todaysgiftidea.php" title="What's New">What's New</a>
+		<td width="347" align="right" valign="top">
+			<a class="link1" href="http://www.excitinglives.com/experience/index.php?main_page=shopping_cart" title="Shopping Cart">Shopping Cart</a> &nbsp;
+			<a class="link1" href="http://www.excitinglives.com/experience/index.php?main_page=account_edit" title="My Account">My Account</a> &nbsp;
+			<a href="http://www.excitinglives.com/contact.php" class="helplink" style="text-decoration:none;color:#ff3300;"><i>HELP!</i></a>
 		</td>
 		<td width="10">
 		</td>
 	</tr>
 </tbody></table>
-
-
+<table width="890" cellpadding="0" cellspacing="0" class="fadetext" bgcolor="#ffffff" border="0">
+	<tbody><tr>
+		<td width="7">
+		</td>
+		<td width="526" align="left" valign="top" class="biggertext">
+			<a href="http://www.excitinglives.com"><img src="http://www.excitinglives.com/images/8463.gif" style="width:440px;height:41px;border:0px;margin-top:2px;" alt="India's most exciting gifting website"></a>
+		</td>
+		<td width="347" align="right" valign="bottom">
+			<form name="quick_find" action="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result" method="get">
+				<input type="hidden" name="main_page" value="advanced_search_result">
+				<input type="hidden" name="search_in_description" value="1">
+				<input type="text" name="keyword" class="inputdropdownwhite" maxlength="30" style="width:170px;" value=""><input type="submit" value="SEARCH!" name="submit" class="input2" style="background:#dd5533;">
+			</form>
+		</td>
+		<td width="10">
+		</td>
+	</tr>
+</tbody></table>
+<table width="890" cellpadding="0" cellspacing="0" class="fadetext" bgcolor="#ffffff" border="0">
+	<tbody><tr>
+		<td width="7">
+		</td>
+		<td>
+		<div class="high">
+			<a href="http://www.excitinglives.com" class="link1">GIFTS</a>
+		</div>
+		<div class="low">
+			<a href="http://www.excitinglives.com/reminderservice.php" class="link1">REMINDERS</a>
+		</div>
+		<div class="low">
+			<a href="http://www.excitinglives.com/blog/?cat=47" class="link1">ART OF GIFTING</a>
+		</div>
+		<div class="low">
+			<a href="http://www.excitinglives.com/giftregistry.php" class="link1">REGISTRY</a>
+		</div>
+		<div class="low">
+			<a href="http://www.excitinglives.com/corporate.php" class="link1">CORPORATE</a>
+		</div>
+		<div class="low">
+			<a href="http://www.excitinglives.com/signupinvite.php" class="link1">SPECIAL OFFERS</a>
+		</div>
+		<div class="low">
+			<a href="http://www.excitinglives.com/blog" class="link1">WHAT'S NEW!</a>
+		</div>
+		</td>
+	</tr>
+</tbody></table>
+<table width="890" cellpadding="0" cellspacing="0" class="fadetext" bgcolor="#eeeeee" border="0" style="border-bottom:3px solid #ccc;margin-bottom:3px;">
+	<tbody><tr>
+		
+		<td width="755" align="right">
+			<div style="width:650px;background:#ffffff;margin:5px 0 5px;border-left:2px dashed #ccc;border-right:2px dashed #ccc;border-bottom:1px solid #ccc;border-top:1px solid #ccc;">
+			<a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;keyword=mother"><img src="http://www.excitinglives.com/images/0mother.gif" class="img5050b" alt="Mother"></a>
+			<a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;keyword=father"><img src="http://www.excitinglives.com/images/0father.gif" class="img5050b" alt="Father"></a>
+			<a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;keyword=kids"><img src="http://www.excitinglives.com/images/0kids.gif" class="img5050b" alt="Kids"></a>
+			<a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;keyword=wife"><img src="http://www.excitinglives.com/images/0wife.gif" class="img5050b" alt="Wife"></a>
+			<a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;keyword=husband"><img src="http://www.excitinglives.com/images/0husband.gif" class="img5050b" alt="Husband"></a>
+			<a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;keyword=boss"><img src="http://www.excitinglives.com/images/0boss.gif" class="img5050b" alt="Boss"></a>
+			<a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;keyword=boyexp"><img src="http://www.excitinglives.com/images/0him.gif" class="img5050b" alt="Him"></a>
+			<a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;keyword=girlexp"><img src="http://www.excitinglives.com/images/0her.gif" class="img5050b" alt="Her"></a>
+			<a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;keyword=friends"><img src="http://www.excitinglives.com/images/0friends.gif" class="img5050b" alt="Friends"></a>
+			<a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;keyword=&amp;pfrom=0&amp;pto=999999"><img src="http://www.excitinglives.com/images/0me.gif" class="img5050b" alt="Me"></a>
+			</div>
+		</td>
+		<td width="5">
+		</td>
+		<td width="130" align="left" class="smallertext">
+			<a href="http://www.excitinglives.com/deliveredtoday.php" class="smallertext" style="color:#aaa;">Deliver Today</a><br>
+			<a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;search_in_description=1&amp;keyword=naughty" class="smallertext" style="color:#aaa;">Naughty Ideas</a><br>
+			<a href="http://www.excitinglives.com/giftguide.php" class="smallertext" style="color:#aaa;">More Options...</a>
+		</td>	</tr>
+</tbody></table>
 <div class="columnLeft">
 
 	<img src="http://www.excitinglives.com/images/0-topline160x5.gif" style="width:160px;height:5px;vertical-align:bottom;margin-top:10px;" alt="Find A Gift">
-	<div class="leftmenucover">
-		<form name="quick_find" action="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result" method="get">
-			<input type="hidden" name="main_page" value="advanced_search_result">
-			<input type="hidden" name="search_in_description" value="1">
-			<input type="text" name="keyword" style="width:65px;height:14px;border:1px solid #ccc;" maxlength="30" value=""><input type="submit" value="SEARCH" name="submit" class="input1" style="width:60px;">
-		</form>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;categories_id=&amp;inc_subcat=1&amp;pfrom=0&amp;pto=500&amp;x=33&amp;y=5" class="linktab">Up to Rs 500</a> </div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;categories_id=&amp;inc_subcat=1&amp;pfrom=501&amp;pto=2000&amp;x=33&amp;y=5" class="linktab">Rs 501 to 2000</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;categories_id=&amp;inc_subcat=1&amp;pfrom=2001&amp;pto=5000&amp;x=33&amp;y=5" class="linktab">Rs 2001 to 5000</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;categories_id=&amp;inc_subcat=1&amp;pfrom=5001&amp;pto=999999&amp;x=33&amp;y=5" class="linktab">Rs 5001 and above</a></div>
-		<div class="lefttabseparator"></div>
-		<div class="thicklefttab"><img src="http://www.excitinglives.com/images/0male.gif" class="img1616left"><a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;search_in_description=1&amp;keyword=boyexp" class="linktab">MEN'S GIFTS</a></div>
-		<div class="thicklefttab"><img src="http://www.excitinglives.com/images/0female.gif" class="img1616left"><a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;search_in_description=1&amp;keyword=girlexp" class="linktab">WOMEN'S GIFTS</a></div>	
-		<div class="lefttabseparator"></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=2" class="linktab">Action &amp; Adventure</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=3" class="linktab">Art &amp; Craft</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=5" class="linktab">Body &amp; Soul</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=7" class="linktab">Drinking</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=12" class="linktab">Fashion</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=11" class="linktab">Flowers &amp; Cake</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=14" class="linktab">Gadgets &amp; Games</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/makeawish.php" class="linktab">Giving</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=4" class="linktab">Kids</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=1" class="linktab">Midnight</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;search_in_description=1&amp;keyword=naughty" class="linktab">Naughty</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=19" class="linktab">Personalised</a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=8" class="linktab"><font color="#ff3300">Romance</font></a></div>
-		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=6" class="linktab">VIP</a></div>
-	</div>
-	<img src="http://www.excitinglives.com/images/0-bottomline160x5.gif" style="width:160px;height:5px;vertical-align:top;margin-bottom:5px;" alt="">
-		<a href="http://www.excitinglives.com/todaysgiftidea.php"><img src="http://www.excitinglives.com/images/8427.gif" style="width:79px;height:32px;border:0px;" alt="Become a fan on Facebook"></a><a href="http://www.excitinglives.com/giftguide.php"><img src="http://www.excitinglives.com/images/8428.gif" style="width:79px;height:32px;border:0px;" alt="Become a fan on Facebook"></a>
 
+	<div class="leftmenucover2">
+		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=5" class="linktab">Spa Gifts</a></div>
+		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=12" class="linktab">Fashion Gifts</a></div>
+		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=11" class="linktab">Flowers Wine Chocos</a></div>
+		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=2" class="linktab">Fun &amp; Adventure</a></div>
+		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=14" class="linktab">Gadgets &amp; Games</a></div>
+		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=1" class="linktab">Midnight Deliveries</a></div>
+		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;search_in_description=1&amp;keyword=naughty" class="linktab">Naughty Stuff</a></div>
+		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=19" class="linktab">Personalised Gifts</a></div>
+		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=8" class="linktab">Romantic Ideas</a></div>
+		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=3" class="linktab">Stuff For Home</a></div>
+		<div class="thicklefttab"><a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=6" class="linktab"><font color="red"><b>VIP</b></font></a></div>
+	</div>
+		<a href="http://www.excitinglives.com/deliveredtoday.php"><img src="http://www.excitinglives.com/images/8457.gif" style="width:93px;height:44px;margin-top:12px" alt="Delivery today"></a>
+		<br><br>
+		<a href="http://www.excitinglives.com/giftguide.php" class="smallertext" style="color:#aaa;">More Options</a>
 </div>
-	
+
 
 
 
@@ -137,50 +204,32 @@ If you have any questions about this privacy statement, the practices of this si
 
 <div class="columnRight">
 	<center>
-		<!--
-		<a href="http://www.facebook.com/pages/Exciting-Lives/14124334161?v=app_4949752878" target="_blank"><img src="http://www.excitinglives.com/images/8253.jpg" style="margin:0px 0 10px 0;width:270px;height:248px;" alt="Easy Win Contest" /></a>
-		-->
 
-		<a href="http://www.excitinglives.com/feedback.php">
-			<img src="http://www.excitinglives.com/images/8291.jpg" class="img27060" alt="Customer Feedback">
-		</a>
-
-		<a href="http://www.excitinglives.com/press.php">
-			<img src="http://www.excitinglives.com/images/0media.gif" class="img27060" alt="Times Of India Crest Magazine">
-		</a>
-		
-		<table width="270" cellpadding="0" cellspacing="0" style="border-top:2px solid #ccc;">
-			<tbody><tr>
-				<td width="100%" colspan="2">
-					<div class="thicktabsbigright"><a href="http://www.excitinglives.com/giftguide.php" class="link2">SEE WHAT OTHERS ARE BUYING!</a></div>
-					<div class="thicktabsbigright"><a href="http://www.excitinglives.com/reminderservice.php" class="link2">REMIND ME</a></div>
-					<div class="thicktabsbigright"><a href="http://www.excitinglives.com/magazine" class="link2">GIFTING TIPS</a></div>
-					<div class="thicktabsbigright"><a href="http://www.excitinglives.com/feedback.php" class="link2">CUSTOMER FEEDBACK</a></div>
-					<div class="thicktabsbigright"><a href="http://www.excitinglives.com/egift.php" class="link2">E-GIFT</a></div>
-					<div class="thicktabsbigright"><a href="http://www.excitinglives.com/corporate.php" class="link2">CORPORATE IDEAS</a></div>
-				</td>
-			</tr>
-		</tbody></table>
-<!--
-		
-		<div style="width:270px;height:27px;text-align:left;border:0px;background:#fff url('http://www.excitinglives.com/images/8401.gif');margin-top:14px;">
-			<form method="post" action="http://ymlp.com/subscribe.php?YMLPID=gujhemqgmgm" >
-			<input type="text" style="width:116px;margin:4px 0 0 43px;font-size:10px;color:#999;border:1px solid #aaa;" value="Enter email for updates" name="YMP0" onfocus="this.value=''" />
-			<input type="submit" value="Subscribe" class="input1" style="margin:4px 0'" />
-			</form>
-		</div>
-		<a href="http://www.facebook.com/pages/Exciting-Lives/14124334161" target="_blank">
-			<img src="http://www.excitinglives.com/images/8292.jpg" class="img27060" alt="Exciting Lives on Facebook" /></a>
-		</a>
+	<div style="width:270px;height:54px;border:1px solid #eee;margin-bottom:15px;padding:0px;">
+	<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FExciting-Lives%2F14124334161&amp;width=270&amp;colorscheme=light&amp;connections=0&amp;stream=false&amp;header=false&amp;height=427" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:270px; height:54px;" allowtransparency="true">
+	</iframe>
+	</div>
+<!--	<a href="http://www.excitinglives.com/c/k.php?id=3">
+		<img src="http://www.excitinglives.com/images/8470.gif" class="img270120" alt="Win An iPad" />
+	</a>
 -->
-		
-		<br>
-		<a href="http://www.facebook.com/pages/Exciting-Lives/14124334161" target="_blank"><img src="http://www.excitinglives.com/images/8366.gif" style="width:148px;height:32px;border:0px;" alt="Become a fan on Facebook"></a><a href="http://www.twitter.com/excitinglives" target="_blank"><img src="http://www.excitinglives.com/images/8367.gif" style="width:122px;height:32px;border:0px;" alt="Follow us on Twitter"></a>
-		<br><br>
-		<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FExciting-Lives%2F14124334161&amp;width=270&amp;connections=4&amp;stream=false&amp;header=false&amp;height=178" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:270px; height:255px;" allowtransparency="true"></iframe>
+	<a href="http://www.excitinglives.com/feedback.php">
+		<img src="http://www.excitinglives.com/images/8291.jpg" class="img27060" alt="Customer Feedback">
+	</a>
+	<a href="http://www.excitinglives.com/experience/index.php?main_page=product_info&amp;products_id=54"><img src="http://www.excitinglives.com/images/id54b.jpg" class="img270200" alt="Holiday Gift"></a>
 
-		
-	</center>		
+
+	<div style="width:270px;height:27px;text-align:left;border:0px;background:#fff url('http://www.excitinglives.com/images/8401.gif');margin-bottom:10px;">
+		<form method="post" action="http://ymlp.com/subscribe.php?YMLPID=gujhemqgmgm">
+		<input type="text" style="width:116px;margin:4px 0 0 43px;font-size:10px;color:#999;border:1px solid #aaa;" value="Enter email for updates" name="YMP0" onfocus="this.value=''">
+		<input type="submit" value="Subscribe" class="input1" style="margin:4px 0'">
+		</form>
+	</div>
+	
+	<a href="http://www.facebook.com/pages/Exciting-Lives/14124334161" target="_blank"><img src="http://www.excitinglives.com/images/8366.gif" style="width:148px;height:32px;border:0px;" alt="Become a fan on Facebook"></a><a href="http://www.twitter.com/excitinglives" target="_blank"><img src="http://www.excitinglives.com/images/8367.gif" style="width:122px;height:32px;border:0px;" alt="Follow us on Twitter"></a>
+	</center>
+	
+
 </div>
 
 <br clear="all"><br>
@@ -198,49 +247,51 @@ If you have any questions about this privacy statement, the practices of this si
 <tr>
 	<td width="10"></td>
 	<td width="215" valign="top" align="left">
-		CATEGORIES:
-		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=3" class="link3">Art &amp; Culture</a> | 
-		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=1" class="link3">Midnight</a> | 
-		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=5" class="link3">Body &amp; Soul</a> | 
-		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=4" class="link3">Kids</a> | 
-		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=2" class="link3">Action</a> | 
-		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=12" class="link3">Fashion</a> | 
-		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=14" class="link3">Home</a> | 
-		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=7" class="link3">Food &amp; Drink</a> | 
-		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=8" class="link3">Romance</a> | 
-		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=11" class="link3">Flowers</a> | 
-		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=6" class="link3">VIP</a> | 
-		
-		<a href="giftguide.php" class="link3">Gift Guide</a> | 
-		<a href="allproducts.php" class="link3">All Listings</a> | 
-		<a href="http://www.excitinglives.com/weddinggiftsindia.php" class="link3">Wedding Gifts</a> |
-		<a href="http://www.excitinglives.com/midnightdeliveryofflowers.php" class="link3">Midnight Deliveries</a> | 
-		<a href="sendflowerstoindia.php" class="link3">Send Flowers To India</a>
-	</td>
-	<td width="15"></td>
-	<td width="215" valign="top" align="left">
-		COOL STUFF: 
-		<a href="http://www.excitinglives.com/reminderservice.php" class="link3">Remind Me</a> | 
-		<a href="http://www.excitinglives.com/todaysgiftidea.php" class="link3">Today's Gift Idea</a> | 
-		<a href="http://www.excitinglives.com/receivedagift.php" class="link3">Received A Gift?</a> | 
+		WHAT WE'VE GOT: 
+		<a href="giftguide.php" class="link3">Gifts</a> | 
+		<a href="http://www.excitinglives.com/reminderservice.php" class="link3">Reminder Service</a> | 
+		<a href="http://www.excitinglives.com/blog/?cat=47" class="link3">Art Of Gifting</a> | 
+		<a href="http://www.excitinglives.com/corporate.php" class="link3">Corporate Ideas</a> | 
+		<a href="http://www.excitinglives.com/blog" class="link3">What's New</a> | 
 		<a href="http://www.excitinglives.com/futuregifts.php" class="link3">Future Gifting</a> | 
 		<a href="http://www.excitinglives.com/sample.php" class="link3">Gift Pack</a> | 
 		<a href="http://www.excitinglives.com/egift.php" class="link3">E-Gift</a> | 
-		<a href="http://www.facebook.com/pages/Exciting-Lives/14124334161" class="link3" target="_blank">EL On Facebook</a> | 
-		<a href="http://www.excitinglives.com/experience/index.php?main_page=product_info&amp;products_id=517" class="link3">3D TShirts</a> |
 		<a href="http://www.excitinglives.com/signupinvite.php" class="link3">Special Offers</a>
+	</td>
+	<td width="15"></td>
+	<td width="215" valign="top" align="left">
+		GIFT CATEGORIES:
+		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=2" class="link3">Action &amp; Adventure</a> |
+		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=5" class="link3">Body &amp; Soul</a> |
+		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=7" class="link3">Drinking</a> |
+		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=12" class="link3">Fashion</a> |
+		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=11" class="link3">Flowers &amp; Cake</a> |
+		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=14" class="link3">Gadgets &amp; Games</a> |
+		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=3" class="link3">Home &amp; Accessories</a> |
+		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=1" class="link3">Midnight</a> |
+		<a href="http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&amp;search_in_description=1&amp;keyword=naughty" class="link3">Naughty</a> |
+		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=19" class="link3">Personalised</a> |
+		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=8" class="link3">Romance</a> |
+		<a href="http://www.excitinglives.com/experience/index.php?main_page=index&amp;cPath=6" class="link3">VIP</a> |
+		
+		<a href="http://www.excitinglives.com/giftguide.php" class="link3">Gift Guide</a> | 
+		<a href="http://www.excitinglives.com/allproducts.php" class="link3">All Listings</a> | 
+		<a href="http://www.excitinglives.com/weddinggiftsindia.php" class="link3">Wedding Gifts</a> |
+		<a href="http://www.excitinglives.com/birthdaygiftsindia.php" class="link3">Birthday Gifts</a> |
+		<a href="http://www.excitinglives.com/anniversarygiftsindia.php" class="link3">Anniversary Gifts</a> |
+		<a href="http://www.excitinglives.com/sendflowerstoindia.php" class="link3">Send Flowers To India</a>
+		<br><br>
 	</td>
 	<td width="15"></td>
 	<td width="215" valign="top" align="left">
 		MORE INFO: 
 		<a href="http://www.excitinglives.com/about.php" class="link3">About Us</a> | 
-		<a href="http://www.excitinglives.com/corporate.php" class="link3">Corporate</a> | 
 		<a href="http://www.excitinglives.com/press.php" class="link3">Media Coverage</a> | 
-		<a href="http://www.excitinglives.com/affiliateprogram.php" class="link3">Affiliate Program</a> | 
+		<a href="http://www.excitinglives.com/corporate.php" class="link3">Corporate</a> | 
 		<a href="http://www.excitinglives.com/jobs.php" class="link3">Jobs</a> | 
 		<a href="http://www.excitinglives.com/feedback.php" class="link3">Customer Feedback</a> | 
-		<a href="http://www.excitinglives.com/suggest.php" class="link3">Partner With Us</a> | 
-		<a href="http://www.excitinglives.com/schedule.php" class="link3">Experiences Schedule</a>
+		<a href="http://www.excitinglives.com/contact.php" class="link3">Partner With Us</a> | 
+		<a href="http://www.facebook.com/pages/Exciting-Lives/14124334161" class="link3" target="_blank">EL On Facebook</a> | 
 	</td>
 	<td width="15"></td>
 	<td width="145" valign="top" align="left">
@@ -250,14 +301,16 @@ If you have any questions about this privacy statement, the practices of this si
 	</td>
 	<td width="10"></td>
 </tr>
-<tr><td colspan="10" align="center" valign="center">© Copyright 2009 GA Media Pvt Ltd | 
+<tr>
+	<td colspan="10" align="center" valign="center">© Copyright 2011 GA Media Pvt Ltd | 
 		<a href="http://www.excitinglives.com/privacy.php">Privacy Policy</a> | 
 		<a href="http://www.excitinglives.com/terms.php">Terms Of Use</a> | 
-
-</td></tr>
+	</td>
+</tr>
 </tbody></table>
 	
 </div>
+
 
 
 <!-- Start of StatCounter Code -->
@@ -291,6 +344,9 @@ var google_conversion_color = "FFFFFF";
 _uacct = "UA-2201212-1";
 urchinTracker();
 </script>
+
+
+
 
 
 </body></html>
