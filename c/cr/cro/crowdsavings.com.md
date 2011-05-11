@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the crowdsavings.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229144231id_/http%3A//www.crowdsavings.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdsavings.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511113316id_/http%3A//www.crowdsavings.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Crowd Savings.com
 
 ### Privacy Policy
 
-**Last Updated:** _December 1st, 2009_
+To unsubscribe: [http://www.crowdsavings.com/unsubscribe](https://web.archive.org/unsubscribe)
+
+**Last Updated:** _February 18th, 2011_
 
 This Privacy Policy discloses the privacy practices of CrowdSavings, LLC, a Delaware limited liability company (“CrowdSavings” or “us” or “we”), with respect to the _www.crowdsavings.com_ website, any subdomains of _www.crowdsavings.com_ , and any other website pages on which services are provided by us (collectively, the “Site”). Our Terms and Conditions governs your use of the Site and our online services (including any content or information therein).
 
@@ -12,7 +14,7 @@ Our Privacy Policy was developed as an extension of our commitment to combine qu
 
 Please read the Terms and Conditions and this Privacy Policy carefully. Our Terms and Conditions and Privacy Policy may be modified by us from time to time. Any modifications we make will be effective immediately upon posting to the Site and the effective date of the latest version of the Privacy Policy will appear on this page. It is your responsibility to regularly check the Site to determine if there have been changes to the Terms and Conditions or the Privacy Policy and to review the changes.
 
-To ask us questions or offer comments, please send us an email to [privacy@crowdsavings.com](mailto:privacy@crowdsavings.com). 
+To ask us questions or offer comments, please send us an email to [support@crowdsavings.com](mailto:support@crowdsavings.com). 
 
 #### 1\. What Information Do We Collect?
 
@@ -46,7 +48,9 @@ We use Third Party Service Providers to track and analyze Non-Personally Identif
 
 “Administrative Emails” relate to a User’s activity on the Site, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services.
 
-“Promotional Emails” advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Affiliated Restaurants, Affiliated Businesses, advertisers and Affiliates. Promotional Emails are sent to Users who register with us and have not opted-out of receiving Promotional Emails. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at [privacy@crowdsavings.com](mailto:privacy@crowdsavings.com), by writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
+“Promotional Emails” advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Affiliated Restaurants, Affiliated Businesses, advertisers and Affiliates. Promotional Emails are sent to Users who register with us and have not opted-out of receiving Promotional Emails. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive.
+
+To unsubscribe: [http://www.crowdsavings.com/unsubscribe](https://web.archive.org/unsubscribe)
 
 #### 5\. Security of Information.
 
@@ -67,18 +71,18 @@ In an effort to prevent unauthorized access, disclosure or accidental loss of yo
 California law permits visitors who are California residents to request certain information regarding our disclosure of personally identifiable information to third parties for their direct marketing purposes. To make such a request, please contact us at:
 
 **Privacy - California**  
-5405 Cypress Center Drive  
-Suite 210  
-Tampa, Florida 33609 
+5405 Cypress Center Drive, Suite 210  
+Tampa, Florida 33609  
+(800) 285-3499 
 
 #### 9\. Contacting Us.
 
-If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to [privacy@crowdsavings.com](mailto:privacy@crowdsavings.com).
+If you desire not to receive information about products or services we think may be of interest to you or if you wish to access, delete or correct you information, please send us an email to [support@crowdsavings.com](mailto:support@crowdsavings.com).
 
 If you have questions or concerns about our collection, use or disclosure of your personally identifiable information, please write to us at:
 
 **Privacy**  
-5405 Cypress Center Drive  
-Suite 210  
-Tampa, Florida 33609    
+5405 Cypress Center Drive, Suite 210  
+Tampa, Florida 33609  
+(800) 285-3499    
 
