@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bdm.qld.gov.au privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226183951id_/http%3A//www.justice.qld.gov.au/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdm.qld.gov.au privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511205059id_/http%3A//www.justice.qld.gov.au/global/privacy) for the most accurate reproduction.*
 
-# Privacy - Department of Justice and Attorney-General
+# Privacy
 
 
 
@@ -61,5 +61,3 @@ It helps if you provide as much information as possible about the document you a
 If your application is for non-personal information, you will pay a $38 application fee and processing and access charges may apply.
 
 You can also submit a [Information Privacy Personal Information Amendment Application](http://www.rti.qld.gov.au/downloads/Information%20Privacy%20Personal%20Information%20Amendment%20Application.pdf) under the IP Act if you believe the information is inaccurate, incomplete, out of date or misleading.
-
-Date created: 2009-12-02; Last published: 9 June 2010; Last updated: 25 October 2010
