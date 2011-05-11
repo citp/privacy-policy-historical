@@ -1,91 +1,100 @@
-> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2010-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100724233932id_/http%3A//www.cit.com/utility/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cit.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511130008id_/http%3A//www.cit.com/utility/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # 
 
   
 
 
-cit.com Privacy Policy
+CIT Online Privacy Practices Policy: US
 
-**Last Updated: September 27, 2004**
+**Last Updated: September 15, 2010**
 
-## 1\. INTRODUCTION 
+**Introduction**
 
-CIT Group Inc. and its affiliates (collectively "CIT" or "we") will treat personal data that you provide through this website ("site") according to this privacy policy, which is consistent with our treatment of personal data that you provide offline to us or to our brokers and dealers. By visiting our site, you agree to be bound by this policy.
+CIT Group Inc. and its affiliates (collectively "CIT," "we," "us," or "our") respect your privacy and we are committed to treating and using personal information about you responsibly. 
 
-## 2\. FOREIGN VISITORS 
+This Online Privacy Policy ("Policy") explains CIT's online practices to collect, use and share personal information from or about you when you visit this site and any CIT site that links to this Policy, except as otherwise provided in this Policy. Throughout this Policy, we refer to the nonpublic personal information that identifies you or your accounts as "personal information." "Personal information" includes information about you that is personally identifiable, such as your name, address, email address, or phone number and other information that is not otherwise publicly available (such as your date of birth, Social Security number and financial information). This Policy does not apply to information collected by CIT from its customers to password-protected sections of this or any other CIT site unless such password-protected section has a Privacy button or tab that links to this Policy. Please read this Policy carefully. When you visit this site you consent to the terms of this Policy and the information described herein.
 
-If you are visiting this site from outside the United States, please do not provide any personal data through this site or by e-mail, as this privacy policy may not comply with your local law.
+**Information we collect**
 
-## 3\. CHILDREN 
+We collect personal information from and about you in order to identify you as our customer, establish and manage customer accounts, complete customer transactions, understand customer needs, market products and services, and comply with legal and regulatory requirements.
 
-This website is not intended for visitors under 18 years of age. We do not knowingly solicit or collect personal data from or about children, nor do we knowingly market our products or services to children. 
+We may also collect personal information from you if you: 
 
-## 4\. PERSONAL DATA WE COLLECT FROM VISITORS 
+(1) apply for employment through this site (which may include your name, address, references and employment history); 
 
-Personal data identifies an individual, for example by name, address, telephone number, or e-mail address. We may collect the following types of data: (1) if you apply for a job, your name, address, references, and employment history; (2) if you apply for credit, your name, address, social security number, credit history, and financial information, directly or through one of our brokers or dealers; (3) if you use this site to check the status of your account, your name, account number, and other information, such as a password, to verify your identity; and (4) if you send us e-mail or request information, your name, email address, and any other personal data you supply in your message.
+(2) use this site to check the status of your accounts (such as your name, account number and log-in password); and 
 
-## 5\. OTHER DATA WE AUTOMATICALLY COLLECT 
+(3) send us an e-mail to inquire about your account or to request information (such as your name, email address and any other personal information you supply in your message.)
 
-When you visit the site, CIT automatically collects certain non-personal data by various means, one of which is "cookies." A cookie is an alphanumeric string of text (a unique identifier) that our web-server stores in your computer by means of your web-browser. The cookie allows us to recognize your computer when you revisit our site. We can then improve your use of the site, for example by providing quick log-in, displaying only web pages that interest you, and saving you from retyping information in a form. Cookies also allow us to analyze aggregate traffic on the site, in order to streamline navigation and keep the content fresh for all visitors. You can configure your browser to reject cookies, but doing so may disable some of our site's features. Cookies do not contain personal data, nor can they read or transmit any data on your computer's hard drive. They can, nonetheless, be combined with personal data that you knowingly provide, to create a profile. CIT does not use cookies in this manner without your express consent.
+**Information we automatically collect**
 
-Regardless of cookies, all web-browsers transmit the IP address of the computer on which they are running (so that the web-server knows where to send the requested web page). We analyze IP addresses only in extraordinary circumstances to attempt to track hackers.
+When you visit the CIT site, we automatically collect certain non-personal information, such as "cookies." A cookie is unique identifier that allows us to recognize your computer each time you visit our site. Cookies can help us improve your use of our site, for example, by providing quick log-in, streamline navigation and maintain up-to-date content for all users. Should you configure your browser to reject cookies, you may disable some of our site's features. Cookies neither contain personal information nor can they read or transmit any data on your computer's hard drive. 
 
-## 6\. HOW WE USE THE DATA WE COLLECT 
+**Children**
 
-We may use the data that you provide as follows: (1) if you apply for a job, to consider you for the position and to contact references; (2) if you apply for credit, to assess your credit-worthiness (including retrieving credit reports) and to approve or reject your application; (3) if you check the status of your account, to respond to your inquiry; (4) if you send us e-mail or request information, to reply to your request. We may also use the data that you provide to help us improve the content and function of this or other sites, to better understand our customers and markets, to improve our products and services, to enhance our marketing and promotional efforts, to improve product offerings, and to later contact you, electronically or otherwise, about products or services that we believe will interest you. If required by law, such communications will explain how to "opt out" of receiving future communications. You cannot opt out of receiving communications about your account, such as service announcements and administrative notices.
+CIT operates general audience web sites that are accessible by the public. This website is not intended for visitors under 18 years of age. We do not knowingly solicit or collect personal information from or about children, nor do we knowingly market our products or services to children.
 
-## 7\. SHARING DATA 
+**Foreign non-United States users**
 
-CIT may share data that you provide under the following circumstances:
+If you are visiting this site from outside the United States, please do not provide any personal information through this site or by email, as this Privacy Policy may not comply with your local law. Please consult CIT websites established in your jurisdiction instead. For CIT Privacy Policies that apply to non-US locations, click here.
 
-**a. Affiliates**
+**How we use the information we collect**
 
-1\. We may share your name, address, and information about your transactions and experiences with us (such as your payment history or other facts about your account) with our affiliates.
+We may use the personal information that you provide to us as follows: 
 
-2\. We may also share other personal data that you provide with our affiliates in order to provide you with information about products or services that may interest you.
+(1) if you apply for a job, to consider you for the position and to contact references; or
 
-**     **  **Option for our Consumer Customers:** If you are a consumer (as opposed to commercial) customer of CIT, you may direct us not to share, except as permitted by law, personal data other than your name, address and information about your transactions and experiences with us with our affiliates by selecting that choice on the attached form and submitting it to us.
+(2) if you apply for credit, to assess your credit-worthiness including retrieving credit reports and to approve or reject your application; or 
 
-**b. Agents and Service Providers -** In order to establish, administer, and manage our customers' accounts, evaluate credit, provide customer service and benefits, process account transactions and account statements, conduct research and analysis, or process job applications, we may disclose personal data to companies that work with us to perform services or business operations on our behalf. We may also share personal data with companies that perform marketing services on our behalf, or with other financial institutions (including insurance companies) with whom we have joint marketing agreements.
+(3) to respond to inquiries you may have about your account and other related matters; or 
 
-**c. Third Parties (Disclosures Permitted or Required by Law)** \- In certain instances, we are permitted or even required to disclose your personal data to third parties. Examples of this type of permitted disclosure are reporting information about your transactions with us to credit reporting agencies, responding to regulators or auditors, protecting against fraud, or providing information in connection with proposed or actual business transactions involving our companies or accounts. We may also disclose your personal data to third parties when legally compelled to do so, or when we believe that such disclosure is appropriate to comply with the law, to enforce our terms of use, or to protect the rights, property, or safety of CIT, its employees, customers, visitors to the site, and others. Please be aware that these disclosures are permitted by law without your consent.
+(4) if you send us an email for information, to reply to your request.
 
-**d. Business Transfers** \- As we develop our business, we may sell or buy businesses or assets, or be involved in mergers or other corporate reorganization. In transactions such as these, your personal data may be one of the transferred business assets.
+We may also use the personal information that you provide to help us improve the content and function of this or other CIT sites, better understand our customers and markets, improve our products and services, enhance our marketing efforts, improve our product offerings, and to later contact you, electronically or otherwise, about products or services that we believe may interest you. 
 
-**e. Other Third Parties (Optional Disclosures)** \- We may also share, as permitted by law, your personal data with other third parties with whom we do not have joint marketing agreements, such as other financial service providers, insurance companies, or non-financial companies such as service organizations, retailers, travel services or direct marketers. These companies may wish to provide you with information about products or services that may interest you.
+**How we may share information you provide to us**
 
-     
+CIT may share personal information that you provide under the following circumstances:
 
- **Option for our Consumer Customers** : If you are a consumer (as opposed to commercial) customer of CIT, you may direct us not to share personal data with other third parties, except as permitted by law, by sending an e-mail to 
+o **Affiliates:** We may share your name, address and information about your transactions and experiences with us (such as your payment history or other facts about your account) with our affiliates.
 
-[US.Privacy@cit.com](mailto:US.Privacy@cit.com).
+o **Agents and Service Providers:** To establish, administer, and manage our customers' accounts, evaluate credit, provide customer service and benefits, process account transactions and account statements, or process job applications, we may disclose your personal information to companies that work with us to perform services or business operations on our behalf. We may also share your personal information with companies that perform marketing services on our behalf, or with other financial institutions (including insurance companies) with who we have joint marketing agreements.
 
-##   
-8\. SECURITY 
+o **Non-Affiliated Third Parties:** In certain instances, we are permitted or even required to disclose your personal information to non-affiliated third parties. For example, reporting your transaction history and information with us to credit reporting agencies, responding to regulators or auditors, to protect against fraud, or to provide information in connection with proposed or actual business transactions involving CIT companies or accounts. We may also disclose your personal information to third parties when legally compelled to do so, such as to comply with the law, enforce our terms of use, or to protect the rights, property or safety of CIT, its employees, customers, visitors to this site, and others. Please be aware that these disclosures are permitted by law without your consent.
 
-CIT uses reasonable measures to protect personal data from unauthorized access, deletion, or alteration. Any information you provide on a CIT form (such as a job or credit application) is encrypted. Any personal information that CIT transmits to you at your request (such as your account balance) is encrypted. E-mail communications are not encrypted. Therefore you should not send any personal data by e-mail. CIT will never send you e-mail requesting personal data.
+o **Other Third Parties:** We may also share, as permitted by law, your personal information with other third parties with whom we do not have joint marketing agreements, such as other financial services providers, insurance companies, or with non-financial companies such as service organizations, retailers, travel services and direct marketers. We require these companies to adhere to CIT's confidentiality standards with respect to your Personal Information.
 
-##   
-9\. PUBLIC AREAS 
+o **USA Patriot Act Section 326 Compliance:** When you open an account with us, we will ask for your name, address, and other identifying documents such as your driver's license that will allow us to identify you. We do this to help the government fight the funding of terrorism and money laundering activities. US Federal law requires all financial institutions to obtain, verify and record information that identifies each person who opens an account.
 
-CIT does not control and is not responsible for other visitors' treatment of information that you post on public areas of the site. For example, such information may be collected and used by others for their own purposes, including sending you unsolicited e-mail.
+o **Business Transfers:** As we develop our business, we may sell or buy businesses or assets, or be involved in mergers or other corporate reorganization. In transactions such as these, your personal information may be shared in connection with any of the foregoing types of transactions.
 
-##   
-10\. YOUR ACCESS TO PERSONAL DATA 
+**How we protect the confidentiality and security of your personal information**
 
-If you wish to review, correct, or remove personal data that you provided to CIT, please send e-mail to 
+CIT uses reasonable measures to protect personal information from unauthorized access, deletion or alteration. In addition, we have physical, electronic, and procedural safeguards that comply with federal and state regulations to protect your personal information. As part of our security practices, CIT does not send requests for personal information from our customers that requests personal information. Certain personal information that CIT transmits to you by email at your request, such as your account balance, is encrypted. Standard email communications are not encrypted. Therefore, you should not transmit your personal information to us through email. 
 
-[US.Privacy@cit.com.](mailto:US.Privacy@cit.com.)
+**Online Security Tips**
 
-##   
-11\. LINKS 
+CIT is committed to ensuring the security of the websites it operates and our systems. We also feel that you, as the end-user, should also ensure that you are adequately protected when you use the Internet. To that end, we recommend the following security best practices:
 
-This site may have hyperlinks to or pop-up windows from other websites. CIT is not responsible for their content or privacy practices. We urge you to review the privacy policy of any website that you visit.
+o Install anti-virus, anti-spyware and other internet security software on your PC. Use it regularly and keep it up-to-date.
 
-##   
-12\. NOTICES AND REVISIONS 
+o Regularly update your PC's operating system and Web browser software with the vendor's software patches and updates to protect your PC against known vulnerabilities.
 
-CIT may revise this privacy policy from time to time. You should periodically check the revision date at the top of the webpage to learn of any revisions. Your use of the website at any time is deemed acceptance of the privacy policy then in effect. If you have questions about this privacy policy, please send e-mail to 
+o Do what you can to prevent unauthorized people from using your PC.
 
-[US.Privacy@cit.com](mailto:US.Privacy@cit.com).
+o Change your passwords often.
+
+o If you notice suspicious activity in your accounts, report it immediately to the appropriate parties.
+
+o Do not download or open any attachments sent to you by unsolicited email as they may contain malicious programs that can compromise your PC's security, once opened.
+
+o Be on the alert for phishing scams that ask for your personal information for fraudulent purposes. Access web sites by typing the web addresses directly into your web browser or by using web addresses you have bookmarked, instead of via embedded links in unsolicited emails.
+
+**Changes to this Privacy Policy**
+
+CIT may update this Policy from time to time. You should periodically check the effective date at the top of this webpage to be sure that you are aware of the most recent version of this Policy and the important information described in it.
+
+If you have questions about this Online Privacy Policy, please e-mail us at 
+
+[privacy.questions@cit.com](mailto:privacy.questions@cit.com).
