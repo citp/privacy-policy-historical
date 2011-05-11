@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketdivision.com privacy policy that was archived on 2010-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100504165217id_/http%3A//www.rocketdivision.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketdivision.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511194925id_/http%3A//www.rocketdivision.com/privacy.html) for the most accurate reproduction.*
 
 # :: RocketDivision :: CD/DVD/Blu-Ray/HD-DVD recording, iSCSI and AoE (ATA-over-Ethernet)
 
@@ -39,24 +39,22 @@ Download / Order
   
 
 
-[StarWind](https://web.archive.org/web/20100504165217id_/http%3A//www.rocketdivision.com/download_starwind.html)
+[StarWind](https://web.archive.org/web/20110511194925id_/http%3A//www.rocketdivision.com/download_starwind.html)
 
-[StarPort](https://web.archive.org/web/20100504165217id_/http%3A//www.rocketdivision.com/download_starport.html)
+[StarBurn](https://web.archive.org/web/20110511194925id_/http%3A//www.rocketdivision.com/download_starburn.html)
 
-[StarBurn](https://web.archive.org/web/20100504165217id_/http%3A//www.rocketdivision.com/download_starburn.html)
-
-[StarBurn SDK](https://web.archive.org/web/20100504165217id_/http%3A//www.rocketdivision.com/download_starburn_sdk.html)  
+[StarBurn SDK](https://web.archive.org/web/20110511194925id_/http%3A//www.rocketdivision.com/download_starburn_sdk.html)  
   
 News  
 
 
-[StarBurn SDK V12 'Trident II' released.](https://web.archive.org/web/20100504165217id_/http%3A//www.rocketdivision.com/news.html)  
+[StarBurn SDK V12 'Trident II' released.](https://web.archive.org/web/20110511194925id_/http%3A//www.rocketdivision.com/news.html)  
 StarBurn SDK V12 'Trident II' is now available.
 
-[StarBurn Software Announces Spin-off from Rocket Division Inc.](https://web.archive.org/web/20100504165217id_/http%3A//www.rocketdivision.com/news.html)  
+[StarBurn Software Announces Spin-off from Rocket Division Inc.](https://web.archive.org/web/20110511194925id_/http%3A//www.rocketdivision.com/news.html)  
 StarBurn Software Ltd., a provider of CD, DVD and Blu-Ray optical media solutions and technology, today announced their spin-off from Rocket Division Ltd.
 
-[>>>](https://web.archive.org/web/20100504165217id_/http%3A//www.rocketdivision.com/news.html)  
+[>>>](https://web.archive.org/web/20110511194925id_/http%3A//www.rocketdivision.com/news.html)  
   
 Partners  
 
@@ -65,7 +63,7 @@ Partners
 
 [DataPlow, Inc](http://www.dataplow.com/) \- File system software that enables high-speed file sharing among SAN-attached computers.
 
-[>>>](https://web.archive.org/web/20100504165217id_/http%3A//www.rocketdivision.com/partners.html)  
+[>>>](https://web.archive.org/web/20110511194925id_/http%3A//www.rocketdivision.com/partners.html)  
   
 Media Coverage  
 
@@ -74,12 +72,12 @@ Media Coverage
 
 [How to Build an iSCSI Disk Array ](http://www.byteandswitch.com/document.asp?doc_id=96342) \- "Byte and Switch" article references StarWind iSCSI Target.
 
-[>>>](https://web.archive.org/web/20100504165217id_/http%3A//www.rocketdivision.com/press.html?kind=media)  
+[>>>](https://web.archive.org/web/20110511194925id_/http%3A//www.rocketdivision.com/press.html?kind=media)  
   
 Clients  
 
 
-[ ](http://www.hp.com/)  
+[ ](http://www.ibm.com/)  
   
 [](https://siteheart.com/webconsultation/740?byhref=1)  
 | 
