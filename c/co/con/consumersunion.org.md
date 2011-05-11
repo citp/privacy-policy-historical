@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228021110id_/http%3A//www.consumersunion.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersunion.org privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511104211id_/http%3A//www.consumersunion.org/about/privacy.htm) for the most accurate reproduction.*
 
 # Consumers Union - Privacy Policy
 
