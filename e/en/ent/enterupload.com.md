@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the enterupload.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414002646id_/http%3A//www.enterupload.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterupload.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511075432id_/http%3A//www.enterupload.com/privacy.html) for the most accurate reproduction.*
 
-# Enterupload - Easy way to share your files
+# Free File Hosting. File Upload. Share Files - Enterupload
 
 * **What information do we collect?**
 
