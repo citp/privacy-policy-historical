@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jriver.com privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016031835id_/http%3A//www.jriver.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jriver.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511084854id_/http%3A//www.jriver.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
