@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azamaraclubcruises.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217125135id_/http%3A//www.azamaraclubcruises.com/privacy/heroSingleTxtSub.do%3Bjsessionid%3D0000F8rvdOpyPvFxMa6H5qzek33%3A12odfrvug%3Fpagename%3Dprivacy_policy%26cS%3DFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azamaraclubcruises.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511114233id_/http%3A//www.azamaraclubcruises.com/privacy/heroSingleTxtSub.do%3Fpagename%3Dprivacy_policy%26cS%3DFooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@
 
   
   
-At Azamara Cruises  (Azamara) we are committed to protecting your personal information that you share with us through the Internet. 
+At Azamara Club Cruises  (Azamara) we are committed to protecting your personal information that you share with us through the Internet. 
 
-This statement sets forth our privacy policy regarding information you provide to us through the use of our Web site. This statement also provides you with information on how to prevent your personal information from being collected or shared when you visit our Web site, respond to our Web-based promotions or send us an [e-mail.](http://www.azamaraclubcruises.com/contactus/custSvcsForm.do)
+This statement sets forth our privacy policy regarding information you provide to us through the use of our Web site. This statement also provides you with information on how to prevent your personal information from being collected or shared when you visit our Web site, respond to our Web-based promotions or send us an [e-mail.](http://www.azamaraclubcruises.com/iw-cc/command/contactus/custSvcsForm.do)
 
 |   
 ---  
@@ -71,4 +71,4 @@ This Privacy Policy was last modified on October 2, 2007.
   
   
   
-Build: azm_com_1_20091213_1 2009-12-10 04:46 PM last recached on Thu Dec 17 04:35:18 EST 2009
+Build: azm_com_04222011_1 2011-05-05 06:30 AM last recached on Wed May 11 04:40:54 EDT 2011 
