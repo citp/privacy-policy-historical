@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopping.net privacy policy that was archived on 2010-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100720202208id_/http%3A//www.shopping.net/help/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopping.net privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511184331id_/http%3A//www.shopping.net/help/Privacy%2520Policy) for the most accurate reproduction.*
 
 # 
 
@@ -12,8 +12,11 @@ Please contact us at ValueClick Europe Ltd, 180 Upper Richmond Road, Putney, Lon
 
 We do not collect any personally identifiable information and does not store any non-personally identifiable information.
 
-We may use “cookies” and other technologies to study traffic patterns on our website, to customize Your experience and provide greater convenience each time You interact with us. We also may gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. We may use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.  
+We may use “cookies” and other technologies to study traffic patterns on our website, to customize Your experience and provide greater convenience each time You interact with us. We also may gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and click stream data. We may use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+
 We also may use Internet browsing and online purchase data associated with an anonymous identifier to develop a predictive statistical user profile of the end user's needs and interests. We would not use cookies or log files to collect end users' names, physical addresses, email addresses, phone numbers, credit card numbers, social security numbers, or any other information which can be used to identify a specific person. We may match the IP address and user profile with email address data obtained separately in order to better target campaigns to meet user's interests, but will not share this information with third-parties.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/).
 
  **II. INFORMATION SHARING**
 
