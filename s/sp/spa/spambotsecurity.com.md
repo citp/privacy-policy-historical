@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spambotsecurity.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502055615id_/http%3A//www.spambotsecurity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spambotsecurity.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512010447id_/http%3A//www.spambotsecurity.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SpambotSecurity.com
 
@@ -33,7 +33,11 @@ We use return email addresses to answer the email we receive, to send verificati
 
 You can subscribe to posts in our forums if you would like to receive updates on new messages through e-mail.
 
-We use the revenue generating services of Google Adsense on this site, and do no collection of user information for the sake of said advertising at this site, however, google may do so on their system. See <http://www.google.com/privacy_ads.html> for information on Google's policies regarding this.
+We use the revenue generating services of Google Adsense on this site, and do no collection of user information for the sake of said advertising at this site, however, google may do so on their system. See [_http://www.google.com/privacy_ads.html_](http://www.google.com/privacy_ads.html) for information on Google's policies regarding this.
+
+* Google, as a third party vendor, uses cookies to serve ads on our site.   
+* Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.   
+* Users may opt out of the use of the DART cookie by visiting the [_Google ad and content network privacy policy_](http://www.google.com/privacy_ads.html). 
 
 We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
