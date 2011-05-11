@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wsbradio.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228161108id_/http%3A//wsbradio.com/common/inside/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsbradio.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511231044id_/http%3A//www.wsbradio.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy on wsbradio.com
+# Privacy Policy | www.wsbradio.com
 
 **Online Privacy Statement**  
 Last updated July 24, 2007
@@ -45,7 +45,7 @@ We use a third-party advertising company DoubleClick -- to serve ads when you vi
 
  **Disclosures**
 
-When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites -- it is usually in the form of aggregated statistics on traffic to various pages within our site. From time to time, we may share either individual or aggregated information on visitors to our site with third parties that provide services on or are linked to by our website, and with those marketing products and services that we believe may be of interest to you. For example, when a provider promotes its products or services through our website, we may collect your contact information on the provider's behalf, through a form on our website. If this occurs, you'll be asked to provide your specific and explicit permission to have your information transmitted to the third party advertiser or service provider. 
+When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites -- it is usually in the form of aggregated statistics on traffic to various pages within our site. From time to time, we may share either individual or aggregated information on visitors to our site with third parties that provide services on or are linked to by our website, and with those marketing products and services that we believe may be of interest to you. For example, when a provider promotes its products or services through our website, we may collect your contact information on the provider's behalf, through a form on our website. If this occurs, you'll be asked to provide your specific and explicit permission to have your information transmitted to the third party advertiser or service provider.
 
 If you provide us your email address, from time to time we may send you emails about products, services, or events that we believe may be of interest to you. Though we hope you'll find these emails informative and useful, if you do not wish to receive such emails, please indicate, when you give us your email address, that you'd prefer not to receive them. You can also unsubscribe by following the simple unsubscribe instructions included with each email.
 
@@ -59,4 +59,4 @@ Information we gather on our website is stored within Cox Radio controlled datab
 
  **Changes to This Privacy Statement**
 
-A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. If at any point we decide to use personally identifying information in a manner different from what was stated at the time the information was collected, we will notify you and give you an opportunity to opt out of the proposed use. 
+A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. If at any point we decide to use personally identifying information in a manner different from what was stated at the time the information was collected, we will notify you and give you an opportunity to opt out of the proposed use.
