@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gracesguide.co.uk privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031085441id_/http%3A//www.gracesguide.co.uk/wiki/GracesGuide%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gracesguide.co.uk privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511110612id_/http%3A//www.gracesguide.co.uk/wiki/GracesGuide%3APrivacy_policy) for the most accurate reproduction.*
 
-# GracesGuide:Privacy policy
+# GracesGuide:Privacy policy - GracesGuide
 
 ### From GracesGuide
 
