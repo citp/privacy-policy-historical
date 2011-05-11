@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesalefreeclassifiedads.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231213412id_/http%3A//www.wholesalefreeclassifiedads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesalefreeclassifiedads.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511035849id_/http%3A//www.wholesalefreeclassifiedads.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
