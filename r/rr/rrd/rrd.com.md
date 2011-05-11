@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227182140id_/http%3A//rrd.com/wwwRRD1/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrd.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511221311id_/http%3A//www.rrdonnelley.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # 
 
 Use and Protection of Personal Information
 
-RR Donnelley is committed to protecting your privacy. We will collect or record basic personal information (e.g., name, e-mail address, mailing address, phone number) you voluntarily provide through the "[Information Request](https://web.archive.org/wwwRRD1/RequestForms/ContactUs_Form.asp)" page or through electronic mail you send to us, but we will not disclose this information to third parties. We also may ask you questions about your buying habits for particular product segments, or ask you to state the total dollar volume spent on a particular product. If you are inquiring about employment at RR Donnelley, we also will ask for your Social Security number, your educational level, and your desired salary range. We do not ask for credit card numbers or detailed financial information over our Web site. We will not otherwise collect or record any of your personally identifiable information, except as detailed below in the "Safe Harbor" section.
+RR Donnelley is committed to protecting your privacy. We will collect or record basic personal information (e.g., name, e-mail address, mailing address, phone number) you voluntarily provide through the "[Information Request](https://web.archive.org/RequestForms/ContactUs_Form.asp)" page or through electronic mail you send to us, but we will not disclose this information to third parties. We also may ask you questions about your buying habits for particular product segments, or ask you to state the total dollar volume spent on a particular product. If you are inquiring about employment at RR Donnelley, we also will ask for your Social Security number, your educational level, and your desired salary range. We do not ask for credit card numbers or detailed financial information over our Web site. We will not otherwise collect or record any of your personally identifiable information, except as detailed below in the "Safe Harbor" section.
 
 To enable us to assess the effectiveness and usefulness of this site, we collect and store data on pages viewed by visitors, visitors' domain names and similar information. We do not store information that personally identifies visitors to this site. 
 
@@ -41,4 +41,4 @@ We may change this Privacy Policy from time to time. If this Privacy Policy chan
 
 Comments
 
-RR Donnelley welcomes your [comments](https://web.archive.org/wwwRRD1/RequestForms/ContactUs_Form.asp). 
+RR Donnelley welcomes your [comments](https://web.archive.org/RequestForms/ContactUs_Form.asp). 
