@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newlaunches.com privacy policy that was archived on 2010-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100814095251id_/http%3A//www.newlaunches.com/archives/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newlaunches.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511131133id_/http%3A//www.newlaunches.com/archives/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
