@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the neohapsis.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307151228id_/http%3A//www.neohapsis.com/utility/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neohapsis.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511150838id_/http%3A//www.neohapsis.com/privacy.php) for the most accurate reproduction.*
 
-# NEOHAPSIS > Privacy Policy
+# Privacy Policy | Neohapsis
 
-#### Neohapsis Privacy Policy
+Neohapsis, Inc. is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Neohapsis, Inc. Web site and governs data collection and usage. By using the Neohapsis, Inc. website, you consent to the data practices described in this statement.
 
-This purpose of this policy is to inform you of our practices related to your personally identifiable information and your use of this website, [www.neohapsis.com](http://www.neohapsis.com/).
+Neohapsis, Inc. collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Neohapsis, Inc. also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-Neohapsis provides services to businesses, and our website's purpose is to communicate with a business audience. This website is not targeted to consumers seeking products, services, or information for home or personal use. We do not seek to solicit or receive information from minors.
+There is also information about your computer hardware and software that is automatically collected by Neohapsis, Inc.. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Neohapsis, Inc. for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Neohapsis, Inc. Web site.
 
-##### Personal information
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Neohapsis, Inc. public message boards, this information may be collected and used by others. Note: Neohapsis, Inc. does not read any of your private online communications.
 
-Visitors can browse public areas of this website without disclosing personal data. Neohapsis operates this website on an "opt in" basis, that is, we collect personal information only if you volunteer it. Where we offer you the opportunity to volunteer personal information, we provide the option to transmit the information securely. If you authorize us to send you information and you later change your mind, you can change your communications preferences at any time by emailing us at webadmin.
+Neohapsis, Inc. encourages you to review the privacy statements of Web sites you choose to link to from Neohapsis, Inc. so that you can understand how those Web sites collect, use and share your information. Neohapsis, Inc. is not responsible for the privacy statements or other content on Web sites outside of the Neohapsis, Inc. and Neohapsis, Inc. family of Web sites.
 
-When you volunteer personal information for particular purposes, we use it only for those purposes. We do not sell or rent your personally identifiable information. We share it with third parties only if they are working on our behalf.
+Neohapsis, Inc. collects and uses your personal information to operate the Neohapsis, Inc. Web site and deliver the services you have requested. Neohapsis, Inc. also uses your personally identifiable information to inform you of other products or services available from Neohapsis, Inc. and its affiliates. Neohapsis, Inc. may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-In addition, we will provide information to third parties if we are legally required to do so, and we reserve the right to transmit information to government authorities or use information in legal proceedings if we believe we have reason to suspect illegal activity or violation of our legal rights.
+Neohapsis, Inc. does not sell, rent or lease its customer lists to third parties. Neohapsis, Inc. may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Neohapsis, Inc. may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Neohapsis, Inc., and they are required to maintain the confidentiality of your information.
 
-We do not include ad-server or other third-party web page content that would cause a visitor's clickstream information to be transmitted to a third party.
+Neohapsis, Inc. does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
-##### Non-personal information
+Neohapsis, Inc. keeps track of the Web sites and pages our customers visit within Neohapsis, Inc., in order to determine what Neohapsis, Inc. services are the most popular. This data is used to deliver customized content and advertising within Neohapsis, Inc. to customers whose behavior indicates that they are interested in a particular subject area.
 
-Neohapsis logs basic technical data routinely automatically transmitted by your Internet browser. This may include internet protocol (IP) address, previous web page visited (referrer URL), browser type, and language. We maintain this information for security and technical purposes. In addition, we may aggregate this information for internal use, such as to analyze website traffic and usage.
+Neohapsis, Inc. Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Neohapsis, Inc. or the site; (b) protect and defend the rights or property of Neohapsis, Inc.; and, (c) act under exigent circumstances to protect the personal safety of users of Neohapsis, Inc., or the public.
 
-##### Additional information
+The Neohapsis, Inc. Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-We have implemented policies, procedures, and technical safeguards appropriate to protect personal information from unauthorized and improper access, use, disclosure, modification, and destruction.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Neohapsis, Inc. pages, or register with Neohapsis, Inc. site or services, a cookie helps Neohapsis, Inc. to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Neohapsis, Inc. Web site, the information you previously provided can be retrieved, so you can easily use the Neohapsis, Inc. features that you customized.
 
-We may display links to websites controlled by other companies or organizations. These links are offered for information purposes. Neohapsis is not responsible for the privacy practices of the parties controlling those sites or the content or operation of their websites.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Neohapsis, Inc. services or Web sites you visit.
 
-Changes to these generally applicable provisions will be noted on this page. We will not use a party's personal information for any new purpose without that party's explicit permission.
+Neohapsis, Inc. secures your personal information from unauthorized access, use or disclosure. Neohapsis, Inc. secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-##### Contact Neohapsis
+Neohapsis, Inc. will occasionally update this Statement of Privacy to reflect company and customer feedback. Neohapsis, Inc. encourages you to periodically review this Statement to be informed of how Neohapsis, Inc. is protecting your information.
 
-If you have any questions about this Privacy Policy, please contact us by e-mailing us at webadmin.
+Neohapsis, Inc. welcomes your comments regarding this Statement of Privacy. If you believe that Neohapsis, Inc. has not adhered to this Statement, please contact Neohapsis, Inc. at info@neohapsis.com. We will use commercially reasonable efforts to promptly determine and remedy the problem. 
