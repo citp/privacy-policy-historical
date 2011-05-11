@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toynewsi.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122141048id_/http%3A//enewsi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toynewsi.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511105021id_/http%3A//enewsi.com/privacy.php) for the most accurate reproduction.*
 
 # ENewsi.com - Pop Culture Entertainment Iron Man, Batman, Star Trek, Transformers, Twilight, Harry Potter and more<%endif%>
 
