@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dateolicious.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107012508id_/http%3A//dateolicious.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateolicious.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511112123id_/http%3A//dateolicious.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | Dateolicious
 
-##  Dateolicious.com Privacy Policy Agreement 
+##  Privacy Policy Agreement 
 
 In an effort to secure your privacy when using Dateolicious.com we have established a policy to explain to you what is collected and used whenever you use our site. We recognize the importance of one’s privacy, especially on the internet. Therefore, we have been very vigilant in making sure your information, is yours and yours alone. That being said... We reserve the right to update, amend, and delete any part of this policy agreement at any time and for any reason with or without your notice to such changes. So let’s begin, shall we?   
 
