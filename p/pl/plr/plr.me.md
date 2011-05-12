@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plr.me privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404082704id_/http%3A//www.plr.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plr.me privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512193348id_/http%3A//www.plr.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | PLR.me: Professional PLR Content - "Private Label Rights"
+# Privacy Policy | PLR.me
 
-PLR.me values the trust our customers place on us. This privacy statement is intended to explain what PLR.me does with your information, and what you can expect from us. If you have additional questions or would like further information on this topic, please contact us. PLR.me may update this policy from time to time. Please check the policy periodically for changes. 
+PLR.me values the trust our customers place on us. This privacy statement is intended to explain what PLR.me does with your information, and what you can expect from us. If you have additional questions or would like further information on this topic, please contact us. PLR.me may update this policy from time to time. Please check the policy periodically for changes.
 
 We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy.
 
