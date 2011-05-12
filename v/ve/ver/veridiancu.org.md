@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veridiancu.org privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110151423id_/https%3A//www.veridiancu.org/about_us/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veridiancu.org privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512063208id_/https%3A//www.veridiancu.org/about_us/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,7 +67,7 @@ Financial service providers, such as:
 
   * First Community Trust, N.A.
   * Members Financial Services offered through CUNA Brokerage Services, Inc.
-  * Members insurance
+  * Veridian insurance
 
 
 
