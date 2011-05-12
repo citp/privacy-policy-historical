@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204072245id_/http%3A//www.acop.com/PrivacyPolicy.aspx%3FL%3D1%26PID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acop.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512233104id_/http%3A//www.acop.com/PrivacyPolicy.aspx%3FL%3D1%26PID%3D) for the most accurate reproduction.*
 
 # American Consumer Opinion Privacy Policy for Online Surveys
 
@@ -8,7 +8,7 @@ This Privacy Policy was last updated on March 14, 2003.
   
 At American Consumer Opinion®, we believe that you, our members, have an inalienable right to privacy. We protect your privacy and anonymity by adhering to these standards: 
 
-  * [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm) as developed by the U.S. Department of Commerce in consultation with the European Commission.
+  * [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/eu/eg_main_018475.asp) as developed by the U.S. Department of Commerce in consultation with the European Commission.
   * [Children's Online Privacy Protection Rule](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html) issued by the Federal Trade Commission (FTC).
 
 We recognize that some of the information we request from you is personal and sensitive, and requires trust on your part. We take your trust, and our responsibilities, very seriously. Here are our privacy practices regarding the information you entrust to us.
@@ -59,7 +59,7 @@ American Consumer Opinion® and [www.acop.com](http://www.acop.com/) are owned a
 
   * [Council of American Survey Research Organizations (CASRO)](http://www.casro.org/codeofstandards.cfm)
   * [Council for Marketing and Opinion Research (CMOR)](http://www.cmor.org/)
-  * [Marketing Research Association (MRA)](http://www.mra-net.org/for_consumer/index.cfm)
+  * [Marketing Research Association (MRA)](http://www.mra-net.org/)
   * [World Association of Research Professionals (ESOMAR)](http://www.esomar.org/)
 
 
@@ -97,11 +97,11 @@ Back to top
 
 Back to top
 
-You may "opt out" of giving personal information at anytime when taking a survey. You may also [update or delete](https://a21.acop.com/AcopApps/RegistrationUtilities/Login.aspx?L=1&PID=14285033) your personal information at any time. 
+You may "opt out" of giving personal information at anytime when taking a survey. You may also [update or delete](https://www.acop.com/AcopApps/RegistrationUtilities/Login.aspx?L=1&PID=) your personal information at any time. 
 
   * Once you join our panel and receive invitations to complete surveys, you are under no obligation to complete those surveys. You can simply choose not to respond.
   * If you start taking a survey and are asked questions you do not wish to respond to, you may simply stop taking the survey at any point.
-  * Once you have registered, you may safely [update or delete](https://a21.acop.com/AcopApps/RegistrationUtilities/Login.aspx?L=1&PID=14285033) your membership (and all of your personal data) online at any time.
+  * Once you have registered, you may safely [update or delete](https://www.acop.com/AcopApps/RegistrationUtilities/Login.aspx?L=1&PID=) your membership (and all of your personal data) online at any time.
 
 
 
@@ -170,8 +170,8 @@ If you wish to unsubscribe, please click [here](https://www.acop.com/Members/Mem
 
 For more information about Internet privacy and the privacy guidelines we follow: 
 
-  * [Safe Harbor Overview](http://www.export.gov/safeharbor/sh_overview.html)
-  * [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/SHPRINCIPLESFINAL.htm)
+  * [Safe Harbor Overview](http://www.export.gov/safeharbor/index.asp)
+  * [Safe Harbor Privacy Principles](http://www.export.gov/safeharbor/eu/eg_main_018475.asp)
   * [VeriSign Internet Trust Services](http://www.verisign.com/)
 
 
