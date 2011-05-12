@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dedicatedserverdir.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224071420id_/http%3A//www.serchen.com/about/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedserverdir.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513015913id_/http%3A//www.serchen.com/about/Privacy.aspx) for the most accurate reproduction.*
 
 # Serchen Interactive
 
 **What is the purpose of this Privacy Policy?**
 
-Serchen Interactive has created this privacy policy in order to demonstrate our firm commitment to our users. The following discloses our information gathering and dissemination practices for websites included within our brands: <http://www.serchen.com/brands/>. Please continue reading for complete details on the Serchen Interactive privacy policy. If you have any questions about the policy, you can request more information by filling in the [contact us](https://web.archive.org/web/20101224071420id_/http%3A//www.serchen.com/contact/Default.aspx) form.
+Serchen Interactive has created this privacy policy in order to demonstrate our firm commitment to our users. The following discloses our information gathering and dissemination practices for websites included within our brands: <http://www.serchen.com/brands/>. Please continue reading for complete details on the Serchen Interactive privacy policy. If you have any questions about the policy, you can request more information by filling in the [contact us](https://web.archive.org/web/20110513015913id_/http%3A//www.serchen.com/contact/Default.aspx) form.
 
 **What information do we collect from users and how is it used?**
 
@@ -44,4 +44,4 @@ Serchen Interactive reserves the right to update this privacy policy from time t
 
 **How to contact us?**
 
-If you have any questions about this privacy policy or the practices of this website, you may request more information by submitting the [contact us](https://web.archive.org/web/20101224071420id_/http%3A//www.serchen.com/contact/Default.aspx) form.
+If you have any questions about this privacy policy or the practices of this website, you may request more information by submitting the [contact us](https://web.archive.org/web/20110513015913id_/http%3A//www.serchen.com/contact/Default.aspx) form.
