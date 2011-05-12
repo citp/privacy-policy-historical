@@ -1,94 +1,99 @@
-> *The following text is extracted and transformed from the vbdotnetforums.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119033404id_/http%3A//www.nc-software.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbdotnetforums.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512035135id_/http%3A//www.nc-software.com/privacy.aspx) for the most accurate reproduction.*
 
 # NC Software Privacy Statement
 
 | 
 
-NC Software, Inc. is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. This privacy statement only applies to NC Software, Inc.; it does not apply to other online or offline NC Software, Inc. sites, products or services. Please read the complete NC Software, Inc. privacy statement.
+#### PLEASE READ THIS PRIVACY POLICY CAREFULLY.
 
-### COLLECTION OF PERSONAL INFORMATION
+By accessing or otherwise using this web site, or any of NC Software's web sites, you agree to be bound contractually by this Privacy Policy.
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are registering before entering a contest, ordering e-mail newsletters, joining a limited-access premium site, signing up for an event or training, or when purchasing and/or registering NC Software, Inc. products. Personal information collected by NC Software, Inc. often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service you requested.
+Effective Date: January 1, 2011   
+To review material modifications and their effective dates scroll to the bottom of the page.   
+Privacy Statement; Collection of Personal Information. 
 
-For example: If you choose a service or transaction that requires payment, such as making a purchase in the [Secure Online Store area](http://www.nc-software.com/) of the Web site, we will request personal information necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number.
+1\. NC Software, Inc. ("NC Software") owns and operates this website business. All references to "we", "us", this "website" or this "site" shall be construed to mean NC Software. 
 
-When you buy and install a new product, we may ask you to register your purchase electronically. We keep this registration information on file with any information you've already given us on previous visits to our Web site.
+2\. We understand that visitors to this website are concerned about the privacy of information. The following describes our privacy policy regarding information, including personal information, that we collect through this website. 
 
-NC Software, Inc. also collects certain information about your computer hardware and software. This information may include: your IP address, browser type, operating system, domain name, access times and referring Web site addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of NC Software, Inc.
+3\. Modification of Privacy Policy. We reserve the right to modify this Privacy Policy at any time, and without prior notice, by posting an amended Privacy Policy that is always accessible by clicking on the "Privacy Policy" link on this site's home page. Your continued use of this site indicates your acceptance of the amended Privacy Policy. You should check the Privacy Policy through this link periodically for modifications by clicking on the link provided near the top of the Privacy Policy for a listing of material modifications and their effective dates. Regarding personal information, if any modifications are materially less restrictive on our use or disclosure of the personal information previously disclosed by you, we will obtain your consent before implementing such revisions with respect to such information. 
 
-NC Software, Inc. also collects information about which pages our customers visit within NC Software, Inc.. This site visitation data is identified only by a unique ID number, and it is never linked with personal information unless a user consents as described below.
+4\. Collection of Anonymous, Passive Information. We reserve the right to monitor your use of this site. As you navigate through this site, certain anonymous information may be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). The following is a listing and a brief explanation of passive information collection methodologies which we may use from time to time to better understand how this site is being used. 
 
-### USE OF PERSONAL INFORMATION
+> 4.1 A "cookie" (also known as a "browser cookie") is a text file that this site sends to your browser in the form of a text file The information generated by the cookie about your use of this site (including your IP address) will be transmitted to and stored. Most browsers automatically accept cookies, but they usually can be modified to decline cookies if you prefer; however, certain features of this site might not work without cookies. 
+> 
+> 4.2 "Session" cookies are temporary bits of information that are used to improve navigation, block visitors from providing information where inappropriate (the site "remembers" previous entries of country of origin that were outside the specified parameters and blocks subsequent changes), and collect aggregate statistical information on the site. They are erased once you exit your Web browser or otherwise turn off your computer. 
+> 
+> 4.3 "Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided, helping to determine what areas of the site you may find most valuable, and customizing the site based on your preferences on an ongoing basis. Persistent cookies placed by this site in your computer do not hold personal information. 
+> 
+> 4.4 You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. To learn more about cookies and how to specify your preferences, please search for "cookie" in the "Help" portion of your browser. 
+> 
+> 4.5 An Internet Protocol (IP) address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in many cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). The IP address can be used to diagnose problems with a server, report aggregate information, determine the fastest route for your computer to use in connecting to a site, and administer and improve the site. 
+> 
+> 4.6 "Internet tags" (also known as Web Beacons, single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) tell the website server information such as the IP address and browser type related to the visitor's computer. Tags may be placed both on online advertisements that bring people to the site and on different pages of the site. Such tags indicate how many times a page is opened and which information is consulted. 
+> 
+> 4.7 "Navigational data" (log files, server logs, and clickstream data) are used for system management, to improve the content of the site, market research purposes, and to communicate information to visitors. 
 
-We use your personal information for the following purposes: 
+5\. Use and Sharing of Anonymous, Passive Information. This site may make full use of passively collected anonymous information, including without limitation the right to use such information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve this site for your use. We reserve the right to share this anonymous, passive information in aggregated form. 
 
-  * To ensure our site is relevant to your needs.
-  * To deliver services, such as newsletters, events, training or software, that you request or purchase.
-  * To help us create and publish content most relevant to you.
-  * To alert you to product upgrades, special offers, updated information and other new services from NC Software, Inc., if you so request.
-  * To allow you access to limited-entry areas of our site as appropriate. 
+6\. 3rd Party Cookies for Web Analytics. We reserve the right to use web analytics services provided by 3rd parties. These services use 3rd party cookies (cookies passed by others, not by us) to collect anonymous, passive information about your use of this site (see explanation of cookies in Collection of Anonymous, Passive Information above). We may use this information for the purpose of evaluating your use of this site, compiling reports on website activity, and providing other services. These web analytics services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf. 
 
+7\. 3rd Party Cookies for Serving Behavioral Ads; Flash Cookies. 
 
+> 7.1 We reserve the right to serve our ads and third party ads on our site that are targeted to your interests ("3rd Party Behavioral Ads"). 3rd Party Behavioral Ads are served by 3rd party advertising services that use 3rd party cookies (cookies passed by others, not by us) to collect anonymous, passive information about your use of this site and other websites (see explanation of cookies in Collection of Anonymous, Passive Information above). This information is your “behavioral data”. 3rd Party Behavioral Ads do not use your personal information. Instead, they associate your behavioral data on visited sites with your computer, so that the ads your computer sees on this site are more likely to be relevant to your interests. These advertising services may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the service's behalf. 
+> 
+> 7.2 The 3rd party advertising services that serve ads on our site may use Flash cookies. Flash cookies are not the same as “browser cookies” (see explanation of cookies in Collection of Anonymous, Passive Information above). Flash cookies consist of an Adobe Flash Media Player local shared object (LSO) that is used for tracking purposes. The Adobe Flash Media Player is software that enables users to view content on their computers. Flash cookies are also accompanied by a browser cookie. If you delete the browser cookie, the Flash cookie will automatically create (or re-spawn) a replacement for the browser cookie. For information on how to delete a Flash cookie, visit http://kb2.adobe.com/cps/526/52697ee8.html or search the Web for “How to delete flash cookie”. 
 
-We will merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. In some limited-entry sections of NC Software, Inc., with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won’t merge your personal information with site-visitation data.
+8\. Participation in Google’s Adsense Network. We reserve the right to participate in Google's AdSense network for purposes of serving 3rd Party Behavioral Ads (see 3rd Party Cookies for Serving Behavioral Ads above). Google uses DoubleClick's DART cookie in its AdSense network. You may opt out of the use of the DART cookie. For information regarding how to opt out, go to [ http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html). 
 
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+9\. Collection of Personal Information; Categories. 
 
-NC Software, Inc. may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on NC Software, Inc. or the site; (b) protect and defend the rights or property of NC Software, Inc. and its family of Web sites, or (c) act in urgent circumstances to protect the personal safety of NC Software, Inc. employees, users of NC Software, Inc. products or services, or members of the public.
+> 9.1 We will ask you for personal information when you sign up ("register") for any specific service, benefit or purpose that requires registration. Personal information that we collect may vary with the each registration, and it may include one or more of the following categories: name, physical address, an email address, phone number, and credit card information including credit card number, expiration date, and billing address. 
+> 
+> 9.2 We do NOT tie or link your personal information to anonymous, passive information with persistent identifiers. For example, we would not tie or link your email address (personal information) with information collected by a cookie regarding the length of time you visit our site (anonymous, passive information). 
 
-Your information may be stored and processed in the United States or any other country in which NC Software, Inc. or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. NC Software, Inc. abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+10\. Use and Sharing of Personal Information: General Policy and Exceptions. Our general policy (subject to the exceptions listed below) is that we will use your personal information only for: the performance of the services or transaction for which it was given, our private, internal reporting for this site, and security assessments for this site, and we will not share, sell, or rent your personal information to others. The only exceptions to this general policy: (i) are described in the subsections below, and (ii) if you explicitly approve through our site. 
 
-### CONTROL OF YOUR PERSONAL INFORMATION
+> 10.1 Affiliates and Service Providers. We reserve the right to provide such information to our affiliates or subsidiaries, or trusted service providers for the purpose of hosting our servers or processing or archiving personal information for us. We require that these parties agree to privacy and security safeguards for this information that are consistent with this Privacy Policy. 
+> 
+> 10.2 Acquisition; Bankruptcy. In the event that we are acquired by or merged with a third party entity, or if we sell this website business or a line of business from this website, we reserve the right to transfer such information as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we reserve the right to transfer such information to protect our rights or as required by law. 
+> 
+> 10.3 Enforcement; Legal Process. We reserve the right to transfer such information if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary (i) to satisfy any applicable law, regulation, legal process or enforceable governmental request, or (ii) to investigate or enforce violations of our rights or the security of this site. 
+> 
+> 10.4 Third Parties for Direct Marketing; Your California Privacy Rights. We may provide you with the opportunity to receive promotional offers from specifically identified third-parties through their direct marketing efforts, but only if you explicitly consent (opt-in) to receive each offer. If you explicitly consent (opt-in), your personal information will be shared only with the specifically identified third-party to enable them to provide you with the offer you have requested, and then only in connection with that specific promotion and not on a continual basis. Any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should review any privacy policies posted on any of these sites before providing information to them. California Civil Code Section 1798.83 permits California residents to request certain information regarding disclosure of their personal information to third parties for purposes of direct marketing. You may request further information about our compliance with California Civil Code Section 1798.83 at the following email address: compliance.officer-at-nc-software.com. Please note that we are only required to respond to one request per registrant each year, and we are not required to respond to requests made by means other than through this the address provided above. 
+> 
+> 10.5 Onward Transfer of Personal Information Outside Your Country of Residence. Any personal information which we may collect on this site will be stored and processed in our servers located only in the United States. By using this site, if you reside outside the United States, you consent to the transfer of personal information outside your country of residence to the United States. 
 
-When you register, or otherwise give us personal information, NC Software, Inc. will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
+11\. Security of Personal Information. We follow reasonable and appropriate industry standards to protect your personal information and data. Unfortunately, no data transmission over the Internet or method of data storage can be guaranteed 100% secure. Therefore, while we strive to protect your personal information by following generally accepted industry standards, we cannot ensure or warrant the absolute security of any information you transmit to us or archive at this site. 
 
-Registering also allows you to tell us how or whether you wantNC Software, Inc. to communicate with you. After registering, go to the [ Mailing Lists section](https://web.archive.org/web/20101119033404id_/http%3A//www.nc-software.com/mailinglists.aspx) and establish your preferences. There, you can decide what information you want to receive and how you want to receive it. Or you can tell us not to contact you by removing check marks from the contact option boxes. If you buy software through [secure.nc-software.com](http://www.nc-software.com/), and do not want to receive such information, do not check the box on the Checkout page (or on other pages where personal information is collected).
+12\. Changing and Updating Personal Information. Upon request, we will permit you to request or make changes or updates to your personal information for legitimate purposes. We request identification prior to approving such requests. We reserve the right to decline any requests that are unreasonably repetitive or systematic, require unreasonable time or effort of our technical or administrative personnel, or undermine the privacy rights of others. We reserve the right to permit you to access your personal information in any account you establish with this site for purposes of making your own changes or updates, and in such case, instructions for making such changes or updates will be provided where necessary. 
 
-NC Software, Inc.may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.
+13\. Email; Promotional Offers from Us; Opt-Out Rights. If you supply us with your e-mail address you may receive promotional offers from third party sponsors which we select; however, in these instances, we do NOT share your personal information with the third party sponsors for purposes of the mailing; we do the mailing for them. However, if you do accept any of these promotional offers, any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites; however, we have entered into agreements with these websites which provide that unless you specifically agree otherwise, they will use and share your personal information only for the purpose of providing or fulfilling your request for products or services. You should be careful to review any privacy policies posted on any of these sites before providing information to them. 
 
-### ACCESS TO YOUR PERSONAL INFORMATION
+14\. Links to Other Sites Including Online Ads. This site may contain links to other websites with whom we have a business relationship. These links may include online advertisements that we deem to be appropriate. Any information that you provide in the process of registration or purchase will be transferred to these sites. We have no responsibility or liability for the policies and practices of these sites. You should be careful to review any privacy policies posted on any of these sites before providing information to them. 
 
-We will provide you with the means to ensure that your personal information is correct and current.
+15\. Children's Online Policy. We are committed to preserving online privacy for all of its website visitors, including children. This site is a general audience site. Consistent with the Children's Online Privacy Protection Act (COPPA), we will not knowingly collect any information from, or sell to, children under the age of 13. If you are a parent or guardian who has discovered that your child under the age of 13 has submitted his or her personally identifiable information without your permission or consent, we will remove the information from our active list, at your request. To request the removal of your child's information, please contact our site as provided below under "Contact Us", and be sure to include in your message the same login information that your child submitted. 
 
-If you register on a NC Software, Inc. or subscribe to a newsletter, you can review and edit your personal information.
+16\. Email and Other Messages through This Site; ECPA Notice. This site treats email messages and other electronic messages that are sent through this site and not viewable by others as confidential and private, except as required by law, including without limitation, the Electronic Communications Privacy Act of 1986, 18 U.S.C. Sections 2701-2711 (the "ECPA"). The ECPA permits this site's limited ability to intercept and/or disclose electronic messages, for example (i) as necessary to operate our system or to protect our rights or property, (ii) upon legal demand (court orders, warrants, subpoenas), or (iii) where we receive information inadvertently which appears to pertain to the commission of a crime. This site is not considered a "secure communications medium" under the ECPA.
 
-Some services offered on NC Software, Inc. may collect information that is not accessible. However, in such cases, you can access your personal information by contacting NC Software, Inc. as described at the bottom of this statement, or through alternative means of access described by the service.
+17\. Contact Us. If you have any questions regarding this Privacy Policy, please contact the owner and operator of this website business at:
 
-### SECURITY OF YOUR PERSONAL INFORMATION
+NC Software, Inc.   
+Attn: Privacy Policy Officer   
+2711 Centerville Rd   
+PMB 5115, Suite 120   
+Wilmington, DE 19808   
+Email: [legal@nc-software.com](mailto:legal@nc-software.com)   
+Facsimile: (804) 205-5189
 
-NC Software, Inc. is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+\-- 
 
-### PROTECTION OF CHILDREN'S PERSONAL INFORMATION
-
-NC Software, Inc.is a general audience site and does not knowingly collect any personal information from children.
-
-### USE OF COOKIES
-
-When someone visits the site, a cookie is placed on the customer's machine (if the customer accepts cookies) or is read if the customer has visited the site previously. One use of cookies is to assist maintain entered information between page visits within our site.
-
-We also use cookies to collect information on which newsletter links are clicked by customers. This information is used to ensure we are sending information customers want to read. It is collected in aggregate form and never linked with your personal information. 
-
-### ENFORCEMENT OF THIS PRIVACY STATEMENT
-
-If you have questions regarding this statement, you should first contact NC Software, Inc. by [e-mail](mailto:legal@nc-software.com). 
-
-### CHANGES TO THIS STATEMENT
-
-NC Software, Inc. will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this statement, NC Software, Inc. will notify you by placing prominent notice on the Web site. 
-
-### CONTACT INFORMATION
-
-NC Software, Inc. welcomes your comments regarding this privacy statement, please contact us by [e-mail](mailto:legal@nc-software.com) or postal mail.
-
-> NC Software, Inc.  
->  2711 Centerville Rd.  
->  PMB 5115, Suite 120  
->  Wilmington, DE 19808
-
-_This document was last updated July 1, 2009._  
+Material Modifications since January 1, 2011: none.  
   
 ---|---  
   
-© 2010 NC Software, Inc. All rights reserved.  
+Subscribe to our Newsletter:
+
+© 2011 NC Software, Inc. All rights reserved.  
 Logbook Pro® is a registered trademark of NC Software, Inc.  
 All other trademarks or registered trademarks are property of their respective owners
