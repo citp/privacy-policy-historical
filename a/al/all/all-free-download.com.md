@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the all-free-download.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119175423id_/http%3A//all-free-download.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all-free-download.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512234446id_/http%3A//all-free-download.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,21 +52,3 @@ Our Website may link to or contain links to other third party websites that we d
 
 
 
-
-  
-
-
-[ ](http://www.shutterstock.com/?rid=647923)
-
-|  All the resources on this website are the website users upload!  
-All the resources are not allowed for commercial use, otherwise you will be responsible for liability!  
-If resources have violated your copyright, please through feedback to us so that we can delete a timely manner to protect you!  | 
-
-**Help us improve the Service**
-
-|  [
-
-**  CONTACT US**
-
-](http://all-free-download.com/contact/)  
----|---|---
