@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmls.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222161932id_/http%3A//rmls.com/RC2/UI/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmls.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512170532id_/http%3A//www.rmls.com/RC2/UI/privacystatement.asp) for the most accurate reproduction.*
 
 # RMLS.com™ Regional Multiple Listing Service - Privacy Policy
 
