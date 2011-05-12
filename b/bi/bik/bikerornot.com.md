@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikerornot.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513025532id_/http%3A//www.bikerornot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikerornot.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512190901id_/http%3A//www.bikerornot.com/privacy) for the most accurate reproduction.*
 
 # Biker Or Not - 100% Free Biker Dating and Social Networking.
 
@@ -48,6 +48,6 @@ From time to time we may make changes to our privacy policy If we make changes, 
 
  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: privacy@BikerOrNot.com (475 Central Avenue Suite 302, Saint Petersburg, FL 33701)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: privacy@BikerOrNot.com (360 Central Avenue Suite 1260, Saint Petersburg, FL 33701)
 
  
