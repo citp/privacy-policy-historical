@@ -1,77 +1,162 @@
-> *The following text is extracted and transformed from the linuxplanet.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210201949id_/http%3A//www.jupitermedia.com/corporate/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxplanet.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512201029id_/http%3A//www.internet.com/Internetcom/Door/41186) for the most accurate reproduction.*
 
-# Jupitermedia Privacy Policy
+# Privacy
 
-We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and explains data collection and use practices for the JUPM Network. The "JUPM Network" includes all Web pages, newsletters, discussion forums and lists and opt-in announcement lists owned or operated by Jupitermedia Corporation and each of its wholly-owned subsidiaries including, without limitation, Jupiterimages Corporation, Bananastock Ltd., Cover Imagen Y Publicaciones S.L., HAAP Media Services and Consulting, LLC, Hemera Technologies Inc., IFA Bilderteam GmbH, IT Stock International Ltd., Jupiterimages (UK) Ltd., Jupiterimages France SAS, Jupiterimages GmbH, Jupiterimages Pty Ltd., and Workbook Inc., as linked directly or indirectly from the Jupitermedia.com (collectively the "Site") home page (collectively hereafter "JUPM"). By accessing the JUPM Network, you are consenting to the information collection and use practices described in this Privacy Policy. 
+**LAST UPDATED** : October 22, 2010
 
-We promise that we will use your personal information only in ways that are compatible with this Privacy Policy as follows: 
+### **PRIVACY POLICY**
 
-**What information are you collecting and how are you collecting it?**
-
-**Do you collect IP addresses?**  
-Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol" IP address. When a visitor requests a page from any Web site within the JUPM Network, our Web servers automatically recognize that visitor's domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our Sites. We use this information to examine our traffic in aggregate, and to investigate misuse of the JUPM Network, its users, or to cooperate with law enforcement. We do not collect and evaluate this information for specific individuals. Our Web servers do not automatically record e-mail addresses of the visitors. 
+**QuinStreet, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the " **Site** "). By using our Sites, you agree to the terms and conditions of this Privacy Policy.
 
   
-What are cookies?   
-From time to time, JUPM or its advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of JUPM's Network you have visited or customized, so the next time you visit, those pages may be readily accessible. Our advertisers may also use cookies to ascertain how many times you've seen an advertisement. Our advertisers and we may use this information to better personalize the content, banners, and promotions that you see on our Site. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our Site and other Web sites may be diminished and some features may not work as intended. 
-
-**How do you use single-pixel gifs?**  
-JUPM, its third party service providers and advertisers may use single-pixel gif images, sometimes referred to as web bugs or Web beacons, to count Web page accesses and gather some general statistical information. JUPM does not gather personal information through the use of these images. Our advertisers and third party providers may use single-pixel gifs that can track personal information from cookies that may have been previously placed on a user's computer. JUPM also uses various third party providers to track and analyze non-personally identifiable aggregate usage information from visitors to our Web sites in order to continuously improve the quality of our sites and services to you. 
-
-**What personal information do you collect?**  
-Wherever JUPM collects personal information we make an effort to include a link to this Privacy Policy. We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. The personal information we collect may include your name, title, company or organization name, e-mail address, phone number, work or home address, information about your job function, information about your company, and credit card information. 
-
-We may request your e-mail address or mailing address for the purposes of conducting a contest or to provide additional services (for example, subscriptions to announcement lists or information about conferences and trade shows). Participation in contests or other promotions on the JUPM Network is completely voluntary and you have a choice whether or not to disclose personal information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. 
-
-If you are purchasing something on the JUPM Network, we, and any third party provider, need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us, or third party providers, to process and fulfill your order and to notify you of your order status. Credit card and e-mail information will not be shared or sold to third parties for any purpose except as provided in this Privacy Policy without your express permission. 
-
-JUPM also offers access to some services that require registration. We may use your registration contact information to send notification to you of products and services by e-mail and/or postal mail. We may share that information with our clients and they may also send you promotional materials. We may also use your IP address internally and share it with third parties. 
-
-When you sign up for a JUPM e-mail newsletter, you are given the opportunity to sign up for targeted third-party mailings. Whether or not you want to receive these announcements is your choice. If you choose to receive an announcement from a specific distribution list, you will receive commercial messages from independent third parties that have contracted with JUPM to send messages to the list. You may stop the arrival of these announcement lists at any time by removing your e-mail address from the list by forwarding the announcement list to [announcementlist@jupitermedia.com](mailto:announcementlist@jupitermedia.com) or by following the instructions on the e-mails you receive. 
-
-When you sign up for a JUPM discussion forum, your name or alias is recorded solely for purposes of maintaining your own account within the forums. This information is not used to monitor your activity within a forum, nor is it used to identify you outside the JUPM network. 
-
-When you use co-branded services, or those provided by a third party, within the JUPM Network, your information may be passed to the co-brand or third party provider and their use of your information is subject to their applicable privacy policies. 
-
-We may from time to time send e-mail announcing new products and services. If you choose to supply your postal address in an online form, you may receive postal mailings from JUPM or third party companies. 
-
-**Will you disclose the information you collect to outside third parties?**  
-JUPM will disclose personal information and/or an IP address: 
-
-1) To contact you regarding other products and services which may be of interest to you (including those we may offer jointly with other companies). At any time, however, you may opt out of such contact;   
-2) When required by law or in the good-faith belief that such action is necessary to:   
-   a) Cooperate with the investigations of purported unlawful activities and conform to the edicts of the law or comply with legal process served on JUPM;   
-   b) Protect and defend the rights or property of the JUPM Network of sites and related properties, or visitors to the JUPM Network of sites and related properties;   
-   c) Identify persons who may be violating the law, the JUPM legal notice and Web site User Agreement, the rights of third parties, or otherwise misusing the JUPM Network or its related properties;   
-   d) Fulfill a user's order or request;   
-3) To process and fulfill your order or notify you of order status;   
-4) When we have your consent to share the information;   
-5) When you use co-branded services within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
 
 
-We maintain a strict "No-Spam" policy that means that we do not sell, rent, or otherwise give your e-mail address to a third-party, without your consent or as permitted by this Privacy Policy. 
+### **PERSONAL INFORMATION**
 
-**What else should I know about my privacy when online?**  
-JUPM may use third-party advertising companies and advertising networks to serve ads to you based on information (not including your name, address, email address or telephone number) about your visits to our Web sites in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. 
+**Personal Information We Collect**
 
-The JUPM Network contains many hyperlinks to third party Web sites. The JUPM Network also contains advertisements of third parties. JUPM is not responsible for the privacy practices or the content of such third party Web sites or advertisers. JUPM does not share any of the individual personal information you provide JUPM with the third parties to which JUPM links, except as stated elsewhere within this Privacy Policy, although JUPM may share general, aggregate data with such third parties (such as how many people use our Site). Please check with those Web sites to determine their privacy policy. 
+“ **Personal Information** ” is information that identifies you as an individual, such as: 
 
-If you use JUPM's discussion threads, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these discussion threads. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, JUPM advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. 
+  * Name
+  * Postal address
+  * Telephone number
+  * Email address
+  * Credit or debit card number 
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
 
-Certain JUPM media properties use a shopping cart feature that safeguards this information by using industry standard SSL (Secure Socket Layer) encrypted servers. SSL codes the information transferred between you and the server, rendering it unreadable to anyone trying to intercept the information. Other JUPM media properties do not use SSL and thereby do not offer a secure coded way to transfer information. 
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online. 
+In some cases, we may collect information, such as your age, weight, health conditions, insurance type, and whether you’re a non-smoker, combined with your Personal Information. We will treat all such information as Personal Information as long as it is combined with Personal Information.
 
-**Business transfers**  
-We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may sell a company, assets or Web sites or one or more of the companies in our corporate family may merge with, or be acquired by, another company. In connection with the foregoing, we may transfer some or all of your information in order that the service being provided to you may continue or for other business purposes. 
+We collect Personal Information when you interact with us on the Site. We may associate Personal Information you provide through the Site with Personal Information collected from other sources. We will use the combined information in accordance with this Privacy Policy as long as it is combined.
 
-**Your Consent To This Agreement**  
-By using the JUPM Network, you consent to the collection and use of information by JUPM as specified above. We reserve the right to modify this Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+**How We Use Personal Information**
 
-Please send any questions about JUPM's Privacy Policy to: [mailto:privacy@jupitermedia.com](mailto:privacy@jupitermedia.com)
+We may use Personal Information: 
 
-Please note that your use of the JUPM network of Web sites is governed by our [Legal Notice](http://www.jupitermedia.com/corporate/legal.html). 
+  * When you request, to connect you with vendors who will provide you with information about products and services. 
+  * to respond to your inquiries and fulfill your requests, such as to send you newsletters.
+  * to send you important information regarding the Site, changes to our terms, conditions, and policies and/or other administrative information. 
+  * to send you surveys and marketing communications that we believe may be of interest to you. 
+  * to personalize your experience on the Site and our other websites by presenting advertising, products and offers tailored to you. 
+  * to allow you to participate in sweepstakes, contests and similar promotions and to administer these activities. Some of these activities have additional rules, which could contain additional information about how we use and disclose your Personal Information, so we suggest that you read these rules carefully. 
+  * to allow you to send messages to a friend through the Site. By using this functionality, you are telling us that you are entitled to use and provide us with your friend’s name and email address. 
+  * for our business purposes, such as data analysis, audits, developing new products, enhancing our website, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns. 
+  * if you purchase a product or service from us, to complete and fulfill your purchase, for example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service.   
 
-(Revised September 6, 2007) 
+
+
+
+**How Personal Information is Disclosed**
+
+Your Personal Information may be disclosed:
+
+  * to our affiliates, including but not limited to QuinStreet Media, Inc. and WorldWideLearn, Inc., for the purposes described in this Privacy Policy. QuinStreet, Inc. is the party responsible for the management of the jointly-used Personal Information.
+  * to our third party service providers who provide services such as contact information verification, payment processing, order fulfillment, customer service, website hosting, data analysis, infrastructure provision, IT services, email delivery services, auditing services and other similar services to enable them to provide services. 
+  * if you request information from vendors so that they can provide you with information about their products and services. WE ARE NOT RESPONSIBLE OR LIABLE FOR VENDORS’ USE OF YOUR PERSONAL INFORMATION. 
+  * if you choose to download a white paper, eBook, or other resource, to our clients, partners and current and future sponsors of that resource. If you do not want to be contacted by these third parties, please do not download, view or otherwise access the white papers, eBooks and other resources.
+  * if you post your resume on the Site and elect to permit it to be searched by potential employers and staffing agencies, to these potential employers and staffing agencies. We do not control the use and disclosure of Personal Information by these potential employers and staffing agencies. While it is our goal that only employers or staffing agencies will gain access to Personal Information in resumes, we cannot guarantee that no other persons or entities will gain such access. WE ARE NOT RESPONSIBLE FOR THE USE OR DISCLOSURE BY OTHERS OF ANY PERSONAL INFORMATION YOU DISCLOSE IN YOUR RESUME.
+  * to third parties to permit them to send you marketing communications, including third parties who may provide similar services as the original service about which you requested more information. 
+  * to third party sponsors of sweepstakes, contests and similar promotions. 
+  * to identify you to anyone to whom you send messages through the Site.
+  * by you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials. Please note that any information you post or disclose through these services will become public information, and may be available to visitors to the Site and to the general public. 
+  * to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * as we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain.
+
+
+
+###   
+**NON-PERSONAL INFORMATION**
+
+**Non-Personal Information We Collect**
+
+" **Non-Personal Information** " is any information that does not reveal your specific identity, such as: 
+
+  * Browser information
+  * Information collected through cookies, pixel tags and other technologies
+  * Demographic information and other information provided by you
+  * Aggregated information
+
+
+
+  
+**How We Collect Non-Personal Information**
+
+We and our third party service providers may collect Non-Personal Information from you, including your MAC address, your computer type, screen resolution, OS version, Internet browser, as well as demographic data, for example, your location, educational degree, balance on mortgage, value of real estate, income, age, weight, type of insurance, diabetic or smoking-related statistics. We also aggregate Personal Information in a manner such that the end-product does not personally identify you or any other user of the Site, for example, by using Personal Information to calculate the percentage of our users who have a particular telephone area code. We may also collect Non-Personal Information through the use of cookies, pixel tags, web beacons, and other similar technologies for example to help identify you and maintain your signed-in status or to measure the effectiveness of e-mail communications. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to decline the use of cookies. To delete any local shared objects, please visit [**http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html#117717**](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html#117717). To learn more about cookies, please visit [**http://www.allaboutcookies.org/**](http://www.allaboutcookies.org/).
+
+**How We Use and Disclose Non-Personal Information**
+
+Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose. In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location). If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+
+### **IP ADDRESSES**
+
+Your " **IP Address"** is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). 
+
+**How We Log IP Addresses**
+
+An IP Address is identified and logged automatically in our server log files whenever a user visits the Site, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice on the Internet and is done automatically by many web sites. 
+
+**How We Use and Disclose IP Addresses?**
+
+We use IP Addresses for purposes such as calculating Site usage levels, helping diagnose server problems, geographic mapping and administering the Site. We may also use and disclose IP Addresses for all the purposes for which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under applicable law. 
+
+### **THIRD PARTY SITES**
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including any third party operating any site to which this Site contains a link. The inclusion of a link on the Site does not imply endorsement of the linked site by us or by our affiliates. 
+
+### **THIRD PARTY VENDORS**
+
+We also work with vendors and partners in operating and improving the Site. These vendors and other partners include advertisers (including both banner and text advertising), retargeters and web analytics companies. These partners and vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the sites and pages you have visited at the Site and at times other third party sites) in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites. You can opt out of some of our vendors' use of cookies and other technologies to tailor personalized content or advertising to you by visiting [**http://networkadvertising.org/optout_nonppii.asp**](http://networkadvertising.org/optout_nonppii.asp) and [**http://www.clicktale.net/disable.html**](http://www.clicktale.net/disable.html).
+
+PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS. 
+
+### **SECURITY**
+
+We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over the Internet or data storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “ _Contacting Us_ ” section below.
+
+### **CHOICES AND ACCESS**
+
+**Your choices regarding our use and disclosure of your Personal Information**
+
+We give you choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from: 
+
+  * **Receiving electronic communications from us and our affiliates** : If you no longer want to receive marketing-related emails from us and our affiliates on a going-forward basis, you may opt-out of receiving these marketing-related emails by clicking [here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe.
+  * **Our sharing of your Personal Information with unaffiliated third parties** : If you would prefer that we do not share your Personal Information on a going-forward basis with unaffiliated third parties for their marketing purposes, you may opt-out of this sharing by contacting us at as further explained in “How you can access, change or suppress your Personal Information” below and requesting that we suppress all of your Personal Information on a going-forward basis. Please note that if you opt-out of such sharing, we will not be able to remove your Personal Information from the databases of third parties with which we have already shared your Personal Information (i.e., to which we have already provided your Personal Information as of the date that we implement your opt-out request). If you wish to cease receiving marketing-related e-mails from these third parties, please contact them directly or utilize any opt-out mechanisms in their privacy policies or marketing-related e-mails.
+
+
+
+We will seek to comply with your request(s) as soon as reasonably practicable. Please note that if you do opt-out of receiving marketing-related messages from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+
+**How you can access, change or suppress your Personal Information**
+
+If you would like to review, correct, update, suppress, delete or otherwise limit our use, on a going-forward basis, of your Personal Information that has been previously provided to us, you may do so by contacting us at [**info@quinstreet.com**](mailto:info@quinstreet.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. For your protection, we will only implement such requests with respect to the Personal Information associated with the particular e-mail address that you use to send us your request, and we may need to verify your identity before implementing your request.
+
+In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information. We will try to comply with your request as soon as reasonably practicable. 
+
+### **RETENTION PERIOD**
+
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or allowed by law. 
+
+### **USE OF SITE BY MINORS**
+
+The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Site. 
+
+### **CROSS-BORDER TRANSFER**
+
+Your Personal Information may be stored and processed in any country where we have facilities, and by providing any PII to us, you consent to the transfer of such Personal Information to countries outside of your country of residence, including the United States, which may have different data protection rules from your country of residence.
+
+### **SENSITIVE INFORMATION**
+
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., Social Security number, driver’s license number, credit card number (unless necessary to make a purchase), information related to racial or ethnic origin, political opinions, religion or other beliefs, criminal background or trade union membership) on or through the Site or otherwise to us. 
+
+### **UPDATES TO THIS PRIVACY POLICY**
+
+We may change this Privacy Policy. Please take a look at the “ _LAST UPDATED_ ” legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Site. Your use of the Site following these changes means that you accept the revised Privacy Policy.
+
+### **CONTACTING US**
+
+If you have any questions about this Privacy Policy, please contact us by email at [**info@quinstreet.com**](mailto:info@quinstreet.com), or please write to the following address:
+
+     Privacy   
+     QuinStreet  
+     950 Tower Lane, 6th Floor  
+     Foster City, CA 94404
