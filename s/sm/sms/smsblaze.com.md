@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smsblaze.com privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111163309id_/http%3A//www.smsblaze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsblaze.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512143216id_/http%3A//www.smsblaze.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hindi SMS,Hindi Shayari,Hindi SMS Shayari,Romantic Hindi SMS,Hindi SMS Poems,Urdu Shayari SMS,Funny Hindi SMS Jokes
+# Privacy Policy | Hindi SMS Hindi,140 Words Hindi SMS,140 Characters Love Hindi SMS,Funny SMS Hindi 160,Hindi Hindi SMS,SMS In Hindi,Hindi SMS In Hindi,Hindi Shayari SMS,Hindi SMS Jokes,Hindi Text 120 Words
 
 **Privacy Policy** for SMSBlaze.com
 
