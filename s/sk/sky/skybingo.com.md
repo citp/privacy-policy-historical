@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skybingo.com privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628022936id_/http%3A//help.skybet.com/article.aspx%3Farticle%3D1157%26p%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybingo.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512192516id_/http%3A//help.skybet.com/article.aspx%3Farticle%3D1157%26p%3D5) for the most accurate reproduction.*
 
 # Help & Support
 
@@ -14,7 +14,7 @@ Cookies do not attach to your system or damage your files. If you do not want in
 
 **Data Collection**
 
-To be able to deposit funds and place bets on the web site, you will be asked to register by entering User ID and PIN. Such user information will only be used for the purposes as set out in this Privacy Policy.
+To be able to deposit funds and place bets on the web site, you will be asked to register by entering a User ID and PIN. Such user information will only be used for the purposes as set out in this Privacy Policy.
 
 By entering your user information, you accept that we may retain your user information and that it may be held by us or any third party company which processes it on our behalf.
 
