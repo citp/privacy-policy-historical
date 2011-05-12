@@ -1,21 +1,7 @@
-> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224085004id_/http%3A//www.hotdeals.com/index5.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotdeals.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513004409id_/http%3A//www.hotdeals.com/index5.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Hot Deals on Travel
+# HotDeals: Find Cheap Airline Tickets, Discount Hotel Rooms, Vacation Packages, Car Rentals, Travel Deals at HotDeals
 
-|  |  |   
----  
-|  | 
-
-**Visit London**
-
-England's ancient cathedral cities, such as **Lincoln, York, Salisbury, Durham** and **Winchester** , cannot be equalled for sheer physical beauty.  
-  
----  
-  
-  
-Featured Hotel Deals  
-= Deal ending date  
-  
 **  
 Privacy Policy**
 
@@ -58,3 +44,5 @@ P.O. Box 361119
 Decatur, GA 30036 
 
 E-Mail:[ privacy@hotdeals.com ](mailto:privacy@hotdeals.com%20)
+
+| 
