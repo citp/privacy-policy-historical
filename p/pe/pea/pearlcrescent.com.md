@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearlcrescent.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127030250id_/https%3A//pearlcrescent.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlcrescent.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513010608id_/http%3A//pearlcrescent.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for pearlcrescent.com
 
@@ -23,7 +23,7 @@ You may contact us by telephone at +1 (734) 944-2856.
 
 Correcting Your Information
 
-If you need to make corrections to information you have provided to us or if you believe we have not followed this policy, please contact our customer support representatives through <http://pearlcrescent.com/pearlcomments/support/>.  We will promptly correct any errors.
+If you need to make corrections to information you have provided to us or if you believe we have not followed this policy, please contact us via email at [support@pearlcrescent.com](mailto:support@pearlcrescent.com).  We will promptly correct any errors.
 
 * * *
 
