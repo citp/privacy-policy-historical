@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nationalparks.org privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126155505id_/http%3A//www.nationalparks.org%3Ffa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalparks.org privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512050418id_/http%3A//www.nationalparks.org%3Ffa%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy | National Park Foundation
+# National Park Foundation | Privacy Policy
 
 **The National Park Foundation, publisher of nationalparks.org and its related content and services, believes that electronic privacy is crucial for the ongoing success of the Internet as a communications medium. On occasion, The National Park Foundation will make available to potential partners aggregated results from research it has conducted on the nationalparks.org visitor base. The National Park Foundation will only provide such demographic information on an aggregated basis and as a policy does not disclose individual visitor information.**
 
