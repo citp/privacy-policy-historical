@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the acceleratedmentoring.net privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223215248id_/http%3A//acceleratedmentoring.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acceleratedmentoring.net privacy policy that was archived on 2011-05-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110512055723id_/http%3A//www.acceleratedmentoring.net/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title></title>
@@ -26,6 +26,8 @@
 <script type="text/javascript" src="/js/base.js"></script>
 <script type="text/javascript" src="/js/jquery.hotkeys-0.7.9.js"></script>
 <script type="text/javascript" src="/js/jquery.meerkat.1.0.js"></script>
+<script type="text/javascript" src="/js/ajaxfileupload.js"></script>
+
 <script type="text/javascript" src="/js/sites/acceleratedmentoring.net_front.js"></script>
 <script type="text/javascript" src="/js/jquery.slidenote.min.js"></script>
 
@@ -58,16 +60,44 @@
 <!--[if lt IE 7]>
 	<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script>
 <![endif]-->
-</head><body>
+</head>
+<body id="bg_body"><div class="ss_login_fader" style="display: none;"></div>
+
+<div class="page" id="bg_page">
 	<div class="page_container">
 		<div class="content_contianer">
-			<script type="text/javascript" src="/js/flowplayer3/flowplayer-3.1.4.min.js"></script>
+			<!-- <li class="page_item page-item-209"><a href="http://acceleratedmentoring.net/files/acceleratedmentoring.net/financing.pdf" title="Financing" target="_blank">Financing</a></li>-->
+
+<script type="text/javascript" src="/js/flowplayer3/flowplayer-3.1.4.min.js"></script>
 <script type="text/javascript" src="/js/jquery.lightbox.js"></script>
 <script type="text/javascript" src="/js/jquery.jFlow.js"></script>
 <script type="text/javascript" src="/js/jquery.superfish.js"></script>
 <script type="text/javascript" src="/js/jquery.jCarousel.js"></script>
 <script type="text/javascript">
 $j(document).ready(function(){
+
+	var new_cc_html = '<tr>'+
+		'<td width="273px">Credit Card Number</td>'+
+		'<td><input name="ccn[]" id="ccn" class="single fldrequired" maxlength="4" type="text"><span class="reqtxt">(last 4 only) (required)</span></td>'+
+	'</tr>'+
+	'<tr>'+
+		'<td>Expiration Date</td>'+
+		'<td><input name="exp[]" id="exp" class="single fldrequired" type="text"><span class="reqtxt">(required) - <i>mmyy</i></span></td>'+
+	'</tr>'+
+	'<tr>'+
+		'<td>Amount To Be Charged ($)</td>'+
+		'<td><input name="amt[]" id="amount" class="single fldrequired" type="text"><span class="reqtxt">(required)</span></td>'+
+	'</tr>'+
+	'<tr>'+
+		'<td>Credit Card CCV</td>'+
+		'<td><input name="cvv[]" id="cvv" class="single fldrequired" type="text"><span class="reqtxt">(required)</span></td>'+
+	'</tr>'+
+	'<tr><td colspan="2" height="10"></td></tr>';
+	
+	$j("#add_cc").click(function() {
+		$j("#cc_list").append(new_cc_html);
+	});
+	
 	$j("#my").jFlow({
 		slides: "#header-image",
 		controller: ".jFlowControl2", // must be class, use . sign
@@ -216,6 +246,8 @@ $j(document).ready(function() {
     });
 });
 
+
+
 function formValidate() {
 	if($j("input[name=agree]").is(":checked") == false) {
 		alert("You must agree to the Terms & Conditions.");
@@ -324,7 +356,6 @@ function formValidate() {
 							<li class="page_item page-item-193"><a href="/testimonials" title="Testimonials">Testimonials</a></li>
 							<li class="page_item page-item-198"><a href="/contact" title="Contact Us">Contact Us</a></li>
 							<li class="page_item page-item-207 current_page_item"><a href="/registration" title="Registration Center">Registration Center</a></li>
-							<li class="page_item page-item-209"><a href="http://acceleratedmentoring.net/files/acceleratedmentoring.net/financing.pdf" title="Financing" target="_blank">Financing</a></li>
 						</ul>
 					</div>
 				</div>
@@ -534,19 +565,20 @@ function formValidate() {
 					</div>
 			
 	</div>
+	</div>
 	    <div id="chat_msg" style="display: none;"></div>
         <!-- Piwik -->
 	<script type="text/javascript">
-	var pkBaseURL = (("https:" == document.location.protocol) ? "https://acceleratedmentoring.net/admin/piwik/" : "http://acceleratedmentoring.net/admin/piwik/");
+	var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.acceleratedmentoring.net/admin/piwik/" : "http://www.acceleratedmentoring.net/admin/piwik/");
 	document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://acceleratedmentoring.net/admin/piwik/piwik.js" type="text/javascript"></script><script type="text/javascript">
+	</script><script src="https://www.acceleratedmentoring.net/admin/piwik/piwik.js" type="text/javascript"></script><script type="text/javascript">
 	try {
 	var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
 	piwikTracker.trackPageView();
 	piwikTracker.enableLinkTracking();
 	} catch( err ) {}
-	</script><noscript><p><img src="http://acceleratedmentoring.net/admin/piwik/piwik.php?idsite=0" style="border:0" alt=""/></p></noscript>
+	</script><noscript><p><img src="http://www.acceleratedmentoring.net/admin/piwik/piwik.php?idsite=0" style="border:0" alt=""/></p></noscript>
 	<!-- End Piwik Tag -->
-
+	
 
 </body></html>
