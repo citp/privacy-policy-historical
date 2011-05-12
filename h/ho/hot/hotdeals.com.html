@@ -1,662 +1,150 @@
-<!--The following is the downloaded HTML source of the hotdeals.com privacy policy that was archived on 2009-02-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090224085004id_/http%3A//www.hotdeals.com/index5.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hotdeals.com privacy policy that was archived on 2011-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110513004409id_/http%3A//www.hotdeals.com/index5.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<html><head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2783231-3']);
+  _gaq.push(['_setDomainName', '.hotdeals.com']);
+  _gaq.push(['_trackPageview']);
 
-    
-	<meta http-equiv="title" content="Hot Deals on Travel">
-    <meta http-equiv="keywords" content="travel,deals,cars,NYC,las vegas"> 
-    <meta http-equiv="description" content="Hot Deals is the place to get the best deals on travel deals">
-	<title>Hot Deals on Travel</title>     
-    
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-<script language="javascript">
-    <!--
-
-		function changeSettings() {
-		    var urlQ = "http://63.241.243.20" + "?locale=" + document.webslocales.locale[document.webslocales.locale.selectedIndex].value + "&currencyCode=" + document.webslocales.currency[document.webslocales.currency.selectedIndex].value + "&cid=42760&home=true";
-		    document.webslocales.action = urlQ
-		    document.webslocales.submit();
-		}
-		
-	   function dmddChange( outM, outD ) {
-        if ( !isBrowserSupp() ) {
-            return;
-        }
-
-        adjustDate( outM.options.selectedIndex, outD );
-        return;
-        }
-	
-	    function isBrowserSupp() {
-	        // Get the version of the browser
-	        version =  parseFloat( navigator.appVersion );
-	        if ( ( version >= 2.0 ) && ( version < 2.1 ) && ( navigator.appName.indexOf( "Netscape" ) != -1 ) ) {
-	            return false;
-	        } else {
-	            return true;
-	        }
-		    return true;
-        }
-		
-        function openCalendar(formName,type) {
-            document.cookie = 'formName=' + formName;
-            document.cookie = 'inputType=' + type;
-            window.open('calendar.html','dates','width=300,height=300,resizable=1,status=1,menubar=0,location=0');
-        }
-    
-
-		    function isLeapYear( yrStr ) {
-		        var leapYear = false;
-		        var year = parseInt( yrStr, 10 );
-		        // every fourth year is a leap year
-		        if ( year % 4 == 0 ) {
-		            leapYear = true;
-		            // unless it's a multiple of 100
-		            if( year % 100 == 0 ) {
-		                leapYear = false;
-		                // unless it's a multiple of 400
-		                if( year % 400 == 0 ) {
-		                    leapYear=true;
-		                }
-		            }
-		        }
-		        return leapYear;
-		    }
-
-		    function getDaysInMonth( mthIdx, YrStr ) {
-		        // all the rest have 31
-		        var maxDays = 31
-		        // expect Feb. (of course)
-		        if( mthIdx == 1 ) {
-		            if( isLeapYear( YrStr ) ) {
-		                maxDays=29;
-		            } else {
-		                maxDays=28;
-		            }
-		        }
-		
-		        // thirty days hath...
-		        if( mthIdx == 3 || mthIdx == 5 || mthIdx == 8 || mthIdx == 10 ) {
-		            maxDays=30;
-		        }
-		        return maxDays;
-		    }
-
-		    //the function which does some magic to the date fields
-		    // return non-zero if it is the last day of the month
-		    function adjustDate( mthIdx, Dt ) {
-		        var value = 0;
-		
-		        var today = new Date()
-		        var theYear = parseInt( today.getYear(), 10 )
-		
-		        if( mthIdx < today.getMonth() ) {
-		            theYear = ( parseInt( today.getYear(), 10 ) + 1 )
-		        }
-		        if( theYear < 100 ) {
-		            theYear = "19" + theYear
-		        } else {
-		            if( ( theYear - 100 ) < 10 ) {
-		                theYear = "0" + ( theYear - 100 )
-		            } else {
-		                theYear = ( theYear - 100 ) + ""
-		            }
-		            theYear = "20" + theYear
-		        }
-
-
-		        var numDays = getDaysInMonth( mthIdx, theYear );
-		
-		        if( mthIdx == 1 ) {
-		            if( Dt.options.selectedIndex + 1 < numDays ) {
-		                return 0;
-		            } else {
-		                Dt.options.selectedIndex=numDays - 1;
-		                //check for leap year
-		                if( numDays == 29 ) {
-		                    return 99;
-		                } else {
-		                    return 1;
-		                }
-		            }
-		        }
-		
-		        if( Dt.options.selectedIndex + 1 < numDays ) {
-		            value = 0;
-		        } else {
-		            if ( Dt.options.selectedIndex + 1 > numDays ) {
-		                Dt.options.selectedIndex--;
-		                value = 3;
-		            } else {
-		                //index is 31 or 30
-		                value = 2;
-		            }
-		        }
-		        return value;
-		    }
-		
-		    function amadChange( inM, inD, outM, outD ) {
-	    	    if ( !isBrowserSupp() ) {
-	        	    return;
-		        }
-	
-	    	    var res = adjustDate( inM.options.selectedIndex, inD );
-		        if( res != 0 ) {
-	    	           outD.options.selectedIndex = 0;
-	        		   if ( outM.options.selectedIndex == 11 ) {
-	                 	   outM.options.selectedIndex = 0
-		               } else {
-	    	                outM.options.selectedIndex=inM.options.selectedIndex + 1;
-	        	            outD.options.selectedIndex = 1;
-	            	   }
-		        } else {
-	    	        outM.options.selectedIndex = inM.options.selectedIndex;
-	        	    if (outD.options.selectedIndex <= inD.options.selectedIndex) {
-	            	    outD.options.selectedIndex = inD.options.selectedIndex + 2;
-		            }
-	    	    }
-	        	return;
-		    }
-	
-			function loadDates()
-			{
-			
-				var calendar = new Date();
-				var calendar2 = new Date();
-				var cal
-				var cal2
-				var date;
-				var month;
-				var year;
-				var date2;
-				var month2;
-				var year2;
-				
-				//Here is the variable to change for to advance the arrival Date
-				 var advanceArrival = 10; 
-				
-				//Here is the variable to change for to advance the departure Date
-				 var advanceDeparture = 12; 
-				
-				
-				//Set the arrival Days
-				calendar.setDate(calendar.getDate()+ advanceArrival);
-				date = calendar.getDate();
-				month = calendar.getMonth();
-				
-				//Set the Departure Days
-				calendar2.setDate(calendar2.getDate()+advanceDeparture); 
-				date2 = calendar2.getDate();
-				month2 = calendar2.getMonth();
-				
-				document.forms['hotForm'].arrivalMonth.value=month;
-				document.forms['hotForm'].arrivalDay.value=date;
-				document.forms['hotForm'].departureMonth.value=month2;
-				document.forms['hotForm'].departureDay.value=date2;	
-			}
-			
-function nav()
-   {
-   var w = document.myform.mylist.selectedIndex;
-   var url_add = document.myform.mylist.options[w].value;
-   window.location.href = url_add;
-   }			
-		//-->
-    </script>
-<link href="/newversion07/site/style.css" rel="stylesheet" type="text/css">
-<link href="/_hdincludes/main.css" rel="stylesheet" type="text/css">
-<script language="JavaScript">
-<!--
-
-//  The "refresh" function implementations are identical
-//  to our regular "JavaScript-Refresh" example.  The only
-//  difference from our JavaScript Refresh example is
-//  we do not have a doLoad function that starts our
-//  refresh timer (since we use a refresh button).
-
-var sURL = unescape(window.location.pathname);
-
-function refresh()
-{
-    window.location.href = sURL;
-}
-//-->
 </script>
+<script type="text/javascript">
 
-<script language="JavaScript1.1">
-<!--
-function refresh()
-{
-    window.location.replace( sURL );
+/* Modified to support Opera */
+function bookmarksite(title,url){
+if (window.sidebar) // firefox
+	window.sidebar.addPanel(title, url, "");
+else if(window.opera && window.print){ // opera
+	var elem = document.createElement('a');
+	elem.setAttribute('href',url);
+	elem.setAttribute('title',title);
+	elem.setAttribute('rel','sidebar');
+	elem.click();
+} 
+else if(document.all)// ie
+	window.external.AddFavorite(url, title);
 }
-//-->
 </script>
+<meta name="Description" content="Cheap rates for hotels, car rentals, hot travel deals, cruises and vacation packages.">
+	<meta name="Keywords" content="HotDeals,airline tickets,car rentals,travel deals, low fares,hotel reservations,travel, cruises,hotels,accommodation,motels,resorts,discount hotels,cheap rooms,hotel reservations,business travel,vacations,rooms,suites">
+<script type="text/javascript" src="http://www.hotdeals.com/_includes/marquee.js"></script>
+<link rel="SHORTCUT ICON" type="image/x-icon" href="http://www.hotdeals.com/images/favicon.ico">
 
-<script language="JavaScript1.2">
-<!--
-function refresh()
-{
-    window.location.reload( false );
-}
-//-->
-</script>
-</head>
-<body style="padding:0; margin:0; background-image:url(/newversion07/site/images/bg.gif); background-position:center">
-
-<table cellpadding="0" cellspacing="0" border="0" align="center">
-	<tbody><tr>	
-	  <td valign="top" width="766">
-	  	<table cellpadding="0" cellspacing="0" border="0" style="height:100% ">
-			<tbody><tr>
-				<td valign="top" width="46" style=" height:100% ">
-					<table cellpadding="0" cellspacing="0" border="0" style="height:100% ">
-						<tbody><tr>
-							<td valign="top" width="46" style="height:100%; background-image:url(/newversion07/site/images/left.gif) "></td>
-						</tr>
-						<tr>
-							<td valign="top" width="46" height="56" style="background-image:url(/newversion07/site/images/left1.gif) "></td>
-						</tr>
-					</tbody></table>
-				</td>
-				<td valign="top" width="682">
-					<table cellpadding="0" cellspacing="0" border="0">
-						<tbody><tr>
-						  <td valign="top" width="682" height="100">
-						    <table cellpadding="0" cellspacing="0" border="0">
-									<tbody><tr>
-									  <td valign="top" width="1" height="100">
-									  
 <style type="text/css">
-<!--
-.style1 {
-	color: #FF0000;
-	font-weight: bold;
+.headtext1 {
+	color: #930;
 }
--->
+#marqueecontainer{position: relative; width: 300px; /*marquee width */ height: 190px; /*marquee height */ background-color: white;
+overflow: hidden; /* border: 3px solid orange; */ padding: 2px; padding-left: 4px; }
+.revealcontent{ visibility: hidden; }
+</style>
+<meta name="revisit-after" content="5 days">
+<meta name="ROBOTS" content="ALL">
+<title>HotDeals: Find Cheap Airline Tickets, Discount Hotel Rooms, Vacation Packages, Car Rentals, Travel Deals at HotDeals</title>
+
+<link href="http://www.hotdeals.com/_hdincludes/main.css" type="text/css" rel="stylesheet">
+<link href="http://www.hotdeals.com/_hdincludes/style.css" type="text/css" rel="stylesheet">
+<link href="http://www.hotdeals.com/_hdincludes/ian/forms.css" type="text/css" rel="stylesheet">
+
+
+<style type="text/css">
+BODY {
+	PADDING-RIGHT: 0pt; BACKGROUND-POSITION: center 50%; PADDING-LEFT: 0pt; BACKGROUND-IMAGE: url(http://www.hotdeals.com/newversion07/site/images/bg.gif); PADDING-BOTTOM: 0pt; MARGIN: 0px; PADDING-TOP: 0pt
+}
+div#utilities ul.phone-numbers {
+display:inline;
+float:right;
+font-size:10px;
+margin-right:20px;
+margin-top:10px;
+text-align:right;
+width:34%;
+}
 </style>
 
-<table>
-<tbody><tr>
-<td align="left">
-  <div><img src="/images/new_logo.gif" width="248" height="67" border="0" usemap="#Map2"></div>
-  <div><a href="/index5.cfm?page=language"><img src="/_hdincludes/images/flags.gif" alt="Press to select alternate language." border="0"></a></div></td>
-<td><img src="/images/2.gif" border="0" usemap="#Map">
+</head>
 
-  <map name="Map">
-    <area shape="rect" coords="6,17,110,36" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;isFlash=true&amp;pageName=condos&amp;currencyCode=USD&amp;isDetectFlash=false&amp;cid=42760&amp;isRedirect=true&amp;additionalDataString=vrBookingSource|index" target="_self">
-    
-	<area shape="rect" coords="126,18,232,35" href="http://travel.hotdeals.com/index.jsp;jsid=vxw6CSDx5I8nFbfyhUFqr?locale=en_US&amp;pageName=airSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index&amp;advancedOptions=true" target="_top">
-    
-	<area shape="rect" coords="245,17,354,35" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=hotSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index" target="_top">
-    <area shape="rect" coords="363,17,471,36" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=carSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index" target="_self">
-    <area shape="rect" coords="483,16,589,35" href="http://www.hotdeals.com/cruises3.cfm" target="_self">
-  </map></td>
-</tr>
-<tr>
-  <td>
- <link href="/forms.css" rel="stylesheet" type="text/css">
+<body class="twoColLiqRt">
+<table width="868" border="0" align="center">
+  <tbody><tr>
+    <td width="858"><hr><table width="850" border="0">
+  <tbody>
+  <tr valign="top">
+    <td align="left" width="250"><img height="67" src="http://www.hotdeals.com/images/new_logo.gif" width="248" usemap="#Map2" border="0"> 
+      <map name="Map2"><area shape="RECT" coords="5,4,240,61" href="http://www.hotdeals.com/"></map></td>
+    <td align="middle" width="600"><img src="http://www.hotdeals.com/images/2.gif" usemap="#Map" border="0"> 
+	  <div align="center"><img src="http://www.hotdeals.com/images/flag.gif" width="384" height="23" border="0" usemap="#l_map">
+<map name="l_map"><area shape="rect" coords="2,2,23,21" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=de_AT&amp;currencyCode=EUR" alt="Austria Translation for travel deals.">
+<area shape="rect" coords="24,1,47,21" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=nl_BE&amp;currencyCode=EUR" alt="Belgium Translation for travel deals.">
+<area shape="rect" coords="51,1,73,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=de_CH&amp;currencyCode=CHF" alt="Switzerland Translation for travel deals.">
+<area shape="rect" coords="77,0,99,21" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=de_DE&amp;currencyCode=EUR" alt="German Translation for travel deals.">
+<area shape="rect" coords="103,1,125,23" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=da_DK&amp;currencyCode=DKK" alt="Denmark Translation for travel deals.">
+<area shape="rect" coords="129,2,151,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=es_ES&amp;currencyCode=EUR" alt="Spain - Spanish Translation for travel deals.">
+<area shape="rect" coords="155,1,176,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=fr_FR&amp;currencyCode=EUR" alt="French Translation for travel deals.">
+<area shape="rect" coords="180,1,203,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=en_IE&amp;currencyCode=EUR" alt="Ireland - Irish Translation for travel deals.">
+<area shape="rect" coords="207,0,227,24" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=it_IT&amp;currencyCode=EUR" alt="Italy - Italian Translation for travel deals.">
+<area shape="rect" coords="233,1,254,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=nl_NL&amp;currencyCode=EUR" alt="Netherlands Translation for travel deals.">
+<area shape="rect" coords="258,1,281,23" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=no_NO&amp;currencyCode=NOK" alt="Norway Translation for travel deals.">
+<area shape="rect" coords="285,0,305,23" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=se_SE&amp;currencyCode=SEK" alt="Sweden - Swedish Translation for travel deals.">
+<area shape="rect" coords="311,1,333,23" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=en_UK&amp;currencyCode=GBP" alt="British Translation for travel deals.">
+<area shape="rect" coords="337,1,359,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=en_CA&amp;currencyCode=CAD" alt="Canadian - Canada Translation for travel deals.">
+<area shape="rect" coords="363,1,384,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=en_US&amp;currencyCode=USD" alt="English Translation for travel deals.">
+</map>
 
- <!--<table align="center">
-  
+</div>
+	  
+	  <map name="Map"><area shape="RECT" coords="6,17,110,36" href="http://vacations.ian.com/pubspec/scripts/eap.asp?goto=pkglaunch&amp;eapid=59083-30024"><area shape="RECT" coords="126,18,232,35" href="http://travel.hotdeals.com/index.jsp;jsid=vxw6CSDx5I8nFbfyhUFqr?locale=en_US&amp;pageName=airSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index&amp;advancedOptions=true"><area shape="RECT" coords="245,17,354,35" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=hotSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index"><area shape="RECT" coords="363,17,471,36" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=carSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index"><area shape="RECT" coords="483,16,589,35" href="http://www.hotdeals.com/cruises3.cfm"></map></td></tr>
   <tr>
+    <td align="left"><a href="http://www.hotdeals.com/newsletterrequest.cfm"><img src="http://www.hotdeals.com/images/emailimage2.gif" width="246" height="41" border="0"></a>
+      <!--<FORM name=form1 
+      action=http://www.hotdeals.com/newsletterEmails/confirmLocation.cfm 
+      method=post><INPUT style="BACKGROUND: #ffffcc; WIDTH: 248px" 
+      value="Enter email address" name=email><BR>Free Newsletter - Enter email 
+      address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<INPUT onClick="return checkmail(this.form.email)" type=submit value=Submit> 
+      </FORM> --></td>
     <td>
-	<form name="form1" method="post" action="/newsletterEmails/confirmLocation.cfm">
-        
-         <span class="blackBold">&nbsp;&nbsp;Get FREE Newsletter</span>
-         <input name="email" type="text" id="email" value="Email Address" />
-         <input type="submit" name="Submit" value="Sign Up" style="margin-left:25px;">
-    </form>    </td>
+      <div align="center"><strong><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><span class="bodytext"><a href="http://www.hotdeals.com/index5.cfm?page=customercare">Customer 
+      Care</a> | <a href="http://dg.hotdeals.com/index.jsp?cid=42760">Travel Guides</a> | 
+      <a href="http://travel.hotdeals.com/index.jsp?pageName=promo&amp;cid=42760">Rebates</a> 
+      | <a href="http://www.hotdeals.com/tips.cfm">Helpful Tips</a>| <a href="http://www.hotdeals.com/affiliate.cfm" target="_blank">Partner for
+      Income</a>| 
+      <a href="http://www.hotdeals.com/travel-articles.cfm">Travel Articles</a> |
+      <a href="javascript:bookmarksite('HotDeals.com - Discount Travel Website', 'http://www.hotdeals.com')">Bookmark</a> </span></font></strong></div>
+	  
+	  <!--content -->	  </td>
+		  </tr>
+  <tr>
+    
+	<td colspan="2" align="center">
+	
+	<div style="margin-left:5px;"><span class="html-confpg-thanks">Hot Destinations </span>:&nbsp;&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=Atlanta&amp;stateProvince=GA&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Atlanta</a> 
+      • <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=Chicago&amp;stateProvince=IL&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Chicago</a> 
+      • <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=Boston&amp;stateProvince=MA&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Boston</a> 
+      • <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=New+York&amp;stateProvince=NY&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">New 
+      York</a> • <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=Los+Angeles&amp;stateProvince=CA&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">LA</a> 
+      • <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=Paris&amp;stateProvince=&amp;country=FR&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Paris</a> 
+      • <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=london&amp;stateProvince=&amp;country=UK&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">London</a> 
+      • <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=miami&amp;stateProvince=FL&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Miami</a> 
+      • <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=houston&amp;stateProvince=TX&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Houston</a> 
+      • <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=las+vegas&amp;stateProvince=NV&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Las 
+      Vegas</a> • <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=orlando&amp;stateProvince=FL&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Orlando</a> • <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=myrtlebeach&amp;stateProvince=SC&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Myrtle Beach</a> </div></td>
+    </tr>
+	</tbody></table></td>
   </tr>
-</table> -->
-<form method="post" action="http://www.drumbeats.com/form.php?form=5" id="frmSS5" onsubmit="return CheckForm5(this);">
-&nbsp;&nbsp;<input name="email" type="text" style="width:120px; background:#FFFFCC" value="Enter email address">
- &nbsp;Format: <select style="background:#FFFFCC" name="format"><option value="h">HTML</option><option value="t">Text</option></select>
- 
-<div align="right" style="margin-right:22px;"><strong>Free Newsletter</strong> <input align="right" type="submit" value="Subscribe"></div>
-</form>
-<script language="javascript">
-
-			function CheckMultiple5(frm, name) {
-				for (var i=0; i < frm.length; i++)
-				{
-					fldObj = frm.elements[i];
-					fldId = fldObj.id;
-					if (fldId) {
-						var fieldnamecheck=fldObj.id.indexOf(name);
-						if (fieldnamecheck != -1) {
-							if (fldObj.checked) {
-								return true;
-							}
-						}
-					}
-				}
-				return false;
-			}
-		function CheckForm5(f) {
-			if (f.email.value == "") {
-				alert("Please enter your email address.");
-				f.email.focus();
-				return false;
-			}
-		
-						if (f.format.selectedIndex == -1) {
-							alert("Please choose a format to receive your email campaigns in");
-							f.format.focus();
-							return false;
-						}
-					
-				return true;
-			};
-		
-</script></td>
-  <td valign="top">
-   
-    <div align="center">
-	<strong>
-	<font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
-      <span class="bodytext"><a href="http://www.hotdeals.com/index5.cfm?page=customercare" target="_self">Customer Care</a> | <a href="http://dg.hotdeals.com/index.jsp?cid=42760">Destination 
-    Guides</a> | <a href="http://travel.hotdeals.com/index.jsp?pageName=promo&amp;cid=42760" target="_self">Rebates</a> | <a href="http://www.hotdeals.com/tips.cfm" target="_self">Helpful Tips </a> | <a href="http://www.hotdeals.com/index5.cfm?page=advertising" target="_self">Advertise </a> | <a href="http://www.hotdeals.com/newsletters" target="_blank">Newsletter </a>
-	</span></font></strong>	</div>
-
-
-<div align="center">
-	<strong>
-	<font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
-      <span class="bodytext"><a href="http://www.hotdeals.com/red-hot-hotel-deals-barcelona.cfm" target="_self">Red Hot Hotel Deals</a> | <a href="http://www.hotdeals.com/best-hotel-deals-in-nyc.cfm">NYC Hotel Deals</a> | <a href="http://www.hotdeals.com/canada-last-minute-deals-travel.cfm" target="_self">Last Minute Canada Deals</a> | <a href="http://www.hotdeals.com/disney-vacation-package-specials.cfm" target="_self">Disney Deals</a><br> <a href="http://www.hotdeals.com/last-minute-hotel-deals-london-uk.cfm" target="_self">Last Minute London Deals</a> | <a href="http://www.hotdeals.com/travel-deals-worldwide-tour-discount.cfm" target="_blank">Travel Discounts </a>| <a href="http://www.hotdeals.com/top-10-world-attractions.cfm" target="_self">Top 10 Travel Attractions</a>
-	</span></font></strong>	</div>	</td>
-</tr>
-<tr valign="top">
-  <td colspan="2" valign="top">
+  <tr>
+    <td><div style="margin-bottom:10px;"><hr></div>
     </td>
   </tr>
-</tbody></table>
-<map name="Map2">
-  <area shape="rect" coords="4,3,239,60" href="http://www.hotdeals.com" target="_self">
-</map>
-									  </td>
-									</tr>
-								</tbody></table>
-							</td>
-						</tr>
-						<tr>
-						  <td valign="top" height="459" bgcolor="#FFFFFF">
-						 
-
-		
-
-<style type="text/css">
-<!--
-.style1 {font-size: 16px}
-.style2 {font-size: 12px}
--->
-</style>
-
-
-<table>
-<tbody><tr valign="top">
-<td>
-<div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-
-
-
-
-
-
-	
-	
-
-
-
-
-
-
-
-	
-		
-			
-
-				<style type="text/css">
-				<!--
-				.AdUnit4 {background-color:#FFFFFF;}
-				.AdBL4 {border-left:0px solid #FFFFFF;}
-				.AdBR4 {border-right:0px solid #FFFFFF;}
-				.AdBB4 {border-bottom:0px solid #FFFFFF;}
-				.AdBT4 {border-top:0px solid #FFFFFF;}
-				.AdvTitle4 {font-family:arial;font-style:none;text-decoration:none;font-weight:bold;color:#009999;font-size:8.5pt;}
-				.AdvText4 {font-family:arial;font-style:none;text-decoration:none;font-weight:none;color:#666666;font-size:8.5pt;}
-				.AdvURL4 {font-family:arial;font-style:none;text-decoration:none;font-weight:none;color:#FF6600;font-size:8.0pt;}
-				-->
-				</style>
-
-				<table width="100%" border="0">
-				<tbody><tr>
-				<td class="AdUnit4 AdBR4 AdBL4 AdBB4 AdBT4" valign="CENTER" align="CENTER">
-					<div style="PADDING-LEFT: 2px; OVERFLOW: hidden;">
-					<a class="AdvTitle4" style="color:009999" href="http://www.hotdeals.com/addeals/clk.cfm?rd2link=102" target="_blank" onmouseover="self.status='Advertisement'; return true" onmouseout="self.status=''; return true">Sponsor</a><br>
-					<a class="AdvText4" style="color:666666" href="http://www.hotdeals.com/addeals/clk.cfm?rd2link=102" target="_blank" onmouseover="self.status='Advertisement'; return true" onmouseout="self.status=''; return true"><img src="http://www.awltovhc.com/image-2978468-10503546" width="120" height="90" alt="Wine Baskets" border="0"><!--</A--><br>
-					</a><a class="AdvURL4" style="color:FF6600" href="http://www.hotdeals.com/addeals/clk.cfm?rd2link=102" target="_blank" onmouseover="self.status='Advertisement'; return true" onmouseout="self.status=''; return true">www.allwinebaskets.com</a><br>
-					</div>
-				</td>
-				</tr>
-				</tbody></table>
-
-			
-
-			
-			
-
-			
-				
-
-					
-
-
-
-
-
-
-
-	
-	
-
-
-
-			
-
-		
-	
-
-
-
-</div>
-<table border="0">
-
-<tbody><tr><td valign="top" width="232" height="206" style="background-image:url(/newversion07/site/images/line2.gif) ">
-<div style="margin-left:15px; margin-top:9px "><img alt="" src="/newversion07/site/images/4_w1.gif" border="0"></div>
-<div style="margin-left:13px; margin-top:7px "><img alt="" src="/newversion07/site/images/4_p1.jpg" border="0"></div>
-<div style=" margin-left:18px; margin-top:9px; margin-right:15px; line-height:12px " class="blue"><strong>Visit
-    London </strong></div>
-<div style=" margin-left:18px; margin-top:4px; margin-right:15px; line-height:12px " class="s1">England's ancient cathedral cities, such as <strong>Lincoln, York, Salisbury,   Durham</strong> and <strong>Winchester</strong> , cannot be equalled for sheer physical beauty.</div>
-<div style=" margin-left:18px; margin-top:4px; margin-right:10px; line-height:12px " class="s1">
-<a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=london&amp;stateProvince=&amp;country=UK&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false" class="blue">Hot Deals on the best hotels in London</a><br>
-The Cumberland, Kingsway Hall, The Grand, The Russell and more. 
-</div>
-</td>
-</tr>
-<tr>
-<td valign="top" width="232" height="1" style="background-image:url(/newversion07/site/images/line.gif) "></td>
-</tr>
-<tr>
-<td valign="top" width="232" height="8"></td>
-</tr>
-<tr>
-<td valign="top" width="232" height="1" style="background-image:url(/newversion07/site/images/line.gif) "></td>
-</tr>
-<tr>
-<td valign="top" width="232" height="226" style="background-image:url(/newversion07/site/images/line2.gif) ">
-<div style="margin-left:15px; margin-top:10px "><img alt="" src="/newversion07/site/images/4_w2.gif" border="0"><br>
-  <span class="style1">Featured
-  Hotel Deals<br>
-  <img src="/newversion07/site/images/1_z2.gif" width="9" height="8"> = <span class="style2">Deal
-  ending date</span> <br>
-  <br>
-  </span></div>
-<div style="margin-left:14px; margin-top:7px ">
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td valign="top" width="196" height="159" bgcolor="#FFF6E1">
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td valign="top" width="205" height="19">
-<table width="188" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="196" valign="top">
-
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/19/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=128666" class="small">Seneca Hotel &amp; Suites</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Chicago, IL)&nbsp;&nbsp; $115.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/25/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=265395" class="small">Hotel Villa Guadalupe</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Malaga &amp; Costa del Sol, Spain)&nbsp;&nbsp; $95.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/27/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=230821" class="small">Top of the Village</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Aspen, CO)&nbsp;&nbsp; $217.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=143119" class="small">Inn at Santa Fe</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Santa Fe, NM)&nbsp;&nbsp; $79.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=107500" class="small">Radisson Hotel Chicago O'Hare</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Chicago, IL)&nbsp;&nbsp; $63.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=191614" class="small">Kfar Maccabia Hotel and Suites</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Tel Aviv, Israel)&nbsp;&nbsp; $150.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=191614" class="small">Kfar Maccabia Hotel and Suites</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Tel Aviv, Israel)&nbsp;&nbsp; $100.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=244213" class="small">Hanalei Colony Resort</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Kauai, HI)&nbsp;&nbsp; $200.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=212365" class="small">Northwoods Resort &amp; Conference Center</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Big Bear, CA)&nbsp;&nbsp; $61.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=222463" class="small">Design Suites Bariloche</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Bariloche, Argentina)&nbsp;&nbsp; $168.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=249632" class="small">Edelweiss Bariloche</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Bariloche, Argentina)&nbsp;&nbsp; $147.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=256170" class="small">Villa Hunid Hotel and Spa Resort</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Bariloche, Argentina)&nbsp;&nbsp; $123.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=225787" class="small">101 Park House</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Bogota, Colombia)&nbsp;&nbsp; $252.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=116942" class="small">Bogota Plaza Summit</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Bogota, Colombia)&nbsp;&nbsp; $205.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=255722" class="small">Estelar Apartamentos</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Bogota, Colombia)&nbsp;&nbsp; $168.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=257070" class="small">Hotel Estelar de la Feria</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Bogota, Colombia)&nbsp;&nbsp; $137.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=233580" class="small">Hotel Estelar La Fontana</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Bogota, Colombia)&nbsp;&nbsp; $187.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=189736" class="small">Argenta Tower</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Buenos Aires, Argentina)&nbsp;&nbsp; $0.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=126247" class="small">Buenos Aires Wilton</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Buenos Aires, Argentina)&nbsp;&nbsp; $0.00</div>
-	
-	
-	<div style="margin-left:5px; margin-top:4px; margin-right:5px; line-height:12px" class="s1">
-	<img alt="This special rate ends on 3/31/09" src="/newversion07/site/images/1_z2.gif" width="9" height="8">&nbsp;&nbsp;<a href="http://travel.hotdeals.com/index.jsp?pageName=hotInfo&amp;cid=42760&amp;hotelID=250233" class="small">Concord Callao by Temporary</a><br>&nbsp;&nbsp;&nbsp;&nbsp;(Buenos Aires, Argentina)&nbsp;&nbsp; $0.00</div>
-	<br></td>
-</tr>
-</tbody></table></td>
-</tr>
-<tr>
-<td valign="top" width="205" height="1" bgcolor="#FFFFFF"></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</div>
-<div style="margin-left:10px; margin-top:4px "><img alt="" src="/newversion07/site/images/1_line.gif" border="0"></div>
-<div style=" margin-left:101px; margin-top:4px; margin-right:15px; line-height:12px " class="o"><a href="/index5.cfm?page=morehotels">more destinations</a></div>
-</td>
-</tr>
-<tr>
-<td valign="top" width="232" height="1" style="background-image:url(/newversion07/site/images/line.gif) "></td>
-</tr>
-<tr>
-<td valign="top" width="232" height="8"></td>
-</tr></tbody></table>
-
-</td>
-<td align="center" valign="top">
-		
-	
-	
-			
+  <tr>
+    <td><!--header end http://travel.hotdeals.com/index.jsp?locale=en_US&amp;isFlash=true&amp;pageName=condos&amp;currencyCode=USD&amp;isDetectFlash=false&amp;cid=42760&amp;isRedirect=true&amp;additionalDataString=vrBookingSource|index --> 
 
 <table width="90%" border="0" align="center" cellpadding="0">
         <tbody><tr> 
@@ -810,54 +298,69 @@ The Cumberland, Kingsway Hall, The Grand, The Russell and more.
         </tr>
       </tbody></table>
 
-		
-	
-</td>
-</tr>
-</tbody></table>
-</td>
-						</tr>
-						<tr>
-							<td valign="top" height="56">
-								<table width="100%" cellpadding="0" cellspacing="0" border="0">
-									<tbody><tr>
-										<td valign="top" width="100%" height="49" style="background-image:url(/newversion07/site/images/bottom1.gif); background-position:center ">
-											<div style="margin-top:17px;" align="center" class="s"><a href="http://www.hotdeals.com">Home</a> | 
-      <a href="http://travel.hotdeals.com/index.jsp;jsid=vxw6CSDx5I8nFbfyhUFqr?locale=en_US&amp;pageName=airSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index&amp;advancedOptions=true">Flights</a> | <a href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=hotSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index">Hotels</a> 
-      | <a href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=carSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index">Cars</a> | <a href="/cruises3.cfm">Cruises</a> | <a href="/index5.cfm?page=vacations" target="_top">Vacations</a> | <a href="/index5.cfm?page=privacy">Privacy</a> | <a href="/index5.cfm?page=contact">Contact</a> | <a href="/sitemap3.cfm">Site Map</a><br><br>
-	  
-	  HotDeals.com Copyright © 2008 All Rights Reserved 
- |  <a href="mailto:info@hotdeals.com">info@hotdeals.com</a>
-	
-	</div>
-										</td>
-									</tr>
-									<tr>
-										<td valign="top" style="background-image:url(/newversion07/site/images/bottom2.gif); height:100%; background-position:center "></td>
-									</tr>
-								</tbody></table>
-							</td>
-						</tr>
-					</tbody></table>
-				</td>
-				<td valign="top" width="38" style="height:100% ">
-					<table cellpadding="0" cellspacing="0" border="0" style="height:100% ">
-						<tbody><tr>
-							<td valign="top" width="38" style="height:100%; background-image:url(/newversion07/site/images/right.gif) "></td>
-						</tr>
-						<tr>
-							<td valign="top" width="38" height="56" style="background-image:url(/newversion07/site/images/right1.gif) "></td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
-	  </td>
-	</tr>
-</tbody></table>
+	<!--footer start --></td>
+  </tr>
+  <tr>
+    <td><hr></td>
+  </tr>
+  <tr>
+    <td>
+    <div align="center"><img src="http://www.hotdeals.com/images/2.gif" usemap="#Map" border="0"></div> 
 <div align="center">
+  <p><img src="http://www.hotdeals.com/images/flag.gif" width="384" height="23" border="0" usemap="#l_map">
+    <map name="l_map">
+      <area shape="rect" coords="2,2,23,21" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=de_AT&amp;currencyCode=EUR" alt="Austria Translation for travel deals.">
+      <area shape="rect" coords="24,1,47,21" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=nl_BE&amp;currencyCode=EUR" alt="Belgium Translation for travel deals.">
+      <area shape="rect" coords="51,1,73,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=de_CH&amp;currencyCode=CHF" alt="Switzerland Translation for travel deals.">
+      <area shape="rect" coords="77,0,99,21" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=de_DE&amp;currencyCode=EUR" alt="German Translation for travel deals.">
+      <area shape="rect" coords="103,1,125,23" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=da_DK&amp;currencyCode=DKK" alt="Denmark Translation for travel deals.">
+      <area shape="rect" coords="129,2,151,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=es_ES&amp;currencyCode=EUR" alt="Spain - Spanish Translation for travel deals.">
+      <area shape="rect" coords="155,1,176,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=fr_FR&amp;currencyCode=EUR" alt="French Translation for travel deals.">
+      <area shape="rect" coords="180,1,203,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=en_IE&amp;currencyCode=EUR" alt="Ireland - Irish Translation for travel deals.">
+      <area shape="rect" coords="207,0,227,24" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=it_IT&amp;currencyCode=EUR" alt="Italy - Italian Translation for travel deals.">
+      <area shape="rect" coords="233,1,254,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=nl_NL&amp;currencyCode=EUR" alt="Netherlands Translation for travel deals.">
+      <area shape="rect" coords="258,1,281,23" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=no_NO&amp;currencyCode=NOK" alt="Norway Translation for travel deals.">
+      <area shape="rect" coords="285,0,305,23" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=se_SE&amp;currencyCode=SEK" alt="Sweden - Swedish Translation for travel deals.">
+      <area shape="rect" coords="311,1,333,23" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=en_UK&amp;currencyCode=GBP" alt="British Translation for travel deals.">
+      <area shape="rect" coords="337,1,359,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=en_CA&amp;currencyCode=CAD" alt="Canadian - Canada Translation for travel deals.">
+      <area shape="rect" coords="363,1,384,22" href="http://travel.hotdeals.com/hotels/searchframe.jsp?cid=42760&amp;locale=en_US&amp;currencyCode=USD" alt="English Translation for travel deals.">
+    </map>
+    
+  </p>
+  <p><a href="http://www.facebook.com/pages/HotDealscom-Travel-Connection/158916054144151" target="_blank"><img src="../../images/Facebook-icon.png" width="126" height="116" border="0" longdesc="http://www.facebook.com/pages/HotDealscom-Travel-Connection/158916054144151"></a><a href="http://travelblog.hotdeals.com" target="_blank"><img src="../../images/blog.jpg" width="126" height="116" border="0"></a></p>
+  <a href="/index5.cfm?page=contact">Contact Us</a> | <a href="/link-exchange.cfm">Link Exchange</a> | <a href="/press.cfm">Press</a> | <a href="http://travelblog.hotdeals.com" target="_blank">Travel Blog</a> | <a href="/index5.cfm?page=privacy">Privacy Statement</a></div>
+	  
+	  <map name="Map"><area shape="RECT" coords="6,17,110,36" href="http://vacations.ian.com/pubspec/scripts/eap.asp?goto=pkglaunch&amp;eapid=59083-30024"><area shape="RECT" coords="126,18,232,35" href="http://travel.hotdeals.com/index.jsp;jsid=vxw6CSDx5I8nFbfyhUFqr?locale=en_US&amp;pageName=airSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index&amp;advancedOptions=true"><area shape="RECT" coords="245,17,354,35" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=hotSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index"><area shape="RECT" coords="363,17,471,36" href="http://travel.hotdeals.com/index.jsp?locale=en_US&amp;pageName=carSearch&amp;currencyCode=USD&amp;cid=42760&amp;additionalDataString=vrBookingSource|index"><area shape="RECT" coords="483,16,589,35" href="http://www.hotdeals.com/cruises3.cfm"></map>
+    <div id="footer" style="clear:both;"><div class="HotDealseoBox">
+    <p>
+        Find cheap airfares, <a href="http://www.hotdeals.com/index5.cfm?page=hotels">discount hotels</a>, <a href="http://www.hotdeals.com/index5.cfm?page=rentalcars">car rentals</a>, <a href="http://www.hotdeals.com/index5.cfm?page=cruises">cruise deals</a> and <a href="http://www.hotdeals.com/index5.cfm?page=vacations">vacation packages</a> to popular <a href="http://travel.hotdeals.com/index.jsp?cid=42760">travel destinations</a> worldwide. Let HotDeals do all the work, the traveler's search engine, and check out <a href="http://www.hotdeals.com/index5.cfm?page=flights">special flight offers</a> for the best <a href="http://www.hotdeals.com/index5.cfm?page=flights">deals on airfare</a>.  Also, check out our interactive destination <a href="http://travel.hotdeals.com/index.jsp?cid=42760"> guides</a> for suggestions on hotels and travel information. Just click on one of the links shown below.    <br>
+        <br>
+        <span style="float:left;"><b>&nbsp;&nbsp;&nbsp;Travel to International Cities</b> <span><a href="http://63.241.243.25/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=34348">Amsterdam</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=44298">Barcelona</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=26100">London</a></span> <span><a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=35130">Buenos Aires</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=22950">Shanghai</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=19509">Rome</a></span> <span><a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=29269">Montreal</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=29914">Toronto</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=22800">Beijing</a></span> <span><a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=44553">Paris</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=30156">Sydney</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=28773">Tokyo</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=36544">Frankfurt</a><br>
+		<strong>&nbsp;&nbsp;&nbsp;Travel to Europe</strong>
+            <span><a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=34866">Austria</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=40886">England</a></span>
+            <span><a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=32997">France</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=36364">Germany</a></span>
+            <span><a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=38687">Greece</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=34240">Croatia</a></span>,<a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=32069">Italy</a>, <a href="http://dg.hotdeals.com/index.jsp?cid=42760&amp;action=viewLocation&amp;locationId=35114">Denmark</a><br>
+            <strong>&nbsp;&nbsp;&nbsp;Travel to US Cities</strong>
+            <span><a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=Atlanta&amp;stateProvince=GA&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Atlanta</a>, <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=Chicago&amp;stateProvince=IL&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Chicago</a>,<a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=philadelphia&amp;stateProvince=PA&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Philadelphia</a></span>
+            <span><a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=las+vegas&amp;stateProvince=NV&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Las Vegas</a>, <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=Boston&amp;stateProvince=MA&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Boston</a>, <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=orlando&amp;stateProvince=FL&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Orlando</a>, <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=San+diego&amp;stateProvince=CA&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">San Diego</a></span>
+            <span><a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=san+franciscowashington&amp;stateProvince=CA&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">San Francisco</a>, <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=new+orleans&amp;stateProvince=LA&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">New Orleans</a>,</span><a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=New+York&amp;stateProvince=NY&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">New York</a>, <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=seattle&amp;stateProvince=WA&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Seattle</a>, <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=miami&amp;stateProvince=FL&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Miami</a>, <a href="http://travel.hotdeals.com/index.jsp?pageName=hotSearch&amp;cid=42760&amp;city=washington&amp;stateProvince=DC&amp;country=US&amp;validateCity=true&amp;submitted=true&amp;specials=false&amp;showHotels=true&amp;isHotels=true&amp;showCondos=true&amp;isCondos=false&amp;netOnly=false">Washington DC</a></span></span></p>
+    <div class="HotDealBlock">    </div>
+</div></div></td>
+  </tr>
+  <tr>
+    <td><div align="center">Copyright © 1996-2010 HotDeals.com. All rights reserved.</div></td>
+  </tr>
+</tbody></table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2783231-3");
+pageTracker._setDomainName(".hotdeals.com");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
-
-</div>
 
 </body></html>
