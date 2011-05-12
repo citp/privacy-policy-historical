@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brian-bagnall.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119233756id_/http%3A//brian-bagnall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brian-bagnall.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512142903id_/http%3A//brian-bagnall.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Brian-Bagnall.com
+# 
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
@@ -58,5 +58,3 @@ Where to Direct Questions about Our Privacy Policy: If you have any questions ab
 Revisions to this Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting.
 
 Last updated: September 3, 2009
-
-[](http://www.facebook.com/share.php?u=http://brian-bagnall.com/privacy-policy/)[Share on Facebook](http://www.facebook.com/share.php?u=http://brian-bagnall.com/privacy-policy/ "Share on Facebook")
