@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetimes.co.za privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124033609id_/http%3A//www.timeslive.co.za/%3Ffilter%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimes.co.za privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512192951id_/http%3A//www.timeslive.co.za/%3Ffilter%3Dprivacy) for the most accurate reproduction.*
 
 # 
 
