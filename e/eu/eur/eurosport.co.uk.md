@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224144657id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurosport.co.uk privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513001334id_/http%3A//info.yahoo.com/privacy/uk/yahoo) for the most accurate reproduction.*
 
 # Yahoo! Privacy Centre
 
 ## WHAT THIS PRIVACY AND COOKIE POLICY COVERS
 
-This Privacy Policy covers Yahoo!'s treatment of personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information includes information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
+This Privacy Policy covers Yahoo!'s treatment of personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information means information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
 The Privacy Policy also gives information about cookies; Yahoo!'s and third parties' use of cookies; and how you may disable such cookies. 
 
@@ -12,9 +12,9 @@ This Privacy Policy does not apply to the practices of companies that Yahoo! doe
 
 This Privacy Policy incorporates, where applicable, any additional guidance about our privacy practices relating to particular products or services that can be found under the section "More about Yahoo! Privacy" on the top left of this page. 
 
-Yahoo!” means Yahoo! SARL (based in Switzerland), except where the relevant service is provided by another Yahoo! group company, in which case references to Yahoo! shall, in respect of those services, be references to that Yahoo! Group company. Find out more information about Yahoo! [data storage](http://info.yahoo.com/privacy/uk/yahoo/datastorage/) and [data transfer](http://info.yahoo.com/privacy/uk/yahoo/datatransfer/).
+"Yahoo!” means Yahoo! UK Limited, except where the relevant service is provided by another Yahoo! group company, in which case references to Yahoo! shall, in respect of those services, be references to that Yahoo! Group company. Find out more information about Yahoo! [data storage](http://info.yahoo.com/privacy/uk/yahoo/datastorage/) and [data transfer](http://info.yahoo.com/privacy/uk/yahoo/datatransfer/).
 
-Return to Top
+Return to top
 
 ## INFORMATION COLLECTION AND USE
 
@@ -28,7 +28,7 @@ Yahoo! also automatically receives and records information on our server logs fr
 
 Yahoo! uses information for the following general purposes: to personalise the advertising and content you see, based on the details given by you at registration and your activity at Yahoo!, fulfil your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. You agree that Yahoo! may transfer your personal information for the general purposes set out above to any Yahoo! group company worldwide.
 
-Return to Top
+Return to top
 
 ## INFORMATION SHARING AND DISCLOSURE
 
@@ -51,7 +51,7 @@ Yahoo! displays targeted advertisements based on personal information. Advertise
 
 Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [ reference links](http://info.yahoo.com/privacy/uk/all). 
 
-Return to Top
+Return to top
 
 ## COOKIES
 
@@ -63,7 +63,7 @@ Yahoo! uses [web beacons](http://info.yahoo.com/privacy/uk/yahoo/webbeacons) to 
 
 To find out more about how we use cookies and how to disable cookies, [click here.](http://info.yahoo.com/privacy/uk/yahoo/cookies/#t1)
 
-Return to Top
+Return to top
 
 ## YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES
 
@@ -75,7 +75,7 @@ We reserve the right to send you certain communications, such as service announc
 
 You may delete your Yahoo! account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page, verifying your password once more and confirming your choice to terminate the account. Please [click here](http://info.yahoo.com/privacy/uk/yahoo/datastorage) to read about what information may possibly remain in our archived records after your account has been deleted. 
 
-Return to Top
+Return to top
 
 ## CONFIDENTIALITY AND SECURITY
 
@@ -85,7 +85,7 @@ We have physical, electronic, and procedural safeguards that comply with our leg
 
 To learn more about security, including the security steps we have taken and security steps you can take, please read [ Security at Yahoo! ](http://info.yahoo.com/privacy/uk/yahoo/security)
 
-Return to Top
+Return to top
 
 ## POSTING ON PUBLICLY ACCESSIBLE AREAS
 
@@ -99,19 +99,19 @@ You are solely responsible for any personal information that you disclose and di
 
 If you have a concern about any personal information you have posted on any publicly accessible areas and are unable to delete or edit it, please refer your query to [Customer Care.](http://help.yahoo.com/help/uk/abuse)
 
-Return to Top
+Return to top
 
 ## CHANGES TO THIS PRIVACY POLICY
 
 Yahoo! may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by sending a notice to the primary email address specified in your Yahoo! account or by posting a prominent notice on our pages. 
 
-Return to Top
+Return to top
 
 ## QUESTIONS OR SUGGESTIONS
 
 If you have questions or suggestions complete a [feedback form](http://help.yahoo.com/fast/help/uk/privacy/cgi_feedback). 
 
-Return to Top
+Return to top
 
 ## CHILDREN
 
@@ -119,4 +119,4 @@ Yahoo! does not contact children under age 13 about special offers or for market
 
 Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
 
-Return to Top
+Return to top
