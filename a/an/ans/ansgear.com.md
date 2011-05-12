@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ansgear.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227210508id_/http%3A//www.ansgear.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ansgear.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513014222id_/http%3A//www.ansgear.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Paintball - Cheap Paintball Guns, Gear and Paintball Equipment
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20101227210508id_/http%3A//www.ansgear.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20110513014222id_/http%3A//www.ansgear.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
