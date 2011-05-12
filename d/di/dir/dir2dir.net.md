@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the dir2dir.net privacy policy that was archived on 2010-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100915130905id_/http%3A//www.dir2dir.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dir2dir.net privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512022749id_/http%3A//www.dir2dir.net/privacy_policy.html) for the most accurate reproduction.*
 
-# Dir2Dir.Net - Web & Articles Directory
+# Dir2Dir.Net Directory - Privacy Policy
 
-**Directory Services Privacy Policy**
+**Privacy Policy**
 
-The privacy of our clients is of utmost importance to Directory Services.
+Privacy Policy The privacy of our clients is of utmost importance to Directory Services.
 
-If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20100915130905id_/http%3A//www.dir2dir.net/contact.php "contact webmaster"). 
+If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20110512022749id_/http%3A//www.dir2dir.net/contact.php "contact webmaster"). 
 
-**Types of Personal Information we collect**
+**Types of Personal Information we collect** ** **
 
 The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us.
 
 For the directory service order, we would generally require your name, address, telephone number etc., which would be stored in your individual profile. In some instances we will also require your credit card details and other information.
 
  **  
-Why we collect personal information**
+Why we collect personal information** ** **
 
 Generally we collect, update and use personal information about you to allow us to transact business on your behalf.
 
@@ -53,4 +53,4 @@ We may update our policies and this Privacy Policy Statement from time to time.
  **  
 Contact us**
 
-If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20100915130905id_/http%3A//www.dir2dir.net/contact.php "contact webmaster").
+If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please [contact webmaster](https://web.archive.org/web/20110512022749id_/http%3A//www.dir2dir.net/contact.php "contact webmaster").
