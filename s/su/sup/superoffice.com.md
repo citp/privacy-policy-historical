@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superoffice.com privacy policy that was archived on 2010-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100626002707id_/http%3A//www.superoffice.com/Settings/Content/Privcay-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superoffice.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513010846id_/http%3A//www.superoffice.com/settings/content/privcay-statement) for the most accurate reproduction.*
 
-# Privacy Statement - SuperOffice CRM
+# Privacy Statement | SuperOffice CRM
 
 “SuperOffice.com” or the “Company” is committed to protecting the privacy of your information. This Privacy Statement describes SuperOffice.com’s information practices 
 
