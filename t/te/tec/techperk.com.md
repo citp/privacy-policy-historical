@@ -1,10 +1,19 @@
-> *The following text is extracted and transformed from the techperk.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113144346id_/http%3A//www.techperk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techperk.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512211550id_/http%3A//www.techperk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
 We consider that the privacy and safety of your personal information as a highly important one. At TechPerk, we do not share your information with anybody and do not use it for any commercial purpose. When we ask for your information then it is solely for purpose of the website. Any extended information asked from you is accompanied by prior notification. Please make sure that you do not submit your personal and crucial information to any external websites that claim to be associated with TechPerk unless notified.
+
+**Disclosure**
+
+The TechPerk is a website created to provide incredible content, which is informational as well.  
+It is hereby declared that the content and the posts on the website would not be affected by the amount paid. The advertisements placement on the sites is done by third party agencies and would be regarded as Paid Advertising.
+
+There are instances when TechPerk gets payments from publishing its’ posts on various places for reviews on services, websites, products or myriad topics. The TechPerk receives compensation as a medium and the opinions, discussions and comments do not belong to the website. They are purely related to the bloggers. Thus, the sources and notTech Perk must verify the statistics, representations etc.
+
+TechPerk has a connection with a variety of sites to get links for products, which are related to Third party Agencies. At TechPerk we affirm that no information will be published that may result in any kind of conflicts whatsoever intentionally.
 
 **Financial Information**
 
