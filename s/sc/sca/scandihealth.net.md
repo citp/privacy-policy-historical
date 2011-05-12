@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scandihealth.net privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023084927id_/http%3A//www.netnames.com/platinum/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scandihealth.net privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512231623id_/http%3A//www.netnames.com/platinum/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
