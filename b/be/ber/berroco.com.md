@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berroco.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416080421id_/http%3A//www.berroco.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berroco.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512212845id_/http%3A//www.berroco.com/privacy.html) for the most accurate reproduction.*
 
 # Berroco® KnitBits®
 
@@ -35,4 +35,7 @@ Then click "Subscribe".
 
 **To Unsubscribe:  
 **  
-Click [here](https://web.archive.org/cancel_knitbits.html). 
+Use the Unsubscribe link  
+found at the bottom of your  
+most recent issue of  
+KnitBits®. 
