@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegewildparties.com privacy policy that was archived on 2006-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060427032504id_/http%3A//www.clients-support.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegewildparties.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512200636id_/http%3A//www.clients-support.com/privacy.html) for the most accurate reproduction.*
 
 # Clients-Support.com - Servicing Your Needs
 
