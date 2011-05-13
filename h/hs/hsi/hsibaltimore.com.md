@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217090208id_/http%3A//hsionline.com/privacy-policydisclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513073811id_/http%3A//hsionline.com/privacy-policydisclaimer) for the most accurate reproduction.*
 
 # Privacy Policy/Disclaimer
 
