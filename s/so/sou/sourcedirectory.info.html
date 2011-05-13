@@ -1,0 +1,538 @@
+<!--The following is the downloaded HTML source of the sourcedirectory.info privacy policy that was archived on 2011-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110513172627id_/http%3A//www.sourcedirectory.info/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Source Directory - Web Directory of Top Sites &amp; Blogs&nbsp;- Privacy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/Professional/style/main.css">
+<meta name="keywords" content="source directory,web directory,seo directory,seo web directory,website directory,search engine friendly,top sites">
+<meta name="description" content="Web Directory for top sites and blogs. Submit your website to Source Directory the webs top human edited directory.">
+<meta name="author" content="Rob Anderson / THT Media Group">
+<meta name="copyright" content="Copyright (c) 2009 by SourceDirectory.info All rights reserved!">
+<meta name="generator" content="PHP Link Directory 4.1.0">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var valid_obj = new Object();
+    </script>
+</head>
+<body>
+<script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.sourcedirectory.info/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#login_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+		$("#login_form").validate(valid_obj.login_form);
+
+                var selects = $("#login_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+									jQuery.validator.messages.required = "This field is required.";
+												jQuery.validator.messages.remote = "Please fix this field.";
+												jQuery.validator.messages.email = "Invalid email address format.";
+												jQuery.validator.messages.url = "Invalid URL.";
+												jQuery.validator.messages.date = "Invalid date format.";
+												jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+												jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+												jQuery.validator.messages.number = "Required numeric field.";
+												jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+												jQuery.validator.messages.digits = "Required integer field.";
+												jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+												jQuery.validator.messages.equalTo = "Please enter the same value again.";
+												jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+												jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+												jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+												jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+												jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+												jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+												jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+								
+
+		function fireEvent(obj, evt) {
+			var fireOnThis = obj;
+			if (document.createEvent) {
+				var evObj = document.createEvent('MouseEvents');
+				evObj.initEvent(evt, true, false);
+				fireOnThis.dispatchEvent(evObj);
+			} else if (document.createEventObject) {
+				fireOnThis.fireEvent('on'+evt);
+			}
+		}
+
+                //valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+				onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#search_form").valid()) {
+						form.submit();
+					}
+				},
+
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+		$("#search_form").validate(valid_obj.search_form);
+
+                var selects = $("#search_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+	});
+});
+</script>
+<div class="header" style="height: auto; background: transparent;">
+<div class="center" style="background: transparent;">
+<div id="panel" style="z-index: -1;" align="center">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();" class="cmxform" id="login_form">
+<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1; height: 0px" id="panel_table">
+<tbody><tr>
+</tr>
+<tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="20" maxlength="25" class="text">
+</td>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="20" maxlength="25" class="text">
+</td>
+<td><input type="submit" name="login" value="Login" class="btn"></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">
+<a href="/profile.php?mode=register" title="Register">Register</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+</td>
+</tr>
+</tbody></table>
+<input type="hidden" name="formSubmitted" value="1">
+</form>
+</div>
+<p class="slide" style="z-idex: 100; margin-top: 0px;" id="slide">
+<a href="" class="btn-slide" onclick="show_panel(); return false;">Login</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=register" title="Register new user">Register</a>
+</p>
+</div>
+</div>
+<div style="clear: both;"></div>
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+<a href="/"><img src="/templates/Professional/images/logo.gif" border="0" alt="logo"></a>
+</div>
+<form class="headerSearch" action="/index.php" method="get" id="search_form">
+<table>
+<tbody><tr>
+<td>
+<label class="searchLabel">Search:</label>
+<input class="searchInput" type="text" name="search" maxlength="250" value="">
+</td>
+<td>
+<div class="searchBtn">
+<div class="searchBtnLeft"></div>
+<button class="searchBtnCenter" type="submit">GO</button>
+<div class="searchBtnRight"></div>
+</div>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>
+</div>
+<div align="CENTER">
+<!-- YB: header (728x90) -->
+<script type="text/javascript"><!--
+yieldbuild_site = 12937;
+yieldbuild_loc = "header";
+//--></script>
+<script type="text/javascript" src="http://hook.yieldbuild.com/s_ad.js"></script></div><div class="hMenuContainer"><div class="center"><div class="hMenu"><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/submit.php" title="Submit your link to the directory">Submit Link</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/submit_article.php" title="Submit your article to the directory">Submit Article</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/index.php?list=latest" title="Browse latest submitted links">Latest Links</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/index.php?list=latestarticles" title="Browse latest articles">Latest Articles</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/index.php?list=top" title="Browse most popular links">Top Hits</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/contact.php" title="Contact directory owner">Contact</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""><a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced Search</a><img width="2" height="34" src="/templates/Professional/images/hMenuSeparator.gif" alt=""></div></div></div><div class="path"><a href="/" style="font-weight: bold;">Source Directory - Web Directory of Top Sites &amp; Blogs</a> <img src="/templates/Professional/images/pathArrow.gif" alt=" - "> Privacy</div><div class="center1"><div class="leftContainer" style="width: 215px; ">
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<li id="5">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Top Categories</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		<ul class="boxPopCats">
+<li>
+<a href="/arts/" title="Arts">Arts</a>
+</li>
+<li>
+<a href="/blog/" title="Blog">Blog</a>
+</li>
+<li>
+<a href="/business/" title="Business">Business</a>
+</li>
+<li>
+<a href="/computers/" title="Computers">Computers</a>
+</li>
+<li>
+<a href="/games/" title="Games">Games</a>
+</li>
+<li>
+<a href="/general/" title="General">General</a>
+</li>
+<li>
+<a href="/health/" title="Health">Health</a>
+</li>
+<li>
+<a href="/home/" title="Home">Home</a>
+</li>
+<li>
+<a href="/internet/" title="Internet">Internet</a>
+</li>
+<li>
+<a href="/news/" title="News">News</a>
+</li>
+<li>
+<a href="/recreation/" title="Recreation">Recreation</a>
+</li>
+<li>
+<a href="/reference/" title="Reference">Reference</a>
+</li>
+<li>
+<a href="/regional/" title="Regional">Regional</a>
+</li>
+<li>
+<a href="/science/" title="Science">Science</a>
+</li>
+<li>
+<a href="/shopping/" title="Shopping">Shopping</a>
+</li>
+<li>
+<a href="/society/" title="Society">Society</a>
+</li>
+<li>
+<a href="/sports/" title="Sports">Sports</a>
+</li>
+<li>
+<a href="/world/" title="World">World</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="6">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Statistics</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		<ul class="boxStats">
+<li><strong>Active Links:</strong> 5111</li>
+<li><strong>Pending Links:</strong> 2</li>
+<li><strong>Todays Links:</strong> 66</li>
+<li><strong>Active Articles:</strong> 74</li>
+<li><strong>Pending Articles:</strong> 0</li>
+<li><strong>Todays Articles:</strong> 0</li>
+<li><strong>Total Categories:</strong> 18</li>
+<li><strong>Sub Categories:</strong> 231</li>
+</ul>
+
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="10">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Latest links</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		 <ul class="boxPopCats">
+<li>
+<a href="                                            /detail/pest-control-calgary-8624.htm" title="Read more about: Pest Control Calgary">Pest Control Calgary</a>
+</li>
+<li>
+<a href="                                            /detail/openerp-web-sugarcrm-web-vtiger-8617.htm" title="Read more about: OpenERP web, SugarCRM web, vTiger">OpenERP web, SugarCRM web, ...</a>
+</li>
+<li>
+<a href="                                            /detail/linux-reseller-hosting-8616.htm" title="Read more about: linux reseller hosting">linux reseller hosting</a>
+</li>
+<li>
+<a href="                                            /detail/end-of-lease-cleaning--end-of-lease-cleaning-services-8615.htm" title="Read more about: End of Lease Cleaning , End of Lease Cleaning Services">End of Lease Cleaning , End...</a>
+</li>
+<li>
+<a href="                                            /detail/get-latest-new-directory-8612.htm" title="Read more about: Get Latest New Directory">Get Latest New Directory</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="8">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Bookmark This Directory</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		
+<div style="width: 171px; margin: 0px auto; padding: 10px 0px;">
+<a href="http://www.addtoany.com/share_save" target="_blank">
+<img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171" height="16" border="0" alt="Share/Save/Bookmark">
+</a>
+</div>
+
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="18">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Pages</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		<ul class="boxPopCats">
+<li>
+<a href="/privacy.html" title="Privacy">Privacy</a> 
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<br>
+</ul>
+</div><div class="centerContainer"><div class="centerContainerT"></div><div class="centerContainerM"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul>
+<table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><strong>Privacy Policy for SourceDirectory.info</strong> The privacy of our visitors to sourcedirectory.info is important to us.  At sourcedirectory.info, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit sourcedirectory.info, and how we safeguard your information.  We never sell your personal information to third parties.  <strong>Log Files</strong> As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.  <strong>Cookies and Web Beacons</strong> We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.  We also use third party advertisements on sourcedirectory.info to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).  <strong>DoubleClick DART Cookie</strong> Google, as a third party vendor, uses cookies to serve ads on sourcedirectory.info. Google’s use of the DART cookie enables it to serve ads to users based on their visit to sourcedirectory.info and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html  Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  Google Adsense, Chitika, Bidvertiser, YieldBuild and others. &nbsp;You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.  AdSense Privacy Policy Provided by: <a href="http://www.JenSense.com" target="_blank">JenSense</a></p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div><li id="15">   <h3>Latest Links</h3>
+<div id="articles">
+<table>
+</table><table><tbody><tr><td><div class="pr">
+PR: 1
+<div class="prg">
+<div class="prb" style="width: 4px"></div>
+</div>
+</div></td><td><a class="link" id="id_8624" href="http://precisepruning.com" title="Pest Control Calgary" target="_blank"><span id="edittitle_8624" class="link">Pest Control Calgary</span></a><!--<span  id="edittitle_8624" class="link">Pest Control Calgary  </span>--><br><p id="description8624"><span id="editdescrip_8624">Precise Pruning Ltd providing professional tree pruning &amp; tree care services in Calgary. We also offer tree stump removal, pest control, commercial and residential tree service in Airdrie, Calgary and its surrounding rural areas.</span> -&nbsp;<a class="readMore" href="/detail/pest-control-calgary-8624.htm" title="Read more about: Pest Control Calgary">Read&nbsp;more</a></p>http://precisepruning.com</td></tr><tr><td colspan="2"><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"></td></tr></tbody></table>               <table><tbody><tr><td><div class="pr">
+PR: 3
+<div class="prg">
+<div class="prb" style="width: 12px"></div>
+</div>
+</div></td><td><a class="link" id="id_8617" href="http://www.gomillenniumsoft.com/" title="OpenERP web, SugarCRM web, vTiger" target="_blank"><span id="edittitle_8617" class="link">OpenERP web, SugarCRM web, vTiger</span></a><!--<span  id="edittitle_8617" class="link">OpenERP web, SugarCRM web, vTiger  </span>--><br><p id="description8617"><span id="editdescrip_8617">MillenniumSoft - Operating a successful business in today's competitive environment requires more than hard work and dedication. We're experts at helping business select and implement robust, integrated, end-to-end software solutions to help improve their operations, and their bottom line.</span> -&nbsp;<a class="readMore" href="/detail/openerp-web-sugarcrm-web-vtiger-8617.htm" title="Read more about: OpenERP web, SugarCRM web, vTiger">Read&nbsp;more</a></p>http://www.gomillenniumsoft.com/</td></tr><tr><td colspan="2"><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"></td></tr></tbody></table>               <table><tbody><tr><td><div class="pr">
+N/A
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div></td><td><a class="link" id="id_8616" href="http://www.edhikhosting.com/linux-reseller/linux-reseller-hosting-india.php" title="linux reseller hosting" target="_blank"><span id="edittitle_8616" class="link">linux reseller hosting</span></a><!--<span  id="edittitle_8616" class="link">linux reseller hosting  </span>--><br><p id="description8616"><span id="editdescrip_8616">We have been providing professional grade hosting services for hundreds of businesses and IT professionals since the 2000. Our Linux Hosting packages are for people who demand their website reside on fast, reliable servers with the most stable operating system in the world. We give you high uptime along with the latest tools, technologies and controls.</span> -&nbsp;<a class="readMore" href="/detail/linux-reseller-hosting-8616.htm" title="Read more about: linux reseller hosting">Read&nbsp;more</a></p>http://www.edhikhosting.com/linux-reseller/linux-reseller-hosting-india.php</td></tr><tr><td colspan="2"><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"></td></tr></tbody></table>               <table><tbody><tr><td><div class="pr">
+PR: 0
+<div class="prg">
+<div class="prb" style="width: 0px"></div>
+</div>
+</div></td><td><a class="link" id="id_8615" href="http://www.endoflease-cleaning.com/" title="End of Lease Cleaning , End of Lease Cleaning Services" target="_blank"><span id="edittitle_8615" class="link">End of Lease Cleaning , End of Lease Cleaning Services</span></a><!--<span  id="edittitle_8615" class="link">End of Lease Cleaning , End of Lease Cleaning Services  </span>--><br><p id="description8615"><span id="editdescrip_8615">End of Lease Cleaning,End Of Lease Cleaner, End of Lease Cleaning in Sydney, NSW, Australia wide.
+One of the chief hurdles to overcome is when decided to appoint a cleaner is the issue of security. During our selection process we are able to eliminate any concerns that you may have concerning both the safety of your possessions and the respect of your privacy.</span> -&nbsp;<a class="readMore" href="/detail/end-of-lease-cleaning--end-of-lease-cleaning-services-8615.htm" title="Read more about: End of Lease Cleaning , End of Lease Cleaning Services">Read&nbsp;more</a></p>http://www.endoflease-cleaning.com/</td></tr><tr><td colspan="2"><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"></td></tr></tbody></table>               <table><tbody><tr><td><div class="pr">
+PR: 1
+<div class="prg">
+<div class="prb" style="width: 4px"></div>
+</div>
+</div></td><td><a class="link" id="id_8612" href="http://www.cityshopdirectory.info/" title="Get Latest New Directory" target="_blank"><span id="edittitle_8612" class="link">Get Latest New Directory</span></a><!--<span  id="edittitle_8612" class="link">Get Latest New Directory  </span>--><br><p id="description8612"><span id="editdescrip_8612">Directory submission is where your site is submitted in other online web directory which continuously works in giving your site quality backlinks. This site is the site by which you can avail of the best services. So logon and know more!</span> -&nbsp;<a class="readMore" href="/detail/get-latest-new-directory-8612.htm" title="Read more about: Get Latest New Directory">Read&nbsp;more</a></p>http://www.cityshopdirectory.info/</td></tr><tr><td colspan="2"><span class="review">(0 Reviews. Rating:  Total Votes: )</span><div style="clear: both;"></div></td></tr><tr><td colspan="2"></td></tr></tbody></table>            
+</div>
+</li></div><div class="centerContainerB"></div></div><div class="rightContainer">
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+<li id="11">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Latest featured links</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">			 <ul class="boxPopCats">
+<li>
+<a href="                                                /detail/premium-directory-9.htm" title="Read more about: Premium Directory">Premium Directory</a>
+</li>
+<li>
+<a href="                                                /detail/compare-prices-7.htm" title="Read more about: Compare Prices">Compare Prices</a>
+</li>
+<li>
+<a href="                                                /detail/online-media-4.htm" title="Read more about: Online Media">Online Media</a>
+</li>
+</ul>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="13">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Featured Site Spotlight</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		<center><br>
+<img class="thumb" src="http://open.thumbshots.org/image.pxf?url=http://www.totallyhowto.com"><br>
+<a href="                                            /detail/how-to-3.htm" title="Read more about: How To">How To</a>
+</center>
+<br>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+<li id="12">
+<div class="box">
+<div class="boxTopLeft"></div>
+<div class="boxTopCenter">Live Stats</div>
+<div class="boxTopRight"></div>
+<div class="boxMiddle">		
+<center>	 
+<script type="text/javascript" src="http://feedjit.com/serve/?bc=FFFFFF&amp;tc=000000&amp;brd1=CCCCCC&amp;lnk=000000&amp;hc=FFFFFF&amp;ww=200"></script><noscript><a href="http://feedjit.com/">Live Stats</a></noscript>
+</center>
+</div>
+<div class="boxBottom"></div>
+</div>		</li>
+</ul>
+</div><div style="clear: both; height: 30px;"></div></div><div class="footer"><div align="CENTER"><!-- YB: footer (728x90) --><script type="text/javascript"><!--yieldbuild_site = 12937;yieldbuild_loc = "footer";//--></script><script type="text/javascript" src="http://hook.yieldbuild.com/s_ad.js"></script></div><a href="http://www.phplinkdirectory.com" title="Directory Script by PHP Link Directory">Directory Script by PHP Link Directory</a><br><div align="CENTER"><p>Our Partner Network:<br> <a href="http://marketing.aboutcrawler.com" target="_blank">Internet Marketing Strategies</a> - <a href="http://living.aboutcrawler.com" target="_blank">Inspired Living</a> - <a href="http://diy.aboutcrawler.com" target="_blank">Do It Yourself</a> - <a href="http://reference.aboutcrawler.com/" target="_blank">Reference</a> - <a href="http://www.aboutcrawler.com/" target="_blank">Information</a></p><p><a target="_blank" href="http://www.comparecrawler.com/d~c-computers-software~b-4.aspx">Compare Prices</a> on<a target="_blank" href="http://www.comparecrawler.com/d~c-electronics~b-11000000.aspx">Electronics</a> and<a target="_blank" href="http://www.comparecrawler.com/d~c-clothing-accessories~b-10000000.aspx">Clothing</a> at<a target="_blank" href="http://www.comparecrawler.com">CompareCrawler</a> for all the<a target="_blank" href="http://www.comparecrawler.com/siteindex.aspx">Best Deals</a>.</p><p>Explore <a target="_blank" href="http://www.totallyhowto.com/tag/how-to/">How To Articles</a> and<a target="_blank" href="http://www.totallyhowto.com/category/videos/">How To Videos</a>at  <a target="_blank" href="http://www.totallyhowto.com/">TotallyHowTo</a>.</p><p>© 2009-2011 SourceDirectory.info a <a href="http://www.thtmediagroup.ca" target="_blank">THT Media Group</a> Website. All rights reserved.</p><br></div><script type="text/javascript">var infolink_pid = 167603;var infolink_wsid = 4;</script><script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20020116-19']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script></div></body></html>
