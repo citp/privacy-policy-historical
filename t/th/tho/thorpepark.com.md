@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130054030id_/http%3A//www.thorpepark.com/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thorpepark.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513044309id_/http%3A//www.thorpepark.com/misc/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for THORPEPARK.com
 
@@ -19,7 +19,7 @@ We will use the information you enter at the site for administration purposes an
 We may also disclose your personal information to third parties:
 
   1. in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets 
-  2. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](https://web.archive.org/web/20101130054030id_/http%3A//www.thorpepark.com/misc/terms-and-conditions.aspx) of use or terms and conditions of supply and other agreements, or to protect the rights, property or safety of the Merlin Entertainments Group, our customers, or others. This includes exchanging information with other companies and organisations for the purpose of fraud protection and credit risk reduction.
+  2. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms and conditions](https://web.archive.org/web/20110513044309id_/http%3A//www.thorpepark.com/misc/terms-and-conditions.aspx) of use or terms and conditions of supply and other agreements, or to protect the rights, property or safety of the Merlin Entertainments Group, our customers, or others. This includes exchanging information with other companies and organisations for the purpose of fraud protection and credit risk reduction.
 
 
 
@@ -27,9 +27,9 @@ We may also disclose your personal information to third parties:
 
 If you book a ticket from us, the data you give us about yourself, will enable us to give you updates other than through our web site, using the contact details you provide, on promotions and services we think may interest you or to involve you in market research. To improve our picture of your interests we may link the data you give us with any data we have gathered (via cookies) about your use of the site. In some cases we may also wish to share your data with other parts of the Merlin Entertainments Group or third party entities that process personal information on our behalf so that they can update you on promotions and services they think may be of interest to you.
 
-Whenever we ask you for information about yourself if you have indicated that you wish to receiving direct marketing material from us and/or from third parties your personal details will be included in a database compiled for direct marketing purposes and from time to time, you may receive these marketing communications. This will enable us to keep you informed about offers and events run by various attractions across the Merlin Entertainments Group, including Alton Towers, THORPE PARK, Warwick Castle, Madame Tussauds, the London Eye and Chessington World of Adventures.
+Whenever we ask you for information about yourself if you have indicated that you wish to receiving direct marketing material from us and/or from third parties your personal details will be included in a database compiled for direct marketing purposes and from time to time, you may receive these marketing communications. This will enable us to keep you informed about offers and events run by various attractions across the Merlin Entertainments Group, including Alton Towers, THORPE PARK, Warwick Castle, Madame Tussauds, The EDF Energy London Eye and Chessington World of Adventures.
 
-If you have indicated that you wish to receive direct marketing material or e-mail updates from us, and/or from third parties but subsequently change your mind, you should notify us at [privacy@thorpe-park.com](mailto:privacy@thorpe-park.com). As soon after this as is reasonably practicable, we will remove your name from the relevant database.
+If you have indicated that you wish to receive direct marketing material or e-mail updates from us, and/or from third parties but subsequently change your mind, you should notify us at [unsubscribe@thorpe-park.com](mailto:unsubscribe@thorpe-park.com). As soon after this as is reasonably practicable, we will remove your name from the relevant database.
 
 We will take reasonable steps to ensure that your data is used by third parties in accordance with this policy.
 
@@ -61,7 +61,7 @@ You are entitled to see a copy of any personal data (as defined in the Data Prot
 
 ## Contact
 
-Any comments, queries and requests relating to our use of your data are welcomed and should be emailed to us at [privacy@thorpe-park.com](mailto:privacy@thorpe-park.com) or addressed to us at:
+Any comments, queries and requests relating to our use of your data are welcomed and should be addressed to us at:
 
 THORPE PARK  
 Staines Road  
