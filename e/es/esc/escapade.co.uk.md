@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the escapade.co.uk privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614125244id_/http%3A//www.escapade.co.uk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapade.co.uk privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513221434id_/http%3A//www.escapade.co.uk/privacy_policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Escapade - Escapade Fancy Dress
 
 (Your statutory customer rights are not affected) 
 
@@ -8,7 +8,7 @@ At Escapade we are committed to protecting your privacy and we comply with the d
 
 ## What information do we collect?
 
-When you order we need to know your name, e-mail address and delivery address and credit/debit card number and expiry date. This allows us to process and fulfill your order and notify you of your order status. We also ask you for your telephone number(s) so that we can contact you easily if required. 
+When you order we need to know your name, e-mail address, delivery/billing address. This allows us to process and fulfill your order and notify you of the order status. We also ask you for your telephone number(s) so that we can contact you easily if required. As an extra measure of secureity we do not collect/store any credit card information. 
 
 ## How do we use your information?
 
