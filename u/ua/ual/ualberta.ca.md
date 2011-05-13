@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202165531id_/http%3A//www.uofaweb.ualberta.ca/ualberta_about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ualberta.ca privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513194718id_/http%3A//www.uofa.ualberta.ca/About/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy - About University of Alberta - University of Alberta
+# Privacy - University of Alberta - University of Alberta
 
 The University of Alberta is committed to providing our staff, students, and visitors with web sites that respect their privacy. This page summarizes the privacy policy and practices for all University of Alberta web sites.University of Alberta web sites do not automatically gather any personal information from you, such as your name, phone number, or e-mail address. This information is only obtained if you provide it voluntarily, through contacting us via e-mail, or through an online form.Any personal information you do provide is managed according to the Alberta Freedom of Information and Protection of Privacy (FOIP) Act. This means that, at the point of collection, you will be informed that your personal information is being collected, the purpose for which it is being collected, and that you have a right of access to the collected information.Some University of Alberta web sites may collect more information than is described here and will have additional privacy policies. Where applicable, please be sure to read these privacy policies.
 
@@ -40,4 +40,4 @@ If you should choose to provide us with personal information—-as in an e-mail 
 Where personal information is provided that enters a system of records, it is collected in compliance with section 33 (c) of the Alberta Freedom of Information and Protection of Privacy (FOIP) Act. The University of Alberta collects, creates and maintains information for the purposes of admission, registration and other activities directly related to its education programs. Information collected is only kept for the length of time necessary to fulfill the purpose for which it was collected.
 
  **Getting More Information**  
-For questions or comments regarding this policy, or for additional information about the administration of the Freedom of Information and Protection of Privacy Act, contact the University of Alberta Information and Privacy Office.
+For questions or comments regarding this policy, or for additional information about the administration of the Freedom of Information and Protection of Privacy Act, contact the University of Alberta Information and Privacy Office. 
