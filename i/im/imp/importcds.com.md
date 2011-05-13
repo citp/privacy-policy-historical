@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the importcds.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130122705id_/http%3A//www.importcds.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the importcds.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513055632id_/http%3A//www.importcds.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # ImportCds.com Privacy Policy
+
+* * *
 
 ## This is the Privacy Policy for the United States of America
 
