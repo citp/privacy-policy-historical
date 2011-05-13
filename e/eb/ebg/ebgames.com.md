@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921055649id_/http%3A//www.ebgames.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513052808id_/http%3A//www.ebgames.com/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# EBGames.com - Buy New and Used Games
+# Buy New and Used Games | EBGames
 
 Last updated: January 9, 2007
 
