@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the taletela.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112011046id_/http%3A//www.taletela.com/info/62/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taletela.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513233138id_/http%3A//www.taletela.com/info/62/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TaleTela
 
-**This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.gigwise.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.**
+**This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.taletela.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details.**
 
-"You" shall mean you, the user of the Site. "We/Us" means Gigwise. The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.
+"You" shall mean you, the user of the Site. "We/Us" means TaleTela. The "Site" shall have the meaning as defined above. "Users" means the users of the Site collectively and/or individually as the context allows. "User Information" means the personal details, which may be provided by You to Us via the Site as described above.
 
 We process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation.
 
@@ -33,7 +33,7 @@ Cookies do not attach to Your system and damage Your files. If You do not want i
 **Opt-Out**  
 You may opt out of some tracking cookies that will be able to identify you on other networks by using the following links:  
 http://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery  
-http://www.networkadvertising.org/managing/opt_out\\.php
+http://www.networkadvertising.org/managing/opt_out.php
 
 **Security**  
 Security is very important to Us. Security procedures are in place to protect the confidentiality, integrity and availability of Your User information. Your User information will not be kept longer than is necessary for the purposes stated at the collection point or in this Privacy Policy.
