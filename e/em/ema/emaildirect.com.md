@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emaildirect.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218065018id_/http%3A//emaildirect.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emaildirect.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513041633id_/http%3A//www.emaildirect.com/privacy) for the most accurate reproduction.*
 
 # EmailDirect.com
 
@@ -23,7 +23,7 @@ Email to: privacy@emaildirect.com
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact either the Judicial Arbitration and Mediation Services (JAMS - http://jamsadr.com) or the American Arbitration Association (http://adr.org). They will then serve as a liaison to EmailDirect.com, Inc. to resolve your concerns. 
 
 Compliance   
-This privacy statement discloses the privacy practices for [www.EmailDirect.com](https://web.archive.org/web/20101218065018id_/http%3A//emaildirect.com/Home/default.aspx) and or services.Because EmailDirect, Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices with you to insure you are aware of all intentions and privacy policies provided by EmailDirect, Inc. This website has agreed to notify you of: 
+This privacy statement discloses the privacy practices for [www.EmailDirect.com](https://web.archive.org/web/20110513041633id_/http%3A//www.emaildirect.com/default.aspx) and or services.Because EmailDirect, Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices with you to insure you are aware of all intentions and privacy policies provided by EmailDirect, Inc. This website has agreed to notify you of: 
 
 >   
 >  1\. What personally identifiable information of yours is collected through the web site   
