@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ahlanlive.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613014856id_/http%3A//www.ahlanlive.com/advertise%3Fview%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahlanlive.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513234913id_/http%3A//www.ahlanlive.com/privacy-policy-63912.html) for the most accurate reproduction.*
 
-# Ahlan! Live - The Middle East's Glamour & Fashion Magazine, Celebrity News & Events
+# Privacy Policy - New Articles - Ahlan! Live
 
 **INTRODUCTION**   
 AHLAN! is a picture portal website showcasing digital photographs of people enjoying themselves at restaurants, bars, nightclubs and outdoors. 
