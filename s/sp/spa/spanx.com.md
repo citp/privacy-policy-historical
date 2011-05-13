@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112174451id_/http%3A//www.spanx.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanx.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513235257id_/http%3A//www.spanx.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # SPANX : Customer Service
 
@@ -10,7 +10,7 @@ You may purchase online merchandise by calling toll-free 1.888.806.7311 (7am-12a
 
 Our customer service centers also operate over a private, secure network. Please note that e-mail is not encrypted and is not considered to be a secure means of transmitting credit card information.
 
-This Privacy Policy was last updated on September 14, 2007. 
+This Privacy Policy was last updated on January 31, 2011. 
 
 Providing our customers the highest quality products and services, we use information from our interactions with you and other customers, as well as from other parties. Because we respect your privacy, we have implemented procedures designed to handle your personal information in a safe, secure, and responsible manner.
 
@@ -50,13 +50,13 @@ Compliance with Law: We may provide access to information when legally required 
 
 We provide you with a number of choices regarding our handling of your personally identifiable information. 
 
-Direct Mail Marketing: If you wish to be removed from the list of customers that receive direct mail, please either: write to: Spanx Customer Relations, 3003 Scarlet Street, Suite 25, Brunswick, GA 31520 or call 1.888.806.7311.
+Direct Mail Marketing: If you wish to be removed from the list of customers that receive direct mail, please either: write to: Spanx Customer Relations, 1435 International Drive Eau Claire, WI 54701 or call 1.888.806.7311.
 
 If you choose to write to us, please include your name, address, phone number, and email address and state "NO MAIL OFFERS" if you don't want to receive offers by mail.
 
 Because customer lists often are prepared well in advance of an offering (sometimes a few months before the offer is made), you may continue to receive some offers after you send us a request not to use your information for specified marketing purposes. We appreciate your patience and understanding in giving us time to carry out your request. 
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties for direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Spanx Customer Relations, 3003 Scarlet Street, Suite 25, Brunswick, GA 31520\. Please allow 30 days for a response.
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice describing what categories of personal customer information we share with third parties or corporate affiliates for those third parties for direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Spanx Customer Relations, 1435 International Drive Eau Claire, WI 54701. Please allow 30 days for a response.
 
 If you do not want to receive promotional email from Spanx or its affiliates you can click on the unsubscribe link and hit send at the bottom of any email communication sent by us. Please allow us 30 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request. 
 
@@ -87,9 +87,8 @@ We'll be happy to provide additional information or answer any questions. Please
   * Call toll-free: 1.888.806.7311  
 
   * Write: Spanx Customer Relations  
-         3003 Scarlet Street  
-         Suite 25  
-         Brunswick, GA 31520 
+         1435 International Drive  
+         Eau Claire, WI 54701 
 
 
 
