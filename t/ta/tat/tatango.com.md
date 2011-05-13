@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatango.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128101335id_/http%3A//tatango.com/tatango/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatango.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513022824id_/http%3A//www.tatango.com/tatango/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Group SMS Service | Tatango
 
