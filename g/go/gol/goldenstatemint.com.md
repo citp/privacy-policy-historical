@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenstatemint.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122214824id_/http%3A//goldenstatemint.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenstatemint.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514000554id_/http%3A//goldenstatemint.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Golden State Mint Privacy Policy
 
