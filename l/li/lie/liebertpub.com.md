@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the liebertpub.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125061229id_/http%3A//www.liebertpub.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liebertpub.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513232542id_/http%3A//www.liebertpub.com/privacy.aspx) for the most accurate reproduction.*
 
 # Mary Ann Liebert, Inc. – The Leading Publisher in Biotechnology
 
-Mary Ann Liebert, Inc. (Liebert) and liebertpub.com (the "Site"), and are committed to protecting your privacy. As a user of the Site, you acknowledge that we will collect certain information about you, and that you may provide information regarding your interests and preferences. This statement sets forth our Privacy Policy and describes the practices liebertpub.com follows with respect to information provided by visitors to this Site. Please be aware that this Site may contain links to other sites that are covered by their own privacy policies.
+Mary Ann Liebert, Inc. (Liebert) and liebertpub.com (the "Site") are committed to protecting your privacy. As a user of the Site, you acknowledge that we will collect certain information about you, and that you may provide information regarding your interests and preferences. This statement sets forth our Privacy Policy and describes the practices liebertpub.com follows with respect to information provided by visitors to this Site. Please be aware that this Site may contain links to other sites that are covered by their own privacy policies.
 
-#### How We Use Your Personal Information 
+### How We Use Your Personal Information 
 
 **Newsletter and Email Communications Subscribers** **:  
 **When you fill out our Opt-In form, we use the contact information you provide to send you journal alerts, complimentary articles, news updates, and special offers on the journals you requested or other related Liebert journals.
