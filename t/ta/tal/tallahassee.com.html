@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the tallahassee.com privacy policy that was archived on 2010-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121095239id_/http%3A//www.tallahassee.com/section/PRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tallahassee.com privacy policy that was archived on 2011-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110513193316id_/http%3A//www.tallahassee.com/section/PRIVACY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-							<title>tallahassee.com | Tallahassee PRIVACY | Tallahassee Democrat</title>
+							<title>tallahassee.com | Tallahassee privacy | Tallahassee Democrat</title>
 <meta name="keywords" content="tallahassee.com,Tallahassee,FL,News,local news,headlines,stories,world news">
 <meta name="description" content="Tallahassee FL News - tallahassee.com is the home page of Tallahassee FL with in depth and updated Tallahassee local news. Stay informed with both Tallahassee FL news as well as headlines and stories from around the world.">
-<link rel="canonical" href="http://www.tallahassee.com/section/PRIVACY/PRIVACY">
+<link rel="canonical" href="http://www.tallahassee.com/section/PRIVACY/privacy">
 <meta name="robots" content="noodp">
 <meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -40,10 +40,10 @@ try{document.domain= GEL.config.domain= "tallahassee.com"}catch(e){};
 	".tallahassee.com";
 GEL.thepage.pageinfo = { 
 	key:"PRIVACY",
-	title:"PRIVACY",
+	title:"privacy",
 	type:"section",
-	categorymain:"PRIVACY",
-	categoryname:"PRIVACY",
+	categorymain:"privacy",
+	categoryname:"privacy",
 	categoryid:"PRIVACY",
 	pluckpage: 0,
 	url: { 
@@ -423,7 +423,7 @@ GEL.thepage.initializer.addInitRoutine({
 					subscribewebpromo: 'WO',
 					subscribepremiumpromo: '',
 					daypasswebpromo: '9D',
-					subscribeiconurl: 'https://www.ganweb01.gannett.com/server?PROCFUN+ITRNPR06+ITRNF03+LV3',
+				  	subscribeiconurl: 'https://www.ganweb01.gannett.com/server?PROCFUN+ITRNPR06+ITRNF03+LV3',
 					daypassiconurl: 'https://www.ganweb01.gannett.com/server?PROCFUN+ITRNPR06+ITRNF03+LV3',
 					premiumiconurl: 'https://www.ganweb01.gannett.com/server?PROCFUN+ITRNPR06+ITRNF03+LV3',
 					type: '',
@@ -469,7 +469,7 @@ GEL.thepage.initializer.addInitRoutine({
 			<div class="leaderboard-container-top">
 				<div class="leaderboard-top">
 					<div class="ad_728x90">
-<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/896080/0/-1/ADTECH;alias=fl-tallahassee.tallahassee.com/news/privacy/front.htm_728x90_1;cookie=info;loc=100;target=_blank;grp=2387;misc=1582524609163;noperf=1;size=728x90;key=PRIVACY;kvcw=;kvtitle=PRIVACY"></script>
+<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/896080/0/-1/ADTECH;alias=fl-tallahassee.tallahassee.com/news/privacy/front.htm_728x90_1;cookie=info;loc=100;target=_blank;grp=58353;misc=1582524594728;noperf=1;size=728x90;key=privacy;kvcw=;kvtitle=privacy"></script>
 </div>
 </div><banner position="728x90_1" id="__gelement_adbanner_0"></banner>
 </div>
@@ -527,6 +527,7 @@ function HideAllSearchOptions() {
 	search_options.style.display = "none";
 }
 function submitFormAction() {
+    sanitizeKeywords();
 	var keywords = document.getElementById("searchbox").value;
 		if (keywords == search_default){
 			keywords = "";
@@ -547,13 +548,24 @@ function submitFormAction() {
 	window.location.href = new_url;
 	return false; 
 }	
-function safeParam( key, def) { 
-    var defval = def|| ""; 
-    var re = new RegExp( "[?&]" + key + "=([^&$]*)", "i" ); 
-    var offset = location.search.search(re); 
-    if ( offset == -1 || RegExp.$1 == '') return defval; 
-    return RegExp.$1; 
-}		
+function safeParam( key, def) { //get cleaned up keywords so they look pretty in the search box
+	    var defval = def|| ""; 
+	    var re = new RegExp( "[?&]" + key + "=([^&$]*)", "i" ); 
+	    var offset = location.search.search(re); 
+	    if ( offset == -1 || RegExp.$1 == '') return defval;
+	    var keywords = RegExp.$1;
+	    keywords = keywords.replace(/\+/g," ");
+	    keywords = keywords.replace(/%\w{2}/g," ");
+	    return keywords; 
+	}
+	function sanitizeKeywords() {
+		//clean up keywords for submit to avoid encoding
+		var temp = document.getElementById("searchbox").value;
+		temp = temp.replace(/<.*>/g,"");
+		temp = temp.replace(/%20/g," "); //get rid of whitespace encoding
+		temp = temp.replace(/%\w{2}/g, ""); //get rid of other encoding
+		document.getElementById("searchbox").value = temp
+	}	
 </script>
 <form method="get" id="pd-header-search" class="multi-search" onsubmit="return submitFormAction()" action=" ">
 	<div id="search-wrapper" class="clear">
@@ -661,14 +673,14 @@ function initMenu(){
 					<td width="940">
 						<div class="padding">
 							<div class="glegal">
-								<h1>Privacy Policy</h1>
-<p>Last Updated: September 22, 2010</p>
-<p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Policy.</p>
-<p>This Privacy Policy discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
-<p>Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our <a href="http://www.tallahassee.com/section/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the revised Privacy Policy on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.</p>
+								<h1>Privacy Notice</h1>
+<p>Last Updated: December 30, 2010</p>
+<p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Notice.</p>
+<p>This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
+<p>Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our <a href="http://www.tallahassee.com/section/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.</p>
 <h3>Your California Privacy Rights</h3>
 <p>California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:</p>
-<p>Kim Jaske<br>
+<p>Mark Faris<br>
   Online Privacy Coordinator<br>
   <a href="http://www.tallahassee.com">
   www.tallahassee.com</a><br>
@@ -676,24 +688,24 @@ function initMenu(){
   7950 Jones Branch Drive<br>
   McLean, VA 22107</p>
 <h3>How We Collect and Use Information</h3>
-<p>We may collect and store information, including personally-identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
-<p>We also collect and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
-<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable cookies.  To disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+<p>We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+<p>We also collect, through a variety of technologies and practices, and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
+<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting.  For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.</p>
 <p>We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site.</p>
 <p>In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.</p>
 <p>We also may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.</p>
-<p>If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the <a href="#OnlinePrivacyCoordinator">Online Privacy Coordinator</a> whose contact information is listed at the end of this Privacy Policy.</p>
+<p>If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the <a href="#OnlinePrivacyCoordinator">Online Privacy Coordinator</a> whose contact information is listed at the end of this Privacy Notice.</p>
 <p>For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting."</p>
-<p>Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting or the provider of such products or services.</p>
-<p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the privacy policy of our provider partner may apply to the provider partner's use of your information. The privacy policy of our provider partners may differ from ours. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information.</p>
+<p>Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.</p>
+<p>We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner's use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.</p>
 <p>Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our <a href="http://www.tallahassee.com/section/terms">Terms of Service</a>; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.</p>
 <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.</p>
-<h3>Data Collected in Connection with Ad Serving and Targeting</h3>
+<h3><a name="adchoices"></a>Data Collected in Connection with Ad Serving and Targeting</h3>
 <p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
 <p>We also may use third-party service providers, including Yahoo!, to target and serve some of the advertisements you see on the pages of our Site.  We may share non-personally identifiable information, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site.  These providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. In addition, Yahoo!, which is one of our third-party advertising service providers, may use information regarding its own users to select which ads to display on this Site. The non-personally identifiable information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.</p>
 <p>The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.</p>
-<p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s privacy policy and is not covered by our privacy policy.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.tallahassee.com/section/adnetwork">click here</a>.</p>
+<p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s Privacy Notice and is not covered by our Privacy Notice.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.tallahassee.com/section/adnetwork">click here</a>.</p>
 <h3>Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas</h3>
 <p>Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
 <h3>Children's Privacy Statement</h3>
@@ -709,8 +721,8 @@ function initMenu(){
 <h3>Storage of Information</h3>
 <p>All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access.  However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable.  We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.</p>
 <h3>Questions Regarding Privacy</h3>
-<p>If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact:</p>
-<p id="OnlinePrivacyCoordinator">Kim Jaske<br>
+<p>If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:</p>
+<p id="OnlinePrivacyCoordinator">Mark Faris<br>
   Online Privacy Coordinator<br>
   <a href="http://www.tallahassee.com">
   www.tallahassee.com</a><br>
@@ -741,7 +753,6 @@ function initMenu(){
 		</div>
 	</div>
 <div id="partner-logos" class="partner-logos">
-	<a href="http://www.gannett.com"><span class="gannett"></span></a>
 	<a href="http://www.usatoday.com"><span class="usatoday"></span></a>
 	<a href="/apartments"><span class="apartments"></span></a>
 	<a href="/cars"><span class="cars"></span></a>
