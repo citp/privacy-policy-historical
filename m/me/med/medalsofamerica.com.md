@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medalsofamerica.com privacy policy that was archived on 2010-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101024010712id_/http%3A//www.medalsofamerica.com/content--name-Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medalsofamerica.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513071100id_/http%3A//www.medalsofamerica.com/content--name-Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy at Medals of America
+# Privacy Policy | Medals of America
 
 |  |   
 ---  
@@ -136,7 +136,7 @@ From time to time, we may use customer information for unanticipated uses not pr
 
 **Questions or Comments?**
 
-For questions, comments or assistance, we invite you to [contact us](https://web.archive.org/content--name-Contact%20Medals%20of%20America):
+For questions, comments or assistance, we invite you to [contact us](https://web.archive.org/content--name-Contact_Medals_of_America):
 
 Medals of America  
 Attn: Customer Service  
