@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the joopita.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217173913id_/http%3A//en.joopita.com/cgi-bin/local/perl/directory/support.pl%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joopita.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514011620id_/http%3A//joopita.org/web/main/index/privacy) for the most accurate reproduction.*
 
-# Support Pages - Joopita Web Directory
+# Privacy Policy - Joopita Research
+
+|    
+As of June 2010. 
 
 This is a web site created by Joopita Research. 
 
@@ -11,8 +14,8 @@ Joopita Research
 4383 Ehlerange   
 Luxembourg, Europe 
 
-Visit our website for more information at [www.joopita.org](http://www.joopita.org/)   
-We can be reached via e-mail at [contact@joopita.org](mailto:contact@joopita.org)
+Visit our website for more information at www.joopita.org   
+We can be reached via e-mail at contact@joopita.org 
 
 For each visitor to our Web page, our Web server automatically recognizes the IP address. 
 
@@ -26,7 +29,7 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: 
 
-<http://www.google.com/privacy_ads.html>
+http://www.google.com/privacy_ads.html 
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. 
 
@@ -37,3 +40,5 @@ Consumers can have this information corrected by sending us e-mail at the above 
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
+
+| 
