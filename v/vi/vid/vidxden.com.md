@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidxden.com privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904164506id_/http%3A//www.vidxden.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidxden.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513205112id_/http%3A//www.vidxden.com/pages/privacy.html) for the most accurate reproduction.*
 
 # VidX Den - we take streaming seriously!
 
@@ -61,4 +61,4 @@ By using our site, you consent to our privacy policy.
 
 If we decide to change our privacy policy, we will post those changes on this page. 
 
-http://www.divxden.com/privacy.html 
+http://www.vidxden.com/privacy.html 
