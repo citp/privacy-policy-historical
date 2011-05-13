@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029133217id_/http%3A//goodlifefitness.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifefitness.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513144451id_/http%3A//goodlifefitness.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy- GoodLife Fitness
 
@@ -80,8 +80,8 @@ King Street London, ON N6A 1C9
 FAX: (519) 434-6701  
 [privacyofficer@goodlifefitness.com](mailto:privacyofficer@goodlifefitness.com)
 
-[Print Personal Information Request Form ](https://web.archive.org/web/20101029133217id_/http%3A//goodlifefitness.com/pdf/InformationRequestForm.pdf)
+[Print Personal Information Request Form ](https://web.archive.org/web/20110513144451id_/http%3A//goodlifefitness.com/pdf/InformationRequestForm.pdf)
 
 #### Amendments to Our Privacy Policy
 
-GoodLife Fitness may review and revise this privacy policy from time to time. Changes to this policy will be posted on GoodLife Fitness Internet Website and in the GoodLife Fitness privacy policy brochure available in all of our clubs.
+GoodLife Fitness may review and revise this privacy policy from time to time. Changes to this policy will be posted on GoodLife Fitness Internet Website.
