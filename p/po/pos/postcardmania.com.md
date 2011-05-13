@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcardmania.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227075500id_/http%3A//www.postcardmania.com/about-postcardmania/privacy-policy/%3Fhp%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcardmania.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514013127id_/http%3A//www.postcardmania.com/about-postcardmania/privacy-policy) for the most accurate reproduction.*
 
 # PostcardMania.com Privacy Policy
 
