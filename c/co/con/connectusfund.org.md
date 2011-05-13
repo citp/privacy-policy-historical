@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectusfund.org privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112181313id_/http%3A//www.connectusfund.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectusfund.org privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513074408id_/http%3A//www.connectusfund.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Connect U.S. Fund
 
