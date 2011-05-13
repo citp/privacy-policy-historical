@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the displaylink.com privacy policy that was archived on 2007-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070721083336id_/http%3A//www.displaylink.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the displaylink.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513142217id_/http%3A//www.displaylink.com/privacy.php) for the most accurate reproduction.*
 
-# DisplayLink > Privacy Policy
+# DisplayLink: Privacy
 
 **DISPLAYLINK (UK) LIMITED PRIVACY POLICY**
 
 DisplayLink (UK) Limited ("DisplayLink") is committed to protecting your privacy and this Privacy Policy sets out our privacy practices. Please take the time to review this Privacy Policy carefully as it tells you how your personal information will be treated by us.
 
-By using the DisplayLink (UK) Limited site ( **www.DisplayLink.com** ) (the “Site”) and our services, you unconditionally agree to be bound by this Privacy Policy.
+By using the DisplayLink (UK) Limited site (www.DisplayLink.com) (the “Site”) and our services, you unconditionally agree to be bound by this Privacy Policy.
 
 DisplayLink wants to offer you the best possible internet experience. Consequently, additional functions, features, products or services are incorporated into the Site from time to time. This, and our commitment to protecting the privacy of your personal information, may result in periodic changes to this Privacy Policy. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.
 
@@ -14,24 +14,21 @@ Any questions regarding our Privacy Policy should be directed to DisplayLink’s
 
 What do we collect and use personal information for?
 
-In order to:
+**In order to:**
 
-  * record and respond to any enquiries or other communications you make via the Site;
-  * customise the service we provide to you;
-  * to enable you to access password protected areas of the Site;
-  * administrate or otherwise carry out our obligations in relation to any agreement you have with us;
-  * verify your identity;
-  * anticipate and resolve problems with any goods or services supplied to you;
-  * carry out market research and tracking of sales data;
-  * send you information about our products and services;
-  * share information with other DisplayLink group companies;
-  * analyse aggregated data (that is personal data that has been aggregated to the extent that the identity of the individuals is removed from the analysis and results) from customers and interested parties to help us make business decisions; 
-
-
-
+record and respond to any enquiries or other communications you make via the Site;  
+customise the service we provide to you;  
+to enable you to access password protected areas of the Site;  
+administrate or otherwise carry out our obligations in relation to any agreement you have with us;  
+verify your identity;  
+anticipate and resolve problems with any goods or services supplied to you;  
+carry out market research and tracking of sales data;  
+send you information about our products and services;  
+share information with other DisplayLink group companies;  
+analyse aggregated data (that is personal data that has been aggregated to the extent that the identity of the individuals is removed from the analysis and results) from customers and interested parties to help us make business decisions;  
 We may need to collect and process personal information about you through the Site (including your name, your username and password, address, company name, gender, and, in connection with your password (where applicable), an answer to a question that only you would know). We may ask you for this information through our Site, or via one of our telephone operators. Certain information is collected automatically, as described later in this Privacy Policy.
 
-Although we do not make it compulsory to give us every item of information we ask for, the more information you volunteer (and the more accurate it is), the better we can tailor our services for you. 
+Although we do not make it compulsory to give us every item of information we ask for, the more information you volunteer (and the more accurate it is), the better we can tailor our services for you.
 
 Certain DisplayLink services may be offered in conjunction with one of our partners. If in order to use such a service, your personal information may need to be shared or only our partner may need to collect and use it, then we will tell you when you first go to use that service. Please note that certain services may be unavailable if you do not want to disclose the personal information you are asked for.
 
@@ -81,5 +78,3 @@ In addition, if you use our services while you are outside the EEA, your informa
 **Contacting us**
 
 If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so sending an e-mail to us at personalinfo @ displaylink.com.
-
-**return to top**
