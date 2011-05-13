@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalali.in privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110030406id_/http%3A//www.chalali.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalali.in privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513202212id_/http%3A//www.chalali.in/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
