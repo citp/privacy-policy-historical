@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubpenguingang.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124000116id_/http%3A//www.mimo.cc/component/content/article/162-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubpenguingang.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513140001id_/http%3A//www.mimo.cc/component/content/article/162-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
