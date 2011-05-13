@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uesp.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213333id_/http%3A//www.uesp.net/wiki/UESPWiki%3APrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uesp.net privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513050226id_/http%3A//www.uesp.net/wiki/UESPWiki%3APrivacy_Policy) for the most accurate reproduction.*
 
 # UESPWiki:Privacy Policy - UESPWiki
 
