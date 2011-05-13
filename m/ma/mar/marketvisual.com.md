@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketvisual.com privacy policy that was archived on 2010-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100510024330id_/http%3A//www.marketvisual.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketvisual.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514002441id_/http%3A//marketvisual.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
