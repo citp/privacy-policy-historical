@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the s3flowshield.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907095112id_/http%3A//www.s3flowshield.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s3flowshield.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513233140id_/http%3A//www.s3flowshield.com/privacy.php) for the most accurate reproduction.*
 
 # S3FlowShield.com Privacy Policy
 
 PRIVACY POLICY
 
   
-Last Updated: April 25, 2009
+Last Updated: March 8, 2011
 
 S3FlowShield.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
@@ -41,7 +41,7 @@ We can be reached by contacting:
 
 S3FlowShield.com
 
-Email: info@s3flowshield.com
+Email: support@S3FlowShield.com
 
 Changes to this Policy
 
