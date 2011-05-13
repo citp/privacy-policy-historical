@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intermatwrestle.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126024710id_/http%3A//www.intermatwrestle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermatwrestle.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513231752id_/http%3A//intermatwrestle.com/privacy) for the most accurate reproduction.*
 
 # InterMat - Powered By RevWrestling
 
