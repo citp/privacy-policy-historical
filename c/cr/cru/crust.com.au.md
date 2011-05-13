@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530223239id_/http%3A//www.crust.com.au/Content.aspx%3Fpid%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513224927id_/http%3A//crust.com.au/aboutus/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# 
 
 Privacy Policy
 
@@ -10,7 +10,7 @@ Privacy Policy
 
  Collection
 
- Crust regularly handles and transfers “personal information” (being information which is capable of identifying an individual) between our franchisees. Crust collects personal information from a wide variety of sources including this website, during telephone calls and directly from our customers. The type of personal information collected will depend upon what dealings you may have with us.
+ Crust regularly handles and transfers "personal information" (being information which is capable of identifying an individual) between our franchisees. Crust collects personal information from a wide variety of sources including this website, during telephone calls and directly from our customers. The type of personal information collected will depend upon what dealings you may have with us.
 
  Collection using this Website  
    
@@ -33,7 +33,7 @@ Disclosure
 
  We may disclose your personal information:
 
- (a) to our franchisees, suppliers, agents or contractors for the purpose of Crust’s business;  
+ (a) to our franchisees, suppliers, agents or contractors for the purpose of Crust's business;  
 (b) where the law requires Crust to do so; and  
 (c) to any third parties that you consent us to do so.
 
@@ -59,7 +59,7 @@ Standard delivery time is approx 45minutes. This may vary depending on the volum
 
 Each Crust Gourmet Pizza Bar delivers to a predefined area. Delivery outside those areas is at the discretion of the stores. No delivery is available outside of these boundaries for online ordering. Online store ordering and delivery is subject to the store trading hours which may change from time to time. This takes into account the time to process an order.
 
-Additional information is collected when you order a pizza with Crust Pizza online. This information assists in the delivery to your request and to verify your credit card and other methods of payment. When making enquiries, ordering or requesting service information, participating in certain promotional activities, completing surveys, and generally corresponding with us, we may ask for certain Personal Information, including,  your name, mailing address, phone number and email address. If you are on a part of our website that requires you to provide your Personal Information, it will be clear what Personal Information we are requesting. We may also collect other information that is provided to us by your web browser. This may include the browser you used to come to our website, the Uniform Resource Locator (“URL”) of the website that you just visited before visiting our website, which pages on our website you visit, any search terms you entered, which URL you go to next, and your Internet Protocol (“IP”) address.
+Additional information is collected when you order a pizza with Crust Pizza online. This information assists in the delivery to your request and to verify your credit card and other methods of payment. When making enquiries, ordering or requesting service information, participating in certain promotional activities, completing surveys, and generally corresponding with us, we may ask for certain Personal Information, including,  your name, mailing address, phone number and email address. If you are on a part of our website that requires you to provide your Personal Information, it will be clear what Personal Information we are requesting. We may also collect other information that is provided to us by your web browser. This may include the browser you used to come to our website, the Uniform Resource Locator ("URL") of the website that you just visited before visiting our website, which pages on our website you visit, any search terms you entered, which URL you go to next, and your Internet Protocol ("IP") address.
 
 Use of cookies
 
