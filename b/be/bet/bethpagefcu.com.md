@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethpagefcu.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205205818id_/https%3A//www.bethpage.coop/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethpagefcu.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513064831id_/https%3A//www.bethpage.coop/about_privacy.asp) for the most accurate reproduction.*
 
 # Bethpage Federal Credit Union - About Us -> Privacy
 
