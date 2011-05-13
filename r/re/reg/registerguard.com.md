@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the registerguard.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113065813id_/http%3A//special.registerguard.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registerguard.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513234200id_/http%3A//special.registerguard.com/about/privacy-statement) for the most accurate reproduction.*
 
-# Privacy statement | The Register-Guard
+# Privacy statement | The Register-Guard | Eugene, Oregon
 
 Privacy statement for registerguard.com  
 and other Web sites of Guard Publishing Company. 
@@ -81,6 +81,10 @@ Advertisement
 
 * * *
 
+[](http://dealtip.upickem.net/engine/Splash.aspx?contestid=27599)
+
+* * *
+
 ### [Visit Go Entertainment](http://go.registerguard.com/entertainment/)
 
 [](http://go.registerguard.com/entertainment/)
@@ -90,9 +94,3 @@ Find fun fast with _go Entertainment_. Search our comprehensive listings of conc
 On your smartphone at _[go.registerguard.mobi](http://go.registerguard.mobi/)_
 
 * * *
-
-[](http://blogs.registerguard.com/cms/index.php/static/advertising/coupons/)
-
-* * *
-
-Advertisement
