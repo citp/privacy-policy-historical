@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkaboutmarriage.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225145319id_/http%3A//talkaboutmarriage.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkaboutmarriage.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513215246id_/http%3A//talkaboutmarriage.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # TalkAboutMarriage.com Privacy Policy
 
