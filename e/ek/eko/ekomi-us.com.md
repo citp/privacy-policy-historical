@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekomi-us.com privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427081903id_/http%3A//www.ekomi-us.com/us/privacy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekomi-us.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513142401id_/http%3A//www.ekomi-us.com/us/privacy-us) for the most accurate reproduction.*
 
 # Privacy | ekomi
 
