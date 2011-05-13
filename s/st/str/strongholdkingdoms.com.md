@@ -1,116 +1,138 @@
-> *The following text is extracted and transformed from the strongholdkingdoms.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122092944id_/http%3A//www.fireflyworlds.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D306%26Itemid%3D312) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongholdkingdoms.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513032948id_/http%3A//www.strongholdkingdoms.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Firefly Studios - Privacy Policy
+# Stronghold Kingdoms Beta - Privacy Policy
 
-**Privacy Policy**
+## Privacy Policy
 
-The terms “Firefly” “we”, “us”, “our” and “ours” when used in this Privacy Policy mean FireFly Studios Limited, which includes any subsidiaries, divisions, branches or companies under common ownership or control of FireFly Studios Limited. The terms “you”, “your” and “yours” when used in this Privacy Policy mean any user of this Website. 
+The terms "Firefly" "we", "us", "our" and "ours" when used in this Privacy Policy mean FireFly Studios Limited, which includes any subsidiaries, divisions, branches or companies under common ownership or control of FireFly Studios Limited.  The terms "you", "your" and "yours" when used in this Privacy Policy mean any user of our websites or services. 
 
-Our Website Terms of Use are available here: [Terms of Use](https://web.archive.org/web/20101122092944id_/http%3A//www.fireflyworlds.com/index.php?option=com_content&task=view&id=304&Itemid=312)
+The term "Personal Data" refers to personally identifiable information about you, such as your name, address, e-mail address, or telephone number.
 
-> **1\. Introduction to Privacy Policy**
+1\.                            Introduction to Privacy Policy
 
-We are committed to the privacy and confidentiality of information provided by you to us. This Privacy Policy forms part of our Website Terms of Use and describes our current policies and practices with regard to Personal Data collected by us from you directly and/or through the website where such Personal Data is protected by the Data Protection Act 1998 (“DPA”). The term “Personal Data” refers to personally identifiable information about you, such as your name, address, date of birth, e-mail address, or telephone number. 
+We are committed to the privacy and confidentiality of information provided by you to us.  This Privacy Policy describes our current policies and practices with regard to Personal Data collected by us from you directly and/or through our websites including Stronghold Kingdoms at [www.strongholdkingdoms.com](http://www.strongholdkingdoms.com/)), where such Personal Data is protected by the Data Protection Act 1998 ("DPA").  For the purpose of the DPA Firefly Studios Limited are the "data controller".
 
-Please note that by submitting Personal Data manually or in electronic form to us and/or by using our website and/or services you give your consent that all Personal Data on each occasion that you submit may be processed by, and/or shared within the FireFly Group, in the manner and for the purposes described in this Privacy Policy. 
+Please note that by submitting Personal Data manually or in electronic form to us and/or by using our websites and/or services you give your consent that all Personal Data on each occasion that you submit may be processed by, and/or shared within the FireFly group of companies, in the manner and for the purposes described in this Privacy Policy.
 
-> **2\. Notification of changes to this Privacy Policy**
+2\.                            Notification of changes to this Privacy Policy
 
-We are continually improving our methods of communication and adding new functionality and features to this website and to our existing services. Because of these ongoing changes, changes in the law and the changing nature of technology, our data practices will change from time to time. If and when our data practices change, we will notify you of the changes via this page. We encourage you to check this Privacy Policy frequently. 
+We are continually improving our methods of communication and adding new functionality and features to tour websites and to our existing services.  Because of these ongoing changes, changes in the law and the changing nature of technology, our data practices will change from time to time.  If and when our data practices change, we will notify you of the changes via this page.  We encourage you to check this Privacy Policy frequently.
 
-> **3\. Collection of Personal Data including e-mail addresses**
+3\.                            Collection of Personal Data
 
-You may provide us with your Personal Data in order to receive information or services from us. We may request personal information about you such as your name, address, email address and/or telephone number and we may ask for information which enables us to provide a personalised service to you. The information you give us is either manually or electronically stored in our databases. 
+You may provide us with your Personal Data in order to receive information or services from us.  The information submitted to us will usually take one or more of the following forms:  Registration to participate in our on-line games, visits to our websites (including personal traffic data, personal location data, weblogs and other personal communication data), details of transactions you carry out through our site and the fulfilment of orders (including subscribing to any of our on-line games and/or other services), message board/forum posts or registration, contests, surveys and customer or technical support.  We may request personal information about you including your name, address, email address and, telephone number and we may ask for information which enables us to provide a personalized service to you.  The information you give us is either manually or electronically stored in our databases.
 
-We may also receive your Personal Data from other members of the FireFly Group, our service providers, agents, or business partners. In particular where Personal Data is disclosed to us by third parties, it is the obligation of the disclosing party to ensure such Personal Data is disclosed with requisite authority and consent and we will process such Personal Data in accordance with this Privacy Policy.  
+We may also receive your Personal Data from other members of the FireFly group of companies, our service providers, agents, or business partners.  In particular where Personal Data is disclosed to us by third parties, it is the obligation of the disclosing party to ensure such Personal Data is disclosed with requisite authority and consent and we will process such Personal Data in accordance with this Privacy Policy.  
 
-We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate post codes are received, we will use third party software to fix them. 
+We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate postcodes are received, we will use third party software to fix them.  
 
-We also reserve the right to monitor and/or record your communication with us by mail, voice, email or any other form of transmission for the purposes of quality control, fraud detection, security and other business needs. Any Personal Data contained in such recorded information will be processed in accordance with the terms of this Privacy Policy. 
+4\.                            Collection of other Data
 
-> **4\. Use of Personal Data**
+For some activities, we may ask for other non personal information, such as username, password, and game name and, combine such information with your Personal Data.  In addition, your client software (i.e. software that you will be required to  install in order to operate some of our games) or web browser may transmit certain geographic information or information regarding your computer (capabilities, game data processing, etc.) to us.  We may use this information to generate aggregate statistics about our user community and may provide such non-personal information to advertisers and/or our partners.  In addition, we may use such information for security, system integrity (including the prevention of hacking and cheating), or intellectual property protection or enforcement purposes.
 
-We process your Personal Data, and share your Personal Data with other members of the FireFly Group, or others, only for specific and limited purposes. We ask only for data that is adequate, relevant and not excessive for those purposes. Some of these purposes may include the following: 
+We also reserve the right to monitor and/or record your communication with us by mail, voice, email, chat or any other form of transmission for the purposes of quality control, fraud detection, security and other business needs.  Any Personal Data contained in such recorded information will be processed in accordance with the terms of this Privacy Policy.
 
-  * To provide you with the services that you request 
-  * To contact you occasionally to inform you of products and services provided by us, other members of the FireFly Group or third parties whose products and/or services we think you may be interested in. We may contact you by letter, telephone or email for this purpose. 
-  * To process your request for information or advice
-  * To help diagnose any problems with our server and administer our website
+5\.                            Use of Personal Data
+
+We process your Personal Data, and share your Personal Data with other members of the FireFly group of companies, or others, only for specific and limited purposes.  We ask only for data that is adequate, relevant and not excessive for those purposes.  Some of these purposes may include the following:
+
+  * To process payment orders;
+  * To provide you with the services that you request, including customer services or technical support;
+  * To contact you to inform you of products and services provided by us and other members of the FireFly group of companies we think you may be interested in;
+  * To process or route your request for information or customer support;
+  * To help diagnose any problems with our services or websites;
+  * For internal marketing or demographic purposes.
 
 
 
-> **5.Anonymous data collected through this website**
+6\.                            Anonymous data collected through our websites
 
-In addition to the information we collect as described above, we use technology to collect anonymous information about the use of our website. For example, we use technology to track which pages of our website our visitors view. We also use technology to determine which web browsers our visitors use. This technology does not identify you personally; it simply enables us to compile statistics about our visitors and their use of our website. 
+In addition to the information we collect as described above, we use technology to collect anonymous information about the use of our websites.  For example, we use technology to track which pages of our websites our visitors view.  We also use technology to determine which web browsers our visitors use.  This technology does not identify you personally; it simply enables us to compile statistics about our visitors and their use of our websites.
 
-We use this anonymous data to improve the content and functionality of our website and our e-mail updates, to better understand our customers and visitors, and to improve the services we offer. 
+We use this anonymous data to improve the content and functionality of our websites and our e-mail updates, to better understand our customers and visitors, and to improve the services we offer.
 
-> **6\. Cookies**
+7\.                            Cookies
 
-In order to collect the anonymous data described in the preceding paragraph, we may use temporary “cookies” that remain in the cookies file of your browser until the browser is closed. 
+A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive.   Firefly uses Cookies to collect information about a user’s visits and to enhance the user’s experience when visiting the Websites and games operated by Firefly.  A cookie can be used to store information like your password, or the fact that you have already registered.  This allows us to speed up your future activities, saving the time you would normally spend entering information such as your password or registration information. 
 
-Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. 
+Cookies can be refused by you by activating the appropriate settings on your web browser.  By doing this, please be aware that you may be unable to access certain parts of our websites.  Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our websites.
 
-We may use your IP address to help diagnose problems with our server and to administer our website. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information, such as determining how many of our visitors are from outside of the UK. 
+8\.                            IP Address
 
-We may also perform IP lookups to determine which domain you are coming from (i.e: aol.com, yourcompany.com) to more accurately gauge our users' demographics. 
+An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet.  We may track your IP address for, security, site tracking, administration of our websites or services, to prevent abuse of our game servers, or to gather broad demographic information such as determining how many of our visitors are from outside of the UK.
 
-> **7\. Disclosure of your Personal Data**
+We may also perform IP lookups to determine which domain you are coming from (i.e: aol.com, yourcompany.com) to more accurately gauge our users' demographics.
 
-We do not share with, nor sell nor distribute your Personal Data to unrelated third parties, except under these limited circumstances: 
+9\.                            Disclosure of your Personal Data
+
+We do not share with, nor sell nor distribute your Personal Data to unrelated third parties, except under these limited circumstances:  
 
   * We may share various details about you with our business partners, advisers and other agents in order to provide you with the specific service you require.
-  * Personal Data may occasionally be transferred to third parties who act for us for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have consented or otherwise in accordance with this Privacy Policy. For example, sometimes a third party may have access to your Personal Data in order to support our information technology or to handle mailings on our behalf. 
-  * Unless you have given us your consent to the processing of your Personal Data in accordance with our Privacy Policy (which includes sharing or other disclosing), we will not share or disclose your Personal Data to any unrelated third parties for their own marketing purposes. 
-  * We may share or transfer the information in our databases to comply with a legal or regulatory requirement, for the administration of justice, interacting with anti-fraud databases, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of our sale, merger, reorganisation, transfer of business, dissolution or similar event.
+  * Personal Data may occasionally be transferred to third parties who act for us for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have consented or otherwise in accordance with this Privacy Policy.  This may include, but is not limited to fulfilling purchase orders or prizes, processing mailings, or storing data.
+  * We will not share or disclose your Personal Data to any unrelated third parties for their own marketing purposes unless you have given us your consent to do so.
+  * We may share or transfer the information in our databases to comply with a legal or regulatory requirement, for the administration of justice, interacting with anti-fraud databases, to protect the security or integrity of our databases or our websites or services, to take precautions against legal liability, protect and defend the rights or property of Firefly or its licensees or licensors, protect the personal safety or interests of our employees, users of our products or services, enforce the terms and conditions for the supply of our products and services (including the Terms of Use for [www.strongholdkingdoms.com](http://www.strongholdkingdoms.com/)) or any applicable license agreements or in the event of our sale, merger, reorganisation, transfer of business, dissolution or similar event.
+  * We may disclose your account information to a third-party that alleges that you have infringed their intellectual property rights, subject to reasonable verification of such claims.
   * If we sell or buy any business or assets, in which case we may disclose your Personal Data to the prospective seller or buyer of such business or assets.
+  * Firefly may provide online in-game chat rooms, in-game mail systems and forums to users.  Any information that is disclosed in these chat rooms and forums is public information and users should exercise caution when deciding to disclose personal information in such chat rooms, in-game mail and forums.  If you voluntarily disclose information in a public area of the Firefly websites and/or services, such as a forums post or text chat room, that information may be collected and used by a third-party to send you unsolicited messages, advertisements or for other purposes.  We do not control the actions of these third parties in such public areas.  If you disclose information in such a public area, you do so at your own risk.
 
 
 
-Where appropriate, before disclosing Personal Data to a third party, we contractually require the third party to take adequate precautions to protect that data and to comply with applicable law. 
+Where appropriate, before disclosing Personal Data to a third party, we contractually require the third party to take adequate precautions to protect that data and to comply with applicable law.
 
-> **8\. Data Integrity and Security**
+10\.                         Children
 
-We strive to maintain the reliability, accuracy, completeness and currency of Personal Data in our databases and to protect the privacy and security of our databases. The security measures in place on our website and computer systems, aim to protect the loss, misuse or alteration of the information you provide to us. We keep your Personal Data only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or regulatory requirements, or our data retention policy. 
+Please note that all persons under the age of majority in their jurisdiction are required to have a parent or guardian read and accept this Agreement and our Privacy Policy on their behalf.  Parents are encouraged to spend time online with their children under the age of 18 and to become familiar with the types of content available on the Firefly websites and the various services Firefly offers.  Parents should regularly oversee their children's' use of e-mail, chat and other online communications and transactional features.
 
-> **9\. Data Access**
+_**Children Under 13**_
 
-Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will (subject to the exceptions to the requirement to disclose under the DPA) disclose to you the Personal Data we hold about you, for which we may make a small charge. 
+We feel under a particular obligation to protect information obtained from young children.  We would strongly urge parents to instruct their children never to disclose their real name, their address or their telephone number while they are on-line without prior permission.  No information should be transmitted to Firefly by minors aged 12 years or under.  Firefly will not collect or knowingly process Personal Data provided by minors aged 12 years or under. 
 
-Requests to delete Personal Data are subject to any applicable legal and regulatory requirements or document retention obligations and any of our current contracts which are still in force. 
+We will request that a child of 12 years old or under provide their parent or guardian’s email address if they wish to engage in online activities on our Websites or use our services so that we are able to notify the parent or guardian and obtain prior permission or other verifiable consent.  
 
-If you wish to make a subject access request relating to Personal Data held about you by the FireFly Group of companies, please email [dataprotectionofficer@fireflyworlds.com](mailto:dataprotectionofficer@fireflyworlds.com). 
+_**Note to Parents**_
 
-> **10\. Inaccurate Data**
+Adolescents aged 13-17 years should ask their parents to read our Privacy Policy and to contact us if they would like any information on our guarantee of confidentiality or to comment on the content.  In some jurisdictions and circumstances, notification, prior written permission or other verifiable consent may be required of a parent or guardian for children from 13 to 17 years of age and where applicable we shall act to ensure that such requirements are complied with.
 
-We encourage you to ensure that your Personal Data is accurate and kept up to date so please regularly update any information you have given to us by sending an email to [dataprotectionofficer@fireflyworlds.com](mailto:dataprotectionofficer@fireflyworlds.com), or by writing to us. We will correct, amend or delete any Personal Data that you notify us is inaccurate and notify any third party recipients of necessary changes. 
+11\.                         Data Integrity and Security
 
-> **11\. Links to other websites**
+We strive to maintain the reliability, accuracy, completeness and currency of Personal Data in our databases and to protect the privacy and security of our databases.  The security measures in place on our websites and computer systems, aim to protect the loss, misuse or alteration of the information you provide to us. We keep your Personal Data only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or regulatory requirements, or our data retention policy.  Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control.
 
-Our website may contain hyperlinks to websites that are not operated by us. Any such hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. We do not control these websites and are not responsible for their data or privacy practices. We urge you to review any privacy policy posted on any site you visit before using the site or providing any Personal Data about yourself. 
+12\.                         Data Access
 
-Our website contains hyperlinks to other pages on our website. We may use technology to track how often these links are used and which pages on our website our visitors choose to view. Again this technology does not identify you personally – it simply enables us to compile statistics about the use of these hyperlinks. 
+Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will (subject to the exceptions to the requirement to disclose under the DPA) disclose to you the Personal Data we hold about you, for which we may make a small charge.
 
-> **12\. Transfer of Data Abroad**
+Requests to delete Personal Data are subject to any applicable legal and regulatory requirements or document retention obligations and any of our current contracts which are still in force.
 
-We may transfer data between members of the FireFly Group, and our offices and third party processors which may be located outside the EEA. Where your Personal Data is transferred outside the EEA we will ensure that the recipient agrees to keep your information confidential and hold it securely in accordance with the requirements of the DPA. 
+If you wish to make a subject access request relating to Personal Data held about you by FireFly, please email [dataprotectionofficer@fireflyworlds.com](mailto:dataprotectionofficer@fireflyworlds.com).
 
-By providing us with your Personal Data, you consent to the processing and transfer of your data as set out in this section. 
+13\.                         Inaccurate Data
 
-> **13\. Unsubscribe**
+We encourage you to ensure that your Personal Data is accurate and kept up to date so please regularly update any information you have given to us by sending an email to [dataprotectionofficer@fireflyworlds.com](mailto:dataprotectionofficer@fireflyworlds.com), or by writing to us. We will correct, amend or delete any Personal Data that you notify us is inaccurate and notify any third party recipients of necessary changes.
 
-We hope you will be delighted with our services. If you no longer wish to receive information from us and want to be removed from our standard mailing list you can "unsubscribe" by contacting us at the email address given below. Please allow twenty eight days for the unsubscribe process to be completed. 
+14\.                         Links to other websites
 
-Remember that by stopping the information that you receive from us about our products and services may not benefit you. For example, you may not hear about promotions we are running or additions to our service. 
+Our websites and services may contain hyperlinks to websites that are not operated by us.  Any such hyperlinks are provided for your reference and convenience only and do not imply any endorsement of the activities of these third-party websites or any association with their operators. We do not control these websites and are not responsible for their data or privacy practices.  We urge you to review any privacy policy posted on any site you visit before using the site or providing any Personal Data about yourself.
 
-If you do not want to receive unsolicited mail from any source, you can stop this by registering with the "Mailing Preference Service". There are also telephone, fax and email preference services. For more information on the preference services, please visit the Direct Marketing Association's website. 
+Our websites contain hyperlinks to other pages on our websites.  We may use technology to track how often these links are used and which pages on our websites our visitors choose to view. Again this technology does not identify you personally – it simply enables us to compile statistics about the use of these hyperlinks.
 
-> **14\. Governing Law**
+15\.                         Transfer of Data Abroad
 
-This Privacy Policy forms part of our website Terms of Use and as such shall be governed by and construed in accordance with the laws of England. You agree to submit any dispute arising out of your use of this website to the exclusive jurisdiction of the courts of England. 
+We may transfer and store your Personal Data between members of the FireFly group of companies, and our offices and third party processors which may be located outside the EEA.  Where your Personal Data is transferred and stored outside the EEA we will ensure that the recipient agrees to keep your information confidential and hold it securely in accordance with the requirements of the DPA.
 
-> **15\. Feedback**
+By providing us with your Personal Data, you consent to the processing, transfer and storage of your Personal Data as set out in this section.
 
-We welcome comments about this Privacy Policy. If you have any questions about this Privacy Policy, or any part of our service, you may contact us by emailing [dataprotectionofficer@fireflyworlds.com](mailto:dataprotectionofficer@fireflyworlds.com). 
+16\.                         Unsubscribe
 
-Back to top.
+We hope you will be delighted with our services.  If you no longer wish to receive information from us and want to be removed from our standard mailing list you can "unsubscribe" by contacting us at [admin@fireflyworlds.com](mailto:admin@fireflyworlds.com). Please allow twenty eight days for the unsubscribe process to be completed.  In any marketing or promotional communications we send to you, we will give you the opportunity to withdraw your consent to receiving such communications in the future.  Remember that by stopping the information that you receive from us about our products and services may not benefit you.  For example, you may not hear about promotions we are running or additions to our service.
+
+17\.                         Governing Law
+
+This Privacy Policy forms part of our websites terms and conditions for the supply of our products and services (including the Terms of Use for [www.strongholdkingdoms.com](http://www.strongholdkingdoms.com/)) Terms of Use and as such shall be governed by and construed in accordance with the laws of England. You agree to submit any dispute arising out of your use of our websites or service to the exclusive jurisdiction of the courts of England.
+
+18\.                         Feedback
+
+We welcome comments about this Privacy Policy.  If you have any questions about this Privacy Policy, or any part of our service, you may contact us by emailing [admin@fireflyworlds.com](mailto:admin@fireflyworlds.com).
+
+Visiting Firefly Internet websites and using our on-line services indicates your acceptance of our Privacy Policy.  If you do not accept this Privacy Policy, please do not visit our Internet websites or use our on-line services.
+
+**This Privacy Policy was last updated on October 21st, 2010.**
