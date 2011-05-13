@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gordonandthewhale.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123074957id_/http%3A//gordonandthewhale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gordonandthewhale.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513202616id_/http%3A//gordonandthewhale.com/privacy) for the most accurate reproduction.*
 
 # Gordon and the Whale : Privacy Policy » GordonandtheWhale.com
 
@@ -14,7 +14,7 @@ Additionally, your Internet browser has the in-built facility for storing small 
 
 **Interaction with Children**
 
-The [Children’s Online Privacy Protection Act (COPPA)](http://www.ftc.gov/coppa/) governs information gathering online from or about children under the age of 13. Verifiable consent from a child’s parent or guardian is required before collecting, using, or disclosing personal information from a child under the age of 13.
+The [Children's Online Privacy Protection Act (COPPA)](http://www.ftc.gov/coppa/) governs information gathering online from or about children under the age of 13. Verifiable consent from a child's parent or guardian is required before collecting, using, or disclosing personal information from a child under the age of 13.
 
 We collect no information about you or your child, other than that detailed in the previous section, when you visit our web site unless you choose to provide information to us.
 
