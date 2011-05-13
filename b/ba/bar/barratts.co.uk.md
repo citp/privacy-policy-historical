@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barratts.co.uk privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112001809id_/http%3A//www.barratts.co.uk/en/info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barratts.co.uk privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513224856id_/http%3A//www.barratts.co.uk/en/info/Privacy-Policy) for the most accurate reproduction.*
 
 # Welcome - Barratts Shoes
 
