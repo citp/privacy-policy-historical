@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the withfriendship.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226192742id_/http%3A//withfriendship.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the withfriendship.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513140012id_/http%3A//withfriendship.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Withfriendship.com
 
