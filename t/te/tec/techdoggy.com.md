@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techdoggy.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130141240id_/http%3A//techdoggy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techdoggy.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513065844id_/http%3A//techdoggy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Latest Technology 2011
+# Privacy Policy - TechDoggy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
