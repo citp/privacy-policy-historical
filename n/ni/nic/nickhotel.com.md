@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122104042id_/http%3A//www.nickhotel.com/html/orlando-privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickhotel.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513095027id_/http%3A//www.nickhotel.com/html/orlando-privacy-policy.asp) for the most accurate reproduction.*
 
 # Nickelodeon Suites Resort Privacy Policy & Corporate Disclaimer
 
@@ -20,5 +20,5 @@ Our site has direct links to other websites we believe will be of interest to yo
 
 **Nickelodeon Suites Resort - Orlando Hotel, Florida (FL)**  
 14500 Continental Gateway, Orlando, Florida 32821   
-Reservations: 1-877-642-5111 Hotel Direct: 407-387-5437 Fax: 407-387-1489  
+Hotel Direct: 407-387-5437 Fax: 407-387-1489  
 Email: [contactus@nickhotel.com](mailto:contactus@nickhotel.com)
