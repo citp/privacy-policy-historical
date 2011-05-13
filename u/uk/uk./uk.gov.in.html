@@ -1,0 +1,520 @@
+<!--The following is the downloaded HTML source of the uk.gov.in privacy policy that was archived on 2011-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110514004747id_/http%3A//uk.gov.in/pages/display/147-privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title>Privacy Policy: Uttarakhand Government Portal, India</title> 
+<meta name="language" content="en-us">
+<meta name="keywords" content="Uttarakhand Government Portal, India">
+<meta name="description" content="Uttarakhand Government Portal, India"> 
+<meta name="title" content="Uttarakhand Government Portal, India">
+<meta name="author" content="Goutam Pal, DKS, Swadesh Dey Indusnettechnologies">
+
+
+<!-- get favicon -->
+<link href="/templetes/templete1/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<!-- css for dropdwn and font size -->
+
+<link rel="stylesheet" type="text/css" media="all" href="/templetes/templete1/css/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="/templetes/templete1/css/basic.css">
+<!-- font drop menu -->
+<link rel="stylesheet" type="text/css" href="/templetes/templete1/css/superfish.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/templetes/templete1/css/superfish-vertical.css" media="screen">
+<!-- font size switcher -->
+<link rel="alternate stylesheet" type="text/css" media="screen" title="small" href="/templetes/templete1/css/css_small.css">
+<link rel="alternate stylesheet" type="text/css" media="screen" title="bigger" href="/templetes/templete1/css/css_bigger.css">
+
+<!-- theme switcher -->
+<link rel="alternate stylesheet" type="text/css" media="screen" title="yelBlack" href="/templetes/templete1/css/yelBlack.css">
+<link rel="alternate stylesheet" type="text/css" media="screen" title="yelBlue" href="/templetes/templete1/css/yelBlue.css">
+<link rel="alternate stylesheet" type="text/css" media="screen" title="fusiaBlack" href="/templetes/templete1/css/fusiaBlack.css">
+
+
+<link rel="alternate stylesheet" type="text/css" media="screen" title="wider" href="/templetes/templete1/css/wider.css">
+<link rel="alternate stylesheet" type="text/css" media="screen" title="widest" href="/templetes/templete1/css/widest.css">
+
+<link rel="stylesheet" type="text/css" href="/css/jquery.lightbox-0.5.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/tooltip/bt.css">
+
+<script type="text/javascript" src="/templetes/templete1/js/jquery-1.3.2.min.js"></script>
+
+<script type="text/javascript" src="/templetes/templete1/js/stepcarousel.js"></script>
+
+<!--For add to fav scroller -->
+<script type="text/javascript" src="/js/add-to-fav.js"></script>
+
+<!-- drop down menu -->
+<script type="text/javascript">
+ 
+var STR_PAD_LEFT = 1;
+var STR_PAD_RIGHT = 2;
+var STR_PAD_BOTH = 3;
+ 
+function pad(str, len, pad, dir) {
+ 
+	if (typeof(len) == "undefined") { var len = 0; }
+	if (typeof(pad) == "undefined") { var pad = ' '; }
+	if (typeof(dir) == "undefined") { var dir = STR_PAD_RIGHT; }
+ 
+	if (len + 1 >= str.length) {
+ 
+		switch (dir){
+ 
+			case STR_PAD_LEFT:
+				str = Array(len + 1 - str.length).join(pad) + str;
+			break;
+ 
+			case STR_PAD_BOTH:
+				var right = Math.ceil((padlen = len - str.length) / 2);
+				var left = padlen - right;
+				str = Array(left+1).join(pad) + str + Array(right+1).join(pad);
+			break;
+ 
+			default:
+				str = str + Array(len + 1 - str.length).join(pad);
+			break;
+ 
+
+
+		} // switch
+ 
+	}
+ 
+	return str;
+ 
+}
+
+var baseUrl='/';
+
+var sec='41'*1;
+var h='06'*1;
+var H='06'*1;
+var i='18'*1;
+var s='41'*1;
+var ampm='AM';
+
+function putdatetime()
+{
+	
+	sec=parseInt(sec)+1;
+	//alert(sec);	
+	if(sec>=60)
+	{
+		i++;
+		sec=0;
+	}	
+	if(i>=60)
+	{
+		h++;
+		H++;
+		i=0;
+	}
+	if(H>12)
+	{
+		h=1;
+		//d++;
+		ampm="PM";
+	}
+	if(H>24)
+	{
+		h=1;
+		ampm="AM";
+	}
+	
+	
+	var time=pad(String(h), 2, "0", STR_PAD_LEFT)+":"+pad(String(i), 2, "0", STR_PAD_LEFT)+":"+pad(String(sec), 2, "0", STR_PAD_LEFT)+" "+ampm;
+	//var date=pad(String(d), 2, "0", STR_PAD_LEFT)+":"+pad(String(m), 2, "0", STR_PAD_LEFT)+":"+Y;
+	document.getElementById('time_id').innerHTML=time;
+	
+	
+	var t=setTimeout("putdatetime()",1000);
+	
+}
+
+
+function openChild(file,windowmn,val)
+{
+ 	if(parseInt(val)==1)
+	{
+		if(!confirm('This link shall take you to a page/website outside this website http://uk.gov.in.For any query regarding the contents of the linked page/website, please contact the webmaster of the concerned website.'))
+		{
+			return false;
+		}
+	}
+	else if(parseInt(val)!=0 && parseInt(val)!=1)
+	{ 
+		
+				
+		var arr=file.split(".");
+		var ext=arr[arr.length-1].toLowerCase();
+		if(ext=="pdf" || ext=="doc" || ext=="xls" || ext=="ppt" || ext=="docx" || ext=="jpg"  || ext=="jpeg" || ext=="gif"  || ext=="png" || ext=="txt")
+		{
+		}
+		else
+		{
+			if(!confirm('This link shall take you to a page/website outside this website http://uk.gov.in.For any query regarding the contents of the linked page/website, please contact the webmaster of the concerned website.'))
+			{
+				return false;
+			}
+		}
+	
+	}
+  
+  	var arr=file.split(".");
+	var ext=arr[arr.length-1].toLowerCase();
+	if(ext=="pdf" || ext=="doc" || ext=="xls" || ext=="ppt" || ext=="docx" || ext=="jpg"  || ext=="jpeg" || ext=="gif"  || ext=="png" || ext=="txt")
+		{
+		
+   childWindow=window.open(file,windowmn,'width=600,height=500,screenX=100,screenY=0,scrollbars=yes,menubar=yes,location=yes,toolbar=yes,resizable=yes');
+   }
+   else
+   {
+   childWindow=window.open(file,windowmn);
+   }
+	childWindow.focus();
+return false;
+   // if (childWindow.opener == null) childWindow.opener = self;
+}
+
+// initialise plugins
+
+jQuery(function(){
+	jQuery('ul.sf-menu').superfish();
+	
+});
+
+function equalHeight(group) {
+   tallest = 0;
+   group.each(function() {
+      thisHeight = $(this).height();
+      if(thisHeight > tallest) {
+         tallest = thisHeight;
+      }
+   });
+   group.height(tallest);
+}
+
+
+$(document).ready(function() {
+	$(".container .cell:odd").addClass("cellLast");
+	
+	//$("#midColumn ul").addClass("allul");
+	
+	//if($("#midColumn .breadCrumb")) {
+		$("#midColumn ul:first").removeClass("allul");	
+	//}
+	
+	putdatetime();
+						   
+});
+
+</script>
+<script type="text/javascript">
+$(document).ready(function() {		
+	//Load the slideshow
+	thebannerWrap();
+});
+</script>
+<!-- drop down menu -->
+<!--[if IE 6]>
+<style type="text/css">
+
+img, span{ behavior: url(/ie6/iepngfix.htc)}
+</style>
+<![endif]-->
+<!--.wrapper, #header{  width:94.5%; width:expression(document.body.clientWidth < 967 ? "945px" : "94.5%" ); }
+.topStripe{  width:100%; width:expression(document.body.clientWidth < 967 ? "945px" : "100%" ); }-->
+</head>
+
+<body>
+<noscript>
+<div class="noScript">
+<p>JavaScript must be enabled in order for you to use the Site in standard view. However, it seems JavaScript is either disabled or not supported by your browser. To use standard view, enable JavaScript by changing your browser options, then <a href="/" title="try again"><strong>try again</strong></a>.</p>
+</div>
+</noscript>
+
+<!-- Top Srripe-->
+<div class="topStripe">
+	<div><ul>
+	  <li><a title="Screen Reader Access" href="/screenreaderaccess" accesskey="3">Screen Reader Access</a></li>
+	  <li><a title="Skip to main content" href="#midColumn">Skip to main content</a></li>
+	  <li><a title="Skip to navigation" href="#top" accesskey="2">Skip to navigation</a></li>
+	  <li class="noBord switcher">Text Size</li>
+	  <li class="noBord">
+		<ul>
+		  <li><a href="javascript:chooseStyle('small', 60);" title="Smaller Size" class="smaller"><img src="/templetes/templete1/images/decrease.gif" alt="Decrease Text Size" title="Decrease"></a></li>
+		  <li><a href="javascript:chooseStyle('none', 60);" title="Default Size" class="switch">A</a></li>
+		  <li><a href="javascript:chooseStyle('bigger', 60);" title="Bigger Size" class="switch bigger"><img src="/templetes/templete1/images/increase.gif" alt="Increase Text Size" title="Increase"></a></li>
+		</ul>
+	  </li>
+	 
+	 			<li class="hindi"><a href="/home/language/hi" title="This Page In Hindi">हिंदी में</a></li>
+				 
+	</ul></div>
+</div>
+<!-- /Top Srripe-->
+
+<!-- outer wrapper -->
+<div class="outer_wrapper1">
+<div class="outer_wrapper">
+	<!-- Header -->	
+	<div id="header">
+		<div class="siteDescription">
+			
+			<a href="/" title="Uttarakhand Government Portal (...an initiative of NIC-Uttarakhand)">
+				<img src="/logo/logo.png" alt="Uttarakhand Logo">
+				</a>
+			
+			<h1 title="Uttarakhand Government Portal (...an initiative of NIC-Uttarakhand)">
+								 Uttarakhand 
+				 <span>Government Portal <span>(...an initiative of NIC-Uttarakhand)</span></span>
+			</h1>
+				
+				
+				
+         <!--   <a href="/" title="">
+        		<img src="/templetes/templete1/images/nic_logo.png" class="nic" alt="Nic Logo" />
+            </a>-->
+        </div>
+	
+		<div class="qucik-access">
+		
+			<ul>
+				<li><a class="home" title="Home" href="/" accesskey="1">Home</a></li>
+				<li><a class="contact" title="Contact us" href="/contactus">Contact us</a></li>
+				<li class="last"><a class="sitemap" title="Sitemap" href="/sitemap">Sitemap</a></li>
+			</ul>
+				
+				
+			<form action="/search/" method="get" id="form1" class="search">
+			<fieldset>
+				<label for="srch">
+				  <input type="text" class="txtBox" value="Search" onblur="if(this.value=='')this.value='Search';" onfocus="if(this.value=='Search')this.value='';" name="qry" id="srch">
+				</label>
+			  <label for="btn">
+			  <input type="submit" class="btn" value="" id="btn">
+			  </label>
+			 </fieldset>
+			</form>
+			
+			<div id="bannerWrap">
+                <ul>
+                   
+				   <li class="show" style="opacity: 1;"> <img title="CM building uttarakhand" src="/files/Banner/banner_11.jpg" alt="CM building uttarakhand" width="380" height="98"> </li>
+                    <li style="opacity: 0;"> <img title="Nanda Devi" src="/templetes/templete1/Banner/banner_1.jpg" alt="Nanda Devi" width="380" height="98"> </li>
+                    <li style="opacity: 0;"> <img title="Himalayan" src="/templetes/templete1/Banner/banner_2.jpg" alt="Himalayan" width="380" height="98"> </li>
+<li style="opacity: 0;"> <img title="Corbett-National-Park-Uttarakhand" src="/templetes/templete1/Banner/banner_3.jpg" alt="Corbett-National-Park-Uttarakhand" width="380" height="98"> </li>
+<li style="opacity: 0;"> <img title="Culture" src="/files/Banner/hert2.jpg" alt="Culture" width="380" height="98"> </li>                                       
+ <li style="opacity: 0;"><img title="IIE Haridwar" src="/templetes/templete1/Banner/banner_6.jpg" alt="IIE Haridwar" width="380" height="98"></li>
+
+                    <li style="opacity: 0;"> <img title="IT Park Dehradun" src="/templetes/templete1/Banner/banner_7.jpg" alt="IT Park Dehradun" width="380" height="98"> </li>
+                    <li style="opacity: 0;"><img title="Tehri Dam" src="/templetes/templete1/Banner/banner_8.jpg" alt="Tehri_dam" width="380" height="98"></li>
+                   
+                    <li style="opacity: 0;"><img title="Srinagar Medical College" src="/templetes/templete1/Banner/banner_10.jpg" alt="Srinagar Medical College" width="380" height="98"></li>
+					
+					
+					
+                    <!--<li> <img title="Himalayan-ranges-from-binsar" src="/templetes/templete1/Banner/banner_4.jpg" alt="Himalayan-ranges-from-binsar" width="380" height="98" /> </li>-->
+                   <!-- <li><img title="snowfall" src="/templetes/templete1/Banner/banner_5.jpg" alt="snowfall" width="380" height="98" /></li>-->
+                </ul>
+            </div>
+			
+			
+		</div>
+    	
+    </div>
+	<!-- / Header -->
+
+	<div class="wrapper">
+		<!-- top nav -->
+		<div class="topNav" id="top">
+					<ul class="sf-menu sf-js-enabled sf-shadow">
+                <li><a href="/" title="Home">Home</a></li><li><a href="/pages/display/115-about-us" title="About Us">About Us</a></li><li><a href="/pages/display/116-at-a-glance" title="At a Glance">At a Glance</a></li><li><a href="/pages/display/117-whos-who" title="Who's Who">Who's Who</a></li><li><a href="/pages/display/118-divisions" title="Divisions">Divisions</a></li><li><a href="/pages/display/119-apex-bodies" title="Apex Bodies">Apex Bodies</a></li><li><a href="/pages/display/983-districts" title="Districts">Districts</a></li><li><a href="/pages/display/984-institutions-boards" title="Institutions &amp; Boards">Institutions &amp; Boards</a></li><li class="last"><a href="/pages/show/1061-district-courts" title="District Courts" class="sf-with-ul">District Courts<span class="sf-sub-indicator"> »</span></a><ul style="display: none; visibility: hidden;"><li><a href="http://dcalm.uk.gov.in" title="Almora (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Almora&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://dcnai.uk.gov.in" title="Nainital (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Nainital&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://dcbag.uk.gov.in" title="Bageshwar (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Bageshwar&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://dcpit.uk.gov.in" title="Pithoragarh (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Pithoragarh&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://dcusn.uk.gov.in" title="Udham Singh Nagar (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Udham Singh Nagar&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://ua.nic.in/dcchp.uk.gov.in" title="Champawat (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Champawat&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://dcdeh.uk.gov.in" title="Dehradun (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Dehradun&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://dchar.uk.gov.in" title="Haridwar (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Haridwar&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://dcteh.uk.gov.in" title="Tehri Garhwal (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Tehri Garhwal&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://dcpau.uk.gov.in" title="Pauri Garhwal (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Pauri Garhwal&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://dcutt.uk.gov.in" title="Uttarkashi (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Uttarkashi&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://dccha.uk.gov.in" title="Chamoli (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Chamoli&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://dcrud.uk.gov.in" title="Rudraprayag (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Rudraprayag&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li></ul></li>   
+			</ul>
+						<br class="spacer">		
+		</div>
+		<!-- /top nav -->
+		
+		
+
+
+											
+		<!-- Left panel -->
+		<div id="leftColumn" class="edge column">	
+		
+			<p class="dateTime">
+			<span id="time_id">06:18:42 AM</span><br>
+			<span id="date_id">14 May 2011 (Sat)</span>
+			</p>
+			<p class="portal"><a href="http://india.gov.in/" onclick="openChild(this.href,'win'); return false;" title="National Portal of India (External link that opens in a new window)"><img src="/templetes/templete1/images/india-portal.jpg" alt="National Portal of India"></a></p>
+			
+						<!-- spotlight-->
+			<div class="spotlight3 adModule"><h3>Spotlight</h3>
+			<p>For time being, some of the sites/links under "Online Citizen Services"  Module can be accessed from any of the nearest NIC Centres / Offices.</p>			<p class="more"><a href="/spotlight" title="more ">more »</a></p>
+		
+			</div>
+
+			<!-- /spotlight-->		
+						
+			<!-- block for left menu -->		
+			<h3 class="heading1">Departments</h3><ul class="menu_1"><li><a href="http://ekosh.uk.gov.in" title="Treasuries CTS/e-kosh (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Treasuries CTS/e-kosh&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li class="striped"><a href="http://comtax.uk.gov.in" title="Commercial Tax (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Commercial Tax&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://itda.uk.gov.in" title="IT Development Agency (ITDA) (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">IT Development Agency (ITDA)&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li class="striped"><a href="http://des.uk.gov.in" title="Economics &amp; Statistics Directorate (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Economics &amp; Statistics Directorate&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://rojgar.uk.gov.in" title="Rojgar (Employment and Training Department) (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Rojgar (Employment and Training Department)&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li></ul><p class="read_1 read"><a href="/details/view/104-departments" title="read more">more »</a></p><h3 class="heading2">Imp. Organisations</h3><ul class="menu_2"><li><a href="http://ukpsc.gov.in" title="Public Service Commission (UKPSC) (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Public Service Commission (UKPSC)&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li class="striped"><a href="http://sec.uk.gov.in/" title="State Election Commission (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">State Election Commission&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="/pages/display/998-rajdhani-chayan-ayog" title="Rajdhani Chayan Ayog">Rajdhani Chayan Ayog</a></li><li class="striped"><a href="http://ceo.uk.gov.in" title="Chief Electoral Officer (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Chief Electoral Officer&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="/pages/display/1075-forest-land-transfer-cases" title="Forest Land Transfer Cases">Forest Land Transfer Cases</a></li></ul><p class="read_2 read"><a href="/details/view/106-imp.-organisations" title="read more">more »</a></p><h3 class="heading3">Universites / Institutes</h3><ul class="menu_3"><li><a href="http://doonuniversity.ac.in/" title="Doon University (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Doon University&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li class="striped"><a href="http://www.kuntl.in/" title="Kumaon University, Nainital (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Kumaon University, Nainital&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://uktech.ac.in/" title="Uttarakhand Technical University, Dehradun (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Uttarakhand Technical University, Dehradun&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li class="striped"><a href="http://uou.ac.in/" title="Uttarakhand Open University, Haldwani (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Uttarakhand Open University, Haldwani&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://www.gbpuat.ac.in/" title="G.B.Pant University of Agriculture &amp; Technology , Pant Nagar (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">G.B.Pant University of Agriculture &amp; Technology , Pant Nagar&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li></ul><p class="read_3 read"><a href="/details/view/107-universites---institutes" title="read more">more »</a></p>			<!-- end block for left menu -->
+			
+			
+			
+			<ul class="spLinks">
+				<li class="news"><a href="/news" title="News">News</a></li>
+				<li class="annc striped"><a href="/announcements" title="Announcements">Announcements</a></li>
+				<li class="res"><a href="/recruitment" title="Results / Recruitments">Results / Recruitments</a></li>
+			
+					<li class="tenders striped"><a href="/contents/listing/1" title="Latest Tenders (Opens in a new window)">Latest Tenders</a></li>
+				<li class="govtGaz"><a href="http://gazettes.uk.gov.in" onclick="openChild(this.href,'win',0); return false;" title="Government Gazettes (Opens in a new window)">Government Gazettes</a></li>
+				<li class="govtOrd striped"><a href="http://go.uk.gov.in" onclick="openChild(this.href,'win',0); return false;" title="Government Orders (Opens in a new window)">Government Orders</a></li>
+			</ul>
+			
+			
+			
+
+	  </div>
+		<!-- /Left panel -->
+		
+		<!-- right panel -->
+		<div id="rightColumn" class="edge1 column">
+    		<div class="cmOver">            	
+                
+                <div class="right">
+				
+				<a href="http://cm.uk.gov.in" onclick="openChild(this.href,'win',0); return false;" title="Uttarakhand CM (Opens in a new window)">
+           	    	<img src="/files/cm-uttarakhand.jpg" alt="Uttarakhand CM">
+				</a>
+                    <p>
+					<a href="http://cm.uk.gov.in" onclick="openChild(this.href,'win',0); return false;" title="Uttarakhand CM (Opens in a new window)">Chief Minister<br>Dr. Ramesh Pokhriyal 'Nishank'					</a>
+					</p>
+                </div>
+				<div class="left">
+           	    	<a href="http://www.governoruk.gov.in/" onclick="openChild(this.href,'win',0); return false;" title="Governor (Opens in a new window)">
+					<img src="/files/govornor-uttarakhand.jpg" alt="Uttarakhand Governer">
+					</a>
+                    <p><a href="http://www.governoruk.gov.in/" onclick="openChild(this.href,'win',0); return false;" title="Governor (Opens in a new window)">Governor<br>Smt. Margaret Alva					</a></p>
+                </div>
+       	  	</div>		
+			
+							
+			
+			
+			<!-- block for right menu -->
+				<h3 class="heading1">Online Citizen Services (Some are accessible with in NICNET)</h3><ul class="menu_1"><li><a href="http://devbhoomi.uk.gov.in" title="Devbhoomi / Land Records / ROR (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Devbhoomi / Land Records / ROR&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li class="striped"><a href="http://gov.ua.nic.in/sewadun/searchapp.aspx" title="Janadhar e-sewa : App. Status (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Janadhar e-sewa : App. Status&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://gov.ua.nic.in/vc/" title="Videoconferences in Uttarakhand (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Videoconferences in Uttarakhand&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li class="striped"><a href="https://comtaxappl.uk.gov.in/findtinno.aspx" title="Commercial Tax Registered Dealers Status (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Commercial Tax Registered Dealers Status&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://gov.ua.nic.in/nictraining/home.aspx" title="Trainings in NIC Uttarakhand (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Trainings in NIC Uttarakhand&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li></ul><p class="read_1 read"><a href="/details/view/102-online-citizen-services-(some-are-accessible-with-in-nicnet)" title="read more">more »</a></p><h3 class="heading2">Govt. Employee Corner </h3><ul class="menu_2"><li><a href="http://go.uk.gov.in" title="Government Orders (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Government Orders&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li class="striped"><a href="http://gazettes.uk.gov.in" title="Government Gazettes (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Government Gazettes&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="https://164.100.150.33/" title="Salary Details (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Salary Details&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li></ul><p class="read_2 read"><a href="/details/view/109-govt.-employee-corner-" title="read more">more »</a></p><h3 class="heading3">Download Forms</h3><ul class="menu_3"><li><a href="/upload/downloads/Download-1.pdf" title="PDF file that opens in a new window" onclick="openChild(this.href,'win','0'); return false;">Webhosting Services of NIC&nbsp;<img src="/images/pdf_icon.gif" alt="PDF File">&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li class="striped"><a href="/upload/downloads/Download-2.doc" title="Doc file that opens in a new window" onclick="openChild(this.href,'win','0'); return false;">Website Hosting Registration Form &nbsp;<img src="/images/word-link.gif" alt="Doc File">&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="/upload/downloads/Download-3.pdf" title="PDF file that opens in a new window" onclick="openChild(this.href,'win','0'); return false;">Website Audit Form &nbsp;<img src="/images/pdf_icon.gif" alt="PDF File">&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li class="striped"><a href="/upload/downloads/Download-4.pdf" title="PDF file that opens in a new window" onclick="openChild(this.href,'win','0'); return false;">VPN Account Request Form &nbsp;<img src="/images/pdf_icon.gif" alt="PDF File">&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="/upload/downloads/Download-5.pdf" title="PDF file that opens in a new window" onclick="openChild(this.href,'win','0'); return false;">Remote Publishing Request Form &nbsp;<img src="/images/pdf_icon.gif" alt="PDF File">&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li></ul><p class="read_3 read"><a href="/details/view/108-download-forms" title="read more">more »</a></p><h3 class="heading1">External Links</h3><ul class="menu_1"><li><a href="http://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW02&amp;refcode=Guideline CISG-2004-04" title="Web Server Security Guidelines (External link that opens in a new window)" onclick="openChild(this.href,'win','1'); return false;">Web Server Security Guidelines&nbsp;<img src="/images/external-link.gif" alt="External link that opens in a new window"></a></li><li class="striped"><a href="http://www.cert-in.org.in/s2cMainServlet?pageid=GUIDLNVIEW02&amp;refcode=Guideline CISG-2008-01" title="Guidelines for Auditing and Logging (External link that opens in a new window)" onclick="openChild(this.href,'win','1'); return false;">Guidelines for Auditing and Logging&nbsp;<img src="/images/external-link.gif" alt="External link that opens in a new window"></a></li><li><a href="http://uic.gov.in/" title="Uttarakhand Information Commission (External link that opens in a new window)" onclick="openChild(this.href,'win','1'); return false;">Uttarakhand Information Commission&nbsp;<img src="/images/external-link.gif" alt="External link that opens in a new window"></a></li><li class="striped"><a href="http://uic.gov.in/frmDisplayProActive.aspx" title="Pro-active Disclosures under RTI (Department wise) (External link that opens in a new window)" onclick="openChild(this.href,'win','1'); return false;">Pro-active Disclosures under RTI (Department wise)&nbsp;<img src="/images/external-link.gif" alt="External link that opens in a new window"></a></li><li><a href="http://cell.upppc.org/" title="Uttarakhand Public Private Partnership Cell (External link that opens in a new window)" onclick="openChild(this.href,'win','1'); return false;">Uttarakhand Public Private Partnership Cell&nbsp;<img src="/images/external-link.gif" alt="External link that opens in a new window"></a></li><li class="striped"><a href="http://www.ucost.in/" title="Uttarakhand State Council for Sci. and Tech. (External link that opens in a new window)" onclick="openChild(this.href,'win','1'); return false;">Uttarakhand State Council for Sci. and Tech.&nbsp;<img src="/images/external-link.gif" alt="External link that opens in a new window"></a></li><li><a href="http://www.mddaonline.com/" title="Mussoorie DDN Development Authority (External link that opens in a new window)" onclick="openChild(this.href,'win','1'); return false;">Mussoorie DDN Development Authority&nbsp;<img src="/images/external-link.gif" alt="External link that opens in a new window"></a></li><li class="striped"><a href="http://www.uttarakhandjalvidyut.com/" title="Jal Vidyut Nigam (External link that opens in a new window)" onclick="openChild(this.href,'win','1'); return false;">Jal Vidyut Nigam&nbsp;<img src="/images/external-link.gif" alt="External link that opens in a new window"></a></li><li><a href="http://rti.gov.in" title="RTI (National website) (External link that opens in a new window)" onclick="openChild(this.href,'win','1'); return false;">RTI (National website)&nbsp;<img src="/images/external-link.gif" alt="External link that opens in a new window"></a></li><li class="striped"><a href="http://www.uttarakhandpower.org/" title="Uttarakhand Power Corporation Ltd. (External link that opens in a new window)" onclick="openChild(this.href,'win','1'); return false;">Uttarakhand Power Corporation Ltd.&nbsp;<img src="/images/external-link.gif" alt="External link that opens in a new window"></a></li></ul><p class="read_1 read"><a href="/details/view/103-external-links" title="read more">more »</a></p>				<!-- end block for right menu -->
+				
+			
+		
+			<p class="hitCounter"><strong>You are Visitor No:</strong>
+			<span>0000638560</span>
+			Since : 01-01-2011			</p>		
+								   		   										
+		</div>
+		<!-- /right panel -->
+		
+		<!-- mid content -->
+		 <div id="midColumn" class="column">	
+		 	
+				
+			<div class="marqueeWrapp">		
+		 	<ul id="marquee1" class="marquee">
+				<li class="marquee-showing" style="top: -3.08207px; left: 0px;">The new website of Land Records website "Devbhoomi" is available at http://devbhoomi.uk.gov.in and it can be accessed from anywhere.</li><li>New re-vamped website of USIDCL - Uttarakhand State Industrial Development Corporation (http://usidcl.gov.in) released with effect from 18/04/2011.</li>			</ul> 
+			<span class="marquee_pause"><a onclick="pause()" href="javascript:void(0);" id="marquee_stop"><img src="/templetes/templete1/images/stop.gif" alt="Stop" class="controls"></a><a onclick="play()" href="javascript:void(0);" style="display: none;" id="marquee_resume"><img src="/templetes/templete1/images/play.gif" alt="Play" class="controls"></a></span> 
+			</div>
+				           
+			
+			<div class="breadCrumb"><ul><li><a title="Home" href="/">Home</a> </li><li> Privacy Policy</li></ul></div>
+<h2>Privacy Policy</h2>
+
+		
+			<p class="print"><a href="javascript:window.print()" title="Print">Print</a></p>
+
+
+<p>As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.</p>
+<p>&nbsp;</p>
+<h3>Site Visit data:</h3>
+<p>This website records your visit and logs the following information for statistical purposes your server's address; the name of the top-level domain from which you access the Internet (for example, .gov, .com, .in, etc.); the type of browser you use; the date and time you access the site; the pages you have accessed and the documents downloaded and the previous Internet address from which you linked directly to the site.</p>
+<p>We will not identify users or their browsing activities, except when a law enforcement agency may exercise a warrant to inspect the service provider's logs.</p>
+<p>&nbsp;</p>
+<h3>Cookies:</h3>
+<p>A cookie is a piece of software code that an internet web site sends to your browser when you access information at that site. This site does not use cookies.</p>
+<p>&nbsp;</p>
+<h3>Email management:</h3>
+<p>Your email address will only be recorded if you choose to send a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Your email address will not be used for any other purpose, and will not be disclosed, without your consent.</p>
+<p>&nbsp;</p>
+<h3>Collection of Personal Information:</h3>
+<p>If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the Web Information Manager through the contact us page.</p>
+<p>&nbsp;</p>
+<p><strong>Note:</strong> The use of the term "Personal Information" in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.</p>																	
+		 </div>
+		<!-- /mid content -->
+							
+	</div>
+	<!-- /Outer Wrapper -->
+    
+   
+</div>
+ <!-- footer -->
+    <div class="siteReview">
+         Source : Uttarakhand Government Portal, Last Updated on 12-05-2011    </div>	
+    <div id="footer">
+        
+        <ul>
+ <li><a href="/" title="Home">Home</a></li><li><a href="http://training.nic.in" title="Trainings in NIC (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">Trainings in NIC&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://home.nic.in" title="NIC (Govt. of India) (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">NIC (Govt. of India)&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="http://mit.gov.in" title="MIT (Govt. of India) (Opens in a new window)" onclick="openChild(this.href,'win','0'); return false;">MIT (Govt. of India)&nbsp;<img src="/images/newindow_icon.gif" alt="Opens in a new window"></a></li><li><a href="/contactus" title="Contact us">Contact us</a></li><li><a href="/sitemap" title="Sitemap">Sitemap</a></li></ul><ul class="genFootList"><li><a href="/pages/display/150-help" title="Help">Help</a></li><li><a href="/pages/display/1021-downloads-and-plug-ins" title="Downloads and Plug-ins">Downloads and Plug-ins</a></li><li><a href="/pages/display/152-accessibility-statement" title="Accessibility Statement">Accessibility Statement</a></li><li><a href="/accessibilityoptions" title="Accessibility Options">Accessibility Options</a></li><li><a href="/pages/display/147-privacy-policy" title="Privacy Policy">Privacy Policy</a></li><li><a href="/pages/display/981-hyperlinking-policy" title="Hyperlinking Policy">Hyperlinking Policy</a></li><li><a href="/pages/display/982-copyright-policy" title="Copyright Policy">Copyright Policy</a></li><li><a href="/pages/display/149-terms-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li><li><a href="/pages/display/148-disclaimer" title="Disclaimer">Disclaimer</a></li></ul>            
+        <p class="siteDesigned">Site&nbsp;designed, developed&nbsp;and hosted by <a title="NIC, uttarakhand (External Website that opens in a new window)" onclick="openChild(this.href,'win'); return false;" href="http://uk.gov.in/"><img src="http://uk.gov.in/images/nic-logo.gif" alt="NIC, uttarakhand (External Website that opens in a new window)"></a></p>        <p>Contents published on various websites/links available on this Portal are being&nbsp;managed and maintained&nbsp;by concerned&nbsp;Departments/Institutions/Organisations of Uttarakhand.&nbsp;For any content related query on this Portal, please contact concerned departments.&nbsp;For&nbsp;other queries please contact Web Information Manager, NIC-Uttarakhand State Unit, Dehradun.</p>
+<p>&nbsp;©&nbsp;Govt of Uttarakhand, All Rights Reserved.</p> <p>
+			<a href="http://validator.w3.org/check?uri=referer" onclick="window.open(this.href); return false;"><img src="http://uk.gov.in/images/html-valid.jpg" alt="Valid XHTML 1.0 Strict"></a> <a href="http://jigsaw.w3.org/css-validator/check/referer" onclick="window.open(this.href); return false;"><img src="http://uk.gov.in/images/css-valid.jpg" alt="Valid CSS!"></a>
+      </p>
+           
+    </div>
+    <!-- /footer -->
+</div>
+
+<!-- outer wrapper -->
+<!--For font size chooser -->
+<!--For news scroller -->
+<script type="text/javascript" src="/templetes/templete1/js/news-scroller.js"></script>
+<script type="text/javascript" src="/templetes/templete1/js/swithcer.js"></script>
+<script type="text/javascript" src="/templetes/templete1/js/hoverIntent.js"></script>
+<script type="text/javascript" src="/templetes/templete1/js/superfish.js"></script>
+<script type="text/javascript" src="/templetes/templete1/js/image-rotate.js"></script>
+<script type="text/javascript" src="/templetes/templete1/js/marquee.js"></script>
+
+<script type="text/javascript" src="/templetes/templete1/js/animatedcollapse.js"></script>
+
+
+<script type="text/javascript">
+	$(document).ready(function (){
+		$("#marquee1").marquee();
+	});
+	function pause()
+	{
+		$('#marquee1').marquee('pause');
+		$('#marquee_stop').hide();
+		$('#marquee_resume').show();
+		$('#marquee1 li').addClass('stoped');
+		document.getElementById("marquee1").style.overflow="scroll";
+		document.getElementById("marquee1").style.padding='0 0 12px 0';
+	}
+	function play()
+	{
+		$('#marquee1').marquee('resume');
+		$('#marquee_resume').hide();
+		$('#marquee_stop').show();
+		$('#marquee1 li').removeClass('stoped');
+		document.getElementById("marquee1").style.overflow="hidden";
+		document.getElementById("marquee1").style.padding='0 0';
+	}
+	
+	$(function() {
+		$("ul.allul li:nth-child(even)").addClass("striped");
+		$("#leftColumn li:nth-child(even)").addClass("striped");
+		$("#rightColumn li:nth-child(even)").addClass("striped");
+	});
+</script>
+
+
+
+</body></html>
