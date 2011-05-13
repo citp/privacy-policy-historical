@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savingwithshellie.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109213733id_/http%3A//www.savingwithshellie.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingwithshellie.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513232822id_/http%3A//www.savingwithshellie.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Saving with Shellie™
+# Privacy Policy
 
 **Saving with Shellie respects your privacy.**
 
@@ -17,6 +17,10 @@ Saving with Shellie is not responsible for the content of external internet site
 **Cookies**
 
 A “cookie” is a small data text file that is placed in your browser and allows Saving with Shellie to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and Saving with Shellie does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
+
+**Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. This helps keep Saving with Shellie a free resource. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Remember The Risks Whenever You Use The Internet**
 
