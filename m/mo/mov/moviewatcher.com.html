@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the moviewatcher.com privacy policy that was archived on 2010-09-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100920182337id_/http%3A//www.amcentertainment.com/Privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moviewatcher.com privacy policy that was archived on 2011-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110513055947id_/http%3A//www.amctheatres.com/Privacypolicy/%3FWT.mc_id%3Dnh_about) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><title>
 	AMC Entertainment | Privacy Policy
@@ -8,36 +8,63 @@
 <script id="EktronAutoheightJS" type="text/javascript" src="/WorkArea/java/plugins/autoheight/ektron.autoheight.js"></script>
 <script id="EktronModalJS" type="text/javascript" src="/WorkArea/java/plugins/modal/ektron.modal.js"></script>
 <script id="EktronContentDesignerJS" type="text/javascript" src="/WorkArea/ContentDesigner/ektron.contentDesigner.js"></script>
-<script id="EktronFlexMenuJS" type="text/javascript" src="/WorkArea/java/ek_flexmenu.js"></script>
 
 <meta name="Keywords" content="amc entertainment; movies; movie trailers; gift cards; movie times">
 <meta name="Description" content="Welcome to AMCEntertainment.com where you can locate a movie theater, get movie times, view movie trailers, read movie reviews, buy tickets online and get AMC gift cards.">
-<link href="/css/styles.css" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/favicon.ico">
+<link href="/css/styles.css" rel="stylesheet" type="text/css">
+    <!--[if IE 7]><link rel="stylesheet" type="text/css" href="../css/styles_ie7.css" /><![endif]-->
+    <link rel="shortcut icon" href="/favicon.ico">
     <script type="text/javascript" src="/js/jquery-min.js"></script>
     <script type="text/javascript" src="/js/jquery.autocomplete.js"></script>
     <script type="text/javascript" src="/js/jquery.alphanumeric.pack.js"></script>
     <script type="text/javascript" src="/js/global.js"></script>
     <script type="text/javascript" src="/js/webtrends.js"></script>
-    <script type="text/javascript" src="/js/popupPanel.js"></script>
-    
-
-    
+     <style type="text/css">
+      #popupcontent{
+        position: absolute;
+        visibility: hidden;
+       overflow: hidden;
+      border:1px solid #CCC;
+       background-color:#F9F9F9;
+       border:1px solid #333;
+      padding:5px;}
+</style>
+<script type="text/javascript">
+    var baseText = null;
+    function showPopup(w, h) {
+        var popUp = document.getElementById("popupcontent");
+        popUp.style.top = "200px";
+        popUp.style.left = "200px";
+        popUp.style.width = w + "px";
+        popUp.style.height = h + "px";
+        if (baseText == null) baseText = popUp.innerHTML;
+        popUp.innerHTML = baseText +
+      "<div id=\"statusbar\"><button onclick=\"hidePopup();\">Close window<button></div>";
+        var sbar = document.getElementById("statusbar");
+        sbar.style.marginTop = (parseInt(h) - 40) + "px";
+        popUp.style.visibility = "visible";
+    }
+    function hidePopup() {
+        var popUp = document.getElementById("popupcontent");
+        popUp.style.visibility = "hidden";
+    }
+</script>
     
 <link id="EktronEditorsMenuCss" href="/WorkArea/csslib/EktronEditorsMenu.css" type="text/css" rel="stylesheet">
 
 <link id="EktronModalCss" href="/WorkArea/java/plugins/modal/ektron.modal.css" type="text/css" rel="stylesheet">
 <meta name="version" content="1.3.2.18118"></head>
 <body id="ctl00_ctl00_body">
-    <form name="aspnetForm" method="post" action="/Privacypolicy/" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="/Privacypolicy/?WT.mc_id=nh_about" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk2NDk0NTMzNg9kFgJmD2QWAmYPZBYCAgMPFgQeBXN0eWxlZB4Gb25sb2FkZBYCZhBkZBYQAgEPZBYCZg8PFgQeCENzc0NsYXNzBSFtb3ZpZURldGFpbHNQb3B1cCBwb3BVcEFycm93UGFuZWweBF8hU0ICAhYCHwAFanBhZGRpbmc6MHB4OyBtYXJnaW46MHB4OyB2aXNpYmlsaXR5OmhpZGRlbjsgcG9zaXRpb246YWJzb2x1dGU7IGxlZnQ6MHB4OyB0b3A6MHB4OyB6LWluZGV4OjIwOyB3aWR0aDozNjBweDtkAgMPFgIeB1Zpc2libGVoZAIED2QWAgIBDw8WAh4LTmF2aWdhdGVVcmwFKS9Mb2dpbi5hc3B4P1JldHVyblVybD0lMmZQcml2YWN5cG9saWN5JTJmZGQCBw9kFgJmD2QWBgIBDxAPFgIeCFRhYkluZGV4AQUAZGRkZAIFDw8WAh8GAQYAFgQeB29uZm9jdXMFcnNldFNlYXJjaFBhcmFtZXRlcnNfY3RsMDBfY3RsMDBfaGVhZGVyU2VhcmNoKCk7IGNsZWFySW5zdHJ1Y3Rpb25UZXh0KCdjdGwwMF9jdGwwMF9oZWFkZXJTZWFyY2hfc2VhcmNoVGV4dCcsIHRydWUpOx4Kb25rZXlwcmVzcwVFcmV0dXJuIGVudGVyQ2xpY2tIYW5kbGVyKGV2ZW50LCAnY3RsMDBfY3RsMDBfaGVhZGVyU2VhcmNoX2dvQnV0dG9uJyk7ZAIHDxYEHgh0YWJpbmRleAUBNx4Hb25jbGljawVLc2V0U2VhcmNoUGFyYW1ldGVyc19jdGwwMF9jdGwwMF9oZWFkZXJTZWFyY2goKTsgc2l0ZVNlYXJjaCgpOyByZXR1cm4gZmFsc2U7ZAIID2QWAmYPZBYEAgEPEGQPFloCAQICAgMCBAIFAgYCBwIIAgkCCgILAgwCDQIOAg8CEAIRAhICEwIUAhUCFgIXAhgCGQIaAhsCHAIdAh4CHwIgAiECIgIjAiQCJQImAicCKAIpAioCKwIsAi0CLgIvAjACMQIyAjMCNAI1AjYCNwI4AjkCOgI7AjwCPQI+Aj8CQAJBAkICQwJEAkUCRgJHAkgCSQJKAksCTAJNAk4CTwJQAlECUgJTAlQCVQJWAlcCWAJZAloWWhAFCUFsbGVudG93bgUJQWxsZW50b3duZxAFB0F0bGFudGEFB0F0bGFudGFnEAUGQXVzdGluBQZBdXN0aW5nEAUJQmFsdGltb3JlBQlCYWx0aW1vcmVnEAUKQmluZ2hhbXRvbgUKQmluZ2hhbXRvbmcQBQ5CbG9vbWluZ3RvbiBJTgUOQmxvb21pbmd0b24gSU5nEAUUQm9zdG9uICYgTUEgdmljaW5pdHkFFEJvc3RvbiAmIE1BIHZpY2luaXR5ZxAFDEJyZW1lcnRvbiBXQQUMQnJlbWVydG9uIFdBZxAFB0J1ZmZhbG8FB0J1ZmZhbG9nEAUNQ2FyYm9uZGFsZSBJTAUNQ2FyYm9uZGFsZSBJTGcQBQlDaGFtcGFpZ24FCUNoYW1wYWlnbmcQBQlDaGFybG90dGUFCUNoYXJsb3R0ZWcQBQdDaGljYWdvBQdDaGljYWdvZxAFCkNpbmNpbm5hdGkFCkNpbmNpbm5hdGlnEAUJQ2xldmVsYW5kBQlDbGV2ZWxhbmRnEAUMQ29sdW1iaWEsIFNDBQxDb2x1bWJpYSwgU0NnEAUIQ29sdW1idXMFCENvbHVtYnVzZxAFC0Nvbm5lY3RpY3V0BQtDb25uZWN0aWN1dGcQBQpDdW1iZXJsYW5kBQpDdW1iZXJsYW5kZxAFEERhbGxhcy9GdC4gV29ydGgFEERhbGxhcy9GdC4gV29ydGhnEAUGRGVudmVyBQZEZW52ZXJnEAUHRGV0cm9pdAUHRGV0cm9pdGcQBQpEdWJ1cXVlIElBBQpEdWJ1cXVlIElBZxAFDkVhc3QgU3QuIExvdWlzBQ5FYXN0IFN0LiBMb3Vpc2cQBQpFdmFuc3ZpbGxlBQpFdmFuc3ZpbGxlZxAFD0ZheWV0dGV2aWxsZSBBUgUPRmF5ZXR0ZXZpbGxlIEFSZxAFDEZvcnQgQ29sbGlucwUMRm9ydCBDb2xsaW5zZxAFCUZ0LiBNeWVycwUJRnQuIE15ZXJzZxAFDEdhbGVzYnVyZyBJTAUMR2FsZXNidXJnIElMZxAFBEdhcnkFBEdhcnlnEAUMR3JhbmQgUmFwaWRzBQxHcmFuZCBSYXBpZHNnEAUKSGFycmlzYnVyZwUKSGFycmlzYnVyZ2cQBQVIb3VtYQUFSG91bWFnEAUHSG91c3RvbgUHSG91c3RvbmcQBQxJbmRpYW5hcG9saXMFDEluZGlhbmFwb2xpc2cQBQxKYWNrc29udmlsbGUFDEphY2tzb252aWxsZWcQBQtLYW5zYXMgQ2l0eQULS2Fuc2FzIENpdHlnEAUJS2VubmV0IE1PBQlLZW5uZXQgTU9nEAUJS29rb21vIElOBQlLb2tvbW8gSU5nEAUQTGFrZSBEZWx0b24gLSBXSQUQTGFrZSBEZWx0b24gLSBXSWcQBQdMYW5zaW5nBQdMYW5zaW5nZxAFCUxhcyBWZWdhcwUJTGFzIFZlZ2FzZxAFC0xvcyBBbmdlbGVzBQtMb3MgQW5nZWxlc2cQBQpNYWRpc29uIFdJBQpNYWRpc29uIFdJZxAFCk1hbnRlY2EgQ0EFCk1hbnRlY2EgQ0FnEAUUTWlhbWkvRnQuIExhdWRlcmRhbGUFFE1pYW1pL0Z0LiBMYXVkZXJkYWxlZxAFDU1pZGRsZXRvd24gTlkFDU1pZGRsZXRvd24gTllnEAUITWlkbGFuZHMFCE1pZGxhbmRzZxAFDE1pbHdhdWtlZS9XSQUMTWlsd2F1a2VlL1dJZxAFE01pbm5lYXBvbGlzL1N0LlBhdWwFE01pbm5lYXBvbGlzL1N0LlBhdWxnEAULTW9udHJlYWwgUUMFC01vbnRyZWFsIFFDZxAFCU11bmNpZSBJTgUJTXVuY2llIElOZxAFCk5ldyBKZXJzZXkFCk5ldyBKZXJzZXlnEAULTmV3IE9ybGVhbnMFC05ldyBPcmxlYW5zZxAFCE5ldyBZb3JrBQhOZXcgWW9ya2cQBRJOb3Jmb2xrICYgdmljaW5pdHkFEk5vcmZvbGsgJiB2aWNpbml0eWcQBQVOb3J0aAUFTm9ydGhnEAUFT2dkZW4FBU9nZGVuZxAFDU9rbGFob21hIENpdHkFDU9rbGFob21hIENpdHlnEAUFT21haGEFBU9tYWhhZxAFEU9yYW5nZSBDb3VudHksIENBBRFPcmFuZ2UgQ291bnR5LCBDQWcQBQ9PcmxhbmRvL0RheXRvbmEFD09ybGFuZG8vRGF5dG9uYWcQBQlPdHRhd2EgT04FCU90dGF3YSBPTmcQBQZQZW9yaWEFBlBlb3JpYWcQBRlQaGlsYWRlbHBoaWEgYW5kIFN1cnJvdW5kBRlQaGlsYWRlbHBoaWEgYW5kIFN1cnJvdW5kZxAFB1Bob2VuaXgFB1Bob2VuaXhnEAUKUGl0dHNidXJnaAUKUGl0dHNidXJnaGcQBQ9Qb3BsYXIgQmx1ZmYgTU8FD1BvcGxhciBCbHVmZiBNT2cQBQlRdWluY3kgSUwFCVF1aW5jeSBJTGcQBQlSaXZlcnNpZGUFCVJpdmVyc2lkZWcQBQlSb2NoZXN0ZXIFCVJvY2hlc3RlcmcQBQhSb2NrZm9yZAUIUm9ja2ZvcmRnEAULU2FuIEFudG9uaW8FC1NhbiBBbnRvbmlvZxAFFVNhbiBCZXJuYXJkaW5vIENvdW50eQUVU2FuIEJlcm5hcmRpbm8gQ291bnR5ZxAFCVNhbiBEaWVnbwUJU2FuIERpZWdvZxAFGFNhbiBGcmFuY2lzY28gLyBCYXkgQXJlYQUYU2FuIEZyYW5jaXNjbyAvIEJheSBBcmVhZxAFB1NlYXR0bGUFB1NlYXR0bGVnEAUKU291dGggQmVuZAUKU291dGggQmVuZGcQBQdTcG9rYW5lBQdTcG9rYW5lZxAFDlNwcmluZ2ZpZWxkIElMBQ5TcHJpbmdmaWVsZCBJTGcQBQlTdC4gTG91aXMFCVN0LiBMb3Vpc2cQBQ5TdHJvdWRzYnVyZyBQQQUOU3Ryb3Vkc2J1cmcgUEFnEAULVGFsbGFoYXNzZWUFC1RhbGxhaGFzc2VlZxAFDVRhbXBhL1N0LlBldGUFDVRhbXBhL1N0LlBldGVnEAUOVGVycmUgSGF1dGUgSU4FDlRlcnJlIEhhdXRlIElOZxAFClRvcm9udG8gT04FClRvcm9udG8gT05nEAUGVHVjc29uBQZUdWNzb25nEAUFVHVsc2EFBVR1bHNhZxAFClZlcm8gQmVhY2gFClZlcm8gQmVhY2hnEAUNV2FzaGluZ3RvbiBEQwUNV2FzaGluZ3RvbiBEQ2cWAWZkAgMPEGRkFgFmZAIJDw8WCB4EVGV4dAULUG9zdGFsIENvZGUeCklnbm9yZUNhc2VnHhNDaGFyYWN0ZXJFeHByZXNzaW9uBWVeW0EtWl1cZD8kfF5bQS1aXVxkW0EtWl0gezAsMX0/JHxeW0EtWl1cZFtBLVpdIHswLDF9XGRbQS1aXT8kfF5bQS1aXVxkW0EtWl0gezAsMX1cZFtBLVpdXGQkfF5cZHsxLDV9JB4UT25Db21wbGV0ZUV4cHJlc3Npb24FJV5bQS1aXVxkW0EtWl0gezAsMX1cZFtBLVpdXGQkfF5cZHs1fSQWBB8HBT5zZXRaaXBTZWFyY2hQYXJhbWV0ZXJzKCk7IGNsZWFySW5zdHJ1Y3Rpb25UZXh0KHRoaXMuaWQsIGZhbHNlKR8IBTFlbnRlckNsaWNrSGFuZGxlcihldmVudCwgJ2N0bDAwX2N0bDAwX2dvQnV0dG9uJyk7ZAIKDxYCHwoFK3NldFppcFNlYXJjaFBhcmFtZXRlcnMoKTsgc2hvd3RpbWVTZWFyY2goKTtkAg8PFgIfBGhkZM204/Vd9z5ufbzeIkbSBGFUD26n">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTk2NDk0NTMzNg9kFgJmD2QWAmYPZBYCAgMPFgQeBXN0eWxlZB4Gb25sb2FkZBYCZhBkZBYIAgMPZBYCZg8PFgQeCENzc0NsYXNzBSFtb3ZpZURldGFpbHNQb3B1cCBwb3BVcEFycm93UGFuZWweBF8hU0ICAhYCHwAFanBhZGRpbmc6MHB4OyBtYXJnaW46MHB4OyB2aXNpYmlsaXR5OmhpZGRlbjsgcG9zaXRpb246YWJzb2x1dGU7IGxlZnQ6MHB4OyB0b3A6MHB4OyB6LWluZGV4OjIwOyB3aWR0aDozNjBweDtkAgcPZBYCZg9kFgYCAQ8WBB4IdGFiaW5kZXgFATceB29uY2xpY2sFS3NldFNlYXJjaFBhcmFtZXRlcnNfY3RsMDBfY3RsMDBfaGVhZGVyU2VhcmNoKCk7IHNpdGVTZWFyY2goKTsgcmV0dXJuIGZhbHNlO2QCAw8PFgIeCFRhYkluZGV4AQYAFgQeB29uZm9jdXMFcnNldFNlYXJjaFBhcmFtZXRlcnNfY3RsMDBfY3RsMDBfaGVhZGVyU2VhcmNoKCk7IGNsZWFySW5zdHJ1Y3Rpb25UZXh0KCdjdGwwMF9jdGwwMF9oZWFkZXJTZWFyY2hfc2VhcmNoVGV4dCcsIHRydWUpOx4Kb25rZXlwcmVzcwVFcmV0dXJuIGVudGVyQ2xpY2tIYW5kbGVyKGV2ZW50LCAnY3RsMDBfY3RsMDBfaGVhZGVyU2VhcmNoX2dvQnV0dG9uJyk7ZAIHDxAPFgIfBgEFAGRkZGQCCQ9kFgICAQ8PFgIeC05hdmlnYXRlVXJsBT8vTG9naW4uYXNweD9SZXR1cm5Vcmw9JTJmUHJpdmFjeXBvbGljeSUyZiUzZldULm1jX2lkJTNkbmhfYWJvdXRkZAIXDxYCHgdWaXNpYmxlaGRkldSOjSwUvJJE4w/XupQpADkJalw=">
 </div>
 
 
 <script src="/js/jquery.xslt.js" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
-function setZipSearchParameters() { zipCodeBoxId="ctl00_ctl00_zipCodeText"; goButtonId = "ctl00_ctl00_goButton"; radiusBoxId=""; dateDropdownId=""; attributeDropdownId = ""; destinationUrl = "/Movies/Movietimes/"; instructionalText="Postal Code"; autoPostBack=false;}zipCodeUrlKey="zip"; radiusUrlKey="rad"; dateUrlKey="date"; attributeUrlKey="sa"; function setSearchParameters_ctl00_ctl00_headerSearch() { searchTypeDropdownId='ctl00_ctl00_headerSearch_searchTypeDropDown'; searchQueryId='ctl00_ctl00_headerSearch_searchText'; searchGoButtonId='ctl00_ctl00_headerSearch_goButton'; searchQueryKey="q"; searchTypeKey="type"; instructionalText="Search AMC"; };//]]>
+zipCodeUrlKey="zip"; radiusUrlKey="rad"; dateUrlKey="date"; attributeUrlKey="sa"; function setSearchParameters_ctl00_ctl00_headerSearch() { searchTypeDropdownId='ctl00_ctl00_headerSearch_searchTypeDropDown'; searchQueryId='ctl00_ctl00_headerSearch_searchText'; searchGoButtonId='ctl00_ctl00_headerSearch_goButton'; searchQueryKey="q"; searchTypeKey="type"; instructionalText="Search AMC"; };//]]>
 </script>
 
 <script src="/js/supersleight.plugin.js" type="text/javascript"></script>
@@ -46,21 +73,16 @@ function setZipSearchParameters() { zipCodeBoxId="ctl00_ctl00_zipCodeText"; goBu
 //<![CDATA[
 popupPanelGlobalInit();
 new popupPanel('MoviePopup','ctl00_ctl00_movieDetailsPopupLoader_detailsPopup',0,0,'',500);
-function RegExTextBox_onkeypress(evt, ctrl, re) { var charCode = (evt.which) ? evt.which : window.event.keyCode; if (charCode <= 13) return true; if (ctrl.createTextRange) { var bookmark = document.selection.createRange().getBookmark(); var selection = ctrl.createTextRange(); selection.moveToBookmark(bookmark); var before = ctrl.createTextRange(); before.collapse(true); before.setEndPoint('EndToStart', selection); ctrl.selectionStart = before.text.length; ctrl.selectionEnd = ctrl.selectionStart + selection.text.length; } ; var newString = ctrl.value.substring(0, ctrl.selectionStart) + String.fromCharCode(charCode) + ctrl.value.substring(ctrl.selectionEnd, ctrl.value.length); return re.test(newString); }
-$("#ctl00_ctl00_zipCodeText").ready(function() {$("#ctl00_ctl00_zipCodeText").bind("keypress", function(e){ return RegExTextBox_onkeypress(e, this, /^[A-Z]\d?$|^[A-Z]\d[A-Z] {0,1}?$|^[A-Z]\d[A-Z] {0,1}\d[A-Z]?$|^[A-Z]\d[A-Z] {0,1}\d[A-Z]\d$|^\d{1,5}$/i); });});
-
-$("#ctl00_ctl00_zipCodeText").ready(function() {$("#ctl00_ctl00_zipCodeText").bind("change", function(e){ this.value=jQuery.trim(this.value); if (!(/^[A-Z]\d[A-Z] {0,1}\d[A-Z]\d$|^\d{5}$/i).test(this.value)) this.value='';; });});
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=R10kVVnVNxPfBrCRt7aQ0s0-BA2rUMX7eb22NHM-6Ut3QRxHEFkfPsDs13FQCv7Zh8RGVLXUYM8zKhZB9-06M_LLUdqtIzlB8Bww1S2va7g1&amp;t=ffffffffd1f39304" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=RJ1fi0-uFCz6MGlhG0FVo3wtKnsCMszywbyIALd6t_SFuX4WKcVD4SbXZTGO1WM_TYNC82AK8zwtNsqEoNbn7YL8s0iBUws-HxZKOMBfCmEUl4rvhmpqQ69aBfjkqToP6PfAp1OIW2aQlyGU_jNoipINA281&amp;t=3b986e35" type="text/javascript"></script>
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWaQLlnbWlCQK9nsH5BALVx8ObDwLKx8ObDwLLx8ObDwLIx8ObDwLJx8ObDwLn9eagBgLDycbXAgKbmeyCBwKMs7Q0Aqm34OwHAoKOzakNApvp64YKArKX5PIGAvzXkKgOAu7EifwPAtPLiVkCqd6CsgMC/Mr4zgIC+YGeiAcCleyJqA4C6fzoOAKy5q3QCAK+jOzmDwKazYSrDALA7ZuvDQLwoL2LDALEvsUNAr6S7cUNArKCvc0PApyVoXwCjt7TzgQC7dXY2QEC5bDW7QsCgpir2w0Cj7HcxwUChons6Q0C5uPMkwsC8qqwrgMCsK/hlgMCw+aruwYC5fPklAcC9MLAgwoCouWNpAcCrrnb7QEC5sfs9AsCzb+43ggCx+HnQAKHrrjADgLbiryvBwKjl9aUDgLog8p4ApGGqJ4IArz0ns0PAsfH3fsPAp7/juQNAonK68gPAtCk5LcNAprp+bkMAvH9vLgOAs+u2KIMApC38rgOAs7JjrsGArGYpZEFAtW7rc0HAru0j4gHAoSK5PEFAv+OouoGAsbOttwCAqTXlLwHAsDNg/sIAr2l384EApeQn9MCAquKgq4IAtrM2oUMAqOz/fwCAvSUw4QMAr7UtLAEAtL7/OYHApT6y+kDAs6H7LACAtXT3MkNArKJteQIAu3UhrYHAs3ZkeIJAuD0pZsGAsjHyfcLAumrvNAHAr+NyIUFAsLY7pkKAvu0jRsClbGw8QQCgZTCjgwCxL+nwwsC9LSpsAwC4bX+2AICpNWlxgkC5ojD4QkC+rjbogoCto/fkwgCt6+BjQoC/JK95gECz/63pAkCncPNigXdoa/jwfnCJua02ss26TpCQrd0lA==">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCwKf8uu9BQLDycbXAgLn9eagBgLVx8ObDwLKx8ObDwLLx8ObDwLIx8ObDwLJx8ObDwL8kr3mAQLP/rekCQKdw82KBTGyTsuOkatCF7hl0P11MC5HIvnA">
 </div>
         
         <script type="text/javascript">
-        
             var prm = Sys.WebForms.PageRequestManager.getInstance();
             prm.add_initializeRequest(InitializeRequestHandler);
             prm.add_endRequest(EndRequestHandler);
@@ -230,26 +252,18 @@ $("#ctl00_ctl00_zipCodeText").ready(function() {$("#ctl00_ctl00_zipCodeText").bi
                         <!-- Center Colunn Content -->
                          <div id="columnContent">
                             <div id="headerContent">
-                                <div id="homeLink"><a href="/" title="AMC Entertainment"><img src="/images/spacer.gif" height="55" width="129" border="0"></a></div>
-                                
-                                <ul id="greenNav" class="top">
-                                    
-                                        <li><a id="ctl00_ctl00_hyLogin" title="Log In" href="/Login.aspx?ReturnUrl=%2fPrivacypolicy%2f">Log In</a></li>
-                                        <li><a href="/Register.aspx" title="Register">Register</a></li>
-                                        <li><a href="/Contact_Us/FAQ/FAQ/" title="Help">Help</a></li>
-                                    
-                                    
-                                    <li><a href="/business/" title="Business Clients">Business Clients</a></li><li><a href="/amcinfo" title="AMC® Info">AMC® Info</a></li><li><a href="/AMCInfo/Accessibility/" title="Accessibility">Accessibility</a></li><input name="ctl00$ctl00$topMenu$topNav$ctl00$ctl00$topMenu$topNavEktronClientManager" type="hidden" id="ctl00_ctl00_topMenu_topNav_ctl00_ctl00_topMenu_topNavEktronClientManager" value="EktronJS,EktronWebToolBarJS,EktronAutoheightJS,EktronModalJS,EktronContentDesignerJS">
-                                     <li><a id="textLarge" href="javascript:increaseFontSize();" title="Increase Font Size">+A</a></li>
-                                     <li class="last"><a id="textSmall" href="javascript:decreaseFontSize();" class="button" title="Decrease Font Size">-a</a></li>			 
-                                 </ul>
-                                 
-                                 <div class="clear" style="clear:both;">&nbsp;</div>
-                                 
-                                 
-                                 <div id="ctl00_ctl00_headerSearch_searchPanel" class="headerSearchDiv">
-	
-    <select name="ctl00$ctl00$headerSearch$searchTypeDropDown" id="ctl00_ctl00_headerSearch_searchTypeDropDown" tabindex="5" class="searchOptions">
+                           
+                           <div class="tertiary_nav">
+                                <div class="amc_logo"><a href="/"><img src="/images/New/amc_logo.png" alt="AMC"></a></div>
+                                <div class="amc_logo_dark"><a href="/"><img src="/images/New/amc_logo_dark.png" alt="AMC"></a></div>                                                                             
+                                <div class="tertiary_nav_item4"><div id="ctl00_ctl00_headerSearch_searchPanel">
+	  
+    <div class="tertiary_nav_item3"><a href="javascript:void(0);" id="ctl00_ctl00_headerSearch_goButton" class="button2" style="margin-left:0px" tabindex="7" onclick="setSearchParameters_ctl00_ctl00_headerSearch(); siteSearch(); return false;"><span>GO</span></a></div> 
+    <div class="tertiary_nav_item3"><input name="ctl00$ctl00$headerSearch$searchText" type="text" value="Search AMC" maxlength="50" id="ctl00_ctl00_headerSearch_searchText" tabindex="6" class="tertiary_nav_item3" onfocus="setSearchParameters_ctl00_ctl00_headerSearch(); clearInstructionText('ctl00_ctl00_headerSearch_searchText', true);" onkeypress="return enterClickHandler(event, 'ctl00_ctl00_headerSearch_goButton');"></div>
+    <input type="hidden" name="ctl00$ctl00$headerSearch$searchTypeHidden" id="ctl00_ctl00_headerSearch_searchTypeHidden" value="1">
+
+    <div class="tertiary_nav_item3">
+    <select name="ctl00$ctl00$headerSearch$searchTypeDropDown" id="ctl00_ctl00_headerSearch_searchTypeDropDown" tabindex="5">
 		<option selected="selected" value="0">Movies</option>
 		<option value="1">AMC Content</option>
 		<option value="2">Groups</option>
@@ -257,131 +271,38 @@ $("#ctl00_ctl00_zipCodeText").ready(function() {$("#ctl00_ctl00_zipCodeText").bi
 		<option value="4">Help &amp; FAQ</option>
 
 	</select>
-    <input type="hidden" name="ctl00$ctl00$headerSearch$searchTypeHidden" id="ctl00_ctl00_headerSearch_searchTypeHidden" value="1">
-    <input name="ctl00$ctl00$headerSearch$searchText" type="text" value="Search AMC" maxlength="50" id="ctl00_ctl00_headerSearch_searchText" tabindex="6" class="search" onfocus="setSearchParameters_ctl00_ctl00_headerSearch(); clearInstructionText('ctl00_ctl00_headerSearch_searchText', true);" onkeypress="return enterClickHandler(event, 'ctl00_ctl00_headerSearch_goButton');">
-    <a href="javascript:void(0);" id="ctl00_ctl00_headerSearch_goButton" class="goButton" tabindex="7" onclick="setSearchParameters_ctl00_ctl00_headerSearch(); siteSearch(); return false;"><span><img src="/images/btn_go-on-sm.gif" width="28" height="21" border="0"></span></a>
+    </div>
 
 </div>
+</div>
+                                <div class="tertiary_nav_item" style="background:none;margin-right:2px;"><a href="/Business/">Business Clients</a></div>
+                                <div class="tertiary_nav_item"><a href="/amcinfo">AMC Corp</a></div>
+                                <div class="tertiary_nav_item"><a href="/Contact_Us/Contact_Info/" title="Help">Contact Us</a></div>
+                                
+                                    <div class="tertiary_nav_item"><a id="ctl00_ctl00_hyLogin" title="Log In" href="/Login.aspx?ReturnUrl=%2fPrivacypolicy%2f%3fWT.mc_id%3dnh_about">Log In / Register</a></div>
+                                
+                                
+                                
+                            </div>      
+                                
+
+
+
+
+                                 <div class="clear" style="clear:both;">&nbsp;</div>
+                                 
+                                 
+                                 
     
                                  
-                                 <div class="headerSearchDiv-s">
-                                    
-                                    <span>Movie Times</span>
-                                    <span id="ctl00_ctl00_upTheatres">
-                                          <select name="ctl00$ctl00$ddlMarkets" id="ctl00_ctl00_ddlMarkets" tabindex="1" class="theatreOptions">
-	<option selected="selected" value="">Select Market</option>
-	<option value="Allentown">Allentown</option>
-	<option value="Atlanta">Atlanta</option>
-	<option value="Austin">Austin</option>
-	<option value="Baltimore">Baltimore</option>
-	<option value="Binghamton">Binghamton</option>
-	<option value="Bloomington IN">Bloomington IN</option>
-	<option value="Boston &amp; MA vicinity">Boston &amp; MA vicinity</option>
-	<option value="Bremerton WA">Bremerton WA</option>
-	<option value="Buffalo">Buffalo</option>
-	<option value="Carbondale IL">Carbondale IL</option>
-	<option value="Champaign">Champaign</option>
-	<option value="Charlotte">Charlotte</option>
-	<option value="Chicago">Chicago</option>
-	<option value="Cincinnati">Cincinnati</option>
-	<option value="Cleveland">Cleveland</option>
-	<option value="Columbia, SC">Columbia, SC</option>
-	<option value="Columbus">Columbus</option>
-	<option value="Connecticut">Connecticut</option>
-	<option value="Cumberland">Cumberland</option>
-	<option value="Dallas/Ft. Worth">Dallas/Ft. Worth</option>
-	<option value="Denver">Denver</option>
-	<option value="Detroit">Detroit</option>
-	<option value="Dubuque IA">Dubuque IA</option>
-	<option value="East St. Louis">East St. Louis</option>
-	<option value="Evansville">Evansville</option>
-	<option value="Fayetteville AR">Fayetteville AR</option>
-	<option value="Fort Collins">Fort Collins</option>
-	<option value="Ft. Myers">Ft. Myers</option>
-	<option value="Galesburg IL">Galesburg IL</option>
-	<option value="Gary">Gary</option>
-	<option value="Grand Rapids">Grand Rapids</option>
-	<option value="Harrisburg">Harrisburg</option>
-	<option value="Houma">Houma</option>
-	<option value="Houston">Houston</option>
-	<option value="Indianapolis">Indianapolis</option>
-	<option value="Jacksonville">Jacksonville</option>
-	<option value="Kansas City">Kansas City</option>
-	<option value="Kennet MO">Kennet MO</option>
-	<option value="Kokomo IN">Kokomo IN</option>
-	<option value="Lake Delton - WI">Lake Delton - WI</option>
-	<option value="Lansing">Lansing</option>
-	<option value="Las Vegas">Las Vegas</option>
-	<option value="Los Angeles">Los Angeles</option>
-	<option value="Madison WI">Madison WI</option>
-	<option value="Manteca CA">Manteca CA</option>
-	<option value="Miami/Ft. Lauderdale">Miami/Ft. Lauderdale</option>
-	<option value="Middletown NY">Middletown NY</option>
-	<option value="Midlands">Midlands</option>
-	<option value="Milwaukee/WI">Milwaukee/WI</option>
-	<option value="Minneapolis/St.Paul">Minneapolis/St.Paul</option>
-	<option value="Montreal QC">Montreal QC</option>
-	<option value="Muncie IN">Muncie IN</option>
-	<option value="New Jersey">New Jersey</option>
-	<option value="New Orleans">New Orleans</option>
-	<option value="New York">New York</option>
-	<option value="Norfolk &amp; vicinity">Norfolk &amp; vicinity</option>
-	<option value="North">North</option>
-	<option value="Ogden">Ogden</option>
-	<option value="Oklahoma City">Oklahoma City</option>
-	<option value="Omaha">Omaha</option>
-	<option value="Orange County, CA">Orange County, CA</option>
-	<option value="Orlando/Daytona">Orlando/Daytona</option>
-	<option value="Ottawa ON">Ottawa ON</option>
-	<option value="Peoria">Peoria</option>
-	<option value="Philadelphia and Surround">Philadelphia and Surround</option>
-	<option value="Phoenix">Phoenix</option>
-	<option value="Pittsburgh">Pittsburgh</option>
-	<option value="Poplar Bluff MO">Poplar Bluff MO</option>
-	<option value="Quincy IL">Quincy IL</option>
-	<option value="Riverside">Riverside</option>
-	<option value="Rochester">Rochester</option>
-	<option value="Rockford">Rockford</option>
-	<option value="San Antonio">San Antonio</option>
-	<option value="San Bernardino County">San Bernardino County</option>
-	<option value="San Diego">San Diego</option>
-	<option value="San Francisco / Bay Area">San Francisco / Bay Area</option>
-	<option value="Seattle">Seattle</option>
-	<option value="South Bend">South Bend</option>
-	<option value="Spokane">Spokane</option>
-	<option value="Springfield IL">Springfield IL</option>
-	<option value="St. Louis">St. Louis</option>
-	<option value="Stroudsburg PA">Stroudsburg PA</option>
-	<option value="Tallahassee">Tallahassee</option>
-	<option value="Tampa/St.Pete">Tampa/St.Pete</option>
-	<option value="Terre Haute IN">Terre Haute IN</option>
-	<option value="Toronto ON">Toronto ON</option>
-	<option value="Tucson">Tucson</option>
-	<option value="Tulsa">Tulsa</option>
-	<option value="Vero Beach">Vero Beach</option>
-	<option value="Washington DC">Washington DC</option>
 
-</select>
-                                          <select name="ctl00$ctl00$ddlTheatres" id="ctl00_ctl00_ddlTheatres" disabled="disabled" tabindex="2" class="theatreOptions">
-	<option selected="selected" value="">Select Theatre</option>
 
-</select>
-                                          <span style="position:absolute;">
-                                          <div id="ctl00_ctl00_upProgressTheatres" style="visibility:hidden;display:block;">
-	
-                                                <img border="0" alt="Loading" src="/images/small_loader.gif" style="padding-left:1px" width="12" height="12">
-                                            
-</div>
-                                          </span>
-                                        </span>
-                                    <span>-OR-</span>
-                                    <input name="ctl00$ctl00$zipCodeText" type="text" value="Postal Code" id="ctl00_ctl00_zipCodeText" tabindex="3" class="showtimes" onfocus="setZipSearchParameters(); clearInstructionText(this.id, false)" onkeypress="enterClickHandler(event, 'ctl00_ctl00_goButton');">
-                                    <a href="javascript:void(0);" id="ctl00_ctl00_goButton" class="goButton" tabindex="4" onclick="setZipSearchParameters(); showtimeSearch();"><span><img src="/images/btn_go-on-sm.gif" width="28" height="21" border="0"></span></a>
-                                 </div>
-                                 <div class="clear" style="clear:both;">&nbsp;</div>	
                             </div>
-                            <div id="headnav">
-                                <ul id="topNav"><li><a href="/movies/" title="Movies &amp; Events"><span>Movies &amp; Events</span></a></li><li><a href="/network/" title="MovieWatcher® Network"><span>MovieWatcher® Network</span></a></li><li><a href="/rewards/" title="MovieWatcher® Rewards"><span>MovieWatcher® Rewards</span></a></li><li><a href="/giftcards/" title="Gift Cards &amp; Merchandise"><span>Gift Cards &amp; Merchandise</span></a></li><li><a href="/programs_and_offers/overview/" title="Programs &amp; Offers"><span>Programs &amp; Offers</span></a></li><li><a href="/contact_us/faq/faq/" title="Contact Us"><span>Contact Us</span></a></li></ul><input name="ctl00$ctl00$mainMenu$mainNav$ctl00$ctl00$mainMenu$mainNavEktronClientManager" type="hidden" id="ctl00_ctl00_mainMenu_mainNav_ctl00_ctl00_mainMenu_mainNavEktronClientManager" value="EktronJS,EktronWebToolBarJS,EktronAutoheightJS,EktronModalJS,EktronContentDesignerJS">
+                            <div class="main_nav">
+                                <div class="main_nav_item_fb">
+                                    <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Famctheatres&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+                                </div>
+                                <div class="main_nav_item main_nav_item-noback"><a href="/movies/" title="Find a Movie"><span>Find a Movie</span></a></div><div class="main_nav_item"><a href="/Contact_Us/Find_a_Theatre/" title="Find a Theatre"><span>Find a Theatre</span></a></div><div class="main_nav_item"><a href="/network/" title="AMC Community"><span>AMC Community</span></a></div><div class="main_nav_item"><a href="/rewards/" title="Rewards"><span>Rewards</span></a></div><div class="main_nav_item"><a href="/giftcards/" title="Purchase Gift Cards"><span>Purchase Gift Cards</span></a></div><div class="main_nav_item"><a href="/contact_us/faq/faq/" title="Contact Us"><span>Contact Us</span></a></div><input name="ctl00$ctl00$mainMenu$mainNav$ctl00$ctl00$mainMenu$mainNavEktronClientManager" type="hidden" id="ctl00_ctl00_mainMenu_mainNav_ctl00_ctl00_mainMenu_mainNavEktronClientManager" value="EktronJS,EktronWebToolBarJS,EktronAutoheightJS,EktronModalJS,EktronContentDesignerJS">
                             </div>
                             
                             
@@ -397,11 +318,10 @@ $("#ctl00_ctl00_zipCodeText").ready(function() {$("#ctl00_ctl00_zipCodeText").bi
     </div>
 
                             <!-- Footer -->
-                            <div id="Footer" align="center">
-                                <p id="footerLinks">
-                                    ©AMC Copyright 2010
-                                    <span id="ctl00_ctl00_footerMenu_footerMenu">
-<a href="/Contact_Us/Contact_Info/" title="Contact Us">Contact Us</a><a href="/Privacypolicy/" title="Privacy Policy">Privacy Policy</a><a href="/AMCInfo/Accessibility/" title="Accessibility Statement">Accessibility Statement</a><a href="/Sitemap/" title="Sitemap">Sitemap</a><a href="/Contact_Us/Find_a_Theatre/" title="Find a Theatre">Find a Theatre</a><br><a class="first" href="/Movies/Movietimes/" title="Movie Times &amp; Tickets">Movie Times &amp; Tickets</a><a href="/Network/Terms_Conditions/" title="MovieWatcher Network Terms &amp; Conditions">MovieWatcher Network Terms &amp; Conditions</a><a href="/Rewards/Terms_Conditions/" title="MovieWatcher Rewards Terms &amp; Conditions">MovieWatcher Rewards Terms &amp; Conditions</a><a href="/Network/Community/" title="Community">Community</a><a href="/Network/Groups.aspx" title="Groups">Groups</a><br><a class="first" href="/Network/Points_Schedule/" title="Points Schedule">Points Schedule</a><a href="/AMCInfo/Careers/" title="Careers">Careers</a><a href="/AMCInfo/Media_Center/" title="Media Center">Media Center</a><a href="/Business/Advertise_Online/" title="Advertise with AMC">Advertise with AMC</a><a href="/AMCInfo/About/In_The_Community/" title="In the Community">In the Community</a><br><a class="first" href="/Business/TheatreRentals/" title="Theatre Rentals">Theatre Rentals</a><a href="/TechnologyStatement/" title="Technology Statement">Technology Statement</a><a href="/RatingsInformation/" title="Ratings Information">Ratings Information</a><a href="http://www.investor.amctheaters.com/index.cfm" title="Investor Relations">Investor Relations</a><a href="http://www.amcentertainment.com/domestic/forum22/index.html" title="Français">Français</a><br><a class="first" href="/AssistedMoviegoing/" title="Assisted Moviegoing">Assisted Moviegoing</a><a href="http://amcurl.com/xfE" title="Find Us on Facebook">Find Us on Facebook</a><script type="text/javascript" language="JavaScript">
+                            <div id="footer_wrapper">
+
+                                    <span id="ctl00_ctl00_footerMenu_footerMenu" xml="FooterNav">
+<div class="footer_seo"><p>At AMC Theatres, we love movies. Here, you can check out movie times and trailers, buy advanced movie tickets or read reviews. Need a gift card? You can find those here too. So stop by AMC movie theatre listings and we'll see you at the movies.</p><p>© AMC Entertainment 2010</p><p><a href="http://www.amcentertainment.com/domestic/forum22/index.html">Français</a></p></div><div class="footer_place"><div class="footer_column"><ul><li class="heading">ABOUT AMC</li><li><a href="/Contact_Us/Contact_Info/" title="Contact Us">Contact Us</a></li><li><a href="/AMCInfo/Careers/" title="Careers">Careers</a></li><li><a href="/AMCInfo/Accessibility/" title="Accessibility Statement">Accessibility Statement</a></li><li><a href="/TechnologyStatement/" title="Technology Statement">Technology Statement</a></li><li><a href="http://www.investor.amctheatres.com/index.cfm" title="Investor Relations">Investor Relations</a></li><li><a href="/AMCInfo/Media_Center/" title="Media Center">Media Center</a></li><li><a href="/AMCInfo/About/In_The_Community/" title="In the Community">In the Community</a></li><li><a href="/Privacypolicy/" title="Privacy Policy">Privacy Policy</a></li><li><a href="/Sitemap/" title="Sitemap">Sitemap</a></li></ul></div><div class="footer_column"><ul><li class="heading">SEE A MOVIE</li><li><a href="/Movies/Movietimes/" title="Movie Times &amp; Tickets">Movie Times &amp; Tickets</a></li><li><a href="/Contact_Us/Find_a_Theatre/" title="Find a Theatre">Find a Theatre</a></li><li><a href="/AssistedMoviegoing/" title="Assisted Moviegoing">Assisted Moviegoing</a></li><li><a href="/RatingsInformation/" title="Ratings Information">Ratings Information</a></li></ul><ul><li class="heading">BUSINESS PARTNERS</li><li><a href="/Business/Advertise_Online/" title="Advertise with AMC">Advertise with AMC</a></li><li><a href="/Business/TheatreRentals/" title="Theatre Rentals">Theatre Rentals</a></li></ul></div><div class="footer_column"><ul><li class="heading">MOVIEWATCHER NETWORK</li><li><a href="/Network/Community/" title="Community">Community</a></li><li><a href="/Network/Groups.aspx" title="Groups">Groups</a></li><li><a href="/Network/Terms_Conditions/" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li><li><a href="/network/scriptscreen/" title="AMC Movie News Blog">AMC Movie News Blog</a></li></ul><ul><li class="heading">MOVIEWATCHER REWARDS</li><li><a href="/Network/Points_Schedule/" title="Points Schedule">Points Schedule</a></li><li><a href="/Rewards/Terms_Conditions/" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li></ul></div><div class="footer_column footer_column_last"><ul><li class="heading">CONNECT WITH AMC</li><li><a href="http://amcurl.com/xfE" title="Find Us on Facebook">Find Us on Facebook</a></li><a href="http://www.amctheatres.com/Sony4K" border="none"><img src="../../images/dc4k_105.png" alt="Sony" border="none"></a><li><a href="/Sony4K/" title="Sony 4K">Sony 4K</a></li></ul></div></div><script type="text/javascript" language="JavaScript">
 function GetPreviewURL() {
  var url = self.location.href;
  var arString = url.split('?')
@@ -417,7 +337,7 @@ function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) {
 </script>
 <input name="ctl00$ctl00$footerMenu$footerMenu$ctl00$ctl00$footerMenu$footerMenuEktronClientManager" type="hidden" id="ctl00_ctl00_footerMenu_footerMenu_ctl00_ctl00_footerMenu_footerMenuEktronClientManager" value="EktronJS,EktronWebToolBarJS,EktronAutoheightJS,EktronModalJS,EktronContentDesignerJS"></span>
                                     
-                                </p>
+                                
                             </div>
                             <!-- .Footer -->
                          </div>
@@ -463,11 +383,25 @@ Sys.Application.initialize();
     //]]>>
 </script>
 <noscript>
-<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcszkyder00000wowev1kw3e1_6y5m/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.1"/></div>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="https://statse.webtrendslive.com/dcszkyder00000wowev1kw3e1_6y5m/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.1"/></div>
 </noscript>
 <!-- END OF SmartSource Data Collector TAG -->
 
-<div style="display:none;">Server: SVD0WEBDMZP06</div>
+<div style="display:none;">Server: SVD0WEBDMZP01</div>
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+    window.fbAsyncInit = function() {
+        FB.init({ appId: '139068929456701', status: true, cookie: true,
+            xfbml: true
+        });
+    };
+    (function() {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+    } ());
+</script>
 
 
 </body></html>
