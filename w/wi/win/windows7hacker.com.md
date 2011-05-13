@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the windows7hacker.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112032153id_/http%3A//www.windows7hacker.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7hacker.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513065125id_/http%3A//www.windows7hacker.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Windows7hacker
-
-## Privacy Policy
 
 Written by [Kent](http://www.windows7hacker.com/index.php/author/kent/ "Posts by Kent") on May 4th, 2009 | Posted in | 
 
