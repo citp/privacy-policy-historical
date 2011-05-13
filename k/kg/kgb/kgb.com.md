@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kgb.com privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331222125id_/http%3A//kgb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgb.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513060417id_/http%3A//542542.com/privacy) for the most accurate reproduction.*
 
-# kgb — Privacy Policy
+# 542542 — kgb Privacy Policy
 
-  1\. Introduction
+ 1\. Introduction
 
 The websites located at the domains www.kgb.com, www.thekgb.com, www.kgbkgb.com and kgb Mobile Applications (collectively, the “Sites”) are operated by kgb (“kgb” or “we” or “our” or “us”). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Sites. The Sites are operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Sites, or if you wish to unsubscribe from services on any of the Sites for which you have previously registered, please contact us at accounts@kgb.com or at the address at the end of this policy.
 
