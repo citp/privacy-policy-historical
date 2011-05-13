@@ -1,23 +1,55 @@
-> *The following text is extracted and transformed from the odometer.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206083958id_/http%3A//www.findit.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odometer.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513204936id_/http%3A//www.odometer.com/privacy.html) for the most accurate reproduction.*
 
-# Web Search - Findit.com
+# Odometer.com | Privacy Policy
 
-**Findit.com Privacy Policy**
+You agree to this privacy policy and the terms detailed below by your use of the site. If you are opposed to any of the listed terms, please refrain from using Odometer.
 
-Findit.com, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
+* What Information We Collect and How We Use It
 
-**Consumer Information**
+Odometer collects limited personal information only to be used for the purposed detailed below. You will be asked for consent if your personal information is to be used in a way other than originally intended. 
 
-During the process of delivering an ad to you, Findit.com does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Findit.com does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by Findit.com is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers. 
+Your Account Information: Odometer will ask you for and keep a record of personal information, including your email address and name, if you login through Facebook. This help us offer the best site experience possible to our users. 
 
-In some cases, you may voluntarily provide personal information in response to a specific ad (this ad may ask you to fill out a survey or provide your zip code). If this does occur, Findit.com may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, Findit.com may combine this information with other users' information and review it in an aggregate form to understand the type of individuals who view a specific type of ad or visit a particular kind of website. 
+User Submissions: Submissions you make through Odometer may be stored or displayed publicly on our website, in order to provide the best and most complete version of our services. Your first name and your Facebook profile photo will be combined with your submissions to the site. You may change these details on your account page. "Submissions" refers to any information that you post to Odometer or information displayed from your profile. 
 
-**Data Collection**
+Feedback: We will record certain personal information that you provide in your feedback with us, when you ask a question or register a complaint, in order to help us effectively and efficiently respond to your questions or concerns. 
 
-Findit.com, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. Findit.com cannot use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time Findit.com serves you an ad. This unique number, which is stored in a cookie file on your computer, helps Findit.com target ads to you. This cookie can help Findit.com ensure that we don't serve you the same ad multiple times, and help our advertisers understand what you like and don't like about their offerings so that they can cater better to your needs the next time you are interested in their products or services. While we believe that cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for Findit.com to deliver you an ad. 
+User Activity: For us to identify which areas of Odometer are being use the most and provide statistical analysis of the site, we will record information such as your browser type, IP address, searches, timestamp information and the pages you've viewed. This will help us make site improvements and offer you the best experience possible. 
 
-If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
+Use of Cookies: Odometer does use cookies in order to assist us with site improvements through browser identification. Cookies, or small pieces of information that are sent to your hard drive while you are on our site, help us in offering the most complete and user-friendly site experience possible. We may use both persistent cookies - cookies that stay on your computer until deleted - and session cookies - cookies that expire as soon as you close your browser. While you may disable the use of cookies through your browser, doing so could limit your use of Odometer 
 
-If you have any additional questions about Findit.com's dedication to consumer privacy, please contact us at [info@Findit.com](mailto:info@Findit.com). 
+Terms of Service and Privacy Policy Enforcement: To enforce our privacy policy or terms of service, or to comply with a legal investigation, any information, including personal information, may be used. 
 
-Findit.com uses third-party advertising companies to serve ads when you visit our website. These companies MAY use information (not including your name, address, email address, or telephone number) about your visits to this and all other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.valueclick.com/privacy.html). 
+* Information Transfer
+
+Third parties that work with Odometer may receive submissions you make through the website, which may end up being published on their sites or platforms. This information includes your account name, but not your personal information, unless it was listed in the submission.
+
+In order for us to provide a number of services through Odometer, including customer support, quality assurance testing, account creation and contact synchronization, your information may be shared with third parties. These third parties may not use this information for any purposes other than what you request.
+
+Your personal information may be accessed by affiliates of Odometer, such as our parent company, subsidiaries, joint ventures or companies under common control, that are currently with us or may be with us in the future. These affiliates are obligated to honor this privacy policy. If Odometer is obtained by another company, that company will then possess your personal information. However, they too will be obligated to honor the rights of this privacy policy.
+
+Your personal information may be given to third parties to comply with legal processes, including warrants, subpoenas, statues or court orders , to take action against illegal activities, or to enforce our terms of service or privacy policy. Odometer is not required to question the validity of any government request.
+
+Information relating to user behavior may be disclosed to third parties in connection with an actual or prospective business partnership. This includes information relating to users that have clicked advertising banners and the number of users visiting our site.
+
+Advertisements served by third-party advertisers appear on Odometer when you visit the site. These companies may use information about your visits, not including your name, address or email address or telephone number, to be able to serve you with the most interesting advertisements. Click here for more information about the advertising process, including not having your information used by these third-party advertisers.
+
+When you visit Odometer, you will see advertisements from third parties displayed on the site. Information about your visit to the site may be used by these companies, not including your name, address, email or telephone number. This helps them to better serve you advertisements that you would find most interesting. Click here for more information about our advertising process, or not having your information used by these third parties.
+
+* Odomter.com Links
+
+Even though you may find links to unaffiliated third-party sites on Odometer, we are not responsible for any privacy practices related to those companies or websites. Your personal information will never be shared with them. Please make sure you take time to read the privacy practices of these websites as well.
+
+* How Your Personal Data is Controlled
+
+If you include personal information with your submission, you may be personally identifiable by third parties. Please keep any information you wish to remain private out of any submissions to Odometer.
+
+By reading this, you acknowledge that Odometer is not responsible for information that may be intercepted while being transferred through the internet and release Odometer from any and all claims that arise due to this.
+
+* Privacy Policy Changes
+
+This privacy policy is subject to change at any time, and any modifications will be posted to this page. You will be notified via email if any changes to how your personal information is handled are made. We will also post a notice on our website. Changes take effect 30 calendar days following the email or posting, whichever is earlier.
+
+* Contacting us and Access to Personal Information
+
+If you have questions regarding anything listed in the privacy policy, privacy practices of Odometer or to utilize the rights granted here, please use the contact form to contact us. Through a written request, Odometer will discuss the disclosure and use, as well as grant access to your personal information.
