@@ -1,0 +1,597 @@
+<!--The following is the downloaded HTML source of the vexcast.com privacy policy that was archived on 2011-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110513174016id_/http%3A//vexcast.com/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="description" content="Vexcast.com allows registered users to stream their own tv show in minutes.">
+<meta name="keywords" content="live tv, streaming, india, cricket, soccer, nfl, football, live tv, streaming videos, live soccer, live football, live webcam, live tv shows, live shows, streaming web cams">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta name="author" content="">
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+<base href="http://vexcast.com/"><link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="./images/favicon.ico" type="image/x-icon">
+
+<title>Vexcast.com - Stream Yourself - Privacy Policy</title>
+<script type="text/javascript" src="./javascript/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="./javascript/popup/popup.js"></script>
+<script src="./javascript/validator.js"></script>
+
+<script>
+    var loggedinuser = "" ;	
+	var f_from = "" ;	
+</script>	
+
+<link rel="stylesheet" type="text/css" href="./css/style.css" media="screen" title="style (screen)">
+<link rel="stylesheet" href="./css/popup/popup.css" type="text/css" media="screen">		
+		
+<script type="text/javascript" charset="utf-8">
+
+		$(document).ready(function(){	
+
+					
+			//CLOSING POPUP				
+			$(".popupContactClose").click(function(){		//Click the x event!
+			disablePopup();			 
+			openiframe();
+			});			
+			$("#backgroundPopup").click(function(){			//Click out event!
+			disablePopup();			 
+			openiframe();
+			});				
+			$(document).keypress(function(e){				//Press Escape event!
+			if(e.keyCode==27 && popupStatus==1){
+				disablePopup();			 
+				openiframe();
+			}
+			});			
+			
+			// forgot pwd using ajax
+			/* $("#fgtbtn").click(function() {  
+
+				 var email = $("#email").val();					
+				// $('body').fadeOut('slow');					 
+				$('#fgtPwdPUOutput').html('processing...');							$.post("ajax/forgotPwd.php", { email : email },				
+						function(data){
+							if(data.returnVal == '0'){	
+							$('#fgtPwdPUOutput').html(data.errVal);
+							}else if(data.returnVal == '1'){
+								$('#fgtPwdPUOutput').html(data.errVal);
+								
+							}
+						}, "json");							
+						 
+				});  */
+
+			  
+			  // forgot password submit
+			  $('#fgtPwd').submit(function() {  
+				 var email = $("#email").val();												
+				// $('body').fadeOut('slow');					 
+				$('#fgtPwdPUOutput').html('processing...');		
+				$.post("ajax/forgotPwd.php", { email : email },						
+						function(data){
+							if(data.returnVal == '0'){	
+							$('#fgtPwdPUOutput').html(data.errVal);
+							}else if(data.returnVal == '1'){
+							$('#fgtPwdPUOutput').html(data.errVal);	
+							}
+						}, "json");							
+						 
+				});  
+
+
+			// login using ajax
+			 $("#loginbtn").click(function() {  
+
+					 var uname = $("#username").val();		
+					 var pws = $("#password").val();					
+					$('#loginPUOutput').html('processing...');				
+	
+					$.post("ajax/login.php", { username : uname, password : pws },				
+							function(data){
+								if(data.returnVal == '0'){	
+								$('#loginPUOutput').html(data.errVal);
+								$('#signupform').css('display','none');
+								}else if(data.returnVal == '1'){
+								disablePopup();								
+								location.reload();
+								
+								}
+							}, "json");		
+				});  
+
+			// login using submit button
+			 $("#contact").submit(function() { 
+
+					 var uname = $("#username").val();		
+					 var pws = $("#password").val();					
+					$('#loginPUOutput').html('processing...');				
+	
+					$.post("ajax/login.php", { username : uname, password : pws },				
+							function(data){
+								if(data.returnVal == '0'){	
+								$('#loginPUOutput').html(data.errVal);								
+								}else if(data.returnVal == '1'){								
+								disablePopup();									
+								location.reload();
+								
+								}
+							}, "json");		
+				});  
+
+
+
+			 // signup using ajax
+			 $("#signupbtn").click(function() {  
+
+				 var usernameS		= $("#usernameS").val();
+				 var passwordS		= $("#passwordS").val();
+				 var verifyS		= $("#verifyS").val();
+				 var txteventDay	= $("#txteventDay").val();
+				 var txteventMonth  = $("#txteventMonth").val();
+				 var txteventYear   = $("#txteventYear").val();
+				 var emailS			= $("#emailS").val();
+				 var captchaS		= $("#captchaS").val(); 				 
+				 var chktermS		= $("#chkterms").is(':checked');
+
+				 
+				
+				$('#signupPUOutput').html('processing...');				
+
+				$.post("ajax/signup.php", { username : usernameS, password : passwordS, 
+						varify : verifyS, dd : txteventDay,  mm : txteventMonth,
+						yy : txteventYear, email : emailS, captcha : captchaS,
+					 	terms : chktermS},				
+						function(data){ 
+							
+							if(data.returnVal == '0'){	
+							$('#signupPUOutput').html(data.errVal);
+							getCaptcha();
+							}else if(data.returnVal == '1'){
+							var msg = data.errVal;
+							$('#signupPUOutput').html(msg);
+
+							 
+							//location.reload();
+						
+							}
+						}, "json");		
+				
+
+				});					
+		
+							 
+			
+		});	// end of document.ready		
+
+
+function getCaptcha(){
+	$.post("ajax/captcha.php", { userAction : 'getcaptha' },				
+		function(data){																		$('#captchaData').val(data.returnVal);
+		}, "json");
+}
+
+function loadChnlPU(){		
+	
+	var setStream = document.getElementById("videoStream"); //.style.display = "none";
+	if(setStream)
+	setStream.style.display = 'none';
+	centerPopup('#chnlPU');	//centering with css
+	//$('object').attr('style','display:none');
+	loadPopup('#chnlPU');		//load popup
+
+}
+
+
+
+function loadLoginPU(){		
+	
+	var setStream = document.getElementById("videoStream"); //.style.display = "none";
+	if(setStream)
+	setStream.style.display = 'none';
+	centerPopup('#loginPU');	//centering with css
+	//$('object').attr('style','display:none');
+	loadPopup('#loginPU');		//load popup
+	$("#username").focus();	
+}
+
+function loadSignUpPU(){
+	var setStream = document.getElementById("videoStream"); //.style.display = "none";
+	if(setStream)
+	setStream.style.display = 'none';
+	centerPopup('#signupPU');	//centering with css				
+	loadPopup('#signupPU');		//load popup	
+	getCaptcha();
+	$("#usernameS").focus();	
+}
+
+function loadForgPwdPU(){
+	disablePopup();		
+	var setStream = document.getElementById("videoStream"); //.style.display = "none";
+	if(setStream)
+	setStream.style.display = 'none';
+	centerPopup('#forgpwdPU');	//centering with css				
+	loadPopup('#forgpwdPU');		//load popup	
+	
+	
+}
+
+
+function openiframe(){
+	//$('#videoiframe').attr('style','height:400px');
+	location.reload();
+
+}
+function chkOption() {
+	
+	if( document.getElementsByName( 'channel')[0].checked )  //update
+	window.location = 'editAccount.php?';
+
+	if( document.getElementsByName( 'channel')[1].checked )  //no thanks
+	window.location = 'broadcastvideo.php?';
+	
+	return false;
+}
+
+</script>
+</head>
+<body>
+
+
+
+
+<!--start pop up code -->
+	
+	<!--  check channel popup-->	
+
+	<div id="chnlPU" style="display:none">
+	<a class="popupContactClose link">X</a>
+	 <form name="chkChnl" action="">  
+	 	<table>
+		
+			<tbody><tr>
+				<td><input type="radio" id="channel" name="channel" value="0" checked=""></td>
+				<td><label for="channel">Update your profile before creating a channel. </label></td>
+			</tr>
+			<tr>
+				<td><input type="radio" id="channel_later" name="channel" value="1"></td>
+				<td><label for="channel_later">No thanks, I will do this later. </label></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><input id="chnlbtn" type="button" value="Submit" onclick="return chkOption();"></td>
+			</tr>
+			
+		</tbody></table>	
+	 </form>
+		<div id="chnlPUOutput" style="color:red"></div>	
+	</div>
+
+	<!--  check channel popup-->	
+	<!--forgot pwd popup -->
+
+	<div id="forgpwdPU" style="display:none">
+	<a class="popupContactClose link">X</a>
+	 <form name="fgtPwd" id="fgtPwd" action="" method="post" onsubmit="return false;"> 
+	 <input type="hidden" name="frgtUser" id="frgtUser" value="forgot">
+	 	<table>
+			<tbody><tr>
+				<td>Email</td>
+				<td><input type="text" id="email" name="email"></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td><input id="fgtbtn" type="submit" value="Submit"></td>
+			</tr>
+			
+		</tbody></table>	
+	 </form>
+		<div id="fgtPwdPUOutput" style="color:red"></div>	
+	</div>	
+	
+	<!--login popup -->	
+    <div id="loginPU" style="display:none">
+	<a class="popupContactClose link">X</a>	
+	 
+	  <form name="contact" action="" method="post" id="contact" onsubmit="return false;">  
+		<table>
+		<tbody><tr>
+		<td>User Name</td>
+		<td><input type="text" id="username" name="username"></td>
+		</tr>
+
+		<tr>
+		<td>Password</td>
+		<td><input type="password" id="password" name="password"></td>
+		</tr>
+		<tr>
+			<td>&nbsp;</td>
+			<td><a class="link" onclick="disablePopup(); loadSignUpPU();"> Sign up</a> | 	
+			<a class="link" onclick="loadForgPwdPU();">Forgot Password? </a>					
+			</td>
+		</tr>		
+
+		<tr>
+		<td colspan="2" align="center"><input id="loginbtn" type="submit" value="Submit"></td>
+		</tr>
+		</tbody></table>
+	  </form>  
+
+		<div id="loginPUOutput" style="color:red"></div>	
+	</div>
+
+	<!--signup popup -->
+	<div id="signupPU" style="display:none;width:400px;">
+	<a class="popupContactClose link">X</a>	
+	 
+	  <form name="signupform" id="signupform" action="" method="post" onsubmit="return false;">  
+		<table>		
+
+		<tbody><tr>
+		<td>Login ID:</td>
+		<td><input type="text" name="" id="usernameS" value=""></td>
+		</tr>
+
+		<tr>
+		<td>Password:</td>
+		<td><input type="password" name="" id="passwordS" value=""></td>
+		</tr>
+
+		<tr>
+		<td>Confirm Password:</td>
+		<td><input type="password" name="" id="verifyS" value=""></td>
+		</tr>
+		
+		<tr>
+		<td>Birthday:</td>
+		<td>
+			<select name="txteventDay" id="txteventDay" style="width:50px;"><option value="01">01</option>
+<option value="02">02</option>
+<option value="03">03</option>
+<option value="04">04</option>
+<option value="05">05</option>
+<option value="06">06</option>
+<option value="07">07</option>
+<option value="08">08</option>
+<option value="09">09</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+</select>
+			<select name="txteventMonth" id="txteventMonth" style="width:50px;"><option value="01">Jan</option>
+<option value="02">Feb</option>
+<option value="03">Mar</option>
+<option value="04">Apr</option>
+<option value="05">May</option>
+<option value="06">Jun</option>
+<option value="07">Jul</option>
+<option value="08">Aug</option>
+<option value="09">Sep</option>
+<option value="10">Oct</option>
+<option value="11">Nov</option>
+<option value="12">Dec</option>
+</select>
+			<select name="txteventYear" id="txteventYear" style="width:55px;"><option value="1970">1970</option>
+<option value="1971">1971</option>
+<option value="1972">1972</option>
+<option value="1973">1973</option>
+<option value="1974">1974</option>
+<option value="1975">1975</option>
+<option value="1976">1976</option>
+<option value="1977">1977</option>
+<option value="1978">1978</option>
+<option value="1979">1979</option>
+<option value="1980">1980</option>
+<option value="1981">1981</option>
+<option value="1982">1982</option>
+<option value="1983">1983</option>
+<option value="1984">1984</option>
+<option value="1985">1985</option>
+<option value="1986">1986</option>
+<option value="1987">1987</option>
+<option value="1988">1988</option>
+<option value="1989">1989</option>
+<option value="1990">1990</option>
+<option value="1991">1991</option>
+<option value="1992">1992</option>
+<option value="1993">1993</option>
+<option value="1994">1994</option>
+<option value="1995">1995</option>
+<option value="1996">1996</option>
+<option value="1997">1997</option>
+<option value="1998">1998</option>
+<option value="1999">1999</option>
+<option value="2000">2000</option>
+<option value="2001">2001</option>
+<option value="2002">2002</option>
+<option value="2003">2003</option>
+<option value="2004">2004</option>
+<option value="2005">2005</option>
+<option value="2006">2006</option>
+<option value="2007">2007</option>
+<option value="2008">2008</option>
+<option value="2009">2009</option>
+<option value="2010">2010</option>
+<option value="2011">2011</option>
+</select>
+		</td>	
+		</tr>
+		
+
+		<tr>
+		<td>E-mail:</td>
+		<td><input type="text" name="" id="emailS" value=""></td>
+		</tr>
+
+		<tr>
+		<td valign="top">Verification Text:</td>
+		<td><input type="readonly" id="captchaData" style="background-color:white;border:0px;background-image:url(capcha.png);font-size:16px" value="" disabled="" readonly=""><br>Can't read? <a class="link" onclick="getCaptcha();">Refresh</a>		
+		<br>
+		<input type="text" name="" id="captchaS" value="">
+		<br>
+		Enter the text you see in the image
+		</td>
+		</tr>
+
+		<tr>
+		<td></td>
+		<td><input type="checkbox" id="chkterms"> I agree to the <a class="link" href="javascript: void(0)" onclick="window.open('terms_and_condition.php?','');  return false;">Terms of Use</a> &amp; <a class="link" href="javascript: void(0)" onclick="window.open('privacy_policy.php?','');  return false;">Privacy Policy</a></td>
+		</tr>
+
+		<tr>
+		<td colspan="2" align="center"><input id="signupbtn" type="submit" value="Submit">		
+		</td>		
+		</tr>
+
+		</tbody></table>
+	  </form>  
+		<a class="link" onclick="disablePopup(); loadLoginPU();"> Log in</a>
+		<div id="signupPUOutput" style="color:red;font-weight:bold"></div>	
+	</div>
+
+	<div id="backgroundPopup"></div>
+<!--end pop up code -->
+
+
+<!--start header -->
+<table border="0" width="950px" align="center" style="border:1px solid gray;padding:0px" cellpadding="0" cellspacing="0">
+
+
+<tbody><tr>
+    <td>
+	<table cellspacing="0" cellpadding="0" width="100%" height="93px" bgcolor="black">
+	    <tbody><tr>
+			<td>
+			<a href="index.php" title="Stream Online"><img style="padding:5px 0px 0px 30px" src="./images/logo.jpg" border="0"></a>
+			</td>
+
+			<td valign="bottom">
+				 <div style="float:right;padding-right:30px;color:#CCC">  
+	  
+				  <span id="logintext" style="">
+				  
+				  <a class="link1" onclick="loadLoginPU();">Log in</a> | <a class="link1" onclick="loadSignUpPU();">Sign up</a>
+				  <img src="images/broadcastnow.jpg" onclick="loadLoginPU()" border="0">
+				  	  
+				  </span>					
+					  
+				  </div>
+			    
+			</td>
+	    </tr>	
+	</tbody></table>
+	</td>  
+</tr>
+
+<tr><td>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" height="50px">
+   <tbody><tr style="background-image:url(./images/header_bg_link.jpg);background-repeat:repeat-x" valign="top"> <td align="center" valign="top"><a class="link3 lnkpadding" href="all"> All </a><img class="lnkpadding" src="./images/button_middel_line.jpg"><a class="link3 lnkpadding" href="music">Music</a><img class="lnkpadding" src="./images/button_middel_line.jpg"><a class="link3 lnkpadding" href="live_24-7">Live 24-7</a><img class="lnkpadding" src="./images/button_middel_line.jpg"><a class="link3 lnkpadding" href="sports">Sports</a><img class="lnkpadding" src="./images/button_middel_line.jpg"><a class="link3 lnkpadding" href="gaming">Gaming</a><img class="lnkpadding" src="./images/button_middel_line.jpg"><a class="link3 lnkpadding" href="entertainment">Entertainment</a><img class="lnkpadding" src="./images/button_middel_line.jpg"><a class="link3 lnkpadding" href="other">Other</a></td>   
+   <td align="right">
+   <form name="searchPage" action="searchResult.php?" method="get" style="margin:0px;padding:0px" enctype="multipart/form-data">
+	<input type="hidden" name="userAction" value="search">
+	   <table width="60%" cellpadding="0" cellspacing="6" border="0">
+	     <tbody><tr><td width="60%"><input type="text" name="searchtxt" size="30" class="searchfield"></td>
+		   <td width="40%"><input type="image" name="bttsearch" src="images/search.jpg"></td>
+		 </tr>
+	   </tbody></table>
+	</form>
+   </td>   
+   </tr>
+</tbody></table> 
+
+</td></tr>
+<tr><td>
+  <div class="clear"></div>
+  
+</td></tr>
+
+<tr><td>
+<div class="clear"></div>
+<div class="content" style="border:0px solid red">
+
+<table width="100%" cellpadding="0" cellspacing="0">	  
+	  <tbody><tr>
+	    <td valign="top">		
+		   <table width="100%" cellpadding="3" cellspacing="1" border="0">
+			<tbody><tr><td><div class="headtitle" style="margin-bottom:10px;">Privacy Policy </div></td></tr>
+			<tr><td>Vexcast.com provides this privacy policy to inform you of our policies  and procedures regarding the collection, use and disclosure of personal  information we receive from users of&nbsp; www.Vexcast.com.&nbsp; This privacy  policy applies only to information that you provide to us through the  services provided by Vexcast.com. Unless otherwise defined in this  privacy policy, terms used in this privacy policy has the same meanings  as in Vexcast.com's terms of service.<br><br>- Primary goal of  collecting information is to make the website easily monitored by  administrators and in order to improve the services provided. The  information which is collected on the website is not sold or released to  third parties in anyway.<br><br>- Cookies: We use cookies to customize  the website and for easier access when using our services. Cookies from  vexcast.com do not in anyway store any personal data.<br><br>- Links to  other websites: Vexcast.com is not responsible for any of the content on  other websites where Vexcast.com is linked in or Vexcast.com player is  embedded. We do not hold any responsibility for any content of the  websites which are linked from Vexcast.com as well.<a class="menu_item" href="../page.php?pageId=6" target="body">                       </a></td></tr>
+		   </tbody></table>
+		</td>
+		<td width="20%" align="center" valign="top">
+		  <div id="verticalBanner"><!-- BEGIN STANDARD TAG - 160 x 600 - vexcast.com: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="160" height="600" src="http://adserving.cpxinteractive.com/st?ad_type=iframe&amp;ad_size=160x600&amp;section=788447"></iframe>
+<!-- END TAG -->
+</div>		</td>
+	  </tr>
+	  <tr><td height="5"></td></tr>
+</tbody></table>
+	
+	<table width="100%" cellpadding="0" cellspacing="0">
+	   <tbody><tr>
+	      <td align="left">&nbsp;<div id="horizontalBanner"><!-- BEGIN STANDARD TAG - 728 x 90 - www.vexcast.com: RON - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="728" height="90" src="http://ad.tlvmedia.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=820419"></iframe>
+<!-- END TAG -->
+</div><!--<img src="images/banner_ad3.jpg" border="0" width="820" height="90" />--></td>
+	   </tr>
+	</tbody></table>
+
+
+
+</div></td></tr><tr><td></td></tr>
+
+
+<tr><td>
+ <div class="footer">
+    <table width="40%" align="center" cellpadding="0" cellspacing="0">
+	   <tbody><tr>
+	     <td width="33%" class="footercategory">Vexcast</td>
+		 <td width="33%" class="footercategory">Categories</td>
+		 <td width="33%" class="footercategory">Help &amp; info</td>
+	   </tr>
+	   <tr valign="top">
+	   	<td align="left">
+		  <a href="index.php?">Home</a> <br>
+		  <a href="aboutus.php?">About Us</a> <br>
+		  <a href="ourblog.php?">Our blog</a> <br>
+		  <a href="press.php?">Press</a></td>
+		  
+		 <td align="left">
+		   <a href="music">Music</a> <br><a href="live_24-7">Live 24-7</a> <br><a href="sports">Sports</a> <br><a href="gaming">Gaming</a> <br><a href="entertainment">Entertainment</a> <br><a href="other">Other</a> <br>		   
+		 </td>
+		 
+		 <td align="left">
+		   <a href="terms_and_condition.php?">Terms of services</a> <br>
+		   <a href="privacy_policy.php">Privacy Policy</a> <br>
+		   <a href="copyright.php?">Copyright Policy</a>
+		 </td>
+	   </tr>
+	</tbody></table>
+  </div>
+</td></tr>
+
+
+
+</tbody></table>
+
+
+
+</body></html>
