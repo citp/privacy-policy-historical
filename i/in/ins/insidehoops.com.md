@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidehoops.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216081759id_/http%3A//www.insidehoops.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidehoops.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513093919id_/http%3A//www.insidehoops.com/privacy.shtml) for the most accurate reproduction.*
 
 # Sports website privacy policy
 
@@ -6,51 +6,51 @@
 Privacy Policy  
 
 
-|  **EAST STANDINGS**  
+|  **FINAL EAST STANDINGS**  
 ---  
   
-_Includes Dec. 15_
+_Includes Apr. 13_
 
-1\. * Boston --   
-2\. * Miami 2.5   
-3\. * Chicago 4.0   
-4\. Orlando 4.5   
-5\. Atlanta 5.0   
-6\. New York 5.0   
-7\. Indiana 9.0   
-8\. Milwaukee 10.0   
+1\. z-Chicago --   
+2\. y-Miami 4.0   
+3\. y-Boston 6.0   
+4\. x-Orlando 10.0   
+5\. x-Atlanta 18.0   
+6\. x-New York 20.0   
+7\. x-Philadelphia 21.0   
+8\. x-Indiana 25.0   
 \---  
-9\. Philadelphia 10.5   
-10\. Charlotte 11.5   
-11\. Toronto 12.0   
-12\. Detroit 13.0   
-13\. Cleveland 13.5   
-14\. Washington 13.5   
-15\. New Jersey 14.5
+9\. Milwaukee 27.0   
+10\. Charlotte 28.0   
+11\. Detroit 32.0   
+12\. New Jersey 38.0   
+13\. Washington 39.0   
+14\. Toronto 40.0   
+15\. Cleveland 43.0
 
 * = Division Leader  
   
-|  **WEST STANDINGS**  
+|  **FINAL WEST STANDINGS**  
 ---  
   
-_Includes Dec. 15_
+_Includes Apr. 13_
 
-1\. * San Antonio --   
-2\. Dallas 1.5   
-3\. * LA Lakers 3.0   
-4\. * Oklahoma City 4.0   
-5\. Utah 4.0   
-6\. Denver 6.0   
-7\. New Orleans 6.5   
-8\. Phoenix 9.0   
+1\. z-San Antonio --   
+2\. y-LA Lakers 4.0   
+3\. x-Dallas 4.0   
+4\. y-Ok City 6.0   
+5\. x-Denver 11.0   
+6\. x-Portland 13.0   
+7\. x-New Orleans 15.0   
+8\. x-Memphis 15.0   
 \---  
-9\. Memphis 10.0   
-10\. Portland 10.0   
-11\. Houston 11.5   
-12\. Golden State 12.5   
-13\. Minnesota 16.0   
-14\. Sacramento 15.5   
-15\. LA Clippers 17.0
+9\. Houston 18.0   
+10\. Phoenix 21.0   
+11\. Utah 22.0   
+12\. Golden State 25.0   
+13\. LA Clippers 29.0   
+14\. Sacramento 37.0   
+15\. Minnesota 44.0
 
 * = Division Leader  
   
