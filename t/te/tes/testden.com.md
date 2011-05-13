@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testden.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113051233id_/http%3A//www.testden.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testden.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513205153id_/http%3A//www.testden.com/privacy.htm) for the most accurate reproduction.*
 
 # TestDEN Privacy Policy
 
@@ -50,8 +50,8 @@ Some of our sites may contain links to other sites external to our sites. When y
 We invite you to contact us if you have questions about our privacy policy. You may contact us by mail at the following address: 
 
 TestDEN.com (a division of ACT360 Media Ltd.)  
-Suite 260, 4311 Viking Way  
-Richmond, BC  
-CANADA V6V 2K9
+Suite 1116, 207 W. Hastings St.  
+Vancouver, BC  
+CANADA V6B 1H7
 
-E-mail us at [comment@testden.com](mailto:comment@testden.com) or call (604) 270-3656. 
+E-mail us at [comment@testden.com](mailto:comment@testden.com) or call (604) 638-1553. 
