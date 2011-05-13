@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingonly.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227182305id_/http%3A//www.amazingonly.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingonly.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513234042id_/http%3A//www.amazingonly.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Amazing Only
 
