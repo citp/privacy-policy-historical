@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovey8.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231224747id_/http%3A//www.lovey8.com/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovey8.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513171730id_/http%3A//www.lovey8.com/page/1.html) for the most accurate reproduction.*
 
-# Privacy Policy - Y8
+# Privacy Policy - Y8 Games
 
 **Personal Information**  
 FreeGames14.com is committed to protecting your privacy online. FreeGames14.com does not collect any personal information. 
