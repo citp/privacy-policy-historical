@@ -1,58 +1,19 @@
-> *The following text is extracted and transformed from the affiliatesilverbullet.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208070609id_/http%3A//affiliatesilverbullet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatesilverbullet.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514015605id_/http%3A//affiliatesilverbullet.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy for http://AffiliateSilverBullet.com
+# Affiliate Silver Bullet | Privacy Policy
 
-Privacy Policy
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-This is a privacy policy for **http://AffiliateSilverBullet.com**
+**Collection of Personal Information**  
+When visiting Affiliate Silver Bullet, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-Contact Information
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
 
-Our homepage on the Internet is located at [http://AffiliateSilverBullet.com](http://affiliatesilverbullet.com/)
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion. 
 
-* * *
+If you have any questions regarding the privacy policy of Affiliate Silver Bullet then you may contact us at support@imgeni.us 
 
-Dispute Resolution
-
-Disputes will be handled by our customer service representative.  
-Our customer service will promptly correct any errors.
-
-* * *
-
-Data Collection
-
-When visiting Web sites certain information about you and your computer can sometimes be collected. This section explains what information IM Wealth Builders Ltd. collects and how it is used.
-
-We collect the following information about our visitors:
-
-  * user.name data
-  * user.home-info data
-  * user.business-info data
-  * dynamic.clickstream data
-  * dynamic.http data
-  * dynamic.cookies data
-
-
-
-We collect this information for the following reasons
-
-  * Completion and Support of Current Activity
-
-All personal and identifiable information is used for the sole purpose of delivering products, services, and information requested by you. We do not sell, rent or share your information with 3rd Parties for any reason.
-
-
-
-
-* * *
-
-Cookies
-
-_Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it_
-
-Our Web site uses the following cookies:
-
-  * name="*" value="*" domain="*" path="*"
-
-
-
-* * *
+Last updated Sun, 27 Feb 2011 05:03
