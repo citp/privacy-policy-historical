@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxurygirls.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107185515id_/http%3A//www.luxurygirls.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurygirls.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513214934id_/http%3A//www.luxurygirls.com/privacy.html%3F) for the most accurate reproduction.*
 
 # LuxuryGirls - Privacy
 
@@ -53,5 +53,3 @@ c/o Ariel Secretaries Limited
 1st Flr, Office 102  
 P.O. Box 57528  
 3316 Limassol - Cyprus
-
-LuxuryGirls LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! LuxuryGirls is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
