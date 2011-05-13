@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedaily.com.au privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528205217id_/http%3A//www.sunshinecoastdaily.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedaily.com.au privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513202424id_/http%3A//www.sunshinecoastdaily.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | The Sunshine Coast Daily
+# Privacy Policy | Sunshine Coast Daily
 
 APN Newspapers Pty Ltd respects your right to privacy. We are sensitive to the concerns that our clients, customers and online users may have with regards to the confidentiality, security and use of their personal information, and would like to reassure you of our position on this matter. The purpose of this Privacy Statement is to tell you what type of information we collect, how we may use that information, whether we disclose it to anyone, and the opportunities you have to access and correct the information we hold.
 
