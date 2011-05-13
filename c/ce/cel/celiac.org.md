@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celiac.org privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215103704id_/http%3A//celiac.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D108%26Itemid%3D181) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celiac.org privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514012027id_/http%3A//www.celiac.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D108%26Itemid%3D181) for the most accurate reproduction.*
 
 # Privacy Policy
 
