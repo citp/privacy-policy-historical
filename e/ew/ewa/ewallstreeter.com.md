@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewallstreeter.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225182617id_/http%3A//ewallstreeter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewallstreeter.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514000620id_/http%3A//ewallstreeter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eWallstreeter
 
@@ -51,6 +51,3 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://ewallstreeter.com
 
 info@ewallstreeter.com
-
-**eWallstreeter** is a financial news aggregator that links to breaking market news, insightful finance blog posts, and important market analyses. Financial links are updated several times per hour with the most pertinent and provocative articles covering the stock market, fixed income markets, economy, federal reserve, personal finance, hedge funds, technology, online investing, politics, Wall Street and international markets. We were voted Favorite Financial Website by CNBC.  
- _ **eWallstreeter** brings Wall Street to you_.
