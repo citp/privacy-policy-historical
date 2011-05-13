@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidestobuy.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231211310id_/http%3A//guidestobuy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidestobuy.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513063800id_/http%3A//guidestobuy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | guidestobuy
 
