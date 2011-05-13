@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbad.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219051939id_/http%3A//www.nbad.com/privacy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbad.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514003954id_/http%3A//www.nbad.com/privacy/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
