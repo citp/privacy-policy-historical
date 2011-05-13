@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pchelpsoft.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112003352id_/http%3A//www.pchelpsoft.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchelpsoft.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513233149id_/http%3A//www.pchelpsoft.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PC HelpSoft
 
@@ -34,7 +34,9 @@ We use IP addresses to analyze trends, administer the site, track user movement,
 
 As part of our approach to providing personalized services on our web site, we employ the use of cookies to store and sometimes track information about you. A cookie is a small data file sent to your browser from a web server to be stored on your hard drive that allows easier access the next time the same page is visited. For example, a cookie is sent when you register or sign in to this site. With your consent, cookies can store information from forms you fill out to create a user profile so that you do not have to re-enter the information each time you visit.
 
-We may also employ third party cookies from our advertisers. These cookies do not store sensitive information such as contact details.
+We may also employ third party vendors, including Google to show our ads on sites on the internet and to use cookies to serve ads based on a user's prior visits to our website. These cookies do not store sensitive information such as contact details. At any time, users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html) or the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+From time to time, we may also use Remarketing Dynamic Ads which use the Teracent cookie. Users may opt out of the Teracent cookie by visiting the [Teracent opt-out page](http://www.teracent.com/about-us/opt-out).
 
 If you do not want your personal information to be stored by cookies, you can configure your browser so that it notifies you whenever a cookie is received so you can decide each time if you accept them or not. However, the use of cookies may be necessary to provide certain features and choosing to reject cookies may reduce the functionality of the site. Your browser help should include precise instructions explaining how to define the acceptance of cookies.
 
@@ -87,6 +89,6 @@ This site gives users the following options for removing their information from 
 
 If you have any questions or comments about this privacy statement, the practices of our sites, or your dealings with any of our websites, you can contact support@pchelpsoft.com
 
-_Last modified: April 14, 2010_
+_Last modified: May 13, 2011_
 
 **Your Computer. Only Faster...** Safely Optimize Your Windows PC or Laptop _Automatically!_
