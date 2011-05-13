@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lukiegames.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228032628id_/http%3A//www.lukiegames.com/Privacy_df_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lukiegames.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514002455id_/http%3A//lukiegames.com/Privacy_df_1.html) for the most accurate reproduction.*
 
 # Privacy
 
