@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationalcoloringpages.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123112249id_/http%3A//www.educationalcoloringpages.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationalcoloringpages.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513204946id_/http%3A//www.educationalcoloringpages.com/pp.html) for the most accurate reproduction.*
 
 # Educational coloring pages privacy policy
 
@@ -65,15 +65,9 @@ Furthermore we will take reasonable steps to destroy or permanently de-identify 
 
 We will use reasonable efforts to protect customers’ personal information. 
 
-**7.Access to Personal Information**
+**7.Third-party Advertising**
 
-If is not able to provide access to some aspect of a customer’s personal information, we will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is confidential commercial information or attorney–client privileged communications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual.
-
-Customers have the right to request that inaccurate or incomplete information be amended as appropriate, by contacting or the Privacy Officer as described above.  We will promptly correct such personal information. 
-
-This information is your personal information and we will not disclose, leverage or sell this information to any other organisation under any circumstances, without prior permission, unless that information is absolutely necessary, for third parties that are involved in the processing of your order and are contracted to us to keep the information confidential or are required to comply with all relevant laws including the Privacy Act. Other ways we collect and use your personal information are to: 
-
-If required by law or to enforce, protect or apply rights, we may release personal information as required. .
+We allow third-party companies to serve ads and/or collect certain anonymousinformation when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information,browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioural advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org. 
 
 **8.Links to External Sites**
 
