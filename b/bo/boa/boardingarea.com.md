@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardingarea.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120061401id_/http%3A//www.boardingarea.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardingarea.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514001341id_/http%3A//boardingarea.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Boarding Area - Voices of the Business Traveler
 
