@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullscreensavers.com privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110211435id_/http%3A//www.fullscreensavers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullscreensavers.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513065756id_/http%3A//www.fullscreensavers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FullScreensavers.com
 
