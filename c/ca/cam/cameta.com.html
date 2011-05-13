@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cameta.com privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224133048id_/http%3A//www.cameta.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cameta.com privacy policy that was archived on 2011-05-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110513064700id_/http%3A//www.cameta.com/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -16,8 +16,8 @@
 <link href="/inc/cameta.css" rel="stylesheet" type="text/css" media="print">
 <link href="/inc/cametaprint.css" rel="stylesheet" type="text/css" media="print">
 
-<link href="/inc/cameta2_v8.css" rel="stylesheet" type="text/css" media="screen">
-<link href="/inc/cameta2_v8.css" rel="stylesheet" type="text/css" media="print">
+<link href="/inc/cameta2_v10.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/inc/cameta2_v10.css" rel="stylesheet" type="text/css" media="print">
 
 
 <link href="/inc/CMS.css" rel="stylesheet" type="text/css" media="screen">
@@ -50,21 +50,29 @@ var WRInitTime=(new Date()).getTime();
 	<div id="searcharea">
 	<form name="formsearch" method="post" action="/index.cfm?fa=display.search" style="margin:0px;">
 	<input id="searchused" type="Checkbox" name="used" value="1">
-	<div id="searchusedtext"><label for="searchused">Search Used Only</label></div>
+	<div id="searchusedtext"><label for="searchused">Search<br>Used Only</label></div>
 	<input id="searchinput" type="Text" name="keywords">
-	<input id="searchgo" type="Image" src="/imag2/go.jpg" alt="Go!" width="35" height="47" onmouseover="this.src='/imag2/go_over.jpg'" onmouseout="this.src='/imag2/go.jpg'" onclick="this.blur(); if (trim(document.formsearch.keywords.value)=='') {alert('Please enter keywords to search for'); document.formsearch.keywords.value=''; document.formsearch.keywords.focus(); return false;}">
-	<img src="/imag2/go_over.jpg" class="preload" width="1" height="1" alt="Go!" border="0">
+	<input id="searchgo" type="Image" src="/imag2/SEARCH_BUTTON.jpg" alt="Search" width="63" height="26" onmouseover="this.src='/imag2/SEARCH_BUTTON_OVER.jpg'" onmouseout="this.src='/imag2/SEARCH_BUTTON.jpg'" onclick="this.blur(); if (trim(document.formsearch.keywords.value)=='') {alert('Please enter keywords to search for'); document.formsearch.keywords.value=''; document.formsearch.keywords.focus(); return false;}">
+	<img src="/imag2/SEARCH_BUTTON_OVER.jpg" class="preload" width="1" height="1" alt="Go!" border="0">
 	</form>
 	</div>
 
-	<div class="cssnav navdigcam"><a href="/digital-cameras.cfm"><img src="/imag2/TAB_DIGITALCAMERAS.jpg" alt="Digital Cameras"></a></div>
-	<div class="cssnav navlens"><a href="/digital-camera-lenses.cfm"><img src="/imag2/TAB_LENSES.jpg" alt="Lenses"></a></div>
-	<div class="cssnav navflash"><a href="/camera-flashes.cfm"><img src="/imag2/TAB_FLASHES.jpg" alt="Flashes"></a></div>
-	<div class="cssnav navbags"><a href="/camera-cases.cfm"><img src="/imag2/TAB_BAGSCASES.jpg" alt="Bags &amp; Cases"></a></div>
-	<div class="cssnav navacc"><a href="/camera-accessories.cfm"><img src="/imag2/TAB_ACCESSORIES.jpg" alt="Accessories"></a></div>
-	<div class="cssnav navused"><a href="/index.cfm/fa:display.showused/"><img src="/imag2/TAB_USED.jpg" alt="Used"></a></div>
-	<div class="cssnav navmore"><a href="/more-categories.cfm"><img src="/imag2/TAB_MORE.jpg" alt="More"></a></div>
+	<div class="cssnav navdigcam"><a href="/digital-cameras.cfm"><img src="/imag2/TABS_CAMERAS.jpg" alt="Digital Cameras"></a></div>
+	<div class="cssnav navlens"><a href="/digital-camera-lenses.cfm"><img src="/imag2/TABS_LENSES.jpg" alt="Lenses"></a></div>
+	<div class="cssnav navflash"><a href="/camera-flashes.cfm"><img src="/imag2/TABS_FLASHES.jpg" alt="Flashes"></a></div>
+	<div class="cssnav navcases"><a href="/camera-cases.cfm"><img src="/imag2/TABS_CASES.jpg" alt="Cases"></a></div>
+	<div class="cssnav navacc"><a href="/camera-accessories.cfm"><img src="/imag2/TABS_ACCESS.jpg" alt="Accessories"></a></div>
+	<div class="cssnav navcamcord"><a href="/camcorders.cfm"><img src="/imag2/TABS_CAMCORDERS.jpg" alt="Camcorders"></a></div>
+	<div class="cssnav navmore"><a href="/more-categories.cfm"><img src="/imag2/TABS_MORE.jpg" alt="More"></a></div>
+	<div class="cssnav navrefurb"><a href="/refurbished.cfm"><img src="/imag2/TABS_REFURB.jpg" alt="Refurbished"></a></div>
+	
+	<div class="cssnav navused"><a href="/used-equipment.cfm"><img src="/imag2/TABS_USED.jpg" alt="Used"></a></div>
 </div>
+
+
+
+
+	
 
 
 
@@ -101,9 +109,12 @@ var WRInitTime=(new Date()).getTime();
 		<tr><td><a href="/camera-flashes.cfm">Flashes</a></td></tr>
 		<tr><td><a href="/camera-cases.cfm">Bags &amp; Cases</a></td></tr>
 		<tr><td><a href="/camera-accessories.cfm">Photo Accessories</a></td></tr>
-		<tr><td><a href="/index.cfm/fa:display.showused/">Used Equipment</a></td></tr>
-		<tr><td><a href="/special_offers.cfm"><span style="position:relative;"><img src="/imag2/holiday_button.jpg" style="position:absolute; top:-4px; left:-15px;" width="151" height="23" alt="Holiday Specials" border="0" onmouseover="this.src='/imag2/holiday_button_over.jpg'" onmouseout="this.src='/imag2/holiday_button.jpg'" onclick="this.blur();"></span></a></td></tr>
+		<tr><td><a href="/camcorders.cfm">Camcorders</a></td></tr>
 		<tr><td><a href="/more-categories.cfm">More Categories...</a></td></tr>
+		<tr><td><a href="/refurbished.cfm">Refurbished</a></td></tr>
+		<tr><td><a href="/used-equipment.cfm">Used Equipment</a></td></tr>
+		
+		<tr><td><a href="/special_offers.cfm"><span style="position:relative;"><img src="/imag2/holiday_button.jpg" style="position:absolute; top:-4px; left:-15px;" width="151" height="23" alt="Holiday Specials" border="0" onmouseover="this.src='/imag2/holiday_button_over.jpg'" onmouseout="this.src='/imag2/holiday_button.jpg'" onclick="this.blur();"></span></a></td></tr>
 		<tr><td class="shopmenubottom"><img src="/images/s.gif" width="1" height="1" alt="" border="0"></td></tr>
 		</tbody></table>
 	
@@ -167,7 +178,9 @@ var WRInitTime=(new Date()).getTime();
 
 	
 	
+	
 	<div id="mainbody">
+	
 	
 
 
@@ -382,7 +395,7 @@ var WRInitTime=(new Date()).getTime();
 	</div>
 	<div id="copyright">
 		<div class="left"><img src="/imag2/footer_left.jpg" width="9" height="9" alt="" border="0"></div>
-		<div class="text">© 2006 - 2010 <a href="/">Cameta Camera Digital Camera Store</a>. All rights reserved.</div>
+		<div class="text">© 2006 - 2011 <a href="/">Cameta Camera Digital Camera Store</a>. All rights reserved.</div>
 		<div class="right"><img src="/imag2/footer_right.jpg" width="9" height="9" alt="" border="0"></div>
 	</div> 
 </div>
@@ -420,7 +433,7 @@ if(typeof ClickTale=='function') ClickTale(10488,1,"www03");
 
 
 <script type="text/javascript">
-document.cookie = "test={ts '2010-12-24 08:30:23'}";
+document.cookie = "test={ts '2011-05-13 02:46:54'}";
 </script>
 
 
