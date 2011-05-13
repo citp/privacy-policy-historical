@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestdjmix.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225022056id_/http%3A//www.bestdjmix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdjmix.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513151532id_/http%3A//www.bestdjmix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Best Dj Mix | Download Full Albums for Free
+# Privacy Policy | Best Dj Mix | Download Full Music Albums for Free
 
 **Your Privacy**  
 _www.bestdjmix.com_ is committed to protecting your privacy. _www.bestdjmix.com_ does not sell, trade or rent your personal information to other companies. _www.bestdjmix.com_ will not collect any personal information about you except when you specifically and knowingly provide such information.  
