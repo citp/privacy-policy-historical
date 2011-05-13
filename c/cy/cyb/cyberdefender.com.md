@@ -1,58 +1,107 @@
-> *The following text is extracted and transformed from the cyberdefender.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509081220id_/http%3A//www.cyberdefender.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberdefender.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513193431id_/http%3A//www.cyberdefender.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Spyware Removal & Virus Removal and Protection from CyberDefender: free virus scan and anti-spyware download
+# CyberDefender.com - Internet Security Software, PC Utilities, and Live PC Support Services
 
-Last update: November 1, 2005
+CyberDefender Corporation ("CyberDefender") has adopted this Privacy Policy (the "Policy") to address customers' concerns about privacy and personal information. It applies both to personal identifying information and to other information. Personal identifying information ("PII") is information that is recorded in any form, is about you or pertains to you, and can be connected to you. It includes your name, telephone number, email address, billing address, driver's license number, credit card account information, and social security number. CyberDefender maintains the confidentiality of your PII and only CyberDefender and certain persons and entities working for and with CyberDefender to conduct business with you have access to it. Other information, which is described in more detail below, is information that cannot reasonably be used to identify you, and may be provided by CyberDefender to others for limited purposes.
 
-CyberDefender.com collects personal information when you register or fill out any forms on our site. Because CyberDefender.com wants to demonstrate its commitment to your privacy, we have agreed to disclose its information practices. Customers may wish to compare our privacy practices with organizations such as TRUSTe. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. CyberDefender is not a licensee of TRUSTe's privacy program but is committed to complying with TRUSTe's policies and practices. 
+You may find it helpful to compare our Policy with guidelines issued by organizations such as TRUSTe. TRUSTe is an independent, non-profit organization whose stated mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. CyberDefender is not a licensee of TRUSTe's privacy program, but we are committed to complying with TRUSTe's guidelines.
 
-If you have questions or concerns regarding this statement, you should contact CyberDefender.com Privacy Information Department by emailing [privacy@CyberDefender.com](mailto:privacy@CyberDefender.com), by calling (213) 689-8631, or by sending a letter to the CyberDefender.com Privacy Information Department at 617 West 7th Street, Suite 401 , Los Angeles, CA 90017. 
+If you have questions or concerns regarding the Policy, please contact the CyberDefender.com Privacy Information Department by emailing [privacy@cyberdefender.com](mailto:privacy@CyberDefender.com), by calling (888) 427-9359, or by sending a letter to the CyberDefender.com Privacy Information Department at 617 West 7th Street, Suite 1000, Los Angeles, CA 90017.
 
-CyberDefender.com is vigilant about protecting your data and personal privacy. This statement describes the following: 
+CyberDefender voluntarily complies with the requirements of the Safe Harbor framework in connection with the transfer to the United States of PII from countries which are members of the European Union ("EU"). As a result, PII provided by residents of countries which are members of the EU will be subject to the Safe Harbor Principles published by the United States Department of Commerce ("the Safe Harbor Principles"). The Principles can be found at <http://www.export.gov/safeharbor>.
 
-  * What information we collect from visitors to our website
-  * How CyberDefender.com uses the information we collect
-  * How and with whom the information is shared
-  * How you can opt-in to or opt-out of information collection and use of the information
-  * Our policy on correcting and updating personal identifier information.
+The Policy describes the following:
 
-
-
-CyberDefender.com collects information such as your name, email address, zip code, credit card information and other personal information to contact you, verify your identity, and confirm receipt of your purchases ("Account Information"). CyberDefender.com does not collect such information as your social security number, email passwords, or driver's license number. 
-
-If you do not wish to have your credit card number stored, please contact Customer Support. We also receive from you certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses www.CyberDefender.com. More information about CyberDefender.com use of "cookies" is discussed below. CyberDefender.com also automatically receives and records information provided by you on our server logs including information obtained from your browser, including your IP address and the page(s) you request. 
-
-In order to tailor our communications to you in the future as well as improve our products and services we may also ask you to provide us with consumer satisfaction information and other data regarding your personal or professional interests, experience with our products, and more detailed contact preferences. You always have the option of choosing not to provide us with this type of information. 
-
-  * Your Account Information is password-protected. In certain areas, CyberDefender.com uses industry-standard SSL-encryption to protect data transmissions of your Account Information to verify your purchase(s).
-  * If we are asked by court order to provide Account Information on a specific user - we may do so.
+  * The PII you provide in connection with your purchase of CyberDefender licenses, products and services
+  * Other information we collect as the result of your use of the CyberDefender websites, including [www.cyberdefender.com](http://www.cyberdefender.com/), [www.spywarefordummies.com](http://www.spywarefordummies.com/), [www.maxmyspeed.com](http://www.maxmyspeed.com/), [www.doublemyspeed.com](http://www.doublemyspeed.com/), and [www.mycleanpc.com](http://www.mycleanpc.com/) (collectively, "the Websites")
+  * How we use the information we collect
+  * How and with whom we share the information
+  * How you can opt in or opt out of information collection
+  * Your ability to access, correct, update and delete your PII
 
 
 
-CyberDefender.com uses your information to complete your product transaction, to better understand your needs and provide you with excellent service and assistance. Specifically, we use your information to help you complete a transaction, including fulfillment of orders and promotional offers, to communicate back to you, to update you on service and benefits, to personalize our Web sites for you, to manage and renew your subscription(s) and to resolve customer issues with our products and services. Credit card numbers are used only for payment processing and fraud protection, and are not used for other purposes without your permission. 
+In order to open an account with us and to purchase software licenses and technical support services, CyberDefender will collect information including your name, email address, the password to your computer in the event you purchase certain technical support services, telephone number, billing address, and credit or debit card account or electronic funds transfer information. CyberDefender does not collect your driver's license number and collects your social security number only if you elect to provide it in connection with a purchase of the CyberDefender Identity Protection Service.
 
-CyberDefender.com does not sell, rent or share your Account Information with third parties. If you provide us with your email address when you register as a customer or make a purchase from us, we may occasionally send you email with recommendations or notices of new products, prices, and services. Unless you opt out, we may use your registration name and email address to send you promotional materials from CyberDefender that we think may interest you. At the time you register or make a purchase, you will be given the opportunity to opt into or out of this service. If you do not initially choose to opt out, you may still block future email of this type, simply by following the unsubscribe instructions that accompany all such communications. 
+We also collect other information from you when you communicate with us electronically. Like many websites, we use "cookies" to obtain certain information when your Web browser accesses our Websites. Our Websites also automatically receive and record on our server logs information from your browser. More information about our use of cookies and log files appears below.
 
-Separately, we send service notifications via email to keep you informed about the status of your service orders or accounts and to provide updates and technical notices. These messages are essential to the maintenance of your subscription and the functionality of our services. Therefore there is no opt-out available for service notifications and these messages cannot be blocked. 
+The information gathered by means of cookies and log files consists of your Internet address (Internet Protocol Address), a referring URL (the web site that you to visit our Websites), your browser type, and information about the length of time you devoted to visiting our Websites. It does not include PII.
 
-We follow strict best practices for email marketing and customer contact. For more information on our practices, please see "Use of Data." For advertising purposes, visitor and customer information is statistically aggregated and reported to advertisers. However, we do not disclose to these entities any information that could be used to personally identify you, such as your name, email address, account, password, or transaction history. 
+We also may collect (with your authorization) the following information about your computer:
 
-CyberDefender.com contains links to other Web sites that are not owned or operated by CyberDefender.com. As such, CyberDefender.com does not accept liability for misuse of any information by any Web site to which we may link. Please read the privacy statements of these linked sites, as their privacy policies may differ from ours. 
+  * Technical information about the basic configuration and operation of your computer, including operating system version, processor type, disk space, memory space, and number of drivers 
+  * Information about CyberDefender Software on your computer, including the version and when it was installed and upgraded
+  * Certain events that occur on your computer, including when CyberDefender Software is installed, when CyberDefender software receives threat updates, and when errors occur in CyberDefender Software
 
-CyberDefender.com uses software tags called "cookies" to identify customers when they visit our site. Cookies remember user preferences and allow us to tailor our services to the customers needs. Additionally, cookies help us identify returning users to CyberDefender.com so that we do not have to ask them to enter their email and password with every visit. The information we collect with cookies is not sold, rented, or shared with any outside parties. We also ask that you fill in your first name and last name in a box so that our customer support services can identify and assist you in case of login problems or other issues related to your purchases. We cannot provide subscription services to users who do not give their consent to the data processing carried out through cookies or whose browsers are set to reject all cookies. 
 
-CyberDefender.com maintains log files of visitors to our site. Any information gathered in these log files is not linked personally identifying information. Log files manage traffic load in order to provide reliable service to visitors and customers. Information that is collected and maintained in the log files includes IP addresses and browser types. 
 
-We collect user feedback, and from this feedback we derive user testimonials that appear on the site from our feedback form. These testimonials are used only after we have informed and obtained permission from the sender of the testimonial. 
+This information is sent only to CyberDefender with your approval, and it is stored in an anonymous form that cannot be used to identify you. By way of explanation, although CyberDefender knows, based on the information, that there is a customer with a certain kind of computer that is performing certain functions, CyberDefender does not know the customer's identity. In the event that it is necessary for CyberDefender to learn your identity in order to diagnose certain kinds of problems or to monitor your computer for certain events, you will be asked to authorize CyberDefender to collect the additional information. You can make your selection as to whether CyberDefender may collect this additional information before the software is installed or buy using a control panel included in the software. You can change your selection concerning this feature by using the control panel.
 
-CyberDefender.com customers can access, update, correct, or delete the personal information held by CyberDefender.com by contacting CyberDefender Privacy Information Department at [privacy@CyberDefender.com](mailto:privacy@CyberDefender.com). 
+We do not sell or otherwise provide any of this information to third parties and use it only to improve our products and offer better service to our customers. 
 
-All information gathered on the site is stored and maintained in secure facilities that limit access to authorized personnel only. The CyberDefender web sites are regularly tested for security breaches to ensure that all information collected is secure from unauthorized viewing. Personal information on our customers is protected in transit via HTTPS and SSL security. Credit card information has multiple layers of security, including encryption in storage and SSL in transit. 
+For a complete list of the information we may collect, click [here](https://web.archive.org/web/20110513193431id_/http%3A//www.cyberdefender.com/012111_Client_Information_List.pdf).
 
-CyberDefender.com will keep personal information of its users for as long as they are registered subscribers or users of our products, and for a reasonable time thereafter. 
+In order to personalize our communications with you and to improve our products and services, we also may ask you to provide consumer satisfaction information and other information regarding your personal and professional interests, your experience with our products and services, and additional contact information. You have the option of choosing not to provide the information.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
+CyberDefender uses the information we collect from you to conduct business with you and to understand your interests and requirements so that we can provide the products and services you want. Specifically, we use your PII in connection with fulfillment of orders, to complete payments made by you with your credit or debit card; to manage your account, to renew your subscription(s), to make offers and promotions, to provide information about our products and services that we believe will be important to you, and to help us address any concerns you may have about our products and services. We use your credit or debit card account or electronic funds transfer information only for payment processing and fraud protection, and not for any other purpose.
 
-If we make a material (non-editorial) change to our privacy policy, we will post a notice on our site so our users are aware of the change. If we make a significant change to the way we use, treat or disclose personal information, we will notify users by email. 
+We employ contractors in our business, including persons who work from time to time in our call centers. The contractors may collect PII from you in the same manner and to the same extent that CyberDefender collects PII from you. The contractors are required, pursuant to agreements they enter into with us, to maintain the security and confidentiality of your PII.
 
-CyberDefender.com is compliant with the CAN-SPAM Act (Public Law 108-187) and is committed to following all aspects of this law. 
+We have business relationships with certain entities that provide services in connection with our business, such as credit and debit card payment processing, and that require access to your PII. Your PII will be provided to them in accordance with the provisions of this Privacy Policy unless we, or they, inform you otherwise and obtain your consent. It is possible that they may provide to CyberDefender certain PII relating to you. In that event, we will handle the PII in accordance with the terms of this Privacy Policy. 
+
+We also provide certain information to advertisers and marketers. The information we provide is aggregated before we provide it to advertisers and marketers, and it does not include PII.
+
+If you provide us with your email address when you register as a customer or make a purchase from us, and you do not opt out, we occasionally may send you email with information, recommendations and promotional information about our products and services. At the time you register or make a purchase, you will be given the opportunity to opt into or opt out of this service. If you do not initially choose to opt out, you may still block certain emails from us simply by following the "unsubscribe" instructions that accompany all communications. In addition, we send service and notifications by email to keep you informed about the status of your service orders and account, and to provide updates and technical notices. Some of these communications are required by law, such as communications regarding the automatic renewal of licenses and services you have purchased. Other communications are essential to the management of your account and the continuing functionality of our products and services, and therefore an opt-out option is not available and the communications cannot be blocked.
+
+By purchasing our licenses and services, and by visiting our Websites, you consent to the collection, use and disclosure of your PII and other information by CyberDefender, its officers, directors, and employees, and CyberDefender's agents and contractors, as set forth in this Policy. 
+
+The following applies to residents of countries which are members of the European Union ("EU") and other countries. Your PII will be transferred outside the EU and outside the country of your residence, and will be examined, processed and stored in the United States. As a result, third parties, including governments, courts and law enforcement and regulatory agencies, may be able to gain access to your PII under applicable United States laws. By purchasing our licenses, products and services, and by visiting our Websites, you consent to the transfer of your PII outside the EU and your country of residence.
+
+CyberDefender's Websites contain links to other websites that are not owned, operated or controlled by CyberDefender. The links are provided solely for your convenience, and CyberDefender does not endorse the websites or their content. As a result, CyberDefender is not responsible for the manner in which the websites are operated or for the information they provide. It is important to read carefully the privacy policies of the websites, because they may differ materially from ours.
+
+Cookies are unique text files that websites can send to browser software. CyberDefender uses cookies to identify customers and personalize web pages when customers visit our Websites, to record customers' preferences, and to allow us to consider customers' interests and requirements in connection with developing and offering our products and services. CyberDefender also may use cookies to monitor your visits to our Websites in order to collect aggregate information which is not PII. In addition, cookies enable returning visitors to visit our Websites without providing their email addresses and passwords in connection with every visit. 
+
+**_The information we collect with cookies is not sold, rented, or shared with any third parties, and is used solely for analytical purposes. Because of the manner in which we conduct our business, we cannot provide subscription services to potential customers who do not consent our use of cookies or whose browsers are set to reject cookies._**
+
+CyberDefender also maintains log files of visitors to our Websites. Log files allow us to manage traffic to our Websites in order that we may provide reliable service to customers and visitors.
+
+The information gathered by means of cookies and log files – your Internet address, the Internet address from which you visited our Websites, your browser type, and information about the length of time you devoted to visiting our Websites – is aggregate information and does not include PII.
+
+We solicit customers' comments and suggestions about our products and services and, on occasion, we use that information to develop customer's testimonials that we use in connection with our advertising and marketing. Testimonials are developed only after we have obtained permission of the person providing the information. 
+
+You can access, update or correct your information by contacting CyberDefender Privacy Information Department at [privacy@cyberdefender.com](mailto:privacy@CyberDefender.com)
+
+All information gathered on our Websites is stored and maintained in secure facilities and access is limited to authorized personnel. Our Websites regularly are subjected to security tests, and we make our best efforts to attempt to ensure that all information collected is secure. PII is protected during communication by HTTPS and SSL security. Credit and debit card account information has multiple layers of security, including encryption in storage and SSL during communication.
+
+It is not possible to eliminate fully security risks associated with electronic communications. In the event that CyberDefender learns of a breach of security that involves your PII, CyberDefender will notify you as required pursuant to applicable law.
+
+CyberDefender retains your PII for as long as you are a registered subscriber or user of our products and services, and for a reasonable time thereafter.
+
+CyberDefender maintains the confidentiality of your PII and other information and will not disclose it to third parties except as set forth in this Policy. However, confidentiality does not apply to information: (1) that is publicly available; (2) as to which you consent to disclosure; (3) when disclosure is in connection with the sale of all or part of our business; or (4) when disclosure is necessary for CyberDefender or its officers, directors, employees, agents and contractors to enforce their legal rights pursuant to applicable law.
+
+**_In addition, CyberDefender reserves the right, in its sole and absolute discretion, at any time, and without notice, to you to disclose to third parties, including law enforcement authorities, any of your information, including PII, that CyberDefender deems appropriate to: (a) comply with any applicable law or regulation, legal process, or governmental request; or (b) prevent possible harm or injury to any person or damage to any property._**
+
+If we make material (non-editorial) changes to the Policy, we will post information about the changes on our Websites.
+
+As a Better Business Bureau ("BBB") Accredited Business, CyberDefender is committed to complying with the BBB's Code of Business Conduct, including the requirement to protect your privacy. Detailed information is available at <http://www.bbb.org/us/Business-Accredidation/>. Complaints may be addressed to the BBB at <http://www.bbb.org/us/Business-Complaints/>.
+
+In the United States, privacy complaints should be addressed in the first instance to CyberDefender at [privacy@cyberdefender.com](mailto:privacy@CyberDefender.com). Complaints then should be addressed to the BBB at <http://www.bbb.org/us/Business-Complaints/>.
+
+Pursuant to the Safe Harbor Principles, CyberDefender will attempt to resolve privacy complaints made by residents of the EU. Complaints should be addressed in the first instance to CyberDefender at:
+
+CyberDefender Corporation  
+617 West 7th Street  
+Suite 1000  
+Los Angeles, CA 90017  
+Attention: Privacy  
+Email: [privacy@cyberdefender.com](mailto:privacy@CyberDefender.com)
+
+Pursuant to the Safe Harbor Principles, CyberDefender will refer unresolved complaints to the BBB EU Safe Harbor, an independent dispute resolution entity. The BBB EU Safe Harbor may be contacted at:
+
+Council of Better Business Bureaus, Inc.  
+4200 Wilson Boulevard  
+Suite 800  
+Arlington, VA 22203  
+Phone: 703-276-0100  
+Web: [www.us.bbb.org](http://www.us.bbb.org/)  
+Email: [safeharbor@council.bbb.org](mailto:safeharbor@council.bbb.org)
