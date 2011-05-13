@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipesource.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127053104id_/http%3A//www.recipesource.com/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipesource.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513231351id_/http%3A//recipesource.com/admin/privacy.html) for the most accurate reproduction.*
 
 # RecipeSource: Our Site and Your Privacy
 
@@ -32,3 +32,6 @@ For information about Amazon.com's privacy policies and how to opt out of their 
 Most of the recipes on our site came from Internet mailing lists, Usenet news groups, or user submissions. We have recorded the name and/or e-mail address of the original sender we got the recipe from, but currently do not display that on our site to prevent exposing those senders to more spam. We may do so in the future if we feel we can do so in a safe manner.
 
 Some of the recipe texts may include names, e-mail addresses, or other comments that contain information about the submitter, author, or other persons involved in the preparation and posting of the recipes. If you wish to have any such information removed from the pages on our site, simply send us e-mail at [recipes @ recipesource.com](mailto:recipes@recipesource.com).
+
+  
+
