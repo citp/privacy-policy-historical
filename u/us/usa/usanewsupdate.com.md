@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usanewsupdate.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225143329id_/http%3A//usanewsupdate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usanewsupdate.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514003048id_/http%3A//usanewsupdate.com/privacy-policy) for the most accurate reproduction.*
 
 # Www.80.scn - 876ec01acd904eac52bd9b7d095590 - PRIVACY POLICY | USA NEWS UPDATE
 
