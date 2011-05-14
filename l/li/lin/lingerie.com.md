@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lingerie.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506070619id_/http%3A//www.lingerie.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lingerie.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514203508id_/http%3A//www.lingerie.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
