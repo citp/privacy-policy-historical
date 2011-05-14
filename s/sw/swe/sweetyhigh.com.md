@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetyhigh.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206224137id_/http%3A//www.sweetyhigh.com/static/landing%3Fname%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetyhigh.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514032557id_/http%3A//sweetyhigh.com/static/landing%3Fname%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Sweety High - Privacy Policy
 
