@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woondu.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201095111id_/http%3A//woondu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woondu.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514045932id_/http%3A//woondu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Woondu
 
