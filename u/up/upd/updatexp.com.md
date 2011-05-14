@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updatexp.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126122729id_/http%3A//www.marcliron.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updatexp.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514232339id_/http%3A//www.marcliron.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -39,4 +39,4 @@ LINCOLN
 LN5 5BD  
 United Kingdom**
 
-Any further questions please contact me via the [contact page](https://web.archive.org/web/20101126122729id_/http%3A//www.marcliron.com/contact.html).
+Any further questions please contact me via the [contact page](https://web.archive.org/web/20110514232339id_/http%3A//www.marcliron.com/contact.html).
