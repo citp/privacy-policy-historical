@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customermagnetism.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205084105id_/http%3A//www.customermagnetism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customermagnetism.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514100314id_/http%3A//www.customermagnetism.com/privacy-policy) for the most accurate reproduction.*
 
 # Customer Magnetism Privacy Policy
 
@@ -23,3 +23,7 @@ Your Access to and Control Over Information You may opt out of any future contac
 
 
 If you aware of any abuse of this privacy policy, you should contact us immediately via telephone at 757-689-2875 or via email at [sales@trycm.com](mailto:sales@trycm.com).
+
+**GREAT IDEA: WATCH OUR VIDEO**
+
+[](http://vimeo.com/23279133)
