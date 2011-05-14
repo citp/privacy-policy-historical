@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the houmatoday.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516234909id_/http%3A//www.houmatoday.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houmatoday.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514041638id_/http%3A//www.houmatoday.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | HoumaToday.com | The Courier
+# privacypolicy | HoumaToday.com | The Courier
 
-This Privacy Policy discloses the privacy practices for The Courier newspaper and HoumaToday.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “The Courier” include HoumaToday.com and The Courier newspaper. The Courier is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
+This Privacy Policy discloses the privacy practices for The Courier newspaper and HoumaToday.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to "The Courier" include HoumaToday.com and The Courier newspaper. The Courier is part of The New York Times Regional Media Group ("NYTRMG") – a division of The New York Times Company.
 
 Third party sites that HoumaToday.com links to are governed by their own privacy policies. We are not responsible for the content or the privacy policies of those websites or other websites to which they link.
 
@@ -43,27 +43,44 @@ The Courier may collect personal information from readers in connection with vol
 
 ### Mobile Messaging Service
 
-We may elect to offer certain text messaging services (the “SMS Service”). We use the information collected from your interaction with the SMS Service solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed, except as required by law. We will not use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage: their practices are governed by their own privacy policies. 
+We may elect to offer certain text messaging services (the "SMS Service"). We use the information collected from your interaction with the SMS Service solely for the purposes of improving the SMS Service. The information will not be provided, sold, licensed, rented, assigned or disclosed, except as required by law. We will not use your phone number to initiate a call or SMS text message to you without your express prior consent. Your wireless carrier and other service providers also collect data about your SMS Service usage: their practices are governed by their own privacy policies. 
 
 The Courier collects the mobile phone number you use to send us a text message and the content of the messages sent between you and The Courier. When you send a text message to The Courier or via The Courier, we log the incoming phone number, the wireless provider associated with the number, and the date and time of the transaction. The only information we automatically collect is that related to the use of our Mobile Services. The Courier uses this data to analyze the message traffic in order to operate, develop and improve our SMS Service. 
 
-#### Aggregate Information Collected Through Technology
+#### Non-personally Identifiable Information
 
-### Cookies and Other Technologies
+### Information Collected by Us using Technology
 
-As is standard practice on many Web sites, The Courier uses “cookies” and other technologies to recognize you and provide personalization, as well as to help us understand which parts of our Web sites are the most popular, where our visitors are going and how much time they spend there. Users who do not accept cookies from the domain "HoumaToday.com" cannot access most areas of our sites.
+As is standard practice on many Web sites, we use “cookies”, Web Beacons and other similar technologies to recognize you and provide personalization, as well as to help us understand, where our visitors are going and how much time they spend there. You will not be able to access certain areas of our Web sites, including HoumaToday.com, if your computer does not accept cookies from us.
 
-We reserve the right to place a The Courier Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
+We reserve the right to place a HoumaToday.com cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
 
-For detailed information about our use of cookies, see the Frequently Asked Questions area of our Member Center.
+For more detailed information about our use of cookies, see the “[Cookies](https://web.archive.org/section/registrationfaq#cookies)” section on the [Registration FAQ](https://web.archive.org/section/registrationfaq).
 
-NYTRMG, of which we are a part, is currently using Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of HoumaToday.com is owned and used by The Courier or NYTRMG. The Courier reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html)
+### Information Collected by Third Parties using Technology
+
+Some of the services and/or advertisements on certain of our Web sites (including HoumaToday.com) are delivered or served by third-party companies that may place or recognize cookies or Web Beacon to track certain non-personally identifiable information about our Web site users. For example, in the course of serving certain advertisements, some advertisers may place or recognize a unique cookie on your browser, in order to collect certain non-personally identifiable information about your visits to our Web sites and other Web sites. In many cases, this information could be used to show you ads based on your interests on other Web sites.
+
+We do not have access to, nor control over, advertisers’ or service providers' cookies or how they may be used.
+
+You have choices about the collection of interest based information in this way:
+
+  1. If you would like more information about advertisers’ use of cookies, and about your option not to accept these cookies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+  2. If you would like to opt-out of having interest-based information collected during your visits to this or other sites, [click here](http://www.aboutads.info/choices/).
+
+
+
+Your access to our Web sites will not be affected if you do not accept cookies served by third parties.
+
+### Yahoo Ads
+
+Yahoo! is an ad network partner that displays ads on NYTRMG sites. To improve your ad experience on NYTRMG sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more about Yahoo!'s ad practices](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html), including how to opt out of using anonymous information to select which ads to show you.
+
+### Analytics Technologies
+
+NYTRMG, of which we are a part, is currently using Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of HoumaToday.com is owned and used by The Courier or NYTRMG. The Courier reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to <http://www.omniture.com/en/privacy/policy>
 
 We reserve the right to change the vendors who provide us with usage data.
-
-### Clear Gifs (Web Beacons/Web Bugs)
-
-Advertisers on HoumaToday.com may elect to use third party advertising companies to serve ads on our Web site, and in these instances may use a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs/action tags/pixel tags) to better manage advertising on our site. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. Clear gifs may ping or alert the advertiser's server about the online movements of Web users. For instance, advertisers may place a clear gif allowing them to recognize an existing cookie on your browser if from the same service. The main difference between cookies and clear gifs is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Please keep in mind, we do not have access to any information collected by these clear gifs nor additional information they may be tied to by the advertiser.
 
 ### IP Addresses
 
@@ -71,7 +88,7 @@ The Courier logs IP (Internet Protocol) addresses, or the location of your compu
 
 ### Log Files
 
-Log data is only used in aggregate to analyze usage of our Web.
+Log data is only used in aggregate to analyze usage of our Web site.
 
 ## What do we do with the information we gather about you?
 
@@ -93,11 +110,11 @@ We offer message boards for readers in a number of areas throughout our Web site
 
 ### E-Mail Newsletters
 
-If you choose to receive them, The Courier will periodically send you e-mail newsletters or promotional e-mail about services offered by The Courier and its advertisers. For details about The Courier e-mail, please see the next section, “What Is Our E-mail Policy?”.
+If you choose to receive them, The Courier will periodically send you e-mail newsletters or promotional e-mail about services offered by The Courier and its advertisers. For details about The Courier e-mail, please see the next section, "What Is Our E-mail Policy?".
 
 ## What is our e-mail policy?
 
-The Courier complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [ online@houmatoday.com](mailto:online@houmatoday.com). 
+The Courier complies fully with the federal CAN-SPAM Act of 2003. We will not share, sell, rent, swap or authorize any third party to use your e-mail address without your permission. If you feel you have received an e-mail from us in error, please contact [ online@houmatoday.com](mailto:%20%20online@houmatoday.com). 
 
 ### Account and Service-Related E-mail:
 
@@ -109,9 +126,9 @@ We offer e-mail newsletters. If you no longer wish to receive a specific newslet
 
 ### Promotional E-mail:
 
-If you chose to receive them during the registration process, we may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/section/manage/).
+If you chose to receive them during the registration process, we may periodically e-mail you messages about products and services that we think may be of interest to you. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/apps/pbcs.dll/section?category=manage&template=manage).
 
-From time to time, The Courier may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/section/manage/).
+From time to time, The Courier may obtain e-mail addresses from third party sources to be used for promotional e-mails. You can choose not to receive messages in the future by either (1) following the "unsubscribe" instructions located near the bottom of each e-mail, or (2) you can [opt-out](https://web.archive.org/apps/pbcs.dll/section?category=manage&template=manage).
 
 ### Survey E-mail:
 
@@ -129,19 +146,19 @@ HoumaToday.com readers may use this feature to send links to articles to others 
 
 If you have registered to one of our sites, The Courier will not sell, rent, swap or authorize any third party to use your e-mail address or any information that personally identifies you without your permission. We do, however, share information about our audience in aggregate form.
 
-If you are a print subscriber to The Courier and you subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may [opt-out](https://web.archive.org/section/manage/).
+If you are a print subscriber to The Courier and you subscribed either by mail, phone or online, we may exchange or rent your name and mailing address (but not your e-mail address) with other reputable companies that offer marketing information or products through direct mail. If you prefer that we do not share this information, you may [opt-out](https://web.archive.org/apps/pbcs.dll/section?category=manage&template=manage).
 
 ### Service Providers
 
 We contract with other companies to provide services on our behalf, including credit-card and billing processing, shipping, e-mail distribution, list processing and analytics or promotions management. We provide these companies only with the information they need to perform their services. These service providers are restricted from using this data in any way other than to provide services for The Courier, and they may not share or resell this data.
 
-We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the “Compliance with legal process” section of this policy.)
+We reserve the right to disclose your opt-out information to third parties so they can suppress your name from future solicitations, in accordance with applicable laws. We may occasionally release personal information as required by law, for example, to comply with a court order or subpoena. (For more information, see the "Compliance with legal process" section of this policy.)
 
 ## How do I change or update my personal information?
 
-Manage your HoumaToday.com account at Member Center: You may review and update your HoumaToday.com membership or account information and access your transaction history in the [Member Center](https://web.archive.org/section/manage/).
+Manage your HoumaToday.com account at Member Center: You may review and update your HoumaToday.com membership or account information and access your transaction history in the [Member Center](https://web.archive.org/apps/pbcs.dll/section?category=manage&template=manage).
 
-There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process, sign up for our e-mail newsletters and manage your home and email newsletter delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to enter your password. If you do not remember your password, you can reset your password. If you need further assistance, please contact Customer Service at 985-879-1557 or [ online@houmatoday.com](mailto:online@houmatoday.com). 
+There are a number of things you can do in the Member Center to ensure your personal information is accurate and up to date. For one, you can update the information you provided during the free registration process, sign up for our e-mail newsletters and manage your home and email newsletter delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to enter your password. If you do not remember your password, you can reset your password. If you need further assistance, please contact Customer Service at 985-879-1557 or [ online@houmatoday.com](mailto:%20%20online@houmatoday.com). 
 
 ## How do I opt-out from receiving promtional offers?
 
