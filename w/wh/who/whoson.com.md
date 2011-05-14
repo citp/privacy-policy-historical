@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whoson.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412193407id_/http%3A//www.whoson.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoson.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514191102id_/http%3A//www.whoson.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
