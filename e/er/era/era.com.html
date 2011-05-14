@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the era.com privacy policy that was archived on 2010-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100819023139id_/http%3A//www.era.com/eraresources/aboutera/privacypolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the era.com privacy policy that was archived on 2011-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110514084240id_/http%3A//www.era.com/eraresources/aboutera/privacypolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
    
@@ -11,18 +11,28 @@
     <title>Privacy Policy - ERA Real Estate</title> 
 
 
+
     <link href="/css/global.compressed.css" rel="stylesheet" type="text/css">
-    <link href="/css/layout.compressed.css" rel="stylesheet" type="text/css">
+    <link href="/css/layout2.1.compressed.css" rel="stylesheet" type="text/css">
+<!--[if IE 6]>
+    <link href="/css/layout2.1-ie6.compressed.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 7]>
+    <link href="/css/layout2.1-ie7.compressed.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if IE 8]>
+    <link href="/css/layout2.1-ie8.compressed.css" rel="stylesheet" type="text/css" />
+<![endif]-->
     <link href="/css/shared.compressed.css" rel="stylesheet" type="text/css">
     <link href="/css/sidebar.compressed.css" rel="stylesheet" type="text/css">
     <link href="/css/sfl/ERASlider.compressed.css" rel="stylesheet" type="text/css"> 
     <link href="/css/calloutboxes.compressed.css" rel="stylesheet" type="text/css"> 
     <link href="/css/forms.compressed.css" rel="stylesheet" type="text/css">
-
-   <link href="/css/content.compressed.css" rel="stylesheet" type="text/css">
-
-   <link href="/css/eraresources.compressed.css" rel="stylesheet" type="text/css">
-
+    
+       <link href="/css/content.compressed.css" rel="stylesheet" type="text/css">
+    
+       <link href="/css/eraresources.compressed.css" rel="stylesheet" type="text/css">
+    
 <!--[if IE 6]>
    <link href="/css/layout-ie6.compressed.css" rel="stylesheet" type="text/css" />
    <link href="/css/calloutboxes-ie6.compressed.css" rel="stylesheet" type="text/css" />
@@ -39,7 +49,9 @@
 	<script src="/js/sfl/ERASlider.compressed.js"></script>
 	<script src="/js/CyberAjaxQueue.compressed.js"></script>
    <script src="/js/SmoothMovement.compressed.js"></script>
-   <script src="/js/topnavigation.compressed.js"></script>
+   <script src="/jquery-ui-1.8.6.custom/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+   <script src="/js/topnavigation2.compressed.js"></script>
+   <script src="/js/login.compressed.js"></script>
 
 
    <meta name="WT.z_brandid" content="ERA">
@@ -56,6 +68,47 @@
 
 </head>
 <body>
+<div id="header">
+   <div id="logo">
+      <a href="/" title="ERA Real Estate"><img src="/images/homepage2/eralogo.jpg" width="65" height="69" alt="ERA Real Estate"></a>
+   </div>
+   <div id="header-sidebar">
+      <div id="member-login">
+         Member Login
+      </div>
+<!-- ShareThis.com integration??
+      <ul id="social-icons">
+         <li><span class="st_twitter"></span></li>
+         <li><span class="st_facebook"></span></li> 
+      </ul>
+      <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+      <script type="text/javascript">stLight.options({publisher:'239876d5-2531-4997-8e28-179eb9a58516'});</script>
+-->
+      <ul id="social-icons">
+         <li><a id="youtube-logo" target="_blank" href="http://www.youtube.com/era" title="Subscribe to the ERA YouTube Channel"></a></li>
+         <li><a id="fb-logo" target="_blank" href="http://www.facebook.com/ERArealestate" title="Like ERA on Facebook"></a></li>
+      	<li><a id="twit-logo" target="_blank" href="http://twitter.com/ASmarterERA" title="Follow ERA on Twitter"></a></li> 
+      </ul>
+      <div class="clear"></div>
+   </div>
+   <div id="login-box" class="hide">
+      <div class="top-arrow"></div>
+      <div id="login-fields">
+         <form action="/sfl/login.jsp" method="POST" id="sflloginform">
+            <input type="hidden" value="sfllogin" name="cyberformcontext">
+            <input type="hidden" value="login" name="cyberpagename">
+            <input type="hidden" value="/sfl/index.jsp" name="redirectpage">
+            <label class="label-1">Username</label><input class="input-1" type="text" name="email" id="sflemail" value="">
+            <label class="label-2">Password</label><input class="input-2" type="text" name="password" id="sflpassword" value=""><img src="/images/homepage2/loginbox-arrow-drk.gif" class="signin-btn" id="signin-btn" width="11" height="15" alt="Login">
+            <label class="label-3">
+               <a href="/sfl/forgotpassword.jsp">Forgot password</a>?<br>
+               Not a member? <a href="/sfl/join/">Sign up</a> now.
+            </label>
+            <div class="clear"></div>
+         </form>
+      </div>
+   </div>
+</div>
 <!-- Start Main Page Frame -->
 <div id="page_frame">
    <!-- Start Main Page Header -->
@@ -63,18 +116,20 @@
       <div id="page_tabframe">
          
 <ul>
-   <li id="page_tab_buy"><a href="/erabuy/" onmouseover="TopNav_OnMouseOver('buy');">Buy a Home</a></li>
-   <li id="page_tab_sell"><a href="/erasell/" onmouseover="TopNav_OnMouseOver('sell');">Sell a Home</a></li>
-   <li id="page_tab_specialmarkets"><a href="/eraspecialmarkets/" onmouseover="TopNav_OnMouseOver('specialmarkets');">Special Markets</a></li>
-   <li id="page_tab_worldwide"><a href="/eraworldwide/" onmouseover="TopNav_OnMouseOver('worldwide');">ERA Worldwide</a></li>
-   <li id="page_tab_mortgage"><a href="/eramortgage/" onmouseover="TopNav_OnMouseOver('mortgage');">ERA Mortgage</a></li>
-   <li class="active_pagetab" id="page_tab_resources"><a href="/eraresources/" onmouseover="TopNav_OnMouseOver('resources');">ERA Resources</a></li>
-   <li class="last" id="page_tab_contact"><a href="/eracontact/" onmouseover="TopNav_OnMouseOver('contact');">Contact Us</a></li>
+   <li id="page_tab_buy"><a href="/erabuy/" onmouseout="TopNav_OnMouseOut('buy');" onmouseover="TopNav_OnMouseOver('buy');">Buy a Home</a></li>
+   <li id="page_tab_sell"><a href="/erasell/" onmouseout="TopNav_OnMouseOut('sell');" onmouseover="TopNav_OnMouseOver('sell');">Sell a Home</a></li>
+   <li id="page_tab_mortgage"><a href="/eramortgage/" onmouseout="TopNav_OnMouseOut('mortgage');" onmouseover="TopNav_OnMouseOver('mortgage');">ERA Mortgage</a></li>
+   <li class="active_pagetab" id="page_tab_resources"><a href="/eraresources/" onmouseout="TopNav_OnMouseOut('resources');" onmouseover="TopNav_OnMouseOver('resources');">ERA Resources</a></li>
+   <li id="page_tab_specialmarkets"><a href="/eraspecialmarkets/" onmouseout="TopNav_OnMouseOut('specialmarkets');" onmouseover="TopNav_OnMouseOver('specialmarkets');">Special Markets</a></li>
+   <li id="page_tab_worldwide"><a href="/eraworldwide/" onmouseout="TopNav_OnMouseOut('worldwide');" onmouseover="TopNav_OnMouseOver('worldwide');">ERA Worldwide</a></li>
+   <li class="last" id="page_tab_contact"><a href="/eracontact/" onmouseout="TopNav_OnMouseOut('contact');" onmouseover="TopNav_OnMouseOver('contact');">Contact Us</a></li>
+   <li class="closer"><span>&nbsp;</span></li>
 </ul>
 
 
       </div>
-      <div id="page_subtabframe" fadeincolor="#2b3c5f"><ul><li style="position:relative;"><a href="/eraresources/">Resource Center</a></li><li style="position:relative;"><a href="/eraresources/tools/eraanswers.jsp">ERA Answers</a></li><li style="position:relative;"><a href="/eraresources/aboutera/joinerafamily.jsp">Career with ERA</a></li><li style="position:relative;"><a href="/eraresources/aboutera/">About ERA</a></li><li style="position:relative;"><a href="/eraresources/aboutera/newsroom.jsp">Newsroom</a></li><li style="position:relative;"><a href="/eraselectservices/">Select Services</a></li></ul></div>
+      <div id="page_subtabframe" fadeincolor="#FFFFFF"><ul><li style="position:relative;"><a href="/eraresources/">Resource Center</a></li><li style="position:relative;"><a href="/eraresources/tools/eraanswers.jsp">ERA Answers</a></li><li style="position:relative;"><a href="/eraresources/aboutera/joinerafamily.jsp">Career with ERA</a></li><li style="position:relative;"><a href="/eraresources/aboutera/">About ERA</a></li><li style="position:relative;"><a href="/eraresources/aboutera/newsroom.jsp">Newsroom</a></li><li style="position:relative;"><a href="/eraselectservices/">Select Services</a></li></ul></div>
+      <div id="topnavpointer" class="hide">&nbsp;</div>
    </div>
    <!-- End Main Page Header -->
    <!-- Start Main Page Seperator -->
@@ -469,7 +524,7 @@
        var oas_jx_pos = "x96";
        document.write("<scr" + "ipt language=\"JavaScript\" src=\"http://oascentral.realogy.com/RealMedia/ads/adstream_jx.ads/" + oas_jx_sitepage + "/1" + RNS + "@" + oas_jx_pos + '?' + OAS_query + "\"></scr" + "ipt>");
        // -->
-       </script><script language="JavaScript" src="http://oascentral.realogy.com/RealMedia/ads/adstream_jx.ads/era//1126641258@x96?"></script>. 
+       </script><script language="JavaScript" src="http://oascentral.realogy.com/RealMedia/ads/adstream_jx.ads/era//1105713692@x96?"></script>. 
    </div>
    <!-- End Bottom Links -->
    <div id="page_footer">
@@ -506,7 +561,7 @@
          <a href="/resort/">Resort</a>
          <a href="http://espanol.era.com/">Español.ERA.com</a>
          <a href="/military/">Military</a>
-         <a href="/nationaltrust/">Historic</a>
+         <!--<a href="/nationaltrust/">Historic</a>-->
          <!--<a href="/nationaltrust/">National Trust</a>-->
       </div>
 
@@ -535,12 +590,17 @@
 
       <div id="subpage_tab_contact">
          <a href="/erabuy/officeagentsearch.jsp">Office &amp; Agent Search</a>
-         <a href="/eracontact/general.jsp">Customer Support</a>
          <a href="/eracontact/career.jsp">Become a part of the ERA Team</a>
          <a href="https://www.teamera.com/">Login to TeamERA.com</a>
       </div>
 <script language="JavaScript">
-  TopNav_Init('resources');
+  if(typeof $ != 'undefined') {
+     $(function() {
+        TopNav_Init('resources');
+     });
+  } else {
+     TopNav_Init('resources');
+  }
 </script>
 
    </div>
