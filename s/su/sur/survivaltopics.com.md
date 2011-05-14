@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the survivaltopics.com privacy policy that was archived on 2008-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081211200025id_/http%3A//www.survivaltopics.com/survival/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivaltopics.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514221816id_/http%3A//www.survivaltopics.com/survival/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Like what you see? Join the [Survival Forums](http://www.survivaltopics.com/forums/) and learn even more!
-
-[More Articles Related to Etc](http://www.survivaltopics.com/survival/etc/)
 
 This is the web site of Survival Topics.
 
@@ -48,6 +44,8 @@ If you feel that this site is not following its stated information policy, you m
 Ron
 
 Site Owner, SurvivalTopics.com 
+
+Comment on the Survival Topics article " _Privacy Policy_ ". 
 
 You are welcome to share this Survival Topic with others. I only request that you use a short blurb (not the entire survival content) and this code to link to the origional:   
 
