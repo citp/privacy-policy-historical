@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essaydepot.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620010221id_/http%3A//www.essaydepot.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essaydepot.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515011402id_/http%3A//www.essaydepot.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - EssayDepot.com
 
@@ -38,7 +38,7 @@ This Privacy Policy applies to web sites, services and applications that are own
 
 * ### Acquisition
 
-We reserve the right to transfer your personal information in the event of a transfer of ownership of Paper Database, Inc., such as acquisition by or merger with another company. If such an acquisition will result in a material change to this privacy policy, you will be provided with notice and information about the choices you have before the transfer takes effect.
+We reserve the right to transfer your personal information in the event of a transfer of ownership of The Paper Database, Inc., such as acquisition by or merger with another company. If such an acquisition will result in a material change to this privacy policy, you will be provided with notice and information about the choices you have before the transfer takes effect.
 
 * ### Security
 
@@ -64,7 +64,7 @@ privacy@essaydepot.com
 
 EssayDepot.com  
 127 S. Brand Blvd., Suite 109  
-Glendale, CA 91204 - USA 
+Glendale, CA 91204 USA 
 * ### If You Are a Resident of California
 
 If you are a California resident, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of your personal information with third parties, for the third parties' direct marketing purposes. California law provides that you have the right to submit a request to us at the designated address and receive the following information:
@@ -78,7 +78,7 @@ If you are a California resident, in addition to the rights set forth above, you
 
 
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@essaydepot.com
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@essaydepot.com.
 
 * ### Changes
 
