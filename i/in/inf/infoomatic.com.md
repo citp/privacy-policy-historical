@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the infoomatic.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918103811id_/http%3A//www.infoomatic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoomatic.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514160342id_/http%3A//www.infoomatic.com/privacy-policy) for the most accurate reproduction.*
 
 # Read Privacy Policy of Infoomatic.com Blog | infoomatic
 
 ## Privacy Policy
 
- **What information do we collect?**  
+**What information do we collect?**  
 We collect information from you when you subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
  **What do we use your information for?**  
@@ -18,9 +18,11 @@ Yes (Cookies are small files that a site or its service provider transfers to yo
  **Do we disclose any information to outside parties?**  
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. Third party links Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. Online Privacy Policy Only This online privacy policy applies only to information collected through our website and not to information collected offline. Your Consent By using our site, you consent to our privacy policy. http://www.infoomatic.com/ Privacy Policy Created by Free Privacy Policy
 
-#### Incoming search terms:
+**Article by[infomaticness](http://www.infoomatic.com/author/infomaticness "Posts by infomaticness")** which has blogged 837 posts
 
- **[powered by SMF rights collection agencies](http://www.infoomatic.com/privacy-policy "powered by SMF rights collection agencies")** -
+ **Infomaticness** is just an alias. He is a Founder and chief-editor of InfooMatic.com - You can follow him on [Twitter.com/Infoomatic](http://twitter.com/infoomatic).
+
+InfooMatic.com is now a revenue sharing blog. Write for us to earn 100% money from your simple articles. **[READ HERE TO START!!](http://www.infoomatic.com/guest-blogging)** it's easy
 
 #### If You Like This Post, Share it With Your Friends & Peers
 
