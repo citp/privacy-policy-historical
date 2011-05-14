@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenmarks.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224054942id_/http%3A//www.tenmarks.com/privacy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenmarks.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514050718id_/http%3A//www.tenmarks.com/privacy.action) for the most accurate reproduction.*
 
 # TenMarks | Privacy Policy
 
@@ -116,5 +116,5 @@ TenMarks may amend this Privacy Policy from time to time. We may notify you by e
 contact:  
 The Privacy Officer  
 TenMarks, Education Inc.  
-38 Glen Avenue  
+46, Glen Avenue  
 Newton MA 02459 Or email us at: [privacy@TenMarks.com](mailto:privacy@tenmarks.com)
