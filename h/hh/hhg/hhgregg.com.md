@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hhgregg.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123205755id_/http%3A//www.hhgregg.com/privacyPolicy.asp%3FSID%3Dn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hhgregg.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514164317id_/http%3A//www.hhgregg.com/privacyPolicy.asp%3FSID%3Dn) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,5 +63,5 @@ Top of Page
 * * *
 
 **Contacting hhgregg or Modifying Your Personal Information**  
-If you have any questions or comments about this Policy, please [contact us](https://web.archive.org/web/20101123205755id_/http%3A//www.hhgregg.com/contactUs.asp?SID=n) by email. Please provide a concise communication with complete information, including your contact information.  
+If you have any questions or comments about this Policy, please [contact us](https://web.archive.org/web/20110514164317id_/http%3A//www.hhgregg.com/contactUs.asp?SID=n) by email. Please provide a concise communication with complete information, including your contact information.  
 Top of Page
