@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arena.wix.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202204856id_/http%3A//arena.wix.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arena.wix.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514131442id_/http%3A//arena.wix.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Wix Arena
 
@@ -67,4 +67,4 @@ Your use of Wix.com, and any disputes arising from it, is subject to this Privac
 
 ### 11\. Contacting the Web Site
 
-If you have any questions about this privacy policy, please contact us at privacy@Wix.com. You may also contact us by mail at 115 HaChashmonaim St. Tel Aviv, Israel.
+If you have any questions about this privacy policy, please contact us at privacy@Wix.com. You may also contact us by mail at Wix.com, Inc. PO box 40190 San Francisco, CA 94140.
