@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121002815id_/http%3A//cabelas.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515001044id_/http%3A//www.cabelas.ca/privacy_policy) for the most accurate reproduction.*
 
 # Cabelas Canada - Privacy Policy
 
@@ -145,7 +145,7 @@ We reserve the right to modify this Privacy Statement at any time, so please rev
 
 [](https://web.archive.org/signupforemail/)
 
-[ ](https://web.archive.org/36245/101109/101109.html)
+[ ](https://web.archive.org/36245/110524/110524.html)
 
 Since 1961, it has been our ongoing mission to provide outdoor enthusiasts with the finest quality gear and the highest level of customer service in the industry.   
 
