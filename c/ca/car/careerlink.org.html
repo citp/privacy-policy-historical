@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the careerlink.org privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226153634id_/http%3A//careerlink.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careerlink.org privacy policy that was archived on 2011-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110514044713id_/http%3A//careerlink.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>
@@ -28,12 +28,21 @@ pageTracker._trackPageview();
 <script type="text/javascript" src="/js/helpers.js"></script>
 <script type="text/javascript">
 // <![CDATA[
-function toggleLogin( show )
+function toggleLogin( show, user )
 {
     if (show == 'on') {
         document.getElementById('buttonwrap').style.display = 'none';
         document.getElementById('login').style.display = 'block';
         document.getElementById('loginForm').email.focus();
+        if (user == 'emp') {
+            document.getElementById('identify').innerHTML = "Username";
+            document.getElementById('loginForm').action = "https://secure.careerlink.com/signin/emp";
+            document.getElementById('forgot_password_link').href = "/forgotpwd/emp";
+        } else {
+            document.getElementById('identify').innerHTML = "Email Address";
+            document.getElementById('loginForm').action = "/signin";
+            document.getElementById('forgot_password_link').href = "/forgotpwd";
+        }
     } else {
         document.getElementById('buttonwrap').style.display = 'block';
         document.getElementById('login').style.display = 'none';
@@ -51,7 +60,7 @@ function toggleLogin( show )
         <span style="padding-left:12px; float:left;">
         <a href="/clickable/redirect/youtube"><img src="/images/youtube.png" alt="YouTube"></a>        </span>
         <span style="padding-left:12px; float:left;">
-        <a href="/clickable/redirect/facebook"><img src="/images/facebook.png" alt="Facebook"></a>        </span>
+        <a href="/clickable/redirect/facebook_careerlink"><img src="/images/facebook.png" alt="Facebook" title="Facebook"></a>        </span>
     </div>
     <div id="top_menu">
         <div id="pre">I'm a</div>
@@ -73,9 +82,9 @@ function toggleLogin( show )
     educators and entrepreneurs connect.
 </div>        <div id="intro_ads">
             <div style="padding:0px; height: 52px; background-color: #FFFFFF; float:left">
-<a href="/clickable/redirect/verizon6"><img src="https://ad.doubleclick.net/ad/N4789.CareerLink/B4199479.9;sz=200x52;ord=[timestamp]?" alt="Verizon Wireless"></a>            </div>
+<a href="/clickable/redirect/careerlink_relocate"><img src="/images/spaces/nebraskarelocation.gif" alt="Careerlink Relocation" title="Careerlink Relocation"></a>            </div>
             <div style="margin-left:10px; height: 52px; background-color: #FFFFFF; float:left">
-<a href="/clickable/redirect/convergys6"><img src="/images/spaces/convergys_nowhiring12.gif" alt="Convergys" title="Convergys"></a>            </div>
+<a href="/clickable/redirect/cox17"><img src="/images/spaces/cox14.gif" alt="Cox Tech Support Representatives" title="Cox Tech Support Representatives"></a>            </div>
         </div>
     </div>
 </div>
@@ -83,27 +92,27 @@ function toggleLogin( show )
     <div id="buttonwrap">
         <div class="buttons">
             <a href="/employer/pricing"><img class="button" src="/images/emp_su.png" style="width:156px; height:26px" alt="Employer Sign Up"></a>
-            <a href="https://web.aimlink.org/rfs/loom.exe?page=/script/clink/client/admin.htm"><img class="button" src="/images/emp_li.png" style="width:156px; height:26px" alt="Employer Login"></a>
-        </div>
+                            <a href="https://secure.careerlink.com/signin/emp"><img class="button" src="/images/emp_li.png" style="width:156px; height:26px" alt="Employer Login"></a>
+                    </div>
         <div id="signin">
             Job Seeker Logins are not required but<br>
             provide an enhanced experience for users.
         </div>
         <div class="buttons" style="float:right">
             <a href="/signup"><img class="button" src="/images/js_su.png" style="width:156px; height:26px; margin-left:12px" alt="Job Seeker Sign Up"></a>
-            <a href="javascript:void(0)" onclick="toggleLogin('on')"><img class="button" src="/images/js_li.png" style="width:156px; height:26px; margin-right:0px" alt="Job Seeker Login"></a>
+            <a href="javascript:void(0)" onclick="toggleLogin('on','js')"><img class="button" src="/images/js_li.png" style="width:156px; height:26px; margin-right:0px" alt="Job Seeker Login"></a>
         </div>
     </div>
     <div id="login">
         <a href="javascript:void(0)" onclick="toggleLogin('off')"><img class="close" src="/images/close.png" style="width:22px; height:22px" alt="Close"></a>
-<form action="/signin" method="post" id="loginForm">
+<form name="loginForm" action="//privacy" method="post" id="loginForm">
 <div class="row">
     <div class="column first">
-        <div class="field"><label for="email">Email Address&nbsp;&nbsp;</label> <input id="email" type="text" name="email" size="28" value="" style="width:200px">
+        <div class="field"><label id="identify" for="email">Email Address</label>&nbsp;&nbsp; <input id="email" type="text" name="email" size="28" value="" style="width:200px">
         </div>
     </div>
     <div class="column">
-        <div class="field"><label for="password">Password&nbsp;&nbsp;</label> <input type="password" id="password" name="password" size="18" value="" style="width:140px">
+        <div class="field"><label for="password">Password</label>&nbsp;&nbsp; <input type="password" id="password" name="password" size="18" value="" style="width:140px">
         </div>
     </div>
     <div class="column">
@@ -119,7 +128,7 @@ function toggleLogin( show )
 // <![CDATA[
 document.write( '    <input type="hidden" name="current_uri" value="' + window.location + '" \/>' );
 // ]]>
-</script>    <input type="hidden" name="current_uri" value="https://web.archive.org/web/20101226153634id_/http%3A//careerlink.com/privacy">
+</script>    <input type="hidden" name="current_uri" value="https://web.archive.org/web/20110514044713id_/http%3A//careerlink.com/privacy">
 </div>
 </form>
     </div>
@@ -188,12 +197,7 @@ any time log in to the resume feature to, inactivate, change or correct your res
 inactivate, change or correct your name and contact information.
 <br><br>
 	<h2>Online Applications Hosted by AIM</h2>
-Information you submit in response to a specific job posting may be retained in our files. We use logins and
-passwords to protect the online application information retained within our systems. The information may also be
-provided in computer readable form directly to the respective employer for retention within system(s) that are
-solely under the control of that employer. We believe the employers represented on this site consider any resumes
-they receive to be proprietary, valuable and worthy of appropriate protection, however, we cannot control how the
-application information provided to employers is used, stored, protected or distributed. 
+Information you submit in response to a specific job posting is considered "personal information" and will be retained in our database. We use logins and passwords to protect this information. The information may also be provided in computer readable form directly to the respective employer for retention within system(s) that are solely under the control of that employer. We believe the employers represented on this site consider any resumes they receive to be valuable and worthy of appropriate protection; however, we cannot control how the application information provided to employers is used, stored, protected or distributed.
 <br><br>
 	<h2>Online Applications Not Hosted by AIM</h2>
 Some employers request AIM to direct applicants to an online application hosted by the employer or by a third
@@ -278,13 +282,13 @@ believe that we have not adhered to it, please contact
         <div class="promo">
         <div class="promohead">
             <div class="browse"></div>
-           2011 Technology Breakfast Seminars
+            Relocate to Nebraska
         </div>
         <div class="promotext">
-        <img src="/images/promo/meyers.jpg" alt="2011 Technology Breakfast Seminars" style="width: 144px; height: 72px; float: left; padding: 2px; padding-right: 8px;">        The 2011 AIM Institute Technology Breakfast Seminars will take place January 14, February 4 and March 18. The three seminars will focus on the impact that emerging technologies - social media, entrepreneurship and mobile computing - have on business.
-            &nbsp;<a href="/clickable/redirect/techbreakfast2011"><img src="/images/arrow2.png" alt="Arrow"> Register Now!</a>        </div>
-        <div class="promolink">
+            <center><img src="/images/promo/nebraska.png" alt="Move to Nebraska" style="width:150px; height:62px; margin-bottom:6px"></center>Are you considering opportunities to live and work in Nebraska? The AIM Institute and <a href="/">Careerlink.com</a> want to help! 
         </div>
+        <div class="promolink">
+            <a href="/clickable/redirect/careerlink_relocation"><img src="/images/arrow2.png" alt="Careerlink Relocation Help">&nbsp;More Information</a>        </div>
     </div>
         <div class="promo spaced">
         <div class="promohead">
@@ -300,17 +304,16 @@ believe that we have not adhered to it, please contact
     <div class="promo spaced third">
         <div class="promohead">
             <div class="browse"></div>
-            Careerlink.com iPhone App
+             Infotec 2011 - Register Today
         </div>
-        <div class="promotext">
-            <img src="/images/promo/iphone.png" alt="iPhone App" style="width:110px; height:110px; padding:8px; padding-right:12px; float:left"> Find your next job fast! Search for jobs on your iPhone, iPad, or iPod Touch by downloading the new Careerlink.com mobile app for free from the iTunes App Store.
+        <div class="promotext" style="padding-right: 2px;">            <img src="/images/promo/infotec2011.png" alt="infotec 2011" style="width: 140px; height: 49px; float: left; padding: 0px 5px 0px 0px;"> Don't miss the region's biggest event in IT and Business – Infotec 2011, April 19 &amp; 20 at the Qwest Center Omaha. Hear nationally recognized experts discuss the latest trends on security, mobile, cloud, infrastructure, business intelligence, project management, healthcare IT and innovation.
         </div>
         <div class="promolink">
-            <a href="/clickable/redirect/iphone_app"><img src="/images/arrow2.png" alt="Careerlink.com iPhone App"> iTunes App Store</a>        </div>
+            <a href="/clickable/redirect/infotec2011"><img src="/images/arrow2.png" alt="Register now for infotec 2011!"> Register Now!</a>        </div>
     </div>
 </div>
 <div id="copyright">
-    © Copyright 2010 Applied Information Management Institute, Inc. All Rights Reserved.
+    © Copyright 2011 Applied Information Management Institute, Inc. All Rights Reserved.
 </div>
 </div>
 <div id="footer">
@@ -327,9 +330,9 @@ believe that we have not adhered to it, please contact
             <div class="articles">
                 <span class="rss"><a href="http://www.aiminstitute.org/rss/3.html"><img src="/images/rss.png" style="width:23px; height:25px" alt="RSS Subscribe"></a></span>
                 <div class="rssitems">
-                <a href="http://www.aiminstitute.org/aim-news/aim-member-spotlight-modis-2.html">AIM Member Spotlight: Modis</a><br><br>
-<a href="http://www.aiminstitute.org/aim-news/aim-success-story-optimum-data-hires-cisco-interns-2.html">AIM Success Story: Optimum Data Hires Cisco Interns</a><br><br>
-<a href="http://www.aiminstitute.org/aim-news/conference-highlights-include-aim-led-youth-track-2.html">Conference Highlights Include AIM-Led Youth Track</a><br><br>
+                <a href="http://www.aiminstitute.org/aim-news/bryan-middle-school-g2-trio-talent-search-program-wraps-up-2.html">Bryan Middle School G2 TRiO Talent Search Program Wraps Up</a><br><br>
+<a href="http://www.aiminstitute.org/aim-news/may-25-aim-members-forum-how-to-create-a-start-up-within-an-existing-bus-2.html">May 25 AIM Members Forum  How to Create a Start-Up Within an Existing Business</a><br><br>
+<a href="http://www.aiminstitute.org/aim-news/college-access-program-selects-25-incoming-freshmen-for-2011.html">College Access Program Selects 25 Incoming Freshmen for 2011-2012</a><br><br>
                 </div>
             </div>
         </div>
