@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecreek.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226155733id_/http%3A//articlecreek.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecreek.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514151025id_/http%3A//www.articlecreek.com/privacy.php) for the most accurate reproduction.*
 
 # Article Creek | Privacy Statement
 
