@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229132048id_/http%3A//coherent.com/Home/index.cfm%3Ffuseaction%3Dforms.page%26PageID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coherent.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514182300id_/http%3A//www.coherent.com/Home/index.cfm%3Ffuseaction%3Dforms.page%26PageID%3D4) for the most accurate reproduction.*
 
-# Coherent Inc. : Coherent Privacy Statement
+# Coherent Inc. Coherent Privacy Statement
+
+Superior Reliability & Performance
+
+  * Lasers and Laser-based Systems
+  * Laser Measurement and Control
+  * Precision Optics
+  * Related Accessories
+
+
 
 ### Privacy Policy
 
@@ -20,9 +29,9 @@ COHERENT may from time to time process certain EEA personal information about cu
 
 COHERENT will use personal information concerning business partners and customers to provide customers and business partners with information and services and to help COHERENT personnel better understand the needs and interests of these business partners and/or customers. Specifically, COHERENT uses information to help customers and business partners complete a transaction or order, to facilitate communication, to deliver products/services, to bill for purchased products/services, and to provide ongoing service and support. Occasionally COHERENT personnel may use personal information to contact customers and business partners to complete surveys that are used for marketing and quality assurance purposes.
 
-COHERENT may also share personal information with its service providers and suppliers for the sole purpose and only to the extent needed to support the customers’ business needs. Service providers and suppliers are required to keep confidential personal information received from COHERENT and may not use it for any purpose other than as originally intended. 
+COHERENT may also share personal information with its service providers and suppliers for the sole purpose and only to the extent needed to support the customers’ business needs. Service providers and suppliers are required to keep confidential personal information received from COHERENT and may not use it for any purpose other than as originally intended.
 
-COHERENT also collects personal information concerning its employees (Human Resources Data) in connection with administration of its Human Resources programs and functions and for purpose of communicating with its employees. These programs and functions may include compensation and benefit programs, employee development planning and review, performance appraisals, training, business travel expense and tuition reimbursement, identification cards, access to COHERENT facilities and computer networks, employee profiles, internal employee directories, Human Resource record keeping, and other employment related purposes. COHERENT also collects and uses personal information to consider candidates for employment opportunities within COHERENT. 
+COHERENT also collects personal information concerning its employees (Human Resources Data) in connection with administration of its Human Resources programs and functions and for purpose of communicating with its employees. These programs and functions may include compensation and benefit programs, employee development planning and review, performance appraisals, training, business travel expense and tuition reimbursement, identification cards, access to COHERENT facilities and computer networks, employee profiles, internal employee directories, Human Resource record keeping, and other employment related purposes. COHERENT also collects and uses personal information to consider candidates for employment opportunities within COHERENT.
 
 Human Resources data may be shared with third party vendors for the exclusive purpose of enabling the vendor to provide service and/or support to COHERENT in connection with these Human Resource programs and functions. Human Resource data is not shared with third parties for non-employment related purposes. Third parties receiving personal information are required to apply the same level of privacy protection as contained in this Policy.
 
@@ -35,7 +44,7 @@ Where COHERENT collects personal information directly from individuals in the EE
 COHERENT will offer individuals the opportunity to choose (opt-out) whether their personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. For sensitive personal information, COHERENT will give individuals the opportunity to affirmatively and explicitly consent (opt-in) to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. COHERENT will provide individuals with reasonable mechanisms to exercise their choices.
 
 5.3. Onward Transfer to Agents  
-COHERENT will obtain assurances from its Agents that they will safeguard personal information consistent with this Policy. Examples of appropriate assurances that may be provided by Agents include: a written contract obligating the Agent to provide at least the same level of protection as is required by the relevant Safe Harbor principles, being subject to EU Data Protection Directive 95/46, Safe Harbor certification by the Agent, or being subject to another European Commission adequacy finding. Where COHERENT has knowledge that an Agent is using or disclosing personal information in a manner contrary to this Policy, COHERENT will take reasonable steps to prevent or stop the use or disclosure. 
+COHERENT will obtain assurances from its Agents that they will safeguard personal information consistent with this Policy. Examples of appropriate assurances that may be provided by Agents include: a written contract obligating the Agent to provide at least the same level of protection as is required by the relevant Safe Harbor principles, being subject to EU Data Protection Directive 95/46, Safe Harbor certification by the Agent, or being subject to another European Commission adequacy finding. Where COHERENT has knowledge that an Agent is using or disclosing personal information in a manner contrary to this Policy, COHERENT will take reasonable steps to prevent or stop the use or disclosure.
 
 5.4. Access  
 Upon request, COHERENT will grant individuals reasonable access to personal information that it holds about them. In addition, COHERENT will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete.
@@ -63,11 +72,10 @@ COHERENT does not knowingly collect personally identifiable information from per
 Questions or comments regarding this Policy should be submitted to COHERENT by mail or e-mail as follows:
 
 Data Privacy Officer  
-[privacy@coherent.com  
-or](mailto:privacy@coherent.comor) by mail  
+[privacy@coherent.com](mailto:privacy@coherent.com)  
+or by mail  
 Data Privacy Officer  
-c/o  
-Coherent, Inc.  
+c/o Coherent, Inc.  
 5100 Patrick Henry Drive  
 Santa Clara, CA 95054
 
