@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qtrade.ca privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613141249id_/http%3A//www.qtrade.ca/en/security/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtrade.ca privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514030507id_/http%3A//www.qtrade.ca/en/security/privacy.jsp) for the most accurate reproduction.*
 
 # Qtrade Financial Group - Privacy Policy
 
