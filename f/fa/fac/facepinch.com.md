@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facepinch.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123235008id_/http%3A//facepinch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facepinch.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514042806id_/http%3A//facepinch.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
