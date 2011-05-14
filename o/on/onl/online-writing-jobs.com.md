@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-writing-jobs.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116233858id_/http%3A//www.online-writing-jobs.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-writing-jobs.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514045806id_/http%3A//www.online-writing-jobs.com/privacypolicy.php) for the most accurate reproduction.*
 
 # ONLINE WRITING JOBS - Freelance Writing Jobs
 
