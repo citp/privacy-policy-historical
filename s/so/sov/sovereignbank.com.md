@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928225846id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignbank.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514211541id_/http%3A//www.sovereignbank.com/companyinfo/privacy_policy.asp) for the most accurate reproduction.*
 
-# Sovereign Bancorp, Inc. Privacy Policy | Sovereign Bank
+# Privacy Policy | Sovereign Bank
 
 |  |  [Privacy Policy](https://web.archive.org/companyinfo/privacy_policy.asp "Privacy Policy") |   
 ---|---|---  
@@ -10,24 +10,9 @@
 ---|---|---  
   
 Privacy Information  
-Effective September 30, 2009 
+Effective September 30, 2010 
 
-**About Sovereign Bancorp, Inc.**  
-This Privacy Statement is effective September 30, 2009, and takes the place of any previous privacy policies issued by Sovereign Bancorp, Inc., or any of its affiliates/subsidiaries or divisions, with the exception of Santander Consumer USA, Inc. Sovereign Bancorp, Inc., a subsidiary of Banco Santander, S.A., is the parent company of Sovereign Bank.
-
-Sovereign Bancorp, Inc.'s affiliates/subsidiaries include, but are not limited to:
-
-  * Sovereign Bank®—divisions of Sovereign Bank include, but are not limited to: Nantucket Bank, Bank of Martha's Vineyard, SI Bank & Trust, and Sovereign Business Capital
-  * Sovereign Agency, LLC
-  * Sovereign Agency Massachusetts, LLC
-  * Sovereign Securities Corporation, LLC
-  * Sovereign Precious Metals, LLC
-  * 1130 Abstract, Inc.
-  * Santander Consumer USA, Inc.
-
-
-
-The terms “we,” “our” and “us” in this Privacy Statement refer to Sovereign and/or its banking and other affiliates/subsidiaries.  
+This Privacy Notice is being provided to you to describe what Sovereign Bank does to keep information about you private and secure, and how we manage that information. As described below, you also have a choice about how your information is shared. This Notice also covers divisions of Sovereign Bank, such as Nantucket Bank and Bank of Martha's Vineyard.  
   
 |  |   
 ---|---|---  
@@ -52,8 +37,6 @@ NOTE: We may disclose all the kinds of information described in this section to 
 
 **How?**  
 All financial companies need to share customers' personal information to run their everyday business—to process transactions, maintain customer accounts, and report to credit bureaus. In the section below, we list reasons financial companies can share their customers' personal information; the information Sovereign chooses to share; and whether you can limit this sharing.
-
-NOTE: If you select Sovereign's Private Wealth Management Division to act as a trustee or a fiduciary, information about your trust account(s) is safeguarded, even within our own family of companies. This information is kept completely confidential, and we will not share it for marketing or solicitation purposes without your specific consent.
 
 | 
 
@@ -119,7 +102,7 @@ Yes
 
 Yes  
   
-For our affiliates to market their products and services to you
+For our affiliates to market their products or services to you
 
 | 
 
@@ -139,7 +122,7 @@ No
 
 n/a  
   
-*Although the sharing of this information cannot be limited, you may let us know whether or not you wish to be contacted for marketing purposes (see _Your Preferences_).
+*Although the sharing of this information cannot be limited, you may let us know whether or not you wish to be contacted for marketing purposes.
 
 SPECIAL NOTICE FOR CALIFORNIA AND VERMONT RESIDENTS: If your account has a California mailing address, we will not market any products or services to you, nor will we share your information with our marketing partners for them to market to you. If your account has a Vermont mailing address, we will share with our marketing partners only that information that is permitted by law. Residents of California and Vermont do not have to take any further action to limit the sharing of information; such limits are already in place.
 
@@ -150,11 +133,8 @@ back to top
   
 **Sharing Practices**
 
- **How often does Sovereign notify me about their practices?**  
-We must notify you about our sharing practices when you open an account, and each year while you are a customer.
-
-**How does Sovereign protect my personal information?**  
-To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards, secured files and buildings, and limited access to your information by employees with a need to know to perform their job function.
+ **How does Sovereign protect my personal information?**  
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. Employees have access to your information on a need-to-know basis to perform their job function.
 
 **How does Sovereign collect my personal information?**  
 We collect your personal information, for example, when you:
@@ -170,10 +150,11 @@ We also collect your personal information from others, such as credit bureaus, a
 For online banking customers, we may use cookies, which are pieces of data that help web sites recognize return visitors, to personalize and enrich your online visits with us and to collect site visitation statistics. Sovereign or its service providers may also use tracer technology, which are third-party cookies. If you are uncomfortable with our use of cookie technology, you can set your browser to refuse cookies. However, some of our services depend on cookies and you may not be able to use those services by refusing cookies.
 
 **Why can't I limit all sharing?**  
-Federal law gives you the right to limit sharing only for:
+Federal law gives you the right to limit only:
 
-  * Affiliates to market to you
-  * Nonaffiliates to market to you
+  * Sharing for affiliates' everyday business purposes — information about your creditworthiness
+  * Affiliates from using your information to market to you
+  * Sharing for nonaffiliates to market to you
 
 
 
@@ -188,40 +169,35 @@ back to top
   
 **Definitions**
 
- **Everyday business purposes**  
-The actions necessary by financial companies to run their business and manage customer accounts, such as:
-
-  * Processing transactions, mailing, and auditing services
-  * Providing information to credit bureaus
-  * Responding to court orders and legal investigations
-
-
-
-**Affiliates/Subsidiaries**  
+ **Affiliates/Subsidiaries**  
 Companies related by common ownership or control. They can be financial and non-financial companies.
 
 **Nonaffiliates**  
-Companies not related by common ownership or control. They can be financial and non-financial companies. (We do not share customer information with nonaffiliated companies except in the very limited circumstances specifically permitted by law.)
+Companies not related by common ownership or control. They can be financial and non-financial companies. We do not share customer information with nonaffiliated companies except in the very limited circumstances specifically permitted by law.
 
 **Joint marketing**  
-A formal agreement between nonaffiliated financial companies that jointly offer or endorse financial products or services to you. (Our joint marketing partners include credit card and insurance companies. The formal agreement includes assurances by the marketing partner that they will maintain the appropriate safeguards to ensure the security and confidentiality of the information we provide to them, and that the information may only be used within the confines of the stated agreement.)
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you. Our joint marketing partners include credit card and insurance companies. The formal agreement includes assurances by the marketing partner that they will maintain the appropriate safeguards to ensure the security and confidentiality of the information we provide to them, and that the information may only be used within the confines of the stated agreement.
 
 **Your Preferences**
 
 NOTE: If you have already contacted Sovereign with your marketing preferences, regarding sharing information about your creditworthiness or sharing information with affiliates for marketing purposes, it is not necessary to do so again, unless you wish to change your preferences. Your preferences will remain in force until you change them in writing at a branch, or by e-mailing our online preference management system. They will be honored even if you close your account, according to our policies. Your e-mail preference will apply only to the e-mail address(es) we have on record for you. Your telephone preference will apply only to the telephone number we have on record for you. Requests will be processed in a timely manner, not to exceed thirty days.
 
-FOR NEVADA RESIDENTS: At any time, you may request to be placed on Sovereign's internal do not call list by following the instructions in the “Your Preferences” section above. Nevada law also requires that we provide you with the following information: Sovereign Bank, Mail Code: RI1-EPV-02-18, 1 Sovereign Way, East Providence, RI 02915 and Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 East Washington Avenue, Suite 3900, Las Vegas, NV 89101, Phone: 702-486-3132, E-mail: bcpinfo@ag.state.nv.us.
+FOR NEVADA RESIDENTS: At any time, you may request to be placed on Sovereign's internal do not call list by following the instructions in the “Your Preferences” section above. Nevada law also requires that we provide you with the following information: Sovereign Bank, Mail Code: RI1-EPV-02-18, 1 Sovereign Way, East Providence, RI 02915, and Bureau of Consumer Protection, Office of the Nevada Attorney General, 555 East Washington Avenue, Suite 3900, Las Vegas, NV 89101, Phone: 702-486-3132, E-mail: bcpinfo@ag.state.nv.us.
 
 **How to contact us:**
 
 |  | Toll Free (Sin Cargo):  
 ---|---  
 | Sovereign Bank  
-Bank of Martha's Vineyard  
-SI Bank & Trust | 1-877-768-2265  
+Bank of Martha's Vineyard | 1-877-768-2265  
+| Toll Free (Sin Cargo):  
 | Nantucket Bank only | 1-800-533-9313  
 | Visit one of our [_branches_](https://web.archive.org/atm_locator/default.aspx?s=companyinfo)  
   
+
+
+_**Additional Options to Unsubscribe from Email Marketing**_
+
 back to top  
   
 |  |  |   
