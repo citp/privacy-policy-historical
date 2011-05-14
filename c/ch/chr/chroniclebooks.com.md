@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221204718id_/http%3A//www.chroniclebooks.com/index.php%3Fmain_page%3Dpubs_info%26info_uid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chroniclebooks.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514214720id_/http%3A//www.chroniclebooks.com/index.php%3Fmain_page%3Dpubs_info%26info_uid%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy (Updated 04.25.09) : Chronicle Books
 
