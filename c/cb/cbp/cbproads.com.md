@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbproads.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120131150id_/http%3A//cbproads.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbproads.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514050536id_/http%3A//cbproads.com/privacy.asp) for the most accurate reproduction.*
 
 # Privac Policy of Clickbank Pro Ads.com (CbProAds.com)
 
@@ -6,11 +6,14 @@
 ---|---  
 |  |   
 ---  
-|  18th Nov 2010   
-iPhone Widget Ads has been introduced to the ads section. **[Click here](https://web.archive.org/web/20101120131150id_/http%3A//cbproads.com/widgetads_demo.asp)** to see it live.
+|  16th Jan 2011   
+The Storefront Version 4.0 has been released. **[Click here](https://web.archive.org/web/20110514050536id_/http%3A//cbproads.com/clickbankstorefront/v4/sf.asp?id=) for a online demo.** **
+
+18th Nov 2010   
+iPhone Widget Ads has been introduced to the ads section. **[Click here](https://web.archive.org/web/20110514050536id_/http%3A//cbproads.com/widgetads_demo.asp)** to see it live.
 
 4th Jun 2010   
-The much awaited new Storefront Version 3.0 has been released. **[Click here](https://web.archive.org/web/20101120131150id_/http%3A//cbproads.com/clickbankstorefront/v3/theme2/sf.asp?id=) to see it in action.** **
+The much awaited new Storefront Version 3.0 has been released. **[Click here](https://web.archive.org/web/20110514050536id_/http%3A//cbproads.com/clickbankstorefront/v3/theme2/sf.asp?id=) to see it in action.** **
 
 28th Mar 2010   
 Now you will be able to add any script in between ** <HEAD>...</HEAD> ** tag of your storefront. Access **Storefront Set Up Wizard** and click on **Settings** link of Storefront Version 2.0 on your members area, for more information.
@@ -23,7 +26,7 @@ More powerful functionalities have been added to the StoreFront. Your StoreFront
 
 **
 
-   
+**   
 ---  
    
    
