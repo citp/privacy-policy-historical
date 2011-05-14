@@ -1,91 +1,60 @@
-> *The following text is extracted and transformed from the tylerisd.org privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920165459id_/http%3A//www.tylerisd.org/Web%2520Privacy%2520Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylerisd.org privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514134026id_/http%3A//tylerisd.org/privacy.phtml%3Fsessionid%3Dcdfda975457e0ac335ae35ac4ad18885) for the most accurate reproduction.*
 
-# Web Privacy Statement
+# Tyler ISD
 
-                               Web Privacy Statement
-At Tyler Independent School District, we strive to respect the privacy of our Web site visitors
-because your privacy is important to us. Using the Internet should be a pleasant experience,
-and we want to help you make it enjoyable. This privacy statement describes what
-information we collect and how that information is protected and used with those ideas in
-mind.
-Information Gathered
-Web sites you visit may gather information about you. Sometimes you are asked to supply
-information such as your name, address or e-mail address. Other times processes built into
-the Web site gather information.
-We may ask you for information to answer a request that you have submitted to Tyler ISD.
-An example would be your name and address for mailing a public information request.
-Information sent to Tyler ISD via Web data entry may be read, filed, stored, forwarded,
-responded to or printed by Tyler ISD staff members for the purpose of answering and
-tracking your request. In some cases, the district may outsource the collection of information
-and your information may be read, filed, stored, forwarded, responded to or printed by
-employees of a third-party vendor providing services under contract with the district.
-You may be asked to enter your name, address, telephone number, e-mail address or other
-information on an Tyler ISD Web site. This information may be kept and used for future
-communications.
-The district may release your personal information to third parties under provisions of Tyler
-ISD's Administrative Policies and Procedures. The Federal Educational Rights and
-Privacy Act governs student data and information, and usage of Web site information must
-comply with this law.
-Collection of Other Information
-Most information we gather does not identify you personally. We automatically collect
-information such as the type and identity of the Internet service provider you are using, your
-Internet protocol (IP) address, the time spent on the Web site, or the navigation path you took
-on the Web site. We use the gathered information to improve the navigation, flow and
-content of the Web site to provide you with the best possible information service.
+Centrifuge Solutions LLC (dba "SchoolFusion") uses My Payment Network (SchoolPay) solution which delivers payment services to schools and businesses and offers its service under many brand names, powered by My Payment Network (SchoolPay). Part of the payment process involves the collecting of personal information. Such information is voluntarily submitted by people who submit payments through any branded version of their services and is required to submit transactions.
 
+**Changes In Our Privacy Policy**
 
-Special Disclosure Cases
-Requests for public information (formally known as open records requests) are handled in
-accordance with the Texas Public Information Act, Texas Government Code § 552.01 (et
-seq). All requests for public information should be submitted to the Records Management
-Office. Governmental bodies shall promptly release requested information that is not
-confidential by law or information for which an exception to disclosure has been sought.
-Tyler ISD may disclose user information in special cases when we have reason to believe
-that disclosing this information is necessary to identify, contact or bring legal action against
-someone who may be causing injury to or interference with (either intentionally or
-unintentionally) Tyler ISD's rights or property, other Tyler ISD users, or anyone else that
-could be harmed by such activities. We reserve the right to use information to identify any
-visitors who refuse to comply with the Tyler ISD Acceptable Use Agreement for
-Technology Resources and to identify visitors who threaten our service, site, customers or
-others. The district may disclose information when we believe in good faith that the law
-requires it.
-E-Commerce Transactions
-Some of our Web site features may use applications to collect data to facilitate an e-
-commerce transaction. We may use an outside service with an approved banking relationship
-to process credit card transactions. All credit card information is encrypted and only the
-information needed to complete a transaction history is stored on our secure server.
-Public Forums, Directories, Chat Rooms and Mail Lists
-This privacy statement does not protect you when you use any Tyler ISD public forums. As a
-service to our users, Tyler ISD may offer directories, chat rooms, bulletin or message boards,
-or mailing list groups for our Web site visitors. Any information shared in a directory, chat
-room, bulletin board, or other posting or online discussion is public information and may be
-seen, disclosed to or collected by third parties that do not adhere to this privacy statement.
-Other Links
-The Tyler ISD Web site may contain destination links to other independently run Web sites
-for Tyler ISD student groups or organizations and to some third-party sites outside the
-"tylerisd.org" domain. Tyler ISD is not responsible for the privacy practices or content of
-such Web sites. These destination links are provided only for your convenience, and as such,
-you access them at your own risk. Any information you reveal on any such site is not subject
-to this privacy statement, therefore, you should consult the privacy policies of each site you
-visit. However, we wish to ensure the integrity of our Web site and its destination links, so
-any comments pertaining to any sites accessed through destination links on our Web site are
-greatly appreciated.
+We reserve the right to change this Privacy Policy without providing you with advance notice of our intent to make the changes.
+
+**Use of Information**
+
+All information collected is solely used in the fulfillment of payment services. The information collected is required to complete transactions. My Payment Network (SchoolPay) will never release or sell any personal information collected through any of their branded services.
+
+**Cookies**
+
+My Payment Network and any branded version of their services do not use cookies.
+
+**Browser Level Information**
+
+The My Payment Network.com webserver automatically collects information about a site user's IP address, browser type and referrer by reading this information from the user's browser (information provided by every user's browser). This information is collected and logged for security purposes, as an activity log of which people have been in the system and what have they done. It is also used by businesses and schools in reconciling disputed transactions. The IP address is used only for these purposes.
+
+**Email**
+
+SchoolFusion and My Payment Network (SchoolPay) respects the privacy of its readers and shall not disclose, distribute or rent its email list to any third party, nor shall it permit anyone else to do so. Email addresses used in by any of their branded services for the sending of payment alerts, receipts and other communication regarding the payment services shall not be disclosed or distributed to any third party.
+
+**Secure Hosting**
+
+All branded versions of My Payment Network’s (Schoolpay) services are hosted on a dedicated secure server. The server is located in a secure location at a national hosting company. All branded versions of My Payment Network (SchoolPay) transaction data are stored on this server. All user and customer sessions are hosted on the secure server.
+
+**Secure Sessions**
+
+All branded versions of My Payment Network (SchoolPay) sessions (after logging into the services) are conducted with SSL security. SSL security is the standard for internet e-commerce session security. All payment pages are hosted in SSL. This means that when people make a payment, even if they are not logged into any branded service, they are protected by SSL security. My Payment Network maintains security certificates with nationally known firms. Users will need to have their browser settings such that they can go to secure sites to use any branded version of My Payment Network’s services.
+
+**Encrypted Database**
+
+The My Payment Network (SchoolPay) databases are encrypted. Data is only un-encrypted when it is pulled from the database and presented to a user or administrator during a logged in session.
+
+**Third Party Links**
+
+This Web site may contain links to third party Web sites that are not controlled by SchoolFusion. These third party links are made available to you as a convenience and you agree to use these links at your own risk. Please be aware that SchoolFusion is not responsible for the content of third party Web sites linked to the SchoolFusion website, nor are we responsible for the privacy policy or practices of third party Web sites linked to the SchoolFusion website. Our Privacy Policy only applies to information we collect from you while you are actively in a session with SchoolFusion. If you should link to a third party Web site from SchoolFusion, we strongly encourage you to review and become familiar with that Web site's privacy policy.
+
+**Hosting Firewall**
+
+All branded versions of My Payment Network (SchoolPay) services are protected by the hosting company’s firewall. This is state-of-the art firewall security that is constantly monitored and updated.
+
+| 
+
+SchoolFusion is a web-based school/district content management system. Our system fosters improved communication between parents, students and school staff. You must have a user account in order to utilize the advanced features of the system.
+
+Your personal information is entered into the system one of two ways. Either an administrator at the school enters personal information or you may register for a user account yourself. If you register, you will be asked for your First and Last name, information to help identify you, your email address and to create a password.
+
+  * Your first and last name is used to identify you within the site and will appear when posting to a Chat or Discussion board.
+  * Information to help identify you is used if the school/district has chosen to approval all user accounts. This information is viewed by the website administrator to ensure you are an approved community member. Only website administrators can view this information.
+  * Your email address allows teachers or website administrators to email you from within the website. You can also sign-up to receive emails that include daily homework assignments and calendar events. Website administrators can also send mass emails to this address. You will receive these emails in your regular inbox. This email is only readable by the sender and the recipient, and no personal information collected or stored in this process.
+  * Your password is encrypted and cannot be read by anyone. Therefore, if you forget your password you must re-set it or a website administrator must re-set it for you.
+  * SchoolFusion does not use your personal information or email content for any marketing or sales purposes. 
+  * SchoolFusion does not share or sell any of your personal information or email content to any third party.
 
 
-Security
-Tyler ISD treats your personal information as an asset that must be protected against loss and
-unauthorized access. This Web site has information security measures in place to protect the
-loss, misuse, and alteration of the information under our control. We restrict access to our
-data center and server rooms to authorized personnel and limit access to personal information
-to those employees who have a legitimate business need to access such information. Despite
-these security measures, we do not represent or warrant that personal information will be
-protected against loss, misuse, or alteration by third parties.
-Privacy Policy Changes
-We may change this privacy statement at any time by posting revisions to our Web site. Your
-use of the Web site constitutes acceptance of the provisions of this privacy statement and
-your continued usage after such changes are posted constitutes acceptance of each revised
-privacy statement. If you do not agree to the terms of this privacy statement or any revised
-statement, then please exit the Web site immediately.
-Reporting Personal Privacy Issues
-If you have any questions about this privacy statement, your personal information, the
-practices of this Web site or your interaction with this Web site, please email the webmaster.
