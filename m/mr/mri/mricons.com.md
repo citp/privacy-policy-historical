@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the mricons.com privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123142714id_/http%3A//mricons.com/themes/autumn/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mricons.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514164525id_/http%3A//www.mricons.com/privacy) for the most accurate reproduction.*
 
-# Free Proxy is a myspace proxy - Surf The Web Anonymously
+# Privacy Policy
 
-### Privacy Policy
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
 
-Our service may collect information about you during your visit. This document describes the information we collect and how it is used.
+  * Google uses a so called DART cookie that enables the serving of ads to users based on their visit to our sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-**Server Access Logs**  
-Our server logs all requests. The data recorded includes information provided by your browser (user agent and referring page) as well as the requested URI, the time and date and your IP address. The data recorded in these logs may be used for detecting and preventing abuse. We may also collate this data for statistical purposes.
 
-**Service Logs**  
-The service provided on this website allows access to external, third-party websites. We may record your IP address and the websites you visit. The logs are used primarily for monitoring requests and ensuring no illegal activity is undertaken. Any violations of our terms of use may result in disclosure of the data recorded in our logs to an appropriate third party, which may include your Internet Service Provider (ISP) or local authorities. We may also be required, by law, to provide logs of our service and if requested, such data will be disclosed. We may also use service logs for stastical purposes.
-
-**Cookies**  
-Our website stores a cookie on your computer, if allowed by your browser's privacy settings *. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.
-
-We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.
-
-The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option.
-
-* For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
