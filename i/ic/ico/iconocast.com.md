@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the iconocast.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218053758id_/http%3A//www.iconocast.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconocast.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514165516id_/http%3A//www.iconocast.com/privacy.htm) for the most accurate reproduction.*
 
-# How We Protect the Security of Your Information
+# Iconocast Privacy Policy
 
 ## **Our commitment to your privacy, security and our Privacy Policy**
 
 _**Your privacy is of outmost importance to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.**_
 
-### How We Protect the Security of Your Information
+## How We Protect the Security of Your Information
 
 **New:**
 
@@ -36,10 +36,10 @@ We do not share any of this information with outside parties. We use return emai
 
 **Our Commitment To Data Security**
 
-### **We do not relate or work with children; however, we are most committed To Any Children's Privacy. No person under the age of 18 is allowed to do business with us.**
+## We do not relate or work with children. We are most committed To Any Children's Privacy. No person under the age of 18 is allowed to do business with us.
 
 Protecting the privacy of the very young is especially important. 
 
 ## **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at **info (@) liveinfospace.com**
+Should you have other questions or concerns about these privacy policies, please send us an email at info@katir.com ****
