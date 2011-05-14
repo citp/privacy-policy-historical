@@ -1,120 +1,117 @@
-> *The following text is extracted and transformed from the mchsi.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203011345id_/http%3A//help.mymediacomonline.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mchsi.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514141026id_/http%3A//www.mediacomcable.com/legal_privacy.html) for the most accurate reproduction.*
 
-# Mediacom Online sm, powered by LocalToolbox - serving Mediacom,Customers
+# Mediacom | Privacy Policy
 
-## Mediacom Online Privacy Policy
+MEDIACOM WEBSITE PRIVACY POLICY
 
-Companies controlled by Mediacom Communications Corporation operate cable television systems through which they provide subscribers with cable television programming services and Internet access and telephony services through our cable facilities. Not all services may be available in your local cable system.
+In this Privacy Policy, the word “Mediacom,” “we,” “us” or “our” refers to Mediacom Communications Corporation and/or any of its controlled subsidiaries using this Website to provide services or information to the public. 
 
-The Cable Communications Policy Act of 1984 (which we refer to as "the Cable Act") contains restrictions on the collection, disclosure and retention by cable operators of personally identifiable information about subscribers to cable television or certain other services. Other federal law may also apply to some services, including the Electronic Communications Privacy Act of 1986 (called "the ECPA" in this notice). This notice informs subscribers of our policies regarding personally identifiable information we obtain in the course of providing our services that are subject to the privacy provisions of the Cable Act. Those services currently consist of our video programming service, our Mediacom Online(sm) Internet access service and our Internet telephony service. Not all of these services may be available in your local cable system. Our policies are intended to conform to the requirements of the Cable Act, the ECPA and other applicable law.
+This Privacy Policy explains the kinds of personally identifiable information, if any, that Mediacom collects when you visit this Website, how we collect and use it and when we may disclose it to third parties. The Cable Communications Policy Act of 1984 (which we refer to as “the Cable Act”) contains restrictions on the collection, disclosure and retention by cable operators of personally identifiable information about subscribers to cable television or certain other services. If you use this Website as a subscriber to a Mediacom service of this kind, then the special privacy provisions of the Cable Act may apply to you. As required by the Cable Act, we give subscribers, at the time of installation and annually while they continue as subscribers, a separate written Subscriber Privacy Notice. If you are a subscriber to a Mediacom service, then you should read this Privacy Policy together with the Subscriber Privacy Notice. You can obtain a copy of the Subscriber Policy Notice by contacting us as instructed under **“What If I Have Questions About This Privacy Policy?”** below or link to the Subscriber Privacy Notice below. 
 
-The term "Mediacom," "we," "our" or "us" refers to any company that is controlled by Mediacom Communications Corporation, a Delaware corporation, and through which you subscribe to any cable or other service covered by the privacy provisions of the Cable Act.
+As the term suggests, information is “personally identifiable” if it can be used to identify or contact an individual, such as his or her name, and address or telephone number or information about an individual’s activities on or through this Website that is specifically linked to him or her. 
 
-This notice tells you our policies regarding: 
+**What Personally Identifiable Information Is Collected On This Website? How Is That Information Used?**
 
-  * The kinds of personally identifiable information we collect. 
-  * How we use that information. 
-  * The nature, frequency and purpose of any disclosure we may make of that information and the types of persons and entities to which the disclosure may be made. 
-  * The period during which we will keep that information. 
-  * The choices available to you regarding collection, use and disclosure of that information, including the times and place at which you may have access to that information. 
-  * Certain rights you may have regarding that information. 
+Whenever you visit this Website, even if you do nothing but view, browse or download information, our systems automatically record certain anonymous information such as the IP address of your computer, the date and time of your visit and the Webpages or services you accessed at this Website. We use this data only in non-personally identifiable form for measuring the usage of various areas of this Website and other purposes related to the administration or enhancement of this Website. 
 
+From time to time we may make optional services or features available on this Website. Some may be available to you only if you provide us with personally identifiable information. For example, we may let you use this Website to subscribe to our cable television or other services or, if you are already a subscriber, to review your service account. If you have to provide personally identifiable information to use a feature or resource of this Website, you will know because you will have to fill out a form or enter that information on this Website. Some of the information we ask for will be mandatory, meaning that it must be provided in order for you to take advantage of an offer or a feature of this site. Some is optional, meaning that you do not need to provide it in order to participate in an offer or use a feature. It will always be your choice as to whether to give us any of the personally identifiable or other information we request, but you will not be able to take advantage of certain offers or features if you do not give us the mandatory information we require. 
 
+We may have or acquire personally identifiable information about you otherwise than because of your use of this Website. For example, we may obtain it from our business partners or other third parties or if you subscribe for any of our services “offline.” 
 
-As the term suggests, information is "personally identifiable" if it can be used to identify or contact an individual, such as his or her name and address or telephone number. It also includes information that combines data about an individual's activities or history with information that identifies the individual, such as the combination of the individual's name with the fact that he or she purchased a specific product online, so that someone else with access to the combined information could learn that the named person bought the particular item. Information that does not permit an individual to be identified or contacted and that does not permit information about his or her activities or history to be linked to him or her is not "personally identifiable information." Among other things, this means that if we separate data about your activities from your name or other data that identifies you, then that data is no longer "personally identifiable information." For example, we might compile data we have about our Mediacom Online customers into aggregate or other anonymous forms, such as the monthly average number of customers who use the service to visit travel-related Websites. 
+Subject to applicable law, we may use any such personally identifiable information that you provide for one or more of the following purposes: 
 
-Our policies described in this notice apply to personally identifiable information about you that you furnish to us or that we otherwise collect in the course of providing you with one of our services referred to in this notice. Those policies apply to such information whether we obtain it "online" (such as when you subscribe for our cable service on a Website we operate) or "offline" (such as when you subscribe for our cable service using the telephone or a paper order form). Please note, however, that if you use a Website we operate for purposes of our cable or other services, then additional online privacy policies may apply that cover topics unique to Internet usage, such as use of "cookies." You can review those additional online policies by clicking on the "Privacy Policy" link appearing at the bottom of the home page of the relevant Website. 
-
-Some of our services, including the Mediacom Online(sm) Internet access service, interactive cable television programming and telephony services allow you to interact with companies and individuals that are independent of Mediacom. By using those services, you may enable these companies or individuals to independently learn personally identifiable information about you. The policies in this notice do not apply to personally identifiable information or other information that you provide to any of these third parties or that they collect independently of us. These third parties may have their own privacy policies, but Mediacom is not responsible or liable if they do not or if they fail to follow those policies. 
-
-**The Kinds of Personally Identifiable Information We Collect and How We Use It**
-
-In order to provide our services to you, we keep business records that contain personally identifiable information about you, such as: 
-
-  * Your name, home and work e-mail and postal addresses, telephone numbers, social security number, driver's license number, credit or debit card numbers and expiration dates and bank account information for billing purposes, payment history and credit reports. 
-  * Depending on the services we provide to you, information on the number, location within your home and configuration of television sets, converters, cable modems, personal computers, telephones or other service-related equipment or devices in your home. 
-  * Maintenance and repair records for the equipment in your home used for the services. 
-  * The services and service options you select and, in the case of any service where you have a choice of whether or not to use a particular feature, program or offering, the information transmitted through our cable facilities or that you otherwise communicate to us in order to make a choice. 
-  * Information about your satisfaction or usage of a service that we obtain from subscriber interviews or questionnaires or other feedback from you. 
-  * A record of whether you rent or own your home so that we can obtain any permission required prior to installing our cable or equipment. 
-  * Subscriber correspondence (via e-mail or otherwise). 
-  * A record of any violations and alleged violations of the agreements, terms, conditions or policies that govern your use of our services. 
-  * Other information that we need to render a service to you or conduct our business of providing that service. 
+  * To render a service to you. 
+  * To operate and safeguard our network and systems.
+  * For billing and ordering purposes. 
+  * To contact you about services, products or other matters we think may be of interest to you. 
+  * For legal, accounting and other purposes related to our business. 
+  * For any other purpose that we clearly identify at the time we request the information. 
 
 
 
-In general, we use this personally identifiable information as necessary to render our services to you, to detect unauthorized reception of cable communications and for tax, legal, accounting and other purposes related to our business of providing our services to subscribers, including, but not limited to, the following: 
+**Does Mediacom Use Cookies To Collect Information?**
 
-  * To make sure you are being billed properly and pay for the services you receive. 
-  * To send you pertinent announcements about the Mediacom services you receive. 
-  * To improve the quality or appeal of Mediacom's services or to customize the services offered to you. 
-  * To answer questions from subscribers such as troubleshooting. 
-  * To send you promotional material or information about other products and services available from Mediacom or others, subject to applicable law and any applicable "opt-out" choice you make as described below. 
+We may use cookies or clear gifs to collect information about usage of this Website. A cookie is a small data file that contains a unique identification number that is placed on your computer. We may use either “session ID” cookies or “persistent” cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is stored on the hard drive of the user’s computer for an extended period of time. Usually, you can prevent a cookie from being placed on your computer or remove persistent cookies by following the directions in the “Help” file for your Internet browser. If you do so, however, you may not be able to take full advantage of all that this Website offers. 
 
+Clear gifs (sometimes also called “Web Beacons” or “Web Bugs” or “1x1 Pixels”) are small bits of code embedded in some Webpages. Unlike cookies, there currently is no convenient way for computer users who are not experts to remove or block clear gifs. 
 
+A cookie or clear gif does not actually identify a visitor to this Website. It just identifies the particular browser used and lets our systems count or “remember” certain choices made by the anonymous browser user during a visit. We use cookies and clear gifs for purposes of administering and enhancing this Website, such building a better site based on what we learn about the frequency of visits to various areas of our site. We may also use them to improve the experience of repeat visitors to this site, such as by letting them avoid having to re-enter information previously provided. For example, if a password is needed to access an area of this Website, we might use a cookie so that users will not have to log in a password more than once, thereby saving time during repeat visits. 
 
-Without your written or electronic consent, we may not collect this personally identifiable information about you over our cable system unless it is necessary to render a service you receive or detect unauthorized reception of cable communications. If you use the Mediacom Online SM Internet access service, an interactive television service or a telephony service we provide, then as a necessary incident of providing that service, our computer systems automatically capture and store information that may include, but is not limited to, the interactive television service offerings you order using such interactive television service and the Websites you visit using such Internet access service; the dates, times and length of your Internet visits or telephone calls; the Internet or e-mail addresses or telephone numbers that you communicate with; and the text of e-mail or other electronic communications you send or receive using any of these services. We use that information to provide the service, bill and collect service-related charges, ensure compliance with applicable law and contractual provisions and customize our services based on the interests of subscribers and for tax, legal, accounting and other purposes related to our business of providing such services. Any personally identifiable information that may be derived from these logs is subject to the policies described in this notice and to our obligations under the ECPA and other applicable law. 
+**What Disclosures Of Personally Identifiable Information Are Made To Third Parties?**
 
-We may also combine personally identifiable information that we obtain from you in the course of our business of providing a service to you with personally identifiable information that we obtain from third parties for the purpose of creating an enhanced personal database to use in marketing and other activities, including, if and to the extent permitted by the Cable Act and subject to any applicable "opt-out" choice you make as described below, furnishing it to third parties for use in telephone or mail solicitations, marketing or other purposes.
+We may share personally identifiable information, if any, about you with other companies, individuals, nonprofit organizations, law enforcement or government agencies as follows: 
 
-**Disclosure of Personally Identifiable Information by Us**
-
-Under the Cable Act, Mediacom may not disclose personally identifiable information about you except in certain limited circumstances. 
-
-We may disclose personally identifiable information about you with your prior written or electronic consent. As permitted by the Cable Act, Mediacom also from time to time may disclose, without such consent, personally identifiable information about you if necessary to render, or conduct a legitimate business activity related to, a cable service or other service provided to you. The kinds of persons or entities to which we may make such disclosures (to the extent permitted by the Cable Act) include, but are not necessarily limited to, the following:
-
-  * Persons or entities that control, are controlled by or under common control with Mediacom. 
-  * Billing services, collection agencies and credit agencies. 
-  * Installation, repair and other contractors and subcontractors or suppliers of goods or services we use in providing a service to you. 
-  * Sales representatives used to market our services. 
-  * Accountants, lawyers, consultants and other professionals we or our affiliated companies use in our businesses. 
-  * Cable programming or content suppliers and program guide distributors. 
+  * When we have your consent. 
+  * When it is necessary or convenient to provide a product, service or information you have ordered or requested. This includes providing it to companies who work on behalf of Mediacom to provide a product or service to you. 
+  * If we believe that your actions on our Website violate or may violate Mediacom’s Website Terms of Use, Privacy Policy, Acceptable Use Policy or any agreement or policies regarding a specific service or product you order. 
+  * To respond to subpoenas, court orders or legal process or when we believe disclosure is otherwise required or authorized by law or is necessary to prevent imminent danger of death or physical harm to you or others. 
+  * To investigate and/or respond to illegal activity, fraud, abuse or unauthorized reception.
+  * Under any other circumstances that we describe to you before or at the time we obtain the information. 
 
 
 
-In addition, if Mediacom or its affiliates directly or indirectly transfer ownership of or an interest in all or part of the business of providing a service you subscribe for, we may disclose or transfer your subscriber records to the purchaser or other party to the extent necessary to complete the transaction or permit the purchaser or other party to continue to provide you with service after the transaction is completed. This kind of transaction could take the form of a merger, sale of stock or assets, formation of a joint venture, investment or some other structure. 
+In addition, Mediacom may transfer ownership of or an interest in all or part of the business of providing a service you subscribe for or any other business for which we use your records. If so, we may disclose or transfer your records to the purchaser or other party to the extent necessary or advisable to complete the transaction or permit the purchaser or other party to continue to provide you with that service or conduct that business. This kind of transaction could take the form of a merger, sale of stock or assets, formation of a joint venture, investment or some other structure. 
 
-Information we disclose for purposes relating to billing and levels of service usage is generally provided on a monthly basis. Information for other purposes is provided as it is needed.
+**Can Third Parties Learn About Me Otherwise Than Because Of Disclosures By Mediacom?**
 
-As permitted by the Cable Act, we may also from time to time disclose lists of our subscribers to third parties for purposes other than those referred to above. Those lists may contain your name and address, so long as we have given you the opportunity to prohibit or limit such disclosure and we do not also reveal, directly or indirectly, the extent of any viewing or other use of the services we provide to you or the nature of any transaction you make using those services. This permits us, among other things, to disclose your name and address to charities, advertisers, direct mail marketers and telemarketers for use in telephone or mail solicitations, market research or other purposes. As noted above, if and to the extent permitted by the Cable Act, these lists may combine with your name and address personally identifiable information that we obtain from third parties for the purpose of creating an enhanced personal database. You have the right to elect not to be included on such a list. It you do not desire to be included on any such list, you may "opt out" by completing the [Mailing List Opt-Out Form](http://www.mymediacomonline.com/help/form) that is included with this notice.
+This Website may allow you to interact with third parties that are independent of Mediacom. For example, we may permit advertisers to place ads on this Website that contain links to their own Websites. Some or all of these advertisers or other third parties may include cookies, clear gifs or other tracking devices in the ads or other content they post on our Website. If you choose to interact with those third parties or visit their Websites, you may enable them to independently learn personally identifiable information about you. 
 
-If you use the Mediacom Online(sm) Internet access service or our telephony service to send or receive an e-mail message or other electronic communication, the ECPA permits us to access the content of those communications. It also permits us to disclose such information to an addressee or intended recipient (or his or her agent); to a person involved in forwarding such information to its destination or when it is necessarily incident to providing service or to protect our rights or property; or to anyone with the consent of the subscriber or an addressee or intended recipient (or his or her agent). If you use the Mediacom Online(sm) Internet access service, then you agree in your Customer Agreement that Mediacom may, to maximum extent permitted by law, monitor postings, content and communications electronically from time to time made through the service using your account or connection and to disclose any information as necessary or we reasonably believe to be prudent to satisfy any law, regulation or other governmental request, to operate the service or to protect Mediacom or its affiliates, suppliers or subscribers.
+Once you leave this Website, then our privacy policy no longer applies to any information that you provide to any third party on another site or that any third party otherwise collects. (You can tell where you are on the World Wide Web by checking the address—known as a URL—in the location bar on your browser.) These third parties may have their own privacy policies, which may differ from Mediacom’s policy. Mediacom is not responsible or liable if third parties do not have their own privacy policies; if they fail to follow their own policies; or if their policies do not correspond to ours or do not comply with applicable law. 
 
-The Cable Act also permits us to disclose identifiable information about you if authorized by a court order and if you have been notified of such order. If a governmental authority seeks the disclosure of personally identifiable information under any law except (i) the ECPA or (ii) the federal "pen register/trap and trace" statute (which we refer to as "the Register/Trace Statute"), then the Cable Act may prohibit such disclosure unless the disclosure is required by a court order and the following two special requirements are met: 
+We do not warrant the accuracy, reliability or timeliness, nor endorse any content, viewpoints, products or services linked from this Website, and we disclaim liability for any consequences of your access to or use of any other site. 
 
-  * you have been given the opportunity to contest in court any claims made in support of the court order sought by the governmental authority; and. 
-  * in the court proceeding, the governmental authority has offered clear and convincing evidence that you are reasonably suspected of engaging in criminal activity and that the information sought would be material evidence in a case against you. 
+In addition, use of the Internet carries the inherent risk of unauthorized access to your files, communications and data. More information about this is provided below under **“What Security Methods Are Used To Secure Online Data About Me?”**
+
+**Correcting/Updating/Deactivating Personally Identifiable Information**
+
+If you use a feature of this Website that requires you to give us personally identifiable information, we may provide on this Website a method or instructions for updating that personally identifiable information or deactivating the service for which that information is used. This can also be done by contacting us as instructed under “What if I Have Questions About this Privacy Policy?” below. Please be aware, however, that even if you deactivate a service, we may retain your personally identifiable information for as long as may reasonably be required to comply with tax, accounting and any applicable contractual or legal requirements. 
+
+**What Security Methods Are Used to Secure Online Data About Me?**
+
+We take reasonable technical and physical security steps to protect personally identifiable information. We may utilize secure socket layer (SSL) encryption to protect certain information provided to us on certain pages of this Website. While on a secure page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just “surfing.” 
+
+Nonetheless, we do not guarantee the security of our database or records, nor that unauthorized parties won’t intercept information you send or receive over the Internet. The Internet, like all networks, is a shared resource, which means that it is inherently subjects you and other users to the risk of unauthorized access to your files and data. This may be the case even when passwords, SSL or other encryption and other security measures are implemented. These risks not unique to our Website, but are usually present whenever and however you access or use the Internet. Accordingly, if you use this Website or the Internet to send, receive or post personal, confidential or sensitive information, you do so solely at your own risk. 
+
+Information from the Federal Trade Commission about safely surfing the Web is available by clicking on the following link: [www.ftc.gov/bcp/conline/edcams/infosecurity](http://www.ftc.gov/bcp/conline/edcams/infosecurity/index.html). While we are providing this link, we are not responsible for the content of the Commission’s publication and do not guarantee that the suggestions it contains will be effective for the intended purposes. 
+
+**Communications From This Website**
+
+If you use certain optional services or features of this Website, we may periodically communicate with you by email, telephone, postal mail or otherwise. 
+
+Some of those communications may be related to a service or feature of this Website that you order or request, such as to verify a password and username or to give notice of a temporary suspension of a service or feature for maintenance. In general, because these kinds of communications will relate to a service or feature you order or request, we ordinarily will not provide a means for opting-out of receiving these kinds of communications. Some of those communications may be promotions or other information concerning services, products, special deals and other matters that we think may be of interest, but that are not related to a service or feature you have ordered or requested. If we send these communications by email, we may include with the message a link to instructions about how you can opt-out of receiving further email communications of this kind. This can also be done by contacting us as instructed under **“What If I Have Questions About This Privacy Policy?”** below. 
+
+**We Do Not Knowingly Collect Personally Identifiable Information From Children**
+
+Mediacom does not target children (under the age of thirteen) for collection of personally identifiable information through this Website or offline, and it is against our policies to knowingly gather that kind of information from children. Federal law requires website operators who knowingly collect personal information from children under the age of thirteen to first get parental consent, and children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, postal addresses and phone numbers) over the Internet, to us or to anyone else. Persons under the age of eighteen are not eligible to subscribe to Mediacom’s cable television, Internet access or other services. 
+
+For the Federal Trade Commission’s tips to parents about protecting their children’s online privacy, click here: [www.ftc.gov/bcp/conline/edcams/kidzprivacy/adults.htm](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adults.htm). While we are providing this link, we are not responsible for the content of the Commission’s publication and do not guarantee that the tips will be effective for the purposes provided. 
+
+**Will Mediacom Change This Privacy Policy?**
+
+We may modify this Privacy Policy from time to time. If we do so, we will post changes in a revised Privacy Policy available on this site or provide notice of such change by another method. 
+
+**What If I Have Questions About This Privacy Policy?**
+
+If you have any questions about the provisions in this Privacy Policy, please contact Mediacom at: 
+
+Mediacom Communications Corporation   
+100 Crystal Run Road   
+Middletown, New York 10941   
+Telephone: 845-695-2600   
+Fax: 845-695-2669   
 
 
+In addition, if you are a subscriber to any Mediacom cable television, Internet access or other service, you may also contact your local Mediacom cable system at the address and telephone number stated on your monthly bill.
 
-If a governmental authority seeks personally identifiable information about you under the ECPA or the Register/Trace Statute, the Cable Act's requirements are different depending on the nature of the information sought. If the governmental authority wants disclosure of records revealing cable subscriber selection of video programming, then we may disclose it only if authorized or required by a court order and only if the two special requirements of the Cable Act stated above are met. If, however, the government seeks any other kind of personally identifiable information, then those two special requirements do not have to be met and the government may require us to make the disclosure if authorized by the ECPA or the Register/Trace Statute. In some cases, this will mean that the disclosure may be required without a court order, without any prior notice to you that the government seeks the disclosure, without any prior opportunity for you to oppose the disclosure and without any notice that the disclosure has been made as required. 
+**_Your California Privacy Rights_**
 
-In addition to the above, if you subscribe to any of our Internet or telephony services, the ECPA permits us to disclose the contents of your e-mail or other communications to a law enforcement agency if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of the information without delay. We may do so without prior notice to you, without your consent and without being required to do so by a warrant, subpoena, court order or law. Examples of situations in which we might make such disclosures are where we reasonably believe that there is an immediate risk of suicide or terrorist activity. 
+California Civil Code §1798.83 permits residents who have provided personal information to us to request information about our disclosure of personal information to third parties for their own direct marketing purposes.  To make such a request or to opt-out of such disclosures in the future, please contact us at:
 
-The ECPA provides for other exceptional circumstances under which we may be compelled or permitted to disclose information about you or the content of your communications. For example, the content of your e-mail or other communications may be disclosed to law enforcement agencies if it appears to be evidence of child pornography, or was inadvertently obtained by us and appears to pertain to the commission of a crime. 
+Mediacom Communications Corporation   
+100 Crystal Run Road   
+Middletown, New York 10941   
+Telephone: 845-695-2600   
+Fax: 845-695-2669   
 
-The Personal Responsibility and Work Opportunity Reconciliation Act of 1996 provides that state welfare agencies may obtain from our subscriber lists the addresses of individuals who owe or are owed child support and the names and addresses of their employers. The law says that this information can be obtained through an administrative subpoena issued by the state welfare agency, without a court order, and does not require that a subscriber be given notice of and the opportunity to contest the disclosure. 
 
-Sometimes, a copyright owner believes that the copyright has been infringed by an Internet user who uses an online service to post, download or otherwise use the copyrighted work without permission. The owner may know some information, such as the user's e-mail or IP address, but may not know the user's true identity. The Digital Millennium Copyright Act provides for a copyright owner to obtain a subpoena seeking disclosure from an online service provider of the identity of a user who is believed to have infringed the copyright. Upon receipt of a subpoena, the online service provider is required to expeditiously identify the alleged infringer. 
-
-Mediacom will disclose personally identifiable information about you when required or authorized by law or legal process, after giving effect to the Cable Act's requirements.
-
-**Time Period During Which We Retain Personally Identifiable Information**
-
-The Cable Act requires us to destroy personally identifiable information if the information is no longer necessary for the purpose for which it was collected and there are no pending requests by you for access to it or pending court orders or other legal process requiring that we disclose it to a third party. In most cases, this means that we will have personally identifiable information about you for so long as you are a subscriber and continue to retain it thereafter for as long as it may reasonably be required to comply with tax, accounting and any applicable contractual or legal requirements, which could be seven years or more after you stop being a subscriber. 
-
-**Access to Our Records About You**
-
-Under the Cable Act, cable subscribers have the right to inspect our records that contain personally identifiable information about them and to have a reasonable opportunity to correct any errors in such information. If you wish to exercise this right, please notify us at the local Mediacom office specified on your bill, and we will contact you to arrange a mutually convenient time during our regular business hours. 
-
-**Your Rights Under the Cable Act**
-
-The Cable Act provides you with a cause of action for damages, attorneys' fees and costs in Federal District Court if we violate the Cable Act's limitations on the collection, disclosure, and retention of personally identifiable information about you. The subscriber, customer or other service agreement applicable to you may provide that, to the extent permitted by law, any claims that you have under the Cable Act will be decided in arbitration and attorneys' fees and punitive damages will not be available. 
-
-**Changes to Our Policies**
-
-Subject to applicable law, Mediacom reserves the right to modify the provisions of this notice. We will notify our affected subscribers of any changes.
-
-**Contact Your Local Mediacom Office If You Have Questions**
-
-If you have any questions about our policies described in this notice, please contact your local Mediacom office at the address and telephone listed on your bill (or, if you have not yet been billed, on the service order you signed to subscribe to the service). 
+188053v2
