@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420112717id_/http%3A//www.my1stop.com.my/v1/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my1stop.com.my privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515012004id_/http%3A//www.my1stop.com.my/v2/mall/%3Fterms%3Dprivacy) for the most accurate reproduction.*
 
-# My1Stop Virtual Shopping Mall: online shopping, business, advertising, e-store rental, free listing, reseller and affiliate program
+# My1Stop Virtual Shopping Mall: online marketplace and shopping, FREE online store, best e-commerce solution
 
-#### My1Stop Privacy Policy
+My1Stop Privacy Policy
+
+## My1Stop Privacy Policy
 
 Welcome to the privacy policy (the "Agreement" or "Privacy Policy") for My1Stop Virtual Shopping Mall (hereinafter referred to as "My1Stop"). This Privacy Policy describes how we handle your personal information on My1Stop website. This policy applies throught our website, our subdomains. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on January 1st, 2007. 
 
@@ -106,11 +108,9 @@ Except as otherwise expressly included in this Privacy Policy, this document add
 We may amend this Privacy Policy at any time by posting the amended terms on the website. All amended terms automatically take effect 30 days after they are initially posted on the website. If you have any queries regarding this Privacy Policy, you may write to us at: 
 
 Carwin Solutions,  
-34A, Jalan SG 1/5,   
-Taman Sri Gombak, Batu Caves,  
-68100 Gombak,  
-Selangor,  
+20C, Tingkat 3, SS19/1D,   
+Subang Jaya,  
+47500 Selangor,  
 Malaysia .
 
-Or email us at http://www.my1stop.com.my/v1/?content=contactus.  
-
+Or email us at http://www.my1stop.com.my/v2/mall/index.php?my1stop=contact
