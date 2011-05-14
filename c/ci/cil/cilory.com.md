@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112071541id_/http%3A//www.cilory.com/cms.php%3Fid_cms%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cilory.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514165010id_/http%3A//www.cilory.com/cms.php%3Fid_cms%3D3) for the most accurate reproduction.*
 
 # Cilory - Privacy Policy
 
@@ -29,6 +29,7 @@ No Sharing of Information
 
 
   * Even your credit card/bank statement would not show our name: Even your credit card / bank account would show a transaction with the name of our company. Cilory.com would NEVER appear anywhere.
+  * The merchant name on the card/bank statement will either show our payments processing partner name i.e. EBS or it will show our parent companies name i.e Dew Solutions Pvt. Ltd. 
 
 
   * We will maintain security and of our systems and information: We maintain the latest anti-virus software and use secure passwords on all systems. Your information is safe with us and even our employees cannot access it unless it is needed to service you.
