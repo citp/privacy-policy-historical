@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journeyetc.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227075120id_/http%3A//www.journeyetc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journeyetc.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514060611id_/http%3A//www.journeyetc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,10 +25,6 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to admin@journeyetc.com for further clarification.
-
-#### Incoming search terms:
-
-• [great wall china](http://www.journeyetc.com/privacy-policy/ "great wall china") • [neuschwanstein castle](http://www.journeyetc.com/privacy-policy/ "neuschwanstein castle") • [sony ericsson w205](http://www.journeyetc.com/privacy-policy/ "sony ericsson w205")
 
   
 
