@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publr.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418153056id_/http%3A//www.publr.com/learn/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publr.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514221201id_/http%3A//publr.com/learn/privacy) for the most accurate reproduction.*
 
 # Publr - Privacy Policy
 
