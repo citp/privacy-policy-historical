@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the stirnews.com privacy policy that was archived on 2010-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100501213823id_/http%3A//www.stirnews.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stirnews.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514155311id_/http%3A//www.stirnews.com/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy | StirNews.com
 
 [](http://www.stirnews.com/)
 
-  * [Published News](http://www.stirnews.com/)
-  * [Upcoming News](https://web.archive.org/upcoming/)
-  * [Submit a New Story](https://web.archive.org/submit/)
-  * [Groups](https://web.archive.org/groups/)
+  * [Published News](http://www.stirnews.com/index.php)
+  * [Upcoming News](https://web.archive.org/upcoming.php)
+  * [Submit a New Story](https://web.archive.org/submit.php)
+  * [Groups](https://web.archive.org/groups.php)
 
 
 
