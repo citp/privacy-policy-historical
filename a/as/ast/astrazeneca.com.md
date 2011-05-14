@@ -1,43 +1,88 @@
-> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2008-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081023183019id_/http%3A//www.astrazeneca.com/node/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514174100id_/http%3A//www.astrazeneca.com/Privacy-policy) for the most accurate reproduction.*
 
-# AstraZeneca International - Privacy policy
+# AstraZeneca - Privacy policy
 
-This international website is provided by [AstraZeneca](http://www.astrazeneca.com/javascript:void\(0\); "References to 'AstraZeneca', 'Group', 'we', 'us' and 'our' are references to AstraZeneca PLC and its affiliates."). You can contact AstraZeneca by sending an email to the [Infomaster at AstraZeneca](http://www.astrazeneca.com/node/emailtriage.aspx). We take the privacy of our website users and the security of their personal information very seriously. For the purposes of data protection law, AstraZeneca UK Limited is the company that controls the processing of your personal data.
+This website is provided by AstraZeneca. We take the privacy of our website users and the security of their personal information very seriously.
 
-The purpose of this privacy policy is to set out the principles governing our use of personal information which we may obtain about you. By using this website, or by registering as a user of the services which we provide, you agree to this use. We ask you to read this privacy policy carefully. Any dispute which may arise over privacy will be subject to this policy, the data protection notice (if any) incorporated into this website and the provisions of English law.
+The purpose of this Privacy Policy is to set out the principles governing our use of the personal information which you give to us, or we obtain about you, via the web. By using this website, or (where applicable) by registering as a user of the on-line services which we provide, you agree to this use. We ask you to read this Privacy Policy carefully. Any dispute which may arise over privacy will be subject to this policy, any collection notice given to you and the provisions of English and Welsh law.
 
-We may change our privacy policy from time to time. We therefore ask you to check it occasionally to ensure that you are aware of the most recent version which will apply each time you access this website.
+We may change our Privacy Policy from time to time. Therefore, we ask you to check this Privacy Policy occasionally to ensure that you are aware of the most recent version which will apply from the time you access this website. We will of course notify you of any changes where we are required to do so.
 
-  
-In common with many commercial organisations we monitor the use of this website by collecting aggregate information. No personally identifiable data are collected in this process. Typically, we collect information about the number of visitors to the website, to each web page and the originating domain name of the visitor's Internet Service Provider. This information is used to understand the visitor's use of the website and may be shared with other companies within the AstraZeneca Group and with other third parties. 
+## Description of the information we collect and how we use it
 
-**  
-**Where you are required to register in order to use this website or to otherwise complete an online application form (eg to obtain email updates), we will collect personally identifiable information about you, such as your name, email address, country of residence and other information which you voluntarily submit.
+### 1 Aggregate information
 
-  
-We will only use information that we hold about you in accordance with this privacy policy and any data protection notice which we have provided to you. 
+In common with many commercial organisations we monitor the use of this website by collecting aggregate information through the use of cookies (see below). Typically, we collect information about the number of visitors to the website, to each web page and the originating domain name of the visitor's Internet Service Provider. This information is used to understand the visitor's use of the website and may be shared with other companies within the Group and with other third parties. We have no means reasonably available to us to ascertain the identity of individual users from aggregated information.
 
-We may, from time to time, contact you by email or post with information about our products or services or those of other companies in the AstraZeneca Group, that may be of interest to you (eg news updates). If you do not wish to receive such details you can easily opt-out of receiving further information from us by sending an email to the [Infomaster at AstraZeneca](http://www.astrazeneca.com/node/emailtriage.aspx). You should clearly state your name, username and registration details (if any) and the name of this website on all communications.
+### 2 Personal information
 
-  
-We store your personal data on a secure server which is password protected and shielded from the outside world by a firewall. We have in place security policies which are intended to ensure, as far as possible, the security and integrity of all our information, including your personal information.  
-Cookies are small files which are sent to your web browser and stored on your computer's hard disk. These are sometimes created and transferred to your hard disk upon first registration at a website. They are subsequently used to identify your computer and allow you repeated access to the website without having to log on each time. The cookie is used purely to speed up your access to the website and the information you wish to see. The majority of web browsers accept cookies, but you can usually change the browser settings to prevent the transfer. However, please be aware that, if you do so, some functionality may be lost.  
-We employ other companies and individuals to perform functions on our behalf. They may need access to your personal information in order to perform their functions. Rest assured, however, that they may not use your personal information for any other purposes.
+If you are required to register in order to use this website or to otherwise complete an on-line application form (eg to obtain e-mail updates) then we will collect personally identifiable information about you, such as your name, e-mail address, country of residence and other information which you voluntarily submit.
 
-  
-Our website is directed at an adult audience (such as health care professionals, investors and individuals seeking information about our company and healthcare products). We do not knowingly collect information from or about children.  
-We may use the information we gather and/or receive about you to investigate and help prevent unlawful activity or activity that threatens our network or otherwise jeopardises the provision of this website.  
-Under European data protection law, you have a right to request access to personal data which are held about you upon payment of a small fee.
+We intend to continue improving the content and functionality of our website. Therefore, we may collect information about how you in particular use this website through the use of cookies (and other similar technologies) (see below). We may also monitor customer traffic patterns and site usage to help us to improve the design and layout of our site, personalise your experience by tailoring the content you see thus optimising your user experience. We may also perform statistical analysis on our members’ accounts to determine, among other things, how many of them are active, how frequently they are used and how many of our other websites you are registered with.
 
-You also have a right to require any inaccuracies in your information to be corrected free of charge. You can ask us to modify your details by sending an email to the [Infomaster at AstraZeneca](http://www.astrazeneca.com/node/emailtriage.aspx).
+Occasionally, we may obtain sensitive personal information about you, for example, information relating to your physical or mental health or condition, **but only if you voluntarily provide us with this information.** By providing us with this information you consent to us processing your sensitive personal data for the purposes set out in this Privacy Policy and any collection notice provided.
 
-Please state your name, username and registration details (if any) clearly on all communications.
+We may also obtain information about your opinions if, for example, you send us feedback, or ask us questions. 
 
-  
-We welcome feedback and questions on this privacy policy. If for any reason you wish to contact us, please send an email to the [Infomaster at AstraZeneca](http://www.astrazeneca.com/node/emailtriage.aspx).
+We may also, occasionally, receive information about you from other sources (such as third parties or other companies within the Group) which we will add to the information which we already hold about you in order to help us improve and personalise our service to you.
 
-References to "AstraZeneca", "Group", "we", "us" and "our" are references to AstraZeneca PLC and its affiliates.
+If you provide us with information about another person e.g. a colleague of yours, you confirm that they have appointed you to act for them, to consent to the processing of their personal datainformation, including sensitive personal data, and that you have informed them of our identity and the purposes (as set out in this Privacy Policy) for which their personal datainformation will be processed.
 
-We may obtain sensitive personal information about you, for example, information relating to your physical or mental health or condition, but only if you voluntarily provide us with this information. We may also obtain information about your opinions if you, for example, send us feedback, or ask us questions.
+We may disclose personal information data in order to comply with a legal or regulatory obligation, or in response to a non-mandatory request for information made by a governmental or state body.
 
-Occasionally we may receive information about you from other sources which we will add to the information which we already hold about you in order to help us improve and personalise our service to you
+You consent to our transferring your information to countries or jurisdictions which do not provide the same legal level of data protection as your home country. If we do make such a transfer, we will ensure that your information is appropriately protected while in transit and while in the destination country.
+
+## Opting out of further communications from us
+
+If you have elected to receive information about our products or services, or those of other AstraZeneca companies, and you wish to opt out of receiving such information, then you can do so by sending an e-mail to infomaster@astrazeneca.com. You should clearly state on all communications: your name, username (if any), registration details (if any) and the name of this website.
+
+## How we protect your information
+
+We have in place appropriate security policies which are intended to ensure, as far as reasonably possible, the security and integrity of all our information, including your personal information.
+
+## Use of cookies
+
+Below is a summary of our use of cookies, for a fuller explanation of what a cookie is please visit “[aboutcookies.org](http://www.aboutcookies.org/)”.
+
+In general terms, cookies are small text files which are sent to your web browser and stored on your computer's hard disk. Cookies act as a memory for a website, allowing that website to remember your computer on your return visits. This is particularly important for websites that require you to sign in as it speeds up your access. We use both session cookies (which exist only until you close your web browser) and persistent cookies (which exist for a longer, specified period of time).
+
+Some of our advertising banners may send a cookie to your hard disk (whether or not you click the banner). If you subsequently visit the advertised website we will know that you have seen our banner. This allows us to keep track of the success rates of such banners.
+
+We also include web beacons (also known as clear GIFs or web bugs) in our emails to track the success of our marketing campaigns. This means that if you open an email from us and click an embedded link, we can see which pages of the site you visit. Our web beacons do not store additional information on your computer but, by communicating with our cookies on your computer, they can tell us when you have opened your email. If you object to web beacons, we recommend that you follow the instructions for deleting existing cookies and disabling future cookies below. We will still know how many of our emails are opened and we will automatically receive your IP address, a unique identifier of your computer or other access device; but we will not identify you as an individual because this information is aggregated.
+
+The majority of web browsers accept cookies, but you can usually change the web browser’s settings to refuse new cookies, disable existing ones or simply let you know when new ones are sent to your hard disk. However, please be aware that, if you refuse or disable cookies, some of the website’s functionality may be lost.
+
+If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. Our cookies will have the file names username@www.astrazeneca.txt or username@www.sitename.txt. If you want to stop cookies being stored on your computer in future, please refer to your browser manufacturer's instructions by clicking "Help" in your browser menu. Further information on deleting or controlling cookies is available at “aboutcookies.org”.
+
+## Agents and Service Providers
+
+We sometimes employ other companies and individuals to perform functions on our behalf. They may need access to your personal information in order to perform their functions. However, rest assured, they may not use your personal information for any other purpose.
+
+## Children
+
+Our website is directed at an adult audience (such as healthcare professionals, investors and individuals seeking information about AstraZeneca and healthcare products). We do not knowingly collect information from or about children. Please do not use this website if you are under 18.
+
+## Improper conduct
+
+We may use the information we gather and/or receive about you to investigate and help prevent unlawful activity or activity that threatens our network or otherwise jeopardises the provision of this website and we may disclose such information to third parties (such as the police) for these purposes.
+
+## Access and corrections
+
+If we process personal information about you, then you have a right under data protection law to request access to that personal information (for which we may charge a small fee). You also have a right to require any inaccuracies in your information to be corrected free of charge. You can ask us to modify any details which are inaccurate by sending an e-mail to infomaster@astrazeneca.com.
+
+Please state your name, username (if any), registration details (if any) and the name of this website clearly on all communications.
+
+## Other information
+
+You should note that if our business (or any part of it) is sold or transferred at any time, the information we hold may form part of the assets transferred although it will still only be used in accordance with this Privacy Policy.
+
+For quality control and training purposes, we may monitor or record your communications with us.
+
+## How to contact us
+
+If your personal details change, if you change your mind about any of your marketing preferences or have any feedback and questions on this Privacy Policy please send an e-mail to infomaster@astrazeneca.com.
+
+References to “AstraZeneca”, “Group”, “we”, “us” and “our” are references to AstraZeneca PLC and its affiliates. A list of all the world-wide locations where AstraZeneca operates is available at [www.astrazeneca.com](https://web.archive.org/Home).
+
+Review period : 12 months  
+Last reviewed : June 2010
