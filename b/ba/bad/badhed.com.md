@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badhed.com privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013044652id_/http%3A//www.badhed.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badhed.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514021915id_/http%3A//www.badhed.com/privacy) for the most accurate reproduction.*
 
 # Badhed - Privacy
 
