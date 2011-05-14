@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the weplay.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204082312id_/http%3A//www.weplay.com/t/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weplay.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514170033id_/http%3A//www.weplay.com/t/privacy) for the most accurate reproduction.*
 
 # Weplay
 
 ##  weplay.com General Privacy Policy 
 
-_(Last updated: January 8, 2008)_
+_(Last updated: May 5, 2011)_
 
 <http://www.weplay.com/> (“Weplay”) has created this privacy policy (the “ **Policy** ”) so you will understand when and how personal information is collected, used, disclosed and protected with respect to your use of our Web site (“ **Site** ”) located at <http://www.weplay.com/>. By using the Site or the services available through the Site (the “Service”), you consent to the privacy practices described in this Policy. This Site is owned and operated by weplay, Inc.
 
@@ -24,15 +24,15 @@ Those are the types of personal and other information we collect. You should ref
 
 We collect information you give us at various times when you register with us and use our Service. Examples include the following:
 
-#### Registration and Transaction Information.
+##### Registration and Transaction Information.
 
-When you register to use the Service, we may collect various kinds of contact information about you including, for example, your name, e-mail address, birth date, country of residence, and zip code. We may also collect demographic information that you provide to us. You will also be asked to create a user-chosen ID and password for your use when accessing the Service. Finally, you will be asked to choose a secret question and answer for purposes of password retrieval. 
+When you register to use the Service, we may collect various kinds of contact information about you including, for example, your name, e-mail address, birth date, country of residence, and zip code. We may also collect demographic information that you provide to us. You will also be asked to create a user-chosen ID and password for your use when accessing the Service. You may be asked to choose a secret question and answer for purposes of password retrieval. If you choose to purchase premium services from the Service, you will be asked to provide payment information, such as a credit card.
 
-#### Use of Services and Interactive Areas of Site.
+##### Use of Services and Interactive Areas of Site.
 
 Personal information may also be collected if you provide such information in connection with participating in interactive areas on the Site or using the Service. For example, you may submit for posting on the Site images that could reasonably be used to identify you, and written statements and descriptions that could be used to identify you. Several categories of this information are optional, and you will have the ability to edit or remove much of this information at any given time. 
 
-#### Submissions and Customer Service. 
+##### Submissions and Customer Service. 
 
 From time-to-time we may post surveys, contests or sweepstakes on our Service, which may request personal or demographic information and customer feedback. Participation in these requests is completely voluntary and with each request you will have the choice of whether or not to participate and disclose information. We may also collect personal information if you provide it via e-mail, message boards, or other interactive services. Please do not post any information that you expect to keep private. In addition, we may collect and retain information that identifies you personally when you send us comments, questions or suggestions. 
 
@@ -40,11 +40,11 @@ From time-to-time we may post surveys, contests or sweepstakes on our Service, w
 
 We automatically receive certain types of information whenever you interact with us. For example, when you use the Service, our systems may automatically collect your IP address and the type of operating system or browser you use. We may also collect information pertaining to your account activity, information pertaining to the files accessed or used by you, transactional information, and standard access information, such as the time and date of accessing the Service, and usage of the Service. We use such information to help manage the effectiveness of our online advertising and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about Service usage. We may also correlate this information with personal information through the use of backend analytical tools.
 
-#### Cookies. 
+##### Cookies.
 
 We may also use cookie technology to collect information. Among other things, the use of cookies enables us to improve our Site by seeing which areas and features are most popular; to count the number of computers accessing the Site; to personalize the Site and improve the Site experience; to record your preferences and track the ads you view; to track your transactional information; and to allow you to visit the Site without re-entering your member ID and/or password. A cookie is a small amount of data, often including an anonymous unique identifier, which is sent to your browser from a Web site’s computers and stored on your computer’s hard drive. Most browsers automatically accept cookies as the default setting. You can modify the setting to reject cookies or to prompt you before accepting a cookie from the sites you visit by editing browser options. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the Site and the Service may not function properly. For example, you may not be able to sign in and may not be able to access certain Site features or services.
 
-#### Web beacons. 
+##### Web beacons.
 
 “Web beacons” (also known as Internet tags, pixel tags, single-pixel GIFs, clear GIFs, invisible GIFs, 1-by-1 GIFs, and Web bugs) are tiny graphic files placed on a Web page which send a signal when a user has visited that page, allowing the site to collect standard access information, such as time and date of a page view, and a description of the page on which the Web beacon resides. We use Web beacons to help manage the effectiveness of our online advertising and to gather access information, such as counting the users who have visited those pages and compiling aggregated statistics about site usage. 
 
@@ -113,4 +113,4 @@ California Civil Code section 1798.83 permits customers who are California resid
 
 ### CONTACTING US
 
-Any questions about this Policy should be addressed to [privacy@weplay.com](mailto:privacy@weplay.com) or call 562-951-3900.
+Any questions about this Policy should be addressed to [privacy@weplay.com](mailto:privacy@weplay.com).
