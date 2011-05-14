@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s3browser.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216131234id_/http%3A//netsdk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s3browser.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514113349id_/http%3A//netsdk.com/privacy.html) for the most accurate reproduction.*
 
 # NetSDK Software - Privacy Policy - Software Development Company. TntDrive, S3 Browser, Handy CD Ripper.
 
@@ -13,10 +13,7 @@ When you place an order online with us, we use a third-party e-commerce service.
 **Log Files**   
 We use IP addresses and we track navigation path to analyze trends and administer the site. IP addresses and URLs are not linked to personally identifiable information. 
 
-**Links**   
-This website may contain links to other sites. Please be aware that NetSDK Software is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by NetSDK Software website.
-
- **Security**   
+**Security**   
 Given the nature of the Internet and the fact that no security system is perfect, NetSDK Software cannot promise that the information you provide will never be obtained by unauthorized persons. NetSDK Software does, however, utilize industry-standard practices to protect your personally identifiable information from loss, misuse, alteration and destruction. Such measures include using firewalls and security layers to protect certain sensitive transmissions of information. 
 
 **Privacy Policy Changes**   
