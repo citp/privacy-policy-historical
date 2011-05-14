@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wjhg.com privacy policy that was archived on 2010-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101210001831id_/http%3A//www.wjhg.com/unclassified/34218884.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wjhg.com privacy policy that was archived on 2011-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110514211522id_/http%3A//www.wjhg.com/unclassified/34218884.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD html 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html xmlns:fb="http://www.facebook.com/2009/fbml"><head>
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
@@ -8,7 +8,7 @@ var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=34218884";_qc+="&7=59382";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=34218884&7=59382&18=0.3561601678989488">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=34218884&7=59382&18=0.5029328755224821">
 </noscript>
 
 
@@ -19,10 +19,11 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">  
 
 
+
 	<meta name="google-site-verification" content="orfdzs_E4bRXom1qluA34zerrmjsg4QfrlLSkrR3ZAQ">
 
-						
-	<meta name="description" content="Privacy Policy">
+							<meta name="description" content="Privacy Policy">
+
 <meta name="keywords" content="PRIVACY POLICY ">
 	<link rel="stylesheet" href="http://www.wjhg.com/templates/Site_Stylesheet?path=/">
 				<link rel="stylesheet" href="http://app.quotemedia.com/css/tools.css">
@@ -169,16 +170,458 @@ var w = window.open("http://video.ap.org/vws/search/aspx/ap.aspx?f="+pid+"&g="+t
 </script>
 <script src="http://content.worldnow.com/global/tools/video/VideoFunctions.js?ver=200806280400" type="text/javascript" language="javascript1.3"></script>
 
-			<style type="text/css">
-.submission {
-	display: none;
-}
-</style>
- 
+			
 <script type="text/javascript">
-var Clickability = Clickability || {};
-Clickability.Comment = {
-	Private : {
+
+	//Objects to interact with server
+	var CMSUtil = {
+		interactWithServer: function(form, isAjax, buildObjectFunction, 
+									returnFunction, action, servlet, 
+									extraFields){
+			if(isAjax == true && returnFunction != null){
+            	var queryString = this.serializeForm(form);
+				if(queryString != null){
+					if(action != null){
+						queryString += "&action=" + action + "&isAjax=Y";	
+					}else{
+            			queryString += "&isAjax=Y";
+            		}
+            		if(extraFields){
+            			queryString += extraFields;
+            		}
+            		
+            		var req = this.getXmlRequestObject();
+					if(req != null) {
+            			var handlerFunction = this.getReadyStateHandler(req, returnFunction, buildObjectFunction);
+						req.onreadystatechange = handlerFunction;
+						req.open("POST", servlet, true);
+            			req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
+            			req.send(queryString);
+            			return false;
+					}
+				}
+            }else{
+ 				this.submitUserFormNoAJAX(form, action, servlet); 
+			}
+		},
+		
+		getXmlRequestObject: function() {
+			var req;
+			if(window.XMLHttpRequest){
+				req = new XMLHttpRequest();
+			}else if(window.ActiveXObject){
+				try{
+					req = new ActiveXObject("Msxml2.XMLHTTP");
+				}catch(e){
+					try{
+						req = new ActiveXObject("Microsoft.XMLHTTP");
+					}catch(e){
+               			return null;
+               		}
+				}
+			}
+    		return req;
+		},
+		
+		getReadyStateHandler: function(req, returnFunction, buildObjectFunction) {
+
+			return function () {
+
+		    	// If the request's status is "complete"
+    			if (req.readyState == 4) {
+      
+      				// Check that a successful server response was received
+   		   			if (req.status == 200) {
+
+        				// Pass the XML payload of the response to the 
+        				// handler function
+        				var response = "(" + req.responseText + ")";
+            			response = eval(response);
+						buildObjectFunction(response);	
+            			returnFunction(response); 
+					} else {
+						// An HTTP problem has occurred
+        				alert("HTTP error: "+req.status);
+      				}
+    			}
+  			}
+		},
+		
+		serializeForm: function(form){
+			var paramString = "";
+			var ampRegex = new RegExp("&", "g");
+	  		var replaceAmpStr = escape("&#38;");
+	  		var percentRegex = new RegExp("%", "g"); 
+	   		var replacePerStr = escape("&#37;");
+
+       		for(var i = 0;i < form.elements.length;i++){
+       			var field = form.elements[i];
+       			if(field.tagName === "TEXTAREA" || (field.tagName === "INPUT" && field.type !== "submit")){
+       				if(field.type === "checkbox" && !field.checked){
+       					 continue;
+       				}
+					var fieldValue = field.value;
+					fieldValue = fieldValue.replace(percentRegex, replacePerStr);
+	       	    	fieldValue = fieldValue.replace(ampRegex, replaceAmpStr);
+       				paramString += field.name + "=" + fieldValue + "&";
+           		}
+       		}
+
+			return paramString;
+		},
+		submitUserFormNoAJAX: function(form, action, servlet){
+			if(servlet == null) return null;
+    	    form.action = servlet;
+
+    	    if(action != null) {
+    	    	var actionField = document.createElement('input');
+    	    	actionField.setAttribute('name', 'action');
+  					actionField.setAttribute('type', 'hidden');
+  					actionField.value = action;
+    	    	form.appendChild(actionField);
+    	    	
+    	    }
+    		form.submit();
+    	}
+    	
+	}
+	
+	var Action = {
+		attachAction: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "attachActionAJAX";
+			} else {
+				action = "attachAction";
+			}
+			CMSUtil.interactWithServer(form, isAjax, Action.buildAction, returnFunction, action, "/s");
+		},
+		
+		deleteAction: function(form, isAjax, returnFunction){
+        	var action = "";
+        	if(isAjax){
+        		action = "deleteActionAJAX";
+        	} else {
+        		action = "deleteAction";
+        	}
+        	CMSUtil.interactWithServer(form, isAjax, Action.deletedAction, returnFunction, action, "/s");
+        },
+		
+		
+		buildAction: function(response){
+			if(response.success == true){
+				Action.actionID = response.actionID;
+				Action.contentID = response.contentID;
+				Action.commentID = response.commentID;
+				Action.contentTypeID = response.contentTypeID;
+				Action.actionDate = response.actionDate;
+				Action.userID = response.userID;
+				Action.actionType = response.actionType;
+				Action.slugLine = response.slugLine;
+			} else {
+			 	Action.error = response.error;
+			}
+		},
+		
+		deletedAction: function(response){
+			if(response.success == true){
+				Action.actionID = response.actionID;
+			} else {
+				Action.error = response.error;
+			}
+		}
+	}
+	
+	var Ranking = {
+		insertRanking: function(form, isAjax, returnFunction){
+			CMSUtil.interactWithServer(form, isAjax, Ranking.buildRanking, returnFunction, "rankComment", "/p");
+		},
+		
+		buildRanking: function(response){
+			if(response.success == true){
+				Ranking.success = true;
+				Ranking.objectId = response.objectId;
+				Ranking.type = response.type;
+				Ranking.ipAddress = response.ipAddress;
+				Ranking.rankDate = response.rankDate;
+				Ranking.upRanking = response.upRanking;
+				Ranking.downRanking = response.downRanking;
+			} else {
+				Ranking.error = response.error;
+			}
+		}
+			
+	}
+			
+	var Rating = {
+		addRating: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "addRatingAJAX";
+			} else {
+				action = "addRating";
+			}
+            CMSUtil.interactWithServer(form, isAjax, Rating.buildRating, returnFunction, action, "/s");
+        },
+        
+        insertRating: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
+		},
+        
+		buildRating: function(response){
+			if(response.success == true){
+				Rating.id = response.id;
+				Rating.rating = response.rating;
+				Rating.upvote = response.upvote;
+				Rating.downvote = response.downvote;
+				Rating.type = response.type;
+				Rating.date = response.date;
+				Rating.ipAddress = response.ipAddress;
+			}else{
+				Rating.error = response.error;
+			}
+		}
+		
+	}
+	
+	var User = {
+		createUser: function(form, isAjax, returnFunction){	
+		    var action = "";
+			if(isAjax){
+				action = "createProfileAJAX";
+			} else {
+				action = "createProfile";
+			}
+            CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		loginUser: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "doLoginProfileAJAX";
+			} else {
+				action = "doLoginProfile";
+			}
+        	CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateUser: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateProfileAJAX";
+			} else {
+				action = "updateProfile";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateRegistration: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateRegistrationAJAX";
+			} else {
+				action = "updateReg";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		updateProfilePassword: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				action = "updateProfilePasswordAJAX";
+			} else {
+				action = "updateProfilePassword";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		insertProfilePic: function(form, isAjax, returnFunction){
+			var action = "";
+			if(isAjax){
+				//not implemented as of yet
+				return;
+				//action = "updateImageAJAX";
+			} else {
+				action = "updateImage";
+			}
+			CMSUtil.interactWithServer(form, isAjax, User.buildUser, returnFunction, action, "/s");
+		},
+		
+		buildUser: function(response){
+			if(response.success == true){
+				User.ID = response.ID;
+				User.username = response.username;
+				User.email = response.email;
+				User.firstName = response.firstName;
+				User.lastName = response.lastName;
+				User.birthDate = response.birthDate;
+				User.createDate = response.createDate;
+				User.title = response.title;
+				User.company = response.company;
+				User.address1 = response.address1;
+				User.address2 = response.address2;
+				User.city = response.city;
+				User.state = response.state;
+				User.zipcode = response.zipcode;
+				User.country = response.country;
+				User.custom1 = response.custom1;
+				User.custom2 = response.custom2;
+				User.custom3 = response.custom3;
+				User.custom4 = response.custom4;
+				User.custom5 = response.custom5;
+				User.custom6 = response.custom6;
+				User.custom7 = response.custom7;
+				User.custom8 = response.custom8;
+				User.custom9 = response.custom9;
+			}else{
+				User.error = response.error;
+				User.errorMsg = response.errorMsg;
+				User.errorCode = response.errorCode;
+			}
+		}
+	}
+	
+	var UserContent = {
+		insertContent: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			UserContent.messages = null;
+			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, extraQueryStr, "/d");
+		},
+		
+		editContent: function(form, isAjax, returnFunction){
+			CMSUtil.interactWithServer(form, isAjax, UserContent.buildContent, returnFunction, null, "/d");
+		},
+		
+		buildContent: function(response){
+			if(response.success == true){
+				for (var i=0; i< response.fields.length; i++){
+					var field = response.fields[i];
+					UserContent[field] = response[field];
+				}
+				UserContent.contentID = response.contentID;
+				UserContent.contentType = response.contentType;
+				UserContent.title = response.title;
+				UserContent.status = response.status;
+			} else {
+				UserContent.error = response.error;
+				UserContent.messages = response.messages;
+			}
+		}
+	}
+	
+	var Comment = {
+	
+		insertComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "insertComment", "/c", extraQueryStr);
+		},
+	
+		deleteComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			}else{
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.nullifyComment, returnFunction, "deleteComment", "/c", extraQueryStr);
+		},
+		
+		updateComment: function(form, isAjax, returnFunction){
+			var extraQueryStr = null;
+			if(isAjax){
+				extraQueryStr = getFieldsForForm();
+			} else {
+				addFieldsToForm(form);
+			}
+			CMSUtil.interactWithServer(form, isAjax, Comment.buildComment, returnFunction, "updateComment", "/c", extraQueryStr);
+		},
+		
+		buildComment: function(response){
+						Comment.name = null;
+			Comment.website = null;
+			Comment.title = null;
+			Comment.comment = null;
+			Comment.email = null;
+			Comment.rating = null;
+			Comment.ratingType = null;
+			Comment.commentType = null;
+			Comment.flagged = false;
+			Comment.isAuthor = false;
+			Comment.error = null;
+			Comment.status = null;
+			Comment.level = 0;
+			Comment.parentID = 0;
+			Comment.threadID = 0;
+			Comment.id = 0;
+			Comment.extID = null;		
+		
+			if(response.success == true){
+				Comment.id = response.id;
+				Comment.name = response.name;
+				Comment.comment = response.comment;
+				Comment.email = response.email;
+				Comment.website = response.website;
+				Comment.title = response.title;
+				Comment.isAuthor = response.isAuthor;
+				Comment.flagged = response.flagged;
+				Comment.status = response.status;
+				Comment.rating = response.rating;
+				Comment.ratingType = response.ratingType;
+				Comment.commentType = response.commentType;
+				if(Comment.status == "AUTHOR"){
+					Comment.isAuthor = true;
+				} else if(Comment.status != "APPROVED") {
+					Comment.flagged = true;
+				}
+			    Comment.id = response.id;
+			    Comment.threadID = response.threadID;
+			    Comment.parentID = response.parentID;
+			    Comment.level = response.level;
+			    Comment.extID = response.extID;
+			} else {
+				Comment.error = response.error;
+			}
+		},
+		
+		nullifyComment: function(response){
+			if(response.success == true){
+				Comment.comment = null;
+				Comment.email = null;
+				Comment.website = null;
+				Comment.title = null;
+				Comment.isAuthor = null;
+				Comment.flagged = null;
+				Comment.status = null;
+				Comment.id = 0;
+			    Comment.threadID = 0;
+			    Comment.parentID = 0;
+			    Comment.level = 0;
+			    Comment.extID = null;
+			} else {
+				Comment.error = response.error;
+			}
+		}
+	}	
+	
+	var Clickability = Clickability || {};
+	Clickability.SMTK = {
 		kP : 0,
 		aT : 0,
 		myInterval : null,
@@ -187,378 +630,206 @@ Clickability.Comment = {
 		firstX : -1,
 		firstY : -1,
 		intervals : 0,
-		req : null,
 		cid :  34218884 ,
 		did :  59382 ,
-		cP :  365 ,
-		cD : "2008-11-10 13:09:26.0",
 		d : 0,
 		mT : 0
-	},
-	name : null,
-	website : null,
-	title : null,
-	comment : null,
-	email : null,
-	rating : null,
-	ratingType : null,
-	commentType : null,
-	flagged : false,
-	isAuthor : false,
-	error : null,
-	status : null,
-	level : 0,
-	parentID : 0,
-	threadID : 0,
-	id : 0,
-	extID : null
-};
-Clickability.Comment.Private.myInterval = window.setInterval(timedMousePos,250);
+	}
+	Clickability.SMTK.myInterval = window.setInterval(timedMousePos,250);
+	document.onkeypress = lK;
+	window.onload = rAT;
 
-var name = null;
-var website = null;
-var title = null;
-var comment = null;
-var email = null;
-var rating = null;
-var ratingType = null;
-var commentType = null;
-var flagged = false;
-var isAuthor = false;
-var error = null;
-var status = null;
-
-var kP = 0;
-var aT = 0;
-var myInterval = Clickability.Comment.Private.myInterval;
-var xPos = -1;
-var yPos = -1;
-var firstX = -1;
-var firstY = -1;
-var intervals = 0;
-var req = null;
-var cid =  34218884 ;
-var did =  59382 ;
-var cP =  365 ;
-var cD = "2008-11-10 13:09:26.0";
-var d = 0;
-var mT = 0;
-
-document.onkeypress = lK;
-window.onload = rAT;
-
-function checkField(field) {
+		Clickability.Comment = Comment;
+		
+		var p;
+	var kP = 0;
+	var	aT = 0;
+	var myInterval = Clickability.SMTK.myInterval;
+	var xPos = -1;
+	var yPos = -1;
+	var firstX = -1;
+	var firstY = -1;
+	var intervals = 0;
+	var d = 0;
+	var mT = 0;
+	var cid =  34218884 ;
+	var did =  59382 ;	
 	
-	var button = document.getElementById("btSubmit");
-	
-	if(field.value.length > 0) {
-		CM_btnEnable(button);
-	}
-	else {
-		CM_btnDisable(button);
-	}
-}
-
-function lK() {
-	Clickability.Comment.Private.kP++;
-}
-
-function rAT() {
-	Clickability.Comment.Private.aT = new Date();
-}
-
-function CM_btnDisable (which) {
-	which.disabled = true;
-	if (document.all){
-		which.filters.alpha.opacity = 25;
-	}else {
-		which.style.MozOpacity = 0.25;
-	}	
-	which.style.cursor = "default";
-}
-
-function CM_btnEnable (which) {
-	which.disabled = false;
-	if (document.all){
-		which.filters.alpha.opacity = 100;
-		which.style.cursor = "hand";
-	}else {
-		which.style.MozOpacity = 1;
-		which.style.cursor = "pointer";
-	}
-}
-
-
-function submitForm(formObj) {
-
-    if(formObj.action == ""){
-    	formObj.action = "/c";
-    }
-	addFieldsToForm(formObj);
-    formObj.submit();
-}
-
-function addFieldsToForm(formObj, redirect) {
-	var mTField = document.createElement('input');
-	var dField = document.createElement('input');
-	var kPField = document.createElement('input');
-  	var cidField = document.createElement('input');
-  	var didField = document.createElement('input');
-  	
-  	
-	mTField.setAttribute('name','mT');
-	mTField.setAttribute('type', 'hidden');
-  	  
-	dField.setAttribute('name', 'd');
-	dField.setAttribute('type', 'hidden');
-  	  
-	kPField.setAttribute('name', 'kP');
-	kPField.setAttribute('type', 'hidden');
-  	
-	cidField.setAttribute('name', 'cid');
-	cidField.setAttribute('type', 'hidden');
-  	
-  	didField.setAttribute('name', 'did');
-  	didField.setAttribute('type', 'hidden');	
-  	
-  	if(redirect != null) {
-  		var pathField = document.createElement('input');
-  		pathField.setAttribute('name', 'path');
-  		pathField.setAttribute('type', 'hidden');
-  		pathField.value = redirect;
-  		formObj.appendChild(pathField);
-  	}
-  	  
-	mTField.value = Clickability.Comment.Private.mT;
-	dField.value = Clickability.Comment.Private.d;
-	kPField.value = Clickability.Comment.Private.kP;
-	cidField.value = Clickability.Comment.Private.cid;
-	didField.value = Clickability.Comment.Private.did;
-  		
-	formObj.appendChild(dField);
-	formObj.appendChild(kPField);
-	formObj.appendChild(mTField);
-	formObj.appendChild(cidField);
-	formObj.appendChild(didField);
-}
-
-function getMousePos(p) {
-	if (!p) var p = window.event;
-	if (p.pageX || p.pageY) {
-		Clickability.Comment.Private.xPos = p.pageX;
-		Clickability.Comment.Private.yPos = p.pageY;
-	} else if (p.clientX || p.clientY) {
-		Clickability.Comment.Private.xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
-		Clickability.Comment.Private.yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop;
-	}
-}
-
-function timedMousePos() {
-	document.onmousemove = getMousePos;
-	if (Clickability.Comment.Private.xPos >= 0 && Clickability.Comment.Private.yPos >= 0) {
-	var newX = Clickability.Comment.Private.xPos;
-	var newY = Clickability.Comment.Private.yPos;
-	Clickability.Comment.Private.intervals++;
-	}
-	if (Clickability.Comment.Private.intervals == 1) {
-		Clickability.Comment.Private.firstX = Clickability.Comment.Private.xPos;
-		Clickability.Comment.Private.firstY = Clickability.Comment.Private.yPos;
-	} else if (Clickability.Comment.Private.intervals == 2) {
-		clearInterval(Clickability.Comment.Private.myInterval);
-		calcDistance(Clickability.Comment.Private.firstX,Clickability.Comment.Private.firstY,newX,newY);
-	}
-}
-
-function calcDistance(aX,aY,bX,bY) {
-	Clickability.Comment.Private.mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2)));
-}
-
-function getXmlRequestObject() {
-	if(Clickability.Comment.Private.req == null){
-		if(window.XMLHttpRequest){
-			Clickability.Comment.Private.req = new XMLHttpRequest();
-		}else if(window.ActiveXObject){
-			try{
-				Clickability.Comment.Private.req = new ActiveXObject("Msxml2.XMLHTTP");
-			}catch(e){
-				try{
-					Clickability.Comment.Private.req = new ActiveXObject("Microsoft.XMLHTTP");
-				}catch(e){
-                	return null;
-				}
-			}
+	function getMousePos(p) {
+		if(!p)var p = window.event;
+		if (p.pageX || p.pageY) {
+			Clickability.SMTK.xPos = p.pageX;
+			Clickability.SMTK.yPos = p.pageY;
+		} else if (p.clientX || p.clientY) {
+			Clickability.SMTK.xPos = p.clientX + document.body.scrollLeft + document.documentElement.scrollLeft;
+			Clickability.SMTK.yPos = p.clientY + document.body.scrollTop + document.documentElement.scrollTop;
 		}
-    }
-    return Clickability.Comment.Private.req;
-}
-
-function insertComment(formObj, isAjax, responseHandler){
-	var sT = new Date();
-	Clickability.Comment.Private.d = sT - Clickability.Comment.Private.aT;
-	if((isAjax == true) && (responseHandler != null)) {
-		Clickability.Comment.Private.req = getXmlRequestObject();
-		if(Clickability.Comment.Private.req != null) {
-			var formVars = getFormValues(formObj);
- 			var handlerFunction = getReadyStateHandler(Clickability.Comment.Private.req, responseHandler);
-			Clickability.Comment.Private.req.onreadystatechange = handlerFunction;
-			var url = "/c";
-            var params = "ajax=true&" + formVars;
- 
-            Clickability.Comment.Private.req.open("POST", url, true);
-            Clickability.Comment.Private.req.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
-            
-     
-            Clickability.Comment.Private.req.send(params);
-            return false;
-    	}
-    	else {
-    		return false;
-    	}
 	}
-	else {
-		addFieldsToForm(formObj);
- 		submitForm(formObj);
-	}
-}
-   
-function postForm(formObj, isAjax, responseHandler) {
-	return insertComment(formObj, isAjax, responseHandler);
-}
 
-function getFormValues(fobj) {
-   var str = "";
-   var valueArr = null;
-   var val = "";
-   var cmd = "";	
-   var ampRegex = new RegExp("&", "g");
-   var replaceAmpStr = escape("&#38;");
-   var percentRegex = new RegExp("%", "g"); 
-   var replacePerStr = escape("&#37;");
-
-   for(var i = 0;i < fobj.elements.length;i++)
-   {
-   		var field = fobj.elements[i];
-   		if(field.tagName === "TEXTAREA" || (field.tagName === "INPUT" && field.type != "submit" && field.type != "button")){ 
-			var fieldStr = field.value;
-			fieldStr = fieldStr.replace(percentRegex, replacePerStr);
-            fieldStr = fieldStr.replace(ampRegex, replaceAmpStr);
-   			str += field.name + "=" + fieldStr + "&";
-       		field.value = "";
-       	}
-   }
-   str += "mT=" + Clickability.Comment.Private.mT;
-   str += "&d=" + Clickability.Comment.Private.d;
-   str += "&kP=" + Clickability.Comment.Private.kP;
-   str += "&cid=" + Clickability.Comment.Private.cid;
-   str += "&did=" + Clickability.Comment.Private.did;
- 
-   return str;
-}
-
-function getReadyStateHandler(ajaxreq, responseHandler) {
-
-  // Return an anonymous function that listens to the 
-  // XMLHttpRequest instance
-  return function () {
-
-    // If the request's status is "complete"
-    if (ajaxreq.readyState == 4) {
-      
-      // Check that a successful server response was received
-      if (ajaxreq.status == 200) {
-
-        // Pass the XML payload of the response to the 
-        // handler function
-        gatherResponse(ajaxreq.responseText);
-        responseHandler();
-
-      } else {
-
-        // An HTTP problem has occurred
-        alert("HTTP error: "+ajaxreq.status);
-      }
-    }
-  }
-}
-
-function gatherResponse(commentObject) {
-		name = null;
-	website = null;
-	title = null;
-	comment = null;
-	email = null;
-	rating = null;
-	ratingType = null;
-	commentType = null;
-	flagged = false;
-	isAuthor = false;
-	error = null;
-	status = null;
 	
-	Clickability.Comment.name = null;
-	Clickability.Comment.website = null;
-	Clickability.Comment.title = null;
-	Clickability.Comment.comment = null;
-	Clickability.Comment.email = null;
-	Clickability.Comment.rating = null;
-	Clickability.Comment.ratingType = null;
-	Clickability.Comment.commentType = null;
-	Clickability.Comment.flagged = false;
-	Clickability.Comment.isAuthor = false;
-	Clickability.Comment.error = null;
-	Clickability.Comment.status = null;
-	Clickability.Comment.level = 0;
-	Clickability.Comment.parentID = 0;
-	Clickability.Comment.threadID = 0;
-	Clickability.Comment.id = 0;
-	Clickability.Comment.extID = null;
+	function lK() {	
+		Clickability.SMTK.kP++;
+	}
 
- 	var jsonExpression = "(" + commentObject+ ")";
-    var commentData = eval(jsonExpression);
-    error = commentData.error;
-    name = commentData.name;
-    comment = commentData.comment;
-    commentType = commentData.commentType
-    rating = commentData.ratingScore;
-    ratingType = commentData.ratingType;
-    email = commentData.email;
-    website = commentData.website;
-    title = commentData.title;
-    isAuthor = false;
-    flagged = false;
-    status = commentData.status;
-    if(status == "AUTHOR") {
-    	isAuthor = true;
-    }
-    else if(status != "APPROVED") {
-        flagged = true;
-    }
-    
-    Clickability.Comment.error = commentData.error;
-    Clickability.Comment.name = commentData.name;
-    Clickability.Comment.comment = commentData.comment;
-    Clickability.Comment.commentType = commentData.commentType
-    Clickability.Comment.rating = commentData.ratingScore;
-    Clickability.Comment.ratingType = commentData.ratingType;
-    Clickability.Comment.email = commentData.email;
-    Clickability.Comment.website = commentData.website;
-    Clickability.Comment.title = commentData.title;
-    Clickability.Comment.isAuthor = false;
-    Clickability.Comment.flagged = false;
-    Clickability.Comment.status = commentData.status;
-    if(Clickability.Comment.status == "AUTHOR") {
-    	Clickability.Comment.isAuthor = true;
-    }
-    else if(Clickability.Comment.status != "APPROVED") {
-        Clickability.Comment.flagged = true;
-    }
-    Clickability.Comment.id = commentData.id;
-    Clickability.Comment.threadID = commentData.threadID;
-    Clickability.Comment.parentID = commentData.parentID;
-    Clickability.Comment.level = commentData.level;
-    Clickability.Comment.extID = commentData.extID;
-}
+	function rAT() {
+		Clickability.SMTK.aT = new Date();
+	}
+		
+	function timedMousePos() {
+		document.onmousemove = getMousePos;
+		if (Clickability.SMTK.xPos >= 0 && Clickability.SMTK.yPos >= 0) {
+			var newX = Clickability.SMTK.xPos;
+			var newY = Clickability.SMTK.yPos;
+			Clickability.SMTK.intervals++;
+		}
+		if (Clickability.SMTK.intervals == 1) {
+			Clickability.SMTK.firstX = Clickability.SMTK.xPos;
+			Clickability.SMTK.firstY = Clickability.SMTK.yPos;
+		} else if (Clickability.SMTK.intervals == 2) {
+			clearInterval(Clickability.SMTK.myInterval);
+			calcDistance(Clickability.SMTK.firstX,Clickability.SMTK.firstY,newX,newY);	
+		}
+	}
+
+
+	function calcDistance(aX,aY,bX,bY){
+		Clickability.SMTK.mT = Math.round(Math.sqrt(Math.pow(aX-bX,2)+Math.pow(aY-bY,2)));
+	}
+	
+	function getFieldsForForm(){
+		var sT = new Date();
+		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
+		var queryString = "&";
+		queryString += "mT=" + Clickability.SMTK.mT;
+     	queryString += "&d=" + Clickability.SMTK.d;
+     	queryString += "&kP=" + Clickability.SMTK.kP;
+     	if(Clickability.SMTK.cid)queryString += "&cid=" + Clickability.SMTK.cid;
+     	if(Clickability.SMTK.did)queryString += "&did=" + Clickability.SMTK.did;
+     	queryString += "&socialMedia=Y";
+	    return queryString;
+	}
+		
+	function addFieldsToForm(formObj, redirect) {
+		var sT = new Date();
+		Clickability.SMTK.d = sT - Clickability.SMTK.aT;
+		var mTField = document.createElement('input');
+		var dField = document.createElement('input');
+		var kPField = document.createElement('input');
+  		var cidField = document.createElement('input');
+  		var didField = document.createElement('input');
+  		var socialMedia = document.createElement('input');
+  	
+  	
+  		socialMedia.setAttribute('name','socialMedia');
+		socialMedia.setAttribute('type', 'hidden');
+		
+  		mTField.setAttribute('name','mT');
+		mTField.setAttribute('type', 'hidden');
+  	  
+		dField.setAttribute('name', 'd');
+		dField.setAttribute('type', 'hidden');
+  	  
+		kPField.setAttribute('name', 'kP');
+		kPField.setAttribute('type', 'hidden');
+  	
+		cidField.setAttribute('name', 'cid');
+		cidField.setAttribute('type', 'hidden');
+  	
+  		didField.setAttribute('name', 'did');
+  		didField.setAttribute('type', 'hidden');	
+  	
+  		if(redirect != null) {
+  			var pathField = document.createElement('input');
+  			pathField.setAttribute('name', 'path');
+  			pathField.setAttribute('type', 'hidden');
+  			pathField.value = redirect;
+  			formObj.appendChild(pathField);
+  		}
+  		mTField.value = Clickability.SMTK.mT;
+		dField.value = Clickability.SMTK.d;
+		kPField.value = Clickability.SMTK.kP;
+		cidField.value = Clickability.SMTK.cid;
+		didField.value = Clickability.SMTK.did;
+		socialMedia.value = "Y";
+
+		formObj.appendChild(dField);
+		formObj.appendChild(kPField);
+		formObj.appendChild(mTField);
+		formObj.appendChild(cidField);
+		formObj.appendChild(didField);
+		formObj.appendChild(socialMedia);
+	}		
+	
+	//helper functions
+	
+	function insertComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.insertComment, "Unable to insert comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function updateComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.updateComment, "Unable to update comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function deleteComment(form, isAjax, returnFunction, showError){
+		return submitToServer(Comment.deleteComment, "Unable to delete comment", form, isAjax, returnFunction, showError);
+	}
+	
+	function createUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.createUser, "Unable to create user", form, isAjax, returnFunction, showError);
+	}
+	
+	function updateUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.updateUser, "Unable to update user", form, isAjax, returnFunction, showError);
+	}
+	
+	function loginUser(form, isAjax, returnFunction, showError){
+		return submitToServer(User.loginUser, "Unable to login user", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertUserContent(form, isAjax, returnFunction, showError){
+		return submitToServer(UserContent.insertContent, "Unable to insert content item", form, isAjax, returnFunction, showError);
+	}
+	
+	function editUserContent(form, isAjax, returnFunction, showError){
+		return submitToServer(UserContent.editContent, "Unable to edit content item", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertProfilePic(form, isAjax, returnFunction, showError){
+		return submitToServer(User.insertProfilePic, "Unable to upload profile photo", form, isAjax, returnFunction, showError);
+	}
+	
+	function addRating(form, isAjax, returnFunction, showError){
+		return submitToServer(Rating.addRating, "Unable to add rating", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertRating(form, isAjax, returnFunction, showError){
+		return submitToServer(Rating.insertRating, "Unable to insert rating", form, isAjax, returnFunction, showError);
+	}
+	
+	function attachAction(form, isAjax, returnFunction, showError){
+		return submitToServer(Action.attachAction, "Unable to attach action", form, isAjax, returnFunction, showError);
+	}
+	
+	function deleteAction(form, isAjax, returnFunction, showError){
+		return submitToServer(Action.deleteAction, "Unable to delete action", form, isAjax, returnFunction, showError);
+	}
+	
+	function insertRanking(form, isAjax, returnFunction, showError){
+		return submitToServer(Ranking.insertRanking, "Unable to insert ranking", form, isAjax, returnFunction, showError);
+	}
+	
+	function submitToServer(method, msg, form, isAjax, returnFunction, showError){
+		method(form, isAjax, returnFunction);
+	
+		if(isAjax){
+			return false;
+		} else {
+			return true;
+		}
+	}
+
 </script>
+
 	
 
 
@@ -596,12 +867,14 @@ function gatherResponse(commentObject) {
 				
 		
 																										<!-- false -->
+			
 							<!-- begin ad tag-->
 				<div style="text-align:center; width:100%; padding-bottom:2px;">
-					<script language="JavaScript" src="http://ad.doubleclick.net/adj/wn.loc.wjhg/home;wnsz=01;sz=728x90;ord=[timestamp]?" type="text/javascript"></script>
-					<noscript><a href="http://ad.doubleclick.net/jump/wn.loc.wjhg/home;wnsz=01;sz=728x90;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/wn.loc.wjhg/home;wnsz=01;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt=""></a></noscript>
+					<script language="JavaScript" src="http://ad.doubleclick.net/adj/wn.loc.wjhg/home;wnsz=01;sz=728x90;ord=1305407722306?" type="text/javascript"></script>
+					<noscript><a href="http://ad.doubleclick.net/jump/wn.loc.wjhg/home;wnsz=01;sz=728x90;ord=1305407722306?" target="_blank"><img src="http://ad.doubleclick.net/ad/wn.loc.wjhg/home;wnsz=01;sz=728x90;ord=1305407722306?" width="728" height="90" border="0" alt=""></a></noscript>
 				</div>
 				<!-- End ad tag -->
+						<!-- begin split top of page ad-->
 							
 			
 			<div id="headerNavRow">
@@ -611,9 +884,6 @@ function gatherResponse(commentObject) {
     <input type="hidden" name="dateRange" value="60">
     <input type="submit" value="Search">
 </form>
-
-
-
 
 </span>
 				<span class="timestamp"><script type="text/javascript" src="http://www.wjhg.com/includes/timestamp.js"></script>
@@ -644,31 +914,33 @@ function gatherResponse(commentObject) {
 	
 			
 	<!-- On - With Dropdowns -->
-																																														 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	<!-- Navs Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 14, 15]  Size: 13 -->
+																																															 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	 		 		 	<!-- Navs Array: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 14, 15]  Size: 14 -->
 <div id="menu_vert">
 <div id="menuwrapper">
 <ul id="primary-nav">
 <li class="menuparent"><a target="_parent" href="http://www.wjhg.com">Home</a><ul></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wjhg.com/news">News</a><ul><li><a target="_parent" href="http://www.wjhg.com/news">Local News</a></li><li><a target="_parent" href="http://www.wjhg.com/state">State</a></li><li><a target="_parent" href="http://www.wjhg.com/regional">Regional</a></li><li><a target="_parent" href="http://www.wjhg.com/national">National</a></li><li><a target="_parent" href="http://www.wjhg.com/newschannel7today">NewsChannel 7 Today</a></li><li><a target="_parent" href="http://www.wjhg.com/noonshow">Noon Show</a></li><li><a target="_parent" href="http://www.wjhg.com/the7scene/misc/37591514.html">Watch Webcast</a></li><li><a target="_parent" href="http://www.wjhg.com/healthwatch">HealthWatch</a></li><li><a target="_parent" href="http://www.wjhg.com/money">Money</a></li><li><a target="_parent" href="http://www.wjhg.com/scam">Scam</a></li><li><a target="_parent" href="http://www.wjhg.com/home/misc/105467573.html">News Tips</a></li><li><a target="_parent" href="http://www.wjhg.com/rss">RSS</a></li><li><a target="_parent" href="http://www.wjhg.com/the7scene">The 7 Scene</a></li><li><a target="_parent" href="http://www.wjhg.com/home/misc/40740857.html">Videos</a></li><li><a target="_parent" href="http://www.wjhg.com/world">World  </a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wjhg.com/news">News</a><ul><li><a target="_parent" href="http://www.wjhg.com/news">Local News</a></li><li><a target="_parent" href="http://www.wjhg.com/state">State</a></li><li><a target="_parent" href="http://www.wjhg.com/regional">Regional</a></li><li><a target="_parent" href="http://www.wjhg.com/national">National</a></li><li><a target="_parent" href="http://www.wjhg.com/newschannel7today">NewsChannel 7 Today</a></li><li><a target="_parent" href="http://www.wjhg.com/noonshow">Noon Show</a></li><li><a target="_parent" href="http://www.wjhg.com/the7scene/misc/37591514.html">Watch Webcast</a></li><li><a target="_parent" href="http://www.wjhg.com/medicalminute">Medical Minute</a></li><li><a target="_parent" href="http://www.wjhg.com/money">Money</a></li><li><a target="_parent" href="http://www.wjhg.com/scam">Scam</a></li><li><a target="_parent" href="http://www.wjhg.com/home/misc/105467573.html">News Tips</a></li><li><a target="_parent" href="http://www.wjhg.com/rss">RSS</a></li><li><a target="_parent" href="http://www.wjhg.com/home/misc/40740857.html">Videos</a></li><li><a target="_parent" href="http://www.wjhg.com/world">World  </a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wjhg.com/weather">Weather</a><ul><li><a target="_parent" href="http://www.wjhg.com/tropics">Tropics</a></li><li><a target="_parent" href="http://wjhg.mycapture.com/mycapture/photos/Category.aspx?CategoryID=37333">Citizen Journalist Weather</a></li><li><a target="_parent" href="http://www.wjhg.com/liveonline">Desktop Alert</a></li><li><a target="_parent" href="http://www.wjhg.com/weather/misc/98855304.html">Live Cameras</a></li><li><a target="_blank" href="http://tmc.baycountyfl.gov/#map">Traffic Cameras</a></li><li><a target="_parent" href="http://www.wjhg.com/interactiveradar">Interactive Radar</a></li><li><a target="_blank" href="http://media.graytvinc.com/documents/2010map4.pdf">Viper 7 Hurricane Tracking Map</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wjhg.com/weather">Weather</a><ul><li><a target="_parent" href="http://www.wjhg.com/tropics">Tropics</a></li><li><a target="_parent" href="http://wjhg.mycapture.com/mycapture/photos/Category.aspx?CategoryID=37333">Citizen Journalist Weather</a></li><li><a target="_parent" href="http://www.wjhg.com/liveonline">Desktop Alert</a></li><li><a target="_parent" href="http://www.wjhg.com/weather/misc/98855304.html">Live Cameras</a></li><li><a target="_blank" href="http://tmc.baycountyfl.gov/#map">Traffic Cameras</a></li><li><a target="_parent" href="http://www.wjhg.com/weather/misc/119782429.html">iMap Radar</a></li><li><a target="_parent" href="http://www.wjhg.com/interactiveradar">Interactive Weather</a></li><li><a target="_blank" href="http://media.graytvinc.com/documents/2011map.pdf">Viper 7 Hurricane Tracking Map</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wjhg.com/sports">Sports</a><ul><li><a target="_parent" href="http://www.wjhg.com/sports">Local Sports</a></li><li><a target="_parent" href="http://wjhg.upickem.net/upickem/registration/login.asp?contestid=21119">High School Football Pick Em</a></li><li><a target="_parent" href="http://www.wjhg.com/huntingandfishing">Fish &amp; Game Forecaster</a></li><li><a target="_parent" href="http://www.wjhg.com/sports/misc/49228622.html">NBA</a></li><li><a target="_parent" href="http://www.wjhg.com/sports/misc/49227122.html ">NFL</a></li><li><a target="_parent" href="http://www.wjhg.com/sports/misc/49227852.html ">NHL</a></li><li><a target="_parent" href="http://www.wjhg.com/scoreboard">Scoreboard</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wjhg.com/sports">Sports</a><ul><li><a target="_parent" href="http://www.wjhg.com/sports">Local Sports</a></li><li><a target="_parent" href="http://www.wjhg.com/huntingandfishing">Fish &amp; Game Forecaster</a></li><li><a target="_parent" href="http://www.wjhg.com/sports/misc/49228622.html">NBA</a></li><li><a target="_parent" href="http://www.wjhg.com/sports/misc/49227122.html ">NFL</a></li><li><a target="_parent" href="http://www.wjhg.com/sports/misc/49227852.html ">NHL</a></li><li><a target="_parent" href="http://www.wjhg.com/scoreboard">Scoreboard</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wjhg.com/community">Community</a><ul><li><a target="_parent" href="http://www.wjhg.com/contests/misc/18413229.html">Birthday Club</a></li><li><a target="_parent" href="http://www.wjhgclassifieds.com/">Buy &amp; Sell</a></li><li><a target="_parent" href="http://www.wjhg.com/community">Community/Calendar</a></li><li><a target="_parent" href="http://www.wjhg.com/contests">Contests/Games</a></li><li><a target="_parent" href="http://www.wjhg.com/schools">Schools</a></li><li><a target="_parent" href="http://www.wjhg.com/crimestoppers">Crime Stoppers</a></li><li><a target="_parent" href="http://www.wjhg.com/green"><font color="#00CC33">Go Green</font></a></li><li><a target="_parent" href="http://www.wjhg.com/station/misc/4832791.html">Military Greetings</a></li><li><a target="_parent" href="http://www.wjhg.com/restaurants">Restaurants</a></li><li><a target="_parent" href="http://wjhg.mycapture.com/mycapture/photos/index.aspx">Send us Your Pictures!</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wjhg.com/community">Community</a><ul><li><a target="_parent" href="http://www.wjhg.com/contests/misc/18413229.html">Birthday Club</a></li><li><a target="_parent" href="http://www.wjhgclassifieds.com/">Buy &amp; Sell</a></li><li><a target="_parent" href="http://www.wjhg.com/community">Community/Calendar</a></li><li><a target="_parent" href="http://www.wjhg.com/contests">Contests/Games</a></li><li><a target="_parent" href="http://www.wjhg.com/schools">Schools</a></li><li><a target="_parent" href="http://wn.wjhg.com/category/209766/health-links">Healthlinks</a></li><li><a target="_parent" href="http://www.wjhg.com/crimestoppers">Crime Stoppers</a></li><li><a target="_parent" href="http://www.wjhg.com/green"><font color="#00CC33">Go Green</font></a></li><li><a target="_parent" href="http://www.wjhg.com/station/misc/4832791.html">Military Greetings</a></li><li><a target="_parent" href="http://www.wjhg.com/restaurants">Restaurants</a></li><li><a target="_parent" href="http://wjhg.mycapture.com/mycapture/photos/index.aspx">Send us Your Pictures!</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="">Crime</a><ul><li><a target="_parent" href="http://www.wjhg.com/home/misc/111140819.html">Arrests</a></li><li><a target="_parent" href="http://www.wjhg.com/crimestoppers">CrimeStoppers</a></li></ul>
+<li class="menuparent"><a target="_parent" href="">Crime</a><ul><li><a target="_parent" href="http://www.wjhg.com/home/misc/114160154.html">Arrests</a></li><li><a target="_parent" href="http://www.wjhg.com/crimestoppers">CrimeStoppers</a></li></ul>
 </li>
 <li class="menuparent"><a target="_parent" href="http://www.wjhg.com/lottery">Lottery</a><ul></ul>
 </li>
 <li class="menuparent"><a target="_parent" href="http://www.panhandleautomall.com/">Automall</a><ul></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="">Features</a><ul><li><a target="_parent" href="http://www.wjhg.com/contests/misc/18413229.html">Birthday Club</a></li><li><a target="_parent" href="http://www.wjhg.com/healthwatch">Health Watch</a></li><li><a target="_parent" href="http://www.wjhg.com/marketminute">Market Minute</a></li><li><a target="_parent" href="http://www.wjhg.com/home/misc/40962822.html">Pet Pals</a></li><li><a target="_parent" href="http://www.wjhg.com/scam">Scam Alert</a></li><li><a target="_parent" href="http://www.wjhg.com/specialseries">Special Series</a></li><li><a target="_parent" href="http://www.wjhg.com/home/misc/83284437.html">Tax Guide</a></li><li><a target="_parent" href="http://www.wjhg.com/the7scene">The 7 Scene</a></li><li><a target="_parent" href="http://www.wjhg.com/the7scene/misc/37591514.html">Watch Webcast</a></li></ul>
+<li class="menuparent"><a target="_blank" href="http://www.cafepress.com/wjhg">Shop</a><ul></ul>
+</li>
+<li class="menuparent"><a target="_parent" href="">Features</a><ul><li><a target="_parent" href="http://www.wjhg.com/contests/misc/18413229.html">Birthday Club</a></li><li><a target="_parent" href="http://wjhg.mediawebconnect.com/">Double Dollar Deals</a></li><li><a target="_parent" href="http://www.wjhg.com/medicalminute">Medical Minute</a></li><li><a target="_parent" href="http://wn.wjhg.com/category/209766/health-links">Healthlinks</a></li><li><a target="_parent" href="http://www.wjhg.com/marketminute">Market Minute</a></li><li><a target="_parent" href="http://www.wjhg.com/home/misc/40962822.html">Pet Pals</a></li><li><a target="_parent" href="http://www.wjhg.com/scam">Scam Alert</a></li><li><a target="_parent" href="http://www.wjhg.com/specialseries">Special Series</a></li><li><a target="_parent" href="http://www.wjhg.com/home/misc/83284437.html">Tax Guide</a></li><li><a target="_parent" href="http://www.wjhg.com/the7scene/misc/37591514.html">Watch Webcast</a></li></ul>
 </li>
 <li class="menuparent"><a target="_parent" href="">Connect</a><ul><li><a target="_parent" href="http://www.wjhg.com/mobile">7 on Your Cell</a></li><li><a target="_parent" href="http://www.wjhg.com/blogs">Blogs</a></li><li><a target="_parent" href="http://www.wjhg.com/liveonline">Desktop 7 Alert</a></li><li><a target="_parent" href="http://www.wjhg.com/enews">E-News</a></li><li><a target="_parent" href="http://itunes.apple.com/us/app/wjhg-mobile-local-news/id353826259?mt=8">iPhone App</a></li><li><a target="_parent" href="http://www.wjhg.com/home/misc/50130777.html">Make WJHG.com Your Homepage!</a></li><li><a target="_parent" href="http://twitter.com/WJHG_TV">Twitter</a></li><li><a target="_parent" href="http://www.wjhg.com/the7scene/misc/37591514.html">Watch Webcast</a></li><li><a target="_parent" href="http://www.facebook.com/WJHG7?v=wall&amp;ref=mf">WJHG7 on Facebook</a></li></ul>
 </li>
-<li class="menuparent"><a target="_parent" href="http://www.wjhg.com/contests">Contests/Games</a><ul><li><a target="_parent" href="http://www.wjhg.com/contests/misc/18413229.html">Birthday Club</a></li><li><a target="_parent" href="http://www.wjhg.com/contests/headlines/111064449.html">XBox 360 Giveaway</a></li><li><a target="_parent" href="http://wjhg.collegefootball.upickem.net/collegefootball/registration/login.asp">College Bowl Pickem</a></li><li><a target="_parent" href="http://www.wjhg.com/goldenapple">Golden Apple Award</a></li><li><a target="_parent" href="http://wjhg.profootball.upickem.net">Pro PigSkin Pick Em</a></li><li><a target="_parent" href="http://wjhg.golf.upickem.net/golf/registration/login.asp">Fantasy Golf Challenge</a></li><li><a target="_parent" href="http://www.wjhg.com/games">Online Games</a></li><li><a target="_parent" href="http://www.wjhg.com/contests/misc/96053049.html">Jeopardy EXP</a></li></ul>
+<li class="menuparent"><a target="_parent" href="http://www.wjhg.com/contests">Contests/Games</a><ul><li><a target="_parent" href="http://www.wjhg.com/contests/headlines/120611019.html">Word of the Day</a></li><li><a target="_parent" href="http://www.wjhg.com/contests/headlines/120612099.html">Hurricane Kit Contest</a></li><li><a target="_parent" href="http://www.wjhg.com/contests/headlines/120955144.html">Personality of the Day</a></li><li><a target="_parent" href="http://www.wjhg.com/contests/misc/18413229.html">Birthday Club</a></li><li><a target="_parent" href="http://wjhg.autoracing.upickem.net/autoracing/registration/login.asp">Checkered Flag Challenge</a></li><li><a target="_parent" href="http://wjhg.mediawebconnect.com/">Double Dollar Deals</a></li><li><a target="_parent" href="http://wjhg.golf.upickem.net/golf/registration/login.asp">Fantasy Golf Challenge</a></li><li><a target="_parent" href="http://www.wjhg.com/goldenapple">Golden Apple Award</a></li><li><a target="_parent" href="http://www.wjhg.com/games">Online Games</a></li><li><a target="_parent" href="http://www.wjhg.com/contests/misc/96053049.html">Jeopardy EXP</a></li></ul>
 </li>
 <li class="menuparent"><a target="_parent" href="">Station Info</a><ul><li><a target="_parent" href="http://www.wjhg.com/station/misc/6709637.html">Contact</a></li><li><a target="_parent" href="http://www.wjhg.com/panhandleemployment">Jobs at WJHG</a></li><li><a target="_parent" href="http://www.wjhg.com/station">News Team</a></li><li><a target="_parent" href="http://www.wjhg.com/station/misc/49440677.html">Order a News Story</a></li><li><a target="_blank" href="http://www.wjhg.com/r?19=950&amp;32=507&amp;7=59017&amp;40=http%3A%2F%2Ftitantvguide.titantv.com%2Fapg%2Fttv.aspx%3Fsiteid%3D52991&amp;41=WebWhatOn.jpg&amp;18=0.9803535820580658">Programming</a></li><li><a target="_parent" href="http://www.wjhg.com/station/misc/50064317.html">Sales Team</a></li></ul>
 </li>
@@ -684,7 +956,8 @@ function gatherResponse(commentObject) {
 
 
 			<div id="content">
-																		
+											<div style="text-align:center; width:100%; padding-bottom:2px;"><div style="text-align:center; width:100%; padding-bottom:2px;"> <script language="JavaScript" src="http://ad.doubleclick.net/adj/wn.loc.wjhg/home;wnsz=09;sz=850x30;ord=[timestamp]?" type="text/javascript"></script> <noscript><a href="http://ad.doubleclick.net/jump/wn.loc.wjhg/home;wnsz=09;sz=850x30;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/wn.loc.wjhg/home;wnsz=09;sz=850x30;ord=[timestamp]?" width="850" height="30" border="0" alt=""></a></noscript> </div></div>
+							
 					<div id="storyColumn">
 				
 
@@ -756,13 +1029,13 @@ function gatherResponse(commentObject) {
 			</td>
 		</tr>
 <!-- endclickprintexclude -->
-		<tr>
+				<tr>
 			<td style="vertical-align:top;">
 															<span style="font-size:9pt; padding:2px; color:#999999;">Updated: 1:58 PM Aug 9, 2010<br></span>
-													<div style="text-align:left; padding:4px 0 2px; font-size:18pt;">
-																GRAY TELEVISION, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS
-									</div>
-								<div style="text-align:left; padding:6px 2px 0; width:90%;">
+																		<div style="text-align:left; padding:4px 0 2px; font-size:18pt;">
+						GRAY TELEVISION, INC.  PRIVACY POLICY AND YOUR PRIVACY RIGHTS
+					</div>
+												<div style="text-align:left; padding:6px 2px 0; width:90%;">
 											<div style="padding:0 0 5px;">Privacy Policy</div>
 																							<span style="font-size:9pt; font-weight:bold; text-align:left;">Posted: </span><span class="title" style="font-weight:normal">3:09 PM Nov 10, 2008</span><br>
 																											
@@ -1015,9 +1288,21 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 
 																		        </div>
   
-        							
+        								
+							<!-- begin ad tag-->
+<div style="text-align:center; width:100%; padding-bottom:2px; padding-top:8px;">
+	<script language="JavaScript" src="http://ad.doubleclick.net/adj/wn.loc.wjhg/_default;wnsz=17;sz=468x60;ord=%5btimestamp%5d?" type="text/javascript"></script>
+	<noscript>
+		<a href="http://ad.doubleclick.net/jump/wn.loc.wjhg/_default;wnsz=17;sz=468x60;ord=%5btimestamp%5d?" target="_blank">
+			<img src="http://ad.doubleclick.net/ad/wn.loc.wjhg/_default;wnsz=17;sz=468x60;ord=%5btimestamp%5d?" width="468" height="60" border="0" alt="">
+		</a>
+	</noscript>
+</div>
+<!-- End ad tag -->
+
+						
 			
-						            		
+						            								
             </div>
 </div>
 <!-- endclickprintinclude -->
@@ -1026,12 +1311,6 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 		<!-- ${story.display} -->
 					<div id="rightColumn">
 																															
-			
-														<div class="toutModule" ondblclick="window.status=111082584">
-													<a href="/r?19=950&amp;32=507&amp;7=59382&amp;40=http%3A%2F%2Fwjhg.mycapture.com%2Fmycapture%2Fphotos%2FAlbum.aspx%3FEventID%3D899277%26CategoryID%3D56247&amp;41=CSLights300x100.jpg&amp;18=0.3851964845508653"><img src="http://media.graytvinc.com/images/CSLights300x100.jpg" width="300" height="100" alt="" title="" border="0"></a>
-											</div>
-										 
-																	
 			
 																				
 
@@ -1049,6 +1328,12 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 															 
 																	
 			
+														<div class="toutModule" ondblclick="window.status=120895944">
+													<a href="/r?19=950&amp;32=507&amp;7=59382&amp;40=http%3A%2F%2Fwww.wjhg.com%2Fcontests&amp;41=Contest300x100.jpg&amp;18=0.750235624741006"><img src="http://media.graytvinc.com/images/Contest300x100.jpg" width="300" height="100" alt="" title="" border="0"></a>
+											</div>
+										 
+																	
+			
 														<div class="adModule">
 
 
@@ -1060,9 +1345,7 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 
 </div>
 										 
-																																																																																																																																																																																	
-	 
-																																																																																																																																																
+																	
 			
 																				
 
@@ -1074,20 +1357,69 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 
 
 
-						<div class="contentModule" ondblclick="window.status=96902469" style="border: 0px solid #000000;">
-							<div class="header" ondblclick="window.status=96902469">Sandestin Camera</div>  																								<center><a href="weather/misc/82979287.html"><img src="http://gray.ftp.clickability.com/wjhgwebftp/webcam2/webcam.jpg" width="300" border="0"></a></center>
+						<div class="contentModule" ondblclick="window.status=119599834" style="border: 0px solid #000000;">
+							 																								<center><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fnews7&amp;width=292&amp;connections=10&amp;stream=false&amp;header=true&amp;height=287" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:287px;" allowtransparency="true"></iframe></center>
 																					</div>
 															 
 																	
 			
+														<div ondblclick="window.status=120973299" class="contentModule">
+						
+
+
+
+
+
+
+<div class="header">Weather Cameras</div>
+
+<ul id="maintab120973299" class="shadetabs" style="margin-top: 10px;">
+	<li class="selected"><a href="#" rel="tcontent0120973299">PC Beach</a></li>
+	<li class="notSelected"><a href="#" rel="tcontent1120973299">Panama City</a></li>
+	<li class="notSelected"><a href="#" rel="tcontent2120973299">Sandestin</a></li>
+	<li class="notSelected"><a href="#" rel="tcontent3120973299">Jackson County</a></li>
+</ul>
+
+
+<div class="tabcontentstyle">
+	<div id="tcontent0120973299" class="tabcontent">
+		<div class="linksholder" style="overflow:hidden;">
+        	            	<a href="http://gray.ftp.clickability.com/wjhgwebftp/webcam/webcam.jpg" class="fancy" title="PC Beach"><img width="298" border="0" src="http://gray.ftp.clickability.com/wjhgwebftp/webcam/webcam.jpg"></a>
+                    </div>
+	</div>
+	<div id="tcontent1120973299" class="tabcontent">
+		<div class="linksholder" style="overflow:hidden;">
+        	            	<a href="http://gray.ftp.clickability.com/wjhgwebftp/webcam4/webcam.jpg" class="fancy" title="Panama City"><img width="298" border="0" src="http://gray.ftp.clickability.com/wjhgwebftp/webcam4/webcam.jpg"></a>
+                    </div>
+	</div>
+	<div id="tcontent2120973299" class="tabcontent">
+		<div class="linksholder" style="overflow:hidden;">
+        	            	<a href="http://gray.ftp.clickability.com/wjhgwebftp/webcam2/webcam.jpg" class="fancy" title="Sandestin"><img width="298" border="0" src="http://gray.ftp.clickability.com/wjhgwebftp/webcam2/webcam.jpg"></a>
+                    </div>
+	</div>
+	<div id="tcontent3120973299" class="tabcontent">
+		<div class="linksholder" style="overflow:hidden;">
+        	            	<a href="http://gray.ftp.clickability.com/wjhgwebftp/webcam3/webcam.jpg" class="fancy" title="Jackson County"><img width="298" border="0" src="http://gray.ftp.clickability.com/wjhgwebftp/webcam3/webcam.jpg"></a>
+                    </div>
+	</div>
+
+</div>
+<script type="text/javascript">
+initializetabcontent("maintab120973299")
+</script>
+
+					</div>
+										 
+																	
+			
 														<div class="toutModule" ondblclick="window.status=102073868">
-													<a href="/r?19=950&amp;32=507&amp;7=59382&amp;40=http%3A%2F%2Fwww.wjhg.com%2Fgoldenapple&amp;41=GoldenApple300x80.jpg&amp;18=0.830076663035318"><img src="http://media.graytvinc.com/images/GoldenApple300x80.jpg" width="300" height="80" alt="" title="" border="0"></a>
+													<a href="/r?19=950&amp;32=507&amp;7=59382&amp;40=http%3A%2F%2Fwww.wjhg.com%2Fgoldenapple&amp;41=GoldenApple300x80.jpg&amp;18=0.19130353931873745"><img src="http://media.graytvinc.com/images/GoldenApple300x80.jpg" width="300" height="80" alt="" title="" border="0"></a>
 											</div>
 										 
 																	
 			
 														<div class="toutModule" ondblclick="window.status=50721412">
-													<a href="/r?19=950&amp;32=507&amp;7=59382&amp;40=http%3A%2F%2Fwww.wjhg.com%2Fcontests%2Fmisc%2F18413229.html&amp;41=BDayClubWeb+TILE.jpg&amp;18=0.4522115346719955"><img src="http://media.graytvinc.com/images/BDayClubWeb+TILE.jpg" width="300" height="60" alt="" title="" border="0"></a>
+													<a href="/r?19=950&amp;32=507&amp;7=59382&amp;40=http%3A%2F%2Fwww.wjhg.com%2Fcontests%2Fmisc%2F18413229.html&amp;41=BDayClubWeb+TILE.jpg&amp;18=0.8951862421347181"><img src="http://media.graytvinc.com/images/BDayClubWeb+TILE.jpg" width="300" height="60" alt="" title="" border="0"></a>
 											</div>
 										 
 																	
@@ -1103,205 +1435,24 @@ Copyright © 2010 Gray Television, Inc. All Rights Reserved.</span>
 	<div id="pcontent037711259" class="tabcontent" align="left">
 		<div class="linksholder" align="left">
 		<ol>
-																																																																																															</ol>
+																																																															</ol>
 		</div>
 			</div>
 	<div id="pcontent137711259" class="tabcontent" align="left">
 		<div class="linksholder" align="left">
 						<ul>
-																		<li><a class="title" href="http://www.wjhg.com/home/headlines/Accused_Greyhound_Dog_Kiiller_Enters_Not_Guilty_Plea_111411539.html">Accused Greyhound Dog Killer Enters 'Not Guilty' Plea</a><span class="headlines"><br>32 Comments</span></li>
-																										<li><a class="title" href="http://www.wjhg.com/home/headlines/Jaycees_Christmas_parade_in_Panama_City_a_success_111331374.html">Jaycee's Christmas parade in Panama City a success</a><span class="headlines"><br>11 Comments</span></li>
-																										<li><a class="title" href="http://www.wjhg.com/home/headlines/Bay_Medical_Center_Faces_Tough_Times_111555639.html">Bay Medical Center Faces Tough Times</a><span class="headlines"><br>10 Comments</span></li>
-																										<li><a class="title" href="http://www.wjhg.com/home/headlines/FHP_reports_less_traffic_deaths_this_Thanksgiving_than_last_year_111362424.html">FHP reports less traffic deaths this Thanksgiving than last year</a><span class="headlines"><br>2 Comments</span></li>
-																										<li><a class="title" href="http://www.wjhg.com/home/headlines/State_releases_individual_high_school_grades_111477709.html">State releases individual high school grades</a><span class="headlines"><br>2 Comments</span></li>
-																										<li><a class="title" href="http://www.wjhg.com/home/headlines/Callaway_Citizens_Advisory_Committee_recommends_dismissal_of_City_Manager_Judy_Whitis_111503204.html">Callaway Citizens Advisory Committee recommends dismissal of City Manager Judy Whitis</a><span class="headlines"><br>2 Comments</span></li>
+																		<li><a class="title" href="http://www.wjhg.com/home/headlines/PCB_motorcycle_accident_may_prove_fatal_121725884.html">PCB motorcycle accident puts driver in critical condition</a><span class="headlines"><br>30 Comments</span></li>
+																										<li><a class="title" href="http://www.wjhg.com/home/headlines/Zoning_Changes_Denied_for_Bay_Haven_Charter_Academy_121612609.html">Lynn Haven Commissioners deny zoning change for Bay Haven Charter Academy</a><span class="headlines"><br>18 Comments</span></li>
+																										<li><a class="title" href="http://www.wjhg.com/home/headlines/Bidawee_Beach_Will_Lock_Beach_Drive_Access_Used_by_City_for_Emergencies_121753104.html">Bid-a-wee Beach to Lock Emergency Beach Access</a><span class="headlines"><br>12 Comments</span></li>
+																										<li><a class="title" href="http://www.wjhg.com/home/headlines/High_speed_chase_ends_with_crash_tackle_arrest_121637824.html">High speed chase ends with crash, tackle, arrest</a><span class="headlines"><br>9 Comments</span></li>
+																										<li><a class="title" href="http://www.wjhg.com/home/headlines/Turn_Your_Stereo_Up___121733024.html">Turn Your Stereo Up  </a><span class="headlines"><br>7 Comments</span></li>
+																										<li><a class="title" href="http://www.wjhg.com/home/headlines/Man_rams_deputys_cruiser_before_fleeing_with_stolen_AK-47_121592219.html">*Update* Man rams deputy’s cruiser before fleeing with stolen AK-47</a><span class="headlines"><br>5 Comments</span></li>
 																																																																																																																																																																																																																																																																																																																																																																																																																																</ul>
 				</div>
 			</div>
 </div>
 <script type="text/javascript">
 initializetabcontent("maintab37711259");
-</script>
-
-					</div>
-										 
-																	
-			
-														<div ondblclick="window.status=6866237" class="contentModule">
-						
-<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
-<tbody><tr>
-   <td class="header">AP Online Video</td>
-</tr>
-<tr>
-   <td width="100%" style="text-align:center; padding:5px;">
-<script type="text/javascript" src="http://img.video.ap.org/p/j/apovn.js "></script>
-
-<div id="flashcontent">
-<script type="text/javascript">
-   var ap = new SWFObject("http://img.video.ap.org/p/s/sm_hz_3thumb_scroll.swf", "sm_hz_3thumb_scroll", "280", "100", "7");
-    ap.addParam("quality", "best");
-    ap.addParam("wmode", "transparent");
-    ap.addParam("AllowScriptAccess", "always");
-    ap.addParam("bgcolor", "#FFFFFF");
-    ap.addVariable("cat", "US");
-    ap.addVariable("pid", "1139909");
-    ap.addVariable("fontcolor", "0x336699");
-    ap.write("flashcontent");
-</script>
-</div>
-
-</td>
-</tr>
-</tbody></table>
-
-					</div>
-										 
-																	
-			
-														<div ondblclick="window.status=38825217" class="contentModule">
-						
-
-
-
-
-
-<div class="header" align="left">Headlines From MSNBC.com</div>
-<ul id="maintab3" class="shadetabs" style="margin-top: 10px;">
-	<li class="selected"><a href="#" rel="rcontent0">Health</a></li>
-	<li class="notSelected"><a href="#" rel="rcontent1">Military</a></li>
-	<li class="notSelected"><a href="#" rel="rcontent2">U.S. News</a></li>
-	<li class="notSelected"><a href="#" rel="rcontent3">U.S. Business</a></li>
-	<li class="notSelected"><a href="#" rel="rcontent4">Politics</a></li>
-</ul>
-
-<div class="tabcontentstyle" align="left">
-	<div id="rcontent0" class="tabcontent" align="left">
-		<div class="linksholder" align="left">
-		<ul>
-			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40578643/ns/health-aging/">U.S.&nbsp;expectancy slipped as recession took hold</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40589828/ns/health-health_care/">1.5 million to learn insurance is below standard</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40591803/ns/health-diet_and_nutrition/">Visions of sugarplums may help you lose weight</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40593177/ns/health-cancer/">Promising bone drug flops in breast cancer study</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40592835/ns/health-health_care/">Rolaids recalled for bits of metal, wood</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40576433/ns/health-addictions/">Even a bit of social smoking can trigger heart attack</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40591866/ns/health/">Congress votes to avert Medicare doctor pay cut</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40569580/ns/health-womens_health/">Screening confusion: What's best for your breasts?</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40588080/ns/health-food_safety/">Calif. co. recalls cilantro on salmonella fears</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://firstread.msnbc.msn.com/_news/2010/12/09/5619353-kicking-the-habit">Obama, kicking the habit</a>
-				</li>
-                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     					</ul>
-                                        </div>
-	</div>
-	<div id="rcontent1" class="tabcontent" align="left">
-		<div class="linksholder" align="left">
-		<ul>
-			                                                                                     				<li><a target="_blank" class="title" href="http://pheedo.msnbc.msn.com/click.phdo?i=bed850bebd3dcd8ef4f7f74b9e87192a">NYT: Report finds early Afghanistan missteps</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://pheedo.msnbc.msn.com/click.phdo?i=6eeee2082d08f0afe3a52a4ce1758aa5">Cold-case trial: Did wife, pals kill Marine?</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://pheedo.msnbc.msn.com/click.phdo?i=c33a6ef32cea4b0934c4922d6979ad06">‘Dangerous base’ sours U.S.-Japan ties</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://pheedo.msnbc.msn.com/click.phdo?i=5bcc916cfccda5511d10776e0f574791">Sailor hurt in USS Cole bombing dies</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://pheedo.msnbc.msn.com/click.phdo?i=79c66962d9fea86e70bc6bf15455b906">Marines tell of battles in Afghan province</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://pheedo.msnbc.msn.com/click.phdo?i=8a29f4adfa59eae8b64d492b1964fd51">Family pleads for release of U.S. soldier</a>
-				</li>
-                                                                                     					</ul>
-                                        </div>
-	</div>
-	<div id="rcontent2" class="tabcontent" align="left">
-		<div class="linksholder" align="left">
-		<ul>
-			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40565987/ns/business-going_green/">Dems help Chinese firm chase stimulus</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://redtape.msnbc.com/2010/12/the-vigilante-cyberskirmish-surrounding-wikileaks-has-now-spilled-over-onto-the-wider-internet-and-web-sites-like-mastercard.html">WikiLeaks vigilante war spills onto Web</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40592268/ns/local_news-tampa_fl/">WikiLeaks: U.S. helped Spain fight treasure hunter</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40582728/ns/us_news-wikileaks_in_security/">U.S. to probe hack attacks in wake of WikiLeaks</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40587353/ns/us_news-life/">Controversial church to picket Edwards funeral</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40593739/ns/us_news-crime_and_courts/">Imprisoned heir to du Pont chemical fortune dies</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://fieldnotes.msnbc.msn.com/_news/2010/12/09/5618684-report-brown-may-put-calif-budget-on-the-ballot">Report: Brown may put Calif. budget on the ballot</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40595300/ns/us_news-crime_and_courts/">Designer dead at hotel, composer's son grilled</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40587513/ns/us_news-security/">FBI: Md. bomb plot suspect knew about Oregon sting</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40591892/ns/us_news-crime_and_courts/">Feds: Virginia Tech violated law in mass shooting</a>
-				</li>
-                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     					</ul>
-                                        </div>
-	</div>
-	<div id="rcontent3" class="tabcontent" align="left">
-		<div class="linksholder" align="left">
-		<ul>
-			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40584513/ns/business-eye_on_the_economy/">Jobless claims drop for 2nd time in 3 weeks</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40571718/ns/business-consumerman/">ConsumerMan: Holiday gift cards are better</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40546466/ns/business-eye_on_the_economy/">Stocks end mixed as tax compromise stalls</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://lifeinc.todayshow.com/_news/2010/12/09/5613634-holiday-spirit-versus-holiday-ease">Holiday spirit versus holiday ease</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40584671/ns/business-us_business/">Bushels of "Smurfberries" cost buckets of cash</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://lifeinc.todayshow.com/_news/2010/12/09/5617416-companies-financial-bosses-get-more-upbeat">CFOs get more upbeat about hiring</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40593836/ns/business-us_business/">Winklevoss twins sued over company stake</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40534243/ns/business-us_business/">Ten gorgeous ski-area palaces that are for sale</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40590770/ns/business-eye_on_the_economy/">Americans' wealth grew 2.2 pct. last quarter</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40589968/ns/business-autos/">Ford to add 1,800 jobs at Kentucky plant</a>
-				</li>
-                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     					</ul>
-                                        </div>
-	</div>
-	<div id="rcontent4" class="tabcontent" align="left">
-		<div class="linksholder" align="left">
-		<ul>
-			                                                                                     				<li><a target="_blank" class="title" href="http://firstread.msnbc.msn.com/_news/2010/12/09/5619090-key-vote-on-dont-ask-dont-tell-repeal-fails">Key vote on 'Don't Ask Don't Tell' repeal fails</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://firstread.msnbc.msn.com/_news/2010/12/09/5616969-first-thoughts-scare-tactics">First Thoughts: Scare tactics</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://firstread.msnbc.msn.com/_news/2010/12/09/5617540-house-dem-caucus-votes-to-reject-tax-compromise">House Dem Caucus votes to reject tax compromise</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40573747/ns/politics/">What happened to that 'adult conversation' on U.S. debt?</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://firstread.msnbc.msn.com/_news/2010/12/09/5617723-dream-act-stalls-in-senate-">DREAM Act vote delayed in Senate</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://firstread.msnbc.msn.com/_news/2010/12/09/5619353-kicking-the-habit">Obama, kicking the habit</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40587785/ns/politics-capitol_hill/">Unhappy Dems say tax bill likely to pass</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40590804/ns/politics-more_politics/">Holder urges Senate reject ban on Gitmo moves</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40584990/ns/politics-capitol_hill/">Massive budget bill faces opposition in Senate</a>
-				</li>
-                                                                                     			                                                                                     				<li><a target="_blank" class="title" href="http://www.msnbc.msn.com/id/40584989/ns/politics-more_politics/">Likely GOP hopefuls line up against nuclear treaty</a>
-				</li>
-                                                                                     			                                                                                     			                                                                                     			                                                                                     			                                                                                     					</ul>
-                                        </div>
-	</div>
-
-</div>
-<script type="text/javascript">
-initializetabcontent("maintab3")
 </script>
 
 					</div>
@@ -1319,10 +1470,30 @@ initializetabcontent("maintab3")
 </div>
 </div>
 										 
+																	
+			
+																				
+
+
+
+
+
+
+
+
+
+						<div class="contentModule" ondblclick="window.status=118191174" style="border: 0px solid #000000;">
+							 																								<iframe src="http://widget.newsinc.com/_fw/wjhg/thumb_wjhg_us.html" height="165" width="300" frameborder="0" scrolling="no"></iframe> 
+																					</div>
+															 
 																		</div>
 				</div>
 	
 							<!-- begin ad tag-->
+							<div style="text-align:center; float:left; width:100%; padding-bottom:2px;">
+					<script language="JavaScript" src="http://ad.doubleclick.net/adj/wn.loc.wjhg/home;wnsz=02;sz=728x90;ord=[timestamp]?" type="text/javascript"></script>
+					<noscript><a href="http://ad.doubleclick.net/jump/wn.loc.wjhg/home;wnsz=02;sz=728x90;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/wn.loc.wjhg/home;wnsz=02;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt=""></a></noscript>
+				</div>
 						<!-- End ad tag -->
 				
 											<!-- begin ad tag-->
@@ -1349,14 +1520,16 @@ initializetabcontent("maintab3")
 <br>
 
 <ul style="display:inline; list-style-type:none">
-<li style="display:inline"><a style="padding:0 10px;" href="/unclassified/34218669.html">Terms of Use</a></li>
-<li style="display:inline"><a style="padding:0 10px;" href="/unclassified/34218884.html">PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS</a></li>
-<li style="display:inline"><a style="padding:0 10px;" target="_blank" href="http://media.graytvinc.com/documents/AR-BC260_20100929_172241.pdf">EEO Statement</a></li>
-<li style="display:inline"><a style="padding:0 10px;" target="_blank" href="http://www.wjhg.com/station/misc/30708389.html">FCC Form 388</a></li>
-<li style="display:inline"><a style="padding:0 10px;" href="/mobi" onclick="eraseMobileCookie();">View Mobile Site</a></li>
+<li style="display:inline"><a style="padding:0 7px;" href="/unclassified/34218669.html">Terms of Use</a></li>
+<li style="display:inline"><a style="padding:0 7px;" href="/unclassified/34218884.html">PRIVACY POLICY/YOUR CALIFORNIA PRIVACY RIGHTS</a></li>
+<li style="display:inline"><a style="padding:0 7px;" href="/home/misc/120872104.html">Advertising Non-Discrimination Certification</a></li>
+
+<li style="display:inline"><a style="padding:0 7px;" target="_blank" href="http://media.graytvinc.com/documents/AR-BC260_20100929_172241.pdf">EEO Statement</a></li>
+<li style="display:inline"><a style="padding:0 7px;" target="_blank" href="http://www.wjhg.com/station/misc/30708389.html">FCC Form 388</a></li>
+<li style="display:inline"><a style="padding:0 7px;" href="/mobi" onclick="eraseMobileCookie();">Mobile Site</a></li>
 </ul>
 
-<p class="headlines">Gray Television, Inc. - Copyright © 2002-2010 - Designed by Gray Interactive Media - Powered by Clickability
+<p class="headlines">Gray Television, Inc. - Copyright © 2002-2011 - Designed by Gray Interactive Media - Powered by Clickability
  - <span style="color:#cccccc; font-size:8pt">Story ID: 34218884</span>
 </p>
 
