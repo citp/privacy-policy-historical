@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edir1.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926183830id_/http%3A//edir1.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edir1.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514083235id_/http%3A//edir1.com/privacy) for the most accurate reproduction.*
 
 # EmailDirect.com
 
@@ -9,7 +9,7 @@ EmailDirect, Inc. or ("we") respect your and or (“clients” or “user”) pr
 EmailDirect.com, Inc. takes great pride in assuring our clients their data in all forms is kept private and safe from all forms of third-parties both from outside the network and within the network, such as employees and associated partners. In addition, EmailDirect.com, Inc. participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. To learn more please see the section below titled EU Safe Harbor. We will continue to strive to ensure that our network services and website, complies with the strict standards for online privacy, security, business practices, and transaction integrity. If you have any questions about the EmailDirect.com, Inc. Privacy Policy, please contact us via email at [privacy@emaildirect.com.](mailto:privacy@emaildirect.com)
 
 Anti-Spam Policies   
-EmailDirect, Inc. takes its anti-spam policy very seriously and has a history of acting on it.For more information about EmailDirect, Inc.’s anti-spam policy, please see [Anti-Spam Policy](https://web.archive.org/web/20100926183830id_/http%3A//edir1.com/Home/antispam.aspx) or contact [ abuse@emaildirect.com](mailto:abuse@emaildirect.com). 
+EmailDirect, Inc. takes its anti-spam policy very seriously and has a history of acting on it.For more information about EmailDirect, Inc.’s anti-spam policy, please see [Anti-Spam Policy](https://web.archive.org/antispam) or contact [ abuse@emaildirect.com](mailto:abuse@emaildirect.com). 
 
 EU Safe Harbor   
 EmailDirect.com, Inc. is self-certified by and abides by the principles of the Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. If you feel that this company is not abiding by its posted Privacy Policy or is not in compliance with the Safe Harbor principles, you should first contact EmailDirect.com, Inc. privacy officer. 
@@ -23,7 +23,7 @@ Email to: privacy@emaildirect.com
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact either the Judicial Arbitration and Mediation Services (JAMS - http://jamsadr.com) or the American Arbitration Association (http://adr.org). They will then serve as a liaison to EmailDirect.com, Inc. to resolve your concerns. 
 
 Compliance   
-This privacy statement discloses the privacy practices for [www.EmailDirect.com](https://web.archive.org/web/20100926183830id_/http%3A//edir1.com/Home/default.aspx) and or services.Because EmailDirect, Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices with you to insure you are aware of all intentions and privacy policies provided by EmailDirect, Inc. This website has agreed to notify you of: 
+This privacy statement discloses the privacy practices for [www.EmailDirect.com](https://web.archive.org/web/20110514083235id_/http%3A//edir1.com/default.aspx) and or services.Because EmailDirect, Inc. wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices with you to insure you are aware of all intentions and privacy policies provided by EmailDirect, Inc. This website has agreed to notify you of: 
 
 >   
 >  1\. What personally identifiable information of yours is collected through the web site   
