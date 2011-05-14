@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newnownext.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215215257id_/http%3A//www.logotv.com/about/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newnownext.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514025702id_/http%3A//www.logotv.com/about/privacy-policy.jhtml) for the most accurate reproduction.*
 
 # Fierce TV: RuPaul, Full Episodes, Reality TV Shows, Gay Movies | Logo TV | Watch Free Videos & New Music Videos
 
-**Last Modified: September 3, 2010**
+**Last Modified: March 3, 2011**
 
 **_Go to_** [**Terms of Use Agreement**](http://www.logoonline.com/about/terms-of-use.jhtml) ****
 
@@ -12,7 +12,7 @@
 
 This Privacy Policy is intended to explain our privacy practices and covers the following areas: ****  
 1.   **_When This Privacy Policy Applies_.**  
-2.   **_U.S._** ** _Governing Law_. **  
+2.   **_U.S._** ** _Governing Law; Safe Harbor_. **  
 3.   **_Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)_. **  
 4.   **_Opting-out of Certain Uses of your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)_.**  
 5.   **_Wireless Marketing Services and Associated Promotional Opportunities_.**  
@@ -20,7 +20,7 @@ This Privacy Policy is intended to explain our privacy practices and covers the 
 7.   **_Reviewing, Updating or Deleting Certain Information_.**  
 8.   **_Protection of Information_. **  
 9.   **_Your California Privacy Rights_.**  
-10\. **_Changes to this Privacy Policy and Notice_.**   
+10\. **_Changes to this Privacy Policy and Notice_.**  
 11\. **_Miscellaneous_.**
 
 **1.          When This Privacy Policy Applies. **
@@ -29,13 +29,15 @@ This Privacy Policy applies whether you are accessing the Site via a personal co
 
 This Privacy Policy will remain in full force and effect, even if your use of or participation in the Site or any particular service, feature, function or promotional activity offered through the Site terminates, expires, ceases, is suspended or deactivated for any reason.  If you do not agree with this Privacy Policy, please do not participate in the Site or any features, activities or services offered through the Site.
 
-**2.          U.S. Governing Law. **
+**2.         U.S. Governing Law; Safe Harbor. **
 
 The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S.  We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. ** ** By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our [**Terms of Use Agreement**](http://www.logoonline.com/about/terms-of-use.jhtml).  If you are do not meet the age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
 
-If you are located in the European Union or elsewhere outside of the U.S., you do so at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws.  [Please be aware that any Personal Information and Other Information you provide to us or we obtain as a result of your use of this Site will be collected in the U.S. and/or transferred to the U.S. and subject to U.S. law.  By using this Site, participating in any Site activities and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information to and in the U.S., (ii) acknowledge that U.S. law provides a lower standard of protection for personal data than the laws of various countries including, but not limited to, the European Union and (iii) understand that we will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and U.S. law.  If this Site is part of the Flux platform, by using this Site, participating in any Site activities, and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information you provide to the Site and to Flux, (ii) acknowledge that U.S. law provides a lower standard of protection for personal data than the laws of various countries including, but not limited to, the European Union and (iii) understand that this Site and Flux will collect, transfer, store, process and/or deal with your Information in accordance with **** this Privacy Policy and the [**Flux Privacy Policy**](http://www.socialproject.com/PrivacyPolicy.html) and U.S. law. Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. 
+If you are located in the European Economic Area ("EEA") and Switzerland, for detailed privacy policy and practices with respect to personal information transferred from the EAA and Switzerland, please see our Safe Harbor Privacy Policy located at http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf.
 
-**3.          Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities). **
+If you are located outside of the U.S., the EEA and Switzerland, you use this Site at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws.  [Please be aware that any Personal Information and Other Information you provide to us or we obtain as a result of your use of this Site will be collected in the U.S. and/or transferred to the U.S. and subject to U.S. law.  By using this Site, participating in any Site activities and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information to and in the U.S., (ii) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and (iii) understand that we will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and U.S. law.  If this Site is part of the Flux platform, by using this Site, participating in any Site activities, and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information you provide to the Site and to Flux, (ii) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of various countries including, but not limited to, the European Union and (iii) understand that this Site and Flux will collect, transfer, store, process and/or deal with your Information in accordance with **** this Privacy Policy and the [**Flux Privacy Policy**](http://www.socialproject.com/PrivacyPolicy.html) and U.S. law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction.
+
+**3.         Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities). **
 
 When we use the term "
 
@@ -102,28 +104,33 @@ As set forth in this Privacy Policy, we may share Information with our Parent Co
 
 
 
-**iii.   _Other Information Collected by Third Party Advertising Service Providers and Advertisers_**.  The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours.  Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet.  This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. **  **Use of Third Party Advertising Service Providers’ and Advertisers’ Tracking Technologies is governed by the Third Party Advertising Service Providers’ or Advertisers’, as applicable, own specific privacy policies and not this Privacy Policy.  However, please see “ **Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)”** Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.
+**iii.   _Other Information Collected by Third Party Advertising Service Providers and Advertisers_**.  The use of Tracking Technologies by Third Party Advertising Service Providers and Advertisers is within their control and not ours.  Even if we have a relationship with the Third Party Advertising Service Provider or Advertiser, we do not control their websites or their policies and practices regarding your Information and you should be aware that different rules might apply to the collection, use or disclosure of your Information by third parties in connection with their advertisements or promotions and other sites you encounter on the Internet.  This Privacy Policy does not cover any use of Information that a Third Party Advertising Service Provider or Advertiser may directly collect from you. **  **Use of Third Party Advertising Service Providers’ and Advertisers’ Tracking Technologies is governed by the Third Party Advertising Service Providers’ or Advertisers’, as applicable, own specific privacy policies and not this Privacy Policy.  However, please see “ **Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)**” Section for more information on how to opt-out of the collection and/or use of Information collected by certain Third Party Advertising Service Providers.
 
 **4.          Opting-Out of Certain Uses of Your Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).**
 
 **a.    Opting-Out of Certain Uses of Personal Information.**
 
-**i.           In Connection with Marketing and Promotional Email and Offers. **  
-You may "opt-out" of receiving marketing and promotional e-mails from us at any time by using the Site’s preference management page associated with your User ID account to opt-out of receiving such emails or messages from the Site, the Parent Companies, Affiliates and/or third parties by going to the Site’s home page, clicking the "Your Account" link, to (1) un-register your account, or (2) change or **** edit your preferences.  ****
+**i.           In Connection with Marketing and Promotional E-mail and Offers. **  
+You may "opt-out" of receiving marketing and promotional e-mails from us at any time by using the Site’s preference management page associated with your User ID account to opt-out of receiving such emails or messages from the Site, the Parent Companies, Affiliates and/or third parties by going to the Site’s home page, clicking the "Your Account" link, to (1) un-register your account, or (2) change or edit your preferences.  You may also use the opt-out mechanism that is containted in each such email. Please note that when you opt-out of receiving marketing and promotional e-mails from us, you are not opting out of receiving newsletters from us that you have requested. Further, when you use the opt-out mechanism that is contained in an email, you are not opting out of receiving marketing and promotional e-mails from other MTVN brands. Please see Section 4.a.ii below for your newsletter options
 
-**ii.          In Connection with Wireless Marketing Services.**  See “ **Termination of Wireless Services by Users** ” under the “Wireless Marketing Services and Associated Promotional Opportunities” Section for more information on how you may unsubscribe from receiving text messages.  
-**iii.         Certain Continuing Rights Regardless of Opt-Outs**.  However, even if you exercise your opt-out rights above, **** we, or our Parent Companies or Affiliates, may continue to contact you for the other purposes described in the “ **Use of Information** ” Section above, such as for maintenance and administrative purposes. ****
+**ii.          In connection with Newsletters and other Editorial-based E-mails.**  
+To the extent the applicable Site offers newsletters or other editorial-based emails, to manage your newsletter preferences, you may click on the newsletter link provided in the footer of our website to select which newsletters you receive or unsubscribe through [http://ebm.mail.logoonline.com/r/regf2?a=0&aid=1327847037&n=1](http://ebm.mail.logoonline.com/r/regf2?a=0&aid=1327847037&n=1). Please note that when you opt-out of receiving any and all newsletters and other editorial-based e-mails from us, you are not opting out of receiving marketing and promotional e-mails from us. Please see Section 4.a.i above for your marketing promotional e-mails options.  
+
+
+**iii.          In Connection with Wireless Marketing Services.**  See “ **Termination of Wireless Services by Users** ” under the “Wireless Marketing Services and Associated Promotional Opportunities” Section for more information on how you may unsubscribe from receiving text messages.  
+**iv.         Certain Continuing Rights Regardless of Opt-Outs**.  However, even if you exercise your opt-out rights above, **** we, or our Parent Companies or Affiliates, may continue to contact you for the other purposes described in the “ **Use of Information** ” Section above, such as for maintenance and administrative purposes. ****
 
 **b.    Opting-Out of Use of Certain Other Information Collected by Tracking Technologies.**
 
-**i.           Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers. **
+**i.           Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.**
 
-**With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options:**
+With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options:
 
- **
+  * With respect to the serving of ads by DoubleClick to you, please visit [**http://www.doubleclick.com/us/about_doubleclick/privacy**](http://www.doubleclick.com/privacy/index.aspx) for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. See below for more information on removing Flash cookies.
+  * To opt-out of most Tracking Technologies (other than Flash cookies) set by certain Third Party Advertising Service Providers used by the Site in addition to DoubleClick, please visit [**Network Advertising Initiative’s Privacy Policy**](http://www.networkadvertising.org/managing/opt_out.asp) for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies.
 
-  * With respect to the serving of ads by DoubleClick to you, please visit [**DoubleClick’s Privacy Policy**](http://www.doubleclick.com/privacy/index.aspx) for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. See below for more information on removing Flash cookies.
-  * To opt-out of most Tracking Technologies (other than Flash cookies) set by certain Third Party Advertising Service Providers used by the Site in addition to DoubleClick, please visit [**Network Advertising Initiative’s Privacy Policy**](http://www.networkadvertising.org/managing/opt_out.asp) for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. See below for more information on removing Flash cookies.
+See below for more information on removing Flash cookies.
+
   * You can choose to delete most Tracking Technologies (other than Flash cookies) through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. (See the “help“ section of your browser for more information and see below for more information on removing Flash cookies.)  
   * You can choose to reject, disable or turn most Tracking Technologies off (other than Flash cookies).  Additional information on rejecting, disabling or turning most Tracking Technologies off may be available through your browser’s support feature. (See the “help“ section of your browser for more information and see below for more information on removing Flash cookies.)
 
@@ -131,21 +138,21 @@ You may "opt-out" of receiving marketing and promotional e-mails from us at any 
 
 Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers’ Tracking Technologies does not mean that you will no longer receive online ads.   Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers’ Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on this Site. 
 
-**ii.           Tracking Technologies Set By the Site. **
+**ii.           Tracking Technologies Set By the Site.**
 
-**With respect to the Tracking Technologies set by the Site, you have a number of options:**
-
- **
+With respect to the Tracking Technologies set by the Site, you have a number of options:
 
   * You can choose to delete most Tracking Technologies (other than Flash cookies) through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. (See the “help“ section of your browser for more information and see below for more information on removing Flash cookies.)  
   * You can choose to disable or turn most Tracking Technologies off (other than Flash cookies).  Additional information on disabling or turning most Tracking Technologies off may be available through your browser’s support feature. (See the “help“ section of your browser for more information and see below for more information on removing Flash cookies.)
-  * You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies are being sent (other than Flash cookies), or you can choose to turn off such warnings.  This is done through your browser on the Device you use to access the Site.  Additional information on warnings and removal of warnings may be available through your browser’s support feature.
+  * You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies are being set (other than Flash cookies), or you can choose to turn off such warnings.  This is done through your browser on the Device you use to access the Site.  Additional information on warnings and removal of warnings may be available through your browser’s support feature.
 
 
+
+This Site adheres to the Self-Regulatory Principles for Online Behavioral Advertising. [Click here](http://srp.mtvn.com/sitefaq.html) for more information about this Site and online behavioral advertising.
 
 Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices.  Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.
 
-**iii.           Flash Cookies. Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit [**http://kb2.adobe.com/cps/526/52697ee8.html**](http://kb2.adobe.com/cps/526/52697ee8.html) or [**http://epic.org/privacy/cookies/flash.html**](http://epic.org/privacy/cookies/flash.html).**
+**iii.           Flash Cookies.** Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies. For more information about Flash cookies and how to remove them from your computer, please visit <http://www.adobe.com/products/flashplayer/articles/lso/> or <http://epic.org/privacy/cookies/flash.html>
 
 **5.          Wireless Marketing Services and Associated Promotional Opportunities. **
 
@@ -176,7 +183,7 @@ A user may cancel one or more services via his or her wireless device at any tim
 
 Generally, we do not sell, rent, lease or disclose your Personal Information to third parties, except if you consent to such disclosure or as described in this Privacy Policy. 
 
-**i.     Disclosure to Parent Companies and Affiliates.**  We may disclose Personal Information to Parent Companies and Affiliates for marketing and/or administrative purposes.  You can choose to opt-out of certain such uses as described in the “ **Opting-Out of Certain Uses of Personal Information”** Section above.
+**i.     Disclosure to Parent Companies and Affiliates.**  We may disclose Personal Information to Parent Companies and Affiliates for marketing and/or administrative purposes.  You can choose to opt-out of certain such uses as described in the “ **Opting-Out of Certain Uses of Personal Information** ” Section above.
 
 **ii.    Disclosure of Certain Information in Postings Intended to Be Disclosed.  **Certain Personal Information associated with a Posting may be intended for disclosure (“ _Posting Information_ ”), such as username.  We will disclose Posting Information in connection with the display of, and other services relating to, such Posting. 
 
@@ -213,9 +220,6 @@ While no data transmission over the Internet is 100% secure from intrusion, we m
 **_Phishing_** **.**   Phishing attacks attempt to steal consumers’ personal identity data and financial account credentials.  “Phishers” use ‘spoofed’ e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Information such as credit card numbers, account usernames, passwords and social security numbers.  **WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS, SOCIAL SECURITY NUMBERS OR YOUR USERNAME OR PASSWORD!**   If you receive such email communication, please print it out and send it immediately to the Site’s Privacy Administrator at the address below, and then immediately delete the fraudulent email from your computer.
 
 **LOGOonline.com** **  
-1540 Broadway  
-New York, NY 10036  
-Attn: Your California Privacy Rights  
 c/o Privacy Administrator**
 
 **9.          Your California Privacy Rights.  **  
@@ -228,9 +232,6 @@ If you are a resident of the State of California, we provide you with informatio
 If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). You may contact us at: 
 
 **LOGOonline.com** **  
-1540 Broadway  
-New York, NY 10036  
-Attn: Your California Privacy Rights  
 c/o Privacy Administrator  
 **  
 **All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request**. For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) **We will not accept requests via the telephone or by facsimile**. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
@@ -260,5 +261,3 @@ c/o Privacy Administrator**
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.  
 Copyright © 2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
-
-****
