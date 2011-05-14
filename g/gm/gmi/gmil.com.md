@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmil.com privacy policy that was archived on 2010-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100823035823id_/http%3A//www.videos.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmil.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514201454id_/http%3A//www.videos.com/privacy.htm) for the most accurate reproduction.*
 
 # Videos.com ~ Privacy Policy
 
