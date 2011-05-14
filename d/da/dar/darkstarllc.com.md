@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the darkstarllc.com privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022212229id_/http%3A//www.darkstarllc.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darkstarllc.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515012545id_/http%3A//www.darkstarllc.com/privacy-policy) for the most accurate reproduction.*
 
-# DarkStar Communications' Company Privacy Policy - Find where your information is going!
+# Privacy Policy - Find where your information is going (or isn't) at DarkStar!
+
+**Need help? Want to contact a representitive?** Please review our [customer service](https://web.archive.org/support) page.
 
 ## What information do we collect?
 
@@ -98,6 +100,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 www.DARKSTARLLC.com  
 6930 E CHAUNCEY LANE  
+SUITE 150  
 PHOENIX, AZ 85054  
 US  
 support [[-at-]] darkstarllc.com
@@ -116,5 +119,5 @@ We pledge to you, our customer, that we have made a dedicated effort to bring ou
 
 Respectfully,
 
-Brett Guarnieri Owner  
+Brett Guarnieri, Owner  
 http://www.DARKSTARLLC.com
