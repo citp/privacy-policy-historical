@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208200333id_/http%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514043051id_/http%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for Send2Press Newswire, a service of Neotrope
 
-|  |  |   
+|  |  |  |  |  |   
+---|---|---  
+|  |  |  |  |   
 ---|---|---  
 | 
 
-Today is Mon., Feb 08, 2010   
+Today is Fri., May 13, 2011   
 
 
   
-**Questions? Call Toll-Free:**   
-1.866.473.5924 (in U.S.)   
-In California: 1.310.373.4856 
-
-Normal Business Hours are:  
-9 a.m. to 5 p.m. Mon-Fri. PST 
+**Questions? Give us a Call:**   
+1.310.373.4856    
+Toll-free in U.S.: 866.473.5924   
+_We're in California, USA._
 
 **Quick Links:**
 
@@ -38,7 +38,7 @@ Send2Press® Newswire is a service of Neotrope®, established Jan. of 1983 in Re
 [](http://www.dotcommojo.com/index.shtml)
 
   
- 
+
 
 [](http://validator.w3.org/check?uri=referer)
 
@@ -46,13 +46,13 @@ Send2Press® Newswire is a service of Neotrope®, established Jan. of 1983 in Re
 
 Privacy Statement for Send2Press.com
 
-2010 Privacy Statement
+2011 Privacy Statement
 
 Neotrope® and Send2Press® (Send2Press.com) have created this privacy statement to explain our commitment to your privacy. We seek to protect your private information so that you have an enjoyable shopping and viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. 
 
 This policy is believed to meet all local, state and Federal privacy laws and guidelines of the U.S.A. currently in place as of its writing, and is believed to meet the minimum requirements for the European Union, and Canada, but may not meet the requirements for other countries. 
 
-You may wish to review this policy annually, as it may be updated each January, or as industry and/or legal standards require it. This page was last updated on: December 27, 2009. 
+You may wish to review this policy annually, as it may be updated each January, or as industry and/or legal standards require it. This page was last updated on: February 10, 2011. 
 
 This policy statement contains the following topics:   
 ( **Click subject to "jump" to topics on this page, below** )
@@ -166,6 +166,12 @@ Privacy Statement Contact Information
 
 Please direct questions, comments and suggestions regarding this statement to the Privacy Manager, Neotrope/Send2Press, PMB 822 PO Box 7000, Redondo Beach, CA 90277-8710. You can also e-mail the Privacy Manager at "support\\\@\\\send2press.com" (remove the "\\\") and state specifically you are inquiring about our privacy statement. 
 
-_Important Copyright notice: this privacy policy is unique to Neotrope/Send2Press and contains original and specific sections, and may not be copied, cloned, used as a basis for another site's privacy policy, or mis-represented as part of Neotrope in any way. Copr. © 1997 - 2010 by Neotrope® - ALL RIGHTS RESERVED._
+_Important Copyright notice: this privacy policy is unique to Neotrope/Send2Press and contains original and specific sections, and may not be copied, cloned, used as a basis for another site's privacy policy, or mis-represented as part of Neotrope in any way. Copr. © 1997 - 2011 by Neotrope® - ALL RIGHTS RESERVED._
 
-| 
+|   
+  
+_Our customers  
+say it best:_ |        | “  |  [Send2Press has yielded interviews for me in TV, radio, newspapers, magazines from all over the globe, including the BBC, MSNBC, CNN, E! entertainment, People magazine, The New York Times, AP, etc. — _Sculptor Daniel Edwards_](http://www.send2press.com/clients/testimonials.shtml) | ”  
+---|---|---|---|---  
+  
+|  | 
