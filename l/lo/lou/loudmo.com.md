@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loudmo.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125080813id_/http%3A//www.loudmo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudmo.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514151954id_/http%3A//www.loudmo.com/privacy) for the most accurate reproduction.*
 
 # LoudMo Pay Per Install PPI Affiliate Program Privacy Policy
 
