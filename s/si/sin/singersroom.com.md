@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singersroom.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223132440id_/http%3A//www.singersroom.com/inside/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singersroom.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514053013id_/http%3A//www.singersroom.com/inside/privacy) for the most accurate reproduction.*
 
 # Singersroom.com: Singersroom.com Privacy Policy
 
@@ -21,7 +21,10 @@ Singersroom uses "Cookies" to track and record your preferences and activity on 
 What do we do with the information we collect?    
 Singersroom's primary goal in collecting personal information is to provide you, the user, with a customized experience on our Web site. The information we collect (including information contained in your cookie) may be used to provide such capabilities as personalization services, interactive communications, online shopping, and personalized communication between you and the artists you prefer. We may also use the information to estimate the size of our audience and measure certain traffic patterns, to track the progress and number of entries in our promotions and contests, to track visits to and business conducted at our online store, to notify our visitors about updates to our Web site, to contact you for marketing purposes, to contact you on behalf of certain artists and other third parties and deliver targeted advertisements that may be of interest to you. We may occasionally contact you with information regarding special events at Singersroom. 
 
-In addition, if we feel that a user abuses the Singersroom site in any way, we reserve the right to share certain information with third parties. Abuses include (but are not limited to) posssible copyright infringement, possible libel and slander, possible credit card fraud. 
+In addition, if we feel that a user abuses the Singersroom site in any way, we reserve the right to share certain information with third parties. Abuses include (but are not limited to) posssible copyright infringement, possible libel and slander, possible credit card fraud.
+
+Advertising Data Collection   
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 With whom do we share your information and for what purpose?   
 Singersroom does not sell, rent, or trade your personal information with others. However, when one or more of our business partners co-sponsor a service, promotion and/or contest, we may share some or all of the information collected in connection with such service, promotion or contest with the co-sponsor(s). If you do not want your information to be shared, you will be able to choose not to allow the transfer by not using or signing up for that particular service, promotion or contest. 
