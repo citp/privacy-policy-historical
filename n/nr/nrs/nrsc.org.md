@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrsc.org privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202053833id_/http%3A//www.nrsc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrsc.org privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515005635id_/http%3A//www.nrsc.org/privacy-policy) for the most accurate reproduction.*
 
 # NRSC Privacy Policy
 
