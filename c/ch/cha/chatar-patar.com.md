@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatar-patar.com privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822075432id_/http%3A//www.chatar-patar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatar-patar.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514114704id_/http%3A//www.chatar-patar.com/privacy.php) for the most accurate reproduction.*
 
 # Make Online Friends | Share Photo Albums | Share Videos | Send Free SMS | Cricket Live Scores | Recharge Free Mobile -- Chatar-Patar.com
 
