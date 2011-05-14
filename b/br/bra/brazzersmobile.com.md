@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brazzersmobile.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305075127id_/http%3A//static.brazzers.com/mobile_compliance_files/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazzersmobile.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514203139id_/http%3A//static.brazzers.com/mobile_compliance_files/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,4 +63,4 @@ Gilboa Ltd,
 Unit 6,  
 15-17 Caledonian Road,  
 P.O. Box 299,  
-London N1 9DX 
+London N1 9DX
