@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bechristianlouboutin.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418015449id_/http%3A//www.bechristianlouboutin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bechristianlouboutin.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514111436id_/http%3A//www.bechristianlouboutin.com/privacy) for the most accurate reproduction.*
 
 # Privacy at bechristianlouboutin.com
 
