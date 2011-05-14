@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the stagestores.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102125140id_/http%3A//www.stagestores.com/policies/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stagestores.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514163040id_/http%3A//www.stagestoresinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Stage: Privacy Policy
+# Privacy Policy - Stage
 
-### Specialty Retailers, Inc.  
-Last Updated 05/15/09
+**  
+Specialty Retailers, Inc.  
+Last Updated 05/2010**
 
 Thank you for visiting our web site. We appreciate your trust in us and we respect your right to privacy. We want you to know what information we collect from visitors to our site and how that information is used, shared and protected. This policy governs the information Specialty Retailers, Inc. collects at the Site (as defined below), but not through other means.
 
@@ -21,11 +22,11 @@ Our web server automatically collects the IP address, but not the email address,
 
 We only collect personally identifiable information about you when you choose to provide it on the Site. For example, we collect your name, address, telephone number, email address and credit card information whenever you place a Stage Gift Card order. If you sign up to receive email notification about Club 50 Plus events or other upcoming sales and events (sales alerts), participate in a survey, provide customer feedback, or apply for employment with us through our online Job Application Form, we will ask you to provide us with your name, address, telephone number, and email address. If you choose to complete the online Job Application Form, we will also ask for additional information regarding your employment preferences and history, your criminal record, educational background, and related information.
 
-Any information you provide to WFNNB is governed by WFNNB?s privacy practices. WFNNB may re-disclose that information to us or other third parties, as stated in WFNNB?s privacy policy.
+Any information you provide to WFNNB is governed by WFNNB's privacy practices. WFNNB may re-disclose that information to us or other third parties, as stated in WFNNB's privacy policy.
 
 ## Information From The Teen Fashion Board Chat Room
 
-If you choose to apply to be a part of our Teen Fashion Board, we will collect your name, email address, phone number, city, state, and country of residence, and your date of birth. If you are selected to participate in our Teen Fashion Board, we will collect the results of surveys in which you choose to participate, as well as the transcripts of online chats in which you engage through the Site. 
+If you choose to apply to be a part of our Teen Fashion Board, we will collect your name, email address, phone number, city, state, and country of residence, and your date of birth. If you are selected to participate in our Teen Fashion Board, we will collect the results of surveys in which you choose to participate, as well as the transcripts of online chats in which you engage through the Site.
 
 ## Cookies
 
@@ -43,9 +44,9 @@ In addition to the information we collect from cookies, we also obtain informati
 
 ## How We Use the Information We Collect
 
-We use aggregate information to help us evaluate visitor traffic patterns and improve our Site by making it more responsive to the needs of visitors. The personally identifiable information we collect is used to process requests or orders you make on our Site. For example, we use information you provide to help you purchase Stage Gift Cards, provide you with sales alerts, participate in surveys, and help us respond to your customer service comments and inquiries. We also use personally identifiable information we collect to contact you regarding our products and services that may be of interest to you. Visitors who do not wish to receive sales alerts and other promotional notifications may take advantage of the opt-out procedures described in detail below. Additionally, should you choose to provide personal information through our online employment application process, the information you provide us will be used in order to make a determination with regard to employment. 
+We use aggregate information to help us evaluate visitor traffic patterns and improve our Site by making it more responsive to the needs of visitors. The personally identifiable information we collect is used to process requests or orders you make on our Site. For example, we use information you provide to help you purchase Stage Gift Cards, provide you with sales alerts, participate in surveys, and help us respond to your customer service comments and inquiries. We also use personally identifiable information we collect to contact you regarding our products and services that may be of interest to you. Visitors who do not wish to receive sales alerts and other promotional notifications may take advantage of the opt-out procedures described in detail below. Additionally, should you choose to provide personal information through our online employment application process, the information you provide us will be used in order to make a determination with regard to employment.
 
-The personally identifiable information we collect for the applicants for the Teen Fashion Board will only be used to select the members of the Teen Fashion Board and ensure that only eligible Teen Fashion Board members participate in various Teen Fashion Board events. Information gathered through surveys in which members of the Teen Fashion Board choose to participate, as well as information gathered from the Teen Fashion Board chat room, including transcripts of the chats, will not be shared or reproduced outside of Specialty Retailers, Inc., and will only be used by our marketing and buying departments to make determinations about product marketing and procurement. 
+The personally identifiable information we collect for the applicants for the Teen Fashion Board will only be used to select the members of the Teen Fashion Board and ensure that only eligible Teen Fashion Board members participate in various Teen Fashion Board events. Information gathered through surveys in which members of the Teen Fashion Board choose to participate, as well as information gathered from the Teen Fashion Board chat room, including transcripts of the chats, will not be shared or reproduced outside of Specialty Retailers, Inc., and will only be used by our marketing and buying departments to make determinations about product marketing and procurement.
 
 ## How We Share Information We Collect
 
@@ -63,6 +64,10 @@ We are sensitive to the need to protect the privacy of children who use the Inte
 
 We understand that visitors to our Site are concerned about the security of the information they provide over the Internet. We therefore use industry-standard technologies, including Secure Sockets Layering (SSL), to protect the information that you provide through our Site. SSL is a security protocol that encrypts information entered on our Site before it is sent over the Internet. When we collect personal information in connection with the sale of Stage Gift Cards, we redirect visitors to a secure server where the information will be stored. We also employ security measures to protect your information offline, including the use of password-protected databases to store email addresses and other personal information you provide. If you choose to use the Credit Card portion of the Site to either apply online or access your credit account, you will enter a web site operated by WFNNB. For information regarding the security of the WFNNB web site, please review the WFNNB Customer Privacy Statement.
 
+## Right to Verify the Accuracy of Information We Collect
+
+Keeping information accurate and up to date is important to us. An individual may see and correct their personal information that that we collect. Contact us at the address provided below if you wish to verify your personal information.
+
 ## Links to Other Web Sites
 
 The Site contains links to other web sites, including to WFNNB, which issues and processes credit cards for our family of stores. Please note that Specialty Retailers, Inc. is not responsible for the content or the privacy practices of such other web sites. We recommend that our visitors read the privacy policies of every such web site that they visit which collects personally identifiable information. This Privacy Policy applies only to Specialty Retailers, Inc. and the information collected on the Site.
@@ -76,4 +81,6 @@ Specialty Retailers, Inc. reserves the right, at its discretion, to change or mo
 Comments and inquiries regarding this Privacy Policy should be sent by email to:  
 [Customercomments@stagestores.com](mailto:Customercomments@stagestores.com)
 
-Copyright © 2006-2009 Specialty Retailers, Inc. ALL RIGHTS RESERVED.
+Copyright © 2006-2010 Specialty Retailers, Inc. ALL RIGHTS RESERVED.
+
+Back to Top
