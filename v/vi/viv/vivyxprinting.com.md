@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivyxprinting.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207050545id_/http%3A//www.vivyxprinting.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivyxprinting.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514192931id_/http%3A//www.vivyxprinting.com/policies.asp) for the most accurate reproduction.*
 
 # Poster Printing and Large Format Prints Cheap!
 
@@ -8,7 +8,9 @@ Order at VivyxPrinting.com with confidence! We guarantee a high quality print. I
 
 ### Fast Turnaround
 
-Vivyx Printing will print and ship expedited orders within 1 business day and Ground orders within 2 - 4 business days. For most orders, that means you will receive your print in 5 - 9 business days of when your order was placed. With expedited shipping, your order will arrive in 1-2 business days! 
+Vivyx Printing ships orders as quickly as possible. Standard Processing orders ship no later than 5 business days from the day after your order was placed. That means you will receive your print in 6-10 business days of when your order was placed. Standard USPS Priority Mail is the default shipping option at checkout. This service may take up to 10 days to deliver. 
+
+**Standard Processing time is up to 5 business days following the day when the order is placed. For faster processing, select Expedited Processing during checkout.** Expedited Processing ensures your order will ship by the end of the next business day. 
 
 ### Pre-Ship Visual Inspection
 
@@ -20,7 +22,7 @@ During the photo upload and configuration process, you may be alerted that your 
 
 ### How to Request a Reprint or Refund
 
-If your print quality is not satisfactory, or is defective, you may request a reprint or refund by [contacting us](https://web.archive.org/web/20101207050545id_/http%3A//www.vivyxprinting.com/%3C%=RootURL%%3E/contact.asp). 
+If your print quality is not satisfactory, or is defective, you may request a reprint or refund by [contacting us](https://web.archive.org/web/20110514192931id_/http%3A//www.vivyxprinting.com/%3C%=RootURL%%3E/contact.asp) or calling Customer Service between 10am-6pm MST (Monday-Friday.) 
 
 ## Privacy Policy
 
@@ -36,7 +38,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ### How You Can Access Or Correct Your Information:
 
-You can access all your personally identifiable information that we collect online and maintain by logging into [your assigned account](https://web.archive.org/web/20101207050545id_/http%3A//www.vivyxprinting.com/%3C%=RootURL%%3E/account.asp) using the password provided. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by logging into [your assigned account](https://web.archive.org/web/20110514192931id_/http%3A//www.vivyxprinting.com/%3C%=RootURL%%3E/account.asp) using the password provided. We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
