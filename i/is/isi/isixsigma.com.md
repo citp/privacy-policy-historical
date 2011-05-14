@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124103443id_/http%3A//isixsigma.com/index.php%3Foption%3Dcom_k2%26view%3Ditem%26id%3D1453%26Itemid%3D49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isixsigma.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514121327id_/http%3A//www.isixsigma.com/index.php%3Foption%3Dcom_k2%26view%3Ditem%26id%3D1453%26Itemid%3D49) for the most accurate reproduction.*
 
 # iSixSigma.com Privacy Policy
 
