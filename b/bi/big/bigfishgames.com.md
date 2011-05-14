@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206155334id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfishgames.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514035944id_/http%3A//www.bigfishgames.com/company/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Big Fish Games, Inc.
 
-Last modified: April 13, 2010
+Last modified: February 3, 2011
 
 We at Big Fish Games, Inc. ("Big Fish Games") have created this Privacy Policy to demonstrate our commitment to your privacy. The following discloses our information gathering and dissemination practices. **By accessing and/or using any Big Fish Games Web site, product or service (a "Big Fish Games Offering"), you are accepting the practices described in this Privacy Policy.**
 
@@ -27,7 +27,7 @@ Any information you provide to us, and any information you choose to share about
 
 ### Cookies:
 
-Cookies are small data files that are stored on your computer by Web sites. Through your Web browser, cookies are only used by the Web site that wrote the cookie. Data stored in a cookie from Big Fish Games is only accessible by the Big Fish Games Offerings. Personal information stored in our cookies is encrypted and limited to your e-mail address and username.
+Cookies are alphanumeric identifiers that we and our service providers may transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as storage of items in your shopping cart between visits and personalized Big Fish Games advertisements on other Web sites.
 
 ### Other Information Collected:
 
@@ -53,7 +53,7 @@ Subject to the terms of this Privacy Policy, we may use your contact information
 
 If our "Tell a friend" feature is available within a particular Big Fish Games Offering and you choose to participate in it, your e-mail and IP addresses will be shared with the person to whom you send a game to using this feature. We may also use an IP address to exercise our ability to restrict access to the site by users who have violated our Terms of Service.
 
-We use cookies to enhance your online experience. The information in cookies enables us to run our affiliate programs, enables you to automatically sign in when you access a Big Fish Games Offering, and offers other operational site activities.
+We use cookies to enhance your online experience. The information in cookies enables us to run our affiliate programs and provide you with personalized Big Fish Games advertisements on other Web sites; enables you to automatically sign in when you access a Big Fish Games Offering; and offers other operational site activities.
 
 We may use other identifying information collected to calculate aggregate statistics about our user community or for security purposes.
 
@@ -67,7 +67,7 @@ We share customer information only as described below, and with subsidiaries of 
 
 ### Third Party Service Providers:
 
-We will not share your information with any third parties, except that we may disclose your personal information to third parties who perform services for us, such as credit card processing, prize fulfillment, delivering packages, sending postal mail, analyzing data and marketing assistance. Those third parties have access to your information only as necessary to perform their functions, and for no other purposes.
+We will not share your information with any third parties, except that we may disclose your personal information to third parties who perform services for us, such as credit card processing, prize fulfillment, delivering packages, sending postal mail, analyzing data, providing search results and links (including paid listings and links), and providing marketing assistance, including serving ads on our behalf on third party Web sites. Those third parties have access to your information only as necessary to perform their functions, and for no other purposes.
 
 ### Business Transfers:
 
@@ -81,7 +81,7 @@ We may also disclose your information if there is a violation of the Terms of Us
 
 Apart from what is described above, you will receive notice when information about you might otherwise go to third parties, and you will have an opportunity to choose not to share that information.
 
-## E-MAIL
+## YOUR CHOICES
 
 ### Opt-Out:
 
@@ -90,6 +90,14 @@ With the exception of our Social Games, when you create a customer account with 
 ### Opt-In:
 
 If you access a Social Game, you will have the option to receive one or more of our Social Games e-newsletters. If you elect to receive any of such newsletters, you may at any time opt-out of receiving them by selecting the "unsubscribe" link at the bottom of the newsletter.
+
+### Cookies:
+
+The Help portion of the toolbar on most Web browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, and how to entirely disable cookies. In addition, if any of our third party service providers that present you with personalized Big Fish Games advertisements on other Web sites is a member of the Network Advertising Initiative, you may opt out of such third party's ad-serving cookies through this link: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). However, because cookies allow you to take advantage of some of Big Fish Games Offerings' essential features, we recommend that you leave cookies turned on. For example, you may not be able make purchases on Big Fish Games Offerings without having cookies turned on.
+
+### Contact Us:
+
+To review, modify or remove the information you have provided to us, or to contact us with any questions or complaints, please e-mail us at [privacy@bigfishgames.com](mailto:privacy@bigfishgames.com) or write to us at: Big Fish Games Privacy Policy Department, 333 Elliott Avenue West, Suite 200, Seattle, WA 98119 USA.
 
 ## LINKS TO THIRD-PARTY SITES
 
@@ -108,10 +116,6 @@ Big Fish Games respects the privacy of parents and children and is committed to 
 ## SAFE HARBOR PROGRAM
 
 Big Fish Games participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). To contact Big Fish Games directly about the Safe Harbor program, please e-mail us at [safeharbor@bigfishgames.com](mailto:safeharbor@bigfishgames.com).
-
-## CONTACT US
-
-To review, modify or remove the information you have provided to us, or to contact us with any questions or complaints, please e-mail us at [privacy@bigfishgames.com](mailto:privacy@bigfishgames.com) or write to us at: Big Fish Games Privacy Policy Department, 333 Elliott Avenue West, Suite 200, Seattle, WA 98119 USA.
 
 ## AGREEMENT WITH BIG FISH GAMES POLICIES
 
