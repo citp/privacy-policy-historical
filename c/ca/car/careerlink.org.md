@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerlink.org privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226153634id_/http%3A//careerlink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerlink.org privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514044713id_/http%3A//careerlink.com/privacy) for the most accurate reproduction.*
 
 # Careerlink.com | Privacy Policy
 
@@ -20,7 +20,7 @@ AIM allows you to post your resume in our database. This feature allows you to m
 
 ## Online Applications Hosted by AIM
 
-Information you submit in response to a specific job posting may be retained in our files. We use logins and passwords to protect the online application information retained within our systems. The information may also be provided in computer readable form directly to the respective employer for retention within system(s) that are solely under the control of that employer. We believe the employers represented on this site consider any resumes they receive to be proprietary, valuable and worthy of appropriate protection, however, we cannot control how the application information provided to employers is used, stored, protected or distributed. 
+Information you submit in response to a specific job posting is considered "personal information" and will be retained in our database. We use logins and passwords to protect this information. The information may also be provided in computer readable form directly to the respective employer for retention within system(s) that are solely under the control of that employer. We believe the employers represented on this site consider any resumes they receive to be valuable and worthy of appropriate protection; however, we cannot control how the application information provided to employers is used, stored, protected or distributed. 
 
 ## Online Applications Not Hosted by AIM
 
