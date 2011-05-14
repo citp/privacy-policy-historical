@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zx-10r.net privacy policy that was archived on 2010-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100628050548id_/http%3A//www.verticalscope.com/aboutus/forum-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zx-10r.net privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514051516id_/http%3A//www.verticalscope.com/aboutus/forum-privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
