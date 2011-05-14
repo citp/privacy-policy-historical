@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nea.org privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709205349id_/http%3A//www.nea.org/home/829.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nea.org privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514145942id_/http%3A//www.nea.org/home/829.htm) for the most accurate reproduction.*
 
 # NEA - Privacy Statement
 
@@ -60,7 +60,7 @@ Additionally, we may share any of the personal information that we collect about
 
 ### VI. Available Choices
 
-Any personal information that you provide to us is voluntary. NEA members may update their personal information at any time. For information on how to contact us, please visit the NEA website at: [www.nea.org/aboutnea/contact.html](http://www.nea.org/aboutnea/contact.html).
+Any personal information that you provide to us is voluntary. NEA members may update their personal information at any time. For information on how to contact us, please visit the NEA website at: <http://www.nea.org/home/827.htm>.
 
 If you subscribe to any NEA-produced electronic newsletter, you may cancel your subscription at any time by following the instructions at the bottom of all such newsletters. If you have any problems canceling such a subscription, please contact us at [www-registration@list.nea.org](mailto:www-registration@list.nea.org).
 
