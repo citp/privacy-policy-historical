@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dreamfactory.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214204551id_/http%3A//dreamfactory.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamfactory.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514111102id_/http%3A//dreamfactory.com/privacy) for the most accurate reproduction.*
 
-# DreamFactory Privacy Policy | DreamFactory
+# Privacy Policy | DreamFactory
 
 The following discloses our information gathering and dissemination practices for our web site at [www.dreamfactory.com](http://www.dreamfactory.com/ "www.dreamfactory.com").
 
