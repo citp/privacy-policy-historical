@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icould.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112011125id_/http%3A//icould.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icould.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514023258id_/http%3A//icould.com/privacy-policy) for the most accurate reproduction.*
 
-# icould
+# icould.com’s Privacy Policy
 
 This privacy policy applies only to this website and does not include any third party websites linked to icould. Users should carefully examine the privacy statements of sites appearing on or linking to or from icould. Personal information that you choose to provide to other sites will be subject to the privacy policies of that website.
 
