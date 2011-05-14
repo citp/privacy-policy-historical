@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the thefoat.com privacy policy that was archived on 2010-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100208024928id_/http%3A//www.thefoat.com/fa/company-privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thefoat.com privacy policy that was archived on 2011-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110514041520id_/http%3A//www.thefoat.com/fa/company-privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>TheFOAT: Auto Classifieds, Motor Social Network, Photos, Videos</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<meta property="og:site_name" content="The FOAT">	<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 	<meta name="title" content="TheFOAT: Auto Classifieds, Motor Social Network, Photos, Videos">
 	<meta name="keywords" content="free classifieds, auto parts, truck parts, racing parts, motorcycle parts, airplane parts, boat parts, pwc parts, atv parts, ev parts, offroad parts, drag racing parts, videos, blogs, photos, pictures, rides, motor social network, racing social network, car social network, truck social network,  airplane social network, boat social network, pwc social network, atv social network, motorcycle social network, alternative fuel social network, electric vehicle social network, offroad social network, drag racing social network">
 	<meta name="description" content="The first Motor Social Commerce site: complete motor community built upon user generated classifieds, videos, pictures, ads, personal pages, and discussion. Is your ride the F.O.A.T.?">
@@ -15,20 +15,40 @@
 	<meta name="verify-v1" content="8cBJBiGZ8Xnb6jaxtQY235XyEfN6WFxiwInjdvADm0w=">
 	<link rel="SHORTCUT ICON" href="/favicon.ico"> 
 	<base href="http://www.thefoat.com/">
-	
-	<script language="javascript" type="text/javascript" src="/scripts.php//build/utilities/utilities.js, /build/json/json-min.js, /build/container/container-min.js, /build-plugins/dispatcher-min.js, /build/menu/menu-min.js, /build/button/button-min.js, /build/element/element-min.js, /build/slider/slider-min.js, /build/colorpicker/colorpicker-min.js, /lib_ajax.js, /lib_mm_javascript.js, /CalendarPopup.js, /javascript_lay1.js, /swfobject.js, /build/event-mouseenter/event-mouseenter-min.js, /build/tabview/tabview-min.js, /lib_flv_player.js"></script> 	<script src="/lib_crew_status_js.php" type="text/javascript"></script>
+		<script language="javascript" type="text/javascript" src="/lib_js_combined_min_20110215075100.js"></script>
+	<link href="messages/messages.css" rel="stylesheet">
+	<script src="/lib_crew_status_js.php" type="text/javascript"></script>
 	<link rel="stylesheet" type="text/css" href="/build/assets/skins/sam/skin.css">
 	<link rel="stylesheet" type="text/css" href="/build/slider/assets/skins/sam/slider.css">
 	<link rel="stylesheet" type="text/css" href="/build/colorpicker/assets/skins/sam/colorpicker.css">
+	
+	
+	
+	<script type="text/javascript">
+	function checkOdometer() {
+		if(!YAHOO.lang.isValue(YAHOO.odometer.objOdo)){
+			YAHOO.odometer.objOdo = new YAHOO.odometer.SGOdometer();		
+		}			
+		YAHOO.odometer.objOdo.newer_polling_secs = 60;
+		YAHOO.odometer.objOdo.update_num(254916);
+		YAHOO.odometer.objOdo.polling_secs = 60;
+		YAHOO.odometer.objOdo.start_polling();
+
+	}
+	YAHOO.util.Event.onContentReady("odo-container", checkOdometer);
+	</script>
 	<link rel="stylesheet" type="text/css" href="/styles_lay1.php">
-		<link rel="stylesheet" type="text/css" href="/styles_side_bars.php">
-	<link rel="SHORTCUT ICON" href="/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="/styles_side_bars.php">
+		
+	
 		<script language="javascript" src="http://www.thefoat.com/flv/wasp.js"></script>
-	<script language="javascript">Dom = YAHOO.util.Dom;</script>
+	<script language="javascript">Y = YAHOO; Dom = YAHOO.util.Dom;</script>
 	
 		
 </head>
 <body class="yui-skin-sam">
+<a href="http://www.thefoat.com/fa/support-start_ticket/type_id-1" id="feedback-tab" title="Click here to leave feedback about TheFOAT.com">Open Feedback Page</a>
+<div id="background">
 <div id="topUserBar">
 	<div id="topUserBarContainer" style="height:150px;">
 		<div id="topBannerAnchor"></div>
@@ -40,7 +60,7 @@
 				<input type="submit" value="" id="bannerSearchSubmit">
 				</form>
 				<div id="bannerSearchSelect">
-					<div><a href="Javascript:chooseSearchChosen('rides');">Rides</a></div>
+										<div><a href="Javascript:chooseSearchChosen('rides');">Rides</a></div>
 					<div><a href="Javascript:chooseSearchChosen('videos');">Videos</a></div>
 					<div><a href="Javascript:chooseSearchChosen('blogs');">Blogs</a></div>
 					<div><a href="Javascript:chooseSearchChosen('groups');">Groups</a></div>
@@ -49,15 +69,13 @@
 				</div>
 				<div id="bannerSearchSelectCurrent" onclick="chooseSearch()">
 					Rides				</div>
+				
 			
 			
-						<form id="fTopLogin" action="/?sg=main.login" method="post" style="margin:0;">
-						<div id="topUserBarEmail"><input type="text" name="u_email" id="top-u-email" value=""></div>
-						<div id="topUserBarPassword"><input type="password" name="u_password" id="top-u-password" value=""></div>
-						<button id="btnTopUserBarLogin" onclick="getID('fTopLogin').submit()"></button>
-						</form>
-						<button id="btnTopUserBarRegister" onclick="document.location.href='https://www.thefoat.com/fa/user-signup'"></button>
-						
+					<a href="/login"><img src="/images/lay1/btnTopUserBarSignIn.png" alt="Login" style="height:30px;left:755px;position:absolute;top:0;width:100px;"></a>
+					<a href="http://www.thefoat.com/fa/user-signup"><img src="/images/lay1/btnTopUserBarRegister.png" alt="Sign Up" style="height:30px;left:860px;position:absolute;top:0;width:100px;"></a>
+					<!--<button id="btnTopUserBarLogin" onclick="window.location.href='/login'"></button>
+					<button id="btnTopUserBarRegister" onclick="document.location.href='http://www.thefoat.com/fa/user-signup'"></button>-->
 		</div>
 		<div class="clear"></div>
 	</div>
@@ -66,10 +84,20 @@
 <div id="outside">
 <div id="inside">
 <div id="header">
+	
+		<div class="sidebarad-right"><div class="center middle"> <a href="http://www.americanmuscle.com" target="_blank"><img alt="" src="/banners/sidebarad_american_muscle.jpg" style="border:0;width:131px;height:68px;"></a><div class="clear"></div></div><div class="center middle"> <a href="http://www.thefoat.com/banner_link.php?link_id=i3XgjelpgTSeeP3BS8vGxA%3D%3D" target="_blank"><img alt="" src="/banners/banner_1277938041a41cf0a0542.jpg" style="border:0;width:131px;height:68px;"></a><div class="clear"></div></div>
+		</div>
+			<a href="?sg=main.home"><img id="headerLogo" src="/images/spacer.gif" alt="Back to TheFOAT Home Page"></a>
+	<img id="headerLogoWords" src="/images/spacer.gif" alt="THE FOAT: THE Fastest Of All Time">
+	
+		<div class="odo-2" id="headerOdometer"><div class="odo-1" id="odo-container"><img id="odo8" src="/images/lay1/odo_.gif"><img id="odo7" src="/images/lay1/odo_.gif"><img id="odo6" src="/images/lay1/odo_.gif"><img id="odo5" src="/images/lay1/odo_.gif"><img id="odo4" src="/images/lay1/odo_.gif"><img id="odo3" src="/images/lay1/odo_.gif"><img id="odo2" src="/images/lay1/odo_.gif"><img id="odo1" src="/images/lay1/odo_.gif"><img id="odo0" src="/images/lay1/odo_.gif"></div></div>
+		<div id="headerOdometerText">Crew Connections <em>AND GROWING!</em></div>
+	<div style="float:left; width:300px; height:30px;"></div>
 	<div class="navBar">		
 		<ul>
 						<li><a href="http://www.thefoat.com/?sg=main.home">HOME</a></li>
-						<li><a href="http://www.thefoat.com/fa/featured_forums">FEATURED</a></li>
+						<li><a href="http://forums.thefoat.com/">FORUMS</a></li>
+			<li><a href="http://www.thefoat.com/fa/featured_race_tracks">FEATURED</a></li>
 			<li><a href="http://www.thefoat.com/fa/mm">CLASSIFIEDS</a></li>
 			<li><a href="http://www.thefoat.com/fa/rides">RIDES</a></li>
 			<li><a href="http://www.thefoat.com/fa/videos">VIDEOS</a></li>
@@ -77,11 +105,13 @@
 			<li><a href="http://www.thefoat.com/fa/blogs">BLOGS</a></li>
 			<li><a href="http://www.thefoat.com/fa/groups">GROUPS</a></li>
 			<li><a href="http://www.thefoat.com/fa/events">EVENTS</a></li>
-			<li><a href="http://www.thefoat.com/fa/foat_series">FOAT SERIES</a></li>
-			<li><a href="http://www.thefoat.com/fa/foat_store">FOAT STORE</a></li>
-					</ul>
+			<li><a href="http://www.thefoat.com/fa/foat_series">THE FOAT</a></li>
+			<li><a href="http://www.thefoat.com/fa/foat_store">GEAR</a></li>
+			<li><a href="http://tickets.thefoat.com/">TICKETS</a></li>
+			<!--<li ><a href="http://www.thefoat.com/fa/contests">CONTESTS</a></li>-->
+								</ul>
 	</div>
-	<a href="http://www.thefoat.com/?sg=main.home"><img id="headerLogo" src="/images/spacer.gif" alt="Back to TheFOAT Home Page"></a></div>
+</div>
 
 <div class="subNavBar">
 
@@ -90,14 +120,14 @@
 		<a href="/fa/company-about_us"><div>ABOUT US</div></a><a href="/fa/company-secure_ordering"><div>SECURE ORDERING</div></a><a href="/fa/company-terms_of_service"><div>TERMS OF SERVICE</div></a><a href="/fa/company-privacy_policy"><div class="active">PRIVACY POLICY</div></a><a href="/fa/company-fraud"><div>FRAUD PROTECTION</div></a><a href="/fa/company-contact_us"><div>CONTACT US</div></a>
 	</div>
 	</div>
-<div id="section-sponsor"></div>
+<a href="/fa/user-signup"><img src="/images/lay1/show_tell_buy_sell_bar.jpg" alt="Sign Up Today!"></a><div id="section-sponsor"></div>
 <div id="main">
 	<div style="padding:10px;" class="readable">
 <div id="container">
 	<h3>Privacy Policy</h3>
 	
 	
-		Our site uses forms in which you give us contact information (your name, address, daytime telephone number, and email address) so you can place orders, request information and support, and make product suggestions. We will then create an account number for you and if you choose to order from us using a credit card, we will collect your credit card number and expiration date. If you contact us for support, we will keep an internal record of what support was given. We use your customer information only when it will be important for us to contact you regarding functionality changes to our services, our web site, and special offers you may find valuable. If you would rather not receive this information, please click on the "Settings and Options" section on how to change your preferences.<br>
+		Our site uses forms in which you give us contact information (your name, address, daytime telephone number, and email address) so you can place orders, request information and support, and make product suggestions. We will then create an account number for you and if you choose to order from us using a credit card, we will collect your credit card number and expiration date. If you contact us for support, we will keep an internal record of what support was given. We use your customer information only when it will be important for us to contact you regarding functionality changes to our services, our web site, and special offers you may find valuable. If you would rather not receive this information, please click on the "Home/Control Panel" section on how to change your preferences.You agree by registering that all current and future free  website features  of The FOAT are opt-in (this does not include contests). You have the right to opt-out by taking action from your home/control panel and willingly opting-out of current and future free website features.<br>
 		On rare occasions, one of our partners may require us to share your personal information with them. We will only do so with your explicit permission first. <br>
 		We use information gathered about you from our site statistics (for example your IP address) to help diagnose problems with our server, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system. <br>
 		Our site uses cookies to keep track of your shopping cart and receipts. We use <a href="https://www.thefoat.com/fa/company-secure_ordering">cookies</a> to identify you so you don't have to login each time you visit our site. They are linked to your customer number that is associated with the information in your account. <br>
@@ -108,8 +138,8 @@
 	</p><h4>Updating Your Information </h4>
 		As a customer of The FOAT, you may alter your customer information or opt-out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your customer information. <p></p>
 		<ol start="1" type="1">
-			<li>You may send an email to <a href="mailto:info@thefoat.com">info@thefoat.com</a></li>
-			<li>You may visit your online      account and click Setting &amp; Options.</li>
+			<li>You may send an email to <a href="mailto:notify@thefoat.com">notify@thefoat.com</a></li>
+			<li>You may visit your online account and click Email Notifications in the Edit Profile block.</li>
 		</ol>
 	<p>
 	</p><h4>Sending Emails </h4>
@@ -127,64 +157,86 @@
 	<p>
 	</p><h4>What Happens to my Personal Information if I Terminate my Account?</h4>
 		When your account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant The FOAT databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to resolve disputes or enforce our agreements.<p></p>
-</div></div>	
-	<div class="clear"></div>	
-	
-	<div class="spacerTop20 center">
-		<h1 class="center">&nbsp;</h1>
-		<script type="text/javascript"><!--
-google_ad_client = "pub-2288791182823381";
-/* 728x90, created 10/6/09 */
-google_ad_slot = "7484368321";
-google_ad_width = 728;
-google_ad_height = 90;
-var gaJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
-document.write(unescape("%3Cscript src='" + gaJsHost + "pagead2.googlesyndication.com/pagead/show_ads.js' type='text/javascript'%3E%3C/script%3E"));
-//--></script><script src="https://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript"></script>
-	</div>
+		
+		
+		
+		
 	<p>
-</p></div>
+	</p><h4>The FOAT Ticket Service</h4>
+		Ticket purchases through The FOAT Ticket Service are secured and protected by Godaddy and Authorize Net. We do not share your credit card information with the event organizers.  We only share your contact information (not credit card information) with the event organizer when you purchase a ticket or tickets to their event. You agree The FOAT shall not be responsible or liable for any loss or damage of any sort incurred as the result of the dissemination of your contact information to event organizer. 
 
+</div></div>	
+	<div class="clear"></div>
+		<div class="spacerTop20 center middle" style="width:748px;">
+		<h1 class="center">&nbsp;</h1>
+		
+			</div>
+	
+		
+	
+	<div class="clear"></div>
+	<div id="bottomnav-inner">
+	<table>
+		<tbody><tr>
+			<td style="padding-left:40px;">COMPANY INFO
+				<a href="http://www.thefoat.com/fa/main-help"><div class="spacerTop10">Help</div></a>
+				<a href="http://www.thefoat.com/fa/company-about_us"><div>About Us</div></a>
+				<a href="http://www.thefoat.com/fa/company-terms_of_service"><div>Terms of Service</div></a>
+				<a href="http://www.thefoat.com/fa/company-privacy_policy"><div>Privacy Policy</div></a>
+				<a href="http://www.thefoat.com/fa/company-spam_policy"><div>Spam Policy</div></a>
+				<a href="http://www.thefoat.com/fa/company-secure_ordering"><div>Secure Ordering</div></a>
+				<a href="http://www.thefoat.com/fa/company-fraud"><div>Fraud Protection</div></a>
+				<a href="http://www.thefoat.com/fa/company-link_to_us"><div class="noborder">Link to Us</div></a>
+			</td>
+						<td class="inner">CLASSIFIEDS
+				<a href="http://www.thefoat.com/fa/mm-about"><div class="spacerTop10">About Classifieds</div></a>
+				<a href="http://www.thefoat.com/fa/mm_s"><div>Sell</div></a>
+				<a href="http://www.thefoat.com/fa/mm_v-search"><div>Vehicles</div></a>
+				<a href="http://www.thefoat.com/fa/mm_p-search"><div>Parts &amp; Accessories</div></a>
+				<a href="http://www.thefoat.com/fa/jobs"><div class="noborder">Jobs</div></a>
+			</td>
+						<td class="inner">OTHER SECTIONS
+				<a href="http://tickets.thefoat.com/"><div>Event Tickets</div></a>
+				<a href="http://www.thefoat.com/fa/featured_race_tracks"><div>Featured Race Tracks</div></a>
+				<a href="http://www.thefoat.com/fa/featured_racing_series"><div>Featured Racing Series</div></a>
+				<a href="http://www.thefoat.com/fa/featured_forums"><div>Featured Forums</div></a>
+				<a href="http://www.thefoat.com/fa/foat_series"><div>TheFOAT Series</div></a>
+				<a href="http://www.thefoat.com/fa/foat_store"><div>TheFOAT Gear</div></a>
+				<a href="http://www.thefoat.com/fa/contests"><div class="noborder">Contests</div></a>
+			</td>
+						<td class="inner">ADVERTISE
+				<a href="http://www.thefoat.com/fa/company-business_tools"><div class="spacerTop10">Business Tools</div></a>
+				<a href="http://www.thefoat.com/fa/sticker_clicks-about"><div>Sticker Clicks</div></a>
+				<a href="http://www.thefoat.com/fa/user_banners"><div>Ad Network</div></a>
+				<a href="http://www.thefoat.com/fa/mm-about"><div>Classifieds</div></a>
+				<a href="http://www.thefoat.com/fa/mm_f_s"><div class="noborder">FOAT Store</div></a>			</td>
+			<td class="inner" style="padding-right:0;">CONTACT US
+				<a href="http://www.thefoat.com/fa/support-start_ticket/type_id-3"><div class="spacerTop10">Advertise</div></a>
+				<a href="http://www.thefoat.com/fa/support-start_ticket/type_id-8"><div>Content Providers</div></a>
+				<a href="http://www.thefoat.com/fa/support-start_ticket/type_id-1"><div>Suggestions</div></a>
+				<a href="http://www.thefoat.com/fa/support-start_ticket/type_id-5"><div>Technical Support</div></a>
+				<a href="http://www.thefoat.com/fa/support-start_ticket/type_id-6"><div>Report A Bug</div></a>
+				<a href="http://www.thefoat.com/fa/support-start_ticket/type_id-4"><div>Billing</div></a>
+				<a href="http://www.thefoat.com/fa/support-start_ticket/type_id-2"><div>General</div></a>
+				<a href="javascript:void(0);" title="Report as Inappropriate" onclick="YAHOO.reportPageContainer.reportPageDialog.show()"><div class="noborder">Report This Page</div></a>			</td>
+			<td></td>
+		</tr>
+	</tbody></table>
+	
+	</div>
+	
+	<div class="copyright">Copyright 2006-2011 TheFOAT.com</div>
+</div>
+
+	<div class="clear"></div>
 </div><!--#inside-->
 </div>
 <!--#outside-->
 
+
 <div class="clear"></div>
 <div id="bottomnav">
-	<table>
-		<tbody><tr>
-			<td>COMPANY INFO
-				<div><a href="http://www.thefoat.com/fa/company-about_us">About Us</a></div>
-				<div><a href="http://www.thefoat.com/fa/company-terms_of_service">Terms of Service</a></div>
-				<div><a href="http://www.thefoat.com/fa/company-privacy_policy">Privacy Policy</a></div>
-				<div><a href="http://www.thefoat.com/fa/company-spam_policy">Spam Policy</a></div>
-				<div><a href="http://www.thefoat.com/fa/company-secure_ordering">Secure Ordering</a></div>
-				<div><a href="http://www.thefoat.com/fa/company-fraud">Fraud Protection</a></div>
-				<div><a href="http://www.thefoat.com/fa/company-link_to_us">Link to Us</a></div>			</td>
-						<td>CLASSIFIEDS
-				<div><a href="http://www.thefoat.com/fa/mm-about">About Classifieds</a></div>
-				<div><a href="http://www.thefoat.com/fa/mm_s">Sell</a></div>
-				<div><a href="http://www.thefoat.com/fa/mm_v-search">Vehicles</a></div>
-				<div><a href="http://www.thefoat.com/fa/mm_p-search">Parts &amp; Accessories</a></div>
-				<div><a href="http://www.thefoat.com/fa/jobs">Jobs</a></div>			</td>
-			<td>ADVERTISE
-				<div><a href="http://www.thefoat.com/fa/company-business_tools">Business Tools</a></div>
-				<div><a href="http://www.thefoat.com/fa/sticker_clicks-about">Sticker Clicks</a></div>
-				<div><a href="http://www.thefoat.com/fa/user_banners">Ad Network</a></div>
-				<div><a href="http://www.thefoat.com/fa/mm-about">Classifieds</a></div>
-				<div><a href="http://www.thefoat.com/fa/mm_f_s">FOAT Store</a></div>			</td>
-			<td>CONTACT US
-				<div><a href="http://www.thefoat.com/fa/support-start_ticket/type_id-3">Advertise</a></div>
-				<div><a href="http://www.thefoat.com/fa/support-start_ticket/type_id-8">Content Providers</a></div>
-				<div><a href="http://www.thefoat.com/fa/support-start_ticket/type_id-1">Suggestions</a></div>
-				<div><a href="http://www.thefoat.com/fa/support-start_ticket/type_id-5">Technical Support</a></div>
-				<div><a href="http://www.thefoat.com/fa/support-start_ticket/type_id-6">Report A Bug</a></div>
-				<div><a href="http://www.thefoat.com/fa/support-start_ticket/type_id-4">Billing</a></div>
-				<div><a href="http://www.thefoat.com/fa/support-start_ticket/type_id-2">General</a></div>
-				<div><a href="javascript:void(0);" title="Report as Inappropriate" onclick="YAHOO.reportPageContainer.reportPageDialog.show()">Report This Page</a></div>			</td>
-			<td></td>
-		</tr>
-	</tbody></table>
+	
 	<div id="reportPageContainer" style="color:#333;"></div></div>
 <!--#bottomnav-->
 
@@ -196,17 +248,29 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">try { var pageTracker = _gat._getTracker("UA-253063-2"); pageTracker._trackPageview(); } catch(err) {}</script>
 
 
-<div style="position:relative;width:750px;" class="center middle white" id="topBannerAdContainer"><div class="ad-container"> <a href="http://www.thefoat.com/banner_link.php?link_id=xhJR3t6d4S3ys9Bd71ZcRw%3D%3D" target="_blank"><img alt="" src="/banners/banner_123311262786e5b0fca.jpg" style="border:0;width:728px;height:90px;"></a><div class="center"><a class="ad-banner-subtext" href="/fa/user_banners-about">Advertise Here</a></div><div class="clear"></div></div></div>	
+<div style="position:relative;width:750px;" class="center middle white" id="topBannerAdContainer"><div class="ad-container"> <a href="http://www.thefoat.com/banner_link.php?link_id=vNOL4SLSsFXXoatMu0921g%3D%3D" target="_blank"><img alt="" src="/banners/banner_12409825967439c5e2b.gif" style="border:0;width:728px;height:90px;"></a><div class="center"><a class="ad-banner-subtext" href="/fa/user_banners-about">Advertise Here</a></div><div class="clear"></div></div></div>	
 <script language="javascript">
 function move_ads_top(){
 	var adsEl = Dom.get('topBannerAdContainer');
 	Dom.insertAfter(adsEl, Dom.get('topBannerAnchor'));
 }
-YAHOO.util.Event.onContentReady("topBannerAdContainer", move_ads_top);
+YAHOO.util.Event.onAvailable("topBannerAdContainer", move_ads_top);
+
+YAHOO.namespace("tooltip");
+
+YAHOO.tooltip.logoWordsToolTip = new YAHOO.widget.Tooltip("logoWordsToolTip", { 
+    context: "headerLogoWords", 
+    text: "<div class=\"interior\">THE FOAT: THE Fastest Of All Time</div>"
+});
+
 </script>
 
 
 
 
+<div class="clear"></div>
+</div><!--#background-->
+<!-- start Vibrant Media IntelliTXT script section -->
+<!-- end Vibrant Media IntelliTXT script section -->
 
 </body></html>
