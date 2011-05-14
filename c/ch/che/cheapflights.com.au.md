@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.com.au privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210192707id_/http%3A//www.cheapflights.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.com.au privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514135747id_/http%3A//www.cheapflights.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
