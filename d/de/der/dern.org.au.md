@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dern.org.au privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215234217id_/http%3A//dern.org.au/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dern.org.au privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514055215id_/http%3A//dern.org.au/about/privacy-statement) for the most accurate reproduction.*
 
 # Digital Education Research Network (DERN)
 
