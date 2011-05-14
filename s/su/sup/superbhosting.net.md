@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbhosting.net privacy policy that was archived on 2010-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100830190409id_/http%3A//www.superb.net/about/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbhosting.net privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514203213id_/http%3A//www.superb.net/about/legal/privacy.php) for the most accurate reproduction.*
 
 # Managed Hosting | Dedicated Servers | Web Hosting - SUPERB INTERNET: Privacy Policy
 
