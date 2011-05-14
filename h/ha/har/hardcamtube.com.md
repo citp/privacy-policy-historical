@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hardcamtube.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212235625id_/http%3A//www.hardcamtube.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardcamtube.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514224550id_/http%3A//www.hardcamtube.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Live Sex Web Cam Video Chat
 
