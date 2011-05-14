@@ -1,61 +1,100 @@
-> *The following text is extracted and transformed from the kidica.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620130510id_/http%3A//www.kidica.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidica.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514220726id_/http%3A//www.tsavo.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Tsavo Privacy Policy
 
-  
+BY ACCESSING THIS WEBSITE OR ANY OTHER SITE OPERATED BY Tsavo Media Canada INC., INCLUDING ALL OF ITS DIVISIONS, SUBSIDIARIES AND RELATED COMPANIES (COLLECTIVELY, THE “Tsavo SITES”), YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, WHETHER YOU ARE A "VISITOR" (WHICH MEANS THAT YOU SIMPLY BROWSE THE Tsavo SITES) OR YOU ARE A "MEMBER" (WHICH MEANS THAT YOU HAVE REGISTERED WITH ANY OF THE Tsavo SITES). THE TERM “USER” REFERS TO A VISITOR OR A MEMBER. “YOU” REFERS TO YOU AS A VISITOR OR A MEMBER.
 
+This policy describes the information collection, use, and dissemination practices of Tsavo, its subsidiaries and affiliates, (collectively referred herein as “the COMPANY”) and applies to the COMPANY’s collection, use, storage and disclosure of information by the COMPANY on its Tsavo Sites.
 
-## Privacy & Security
+IF YOU REGISTER AS A MEMBER AND ACCEPT ALL THE TERMS, SELECT THE "ACCEPT" BUTTON. IF YOU ARE NOT WILLING TO BE BOUND BY THESE TERMS, SELECT THE "DO NOT ACCEPT" BUTTON AND THE REGISTRATION PROCESS WILL NOT CONTINUE. IF YOU SELECT THE "DO NOT ACCEPT" BUTTON OR YOU ARE OTHERWISE UNWILLING TO BE BOUND BY THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY, YOU ARE NOT AUTHORIZED TO REGISTER. THIS PRIVACY POLICY IS INCORPORATED INTO AND IS SUBJECT TO THE Tsavo. [TERMS OF USE](https://web.archive.org/terms-of-use.html). BEFORE YOU SELECT THE “ACCEPT” BUTTON, YOU SHOULD PRINT OFF OR SAVE A LOCAL COPY OF THE AGREEMENT FOR YOUR RECORDS. IF YOU DO NOT WISH TO REGISTER BUT WOULD LIKE TO BROWSE OUR WEBSITE AS A VISITOR YOUR CONTINUED USE OF THE SERVICE WILL BE DEEMED ACCEPTANCE OF THESE TERMS. IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT PROVIDE ANY INFORMATION OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEBSITES REFERRED TO IN THIS PRIVACY POLICY.
 
-Kidica respects the privacy of our customers and is serious about protecting your online privacy. This policy will explain how we gather and use personal information submitted. Therefore, by applying and using this site, you are agreeing and accepting this policy. If you do not agree to the terms of this policy, in whole or in part, you should not use this site, and should immediately terminate your registration (if you have previously signed up) by clicking on our ‘opt-out’ link.
+The COMPANY may change any term of this Privacy Policy at any time and for any reason after providing notice to you, including by posting notice of the change to the Tsavo Site or by sending you an email of the change to the Privacy Policy. If any changes to this Privacy are unacceptable to you, you must discontinue using the Tsavo Site. Notice of the changes to you coupled with your continuing use of the Tsavo Site will be evidence of your assent to the new terms of the Privacy Policy. The COMPANY is not responsible for the information collection or privacy practices of its Clients or other Third Party websites or applications. This Privacy Policy applies exclusively to information practices related to our websites. Although this website contains links to other websites, please be aware that we are not responsible for the privacy practices of those, or any other sites. If you follow a link to another website you should carefully read their privacy policy.
 
-### Information Collected:
+### 
+* Personal Information Collected on this Website.
 
-Kidica only collects information that is volunteered during the application process or in any responses to specific information requests. We do need this information in order to provide services that you request. Examples of the information collected includes: information knowingly provided by you through on-line forms, surveys, email addresses, personal financial or demographic information, telephone numbers and addresses. We may also collect your IP address and information through the use of electronic 'cookies'. However, we limit the use and collection of information about our customers to that extent which is necessary to administer our business. 
+  * a. **Visitors.** No personally-identifiable information is collected on Tsavo Sites from Visitors that browse the Tsavo Sites for information.
 
-### How We Use That Information:
-
-Kidica reserves the right to use this information provided by you for: 
-
-  1. the specific purpose for which such information was provided (including matching applicants with advertisers on our site;
-  2. personal, demographic and profile data to improve our site;
-  3. marketing and promotional purposes;
-  4. as disclosed at the time such information is provided; and/or as disclosed in this Policy.
+  * b. **Members.** Personally-identifiable information collected on a Tsavo Site is gathered on our "register here" pages. These fields include name, address, phone number, email address, gender, age and other information necessary for the system to provide you with the information responsive to your request. The personal information a Member submits to the Tsavo Site remains property of the Member, but by submitting that information to the Tsavo Site, you, as a Member, grant the COMPANY, the right to use that information for the purposes disclosed below.
 
 
 
-Although, it is important to note that Kidica reserves the right to change or modify this policy at any time with or without notice. If you have any questions regarding the use of your information or about this policy, please feel free to contact us at [contact us](mailto:info@kidica.com?subject=Policy%20inquiry%20on%20Kidica).
 
-Kidica may also share your information with its affiliates, partners' advertisers, service providers, and any other entities that we believe are able to provide you with special opportunities and offers. Kidica may in the future use your information for additional purposes not currently included in this policy.
+### 
+* No Information Collected from Children.
 
-Kidica may occasionally license, share, or otherwise disclose data we collected to third parties. Kidica does not have control over such party's information handling practices and is not responsible for any failure of such party to adhere to this Policy. As a condition of application, you must agree that we are allowed to share your information with such entities, or else you may not apply. If you have already registered, you must immediately terminate your account, by clicking on the ‘opt-out’ link and follow further instructions.
+Tsavo Sites are general audience websites and is intended to be used by adults. The COMPANY does not knowingly solicit, collect, or attract personal information from or about children. Tsavo Sites are not intended for children and the COMPANY does not want to collect any personally identifiable information from Users who are under the age of 13. The safety of children is very important to the COMPANY, and the COMPANY strongly recommends that parents review this Privacy Policy and understand its terms and conditions, so that Tsavo Sites are used only by persons age 13 and over.
 
-### Application Compliance / Do Not Call Registry Compliance:
+### 
+* How We May Use Your Personal Information.
 
-By submitting your personal information on our site, you are hereby granting written permission to us, our affiliated sites, sponsors, etc. for contact via telephone, mail, and/or e-mail. You are also consenting to receive phone calls from Kidica, our affiliates, and our partners for contact via telephone, and thereby, you waive your right to file a claim with the FTC or any other agency in regards to these contacts or calls.
+The COMPANY may use a Member’s personal information to provide the requested services, including services that display customized content and advertising. We may disclose, transfer, sell or lease a Member’s personal information to third party businesses and to other entities affiliated with the COMPANY. In addition, we may join together with other businesses to bring opportunities to our Members. This means we may use personal information to provide promotional offers to Members by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses (collectively, “Promotions”). Third party businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation. We may also use such information for content improvement and feedback purposes. The COMPANY may also use personal information for auditing, research and analysis to operate and improve our technologies and services. We may also disclose personal information to the extent necessary if the COMPANY is sold or acquired or otherwise deemed necessary or appropriate.
 
-### Third Party Offers:
+### 
+* Legal Proceedings.
 
-By registering at Kidica, you may receive follow-up contacts/offers from third party companies. We cannot be responsible for the services or representations of third party advertisers.
+The COMPANY may disclose a Member’s personally identifiable information pursuant to a subpoena or other judicial or administrative order, where required by law, or, at our sole discretion, where we deem necessary to protect the safety of any individual or the public or to prevent the violation of the rights of the COMPANY or any third party.
 
-We use third-party advertising companies to serve ads when you visit our website and sites upon which we advertise. These third-party advertising technologies use information about your visits to this website and the sites upon which we advertise, to serve our ads to you. In the course of our advertisements being served to you, these companies may place or recognize their own unique third-party cookies on your browser. In addition, we may use Web beacons, provided by some of our third-party advertising companies, to help manage our online advertising. These Web beacons allow us to recognize a browser's cookie when a browser visits this site and to learn which banner ads bring users to our website. To learn more about our third-party ad-serving companies, cookies, and how to “opt-out” please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
+### 
+* Email and Unsubscribe Policy.
 
-### Other Sites Advertised:
+As explained above, the COMPANY uses a Member’s personal information to Promotions by email to individuals and companies including clients of the COMPANY. The COMPANY may maintain separate email lists for different purposes. If you wish to discontinue receiving email messages from the COMPANY.
 
-Kidica may contain links to other sites. We are not responsible for the privacy practices or the content of such websites.
+The COMPANY's unsubscribe process impacts only the future delivery of electronic mailings disseminated by the COMPANY on its own behalf. A Member should also note that unsubscribing from the COMPANY’s electronic mailings will not automatically unsubscribe the Member’s information from any third parties businesses. Since third party businesses maintain separate databases from the COMPANY, a Member will need to unsubscribe from each source individually, if desired.
 
-### Your Opt-Out Rights:
+### 
+* Wireless Addresses.
 
-You may opt-out of receiving communications from us, our affiliates, and/or third parties by not submitting your information. We also allow you to remove your information from our database by responding to any of our email communications with "remove" in the subject line. If you remove your information from our database, it will no longer be used by us for secondary purposes or disclosed to third parties. Kidica takes your privacy seriously and we do not tolerate spam.
+If the e-mail address Member provides to the COMPANY is a wireless e-mail address, Member agrees to receive messages at such address from the COMPANY or its business associates (unless and until Member elects not to receive such messages by following the instructions in the unsubscribe portion of this policy). Member understands that a Member’s wireless carrier's standard rates apply to these messages. 
 
-### Transfer, Sale, or Assign: 
+### 
+* Security.
 
-At its sole discretion, Kidica may transfer, sell, and/or assign information collected on and through this site, including but not limited to, the users personal information collected, to one or more third parties, as a result of the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation of Kidica.
+The COMPANY uses industry standard security measures to protect the loss, misuse and alteration of the information under our reasonable control Although we make good faith efforts to store the information collected on Tsavo Sites in a secure operating environment that is not available to the public, we cannot guarantee complete security. Further, while we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
 
-### Change in Policy:
+### 
+* Financial Information.
 
-We reserve the right to change this policy at any time. Depending on the nature of the change, we may notify you of the existence and location of the new or revised policy through email or by posting the changes online at our site.
+We may in certain cases collect credit card numbers, bank account numbers and other related information, such as the expiration date of the credit card ("Financial Information"). This Financial Information is submitted to us, and such Financial Information is encrypted and is protected with SSL encryption software. We will use the Financial Information for purposes of processing and completing the purchase transaction, and the Financial Information will be disclosed to third parties only as necessary to complete the purchase transaction. This information will not be sold or distributed to third parties in any way.
 
-### Effective September 25, 2007.
+### 
+* Anonymous Information Collected on this Website.
 
-Additionally, Kidica may disclose your information if required to do so by law or in the good faith belief that such action is necessary to: (a) comply with the applicable laws; (b) protect and defend the rights and/or property of Kidica and its family of websites; and (c) comply with the valid legal process.
+We record anonymous data such as traffic logs, number of visits or clicks on a given page, pages viewed or links to our site. We use IP addresses and cookies for gathering website statistics. We also store IP addresses on our server in the event that a Tsavo Site should become corrupted and it becomes necessary to discover the cause of this corruption.
+
+We aggregate this anonymous data as part of managing, maintaining and reporting on use of our Tsavo Sites. We may share this anonymous data with third parties for the limited purpose of reporting on use of a Tsavo Site, or to comply with applicable law. We do not rent, sell or share any anonymous data collected on this website with third parties for marketing purposes. None of this anonymous data is linked to personally-identifiable information and we make no attempt to link IP addresses to the individuals who visit this site.
+
+### 
+* Cookies, Web Beacons, and Other Info Collected Using Technology.
+
+We currently use cookie and web beacon technology to associate certain Internet-related information about an individual with information about the individual in our database.
+
+### 
+* Third Party Advertising
+
+We use third party advertising companies to serve ads when you visit our Tsavo Site and sites upon which we advertise. These third party advertising companies use information about your visits to our Tsavo Sites and the sites upon which we advertise, to serve COMPANY ads to you. In the course of our advertisements being served to you, these companies may place or recognize their own unique third-party cookies on your browser. In addition, we may use Web beacons, provided by some of our third-party advertising companies, to help manage our online advertising. These Web beacons allow us to recognize a browser's cookie when a browser visits this site and to learn which banner ads bring users to our website.
+
+  * a. **Cookies.** Cookies are small chunks of data created by a web server, delivered through a web browser, and stored on your computer. They provide a means for websites that you visit to keep track of your online patterns and preferences, as well as identify you as a return visitor. Cookies make the personalization of your web experiences possible, so that you do not need to re-enter your information from scratch upon each visit to a given website. [Individuals who use the Tsavo Site need to accept cookies in order to use all of the features and functionality of the site.
+
+  * b. **Web Beacons.** A web beacon is programming code that can be used to display an image on a web page, but can also be used to transfer an individual's unique user identification (often in the form of a cookie) to a database and associate the individual with previously acquired information about an individual in a database. This allows us to track certain websites an individual visits online. Web beacons are used to determine products or services an individual may be interested in, and to track online behavioral habits for marketing purposes.
+
+  * c. **Usage Tracking and Log Files.** The COMPANY tracks information related to the electronic mailings and web pages viewed by members, as well as the hyperlinks clicked by members, while viewing our emails or visiting our websites. Log files are used to track and monitor member usage. 
+
+  * d. **IP Address.** We collect your IP (Internet Protocol) address to help diagnose problems with our server, and to administer this Tsavo Site. An IP address is a number that is assigned to your computer when you use the Internet. Your IP address is also used to help identify you during a particular session and to gather broad demographic data
+
+
+
+
+### 
+* Links to External Websites.
+
+Our emails and websites may contain links to external websites not owned or operated by the COMPANY (“Linked Sites”). You will be taken to external websites if you click on these links. Your information may be passed from the COMPANY’s database to the external website, and/or external database, for your convenience (e.g. your information may be used to pre-fill a form at a destination website). You acknowledge and agree that we are not responsible for the privacy practices of such Linked Sites, and this Privacy Policy does not apply to such Linked Sites. Consequently, the operators of Linked Sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Tsavo Site. We encourage you to review the privacy policies on the Linked Sites. THE COMPANY DISCLAIMS ALL RESPONSIBILITY OR LIABILITY FOR THE ACTIONS OF, PRIVACY PRACTICES OF, OR INFORMATION CONTAINED ON OR COLLECTED VIA LINKED SITES.
+
+### 
+* CALIFORNIA RESIDENTS PRIVACY RIGHTS.
+
+Companies that collect personally identifiable information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with Third Parties. We have elected the second option and you may request that your personal information by following the mechanisms laid out in section 5 of this Privacy Policy.
+
+In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. 
+
+For more information about protecting your privacy, you may wish to visit: [www.ftc.gov](http://www.ftc.gov/). If you have any questions about this Privacy Policy, please contact us at [info@tsavo.com](http://www.emailsystemsdirect.com/?host=www.tsavo.com&cssfile=/inc/contact.css).
