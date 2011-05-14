@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hollywire.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123064931id_/http%3A//www.hollywire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywire.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514155600id_/http%3A//www.hollywire.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | HOLLYWIRE
+# Privacy Policy | Hollywire.com
 
 **Hollywire.com** is committed to protecting your privacy. We do not sell, trade or rent your personal information to other companies. **Hollywire** will not collect any personal information about you except when you specifically and knowingly provide such information. By using our Web site, you consent to the collection and use of this information by **Hollywire.com**. 
 
@@ -10,18 +10,14 @@ We share non-personal information about your activity at our Web site with **Six
 
 To get in touch with **Hollywire** , please email us at: [info@hollywire.com](mailto:info@hollywire.com)
 
-#### Getting To Know 'DWTS' Dancer Derek Hough - Exclusive Interview! 
-
-[Derek Hough, known best for his mesmerizing & crea...](https://web.archive.org/2010/11/getting-know-dwts-dancer-derek-hough)
-
-  * Cheesecake Factory @TheGroveLA with my mama, @sarascoggins and some other non-tweeting friends ♥.
-  * Brrrrrrr. . .
-  * Phoenix "Lisztomania" never gets old too me! #nowplaying the Alex Metric Remix. So sentimental...why yes, I am.
-  * My closest girlfriends, laughter, health, my family, LOVE, everyday I wake up above ground, COFFEE, music, my mac book, food #grateful
-  * Seriously??? Hmmm. Have to check that out. Potato extract for weight loss? What do you guys think? http://dlvr.it/90BCf /via @AllDaySlim
-  * I love my VW CC.....Oprah’s Favorite Things 2010 Part 2: Volkswagens, iPads, Diamonds And More http://dlvr.it/907yn /via @shefinds
-  * Listening to Ryan Adams (not Bryan Adams) Everybody Knows this #musicmonday http://bit.ly/i5dXwt key signature reminds me of Free Falling!
-  * @moniquemuro has witnessed first hand, for the past hour and 15 minutes, my Jaclyn of All Trades abilities!
-  * @guykawasaki I thought it was a full moon last night....and a blue moon at that. Yes/no?
+  * You played it to the beat!
+  * So many good times tonight w/ @Yay_its_Jennie @Chelsea_Briggs @lindsayzir + @sarascoggins! Feeling thankful + happy for such fab people :)
+  * Thx wayne! Excited! Let's do it! RT @WayneLAdams: Happy Birthday @Chelsea_Briggs I love & miss ya as always Chel! I'll be in LA in Sep! !
+  * Adding our final touches whilst in @Chelsea_Briggs apt! #Dorks http://lockerz.com/s/101413689
+  * http://lockerz.com/s/101407222 Flowers at my door from @Jneill10 !! Wow, I sure feel like I'm getting spoiled (cont) http://tl.gd/aemsk9
+  * So very excited for SOHO House tonight w/my fav ladies for @yay_its_jennie 's Grad celebration! @lindsayzir @Katie_Krause & @sarascoggins :)
+  * @crystalfambrini thanks so much Crystal! You are the sweetest ever!! Thanks for always being so supportive and positive! Xo
+  * Thanks!!! Xo :) RT @JoslynDavis: @Chelsea_Briggs girl!!! Happpppppy Birthday to you!!!! Oxoxox
+  * Getting all snazzed up for @Yay_its_Jennie's graduation dinner at SoHo house! #CelebrationTime
 
 
