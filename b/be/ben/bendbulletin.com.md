@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213062608id_/http%3A//bendbulletin.com/apps/pbcs.dll/article%3FAID%3D/99999999/ABOUT/50817001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bendbulletin.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514182217id_/http%3A//www.bendbulletin.com/apps/pbcs.dll/article%3FAID%3D/99999999/ABOUT/50817001) for the most accurate reproduction.*
 
 # Privacy and security policy | | The Bulletin
 
@@ -7,7 +7,7 @@
 
 
 
-Published: December 12. 2010 4:00AM PST
+Published: May 14. 2011 4:00AM PST
 
 This policy discloses the privacy and security practices for bendbulletin.com and bendhomes.com, which are subject to change from time to time. Any such changes will be posted on this page and you will be bound to such changes by your continued use of the web site. Bendbulletin.com and bendhomes.com are intended for use by adults. Please see our Children's Privacy Statement below for additional safeguards to protect the privacy of personal information collected from children under 13. If you have any questions about bendbulletin.com's privacy practices, please contact us via e-mail at privacy@bendbulletin.com.
 
@@ -63,5 +63,7 @@ ARTICLE ACCESS: This article is among those available to all readers. Many more 
   * [email](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/ABOUT/50817001&template=emailto)
 
 
+
+[View The Bulletin's commenting policy »](https://web.archive.org/apps/pbcs.dll/article?AID=/99999999/ABOUT/662012948/1044&nav_category=ABOUT)
 
 [comments powered by ](http://disqus.com/)
