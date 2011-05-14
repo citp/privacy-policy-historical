@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewoodwhisperer.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114063359id_/http%3A//thewoodwhisperer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewoodwhisperer.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514173146id_/http%3A//thewoodwhisperer.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Wood Whisperer
 
@@ -22,5 +22,3 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of TheWoodWhisperer.com then you may contact us at marc@thewoodwhisperer.com
-
-[](http://twitter.com/home/?status=Privacy+http%3A%2F%2Fthewoodwhisperer.com%2Fprivacy%2F "Post to Twitter") [](http://digg.com/submit?url=http://thewoodwhisperer.com/privacy/&title=Privacy "Post to Digg") [](http://www.facebook.com/share.php?u=http://thewoodwhisperer.com/privacy/&t=Privacy "Post to Facebook") [](http://stumbleupon.com/submit?url=http://thewoodwhisperer.com/privacy/&title=Privacy "Post to StumbleUpon")
