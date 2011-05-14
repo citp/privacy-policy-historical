@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201040617id_/http%3A//searchengineland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchengineland.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514230620id_/http%3A//searchengineland.com/privacypolicy%3Futm_source%3Dsel%26utm_medium%3Dhome%26utm_campaign%3Dfoot) for the most accurate reproduction.*
 
 # Search Engine Land Privacy Policy
 
