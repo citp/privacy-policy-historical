@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpeoplequilt.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221003559id_/http%3A//www.allpeoplequilt.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpeoplequilt.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514200603id_/http%3A//www.allpeoplequilt.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,13 +83,13 @@ Return to top
 
 ### How to Correct or Update Your Information:
 
-Meredith Corporation believes strongly in providing you with the ability to access and edit the personally identifying information that you have provided to us through our websites. To update this information, please visit our [My Account](https://secure.allpeoplequilt.com/common/myaccount/) area. 
+Meredith Corporation believes strongly in providing you with the ability to access and edit the personally identifying information that you have provided to us through our websites. To update this information, please visit our [My Account](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=APQ) area. 
 
 Return to top 
 
 ### Newsletters and Promotions:
 
-> **Newsletters.** We may offer you the opportunity to subscribe to email newsletters on various topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you can always unsubscribe later either (1) by following the 'unsubscribe' link located near the bottom of each newsletter, or (2) by going to [My Account](https://secure.allpeoplequilt.com/common/myaccount/) , selecting "Unsubscribe" from the Newsletter options, unchecking the relevant boxes and pressing the "Update" button.
+> **Newsletters.** We may offer you the opportunity to subscribe to email newsletters on various topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you can always unsubscribe later either (1) by following the 'unsubscribe' link located near the bottom of each newsletter, or (2) by going to [My Account](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=APQ) , selecting "Unsubscribe" from the Newsletter options, unchecking the relevant boxes and pressing the "Update" button.
 > 
 > **Promotional Emails.** If you provide us with your email address, from time to time we may send you emails about Meredith products, services and special offers (such as special Meredith magazine subscription offers) that we believe may be of interest to you. When you register, you will also be given an opportunity to tell us whether you would like to receive emails about products, services and special offers from third-party providers. Though we hope that you will find both types of promotional emails helpful, if you decide that you no longer wish to receive either or both types of emails, please go to the [Email Preferences](https://secure.allpeoplequilt.com/common/profile/optout) page and update your preferences. Of course, you may change your preferences at any time. We will make any changes you request as quickly as we can.
 
