@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the iscripts.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214201043id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iscripts.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514103950id_/http%3A//www.iscripts.com/privacy.php) for the most accurate reproduction.*
 
 # iScripts.com, paid and free opensource PHP web scripts and software. Create turnkey web business in social networking, virtual mall, online swapping, image hosting, site builder using our web apps
 
-|  |   |  | [](http://www.iscripts.com/support/)  
----|---|---|---  
-  
 We recognize the importance of protecting the privacy of personal information about our customers. Personal information includes all of the personally identifying information that is provided to us. We are sensitive to these privacy interests and believes that protecting valuable personal/financial information is one of our most significant responsibilities. 
 
 The policies outlined below describe our policies to protect your privacy. 
@@ -13,7 +10,7 @@ The policies outlined below describe our policies to protect your privacy.
 We collect, retain and use only the information about our customers that is required by law to administer our business and provide high level services to our clients. We retain this information no longer than necessary to meet these objectives. All transmitted credit card information is handled securely through digitally encrypted Secure Socket Layers (SSL) technology. 
 
 **:: Spam Policy**  
-Spam is flooding the Internet with many copies of the same message, in an attempt to force the m/*essage on people who would not otherwise choose to receive it. Email spam targets individual users with direct mail messages and costs the sender very little to send. Most of the costs are paid for by the recipient or the carriers rather than by the sender. 
+Spam is flooding the Internet with many copies of the same message, in an attempt to force the message on people who would not otherwise choose to receive it. Email spam targets individual users with direct mail messages and costs the sender very little to send. Most of the costs are paid for by the recipient or the carriers rather than by the sender. 
 
 We don't condone the use of spam and the sending of unsolicited email in any form, nor do we control other web sites involvement and/or practices in this area.
 
@@ -72,22 +69,10 @@ By using our site, you consent to our privacy policy.
 If we decide to change our privacy policy, we will post those changes on this page.
 
 **::Contacting Us**  
-If there are any questions regarding this privacy policy you may contact us using the information below.   
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
 www.iScripts.com  
-84 Whitman Dr  
+1325 Remington Rd, Suite R,  
 Schaumburg, IL 60173  
 support@iscripts.com  
-(312)423-6728
-
-| 
-
-|   
----  
-  
-[ ](https://secure.trust-guard.com/certificates/www.iscripts.com)  
-  
-|  |  |    
----|---|---  
-  
-[FAQ](http://www.iscripts.com/faq.php) |  [News Letter](http://www.iscripts.com/newsletter.php) |  [Forum](http://www.iscripts.com/forum/index.php) |  [Terms](http://www.iscripts.com/terms.php) |  Privacy  |  [Disclaimer](http://www.iscripts.com/disclaimer.php) |  [Legal Notice](http://www.iscripts.com/legalnotice.php) |  [Site Map](http://www.iscripts.com/sitemap.php)  
----|---|---|---|---|---|---|---
+(312) 423-6728
