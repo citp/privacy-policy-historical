@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vivantabytaj.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226041901id_/http%3A//www.tajhotels.com/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivantabytaj.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514223501id_/http%3A//www.tajhotels.com/privacy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Policy - Taj Hotels Resorts and Palaces
 
