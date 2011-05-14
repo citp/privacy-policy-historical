@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thefoat.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208024928id_/http%3A//www.thefoat.com/fa/company-privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoat.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514041520id_/http%3A//www.thefoat.com/fa/company-privacy_policy) for the most accurate reproduction.*
 
 # TheFOAT: Auto Classifieds, Motor Social Network, Photos, Videos
 
 ### Privacy Policy
 
-Our site uses forms in which you give us contact information (your name, address, daytime telephone number, and email address) so you can place orders, request information and support, and make product suggestions. We will then create an account number for you and if you choose to order from us using a credit card, we will collect your credit card number and expiration date. If you contact us for support, we will keep an internal record of what support was given. We use your customer information only when it will be important for us to contact you regarding functionality changes to our services, our web site, and special offers you may find valuable. If you would rather not receive this information, please click on the "Settings and Options" section on how to change your preferences.  
+Our site uses forms in which you give us contact information (your name, address, daytime telephone number, and email address) so you can place orders, request information and support, and make product suggestions. We will then create an account number for you and if you choose to order from us using a credit card, we will collect your credit card number and expiration date. If you contact us for support, we will keep an internal record of what support was given. We use your customer information only when it will be important for us to contact you regarding functionality changes to our services, our web site, and special offers you may find valuable. If you would rather not receive this information, please click on the "Home/Control Panel" section on how to change your preferences.You agree by registering that all current and future free website features of The FOAT are opt-in (this does not include contests). You have the right to opt-out by taking action from your home/control panel and willingly opting-out of current and future free website features.  
 On rare occasions, one of our partners may require us to share your personal information with them. We will only do so with your explicit permission first.   
 We use information gathered about you from our site statistics (for example your IP address) to help diagnose problems with our server, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.   
 Our site uses cookies to keep track of your shopping cart and receipts. We use [cookies](https://www.thefoat.com/fa/company-secure_ordering) to identify you so you don't have to login each time you visit our site. They are linked to your customer number that is associated with the information in your account.   
@@ -15,8 +15,8 @@ As stated previously in this policy, we will not share your personal information
 
 As a customer of The FOAT, you may alter your customer information or opt-out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your customer information. 
 
-  1. You may send an email to [info@thefoat.com](mailto:info@thefoat.com)
-  2. You may visit your online account and click Setting & Options.
+  1. You may send an email to [notify@thefoat.com](mailto:notify@thefoat.com)
+  2. You may visit your online account and click Email Notifications in the Edit Profile block.
 
 
 
@@ -40,3 +40,9 @@ From time-to-time our site requests information from users via surveys or contes
 #### What Happens to my Personal Information if I Terminate my Account?
 
 When your account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant The FOAT databases. However, you should know that deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to resolve disputes or enforce our agreements.
+
+#### The FOAT Ticket Service
+
+Ticket purchases through The FOAT Ticket Service are secured and protected by Godaddy and Authorize Net. We do not share your credit card information with the event organizers. We only share your contact information (not credit card information) with the event organizer when you purchase a ticket or tickets to their event. You agree The FOAT shall not be responsible or liable for any loss or damage of any sort incurred as the result of the dissemination of your contact information to event organizer. 
+
+Copyright 2006-2011 TheFOAT.com
