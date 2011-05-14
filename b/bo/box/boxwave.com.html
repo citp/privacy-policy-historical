@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the boxwave.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228150118id_/http%3A//www.boxwave.com/contactus/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boxwave.com privacy policy that was archived on 2011-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110514131428id_/http%3A//www.boxwave.com/contactus/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -351,7 +351,7 @@ trySearchPost_Small();
 
 $('#searchBoxSmall_Input').keyup(function(e){
    
-this.value = this.value.replace(/[^\w\s\&\!]/g,'');
+this.value = this.value.replace(/[^\w\s\&\!\-]/g,'');
    
 if(e.keyCode != 40 && e.keyCode != 38 && e.keyCode != 13)
 {
@@ -370,7 +370,7 @@ if(OS == "desktop")
 returnVal = 10;
 }
 
-$.post("/includes_bw/search/search_Results.php", {queryString: "" + searchString + "", searchType: "small", returnNumber : returnVal, showImages : "false"}, function(data) { // Do an AJAX call
+$.post("/includes_bw/search/search_results.php", {queryString: "" + searchString + "", searchType: "small", returnNumber : returnVal, showImages : "false"}, function(data) { // Do an AJAX call
 $('.searchBoxSmall_Suggestions').fadeIn(); // Show the suggestions box
 $('.searchBoxSmall_Suggestions').html(data); // Fill the suggestions box
 });
@@ -607,7 +607,7 @@ Questions regarding this privacy statement, or regarding any other aspects of ou
     <tr>
     <td></td>
         <td colspan="2" align="center">
-            <span class="Text_SmallFont_Footer">Copyright</span>&nbsp;<span class="Text_SmallFont_Footer">©</span><span class="Text_SmallFont_Footer">&nbsp;2002-2010 BoxWave Corporation or its affiliates</span>
+            <span class="Text_SmallFont_Footer">Copyright</span>&nbsp;<span class="Text_SmallFont_Footer">©</span><span class="Text_SmallFont_Footer">&nbsp;2002-2011 BoxWave Corporation or its affiliates</span>
             
         </td>
     </tr>
