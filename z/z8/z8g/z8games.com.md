@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the z8games.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223205051id_/http%3A//www.z8games.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the z8games.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515011313id_/http%3A//www.z8games.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Z8Games - Privacy Policy
 
@@ -6,7 +6,7 @@ The following section describes the "Privacy Policy" that governs the player inf
 
 All personal information, which is voluntarily given to "www.z8games.com" or G4BOX Inc. will not be issued, sold or redistributed to a third party in any way. 
 
-Each player's computer establishes an active connection by utilizing a particular IP (Internet Protocol) address. This type of link to the servers may provide us with the following information: what part of the world the connection is linked to and who is the internet service provider of the player. The obtained information is only used for billing purposes by the website ([www.z8games.com](http://www.z8games.com/)).
+Each player's computer establishes an active connection to the website ([www.z8games.com](http://www.z8games.com/)) or its game servers by utilizing a particular IP (Internet Protocol) address. This type of link to the servers may provide us with the following information: what part of the world the connection is linked to, and who is the internet service provider of the account/player. This obtained information will only be used for billing purposes, and may be referenced for account verication by the website (www.z8games.com) unless the IP in question has been found to be acting illegally or maliciously against the website ([www.z8games.com](http://www.z8games.com/)) or its affiliates.
 
 By involving yourself in the game, you acknowledge that you agree to these rules and will abide by them regardless of the circumstances. In addition you also agree that these rules will apply to anyone that you allow to use your Z8Games' account or user ID. By allowing another user to use your account, you are personally responsible for all the consequences (including termination of your account) which may result, if the above discussed person violates any of the above discussed rules at any time.
 
