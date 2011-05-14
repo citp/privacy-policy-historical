@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the short-hair-style.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924025649id_/http%3A//www.short-hair-style.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-hair-style.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514090701id_/http%3A//www.short-hair-style.com/privacy.html) for the most accurate reproduction.*
 
 # Short-Hair-Style.com - Privacy Statement
 
-  | 
-
-**Privacy Statement**
+## Privacy Statement
 
 Short-Hair-Style.com respects your privacy and committed to provide you with a safe online experience. This Online Privacy Statement is made available to you in order to make you aware of how Short-Hair-Style.com collects and uses information of visitors to this website. 
 
@@ -42,22 +40,6 @@ We use third-party advertising companies to serve ads when you visit our website
 
 \- Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
 
-\- Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
-
 ### Childern and Minor
 
 Some of the sections of this website is visited by children under the age of 12 while looking for hairstyles and advice for their look. We are strongly committed to protecting the safety and privacy of those children to this website. All our interactive community system are reviewed before approving any post to this website. We do not allow and remove any language, photos or images unsuitable for young children. 
-
-If you have any questions about this Privacy Statement, please [contact us here](http://www.short-hair-style.com/contact.html). 
-
-  
-| **Share this page:  **  
-
-
-What's This?
-
-| | | |   
----|---|---|---|---  
-| | |   
-  
-Enjoy this page? Please pay it forward. Here's how...
