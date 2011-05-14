@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slowpctips.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113125025id_/http%3A//www.slowpctips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slowpctips.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514182616id_/http%3A//www.slowpctips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
