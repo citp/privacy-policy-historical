@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bill.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221164049id_/http%3A//www.bill.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bill.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514160752id_/http%3A//www.bill.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Bill.com Product Overview
 
