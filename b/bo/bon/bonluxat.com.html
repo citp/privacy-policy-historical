@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the bonluxat.com privacy policy that was archived on 2010-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101207005752id_/http%3A//www.bonluxat.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bonluxat.com privacy policy that was archived on 2011-05-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110514021059id_/http%3A//www.bonluxat.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title></title>
-<link rel="stylesheet" type="text/css" href="http://static1.bonluxant.com/static/css/global.css">
+<link rel="stylesheet" type="text/css" href="http://static1.bonluxat.com/static/css/global.css">
 
 <style type="text/css" media="screen">
 <!--
@@ -92,33 +92,70 @@
 
 
 
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+<!--<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>
 </script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-8145253663555302");
-GS_googleEnableAllServices();
-</script>
+<script type='text/javascript'>
+//GS_googleAddAdSenseService("ca-pub-8145253663555302");
+//GS_googleEnableAllServices();
+</script>-->
 
-<script type="text/javascript">
-</script>
-<script type="text/javascript">
 
-GA_googleAddSlot("ca-pub-8145253663555302", "menu_left_1");
-GA_googleAddSlot("ca-pub-8145253663555302", "menu_left_2");
-GA_googleAddSlot("ca-pub-8145253663555302", "menu_left_3");
+<!--<script type='text/javascript'>
+
+//GA_googleAddSlot("ca-pub-8145253663555302", "menu_left_1");
+//GA_googleAddSlot("ca-pub-8145253663555302", "menu_left_2");
+//GA_googleAddSlot("ca-pub-8145253663555302", "menu_left_3");
 
 	
 
 </script>
 
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
+<script type='text/javascript'>
+//GA_googleFetchAds();
+</script>-->
+
 
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="/static/js/jquery/jquery.cookie.js"></script>
 <script type="text/javascript">
     //<!--
+
+
+var page = '';
+		
+if ('undefined' != typeof document.location && 'undefined' != typeof document.location.pathname)
+{
+			page = document.location.pathname;
+}
+else
+{
+			page = 'undefined';
+}
+
+
+
+
+function animateFbLikeBox(where)
+{
+		$('body').trigger('fbLikeAnimationStart');
+		
+		if (where == 'up')
+		{
+			$('#likeUsBanner').animate({height: 140}, 1000, function(){
+						$('body').trigger('fbLikeAnimationStop');
+						$('body').trigger('fbLikeAnimationUpStop');
+			 });
+		}
+		else
+		{
+			$('#likeUsBanner').animate({height: 40}, 1000, function(){
+						$('body').trigger('fbLikeAnimationStop');
+						$('body').trigger('fbLikeAnimationDownStop');
+			 });		
+		}
+
+}
 
 (function($) {
 
@@ -185,6 +222,7 @@ $(document).ready(function(){
 
 
 
+
    $('#subscribe input[type=text]').click(function(){
    		
 		if (this.value == 'enter your email')
@@ -232,17 +270,7 @@ $(document).ready(function(){
 	});
 
 	$('#followUsTwitter').click(function(){
-		var page = '';
-		
-		if ('undefined' != typeof document.location && 'undefined' != typeof document.location.pathname)
-		{
-			page = document.location.pathname;
-		}
-		else
-		{
-			page = 'undefined';
-		}
-		
+
 		window.open ("http://twitter.com/bonluxat");
 
 		/**
@@ -258,18 +286,7 @@ $(document).ready(function(){
 	
 	$('#followUsFacebook').click(function(){
 		
-		var page = '';
-		
-		if ('undefined' != typeof document.location && 'undefined' != typeof document.location.pathname)
-		{
-			page = document.location.pathname;
-		}
-		else
-		{
-			page = 'undefined';
-		}
-		
-		window.open ("http://www.facebook.com/pages/Bonluxat/242093464831");
+		window.open ("http://www.facebook.com/bonluxat");
 
 		/**
 		 * tracking event
@@ -282,8 +299,24 @@ $(document).ready(function(){
 		return false;
 	});
 	
+	
+		$('#likeUsBanner span a').click(function(){
+		/**
+		 * tracking event
+		 */
+		if ('undefined' != typeof _gat)
+		{
+			pageTracker._trackEvent('Facebook', 'fanPageClick', page);
+		}			
+		
+	});
+	
 
+
+	
 });
+
+
 
     //-->
 </script></head>
@@ -292,7 +325,7 @@ $(document).ready(function(){
 <div id="container">
 	
 	<div id="header">
-		 <a href="http://www.bonluxat.com"><img src="http://static1.bonluxant.com/static/images/logo.jpg"></a>
+		 <a href="http://www.bonluxat.com"><img src="http://static1.bonluxat.com/static/images/logo.jpg"></a>
 		 <div id="googleSearch">		  
 					<form action="http://www.google.com/cse" id="cse-search-box">
 					  <div>
@@ -364,6 +397,51 @@ $(document).ready(function(){
 		 				 
 			</ul>
 			
+		
+			
+			
+			<div id="adSlotsMenuLeft">
+	
+				<div>	 
+						<a href="http://scripts.affiliatefuture.com/AFClick.asp?affiliateID=235709&amp;merchantID=3225&amp;programmeID=8576&amp;mediaID=61617&amp;tracking=&amp;url=">
+									<img style="border: 1px solid #cccccc;" src="http://banners.affiliatefuture.com/3225/61617.gif">
+						</a>				
+					<!-- ca-pub-8145253663555302/menu_left_3 -->
+					<script type="text/javascript">
+					//GA_googleFillSlot("menu_left_3");
+					</script>
+				</div>
+				
+				<div>	 
+					<!-- ca-pub-8145253663555302/menu_left_2 -->
+					
+				<a href="http://www.jdoqocy.com/click-3799661-10536685" border="0" target="_top">
+								<img src="http://www.tqlkg.com/image-3799661-10536685" width="120" height="90" alt="YLiving Free Shipping" border="0">
+				</a>					
+					<script type="text/javascript">
+					//GA_googleFillSlot("menu_left_2");
+					</script>
+				</div>
+				
+				<div>
+				
+					<a href="http://gan.doubleclick.net/gan_click?lid=41000000031922111&amp;pubid=21000000000250359">
+							<img border="0" src="http://gan.doubleclick.net/gan_impression?lid=41000000031124879&amp;pubid=21000000000250359">
+					</a>
+				
+					<!-- ca-pub-8145253663555302/menu_left_1 -->
+					<script type="text/javascript">
+					//GA_googleFillSlot("menu_left_1");
+					</script>
+					
+					
+				</div>
+
+
+				
+				
+			</div>
+			
 			
 			<div id="subscribe">
 				<div id="newsletter">
@@ -377,6 +455,9 @@ $(document).ready(function(){
 			
 				 
 			<div class="followus" id="followUsFacebook">
+				<!--
+					<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://facebook.com/bonluxat" show_faces="false" width="133"></fb:like>
+				-->
 				<span>Become fan on Facebook</span>
 			</div>	 	
 							 
@@ -386,35 +467,8 @@ $(document).ready(function(){
 				
 			<div id="addThis"><a class="addthis_button"></a></div>				 
 			
-			</div>	
-			
-			
-			<div id="adSlotsMenuLeft">
-				<div>
-					<!-- ca-pub-8145253663555302/menu_left_1 -->
-					<script type="text/javascript">
-					GA_googleFillSlot("menu_left_1");
-					</script>
-				</div>
-				<div>	 
-					<!-- ca-pub-8145253663555302/menu_left_2 -->
-					<script type="text/javascript">
-					GA_googleFillSlot("menu_left_2");
-					</script>
-				</div>
-				
-				<div>	 
-					<!-- ca-pub-8145253663555302/menu_left_3 -->
-					<script type="text/javascript">
-					GA_googleFillSlot("menu_left_3");
-					</script>
-				</div>
-				
-				
-			</div>
-			
-			
-				 
+			</div>				
+
 		</div>
 
 		
@@ -520,11 +574,15 @@ $(document).ready(function(){
 	</div>
 	
 	<div id="footer">
-			<a href="http://www.bonluxat.com/privacy.html" rel="nofollow">Privacy Policy</a> | 
-		<a href="http://www.bonluxat.com/">www.bonluxat.com</a>
+				<div>
+					<a href="http://www.bonluxat.com/privacy.html" rel="nofollow">Privacy Policy</a> | 
+			<a href="http://www.bonluxat.com/">www.bonluxat.com</a>
+		</div>
 	</div>
 	
 </div>
+
+
         <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -541,7 +599,8 @@ $(document).ready(function(){
 				pageTracker._clearOrganic();
 				pageTracker._addOrganic("images.google."+ match[1],"q");
 				pageTracker._setReferrerOverride("http://images.google." + match[1] + unescape(match[2]));
-			}            
+			}
+			            
             pageTracker._trackPageview();
         } catch(err) {}
         </script>        
@@ -571,4 +630,85 @@ $(document).ready(function(){
 		<!-- ADDTHIS BUTTON END -->
 
 
+				<div id="likeUsBanner">
+			<div id="likeusBannerContainer">
+						<div class="title">
+							<span><a target="blank" href="http://www.facebook.com/bonluxat">Bonluxat on Facebook</a></span> 
+						</div>
+						 <div class="hide">hide (x)</div>
+						  <div class="iframe">
+						
+							<div id="fb-root"><script type="text/javascript" src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+							
+							<script type="text/javascript">
+							<!--
+							window.fbAsyncInit = function() {
+							 FB.init({appId: '178336785540985', status: true, cookie: true, xfbml: true});
+							 FB.Event.subscribe('edge.create', function(href, widget) {
+							 // Do something, e.g. track the click on the "Like" button here
+							 
+								animateFbLikeBox('up');
+	
+			
+								if ('undefined' != typeof _gat)
+								{
+									pageTracker._trackEvent('Facebook', 'Like', page);
+								}						 
+							 
+							 });
+	
+	
+							 
+							};
+							(function() {
+
+							var init = function(){
+
+								if ($.cookie('likeUsBannerDisplayed') != 'true')
+								{
+									$('#likeUsBanner div.hide').click(function(){
+												$('#likeUsBanner').hide();
+												$.cookie('likeUsBannerDisplayed', 'true', { expires: 365});
+
+												pageTracker._trackEvent('Facebook', 'Hide', page);
+									});								
+
+									$('#likeUsBanner').show();
+								}
+
+							};
+
+							 var e = document.createElement('script');
+							 e.type = 'text/javascript';
+							 e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+							 e.async = true;
+			
+
+							 e.onload = function() { 
+								    if ( ! e.onloadDone ) {
+								        e.onloadDone = true; 
+								        init(); 
+								    }
+								};
+								
+								e.onreadystatechange = function() { 
+								    if ( ( "loaded" === e.readyState || "complete" === e.readyState ) && ! e.onloadDone ) {
+								        e.onloadDone = true; 
+								        init();
+								    }
+								};
+															
+
+							  
+							 document.getElementById('fb-root').appendChild(e);
+							 }());
+							//-->
+							</script>
+							<fb:like href="http://facebook.com/bonluxat" show_faces="false"></fb:like>
+					
+						</div>
+			</div>
+		</div>
+		
+		
 </body></html>
