@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225083642id_/http%3A//www.abrsm.org/help/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abrsm.org privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515144226id_/http%3A//www.abrsm.org/help/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy : ABRSM.org - Help
 
@@ -16,7 +16,7 @@ In general you can visit ABRSM's website without disclosing any personal inform
 
 ### Mailing list opt-in
 
-Users of [www.abrsm.org](https://web.archive.org/) have the option of joining the ABRSM mailing list. In order to join our mailing list, we require the following information from our users:
+Users of [www.abrsm.org](http://www.abrsm.org/) have the option of joining the ABRSM mailing list. In order to join our mailing list, we require the following information from our users:
 
   * Personal profile (i.e. student, teacher, parent or member of the press/media)
   * Full name
@@ -91,7 +91,7 @@ We store information that we collect through cookies and log files. A profile is
 
 A cookie is a piece of data stored on the user’s computer tied to information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies.  For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
 
-Once visitors to [www.abrsm.org](https://web.archive.org/) have selected their country from the drop-down menus provided, cookies are used to display the examination dates and contact details of ABRSM representatives for that country. Our aim is to make the site more easily navigable and applicable to users from different countries. Persistent cookies enable us to track and target the interests of our users, to enhance their experience and to ensure that they do not have to reset their country preferences each time they visit our website. 
+Once visitors to [www.abrsm.org](http://www.abrsm.org/) have selected their country from the drop-down menus provided, cookies are used to display the examination dates and contact details of ABRSM representatives for that country. Our aim is to make the site more easily navigable and applicable to users from different countries. Persistent cookies enable us to track and target the interests of our users, to enhance their experience and to ensure that they do not have to reset their country preferences each time they visit our website. 
 
 If you are concerned about cookies, you can disable them in your browser.  If you do this however, please note that you will have to manually reset your country preferences on each return visit to our website. (See _"Profile"_ above)
 
@@ -160,7 +160,7 @@ When our online examination entry form asks users to enter sensitive information
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. Personal information given by users beyond their name and address is restricted in our offices and made available only to the appropriate departments. All employees are provided with a unique username and password in order to gain access to this information. Finally, the servers that store personally identifiable information are password protected and held in a secure environment, in a locked facility. Regular back ups are made of this data, and these are stored off site.
 
-If you have any questions about the security on the ABRSM website, please send [an email to the ABRSM IT department](https://web.archive.org/web/20101225014644id_/http://www.abrsm.org/\(?page=process/contactform.html&id=4135&contact=dGhlIEFCUlNNIElUIERlcGFydG1lbnQ).
+If you have any questions about the security on the ABRSM website, please send [an email to the ABRSM IT department](http://www.abrsm.org/\(?page=process/contactform.html&id=4135&contact=dGhlIEFCUlNNIElUIERlcGFydG1lbnQ).
 
 ## Correcting/updating/deleting/deactivating personal information
 
