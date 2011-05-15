@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonlinesurveys.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123120829id_/http%3A//freeonlinesurveys.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinesurveys.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515081607id_/http%3A//freeonlinesurveys.com/privacy.asp) for the most accurate reproduction.*
 
 # Free Online Surveys
 
@@ -106,8 +106,6 @@ California Online Privacy Protection Act
 Childrens Online Privacy Protection Act  
 Privacy Alliance  
 Controlling the Assault of Non-Solicited Pornography and Marketing Act
-
-If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
 
 Respectfully, 
 
