@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ezzal.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184307id_/http%3A//www.ezzal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezzal.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515131654id_/http%3A//www.ezzal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ezzal
+# Privacy Policy - Play Free Games At Ezzal - Free Games Online
 
 ### Privacy Policy For www.ezzal.com
 
