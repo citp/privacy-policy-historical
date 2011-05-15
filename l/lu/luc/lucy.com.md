@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucy.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210195959id_/http%3A//www.lucy.com/Privacy%2520Policy/CUSTOMER_SERVICE_PRIVACYPOLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucy.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515035902id_/http%3A//www.lucy.com/Privacy%2520Policy/CUSTOMER_SERVICE_PRIVACYPOLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # lucy activewear | privacy policy
 
