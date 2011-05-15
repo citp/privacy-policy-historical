@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickgamer.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125165844id_/http%3A//clickgamer.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickgamer.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515200529id_/http%3A//www.clickgamer.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Mobile Phone Games, Free Pocket PC Games for your Mobile Phone, PDA and Smartphone
 
