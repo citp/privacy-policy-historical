@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthblurbs.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327094136id_/http%3A//www.healthblurbs.com/healthblurbscom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthblurbs.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515044729id_/http%3A//healthblurbs.com/healthblurbscom-privacy-policy) for the most accurate reproduction.*
 
-# HealthBlurbs.com Privacy Policy » Health Blurbs
+# HealthBlurbs.com Privacy Policy — Health Blurbs
 
 At healthblurbs.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit healthblurbs.com, and how we safeguard your information. We never sell your personal information to third parties.
 
