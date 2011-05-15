@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the meredosto.com privacy policy that was archived on 2010-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220160916id_/http%3A//meredosto.com/pg/expages/read/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the meredosto.com privacy policy that was archived on 2011-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110516005847id_/http%3A//meredosto.com/pg/expages/read/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -10,9 +10,9 @@
 	<script type="text/javascript" src="http://meredosto.com/vendors/jquery/jquery-1.3.2.min.js"></script>
 	<script type="text/javascript" src="http://meredosto.com/vendors/jquery/jquery-ui-1.7.2.custom.min.js"></script>
 	<script type="text/javascript" src="http://meredosto.com/vendors/jquery/jquery.form.js"></script>
-	<script type="text/javascript" src="http://meredosto.com/_css/js.php?lastcache=1292832174&amp;js=initialise_elgg&amp;viewtype=default"></script>
+	<script type="text/javascript" src="http://meredosto.com/_css/js.php?lastcache=1305503936&amp;js=initialise_elgg&amp;viewtype=default"></script>
 	<!-- include the default css file -->
-	<link rel="stylesheet" href="http://meredosto.com/_css/css.css?lastcache=1292832174&amp;viewtype=default" type="text/css">
+	<link rel="stylesheet" href="http://meredosto.com/_css/css.css?lastcache=1305503936&amp;viewtype=default" type="text/css">
 
 	<meta name="keywords" content="meredosto">
 <meta name="keywords" content="videos">
@@ -37,7 +37,17 @@
 		  $('a[rel*=facebox]').facebox()
 		});
 		</script>
-<script type="text/javascript">
+<script language="javascript" type="text/javascript" src="http://meredosto.com/mod/mood/vendors/msdropdown/js/jquery.dd.js"></script>
+<link rel="stylesheet" type="text/css" href="http://meredosto.com/mod/mood/vendors/msdropdown/dd.css">
+
+<script type="text/javascript" src="http://meredosto.com/mod/chat/chat.js"></script>
+	
+
+	<meta name="river_comment_release" content="0.2.5">
+	<meta name="river_comment_version" content="2010071201">	
+
+	<meta name="likes_comment_release" content="0.3.3">
+	<meta name="likes_comment_version" content="2010071201"><script type="text/javascript">
 // slide toggle for mini profile
 $(document).ready(function()
 {
@@ -126,63 +136,6 @@ loadedobjects+=file+" " //Remember this object as being already added to page
 
 </script>
 
-	
-
-	<meta name="river_comment_release" content="0.2.5">
-	<meta name="river_comment_version" content="2010071201">	
-
-	<meta name="likes_comment_release" content="0.3.3">
-	<meta name="likes_comment_version" content="2010071201">
-<script type="text/javascript" src="http://meredosto.com/mod/chat/chat.js"></script>
-
-	<script type="text/javascript">
-	    function simpleusermanagementSearchInvalidUsers() {
-            var criteria = jQuery("#search_criteria").attr("value");
-			var data = "search_criteria=" + criteria + "&__elgg_ts=1292861367&__elgg_token=d4c9994f7b25976fe919725b39e66e14";
-			jQuery.ajax({
-				url: "http://meredosto.com/mod/simpleusermanagement/actions/search_for_disabled_users.php",
-			    type: "POST",
-			    data: data,
-				success: function (data) {
-					jQuery("#simpleusermanagement_disabled_users_content").empty();
-					jQuery("#simpleusermanagement_disabled_users_content").append(data);
-				},
-				error: function() {}
-			});
-		}
-
-	    function simpleusermanagementDisplayPopup(mask_id, id) {
-			var maskHeight = jQuery(document).height();
-			var maskWidth = jQuery(document).width();
-
-			jQuery(mask_id).css({'width':maskWidth,'height':maskHeight});
-
-			jQuery(mask_id).fadeIn(1000);
-			jQuery(mask_id).fadeTo("slow",0.8);
-
-			var windowHeight = jQuery(window).height();
-			var windowWidth = jQuery(window).width();
-
-			jQuery(id).css('top', windowHeight/2-jQuery(id).height()/2);
-			jQuery(id).css('left', windowWidth/2-jQuery(id).width()/2);
-
-			jQuery(id).fadeIn(1000);
-		}
-
-		function simpleusermanagementShowEmailChange(guid, email) {
-			simpleusermanagementDisplayPopup("#simpleusermanagement_email_mask", "#simpleusermanagement_email_form");
-			jQuery("input[name='new_email']").val(email);
-			jQuery("input[name='user_guid']").val(guid);
-		}
-
-		function simpleusermanagementCloseEmailChange() {
-			jQuery("#simpleusermanagement_email_mask").hide();
-			jQuery("#simpleusermanagement_email_form").hide();
-
-			jQuery("input[name='new_email']").val('');
-			jQuery("input[name='user_guid']").val('');
-		}
-    </script>
 <script type="text/javascript">
   var videoplay_page_url = 'http://meredosto.com/pg/videos/playvideo/';
   var video_loading_image = 'http://meredosto.com/mod/izap_videos/_graphics/ajax-loader.gif';
@@ -198,9 +151,7 @@ loadedobjects+=file+" " //Remember this object as being already added to page
     });
 </script>
 <script type="text/javascript" src="http://meredosto.com/mod/izap_videos/views/default/izap_videos/js/default.js"></script>
-<script type="text/javascript" src="http://meredosto.com/mod/izap_videos/views/default/izap_videos/js/jquery.expander.js"></script><script language="javascript" type="text/javascript" src="http://meredosto.com/mod/mood/vendors/msdropdown/js/jquery.dd.js"></script>
-<link rel="stylesheet" type="text/css" href="http://meredosto.com/mod/mood/vendors/msdropdown/dd.css">
- 
+<script type="text/javascript" src="http://meredosto.com/mod/izap_videos/views/default/izap_videos/js/jquery.expander.js"></script> 
     	<script type="text/javascript">
 		jQuery(document).ready(function($) {
 		});
@@ -216,7 +167,7 @@ loadedobjects+=file+" " //Remember this object as being already added to page
 			<form id="loginform_top" action="http://meredosto.com/action/login" method="POST">
 			<a class="loginbox_top_link" href="http://meredosto.com/">Register</a>
 				<a class="loginbox_top_link" href="http://meredosto.com/account/forgotten_password.php">Lost password</a>
-				<input type="hidden" name="__elgg_token" value="d4c9994f7b25976fe919725b39e66e14"><input type="hidden" name="__elgg_ts" value="1292861367">				<small>email/username</small>
+				<input type="hidden" name="__elgg_token" value="52455d679f0c9b53851749696b45bd9d"><input type="hidden" name="__elgg_ts" value="1305507513">				<small>email/username</small>
 				<input type="text" name="username" value="" id="username">
 				<small>Password</small>
 				<input type="password" name="password" value="" id="password"> 
@@ -317,7 +268,7 @@ loadedobjects+=file+" " //Remember this object as being already added to page
 	<div id="login-box">
 	<h2>Log in</h2>
 		<form    action="http://meredosto.com/action/login" method="post" >
-<input type="hidden"  name="__elgg_token"  value="d4c9994f7b25976fe919725b39e66e14" /><input type="hidden"  name="__elgg_ts"  value="1292861367" /><p class="loginbox"><label>Username/Email<br />
+<input type="hidden"  name="__elgg_token"  value="52455d679f0c9b53851749696b45bd9d" /><input type="hidden"  name="__elgg_ts"  value="1305507513" /><p class="loginbox"><label>Username/Email<br />
 <input type="text"   name="username"  value="" class="login-textarea"/></label><br /><label>Password<br />
 <input type="password"   name="password"  value="" class="login-textarea" /></label><br /><input name=""  type="submit" class="submit_button"  value="Log in"  /> <div id="persistent_login"><label><input type="checkbox" name="persistent" value="true" />Remember me</label></div></p><p class="loginbox"><a href="http://meredosto.com/account/register.php">Register</a> | <a href="http://meredosto.com/account/forgotten_password.php">Lost password</a></p></form>	</div> --> 
 	
