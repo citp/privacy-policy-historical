@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228031738id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515090539id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy CardRatings.com Privacy Statement
 
@@ -8,15 +8,15 @@ If you have questions or concerns regarding this privacy policy, please see our 
 
 **Your privacy is our main concern**
 
-U.S. Citizens for Fair Credit Card Terms, Inc., d/b/a CardRatings.com, has created this privacy policy in order to demonstrate our firm commitment to safeguarding the privacy of your personal information. The following discloses how we gather information, how that information is shared, and what practices CardRatings implements to ensure your information is safe and protected. 
+U.S. Citizens for Fair Credit Card Terms, Inc., d/b/a CardRatings.com, has created this privacy policy in order to demonstrate our firm commitment to safeguarding the privacy of your personal information. The following discloses how we gather information, how that information is shared, and what practices CardRatings implements to ensure your information is safe and protected.
 
-CardRatings does not require you to create an account or share any personally identifiable information in order to personally use the website www.CardRatings.com (the "Website"). By visiting, using and/or submitting information to the Website you indicate your agreement with this Privacy Policy and CardRatings' Terms of Use. 
+CardRatings does not require you to create an account or share any personally identifiable information in order to personally use the website www.CardRatings.com (the "Website"). By visiting, using and/or submitting information to the Website you indicate your agreement with this Privacy Policy and CardRatings' Terms of Use.
 
 If you choose to apply for a credit card or other offer from the Website, you are taken directly to the card issuer or other vendor's website, and you will provide your information directly to the other party. This privacy policy does not apply to the practices of such websites or any other companies that CardRatings does not own or control or people who CardRatings does not employ.
 
 **Your California Privacy Rights**
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. 
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information.
 
 If you are a California resident you may request this information from CardRatings or any of its affiliates by writing to us via email at feedback@cardratings.com or you may send us correspondence at the following address: CardRatings.com, Attn: Privacy, 201 W. Broadway, Suite #G12 North Little Rock, AR 72114. CardRatings is not obligated to respond to more than one such request from a customer per calendar year.
 
@@ -50,7 +50,7 @@ See CardRating's Terms of Use for specific terms regarding user-generated conten
 
 **Use of Information**
 
-If you elect to provide us with personal information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from CardRatings and our clients. 
+If you elect to provide us with personal information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from CardRatings and our clients.
 
 The non-personally identifiable information that we collect is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience and to evaluate the effectiveness of Internet properties. The information is also used to predict responses to advertisements, and to help determine which ads perform best, which content is most appropriate for different individuals, how our visitors use our Website, and which pages and features are most popular.
 
@@ -62,7 +62,7 @@ This Website contains links to other sites that are not owned or controlled by C
 
 **Information sharing**
 
-There are instances in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below. 
+There are instances in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below.
 
 _Partners:_
 
@@ -72,14 +72,13 @@ _Service Providers and Agents_ :
 
 We partner with other third parties to provide specific services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 
-Occasionally we hire other companies to provide other services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.   
-
+Occasionally we hire other companies to provide other services on our behalf, such as handling the processing and delivery of mailings, providing customer support, processing transactions, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose.
 
 This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to better understand and optimize the user experience. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
- _Legally required disclosures:_
+_Legally required disclosures:_
 
-CardRatings the right to disclose personally identifiable information as required by law, and when we believe that disclosure is necessary to protect our rights or the safety of users and to comply with judicial proceedings, court order or legal processes served on the Website. 
+CardRatings the right to disclose personally identifiable information as required by law, and when we believe that disclosure is necessary to protect our rights or the safety of users and to comply with judicial proceedings, court order or legal processes served on the Website.
 
 _Business Transactions:_
 
@@ -115,4 +114,4 @@ By using this Website, you consent to the terms of this privacy policy, as it ma
 
 **Contact Info**
 
-If you have any questions or concerns about this privacy policy, please let us know your concerns by contacting us. You should first contact us via email at feedback@cardratings.com or you may send us correspondence at the following address: CardRatings.com, Attn: Privacy, 201 W. Broadway, Suite #G12 North Little Rock, AR 72114. 
+If you have any questions or concerns about this privacy policy, please let us know your concerns by contacting us. You should first contact us via email at feedback@cardratings.com or you may send us correspondence at the following address: CardRatings.com, Attn: Privacy, 201 W. Broadway, Suite #G12 North Little Rock, AR 72114.
