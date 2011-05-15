@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522192457id_/http%3A//www.pendleton-usa.com/jump.jsp%3FitemID%3D206%26itemType%3DCATEGORY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515023248id_/http%3A//www.pendleton-usa.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# Pendleton Woolen Mills
-
-Privacy and Security
+# Pendleton Woolen Mills: Privacy & Security
 
 Whether you're purchasing online or just browsing, your privacy is important to us. Please take the time to review Pendleton's policy for handling your customer information. By visiting the Pendleton website, you are accepting the practices described in this Privacy Policy. Pendleton's Privacy Policy may change from time to time, so please revisit this page and review the Policy regularly. If you have any questions regarding our Privacy Policy, please contact us via e-mail at [pendletoncatalog@penwool.com](mailto:pendletoncatalog@penwool.com?subject=Privacy%20Policy). We appreciate your comments and suggestions. 
 
@@ -47,4 +45,4 @@ Pendleton takes care to protect the security of your personal information, inclu
 
 We use Secure Sockets Layer (SSL) technology to protect the security of your personal on-line order information. To check the security of your connection to our website, look in the lower right-hand corner of your browser window after entering our checkout section. If you see an unbroken key or a closed lock (depending on your browser), then SSL is active. You can also double-check you are in a secure shopping environment by looking at the URL line of your browser. When you are using a secure server, the first characters of the site address will change from "http" to "https." If you cannot access the secure server for any reason, please call and place your order by phone at 1-800-649-1512. 
 
-Effective June __ 2005 
+Effective June __ 2009
