@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyteenpass.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130123625id_/http%3A//teentopanga.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyteenpass.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515172043id_/http%3A//tinyteenpass.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy_nethole
 
