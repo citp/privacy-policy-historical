@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmhaven.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413162733id_/http%3A//www.wmhaven.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmhaven.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515033821id_/http%3A//www.prof-seo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 
 
