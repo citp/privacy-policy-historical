@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the mlmlaunchformula.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126053110id_/http%3A//mlmlaunchformula.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmlaunchformula.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515204742id_/http%3A//mlmlaunchformula.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
-**Privacy Policy**
-
-  
-  
 Welcome to www.mlmlaunchformula.com (the "Site").
 
 We understand that privacy online is important to users of our Site, especially when conducting business.   
@@ -65,10 +61,9 @@ This Site is not directed at children. Visitors and Authorized Customers are req
 **Links:**  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
-Privacy Policy Statement
+Privacy Policy Statement 
 
-  
-This is the web site of Empowered Entrepreneurs.
+This is the web site of Empowered Entrepreneurs. 
 
 Our postal address is   
 1504 US Highway 395 North #8  
@@ -80,7 +75,6 @@ or you can reach us by telephone at 480-626-7056
 For each visitor to our Web page, our Web server automatically recognizes no   
 information regarding the domain or e-mail address.
 
-  
 We collect the domain name and e-mail address (where possible) of visitors to   
 our Web page, name and address, telephone number, payment information (e.g.,   
 credit card number and billing address).
@@ -96,7 +90,6 @@ With respect to cookies: We use cookies to and .
 If you do not want to receive e-mail from us in the future, please let us know   
 by sending us e-mail at the above address.
 
-  
 If you supply us with your postal address on-line you may receive periodic   
 mailings from us with information on new products and services or upcoming   
 events. If you do not wish to receive such mailings, please let us know by   
@@ -106,7 +99,7 @@ calling us at the number provided above.
 
   
 Please provide us with your exact name and address. We will be sure your name is   
-removed from the list we share with other organizations 
+removed from the list we share with other organizations
 
 Persons who supply us with their telephone numbers on-line may receive telephone   
 contact from us with information regarding new products and services or upcoming   
@@ -120,7 +113,6 @@ with any ad server companies.
 Upon request we provide site visitors with access to a description of   
 information that we maintain about them.
 
-  
 Upon request we offer visitors no ability to have factual inaccuracies corrected   
 in information that we maintain about them   
 With respect to security: When we transfer and receive certain types of   
@@ -128,11 +120,8 @@ sensitive information such as financial or health information, we redirect
 visitors to a secure server and will notify visitors through a pop-up screen on   
 our site.
 
-  
 If you feel that this site is not following its stated information policy, you   
-may contact us at the above addresses or phone number.  
-
+may contact us at the above addresses or phone number. 
 
 © 2010 **www.mlmlaunchformula.com** , All rights reserved.  
-Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
-
+Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
