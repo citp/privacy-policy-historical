@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiastudychannel.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215223639id_/http%3A//www.indiastudychannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiastudychannel.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515190145id_/http%3A//indiastudychannel.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # IndiaStudyChannel.com privacy policy
 
