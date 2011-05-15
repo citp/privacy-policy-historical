@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sensis.com.au privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227034349id_/http%3A//www.about.sensis.com.au/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sensis.com.au privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515183206id_/http%3A//www.about.sensis.com.au/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Collection Statement | Sensis
 
-_Updated  January 2010_
+_Updated  January 2011_
 
 Sensis Pty Ltd ("Sensis") is committed to providing you with the highest levels of customer service. This includes protecting your privacy. Sensis is bound by the Privacy Act 1988 (Cth) ("Privacy Act"), which sets out a number of principles concerning the protection of your personal information. 
 
@@ -14,9 +14,7 @@ Sensis, is a wholly owned subsidiary of Telstra Corporation Limited ("Telstra"),
 
 #### Your personal information 
 
-Personal information held by Sensis may include your name, date of birth, current and previous addresses, telephone/mobile/fax phone number, e-mail address, bank account or credit card details, preferences for using our websites, web log, computer and connection information, occupation, driver's licence number and your Sensis password. We also hold details of your Sensis services, including their status, as well as certain details about your personal interests. 
-
-If you choose not to provide us with certain personal information, we may not be able to provide you with the services you require, or the level of service on which we pride ourselves. 
+Personal information held by Sensis may include your name, date of birth, current and previous addresses, telephone/mobile/fax phone number, e-mail address, bank account or credit card details, preferences for using our websites, web log, computer and connection information, occupation, driver's license number and your Sensis password. We also hold details of your Sensis services, including their status, as well as certain details about your personal interests. 
 
 Occasionally, you may need to provide personal information about other individuals to Sensis (eg about your authorised representatives). If so, we rely on you to inform those individuals that you are providing their personal information to Sensis and advise them that we can be contacted for further information (see 'How to contact us' below).
 
@@ -28,7 +26,7 @@ Sensis collects personal information in a number of ways, including:
 
   * directly from you, for example when you provide information by phone, in marketing coupons, competitions or application forms or when you use or submit information to us through our websites (eg by email or cookies);
   * from third parties such as our Related Companies, carriage service providers, credit reporting agencies or your representatives;
-  * from publicly available sources of information;
+  * from publicly available sources of information, including from your public websites and from your listings in other online directories;
   * from the organisations identified below under "When we disclose your personal information";
   * from our own records of how you use our services; or
   * when legally required to do so. 
@@ -82,22 +80,28 @@ In addition, we may disclose your personal information to:
   * Telstra and our Related Companies;
   * our professional advisers, including our accountants, auditors and lawyers;
   * government and regulatory authorities and other organisations, as required or authorised by law;
-  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (eg securitisation); and
+  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (eg securitisation);   
+
+  * our directories and syndication partners; and
   * other telecommunication and information service providers (eg if you obtain services from other providers, we may need to disclose your information for billing purposes). 
 
 
 
 #### Your personal information and our related companies
 
-Sensis is a wholly owned subsidiary of Telstra and also operates a group of subsidiary companies Ltd ("Related Companies").
+Sensis is a wholly owned subsidiary of Telstra and also operates a group of subsidiary companies ("Related Companies").
 
 Sensis may share your personal information with the Related Companies to assist them with their business development and to market their own products and services to you and may continue to do so after your cease acquiring services from us. The Related Companies will use and disclose your personal information in accordance with their privacy policies. If you want to know more about the Related Companies, their areas of business and their commitment to privacy, please contact us. (see 'How to contact us' below). 
+
+#### Use of location information for 1234
+
+When you call the Sensis 1234 service, we may collect information about your present location in order to assist us in providing you with the service (eg so that we can more quickly respond to any request from you to find a business close to your present location). This may include caller ID, mobile originating line information and the location of cell towers in contact with your mobile phone device.
 
 #### Sensis' websites
 
 Sensis provides products and services via our various websites. When you visit our sites, our web servers record anonymous information such as the time, date and URL of the request. This information assists us to improve the structure of our websites and monitor their performance. 
 
-Sensis uses MediaSmart® (a business unit of Sensis) to provide advertisement management and delivery across our websites. MediaSmart uses cookies for profiling purposes to tailor advertising to user's interest.
+Sensis uses Sensis Digital Media™ (a business unit of Sensis) to provide advertisement management and delivery across our websites. Sensis Digital Media™ uses cookies for profiling purposes to tailor advertising to user's interest.
 
 In addition, Sensis uses 'cookies' on various websites. Cookies are an industry standard and most major websites use them. A cookie is a small text file that our websites may place on your computer. Usually, cookies are used as a means for websites to remember your preferences. As such, cookies are designed to improve your experience of the websites you visit. 
 
@@ -105,7 +109,7 @@ In some cases, cookies may collect and store personal information about you. Sen
 
 Sensis also collects Internet Protocol (IP) addresses. IP addresses are assigned to computers on the internet to uniquely identify them within the global network. Sensis collects and manages IP addresses as part of the service of providing internet session management and for security purposes. Sensis also collects and uses web log, computer and connection information for security purposes and to help prevent and detect any misuse of, or fraudulent activities involving the Sensis websites. 
 
-Sensis may use third parties to analyse usage statistics on our websites. Such analysis is performed using data collected from our websites. The technology used by the third parties is not intended to collect personally identifiable information. In some limited circumstances, some personally identifiable information is collected, for example, when an email address is incorporated into a URL string. Personally identifiable informaiton collected in this way is not used by the third party or Sensis for any purpose.
+Sensis may use third parties to analyse usage statistics on our websites. Such analysis is performed using data collected from our websites. The technology used by the third parties is not intended to collect personally identifiable information. In some limited circumstances, some personally identifiable information is collected, for example, when an email address is incorporated into a URL string. Personally identifiable information collected in this way is not used by the third party or Sensis for any purpose.
 
 #### Acts in the course of journalism
 
