@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportchalet.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914173637id_/http%3A//www.sportchalet.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportchalet.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515175633id_/http%3A//www.sportchalet.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Service - Sport Chalet
 
@@ -18,21 +18,25 @@ If you have questions or concerns regarding this statement, you should [contact 
 
 ## Visiting www.sportchalet.com
 
+Your use of www.sportchalet.com and submission of information indicates your consent to the use of personal information described below. 
+
+You must be 13 years old or older to shop on www.sportchalet.com. Accordingly, we do not knowingly collect information from children under the age of 13. If we become aware that we have inadvertently received information from a child under the age of 13, we will delete such information from our records. 
+
 Your IP address, browser and reference site domain name are logged every time you visit our site. This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way.
 
 Subject to the terms and conditions of this Privacy Policy, any communication or material you transmit or post to this Web Site by email or otherwise, including any data, questions, comments, or suggestions (other than personally identifiable information which will be treated in accordance with this privacy policy), is and will be treated as non-confidential and non-proprietary and anything you transmit or post may be used by us and our affiliates for any purpose, including without limitation, reproduction, disclosure, transmission, publication, broadcast, and posting. We are free to use any ideas, concepts, know-how, or techniques contained in any communication or material that you send to this Web Site for any purpose whatsoever including, but not limited to, developing, manufacturing and marketing products using such information. 
 
 ## Using Cookies
 
-"Cookies" are files stored on your computer's hard drive by your browser. These cookies help us identify our account holders and optimize their shopping experience. They do not include any data that will identify you personally. They will, however, allow you to use some specialized www.sportchalet.com features. Cookies also allow us to hold selections in your shopping cart when you leave our site without checking out. Most browsers accept cookies automatically, but allow you to disable them if you wish.
+Sport Chalet, Inc. does not require that you accept cookies; however, some functionality on www.sportchalet.com may be disabled if you decline to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. "Cookies" are files stored on your computer's hard drive by your browser. These cookies help us identify our account holders and optimize their shopping experience. They do not include any data that will identify you personally. They will, however, allow you to use some specialized www.sportchalet.com features. Cookies also allow us to hold selections in your shopping cart when you leave our site without checking out. Most browsers accept cookies automatically, but allow you to disable them if you wish.
 
 ## External Links/Framed Webpages
 
-Our store locator functionality links to a third party web site. Any data provided through this functionality is not governed by this privacy policy. The privacy policy of the third party web site governs the information collection and dissemination practices occurring on such web site. If you have accessed this Web Site through a link from certain of our advertising and marketing partners our Site may include a frame of the applicable advertising and marketing partner. The information you provide to us through these framed web pages is collected by us and its use is governed by this privacy policy. 
+Our store locator functionality links to a third party web site. Any data provided through this functionality is not governed by this privacy policy. The [privacy policy](http://www.google.com/intl/en/privacy/privacy-policy.html) of the third party web site governs the information collection and dissemination practices occurring on such web site. If you have accessed this Web Site through a link from certain of our advertising and marketing partners our Site may include a frame of the applicable advertising and marketing partner. The information you provide to us through these framed web pages is collected by us and its use is governed by this privacy policy. 
 
 ## Receiving Promotions and Information Through Email
 
-From time to time, we will contact you about sales, special offers and new site features if you agreed to be included in our email lists. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, you can unclick the "I would like to receive emails about special promotions" box each time you make a purchase. You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service.
+From time to time, we will contact you about sales, special offers and new site features if you agreed to be included in our email lists. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, enter your e-mail address [here](http://www.sportchalet.com/ancillary/unsubscribe.do) and click "Unsubscribe Me". You can also respond to any promotional email we send you, placing "REMOVE" in your subject line to discontinue email service.
 
 ## Customer Service
 
@@ -65,5 +69,7 @@ If we are going to use your personally identifiable information in a manner diff
 ## Questions About Our Policies
 
 If you have any questions regarding your privacy or any of our policies, please [contact us](https://web.archive.org/category/customer+service/contact+us.do).
+
+Revised 12/17/2010
 
 |  | 
