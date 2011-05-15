@@ -1,67 +1,85 @@
-> *The following text is extracted and transformed from the prime-downloads.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417075330id_/http%3A//prime-downloads.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prime-downloads.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515063722id_/http%3A//www.prime-downloads.com/privacy.html) for the most accurate reproduction.*
 
-# Prime Downloads :: Privacy Policy
+# Privacy Policy
 
-Media Downloads has to be the best service for downloading files from the Net I've seen.
+This document was last updated on October 02, 2010.
 
-Alexandros, Greece
+* * *
 
-My roommate used to download all the newest movies watch them but now I’m the one with the new stuff, and I’m not sure if I’ll tell him about my secret!. Thanks for this service!
+## Section 1. Acknowledgement and Acceptance of Terms.
 
-Narinder, India
+We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-I'm glad to have found you guys, done downloading in less time than it takes to drive to the video store - not to mention lifetime membership is cheaper than one rental heh :) Keep it up!
+* * *
 
-Max, Italy
+## Section 2. Participating Merchant Policies
 
-Thanks so much for this incredible service!
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-Michael, Germany
+* * *
 
-| 
+## Section 3. Information We Collect and How We Use It
 
-**Prime-Downloads.com** and associated companies and affiliated companies hereinafter to be collectively reffered to as **Prime-Downloads.com** through its websites hereinafter to be collectively called "the Site" is committed to providing a secure experience and safeguarding your personal information. This Privacy Statement was created to explain why we collect particular information and how we will protect your personal privacy within our Web site. We reserve the right to change this policy at any time, and will post any new privacy policy here. By using or navigating around the Site or utilizing any of the services we provide here, you acknowledge that you have read and understand and agree to be bound by this Privacy Statement. If you do not agree to be so bound, do not remain on the Site. 
+Anyone under the age of 18, may only use this site and its services in conjunction with and under the supervision of their parents or guardians, and with express permission from us. For this reason, we ask that anyone under the age of 18 should not submit any personal information through our site. This website collects certain information from and about its users three ways: directly from our Web Server logs, information provided by user, and with Cookies.
 
-**Contact Information**
+* * *
 
-Some areas of our Site request or require you to provide your contact information (such as your name and email address). Your contact information may be used to communicate with you when necessary with respect to transactions conducted through the Site and material changes in the Site's policies. We may also send you information about **Prime-Downloads.com** and/or promotional materials from the Site and some of our partners. We will not sell, share or rent any contact information collected from you except as disclosed in this Privacy Statement. All contact information provided to the Site is maintained on our secure servers
+## a. Web Server Logs
 
-**Financial Information**
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-We or the third party billing companies acting as our authorised resellers collect financial information (such as your credit card information) on an as-needed basis to bill you for products and services you purchase through the Site and to fulfill your orders. If we have trouble processing an order, the contact information discussed above will be used to get in touch with you. We will not sell, share or rent any financial information collected from you except as necessary to fulfill your order. All financial information provided to the Site is maintained on our secure servers and similar rules are applied to our third party authorised resellers.
+  * Your Internet protocol address.
+  * The kind of browser or computer you use.
+  * Number of links you click within the site.
+  * State or country from which you accessed the site.
+  * Date and time of your visit.
+  * Name of your Internet service provider.
+  * Web page you linked to our site from.
+  * Pages you viewed on the site.
 
-**Demographic Information**
 
-We collect anonymous demographic information (such as your zip code, gender and age), and may use this data to tailor your experience at our Site, provide content that we think you might be interested in, and display the content according to your preferences. Such demographic information may be shared with partners, market researchers and other third parties on an aggregate, non-personally identifiable basis. No personally identifiable information will be linked to aggregated demographic information.
 
-**Internet Protocol Address**
+* * *
 
-We collect an IP address from all visitors to our Site. We use your IP address for purposes of traffic analysis.
+## b. Use of Cookies
 
-**Third Party Service Providers**
+This site uses cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. We reserve the right to share aggregated site statistics with partner companies. For more information about how our third-party service providers may use cookies, please see Section 4, below. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
-We may disclose your personal information in special cases if required to do so by law, court order or other government or law enforcement authority; or when we believe in good faith that disclosing this information is otherwise necessary or advisable, including, for instance, to identify, contact or bring legal action against someone who may be causing injury to or interfering with the rights or property of **Prime-Downloads.com** , another user or anyone else that could be harmed by such activities.
+* * *
 
-**Cookies**
+## c. Use of Personal Information
 
-The Site uses "cookie" technology to enhance your online experience by making it easier for you to navigate through our Site or to make a feature work better. Cookies are pieces of information that some Web sites transfer to the computer that is browsing that Web site and are used for record-keeping purposes at many Web sites. We do not extract information about individual users or their computers during this process. It is not necessary to accept a cookie to navigate the Site, but you must accept a cookie in order to purchase access to the Site.
+Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you requested and/or purchased and any applicable fees that are compliant with our Terms of Use. If you purchase by credit card, the information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. Under some circumstances we may require some additional financial information, including, without limitation, your billing address, bank account information, and tracking information from checks or money orders. We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
-**Consumer Research**
+* * *
 
-We may monitor your use of this service (such as your session time and clickstream data), and use or disclose any such information gathered as part of our evaluation and operation of the Site and the services we make available. We may develop and use, in our sole discretion, consumer research which may be based on your use of such services.
+  * To fulfill your service requests for services,
+  * To protect ourselves from liability,
+  * To respond to legal process or comply with law, or
+  * In connection with a merger, acquisition, or liquidation of the company.
 
-All marketing information shall be subject, in all cases, to compliance with the applicable rules and regulations of the Federal Communications Commission, EU IT directive, Dutch IT law and other relevant laws and regulations, as the same may be amended from time to time. No personally identifiable information will be shared or is linked to consumer research. 
 
-**Security**
 
-We are committed to maintaining the security of your personally identifiable information and have measures in place to protect against the loss, misuse and alteration of the information under our control. All credit transactions occur in a secure area of the Site using Secure Sockets Layer ("SSL") software to process orders. SSL encrypts the information you input on the Site. In addition, all user information is stored in a secure location behind a firewall with limited administrative access.
+* * *
 
-**Public Forums**
+Please note that we will use your information and other information we obtain from your current and past activities on the site to resolve any disputes, troubleshoot problems, collect fees owed, pay amounts due you, or verify your account data. We employ many different security techniques to protect any personal data from unauthorized access by users inside and outside the company, however please be aware that "perfect security" does not exist on the Internet or with any digital or physical data.
 
-This Site makes available chat rooms, forums, message boards, and/or news groups to our users. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information.
+* * *
 
-**Third Party Links**
+## Section 4. Third Party Advertisers, Use of Web Beacons or GIF Files
 
-The Site contains links to other World Wide Web Internet sites, resources and sponsors of **Prime-Downloads.com**. Selection of an ad banner or link will redirect you off of the Site to a third party Web site. **Prime-Downloads.com** is not responsible for the privacy practices of such sites. You should make sure that you read and understand the privacy policies of these sites and direct any concerns regarding any external link to the site administrator or Webmaster of that third party Web site.  
-  
----|---
+This Website may contain electronic images known as Web beacons, sometimes also called single-pixel gifs, that allow us to count users who have visited those pages and to deliver co-branded services. We may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. This information in addition to the web searches you make while visiting this website and your web surfing behavior on this site and other websites you may visit is used to show you advertisements tailored to your interests on other websites and other forms of media. If you would like to know more about these practices and your choices about not having this information used to target ads to you, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). We prohibit Web beacons from being used to collect or access your personal information.
+
+* * *
+
+## 5\. Accessing Web Account Information
+
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant via our contact form.
+
+* * *
+
+## 6\. Changes to this Statement
+
+We have the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+
+* * *
