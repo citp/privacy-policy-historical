@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modifiedcars.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225163443id_/http%3A//www.modifiedcars.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modifiedcars.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515140033id_/http%3A//www.modifiedcars.com/privacy.asp) for the most accurate reproduction.*
 
 # ModifiedCars.com » Privacy Policy
 
