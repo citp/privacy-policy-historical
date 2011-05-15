@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsmagz.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224084637id_/http%3A//www.carsmagz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsmagz.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515203149id_/http%3A//www.carsmagz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Car Pictures and Cars For Sale - CARSMAGz
 
@@ -28,4 +28,4 @@ The contents of this statement may be altered at any time, at our discretion.
 
 If you have any questions regarding the privacy policy of Carsmagz.com then you may contact us at admin@carsmagz.com 
 
-[](http://twitter.com/home/?status=Privacy+Policy+http://bit.ly/a9lRvT "Post to Twitter") [](http://www.facebook.com/share.php?u=http://www.carsmagz.com/privacy-policy/&t=Privacy+Policy "Share to Facebook")
+[](http://twitter.com/home/?status=Privacy+Policy+http://www.carsmagz.com/?p=4749 "Post to Twitter") [](http://www.facebook.com/share.php?u=http://www.carsmagz.com/privacy-policy/&t=Privacy+Policy "Share to Facebook")
