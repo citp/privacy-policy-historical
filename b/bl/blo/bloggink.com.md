@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggink.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121031454id_/http%3A//bloggink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggink.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515215330id_/http%3A//bloggink.com/privacy) for the most accurate reproduction.*
 
 # BlogginK.com Free Blogging Service | Privacy
 
