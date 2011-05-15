@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthprofessor.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722013905id_/http%3A//www.healthprofessor.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthprofessor.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515034832id_/http%3A//www.healthprofessor.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Health Professor - Privacy Policy
 
