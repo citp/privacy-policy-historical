@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214134430id_/http%3A//case.org/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515022739id_/http%3A//www.case.org/Privacy_Statement.html) for the most accurate reproduction.*
 
-# CASE - CASE Privacy Statement
+# CASE - CASE Privacy Statement & Policy
 
-#####  CASE Privacy Statement
+#####  CASE Privacy Statement & Policy
+
+[CASE Privacy Statement](http://case.org/Privacy_Statement.html#statement "CASE Privacy Statement")
+
+[Current CASE Member Privacy Policy](http://case.org/Privacy_Statement.html#policy "Current CASE Member Privacy Policy")
+
+##### CASE Privacy Statement
 
 **1\. Our commitment to privacy  
 ** (a) At the Council for Advancement and Support of Education (CASE), we respect your right to privacy and recognize that our primary responsibility is to meet your interests and needs as a member or friend of CASE. Therefore, the CASE Board of Trustees has adopted the following privacy statement explaining our online information practices and the choices you can make about the way your information may be collected and used. This statement is part of our Web legal page and user agreement.
 
 **2\. The information we collect--registration  
-** (a) In order to use certain features of this Web site, a user must first complete a registration form. During registration, a user is required to give contact information, such as name and e-mail address, institutional affiliation, and job title. This information is used to contact the user about the services on our site for which they may have expressed interest. It will be optional for the user to provide additional information, such as demographic information, and personally identifiable information so that we can provide a more personalized experience.
+** (a) In order to use certain features of this Web site, a user must first complete a registration form. During registration, a user is required to give contact information, such as name and email address, institutional affiliation, and job title. This information is used to contact the user about the services on our site for which they may have expressed interest. It will be optional for the user to provide additional information, such as demographic information, and personally identifiable information so that we can provide a more personalized experience.
 
 **3\. The information we collect and use--orders  
 ** (a) Whenever you place an order via this site or register for a conference, information will be requested on an order form. The information requested would include name and shipping address, financial information such as a credit card number and expiration date. This information is used for billing purposes and to fill customers' orders.
@@ -50,12 +56,45 @@
 ** (a) This site contains links to other sites. As stated above, CASE is not responsible for the privacy practices or the content of such Web sites.
 
 **10\. How you can contact CASE  
-** (a) You can send an e-mail to [casenetwork@case.org](mailto:casenetwork@case.org).
+** (a) You can send an email to [casenetwork@case.org](mailto:casenetwork@case.org).
 
 (b) You can send mail to the following postal address: CASE, 1307 New York Ave., NW, Suite 1000, Washington, DC 20005-Attention Member Service Center.
 
 (c) You can call the following telephone number: 202-328-CASE, and ask for the Member Service Center.
 
-In conclusion, should you have other questions or concerns about these privacy policies or other aspects of our user agreement, please send us an e-mail at [casenetwork@case.org](mailto:casenetwork@case.org).
+In conclusion, should you have other questions or concerns about these privacy policies or other aspects of our user agreement, please send us an email at [casenetwork@case.org](mailto:casenetwork@case.org).
 
 This privacy statement is subject to change. Changes may be made by posting to the Web site and are effective upon posting or upon such other date stated in the posting.
+
+* * *
+
+##### Current CASE Member Privacy Policy
+
+_Amended by the CASE Board November 2010_
+
+CASE does not share with outside parties the information that members provide about themselves when they order a product or service, register for a conference, or become a CASE member, except to the extent necessary to complete the transaction.
+
+CASE publishes member mailing address and email addresses in both the in-print and on-line membership directory and on registration lists for use by CASE and CASE members.
+
+CASE offers postal mailing lists for rent to third parties.
+
+CASE may contract with a third party list processor to sell controlled, preapproved e-mail transmissions of professionally relevant information to members from Direct Marketers such as Educational Partners, organizations or vendors, but the actual e-mail addresses will not be released directly to the Direct Marketers. All such email transmissions will adhere to CAN-SPAM rules or equivalent international regulations.
+
+**Pre- and Post-Conference Information for Exhibitors**
+
+  * Districts are free to share registrant mailing address information to conference exhibitors and sponsors, either prior to or after the district conference. This information can be provided in label or spreadsheet format. 
+  * Districts are asked not to share registrant e-mail addresses or phone numbers with exhibitors or sponsors. 
+
+
+
+**Conference Registration Lists**
+
+  * The following verbiage should be included on all conference registration lists to protect member privacy: 
+
+
+
+"Registration lists for CASE conferences are provided for the convenience of our members. They may not be used for commercial or solicitation purposes and may not be duplicated, reproduced, or transferred in whole or in part without written permission from CASE."
+
+  * Registrant email addresses and phone numbers can appear on the conference registration list for networking purposes. 
+
+
