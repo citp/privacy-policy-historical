@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223085739id_/http%3A//www.eloqua.com/trust/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515154359id_/http%3A//www.eloqua.com/trust/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Marketing Automation | Demand Generation | Eloqua
 
-Effective Date: 19 May 2009
+Effective Date: Updated on Monday, January 17 2011
 
-When using Eloqua Corporation's ("Eloqua") website, located at the URL [http://www.eloqua.com](http://www.eloqua.com/) (the "Site") and/or services and/or products provided on the Site, you may provide us with personally identifiable information. Eloqua asks for and maintains the personally identifiable information of its visitors and customers to provide a better, more personal experience on the Site and to deliver certain services or information to you. This privacy policy covers the site www.eloqua.com
+When using Eloqua Corporation's ("Eloqua") website, located at the URL [http://www.eloqua.com](http://www.eloqua.com/) or the Eloqua Community located at [http://topliners.eloqua.com](http://topliners.eloqua.com/) (together referred to as the "Site"), and/or services and/or products provided on the Site, you may provide us with personally identifiable information. Eloqua asks for and maintains the personally identifiable information of its visitors and customers to provide a better, more personal experience on the Site and to deliver certain services or information to you. sites [www.eloqua.com](http://www.eloqua.com/) and [http://topliners.eloqua.com](http://topliners.eloqua.com/).
 
 Eloqua feels that if visitors would like a private online experience then they are entitled to one. Eloqua's products have optional decline features, which allow customers and visitors to state upfront if they would like to be anonymous, as further described below in the Anonymity section, or opt-out of any contact when requested by an agent. Privacy is very important to Eloqua. This Privacy Policy describes the conduct and practices of Eloqua as it applies to our customers and visitors.
 
   * TRUSTe
   * Cookies
   * Web Beacons
-  * Information Gathered
+  * Information Gathered (includes AddThis and Jive Software)
   * Usage of Info
   * Communications from the site
   * Choice/Opt-Out
@@ -69,8 +69,8 @@ For more information please see their Privacy Policy <http://www.addthis.com/pri
 
 
 
-_Live Chat_  
-We use live chat to assist you with contacting our sales and marketing department online.  If our live chat is offline we will collect your name and email address so that we may personally reply to your request at a late time and date through email.
+_Jive Software_  
+Eloqua uses [Jive Software](http://www.jivesoftware.com/) to serve the Eloqua Community located at [http://topliners.eloqua.com](http://topliners.eloqua.com/). Usage of the Eloqua Community is covered via this Privacy Policy, however some provisions of the Jive Software Privacy Policy may also apply. You can view the Jive Software Privacy Policy at <http://www.jivesoftware.com/legal/privacy-policy>.  
 
 **Usage of Personally Identifiable Information**  
 Eloqua uses your Personally Identifiable Information to register you to use Eloqua's services, contact you to deliver certain services or information you have requested, verify your authority to enter into certain areas of the Site, improve the content and general administration of the Site and our services, provide you with notices regarding our services, and, with permission, provide visitors with updates and information about Eloqua and its services.
