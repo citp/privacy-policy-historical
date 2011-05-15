@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashrevelations.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919234538id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashrevelations.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515040031id_/http%3A//www.freeprivacypolicy.org/generic.php) for the most accurate reproduction.*
 
 # Generic Privacy Policy
 
