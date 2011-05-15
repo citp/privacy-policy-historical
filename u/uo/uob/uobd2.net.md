@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uobd2.net privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028114823id_/http%3A//www.uobd2.net/info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uobd2.net privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515033650id_/http%3A//uobd2.net/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - uobd2.com - China Auto Diagnostic Tool Center -Top Quality, Good Service, Competitive Price
+# Privacy Policy - UOBD2.com - China Auto Diagnostic Tool Center -Top Quality, Good Service, Competitive Price
 
 UOBD2.com respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used.  
 **
