@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalstormonline.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120192226id_/http%3A//www.digitalstormonline.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalstormonline.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515040349id_/http%3A//www.digitalstormonline.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Storm
 
