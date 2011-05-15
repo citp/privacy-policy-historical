@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dolidoli.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819120404id_/http%3A//www.dolidoli.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolidoli.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515181227id_/http%3A//www.dolidoli.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Girl Games Online - Doli Doli Games
 
