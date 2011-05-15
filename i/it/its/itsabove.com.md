@@ -1,61 +1,31 @@
-> *The following text is extracted and transformed from the itsabove.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410072800id_/http%3A//itsabove.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsabove.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515075643id_/http%3A//itsabove.com/privacy-policy) for the most accurate reproduction.*
 
-# Itsabove - Privacy Policy
+# Privacy Policy | itsabove.com
 
-HTML clipboard 
+Its Above Inc., its affiliates, licensors and licensees, (“Its Above Inc” or “we”), are committed to protecting your privacy. This privacy policy (“Privacy Policy”) applies to any web site that references this Privacy Policy and is provided by Its Above Inc (“Web site”), and to those Its Above Inc-owned software products (“Software) made available to you from a Web site. Please see below for important information on third party software products made available from the Web sites. This Privacy Policy also governs information that you provide to us or that we learn from you when you use our Web sites and Software (collectively “Products”). When we collect your information from our Products, we will tell you how we may collect, use, and, in some instances, share this information.
 
-**CONSUMER PRIVACY AND RELATED SERVICES**
+What We Collect and Use
 
-Itsabove.com  is operated by Its Above Inc. 
+Cookies.
 
-Itsabove Inc we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the itsabove.com website and related applications/services.
+By accessing any Web site, Its Above Inc may place cookies on your hard drive. Its Above Inc uses cookies to enable you to sign in to certain services and to help personalize your online experience. A cookie is a small text file that is placed on your hard disk by a web server. Some cookies are used only to assist you with your session on a Web site – such cookies expire automatically after you terminate your session. Its Above Inc also uses cookies to improve the sign-in experience on certain Web sites. For example, your user ID may be stored in a cookie that will remain on your computer after you terminate your session. This cookie allows your user ID to be pre-populated, so that you will only need to type your password the next time you sign in. Finally, Its Above Inc may place a cookie on your hard disk on behalf of a sponsor when an advertisement for that sponsor is shown, so that the sponsor can measure the effectiveness of that advertisement. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies can only be accessed or read by the domain that placed them. You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use certain features of a Web site that depend on cookies.
 
-**Information we may collect** |    
----|---  
-We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using any Itsabove Products or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
+User-Provided Information.
 
-We also may collect other types of information in the following ways when you visit any Itsabove Product our website:
+In order to utilize the services at some Web sites you may be asked to provide certain personally identifiable information (“PII”), such as account information (user name and password), credit card information (card type, account number, expiration date, and billing address), banking information (Swift/ABA routing number, account number, bank name and address), PayPal email, email address, IM user ID, name and company name, tax identification number, and home or work address and telephone number, as well as certain demographic information such as city, state, country and zip code. Its Above Inc uses your PII to deliver the services you have requested and to communicate with you, including certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. We may also occasionally send you product surveys or promotional mailings to inform you of other products or services available from Its Above Inc. All such information is provided voluntarily by you. If you provide a friend’s email address to Its Above Inc for the “refer-a-friend” feature, we use that email address only for the purpose of sending your friend the email you requested. No PII is utilized by Its Above Inc for the purpose of displaying advertisements or for profiling. Its Above Inc does not sell, rent or lease PII to third parties.
 
-  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends
-  * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.
-  * We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements.
+Disclosure.
 
-We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.  **Information others may collect** |    
----|---  
-We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
+Its Above Inc may disclose your information as it believes is reasonably necessary to comply with law, regulation, or other governmental authority, or to prevent harm to yourself or others. Its Above Inc may also disclose your information upon a transfer or sale to another entity of all or substantially all of Its Above Inc’s stock or assets in Its Above Inc’s line of business to which this Privacy Policy relates or upon any other corporate reorganization.
 
-  * We do not provide any personal information to these companies. 
-  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
-  * Some of these companies may be members of the Network Advertising Initiative, which offers consumers the ability to opt out of ad targeting by all member companies.
+Control of your Personal Information.
 
-If you post information about yourself or others, or communicate with others using any Itsabove Product, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.  **How we may use information we collect** |    
----|---  
- 
+Its Above Inc offers you choices for the collection, use, and sharing of your personal information. You may choose not to receive marketing materials from Its Above Inc, and you may also stop the delivery of future promotional e-mail from Its Above Inc by following the specific instructions in the e-mail you receive. These communications choices do not apply to mandatory service communications that are considered part of certain Its Above Inc services, which you may receive periodically unless you cancel the service. You may have the ability to view or edit your personal information, and can either do so through the applicable Web site or by writing to us using our Contact Us form. We will contact you within 30 days regarding your request.
 
-We may use information to:
+Linking to Other Sites.
 
-  * Fulfill your requests for products and services;
-  * Offer products and services that may be of interest to you;
-  * Process payment for products or services you order via an Itsabove Product;
-  * Customize the advertising and content that you see on our website;
-  * Facilitate use of our Itsabove Products;
-  * Manage your account and your preferences;
-  * Analyze use of and improve our website, products and services;
-  * Identify and protect against fraudulent transactions and other misuses of our website; and
-  * Enforce any EULA, terms of use, terms of service or other terms/policies governing your use of the Itsabove Products.
+A link on a Web site or on a Third Party web site does not imply Its Above Inc’s endorsement of such linked web site, advertiser, or product. We do not necessarily control the web sites to which we link and, in any event, assume no responsibility for their content or privacy policies. Any information that you provide to linked web sites, or other third parties, is provided directly to such third party and is subject to that third party’s privacy policy. Therefore, you should carefully review the privacy policies that apply to any web sites you access from the Products, and any advertisers you respond to. This Privacy Policy applies solely to information collected by Its Above Inc.
 
-**With whom we may share information we collect** |    
----|---  
-We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: 
+Changes and Updates.
 
-  * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other IAC businesses;
-  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our Itsabove Products or offline; and
-  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users. 
-
-We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. You may choose: 
-  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our Itsabove  Products;
-  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of the Itsabove Products may not function properly;
-  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account 
-
-We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. **Changes to our Privacy Policy** We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to your itsabove.com email address and/or by prominently posting notice of the changes on the Itsabove website. 
+Its Above Inc reserves the right to change the provisions of this Privacy Policy at any time. Its Above Inc will post those changes on the privacy page of each Web site so you can be aware of what information we collect and how we use it. Your use of the Products following the posting of any change to the Privacy Policy will constitute your acceptance of any such changes. We encourage you to review our Privacy Policy frequently to make sure that you understand how Its Above Inc collects, uses, and discloses information.
