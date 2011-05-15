@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freerice.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221184644id_/http%3A//freerice.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freerice.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515081639id_/http%3A//www.freerice.com/about/privacy) for the most accurate reproduction.*
 
 # Panel privacy | Freerice.com
 
