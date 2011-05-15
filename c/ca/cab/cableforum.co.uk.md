@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cableforum.co.uk privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219231426id_/http%3A//cableforum.co.uk/about/22/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cableforum.co.uk privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515130614id_/http%3A//cableforum.co.uk/about/22/privacy-policy) for the most accurate reproduction.*
 
 # Cable Forum: Privacy Policy
 
