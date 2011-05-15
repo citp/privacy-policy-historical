@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canada-goose.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112073934id_/http%3A//www.canada-goose.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canada-goose.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515053425id_/http%3A//www.canada-goose.com/privacy) for the most accurate reproduction.*
 
 # Canada Goose » Privacy Policy
 
@@ -40,4 +40,4 @@ Metro makes every effort to keep personal information accurate, complete, and cu
 
 #### ACCESS TO PERSONAL INFORMATION
 
-All individuals have access to their personal information when requested. Metro will respond to written requests within 30 days of receiving notice. Metro will keep records of inquiries and/or objections and will document their resolution. Metro will conduct all investigations in a timely, fair and impartial manner. 
+All individuals have access to their personal information when requested. Metro will respond to written requests within 30 days of receiving notice. Metro will keep records of inquiries and/or objections and will document their resolution. Metro will conduct all investigations in a timely, fair and impartial manner.
