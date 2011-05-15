@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126094529id_/http%3A//news.netcraft.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515110908id_/http%3A//news.netcraft.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Netcraft
+# Privacy Statement | Netcraft
+
+**Fair Use:** Please note that use of the Netcraft Blog is subject to our Fair Use and Copyright policies. For more information, please visit http://news.netcraft.com/fair-use-copyright, or email info@netcraft.com. 
 
 Netcraft has created this privacy statement covering its web sites in order to demonstrate our commitment to privacy. This Privacy Policy explains the information gathering and dissemination practices for our Web sites in the netcraft.com, netcraft.co.uk, and netcraft.net domains, and for people using the Netcraft Toolbar and how this information is used. If you have any queries or requests concerning your personal information, please contact us at [webmaster@netcraft.com](mailto:webmaster@netcraft.com). 
 
@@ -64,6 +66,94 @@ If you have any questions about this privacy statement, contact [webmaster@netcr
 
 
 
-Posted by at 1 January 2003 in [About Netcraft](http://news.netcraft.com/archives/about_netcraft.html) | Print this Page 
+#### Netcraft Services
 
-Copyright © Netcraft Ltd 2010. All Rights Reserved. 
+##### Phishing & Security
+
+  * [Anti-Phishing Toolbar](http://toolbar.netcraft.com/)
+  * [Phishing Site Feed](http://news.netcraft.com/phishing-site-feed)
+  * [Hosting Phishing Alerts](http://news.netcraft.com/hosting-phishing-alerts)
+  * [Bank Fraud Detection](http://audited.netcraft.com/bank-fraud-detection)
+  * [Phishing Site Countermeasures](http://news.netcraft.com/phishing-site-takedown)
+  * [Audited by Netcraft](http://audited.netcraft.com/audited)
+  * [Open Redirect Detection](http://news.netcraft.com/open-redirect-detection)
+  * [Web Application Security Testing](http://audited.netcraft.com/web-application)
+  * [Web Application Security Course](http://audited.netcraft.com/web-application-course)
+
+
+
+##### Internet Data Mining
+
+  * [Hosting Provider Analysis](http://news.netcraft.com/hosting-analysis)
+  * [Million Busiest Websites](http://news.netcraft.com/million-busiest-websites)
+  * [Busiest Sites Switching Analysis](http://news.netcraft.com/busiest-sites-switching-analysis)
+  * [Hosting Provider Switching Analysis](http://news.netcraft.com/hosting-provider-switching-dataset)
+  * [Hosting Provider Server Count](http://news.netcraft.com/hosting-provider-server-count)
+  * [Hosting Reseller Survey](http://news.netcraft.com/site-operator-survey)
+  * [SSL Survey](http://news.netcraft.com/SSL-survey)
+
+
+
+##### Internet Exploration
+
+  * [Whats that site running?](http://uptime.netcraft.com/up/graph)
+  * [SearchDNS](http://searchdns.netcraft.com/?host)
+  * [Sites on the Move](http://uptime.netcraft.com/netmove/today)
+
+
+
+##### Performance
+
+  * [Hosting Prospects Performance Alerts](http://news.netcraft.com/hosting-prospect-monitoring-uptime-alerts)
+  * [Hosting Providers Network Performance](http://uptime.netcraft.com/perf/reports/Hosters)
+  * [Dedicated Server Monitoring](http://audited.netcraft.com/dsm)
+
+
+
+##### Advertising
+
+  * [Banner Advertising on Netcraft](http://news.netcraft.com/banner-advertising)
+
+
+
+#### About Netcraft
+
+  * [About Netcraft](http://news.netcraft.com/about-netcraft)
+  * [Contact Us](http://news.netcraft.com/contact-us)
+  * [Jobs at Netcraft](http://news.netcraft.com/jobs)
+  * [Fair Use, Copyright](http://news.netcraft.com/fair-use-copyright)
+  * [Site Privacy Statement](http://news.netcraft.com/privacy-statement)
+
+
+
+#### Article Categories
+
+  * [Around the Net](http://news.netcraft.com/archives/category/around-the-net "View all posts filed under Around the Net")
+  * [Dogfood](http://news.netcraft.com/archives/category/dogfood "View all posts filed under Dogfood")
+  * [Domains](http://news.netcraft.com/archives/category/domains "View all posts filed under Domains")
+  * [Hosting](http://news.netcraft.com/archives/category/hosting "View all posts filed under Hosting")
+  * [Interviews](http://news.netcraft.com/archives/category/interviews "View all posts filed under Interviews")
+  * [Netcraft Services](http://news.netcraft.com/archives/category/netcraft-services "View all posts filed under Netcraft Services")
+  * [Other](http://news.netcraft.com/archives/category/other "View all posts filed under Other")
+  * [Performance](http://news.netcraft.com/archives/category/performance "View all posts filed under Performance")
+  * [Security](http://news.netcraft.com/archives/category/security "View all posts filed under Security")
+  * [Web Server Survey](http://news.netcraft.com/archives/category/web-server-survey "View all posts filed under Web Server Survey")
+  * [All Categories](http://news.netcraft.com/fullindex)
+
+
+
+#### Archives
+
+  * [2011](http://news.netcraft.com/archives/2011 "2011")
+  * [2010](http://news.netcraft.com/archives/2010 "2010")
+  * [2009](http://news.netcraft.com/archives/2009 "2009")
+  * [2008](http://news.netcraft.com/archives/2008 "2008")
+  * [2007](http://news.netcraft.com/archives/2007 "2007")
+  * [2006](http://news.netcraft.com/archives/2006 "2006")
+  * [2005](http://news.netcraft.com/archives/2005 "2005")
+  * [2004](http://news.netcraft.com/archives/2004 "2004")
+  * [2003](http://news.netcraft.com/archives/2003 "2003")
+  * [2002](http://news.netcraft.com/archives/2002 "2002")
+
+  
+
