@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamecentersolution.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229024927id_/http%3A//gamecentersolution.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecentersolution.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515131656id_/http%3A//www.gamecentersolution.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Reflexive Entertainment Privacy
 
