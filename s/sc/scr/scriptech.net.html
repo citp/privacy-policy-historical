@@ -1,0 +1,589 @@
+<!--The following is the downloaded HTML source of the scriptech.net privacy policy that was archived on 2011-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110515204918id_/http%3A//scriptech.net/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="abstract" content="Free and commercial scripts, software and tips for webmasters">
+<meta http-equiv="Content-Language" content="EN">
+<meta name="author" content="Bucee">
+<meta name="copyright" content="scriptech.net - 2010">
+<meta name="robots" content="FOLLOW,INDEX">
+<meta name="alexaVerifyID" content="nu55gi3j8prL2-Qk-4l5YxFeAK8">
+<meta name="google-site-verification" content="JvIHyEFavmfsnx862xj0FCZtd_HTgLoo1Ay9HlA-NwU">
+<title>Privacy Policy - Scripts, Tips and Software for Webmasters</title>
+<link rel="stylesheet" type="text/css" href="http://scriptech.net/wp-content/themes/channel/channel/style.css">
+<link rel="alternate" type="application/rss+xml" title="Scripts, Tips and Software for Webmasters RSS Feed" href="http://scriptech.net/feed/">
+<link rel="alternate" type="application/atom+xml" title="Scripts, Tips and Software for Webmasters Atom Feed" href="http://scriptech.net/feed/atom/">
+<link rel="pingback" href="http://scriptech.net/xmlrpc.php">
+<link rel="shortcut icon" href="http://scriptech.net/wp-content/themes/channel/channel/images/favicon.ico">
+<script type="text/javascript">
+//<![CDATA[
+var BrowserDetect = {
+init: function () {
+this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+this.version = this.searchVersion(navigator.userAgent)|| this.searchVersion(navigator.appVersion)|| "an unknown version";
+this.OS = this.searchString(this.dataOS) || "an unknown OS";
+},
+searchString: function (data) {
+for (var i=0;i<data.length;i++)	{
+        var dataString = data[i].string;
+        var dataProp = data[i].prop;
+        this.versionSearchString = data[i].versionSearch || data[i].identity;
+        if (dataString) {if (dataString.indexOf(data[i].subString) != -1)
+                return data[i].identity;}
+        else if (dataProp){return data[i].identity;}
+}
+},
+searchVersion: function (dataString) {
+var index = dataString.indexOf(this.versionSearchString);
+if (index == -1) return;
+return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+},
+dataBrowser: [
+        {string: navigator.userAgent,subString: "Chrome",identity: "Chrome"},
+        {string: navigator.userAgent,subString: "OmniWeb",versionSearch: "OmniWeb/",identity: "OmniWeb"},
+        {string: navigator.vendor,subString: "Apple",identity: "Safari",versionSearch: "Version"},
+        {prop: window.opera,identity: "Opera"},
+        {string: navigator.vendor,subString: "iCab",identity: "iCab"},
+        {string: navigator.vendor,subString: "KDE",identity: "Konqueror"},
+        {string: navigator.userAgent,subString: "Firefox",identity: "Firefox"},
+        {string: navigator.vendor,subString: "Camino",identity: "Camino"},
+        {string: navigator.userAgent,subString: "Netscape",identity: "Netscape"},
+        {string: navigator.userAgent,subString: "MSIE",identity: "Explorer",versionSearch: "MSIE"},
+        {string: navigator.userAgent,subString: "Gecko",identity: "Mozilla",versionSearch: "rv"},
+        {string: navigator.userAgent,subString: "Mozilla",identity: "Netscape",versionSearch: "Mozilla"}],
+dataOS:[{string: navigator.platform,subString: "Win",identity: "Windows"},
+        {string: navigator.platform,subString: "Mac",identity: "Mac"},
+        {string: navigator.userAgent,subString: "iPhone",identity: "iPhone/iPod"},
+        {string: navigator.platform,subString: "Linux",identity: "Linux"}]
+};
+BrowserDetect.init();
+
+function bookMark(theurl, thetitle, browser){
+    switch(browser){
+        case "Firefox":
+            window.sidebar.addPanel(thetitle, theurl,"");
+            break;
+        case "Explorer":
+            window.external.AddFavorite( theurl, thetitle);
+            break;
+        case "Chrome":
+        case "Safari":
+        case "Opera":
+        case "Netscape":
+            switch(BrowserDetect.OS){
+            case "Windows":
+            case "Linux":
+            alert('press ctrl+D to bookmark this page');
+            break;
+            case "Mac":
+                alert('press cmd+D to bookmark this page');
+            break;
+            }
+            break;
+    }
+}
+//]]>
+</script>
+                        <style type="text/css" media="screen">
+                                .socialwrap li.icon_text a img, .socialwrap li.iconOnly a img, .followwrap li.icon_text a img, .followwrap li.iconOnly a img{border-width:0 !important;background-color:none;}#follow.left {width:40px;position:fixed; left:0; top:100px;background-color:#CC0000;padding:10px 0;font-family:impact,charcoal,arial, helvetica,sans-serif;-moz-border-radius-topright: 5px;-webkit-border-top-right-radius:5px;-moz-border-radius-bottomright:5px;-webkit-border-bottom-right-radius:5px;border:2px solid #fff;border-left-width:0}#follow.left ul {padding:0; margin:0; list-style-type:none !important;font-size:24px;color:black;}
+#follow.left ul li {padding-bottom:10px;list-style-type:none !important;padding-left:4px;padding-right:4px}
+#follow img{border:none;}#follow.left ul li.followus {margin:0 4px;}
+#follow.left ul li.followus img {border-width:0;display:block;overflow:hidden; background:transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/images/impact/followus-left.png) no-repeat -168px 0px;height:107px;width:20px;}
+#follow.left ul li a {display:block;}
+#follow.left ul li.followus span, #follow ul li a span {display:none}.share {margin:0 3px 3px 0;}
+.phat span {display:inline;}
+ul.row li {float:left;list-style-type:none;}
+li.iconOnly a span.head {display:none}
+#follow.left ul.size16 li.follow{margin:0px auto !important}
+li.icon_text a {padding-left:0;margin-right:3px}
+li.text_only a {background-image:none !important;padding-left:0;}
+li.text_only a img {display:none;}
+li.icon_text a span{background-image:none !important;padding-left:0 !important; }
+li.iconOnly a span.head {display:none}
+ul.socialwrap li {margin:0 3px 3px 0 !important;}
+ul.socialwrap li a {text-decoration:none;}ul.row li {float:left;line-height:auto !important;}
+ul.row li a img {padding:0}.size16 li a,.size24 li a,.size32 li a, .size48 li a, .size60 li a {display:block}ul.socialwrap {list-style-type:none !important;margin:0; padding:0;text-indent:0 !important;}
+ul.socialwrap li {list-style-type:none !important;background-image:none;padding:0;list-style-image:none !important;}
+ul.followwrap {list-style-type:none !important;margin:0; padding:0}
+ul.followwrap li {margin-right:3px;margin-bottom:3px;list-style-type:none !important;}
+#follow.right ul.followwrap li, #follow.left ul.followwrap li {margin-right:0px;margin-bottom:0px;}
+.shareinpost {clear:both;padding-top:25px}.shareinpost ul.socialwrap {list-style-type:none !important;margin:0 !important; padding:0 !important}
+.shareinpost ul.socialwrap li {padding-left:0 !important;background-image:none !important;margin-left:0 !important;list-style-type:none !important;text-indent:0 !important}
+.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img{border-width:0}ul.followrap li {list-style-type:none;list-style-image:none !important;}
+div.clean {clear:left;}
+div.display_none {display:none;}
+                        </style>
+                                                <style type="text/css" media="print">
+                                body {background: white;font-size: 12pt;color:black;}
+ * {background-image:none;}
+ #wrapper, #content {width: auto;margin: 0 5%;padding: 0;border: 0;float: none !important;color: black;background: transparent none;}
+ a { text-decoration : underline; color : #0000ff; }
+#menu, #navigation, #navi, .menu {display:none}
+                        </style>
+                        <link rel="image_src" href=""> 
+<link rel="alternate" type="application/rss+xml" title="Scripts, Tips and Software for Webmasters » Privacy Policy Comments Feed" href="http://scriptech.net/privacy-policy/feed/">
+<link rel="stylesheet" id="seo-style-css" href="http://scriptech.net/wp-content/plugins/seo-pressor/templates/css/styles.css?ver=3.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="mailchimpSF_main_css-css" href="http://scriptech.net/?mcsf_action=main_css&amp;ver=3.0.1" type="text/css" media="all">
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://scriptech.net/wp-content/plugins/mailchimp/css/ie.css?ver=3.0.1' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="ucdesigner_css-css" href="http://scriptech.net/wp-content/plugins/shortcodes/shortcodes/styles.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="smooth_slider_headcss-css" href="http://scriptech.net/wp-content/plugins/smooth-slider/css/skins/default.css/style.css?ver=2.3.3" type="text/css" media="all">
+<link rel="stylesheet" id="topup_plus-css" href="http://scriptech.net/wp-content/plugins/topup-plus/style.css?ver=2.5.3.2" type="text/css" media="screen">
+<link rel="stylesheet" id="featured-post-css-css" href="http://scriptech.net/wp-content/plugins/featured-post-with-thumbnail/featured-post.css?ver=3.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="column-styles-css" href="http://scriptech.net/wp-content/plugins/shortcodes/styles.css?ver=3.0.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://scriptech.net/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<script type="text/javascript" src="http://scriptech.net/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
+<script type="text/javascript" src="http://scriptech.net/wp-includes/js/jquery/jquery.form.js?ver=2.02m"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mailchimpSF = {
+	ajax_url: "http://scriptech.net/"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://scriptech.net/wp-content/plugins/mailchimp/js/mailchimp.js?ver=1.2.4"></script>
+<script type="text/javascript" src="http://scriptech.net/wp-content/plugins/smooth-slider/js/jquery.jcarousel.min.js?ver=2.3.3"></script>
+<script type="text/javascript" src="http://scriptech.net/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://scriptech.net/wp-content/plugins/topup-plus/js/top_up-min.js?ver=2.5.3.2"></script>
+<script type="text/javascript" src="http://scriptech.net/wp-content/plugins/shortcodes/js/button.fade.js?ver=3.0.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://scriptech.net/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://scriptech.net/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Scripts, Tips and Software for Webmasters" href="http://scriptech.net/">
+<link rel="prev" title="Sitemap" href="http://scriptech.net/sitemap/">
+<link rel="next" title="Contact" href="http://scriptech.net/contact-2/">
+<meta name="generator" content="WordPress 3.0.1">
+
+<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[731,803] -->
+<link rel="canonical" href="http://scriptech.net/privacy-policy/">
+<!-- /all in one seo pack -->
+<!-- HeadSpace SEO 3.6.34 by John Godley - urbangiraffe.com -->
+<!-- HeadSpace -->
+<!-- Meta tags added by Robots Meta: http://yoast.com/wordpress/meta-robots-wordpress-plugin/ -->
+<meta name="robots" content="noindex,nofollow">
+<link rel="canonical" href="http://scriptech.net/privacy-policy/"><style type="text/css" media="screen">.jcarousel-skin-default .jcarousel-clip-horizontal {padding:0px 20px 0px 20px;width:560px;}.smooth_slider{width:590px;height:240px;background-color:transparent;border:0px solid #ffffff;padding:0 5px 0 10px;}.sldr_title{font-family:Georgia, Arial, Helvetica, sans-serif;font-size:20px;font-weight:bold;font-style:normal;color:#000000;}.smooth_slider .jcarousel-item{width:560px;height:194px;}.smooth_slider h2{clear:none;line-height:21px;font-family:Trebuchet MS, Arial, Helvetica, sans-serif;font-size:18px;font-weight:bold;font-style:normal;color:#132453;margin:10px 0 5px 0 !important;}.smooth_slider h2 a{color:#132453;}.smooth_slider span{font-family:Verdana, Arial, Helvetica, sans-serif;font-size:13px;font-weight:normal;font-style:normal;color:#272121;}.smooth_slider_thumbnail{float:left;margin:10px 5px 0 0px;max-height:120px;border:0px solid #000000;}.smooth_slider .smooth_slideri div{margin-right:40px}.smooth_slider p.more a{color:#132453;font-family:Verdana, Arial, Helvetica, sans-serif;font-size:13px;}.jcarousel-control a{border:1px solid #272121;font-size:13px;font-family:Verdana, Arial, Helvetica, sans-serif;}.jcarousel-control a{color:#132453 !important;}.sldrlink{padding-right:10px;}.sldrlink a{color:#272121 !important;}</style>
+
+<!-- TopUp Plus Plugin 2.5.3.2 -->
+<script type="text/javascript">
+						TopUp.host = "http://scriptech.net/";
+						TopUp.images_path = "/wp-content/plugins/topup-plus/images/top_up/";
+						TopUp.defaultPreset({
+								title: "Gallery {alt} ({current} of {total})",
+								readAltText: 1,
+								layout: "dashboard",
+								overlayClose: 1,
+								shaded: 1,
+								effect: "transform",
+								resizable: 1
+							});
+					</script>
+<!-- TopUp Plus Plugin 2.5.3.2 -->
+
+<!-- Start Of WP Popup Scheduler Script -->
+<link rel="stylesheet" href="http://scriptech.net/wp-content/plugins/wp-popup-scheduler/popup_css.css" type="text/css" media="screen">
+<!-- End Of WP Popup Scheduler Script -->
+<script type="text/javascript"><!--//--><![CDATA[//><!--
+sfHover = function() {
+	if (!document.getElementsByTagName) return false;
+	var sfEls = document.getElementById("menu").getElementsByTagName("li");
+
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+	
+	var sfEls = document.getElementById("topnav").getElementsByTagName("li");
+
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+//--><!]]></script>
+<!--end: dropdown menu-->
+</head>
+<body>
+<div id="wrapper">
+<div id="top">
+  <div id="topnav">
+    <div class="left">
+            <li><a href="http://scriptech.net/">Home</a></li>
+            <li class="page_item page-item-2"><a href="http://scriptech.net/about/" title="Collection of quality scripts and webmaster resources.">About</a></li>
+<li class="page_item page-item-337"><a href="http://scriptech.net/partners/" title="Partners">Partners</a></li>
+<li class="page_item page-item-4346"><a href="http://scriptech.net/contact-2/" title="Contact">Contact</a></li>
+<li class="page_item page-item-2413"><a href="http://scriptech.net/sitemap/" title="Sitemap">Sitemap</a></li>
+<li class="page_item page-item-4147 current_page_item"><a href="http://scriptech.net/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+    </div>
+    <!--end: left-->
+    <div class="right">
+      <form method="get" id="searchform" action="http://scriptech.net/">
+        <div id="search">
+          <input class="searchinput" type="text" value="Search..." onclick="this.value='';" name="s" id="s">
+          <input type="submit" class="searchsubmit" value="GO">
+        </div>
+      </form>
+    </div>
+    <!--end: right-->
+  </div>
+</div>
+<!--end: top-->
+<div id="header">
+<p><b>Scripts, Tools and Software for Webmasters and Online Marketing</b></p>
+<div class="logo"></div>
+  <!--end: logo-->
+  
+      <!--end: ad468x60-->
+</div>
+<!--end: header-->
+<div id="menu">
+  <div class="left">
+    	<li class="cat-item cat-item-1"><a href="http://scriptech.net/category/database-tools-scripts/" title="Php, ASP, Python database tools scripts, softwers. Special scripts for database, free and commercial ones.">Database tools</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://scriptech.net/category/social-networking-scripts/" title="Social networking free and commercial scripts. PHP, Ajax, ASP, Flash, Java, Python, Ruby on Rails social networking scripts">Social networking</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://scriptech.net/category/auction-bidding-scripts-reviews/" title="Auction, bidding scripts reviews. Free and commercial bidding and auction scripts like Swoopo, Ebay clone scripts">Auction Scripts</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://scriptech.net/category/media-video-music-picture-scripts/" title="Collection of video, picture and music scripts. Reviews of free and commercial picture, video and music scripts.">Media</a>
+<ul class="children">
+	<li class="cat-item cat-item-14"><a href="http://scriptech.net/category/media-video-music-picture-scripts/music-song-scripts-reviews/" title="Collection of music, song PHP, Ajax ,python and other scripts. Reviews of free and commercial music scripts.">Music library scripts</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://scriptech.net/category/media-video-music-picture-scripts/video-movie-script-collection/" title="Video and movie scripts collection. Reviews of free and commercial movie and video portal script in Php, Ajax, Python and others.">Video &amp; Movie</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://scriptech.net/category/game-scripts-collection-review/" title="Collection game scripts. Reviews of free and commercial game scripts, software in PHP, Ajax, Python. ">Games</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://scriptech.net/category/article-news-publishing-scripts/" title="Scripts specialized for article and news publishing. Free and commercial news and article publishing website scripts.">News, article publishing</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://scriptech.net/category/search-engine-scripts-collection/" title="Search engine script collection. Reviews of php, python, ajax and other search engine scripts.">Search engines</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://scriptech.net/category/online-business-tools-scripts-collection/" title="Collection of business scripts, tools and business software for online businesses.Tips, ideas for online business and how to earn money.">Business</a>
+<ul class="children">
+	<li class="cat-item cat-item-18"><a href="http://scriptech.net/category/online-business-tools-scripts-collection/affiliate-programs-scripts-collection/" title="Affiliate software, scripts and tips for affiliate marketing. Affiliate tools and resources to improve your online sales and to generate more online income via affiliate programs.">Affiliate Programs</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://scriptech.net/category/portal-blog-scripts-collection/" title="Reviews of portal and blog scripts. Collection of blog and portal systems in Php, Ajax, Python and others. ">Portal &amp; Blog systems</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://scriptech.net/category/website-clone-scripts-collection/" title="Website clone scrips collection. Reviews of free and commercial clone scripts of websites.">Clone scripts</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://scriptech.net/category/content-management-systems-collection/" title="CMS scripts collection. Content management system scripts reviews in Php, Ajax, Python, Falsh and other. ">Content Management</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://scriptech.net/category/e-commerce-scripts-collection-reviews/" title="E-commerce, shopping scripts reviews. Collection shopping, e-commerce Php, Python , Ajax scripts, software. ">E-commerce &amp; Shopping</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://scriptech.net/category/email-systems/" title="Email system script reviews. Collection of free and commercial email systems scripts.">Email systems</a>
+<ul class="children">
+	<li class="cat-item cat-item-29"><a href="http://scriptech.net/category/email-systems/mailing-lists-scripts-collection/" title="Reviews of free and commercial mailing list software, scripts in Php, Ajax, Python and others.">Mailing lists</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://scriptech.net/category/groupware-scripts-reviews-collection/" title="Reviews and collection of groupware scripts. Free and commercial groupware Php, Ajax, Python scripts.">Groupware</a>
+</li>
+	<li class="cat-item cat-item-172"><a href="http://scriptech.net/category/other-scripts/" title="View all posts filed under Other scripts">Other scripts</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://scriptech.net/category/templates-themes-collection-review/" title="Themes for content management systems (CMS) like Wordpress, Joomla, Drupal and others. Free html templetes. Free and commercial themes, templetes for webmasters.">Templates &amp; Themes</a>
+</li>
+	<li class="cat-item cat-item-286"><a href="http://scriptech.net/category/webmaster-software-applications-collection/" title="Collection of useful software and tools for webmasters. Free and commercial webmaster tools andsoftware which help to manage the webmasters'work">Webmaster software &amp; tools</a>
+</li>
+	<li class="cat-item cat-item-291"><a href="http://scriptech.net/category/web-design-utilities-collection/" title="Collection of web design utilities, software for webmasters which help to improve the design of the website. Reviews of web design software.">Web Design Utilities</a>
+</li>
+	<li class="cat-item cat-item-300"><a href="http://scriptech.net/category/other-quality-software-collection/" title="Other quality software collection.">Others</a>
+</li>
+	<li class="cat-item cat-item-596"><a href="http://scriptech.net/category/search-engine-optimization/" title="View all posts filed under Search Engine Optimization">Search Engine Optimization</a>
+</li>
+	<li class="cat-item cat-item-608"><a href="http://scriptech.net/category/online-income-tips-ideas-reviews/" title="Tips and ideas to generate online income. How to make money online with websites, articles and others. Reviews of online money making techniques and websites. ">Online income</a>
+</li>
+	<li class="cat-item cat-item-653"><a href="http://scriptech.net/category/portal-blog-systems/" title="View all posts filed under Portal &amp; Blog systems">Portal &amp; Blog systems</a>
+</li>
+	<li class="cat-item cat-item-836"><a href="http://scriptech.net/category/plugins-extensions-blogs-cms/" title="Free and commercial plugins and extensions for CMS, forum engines and Blogs like Worpdress, Joomla, Drupal, SWF and others">Plugins and Extensions for Blogs, CMS and Forums</a>
+</li>
+	<li class="cat-item cat-item-1258"><a href="http://scriptech.net/category/online-marketing-3/" title="View all posts filed under Online Marketing">Online Marketing</a>
+</li>
+	<li class="cat-item cat-item-1648"><a href="http://scriptech.net/category/domain-tools/" title="View all posts filed under Domain-tools">Domain-tools</a>
+</li>
+  </div>
+  <div class="right"> </div>
+  <!--end: right-->
+</div>
+<!--end: menu-->
+<div id="content">
+      <div class="entry">
+    <div class="post" id="post-4147">
+      <h3>
+        Privacy Policy      </h3>
+      <div style="float:right;padding: 0 0 10px 10px" class="interactive_right"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;text=Privacy Policy&amp;count=vertical&amp;lang=  " style="width:65px; height:65px;"></iframe><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;layout=box_count&amp;show_faces=false&amp;width=65&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:65px; height:65px;" allowtransparency="true"></iframe></div>
+<p><strong>Your Privacy</strong><br>
+www.scriptech.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.</p>
+<p>We may change this policy from time to time by updating this page. You should always check this page to ensure that you are happy with any changes.</p>
+<p><strong>What we collect</strong><br>
+We may collect the following information: name, <a title="contact" href="http://scriptech.net/contact-2/">contact</a> information including email address, etc.</p>
+<p><strong>What we do with the information we gather</strong><br>
+We require this information to provide you with a better service, and in particular for the following reasons: to facilitate a specific request on our site, for example, to post a comment on our blog or to subscribe to our email feed. All emails or feed subscriptions from this site allow you to opt out of further mailings. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so.</p>
+<p><strong>Links to other websites</strong><br>
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.</p>
+<p><strong>How to contact us</strong></p>
+<p>If you have any questions or concerns regarding our privacy policy, please contact us at admin@scriptech.net</p>
+<p><span style="font-size: 11px;">This policy was generated by Easy Privacy Policy Plugin <a href="http://churchillcarinsurance.me.uk/" target="_blank" class="external" rel="nofollow">churchill car insurance</a> for WordPress.</span></p>
+<div style="font-style: italic; font-size: 10px;">Last updated Mon, 10 Jan 2011 09:27</div>
+<div class="shareinpost">
+<ul class="socialwrap row">
+<li class="iconOnly share"><b>Share:</b></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;n=Privacy+Policy&amp;pli=1" title="Share this post : Privacy Policy on Blogger" class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-34px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Blog this!</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://delicious.com/post?url=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Bookmark this post : Privacy Policy on Delicious" class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-102px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Bookmark on Delicious</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://digg.com/submit?url=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;title=Privacy+Policy&amp;bodytext=Your+Privacy%0D%0Awww.scriptech.net+is+committed+to+ensuring+that+your+privacy+is+protected.+Should+we+ask+you+to+provide+certain+information+by+which+you+can+be+identified+when+using+this+website%2C+then+you+can+be+assured+that+it+will+only+be+used+in+accordance+with+this+privacy+statement.%0D%0A%0D%0AWe+may+change+this+policy+from" title="Digg this post : Privacy Policy"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-136px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Digg this post</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;t=Privacy+Policy" title="Recommend this post : Privacy Policy on Facebook" class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-187px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Recommend on Facebook</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.google.com/buzz/post?url=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Buzz up this post : Privacy Policy " class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-323px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Buzz it up</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;title=Privacy+Policy&amp;&amp;summary=Your+Privacy%0D%0Awww.scriptech.net+is+committed+to+ensuring+that+your+privacy+is+protected.+Should+we+ask+you+to+provide+certain+information+by+which+you+can+be+identified+when+using+this+website%2C+then+you+can+be+assured+that+it+will+only+be+used+in+accordance+with+this+privacy+statement.%0D%0A%0D%0AWe+may+change+this+policy+from" title="Share this post : Privacy Policy on Linkedin"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-459px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Share on Linkedin</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.mixx.com/submit?page_url=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F" title="Share this post : Privacy Policy on Mixx" class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-493px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Mixx it up</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.mister-wong.com/addurl/?bm_url=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;bm_description=Privacy+Policy" title="Share this post : Privacy Policy on mrwong" class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-527px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Share on mrwong</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F" title="Share this post : Privacy Policy via MySpace" class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-544px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Share via MySpace</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.netvibes.com/share?title=Privacy+Policy&amp;url=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F" title="Share this post : Privacy Policy on netvibes" class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-561px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Share on netvibes</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.reddit.com/submit?url=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Share this post : Privacy Policy on Reddit" class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-731px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">share via Reddit</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.sphinn.com/share?v=3&amp;u=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;t=Privacy+Policy" title="Share this post : Privacy Policy on sphinn" class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-799px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Share this on sphinn</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Share this post : Privacy Policy with Stumblers" class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-833px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Share with Stumblers</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://technorati.com/faves?add=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F" title="Share this post : Privacy Policy on technorati" class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-867px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Share on technorati</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F&amp;t=Privacy+Policy" title="Tumblr. this post : Privacy Policy " class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-884px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Tumblr it</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://twitter.com/home/?status=Privacy+Policy+-+http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F" title="Tweet this post : Privacy Policy on Twitter" class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-901px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Tweet about it</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_blank" href="http://buzz.yahoo.com/buzz?targetUrl=http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F" title="Buzz up this post : Privacy Policy " class="external"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-1020px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Buzz it up</span></a></li>
+<li class="iconOnly"><a rel="_self" href="http://scriptech.net/privacy-policy/feed" title="Follow this post : Privacy Policy comments"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" width="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-748px 0px" class="image-16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Subscribe to the comments on this post</span></a></li>
+<li class="iconOnly"><a rel="nofollow" target="_self" href="javascript:window.bookMark('http%3A%2F%2Fscriptech.net%2Fprivacy-policy%2F', 'Privacy+Policy', BrowserDetect.browser);" title="Bookmark this post : Privacy Policy"><img src="http://scriptech.net/wp-content/plugins/share-and-follow/images/blank.gif" height="16" style="background: transparent url(http://scriptech.net/wp-content/plugins/share-and-follow/default/16/sprite-16.png) no-repeat;padding:0;margin:0;height:16px;width:16px;background-position:-51px 0px" class="image-16" width="16" alt="Privacy Policy" title="Privacy Policy Image"> <span class="head">Bookmark in Browser</span></a></li>
+</ul>
+<div class="clean"></div>
+<p></p></div>
+                </div>
+  </div>
+  <!-- You can start editing here. -->
+<div class="comments-box"> <a name="comments" id="comments"></a>
+      <!-- If comments are closed. -->
+  <p>comment closed</p>
+      </div>
+       
+  </div>
+<!--end: content-->
+<div id="sidebar">
+      <!--end: ad300x250-->
+  <div class="widget">
+            <!--end: subscribe-->
+            <!--end: flickr rss-->
+    <h3>Free Newsletter</h3><div class="box">	
+<div id="mc_signup">
+	<form method="post" action="#mc_signup" id="mc_signup_form">
+		<input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html">
+		<input type="hidden" name="mcsf_action" value="mc_submit_signup_form">
+		<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="e674425a0b">		
+			<div id="mc_subheader">
+			<p style="text-align: center;"><span style="color: #000080;"><strong><span style="font-size: large;">Do You need FREE Software and Tips?</span></strong></span></p><br><p style="text-align: center;"><strong>Subscribe to my Newsletter and get Exclusive Promotions, Tips and Free Resources</strong></p><br><br>		</div><!-- /mc_subheader -->
+			
+	<div class="mc_form_inside">
+		
+		<div class="updated" id="mc_message">
+					</div><!-- /mc_message -->
+
+						<div class="mc_merge_var">
+					<label for="mc_mv_EMAIL" class="mc_var_label">Email Address									</label>
+					
+					<br>
+					
+					<input type="text" size="18" value="" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input">
+				</div><!-- /mc_merge_var -->
+				
+		<div class="mc_signup_submit">
+			<input type="submit" name="mc_signup_submit" id="mc_signup_submit" value="Subscribe" class="button">
+		</div><!-- /mc_signup_submit -->
+	
+	
+			</div><!-- /mc_form_inside -->
+	</form><!-- /mc_signup_form -->
+</div><!-- /mc_signup_container -->
+	</div><h3>Premium Niche Finder</h3><div class="box">			<div class="textwidget"><p></p><center> <a href="http://scriptech.net/demo/Niche-Finder-Software" target="_top"><img src="http://nichefinder.bradcallen.com/affiliates/banners/300x67.jpg" width="300" height="67" border="1" alt="Click to Visit"></a></center><p></p>
+</div>
+		</div><h3>Scriptech On Facebook</h3><div class="box">			<div class="textwidget"><p><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FScriptech%2F177452365638536&amp;width=300&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=true&amp;height=427" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:427px;" allowtransparency="true"></iframe></p>
+</div>
+		</div><h3>Tags</h3><div class="box"><div><a href="http://scriptech.net/tag/affiliate/" class="tag-link-1173" title="5 topics" style="font-size: 11.405405405405pt;">affiliate</a>
+<a href="http://scriptech.net/tag/affiliate-marketing/" class="tag-link-620" title="8 topics" style="font-size: 14.621621621622pt;">Affiliate marketing</a>
+<a href="http://scriptech.net/tag/affiliate-store/" class="tag-link-1099" title="6 topics" style="font-size: 12.72972972973pt;">affiliate store</a>
+<a href="http://scriptech.net/tag/article-directory/" class="tag-link-476" title="4 topics" style="font-size: 9.8918918918919pt;">article directory</a>
+<a href="http://scriptech.net/tag/article-directory-script/" class="tag-link-1217" title="4 topics" style="font-size: 9.8918918918919pt;">article directory script</a>
+<a href="http://scriptech.net/tag/autoblog/" class="tag-link-890" title="4 topics" style="font-size: 9.8918918918919pt;">autoblog</a>
+<a href="http://scriptech.net/tag/autoblogging/" class="tag-link-993" title="5 topics" style="font-size: 11.405405405405pt;">autoblogging</a>
+<a href="http://scriptech.net/tag/autoblogging-software/" class="tag-link-648" title="4 topics" style="font-size: 9.8918918918919pt;">autoblogging software</a>
+<a href="http://scriptech.net/tag/autoblog-plugin/" class="tag-link-978" title="4 topics" style="font-size: 9.8918918918919pt;">autoblog plugin</a>
+<a href="http://scriptech.net/tag/backlinks/" class="tag-link-709" title="7 topics" style="font-size: 13.675675675676pt;">backlinks</a>
+<a href="http://scriptech.net/tag/blog/" class="tag-link-170" title="6 topics" style="font-size: 12.72972972973pt;">blog</a>
+<a href="http://scriptech.net/tag/bookmarking-script/" class="tag-link-512" title="4 topics" style="font-size: 9.8918918918919pt;">bookmarking script</a>
+<a href="http://scriptech.net/tag/clone-script/" class="tag-link-165" title="13 topics" style="font-size: 18.405405405405pt;">clone script</a>
+<a href="http://scriptech.net/tag/cpalead/" class="tag-link-668" title="4 topics" style="font-size: 9.8918918918919pt;">CPAlead</a>
+<a href="http://scriptech.net/tag/digg-clone/" class="tag-link-603" title="3 topics" style="font-size: 8pt;">digg clone</a>
+<a href="http://scriptech.net/tag/earn-money/" class="tag-link-617" title="3 topics" style="font-size: 8pt;">earn money</a>
+<a href="http://scriptech.net/tag/free-script/" class="tag-link-509" title="17 topics" style="font-size: 20.486486486486pt;">free script</a>
+<a href="http://scriptech.net/tag/internet-marketing/" class="tag-link-1426" title="6 topics" style="font-size: 12.72972972973pt;">internet marketing</a>
+<a href="http://scriptech.net/tag/keyword-research/" class="tag-link-644" title="4 topics" style="font-size: 9.8918918918919pt;">keyword research</a>
+<a href="http://scriptech.net/tag/link-building/" class="tag-link-1308" title="4 topics" style="font-size: 9.8918918918919pt;">link building</a>
+<a href="http://scriptech.net/tag/microblog/" class="tag-link-171" title="3 topics" style="font-size: 8pt;">microblog</a>
+<a href="http://scriptech.net/tag/online/" class="tag-link-470" title="4 topics" style="font-size: 9.8918918918919pt;">online</a>
+<a href="http://scriptech.net/tag/online-income-tips-ideas-reviews/" class="tag-link-608" title="8 topics" style="font-size: 14.621621621622pt;">Online income</a>
+<a href="http://scriptech.net/tag/online-marketing/" class="tag-link-1197" title="5 topics" style="font-size: 11.405405405405pt;">online marketing</a>
+<a href="http://scriptech.net/tag/opensource/" class="tag-link-717" title="5 topics" style="font-size: 11.405405405405pt;">opensource</a>
+<a href="http://scriptech.net/tag/open-source/" class="tag-link-510" title="17 topics" style="font-size: 20.486486486486pt;">open source</a>
+<a href="http://scriptech.net/tag/php-script/" class="tag-link-168" title="14 topics" style="font-size: 18.972972972973pt;">php script</a>
+<a href="http://scriptech.net/tag/search-engine/" class="tag-link-156" title="3 topics" style="font-size: 8pt;">search-engine</a>
+<a href="http://scriptech.net/tag/search-engine-optimization/" class="tag-link-596" title="11 topics" style="font-size: 17.081081081081pt;">Search Engine Optimization</a>
+<a href="http://scriptech.net/tag/search-engines/" class="tag-link-606" title="7 topics" style="font-size: 13.675675675676pt;">search engines</a>
+<a href="http://scriptech.net/tag/search-engine-script/" class="tag-link-642" title="4 topics" style="font-size: 9.8918918918919pt;">search engine script</a>
+<a href="http://scriptech.net/tag/seo/" class="tag-link-427" title="18 topics" style="font-size: 20.864864864865pt;">seo</a>
+<a href="http://scriptech.net/tag/twitter/" class="tag-link-298" title="4 topics" style="font-size: 9.8918918918919pt;">twitter</a>
+<a href="http://scriptech.net/tag/twitter-clone/" class="tag-link-594" title="3 topics" style="font-size: 8pt;">twitter clone</a>
+<a href="http://scriptech.net/tag/video-share/" class="tag-link-511" title="3 topics" style="font-size: 8pt;">video share</a>
+<a href="http://scriptech.net/tag/webmaster-tools/" class="tag-link-289" title="3 topics" style="font-size: 8pt;">webmaster tools</a>
+<a href="http://scriptech.net/tag/wordpress/" class="tag-link-471" title="21 topics" style="font-size: 22pt;">wordpress</a>
+<a href="http://scriptech.net/tag/wordpress-autoblog/" class="tag-link-979" title="5 topics" style="font-size: 11.405405405405pt;">wordpress autoblog</a>
+<a href="http://scriptech.net/tag/wordpress-autoblog-plugin/" class="tag-link-895" title="7 topics" style="font-size: 13.675675675676pt;">Wordpress Autoblog Plugin</a>
+<a href="http://scriptech.net/tag/wordpress-plugin/" class="tag-link-547" title="3 topics" style="font-size: 8pt;">wordpress plugin</a>
+<a href="http://scriptech.net/tag/wordpress-plugins/" class="tag-link-478" title="11 topics" style="font-size: 17.081081081081pt;">wordpress plugins</a>
+<a href="http://scriptech.net/tag/wordpress-seo/" class="tag-link-1235" title="4 topics" style="font-size: 9.8918918918919pt;">wordpress seo</a>
+<a href="http://scriptech.net/tag/wordpress-seo-plugin/" class="tag-link-1224" title="4 topics" style="font-size: 9.8918918918919pt;">wordpress seo plugin</a>
+<a href="http://scriptech.net/tag/wp-plugins/" class="tag-link-991" title="7 topics" style="font-size: 13.675675675676pt;">wp plugins</a>
+<a href="http://scriptech.net/tag/wp-seo/" class="tag-link-1240" title="4 topics" style="font-size: 9.8918918918919pt;">wp seo</a></div>
+</div><h3>Search</h3><div class="box"><form role="search" method="get" id="searchform" action="http://scriptech.net/">
+	<div><label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s">
+	<input type="submit" id="searchsubmit" value="Search">
+	</div>
+	</form></div>  </div>
+  <!--end: widget-->
+  <div class="leftwidget">
+    <h3>Online Marketing</h3><div class="box">
+	<ul class="xoxo blogroll">
+<li><a href="http://cheapinternetmarketingtools.com/ecm/go.php?pid=99&amp;offer=imi82" title="Cheap Online Marketing Tools that helps yout boost your online business." class="external" rel="nofollow" target="_blank">Cheap Online Marketing Tools</a></li>
+
+	</ul>
+</div>
+<h3>Featured Posts</h3><div class="box"><ul class="clearfix"><li>
+   
+	 <img width="73" height="73" src="http://scriptech.net/wp-content/uploads/2010/11/Wordpress-Slide-Script-150x150.png" class="attachment-73x73x1 wp-post-image" alt="Wordpress Slide Script" title="Wordpress Slide Script">   <h4 class="featured-title"><a href="http://scriptech.net/webmaster-software-applications-collection/wordpress-slide-script/">Slide Pop Up Script – Create Any Slide Pop Up Windows Simply</a></h4>
+</li>
+   <li>
+   
+	 <img width="73" height="73" src="http://scriptech.net/wp-content/uploads/2010/06/Wordpress-Affiliate-Store-150x150.gif" class="attachment-73x73x1 wp-post-image" alt="Wordpress Affiliate Store Plugin" title="Wordpress Affiliate Store Plugin">   <h4 class="featured-title"><a href="http://scriptech.net/online-business-tools-scripts-collection/affiliate-programs-scripts-collection/affiliate-store-wordpress-plugin-set-up-affiliate-store/">WordPress Affiliate Store Plugin</a></h4>
+</li>
+   <li>
+   
+	 <img width="73" height="73" src="http://scriptech.net/wp-content/uploads/2011/03/Lead-Generation-Software-150x150.jpg" class="attachment-73x73x1 wp-post-image" alt="Lead Generation Software" title="Lead Generation Software">   <h4 class="featured-title"><a href="http://scriptech.net/online-marketing-3/lead-generation-software/">Lead Generation Software</a></h4>
+</li>
+   <li>
+   
+	 <img width="73" height="73" src="http://scriptech.net/wp-content/uploads/2010/01/spyware-doctor-antivirus-150x150.jpg" class="attachment-73x73x1 wp-post-image" alt="Malware, spyware, antivirus software" title="spyware doctor antivirus">   <h4 class="featured-title"><a href="http://scriptech.net/other-quality-software-collection/protect-website-antivirus/">Protect Your Websites – How to stop viruses, hackers</a></h4>
+</li>
+   <li>
+   
+	 <img width="73" height="73" src="http://scriptech.net/wp-content/uploads/2010/08/Download-Unlimited-iPod-ebooks-150x150.jpg" class="attachment-73x73x1 wp-post-image" alt="Download Unlimited iPod ebooks" title="Download Unlimited iPod ebooks">   <h4 class="featured-title"><a href="http://scriptech.net/other-quality-software-collection/ipod-ebooks-download/">Get Access to Unlimited Ipod Ebooks Download</a></h4>
+</li>
+   <li>
+   
+	 <img width="68" height="73" src="http://scriptech.net/wp-content/uploads/2010/08/Link-Building-Software.png" class="attachment-73x73x1 wp-post-image" alt="Link Building Software" title="Link Building Software">   <h4 class="featured-title"><a href="http://scriptech.net/search-engine-optimization/link-building-software-seo-tool/">Link Building Software – SEO Tool You Need</a></h4>
+</li>
+   <li>
+   
+	 <img width="73" height="73" src="http://scriptech.net/wp-content/uploads/2010/04/ecover1-150x150.jpg" class="attachment-73x73x1 wp-post-image" alt="Web Traffic and Backlink Generator Software for Wordpress" title="Web Traffic and Backlink Generator Software for Wordpress">   <h4 class="featured-title"><a href="http://scriptech.net/plugins-extensions-blogs-cms/web-traffic-backlinkplugin-wordpress-web-traffic-genius/">Web Traffic and Backlink Generator Plugin for WordPress</a></h4>
+</li>
+   <li>
+   
+	 <img width="73" height="73" src="http://scriptech.net/wp-content/uploads/2009/12/soft_A3-150x150.png" class="attachment-73x73x1 wp-post-image" alt="Wordpress article directory software" title="Wordpress article directory software">   <h4 class="featured-title"><a href="http://scriptech.net/article-news-publishing-scripts/worpdress-article-directory-script/">WordPress Article Directory Script</a></h4>
+</li>
+   </ul></div>  </div>
+  <!--end: left widget-->
+  <div class="rightwidget">
+    <h3>Sponsors</h3><div class="box">			<div class="textwidget"><p><a href="http://scriptech.net/newsletter-booster-wp-plugin" target="_blank"><img src="http://cleverplugins.com/wp-content/uploads/newsletterbooster125x125.jpg" alt="newsletterbooster125x125 Affiliates" border="0" title="Affiliates"></a><br>
+<br><br>
+<a href="http://scriptech.net/Product-Launch-Theme"><img src="http://www.productlaunchWordpressTheme.com/images/productlaunchwordpresstheme-banner125x125.gif" width="125" height="125" alt="Product Review WordPress Theme" style="border:0px;"></a><br>
+<br><br>
+<a href="http://scriptech.net/Wp-Review-Theme"><img src="http://www.ProductReviewWordpressTheme.com/images/productreviewwordpresstheme-banner125x125.gif" width="125" height="125" alt="Product Review WordPress Theme" style="border:0px;"></a><br>
+<br><br>
+<a href="http://scriptech.net/Automated-Webinar-Software"><img src="http://www.AutomatedWebinarGenerator.com/images/AutomatedWebinarGenerator_125x125.gif" width="125" height="125" alt="Automated Webinar Generator" style="border:0px;"></a></p>
+</div>
+		</div><h3><a class="rsswidget external" href="http://facebookclone.net/feed" title="Syndicate this content" rel="nofollow" target="_blank"><img style="border:0" width="14" height="14" src="http://scriptech.net/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget external" href="http://facebookclone.net" title="My Wordpress Blog" rel="nofollow" target="_blank">Facebook Clone Script</a></h3><div class="box"><ul><li><a class="rsswidget external" href="http://facebookclone.net/free-facebook-clone-scripts/create-social-network-simply.html" title="Would you like to create social network easily? Most of the social networking scrips need at least a basic knowledge of programming and hosting, although you can customize your Facebook clone website for your needs. If you do not feel that you have enough ability to create social network for your community by using a [...]Facebook Clone Scripts […]" rel="nofollow" target="_blank">Create Social Network Simply</a></li><li><a class="rsswidget external" href="http://facebookclone.net/commercial-facebook-clone-scripts/dzoic-facebook-clone-review.html" title="However, phpFox seems to be the most used and popular Facebook clone script, I have to say DZOIC social networking script is a really great rival of it. This Facebook clone offers a lot of great features both for the users and the admin; and you can also find some options that are not found [...]Facebook Clone Scripts […]" rel="nofollow" target="_blank">DZOIC Facebook Clone Review</a></li><li><a class="rsswidget external" href="http://facebookclone.net/commercial-facebook-clone-scripts/phpfox-facebook-clone-script.html" title="One of the oldest Facebook clone script is phpFox which was started in 2005. Since then it has been developed a lot and now it is one of the most trusted and used social networking script that is used on thousands of websites and having a great and powerful support community. This script enables to [...]Facebook Clone Scripts […]" rel="nofollow" target="_blank">phpFox Facebook Clone Script</a></li><li><a class="rsswidget external" href="http://facebookclone.net/commercial-facebook-clone-scripts/kootali-social-networking-script.html" title="Kootali is an easy to customize, fully featured social networking script developed by Agriya creator of many community and clone scripts. This Facebook clone script lets you to start a community site that allows users to communicate and connect. No matter what type of community site you would like to start – could be romantic, [...]Facebook Clone Scripts […]" rel="nofollow" target="_blank">Kootali Social Networking Script</a></li></ul></div><h3> Recently Searched</h3><div class="box"><ul><li><a href="http://scriptech.net/templates-themes-collection-review/wordpress-theme-creator/">wp theme creator</a></li><li><a href="http://scriptech.net/website-clone-scripts-collection/imageshackus-clone-script/">imageshack clone</a></li><li><a href="http://scriptech.net/website-clone-scripts-collection/rapidshare-clone-scrip/">rapidshare clone script</a></li><li><a href="http://scriptech.net/webmaster-software-applications-collection/blog-network-builder-create-thousands-blogs/">blog creation software</a></li><li><a href="http://scriptech.net/domain-tools/domain-parking-script/">domain parking script</a></li><li><a href="http://scriptech.net/other-quality-software-collection/ipod-ebooks-download/">ipod ebooks</a></li><li><a href="http://scriptech.net/online-marketing-3/webinar-software-review-automated-webinar-script/">webinar script</a></li><li><a href="http://scriptech.net/online-business-tools-scripts-collection/free-job-board-script-start-job-site/">wordpress job board script</a></li><li><a href="http://scriptech.net/auction-bidding-scripts-reviews/auction-plugin-wordpress/">auction wordpress</a></li><li><a href="http://scriptech.net/social-networking-scripts/peoplepod-free-twitter-clone-script/">peoplepod</a></li></ul></div><h3><a class="rsswidget external" href="http://wpbay.net/feed" title="Syndicate this content" rel="nofollow" target="_blank"><img style="border:0" width="14" height="14" src="http://scriptech.net/wp-includes/images/rss.png" alt="RSS"></a> <a class="rsswidget external" href="http://wpbay.net" title="The Best Wordpress Themes and Plugins" rel="nofollow" target="_blank">Wordpress Resources</a></h3><div class="box"><ul><li><a class="rsswidget external" href="http://wpbay.net/wp-premium-themes/wordpress-auction-theme/" title="WordPress Auction Theme is the only premium theme that offers to turn your blog into a genuine auction website. Starting an auction website based on a well chosen niche can be very profitable such as a freelancer website, books etc. However, you should find the right niche for that. Moreover, as it is based on […]" rel="nofollow" target="_blank">WordPress Auction Theme</a></li><li><a class="rsswidget external" href="http://wpbay.net/wordpress-internet-marketing/wordpress-squeeze-page-generator/" title="A well-made squeeze page is the one of the most important factor for successful internet marketing. For that a “simple”  WordPress premium theme is not enough as special solutions are need relating to design, widgets, SEO etc. That is why we need a special WordPress squeeze page generator a sort theme engine that delivers the […]" rel="nofollow" target="_blank">Ultimate WordPress Squeeze Page Generator</a></li><li><a class="rsswidget external" href="http://wpbay.net/wordpress-seo-2/wp-seo-plugin-best-keywords-posts/" title="Again another great Wp Seo plugin has been released by Daniel Lew creator of many useful WordPress plugins. Fortunately, nowadays many useful WP SEO plugins have been released that make the life of the bloggers easier and Keywordwinner is one of the most useful. This plugin helps you to find targeted highly searched, but non […]" rel="nofollow" target="_blank">WP SEO Plugin For Best Keywords</a></li><li><a class="rsswidget external" href="http://wpbay.net/wordpress-internet-marketing/product-launch-template/" title="Product launch is a very effective internet marketing method. Generally, the  goal of product launch is to build up excitement in your niche so when your product is finally available, everyone rushes to place their order. However, for to make effective product launch project you need many internet marketing tools such as a good product […]" rel="nofollow" target="_blank">Product Launch Template – Product Launch Theme For WordPress</a></li><li><a class="rsswidget external" href="http://wpbay.net/wordpress-premium-plugins/wordpress-form-plugin-gravity-form-review/" title="For one of my online project I was searching for a WordPress form plugin. First I check the free Wp form plugins, and I found many, but after checking them I found them quite hard to manage and to tell the truth I did not find enough options in those. OK, most of these WordPress […]" rel="nofollow" target="_blank">WordPress Form Plugin</a></li><li><a class="rsswidget external" href="http://wpbay.net/wp-premium-themes/wordpress-aggregator-theme/" title="WordPress Aggregator Theme is one of the free premium themes of Templatic designers. They are the developers of many professional looking themes and CMS themes such as . This WordPress Aggregator theme aggregates all your feeds of all kind at once placing them in a perfect format. You simple add the RSS feeds and that […]" rel="nofollow" target="_blank">Premium WordPress Aggregator Theme</a></li><li><a class="rsswidget external" href="http://wpbay.net/wp-premium-themes/premium-wordpress-restaurant-theme/" title="I have already written about many Templatic themes and now I’m showing you another one which is a perfect looking WordPress Restaurant Theme having all the function you need to present your dishes, menu and give information about your restaurant. You do not have to be a programmer to modify this theme as functions are […]" rel="nofollow" target="_blank">Premium WordPress Restaurant Theme</a></li><li><a class="rsswidget external" href="http://wpbay.net/wordpress-autoblogging/wp-autoblog-plugin-getting-content-twitter/" title="About Topic Storm WP Autoblog Plugin Generally when we talk about WP autoblog plugins such as WP Robot we think about ones that get content from article directories, Amazon, eBay, Yahoo Answers, Flickr and other resources. We add keywords or phrases and these autoblogging plugins add content to our blog. You set them up and […]" rel="nofollow" target="_blank">WP Autoblog Plugin Getting Content Based On Twitter</a></li></ul></div>  </div>
+  <!--end: right widget-->
+</div>
+<!--end: sidebar-->
+<div class="clear"></div>
+
+
+<div id="footer">
+
+  <div class="left"><h4>Archives</h4><div class="box">		<ul>
+			<li><a href="http://scriptech.net/2011/05/" title="May 2011">May 2011</a></li>
+	<li><a href="http://scriptech.net/2011/04/" title="April 2011">April 2011</a></li>
+	<li><a href="http://scriptech.net/2011/03/" title="March 2011">March 2011</a></li>
+	<li><a href="http://scriptech.net/2011/02/" title="February 2011">February 2011</a></li>
+	<li><a href="http://scriptech.net/2011/01/" title="January 2011">January 2011</a></li>
+	<li><a href="http://scriptech.net/2010/12/" title="December 2010">December 2010</a></li>
+	<li><a href="http://scriptech.net/2010/11/" title="November 2010">November 2010</a></li>
+	<li><a href="http://scriptech.net/2010/10/" title="October 2010">October 2010</a></li>
+	<li><a href="http://scriptech.net/2010/09/" title="September 2010">September 2010</a></li>
+	<li><a href="http://scriptech.net/2010/08/" title="August 2010">August 2010</a></li>
+	<li><a href="http://scriptech.net/2010/07/" title="July 2010">July 2010</a></li>
+	<li><a href="http://scriptech.net/2010/06/" title="June 2010">June 2010</a></li>
+	<li><a href="http://scriptech.net/2010/05/" title="May 2010">May 2010</a></li>
+	<li><a href="http://scriptech.net/2010/04/" title="April 2010">April 2010</a></li>
+	<li><a href="http://scriptech.net/2010/03/" title="March 2010">March 2010</a></li>
+	<li><a href="http://scriptech.net/2010/02/" title="February 2010">February 2010</a></li>
+	<li><a href="http://scriptech.net/2010/01/" title="January 2010">January 2010</a></li>
+	<li><a href="http://scriptech.net/2009/12/" title="December 2009">December 2009</a></li>
+		</ul>
+</div></div><div class="left"><h4>Pages</h4><div class="box">		<ul>
+			<li class="page_item page-item-2"><a href="http://scriptech.net/about/" title="Collection of quality scripts and webmaster resources.">About</a></li>
+<li class="page_item page-item-4346"><a href="http://scriptech.net/contact-2/" title="Contact">Contact</a></li>
+<li class="page_item page-item-337"><a href="http://scriptech.net/partners/" title="Partners">Partners</a></li>
+<li class="page_item page-item-4147 current_page_item"><a href="http://scriptech.net/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+<li class="page_item page-item-2413"><a href="http://scriptech.net/sitemap/" title="Sitemap">Sitemap</a></li>
+		</ul>
+		</div></div><div class="left"><h4>Popular Search Terms</h4><div class="box"><a href="http://scriptech.net/search/wordpress-hotel-theme/" title="wordpress hotel theme">wordpress hotel theme</a>, <a href="http://scriptech.net/search/tumblr-layout-generator/" title="tumblr layout generator">tumblr layout generator</a>, <a href="http://scriptech.net/search/wordpress-autoblog/" title="wordpress autoblog">wordpress autoblog</a>, <a href="http://scriptech.net/search/tumblr-theme-generator/" title="tumblr theme generator">tumblr theme generator</a>, <a href="http://scriptech.net/search/free-file-hosting-script/" title="free file hosting script">free file hosting script</a>, <a href="http://scriptech.net/search/youtube-theme-maker/" title="YouTube Theme Maker">YouTube Theme Maker</a>, <a href="http://scriptech.net/search/bit-ly-clone/" title="bit ly clone">bit ly clone</a>, <a href="http://scriptech.net/search/wordpress-theme-creator/" title="wordpress theme creator">wordpress theme creator</a>, <a href="http://scriptech.net/search/youtube-theme-creator/" title="youtube theme creator">youtube theme creator</a>, <a href="http://scriptech.net/search/facebook-clone/" title="facebook clone">facebook clone</a><!-- SEO SearchTerms Tagging 2 Plugin --></div></div><div class="left"><h4>Recent Search Terms</h4><div class="box"><a href="http://scriptech.net/search/tumblr-theme-creator/" title="tumblr theme creator">tumblr theme creator</a>, <a href="http://scriptech.net/search/wordpress-deals-aggregator/" title="wordpress deals aggregator">wordpress deals aggregator</a>, <a href="http://scriptech.net/search/best-wordpress-classified-scripts/" title="best wordpress classified scripts">best wordpress classified scripts</a>, <a href="http://scriptech.net/search/best-wordpress-classified-scripts/" title="best wordpress classified scripts">best wordpress classified scripts</a>, <a href="http://scriptech.net/search/facebook-polling-script/" title="facebook polling script">facebook polling script</a>, <a href="http://scriptech.net/search/free-link-building-software/" title="free link building software">free link building software</a>, <a href="http://scriptech.net/search/e-bitly-codes-clone/" title="e bitly codes clone">e bitly codes clone</a>, <a href="http://scriptech.net/search/facebook-squeeze-page-script/" title="facebook squeeze page script">facebook squeeze page script</a>, <a href="http://scriptech.net/search/facebook-squeeze-page-script/" title="facebook squeeze page script">facebook squeeze page script</a>, <a href="http://scriptech.net/search/wordpress-jokes-script/" title="wordpress jokes script">wordpress jokes script</a><!-- SEO SearchTerms Tagging 2 Plugin --></div></div>
+  <div class="clear"></div>
+
+</div>
+
+
+<!--end: footer-->
+
+<div class="clear"></div>
+
+<div id="bottom">
+
+  <div class="left">
+
+    Copyright © 2009
+    <a href="http://scriptech.net">Scripts, Tips and Software for Webmasters</a>.
+
+    All rights reserved.
+  </div>
+
+<!--end: bottom-->
+
+</div>
+
+<div class="clear"></div>
+
+<!--end: wrapper-->
+
+
+<!--begin: blog tracking-->
+
+
+<!--end: blog tracking-->
+
+
+<!-- IP Address already used for pinging in the last 24 hours -->
+
+<!-- Dynamic Page Served (once) in 0.633 seconds -->
+</div></body></html>
