@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drakerock.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127203113id_/http%3A//www.drakerock.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drakerock.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515035417id_/http%3A//www.drakerock.com/privacy.cfm) for the most accurate reproduction.*
 
-# DrakeRock.com Privacy Policy
+# Drake Rock Privacy Policy
 
 Your privacy is very important to Drake Rock Media. The following Privacy Policy explains how we collect, use, and safeguard the information you provide to us through the DrakeRock.com web site and its related features and functions.
 
@@ -8,9 +8,9 @@ DRAKE ROCK MEDIA, INC. ("Company" or "we"), the owner and operator of DrakeRock.
 
 BEFORE YOU BEGIN OR CONTINUE TO USE THE SITE, OR ANY SERVICES OR FUNCTIONALITY PROVIDED BY OR THROUGH THE SITE, PLEASE CAREFULLY READ THIS PRIVACY POLICY. THIS PRIVACY POLICY CONTAINS IMPORTANT INFORMATION. IT IS ALSO VERY IMPORTANT THAT YOU FULLY UNDERSTAND OUR POLICY BECAUSE BY YOUR USE OR CONTINUED USE OF THIS SITE OR ANY OF ITS RELATED SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY IN ITS ENTIRETY AND THAT YOU AGREE TO THE COLLECTION AND USE OF INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU, INCLUDING PERSONAL INFORMATION, AS DETAILED IN THIS POLICY STATEMENT.
 
-ONLY ADULTS ARE AUTHORIZED TO USE THIS SITE. AUTHORIZED ACCESS AND USE OF THE SITE, ITS DATABASES AND FUNCTIONALITY IS LIMITED TO PERSONS OVER THE AGE OF EIGHTEEN YEARS, AND SUCH ACCESS AND USE IS LIMITED BY OUR [TERMS AND CONDITIONS](https://web.archive.org/web/20101127203113id_/http%3A//www.drakerock.com/TandC.cfm). THE COMPANY DOES NOT KNOWINGLY SEEK OR COLLECT ANY PERSONAL INFORMATION OR OTHER DATA FROM ANY PERSONS UNDER THE AGE OF EIGHTEEN YEARS.
+ONLY ADULTS ARE AUTHORIZED TO USE THIS SITE. AUTHORIZED ACCESS AND USE OF THE SITE, ITS DATABASES AND FUNCTIONALITY IS LIMITED TO PERSONS OVER THE AGE OF EIGHTEEN YEARS, AND SUCH ACCESS AND USE IS LIMITED BY OUR [TERMS AND CONDITIONS](https://web.archive.org/web/20110525021226id_/http://www.drakerock.com/TandC.cfm). THE COMPANY DOES NOT KNOWINGLY SEEK OR COLLECT ANY PERSONAL INFORMATION OR OTHER DATA FROM ANY PERSONS UNDER THE AGE OF EIGHTEEN YEARS.
 
-IF YOU DO NOT UNDERSTAND OR DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY AND OUR [TERMS AND CONDITIONS](https://web.archive.org/web/20101127203113id_/http%3A//www.drakerock.com/TandC.cfm) YOU SHOULD NOT USE THIS SITE OR THE SERVICES OFFERED OR OTHERWISE PROVIDED BY OR THROUGH THIS SITE.
+IF YOU DO NOT UNDERSTAND OR DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY AND OUR [TERMS AND CONDITIONS](https://web.archive.org/web/20110525021226id_/http://www.drakerock.com/TandC.cfm) YOU SHOULD NOT USE THIS SITE OR THE SERVICES OFFERED OR OTHERWISE PROVIDED BY OR THROUGH THIS SITE.
 
 1\. Information Security 
 
@@ -26,7 +26,7 @@ The only personally-identifying information we collect and store about you is th
 
 When a visitor, member, subscriber, or other Site user requests web pages from the Site's server, clicks on banners or other links or otherwise uses the Site's services or other functionalities, we or our agents may automatically collect some information or data about the user and the user's Site use, including the IP address from which the Site is being accessed, the pages or links that were requested, the special preferences or requests of the user and cookie information received from the computer of the user. You agree that all such information and other Data may be collected and used by the Site and its agents.
 
-When any Site user signs-on as a member or subscriber of this Site or related services, that person will be required to provide certain personal as well as demographic information. Such Optional Information may include, but is not necessarily limited to, the subscriber's name, address, birthday, e-mail address, gender, marital status, occupation, education, username and password, and special interests or affiliations. The Company's Internet Payment Service Provider may collect any and all such Optional Information and include it in its databases with Data and other information.
+When any Site user signs-on as a member or subscriber of this Site or related services, that person will be required to provide certain personal as well as demographic information. Such Optional Information may include, but is not necessarily limited to, the subscriber's name, address, birthday, e-mail address, gender, marital status, occupation, education, credit card number and expiration date of the credit card, username and password, and special interests or affiliations. The Company's Internet Payment Service Provider may collect any and all such Optional Information and include it in its databases with Data and other information.
 
 If a visitor, member, subscriber, or other Site user sends any personal communication or correspondence, by any means, to the Site, the Company or any of its employees, agents or representatives, we may collect, in databases and otherwise, and use, any and all such information and other Data regarding that communication, consistent with this privacy policy.
 
