@@ -1,61 +1,59 @@
-> *The following text is extracted and transformed from the greatclips.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218033723id_/http%3A//www.greatclips.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatclips.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515095114id_/http%3A//www.greatclips.com/Com/privacy-statement) for the most accurate reproduction.*
 
-# Great Clips, Inc. - Privacy
+# GreatClips.com - Privacy Statement
 
-**Privacy Practices Related to Consumer Data**
+**Privacy Practices Related to Customer Data** , Effective August 2, 2010
 
-At Great Clips Inc. (“Great Clips”), the privacy of our customers is important to us. We collect and use personal information about our customers to create and maintain a relationship that allows us to provide them with quality services and products. We are careful to ensure this information is used responsibly, and only for the purposes for which it was given to us.
+At Great Clips Inc. (“Great Clips” or “we” or “our”), the privacy of our customers is important to us. We collect and use personal information at Great Clips salons and at [www.greatclips.com](http://www.greatclips.com/) (the “Site”) about our customers to create and maintain a relationship that allows us to provide quality services and products. We are careful to ensure this information is used responsibly, and only for the purposes for which it was given to us.
 
-**What is Personal Information?**
+We reserve the right to modify our Privacy Practices from time to time and will mark new versions with a corresponding effective date. We recommend customers visit the Site or any Great Clips salons periodically to review any changes in our practices.
 
-There are several pieces of personal information that we may collect from our customers. This information is typically collected in the salon during a customer visit; however, it could also be collected over the telephone, through the mail, or over the internet.
+**What Information is Collected?**   
+We may collect personal information from customers at Great Clips salons or on the Site. This information is voluntarily provided by the customer and may include information such as a customer’s name, address, telephone number, email address, personal preferences, or other personal identifier. This information may be collected in a Great Clips salon, but can also be collected on this Site for participation in a sweepstakes or other give-away, to locate a salon, to provide “check-in” information electronically through the Salon Locator section, or to otherwise participate in activities or services generated on the Site. The Site may also collect customers’ general information (such as the type of browser used or the files requested) to improve the Site and better meet your needs.
 
 The information we may collect includes, but may not be limited to:
 
-  * a customer’s identity or contact information, such as their name, address, and phone number; or,
-  * a customer’s transaction history with Great Clips for products or services they have obtained from us.
+  * A customer’s identity or contact information, such as their name, address, and phone number; 
+  * A customer’s transaction history with Great Clips for products or services they have obtained from us; or 
+  * Computer data or files, often called “cookies,” which may be sent by a customer’s web browser and stored on an individual computer to allow our server to “recognize” the customer through the navigation of the Site. 
+  * Customer’s IP address to measure our website traffic and to help provide more personalized salon information. 
 
 
 
-**Why Do We Collect and Use Personal Information?**
+**How is Personal Information Used?  
+** We collect basic information about our customers in order to conduct business and provide services to them. We use personal information about our customers for a variety of purposes related to our business, including but not limited to:
 
-We collect basic information about our customers in order to conduct business and provide services to them. We use personal information about our customers for the following purposes:
+• Providing quality, efficient haircuts with personalized service;   
+• Tracking information about our customers’ last visit, such as technical information related to a particular haircut or products purchased;   
+• Learning about who our customers are, how often they visit us, and their expectations pertaining to their services so we can continue to meet their needs;   
+• Sending or initiating direct marketing programs;  
+• Contacting customers when they have left a personal item in the salon.
 
-  * to provide quality, efficient haircuts with personalized service
-  * to remember information about our customers’ last visit, such as technical information related to a particular haircut or products purchased
-  * to learn about who our customers are, how often they visit us, and their expectations pertaining to their services so we can continue to meet their needs
-  * to send or initiate direct mail marketing programs
-  * to be able to contact customers when they have left a personal item in the salon
+**How is Customer Information Shared and Protected?  
+** Great Clips may provide customer information to third service providers or vendors for purposes of, including without limitation, initiating direct marketing programs, data tracking, maintenance or development of the Site, or other contracted promotional opportunities provided to the customer. Great Clips may share this information with any subsidiaries, licensees, affiliates, assigns, successors, or other respective owners. Great Clips may also share your personal information in connection with law enforcement requests or in response to subpoenas, court orders, or other legal process to establish or exercise our legal rights or defend against legal claims.
 
+We employ administration, technical and physical safeguards to maintain the confidentiality of customer information.
 
+**How Can Customers Limit Information Collected?**   
+By providing information to Great Clips salons or browsing or providing information on the Site, customers are providing their consent for Great Clips to use their personal information as outlined in these Privacy Practices. For more information, please review our [Terms of Use](https://web.archive.org/terms-of-use). 
 
-Great Clips may provide customer information to a third party vendor for purposes of initiating direct mail marketing programs, or for storage of information for internal reporting purposes only. These vendors have signed confidentiality agreements and are held highly accountable for the protection and proper use of this information.
+While we work hard to ensure we use and disclose our customers’ personal information only for the purposes identified above, customers can choose not to provide personal information or limit the personal information obtained by us as follows:
 
-**What Choices Do You Have?**
-
-By providing information to the staff in the salons, customers are providing their consent for Great Clips to obtain and use their personal information as outlined in this Privacy Practice.
-
-While we work hard to ensure we use and disclose our customers’ personal information only for the purposes identified above, customers can choose to refuse to provide personal information or withdraw their consent at any time, as follows:
-
-  * Customers may have their contact information removed from our marketing lists that are used to inform customers of new or relevant products, services and special offers that may benefit them.
-  * Customers may refuse to provide personal information to us or withdraw their consent at any time. However, in either case this may limit our ability to provide a customer with the highest quality service possible.
-
+  * Customers may have their contact information removed from our marketing lists that are used to inform customers of new or relevant products, services and special offers that may benefit them; 
+  * Customers may refuse to provide personal information to us or withdraw their consent at the time requested or by contacting us as described below. This withdrawal of information may limit our ability to provide a customer with the highest quality service possible.
 
 
-If customers wish to have their name removed from our database, they can use one of the following methods to contact us:
 
-  * Access our website at www.greatclips.com, and select "Company". Click on "Contact Us" to send an e-mail.
-  * Call our corporate offices at 1-800-GREATCLIPS and leave a message with their contact information.
+If customers wish to have their name removed from our database or wish to review any of their information, they can use one of the following methods to contact us:
+
+  * Access our website at [www.greatclips.com](http://www.greatclips.com/), and select “Contact Us” found in the footer to send an e-mail. 
+  * Call our corporate offices at 1-800-473-2825 and leave a message with their contact information.
 
 
 
 For additional information pertaining to our Privacy Practices, please contact:
 
-> Vice President, Franchise Services & Human Resources  
->  Great Clips, Inc.  
->  7700 France Avenue South, Suite 425  
->  Minneapolis, MN 55435
-
-**Canada Privacy Act Information**
-
-Canadian customers who want additional information on the Privacy Practices for a particular salon location can obtain this information at the salon.
+Legal Department  
+7700 France Avenue South  
+Suite, 425  
+Minneapolis, MN 55435
