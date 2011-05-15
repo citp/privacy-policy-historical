@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycouponexpert.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218112714id_/http%3A//mycouponexpert.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycouponexpert.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516003437id_/http%3A//mycouponexpert.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
