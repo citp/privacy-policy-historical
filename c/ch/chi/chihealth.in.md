@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chihealth.in privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109124411id_/http%3A//chihealth.in/dietnut/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chihealth.in privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515160140id_/http%3A//www.chihealth.in/privacypolicy) for the most accurate reproduction.*
 
 # ChiHealth - Weight loss, Diet, Fitness, Health and Wellness at an arm's Length !
 
@@ -15,6 +15,11 @@ At ChiHealth, we respect your privacy and believe you should be informed about h
 **Modifications to the Privacy Policy** We may make changes to the Privacy Policy from time to time in our sole discretion. We will post any such changes on the Website along with a notice on the Website that such changes have been made. Your continued use of the Web Site following the posting of such changes constitutes your acceptance of any such changes. If you do not agree with this Privacy Policy, or any revised versions thereof, you may not use the Website.
 
 **Queries** If you have a question or comment about the ChiHealth site or a request to correct or delete your Personal Information, please contact us at info@ChiHealth.in. We will fulfill your request with in a timely manner. However, please be aware that even if ChiHealth deletes such Personal Information from its 'live' databases, such information may still be stored on other databases (including those kept for archival purposes) and will take reasonable effort and time to effect the changes. 
+
+**Accuracy of Information** **   
+**The information contained in this website is for general information purposes only. The information is provided by ChiHealth and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.Through this website you are able to link to other websites which are not under the control of ChiHealth. We have no control over the nature, content and availability of those sites. The inclusion of any links does not necessarily imply a recommendation or endorse the views expressed within them.
+
+In no event will we be liable for any loss or damage including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising out of, or in connection with, the use of this website.
 
 **Privacy Policy  
 \-- By ChiHealth Support**
