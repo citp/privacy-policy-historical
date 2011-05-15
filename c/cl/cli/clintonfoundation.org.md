@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clintonfoundation.org privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224061836id_/http%3A//clintonfoundation.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clintonfoundation.org privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515224453id_/http%3A//www.clintonfoundation.org/privacy) for the most accurate reproduction.*
 
 # Privacy | William J. Clinton Foundation
 
