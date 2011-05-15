@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skdtac.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113205236id_/http%3A//www.skdtac.com/skd_tactical_terms_a/147.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skdtac.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515082629id_/http%3A//www.skdtac.com/skd_tactical_terms_a/147.htm) for the most accurate reproduction.*
 
-# Tactical Gear, AR15 Parts, Chest Rigs, Plate Carriers, Pouches, MultiCam Gear :: SKD TACTICAL
+# SKD Tactical | Select Military and Law Enforcement Tactical Gear and Equipment
 
 **SKD respects your privacy, and we are committed to protecting it.**
 
