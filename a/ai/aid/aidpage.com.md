@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aidpage.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314054124id_/http%3A//www.peoplenetworks.com/legal/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aidpage.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515143028id_/http%3A//www.peoplenetworks.com/legal/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# People Networks Inc. - Privacy Policy
+# Privacy Policy - People Networks Inc.
 
   1. Our Commitment to Privacy
   2. The Information We Gather
@@ -14,7 +14,7 @@
 
 ##### 1\. Our Commitment To Privacy
 
-We, at People Networks, Inc. ("People Networks"), understand and care about the importance of your online privacy rights. Please, read this Privacy Policy statement, which describes what personally identifiable information ("PII") we collect from you and what we do or do not do in order to better protect it. The Privacy Policy deals strictly with what People Networks does with your PII submitted via listed here People Networks' services ("Services") and People Networks' websites ("Sites") only and does not deal with, or take responsibility of what others may do with your PII if you decide to publish any part of you personally identifiable information on any of the People Networks public or restricted Sites. This notice applies to all current Sites' visitors ("Visitors") and members ("Members") as well as former Visitors and Members of the following Sites only: PeopleNetworks.com, AidPage.com, Tutmanik.com, VegasAgain.com, PublicPost.com, JuicePool.com, and JuiceTorrent.com. If you have objections to the Privacy Policy, you should not access and use the Sites and Services. If you have questions or concerns about People Networks Privacy Policy, you can always contact us via mail sent to: Re: Privacy Policy, People Networks Inc., 9577 Big Man St., Las Vegas, NV 89123, USA.
+We, at People Networks, Inc. ("People Networks"), understand and care about the importance of your online privacy rights. Please, read this Privacy Policy statement, which describes what personally identifiable information ("PII") we collect from you and what we do or do not do in order to better protect it. The Privacy Policy deals strictly with what People Networks does with your PII submitted via listed here People Networks' services ("Services") and People Networks' websites ("Sites") only and does not deal with, or take responsibility of what others may do with your PII if you decide to publish any part of you personally identifiable information on any of the People Networks public or restricted Sites. This notice applies to all current Sites' visitors ("Visitors") and members ("Members") as well as former Visitors and Members of the Sites. If you have objections to the Privacy Policy, you should not access and use the Sites and Services. If you have questions or concerns about People Networks Privacy Policy, you can always contact us via mail sent to: Re: Privacy Policy, People Networks Inc., 16192 Coastal Hwy, Lewes, Delaware 19958, USA.
 
 ##### 2\. The Information We Gather
 
@@ -54,7 +54,7 @@ Finally, we never use or share the personally identifiable information provided 
 
 ##### 4\. Third Party Services
 
-On some of the Sites People Networks may use third party services for the purpose of serving and/or targeting of ads, promotions and other marketing messages. In order to perform their services such third parties normally collect anonymous data through the use of cookies. To learn more about their privacy information use practices visit their respective privacy policy sites.
+On some of the Sites, People Networks may use third party services for the purpose of serving and/or targeting of ads, promotions and other marketing messages. In order to perform their services, such third parties normally collect anonymous data through the use of cookies. Specifically, we use Google's services. Google, as a third party service, uses cookies to serve ads on our sites. Google's use of the DART cookie enables it to serve ads to users based on their visits to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 ##### 5\. Data Security
 
@@ -68,7 +68,11 @@ In case People Networks sells its assets to another entity or is acquired or mer
 
 ##### 7\. How to Contact Us
 
-Should you have questions or concerns about this Privacy Policy, please write us at: Re: Privacy Policy, People Networks Inc., 9577 Big Man St., Las Vegas, NV 89123 USA.
+Should you have questions or concerns about this Privacy Policy, please write us at:
 
-© 2007-2008 People Networks. All Rights Reserved.  
+People Networks Inc.  
+16192 Coastal Hwy  
+Lewes, DE 19958
+
+© 2007-2011 People Networks. All Rights Reserved.  
  
