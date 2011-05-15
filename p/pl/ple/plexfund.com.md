@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plexfund.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614003230id_/http%3A//www.plexfund.com/%3Fa%3Dcust%26page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plexfund.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515034143id_/http%3A//plexfund.com/%3Fa%3Dcust%26page%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Plex Fund Online Investment Program
 
@@ -56,7 +56,7 @@ This privacy policy does not apply if you access another website through a link 
 
  **Resolving concerns**
 
-If you believe that the privacy of your personal information has been compromised, you are entitled to complain. Complaints can be made by contacting us using Contact Us form. We will respond to your concerns as soon as possible.
+If you believe that the privacy of your personal information has been compromised, you are entitled to complain. Complaints can be made by contacting us using Contact Us form. We will respond to your concerns as soon as possible. 
 
   
  
