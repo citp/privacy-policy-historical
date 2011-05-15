@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627031258id_/http%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.com.au privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515105158id_/http%3A//www.vodafone.com.au/personal/aboutvodafone/legal/privacypolicy/index.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Legal - Vodafone Australia
+# About - Legal - Privacy Policy - Vodafone Australia
 
 Vodafone Australia, as part of the world's largest mobile phone company, is committed to adopting the highest standards to safeguard our customers' personal information.
 
@@ -30,7 +30,7 @@ The personal information you provide Vodafone may be used for a number of purpos
 
 
 
-We may also use your personal information for purposes related to those described above which would be reasonably expected by you. For example, we may use your personal information to keep you informed about features of our telecommunications services or conducting analysis in order to provide better service to you. To opt-out of receiving certain Vodafone marketing materials, please **complete and submit this[form](https://web.archive.org/web/20100627031258id_/http%3A//www.vodafone.com.au/help/unsubscribe/index.htm)** or contact **1555 from your Vodafone mobile** or **1300 650 410**. Please note that Vodafone will still need to send you essential information about your account or changes to your service.
+We may also use your personal information for purposes related to those described above which would be reasonably expected by you. For example, we may use your personal information to keep you informed about features of our telecommunications services or conducting analysis in order to provide better service to you. To opt-out of receiving certain Vodafone marketing materials, please contact **1555 from your Vodafone mobile** or **1300 650 410**. Please note that Vodafone will still need to send you essential information about your account or changes to your service.
 
 We will not use your information for purposes other than described above unless we have your consent or there are specified law enforcement or public health and safety reasons.
 
@@ -52,8 +52,14 @@ We will take reasonable steps to ensure that the personal information we collect
 
 Vodafone will take reasonable steps to let you know, generally, what sort of personal information we hold, for what purposes and how we collect, use and disclose that information.
 
-Upon your request, Vodafone will provide access to your personal information we hold, except in certain prescribed circumstances, including emergency situations, specified business imperatives and law enforcement or other public interests.
+If you would like to access the personal information that Vodafone holds about you, please complete the below form. The return address details are included on the form.
+
+[_Download Personal Information Request form_](https://web.archive.org/web/20110515105158id_/http%3A//www.vodafone.com.au/stelprd/groups/webcontent/documents/webcontent/vodafone-privacy-request-form.doc)
 
 **How to contact us**
 
 If you have any queries or concerns, please contact Customer Care by phoning contact **1555 from your Vodafone mobile** or **1300 650 410** from any phone.
+
+If you would like to report an alleged privacy breach, please fill in the below form. The return address details are included on the form. Please ensure the form is completed with all information requested. A member of Vodafone's Privacy team will be in contact within 14 days from receipt of your form.
+
+[_Download Vodafone Privacy Breach form here_](https://web.archive.org/web/20110515105158id_/http%3A//www.vodafone.com.au/stelprd/groups/webcontent/documents/webcontent/vha-privacy-breach-form.doc)
