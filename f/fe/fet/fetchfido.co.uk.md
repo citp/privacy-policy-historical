@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetchfido.co.uk privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231211008id_/http%3A//www.fetchfido.co.uk/home/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchfido.co.uk privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515053634id_/http%3A//www.fetchfido.co.uk/home/privacy.htm) for the most accurate reproduction.*
 
 # Privicy Policy
 
@@ -12,9 +12,6 @@ We only collect personally identifiable information that you voluntarily and kno
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Fetchfido has no access to information collected in this way.
 
 If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
-
-The site fully agrees and complies to [COPPA](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm) rules.  
-
 
 Fetchfido contains links to other sites, Fetchfido is not responsible for the privacy practices or the content of such Web sites.
 
