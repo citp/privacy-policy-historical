@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewatchhut.co.uk privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211175718id_/http%3A//www.thewatchhut.co.uk/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewatchhut.co.uk privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515060304id_/http%3A//www.thewatchhut.co.uk/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement Watches | Quality Designer Watches | The Watch Hut (Page 1)
 
@@ -29,3 +29,5 @@ We use cookies on our website to keep track of the contents of your shopping bas
 ## Payment Information
 
 All payments are processed over a secure server and are fully encrypted, using SSL technology, by our payment provider Sage Pay/HSBC. All of your sensitive card information is encrypted and is not held in clear text on any site. The payment provider will use the information you provide to run security and fraud checks as necessary. Because this information is encrypted and handled by our payment providers we do not store any of this information on our website nor do we have access to your complete card details at any time.
+
+2
