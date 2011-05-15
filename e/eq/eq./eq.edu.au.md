@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eq.edu.au privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212132526id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eq.edu.au privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515034617id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
 
 # Education Queensland
 
@@ -23,7 +23,7 @@ No attempt is or will be made to identify you or to use or disclose your persona
 
 ## Email
 
-This is a Queensland Government website. Email correspondence from this website will be treated as a public record and will be retained as required by the [Public Records Act 2002](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/P/PublicRecA02.pdf) [](https://web.archive.org/about/files/external.html "About external links") [PDF 428KB].
+This is a Queensland Government website. Email correspondence from this website will be treated as a public record and will be retained as required by the [Public Records Act 2002](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/P/PublicRecA02.pdf) [PDF 428KB].
 
 We will collect and handle your personal information in accordance with the _Information Privacy Act 2009_. We will not use your personal information to compile a mailing list or for marketing purposes.
 
