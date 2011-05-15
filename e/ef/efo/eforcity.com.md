@@ -1,61 +1,115 @@
-> *The following text is extracted and transformed from the eforcity.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507012309id_/http%3A//www.eforcity.com/privacy.html%3Fint%3Deffotrtxtbot01-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eforcity.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515042315id_/http%3A//privacy-policy.truste.com/verified-policy/www.eforcity.com) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for www.eforcity.com
 
-eForCity Corporation has created this privacy statement in order to demonstrate our company’s commitment to privacy. The privacy of our customers is one of our top priorities and the information we collect is completely confidential. The following discloses our information gathering and dissemination practices for this web site: eForCity.com. 
+Effective on June 30, 2010
 
-**The Information We Collect**
+This privacy statement describes how eForCity Corporation collects and uses the personal information you provide on our Web site: [www.eforcity.com](https://www.eforcity.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-We collect your information when you place an order, abandon your shopping cart or sign up for our email newsletter. Information we collect in these instances includes your name, address, e-mail address, phone number, and credit or debit card information. 
+**TRUSTe**
 
-**The Way We Use Your Information**
+eForCity Corporation is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-We use the information you provided only to complete transactions, confirm orders and communicate shipping status. Your information will not be sold, exchanged, transferred or disclosed to any other parties other than for the purpose of processing your orders or delivering services requested by the customer. 
+If you have questions or concerns regarding this policy, you should first contact us at [service@eforcity.com](mailto:service@eforcity.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-**Collection of Children’s Personal Information**
+## Collection and Use of Personal Information
 
-eForCity is committed to protecting the privacy and welfare of children. eForCity does not knowingly or intentionally collect personal information online from children under the age of 13. All products are sold for the purchase by adults only, if you are under the age of 18, you must seek approval from your parent or guardian to purchase products on this site. 
+We collect the following personal information from you
 
-**Email Newsletter Opt-In/Opt Out**
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
 
-If you subscribe to our email newsletter, we will use the email you provided to send company information and promotional materials only. Customers may choose to opt-out at any time by clicking the “unsubscribe” link in the email. 
 
-**Do we Use Cookies and Why?**
 
-eForCity uses cookies in order for us to customize certain Web pages to help identify you and your shopping cart. Cookies are small files sent and stored onto a user’s computer by our web browser. If you disabled the cookies for our website, we will be unable to recognize your browser and identify your shopping cart. 
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-We use your IP address to help administer our Web site and diagnose any problems with our server. Your IP address may also be used by a third part anonymously to gather broad demographic information for research purposes. Personally identifiable information will not be linked to IP addresses.
+We use this information to
 
-**Your Information Security**
+  * Fulfill your order
+  * Send you an order confirmation
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Send you marketing communications
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Facilitate your transactions with other users
 
-The security of our customer’s information is very important to us. eForCity uses the Security for merchants from Yahoo! Services. 
 
-Yahoo! uses SSL (Secure Socket Layer) encryption while transmitting certain kinds of information, such as financial services information or payment information. An icon resembling a padlock is displayed at the bottom of most browser windows during SSL transactions that involve credit cards and other forms of payment. Credit card numbers are SSL encrypted whenever Yahoo! requests it for payment or verification purposes. Customer information will be stored securely on our servers. Once customers choose to store or enter a credit card number on Yahoo!, it will not be displayed in its entirety when customers retrieve or edit it in the future. Instead of the entire number, customers will only see asterisks and either the first four digits or the last four digits of the number.
 
-For information about Yahoo store Security see [Security at Yahoo!](http://info.yahoo.com/privacy/us/yahoo/security/). 
+**Choice/Opt-Out**
 
-**Our Commitment to You**
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [service@eforcity.com](mailto:service@eforcity.com).
 
-eForCity does not sell, trade, or transfer any of our customer’s personally identifiable information to outside parties. Personal information will not be used beyond what is necessary to assist your purchases and services you have requested. If, at any point, trusted third parties are needed to assist our web site or in servicing you, they must agree to keep this information confidential. eForCity also reserves the right to release your personally identifiable information when required by law enforcement or in order to protect our or other’s rights, safety, or property.
+**Information Obtained from Third Parties**
 
-**Amendment of Privacy Policy**
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-eForCity reserves the right to change our privacy policy and will post those changes on this page, our homepage, and other places we deem appropriate. You will be aware of what information we collect, how we use it, and under what circumstances will information be disclosed. Please review our Privacy & Security page frequently for any changes.
+## Information Sharing
 
-This policy was last modified on 03/03/2010
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-**Contacting Us**
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
-If you have any questions about this privacy statement, please contact:
+We may also disclose your personal information
 
-[www.eforcity.com](http://www.eforcity.com/)
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * if eForCity Corporation is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so. 
 
-12339 Denholm Dr
 
-El Monte CA 91732
 
-United States
+We make your contact information available to other users that you transact with on this site to help complete the transaction.
 
-[info@eforcity.com](mailto:%20info@eforcity.com)
+_Yahoo! Merchant Solutions_
 
-626.442.3168
+This site is hosted by Yahoo! Merchant Solutions. Yahoo! hosts the store pages, ordering system, and collects your billing information directly from you for the purpose of processing that information on our behalf. If you accessed [www.eforcity.com](https://www.eforcity.com/) through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience to allows us better understand who visits the site. Please see the [Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information.
+
+Yahoo! Merchant Solutions uses cookies and log files to track visitors to our site. The statistics collected provide us information about Web site usage.
+
+## Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of eForCity Corporation. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [service@eforcity.com](mailto:service@eforcity.com)
+
+In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
+
+## Additional Policy Information
+
+Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [service@eforcity.com](mailto:service@eforcity.com).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+eForCity Corporation
+
+12339 Denholm Dr 
+
+El Monte, CA, United States 91732
+
+Phone: 626-442-3168 
