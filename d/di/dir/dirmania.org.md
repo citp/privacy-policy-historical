@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirmania.org privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627130133id_/http%3A//www.dirmania.org/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirmania.org privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515082751id_/http%3A//www.dirmania.org/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
