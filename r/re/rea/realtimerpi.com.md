@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtimerpi.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225140511id_/http%3A//realtimerpi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtimerpi.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515130129id_/http%3A//www.realtimerpi.com/privacy.html) for the most accurate reproduction.*
 
 # RealTimeRPI.com Real Time Sport Rankings FAQs - A leading sports ratings and resources community on the Internet
 
