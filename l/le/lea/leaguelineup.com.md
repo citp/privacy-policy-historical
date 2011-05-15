@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217164025id_/http%3A//www.leaguelineup.com/faqs_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515041343id_/http%3A//leaguelineup.com/faqs_privacypolicy.asp) for the most accurate reproduction.*
 
 # LeagueLineup.com - Web Services
 
