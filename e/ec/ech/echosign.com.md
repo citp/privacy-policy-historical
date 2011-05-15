@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the echosign.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204005118id_/http%3A//www.echosign.com/public/static/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echosign.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515210904id_/http%3A//www.echosign.com/public/static/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy — Security and Privacy — EchoSign
 
