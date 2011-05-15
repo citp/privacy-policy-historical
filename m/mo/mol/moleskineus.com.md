@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moleskineus.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727110045id_/http%3A//www.moleskineus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moleskineus.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515150141id_/http%3A//www.moleskineus.com/privacy.html) for the most accurate reproduction.*
 
 # Moleskine US Privacy Policy, MoleskineUS
 
@@ -30,7 +30,7 @@ You may not know that your credit card provides 100% fraud protection for on-lin
 
 What your credit card protection provides:  
 ---  
-**American Express** |   | **Online Fraud Protection Guarantee** \- "Use the American Express Card online, and you  won't be held responsible for any unauthorized charges. Period. No fine print, no deductible - just ironclad protection, so you can shop with confidence anywhere on the Internet."  [ Read more >>](https://www212.americanexpress.com/dsmlive/dsm/dom/us/en/fraudprotectioncenter/fraudprotectioncenter_purchaseprotection.do?vgnextoid=126e0918a025c110VgnVCM200000d0faad94RCRD&vgnextchannel=9ee6d6954360c110VgnVCM100000defaad94RCRD&appinstancename=default)  
+**American Express** |   | **Online Fraud Protection Guarantee** \- "Use the American Express Card online, and you  won't be held responsible for any unauthorized charges. Period. No fine print, no deductible - just ironclad protection, so you can shop with confidence anywhere on the Internet."  [ Read more >>](https://web.archive.org/web/20110515150141id_/http%3A//www.moleskineus.com/www.americanexpress.com/cards/online_guarantee/)  
   |   | 
 
 * * *  
