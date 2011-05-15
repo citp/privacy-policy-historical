@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215125453id_/http%3A//funology.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515074808id_/http%3A//www.funology.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Funology.Com : Privacy Policy
 
@@ -42,6 +42,6 @@ ADVERTISEMENT
 
 [](https://web.archive.org/thats_odd/)
 
-The lead in pencils, really graphite, is made of the exact same thing as diamonds. Both are pure carbon which just formed under different pressures and temperatures. Intense heat and pressure form the carbon atoms into crystals making diamond, while lesser heat and pressure form the carbon into sheets making graphite. 
+If someone tells you you smell like flowers, it may not be a compliment if they are refering to the rafflesia flower. This flower smells like rotten meat! 
 
 |  [](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=334638801&mt=8)
