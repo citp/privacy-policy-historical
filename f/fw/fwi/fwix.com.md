@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwix.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216024947id_/http%3A//fwix.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwix.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515180906id_/http%3A//fwix.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fwix
 
@@ -61,4 +61,4 @@ Our web site may contain links to other web sites. Any personal information you 
 
 ### How can you correct and update your personal information or obtain additional information?
 
-If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [privacy@fwix.com](mailto:privacy@fwix.com) and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address: Fwix Inc., 901 Market Street, Suite 470, San Francisco, CA 94103. However, please note that is some cases, we may believe it is necessary or appropriate to retain certain personal information we have collected, and the deletion of such personal information will be in our sole discretion unless otherwise required by law. 
+If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct or delete any personal information we have collected, please contact us at [privacy@fwix.com](mailto:privacy@fwix.com) and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address: Fwix Inc., 140 2nd Street, Suite 300, San Francisco, CA 94105. However, please note that is some cases, we may believe it is necessary or appropriate to retain certain personal information we have collected, and the deletion of such personal information will be in our sole discretion unless otherwise required by law. 
