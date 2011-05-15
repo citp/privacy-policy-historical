@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerplanner.com privacy policy that was archived on 2010-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100506001036id_/http%3A//careerplanner.com/Support-Files/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerplanner.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515134136id_/http%3A//careerplanner.com/Support-Files/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy and Credit Card Security
 
@@ -8,9 +8,11 @@ We hate SPAM as much as anyone and we value personal privacy. You can count on u
 
 This means that information about your education, your career, your test results, hobbies, phone numbers, Email address, postal address, and interests will be kept totally confidential.
 
+The only exception is that if you are going through an independent career counselor or other organization to get your test results from us, they will of course have to have access to your test results.
+
 We are here to help people plan, change or re-invent their careers. Our mission is to help people. It's that simple. 
 
-## Information We Collect While You Are Visiting Our Site 
+## Information we collect while you are visiting our site 
 
 We collect normal "Web Statistics" as people visit our site. This is something almost all web sites do to improve the sites usability and reliability. Keeping a large web site running is a lot of work. 
 
@@ -25,7 +27,7 @@ This means that while you are on our site we will record this information into w
 
 
 
-## Other Personal Information We May Collect
+## Other personal information we may collect
 
 We collect different personal information, depending on what product or service you use.
 
@@ -41,10 +43,11 @@ We collect different personal information, depending on what product or service 
 
   * Email address
   * Billing address
+  * Phone
   * Name
   * Years of school
   * Gender (Male / Female)
-  * Age / Date of Birth
+  * Age 
   * Credit card info (see below) 
   * Other information that is voluntary and optional 
 
@@ -55,7 +58,7 @@ We collect different personal information, depending on what product or service 
   * Email address
   * Name
   * Gender (Male / Female)
-  * Age / Date of Birth
+  * Age 
   * Other information that is voluntary and optional 
 
 
@@ -64,20 +67,36 @@ We collect different personal information, depending on what product or service 
 
   * Email address
   * Billing address
+  * Phone
   * Name
   * Years of school
   * Gender (Male / Female)
   * Credit card info (see below) 
-  * Age / Date of Birth
+  * Age
   * Other information that is voluntary and optional 
-  * 
 
 
-#### Why Do We Collect Age / Date of Birth when you take tests and purchase reports? 
+
+#### Why Do We Collect Age when you take tests and purchase reports? 
 
 As of 2009, CareerPlanner.com has developed new technology that allows us to provide better career advice based on one's age. This is pretty amazing stuff that will really help our clients who are approaching 40 years of age and those approaching 50 and over.
 
-## We Do Not Collect The Following Type Of Information 
+We stopped collecting date of birth a few years ago because it could be used in identity theft.
+
+## We do use cookies on CareerPlanner.com
+
+We use cookies, which are tiny files that your web browser writes to your hard disk, when you visit certain pages on our site. 
+
+In these cookies we record things such as:
+
+  * The date and time of your first visit to our site
+  * Your personality type if you use our personality test
+  * The reference id for any of our newsletters, emails or ads you clicked on
+  * Other random computer codes our server uses
+
+
+
+## We do not collect the following type of information 
 
 We will not ask you for any of the following information which you might use elsewhere to protect your security on the web:
 
@@ -88,7 +107,7 @@ We will not ask you for any of the following information which you might use els
 
 
 
-## Interest Based Advertising From Google and Others 
+## Interest based advertising from Google and others 
 
 We use third-party advertising companies to serve ads when you visit our web site. 
 
@@ -118,4 +137,4 @@ We have been accepting credit cards over the internet for more than 10 years. Th
 
 As a final comfort, most credit card companies will drop a credit card charge if you tell them you never made the charge. They have to do this to stay in business. 
 
-[Click here to see our refund policy](https://web.archive.org/web/20100506001036id_/http%3A//careerplanner.com/Support-Files/Refund-Policy.cfm)
+[Click here to see our refund policy](https://web.archive.org/web/20110515134136id_/http%3A//careerplanner.com/Shop/Refund-Policy.cfm)
