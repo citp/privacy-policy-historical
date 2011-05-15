@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidationchannel.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227030905id_/http%3A//www.liquidationchannel.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidationchannel.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515090258id_/http%3A//www.liquidationchannel.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Liquidation Channel - Home of Exceptional Quality, Exquisite Designs and Outstanding Values.
 
