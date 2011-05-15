@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the connectioncafe.com privacy policy that was archived on 2010-11-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101113173804id_/http%3A//www.convio.com/convio/policies/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connectioncafe.com privacy policy that was archived on 2011-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110515180220id_/http%3A//www.convio.com/convio/policies/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -14,12 +14,12 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '999:0';
-CONVIO.pageSessionID = 'buesoi1tq2.app243a';
+CONVIO.pageSessionID = 'zozgjkidy1.app246a';
 CONVIO.pageSessionName = 'JServSessionIdr004';
 </script>
 
 <script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1289669884539"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1305482540641"></script>
 
 <script type="text/javascript">
 
@@ -120,6 +120,101 @@ padding: 2px 20px;
 
 
 
+<!--Begin Progressive Profiling include please don't remove code between these comments as it is core functionality. Contact astroud or enorman for  questions -->
+<link type="text/css" media="screen" rel="stylesheet" href="http://www.convio.com/css/colorbox.css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.convio.com/js/colorbox/jquery-colorbox-min.js"></script>
+
+<script type="text/javascript">
+//test comment for updated
+//1st priority - hard coded values
+var LeadSource = '';
+var CampaignName = '';
+var CampaignID = '';
+var retURL = '';
+
+
+$(document).ready(function(){
+
+var Dt = new Date();
+var Ms = Dt.getMilliseconds();
+
+//2nd priority - from URL
+if (LeadSource == ''){
+	LeadSource = urlParam("LeadSource");
+}
+if (CampaignName == ''){
+	CampaignName = urlParam("CampaignName");
+}
+if (CampaignID == ''){
+	CampaignID = urlParam("CampaignID");
+}
+if (retURL == ''){
+	retURL = urlParam("retURL");
+}
+
+	$(".open_gate").click(function(){
+		var docid = $(this).attr("rel");
+		//3rd priority - from Link
+		if (retURL == '')
+		{
+			retURL = $(this).attr("link");
+		}
+		if (CampaignID == '')
+		{
+			CampaignID = $(this).attr("cid");
+		}
+
+		$.getScript('http://now.eloqua.com/visitor/v200/svrGP.aspx?pps=50&siteid=633&DLKey=31d750f1-7d7e-4c2b-a672-3ab2dbecea03&DLLookup=&ms=' + Ms, function(){
+			if (typeof GetElqContentPersonalizationValue == "function"){
+				if(GetElqContentPersonalizationValue('V_ElqEmailAddress') != "")
+				{
+					$.getScript('http://now.eloqua.com/visitor/v200/svrGP.aspx?pps=50&siteid=633&DLKey=fa1b28f4-db71-41e1-8869-e35b9aee7609&DLLookup=%3CEmailAddress%3E'+GetElqContentPersonalizationValue('V_ElqEmailAddress')+'%3C/EmailAddress%3E&ms=' + Ms, function() {
+						if (typeof GetElqGroupMembershipStatus == "function") {
+							if (GetElqGroupMembershipStatus('{8D6B0EB2-01E2-42DB-9FFA-9320CA5E4A76}') == true)
+							{
+								  location.replace("http://now.eloqua.com/e/f2.aspx?elqFormName=PF-GatedFormStep4&elqSiteID=633&docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL+"&email="+GetElqContentPersonalizationValue('V_ElqEmailAddress'));
+							}
+							else if(GetElqGroupMembershipStatus('{EF8E95C5-41EA-4D4C-A75A-99FAAE2E66EF}') == true)
+							{
+								$.fn.colorbox({href:"http://www.convio.com/assets/ppf/form2-3.html?docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL+"&email="+GetElqContentPersonalizationValue('V_ElqEmailAddress'), iframe:true, innerWidth:400, innerHeight:500});
+							}
+							else if(GetElqGroupMembershipStatus('{4C8F0756-F30F-405A-912F-B46F676813AD}') == true)
+							{
+								$.fn.colorbox({href:"http://www.convio.com/assets/ppf/form2-2.html?docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL+"&email="+GetElqContentPersonalizationValue('V_ElqEmailAddress'), iframe:true, innerWidth:400, innerHeight:500});
+							}
+							else
+							{
+								$.fn.colorbox({href:"http://www.convio.com/assets/ppf/form2-1.html?docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL+"&email="+GetElqContentPersonalizationValue('V_ElqEmailAddress'), iframe:true, innerWidth:400, innerHeight:500});
+							}
+						}
+						else
+						{
+							$.fn.colorbox({href:"http://www.convio.com/assets/ppf/form2-1.html?docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL+"&email="+GetElqContentPersonalizationValue('V_ElqEmailAddress'), iframe:true, innerWidth:400, innerHeight:550});
+						}
+					});
+				}
+				else
+				{
+					$.fn.colorbox({href:"http://www.convio.com/assets/ppf/form2-1.html?docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL, iframe:true, innerWidth:400, innerHeight:500});
+				}
+			}
+			else
+			{
+				$.fn.colorbox({href:"http://www.convio.com/assets/ppf/form2-1.html?docid="+docid+"&LeadSource="+LeadSource+"&CampaignName="+CampaignName+"&CampaignID="+CampaignID+"&retURL="+retURL, iframe:true, innerWidth:400, innerHeight:500});
+			}
+		});
+	});
+});
+function urlParam(name)
+{
+	var results = new RegExp('[\\?&]' + name + '=([^&#]*)').exec(location.href);
+	if (!results) { return ""; }
+	return results[1] || "";
+}
+</script>
+<!--End PPF include -->
+
 
 
 
@@ -138,15 +233,15 @@ padding: 2px 20px;
   </tr>
   <tr>
     <td class="main-nav">
-      <ul id="nav">
-       <li><a href="http://www.convio.com/our-products" id="cornerL">OUR PRODUCTS </a></li>
-       <li><a href="http://www.convio.com/our-services">OUR SERVICES </a></li>
-        <li><a href="http://www.convio.com/our-research" id="nav2">OUR RESEARCH</a></li>
-        <li><a href="http://www.convio.com/our-clients" id="nav3">OUR CLIENTS</a></li>
-        <li><a href="http://www.convio.com/our-partners" id="nav4">OUR PARTNERS</a></li>
-        <li><a href="http://www.convio.com/convio" id="cornerR">ABOUT US</a></li>
-     </ul>
-      <ul id="nav2">
+           <ul id="nav">
+       <li><a href="http://www.convio.com/our-products" id="cornerL" title="Nonprofit Software Solutions" style="width:100px; text-align:center">PRODUCTS </a></li>
+       <li><a href="http://www.convio.com/our-services" id="" title="Convio Nonprofit Services" style="width:100px; text-align:center">SERVICES</a></li>
+        
+        <li><a href="http://www.convio.com/our-research" id="nav2" title="Resources for Nonprofits and Fundraising" style="width:100px; text-align:center">RESOURCES</a></li>
+        <li><a href="http://www.convio.com/our-clients" id="nav3" title="Clients Using Convio's Nonprofit Software" style="width:100px; text-align:center">CLIENTS</a></li>
+        <li><a href="http://www.convio.com/our-partners" id="nav4" title="Convio's Technology Partnerships" style="width:100px; text-align:center">PARTNERS</a></li>
+        <li><a href="http://www.convio.com/convio" id="cornerR" title="About Convio Nonprofit Solutions" class="current" style="width:100px; text-align:center">ABOUT US</a></li>
+     </ul>      <ul id="nav2">
         <li><a href="http://www.convio.com/for-our-clients.html" id="nav5">FOR CLIENTS</a></li>
       </ul>
       </td>
@@ -158,7 +253,7 @@ padding: 2px 20px;
           <td valign="top" class="col-left">
         <div id="leftNav">     
         <!--Action Nav -->
-        <div id="sectionNavigation-184336388" style="DISPLAY: inline">
+        <div id="sectionNavigation-218742098" style="DISPLAY: inline">
 
 
 
@@ -220,7 +315,7 @@ padding: 2px 20px;
 
 
 
-<div class="linksetLinkExternal navigationItem"><a href="http://phx.corporate-ir.net/phoenix.zhtml?c=212073&amp;p=irol-IRHome">Investor Relations</a></div>
+<div class="linksetLinkExternal navigationItem"><a href="http://ir.convio.com">Investor Relations</a></div>
 
 
 
@@ -273,7 +368,7 @@ padding: 2px 20px;
 
 
            <!--Get Started -->
-      <div id="item-184336389" style="DISPLAY: inline">
+      <div id="item-218742099" style="DISPLAY: inline">
 
 
 
@@ -283,11 +378,44 @@ padding: 2px 20px;
 
 <div id="get_started_interior">
 <div id="get_started_title">
-<h3 class="header">Get Started</h3></div>
+<h3 class="header">Get Started</h3>
+</div>
 <ul id="nav_get_started">
-<li><a title="Download a Brochure" onclick="MM_openBrWindow('http://www.convio.com/download-a-brochure.html','brochures','resizable=yes,width=550,height=360')" href="#">DOWNLOAD A BROCHURE</a> 
-</li><li><a href="http://www.convio.com/reg/request-a-demo.html" title="Request a Demo">REQUEST A DEMO</a> 
-</li><li><a href="http://www.convio.com/our-research/newsletter/" title="Convio Connection Newsletter">RECEIVE OUR NEWSLETTER</a> </li></ul></div>
+<li style="border-bottom: #cccccc 1px solid; border-left: #cccccc 1px solid; padding-left: 35px; background: url(http://www.convio.com/images/brochures_bullet2.jpg) no-repeat -6px -4px; height: 40px; border-top: #ffffff 1px solid; border-right: #cccccc 1px solid; padding-top: 10px;"><a href="#" style="text-decoration: none;">DOWNLOAD A BROCHURE</a>
+<div class="linksetSubMenu-2 navigationSubMenu">
+<div class="linksetLinkInternal navigationItem">–
+<div id="item-204357791" style="display: inline;">
+
+
+
+
+
+  
+
+<a class="open_gate" href="javascript:;" link="http://www.convio.com/files/br_conviointernetsolutions.pdf?cid=701000000009Pnw&amp;retURL=http://www.convio.com/files/br_conviointernetsolutions.pdf" cid="701000000009Pnw">
+Convio Online Marketing</a>
+
+</div>
+</div>
+<div class="linksetLinkInternal navigationItem">–
+<div id="item-204357792" style="display: inline;">
+
+
+
+
+
+  
+
+<a class="open_gate" href="javascript:;" link="http://www.convio.com/files/Common-Ground-Brochure.pdf?cid=701000000009Pnx&amp;retURL=http://www.convio.com/files/Common-Ground-Brochure.pdf" cid="701000000009Pnx">Convio Common Ground</a>
+
+</div>
+</div>
+</div>
+</li>
+<li><a href="http://www.convio.com/reg/request-a-demo.html" title="Request a Demo">REQUEST A DEMO</a> </li>
+<li><a href="http://www.convio.com/our-research/newsletter/" title="Convio Connection Newsletter">RECEIVE OUR NEWSLETTER</a> </li>
+</ul>
+</div>
 </div>
            </td>
           <td valign="top" class="two-column">
@@ -467,13 +595,16 @@ CONVIO.user.isAnonymous = true;
 
 
 
+
+				 
+
 <br>
           </td>
          </tr>
       </tbody></table>
 
   </td></tr><tr>
-    <td style="padding-top:20px;"><div id="item-184336390" style="Float:left; margin-left: 285px; width: 150px">
+    <td style="padding-top:20px;"><div id="item-218742100" style="Float:left; margin-left: 285px; width: 150px">
 
 
 
@@ -484,7 +615,7 @@ CONVIO.user.isAnonymous = true;
 <a class="a2a_dd" href="http://www.addtoany.com/share_save"><img src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171" height="16" border="0" alt="Share/Bookmark"></a><script type="text/javascript">a2a_show_title=1;</script><script type="text/javascript" src="http://static.addtoany.com/menu/page.js"></script>
 
 </div>
-  <div id="printer_friendly-184336391" style="Float:right; margin-right: 200px; width: 250px">
+  <div id="printer_friendly-218742101" style="Float:right; margin-right: 200px; width: 250px">
 
 
 
@@ -526,7 +657,7 @@ CONVIO.user.isAnonymous = true;
 <li><a href="http://www.flickr.com/photos/convio/" target="_blank"><img src="http://www.convio.com/images/logos/flickr.gif" alt="Convio on Flickr" border="0">Flickr</a></li>
 <li><a href="http://twitter.com/convio" target="_blank"><img src="http://www.convio.com/images/logos/twitter.gif" alt="Convio on Twitter" border="0">Twitter</a></li>
 <li><a href="http://www.youtube.com/convioblog" target="_blank"><img src="http://www.convio.com/images/logos/youtube-1.gif" alt="Convio on YouTube" border="0">YouTube</a></li></ul></div>
-<div id="poweredBy-184336392" style="DISPLAY: inline">
+<div id="poweredBy-218742102" style="DISPLAY: inline">
 
 
 
@@ -553,7 +684,7 @@ CONVIO.user.isAnonymous = true;
 </div>
 <!-- END: Powered By -->
 </div> 888-528-9501 | <a href="mailto:info@convio.com">INFO@CONVIO.COM</a> | <a href="http://www.convio.com/contact">CONTACT</a> | <a href="http://www.convio.com/careers">CAREERS</a> | <a href="http://www.convio.com/convio/policies">POLICIES</a> | <a href="http://www.convio.com/sitemap">SITE MAP</a><br>
-     Copyright 2010, Convio, Inc. All rights reserved.</div></td>
+     Copyright 2011, Convio, Inc. All rights reserved.</div></td>
   </tr>
 </tbody></table>
 <title>Policies | Convio</title>
@@ -561,26 +692,21 @@ CONVIO.user.isAnonymous = true;
 
 
 
-
-<div id="include-184336393" style="DISPLAY: inline">
-
+<div id="item-218742103" style="DISPLAY: inline">
 
 
 
 
 
+  
 
-<span class="includeDocument">
-
-
-
-
-
-
-
-
-
-<!-- Google Analytics -->
+<!-- begin Apogee Results CRM integration -->
+<script type="text/javascript">// <![CDATA[
+var domain    =    "convio.com";
+var imptest    =    false;
+// ]]></script>
+<script src="http://www.convio.com/js/apoCookieFunctions-1-2a.js" type="text/javascript"></script>
+<!-- <<<<<<  change "/scripts" to your scripts directory where you put the "apoCookieFunctions-1.2.js" file --><!-- end Apogee Results CRM integration --><!-- Google Analytics -->
 <script type="text/javascript">// <![CDATA[
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-418575-1']);
@@ -693,7 +819,6 @@ var imptest    =    false;
 	window.onload = SetElqContent2;
 // ]]></script>
 <!-- / Eloqoa form pre-populate -->
-</span>
 </div>
 
 
@@ -701,6 +826,7 @@ var imptest    =    false;
 
 
 
-<!-- 10.12.0.31:8900 -->
+
+<!-- 10.12.0.30:8900 -->
 
 </body></html>
