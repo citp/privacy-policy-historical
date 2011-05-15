@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the studiocoast.com.au privacy policy that was archived on 2008-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080827191459id_/http%3A//studiocoast.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studiocoast.com.au privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516002538id_/http%3A//www.studiocoast.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Studiocoast
+# Privacy Policy - StudioCoast
 
 Privacy Policy
 
-This web site is owned and operated by Studiocoast. (ABN: 60 220 650 380) and will be referred to as "We", "our" and "us" in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site ("the web site"), which is set out on this web site page. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the  
+This web site is owned and operated by STUDIOCOAST PTY LTD. (ABN: 53 143 039 070) and will be referred to as "We", "our" and "us" in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site ("the web site"), which is set out on this web site page. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the  
 web site. We reserve the right, at our discretion, to modify or remove portions of this Internet Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to the web site. We do not make any representations about third party web sites that may be linked to the web site. We recognise the importance of protecting the privacy of information collected about visitors to our web site, in particular information that is capable of identifying an individual ("personal information"). This Internet Privacy Policy governs the manner in which your personal information, obtained through the web site, will be dealt with. This Internet Privacy Policy should be reviewed periodically so that you are updated on any changes. We welcome your comments and feedback. 
 
 **Personal Information**
@@ -37,7 +37,7 @@ We provide links to Web sites outside of our web sites, as well as to third part
 
 **Problems or questions**
 
-If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please [contact us](https://web.archive.org/web/20080827191459id_/http%3A//studiocoast.com.au/contact.asp). 
+If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please [contact us](https://web.archive.org/web/20110516002538id_/http%3A//www.studiocoast.com.au/support.aspx). 
 
 **Further Privacy Information**
 
