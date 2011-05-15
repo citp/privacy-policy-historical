@@ -1,92 +1,82 @@
-> *The following text is extracted and transformed from the cgi.com privacy policy that was archived on 2010-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100805092338id_/http%3A//www.cgi.com/en/global-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgi.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515133327id_/http%3A//www.cgi.com/en/global-privacy) for the most accurate reproduction.*
 
-# CGI - Global privacy and data protection policy | CGI.com
+# Privacy policy | CGI.com
 
-**Scope**
+**Objective**  
+The purpose of this policy is to establish the general principles that govern CGI members’ management and protection of personal information, which may be collected, used, and disclosed during the normal course of their professional duties at CGI. 
 
-The present document presents CGI's Global Privacy and Data Protection policy which applies to all personal and operational information and data held on CGI members, sub-contractors and clients. All CGI members must read, understand and apply it.
+ **Scope**  
+While exercising its right to collect, use and disclose personal information for legitimate business purposes, CGI’s protection of personal information extends to all personal information under its custody or control.
 
-**Purpose**
+ **Definition of Personal Information**  
+For the purpose of the present Privacy Policy, “ **personal information** ” refers to any information, factual or subjective, recorded under any form, about an individual, and which allows this individual to be identified. Personal information includes, the name, birth date, gender, religion, income, home telephone number, personal mobile telephone number, home address, personal e-mail address, personal fax number, social insurance number/social security number, financial or health information and opinions about an individual.
 
-While exercising its right to collect, use and disclose personal information or data for legitimate business purposes, CGI is committed to protect, in all countries where it does business, the personal and operational information and data concerning.
+However, personal information does not include an individual’s “business contact information”, which comprises an individual’s name, position name or title, business telephone number, business address, business e-mail, business fax number and other similar business information.
 
-  * Our members
-  * Our sub-contractors
-  * Our clients and their operations
+ **Governing Principles of Personal Information Protection**
 
+  *  **Accountability**  
+CGI is responsible for the personal information under its custody or control. Where CGI transfers personal information to a third party, CGI shall contractually require that a comparable level of protection is provided to the personal information transferred.
 
-
-in order to maintain strict rules of conduct to lower the likelihood of:
-
-  * Confidentiality breaches;
-  * Loss of privacy;
-  * Loss of trust; and/or
-  * Legal liability.
+CGI has designated a Privacy Officer to oversee all ongoing activities related to the development, implementation, maintenance and adherence to CGI’s policies and procedures covering privacy as well as to ensure compliance with applicable laws, and regulations.
 
 
 
-**Position and Etiquette**
+  *  **Identifying Purposes**  
+Where CGI proceeds with the collection of personal information, CGI shall inform the individual of the identified purpose for which the personal information is being collected at, or before the time of collection.
 
-CGI is committed to protect the personal information of its members as required for staffing, member management, compensation and benefits administration purposes.
 
-CGI may also collect personal and operational information and data on client and client personnel, for example, in Outsourcing contracts. All client personal and operational information and data collected by CGI will comply with the policies and procedures established by the client and/or CGI. As well, CGI will always respect and act in compliance with all applicable legislation.
+  *  **Consent**  
+Except where permitted or required by law, CGI will only collect, use and disclose personal information with the knowledge and consent of the individual. CGI will use the form of consent, either express or implied, that reflects the nature of the information being collected, taking into account its sensitivity and reasonable expectations of the individual. All personal information will be collected by fair and lawful means.
 
-CGI respects the privacy of any visitors to [www.cgi.com](http://www.cgi.com/ "www.cgi.com") and does not share any personal information with third parties.
+Consent will also be obtained by CGI when a new use for the personal information is identified.
 
-CGI's principles for information handling practices are the following:
-
-**Accountability**
-
-The Vice Presidents responsible for a Business Unit oversee the application of this policy and take corrective action on violations and on non-compliance. CGI members who have concerns regarding the privacy of their own, sub-contractor or client personal information should report their concerns as well as any weakness in the measures protecting such information to their manager (for client and sub-contractor personal information) or to their local Human Resources representative (for member personal information). All members must respect this Global Privacy and Data Protection Policy as well as the privacy of other CGI members and the client's privacy policies when working at a client site.
-
-Business Units who hold and manage client personal or operational information and data, as a result of providing services to these clients, must protect such information and data. Any violation of client personal or operational information or data, in the context of providing services to these clients, should be reported directly to the Vice-President responsible for the Business Unit safeguarding such information or data.
-
-**Identifying Purpose of Collection**
-
-Advise members, sub-contractors and clients when collecting personal information of the reason for collection, how the information will be used and any new purpose for the collection.
-
-**Consent for Collection**
-
-Obtain the member's sub-contractor's or client's written or electronic consent to the collection of information and whenever a new use of the information is identified.
-
-**Limit Collection, Use, Disclosure, and Retention**
-
-Collect only the information necessary for the identified purpose. Use and disclose information only for the purpose for which it was collected or when required by legislation and in the manner prescribed by the legislation in the jurisdiction where CGI does business. Retain information only as long as necessary and dispose of all sensitive information in a secure manner.
-
-**Accuracy**
-
-Ensure the accuracy of the information collected by verifying with the individual and updating it periodically. CGI members must notify their local Human Resources of any changes or updates that will affect their personal records.
-
-**Safeguards**
-
-Protect personal and operational information or data according to its sensitivity and as required by any applicable legislation. Sensitive personal or operational information or data is to be protected from unauthorized use, disclosure, access and modification. These safeguards apply to sensitive personal and operational information or data irrespective of the storage medium.
-
-Such safeguards may take the form of locked filing cabinets, restricted access to information (physical and on a need-to-know basis, alarm systems or other electronic control devices, technological tools such as passwords, encryption, firewalls, anonymizing software, etc. The selection of safeguards will be done considering the sensitivity, amount and format of the information or data needing protection.
-
-Security measures around data protection are reviewed regularly to follow the company evolution or changes in the organization.
-
-**Openness**
-
-In distributing this document, advise the members, sub-contractors and clients about CGI's practices and the application of this policy.
-
-**Individual Access**
-
-Provide members, sub-contractors and clients access to their information held by CGI so that they may know what information is retained. Provide the members, sub-contractors and clients an opportunity to verify the accuracy of their information and to correct any inaccuracies. Inform in writing, if access is refused, of the reasons why and of the appeal process.
-
-**No Expectation of Privacy**
-
-Subject to the applicable legislation, CGI has the right to monitor any and all aspects of its information systems and infrastructures including, but not limited to:
-
-  * Visited Internet sites;
-  * Instant messaging systems;
-  * Chat groups;
-  * News groups; and
-  * E-mail sent and/or received.
+An individual may withdraw his/her consent at any time with respect to the continuing use or disclosure of his/her personal information, subject to legal or contractual restrictions and reasonable notice. CGI will inform the individual of the implications of such a withdrawal.
 
 
 
-Such monitoring may occur at any time, without notice, and without obtaining the user's permission.
+  *  **Limit to Collection, Use, Disclosure, and Retention**  
+CGI will only collect personal information that is necessary to fulfill the purposes identified to the individual.
 
-**Sanctions**
+CGI will only use and disclose personal information for the purpose for which it was collected and, where applicable, with CGI accepted client policies and procedures, all in accordance with the applicable laws and regulations.
 
-Violations of this policy may result in a disciplinary action which will be proportional to the seriousness of the behavior concerned. Vice Presidents responsible for business units or corporate functions are responsible to decide on the proper course of action in case of a breach to this policy. The Senior Vice-President, Human Resources, Leadership and Organizational Development is the designated CGI Privacy and Data Protection Officer.
+CGI will only retain personal information as long as is necessary for the fulfillment of the purpose identified, as well as for legal purposes. Furthermore, personal information retained by CGI shall be disposed of/destroyed in accordance with CGI’s Records Management and Retention Policy and Records Management and Retention Policy Manual guidelines and/or client’s specifications agreed to by CGI as part of its contract with the client, all in accordance with the applicable laws and regulations.
+
+
+
+  *  **Accuracy**  
+Where CGI collects personal information, CGI shall take appropriate measures to ensure that the personal information is accurate, complete, and up to date as is necessary to fulfill the purpose for which the information is to be used. 
+
+
+  * **Individual Access**  
+Subject to the limitation below, and upon written request, an individual will be informed of the existence, use or disclosure of his/her personal information, and of his/her right to access his/her personal information, subject to certain legal restrictions. Any refusal or restriction to an individual’s request of access to his/her personal information will be made in writing, and will provide the reasons for such refusal or restriction within a reasonable time.
+
+Subject to the limitation below, an individual upon written request may also request that a correction be made with respect to his/her personal information in CGI custody or under CGI control. All requests to correct personal information must be accompanied by the appropriate supporting documentation. Where the request for correction is not resolved to the satisfaction of the individual, the substance of the unresolved matter will be recorded by CGI.
+
+Notwithstanding the foregoing, where CGI collects personal information for a third party or when CGI is entrusted with personal information by a third party, CGI’s obligation to maintain the accuracy of the personal information, as well as the obligation to provide access and correction to an individual of his/her personal information will be determined and governed by a formal agreement between CGI and the third party concerned.
+
+
+
+  *  **Safeguards**  
+Personal information shall be protected in accordance with CGI’s Information Security Policy and, where applicable, with CGI accepted client policies and procedures, all in accordance with the applicable laws and regulations.
+
+Personal information is to be protected from unauthorized use, disclosure, access, copying and modification. These safeguards apply to personal information irrespective of the storage medium. Such safeguards may take the form of locked filing cabinets, restricted access to information (physical and on a need-to-know basis, alarm systems or other electronic control devices, technological tools such as passwords, encryption, firewalls, anonymizing software, etc.).
+
+The selection of safeguards will be determined according to the nature of the personal information to be protected and, where applicable, in accordance with CGI accepted client policies and procedures.
+
+
+
+
+ **Sanctions**  
+Violations of this policy may result in disciplinary action commensurate with the seriousness of the infringer’s behaviour.
+
+ **Compliance**  
+CGI members are expected to comply with all aspects of the present Privacy Policy and to support others in doing so.
+
+ All requests, questions, complaints, or violations pertaining to this policy should be directed in writing to:
+
+The Privacy Officer  
+CGI Group Inc.  
+1130 Sherbrooke Street West, 7th floor  
+Montreal, Quebec  
+Canada H3A 2M8
