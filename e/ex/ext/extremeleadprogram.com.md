@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremeleadprogram.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122191854id_/http%3A//extremeleadprogram.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeleadprogram.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515084250id_/http%3A//www.extremeleadprogram.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - We keep your information private and secure
 
@@ -41,5 +41,5 @@ If you feel that this site is not following its stated information policy, you m
 
 [ ](https://www.extremeleadprogram.com/order/order.php)
 
-© 2004-2010. ExtremeLeadProgam.com. All Rights Reserved  
+© 2004-2011. ExtremeLeadProgam.com. All Rights Reserved  
 654 Sheep Rd, Ste 100 | New Lebanon, OH 45345 | Phone: 937-687-8618
