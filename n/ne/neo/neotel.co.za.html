@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the neotel.co.za privacy policy that was archived on 2010-11-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101105080243id_/http%3A//www.neotel.co.za/wps/portal/%21ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwNDI_2CbEdFAJh0M08%21) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the neotel.co.za privacy policy that was archived on 2011-05-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110515183234id_/http%3A//neotel.co.za/wps/portal/%21ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwNDI_2CbEdFAJh0M08%21) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="cufon-active cufon-ready"><head>
 
@@ -229,9 +229,9 @@
 	var loggedInUser= "";
 	/* Changes for version 1.2 ends*/
 	//Variables to get sytem date
-	var sysDate = "5";
-	var sysMonth = "10";
-	var sysYear = "2010";
+	var sysDate = "15";
+	var sysMonth = "4";
+	var sysYear = "2011";
 	//var portalIP = "http://192.168.120.18:10040";
 	//alert("sysDate "+sysDate);
 	//alert("sysMonth "+sysMonth);
@@ -282,15 +282,17 @@ function  openTwitter(){
 	window.open("http://twitter.com/neotelrep");
 }
 <!--Changes for 1.1 ends -->
-
+<!--Changes for 1.7 starts -->
+function  openISPA(){
+	window.open("http://www.ispa.org.za/code-of-conduct");
+}
+<!--Changes for 1.7 ends -->
 <!-- Changes for version 1.3 starts -->
 
 function callPopup(){
-        
 	document.getElementById('popup_secondary').style.display='block';
 	document.getElementById('fade').style.display='block'
 	var ver = getInternetExplorerVersion();
-	
 	if ( ver > -1 )
 	{
 	    if ( ver == 6.0 ) {
@@ -320,8 +322,29 @@ function ESCclose(evt) {
 	if (evt.keyCode == 27){
 		document.getElementById('popup_secondary').style.display='none';
 		document.getElementById('fade').style.display='none'
+		<!-- Changes for version 1.6 starts -->
+		document.getElementById('popup_prepaid_postpaid').style.display='none';
+		<!-- Changes for version 1.6 ends -->
 	}
 }
+
+<!-- Changes for version 1.6 starts -->
+
+function callPopupOrderNow(){
+       	document.getElementById('popup_prepaid_postpaid').style.display='block';
+	document.getElementById('fade').style.display='block'
+	var ver = getInternetExplorerVersion();
+	if ( ver > -1 )
+	{
+	    if ( ver == 6.0 ) {
+		   //alert( ver );
+		   document.getElementById("fade").style.width="1420px";
+		   document.getElementById("fade").style.height="960px";
+	    }
+	  }
+}
+
+<!-- Changes for version 1.6 ends -->
 </script>
 <!-- Changes for version 1.3 ends -->
 
@@ -354,25 +377,90 @@ function ESCclose(evt) {
       
      
            
-    <li id="sitemap0">
-    
+   
+   
+
+
+
+   
+   
+   
+   
+
+
+
+
+
+
+
+
+   <li id="sitemap0"> 
 	 
 			 <a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwN3d2NLA0_vwEBDd19_AwN3E_2CbEdFAFm_iow!/">Home</a>
 			  &nbsp;
 	
 
-    </li> 
+      </li> 
+      
     
      
            
-    <li id="sitemap1">
-    
-	
-			 <a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwNTE_2CbEdFAJazJW0!/"> 
-			    Sitemap</a>&nbsp;
-	 
+   
+   
 
-    </li> 
+
+
+   
+   
+   
+   
+
+
+
+
+
+
+
+
+   <li id="sitemap1"> 
+	
+	<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwNTE_2CbEdFAJazJW0!/">
+		    Sitemap</a>&nbsp;
+        
+
+      </li> 
+      
+    
+     
+           
+   
+   
+
+
+
+   
+   
+   
+   
+
+
+
+
+
+
+
+
+   <li id="sitemap2"> 
+	
+		
+		<a href="/wps/portal/neotel_portal_search"><img src="/wps/themes/html/Neotel/images/scope_search_submit.gif" width="21" height="15" alt="search"></a>
+		
+		
+		
+	
+
+      </li> 
+      
     
      
 	 
@@ -432,6 +520,7 @@ function ESCclose(evt) {
 								<li>
 								
 								
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3cTc_2CbEdFAAVSU-s!/?WCM_GLOBAL_CONTEXT=">Company Profile</a>
 								
 								
@@ -475,6 +564,7 @@ function ESCclose(evt) {
 								<li>
 								
 								
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3dnE_2CbEdFAA7OCEQ!/?WCM_GLOBAL_CONTEXT=">Board of Directors</a>
 								
 								
@@ -514,6 +604,7 @@ function ESCclose(evt) {
 								<li>
 								
 								
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY_dgM_2CbEdFAMvzHm4!/?WCM_GLOBAL_CONTEXT=">Leadership Team</a>
 								
 								
@@ -527,6 +618,7 @@ function ESCclose(evt) {
 								<li>
 								
 								
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3cjA_2CbEdFAIdXhpU!/?WCM_GLOBAL_CONTEXT=">Careers @ Neotel</a>
 								
 								
@@ -538,6 +630,7 @@ function ESCclose(evt) {
 							
 							
 								<li>
+								
 								
 								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLSw8nA09nI0dfI89AYwMjE_2CbEdFAMFum7s!/?WCM_GLOBAL_CONTEXT=">Events</a>
@@ -564,7 +657,7 @@ function ESCclose(evt) {
 					
 
 					
-						<li id="tnav2"><a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwN3d2NLA0_vwEBDd19_AwMLM_2CbEdFAJC-Yts!/">Consumer</a>
+						<li id="tnav2"><a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwN3d2NLA0_vwEBDd19_AwMLM_2CbEdFAJC-Yts!/">Home/Small Offices</a>
 						
 						
 						
@@ -574,7 +667,9 @@ function ESCclose(evt) {
 							
 							
 								<li>
+								
 								 
+								
 								<a href="javascript:openSpecialOffers();">Special Offers</a>
 								
 								</li>
@@ -585,6 +680,7 @@ function ESCclose(evt) {
 							
 							
 								<li>
+								
 								
 								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY_dQU_2CbEdFAF-0Wos!/?WCM_GLOBAL_CONTEXT=">Home Services</a>
@@ -600,6 +696,7 @@ function ESCclose(evt) {
 								<li>
 								
 								
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3dDI_2CbEdFABHspuk!/?WCM_GLOBAL_CONTEXT=">Home Office Services</a>
 								
 								
@@ -611,6 +708,7 @@ function ESCclose(evt) {
 							
 							
 								<li>
+								
 								
 								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3dDc_2CbEdFAKJ9a7k!/?WCM_GLOBAL_CONTEXT=">Office Services</a>
@@ -626,6 +724,7 @@ function ESCclose(evt) {
 								<li>
 								
 								
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3yyAjA09HC18zM5cQQwN_I_2CbEdFAGTDz84!/?WCM_GLOBAL_CONTEXT=">Prepaid Services</a>
 								
 								
@@ -637,6 +736,7 @@ function ESCclose(evt) {
 							
 							
 								<li>
+								
 								
 								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hX1yAnczcPIwN_C0czA08jbzNnAycjYwMDA_2CbEdFAClR7AA!/?WCM_GLOBAL_CONTEXT=">Geographic Number Portability</a>
@@ -652,6 +752,7 @@ function ESCclose(evt) {
 								<li>
 								
 								
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3cPQ_2CbEdFAEcLwhY!/?WCM_GLOBAL_CONTEXT=">Compare Packages</a>
 								
 								
@@ -661,8 +762,31 @@ function ESCclose(evt) {
 							
 							
 							
+								<li class="third_level">
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN_gxBzA08zL3-LAF9fA4NQU_2CbEdFAJstiU4!/?WCM_GLOBAL_CONTEXT=">Order Now</a>
+								
+								<ul class="last_list"><li>
+									
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3dTA_2CbEdFAAlpIVA!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Postpaid</a>
+								
+									
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN_gxBzA08zL3-LAF9fA4NQc_2CbEdFAJCMQQM!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Prepaid</a>
+								
+								
+								</li></ul>
+								</li>
+							
+							
+							
+							
+							
+							
 							
 								<li>
+								
 								
 								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3dLY_2CbEdFANNxFRE!/?WCM_GLOBAL_CONTEXT=">Install Guides</a>
@@ -678,6 +802,7 @@ function ESCclose(evt) {
 								<li>
 								
 								
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY_cAM_2CbEdFAFbp9l8!/?WCM_GLOBAL_CONTEXT=">Contact Us</a>
 								
 								
@@ -690,19 +815,8 @@ function ESCclose(evt) {
 							
 								<li>
 								
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3dTA_2CbEdFAAlpIVA!/?WCM_GLOBAL_CONTEXT=">Order Now</a>
-								
-								
-								</li>
-							
-							
-							
-							
-							
-							
-								<li>
 								 
+								
 								<a href="javascript:openNeomail();">NeoMail Login</a>
 								
 								</li>
@@ -736,44 +850,20 @@ function ESCclose(evt) {
 							
 								<li class="third_level">
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3c_I_2CbEdFANNMhvM!/?WCM_GLOBAL_CONTEXT=">Large Business</a>
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwNnM_2CbEdFAIlFnUg!/?WCM_GLOBAL_CONTEXT=">Voice</a>
 								
 								<ul class="last_list"><li>
 									
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY39LA_2CbEdFAMgYZEQ!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Converged Solutions</a>
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQ4NAU_2CbEdFAMC6SD4!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoVoice</a>
 								
 									
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY38fY_2CbEdFAOqVoHw!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Mobile Solutions</a>
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwMzI_2CbEdFABP4XG0!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoIntellect</a>
 								
 									
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY_8Ac_2CbEdFAEYhT0c!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Managed Network Solutions</a>
-								
-									
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY_8AI_2CbEdFAPWwghc!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Managed IP Solutions</a>
-								
-									
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY39TQ_2CbEdFABmhmEg!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Managed Transmission Solutions</a>
-								
-									
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY39LU_2CbEdFAHuJqRQ!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Managed Data Center Solutions</a>
-								
-									
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY38fE_2CbEdFAFKlpWE!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Managed Voice Solutions</a>
-								
-									
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY38PM_2CbEdFAEogItg!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Access Solutions</a>
-								
-									
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwMLd1czA8_AQAMLI8tgQwMLQ_2CbEdFAAVWtOQ!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Value Added Services</a>
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwMzc_2CbEdFAKBpkT0!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoConference</a>
 								
 								
 								</li></ul>
@@ -786,44 +876,20 @@ function ESCclose(evt) {
 							
 								<li class="third_level">
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3c_c_2CbEdFAGDdS6M!/?WCM_GLOBAL_CONTEXT=">Medium Business</a>
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwNPA_2CbEdFANr5tDo!/?WCM_GLOBAL_CONTEXT=">Internet</a>
 								
 								<ul class="last_list"><li>
 									
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYxN3A_2CbEdFAHg-CQk!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Converged Solutions</a>
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwNfQ_2CbEdFAGwOpwU!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoInternet</a>
 								
 									
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYxMTY_2CbEdFAGCGHVI!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Mobile Solutions</a>
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwNXE_2CbEdFALjRhWY!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoBroadband Fibre</a>
 								
 									
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYxMLc_2CbEdFAAKuLA4!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Managed Network Solutions</a>
-								
-									
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYxMLI_2CbEdFALE_4V4!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Managed IP Solutions</a>
-								
-									
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYxN_Q_2CbEdFALqjuvE!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Managed Transmission Solutions</a>
-								
-									
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYxN3U_2CbEdFAMuvxFk!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Managed Data Center Solutions</a>
-								
-									
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYxMTE_2CbEdFANi2GE8!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Managed Voice Solutions</a>
-								
-									
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYxMDM_2CbEdFAMAzn_Y!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Access Solutions</a>
-								
-									
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwMLd1czA8_AQAMLI8tgQ4NgQ_2CbEdFABpOBW0!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Value Added Services</a>
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwNXY_2CbEdFAADhgHs!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoBroadband Wimax</a>
 								
 								
 								</li></ul>
@@ -836,20 +902,84 @@ function ESCclose(evt) {
 							
 								<li class="third_level">
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3c3Q_2CbEdFABpw_UY!/?WCM_GLOBAL_CONTEXT=">Small Business</a>
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwNDA_2CbEdFAJZnM-U!/?WCM_GLOBAL_CONTEXT=">Data</a>
 								
 								<ul class="last_list"><li>
 									
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYxMPc_2CbEdFACl-ROI!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Managed Voice Solutions</a>
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQ4MAE_2CbEdFANFiY1M!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoLink</a>
 								
 									
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYxNDU_2CbEdFANpKfNY!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Data Solutions</a>
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwMfA_2CbEdFAH3WjGg!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoLink Global Africa</a>
 								
 									
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYxMPI_2CbEdFAJrvibI!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Mobile Solutions</a>
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwMfU_2CbEdFAM5HQTg!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoMetroLink</a>
+								
+									
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwMXI_2CbEdFABE5qxY!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoVPN</a>
+								
+								
+								</li></ul>
+								</li>
+							
+							
+							
+							
+							
+							
+								<li class="third_level">
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQ4NQM_2CbEdFAH3sk0w!/?WCM_GLOBAL_CONTEXT=">Hosting</a>
+								
+								<ul class="last_list"><li>
+									
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwMPI_2CbEdFAGVTC9E!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoHost Colocation</a>
+								
+									
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwMPc_2CbEdFANbCxoE!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoHost Managed Hosting</a>
+								
+									
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwNLQ_2CbEdFAFT6gB0!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoHost Virtual Host</a>
+								
+								
+								</li></ul>
+								</li>
+							
+							
+							
+							
+							
+							
+								<li class="third_level">
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwNDU_2CbEdFACX2_rU!/?WCM_GLOBAL_CONTEXT=">VAS</a>
+								
+								<ul class="last_list"><li>
+									
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQ4MQQ_2CbEdFAHHX4fc!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoPresence: Private Room</a>
+								
+									
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwNjE_2CbEdFAKk0Pek!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoPresence: Public Room</a>
+								
+									
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwNjY_2CbEdFABEEOPQ!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">NeoFax</a>
+								
+									
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwMvM_2CbEdFAFoABd0!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Mail Gaurd and archiving</a>
+								
+									
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3ixBzA09XR-dgXydTQwMnA_2CbEdFACCtszg!/?WCM_GLOBAL_CONTEXT=" style="margin-bottom:10px;">Hosted Contact Centre</a>
 								
 								
 								</li></ul>
@@ -863,21 +993,23 @@ function ESCclose(evt) {
 							
 								<li>
 								
-								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3dzU_2CbEdFAJPpc5c!/?WCM_GLOBAL_CONTEXT=">Managelink</a>
-								
-								
-								</li>
-							
-							
-							
-							
-							
-							
-								<li>
 								
 								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLA1M3A0_nUE9_b1MvT19zY_2CbEdFAIGGApQ!/?WCM_GLOBAL_CONTEXT=">Quote</a>
+								
+								
+								</li>
+							
+							
+							
+							
+							
+							
+								<li>
+								
+								
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY3dzU_2CbEdFAJPpc5c!/?WCM_GLOBAL_CONTEXT=">Managelink</a>
 								
 								
 								</li>
@@ -958,6 +1090,7 @@ function ESCclose(evt) {
 								<li>
 								
 								
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hX1yAnczcPIwP_sEAjA0_nsDA_nxBnYwMzA_2CbEdFAIqqb6Y!/?WCM_GLOBAL_CONTEXT=">Media Releases</a>
 								
 								
@@ -969,6 +1102,7 @@ function ESCclose(evt) {
 							
 							
 								<li>
+								
 								
 								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3hX1yAnczcPIwN_3yAXA89gH8cQD99QAwMLQ_2CbEdFACj6Uu8!/?WCM_GLOBAL_CONTEXT=">Image Gallery</a>
@@ -984,7 +1118,8 @@ function ESCclose(evt) {
 								<li>
 								
 								
-								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwtvM_2CbEdFAF6iX08!/?WCM_GLOBAL_CONTEXT=">Media Clips</a>
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMDC09TA0_vIGc3Q1cTAwNnc_2CbEdFADFhU0I!/?WCM_GLOBAL_CONTEXT=">Print Media Articles</a>
 								
 								
 								</li>
@@ -995,6 +1130,21 @@ function ESCclose(evt) {
 							
 							
 								<li>
+								
+								
+								
+								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwtvM_2CbEdFAF6iX08!/?WCM_GLOBAL_CONTEXT=">Broadcast Media Clips</a>
+								
+								
+								</li>
+							
+							
+							
+							
+							
+							
+								<li>
+								
 								
 								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN_FxNjA89gN3d_c5MAIwN3M_2CbEdFAOMHNBM!/?WCM_GLOBAL_CONTEXT=">Thought Leadership</a>
@@ -1031,6 +1181,7 @@ function ESCclose(evt) {
 							
 							
 								<li>
+								
 								
 								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwszY_2CbEdFAAaCLZI!/?WCM_GLOBAL_CONTEXT=">Experience &amp; Expertise</a>
@@ -1084,6 +1235,7 @@ function ESCclose(evt) {
 								<li>
 								
 								
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwtXA_2CbEdFAB46Ock!/?WCM_GLOBAL_CONTEXT=">Discover the Footprint</a>
 								
 								
@@ -1095,6 +1247,7 @@ function ESCclose(evt) {
 							
 							
 								<li>
+								
 								
 								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwtXU_2CbEdFAK2r9Jk!/?WCM_GLOBAL_CONTEXT=">NBSS</a>
@@ -1131,7 +1284,9 @@ function ESCclose(evt) {
 							
 							
 								<li>
+								
 								 
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY4sAI_2CbEdFAHwoF7E!/">Channel Partners</a>
 								
 								</li>
@@ -1142,6 +1297,7 @@ function ESCclose(evt) {
 							
 							
 								<li>
+								
 								
 								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwMLN1czA09Hcy8_S68AAwMTA_2CbEdFAP42Jjk!/?WCM_GLOBAL_CONTEXT=">Supplier Registration</a>
@@ -1178,6 +1334,7 @@ function ESCclose(evt) {
 							
 							
 								<li>
+								
 								
 								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjYwsXQ_2CbEdFAA_iEqQ!/?WCM_GLOBAL_CONTEXT=">Contact Details</a>
@@ -1235,6 +1392,7 @@ function ESCclose(evt) {
 								<li>
 								
 								
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwMLMw9DA0_vAB9_M2NjY4sQY_2CbEdFAMrfBI4!/?WCM_GLOBAL_CONTEXT=">Glossary</a>
 								
 								
@@ -1270,6 +1428,7 @@ function ESCclose(evt) {
 								<li>
 								
 								
+								
 								<a href="/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjJ1cnczcPIwN3X29HA09Pf1NPf_8wIwMDA_2CbEdFAH9Dt20!/?WCM_GLOBAL_CONTEXT=">Neotel Retail Stores</a>
 								
 								
@@ -1285,6 +1444,27 @@ function ESCclose(evt) {
 						
 						
 					
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
 					
 					
 				
@@ -1508,7 +1688,7 @@ function ESCclose(evt) {
 
 		
 		<li id="snav7">
-			<a href="https://www.neotel.co.za/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwN3d2NLA0_vwEBDd19_AwMjA_2CbEdFAMMCS6k!/">Login</a>
+			<a href="https://neotel.co.za/wps/portal/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gL52AnczcPIwN3d2NLA0_vwEBDd19_AwMjA_2CbEdFAMMCS6k!/">Login</a>
 		</li>
 		<li id="snav8">
 
@@ -3208,11 +3388,15 @@ Should you have any questions regarding any of our services, licences or policie
     for:</div>
   <!-- Start Side Tabs -->
 	<div id="servicepopup_side">
-		<div id="servicepopup_1" class="active"><a href="javascript: void(0);"><strong>Home solutions</strong></a></div>
-		<div id="servicepopup_2"><a href="javascript: void(0);"><strong>Small business solutions</strong><br>Less than 50 employees</a></div>
-		<div id="servicepopup_3"><a href="javascript: void(0);"><strong>Medium business solutions</strong><br>More than 50 employees</a></div>
-		<div id="servicepopup_4"><a href="javascript: void(0);"> <strong>Large business solutions</strong><br>More than 250 employees</a></div>
-		<div id="servicepopup_5"><a href="javascript: void(0);"> <strong>Wholesale</strong><br>Become a wholesale customer</a></div>
+		<div id="servicepopup_1" class="active"><a href="javascript: void(0);"><strong>Voice</strong><br>Cost-effective telephony and voice solutions.</a></div>
+		<div id="servicepopup_2"><a href="javascript: void(0);"><strong>Internet</strong><br>Tier 1 operator in South Africa with global reach.</a></div>
+		<div id="servicepopup_3"><a href="javascript: void(0);"><strong>Data</strong><br>Reliable and efficient data solutions</a></div>
+		<div id="servicepopup_4"><a href="javascript: void(0);"> <strong>Hosting</strong><br>Secure and competitive hosting service</a></div>
+		<div id="servicepopup_5"><a href="javascript: void(0);"> <strong>VAS</strong><br>Value 
+
+Added Services to further enhance our core services.
+</a></div>
+
 	</div>
 	<!-- End Side Tabs -->
  <!-- Start Content Area -->
@@ -3220,225 +3404,176 @@ Should you have any questions regarding any of our services, licences or policie
 		
 		<div id="block1"> 
 			
-			<p><strong class="orange">Home Solutions</strong></p>
+			<p><strong class="orange">Voice</strong></p>
 			
 			<!-- Start div List -->
 			<div class="divlist service_popup_bg"> 
 				<div> 
 				<div>
-					<a href="/wps/portal/neotel_home_services"><strong>NeoConnect Lite</strong></a><br>
-					A home phone with basic Internet. Packages from R99 p/m
+					<a href="/wps/portal/neotel_business_voice_neovoice"><strong>NeoVoice</strong></a><br>
+					NeoVoice is ideally suited to meet your business voice needs by offering highly 
+
+competitive rates, monthly savings and superior voice quality.
+
 				</div>
 				</div>
 				<div class="odd"> 
 				<div>
-					<a href="/wps/portal/neotel_home_services"><strong>NeoConnect Prime</strong></a><br>
-					A home phone with high-speed, high capacity Internet. Packages from 1GB for R279 p/m
+					<a href="/wps/portal/neotel_business_voice_neointellect"><strong>NeoIntellect</strong></a><br>
+					NeoIntellect is a web-based communication management service which allows your 
+
+business to manage, report on and track communication utilisation and spend.
+
 				</div>
 				</div>
 				<div> 
 				<div>
-					<a href="/wps/portal/neotel_home_services"><strong>NeoFlex Data</strong></a><br>
-					High-speed, high capacity, multi-user Internet. Packages from 5GB R499 p/m
+					<a href="/wps/portal/neotel_business_voice_neoconference"><strong>NeoConference</strong></a><br>
+					NeoConference has been designed to enable you to conduct your meetings whenever and 
+
+wherever you want. 				</div>
 				</div>
-				</div>
-				<div class="odd"> 
-				<div>
-					<a href="/wps/portal/neotel_home_services"><strong>NeoGo</strong></a><br>
-					High-speed, high capacity, mobile Internet. Packages from 1.5GB for R299 p/m.
-				</div>
-				</div>
-			</div>
+							</div>
 			<!-- End div List -->
 		
 		</div>
 		<div id="block2" style="display: none;"> 
 			
-			<p><strong class="orange">Small Business Solutions</strong></p>
+			<p><strong class="orange">Internet</strong></p>
 			
-			<ul class="ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all">
-				<li class="mini ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tab1"><span>Single Location/branch</span></a></li>
-				<li class="mini ui-state-default ui-corner-top"><a href="#tab2"><span>Multiple Locations</span></a></li>
-			</ul>
-			<div id="tab1" class="ui-tabs-panel ui-widget-content ui-corner-bottom"> 
+						<div id="tab1"> 
 				<!-- Start div List -->
 				<div class="divlist service_popup_bg"> 
 					<div> 
 					<div>
-						<a href="/wps/portal/neotel_small_business"><strong>NeoFlex Data</strong></a><br>
-						<table>
-						<tbody><tr><td wrap="hard" width="350">
-						Multi user Internet, from R499 p/m.
-						</td></tr>
-						</tbody></table>
-					</div>
+						<a href="/wps/portal/neotel_business_internet_neointernet"><strong>NeoInternet</strong></a><br>
+						NeoInternet provides the ideal solution to a seamless Internet connection.	
+
+				</div>
 					</div>
 					<div class="odd"> 
 					<div>
-						<a href="/wps/portal/neotel_small_business"><strong>NeoFlex Voice</strong></a><br>
-						<table>
-						<tbody><tr><td wrap="hard" width="350">
-						Multi-line voice solution with high levels of customization.
-						</td></tr>
-						</tbody></table>
+						<a href="/wps/portal/neotel_business_internet_neobroadbandfibre"><strong>NeoBroadband Fibre</strong></a><br>
+						NeoBroadband Fibre delivers affordable, uncapped Internet access over our 
+
+robust fibre infrastructure.</div>
 					</div>
-					</div>
+<div> 
+				<div>
+					<a href="/wps/portal/neotel_business_internet_neobroadbandwimax"><strong>NeoBroadband Wimax</strong></a><br>
+					NeoBroadband WiMAX is a high speed, affordable uncapped Internet solution 		
+
+		</div>
+				</div>
+
 				</div>
 				<!-- End div List -->
-			</div>
-			<div id="tab2" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide"> 
-				<!-- Start div List -->
-				<div class="divlist service_popup_bg"> 
-					<div> 
-					<div>
-						<a href="/wps/portal/neotel_small_business_voice_solutions"><strong>Voice Solutions</strong></a><br>
-						<table>
-						<tbody><tr><td wrap="hard" width="350">
-						We are dedicated to providing cost-efficient voice solutions that will allow your business to gain the competitive edge. Find out more about NeoFlex Voice, the ideal solution for your small business.
-						</td></tr>
-						</tbody></table>
-					</div>
-					</div>
-					<div class="odd"> 
-					<div>
-						<a href="/wps/portal/neotel_small_business_data_solutions"><strong>Data Solutions</strong></a><br>
-						<table>
-						<tbody><tr><td wrap="hard" width="350">
-						Reliable, cost-effective Internet solutions are essential to the success of any business. Find out about our data solutions that are ideally suited to your small business.
-						</td></tr>
-						</tbody></table>
-					</div>
-					</div>
-					<div> 
-					<div>
-						<a href="/wps/portal/neotel_small_business_mobile_solutions"><strong>Mobile Solutions</strong></a><br>
-						<table>
-						<tbody><tr><td wrap="hard" width="350">
-						Connecting on the go has become imperative. You’re not always going to be in the office or near a reliable Internet connection, that’s why we offer NeoGo - a datacard solution that allows you to connect.
-						</td></tr>
-						</tbody></table>
-					</div>
-					</div>
-				</div>
-				<!-- End div List -->
-			</div>
+										</div>
 			
 		</div>
 		<div id="block3" style="display: none;"> 
 			
-			<p><strong class="orange">Medium Business Solutions</strong></p>
+			<p><strong class="orange">Data</strong></p>
 			
 			<!-- Start div List -->
 			<div class="divlist service_popup_bg"> 
 				<div> 
 				<div>
-					<a href="/wps/portal/neotel_medium_business_converged_solutions"><strong>Converged Solutions</strong></a><br>
-					Voice and Internet solutions are key to the success of your business.
-				</div>
+					<a href="/wps/portal/neotel_business_data_neolink"><strong>NeoLink</strong></a><br>
+					NeoLink enables safe and secure point-to-point or multi-point high-speed data 
+
+transfers and voice applications via dedicated bandwidth				</div>
 				</div>
 				<div class="odd"> 
 				<div>
-					<a href="/wps/portal/neotel_medium_business_mobile_solutions"><strong>Mobile Solutions</strong></a><br>
-					Going online and staying connected in today’s business environment.
+					<a href="/wps/portal/neotel_business_data_neometrolink"><strong>NeoMetroLink</strong></a><br>
+					NeoMetro Link provides high bandwidth that’s cost-effective and enables the support 
+
+of real time applications.
+
 				</div>
 				</div>
+				
 				<div> 
 				<div>
-					<a href="/wps/portal/neotel_medium_business_managed_network_solutions"><strong>Managed Network Solutions</strong></a><br>
-					Connectivity is another critical business consideration.
-				</div>
-				</div>
-				<div class="odd"> 
-				<div>
-					<a href="/wps/portal/neotel_medium_business"><strong>Managed Hosting Solutions</strong></a><br>
-					Reliable hosting solutions are critical to the success of your business.
-				</div>
-				</div>
-				<div> 
-				<div>
-					<a href="/wps/portal/neotel_medium_business_managed_voice_solutions"><strong>Managed Voice Solutions</strong></a><br>
-					We are dedicated to providing cost-effective telephony solutions.
-				</div>
+					<a href="/wps/portal/neotel_business_data_neovpn"><strong>Neo VPN</strong></a><br>
+					NeoVPN is a Virtual Private Network (VPN) from Neotel that enables you to enjoy the 
+
+security and control.</div>
 				</div>
 				<div class="odd"> 
 				<div>
-					<a href="/wps/portal/neotel_medium_business_access_solutions"><strong>Access Solutions</strong></a><br>
-					Reliable and flexible access solutions are the success of businesses.
+					<a href="/wps/portal/neotel_business_data_neolinkglobalsadc"><strong>NeoLink Global Africa</strong></a><br>
+					NeoLink Global Africa is a premium cross-border connectivity service which affords 
+
+you cost-effective, reliable communications across diverse routes.				</div>
 				</div>
-				</div>
+
 			</div>
 			<!-- End div List -->
 		</div>
 		<div id="block4" style="display: none;"> 
 			
-			<p><strong class="orange">Large Business Solutions</strong></p>
+			<p><strong class="orange">Hosting</strong></p>
 			
 			<!-- Start div List -->
 			<div class="divlist service_popup_bg"> 
 				<div> 
 				<div>
-					<a href="/wps/portal/neotel_large_business_converged_solutions"><strong>Converged Solutions</strong></a><br>
-					Voice and Internet solutions are the success of your business.
-				</div>
+					<a href="/wps/portal/neotel_business_hosting_neohostcolocation"><strong>NeoHost Colocation</strong></a><br>
+					NeoHost offers you a robust and secure managed data solution.				
+
+</div>
 				</div>
 				<div class="odd"> 
 				<div>
-					<a href="/wps/portal/neotel_large_business_mobile_solutions"><strong>Mobile Solutions</strong></a><br>
-					Business doesn’t stop when you’ve left the office for the day.
-				</div>
+					<a href="/wps/portal/neotel_business_hosting_neohostmanagedhosting"><strong>NeoHost Managed Hosting</strong></a><br>
+					Our Managed Hosting services will help your business to expand from simple colocation 
+
+to a fully managed hosting environment.				</div>
 				</div>
 				<div> 
 				<div>
-					<a href="/wps/portal/neotel_large_business_managed_network_solutions"><strong>Managed Network Solutions</strong></a><br>
-					Connectivity is another critical business consideration.
+					<a href="/wps/portal/neotel_business_hosting_neohostvirtualhost"><strong>NeoHost Virtual Host</strong></a><br>
+					NeoHost: Virtual Host allows you to consolidate and continuously optimise your 
+
+complex IT infrastructure.	</div>
 				</div>
-				</div>
-				<div class="odd"> 
-				<div>
-					<a href="/wps/portal/neotel_large_business_managed_data_center_solutions"><strong>Managed Data Centre Solutions</strong></a><br>
-					We provide the local and global bandwidth performance demanded.
-				</div>
-				</div>
-				<div> 
-				<div>
-					<a href="/wps/portal/neotel_large_business_managed_voice_solutions"><strong>Managed Voice Solutions</strong></a><br>
-					We are dedicated to providing cost-effective telephone solutions.
-				</div>
-				</div>
-				<div class="odd"> 
-				<div>
-					<a href="/wps/portal/neotel_large_business_access_solutions"><strong>Access Solutions</strong></a><br>
-					These telecoms solutions allow for on-demand provisioning of bandwidth.
-				</div>
-				</div>
-			</div>
+							</div>
 			<!-- End div List -->
 			
 		</div>
 		<div id="block5" style="display: none;"> 
 			
-			<p><strong class="orange">Wholesale</strong></p>
+			<p><strong class="orange">VAS</strong></p>
 			
 			<!-- Start div List -->
 			<div class="divlist service_popup_bg"> 
 				<div> 
 				<div>
-					<a href="/wps/portal/neotel_wholesale_managed_network_solutions"><strong>Managed Network Solutions</strong></a><br>
-					Connectivity is another critical business consideration
-				</div>
+					<a href="/wps/portal/neotel_business_vas_neopresence:privateroom"><strong>NeoPresence: Private Room</strong></a><br>Affordable and reliable video conferencing solution </div>
 				</div>
 				<div class="odd"> 
 				<div>
-					<a href="/wps/portal/neotel_wholesale_managed_ip_solutions"><strong>Managed IP Solutions</strong></a><br>
-					We offer cost-effective and secure solutions for transmitting data anywhere in the world.
+					<a href="/wps/portal/neotel_business_vas_neopresence:publicroom"><strong>NeoPresence: Public Room</strong></a><br>Offer an accessible and cost-effective way for you to utilise our audio visual conferencing solution
 				</div>
 				</div>
 				<div> 
 				<div>
-					<a href="/wps/portal/neotel_wholesale_managed_transmission_solutions"><strong>Managed Transmission Solutions</strong></a><br>
-					Telecoms solutions that offer point-to-point national and international connectivity
+					<a href="/wps/portal/neotel_business_vas_neofax"><strong>NeoFax</strong></a><br>Electronic faxing and form reading solution				</div>
+				</div>
+<div class="odd"> 
+				<div>
+					<a href="/wps/portal/neotel_business_vas_mailgaurdandarchiving"><strong>Mail Gaurd and Archiving</strong></a><br>Managed security service 
+
 				</div>
 				</div>
+<div> 
+				<div>
+					<a href="/wps/portal/neotel_business_vas_hostedcontactcentre"><strong>Hosted Contact Centre</strong></a><br>Offers you full contact 
+management.				</div>
+				</div>
+
 			</div>
 			<!-- End div List -->
 			
@@ -3463,6 +3598,7 @@ Should you have any questions regarding any of our services, licences or policie
 					<!-- End Content -->
 				</div>
 				<!-- End Content Area -->
+
 				<div class="clearboth"></div>
 				<div class="printOnly">Copyright © 2009. All rights reserved Neotel Private Property.</div>
 
@@ -3567,6 +3703,9 @@ Should you have any questions regarding any of our services, licences or policie
 			    <a href="javascript:openFaceBook();"><img src="/wps/themes/html/Neotel/images/icon_facebook.gif" width="14" height="14" alt="facebook"></a>
 			    <a href="javascript:openTwitter();"><img src="/wps/themes/html/Neotel/images/icon_twitter.gif" width="14" height="14" alt="twitter"></a>
 			  
+                      
+			    <a href="javascript:openISPA();"><img src="/wps/themes/html/Neotel/images/ISPA-logo.bmp" width="30" height="20" alt="ISPA"></a>
+                     
 		 
              
 	    
@@ -3594,16 +3733,70 @@ Should you have any questions regarding any of our services, licences or policie
 	<br>
 	
 	<p>
-		Are you an existing Enterprise customer?
+		<!--Are you an existing Enterprise customer? -->
+
+		Please select the type of customer: 
 	</p>
 							<div id="yesno">
-									<a class="yes" href="/wps/portal/neotel_enterprise_register"> </a>
-									<a class="no" href="/wps/portal/neotel_register"> </a>
+							 <!--  <a class="yes" href="/wps/portal/neotel_enterprise_register"> </a>
 
+									
+									
+
+									<a class="no" href="/wps/portal/consumerReg"> </a> 
+
+									 -->
+
+									<table><tbody><tr><td>
+							<div class="grey_button">
+							<a href="/wps/portal/neotel_enterprise_register"><span>Enterprise</span></a></div></td>
+							<td>&nbsp;&nbsp;</td>
+							<td>
+							<div class="grey_button">
+							<a href="/wps/portal/consumerReg"><span>Consumer</span></a></div></td>
+							</tr>
+							</tbody></table>
+							</div>
+							
+							<table align="center" style="font-size:10px">
+                            <tbody>
+							<tr height="10px"></tr>
+							<tr><td>Enterprise: Refers to a large business organization, government or corporate company.</td></tr>
+							<tr height="5px"></tr>
+							
+							<tr><td align="left">Consumer: Refers to an individual or SOHO (small office/home office) customer.</td></tr>
+							
+							</tbody>
+							</table>
+
+							
+							</div>
+		
+
+
+
+ <div id="popup_prepaid_postpaid" style="display:none">
+
+    <br>
+	
+	<p>
+		Please select the type of order you want to place: 
+	</p>
+	<div id="prepaid_postpaid" style="padding-right:40px">
+							<table><tbody><tr><td>
+							<div class="grey_button">
+							<a href="/wps/portal/neotel_order_now"><span>Postpaid</span></a></div></td>
+							<td>&nbsp;&nbsp;</td>
+							<td>
+							<div class="grey_button">
+							<a href="/wps/portal/neotel_prepaid_order_now"> <span>Prepaid</span></a></div></td>
+							</tr>
+							</tbody></table>
 							</div>
 							</div>
 
-		<div id="fade" class="black_overlay"></div>    
+<div id="fade" class="black_overlay"></div> 
+		   
 
 					</div>
 
