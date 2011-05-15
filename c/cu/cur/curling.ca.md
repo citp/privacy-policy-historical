@@ -1,94 +1,205 @@
-> *The following text is extracted and transformed from the curling.ca privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609224449id_/http%3A//www.curling.ca/about_the_cca/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curling.ca privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515223306id_/http%3A//www.curling.ca/about-the-organization/privacy-policy) for the most accurate reproduction.*
 
-# About the CCA - Privacy Policy
+# Privacy Policy » Canadian Curling Association
 
-At the Canadian Curling Association (CCA), we are committed to collecting, using and disclosing your personal information responsibly and to maintaining the accuracy, confidentiality and security of such personal information.
+## Privacy Policy
 
-Personal information includes information that tells us specifically who you are, such as your address, telephone number and e mail address. However, publicly available information, such as a public directory listing of your name, address and telephone number is not considered personal information.
+**Article 1 – General**
 
-We have adopted the following privacy policy that guides how we collect, use and disclose personal information about Members. Our intent is to balance our legitimate business interests in collecting, using and disclosing your personal information against your reasonable expectations of privacy.
+1.1 Background – Privacy of personal information is governed by the Personal Information Protection and Electronics Documents Act (“PIPEDA”). This policy describes the way that the CCA collects, uses, safeguards, discloses and disposes of personal information, and states CCA’s commitment to collecting, using and disclosing personal information responsibly. This policy is based on the standards required by PIPEDA, and the CCA’s interpretation of these responsibilities.
 
-**A. Definitions**
+1.2 Purpose –The purpose of this policy is to govern the collection, use and disclosure of personal information in the course of commercial activities in a manner that recognizes the right of privacy of individuals with respect to their personal information and the need of CCA to collect, use or disclose personal information.
 
-In this policy:  
-1) “Business” means the business of operating the Canadian Curling Association, which includes the Web site;  
-2) “Member” means a customer, visitor and electronic member of the Web site.  
-3) “we”, “us”, “our” and “CCA” refer to the Canadian Curling Association; and  
-4) “Web site” refers to the web site found at www.curling.ca.
+1.3 Definitions – The following terms have these meanings in this Policy:
 
- **B. Collection of Personal Information**
+  1. Act – Personal Information Protection and Electronic Documents Act.
+  2. CCA – Canadian Curling Association.
+  3. Commercial Activity – any particular transaction, act or conduct that is of a commercial character.
+  4. Personal Information – any information about an identifiable individual including information that relates to their personal characteristics including, but not limited to, gender, age, income, social insurance number, home address or phone number, athletic testing and results, email, ethnic background, family status, health history and health conditions.
+  5. Representatives – Members, governors, officers, employees, committee members, officials, athletes, coaches, volunteers, administrators, donors, contractors and all other participants within the CCA’s programs and services.
 
-Our primary purpose in collecting personal information from you and about you is to ensure the provision of high quality products and/or services. We only collect personal information from and about you that we consider necessary for achieving this purpose and to permit us to conduct the Business diligently.
 
-We may collect personal information that you supply to us by sending us personal correspondence, such as e-mails or letters, or by registering in a secure portion of the Web site.
 
- **C. Use of Your Personal Information**
+1.4 Application –This Policy applies to the CCA in connection with personal information that is collected, used or disclosed during any commercial activity related to the CCA.
 
-We may use the personal information we collect from and about you to:  
-1) ensure the provision of high quality products and/or services;  
-2) inform you about online and offline offers, products, services, updates and events;  
-3) enable us to contact you;  
-4) establish and maintain communication with you;  
-5) assist us in complying with legal and regulatory requirements;  
-6) invoice you for products and/or services;  
-7) collect unpaid accounts.
+1.5 Statutory Obligations – CCA is governed by the Personal Information Protection and Electronic Documents Act in matters involving the collection, use and disclosure of personal information.
 
-We may also use your personal information as may be described to you at the time of collection. We may compare and review your personal information for errors and omissions and for accuracy.
+1.6 Additional Obligations – In addition to fulfilling all requirements of the Act, the CCA will also fulfill the additional requirements of this Policy. The CCA will not:
 
-If you choose to provide us with your financial information, we only use that financial information in order to complete the transaction for which it is intended. For example, when making a purchase on the Web site, we ask you to provide information by filling out and submitting a form. This information enables us to process your order. Any financial information collected by us in the context of such a purchase is strictly limited in use to processing your order. Your financial information (i.e. your credit card number) will not be stored electronically. Following the approval of the transaction, the financial information will be deleted from our system.
+  1. Disclose personal information to a third party during any business or transaction unless such business, transaction or other interest is properly consented to in accordance with this Policy;
+  2. Knowingly place themselves in a position where they are under obligation to any organization to disclose personal information;
+  3. In the performance of their official duties, disclose personal information to family members, friends or colleagues, or to organizations in which their family members, friends or colleagues have an interest;
+  4. Derive personal benefit from personal information that they have acquired during the course of fulfilling their duties with the CCA; and
+  5. Accept any gift or favor that could be construed as being given in anticipation of, or in recognition for, the disclosure of personal information.
 
-We may use personal information about you, in a non-personally identifiable manner, to improve our marketing and promotional efforts, to improve our content and product offerings, and to customize our Web site’s content, layout and services. These uses are to enable us to improve the Business and to better tailor the Business to meet your needs.
 
- **D. Disclosure of Personal Information**
 
-As a matter of policy, we do not sell, rent or lease any of your personal information to third parties without your explicit consent. However, there are a variety of circumstances where we may need to disclose some of your personal information, including the following:  
-1) We may disclose your personal information to an individual who, in our reasonable judgement, is seeking the information as your agent. For example, we may provide your personal information to your legal representative if we are satisfied that the individual is requesting the information on your behalf.  
-2) We may disclose your personal information as may be required by law.  
-3) We may aggregate personal information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing and promotional purposes.
+1.7 Ruling on Policy – Except as provided in the Act, the CCA’s Privacy Officer will have the authority to interpret any provision of this Policy that is contradictory, ambiguous, or unclear.
 
- **E. Control of Your Password**
+**Article 2 - Accountability**
 
-You are responsible for all actions taken with any user ID and/or password used to access the Web site. Therefore, we recommend that you not disclose your password to any third parties. If you choose to share your user ID, your password or your personal information with a third party, you are responsible for all actions resulting therefrom. If you lose control of your password, you may lose substantial control over certain personal information. Therefore, if your password has been compromised for any reason, you should immediately change your password.
-
- **F. Shopping On-line - Encryption Technology, Cookies and Web Beacons**
-
-When you order from our on-line catalogue, we offer the use of a secure server. We use Verisign secure server software, which is among the best software available today for secure commerce transactions. Verisign encrypts all information you input before it is sent to us, including credit card number, name and address, so that it cannot be read as the information travels over the Internet. While providing such information online is secure, doing so is voluntary, and you may otherwise choose to order by telephone (1-800-550-2875) or by fax (1-613-834-0716).
-
-To ensure that our Web site is well managed and to facilitate improved navigation within the Web site, we or our service provider(s) may use cookies (small text files stored in a user’s browser) or web beacons (electronic images that allow the Web site to count visitors who have accessed a particular page and to access certain cookies) to collect aggregate data. We may use such devices to track information on our systems and identify categories of visitors by items such as IP address, domain, browser type and pages visited. This information is reported to our webmasters who use the information to analyze the number of visitors to different areas of the Web site and to make sure that our Web site is serving as a useful, effective information source. 
-
-Neither our cookies nor web beacons collect any personal information such as your name or email address. Further, most browsers permit individuals to decline cookies. However, under specific circumstances, visitors may be denied access to some parts of our site if their browsers are set to decline cookies.
-
- **G. Access, Review, Change and Destruction of Your Personal Information**
-
-You may access, review and/or change the personal information we have in our files by submitting a written request to do so to our Privacy Information Officer at the address below. We ask that you promptly advise us of any changes to your information.
-
-Upon your written request, we will destroy, as soon as reasonably possible and in accordance with our internal policies and applicable law, any and all personal information that we have in our files about you. Notwithstanding the foregoing, we will retain in our files some personal information in order to enable us to collect any unpaid accounts and/or as may be required by law.
-
- **H. Other Information Collectors**
-
-Except as otherwise expressly included in this Privacy Policy, this document only addresses the collection, use and disclosure of personal information WE collect from and about you. To the extent that you disclose your personal information to other parties, different rules may apply to their collection, use or disclosure of such personal information. Since we do not control the privacy policies of third parties, you are subject to the privacy policies of such third parties.
-
- **I. Protecting Your Privacy**
-
-The personal information that is retained by us is kept in a secure environment and we use reasonable procedural and technical safeguards to protect your personal information against loss, theft and unauthorized access or disclosure. With regard to the Web site, all personal information is stored on a separate and secure database server that is protected by state-of-the-art firewall technology.
-
-While we employ many different security techniques to protect such data from unauthorized access by users inside and outside the company, we cannot ensure perfect security, particularly in relation to the Web site.
-
- **J. Amendments to This Policy**
-
-We may amend this Privacy Policy at any time by mailing (including regular mail and email) any amended terms to you or by posting the amended terms on the Web site. All amended terms shall automatically be effective five days (5) days after mailing or on the date of posting.
-
- **K. Privacy Information Officer, Access, Questions or Concerns**
-
-The Privacy Information Officer for the CCA is Patricia Ray, Chief Operating Officer.
-
-If you wish to access, review and/or change your personal information contained in our files or if you have any questions or concerns about our privacy principles outlines above or about our practices, please contact us at:
+2.1 Privacy Officer – Patricia Ray, Chief Operating Officer, is the CCA’s Privacy Officer and is responsible for the implementation of this policy and monitoring information collection and data security, and ensuring that all employees receive appropriate training on privacy issues and their responsibilities. The Privacy Officer also handles personal information access requests and complaints. The Privacy Officer may be contacted at the following address:
 
 Canadian Curling Association  
+C/O Privacy Officer  
 1660 Vimont Court  
-Cumberland, Ontario, Canada  
-K4A 4J4
+Orleans, Ontario K4A 4J4  
+Tel: 613-834-2076 / 1-800-550-2875 (in Canada Only)  
+Fax: 613-834-0716  
+Email: [privacyofficer@curling.ca](mailto:privacyofficer@curling.ca)
 
-Tel: 613.834.2076 / 1.800.550.2875 (in Canada only)   
-Fax: 613.834.0716  
-Email: [info@curling.ca](mailto:info@curling.ca)
+2.2 Duties – The Privacy Officer will:
+
+  1. Implement procedures to protect personal information;
+  2. Establish procedures to receive and respond to complaints and inquiries;
+  3. Ensure any third party providers abide by this policy; and
+  4. Train and communicate to staff information about the CCA’s policies and practices.
+
+
+
+2.3 Employees – The CCA will be responsible to ensure that the employees, contractors, agents, or otherwise are compliant with the Act and this Policy.
+
+**Article 3 – Identifying Purposes**
+
+3.1 Purpose – Personal information may be collected from Representatives and prospective Representatives and will only be used to meet and maintain the highest standards related to the organization and programming of curling. The CCA will use personal information for purposes that include, but are not limited to, the following:
+
+  1. Ensure the provision of high quality products and/or services.
+  2. Receiving communications from CCA and their sponsors in regards to E-news, e-mails, bulletins, donation requests, invoices, notifications, merchandise sales, newsletters, programs, events and activities.
+  3. Establishment and management of trust funds and distribution of honorariums.
+  4. Database entry at the Coaching Association of Canada to determine level of coaching certification and qualifications.
+  5. Coach selection.
+  6. Database entry to determine level of officiating and ice technician certification and qualifications.
+  7. Determination of eligibility, age group and appropriate level of play/competition.
+  8. Implementation of CCA’s screening program.
+  9. Implementation of anti-doping policies and drug testing.
+  10. Promotions, sale of merchandise and financial transactions*.
+  11. Medical emergency.
+  12. Award nominations.
+  13. Biographical information.
+  14. Competition and CCA registration.
+  15. Outfitting uniforms, monitoring eligibility, arranging travel and various components of athlete and team selection.
+  16. Technical monitoring, officials training, educational purposes, media publications, and sport promotion.
+  17. Purchasing equipment, manuals, resources and other products and/or services.
+  18. Publishing articles, media relations and posting on the CCA’s website, publications, displays or posters.
+  19. Determination of membership demographics and program wants and needs.
+  20. Managing payroll, health benefits, insurance claims or insurance investigations.
+  21. Other purposes deemed necessary by the CCA’s Privacy Officer while in compliance with the Act.
+
+
+
+*Financial information, for example credit card numbers, will not be maintained by the CCA and will be deleted upon completion of the applicable financial transaction.
+
+3.2 Purposes not Identified – The CCA will seek consent from individuals when personal information is used for commercial purpose not identified herein or previously indentified. This consent will be documented as to when and how it was received.
+
+3.3 User ID and/or Password – A Representative or potential Representative is solely responsible for any User ID and/or password to access the CCA website and will not disclose their User ID or password to any third party. Upon such disclosure, the Representative or potential Representative will be solely responsible for the actions resulting from the disclosure.
+
+3.4 Shopping On-Line – A Representative or potential Representative who shops and orders from the CCA on-line catalogue will be provided a secure commerce transaction by way of Verisign secure server software. Verisign encrypts all information inputted before being sent to the CCA, including credit card numbers, name and address, in order to prevent unauthorized disclosure on the internet. In the event that a Representative or potential Representative does not wish to provide personal information on-line, the Representative or potential Representative may otherwise choose to order via telephone (1-800-550-2875) or by fax (1-613-834-0716).
+
+3.5 Cookies – In order for the CCA to ensure its website is well managed and to facilitate improved navigation, the CCA may use cookies (small text files stored in a Representative’s or potential Representative’s browser) or web beacons (electronic images that allow the CCA website to count visitors who have accessed a particular page and to access certain cookies) to collect aggregate data. Aggregate data may include IP address, domain, browser type and pages visited. Cookies or web beacons used by the CCA do not collect any personal information such as name, address or email address. Representatives and potential Representatives may have web browsers which permit the user to decline cookies, however, under specific circumstances; the CCA website may deny access to some party of its website if the browser is set to decline cookies.
+
+3.6 Social Media User Agreement and Terms of Use – In addition to the requirements and information provided within this Policy, Representatives and Potential Representatives accessing the CCA website and/for social media platforms are also subject to the terms and conditions of the CCA Social Media User Agreement and Terms of Use.
+
+**Article 4 - Consent**
+
+4.1 Consent – The CCA will obtain consent by lawful means from individuals at the time of collection and prior to the use or disclosure of the applicable personal information. The CCA may collect personal information without consent where reasonable to do so and where permitted by law.
+
+4.2 Implied Consent – By providing personal information to the CCA in any format, including but not limited to email, personal correspondence, letter or via registration, individuals are consenting to the use of the information for the purposes identified in this policy.
+
+4.3 Withdrawal – An individual may withdraw consent in writing to the collection, use or disclosure of personal information at any time, subject to legal or contractual restrictions. The CCA will inform the individual of the implications of such withdrawal.
+
+4.4 Legal Guardians – Consent will not be obtained from individuals who are minors, seriously ill, or mentally incapacitated and therefore will be obtained from a parent, legal guardian or person having power of attorney.
+
+4.5 Exceptions for Collection – The CCA is not required to obtain consent for the collection of personal information if:
+
+  1. It is clearly in the individual’s interests and consent is not available in a timely way;
+  2. Knowledge and consent would compromise the availability or accuracy of the information and collection is required to investigate a breach of an agreement or contravention of a federal or provincial law;
+  3. The information is for journalistic, artistic or literary purposes; or
+  4. The information is publicly available as specified in the Act.
+
+
+
+4.6 Exceptions for Use – The CCA may use personal information without the individual’s knowledge or consent only:
+
+  1. If the CCA has reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law and the information is used for that investigation;
+  2. For an emergency that threatens an individual’s life, health or security;
+  3. For statistical or scholarly study or research;
+  4. If it is publicly available as specified in the Act;
+  5. If the use is clearly in the individual’s interest and consent is not available in a timely way; or
+  6. If knowledge and consent would compromise the availability or accuracy of the information and collection was required to investigate a breach of an agreement or contravention of a federal or provincial law.
+
+
+
+4.7 Exceptions for Disclosure – The CCA may disclose personal information without the individual’s knowledge or consent only:
+
+  1. To a lawyer representing the CCA;
+  2. To collect a debt the individual owes to the CCA;
+  3. To comply with a subpoena, a warrant or an order made by a court or other body with appropriate jurisdiction;
+  4. To a government institution that has requested the information, identified its lawful authority, and indicated that disclosure is for the purpose of enforcing, carrying out an investigation, or gathering intelligence relating to any federal, provincial or foreign law; or that suspects that the information relates to national security or the conduct of international affairs; or is for the purpose of administering any federal or provincial law;
+  5. To an investigative body named in the Act or government institution on CCA’s initiative when CCA believes the information concerns a breach of an agreement, or a contravention of a federal, provincial, or foreign law, or suspects the information relates to national security or the conduct of international affairs;
+  6. To an investigative body for the purposes related to the investigation of a breach of an agreement or a contravention of a federal or provincial law;
+  7. In an emergency threatening an individual’s life, health, or security (CCA must inform the individual of the disclosure);
+  8. For statistical, scholarly study or research;
+  9. To an archival institution;
+  10. 20 years after the individual’s death or 100 years after the record was created;
+  11. If it is publicly available as specified in the regulations; or
+  12. If otherwise required by law.
+
+
+
+**Article 5 - Limiting Collection, Use, Disclosure and Retention**
+
+5.1 Limiting Collection, Use and Disclosure – The CCA will not collect, use or disclose personal information indiscriminately. Information collected will be for the purposes specified in Article 3.1, except with the consent of the individual or as required by law.
+
+5.2 Retention Periods – Personal information will be retained as long as reasonably necessary to enable participation in the CCA, to maintain accurate historical records and or as may be required by law.
+
+5.3 Destruction of Information – Documents will be destroyed by way of shredding and electronic files will be deleted in their entirety.
+
+**Article 6 - Safeguards**
+
+6.1 Safeguards – Personal information will be protected by security safeguards appropriate to the sensitivity of the information against loss or theft, unauthorized access, disclosure, copying, use or modification.
+
+**Article 7 - Individual Access**
+
+7.1 Access – Upon written request, and with assistance from the CCA, an individual may be informed of the existence, use and disclosure of his or her personal information and will be given access to that information. As well, an individual is entitled to be informed of the source of the personal information along with an account of third parties to whom the information has been disclosed.
+
+7.2 Response – Requested information will be disclosed to the individual within 30 days of receipt of the written request at no cost to the individual, or at nominal costs relating to photocopying expenses, unless there are reasonable grounds to extend the time limit.
+
+7.3 Denial – An individual may be denied access to his or her personal information if:
+
+  1. This information is prohibitively costly to provide;
+  2. The information contains references to other individuals;
+  3. The information cannot be disclosed for legal, security or commercial proprietary purposes;
+  4. The information is subject to solicitor-client or litigation privilege.
+
+
+
+7.4 Reasons – Upon refusal, the CCA will inform the individual the reasons for the refusal and the associated provisions of PIPEDA.
+
+7.5 Identity – Sufficient information will be required to confirm an individual’s identity prior to providing that individual an account of the existence, use, and disclosure of personal information.
+
+**Article 8 - Challenging Compliance**
+
+8.1 Challenges – An individual will be able to challenge compliance with this Policy and the Act to the designated individual accountable for compliance.
+
+8.2 Procedures – Upon receipt of a complaint the CCA will:
+
+  1. Record the date the complaint is received;
+  2. Notify the Privacy Officer who will serve in a neutral, unbiased capacity to resolve the complaint;
+  3. Acknowledge receipt of the complaint by way of telephone conversation and clarify the nature of the complaint;
+  4. Appoint an investigator using CCA personnel or an independent investigator, who will have the skills necessary to conduct a fair and impartial investigation and will have unfettered access to all file and personnel.
+  5. Upon completion of the investigation, the investigator will submit a written report to CCA.
+  6. Notify the complainant the outcome of the investigation and any relevant steps taken to rectify the complaint, including any amendments to policies and procedures.
+
+
+
+8.3 Whistle-blowing – The CCA will not dismiss, suspend, demote, discipline, harass or otherwise disadvantage all governors, officers, employees, committee members, volunteers, trainers, contractors, and other decision-makers within the CCA or deny that person a benefit because the individual, acting in good faith and on the basis of reasonable belief:
+
+  1. Disclosed to the commissioner that the CCA has contravened or is about to contravene the Act;
+  2. Has done or stated an intention of doing anything that is required to be done in order to avoid having any person contravene the Act; or
+  3. Has refused to do or stated an intention of refusing to do anything that is in contravention of the Act.
+
+
+
+**Article 9 - Applicable Law**
+
+9.1 Applicable Law – The laws of the province of Ontario will govern.
