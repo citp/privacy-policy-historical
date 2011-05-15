@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oreck.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229110959id_/http%3A//www.oreck.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreck.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515091316id_/http%3A//www.oreck.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Vacuum Cleaners, Air Purifiers, Floor Cleaning Products, Clean Air Products - Oreck
 
