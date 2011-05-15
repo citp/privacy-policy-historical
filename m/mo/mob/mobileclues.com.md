@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileclues.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227221906id_/http%3A//www.mobileclues.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileclues.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515071359id_/http%3A//www.mobileclues.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,13 @@ At www.mobileclues.com, the privacy of our visitors is of extreme importance to 
 
 Log Files:
 
-Like many other Web sites, www.mobileclues.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, www.mobileclues.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet [Service Provider](http://www.mobileclues.com/category/service-provider "Service Provider") ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 Cookies and Web Beacons  
 www.mobileclues.com does not use cookies.
 
 DoubleClick DART Cookie  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.mobileclues.com.  
+.:: [Google](http://www.mobileclues.com/category/google "Google"), as a third party vendor, uses cookies to serve ads on www.mobileclues.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.mobileclues.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
