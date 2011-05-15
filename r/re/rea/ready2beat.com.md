@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ready2beat.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127175747id_/http%3A//ready2beat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ready2beat.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515041101id_/http%3A//ready2beat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ready2Beat
 
