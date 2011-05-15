@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the botb.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229195741id_/http%3A//www.botb.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botb.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515200419id_/http%3A//www.botb.com/Privacy.aspx) for the most accurate reproduction.*
 
 # botb.com - privacy policy
 
@@ -12,7 +12,7 @@ Note: If you still have questions about entering our competitions online, please
 
 ### What information do we gather and what do we do with it?
 
-When you enter our competitions online or order products, we record your name, contact and billing details, transaction and credit card information. We use this information to contact customers if they have won, to respond to order queries, and for other communication purposes. To receive news and special offers by email from **botb.com** you will be asked to tick a box during the account creation process, which you can unsubscribe from at anytime.
+When you enter our competitions online or order products, we record your name, contact and billing details, transaction and credit card information. We use this information to contact customers if they have won, to respond to order queries, and for other communication purposes. To receive news and special offers by email and/or SMS from **botb.com** you will be asked to tick a box during the account creation process, which you can unsubscribe from at anytime.
 
 Our website uses cookies which also collect information and improve you experience on our website. Cookies are used on most of the websites that you will be used to visiting. A cookie is simly a piece of text which asks permission to be placed on your computer's hard drive. Once you agree, your browser adds that text in a small file. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. For example, when you visit an electronic store, a cookie makes it easier to shop, by remembering your details and telling them to the website so that you do not have to enter them each time. Cookies also enable us to check which pages are the most popular on the site and how visitors use our site. A cookie does not give us access to your computer.
 
