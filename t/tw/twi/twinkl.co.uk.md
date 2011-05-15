@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twinkl.co.uk privacy policy that was archived on 2010-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100701004548id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinkl.co.uk privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515053254id_/http%3A//www.twinkl.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Free Foundation Stage, KS1 and EYFS Teaching Resources | twinkl
+# Free Early Years Foundation Stage, EYFS and KS1 Primary Teaching resources | twinkl
 
 We collect different types of information about our users for the following main reasons:
 
@@ -28,3 +28,7 @@ Remember to log out and close your browser when you have finished your user sess
 Please be aware that whenever you voluntarily disclose personal information over the Internet that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your usernames and passwords and any account information. Please be careful and responsible whenever you are using the Internet.
 
 Our pages may contain links to other websites, and you should be aware that we are not responsible for the privacy practices on other websites.
+
+## Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
