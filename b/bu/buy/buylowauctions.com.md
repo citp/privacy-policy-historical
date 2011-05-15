@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buylowauctions.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204124628id_/http%3A//www.buylowauctions.com/index.php%3F/site/pop_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buylowauctions.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515193231id_/http%3A//buylowauctions.com/index.php%3F/site/pop_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ If we change this Privacy Policy, we will post those changes here and revise the
 
 #### Contact Us
 
-Please relay any questions you may have pertaining our above stated policies to our Customer Service Center via email by clicking [here](http://www.buylowauctions.com/index.php?/site/service.html) or by calling 888-236-6918. 
+Please relay any questions you may have pertaining our above stated policies to our Customer Service Center via email by clicking [here](http://buylowauctions.com/index.php?/site/service.html) or by calling 888-236-6918. 
 
 #### Your California Privacy Rights
 
