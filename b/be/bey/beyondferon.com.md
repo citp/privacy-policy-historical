@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondferon.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224050346id_/http%3A//beyondferon.com/%3Fpage_id%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondferon.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515192658id_/http%3A//beyondferon.com/%3Fpage_id%3D8) for the most accurate reproduction.*
 
 # Privacy Policy | Beyond Feron Dot Com
 
