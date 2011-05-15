@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classyauto.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123032754id_/http%3A//www.classyauto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classyauto.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515101911id_/http%3A//www.classyauto.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,8 +33,8 @@ If you have any questions about this policy please contact us at:
 ClassyAuto.com  
 1941 S 42nd St, Suite 104  
 Omaha NE 68105  
-Toll-free at 800-320-9557  
-Fax: 402-341-0264  
+Toll-free at 1-855-578-1536  
+Fax: 402-201-2663  
 Local Phone: 402-342-1570
 
 ### Car Loan Resources
