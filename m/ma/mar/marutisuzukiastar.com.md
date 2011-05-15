@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marutisuzukiastar.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207051657id_/http%3A//www.marutisuzukiastar.com/astar_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marutisuzukiastar.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516014939id_/http%3A//www.marutisuzukiastar.com/astar_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: Maruti Suzuki A-Star: Stop at nothing with KB series Engine
 
