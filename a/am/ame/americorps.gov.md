@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227014429id_/http%3A//www.americorps.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515221544id_/http%3A//www.americorps.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
 
 # NationalService.gov > Security and Privacy Policy
 
@@ -26,7 +26,7 @@ The Corporation collects and maintains a limited amount of personally identifiab
 
 To obtain a copy of a PIA for an information system, please contact: 
 
-Mary Cadagin  
+Philip Clark  
 Chief Information Officer and Senior Agency Official for Privacy  
 Corporation for National and Community Service  
 1201 New York Avenue, NW  
@@ -44,7 +44,7 @@ Corporation for National and Community Service
 1201 New York Ave., NW  
 Washington DC 20525  
 202-606-5000  
-[mailto:webmaster@cns.gov ](mailto:webmaster@cns.gov)
+[webmaster@cns.gov ](mailto:webmaster@cns.gov)
 
 ### Information Security, Privacy and Contractor Security Requirements
 
@@ -54,6 +54,4 @@ Our recent FISMA system security assessments confirmed that all current Corporat
 
 ### Public Burden Statements and Privacy Act Notices
 
-[Please click here to view our current Public Burden Statements and Privacy Act Notices.](https://web.archive.org/pdf/10_0226_burden_and_privacy_statementsA.pdf) (75 KB PDF) 
-
-* * *
+[Please click here to view our current Public Burden Statements and Privacy Act Notices.](https://web.archive.org/pdf/cncs_burden_and_privacy_statements.pdf) (75 KB PDF)
