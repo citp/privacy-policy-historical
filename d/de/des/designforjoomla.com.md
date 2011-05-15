@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027164309id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515075022id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Joomla Templates, Joomla Extensions for the Joomla CMS - Privacy Policy
 
@@ -22,17 +22,17 @@ We do not sell user list of our users to any third party company for any further
 
 ### Popular D4J Joomla! Templates Club Templates
 
-What a nice blog template! Soft and easy colors! This design is supposed to ...
+**Tick Tock** is a very impressive template from D4J Joomla! Templates ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/blue_blog.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/tick_tock.php)  
 ---|---  
   
-**Expert Vision** \- a simple style - easily editable for your website. ...
+**Team Three** is a very modern and impressive design. 3-color design seems ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/expert_vision.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/team_three.php)  
 ---|---  
   
-**Voodoo** is an elastic design, smart use of color, excellent markup arrangement ...
+**Jet 30** is useful for business site with many flexible modules. It can ...
 
-| [](http://designforjoomla.com/home/joomla_templates_club/voodoo.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/jet_30.php)  
 ---|---
