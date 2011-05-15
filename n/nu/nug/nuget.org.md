@@ -1,54 +1,79 @@
-> *The following text is extracted and transformed from the nuget.org privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101082620id_/http%3A//nuget.codeplex.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuget.org privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515122617id_/http%3A//www.nuget.org/policies/privacy) for the most accurate reproduction.*
 
-# NuGet (formerly NuPack)
+# Privacy Policy - NuGet gallery
 
-###  Last updated: March 2009
+## PRIVACY POLICY
 
-Microsoft is committed to protecting your privacy, while delivering software that brings you the performance, power, and convenience you desire in your personal computing. This privacy statement explains many of the data collection and use practices of Microsoft CodePlex (“CodePlex”). It focuses on features that communicate with the Internet. It does not apply to other online or offline Microsoft sites, products, or services. 
+## Outercurve Foundation Online Privacy Statement
 
-CodePlex is Microsoft's open source project hosting web site. CodePlex enables you to start a new project, join an existing one, or download software created by the community.
+Your privacy is important to the Outercurve Foundation (Outercurve). Our goal is to provide you with a personalized online experience that provides you with the information, resources, and services that are most relevant and helpful to you. This Privacy Statement has been written to describe the conditions under which this Web site is being made available to you. The Privacy Statement discusses, among other things, how data obtained during your visit to this Web site may be collected and used. We strongly recommend that you read the Privacy Statement carefully. By using this Web site, you agree to be bound by the terms of this Privacy Statement. If you do not accept the terms of the Privacy Statement, you are directed to discontinue accessing or otherwise using the Web site or any materials obtained from it. If you are dissatisfied with the Web site, by all means contact us at info@outercurve.orgotherwise, your only recourse is to disconnect from this site and refrain from visiting the site in the future.
 
-The information we collect from you will be used by Microsoft and its controlled subsidiaries and affiliates to enable the features you are using and provide the service(s) or carry out the transaction(s) you have requested or authorized. It may also be used to analyze and improve Microsoft products and services.
+The process of maintaining a Web site is an evolving one, and Outercurve may decide at some point in the future, without advance notice, to modify the terms of this Privacy Statement. Your use of the Web site, or materials obtained from the Web site, indicates your assent to the Privacy Statement at the time of such use. The effective Privacy Statement will be posted on the Web site, and you should check upon every visit for any changes.
 
-We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. Some Microsoft services may send periodic member letters that are considered part of the service. We may occasionally request your feedback, invite you to participate in surveys, or send you promotional mailings to inform you of other products or services available from Microsoft and its affiliates. 
+### Sites Covered by this Privacy Statement
 
-Except as described in this statement, personal information you provide will not be transferred to third parties without your consent. We occasionally hire other companies to provide limited services on our behalf, such as packaging, sending and delivering purchases and other mailings, answering customer questions about products or services, processing event registration, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+This Privacy Statement applies to all Outercurve-maintained Web sites, domains, information portals, and registries.
 
-Microsoft may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of Microsoft or our customers, including the enforcement of our agreements or policies governing your use of the services; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of Microsoft employees, customers, or the public. 
+### Children's Privacy
 
-Information that is collected by or sent to Microsoft by CodePlex may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries, or service providers maintain facilities. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+Outercurve is committed to protecting the privacy needs of children, and we encourage parents and guardians to take an active role in their children's online activities and interests. Outercurve does not intentionally collect information from children under the age of 13, and Outercurve does not target its Web site to children.
 
-When you use software with Internet-enabled features, information about your computer ("standard computer information") is sent to the Web sites you visit and online services you use. Microsoft uses standard computer information to provide you Internet-enabled services, to help improve our products and services, and for statistical analysis. Standard computer information typically includes information such as your IP address, operating system version, browser version, and regional and language settings. In some cases, standard computer information may also include hardware ID, which indicates the device manufacturer, device name, and version. If a particular feature or service sends information to Microsoft, standard computer information will be sent as well.
+### Links to Non-Outercurve Web Sites
 
-The privacy details for each CodePlex feature, software or service listed in this privacy statement describe what additional information is collected and how it is used.
+Outercurve’s Web site may provide links to third-party Web sites for the convenience of our users. If you access those links, you will leave the Outercurve Web site. Outercurve does not control these third-party Web sites and cannot represent that their policies and practices will be consistent with this Privacy Statement. For example, other Web sites may collect or use personal information about you in a manner different from that described in this document. Therefore, you should use other Web sites with caution, and you do so at your own risk. We encourage you to review the privacy policy of any Web site before submitting personal information.
 
-Microsoft is committed to helping protect the security of your information. We use a variety of security technologies and procedures to help protect your information from unauthorized access, use, or disclosure. For example, we store the information you provide on computer systems with limited access, which are located in controlled facilities. 
+## TYPES OF INFORMATION WE COLLECT
 
-We will occasionally update this privacy statement to reflect changes in our products, services, and customer feedback. When we post changes, we will revise the "last updated" date at the top of this statement. If there are material changes to this statement or in how Microsoft will use your personal information, we will notify you either by posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how Microsoft is protecting your information.
+### Non-Personal Information
 
-Microsoft welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://www.codeplex.com/site/contact). 
+Non-personal information is data about usage and service operation that is not directly associated with a specific personal identity. Outercurve may collect and analyze non-personal information to evaluate how visitors use the Outercurve Web site.
 
-CodePlex Privacy  
-Microsoft Corporation   
-One Microsoft Way  
-Redmond, Washington 98052 USA 
+### Aggregate Information
 
-The remainder of this document will address the following specific features:
+Outercurve may gather aggregate information, which refers to information your computer automatically provides to us and which cannot be tied back to you as a specific individual. Examples include referral data (the Web sites you visited just before and just after our site), the pages viewed, time spent at our Web site, and Internet Protocol (IP) addresses. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. For example, when you request a page from one of our sites, our servers log your IP address to create aggregate reports on user demographics and traffic patterns and for purposes of system administration.
 
-What This Feature Does: CodePlex registration allows you to create a User Account that you can use to upload new source code, participate in discussion forums, rate existing projects, and register issues. 
+### Log Files
 
-Information Collected, Processed, or Transmitted: When you register, CodePlex will ask you to choose a User Name and Password, and will ask you to provide a valid email address. 
+Every time you request or download a file from the Web site, Outercurve may store data about these events and your IP address in a log file. Outercurve may use this information to analyze trends, administer the Web site, track users' movements, and gather broad demographic information for aggregate use or for other business purposes.
 
-Use of Information: Your User Name will be used to identify each source code file, rating, discussion comment, or issue you post on the site. Your email address will be used to validate your account, and may also be used to allow other users to contact you. When another user contacts you, they will not see your email address. 
+### Cookies
 
-Choice/Control: You may not post to CodePlex without first registering, however if you chose not to register, you may still download projects. You may choose to Opt-Out of allowing other users to contact you by updating the contact preference in your CodePlex Profile.
+Our site may use a feature of your browser to set a "cookie" on your computer. Cookies are small packets of information that a Web site's computer stores on your computer. Outercurve's Web site can then read the cookies whenever you visit our site. We may use cookies in a number of ways, such as to save your password so you don't have to re-enter it each time you visit our site, to deliver content specific to your interests and to track the pages you've visited. These cookies allow us to use the information we collect to customize your Outercurve experience so that your visit to our site is as relevant and as valuable to you as possible.
 
-What This Feature Does: When you post new source code, participate in discussion forums, rate existing projects, and register issues, your post will be tagged with your User Name. Other users may click on your User Name to view your Profile. 
+Most browser software can be set up to deal with cookies. You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies, certain of the functions and conveniences of our Web site may not work properly, and you may be unable to use those Outercurve services that require registration in order to participate, or you will have to re-register each time you visit our site. Most browsers offer instructions on how to reset the browser to reject cookies in the "Help" section of the toolbar. We do not link non-personal information from cookies to personally identifiable information without your permission.
 
-Information Collected, Processed, or Transmitted: Your User Name, the date you joined CodePlex, your Projects, and your recent Activities on the CodePlex site will be visible to users that view your Profile. If you choose to add a Personal Statement to your Profile, this will also be visible. 
+### Web Beacons
 
-Use of Information: Other users may view your profile to learn more about your activities on CodePlex. They may also use your Profile page to contact you if your Profile contact preference is set to enable other users to contact you. 
+Outercurve’s Web site also may use Web beacons to collect non-personal information about your use of our Web site and the Web sites of selected sponsors and advertisers, your use of special promotions or newsletters, and other activities. The information collected by Web beacons allows us to statistically monitor how many people are using our Web site and selected sponsors' sites; how many people open our emails; and for what purposes these actions are being taken. Our Web beacons are not used to track your activity outside of our Web site or those of our sponsors. Outercurve does not link non-personal information from Web beacons to personally identifiable information without your permission.
 
-Choice/Control: You may choose to Opt-Out of allowing other users to contact you by updating the contact preference in your CodePlex Profile. 
+### Personal Information
 
-Updating...
+Personal information is information that is associated with your name or personal identity. Outercurve uses personal information to better understand your needs and interests and to provide you with better service. On some Outercurve Web pages, you may be able to request information, subscribe to mailing lists, participate in online discussions, collaborate on documents, provide feedback, submit information into registries, register for events, apply for membership, or join technical committees or working groups. The types of personal information you provide to us on these pages may include name, address, phone number, email address, user IDs, passwords, billing information, or other information.
+
+## HOW WE USE YOUR INFORMATION
+
+Outercurve may use non-personal data that is aggregated for reporting about Outercurve Web site usability, performance, and effectiveness. It may be used to improve the experience, usability, and content of the site.
+
+### Information Sharing
+
+Outercurve does not sell, rent, or lease any individual's personal information or lists of email addresses to anyone for marketing purposes, and we take commercially reasonable steps to maintain the security of this information. However, Outercurve reserves the right to supply any such information to any organization into which Outercurve may merge in the future or to which it may make any transfer in order to enable a third party to continue part or all of the Council's mission. We also reserve the right to release personal information to protect our systems or business, when we reasonably believe you to be in violation of our Terms of Use or if we reasonably believe you to have initiated or participated in any illegal activity. In addition, please be aware that in certain circumstances, Outercurve may be obligated to release your personal information pursuant to judicial or other government subpoenas, warrants, or other orders.
+
+In keeping with our open process, Outercurve may maintain publicly accessible archives for the vast majority of our activities. For example, posting an email message to any Outercurve-hosted mail list or discussion forum, subscribing to any Outercurve newsletter or registering for one of our public meetings may result in your email address becoming part of the publicly accessible archives.
+
+Please remember that any information (including personal information) that you disclose in public areas of our Web site, such as forums, message boards, and news groups, becomes public information that others may collect, circulate, and use. Because we cannot and do not control the acts of others, you should exercise caution when deciding to disclose information about yourself or others in public forums such as these.
+
+Given the international scope of Outercurve, personal information may be visible to persons outside your country of residence, including to persons in countries that your own country's privacy laws and regulations deem deficient in ensuring an adequate level of protection for such information. If you are unsure whether this privacy statement is in conflict with applicable local rules, you should not submit your information. If you are located within the European Union, you should note that your information will be transferred to the United States, which is deemed by the European Union to have inadequate data protection. Nevertheless, in accordance with local laws implementing European Union Directive 95/46/EC of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data ("EU Privacy Directive"), individuals located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this Privacy Statement and to its transfer to and/or storage in the United States of America.
+
+If you do not want your personal information collected and used by Outercurve, please do not visit Outercurve’s Web site or apply for participation status.
+
+### Security
+
+Outercurve makes every effort to protect personal information by users of the Web site, including using firewalls and other security measures on its servers. No server, however, is 100% secure, and you should take this into account when submitting personal or confidential information about yourself on any Web site, including this one. Much of the personal information is used in conjunction with participation-level services such as collaboration and discussion, so some types of personal information such as your name, company affiliation, and email address will be visible to other Outercurve participators and to the public. Outercurve assumes no liability for the interception, alteration, or misuse of the information you provide. You alone are responsible for maintaining the secrecy of your personal information. Please use care when you access this Web site and provide personal information.
+
+### Opting Out
+
+From time to time Outercurve may email you electronic newsletters, announcements, surveys or other information. If you prefer not to receive any or all of these communications, you may opt out by following the directions provided within the electronic newsletters and announcements.
+
+### Contacting Us
+
+Questions about this Privacy Statement can be directed to [info@outercurve.org](mailto:info@outercurve.org "Email info@outercurve.org").
