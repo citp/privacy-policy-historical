@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the ifloor.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223194458id_/http%3A//www.ifloor.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifloor.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515025742id_/http%3A//www.ifloor.com/Help/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# iFLOOR Privacy Policy
 
-| We're here to help you by sharing our expertise in any way we can.   
----|---  
-  
 At iFLOOR.com, we are committed to protecting your privacy. We use information we collect from you to process orders and to provide a more personalized shopping experience. We do not sell, trade, or rent your personal information to outside parties. 
 
 ### What information do we collect? How do we use it?
@@ -13,7 +10,7 @@ At iFLOOR.com, we are committed to protecting your privacy. We use information w
   * When you sign up for one of our SALE NOTIFICATION SERVICES, we only need an e-mail address, which we use to send the information you request.
   * When you enter a contest or other promotional feature, we may ask for your name, address, e-mail address, and phone number so we can administer the contest and notify winners.
   * We personalize your shopping experience by using your purchases to shape our recommendations about the merchandise that might be of interest to you. We also monitor customer traffic patterns and site usage to help us develop the design and layout of the website.
-  * We may also use the information we collect to occasionally notify you about important functionality changes to the web site, new iFLOOR.com services, and special offers we think you'll find valuable. If you would rather not receive this information, visit the [CUSTOMER INFORMATION PAGE](http://www.ifloor.com/user.pl) to change your preferences. Make sure to change your preferences for each account or e-mail address you have registered.
+  * We may also use the information we collect to occasionally notify you about important functionality changes to the web site, new iFLOOR.com services, and special offers we think you'll find valuable. If you would rather not receive this information, visit [My Account](https://ifloor.securedcheckout.com/app/center/nlvisitor.nl/sc.6/.f) to change your preferences. Make sure to change your preferences for each account or e-mail address you have registered.
   * We have arranged with PowerReviews, Inc. (d/b/a Buzzillions) (“PowerReviews”) to facilitate the collection of consumer product reviews of products we sell. When you submit a product review to us, you are also subject to PowerReviews’ terms of use and privacy policies (see [Terms of Use](http://www.buzzillions.com/public/legal/index_en_US.html)) Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [Buzzillions](http://www.buzzillions.com/) and our site.
 
 
@@ -34,7 +31,7 @@ Also, iFLOOR.com may provide aggregate statistics about our customers, sales, tr
 
 ### In summary: 
 
-We are committed to protecting your privacy. We use the information we collect on the site to make shopping at iFLOOR.com possible and to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending a blank e-mail message to never@ifloor.com. If you never want to receive any announcements or special offers from us, visit the [CUSTOMER INFORMATION PAGE](http://www.ifloor.com/user.pl) to change your preferences. Remember to change your preferences for each of the e-mail accounts you have given us.
+We are committed to protecting your privacy. We use the information we collect on the site to make shopping at iFLOOR.com possible and to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending a blank e-mail message to never@ifloor.com. If you never want to receive any announcements or special offers from us, visit [My Account](https://ifloor.securedcheckout.com/app/center/nlvisitor.nl/sc.6/.f) to change your preferences. Remember to change your preferences for each of the e-mail accounts you have given us.
 
 Your consent: By using our web site, you give consent to the collection and use of this information by iFLOOR.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
