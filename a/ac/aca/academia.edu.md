@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academia.edu privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223075354id_/http%3A//www.academia.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academia.edu privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515130810id_/http%3A//www.academia.edu/privacy) for the most accurate reproduction.*
 
 # Academia.edu | Privacy
 
