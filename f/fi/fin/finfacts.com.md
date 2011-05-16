@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finfacts.com privacy policy that was archived on 2007-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071119025402id_/http%3A//www.finfacts.ie/disclmr.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finfacts.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516065028id_/http%3A//www.finfacts.ie/disclmr.htm) for the most accurate reproduction.*
 
 # Finfacts Ireland Discliamer and Privacy Policy
 
