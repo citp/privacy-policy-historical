@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetrafficsystem.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115035618id_/http%3A//www.freetrafficsystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetrafficsystem.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516064641id_/http%3A//www.freetrafficsystem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Traffic System
 
