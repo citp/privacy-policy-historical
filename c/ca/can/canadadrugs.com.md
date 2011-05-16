@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229033616id_/http%3A//www.canadadrugs.com/policies/Privacy/82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadadrugs.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516024105id_/http%3A//www.canadadrugs.com/policies/Privacy/82) for the most accurate reproduction.*
 
 # Canadian Pharmacy Online - Our Policies Frequently Asked Questions - CanadaDrugs.com
 
