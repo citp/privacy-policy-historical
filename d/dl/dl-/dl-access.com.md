@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dl-access.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216002556id_/http%3A//dl-access.com/privacy.php%3FPID%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dl-access.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516065926id_/http%3A//dl-access.com/privacy.php%3FPID%3D0) for the most accurate reproduction.*
 
 # DL-Access
-
-USERS ONLINE: ** 57812  **   AVERAGE DOWNLOAD SPEED: ** 5798kb/s  **   TOTAL FILES: ** 83526949  **   NEW FILES: ** 1983  **
 
 ## Privacy Policy
 
@@ -28,4 +26,4 @@ You can access all your personally identifiable information that we collect onli
 
 
 **How To Contact Us:**   
-Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20101216002556id_/http%3A//dl-access.com/support.php).
+Should you have other questions or concerns about these privacy policies, please send us an email at [Support](https://web.archive.org/web/20110516065926id_/http%3A//dl-access.com/support.php).
