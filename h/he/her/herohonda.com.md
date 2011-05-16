@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herohonda.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218171954id_/http%3A//herohonda.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herohonda.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516095849id_/http%3A//herohonda.com/policy.htm) for the most accurate reproduction.*
 
 # Hero Honda - Sitemap
 
