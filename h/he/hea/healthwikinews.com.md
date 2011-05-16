@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthwikinews.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226211539id_/http%3A//www.healthwikinews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwikinews.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516034525id_/http%3A//www.healthwikinews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,5 +80,3 @@ Google AdSense uses the DoubleClick DART cookie to gather the information specif
 
 
 ### Health Wiki Related Articles
-
-### Sponsored Links
