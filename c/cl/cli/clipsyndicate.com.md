@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipsyndicate.com privacy policy that was archived on 2010-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100404071128id_/http%3A//www.clipsyndicate.com/help/-1/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipsyndicate.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516120200id_/http%3A//www.clipsyndicate.com/help/-1/privacy_policy) for the most accurate reproduction.*
 
 # Clip Syndicate
 
