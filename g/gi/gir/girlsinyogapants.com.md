@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsinyogapants.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217143506id_/http%3A//girlsinyogapants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsinyogapants.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516030220id_/http%3A//girlsinyogapants.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Girls In Yoga Pants
 
