@@ -1,1203 +1,226 @@
-<!--The following is the downloaded HTML source of the artfire.com privacy policy that was archived on 2009-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090429200449id_/http%3A//www.artfire.com/modules.php%3Fname%3DPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artfire.com privacy policy that was archived on 2011-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110516081810id_/http%3A//www.artfire.com/modules.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title></title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta http-equiv="EXPIRES" content="-1">
-<meta name="RESOURCE-TYPE" content="DOCUMENT">
-<meta name="DISTRIBUTION" content="GLOBAL">
-<meta name="AUTHOR" content="artfire.com">
-<meta name="COPYRIGHT" content="Copyright ©2009 ArtFire.com">
-<meta name="KEYWORDS" content=" hand made, handmade, buy handmade, diy, ooak, indie, arts, crafts, sell, buy, forge, marketplace, artisan, crafting, community">
-<meta name="DESCRIPTION" content="Buy handmade and sell handmade. A global marketplace for arts and crafts, an artisan community">
-<meta name="ROBOTS" content="INDEX, FOLLOW">
-<meta name="REVISIT-AFTER" content="1 DAYS">
-<meta name="RATING" content="GENERAL">
+<title></title>
+
+<meta http-equiv="expires" content="-1">
+<meta name="resource-type" content="document">
+<meta name="distribution" content="global">
+<meta name="author" content="artfire.com">
+<meta name="copyright" content="Copyright ©2009 ArtFire.com">
+<meta name="keywords" content=" hand made, handmade, buy handmade, diy, ooak, indie, arts, crafts, sell, buy, forge, marketplace, artisan, crafting, community">
+<meta name="description" content="Buy handmade and sell handmade. A global marketplace for arts and crafts, an artisan community">
+<meta name="robots" content="index, follow">
+<meta name="revisit-after" content="1 days">
+<meta name="rating" content="general">
 <meta name="verify-v1" content="StmkaYeFkKxQf56TL8uB+jORMZTzxS83VjXOsJBQvPs=">
 <meta name="verify-v1" content="zTXSAmKhm/VH5lcF0IXaxhJbKgLi8khoMK2VQguAUTE=">
-<script type="text/javascript" src="http://static.artfire.com/js/afv--18059--jquery.js"></script>
-<script type="text/javascript">
-
-$(document).ready(function(){
-
-(function($) {
-	$.fn.customFadeIn = function(speed, callback) {
-		$(this).fadeIn(speed, function() {
-			if(jQuery.browser.msie)
-				$(this).get(0).style.removeAttribute('filter');
-			if(callback != undefined)
-				callback();
-		});
-	};
-	$.fn.customFadeOut = function(speed, callback) {
-		$(this).fadeOut(speed, function() {
-			if(jQuery.browser.msie)
-				$(this).get(0).style.removeAttribute('filter');
-			if(callback != undefined)
-				callback();
-		});
-	};
-})(jQuery);
 
 
- $("#buy_tab").hover(
-      function () {
-        $(this).css("background", "url(http://static.artfire.com/images/afv--18059--buy_tab_hover.gif) no-repeat bottom");
-      }, 
-      function () {
-        $(this).css("background", "url(http://static.artfire.com/images/afv--18059--buy_tab.gif) no-repeat bottom");
-      }
-    );	
- $("#sell_tab").hover(
-      function () {
-        $(this).css("background", "url(http://static.artfire.com/images/afv--18059--sell_tab_hover.gif) no-repeat bottom");
-      }, 
-      function () {
-        $(this).css("background", "url(http://static.artfire.com/images/afv--18059--sell_tab.gif) no-repeat bottom");
-      }
-    );	
- $("#forge_tab").hover(
-      function () {
-        $(this).css("background", "url(http://static.artfire.com/images/afv--18059--forge_tab_hover.gif) no-repeat bottom");
-      }, 
-      function () {
-        $(this).css("background", "url(http://static.artfire.com/images/afv--18059--forge_tab.gif) no-repeat bottom");
-      }
-    );	
- $("#interact_tab").hover(
-      function () {
-        $(this).css("background", "url(http://static.artfire.com/images/afv--18059--interact_tab_hover.gif) no-repeat bottom");
-      }, 
-      function () {
-        $(this).css("background", "url(http://static.artfire.com/images/afv--18059--interact_tab.gif) no-repeat bottom");
-      }
-    );
-$("#header_menu").css("opacity", "0");
-	$("#interact_tab").click(function () {
-		if($("#header_menu").css("opacity") == "1") {
-			$("#header_menu").animate({opacity: 0, top: "-40px"}, 1000);	
-		} else {
-			$("#header_menu").animate({opacity: 1, top: "50px"}, 1500);	
-		}
-	});	
+	<link href="http://static.artfire.com/admin/images/afv--45111--favicon.ico" rel="shortcut icon">
+	<link rel="stylesheet" href="http://static.artfire.com/modules/privacy_policy/css/afv--45111--privacy.css" type="text/css">
+<link rel="stylesheet" href="http://static.artfire.com/themes/ArtFire/artfire.css?1284847977" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<body>
 
-	//If "All" is selected
-	$("#check_1").click(function () {
-		uncheck_allS();
-	});
-	
-	//If cat one, cat 2 or cat 3 is selected
-	$("#check_2, #check_3, #check_4").click(function () {
-		uncheck_allB();
-		uncheck_username();
-	});
-
-	//If username is selected
-	$("#check_5").click(function () {
-		uncheck_catsandall();
-	});
-
-});
-
-//Uncheck Cats
-function uncheck_allS() {
-   $("#check_2, #check_3, #check_4").attr("checked", "");
+<script type="text/javascript"> 
+     	  var _gaq = _gaq || []; 
+	      _gaq.push(['_setAccount', 'UA-5872509-1']); 
+	      _gaq.push(['_trackPageview']); 
+	 
+	      (function() { 
+		   var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+		   ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+		   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga); 
+	       })(); 
+	      </script> <style type="text/css">
+.white_icons {
+	background: transparent url(http://static.artfire.com/modules/artfire_home/images/sprites/white-icons.png) no-repeat;
 }
+</style>
 
-//Uncheck Cats and All
-function uncheck_catsandall() {
-   $("#check_1, #check_2, #check_3, #check_4").attr("checked", "");
-}
+<div class="aft_main_cont">
 
-//Uncheck Username
-function uncheck_username() {
-   $("#check_5").attr("checked", "");
-}
+<div class="aft_top_cont">
+    <div class="aft_logo_top">
+    	<a href="http://www.artfire.com"><img src="http://static.artfire.com/modules/artfire_home/images/artfire-logo-new.png" border="0" width="155" height="54" alt="ArtFire – Buy Handmade Unique Gifts, vintage, craft supplies and more!" title="ArtFire – Buy Handmade Unique Gifts, vintage, craft supplies and more!"></a>
+    </div>
+    <div class="aft_ext_cont txt_center">
+    	<a href="http://artfire.us1.list-manage.com/subscribe?u=98fbd55a1d5bdaf9e1d296c27&amp;id=22fb810cf8"><img src="http://static.artfire.com/themes/ArtFire/images/artfire-daily-collection-banner.png" width="600" height="50" alt="Sign Up For ArtFire's Daily Collection" title="Sign Up For ArtFire's Daily Collection" border="0" target="_blank"></a>	</div>
+    <div class="aft_uinfo txt_right" style="background:url(http://static.artfire.com/themes/ArtFire/images/main-info-bg.gif) bottom center no-repeat;">
+		<div class="aft_g_11_n txt_right"><a class="lh1" href="https://www.artfire.com/modules.php?name=subscribe&amp;op=braintree">JOIN NOW!</a><br><a class="lh1" href="https://www.artfire.com/modules.php?name=Login">LOGIN</a></div>
+        <div class="cart_info aft_g_11_b txt_center"><a href="modules.php?name=Cart">0 Item(s) In My Cart</a></div>
+    </div>
+</div>
 
-//Uncheck "All"
-function uncheck_allB() {
-   $("#check_1").attr('checked', '');
-}
-
-function hide_text(obj) {
-	
-	if($("#menu_cont").css("display") == "none")  {
-
-			$("#menu_cont").customFadeIn("fast");
-
-	} else {
-
-			$("#menu_cont").customFadeOut("fast");
-
-	}	
-
-	if(obj.value=="Search For Handmade Goods") {
-			obj.value="";
-	}
-	
-	
-}
-function show_text(obj) {
-
-	if(obj.value=="") {
-			obj.value="Search For Handmade Goods";
-	}
-	
-	
-}
-</script><link href="http://static.artfire.com/admin/images/afv--18059--favicon.ico" rel="shortcut icon"><link rel="stylesheet" href="http://static.artfire.com/css/afv--18059--style-all.css" type="text/css"><script language="javascript" type="text/javascript">_qoptions={qacct:"p-cea7kLWUThWEM"};document.write(unescape("%3Cscript src='http://edge.quantserve.com/quant.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script>
-</head><body>
-
-
-<table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" width="980" align="center">
-<tbody><tr>
-		<td width="100%" valign="top">
-		<table border="0" cellpadding="0" cellspacing="0" width="980" bgcolor="#FFFFFF">
-			<tbody><tr>
-					<td width="100%" valign="top">
-					<table border="0" cellpadding="0" cellspacing="0" width="980" bgcolor="#FFFFFF">
-						<tbody><tr>
-								<td colspan="5" width="100%" bgcolor="#FFFFFF">
-								<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-									<tbody><tr>
-											<td width="100%" valign="bottom">
-												<table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="tabs_top">
-													<tbody><tr>
-														<td width="224" style="padding:4px"><a href="/"><img src="http://static.artfire.com/images/afv--18059--logo1.gif" border="0" alt="ArtFire Handmade Artisan Community" title="ArtFire Handmade Artisan Community" width="230" height="76"></a><div style="position:relative;"><div style="position:absolute; top:-80px; left:300px; width:300px;">
-														<table width="300" cellpadding="0" cellspacing="0" style="color:#999999; font-size:12px;">
-															<tbody><tr>
-																<td width="35%" align="right">Buy Handmade.</td>
-																<td width="15%" align="center"><img src="http://static.artfire.com/images/afv--18059--flame_opac.gif" border="0"></td>
-																<td width="50%" align="left">Sell for Free.</td>
-															</tr>
-														</tbody></table>
-														</div></div></td>
-														<td width="20"><img src="http://static.artfire.com/themes/DeepBlue/images/afv--18059--pixel.gif" width="20" height="1" border="0" alt=""></td>
-														<td width="60" valign="bottom" align="left" style="cursor:pointer;" onclick="location.href='/modules.php?name=Buy'; return false;">
-														<div id="buy_tab" style=" padding:0px; margin:0px;background:url(http://static.artfire.com/images/afv--18059--buy_tab.gif) no-repeat bottom; border:0px; width:60px; height:30px; " align="center"><div style=" font-size:12px; font-weight:bold; padding-top:10px; padding-left:5px;" class="header_blue"><a href="/modules.php?name=Buy">SHOP</a></div></div></td>
-														<td width="10"><img src="http://static.artfire.com/themes/DeepBlue/images/afv--18059--pixel.gif" width="10" height="1" border="0" alt=""></td>
-														<td width="64" valign="bottom" align="left" style="cursor:pointer;" onclick="location.href='/modules.php?name=Sell'; return false;">
-														<div style=" padding:0px; margin:0px;background:url(http://static.artfire.com/images/afv--18059--sell_tab.gif) no-repeat bottom; border:0px; width:64px; height:30px;" align="center" id="sell_tab"><div style=" font-size:12px; font-weight:bold; padding-top:10px; padding-left:5px;" class="header_blue"><a href="/modules.php?name=Sell">SELL</a></div></div></td>
-														<td width="10"><img src="http://static.artfire.com/themes/DeepBlue/images/afv--18059--pixel.gif" width="10" height="1" border="0" alt=""></td>
-														<td width="80" valign="bottom" align="left" style="cursor:pointer;" onclick="location.href='/modules.php?name=forgeit'; return false;">
-														<div style=" padding:0px; margin:0px;background:url(http://static.artfire.com/images/afv--18059--forge_tab.gif) no-repeat bottom; border:0px; width:80px; height:30px;" id="forge_tab" align="center"><div style=" font-size:12px; font-weight:bold; padding-top:10px; padding-left:5px;" class="header_blue"><a href="/modules.php?name=forgeit">FORGE</a></div></div></td>
-														<td width="10"><img src="http://static.artfire.com/themes/DeepBlue/images/afv--18059--pixel.gif" width="10" height="1" border="0" alt=""></td>
-														<td width="106" valign="bottom" align="left" style="cursor:pointer;">
-														<div style=" padding:0px; margin:0px;background:url(http://static.artfire.com/images/afv--18059--interact_tab.gif) no-repeat bottom; border:0px; width:106px; height:30px;" align="center" id="interact_tab"><div style=" font-size:12px; font-weight:bold; padding-top:10px; padding-left:10px;" class="header_red"><a href="/modules.php?name=interact">INTERACT</a></div></div></td>
-														<td width="10"><img src="http://static.artfire.com/themes/DeepBlue/images/afv--18059--pixel.gif" width="10" height="1" border="0" alt="">
-														<div style="position:relative; display:none;"><div style="position:absolute; top:-40px; left:-157px;" id="header_menu">
-		<table width="0" cellpadding="0" cellspacing="0">
-		<tbody><tr><td style=" padding:0px; margin:0px;">
-		<b class="z1h"></b> <b class="z2h" style="background:#f1cfb5;"></b> <b class="z3h" style="background:#f1cfb5;"></b> <b class="z4h" style="background:#f1cfb5;"></b>
-        <div class="zcontenth" style="background:#f1cfb5;">
-             <div style=" padding:0px; margin:0px;">
-				<table width="99%" cellpadding="4" cellspacing="0">
-					<tbody><tr>
-						<td class="header_red" width="100%" style="font-size:11px; font-family:Arial, Helvetica, sans-serif; font-weight:bold;" align="center"></td>
-					</tr>
-				</tbody></table>
-			</div> 
+<div class="or_bar_out">
+	<div class="aft_top_round" style=" background:url(http://static.artfire.com/themes/ArtFire/images/r2.png) no-repeat top right;">
+        <div class="aft_cart_tab" style="background:url(http://static.artfire.com/themes/ArtFire/images/r1.png) no-repeat top left;">
+             <form action="http://www.artfire.com/modules.php" method="get" class="main_search_form">
+             	<input type="text" name="sterm" class="aft_cart_tab_sfield" style="background:url(http://static.artfire.com/themes/ArtFire/images/main-search-bg.png) top center no-repeat;">
+                <select name="cb" class="aft_g_12_n header_select">
+                	<option value="8" selected="selected">All Items</option>
+                	<option value="1">Handmade</option>
+                	<option value="2">Design</option>
+                	<option value="3">Supplies</option>
+                	<option value="4">Media</option>
+                	<option value="5">Vintage</option>
+                	<option value="6">Fine Art</option>
+                	<option value="7">Seller Search</option>
+                </select>
+                <input type="submit" class="aft_sbttn txt_center" value="  " style="background:url(http://static.artfire.com/themes/ArtFire/images/or_bar_out_go-bg.png) no-repeat;">
+                <input type="hidden" name="name" value="hypersearch">
+             </form>
         </div>
-        <b class="z4bh" style="background:#f1cfb5;"></b><b class="z3bh" style="background:#f1cfb5;"></b><b class="z2bh" style="background:#f1cfb5;"></b><b class="z1h"></b>
-		</td></tr></tbody></table>
-		</div></div></td>
-														<td width="297" valign="bottom" align="left" style="padding:0px; margin:0px;"><div style="font-size:14px; font-weight:bold; background:url(http://static.artfire.com/images/afv--18059--search_tab.gif) no-repeat bottom; width:297px; height:30px; padding-top:0px;"><span id="search_action"><form name="search_header" action="modules.php" method="get" style="padding:0px; margin:0px;"><input type="hidden" name="name" value="search"><table width="297" height="30" cellspacing="0" cellpadding="0" style="padding:0px; margin:0px;"><tbody><tr><td width="100%" align="left" valign="bottom" style="padding:0px; margin:0px;"><input id="afsearhterm" class="search_bg2" type="text" name="sterm" value="Search For Handmade Goods" onclick="hide_text(this); return false;" onblur="show_text(this); return false;"><input type="submit" name="search_head" class="head_submit zero_opacity" value=""></td></tr></tbody></table>
-	<div class="menu_hide" id="menu_cont"><div style="position:absolute; top:10px; left:-400px;" id="header_menu">
-		<table width="800" cellpadding="0" cellspacing="0">
-		<tbody><tr><td style=" padding:0px; margin:0px;">
-		<b class="z1h"></b> <b class="z2h" style="background:#faefc2;"></b> <b class="z3h" style="background:#faefc2;"></b> <b class="z4h" style="background:#faefc2;"></b>
-        <div class="zcontenth" style="background:#faefc2;">
-             <div style=" padding:0px; margin:0px;">
-				<table width="99%" cellpadding="4" cellspacing="0">
-					<tbody><tr>
-						<td class="header_red" width="100%" style="font-size:11px; font-family:Arial, Helvetica, sans-serif; font-weight:bold;" align="center"><table id="s_f_cont" class="head_adv_search" width="100%" cellpadding="0" cellspacing="0">
-							<tbody><tr>
-								<!-- <td align="center"><input id="check_1" type="checkbox" name="cb0" value="0" checked="checked"> ALL</td> -->
-								<td align="center"><input id="check_2" type="checkbox" name="cb1" value="1" checked=""> Handmade/Fine Art</td>
-								<td align="center"><input id="check_3" type="checkbox" name="cb2" value="2" checked=""> Design/Media</td>
-								<td align="center"><input id="check_4" type="checkbox" name="cb3" value="3" checked=""> Supplies/Vintage</td>
-								<td align="center"><input id="check_5" type="checkbox" name="cb4" value="4"> Username</td>
-								<td align="center"> <a href="/modules.php?name=search">* Advanced Search</a></td>
-							</tr>
-						</tbody></table></td>
-					</tr>
-				</tbody></table>
-			</div> 
+        <div class="aft_shop_tab aft_white_15_b">
+        	<a class="white_icons aft_shop_tabanch" id="browse" href="http://www.artfire.com/modules.php?name=Buy">Browse</a>
         </div>
-        <b class="z4bh" style="background:#faefc2;"></b><b class="z3bh" style="background:#faefc2;"></b><b class="z2bh" style="background:#faefc2;"></b><b class="z1h"></b>
-		</td></tr></tbody></table>
-		</div></div>
-	</form>
-	</span></div>
+        <div class="aft_sell_tab aft_white_15_b">
+        	<a class="white_icons aft_shop_tabanch" id="sell" href="http://www.artfire.com/sell-crafts">Sell</a>
+        </div>
+        <div class="aft_forge_tab aft_white_15_b">
+        	<a class="white_icons aft_shop_tabanch" id="interact" href="http://www.artfire.com/modules.php?name=interact">Interact</a>
+        </div>
+        <div class="aft_interact_tab aft_white_15_b">
+        	<a class="white_icons aft_shop_tabanch" id="blog" href="http://www.artfire.com/modules.php?name=art_daily">Blog</a>
+		</div>
+        <div class="aft_spacer_tab">&nbsp;</div>
+        <div class="aft_search_tab txt_center aft_white_15_b">
+        	<a class="white_icons aft_shop_tabanch" id="cart" href="http://www.artfire.com/modules.php?name=Cart">My Cart</a>
+        </div>
+    </div>
+</div>
+<div class="aft_lrg_main"><div class="aft_lrg_left_sml"><div class="aft_lrg_left_txt aft_lrg_left_bb"><div class="aft_white_14_b"><a href="modules.php?name=gift_hub">Gift Occasions</a></div></div><div class="aft_lrg_left_txt aft_lrg_left_bb"><div class="aft_white_14_b"><a href="modules.php?name=gift_hub">Search Trends</a></div></div><div class="aft_lrg_left_txt aft_lrg_left_bb"><div class="aft_white_14_b"><a href="modules.php?name=help_guides&amp;op=facebook_kiosk">Kiosk Help Guide</a></div></div><div class="aft_lrg_left_txt "><div class="aft_white_14_b"><a href="modules.php?name=hypersearch">Advanced Search</a></div></div></div><div class="aft_lrg_center" style="background: url(http://static.artfire.com/themes/ArtFire/images/grass_bg.jpg) no-repeat;">	<div class="aft_seo_copy_sml"><br><br><br><br><br><br></div>	<h1 class="aft_hone_sm">PRIVACY POLICY</h1></div><div class="aft_lrg_right" style="background:url(http://static.artfire.com/themes/ArtFire/images/trends/2.jpg) no-repeat;"><div class="trend_overlay_rel">
+				<div class="trend_overlay_abs">
+					<div class="aft_fl_arr_l"><a href="http://www.artfire.com/modules.php?name=privacy_policy&amp;op=&amp;trendval=1&amp;query="><img src="http://static.artfire.com/themes/ArtFire/images/or_arrow_l.png" border="0" alt="View Previous Trend" title="View Previous Trend"></a></div>
+					<div class="aft_fl_arr_c aft_white_13_b"><a href="http://greenproducts.artfire.com">Green Products</a></div>
+					<div class="aft_fl_arr_r"><a href="http://www.artfire.com/modules.php?name=privacy_policy&amp;op=&amp;trendval=3&amp;query="><img src="http://static.artfire.com/themes/ArtFire/images/or_arrow_r.png" border="0" alt="View Next Trend" title="View Next Trend"></a></div>
+				</div>
+			  </div><div class="trend_top">&nbsp;</div><div class="trend_overlay"></div></div></div>
 
-														</td>
-														<td width="10"><img src="http://static.artfire.com/themes/DeepBlue/images/afv--18059--pixel.gif" width="10" height="1" border="0" alt=""></td>
-														<td width="70" valign="bottom" align="center">
-														<table width="100%" cellpadding="2" cellspacing="0" style="cursor:pointer;">
-															<tbody><tr>
-																<td onclick="location.href='https://www.artfire.com/modules.php?name=Cart'; return false;" width="10%"><a href="https://www.artfire.com/modules.php?name=Cart"><img src="http://static.artfire.com/modules/artfire_home/css/images/afv--18059--empty_cart.png" border="0" height="21" width="26"></a></td>
-																<td onclick="location.href='https://www.artfire.com/modules.php?name=Cart'; return false;" width="90%" class="header_green"> <a href="https://www.artfire.com/modules.php?name=Cart">0</a></td>
-															</tr>
-														</tbody></table>
-														<div style="position:relative;">
-														<div style="position:absolute; top:-85px; left:-360px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:13px; font-weight:normal; color:#40859c;" align="center">
-														<table width="395" cellspacing="0" cellpadding="2">
-															<tbody><tr>
-																<td align="center" class="head_uname2"></td>
-																<td align="center" class="head_uname2">  </td>
-															</tr>
-															<tr>
-																<td align="center" class="head_uname2"><a href="https://www.artfire.com/modules.php?name=Registration">JOIN NOW!</a> </td>
-																<td align="center" class="head_uname2"> <a href="https://www.artfire.com/modules.php?name=Login">LOGIN</a> </td>
-															</tr>
-														</tbody></table>
-														</div></div>
-														</td>
-													</tr>
-													<tr>
-														<td>
-														<table width="100%" height="6" cellpadding="0" cellspacing="0">
-															<tbody><tr>
-																<td><img src="http://static.artfire.com/themes/DeepBlue/images/afv--18059--pixel.gif" width="4" height="1" border="0" alt=""></td>
-																<td style="height:6px;" width="14"><div style="background:#cbe3ee;"><img src="http://static.artfire.com/images/afv--18059--header_corner.png"></div></td>
-																<td width="100%" style="background:#cbe3ee; height:6px;" height="6"></td>
-															</tr>
-														</tbody></table>
-														</td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-														<td><table width="100%" height="6" cellpadding="0" cellspacing="0"><tbody><tr><td style="background:#cbe3ee; height:6px;" height="6"><img src="http://static.artfire.com/images/afv--18059--trans_pix.gif" width="1" height="1" border="0"></td></tr></tbody></table></td>
-													</tr>
-												</tbody></table>
-											</td>
-										</tr>
-									</tbody></table>
-							</td>
-							</tr>						<tr valign="top">
-							<td valign="top"><img src="http://static.artfire.com/themes/DeepBlue/images/afv--18059--pixel.gif" width="6" height="1" border="0" alt=""></td>
-							<td width="138" valign="top" align="left" style="background:#cbe3ee;">
-									<table width="138" cellpadding="0" cellspacing="0">
-										<tbody><tr>
-											<td valign="top"><link rel="stylesheet" href="http://static.artfire.com/blocks/css/afv--18002--cats.css" type="text/css">
-		<table cellpadding="0" width="168" cellspacing="0" align="center">
-		<tbody><tr><td width="100%" align="center" valign"top"="">
-		<br>
-		
-		<div class="browse_cats">Browse Categories</div>
-		<table width="100%" cellpadding="3" cellspacing="0"><tbody><tr>
-				<td width="100%" align="left" class="top_lvl_bg">
-				<h1 class="cats_blk_h1"><a class="black_h1" href="modules.php?name=categories&amp;top_cat_id=1">Handmade / Fine Art</a></h1>
-				</td>
-				</tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=37" class="leftbar style8">Accessories</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=3" class="leftbar style8">Bags &amp; Purses</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=77" class="leftbar style8">Baskets</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=7" class="leftbar style8">Bath &amp; Beauty</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=4" class="leftbar style8">Candles</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=9" class="leftbar style8">Ceramics &amp; Pottery</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=13" class="leftbar style8">Children's</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=19" class="leftbar style8">Clothing</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=79" class="leftbar style8">Crochet</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=38" class="leftbar style8">Dolls &amp; Miniatures</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=80" class="leftbar style8">Earth Friendly</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=102" class="leftbar style8">Fiber Arts</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=17" class="leftbar style8">Fine Art</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=81" class="leftbar style8">Floral</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=108" class="leftbar style8">Folk Art &amp; Primitives</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=21" class="leftbar style8">Furniture</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=23" class="leftbar style8">Glass</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=20" class="leftbar style8">Housewares</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=5" class="leftbar style8">Jewelry</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=25" class="leftbar style8">Knitting</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=106" class="leftbar style8">Leather Craft</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=83" class="leftbar style8">Metal Craft</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=84" class="leftbar style8">Mixed Media</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=98" class="leftbar style8">Mosaics</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=85" class="leftbar style8">Music/Instruments</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=26" class="leftbar style8">Needlecraft</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=86" class="leftbar style8">Novelty</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=87" class="leftbar style8">Paper/Books/Cards</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=29" class="leftbar style8">Pets</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=88" class="leftbar style8">Photography</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=30" class="leftbar style8">Plants &amp; Edibles</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=31" class="leftbar style8">Quilts</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=91" class="leftbar style8">Retro/Kitsch</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=92" class="leftbar style8">Sculpture</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=24" class="leftbar style8">Seasonal</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=93" class="leftbar style8">Techcraft</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=33" class="leftbar style8">Toys</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=35" class="leftbar style8">Wedding</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=36" class="leftbar style8">Woodworking</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr>
-				<td width="100%" align="left" class="top_lvl_bg">
-				<h1 class="cats_blk_h1"><a class="black_h1" href="modules.php?name=categories&amp;top_cat_id=2">Design / Media</a></h1>
-				</td>
-				</tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=39" class="leftbar style8">Accessories</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=62" class="leftbar style8">Animation</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=46" class="leftbar style8">Art</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=41" class="leftbar style8">Bags &amp; Purses</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=44" class="leftbar style8">Bath &amp; Beauty</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=18" class="leftbar style8">Books &amp; Magazines</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=40" class="leftbar style8">Children's</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=47" class="leftbar style8">Clothing</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=59" class="leftbar style8">Digital Art </a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=63" class="leftbar style8">E-books</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=48" class="leftbar style8">Furnishings</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=68" class="leftbar style8">Graphics</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=105" class="leftbar style8">Hand Assembled</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=60" class="leftbar style8">How-To</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=43" class="leftbar style8">Jewelry</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=58" class="leftbar style8">Limited Run</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=6" class="leftbar style8">Music &amp; Media</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=57" class="leftbar style8">Novelty</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=53" class="leftbar style8">Patterns</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=54" class="leftbar style8">Pets</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=55" class="leftbar style8">Plants &amp; Edibles</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=56" class="leftbar style8">Quilts</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=50" class="leftbar style8">Seasonal</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=67" class="leftbar style8">Services</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=66" class="leftbar style8">Software</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=22" class="leftbar style8">Techcraft</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=69" class="leftbar style8">Web Elements</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr>
-				<td width="100%" align="left" class="top_lvl_bg">
-				<h1 class="cats_blk_h1"><a class="black_h1" href="modules.php?name=categories&amp;top_cat_id=3">Supplies / Vintage</a></h1>
-				</td>
-				</tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=73" class="leftbar style8">Antiques</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=71" class="leftbar style8">Arts &amp; Crafts Supplies</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=74" class="leftbar style8">Business</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=109" class="leftbar style8">Fine Art Supplies</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=75" class="leftbar style8">Found Objects</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=104" class="leftbar style8">Jewelry Supplies</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=8" class="leftbar style8">Paper</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=72" class="leftbar style8">Tools</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr><td colspan="2" width="100%" id="">
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr>
-												<td width="100%">
-												<h2 class="cats_blk_titles">
-												<a href="modules.php?name=categories&amp;main_cat_id=34" class="leftbar style8">Vintage</a>
-												</h2>
-												</td>
-											</tr>
-										</tbody></table></td></tr><tr>
-						<td width="100%" align="left" class="top_lvl_bg"><h1 class="cats_blk_h1"><a class="black_h1" href="http://greenproducts.artfire.com">ARTFIRE TRENDS</a></h1></td>
-					</tr>
-					<tr>
-						<td><h2 class="cats_blk_titles"><a href="http://steampunk.artfire.com">Steampunk</a></h2></td>
-					</tr>
-					<tr>
-						<td><h2 class="cats_blk_titles"><a href="http://greenproducts.artfire.com">Green Products</a></h2></td>
-					</tr>
-					<tr>
-						<td><h2 class="cats_blk_titles"><a href="http://teddybears.artfire.com">Teddy Bears</a></h2></td>
-					</tr>
-					<tr>
-						<td><h2 class="cats_blk_titles"><a href="http://handmadesoap.artfire.com">Handmade Soap</a></h2></td>
-					</tr>
-					<tr>
-						<td><h2 class="cats_blk_titles"><a href="http://handmadejewelry.artfire.com">Handmade Jewelry</a></h2></td>
-					</tr>
-					<tr>
-						<td><h2 class="cats_blk_titles"><a href="http://craftsupplies.artfire.com">Craft Supplies</a></h2></td>
-					</tr>
-					<tr>
-						<td><h2 class="cats_blk_titles"><a href="http://lampwork.artfire.com">Lampwork Beads</a></h2></td>
-					</tr>
-					<tr>
-						<td><h2 class="cats_blk_titles"><a href="http://handdyed.artfire.com">Hand Dyed</a></h2></td>
-					</tr>
-				</tbody></table>
-		</td></tr></tbody></table>
-<!-- isc: 0851 -->
-&nbsp;<script type="text/javascript">
-function hide_show_subs(id) {
-var main_cat_el = document.getElementById(id);
+<div id="main">
 
-if(main_cat_el.style.display == "none") {
-main_cat_el.style.display = "";
+    <p class="aft_g_14_b">What information do we collect?</p>
 
-} else {
-main_cat_el.style.display = "none";
-}
-}
-</script>
-&nbsp;&nbsp;&nbsp;<script type="text/javascript">
-function hide_show_subs(id) {
-var main_cat_el = document.getElementById(id);
+	<p class="aft_g_12_n">We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form. </p>
 
-if(main_cat_el.style.display == "none") {
-main_cat_el.style.display = "";
+	<p class="aft_g_12_n">When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.</p>
 
-} else {
-main_cat_el.style.display = "none";
-}
-}
-</script>
+	<p class="aft_g_12_n">Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</p>
 
-&nbsp;<div style="width:168px;height:100%;padding:0px;margin:0px;">&nbsp;</div>									</td>
-											<td width="30" valign="top" align="right" style="background:#FFFFFF;"><div style="position:relative;"><div style="background:#cbe3ee;position:absolute; top:0px; left:-1px;"><img src="http://static.artfire.com/images/afv--18059--header_corner2.png" border="0" width="14" height="7"></div></div></td>
-										</tr>
-									</tbody></table>
-								</td>
-								<td><img src="http://static.artfire.com/themes/DeepBlue/images/afv--18059--pixel.gif" width="10" height="1" border="0" alt=""></td>
-								<td width="100%">
+	<p class="aft_g_12_b">What do we use your information for? </p>
 
-								<div style="width:800px; padding:2px;"><br>
-<table width="100%" border="0" align="center" cellpadding="1" cellspacing="1" bgcolor="#ffffff">
-   <tbody><tr>
-    <td bgcolor="#ffffff"><table width="100%" border="0" cellspacing="1" cellpadding="1">
-      <tbody><tr>
-        <td colspan="4"><table width="100%" border="0">
-          <tbody><tr>
-            <td width="100%" valign="top" style="padding:10px 0px 0px 10px "><p align="justify" class="style1 headerbar"><strong>Artfire Privacy Policy </strong></p>
-              <p class="style131">This privacy statement covers the site http://www.artfire.com. We are committed to your privacy, as it relates to personal information. </p>
-              <p class="style131">This pertains to the information that is collected through this web site from you, and does not cover information that may be collected through software downloaded from the site or information that we may receive about you that we acquire from third parties. </p>
-              <p class="style131">We do not release or otherwise provide your personal information to 3 rd parties. </p>
-              <p class="style131">However, we do reserve the right to provide your personal information to government and/or law enforcement agencies if it is deemed that your conduct on the Artfire.com website is considered unlawful, or if requested as part of a legal action. </p>
-              <p class="style131">Artfire shall not be held liable for damages brought by disclosing the information to the aforementioned agencies, and the user agrees that Artfire will not be liable or responsible for disclosing such information. </p>
-              <p class="style131">Artfire will send you information about your account via email when you sign up for services on the website. </p>
-              <p class="style131">Artfire allows you to share information with others through use of the site service. We encourage you to employ and post your policies regarding privacy and the respect to the privacy of others in your store or as an addendum in your user profile. </p>
-              <p class="style131">We cannot guarantee the privacy or the security of your information as it is used through transactional processes. We request that when other users are involved in transactions, you respect their right to privacy and remove Usernames and IDs, email addresses, shipping information and other contact information should this be requested. </p>
-              <p class="style131">Password security. Your password is an essential part of your membership on Artfire.com. We strongly suggest that you safeguard your password from others. User accounts are not to be shared, and violation of this policy voids the Terms of Service agreement and could result in your suspension and or deletion of your account. </p>
-              <p class="style131">Artfire retains the right to share information with our affiliates and parent companies. This information will used for marketing purposes, and will not be sold, rented or otherwise distributed to any 3 rd parties not associated with Artfire.com. </p>
-              <p align="justify" class="style13">&nbsp;</p></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>	
-						</div>
-								</td>
-								<td><img src="http://static.artfire.com/themes/DeepBlue/images/afv--18059--pixel.gif" width="10" height="1" border="0" alt=""></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-			</td>
-		</tr>
-<tr>
-	<td width="100%">
-	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td valign="top">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td width="6"></td>
-					<td>
-					<div style="position: relative;">
-					<div style="position: absolute; top: 128px; left: 0px;"><img src="http://static.artfire.com/images/afv--18059--header_round3.png"></div>
-					</div>
-					<div style="position: relative;">
-					<div style="background:#cbe3ee;position:absolute; top:-12px; left: 168px;;"><img src="http://static.artfire.com/images/afv--18059--header_round4.png" border="0" width="7" height="14"></div>
-					</div>
-					<table width="100%" height="10" border="0" cellspacing="0" cellpadding="0">
-						<tbody><tr>
-							<td style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="19%" height="33" class="style5" align="center">&nbsp;</td>
-							<td class="footer_bold" style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="11%" align="left" valign="top">
-							<a href="/modules.php?name=Buy">Buy</a>
-							<div class="footer_bold_sm"><a href="/modules.php?name=Buy">By Categories</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=search">Search</a></div>
-							</td>
-							<td class="footer_bold" style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="2%" align="left">&nbsp;</td>
-							<td class="footer_bold" style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="9%" align="left" valign="top">
-							<a href="/modules.php?name=Sell">Sell</a>
-                                                                <div class="footer_bold_sm"><a href="/modules.php?name=Sell">Add Product</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=my_artfire&amp;op=edit_studio">Edit
-							Studio</a></div>
-                                                                <div class="footer_bold_sm"><a href="/modules.php?name=Referral">Free Ride</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=sevenforlife">$12 Unlimited Listings</a></div>
-							</td>
-							<td class="footer_bold" style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="2%" align="left">&nbsp;</td>
-							<td class="footer_bold" style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="9%" align="left" valign="top">
-							<a href="/modules.php?name=interact">Interact</a>
-							<div class="footer_bold_sm"><a href="/modules.php?name=Chatterbox">Chatterbox</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=Guilds">Craft
-							Guilds</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=art_daily">Art
-							Daily</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=artifacts_intro">Artifacts</a></div>
-							</td>
-							<td class="footer_bold" style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="2%" align="left">&nbsp;</td>
-							<td class="footer_bold" style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="10%" align="left" valign="top">
-							<a href="/modules.php?name=ContactUs">Support</a>
-							<div class="footer_bold_sm"><a href="/modules.php?name=projects&amp;op=report_bug">Bug
-							Report</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=ContactUs">Feedback</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=ContactUs">Service</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=ContactUs">Billing</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?mop=modload&amp;name=Chatterbox&amp;file=viewforum&amp;forum=20">Help
-							Forum</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=FAQ">FAQ/Help</a></div>
-							</td>
-							<td class="footer_bold" style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="2%" align="left">&nbsp;</td>
-							<td class="footer_bold" style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="12%" align="left" valign="top">
-							<a href="/modules.php?name=About_Us">About</a>
-							<div class="footer_bold_sm"><a href="/modules.php?name=art_daily&amp;op=behind_the_beta">Behind The Beta</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=About_Us">Our
-							Mission</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=About_Us&amp;op=the_team">Our
-							Staff</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=interact">Our
-							Projects</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=ContactUs">Contact
-							Us</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=PrivacyPolicy">Privacy
-							Policy</a></div>
-							<div class="footer_bold_sm"><a href="/modules.php?name=Terms_Of_Use">Terms
-							Of Use</a></div>
-							</td>
-							<td class="footer_bold" style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="6%" align="left">&nbsp;</td>
-							<td class="footer_bold" style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="3%" align="left" valign="middle">&nbsp;</td>
-							<td class="head_uname" style="background:#cbe3ee;padding:4px 0px 4px 0px;" width="13%" align="left" valign="middle">
-							<div style="position:relative; width:100%; background:#cbe3ee;" class="footer_bold">
+	<p class="aft_g_12_n">Any of the information we collect from you may be used in one of the following ways:</p> 
 
-							<div style=" width:14px; height:6px; position:absolute; top:-70px; left:115px;"><img src="http://static.artfire.com/images/afv--18059--header_round7.png" width="14" height="6"></div>
-							<div style=" width:6px; height:17px; position:absolute; top:58px; left:122px"><img src="http://static.artfire.com/images/afv--18059--header_round8.png" width="6" height="14"></div>
-							</div>
-							</td>
-						</tr>
-						<tr>
-							<td colspan="14" align="center">
-							<table width="100%" cellpadding="4" cellspacing="0">
-								<tbody><tr>
-									<td width="150" align="center"><a href="/"><img src="http://static.artfire.com/images/afv--18059--af_logo_small.gif" widh="122" height="40" border="0" alt="ArtFire.com" title="ArtFire.com"></a></td>
-									<td width="12">&nbsp;</td>
-									<td class="head_uname2" align="left">
-                                    <a href="http://www.foxyfindings.com">Foxy Findings</a> | <a href="http://www.foxyfindings.com">Beads</a></td>
-									<td align="right" class="head_uname2">© 2009 Art Fire inc. | 7739 E. Broadway #167 Tucson, AZ 85710</td>
-								</tr>
-							</tbody></table>
-							</td>
-						</tr>
-					</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-			</td>
-			<td><img src="http://static.artfire.com/themes/DeepBlue/images/afv--18059--pixel.gif" width="6" height="1" border="0" alt=""></td>
-		</tr>
-	</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-<div style="display: none;"><img src="http://static.artfire.com/images/afv--18059--buy_tab_hover.gif" border="0"> <img src="http://static.artfire.com/images/afv--18059--sell_tab_hover.gif" border="0"> <img src="http://static.artfire.com/images/afv--18059--cart_tab_hover.gif" border="0"> <img src="http://static.artfire.com/images/afv--18059--forge_tab_hover.gif" border="0"> <img src="http://static.artfire.com/images/afv--18059--interact_tab_hover.gif" border="0"> <img src="http://static.artfire.com/images/afv--18059--ajax-loader.gif" border="0"></div>
-<script src="http://static.artfire.com//js/afv--18059--ga.js" type="text/javascript"></script><script type="text/javascript">
-	try {
-	pageTracker = _gat._getTracker('UA-5872509-1');
-	pageTracker._setDomainName('.artfire.com');
-	pageTracker._setAllowLinker(true);
-	pageTracker._trackPageview();
-	} catch(err) {}</script><script type="text/javascript">
+	<p class="aft_g_12_n">; To personalize your experience<br>
+	(your information helps us to better respond to your individual needs)</p>
 
-</script>
+	<p class="aft_g_12_n">; To improve our website<br>
+	(we continually strive to improve our website offerings based on the information and feedback we receive from you)</p><p class="aft_g_12_n">
+
+	</p><p class="aft_g_12_n">; To improve customer service<br>
+	(your information helps us to more effectively respond to your customer service requests and support needs)</p>
+
+    <p class="aft_g_12_n">; To process transactions<br>
+    Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p>
+    
+    <p class="aft_g_12_n">; To administer a contest, promotion, survey or other site feature</p>
+    
+    
+    <p class="aft_g_12_n">; To send periodic emails<br>
+    The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.</p>
+    
+    
+    <p class="aft_g_14_b">How do we protect your information?</p> 
+    
+    <p class="aft_g_12_n">We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.</p>
+    
+    <p class="aft_g_12_n">We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.</p>
+    
+    <p class="aft_g_12_n">After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. We store no financial data.</p> 
+    
+    <p class="aft_g_14_b">Do we use cookies? </p>
+    
+    <p class="aft_g_12_n">Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information</p>
+    
+    <p class="aft_g_12_n">We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.</p>
+    
+    <p class="aft_g_14_b">Do we disclose any information to outside parties? </p>
+    
+    <p class="aft_g_12_n">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+    
+    <p class="aft_g_14_b">Third party links</p>
+    
+    <p class="aft_g_12_n">Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+    
+    <p class="aft_g_14_b">California Online Privacy Protection Act Compliance</p>
+    
+    <p class="aft_g_12_n">Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
+    
+    <p class="aft_g_12_n">As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their My ArtFire control panel and going to the "My account" page.</p>
+    
+    <p class="aft_g_14_b">Children’s Online Privacy Protection Act Compliance</p><p class="aft_g_12_n">
+    
+   </p><p class="aft_g_12_n"> We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+    
+    <p class="aft_g_14_b">Online Privacy Policy Only</p>
+    
+    <p class="aft_g_12_n">This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+    
+    <p class="aft_g_14_b">Terms and Conditions</p>
+    
+    <p class="aft_g_12_n">Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://www.artfire.com/modules.php?name=Terms_Of_Use">http://www.artfire.com/modules.php?name=Terms_Of_Use</a></p>
+    
+    <p class="aft_g_14_b">Your Consent</p>
+    
+    <p class="aft_g_12_n">By using our site, you consent to our privacy policy.</p>
+    
+    <p class="aft_g_14_b">Changes to our Privacy Policy</p>
+    
+    <p class="aft_g_12_n">If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.</p> 
+    
+    <p class="aft_g_12_n">This policy was last modified on 3/15/2011</p>
+    
+    <p class="aft_g_14_b">Contacting Us</p> 
+
+    <p class="aft_g_12_n">If there are any questions regarding this privacy policy you may contact us using the information below.</p> 
+    
+    <p>
+    	http://artfire.com<br>
+        7739 E Broadway # 167<br>
+        Tucson, AZ 85710<br>
+        United States<br>
+        service@artfire.com<br>
+    </p>
+
+</div>
+
+<div class="clear" id="fco" style="display:block">
+
+	<div id="lkco">
+        <img width="100" height="33" class="securelogo" src="http://static.artfire.com/themes/ArtFire/images/comodo.gif" border="0" alt="ArtFire.com is secured with SSL technology when transmitting sensitive data" title="ArtFire.com is secured with SSL technology when transmitting sensitive data">
+    	<div class="aft_b_11_n">
+        	<a href="http://www.artfire.com/modules.php?name=help_center">Support</a> | 
+            <a href="http://www.artfire.com/modules.php?name=FAQ">FAQ</a> | 
+            <a href="http://www.artfire.com/modules.php?name=Terms_Of_Use">Terms Of Service</a> | 
+            <a href="http://www.artfire.com/modules.php?name=privacy_policy">Privacy Policy</a> | 
+            <a href="http://www.artfire.com/modules.php?name=About_Us">About Us</a> | 
+            <a href="http://www.artfire.com/modules.php?name=press">Press</a> 
+		</div>
+		<div class="aft_grey_11">
+            <a target="_blank" href="http://www.handmadenews.org">HandmadeNews.org</a> <!--| 
+            <a target="_blank" href="http://www.votehandmade.com/">Votehandmade.com</a> -->
+		</div>
+    </div>
+
+	<div id="afcr">© 2011 ArtFire, LLC</div>
+
+</div><br class="clear">
+
+<script language="javascript" type="text/javascript">_qoptions={qacct:"p-cea7kLWUThWEM"};document.write(unescape("%3Cscript src='http://edge.quantserve.com/quant.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="http://edge.quantserve.com/quant.js" type="text/javascript"></script>
 <noscript>
 <img src="http://edge.quantserve.com/pixel/p-cea7kLWUThWEM.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
-
-</body></html>
+</div> </body></html>
