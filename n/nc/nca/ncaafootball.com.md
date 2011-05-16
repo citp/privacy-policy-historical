@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ncaafootball.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004701id_/http%3A//www.ncaafootball.com/index.php%3Fs%3D%26url_channel_id%3D34%26url_article_id%3D16180%26change_well_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncaafootball.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516070709id_/http%3A//ncaafootball.com/NEWS/tabid/1237/Article/209910/ncaa-football-privacy-policy.aspx) for the most accurate reproduction.*
 
-# NCAAFootball.com :: NCAA Football Privacy Policy
+# NCAA Football Privacy Policy - NCAAFootball.com - NEWS
 
 At NCAAFootball.com, we are committed to safeguarding your privacy online. NCAAFootball.com does not solicit any personally identifiable information from children under the age of 13. Accordingly, children under 13 years old may be restricted from participating in certain activities, contests, and transactions on NCAAFootball.com. 
 
