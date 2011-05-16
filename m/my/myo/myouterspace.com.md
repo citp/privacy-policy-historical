@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myouterspace.com privacy policy that was archived on 2010-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100920211341id_/http%3A//myouterspace.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1515%26Itemid%3D232) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myouterspace.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517001857id_/http%3A//www.myouterspace.com/index.php/no-comments/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | myouterspace
 
   
 Myouterspace.com Privacy Policy
