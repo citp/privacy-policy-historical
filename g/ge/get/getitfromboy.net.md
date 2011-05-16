@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the getitfromboy.net privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216120053id_/http%3A//getitfromboy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getitfromboy.net privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516094210id_/http%3A//getitfromboy.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Showbiz Intriga? Get It From Boy!
+# Privacy Policy | Showbiz? Get It From Boy!
+
+Browse >
+
+[Home](http://getitfromboy.net/ "Browse to: Home") / Privacy Policy 
+
+  
+
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
