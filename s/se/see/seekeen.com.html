@@ -1,14 +1,13 @@
-<!--The following is the downloaded HTML source of the seekeen.com privacy policy that was archived on 2010-01-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100118054241id_/http%3A//www.seekeen.com/%3Ftmp%3Dseekeen_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seekeen.com privacy policy that was archived on 2011-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110516030206id_/http%3A//www.seekeen.com/%3Ftmp%3Dseekeen_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>Seekeen - Privacy Policy</title>
-<script type="text/javascript" src="http://cdn.firstlook.com/custom/images/jquery.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script> 
 <script type="text/javascript" src="http://cdn.firstlook.com/custom/images/thickbox.js"></script>
 <link href="http://cdn.firstlook.com/custom/images/thickbox.css" type="text/css" rel="stylesheet">
-
-<script language="javaScript" type="text/javascript">
+<script type="text/javascript">
 <!--
 var u = location.href;
 var idx = u.indexOf('?');
@@ -22,9 +21,31 @@ function StatusMsg(msgStr) {
 
 var tmpCat = "UNKNOWN";
 var tmpSubCat = "UNKNOWN";
+
+function linkclick(cmstag) {
+	var url = cmstag;
+	templatename = (typeof(templatename) != 'undefined') ? templatename : '';
+	currentLink = (typeof(currentLink) != 'undefined') ? currentLink : '';
+	subid = (typeof(subid) != 'undefined') ? subid : '';
+	if (templatename) url += '&tmp=' + templatename;
+	if (currentLink) url += '&type=' + currentLink;
+	if (subid.length > 0) url += "&subid=" + subid;
+	location.href = url;
+}
+
+function staticlink(st, pos) {
+	exit = false;
+	pos = (typeof(pos) != 'undefined') ? pos : '';
+	location.href = u + 'aid=6&fwdId=1200&pos=' + pos + '&ps=DAUSUE&Keywords=' + st + '&';
+	return false;
+}
+
+function googleTrackPage(str) {
+	_gaq.push(['_trackPageview', str]);
+	return;
+}
 //-->
 </script>
-
 <style type="text/css">
 body{padding-top:50px; font-family:Arial, Helvetica, sans-serif;}
 
@@ -128,6 +149,6 @@ h3{color:#0000cc;font-size:17px;font-family:Arial,sans-serif;font-weight:normal;
 </div><!-- content end -->
 
 </div><!-- wrapper end -->
-<img src="http://cms.trafficmp.com/tpix.gif?clid=domc231eeb1f44769f253d05ea292bbf&amp;sid=0c55d0be-4728-4dd8-b0ca-77d95ce67e9e" width="1" height="1">
+<img src="http://cms.trafficmp.com/tpix.gif?clid=dom90c8d713a485d93bc2a07eba7e532&amp;sid=be4c9e9f-90c7-451e-8156-aafc626d08da" width="1" height="1">
 
 </body></html>
