@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216214707id_/http%3A//www.miamiandbeaches.com/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516142758id_/http%3A//miamiandbeaches.com/about/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
