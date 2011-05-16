@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ampnetwork.net privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208180554id_/http%3A//ampnetwork.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampnetwork.net privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516192625id_/http%3A//www.ampnetwork.net/privacy.php) for the most accurate reproduction.*
 
 # AmpNetwork.net
 
@@ -20,7 +20,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 The Information We Collect 
 
-This notice applies to all information collected or submitted on the [AmpNetwork.net](https://web.archive.org/web/20101208180554id_/http%3A//ampnetwork.net/index.php) website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on the [AmpNetwork.net](https://web.archive.org/web/20110516192625id_/http%3A//www.ampnetwork.net/index.php) website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
 > Name  
 >  Address  
