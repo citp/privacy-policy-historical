@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comedy.co.uk privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114060651id_/http%3A//www.comedy.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comedy.co.uk privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516112713id_/http%3A//www.comedy.co.uk/info/privacy) for the most accurate reproduction.*
 
 # British Comedy Guide - Help and Info - Privacy Policy
 
@@ -49,5 +49,3 @@ Our advertising vendors (primarily AOL Advertising) may set one or more addition
 ## More Information
 
 If you require any additional information on our data usage or wish to clarify something above, we would welcome your email: please do [get in touch](https://web.archive.org/contact/other/).
-
-© 2010 British Comedy Guide. No reproduction without permission.
