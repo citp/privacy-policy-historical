@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jellofart.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230161519id_/http%3A//www.jellofart.com/privacyp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jellofart.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516081629id_/http%3A//www.jellofart.com/privacyp) for the most accurate reproduction.*
 
-# Jellofart.com Privacy Policy | jellofart's blog
+# Jellofart.com Privacy Policy « Jellofart
 
 Privacy Policy for www.jellofart.com
 
@@ -31,4 +31,4 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 Completed unsolicited and worthless random fact:   
-The correct response to the Irish greeting, �Top of the morning to you,� is �and the rest of the day to yourself.� 
+Bruce Lee was so fast that they actually had to SLOW a film down so you could see his moves. That�s the opposite of the norm. 
