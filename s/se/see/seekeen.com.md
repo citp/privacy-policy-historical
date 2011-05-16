@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekeen.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118054241id_/http%3A//www.seekeen.com/%3Ftmp%3Dseekeen_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekeen.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516030206id_/http%3A//www.seekeen.com/%3Ftmp%3Dseekeen_privacy) for the most accurate reproduction.*
 
 # Seekeen - Privacy Policy
 
