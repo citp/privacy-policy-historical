@@ -1,107 +1,22 @@
-> *The following text is extracted and transformed from the dearcinema.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923120630id_/http%3A//dearcinema.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dearcinema.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516125054id_/http%3A//dearcinema.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | DearCinema
+# Privacy Policy | DearCinema.com
 
-Dearcinema.com Pvt Limited and its subsidiaries and affiliates ("dearcinema.com") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by dearcinema.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by dearcinema.com you agree to the collection and use of your data by dearcinema.com in the manner provided in this Privacy Policy.
+The privacy policy (hereinafter referred to as “the Privacy Policy”) provided below is with respect to our use and protection of any personal information you provide to us through the DearCinema.com website. You may be required to provide personally identifiable information at several different points on our website. By accepting the policy at the time of registration the user expressly approves and consents to our collection, storage, use and disclosure of personal information as described in this Privacy Policy.
 
-We want you to
-
-    * feel comfortable using our web sites  
-    * feel secure submitting information to us  
-    * contact us with your questions or concerns about privacy on this site  
-    * know that by using our sites you are consenting to the collection of certain data 
-
-WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU?
-
-We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from a
-
-    * web server cookie stored on your hard drive  
-    * an IP address, assigned to the computer which you use  
-    * the domain server through which you access our service  
-    * the type of computer you're using  
-    * the type of web browser you're using 
-
-We may collect the following personally identifiable information about you:
-
-    * name including first and last name  
-    * email address  
-    * mobile phone number and contact details  
-    * ZIP/Postal code  
-    * financial information (like account or credit card numbers); and  
-    * opinions of features on our websites. 
-
-We may also collect the following information:
-
-    * about the pages you visit/access  
-    * the links you click on our site  
-    * the number of times you access the page 
-
-You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
-
-WHO COLLECTS THE INFORMATION?
-
-We will collect anonymous traffic information from you when you visit our site
-
-We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof.
-
-Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser.
-
-The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.
-
-We make  forums,message boards and other services available to you. Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when disclosing your personal information to anyone.
-
-HOW IS THE INFORMATION USED?
-
-We use your personal information to:
-
-    * help us provide personalized features  
-    * tailor our sites to your interest  
-    * to get in touch with you when necessary  
-    * to provide the services requested by you  
-    * to preserve social history as governed by existing law or policy 
-
-We use contact information internally to:
-
-    * direct our efforts for product improvement  
-    * contact you as a survey respondent  
-    * notify you if you win any contest; and  
-    * send you promotional materials from our contest sponsors or advertisers 
-
-Generally, we use anonymous traffic information to:
-
-    * remind us of who you are in order to deliver to you a better and more personalized service from both an advertising and an editorial perspective;  
-    * recognize your access privileges to our Web sites  
-    * track your entries in some of our promotions, sweepstakes and contests to indicate a player's progress through the promotion and to track entries, submissions, and status in prize drawings  
-    * make sure that you don't see the same ad repeatedly  
-    * help diagnose problems with our server  
-    * administer our Web sites  
-    * track your session so that we can understand better how people use our sites 
-
-WITH WHOM WILL YOUR INFORMATION BE SHARED?
-
-We will not use your financial information for any purpose other than to complete a transaction with you.
-
-We do not rent, sell or share your personal information and we will not disclose any of your personally identifiable information to third parties unless:
-
-    * we have your permission  
-    * to provide products or services you've requested  
-    * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of dearcinema.com's terms of use or to defend against legal claims;  
-    * special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure. 
-
-WHAT CHOICES ARE AVAILABLE TO YOU REGARDING COLLECTION, USE AND DISTRIBUTION OF YOUR INFORMATION?
-
-Supplying personally identifiable information is entirely voluntary. You are not required to register with us in order to use our sites. However, we offer some services only to visitors who do register.
-
-You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. dearcinema.com reserves the right to send you certain service related communication, considered to be a part of your dearcinema account without offering you the facility to opt-out. You may update your information and change your account settings at any time.
-
-Upon request, we will remove/block your personally identifiable information from our database, thereby canceling your registration. See Contact information below. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account.
-
-If we plan to use your personally identifiable information for any commercial purposes, we will notify you at the time we collect that information and allow you to opt-out of having your information used for those purposes.
-
-You can accept or decline the cookies. All sites that are customizable require that you accept cookies. You also must accept cookies to register as someone for access to some of our services. For information on how to set your browser to alert you to cookies, or to reject cookies, go to <http://www.cookiecentral.com/faq/>.
-
-WHAT SECURITY PROCEDURES ARE IN PLACE TO PROTECT INFORMATION FROM LOSS, MISUSE OR ALTERATION?
-
-To protect against the loss, misuse and alteration of the information under our control, we have in place appropriate physical, electronic and managerial procedures. For example, our servers are accessible only to authorized personnel and that your information is shared with respective personnel on need to know basis to complete the transaction and to provide the services requested by you.
-
-Although we will endeavor to safeguard the confidentiality of your personally identifiable information, transmissions made by means of the Internet cannot be made absolutely secure. By using this site, you agree that we will have no liability for disclosure of your information due to errors in transmission or unauthorized acts of third parties.
+* DearCinema.com respects the privacy of its users and is committed to protecting the personally identifiable information (any information or data by which you can be identified, such as names, addresses, zip/postal codes, email addresses, telephone numbers, credit or debit card details, etc.) that the users share with us, in all respects. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested. We assure that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy.
+* In general, you can visit DearCinema.com website without telling us who you are or revealing any personal information about yourself. We track the internet address of the domains from which people visit us and analyze this data for trends and statistics, but the individual user remains anonymous. Please keep in mind that whenever you voluntarily disclose any personal information online, for example through e-mail, discussion lists, forums, blogs, reviews or elsewhere, that information can be collected and used by others.
+* DearCinema.com may use the information in its databases, including personal information you’ve submitted, and other server and usage logs, to analyze the site and user behavior, troubleshoot technical problems, resolve disputes and address complaints, and prepare aggregated reports that are shared with others, including the management of DearCinema.com.
+* To improve the responsiveness of the websites for our users, some of our webpages may use “cookies”, or similar electronic tools to collect information to assign each visitor a unique random number to understand the user’s individual interests using the identified computer. Cookies are small text files that are stored on the hard drive of the user’s computer and are used for record-keeping purposes and are identifiers, which a website can send to your browser to keep on your computer to facilitate your next visit to our website. You can however choose to accept or refuse the cookies by changing the settings of your browser accordingly. If you choose not to accept these cookies, your experience at our website and other websites may be diminished and some features may not work as intended. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. The information we collect and analyze is used to improve our service to you. A cookie cannot read data off your hard drive. Advertisers may also assign their own cookies to your browser (if you click on their advertisements), and we do not control use of these cookies and disclaim any responsibility whatsoever for information collected through them.
+* There are times when we may collect personal information from you such as name, emails, physical address and/or telephone number. Generally, you will have the option not to provide such information, and in the future you will be able to “opt out” of certain uses of the information. If you choose not to provide the information we request, you can still visit DearCinema.com, but you may be unable to access certain options, offers and services.
+* Our web servers automatically collect limited information about your computer’s connection to the Internet, including your IP address, when you visit our site (Your IP address is a number that lets computers attached to the internet know where to send you data, such as the web pages you view). Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.
+* From time to time, we may conduct online surveys or run a contest for promotional purposes, during which, we may ask users for contact information (like email addresses) and demographic information (like zip code, age, or income level). We use contact data to notify people if they win the contest. We understand, though, that you may want to participate in these surveys or contests but may not want us to send you an email. Accordingly, as part of these surveys or contests, we will always give you the option of declining to receive information from DearCinema.com.
+* DearCinema.com contains many links to other websites. For instance, we use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Such third party sites are governed by their respective privacy policies and DearCinema.com is not responsible for the privacy practices or the content of such websites. Once you leave our servers, use of any information you provide is governed by the Privacy Policy of the operator of the site you are visiting. That policy may differ from ours. If you cannot find the Privacy Policy of any of these sites via a link from the site’s homepage, you should contact the site directly for more information. DearCinema.com does not share any of the individual personal information you provide with the sites to which DearCinema.com links, although DearCinema.com may share aggregate data with such sites (such as how many people use our site). This includes other third party sites on the Internet for which DearCinem.com provides search services.
+* DearCinema.com will take appropriate steps to protect the information you share with us. We have implemented technology and security features and strict policy guidelines to safeguard the privacy of your personally identifiable information from unauthorized access and improper use or disclosure. DearCinema.com will continue to enhance its security procedures as new technology becomes available.
+* All information gathered on DearCinema.com is securely stored within the DearCinema.com (controlled) database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. However, any information you include in a posting to the discussion areas becomes public information and is available to anyone with internet access.
+* DearCinema.com will not sell, rent, share, trade or disclose to third parties any information derived from the registration for, or use of, any online service offered by DearCinema.com without the consent of the user or customer, except if such disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings including search warrants, or to help investigate, prevent or take action regarding unlawful activities, suspected fraud, potential threat of security of any person, violation of our website use or defend legal claims; special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or agencies requiring such disclosure or any other legal process or in the case of imminent physical harm to the user or others. You also consent to DearCinema.com disclosing information about you to actual or potential parties to a lawsuit that DearCinema.com is or may become involved in (a) if it is required to do so, (b) if it reasonably believes that such disclosures will potentially mitigate its liability, or (c) to enforce its rights.
+* Circumstances may also arise where we are required to disclose your personal information (including our associated customer lists), to third parties for purposes other than to support your customer relationship with DearCinema.com, such as in connection with a corporate divestiture or dissolution or to its subsidiaries or parent company (if any), or to a potential acquirer or merger partner, in which case DearCinema.com will ask such entities to honour this Privacy Policy. In addition, as part of a diligence review, DearCinema.com would try to restrict the disclosure of such information.
+* Specific uses of personal information that vary from this Privacy Policy (if any) may be found throughout the site. To the extent that, during your submission of information on the site, you are notified of privacy practices that are different from those described in this Privacy Policy, those alternative disclosures will govern that submission.A site and service as complicated as DearCinema.com is never perfect, and thus DearCinema.com may inadvertently make uses or disclosures of your information in ways not contemplated by, or in direct contravention of, this Privacy Policy. For example, if the software has a temporary glitch, your personal information could be displayed on the site even though you’ve configured your preferences otherwise. DearCinema.com might also make ad hoc uses of your information in ways it can’t contemplate here. DearCinema.com will do its best to work with you if these types of situations arise, but your sole remedy in these cases is to have DearCinema.com try to rectify the problem as soon as it can.
+* If our Privacy Policy changes in the future, it will be posted here and a new effective date will be shown. You are advised to access our Privacy Policy regularly to ensure that you understand our current policies. DearCinema.com reserves all rights to revise, amend, modify or change this Privacy Policy in its sole discretion, from time to time and in any manner it deems appropriate.
+* Please also visit our Terms of Use section establishing the use, disclaimers and limitations of liabilities governing the use of our website at[Terms of Use](http://dearcinema.com/terms-of-use/).
+* Any questions or clarifications with respect to this Privacy Policy can be sent to DearCinema.com at: privacy@dearcinema.com. DearCinema.com will attempt to respond to all reasonable concerns or inquiries.
