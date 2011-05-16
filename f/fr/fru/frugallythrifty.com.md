@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frugallythrifty.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922141445id_/http%3A//frugallythrifty.com/2010/04/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugallythrifty.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516115821id_/http%3A//frugallythrifty.com/2010/04/14/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Frugally Thrifty
+# Privacy Policy
 
 **Privacy Policy for frugallythrifty.com (effective 4/16/10)**
 
@@ -20,8 +20,4 @@ Other Third Party ad servers or ad networks may also use cookies to track users 
 
 If you have any questions regarding the privacy policy of Frugally Thrifty then you may contact us at kristi @ frugallythrifty dot com
 
-[](http://www.linkwithin.com/)
-
-[](http://www.printfriendly.com/ "Print an optimized version of this web page")
-
-Comments are closed.
+Like this site? Please subscribe for free daily updates via [Email](http://feedburner.google.com/fb/a/mailverify?uri=frugallythrifty/auiH) to have the best coupons, freebies, and giveaways sent to you. Also follow us on [Facebook](http://www.facebook.com/FrugallyThrifty) and [Twitter](http://www.twitter.com/frugallythrifty.com/)
