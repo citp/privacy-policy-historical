@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuzing.com privacy policy that was archived on 2010-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100215215643id_/http%3A//www.fuzing.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzing.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516093130id_/http%3A//www.fuzing.com/privacy.htm) for the most accurate reproduction.*
 
 # Fuzing.com! - Privacy Policy
 
