@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the romancelatina.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223060430id_/http%3A//www.romancelatina.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancelatina.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516072004id_/http%3A//www.romancelatina.com/en/privacy.php) for the most accurate reproduction.*
 
-# Colombian Girls for dating | Colombian women for marriage | Free Online Colombian Dating
+# Colombian Women Dating Site | RomaceLatina.com Privacy Policy
 
-RomaceLatinca.com PRIVACY POLICY
+**RomaceLatinca.com PRIVACY POLICY
 
-We at RomaceLatinca.com understand that your privacy is very important to you. That's why we've developed this policy to ensure that your privacy is protected while using RomaceLatinca.com. 
+We at RomaceLatinca.com understand that your privacy is very important to you. That's why we've developed this policy to ensure that your privacy is protected while using RomaceLatinca.com to meet and date Latin women.
 
 Table of Contents 
 
@@ -32,21 +32,21 @@ Table of Contents
 
 Children under eighteen years of age are not eligible to use our services. We ask that children not submit information to us. 
 
-2\. About RomaceLatinca.com and Information We Collect
+2\. About RomaceLatina.com and Information We Collect
 
-RomaceLatinca.com is an online network which provides you useful tools and communities to build relationships online. RomaceLatinca.com basic service is FREE to all qualified members. 
+RomaceLatina.com is an online network which provides you useful tools and communities to build relationships online. RomaceLatina.com basic service is FREE to all qualified members. 
 
 In our online registration form, we ask you to provide us with certain information such as your birth date and the type of relationship you are looking for. In addition, we collect address, credit card, and bank information only from those who wish to acquire Gold and Silver member privileges. 
 
-At your own discretion, you may choose to post additional facts about yourself on your profile, such as your occupation, level of education, religious denomination, marital status, etc. While some members freely elect to include their names in their profile, it is not requested or required, and the RomaceLatinca.com Terms of Service forbids posting personal contact information for any reason. 
+At your own discretion, you may choose to post additional facts about yourself on your profile, such as your occupation, level of education, religious denomination, marital status, etc. While some members freely elect to include their names in their profile, it is not requested or required, and the RomaceLatina.com Terms of Service forbids posting personal contact information for any reason. 
 
-In addition to standard business contact information, American individuals and companies signing up for RomaceLatinca.com's Affiliate Program must provide URL information for their website(s) and a social security or Tax I.D. number. None of this information can be accessed or used by individuals not under the direct employ of RomaceLatinca.com Inc. 
+In addition to standard business contact information, American individuals and companies signing up for RomaceLatina.com's Affiliate Program must provide URL information for their website(s) and a social security or Tax I.D. number. None of this information can be accessed or used by individuals not under the direct employ of RomaceLatina.com Inc. 
 
 In the course of using our site, we automatically track certain information such as your IP addresses and email addresses. Many sites collect this sort of information. We may tie your IP address to your personally identifiable information. If you choose to post messages in our Advice Columns, chat rooms or other message areas, we will only display such information about you as you choose to reveal. If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. Once posted, you cannot change or remove any public postings made in our chat rooms or other message areas. We are not responsible for the personally identifiable information you choose to submit in these forums. We reserve the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use. 
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect such information into a file which is only accessed by authorized personnel. We may also collect other users' comments about you in our complaints department. 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We may automatically send your friend a one-time email inviting him or her to visit the site. FriendFinder stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at Customer Service to request that we remove this information from our database. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We may automatically send your friend a one-time email inviting him or her to visit the site. Romancelatina stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. Your friend may contact us at Customer Service to request that we remove this information from our database. 
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. We use session ID cookies. A session ID cookie simply terminates once a user closes the browser. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
 
@@ -64,13 +64,13 @@ Users who no longer wish to receive our updates and communications may opt-out o
 
 We DO NOT sell or rent any personally identifiable information about you to any third party without your permission. We do disclose information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we DO NOT disclose to these entities any information that could be used to personally identify you. Certain information, such as your password, credit card number, and bank account number, are not disclosed in aggregate at all. 
 
-In order to maintain a healthy community, RomaceLatinca.com cooperates with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. 
+In order to maintain a healthy community, RomaceLatina.com cooperates with all law enforcement inquiries and with all third parties to enforce their intellectual property or other rights. 
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
 
 5\. Your use of Other Users' Information
 
-You may not use other user’s information for commercial purposes, to spam, to harass, or to make unlawful threats. RomaceLatinca.com reserves the right to terminate those who misuse other user’s information or who otherwise violate the RomaceLatinca.com Terms of Use. 
+You may not use other user’s information for commercial purposes, to spam, to harass, or to make unlawful threats. RomaceLatina.com reserves the right to terminate those who misuse other user’s information or who otherwise violate the RomaceLatina.com Terms of Use. 
 
 6\. Control of Your Password
 
@@ -78,7 +78,7 @@ You may not disclose your password to any third parties or share it with any thi
 
 7\. Reviewing and Changing Your Personally Identifiable Information
 
-Once you register, you will be able to review and change much of your personally identifiable information at RomaceLatinca.com including: 
+Once you register, you will be able to review and change much of your personally identifiable information at RomaceLatina.com including: 
 
 Your email address
 
@@ -92,17 +92,17 @@ Upon your request, we will remove your credit card number and credit card expira
 
 8\. Third Party Collections of Information
 
-Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. While RomaceLatinca.com is working closely with our partners to ensure the highest privacy to you, we encourage you to ask questions before you disclose your personal information to others. 
+Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. While RomaceLatina.com is working closely with our partners to ensure the highest privacy to you, we encourage you to ask questions before you disclose your personal information to others. 
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. If you would like more information about this practice and your choices, click here . 
 
 9\. Security 
 
-RomaceLatinca.com has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. RomaceLatinca.com uses industry standard efforts to safeguard the confidentiality of your personal identifiable information such as firewalls. While "perfect security" does not exist on the Internet, our technical experts at RomaceLatinca.com work hard to ensure your secure use of our services. 
+RomaceLatina.com has security measures in place to protect and prevent the loss, misuse, and alteration of the information under our control. RomaceLatina.com uses industry standard efforts to safeguard the confidentiality of your personal identifiable information such as firewalls. While "perfect security" does not exist on the Internet, our technical experts at RomaceLatina.com work hard to ensure your secure use of our services. 
 
 10\. Update/Delete
 
-RomaceLatinca.com Members have the following choices to modify or delete their information from our database: 
+RomaceLatina.com Members have the following choices to modify or delete their information from our database: 
 
 Send an email to Customer Service; 
 
@@ -110,6 +110,8 @@ Log in with your password and modify/delete your profile;
 
 Send a snail mail to admin@romancelatinca.com 
 
-RomaceLatinca.com PRIVACY POLICY 
+RomaceLatina.com PRIVACY POLICY 
 
 Effective on: (05/30/08) 
+
+**
