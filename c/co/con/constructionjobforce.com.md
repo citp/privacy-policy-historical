@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the constructionjobforce.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229123051id_/http%3A//www.constructionjobforce.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constructionjobforce.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516205617id_/http%3A//www.constructionjobforce.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
-# Search Clerical & Administrative Jobs & Resumes, Find Career Resources - ConstructionJobForce.com
+# Job Listings | Construction Jobs, Extraction Jobs - ConstructionJobForce.com
 
 ### Privacy Policy
 
