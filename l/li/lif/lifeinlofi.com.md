@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeinlofi.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229172434id_/http%3A//lifeinlofi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinlofi.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516164101id_/http%3A//lifeinlofi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Life in LoFi: iPhoneography
 
@@ -7,6 +7,10 @@
 The privacy of our visitors to LifeInLoFi.com is important to us.
 
 At LifeInLoFi.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit LifeInLoFi.com, and how we safeguard your information. We never sell your personal information to third parties.
+
+#### Newsletter Subscription
+
+Our daily newsletter is provided as a convenience for you to keep up with the daily stories on _Life In LoFi._ You voluntarily submit your email address only if you sign up for our optional, daily email newsletter. No other information is collected or required for the newsletter. Your email address is required for newsletter delivery only. We will not use it for any other purpose. **We will not sell it to any third parties.**
 
 #### Log Files
 
