@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momswhosave.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127012255id_/http%3A//www.momswhosave.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momswhosave.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516131817id_/http%3A//momswhosave.com/privacy.html) for the most accurate reproduction.*
 
 # MomsWhoSave.com Coupon Codes, Deals, and Discounts
 
