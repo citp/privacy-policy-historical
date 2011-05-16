@@ -1,26 +1,28 @@
-> *The following text is extracted and transformed from the dnhour.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516192301id_/http%3A//dnhour.com/policy-en.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnhour.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516132405id_/http%3A//www.dnhour.com/static/privacypolicy) for the most accurate reproduction.*
 
-# Domain News | Domain Name News | 100% Domainer-Powered Content.
+# DNHour
 
-## **PRIVACY POLICY**
+## Privacy Policy
 
   
 
 
-We are committed to your privacy.  This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services.
+We are committed to your privacy. This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services.
 It is our policy, except as noted below, not to sale, trade, lease, give away or otherwise release your personal information, which includes your name, physical address (business or home), home or business telephone number and your e-mail address. We provide for payment for all sales via Paypal and as such we do not ask for your credit card information. 
   
 
 
-**Exceptions to our Privacy Policy**
+### Exceptions to our Privacy Policy
+
 Possible exceptions to our policy include the very rare following circumstances, and as indicated herein:
-          •  If a governmental agency, or an attorney, subpoenas your private information, or makes a formal request for discovery pursuant to any legal action, or pending legal action.   
-          •  If our attorney requests such information relevant to a current or pending legal matter in which you are a potential or actual party or otherwise contributed in some way to the causation of the legal matter. 
+If a governmental agency, or an attorney, subpoenas your private information, or makes a formal request for discovery pursuant to any legal action, or pending legal action.   
+If our attorney requests such information relevant to a current or pending legal matter in which you are a potential or actual party or otherwise contributed in some way to the causation of the legal matter. 
   
 
 
-**Cookies**
-Please note that we employ the use of cookies.  Currently we employ cookies when users create user accounts, but we may further employ cookies to assist the functionality of other tools, services and functions in the future.
+### Cookies
+
+Please note that we employ the use of cookies. Currently we employ cookies when users create user accounts, but we may further employ cookies to assist the functionality of other tools, services and functions in the future.
 Cookies are small programs that enhance your use of the Internet, in general, and specifically we use cookies to enhance your usage of our functions. 
   
 
@@ -45,7 +47,8 @@ Other possible uses for the information that we collect includes internal tracki
   
 
 
-**General Information**
+### General Information
+
 It is our policy not to send unsolicited emails or allow third parties to contact you via the email address that you provide to us. We may, from time to time, contact you to discuss business relevant to your membership and, naturally, we will contact you to respond to inquiries that you may send to us.
   
 
@@ -70,7 +73,7 @@ We have implemented security policies, rules and technical measure to protect th
   
 
 
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitor’s and members’ personal data.  
+All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitorÃ¢â‚¬â„¢s and membersÃ¢â‚¬â„¢ personal data. 
   
 
 
@@ -79,7 +82,7 @@ We may collect aggregate (general tracking) information about pages that users v
   
 
 
-Should you engage in a business transaction with us, such as purchasing a tool, product or service, we will collect the information necessary to complete that transaction.  
+Should you engage in a business transaction with us, such as purchasing a tool, product or service, we will collect the information necessary to complete that transaction. 
   
 
 
@@ -91,8 +94,5 @@ We may, from time to time, send you emails regarding our service so that we can 
   
 
 
-Please [contact us](https://web.archive.org/web/20080516192301id_/http%3A//dnhour.com/contact.php) if you should have any questions, comments or concerns about this privacy policy. 
-
-
-﻿   
+Please [contact us](https://web.archive.org/web/20110516132405id_/http%3A//www.dnhour.com/static/contact.php) if you should have any questions, comments or concerns about this privacy policy. 
 
