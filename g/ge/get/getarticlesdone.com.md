@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getarticlesdone.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216022946id_/http%3A//getarticlesdone.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getarticlesdone.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516124302id_/http%3A//www.getarticlesdone.com/Privacy.html) for the most accurate reproduction.*
 
 # GetArticlesDone - Privacy
 
