@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the superrewards.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008002131id_/http%3A//superrewards.com/srsite/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superrewards.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516023212id_/http%3A//www.superrewards.com/privacy) for the most accurate reproduction.*
 
-# Super Rewards
+# SuperRewards.com
+
+## Privacy Policy
 
 > THE ADKNOWLEDGE/SUPER REWARDS VIRTUAL CURRENCY CHANNEL PRIVACY POLICY 
 
@@ -157,7 +159,7 @@
 
 
 
-> 4.2 _Email Databases_. To unsubscribe from Adknowledge or Publisher email lists, click the link included in the footer of any message delivered by Adknowledge or a Publisher and follow the instructions provided. You may also unsubscribe from the Adknowledge network by clicking <a href=”[ _http://www.adknowledge. com/mus/global.php_](http://www.adknowledge.com/mus/global.php)”> here </a> or visiting [_http://www.adknowledge.com/ mus/global.php_](http://www.adknowledge.com/mus/global.php).
+> 4.2 _Email Databases_. To unsubscribe from Adknowledge or Publisher email lists, click the link included in the footer of any message delivered by Adknowledge or a Publisher and follow the instructions provided. You may also unsubscribe from the Adknowledge network by clicking [ here ](http://www.adknowledge.com/mus/global.php) or visiting [ _http://www.adknowledge.com/mus/global.php_](http://www.adknowledge.com/mus/global.php) .
 
 
 
