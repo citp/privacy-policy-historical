@@ -1,31 +1,228 @@
-> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029131032id_/http%3A//www.guarantybanking.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516080819id_/http%3A//www.guarantybanking.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Guaranty Bank
 
-At Guaranty Bank, we understand that we receive private, personal information about you that you expect will be treated confidentially. We believe we have an affirmative and continuing obligation to respect and protect your privacy. We want you to know that we do not sell nonpublic personal information to third parties for any purpose. To help you better understand how we protect your personal information we are providing you with the following statement describing our practices and policies with respect to the privacy of customer information.
+**FACTS**
 
-## Important Definitions
+|  **WHAT DOES Guaranty Bank (d/b/a BestBank in Michigan and Georgia) and its subsidiaries including Shelter Mortgage LLC and Guaranty Mortgage Services LLC DO WITH YOUR PERSONAL INFORMATION?**    
+---|---  
+  
+**Why?**
 
-We, our, or _us_ means Guaranty Bank (d/b/a BestBank in Michigan and Georgia) or one of its subsidiaries, including Shelter Mortgage Company, LLC and Guaranty Mortgage Services, LLC. _Nonpublic personal information_ means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or public government records. An _affiliate_ is within the Guaranty Bank family of companies. An affiliate may include a company we own or control, a company that owns or controls us, and a company that is owned and controlled by the same company that owns or controls us. For example, Shelter Mortgage is an affiliate of Guaranty Bank; Guaranty Mortgage Services is an affiliate of Shelter Mortgage; and Guaranty Bank is an affiliate of Guaranty Mortgage Services. _A nonaffiliated third party is a company that is not an affiliate of ours._
+| 
 
-## Information We Collect
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+  
+---|---  
+  
+**What?**
 
-In order to serve our customers in their transactions with us, we collect and retain nonpublic personal information as permitted by law. We may collect nonpublic personal information about you from the following sources:
+| 
 
-  * Information you provide to us on an application for an account, loan, or other financial product or service
-  * Information about your transactions with us, our affiliates, or others
-  * Information we receive from a credit reporting agency
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+
+  * Social Security number and checking account information
+  * account balances and transaction history
+  * payment history and credit history
 
 
 
-## Limitations on Information Sharing
+When you are _no longer_ our customer, we continue to share your information as described in this notice.  
+  
+---|---  
+  
+**How?**
 
-As noted earlier, Guaranty Bank does not sell nonpublic personal information to third parties for any purpose. We may share nonpublic personal information about you that we collect, as described above, to Guaranty affiliates and nonaffiliated third parties only as permitted by law, such as to process transactions you have requested, to respond to a subpoena or other legal process, or to protect against fraud.
+| 
 
-## Service Providers/Joint Marketing Providers
+All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Guaranty Bank (d/b/a BestBank in Michigan and Georgia) and its subsidiaries including Shelter Mortgage LLC and Guaranty Mortgage Services LLC chooses to share; and whether you can limit this sharing.  
+  
+---|---  
+  
+**Reasons we can share your personal information**
 
-To provide you with products, services, and special offers that we believe may meet your financial needs, we may share nonpublic personal information that we collect, as described above, to nonaffiliated third parties that conduct marketing services on our behalf, or to inform you of financial products and services offered pursuant to a joint agreement between us and another financial institution, such as a credit card company or insurance company. We do not disclose personal information to affiliates or nonaffiliated third parties to market their own products and services to our customers. Therefore, you do not need to take any action to prevent this disclosure.
+| 
 
-## How We Protect Your Information
+**Does Guaranty Bank (d/b/a BestBank in Michigan and Georgia) and its subsidiaries including Shelter Mortgage LLC and Guaranty Mortgage Services LLC share?**
 
-We respect our customer’s right to keep all nonpublic personal information confidential and secure from fraud. We maintain strict procedures and policies to govern the management of your nonpublic personal information. All nonaffiliated third parties are legally obligated to maintain the confidentiality of the customer information we provide them and to use the information only for the purposes for which it was provided. Employee access to customer information is limited to those who have a business reason for knowing such information. We educate and train our employees on the importance of confidentiality and customer privacy. In the event you terminate your customer relationship with us, we will continue to protect the privacy of your nonpublic personal information in accordance with our Privacy Policy. If you have any questions regarding this Notice or our Privacy Policy, please call 1-800-235-4636.
+| 
+
+**Can you limit this sharing?**  
+  
+---|---|---  
+  
+**For our everyday business purposes**  – such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
+
+| 
+
+YES
+
+| 
+
+NO  
+  
+**For our marketing purposes**  –
+
+to offer our products and services to you
+
+| 
+
+YES
+
+| 
+
+NO  
+  
+**For joint marketing with other financial companies**
+
+| 
+
+YES
+
+| 
+
+NO  
+  
+**For our affiliates’ everyday business purposes**  –
+
+information about your transactions and experiences
+
+| 
+
+YES
+
+| 
+
+NO  
+  
+**For our affiliates’ everyday business purposes –**
+
+information about your creditworthiness
+
+| 
+
+NO
+
+| 
+
+We don’t share  
+  
+**For our affiliates to market to you**
+
+| 
+
+NO
+
+| 
+
+We don’t share  
+  
+**For nonaffiliates to market to you**
+
+| 
+
+NO
+
+| 
+
+We don’t share  
+  
+**Questions?**
+
+| 
+
+Call 1-800-235-4636  
+  
+---|---  
+  
+**Who we are**  
+  
+---  
+  
+**Who is providing this notice?**
+
+| 
+
+Guaranty Bank (d/b/a BestBank in Michigan and Georgia) and its subsidiaries including Shelter Mortgage LLC and Guaranty Mortgage Services LLC  
+  
+**What we do**  
+  
+---  
+  
+**How does Guaranty Bank (d/b/a BestBank in Michigan and Georgia) and its subsidiaries including Shelter Mortgage LLC and Guaranty Mortgage Services LLC protect my personal information?**
+
+| 
+
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+  
+**How does Guaranty Bank (d/b/a BestBank in Michigan and Georgia) and its subsidiaries including Shelter Mortgage LLC and Guaranty Mortgage Services LLC collect my personal information?**
+
+| 
+
+We collect your personal information, for example, when you
+
+  * open an account or show your government-issued ID
+  * apply for a loan or give us your contact information
+  * make deposits or withdrawals from your account
+
+
+
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.  
+  
+**Why can’t I limit all sharing?**
+
+| 
+
+Federal law gives you the right to limit only
+
+  * sharing for affiliates’ everyday business purposes –information about your creditworthiness
+  * affiliates from using your information to market to you
+  * sharing for nonaffiliates to market to you
+
+
+
+State laws and individual companies may give you additional rights to limit sharing.  
+  
+**Definitions**  
+  
+---  
+  
+**Affiliates**
+
+| 
+
+Companies related by common ownership or control. They can be financial and nonfinancial companies.
+
+  * _Our affiliates include the following companies – Shelter Mortgage Company LLC and Guaranty Mortgage Services LLC._
+
+  
+  
+**Nonaffiliates**
+
+| 
+
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+
+  * _Guaranty Bank _does not share_ with nonaffiliates so they can market to you._
+
+  
+  
+**Joint marketing**
+
+| 
+
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+
+  * _Our joint marketing partners include companies such as credit card companies, insurance companies and merchant service companies._
+
+  
+  
+**Other important information**  
+  
+---  
+  
+Guaranty Bank does business as BestBank in Georgia and Michigan.  
+  
+Lost or Stolen  
+ATM/Check Card Notification  
+1-800-554-8969
