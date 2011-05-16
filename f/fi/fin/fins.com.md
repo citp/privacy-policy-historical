@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fins.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116144619id_/http%3A//www.fins.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fins.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517004701id_/http%3A//www.fins.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - FINS.com
 
-Effective as of April 23rd, 2009. 
+Effective as of March 1, 2011. 
 
 **INTRODUCTION:**
 
@@ -82,6 +82,8 @@ Special Circumstances: There may be instances when we may disclose PII or Relate
 Third Party Promotional Offers: We will not sell, rent, swap, or authorize any third party to use your personally identifiable information for such party's own marketing purposes, unless you choose in advance to have your personally identifiable information shared for this purpose. 
 
 Social Network and Interactive Tools. Certain features on our web sites give you an opportunity to interact with us and others. These may include forums, message boards, chats, submitting a letter to the editor, creating community profiles, and rating, tagging and commenting on articles. When you use these features you should be aware that any information you submit, including your name, location and e-mail address, may be publicly available to others. We are not responsible for any information you choose to submit through these interactive features. 
+
+Our comment tool is provided by a third party online comment system called Disqus. Disqus is a third party application that allows visitors to post comments on our web sites and connect those and other comments across multiple web sites. You may use your Disqus or certain select social media accounts to log-in and post comments on our web sites. When you log in and post a comment on our web sites, Disqus may collect information about your visit to this and other Disqus partner sites, including information that you post and your IP address. If you register with and use Disqus, Disqus may collect and use additional information from and about you. This policy does not apply to, and we are not responsible for, Disqus' collection or use of your information. We encourage you to review Disqus' [privacy policy](http://docs.disqus.com/help/30/) to learn more. 
 
 When an individual chooses to post information that will be publicly disclosed, he or she is responsible for ensuring that such information conforms to all local data protection laws. We are not responsible under any data protection laws for user posted information. 
 
