@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khon2.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231231826id_/http%3A//www.khon2.com/content/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khon2.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516083501id_/http%3A//www.khon2.com/content/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | KHON2 Hawaii's News Leader
 
@@ -125,6 +125,3 @@ We may change this Website Privacy Policy at any time and from time to time. The
 If you have any questions about this Website Privacy Policy or would like to learn more about how we protect privacy, please write to us at KHON2, 88 Piikoi Street, Honolulu, HI 96814 or email to [news@khon2.com](mailto:news@khon2.com).
 
 Last Updated: June 10, 2008 
-
-  
-
