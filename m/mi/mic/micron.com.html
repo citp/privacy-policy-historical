@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the micron.com privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224200256id_/http%3A//micron.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the micron.com privacy policy that was archived on 2011-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110516214001id_/http%3A//www.micron.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -11,8 +11,7 @@
  
  
 <script language="JavaScript" type="text/javascript" src="http://cache.micron.com/$assets$/78684380-c443-4e6e-a441-a11be96301f3/s_code.js"></script>
-<script language="JavaScript" type="text/javascript">/*<![CDATA[*/
-<!--
+<script type="text/javascript">
 
 s.linkInternalFilters="javascript:, cache.micron.com, stage.micron.com, micron.com"
 s.linkLeaveQueryString=false
@@ -36,32 +35,7 @@ if (currentPageURL.indexOf("ProductDetails.html") !== -1){
 }
 
 s.pageName =":privacy";
-s.server=""
-s.channel=""
-s.pageType=""
-s.prop2=""
-s.prop3=""
-s.prop4=""
-s.prop5=""
-/* Conversion Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//-->
-/*]]>*/
 </script>
-<script language="JavaScript" type="text/javascript">/*<![CDATA[*/<!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//-->/*]]>*/</script><!-- End SiteCatalyst code version: H.21. -->
-
 
 
 <script src="http://cache.micron.com/$assets$/78684380-c443-4e6e-a441-a11be96301f3/jquery-1.4.1.min.js" type="text/javascript"></script>
@@ -178,6 +152,7 @@ function buildPartUrl(theForm) {  // Submit button behaviors
 		return false;
 	}
 	if (selTech && selFam !== 0 && selAttrValue == 0) {
+		selTech = selTech.replace(/\s/g, '_');
 		window.location.href="/partscatalog.html?categoryPath=Products/"+selFam+"/"+selTech;
 		return false;
 	}
@@ -206,21 +181,7 @@ function buildPartUrl(theForm) {  // Submit button behaviors
 <link rel="stylesheet" href="http://cache.micron.com/$assets$/78684380-c443-4e6e-a441-a11be96301f3/autoSuggest2.css?version=1" type="text/css" media="screen" charset="utf-8">
 <link rel="shortcut icon" type="image/x-icon" href="http://www.micron.com/favicon.ico" mce_href="http://www.micron.com/favicon.ico">
 <link rel="icon" type="image/x-icon" href="http://www.micron.com/favicon.ico">
-<link rel="stylesheet" type="text/css" href="http://www.micron.com/assets/css/printCSS.css" media="print">
-<script type="text/javascript" charset="utf-8">
-/*<![CDATA[*/
-if( ($.browser.msie) && ($.browser.version == '6.0') ){
-		}
-		else{
-			$('<script\/>')
-  		.attr('src', 'http://cache.micron.com/$assets$/78684380-c443-4e6e-a441-a11be96301f3/cufon-yui.js')
-   		.appendTo('head');
-			$('<script\/>')
-  		.attr('src', 'http://cache.micron.com/$assets$/78684380-c443-4e6e-a441-a11be96301f3/Frutiger_300.font.js')
-   		.appendTo('head');
-   }
-/*]]>*/
-</script> 
+
          
 </head>
 <body>
@@ -231,20 +192,59 @@ if( ($.browser.msie) && ($.browser.version == '6.0') ){
 		<strong></strong>
 				<img src="http://cache.micron.com/$assets$/6359862b-5d82-4f8e-bd1a-02a344bdbf93/logo.gif" alt="Micron Logo" title="Micron" width="149" height="41">
 	</a>
-</div> <!-- /logo --> <div id="toprightbox">
+</div> <!-- /logo --> 
+<div id="toprightbox">
 	<ul id="gnav">
-			<li class="investor-relations"><a href="http://www.micron.com/investors">Investor Relations</a></li>
-			<li class="press-relations"><a href="http://www.micron.com/about/media/">Press Relations</a></li>
-			<li class="jobs"><a href="http://www.micron.com/jobs/">Jobs</a></li>
-			<li class="view-cart last"><a href="http://www.micron.com/buymicron">View Cart</a></li>
+		<li class="investor-relations"><a href="http://www.micron.com/investors">Investor Relations</a></li>
+		<li class="press-relations"><a href="http://www.micron.com/about/media/">Press Relations</a></li>
+		<li class="jobs"><a href="http://www.micron.com/jobs/">Jobs</a></li>
+		<li class="last">
+		
+				<div id="langSelect">
+				<div id="langWrapper">
+
+					<div class="currentLang">English</div>
+
+					<ul id="langList">
+						<li class="lang selected"><div></div></li>
+						<li class="lang"><a href="http://cn.micron.com"><div class="langLink" style="width: 54px;"></div></a></li>
+						<li class="lang"><a href="http://jp.micron.com"><div class="langLink" style="width: 36px;"></div></a></li>
+					</ul>
+				</div>
+			</div>
+			<script>
+				$("#langSelect").hover( // show drop down
+					function () {
+					$('#langWrapper').addClass('langSelectHover');
+					$('#langList').css("display", "inline-block");
+				//	$('#toprightbox').css("height", "98px");
+					
+				  }, 
+				  function () {
+					$('#langWrapper').removeClass('langSelectHover');
+					$('#langList').css("display", "none");
+				//	$('#toprightbox').css("height", "auto");
+				  }
+				);
+				$(".langLink").hover( // add hover effect
+					function () {
+					$(this).css("border-bottom", "1px solid #000");
+				  }, 
+				  function () {
+					$(this).css("border-bottom", "none");
+				  }
+				);
+
+			</script>
+		</li>
 	</ul> <!-- /gnav -->
+<br>
 	<ul id="usernav">
 		<li class="login"><a id="loginurl" href="http://access.micron.com/my/login.aspx" title="Login">Login</a></li>
 		<li class="signup"><a id="signupurl" href="http://access.micron.com/my/create.aspx" title="Sign up for Access">Sign Up</a></li>
-			<li><a href="javascript:window.print()" title="Print"><img src="http://cache.micron.com/$assets$/6359862b-5d82-4f8e-bd1a-02a344bdbf93/printer_icon.png"></a></li>
-		<li class="last"><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-		<script type="text/javascript">stLight.options({publisher:'efacafdf-7264-4169-bbb9-e94c53bb6ac3'});</script>
-		<span class="st_sharethis"></span></li>
+		<li class="view-cart last">
+		<a href="http://www.micron.com/buymicron">View Cart</a>
+		</li>
 	</ul> <!-- /bnav -->
 </div> <!-- /toprightbox -->
 <script type="text/javascript" charset="utf-8">
@@ -274,20 +274,6 @@ function updateLoginUI(data) {
 		$("#signupurl").attr("href", result.logoutUrl);
 		$("#signupurl").html("Sign Up");
 	}
-
-	if($.browser.msie && $.browser.version=="6.0"){ 
-	} else{
-		Cufon.replace("#loginurl");
-		Cufon.replace("#signupurl");
-		Cufon.replace('h1#page-title'); 
-		Cufon.replace('div.sidebar-block h2'); 
-		Cufon.replace('div.product h2');
-		Cufon.replace('div.description h2');
-		Cufon.replace('ul#gnav li a',{hover:true});
-		Cufon.replace('ul#usernav li a',{hover:true});
-		Cufon.replace('ul#bottomtabsnav li a.cufon',{hover:true});
-		Cufon.replace('ul#bottomtabsnav li.active a.cufon');
-	}
 };
 
 $(document).ready(function() {
@@ -295,7 +281,6 @@ $(document).ready(function() {
 });
 /*]]>*/
 </script>
-
 
 		<div class="dropdown-wrap">
 	<div id="productsNav" style="display: none; left: 18px;" class="dropdown two-wide">
@@ -307,11 +292,12 @@ $(document).ready(function() {
 													<li><a href="http://www.micron.com/products/dram/" onmouseover="toggleSidelinks('dram',this);" class="selected">DRAM</a></li>
 						<li><a href="http://www.micron.com/products/dram_modules/" onmouseover="toggleSidelinks('dram_modules',this);">DRAM Modules</a></li>
 						<li><a href="http://www.micron.com/products/nand_flash/" onmouseover="toggleSidelinks('nand_flash',this);">NAND Flash</a></li>
-						<li><a href="http://www.micron.com/products/mcp/" onmouseover="toggleSidelinks('mcp',this);">MCP</a></li>
+						<li><a href="http://www.micron.com/products/nor_flash/" onmouseover="toggleSidelinks('nor_flash',this);">NOR Flash</a></li>
 						<li><a href="http://www.micron.com/products/solid_state_storage/" onmouseover="toggleSidelinks('solid_state_storage',this);">RealSSD</a></li>
+						<li><a href="http://www.micron.com/products/mcp/" onmouseover="toggleSidelinks('mcp',this);">MCP</a></li>
+						<li><a href="http://www.micron.com/products/pcm/" onmouseover="toggleSidelinks('pcm',this);">Phase Change Memory</a></li>
 						<li><a href="http://www.micron.com/products/flcos_microdisplays/" onmouseover="toggleSidelinks('flcos_microdisplays',this);">FLCOS Microdisplay</a></li>
 						<li><a href="http://www.micron.com/products/baredie/" onmouseover="toggleSidelinks('baredie',this);">Bare Die</a></li>
-						<li><a href="http://www.micron.com/numonyxproducts" onmouseover="toggleSidelinks('numonyxproducts',this);">Numonyx Products</a></li>
 						<li><a href="http://www.micron.com/parametric.html" onmouseover="toggleSidelinks('parametric',this);">Parametric Part Catalog</a></li>
 					</ul>
 				</li>
@@ -343,7 +329,6 @@ $(document).ready(function() {
 						<li><a href="http://www.micron.com/products/dram_modules/vlp_rdimm.html">VLP RDIMM</a></li>
 						<li><a href="http://www.micron.com/products/dram_modules/udimm.html">UDIMM</a></li>
 						<li><a href="http://www.micron.com/products/dram_modules/sodimm.html">SODIMM</a></li>
-						<li><a href="http://www.micron.com/products/dram_modules/socdimm.html">SOCDIMM</a></li>
 						<li><a href="http://www.micron.com/products/dram_modules/sordimm.html">SORDIMM</a></li>
 						<li><a href="http://www.micron.com/products/dram_modules/vlp_mini-dimm.html">VLP Mini-DIMM</a></li>
 						<li><a href="http://www.micron.com/products/dram_modules/lrdimm.html">LRDIMM</a></li>
@@ -360,12 +345,12 @@ $(document).ready(function() {
 						<li><a href="http://www.micron.com/products/nand_flash/software/">NAND Flash Software</a></li>
 					</ul>
 				</li>
-				<li id="mcp" class="linkContainer" style="display: none;"><span> MCP </span>
+				<li id="nor_flash" class="linkContainer" style="display: none;"><span> NOR Flash </span>
 					<ul>
-						<li><a href="http://www.micron.com/products/mcp/multichip_packages.html">Multichip Packages</a></li>
-						<li><a href="http://www.micron.com/products/mcp/managed_nand.html"><em>e</em>·MMC</a></li>
-						<li><a href="http://www.micron.com/products/mcp/nandcode_software.html">NANDcode Software Suite</a></li>
-						<li><a href="http://www.micron.com/products/mcp/mobile_engineering_services.html">Mobile Engineering Services</a></li>
+						<li><a href="http://www.micron.com/products/nor_flash/parallel_nor_flash.html">Parallel NOR Flash</a></li>
+						<li><a href="http://www.micron.com/products/nor_flash/serial_nor_flash.html">Serial NOR Flash</a></li>
+						<li><a href="http://www.micron.com/products/nor_flash/nor_flash_software/">NOR Flash Software</a></li>
+						<li><a href="http://www.micron.com/products/nor_flash/nor_security/">Security</a></li>
 					</ul>
 				</li>
 				<li id="solid_state_storage" class="linkContainer" style="display: none;"><span> RealSSD </span>
@@ -375,16 +360,29 @@ $(document).ready(function() {
 						<li><a href="http://www.micron.com/products/solid_state_storage/eusb.html">eUSB</a></li>
 					</ul>
 				</li>
+				<li id="mcp" class="linkContainer" style="display: none;"><span> MCP </span>
+					<ul>
+						<li><a href="http://www.micron.com/products/mcp/multichip_packages.html">Multichip Packages</a></li>
+						<li><a href="http://www.micron.com/products/mcp/managed_nand.html"><em>e</em>·MMC</a></li>
+						<li><a href="http://www.micron.com/products/mcp/nandcode_software.html">NANDcode Software Suite</a></li>
+						<li><a href="http://www.micron.com/products/mcp/mobile_engineering_services.html">Mobile Engineering Services</a></li>
+					</ul>
+				</li>
+				<li id="pcm" class="linkContainer" style="display: none;"><span> Phase Change Memory </span>
+					<ul>
+						<li><a href="http://www.micron.com/products/pcm/serial_pcm.html">Serial PCM</a></li>
+						<li><a href="http://www.micron.com/products/pcm/parallel_pcm.html">Parallel PCM</a></li>
+						<li><a href="http://www.micron.com/products/pcm/pcm_software.html">PCM Software</a></li>
+					</ul>
+				</li>
 				<li id="flcos_microdisplays" class="linkContainer" style="display: none;"><span> FLCOS Microdisplay </span>
 					<ul>
-						<li><a href="http://www.micron.com/products/flcos_microdisplays/modules.html">Modules</a></li>
-						<li><a href="http://www.micron.com/products/flcos_microdisplays/panels.html">Panels</a></li>
-						<li><a href="http://www.micron.com/products/flcos_microdisplays/photonics/">Photonics</a></li>
+						<li><a href="http://www.micron.com/products/flcos_microdisplays/microdisplay_modules.html">Modules</a></li>
+						<li><a href="http://www.micron.com/products/flcos_microdisplays/microdisplay_panels.html">Panels</a></li>
+						<li><a href="http://www.micron.com/products/flcos_microdisplays/photonics_devices/">Photonics</a></li>
 					</ul>
 				</li>
 				<li id="baredie" class="linkContainer" style="display: none;"><span> Bare Die </span>
-				</li>
-				<li id="numonyxproducts" class="linkContainer" style="display: none;"><span> Numonyx Products </span>
 				</li>
 				<li id="parametric" class="linkContainer" style="display: none;"><span> Parametric Part Catalog </span>
 				</li>
@@ -397,7 +395,9 @@ $(document).ready(function() {
 		<div class="grade">
 			<ul>
 					<li><a href="http://www.micron.com/innovations/process_tech.html">Process Technology</a></li>
+					<li><a href="http://www.micron.com/innovations/hmc.html">Hybrid Memory Cube</a></li>
 					<li><a href="http://www.micron.com/innovations/flcos.html">FLCOS Technology</a></li>
+					<li><a href="http://www.micron.com/innovations/pcm.html">Phase Change Memory</a></li>
 					<li><a href="http://www.micron.com/innovations/innovations_blog">Innovations Blog</a></li>
 			</ul>
 		</div><!-- .grade -->
@@ -407,7 +407,7 @@ $(document).ready(function() {
 	<div id="buyNav" style="left: 236px; display: none;" class="dropdown one-wide">
 		<div class="grade">
 			<ul>
-				<li><a href="http://www.micron.com/purchase/lookup.html">Distributor &amp; Rep Lookup</a></li>
+				<li><a href="http://www.micron.com/purchase/lookup.html">Sales Office &amp; Rep Lookup</a></li>
 				<li><a href="http://www.micron.com/purchase/distributors.html">Authorized Distributors</a></li>
 				<li><a href="http://www.micron.com/purchase/buymicron.html">buymicron.com</a></li>
 				<li><a href="http://www.micron.com/purchase/surplus/">Surplus Equipment Sales</a></li>
@@ -421,12 +421,15 @@ $(document).ready(function() {
 		<div class="grade">
 			 
 			<ul>
-				<li><a href="http://www.micron.com/support/dram/">DRAM Design Support</a></li>
+				<li><a href="http://www.micron.com/support/dram/">DRAM Support</a></li>
 				<li><a href="http://www.micron.com/support/nand.html">NAND Support</a></li>
-				<li><a href="http://www.micron.com/support/ssd.html">Solid State Storage Support</a></li>
+				<li><a href="http://www.micron.com/support/nor.html">NOR Support</a></li>
+				<li><a href="http://www.micron.com/support/ssd.html">SSD Support</a></li>
+				<li><a href="http://www.micron.com/support/pcm.html">PCM Support</a></li>
 				<li><a href="http://www.micron.com/support/flcos.html">FLCOS Support</a></li>
 				<li><a href="http://www.micron.com/support/tn_directory.html">Technical Notes</a></li>
 				<li><a href="http://www.micron.com/csn.html">Customer Service Notes</a></li>
+				<li><a href="http://www.micron.com/support/software/">Software</a></li>
 				<li><a href="http://www.micron.com/support/fbga.html">FBGA Decoder</a></li>
 				<li><a href="http://www.micron.com/support/faq/">FAQs</a></li>
 			</ul>
@@ -437,20 +440,9 @@ $(document).ready(function() {
 	<div id="aboutNav" style="left: 447px; display: none;" class="dropdown one-wide">
 		<div class="grade">
 						<ul>
-				<li><a href="http://www.micron.com/about/locations.html">Locations</a></li>
-				<li><a href="http://www.micron.com/about/media/">Press Relations</a></li>
-				<li><a href="http://www.micron.com/about/profile.html">Corporate Profile</a></li>
-				<li><a href="http://www.micron.com/about/government_affairs.html">Government Affairs</a></li>
-				<li><a href="http://www.micron.com/about/leadership/">Leadership</a></li>
-				<li><a href="http://www.micron.com/about/governance/">Governance</a></li>
-				<li><a href="http://www.micron.com/about/foundation/">Micron Foundation</a></li>
-				<li><a href="http://www.micron.com/about/ventures/">Micron Ventures</a></li>
-				<li><a href="http://www.micron.com/about/quality/">Quality</a></li>
-				<li><a href="http://www.micron.com/about/events/">Events</a></li>
-				<li><a href="http://www.micron.com/about/environment/">Environment</a></li>
-				<li><a href="http://www.micron.com/about/awards/">Awards</a></li>
-				<li><a href="http://www.micron.com/about/milestones.html">Company Milestones</a></li>
-				<li><a href="http://www.micron.com/about/numonyx_acquisition/">Numonyx Acquisition Information</a></li>
+				<li><a href="http://www.micron.com/about/company/">Our Company</a></li>
+				<li><a href="http://www.micron.com/about/commitment/">Our Commitment</a></li>
+				<li><a href="http://www.micron.com/about/communities/">Our Communities</a></li>
 			</ul>
 		</div><!-- .grade -->
 	</div><!-- /#aboutNav -->
@@ -517,8 +509,6 @@ function submitForm(){
 }  
 
 
-
-
 /*]]>*/
 </script>
 </div>
@@ -549,83 +539,6 @@ function submitForm(){
 <div id="navRightHoverArea" onmouseover="hideNav()">&nbsp;</div>
 </div>
 <!-- /navbar -->
-
-
-<script language="javascript" type="text/javascript">
-/*<![CDATA[*/
-function numDropDownOpen(obj){
-	$(obj).addClass('active');
-	$('#numonyxDropDown').addClass('secondMenu');
-}
-function numDropDownClose(obj){
-	$(obj).removeClass('active'); 
-	$('#numonyxDropDown').removeClass('secondMenu');
-}
-/*]]>*/
-</script>
-
-
-<div id="numonyxNavbar" onmouseover="$('#numonyxDropDown').show();" onmouseout="$('#numonyxDropDown').hide();">
-<h3><a href="#">Navigate Numonyx</a></h3>
-<div id="numonyxDropDown" class="">
-<div id="constant"><img src="http://cache.micron.com/$assets$/6359862b-5d82-4f8e-bd1a-02a344bdbf93/numonyx-logo.jpg" width="66" height="50" class="logo" alt="Numomyx Logo">
-<p id="intro">Micron recently acquired Numonyx.  While we integrate our web presence, you can access Numonyx information from here.</p>
-</div>
-<ul class="primary">
-	<li class="primo" onmouseover="numDropDownOpen(this)" onmouseout="numDropDownClose(this)"><a href="http://numonyx.com/en-US/MemoryProducts/Pages/Memory.aspx">Memory Products</a>
-		<div class="secondaryContainer" id="MemProdContainer"><ul class="secondary">
-			<li><a href="http://numonyx.com/en-US/MemoryProducts/AutoGrade/Pages/default.aspx">Automotive-Grade</a></li>
-			<li><a href="http://numonyx.com/en-US/MemoryProducts/MCP/Pages/MCP.aspx">MCP</a></li>
-			<li><a href="http://numonyx.com/en-US/MemoryProducts/NAND/Pages/NAND.aspx">NAND</a></li>
-			<li><a href="http://numonyx.com/en-US/MemoryProducts/NOR/Pages/NOR.aspx">NOR</a></li>
-			<li><a href="http://numonyx.com/en-US/MemoryProducts/NORserial/Pages/NORserial.aspx">NOR Serial Flash</a></li>
-			<li><a href="http://numonyx.com/en-US/MemoryProducts/PCM/Pages/PCM.aspx">Phase Change Memory</a></li>
-			<li><a href="http://numonyx.com/en-US/MemoryProducts/securityfeatures/Pages/default.aspx">Security</a></li>
-			<li><a href="http://numonyx.com/en-US/MemoryProducts/Software/Pages/software.aspx">Software</a></li>
-			<li><a href="http://numonyx.com/EN-US/MEMORYPRODUCTS/Pages/ParametricSearch.aspx">Product Search</a></li>
-			<li><a href="http://numonyx.com/en-US/MemoryProducts/Pages/PartNumberLookup.aspx">Part Number Search</a></li>
-		</ul></div>
-	</li>
-	<li class="primo" onmouseover="numDropDownOpen(this);" onmouseout="numDropDownClose(this);"><a href="http://numonyx.com/en-US/ResourceCenter/Pages/ResourceCenter.aspx">Resource Center</a>
-		<div class="secondaryContainer"><ul class="secondary">
-			<li><a href="http://numonyx.com/en-US/ResourceCenter/Pages/CompetitiveCrossReferenceTool.aspx">Competitive Cross Reference</a></li>
-			<li><a href="http://numonyx.com/en-US/ResourceCenter/Pages/Hardware.aspx">Hardware Development Tools</a></li>
-			<li><a href="http://numonyx.com/en-US/ResourceCenter/Pages/MarketingLiterature.aspx">Marketing Literature</a></li>
-			<li><a href="http://numonyx.com/en-US/ResourceCenter/Pages/ModelingTools.aspx">Modeling Tools</a></li>
-			<li><a href="http://numonyx.com/en-US/ResourceCenter/Packaging/Pages/Packaging.aspx">Packaging</a></li>
-			<li><a href="http://numonyx.com/en-US/ResourceCenter/Pages/ProgrammerSupport.aspx">Programmer Support</a></li>
-			<li><a href="http://numonyx.com/en-US/ResourceCenter/Pages/TechnicalLiterature.aspx">Technical Literature</a></li>
-			<li><a href="http://numonyx.com/en-US/ResourceCenter/TechnicalSupport/Pages/TechnicalSupport.aspx">Technical Support</a></li>
-			<li><a href="http://numonyx.com/en-US/ResourceCenter/trademarks/Pages/default.aspx">Trademarks &amp; Brands</a></li>
-			<li><a href="http://numonyx.com/en-US/ResourceCenter/Pages/WhitePapers.aspx">White Papers</a></li>
-		</ul></div>
-	</li>
-	<li class="primo" onmouseover="numDropDownOpen(this);" onmouseout="numDropDownClose(this);"><a href="http://numonyx.com/en-US/WhereToBuy/Pages/WhereToBuy.aspx">Where to Buy</a>
-		<div class="secondaryContainer"><ul class="secondary">
-			<li><a href="http://numonyx.com/en-US/WhereToBuy/Pages/AuthorizedDistributors.aspx">Authorized Distributors</a></li>
-			<li><a href="https://procurement.numonyx.com/">Procurement </a></li>
-			<li><a href="http://numonyx.com/en-US/WhereToBuy/Pages/AuthorizedReps.aspx">Manufacturer's Representatives</a></li>
-		</ul></div>
-	</li>
-</ul>
-<ul id="jobSearchNum">
-	<li><a href="http://numonyx.com/en-US/ResourceCenter/Careers/Pages/jobsearch.aspx">Job Search</a></li>
-</ul>
-<ul class="primary">
-	<li class="primo" onmouseover="numDropDownOpen(this);" onmouseout="numDropDownClose(this);"><a href="#">Translated Sites</a>
-		<div class="secondaryContainer"><ul class="secondary">
-			<li><a href="http://numonyx.com/china/Pages/default.aspx">简体中文 (Chinese) </a></li>
-			<li><a href="http://numonyx.com/jp/Pages/default.aspx">日本語 (Japanese) </a></li>
-		</ul></div>
-	</li>
-</ul>
-<ul id="acquisition">
-	<li><a href="/about/numonyx_acquisition">About the Acquisition</a></li>
-</ul>
-</div>
-<!-- /#numonyxDropDown -->
-</div>
-<!-- /#numonyxNavbar -->
 <style type="text/css">
 .searchSelect {background-color:#dadada;}
 </style>
@@ -890,6 +803,19 @@ Micron reserves the right to amend this Privacy Policy from time to time. Change
 </div>
 </div>
 
+
+<script language="JavaScript" type="text/javascript">
+
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//-->
+/*]]>*/
+</script>
+<script language="JavaScript" type="text/javascript">/*<![CDATA[*/<!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//-->/*]]>*/</script><!-- End SiteCatalyst code version: H.21. -->
+
 <div id="footer-box">
 <div id="footer" onmouseover="hideNav()">
 <ul id="rightNavMicron">
@@ -904,70 +830,10 @@ Micron reserves the right to amend this Privacy Policy from time to time. Change
 <li class="crucial-com"><a onclick="s.tl(this,'e')" href="http://www.crucial.com/">Crucial.com</a></li>
 <li class="lexar-com"><a onclick="s.tl(this,'e')" href="http://www.lexar.com/">Lexar.com</a></li>
 </ul>
-<span class="copyright">©2010 Micron Technology, Inc. All Rights Reserved</span>
+<span class="copyright">©2011 Micron Technology, Inc. All Rights Reserved</span>
 </div><!-- /#footer -->
 </div> <!-- /footer-box -->
-<script language="javascript" type="text/javascript">
-function getCookie(c_name)
-		{
-		if (document.cookie.length>0)
-			{
-			c_start=document.cookie.indexOf(c_name + "=");
-			if (c_start!=-1)
-				{
-				c_start=c_start + c_name.length+1;
-				c_end=document.cookie.indexOf(";",c_start);
-				if (c_end==-1) c_end=document.cookie.length;
-				return unescape(document.cookie.substring(c_start,c_end));
-				}
-			}
-		return "";
-		alert ('first return');
-		}
-		
-		function setCookie(c_name,value,expiredays, path)
-		{
-		var exdate=new Date();
-		exdate.setDate(exdate.getDate()+expiredays);
-		document.cookie=c_name+ "=" +escape(value)+
-		((expiredays==null) ? "" : ";expires="+exdate.toUTCString())+";path=/";
-		}
-		
-		function checkCookie()
-		{
-		returnUser=getCookie('returnUser');
-		if (returnUser==null || returnUser=="")
-			{
-				setCookie('returnUser','BeenHereBefore',365, '/');
-				$("#numonyx_overlay").show();
-				$("#numonyx_info").show();
-        $("body").css("overflow", "hidden");
-			}
-		}
-$(document).ready(function() {
-																
-	var NUMONYX_DOMAIN = /numonyx/g; //this needs to be set to numonyx. micron is just for testing referral
-	if (NUMONYX_DOMAIN.test(document.referrer)) {
-	checkCookie();
-	};
-		$("#close_numonyx_info").click(function(){
-			$("#numonyx_info").hide("fast");
-			$("#numonyx_overlay").hide("slow");
-			$("body").css("overflow", "");
-			return false;
-		});
-	});
-</script>
-<div id="numonyx_overlay" style="display:none;"></div>
-<div id="numonyx_info" style="display:none;">
-<div class="n-inner">
-<div id="close"><a href="#" id="close_numonyx_info">Close Window and proceed to Micron.com</a></div>
-<h3>Welcome </h3>
-<p>We recently completed our acquisition of Numonyx, bringing together decades of engineering innovation and one of the richest portfolios of memory solutions to give our customers choice and flexibility.</p>
-<p>We look forward to the opportunities this acquisition brings. In fact we’re already hard at work to integrate the products, support, and technical information on our Website — so if you’re looking for information or support for Numonyx products, just use the "Navigate Numonyx" tab above. </p>
-<p> <a class="learnMore" href="http://www.micron.com/numonyx">Learn More</a></p>
-</div>
-</div>
+
 
 
 </body></html>
