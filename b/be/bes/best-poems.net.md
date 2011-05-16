@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-poems.net privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123215500id_/http%3A//www.best-poems.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-poems.net privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516074829id_/http%3A//www.best-poems.net/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Best Poems
 
@@ -41,8 +41,6 @@ If we decide to change this Privacy Policy, we will post those changes on our We
 
 **CONTACT REGARDING PRIVACY QUESTIONS**  
 If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact our Postmaster in any of the following ways:  
-
-
 E-mail our Postmaster  
 [postmaster@best-poems.net](mailto:postmaster@best-poems.net)
 
