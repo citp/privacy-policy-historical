@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femina.in privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230165541id_/http%3A//www.femina.in/new-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femina.in privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516095611id_/http%3A//www.femina.in/new-privacy-policy) for the most accurate reproduction.*
 
 # Fashion News and Trends from Femina.in - Read the Latest Fashion News
 
