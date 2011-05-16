@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baymontinns.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104040216id_/http%3A//www.baymontinns.com/Baymont/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baymontinns.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517015234id_/http%3A//www.baymontinns.com/Baymont/control/Booking/Link%3Fredirect%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Baymont Inn & Suites: Privacy policy
 
@@ -132,13 +132,13 @@ Participation in surveys is voluntary. Participants who do not wish to receive e
 
 **What We Will Do With Customer Information**: We will: 
 
-  1. Use Customer Information to solicit additional hotel stays at the same hotel and other locations of the Brand, participation in the Loyalty Program, and to offer goods and services we believe may be of interest to Customers on behalf of ourselves, other non-hotel business units, our affiliates and former affiliates. For Customers who are Loyalty Program members, these solicitations may include offers from third party merchants that provide point earning or reward redemption opportunities in connection with the Program ("Loyalty Program Participants"). With Loyalty Program members? consent, we may provide their Customer information to the Loyalty Program Participants for purposes of them directly offering their goods and services to the members
+  1. Use Customer Information to solicit additional hotel stays at the same hotel and other locations of the Brand, participation in the Loyalty Program, and to offer goods and services we believe may be of interest to Customers on behalf of ourselves, other non-hotel business units, our affiliates and former affiliates. For Customers who are Loyalty Program members, these solicitations may include offers from third party merchants that provide point earning or reward redemption opportunities in connection with the Program ("Loyalty Program Participants"). With Loyalty Program membersﾒ consent, we may provide their Customer information to the Loyalty Program Participants for purposes of them directly offering their goods and services to the members
   
 
   2. Include information about Customers gathered from other sources we believe to be reliable to identify our Customers more thoroughly and update Information we store and provide to third parties when the information changes, such as changes of address or new credit card expiration dates
   
 
-  3. Provide the name, address, telephone number and transaction Information, including payment method, about Customers to our and the Loyalty Programs? designated affinity credit card issuer(s) for use in the pre-selection process for the credit cards;
+  3. Provide the name, address, telephone number and transaction Information, including payment method, about Customers to our and the Loyalty Programsﾒ designated affinity credit card issuer(s) for use in the pre-selection process for the credit cards;
   
 
   4. Create and use aggregate Customer data that is not personally identifiable to understand more about the common traits and interests of our Customers;
