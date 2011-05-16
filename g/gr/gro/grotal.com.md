@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grotal.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011093606id_/http%3A//www.grotal.com/staticpages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grotal.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516080130id_/http%3A//www.grotal.com/staticpages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,5 +19,5 @@ If you have questions about our privacy policy or anything related to your priva
 
 **Email: info@grotal.com  
 Contact number: +91 - 99 14 11 11 22   
-0172 - 661 47 47   
+0172 - 661 46 46   
 Web link : [www.Grotal.com](http://www.grotal.com/)**
