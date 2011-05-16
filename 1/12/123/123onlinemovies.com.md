@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123onlinemovies.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831110305id_/http%3A//www.123onlinemovies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123onlinemovies.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516151923id_/http%3A//www.123onlinemovies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy ~ Free Online Movies, Bollywood News, Gossips, Telugu Movies, Hindi Movies, TV Shows, Cricket, Watch Free Online Hindi Movies, Tollywood News
 
@@ -19,6 +19,8 @@ A "cookie" is a small text file that an Internet site can place on your computer
 
 **WITH WHOM WE SHARE YOUR INFORMATION**  
 We will not sell or rent your personally identifiable information to third parties. We may disclose personally identifiable information about you to third parties when: a). We have your consent to share the information b). We have to cooperate with the investigations of purported unlawful activities c). we respond to subpoenas, court orders in compliance with the legal process. d). when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **LINKS**   
 We may display links to other sites within the site. We are not responsible for those other sites, their privacy policies or how they treat information about their members. We advise you to check their privacy policies to find out how they are treating your personal information. 
