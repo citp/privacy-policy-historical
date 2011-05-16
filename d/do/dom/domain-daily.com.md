@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domain-daily.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225043220id_/http%3A//domain-daily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domain-daily.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516024003id_/http%3A//domain-daily.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Domain-Daily.com
 
