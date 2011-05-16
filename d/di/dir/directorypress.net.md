@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorypress.net privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216162611id_/http%3A//www.directorypress.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorypress.net privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517012810id_/http%3A//www.directorypress.net/privacy) for the most accurate reproduction.*
 
 # DirectoryPress - Privacy Policy
 
@@ -30,9 +30,9 @@ You should be aware, however, that any information that you disclose in a public
 
 > What our customers have to say...
 > 
-> Fantastic piece of software.
+> For the longest time I searched the Internet for a great way to create a business directory using the wordpress platform as I just love wordpress. Finally finding Directorypress has answered all those dreams. And all the updates with each new version is just adding icing to the cake every single time! Keep up the great work you do.
 > 
-> **Mark -** | [ bouncycastlehire-uk.co.uk](http://bouncycastlehire-uk.co.uk/ "bouncycastlehire-uk.co.uk")
+> **Gary -** | [ www.businessdirectoryakron.com](http://www.businessdirectoryakron.com/ "www.businessdirectoryakron.com")
 
   
 
