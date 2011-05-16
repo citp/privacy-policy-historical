@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emp-online.co.uk privacy policy that was archived on 2010-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100816190834id_/http%3A//www.emp-online.co.uk/terms/terms.php%3Ftag%3Ddataprotection%26pu%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emp-online.co.uk privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516163951id_/http%3A//www.emp-online.co.uk/terms/terms.php%3Ftag%3Ddataprotection%26pu%3D1) for the most accurate reproduction.*
 
-# Allgemeine Geschäftsbedingungen
+# Allgemeine Gesch�ftsbedingungen
 
 The safety software we use SSL (Secure Socket Layer) encrypts all personal information (like name, address, credit card number) you enter in our website. This information is not accessible to any third-parties whilst you are connected to our server with the SSL protocol. SSL encrypts all information that you pass to us over the internet using a unique key that only we can access.
 
