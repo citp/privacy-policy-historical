@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the celebgalz.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125002550id_/http%3A//celebgalz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebgalz.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516092740id_/http%3A//celebgalz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy · Celebgalz.com :: Hottest World News Updated
+# Privacy Policy | Celebgalz.com :: Hottest News
 
 **Privacy Policy for CelebGalz.com**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
 
 **Google Adsense and the DoubleClick DART Cookie**  
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
