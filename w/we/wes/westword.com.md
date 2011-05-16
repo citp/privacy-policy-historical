@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208122550id_/http%3A//www.westword.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516151324id_/http%3A//www.westword.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Denver Privacy Policy
 
