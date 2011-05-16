@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quixsurf.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330113725id_/http%3A//quixsurf.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quixsurf.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516165052id_/http%3A//www.quixsurf.com/privacy.php) for the most accurate reproduction.*
 
 # Quixsurf Web Search
 
@@ -32,7 +32,7 @@ Persons who supply us with their telephone numbers on-line sending us e-mail at 
 
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type and your IP address .
+With respect to Third Party Advertisers and Ad Servers: We use third-party companies to serve advertisements and collect non-personally identifiable information when you visit this Web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on this Web site, other websites and other forms of media about goods and services that may be of interest to you. If you would like more information about the information collection practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please [click here](http://www.networkadvertising.org/managing/opt_out.asp#).
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
