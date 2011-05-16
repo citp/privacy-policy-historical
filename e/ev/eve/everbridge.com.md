@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everbridge.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129190035id_/http%3A//www.everbridge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everbridge.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517012923id_/http%3A//www.everbridge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ If you become a Everbridge customer, you can access and update your personally i
 
 ### Security
 
-It is possible that Electronic Communications may be accessed by unauthorized third parties when communicated between you and Everbridge using the Internet, other network communications facilities, telephone or any other electronic means. All transfer of personal information on Everbridgeonline.net is secured by encrypted user names and passwords, and the industry standard Secure Sockets Layer (SSL) protocol. SSL prohibits other Web users from gaining access to your personal information, and to help protect the loss, misuse, and alteration of your information.
+It is possible that Electronic Communications may be accessed by unauthorized third parties when communicated between you and Everbridge using the Internet, other network communications facilities, telephone or any other electronic means. All transfer of personal information on Everbridge.net is secured by encrypted user names and passwords, and the industry standard Secure Sockets Layer (SSL) protocol. SSL prohibits other Web users from gaining access to your personal information, and to help protect the loss, misuse, and alteration of your information.
 
 ### Safe Harbor Compliance
 
