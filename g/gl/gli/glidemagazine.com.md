@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glidemagazine.com privacy policy that was archived on 2010-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100801073403id_/http%3A//www.glidemagazine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glidemagazine.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516145422id_/http%3A//www.glidemagazine.com/privacy.php) for the most accurate reproduction.*
 
 # Glide Magazine - Privacy Policy
 
@@ -25,6 +25,8 @@ The site may use cookies to identify you and your interests and to track usage o
 We may provide links to third-party Web sites as a service to our users. In addition, some of the content appearing to be on this site may occasionally be supplied by third parties, for example, in instances of framing of third-party Web sites or incorporation through framesets of content supplied by third-party servers. Please be aware that we cannot control and are not responsible for the information collection practices of such third-party Web sites, which may differ from those of this site. We encourage you to review and understand the privacy policies on these Web sites before providing any information to them.
 
 By using the site, you consent to the collection, use, and storage of your information by us in the manner described in this Privacy Policy and elsewhere on the site. We reserve the right to make changes to this Privacy Policy from time to time. We will alert you to any such changes by updating this Privacy Policy. If you are concerned about how your information is used, you should check back at our Web site periodically.
+
+We partner with third party ad networks and allow such networks to use cookies to collect non-personally identifiable data for targeting and serving ads. Users can opt-out of this behavioral targeting by visiting the Network Advertising Initiative's consumer page at <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 If you feel that this site is not following its stated information policy, or if you have any questions about our Privacy Policy, please e-mail us at [info@glidemagazine.com](mailto:info@glidemagazine.com).
 
