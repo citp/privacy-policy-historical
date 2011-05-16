@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slashphone.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914000735id_/http%3A//www.slashphone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slashphone.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516031332id_/http%3A//www.slashphone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SlashPhone
 
