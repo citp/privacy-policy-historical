@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashnetwork.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228113814id_/http%3A//www.cashnetwork.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnetwork.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516092216id_/http%3A//www.cashnetwork.com/privacypolicy) for the most accurate reproduction.*
 
 # CashNetwork: Maximum payouts. Unlimited possibilities.
 
