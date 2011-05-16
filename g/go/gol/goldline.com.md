@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231032151id_/http%3A//www.goldline.com/aboutgoldline-privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldline.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516131115id_/http%3A//www.goldline.com/aboutgoldline-privacypolicy) for the most accurate reproduction.*
 
 # Goldline Privacy Policy | Goldline International
 
@@ -89,7 +89,7 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 ## OPT OUT/CORRECTIONS
 
-Upon your request, we will (a) correct or update your personal information; and/or (b) stop sending emails to your email address.  You can make these requests at the customer information section of the Site [http://www.goldline.com/goldline-contact-information](https://web.archive.org/goldline-contact-information "Gold Catalog"), or by telephoning Goldline at 800-376-2646, or emailing your request to info@goldline.com.
+Upon your request, we will (a) correct or update your personal information; and/or (b) stop sending emails to your email address.  You can make these requests at the customer information section of the Site <http://www.goldline.com/goldline-contact-information>, or by telephoning Goldline at 877-376-2646, or emailing your request to info@goldline.com.
 
 Please do not email your credit-card number or other sensitive information.
 
