@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourcareerquiz.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222165624id_/http%3A//yourcareerquiz.com/Privacy-Policy/1_209_menu%3D2_object%3D510.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcareerquiz.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517001334id_/http%3A//yourcareerquiz.com/Privacy-Policy/1_209_menu%3D2_object%3D510.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | YourCareerQuiz.com
 
