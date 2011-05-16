@@ -1,94 +1,101 @@
-> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114064958id_/http%3A//www.superdrug.com/help%2Binfo/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516185446id_/http%3A//www.superdrug.com/help%2Binfo/privacy-policy/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy at Superdrug
 
 ## Introduction
 
-Superdrug Stores plc ( **we** and **us** ) are committed to protecting your privacy.
+Superdrug Stores plc are committed to protecting your privacy. 
 
-This privacy policy (together with our [Terms & Conditions](http://www.superdrug.com/help+info/terms-and-conditions/page/termsandconditions/)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Please read this policy carefully as it explains how we use your personal information. If you have any questions about or comments on this policy, please contact us at 0800 096 1055 before using this website.
 
-## Information we may collect from you
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure you are happy with any changes. 
 
-We may collect and process the following data about you:
+## What information do we collect and why? 
 
-  * details of transactions you carry out through this website (the **Site** ) and of the fulfilment of your orders;
-  * information that you provide by filling in forms on the Site, including, but not limited to, information provided at the time of requesting or subscribing to any service or becoming a registered user or if you enter any competition or promotion sponsored by us;
-  * information if you choose to complete one of our on-line questionnaires which run on the Site from time to time;
-  * communications you send to us, for example to report a problem with the Site or to submit comments or suggestions; and 
-  * details of your visits to the Site, including, but not limited to, traffic data, location data and the resources that you access.
+In general, you can visit our website without giving us any information and we won’t know who you are. If you are one of our anonymous visitors, please bear in mind that we may still:
 
-  
-
-
-## IP Addresses & Cookies
-
-We may use technology to track the patterns of behaviour of visitors to our Site. We may collect information about your computer including, where available, your IP address, operating system and browser type. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
-
-This can also include using 'cookies' which contain information that is transferred to your computer's hard drive.
-
-Cookies enable us to monitor website traffic and to aggregate this data to perform statistical analyses of the characteristics and behaviour of the visitors to our Site. This helps us to understand which areas of the Site are of particular interest and also which pages are not being requested. Cookies also enable us to deliver a better and more personalised service, for example by allowing us to:
-
-  * store information about your preferences, and so allow us to customise the Site according to your individual interests;
-  * speed up your searches; and
-  * recognise you when you return to the Site.
+  * Record the areas of the website which you visit; and ****
+  * Collect information about your computer such as which browser you are using, your network location, the type of connection you are using (e.g. broadband, ADSL etc). ****
 
 
 
-You can usually modify your browser to prevent this happening but this may mean that you are unable to use certain features on our site. The “Help” menu of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. For more information about cookies and how to stop cookies being installed or how to delete existing cookies from your hard drive visit the following website: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+We do this by using Cookies, but we can’t tell who you are.
 
-## How we process and store your information
+Additional services may be available if you register with our website (including if you register for our [Beautycard](http://www.superdrug.com/beautycard/introducing-the-superdrug-beautycard-your-new-shopping-essential/page/beautycard/)). In this case, once you register we will know who you are, and your activities on our website and information about your computer may be linked to you on our systems. You may also give us:
 
-The data that we collect from you is processed by staff who work either for us or one of our group companies or for one of our service providers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services.
-
-Any personal information you provide will be held securely on our systems and/or those of Venda Limited (the company hosting this Site on our behalf). Any payment transactions will be encrypted using secure sockets layer (SSL) technology.
-
-Your data may be transferred to, and stored at, a destination outside the European Economic Area (EEA). It may also be processed by staff operating outside the EEA. By submitting your personal data, you agree to this transfer, storing and/or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
-
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
-
-## Uses made of your information
-
-We use information held about you in the following ways:
-
-  * to carry out our obligations arising from any contracts entered into between you and us, for example to fulfil your orders;
-  * to provide you with information, products or services that you request from us or which we feel may interest you, where you have indicated that you wish to be contacted for such purposes by post, email, SMS, telephone or other means of electronic communication;
-  * to ensure that content from the Site is presented in the most effective manner for you and for your computer;
-  * to allow you to participate in any interactive features of our services, when you choose to do so; and
-  * to notify you about changes to our services.
+  * Contact information - your name, address, postcode, email address and telephone/mobile number;
+  * General information about you - your interests, experiences with products and services and your contact preferences;
+  * If you are registering as a [Beautycard](http://www.superdrug.com/beautycard/introducing-the-superdrug-beautycard-your-new-shopping-essential/page/beautycard/) member, information to help us send you the promotions that we think fit you the best including your favourite products, hobbies, your birthday and family members (for example, children’s names and birthdays).
 
 
 
-We may also use your data, or permit selected third parties to use your data, to provide you with information about third party goods and services which may be of interest to you and we or they may contact you about these, where you have indicated that you wish to be contacted for such purposes by post, email, SMS, telephone or other means of electronic communication. 
+The main reason we use this information is to provide you with our products and services (whether available via the website or offline). 
 
-## Disclosure of your information
+If you have opted-in to receive marketing from us then we will also use this information to send you communications (including extra points promotions if you’re a [Beautycard](http://www.superdrug.com/beautycard/introducing-the-superdrug-beautycard-your-new-shopping-essential/page/beautycard/) member). These will all be sent by Superdrug but may contain offers and information from other companies that we think you may be interested in, including from our sister company The Perfume Shop Limited. Rest assured, we will never share your details with other companies to let them send you their marketing directly. For more information on our marketing activities, see our Privacy Promise at the end of this policy.
 
-We may disclose your personal information to any affiliated company within our group.
+We may keep copies of any correspondence you send us including questions, feedback, complaints and any problems you have reported, as well as your registration history with us (including [Beautycard](http://www.superdrug.com/beautycard/introducing-the-superdrug-beautycard-your-new-shopping-essential/page/beautycard/) registration), competition submissions and responses to our online questionnaires. This is to allow us to respond to you if appropriate, and for our internal record keeping and product development.
 
-We may also disclose your personal information to third parties:
+Finally we may also use your information for market research and analysis purposes, but this will be on an anonymised basis (so no one will know who you are).
 
-  * if you have indicated that you wish to be contacted by selected third parties with information about those third parties' goods and services;
-  * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
-  * if we or substantially all of our assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets; or
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms & Conditions](http://www.superdrug.com/help+info/terms-and-conditions/page/termsandconditions/) or other agreements; or to protect our rights, property, or safety or those of our customers or other third parties. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+## Who do we share this information with?
 
-  
+We may share your information with:
+
+  * Companies performing services on our behalf (such as marketing agents, recruitment agents and service providers such as our website host) who will only use the information to provide that service to us. These organisations may provide services to us from other countries, which may mean that personal information is transferred to those other countries;
+  * Other members of our corporate group (the A S Watson group of companies) for market analysis purposes (but only on an anonymised basis);
+  * A purchaser or potential purchaser of our business or assets;
+  * Organisations which we need to share information with either for legal reasons, to prevent or investigate criminal activity, or to protect our or our customers’ rights (for example the police, the courts, fraud investigation organisations, insurers, solicitors, auditors and financial advisors); and
+  * Credit checking organisations. 
 
 
-## Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking or un-checking (as directed) certain boxes on the forms we use to collect your data or by opting to 'unsubscribe' as directed within relevant communications we send to you. You can also exercise the right at any time by contacting us as shown in the [Contact Us](http://www.superdrug.com/help+info/contact-us/page/contactus/) section.
+## How to get copies of or amend the information we have collected
 
-The Site may, from time to time, contain hyperlinks to and from internet sites operated by other organisations. If you follow a hyperlink to any of these sites, please note that they will have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to such sites.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. We may charge a small fee for this (which will be no more than £10). If you would like a copy of the personal information we hold about you please write to Customer Services, 118 Beddington Lane, Croydon, Surrey, CR0 4TB.
 
-## Access to your information
+If you need to update any details relating to your [Beautycard](http://www.superdrug.com/beautycard/introducing-the-superdrug-beautycard-your-new-shopping-essential/page/beautycard/) registration then you can either update them online at [superdrug/beautycard](http://www.superdrug.com/beautycard/introducing-the-superdrug-beautycard-your-new-shopping-essential/page/beautycard/), or by calling our Loyalty Helpline on 08445 464747*. If you think any other information we have about you is incorrect or incomplete, please call us on 0800 096 1055 as soon as possible so we can correct or update your information. 
 
-You have the right under the Data Protection Act 1998 to request a copy of the personal data, which we hold with reference to you. We reserve the right to charge a reasonable fee (not exceeding £10) for the provision of a copy of such data. You also have the right to have any inaccuracies in your personal data corrected.
+## Security
 
-## Contact us
+We are committed to ensuring that your information is secure. To prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect about you.
 
-If you have any questions, comments or requests regarding this privacy policy, please feel free to [Contact Us](http://www.superdrug.com/help+info/contact-us/page/contactus/).
+We may link to other websites which are not within our control (including for example, the website of our sister company The Perfume Shop Limited). Once you have left our website, we cannot be responsible for the protection and privacy of any information which you provide. You should exercise caution and look at the privacy statement for the website you’re visiting.
 
-## Updates
+## Cookies
 
-We may amend this privacy policy from time to time by changing it on the Site. If we make any substantial changes in the way we use your personal information we will notify you by email or an announcement on the Site. This privacy policy was last updated in December 2006.
+We use cookies on our website. Cookies are files that store information on your computer hard drive or browser that mean that we can recognise that you have visited our website before. They make it easier for you to maintain your preferences, and by seeing how you use our website we can try and tailor your experience to fit your preferences. We can also measure how easy our customers find our website to use, so that we can make it as easy as possible for you. 
+
+You can, should you choose, disable the cookies from your browser and delete all cookies currently stored on your computer. On Microsoft Internet Explorer, this can be done by selecting “Tools/Internet Options” and reviewing your privacy settings or selecting “delete cookies”. This may, however, prevent you from taking full advantage of the website. You can find out how to do this for your particular browser by clicking "help" on your browser's menu, or by visiting [www.allaboutcookies.org](http://www.allaboutcookies.org/manage-cookies/index.html).
+
+## Phishing
+
+Phishing is the name given to attempts to steal personal details and financial account details from a website user. “Phishers” use fake or “spoof” emails to lead users to counterfeit websites where the user is tricked into entering their personal details, such as credit card numbers, user names and passwords. Please note that Superdrug will never send you emails asking for such details, and our staff will never ask you for your password. 
+
+If you do receive an email like this, or are asked for your password by anyone claiming to work for us, please forward the email or report the incident by calling us on 0800 096 1055 or by writing to us at Customer Services, 118 Beddington Lane, Croydon, Surrey, CR0 4TB
+
+## When you apply for a job with us 
+
+When applying for a job with us through our website you will provide information about yourself, such as your CV. We will use this information to assess your suitability for employment by us and in any subsequent interviewing process. 
+
+We will keep copies of the information you submit and any further correspondence in order to progress your job application and as a record of our employment and fair access processes. If you are a successful candidate then we will keep your information for the purpose of your employment with us. We may also keep information about unsuccessful candidates so that we can contact them in the future about other vacancies we think may be of interest. 
+
+We sometimes employ external recruitment agents to help with the recruitment process. We will always retain control of your information (including CVs you may submit) and the recruitment agent must act in accordance with our instructions when using that information.
+
+## Our Privacy Promise
+
+If you have registered with us (including as a [Beautycard](http://www.superdrug.com/beautycard/introducing-the-superdrug-beautycard-your-new-shopping-essential/page/beautycard/) member) you can receive exclusive offers, bonus points and other promotions. As mentioned before, these will all be sent by Superdrug but may contain offers and information from other companies that we think you may be interested in, including from our sister company The Perfume Shop Limited. 
+
+Rest assured, we won’t send you these, or any other marketing unless you have given us your consent to do so and we will never share your personal details with other companies to let them send you their marketing directly.
+
+## How to Unsubscribe
+
+You can unsubscribe from receiving any marketing from us at any point using one of two methods:
+
+  * changing your communication preferences on your online account on our website
+  * via the unsubscribe link that you’ll find at the bottom of every marketing email we send
+
+
+
+Please note that if you unsubscribe from us then you won’t receive any further marketing from Superdrug; however if you have separately given your permission to receive marketing from other companies, for example The Perfume Shop Limited, then you will still receive marketing from those companies unless you also unsubscribe from them.
+
+* Calls to our Loyalty Helpline are charged at 5p per minute from landlines (but are likely to cost more from mobile phones)
