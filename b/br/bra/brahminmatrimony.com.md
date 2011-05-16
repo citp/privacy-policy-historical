@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brahminmatrimony.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228114131id_/http%3A//www.brahminmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brahminmatrimony.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516051059id_/http%3A//www.brahminmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Brahmin Matrimony, Matrimony, Indian Matrimony
 
