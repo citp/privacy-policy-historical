@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctreal.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215055327id_/http%3A//ctreal.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctreal.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516092031id_/http%3A//ctreal.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
