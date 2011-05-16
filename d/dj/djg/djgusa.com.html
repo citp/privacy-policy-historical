@@ -1,14 +1,135 @@
-<!--The following is the downloaded HTML source of the djgusa.com privacy policy that was archived on 2010-10-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101023224516id_/http%3A//www.djgusa.com/usa/eng/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the djgusa.com privacy policy that was archived on 2011-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110516022428id_/http%3A//www.djgusa.com/usa/eng/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!--mark-->
 <base href="http://www.djgusa.com/usa/eng/">
 
 	<title>Dorel Juvenile Group | Privacy Policy</title>
 	
 
 <link rel="icon" href="DJGMainTemplates/favicon.ico" type="image/x-icon">
+<style type="text/css">
+	
+	/* common page styles */
+	body
+	{	background: #6595A3;
+		padding: 0 0px}
 
+	.clear
+	{	clear: both;
+		overflow: hidden;
+		height: 0}
+
+	#all
+	{	width: 80%;
+		min-width: 1000px;
+		margin: 40px auto 0 auto;
+		background: #FCFFED;
+		padding: 20px 35px}
+
+	h1
+	{	font: 26px tahoma, arial;
+		color: #324143}
+
+	p
+	{	font: 12px tahoma, arial;
+		color: #171F26;
+		margin-bottom: 25px}
+
+	a
+	{	color: #324143}
+
+	#copyright
+	{	width: 80%;
+		min-width: 1000px;
+		margin: 0 auto;
+		padding: 0px 0px;
+		background: #B6C28B;
+		font: 12px tahoma, arial;
+		color: #324143}
+
+	#copyright a
+	{	color: #324143}
+
+	#copyright a:hover
+	{	color: #171F26}
+	</style>
+	<style type="text/css">
+/* menu styles */
+#topmenu
+{
+	background:url(DJGMainTemplates/images/bg.jpg) repeat-y;
+	width:765px;
+	height:35px;
+}
+
+#jsddm
+{	margin: 0px;
+	padding: 0}
+
+	#jsddm li
+	{	float: left;
+		list-style: none;
+		font: 12px Tahoma, Arial;
+	    	
+	}
+
+	#jsddm li a
+	{	display: block;
+		
+		padding: 0px 0px;
+		text-decoration: none;
+		border-right: 1px solid white;
+		width: 150px;
+		border:0;
+		color: #EAFFED;
+		white-space: nowrap
+	    	
+	}
+
+	#jsddm li a:hover
+	{	 }
+		
+		#jsddm li ul
+		{	
+		 	
+		 	margin-left:20px;
+			padding: 0;
+                        z-index:999;
+			position: absolute;
+			visibility: hidden;
+			border-top: 0px solid white;
+		    height:auto;
+		}
+		
+			#jsddm li ul li
+			{	float: none;
+				display: inline;
+			    margin-top:10px;
+			    margin-bottom:10px;
+		     }
+			
+			#jsddm li ul li a
+			{	width: auto;
+				background: url(DJGMainTemplates/images/nav_bg.jpg) repeat-y;
+			    height:35px;
+			    line-height:35px;
+			    vertical-align:middle;
+			    text-align:inherit;
+			    width:163px;
+				border-right:0px;
+				color: #0071bc;
+				padding-left:20px;
+				padding-right:20px;
+				font-size:15px;
+				font-family:Arial;
+				font-weight:bold;
+			}
+			
+			#jsddm li ul li a:hover
+			{	background:url(DJGMainTemplates/images/nav_hightlight.jpg) repeat-y; }
+</style>
 <link href="DJGMainTemplates/stylesheet.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="DJGMainTemplates/js/jquery.js"></script>
 <script type="text/javascript" src="DJGMainTemplates/js/ajax.js"></script>
@@ -38,6 +159,38 @@ window.onload = function(){
 };
 </script>
 
+
+<!--added eddie-->
+
+<script type="text/javascript" src="DJGMainTemplates/js/AC_RunActiveContent.js"></script>
+<script type="text/javascript">
+    var timeout         = 500;
+var closetimer		= 0;
+var ddmenuitem      = 0;
+
+function jsddm_open()
+{	jsddm_canceltimer();
+	jsddm_close();
+	ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible');}
+
+function jsddm_close()
+{	if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
+
+function jsddm_timer()
+{	closetimer = window.setTimeout(jsddm_close, timeout);}
+
+function jsddm_canceltimer()
+{	if(closetimer)
+	{	window.clearTimeout(closetimer);
+		closetimer = null;}}
+
+$(document).ready(function() {	
+    $('#jsddm > li').bind('mouseover', jsddm_open);
+    $('#jsddm > li').bind('mouseout', jsddm_timer);
+});
+
+</script>
+<!--added end-->
 </head>
 
 <body>
@@ -45,10 +198,44 @@ window.onload = function(){
 <div id="wrapper">
 
 	<div id="header_eng"><a href="."><img src="DJGMainTemplates/images/logo_eng.gif" alt="Cosco Juvenile" name="logo" height="84" border="0" id="logo"></a></div>
-
-	<div id="GreetingBar" class="clearfix">&nbsp;</div>
-
+       
+	<div id="GreetingBar" class="clearfix" style="display: inline-block;">
+	 <div id="topmenu" style="z-index:100;">
+        <ul id="jsddm">
+	   <li><a href="#"><img src="DJGMainTemplates/images/nav1.png"></a>
+		<ul>
+			<li><a href="/usa/eng/about-us">What We Offer</a></li>
+			<li><a href="/usa/eng/baby-infant-toddler-brands">Our Brands</a></li>
+			<li><a href="/usa/eng/car-seat-center-child-safety">Center For Child Safety</a></li>
+			<li><a href="/usa/eng/made-in-the-usa">Made in the USA</a></li>
+			<li><a href="/usa/eng/tiny-footprint">Tiny Footprint™</a></li>
+			<li><a href="/usa/eng/community-initiatives-children">Community Initiatives</a></li>
+			<li><a href="/usa/eng/company-milestones">Company History</a></li>
+			<li><a href="/usa/eng/executive-staff">Our Executive Leadship</a></li>
+			<li><a href="/usa/eng/product-testimonials">What Parent are Saying</a></li>
+			<li><a href="/usa/eng/FAQ">FAQ</a></li>
+			<li><a href="/usa/eng/Contact-Us">Contact Us</a></li>
+                        
+		</ul>
+	   </li>
+	  <li><a href="#"><img src="DJGMainTemplates/images/nav2.png"></a>
+		<ul>
+			<li><a href="/usa/eng/Events">Events</a></li>
+			<li><a target="_blank" href="/usa/eng/Safety-Notices/Booster-Seat-Laws">Booster Seat Laws</a></li>
+			<li><a href="/usa/eng/FAQ">FAQ</a></li>
+			<li><a href="/usa/eng/Tradeshow-Today-Video">Tradeshow Today Video</a></li>
+			<li><a href="/usa/ENG/Ease-of-Use-Videos">Ease of Use Videos</a></li>
+		</ul>
+	</li>
+	<li><a href="/usa/eng/Carseat-Selector"><img src="DJGMainTemplates/images/nav3.png"></a></li>
+	<li><a href="/usa/eng/Registration"><img src="DJGMainTemplates/images/nav4.png"></a></li>
+	<li><a href="/usa/eng/Safety-Notices"><img src="DJGMainTemplates/images/nav5.png"></a></li>
+</ul>
+</div>
+	</div>
+    
 	<div id="main" class="clearfix">
+		<!--
 		<div id="left">
   		<dl class="accordion-menu">
 
@@ -65,11 +252,11 @@ window.onload = function(){
 <li><a href="Events">Events</a></li>
 <li><a href="Tradeshow-Today-Video">TradeShow Today Video</a></li>
 <li><a href="Ease-of-Use-Videos">Ease of Use Videos</a>
-</li></ul>
+</ul>
             </dd>
 		</dl>
 		</div>
-		
+		-->
 		<div id="right">
 			<div class="main">
 			<h1>Privacy Policy</h1>
@@ -166,26 +353,6 @@ Email: <a href="mailto:consumer@djgusa.com">consumer@djgusa.com</a></p>
 		<div id="news_bar" style="display:none">
 		<ul id="ticker01">
 			
-				<li><a href="">Dorel Juvenile Group Offers Groundbreaking Side Impact Technology to Children of All Ages</a></li>
-				<li><a href="">Dorel Juvenile Group Leads ABC Kids Expo in Safety Innovation</a></li>
-				<li><a href="">Mitsubishi Motors and Kids Safety First Program to Conduct Safety Seat Checks at 13 Mitsubishi Dealerships Nationwide for Child Passenger Safety Week</a></li>
-				<li><a href="">CHILD PASSENGER SAFETY WEEK EDUCATES PARENTS ON CAR SEAT SAFETY AND INSTALLATION</a></li>
-				<li><a href="">Five Dorel Juvenile Group Booster Seats Rank Among Top-Rated Car Seats in New Report From Insurance Institute for Highway Safety</a></li>
-				<li><a href="">Dorel Juvenile Group Issues Statement Regarding IIHS 2010 Booster Seat Report</a></li>
-				<li><a href="">Dorel Juvenile Group Appoints Julie Vallese Vice President of Public Affairs and Strategic Communications</a></li>
-				<li><a href="">Five Dorel Juvenile Group Booster Seats Rank Among Top-Rated Car Seats in New Report From Insurance Institute for Highway Safety</a></li>
-				<li><a href="">Dorel Juvenile Group Issues Statement Regarding IIHS 2010 Booster Seat Report</a></li>
-				<li><a href="">DOREL JUVENILE GROUP USA OPENS TECHNICAL CENTER FOR CHILD SAFETY</a></li>
-				<li><a href="">Dorel Juvenile Group and AAA to Host Free Car Seat Check Events</a></li>
-				<li><a href="">DOREL JUVENILE GROUP INTRODUCES NEW LINE OF NATURAL BABY CARE PRODUCTS</a></li>
-				<li><a href="">Dorel Juvenile Group Names 360 Public Relations Agency of Record</a></li>
-				<li><a href="">SAFETY 1<sup>ST</sup> SQUAD<sup>SM</sup> PROFESSIONAL CHILDPROOFING SERVICE NOW AVAILABLE TO NEW JERSEY FAMILIES</a></li>
-				<li><a href="">Dorel Juvenile Group teams up with Room to Grow to help babies born into poverty stroll safely into summer</a></li>
-				<li><a href="">WITH MILLIONS OF FAMILIES PREPARING TO HIT THE ROAD THIS SUMMER, SURVEY FINDS DANGEROUS GAPS IN PARENTS' KNOWLEDGE OF CAR SEAT SAFETY</a></li>
-				<li><a href="">NEW SAFETY 1<sup>ST®</sup> AEROLITE STROLLER MAKES SPRING AND SUMMER TRAVEL A BREEZE</a></li>
-				<li><a href="">SAFETY 1ST MARKS 25 YEARS OF SAFETY INNOVATION FOR PARENTS AND CHILDREN</a></li>
-				<li><a href="">DOREL JUVENILE GROUP INTRODUCES SAFETY 1st TV,  AN ONLINE VIDEO RESOURCE FOR PARENTS </a></li>
-				<li><a href="">Dorel Juvenile Group and Kids With Character Sign License Agreement</a></li>
 		</ul>
 		<script type="text/javascript">
 			$(function(){
@@ -195,7 +362,7 @@ Email: <a href="mailto:consumer@djgusa.com">consumer@djgusa.com</a></p>
 		</div>
 	</div>
 	
-	<div id="brandsusa">
+	<div id="brands">
 		<div class="icon_djg">Dorel Juvenile Group</div>
 		<a href="http://www.safety1st.com" target="_blank" rel="external" class="icon_safetyfirst">Go to Safety1st.com</a>
 		<a href="http://www.coscojuvenile.com" target="_blank" rel="external" class="icon_cosco">Go to CoscoJuvenile.com</a>
@@ -207,7 +374,7 @@ Email: <a href="mailto:consumer@djgusa.com">consumer@djgusa.com</a></p>
 	
 	<div id="footer" class="clearfix">
 		<span>
-			©2010 Dorel Juvenile Group. All Rights Reserved. A Division of Dorel Industries, Inc.<img src="DJGMainTemplates/images/logo_dorel.gif" alt="Dorel" width="52" height="24" align="texttop"><br>
+			©2011 Dorel Juvenile Group. All Rights Reserved. A Division of Dorel Industries, Inc.<img src="DJGMainTemplates/images/logo_dorel.gif" alt="Dorel" width="52" height="24" align="texttop"><br>
 			Dorel Juvenile Group, Inc. is an authorized licensee of Eddie Bauer, Inc.<br>
 Eddie Bauer® is a registered trademark of Eddie Bauer, Inc.<br>
 ©Disney Based on the “Winnie the Pooh” works by A.A. Milne and E.H. Shepard. 
@@ -215,9 +382,9 @@ Eddie Bauer® is a registered trademark of Eddie Bauer, Inc.<br>
 		
 		<ul>
 <li><a href="News">News</a></li>
+<li><a href="Careers">Careers</a></li>
 <li><a href="Privacy">Privacy Policy</a></li>
-<li><a href="Terms-of-use">Terms of Use</a></li>
-<li class="last"><a href="About">About Us</a></li>
+<li class="last"><a href="Terms-of-use">Terms of Use</a></li>
 </ul>
 		
 		
