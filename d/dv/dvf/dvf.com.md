@@ -1,54 +1,35 @@
-> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2007-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070812141345id_/http%3A//www.dvf.com/store/template.do%3FcomponentId%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvf.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516024625id_/http%3A//www.dvf.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Privacy Policy - DIANE von FURSTENBERG
+# Privacy Policy
 
-|  | [](https://web.archive.org/store/template.do?componentId=1) |   
----|---  
-|  |  |  |   
----  
-  
-[HELP](https://web.archive.org/web/20070812141345id_/http%3A//www.dvf.com/store/template.do?componentId=122) > **PRIVACY POLICY**
+Welcome to www.dvf.com and other related domains from which this website is operated from time to time (the "Website") by Diane von Furstenberg Studio, L.P., a Delaware limited partnership ("DvF", "we", "our", or "us"). This privacy policy (the "Privacy Policy") is intended to inform you about how DvF collects and uses your personally identifiable information ("PII") and other information in operating the Website.
 
-**PRIVACY POLICY**  
-_**www.dvf.com**_
+The Website enables anonymous visitors to the Website ("Visitors") to make use of its general functionality, and Visitors who are at least eighteen (18) years of age and not a minor in their state of residence, and who affirmatively indicate their agreement to abide by the Website's Terms of Use (the "Terms of Use") by means of a click-through consent ("Registrants"), to purchase products through the Website. Registrants and Visitors shall be collectively referred to herein as "you" or "your".
 
-Welcome to our Website for Diane von Furstenberg Studio, L.P. ("DVF", "we", or "our") located at www.dvf.com (our "Website"). This Privacy Policy (the "Policy") is designed to assist you in understanding how DVF collects, uses, and retains the personally identifiable information ("PII") that you provide to our Website, and to assist you in making informed decisions when using our Website. This Policy may be updated in sole discretion of DVF. If we make any material changes to the Policy, we will promptly post such changes. 
+By using the Website, you consent to the collection and use of your PII and other information by DvF as described in the Privacy Policy. 
 
-Our Website follows these principles in collecting and managing PII:
+We reserve the right to change, modify, alter or otherwise update how we handle the information we collect and process through the Website, and to modify the Privacy Policy, at any time. You agree to review the Privacy Policy periodically to be aware of any such modifications. We will indicate that changes to the Privacy Policy have been made by updating the date indicated after "Last Updated" at the beginning of the Privacy Policy. A current version of the Privacy Policy is accessible via the footer of the Website's homepage. 
 
-  * **We collect PII from individuals only as allowed by law.**
+Registrants may need to provide us with certain PII in order to use certain Website functionality and purchase our products through the Website, including without limitation a Registrant's name and email address, and payment information. We may also ask you for general statistical, non- PII about you and your interests. 
 
-We limit the collection of PII to what is relevant and necessary to accomplish a lawful purpose of our Website. For example, in order for you to purchase products from our Website, we request that you provide DVF with certain PII, like your name and e-mail address. DVF does not collect your PII if you are just browsing our Website and do not execute an order for one of our products. We collect PII about you only if you provide it to us voluntarily through our Website. 
+DvF may also provide your PII to individuals or entities who work on our behalf or with us. These individuals or entities may use your PII to help fulfill your requests in connection with the Website and to help us communicate with you about different services or resources offered as part of the Website. For example, we may transfer certain of your PII or other information to service providers and other third parties who assist us in operating the Website. We additionally may share your PII with our e-commerce provider in order to fulfill purchases made by you through the Website. 
 
-  * **We tell you the purpose for which we collect PII.**
+We may use and disclose PII to improve and enhance your experience on the website and for other purposes. For example, from time to time, we may use and share PII with third parties to show general demographic and preference information among users of the website. In these circumstances, the shared information will neither contain nor be linked to any PII. 
 
-DVF has engaged Amazon Services, Inc. ("Amazon") to perform services in connection with the management and operation of our Website. As such, in connection with our Website, Amazon will have access to and will use the PII you provide in connection with your purchases on our Website, subject to the terms of our agreement with Amazon. Examples of how Amazon may use your data include payment processing and authorization, fraud protection and credit risk reduction, marketing and promotional material distribution, Website evaluation and data analysis. Amazon has independent privacy and data collection practices. For more information about those practices, please refer to [Amazon's privacy policy](http://www.amazon.com/exec/obidos/tg/browse/-/468496/103-2145204-2747809).
+We may release your PII if we believe such release is necessary to comply with the law (e.g., a legal process or a statutory authorization) or a court order, to apply or enforce the Terms of Use, to protect our rights or property, to protect you from fraudulent, abusive, or unlawful use of the Website, or if we reasonably believe that a danger to any person or property requires disclosure of such PII.
 
-We will collect your PII if you submit an order via our Website in order to contact you regarding your order if we so desire. We may also send you certain communications, such as announcements or administrative messages, for marketing or other purposes. 
+DvF may also collect anonymous and aggregate information from you about your preferences in navigating the Website by using cookies, action tags and other methods. Cookies are small text files that identify your computer. We may use cookies to, among other things, monitor Website usage, customize Website features, identify your computer operating system and browser, and complete transactions. An action tag is a small, graphic image on a webpage that is designed to allow the website owner or a third party to monitor who is visiting a website by collecting the IP address of the computer to which the tag is sent, the URL of the webpage that the tag comes from and the time that such webpage was viewed. Action tags may be associated with cookie information. We may also use such anonymous and aggregate information for promotional purposes. 
 
-  * **We inform you about the opportunity to modify or remove your PII from our system.**
+Yes. If you do not want to be identified by us, you can set your browser to warn you before accepting cookies and refuse cookies when your browser alerts you to their presence. You can also adjust the settings in your browser to refuse all cookies. If you do not want us to have any of your PII, please do not submit any of your PII to us. Please keep in mind that if you refuse cookies you may not be able to use certain Website functionality, including without limitation purchasing products through the Website. 
 
-By contacting us at [cseshop@dvf.com](mailto:cseshop@dvf.com), you may request (i) to modify any of your PII at any time, (ii) to remove your PII from our database, or (iii) to not be contacted by us. 
+DvF takes steps consistent with commercially reasonable industry standards to secure PII collected from you from loss, misuse, unauthorized access and destruction while under our control. However, please note that despite our efforts to protect PII provided to us, we cannot guarantee that such information will not be lost, disclosed or accessed by accidental circumstances or by the unauthorized acts of others. 
 
-  * **We use PII only for the specified purposes, or purposes consistent with those purposes, unless we get your consent or unless required by law or regulation.**
+DvF may provide links to other websites or resources of possible interest to you. The collection and use of your PII and other information by such websites shall be subject to the policies and procedures of such websites and not those contained in the Privacy Policy. 
 
-We will not sell, lease, or otherwise disclose your PII to third parties without your consent, provided that we may share your PII with third parties under certain circumstances, including: (a) if sharing your PII is necessary to execute a specific request by you; however, in these specific cases, third parties will not retain, share, or store any PII except to provide the specific services requested by you; (b) if sharing your PII is required by law; is necessary to respond to a subpoena, warrant, or court order; or is necessary to protect the rights of our Website or its visitors; or (c) if you give us explicit permission to share your PII with third parties. DVF may share demographic information with third parties on an anonymous and aggregated basis (i.e., without disclosing your identity), subject to this Policy. One of the reasons that we may do this is to improve our Website's effectiveness. 
+The website is not intended for or directed to children under the age of 13, and we do not knowingly collect Personally Identifiable Information from children who are under the age of 13. If you are under the age of 13, please do not submit any Personally Identifiable Information to us through the website. 
 
-  * **We use information security safeguards.**
+If you wish to remove PII that you have submitted to DvF, please send us an email requesting such removal to [cseshop@dvf.com](mailto:cseshop@dvf.com) . If you have questions or concerns about any of our information collection or handling practices, please contact us at [cseshop@dvf.com](mailto:cseshop@dvf.com) or write to us at Diane von Furstenberg, Attn: Customer service for DVF.COM, 872 Washington Street, New York, NY 10014. 
 
-We take commercially reasonable precautions to protect your PII collected or maintained by our Website against loss, unauthorized access, and illegal use or disclosure. We store your PII in secure locations.
+The website is maintained in the United States of America. Therefore, please be aware that any information you provide to use will be transferred collected used and processed in the United States. By using the website, participating in any of the services, and/or providing us with this information, you consent to this transfer, which may not offer the same level of data protection as the country where you reside, in accordance with the terms of this Policy. 
 
-  * **We may use "cookies" to obtain anonymous and aggregate information about your use of our Website.**
-
-We may use cookies to personalize your use of our Website. Cookies are small text files that are placed on your hard disk by a web page server. They facilitate the delivery of desired content to you, thereby assisting website navigation. Accepting cookies that may be used by us does not give us access to your PII, but such cookies may be used to identify your computer. Some of the information collected by DVF with cookies will be shared with Amazon. Any information obtained by Amazon as a result of cookies is subject to [Amazon privacy policy](http://www.amazon.com/exec/obidos/tg/browse/-/468496/103-2145204-2747809). You have the ability to modify your web browser to decline cookies if you so choose. We may also use other types of technology, like web beacons or action tags, to compile statistics about general use of our Website.
-
-  * **We do not collect PII from children under the age of thirteen (13) years of age.**
-
-This is a general use Website and is not geared to children. We do not knowingly collect, use or retain PII from anyone who is under thirteen (13) years of age. We will delete any records of such PII that come to our attention. If it comes to your attention that a child under thirteen (13) years of age has provided any PII to our Website, we invite you to notify us at [cseshop@dvf.com](mailto:cseshop@dvf.com) so that we may delete the information from our records.
-
-Effective Date: April 23, 2005
-
-
-  
-  
-
+Revised: March 2011
