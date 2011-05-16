@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fearlessflyer.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215232148id_/http%3A//fearlessflyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fearlessflyer.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516171156id_/http%3A//fearlessflyer.com/privacy-policy) for the most accurate reproduction.*
 
 # Fearless Flyer Web Design » Privacy Policy
 
