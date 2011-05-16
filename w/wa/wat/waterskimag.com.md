@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterskimag.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130174007id_/http%3A//waterskimag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterskimag.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516150653id_/http%3A//waterskimag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WaterSki Magazine
 
