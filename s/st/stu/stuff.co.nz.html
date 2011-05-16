@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stuff.co.nz privacy policy that was archived on 2010-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604230807id_/http%3A//www.stuff.co.nz/about-stuff/legal/25044/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stuff.co.nz privacy policy that was archived on 2011-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110516021946id_/http%3A//www.stuff.co.nz/about-stuff/legal/25044/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -11,26 +11,27 @@
 <title>Privacy Policy - legal - about-stuff | Stuff.co.nz</title>
 <meta name="robots" content="noarchive">
     <meta name="description" content="This Privacy Policy applies to your use of the Stuff website www.stuff.co.nz. It applies to use by both visitors to the site and all customers who use any goods, products or services that we provide on or through the Site including when you register for My Stuff services such as emails; newsletters, updates and offers of products.">
-    <meta name="keywords" content="stuff, latest, breaking, new zealand, nz, world, news, sport, sports, weather, forecast, forecasts, business, entertainment, science, environment, polities, newspaper, newspapers">
+    <meta name="keywords" content="stuff, latest, breaking, new zealand, nz, world, news, sport, sports, weather, forecast, forecasts, business, entertainment, science, environment, politics, newspaper, newspapers">
 
-<link href="http://static.stuff.co.nz/css/all.min.css" rel="stylesheet" type="text/css" media="screen">
-<link href="http://static.stuff.co.nz/css/print.min.css" rel="stylesheet" type="text/css" media="print">
-<link rel="apple-touch-icon-precomposed" href="http://static.stuff.co.nz/images/apple-touch-icon-precomposed.png">
+<link href="http://static2.stuff.co.nz/1304993571/static/css/all.min.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://static2.stuff.co.nz/1304993571/static/css/print.min.css" rel="stylesheet" type="text/css" media="print">
+
+<link rel="apple-touch-icon-precomposed" href="http://static2.stuff.co.nz/1304993571/static/images/apple-touch-icon-precomposed.png">
 <script type="text/javascript">
     var JavaScriptCSS = document.createElement('link');
-    JavaScriptCSS.setAttribute('href', 'http://static.stuff.co.nz/css/javascript.min.css');
+    JavaScriptCSS.setAttribute('href', 'http://static2.stuff.co.nz/1304993571/static/css/javascript.min.css');
     JavaScriptCSS.setAttribute('rel', 'stylesheet');
     JavaScriptCSS.setAttribute('type', 'text/css');
     document.getElementsByTagName('head')[0].appendChild(JavaScriptCSS);
-</script><link href="http://static.stuff.co.nz/css/javascript.min.css" rel="stylesheet" type="text/css">
+</script><link href="http://static2.stuff.co.nz/1304993571/static/css/javascript.min.css" rel="stylesheet" type="text/css">
 
-<link href="http://static.stuff.co.nz/css/business.min.css" rel="stylesheet" type="text/css">
+<link href="http://static2.stuff.co.nz/1304993571/static/css/business.min.css" rel="stylesheet" type="text/css">
 
 <!--[if IE]>
-  <link rel="stylesheet" type="text/css" href="http://static.stuff.co.nz/css/ie.min.css" />
+  <link rel="stylesheet" type="text/css" href="http://static2.stuff.co.nz/1304993571/static/css/ie.min.css" />
 <![endif]-->
 
-<script src="http://static.stuff.co.nz/js/site-all.min.js" type="text/javascript"></script>
+<script src="http://static2.stuff.co.nz/1304993571/static/js/site-all.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 function thickboxDone() {
@@ -40,6 +41,10 @@ function thickboxDone() {
 </script>
 
     <link rel="shortcut icon" href="http://static.stuff.co.nz/781/3251781.ico">
+<style type="text/css">
+#container {
+}
+</style>
 
 <link rel="alternate" type="application/rss+xml" title="Stuff.co.nz - About Stuff" href="http://www.stuff.co.nz/rss/about-stuff/legal">
 
@@ -47,164 +52,26 @@ function thickboxDone() {
 
   <!-- node_header -->
 
-<link rel="image_src" href="http://static.stuff.co.nz/1234741430/368/1381368.gif"> 
+<link rel="image_src" href="http://static2.stuff.co.nz/1234741430/368/1381368.gif"> 
+<link rel="canonical" href="http://www.stuff.co.nz/about-stuff/25044/Privacy-Policy">
 <!-- /node_header -->
 
 <script type="text/javascript">//<![CDATA[
-
-//Below functions are helper ones for maintaining adspaces
-
-//expands special offer content
-jQuery.expand = function(adpos){
-
-$('#ad' + adpos).css("display","block");
-
-};
-
-//Takes a iframe id & collapses it for when there is no advert to show
-jQuery.collapse = function(theIframe){
-
-$('#iframe_' + theIframe).css("display","none");
-
-};
-
-//If there is an ad to serve then we want to show the 'ad feedback' link
-//Clicks through to a feedback form on that particular advert
-jQuery.showWrapper = function(theWrapper){
-$('#feedback_' + theWrapper).css("display","inline");
-}
-
-// Cache-busting and pageid values for the ad
-random = Math.round(Math.random() * 10000000000);
-if (!pageNum) var pageNum = Math.round(Math.random() * 10000000000);
-
-var ad_area_code = "s.stuff.aboutstuff.legal";
-var ad_domain = "www.stuff.co.nz";
-
-function loadHserverAd(strDimension,strPos,width,height){
-   //Check if there isn't already an ad piece of code in there - search for instance of iframe_strPos
-   if( ($('#ad' + strPos + ':has(#iframe_' + strPos + ')').length < 1 )){
-      adserver = "http://inl.adbureau.net";
-      var target = "/site=s/area=" + ad_area_code + "/aamsz=" + strDimension + "/POS=" + strPos  + "/SOURCEDOMAIN=" + ad_domain;
-
-        target = target + "/KEYWORD=" + escape("Policy+Privacy");
-
-      var adpageNum = pageNum;
-
-      var random = Math.round(Math.random() * 10000000000);
-      $('#ad' + strPos).append('<IFRAME ID ="iframe_' + strPos + '" SRC="'+adserver+ '/hserver/acc_random='+random + target + '/pageid=' + adpageNum + '/?http://www.stuff.co.nz/about-stuff/legal/25044/privacy-policy' + '" NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=' + width + ' HEIGHT=' + height + ' allowTransparency="true"><SCRIPT SRC="' + adserver + '/jnserver/acc_random=' + random + target + '/pageid=' + adpageNum + '"></SCR' + 'IPT></IFRAME>');
-   }
-}
-
-function renderBserverAd(strPos, aambTag) {
-    var divName = "ad" + strPos;
-    var invDiv = 'INV' + divName;
-    var content = eval(aambTag);
-    content.replace(/<\/?(?:html|body|head)\/?>/g, '');
-    var holder = $('<div id="' + invDiv + '"></div>');
-    holder.html(content);
-    $('#' + divName).append(holder);
-}
-
-function relocateAd(iframeObj, divName) { 
-    var iframeDoc, 
-    allScripts; 
-    iframeDoc = iframeObj.contentWindow.document;
-
-    allScripts = iframeDoc.getElementsByTagName('script'); 
-
-    for (s = 0; s < allScripts.length; s++) 
-    if (allScripts[s].src) 
-    allScripts[s].src = ''; 
-    document.getElementById(divName).insertAdjacentElement('beforeEnd', iframeDoc.getElementById('adDiv')); 
-}
-
-function rank_sort (a, b) {
-    var ra = a.rank;
-    var rb = b.rank;
-
-    if ( rb == null ) return -1;
-    if ( ra == null ) return  1;
-
-    return ra - rb;
-}
-
-var hserver_ads = [];
-function PushHserverAd(id, rank, width, height, aamsz) {
-    hserver_ads.push( { id: id,
-                        rank: rank,
-                        width: width,
-                        height: height,
-                        aamsz: aamsz } );
-}
-function RenderHserverAds() {
-    hserver_ads.sort(rank_sort);
-    for (var i = 0; i < hserver_ads.length; i++) {
-        var ad = hserver_ads[i];
-        loadHserverAd( ad.aamsz, ad.id, ad.width, ad.height );
-    }
-}
-
-var bserver_ads = [];
-function PushBserverAd(id, rank, width, height, aamsz) {
-    bserver_ads.push( { id: id,
-                        rank: rank,
-                        width: width,
-                        height: height,
-                        aamsz: aamsz } );
-}
-
-function SetupBserverAds(){
-    if (bserver_ads.length == 0) return;
-
-    var aamRnd = Math.round(Math.random() * 100000000000);
-
-    // Adserver URL
-    adserver = "http://inl.adbureau.net/bservers";
-
-    // Ad tag targeting values which will be appended to each ad request section in the bserver ad call
-
-    var allAdTags = "/AAMALL/acc_random=" + aamRnd + "/pageid=" + pageNum + "/site=s/area=" + ad_area_code + "/SOURCEDOMAIN=" + ad_domain;
-
-      allAdTags = allAdTags + "/KEYWORD=" + escape("Policy+Privacy");
-
-    //loop through adArr with all the ad call strings provided
-    bserver_ads.sort(rank_sort);
-
-    var adStr = '';
-    var tag_id = 0;
-    for (var i=0; i<bserver_ads.length; i++) {
-        var ad = bserver_ads[i];
-        ad.tag = "AAMB" + tag_id++;
-        eval(ad.tag + ' = 0;');
-        var code = "/" + ad.tag + "/aamsz=" + ad.aamsz + "/POS=" + ad.id;
-        adStr = adStr + code;
-    }
-
-    //document.write('<SCR' + 'IPT SRC="' + adserver + allAdTags  + adStr + '?" type="text/JavaScript" language="JavaScript">');
-    //document.write('</SCR' + 'IPT>');
-    $('body').append('<SCR' + 'IPT SRC="' + adserver + allAdTags + adStr + '?" type="text/JavaScript" language="JavaScript"></SCR' + 'IPT>');
-
-}
-function RenderBserverAds() {
-    if (bserver_ads.length == 0) return;
-
-    if (eval(bserver_ads[0].tag)) {
-        for (var i = 0; i < bserver_ads.length; i++) {
-            var ad = bserver_ads[i];
-            renderBserverAd(ad.id, ad.tag);
-        }
-        bserver_ads = [];
-    } else {
-        setTimeout(RenderBserverAds, 1000);
-    }
-}
+//Doubleclick
+var dartSite = "onl.stuff.aboutstuff";
+var dartZone = "/legal";
+var dartEnv = "prod";
+var dartCtype = "story";
+var dartKeys = "kw=Policy;kw=Privacy";
+var dartPid = "pid=25044;";
 //]]></script> 
 
 </head>
 <body>
 
-  <div id="trademenav"><div id="trademenav_left"><ul><li><a href=" http://www.stuff.co.nz/">Stuff</a></li><li>|</li><li><a href=" http://www.trademe.co.nz/">Trade Me</a></li><li>|</li><li><a href=" http://www.findsomeone.co.nz/">FindSomeone</a></li><li>|</li><li><a href=" http://www.oldfriends.co.nz/">Old Friends</a></li><li>|</li><li><a href=" http://www.holidayhouses.co.nz/">Holiday Houses</a></li><li>|</li><li><a href=" http://www.travelbug.co.nz">Hotels &amp; Motels</a></li></ul></div><div id="trademenav_right" style="width:275px;"><div id="adTOPPIXEL" style="width:1px;Height:1px;float:right;"> <script>$(function () {PushHserverAd('TOPPIXEL', 1, 1, 1, '1x1');}); </script> </div><div id="adTOPSTRIP" class="top_corner_ad" style="width:275px;"> <script>$(function () {PushBserverAd('TOPSTRIP', 6, 275, 23, '275x23_TOPSTRIP');}); </script> </div></div></div>
+  <div id="trademenav"><div id="trademenav_left"><ul><li><a href=" http://www.stuff.co.nz/">Stuff</a></li><li>|</li><li><a href="   http://www.trademe.co.nz/">Trade Me</a></li><li>|</li><li><a href=" http://www.findsomeone.co.nz/">FindSomeone</a></li><li>|</li><li><a href=" http://www.holidayhouses.co.nz/">Holiday Houses</a></li><li>|</li><li><a href="   http://www.travelbug.co.nz">Hotels &amp; Motels</a></li><li>|</li><li><a href=" http://www.treatme.co.nz/">Treat Me</a></li><li>|</li><li><a href="http://www.trademe.co.nz/christchurch-earthquake-support">Christchurch Quake Support </a></li></ul></div><div id="trademenav_right" style="width:275px;"><div id="adTOPPIXEL" style="width:1px;Height:1px;float:right;"> <script>PushDartIframeAd('TOPSTRIP', null, 275, 23, '275x23');</script> </div><div id="adTOPSTRIP" class="top_corner_ad" style="width:275px;"> <script>PushDartJSAd('TOPPIXEL', null, 1, 1, '1x1');</script> </div></div></div>
+
+<div id="mobile_link"></div>
 
 <div id="container">
 
@@ -219,14 +86,14 @@ function RenderBserverAds() {
 
         <a href="/">
 
-<img src="http://static.stuff.co.nz/1235693074/046/1745046.gif" alt="Stuff.co.nz" border="0">
+<img src="http://static2.stuff.co.nz/1235693074/046/1745046.gif" alt="Stuff.co.nz" border="0">
 
         </a>
 
         <div id="sectionlogo">
             <a href="/about-stuff/legal">
 
-<img src="http://static.stuff.co.nz/1235697773/128/1745128.gif" alt="Stuff.co.nz" border="0">
+<img src="http://static2.stuff.co.nz/1235697773/128/1745128.gif" alt="Stuff.co.nz" border="0">
 
             </a>
         </div><!-- end sectionlogo-->
@@ -246,9 +113,9 @@ function RenderBserverAds() {
 
 <script language="javascript">
 <!--
-$(function () {
-PushHserverAd('TOPBANNER', 1, 760, 120, '760x120');
-});
+
+PushDartJSAd('TOPBANNER', 1, 760, 120, '760x120');
+
 //-->
 </script>
 
@@ -258,25 +125,31 @@ PushHserverAd('TOPBANNER', 1, 760, 120, '760x120');
 <!-- Nav Bar -->
 <!-- Nav Bar -->
 
-<div id="nav" class="mbluenav">
-  <div id="nav_top">
-<div class="nav_items">
+    <div id="nav" class="mbluenav">
+      <div id="nav_top">
+    <div class="nav_items">
 
   <ul>
 
       <li><a href="/" class="prev_nav_item">Stuff Home</a></li>
 
-        <li class="mid_nav_item"><a href="/about-stuff">About&nbsp;Stuff</a></li>
+        <li class="mid_nav_item">
+
+            <a href="/about-stuff">About&nbsp;Stuff
+
+	</a></li>
 
       <li class="current_nav_item">
-        <a href="/about-stuff/legal">Legal</a>
+
+          <a href="/about-stuff/legal">Legal</a>
+
         <span class="nav_right"></span>
       </li>
 
   </ul>
 </div>
 
-<div id="search_box">
+    <div id="search_box">
   <form action="/searchresults" id="cse-search-box">
   <input name="Search Site" type="submit" class="search_box_button" value="Search Site">
 
@@ -299,9 +172,9 @@ PushHserverAd('TOPBANNER', 1, 760, 120, '760x120');
   </div>
 </div>
 
-  </div>  
-  <div id="nav_bottom">
-<div id="nav_bottom_left">
+      </div>  
+      <div id="nav_bottom">
+    <div id="nav_bottom_left">
   <ul>
 
         <li><a href="/about-stuff/legal/25044/privacy-policy">Privacy Policy</a></li>
@@ -316,8 +189,8 @@ PushHserverAd('TOPBANNER', 1, 760, 120, '760x120');
 
 </div>
 
-  </div>
-</div>
+      </div>
+    </div>
 
 <div id="content" class="story_landing">
 
@@ -335,6 +208,7 @@ PushHserverAd('TOPBANNER', 1, 760, 120, '760x120');
 <span class="storycredit">
 
 </span>
+
 <div id="toolbox">
     <div class="greybox_borderleft"></div>
     <div class="greybox_borderright"></div>
@@ -355,13 +229,36 @@ PushHserverAd('TOPBANNER', 1, 760, 120, '760x120');
 
 <script language="javascript">
 <!--
-$(function () {
-PushBserverAd('RELEVANTOFFER1', 14, 240, 45, '240x45_SPECIALOFFER');
-});
+
+PushDartIframeAd('RELEVANTOFFER1', 14, 240, 65, '240x45');
+
 //-->
 </script>
 
 </div>
+
+  <div class="story_feature_title">
+      <h2 style="float:left;">
+
+          Legal
+
+      </h2>
+
+        <span style="float:right">
+
+        </span>
+
+  </div>
+
+    <span class="related_link">
+
+    <span class="story_icon_icon"></span>
+
+      <a href="/about-stuff/legal/3897523/Facebook-Comments-Policy" class="serif">Facebook Comments Policy</a>
+
+    </span>
+
+  <div class="hdividier"></div>
 
 </div>
 
@@ -458,9 +355,9 @@ PushBserverAd('RELEVANTOFFER1', 14, 240, 45, '240x45_SPECIALOFFER');
 
 <script language="javascript">
 <!--
-$(function () {
-PushHserverAd('STORYBODY', 2, 300, 250, '300x250');
-});
+
+PushDartJSAd('STORYBODY', 2, 300, 250, '300x250');
+
 //-->
 </script>
 
@@ -619,9 +516,9 @@ PushHserverAd('STORYBODY', 2, 300, 250, '300x250');
 
 <script language="javascript">
 <!--
-$(function () {
-PushBserverAd('SPONSOREDLINK1', 12, 310, 16, '310x16_SPONSOREDLINK');
-});
+
+PushDartIframeAd('SPONSOREDLINK1', 12, 310, 16, '310x16');
+
 //-->
 </script>
 
@@ -631,9 +528,9 @@ PushBserverAd('SPONSOREDLINK1', 12, 310, 16, '310x16_SPONSOREDLINK');
 
 <script language="javascript">
 <!--
-$(function () {
-PushBserverAd('SPONSOREDLINK2', 12, 310, 16, '310x16_SPONSOREDLINK');
-});
+
+PushDartIframeAd('SPONSOREDLINK2', null, 310, 16, '310x16');
+
 //-->
 </script>
 
@@ -643,9 +540,9 @@ PushBserverAd('SPONSOREDLINK2', 12, 310, 16, '310x16_SPONSOREDLINK');
 
 <script language="javascript">
 <!--
-$(function () {
-PushBserverAd('SPONSOREDLINK3', 12, 310, 16, '310x16_SPONSOREDLINK');
-});
+
+PushDartIframeAd('SPONSOREDLINK3', null, 310, 16, '310x16');
+
 //-->
 </script>
 
@@ -653,61 +550,21 @@ PushBserverAd('SPONSOREDLINK3', 12, 310, 16, '310x16_SPONSOREDLINK');
 
         <span id="adSPONSOREDLINK4" class="hidden_ad">
 
-<script language="javascript">
-<!--
-$(function () {
-PushBserverAd('SPONSOREDLINK4', 12, 310, 16, '310x16_SPONSOREDLINK');
-});
-//-->
-</script>
-
 </span>
 
         <span id="adSPONSOREDLINK5" class="hidden_ad">
-
-<script language="javascript">
-<!--
-$(function () {
-PushBserverAd('SPONSOREDLINK5', 12, 310, 16, '310x16_SPONSOREDLINK');
-});
-//-->
-</script>
 
 </span>
 
         <span id="adSPONSOREDLINK6" class="hidden_ad">
 
-<script language="javascript">
-<!--
-$(function () {
-PushBserverAd('SPONSOREDLINK6', 12, 310, 16, '310x16_SPONSOREDLINK');
-});
-//-->
-</script>
-
 </span>
 
         <span id="adSPONSOREDLINK7" class="hidden_ad">
 
-<script language="javascript">
-<!--
-$(function () {
-PushBserverAd('SPONSOREDLINK7', 12, 310, 16, '310x16_SPONSOREDLINK');
-});
-//-->
-</script>
-
 </span>
 
         <span id="adSPONSOREDLINK8" class="hidden_ad">
-
-<script language="javascript">
-<!--
-$(function () {
-PushBserverAd('SPONSOREDLINK8', 12, 310, 16, '310x16_SPONSOREDLINK');
-});
-//-->
-</script>
 
 </span>
 
@@ -723,7 +580,7 @@ PushBserverAd('SPONSOREDLINK8', 12, 310, 16, '310x16_SPONSOREDLINK');
     <span class="sharebox_topright"></span>
   </div>
   <div id="sharebox_mid">
-    <span class="sharebox_link"><a class="thickbox" id="email_icon" href="/email_a_friend/20698/25044?TB_iframe=true&amp;height=400&amp;width=615">Email</a></span>
+    <span class="sharebox_link"><a class="thickbox" id="email_icon" href="/email_a_friend/20698/25044?TB_iframe=true&amp;height=600&amp;width=615">Email</a></span>
 
     <span class="sharebox_link"><a href="/track/share/25044/?dest=http://www.facebook.com/sharer.php%3fu=http://www.stuff.co.nz/about-stuff/legal/25044/Privacy-Policy%26t=Privacy%20Policy" target="_blank" id="facebook">Facebook</a></span>
 
@@ -739,7 +596,7 @@ PushBserverAd('SPONSOREDLINK8', 12, 310, 16, '310x16_SPONSOREDLINK');
 
     <span class="sharebox_link"><a target="_blank" id="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.stuff.co.nz%2Fabout-stuff%2Flegal%2F25044%2FPrivacy-Policy&amp;title=Privacy%20Policy&amp;summary=This%20Privacy%20Policy%20applies%20to%20your%20use%20of%20the%20Stuff%20website%20www.stuff.co.nz.%20It%20applies%20to%20use%20by%20both%20visitors%20to%20the%20site%20and%20all%20customers%20who%20use%20any%20goods,%20products%20or%20services%20that%20we%20provide%20on%20or%20through%20the%20Site%20including%20when%20you%20register%20for%20My%20Stuff%20services%20such%20as%20emails;%20newsletters,%20updates%20and%20offers%20of%20products.%20&amp;source=stuff.co.nz">Linkedin</a></span> 
 
-    <span class="sharebox_link"><a target="_blank" id="twitter" href=" http://twitter.com/home?status=Currently Reading Privacy Policy http://www.stuff.co.nz/s/SGWA" title="Tweet it on Twitter">Twitter</a></span> 
+    <span class="sharebox_link"><a target="_blank" id="twitter" href=" http://twitter.com/home?status=Currently reading Privacy Policy http://www.stuff.co.nz/s/SGWA" title="Tweet it on Twitter">Twitter</a></span> 
 
   </div>
 </div>
@@ -759,7 +616,7 @@ PushBserverAd('SPONSOREDLINK8', 12, 310, 16, '310x16_SPONSOREDLINK');
       <div class="hbox_top_grey_right"></div>
 
       <a href="/rss/about-stuff" onclick="pageTracker._trackPageview('/signups/RSS')" class="grey_rss_icon">RSS</a>
-      <span class="rss_ie6"><a href="/rss/about-stuff" onclick="pageTracker._trackPageview('/signups/RSS')"><img src="http://static.stuff.co.nz/images/icon_rss.gif" height="16" width="16" alt=""></a></span>
+      <span class="rss_ie6"><a href="/rss/about-stuff" onclick="pageTracker._trackPageview('/signups/RSS')"><img src="http://static2.stuff.co.nz/1304993571/static/images/icon_rss.gif" height="16" width="16" alt=""></a></span>
   </div>
   <div class="hbox_body_left">
   <div class="section_headlines">
@@ -808,7 +665,7 @@ PushBserverAd('SPONSOREDLINK8', 12, 310, 16, '310x16_SPONSOREDLINK');
 
       </p>
 
-      <p class="story_icon_link"><a href="/about-stuff/1764077/Vodafone-live-internet-on-your-mobile-info-entertainment">Vodafone live! – internet on your mobile, info &amp; entertainment</a>
+      <p class="story_icon_link"><a href="/about-stuff/1764077/Vodafone-live-internet-on-your-mobile-info-entertainment">Vodafone live! - internet on your mobile, info &amp; entertainment</a>
 
       </p>
 
@@ -816,7 +673,7 @@ PushBserverAd('SPONSOREDLINK8', 12, 310, 16, '310x16_SPONSOREDLINK');
 
       </p>
 
-      <p class="story_icon_link"><a href="/about-stuff/archives/2385092/Fairfax-New-Zealand-Limited-s-online-news-archive-service">Fairfax New Zealand Limited’s online news archive service</a>
+      <p class="story_icon_link"><a href="/about-stuff/archives/2385092/Fairfax-New-Zealand-Limiteds-online-news-archive-service">Fairfax New Zealand Limited's online news archive service</a>
 
       </p>
 
@@ -841,9 +698,9 @@ PushBserverAd('SPONSOREDLINK8', 12, 310, 16, '310x16_SPONSOREDLINK');
 
 <script language="javascript">
 <!--
-$(function () {
-PushHserverAd('SECTIONTOPRIGHT', 6, 300, 600, '300x600');
-});
+
+PushDartJSAd('SECTIONTOPRIGHT', 2, 300, 600, '300x250,160x600,300x600');
+
 //-->
 </script>
 
@@ -854,72 +711,72 @@ PushHserverAd('SECTIONTOPRIGHT', 6, 300, 600, '300x600');
       <div class="hbox_top_grey_right"></div>
 
       <a href="/rss/" onclick="pageTracker._trackPageview('/signups/RSS')" class="grey_rss_icon">RSS</a>
-      <span class="rss_ie6"><a href="/rss/" onclick="pageTracker._trackPageview('/signups/RSS')"><img src="http://static.stuff.co.nz/images/icon_rss.gif" height="16" width="16" alt=""></a></span>
+      <span class="rss_ie6"><a href="/rss/" onclick="pageTracker._trackPageview('/signups/RSS')"><img src="http://static2.stuff.co.nz/1304993571/static/images/icon_rss.gif" height="16" width="16" alt=""></a></span>
   </div>
   <div class="hbox_body_left">
   <div class="section_headlines">
 
-      <p class="story_icon_link"><a href="/national/3780965/More-than-100-homes-still-empty-as-more-rain-predicted">More than 100 homes still empty as more rain predicted</a>
+      <p class="story_icon_link"><a href="/national/5008742/Bain-to-speak-at-injustice-conference">Bain to speak at injustice conference</a>
 
       </p>
 
-      <p class="story_icon_link"><a href="/national/3781012/Fire-Service-staff-save-choking-dog-over-the-phone">Fire Service staff save choking dog over the phone</a>
+      <p class="story_icon_link"><a href="/national/christchurch-earthquake/5007097/Extraordinary-Christchurch-earthquake-victim-inquest">'Extraordinary' Christchurch earthquake victim inquest</a>
 
       </p>
 
-      <p class="story_icon_link"><a href="/national/health/3779899/Don-t-let-any-more-babies-die">'Don't let any more babies die'</a>
-
-    <img src="http://static.stuff.co.nz/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
+      <p class="story_icon_link"><a href="/national/crime/5008923/Police-hunt-man-hiding-in-hospital-ceiling">Police hunt man hiding in hospital ceiling</a>
 
       </p>
 
-      <p class="story_icon_link"><a href="/national/crime/3780873/Army-medal-thief-named-after-suppression-expires">Army medal thief named after suppression expires</a>
+      <p class="story_icon_link"><a href="/business/budget-2011/5008607/Budget-2011-KiwiSavers-upset-at-changes">Budget 2011: KiwiSavers upset at changes</a>
+
+    <img src="http://static2.stuff.co.nz/1304993571/static/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
 
       </p>
 
-      <p class="story_icon_link"><a href="/sport/football/world-cup/3780838/Slovenia-beat-All-Whites-3-1">Slovenia beat All Whites 3-1</a>
+      <p class="story_icon_link"><a href="/national/crime/5008492/Former-prison-boss-admits-drugs-charges">Former prison boss admits drugs charges</a>
 
       </p>
 
-      <p class="story_icon_link"><a href="/sport/football/world-cup/all-whites/3780895/Slovenias-intensity-too-much-for-All-Whites">Slovenia's intensity too much for All Whites</a>
-
-    <img src="http://static.stuff.co.nz/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="">
+      <p class="story_icon_link"><a href="/business/budget-2011/5006753/Early-return-to-Budget-surplus-tipped">Early return to Budget surplus tipped</a>
 
       </p>
 
-      <p class="story_icon_link"><a href="/sport/tennis/3780855/Nadal-to-meet-Soderling-in-French-Open-final">Nadal to meet Soderling in French Open final</a>
+      <p class="story_icon_link"><a href="/sport/tennis/5008784/Tennis-great-Rosewall-seriously-ill-after-stroke">Tennis great Rosewall seriously ill after stroke</a>
 
       </p>
 
-      <p class="story_icon_link"><a href="/national/crime/3780053/Ex-coach-forged-cancer-claims-to-get-sick-days">Ex-coach forged cancer claims to get sick days</a>
+      <p class="story_icon_link"><a href="/sport/golf/5008406/Ian-Poulter-sprints-to-avoid-early-alarm-clock">Ian Poulter sprints to avoid early alarm clock</a>
 
       </p>
 
-      <p class="story_icon_link"><a href="/life-style/3779924/One-marathon-can-be-just-the-start">One marathon can be just the start</a>
+      <p class="story_icon_link"><a href="/sport/tennis/5008144/Novak-Djokovic-defeats-Rafael-Nadal-again">Novak Djokovic defeats Rafael Nadal again</a>
 
       </p>
 
-      <p class="story_icon_link"><a href="/national/health/3779873/Need-for-sleepovers-disturbing">Need for sleepovers 'disturbing'</a>
+      <p class="story_icon_link"><a href="/technology/digital-living/5007982/Judge-issues-gag-order-for-Twitter">Judge issues gag order for Twitter</a>
 
       </p>
 
-      <p class="story_icon_link"><a href="/entertainment/arts/3779869/Carnivals-fate-not-councils-fault">Carnival's fate 'not council's fault'</a>
+      <p class="story_icon_link"><a href="/life-style/motoring/5007683/Cars-registered-as-ambulances-to-save-cash">Cars registered as ambulances to save cash</a>
 
       </p>
 
-      <p class="story_icon_link"><a href="/business/personal-finance/3779863/Couple-stung-by-Blue-Chip-face-another-fight">Couple stung by Blue Chip face another fight</a>
+      <p class="story_icon_link"><a href="/national/crime/5007639/Daughter-reports-mum-over-alleged-drink-driving">Daughter reports mum over alleged drink-driving</a>
 
       </p>
 
-      <p class="story_icon_link"><a href="/business/industries/3779691/Farmers-snap-up-Toyota-utes-and-vans">Farmers snap up Toyota utes and vans</a>
+      <p class="story_icon_link"><a href="/sport/football/5007625/Avram-Grant-axed-as-West-Ham-relegated">Avram Grant axed as West Ham relegated</a>
 
       </p>
 
-      <p class="story_icon_link"><a href="/business/personal-finance/3779686/Kiwis-can-t-cope-with-successful-women">Kiwis 'can't cope with successful women'</a>
+      <p class="story_icon_link"><a href="/world/americas/5007606/IMF-head-faces-court-over-alleged-sex-attack">IMF head faces court over alleged sex attack</a>
+
+    <img src="http://static2.stuff.co.nz/1304993571/static/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
 
       </p>
 
-      <p class="story_icon_link"><a href="/world/asia/3779728/Myanmar-seeking-nuclear-weapons-report">Myanmar seeking nuclear weapons - report</a>
+      <p class="story_icon_link"><a href="/national/christchurch-earthquake/5007096/Christchurchs-10-000-plus-ideas">Christchurch's 10,000-plus ideas</a>
 
       </p>
 
@@ -943,39 +800,39 @@ PushHserverAd('SECTIONTOPRIGHT', 6, 300, 600, '300x600');
     <div class="hbox_body_left">
         <div class="special_offers">
 
-  <div class="special_offer" style="" id="adSPECIALOFFER1">
+  <div class="special_offer hidden_ad" style="" id="adSPECIALOFFER1">
 
   </div> 
 
 <script language="javascript">
 <!--
-$(function () {
-PushBserverAd('SPECIALOFFER1', 15, 240, 45, '240X45_SPECIALOFFER');
-});
+
+PushDartIframeAd('SPECIALOFFER1', 15, 240, 65, '240X45');
+
 //-->
 </script>
 
-  <div class="special_offer" style="" id="adSPECIALOFFER2">
+  <div class="special_offer hidden_ad" style="" id="adSPECIALOFFER2">
 
   </div> 
 
 <script language="javascript">
 <!--
-$(function () {
-PushBserverAd('SPECIALOFFER2', 15, 240, 45, '240X45_SPECIALOFFER');
-});
+
+PushDartIframeAd('SPECIALOFFER2', 15, 240, 65, '240X45');
+
 //-->
 </script>
 
-  <div class="special_offer" style="" id="adSPECIALOFFER3">
+  <div class="special_offer hidden_ad" style="" id="adSPECIALOFFER3">
 
   </div> 
 
 <script language="javascript">
 <!--
-$(function () {
-PushBserverAd('SPECIALOFFER3', 15, 240, 45, '240X45_SPECIALOFFER');
-});
+
+PushDartIframeAd('SPECIALOFFER3', 15, 240, 65, '240X45');
+
 //-->
 </script>
 
@@ -989,8 +846,7 @@ PushBserverAd('SPECIALOFFER3', 15, 240, 45, '240X45_SPECIALOFFER');
 </div><!-- adspecial_offer_box -->
 <!-- end components/ad/specialoffer -->
 
-    <!-- start components/most_popular most_popular_section_id=10 -->
-
+<!-- start components/most_popular most_popular_section_id=10 -->
 <div id="most_popular_wrapper">
     <div class="hbox_narrow">
         <div class="hbox_top_grey">
@@ -1008,58 +864,52 @@ PushBserverAd('SPECIALOFFER3', 15, 240, 45, '240X45_SPECIALOFFER');
             <div id="viewed">
 
                 <p>
-                    <a class="story_icon" href="/national/3779892/Good-grief-fake-mourner-revealed">Good grief - fake mourner revealed</a>
+                    <a class="story_icon" href="/sunday-star-times/news/5005398/Schools-arrange-secret-abortions">Schools arrange secret abortions</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/national/3779905/Sorry-no-Riff-Raff-allowed">Sorry, no Riff Raff allowed</a>
+                    <a class="story_icon" href="/sport/rugby/super-rugby/squads/hurricanes/5006994/I-like-to-joke-around-Cory-Jane">'I like to joke around' - Cory Jane</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/national/health/3779899/Don-t-let-any-more-babies-die">'Don't let any more babies die'</a>
-
-    <img src="http://static.stuff.co.nz/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
+                    <a class="story_icon" href="/entertainment/tv/5006545/Macaron-tower-ends-chefs-dream">Macaron tower ends chef's dream</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/national/health/3779873/Need-for-sleepovers-disturbing">Need for sleepovers 'disturbing'</a>
+                    <a class="story_icon" href="/national/stuff-quizzes/4975301/Daily-trivia-quiz-May-16">Daily trivia quiz: May 16</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/national/crime/3780052/Taupo-cop-sets-pace-on-speed">Taupo cop sets pace on speed</a>
+                    <a class="story_icon" href="/national/5007863/Storms-to-sweep-country">Storms to sweep country</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/sport/football/world-cup/3780838/Slovenia-beat-All-Whites-3-1">Slovenia beat All Whites 3-1</a>
+                    <a class="story_icon" href="/national/education/5007088/New-bully-claim-rocks-top-school">New bully claim rocks top school</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/entertainment/3779597/Tarantino-shocks-waitress">Tarantino shocks waitress</a>
+                    <a class="story_icon" href="/technology/5007801/Australian-planker-dies-in-balcony-plunge">Australian 'planker' dies in balcony plunge</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/oddstuff/3775914/Bidders-keen-to-give-rhino-new-name">Bidders keen to give rhino new name</a>
-
-    <img src="http://static.stuff.co.nz/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
+                    <a class="story_icon" href="/national/christchurch-earthquake/5007097/Extraordinary-Christchurch-earthquake-victim-inquest">'Extraordinary' Christchurch earthquake victim inquest</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/world/americas/3775708/Woman-fired-for-being-too-good-looking">Woman fired 'for being too good looking'</a>
-
-    <img src="http://static.stuff.co.nz/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="">
+                    <a class="story_icon" href="/national/education/5007071/Ex-pupil-slams-plan-for-school-on-dirty-site">Ex-pupil slams plan for school on 'dirty' site</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/national/crime/3780873/Army-medal-thief-named-after-suppression-expires">Army medal thief named after suppression expires</a>
+                    <a class="story_icon" href="/life-style/motoring/5007683/Cars-registered-as-ambulances-to-save-cash">Cars registered as ambulances to save cash</a>
 
 		</p>
 
@@ -1067,54 +917,52 @@ PushBserverAd('SPECIALOFFER3', 15, 240, 45, '240X45_SPECIALOFFER');
             <div id="shared">
 
                 <p>
-                    <a class="story_icon" href="/national/health/3779899/Don-t-let-any-more-babies-die">'Don't let any more babies die'</a>
-
-    <img src="http://static.stuff.co.nz/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
+                    <a class="story_icon" href="/sunday-star-times/news/5005398/Schools-arrange-secret-abortions">Schools arrange secret abortions</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/national/politics/3779934/Tax-ruling-shifts-law">Tax ruling 'shifts' law</a>
+                    <a class="story_icon" href="/business/money/5008135/DIY-house-inspections-how-to-spot-a-lemon">DIY house inspections: how to spot a lemon</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/national/3779892/Good-grief-fake-mourner-revealed">Good grief - fake mourner revealed</a>
+                    <a class="story_icon" href="/business/money/5000820/Is-now-a-good-time-to-buy-a-property">Is now a good time to buy a property?</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/national/3779905/Sorry-no-Riff-Raff-allowed">Sorry, no Riff Raff allowed</a>
+                    <a class="story_icon" href="/technology/5007040/Phone-scam-plague-rampant-again">Phone-scam plague rampant again</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/life-style/wellbeing/3779977/Boys-turning-to-porn-and-tech-too-soon">Boys turning to porn and tech too soon</a>
+                    <a class="story_icon" href="/national/crime/5008923/Police-hunt-man-hiding-in-hospital-ceiling">Police hunt man hiding in hospital ceiling</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/business/personal-finance/3779686/Kiwis-can-t-cope-with-successful-women">Kiwis 'can't cope with successful women'</a>
+                    <a class="story_icon" href="/dominion-post/comment/columnists/5006822/NZ-aid-programme-fails-with-quality-not-quantity-creed">NZ aid programme fails with 'quality not quantity' creed</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/national/health/3779880/Premature-baby-could-have-been-saved-by-vitamin-K-coroner-rules">Premature baby could have been saved by vitamin K, coroner rules</a>
+                    <a class="story_icon" href="/world/south-pacific/5007045/Fiji-Tonga-crisis-as-colonel-escapes">Fiji-Tonga crisis as colonel escapes</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/national/politics/3779553/Trade-Minister-reprimanded-for-rowdy-behavior">Trade Minister reprimanded for rowdy behavior</a>
+                    <a class="story_icon" href="/dominion-post/news/5006788/Farmers-inner-city-hotel-approved">Farmer's inner-city hotel approved</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/national/3774854/NZ-great-for-kids-if-you-re-rich">NZ great for kids - if you're rich</a>
+                    <a class="story_icon" href="/national/politics/5007029/Bill-clamps-down-on-freedom-campers">Bill clamps down on freedom campers</a>
 
 		</p>
 
                 <p>
-                    <a class="story_icon" href="/national/politics/3779882/ETS-charm-offensive-to-overcome-scepticism">ETS 'charm offensive' to overcome scepticism</a>
+                    <a class="story_icon" href="/sunday-star-times/news/5005127/Anger-at-Tongas-turtle-feast">Anger at Tonga's turtle feast</a>
 
 		</p>
 
@@ -1122,58 +970,56 @@ PushBserverAd('SPECIALOFFER3', 15, 240, 45, '240X45_SPECIALOFFER');
             <div id="commented">
 
                 <p>
-                    <a class="story_icon" href="/sport/football/world-cup/all-whites/3780895/Slovenias-intensity-too-much-for-All-Whites">Slovenia's intensity too much for All Whites</a>
-
-    <img src="http://static.stuff.co.nz/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="">
+                    <a class="story_icon" href="/sport/rugby/super-rugby/squads/hurricanes/5006994/I-like-to-joke-around-Cory-Jane">'I like to joke around' - Cory Jane</a>
 
                 </p>
 
                 <p>
-                    <a class="story_icon" href="/sport/football/world-cup/3780838/Slovenia-beat-All-Whites-3-1">Slovenia beat All Whites 3-1</a>
+                    <a class="story_icon" href="/business/budget-2011/5008607/Budget-2011-KiwiSavers-upset-at-changes">Budget 2011: KiwiSavers upset at changes</a>
+
+    <img src="http://static2.stuff.co.nz/1304993571/static/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
 
                 </p>
 
                 <p>
-                    <a class="story_icon" href="/the-press/news/3774857/Four-drink-limit-for-party-bus-passengers">Four-drink limit for party-bus passengers</a>
+                    <a class="story_icon" href="/entertainment/tv/5006545/Macaron-tower-ends-chefs-dream">Macaron tower ends chef's dream</a>
 
                 </p>
 
                 <p>
-                    <a class="story_icon" href="/technology/blogs/connector/3770144/Linux-the-other-operating-system">Linux - the other operating system</a>
+                    <a class="story_icon" href="/technology/digital-living/5003521/Illegal-downloading-a-favourite-NZ-pastime">Illegal downloading a favourite NZ pastime</a>
 
                 </p>
 
                 <p>
-                    <a class="story_icon" href="/the-press/news/3774863/Govt-won-t-sell-bank-says-Key">Govt won't sell bank, says Key</a>
-
-    <img src="http://static.stuff.co.nz/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
+                    <a class="story_icon" href="/technology/blogs/game-junkie/5008622/PSN-is-back-online-apparently">PSN is back online ... apparently</a>
 
                 </p>
 
                 <p>
-                    <a class="story_icon" href="/technology/blogs/connector/3775145/You-know-you-re-a-tech-addict-when">You know you're a tech addict when...</a>
+                    <a class="story_icon" href="/sport/rugby/video/breakdown-show/5007607/Coetzee-talks-down-Australian-conference">Coetzee talks down Australian conference</a>
+
+    <img src="http://static2.stuff.co.nz/1304993571/static/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
 
                 </p>
 
                 <p>
-                    <a class="story_icon" href="/the-press/news/3774860/Truckie-rescues-errant-motorist">Truckie rescues errant motorist</a>
+                    <a class="story_icon" href="/business/industries/5007624/Petrol-prices-drop-again">Petrol prices drop again</a>
 
                 </p>
 
                 <p>
-                    <a class="story_icon" href="/the-press/news/3773283/Govt-won-t-sell-Kiwibank-PM">Govt 'won't sell' Kiwibank - PM </a>
-
-    <img src="http://static.stuff.co.nz/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
+                    <a class="story_icon" href="/entertainment/blogs/on-the-box/5007004/Wrapping-up-MasterChef-NZ">Wrapping up MasterChef NZ</a>
 
                 </p>
 
                 <p>
-                    <a class="story_icon" href="/the-press/news/3774808/Second-plaque-poses-family-puzzle">Second plaque poses family puzzle</a>
+                    <a class="story_icon" href="/dominion-post/news/politics/5005920/Raise-wages-to-stop-brain-drain-says-MP">Raise wages to stop brain drain, says MP</a>
 
                 </p>
 
                 <p>
-                    <a class="story_icon" href="/the-press/news/3769877/Wheels-not-welcome-in-SBS-Marathon">Wheels not welcome in SBS Marathon</a>
+                    <a class="story_icon" href="/sport/rugby/super-rugby/5006996/Blues-gain-breathing-space-with-bonus">Blues gain breathing space with bonus</a>
 
                 </p>
 
@@ -1190,7 +1036,7 @@ PushBserverAd('SPECIALOFFER3', 15, 240, 45, '240X45_SPECIALOFFER');
 
 <!-- start components/polls -->
 
-<script type="text/javascript" src="http://static.stuff.co.nz/js/polls.min.js"></script>
+<script type="text/javascript" src="http://static2.stuff.co.nz/1304993571/static/js/polls.min.js"></script>
 
 <!-- end components/polls -->
 
@@ -1205,27 +1051,36 @@ PushBserverAd('SPECIALOFFER3', 15, 240, 45, '240X45_SPECIALOFFER');
     <div class="hbox_body_left">
         <div class="special_offers" style="width:258px; padding-left:10px; padding-right:10px;">
 
-  <div class="" style="width:120px; height:180px; float:left;" id="adFEATUREDPROMOTION1">
+        </div>
+    </div>
+
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div>
+</div>
+<!-- end components/ad/featured_promotions -->
+
+  <!-- start components/ad/sponsored_contents -->
+<div class="hbox_narrow hidden_ad" id="adsponsored_contentbox">
+    <div class="hbox_top_none">
+        <div class="hbox_top_none_left"></div>
+        <h2 class="hbox_top_none_title">Sponsored Content</h2>
+        <div class="hbox_top_none_right"></div>
+    </div>
+
+    <div class="hbox_body_left">
+        <div class="special_offers" style="width:278px; padding:0px;">
+
+  <div class="" style="width:278px; height:auto; float:left;" id="adSPONSOREDCONTENT">
 
   </div> 
 
 <script language="javascript">
 <!--
-$(function () {
-PushBserverAd('FEATUREDPROMOTION1', 13, 120, 180, '120x180_FEATUREDPROMOTION');
-});
-//-->
-</script>
 
-  <div class="" style="width:120px; height:180px; float:left;" id="adFEATUREDPROMOTION2">
+PushDartJSAd('SPONSOREDCONTENT', null, 278, 200, '278x200');
 
-  </div> 
-
-<script language="javascript">
-<!--
-$(function () {
-PushBserverAd('FEATUREDPROMOTION2', 13, 120, 180, '120x180_FEATUREDPROMOTION');
-});
 //-->
 </script>
 
@@ -1237,7 +1092,7 @@ PushBserverAd('FEATUREDPROMOTION2', 13, 120, 180, '120x180_FEATUREDPROMOTION');
         <div class="hbox_btm_right"></div>
     </div>
 </div>
-<!-- end components/ad/featured_promotions -->
+<!-- end components/ad/sponsored_contents -->
 
 <!-- end components/right_column -->
 
@@ -1245,7 +1100,7 @@ PushBserverAd('FEATUREDPROMOTION2', 13, 120, 180, '120x180_FEATUREDPROMOTION');
 
 </div>
 
-<img src="/track/view/20698/25044/?dest=http://static.stuff.co.nz/images/1pxwhite.gif" alt="">
+<img src="/track/view/20698/25044/?dest=http://static2.stuff.co.nz/1304993571/static/images/1pxwhite.gif" alt="">
 <!-- -node_landing- -->
 
 <div id="footer" class="mbluenav">
@@ -1279,6 +1134,9 @@ PushBserverAd('FEATUREDPROMOTION2', 13, 120, 180, '120x180_FEATUREDPROMOTION');
   <div id="footer-bottom">
     <div id="footer-bottom-left">
 
+<!-- TESTING DYNAMIC FOOTER -->
+    <div id="footer-bottom-left">
+
     <div class="footer-bottom-left-row">
         <div class="footer-bottom-left-title">Stuff.co.nz</div>
         <div class="footer-bottom-left-list">
@@ -1288,6 +1146,10 @@ PushBserverAd('FEATUREDPROMOTION2', 13, 120, 180, '120x180_FEATUREDPROMOTION');
                 <li><a href="http://www.stuff.co.nz/about-stuff/33785/Contact-Us">Contact Us</a></li>
                 <li>|</li>
                 <li><a href="http://www.stuff.co.nz/about-stuff/2715191/Mobile">Mobile</a></li>
+ <li>|</li>
+                <li><a href="http://i.stuff.co.nz/detect/?sv=i">View Smartphone Site</a></li>
+ <li>|</li>
+                <li><a href="http://m.stuff.co.nz/detect/?sv=m">View Mobile Light Site</a></li>
             </ul>
         </div>
         <div class="clearer"></div>
@@ -1298,7 +1160,7 @@ PushBserverAd('FEATUREDPROMOTION2', 13, 120, 180, '120x180_FEATUREDPROMOTION');
           <ul>
             <!--<li><a href="#">Email</a></li>
             <li>|</li>-->
-            <li><a href="/about-stuff/1764077/Stuff-co-nz-on-your-Vodafone-mobile">Text</a></li>
+            <li><a href="http://www.stuff.co.nz/about-stuff/4060273/Get-Stuff-TXT-Alerts">Text</a></li>
             <!--<li>|</li>
             <li><a href="#">RSS Feeds</a></li>-->
             <li>|</li>
@@ -1319,13 +1181,14 @@ PushBserverAd('FEATUREDPROMOTION2', 13, 120, 180, '120x180_FEATUREDPROMOTION');
           <ul>
             <!--<li><a href="#">Competitions</a></li>
             <li>|</li>-->
-            <li><a href="http://www.newszone.co.nz/">Newspapers in Education</a></li>
+            <li><a href="http://www.fairfaxnie.co.nz/">Newspapers in Education</a></li>
             <li>|</li>
             <li><a href="http://www.azdirect.co.nz/">A-Z Directories</a></li>
             <li>|</li>
             <li><a href="/about-stuff/33001/Advertise-Online">Online Advertising</a></li>
             <li>|</li>
-            <li><a href="http://www.fairfaxnz.co.nz/publications/index.html">Print Advertising</a></li>
+            <li><a href="http://www.fairfaxmedia.co.nz/ad-centre/advertise-in-newspapers.dot">Print Advertising</a></li><li>|</li>
+	    <li><a href="http://www.fairfaxmedia.co.nz/careers">Careers</a></li>
           </ul>
         </div><!--end footer bottom left list-->
         <div class="clearer"></div>
@@ -1334,15 +1197,15 @@ PushBserverAd('FEATUREDPROMOTION2', 13, 120, 180, '120x180_FEATUREDPROMOTION');
         <div class="footer-bottom-left-title">Classifieds</div>
         <div class="footer-bottom-left-list">
           <ul>
-            <li><a href="http://www.trademe.co.nz/">        Trade Me</a></li>
+            <li><a href="http://www.trademe.co.nz/">Trade Me</a></li>
             <li>|</li>
-            <li><a href="http://www.trademe.co.nz/Trade-me-jobs/index.htm">Jobs</a></li>
+            <li><a href="http://www.trademe.co.nz/jobs">Jobs</a></li>
             <li>|</li>
-            <li><a href="http://www.trademe.co.nz/Trade-me-property/index.htm">Property</a></li>
+            <li><a href="http://www.trademe.co.nz/property">Property</a></li>
             <li>|</li>
             <li><a href="http://www.trademe.co.nz/Trade-me-motors/index.htm">Motors</a></li>
             <li>|</li>
-            <li><a href="http://www.travelbug.co.nz/accommodation">Accommodation</a></li>
+            <li><a href="http://www.travelbug.co.nz/">Accommodation</a></li>
             <li>|</li>
             <li><a href="http://www.findsomeone.co.nz/">Personals</a></li>
             <li>|</li>
@@ -1403,13 +1266,16 @@ PushBserverAd('FEATUREDPROMOTION2', 13, 120, 180, '120x180_FEATUREDPROMOTION');
             <li>|</li>
             <li><a href="http://www.nzgardener.co.nz/">NZ Gardener</a></li>
             <li>|</li>
-            <li><a href="http://www.stuff.co.nz/about-stuff/archives/2385092/Fairfax-New-Zealand-Limited-s-online-news-archive-service">Fairfax Archives</a></li>
+            <li><a href="http://www.stuff.co.nz/about-stuff/archives/2385092/Fairfax-New-Zealand-Limited-s-online-news-archive-service">Fairfax 
+
+Archives</a></li>
             <!-- <li>|</li>
             <li><a href="#">Network Sitemap</a></li> -->
           </ul>
         </div><!--end footer bottom left list-->
         <div class="clearer"></div>
       </div><!--end footer bottom left row-->
+    </div>
     </div><!--end footer bottom left-->
 
     <div id="footer-bottom-right">
@@ -1426,21 +1292,210 @@ PushBserverAd('FEATUREDPROMOTION2', 13, 120, 180, '120x180_FEATUREDPROMOTION');
   </div><!--end footer bottom-->
   <div id="ffxcredit">
     <div id="ffxlogo"></div><br>
-      © 2010 <a href="http://www.fairfaxmedia.co.nz">Fairfax New Zealand Limited</a><br>
+      © 2011 <a href="http://www.fairfaxmedia.co.nz">Fairfax New Zealand Limited</a><br>
       <a href="/about-stuff/legal/25044/privacy-policy">Privacy</a><!--  |
       <a href="#">Conditions</a>-->
   </div><!--end fairfax credit-->
-</div>
+</div><!--end content div -->
 
 </div><!--end container-->
 
+<!--  -->
 <script language="javascript">
 <!--
-$(function () {
-    RenderHserverAds();
 
-    SetupBserverAds();
-    RenderBserverAds();
+load_slider_most_pop();
+
+/* Calls Jquery slider cyclers. Placed here to load before ads, */
+/* used on section_story_tabbed (<-tabbed_section_landing [section layout tabbed-picture]) */
+if(typeof call_cyclers == 'function') {
+  call_cyclers();
+}
+
+//-->
+</script>
+
+<div class="hidden_ad" id="adShD0"><script type="text/javascript">
+if ( 0 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 0 ] + '" src="' + document.dcdAdsU[ 0 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD1"><script type="text/javascript">
+if ( 1 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 1 ] + '" src="' + document.dcdAdsU[ 1 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD2"><script type="text/javascript">
+if ( 2 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 2 ] + '" src="' + document.dcdAdsU[ 2 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD3"><script type="text/javascript">
+if ( 3 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 3 ] + '" src="' + document.dcdAdsU[ 3 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD4"><script type="text/javascript">
+if ( 4 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 4 ] + '" src="' + document.dcdAdsU[ 4 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD5"><script type="text/javascript">
+if ( 5 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 5 ] + '" src="' + document.dcdAdsU[ 5 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD6"><script type="text/javascript">
+if ( 6 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 6 ] + '" src="' + document.dcdAdsU[ 6 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD7"><script type="text/javascript">
+if ( 7 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 7 ] + '" src="' + document.dcdAdsU[ 7 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD8"><script type="text/javascript">
+if ( 8 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 8 ] + '" src="' + document.dcdAdsU[ 8 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD9"><script type="text/javascript">
+if ( 9 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 9 ] + '" src="' + document.dcdAdsU[ 9 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD10"><script type="text/javascript">
+if ( 10 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 10 ] + '" src="' + document.dcdAdsU[ 10 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD11"><script type="text/javascript">
+if ( 11 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 11 ] + '" src="' + document.dcdAdsU[ 11 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD12"><script type="text/javascript">
+if ( 12 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 12 ] + '" src="' + document.dcdAdsU[ 12 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD13"><script type="text/javascript">
+if ( 13 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 13 ] + '" src="' + document.dcdAdsU[ 13 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD14"><script type="text/javascript">
+if ( 14 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 14 ] + '" src="' + document.dcdAdsU[ 14 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD15"><script type="text/javascript">
+if ( 15 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 15 ] + '" src="' + document.dcdAdsU[ 15 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD16"><script type="text/javascript">
+if ( 16 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 16 ] + '" src="' + document.dcdAdsU[ 16 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD17"><script type="text/javascript">
+if ( 17 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 17 ] + '" src="' + document.dcdAdsU[ 17 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD18"><script type="text/javascript">
+if ( 18 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 18 ] + '" src="' + document.dcdAdsU[ 18 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD19"><script type="text/javascript">
+if ( 19 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 19 ] + '" src="' + document.dcdAdsU[ 19 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD20"><script type="text/javascript">
+if ( 20 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 20 ] + '" src="' + document.dcdAdsU[ 20 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD21"><script type="text/javascript">
+if ( 21 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 21 ] + '" src="' + document.dcdAdsU[ 21 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD22"><script type="text/javascript">
+if ( 22 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 22 ] + '" src="' + document.dcdAdsU[ 22 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD23"><script type="text/javascript">
+if ( 23 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 23 ] + '" src="' + document.dcdAdsU[ 23 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD24"><script type="text/javascript">
+if ( 24 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 24 ] + '" src="' + document.dcdAdsU[ 24 ] + '"><\/script>');
+}
+</script></div>
+
+<div class="hidden_ad" id="adShD25"><script type="text/javascript">
+if ( 25 < document.dcdAdsI.length ) {
+    document.write('<script type="text\/javascript" id="' + document.dcdAdsI[ 25 ] + '" src="' + document.dcdAdsU[ 25 ] + '"><\/script>');
+}
+</script></div>
+
+<script language="javascript">
+<!--
+for (var i=0;i< document.dcdAdsI.length; i++) {
+    var shadowHolder = document.getElementById("adShD" + i);
+    if (shadowHolder) {
+        shadowHolder.removeChild(document.getElementById(document.dcdAdsI[i]));
+        while (shadowHolder.childNodes.length > 0) {
+            var child = shadowHolder.childNodes[0];
+            shadowHolder.removeChild(child);
+            document.getElementById(document.dcdAdsH[i]).appendChild(child);
+        }
+    }
+} 
+for (var i= document.dcdAdsI.length; i<= 25; i++) {
+    var shadowHolder = document.getElementById("adShD" + i);
+    if (shadowHolder) {
+        while (shadowHolder.childNodes.length > 0) {
+            var child = shadowHolder.childNodes[0];
+            shadowHolder.removeChild(child);
+        }
+    }
+} 
+
+$(function () {
+    RenderDartIframeAds();
 });
 //-->
 </script>
@@ -1478,6 +1533,29 @@ pageTracker._trackPageview();
 	<div><img src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-stuff&cg=s-stuff-aboutstuff-legal-ttstorytt-25044&cc=1" alt=""/></div>
 </noscript>
 <!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+
+  <!-- SiteCatalyst code version: H.21.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="http://static2.stuff.co.nz/1304993571/static/js/omniture.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+s.events="";
+
+s.prop1="fairfaxnz-stuff-prd";
+
+s.prop5="article page";
+
+s.prop6="privacy_policy";
+
+s.prop7="25044:Privacy-Policy";
+
+s.prop8=s.channel;
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.21. -->
 
 
 
