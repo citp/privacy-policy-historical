@@ -1,45 +1,32 @@
-> *The following text is extracted and transformed from the facultyfocus.com privacy policy that was archived on 2010-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101026005726id_/http%3A//www.facultyfocus.com/account/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facultyfocus.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516153123id_/http%3A//www.facultyfocus.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Faculty Focus
 
-This is a website created and run by Magna Publications.
+This document outlines the Privacy Policy adhered to by _Faculty Focus._
 
-Our postal address is:  
-2718 Dryden Drive  
-Madison, WI 53704
+### Collection of Information
 
-We can be reached via email at [support@magnapubs.com](mailto:support@magnapubs.com),  
-or you can reach us by telephone at 1-800-433-0499.
+We hate spam as much as you do. You have our promise not to sell or share your email address — _ever!_
 
-First, we do not share or sell sensitive customer information obtained from using the Magna website.
+__We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
 
-For each visitor to our website, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
+### Cookie/Tracking Technology
 
-We collect the email addresses of those who register on website, post messages to our forums or blogs, as well as aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address).
+****The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
 
-The information we collect is used to improve the content of our website, used to notify consumers about updates to our website, used by us to contact consumers for marketing purposes.
+### Distribution of Information
 
-With respect to cookies: In order to provide better service we use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit.
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
+### Commitment to Data Security
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
+Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address. We do not sell or share phone numbers of our customers with any third parties.
+### Privacy Contact Information
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our website periodically.
+**By Email:**[support@facultyfocus.com](mailto:support@facultyfocus.com)  
+**By Phone:** 1-800-433-0499 ext 2 -or- 1-608-246-3590 ext 2
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, calling us at the above telephone number, writing to us at the above address.
-
-Upon request we provide website visitors with access to contact information (e.g., name, address, phone number) that we maintain.
-
-Consumers can access this information by e-mail us at the above address, write to us at the above address, writing to us at the above address.
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.  
-Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
-
-With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our website. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our website.
-
-If you feel that this website is not following its stated information policy, you may contact us at the above addresses or phone number.
+We reserve the right to make changes to this policy. Any changes to this policy will be posted.
