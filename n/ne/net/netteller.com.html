@@ -1,0 +1,573 @@
+<!--The following is the downloaded HTML source of the netteller.com privacy policy that was archived on 2011-05-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110516093239id_/http%3A//www.jackhenry.com/default.aspx%3FP%3D73DCCF54-67DC-488F-B5FB-D0E8DB90EC72) for the most accurate reproduction.-->
+
+<html><head><base href="http://www.jackhenry.com/">
+	
+	<title>
+	Jack Henry Corporate
+</title><link href="includes/global.css" rel="stylesheet" type="text/css">
+		<script src="includes/rolloverImages.js" type="text/javascript"></script>
+		<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+		<link id="varThemeLink" rel="stylesheet" type="text/css" href="Themes/e7b32d91-d24f-42dc-85e4-a0a6c9ee5204.css"><meta name="GENERATOR" content="Microsoft Visual Studio.NET 7.0"><meta name="CODE_LANGUAGE" content="Visual Basic 7.0"><meta name="vs_defaultClientScript" content="JavaScript"><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<meta name="keywords" content="">
+		<meta name="description" content="">
+		<script language="JavaScript" type="text/javascript">
+		<!-- // Detect Client Browser type
+		var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+		var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+		var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+
+		// JavaScript helper required to detect Flash Player PlugIn version information
+		function JSGetSwfVer(i){
+					// NS/Opera version >= 3 check for Flash plugin in plugin array
+					if (navigator.plugins != null && navigator.plugins.length > 0) {
+								if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+											var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+											var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+
+											descArray = flashDescription.split(" ");
+											tempArrayMajor = descArray[2].split(".");
+											versionMajor = tempArrayMajor[0];
+											
+											if ( descArray[3] != "" ) {
+														tempArrayMinor = descArray[3].split("r");
+											} else {
+														tempArrayMinor = descArray[4].split("r");
+											}
+														versionMinor = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
+														flashVer = parseFloat(versionMajor + "." + versionMinor);
+								} else {
+											flashVer = -1;
+								}
+					}
+					// MSN/WebTV 2.6 supports Flash 4
+					else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+					// WebTV 2.5 supports Flash 3
+					else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+					// older WebTV supports Flash 2
+					else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+					// Can't detect in all other cases
+					else {
+				        
+								flashVer = -1;
+					}
+					return flashVer;
+		}
+		// -->
+	</script><script language="VBScript">
+		<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
+					Function VBGetSwfVer(i)
+						on error resume next
+						Dim swControl, swVersion
+						swVersion = 0
+				    
+						set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
+						if (IsObject(swControl)) then
+							swVersion = swControl.GetVariable("$version")
+						end if
+						VBGetSwfVer = swVersion
+
+						return VBGetSwfVer
+					End Function
+		// -->
+	</script><script type="text/javascript">
+			function MM_CheckFlashVersion(reqVerStr,msg){
+				var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+				var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+				var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+				var siteId = document.getElementById('varSiteID').value;					
+				var corSiteId = '2c59b82e-dfbb-4896-9191-28779DB91BE1';
+
+				if (siteId.toLowerCase() == corSiteId.toLowerCase() && document.getElementById('varSitePageID').value == '' && document.getElementById('varSearch').value.toString().length == 0)
+					{
+						for (iValue=10; iValue>0; iValue--) 
+							{      
+								if (isIE && isWin && !isOpera)
+									{
+										versionStr = VBGetSwfVer(iValue);
+									} 
+								else
+									{
+										versionStr = JSGetSwfVer(iValue);
+									}
+							}
+
+						if (versionStr == 0 || versionStr == -1)
+							{
+								document.getElementById('SiteTemplate_ucCorporateBody_lblMovie').innerHTML = '';
+								document.getElementById('SiteTemplate_ucCorporateBody_imgLeft').style.display = '';
+							}
+						else
+							{
+								if (versionStr.length > 4)
+									{
+										versionStr = versionStr.replace(',','.')
+										versionStr = versionStr.replace(',','.')
+										versionStr = versionStr.replace(',','.')
+										versionStr = versionStr.replace(',','.')
+										
+										var descArr2 = versionStr.toString().split(" ");
+										
+										var temp = '';
+										temp = descArr2[1];
+										temp = temp.replace('.0', '');
+										temp = temp.substring(0, 4);
+										
+										versionStr = temp;
+									}
+									
+								if (versionStr < reqVerStr)
+									{
+										document.getElementById('SiteTemplate_ucCorporateBody_imgLeft').style.display = '';
+										if (confirm(msg))
+											{
+												document.getElementById('SiteTemplate_ucCorporateBody_lblMovie').innerHTML = '';
+												document.getElementById('SiteTemplate_ucCorporateBody_imgLeft').style.display = '';
+												window.location = "http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash";
+											}
+										else
+											{
+												document.getElementById('SiteTemplate_ucCorporateBody_lblMovie').innerHTML = '';
+												document.getElementById('SiteTemplate_ucCorporateBody_imgLeft').style.display = '';
+											}
+									}
+								else
+									{
+										document.getElementById('SiteTemplate_ucCorporateBody_lblMovie').style.display = '';
+										document.getElementById('SiteTemplate_ucCorporateBody_imgLeft').style.display = 'none';
+									}
+							}
+						}
+				}
+	</script></head>
+	
+	
+	
+	<body id="body" topmargin="0" bottommargin="0">
+		<form name="frmMain" method="post" action="/default.aspx?P=73dccf54-67dc-488f-b5fb-d0e8db90ec72" id="frmMain">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjYyODk2OTc4DxYGHglTaXRlVVJMSUQFJDMwYTM2YTkyLTk3NmItNGQxYy1iOTMzLTZhYTRlYzliODAwZR4LUGFnZUNsaWNrZWRnHglQYWdlVGl0bGUFDlByaXZhY3kgUG9saWN5FgJmD2QWBAICDxYCHgRocmVmBS9UaGVtZXMvZTdiMzJkOTEtZDI0Zi00MmRjLTg1ZTQtYTBhNmM5ZWU1MjA0LmNzc2QCCA8WAh4EVGV4dGVkZO2Vbte462gRf7LGzqSE4FSgR6Fq">
+
+
+<script src="/WebResource.axd?d=R9MhvY-xlYOhTGCCAbgD4DEoY4iHEKdO7CAN8x5KBP2xSHHMFmQymQwxd-xVnxIgd-Ap9CeiaonqeHaYA4VGn5NPhL2Mn9vd0hshWer6b3VlguCUjg3oVfbzLqTzRjQIKTamf-GPEVc-_c7zPQG53OSGztiR7MSmUS52b7s7IhhmXAzFz8gOBVEM2FiPD3ekhb7gfg2&amp;t=634200086956318750" type="text/javascript"></script>
+<script src="/WebResource.axd?d=IWIXj_JKATKd8GVMH0m4lmEJrfH2ZCOv9y7oim6kttMgmIDuE3AcMsN_cp7R7-Yh5jCQUZpMGCg3ZtS3y60TEDxFIEG9dP3Jvq5bp-XN6itcmhyX281RDRmj3oKPvO8aM5SQYyHKxUsg4ORKdm73GWZFKYspRyG4AXBll4WoXzPbuW3D0&amp;t=634200086956318750" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWGQKPqbHEAgLEs4OoCwKMnLf8CwLFmJyCAwKgj5P7DwLunsTuBQKl4dTTCAK8p6+WBALF19uvCgK4p+/IDwKrp/PKDwLAidlJAp/y0qULApTd59YLAqPul5UEAqLuz7EFAqPu54wDAqPun9ECAsDw/soDArbn5ZoOAoSeqNwCAoSemOQDAoSegJgCAoOeiNwEAqW3jK0J7+qIXMRaaDZKt1Uppu3xbbA+wpQ=">
+			<input name="varSitePageID" type="hidden" id="varSitePageID" value="73dccf54-67dc-488f-b5fb-d0e8db90ec72">
+			<input name="varLastParentIDClicked" type="hidden" id="varLastParentIDClicked" value="73dccf54-67dc-488f-b5fb-d0e8db90ec72">
+			<input name="varSelectedIndex" type="hidden" id="varSelectedIndex">
+			<input name="varSearchRecordID" type="hidden" id="varSearchRecordID">
+			<input name="varLevel1ParentID" type="hidden" id="varLevel1ParentID" value="00000000-0000-0000-0000-000000000000">
+			<input name="varSiteID" type="hidden" id="varSiteID" value="2c59b82e-dfbb-4896-9191-28779db91be1">
+			<input name="varCT" type="hidden" id="varCT">
+			<input name="varClicked" type="hidden" id="varClicked">
+			<input name="varSH" type="hidden" id="varSH">
+			<input name="varSEC" type="hidden" id="varSEC">
+			<input name="varChapter" type="hidden" id="varChapter">
+			<input name="varParentID" type="hidden" id="varParentID" value="00000000-0000-0000-0000-000000000000">
+			<input name="varURLAltPath" type="hidden" id="varURLAltPath">
+			
+			
+			
+<link rel="shortcut icon" href="images/icons/JHA.ico" type="image/x-icon">
+<table cellspacing="0" cellpadding="0" width="800" align="center" border="0">
+	<tbody><tr>
+		<td><table cellspacing="0" cellpadding="0" width="800" align="center" border="0" class="corporateMainStyle">
+				<tbody><tr>
+					<td>
+						<table cellspacing="0" cellpadding="0" width="100%" border="0">
+							<tbody><tr>
+								<td class="homeHdrNavBkgrnd" width="100%">
+									
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+	<tbody><tr>
+		<td valign="top" align="left" width="1" height="1"><img id="SiteTemplate_ucHeaderBanner_imgLogo" onmouseover="this.style.cursor='hand';" onclick="window.location.href = 'http://www.jackhenry.com';" src="./logos/cdd775ef-7b5f-4921-bd1a-c577d8029e28.gif" border="0"></td>
+		<td id="SiteTemplate_ucHeaderBanner_tdMain" align="right" class="HeaderChildTable">
+			<table id="Table1" height="100%" cellspacing="0" cellpadding="0" width="100%" border="0">
+				<tbody><tr>
+					<td align="right" height="79">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody><tr>
+								<td height="6"></td>
+								<td height="6"></td>
+							</tr>
+							<tr>
+								<td class="hdrNav"><a href="http://www.jackhenry.com?P=789f3b04-5eb6-4fbd-ad76-2d01161249a2" id="SiteTemplate_ucHeaderBanner_aContactUs" target="_self">Contact Us</a>&nbsp;/&nbsp;<a href="http://www.jackhenry.com/optininfo/" id="SiteTemplate_ucHeaderBanner_aOptIn" target="_blank">Subscribe</a>&nbsp;<span id="SiteTemplate_ucHeaderBanner_lblSlash">/</span>&nbsp;<a href="http://www.jackhenry.com" id="SiteTemplate_ucHeaderBanner_aCorporateHomeLink">Home</a></td>
+								<td class="hdrNav"></td>
+							</tr>
+							<tr>
+								<td height="8"></td>
+								<td height="8">&nbsp;&nbsp;
+								</td>
+							</tr>
+							<tr>
+								<td>
+<script language="javascript">
+function Search(value, id)
+{
+	window.location.href = value + '/?S=' + document.getElementById(id).value;
+	return false;
+}
+</script>
+<table border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td class="hdrNav">
+						Search&nbsp;&nbsp;
+					</td>
+					<td>
+						<input type="text" maxlength="255" onfocus="this.select();" onclick="this.select();" name="srchThis" size="15" value="" class="formbox" onkeydown="if (event.keyCode == 13) {return Search('http://www.jackhenry.com','varSearch');}" style="WIDTH: 175px" id="varSearch"><br>
+					</td>
+					<td class="hdrNav">&nbsp;&nbsp;
+						<a onclick="window.status = ''; return true;" onmouseover="window.status = ''; return true;" onmouseout="window.status = ''; return false;" href="javascript:Search('http://www.jackhenry.com', 'varSearch');" class="hdrNav">
+							go</a><br>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<script language="javascript">
+if (document.getElementById('varSearch'))
+	document.getElementById('varSearch').focus();
+
+// Set the Search text from the querystring
+var strQuerystring = window.location.search.substring(1);
+var strNameValuePairs = strQuerystring.split("&");
+if (strNameValuePairs.length >= 1)
+{
+	strNameValuePairs = strNameValuePairs[0];
+	var intPos = strNameValuePairs.indexOf('=');
+	if (intPos >= 0)
+	{
+		var strName = strNameValuePairs.substring(0, intPos);
+		if (strName == 'S')
+		{
+			var strValue = strNameValuePairs.substring(intPos + 1);
+			document.getElementById('varSearch').value = unescape(strValue);
+		}
+	}
+}
+</script>
+<br>
+</td>
+								<td></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td class="HeaderThinLine" height="1"></td>
+				</tr>
+				<tr>
+					<td align="right" height="19" nowrap="">
+						<table cellspacing="0" cellpadding="0" border="0" width="100%">
+							<tbody><tr>
+								<td id="SiteTemplate_ucHeaderBanner_tdNav" align="right" nowrap="nowrap" height="19" class="HeaderChildNavTable">
+									
+											<a id="SiteTemplate_ucHeaderBanner_rptPages__ctl0_lnkPage" href="http://www.jackhenry.com/clientslogin">For Clients</a>
+											
+										
+											&nbsp;/&nbsp;
+										
+											<a id="SiteTemplate_ucHeaderBanner_rptPages__ctl2_lnkPage" href="http://www.jackhenry.com/Default.aspx?P=4fc1d089-10b0-4cd1-8e4c-9c6efcd85686">About Us</a>
+											
+										
+											&nbsp;/&nbsp;
+										
+											<a id="SiteTemplate_ucHeaderBanner_rptPages__ctl4_lnkPage" href="http://www.jackhenry.com/Default.aspx?P=e9991ade-602e-4172-83c8-ed6ad3390cf9">Products &amp; Services</a>
+											
+										
+											&nbsp;/&nbsp;
+										
+											<a id="SiteTemplate_ucHeaderBanner_rptPages__ctl6_lnkPage" href="http://www.jackhenry.com/Default.aspx?P=9235c51f-ff8e-4c3a-be27-a4392cbc1835">News</a>
+											
+										&nbsp;</td>
+
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td class="HeaderThinLine" height="1"></td>
+				</tr>
+			</tbody></table>
+		</td>
+
+	</tr>
+</tbody></table>
+</td>
+							</tr>
+							<tr>
+								<td nowrap="">
+									
+									
+<table cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
+	<tbody><tr>
+		<td width="15" height="15"></td>
+		<td></td>
+		<td width="5" height="15"></td>
+		<td height="15"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="15"></td>
+		<td valign="top" nowrap="" width="260">
+<table cellspacing="0" cellpadding="0" border="0">
+	<tbody><tr>
+		<td></td>
+	</tr>
+</tbody></table>
+
+
+</td>
+		
+		<td></td>
+		<td valign="top" align="left">
+			<table cellspacing="0" cellpadding="0" width="100%">
+				<tbody><tr>
+					<td align="left" width="100%">
+						<table cellspacing="0" cellpadding="0" width="100%" border="0">
+							<tbody><tr>
+								<td valign="top"><span id="SiteTemplate_ucImageAboveTextWithMenu_lblSubject" class="hdrChildTitle">Privacy Policy<br></span></td>
+								<td align="right"></td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				<tr>
+					<td height="10"></td>
+				</tr>
+				<tr>
+					<td valign="top" align="left">
+						</td>
+				</tr>
+				<tr>
+					<td valign="top" align="left">
+						
+						<span>
+							<span id="SiteTemplate_ucImageAboveTextWithMenu_ucText_varCssClass" style="TEXT-DECORATION: none" class="MainTxtInfo"><span class="bodytxt">Customer relationships at Jack Henry &amp; Associates, Inc. ("JHA") are built on trust. You have chosen to do business with JHA, and we guard that relationship with great care, beginning with the information you have chosen to share with us.</span><br><br><span class="bodytxt">JHA is dedicated to respecting and protecting your privacy. We maintain information about you in order to provide you with the most effective and convenient access to our broad range of products and services. We want you to understand what information we collect, and how we use and protect it. This notice serves as a standard for all JHA employees for collection, use, retention and security of nonpublic personal consumer information. In accordance with the Gramm-Leach-Bliley Act, this section details how we deal with any information collected through this site. </span><br><br><span class="bodytxt">Our Security Procedures maintain the security of our customer information. We restrict access to your personal and account information to persons who need to know that information to provide you products or services. We maintain physical, electronic and procedural safeguards to guard information.</span><br><br><span class="bodytxt">You may visit JHA's Web site without revealing your identity or any personal information. We do not collect any personally identifiable information about you through the use of "cookies" or by any other secret means. The only information we retain is the information you explicitly provide us when you fill out a form, sign up for service on this or other JHA Sites or other JHA services. We also keep track of the domains from which people visit us for internal analysis of trends and statistics, although this information is not linked to you personally. </span><br><br><span class="bodytxt">Furthermore, we only use the information you provide for the purpose you originally intended. For example, if you sign up to receive JHA announcements via electronic mail, we will retain your personal information for the sole purposes of transmitting announcements to you. And except as required by law or court order, we will not release any information provided by you to any third party. JHA does not disclose nonpublic personal information about you to any companies that are not members of our corporate family, except as permitted by federal law, specifically Title V of the Gramm-Leach-Bliley Act of 1999.</span><br><br><span class="bodytxt">JHA reserves the right to exclude anyone from any of its subscription e-mail lists at its sole discretion. JHA is not responsible for the content or privacy practices of other Web sites to which this site may link.</span> </span><br></span><input name="SiteTemplate:ucImageAboveTextWithMenu:ucResourceCenter:varUpdate" type="hidden" id="SiteTemplate_ucImageAboveTextWithMenu_ucResourceCenter_varUpdate"> <input name="SiteTemplate:ucImageAboveTextWithMenu:ucResourceCenter:varID" type="hidden" id="SiteTemplate_ucImageAboveTextWithMenu_ucResourceCenter_varID" value="0">
+<script type="text/javascript">
+	function toggleCountry(prmCheckBox, prmStateAst, prmCountryTxt){
+	
+		var CheckBox = document.getElementById(prmCheckBox);
+		
+		if (CheckBox != null || CheckBox != undefined){
+			var CountryDiv = document.getElementById('divCountry');
+			var Countrytitle = document.getElementById('divCountryTitle');
+			var StateAst = document.getElementById(prmStateAst);
+			var CountryTxt = document.getElementById(prmCountryTxt);
+			
+			if(CheckBox.checked){
+			
+				CountryDiv.style.display = '';
+				Countrytitle.style.display = '';
+				StateAst.style.display = 'none';
+				CountryTxt.value = '';
+				
+			}else{
+				
+				CountryDiv.style.display = 'none';
+				Countrytitle.style.display = 'none';
+				StateAst.style.display = '';
+				CountryTxt.value = '';
+			}
+		}
+	}
+</script>
+<span id="SiteTemplate_ucImageAboveTextWithMenu_ucResourceCenter_lblMessage" class="txtNavChildLeft"></span>
+
+<div id="SiteTemplate_ucImageAboveTextWithMenu_ucResourceCenter_pnlGrid">
+	
+	
+
+</div>
+
+<script type="text/javascript">toggleCountry( 'SiteTemplate_ucImageAboveTextWithMenu_ucResourceCenter_chkOutsideUS', 'SiteTemplate_ucImageAboveTextWithMenu_ucResourceCenter_lblStateAst', 'SiteTemplate_ucImageAboveTextWithMenu_ucResourceCenter_txtCountry');</script>
+</td>
+				</tr>
+			</tbody></table>
+		</td>
+		<td valign="top" align="left" width="15"></td>
+	</tr>
+	<tr>
+		<td width="15" height="15"></td>
+		<td valign="top" align="left" height="15"></td>
+		<td valign="top" align="left" height="15"></td>
+		<td valign="top" align="left" height="15">
+			</td>
+		<td valign="top" align="left" width="20"></td>
+	</tr>
+</tbody></table>
+
+									
+								</td>
+							</tr>
+							<tr>
+								<td class="homeHdrNavBkgrnd" width="100%">
+									
+<script language="javascript" type="text/javascript">
+	function showHideVideo()
+		{
+		    if (document.getElementById('SiteTemplate_ucFooterBanner_lnkShowHideVideo')) {
+		        if (document.getElementById('SiteTemplate_ucFooterBanner_lnkShowHideVideo').innerHTML == 'Hide Video') {
+		            document.getElementById('SiteTemplate_ucCorporateBody_tblMovie').style.display = 'none';
+		            document.getElementById('SiteTemplate_ucCorporateBody_imgLeft').style.display = '';
+		            document.getElementById('SiteTemplate_ucFooterBanner_lnkShowHideVideo').innerHTML = 'Show Video';
+
+		            return false;
+		        }
+		        else {
+		            document.getElementById('SiteTemplate_ucCorporateBody_tblMovie').style.display = '';
+		            document.getElementById('SiteTemplate_ucCorporateBody_imgLeft').style.display = 'none';
+		            document.getElementById('SiteTemplate_ucFooterBanner_lnkShowHideVideo').innerHTML = 'Hide Video';
+
+		            return false;
+		        }
+		    }
+		}
+</script>
+<table cellspacing="0" cellpadding="0" width="100%" border="0" class="homeFooterBkgrnd">
+	<tbody><tr>
+		<td align="right" valign="middle" class="homeBtmNavBkgrnd" nowrap="" height="23">
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td class="hdrNav">&nbsp;&nbsp;&nbsp;
+						</td>
+					<td class="hdrNav" align="right">
+						
+								<a id="SiteTemplate_ucFooterBanner_rptPages__ctl0_lnkPage" href="http://www.jackhenry.com/Default.aspx?P=c7f88865-8eb0-488a-bf73-b81f2728129d">Events</a>
+								
+								
+							
+								&nbsp;/&nbsp;
+							
+								
+								<a href="http://jkhy.client.shareholder.com/">For Investors</a>
+								
+							
+								&nbsp;/&nbsp;
+							
+								<a id="SiteTemplate_ucFooterBanner_rptPages__ctl4_lnkPage" href="http://www.jackhenry.com/Default.aspx?P=4e866fa7-0b10-4ae8-a53a-fee71ddec210">For The Media</a>
+								
+								
+							
+								&nbsp;/&nbsp;
+							
+								<a id="SiteTemplate_ucFooterBanner_rptPages__ctl6_lnkPage" href="http://www.jackhenry.com/Default.aspx?P=da026b0d-c70d-4395-9e3f-fdbf44656bf9">For Prospective Employees</a>
+								
+								
+							
+								&nbsp;/&nbsp;
+							
+								<a id="SiteTemplate_ucFooterBanner_rptPages__ctl8_lnkPage" href="http://www.jackhenry.com/Default.aspx?P=79ee2c45-1aa3-4fa0-8676-8ec9ffd2be66">Resource Center</a>
+								
+								
+							<img height="1" alt="" src="/common/images/spacer.gif" width="10" border="0"><br>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><table class="homeFooterBkgrnd" id="Table1" cellspacing="0" cellpadding="0" width="100%" border="0">
+				<tbody><tr>
+					<td></td>
+					<td colspan="5"><img height="15" alt="" src="/common/images/spacer.gif" width="1" border="0">
+					</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td align="center">
+										</td><td valign="top" align="center">
+						<table id="SiteTemplate_ucFooterBanner_tblEvents" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td>
+									</td>
+	</tr>
+</tbody></table>
+
+					</td>
+					<td valign="top" align="center">
+						<table id="SiteTemplate_ucFooterBanner_tblLeft" cellpadding="0" cellspacing="0" border="0" class="homeAdBorder" style="DISPLAY:NONE;">
+	<tbody><tr>
+		<td>
+									<a id="SiteTemplate_ucFooterBanner_lnkBottomLeft" href="javascript:__doPostBack('SiteTemplate$ucFooterBanner$lnkBottomLeft','')"><img id="SiteTemplate_ucFooterBanner_imgPic" border="0"></a></td>
+	</tr>
+</tbody></table>
+
+					</td>
+					<td><img height="1" alt="" src="/common/images/spacer.gif" width="1" border="0"><br>
+					</td>
+					<td align="center">
+						
+					</td>
+					<td><img height="1" alt="" src="/common/images/spacer.gif" width="1" border="0"><br>
+					</td>
+				</tr>
+				<tr>
+					<td nowrap=""></td>
+					<td colspan="5" nowrap=""><img height="15" alt="" src="/common/images/spacer.gif" width="1" border="0"><br>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+				<tbody><tr>
+					<td class="copyright">© Copyright
+						2011
+						Jack Henry &amp; Associates, Inc. All Rights Reserved.</td>
+					<td align="right"><a href="http://www.jackhenry.com/Default.aspx?P=bc4b462a-f57f-40ed-90ca-8922a5e1020b" id="SiteTemplate_lnkTerms" class="copyright">Terms 
+							&amp; Conditions</a>&nbsp;&nbsp;&nbsp;<a href="http://www.jackhenry.com/Default.aspx?P=73dccf54-67dc-488f-b5fb-d0e8db90ec72" id="SiteTemplate_lnkPrivacyPolicy" class="copyright">Privacy 
+							Policy</a></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<span class="WebinarContent">
+				<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-4849190-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+</script>
+<!-- Google Code for Leads Conversion Page -->
+<script language="JavaScript" type="text/javascript">
+<!--
+var google_conversion_id = 1038992465;
+var google_conversion_language = "en_US";
+var google_conversion_format = "1";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "bdfNCJXBWxDRiLfvAw";
+//-->
+</script>
+<script language="JavaScript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+	<img height="1" width="1" border="0" src="http://www.googleadservices.com/pagead/conversion/1038992465/?label=bdfNCJXBWxDRiLfvAw&amp;script=0">
+</noscript></span></td>
+	</tr>
+</tbody></table>
+		</form>
+	<script language="javascript">
+		MM_CheckFlashVersion('10.0','Content on this page requires a newer version of Macromedia Flash Player. Do you want to download it now?');
+	</script>
+	
+</body></html>
