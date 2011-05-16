@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoproductkiller.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125051723id_/http%3A//infoproductkiller.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoproductkiller.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516072432id_/http%3A//www.infoproductkiller.com/privacy.php) for the most accurate reproduction.*
 
 # InfoProductKiller.com - Privacy Policy
 
