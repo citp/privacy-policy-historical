@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2010-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100207202805id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516064051id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ShapeFit Privacy Policy - Protecting The Privacy Our Visitors
 
@@ -8,7 +8,7 @@
 ](http://www.shapefit.com/)[  
 ](http://fittracker.shapefit.com/)[  
 ](http://www.shapefit.com/calculators.html)[  
-](http://www.shapefit.com/free-fitness-ebooks.html)[](http://www.shapefit.com/shapefit-fitness-products.html)[  
+](http://www.shapefit.com/free-fitness-ebooks.html)[](http://www.shapefit.com/exercise-bands.html)[  
 ](http://www.shapefit.com/shapefit-fitness-products.html)[  
 ](http://www.shapefit.com/exercise.html)[  
 ](http://www.shapefit.com/nutrition.html)[](http://www.shapefit.com/cardio.html)[  
@@ -31,13 +31,13 @@
 ](http://www.shapefit.com/tellafriend.html)[](http://www.shapefit.com/testimonials.html)[  
 ](http://www.shapefit.com/support-our-site.html)[  
 ](http://www.shapefit.com/advertise.html)[  
-](http://www.shapefit.com/fitness-affiliate-program.html) [](http://www.shapefit.com/add-us-friends.html)
+](http://www.shapefit.com/fitness-affiliate-program.html) [](http://www.addthis.com/bookmark.php?v=250&username=shapefit)
 
-[](http://www.shapefit.com/shapefit-assist.html)
+[](http://www.shapefit.com/weight-loss-ebooks.html)
 
-[](http://www.shapefit.com/exercise-bands.html)
+[](http://www.shapefit.com/free-muscle-building-ebook.html)
 
-[](http://www.shapefit.com/fitness-affiliate-program.html)
+[](http://fittracker.shapefit.com/)
 
 | 
 
