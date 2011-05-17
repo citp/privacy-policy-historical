@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc-directory.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227232534id_/http%3A//www.abc-directory.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc-directory.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517203647id_/http%3A//www.abc-directory.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy : ABC Directory - Business Web Resources - Free Web Directory
 
