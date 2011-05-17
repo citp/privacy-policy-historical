@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosportsdaily.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206061014id_/http%3A//www.prosportsdaily.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosportsdaily.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517224019id_/http%3A//www.prosportsdaily.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ A Person's consent can be express, implied, or given through an authorized repre
 
 Note: If any Person has any questions or concerns about SportsDirect Inc.'s privacy practices, the Person can either: 
 
-i) Write to Customer Service - Privacy, SportsDirect Inc., 211 Horseshoe Lake Drive, Halifax, NS, B3S 1E1; or 
+i) Write to Customer Service - Privacy, SportsDirect Inc., 211 Horseshoe Lake Drive, Halifax, NS, B3S 0B9; or 
 
 ii) Provide information to SportsDirect Inc. through the form provided on our [**feedback page**](https://web.archive.org/Email_Us.aspx?uid=507). 
 
@@ -99,11 +99,7 @@ Certain SportsDirect Inc. services may be co-branded and offered in conjunction 
 
 **SportsDirect Inc. Companies' Sites**  
 ProSportsDaily.com   
-Sportsdirect.com   
-Covers.com   
-Wagerline.com   
-BullySports.com   
-Pokerfan.com 
+SportsDirectInc.com 
 
 **Definitions**
 
@@ -136,7 +132,7 @@ SportsDirect Inc. is responsible for Personal Information under its control and 
 
 1.1 Responsibility for ensuring compliance with the provisions of the SportsDirect Inc. Privacy Policy rests with the senior management of SportsDirect Inc., which shall designate one or more persons to be accountable for compliance with the SportsDirect Inc. Privacy Policy. Other people within SportsDirect Inc. may be delegated to act on behalf of the designated person(s) or to take responsibility for the day-to-day collection and processing of Personal Information. 
 
-1.2 SportsDirect Inc. has designated a Chief Privacy Officer to oversee compliance with the SportsDirect Inc. Privacy Policy. The Chief Privacy Officer can be contacted at Chief Privacy Officer, 211 Horseshoe Lake Drive, Halifax , Nova Scotia , B3S 1E1 . 
+1.2 SportsDirect Inc. has designated a Chief Privacy Officer to oversee compliance with the SportsDirect Inc. Privacy Policy. The Chief Privacy Officer can be contacted at Chief Privacy Officer, 211 Horseshoe Lake Drive, Halifax , Nova Scotia , B3S 0B9 . 
 
 1.3 SportsDirect Inc. is responsible for Personal Information in its possession or control, including information that has been transferred to a Third Party for processing. SportsDirect Inc. shall use appropriate means to provide a comparable level of protection while information is being processed by a Third Party (see Principle 7). 
 
@@ -280,7 +276,7 @@ A Person shall be able to address a challenge concerning compliance with the abo
 **SportsDirect Inc  
 211 Horseshoe Lake Drive  
 Halifax , Nova Scotia  
-B3S 1E3 Canada **
+B3S 0B9 Canada **
 
 You may contact us through our [**feedback page**](https://web.archive.org/Email_Us.aspx?uid=507).  
 You may contact us by phone at 902.835.3320.  
