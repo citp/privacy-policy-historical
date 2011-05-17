@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121170736id_/http%3A//www.bps.org.uk/additional-pages/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517073104id_/http%3A//www.bps.org.uk/additional-pages/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -139,5 +139,5 @@ The Registrar: [www.dpr.gov.uk ](http://www.dpr.gov.uk/ "External Site \(new win
 
 **October 2001**  
   
-© Copyright 2000-2010 The British Psychological Society   
+© Copyright 2000-2011 The British Psychological Society   
 The British Psychological Society is a charity registered in England and Wales, Registration Number : 229642 and a charity registered in Scotland, Registration Number : SC039452 - VAT Registration Number : 240 3937 76
