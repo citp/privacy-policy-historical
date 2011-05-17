@@ -1,269 +1,299 @@
-<!--The following is the downloaded HTML source of the linkspun.com privacy policy that was archived on 2010-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222080309id_/http%3A//www.linkspun.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linkspun.com privacy policy that was archived on 2011-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110518012300id_/http%3A//www.linkspun.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en-us" xmlns="http://www.w3.org/1999/xhtml"><head>
-		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Linkspun | Hard Link Generation And Tracking.</title>
+			<meta name="robots" content="noindex, nofollow">
+				<link rel="shortcut icon" href="favicon.ico">
+	<!-- Core Stylesheet -->
+	<link href="lib/css/core2.css" media="screen" rel="stylesheet" type="text/css">
+	<!-- Javascript Files -->
 
-		<title>Linkspun | Browse thousands of adult websites for hardlink trades!</title>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+	<script type="text/javascript" src="lib/js/jquery-ui-1.7.2.custom.min.js"></script>
 
+	
+	
+	
+	<script type="text/javascript">
 
-		<!-- Core Stylesheet -->
-		<link href="lib/css/core.css" media="screen" rel="stylesheet" type="text/css">
+		$(document).ready(function(){
+			// highlight on focus, for easy copy
+			$('.focusSelect').focus(function(){
+				this.select();
+			});
 
-		<!-- Javascript Files -->
-		<script type="text/javascript" src="lib/js/jquery-1.3.2.min.js"></script>
-		<script type="text/javascript" src="lib/js/jquery-ui-1.7.2.custom.min.js"></script>
-		<script type="text/javascript" src="lib/js/jquery.tablesorter.js"></script>
-		<script type="text/javascript" src="lib/js/jquery.tablesorter.pager.js"></script>
-		<script type="text/javascript" src="lib/js/hoverIntent.js"></script>
+			// Accordion
+			$("#accordion").accordion({ header: "h3" });
 
-		<script type="text/javascript" src="lib/js/superfish.js"></script>
-		<script type="text/javascript" src="lib/js/contact.js"></script></head><body><div id="acb_box" style="display:none; position:absolute; top:-300; left:-300; background-color:#f1f1f1; width:275px; margin:0;"><div style="border:1px solid #51a0e6; margin:25px;"><div id="acb_messageBox" style="margin:0 10px 10px 10px;"> </div></div></div>
-		<script type="text/javascript" src="lib/js/jquery.simplemodal-1.3.3.min.js"></script>
-		<script type="text/javascript">
-			$(document).ready(function(){
-				/* Drop Down Menu */
-				$('ul.sf-menu').superfish({
-					delay:       1000,
-					dropShadows: false
-				});
+			// Dialog Link
+			$('#dialog_link').click(function(){
+				$('#dialog').dialog('open');
+				return false;
+			});
 
-				/* Error */
-				$(".message").click(function () {
-					$(this).fadeOut();
-				});
-
-				$('.request-trade').click(
-					function() {
-						var parts = $(this).attr('id').split('-');
-						var pageID = parts[1];
-						document.location = 'trade_request.php?pageID='+pageID;
+			$('#dialog').dialog({
+				autoOpen: false,
+				width: 600,
+				buttons: {
+					"Ok": function() {
+						$(this).dialog("close");
+					},
+					"Cancel": function() {
+						$(this).dialog("close");
 					}
-				);
+				}
+			});
 
-				$('#request-single').click(
-					function() {
-						$('#trade-stacked').hide();
-						$('#trade-single').show();
-						$('#b_linkType').val('single');
-					}
-				);
-				$('#request-stacked').click(
-					function() {
-						$('#trade-stacked').show();
-						$('#trade-single').hide();
-						$('#b_linkType').val('stacked');
-					}
-				);
-				$('#step3-accept').click(
-					function() {
-						document.location = 'trade_view.php?tradeID='+$('#tradeID').val()+'&action=step-3&decision=accept';
-					}
-				);
-				$('#deny-trade').click(
-					function() {
-						document.location = 'trade_view.php?tradeID='+$('#tradeID').val()+'&action=deny';
-					}
-				);
-				$("a[id^='alert-']").click(function () {
-					document.body.style.cursor = 'wait';
-					parts = $(this).attr('id').split('-');
-					var field = $('#parent-'+parts[1]);
-					$.ajax({
-						type: "POST",
-						url: "alerts.php",
-						data: "action=close&alertID="+parts[1],
-						success: function(msg){
-							document.body.style.cursor = 'default';
-							if (msg == 'success') {
-								field.fadeOut();
-							}
-							else {
-								alert('Error, please try again later.');
-							}
-						},
-						error: function(a,b,c){
-							document.body.style.cursor = 'default';
+			//hover states on the static widgets
+			$('#dialog_link, ul#icons li').hover(
+			function() { $(this).addClass('ui-state-hover'); },
+			function() { $(this).removeClass('ui-state-hover'); }
+			);
+
+
+			/* Error */
+			$(".message").click(function () {
+				$(this).fadeOut();
+			});
+
+			$('.request-trade').click(
+			function() {
+				var parts = $(this).attr('id').split('-');
+				var pageID = parts[1];
+				document.location = 'trade_request.php?pageID='+pageID+'&service_url=http%3A%2F%2Fwww.linkspun.com%2Fprivacy.php';
+			}
+			);
+
+			$('#request-single').click(
+			function() {
+				$('#trade-stacked').hide();
+				$('#trade-single').show();
+				$('#b_linkType').val('single');
+			}
+			);
+			$('#request-stacked').click(
+			function() {
+				$('#trade-stacked').show();
+				$('#trade-single').hide();
+				$('#b_linkType').val('stacked');
+			}
+			);
+			$('#step3-accept').click(
+			function() {
+				document.location = 'trade_view.php?tradeID='+$('#tradeID').val()+'&action=step-3&decision=accept';
+			}
+			);
+			$('#step3-deny').click(
+			function() {
+				document.location = 'trade_view.php?tradeID='+$('#tradeID').val()+'&action=step-3&decision=deny';
+			}
+			);
+			$('#deny-trade').click(
+			function() {
+				document.location = 'trade_view.php?tradeID='+$('#tradeID').val()+'&action=deny&add_comment='+$('#quick_add_comment').val();
+			}
+			);
+			$("a[id^='alert-']").click(function () {
+				document.body.style.cursor = 'wait';
+				parts = $(this).attr('id').split('-');
+				var field = $('#parent-'+parts[1]);
+				$.ajax({
+					type: "POST",
+					url: "alerts.php",
+					data: "action=close&alertID="+parts[1],
+					success: function(msg){
+						document.body.style.cursor = 'default';
+						if (msg == 'success') {
+							field.fadeOut();
+						}
+						else {
 							alert('Error, please try again later.');
 						}
-					});
+					},
+					error: function(a,b,c){
+						document.body.style.cursor = 'default';
+						alert('Error, please try again later.');
+					}
 				});
-
 			});
-		</script>
 
-		<!--[if IE 6]>
-		<link href="lib/css/ie6.css" media="screen" rel="stylesheet" type="text/css" />
-		<script src="lib/js/DD_belatedPNG_0.0.8a-min.js"></script>
-		<script>
-		/* EXAMPLE */
-		DD_belatedPNG.fix('.logo img, .message, table img');
+		});
+	</script>
 
-		/* string argument can be any CSS selector */
-		</script>
-		<![endif]-->
+	<!--[if gt IE 5.5]>
+	<link href="lib/css/ie6.css" media="screen" rel="stylesheet" type="text/css" />
+	<script src="lib/js/DD_belatedPNG_0.0.8a-min.js"></script>
+	<script>
+	/* EXAMPLE */
+	DD_belatedPNG.fix('.logo img, .message, table img');
 
-	
+	/* string argument can be any CSS selector */
+	</script>
+	<![endif]-->
+</head>
+<body>
+<!-- Start Header -->
+<div id="header">
 
-	
+	<!-- Start Wrap -->
+	<div id="wrap" class="fixed">
 
-		<!-- Start Header -->
-		<div id="header">
-
-			<!-- Start Wrap -->
-			<div id="wrap" class="fixed">
-
-				<!-- Start Logo -->
-				<div class="logo">
-
-					<a href="/">
-						<img src="lib/img/linkspun.png" alt="LinkSpun">
-					</a>
-				</div>
-				<!-- End Logo -->
-
-				<!-- Start Info -->
-				<div class="info">
-					<div style="width: 100%">
-
-												<h2>Hello there, <span>Guest</span></h2>
-						<small>Please <a href="login.php">sign-in</a> or <a href="register.php">register</a></small>
-											</div>
-				</div>
-				<!-- End Info -->
-
-			</div>
-			<!-- End Fixed Wrap -->
-
-		</div>
-		<!-- End Header -->
-
-
-		<!-- Start Top Navigation -->
-		<div id="top_nav">
-
-			<!-- Start Wrap -->
-			<div id="wrap" class="fixed">
-
-							<!-- Start Drop Down Menu -->
-				<ul class="sf-menu sf-js-enabled">
-					<li>
-						<a class="m" href="index.php">Homepage</a>
-					</li>
-					<li>
-						<a class="m" href="more.php">Features</a>
-					</li>
-					<li>
-						<a class="m" href="register.php">Register Now</a>
-
-					</li>
-					<li>
-						<span id="acb_pubaddy"><a href="javascript:acb_DisplayContactBox()">Contact</a></span>
-					</li>
-				</ul>
-				<!-- End Drop Down Menu -->
+		<!-- Start Logo -->
+		<div class="logo">
+							<a href="/"><img src="lib/img/logo.png" alt="Linkspun"></a>
 						</div>
-			<!-- End Fixed Wrap -->
+		<!-- End Logo -->
 
+
+		<!-- Start Info -->
+		<div class="info">
+			<div style="width: 100%">
+
+									<h2>Hello there, <span>Guest</span></h2>
+					<h2><a href="login.php">sign-in</a> or <span><a href="register.php">register</a></span></h2>
+								</div>
 		</div>
-		<!-- End Top Navigation -->
+		<!-- End Info -->
+
+		
+	</div>
+	<!-- End Fixed Wrap -->
+
+</div>
+<!-- End Header -->
 
 
-		<!-- Start Wrap -->
-		<div id="wrap" class="fixed">
+<!-- Start Top Navigation -->
+<div id="top_nav">
 
-			<div id="content">
-				<div>
+	<!-- Start Wrap -->
+	<div id="wrap" class="fixed">
 
-
-					<noscript>
-						<!-- Show message when javascript is not enabled -->
-						<div class="message error">
-							<p>Javascript is needed for this template to work properly. <br />Please <a href="http://browsehappy.com/" title="Upgrade to a better browser">upgrade</a> your browser or <a href="http://www.google.com/support/bin/answer.py?answer=23852" title="Enable Javascript in your browser">enable</a> Javascript to navigate the interface properly.</p>
-						</div>
-					</noscript>
-
-											<!-- Start Content Box #1 -->
-							<div class="box">
-							<div class="txt">	    
-
-						<p><strong>What information do we collect?</strong> <br>
-						  <br>
-						  We collect information from you when you register on our site, fill out a form or add a domain. <br>
-						  <br>
-						  When trading or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or domains owned.<br>
-						  <br>
-						  <strong>What do we use your information for?</strong> <br>
-						  <br>
-						  Any of the information we collect from you may be used in one of the following ways: <br>
-						  <br>
-						  • To personalize your experience<br>
-						  (your information helps us to better respond to your individual needs)<br>
-						  <br>
-						  • To improve our website/tool<br>
-						  (we continually strive to improve our website offerings based on the information and feedback we receive from you)<br>
-						  <br>
-						  • To improve customer service<br>
-						  (your information helps us to more effectively respond to your customer service requests and support needs)<br>
-						  <br>
-						  <strong>How do we protect your information?</strong> <br>
-						  <br>
-						  We   implement a variety of security measures to maintain the safety of your   personal information when you access your personal information. <br>
-						  <br>
-						  <strong>Do we use cookies?</strong> <br>
-						  <br>
-						  Yes   (Cookies are small files that a site or its service provider transfers   to your computers hard drive through your Web browser (if you allow)   that enables the sites or service providers systems to recognize your   browser and capture and remember certain information<br>
-						  <br>
-We use cookies to understand and save your preferences for future visits.<br>
-<br>
-<strong>Do we disclose any information to outside parties?</strong> <br>
-<br>
-<strong>We   do not sell, trade, or otherwise transfer to outside parties your   personally identifiable information.</strong> This does not include trusted third   parties who assist us in operating our website, conducting our   business, or servicing you, so long as those parties agree to keep this   information confidential. We may also release your information when we   believe release is appropriate to comply with the law, enforce our site   policies, or protect ours or others rights, property, or safety.   However, non-personally identifiable visitor information may be provided   to other parties for marketing, advertising, or other uses.<br>
-<br>
-<strong>Third party links</strong> <br>
-<br>
-Occasionally, at our discretion, we may include or offer third party   products or services on our website. These third party sites have   separate and independent privacy policies. We therefore have no   responsibility or liability for the content and activities of these   linked sites. Nonetheless, we seek to protect the integrity of our site   and welcome any feedback about these sites.<br>
-<br>
-<strong>Terms and Conditions</strong> <br>
-<br>
-Please   also visit our Terms and Conditions section establishing the use,   disclaimers, and limitations of liability governing the use of our   website at <a href="http://www.linkspun.com/terms.html" _mce_href="http://www.linkspun.com/terms.html">http://www.linkspun.com/terms.html</a><br>
-<br>
-<strong>Your Consent</strong> <br>
-<br>
-By using our site, you consent to our privacy policy.<br>
-<br>
-<strong>Changes to our Privacy Policy</strong> <br>
-<br>
-If   we decide to change our privacy policy, we will post those changes on   this page, and/or update the Privacy Policy modification date below. <br>
-<br>
-This policy was last modified on August 5, 2010<br>
-<br>
-<strong>Contacting Us</strong> <br>
-<br>
-If there are any questions regarding this privacy policy you may contact us using the information below. <br>
-<br>
-http://www.linkspun.com/<br>
-support@linkspun.com</p>
-							
-							</div>
-						</div>
-						<!-- End Content Box #1 -->
-
-
-
-					<p>
-						</p><div class="footer1">
-						  <p style="text-align:center;">Copyright © 2010 <a href="http://www.linkspun.com/terms.html">Terms of Use</a> - <a href="http://www.linkspun.com/privacy.html">Privacy Policy</a> - <a href="http://www.linkspun.com/">Home</a></p></div>
-					<p></p>
-
+					<!-- Start Drop Down Menu -->
+			<ul class="sf-menu">
+				<li>
+					<a class="m" href="index.php">Homepage</a>
+				</li>
+				<li>
+					<a class="m" href="more.php">Features</a>
+				</li>
+				<li>
+					<a class="m" href="register.php">Register Now</a>
+				</li>
+				<li>
+					<a class="m" href="contact.php">Contact</a>
+				</li>
+			</ul>
+			<!-- End Drop Down Menu -->
 				</div>
-			</div>
-
-			
-
-		</div>
-		<!-- End Wrap -->
+	<!-- End Fixed Wrap -->
+</div>
+<!-- End Top Navigation -->
 
 
-	
+<!-- Start Wrap -->
+<div id="wrap" class="fixed">
+
+<div id="content">
+<div>
+
+<!-- this is for the view existing trades ajax tooltip -->
+<div id="viewtrades" class="tooltip" style="display:none;width:870px;">
+	<img src="/lib/img/ajax-loading.gif" height="31px" width="31px">
+</div>
+
+<noscript>
+	<!-- Show message when javascript is not enabled -->
+	<div class="message error">
+		<p>Javascript is needed for this template to work properly. <br />Please <a href="http://browsehappy.com/" title="Upgrade to a better browser">upgrade</a> your browser or <a href="http://www.google.com/support/bin/answer.py?answer=23852" title="Enable Javascript in your browser">enable</a> Javascript to navigate the interface properly.</p>
+	</div>
+</noscript>
+
+<!-- Start Content Box #1 -->
+<div class="box">
+	<div class="txt">
+
+		<p><strong>What information do we collect?</strong> <br>
+			<br>
+			We collect information from you when you register on our site, fill out a form or add a domain. <br>
+			<br>
+			When trading or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or domains owned.<br>
+			<br>
+			<strong>What do we use your information for?</strong> <br>
+			<br>
+			Any of the information we collect from you may be used in one of the following ways: <br>
+			<br>
+			• To personalize your experience<br>
+			(your information helps us to better respond to your individual needs)<br>
+			<br>
+			• To improve our website/tool<br>
+			(we continually strive to improve our website offerings based on the information and feedback we receive from you)<br>
+			<br>
+			• To improve customer service<br>
+			(your information helps us to more effectively respond to your customer service requests and support needs)<br>
+			<br>
+			<strong>How do we protect your information?</strong> <br>
+			<br>
+			We   implement a variety of security measures to maintain the safety of your   personal information when you access your personal information. <br>
+			<br>
+			<strong>Do we use cookies?</strong> <br>
+			<br>
+			Yes   (Cookies are small files that a site or its service provider transfers   to your computers hard drive through your Web browser (if you allow)   that enables the sites or service providers systems to recognize your   browser and capture and remember certain information<br>
+			<br>
+			We use cookies to understand and save your preferences for future visits.<br>
+			<br>
+			<strong>Do we disclose any information to outside parties?</strong> <br>
+			<br>
+			<strong>We   do not sell, trade, or otherwise transfer to outside parties your   personally identifiable information.</strong> This does not include trusted third   parties who assist us in operating our website, conducting our   business, or servicing you, so long as those parties agree to keep this   information confidential. We may also release your information when we   believe release is appropriate to comply with the law, enforce our site   policies, or protect ours or others rights, property, or safety.   However, non-personally identifiable visitor information may be provided   to other parties for marketing, advertising, or other uses.<br>
+			<br>
+			<strong>Third party links</strong> <br>
+			<br>
+			Occasionally, at our discretion, we may include or offer third party   products or services on our website. These third party sites have   separate and independent privacy policies. We therefore have no   responsibility or liability for the content and activities of these   linked sites. Nonetheless, we seek to protect the integrity of our site   and welcome any feedback about these sites.<br>
+			<br>
+			<strong>Terms and Conditions</strong> <br>
+			<br>
+			Please   also visit our Terms and Conditions section establishing the use,   disclaimers, and limitations of liability governing the use of our   website at <a href="/terms.php">http://www.linkspun.com/terms.php</a><br>
+			<br>
+			<strong>Your Consent</strong> <br>
+			<br>
+			By using our site, you consent to our privacy policy.<br>
+			<br>
+			<strong>Changes to our Privacy Policy</strong> <br>
+			<br>
+			If   we decide to change our privacy policy, we will post those changes on   this page, and/or update the Privacy Policy modification date below. <br>
+			<br>
+			This policy was last modified on August 5, 2010<br>
+			<br>
+			<strong>Contacting Us</strong> <br>
+			<br>
+			If there are any questions regarding this privacy policy you may contact us using the information below. <br>
+			<br>
+			http://www.linkspun.com/<br>
+			support@linkspun.com</p>
+
+	</div>
+</div>
+<!-- End Content Box #1 -->
+
+<div class="footer1">
+	<p style="text-align:center;">We Are <a href="http://www.amerinoc.com/amaff/idevaffiliate.php?id=100&amp;tid1=linkspun">Proudly Hosted @ Amerinoc</a>.
+		Copyright © 2011 www.Linkspun.com
+		<a href="/terms.php">Terms of Use</a> - <a href="/privacy.php">Privacy Policy</a>
+		 - 0 sec<br>	</p>
+</div>
+
+</div>
+</div>
+
+
+
+
+</div>
+<!-- End Wrap -->
+
+
+
+
 </body></html>
