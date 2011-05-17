@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepple.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114060231id_/http%3A//pepple.com/privacy.php%3Fqt%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepple.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517110017id_/http%3A//pepple.com/privacy.php%3Fqt%3D) for the most accurate reproduction.*
 
 # pepple.com
 
