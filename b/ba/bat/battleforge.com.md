@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battleforge.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230124852id_/http%3A//www.ea.com/global/legal/privacy_enus.jsp%3Flanguage%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleforge.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517070330id_/http%3A//www.ea.com/global/legal/privacy_enus.jsp%3Flanguage%3Den) for the most accurate reproduction.*
 
 # Privacy Policy - Electronic Arts - EA Games
 
