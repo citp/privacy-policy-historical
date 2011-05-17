@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimatecourses.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102032009id_/http%3A//www.internetoutfitter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimatecourses.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517045411id_/http%3A//www.internetoutfitter.com/privacy.php) for the most accurate reproduction.*
 
 # Internet Outfitter - Privacy Policy
 
