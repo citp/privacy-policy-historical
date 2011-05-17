@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the popmatters.com privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517160117id_/http%3A//www.popmatters.com/pm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popmatters.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517220032id_/http%3A//www.popmatters.com/pm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy < PopMatters
-
-**Last Updated: February 2003**
 
 PopMatters.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (e.g., your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by PopMatters.com online and does not impact information collected or used by PopMatters.com or its affiliates through other means. 
 
@@ -28,6 +26,11 @@ While on our site, our advertisers, promotional partners or other third parties 
 
 **Children**  
 PopMatters.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe PopMatters.com has any information from or about anyone under 13, please contact us at the address listed below. 
+
+**OTHER INFORMATION/LOGGING AND COOKIES**  
+Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use “persistent cookies” to save your username and login password for future logins to the Site. We use “session ID cookies” to enable certain features of our service, to better understand how you interact with the Site and to monitor web traffic routing on the Site and aggregate usage of the Site. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the services.
+
+We also use the services of a third-party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Site and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **Contacting us**  
 We can be reached by contacting:  
