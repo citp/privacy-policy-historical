@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219071512id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517023653id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ This is our policy regarding the privacy of information we collect on our web si
 
 **About Children**
 
-This site is not intended for children under the age of 14. We will not knowingly collect personally identifiable information via this site from visitors under the age of 14. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites. Parents should not include their child’s full name anywhere on the website. Within SchoolFinder, secondary students above the age of 14 may write school reviews, however students' names will never be displayed for privacy reasons.
+This site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via this site from visitors under the age of 13. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites. Parents should not include their child’s full name anywhere on the website. Within SchoolFinder, secondary students above the age of 13 may write school reviews, however students' names will never be displayed for privacy reasons.
 
 **Information We Collect and How We Use It**
 
@@ -18,8 +18,8 @@ This site is not intended for children under the age of 14. We will not knowingl
 
 We gather two types of data about users:
 
-  1. personal information, which individual users provide (i) when registering as a member of our Websites, (ii) when registering as a subscriber to one of our partners’ premium subscription services, (iii) when using Blogs, JustAsk, SchoolFinder, MyEdu and any other community features on our site, (iv) when participating in surveys and polls,  (v) when participating in surveys or sweepstakes; (vi) when posting comments to site pages; and (vii) when signing up to receive one or more of our free email newsletters and notifications; and 
-  2. tracking information, which is automatically collected about all visitors to the Websites. 
+  1. personal information, which individual users provide (i) when registering as a member of our Websites, (ii) when registering as a subscriber to one of our partners’ premium subscription services, (iii) when using Blogs, JustAsk, SchoolFinder, MyEdu and any other community features on our site, (iv) when participating in surveys and polls,  (v) when participating in surveys or sweepstakes; (vi) when posting comments to site pages; and (vii) when signing up to receive one or more of our free email newsletters and notifications; and
+  2. tracking information, which is automatically collected about all visitors to the Websites.
 
 
 
@@ -105,17 +105,17 @@ We may from time to time send registered members of Education.com special offers
 
 
 
-If you’re a registered member and you subscribe to JustAsk questions, topics and/or experts, we use your email address to send you notifications relevant to your subscription. You can select which subscriptions you would like to receive (as well as the frequency of those subscriptions), or remove yourself from JustAsk subscriptions, at any time by visiting your [JustAsk Subscriptions page](https://web.archive.org/web/20101219071512id_/http://www.education.com/privacy/answers/subscriptions/).
+If you’re a registered member and you subscribe to JustAsk questions, topics and/or experts, we use your email address to send you notifications relevant to your subscription. You can select which subscriptions you would like to receive (as well as the frequency of those subscriptions), or remove yourself from JustAsk subscriptions, at any time by visiting your [JustAsk Subscriptions page](https://web.archive.org/web/20110517023653id_/http%3A//www.education.com/answers/subscriptions/).
 
   * **Webinars and Events**
 
 
 
-If you register for an Education.com webinar or event, we use your email address to send you notifications relevant to the webinar or event. 
+If you register for an Education.com webinar or event, we use your email address to send you notifications relevant to the webinar or event.
 
 **Choice and Opt-out**
 
-Members may opt out of receiving updates, notifications, and/or newsletters by de-selecting the corresponding boxes in the “Communications” section at the bottom of the “Basic Profile” page (within MyEdu). Updates, newsletters and email notifications will also include instructions for opting-out of those communications. Also, the “My Settings” page within MyEdu is where a member can opt-out of having his/her profile shown or featured on the site, and make other profile disclosure selections. 
+Members may opt out of receiving updates, notifications, and/or newsletters by de-selecting the corresponding boxes in the “Communications” section at the bottom of the “Basic Profile” page (within MyEdu). Updates, newsletters and email notifications will also include instructions for opting-out of those communications. Also, the “My Settings” page within MyEdu is where a member can opt-out of having his/her profile shown or featured on the site, and make other profile disclosure selections.
 
 If you request restrictions on our uses or disclosures of your personal information, we may comply with your request by terminating your membership and deleting your account information. Opt out requests do not affect information that we have previously disclosed.
 
@@ -123,13 +123,13 @@ If you request restrictions on our uses or disclosures of your personal informat
 
 We do not sell or disclose the personal information about you described above to nonaffiliated parties (including but not limited to companies, authorities, institutions, or individuals) except to provide you with products or services, when we have your permission, or under the following circumstances:
 
-  * We provide personal information to nonaffiliated companies that we engage as contractors or agents to perform services for us, such as administering our Websites, systems and software; sending direct mail communications; or administering a sweepstakes or contest. Information will be shared with such contractors only to the extent reasonably necessary for them to perform services on our behalf, consistent with this privacy policy; 
-  * In response to subpoenas, court orders, or legal process, from law enforcement agencies or state and federal regulators, or as otherwise required by law; 
-  * To assert or defend our legal rights, including fraud prevention; 
-  * To protect the rights, property, or safety of other persons; 
+  * We provide personal information to nonaffiliated companies that we engage as contractors or agents to perform services for us, such as administering our Websites, systems and software; sending direct mail communications; or administering a sweepstakes or contest. Information will be shared with such contractors only to the extent reasonably necessary for them to perform services on our behalf, consistent with this privacy policy;
+  * In response to subpoenas, court orders, or legal process, from law enforcement agencies or state and federal regulators, or as otherwise required by law;
+  * To assert or defend our legal rights, including fraud prevention;
+  * To protect the rights, property, or safety of other persons;
   * As we deem appropriate to attempt to prevent physical or emotional harm to other persons and/or to their property based on overt or implied threat;
-  * In connection with an actual or proposed corporate merger, acquisition, asset purchase, or other transaction or proceeding involving all or part of the business or assets to which the information pertains. 
-  * Disclosures for Joint Marketing and Servicing: We may disclose all the information we collect as described above to other companies such as direct marketers to perform marketing services on our behalf, or other institutions with whom we have joint marketing agreements. 
+  * In connection with an actual or proposed corporate merger, acquisition, asset purchase, or other transaction or proceeding involving all or part of the business or assets to which the information pertains.
+  * Disclosures for Joint Marketing and Servicing: We may disclose all the information we collect as described above to other companies such as direct marketers to perform marketing services on our behalf, or other institutions with whom we have joint marketing agreements.
 
 
 
