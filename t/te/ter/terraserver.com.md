@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222121329id_/http%3A//www.terraserver.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terraserver.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518013525id_/http%3A//www.terraserver.com/privacy.asp) for the most accurate reproduction.*
 
 # TerraServer - The Leader In Online Imagery - Aerial Photos & Satellite Images
 
