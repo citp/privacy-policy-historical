@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 25marketingmethods.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220024512id_/http%3A//25marketingmethods.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 25marketingmethods.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517225240id_/http%3A//www.25marketingmethods.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLeadSystemPRO Training
 
