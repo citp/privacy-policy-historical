@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellevuecollege.edu privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212214111id_/http%3A//bellevuecollege.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellevuecollege.edu privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517234946id_/http%3A//bellevuecollege.edu/privacy.asp) for the most accurate reproduction.*
 
 # Bellevue College Website Privacy Notice
 
@@ -223,9 +223,9 @@ The BC website contains many links to other websites.  These include links to w
 
 Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm, or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the State of Washington, Bellevue College, or its officers, employees or agents.
 
-Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at its own risk.
+Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at its own risk.  Under no circumstances shall BC be liable for damages arising out of or in connection with the use of or inability to use this site.   This is a comprehensive limitation of liability that applies to all damages of any kind, include without limitation compensatory, direct, indirect or consequential damages, loss of date, income or profit, loss of or damage to property and claims of third parties.
 
-Bellevue College reserves the right to revise and update this Privacy Notice at any time without notice by posting such revised Privacy Notice on the Bellevue College website. 
+Bellevue College reserves the right to in its discretion, to change or modify all or any part of these terms and conditions at any time, effective immediately upon notice published on this web site.   
 
 To review your personal information, or request correction of your personal information, you may contact Bellevue College as follows:
 
