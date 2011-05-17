@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chime.in privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125185330id_/http%3A//chime.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chime.in privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517051758id_/http%3A//chime.in/privacy.php) for the most accurate reproduction.*
 
 # chime.in - Turning tweets into live conversations
 
