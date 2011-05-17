@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a-z-animals.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212202649id_/http%3A//a-z-animals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-z-animals.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517203957id_/http%3A//a-z-animals.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - A-Z Animals - Animal Facts, Information, Pictures, Videos, Resources and Links
 
@@ -20,15 +20,3 @@ Our web servers automatically gather information about all visitors. Such inform
   
 **Any and all information and/or data we collect is held under the rules and regulations of the UK Data Protection Act.**  
 | 
-
-## Children
-
-A-Z Animals is largely used by children, as such we take our responsibility to ensure our content is suitable for children very seriously! 
-
-  All content on A-Z Animals is approved by our moderators before being published, any comments or updates submitted by users are stored in a private approval queue and are not publicly available until approved. 
-
-  All content must meet a strict criteria before being published, for example images must not include any violence or gore and content must be suitable for children of all ages and therefore more sensitive topics such as reproduction are approached and discussed carefully. 
-
-  All our processes are regularly reviewed by a third-party child safety consultation service. 
-
-  Our default stand-point is to avoid collecting any personal details from any users! 
