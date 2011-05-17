@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914083340id_/http%3A//www.kfh.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfh.co.uk privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517203949id_/http%3A//www.kfh.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Kinleigh Folkard & Hayward | Privacy policy
+# Privacy policy
 
 Our privacy policy covers the collection, use and disclosure of personal information that may be collected by us whenever you visit our website, call one of our offices and contract our services. 
 
