@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220154948id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerstation.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517194034id_/http%3A//www.offerstation.com/privacy.php) for the most accurate reproduction.*
 
 # Contact Us | OfferStation.com
 
@@ -52,51 +52,51 @@ OfferStation reserves the right to modify, update, and change this policy at our
 
 [
 
-## "The fun of Christmas comes to life at IKANO"
+## Softlan "Terima Kasih Mama" Contest
 
-](http://www.offerstation.com/happenings-events/65749/the-fun-of-christmas-comes-to-life-at-ikano.htm)
-
-[
-
-## Holiday Programme "Craft In Science" at CYW Art & Craft
-
-](http://www.offerstation.com/happenings-events/63536/holiday-programme-craft-in-science-at-cyw-art-and-craft.htm)
+](http://www.offerstation.com/contest-prizes/72669/softlan-terima-kasih-mama-contest.htm)
 
 [
 
-## "Under The Christmas Tree" at the Curve
+## Caltex Havoline Promotion
 
-](http://www.offerstation.com/happenings-events/65399/under-the-christmas-tree-at-the-curve.htm)
-
-[
-
-## Win a Toshiba Refrigerator at Carrefour
-
-](http://www.offerstation.com/contest-prizes/64583/win-a-toshiba-refrigerator-at-carrefour.htm)
+](http://www.offerstation.com/offers-promotions/71363/caltex-havoline-promotion.htm)
 
 [
 
-## Win an iPad with New Zealand Natural 
+## 15% Off at Boston Restaurant
 
-](http://www.offerstation.com/contest-prizes/64996/win-an-ipad-with-new-zealand-natural.htm)
-
-[
-
-## San Francisco Steakhouse Christmas Promotion
-
-](http://www.offerstation.com/dining-food-offers/65503/san-francisco-steakhouse-christmas-promotion.htm)
+](http://www.offerstation.com/dining-food-offers/69493/15-percent-off-at-boston-restaurant.htm)
 
 [
 
-## Property Fair by REHDA - 3 Days Only
+## New Burt's Bees Outlet at Gurney Plaza
 
-](http://www.offerstation.com/happenings-events/11304/property-fair-by-rehda--3-days-only.htm)
+](http://www.offerstation.com/whats-new/72275/new-burts-bees-outlet-at-gurney-plaza.htm)
 
 [
 
-## New MBO Cinemas 
+## P&G Open Minds Charity Programme
 
-](http://www.offerstation.com/whats-new/65949/new-mbo-cinemas.htm)
+](http://www.offerstation.com/happenings-events/71186/pandg-open-minds-charity-programme.htm)
+
+[
+
+## Dynasty Dragon Seafood Restaurant Crab Promotion
+
+](http://www.offerstation.com/dining-food-offers/72358/dynasty-dragon-seafood-restaurant-crab-promotion.htm)
+
+[
+
+## FREE Gift with MARIGOLD Milk
+
+](http://www.offerstation.com/offers-promotions/72662/free-gift-with-marigold-milk.htm)
+
+[
+
+## New Tesco Store in Kulim
+
+](http://www.offerstation.com/whats-new/71618/new-tesco-store-in-kulim.htm)
 
 FROM FACEBOOK
 
