@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224235024id_/http%3A//www.maxworkouts.com/index.php/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxworkouts.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517102331id_/http%3A//www.maxworkouts.com/privacy) for the most accurate reproduction.*
 
 # MAX WORKOUTS: Privacy Policy
 
@@ -30,7 +30,7 @@ This Privacy Policy is subject to change without notice. Please check back often
 
 **Contacting us**
 
-In summary, we use the information we collect on the site to make purchasing products and receiving information from us possible and to enhance your overall experience. We welcome your suggestions, ideas and opinions about how we can do a better job serving you. Please [contact us](http://www.maxworkouts.com/index.php/site/contact/) if you have any questions about the Privacy Policy or if you would like to provide feedback.
+In summary, we use the information we collect on the site to make purchasing products and receiving information from us possible and to enhance your overall experience. We welcome your suggestions, ideas and opinions about how we can do a better job serving you. Please [contact us](http://www.maxworkouts.com/contact/) if you have any questions about the Privacy Policy or if you would like to provide feedback.
 
 ## About The Author
 
