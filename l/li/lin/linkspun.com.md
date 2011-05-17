@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkspun.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222080309id_/http%3A//www.linkspun.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkspun.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518012300id_/http%3A//www.linkspun.com/privacy.php) for the most accurate reproduction.*
 
-# Linkspun | Browse thousands of adult websites for hardlink trades!
+# Linkspun | Hard Link Generation And Tracking.
 
 **What information do we collect?**
 
@@ -41,7 +41,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.linkspun.com/terms.html>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.linkspun.com/terms.php](https://web.archive.org/terms.php)
 
 **Your Consent**
 
