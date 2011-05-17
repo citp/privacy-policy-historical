@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timeoffmanager.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120040750id_/http%3A//www.timeoffmanager.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoffmanager.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517203340id_/http%3A//timeoffmanager.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Time Off Manager - Privacy Policy
+# Time-Off Manager - Terms of Service
 
 **Your Privacy**   
 TimeOffManager, ("TimeOffManager", "us" or "we"), has created this privacy policy (the "Privacy Policy") in order to disclose our information gathering and dissemination practices. We understand the importance that Internet users place on privacy and have designed our website with this in mind. We are also committed in protecting your privacy. We only use the information we collect about you to process orders and to provide support and upgrades for our products. Please read on for more details about our privacy policy. 
@@ -36,10 +36,10 @@ We do not sell, trade, or rent your personal information to others. This does no
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibilities for the content and activities of these linked sites. We seek to protect the integrity of our site and welcome any feedback about these websites. 
 
 **Terms and Conditions**  
-You may also visit our [Terms of Service](https://web.archive.org/web/20101120040750id_/http%3A//www.timeoffmanager.com/terms-service.aspx) page to establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+You may also visit our [Terms of Service](https://web.archive.org/web/20110517203340id_/http%3A//timeoffmanager.com/terms-service.aspx) page to establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
 **Your Consent**  
-By using our website, you consent to our [Privacy Policy](https://web.archive.org/web/20101120040750id_/http%3A//www.timeoffmanager.com/privacy-policy.aspx). 
+By using our website, you consent to our [Privacy Policy](https://web.archive.org/web/20110517203340id_/http%3A//timeoffmanager.com/privacy-policy.aspx). 
 
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
