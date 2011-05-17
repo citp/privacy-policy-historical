@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucomparehealthcare.com privacy policy that was archived on 2010-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101020072714id_/http%3A//www.ucomparehealthcare.com/about_us/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucomparehealthcare.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517111501id_/http%3A//www.ucomparehealthcare.com/about_us/privacy_policy.html) for the most accurate reproduction.*
 
 # UCompareHealthCare - Privacy Policy
 
@@ -43,6 +43,24 @@ When accessing the site, UCompareHealthCare places a cookie on the customer's ha
 
 In order to better serve our customers and sponsers, UCompareHealthCare gathers statistics regarding website usage. We collect information regarding how many users there are, when they visit the Site, what part of the country they are from, and what website referred them to UCompareHealthCare.com. This information does not involve the use of cookies. 
 
+### Your Ad Choices and Tracking by Third-Parties
+
+UCompareHealthCare.com uses DoubleClick, Google, and other third-party Ad Servers to serve and display Advertisements on UCompareHealthCare.com. UCompareHealthCare.com does not provide personally identifiable information to Ad Servers. These Ad Servers and Advertisers may use cookies, pixel trackers, or other internet technology to improve the effectiveness and targeting of Advertisements to you within UCompareHealthCare.com and any other place where that third-party is serving Advertisements. UCompareHealthCare.com does not have access to, nor control over, advertisers' or ad service providers' cookies or how they may be used or how they were collected. In many cases, this information could be used to show you ads based on your interests on other Web sites.
+
+You have options and choices about the collection and use of information by third-parties on our site:
+
+  1. For more information about these third-party Ad Networks and opting out of tracking, see:  
+<http://www.networkadvertising.org/managing/opt_out.asp>
+
+  2. For more information about interest-based information tracking and opting out, see:  
+<http://www.aboutads.info/choices/>
+
+  3. For information about disabling and controlling third-party cookies in your browser, see:  
+<http://www.aboutcookies.org/Default.aspx?page=1>
+
+
+
+
 ### Changes to this Privacy Policy Statement. 
 
 We re-evaluate this policy on an ongoing basis based on feedback from visitors. UCompareHealthCare reserves the right to unilaterally change its privacy policy. However, if there are any changes to the use of personally identifying information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website. 
@@ -58,4 +76,5 @@ UCompareHealthCare
 Suite 400  
 Marlborough, MA 01752
 
+Privacy Policy updated 1/4/2011  
 Privacy Policy updated 5/30/2008
