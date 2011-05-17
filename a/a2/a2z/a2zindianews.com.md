@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a2zindianews.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119073527id_/http%3A//a2zindianews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2zindianews.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517064424id_/http%3A//a2zindianews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | India News
 
