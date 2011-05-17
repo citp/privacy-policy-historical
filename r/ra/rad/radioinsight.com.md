@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioinsight.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127174514id_/http%3A//radioinsight.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioinsight.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517231900id_/http%3A//radioinsight.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – RadioInsight
 
