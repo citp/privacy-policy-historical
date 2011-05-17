@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatwestlife.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619093731id_/http%3A//www.greatwestlife.com/001/Home/ssLINK/S7_002503) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatwestlife.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517213141id_/http%3A//www.greatwestlife.com/001/Home/ssLINK/S7_002503) for the most accurate reproduction.*
 
 # Great-West Life | Legal
 
@@ -6,7 +6,7 @@ This Privacy Policy covers the treatment of personally identifiable information 
 
 ## Privacy and confidentiality
 
-Great-West Life is committed to respecting the privacy and confidentiality of information it receives, in accordance with Great-West Life’s [_Privacy Guidelines_](https://web.archive.org/web/20100619093731id_/http://www.greatwestlife.com/001/Home/Legal/ssLINK/5/81/s7_000650?blank), and applicable law. Great-West Life has established and will continue to maintain reasonable safeguards to protect the security and confidentiality of personal information. However, you acknowledge and confirm that the Internet is not a secure medium where privacy and confidentiality can be guaranteed and that complete security and confidentiality of transmissions to and from this site over the Internet is not possible at this time. Your confidential use of this site cannot be guaranteed and you acknowledge that your use of this site (including information you transmit to the site) may be subject to access or manipulation by, or disclosure to, third parties. Without limiting any other disclaimer herein, Great-West Life and its affiliates shall not be responsible or liable for any damages that you or any other person may suffer in connection with any such breach of privacy, confidentiality or security. 
+Great-West Life is committed to respecting the privacy and confidentiality of information it receives, in accordance with Great-West Life’s [_Privacy Guidelines_](https://web.archive.org/web/20110517213141id_/http://www.greatwestlife.com/001/Home/Legal/ssLINK/5/81/s7_000650?blank), and applicable law. Great-West Life has established and will continue to maintain reasonable safeguards to protect the security and confidentiality of personal information. However, you acknowledge and confirm that the Internet is not a secure medium where privacy and confidentiality can be guaranteed and that complete security and confidentiality of transmissions to and from this site over the Internet is not possible at this time. Your confidential use of this site cannot be guaranteed and you acknowledge that your use of this site (including information you transmit to the site) may be subject to access or manipulation by, or disclosure to, third parties. Without limiting any other disclaimer herein, Great-West Life and its affiliates shall not be responsible or liable for any damages that you or any other person may suffer in connection with any such breach of privacy, confidentiality or security. 
 
 ## Your personal information
 
@@ -37,7 +37,7 @@ The security of e-mail communication cannot be guaranteed. Any person wishing to
 
 Be cautious of e-mail and websites purporting to represent a legitimate company and that ask you to provide confidential or financial information. It is not Great-West Life’s practice to e-mail you to ask you to provide or confirm your PIN, password, or other confidential or financial information, other than as may occur in response to an inquiry from you. If you receive such a request, or have any concern as to the validity of an e-mail from Great-West Life, a website purporting to be a Great-West Life website, or our online security, please notify us immediately. Please attach any suspicious e-mail in its original form, or in the case of a website please include the URL (address of the website) in your notification.
 
-For information on various types of e-mail fraud please visit Public Safety Canada's website at [_www.publicsafety.gc.ca/prg/le/bs/phish-en.asp_](https://web.archive.org/001/Home/External/index.htm?url=http://www.publicsafety.gc.ca/prg/le/bs/phish-en.asp).
+For information on various types of e-mail fraud please visit Public Safety Canada's website at [_www.publicsafety.gc.ca/prg/le/bs/phish-eng.aspx_](https://web.archive.org/001/Home/External/index.htm?url=http://www.publicsafety.gc.ca/prg/le/bs/phish-eng.aspx).
 
 ## Cookies
 
@@ -55,7 +55,7 @@ Great-West Life collects some limited information about your connection to the I
 
 For a printable copy of our guidelines, download our
 
-  * [_Privacy Guidelines brochure_](https://web.archive.org/web/20100619093731id_/http://www.greatwestlife.com/001/Home/Legal/ssLINK/5/81/s7_000650?blank)
+  * [_Privacy Guidelines brochure_](https://web.archive.org/web/20110517213141id_/http://www.greatwestlife.com/001/Home/Legal/ssLINK/5/81/s7_000650?blank)
 
 
 
