@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustfax.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225130829id_/http%3A//www.trustfax.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustfax.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517205546id_/http%3A//www.trustfax.com/Privacy.html) for the most accurate reproduction.*
 
 # TrustFax
 
