@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookdirectrooms.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530200944id_/http%3A//www.bookdirectrooms.com/Privacy-And-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdirectrooms.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517215053id_/http%3A//www.bookdirectrooms.com/Privacy-And-Security) for the most accurate reproduction.*
 
 # Privacy And Security - BookDirectRooms.com
 
@@ -97,7 +97,7 @@ If you are dissatisfied with the outcome of your complaint, you may choose to es
 
 Commercial House, Commercial Street, Sheffield S1 2AT
 
-**E-mail:** info@eviivo.com
+ **E-mail:** info@eviivo.com
 
-**Telephone:** +44 (0)20 8576 5600  
-**Fax:** +44 (0)20 8576 5601
+ **Telephone:** +44 (0)20 8576 5600  
+ **Fax:** +44 (0)20 8576 5601
