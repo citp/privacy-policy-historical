@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527092248id_/http%3A//www.dcccd.edu/Privacy%2Band%2BSecurity%2BCommitment.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcccd.edu privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517203844id_/http%3A//www.dcccd.edu/Pages/Privacy%2520and%2520Security%2520Commitment.aspx) for the most accurate reproduction.*
 
-# DCCCD: Privacy and Security Commitment
+# Privacy and Security Commitment
 
 **Our Promise to You  
-**   
+**  
 Dallas County Community College District's (DCCCD) Privacy Commitment is based on two simple ideas. We promise to:
 
   * Comply with all the applicable local, state and federal laws and regulations; and 
@@ -70,7 +70,7 @@ Back to the top
 
 **Cookies and how they are used  
 **  
-We use [cookies](http://www.darwinmag.com/learn/curve/column.html?ArticleID=8) to:
+We use [cookies](http://www.netlingo.com/word/cookies.php) to:
 
   * Store visitors' preferences; 
   * Record session information; 
@@ -81,7 +81,7 @@ We use [cookies](http://www.darwinmag.com/learn/curve/column.html?ArticleID=8) t
 
 Back to the top
 
-**How to view your information**
+ **How to view your information**
 
 Currently enrolled (or recently enrolled) credit students who are registered at one of DCCCD's nine locations can obtain access to their personal information through eConnect, a secure web interface that requires you to enter your student identification number and a password. The following information is available to registered students:
 
@@ -108,7 +108,7 @@ Back to the top
 
 Currently enrolled (or recently enrolled students) credit students can correct their Student Information Profile and email address online through eConnect.
 
-If any of the remaining personal information in your student record contains an error, please visit the Registrar's Office and request that the error be corrected. Make sure you take a photo identification card with you. Dallas TeleCollege students should visit the Dallas TeleCollege [Registrar](http://telecollege.dcccd.edu/Admissions/GettingStarted/default.htm) website.
+If any of the remaining personal information in your student record contains an error, please visit the Registrar's Office and request that the error be corrected. Make sure you take a photo identification card with you. Dallas TeleCollege students should visit the [Dallas TeleCollege Registrar's Contact Us website](http://dallastelecollege.dcccd.edu/contactUs.html).
 
 Back to the top
 
@@ -122,4 +122,4 @@ Industry standard technologies like Secure Socket Layers (SSL) are used to prote
 Back to the top
 
   
-Please send comments or questions to [getanswers@dcccd.edu](mailto:getanswers@dcccd.edu). 
+Please send comments or questions to [DCCCD's Director of Internet Publishing](mailto:gemoss@dcccd.edu). 
