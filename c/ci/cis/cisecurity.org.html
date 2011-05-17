@@ -1,0 +1,380 @@
+<!--The following is the downloaded HTML source of the cisecurity.org privacy policy that was archived on 2011-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110517082123id_/http%3A//www.cisecurity.org/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/tier-1.dwt.cfm" codeOutsideHTMLIsLocked="false" --><head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<!-- InstanceBeginEditable name="doctitle" -->
+<title>Center for Internet Security</title>
+<!-- InstanceEndEditable -->
+	<meta http-equiv="content-language" content="en">
+	<meta name="language" content="en">
+	<meta name="keywords" content="Internet, Security, Security Benchmarks, MS-ISAC, Multistate Sharing and Analysis Center, Cybversecurity Workforce Development">
+	<meta name="description" content="The Center for Internet Security">
+	<meta name="author" content="The Center for Internet Security">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="../css/app.css" media="all">
+	
+	<script type="text/javascript" src="../scripts/jquery-1.5.2.min.js"></script>
+	<script type="text/javascript" src="../scripts/hover-intent.js"></script>
+	<script type="text/javascript" src="../scripts/global.js"></script>
+	<script type="text/javascript" src="../scripts/jquery-ui-1.8.11.custom.min.js"></script>
+	<script type="text/javascript" src="../scripts/jquery-equal-columns.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://www.cisecurity.org//css/custom-theme/jquery-ui-1.8.11.custom.css" media="all">
+
+
+<script type="text/javascript">
+	$(document).ready( function() {
+		$("body").prepend('<div id="header-bar"><div class="ui-widget-header"></div></div>');
+		$('.focus').focus();
+		$(".accordion").accordion({ header: "h3"});
+		$('.tabs').tabs({ selected: 0 });
+		$('.confirm').click( function() {
+			var text = $(this).attr("title");
+			if(!text.length){
+				text = $(this).html();
+				if($(this).is(":input")){
+					text = $(this).val();
+				}
+				text = "Please confirm you would like to: "+text;
+			}else{
+				text = "Are you sure you would like to " + text;
+			}
+			return confirm(text);
+		} );
+
+		//$(":input").addClass("ui-corner-all");
+		// any form elements that have the class hinted will show their title attribute whenever blank. be careful of submits as these values will come through
+		$("input.auto-hint").each(function(){
+			var hint = $(this).attr("title");
+			var size = $(this).attr("size");
+			var max_size = 80;
+			if(size == 0){
+				if(hint.length > max_size) $(this).attr("size",max_size)
+				else if(hint.length > 0) $(this).attr("size",hint.length);
+			}
+			$(this).blur(function() {
+				if(!$(this).val().length){
+					$(this).val($(this).attr("title"));
+					$(this).addClass("ui-hinted");
+				}
+			});
+			$(this).focus(function () {
+				$(this).removeClass("ui-hinted");
+				if($(this).val() == $(this).attr("title")){
+					$(this).val("");
+				}
+			});
+		}).blur();
+		
+		$('.datepicker').datepicker({
+			showOn: 'button'
+			,buttonImage: 'http://www.cisecurity.org/images/icons/calendar.gif'
+			,buttonImageOnly: true
+		});
+		
+		$(".ui-interactive").addClass("ui-state-default").addClass("ui-corner-all").hover(
+			function () {
+				$(this).addClass("ui-state-focus").removeClass("ui-state-default");
+			},
+			function () {
+				$(this).addClass("ui-state-default").removeClass("ui-state-focus");
+			}
+		);
+
+$('.button').hover(
+function() { $(this).addClass('ui-state-hover'); },
+function() { $(this).removeClass('ui-state-hover'); }
+);
+
+
+		$(".ui-row-drill-down").css("cursor","pointer").hover(
+			function () {
+				$(this).children().addClass("ui-state-focus");
+			}, 
+			function () {
+				$(this).children().removeClass("ui-state-focus");
+			}
+		).click(function (){
+			var link = $(this).attr("rel");
+			document.location.href = link;
+		});
+
+		$(".auto-submit").change(function () {
+			$(this).parents("form").submit();
+		});
+
+		$(".ui-padded").css("padding","0.5em");
+		//$("#header").hide().fadeIn("slow");
+		$(".auto-hide").addClass("ui-helper-hidden");
+
+		//$(".auto-mask-phone").mask("(999) 999-9999");
+		//$(".auto-mask-zip").mask("99999");
+		//$(".auto-mask-zip-9").mask("99999-9999");
+		$(':input[class|="reveal"]').click( function() {
+			var me = $(this).attr("id");
+			var classes = $(this).attr("class").split(" ") ;
+			var what = classes[0].replace("reveal-","");
+			var allreveals = what.split("-")[0];
+			$('li[id|="'+allreveals+'"]').hide();
+			$('#'+what+'').fadeIn();
+		});
+		// tablesorter may not be used everywhere adn this file is included in the error handler pages... if you uncomment this, make sure you add the link to the tablesorter plugin to the error handler pages and all templates
+		//$("table.tablesorter").tablesorter({widthFixed: true, widgets: ['zebra']});
+		
+		// setup content tables
+		$("#content table[class!='no-auto-format'] caption[class!='no-auto-format']").addClass("ui-state-focus").addClass("ui-corner-all");
+		$("#content table[class!='no-auto-format'] tr th[class!='no-auto-format']").addClass("ui-widget-header").addClass("ui-table-header-padding");
+		$("#content table[class!='no-auto-format'] tfoot[class!='no-auto-format']").addClass("ui-state-default");
+		//$("tbody th").addClass("ui-widget-header");
+		
+		$("#content fieldset").css("background","none").css("font-weight","normal").addClass("ui-state-focus").addClass("ui-padded").addClass("ui-corner-all");
+		$("#content fieldset legend").addClass("ui-state-focus").addClass("ui-padded").addClass("ui-corner-all");
+		$(":input.auto-tip").after('<span class="tip-display"></span>');
+		$(":input.auto-tip").change(function () {
+				var tip = $(this).next("span.tip-display");
+				var me = $(this).attr("id");
+				var option = $("#"+me+" option:selected");
+				tip.hide().text(option.attr("title"));
+				tip.fadeIn("slow");
+			}).change();
+
+		
+		
+			$("head").append('<link rel="alternate" type="application/atom+xml" title="Rss Feed" href="http://www.cisecurity.org/xml/cis-press.rss.xml" />');
+		
+			$("head").append('<link rel="shortcut icon" href="http://www.cisecurity.org/favicon.ico" type="image/x-icon" />');
+				
+		
+
+	} );
+
+	function debug(msg){
+	if($("#jquery-debug-text").length ==0){
+		$("body").append('<div id="jquery-debug-text"><textarea rows="20"></textarea></div>');
+	}
+	var current = $("#jquery-debug-text textarea").text();
+	if(current.length >0) current = current + "\n";
+	var msg = current + msg;
+	$("#jquery-debug-text textarea").text(msg);
+}
+
+</script>
+
+<style type="text/css">
+	#content a[href^="http://www.cisecurity.org/"]
+	,#content a[href^="http://msisac.cisecurity.org/"]
+	,#content a[href^="http://workforce.cisecurity.org/"]
+	,#content a[href^="http://benchmarks.cisecurity.org/"]
+		{margin-right: 0px;padding-right: 0px;background-image:none;}
+</style>
+	<!-- InstanceParam name="Nav" type="boolean" value="false" -->
+<style>
+		.internal .rightC {
+				width: 960px;
+		}
+		</style>
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable --><!-- InstanceParam name="Breadcrumbs" type="boolean" value="true" --><!-- InstanceParam name="Section" type="text" value="" --><!-- InstanceParam name="Tier1BreadcrumbText" type="text" value="" --><!-- InstanceParam name="Tier1BreadcrumbURL" type="URL" value="" --><!-- InstanceParam name="Tier2BreadcrumbText" type="text" value="" --><!-- InstanceParam name="Tier2BreadcrumbURL" type="URL" value="" --><!-- InstanceParam name="Tier3BreadcrumbText" type="text" value="" --><!-- InstanceParam name="Tier3BreadcrumbURL" type="URL" value="" --><!-- InstanceParam name="Tier4BreadcrumbText" type="text" value="" --><!-- InstanceParam name="Tier4BreadcrumbURL" type="URL" value="" -->
+<link rel="alternate" type="application/atom+xml" title="Rss Feed" href="http://www.cisecurity.org/xml/cis-press.rss.xml"><link rel="shortcut icon" href="http://www.cisecurity.org/favicon.ico" type="image/x-icon"></head>
+<body><div id="header-bar"><div class="ui-widget-header"></div></div>
+	<div id="global">
+		
+	
+	<div id="header">
+    <div class="square">
+      <a href="http://benchmarks.cisecurity.org/"><div class="orange"></div></a>
+      <a href="http://msisac.cisecurity.org/"><div class="red"></div></a>
+      <a href="http://workforce.cisecurity.org/"><div class="blue"></div></a>
+    </div>
+    <a href="http://www.cisecurity.org/index.cfm" title="link to Center for Internet Security Home Page"><img src="http://www.cisecurity.org/images/logo.png" alt="Center for Internet Security" name="logo" width="375" height="89" id="logo"></a>
+    <div class="rightBlock">
+      <div class="divisionContainer">
+					<div>
+						<a href="http://benchmarks.cisecurity.org/" title="Go to Security Benchmarks"><div style="width:106px"></div></a>
+						<a href="http://msisac.cisecurity.org/" title="Go to Multi-State Information Sharing &amp; Analysis Center"><div style="width:106px;background-position:-106px 0"></div></a>
+						<a href="http://workforce.cisecurity.org/" title="Go to Cybersecurity Workforce Development"><div style="width:82px;background-position:-212px 0"></div></a>
+					</div>
+			</div>
+      <div class="searchContainer">
+        <div><a href="http://www.cisecurity.org/about/contact/">Contact Us</a></div>
+        <form action="http://www.cisecurity.org/search/index.cfm" id="cse-search-box">
+          <div>
+            <input type="text" class="auto-hint ui-hinted" name="q" title="Search CIS Website" value="" style="background-image: none;">
+						<input type="hidden" name="cx" value="002442560611744690153:tf2w3ojvlbs">
+						<input type="hidden" name="cof" value="FORID:10">
+						<input type="hidden" name="ie" value="UTF-8">
+          </div>
+          <div>
+            <input type="submit" class="button ui-corner-all" value="GO" name="sa">
+          </div>
+        </form>
+				<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+				<script type="text/javascript">google.load("elements", "1", {packages: "transliteration"});</script>
+				<script type="text/javascript" src="http://www.google.com/cse/t13n?form=cse-search-box&amp;t13n_langs=en"></script>
+				<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+        <script type="text/javascript" charset="utf-8">
+					$(document).ready(function () {
+						$("#cse-search-box input[name='q']").css("background-image","none");
+					});
+				</script>
+      </div>
+    </div>
+  </div>
+	
+	
+		<ul id="top-nav">
+			
+    <li>
+      <div><a href="http://www.cisecurity.org/about/">About Us</a></div>
+      <ul style="display: none;">
+        
+  <li>
+    <a href="http://www.cisecurity.org/about/">Overview &amp; Mission</a>
+  </li>
+  <li>
+    <a href="http://www.cisecurity.org/about/message-from-ceo/">Message from CEO</a>
+  </li>
+  <li>
+    <a href="http://www.cisecurity.org/about/board-of-directors/">Board of Directors</a>
+  </li>
+  <li>
+    <a href="http://www.cisecurity.org/about/executive-staff/">Executive Staff</a>
+  </li>
+  <li>
+    <a href="http://www.cisecurity.org/about/news-room/">Newsroom</a>
+  </li>
+  <li>
+    <a href="http://www.cisecurity.org/about/contact/">Contact Us </a>
+  </li>
+
+      </ul>
+    </li>
+    <li class="divider">
+      |
+    </li>
+    <li>
+      <div><a href="http://www.cisecurity.org/membership/">Communities/Membership</a></div>
+			
+    </li>
+    <li class="divider">
+      |
+    </li>
+    <li>
+      <div><a href="http://www.cisecurity.org/resources-publications/">Resources &amp; Publications</a></div>
+			
+    </li>
+    <li class="divider">
+      |
+    </li>
+    <li>
+      <div><a href="http://www.cisecurity.org/training-events/">Training &amp; Events</a></div>
+			
+    </li>
+  
+		</ul>
+		
+		<div id="breadcrumbs"> <a href="../index.cfm">Home</a>     </div>
+		 
+  <div class="internal clearfix">
+    <div id="content" class="rightC clearfix"><!-- InstanceBeginEditable name="section" -->
+      <h1>Center for Internet Security Web Privacy Policy 
+	  </h1>
+      <p>Thank you for visiting the Center for Internet Security (CIS) website. <br>
+      This website is intended to make it easy and efficient to learn about and interact with CIS and its three divisions:  Cybersecurity Workforce Development, MS-ISAC and Security Benchmarks.</p>
+      <p>The mission of CIS is to improve and enhance Internet security, so we are sensitive to the privacy issues on the Internet and recognize that visitors to this website are concerned about the type of information we collect and how we use it.  CIS is committed to preserving your privacy when visiting this website, and this policy discusses our practices.</p>
+      <p>This policy covers both: (1) personal information, which is information that can be identified to a particular individual because of a name, number, symbol, mark or other indicator; and (2) non-personal information that does not identify a particular individual. </p>
+      <p>CIS does not collect any personal information about you during your visit to this website unless you provide that information voluntarily by sending an email or by initiating an online transaction, such as a survey, registration or order form. </p>
+      <p>If you do voluntarily provide personal information, your email address and the entire contents of your email message and other information you provide are retained. Persons downloading or using CIS products are asked for certain personal information.  We use that information in the list of CIS Security Benchmarks members that we publish on our website which, in the case of individual members, includes names and organizational affiliations. </p>
+      <p>We assume when you provide personal information to us that you agree to its disclosure in connection with CIS activities.  If you do not wish to have identifying information disclosed, we honor all requests to omit individual or organization names from website listings. If such a request is made, identifying information will not be disclosed by CIS unless we are legally required to do so.</p>
+      <p>If you do not use this website to request services or information, you may receive them by other means (such as through your membership in a group to which we may send correspondence). Your ability to view or download most information available to the public on this website will not be affected. </p>
+      <p>If you provide personal information to CIS, our employees who have access to this information are required to follow appropriate procedures in handling and disclosing your information. All personal information about you or your organization that we receive via fax or mail is physically protected.<br>
+      </p>
+      <p>In addition, CIS has implemented procedures to safeguard the integrity of its information technology assets, including but not limited to authentication, monitoring and auditing.  These security measures have been integrated into the design, implementation and day-to-day operations of this website as part of our continuing commitment to the security of electronic content as well as the electronic transmission of information. </p>
+      <p>We do not sell or distribute email addresses or other personal information to others for their commercial use.</p>
+      <p>We also collect some information that is not considered to be personal information. </p>
+      <p>When visiting this website the following non-personal information about your visit is automatically collected and stored:</p>
+      <ul>
+        <li>
+          The Internet Protocol (IP) address and domain name of your Internet service provider.  The IP address is the numerical identifier assigned either to your Internet service provider or directly to your computer.  It is used to direct information to your computer over the Internet.
+        </li>
+        <li>
+          The URL (website address) of the website from which you linked to this site;
+        </li>
+        <li>
+          The type of browser and operating system you use when you visit this site;
+        </li>
+        <li>
+          The date and time when you visit this site;
+        </li>
+        <li>
+          The webpage and services you access at this site;
+        </li>
+        <li>
+          The forms that you download from this website.<br>
+        </li>
+      </ul>
+      <p>We use non-personal information to find out how people use this website, to help us understand which types of information are of most interest to our visitors so that we can improve this website's content, to assess system performance and to identify problem areas. </p>
+      <p>We retain the information collected for a period of  years and then destroy it.</p>
+      <p><strong>Cookies</strong></p>
+      <p>Cookies are text files stored by your web browser in order to record information about you or your activities on a website.  Using cookies for this purpose is a common, generally accepted practice on the Internet.  We may use temporary cookies to enhance, customize, or enable your visit to this website.  Temporary cookies do not contain personal information that can be used to identify you, do not compromise your privacy or security, and are erased when you close your browser.</p>
+      <p>Certain features on this website may require you to fill in a registration form used to personalize your user experience.  Such features may store a persistent cookie on your computer's hard drive that is not deleted when you close your browser.  A persistent cookie allows us to recognize you on your next visit and tailor your user experience to your needs and interests.</p>
+      <p>If the program you use to access this site is set to refuse new cookies or delete existing cookies, your ability to use some of the features on this website may be limited.</p>
+      <p><strong>Information obtained by Google Analytics</strong></p>
+      <p>This website uses the Google Analytics web analysis service. Google Analytics stores a persistent cookie on your hard drive.   The information in this cookie (including your IP address) is transmitted to Google and stored on Google servers.  Google uses this information to anonymously analyze your use of the website, compile reports on your website activity for site operators, and provide other services related to your website activity and Internet usage.  Google may transfer this information to third parties where required to do so by law or where those third parties process the information on Google's behalf.  Google will not associate your IP address with any other data held by Google.</p>
+      <p>By using this website, you consent to Google's processing of data about you. </p>
+      <p><strong>Other Websites</strong></p>
+      <p>This website may provide links to websites maintained by other organizations.  A link to another website does not constitute an endorsement of the content, viewpoint, accuracy, opinions, policies, products or services of that other website.  Once you navigate from this website to another site, you are subject to the terms and conditions of that site, including the provisions of its privacy policy.</p>
+      <p><strong>Links to CIS Website</strong></p>
+      <p>We welcome links to the CIS website.  Although we prefer that you link to our homepage, you may create links to specific pages within our website.  Any individual or organization linking to CIS's website must comply with all applicable laws and with the following conditions:</p>
+      <p>Unless CIS specifically authorizes you to do so, you may not imply that CIS endorses you, your organization, or your products;</p>
+      <ul>
+        <li>
+          You may not misrepresent your, or your organization's, relationship with CIS;
+        </li>
+        <li>
+          
+          You may not present false information about CIS;
+        </li>
+        <li>
+          
+          You may not link to the CIS website if your or your organization's website contains content that could be construed as distasteful, offensive or controversial, or is not appropriate for viewing by all age groups.
+        </li>
+        <li>
+          
+          CIS may change content on our site at any time, causing other organizations to have a broken or incorrect link.
+        </li>
+        <li>
+          CIS is not responsible for misdirected links from external websites. <br>
+        </li>
+      </ul>
+      <p>&nbsp;</p>
+      <p>The information provided in this privacy policy cannot be interpreted as business, legal or other advice, or as warranting fail-proof security for information provided through this website.  Information provided on this website is intended to allow the public access to information related to CIS.  While all attempts are made to provide accurate, current and reliable information, there is possibility of human and/or mechanical error. </p>
+      <p>Therefore, CIS makes no representations or promises as to the accuracy, completeness, currency or suitability of the information provided on this website and denies any express or implied warranty as to such information. This privacy policy is not intended to and does not create any contractual or other legal rights for or on behalf of any party.</p>
+      <p>This privacy policy applies only to CIS websites.  CIS reserves the right to change this privacy policy at any time and will post revisions on this website. </p>
+	  <!-- InstanceEndEditable --></div>
+     </div>
+  
+	</div>
+	<div id="footer">
+  <div class="footerC">
+    <div> <span>Center for Internet Security</span> | <span>31 Tech Valley Drive</span> | <span>East Greenbush, NY 12061</span> | <span>518.266.3460</span> | <a href="mailto:contact@cisecurity.org">Contact CIS</a> </div>
+    <div>  <a href="http://msisac.cisecurity.org/">Multi-State ISAC</a> | <a href="http://workforce.cisecurity.org/">Cybersecurity Workforce Development</a> | <a href="http://benchmarks.cisecurity.org/">Security Benchmarks</a> | <a href="http://www.cisecurity.org/privacy-policy/">Privacy Policy</a> |  <a href="http://www.cisecurity.org/about/news-room">Newsroom</a> | <a href="http://www.cisecurity.org/about/employment-opportunities">Employment Opportunities</a>  </div>
+    <div id="reg">® 2011 Center for Internet Security. All rights reserved.</div>
+  </div>
+</div>
+
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		try {
+		var pageTracker = _gat._getTracker("UA-4446498-7");
+		pageTracker._trackPageview();
+		} catch(err) {}
+	</script>
+
+
+<!-- InstanceEnd -->
+</body></html>
