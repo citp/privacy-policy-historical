@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extasycams.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216065738id_/http%3A//www.extasycams.com/index.php%3Flang%3Deng%26ssid%3D%26wbid%3D%26refid%3Dextasycams.com%26mref%3D%26Submit%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extasycams.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517082132id_/http%3A//extasycams.com/index.php%3Flang%3Deng%26ssid%3D%26wbid%3D%26refid%3Dextasycams.com%26mref%3D%26Submit%3Dprivacy) for the most accurate reproduction.*
 
-# Cheap Adult Cams, live webcam girls chat and cam2cam.
+# ExtasyCams - Cheapest Live Adult Cams
 
 How ExtasyCams Protects Your Privacy  
 Summary:
