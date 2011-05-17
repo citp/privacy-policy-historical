@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the originalpenguin.com privacy policy that was archived on 2009-10-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091019025708id_/http%3A//www.originalpenguin.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the originalpenguin.com privacy policy that was archived on 2011-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110517220532id_/http%3A//www.originalpenguin.com/Customer-Service/Privacy-Policy/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en-US"><head>
 <title>
@@ -7,7 +7,7 @@
 
 
 
-
+Customer Care - Privacy Policy | The Official Online Store for Original Penguin®
 
 
 
@@ -33,55 +33,188 @@
 
 
 </title>
+
+
+
+<link rel="canonical" href="http://www.originalpenguin.com/customer-service/privacy-policy/page/privacy/">
+
+
+
+
+
 <meta name="keywords" content="">
 
 <meta name="description" content="">
-
 <meta http-equiv="X-UA-Compatible" content="IE=7">
 
 
 
+<!--<meta property="og:title" content=""/>-->
+<meta property="og:site_name" content="OriginalPenguin.com">
+<meta property="og:image" content="">
+<meta property="og:type" content="product_service">
+<meta property="fb:admins" content="100000514910174,1748777985">
+<meta property="fb:app_id" content="124172764275297">
+<!--<meta property="og:url" content="<venda_dispview invt=>"/>-->
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<style type="text/css" media="screen, projector">
-@import "http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/base.css";@import "http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/layout.css";@import "http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/content.css";@import "http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/colourscheme.css";@import "http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/external/yui/container-skin.css";
-</style>
-<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/print.css" type="text/css" media="print">
+<script type="text/javascript" src="/content/ebiz/originalpenguin/page/changestyle/jquery-1.4.3.min.js"></script>
+<script type="text/javascript" src="/content/ebiz/originalpenguin/page/changestyle/jquery.lazyload.js"></script>
+<script>
+var expDays = 9999;
+var standardStyle = '2';
+var nameOfCookie = 'switchstyle'; 
+var urlToCSSDirectory = '/content/ebiz/originalpenguin/page/changestyle/'; 
+
+var ScreenCSS_1 = 'style1.css';
+var ScreenCSS_2 = 'style2.css';
+
+
+/**********************************************************************************/
+function switchStyleOfUser(){
+var mobiledetection = GetCookie(nameOfCookie);
+if (mobiledetection == null) {
+mobiledetection = standardStyle;
+}
+if (mobiledetection == "1") { 
+document.write('<meta name="viewport" content="width= 850, user-scalable=1;" />');
+document.write('<link rel="stylesheet" type"text/css" href="' + urlToCSSDirectory + ScreenCSS_1 + '" media="screen">');
+document.write('<style>#wrapper, #checkoutwrapper { min-width: 800px; overflow:hidden !important }</style>');
+document.write('<style>#content-default_nocoltwothree, #content-search, #content-default_nocolthree, { min-width: 800px; overflow:hidden !important }</style>');
+document.write('<style>#wrapper, #checkoutwrapper { border-top:3px solid #272A39; }</style>');
+document.write('<style>.Lcat_headerright .Lcat_headersecond{ background-color:#272a39; background-image: url(/content/ebiz/originalpenguin/resources/images/opg-shopping-bag-icon.png); background-position: left bottom; background-repeat: no-repeat; float:right; padding:2px 7px 2px 16px; *padding-bottom:3px; width:209px; margin:0 0 0 15px;overflow:hidden; }</style>');
+document.write('<style>.Lcat_headerright .Lcat_headersecond h2{float:left;text-align:left; }</style>');
+$('.disp_mobile, .disp_mobile_ftr').empty().remove();
+}
+if (mobiledetection == "2") { 
+document.write('<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>');
+document.write('<meta name="apple-mobile-web-app-capable" content="yes" />');
+document.write('<meta name="format-detection" content="telephone=no" />');
+document.write('<link rel="stylesheet" type"text/css" href="' + urlToCSSDirectory + ScreenCSS_2 + '" media="screen">');
+$('#productdetail .productdetailright .desc, .nomobile, .menNavAd, #catdesc, .Lcat_headerleft, .mainlogo, .Lcat_headersecond h2, .Lcat_headersecond h3, .header-support, .Lcat_headerfirst, .Lcat_headerpromo, #productdetail .productdetailright .opglikes, #productdetail .productdetailright .qtyandbutton .quantity, .prReviewEngine, #col-one, .checkoutR, .checkoutorcfR, .checkoutorfnR, .nomobile_ftr, #product_rr, #cart_rr').empty().remove();
+$('[name|="banner"]').empty().remove();
+}
+
+
+var mobiledetection = "";
+return mobiledetection;
+}
+
+var exp = new Date(); 
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+
+function getCookieVal (offset) {  
+var endstr = document.cookie.indexOf (";", offset);  
+if (endstr == -1)    
+endstr = document.cookie.length;  
+return unescape(document.cookie.substring(offset, endstr));
+}
+
+function GetCookie (name) {  
+var arg = name + "=";  
+var alen = arg.length;  
+var clen = document.cookie.length;  
+var i = 0;  
+while (i < clen) {    
+var j = i + alen;    
+if (document.cookie.substring(i, j) == arg)      
+return getCookieVal (j);    
+i = document.cookie.indexOf(" ", i) + 1;    
+if (i == 0) break;   
+}  
+return null;
+}
+
+function SetCookie (name, value) {
+var argv = SetCookie.arguments;  
+var argc = SetCookie.arguments.length;  
+var expires = (argc > 2) ? argv[2] : null;  
+var path = "/";  
+var domain = (argc > 4) ? argv[4] : null;  
+var secure = (argc > 5) ? argv[5] : false;  
+document.cookie = name + "=" + escape (value) + 
+((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + ("; path=" + "/") +  
+((domain == null) ? "" : ("; domain=" + domain)) +    
+((secure == true) ? "; secure" : "");
+}
+
+function DeleteCookie (name) {  
+var exp = new Date();  
+exp.setTime (exp.getTime() - 1);  
+var cval = GetCookie (name);  
+document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+}
+
+function doRefresh(){
+location.reload();
+}
+if ( navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i))
+{
+ switchStyleOfUser();
+ }
+ 
+	else if ( navigator.appVersion.indexOf(/Win/) || navigator.appVersion.indexOf(/Mac/) || navigator.appVersion.indexOf(/X11/) || navigator.appVersion.indexOf(/Linux/))
+	{
+		document.write("<script>$(\'.disp_mobile,.disp_mobile_return, #productdetail .productdetailleft .desc\').empty().remove();<\/script>");
+		document.write("<link rel=\'stylesheet\' type'text/css\' href=\'/content/ebiz/originalpenguin/page/changestyle/style1.css\' media=\'screen\'>");
+	};
+if ( navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/IEMobile/i))
+{
+ switchStyleOfUser();        
+}
+</script><script>$('.disp_mobile,.disp_mobile_return, #productdetail .productdetailleft .desc').empty().remove();</script><link rel="stylesheet" type'text="" css'="" href="/content/ebiz/originalpenguin/page/changestyle/style1.css" media="screen">
+	
+		<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/base.css" type="text/css" media="screen, projector">
+	
+	
+
+	
+		<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/layout.css" type="text/css" media="screen, projector">
+	
+	
+<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/content_a.css" type="text/css" media="">
+
+	
+		<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/colourscheme.css" type="text/css" media="screen, projector">
+	
+	
+
+	
+		<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/external/yui/container-skin.css" type="text/css" media="screen, projector">
+	
+	
 
 
 
 <!-- Internet Explorer 6 only-->
 <!--[if IE 6]>
-<style type="text/css" media="screen, projector">
-	@import "http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/ie6.css";
-</style>
-<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/ie6-print.css" type="text/css" media="print">
+	<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/ie6.css" type="text/css" media="screen, projector">
+	<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/ie6-print.css" type="text/css" media="print">
 <![endif]-->
 <!-- Internet Explorer 7 only-->
 <!--[if IE 7]>
-<style type="text/css" media="screen, projector">
-	@import "http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/ie7.css";
-</style>
-<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/ie7-print.css" type="text/css" media="print">
+	<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/ie7.css" type="text/css" media="screen, projector">
+	<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/ie7-print.css" type="text/css" media="print">
 <![endif]-->
 <!-- Internet Explorer 8 only-->
 <!--[if IE 8.000]>
-<style type="text/css" media="screen, projector">
-	@import "http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/ie8.css";
-</style>
-<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/ie8-print.css" type="text/css" media="print">
+	<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/ie8.css" type="text/css" media="screen, projector">
+	<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/ie8-print.css" type="text/css" media="print">
 <![endif]-->
 
+<link rel="stylesheet" href="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/css/print.css" type="text/css" media="print">
+
+ 
+<meta name="google-site-verification" content="zXaqKc_Aq-BnxJY1hmBBTTAOMcvR6IBKvIhUTUq81Tc"><script type="text/javascript" src="/content/ebiz/originalpenguin/resources/foresee/foresee-trigger.js&#10;"></script>
+
+
+
+ 
  
 
 
 
- 
- 
 
-
-
-
-<script src="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/js/minified/6f119e79fd36a7923d867872503d04a5.js?1255121708"></script> 
+<script src="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/js/minified/5bbfb30061c1b8e7f5a3c80db64143c9.js?1305321570"></script> 
 
 
 <!--[if lt IE 7.]>
@@ -117,13 +250,13 @@
 
 
 
-</head>
+<script src="/content/ebiz/originalpenguin/resources/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
 <body id="mainlayout-default-nocoltwothree">
 
 
 
 
-<noscript><p id="noscript">This website requires JavaScript to be enabled if you wish to place an order online. Please enable JavaScript or upgrade your browser.<a href="http://www.originalpenguin.com/page/noscript">More information.</a></p></noscript>
+<noscript><p id="noscript">This website requires JavaScript to be enabled if you wish to place an order online. Please enable JavaScript or upgrade your browser.<a href="http://www.originalpenguin.com/page/noscript/">More information.</a></p></noscript>
 
 
 <p class="re-waiHide"><a href="#content">Skip to content</a></p>
@@ -133,40 +266,185 @@
 
 <!-- start header -->
 <div id="header">
-<div class="Lcat_header"><div class="Lcat_headerleft"><style>
-.finduson, .facebook, .twitter {float:left;}
-.facebook, .twitter {padding-bottom:3px; padding-top:3px; margin-right:2px;}
+<div class="Lcat_header"><div class="Lcat_headercenter">
+	
+	<div class="Linternalimage mainlogo"><a href="http://www.originalpenguin.com/" title="Original Penguin"><img src="http://www.originalpenguin.com/content/ebiz/originalpenguin/element/mainlogo/opg_logo_.png" border="0" name="image" alt="Original Penguin"></a></div>
+
+
+</div><div class="Lcat_headerright"><div class="Lcat_headersecond"><h2><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22" id="showminicart">SHOPPING BAG</a></h2>
+<ul class="items_empty">
+	<li class="items"><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22" id="minicart_items">(<span id="updateItems">0</span> Items)</a></li>
+	<li class="total"><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22" id="minicart_total"><span id="updateTotal">$0.00</span></a></li>
+</ul>
+<h3><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22">CHECK OUT</a></h3></div><div class="Lcat_headerthrid"><ul class="Lustypelinks myaccount" id="ustypelinks">
+	
+	
+	
+	
+</ul>
+
+<ul class="Lustypelinks signin" id="ustypelinks">
+	
+	
+	<li class="login"><a href="https://www.originalpenguin.com/bin/venda?ex=co_wizr-register&amp;bsref=originalpenguin" id="Lustype_loginlink">SIGN IN</a></li>
+	
+</ul>
+
+<style>
+#admin {display:none}
+.header-support { color:#272a39 !important; float:right; font-size:10px; font-weight:bold; padding-top:3px;; padding-right:15px }
+.header-sp-link  { color:#272a39 !important; padding-right:5px; padding-left:5px }
 </style>
-<div>
-<div class="finduson"><img src="/content/ebiz/originalpenguin/page/finduson/finduson.png" alt="Find us on | Facebook, Twitter and Youtube" width="130" height="16" border="0" usemap="#finduson">
-<map name="finduson">
-  <area shape="rect" coords="72,0,88,16" href="http://www.facebook.com/pages/Original-Penguin-USA/75915831368" target="_blank" alt="Original Penguin on Facebook" title="Become a fan of our Original Penguin Facebook page!">
-  <area shape="rect" coords="93,0,109,16" href="https://twitter.com/OriginalPenguin" target="_blank" alt="Original Penguin on Twitter" title="Stay in touch with Original Penguin on Twitter!">
-  <area shape="rect" coords="114,0,130,16" href="http://www.youtube.com/originalpenguintv" target="_blank" alt="Original Penguin on YouTube" title="Take a peak into Original Penguin behind the scene’s videos!">
-</map>
+
+
+<div class="header-support">
+<a href="#" onclick="window.open('https://admin.instantservice.com/links/7565/41823','custclient','width=600,height=324,scrollbars=0'); return false;" class="header-sp-link">LIVE CHAT</a>
+|
+<a href="http://www.originalpenguin.com/customer-service/contact-us/page/customercare/" class="header-sp-link">SUPPORT</a> | <span style="padding-left:5px">1.866.OPG.TRUE</span></div></div><div class="Lcat_headerfirst"><p class="Lwelcome welcomemsg" id="welcome">WELCOME GUEST</p></div><div class="Lcat_headerforth">
+
+<div id="cartwrapper">
+<div class="Lminicart_detail" id="minicart_element">
+<h2><span></span><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22">EDIT SHOPPING BAG</a></h2>
+
+
+
+
+
+<ul id="minicart_totals" class="items_empty">
+	<li class="items"><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22"><span id="updatemdItems">0</span>&nbsp;ITEMs</a></li>
+	<li class="total"><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22">SUBTOTAL:<span id="updatemdTotal">$0.00</span></a></li>
+</ul>
+
+
+
+
+<p>Your shopping bag is empty.</p>
+
+
+<ul id="minicart_links">
+<li class="viewbasket"><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22">EDIT SHOPPING BAG</a></li>
+<li class="checkout">
+
+
+<a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22"></a>
+
+</li>
+</ul>
+
 </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">#cartwrapper {position:absolute;left:0px;top:-5000px;width:1px;overflow:hidden;}</style>
+
+
+<div id="tag-elxtdraggable" style="display:none;">1</div>
+<div id="tag-elxtfade" style="display:none;">1</div>
+<div id="tag-elxtscroll" style="display:none;"></div>
+<div id="tag-elxtheader" style="display:none;">1</div>
+<div id="tag-elxtnopopupadded" style="display:none;"></div>
+<div id="tag-elxthighlight" style="display:none;">1</div>
+<div id="tag-elxtwidth" style="display:none;">300</div>
+<div id="tag-elxtmouseover" style="display:none;"></div>
+<div id="tag-elxtautoclose" style="display:none;"></div>
+<div id="tag-elxtnoreload" style="display:none;">1</div>
+<div id="tag-elxtscrolledheight" style="display:none;"></div>
+
+<div id="tag-elxtclose" style="display:none;">minicart-close</div>
+<div id="tag-elxtheadertext" style="display:none;"><span>Shopping Bag</span></div>
+<div id="tag-elxtloadingmessage" style="display:none;">Please wait while your shopping basket loads.</div>
+<div id="tag-elxthighlightbgrstart" style="display:none;">#ccc</div>
+<div id="tag-elxthighlightbgrend" style="display:none;">#fff</div>
+<div id="tag-elxthighlightduration" style="display:none;">3</div>
+<div id="tag-elxteffectsduration" style="display:none;">.5</div>
+<div id="tag-addedmsg" style="display:none;"></div>
+<div id="tag-bsref" style="display:none;">originalpenguin</div>
+<div id="tag-codehttp" style="display:none;">http://www.originalpenguin.com/bin/venda</div>
+<div id="tag-elxtitemspricestart" style="display:none;"></div>
+<div id="tag-elxtitemspriceend" style="display:none;"></div>
+<div id="tag-elxtitemspricebgrstart" style="display:none;"></div>
+<div id="tag-elxtitemspricebgrend" style="display:none;"></div>
+<div id="tag-elxtitemspriceduration" style="display:none;">3</div>
+<div id="tag-elxtscrolledheightpad" style="display:none;">0</div>
 <script type="text/javascript">
-<!-- 
+
+	if (typeof Venda.Widget.MinicartPopup != "undefined" || Venda.Widget.MinicartPopup) {
+	Venda.Widget.MinicartPopup.create(['minicart-close', 'showminicart'],
+ 	{
+		draggable:		document.getElementById('tag-elxtdraggable').innerHTML,
+		fade:			document.getElementById('tag-elxtfade').innerHTML,
+		scroll:			document.getElementById('tag-elxtscroll').innerHTML,
+		nopopupadded:	document.getElementById('tag-elxtnopopupadded').innerHTML,
+		header:			document.getElementById('tag-elxtheader').innerHTML,
+		highlight:		document.getElementById('tag-elxthighlight').innerHTML,
+		width:			document.getElementById('tag-elxtwidth').innerHTML,
+		mouseover:		document.getElementById('tag-elxtmouseover').innerHTML,
+		mouseover:		document.getElementById('tag-elxtmouseover').innerHTML,
+		milliseconds:	document.getElementById('tag-elxtautoclose').innerHTML,
+		noreload:		document.getElementById('tag-elxtnoreload').innerHTML,
+		relativeHeight:	document.getElementById('tag-elxtscrolledheight').innerHTML
+		}, 
+	{
+		effectsduration:	document.getElementById('tag-elxteffectsduration').innerHTML,
+		close:				document.getElementById('tag-elxtclose').innerHTML,
+		headertext: 		document.getElementById('tag-elxtheadertext').innerHTML,
+		loadingmessage: 	document.getElementById('tag-elxtloadingmessage').innerHTML,
+		highlightbgrstart:	document.getElementById('tag-elxthighlightbgrstart').innerHTML,
+		highlightbgrend:	document.getElementById('tag-elxthighlightbgrend').innerHTML,
+		highlightduration:	document.getElementById('tag-elxthighlightduration').innerHTML,
+		addedsku:			document.getElementById('tag-addedmsg').innerHTML,
+		bsref:				document.getElementById('tag-bsref').innerHTML,
+		formaction:			document.getElementById('tag-codehttp').innerHTML,
+		fromcolor:			document.getElementById('tag-elxtitemspricestart').innerHTML,
+		tocolor:			document.getElementById('tag-elxtitemspriceend').innerHTML,
+		frombgrcolor:		document.getElementById('tag-elxtitemspricebgrstart').innerHTML,
+		tobgrcolor:			document.getElementById('tag-elxtitemspricebgrend').innerHTML,
+		fromtoduration:		document.getElementById('tag-elxtitemspriceduration').innerHTML,
+		relativeHeightPad:	document.getElementById('tag-elxtscrolledheightpad').innerHTML
+	});
+};
+</script>
+<div id="minicart_detail"></div>
+</div></div><div class="Lcat_headerpromo"></div><div class="Lcat_headerleft"><script type="text/javascript">
+<!--
 function checkFormGN() {
 var searchForm = document.formlocaytasearch;
 var hasValue=0;
 
-    for(i=0;i<(searchForm.elements.length);i++)
-    {
-    	if((searchForm.elements[i].type == "select-one") && (searchForm.elements[i].options[searchForm.elements[i].selectedIndex].value!="")){
-    		hasValue=1;
-    	}
-    	else if((searchForm.elements[i].type == "text") && (searchForm.elements[i].value!="")){
-    		hasValue=1;
-       	}
+for(i=0;i<(searchForm.elements.length);i++){
+	if((searchForm.elements[i].type == "select-one") && (searchForm.elements[i].options[searchForm.elements[i].selectedIndex].value!="")){
+		hasValue=1;
+	}else if((searchForm.elements[i].type == "text") && (searchForm.elements[i].value!="")){
+		hasValue=1;
 	}
-	
+}
+
 if(hasValue!=1){
-	alert("Please enter a search query."); 
+	alert("Please enter a search query.");
 	searchForm.termtextkeywordsearch.focus();
 	} else { searchForm.submit(); }
-}	
+}
 
 function checkFieldGN(formName, field, defaultStr) {
 	if (eval('document.'+formName+'.'+field+'.value=="'+defaultStr+'"')) {
@@ -216,188 +494,855 @@ function checkFieldGN(formName, field, defaultStr) {
 </form>
 
 </div>
-<br class="clear-all"></div><div class="Lcat_headerright"><div class="Lcat_headerfirst"><p class="Lwelcome welcomemsg" id="welcome"></p></div><div class="Lcat_headersecond"><br class="clear-all"><h2><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22" id="showminicart">SHOPPING BAG</a></h2>
-<ul class="items_empty">
-	<li class="items"><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22" id="minicart_items">(<span id="updateItems">0</span> Items)</a></li>
-	<li class="total"><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22" id="minicart_total"><span id="updateTotal">$0.00</span></a></li>
-</ul>
-<h3><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22">CHECK OUT</a></h3></div><div class="Lcat_headerthrid"><br class="clear-all">
-	
-	<div class="Linternalimage orderstatus"><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-ordlookup&amp;bsref=perryellis&amp;template=wz_orpo-screen&amp;layout=myaccount" title="ORDER STATUS">ORDER STATUS</a></div>
+</div><div class="Lcat_headerbtm"><script type="text/javascript" src="/content/ebiz/originalpenguin/page/changestyle/jquery-1.4.3.min.js"></script>
+<script type="text/javascript" src="/content/ebiz/originalpenguin/page/changestyle/jquery.lazyload.js"></script>
+<script>
+var expDays = 9999;
+var standardStyle = '2';
+var nameOfCookie = 'switchstyle'; 
+var urlToCSSDirectory = '/content/ebiz/originalpenguin/page/changestyle/'; 
+
+var ScreenCSS_1 = 'style1.css';
+var ScreenCSS_2 = 'style2.css';
 
 
-<ul class="Lustypelinks myaccount" id="ustypelinks">
-	
-	
-	
-	
-</ul>
-
-<ul class="Lustypelinks signin" id="ustypelinks">
-	
-	
-	<li class="login"><a href="https://www.originalpenguin.com/bin/venda?ex=co_wizr-register&amp;bsref=originalpenguin" id="Lustype_loginlink">SIGN IN</a></li>
-	
-</ul>
-
-</div><div class="Lcat_headerforth">
-
-<div id="cartwrapper">
-<div class="Lminicart_detail" id="minicart_element">
-<h2><span></span><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22">EDIT SHOPPING BAG</a></h2>
-
-
-
-
-
-<ul id="minicart_totals" class="items_empty">
-	<li class="items"><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22"><span id="updatemdItems">0</span>&nbsp;ITEMs</a></li>
-	<li class="total"><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22">TOTAL:<span id="updatemdTotal">$0.00</span></a></li>
-</ul>
+/**********************************************************************************/
+function switchStyleOfUser(){
+var mobiledetection = GetCookie(nameOfCookie);
+if (mobiledetection == null) {
+mobiledetection = standardStyle;
+}
+if (mobiledetection == "1") { 
+document.write('<meta name="viewport" content="width= 850, user-scalable=1;" />');
+document.write('<link rel="stylesheet" type"text/css" href="' + urlToCSSDirectory + ScreenCSS_1 + '" media="screen">');
+document.write('<style>#wrapper, #checkoutwrapper { min-width: 800px; overflow:hidden !important }</style>');
+document.write('<style>#content-default_nocoltwothree, #content-search, #content-default_nocolthree, { min-width: 800px; overflow:hidden !important }</style>');
+document.write('<style>#wrapper, #checkoutwrapper { border-top:3px solid #272A39; }</style>');
+document.write('<style>.Lcat_headerright .Lcat_headersecond{ background-color:#272a39; background-image: url(/content/ebiz/originalpenguin/resources/images/opg-shopping-bag-icon.png); background-position: left bottom; background-repeat: no-repeat; float:right; padding:2px 7px 2px 16px; *padding-bottom:3px; width:209px; margin:0 0 0 15px;overflow:hidden; }</style>');
+document.write('<style>.Lcat_headerright .Lcat_headersecond h2{float:left;text-align:left; }</style>');
+$('.disp_mobile, .disp_mobile_ftr').empty().remove();
+}
+if (mobiledetection == "2") { 
+document.write('<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>');
+document.write('<meta name="apple-mobile-web-app-capable" content="yes" />');
+document.write('<meta name="format-detection" content="telephone=no" />');
+document.write('<link rel="stylesheet" type"text/css" href="' + urlToCSSDirectory + ScreenCSS_2 + '" media="screen">');
+$('#productdetail .productdetailright .desc, .nomobile, .menNavAd, #catdesc, .Lcat_headerleft, .mainlogo, .Lcat_headersecond h2, .Lcat_headersecond h3, .header-support, .Lcat_headerfirst, .Lcat_headerpromo, #productdetail .productdetailright .opglikes, #productdetail .productdetailright .qtyandbutton .quantity, .prReviewEngine, #col-one, .checkoutR, .checkoutorcfR, .checkoutorfnR, .nomobile_ftr, #product_rr, #cart_rr').empty().remove();
+$('[name|="banner"]').empty().remove();
+}
 
 
+var mobiledetection = "";
+return mobiledetection;
+}
 
+var exp = new Date(); 
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
 
-<p>Your shopping bag is empty.</p>
+function getCookieVal (offset) {  
+var endstr = document.cookie.indexOf (";", offset);  
+if (endstr == -1)    
+endstr = document.cookie.length;  
+return unescape(document.cookie.substring(offset, endstr));
+}
 
+function GetCookie (name) {  
+var arg = name + "=";  
+var alen = arg.length;  
+var clen = document.cookie.length;  
+var i = 0;  
+while (i < clen) {    
+var j = i + alen;    
+if (document.cookie.substring(i, j) == arg)      
+return getCookieVal (j);    
+i = document.cookie.indexOf(" ", i) + 1;    
+if (i == 0) break;   
+}  
+return null;
+}
 
-<ul id="minicart_links">
-<li class="viewbasket"><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22">EDIT SHOPPING BAG</a></li>
-<li class="checkout">
+function SetCookie (name, value) {
+var argv = SetCookie.arguments;  
+var argc = SetCookie.arguments.length;  
+var expires = (argc > 2) ? argv[2] : null;  
+var path = "/";  
+var domain = (argc > 4) ? argv[4] : null;  
+var secure = (argc > 5) ? argv[5] : false;  
+document.cookie = name + "=" + escape (value) + 
+((expires == null) ? "" : ("; expires=" + expires.toGMTString())) + ("; path=" + "/") +  
+((domain == null) ? "" : ("; domain=" + domain)) +    
+((secure == true) ? "; secure" : "");
+}
 
+function DeleteCookie (name) {  
+var exp = new Date();  
+exp.setTime (exp.getTime() - 1);  
+var cval = GetCookie (name);  
+document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+}
 
-<a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-shopcart&amp;bsref=originalpenguin&amp;log=22"></a>
-
-</li>
-</ul>
-
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<style type="text/css">#cartwrapper {position:absolute;left:0px;top:-5000px;width:1px;overflow:hidden;}</style>
-
-
-<div id="tag-elxtdraggable" style="display:none;">1</div>
-<div id="tag-elxtfade" style="display:none;"></div>
-<div id="tag-elxtscroll" style="display:none;"></div>
-<div id="tag-elxtheader" style="display:none;">1</div>
-<div id="tag-elxtnopopupadded" style="display:none;"></div>
-<div id="tag-elxthighlight" style="display:none;">1</div>
-<div id="tag-elxtwidth" style="display:none;">300</div>
-<div id="tag-elxtmouseover" style="display:none;"></div>
-<div id="tag-elxtautoclose" style="display:none;"></div>
-<div id="tag-elxtnoreload" style="display:none;"></div>
-
-<div id="tag-elxtclose" style="display:none;">minicart-close</div>
-<div id="tag-elxtheadertext" style="display:none;"><span>Shopping Bag</span></div>
-<div id="tag-elxtloadingmessage" style="display:none;">Please wait while your shopping basket loads.</div>
-<div id="tag-elxthighlightbgrstart" style="display:none;">#ccc</div>
-<div id="tag-elxthighlightbgrend" style="display:none;">#fff</div>
-<div id="tag-elxthighlightduration" style="display:none;">3</div>
-<div id="tag-elxteffectsduration" style="display:none;">1</div>
-<div id="tag-addedmsg" style="display:none;"></div>
-<div id="tag-bsref" style="display:none;">originalpenguin</div>
-<div id="tag-codehttp" style="display:none;">http://www.originalpenguin.com/bin/venda</div>
-<div id="tag-elxtitemspricestart" style="display:none;"></div>
-<div id="tag-elxtitemspriceend" style="display:none;"></div>
-<div id="tag-elxtitemspricebgrstart" style="display:none;"></div>
-<div id="tag-elxtitemspricebgrend" style="display:none;"></div>
-<div id="tag-elxtitemspriceduration" style="display:none;">3</div>
-<script type="text/javascript">
-
-	if (typeof Venda.Widget.MinicartPopup != "undefined" || Venda.Widget.MinicartPopup) {
-	Venda.Widget.MinicartPopup.create(['minicart-close', 'showminicart'],
- 	{
-		draggable:		document.getElementById('tag-elxtdraggable').innerHTML,
-		fade:			document.getElementById('tag-elxtfade').innerHTML,
-		scroll:			document.getElementById('tag-elxtscroll').innerHTML,
-		nopopupadded:	document.getElementById('tag-elxtnopopupadded').innerHTML,
-		header:			document.getElementById('tag-elxtheader').innerHTML,
-		highlight:		document.getElementById('tag-elxthighlight').innerHTML,
-		width:			document.getElementById('tag-elxtwidth').innerHTML,
-		mouseover:		document.getElementById('tag-elxtmouseover').innerHTML,
-		mouseover:		document.getElementById('tag-elxtmouseover').innerHTML,
-		milliseconds:	document.getElementById('tag-elxtautoclose').innerHTML,
-		noreload:		document.getElementById('tag-elxtnoreload').innerHTML
-		}, 
+function doRefresh(){
+location.reload();
+}
+if ( navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i))
+{
+ switchStyleOfUser();
+ }
+ 
+	else if ( navigator.appVersion.indexOf(/Win/) || navigator.appVersion.indexOf(/Mac/) || navigator.appVersion.indexOf(/X11/) || navigator.appVersion.indexOf(/Linux/))
 	{
-		effectsduration:	document.getElementById('tag-elxteffectsduration').innerHTML,
-		close:				document.getElementById('tag-elxtclose').innerHTML,
-		headertext: 		document.getElementById('tag-elxtheadertext').innerHTML,
-		loadingmessage: 	document.getElementById('tag-elxtloadingmessage').innerHTML,
-		highlightbgrstart:	document.getElementById('tag-elxthighlightbgrstart').innerHTML,
-		highlightbgrend:	document.getElementById('tag-elxthighlightbgrend').innerHTML,
-		highlightduration:	document.getElementById('tag-elxthighlightduration').innerHTML,
-		addedsku:			document.getElementById('tag-addedmsg').innerHTML,
-		bsref:				document.getElementById('tag-bsref').innerHTML,
-		formaction:			document.getElementById('tag-codehttp').innerHTML,
-		fromcolor:			document.getElementById('tag-elxtitemspricestart').innerHTML,
-		tocolor:			document.getElementById('tag-elxtitemspriceend').innerHTML,
-		frombgrcolor:		document.getElementById('tag-elxtitemspricebgrstart').innerHTML,
-		tobgrcolor:			document.getElementById('tag-elxtitemspricebgrend').innerHTML,
-		fromtoduration:		document.getElementById('tag-elxtitemspriceduration').innerHTML
-	});
-};
+		document.write("<script>$(\'.disp_mobile,.disp_mobile_return, #productdetail .productdetailleft .desc\').empty().remove();<\/script>");
+		document.write("<link rel=\'stylesheet\' type'text/css\' href=\'/content/ebiz/originalpenguin/page/changestyle/style1.css\' media=\'screen\'>");
+	};
+if ( navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/IEMobile/i))
+{
+ switchStyleOfUser();        
+}
+</script><script>$('.disp_mobile,.disp_mobile_return, #productdetail .productdetailleft .desc').empty().remove();</script><link rel="stylesheet" type'text="" css'="" href="/content/ebiz/originalpenguin/page/changestyle/style1.css" media="screen">
+<script type="text/javascript" charset="utf-8">
+     addEventListener('load', function() {
+     setTimeout(hideAddressBar, 0);
+     }, false);
+     function hideAddressBar() {
+     window.scrollTo(0, 1);
+     }
+     </script>
+<script src="/content/ebiz/originalpenguin/page/mobile_menu/jquery.scrollto-min.js"></script>
+<script>
+function goToByScroll(id){
+$('body').scrollTop(0).animate({scrollTop: $("#"+id).offset().top},'fast');
+}
+
+function goToScrollTop(){
+$('body').animate({scrollTop:(0)},'fast');
+}
 </script>
-<div id="minicart_detail"></div>
-</div></div><div class="Lcat_headercenter"><div class="Lmainlogo mainlogo"><a href="http://www.originalpenguin.com/page/home"><img src="http://www.originalpenguin.com/content/ebiz/originalpenguin/element/mainlogo/logo.gif" name="logo" alt="Original Penguin"></a></div></div><div class="Lcat_headerbtm"><div class="topnavigation"><div class="Lcat_topnavigation">
-	
-	<div class="Linternalimage shopmen"><a href="http://www.originalpenguin.com/icat/opgm" title="MEN">MEN</a></div>
+<style type="text/css">
+#addedmsg { width:46.5% !important; }
+.signin_2columns div.registered { background: none !important; }
+#icatname h1 { width:auto !important; }
+.pagnsearchtop, .pagntop { font-weight:bold; font-size:11px; position:relative !important; top:1px !important }
+.pagntop .pagn { margin: 0 !important }
+.pagnCurrent { border:1px solid; padding:0 5px !important; display:none !important }
+.pagnEllipsis { display:none !important }
+.pagnButtonNum, .pagnButtonLast { border:1px solid; margin:0 3px !important; padding:2px 5px !important; display:none !important }
+.pagnButtonNext { background:url("/content/ebiz/originalpenguin/resources/images/arrow_next.png") no-repeat scroll 39px center transparent !important; border:1px solid; padding:0 10px 0 5px !important; }
+.pagnButtonPrev { background:url("/content/ebiz/originalpenguin/resources/images/arrow_prev.png") no-repeat scroll 3px center transparent !important; border:1px solid; padding:0 5px 0 10px !important; }
+a.pagnButtonNext , a.pagnButtonPrev { text-decoration:none !important }
+.pagntop .pagnViewAll { border:1px solid #94A0A9 !important; margin:0 !important; position:relative; top:1px; }
+.pagnButtonFirst, .pagnButtonViewAll { color:#94A0A9 !important; line-height:14px !important; padding:0 5px !important }
+.pagnButtonFirst { display:none !important }
+.pagnShowPagedView .pagnButtonFirst { border:1px solid; display:block !important; color:#94A0A9 !important; line-height:14px !important; padding:0 5px !important; position:relative; top:1px  }
+.pagnShowPagedView { margin:0 !important }
+
+.multibuy {display:none}
+
+#categorylist #categorysale { margin: 0px; padding-top: 0px !important; padding-left: 0px !important;}
+
+#categorylist { padding-left: 0px !important;}
+
+/********************************************************/
+/*******  Removeing padding, list styles from all *******/
+/********************************************************/
+#mNav { width: 100%; }
+/*#mNav span.mSearch { background:
+ url(/content/ebiz/originalpenguin/page/mobile_menu/m_search_btn.png) no-repeat left top; display: block; float: right; height: 35px; margin: 0px; padding: 0px; width: 30%; } 
+.mSearchBox { background:
+url(/content/ebiz/originalpenguin/page/mobile_menu/m_search_bg.png) repeat-x top #4c4d59; height: 50px; margin: 0px; padding: 0px; display: block; }*/
+#mNav ul { margin: 0; padding: 0; list-style-type: none; clear: both; width:100%; }
+#mNav ul span.mShopCats { background:
+url(/content/ebiz/originalpenguin/page/mobile_menu/m_shop-cats_btn.png) no-repeat right top; display: block; float: left; font: bold 15px Arial, Helvetica, sans-serif; line-height:35px; height: 35px; text-align:left; text-indent:20px; text-transform:uppercase; width:100%; }
+#mNav ul span.mShopMen, #mNav ul span.mShopWomen, #mNav ul span.mShopKids, #mNav ul span.mShopAccessories { display: block; font:
+bold 15px Arial, Helvetica, sans-serif; line-height:36px; height:
+36px; width: 100%; text-align:left; text-indent:40px; text-transform:uppercase; color:#FFF; text-decoration:none; }
+#mNav ul span.mShopMen { background:
+url(/content/ebiz/originalpenguin/page/mobile_menu/m_shop_cat_sub_bg_2.png) no-repeat left top; }
+#mNav ul span.mShopWomen, #mNav ul span.mShopKids, #mNav ul span.mShopAccessories { background:
+url(/content/ebiz/originalpenguin/page/mobile_menu/m_shop_cat_sub_bg.png) no-repeat left top; }
+#mNav ul li ul li ul li { border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC; display: block; }
+#mNav ul li ul li ul li a { background:
+url(/content/ebiz/originalpenguin/page/mobile_menu/m_shop_sub_arrow.png) 25px center no-repeat; color:#272a39; display:block; font: bold 15px Arial, Helvetica, sans-serif; line-height:35px; height: 35px; text-decoration: none; text-indent: 40px; }
+</style>
+
+<script type="text/javascript">
+$(document).ready( function()
+       {
+               function checkDisp()
+               {
+
+                       if($('.mSubCat').css("display") == "block"){
+                               $('.mShopCats').css("background-position", "right bottom");
+                       }
+                       if ($('.mSubCat').css("display") == "none"){
+                               $('.mShopCats').css("background-position", "right top");
+                               goToScrollTop();
+                       }
+                       if ($('.mSearchBox').css("display") == "block"){
+                               $('.mSearch').css("background-position", "left bottom");
+                       }
+                       if ($('.mSearchBox').css("display") == "none"){
+                               $('.mSearch').css("background-position", "left top");
+                       }
+               };
+
+
+               $('.mShopCats').click(function()
+                       {
+                               if ($('.mSubCat').css("display") == "block"){
+                                       $('.mSubCat').css('display','none');
+                                       }
+                               else if ($('.mSubCat').css("display") == "none"){
+                                       $('.mSubCat').css('display','block');
+                                       $('.mSearchBox').css('display','none');
+                                       }
+                               checkDisp()
+                       });// End toggle function
+
+
+               $('.mSearch').click(function()
+                       {
+                               if ($('.mSearchBox').css("display") == "block"){
+                                       $('.mSearchBox').css('display','none');
+                                       }
+                               else if ($('.mSearchBox').css("display") == "none"){
+                                       $('.mSearchBox').css('display','block');
+                                       $('.mSubCat').css('display','none');
+                                       }
+                               checkDisp()
+                       });// End toggle function
+
+
+               $('.mShopMen').click(function()
+                       {
+                               if ($('.mShopMenSub').css("display") == "block"){
+                                       $('.mShopMenSub').css('display','none');
+                                       $('.mShopMen').css("background-position", "left top");
+                                       goToScrollTop();
+                                       }
+                               else if ($('.mShopMenSub').css("display") == "none"){
+                                       $('.mShopMenSub').css('display','block');
+                                       $('.mShopMen').css("background-position", "left bottom");
+
+                                       //$('.mShopMenSub').css('display','none');
+                                       $('.mShopWomenSub').css('display','none');
+                                       $('.mShopKidsSub').css('display','none');
+                                       $('.mShopAccessoriesSub').css('display','none');
+
+                                       //$('.mShopMen').css("background-position", "left top");
+                                       $('.mShopWomen').css("background-position", "left top");
+                                       $('.mShopKids').css("background-position", "left top");
+                                       $('.mShopAccessories').css("background-position", "left top");
+
+                                       goToByScroll('m_men_jump');
+                                       }
+                       });// End toggle function
+
+               $('.mShopWomen').click(function()
+                       {
+                               if ($('.mShopWomenSub').css("display") == "block"){
+                                       $('.mShopWomenSub').css('display','none');
+                                       $('.mShopWomen').css("background-position", "left top");
+                                       goToScrollTop();
+                                       }
+                               else if ($('.mShopWomenSub').css("display") == "none"){
+                                       $('.mShopWomenSub').css('display','block');
+                                       $('.mShopWomen').css("background-position", "left bottom");
+
+                                       $('.mShopMenSub').css('display','none');
+                                       //$('.mShopWomenSub').css('display','none');
+                                       $('.mShopKidsSub').css('display','none');
+                                       $('.mShopAccessoriesSub').css('display','none');
+
+                                       $('.mShopMen').css("background-position", "left top");
+                                       //$('.mShopWomen').css("background-position", "left top");
+                                       $('.mShopKids').css("background-position", "left top");
+                                       $('.mShopAccessories').css("background-position", "left top");
+
+                                       goToByScroll('m_women_jump');
+                                       }
+                       });// End toggle function
+
+               $('.mShopKids').click(function()
+                       {
+                               if ($('.mShopKidsSub').css("display") == "block"){
+                                       $('.mShopKidsSub').css('display','none');
+                                       $('.mShopKids').css("background-position", "left top");
+                                       goToScrollTop();
+                                       }
+                               else if ($('.mShopKidsSub').css("display") == "none"){
+                                       $('.mShopKidsSub').css('display','block');
+                                       $('.mShopKids').css("background-position", "left bottom");
+
+                                       $('.mShopMenSub').css('display','none');
+                                       $('.mShopWomenSub').css('display','none');
+                                       //$('.mShopKidsSub').css('display','none');
+                                       $('.mShopAccessoriesSub').css('display','none');
+
+                                       $('.mShopMen').css("background-position", "left top");
+                                       $('.mShopWomen').css("background-position", "left top");
+                                       //$('.mShopKids').css("background-position", "left top");
+                                       $('.mShopAccessories').css("background-position", "left top");
+
+                                       goToByScroll('m_kids_jump');
+                                       }
+                       });// End toggle function
+
+               $('.mShopAccessories').click(function()
+                       {
+                               if ($('.mShopAccessoriesSub').css("display") == "block"){
+                                       $('.mShopAccessoriesSub').css('display','none');
+                                       $('.mShopAccessories').css("background-position", "left top");
+                                       goToScrollTop();
+                                       }
+                               else if ($('.mShopAccessoriesSub').css("display") == "none"){
+                                       $('.mShopAccessoriesSub').css('display','block');
+                                       $('.mShopAccessories').css("background-position", "left bottom");
+
+                                       $('.mShopMenSub').css('display','none');
+                                       $('.mShopWomenSub').css('display','none');
+                                       $('.mShopKidsSub').css('display','none');
+                                       //$('.mShopAccessoriesSub').css('display','none');
+
+                                       $('.mShopMen').css("background-position", "left top");
+                                       $('.mShopWomen').css("background-position", "left top");
+                                       $('.mShopKids').css("background-position", "left top");
+                                       //$('.mShopAccessories').css("background-position", "left top");
+
+                                       goToByScroll('m_accessories_jump');
+                                       }
+                       });// End toggle function
+               });// End ready function
+
+               $('#mNav ul li ul li ul li a').click(function()
+                       {
+                               $('#mNav ul li ul li ul li a').css("background-image",
+"url(/content/ebiz/originalpenguin/page/mobile_menu/m_shop_sub_arrow.png)");
+                               $('#mNav ul li ul li ul li a').css("backgroundPosition", "25px center");
+                               $(this).css("background-image",
+"url(/content/ebiz/originalpenguin/page/mobile_menu/ajax-loading.gif)");
+                               $(this).css("backgroundPosition", "15px center");
+
+               });// End ready function
+
+</script>
+<script type="text/javascript" src="/content/ebiz/originalpenguin/page/nav_v2/jquery-1.4.2.min.js"></script>
+<div class="nomobile">
+<script type="text/javascript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+<style type="text/css" media="screen, projection">
+/* OPG OVERRIDES */
+
+#icatname h1 { color:#FFFFFF; font-weight:bold; margin-bottom:6px; margin-top:21px; display:block; float:left; position:relative; }
+.opglikes { padding-top:25px; height:50px; }
+ul#opgTopnav { position:relative !important; }
+.opg_survey a { color:#333333; float:right; font-size:9px; font-weight:bold; margin:6px 2px 8px 0; position:relative; text-transform:uppercase; background-image: url(/content/ebiz/originalpenguin/page/nav_v2/opg_header_survery.png); background-repeat: no-repeat; background-position: left center; text-decoration:underline; padding:0 0 0 15px }
+body { font:76% Arial, Helvetica, Verdana, sans-serif !important; }
+ul#opgTopnav .promoInfo { width: 295px !important }
+#yourbasket .wizrtable tr.orsctotal { color:#FFFFFF; display:block; }
+#productlist .prods li { height: 250px !important }
+#paymentdetails fieldset #sortcodeshow {display: none}
+#redeempromocode p {display: none}
+
+#productdetail { width:800px }
+.productdetailright { float:left }
+.multibuy {display:none}
+#productlist {margin:0 !important; width:636px !important}
+
+#categorylist #categorysale { margin: 0; padding-top: 0 !important; }
+
+#productlist .prods ul.prodlist li div.image {border: 1px solid #272A39 !important;}
+
+#product_rr #substitute  { width:auto; border-left:1px solid #343947; float: right }
+#product_rr #substitute .featprods ul, #substitute .featprods ul { width:120px }
+#product_rr #substitute .featprods h2, #substitute .featprods h2 { width:120px; font-size:11px; border-bottom:1px solid #BACBD1; height:25px; padding:0 !important; color:#BACBD1; text-align: center; }
+#product_rr #substitute .featprods, #product_rr #substitute .featprods { margin-top:1px !important }
+#product_rr #substitute .featprods ul li .details .prodname2 a { color:#FFF; font-size: 11px; text-transform:uppercase }
+#product_rr #substitute .featprods li .details { margin:5px 0 0; width:120px }
+#product_rr #substitute .featprods li { margin:10px 0 0; width:120px }
+#product_rr #substitute .featprods ul li .image2 a img { border:1px solid #94A0A9 !important; padding: 5px !important; }
+#product_rr #substitute .featprods ul li .details { min-height:0 !important }
+
+#cart_rr { margin-top:20px }
+#cart_rr #substitute  { width:140px !important; border-left:1px solid #343947; float: right }
+#cart_rr #substitute .featprods ul, #substitute .featprods ul { width:120px }
+#cart_rr #substitute .featprods h2, #substitute .featprods h2 { width:120px; font-size:11px; border-bottom:none; height:20px; padding:0 !important; color:#BACBD1; text-align: center }
+#cart_rr #substitute .featprods, #product_rr #substitute .featprods { margin-top:1px !important }
+#cart_rr #substitute .featprods ul li .details .prodname2 a { color:#FFF; font-size: 11px; text-transform:uppercase }
+#cart_rr #substitute .featprods li .details { margin:5px 0 0; width:120px }
+#cart_rr #substitute .featprods li { margin:10px 0 0; width:120px; background-color:#272a39 !important; }
+#cart_rr #substitute .featprods ul li .image2 a img { border:1px solid #94A0A9 !important; padding: 5px !important; }
+#cart_rr #substitute .featprods ul li .details { min-height:0 !important }
+
+#attr-wasprice { text-decoration:line-through }
+ 
+/* Free shipping offer 
+ul#minicart_links {background: url("/content/ebiz/originalpenguin/resources/images/freeship1.gif") no-repeat scroll center bottom transparent !important} 
+*/
+/* Normal shipping offer */
+ul#minicart_links {background: url("/content/ebiz/originalpenguin/resources/images/freeship_50.gif") no-repeat scroll center bottom transparent !important}
+
+
+#giftcertificate #buttons { background: none !important; padding-top:20 !important; width: 409px !important }
 
 
 
-	
-	<div class="Linternalimage shopwomen"><a href="http://www.originalpenguin.com/icat/opgw" title="WOMEN">WOMEN</a></div>
+
+/* LARGER IMAGE SIZES */
+#productlist .prods li {
+    float: left;
+    height: 350px !important;
+    margin: 20px 0 0;
+    padding: 0;
+    text-align: left;
+    width: 212px !important
+}
+
+#productlist .prods ul.prodlist li div.image {
+    height: 281px !important;
+    width: 211px !important;
+    border: none !important;
+}
+
+#productlist .prods ul.prodlist li div.image img {
+    height: 281px !important;
+    width: 211px !important;
+}
+
+#productlist .prods ul.prodlist li div.details {
+    margin-top: 5px !important;
+    text-align: center !important;
+    width: 211px !important;
+}
+
+
+#productlist .prods ul.prodlist li div.details .prodname {
+    heigh:30px !important;
+}
+
+#productlist .prods .details .pricebox {
+    font-size: 0.9em;
+    padding-bottom: 5px !important;
+    text-align: center;
+}
+
+li .details .swatchimg {
+    float: left;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 211px !important;
+}
 
 
 
-	
-	<div class="Linternalimage shopkid"><a href="http://www.originalpenguin.com/icat/opgb" title="KIDS">KIDS</a></div>
+
+
+</style>
+<!--[if IE 6]>
+<style type="text/css" media="screen, projection">
+  /* Dropshadow setup */
+.dSL, .dSLc, .dSLct, .dSR, .dSRc, .dSRct, .dSB, .dST  { display:none !important; }
+ul#opgTopnav { width: 805px }
+</style>
+<![endif]-->
+<!--
+DROP-SHADOW NOTES
+Classes:
+	dST 		= Top drop-shadow.
+	dSL 		= Left drop-shadow. Use the "style" override to expand when adding/removing elements from the drop-down.
+	dSLct = Top-left corner drop-shadow.
+	dSLc	 = Bottom-left corner drop-shaow.
+	dSR			= Right drop-shadow. Use the "style" override to expand when adding/removing elements from the drop-down.
+	dSRct = Top-right corner drop-shadow.
+	dSRc		= Bottom-right corner drop-shadow.
+	dSB			= Bottom drop-shadow. Use the "style" override to expand when adding/removing elements from the drop-down.
+-->
+<div class="opg_main_nav_web">
+  <!--   START NAV   -->
+  <ul id="opgTopnav">
+    <!------------------------------------------------>
+    <!--   START MEN   -->
+    <!------------------------------------------------>
+    <li><a href="http://www.originalpenguin.com/shop/mens-shop/icat/opgm/" class="men">Men</a>
+      <!------------------------------------------------>
+      <!--   DROP-SHADOW ELEMENTS START -->
+      <!------------------------------------------------>
+      <!-- Default width value is 780px (800px with 10px padding). Update width value to keep menu on screen -->
+      <div class="sub" style="height:150px">
+        <!-- Override height for banner ads -->
+        <div class="dST"></div>
+        <!-- dSL / dSLc / dSR / dSRc / dSB values must be the same -->
+        <div class="dSL" style="height:170px">
+          <div class="dSLct"></div>
+          <div class="dSLc" style="top:170px"></div>
+        </div>
+        <div class="dSR" style="height:170px">
+          <div class="dSRct"></div>
+          <div class="dSRc" style="top:170px"></div>
+        </div>
+        <!-- The value of dSB can fluctuate by 1 or 2 px -->
+        <div class="dSB" style="top: 170px"></div>
+        <!------------------------------------------------>
+        <!--   DROP-SHADOW ELEMENTS END   -->
+        <!--   START MENU OPTIONS   -->
+        <!------------------------------------------------>
+        <!--
+Menu options below
+	 What's new
+	 Golf
+	 The Abbot Personson Collection	
+	 Big & Tall
+	 Sale 
+-->
+        <ul class="sp" style="width:230px">
+          <li class="op1"><a href="http://www.originalpenguin.com/whats-new/mens/icat/mens/">What's New</a></li>
+          <li class="op2"><a href="http://www.originalpenguin.com/shop/richard-chai/icat/richardchai/">Richard Chai</a></li>
+          <li class="op2"><a href="http://www.originalpenguin.com/shop/fragrance/icat/fragrance/">Fragrance</a></li>
+          <!--<li class="op2"><a href="http://www.originalpenguin.com/shop/spring-break/icat/springbreak/">Spring Break Essentials</a></li>-->
+          <li class="op2"><a href="http://www.originalpenguin.com/mens-shop/golf/icat/opgmgolf/">Golf</a></li>
+          <!--
+<li class="op2"><a href="http://www.originalpenguin.com/mens-shop/the-abbot-pederson-collection/icat/opgmaprlap/">The Abbot Pederson Collection</a></li>
+          -->
+          <li class="op2"><a href="http://www.originalpenguin.com/mens-shop/big-and-tall/icat/opgbt/">Big &amp; Tall</a></li>
+          <li class="op2"><a href="http://www.originalpenguin.com/more-penguin/wmp/page/wmp/">Spring/Summer 2011 Men's Look Book</a></li><a href="http://www.originalpenguin.com/more-penguin/wmp/page/wmp/">
+          </a><li class="op3 subSale"><a href="http://www.originalpenguin.com/more-penguin/wmp/page/wmp/"></a><a href="http://www.originalpenguin.com/mens-shop/mens-sale/icat/opgmaprlsal/">Sale</a></li>
+        </ul>
+        <!--
+Menu options below
+	 Polos
+	 Knits & Tees
+	 Shirts
+	 Sweaters
+	 Outerwear
+	 Jackets & Hoodies
+	 Suits & Vests
+-->
+        <ul style="border-top:none; width:160px; padding:0 10px; border-left:1px solid #4c4f5f; border-right:1px solid #2d3041">
+
+
+          <li class="op1" style="cursor:default">Tops</li>
+          <li class="op3"><a href="http://www.originalpenguin.com/mens-shop/polos/icat/opgmaprlpol/">Polos</a></li>
+          <li><a href="http://www.originalpenguin.com/mens-shop/knits-and-tees/icat/opgmaprlkat/">Knits &amp; Tees</a></li>
+          <li><a href="http://www.originalpenguin.com/mens-shop/shirts/icat/opgmaprlsts/">Shirts</a></li>
+          <li><a href="http://www.originalpenguin.com/mens-shop/sweaters/icat/opgmaprlswt/">Sweaters</a></li>
+          <li><a href="http://www.originalpenguin.com/mens-shop/outerwear/icat/opgmaprlout/">Outerwear</a></li>
+          <li><a href="http://www.originalpenguin.com/mens-shop/jackets-and-hoodies/icat/opgmaprljak/">Jackets &amp; Hoodies</a></li>
+          <li><a href="http://www.originalpenguin.com/mens-shop/suits-and-vests/icat/opgmaprlsab/">Suits &amp; Vests</a></li>
+        </ul>
+        <!--
+Menu options below
+	 Pants
+	 Shorts
+	 Swim
+-->
+        <ul style="border-top:none; width:160px; padding:0 10px; border-left:1px solid #4c4f5f; border-right:1px solid #2d3041">
+          <li class="op1" style="cursor:default">Bottoms</li>
+          <li class="op3"><a href="http://www.originalpenguin.com/mens-shop/jeans/icat/opgmaprlden/">Jeans</a></li>
+          <li><a href="http://www.originalpenguin.com/mens-shop/pants/icat/opgmaprlpts/">Pants</a></li>
+          <li><a href="http://www.originalpenguin.com/mens-shop/shorts/icat/opgmaprlshr/">Shorts</a></li>
+          <li><a href="http://www.originalpenguin.com/mens-shop/swim/icat/opgmaprlswm/">Swim</a></li>
+          <li><a style="visibility:hidden" href="#">blank</a></li>
+          <li><a style="visibility:hidden" href="#">blank</a></li>
+          <li><a style="visibility:hidden" href="#">blank</a></li>
+        </ul>
+        <!--
+Menu options below
+	 Socks
 
 
 
-	
-	<div class="Linternalimage shopaccessories"><a href="http://www.originalpenguin.com/icat/opgshaa" title="ACCESSORIES">ACCESSORIES</a></div>
+	 Shoes
+	 Bags
+	 Belts
+	 Hats & Scarves
+	 Ties
+	 Umbrellas
+-->
+        <ul style="width:164px; padding:0 0 0 10px; border-left:1px solid #4c4f5f;">
+          <li class="op1" style="cursor:default">Accessories</li>
+          <li class="op3"><a href="http://www.originalpenguin.com/accessories-shop/shoes/icat/opgaaprlsho/">Shoes</a></li>
+          <li><a href="http://www.originalpenguin.com/accessories-shop/small-leather-goods/icat/opgasm/">Small leather goods</a></li>
+          <li><a href="http://www.originalpenguin.com/accessories-shop/bags/icat/opgaaprlbag/">Bags</a></li>
+          <li><a href="http://www.originalpenguin.com/accessories-shop/belts/icat/opgaaprlblt/">Belts</a></li>
+          <li><a href="http://www.originalpenguin.com/accessories-shop/hats-scarves+gloves/icat/opgaaprlhat/">Hats, Scarves &amp; Gloves</a></li>
+          <li><a href="http://www.originalpenguin.com/accessories-shop/ties/icat/opgaaprltac/">Ties</a></li>
+        </ul>
+        <!--
+ADs
+	 Demo AD
 
+        <div style="top: 170px;" class="dSB"></div>
+        <div> <img style="margin-top: 25px; cursor:pointer" onClick="location.href='http://www.originalpenguin.com/accessories-shop/shoes/icat/opgaaprlsho/'" src="/content/ebiz/originalpenguin/page/nav_v2/hdrm_men_ad.jpg" width="780" height="144">
+          <div style="clear:both"></div>
+        </div>-->
+        <!-- End ads -->
+      </div>
+    </li>
+    <!------------------------------------------------>
+    <!--   END MENU OPTIONS   -->
+    <!--   END MEN   -->
+    <!------------------------------------------------>
+    <!--   START WOMEN   -->
+    <!------------------------------------------------>
+    <li><a href="http://www.originalpenguin.com/shop/womens-shop/icat/opgw/" class="women">Women</a>
+      <!------------------------------------------------>
+      <!--   DROP-SHADOW ELEMENTS START   -->
+      <!------------------------------------------------>
+      <!-- Default width value is 780px (800px with 10px padding). Update width value to keep menu on screen -->
+      <div class="sub" style="width:200px">
+        <div class="dST"></div>
+        <!-- dSL / dSLc / dSR / dSRc / dSB values must be the same -->
+        <div class="dSL" style="height:80px">
+          <div class="dSLct"></div>
+          <div class="dSLc" style="top:80px"></div>
+        </div>
+        <div class="dSR" style="height:80px">
+          <div class="dSRct"></div>
+          <div class="dSRc" style="top:80px"></div>
+        </div>
+        <!-- The value of dSB can fluctuate by 1 or 2 px -->
+        <div class="dSB" style="top:78px"></div>
+        <!------------------------------------------------>
+        <!--   DROP-SHADOW ELEMENTS END   -->
+        <!--   START MENU OPTIONS   -->
+        <!------------------------------------------------>
+        <!--
+Menu options below
+	 Dresses & Skirts
+	 Tops
+	 Bottoms
+	 Sale
+-->
+        <ul class="sp" style="border:none !important; padding-right:0px !important">
+          <!--<li class="op1"><a href="http://www.originalpenguin.com/womens-shop/dresses-and-skirts/icat/opgwaprldrs/">Dresses &amp; Skirts</a></li>-->
+          <li class="op1"><a href="http://www.originalpenguin.com/womens-shop/tops/icat/opgwaprlsat/">Tops</a></li>
+          <!--<li class="op2"><a href="http://www.originalpenguin.com/womens-shop/bottoms/icat/opgwaprlshr/">Bottoms</a></li>-->
+          <li class="op2"><a href="http://www.originalpenguin.com/womens-shop/jewelry/icat/opgwclass/">Jewelry </a></li>
+          <li class="op3 subSale"><a href="http://www.originalpenguin.com/womens-shop/womens-sale/icat/opgwaprlsal/">Sale</a></li>
+        </ul>
+        <!--
+Menu options below
+	 Shoes
+		Wallets
+		Bags
+		Belts
+		Hats and Scarves
+		Ties
+		Umbrellas
+-->
+        <!-- Removed accessories
+<ul style="width:160px; padding:0 0 0 10px; border-left:1px solid #4c4f5f;">
+<li class="op1" style="cursor:default">Accessories</li>
+<li class="op3"><a href="http://www.originalpenguin.com/accessories-shop/shoes/icat/opgaaprlsho/">Shoes</a></li>
+<li><a href="http://www.originalpenguin.com/accessories-shop/small-leather-goods/icat/opgasm/">Wallets</a></li>
+<li><a href="http://www.originalpenguin.com/accessories-shop/bags/icat/opgaaprlbag/">Bags</a></li>
+<li><a href="http://www.originalpenguin.com/accessories-shop/belts/icat/opgaaprlblt/">Belts</a></li>
+<li><a href="http://www.originalpenguin.com/accessories-shop/hats-scarves+gloves/icat/opgaaprlhat/">Hats &amp; Scarves</a></li>
+<li><a href="http://www.originalpenguin.com/accessories-shop/ties/icat/opgaaprltac/">Ties</a></li>
+</ul>
+-->
+      </div>
+    </li>
+    <!------------------------------------------------>
+    <!--   END MENU OPTIONS   -->
+    <!--  END WOMEN   -->
+    <!------------------------------------------------>
+    <!--   START KIDS   -->
+    <!------------------------------------------------>
+    <li><a href="#" class="kids">Kids</a>
+      <!------------------------------------------------>
+      <!--   DROP-SHADOW ELEMENTS START   -->
+      <!------------------------------------------------>
+      <!-- Default width value is 780px (800px with 10px padding). Update width value to keep menu on screen -->
+      <div class="sub" style="width:200px">
+        <div class="dST"></div>
+        <!-- dSL / dSLc / dSR / dSRc / dSB values must be the same -->
+        <div class="dSL" style="height:100px;">
+          <div class="dSLct"></div>
+          <div class="dSLc" style="top:100px!important;"></div>
+        </div>
+        <div class="dSR" style="height:100px;">
+          <div class="dSRct"></div>
+          <div class="dSRc" style="top:100px!important;"></div>
+        </div>
+        <!-- The value of dSB can fluctuate by 1 or 2 px -->
+        <div class="dSB" style="top: 98px;"></div>
+        <!------------------------------------------------>
+        <!--   DROP-SHADOW ELEMENTS END   -->
+        <!--   START MENU OPTIONS   -->
+        <!------------------------------------------------>
+        <!--
+Menu options below
+	 Infants
+	 Boys 2T  4T
+	 Boys 4  7
+	 Boys 8  20
+	 Sale
+-->
+        <ul class="sp" style="border:none !important; padding-right:0px !important">
+          <!--<li class="op1"><a href="http://www.originalpenguin.com/kids-shop/infants/icat/opgbaprlinf/">Infants</a></li>-->
+          <li class="op1"><a href="http://www.originalpenguin.com/kids-shop/boys-2t-4t/icat/opgbaprlbtf/">Boys 2T - 4T</a></li>
+          <li class="op2"><a href="http://www.originalpenguin.com/kids-shop/boys-4-7/icat/opgbaprlbfs/">Boys 4 - 7</a></li>
+          <li class="op2"><a href="http://www.originalpenguin.com/kids-shop/boys-8-20/icat/opgbaprlben/">Boys 8 - 20</a></li>
+          <li class="op3 subSale"><a href="http://www.originalpenguin.com/kids-shop/kids-sale/icat/opgbaprlsal/">Sale</a></li>
+        </ul>
+      </div>
+    </li>
+    <!------------------------------------------------>
+    <!--   END MENU OPTIONS   -->
+    <!--   END KIDS   -->
+    <!------------------------------------------------>
+    <!--   START ACCESSORIES   -->
+    <!------------------------------------------------>
+    <li><a href="http://www.originalpenguin.com/accessories-shop/shoes/icat/opgaaprlsho/" class="shoes">Shoes</a></li>
+    <!------------------------------------------------>
+    <!--   END MENU OPTIONS   -->
+    <!--   END ACCESSORIES   -->
+    <!------------------------------------------------>
+    <!--   START SALE   -->
+    <!------------------------------------------------>
+    <li><a href="http://www.originalpenguin.com/page/sale/" class="sale">Sale</a>
+      <!------------------------------------------------>
+      <!--   DROP-SHADOW ELEMENTS START   -->
+      <!------------------------------------------------>
+      <!-- Default width value is 780px (800px with 10px padding). Update width value to keep menu on screen -->
+      <div class="sub" style="width:200px">
+        <div class="dST"></div>
+        <!-- dSL / dSLc / dSR / dSRc / dSB values must be the same -->
+        <div class="dSL" style="height:100px">
+          <div class="dSLct"></div>
+          <div class="dSLc" style="top:100px"></div>
+        </div>
+        <div class="dSR" style="height:100px">
+          <div class="dSRct"></div>
+          <div class="dSRc" style="top:100px"></div>
+        </div>
+        <div class="dSB" style="top:98px"></div>
+        <!------------------------------------------------>
+        <!--   DROP-SHADOW ELEMENTS END   -->
+        <!--   START MENU OPTIONS   -->
+        <!------------------------------------------------>
+        <!--
+Menu options below
+	 Men
+	 Women
+	 Kids
+	 Accessories
+-->
+        <ul class="sp" style="border:none !important; padding-right:0px !important; width:198px !important">
+          <li class="op1"><a href="http://www.originalpenguin.com/mens-shop/mens-sale/icat/opgmaprlsal/">Men</a></li>
+          <li class="op2"><a href="http://www.originalpenguin.com/womens-shop/womens-sale/icat/opgwaprlsal/">Women</a></li>
+          <li class="op2"><a href="http://www.originalpenguin.com/kids-shop/kids-sale/icat/opgbaprlsal/">Kids</a></li>
+          <li class="op3"><a href="http://www.originalpenguin.com/accessories-shop/accessories-sale/icat/opgaasale/">Accessories</a></li>
+        </ul>
+      </div>
+    </li>
+    <!------------------------------------------------>
 
+    <!--   END MENU OPTIONS   -->
+    <!--   END SALE   -->
 
-	
-	<div class="Linternalimage sale"><a href="http://www.originalpenguin.com/page/sale" title="SALE">SALE</a></div>
+    <!------------------------------------------------>
+    <!--   START STAY CONNECTED AND SAVE   -->
+    <!------------------------------------------------>
+    <li><a href="http://www.originalpenguin.com/customer-service/join-e-mail/page/joinemail/" class="stayConnectedSave">Stay Connected &amp; Save</a>
+    </li>
+    <li class="promoInfo">
+    <div style="height:23px; overflow:hidden; position:relative; z-index:9999; right:5px">
+      <div class=""><div class="bxslider_container" style="position: relative; overflow: hidden; height: 46px;"><ul id="promoScroll" style="height: 99999px; width: 255px; position: relative; top: -46px;"><li style="cursor: pointer; height: 46px; list-style: none; margin-bottom: 0px;" onclick="MM_openBrWindow('http://www.originalpenguin.com/page/disclaimers','disclaimers','scrollbars=yes,width=495,height=500')"><span style="text-decoration:underline; font-size:11px">$5 Standard ground shipping on all orders</span></li>
+      <!-- Current promotions -->
+      
+      
+      
+      
+      
+      
+      <li style="height: 46px; list-style: none; margin-bottom: 0px;">Support Japan with our <a href="http://www.originalpenguin.com/womens-shop/jewelry/icat/opgwclass/" target="_blank"><span style="text-decoration:underline; font-size:11px">"REBUILD" T-Shirt</span></a></li>
+      <!-- Shop new arrivals --> 
+      <li style="height: 46px; list-style: none; margin-bottom: 0px;">Available now - <a href="http://www.originalpenguin.com/womens-shop/jewelry/icat/opgwclass/" target="_blank"><span style="text-decoration:underline; font-size:11px">Shop Women's Jewelry</span></a></li>   
+      <!-- Shop sale -->
+      <li style="height: 46px; list-style: none; margin-bottom: 0px;">Look great and save - <a href="http://www.originalpenguin.com/page/sale/" target="_blank"><span style="text-decoration:underline; font-size:11px">Shop Sale</span></a></li> 
+      <!-- Free shipping on orders $50+ -->
+     
+      <!-- <li style="cursor:pointer" onClick="MM_openBrWindow('http://www.originalpenguin.com/page/disclaimers','disclaimers','scrollbars=yes,width=495,height=500')"><span style="text-decoration:underline; font-size:11px">Enjoy free shipping on all orders - 24 Hours Only!</span></li>-->
+      <!-- $5 flat rate shipping -->
+      <li style="cursor: pointer; height: 46px; list-style: none; margin-bottom: 0px;" onclick="MM_openBrWindow('http://www.originalpenguin.com/page/disclaimers','disclaimers','scrollbars=yes,width=495,height=500')"><span style="text-decoration:underline; font-size:11px">$5 Standard ground shipping on all orders</span></li> 
 
+      
+      
+      
+      <!-- Shipping offers -->
+            
+      <!-- Free shipping on orders $50+
+      <li>Enjoy <span onClick="MM_openBrWindow('http://www.originalpenguin.com/page/disclaimers','disclaimers','scrollbars=yes,width=495,height=500')" style="text-decoration:underline; font-size:11px; cursor:pointer">Free Shipping</span> on <span onClick="MM_openBrWindow('http://www.originalpenguin.com/page/disclaimers','disclaimers','scrollbars=yes,width=495,height=500')" style="text-decoration:underline; font-size:11px; cursor:pointer">All Orders</span> over $50</li>-->
+      
+      <!-- $5 flat rate shipping
+      <li style="cursor:pointer" onClick="MM_openBrWindow('http://www.originalpenguin.com/page/disclaimers','disclaimers','scrollbars=yes,width=495,height=500')"><span style="text-decoration:underline; font-size:11px">$5 Standard ground shipping on all orders</span></li>-->
+      
+      <!-- Free shipping today only 
+      <li style="cursor:pointer" onClick="MM_openBrWindow('http://www.originalpenguin.com/page/disclaimers','disclaimers','scrollbars=yes,width=495,height=500')"><span style="text-decoration:underline; font-size:11px">Enjoy free shipping on all orders - today only!</span></li>-->
+      
+      <!-- Free upgrade to 2nd day shipping!
+      <li style="cursor:pointer" onclick="MM_openBrWindow('http://www.originalpenguin.com/page/disclaimers','disclaimers','width=495,height=500,scrollbars=yes')"><span style="text-decoration:underline; font-size:11px">Free upgrade to 2nd day shipping!</span></li>
+      -->
+      
+      <!-- Temporary / previous promos -->
+      
+      <!-- Buy 1 get 2nd half off 
+      <li><a href="http://www.originalpenguin.com/Shop/WHATS-NEW/icat/whatsnew" target="_blank"><span style="text-decoration:underline; font-size:11px">Buy 1 item</span></a> &amp; get the <a href="http://www.originalpenguin.com/Shop/WHATS-NEW/icat/whatsnew" target="_blank"><span style="text-decoration:underline; font-size:11px">2nd 50% off</span></a> | <span onClick="MM_openBrWindow('http://www.originalpenguin.com/page/disclaimers','disclaimers','scrollbars=yes,width=495,height=500')" style="text-decoration:underline; font-size:11px; cursor:pointer">OPGVDAY50</span></li>-->
+      
+      <!-- Valentine's shop gifts for him / her 
+      <li>Shop Valentine's <span style="text-decoration:underline; font-size:11px"><a href="http://www.originalpenguin.com/Shop/FOR-HIM/icat/forhim">Gifts for him</a></span> or <span style="text-decoration:underline; font-size:11px"><a href="http://www.originalpenguin.com/Shop/FOR-HER/icat/forher"> gifts for her </a></span></li>-->
+      
+      <!-- Sale / winter clearance 
+      <li>Shop our <a href="http://www.originalpenguin.com/Shop/FINAL-WINTER-CLEARANCE/icat/promosale" target="_blank"><span style="text-decoration:underline; font-size:11px">winter clearance</span></a> starting at $14.99<span onClick="MM_openBrWindow('http://www.originalpenguin.com/page/disclaimers','disclaimers','scrollbars=yes,width=495,height=500')" style="text-decoration:underline; font-size:11px; cursor:pointer"></span></li>-->
+      
+      <!--Shop new arrivals
+      <li>Out with the old... Check out our <a href="http://www.originalpenguin.com/Shop/WHATS-NEW/icat/whatsnew" target="_blank"><span style="text-decoration:underline; font-size:11px">New arrivals!</span></a></li>-->
+      
+            <!-- 40% off sale promotion
+      <li>SAVE AN EXTRA <span style="text-decoration:underline; font-size:11px"><a href="http://www.originalpenguin.com/page/sale">40% OFF SALE</a></span> use code <a onClick="MM_openBrWindow('http://www.originalpenguin.com/page/disclaimers','disclaimers','width=495,height=500,scrollbars=yes')" style="cursor:pointer; font-size:11px !important; font-weight:bold; text-decoration:underline" href="#">OPGSALE40</a></span></li>-->
 
-<div class="Linternalimage ourstores">
-<a href="/page/storeusa" title="OUR STORES">OUR STORES</a>
+      <li style="height: 46px; list-style: none; margin-bottom: 0px;">Support Japan with our <a href="http://www.originalpenguin.com/womens-shop/jewelry/icat/opgwclass/" target="_blank"><span style="text-decoration:underline; font-size:11px">"REBUILD" T-Shirt</span></a></li></ul></div><a class="prev" href="#"></a><a class="next" href="#"></a></div>
+    </div></li>
+  </ul>
+  <div class="opg_survey"><a onclick="MM_openBrWindow('http://www.surveymonkey.com/s/Y9RV5Z7','HolidayShippingSchedule','scrollbars=yes,width=446,height=500')" href="#Survey">Give us your two cents</a></div>
+  <script>
+$(document).ready(function(){
+	$('ul#promoScroll').bxSlider({
+		alignment: 'vertical',
+		controls: true,
+		speed: 500,
+		pager: false,
+		pager_short: false,
+		pager_short_separator: ' / ',
+		margin: 0,
+		next_text: '',
+		next_image: '',
+		prev_text: '',
+		prev_image: '',
+		auto: true,
+		pause: 7000,
+		auto_direction: 'next',
+		auto_hover: true,
+		auto_controls: false,
+		ticker: false,
+		ticker_controls: false,
+		ticker_direction: 'next',
+		ticker_hover: true,
+		stop_text: 'stop',
+		start_text: 'start',
+		wrapper_class: ''
+	});
+});
+</script>
 </div>
-<div class="Linternalimage personalshopper">
-<a title="PERSONAL SHOPPER" href="http://www.originalpenguin.com/Customer-Service/Personal-Shopper/page/personalshopper">PERSONAL
-SHOPPER</a>
-</div><div class="Linternalimage contactus">
-<a href="http://www.originalpenguin.com/Customer-Service/Customer-Care/page/customercare" title="CONTACT US">CONTACT US</a>
-</div>
-
-</div></div><p class="Lcattree categorytree"><a href="/" class="treehome">Home</a><a href="http://www.originalpenguin.com/pcat/customerservice" class="menuFontNonSelected">Customer Service</a></p>
+</div><p class="Lcattree categorytree"><a href="/" class="treehome">Home</a><a href="http://www.originalpenguin.com/pcat/customerservice/" class="menuFontNonSelected">Customer Service</a></p>
 <br class="clear-all"></div></div>
 </div>
 <!-- end header -->
@@ -408,58 +1353,71 @@ SHOPPER</a>
 <!-- start content -->
 <a name="content" id="content"></a>
 
+<style type="text/css">
+.Lcattree a.treehome {color:#FFF;}
+.Lcattree a.menuFontNonSelected {color:#FFF;}
+</style>
 <div id="col-one">
 <div class="Lcat_colone">
 <div class="Lcatnav">
 <ul>
 <li class="no-link">CUSTOMER CARE
 <ul>
-<li><a href="http://www.originalpenguin.com/Customer-Service/Customer-Care/page/customercare">Contact Us</a></li>
-<li><a href="https://www.originalpenguin.com/bin/venda?ex=co_wizr-ordlookup&amp;bsref=perryellis&amp;template=wz_orpo-screen&amp;layout=myaccount">ORDER STATUS</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/contact-us/page/customercare/">Contact Us</a></li>
+<li><a href="https://www.originalpenguin.com/bin/venda?ex=co_wizr-ordlookup&amp;bsref=originalpenguin&amp;template=wz_orpo-screen&amp;layout=myaccount">ORDER STATUS</a></li>
 <li><a href="https://www.originalpenguin.com/bin/venda?ex=co_wizr-login&amp;bsref=originalpenguin">My Account</a></li>
 <li class="subnav">SHIPPING &amp; HANDLING</li>
 <ul class="subnav">
-<li><a href="http://www.originalpenguin.com/Customer-Service/Shipping+Handling-USA/page/shippinghandling">USA</a></li>
-<li><a href="http://www.originalpenguin.com/Customer-Service/Shipping+Handling-International/page/shippinghandlingintl">INTERNATIONAL</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/shipping+handling-usa/page/shippinghandling/">USA</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/shipping+handling-international/page/shippinghandlingintl/">INTERNATIONAL</a></li>
+<!-- Removed Holiday Shipping Nav -->
+<!--
+<li><a href="http://www.originalpenguin.com/customer-service/holiday-shipping-schedule/page/holidayschedule/"><span style="color:#DECA8D;"><b>HOLIDAY SCHEDULE</b></span></a></li>
+-->
 </ul>
-<li><a href="http://www.originalpenguin.com/Customer-Service/Returns/page/returns">RETURNS</a></li>
-<li><a href="http://www.originalpenguin.com/Customer-Service/Payment-Options/page/paymentoptions">PAYMENT OPTIONS</a></li>
-<li><a href="http://www.originalpenguin.com/Customer-Service/Using-a-Promo-Code/page/promocodes">USING A PROMO CODE</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/returns/page/returns/">RETURNS</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/payment-options/page/paymentoptions/">PAYMENT OPTIONS</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/using-a-promo-code/page/promocodes/">USING A PROMO CODE</a></li>
 <li class="subnav">SIZE CHART</li>
 <ul class="subnav">
-<li><a href="http://www.originalpenguin.com/Customer-Service/Size-Chart-How-to-Measure/page/sizecharthowto">HOW TO MEASURE</a></li>
-<li><a href="http://www.originalpenguin.com/Customer-Service/Size-Chart-Men/page/sizechartm">MEN</a></li>
-<li><a href="http://www.originalpenguin.com/Customer-Service/Size-Chart-Women/page/sizechartw">WOMEN</a></li>
-<li><a href="http://www.originalpenguin.com/Customer-Service/Size-Chart-Kids/page/sizechartk">KIDS</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/size-chart-how-to-measure/page/sizecharthowto/">HOW TO MEASURE</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/size-chart-men/page/sizechartm/">MEN</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/size-chart-women/page/sizechartw/">WOMEN</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/size-chart-kids/page/sizechartk/">KIDS</a></li>
 </ul>
 </ul>
-<ul style="padding-top:10px">
-<li><a href="http://www.originalpenguin.com/Customer-Service/Join-Our-Email/page/joinemail">Join E-Mail</a></li>
-<li><a href="http://www.originalpenguin.com/Customer-Service/Sign-up-for-Text-Messages/page/signuptxtmsg">Sign Up For Txt Msgs</a></li>
-<li><a href="http://www.originalpenguin.com/Customer-Service/Unsubscribe/page/unsubscribe">Unsubscribe</a></li>
+<ul style="padding-top: 10px;">
+<li><a href="http://www.originalpenguin.com/customer-service/join-e-mail/page/joinemail/">Join E-Mail</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/sign-up-for-txt-msgs/page/signuptxtmsg/">Sign Up For Txt Msgs</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/unsubscribe/page/unsubscribe/">Unsubscribe</a></li>
 </ul>
-<ul style="padding-top:10px">
-<li> <a href="http://www.originalpenguin.com/Customer-Service/Privacy-Policy/page/privacy">Privacy Policy </a></li>
-<li> <a href="http://www.originalpenguin.com/Customer-Service/Terms-of-Use/page/termsofuse">Terms &amp; Conditions</a></li>
+<ul style="padding-top: 10px;">
+<li> <a href="http://www.originalpenguin.com/customer-service/privacy-policy/page/privacy/">Privacy Policy </a></li>
+<li> <a href="http://www.originalpenguin.com/customer-service/terms+conditions/page/termsofuse/">Terms &amp; Conditions</a></li>
+
+<!--
+<li style="margin-top:10px; border: 1px solid #575F6B; height: 17px; text-indent:2px"><a href="http://www.originalpenguin.com/customer-service/in-store-events/page/events/"><b>In-Store Events</b></a></li>
+-->
+
 <li class="subnav">STORE LOCATOR</li>
 <ul class="subnav">
-<li> <a href="http://www.originalpenguin.com/Customer-Service/Store-Locator-USA/page/storeusa">USA</a></li>
-<li> <a href="http://www.originalpenguin.com/Customer-Service/Store-Locator-International/page/storeintl">INTERNATIONAL</a></li>
+<li> <a href="http://www.originalpenguin.com/customer-service/store-locator-usa/page/storeusa/">USA</a></li>
+<li> <a href="http://www.originalpenguin.com/customer-service/store-locator-international/page/storeintl/">INTERNATIONAL</a></li>
 </ul>
 </ul>
-<ul style="padding-top:10px">
-<li> <a href="http://www.originalpenguin.com/Customer-Service/Personal-Shopper/page/personalshopper">PERSONAL SHOPPER</a></li>
+<ul style="padding-top: 10px;">
+<li> <a href="http://www.originalpenguin.com/customer-service/personal-shopper/page/personalshopper/">PERSONAL SHOPPER</a></li>
 </ul>
-<ul style="padding-top:10px">
+<ul style="padding-top: 10px;">
 <li class="subnav">ABOUT US</li>
 <ul class="subnav">
-<li><a href="http://www.originalpenguin.com/Customer-Service/About-Us/page/aboutus">OUR STORY</a></li>
-<li><a href="http://www.pery.com/" target="_blank">INVESTORS</a></li>
-<li><a href="http://pery.com/careers.asp" target="_blank">JOB OPPORTUNITIES</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/about-us-our-story/page/aboutus/">OUR STORY</a></li>
+<li><a target="_blank" href="http://www.pery.com/">INVESTORS</a></li>
+<li><a target="_blank" href="http://pery.com/careers.asp">JOB OPPORTUNITIES</a></li>
 </ul>
 </ul>
 <!--<ul style="padding-top:10px">
- <li> <a href="http://www.originalpenguin.com/LookBook/page/lookbook">LOOKBOOK</a></li> -->
+ <li> <a href="http://www.originalpenguin.com/Look-Book/lookbook/page/lookbook">LOOKBOOK</a></li> -->
 </li></ul>
 </div>
 </div>
@@ -563,44 +1521,191 @@ custserv@originalpenguin.com </p>
 </div>
 <!-- end content-default_nocoltwothree -->
 
-<div id="footer"><div class="Lcat_footer"><div class="Lcat_footerbars"><img src="https://ads.undertone.com/fc.php?script=profileTargetingCommon:logBeacon&amp;pid=102&amp;cb=03:57:08" style="display: none;" border="0" height="1" width="1"><div>
-<div class="internallinksleft">
-<ul>
-<li class="followus"><img src="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/images/logo_followus.gif" title="FOLLOW US ON TWITTER"><a href="https://twitter.com/OriginalPenguin" title="FOLLOW US ON TWITTER - opens in a new window" target="_blank">FOLLOW US ON TWITTER</a></li>
-<li class="beourfan"><img src="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/images/logo_beourfan.gif" title="BE OUR FAN IN FACEBOOK" target="_blank"><a href="http://www.facebook.com/pages/Original-Penguin/75915831368" title="BE OUR FAN IN FACEBOOK - opens in a new window" target="_blank">BE OUR FAN IN FACEBOOK</a></li>
-</ul>
-</div>
-<div class="internallinksright">
-<ul>
-<li class="share"><div id="Lsharebookmark" class="sharebookmark">
+<div id="footer"><div class="Lcat_footer"><div class="Lcat_footerbars"><style>
+.Lcatnav li.navopgmaprlsal a, .Lcatnav li.navopgbaprlsal a, .Lcatnav li.navopgwaprlsal a, .Lcatnav li.navopgaasale a {color:#DECA8D !important; font-weight:bold;}
 
-
-
+#attr-sellprice {color:#DECA8D !important; font-weight:bold;}
+</style>
 <script type="text/javascript">
-addthis_pub = 'originalpenguin'; 
-
-
-addthis_logo_background = 'ffffff';
-
-addthis_logo_color = '94a0a9';
-
-
-
-
+<!--
+autojump('num1a', 'num1b', 3);
+autojump('num1b', 'num1c', 3);
+autojump('num1c', 'email', 4);
+//-->
 </script>
-<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://www.originalpenguin.com/content/ebiz/originalpenguin/element/sharebookmark/sharebookmark.gif" border="0" name="button" alt="SHARE"></a>
-<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
 
+<div class="nomobile_ftr">
+<style type="text/css">
+.opg_ftr { width:800px; background-image: url(/content/ebiz/originalpenguin/page/ftr/new_ftr_shadow.png); background-repeat: no-repeat; background-position: left 45px; height: 175px; }
+.opg_ftr_info { font-family:Arial, Helvetica, sans-serif; padding: 33px 10px 0 10px; font-size:9px !important; font-weight:bold; text-transform:uppercase }
+.opg_ftr .opg_ftr_info ul { padding:0 16px 0 0; margin:0; float:left; width:auto }
+.opg_ftr .opg_ftr_info ul li { list-style:none; padding:0 2px; margin:0; color:#999; font-weight:bold; line-height:16px; text-align: left; display:block }
+.opg_ftr .opg_ftr_info ul li a { color:#999; font-weight:bold; font-size:9px !important; text-decoration:none; display:block }
+.opg_ftr .opg_ftr_info ul li a:hover { color:#333; text-decoration:none !important;  }
+.opg_ftr .opg_ftr_info li h2 { font-size:10px; padding:0 0 3px 0; margin:0 0 3px 0; color:#4c4f5f; border-bottom: 1px solid #999; }
+.opg_ftr .opg_ftr_info li h2 span { color:#999966; }
+.opg_ftr .opg_ftr_info ul li a.perryEllis, .opg_ftr .opg_ftr_info ul li a.cubavera, .opg_ftr .opg_ftr_info ul li a.ccCalifornia { margin: 0 9px 0 0; background-position: top; background-repeat: no-repeat; display:block; line-height:0; }
+.opg_ftr .opg_ftr_info ul li a.perryEllis:hover, .opg_ftr .opg_ftr_info ul li a.cubavera:hover, .opg_ftr .opg_ftr_info ul li a.ccCalifornia:hover { background-position: bottom; display:block }
+.opg_ftr .opg_ftr_info ul li a.perryEllis span, .opg_ftr .opg_ftr_info ul li a.cubavera span, .opg_ftr .opg_ftr_info ul li a.ccCalifornia span { display:none; }
+.opg_ftr .opg_ftr_info ul li a.perryEllis { height:32px; width:79px; background-image: url(/content/ebiz/originalpenguin/page/ftr/new_ftr_pery_sprite.png); }
+.opg_ftr .opg_ftr_info ul li a.cubavera { height:32px; width:95px; background-image: url(/content/ebiz/originalpenguin/page/ftr/new_ftr_cuba_sprite.png); }
+.opg_ftr .opg_ftr_info ul li a.ccCalifornia { height:32px; width:30px; margin:0; background-image: url(/content/ebiz/originalpenguin/page/ftr/new_ftr_cccali_sprite.png); }
+.opg_ftr_bar { width: 800px; font-family:Arial, Helvetica, sans-serif; font-size:11px; height: 23px; color: #FFF; }
+.opg_ftr_bar_1, .opg_ftr_bar_2, .opg_ftr_bar_3 { height:23px; text-transform:uppercase; background-color: #272a39; line-height: 23px; }
+.opg_ftr_bar .opg_ftr_bar_1 { width: 270px; padding: 0 0 0 30px; margin: 0 1px 0 0; float:left }
+.opg_ftr_bar .opg_ftr_bar_1 span a { background-image: url(/content/ebiz/originalpenguin/page/ftr/new_ftr_arrow_icon.png); background-repeat: no-repeat; background-position: 0 5px; font-weight:bold; margin:0 0 0 10px; padding:0 0 0 7px; color:#FFF; text-decoration:underline; }
+.opg_ftr_bar .opg_ftr_bar_1 span a:hover { color:#FFF; text-decoration:underline; background-position: 2px 5px; }
+.opg_ftr_bar .opg_ftr_bar_2 { width: 629px; padding:0 0 0 10px; margin:0 1px 0 0; float:left; text-align:left }
+.opg_ftr_bar .opg_ftr_bar_2 span { font-weight: bold; color: #ecde9f; }
+.opg_ftr_bar .opg_ftr_bar_2 span.email a { background-image: url(/content/ebiz/originalpenguin/page/ftr/new_ftr_email_icon.png); background-repeat: no-repeat; background-position: left 2px; font-weight:bold; margin:0 0 0 5px; padding:0 0 0 20px; color:#FFF; text-decoration:underline; }
+.opg_ftr_bar .opg_ftr_bar_2 span.txt a { background-image: url(/content/ebiz/originalpenguin/page/ftr/new_ftr_txt_icon.png); background-repeat: no-repeat; background-position: left center; font-weight:bold; margin:0 0 0 8px; padding:0 0 0 15px; color:#FFF; text-decoration:underline; }
+.opg_ftr_bar .opg_ftr_bar_3 { width:150px; padding: 0 0 0 10px; float:left; }
+.opg_ftr_bar .opg_ftr_bar_3 span { float:left; }
+.opg_ftr_bar .opg_ftr_bar_3 span a.imgs { padding:3px 0 0 10px; display:block }
+.opgmobilereturn { font-size: 12px; font-weight: bold; text-transform: capitalize; width: 100%; text-align: center; color: #292a39; text-decoration: underline; margin-top: 20px; }
+</style>
+<div class="opg_ftr">
+<div class="opg_ftr_bar">
+<!--<div class="opg_ftr_bar_1"></div>-->
+<div class="opg_ftr_bar_2">Stay Connected and <span>Save 20%!</span> <span class="email"><a href="http://www.originalpenguin.com/customer-service/join-e-mail/page/joinemail/">Email</a></span><span class="txt"><a href="http://www.originalpenguin.com/customer-service/sign-up-for-txt-msgs/page/signuptxtmsg/">Txt Msgs</a></span></div>
+<div class="opg_ftr_bar_3"><span>Follow Us</span> 
+<span><a href="http://www.facebook.com/pages/Original-Penguin-USA/75915831368" target="_blank" class="imgs"><img src="/content/ebiz/originalpenguin/page/ftr/new_ftr_fb.png" width="16" height="16" border="0"></a>
+</span><span><a href="https://twitter.com/OriginalPenguin" target="_blank" class="imgs"><img src="/content/ebiz/originalpenguin/page/ftr/new_ftr_twt_2.png" width="16" height="16" border="0"></a></span>
+<span><a href="http://www.youtube.com/originalpenguintv" target="_blank" class="imgs"><img src="/content/ebiz/originalpenguin/page/ftr/new_ftr_youtube.png" width="16" height="16" border="0"></a></span></div>
+</div>
+<div class="opg_ftr_info">
+<ul>
+<li>
+<h2>Customer Care</h2>
+</li>
+<li>Call us @ 1.866.OPG.TRUE</li>
+<li><a onclick="window.open('https://admin.instantservice.com/links/7565/41823','custclient','width=600,height=324,scrollbars=0'); return false;" href="#Live Chat">Live Chat</a></li>
 
-
-</div></li>
-<li class="signupnewsletters">
-<a href="http://www.originalpenguin.com/Customer-Service/Join-Our-Email/page/joinemail"><img src="/content/ebiz/originalpenguin/resources/images/ft_emails.gif" alt="SIGN UP TO RECEIVE OUR EMAILS" title="SIGN UP TO RECEIVE OUR EMAILS" border="0"></a><img src="/content/ebiz/originalpenguin/resources/images/ft_txt_msg.gif" alt="REGISTER FOR TEXT UPDATES" title="REGISTER FOR TEXT UPDATES" border="0">
+<li><a href="http://www.originalpenguin.com/customer-service/contact-us/page/customercare/">Mail or Email Us</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/store-locator-usa/page/storeusa/">Store Locator</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/size-chart/page/sizeguide/">Size Chart</a></li>
+<li><a href="http://www.originalpenguin.com/site-map/page/sitemap/">Site Map</a></li>
+</ul>
+<ul>
+<li>
+<h2>Orders</h2>
+</li>
+<!--<li><a href="http://www.originalpenguin.com/customer-service/holiday-shipping-schedule/page/holidayschedule/"><span style="color:#993300;"><strong>Holiday  Schedule</strong></span></a></li>-->
+<li><a href="http://www.originalpenguin.com/bin/venda?ex=co_wizr-ordlookup&amp;bsref=perryellis&amp;template=wz_orpo-screen&amp;layout=myaccount">Order Status</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/returns/page/returns/">Returns</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/payment-options/page/paymentoptions/">Payment Options</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/using-a-promo-code/page/promocodes/">Using Promo Codes</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/shipping+handling-usa/page/shippinghandling/">Shipping &amp; Handling</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/shipping+handling-international/page/shippinghandlingintl/">Shipping International</a></li>
+</ul>
+<ul>
+<li>
+<h2>About Us</h2>
+</li>
+<li><a href="http://www.originalpenguin.com/customer-service/about-us-our-story/page/aboutus/">Our Story</a></li>
+<li><a href="http://www.pery.com/" target="_blank">Investors</a></li>
+<li><a href="http://pery.com/careers.asp" target="_blank">Job Opportunities</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/privacy-policy/page/privacy/">Privacy Policy</a></li>
+<li><a href="http://www.originalpenguin.com/customer-service/terms+conditions/page/termsofuse/">Terms &amp; conditions</a></li>
+</ul>
+<ul>
+<li>
+<h2><span>Want More Penguin?</span></h2>
+</li>
+<li><a href="http://www.originalpenguin.com/landing-pages/press/page/press/">Press</a></li>
+<li><a href="http://www.originalpenguin.com/more-penguin/wmp/page/wmp/">Lookbook</a></li>
+<!--
+<li><a onClick="MM_openBrWindow('http://mp3.insound.com/player/simplePlayerPenguin.swf?utm_source=radio&amp;utm_medium=radio&amp;utm_content=radio&amp;utm_campaign=radio','HolidayShippingSchedule','width=370,height=250')" href="#Radio Player">Listen to Music</a></li>
+-->
+<!--<li><a href="http://www.originalpenguin.com/landing-pages/music-downloads-opt-in/page/music/">Download Songs</a></li>-->
+<li><a href="http://www.originalpenguin.com/more-penguin/video/page/video/">Watch Videos</a></li>
+<li><a href="http://www.originalpenguin.com/more-penguin/more/page/more/">Download Wallpaper</a></li>
+</ul>
+<ul style="padding:0; margin:0;">
+<li>
+<h2>Shop Our Stores</h2>
+</li>
+<li style="float:left"><a class="perryEllis" href="http://www.perryellis.com/?utm_source=link&amp;utm_medium=link&amp;utm_content=perryellis&amp;utm_campaign=hplink"><span>Perry Ellis</span></a></li>
+<li style="float:left"><a class="cubavera" href="http://www.cubavera.com/?utm_source=link&amp;utm_medium=link&amp;utm_content=cubavera&amp;utm_campaign=hplink"><span>Guayabera</span></a></li>
+<li style="float:left; padding:0; margin:0;"><a class="ccCalifornia" href="http://www.candccalifornia.com/?utm_source=link&amp;utm_medium=link&amp;utm_content=c%26c&amp;utm_campaign=hplink"><span>C &amp; C California</span></a></li>
+<li style="clear:both; padding-top:15px">
+<h2><span style="color:#999966">LIKE ORIGINAL PENGUIN?</span></h2>
+</li>
+<li style="clear:both; float:left; margin:0;">
+<script src="https://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="https://www.facebook.com/OriginalPenguinUSA" width="200" show-faces="false"></fb:like>
 </li>
 </ul>
 </div>
-<span style="font-size:8px; color:#272A39; float: right; position: relative; top:-3px">*STANDARD TEXT MESSAGE RATES MAY APPLY</span>
-</div></div><div class="Lcat_footerlinks"><img src="https://ads.undertone.com/fc.php?script=profileTargetingCommon:logBeacon&amp;pid=102&amp;cb=03:57:08" style="display: none;" border="0" height="1" width="1"><script type="text/javascript">
+</div>
+<div style="clear:both"></div>
+<div style="float:left; margin-top:15px"><a onclick="MM_openBrWindow('https://smarticon.geotrust.com/smarticonprofile?Referer=http://www.originalpenguin.com;layout=blank','disclaimers','scrollbars=yes,width=495,height=500')" href="#"><img src="/content/ebiz/originalpenguin/page/ftr/ssl-cert-geotrust.gif" width="95" height="34" border="0"></a></div>
+<div style="float:left; margin-left:10px; margin-top:15px"><a href="http://www.originalpenguin.com/customer-service/payment-options/page/paymentoptions/"><img src="/content/ebiz/originalpenguin/page/ftr/paypal.jpg" width="60" height="34" border="0"></a></div>
+<div style="clear:both"></div>
+
+</div>
+<script type="text/javascript" src="/content/ebiz/originalpenguin/page/internallinks/jquery.hoverintent.minified.js"></script>
+<script type="text/javascript" src="/content/ebiz/originalpenguin/page/internallinks/jquery.bxslider2.0.1.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#slides1').bxSlider({
+		wrapper_class: 'slides1_wrap',
+		margin: 0,
+		auto: true,
+		auto_controls: false
+	});
+});
+</script>
+<script type="text/javascript">
+$(document).ready(function() {
+	function megaHoverOver(){
+		$(this).find(".sub").slideDown(50);
+		$(this).find("a.men").css({ backgroundColor: "#404454" });
+		$(this).find("a.women").css({ backgroundColor: "#404454" });
+		$(this).find("a.kids").css({ backgroundColor: "#404454" });
+		$(this).find("a.shoes").css({ backgroundColor: "#404454" });
+		$(this).find("a.sale").css({ backgroundColor: "#404454" });
+		$(this).find("a.stayConnectedSave").css({ backgroundColor: "#404454" });
+	}
+	
+	function megaHoverOut(){ 
+	  $(this).find(".sub").slideUp(50);
+			$(this).find("a.men").css({ backgroundColor: "#272A39" });
+			$(this).find("a.women").css({ backgroundColor: "#272A39" });
+			$(this).find("a.kids").css({ backgroundColor: "#272A39" });
+			$(this).find("a.shoes").css({ backgroundColor: "#272A39" });
+			$(this).find("a.sale").css({ backgroundColor: "#272A39" });
+			$(this).find("a.stayConnectedSave").css({ backgroundColor: "#272A39" });
+	}
+	var config1 = {    
+		 sensitivity: 20, // number = sensitivity threshold (must be 1 or higher)    
+		 interval: 50, // number = milliseconds for onMouseOver polling interval    
+		 over: megaHoverOver, // function = onMouseOver callback (REQUIRED)    
+		 timeout: 50, // number = milliseconds delay before onMouseOut    
+		 out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
+	};
+	$("ul#opgTopnav li").hoverIntent(config1);
+});
+if ( navigator.userAgent.match(/Android/i) || navigator.userAgent.match(/webOS/i) || navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPod/i) || navigator.userAgent.match(/IEMobile/i))
+{
+	switchStyleOfUser();
+
+}
+	else if ( navigator.appVersion.indexOf(/Win/) || navigator.appVersion.indexOf(/Mac/) || navigator.appVersion.indexOf(/X11/) || navigator.appVersion.indexOf(/Linux/))
+	{
+document.write("<script>$(\'.disp_mobile, .disp_mobile_return, .disp_mobile_ftr, #productdetail .productdetailleft .desc\').empty().remove();<\/script>");
+
+/*
+$("<img style='margin-top:20px' src='http://www.originalpenguin.com/content/ebiz/originalpenguin/page/ext_img/bnr-05-11-2011_b.jpg'>").insertBefore($(".prodlist_sale"));
+
+$("<img style='margin-top:20px' src='http://www.originalpenguin.com/content/ebiz/originalpenguin/page/ext_img/bnr-05-11-2011_b.jpg'>").insertBefore($(".catbanner"));
+
+$("<img style='margin-top:20px' src='http://www.originalpenguin.com/content/ebiz/originalpenguin/page/ext_img/bnr-05-05-2011.jpg'>").insertBefore($("#productlist"));
+*/
+
+}
+
+
+</script><script>$('.disp_mobile, .disp_mobile_return, .disp_mobile_ftr, #productdetail .productdetailleft .desc').empty().remove();</script></div><div class="Lcat_footerlinks"><script type="text/javascript">
 if(Venda.Platform.EqualHeight){
 if(!document.getElementById('prods')){
 Venda.Platform.EqualHeight.jq(document).ready(function(){
@@ -609,114 +1714,53 @@ var classtoset = new Array('li .details','li.prod_search','li .details h2.prodna
 });
 }
 }
-</script><div class="Lstorylist footerlink">
-
-
-<h2><span></span>Footer Links</h2>
-<ul>
-
-<li class="first">
-
-
-
-1.866.OPG.TRUE
-
-
-
-</li>
-
-<li>
-
-
-<a href="http://www.originalpenguin.com/page/customercare">
-
-
-Customer Care
-
-</a>
-
-</li>
-
-<li>
-
-
-<a href="/page/storeusa">
-
-
-STORE LOCATOR
-
-</a>
-
-</li>
-
-<li>
-
-
-<a href="http://www.originalpenguin.com/page/returns">
-
-
-Returns
-
-</a>
-
-</li>
-
-<li>
-
-
-<a href="http://www.originalpenguin.com/page/aboutus">
-
-
-About Us
-
-</a>
-
-</li>
-
-<li>
-
-
-<a href="http://www.originalpenguin.com/page/privacy">
-
-
-Privacy Policy
-
-</a>
-
-</li>
-
-<li>
-
-
-<a href="http://www.originalpenguin.com/page/termsofuse">
-
-
-Terms of Use
-
-</a>
-
-</li>
-
-</ul>
-</div><br class="clear-all"><div class="Lcopyright  copyright">
-<p>© 2009PEI Licensing, Inc. All rights reserved</p>
+</script><br class="clear-all"><div class="Lcopyright  copyright">
+<p>© 2011PEI Licensing, Inc. All rights reserved</p>
 </div>
-<br class="clear-all"></div></div></div>
+</div></div></div>
 
 
 <!-- end wrapper -->
 
 <!-- Use this template to add custom site wide tracking tags for a site -->
 
+
 <script language="javascript" src="https://dsa.csdata1.com/data/js/6009909/csgather.js"></script>
 
 
+<!-- Resonance code resxclsa.js v2.x Copyright 2004-2010 Certona Corporation www.certona.com -->
+<script type="text/javascript">
+
+//variables for all pages
+var resx = new Object();
+resx.appid="PERRYELLIS02";
+resx.top1=100000;
+resx.top2=100000;
+
+resx.lkmatch =/\/invt\/\w+/i;
+resx.customerid=""; 
+
+
+
+
+</script>
+
+
+
+
+<script type="text/javascript" src="http://www.originalpenguin.com/content/ebi&#10;z/originalpenguin/resources/js/certona/resxclsa.js"></script>
+<!-- Resonance --> 
 
 
 
 
 
- <!-- tracker is only for the LIVE instance -->
+
+
+
+
+
+
 
 
 <!-- if on a non-secure page pull in the non-secure JS -->
@@ -726,9 +1770,15 @@ Terms of Use
 
 <!-- standard tag for non shopcart/register workflow-->
 	<script type="text/javascript">
+	
+	
 	_uacct = "UA-791922-2";
+	
 	urchinTracker();
+	
 	</script>
+
+
 
 
 
@@ -740,6 +1790,262 @@ Terms of Use
 
 
 
+
+
+<!-- SiteCatalyst code version: H.17.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="http://www.originalpenguin.com/content/ebiz/originalpenguin/resources/js/tracking/s_code.js"></script>
+<script language="JavaScript" type="text/javascript">
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+/* Old Variables*/
+
+
+
+	
+
+
+url=location.href;
+h=location.hostname+"/bin/venda";
+recs = new Array("page","invt","icat","stry","scat","pcat");
+names = new Array("Page","Product","Product Category","Story","Story Category","Page Category");
+tags = new Array("Privacy Policy","","","","","");
+/* Old Variables*/
+
+
+s.currencyCode="USD";
+
+s.server="Cubavera";
+s.channel="";
+s.pageType="";
+s.prop1="";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.prop5="";
+s.prop6="";
+/* Conversion Variables */
+s.campaign="";
+s.state="";
+s.zip="";
+
+
+
+s.events="";
+
+
+s.products="";
+s.purchaseID="";
+
+
+
+s.eVar1="";
+
+
+s.eVar2="";
+s.eVar3="";
+
+
+
+
+s.eVar4="";
+
+
+s.eVar5="";
+s.eVar6="";
+s.eVar7="";
+s.eVar8="";
+s.eVar9="";
+s.eVar10="";
+s.eVar11="";
+s.eVar12="";
+s.eVar13="";
+
+var getShipmed = "";
+var getPaymed = "";
+
+if (getShipmed.match(/Express/)) {
+	s.eVar6="2 Day Express";
+	}
+if (getShipmed.match(/Standard/)) {
+	s.eVar6="Standard Ground";
+	}
+if (getShipmed.match(/Overnight/)) {
+	s.eVar6="Overnight";
+	}
+			
+var pageTitle="";
+var heirpageTitle="";
+
+
+if (url.match(h) || url.match(/co_wizr-/) || url.match(/co_disp-shopc/)) {
+// if the url ends with or contains this you're probably in a workflow
+	if ((url.match(/co_disp-view/)) && (url.match(/email/))) {
+		pageTitle="Sign Up For Emails";
+		heirpageTitle="Sign Up For Emails";
+	} else {
+		workflow="";
+		var wfref=new Array("shopcart", "manageaddresses", "ordlookup", "passwordreminder", "register", "postcodedistance", "giftcertificates","refer","login","locayta");
+		// make workflow name more friendly
+		var wfnames=new Array("Checkout", "My Account", "My Account", "Password Reminder", "Register", "Store Locator", "Gift Certificates","Refer","Login","Search Result");
+		if (workflow.indexOf("<")==-1) {
+			for (t=0; t<wfref.length; t++) {
+				if (workflow==wfref[t]) {
+					workflow=wfnames[t];
+				}
+			}
+		}
+		w=hasValue(workflow);
+		if (w==false) {
+			if(typeof step!="undefined") {
+				if (hasValue(step)) {
+					pageTitle+="My Account|"+step;
+					heirpageTitle+="My Account,"+step;
+				}
+			}else {
+				// but if the workflow and step is undefined you are on a page whose values use a POST
+				notInWorkflow();
+			}
+		} else if (w==true) {
+			pageTitle=workflow;
+			heirpageTitle=workflow;
+			addProd();
+			//additionally if a workflow step is defined, append that to pageTitle
+			if (typeof step!="undefined") {
+				if (hasValue(step)) {
+					pageTitle+="|"+step;
+					heirpageTitle+=","+step;
+					if (step=="Shopping Basket") {
+						s.events="scView";
+						if (typeof sitecatProds!="undefined"){
+							s.products=rmLastChar(sitecatProds);// remove last character
+						}else{sitecatProds="";}
+					}
+					if (workflow=="Checkout" && step=="Login Page") {s.events="scCheckout";}
+					if (workflow=="Checkout" && step=="Order Confirmation") {
+						s.events="scCheckout:"+ohrfnbr;
+						if (typeof sitecatProds!="undefined"){
+							s.products=rmLastChar(sitecatProds);// remove last character
+						}else{
+							sitecatProds="";
+						}
+					}
+				}
+			}
+		}
+	}
+} else {
+	// otherwise do the basics: if url contains page, stry etc format the sitestat countername appropriately
+	notInWorkflow();
+}
+
+
+function notInWorkflow() {
+	// use the tags array to see if any of the record tags translate
+	compareURL();
+	addProd();
+	if ((url.match(/co_disp-refer/)) && (url.match(/page=referlist/))){
+			pageTitle="Refer|Refer a Friend List";
+			heirpageTitle="Refer,Refer a Friend List";
+		
+	} 
+}
+
+function hasValue(translated) {
+	// check if a particular Venda tag has translated
+	if (translated.indexOf("<")==0 || translated=="") {
+		return false;
+	} else {
+		return true;
+	}
+}
+
+function rmLastChar(product) {
+	// remove last character
+	var sitecatProdsString = new String(product);
+	var sitecatProdsFinal=sitecatProdsString.slice(0,-1);
+	return sitecatProdsFinal;
+}
+
+function compareURL(){
+	d=url.split("/");
+	// if the part of the url matches anything in "recs", set pageTitle to the corresponding value in "names"
+	for (i=0; i<recs.length; i++) {
+		if (d[d.length-3]==recs[i]) {
+			// set additional variables if this is a product
+			if (recs[i]=="invt") {
+				s.events="prodView";
+				s.products=";";
+			} 
+			//pageTitle=tags[i];heirpageTitle=tags[i];
+			pageTitle=names[i]+"|"+tags[i];heirpageTitle=names[i]+","+tags[i];
+		}else{
+			j=hasValue(tags[i]);
+			if (j==true) {
+				//pageTitle=tags[i];heirpageTitle=tags[i];
+				pageTitle=names[i]+"|"+tags[i];
+				heirpageTitle=names[i]+","+tags[i];
+			}
+		}
+	}
+}
+
+function addProd() {
+	
+}
+
+function addProdAjax() {
+s.t({events:"scAdd"});
+}
+
+if (typeof cancelitems!="undefined") {
+	pageTitle="My Account|Cancel Ordered Items";
+	heirpageTitle="My Account,Cancel Ordered Items";
+}
+
+if (typeof orfn!="undefined") {
+	s.state=ohstate;
+	s.zip=ohzipc;
+	s.events="purchase,event11";
+	var sitecatProdsFinal=rmLastChar(sitecatProds);
+	s.products=sitecatProdsFinal + ";event11=" + ohtot;
+	s.purchaseID=ohordnum;
+}
+
+s.pageName = pageTitle;
+s.channel = "Original Penguin";
+s.heir1 = heirpageTitle;
+
+//remove basket : 
+
+
+var xyz="";
+
+if (typeof norecord!="undefined") {
+	s.pageType="errorPage";
+	s.pageName="";
+	s.channel="";
+	s.heir1="";
+}
+
+/* Link Tracking Config */
+var ebizurl="http://www.originalpenguin.com";
+ebizurl=ebizurl.replace("http://","");//remove http:// from ebizurl
+s.linkInternalFilters="javascript:," + ebizurl;
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)</script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web
+Analytics"><img
+src="http://peryopgecomm.112.2O7.net/b/ss/peryopgecomm/1/H.17--
+NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT
+REMOVE/-->
+<!-- End SiteCatalyst code version: H.17. -->
 
 
 
