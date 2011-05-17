@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10amonth.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228080655id_/http%3A//10amonth.com/privacy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10amonth.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517194928id_/http%3A//10amonth.com/privacy1.html) for the most accurate reproduction.*
 
 # 
 
