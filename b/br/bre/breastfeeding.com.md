@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breastfeeding.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208191323id_/http%3A//www.breastfeeding.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breastfeeding.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517095705id_/http%3A//www.breastfeeding.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
