@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the originalpenguin.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019025708id_/http%3A//www.originalpenguin.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originalpenguin.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517220532id_/http%3A//www.originalpenguin.com/Customer-Service/Privacy-Policy/page/privacy) for the most accurate reproduction.*
 
-# 
+# Customer Care - Privacy Policy | The Official Online Store for Original Penguin®
 
   
 
