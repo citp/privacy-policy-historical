@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gameloft.org privacy policy that was archived on 2010-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101029165957id_/http%3A//www.gameloft.com/index.php%3Fplatform%3Dgameloft%26section%3Dprivacity%26adid%3D101966) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gameloft.org privacy policy that was archived on 2011-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110517215032id_/http%3A//www.gameloft.com/index.php%3Fplatform%3Dgameloft%26section%3Dprivacity%26adid%3D101966) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<title>Top Mobile Games, iPhone Games - Download Games for Mobile, iPhone, Android &amp; More | Gameloft</title>
@@ -28,26 +28,25 @@
     
 				<link rel="stylesheet" href="http://media01.gameloft.com/layout/default/web/sitenew/styles-general-com.css" type="text/css" media="screen" charset="utf-8">
 				<link rel="stylesheet" href="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/css/common/main.css" type="text/css" media="screen" charset="utf-8">
-			
+			<link rel="canonical" href="http://www.gameloft.com/index.php">
 	<!--INCLUDE OF CSS-->
 	 
 	
 	<!--CONDITIONAL INCLUDE OF CSS-->
 	
-	<script type="text/javascript" src="/plugins_3rdparty/osxDemo.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/plugins_3rdparty/osxDemo.js"></script>
 	
 	<!--CONDITIONAL INCLUDE OF CSS eof-->
 
-        <link rel="stylesheet" href="https://media01.gameloft.com/layout/default/web/sitenew/css/styles-my_account.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="https://media01.gameloft.com/layout/default/web/sitenew/css/styles-my_account.css" type="text/css" charset="utf-8">
 
 	<!--INCLUDE OF JAVASCRIPT-->
     <!--Scripts Load-->
-		 
-		<script type="text/javascript" src="/plugins_3rdparty/swfobject.js"></script>
-		<script type="text/javascript" src="/plugins_3rdparty/mootools-12.js"></script>
-		<script type="text/javascript" src="/plugins_3rdparty/mootools-compat-core.js"></script>
-		<script type="text/javascript" src="/plugins_3rdparty/mootools-compat-more.js"></script>
-		<script type="text/javascript">
+	<script type="text/javascript" src="/plugins_3rdparty/swfobject.js"></script>
+	<script type="text/javascript" src="/plugins_3rdparty/mootools-12.js"></script>
+	<script type="text/javascript" src="/plugins_3rdparty/mootools-compat-core.js"></script>
+	<script type="text/javascript" src="/plugins_3rdparty/mootools-compat-more.js"></script>
+	<script type="text/javascript">
 	/* hover for motools */
 	Element.implement({
 		'hover': function(fn1,fn2) {
@@ -61,9 +60,9 @@
 			})
 		}
 	});
-</script>
+	</script>
 
-		<script type="text/javascript">
+	<script type="text/javascript">
 				var ajax_running=false;
 				var platform = 'gameloft';
 				var category = 'top-games';
@@ -274,12 +273,7 @@
 			}
 		
 		</script>
-		
-		<script type="text/javascript">
-			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		
-		
+		 
 	<!--INCLUDE OF JAVASCRIPT eof-->
 	
 </head>
@@ -385,7 +379,7 @@
 				if(platform == 'smartphone') { $('smartphone_button_top').setProperty('class','text_menu_light_blue blackberry_button_lightblue_hover'); }
 				if(platform == 'android') { $('android_button_top').setProperty('class','text_menu_light_blue android_menu_hover'); }
 				*/
-				if(platform == 'smartphone') { $('android_button_new').setProperty('class','android_button android_button_hover'); }
+				if(platform == 'smartphone') { if ($('android_button_new')) $('android_button_new').setProperty('class','android_button android_button_hover'); }
 				
 				if(platform == 'wm') { $('windows_mobile_button_top').setProperty('class','text_menu_light_blue windows_mobile_hover'); }
 				if(platform == 'iphone' | platform == 'ipod') { $('menu-iphone').setProperty('class','menu-iphone menu_iphone_hover'); }					
@@ -518,7 +512,8 @@
 
 	
 	<div id="container" style="min-height:800px">
-        <div id="content_left">
+		<div id="platform-label-container"></div>
+        <div id="content_left" style="padding-top:25px;">
 
 <ul class="menu_left menu_mobile">
 	<li>
@@ -569,14 +564,19 @@
 			var JS_WEB_COMMON			= 'http://media01.gameloft.com//';
 			var JS_WEB_STATIC_COMMON	= 'http://verified.gameloft.com/documents/';
 			var JS_FS_FOLDER_LOCAL_NAME	= 'documents';
+			
+			// Declaring required variables
+			var digits = "0123456789";
+			// non-digit characters which are allowed in phone numbers
+			var phoneNumberDelimiters = "()- ";
+			// characters which are allowed in international phone numbers
+			// (a leading + is OK)
+			var validWorldPhoneChars = phoneNumberDelimiters + "+";
+			// Minimum no of digits in an international phone no.
+			var minDigitsInIPhoneNumber = 10;
+			
 
-			window.addEvent('domready', function(event){
-				$('number').addEvent('keydown', function(event){
-					event = new Event(event);
-					if (event.key == 'enter') { event.stop(); }
-	
-				});
-								
+			window.addEvent('domready', function(event) {
 				var bool_choose_visible = false;
 				$('choose_phone_box').set('tween', { duration: 250 });
 				$('choose_phone_3').set('tween', { duration: 250 });
@@ -601,24 +601,45 @@
 				
 					
 				function show_phone_box_1() {
+
+					//Use ADID for .com only
+					var adid = 'documents' === 'documents' ? '&adid=149609' : '';
+					
 					// Load countries and operators (default)
 					var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
-						onRequest: function() { $('country_id_div').set('html', 'Loading'); },
+						onRequest: function() { $('country_id_div').set('html', '<div align="center"><img src=http://media01.gameloft.com/layout/default/web/sitenew/images_site//ajax-bar-loader.gif /></div>'); },
 						onSuccess: function(responseText) { $('country_id_div').set('html', responseText);
+							$('country_id_div').set('html', responseText);
 							// Load operators
 							$('country_id').addEvent('change',function(e){
+
 								var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
-									onRequest: function() { $('operator_id_div').set('html', 'Loading'); },
+									onRequest: function() { $('format_hint').set('html', '' ); },
+									onSuccess: function(responseText) { $('format_hint').set('html', responseText); }
+								}).send('wc=documents&request=countrycode&country='+$('country_id').value);
+								
+								var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
+									onRequest: function() { $('operator_id_div').set('html', '<div align="center"><img src=http://media01.gameloft.com/layout/default/web/sitenew/images_site//ajax-bar-loader.gif /></div>'); },
 									onSuccess: function(responseText) { $('operator_id_div').set('html', responseText); }
 								}).send('wc=documents&request=operators&country='+$('country_id').value);
 							});
-						}
-					}).send('wc=documents&request=countries');
+							
+							window.addEvent('domready', function() {
 
-					var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
-						onRequest: function() { $('operator_id_div').set('html', 'Loading'); },
-						onSuccess: function(responseText) { $('operator_id_div').set('html', responseText); }
-					}).send('wc=documents&request=operators');
+								var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
+									onRequest: function() { $('format_hint').set('html', '' ); },
+									onSuccess: function(responseText) { $('format_hint').set('html', responseText); }
+								}).send('wc=documents&request=countrycode&country='+$('country_id').value);
+
+								var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
+										onRequest: function() { $('operator_id_div').set('html', '<div align="center"><img src=http://media01.gameloft.com/layout/default/web/sitenew/images_site//ajax-bar-loader.gif /></div>' ); },
+										onSuccess: function(responseText) { $('operator_id_div').set('html', responseText); }
+									}).send('wc=documents&request=operators&country='+$('country_id').value);
+
+								
+							});
+						}
+					}).send('wc=documents&request=countries' + adid);
 
 					$('choose_phone_box').setStyle('display', 'block');
 					phone_box_position();
@@ -660,12 +681,12 @@
 				}
                 
 				function setPhone(data) {
-					$('div_request').load('/request-session.php');
+					//$('div_request').load('/request-session.php');
 					var request = new Request({method: 'get', link: 'ignore', url: '/request-session.php',
-						onSuccess: function(responseText) {
+						onSuccess: function(responseText) {						
 							responseText = JSON.decode(responseText);
 							$('phone_name').set('html',responseText.name);
-							//$('phone_img').set('src',responseText.img);
+							$('phone_img').set('src',responseText.img);
 							
 							show_choose_phone_4();
 						}
@@ -690,6 +711,12 @@
 				});	
 				
 				$('phone_select_show2').addEvent('click',function(e){
+
+					/* 
+					reset model select option if user chooses another phone 
+					*/
+					$('list_model').set( 'html', '<option value="">' + 'Choose your model' + '</option>' );
+					
 					hide_choose_phone_4();
 					bool_choose_visible = true;
 					$('dark_screen').fade(0,0.6);
@@ -697,16 +724,13 @@
 					show_phone_box_1();
 				});
 				
-				$('choose_phone_4_close').addEvent('click',function(e){ hide_phone_box_1(); hide_phone_box_3(); hide_choose_phone_4(); bool_choose_visible = false; $('dark_screen').fade(0.4,0); });
+				//$('choose_phone_4_close').addEvent('click',function(e){ hide_phone_box_1(); hide_phone_box_3(); hide_choose_phone_4(); bool_choose_visible = false; $('dark_screen').fade(0.4,0); });
 				$('choose_phone_4_close2').addEvent('click',function(e){ hide_phone_box_1(); hide_phone_box_3(); hide_choose_phone_4(); bool_choose_visible = false; $('dark_screen').fade(0.4,0); window.location.reload(); });
-				$('choose_phone_close_button').addEvent('click',function(e){ hide_phone_box_1(); hide_phone_box_3(); bool_choose_visible = false; $('dark_screen').fade(0.4,0); });
-				
-				
-				
+				$('choose_phone_close_button').addEvent('click',function(e){ hide_phone_box_1(); hide_phone_box_3(); bool_choose_visible = false; $('dark_screen').fade(0.4,0); window.location.reload(); });
 				
 				$('phone_select_ok_manual').addEvent('click',function(e){
-					if($('country_id').value == 0) { alert('Please select a country'); return; }
-					if($('operator_id').value == 0) { alert('Please select a carrier'); return; }
+					if($('country_id').value == 0) { $('error_country').set('html','Please select a country'); return; } else { $('error_country').set('html',''); }
+					if($('operator_id').value == 0) { $('error_operator').set('html','Please select a carrier'); return; } else { $('error_operator').set('html',''); }
 
 					hide_phone_box_1(); show_phone_box_3();
 					
@@ -714,94 +738,292 @@
 					
 					var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
 						onSuccess: function(responseText) {
-                            $('more_phones').set('html', responseText);
-                            $$('li.phonelist_click').addEvent('click',function(e) { var data_phone = this.value; setPhone(data_phone); });
+							$('content_phone_table').set('html', '<div style="font: 10px Tahoma, Verdana, Arial; position: absolute; left: 240px; top: 200px;" align="center">Loading...<br /><img src=http://media01.gameloft.com/layout/default/web/sitenew/images_site//ajax-bar-loader.gif /></div>');
+						},
+						onSuccess: function(responseText) {
+	                           // $('more_phones').set('html', responseText);
+							$('content_phone_table').set('html', responseText);
+	                        $$('#phonelist_click').addEvent('click',function(e) { var data_phone = this.value; setPhone(data_phone); });
 						}
-					}).send('wc=documents&request=top20');
+					}).send('wc=documents&request=top20&id='+$('operator_id').value);
                     
-
+					$('list_brand').length = 1;
 					var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
+						onRequest: function() {
+							$('content_phone_table').set('html', '<div style="font: 10px Tahoma, Verdana, Arial; position: absolute; left: 240px; top: 200px;" align="center">Loading...<br /><img src=http://media01.gameloft.com/layout/default/web/sitenew/images_site//ajax-bar-loader.gif /></div>');
+						},
 						onSuccess: function(responseText) {
 							manufacturers = JSON.decode(responseText);
 							$('list_brand').length = 1;
 							for(var manufacturer in manufacturers ) {
 								var option = new Element('option');
-								// Apple filter
-								if(manufacturers[manufacturer].manufacturer_id != 66) {
-									option.setProperty("value", manufacturers[manufacturer].manufacturer_id);
-									option.setHTML(manufacturers[manufacturer].manufacturer_name); 
-									$('list_brand').adopt(option);
-								}
+								option.setProperty("value", manufacturers[manufacturer].manufacturer_id);
+								option.setHTML(manufacturers[manufacturer].manufacturer_name); 
+								$('list_brand').adopt(option);
 							}
 						}
 					}).send('wc=documents&request=manufacturers&id='+$('operator_id').value);
 					
 					$('list_brand').addEvent('change',function(e){
-						var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
+						// If the selected is None, use the Top 20 instead.
+						if( '' == this.value ) {
+							var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
+							onRequest: function() {
+								$('content_phone_table').set('html', '<div style="font: 10px Tahoma, Verdana, Arial; position: absolute; left: 240px; top: 200px;" align="center">Loading...<br /><img src=http://media01.gameloft.com/layout/default/web/sitenew/images_site//ajax-bar-loader.gif /></div>');
+							},
 							onSuccess: function(responseText) {
-								phones = JSON.decode(responseText);
-								$('list_model').length = 1;
-								for(var phone in phones ) {
-									if(phones[phone].shortname != 'undefined' && isFinite(phones[phone].id) == true) {
-										var option = new Element('option');
-										option.setProperty("value", phones[phone].id);
-										option.setHTML(phones[phone].shortname); 
-										$('list_model').adopt(option);
-									}
-								}
-
-								$('more_phones').set('html', phones.li);
-
-                                $$('li.phonelist_click').addEvent('click',function(e) { var data_phone = this.value; setPhone(data_phone); });
+							   // $('more_phones').set('html', responseText);
+								$('content_phone_table').set('html', responseText);
+								$$('#phonelist_click').addEvent('click',function(e) { var data_phone = this.value; setPhone(data_phone); });
 							}
+						}).send('wc=documents&request=top20&id='+$('operator_id').value);
+						} else {
+							var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
+								onRequest: function() {
+									$('content_phone_table').set('html', '<div style="font: 10px Tahoma, Verdana, Arial; position: absolute; left: 240px; top: 200px;" align="center">Loading...<br /><img src=http://media01.gameloft.com/layout/default/web/sitenew/images_site//ajax-bar-loader.gif /></div>');
+								},
+								onSuccess: function(responseText) {
+									phones = JSON.decode(responseText);
+									$('list_model').set( 'html', '<option value="">' + 'Choose your model' + '</option>' );
+									for(var phone in phones ) {
+										if(phones[phone].shortname != 'undefined' && isFinite(phones[phone].id) == true) {
+											var option = new Element('option');
+											option.setProperty("value", phones[phone].id);
+											option.setHTML(phones[phone].shortname); 
+											$('list_model').adopt(option);
+										}
+									}
+									if(phones != null) {
+										//$('more_phones').set('html', phones.li);
+										var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
+											onRequest: function(resp) {
+												$('content_phone_table').set('html', '<div style="font: 10px Tahoma, Verdana, Arial; position: absolute; left: 240px; top: 200px;" align="center">Loading...<br /><img src=http://media01.gameloft.com/layout/default/web/sitenew/images_site//ajax-bar-loader.gif /></div>');
+//												$('content_phone_table').set('html', resp + '-->ok');
+											},
+											onSuccess: function( response ) {
+												/*
+												phones = JSON.decode(responseText);
+												$('more_phones').set('html', phones.li);
+												*/
+												$('content_phone_table').set( 'html', response );
+											}
+										}).send('wc=documents&request=phoneslist&op='+$('operator_id').value+'&id='+$('list_brand').value);
+									}
+									//$$('#phonelist_click').addEvent('click',function(e) { var data_phone = this.value; setPhone(data_phone); });
+								}
 						}).send('wc=documents&request=phones&op='+$('operator_id').value+'&id='+$('list_brand').value);
+						}
 					});
 					
 					$('list_model').addEvent('change',function(e){
 						var data_phone = $('list_model').value;
+
+						/* 
+							check if model has been selected 
+						*/
+						if(data_phone == '')
+						{
+							return false;
+						}
+						
 						setPhone(data_phone);
 					});
+					
 				});
 				
 				$('phone_select_ok_auto').addEvent('click',function(e){
-					if($('number').value == '') { alert('Enter your telephone number'); return; }
-					if($('country_id').value == '0') { alert('Please select a country'); return; }
-					if($('operator_id').value == '0') { alert('Please select a carrier'); return; }
+					if($('number').value == '') { $('error_phone').set('html','Invalid phone number'); return; } else { $('error_phone').set('html',''); }
+					if($('country_id').value == 0) { $('error_country').set('html','Please select a country'); return; } else { $('error_country').set('html',''); }
+					if($('operator_id').value == 0) { $('error_operator').set('html','Please select a carrier'); return; } else { $('error_operator').set('html',''); }
 
 					hide_phone_box_1(); show_choose_phone_auto();
 					
-					$('choose_phone_auto_content').set('html', "<strong>Phone recognition process</strong><br/><br/>1. An SMS will be sent to your phone. When you receive it, click on the link in the SMS.<br/><br/>2. A connection will be opened on your phone, and your phone model will be displayed.<br/><br/>3. Once your phone appears below, you can close this window.");
-
+					$('choose_phone_auto_content').set('html', "<strong>Detection of your phone model:</strong><br/><br/>1. An SMS will be sent to your phone. When you receive it, click on the link in the SMS.<br/><br/>2. A connection will be opened on your phone, and your phone model will be displayed.<br/><br/>3. Once your phone appears below, you can close this window.<br /><div id='result_container' style='width: 325px; position: absolute; text-align: center; padding-top: 20px;'>Detecting phone, please wait..<br /><img src='http://media01.gameloft.com/layout/default/web/sitenew/images_site//ajax-bar-loader.gif' /></div>");
+					
+					var lastInsertID;
+					var request = new Request({method: 'get', link: 'ignore', url: '/test-sms.php',
+						onSuccess: function( responseText ) {
+							//var json_response = JSON.decode(responseText);
+							if( -1 != responseText ) {								
+								$( 'lri' ).set( 'value', responseText );
+								reload_wait_phone();								
+								//var data_phone = 'http://media01.gameloft.com/phones/transparency/'+responseText+'.gif';
+								//var data_phone = responseText;
+								//setPhone(data_phone);
+							}
+						}
+					}).send('wc=documents&step=1&phone='+$('number').value+'&country='+$('country_id').value+'&operator='+$('operator_id').value);
 					
 					// Send message
 					function reload_wait_phone() {
-						var request = new Request({method: 'get', link: 'ignore', url: '/request-sms.php',
+						var request = new Request({method: 'get', link: 'ignore', url: '/test-sms.php',
 							onSuccess: function(responseText) {
 								//var json_response = JSON.decode(responseText);
-								if(responseText != '') {
+								if( -1 != responseText ) {
+									//var data_phone = 'http://media01.gameloft.com/phones/transparency/'+responseText+'.gif';
 									var data_phone = responseText;
+									hide_choose_phone_auto();
 									setPhone(data_phone);
 								} else { var waiting_auto = reload_wait_phone.delay(2000); }
 							}
-						}).send('wc=documents&step=2&phone='+$('number').value);
+						}).send('wc=documents&step=2&phone='+$('number').value + '&lri=' + $( 'lri' ).value );
 					}
-
-					var request = new Request({method: 'get', link: 'ignore', url: '/request-sms.php',
-						onSuccess: function(responseText) {
-							//manufacturers = JSON.decode(responseText);
-							//var timer = setTimeout("reload_wait_phone()",2000)
-							var waiting_auto = reload_wait_phone.delay(2000);
-						}
-					}).send('wc=documents&step=1&phone='+$('number').value+'&country='+$('country_id').value+'&operator='+$('operator_id').value);
 
 				});
 				
-				$('choose_phone_3_close_button').addEvent('click',function(e){ hide_phone_box_1(); hide_phone_box_3(); bool_choose_visible = false; $('dark_screen').fade(0.4,0); });				
+				$('choose_phone_3_close_button').addEvent('click',function(e){ hide_phone_box_1(); hide_phone_box_3(); bool_choose_visible = false; $('dark_screen').fade(0.4,0); window.location.reload(); });				
 				
 				$('choose_phone_auto_close').addEvent('click',function(e){ hide_phone_box_1(); hide_phone_box_3(); hide_choose_phone_auto(); bool_choose_visible = false; $('dark_screen').fade(0.4,0); });				
 				
-				$('back_step_1').addEvent('click',function(e){ hide_phone_box_3(); hide_choose_phone_auto(); show_phone_box_1(); bool_choose_visible = true; });				
+				$('back_step_1').addEvent('click',function(e){ 
+					/* 
+					reset model selection if user goes back to previous screen
+					*/
+					$('list_model').set( 'html', '<option value="">' + 'Choose your model' + '</option>' );
+					 
+					hide_phone_box_3(); hide_choose_phone_auto(); show_phone_box_1(); bool_choose_visible = true; });				
 			});
+			
+			function acceptValidNumbersOnly(obj,e) {
+				var key='';
+				var strcheck = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ~!@#$%^&*()_=-`{}[]:\";'\|/?,><\\. ";
+				var whichcode = (window.Event) ? e.which : e.keyCode;
+				try{
+				if(whichcode == 13 || whichcode == 8)return true;
+				key = String.fromCharCode(whichcode);
+				if(strcheck.indexOf(key) != -1)return false;
+				return true;
+				}catch(e){;}
+				//onkeypress="javascript: return acceptValidNumbersOnly(this,event);"
+			}
+			
+			function checkInternationalPhone(strPhone){
+				var bracket=3
+				strPhone=trim(strPhone)
+				if(strPhone.indexOf("+")>1) return false
+				if(strPhone.indexOf("-")!=-1)bracket=bracket+1
+				if(strPhone.indexOf("(")!=-1 && strPhone.indexOf("(")>bracket)return false
+				var brchr=strPhone.indexOf("(")
+				if(strPhone.indexOf("(")!=-1 && strPhone.charAt(brchr+2)!=")")return false
+				if(strPhone.indexOf("(")==-1 && strPhone.indexOf(")")!=-1)return false
+				s=stripCharsInBag(strPhone,validWorldPhoneChars);
+				return (isInteger(s) && s.length >= minDigitsInIPhoneNumber);
+			}
+			
+			function trim(s)
+			{var i;
+				var returnString = "";
+				// Search through string's characters one by one.
+				// If character is not a whitespace, append to returnString.
+				for (i = 0; i < s.length; i++)
+				{
+					// Check that current character isn't whitespace.
+					var c = s.charAt(i);
+					if (c != " ") returnString += c;
+				}
+				return returnString;
+			}
+			
+			function stripCharsInBag(s, bag)
+			{var i;
+				var returnString = "";
+				// Search through string's characters one by one.
+				// If character is not in bag, append to returnString.
+				for (i = 0; i < s.length; i++)
+				{
+					// Check that current character isn't whitespace.
+					var c = s.charAt(i);
+					if (bag.indexOf(c) == -1) returnString += c;
+				}
+				return returnString;
+			}
+			
+			function isInteger(s)
+			{var i;
+				for (i = 0; i < s.length; i++)
+				{
+					// Check that current character is number.
+					var c = s.charAt(i);
+					if (((c < "0") || (c > "9"))) return false;
+				}
+				// All characters are numbers.
+				return true;
+			}
+
+			function nextList( startIndex ) {
+				var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
+					onRequest: function() {
+						$('content_phone_table').set('html', '<div style="font: 10px Tahoma, Verdana, Arial; position: absolute; left: 240px; top: 200px;" align="center">Loading...<br /><img src=http://media01.gameloft.com/layout/default/web/sitenew/images_site//ajax-bar-loader.gif /></div>');
+					},
+					onSuccess: function( response ) {
+						$('content_phone_table').set( 'html', response );
+					}
+				}).send('wc=documents&request=phoneslist&op='+$('operator_id').value+'&id='+$('list_brand').value+'&startIndex=' + startIndex );
+			} // end function nextList
+			
+			function previousList( startIndex ) {
+				var request = new Request({method: 'get', link: 'ignore', url: '/core-phone_select.php',
+					onRequest: function() {
+						$('content_phone_table').set('html', '<div style="font: 10px Tahoma, Verdana, Arial; position: absolute; left: 240px; top: 200px;" align="center">Loading...<br /><img src=http://media01.gameloft.com/layout/default/web/sitenew/images_site//ajax-bar-loader.gif /></div>');
+					},
+					onSuccess: function( response ) {
+						$('content_phone_table').set( 'html', response );
+					}
+				}).send('wc=documents&request=phoneslist&op='+$('operator_id').value+'&id='+$('list_brand').value+'&startIndex=' + startIndex );
+			} // end function previousList
+			
+			function setSelectedPlatform( phone ) {
+				
+				reloadApp( phone );
+				
+			} // end function setSelectedPlatform
+			
+			function show_choose_phone_4() {
+				$('choose_phone_4').setStyle('display', 'block');
+				phone_box_position();
+			}
+			
+			function phone_box_position() {
+				$('dark_screen').setStyle('width', window.getWidth());
+				$('dark_screen').setStyle('height', window.getHeight() + window.getScrollTop());
+									
+				$('choose_phone_3').setStyle('left', (window.getWidth() / 2) - $('choose_phone_3').getWidth() / 2 + 'px');
+				$('choose_phone_box').setStyle('left', (window.getWidth() / 2) - $('choose_phone_box').getWidth() / 2 + 'px');
+				$('choose_phone_auto').setStyle('left', (window.getWidth() / 2) - $('choose_phone_auto').getWidth() / 2 + 'px');
+				$('choose_phone_4').setStyle('left', (window.getWidth() / 2) - $('choose_phone_4').getWidth() / 2 + 'px');
+				
+				$('choose_phone_3').tween('top', (window.getScrollTop() + window.getHeight() / 2) - $('choose_phone_3').getHeight() / 2 + 'px');
+				$('choose_phone_box').tween('top', (window.getScrollTop() + window.getHeight() / 2) - $('choose_phone_box').getHeight() / 2 + 'px');
+				$('choose_phone_auto').tween('top', (window.getScrollTop() + window.getHeight() / 2) - $('choose_phone_auto').getHeight() / 2 + 'px');
+				$('choose_phone_4').tween('top', (window.getScrollTop() + window.getHeight() / 2) - $('choose_phone_4').getHeight() / 2 + 'px');
+			}
+			
+			function hide_phone_box_1() {
+				$('choose_phone_box').setStyle('display', 'none');
+				phone_box_position();
+			}
+			
+			function hide_phone_box_3() {
+				$('choose_phone_3').setStyle('display', 'none');
+				phone_box_position();
+			}
+			
+			function reloadApp( data ) {
+				//$('div_request').load('request-session.php');
+				var request = new Request({method: 'get', link: 'ignore', url: '/request-session.php',
+					onSuccess: function(responseText) {
+						responseText = JSON.decode(responseText);
+						$('phone_name').set('html',responseText.name);
+						$('phone_img').set('src',responseText.img);
+						
+						show_choose_phone_4();
+					}
+				}).send('wc='+JS_FS_FOLDER_LOCAL_NAME+'&phone='+data+'&country_id='+$('country_id').value+'&operator_id='+$('operator_id').value);
+				hide_phone_box_1();
+				hide_phone_box_3();
+				//bool_choose_visible = false; $('dark_screen').fade(0.4,0);
+			}
+
 		</script>
 		
 <script type="text/javascript">
@@ -809,87 +1031,148 @@
 	
 </script>
 
-<style type="text/css">
-.phelp-tip {
-	display:none;
-	background: url(https://media01.gameloft.com/layout/default/web/sitenew/images_site/td_background_tittle.gif) repeat-x top #FFFFFF;
-	color:#626262;
-	border:1px solid #CACACA;
-	font-family:arial;
-	font-size:10px;
-	padding:2px;
-	line-height:10px;
-	left:0;
-	text-align:left;
-	top:37px;
-	position:absolute;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	width:160px;
-}
-</style>
-		
-		
-		<div id="choose_phone_auto" class="choose_phone_response" style="display:none;">
-			<div id="choose_phone_auto_close" style="position: absolute; width: 17px; height: 17px; right: 13px; top: 30px; cursor:pointer;"></div>
-			<div id="choose_phone_auto_content"></div>
+<!--
+		<script type="text/javascript" src="js/common.js"></script>
+		<script type="text/javascript" src="js/ajax_common.js"></script>
+		<script type="text/javascript" src="js/ajax_kernel.js"></script>
+		<script type="text/javascript" src="js/ajax_phone_recognition.js"></script>
+		-->
+		<input type="hidden" name="lri" id="lri">
+		<div id="choose_phone_auto" style="font-family: Arial; font-size: 12px; text-align: left; position:absolute;display:none;background-image:url(http://media01.gameloft.com/layout/default/web/sitenew/images_site/choose_phone_background_new.gif);z-index:999999;width:328px;height:236px;padding-left:13px;padding-right:13px;padding-top:66px;padding-bottom:10px;">
+			<div id="choose_phone_auto_close" style="position: absolute; width: 14px; height: 14px; right: 13px; top: 30px; cursor: pointer; overflow:hidden; background-image: url( http://media01.gameloft.com/layout/default/web/sitenew/images_site/cancel_button_new.gif);"></div>
+			<div id="choose_phone_auto_content" style="color:#646464;"></div>
 		</div>
 		
         <div id="div_request" style="visibility:hidden;"></div>
 		<div class="choose_phone" id="choose_phone_box" style="display:none;">
-			<div style="position:absolute;width:16px;height:16px;right:8px;top:9px;cursor:pointer;" id="choose_phone_close_button"></div>
+			<div id="choose_phone_close_button" style="cursor: pointer; background-image: url(http://media01.gameloft.com/layout/default/web/sitenew/images_site/cancel_button_new.gif); position: absolute; left: 330px; top:10px; width: 14px; height: 12px; overflow:hidden;"></div>
 			<span class="text_arial_bold_white" style="position:absolute;width:313px;left:5px;top:6px;">Games for your phone</span>
-			<form name="choose_phone" id="choose_phone_form" method="post" action="">
+			<form name="choose_phone" id="choose_phone_form" method="post" action="" onsubmit="return false;">
 				<div class="td_tittle text_generic_lightblue" style="position:absolute;width:327px;height:22px;left:11px;top:48px;padding-top:5px;">1. Provide your carrier details</div>
 				<div style="position:absolute;left:11px;top:90px;" id="country_id_div"><select id="country_id" style="width: 336px;"></select></div>
+				<div style="position:absolute;font-family:Arial;font-size:11px;top:112px;left:10px;color:red;" id="error_country"></div>
+				
 				<div style="position:absolute;left:11px;top:127px;" id="operator_id_div"><select id="operator_id" style="width: 336px;"></select></div>
+				<div style="position:absolute;font-family:Arial;font-size:11px;top:148px;left:10px;color:red;" id="error_operator"></div>
+				<div style="position: absolute; font-family: Arial; font-size: 11px; top: 275px; left: 23px; color: red;" id="error_phone"></div>
+				
 				<div class="td_tittle text_generic_lightblue" style="position:absolute;width:327px;height:22px;left:11px;top:165px;padding-top:5px;">2. Detection of your phone model</div>
 				
-				<div style=" position:absolute;width:160px;height:166px;left:13px;top:203px;">
+				<div style="position:absolute;width:160px;height:166px;left:13px;top:203px;">
 					<div class="text_generic_lightblue" style="font-weight:bold;text-align:left;position:absolute;width:146px;left:40px;top:17px;">Automatically</div>
-					<div class="text_generic_lightblue" style="font-weight:normal;text-align:left;position:absolute;width:146px;left:10px;top:50px;">Enter your telephone number</div>
-				
-				<div id="phelp" class="phelp-tip">{TEXT_PHONE_HELP}</div>
-					<input type="text" name="number" id="number" class="number_phone">
-				
-					<div id="phone_select_ok_auto" class="phone_select_ok_auto">Ok</div>
+					<div class="text_generic_lightblue" style="font-weight:normal;text-align:left;position:absolute;width:146px;left:10px;top:40px;">Enter your telephone number</div>
+					<div id="format_hint" style="font-weight: normal; text-align: left; position: absolute; width: 146px; left: 10px; top: 83px; font-size:11px; color:#999999;" class="text_generic_lightblue"></div>
+					<input type="text" name="number" id="number" class="number_phone" style="position:absolute;background-image:url(http://media01.gameloft.com/layout/default/web/sitenew/images_site/input_choose_slim.gif);width:135px;left:7px;top:99px;" onkeypress="javascript: return acceptValidNumbersOnly(this,event);" onpaste="return false">
+					<div id="phone_select_ok_auto" style="cursor: pointer; background-image: url(http://media01.gameloft.com/layout/default/web/sitenew/images_site/ok_button_new.jpg); position: absolute; left: 35px; top: 128px; width: 90px; height: 25px;padding-top:6px;font-family:Arial;font-size:14px;font-weight:bold; color:#646464;">Ok</div>
 				</div>
 
 				<div style="cursor:pointer;position:absolute;width:160px;height:166px;left:185px;top:203px;" id="phone_select_ok_manual">
-					<div class="text_generic_lightblue" style="font-weight:bold;text-align:left;position:absolute;width:146px;left:40px;top:17px;font-size:13px;">Manually</div>
-					<div class="text_generic_lightblue" style="font-weight:normal;text-align:left;position:absolute;width:146px;left:10px;top:40px;font-size:13px;">Choose your model</div>
+					<div class="text_generic_lightblue" style="font-weight:bold;text-align:left;position:absolute;width:146px;left:40px;top:17px;">Manually</div>
+					<div class="text_generic_lightblue" style="font-size:13px;font-weight:normal;text-align:left;position:absolute;width:146px;left:10px;top:40px;">Choose your model</div>
 				</div>
 			</form>
 		</div>
 		
 		<div class="choose_phone_3" id="choose_phone_3" style="display:none;">
-		  <div class="close_button" id="choose_phone_3_close_button"></div>
+		  <div class="close_button" id="choose_phone_3_close_button" style="cursor: pointer; background-image: url(http://media01.gameloft.com/layout/default/web/sitenew/images_site/cancel_button_new.gif); position: absolute; left: 665px; top: 26px; width: 14px; height: 7px; padding-top: 6px; overflow:hidden;"></div>
 			<span class="text_arial_bold_white title_choose_phone">Games for your phone</span>
-			<div class="your_phone_is text_generic_lightblue" style="background:none;"><span style="font-weight:normal;font-size:12px">Select your phone, click on the thumbnail to select or use the drop-down menus.</span></div>
+			<div class="your_phone_is text_generic_lightblue" style="background:none;font-size:13px;width:660px;">Select your phone, click on the thumbnail to select or use the drop-down menus.</div>
 			<div class="selects_phone">
 				<form name="brand_model" action="" method="post">
-					<select name="brand" id="list_brand" style="margin-left:-100px;margin-right:90px;"><option value="">Choose your brand</option></select>
+					<select name="brand" id="list_brand" style="margin-right:0px!.important;margin-right:40px!important;margin-right:40px;"><option value="">Choose your brand</option></select>
 					&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					<select name="" id="list_model"><option value="">Choose your model</option></select>
 				</form>
 			</div>
 			<div style="position: absolute; bottom: 14px; left: 13px; width: 20px; height: 20px; cursor: pointer;" id="back_step_1">&nbsp;</div>
-			<div class="content_phone_table">
-				<ul class="more_phones" id="more_phones">Loading</ul>
+			<!-- Redspade Edit Begin -->
+			<style>
+				#phone_select_show2:hover {
+					text-decoration:underline;
+				}
+			
+				#phone_select_ok_auto:hover, #choose_phone_4_close2:hover {
+					background-position: 0% -33px;
+				}
+			
+				div.phones-list-box {
+					height:485px;
+					width:650px !important;
+					left: 10px !important;
+					top:140px;
+					overflow:hidden;
+					position:relative;
+				}
+				div.phones-list-box div.main-container {
+					height:485px;
+					width:570px !important;
+					overflow: hidden;
+					float: left;
+				}
+				div.phones-list-box div.scroller-buttons {
+					height:485px;
+					width:40px !important;
+					overflow: hidden;
+					float: left;
+				}
+				div.scroller-buttons img {
+					margin-top: 230px;
+				}
+				div.phones-list-box div.list-row {
+					height: 115px;
+					margin: 2px;
+					overflow: hidden;
+					padding: 2px;
+				}
+				div.list-row div.phone-box {
+					height: 115px;
+					margin: 0px 3px;
+					width: 105px;
+					float: left;
+					background: url("http://media01.gameloft.com/layout/default/web/sitenew/images_site/your_phone_background.gif") no-repeat;					
+				}
+				div.phone-box div.phone-label {
+					font:  10px Tahoma, Verdana, Arial;
+					margin-top: 2px;
+				}
+				div.phone-box img {
+					margin-top: 3px;
+				}
+			</style>
+			<!-- Redspade Edit End -->
+			<div id="content_phone_table">
+				<!--ul class="more_phones" id="more_phones">Loading</ul-->
 			</div>
 		</div>
 		
-		<div id="choose_phone_4" class="choose_phone_4" style="display:none;">
+		<div id="choose_phone_4" style="display:none; font-family: Arial; font-size: 12px; text-align: left; position:absolute;background-image:url(http://media01.gameloft.com/layout/default/web/sitenew/images_site/choose_phone_background_new.gif);z-index:999999;width:328px;height:236px;padding-left:13px;padding-right:13px;padding-top:66px;padding-bottom:10px;">
 			<span class="text_arial_bold_white" style="position:absolute; left:13px;top:25px;">Games for your phone</span>
-			<div id="choose_phone_4_close" style="position: absolute; width: 17px; height: 17px; right: 13px; top: 30px; cursor:pointer;"></div>
-				<span class="text_generic_lightblue" style="position: absolute;text-align:center; left: 4px; top: 130px; width: 347px;">You have chosen the following device:<div id="phone_name"></div></span>
-				<span id="phone_select_show2" style="cursor:pointer;position: absolute; left: 12px; top: 270px;width:328px;text-align:center;">Choose another phone</span>
-				<div id="choose_phone_4_close2" class="choose_phone_4_close2">OK</div>
+			<!-- <div id="choose_phone_4_close" style="position: absolute; width: 14px; height: 14px; right: 13px; top: 30px; cursor: pointer; overflow:hidden; background-image: url(http://media01.gameloft.com/layout/default/web/sitenew/images_site/cancel_button_new.gif);"></div>-->
+				<div style="position: absolute;width:325px;text-align:center;">You have chosen the following device:</div>
+				<div id="phone_select_show2" style="position: absolute;width:325px;text-align:center;top:270px;cursor:pointer; color:#646464;">Choose another phone</div>
+
+				<div style="position: absolute;width:325px;text-align:center;">
+				<img id="phone_img" src="" border="0" style="margin-right: auto; margin-left: auto; margin-top:30px" alt="phone">
+				<div id="phone_name" class="text_generic_lightblue" style="margin-left:auto; margin-right:auto;top:130px;"></div>
+				<div style="background-image: url(http://media01.gameloft.com/layout/default/web/sitenew/images_site/ok_button_new.jpg); cursor: pointer; font-family: Arial; font-size: 14px; font-weight: bold; left: 130px; padding-top: 6px; margin-left: auto; margin-right: auto; text-align: center; margin-top: 20px; color: rgb(100, 100, 100); width: 90px; height: 26px;" id="choose_phone_4_close2">Ok</div>
+				</div>
+				
+				
+				
+				
 		</div>
 
-<h3>  <a href="#" class="choose_wm_phone text_menu_light_blue" id="phone_select_show" title="Games for your phone"> Games for your phone
-	<div id="user_phone"></div>
-	</a> </h3>
+<h3>
+	<div id="user_phone_options" style="float:left; margin-left:40px; margin-top:55px; position:absolute; font-size:11px;" class="text_menu_light_blue"></div>
+	 
+	<!-- <a href="#" class="href="#" class="choose_wm_phone text_menu_light_blue" id="phone_select_show" text_menu_light_blue" id="{PHONE_SELECT_SHOW}" title="Games for your phone">-->
+	<a href="#" class="choose_wm_phone text_menu_light_blue" id="phone_select_show" title="Games for your phone">
+ 	Games for your phone
+	<div id="user_phone" style="color:#9D9D9D;"></div>
+	
+	</a>
+</h3>
+
 <strong> <a href="http://www.gameloft.com/support/" class="support" title="Gameloft Support"> Gameloft Support </a> </strong> 
 <script language="javascript" type="text/javascript">
 
@@ -927,7 +1210,7 @@
 
 </div>
         <div id="content_right">
-            <div class="session_login"><iframe src="https://verified.gameloft.com/my_account_buttons.php?wc=documents" id="login_buttons" name="login_buttons" width="200" height="14" style="margin:0; overflow:hidden;" scroll="no" frameborder="0" border="0"></iframe></div>
+            <div class="session_login"><iframe src="https://verified.gameloft.com/my_account_buttons.php?wc=documents" id="login_buttons" name="login_buttons" width="250" height="14" style="margin:0; overflow:hidden;" scroll="no" frameborder="0" border="0" allowtransparency="true"></iframe></div>
             
 <div class="privacity_layout">
 <strong>PRIVACY POLICY</strong><br><br>
@@ -966,7 +1249,8 @@ Mail: Privacy Policy Administrator, Gameloft<br><br>
 
 
         </div>
-        <div class="clear_bot"> &nbsp;</div>
+		
+        <div class="clear_bot">&nbsp;</div>
     </div>
 	
 	
@@ -976,12 +1260,6 @@ Mail: Privacy Policy Administrator, Gameloft<br><br>
 		<div class="footer_content">
 			<h3>FOLLOW US ON</h3>
 			<ul class="social">
-				<li>
-					<a target="_blank" href="Http://www.facebook.com/gameloft">
-						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/icofb.gif" alt="Facebook">
-						<span>Facebook</span>
-					</a>
-				</li>
 				<li>
 					<a target="_blank" href="Http://twitter.com/gameloft">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/icotw.gif" alt="Twitter">
@@ -995,15 +1273,21 @@ Mail: Privacy Policy Administrator, Gameloft<br><br>
 					</a>
 				</li>
 				<li>
-					<a target="_blank" href="http://www.gameloftlive.com/">
-						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/icogllive.gif" alt="Gameloft LIVE!">
-						<span>Gameloft LIVE!</span>
+					<a target="_blank" href="Http://www.facebook.com/gameloft">
+						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/icofb.gif" alt="Facebook">
+						<span>Facebook</span>
 					</a>
 				</li>
 				<li>
-					<a target="_blank" href="Http://blog.gameloft.com">
-						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/icoglblog.gif" alt="Gameloft Blog">
-						<span>Blog</span>
+					<a target="_blank" href="Http://www.myspace.com/gameloft">
+						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/icomysp.gif" alt="Facebook">
+						<span>My Space</span>
+					</a>
+				</li>
+				<li>
+					<a target="_blank" href="http://www.gameloftlive.com/">
+						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/icogllive.gif" alt="Gameloft LIVE!">
+						<span>Gameloft LIVE!</span>
 					</a>
 				</li>
 				<li>
@@ -1012,10 +1296,22 @@ Mail: Privacy Policy Administrator, Gameloft<br><br>
 						<span>News</span>
 					</a>
 				</li>
+				<li>
+					<a target="_blank" href="Http://blog.gameloft.com">
+						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/icoblogger.gif" alt="Gameloft Blog">
+						<span>Blog</span>
+					</a>
+				</li>
 				<li id="rss_button">
-					<a href="#rss">
+					<a href="javascript:openrssbox();">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/icorss.gif" alt="RSS">
 						<span>RSS</span>
+					</a>
+				</li>
+				<li id="newsletter_button">
+					<a href="javascript:openNewsletterForm();">
+						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/iconewsletter.gif" alt="Gameloft Blog">
+						<span>Newsletter</span>
 					</a>
 				</li>
 			</ul>
@@ -1029,6 +1325,7 @@ Mail: Privacy Policy Administrator, Gameloft<br><br>
 	<li><a href="http://www.gameloft.com/ipad-games/">iPad Games</a></li>
 	<li><a href="http://www.gameloft.com/android-games/">Android Games</a></li>
 	<li><a href="http://www.gameloft.com/palm-games/">Palm Pre Games</a></li>
+	<li><a href="http://www.gameloft.com/windows-phone-7-games/">Windows Phone 7 Games</a></li>
 	<li><a href="http://www.gameloft.com/console-games/">Console Games</a></li>
 	<li><a href="http://www.gameloft.com/dsi-games/">DSi Games</a></li>
 	<li><a href="http://www.gameloft.com/wii-games/">Wii Games</a></li>
@@ -1038,21 +1335,22 @@ Mail: Privacy Policy Administrator, Gameloft<br><br>
 				<div class="col">
 					<h3>GAMES BY DEVICE</h3>
 					<ul class="links">
-	<li><a href="http://www.gameloft.com/download-games/iphone-games/">iPhone / iPod Touch Games</a></li>
-	<li><a href="http://www.gameloft.com/download-games/ipad-games/">iPad Games</a></li>
-	<li><a href="http://www.gameloft.com/download-games/smartphone-games/">HD Smartphone Games</a></li>
-	<li><a href="http://www.gameloft.com/download-games/mobile-games/">Mobile Games</a></li>
-	<li><a href="http://www.gameloft.com/download-games/console-games/">Console Games</a></li>
-	<li><a href="http://www.gameloft.com/download-games/ipod-games/">iPod Games</a></li>
+	<li><a href="http://www.gameloft.com/download-games/iphone-games/">iPhone / iPod Touch</a></li>
+	<li><a href="http://www.gameloft.com/download-games/ipad-games/">iPad</a></li>
+	<li><a href="http://www.gameloft.com/download-games/smartphone-games/">HD Smartphone</a></li>
+	<li><a href="http://www.gameloft.com/download-games/mobile-games/">Mobile</a></li>
+	<li><a href="http://www.gameloft.com/download-games/console-games/">Console</a></li>
+	<li><a href="http://www.gameloft.com/download-games/ipod-games/">iPod</a></li>
 	<li><a href="http://www.gameloft.com/download-games/facebook-games-content/GreenFarm/">Facebook Games</a></li>
+	<li><a href="http://www.gameloft.com/mobile-phones/"><b style="font-size: 12px;">Search Games by Mobile Phone</b></a></li>
 </ul>
 				</div>
 				<div class="col">
 					<h3>POPULAR GAMES</h3>
 					<ul class="links">
-	<li><a href="http://www.gameloft.com/iphone-games/spiderman-total-mayhem/">Spider-Man Total Mayhem - iPhone</a></li>
-	<li><a href="http://www.gameloft.com/iphone-games/uno/">UNO - iPhone</a></li>
-	<li><a href="http://www.gameloft.com/ipad-games/nova/">N.O.V.A. - iPad</a></li>
+	<li><a href="http://www.gameloft.com/iphone-games/nova-2/">N.O.V.A. 2 - iPhone</a></li>
+	<li><a href="http://www.gameloft.com/iphone-games/dungeon-hunter-2/">Dungeon Hunter 2 - iPhone</a></li>
+	<li><a href="http://www.gameloft.com/ipad-games/star-battalion/">Star Battalion - iPad</a></li>
 	<li><a href="http://www.gameloft.com/android-games/assassins-creed/">Assassin's Creed - Android HD</a></li>
 	<li><a href="http://www.gameloft.com/mobile-games/real-soccer-2011/">Real Soccer 2011 - Mobile</a></li>
 	<li><a href="http://www.gameloft.com/palm-games/blokus/">Blokus - Palm Pre</a></li>
@@ -1064,103 +1362,109 @@ Mail: Privacy Policy Administrator, Gameloft<br><br>
 			<h3>INTERNATIONAL SITES</h3>
 			<ul class="flags">
 				<li>
-					<a href="http://www.gameloft.com/mobile-games/?sk&amp;from=ADID-101966" title="United States" "="">
+					<a href="http://www.gameloft.com/mobile-games/?sk&amp;from=ADID-101966" title="Mobile Games, Top Java Games - go to Gameloft US" alt="United States">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_us.gif" alt="US">
 						<span>US</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.co.uk/mobile-games/?sk&amp;from=ADID-101966" title="United Kingdom">
+					<a href="http://www.gameloft.co.uk/mobile-games/?sk&amp;from=ADID-101966" title="Top Mobile Games, Java Games - Gameloft UK" alt="United Kingdom">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_uk.gif" alt="UK">
 						<span>UK</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.de/handyspiele/?sk&amp;from=ADID-101966" title="Deutschland">
+					<a href="http://www.gameloft.de/handyspiele/?sk&amp;from=ADID-101966" title="Handyspiele, Top Java-Spiele - go to Gameloft Germany" alt="Deutschland">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_de.gif" alt="DE">
 						<span>DE</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.it/giochi-per-cellulare/?sk&amp;from=ADID-101966" title="Italia">
+					<a href="http://www.gameloft.it/giochi-per-cellulare/?sk&amp;from=ADID-101966" title="Giochi cellulare, Grande giochi java - Gameloft IT" alt="Italia">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_it.gif" alt="IT">
 						<span>IT</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.fr/jeux-mobile/?sk&amp;from=ADID-101966" title="France">
+					<a href="http://www.gameloft.fr/jeux-mobile/?sk&amp;from=ADID-101966" title="Jeux mobile, grands jeux java mobile - Gameloft FR" alt="France">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_fr.gif" alt="FR">
 						<span>FR</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.es/juegos-para-movil/?sk&amp;from=ADID-101966" title="España">
+					<a href="http://www.gameloft.es/juegos-para-movil/?sk&amp;from=ADID-101966" title="Juegos para celular, juegos java - Gameloft ES" alt="España">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_es.gif" alt="ES">
 						<span>ES</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://en.gameloft.ca/mobile/?sk&amp;from=ADID-101966" title="Canada">
+					<a href="http://en.gameloft.ca/mobile/?sk&amp;from=ADID-101966" title="Mobile Games, Great Java Games - Gameloft Canada" alt="Canada">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_ca.gif" alt="CA">
 						<span>CA</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloftjapan.com" style="font-size:9px;" title="Japan">
+					<a href="http://www.gameloftjapan.com" style="font-size:9px;" title="Japan" alt="Japan">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_jp.gif" alt="JP">
 						<span>JP</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://br.gameloft.com/jogos-celular/?sk&amp;from=ADID-101966" title="Brazil">
+					<a href="http://br.gameloft.com/jogos-celular/?sk&amp;from=ADID-101966" title="Jogos celular, jogos java - Gameloft BR" alt="Brazil">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_br.gif" alt="BR">
 						<span>BR</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.com.ar/juegos-celular/?sk&amp;from=ADID-101966" title="Argentina">
+					<a href="http://www.gameloft.com.ar/juegos-celular/?sk&amp;from=ADID-101966" title="Juegos celular, juegos java - Gameloft Argentina" alt="Argentina">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_ar.gif" alt="AR">
 						<span>AR</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.ec/juegos-celular/?sk&amp;from=ADID-101966" title="Ecuador">
+					<a href="http://www.gameloft.ec/juegos-celular/?sk&amp;from=ADID-101966" title="Juegos para celular, juegos java - Gameloft Ecuador" alt="Ecuador">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_ec.gif" alt="EC">
 						<span>EC</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.cl/juegos-celular/?sk&amp;from=ADID-101966" title="Chile">
+					<a href="http://www.gameloft.com.co/juegos-celular/?sk&amp;from=ADID-101966" title="Juegos para celular, juegos java - Gameloft Colombia" alt="{FOOTER_LINK_ALT_CO}">
+						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_co.gif" alt="CO">
+						<span>CO</span>
+					</a>
+				</li>
+				<li>
+					<a href="http://www.gameloft.cl/juegos-celular/?sk&amp;from=ADID-101966" title="Juegos celular, juegos java - Gameloft Chile " alt="Chile">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_cl.gif" alt="CL">
 						<span>CL</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.com.pe/juegos-celular/?sk&amp;from=ADID-101966" title="Peru">
+					<a href="http://www.gameloft.com.pe/juegos-celular/?sk&amp;from=ADID-101966" title="Juegos para celular, juegos java - Gameloft PE" alt="Peru">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_pe.gif" alt="PE">
 						<span>PE</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.com.au/mobile-games/?sk&amp;from=ADID-101966" title="Australia">
+					<a href="http://www.gameloft.com.au/mobile-games/?sk&amp;from=ADID-101966" title="Mobile Games, Great Java Games - Gameloft Australia" alt="Australia">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_au.gif" alt="AU">
 						<span>AU</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.com.mx/juegos-celular/?sk&amp;from=ADID-101966" title="Mexico">
+					<a href="http://www.gameloft.com.mx/juegos-celular/?sk&amp;from=ADID-101966" title="Juegos celular, descargar juegos java - Gameloft MX" alt="Mexico">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_mx.gif" alt="MX">
 						<span>MX</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.co.id/mobile-games/?sk&amp;from=ADID-101966" title="Indonesia">
+					<a href="http://www.gameloft.co.id/mobile-games/?sk&amp;from=ADID-101966" title="" alt="Indonesia">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_id.gif" alt="ID">
 						<span>ID</span>
 					</a>
 				</li>
 				<li>
-					<a href="http://www.gameloft.com.vn/mobile-games/?sk&amp;from=ADID-101966" title="Vietnam">
+					<a href="http://www.gameloft.com.vn/mobile-games/?sk&amp;from=ADID-101966" title="" alt="Vietnam">
 						<img src="http://media01.gameloft.com/layout/default/web/sitenew/web-stores-footer/images/flag_vn.gif" alt="VN">
 						<span>VN</span>
 					</a>
@@ -1177,22 +1481,32 @@ Mail: Privacy Policy Administrator, Gameloft<br><br>
 				<li><a href="javascript:rss_all(Array('http://www.gameloft.com/download-games/rss/?s=iv','http://www.gameloft.com/download-games/rss/?s=b','http://www.gameloft.com/download-games/rss/?s=v','http://www.gameloft.com/download-games/rss/?s=n'))">All</a></li>
 			</ul>
 		</div>
+		<div id="news_letter_form" style="display: none;">
+			<span id="newsletter_close" onclick="document.getElementById('news_letter_form').style.display='none';">x Close</span>
+			<form name="form_newsletter" action="http://www.gameloft.com/index.php?platform=gameloft&amp;section=newsletter" method="post" target="_blank">
+				<p>Please enter your email</p>
+				<input class="newsInput" id="newsletter_email" type="text" value="" name="email">
+				<input class="newsSubmit" type="submit" value="Send" onclick="return submitNewsletter();">
+				<input type="hidden" name="newsletter_email_error" id="newsletter_email_error" value="We are sorry, but you need to provide a valid e-mail address to enter or remove your name from our subscription system.">
+			</form>
+		</div>
 		<div class="sidebox">
 			<h3 class="top">OTHER GAMELOFT SITES</h3>
 			<ul class="links">
-	<li><a target="_blank" href="http://www.gameloftlive.com/?sk&amp;from=ADID-141915">Gameloft LIVE!</a></li>
-	<li><a target="_blank" href="http://iphone.gameloft.com/?sk&amp;from=ADID-141915">iPhone / iPod Touch Site</a></li>
-	<li><a target="_blank" href="http://ipad.gameloft.com/?sk&amp;from=ADID-141915">iPad Site</a></li>
-	<li><a target="_blank" href="http://palm.gameloft.com/?sk&amp;from=ADID-141915">Palm Pre Site</a></li>
-	<li><a target="_blank" href="http://www.gameloft.com/android/nexus-one-games/?sk&amp;from=ADID-141915">Nexus One - Android Games Site</a></li>
-	<li><a target="_blank" href="http://www.gameloft.com/android/htc-evo-games/?sk&amp;from=ADID-141915">HTC Evo - Android Games Site</a></li>
+	<li><a target="_blank" href="http://www.gameloftlive.com/">Gameloft LIVE!</a></li>
+	<li><a target="_blank" href="http://iphone.gameloft.com/">iPhone / iPod Touch Site</a></li>
+	<li><a target="_blank" href="http://ipad.gameloft.com/">iPad Site</a></li>
+	<li><a target="_blank" href="http://palm.gameloft.com/">Palm Pre</a></li>
 </ul>
-			<h3>TRY &amp; BUY - ANDROID HD GAMES</h3>
+			<h3>ANDROID HD GAMES</h3>
 			<ul class="links">
-	<li><a target="_blank" href="http://www.gameloft.com/android-hd-games/">All Android HD Smartphones Android Games</a></li>
+	<li><a target="_blank" href="http://www.gameloft.com/android-hd-games/">All Android HD Smartphones Games</a></li>
+	<li><a target="_blank" href="http://www.gameloft.com/android/nexus-one-games/">Nexus One Games</a></li>
+	<li><a target="_blank" href="http://www.gameloft.com/android/htc-evo-games/">HTC Evo Games</a></li>
 	<li><a target="_blank" href="http://www.gameloft.com/android/samsung-epic-games/">Samsung Epic Games</a></li>
 	<li><a target="_blank" href="http://www.gameloft.com/android/samsung-vibrant-games/">Samsung Vibrant Games</a></li>
 	<li><a target="_blank" href="http://www.gameloft.com/android/motorola-droid-games/">Motorola Droid Games</a></li>
+	<li><a target="_blank" href="http://www.gameloft.com/android/samsung-galaxy-tab-games/">Samsung Galaxy Tab Games</a></li>
 </ul>
 			<h3>OFFICIAL GAMES' SITES</h3>
 			<ul class="links">
@@ -1236,14 +1550,14 @@ Mail: Privacy Policy Administrator, Gameloft<br><br>
 	<div><a target="_blank" href="http://www.gameloft.com/conditions/">Conditions of Use</a></div>
 	<div><a target="_blank" href="http://www.gameloft.com/privacy-notice/">Privacy Notice</a></div>
 	<div><a target="_blank" href="http://www.gameloft.com/index.php?platform=gameloft&amp;section=legal&amp;title=contests">Contest Rules</a></div>
-	<div><a href="#">Sitemap</a></div>
+	<div><a href="http://www.gameloft.com/sitemap">Sitemap</a></div>
 </div>
 		</div>
 	</div>
 	<!--FOOTER eof-->
 	
 	<!--FOOTER 2--> 
-	<div class="footer_bottom text_footer_lightblue"> ©2002-2010 Gameloft. All rights reserved. Gameloft and the Gameloft logo are trademarks of Gameloft in the U.S. and/or other countries.<br>
+	<div class="footer_bottom text_footer_lightblue"> ©2002-2011 Gameloft. All rights reserved. Gameloft and the Gameloft logo are trademarks of Gameloft in the U.S. and/or other countries.<br>
 All other trademarks are the property of their respective owners. <br>
 		 
 	</div>
@@ -1255,16 +1569,17 @@ All other trademarks are the property of their respective owners. <br>
 	<!--[if lt IE 7]>
 		<script type="text/javascript" src="plugins_3rdparty/pngfix.js"></script>
 	<![endif]-->
-	<script type="text/javascript">
-				var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-				document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-				try {
-				var pageTracker = _gat._getTracker("UA-546676-1");
-				pageTracker._trackPageview();
-				} catch(err) {}
-	</script>
+	<script type="text/javascript">     
+		var _gaq = _gaq || [];   
+		_gaq.push(['_setAccount', 'UA-546676-1']);   
+		_gaq.push(['_trackPageview']);     
+		(function() {     
+			var ga = document.createElement('script'); 
+			ga.type = 'text/javascript'; ga.async = true;     
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';     
+			var s = document.getElementsByTagName('script')[0]; 
+			s.parentNode.insertBefore(ga, s);   })();   
+		</script>
 <!-- Woopra Code Start -->
 <!--
 		<script type="text/javascript">
