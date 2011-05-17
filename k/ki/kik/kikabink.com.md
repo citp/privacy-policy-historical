@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kikabink.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130144618id_/http%3A//www.kikabink.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikabink.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517181133id_/http%3A//www.kikabink.com/privacy.htm) for the most accurate reproduction.*
 
 # Kikabink - Privacy Policy
 
