@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southparkzone.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230142055id_/http%3A//www.viacom.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southparkzone.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517204918id_/http%3A//www.viacom.com/privacypolicy) for the most accurate reproduction.*
 
 # Viacom
 
@@ -42,6 +42,8 @@ We may disclose information about our users, including PII, when legally require
 Corporate Change
 
 We may sell, transfer or otherwise disclose user information, including PII, in connection with a corporate merger, consolidation, the sale of substantially all assets or of a business group, or other corporate change.
+
+For detailed information on our privacy policy and practices with respect to personal information transferred from the European Economic Area and Switzerland, please see our Safe Harbor Privacy Policy [http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf](https://web.archive.org/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf).
 
 EEOC/Affirmative Action Reporting
 
