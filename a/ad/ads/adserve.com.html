@@ -1,0 +1,240 @@
+<!--The following is the downloaded HTML source of the adserve.com privacy policy that was archived on 2011-05-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110517165329id_/http%3A//www.adserve.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<title>AdServe - Privacy Policy</title>
+    	<meta name="DESCRIPTION" content="AdServe provides you targeted and low cost online advertising platform with quality traffic  - all of which bring you superior marketing result">
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta http-equiv="Cache-Control" content="no-cache">
+		<meta http-equiv="Expires" content="0">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery/jquery-1.3.2.min.js?v=20110504143417"></script>
+		<script type="text/javascript" src="/scripts/jquery/jquery.validate.min.js?v=20110504143417"></script>
+		<link href="http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold" rel="Stylesheet" type="text/css">
+		<link href="/style/main.css?v=20110504143417" rel="Stylesheet" type="text/css">
+		<link href="/style/page.css?v=20110504143417" rel="Stylesheet" type="text/css">
+		
+		<link rel="shortcut icon" href="/img/static/favicon.ico">
+	</head>
+	<body>
+	    <div class="wrapper">
+			
+
+<div id="menu">
+	<div class="logo">
+		<a href="/"><img src="/img/static/logo.jpg"></a>
+	</div>
+	<ul class="menu_first">
+		<li><a href="/home">Overview</a></li>
+		<li><a href="/advertisers">Advertisers</a></li>
+		<li><a href="/howitworks">How it Works</a></li>
+	</ul>
+</div>
+			<div id="container" class="howitworks_main">
+				
+
+<div class="navBar">
+	<div class="nav">
+		<a href="/home">Home</a>
+		<span id="indexPage"> ›
+			<a href="#"><span id="headerTitleSpan"></span></a>
+		</span>
+	</div>
+	
+	
+		<div class="status">
+			<div class="login" id="loginDiv">
+				<a class="btn reg" id="loginText" href="javascript:void(0);">Login</a>
+				<form id="loginFormT" name="loginFormT" action="/login/do" method="post" class="form">
+					<div style="display:none" id="loginBox" class="loginbox">
+						<h1><a>Login</a></h1>
+						<div class="formTitle">Username</div>
+						<div class="formInput">
+							<input name="username" id="usernameT" value="" type="text" class="text" maxlength="20">
+						</div>
+						<div class="formTitle">Password</div>
+						<div class="formInput">
+							<input name="pwd" id="pwdT" value="" type="password" class="text" maxlength="20">
+						</div>
+						<div class="colL">
+							<label>
+								<input name="rememberMe" value="true" type="checkbox" class="checkbox" checked="checked">
+								Remember me</label>
+							<div class="clear"></div>
+							<a href="/advertiser/forgot-password" class="icon_help">Forgot password</a>
+						</div>
+						<div class="colL">
+							<span id="loginT_error"></span>
+						</div>
+						<input type="hidden" id="fromUrlT" name="fromUrl" value="">
+						<br>
+						<div class="colR">
+							<span onclick="loginT();">
+								<a class="btn" href="#">Login</a>
+							</span>
+						</div>
+					</div>
+				</form>
+			</div>
+			<a class="btn reg" href="/advertiser/register">Register</a>
+		</div>
+	
+</div>
+
+<script type="text/javascript">
+	$().ready(function(){
+		$('.loginbox').hide();
+        $('.login a').mouseenter(function(){
+        $('.loginbox').css('top',-10); 
+         $('.loginbox').show();});
+            $('html').click(function() {
+                $('.loginbox').css('top',-999);
+            });
+            $('.loginbox').click(function(event){
+                 event.stopPropagation();
+           });
+		
+		
+		$('#usernameT').keyup(function(e) {
+			enterPress(e.keyCode);
+		});
+           $('#pwdT').keyup(function(e) {
+        	   enterPress(e.keyCode);
+		});
+   		
+		var error_msg = "<h6><span class=\"warning\" title=\"\">!</span><b>Incorrect username and/or password.</b></h6>";
+		//$("#wrong_login_error").html(error_msg);
+
+		var url = parent.window.location.href;
+     		url = url.substring(url.indexOf("//")+2);
+     		
+     		$("#fromUrl").val(url.substring(url.indexOf("/")));
+     		$("#fromUrlT").val(url.substring(url.indexOf("/")));
+     		
+	});
+	
+	function enterPress(value){
+		if (value == 13) {
+           	loginT();
+		}
+	}
+
+	function loginShow(){
+		$("#loginBox").show();
+	}
+
+	// login panel
+	function loginT() {
+		$("#wrong_login_error").html("");
+       	$("#username_error").html("");
+       	$("#pwd_error").html("");
+       	$("#loginT_error").html("");
+		var error = "<h6><span class=\"warning\" title=\"\">!</span><b>Please input both username and password.</b></h6>";
+		if ( $("#usernameT").val() != "" && $("#pwdT").val() != "" ) {
+           	$("#loginFormT").submit();
+		} else {
+			$("#loginT_error").html(error);
+			return false;
+		}
+	}
+</script>				
+				<h1>Privacy Policy</h1>
+				
+				<div class="hiw_hero box inbox">
+					<div class="content">
+						<h2 class="subtitle">Your Personal Information</h2>
+						<p>At AdServe we are committed to protecting your privacy. 
+							Any information we collect, such as email addresses, is submitted at the visitor's will. 
+							We do not and will not share any personal information with any third parties unless by governmental order.</p>
+						<p>We have NO access to any information collected by our Payment Services providers and you may direct further 
+							inquiries here:</p>
+						<p>PAYPAL <a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside</a></p>
+					</div>
+				</div>
+
+				<div class="hiw_hero box inbox">
+					<div class="content">
+						<h2 class="subtitle">Cookies</h2>
+						<p>Cookies simply assist in tracking which features you like best and allow content to 
+							be customized upon your return, according to prior preferences at that site. At 
+							AdServe we may use cookies to save your password so you don't have to re-enter 
+							it each time you visit our sites.</p>
+						<p>We do not use cookies to identify, monitor or track any personally identifiable 
+							information. Our cookies do not contain any personally identifiable information 
+							about you. We do not merge or associate our cookie information with any personally 
+							identifiable information obtained by us or from third parties.</p>
+					</div>
+				</div>
+				
+				<div class="hiw_hero box inbox">
+					<div class="content">	
+						<h2 class="subtitle">Third Party Cookies At Our Sites</h2>
+						<p>While we use cookies in other parts of our Web site, cookies received with the payment processes 
+							are placed by our Payment Services provider. We do not have access to these cookies or any 
+							information that they may contain. Please contact the Payment Services provider for more information:</p>
+						<p>PAYPAL <a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside">http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside</a></p>
+					</div>
+				</div>
+				
+				<div class="hiw_hero box inbox">
+					<div class="content">
+						<h2 class="subtitle">Registration Forms</h2>
+						<p>Our site's registration form requires users to supply contact information (such as their name, 
+							email, and postal address). This contact information is only used to get in touch with the 
+							customer when necessary. It is never sold or shared.</p>
+					</div>
+				</div>
+				
+				<div class="hiw_hero box inbox">
+					<div class="content">		
+						<h2 class="subtitle">External Links</h2>
+						<p>This site contains links to other sites. AdServe is not responsible for the privacy practices 
+							or the content of such Web sites once you have left our site. We only link to general audience 
+							sites but cannot be responsible for any redirection or content changes over which we have no control. 
+							Please contact us immediately if there is a problem with any of our links. <a href="mailto:support@adserve.com">support@adserve.com</a></p>
+					</div>
+				</div>
+				
+				<div class="hiw_hero box inbox">
+					<div class="content">		
+						<h2 class="subtitle">Contacting the Web Site</h2>
+						<p>If you have any questions about this privacy statement, the practices of this site, or your dealings 
+							with this Web site, you can contact: <a href="mailto:help@adserve.com">help@adserve.com</a></p>
+					</div>
+				</div>
+				
+
+<div id="footer">
+	<span class="copyright">© 2011 AdServe Ltd. All Rights Reserved.</span>
+	<div class="footerlink">
+		<a href="/home">AdServe</a>
+		<a href="/about">About Us</a>
+		<a href="/news">News</a>
+		<a href="/terms">T&amp;C</a>
+		<a href="/privacy">Privacy Policy</a>
+		<a href="/faq">FAQ</a>
+		<a href="/contact">Contact Us</a>
+		<a href="http://www.facebook.com/pages/AdServe/108233182593398" class="icon_fb" target="_blank">&nbsp;</a>
+		<a href="http://twitter.com/ad_serve" class="icon_tr" target="_blank">&nbsp;</a>
+	</div>
+</div>
+
+
+<script language="javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-20672891-1']);
+	_gaq.push(['_setDomainName', '.adserve.com']);
+	_gaq.push(['_trackPageview']);
+	
+	(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
+</script>            
+			</div>	
+		</div>
+		
+		<script type="text/javascript">
+			$().ready(function() {
+				$("#headerTitleSpan").html("Privacy Policy");
+			})
+		</script>
+	
+</body></html>
