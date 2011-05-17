@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameloft.org privacy policy that was archived on 2010-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101029165957id_/http%3A//www.gameloft.com/index.php%3Fplatform%3Dgameloft%26section%3Dprivacity%26adid%3D101966) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameloft.org privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517215032id_/http%3A//www.gameloft.com/index.php%3Fplatform%3Dgameloft%26section%3Dprivacity%26adid%3D101966) for the most accurate reproduction.*
 
 # Top Mobile Games, iPhone Games - Download Games for Mobile, iPhone, Android & More | Gameloft
 
