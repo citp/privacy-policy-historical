@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nickels-n-dimes.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308161745id_/http%3A//blog.nickels-n-dimes.com/%3Fpage_id%3D5053) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickels-n-dimes.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517215205id_/http%3A//blog.nickels-n-dimes.com/about-2/disclosure-privacy-policy) for the most accurate reproduction.*
 
-# Disclosure / Privacy Policy
+# Disclosure / Privacy Policy Nickels-n-Dimes Nickels-n-Dimes
 
 ### DISCLOSURE POLICY
 
@@ -43,3 +43,9 @@ While we do our best to protect your personal information, we cannot guarantee t
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
 For any other information email [webmaster.](mailto:becky\(@\)nickels-n-dimes\(.\)com)
+
+_If you enjoyed this post, make sure you subscribe to my[RSS feed](http://feeds.feedburner.com/nnd)!!_
+
+_© 2008-2011, Nickels-n-Dimes. All rights reserved._
+
+_This post may contain an affiliate link. Please see our full_[ _disclosure policy_](http://blog.nickels-n-dimes.com/about-2/disclosure-privacy-policy/) _for more information._
