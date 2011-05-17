@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pr-usa.net privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222130145id_/http%3A//pr-usa.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D184687%26Itemid%3D101) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pr-usa.net privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517205220id_/http%3A//pr-usa.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D184687%26Itemid%3D101) for the most accurate reproduction.*
 
 # PR-USA.net - Privacy Policy for PR-USA.net
 
