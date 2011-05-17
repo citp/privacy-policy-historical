@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponpress.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115014352id_/http%3A//www.couponpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponpress.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517215329id_/http%3A//www.couponpress.com/privacy) for the most accurate reproduction.*
 
 # Coupon Script - Privacy Policy
 
@@ -30,9 +30,9 @@ You should be aware, however, that any information that you disclose in a public
 
 > What our customers have to say...
 > 
-> Easy to install and SEO friendly, couponpress is a very nice software!
+> I am an affiliiate and having been looking for a script that will enable me to post coupons. This is great especially with the integration of the coupon services "Icodes" which I am yet to use. Currently, I am finding my way around thew script with my little knowledge of wordpress. Thanks.
 > 
-> **Wuyang -** | [ www.ideal-coupons.com](http://www.ideal-coupons.com/ "www.ideal-coupons.com")
+> **Ebere -** | [ www.coup-ons.com](http://www.coup-ons.com/ "www.coup-ons.com")
 
   
 
