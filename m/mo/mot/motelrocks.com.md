@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motelrocks.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114062542id_/http%3A//www.motelrocks.com/shop/pages/Motels-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motelrocks.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517070645id_/http%3A//www.motelrocks.com/shop/pages/Motels-Privacy-Policy) for the most accurate reproduction.*
 
 # Motels Privacy Policy
 
