@@ -1,24 +1,16 @@
-> *The following text is extracted and transformed from the statstool.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207054125id_/http%3A//statsremote.com/clients/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statstool.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518073753id_/http%3A//www.lboy.com/privacy.php) for the most accurate reproduction.*
 
-# StatsRemote :: Privacy Policy
+# LBoy~ Privacy Policy
 
-Network 24/7 AG respects your privacy and personal sphere. 
+Privacy Policy for www.lboy.com   
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at mail@lboy.com.   
+At www.lboy.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.lboy.com and how it is used.   
+Log Files Like many other Web sites, www.lboy.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.   
+Cookies and Web Beacons www.lboy.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.   
+DoubleClick DART Cookie .:: Google, as a third party vendor, uses cookies to serve ads on www.lboy.com. .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.lboy.com and other sites on the Internet. .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html   
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .... Google Adsense Commission Junction Amazon  
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.lboy.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.  
+www.lboy.com has no access to or control over these cookies that are used by third-party advertisers.   
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.lboy.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.   
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.  [lboy.com](http://www.lboy.com/) 
 
-**Collection and Processing of Personal Data**  
-When you visit our Web sites, our Web server automatically records the name of your Internet service provider, the Web site from which you visit us, the Web sites you actually visit and the date and length of your visit. Additional personal data is only stored if volunteered by you, for example in the context of a registration or a survey.
-
-**When using our software your personal login details and numbers of the supported affiliate programs and pay per click search engines are stored encrypted on your hard drive. We do not have access to your personal login details and numbers at any time. Before StatsRemote checks your stats the software will connect to our server in order to check whether you are authorized to use the software. No information except the StatsRemote username and password is sent to our server at any time.**
-
-**Use and Disclosure of Personal Data and Purpose Specification**  
-Network 24/7 AG will use your personal data for the sole purpose of technical administration of the Web sites, customer fulfilment and administration, only to the extent necessary in each specific case. We will only disclose your data to governmental authorities in cases where it is required by law. Our employees are obliged by us to respect confidentiality.
-
-**Freedom of Choice**  
-We should like to use your data to inform you about our services and where applicable request your opinion. Naturally your participation is completely voluntary. Should you not consent, you can inform us at any time, so that we can specifically prohibit the use of your data accordingly. 
-
-**Freedom of Information**  
-Upon request, Network 24/7 AG will inform you, what personal data is stored by us as defined by local law. If such data is incorrect, we will correct that information at your request. 
-
-**Security**  
-Network 24/7 AG uses technical and organizational security measures in order to protect the data we have under our control against accidental or intentional manipulation, loss, destruction or against access by unauthorized persons. Our security procedures are continually enhanced as new technology becomes available.
-
-Should you have questions regarding data protection and privacy of your personal data, you can [contact us](mailto:info@network247.com?subject=StatsRemote%20Privacy%20Policy) any time.
