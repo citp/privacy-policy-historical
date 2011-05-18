@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playfirst.com privacy policy that was archived on 2009-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091011100239id_/http%3A//www.playfirst.com/privacy-policy.html%3Ffooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfirst.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518163250id_/http%3A//www.playfirst.com/privacy-policy.html) for the most accurate reproduction.*
 
-# PlayFirst® - Privacy Policy
+# Privacy Policy - PlayFirst Games
 
 Q1 | What information does this Privacy Policy cover?  
 A1 | This Privacy Policy applies only to personal information collected on PlayFirst websites and in PlayFirst games or other PlayFirst content available on our websites where this Privacy Policy is posted, and does not apply to any other information collected by PlayFirst through any other means. This Privacy Policy does not apply to our international affiliates, or any websites maintained by other entities to which we link. PlayFirst is therefore not responsible for the content or activities provided on those websites. 
@@ -62,8 +62,6 @@ We and our service provider Coremetrics use "Clear GIFs" to analyze traffic on o
 We use "Digital Rights Management" (DRM) technology to control access to our products. Upon expiration of the trial period for a game, DRM requires a user to submit a confirmation code or username/password. Our DRM technology assigns a unique ID to your computer, in order to ensure that a user can have only one trial period. In addition, we use DRM to allow a user to submit feedback including ratings, comments and game-play data. This information may be associated with the personal information available in your account.
 
 We use "Game Play Tracking" technology to understand how our games are being played. This technology logs information such as date, version, the timing and tracking of mouse clicks and keyboard actions, scoring, game progress, and system information. This information is not associated with your personal information, except in the case of beta testers in the FirstPeek program.
-
-**We use "ClickTale" technology to better understand how visitors navigate our website. This software allows us to track the user's mouse movement while on PlayFirst.com, and the information collected is associated with a unique ID assigned to each visitor. This information is not associated with your personal information.**
 
 We use "Game Updater" technology to ensure that the games being played on our website will function properly and are of the required version. The Game Updater will send information about the game installation such as a unique installation identifier, game version, game name and operating system version to PlayFirst. Game updater does not collect any personal information. The Game Updater will also check your computer automatically for previously downloaded PlayFirst games so it may offer you available promotional upgrades. In such instance, the Game Updater will only transmit information (such as the game version and the options that you have selected) to us if you click to sign up for the offer or to find out more about the offer.
 
