@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iconeden.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231023235id_/http%3A//www.iconeden.com/contact/about/legal%23policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iconeden.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518201423id_/http%3A//www.iconeden.com/contact/about/legal%23policy) for the most accurate reproduction.*
 
 # Legal - Icon Eden
 
@@ -13,7 +13,7 @@ By using the IconEden.com service ("Service") of Frexy Studio, you are agreeing 
   3. We reserve the right to change fees charges for products and services for any reason, with or without notice at any time.
   4. Your use of the Service is at your own risk. The Service is provided on an "as is" and "as available" basis without any warranty or condition, express, implied or statutory.
   5. Frexy Studio does not warrant that the service will be uninterrupted, timely or error-free.
-  6. Any questions regarding the Terms Of Service shall be e-mailed to [info@iconeden.com](mailto:info@iconeden.com). 
+  6. Any questions regarding the Terms Of Service shall be e-mailed to info [-at-] iconeden [-dot-] com. 
 
 
 
@@ -77,7 +77,7 @@ This policy was last modified on September 30, 2008.
 
 #### Contacting Us
 
-If there are any questions regarding this privacy policy, please contact us via [info@iconeden.com](mailto:info@iconeden.com)
+If there are any questions regarding this privacy policy, please contact us via info [-at-] iconeden [-dot-] com
 
 ### Return Policy
 
@@ -98,4 +98,4 @@ If you do wish to request a refund, please contact us within 24 hours of the tra
 
 In ANY case, in order to initiate the refund process, we require that you contact us first, via email, and try to resolve any issues with us directly, before contacting your credit card company. Unless we have a record of a conversation or correspondence with you regarding a request for a refund, we cannot authorize the refund of transactions previously completed. We reserve the right not to accept your request for a refund if you do not follow this protocol. We typically respond to inquiries within 5 business days. We reserve the right to refuse a refund we believe is based on a fraudulent claim. 
 
-However, we do care very much that you are satisfied with the content you have purchased, so if you have any difficulties, concerns, or questions, please send email to us at [sales@iconeden.com](mailto:sales@iconeden.com). 
+However, we do care very much that you are satisfied with the content you have purchased, so if you have any difficulties, concerns, or questions, please send email to us at sales [-at-] iconeden [-dot-] com. 
