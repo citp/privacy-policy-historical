@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailmarketer.in privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217110938id_/http%3A//mailmarketer.in/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailmarketer.in privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519015158id_/http%3A//mailmarketer.in/misc/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,11 +14,11 @@ We also keep track of activity on our website via log files stored on our web se
 
 ## Security and Privacy
 
-We take every precaution to protect the confidentiality and security of your personal information by using industry-recognized security safeguards such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. When we collect sensitive account information such as credit card numbers, we protect its transmission through the use of encryption such as the Secure Socket Layer (SSL) protocol.
+We take every precaution to protect the confidentiality and security of your data by using industry-recognized security safeguards such as firewalls, coupled with carefully developed security procedures to protect your information from loss, misuse or unauthorized alteration. When we collect sensitive account information such as credit card numbers, we protect its transmission through the use of encryption such as the Secure Socket Layer (SSL) protocol.
 
-Mail Marketer takes care to reinforce the importance of our website visitors' security and privacy among our employees. Our employees are trained and required to safeguard your information and, using physical, electronic and procedural safeguards, we restrict access to personal information to those employees and agents for business purposes only. Additionally, we use internal and external resources to review the adequacy of our security procedures.
+Mail Marketer takes care to reinforce the importance of our website visitors' security and privacy among our employees. Our employees are trained and required to safeguard your information and, using physical, electronic and procedural safeguards, we restrict access to personal information to those employees and agents for business purposes only.
 
-We will never share, sell, or rent your personal information with third parties for their promotional use. Occasionally, we enter into contracts with third parties so that they can assist us in servicing you (for example, providing customer service). The contracts prohibit them from using any of your personal information for their own purposes, and they are required to maintain the confidentiality of the information we provide to them. We may also disclose information to partners who introduced you to Mail Marketer's services in order to ensure they are properly compensated for their efforts. Lastly, we may disclose or report personal information in limited circumstances where we believe in good faith that disclosure is required under the law. For example, we may be required to disclose personal information to cooperate with regulators or law enforcement authorities, to comply with a legal process such as court order, subpoena, search warrant, or law enforcement request.
+We will never share, sell, or rent your data with third parties for their promotional use. If required by your company, we sign NDA agreement.
 
 ## Links
 
