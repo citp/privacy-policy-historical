@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarizen.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113180023id_/http%3A//www.clarizen.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarizen.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518175736id_/http%3A//www.clarizen.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Clarizen | Privacy Policy_Project Management Software
 
