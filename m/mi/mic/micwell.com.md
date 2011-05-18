@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micwell.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104171507id_/http%3A//micwell.com/publish/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micwell.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518020623id_/http%3A//micwell.com/publish/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MicWell.com
 
