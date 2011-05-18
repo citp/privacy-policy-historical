@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedepotrebates.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217083821id_/http%3A//www.homedepot.com/webapp/wcs/stores/servlet/ContentView%3Fpn%3DPrivacy_Security%26langId%3D-1%26storeId%3D10051%26catalogId%3D10053) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedepotrebates.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518195824id_/http%3A//www.homedepot.com/webapp/wcs/stores/servlet/ContentView%3Fpn%3DPrivacy_Security%26langId%3D-1%26storeId%3D10051%26catalogId%3D10053) for the most accurate reproduction.*
 
 # Customer Support: Privacy Security
 
@@ -58,7 +58,7 @@ We may also send you mail, e-mail or call you with information about our product
 
 **Privacy Preferences / Opt-Out:** We now offer an on-line privacy preference page at [www.homedepot.com/privacypreferences](http://www.homedepot.com/webapp/wcs/stores/servlet/ContentView?pn=Manage_Privacy_Preferences&langId=-1&storeId=10051&catalogId=10053) where you can register or change your preferences to receive or not receive marketing materials sent by phone, e-mail and mail. You may update these preferences at any time. Please allow sufficient time for your preferences to be processed. 
 
-For purposes of this Privacy Statement, The Home Depot Canada, The Home Depot Mexico and Home Decorators Collection are considered separate businesses. If you have provided information directly to either of these businesses and want to register or change your preferences you must do so directly with that business. The Privacy Statements and privacy preference options for these businesses may be viewed at [www.homedepot.ca](http://www.homedepot.ca/), [www.homedepot.com.mx](http://www.homedepot.com.mx/) and[ www.homedecorators.com](https://web.archive.org/web/20081217083821id_/http%3A//www.homedepot.com/webapp/wcs/stores/servlet/http//%20www.homedecorators.com). 
+For purposes of this Privacy Statement, The Home Depot Canada, The Home Depot Mexico and Home Decorators Collection are considered separate businesses. If you have provided information directly to either of these businesses and want to register or change your preferences you must do so directly with that business. The Privacy Statements and privacy preference options for these businesses may be viewed at [www.homedepot.ca](http://www.homedepot.ca/), [www.homedepot.com.mx](http://www.homedepot.com.mx/) and[ www.homedecorators.com](https://web.archive.org/web/20110518195824id_/http%3A//www.homedepot.com/webapp/wcs/stores/servlet/http//%20www.homedecorators.com). 
 
 **Information about Others:** At our Stores, Call Centers or on some of the pages on our Sites, you can submit information about other people and compose personalized messages to them. For example, you can order The Home Depot Gift Cards and merchandise and send them directly to a friend along with a personalized message composed by you. We consider the information you submit and the content of your personalized message to be a private communication between you and the recipient. The Home Depot will not use or disclose any information you provide about someone else for any purpose other than: 
 
@@ -72,7 +72,9 @@ For purposes of this Privacy Statement, The Home Depot Canada, The Home Depot Me
 
 5\. To protect the rights or property of The Home Depot and its affiliates 
 
-**Your Suggestions:** We use your feedback, suggestions, survey information and comments solely to monitor and/or improve the use and features of our Stores, Call Centers, our Sites and our product and service offerings. 
+**Your Suggestions:** We use your feedback, suggestions, survey information and comments solely to monitor and/or improve the use and features of our Stores, Call Centers, our Sites and our product and service offerings.
+
+**California Privacy Rights:**  Read full disclosure [here](http://www.homedepot.com/webapp/wcs/stores/servlet/ContentView?pn=California_Privacy_Rights&langId=-1&storeId=10051&catalogId=10053). 
 
 **Protecting Childrens' Privacy:**
 
@@ -116,7 +118,9 @@ For further instructions on accessing the personal information that The Home Dep
 
 **Cookies:** Our Sites use a technology called "cookies". A cookie is a tiny element of data that our Sites can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. All pages on our Sites where you are prompted to log in or that are customizable require that you accept cookies. If you have registered with our Sites, these cookies (1) may let us know who you are, (2) are necessary to access your account information (stored on our computers) in order to deliver products and personalized services, and (3) will provide us and our service providers with information that we will use to personalize our Sites in accordance with your preferences. Cookies are also required to optimize your shopping experience in that they allow you to add multiple items to your shopping basket before checking out. You may set your Web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our Sites, you will limit the functionality we can provide when you visit our Sites. 
 
-**Tracer Tags:** Our Sites may also use a technology called "tracer tags". These may also be referred to as "Clear GIFs" or "Web Beacons". This technology allows us to understand which pages you visit on our Sites. These tracer tags are used to help us optimize and tailor our Sites for you and other future website visitors. 
+**Tracer Tags:** Our Sites may also use a technology called "tracer tags". These may also be referred to as "Clear GIFs" or "Web Beacons". This technology allows us to understand which pages you visit on our Sites. These tracer tags are used to help us optimize and tailor our Sites for you and other future website visitors.
+
+**Online Advertising:** We partner with third-party ad networks to deliver online advertising about our products and services when you visit our Sites or other websites on the Internet. These partnerships help us provide you with advertisements that are tailored to your particular interests, improve and optimize your experience on our Sites, and track the effectiveness of marketing efforts. To facilitate these online advertising efforts, our ad network partners may use cookies, web beacons and similar technologies to collect information about your activities on our Sites or other websites. You can choose not to have your information collected for this purpose. To learn more about online advertising based on this form of information collection, including how you can opt out of such collection, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Third Party Links:** Our Sites may include links to the websites of our business partners, vendors and advertisers. Except as provided herein, we will not provide any of your personal information to these third parties without your prior consent. 
 
@@ -174,10 +178,12 @@ October 27, 2004: Revised to identify the The Home Depot companies covered by th
 
 November 1, 2005: Added "Data Sharing for Catalog Mailings" under the Disclosure of Personal Information section. A Data Sharing section has also been added to the privacy preferences page where individuals can opt-out of data sharing. This change applies only to catalog purchases. 
 
-August 17, 2007: [Click here to view a redlined version of the privacy policy for changes made on August 16, 2007.](https://web.archive.org/hdus/en_US/DTCCOM/HomePage/Customer_Support/Privacy_Security/Docs/The_Home_Depot_Inc_Priv_and_Sec_Stmt_Aug_2007_v3.pdf)
+August 17, 2007: [Click here](http://www.homedepot.com/hdus/en_US/DTCCOM/HomePage/Customer_Support/Privacy_Security/Docs/The_Home_Depot_Inc_Priv_and_Sec_Stmt_Aug_2007_v3.pdf) to view a redlined version of the privacy policy for changes made on August 16, 2007.
 
-Copyright © 2005 Homer TLC, Inc. All Rights Reserved. The Home Depot is a registered trademark of Homer TLC, Inc. 
+May 6, 2010: Revised to provide information related to online advertising. 
+
+Copyright © 2010 Homer TLC, Inc. All Rights Reserved. The Home Depot is a registered trademark of Homer TLC, Inc. 
 
 Pour la version française de la Déclaration sur la sécurité et la confidentialité. 
 
-_Last updated: August 2007_
+_Last updated: May 2010_
