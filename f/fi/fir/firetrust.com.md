@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firetrust.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227091210id_/http%3A//www.firetrust.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firetrust.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518181127id_/http%3A//www.firetrust.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Firetrust
 
@@ -6,7 +6,7 @@
 
 We believe it is important that you know how we treat information about you which we receive via the Internet. Our commitment to personal privacy is paramount - none of our products contain any form of Adware or Spyware.
 
-Firetrust Limited lets you visit the Firetrust website without revealing any personal information about yourself. We will ask you when we need information that personally identifies (personal information) you. Firetrust requests personal information from our users at several different points on our website. The personal information we collect is used only to respond to your inquiry, process an order, allow you to access specific account information, or advise you of special promotions, discounts, updates and new products.
+Firetrust Limited lets you visit the Firetrust website without revealing any personal information about yourself. We will ask you when we need information that personally identifies (personal information) about you. Firetrust requests personal information from our users at several different points on our website. The personal information we collect is used only to respond to your inquiry, process an order, allow you to access specific account information, or advise you of special promotions, discounts, updates and new products.
 
 Firetrust is the sole owner of the information collected on this site. We will not use or disclose this information for purposes other than those set out in this statement or in our end user agreement.
 
@@ -16,7 +16,7 @@ By using this site or any services provided through the site, you expressly cons
 
 Firetrust does not collect any personal data about you on this website or in connection with any other service, apart from information which you volunteer (for example by e-mailing us, by purchasing a product from us, by downloading a product from us, or by registering your product with us, or by using our online feedback form). When you purchase a product from Firetrust, we may collect information including your contact details and credit card details. Please note that credit card information may be retained by our billing provider (Global Collect or Paypal) as a record of any transaction we undertake with you. Firetrust does not store your credit card details. 
 
-Information which you provide is used by Firetrust only in line with the purpose for which you provided it and will not be made available to third parties, other than information provided to us during the purchase process which may be provided to our online billing provider and our banking institution to enable the purchase to be processed. Please note that the transfer of information by us to such third parties may involve a transfer of that information to countries outside New Zealand.
+Information which you provide us is used by Firetrust only in line with the purpose for which you provided it and will not be made available to third parties other than to our online billing provider and our banking institution to enable a purchase of a product to be processed, or a third party purchaser of all or part of Firetrust's business. Please note that the transfer of information by us to such third parties may involve a transfer of that information to countries outside New Zealand.
 
 If Firetrust has your email address, we may contact you by email to advise you of product updates, subscribe you to our newsletter or offer you Firetrust or third party products. You can opt out from receiving these emails at any time. Your preferences can be updated online by clicking [http://www.firetrust.com/user ](http://www.firetrust.com/user "Firetrust's Customer Centre"). Firetrust may also contact you in relation to customer support queries which you lodge.
 
