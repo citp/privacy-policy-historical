@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestspeedfind.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212022024id_/http%3A//bestspeedfind.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestspeedfind.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518164516id_/http%3A//bestspeedfind.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Bestspeedfind.com- Privacy Policy
 
