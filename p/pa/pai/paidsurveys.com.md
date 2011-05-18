@@ -1,33 +1,22 @@
-> *The following text is extracted and transformed from the paidsurveys.com privacy policy that was archived on 2010-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100914182727id_/http%3A//www.paidsurveys.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidsurveys.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518172500id_/http%3A//www.paidsurveys.com/privacy.htm) for the most accurate reproduction.*
 
 # PaidSurveys.com - Earn Rewards Taking Surveys!
 
-**Paid Surveys.com \- Privacy Policy **
+  
+Privacy Policy
 
-### Privacy
+PaidSurveys takes your privacy seriously, and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.
 
-**PaidSurveys.com respects your privacy.**
+PERSONAL INFORMATION -  When you register to use our services, we collect a variety of information about you.  Generally, we use your information to send you the surveys most relevant to you. While visiting our site, we may provide you with advertisements, promotions, sweepstakes, and offers from third party providers. If you choose to accept any such offers, you may directly provide your information in connection with the offer to such third-party provider.  Please refer to the third party provider’s own privacy policy if you have any questions regarding how your information will be used by such providers.  Please be aware that these offers may be presented on pages framed by a Company website.  Although these offer pages have the look and feel of our website, you will be submitting your information directly to the third-party advertiser.  You agree that we will not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such providers on a Company site.
 
-Any personal information you provide to us including and similar to your name, address, telephone number and e-mail address will not be released, sold, or rented to any entities or individuals outside of PaidSurveys.com.
+COOKIES -  We use “cookies” to keep track of some types of information while you are visiting our website or using our services. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our website and distinguish repeat visitors from new visitors. We rely on cookies for the proper operation of our website.  Therefore, if your browser is set to reject all cookies, the website may not function properly. Users who refuse cookies assume all responsibility for any resulting loss of functionality. We do not link the cookies to any of your personal information.
 
-**Credit card details**
+EMAIL MESSAGES - We require an e-mail address from you when you register for our services. We use your e-mail to contact you about new survey opportunities.  We reserve the right to send you certain communications relating to the Company services, such as service announcements and administrative messages.  By signing up for our services, you agree to receive our newsletter and offers to take surveys and other money making opportunities. If you do not wish to receive these e-mails, you may opt-out at any time, by clicking on the opt-out link in the e-mail messages you receive. 
 
-PaidSurveys.com will never ask for Credit Card details and request that you do not enter it on any of the forms on PaidSurveys.com.
+LINKS TO OTHER SITES - PaidSurveys expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame of content that is actually created or hosted by a third party. Also, via our site you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. PaidSurveys is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
-**External Sites.**
+CHILDREN UNDER 13 - PaidSurveys does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe PaidSurveys has any information from or about anyone under 13, please contact us.  
+  
+CONTACT US -  If you have any questions about this privacy policy, the practices of this site, or your dealings with any Company websites, you can contact us at [members@paidsurveys.com](mailto:members@paidsurveys.com)
 
-PaidSurveys.com is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
-
-**Cookies **
-
-A "cookie" is a small data text file that is placed in your browser and allows PaidSurveys.com to recognize you each time you visit this site(customisation etc). Cookies themselves do not contain any personal information, and PaidSurveys.com does not use cookies to collect personal information.
-
-**Remember The Risks Whenever You Use The Internet **
-
-While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to PaidSurveys.com and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through PaidSurveys.com have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
-
-Please contact those vendors and others directly if you have any questions about their privacy policies.
-
-For any other information email the [webmaster](mailto:doug@paidsurveys.com).
-
-Copyright © 2005 PaidSurveys LLC All rights reserved.
+This Agreement was last revised on April 27, 2011.
