@@ -1,55 +1,8 @@
-> *The following text is extracted and transformed from the johareez.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johareez.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518234518id_/http%3A//www.johareez.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Johareez.com :: Privacy Policy
 
-|  |  [](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/index.php) |  | 
-
-[Home](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/index.php) | [Register](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/show_form.php) | [Watch List](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/my-watch-list.php) | [My Account](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/my_account.php) | [Site Map](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/sitemap.php) | [Help](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/help.php) | [Sign In](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/login.php)  
-  
----  
-|  |  |  |  |  | 
-
-[_Advanced Search_](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/advanced_search.php)  
-  
----|---  
-  
-[About Us](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/about_us.php) |  [Have Products to Sell?](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/product_to_sell.php) |  [Customer Service](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/customer_service.php) |  [Contact Us](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/contact_us.php) |  [Johareez Explained](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/johareez_explained.php)  
-  
-|  |  |  [Sign In](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/login.php) or [Register](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/show_form.php)  
----  
-|   
----  
-|  |    [ **Jewellery**](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/Jewellery-c-1.html)  
----|---  
-|    [ **New Arrivals**](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/New-Arrivals-c-2.html)  
-|    [ **FREE Shipping**](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/FREE-Shipping-c-3.html)  
-|    [ **Best Sellers**](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/Best-Sellers-c-122.html)  
-|    [ **Just Buy It @ Rs.199**](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/Just-Buy-It-@-Rs.199-c-132.html)  
-|    [ **Gold Jewellery**](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/Gold-Jewellery-c-140.html)  
-   
-|    
----  
-|  | 
-
-[ **Re.1 No Reserve Auction**](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/re1nrauctions.php)  
-  
----|---  
-| 
-
-[**Just Buy It - Fixed Price**](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/justbuyit.php)  
-  
-| 
-
-[ **Closing Soon - View All**](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/products-listing.php?sort_by=7)  
-  
-|   
----  
-  
-[](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/1&SESSIONVAR!opid=2&imageUrl=https://www.johareez.com/images/liveperson')  
-  
-[](http://www.johareez.com/customer_review.php)  
-  
-|    
+|  |    
 ---  
 Privacy Statement for Johareez.com  
 **(Effective date: 28 August 2006)**  
@@ -136,54 +89,4 @@ New Colony, Jaipur 302001
 RAJASTHAN (INDIA)  
 Phone: (91-141) 3253500   
   
-* * *  
-  
-| 
-
-|   | 
-
-|  Get special offers and discounts -- Sign up for email |  |   
-  
----|---|---  
-  
-|  |   | **Johareez.com**  
-[About Us](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/about_us.php)  
-[Register / Login](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/login.php)  
-[Contact Us](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/contact_us.php)  
-[Customer Service](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/customer_service.php)  
-[Jobs](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/johareez_jobs.php)  
-[In the News](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/hotnews.php) | **For Sellers**  
-[Have Products to Sell?](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/product_to_sell.php)  
-Promote Your Auctions  
-Sellers Help | **For Buyers**  
-Pay  
-Track Your Order  
-[Spread the Word ](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/spread_a_word.php)  
-[Newsletter Archives](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/template_specials.php)  
-[Customer Review](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/customer_review.php) | **Need to Know**  
-[Shipping Guarantee](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/protectionguarantee.php)  
-[Announcements](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/announcements.php)  
-[Terms of Service](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/terms_conditions.php)  
-[Privacy Statement](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/privacy_policy.php)  
-[FAQ's](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/faq.php)  
----|---|---|---|---  
-  
-|  |  | * [ISO 9001:2008 Registered Company](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/isocertification_johareez.php)  
-* [Secure Shopping Guaranteed](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/protectionguarantee.php)  
----  
-  
-Use of this website constitutes acceptance of the Johareez.com [User Agreement](http://www.johareez.com/pdf/johareez_user_agreement.pdf) and [Privacy Statement.](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/privacy_policy.php) Designated trademarks, logos and brands are the property of their respective owners. Copyright © 2010  
-Johareez.com Auctions Pvt. Ltd.  
-All Rights Reserved.   
-  
-|      [](https://web.archive.org/web/20101123223706id_/http%3A//www.johareez.com/privacy_policy.php)  
----  
-Credit Cards | Net-Banking | Cash-on-Delivery (COD)  
-| [](http://www.facebook.com/johareez) | [Find us on  
-Facebook](http://www.facebook.com/johareez)  
----|---  
-[](http://www.twitter.com/johareez) | [ Follow Us](http://www.twitter.com/johareez)  
-[](http://blog.johareez.com/) | [Blog  
-Johareez](http://blog.johareez.com/)  
-|  Official Johareez.com Time: Wednesday, 24 November 2010 04:05:24 IST  |   |   
----|---|---
+* * *
