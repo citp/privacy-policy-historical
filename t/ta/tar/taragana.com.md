@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taragana.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130143106id_/http%3A//taragana.com/colophon/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taragana.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518065545id_/http%3A//taragana.com/colophon/privacy) for the most accurate reproduction.*
 
 # Taragana | Privacy Policy
 
