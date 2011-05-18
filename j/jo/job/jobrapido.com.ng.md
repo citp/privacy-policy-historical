@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobrapido.com.ng privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206145651id_/http%3A//www.jobrapido.com.ng/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobrapido.com.ng privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518202159id_/http%3A//www.jobrapido.com.ng/info/privacy-policy) for the most accurate reproduction.*
 
-# Jobrapido
+# Jobrapido | Privacy Policy
 
 ### This page describes the ways in which the personal data of users of the website www.jobrapido.com.ng (referred to below as "the Site") will be handled. The methods described are limited to the services directly offered from the Site, and do not apply to any website that may be consulted through the links available from it. 
 
