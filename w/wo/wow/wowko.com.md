@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905184608id_/http%3A//www.wowko.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowko.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519005138id_/http%3A//www.wowko.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Wowko.com
+# Wowko Privacy Policy | Wowko.com
+
+**Buy WoW Gold** at Wowko.com. we offer cheap wow gold,ffxiv gil and other virtual currencies with 100% safe.
+
+Using illegal powerleveing/gold may suffer the risk of gaming account termination.
 
   * About Privacy
-  * WOWKO.COM Privacy Policy
+  * WOWKO Privacy Policy
   * INFORMATION COLLECTION AND USE
   * DATA SECURITY
 
@@ -11,10 +15,10 @@
 
 About Privacy
     Wowko respects your privacy and secures your online safety seriously. In order to provide you with the best products, efficient customer service, and fast updates, we record a variety of information from your visit to our site. To better protect your privacy, we’d like to explain our online information practices and the way your information is collected and used.
-WOWKO.COM Privacy Policy
+WOWKO Privacy Policy
     Thank you for accessing the website of WOWKO (site address: [www.wowko.com](http://www.wowko.com/)). We respect your privacy and want to protect your personal information. To learn more, please read our Privacy Notice
     This Privacy Notice explains how we collect, use, and (under certain conditions) disclose your personal information. This Privacy Notice also explains the steps we have taken to secure your personal information. Finally, this Privacy Notice explains your options regarding the collection, use, and disclosure of your personal information. By visiting our Site, you accept the practices described in this Notice.
-    This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non- wowko.com website to which this Site links to or that links to our site.
+    This Privacy Notice applies only to this Site. This privacy policy does not necessarily apply to our offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any non- wowko website to which this Site links to or that links to our site.
 INFORMATION COLLECTION AND USE
     1\. Information Collection. We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:   
 
