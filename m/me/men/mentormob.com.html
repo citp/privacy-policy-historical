@@ -1,0 +1,257 @@
+<!--The following is the downloaded HTML source of the mentormob.com privacy policy that was archived on 2011-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110518115927id_/http%3A//www.mentormob.com/index.php/splash/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+
+	<!-- #################################################################### -->
+	<!-- | META DATA | -->
+	<!-- #################################################################### -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="keywords" content="How To, Learning, Playlist">
+	<meta http-equiv="description" content="Learn Everything You Want, Teach Everything You Know">
+	
+	
+	<!-- #################################################################### -->
+	<!-- | PAGE TITLE | -->
+	<!-- #################################################################### -->
+	<title>Privacy Policy - MentorMob</title>
+	
+	
+	<!-- #################################################################### -->
+	<!-- | CSS STLYES | -->
+	<!-- #################################################################### -->
+	<link type="text/css" rel="stylesheet" media="screen" href="http://www.mentormob.com/style/global.css?MM05172011">
+	<link type="text/css" rel="stylesheet" media="screen" href="http://www.mentormob.com/style/styles.css?MM05172011">
+	<link type="text/css" rel="stylesheet" media="screen" href="http://www.mentormob.com/style/mail.css?MM05172011">
+    
+    
+	
+	<!-- #################################################################### -->
+	<!-- | JAVASCRIPT | -->
+	<!-- #################################################################### -->
+
+	<!-- Global JS -->
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.mentormob.com/scripts/jquery-1.5.1.min.js?MM05172011"></script> 
+	<script type="text/javascript" src="http://www.mentormob.com/scripts/mmUIElements.js?MM05172011"></script> 
+	<script type="text/javascript" src="http://www.mentormob.com/scripts/mmGlobal.js?MM05172011"></script> 
+	
+	
+		<script type="text/javascript" src="http://www.mentormob.com/scripts/jquery-ui-1.8.9.custom.min.js?MM05172011"></script>
+		<script type="text/javascript" src="http://www.mentormob.com/scripts/jquery.scrollTo-min.js?MM05172011"></script>
+		<script type="text/javascript" src="http://www.mentormob.com/scripts/jquery.scrollShow-min.js?MM05172011"></script>
+		<script type="text/javascript" src="http://www.mentormob.com/scripts/splash.js?MM05172011"></script>
+    
+
+	<!-- Slide Out Tab -->
+	
+
+	<!-- #################################################################### -->
+	<!-- | ICONS | -->
+	<!-- #################################################################### -->
+	<link rel="icon" href="http://www.mentormob.com/images/icons/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="http://www.mentormob.com/images/icons/apple-touch-icon.png" type="image/x-icon">
+
+
+
+	<!-- #################################################################### -->
+	<!-- | GOOGLE ANALYTICS CODE | -->
+	<!-- #################################################################### -->
+		<script type="text/javascript">
+	
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-16721219-2']);
+			_gaq.push(['_trackPageview']);
+	
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+				})();
+	
+		</script>
+</head>
+
+
+
+<body>
+
+<div id="splashRail">
+	<div id="companyLogo"><h1><a href="http://www.mentormob.com/index.php"><span>MentorMob</span></a></h1></div>
+	<div id="utilityNav"><a href="http://www.mentormob.com/index.php/account/signup">Sign Up</a> | <a href="javascript:openLogin();">Login</a></div>
+</div>
+
+<div id="loginModal" style="display:none;">
+	<div id="fbLogin">
+		<p class="loginModalFBText">Login with Facebook to see what your friends are learning.</p>
+		<!-- this fb-root div needs to be here -->
+		    <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+		    <script>
+		      window.fbAsyncInit = function() {
+		        FB.init({
+			  appId   : '190737047620559',
+			  session : false, // don't refetch the session when PHP already has it
+		          status  : true, // check login status
+		          cookie  : true, // enable cookies to allow the server to access the session
+		          xfbml   : true // parse XFBML
+		        });
+
+		        // whenever the user logs in, we refresh the page
+		        FB.Event.subscribe('auth.login', function() {
+				//window.location.reload();
+				FB.getLoginStatus(function(response) {
+					if (response.session) {
+						switch (response.status)
+						{
+							case 'connected':
+								var inviteCode	= IsInviteCode();
+
+								// Replace the fb login with spinny loading gif
+								$('#fbLoginButton').html('<img src="' + gBaseUrl + '/images/ajaxLoaderBig.gif">');
+								
+								$.post(gBaseUrl + '/index.php/mmAjax/ajaxIsFacebookUserRegistered', {
+								    code: inviteCode
+								}, function(data) {
+									window.location = data;	
+								});
+
+								break;
+							case 'notConnected ':
+								break;
+						}
+					} else {
+						alert('should redirect to signup');
+					}
+				});
+		        });
+			};
+		
+		      // Load Facebook's javascript
+		      (function() {
+		        var e = document.createElement('script');
+		        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		        e.async = true;
+		        document.getElementById('fb-root').appendChild(e);
+		      }());
+		    </script>
+
+
+			<div id="fbLoginButton">
+			<!-- this html will be replaced with the fb button automatically -->
+			<fb:login-button perms="email,user_birthday,user_about_me,read_friendlists"></fb:login-button>
+			<br><a class="mmSignup" href="javascript:switchToMMLogin()">...or login with your MentorMob account</a>  
+		</div>
+		
+	</div>
+
+	<div id="mmLogin">
+	<form id="loginForm">
+        <div class="formError" id="loginWindowError"></div> 
+		<label>Email:</label>
+		<input class="loginName" id="loginEmail" name="email" type="text">
+		<label>Password:</label>
+		<input class="loginPass" id="loginPassword" name="password" type="password">
+		<a class="forgotPass" href="javascript:openForgotPassword()">Forgot?</a>
+		<input type="submit" name="" value="Login" class="mediumButton floatLeft" onclick="Login(); return false;">		<div id="loginKeep">
+		    <input type="checkbox" id="rememberMe" name="rememberMe" value="true"> <label for="rememberMe">Keep Me Logged In</label>
+		</div>
+	</form>
+	    <a class="mmSignup mmSwitchFacebook" href="javascript:switchToFBLogin()">Login with Facebook to see what your friends are learning</a>  
+	</div>
+</div>
+
+<div id="forgotPassModal" style="display:none;">
+    <div class="formError" id="forgotPassWindowError"></div>  
+	<p class="caption">A new password will be emailed to you.</p>
+	<form action="http://www.mentormob.com/index.php/account/resetPassword" method="post" id="forgotPassForm" style="border:none">		<label class="signupLabel">Email:</label>
+		<input class="loginName" id="resetEmail" name="email" type="text">
+		<input type="submit" name="" value="Reset" class="mediumButton floatLeft" onclick="ResetPassword(); return false;">	</form>
+</div>
+
+<div id="splashWrapper">
+
+	<div id="privacyCol">
+		<h2>Privacy Policy</h2>
+		<p>At MentorMob, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we let you know what information we collect when you use our products and services, why we collect it and how we use it to improve your experience.  By visiting the MentorMob website, you are accepting the practices outlined in this Privacy Policy.</p>
+		<p>This Privacy Policy covers MentorMob's treatment of personal information that MentorMob gathers when you are on the MentorMob website and when you use MentorMob services. This policy does not apply to the practices of third parties that MentorMob does not own or control, or to individuals that MentorMob does not employ or manage.</p>
+
+			<h3>Information Collected by MentorMob</h3>
+			<p>We only collect personal information that is relevant to the purpose of our website, which is to enable users to discover and share information with one another. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our MentorMob users:</p>
+			<ol>
+				<li><p>Information You Provide to Us:</p>
+					<p>We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. </p>
+					<p>Registration: In order for you to use MentorMob services, such as submitting new links to the website, you must complete a registration form. As part of this registration form, we require select personal information (including your full name, city, state and e-mail address).</p>
+					<p>User Profile: To allow you to express yourself beyond just the information collected during registration, we enable you to provide additional information, such as a bio. In addition, you may choose to include photos of yourself in your profile. As indicated below, in the section titled "Sharing Your Information", you can control how your information is displayed and used. </p>
+				</li>
+						
+				<li><p>Automatic Information:</p>
+					<p>We receive and store certain types of information whenever you interact with us. MentorMob and its authorized agents automatically receive and record certain "traffic data" on their server logs from your browser including your IP address, MentorMob cookie information, and the page you requested. MentorMob uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website. </p>
+					<p>MentorMob may collect and, on any page, display the total counts that page has been viewed. This includes User Profile pages.</p>
+					<p>Many companies offer programs that help you to visit websites anonymously. While MentorMob will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. </p>
+				</li>
+			</ol>
+
+			<h3>E-mail Communications</h3>
+			<p>MentorMob is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the "Sharing Your Information" section below. MentorMob may send out e-mails with MentorMob -related news, products, offers, surveys or promotions. You may also receive notification e-mails from MentorMob, which inform you of actions (e.g. friend requests) that have been performed on the site. </p>
+
+
+			<h3>Cookies</h3>
+			<ul>
+				<li><p>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. MentorMob cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.</p></li>
+				<li><p>The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of MentorMob's  coolest features.</p></li>
+				<li><p>Some of our business partners, like our advertisers, may use cookies on our website. We have no access to, or control over, these cookies.</p></li>
+			</ul>
+
+			<h3>Sharing Your Information</h3>
+			<p>Because MentorMob enables people to discover and share information with one another, information about the people who use MentorMob is an integral part of the MentorMob experience. Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.</p>
+			<ul>
+				<li><p>MentorMob Personnel: MentorMob personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of MentorMob's business.</p></li>
+				<li><p>Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if MentorMob, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.</p></li>
+				<li><p>Protection of MentorMob and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of MentorMob, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p></li>
+				<li><p>User Profile information: Information collected during registration and subsequent visits, such as your full name and location, may be displayed to other MentorMob users in your User Profile. The User Profile is the area on MentorMob where we allow you to tell other MentorMob users about yourself and your interests. You may control what personal information is displayed in your User Profile by visiting the Privacy Settings section of your User Profile.</p></li>
+				<li><p>Social sharing of data: MentorMob allows other users to browse stories that you have MentorMob, submitted or commented on. MentorMob may choose to post this data on other site features.</p></li>
+				<li><p>With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.</p></li>
+			</ul>
+
+			<h3>Keeping Information Secure</h3>
+			<ul>
+				<li><p>Your MentorMob account information is protected by a password for your privacy and security. Protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer.</p></li>
+				<li><p>Only employees who need personal information to perform a specific job (for example, a customer service representative) are granted access to it. All of our employees are kept up to date on our privacy and security practices.</p></li>
+			</ul>
+
+			<h3>Ways to Control Display and Use of Your Information</h3>
+			<ul>
+				<li><p>As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new links.</p></li>
+				<li><p>You may request deletion of your MentorMob account by e-mailing us at support@mentormob.com.</p></li>
+				<li><p>However, please note that you will continue to receive all system e-mails (e.g. those regarding forgotten user passwords) and legal notices (e.g. updates to our policies) from us.</p></li>
+				<li><p>As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features.</p></li>
+			</ul>
+
+			<h3>Children Under 18 Years of Age</h3>
+			<p>You must be 13 years and older to register to use the MentorMob website. As a result, MentorMob does not specifically collect information about children. If we learn that MentorMob has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents' permission before using MentorMob or sending information about themselves or anyone else over the Internet.</p>
+
+			<h3>Changes to this Privacy Policy</h3>
+			<p>MentorMob may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the MentorMob website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.</p>
+
+			<h3>Conditions of Use</h3>
+			<p>If you decide to visit MentorMob website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.</p>
+
+			<h3>Effective Date of this Privacy Policy</h3>
+			<p>This Privacy Policy is effective as of March 2, 2011 and last updated March 2, 2011.</p>
+
+	</div>
+
+</div>
+
+<div id="bottomRail">
+
+	<div id="footer">
+		<p><span>© MentorMob, Inc. 2011 All Rights Reserved.</span> <a href="http://www.mentormob.com/index.php/splash/terms">Terms</a> | <a href="http://www.mentormob.com/index.php/splash/privacy">Privacy</a> | <a href="http://www.mentormob.com/index.php/splash/community">Community Guidelines</a> | <a href="mailto:support@mentormob.com">Contact Us</a> </p>
+	</div>
+
+</div>
+
+
+
+
+
+</body></html>
