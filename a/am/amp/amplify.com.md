@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115042016id_/http%3A//amplify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amplify.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518031252id_/http%3A//amplify.com/privacy) for the most accurate reproduction.*
 
-# Welcome to Amplify.com - Amplify is a social network for learning, discovery & conversation without limits
+# Welcome to Amplify.com - Amplify is a smarter way to share
 
 **Clipmarks, LLC**
 
