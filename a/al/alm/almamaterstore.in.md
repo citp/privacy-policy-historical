@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almamaterstore.in privacy policy that was archived on 2010-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101105233647id_/http%3A//www.almamaterstore.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almamaterstore.in privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518052219id_/http%3A//www.almamaterstore.in/privacy-policy) for the most accurate reproduction.*
 
 # Alma Mater Store - Privacy Policy
 
