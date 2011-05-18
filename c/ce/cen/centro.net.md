@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centro.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120165227id_/http%3A//www.centro.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centro.net privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518195832id_/http%3A//www.centro.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Centro
 
