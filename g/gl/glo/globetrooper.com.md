@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globetrooper.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216030039id_/http%3A//globetrooper.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globetrooper.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519003920id_/http%3A//globetrooper.com/general/privacy) for the most accurate reproduction.*
 
 # Globetrooper Privacy Policy
 
@@ -22,9 +22,10 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+### Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page. If there are any questions regarding this privacy policy you may contact us using the contact form on this website.
+
 ### Your Consent
 
-By using our site, you consent to our privacy policy. Changes to our Privacy PolicyIf we decide to change our privacy policy, we will post those changes on this page. If there are any questions regarding this privacy policy you may contact us using the contact form on this website.
-
-  
-
+By using our site, you consent to our privacy policy.
