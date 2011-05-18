@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historic-uk.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226221013id_/http%3A//www.historic-uk.com/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historic-uk.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518171953id_/http%3A//www.historic-uk.com/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # Historic UK - the heritage of britain accommodation guide - Privacy Statement
 
@@ -35,4 +35,4 @@ Last updated: 12th April 2010
 Registered Office: Historic UK Ltd, Clifford House, 38 – 44 Binley Road, Coventry CV3 1JA  
 Company Registered in England and Wales. Company Registration No. 5621230
 
-**_[Back](https://web.archive.org/web/20101226221013id_/http%3A//www.historic-uk.com/index.shtml)_**
+**_[Back](https://web.archive.org/web/20110518171953id_/http%3A//www.historic-uk.com/index.shtml)_**
