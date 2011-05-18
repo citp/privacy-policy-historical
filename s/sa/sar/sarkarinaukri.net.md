@@ -1,31 +1,17 @@
-> *The following text is extracted and transformed from the sarkarinaukri.net privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212101557id_/http%3A//www.sarkarinaukri.net/privacy-policy-of-sarkarinaukri-net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkarinaukri.net privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518145901id_/http%3A//www.sarkarinaukri.net/privacy-policy-of-sarkarinaukri-net) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy for Sarkari Naukri (http://www.sarkarinaukri.net)
+Privacy Policy for Sarkari Naukri (http://www.sarkarinaukri.net) If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin at sarkarinaukri.net.  At sarkarinaukri.net (henceforth referred as “sarkari naukri”), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by “sarkari naukri” and how it is used.
 
-If you require any more  
-information or have any questions about our  
-privacy  
-policy, please feel free to contact us by email at admin at sarkarinaukri.net
-
-At sarkarinaukri.net (henceforth referred as “sarkari naukri”), the privacy of our visitors is of extreme importance to us. This  
-privacy  
-policy document outlines the types of personal information is received and collected by “sarkari naukri” and how it is used.
-
-“Sarkari Naukri” is hosted on wordpress and uses analytics tools like Google Analytics and Stat Counter. Though the owners of “Sarkari Naukri” do not directly use any log files, but since the site is hosted on wordpress, there may be some log files being used by wordpress. The  
-information inside the log files may include internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic  
-information. IP addresses, and other such  
-information are not linked to any  
-information that is personally identifiable.
+“Sarkari Naukri” is hosted on wordpress and uses analytics tools like Google Analytics and Stat Counter. Though the owners of “Sarkari Naukri” do not directly use any log files, but since the site is hosted on wordpress, there may be some log files being used by wordpress. The information inside the log files may include internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 Cookies and Web Beacons: “Sarkari Naukri” does not use cookies.  
 DoubleClick DART Cookie:  
 .:: Google, as a third party vendor, uses cookies to serve ads on your site.  
 .:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network  
-privacy  
-policy at the following URLs – http://www.google.com/privacy_ads.html & https://www.google.com/adsense/support/bin/answer.py?answer=100557&sourceid=aso&subid=ww-en-et-asblog_2009-03-23&medium=link
+privacy policy at the following URLs – http://www.google.com/privacy_ads.html & https://www.google.com/adsense/support/bin/answer.py?answer=100557&sourceid=aso&subid=ww-en-et-asblog_2009-03-23&medium=link
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
 .:: Google Adsense  
@@ -37,10 +23,4 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 The advertisers may also use “Interest Based Advertising” – the details of which can be found on one of the URL’s mentioned above.
 
-You should consult the respective  
-privacy policies of these third-party ad servers for more detailed  
-information on their practices as well as for instructions about how to opt-out of certain practices. “Sarkari Naukri”‘s  
-privacy  
-policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
-If you wish to disable cookies, you may do so through your individual browser options. More detailed  
-information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. “Sarkari Naukri”‘s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
