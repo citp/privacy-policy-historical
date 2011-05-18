@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the k7computing.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226012552id_/http%3A//www.k7computing.com/en/Privacy-Policy/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k7computing.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518184912id_/http%3A//www.k7computing.com/en/Privacy-Policy/Privacy-Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - K7 Computing
 
-**Introduction** We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](https://web.archive.org/web/20101226012552id_/http%3A//www.k7computing.com/en/Privacy-Policy/Terms-of-Use.php "Terms of Use").  
+**Introduction** We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](https://web.archive.org/web/20110518184912id_/http%3A//www.k7computing.com/en/Privacy-Policy/Terms-of-Use.php "Terms of Use").  
 ---  
   
   
@@ -25,7 +25,7 @@ We do not allow persons who are ages thirteen or younger to become members of th
   
 **5\. Editing or Deleting Your Account Information.**  
   
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using your personal page configuration area. You may request deletion of your user account by contacting our webmaster. Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](https://web.archive.org/web/20101226012552id_/http%3A//www.k7computing.com/en/Privacy-Policy/Terms-of-Use.php) for more information.  
+We provide you with the ability to edit the information in your user account information that you provided to us in registration by using your personal page configuration area. You may request deletion of your user account by contacting our webmaster. Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](https://web.archive.org/web/20110518184912id_/http%3A//www.k7computing.com/en/Privacy-Policy/Terms-of-Use.php) for more information.  
   
 **6\. Changes to this Privacy Policy.**  
   
