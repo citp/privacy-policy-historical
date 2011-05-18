@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the philly.com privacy policy that was archived on 2010-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225090508id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the philly.com privacy policy that was archived on 2011-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110518163337id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:meebo="http://www.meebo.com"><head>
 
@@ -26,10 +26,9 @@
  
 
 
+<meta http-equiv="Refresh" content="600;url=/philly/about/terms_of_use/?c=r"> 
 
 <link rel="icon" type="image/png" href="http://media.philly.com/designimages/favicon.png">
-
-
 
 <link rel="icon" href="http://media.philly.com/designimages/favicon.ico" type="image/vnd.microsoft.icon">
 
@@ -47,6 +46,9 @@
 * Visit JavaScript Kit at http://www.javascriptkit.com/ for full source code
 ***********************************************/
 </script>
+
+
+		
 	 
 
 
@@ -100,7 +102,7 @@ function eraseCookie(name) {
 }
 
 function getUserName(){
-	document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://www.philly.com/philly/userarea/?c=n&d=0.3447765147009113"></scr'+'ipt>');
+	document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://www.philly.com/philly/userarea/?c=n&d=0.1642077050286902"></scr'+'ipt>');
 }
 
 
@@ -108,15 +110,10 @@ function getUserName(){
  // NOTE: since this runs on every page, provides a way of setting new cookies on already logged-in [persisted] user sessions
 if(readCookie("UID") && (!readCookie("username") || !readCookie("SID") || !readCookie("7445598737"))){
 	getUserName();
-} else if ( window.location.href.indexOf('auth=') > -1 && !readCookie("phillyLockerRoom")){
- // Case 23842: If the request has a paypal 'auth' request param in it - but there's no phillyLockerRoom cookie yet, they are being returned to us after paying for access to the locker room, so set the phillyLockerRoom cookie now.
-	createCookie("phillyLockerRoom","yes",100);
+
 }
 
 
-if(!readCookie("UID") && readCookie("username")){
-	eraseCookie("username");
-}
 
 if(readCookie("username") && readCookie("username") !=""){
 	rm = true;
@@ -179,16 +176,17 @@ if(!readCookie("splitGroup")) {
 
  <script type="text/javascript">
   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	   	 
- 	 		jkmegamenu.definemenu("navT1_living", "navT1menu_living", "mouseover")
-	 	 		jkmegamenu.definemenu("navT1_deals", "navT1menu_deals", "mouseover")
+ 	 		jkmegamenu.definemenu("navT1_news", "navT1menu_news", "mouseover")
 	 	 		jkmegamenu.definemenu("navT1_sports", "navT1menu_sports", "mouseover")
-	 	 		jkmegamenu.definemenu("navT1_classifieds", "navT1menu_classifieds", "mouseover")
-	 	 		jkmegamenu.definemenu("navT1_news", "navT1menu_news", "mouseover")
-	 	 		jkmegamenu.definemenu("navT1_video", "navT1menu_video", "mouseover")
+	 	 		jkmegamenu.definemenu("navT1_living", "navT1menu_living", "mouseover")
+	 	 		jkmegamenu.definemenu("navT1_deals", "navT1menu_deals", "mouseover")
 	 	 		jkmegamenu.definemenu("navT1_restaurants", "navT1menu_restaurants", "mouseover")
-	 	 		jkmegamenu.definemenu("navT1_entertainment", "navT1menu_entertainment", "mouseover")
+	 	 		jkmegamenu.definemenu("navT1_video", "navT1menu_video", "mouseover")
 	 	 		jkmegamenu.definemenu("navT1_business", "navT1menu_business", "mouseover")
+	 	 		jkmegamenu.definemenu("navT1_entertainment", "navT1menu_entertainment", "mouseover")
+	 	 		jkmegamenu.definemenu("navT1_classifieds", "navT1menu_classifieds", "mouseover")
 	
+
 		
 </script>
 
@@ -203,6 +201,7 @@ if(!readCookie("splitGroup")) {
 
 	
 			/* css from default page layout id#17732614 */
+	
 	
 
 	
@@ -236,7 +235,7 @@ if(!readCookie("splitGroup")) {
 
 
 
-<script src="http://tags.crwdcntrl.net/c/402/cc.js" async="true"></script></head>
+</head>
 
 
 
@@ -271,9 +270,9 @@ s.server="www.philly.com";
 
 
 
- s.prop8=s.getTimeParting('d','-5','2010');  // set day of week 
- s.prop9=s.getTimeParting('h','-5','2010');  // set hour of day 
- s.prop10=s.getTimeParting('w','-5','2010'); // set weekend/weekday
+ s.prop8=s.getTimeParting('d','-5','2011');  // set day of week 
+ s.prop9=s.getTimeParting('h','-5','2011');  // set hour of day 
+ s.prop10=s.getTimeParting('w','-5','2011'); // set weekend/weekday
 if (rm) {
 	s.prop30="logged in";
 
@@ -322,13 +321,17 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 
 
+
+
+
+
  	<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
 <!-- 
 var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900167921";_q+="&7=167921";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900167921";_qc+="&7=167921";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900167921&7=167921&18=0.37987697485046223">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900167921&7=167921&18=0.4542946786584603">
 </noscript>
 
 
@@ -343,7 +346,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
 
 
-													
+																
 
 
 <script type="text/javascript">
@@ -384,7 +387,7 @@ b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replac
  
  
 
-
+	
 
 </div>
 	 
@@ -402,8 +405,8 @@ b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replac
 		
 
 <div id="pageheader-navleft">
-				<a href="http://www.philly.com/inquirer" onclick="var s=s_gi('phillycom');s.tl(this,'o',' TopNav: Left: Inquirer');" target="_top"><img src="http://media.philly.com/designimages/Inquirer-web-logo.gif" alt="Inquirer" title="Inquirer"></a>	
-		<a href="http://www.philly.com/dailynews" onclick="var s=s_gi('phillycom');s.tl(this,'o',' TopNav: Left: Daily News');" target="_top"><img src="http://media.philly.com/designimages/DailyNews-web-logo-solid.gif" alt="Daily News" title="Daily News"></a>
+				<a id="inquirerDigitalLink" href="http://www.philly.com/inquirer" onclick="var s=s_gi('phillycom');s.tl(this,'o',' TopNav: Left: Inquirer');" target="_top"><img src="http://media.philly.com/designimages/INQ-DigitalTab.gif" alt="Inquirer" title="Inquirer"></a>	
+		<a href="http://www.philly.com/dailynews" onclick="var s=s_gi('phillycom');s.tl(this,'o',' TopNav: Left: Daily News');" target="_top"><img src="http://media.philly.com/designimages/DN-DigitalTab.gif" alt="Daily News" title="Daily News"></a>
 
 	<div id="pageheader-navright">
 		<div>
@@ -429,18 +432,17 @@ if(readCookie("regConfirmationStatus") && readCookie("regConfirmationStatus") ==
 
 document.write('<div class=\'np-link\'> <a href="/s?action=requestConfirmation" id="resendlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Resend confirmation email\');">Resend confirmation email</a></div>');
 					} else {
-document.write('<div class=\'np-link\'> <a href="/philly/profiles/myprofile/" id="myprofilelink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: My Profile\');">My Profile</a></div>');
-}
+document.write('<div class=\'np-link\'> <a href="/philly/profiles/myprofile/" id="myprofilelink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: My Profile\');">My Profile</a></div>');}
 
 if(readCookie("ssoUser") == "true"){ 
-document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" action="/s" style="display:inline;"><input type="hidden" name="action" value="doLogout" /><a href="#" id="signoutlink" onclick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Sign Out\');javascript:logFBUser();">Sign Out</a></form></div>'); 
+document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" action="/s" style="display:inline;"><input type="hidden" name="action" value="doLogout" /><a href="#" id="signoutlink" onclick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Sign Out\');javascript:logFBUser();"> Sign Out </a></form></div>'); 
 } else {
-					document.write('<div class=\'np-link\'> <a href="/s?action=doLogout&rurl=http://www.philly.com/s?action=login" id="signoutlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Sign Out\');javascript:eraseCookie(\'username\');return true;">Sign Out</a></div>');
+					document.write('<div class=\'np-link\'> <a href="/s?action=doLogout&rurl=/s?action=login" id="signoutlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Sign Out\');javascript:eraseCookie(\'username\');return true;"> Sign Out </a></div>');
 }
 				} else {
-										document.write('	<div class=\'np-link\'> <a href="/s?action=login&requested=y&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F" id="signinlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Sign In\');">Sign In</a></div><div class=\'np-link\'> <a href="/s?action=reg&requested=y&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F" id="registerlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Register\');">Register</a></div>');
+										document.write('	<div class=\'np-link\'> <a href="/s?action=login&requested=y&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F" id="signinlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Sign In\');"> Sign In </a></div><div class=\'np-link\'> <a href="/s?action=reg&requested=y&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F" id="registerlink" onClick="var s=s_gi(\'phillycom\');s.tl(this,\'o\',\' TopNav: Right: Register\');">Register</a></div>');
 								}
-			</script>	<div class="np-link"> <a href="/s?action=login&amp;requested=y&amp;rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F" id="signinlink" onclick="var s=s_gi('phillycom');s.tl(this,'o',' TopNav: Right: Sign In');">Sign In</a></div><div class="np-link"> <a href="/s?action=reg&amp;requested=y&amp;rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F" id="registerlink" onclick="var s=s_gi('phillycom');s.tl(this,'o',' TopNav: Right: Register');">Register</a></div>
+			</script>	<div class="np-link"> <a href="/s?action=login&amp;requested=y&amp;rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F" id="signinlink" onclick="var s=s_gi('phillycom');s.tl(this,'o',' TopNav: Right: Sign In');"> Sign In </a></div><div class="np-link"> <a href="/s?action=reg&amp;requested=y&amp;rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F" id="registerlink" onclick="var s=s_gi('phillycom');s.tl(this,'o',' TopNav: Right: Register');">Register</a></div>
 
 
 
@@ -450,6 +452,14 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 		</div>	
 	</div>
 </div>
+<script type="text/javascript">
+		var myOBJ	= new Object;
+		myOBJ[9]	= navigator.platform;		
+				
+		if ((myOBJ[9] == "iPhone")||(myOBJ[9] == "iPod")||(myOBJ[9] == "iPad")) {
+			document.getElementById("inquirerDigitalLink").href = "http://www.philly.com/inquirer/digital";
+		}
+</script>
 
 
 	<a href="http://www.philly.com/" target="_top" onclick="var s=s_gi('phillycom');s.tl(this,'o',' Logo: Header: Philly.com');"><img src="http://media.philly.com/designimages/PhiComLogo_Header11_221x67.gif" alt="philly.com" name="logophilly" border="0" id="logophilly"></a>
@@ -463,7 +473,7 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 
 <div id="phillyweather" style="overflow: hidden; background: url(http://banners.wunderground.com/banner/phillynew_cond/language/english/US/PA/Philadelphia.gif) no-repeat 0 center;">
 
-		<div class="wdate" id="LiveClockIE"><a href="http://weather.philly.com/" style="text-decoration: none; cursor: hand;" target="_top"><b>&nbsp;Dec 25, 3:56 AM</b></a> | <a href="http://www.philly.com/traffic">Traffic</a>
+		<div class="wdate" id="LiveClockIE"><a href="http://weather.philly.com/" style="text-decoration: none; cursor: hand;" target="_top"><b>&nbsp;May 18, 12:33 PM</b></a> | <a href="http://www.philly.com/traffic">Traffic</a>
 </div></div>
 
 	</div>
@@ -521,15 +531,15 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 
 	<div class="container_inner">	<dl class="headlineonly">
 	<dt> 						
-<a href="http://www.philly.com/philly/phillywomen/Inquirer_Gift_Guide_2010.html" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o','  searchNav:  Gift guide');">Gift guide</a>
+<a href="/philly/business/personal_finance/121807079.html" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o','  searchNav:  Retirement guide');">Retirement guide</a>
 
 
 									
- - <a href="http://www.philly.com/philly/blogs/artswatch/Flash_Opera_at_Macys_The_Video.html" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o','  searchNav:  Flash opera');">Flash opera</a>
+ - <a href="http://www.philly.com/philly/video/VideoArchive.html?vgenre=g=mob-scene" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o','  searchNav:  Mob Scene');">Mob Scene</a>
 
 
 									
- - <a href="/philly/jobs/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o','  searchNav:  Jobs');">Jobs</a>
+ - <a href="http://www.philly.com/philly/jobs/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o','  searchNav:  Jobs');">Jobs</a>
 
 
 			 </dt>	</dl>
@@ -597,17 +607,17 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 		 	 		<li><div><a href="http://www.philly.com/philly/classifieds/shopping" id="navT1_deals" target="_top" onclick="var s=s_gi('phillycom');s.tl(this,'o',' MainNav: Shopping');">Shopping</a></div></li>
 		</ul>
 </div>
-																																																																																																															<div id="secondaryNav"><ul class="admin"> 
+																																																																																																																			<div id="secondaryNav"><ul class="admin"> 
 	<li><div><a href="http://www.philly.com/philly/about/" target="_top" onclick="var s=s_gi('phillycom');s.tl(this,'o',' SubNav: Member Benefits');">Member Benefits</a></div></li>
  	<li><div><a href="http://www.philly.com/philly/newsletters/" target="_top" onclick="var s=s_gi('phillycom');s.tl(this,'o',' SubNav: Newsletters');">Newsletters</a></div></li>
  	<li><div><a href="http://www.philly.com/philly/contests/" target="_top" onclick="var s=s_gi('phillycom');s.tl(this,'o',' SubNav: Contests &amp; Freebies');">Contests &amp; Freebies</a></div></li>
   		</ul></div>
   </div>
 	
-	 	  	 	 <div id="navT1menu_living" class="megamenu3 megamenu"><div id="fixHeight">
+	 	  	 	 <div id="navT1menu_news" class="megamenu3 megamenu"><div id="fixHeight">
 	 	  
  	 		
-<div id="97301014" class="container misc">	 
+<div id="97298099" class="container misc">	 
 
 	<div class="container_inner misc_inner">
 					
@@ -629,7 +639,7 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
  		 
 						 
 		 													 						 				 						
-		 														 																																 																																 																																 																																 																				
+		 														 																																 																																 																																 																																 																																 																																 																																 																				
 
 		 
 		
@@ -653,23 +663,35 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 
 		<dl class="headlineonly">
 	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/living/celebrations/weddings/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Weddings ');"><b>Weddings</b> </a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/news/breaking" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Breaking news ');"><b>Breaking news</b> </a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/living/celebrations/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Announcements');">Announcements</a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/news/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Local news ');"><b>Local news</b> </a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/phillywomen/snapglowtv/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: SnapGlowTv ');"><b>SnapGlowTv</b> </a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/news/new_jersey/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  South Jersey');">South Jersey</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/phillywomen/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Flourish');">Flourish</a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/news/politics/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Politics');">Politics</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/mirrorimage/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Mirror Image');">Mirror Image</a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://weather.philly.com/US/PA/Philadelphia.html" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Weather ');"><b>Weather</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.traffic.com/Philadelphia-Traffic/Philadelphia-Traffic-Reports.html?AWOPARTNER=PHILLYCOM" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Traffic ');"><b>Traffic</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/obituaries" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Obituaries ');"><b>Obituaries</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/community/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: My Community ');"><b>My Community</b> </a></dt> 
 
 
 			 	</dl>
@@ -707,7 +729,7 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
  		 
 						 
 		 													 						 				 						
-		 														 																																 																																 																																 																																 																				
+		 														 																																 																																 																																 																																 																																 																																 																																 																				
 
 		 
 		
@@ -731,23 +753,35 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 
 		<dl class="headlineonly">
 	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/health_and_science/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Health ');"><b>Health</b> </a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/news/nation_world/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: National news ');"><b>National news</b> </a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/healthcare/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  CheckUp');">CheckUp</a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/news/world/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  World news');">World news</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/dailynews/columnists/steve_and_mia/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Steve &amp; Mia');">Steve &amp; Mia</a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/news/weird_news/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Weird news');">Weird news</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/travel/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Travel ');"><b>Travel</b> </a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/education/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Education');">Education</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/travel/shoreguide/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Down the Shore');">Down the Shore</a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/news/religion/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Religion');">Religion</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/opinion/city-services/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: City Howl ');"><b>City Howl</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/news/lottery/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Lottery ');"><b>Lottery</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/archives/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Archives ');"><b>Archives</b> </a></dt> 
 
 
 			 	</dl>
@@ -785,7 +819,7 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
  		 
 						 
 		 													 						 				 						
-		 														 																																 																																 																																 																																 																				
+		 														 																																 																																 																																 																																 																																 																																 																																 																				
 
 		 
 		
@@ -809,23 +843,601 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 
 		<dl class="headlineonly">
 	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/living/pets/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Pets ');"><b>Pets</b> </a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/columnists/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: News columnists ');"><b>News columnists</b> </a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/pets/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  PhillyDawg');">PhillyDawg</a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Blogs ');"><b>Blogs</b> </a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/living/green/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Green ');"><b>Green</b> </a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/attytood/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Attytood');">Attytood</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/home/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Home &amp; Design ');"><b>Home &amp; Design</b> </a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/delco/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  The Daily Delco');">The Daily Delco</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/home/gardening/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Gardening');">Gardening</a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/montco_memo/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Montco Memo');">Montco Memo</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/chester_county/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Chesco Inbox');">Chesco Inbox</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/dncrime/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Philly Confidential');">Philly Confidential</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/opinion" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Editorials ');"><b>Editorials</b> </a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+		
+	
+	
+</div></div>
+
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+	 </div></div>
+	  	  	 
+	
+	 	  	 	 <div id="navT1menu_sports" class="megamenu3 megamenu"><div id="fixHeight">
+	 	  
+ 	 		
+<div id="97298139" class="container misc">	 
+
+	<div class="container_inner misc_inner">
+					
+		
+
+		
+		<div class="misccontainer_left_32">
+		 							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/eagles/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Eagles news ');"><b>Eagles news</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://fansnap.philly.com/events?cid=12100&amp;q=eagles" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Buy tickets');">Buy tickets</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/eagles/Sports_Video_EAGLES.html" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Eagles videos');">Eagles videos</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/high_school/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: High school ');"><b>High school</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/colleges/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: College ');"><b>College</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/sports/other_sports/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Soul, golf &amp; more ');"><b>Soul, golf &amp; more</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://fanduel.philly.com/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Play fantasy sports ');"><b>Play fantasy sports</b> </a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+			<div class="misccontainer_middle_32">
+							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/phillies/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Phillies news ');"><b>Phillies news</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://philly.stats.com/mlb/scoreboard.asp" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  MLB scores');">MLB scores</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://fansnap.philly.com/events?l=Philadelphia%2C+PA&amp;market_area=philadelphia-wilmington-atlantic-city-35&amp;q=phillies" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Buy tickets');">Buy tickets</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/phillies/Sports_Video_PHILLIES.html" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Phillies videos');">Phillies videos</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/sixers/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Sixers news ');"><b>Sixers news</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://philly.stats.com/nba/teamstats.asp?teamno=20&amp;type=schedule" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Sixers schedule');">Sixers schedule</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/sports/sixers/Sports_Video_SIXERS.html" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Sixers videos');">Sixers videos</a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+		<div class="misccontainer_right_32">
+							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/flyers/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Flyers news ');"><b>Flyers news</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://philly.stats.com/nhl/teamstats.asp?teamno=15&amp;type=schedule" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Flyers schedule');">Flyers schedule</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/sports/flyers/Sports_Video_FLYERS.html" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Flyers videos');">Flyers videos</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/soccer/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Union news ');"><b>Union news</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/community/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Forums ');"><b>Forums</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/columnists/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Columnists ');"><b>Columnists</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/columnists/64080212.html" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Sports blogs ');"><b>Sports blogs</b> </a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+		
+	
+	
+</div></div>
+
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+	 </div></div>
+	  	  	 
+	
+	 	  	 	 <div id="navT1menu_living" class="megamenu3 megamenu"><div id="fixHeight">
+	 	  
+ 	 		
+<div id="97301014" class="container misc">	 
+
+	<div class="container_inner misc_inner">
+					
+		
+
+		
+		<div class="misccontainer_left_32">
+		 							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/living/celebrations/weddings/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Weddings ');"><b>Weddings</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/living/celebrations/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Announcements');">Announcements</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/mirrorimage/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Mirror Image ');"><b>Mirror Image</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/living/pets/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Pets ');"><b>Pets</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/pets/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  PhillyDawg');">PhillyDawg</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/puppy_steps/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Puppy Steps');">Puppy Steps</a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+			<div class="misccontainer_middle_32">
+							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/health_and_science/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Health ');"><b>Health</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/blogs/chop/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Onco Girl');">Onco Girl</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/blogs/evolution/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Planet of the Apes');">Planet of the Apes</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/healthcare/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  CheckUp');">CheckUp</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/dailynews/columnists/steve_and_mia/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Steve &amp; Mia');">Steve &amp; Mia</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/living/green/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Green ');"><b>Green</b> </a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+		<div class="misccontainer_right_32">
+							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/travel/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Travel ');"><b>Travel</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/travel/shoreguide/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Down the Shore');">Down the Shore</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/home/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav: Home &amp; Design ');"><b>Home &amp; Design</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/gardening" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' living dropNav:  Kiss the Earth');">Kiss the Earth</a></dt> 
 
 
 			 	</dl>
@@ -1138,10 +1750,10 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 	 </div></div>
 	  	  	 
 	
-	 	  	 	 <div id="navT1menu_sports" class="megamenu3 megamenu"><div id="fixHeight">
+	 	  	 	 <div id="navT1menu_restaurants" class="megamenu3 megamenu"><div id="fixHeight">
 	 	  
  	 		
-<div id="97298139" class="container misc">	 
+<div id="97300999" class="container misc">	 
 
 	<div class="container_inner misc_inner">
 					
@@ -1163,7 +1775,7 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
  		 
 						 
 		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																																 																				
+		 														 																																 																																 																																 																																 																				
 
 		 
 		
@@ -1187,31 +1799,23 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 
 		<dl class="headlineonly">
 	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/eagles/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Eagles news ');"><b>Eagles news</b> </a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav: Latest food news ');"><b>Latest food news</b> </a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://philly.stats.com/fb/scoreboard.asp" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  NFL scores');">NFL scores</a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants/recipes/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Recipes');">Recipes</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://fansnap.philly.com/events?cid=12100&amp;q=eagles" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Buy tickets');">Buy tickets</a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants/wine/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav: Wine &amp; Drinks ');"><b>Wine &amp; Drinks</b> </a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/eagles/Sports_Video_EAGLES.html" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Eagles videos');">Eagles videos</a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants/beer/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav: Beer ');"><b>Beer</b> </a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/high_school/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: High school ');"><b>High school</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/colleges/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: College ');"><b>College</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://fanduel.philly.com/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Play fantasy sports ');"><b>Play fantasy sports</b> </a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/dailynews/columnists/joe_sixpack/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Joe Sixpack');">Joe Sixpack</a></dt> 
 
 
 			 	</dl>
@@ -1249,7 +1853,7 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
  		 
 						 
 		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																																 																				
+		 														 																																 																																 																																 																				
 
 		 
 		
@@ -1273,31 +1877,19 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 
 		<dl class="headlineonly">
 	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/phillies/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Phillies news ');"><b>Phillies news</b> </a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants/search/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav: Find a restaurant ');"><b>Find a restaurant</b> </a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://philly.stats.com/mlb/scoreboard.asp" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  MLB scores');">MLB scores</a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/inquirer/columnists/craig_laban/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Craig LaBan reviews');">Craig LaBan reviews</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://fansnap.philly.com/events?l=Philadelphia%2C+PA&amp;market_area=philadelphia-wilmington-atlantic-city-35&amp;q=phillies" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Buy tickets');">Buy tickets</a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://restaurants.philly.com/pa/philadelphia/-/online-ordering/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Order food');">Order food</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/phillies/Sports_Video_PHILLIES.html" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Phillies videos');">Phillies videos</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/sixers/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Sixers news ');"><b>Sixers news</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://philly.stats.com/nba/teamstats.asp?teamno=20&amp;type=schedule" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Sixers schedule');">Sixers schedule</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/other_sports/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Golf, other sports ');"><b>Golf, other sports</b> </a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants/The_cheesesteak_project.html" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav: Best cheesesteak ');"><b>Best cheesesteak</b> </a></dt> 
 
 
 			 	</dl>
@@ -1335,7 +1927,7 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
  		 
 						 
 		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																																 																				
+		 														 																																 																																 																																 																				
 
 		 
 		
@@ -1359,692 +1951,19 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 
 		<dl class="headlineonly">
 	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/flyers/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Flyers news ');"><b>Flyers news</b> </a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants/94960314.html" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav: Food columnists ');"><b>Food columnists</b> </a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://philly.stats.com/nhl/teamstats.asp?teamno=15&amp;type=schedule" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Flyers schedule');">Flyers schedule</a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/inquirer/columnists/michael_klein/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Michael Klein');">Michael Klein</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/soccer/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Union news ');"><b>Union news</b> </a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/inquirer/columnists/rick_nichols" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Rick Nichols');">Rick Nichols</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://fansnap.philly.com/events?q=Philadelphia+Union&amp;sb_hid=19839&amp;sb_cpath=18100&amp;sb=hl" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav:  Buy tickets');">Buy tickets</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/community/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Forums ');"><b>Forums</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/columnists/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Columnists ');"><b>Columnists</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/sports/columnists/64080212.html" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' sports dropNav: Sports blogs ');"><b>Sports blogs</b> </a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-		
-	
-	
-</div></div>
-
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-	 </div></div>
-	  	  	 
-	
-	 	  	 	 <div id="navT1menu_classifieds" class="megamenu4 megamenu"><div id="fixHeight">
-	 	  
- 	 		
-<div id="97301049" class="container misc">	 
-
-	<div class="container_inner misc_inner">
-					
-		
-
-		
-
-				<div class="misccontainer_left_23">
-		 							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/jobs" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Jobs ');"><b>Jobs</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/jobs" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Find a Job');">Find a Job</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://my.philly.monster.com/home.aspx" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Post my Resume');">Post my Resume</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/jobs/events" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Career Fairs');">Career Fairs</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/jobs/hiring/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Post a Job ');"><b>Post a Job</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://hiring.philly.monster.com/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Employers ');"><b>Employers</b> </a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-			<div class="misccontainer_middle_23">
-							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/cars" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Cars ');"><b>Cars</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.autotrader.com/fyc/index.jsp?LNX=PHIATFYC" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Car Search');">Car Search</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/cars" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Auto Reviews');">Auto Reviews</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.autotrader.com/dealer/index.jsp?LNX=PHIATFYD" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Find a Dealer');">Find a Dealer</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://philly.ca.kaango.com/feListAds?search=&amp;cat=838&amp;listtype=1" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Recreational Vehicles');">Recreational Vehicles</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/cars/sell/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Sell Vehicles ');"><b>Sell Vehicles</b> </a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-		<div class="misccontainer_midright_23">
-							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/real_estate/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Homes ');"><b>Homes</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/real_estate/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Search Real Estate');">Search Real Estate</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/real_estate/rent/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Search Rentals');">Search Rentals</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.cityfeet.com/philadelphiacommercialrealestate/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Commercial Property');">Commercial Property</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/real_estate/open_houses/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Open Houses');">Open Houses</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/real_estate/sell/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: List a Property ');"><b>List a Property</b> </a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-		<div class="misccontainer_right_23">
-							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Marketplace ');"><b>Marketplace</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Search Classifieds');">Search Classifieds</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://philly.kaango.com/feListAds/categoryID/699" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Find a Pet');">Find a Pet</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://philly.kaango.com/feListAds/categoryID/717" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Shop Merchandise');">Shop Merchandise</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://philly.ca.kaango.com/feListAds?search=&amp;listtype=1&amp;cat=726" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Events &amp; Notices');">Events &amp; Notices</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/about/advertise/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Place an Ad ');"><b>Place an Ad</b> </a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-		
-	
-	
-</div></div>
-
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-	 </div></div>
-	  	  	 
-	
-	 	  	 	 <div id="navT1menu_news" class="megamenu3 megamenu"><div id="fixHeight">
-	 	  
- 	 		
-<div id="97298099" class="container misc">	 
-
-	<div class="container_inner misc_inner">
-					
-		
-
-		
-		<div class="misccontainer_left_32">
-		 							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/news/breaking" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Breaking news ');"><b>Breaking news</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/news/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Local news ');"><b>Local news</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/news/new_jersey/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  South Jersey');">South Jersey</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/news/politics/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Politics');">Politics</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://weather.philly.com/US/PA/Philadelphia.html" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Weather ');"><b>Weather</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.traffic.com/Philadelphia-Traffic/Philadelphia-Traffic-Reports.html?AWOPARTNER=PHILLYCOM" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Traffic ');"><b>Traffic</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/obituaries" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Obituaries ');"><b>Obituaries</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/community/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: My Community ');"><b>My Community</b> </a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-			<div class="misccontainer_middle_32">
-							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/news/nation_world/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: National news ');"><b>National news</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/news/world/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  World news');">World news</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/news/weird_news/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Weird news');">Weird news</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/education/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Education');">Education</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/news/religion/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Religion');">Religion</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/news/lottery/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Lottery ');"><b>Lottery</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/opinion/city-services/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: City Howl ');"><b>City Howl</b> </a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-		<div class="misccontainer_right_32">
-							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/columnists/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: News columnists ');"><b>News columnists</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Blogs ');"><b>Blogs</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/attytood/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Attytood');">Attytood</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/delco/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  The Daily Delco');">The Daily Delco</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/dncrime/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav:  Philly Confidential');">Philly Confidential</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/opinion" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Editorials ');"><b>Editorials</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/archives/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' news dropNav: Archives ');"><b>Archives</b> </a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/dailynews/columnists/lari_robling" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Lari Robling');">Lari Robling</a></dt> 
 
 
 			 	</dl>
@@ -2369,560 +2288,6 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 	 </div></div>
 	  	  	 
 	
-	 	  	 	 <div id="navT1menu_restaurants" class="megamenu3 megamenu"><div id="fixHeight">
-	 	  
- 	 		
-<div id="97300999" class="container misc">	 
-
-	<div class="container_inner misc_inner">
-					
-		
-
-		
-		<div class="misccontainer_left_32">
-		 							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav: Latest food news ');"><b>Latest food news</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants/recipes/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Recipes');">Recipes</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants/wine/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav: Wine &amp; Drinks ');"><b>Wine &amp; Drinks</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants/beer/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav: Beer ');"><b>Beer</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/dailynews/columnists/joe_sixpack/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Joe Sixpack');">Joe Sixpack</a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-			<div class="misccontainer_middle_32">
-							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants/search/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav: Find a restaurant ');"><b>Find a restaurant</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/inquirer/columnists/craig_laban/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Craig LaBan reviews');">Craig LaBan reviews</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://restaurants.philly.com/pa/philadelphia/-/online-ordering/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Order food');">Order food</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants/The_cheesesteak_project.html" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav: Best cheesesteak ');"><b>Best cheesesteak</b> </a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-		<div class="misccontainer_right_32">
-							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/restaurants/94960314.html" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav: Food columnists ');"><b>Food columnists</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/inquirer/columnists/michael_klein/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Michael Klein');">Michael Klein</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/inquirer/columnists/rick_nichols" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Rick Nichols');">Rick Nichols</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/dailynews/columnists/lari_robling" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' restaurants dropNav:  Lari Robling');">Lari Robling</a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-		
-	
-	
-</div></div>
-
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-	 </div></div>
-	  	  	 
-	
-	 	  	 	 <div id="navT1menu_entertainment" class="megamenu3 megamenu"><div id="fixHeight">
-	 	  
- 	 		
-<div id="96818374" class="container misc">	 
-
-	<div class="container_inner misc_inner">
-					
-		
-
-		
-		<div class="misccontainer_left_32">
-		 							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/movies" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Movies ');"><b>Movies</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/movies/theaters/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  Find a theater');">Find a theater</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.movietickets.com/?afid=pacom" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  Buy tickets');">Buy tickets</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/flickgrrl/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  Flickgrrl');">Flickgrrl</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/onmovies/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  On Movies');">On Movies</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/calendar/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Events calendar ');"><b>Events calendar</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/comics_games/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Comics &amp; games ');"><b>Comics &amp; games</b> </a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-			<div class="misccontainer_middle_32">
-							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/celebrities/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Celebrities ');"><b>Celebrities</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/phillygossip/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  PhillyGossip');">PhillyGossip</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/the-insider/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  The Insider');">The Insider</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/music/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Music &amp; Nightlife ');"><b>Music &amp; Nightlife</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/inthemix/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  In the Mix');">In the Mix</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.phrequency.com" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Phrequency ');"><b>Phrequency</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/contests" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Contests ');"><b>Contests</b> </a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-		<div class="misccontainer_right_32">
-							
-	
-						
- 				 
- 	 		
-
-		 
-
-
-
-
- 		 
-						 
-		 													 						 				 						
-		 														 																																 																																 																																 																																 																																 																																 																				
-
-		 
-		
-
-		 		
-									
-		 		
-
-										
-										
- 
-
-	
-
-
-
-
-	
-	 
-
-
-		<dl class="headlineonly">
-	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/television/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Television ');"><b>Television</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/dnhollywood/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  Ellen Gray on TV');">Ellen Gray on TV</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/storm/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  Eye of the Storm');">Eye of the Storm</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/arts/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: The Arts ');"><b>The Arts</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/artswatch/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  ArtsWatch');">ArtsWatch</a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/columnists/dear_abby/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Dear Abby ');"><b>Dear Abby</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/horoscopes/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Horoscopes ');"><b>Horoscopes</b> </a></dt> 
-
-
-			 	</dl>
-					
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-					</div>
-		
-	
-	
-</div></div>
-
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-	 </div></div>
-	  	  	 
-	
 	 	  	 	 <div id="navT1menu_business" class="megamenu3 megamenu"><div id="fixHeight">
 	 	  
  	 		
@@ -2948,7 +2313,7 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
  		 
 						 
 		 													 						 				 						
-		 														 																																 																																 																																 																																 																				
+		 														 																																 																																 																																 																				
 
 		 
 		
@@ -2976,19 +2341,15 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/business/tools/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' business dropNav:  Market stats');">Market stats</a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/inq-phillydeals/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' business dropNav: PhillyDeals ');"><b>PhillyDeals</b> </a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/inq-phillydeals/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' business dropNav: PhillyDeals ');"><b>PhillyDeals</b> </a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/phillyinc/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' business dropNav: PhillyInc ');"><b>PhillyInc</b> </a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/phillyinc/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' business dropNav: PhillyInc ');"><b>PhillyInc</b> </a></dt> 
-
-
-																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/business/Top_25_.html" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' business dropNav: Highest-paid CEOs ');"><b>Highest-paid CEOs</b> </a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/business/Top_25_.html" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' business dropNav: Highest-paid CEOs ');"><b>Highest-paid CEOs</b> </a></dt> 
 
 
 			 	</dl>
@@ -3189,6 +2550,675 @@ document.write('<div class=\'np-link\'> <form name="logoutSSO" method="post" act
  
 	 </div></div>
 	  	  	 
+	
+	 	  	 	 <div id="navT1menu_entertainment" class="megamenu3 megamenu"><div id="fixHeight">
+	 	  
+ 	 		
+<div id="96818374" class="container misc">	 
+
+	<div class="container_inner misc_inner">
+					
+		
+
+		
+		<div class="misccontainer_left_32">
+		 							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																																 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/movies" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Movies ');"><b>Movies</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/movies/theaters/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  Find a theater');">Find a theater</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.movietickets.com/?afid=pacom" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  Buy tickets');">Buy tickets</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/flickgrrl/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  Flickgrrl');">Flickgrrl</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/onmovies/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  On Movies');">On Movies</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/calendar/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Events calendar ');"><b>Events calendar</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/comics_games/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Comics &amp; games ');"><b>Comics &amp; games</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/hot_topics/10821352.html" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: The Cappies ');"><b>The Cappies</b> </a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+			<div class="misccontainer_middle_32">
+							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																																 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/celebrities/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Celebrities ');"><b>Celebrities</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/phillygossip/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  PhillyGossip');">PhillyGossip</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/the-insider/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  The Insider');">The Insider</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/music/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Music &amp; Nightlife ');"><b>Music &amp; Nightlife</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/inthemix/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  In the Mix');">In the Mix</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/literature/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Books ');"><b>Books</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/contests" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Contests ');"><b>Contests</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.phrequency.com" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Phrequency ');"><b>Phrequency</b> </a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+		<div class="misccontainer_right_32">
+							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																																 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/television/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Television ');"><b>Television</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/dnhollywood/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  Ellen Gray on TV');">Ellen Gray on TV</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/storm/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  Eye of the Storm');">Eye of the Storm</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/blogs/dave_on_demand/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  Dave on Demand');">Dave on Demand</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/entertainment/arts/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: The Arts ');"><b>The Arts</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/blogs/artswatch/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav:  ArtsWatch');">ArtsWatch</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/columnists/dear_abby/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Dear Abby ');"><b>Dear Abby</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/horoscopes/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' entertainment dropNav: Horoscopes ');"><b>Horoscopes</b> </a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+		
+	
+	
+</div></div>
+
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+	 </div></div>
+	  	  	 
+	
+	 	  	 	 <div id="navT1menu_classifieds" class="megamenu4 megamenu"><div id="fixHeight">
+	 	  
+ 	 		
+<div id="97301049" class="container misc">	 
+
+	<div class="container_inner misc_inner">
+					
+		
+
+		
+
+				<div class="misccontainer_left_23">
+		 							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/jobs" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Jobs ');"><b>Jobs</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/jobs" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Find a Job');">Find a Job</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://my.philly.monster.com/home.aspx" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Post my Resume');">Post my Resume</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/jobs/events" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Career Fairs');">Career Fairs</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/jobs/hiring/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Post a Job ');"><b>Post a Job</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://hiring.philly.monster.com/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Employers ');"><b>Employers</b> </a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+			<div class="misccontainer_middle_23">
+							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/cars" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Search Cars ');"><b>Search Cars</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/cars" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Auto Reviews');">Auto Reviews</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.autotrader.com/dealer/index.jsp?LNX=PHIATFYD" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Find a Dealer');">Find a Dealer</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://philly.ca.kaango.com/feListAds?search=&amp;cat=838&amp;listtype=1" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Recreational Vehicles');">Recreational Vehicles</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/cars/research/philly_gas_prices.html" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Gas Prices');">Gas Prices</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/cars/sell/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Sell Vehicles ');"><b>Sell Vehicles</b> </a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+		<div class="misccontainer_midright_23">
+							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/real_estate/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Homes ');"><b>Homes</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/real_estate/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Search Real Estate');">Search Real Estate</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/real_estate/rent/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Search Rentals');">Search Rentals</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.cityfeet.com/philadelphiacommercialrealestate/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Commercial Property');">Commercial Property</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/real_estate/open_houses/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Open Houses');">Open Houses</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/real_estate/sell/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: List a Property ');"><b>List a Property</b> </a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+		<div class="misccontainer_right_23">
+							
+	
+						
+ 				 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																																 																																 																																 																																 																																 																				
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+	 
+
+
+		<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Marketplace ');"><b>Marketplace</b> </a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/classifieds/" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Search Classifieds');">Search Classifieds</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://philly.kaango.com/feListAds/categoryID/699" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Find a Pet');">Find a Pet</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://philly.kaango.com/feListAds/categoryID/717" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Shop Merchandise');">Shop Merchandise</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://philly.ca.kaango.com/feListAds?search=&amp;listtype=1&amp;cat=726" class="bl" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav:  Events &amp; Notices');">Events &amp; Notices</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="/philly/about/advertise/" class="br" onclick="var s=s_gi('phillycom');s.tl(this,'o',' classifieds dropNav: Place an Ad ');"><b>Place an Ad</b> </a></dt> 
+
+
+			 	</dl>
+					
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+					</div>
+		
+	
+	
+</div></div>
+
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+	 </div></div>
+	  	  	 
  
 
 	<div>
@@ -3207,28 +3237,36 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 		
 <div class="adUnit">
 
+
 	<script language="JavaScript1.1" type="text/javascript">
 document.write('<script language="JavaScript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/ph.admin/terms_of_use;!category=terms_of_use;type=secondary;dcopt=ist;pos=slider;tile=1;sz=972x30,1x1,972x75;ord='+_phDartOrd+'?"><\/SCRIPT>');
 	</script>
 
 	
+	
 	<noscript>
-	<a href="http://ad.doubleclick.net/jump/ph.admin/terms_of_use;!category=terms_of_use;type=secondary;pos=slider;tile=1;sz=972x30,1x1,972x75;ord=122510035607?" target="_blank">
-	<img src="http://ad.doubleclick.net/ad/ph.admin/terms_of_use;!category=terms_of_use;type=secondary;pos=slider;tile=1;sz=972x30,1x1,972x75;ord=122510035607?"  border="0" /></a>
+	<a href="http://ad.doubleclick.net/jump/ph.admin/terms_of_use;type=secondary;pos=slider;tile=1;sz=972x30,1x1,972x75;ord=051811123336?" target="_blank">
+	<img src="http://ad.doubleclick.net/ad/ph.admin/terms_of_use;type=secondary;pos=slider;tile=1;sz=972x30,1x1,972x75;ord=051811123336?"  border="0" /></a>
 	</noscript>
 </div>
 
 
 		
 			</div>
+				
 		
+		
+			<div id="content-toprail">
+		
+
+
+	</div>
+
 
                 
 
-	 <div id="lCol">
-
+	
 	 	 
-
 
 
 <div id="lCol">
@@ -3238,7 +3276,8 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 
-	 										
+					
+		
 	 	
 
 		
@@ -3250,8 +3289,6 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 	
 
 	
-
-
 
 	
 	<h1 class="admin">
@@ -3382,114 +3419,112 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 		 
 
 
-		 <p><style type="text/css">
-<!--
-.style1 {color: #FF0000}
---></style></p>
+		 <p><!-- .style1 {color: #FF0000} --></p>
 <div style="text-align: left;">
 <p><a href="#terms">Go to Terms of Use </a></p>
-<p><font size="3"><b><font size="4">Privacy Policy</font></b></font></p>
+<p><span style="font-size: small;"><strong><span style="font-size: medium;">Privacy Policy</span></strong></span></p>
 <p>Effective October 2, 2007</p>
 <p>This Philadelphia Media Network, Inc. site, Philly.com, is covered by the policies herein. This privacy statement covers Philly.com.</p>
-<p>Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should contact Philadelphia Media Network, Inc. at: <a href="/philly/about/feedback/">Philadelphia Media Network, Inc. Feedback </a>.</p>
+<p>Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should contact Philadelphia Media Network, Inc. at: <a href="philly/about/feedback/">Philadelphia Media Network, Inc. Feedback </a>.</p>
 <p>This privacy statement covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.</p>
-<p><b>When does Philadelphia Media Network, Inc. collect my personally identifiable information?</b></p>
+<p><strong>When does Philadelphia Media Network, Inc. collect my personally identifiable information?</strong></p>
 <p>When you register for one of Philadelphia Media Network, Inc.'s sites, or for services on any of our sites, we collect personally identifying information from you. During registration you are asked to provide your email address and some demographic information including such items as your gender, year of birth, and address. The more information you provide, the better we are able to customize our services and your experience to suit your needs and preferences. In addition to registration, we may collect personally identifiable information from you when you enter contests and sweepstakes (which may be done in conjunction with site registration), participate in promotions and special programs, register for premium or customized services, make a purchase at one of our merchants or partners, subscribe to one of our print publications, or download a software product or plug-in.</p>
 <p>If you are making a purchase or enrolling in a premium service for which there is a fee, we, or a 3rd party working in partnership with us, will collect your credit card, billing address, and other verifying information. In addition, we may collect personally identifiable information from you when you provide content to us for display or use on one or more Philadelphia Media Network, Inc. sites, including but not limited to, when you participate in user surveys, post messages to bulletin boards or chat areas, submit personals or other classified listings, build a home page, report a problem with one of our sites or services, or submit a letter to the editor.</p>
 <p>If you use our referral service ("Email and Article to a Friend") to tell a friend about our site, we will ask for your email address and theirs. We automatically send a one-time email to the address you provided. Neither your email address nor the email address you provide is stored or used for any other purpose.</p>
-<p><b>How is my personally identifiable information used?</b></p>
+<p><strong>How is my personally identifiable information used?</strong></p>
 <p>Our main goal is to provide you with a customized and more relevant experience on Philadelphia Media Network, Inc. sites. We review our users' preferences, demographics, traffic patterns, and other information in aggregate so that we can better understand who our audience is, and what it is you want. Tracking user preferences also helps us serve you more relevant advertising. Please note that we do not share your personally identifying information with the advertiser.</p>
 <p>We use a third party to serve ads when you visit our site. This third party ad server may use certain information about your visit to our site in order to provide advertisements about goods and services that may be of interest to you, but they are not allowed to collect or use personally identifiable information about you for their own purposes.</p>
-<p>All credit card information is transmitted in an encrypted form, using SSL (secure socket layer) encryption, the industry-standard. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Philadelphia Media Network, Inc. assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties. If you have any questions about security on our Web site, you can contact us at: <a href="/philly/about/feedback/">Philadelphia Media Network, Inc. Feedback </a></p>
+<p>All credit card information is transmitted in an encrypted form, using SSL (secure socket layer) encryption, the industry-standard. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Philadelphia Media Network, Inc. assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties. If you have any questions about security on our Web site, you can contact us at: <a href="philly/about/feedback/">Philadelphia Media Network, Inc. Feedback </a></p>
 <p>The email address provided by you at registration, or as updated, may be used by Philadelphia Media Network, Inc. and its affiliated entities, including Philadelphia Media Network, Inc., to contact you for any reason, including: (1) Your account status (including an email confirmation of registration), (2) Major changes to the Web site, the Terms of Use and Privacy Policy, (3) Participation in user surveys, asking for feedback on the Web site and (4) notifying you of existing or prospective products and services offered by us or our advertisers and partners. This information helps us to improve our Web site. The information provided by you at registration may be used by Philadelphia Media Network, Inc. and its affiliated entities, to contact you with special offers and promotions.</p>
 <p>To update your personal information such as name, or mailing address, you can sign into your account and visit the Update Account page. To update your newsletter subscriptions you either a) visit your newsletter subscription page in your account, or b) unsubscribe by following the instructions within the email newsletter.</p>
-<p>If you opt-in to a third party offer on this site then your relationship with the third party will be governed by their respective Privacy Policies. If you no longer wish to receive communication from the third party, then you will need to contact them directly to opt-out. When you sign up for some third-party services on this site, such as free coupons or look up Yellow Pages, you will be taken to a co-branded site which may appear to be <sitename.com></sitename.com>, however if the third party is collecting information from you, the use of this information is governed by the co-branded partner's privacy policy.</p>
-<p><b>What other information does Philadelphia Media Network, Inc. collect and how is it used? </b></p>
-<p><b>Cookies. </b>Philadelphia Media Network, Inc. uses cookies to store and track your preferences to provide you with a more personalized user experience. A cookie is a message that is sent to your browser from a Web server and stored on your computer's hard drive. Most Internet sites use cookies. You can set your browser preferences to reject all cookies but then you will not be able to participate in most customized services, and you may be required to repeatedly log in to participate in various services, promotions, or product offerings. Cookies make your experience easier by saving your preferences and passwords.</p>
+<p>If you opt-in to a third party offer on this site then your relationship with the third party will be governed by their respective Privacy Policies. If you no longer wish to receive communication from the third party, then you will need to contact them directly to opt-out. When you sign up for some third-party services on this site, such as free coupons or look up Yellow Pages, you will be taken to a co-branded site which may appear to be , however if the third party is collecting information from you, the use of this information is governed by the co-branded partner's privacy policy.</p>
+<p><strong>What other information does Philadelphia Media Network, Inc. collect and how is it used? </strong></p>
+<p><strong>Cookies. </strong>Philadelphia Media Network, Inc. uses cookies to store and track your preferences to provide you with a more personalized user experience. A cookie is a message that is sent to your browser from a Web server and stored on your computer's hard drive. Most Internet sites use cookies. You can set your browser preferences to reject all cookies but then you will not be able to participate in most customized services, and you may be required to repeatedly log in to participate in various services, promotions, or product offerings. Cookies make your experience easier by saving your preferences and passwords.</p>
 <p>We also use cookies that contain no personal information at all. These cookies, help us estimate our audience size, determine which areas of Philadelphia Media Network, Inc. sites are the most popular, and serve targeted advertising. Third party advertisers and our ad server may set and access their cookies on your computer in accordance with their own privacy policies. If you would like more information about the use of cookies by our third party ad server and your ability to opt out of receiving cookies from this third party, please click here: <a href="http://www.doubleclick.net/us/corporate/privacy">http://www.doubleclick.net/us/corporate/privacy</a></p>
 <p>Some parts of Philly.com site use cookies to collect information about visitors' use of the Web site and to facilitate return visits. Information collected about user activity may be done in partnership using a third party tracking tool. The information collected from cookies is tracked to enhance security and to improve the functionality of the Web site by avoiding duplicate data entry, facilitating navigation, and increasing the relevance of content. Cookies on the site may collect the following information: a unique identifier, user preferences and profile information used to personalize the content that is shown, and membership information to access sitename,com's services. Some cookies used by Philly.com may remain on the user's computer after they leave the Web site.</p>
 <p>Most browsers can be configured to reject cookies or alert you when cookies are being sent. Keep in mind that if you refuse cookies, it is possible that some portions of Philadelphia Media Network, Inc. sites may not function exactly as intended.</p>
-<p><b>IP Address. </b>Philadelphia Media Network, Inc. may also collect IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g. how many visitors logged in to a Philadelphia Media Network, Inc. site). An IP address is a number that is assigned to your computer automatically when you use the Internet. When you visit a particular Philadelphia Media Network, Inc. web page, our servers log your IP address. Your IP address is not linked to anything personally identifiable.</p>
-<p><b>Who does Philadelphia Media Network, Inc. share information with?</b></p>
+<p><strong>IP Address. </strong>Philadelphia Media Network, Inc. may also collect IP addresses for the purposes of systems administration or to report information in aggregate form to our advertisers (e.g. how many visitors logged in to a Philadelphia Media Network, Inc. site). An IP address is a number that is assigned to your computer automatically when you use the Internet. When you visit a particular Philadelphia Media Network, Inc. web page, our servers log your IP address. Your IP address is not linked to anything personally identifiable.</p>
+<p><strong>AP News Registry.</strong> This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <a href="http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx" target="_blank">http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx</a> for further information.</p>
+<p><strong>Who does Philadelphia Media Network, Inc. share information with?</strong></p>
 <p>User information is shared within Philadelphia Media Network, Inc. in order to provide you with a more integrated and customized user experience. We will not disclose your personally identifiable information to third parties except (1) to the extent necessary to provide you with a requested product or service, or (2) in order to provide targeted promotional offers during the registration process. If you do not accept any of the offers, your information will not be retained by our registration offers partner.</p>
 <p>To the extent you are notified of uses of your personal information which are different from those described in this Policy Statement during your enrollment in any particular service, sweepstakes, contest or promotion, the uses of which you are specifically notified will govern that service, sweepstakes, contest or promotion. We may co-sponsor some contests on our site with other companies. If you enter one of these contests, our co-sponsor may receive the information collected. In such cases, we will tell you who the co-sponsor is and notify you the use of this information is governed by the co-sponsor's privacy policy.</p>
 <p>We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site</p>
-<p><b>What else should I know about my privacy? </b></p>
+<p><strong>What else should I know about my privacy? </strong></p>
 <p>You should be aware that if you voluntarily disclose personal information online in a public area, that information may be collected and used by others. We do not control the actions of our visitors and registered users. If you disclose personal information in a chat room, forum, on your home page, or any other publicly accessible place on Philadelphia Media Network, Inc. sites, you do so at your own risk and you understand that your submitted information may be collected and used by others to send you unsolicited messages, advertisements, or for other purposes.</p>
 <p>Please remember that protection of your privacy begins with you. You are solely responsible for maintaining the secrecy of any password you use to register, and you should always be careful and responsible whenever disclosing information online.</p>
 <p>This Web site contains links to other sites that are not owned or controlled by Philadelphia Media Network, Inc. Please be aware that we, Philadelphia Media Network, Inc., are not responsible for the privacy practices of such other sites.</p>
 <p>We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.</p>
 <p>This privacy statement applies only to information collected by this Web site.</p>
 <p>Third-party advertising companies may be used to serve ads when you visit philly.com.&nbsp; These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.&nbsp; If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (http://networkadvertising.org/consumer/opt_out.asp).</p>
-<p><b>PRIVACY PROTECTION FOR CHILDREN. </b>In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to Philadelphia Media Network, Inc. sites to persons under the age of thirteen (13). If Philadelphia Media Network, Inc. later learns that any registered user is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to Philadelphia Media Network, Inc. sites. We feel strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis.</p>
-<p><b>Acceptance of Privacy Policy. </b>By using Philadelphia Media Network, Inc. sites and services, you signify your acceptance of this Privacy Statement. If you do not agree or are not comfortable with any policy described in this Privacy statement, your only remedy is to discontinue use of Philadelphia Media Network, Inc. sites. We reserve the right, to modify this Privacy Statement at any time. If we materially change how we use your personal information we will notify you either by email or through a prominent notice on the web site. Your continued use of any portion of Philadelphia Media Network, Inc. sites following notification or posting of such changes, will constitute your accept of those changes. <!--If you have -->Questions or concerns about our specific policies, please contact us through our feedback form at: <a href="/philly/about/feedback/">Philadelphia Media Network, Inc. Feedback </a>.</p>
-<p><b>Want more information? Check out these helpful links... </b></p>
+<p><strong>PRIVACY PROTECTION FOR CHILDREN. </strong>In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to Philadelphia Media Network, Inc. sites to persons under the age of thirteen (13). If Philadelphia Media Network, Inc. later learns that any registered user is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to Philadelphia Media Network, Inc. sites. We feel strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis.</p>
+<p><strong>Acceptance of Privacy Policy. </strong>By using Philadelphia Media Network, Inc. sites and services, you signify your acceptance of this Privacy Statement. If you do not agree or are not comfortable with any policy described in this Privacy statement, your only remedy is to discontinue use of Philadelphia Media Network, Inc. sites. We reserve the right, to modify this Privacy Statement at any time. If we materially change how we use your personal information we will notify you either by email or through a prominent notice on the web site. Your continued use of any portion of Philadelphia Media Network, Inc. sites following notification or posting of such changes, will constitute your accept of those changes. <!--If you have -->Questions or concerns about our specific policies, please contact us through our feedback form at: <a href="philly/about/feedback/">Philadelphia Media Network, Inc. Feedback </a>.</p>
+<p><strong>Want more information? Check out these helpful links... </strong></p>
 <p><a href="http://www.eff.org/">Electronic Frontier Foundation</a> - a civil liberties organization working to protect your rights online.</p>
 <p><a href="http://www.epic.org/">Electronic Privacy Information Center</a> - established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure.</p>
 <p><a href="http://www.cdt.org/">Privacy Issues Page</a> - from the Center for Democracy and Technology (CDT).</p>
 <p><a href="http://www.cookiecentral.com/">Cookie Central</a> -- dedicated to provide full information upon Internet Cookies.</p>
 <p>&nbsp;</p>
 <hr width="96%" size="1" noshade="noshade">
-<p><a name="terms"></a><font size="4"><b>Terms of Use</b></font></p>
+<p><a name="terms"></a><span style="font-size: medium;"><strong>Terms of Use</strong></span></p>
 <p>We welcome you to our site. We ask that you review these Terms of Use, which are intended to constitute a binding license agreement that conditions your use of this site ("Agreement"). We have tried to avoid unnecessary legal verbiage. Our goal is to protect our rights in order to provide you with access to the free content available at this site. If you do not wish to be bound by this Agreement after you have read it, please leave the site. If you remain on this site, or return thereafter, you agree to be bound by this Agreement.</p>
-<p><b>1. Responsible conduct. </b>You agree to act responsibly at this site and to treat other visitors with respect.</p>
-<p><b>2. Limited License/ Copyright and Intellectual Property Law Restrictions. </b>Except for public domain material, the content on this site is protected by intellectual property laws, including U.S. copyright laws. You are hereby granted a non-exclusive license to use the material at this site ("Content") while connected to this site (including, where available, to email individual stories to friends directly from this site). You are also granted a limited license to print one copy of any Content posted at the site, but only for your personal use. Except as expressly provided above, all rights are reserved. Among other things, except to the extent required for the limited purpose of reviewing material on our site, electronic reproduction, adaptation, distribution, performance or display is prohibited. Changes to or deletion of author attribution or copyright notices are prohibited. Commercial use of any of the Content is strictly prohibited. Use of any of our trademarks as metatags on other web sites also is strictly prohibited. You may not display this Web site in frames (or any of the Content via in-line links) without our express written permission, which may be requested by contacting us through our feedback form. You may, however, establish ordinary links to our site without our written permission.</p>
-<p><b>3. Links. </b>We may provide links from our site to other sites as a convenience to our visitors. We have no control over linked sites and make no representations about any content or material available at these locations. Links are not intended to imply sponsorship, affiliation or endorsement.</p>
-<p><b>4.</b> <b>Discussion Boards and other self-publishing 3rd party products.</b> Although we do not have any obligation to monitor these services, or this self-published content, we reserve the right at all times to remove any information or materials that are unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, pornographic, profane, indecent or otherwise objectionable to us in our sole discretion and to disclose any information necessary to satisfy the law, regulation, or government request. We also reserve the right to permanently block any user who violates these terms and conditions.</p>
-<p><b>5. DISCLAIMER OF WARRANTIES.</b> YOU EXPRESSLY AGREE THAT USE OF THIS WEB SITE IS AT YOUR SOLE RISK. THERE IS NO WARRANTY THAT YOUR ACCESS TO OR USE OF THIS SITE WILL BE UNINTERRUPTED OR ERROR FREE; OR THAT ANY PARTICULAR RESULTS MAY BE OBTAINED BY USE OF THIS SITE. THIS SITE IS MADE AVAILABLE ON AN "AS IS" BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHERWISE, OTHER THAN THOSE WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSION, RESTRICTION, OR MODIFICATION UNDER THE LAWS APPLICABLE TO THIS AGREEMENT. NEITHER WE NOR ANY OTHER PERSON OR ENTITY PROVIDING CONTENT VIA THIS SITE SHALL BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES.</p>
-<p><b>6. Modifications/Termination. </b>The terms of this agreement will not be modified on an individual basis. You agree that we may modify the terms of this Agreement (or discontinue this site) in our sole discretion, without advance notice, and that your right to access this site is conditioned on an ongoing basis with your compliance with the then-current version of these Terms and Conditions. You should therefore visit this page frequently.</p>
-<p><b>7. Jurisdiction.</b> This Web site is hosted on servers located in the United States and is intended to be viewed by residents of the United States. In the event of any dispute arising out of or relating to this site, you agree that the exclusive venue for litigating disputes shall be in state or federal court in Philadelphia, Pennsylvania.</p>
+<p><strong>1. Responsible conduct. </strong>You agree to act responsibly at this site and to treat other visitors with respect.</p>
+<p><strong>2. Limited License/ Copyright and Intellectual Property Law Restrictions. </strong>Except for public domain material, the content on this site is protected by intellectual property laws, including U.S. copyright laws. You are hereby granted a non-exclusive license to use the material at this site ("Content") while connected to this site (including, where available, to email individual stories to friends directly from this site). You are also granted a limited license to print one copy of any Content posted at the site, but only for your personal use. Except as expressly provided above, all rights are reserved. Among other things, except to the extent required for the limited purpose of reviewing material on our site, electronic reproduction, adaptation, distribution, performance or display is prohibited. Changes to or deletion of author attribution or copyright notices are prohibited. Commercial use of any of the Content is strictly prohibited. Use of any of our trademarks as metatags on other web sites also is strictly prohibited. You may not display this Web site in frames (or any of the Content via in-line links) without our express written permission, which may be requested by contacting us through our feedback form. You may, however, establish ordinary links to our site without our written permission.</p>
+<p><strong>3. Links. </strong>We may provide links from our site to other sites as a convenience to our visitors. We have no control over linked sites and make no representations about any content or material available at these locations. Links are not intended to imply sponsorship, affiliation or endorsement.</p>
+<p><strong>4.</strong> <strong>Discussion Boards and other self-publishing 3rd party products.</strong> Although we do not have any obligation to monitor these services, or this self-published content, we reserve the right at all times to remove any information or materials that are unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, pornographic, profane, indecent or otherwise objectionable to us in our sole discretion and to disclose any information necessary to satisfy the law, regulation, or government request. We also reserve the right to permanently block any user who violates these terms and conditions.</p>
+<p><strong>5. DISCLAIMER OF WARRANTIES.</strong> YOU EXPRESSLY AGREE THAT USE OF THIS WEB SITE IS AT YOUR SOLE RISK. THERE IS NO WARRANTY THAT YOUR ACCESS TO OR USE OF THIS SITE WILL BE UNINTERRUPTED OR ERROR FREE; OR THAT ANY PARTICULAR RESULTS MAY BE OBTAINED BY USE OF THIS SITE. THIS SITE IS MADE AVAILABLE ON AN "AS IS" BASIS WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHERWISE, OTHER THAN THOSE WHICH ARE IMPLIED BY AND INCAPABLE OF EXCLUSION, RESTRICTION, OR MODIFICATION UNDER THE LAWS APPLICABLE TO THIS AGREEMENT. NEITHER WE NOR ANY OTHER PERSON OR ENTITY PROVIDING CONTENT VIA THIS SITE SHALL BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES.</p>
+<p><strong>6. Modifications/Termination. </strong>The terms of this agreement will not be modified on an individual basis. You agree that we may modify the terms of this Agreement (or discontinue this site) in our sole discretion, without advance notice, and that your right to access this site is conditioned on an ongoing basis with your compliance with the then-current version of these Terms and Conditions. You should therefore visit this page frequently.</p>
+<p><strong>7. Jurisdiction.</strong> This Web site is hosted on servers located in the United States and is intended to be viewed by residents of the United States. In the event of any dispute arising out of or relating to this site, you agree that the exclusive venue for litigating disputes shall be in state or federal court in Philadelphia, Pennsylvania.</p>
 </div>
-<p>&nbsp;</p>
 	<!--googleoff: all-->
 	<!-- endclickprintinclude -->
 	  
  	</div>
-			</div>	</div> 	
+			</div>		
 		<div id="rCol">
 
 			<!-- default: 17732614 -->
 <!-- actual page layout: 17732614 -->
 <!-- faux page layout: $fauxPageLayout.id -->
+<!-- Array reset to circumvent mem-cache version -->
 
 
+
+
+
+
+
+	
 		
-		
 
 
-
-		 
-
-		
-		
-		
  
 		<div id="section_rectangle">
 					<div class="container_ad" id="mrec_300x250">
 												
 <div class="adUnit">
 
+
 	<script language="JavaScript1.1" type="text/javascript">
 document.write('<script language="JavaScript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/ph.admin/terms_of_use;!category=terms_of_use;type=secondary;dcopt=ist;pos=mrec;tile=5;sz=300x250,300x600;ord='+_phDartOrd+'?"><\/SCRIPT>');
 	</script>
 
 	
+	
 	<noscript>
-	<a href="http://ad.doubleclick.net/jump/ph.admin/terms_of_use;!category=terms_of_use;type=secondary;pos=mrec;tile=5;sz=300x250,300x600;ord=122510035607?" target="_blank">
-	<img src="http://ad.doubleclick.net/ad/ph.admin/terms_of_use;!category=terms_of_use;type=secondary;pos=mrec;tile=5;sz=300x250,300x600;ord=122510035607?"  border="0" /></a>
+	<a href="http://ad.doubleclick.net/jump/ph.admin/terms_of_use;type=secondary;pos=mrec;tile=5;sz=300x250,300x600;ord=051811123336?" target="_blank">
+	<img src="http://ad.doubleclick.net/ad/ph.admin/terms_of_use;type=secondary;pos=mrec;tile=5;sz=300x250,300x600;ord=051811123336?"  border="0" /></a>
 	</noscript>
 </div>
 
 							</div>
-		<div class="minitext"><a href="http://www.philly.com/advertise/">Advertise Here</a></div>
-		</div>
-	
+		<div class="minitext"><a href="http://www.philly.com/advertise/">Advertise Here</a></div>		</div>
+
+
+
 
 	<div id="rightcontent">
 
 
-		
-		
 				
 																	
 			
@@ -3537,14 +3572,16 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 		
 <div class="adUnit">
 
+
 	<script language="JavaScript1.1" type="text/javascript">
 document.write('<script language="JavaScript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/ph.admin/terms_of_use;!category=terms_of_use;type=secondary;dcopt=ist;pos=rail;tile=11;sz=300x250;ord='+_phDartOrd+'?"><\/SCRIPT>');
 	</script>
 
 	
+	
 	<noscript>
-	<a href="http://ad.doubleclick.net/jump/ph.admin/terms_of_use;!category=terms_of_use;type=secondary;pos=rail;tile=11;sz=300x250;ord=122510035607?" target="_blank">
-	<img src="http://ad.doubleclick.net/ad/ph.admin/terms_of_use;!category=terms_of_use;type=secondary;pos=rail;tile=11;sz=300x250;ord=122510035607?"  border="0" /></a>
+	<a href="http://ad.doubleclick.net/jump/ph.admin/terms_of_use;type=secondary;pos=rail;tile=11;sz=300x250;ord=051811123336?" target="_blank">
+	<img src="http://ad.doubleclick.net/ad/ph.admin/terms_of_use;type=secondary;pos=rail;tile=11;sz=300x250;ord=051811123336?"  border="0" /></a>
 	</noscript>
 </div>
 
@@ -3591,12 +3628,15 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 
-		
-
-
 
 
 		
+
+
+
+
+						
+
 <div id="most-popular">
 
 		 
@@ -3759,80 +3799,80 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/inquirer/local/philadelphia/112419379.html?cmpid=15585797">
-	Forecasters back off calls for a big snowfall Monday
+		<a href="http://www.philly.com/philly/news/politics/121931594.html?cmpid=15585797">
+	2011 Philly Primary Election Results
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/dailynews/local/112419584.html?cmpid=15585797">
-	Cops want suspect to tell where his girlfriend is
+		<a href="http://www.philly.com/philly/news/121973179.html?cmpid=15585797">
+	END DAZE: Harold Camping says Doomsday's on Saturday. Around 6. Guaranteed.
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/news/112419589.html?cmpid=15585797">
-	City reveals 47 arbitration decisions involving Philadelphia cops
+		<a href="http://www.philly.com/philly/news/122136079.html?cmpid=15585797">
+	Cops: Body positively ID'd as Iris Tyson
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/news/112423369.html?cmpid=15585797">
-	Historic southern NJ inn gutted by fire
+		<a href="http://www.philly.com/philly/blogs/sixerville/122003559.html?cmpid=15585797">
+	Iguodala trade rumor and Rudy Gay
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/sports/eagles/112419709.html?cmpid=15585797">
-	John Smallwood: Maclin quietly enjoying big season for Eagles
+		<a href="http://www.philly.com/philly/sports/eagles/121973014.html?cmpid=15585797">
+	Eagles draft pick Casey Matthews inherited his family's linebacking genes
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/sports/phillies/112406534.html?cmpid=15585797">
-	Bill Conlin: Visions of spring training while watching Penn State practice
+		<a href="http://www.philly.com/philly/news/nation_world/122014419.html?cmpid=15585797">
+	Shriver: It's a 'painful and heartbreaking time'
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/news/112406449.html?cmpid=15585797">
-	Former priest talks about being gay at holidays
+		<a href="http://www.philly.com/philly/entertainment/122071784.html?cmpid=15585797">
+	Tattle: How did Ahnold love child go unexposed?
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/blogs/dneagles/112425199.html?cmpid=15585797">
-	Eagles sign returner Lawson
+		<a href="http://www.philly.com/philly/blogs/hallmonitor/122020659.html?cmpid=15585797">
+	White teachers accuse administrators of racial discrimination
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/news/112439134.html?cmpid=15585797">
-	Woman found dead in Kensington, unclear if strangler involved
+		<a href="http://www.philly.com/philly/news/121973184.html?cmpid=15585797">
+	'I want her home,' mom says of daughter
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/news/112406464.html?cmpid=15585797">
-	Family from Chester related by love, not blood
+		<a href="http://www.philly.com/philly/blogs/frequentflyers/121998929.html?cmpid=15585797">
+	Flyers sign 6-7 goalie to entry level deal
 </a></dt>
 			
 						
@@ -4029,80 +4069,80 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/inquirer/columnists/bob_ford/112419439.html?cmpid=15585797">
-	Bob Ford: Peace in the Mideast? Yes, on football team
+		<a href="http://www.philly.com/philly/news/121973179.html?cmpid=15585797">
+	END DAZE: Harold Camping says Doomsday's on Saturday. Around 6. Guaranteed.
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/video/106492678.html?cmpid=15585797">
-	'Flash opera' at Macy's
+		<a href="http://www.philly.com/philly/news/121973174.html?cmpid=15585797">
+	Atheist's dog-sitting is a rapturous business
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/inquirer/front_page/112419049.html?cmpid=15585797">
-	Faculty still paid by drug firms
+		<a href="http://www.philly.com/philly/blogs/hallmonitor/122020659.html?cmpid=15585797">
+	White teachers accuse administrators of racial discrimination
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/sports/eagles/112419529.html?cmpid=15585797">
-	With championship memories, Van Brocklin's daughter returns
+		<a href="http://www.philly.com/philly/business/122024934.html?cmpid=15585797">
+	For commercial customers, Peco will raise its price to compare
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/news/112423369.html?cmpid=15585797">
-	Historic southern NJ inn gutted by fire
+		<a href="http://www.philly.com/philly/business/122135439.html?cmpid=15585797">
+	Urban Outfitters' chief aims to right the ship
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/columnists/112419324.html?cmpid=15585797">
-	Annette John-Hall: Verdene Randolph to retire from dispensing legal - and personal - advice
+		<a href="http://www.philly.com/philly/blogs/inq-blinq/122148309.html?cmpid=15585797">
+	Bruce Springsteen, the bust.
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/sports/eagles/112436129.html?cmpid=15585797">
-	Christmas gift from a Philly.com Sports reader 
+		<a href="http://www.philly.com/philly/news/local/122135794.html?cmpid=15585797">
+	4 white Philadelphia teachers file racial-bias lawsuits
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/inquirer/obituaries/112419279.html?cmpid=15585797">
-	Sister Aquilla Peterson, 61, longtime social worker
+		<a href="http://www.philly.com/philly/entertainment/121972639.html?cmpid=15585797">
+	Nero, Pops show why they should survive
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/dailynews/obituaries/112406349.html?cmpid=15585797">
-	Sr. Aquilla Peterson, world traveler
+		<a href="http://www.philly.com/philly/news/breaking/122046634.html?cmpid=15585797">
+	Feds: PHA should reimburse U.S. millions
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/inquirer/front_page/112419064.html?cmpid=15585797">
-	Phila. homeowners facing foreclosure get holiday reprieve
+		<a href="http://www.philly.com/philly/living/122135524.html?cmpid=15585797">
+	The No Babysitters Club
 </a></dt>
 			
 						
@@ -4240,14 +4280,16 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 		
 <div class="adUnit">
 
+
 	<script language="JavaScript1.1" type="text/javascript">
 document.write('<script language="JavaScript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/ph.admin/terms_of_use;!category=terms_of_use;type=secondary;dcopt=ist;pos=promo;tile=12;sz=300x100;ord='+_phDartOrd+'?"><\/SCRIPT>');
 	</script>
 
 	
+	
 	<noscript>
-	<a href="http://ad.doubleclick.net/jump/ph.admin/terms_of_use;!category=terms_of_use;type=secondary;pos=promo;tile=12;sz=300x100;ord=122510035607?" target="_blank">
-	<img src="http://ad.doubleclick.net/ad/ph.admin/terms_of_use;!category=terms_of_use;type=secondary;pos=promo;tile=12;sz=300x100;ord=122510035607?"  border="0" /></a>
+	<a href="http://ad.doubleclick.net/jump/ph.admin/terms_of_use;type=secondary;pos=promo;tile=12;sz=300x100;ord=051811123336?" target="_blank">
+	<img src="http://ad.doubleclick.net/ad/ph.admin/terms_of_use;type=secondary;pos=promo;tile=12;sz=300x100;ord=051811123336?"  border="0" /></a>
 	</noscript>
 </div>
 
@@ -4258,6 +4300,49 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 </div>
 <div id="contentrightside">
 
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+
+
+		
+	
+					
+	
+		
+
+			
+ 
+	
+	
+		 					<!-- debug 118833989 (actual) -->
+			
+		
+<div class="tracking">
+	 
+
+
+
+			 
+<img src="http://privacy.apnewsregistry.com/privacy/v1/image.svc/E/Prod" alt="" width="1" height="1">
+
+	
+
+</div>
  
 
  	
@@ -4290,6 +4375,7 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 
+
 		</div> 	
 	<div class="divclear"></div>
                        
@@ -4297,20 +4383,32 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 <div class="sliderfooter"><!-- begin google adsense sponsor -->
 <div style="text-align:center;clear:both;">
-<script type="text/javascript"><!--
-   google_ad_client = "pub-5898428479336671";
-
-   google_ad_width = 728;
-   google_ad_height = 90;
 
 
-   google_ad_slot = "6420484893";
+	
 
 
-//-->
-</script>
-<div class="adUnit"><script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
+	
+	
+	
+<div class="adUnit">
+
+
+	<script language="JavaScript1.1" type="text/javascript">
+document.write('<script language="JavaScript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/ph.admin/adsense;!category=terms_of_use;type=secondary;dcopt=ist;pos=google;tile=12;sz=728x90;ord='+_phDartOrd+'?"><\/SCRIPT>');
+	</script>
+
+	
+	
+	<noscript>
+	<a href="http://ad.doubleclick.net/jump/ph.admin/adsense;type=secondary;pos=google;tile=12;sz=728x90;ord=051811123336?" target="_blank">
+	<img src="http://ad.doubleclick.net/ad/ph.admin/adsense;type=secondary;pos=google;tile=12;sz=728x90;ord=051811123336?"  border="0" /></a>
+	</noscript>
+</div>
+
+ 
+
+	
 </div>
 <!-- end google adsense sponsor -->
 </div>
@@ -4322,10 +4420,10 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 			 </div> 
+
 				  
 		   
  	 		
-
 
 	
 
@@ -4335,14 +4433,14 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 <div id="ugc-footer-philly">
-<div id="105052254" class="supercontainer_outer force-width">
+<div id="18485719" class="supercontainer_outer force-width">
 
  
 
 
  
 <div class="supercontainer">
-	<div class="container_3col_25left">
+	<div class="container_4col_left">
 			
 	
 		
@@ -4354,7 +4452,6 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 
-
 		
 		 									 
 	 	
@@ -4362,15 +4459,11 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 	 	
 	 
 	
-
 		 			
 	
 								
 	
-
-		 		
-							
-			
+		 												
 	
 							
 	
@@ -4398,30 +4491,28 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 
-
 <div class="container_inner">
 
 			
-			 										
+			 								
 
 
-	<div class="pollquestion">We're really excited about...</div>
+	<div class="pollquestion">Should the Phillies make a trade to resuscitate their offense?
+</div>
 
 <form action="http://polls.clickability.com/polls">
-	<input type="hidden" name="pid" value="112165879">
+	<input type="hidden" name="pid" value="122068224">
 	<input type="hidden" name="cid" value="8500281">
 	<input type="hidden" name="mr" value="1">
-<input type="hidden" name="UGCfooter" value="Y">	<input type="hidden" name="112165879" value="Y">
+<input type="hidden" name="UGCfooter" value="Y">	<input type="hidden" name="122068224" value="Y">
 	<input type="hidden" name="rurl" value="http://www.philly.com/philly/about/terms_of_use/"> 
 	
 
 	
-	<div class="pollchoice"><input type="radio" name="oid" value="1">Cliff Lee returning to Philly</div>
-	<div class="pollchoice"><input type="radio" name="oid" value="2">That unbelievable Eagles game</div>
-	<div class="pollchoice"><input type="radio" name="oid" value="3">Christmas</div>
-	<div class="pollchoice"><input type="radio" name="oid" value="4">All of the above</div>
+	<div class="pollchoice"><input type="radio" name="oid" value="1">Yes. Enough of the patchwork lineups.</div>
+	<div class="pollchoice"><input type="radio" name="oid" value="2">No. Injured players — including Chase Utley — will return soon.</div>
 
-		<div class="photomore" style="margin:10px 0 0 0;float:right;"><a href="http://www.philly.com/philly/polls/112165879.html?results=y">View results</a></div>
+		<div class="photomore" style="margin:10px 0 0 0;float:right;"><a href="http://www.philly.com/philly/polls/122068224.html?results=y">View results</a></div>
 	 
 	<div class="pollbutton"><input class="pollbutton" type="submit" name="submit" value="Vote"></div>
 
@@ -4429,7 +4520,6 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 </form>
-
 	</div></div>
 
 
@@ -4454,15 +4544,253 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
   
 	
  
+ 		
+	
+		
+		</div>
+
+
+	<div class="container_4col_leftmiddle">
+			
+	
+		
+
+ 
+			
+		 		 
+ 	 		
+
+
+
+	<div class="container rssbox">
+	<dl class="headlines-digest" style="padding:0px;margin:0px;">
+
+
+
+
+		 
+															
+
+
+
+
+	
+	 		
+		
+	
+							
+	
+								  																	  																	  																	  																	  																																																																																																																																																																									
+			<!-- Feed Retrieved at: Wed May 18 08:34:11 PDT 2011 -->
+	
+	 
+
+		
+						
+
+
+
+		
+
+	
+		
+
+	<div class="containertitle video ">
+	<a href="http://www.philly.com/todaysvideos.rss" class="rss-button-link"><img align="right" width="29" height="12" border="0" alt="XML" src="http://media.philly.com/designimages/rss_xm_12px.png" style="margin:0 3px 0 0;" id="rss-button-icon"></a>		<a href="http://www.philly.com/video">TODAY'S PHILLY.COM VIDEOS</a>
+	</div>
+
+
+
+
+	<div class="container_inner">
+
+				
+			
+			
+												
+
+				
+				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=241162&amp;44=122052883&amp;32=3796&amp;7=229017&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fvideo%2FBCCE947711622001.html" class="">Philly Gossip, Interview with Kat Dennings</a>												</dt>
+
+			
+												
+
+				
+				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=241162&amp;44=122062333&amp;32=3796&amp;7=229017&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fvideo%2FBC947639935001.html" class="">Turnout in John Street's old stomping grounds</a>												</dt>
+
+			
+												
+
+				
+				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=241162&amp;44=122062338&amp;32=3796&amp;7=229017&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fvideo%2FBC947639937001.html" class="">Turnout 20th Ward</a>												</dt>
+
+			
+												
+
+				
+				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=241162&amp;44=122020484&amp;32=3796&amp;7=229017&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fvideo%2FBC947578104001.html" class="">Mob Scene, Lawyer Turned Gangster</a>												</dt>
+
+			
+												
+
+				
+				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=241162&amp;44=121997164&amp;32=3796&amp;7=229017&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fvideo%2FBC947476066001.html" class="">Jamie and Karen Moyer, One Great Idea</a>												</dt>
+
+			
+						
+
+					
+
+
+			
+								
+				
+				<dt> 	 
+	 			
+	 		
+				<div class="morelink"><a href="http://www.philly.com/video" class="bl">More videos <span class="arrow">»</span></a></div>
+			
+
+  </dt>
+				
+			
+
+		</div>
+		
+	
+
+
+	
+<a href="http://www.philly.com/todaysvideos.rss"><img src="http://media.philly.com/designimages/spacer.gif" width="0" height="0" class="img_noborder"></a>
+
+
+</dl>
+
+</div> 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
  
 		
 	
 		
 		</div>
 
-
-	<div class="container_3col_50middle">
+	<div class="container_4col_rightmiddle">
 			
+	
+		
+
+ 
+			
+		 		 
+ 	 		
+
+		 
+
+
+
+
+ 		 
+						 
+		 													 						 				 						
+		 														 																												 																												 																												 																												 																												 																
+
+		 
+		
+
+		 		
+									
+		 		
+
+										
+										
+ 
+
+	
+
+
+
+
+	
+<div class="container">	 
+
+		
+				
+
+
+
+		
+
+		
+	
+
+	<div class="containertitle  ">
+			Philly.com Promotions
+	</div>
+
+
+
+
+	<div class="container_inner">	<dl class="headlineonly">
+	 														
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/contests/" class="bl">Philly.com Contests</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://phillydealyo.philly.com" class="bl">Philly Dealyo</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/travel/visitors_guide/" class="bl">Philadelphia Visitors Guide</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/restaurants/" class="bl">Philadelphia Restaurants</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/sports/" class="bl">Philadelphia Sports</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://fansnap.philly.com/events?l=Philadelphia%2C+PA&amp;market_area=philadelphia-wilmington-atlantic-city-35&amp;q=phillies" class="bl">Buy Phillies Tickets</a></dt> 
+
+
+			 	</dl>
+	</div></div>				
+ 
+
+ 	
+ 
+ 	  
+ 	
+ 			
+     
+ 
+ 
+ 
+
+ 
+  
+	
+ 
+ 
+		
+	
+				
 	
 		
 
@@ -4475,9 +4803,10 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 
-				<div class="containertitle">&nbsp; &nbsp; RECENT ACTIVITY ACROSS OUR COMMUNITY</div>
-	<div id="bv_activity"><!-- badgeville activity widget --><script async="" id="badgeville_widget_activities" src="https://web.archive.org/web/20110401094900/http://philly.badgeville.com/api/cGhpbGx5QGJhZGdldmlsbGUuY29t/widgets/activities?session="></script></div>
-
+			<!-- begin badgeville footer include -->
+<div id="bv_footer_include"></div>
+<script type="text/javascript" src="/includes/badgeville_footer_include.js"></script> 
+<!-- end badgeville footer include -->
 
 	
 
@@ -4505,10 +4834,9 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 		</div>
 
 
-
 	
 
-	<div class="container_3col_25right">
+	<div class="container_4col_right">
 			
 	
 		
@@ -4539,7 +4867,7 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 							
 	
 								  																	  																	  																	  																	  																	  																																																																																																																																																																																																																																										
-			<!-- Feed Retrieved at: Fri Dec 24 15:27:21 PST 2010 -->
+			<!-- Feed Retrieved at: Wed May 18 09:00:46 PDT 2011 -->
 	
 	 
 
@@ -4568,37 +4896,37 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 												
 
 				
-				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=428114&amp;44=112265124&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fnews%2Fyear-in-review%2F2010_YEAREND_Robertson.html" class="">2010 YEAREND Robertson</a>												</dt>
+				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=186331&amp;44=122165604&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fgallery%2FPlanking_pics_of_Philly_woman_.html" class="">Philly woman is planking pioneer</a>												</dt>
 
 			
 												
 
 				
-				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=186331&amp;44=112312122&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fgallery%2F112312122.html" class="">Las Posadas Part Two</a>												</dt>
+				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=168066&amp;44=122151359&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fentertainment%2Fhomepage%2FMoore_College_Annual_Fashion_Show.html" class="">Moore College Annual Fashion Show</a>												</dt>
 
 			
 												
 
 				
-				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=186331&amp;44=112311737&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fgallery%2F112311737.html" class="">Las Posadas</a>												</dt>
+				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=186331&amp;44=121971588&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fgallery%2FMoore_College_of_Art_and_Design_Annual_Fashion_show5.html" class="">Moore College of Art and Design Annual Fashion show</a>												</dt>
 
 			
 												
 
 				
-				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=186326&amp;44=112391564&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Finquirer%2Fgallery%2FPhiladelphia_Regional_Produce_Markets_new_home.html" class="">Philadelphia Regional Produce Market's new home</a>												</dt>
+				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=186331&amp;44=121971699&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fgallery%2FMoore_College_of_Art_and_Design_Annual_Fashion_show6.html" class="">Moore College of Art and Design Annual Fashion show</a>												</dt>
 
 			
 												
 
 				
-				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=168281&amp;44=104940419&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fphillywomen%2F2010-11_Social_Circuit.html" class="">2010-11 Social Circuit</a>												</dt>
+				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=186331&amp;44=121971638&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fgallery%2FMoore_College_of_Art_and_Design_Annual_Fashion_show4.html" class="">Moore College of Art and Design Annual Fashion show</a>												</dt>
 
 			
 												
 
 				
-				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=193997&amp;44=111556149&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fphotos%2Fnews_photos%2FPhiladelphians_In_Memoriam_2010.html" class="">Philadelphians we lost in 2010</a>												</dt>
+				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=186331&amp;44=121971693&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fgallery%2FMoore_College_of_Art_and_Design_Annual_Fashion_show3.html" class="">Moore College of Art and Design Annual Fashion show</a>												</dt>
 
 			
 								 				
@@ -4722,7 +5050,7 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 						<a href="http://www.philly.com/philly/jobs">
 															Jobs
 													</a>
-																																																																																																																																																																																																																																																																																																																																																																																																																									</dt>
+																																																																																																																																																																																																																																																																																																																																																																																																																																											</dt>
 			</dl>
 			</div>
 
@@ -4740,14 +5068,14 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
  		 
 						 
 		 															 						 						 						
-		 																																																																																																																																														
+		 																																																																																																																		
 
 		 
 		
 
 		 		
 									
-		 																																																																				
+		 																																																									
 
 										
 										
@@ -4776,11 +5104,7 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 									
- | <a href="http://epaper.philly.com/" class="bl">The e-Inquirer</a>
-
-
-									
- | <a href="https://nie.philly.com/ " class="bl">  News In Education</a>
+ | <a href="http://nie.philly.com/ " class="bl">  News In Education</a>
 
 
 			 </dt>	</dl>
@@ -4809,48 +5133,10 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 			<div class="containertitle"><a href="http://www.philly.com/inquirer/">The Inquirer:</a></div>
 			<dl class="headlineonly">
 				<dt>
-								<a href="http://www.philly.com/inquirer/news">News</a>
-															 | 
-						<a href="http://www.philly.com/inquirer/front_page">
-															Front Page
-													</a>
-																				 | 
-						<a href="http://www.philly.com/inquirer/sports">
-															Sports
-													</a>
-																				 | 
-						<a href="http://www.philly.com/inquirer/business">
-															Business 
-													</a>
-																				 | 
-						<a href="http://www.philly.com/inquirer/obituaries">
-															Obituaries
-													</a>
-																				 | 
-						<a href="http://www.philly.com/inquirer/entertainment">
-															Arts &amp; Entertainment
-													</a>
-																				 | 
-						<a href="http://www.philly.com/inquirer/living">
-															Food, Home &amp; Life
-													</a>
-																				 | 
-						<a href="http://www.philly.com/inquirer/health_science">
-															Health &amp; Science
-													</a>
-																				 | 
-						<a href="http://www.philly.com/inquirer/education">
-															Education
-													</a>
-																				 | 
-						<a href="http://www.philly.com/inquirer/opinion">
-															Opinion
-													</a>
-																				 | 
-						<a href="http://www.philly.com/inquirer/blogs_columns">
-															Blogs &amp; Columns
-													</a>
-																																																																																																																																																																																																																																																																																																																															| <a href="http://www.pnionline.com/readerservices/subscriberservices/">Subscriber Services</a>			
+
+<a href="http://philly.newspaperdirect.com/">The Inquirer Digital</a>
+| <a href="http://www.philly.com/inquirer/columnists/">Columns</a>
+				| <a href="http://www.pnionline.com/readerservices/subscriberservices/">Subscriber Services</a>			
 				</dt>
 			</dl>
 			</div>
@@ -4859,40 +5145,9 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 			<div class="containertitle"><a href="http://www.philly.com/dailynews/">Daily News:</a></div>
 			<dl class="headlineonly">
 				<dt>
-								<a href="http://www.philly.com/dailynews/local">City &amp; Local</a>
-															 | 
-						<a href="http://www.philly.com/dailynews/sports">
-															Sports
-													</a>
-																				 | 
-						<a href="http://www.philly.com/dailynews/features">
-															Yo! Features
-													</a>
-																				 | 
-						<a href="http://www.philly.com/dailynews/columnists">
-															Columnists
-													</a>
-																				 | 
-						<a href="http://www.philly.com/dailynews/opinion">
-															Daily News Opinion
-													</a>
-																				 | 
-						<a href="http://www.philly.com/dailynews/photos">
-															Photos
-													</a>
-																				 | 
-						<a href="http://www.philly.com/dailynews/multimedia">
-															Multimedia
-													</a>
-																				 | 
-						<a href="http://www.philly.com/dailynews/national">
-															National News
-													</a>
-																				 | 
-						<a href="http://www.philly.com/dailynews/obituaries">
-															Obituaries
-													</a>
-																																																																																																																									| <a href="http://www.pnionline.com/readerservices/subscriberservices/">Subscriber Services</a>			
+<a href="http://phillydailynews.newspaperdirect.com">Daily News Digital</a>
+| <a href="http://www.philly.com/dailynews/columnists/">Columns</a>
+				| <a href="http://www.pnionline.com/readerservices/subscriberservices/">Subscriber Services</a>			
 
 				</dt>
 			</dl>
@@ -4983,7 +5238,7 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 						<div id="globalFootInner">
 			<div class="containertitle">Partners:</div>
-										
+														
 				 
  	 		
 
@@ -4995,14 +5250,14 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
  		 
 						 
 		 															 						 						 						
-		 																																																																																																																																																																																																																																																														
+		 																																																																																																																																																																																																																																		
 
 		 
 		
 
 		 		
 									
-		 																																																																																																																
+		 																																																																																																					
 
 										
 										
@@ -5023,6 +5278,10 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 									
+ | <a href="http://www.citypaper.net" class="bl">Philadelphia City Paper</a>
+
+
+									
  | <a href="http://w.nmb.ly/crib" class="bl">Philly Dealyo</a>
 
 
@@ -5031,15 +5290,7 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 									
- | <a href="http://www.activeadulthousing.com" class="bl">Active Adult Housing</a>
-
-
-									
  | <a href="http://www.homesandliving.com" class="bl">Homes and Living</a>
-
-
-									
- | <a href="http://www.communities-magazine.com" class="bl">Communities Magazine</a>
 
 
 									
@@ -5074,14 +5325,14 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
  
  
 
-			</div>
+							</div>
 
 
 			<div class="footercenter">
 
  						<!--<a href="http://www.philly.com/philly/about/pnl/">Philadelphia Newspapers' Reorganization</a>  | --><a href="http://www.philly.com/philly/about/">About Philly.com</a> | <a href="http://www.philly.com/philly/about/feedback/">Contact Us</a> | 
 			<a href="http://www.philly.com/philly/about/terms_of_use/">Terms of Use &amp; Privacy Statement</a> |
-			<a href="http://www.philly.com/philly/about/copyright/">Copyright 2010</a> 
+			<a href="http://www.philly.com/philly/about/copyright/">Copyright 2011</a> 
 
 
 		<div class="divclear"></div>
@@ -5118,41 +5369,6 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
  
  
 	
-		
-		
-
-
-	 
-
-
-
-			<!-- begin badgeville footer include -->
-<div id="bv_footer_include"></div>
-<script type="text/javascript" src="/includes/badgeville_footer_include.js"></script> 
-<!-- end badgeville footer include -->
-
-
-	
-
-
- 
-
- 	
- 
- 	  
- 	
- 			
-     
- 
- 
- 
-
- 
-  
-	
- 
- 
-		
 
 
 
@@ -5168,17 +5384,6 @@ document.write('<script language="JavaScript1.1" type="text/javascript" src="htt
 
 
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-d3gEFsqtY-TqE"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"> </script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-d3gEFsqtY-TqE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
-</noscript>
-<!-- End Quantcast tag -->
 
 <!-- Begin comScore Tag -->
 <script>
@@ -5201,8 +5406,11 @@ document.write(unescape("%3Cscript src='" + (document.location.protocol == "http
 <!-- End comScore Tag -->
 
 
+
 <div id="fb-root"></div>
 <script language="javascript">
+
+
 window.fbAsyncInit = function() { 
 FB.init({appId: '359929829260', status: true, cookie: true, xfbml: true}); 
 }; 
@@ -5210,8 +5418,7 @@ FB.init({appId: '359929829260', status: true, cookie: true, xfbml: true});
 var e = document.createElement('script'); e.async = true; e.src = document.location.protocol + '//connect.Facebook.net/en_US/all.js'; document.getElementById('fb-root').appendChild(e);}() 
 ); 
  
-
-
+	
 function getUserData(){ 
 FB.api('/me', function(response) { 
 //alert(response.id);
@@ -5222,6 +5429,8 @@ document.forms['ssoLogin'].submit();
 } 
 
 
+		
+	
 function logFBUser(){ 
 document.forms['logoutSSO'].submit();
 FB.logout(function(response) { 
@@ -5229,12 +5438,11 @@ FB.logout(function(response) {
 }); 
 }
 
-	
 </script>
 
 
-				
-		
+	
+	
 
 
 	 
@@ -5242,8 +5450,20 @@ FB.logout(function(response) {
 
 
 			
+
 <script type="text/javascript">
+
 var _sf_async_config={uid:12719,domain:"philly.com",path:"/philly/about/terms_of_use"};
+
+_sf_async_config.sections = s.prop5; 
+if(s.prop13 !="") {
+_sf_async_config.authors = s.prop13;
+} else {
+_sf_async_config.authors = "";
+}
+
+
+
 (function(){
 	function loadChartbeat() {
 	window._sf_endpt=(new Date()).getTime();
@@ -5251,8 +5471,8 @@ var _sf_async_config={uid:12719,domain:"philly.com",path:"/philly/about/terms_of
 	f.setAttribute('language', 'javascript');
 	f.setAttribute('type', 'text/javascript');
 	f.setAttribute('src',
-(("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-"static.chartbeat.com/js/chartbeat.js");
+    (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+    "js/chartbeat_rm.js");
 document.body.appendChild(f);
 }
 var oldonload = window.onload;
@@ -5262,23 +5482,7 @@ loadChartbeat : function() { oldonload(); loadChartbeat(); };
 
 </script> 
 
-<script type="text/javascript">
 
-var userAge = readCookie("userAge");
-var userGender = readCookie("gender");
-  var LOTCC = LOTCC || { asyncBehaviors: {}, async: true };
-  
-  LOTCC.asyncBehaviors["age"] = [userAge]; 
-  LOTCC.asyncBehaviors["gen"] = [userGender]; 
- 
-(function(){
-     var lot = document.createElement('script');
-	 lot.src = 'http://tags.crwdcntrl.net/c/402/cc.js';
-	 lot.setAttribute('async', 'true');
-	 document.documentElement.firstChild.appendChild(lot);
-  })();
-
-  </script>
 
 
 
@@ -5312,4 +5516,4 @@ var userGender = readCookie("gender");
 	
 
 
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+</body></html>
