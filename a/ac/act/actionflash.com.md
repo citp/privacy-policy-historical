@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the actionflash.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212155903id_/http%3A//actionflash.com/help.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionflash.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518155819id_/http%3A//www.actionflash.com/help.php) for the most accurate reproduction.*
 
-# HELP PAGE
+# ActionFlash help page
 
 Internet user privacy and confidentiality is of the utmost importance to ACTIONFLASH.COM!  
 We don't collect, store or sell any personal information about our site users.  
 Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information. Our "High Score" tables contain only names or aliases visitors wish to enter in order to identify themselves on the tables. This data is not and cannot be used for any other purpose.
 
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20101212155903id_/http%3A//actionflash.com/%3Cfont%20size=%222%22%20face=%22Arial%22%20color=%22#CCCCCC%22%3Ehttp://www.networkadvertising.org/managing/opt_out.asp%3C/font%3E)
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [http://www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20110518155819id_/http%3A//www.actionflash.com/%3Cfont%20size=%222%22%20face=%22Arial%22%20color=%22#CCCCCC%22%3Ehttp://www.networkadvertising.org/managing/opt_out.asp%3C/font%3E)
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
 
@@ -14,18 +14,17 @@ We partner with ValueClick to serve ads and/or collect certain information when 
 
 This site is a collection of free games for you to play, and we are in no way want to infringe on any authors rights. So please [contact us](mailto:actionflash1@yahoo.com) if you wish to add or remove the game you made. 
 
-Actionflash.com has adopted an official ESRB (Entertainment Software Rating Board) Rating system for its online free games.  
-  
-  
+Actionflash.com has adopted an official ESRB (Entertainment Software Rating Board) Rating system for its online free games.
+
 EVERYONE Titles rated E (Everyone) have content that may be suitable for ages 6 and older.   
-Titles in this category may contain minimal cartoon, fantasy or mild violence and/or infrequent use of mild language.   
-  
+Titles in this category may contain minimal cartoon, fantasy or mild violence and/or infrequent use of mild language. 
+
 TEEN Titles rated T (Teen) have content that may be suitable for ages 13 and older.   
-Titles in this category may contain violence, suggestive themes, crude humor, minimal blood and/or infrequent use of strong language.   
-  
+Titles in this category may contain violence, suggestive themes, crude humor, minimal blood and/or infrequent use of strong language. 
+
 MATURE Titles rated M (Mature) have content that may be suitable for persons ages 17 and older.  
-Titles in this category may contain intense violence, blood and gore, sexual content, and/or strong language.  
-  
+Titles in this category may contain intense violence, blood and gore, sexual content, and/or strong language.
+
 ADULTS ONLY Titles rated AO (Adults Only) have content that should only be played by persons 18 years and older.   
 Titles in this category may include prolonged scenes of intense violence and/or graphic sexual content and nudity.
 
@@ -46,5 +45,3 @@ Please be aware that we provide these links for reference only. The information 
 Thanks for using ACTIONFLASH.COM!
 
 If you have any questions, please write to[ actionflash1@yahoo.com](mailto:actionflash1@yahoo.com) 
-
-free addicting flash online games, downloads, poker, casino, card, arcade, action, rpg, shooting, fighting, board, puzzle, sports, driving, sim, sonic, mario, fun and free ware games.
