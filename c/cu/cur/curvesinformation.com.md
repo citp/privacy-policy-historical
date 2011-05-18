@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curvesinformation.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214143540id_/http%3A//curvesinformation.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curvesinformation.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519002346id_/http%3A//www.curvesinformation.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Curves Information
 
