@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robertmstanley.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222062707id_/http%3A//robertmstanley.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robertmstanley.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518082009id_/http%3A//robertmstanley.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
