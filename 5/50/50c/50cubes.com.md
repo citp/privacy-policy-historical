@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50cubes.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228211854id_/http%3A//mw.50cubes.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50cubes.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518174407id_/http%3A//mw.50cubes.com/legal/privacy.php) for the most accurate reproduction.*
 
 # None
 
