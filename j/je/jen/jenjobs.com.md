@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123101534id_/http%3A//www.jenjobs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenjobs.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518181131id_/http%3A//www.jenjobs.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement : JenJOBS
 
