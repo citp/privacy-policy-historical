@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tfc.tv privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429021410id_/http%3A//abs-cbnglobal.com/Home/tabid/587/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfc.tv privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518113326id_/http%3A//www.abs-cbnglobal.com/Home/tabid/587/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Welcome to ABS-CBN Global
+# ABS-CBN Global
 
 ABS-CBN Global is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the ABS-CBN Global Web site and governs data collection and usage. By using the ABS-CBN Global website, you consent to the data practices described in this statement.
 
