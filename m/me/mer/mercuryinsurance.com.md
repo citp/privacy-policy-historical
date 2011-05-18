@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012010111id_/http%3A//www.mercuryinsurance.com/about/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518174417id_/http%3A//www.mercuryinsurance.com/about/privacy-statement.html) for the most accurate reproduction.*
 
 # 
 
@@ -12,9 +12,9 @@ For example, we may share any or all of your information with our affiliated com
 
 When we make this type of disclosure it is done to service your Mercury account or policy, or to inform you about Mercury products and services. Before disclosing your information, we require these companies to agree to keep it confidential and use it only for the transaction we request.
 
-### Independent Mercury Agents and Brokers
+### Independent Mercury Agents
 
-The independent insurance agents and brokers authorized to sell Mercury products and services are not Mercury employees and are subject to Mercury's Privacy Policy only insofar as they sell or service our products. Because they have a unique business relationship with you, they may have additional personal information about you that Mercury does not. They may use this information differently than Mercury. Contact your Mercury Agent/Broker or advisor to learn more about their privacy practices.
+The independent insurance agents authorized to sell Mercury products and services are not Mercury employees, but they are subject to Mercury's Privacy Policy, to the extent that they sell or service our products, unless they have provided you with a copy of their own privacy policy. Because they have a unique business relationship with you, they may have additional personal information about you that Mercury does not. They may use this information differently than Mercury. Contact your Mercury Agent or advisor to learn more about their privacy practices.
 
 ## Information About Mercury's Websites
 
@@ -44,7 +44,7 @@ We may collect personal information about you from:
 
 Mercury does not sell information about you to others. If you only browse our website and do not supply any information, you will not receive unsolicited E-mail, telephone calls, or other marketing materials from Mercury as a result of your visit.
 
-When you make changes to your account or request more information about our products we may forward information you supply to us to your Mercury Independent Insurance Agent/Broker. We do this so they can service your account or contact you with additional information about our products.
+When you make changes to your account or request more information about our products we may forward information you supply to us to your Mercury Independent Insurance Agent. We do this so they can service your account or contact you with additional information about our products.
 
 #### Cookies
 
@@ -70,7 +70,7 @@ Mercury obtains medical information only in connection with specific products or
 
 #### Reviewing Your Information
 
-If you submitted information to Mercury online and would like to review that information, please request a copy of the information about you that we have in our files to review it for completeness and accuracy. Your request must be in writing. Please contact your Agent/Broker to submit your request.
+If you submitted information to Mercury online and would like to review that information, please request a copy of the information about you that we have in our files to review it for completeness and accuracy. Your request must be in writing. Please contact your Agent to submit your request.
 
 ## Changes to this Statement
 
@@ -87,7 +87,8 @@ Mercury Casualty Company
 Mercury Insurance Company  
 Mercury Casualty Company  
 American Mercury Insurance Company  
-California Automobile Insurance Company
+California Automobile Insurance Company  
+Auto Insurance Specialists, LLC
 
 ##### Florida
 
@@ -98,7 +99,7 @@ American Mercury Insurance Company
 ##### Georgia
 
 Mercury Insurance Company of Georgia  
-Mercury Indemnity of Georgia  
+Mercury Indemnity Company of Georgia  
 American Mercury Insurance Company
 
 ##### Illinois
@@ -116,7 +117,7 @@ Mercury Casualty Company
 
 ##### New Jersey
 
-Mercury Indemnity of America
+Mercury Indemnity Company of America
 
 ##### New York
 
@@ -132,10 +133,8 @@ Mercury Insurance Company of Florida
 
 ##### Texas
 
-Mercury County Mutual Insurance Company
-
-American Mercury Insurance Company
-
+Mercury County Mutual Insurance Company  
+American Mercury Insurance Company  
 American Mercury Lloyds Insurance Company
 
 ##### Virginia
@@ -144,4 +143,6 @@ Mercury Casualty Company
 
 ##### Mercury Select Management Company, Inc.
 
-All states with the exception of Connecticut and Maine
+All states with the exception of Connecticut and Maine.
+
+##### PoliSeek AIS Insurance Solutions, Inc.
