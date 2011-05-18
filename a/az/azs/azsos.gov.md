@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azsos.gov privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228192103id_/https%3A//www.azsos.gov/legal/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azsos.gov privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518220055id_/http%3A//www.azsos.gov/legal/policy.htm) for the most accurate reproduction.*
 
 # Notice of Privacy Statement
 
