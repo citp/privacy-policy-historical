@@ -1,114 +1,32 @@
-<!--The following is the downloaded HTML source of the micwell.com privacy policy that was archived on 2010-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101104171507id_/http%3A//micwell.com/publish/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the micwell.com privacy policy that was archived on 2011-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110518020623id_/http%3A//micwell.com/publish/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="google-site-verification" content="8pwxfcKr_HiWXmSrcKZgZhtSoSSOWDhwE7W3vz6JsHw">
-
 <title>Privacy Policy - MicWell.com</title>
-
 <meta name="keywords" content="">
 <meta name="description" content="">
-
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-
-<link href="/min/f=style/reset.css,style/global.css,style/page.css,style/space.css,style/chat.css&amp;247" rel="stylesheet" type="text/css" media="screen">
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/min/f=script/jquery-1.3.2.js,script/common.js,script/jcarousellite_1.0.1.js&amp;247"></script>
-
-<script>
-
-try{document.domain = window.location.hostname.split('.').reverse().slice(0,2).reverse().join('.');}catch(e){}
-
-var staticChatLastLogId = 0;
-var staticChatTalkId = 0;
-var staticChatEmail = '';
-var staticChatSite = 'http://chat.micwell.com/';
-var staticChatAjaxProxy = null;
-var staticChatAjaxProxyUrl = 'http://chat.micwell.com/ajax-proxy.html';
-
-$(document).ready(function(){
-	if (!$.browser.msie){
-		$('form,select,input').attr('autocomplete', 'off');
-	}
-
-	$('.search .search-select, .search .search-select input').click(function(){
-		setTimeout(function(){
-			$('.search .search-category').show();
-		}, 100);
-	});
-
-	$(document).click(function(){
-		$('.search .search-category').hide();
-	});
-
-	$('.search .search-category a').click(function(){
-		setTimeout(function(){
-			$('.search .search-category').hide();
-		}, 200);
-
-		$('#search-cid').val($(this).attr('rel'));
-		$('.search .search-select input').val($(this).html());
-	});
-
-	$('#header-menu li[rel=menu]').mouseover(function(){
-		$(this).addClass('active').find('.sub-category').show();
-		$('.search .search-category').hide();
-		
-		if ($.browser.msie && $.browser.version!='8.0'){
-			$('#header-menu').css('z-index', 80);
-		}
-	}).mouseout(function(){
-		$(this).removeClass('active').find('.sub-category').hide();
-		if ($.browser.msie && $.browser.version!='8.0'){
-			$('#header-menu').css('z-index', '');
-		}
-	});
-
-	$('.index-tab-frame .left li').click(function(){
-		$(this).parents('ul').find('li').removeClass('active');
-		$(this).addClass('active');
-	});
-
-
-	$('.currency-box').mouseover(function(){
-		$(this).find('div').show();
-	});
-
-	$('.currency-box').mouseout(function(){
-		$(this).find('div').hide();
-	});
-});
-
-
-
-</script>
-
-
-</head>
-
+<link href="/min/f=style/reset.css,style/global.css,style/page.css,style/space.css,style/form.css&amp;513" rel="stylesheet" type="text/css" media="screen">
+<!--[if IE 6]>
+<link href="/style/ie6.css?513" rel="stylesheet" type="text/css" media="screen" />
+<![endif]-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/min/f=script/jquery-1.3.2.js,script/common.js,script/jcarousellite_1.0.1.js&amp;513"></script>
+<script type="text/javascript" src="/min/f=script/page/global.js&amp;513"></script>
+<script type="text/javascript" async="" src="https://upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js">thefind.upfront.init('tf_upfront_badge', '96ef8e53caa658dde5d2d2effb0b9829')</script></head>
 
 <body>
-
 <div id="header">
 	<div id="header-nav">
 		<a href="/" class="logo"></a>
+		<div class="slogan"></div>
 		<div class="search">
 			<form method="post" action="/product/search.do">
 			<div class="search-bg">
 				<div class="search-input">
 					<input type="text" value="" name="word">
 				</div>
-				<div class="search-select">
-					<input type="text" name="select" readonly="" value="All Categoires">
-				</div>
-								<div class="search-category">
-					<a href="javascript:void(0);" rel="0">All Categoires</a>
-										<a href="javascript:void(0);" rel="102"></a>
-										<a href="javascript:void(0);" rel="92"></a>
-										<a href="javascript:void(0);" rel="82"></a>
-										<a href="javascript:void(0);" rel="86"></a>
-									</div>
 			</div>
 			<div class="search-btn">
 				<input type="submit" value="">
@@ -117,101 +35,132 @@ $(document).ready(function(){
 			</form>
 		</div>
 		<div class="menu">
-			<div class="clearfix cart-link">
-				<p><i></i><a href="/cart.do">Shopping Cart</a> ( <span>0</span> )</p>
-			</div>
-			<div>
-								<a href="/login.do" class="underline">Login</a> <span>|</span>
-				<a href="/register.do" class="underline">Register</a> <span>|</span>
+			<div class="link-box">
+								<a href="/login.do" class="underline" rel="nofollow">Login</a> <span>|</span>
+				<a href="/register.do" class="underline" rel="nofollow">Register</a> <span>|</span>
 								<a href="/publish/help_center/index.html" class="underline">Help Center</a>
+			</div>
+			<div class="clearfix cart-link">
+				<p><i></i><a href="/cart.do" rel="nofollow">Shopping Cart</a></p>
 			</div>
 		</div>
 	</div>
 </div>
 <div id="header-menu">
+	<div class="fix"></div>
 	<ul>
-								<li rel="menu">
-			<b></b><h4><a href="/product/wholesale-Wedding-Apparel-cat_c102.html">Wedding Apparel</a></h4><i></i>
+		<li class="home"><h4><a href="/"></a></h4></li>
+		<li class="split"></li>
+						<li rel="menu">
+			<b></b><h4><a href="javascript:void(0);">Features</a></h4><i></i>
 			<div class="sub-category">
-				<p></p>
-				<div>
-										<span><a href="/product/wholesale-Discount-Wedding-Dresses-cat_c246.html">Discount Wedding Dresses</a></span>
-										<span><a href="/product/wholesale-2011-Style-Wedding-Dresses-cat_c241.html">2011 Style Wedding Dresses</a></span>
-										<span><a href="/product/wholesale-Wedding-Dresses-cat_c108.html">Wedding Dresses</a></span>
-										<span><a href="/product/wholesale-Plus-Size-Wedding-Dresses-cat_c240.html">Plus Size Wedding Dresses</a></span>
-										<span><a href="/product/wholesale-Beach-Wedding-Dresses-cat_c238.html">Beach Wedding Dresses</a></span>
-										<span><a href="/product/wholesale-Bridesmaid-Dresses-cat_c107.html">Bridesmaid Dresses</a></span>
-										<span><a href="/product/wholesale-Mother-of-the-Bride-Dresses-cat_c106.html">Mother of the Bride Dresses</a></span>
-										<span><a href="/product/wholesale-Junior-Bridesmaid-Dresses-cat_c105.html">Junior Bridesmaid Dresses</a></span>
-										<span><a href="/product/wholesale-Flower-Girl-Dresses-cat_c104.html">Flower Girl Dresses</a></span>
-										<span><a href="/product/wholesale-Wedding-Accessories-cat_c103.html">Wedding Accessories</a></span>
-										<span class="end"><a href="/product/wholesale-Wedding-Apparel-list_c102.html">See all</a></span>
+				<div class="shadow"><div class="s1"></div><div class="s2"></div></div>
+				<div class="ground">
+					<div class="cols1 clearfix" style="width:220px;">
+												<div><a href="/new-arrivals_new/list">New Arrivals</a></div>
+												<div><a href="/discount-wedding-dresses_l246">Discount Wedding dresses</a></div>
+												<div><a href="/2011-style-wedding-dresses_l241">2011 New Style Wedding Dresses</a></div>
+												<div><a href="/2011-style-occasion-dresses_l249">2011 New Style Occasion Dresses</a></div>
+												<div><a href="/special-offers_sps/wedding-party-dresses_l251">Under $99 Wedding Party Dresses</a></div>
+												<div><a href="/special-offers_sps/occasion-dresses_l92">Under $99 Occasion Dresses</a></div>
+											</div>
 				</div>
-				<p class="btm"></p>
 			</div>
 		</li>
-				<li><h4><a href="/product/wholesale-Discount-Wedding-Dresses-cat_c246.html">Discount Wedding Dresses</a></h4></li>
+				<li class="split"></li>
 										<li rel="menu">
-			<b></b><h4><a href="/product/wholesale-Occasion-Dresses-cat_c92.html">Occasion Dresses</a></h4><i></i>
+			<b></b><h4><a href="/wedding-dresses_l108">Wedding Dresses</a></h4><i></i>
 			<div class="sub-category">
-				<p></p>
-				<div>
-										<span><a href="/product/wholesale-2010-New-Style-Dresses-cat_c98.html">2010 New Style Dresses</a></span>
-										<span><a href="/product/wholesale-Prom-Dresses-cat_c97.html">Prom Dresses</a></span>
-										<span><a href="/product/wholesale-Evening-Dresses-cat_c96.html">Evening Dresses</a></span>
-										<span><a href="/product/wholesale-Cocktail-Dresses-cat_c95.html">Cocktail Dresses</a></span>
-										<span><a href="/product/wholesale-Homecoming-Dresses-cat_c94.html">Homecoming Dresses</a></span>
-										<span class="end"><a href="/product/wholesale-Occasion-Dresses-list_c92.html">See all</a></span>
-				</div>
-				<p class="btm"></p>
+				<div class="shadow"><div class="s1"></div><div class="s2"></div></div>
+				<div class="ground">
+										<dl class="cols2 clearfix">
+						<div class="cols2-1">
+							<h5>SHOP BY CATEGORY</h5>
+														<div><a href="/2011-style-wedding-dresses_l241">2011 Style Wedding Dresses</a></div>
+														<div><a href="/discount-wedding-dresses_l246">Discount Wedding Dresses</a></div>
+														<div><a href="/beach-wedding-dresses_l238">Beach Wedding Dresses</a></div>
+														<div><a href="/plus-size-wedding-dresses_l240">Plus Size Wedding Dresses</a></div>
+													</div>
+						<div class="cols2-2">
+							<h5>SHOP BY STYLE</h5>
+														<div><a href="/a_line_i18v231/wedding-dresses_l108">A-line</a></div>
+							<div><a href="/empire_i18v233/wedding-dresses_l108">Empire</a></div>
+							<div><a href="/trumpet_mermaid_i18v236/wedding-dresses_l108">Trumpet / Mermaid</a></div>
+							<div><a href="/sheath_column_i18v235/wedding-dresses_l108">Sheath / Column</a></div>
+							<div><a href="/ball_gown_i18v232/wedding-dresses_l108">Ball Gown</a></div>
+													</div>
+					</dl>
+									</div>
 			</div>
 		</li>
-										<li rel="menu">
-			<b></b><h4><a href="/product/wholesale-Sports-Outdoor-cat_c82.html">Sports Outdoor</a></h4><i></i>
+				<li class="split"></li>
+						<li rel="menu">
+			<b></b><h4><a href="/wedding-party-dresses_l251">Wedding Party Dresses</a></h4><i></i>
 			<div class="sub-category">
-				<p></p>
-				<div>
-										<span><a href="/product/wholesale-NFL-Jerseys-cat_c83.html">NFL Jerseys</a></span>
-										<span><a href="/product/wholesale-NBA-Jerseys-cat_c185.html">NBA Jerseys</a></span>
-										<span><a href="/product/wholesale-Soccer-Jerseys-cat_c85.html">Soccer Jerseys</a></span>
-										<span class="end"><a href="/product/wholesale-Sports-Outdoor-list_c82.html">See all</a></span>
-				</div>
-				<p class="btm"></p>
+				<div class="shadow"><div class="s1"></div><div class="s2"></div></div>
+				<div class="ground">
+										<div class="cols1 clearfix">
+												<div><a href="/bridesmaid-dresses_l107">Bridesmaid Dresses</a></div>
+												<div><a href="/mother-of-the-bride-dresses_l106">Mother of the Bride Dresses</a></div>
+												<div><a href="/junior-bridesmaid-dresses_l105">Junior Bridesmaid Dresses</a></div>
+												<div><a href="/flower-girl-dresses_l104">Flower Girl Dresses</a></div>
+											</div>
+									</div>
 			</div>
 		</li>
-										<li rel="menu">
-			<b></b><h4><a href="/product/wholesale-Home-Garden-cat_c86.html">Home&amp;Garden</a></h4><i></i>
+				<li class="split"></li>
+						<li rel="menu">
+			<b></b><h4><a href="/occasion-dresses_c92">Occasion Dresses</a></h4><i></i>
 			<div class="sub-category">
-				<p></p>
-				<div>
-										<span><a href="/product/wholesale-Faucets-cat_c87.html">Faucets</a></span>
-										<span><a href="/product/wholesale-Paintings-cat_c88.html">Paintings</a></span>
-										<span class="end"><a href="/product/wholesale-Home-Garden-list_c86.html">See all</a></span>
-				</div>
-				<p class="btm"></p>
+				<div class="shadow"><div class="s1"></div><div class="s2"></div></div>
+				<div class="ground">
+										<dl class="cols2 clearfix">
+						<div class="cols2-1">
+							<h5>SHOP BY CATEGORY</h5>
+														<div><a href="/2011-style-occasion-dresses_l249">2011 Style Occasion Dresses</a></div>
+														<div><a href="/prom-dresses_l97">Prom Dresses</a></div>
+														<div><a href="/evening-dresses_l96">Evening Dresses</a></div>
+														<div><a href="/cocktail-dresses_l95">Cocktail Dresses</a></div>
+														<div><a href="/homecoming-dresses_l94">Homecoming Dresses</a></div>
+													</div>
+						<div class="cols2-2">
+							<h5>SHOP BY STYLE</h5>
+														<div><a href="/a_line_i18v231/occasion-dresses_l92">A-line</a></div>
+							<div><a href="/sheath_column_i18v235/occasion-dresses_l92">Sheath / Column</a></div>
+							<div><a href="/trumpet_mermaid_i18v236/occasion-dresses_l92">Trumpet / Mermaid</a></div>
+							<div><a href="/empire_i18v233/occasion-dresses_l92">Empire</a></div>
+							<div><a href="/ball_gown_i18v232/occasion-dresses_l92">Ball Gown</a></div>
+													</div>
+					</dl>
+									</div>
 			</div>
 		</li>
-								<li rel="menu">
-			<b></b><h4><a href="/product/list.do?special_offers=1">Special Offers</a></h4><i></i>
+				<li class="split"></li>
+		
+						<li rel="menu">
+			<b></b><h4><a href="javascript:void(0);">See All</a></h4><i></i>
 			<div class="sub-category">
-				<p></p>
-				<div>
-										<span><a href="/product/wholesale-Wedding-Apparel-list_c102.html?special_offers=1">Wedding Apparel</a></span>
-										<span><a href="/product/wholesale-Occasion-Dresses-list_c92.html?special_offers=1">Occasion Dresses</a></span>
-										<span><a href="/product/wholesale-Sports-Outdoor-list_c82.html?special_offers=1">Sports Outdoor</a></span>
-										<span><a href="/product/wholesale-Home-Garden-list_c86.html?special_offers=1">Home&amp;Garden</a></span>
-										<span class="end"><a href="/product/list.do?special_offers=1">See all</a></span>
+				<div class="shadow"><div class="s1"></div><div class="s2"></div></div>
+				<div class="ground">
+					<div class="cols1 clearfix">
+												<div><a href="/wedding-dresses_l108">Wedding Dresses</a></div>
+												<div><a href="/wedding-party-dresses_l251">Wedding Party Dresses</a></div>
+												<div><a href="/occasion-dresses_c92">Occasion Dresses</a></div>
+												<div><a href="/groom-wear_l247">Groom Wear</a></div>
+												<div><a href="/wedding-accessories_l103">Wedding Accessories</a></div>
+											</div>
 				</div>
-				<p class="btm"></p>
 			</div>
 		</li>
-		<li><h4><a href="/product/list.do?new=1">What's New</a></h4></li>
+		
+		<li class="currency">
+			<div class="item">
+				<span></span><p>Currencies:<img src="/images/currency/USD.gif" align="absmiddle"><strong>US $</strong></p>
+			</div>
+			<div class="list"></div>
+		</li>
 	</ul>
 </div>
-
-<!-- <div class="page-top">
-	<a href="/register.do"><img src="/images/static/slimerbananer-coupon.gif" /></a>
-</div> -->
 
 
 
@@ -322,166 +271,106 @@ If we change or update this Privacy Notice, we will post changes and updates on 
 	</div></div></div></div></div></div></div>
 </div>
 
-
 <div class="page">
-		<div class="text-cols-box">
-		<div class="min low edge-left">
-			<h3>1 Cent Cheaper than Others</h3>
-			<h4>
-				If prices on Buy.com / Amazon.com / Davidsbridal.com are lower than ours, we will refund the price difference.
-			</h4>
+	<div class="footer-module clearfix">
+		<div class="left">
+			<h4>Newsletter</h4>
+			<div class="summary">
+				Subscribe to our newsletter now to receive updates <br>on sales , discount offers , and get a <br>US$10 Coupons !
+			</div>
+			<div class="input-box">
+				<input type="text" id="email-sub"><button type="button" id="email-sub-btn">&nbsp;</button>
+			</div>
+			<div class="icon"></div>
 		</div>
+		<div class="right">
+			<h4>Why micwell.com</h4>
+			<div class="summary">
+				As one of the best direct suppliers in China, we only provide the best consumer goods and ensure the highest quality possible!<br>
+				We have investment in more than 70 manufacturers in China to cut out the middleman which allows us to provide good prices as well as great quality. 
+				<br><br>
 
-		<div class="min low">
-			<h3>7 Days Refund</h3>
-			<h4>
-				You can send back package with no reason in 7 days for any quality problem!
-			</h4>
-		</div>
-
-		<div class="min low">
-			<h3>100% Direct Supplier</h3>
-			<h4>
-				We invested in 70 factories in China to cut out the middle man and supply great price and high quality.
-			</h4>
-		</div>
-
-		<div class="min low edge-right">
-			<h3>100% Payment Security</h3>
-			<h4>
-				Your shopping will be always safe and reliable due to our advanced Secure Networks Technology!
-			</h4>
+				<a href="http://www.micwell.com/publish/about/about.html">Find out more...</a>
+			</div>
 		</div>
 	</div>
-	</div>
-
-<script language="JavaScript">
-$(document).ready(function(){
-	$(".text-cols-box .max .left").jCarouselLite({
-		auto: false,
-		circular:false,
-		visible:1,
-		btnNext: ".text-cols-box .max .right .next",
-		btnPrev: ".text-cols-box .max .right .prev",
-		btnPrevDisableClass:'prev-disable',
-		btnNextDisableClass:'next-disable'
-	});
-});
-</script>
-
-
+</div>
 <div id="footer">
 	<div id="footer-inner">
 		<div class="footer-info-box clearfix">
 			<div class="main">
 				<div>
 					<label>Explore</label>
-					<a href="/product/all.do">All Categories</a> <span>|</span> <a href="/product/list.do?new=1">New Products</a> <span>|</span> <a href="/product/list.do?fs=1">Free Shipping</a> <span>|</span> <a href="/product/list.do?best=1">Best Deals</a> <span>|</span> <a href="/product/list.do?hot=1">Hot Products</a>
+					<a href="/product/all.html">Site Map</a> <span>|</span> <a href="/new-arrivals_new/list">New Products</a> <span>|</span> <a href="/free-shipping_fs/list">Free Shipping</a> <span>|</span> <a href="/best-deals_best/list">Best Deals</a> <span>|</span> <a href="/hot-product_hot/list">Hot Products</a>
 				</div>
 				<div>
 					<label>Your</label>
-					<a href="/cart.do">Shopping Cart</a> <span>|</span> <a href="/my/order/list.do">Order Status</a>  <span>|</span> <a href="/my/account.do">Your Account</a>
+					<a href="/cart.do" rel="nofollow">Shopping Cart</a> <span>|</span> <a href="/my/order/list.do" rel="nofollow">Order Status</a>  <span>|</span> <a href="/my/account.do" rel="nofollow">Your Account</a>
 				</div>
 				<div>
 					<label>Help</label>
-					<a href="/publish/about/about.html">About MicWell</a>  <span>|</span> <a href="/publish/detail/33.html">Return Policy</a> <span>|</span> <a href="/publish/about/privacy.html">Policies and Terms</a> <span>|</span> <a href="/publish/how_to_pay/">How To Pay</a> <span>|</span> <a href="/publish/shipping_delivery/">Shipping and Delivery</a> <span>|</span> <a href="/publish/help_center/">Help Center</a>
+					<a href="/publish/about/about.html">About MicWell</a>  <span>|</span> <a href="/publish/detail/33.html">Shipping &amp; Returns</a> <span>|</span> <a href="/publish/about/privacy.html">Policies and Terms</a> <span>|</span> <a href="/publish/how_to_pay/">How To Pay</a> <span>|</span> <a href="/publish/help_center/">Help Center</a>
 				</div>
 			</div>
 			<div class="side">
 				<div class="currency-box">
-					<span>Currencies:HK$</span>
-					<div>
-												<a href="/other/currency.do?code=EUR"><img src="/images/currency/EUR.gif" align="absmiddle"> Euro</a>
-												<a href="/other/currency.do?code=GBP"><img src="/images/currency/GBP.gif" align="absmiddle"> GB Pound</a>
-												<a href="/other/currency.do?code=AUD"><img src="/images/currency/AUD.gif" align="absmiddle"> Australian Dollar</a>
-												<a href="/other/currency.do?code=CAD"><img src="/images/currency/CAD.gif" align="absmiddle"> Canadian Dollar</a>
-												<a href="/other/currency.do?code=HKD"><img src="/images/currency/HKD.gif" align="absmiddle"> Hong Kong Dollars</a>
-												<a href="/other/currency.do?code=USD"><img src="/images/currency/USD.gif" align="absmiddle"> US Dollar</a>
-											</div>
+					<span>Currencies:US $</span>
+					<div></div>
 				</div>
 			</div>
 		</div>
-
 		<div class="footer-contact clearfix">
 			<div class="left">
 				<p><a href="/publish/about/about.html">About MicWell</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/publish/about/privacy.html">Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/publish/about/term.html">Term of use</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="http://blog.micwell.com">Blog</a> <br> Email:customer@micwell.com &nbsp;&nbsp;|&nbsp;&nbsp; MSN:customer@micwell.com</p>
-				<p><b>2008-2010 MicWell Inc. All Rights Reserved</b></p>
+				<p><b>2008-2011 MicWell Inc. All Rights Reserved</b></p>
 			</div>
-			<div class="right">
-				<img src="/images/service/list.png" usemap="#linkmap">
-				<map name="linkmap">
-					<area shape="rect" coords="0,0,70,70" href="###" onclick="javascript:window.open('https://www.paypal.com/verified/pal=paypal@micwell.com','what_is_paypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');">
-				</map>
+			<div class="right clearfix">
+				<div style="float:right;">
+					<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=www.micwell.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en"></script>
+				</div>
+				<div style="float:right;">
+					<img src="/images/service/list_2.png" usemap="#linkmap">
+					<map name="linkmap">
+						<area shape="rect" coords="0,0,70,70" href="###" onclick="javascript:window.open('https://www.paypal.com/verified/pal=paypal@micwell.com','what_is_paypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');">
+					</map>
+				</div>
+				<div style="float:right;">
+					<a class="tf_upfront_badge" href="http://www.thefind.com/store/about-micwell" title="TheFind Upfront" style="display:block;margin:19px 12px 0 0;"><img border="0" src="//upfront.thefind.com/images/badges/r/96/ef/96ef8e53caa658dde5d2d2effb0b9829.png" alt="micwelldresses is upfront"></a>
+					  <script type="text/javascript">
+					    (function() {
+					      var upfront = document.createElement('SCRIPT'); upfront.type = "text/javascript"; upfront.async = true;
+					      upfront.src = document.location.protocol + "//upfront.thefind.com/scripts/main/utils-init-ajaxlib/upfront-badgeinit.js";
+					      upfront.text = "thefind.upfront.init('tf_upfront_badge', '96ef8e53caa658dde5d2d2effb0b9829')";
+					      document.getElementsByTagName('HEAD')[0].appendChild(upfront);
+					    })();
+					  </script>
+				</div>
 			</div>
 		</div>
 	</div>
 </div>
-
-<!-- <div id="chat-bar">
-	<div id="chat-pannel">
-		<div class="chat-control">
-			Live Chat
+<div style="display:none;" id="tpl_ask_question_ok">
+	<div class="ask-question-ok">
+		<div class="icon">
+			<div></div>
 		</div>
-		<div class="chat-room">
-			<div class="chat-title" id="chat_title">
-				<span class="title">Live Chat</span>
-				<span class="btn"><span></span></span>
-				<span class="status"></span>
-			</div>
-			<div class="chat-ask" style="display:none;" chat-type="chat-frame">
-				<div>
-					Currently offline. Please leave your question, and we will reply you very soon.
-					<label>Question:</label>
-					<textarea id="chat_ask_content"></textarea>
-				</div>
-				<div>
-					<input type="button" value="Submit Question" id="chat_ask_btn"/>
-				</div>
-			</div>
-			<div class="chat-step1" style="display:none;" chat-type="chat-frame">
-				<div>
-					<label>Your Name:</label><input type="text" id="chat_name" />
-				</div>
-				<div>
-					<label>Your Email:</label><input type="text" id="chat_email" />
-				</div>
-				<div>
-					<label>&nbsp;</label><input type="button" class="btn" value="Start Chat" id="chat_start_btn"/>
-				</div>
-			</div>
-			<div class="chat-loading" chat-type="chat-frame">
-				Please Waiting...
-			</div>
-			<div class="chat-body" style="display:none;" chat-type="chat-frame">
-				<div class="chat-msg" id="chat_msg"></div>
-
-				<div class="chat-input">
-					<div class="clearfix">
-						<textarea id="chat-content" onkeydown="if(event.keyCode==13){ChatSend();return false;};"></textarea>
-						<div onclick="ChatSend();" class="chat-input-send">Send</div>
-					</div>
-					<div class="chat-input-face" id="chat-face"><img src="http://chat.ka2.com/image/face/1.gif"></div>
-				</div>
-			</div>
-		</div>
+		<h3>Thank you for subscribing to the Micwell.com Newsletter!</h3>
+		<h4>And you have got $10 subscribe coupons.  Email: {0}</h4>
+		<h5>
+			<input type="button" class="close-window" value="">
+		</h5>
 	</div>
-</div> -->
-
+</div>
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-17161286-1']);
   _gaq.push(['_setDomainName', '.micwell.com']);
   _gaq.push(['_trackPageview']);
-
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
-
-
 
 </body></html>
