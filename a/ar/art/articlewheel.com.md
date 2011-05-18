@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlewheel.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211204018id_/http%3A//www.articlewheel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlewheel.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518162437id_/http%3A//www.articlewheel.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - ArticleWheel.com - Submit your articles now!
 
