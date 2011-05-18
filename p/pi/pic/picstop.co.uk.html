@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the picstop.co.uk privacy policy that was archived on 2010-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204080536id_/http%3A//www.picstop.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the picstop.co.uk privacy policy that was archived on 2011-05-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110518175720id_/http%3A//www.picstop.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title> Privacy Policy - Picstop</title>
@@ -16,7 +16,7 @@
     var BLANK_IMG = 'http://www.picstop.co.uk/js/spacer.gif';
 //]]>
 </script>
-<!--<script type='text/javascript' src='http://getfirebug.com/releases/lite/1.2/firebug-lite-compressed.js'></script>-->
+
 <script type="text/javascript">
 <!--
 function featuredProducts(tab){
@@ -28,11 +28,12 @@ document.getElementById(tab).style.display = "block";
 }
 -->
 </script>
-<script type="text/javascript" src="http://www.picstop.co.uk/js/index.php?c=auto&amp;f=,prototype/prototype.js,prototype/validation.js,scriptaculous/builder.js,scriptaculous/effects.js,scriptaculous/dragdrop.js,scriptaculous/controls.js,scriptaculous/slider.js,varien/js.js,varien/form.js,varien/menu.js,mage/translate.js,mage/cookies.js,productupdates/productupdates.js"></script>
+<script type="text/javascript" src="http://www.picstop.co.uk/js/index.php?c=auto&amp;f=,prototype/prototype.js,prototype/validation.js,scriptaculous/builder.js,scriptaculous/effects.js,scriptaculous/dragdrop.js,scriptaculous/controls.js,scriptaculous/slider.js,varien/js.js,varien/form.js,varien/menu.js,mage/translate.js,mage/cookies.js,discount-side/jspopup-discount.js,productupdates/productupdates.js"></script>
 <link rel="stylesheet" type="text/css" href="http://www.picstop.co.uk/skin/frontend/default/picstop/css/reset.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.picstop.co.uk/skin/frontend/default/picstop/css/boxes.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.picstop.co.uk/skin/frontend/default/picstop/css/menu.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.picstop.co.uk/skin/frontend/default/picstop/css/clears.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.picstop.co.uk/skin/frontend/default/picstop/css/discount.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.picstop.co.uk/skin/frontend/default/picstop/css/print.css" media="print">
 <link rel="stylesheet" type="text/css" href="http://www.picstop.co.uk/skin/frontend/default/picstop/aw_blog/css/style.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://www.picstop.co.uk/skin/frontend/default/picstop/css/productupdates.css" media="all">
@@ -50,6 +51,8 @@ document.getElementById(tab).style.display = "block";
 <script type="text/javascript" language="javascript">
     jQuery.noConflict();
 </script>
+
+<meta http-equiv="X-UA-Compatible" content="IE=8">
 </head>
 <body class=" cms-page-view cms-privacy-policy"><div id="meebo" style="display: none;"><m><iframe frameborder="0" id="meebo-iframe"></iframe></m></div>
 
@@ -71,6 +74,47 @@ c.contentWindow[g];t.write(p());t.close()}catch(x){c[k]=o+'d.write("'+p().replac
 //Meebo("makeEverythingSharable");
 </script>
             
+    <div id="discount-tab-fixed">
+    	<a onclick="picstopDTF('discount-tab-overlay'); return false;" href="#" id="discount-tab-button"></a>
+    </div>
+    
+    <div id="discount-tab" style="display: none;">
+    	<img title="Close" onmouseout="this.style.cursor='default';" onmouseover="this.style.cursor='pointer';" onclick="picstopDTF('discount-tab-overlay');" style="float: right; margin-right: 1px; cursor: default;" src="http://www.picstop.co.uk/skin/frontend/default/picstop/images/discount-side/close.png" id="close">
+        
+        <div id="discount-tab-content">
+        
+        <h2>Discounts, New Products &amp; Voucher Codes</h2>
+        <p>Be first to find out about our latest offers and promotions.<br>Regular email updates, 1-click unsubscribe</p>
+        
+        <table width="100%" cellpadding="5" cellspacing="5">
+            <tbody><tr>
+                <td width="30%">First Name*</td>
+                <td><input type="text" value="Enter your name" onclick="Javascript:document.getElementById('newsletter-name-popup').value='';" class="required-entry input-text" id="newsletter-name-popup" name="name"></td>
+                <td rowspan="2" style="text-align:right;"><button onclick="subscribeFromPopup()" class="form-button-alt" type="button"><span>Send Me Discounts</span></button></td>
+            </tr> 
+            <tr>
+                <td>Email Address*</td>
+                <td><input type="text" value="Enter your email" onclick="Javascript:document.getElementById('newsletter-popup').value='';" class="required-entry validate-email input-text" id="newsletter-popup" name="email"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><a href="http://www.picstop.co.uk/privacy-policy/">Privacy Policy</a></td>
+            </tr>
+        </tbody></table>
+        
+         <p class="bookmark">Don't want email? Bookmark PicStop instead<br>
+            <a href="javascript:bookmarkPicstop()" title="Bookmark this site!">
+                <img src="http://www.picstop.co.uk/skin/frontend/default/picstop/images/discount-side/btn-bookmark-site.png" alt="Bookmark this site!">
+            </a>
+        </p>
+        
+
+        </div>
+	</div>
+    
+    <div id="discount-tab-overlay"></div>
+ 
+    
 <div class="wrapper">
         <!-- start header -->
         <div class="header">
@@ -177,7 +221,6 @@ function changeCurrency(sObject){
         </div>
     </fieldset>
 </form>
- 
         <p class="no-display"><a href="#main"><strong>Skip to Main Content »</strong></a></p>
          
     </div>
@@ -189,25 +232,21 @@ function changeCurrency(sObject){
         <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 nav-brand parent">
 Brands
 <ul class="level0 col1">
+<li class="level1 nav-Agfa-Photo"><a href="http://www.picstop.co.uk/Agfa-Photo"><span>Agfa-Photo</span></a>
+</li>
 <li class="level1 nav-Ansmann"><a href="http://www.picstop.co.uk/Ansmann"><span>Ansmann</span></a>
+</li>
+<li class="level1 nav-Black-Rapid"><a href="http://www.picstop.co.uk/Black-Rapid"><span>Black-Rapid</span></a>
 </li>
 <li class="level1 nav-Celestron"><a href="http://www.picstop.co.uk/Celestron"><span>Celestron</span></a>
 </li>
 <li class="level1 nav-Cokin"><a href="http://www.picstop.co.uk/Cokin"><span>Cokin</span></a>
-</li>
-<li class="level1 nav-Crumpler"><a href="http://www.picstop.co.uk/Crumpler"><span>Crumpler</span></a>
-</li>
-<li class="level1 nav-Datasafe"><a href="http://www.picstop.co.uk/Datasafe"><span>Datasafe</span></a>
-</li>
-<li class="level1 nav-Datawrite"><a href="http://www.picstop.co.uk/Datawrite"><span>Datawrite</span></a>
 </li>
 <li class="level1 nav-Energizer"><a href="http://www.picstop.co.uk/Energizer"><span>Energizer</span></a>
 </li>
 <li class="level1 nav-Fuji"><a href="http://www.picstop.co.uk/Fuji"><span>Fuji</span></a>
 </li>
 <li class="level1 nav-Generic"><a href="http://www.picstop.co.uk/Generic"><span>Generic</span></a>
-</li>
-<li class="level1 nav-Gossen"><a href="http://www.picstop.co.uk/Gossen"><span>Gossen</span></a>
 </li>
 <li class="level1 nav-Hahnel"><a href="http://www.picstop.co.uk/Hahnel"><span>Hahnel</span></a>
 </li>
@@ -216,8 +255,6 @@ Brands
 <li class="level1 nav-Hoya"><a href="http://www.picstop.co.uk/Hoya"><span>Hoya</span></a>
 </li>
 <li class="level1 nav-Inov8"><a href="http://www.picstop.co.uk/Inov8"><span>Inov8</span></a>
-</li>
-<li class="level1 nav-IronKey"><a href="http://www.picstop.co.uk/IronKey"><span>IronKey</span></a>
 </li>
 <li class="level1 nav-JetTec---Ink-Cartridge"><a href="http://www.picstop.co.uk/JetTec---Ink-Cartridge"><span>JetTec---Ink-Cartridge</span></a>
 </li>
@@ -229,13 +266,7 @@ Brands
 </li>
 <li class="level1 nav-Kodak"><a href="http://www.picstop.co.uk/Kodak"><span>Kodak</span></a>
 </li>
-<li class="level1 nav-KOSS"><a href="http://www.picstop.co.uk/KOSS"><span>KOSS</span></a>
-</li>
-</ul>
-<ul class="level0 col2">
 <li class="level1 nav-LaCie"><a href="http://www.picstop.co.uk/LaCie"><span>LaCie</span></a>
-</li>
-<li class="level1 nav-Lensbabies"><a href="http://www.picstop.co.uk/Lensbabies"><span>Lensbabies</span></a>
 </li>
 <li class="level1 nav-Lexar"><a href="http://www.picstop.co.uk/Lexar"><span>Lexar</span></a>
 </li>
@@ -243,6 +274,8 @@ Brands
 </li>
 <li class="level1 nav-National-Geographic"><a href="http://www.picstop.co.uk/National-Geographic"><span>National-Geographic</span></a>
 </li>
+</ul>
+<ul class="level0 col2">
 <li class="level1 nav-Olympus"><a href="http://www.picstop.co.uk/Olympus"><span>Olympus</span></a>
 </li>
 <li class="level1 nav-Panasonic"><a href="http://www.picstop.co.uk/Panasonic"><span>Panasonic</span></a>
@@ -257,6 +290,8 @@ Brands
 </li>
 <li class="level1 nav-Samsonite"><a href="http://www.picstop.co.uk/Samsonite"><span>Samsonite</span></a>
 </li>
+<li class="level1 nav-Samsung"><a href="http://www.picstop.co.uk/Samsung"><span>Samsung</span></a>
+</li>
 <li class="level1 nav-SanDisk"><a href="http://www.picstop.co.uk/SanDisk"><span>SanDisk</span></a>
 </li>
 <li class="level1 nav-Slik"><a href="http://www.picstop.co.uk/Slik"><span>Slik</span></a>
@@ -267,17 +302,15 @@ Brands
 </li>
 <li class="level1 nav-Tamrac"><a href="http://www.picstop.co.uk/Tamrac"><span>Tamrac</span></a>
 </li>
+<li class="level1 nav-Three-Legged-Thing"><a href="http://www.picstop.co.uk/Three-Legged-Thing"><span>Three-Legged-Thing</span></a>
+</li>
 <li class="level1 nav-Transcend"><a href="http://www.picstop.co.uk/Transcend"><span>Transcend</span></a>
 </li>
 <li class="level1 nav-Uniross"><a href="http://www.picstop.co.uk/Uniross"><span>Uniross</span></a>
 </li>
+<li class="level1 nav-Vanguard"><a href="http://www.picstop.co.uk/Vanguard"><span>Vanguard</span></a>
+</li>
 <li class="level1 nav-Velbon"><a href="http://www.picstop.co.uk/Velbon"><span>Velbon</span></a>
-</li>
-<li class="level1 nav-Vosonic"><a href="http://www.picstop.co.uk/Vosonic"><span>Vosonic</span></a>
-</li>
-</ul>
-<ul class="level0 col3">
-<li class="level1 nav-ZIGView"><a href="http://www.picstop.co.uk/ZIGView"><span>ZIGView</span></a>
 </li>
 </ul>
 </li>
@@ -287,6 +320,9 @@ Brands
                     <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 nav-ink-cartridges parent">
 <a href="http://www.picstop.co.uk/ink-cartridges"><span>Ink-Cartridges<br></span></a>
 <ul class="level0">
+<li class="level1 nav-ink-cartridges-canon-ink-cartridges">
+<a href="http://www.picstop.co.uk/ink-cartridges/canon-ink-cartridges"><span>Canon Ink Cartridges</span></a>
+</li>
 <li class="level1 nav-ink-cartridges-epson-ink-cartridges">
 <a href="http://www.picstop.co.uk/ink-cartridges/epson-ink-cartridges"><span>Epson Ink Cartridges</span></a>
 </li>
@@ -296,14 +332,14 @@ Brands
 <li class="level1 nav-ink-cartridges-lexmark-ink-cartridges">
 <a href="http://www.picstop.co.uk/ink-cartridges/lexmark-ink-cartridges"><span>Lexmark Ink Cartridges</span></a>
 </li>
-<li class="level1 nav-ink-cartridges-canon-ink-cartridges">
-<a href="http://www.picstop.co.uk/ink-cartridges/canon-ink-cartridges"><span>Canon Ink Cartridges</span></a>
-</li>
-<li class="level1 nav-ink-cartridges-dell-ink-cartridges">
-<a href="http://www.picstop.co.uk/ink-cartridges/dell-ink-cartridges"><span>Dell Ink Cartridges</span></a>
+<li class="level1 nav-ink-cartridges-kodak-ink-cartridges">
+<a href="http://www.picstop.co.uk/ink-cartridges/kodak-ink-cartridges"><span>Kodak Ink Cartridges</span></a>
 </li>
 <li class="level1 nav-ink-cartridges-brother-ink-cartridges">
 <a href="http://www.picstop.co.uk/ink-cartridges/brother-ink-cartridges"><span>Brother Ink Cartridges</span></a>
+</li>
+<li class="level1 nav-ink-cartridges-dell-ink-cartridges">
+<a href="http://www.picstop.co.uk/ink-cartridges/dell-ink-cartridges"><span>Dell Ink Cartridges</span></a>
 </li>
 <li class="level1 nav-ink-cartridges-samsung-ink-cartridges">
 <a href="http://www.picstop.co.uk/ink-cartridges/samsung-ink-cartridges"><span>Samsung Ink Cartridges</span></a>
@@ -318,29 +354,29 @@ Brands
                     <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 nav-laser-toner parent">
 <a href="http://www.picstop.co.uk/laser-toner"><span>Laser-Toner<br></span></a>
 <ul class="level0">
+<li class="level1 nav-laser-toner-samsung-laser-toner-cartridge-jettec">
+<a href="http://www.picstop.co.uk/laser-toner/samsung-laser-toner-cartridge-jettec"><span>Samsung Laser Toner</span></a>
+</li>
 <li class="level1 nav-laser-toner-brother-laser-toner-cartridge-jettec">
 <a href="http://www.picstop.co.uk/laser-toner/brother-laser-toner-cartridge-jettec"><span>Brother Laser Toner</span></a>
-</li>
-<li class="level1 nav-laser-toner-canon-laser-toner-cartridge-jettec">
-<a href="http://www.picstop.co.uk/laser-toner/canon-laser-toner-cartridge-jettec"><span>Canon Laser Toner</span></a>
-</li>
-<li class="level1 nav-laser-toner-dell-laser-toner-cartridge-jettec">
-<a href="http://www.picstop.co.uk/laser-toner/dell-laser-toner-cartridge-jettec"><span>Dell Laser Toner</span></a>
-</li>
-<li class="level1 nav-laser-toner-epson-laser-toner-cartridge-jettec">
-<a href="http://www.picstop.co.uk/laser-toner/epson-laser-toner-cartridge-jettec"><span>Epson Laser Toner</span></a>
-</li>
-<li class="level1 nav-laser-toner-hp-laser-toner-cartridge-jettec">
-<a href="http://www.picstop.co.uk/laser-toner/hp-laser-toner-cartridge-jettec"><span>Hewlett Packard (HP) Toner</span></a>
 </li>
 <li class="level1 nav-laser-toner-kyocera-laser-toner-cartridge-jettec">
 <a href="http://www.picstop.co.uk/laser-toner/kyocera-laser-toner-cartridge-jettec"><span>Kyocera Laser Toner</span></a>
 </li>
+<li class="level1 nav-laser-toner-hp-laser-toner-cartridge-jettec">
+<a href="http://www.picstop.co.uk/laser-toner/hp-laser-toner-cartridge-jettec"><span>Hewlett Packard (HP) Toner</span></a>
+</li>
+<li class="level1 nav-laser-toner-canon-laser-toner-cartridge-jettec">
+<a href="http://www.picstop.co.uk/laser-toner/canon-laser-toner-cartridge-jettec"><span>Canon Laser Toner</span></a>
+</li>
 <li class="level1 nav-laser-toner-lexmark-laser-toner-cartridge-jettec">
 <a href="http://www.picstop.co.uk/laser-toner/lexmark-laser-toner-cartridge-jettec"><span>Lexmark Laser Toner</span></a>
 </li>
-<li class="level1 nav-laser-toner-samsung-laser-toner-cartridge-jettec last">
-<a href="http://www.picstop.co.uk/laser-toner/samsung-laser-toner-cartridge-jettec"><span>Samsung Laser Toner</span></a>
+<li class="level1 nav-laser-toner-dell-laser-toner-cartridge-jettec">
+<a href="http://www.picstop.co.uk/laser-toner/dell-laser-toner-cartridge-jettec"><span>Dell Laser Toner</span></a>
+</li>
+<li class="level1 nav-laser-toner-epson-laser-toner-cartridge-jettec last">
+<a href="http://www.picstop.co.uk/laser-toner/epson-laser-toner-cartridge-jettec"><span>Epson Laser Toner</span></a>
 </li>
 </ul></li>
                     <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 nav-memory-cards parent">
@@ -486,20 +522,20 @@ Brands
 <li class="level1 nav-accessories-card-readers">
 <a href="http://www.picstop.co.uk/accessories/card-readers"><span>Card Readers</span></a>
 </li>
-<li class="level1 nav-accessories-card-battery-cases">
-<a href="http://www.picstop.co.uk/accessories/card-battery-cases"><span>Card &amp; Battery Cases</span></a>
-</li>
 <li class="level1 nav-accessories-camera-care">
 <a href="http://www.picstop.co.uk/accessories/camera-care"><span>Camera Care</span></a>
-</li>
-<li class="level1 nav-accessories-screen-protectors">
-<a href="http://www.picstop.co.uk/accessories/screen-protectors"><span>Screen Protectors</span></a>
 </li>
 <li class="level1 nav-accessories-remote">
 <a href="http://www.picstop.co.uk/accessories/remote"><span>Remote &amp; Cable Releases</span></a>
 </li>
-<li class="level1 nav-accessories-light-meters">
-<a href="http://www.picstop.co.uk/accessories/light-meters"><span>Light Meters</span></a>
+<li class="level1 nav-accessories-camera-strap">
+<a href="http://www.picstop.co.uk/accessories/camera-strap"><span>Camera Straps</span></a>
+</li>
+<li class="level1 nav-accessories-card-battery-cases">
+<a href="http://www.picstop.co.uk/accessories/card-battery-cases"><span>Card &amp; Battery Cases</span></a>
+</li>
+<li class="level1 nav-accessories-screen-protectors">
+<a href="http://www.picstop.co.uk/accessories/screen-protectors"><span>Screen Protectors</span></a>
 </li>
 <li class="level1 nav-accessories-flash-guns">
 <a href="http://www.picstop.co.uk/accessories/flash-guns"><span>Flash Guns</span></a>
@@ -586,36 +622,11 @@ Brands
 <li class="level1 nav-mobile-mobile-phone-battery">
 <a href="http://www.picstop.co.uk/mobile/mobile-phone-battery"><span>Mobile Phone Battery</span></a>
 </li>
-<li class="level1 nav-mobile-mobile-phone-case">
-<a href="http://www.picstop.co.uk/mobile/mobile-phone-case"><span>Mobile Phone Case</span></a>
-</li>
-<li class="level1 nav-mobile-mobile-phone-chargers">
-<a href="http://www.picstop.co.uk/mobile/mobile-phone-chargers"><span>Mobile Phone Chargers</span></a>
-</li>
 <li class="level1 nav-mobile-mobile-phone-memory-card">
 <a href="http://www.picstop.co.uk/mobile/mobile-phone-memory-card"><span>Mobile Phone Memory Card</span></a>
 </li>
-<li class="level1 nav-mobile-skype-usb-voip-phone">
+<li class="level1 nav-mobile-skype-usb-voip-phone last">
 <a href="http://www.picstop.co.uk/mobile/skype-usb-voip-phone"><span>Skype USB VOIP Phone</span></a>
-</li>
-<li class="level1 nav-mobile-bluetooth-wireless last">
-<a href="http://www.picstop.co.uk/mobile/bluetooth-wireless"><span>Bluetooth Wireless</span></a>
-</li>
-</ul></li>
-                    <li onmouseover="toggleMenu(this,1)" onmouseout="toggleMenu(this,0)" class="level0 nav-christmas-gift-ideas parent">
-<a href="http://www.picstop.co.uk/christmas-gift-ideas"><span>Christmas<br>Gifts&nbsp;</span></a>
-<ul class="level0">
-<li class="level1 nav-christmas-gift-ideas-0-10">
-<a href="http://www.picstop.co.uk/christmas-gift-ideas/0-10"><span>Gift Ideas from £0 - £10</span></a>
-</li>
-<li class="level1 nav-christmas-gift-ideas-11-30">
-<a href="http://www.picstop.co.uk/christmas-gift-ideas/11-30"><span>Gift Ideas from £11 - £30</span></a>
-</li>
-<li class="level1 nav-christmas-gift-ideas-31-60">
-<a href="http://www.picstop.co.uk/christmas-gift-ideas/31-60"><span>Gift Ideas from £31 - £60</span></a>
-</li>
-<li class="level1 nav-christmas-gift-ideas-above-60 last">
-<a href="http://www.picstop.co.uk/christmas-gift-ideas/above-60"><span>Gift Ideas Over £60</span></a>
 </li>
 </ul></li>
                 <li>&nbsp;</li>
@@ -640,7 +651,9 @@ Brands
             </ul>
 				            <!-- start center -->
                 <div id="main" class="col-main">
-
+                <!-- start global messages -->
+                                    <!-- end global messages -->
+                
                 <!-- start content -->
                     <div class="page-head"></div>
 <h1>Privacy Policy</h1>
@@ -687,7 +700,7 @@ Brands
             <button type="button" class="form-button-alt" onclick="newsletterSubscriberFormDetail.submit()"><span>Subscribe</span></button>
     </fieldset>
 </form>
-        <a href="http://www.point101.com/switchframes" target="_blank"><img src="http://www.picstop.co.uk/skin/frontend/default/picstop/images/newsletter-point-101.gif" alt=""></a>
+        <img src="http://www.picstop.co.uk/skin/frontend/default/picstop/images/newsletter-offer-img.gif" alt="Newsletter Offer">
 	<p class="win">WIN this fantastic prize!<br>Sign up for our exclusive email offers to be entered into the draw.</p>
 	<p class="right"><a href="http://www.picstop.co.uk/privacy-policy/">Privacy Policy</a></p>
 <script type="text/javascript">
@@ -714,15 +727,15 @@ var newsletterSubscriberFormDetail = Object.extend(new VarienForm('newsletter-va
                     <div id="superfooter-blog">
                         <p class="superfooter-footer-blue">Latest Blog Posts</p>
                         <ol>
-	    <li><a href="http://www.picstop.co.uk/blog/how-long-will-it-take-to-charge-my-batteries/">How long will it take to charge my batteries?</a></li>
-        <li><a href="http://www.picstop.co.uk/blog/micro-sdxc-memory-cards-for-mobile-phones/">Micro SDXC Memory Cards for Mobile Phones</a></li>
-        <li><a href="http://www.picstop.co.uk/blog/find-compatible-accessories/">Find Compatible Accessories - Product Finder</a></li>
-        <li><a href="http://www.picstop.co.uk/blog/what-is-an-ND-grad-filter/">What is an ND Grad Filter ?</a></li>
-        <li><a href="http://www.picstop.co.uk/blog/sdhc-class-rating/">SDHC Class Rating</a></li>
+	    <li><a href="http://www.picstop.co.uk/news/formatting-memory-cards/">Formatting Memory Cards</a></li>
+        <li><a href="http://www.picstop.co.uk/news/how-to-focus-binoculars/">How To Focus Binoculars</a></li>
+        <li><a href="http://www.picstop.co.uk/news/usb-flash-drive-password-protection/">USB Flash Drive Password Protection </a></li>
+        <li><a href="http://www.picstop.co.uk/news/northern-lights/">Northern Lights from the Isle of Man</a></li>
+        <li><a href="http://www.picstop.co.uk/news/top-ten-photo-accessories/">Top Ten Photo Accessories Under £100</a></li>
     </ol>
                     </div>
 
-                    <div style="float:left;"><img src="http://www.picstop.co.uk/skin/frontend/default/picstop/images/photo-placeholder.png" alt=""></div>
+                    <div style="float:left;"><a href="http://www.picstop.co.uk/photocomp/index/gallery/ordering/uploaded_at/direction/desc/page/1/" title="View Photo Gallery"><img src="http://www.picstop.co.uk/skin/frontend/default/picstop/images/photo-placeholder.png" alt="Photography Competition" border="0"></a></div>
                 </div>
             </div>
 
@@ -738,9 +751,8 @@ var newsletterSubscriberFormDetail = Object.extend(new VarienForm('newsletter-va
                         <li><a href="/privacy-policy/">Privacy Policy</a></li>
                         <li><a href="/catalogsearch/advanced/">Advanced Search</a></li>
                         <li><a href="/catalog/seo_sitemap/category/">Sitemap</a></li>
-                        <li><a href="http://www.affiliatewindow.com/merchant_directory.php?action=showmerch&amp;mid=580" target="_blank">Affiliate Program</a></li>
-                    </ul>
-                </div>
+                        <li><a href="http://www.webgains.com/signup.html?programid=217&amp;action=stepzero" target="_blank">Affiliate Program</a></li>
+                    </ul>                </div>
                 <div id="security-logos">
                     <table width="100%" height="60" border="0" cellspacing="0" cellpadding="0">
                         <tbody><tr>
@@ -756,15 +768,14 @@ var newsletterSubscriberFormDetail = Object.extend(new VarienForm('newsletter-va
                             <td style="padding-top:1px">
                                 <img title="WDC Awards" alt="WDC Awards" src="http://www.picstop.co.uk/skin/frontend/default/picstop/images/footer-wdc-awards.jpg">
                             </td>
-                            <td><a onclick="window.open('https://seal.thawte.com/thawtesplash?form_file=fdf/thawtesplash.fdf&amp;dn=www.picstop.co.uk&amp;lang=en','ia','toolbar=no,location=yes,width=500,height=600');" id="thawte" href="#thawte"><img src="http://www.picstop.co.uk/skin/frontend/default/picstop/images/footer-thawte.gif" alt="thawte"></a></td>
-                            <td><a target="_blank" href="http://www.nextag.co.uk/PicStop.co.uk~1674575zzzreviewsz1zukz17-htm"><img src="http://www.picstop.co.uk/skin/frontend/default/picstop/images/footer-nextag.gif" alt="Nextag Seller" border="0" style="margin-top:12px"></a></td>
+                            <td><!-- BEGIN DigiCert Site Seal Code --><div id="digicertsitesealcode" style="width: 81px; margin: 0px auto 5px 15px;" align="center"><script language="javascript" type="text/javascript" src="https://www.digicert.com/custsupport/sealtable.php?order_id=00230346&amp;seal_type=a&amp;seal_size=large&amp;seal_color=blue&amp;new=1"></script><a href="http://www.digicert.com/"></a><script language="javascript" type="text/javascript">coderz();</script></div><!-- END DigiCert Site Seal Code --></td>
                         </tr>
                     </tbody></table>
                 </div>
             </div>
             <small>
                 <span class="right"><a href="http://www.webcatch.co.uk" target="_blank">eCommerce Solutions</a> by WebCatch Digital</span>
-                <span class="left">© 2010 PicStop</span>
+                <span class="left">© 2011 PicStop</span>
             </small>
         </div>
     </div>
@@ -781,7 +792,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 //<![CDATA[
 var pageTracker = _gat._getTracker("UA-316529-2");
-pageTracker._trackPageview("/privacy-policy/");
+pageTracker._trackPageview("/privacy-policy");
 //]]>
 </script>
 <!-- END GOOGLE ANALYTICS CODE -->
