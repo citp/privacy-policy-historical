@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the nitro-pak.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226154545id_/http%3A//www.nitro-pak.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitro-pak.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518151856id_/http%3A//www.nitro-pak.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Nitro-Pak: Privacy Policy - Customer Service
-
-***CURRENT INVENTORY UPDATE*** There is currently EXTREMELY high demand for all of our Mountain House foods nationwide due to current economic uncertainty and inflation fears. With this increase in demand, our food order processing times have increased also. As Mountain House’s leading distributor, we are receiving huge shipments weekly to fill our customer orders. We are shipping as quickly as we can. Your charge card will not be charged-up until we are ready to process your order. Thank you for your understanding and patience! Harry R Weyandt President 
-
-## Privacy Policy
 
 ## What Information Do We Collect and How Do We Use It?
 
