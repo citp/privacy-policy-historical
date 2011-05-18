@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceisright.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229011009id_/http%3A//www.priceisright.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceisright.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518175358id_/http%3A//www.priceisright.com/help/privacy-policy) for the most accurate reproduction.*
 
 # The Price Is Right
 
@@ -6,11 +6,9 @@
 
 **Data Protection Statement**
 
-**www.priceisright.com** (the “ **Site** ”), the official website for the PRICE IS RIGHT!®, is provided by FremantleMedia North America, Inc. (“ **FMNA** ”, “us”, “we” or “our”).  This Privacy Policy describes the type of information we may collect from you, how we may use such information, who we may share it with, and how you can correct or change such information. 
+**www.priceisright.com** (the “ **Site** ”), the official website for the PRICE IS RIGHT®, is provided by FremantleMedia North America, Inc. (“ **FMNA** ”, “us”, “we” or “our”).  This Privacy Policy describes the type of information we may collect from you, how we may use such information, who we may share it with, and how you can correct or change such information. 
 
-If you have any requests concerning your personal information or any queries with regard to these practices please contact the FMNA Privacy Officer by e-mail at:
-
-[privacy.officer@fremantlemedia.com](mailto:privacy.officer@fremantlemedia.com).
+If you have any requests concerning your personal information or any queries with regard to these practices please contact the FMNA Privacy Officer by e-mail at:[ privacy.officer@fremantlemedia.com](mailto:privacy.officer@fremantlemedia.com).
 
 PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF USE FOR THE SITE CAREFULLY.  YOUR USE OF THE SITE SIGNIFIES THAT YOU CONSENT TO THE COLLECTION, USE AND STORAGE OF YOUR PERSONAL DATA, IP ADDRESS, AND AGGREGATE AND ANONYMOUS DATA IN THE UNITED STATES IN ACCORDANCE WITH THIS PRIVACY POLICY, AND THAT YOU AGREE TO THE TERMS OF USE.
 
@@ -21,19 +19,17 @@ We may collect personal information, including without limitation your name, ema
   
 FMNA use such Personal Information collected through this Site for the purposes of:
 
-·         providing a personalised service
+·         providing a personalised service;
 
-·         conducting market research surveys
+·         conducting market research surveys;
 
-  * fulfilling product orders
+·         fulfilling product orders;
 
+·         running features that incorporate submissions to the Site;
 
+·         running sweepstakes and contests;
 
-·         running features that incorporate submissions to the Site 
-
-·         running sweepstakes and contests and
-
-·         providing you with information about, and access to, products and services FMNA offer, either ourselves or jointly with or on behalf of other organisations.
+·         providing you with information about, and access to, products and services FMNA offer, either ourselves or jointly with or on behalf of other organisations. 
 
 If you wish to receive information about our products or services, or the products or services offered jointly with or on behalf of other organisations, please check the appropriate box on the registration page, sweepstakes/contests page or other relevant form or page through which the information is collected. Please note that by using any free e-mail account we may offer through this Site, you may receive occasional communications from selected third party sponsor and partners. If you do not wish to receive such communications, you should not use the free e-mail service.
 
@@ -43,11 +39,11 @@ FMNA will not sell any information collected through this Site to others except 
 
 We collect information in the aggregate form through the use of cookies and IP addresses, such as demographic information and browsing patterns. Such information does not identify any individual and will not be linked any Personal Information. We use such information to:
 
-·         build up marketing profiles
+·         build up marketing profiles;
 
-·         aid strategic development
+·         aid strategic development;
 
-·         manage our relationship with advertisers and
+·         manage our relationship with advertisers;
 
 ·         audit usage of the Site. 
 
