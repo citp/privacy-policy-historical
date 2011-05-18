@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apollolife.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212062111id_/http%3A//www.apollolife.com/LinkClick.aspx%3Flink%3D231%26tabid%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollolife.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518171709id_/http%3A//www.apollolife.com/LinkClick.aspx%3Flink%3D231%26tabid%3D39) for the most accurate reproduction.*
 
 # Apollolife - Wellness for complete Health - Privacy Statement
 
