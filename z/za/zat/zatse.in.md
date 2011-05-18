@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zatse.in privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103083102id_/http%3A//zatse.in/page/index/pageid/8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zatse.in privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519002134id_/http%3A//zatse.in/page/index/pageid/8) for the most accurate reproduction.*
 
-# ZatSe
+# 
 
 Untitled document
 
