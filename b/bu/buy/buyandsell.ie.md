@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213175702id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsell.ie privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518184527id_/http%3A//www.buyandsell.ie/legal/privacy_policy) for the most accurate reproduction.*
 
 # Cars for sale, furniture, dogs, cats and more at Buy and Sell
 
