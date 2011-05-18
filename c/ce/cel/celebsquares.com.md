@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the celebsquares.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225043208id_/http%3A//celebsquares.com/index.cfm/fuse/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebsquares.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518212904id_/http%3A//celebsquares.com/index.cfm/fuse/privacypolicy) for the most accurate reproduction.*
 
 # Celebrity Squares - When Celebs Make News, You Win Cash & Prizes
+
+Print-Friendly Page
 
 ### NOTICE: PRIVACY POLICY EFFECTIVE OCTOBER 1, 2008
 
@@ -9,11 +11,16 @@
   
 
 
-#### Last Updated: June 30, 2010
+#### Last Updated: February 07, 2011
 
 Celebrity Squares, LLC ("Celebrity Squares™ ," "we" or "us") operates the Celebrity Squares™ website located at www.celebsquares.com (the "Website"). , and the Celebrity Squares™ service that includes the provision of interactive mobile content available online or via text messaging (“Service”). This Privacy Policy (“Privacy Policy”) covers our treatment of Personal Information that we collect when you: (a) visit the Website; (b) register for Celebrity Squares services, either as a premium member (“Premium Member”) or as a basic member (“Basic Member”; collectively “Basic Members” together with “Premium Members”, “Members”), that include, but are not limited to, the provision of content such as headlines, news articles and other material ("Content"); (c) register to participate in the Celebrity Squares Game ("Game" and together with the Content, the "Services"); and/or (d) enter any of the various drawings and/or sweepstakes that we may offer from time to time in our exclusive discretion via mobile telephone and/or the Website ("Contests"); and/or (e) submit any other material to us, such as comments on the Services, user profile information or personal quotes relating to redeeming Loyalty Points or winning a Sweepstakes. **If you are a resident of the State of California and would like to opt-out from the disclosure of your Personal Information to any third party for marketing purposes, please e-mail us at: cs_support@celebsquares.com. Please be advised that where California State residents opt-out from permitting their Personal Information to be shared, such individuals may still receive selected offers directly from us, in accordance with applicable law.**
 
 By visiting the Website, subscribing for the Service, playing a Game or entering a Sweepstakes, you agree to be bound by the terms of this Privacy Policy. It is important that Website visitors, Members and Sweepstakes entrants are fully informed about the use of the personal information we collect from you.
+
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.celebritysquares.com/seal_m "Validate TRUSTe privacy certification")
+
+**TRUSTe - Scope of Certification**  
+Snackable Media, the parent company of Celebrity Squares, has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. However, please note that the scope of our certification with TRUSTe covers the site www.celebritysquares.com only and not the Service or Mobile Basic offerings. In addition, the TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at mailto:cs_support@CelebritySquares.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 **Registration.** When you register on our Website, you agree and acknowledge that your Personal Information will be placed into the Celebrity Squares database and that such Personal Information may be shared with third parties for marketing purposes.
 
