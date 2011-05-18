@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobissimo.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108175123id_/http%3A//www.mobissimo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobissimo.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518133431id_/http%3A//www.mobissimo.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Mobissimo Travel | Cheap Airline Tickets, Discount Hotels, Discount Cars - Ultimate Travel Search Engine
 
