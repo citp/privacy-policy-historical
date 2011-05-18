@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the killerdana.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227181624id_/http%3A//www.killerdana.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killerdana.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518143038id_/http%3A//www.killerdana.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
-# Killer Dana: Privacy and Security
+# Privacy and Security: Killer Dana
 
 
     
