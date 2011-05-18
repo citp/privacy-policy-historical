@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 8seasons.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117183608id_/http%3A//www.8seasons.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 8seasons.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519002252id_/http%3A//www.8seasons.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Beads fits Pandora Wholesale, Charms fits Pandora Wholesale, Beads and Charms Wholesale From China Factory
 
