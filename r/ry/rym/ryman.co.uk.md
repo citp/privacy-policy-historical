@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107195932id_/http%3A//www.ryman.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryman.co.uk privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518095001id_/http%3A//www.ryman.co.uk/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  
-
-
-##### 
-
-###  At Ryman.co.uk we recognise how important is to keep your personal information safe and secure. 
+At Ryman.co.uk we recognise how important is to keep your personal information safe and secure. 
 
 We are totally committed to ensuring that your online shopping experience is completely private and when you give us your name, address, credit card, contact details, or any other personal details we promise to keep them safe and secure and we promise never to share them with anyone outside of the Ryman Group. 
 
@@ -24,9 +19,7 @@ When you are in a secure area of the website, such as the checkout screens, you 
 
 You will also see that the Ryman address in the browser has changed and the http has been replaced with https in front of the www.ryman.co.uk address. 
 
-####  Back to top
-
-### 
+Back to top
 
   
 **Privacy Promise**
@@ -35,20 +28,13 @@ We take your personal privacy very seriously and are committed to ensuring that 
 
 We promise that: 
 
-###  • we will never sell your personal details to any outside company 
-
-###  • unless specifically authorised by you, we will not pass on your details to any third party company for mailing or marketing purposes. 
-
-###    
 When you make a purchase from the Ryman website we collect certain personal information from you. All this information is held on secure servers and Ryman fully complies with all obligations required of the data protection act and current consumer legislation. 
 
 Some of this information is used to process your order and to keep you informed of its progress. We use some third party institutions to handle the processing and fulfilment of your order. They receive the information needed to do this and all such institutions are under strict contractual obligations to keep your personal information secure and private. 
 
 For full details on our Privacy Policy, please see the section incorporated into our Terms and Conditions of use 
 
-####  Back to top
-
-### 
+Back to top
 
   
 **Credit card fraud prevention**
@@ -63,20 +49,11 @@ Please note: This is not your Ryman.co.uk login password. If you do not know or 
 
 Find out more here: 
 
-[ ](http://www.mastercard.com/us/personal/en/cardholderservices/securecode/index.html "Mastercard Securecard")
+[ ](http://www.mastercard.com/us/personal/en/cardholderservices/securecode/index.html "Mastercard Securecard") MasterCard SecureCode website 
 
-####  MasterCard SecureCode website 
+[ ](http://www.visaeurope.com/merchant/handlingvisapayments/cardnotpresent/verifiedbyvisa.jsp "Visa Wesbite") Verified by Visa website 
 
-  
-
-
-[ ](http://www.visaeurope.com/merchant/handlingvisapayments/cardnotpresent/verifiedbyvisa.jsp "Visa Wesbite")
-
-####  Verified by Visa website 
-
-####  Back to top
-
-### 
+Back to top
 
   
 **Phishing emails or calls – do not share your personal information**
@@ -87,9 +64,10 @@ Do not share your personal information with anyone claiming to be from Ryman. If
 
 If you think someone is attempting to deceive you into passing over your details, please let us know immediately. 
 
-####  Back to top
+Back to top
 
-###  **Use of Cookies**
+  
+**Use of Cookies**
 
 Cookies are tiny files of alphanumeric characters that are stored on your computer via your web browser to enable our systems to recognise you when you visit the Ryman website. 
 
@@ -99,16 +77,6 @@ If you have cookies disabled, then you will not be able to access some of the fe
 
 Important: There is a common misconception that Cookies are harmful to your computer or contain personal information. This is not true: 
 
-Cookies are not viruses 
-
-Cookies do not generate pop-ups 
-
-Cookies are not used for spamming 
-
-Cookies cannot read or erase information from a computers hard drive 
-
-Cookies do not store or contain personal or sensitive information 
-
 If you decide to turn off cookies then you will not be able to access some of the features on the Ryman website and you will not be able to purchase. 
 
-####  Back to top
+Back to top
