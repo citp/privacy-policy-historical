@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the currencyfair.com privacy policy that was archived on 2010-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101103215624id_/http%3A//www.currencyfair.com/privacy-statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currencyfair.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518193259id_/http%3A//www.currencyfair.com/privacy-statement.jsp) for the most accurate reproduction.*
 
-# CurrencyFair - Peer to Peer Foreign Exchange
+# CurrencyFair - Peer to Peer Foreign Exchange - Privacy Statement
 
 Personal information("Personal Information") is any information about you and may include your name and address, date of birth, bank account details, details of proposed and matched trades and account transfers and any other information you may provide.
 
