@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601095756id_/http%3A//www.jamfsoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamfsoftware.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518041625id_/http%3A//www.jamfsoftware.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# JAMF Software: Privacy Policy
 
 JAMF Software is committed to respecting and protecting your privacy. In order to provide certain services, opportunities, and downloads to you on jamfsoftware.com (the Site), we require that you submit some of your personal information. Please read the following to learn more about our Privacy Policy.
 
