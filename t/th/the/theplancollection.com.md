@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theplancollection.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113222455id_/http%3A//www.theplancollection.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theplancollection.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518053614id_/http%3A//www.theplancollection.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policies for The Plan Collection
 
