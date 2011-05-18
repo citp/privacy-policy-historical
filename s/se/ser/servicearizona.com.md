@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicearizona.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221034915id_/http%3A//servicearizona.com/content.jsp%3FdocName%3DSAZHomePrivacy%26h%3D1600) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicearizona.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518031433id_/http%3A//servicearizona.com/content.jsp%3FdocName%3DSAZHomePrivacy%26h%3D1600) for the most accurate reproduction.*
 
 # ServiceArizona - Privacy Policy
 
