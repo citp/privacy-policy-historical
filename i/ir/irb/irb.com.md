@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irb.com privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414171228id_/http%3A//www.irb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irb.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518161442id_/http%3A//www.irb.com/privacypolicy.html) for the most accurate reproduction.*
 
 # International Rugby Board - privacy
 
@@ -25,11 +25,6 @@ The organisations to which, with your permission, we will release your personal 
  **Electronic Communications**
 
 We comply with the terms of the European Directive on Privacy and Electronic Communications (Directive 2002/58/EC) and, in particular:
-
-  * We will not send you unsolicited communications unless you have consented to receiving them;
-  * Communications we do send you will always give you an address which you may contact to opt out of receiving further communications.
-
-
 
 Please understand that where you have opted out of receiving further communications, it may take us a few days to process your request.
 
@@ -69,4 +64,4 @@ Huguenot House,
 Dublin 2,   
 IRELAND.
 
-All Rights Reserved. 
+All Rights Reserved.
