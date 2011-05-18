@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysupermarket.co.uk privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209092002id_/http%3A//www.mysupermarket.co.uk/Administration/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysupermarket.co.uk privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518221045id_/http%3A//www.mysupermarket.co.uk/Administration/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy | mySupermarket
 
@@ -71,7 +71,8 @@ Please note that we may e-mail for the following purposes:
     * after you have sent a Trolley, giving you details about that;
     * with details of how to register or sign-in for your participation in the Maximiles Programme;
     * to send you information which you have asked for (for example, you may have elected to receive newsletters or information on offers from Supermarkets), although we will always give you the chance to unsubscribe from these; and
-  * to offer related services to you. However, in terms of any marketing emails we may send, we will always give you the chance to opt-out (or unsubscribe) from any marketing email from us in the future.
+  * to offer related services to you. However, in terms of any marketing emails we may send, we will always give you the chance to opt-out (or unsubscribe) from any marketing email from us in the future.  
+Click here to unsubscribe. 
 
 
 
