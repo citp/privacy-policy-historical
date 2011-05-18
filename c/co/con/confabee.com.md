@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the confabee.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214050923id_/http%3A//confabee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confabee.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518180303id_/http%3A//confabee.com/privacy-policy) for the most accurate reproduction.*
 
-# confabee.com | Privacy Policy
+# Privacy Policy
 
 **Confabee Privacy Notice**
 
