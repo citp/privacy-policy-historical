@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santaclaraca.gov privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127033523id_/http%3A//santaclaraca.gov/index.aspx%3Fpage%3D1224) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santaclaraca.gov privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518135945id_/http%3A//santaclaraca.gov/index.aspx%3Fpage%3D1224) for the most accurate reproduction.*
 
 # City of Santa Clara : Privacy Policy
 
