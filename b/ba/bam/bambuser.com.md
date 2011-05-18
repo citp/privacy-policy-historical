@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bambuser.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119153416id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bambuser.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518174845id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.*
 
 # Bambuser | Privacy Policy
 
@@ -57,6 +57,6 @@ As Bambuser continues to develop its business, Bambuser might sell or purchase s
 
 If you have a privacy concern regarding any of Bambuser website, services, software, or this Privacy Policy, and if you cannot satisfactorily resolve it through the use of the website, you should complete a feedback form or write to us by email at : [privacy@bambuser.com](mailto:privacy@bambuser.com). Alternatively, we can be reached at our postal mail address:  
 Bambuser Ab  
-S:t Eriksgatan 48C  
+S:t Eriksgatan 46A  
 11234 Stockholm  
 Sweden
