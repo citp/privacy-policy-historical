@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zellers.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212234840id_/http%3A//www.zellers.com/Content/EN/misc/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zellers.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518144429id_/http%3A//www.zellers.com/Content/EN/misc/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -182,11 +182,11 @@ back to top
 
 ### Hbc Credit Privacy Information
 
-Personal information provided by you in your application for an Hbc credit card account (an Account), in connection with such Account or obtained subsequently from any source with your consent (collectively the Information), is collected and maintained by each of GE Money and Hudsons Bay Company and/or its affiliates (Hbc) in separate customer files (the Files) and:
+Personal information provided by you in your application for an Hbc credit card account (an Account), in connection with such Account or obtained subsequently from any source with your consent (collectively the Information), is collected and maintained by each of Capital One® and Hudson's Bay Company and/or its affiliates (Hbc) in separate customer files (the Files) and:
 
 (a) used, from time to time, to obtain and exchange credit information from and with credit reporting agencies, credit references and other sources with whom you have or may expect to have financial dealings to underwrite and approve the Account or any subsequent account;
 
-(b) used to enter into, maintain and carry out the Account Agreement, including sharing Information between GE Money and Hbc in furtherance of the operation of the Account;
+(b) used to enter into, maintain and carry out the Account Agreement, including sharing Information between Capital One® and Hbc in furtherance of the operation of the Account;
 
 (c) used by Hbc to establish and administer your Hbc Rewards account;
 
@@ -196,7 +196,7 @@ Personal information provided by you in your application for an Hbc credit card 
 
 (f) may be disclosed to and used by third parties (Third Parties) to develop, enhance, market or provide other products and services that may be of interest to you (collectively the Purposes).
 
-GE Money and/or Hbc may transfer some or all of the Information to external service providers who process the Information in furtherance of the Purposes or in accordance with applicable law. Your Files are currently managed from offices in Montreal, Toronto, Edmonton or Vancouver. You have the right to access the Information and, if needed, to request a correction to the Information. If you wish to:
+Capital One® and/or Hbc may transfer some or all of the Information to external service providers who process the Information in furtherance of the Purposes or in accordance with applicable law. Your Files are currently managed from offices in Montreal or Toronto. You have the right to access the Information and, if needed, to request a correction to the Information. If you wish to:
 
   1. access the Information;  
 
@@ -208,7 +208,7 @@ GE Money and/or Hbc may transfer some or all of the Information to external serv
 
 
 
-you should call us toll-free at 1-800-263-2599 (GE Privacy Office) or 1-866-225-8251 (Hbc Privacy Office).
+you should call us toll-free at 1-866-225-8251 (Hbc Privacy Office).
 
 back to top
 
