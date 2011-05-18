@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spectranet.in privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116132721id_/http%3A//www.spectranet.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectranet.in privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518195037id_/http%3A//www.spectranet.in/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-This website www.spectranet.in (hereinafter referred to as "Website") is developed, owned, hosted, maintained and operated jointly by Spectra Net – a division of Punj Lloyd Limited, and Spectra Net Limited, the companies registered under the Indian Companies Act, 1956 having their registered offices at Punj Lloyd house, 17-18, Nehru Place, New Delhi – 110 019 and 42, Okhla Industrial Estate, Phase – III, New Delhi – 110 020 respectively (hereinafter singly referred to as “Spectranet”) are the provider of Internet Services, Video and Broadcasting Solutions, Internet data Centre, Managed Optic Fibre and other value added services. In order to demonstrate its commitment to the privacy of users of this website, Spectranet would like to present this site policy.  
+This website www.spectranet.in (hereinafter referred to as "Website") is developed, owned, hosted, maintained and operated by Spectra ISP Networks Pvt. Ltd., the company registered under the Indian Companies Act, 1956 having their registered offices at A-60 Naraina Industiral Area Phase -I, New Delhi – 110 028 (hereinafter referred to as “Spectranet”) are the provider of Internet Services, Internet data Centre, and other value added services. In order to demonstrate its commitment to the privacy of users of this website, Spectranet would like to present this site policy.  
 Any references in this privacy statement to: 
 
   * "we", "our" or "us" shall refer individually and collectively to Spectranet and Broadband SMS; 
