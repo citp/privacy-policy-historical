@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directleech.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516175210id_/http%3A//www.directleech.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directleech.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518025828id_/http%3A//www.directleech.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Direct Leech : Powered by MSSL
 
