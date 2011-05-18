@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awardwallet.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202150852id_/http%3A//www.awardwallet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awardwallet.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518162137id_/http%3A//awardwallet.com/privacy.php) for the most accurate reproduction.*
 
-# Track frequent flyer miles, cheap airfare, air miles reward program - Mobile version
+# Track frequent flyer miles, cheap airfare, air miles reward program
 
 Privacy Policy Statement
 
@@ -20,7 +20,7 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, communications that the customer/visitor has directed to the site. Customers can have this information corrected by sending us e-mail at the above address, visiting us at www.awardwallet.com.
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, communications that the customer/visitor has directed to the site. Customers can have this information corrected by sending us e-mail at the above address, visiting us at awardwallet.com.
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving customer's data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
