@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doc.govt.nz privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113164510id_/http%3A//www.doc.govt.nz/footer-links/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doc.govt.nz privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518192122id_/http%3A//www.doc.govt.nz/footer-links/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and security
 
