@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222083754id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518181139id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
 
 # Car Finance from 7.9% APR – Guaranteed £0 Deposit Car Financing and Refinancing with Creditplus – Car Credit available now
-
-[Creditplus car finance](https://web.archive.org/web/20101222083754id_/http%3A//www.creditplus.co.uk/index.html "Creditplus car finance") [about our loans](https://web.archive.org/web/20101222083754id_/http%3A//www.creditplus.co.uk/about.html) car loan terms & conditions 
 
 Please note that regrettably we are unable to offer car finance to customers located in Northern Ireland, the Isle of Man or the Channel Islands.
 
@@ -40,26 +38,24 @@ Car Finance is provided, subject to status. Written quotations are available on 
 
 Guidance on the Consumer Protection (Distance Selling) Regulations 2000 No.2334. Creditplus comply with distance selling rules. Customers are not permitted to cancel or return goods for:
 
-Services which begin, with the customer's agreement, before the 7 day cancellation period ends
+  * Services which begin, with the customer's agreement, before the 7 day cancellation period ends
+  * Goods or services whose price depends on financial market fluctuations
+  * Goods made to a customer's specification
+  * Goods which cannot easily be returned (e.g. electricity) or which will deteriorate quickly (e.g. flowers)
+  * Sealed audio or video recordings or computer software which they have subsequently opened
+  * Betting, gaming or lottery services  
+The new regulations do not apply to financial services or auctions.
 
-Goods or services whose price depends on financial market fluctuations
 
-Goods made to a customer's specification
-
-Goods which cannot easily be returned (e.g. electricity) or which will deteriorate quickly (e.g. flowers)
-
-Sealed audio or video recordings or computer software which they have subsequently opened
-
-Betting, gaming or lottery services  
-The new regulations do not apply to financial services or auctions. 
 
 ## Data Protection Act
 
 If you make an application, your details will be held on computer and used in a credit scoring or other automated decision-making process when assessing your application. An enquiry will be made with Credit Reference Agencies, who will record it so that it can be viewed by other Agency users. Your information will also be checked with fraud prevention agencies and if fraud is suspected Creditplus ("we" or "us") will record this and those details will be shared with other subscribing organisations. For the purposes of this application you may be treated as financially linked and your application will be assessed with reference to any "associated" records. If you are a joint applicant or if you have told us of some other financial association with another person, you must be sure that you are entitled to: 
 
-Disclose information about your joint applicant and anyone referred to by you
+  * Disclose information about your joint applicant and anyone referred to by you
+  * Authorise Creditplus to search, link or record information at credit reference agencies about you and anyone referred to by you
 
-Authorise Creditplus to search, link or record information at credit reference agencies about you and anyone referred to by you
+
 
 You authorise us to make all enquiries necessary to verify this information to enable us to consider this application. By agreeing to the terms and conditions when making your application, you are giving your consent for your information to be used by Creditplus for administrative, underwriting, marketing and revenue purposes. This includes our sister site [www.visitcars.co.uk](http://www.visitcars.co.uk/). If you do not want your details to be used for marketing please write to Creditplus, Waterloo House, Fleets Corner, Nuffield Road, Poole, Dorset, BH17 0HL. Under the terms of the act you have the right to obtain a copy of the information held about you upon payment of the appropriate fee. 
 
