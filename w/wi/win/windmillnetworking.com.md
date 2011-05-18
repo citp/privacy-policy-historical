@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windmillnetworking.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117015016id_/http%3A//windmillnetworking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windmillnetworking.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518031746id_/http%3A//windmillnetworking.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,7 +66,7 @@ This website contains links to other websites.
 
 Windmills Marketing is not responsible for the privacy policies or practices of any third party.
 
-**[Contact](http://windmillnetworking.com/contact/ "Contact") Windmills Marketing**
+**Contact Windmills Marketing**
 
 If you have any questions about this privacy policy or Windmills Marketing’s treatment of your personal information, please write to:
 
