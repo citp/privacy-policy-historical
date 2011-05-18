@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214103106id_/http%3A//coull.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518233839id_/http%3A//coull.com/privacy-policy) for the most accurate reproduction.*
 
-# Coull
+# Privacy Policy | coull.com
 
-**Who we are**
+### Who we are
 
 In this privacy policy references to we, us and our are Coull. References to our Website or the Website are to www.coull.com.
 
-**What information we collect and how**
+### What information we collect and how
 
 The information we collect via the Website may include.
 
@@ -17,7 +17,7 @@ The information we collect via the Website may include.
 
 
 
-**What we do with your information**
+### What we do with your information
 
 Any personal information we collect from this website will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:
 
@@ -28,18 +28,18 @@ Any personal information we collect from this website will be used in accordance
 
 We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use the Website and issuing our e-mails for us. Third parties will not be allowed to use your personal information for their own purposes.
 
-**Your Rights**
+### Your Rights
 
 You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of £10 to cover administration expenses to the following address:
 
 Privacy  
 Coull   
-fourth floor  
-centre gate  
-colston avenue  
+Sixth Floor  
+Centre Gate  
+Colston Avenue  
 Bristol  
 BS1 4TR
 
-**Other Websites**
+### Other Websites
 
 This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
