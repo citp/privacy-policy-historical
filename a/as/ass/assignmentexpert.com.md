@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the assignmentexpert.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027165640id_/http%3A//www.assignmentexpert.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assignmentexpert.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518093402id_/http%3A//www.assignmentexpert.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Assignment Expert | Privacy Policy
 
@@ -10,7 +10,7 @@ Our server automatically collects such information as your IP address, operating
 
 **WHAT DO WE USE YOUR INFORMATION FOR?**
 
-Any or all of the information we collect from you may be used in any of the following ways: 
+Any or all of the information we collect from you may be used in any of the following ways:
 
   * To personalize your experience: Your information assists us in responding to your individual needs.
   * To improve our website: Assignment Experts is dedicated to improving your experience and our product offerings, based on the information and feedback we receive from you, we are able to continually meet your growing needs.
@@ -54,6 +54,4 @@ By using our site, you consent to our privacy policy and all terms and condition
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-  
-  
 **This policy was last modified on December 17, 2009**
