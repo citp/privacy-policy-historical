@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205015951id_/http%3A//www.fredericks.com/Privacy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518151220id_/http%3A//www.fredericks.com/Privacy/Privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,7 +71,7 @@ Some of our website pages may contain electronic images known as web beacons, wh
 We believe that choice in how and when you are contacted is key to customer satisfaction. Therefore, we offer several ways for you to update your contact information and/or change your preferences.
 
   1. If you have an online account at our website, you may be able to log on and update or change your contact or account information. Check the website for further information.
-  2. If you do not have an account, you can also unsubscribe via our website at the following URL: <http://www.fredericks.com/services/unsubscribe.asp>.
+  2. If you do not have an account, you can also unsubscribe via our website at the following URL: <http://www.fredericks.com/on/demandware.store/Sites-FoH-Site/default/Page-EmailUnsubscribe>.
   3. You may unsubscribe to any of our online e-mail updates by following the unsubscribe instructions in the body of any e-mail message. 
   4. You may write to us and update your contact information or ask that we not share your personal contact information with third parties at: Frederick’s of Hollywood, Inc., c/o Customer Service Department, P.O. Box 2949, Phoenix, AZ 85062-2949. In those instances, we will retain your information in a “do not promote” file in our database. 
   5. You may also contact us at custserv@fredericks.com.
