@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the cloudbees.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231042548id_/http%3A//cloudbees.com/company-privacy.cb) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudbees.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518220856id_/http%3A//cloudbees.com/company-privacy.cb) for the most accurate reproduction.*
 
-# CloudBees - Enterprise Java Virtualization
+# CloudBees: Cloud Platform as a Service for Java Web Apps, Supported Jenkins/Hudson and Jenkins/Hudson in the Cloud
 
 ### PRIVACY POLICY
 
 _Last updated: July 28th, 2010_
 
-This Privacy Policy describes how Cloud Bees, Inc. (“Cloud Bees” “We,” “Us,” or “Our”) protects your privacy when you use the Web site located at www.cloudbees.com (the “Site”). 
+This Privacy Policy describes how CloudBees, Inc. (“CloudBees” “We,” “Us,” or “Our”) protects your privacy when you use the Web site located at www.cloudbees.com (the “Site”). 
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE SITE, YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBED HEREIN AND ALL TERMS AND CONDITIONS INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE SITE.
 
-This Privacy Policy applies to information (including, personal information) collected through the Site. For the purpose of this Privacy Policy, “personal information” means information that identifies you personally, either alone or in combination with other information available to us. Personal information does not include "aggregate" information, which is data we collect about the use of the Site, or about a group or category of products, services or users, from which individual identities or other personal information has been removed. This policy in no way restricts or limits our collection and use of aggregate information, and we may share aggregate data about our users with third parties for various purposes. This Privacy Policy is part of and incorporated into Cloud Bees’s Terms of Service, <http://www.cloudbees.com/company-TOS.cb> (“Terms of Service”).
+This Privacy Policy applies to information (including, personal information) collected through the Site. For the purpose of this Privacy Policy, “personal information” means information that identifies you personally, either alone or in combination with other information available to us. Personal information does not include "aggregate" information, which is data we collect about the use of the Site, or about a group or category of products, services or users, from which individual identities or other personal information has been removed. This policy in no way restricts or limits our collection and use of aggregate information, and we may share aggregate data about our users with third parties for various purposes. This Privacy Policy is part of and incorporated into CloudBees’s Terms of Service, <http://www.cloudbees.com/company-TOS.cb> (“Terms of Service”).
 
-### CLOUD BEES’S PRIVACY PLEDGE TO YOU
+### CLOUDBEES’S PRIVACY PLEDGE TO YOU
 
   * We are committed to protecting your privacy while allowing you to use the Site.
   * You may add, delete or modify your personal information at any time.
