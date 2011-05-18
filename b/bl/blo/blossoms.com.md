@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223175719id_/http%3A//www.blossoms.com/privacyPolicyNew.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518171815id_/http%3A//www.blossoms.com/privacyPolicyNew.php) for the most accurate reproduction.*
 
-# Cherry Blossoms: Online picture personal ads for internet dating, friendship, love & romance. Meet US, Asian, European, Russian, & Latin Men & Women
+# Cherry Blossoms: Privacy Policy
 
 ### Cherry Blossoms Privacy Policy
 
