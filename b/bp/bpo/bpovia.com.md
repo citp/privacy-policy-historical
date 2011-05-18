@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bpovia.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119235736id_/http%3A//www.bpovia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpovia.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518163653id_/http%3A//www.bpovia.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BPOVIA Virtual Assistant and Knowledge Process Outsourcing Service
 
