@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527210338id_/http%3A//www.spin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spin.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518111604id_/http%3A//www.spin.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Spin Magazine Online
+# Privacy Policy | SPIN.com
 
 The policies below are applicable to the Authors of this site which include Spin Media, LLC, and other sites on the World Wide Web portion of the Internet. 
 
