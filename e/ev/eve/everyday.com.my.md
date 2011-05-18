@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyday.com.my privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215130813id_/http%3A//everyday.com.my/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyday.com.my privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518075407id_/http%3A//everyday.com.my/privacypolicy.shtml) for the most accurate reproduction.*
 
 # One-Stop Search For Warehouse Sales, Clearance Sales, Sales Voucher & Hidden Promotion in Malaysia - Everyday.com.my
 
@@ -72,7 +72,7 @@ A few important things you should know about cookies are that:
 
 **No Spam, Spyware or Cookies**
 
-We and our users do not tolerate spam. Make sure to set your Everyday.com.my notification preferences so we communicate to you as you prefer. To report Everyday.com.my related spam or spoof emails to Everyday.com.my, please forward the email to contact@everyday.com.my. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We do filter and automatically scan messages before they are sent for viruses and other illegal or prohibited content but do not permanently store email messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer a Friend or other tool), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
+We and our users do not tolerate spam. Make sure to set your Everyday.com.my notification preferences so we communicate to you as you prefer. To report Everyday.com.my related spam or spoof emails to Everyday.com.my, please forward the email to support@everyday.com.my. You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We do filter and automatically scan messages before they are sent for viruses and other illegal or prohibited content but do not permanently store email messages sent through these tools. If you send an email to an email address that is not registered in our community (via Refer a Friend or other tool), we do not permanently store that email or use that email address for any marketing purpose. We do not rent or sell these email addresses. 
 
 **Account Protection**
 
