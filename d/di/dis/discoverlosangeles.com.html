@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discoverlosangeles.com privacy policy that was archived on 2009-03-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090308025319id_/http%3A//discoverlosangeles.com/privacy-policy-terms-of-use.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discoverlosangeles.com privacy policy that was archived on 2011-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519014408id_/http%3A//discoverlosangeles.com/privacy-policy-terms-of-use.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
     <title>Privacy Policy and Terms of Use - LA Inc</title>
@@ -7,6 +7,60 @@
     <script language="javascript" src="/javascript/prototype.js"></script>
     <script language="javascript" src="/javascript/scriptaculous.js"></script>
     <script language="javascript" src="/javascript/swfobject.js"></script>
+    <script language="javascript" src="/javascript/calendarview.js"></script>
+    <script type="text/javascript" language="JavaScript">
+        this.externalLinks = function(){
+
+        var hostname = window.location.hostname;
+        hostname = hostname.replace("www.","").toLowerCase();
+        var a = document.getElementsByTagName("a");
+        this.check = function(obj){
+                var href = obj.href.toLowerCase();
+                return (href.indexOf("http://")!=-1 && href.indexOf(hostname)==-1) ? true : false;
+        };
+        this.set = function(obj){
+                obj.target = "_blank";
+                //obj.className = "external";
+                // Replace the existing onclick call for this
+
+                if (obj.onclick == null) {
+                        // No onclick, we just add one.
+                        var myhref = obj.href;
+                        obj.onclick = function() {
+                                return pageTracker._trackPageview("/outbound/" + myhref);
+                        }
+                } else {
+                        var clicker = obj.onclick;
+                        var myhref = obj.href;
+                        //var complete = 'pageTracker._trackPageview("/outbound/" + myhref);' + clicker;
+
+                        obj.onclick = function() {
+                                return pageTracker._trackPageview("/outbound/" + myhref);
+                        }
+                }
+
+        };
+        for (var i=0;i<a.length;i++){
+                if(check(a[i])) set(a[i]);
+        };
+
+        };
+
+
+        this.addEvent = function(obj,type,fn){
+        if(obj.attachEvent){
+                obj['e'+type+fn] = fn;
+                obj[type+fn] = function(){obj['e'+type+fn](window.event );}
+                obj.attachEvent('on'+type, obj[type+fn]);
+        } else {
+                obj.addEventListener(type,fn,false);
+        };
+};
+addEvent(window,"load",externalLinks);
+      </script>
+
+    <link href="/css/calendarview.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
     
         <!--
     <script language="javascript" src="/javascript/adspaces.js"></script>
@@ -35,7 +89,7 @@
        OAS_version = 11;
        if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 webTV') != -1)) OAS_version = 10;
        if (OAS_version >= 11) document.write('<scr' + 'ipt language="JavaScript1.1" src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns   + '@' + OAS_listpos  + '?'  + OAS_query + '"><\/script>');
-   </script><script language="JavaScript1.1" src="https://oascentral.discoverlosangeles.com/RealMedia/ads/adstream_mjx.ads/losangeles/homepage/1409630246@x04,x05,x07,x08,x09,x10,x11?"></script>
+   </script><script language="JavaScript1.1" src="https://oascentral.discoverlosangeles.com/RealMedia/ads/adstream_mjx.ads/losangeles/homepage/1589402529@x04,x05,x07,x08,x09,x10,x11?"></script>
    <script type="text/javascript" language="JavaScript">
        document.write('');
        function OAS_AD(pos)
@@ -44,28 +98,6 @@
        }
    </script>
 
-	 <!-- SEARCH -->
-    <script type="text/javascript">
-                // Updates the result count on the filter page
-                function update_result_count(elemid) {
-                        var spanid = elemid + "-count";
-                        document.getElementById(spanid).innerHTML = "...";
-                        new Ajax.Request('' + '/searchresultcount.html',
-                                {
-                                        method:'get',
-                                        parameters: $(elemid).serialize(true),
-                                        onSuccess: function(transport) {
-//                                              alert('Success!! ' + transport.responseText);
-                                                document.getElementById(spanid).innerHTML = transport.responseText;
-                                        }
-                                }
-                        );
-                }
-    </script>
-
-<!-- END SEARCH -->
-
-        
         
 
 
@@ -139,12 +171,12 @@
             TRANSPORTATION
         </div>
         
-        <div class="nav-item" id="PLANNINGYOURTRIP-nav" onmouseover="show_sub('PLANNINGYOURTRIP')" style="color: rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255);">
-            PLANNING YOUR TRIP
+        <div class="nav-item" id="PLANYOURTRIP-nav" onmouseover="show_sub('PLANYOURTRIP')" style="color: rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255);">
+            PLAN YOUR TRIP
         </div>
         
-        <div class="nav-item" id="BUSINESSSERVICES-nav" onmouseover="show_sub('BUSINESSSERVICES')" style="color: rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255);">
-            BUSINESS SERVICES
+        <div class="nav-item" id="MEETINGS|TRAVEL|ABOUT-nav" onmouseover="show_sub('MEETINGS|TRAVEL|ABOUT')" style="color: rgb(255, 255, 255); border-left: 1px solid rgb(255, 255, 255);">
+            MEETINGS | TRAVEL | ABOUT
         </div>
         
 
@@ -152,31 +184,53 @@
     </div>
 
 
-    <form>
-        <script language="JavaScript">
-            function ViewCrossReference(selSelectObject)
-            {
-                if (selSelectObject.options[selSelectObject.selectedIndex].value != "")
-                {
-                    location.href = selSelectObject.options[selSelectObject.selectedIndex].value
-                }
-            }
-        </script>
-        <div id="language">
 
-            <select name="language" onchange="ViewCrossReference(this);" target="body">
-                <option value="/" selected="true" target="_self">English</option>
-                <option value="/es" target="_self">Español</option>
-                <option value="/cn" target="_self">中文</option>
-                <option value="/jp" target="_self">日本語</option>
-                <option value="/kr" target="_self">한국어</option>
-            </select>
-        </div>
-    </form>
+<script language="JavaScript">
+function ViewCrossReference(selSelectObject)
+{
+	if (selSelectObject.options[selSelectObject.selectedIndex].value != "")
+	{
+		location.href = selSelectObject.options[selSelectObject.selectedIndex].value
+	}
+}
+</script>
+	<script type="text/javascript">
+	    function hoverFlag() {
+		$("english").observe('mouseover', function() { $("flag-container").addClassName('english'); $("lang-title").update("<span style='margin-right:-150px;'>English</span>");});
+		$("english").observe('mouseout', function() { $("flag-container").removeClassName('english');});
+
+		$("spanish").observe('mouseover', function() { $("flag-container").addClassName('spanish'); $("lang-title").update("<span style='margin-right:-78px;'>Español</span>");});
+		$("spanish").observe('mouseout', function() {  $("flag-container").removeClassName('spanish');});
+		
+		$("chinese").observe('mouseover', function() { $("flag-container").addClassName('chinese'); $("lang-title").update("<span style='margin-right: 10px;'>华语</span>");});
+		$("chinese").observe('mouseout', function() { $("flag-container").removeClassName('chinese');});
+		
+		$("japanese").observe('mouseover', function() { $("flag-container").addClassName('japanese'); $("lang-title").update("<span style='margin-right:90px;'>日本語</span>");});
+		$("japanese").observe('mouseout', function() { $("flag-container").removeClassName('japanese');});
+		
+		$("korean").observe('mouseover', function() { $("flag-container").addClassName('korean'); $("lang-title").update("<span style='margin-right:169px;'>한국어</span>");});
+		$("korean").observe('mouseout', function() { $("flag-container").removeClassName('korean');});
+	     }
+	     Event.observe(window, 'load', hoverFlag);
+     </script>
+
+
+	<div class="flags english" id="flag-container">
+
+	<a id="english" href="/"></a>
+	<a id="spanish" href="/es"></a>
+	<a id="chinese" href="/cn"></a>
+	<a id="japanese" href="/jp"></a>
+	<a id="korean" href="/kr"></a>
+</div>
+
 </div>
 
 <!-- Sub Nav -->
 <div id="sub-nav-row">
+
+	<div id="lang-title"><span style="margin-right: -150px;">English</span></div>
+
 
     
     <!-- PLAY -->
@@ -202,7 +256,7 @@
             Shopping
         </a></div>
         
-        <div class="sub-item"><a href="/play/events">
+        <div class="sub-item"><a href="/events.html">
             Events
         </a></div>
         
@@ -215,12 +269,8 @@
             Hotels &amp; Resorts
         </a></div>
         
-        <div class="sub-item"><a href="/stay/bed-and-breakfasts">
-            Bed &amp; Breakfast
-        </a></div>
-        
-        <div class="sub-item"><a href="/stay/hostels">
-            Hostels
+        <div class="sub-item"><a href="/guides/la-living/green-la/westin-bonaventure-goes-green.jsp">
+            Green Accommodations
         </a></div>
         
     </div>
@@ -240,20 +290,12 @@
             Fun Facts
         </a></div>
         
-        <div class="sub-item"><a href="/thats-so-la/index.html">
-            Contests
-        </a></div>
-        
         <div class="sub-item"><a href="/guides/sample-itineraries">
-            Sample Itineraries
+            Itineraries
         </a></div>
         
-        <div class="sub-item"><a href="/videos.html">
-            Videos
-        </a></div>
-        
-        <div class="sub-item"><a href="/photos.html">
-            Photos
+        <div class="sub-item"><a href="http://www.discoverlosangeles.com/phototour/" target="_blank">
+            Photos &amp; Videos
         </a></div>
         
     </div>
@@ -279,8 +321,8 @@
         
     </div>
     
-    <!-- PLANNING YOUR TRIP -->
-    <div id="PLANNINGYOURTRIP-sub" class="subnav" style="display: none;">
+    <!-- PLAN YOUR TRIP -->
+    <div id="PLANYOURTRIP-sub" class="subnav" style="display: none;">
         
         <div class="sub-item"><a href="/planning-your-trip/getting-here">
             Getting Here
@@ -294,14 +336,14 @@
             Events
         </a></div>
         
-        <div class="sub-item"><a href="/offers.html">
+        <div class="sub-item"><a href="/offers/index.html">
             Special Offers
         </a></div>
         
     </div>
     
-    <!-- BUSINESS SERVICES -->
-    <div id="BUSINESSSERVICES-sub" class="subnav" style="display: none;">
+    <!-- MEETINGS | TRAVEL | ABOUT -->
+    <div id="MEETINGS|TRAVEL|ABOUT-sub" class="subnav" style="display: none;">
         
         <div class="sub-item"><a href="/business-services/meeting-planners">
             Meeting Planners
@@ -320,7 +362,7 @@
         </a></div>
         
         <div class="sub-item"><a href="/business-services/research-and-reports">
-            Research &amp; Reports
+            Research
         </a></div>
         
         <div class="sub-item"><a href="/business-services/marketing-kit/marketing-kit.jsp">
@@ -358,11 +400,11 @@
             
             ,
             
-            'PLANNINGYOURTRIP'
+            'PLANYOURTRIP'
             
             ,
             
-            'BUSINESSSERVICES'
+            'MEETINGS|TRAVEL|ABOUT'
             
             );
 
@@ -387,7 +429,12 @@
 
     // First element....
     
+
+
     show_sub('PLAY');
+
+
+
     // Hide Booking form
     function show_form() {
         $('book-item2').appear({ duration: 0.5});
@@ -398,22 +445,6 @@
 
 
 </script>
-
-
-
-
-
-
-
-<!-- Online Booking -->
-<div id="book-item"><!-- javascript: show_form(); -->
-    <div id="la"><a href="http://reservations.discoverlosangeles.com/nexres/search/power_search.cgi?&amp;src=10023176" target="_blank">LA</a></div>
-    <div id="book-now"><a href="http://reservations.discoverlosangeles.com/nexres/search/power_search.cgi?&amp;src=10023176" target="_blank">BOOK</a></div>
-    <div id="book-now2"><a href="http://reservations.discoverlosangeles.com/nexres/search/power_search.cgi?&amp;src=10023176" target="_blank">NOW</a></div>
-</div>
-<div id="book-item-space">
-    <a href="http://reservations.discoverlosangeles.com/nexres/search/power_search.cgi?&amp;src=10023176" target="_blank"><img src="/images/blank.gif" border="0" width="122" height="70"></a>
-</div>
 
 
 
@@ -433,36 +464,10 @@
     <div id="page-hdr">
          
     </div>
-    
-
-<script type="text/javascript">
-    // Runs a textual search within the given group of businesses
-    function text_search(stype, scat) {
-        var searchtext = $('paramsearchtext').value;
-        if (searchtext != 'Search Website & Member Listings' && searchtext != '') {
-            location = "" + "/search.html?"
-                       + "paramsearchtext" + "=" + escape(searchtext)
-                       + "&searchcategory=" + escape(scat)
-                       + "&searchtype=" + stype;
-        }
-    }
-</script>
-
-<div id="search">
-    <form action="/search.html">
-        <input type="hidden" name="searchcategory" value="Website">
-        <input type="hidden" name="searchtype" value="visitor">
-        <div class="field"><input type="text" id="paramsearchtext" name="paramsearchtext" value="Search Website &amp; Member Listings" onclick="if(this.value=='Search Website &amp; Member Listings') this.value=''" onblur="if(this.value=='') this.value='Search Website &amp; Member Listings'"></div>
-        <div class="btn"><a onclick="text_search('visitor','Website')">SEARCH</a></div>
-    </form>
-</div>
-
 
 
 </div>
 
-
-<!-- END SEARCH -->
 
 
 <div id="page-content">
@@ -492,248 +497,19 @@
 
 
 
-
-<!-- Search integration -->
-
-<div id="search-dest">
-    <div id="plus"><a href="javascript: toggle_search_dest()"><img src="/images/blank.gif" width="41" height="48" border="0"></a></div>
-    <div id="copy">
-        
-
-        <a href="javascript: toggle_search_dest()">Los Angeles Accommodations</a>
-
-        
-    </div>
-</div>
-<div id="search-content" style="display: none">
-    <div id="search-content2">
-        <div id="copy">
-            To select multiple entries from a listbox, hold down your Control key (Command key on the Mac) as you click the entry.
-        </div>
-        <!-- NEW -->
-
-                
-                         
-
-
-
-<!-- SEARCH FORM FOR search type LocalVisitor category Accommodations -->
-<form action="/search.html" id="searchform" name="searchform">
-	<input type="hidden" name="searchcategory" value="Accommodations">
-	<input type="hidden" name="searchtype" value="visitor">
-
-	<div id="filter-row">
-	
-
-		<div class="filter-content">
-			<div class="title">Regions</div>
-			<div class="fld">
-				<select multiple="multiple" size="8" name="field485" onclick="update_result_count('searchform')">
-					<option value="">View All</option>
-
-					<option value="accommodations_regions_field:Beach Cities">Beach Cities</option>
-
-					<option value="accommodations_regions_field:Downtown">Downtown</option>
-
-					<option value="accommodations_regions_field:Hollywood">Hollywood</option>
-
-					<option value="accommodations_regions_field:Neighboring Regions">Neighboring Regions</option>
-
-					<option value="accommodations_regions_field:San Fernando Valley">San Fernando Valley</option>
-
-					<option value="accommodations_regions_field:San Gabriel Valley">San Gabriel Valley</option>
-
-					<option value="accommodations_regions_field:Westside">Westside</option>
-
-				</select>
-			</div>
-		</div> 
-
-		<div class="filter-content">
-			<div class="title">Accommodations</div>
-			<div class="fld">
-				<select multiple="multiple" size="8" name="field486" onclick="update_result_count('searchform')">
-					<option value="">View All</option>
-
-					<option value="accommodations_accommodations_field:Bed &amp; Breakfast Inns">Bed &amp; Breakfast Inns</option>
-
-					<option value="accommodations_accommodations_field:Hostels">Hostels</option>
-
-					<option value="accommodations_accommodations_field:Hotels">Hotels</option>
-
-					<option value="accommodations_accommodations_field:Long Term Rentals">Long Term Rentals</option>
-
-					<option value="accommodations_accommodations_field:Rental Homes &amp; Estates">Rental Homes &amp; Estates</option>
-
-				</select>
-			</div>
-		</div> 
-
-		<div class="filter-content">
-			<div class="title">Amenities</div>
-			<div class="fld">
-				<select multiple="multiple" size="8" name="field487" onclick="update_result_count('searchform')">
-					<option value="">View All</option>
-
-					<option value="accommodations_amenities_field:24-Hour Room Service">24-Hour Room Service</option>
-
-					<option value="accommodations_amenities_field:Babysitting Services">Babysitting Services</option>
-
-					<option value="accommodations_amenities_field:Bathrobes">Bathrobes</option>
-
-					<option value="accommodations_amenities_field:Bell Services">Bell Services</option>
-
-					<option value="accommodations_amenities_field:Business Center">Business Center</option>
-
-					<option value="accommodations_amenities_field:Cable Television">Cable Television</option>
-
-					<option value="accommodations_amenities_field:Children's Program">Children's Program</option>
-
-					<option value="accommodations_amenities_field:Coffeemaker">Coffeemaker</option>
-
-					<option value="accommodations_amenities_field:Complimentary Airport Shuttle">Complimentary Airport Shuttle</option>
-
-					<option value="accommodations_amenities_field:Complimentary Continental Breakfast">Complimentary Continental Breakfast</option>
-
-					<option value="accommodations_amenities_field:Concierge Services">Concierge Services</option>
-
-					<option value="accommodations_amenities_field:Data Port">Data Port</option>
-
-					<option value="accommodations_amenities_field:Dry Cleaning/Laundry">Dry Cleaning/Laundry</option>
-
-					<option value="accommodations_amenities_field:Fitness Center">Fitness Center</option>
-
-					<option value="accommodations_amenities_field:Gift Shop">Gift Shop</option>
-
-					<option value="accommodations_amenities_field:Hairdryer">Hairdryer</option>
-
-					<option value="accommodations_amenities_field:Handicap Accessible">Handicap Accessible</option>
-
-					<option value="accommodations_amenities_field:High Speed Internet Access">High Speed Internet Access</option>
-
-					<option value="accommodations_amenities_field:In Room Fax">In Room Fax</option>
-
-					<option value="accommodations_amenities_field:In-Room Movies">In-Room Movies</option>
-
-					<option value="accommodations_amenities_field:In-Room Safe">In-Room Safe</option>
-
-					<option value="accommodations_amenities_field:Iron &amp; Ironing Board">Iron &amp; Ironing Board</option>
-
-					<option value="accommodations_amenities_field:Kitchenettes">Kitchenettes</option>
-
-					<option value="accommodations_amenities_field:Microwave">Microwave</option>
-
-					<option value="accommodations_amenities_field:Minibar">Minibar</option>
-
-					<option value="accommodations_amenities_field:Multi-Line Phone">Multi-Line Phone</option>
-
-					<option value="accommodations_amenities_field:Non-Smoking Rooms">Non-Smoking Rooms</option>
-
-					<option value="accommodations_amenities_field:Pets Allowed">Pets Allowed</option>
-
-					<option value="accommodations_amenities_field:Refrigerator">Refrigerator</option>
-
-					<option value="accommodations_amenities_field:Restaurant on Premises">Restaurant on Premises</option>
-
-					<option value="accommodations_amenities_field:Room Service">Room Service</option>
-
-					<option value="accommodations_amenities_field:Spa Service">Spa Service</option>
-
-					<option value="accommodations_amenities_field:Swimming Pool">Swimming Pool</option>
-
-					<option value="accommodations_amenities_field:Wireless Access">Wireless Access</option>
-
-				</select>
-			</div>
-		</div> 
-
-		<div class="filter-content">
-			<div class="title">Price</div>
-			<div class="fld">
-				<select multiple="multiple" size="8" name="field488" onclick="update_result_count('searchform')">
-					<option value="">View All</option>
-
-					<option value="accommodations_price_field:$ ($50-$100)">$ ($50-$100)</option>
-
-					<option value="accommodations_price_field:$$ ($101-$150)">$$ ($101-$150)</option>
-
-					<option value="accommodations_price_field:$$$ ($151-$200)">$$$ ($151-$200)</option>
-
-					<option value="accommodations_price_field:$$$$ ($201-$250)">$$$$ ($201-$250)</option>
-
-					<option value="accommodations_price_field:$$$$$ ($251+)">$$$$$ ($251+)</option>
-
-				</select>
-			</div>
-		</div> 
-
-		<div class="filter-content filter-content2">
-			<div class="title">Rating</div>
-			<div class="fld">
-				<select multiple="multiple" size="8" name="field489" onclick="update_result_count('searchform')">
-					<option value="">View All</option>
-
-					<option value="accommodations_rating_field:1 Diamond">1 Diamond</option>
-
-					<option value="accommodations_rating_field:1 Star">1 Star</option>
-
-					<option value="accommodations_rating_field:2 Diamonds">2 Diamonds</option>
-
-					<option value="accommodations_rating_field:2 Stars">2 Stars</option>
-
-					<option value="accommodations_rating_field:3 Diamonds">3 Diamonds</option>
-
-					<option value="accommodations_rating_field:3 Stars">3 Stars</option>
-
-					<option value="accommodations_rating_field:4 Diamonds">4 Diamonds</option>
-
-					<option value="accommodations_rating_field:4 Stars">4 Stars</option>
-
-					<option value="accommodations_rating_field:5 Diamonds">5 Diamonds</option>
-
-					<option value="accommodations_rating_field:5 Stars">5 Stars</option>
-
-				</select>
-			</div>
-		</div> 
-
-
-
-		<div id="btn">
-			<input type="image" src="/images/cal_search_btn.gif" onclick="javascript:document.searchform.submit()">
-		</div>
-		<div id="results"><span class="num" id="searchform-count">0</span>total results</div>
-	</div>
-</form>
-
-                
-
-    </div>
-</div>
-
-<!-- End Search -->
-
-
-
 <div id="main">
     <div id="title">
         Privacy Policy and Terms of Use
     </div>
     <div id="out-link">
         <a href="#" onclick="window.print()">Print</a> |
-		<script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;services=reddit%2Cdigg%2Cfacebook%2Cmyspace%2Cdelicious%2Cstumbleupon%2Ctechnorati%2Cgoogle_bmarks%2Cyahoo_bmarks%2Cyahoo_myweb%2Cnewsvine%2Cmagnolia&amp;style=default&amp;publisher=c10905e5-9341-413d-859f-ec4c9e4db8ae&amp;headerbg=%23ebebeb&amp;inactivebg=%23cfcfcf&amp;inactivefg=%234e9194&amp;linkfg=%234e9194&amp;popup=true"></script> 
-
+		<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=e7e4df87-bcbc-474d-aa99-398a94e7d8b8&amp;type=website&amp;popup=true&amp;style=rotate"></script>
     </div>
    
 
 
 	<div id="article-content">
 	
-	<!-- Anchors -->
-        	
-	
-	
-	<br>
 	
     
             
@@ -748,7 +524,914 @@
 
 <div id="right-col">
 
-	 
+    
+
+        
+
+
+
+<!-- locale setting: en_US  -->
+
+<!-- Search -->
+<script type="text/javascript">
+    // Runs a textual search within the given group of businesses
+    function text_search() {
+        var searchtext = $('paramsearchtext').value;
+        if (searchtext != 'Search Website & Member Listings' && searchtext != '') {
+            document.textSearchForm.submit();
+        }
+    }
+</script>
+
+<style>
+	#social-links{
+		width:320px;
+		height:45px;
+		margin: 0;
+	}
+	#social-links span{
+		display:block;
+		float:left;
+		font-size:12px;
+		color:#696969;
+		width:90px;
+		margin:16px 0 0 130px;
+	}
+	#social-links a#fb-link{
+		display:block;
+		float:left;
+		width:36px;
+		height:36px;
+		margin:5px;
+		background: url('/images/social/facebook-link.gif') 0 0 no-repeat;
+	}
+	#social-links a#twitter-link{
+		display:block;
+		float:left;
+		width:36px;
+		height:36px;
+		margin:5px;
+		background: url('/images/social/twitter-link.gif') 0 0 no-repeat;
+	}
+</style>
+
+<div id="social-links">
+	<span>Follow us on:</span>
+	<a id="fb-link" href="http://www.facebook.com/pages/Los-Angeles/81619266009" target="_blank"></a>
+	<a id="twitter-link" href="http://twitter.com/discover_la" target="_blank"></a>
+</div>
+
+<div id="search">
+    <form name="textSearchForm" action="/search.html" method="post">
+        <input type="hidden" name="searchtype" value="visitor">
+        <input type="hidden" name="menu" value="visitor">
+        <input type="hidden" name="lang" value="">
+        <div class="field">
+            <input type="text" id="paramsearchtext" name="paramsearchtext" value="Search Website &amp; Member Listings" onclick="if(this.value=='Search Website &amp; Member Listings') this.value='';" onblur="if(this.value=='') this.value='Search Website &amp; Member Listings';">
+        </div>
+        <div style="cursor: pointer;" class="btn" onclick="text_search();">SEARCH</div>
+    </form>
+</div>
+
+        <div id="find-box">
+            <ul>
+                <li><a class="stub" href="#"></a></li>
+                <li><a href="/search.html?searchCategory=Accommodations&amp;searchtype=visitor&amp;menu=visitor">accommodations</a></li>
+                <li><a class="col3" href="/search.html?searchCategory=Activities&amp;searchtype=visitor&amp;menu=visitor">activities</a></li>
+                <li><a class="row2" href="/search.html?searchCategory=Arts+%26+Culture&amp;searchtype=visitor&amp;menu=visitor">arts &amp; culture</a></li>
+                <li><a class="row2" href="/search.html?searchCategory=Dining&amp;searchtype=visitor&amp;menu=visitor">dining</a></li>
+                <li><a class="row2 col3" href="/search.html?searchCategory=Nightlife&amp;searchtype=visitor&amp;menu=visitor">nightlife</a></li>
+                <li><a class="row3" href="/search.html?searchCategory=Shopping&amp;searchtype=visitor&amp;menu=visitor">shopping</a></li>
+                <li><a class="row3" href="/search.html?searchCategory=Getting+Around&amp;searchtype=visitor&amp;menu=visitor">transportation</a></li>
+                <li><a class="col3 row3" href="/search.html?searchCategory=Visitor+Resources&amp;searchtype=business&amp;menu=visitor">visitor resources</a></li>
+            </ul>
+        </div>
+
+
+        
+
+
+
+
+
+
+<div class="rpanel">
+<div class="hdr"></div>
+<div class="bdy">
+<div id="book-it-hdr">
+    <div id="book-it"><strong>BOOK IT</strong></div>
+    <div id="book-it-to-la">to <strong>LA</strong> &gt;&gt;</div>
+</div>
+<div id="book-it-nav">
+    <div class="nav-item" id="book-nav-hotels"><a href="javascript: book_select('hotels')">HOTELS</a></div>
+    <div class="nav-item" id="book-nav-flights"><a href="javascript: book_select('flights')">FLIGHTS</a></div>
+    <div class="nav-item" id="book-nav-packages"><a href="javascript: book_select('packages')">PACKAGES</a></div>
+    <div class="nav-item" id="book-nav-cars"><a href="javascript: book_select('cars')">CARS</a></div>
+    <div class="nav-item" id="book-nav-activities"><a href="javascript: book_select('activities')">ACTIVITIES</a></div>
+</div>
+<div id="book-icon-hotels" style="" class="book-icon"><img src="/images/hotels-icon.gif" width="56px" border="0"></div>
+<div id="book-icon-flights" style="display: none" class="book-icon"><img src="/images/flights-icon.gif" width="56px" border="0"></div>
+<div id="book-icon-packages" style="display: none" class="book-icon"><img src="/images/packages-icon.gif" width="70px" border="0"></div>
+<div id="book-icon-cars" style="display: none" class="book-icon"><img src="/images/cars-icon.gif" width="47px" border="0"></div>
+<div id="book-icon-activities" style="display: none" class="book-icon"><img src="/images/activities-icon.gif" border="0" width="69px" :=""></div>
+
+<script type="text/javascript">
+
+
+	function addDay(date) {
+		var d = new Date(date);
+    		d.setDate(d.getDate()+1);
+		return d.print("%m/%d/%Y");
+		//this.date.print(this.dateFormat)
+	}
+
+Event.observe(window, 'load', function() {
+
+        Calendar.setup({
+            dateField      : 'check-in',
+            triggerElement : 'check-in',
+            dateFormat: '%m/%d/%Y'
+        });
+        Calendar.setup({
+            dateField      : 'check-out',
+            triggerElement : 'check-out',
+            dateFormat: '%m/%d/%Y'
+        });
+        Calendar.setup({
+            dateField      : 'depart-date',
+            triggerElement : 'depart-date',
+            dateFormat: '%m/%d/%Y'
+        });
+
+        Calendar.setup({
+            dateField      : 'return-date',
+            triggerElement : 'return-date',
+            dateFormat: '%m/%d/%Y'
+        });
+
+        Calendar.setup({
+            dateField      : 'checkin',
+            triggerElement : 'checkin',
+            dateFormat: '%m/%d/%Y'
+        });
+
+        Calendar.setup({
+            dateField      : 'checkout',
+            triggerElement : 'checkout',
+            dateFormat: '%m/%d/%Y'
+        });
+
+        Calendar.setup({
+            dateField      : 'cars-depart-date',
+            triggerElement : 'cars-depart-date',
+            dateFormat: '%m/%d/%Y'
+        });
+
+        Calendar.setup({
+            dateField      : 'cars-return-date',
+            triggerElement : 'cars-return-date',
+            dateFormat: '%m/%d/%Y'
+        });
+
+        Calendar.setup({
+            dateField      : 'act-start',
+            triggerElement : 'act-start',
+            dateFormat: '%m/%d/%Y'
+        });
+
+        Calendar.setup({
+            dateField      : 'act-thru',
+            triggerElement : 'act-thru',
+            dateFormat: '%m/%d/%Y'
+        });
+
+    });
+            function splitpkgdate(){
+                                pass = true;
+                                if($('checkin').value != ''){
+                                        date = $('checkin').value.split('/');
+                                        $('dateLeavingMonth').value = date[0];
+                                        $('dateLeavingDay').value = date[1];
+                                        $('dateLeavingYear').value = date[2];
+                                }else{
+                                        pass = false;
+                                        $('checkin').style.background = '#d3ff61';
+                                }
+                                if($('checkout').value != ''){
+                                        date = $('checkout').value.split('/');
+                                        $('dateReturningMonth').value = date[0];
+                                        $('dateReturningDay').value = date[1];
+                                        $('dateReturningYear').value = date[2];
+                                }else{
+                                        pass = false;
+                                        $('checkout').style.background = '#d3ff61';
+                                }
+                                return pass;
+                        }
+
+
+function childChangeNew(num){
+        if(num == 0){
+                for(x = 0; x < 5; x++){
+                        //$('minorsAge' + (x+1))[0].style.display = 'none';
+                        $('minorsAge' + (x+1)).hide();
+                        $('min' + (x+1)).hide();
+                }
+
+        }else{
+                for(x = 0; num > x; x++){
+                        //$('minorsAge' + (x+1))[0].style.display = 'block';
+                        $('minorsAge' + (x+1)).show();
+                        $('min' + (x+1)).show();
+                }
+        }
+ }
+
+
+
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+    else if (field.value == '') field.value = field.defaultValue;
+}
+</script>
+
+<form>
+
+<div id="book-it-bdy">
+
+<div id="book-it-hotels" class="book-it-bdy" style=""> 
+    <div id="book-check-in">Check-in: <input type="text" name="check-in" value="05/18/2011" id="check-in" onchange="$('check-out').value=addDay(this.value)"></div>
+    <div id="save-up-to"><img border="0" src="/images/save-up-to.gif"></div>
+    <div id="book-check-out">Check-out: <input type="text" name="check-out" value="05/19/2011" id="check-out"></div>
+    <div id="book-check-rooms">Rooms:
+        <select name="rooms" id="rooms">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select>
+    </div>
+    <div id="book-check-adults">
+        Adults:
+        <select name="adults" id="adults">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select>
+    </div>
+    <div id="book-check-children">
+        Children:
+        <select name="children" id="children">
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+        </select>
+    </div>
+    <div class="book-find">
+        <a href="javascript: find_hotel()">FIND HOTELS &gt;&gt;</a>
+    </div>
+    <div class="bottom-space"></div>
+</div>
+
+
+<script>
+    function find_hotel() {
+        var checkin = $('check-in').value;
+        var checkout = $('check-out').value;
+        var adults = $('adults').value;
+        var children = $('children').value;
+        var rooms = $('rooms').value;
+
+        checkind = checkin.split('/');
+        var year = checkind[2];
+        var month = checkind[0];
+        var day = checkind[1];
+
+        checkoutd = checkout.split('/');
+        var oyear = checkoutd[2];
+        var omonth = checkoutd[0];
+        var oday = checkoutd[1];
+
+        checkin = checkin.replace(/\//g, "%2f");
+        checkout = checkout.replace(/\//g, "%2f");
+
+        url = "http://reservations.discoverlosangeles.com/nexres/search/search_results.cgi?doa_mm=" + month +
+              "&doa_dd=" + day + "&doa_yy=" + year + "&dod_mm=" + omonth + "&dod_dd=" + oday + "&dod_yy=" + oyear + "&src=10023176&src_aid=&unps=y&avail=Y&tab=tab0&t1_addr=&t3_landmark=&city=Los+Angeles&state=CA&zip=&country=US&airport=&distance=15&chk_in=" + checkin + "&chk_out=" + checkout + "&num_rooms=" + rooms + "&num_adults=" + adults + "&num_children=" + children + "&minorAge1=0&minorAge2=0&minorAge3=0&minorAge4=0&name=&brand=&star_rating=&currency_id=USD&sort_order=Ranking&search_city_vicinity=1";
+        location.href = url;
+    }
+</script>
+
+<form>
+<div id="book-it-flights" style="display: none;" class="book-it-bdy">
+    <div class="book-flights-location">
+        <div class="book-flights-depart">
+		<input type="text" name="departure" id="departure" value="Departing From" onfocus="clearText(this);" onblur="clearText(this);">
+       </div>
+        <div class="book-flights-arrival"><input type="text" name="arrival" value="Los Angeles, CA" id="arrival" onfocus="clearText(this);" onblur="clearText(this);"></div>
+    </div>
+
+    <div class="book-flights-time">
+        <div class="label">Depart:</div>
+
+        <div class="fld"><input type="text" name="depart-date" value="05/18/2011" id="depart-date" onchange="$('return-date').value=addDay(this.value)"></div>
+        <div class="slct"><select name="depart-time" id="depart-time">
+            <option>12:00am</option>
+            <option>1:00am</option>
+            <option>2:00am</option>
+            <option>3:00am</option>
+            <option>4:00am</option>
+            <option>5:00am</option>
+            <option>6:00am</option>
+            <option>7:00am</option>
+            <option>8:00am</option>
+            <option>9:00am</option>
+            <option>10:00am</option>
+            <option>11:00am</option>
+            <option>12:00pm</option>
+            <option>1:00pm</option>
+            <option>2:00pm</option>
+            <option>3:00pm</option>
+            <option>4:00pm</option>
+            <option>5:00pm</option>
+            <option>6:00pm</option>
+            <option>7:00pm</option>
+            <option>8:00pm</option>
+            <option>9:00pm</option>
+            <option>10:00pm</option>
+            <option>11:00pm</option>
+            <option>Morning</option>
+            <option value="12:00pm">Afternoon</option>
+            <option>Evening</option>
+            <option selected="selected">Anytime</option>
+        </select>
+        </div>
+    </div>
+    <div class="book-flights-time">
+        <div class="label">Return:</div>
+
+        <div class="fld"><input type="text" name="return-date" value="05/19/2011" id="return-date"></div>
+        <div class="slct"><select name="return-time" id="return-time">
+            <option>12:00am</option>
+            <option>1:00am</option>
+            <option>2:00am</option>
+            <option>3:00am</option>
+            <option>4:00am</option>
+            <option>5:00am</option>
+            <option>6:00am</option>
+            <option>7:00am</option>
+            <option>8:00am</option>
+            <option>9:00am</option>
+            <option>10:00am</option>
+            <option>11:00am</option>
+            <option>12:00pm</option>
+            <option>1:00pm</option>
+            <option>2:00pm</option>
+            <option>3:00pm</option>
+            <option>4:00pm</option>
+            <option>5:00pm</option>
+            <option>6:00pm</option>
+            <option>7:00pm</option>
+            <option>8:00pm</option>
+            <option>9:00pm</option>
+            <option>10:00pm</option>
+            <option>11:00pm</option>
+            <option>Morning</option>
+            <option value="12:00pm">Afternoon</option>
+            <option>Evening</option>
+            <option selected="selected">Anytime</option>
+        </select>
+        </div>
+    </div>
+    <div class="book-flights-people">
+        <div class="book-flights-adults">
+            <select name="flights-adults" id="flights-adults">
+                <option value="1">1 Adult</option>
+                <option value="2">2 Adults</option>
+                <option value="3">3 Adults</option>
+                <option value="4">4 Adults</option>
+            </select>
+        </div>
+        <div class="book-flights-children">
+            <select name="flights-children" id="flights-children">
+                <option value="0">0 Children</option>
+                <option value="1">1 Children</option>
+                <option value="2">2 Children</option>
+                <option value="3">3 Children</option>
+                <option value="4">4 Children</option>
+            </select>
+        </div>
+        <div class="book-flights-seniors">
+            <select name="flights-seniors" id="flights-seniors">
+                <option value="0">0 Seniors</option>
+                <option value="1">1 Seniors</option>
+                <option value="2">2 Seniors</option>
+                <option value="3">3 Seniors</option>
+                <option value="4">4 Seniors</option>
+            </select>
+        </div>
+    </div>
+    <div class="book-find">
+        <a href="javascript: find_flights()">FIND FLIGHTS &gt;&gt;</a>
+    </div>
+    <div class="bottom-space"></div>
+</div>
+</form>
+
+<script type="text/javascript">
+    function find_flights() {
+	departure = $('departure').value;
+        arrival = $('arrival').value;
+        depart_date = $('depart-date').value;
+        depart_time = $('depart-time').value;
+        return_date = $('return-date').value;
+        return_time = $('return-time').value;
+        adults = $('flights-adults').value;
+        children = $('flights-children').value;
+        seniors = $('flights-seniors').value;
+        url = "http://go.travelpn.com/flights/InitialSearch.do?Service=TPN&affiliateId=10023176&subAffiliateId=&aspHeader=air&aspFooter=air&flightType=roundtrip&airlineSearchPref=searchAll&classOfService=Economy&fareType=all&adults=" + adults + "&children=" + children + "&seniors=" + seniors + "&dateTypeSelect=exactDates&leavingFrom=" + departure + "&goingTo=" + arrival + "&leavingDateExact=" + depart_date + "&leavingDate=" + depart_date + "&returningDate=" + return_date + "&returningDateExact=" + return_date + "&dateLeavingTime=" + depart_time + "&dateReturningTime=" + return_time;
+        location.href = url;
+    }
+</script>
+
+
+	<form id="inner" target="_blank" action="http://www.res99.com/nexres/start-pages/gateway.cgi" method="POST" onsubmit="return splitpkgdate();">
+	<div id="book-it-packages" style="display: none" class="book-it-bdy">
+
+
+                        <input type="hidden" name="engine" value="customtrip">
+                        <input type="hidden" name="src" value="10023176">
+                        <input type="hidden" name="action" value="search">
+				<div class="book-flights-location">
+				         <div class="book-flights-depart">
+				<input type="text" name="leavingFrom" id="leavingFrom" value="Departing From" onfocus="clearText(this);" onblur="clearText(this);">
+				</div>
+				<div class="book-flights-arrival">
+				<input type="text" name="goingTo" id="goingTo" value="LAX" onfocus="clearText(this);" onblur="clearText(this);">
+				</div>
+				</div>
+				<div class="book-flights-time">
+				        <div class="label">Depart:</div>
+
+				        <div class="fld"><input type="text" name="checkin" value="05/18/2011" id="checkin" onchange="$('checkout').value=addDay(this.value)"></div>
+
+				</div>
+    				<div class="book-flights-time">
+			        <div class="label">Return:</div>
+
+			        <div class="fld"><input type="text" name="checkout" value="05/19/2011" id="checkout"></div>
+
+                                <input type="hidden" id="dateLeavingMonth" name="dateLeavingMonth">                     
+				<input type="hidden" id="dateLeavingDay" name="dateLeavingDay">                     
+				<input type="hidden" id="dateLeavingYear" name="dateLeavingYear"> 
+                                 <input type="hidden" id="dateReturningMonth" name="dateReturningMonth">                     
+				 <input type="hidden" id="dateReturningDay" name="dateReturningDay">                     
+				 <input type="hidden" id="dateReturningYear" name="dateReturningYear">
+
+				</div>
+				<div class="book-flights-people">
+        <div class="book-flights-adults">
+                                <select id="adults" name="adults">
+    <option value="0">0 Adults</option>
+    <option value="1" selected="">1 Adult</option>
+    <option value="2">2 Adults</option>
+    <option value="3">3 Adults</option>
+    <option value="4">4 Adults</option>
+    <option value="5">5 Adults</option>
+    </select> 
+
+	</div>
+	 <div class="book-flights-seniors">
+                                        <select id="seniors" name="seniors">
+    <option value="0" selected="">0 Seniors</option>
+    <option value="1">1 Senior</option>
+    <option value="2">2 Seniors</option>
+    <option value="3">3 Seniors</option>
+    <option value="4">4 Seniors</option>
+    <option value="5">5 Seniors</option>
+    </select>
+	</div> <div class="book-flights-children">
+                                <select id="children" name="children" onchange="childChangeNew(this.options[this.selectedIndex].value)">
+    <option value="0" selected="">0 Children</option>
+    <option value="1">1 Child</option>
+    <option value="2">2 Children</option>
+    <option value="3">3 Children</option>
+    <option value="4">4 Children</option>
+    </select>
+	</div>
+	 <div class="book-flights-children">
+    <select style="display: none;" name="minorAge1Room1" id="minorsAge1">
+    <option>-?-</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+    <option value="13">13</option>
+    <option value="14">14</option>
+    </select>
+    <select style="display: none;" name="minorAge2Room1" id="minorsAge2">
+    <option>-?-</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+    <option value="13">13</option>
+    <option value="14">14</option>
+    </select>
+  <select style="display: none;" name="minorAge3Room1" id="minorsAge3">
+    <option>-?-</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+    <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+    <option value="13">13</option>
+    <option value="14">14</option>
+    </select>
+    <select style="display: none;" name="minorAge4Room1" id="minorsAge4">
+    <option>-?-</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+    <option value="5">5</option>
+    <option value="6">6</option>
+    <option value="7">7</option>
+    <option value="8">8</option>
+    <option value="9">9</option>
+	 <option value="10">10</option>
+    <option value="11">11</option>
+    <option value="12">12</option>
+    <option value="13">13</option>
+    <option value="14">14</option>
+    </select>
+	</div>
+	</div>
+	<input type="submit" class="find_buttons" value="FIND DETAILS >>">
+    <div class="bottom-space"></div>
+</div>
+</form>
+<form>
+
+<div id="book-it-cars" style="display: none" class="book-it-bdy">
+    <div id="book-cars-pickup">
+        <select name="pickup" id="pickup" onchange="show_car_choice($(this).value)">
+            <option value="">Pick-up At</option>
+            <option value="cairport" id="car_airport">At an airport</option>
+            <option value="caddress" id="car_address">Near an address</option>
+            <option value="cpoi" id="car_poi">Near a place of interest</option>
+        </select>
+
+        <input id="cairport" type="text" style="">
+
+        <input id="caddress" type="text" style="display: none;">
+
+
+        <input id="cpoi" type="text" style="display: none;">
+
+    </div>
+    <div class="spacer">
+    </div>
+    <div class="book-flights-time">
+        <div class="label">Pick-up: </div>
+
+
+        <div class="fld"><input type="text" name="car-depart-date" value="05/18/2011" id="cars-depart-date" onchange="$('cars-return-date').value=addDay(this.value)"></div>
+        <div class="slct"><select name="depart-time" id="cars-depart-time">
+            <option>12:00am</option>
+            <option>1:00am</option>
+            <option>2:00am</option>
+            <option>3:00am</option>
+            <option>4:00am</option>
+            <option>5:00am</option>
+            <option>6:00am</option>
+            <option>7:00am</option>
+            <option>8:00am</option>
+            <option>9:00am</option>
+            <option>10:00am</option>
+            <option>11:00am</option>
+            <option>12:00pm</option>
+            <option>1:00pm</option>
+            <option>2:00pm</option>
+            <option>3:00pm</option>
+            <option>4:00pm</option>
+            <option>5:00pm</option>
+            <option>6:00pm</option>
+            <option>7:00pm</option>
+            <option>8:00pm</option>
+            <option>9:00pm</option>
+            <option>10:00pm</option>
+            <option>11:00pm</option>
+            <option>Morning</option>
+            <option value="12:00pm">Afternoon</option>
+            <option>Evening</option>
+            <option selected="selected">Anytime</option>
+        </select>
+        </div>
+    </div>
+
+
+    <div class="book-flights-time">
+        <div class="label">Drop-off: </div>
+
+        <div class="fld"><input type="text" name="cars-return-date" value="05/19/2011" id="cars-return-date"></div>
+        <div class="slct"><select name="return-time" id="cars-return-time">
+            <option>12:00am</option>
+            <option>1:00am</option>
+            <option>2:00am</option>
+            <option>3:00am</option>
+            <option>4:00am</option>
+            <option>5:00am</option>
+            <option>6:00am</option>
+            <option>7:00am</option>
+            <option>8:00am</option>
+            <option>9:00am</option>
+            <option>10:00am</option>
+            <option>11:00am</option>
+            <option>12:00pm</option>
+            <option>1:00pm</option>
+            <option>2:00pm</option>
+            <option>3:00pm</option>
+            <option>4:00pm</option>
+            <option>5:00pm</option>
+            <option>6:00pm</option>
+            <option>7:00pm</option>
+            <option>8:00pm</option>
+            <option>9:00pm</option>
+            <option>10:00pm</option>
+            <option>11:00pm</option>
+            <option>Morning</option>
+            <option value="12:00pm">Afternoon</option>
+            <option>Evening</option>
+            <option selected="selected">Anytime</option>
+        </select>
+        </div>
+    </div>
+    <div class="book-cars-type">
+        <div class="label">Car type: </div>
+        <div class="fld">
+            <select name="carcode" id="carcode">
+                <option value="TB">5 basic types</option>
+                <option value="CC">Compact</option>
+                <option value="CP">Pickup Truck</option>
+                <option value="EC">Economy</option>
+                <option value="FC">Full Size</option>
+                <option value="IC">Intermediate</option>
+                <option value="LC">Luxury</option>
+                <option value="MV">Van</option>
+                <option value="PC">Premium</option>
+                <option value="SC">Standard</option>
+                <option value="SF">Sport Utility</option>
+                <option value="ST">Convertible</option>
+                <option value="SW">Station Wagon</option>
+                <option value="XC">Specialty</option>
+            </select>
+        </div>
+    </div>
+    <div class="book-find">
+        <a href="javascript: find_cars()">FIND CARS &gt;&gt;</a>
+    </div>
+    <div class="bottom-space"></div>
+</div>
+</form>
+<script type="text/javascript">
+
+    function find_cars() {
+        pickup = $('pickup').value;
+
+        var depart_date = $('cars-depart-date').value;
+        depart_date = depart_date.split("/");
+        var year = depart_date[2];
+        var month = depart_date[0];
+        var day = depart_date[1];
+        depart_time = $('cars-depart-time').value;
+        if (depart_time == 'Anytime') {
+            depart_time = '';
+        }
+        return_date = $('cars-return-date').value;
+        return_date = return_date.split("/");
+        var year2 = return_date[2];
+        var month2 = return_date[0];
+        var day2 = return_date[1];
+        return_time = $('cars-return-time').value;
+        if (return_time == 'Anytime') {
+            return_time = '';
+        }
+        carcode = $('carcode').value;
+
+
+        if (pickup == 'cairport') {
+            pickup = $('cairport').value;
+            url = "http://go.travelpn.com/car/PostFrontDoor.do?Service=TPN&affiliateId=10023176&subAffiliateId=&aspHeader=car&aspFooter=car&rdoLocPickup=pu_air" +
+                  "&pickupCity=" + pickup + "&pickupTime=" + depart_time + "&pickupMonth=" + month + "&pickupDayOfMonth=" + day + "&rdoChkDropoff=RT&dropoffTime="
+                    + return_time + "&dropoffMonth=" + month2 + "&dropoffDayOfMonth=" + day2 + "&carCompany=BV&aircon=R&transmission=A&carTypes=" + carcode;
+        } else if (pickup == 'caddress') {
+            pickup = $('caddress').value.replace(/ /g, "%20");
+
+            url = "http://go.travelpn.com/car/PostFrontDoor.do?Service=TPN&affiliateId=10023176&subAffiliateId=&aspHeader=car&aspFooter=car&rdoLocPickup=pu_addr" +
+                  "&pickupGeoStreet=" + pickup + "&pickupGeoCity=Los%20Angeles&pickupGeoState=CA&pickupGeoZip=&pickupGeoCountry=US&chkIncludeGeoAirportLocations=on&pickupTime=" + depart_time + "&pickupMonth=" + month + "&pickupDayOfMonth=" + day + "&rdoChkDropoff=RT&dropoffTime="
+                    + return_time + "&dropoffMonth=" + month2 + "&dropoffDayOfMonth=" + day2 + "&carCompany=BV&aircon=R&transmission=A&carTypes=" + carcode;
+        } else if (pickup == 'cpoi') {
+            pickup = $('cpoi').value.replace(/ /g, "%20");
+            url = "http://go.travelpn.com/car/PostFrontDoor.do?Service=TPN&affiliateId=10023176&subAffiliateId=&aspHeader=car&aspFooter=car&rdoLocPickup=pu_poi" +
+                  "&pickupPoi=" + pickup + "&pickupPoiState=CA&pickupTime=" + depart_time + "&pickupMonth=" + month + "&pickupDayOfMonth=" + day + "&rdoChkDropoff=RT&dropoffTime="
+                    + return_time + "&dropoffMonth=" + month2 + "&dropoffDayOfMonth=" + day2 + "&carCompany=BV&aircon=R&transmission=A&carTypes=" + carcode;
+
+        }
+
+
+        else {
+            url = "http://go.travelpn.com/car/PostFrontDoor.do?Service=TPN&affiliateId=10023176&subAffiliateId=&aspHeader=car&aspFooter=car&rdoLocPickup=" + pickup
+                    + "&pickupCity=Los Angeles, CA&pickupTime=" + depart_time + "&pickupMonth=" + month + "&pickupDayOfMonth=" + day + "&rdoChkDropoff=RT&dropoffTime="
+                    + return_time + "&dropoffMonth=" + month2 + "&dropoffDayOfMonth=" + day2 + "&carCompany=BV&aircon=R&transmission=A&carTypes=" + carcode;
+        }
+
+        location.href = url;
+    }
+</script>
+
+<form>
+<div id="book-it-activities" style="display: none" class="book-it-bdy">
+    <div id="book-activities-start">
+        Start:
+        <input type="text" name="start" value="05/18/2011" id="act-start" onchange="$('act-thru').value=addDay(this.value)">
+    </div>
+    <div id="book-activities-thru">
+        Thru:
+        <input type="text" name="thru" value="05/19/2011" id="act-thru">
+    </div>
+    <div class="spacer">
+    </div>
+    <div class="check-row">
+        <div class="left">
+            <input type="checkbox" name="act-all" id="act-all"> All Activities
+        </div>
+        <div class="right">
+        </div>
+    </div>
+    <div class="check-row">
+        <div class="left"><input type="checkbox" name="act-out" id="act-out"> Outdoors</div>
+        <div class="right"><input type="checkbox" name="act-sho" id="act-sho"> Shows/Events</div>
+    </div>
+    <div class="check-row">
+        <div class="left"><input type="checkbox" name="act-tra" id="act-tra"> Transportation</div>
+        <div class="right"><input type="checkbox" name="act-din" id="act-din"> Dining</div>
+    </div>
+    <div class="check-row">
+        <div class="left"><input type="checkbox" name="act-att" id="act-att"> Attractions</div>
+        <div class="right"><input type="checkbox" name="act-tou" id="act-tou"> Tour/Activites</div>
+    </div>
+    <div class="book-find">
+        <a href="javascript: find_acts()">FIND ACTIVITIES &gt;&gt;</a>
+    </div>
+    <div class="bottom-space"></div>
+</div>
+
+<script type="text/javascript">
+    function find_acts() {
+        from = $('act-start').value;
+
+        from_date = from.split("/");
+
+        from = from.replace(/\//g, "%2f");
+        var year = from_date[2];
+        var month = from_date[0];
+        var day = from_date[1];
+        thru = $('act-thru').value;
+        thru_date = thru.split("/");
+        thru = thru.replace(/\//g, "%2f");
+        var year2 = thru_date[2];
+        var month2 = thru_date[0];
+        var day2 = thru_date[1];
+        if ($('act-all').checked) {
+            all = "1";
+            out = "1";
+            sho = "1";
+            tra = "1";
+            din = "1";
+            att = "1";
+            tou = "1";
+        } else {
+
+            all = "";
+            out = "";
+            if ($('act-out').checked) {
+                out = "1";
+            }
+            sho = "";
+            if ($('act-sho').checked) {
+                sho = "1";
+            }
+            tra = "";
+            if ($('act-tra').checked) {
+                tra = "1";
+            }
+            din = "";
+            if ($('act-din').checked) {
+                din = "1";
+            }
+            att = "";
+            if ($('act-att').checked) {
+                att = "1";
+            }
+            tou = "";
+            if ($('act-tou').checked) {
+                tou = "1";
+            }
+        }
+        url = "http://reservations.discoverlosangeles.com/nexres/activities/search_results.cgi?src=10023176&src_aid=&ses=&city=Los+Angeles&citytext=&fromdate=" +
+              from + "&from_mm=" + month + "&from_dd=" + day + "&from_yy=" + year + "&todate=" + thru + "&to_mm=" + month2 + "&to_dd=" + day2 + "&to_yy=" + year2 +
+              "&ACTTYPE_all=" + all +
+              "&ACTTYPE_attraction=" + att + "&ACTTYPE_dining=" + din + "&ACTTYPE_outdoor=" + out + "&ACTTYPE_shows=" + sho + "&ACTTYPE_tours=" + tou +
+              "&ACTTYPE_transport=" + tou + "&search=SEARCH";
+        location.href = url;
+    }
+</script>
+
+
+
+</form></div></form>
+
+</div>
+</div>
+<script type="text/javascript">
+    var arrBooks = Array('hotels', 'flights', 'packages', 'cars', 'activities');
+    page = "hotels";
+
+    function book_select(p) {
+        page = p;
+        book_select2();
+    }
+    function book_select2() {
+        for (i = 0; i < arrBooks.length; i++) {
+           $('book-icon-' + arrBooks[i]).hide();
+           $('book-it-' + arrBooks[i]).hide();
+        }
+        $('book-icon-' + page).show();
+        $('book-it-' + page).show();
+        num = $('book-nav-' + page).positionedOffset();
+        l = num[0] + 0;
+        t = num[1] + 0;
+        eval("$('book-icon-" + page + "').setStyle({ left:'" + l + "px', top:'" + t + "px' });");
+	    clearTimeout(t);
+    }
+
+    Event.observe(window, 'load', function() { book_select2() });
+
+//    t = setInterval("book_select2()", 500);
+</script>
+
+
+<script type="text/javascript">
+
+    function show_car_choice(item) {
+        $('cairport').hide();
+        $('cpoi').hide();
+        $('caddress').hide();
+
+        $(item).show();
+    }
+    show_car_choice('cairport');
+
+</script>
+
+		<style>
+	#content #right-col .rpanel .bdy a:link,
+	#content #right-col .rpanel .bdy a:visited,
+	#content #right-col .rpanel .bdy a:link,
+	#content #right-col .rpanel .bdy a:visited {
+        color: #FFFFFF;
+        text-decoration: none;
+}
+
+
+		</style>
+
+
+    
+
+	
 
 	
     	
@@ -759,11 +1442,11 @@
 
 
 
-<div id="contest-promo"> <a href="/stay/hotels-and-resorts/hot-hotel-deals.jsp"> <img src="/images/hotelhotdeals2.jpg" width="315" border="0" title=""></a> </div>
+<div id="contest-promo"> <a href="/play/request-a-visitors-guide.jsp"> <img src="/images/visitorguide2010small.jpg" width="204" border="0" title="" align="right"></a> </div>
 
-<div id="contest-promo"> <a href="/thats-so-la/submit-ad.html"> <img src="/images/tsla-contest.jpg" width="315" border="0" title=""></a> </div>
+<div id="contest-promo"> <a href="http://www.discoverlosangeles.com/offers/" target="_blank"> <img src="/images/specicalnew.jpg" width="204" border="0" title="" align="right"></a> </div>
 
-<div id="contest-promo"> <a href="/laartsmonth/"> <img src="/images/artsmonth2.jpg" width="315" border="0" title=""></a> </div>
+<div id="contest-promo"> <a href="/play/request-a-visitors-guide.jsp"> <img src="/images/visitorguide2010small.jpg" width="204" border="0" title="" align="right"></a> </div>
 
 
     
@@ -913,6 +1596,7 @@
 </div>
 
 
+
                 
                 
 
@@ -947,158 +1631,178 @@
 
 
 <div id="bot-border"><img src="/images/blank.gif" height="5"></div>
-
-
-<div id="top-border2"><img src="/images/blank.gif" height="5"></div>
+	<div id="top-border2"><img src="/images/blank.gif" height="5"></div>
 <div id="container3">
+
 
     
 
 
-    <div class="footer-item">
-        <div class="hdr">PLAY</div>
+    <div class="footer-item footer-item3">
+        <div class="hdr">PLAY
+        </div>
         <div class="links">
 
             
-            <a href="/play/activities-and-recreation">Activities &amp; Recreation</a>
+            <a href="/play/activities-and-recreation">Activities &amp; Recreation
+            </a>
              | 
-            <a href="/play/arts-music-and-entertainment">Arts, Music &amp; Entertainment</a>
+            <a href="/play/arts-music-and-entertainment">Arts, Music &amp; Entertainment
+            </a>
              | 
-            <a href="/play/dining">Dining</a>
+            <a href="/play/dining">Dining
+            </a>
              | 
-            <a href="/play/nightlife">Nightlife</a>
+            <a href="/play/nightlife">Nightlife
+            </a>
              | 
-            <a href="/play/shopping">Shopping</a>
+            <a href="/play/shopping">Shopping
+            </a>
              | 
-            <a href="/play/events">Events</a>
+            <a href="/events.html">Events
+            </a>
             
         </div>
-        </div>
-        
-        <div class="footer-item2">
-            <div id="links">
-                <a href="/">Home</a> |
-                <a href="#">Site Map</a> |
-                <a href="/privacy-policy-terms-of-use.html">Privacy Policy and Terms of Use</a>
+    </div>
+    
+    <div class="footer-item2">
+        <div id="links"><a href="/">Home</a> | <a href="#">Site Map</a> |
+            <a href="/privacy-policy-terms-of-use.html">Privacy Policy and Terms
+                of Use</a></div>
+        <div id="copy"> © 2011 LA INC. All rights reserved.</div>
+    </div>
+    <div class="footer-bot2">
+        <div class="fleft">
+            
+
+            <div class="footer-item">
+                <div class="hdr">STAY
+                </div>
+                <div class="links">
+                    <a href="/stay/hotels-and-resorts">Hotels &amp; Resorts
+                    </a>
+                     | 
+                    <a href="/guides/la-living/green-la/westin-bonaventure-goes-green.jsp">Green Accommodations
+                    </a>
+                    </div>
+
             </div>
-            <div id="copy">
-                © 2009 LA INC. All rights reserved.
+
+            
+
+            <div class="footer-item">
+                <div class="hdr">GUIDES
+                </div>
+                <div class="links">
+                    <a href="/guides/la-living">LA Living
+                    </a>
+                     | 
+                    <a href="/guides/neighborhoods">Neighborhoods
+                    </a>
+                     | 
+                    <a href="/guides/fun-facts">Fun Facts
+                    </a>
+                     | 
+                    <a href="/guides/sample-itineraries">Itineraries
+                    </a>
+                     | 
+                    <a href="http://www.discoverlosangeles.com/phototour/" target="_blank">Photos &amp; Videos
+                    </a>
+                    </div>
+
             </div>
-            <div id="lawa">
-                <a href="http://www.lawa.org"><img src="/images/lawa-logo.png" border="0"></a>
+
+            
+
+            <div class="footer-item">
+                <div class="hdr">TRANSPORTATION
+                </div>
+                <div class="links">
+                    <a href="/getting-around/air">Air
+                    </a>
+                     | 
+                    <a href="/getting-around/land">Land
+                    </a>
+                     | 
+                    <a href="/getting-around/sea">Sea
+                    </a>
+                     | 
+                    <a href="/getting-around/maps-and-directions">Maps &amp; Directions
+                    </a>
+                    </div>
+
             </div>
-        </div>
-        
-
-
-    <div class="footer-item">
-        <div class="hdr">STAY</div>
-        <div class="links">
 
             
-            <a href="/stay/hotels-and-resorts">Hotels &amp; Resorts</a>
-             | 
-            <a href="/stay/bed-and-breakfasts">Bed &amp; Breakfast</a>
-             | 
-            <a href="/stay/hostels">Hostels</a>
-            
-        </div>
-        </div>
-        
 
+            <div class="footer-item">
+                <div class="hdr">PLAN YOUR TRIP
+                </div>
+                <div class="links">
+                    <a href="/planning-your-trip/getting-here">Getting Here
+                    </a>
+                     | 
+                    <a href="/planning-your-trip/travel-resources">Travel Resources
+                    </a>
+                     | 
+                    <a href="/events.html">Events
+                    </a>
+                     | 
+                    <a href="/offers/index.html">Special Offers
+                    </a>
+                    </div>
 
-    <div class="footer-item">
-        <div class="hdr">GUIDES</div>
-        <div class="links">
-
-            
-            <a href="/guides/la-living">LA Living</a>
-             | 
-            <a href="/guides/neighborhoods">Neighborhoods</a>
-             | 
-            <a href="/guides/fun-facts">Fun Facts</a>
-             | 
-            <a href="/thats-so-la/index.html">Contests</a>
-             | 
-            <a href="/guides/sample-itineraries">Sample Itineraries</a>
-             | 
-            <a href="/videos.html">Videos</a>
-             | 
-            <a href="/photos.html">Photos</a>
-            
-        </div>
-        </div>
-        
-
-
-    <div class="footer-item">
-        <div class="hdr">TRANSPORTATION</div>
-        <div class="links">
+            </div>
 
             
-            <a href="/getting-around/air">Air</a>
-             | 
-            <a href="/getting-around/land">Land</a>
-             | 
-            <a href="/getting-around/sea">Sea</a>
-             | 
-            <a href="/getting-around/maps-and-directions">Maps &amp; Directions</a>
-            
-        </div>
-        </div>
-        
 
+            <div class="footer-item">
+                <div class="hdr">MEETINGS | TRAVEL | ABOUT
+                </div>
+                <div class="links">
+                    <a href="/business-services/meeting-planners">Meeting Planners
+                    </a>
+                     | 
+                    <a href="/business-services/travel-professionals">Travel Professionals
+                    </a>
+                     | 
+                    <a href="/business-services/media">Media
+                    </a>
+                     | 
+                    <a href="/business-services/members">Members
+                    </a>
+                     | 
+                    <a href="/business-services/research-and-reports">Research
+                    </a>
+                     | 
+                    <a href="/business-services/marketing-kit/marketing-kit.jsp">Marketing Kit
+                    </a>
+                     | 
+                    <a href="/business-services/la-inc">LA INC.
+                    </a>
+                    </div>
 
-    <div class="footer-item">
-        <div class="hdr">PLANNING YOUR TRIP</div>
-        <div class="links">
-
-            
-            <a href="/planning-your-trip/getting-here">Getting Here</a>
-             | 
-            <a href="/planning-your-trip/travel-resources">Travel Resources</a>
-             | 
-            <a href="/events.html">Events</a>
-             | 
-            <a href="/offers.html">Special Offers</a>
-            
-        </div>
-        </div>
-        
-
-
-    <div class="footer-item">
-        <div class="hdr">BUSINESS SERVICES</div>
-        <div class="links">
+            </div>
 
             
-            <a href="/business-services/meeting-planners">Meeting Planners</a>
-             | 
-            <a href="/business-services/travel-professionals">Travel Professionals</a>
-             | 
-            <a href="/business-services/media">Media</a>
-             | 
-            <a href="/business-services/members">Members</a>
-             | 
-            <a href="/business-services/research-and-reports">Research &amp; Reports</a>
-             | 
-            <a href="/business-services/marketing-kit/marketing-kit.jsp">Marketing Kit</a>
-             | 
-            <a href="/business-services/la-inc">LA INC.</a>
-            
-        </div>
-        </div>
-        
 
+
+        </div>
+
+        <div class="fright">
+            <div id="lawa"><a href="http://www.lawa.org" target="_blank"><img src="/images/lawa-logo.png" border="0" width="157"></a> <br> <a href="#"><img src="/images/footer-logo.png" border="0"></a></div>
+        </div>
+    </div>
 </div>
+   
 <div id="ad-footer">
-<script language="JavaScript">
+		<script language="JavaScript">
 OAS_AD('x11');
 </script>
+	</div>
+	<div id="bot-border2"><img src="/images/blank.gif" height="5"></div>
 </div>
 
-<div id="bot-border2"><img src="/images/blank.gif" height="5"></div>
-</div>
 
 
 
@@ -1256,16 +1960,20 @@ OAS_AD('x11');
 
 </script>
 
+<script id="aptureScript" type="text/javascript" src="http://www.apture.com/js/apture.js?siteToken=vTnY3kS" charset="utf-8"></script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script src="/ga_keyword2.js" type="text/javascript"></script> 
+document.write(unescape("%3Cscript src='" + "/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="/ga.js" type="text/javascript"></script>
+<script src="/ga_keyword2.js" type="text/javascript"></script>
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-5027411-1"); 
 pageTracker._initData(); 
 pageTracker._trackPageview();
 </script>
+
+
+
 
 
 
