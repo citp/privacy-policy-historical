@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214161252id_/http%3A//www.colapublib.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518222200id_/http%3A//www.colapublib.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | County of Los Angeles Public Library
 
