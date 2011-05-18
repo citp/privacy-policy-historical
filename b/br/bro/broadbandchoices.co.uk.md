@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115025659id_/http%3A//www.broadbandchoices.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518144029id_/http%3A//www.broadbandchoices.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BroadbandChoices.co.uk
 
@@ -92,7 +92,7 @@ We link to third party websites from our own websites. We cannot be held respons
 
 We collect cookie-based information about users visiting our website by analysing site traffic, which includes the use of cookies. A cookie is text file which is stored on your computer and is sent by a web server to a web browser, which enables the server to collect information back from the browser. This enables us to identify if you have visited our websites before, for example.
 
-To improve our users' experience, some of the user information collected by cookies whilst using our websites is shared with ad and affiliate networks to show targeted website ads based on visits to this and other websites within the network. This type of targeted advertising is known as interest-based advertising. You can learn more or choose not to be shown ads selected using interest-based advertising by visiting the information page on [interest based advertising](http://www.broadbandchoices.co.uk/goto.asp?type=1&LinkTrackerID=740 "interest based advertising").
+To improve our users' experience, some of the user information collected by cookies whilst using our websites is shared with ad and affiliate networks to show targeted website ads based on visits to this and other websites within the network. This type of targeted advertising is known as interest-based advertising. You can learn more or choose not to be shown ads selected using interest-based advertising by visiting the information page on [interest based advertising](http://www.broadbandchoices.co.uk/goto.asp?type=1&LinkTrackerID=740& "interest based advertising").
 
 Information collected by cookies and other tracking methods is anonymous and does NOT contain any information that can personally identify you.
 
