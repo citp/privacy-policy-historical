@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infocuts.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117132302id_/http%3A//www.infocuts.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infocuts.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519082635id_/http%3A//www.infocuts.com/static/privacy-policy) for the most accurate reproduction.*
 
 # | InfoCuts | Privacy Policy
 
