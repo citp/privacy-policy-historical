@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123173117id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519132433id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
 
 # Takeaway Food Delivery
 
@@ -88,6 +88,8 @@ For questions or concerns relating to privacy, we can be contacted by email at [
 PO Box 53910,  
 London. SW15 2ZU.  
 Telephone: 0871 789 1533
+
+Calls to and from hungryhouse may be recorded for quality and training purposes.
 
 
 
