@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goanimate.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218193321id_/http%3A//goanimate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goanimate.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520012828id_/http%3A//goanimate.com/privacy) for the most accurate reproduction.*
 
 # GoAnimate - We treat your personal information very carefully
 
