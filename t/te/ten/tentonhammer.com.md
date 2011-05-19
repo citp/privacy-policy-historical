@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tentonhammer.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416150210id_/http%3A//www.tentonhammer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tentonhammer.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519110651id_/http%3A//www.tentonhammer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Ten Ton Hammer
 
@@ -18,11 +18,13 @@ Although we take precautions to prevent unfortunate occurrences, Ten Ton Hammer 
 
 Please be aware that your user nickname and rating are visible to all members. Credit and debit card numbers are NOT visible to members and are also NOT visible to Ten Ton Hammer personnel. All other Personal Information is available to our administrators and to other authorized persons.
 
-World Chess Network will not disclose your Personal Information to other members except as described in this Privacy Policy, unless we are compelled by law to do so. Should you disclose your Personal Information to another member, that member might disclose it to others with or without your permission. We do not assume any responsibility or liability should you voluntarily disclose your Personal Information to others.
+Master Games International, Inc. will not disclose your Personal Information to other members except as described in this Privacy Policy, unless we are compelled by law to do so. Should you disclose your Personal Information to another member, that member might disclose it to others with or without your permission. We do not assume any responsibility or liability should you voluntarily disclose your Personal Information to others.
 
 You agree that we may sell, assign, license, or otherwise transfer to a third party your Personal Information in connection with a sale, assignment, joint venture or other transfer or disposition of a portion or all of the assets or shares of Master Games International, Inc. or its affiliates.
 
 In our sole discretion, we still reserve the right to make exceptions whenever we believe that an emergency, illegal activity or other reasonable basis exists for notifying or providing your Personal Information to the appropriate authorities.
+
+In order to combat spam and maintain the quality of the content on the Site, we may use textual analysis and other technologies when you submit comments or other information. For more information, [read the Mollom Privacy Policy](http://mollom.com/web-service-privacy-policy).
 
 **Communication**
 
@@ -33,12 +35,3 @@ Any communication with another member or visitor to the Site is NOT private and 
 Your right to privacy is important to us. Ten Ton Hammer obtains certain Personal Information (as later defined) in order to provide our members with news, updates and other information we believe will be useful to you. Your Personal Information is provided to us upon registration and during your use of Master Games' internet sites. ("Site").
 
 Ten Ton Hammer is committed to providing members with a Site that respects their privacy. Please review this Privacy Policy which is subject to change from time to time. Note, however, that this Privacy Policy only applies to our Site and does NOT apply to the web sites or Internet sites of any other person or entity. Should you have any questions or comments, please contact one of our administrators at **[admin-tth@tentonhammer.com](mailto:admin-tth@tentonhammer.com)**.
-
-* * *
-
-**Licenses**
-
-_Ten Ton Hammer Audio Player_ based on [Audio Player Wordpress plugin](http://www.1pixelout.net/code/audio-player-wordpress-plugin/) and used [under license](http://creativecommons.org/licenses/by/2.0/).
-
-  
-
