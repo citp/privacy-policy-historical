@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the originenergy.com.au privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118063547id_/http%3A//www.originenergy.com.au/932/Confidentiality-and-Privacy-Directive) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originenergy.com.au privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519203730id_/http%3A//www.originenergy.com.au/932/Confidentiality-and-Privacy-Directive) for the most accurate reproduction.*
 
 # Confidentiality and Privacy Directive - Origin Energy Australia
 
-## The Origin Energy Privacy Policy
+[](https://web.archive.org/2/About "About")
+
+The Origin Energy Privacy Policy
 
 We understand the importance you place on Privacy. That's why Origin Energy is committed to compliance with the laws that protect your personal information. Our Privacy Policy explains what we do in relation to the management of your personal information, as required by the Federal Privacy Act and the National Privacy Principles.
 
@@ -17,6 +19,3 @@ Delivering improved value and services to our customers is our commitment. So, f
 We seek to ensure that all personal information we collect is accurate and complete. You have a right to access the personal information that Origin Energy holds about you. If you wish to update your details or if you have any questions about your Privacy, please contact us on – 13 24 61 (Gas and electricity) or 13 24 62 (LPG).
 
 [Download our privacy policies ](https://web.archive.org/files/confidentiality_directive_sept_07.pdf) (pdf 67 kb).
-
-  
-back to top
