@@ -1,0 +1,852 @@
+<!--The following is the downloaded HTML source of the nwnatural.com privacy policy that was archived on 2011-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519101607id_/http%3A//www.nwnatural.com/GlobalBottomFooterNavigation/Privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+<meta name="description" content="">
+<meta name="keywords" content="">
+<title>
+	
+	Privacy
+
+</title><link rel="stylesheet" type="text/css" href="/css/style.css"><link rel="stylesheet" type="text/css" href="/css/type-image.css"><link rel="stylesheet" type="text/css" href="/Content/StyleExtensions.css"><link rel="stylesheet" type="text/css" href="/Content/DatePicker.css"><link rel="Stylesheet" type="text/css" media="print" href="/css/print.css">
+
+<!--[if lt IE 8]>
+<script src="/Scripts/modernizr-1.6.min.js" type="text/javascript"></script>
+<![endif]-->
+
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="/css/ie8.css" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="/css/ie7-only.css" />
+<![endif]-->
+
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="/css/ie7.css" />
+<![endif]-->
+
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="/css/ie6.css" />
+<script src="/js/dd_pngfix.js"></script>
+<script>
+DD_belatedPNG.fix('div, li, img, a, span');
+</script>
+<![endif]-->
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/pstrength.js"></script>
+<!-- required plugins -->
+<script type="text/javascript" src="/scripts/date.js"></script>
+<!--[if IE]><script type="text/javascript" src="/scripts/jquery.bgiframe.js"></script><![endif]-->
+
+<script src="/js/jquery.datePicker-2.1.2.js" type="text/javascript"></script>
+<script src="/Scripts/faq_behavior.js" type="text/javascript"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.date-pick').datePicker();
+        $(".qpShow").click(function () {
+            $("#quick-profile-inner").find("div#qp-content:visible").slideUp();
+            $("#quick-profile-inner").find("div#qp-content:hidden").slideDown();
+        });
+    });
+    $(function () {
+        $('.password').pstrength();
+    });
+</script>
+
+
+      <!-- Google Analytics Start -->
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-18951492-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
+      <!-- Google Analytics End -->
+</head>
+<body id="sub">
+<div id="wrap"><!--OPEN LAYOUT WRAPPER -->
+  <div id="page"><!--BEGIN PAGE -->
+     
+<!-- need some javascript to handle this, right now it's in master -->
+<div class="center">
+  <div id="quick-profile">
+    <div id="quick-profile-inner">
+      <span class="biggums">My Profile</span><span><a class="qpShow hide" href="javascript:void(0);">Sign In</a><a class="qpNoscript" href="/">Sign In</a></span>
+      <div id="qp-content">
+        <div id="qp-signin">
+            <form id="logon" method="post" action="https://www.nwnatural.com/user/logon?ReturnUrl=%2FGlobalBottomFooterNavigation%2FPrivacy">
+            <table>
+              <tbody><tr>
+                <td><input class="default-value" id="username" maxlength="50" name="username" type="text" value="Email Address"></td>
+              </tr>
+              <tr>
+                <td><input class="default-value" id="password" maxlength="16" name="password" type="password" value="Password"></td>
+              </tr>
+              <tr>
+                <td><input type="submit" id="qp-signin-button" name="qp-signin-button" value=""></td>
+              </tr>
+            </tbody></table>
+          </form>
+        </div>
+ 
+          <ul id="qp-signin-sublinks">
+            <li><a href="/User/ForgotPassword">Forgot your password?</a></li>
+            <li><a href="/Register">Register Now</a></li>
+            <li><a href="/User/HelpSignIn">Need Help?</a></li>
+          </ul>
+      
+      </div>
+    </div>
+  </div>
+</div>
+<script language="javascript" type="text/javascript">
+    $(document).ready(function ($) {
+        $('.qpNoscript').addClass('hide');
+        $('.qpShow').removeClass('hide');
+    });
+
+    var active_color = '#333'; // Colour of user provided text
+    var inactive_color = '#999'; // Colour of default text
+
+    $(document).ready(function () {
+
+        $("input.default-value").css("color", inactive_color);
+        var default_values = new Array();
+        $("input.default-value").focus(function () {
+            if (!default_values[this.id]) {
+                default_values[this.id] = this.value;
+            }
+            if (this.value == default_values[this.id]) {
+                this.value = '';
+                this.style.color = active_color;
+            }
+            $(this).blur(function () {
+                if (this.value == '') {
+                    this.style.color = inactive_color;
+                    this.value = default_values[this.id];
+                }
+            });
+        });
+    });
+</script>
+
+    <img src="/css/img/logo.jpg" class="print-only">
+     <div id="header"><!--BEGIN HEADER -->
+      <a href="/"><div id="logo"></div></a>
+      
+      <div id="rightinfo">
+        <ul>
+          <li><a href="/">Home</a> | </li>
+          <li><a href="/AboutNWNatural/TheCompany/Careers">Careers</a> | </li>
+          <li><a href="http://www.snl.com/irweblinkx/corporateprofile.aspx?iid=4057132">Investors</a> | </li>
+          <li class="last"><a href="/ContactUs">Contact Us</a></li>
+          
+        </ul>
+        </div>
+        <div style="clear:right;float:right">
+        <p>Customer Service: <b>800-422-4012</b><br>
+        Natural Gas Odor? <b>800-882-3377</b></p>
+      </div>
+
+     
+      
+      <ul id="mainnav">
+        
+                <li class="current"><a href="/"><span>Customer Service</span></a>
+          <ul class="subnav">
+                        
+                            <li><a href="/AccountDashboard">Dashboard</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/CustomerService/PayYourBill">Pay Your Bill</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Payment">Pay Online</a></li>
+                                 
+                                 <li><a href="/CustomerService/PayYourBill/PaymentPlans">Payment Plans</a></li>
+                                 
+                                 <li><a href="/CustomerService/PayYourBill/BillPaymentAssistance">Bill Payment Assistance</a></li>
+                                 
+                                 <li><a href="/CustomerService/PayYourBill/WaysToPay">Ways to Pay</a></li>
+                                 
+                                 <li><a href="/CustomerService/PayYourBill/ManageYourBill">Manage Your Bill</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/CustomerService/BillingOptions">Billing Options</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Programs/Paperless">Paperless Billing</a></li>
+                                 
+                                 <li><a href="/Billing/RecentBill">View Your Bill</a></li>
+                                 
+                                 <li><a href="/CustomerService/BillingOptions/OregonWARMBillingMethod">Oregon WARM Billing Method</a></li>
+                                 
+                                 <li><a href="/ChangeAccountInformation">Update Mailing Address</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Service" class="current">Start/Stop/Move</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Service/CheckGasAvailability">Check Gas Availability</a></li>
+                                 
+                                 <li><a href="/ServiceStart/Start">Start Service for Home</a></li>
+                                 
+                                 <li><a href="/CustomerService/StartStopMove/StartServiceForBusiness" class="current">Start Service for Business</a></li>
+                                 
+                                 <li><a href="/ServiceMove/Move">Move/Transfer</a></li>
+                                 
+                                 <li><a href="/ServiceStop">Stop Service</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Profile">Manage Profile</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Profile/Edit">Update Email &amp; Password</a></li>
+                                 
+                                 <li><a href="/Profile/Accounts">Add/Remove Accounts</a></li>
+                                 
+                                 <li><a href="/Payment/PaymentAccounts">Manage Bank Accounts</a></li>
+                                 
+                                 <li><a href="/Profile/Delete">Delete Profile</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/CustomerService/EquipmentServices">Equipment Services</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/CustomerService/EquipmentServices/InspectionInformation">Inspection Information</a></li>
+                                 
+                                 <li><a href="/Inspection">Schedule an Inspection</a></li>
+                                 
+                                 <li><a href="/CustomerService/EquipmentServices/FindAContractor">Find a Contractor</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/ContactUs">Contact Us</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/ContactUs/Email">Contact by Email</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+          </ul>
+        </li>
+
+        
+                <li><a href="/Residential"><span>Residential</span></a>
+          <ul class="subnav">
+                        
+                            <li><a href="/Residential/Services">Services</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Residential/Services/FindAContractor">Find a Contractor</a></li>
+                                 
+                                 <li><a href="/Residential/Services/StartStopMove">Start/Stop/Move</a></li>
+                                 
+                                 <li><a href="/Residential/Services/811CallBeforeYouDig">811 Call Before You Dig</a></li>
+                                 
+                                 <li><a href="/Residential/Services/EquipmentInspection">Equipment Inspection</a></li>
+                                 
+                                 <li><a href="/Residential/Services/ConvertToGas">Convert to Gas</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Residential/Conserve">Conserve</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Residential/Conserve/EnergyEfficiencyAssistance">Energy Efficiency Assistance</a></li>
+                                 
+                                 <li><a href="/Residential/Conserve/EnergyEfficiencyTips">Energy Efficiency Tips</a></li>
+                                 
+                                 <li><a href="/Residential/Conserve/EnergyTrustOfOregonServicesAndIncentives">Energy Efficiency Programs</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Residential/BenefitsOfGas">Benefits of Gas</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Residential/BenefitsOfGas/EnergyEfficient">Energy Efficient</a></li>
+                                 
+                                 <li><a href="/Residential/BenefitsOfGas/EnvironmentallyFriendly">Environmentally Friendly</a></li>
+                                 
+                                 <li><a href="/Residential/BenefitsOfGas/Affordable">Affordable</a></li>
+                                 
+                                 <li><a href="/Residential/BenefitsOfGas/ComfortAndConvenience">Comfort and Convenience</a></li>
+                                 
+                                 <li><a href="/Residential/BenefitsOfGas/Equipment">Equipment</a></li>
+                                 
+                                 <li><a href="/Residential/BenefitsOfGas/ConvertToGasResidential">Convert to Gas Residential</a></li>
+                                 
+                                 <li><a href="/Residential/BenefitsOfGas/FindAContractor">Find a Contractor</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Residential/SpecialOffers">Special Offers</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Residential/SpecialOffers/EquipmentTuneUp">Equipment Tune Up</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Residential/Safety">Safety</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Residential/Safety/811CallBeforeYouDig">811 Call Before You Dig</a></li>
+                                 
+                                 <li><a href="/Residential/Safety/EarthquakePreparedness">Earthquake Preparedness</a></li>
+                                 
+                                 <li><a href="/Residential/Safety/GasEducation">Gas Education</a></li>
+                                 
+                                 <li><a href="/Residential/Safety/GasLeaks">Gas Leaks</a></li>
+                                 
+                                 <li><a href="/Residential/Safety/SafetyTips">Safety Tips</a></li>
+                                 
+                                 <li><a href="/Residential/Safety/NaturalGasMSDS">Natural Gas MSDS</a></li>
+                                 
+                                 <li><a href="/Residential/Safety/PipelineLocationInformation">Pipeline Location Information</a></li>
+                                 
+                                 <li><a href="/Residential/Safety/PipelineRightOfWay">Pipeline Rights-of-Way</a></li>
+                                 
+                                 <li><a href="/Residential/Safety/PipelineIntegrityManagementProgram">Pipeline Integrity Management</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Residential/SmartEnergy">Smart Energy</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Residential/SmartEnergy/AboutSmartEnergy">About Smart Energy</a></li>
+                                 
+                                 <li><a href="/Residential/SmartEnergy/BattlingClimateChange">Battling Climate Change</a></li>
+                                 
+                                 <li><a href="/Residential/SmartEnergy/WhatWeAreDoing">What We Are Doing</a></li>
+                                 
+                                 <li><a href="/Residential/SmartEnergy/WhatYouCanDo">What You Can Do</a></li>
+                                 
+                                 <li><a href="/Residential/SmartEnergy/SmartEnergyCircle">Smart Energy Circle</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+          </ul>
+        </li>
+
+        
+                <li><a href="/Business"><span>Business</span></a>
+          <ul class="subnav">
+                        
+                            <li><a href="/Business/Services">Services</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Business/Services/EquipmentServices">Equipment Services</a></li>
+                                 
+                                 <li><a href="/Business/Services/ResourcesForIndustrialCustomers">Industrial Customer Resources</a></li>
+                                 
+                                 <li><a href="/Business/Services/FieldServices">Field Services</a></li>
+                                 
+                                 <li><a href="/Business/Services/CommercialContractorHandbook">Contractor Handbook</a></li>
+                                 
+                                 <li><a href="/Business/Services/ConvertToGasForBusiness">Convert to Gas for Business</a></li>
+                                 
+                                 <li><a href="/Business/Services/EMap/">E-Map</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Business/Conserve">Conserve</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Business/Conserve/CommercialBuildings">Commercial Buildings</a></li>
+                                 
+                                 <li><a href="/Business/Conserve/CommercialKitchens">Commercial Kitchens</a></li>
+                                 
+                                 <li><a href="/Business/Conserve/EnergyEfficiencyPrograms">Energy Efficiency Programs</a></li>
+                                 
+                                 <li><a href="/Business/Conserve/Greenhouses">Greenhouses</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Business/BenefitsOfGas">Benefits of Gas</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Business/BenefitsOfGas/EnergyEfficient">Energy Efficient</a></li>
+                                 
+                                 <li><a href="/Business/BenefitsOfGas/EnvironmentallyFriendly">Environmentally Friendly</a></li>
+                                 
+                                 <li><a href="/Business/BenefitsOfGas/Affordable">Affordable</a></li>
+                                 
+                                 <li><a href="/Business/BenefitsOfGas/ABetterChoice">A Better Choice </a></li>
+                                 
+                                 <li><a href="/Business/BenefitsOfGas/Equipment">Equipment</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Business/TransportationAndStorage">Transportation &amp; Storage</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Business/TransportationAndStorage/GasTransportation">Gas Transportation</a></li>
+                                 
+                                 <li><a href="/Business/TransportationAndStorage/StorageServices">Storage Services</a></li>
+                                 
+                                 <li><a href="/GasTransportation/Status">System Status</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Business/Partners">Partners</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Business/Partners/BuilderServices">Builder Services</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Business/Safety">Safety</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Business/Safety/811CallBeforeYouDig">811 Call Before You Dig</a></li>
+                                 
+                                 <li><a href="/Business/Safety/EarthquakePreparedness">Earthquake Preparedness</a></li>
+                                 
+                                 <li><a href="/Business/Safety/GasEducation">Gas Education</a></li>
+                                 
+                                 <li><a href="/Business/Safety/GasLeaks">Gas Leaks</a></li>
+                                 
+                                 <li><a href="/Business/Safety/SafetyTips">Safety Tips</a></li>
+                                 
+                                 <li><a href="/Business/Safety/NaturalGasMSDS">Natural Gas MSDS</a></li>
+                                 
+                                 <li><a href="/Business/Safety/PipelineLocationInformation">Pipeline Location Information</a></li>
+                                 
+                                 <li><a href="/Business/Safety/PipelineRightOfWay">Pipeline Right of Way</a></li>
+                                 
+                                 <li><a href="/Business/Safety/PipelineIntegrityManagementProgram">Pipeline Integrity Management</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/Business/SmartEnergy">Smart Energy</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/Business/SmartEnergy/AboutSmartEnergy">About Smart Energy</a></li>
+                                 
+                                 <li><a href="/Business/SmartEnergy/BattlingClimateChange">Battling Climate Change</a></li>
+                                 
+                                 <li><a href="/Business/SmartEnergy/WhatWeAreDoing">What We Are Doing</a></li>
+                                 
+                                 <li><a href="/Business/SmartEnergy/WhatYouCanDo">What You Can Do</a></li>
+                                 
+                                 <li><a href="/Business/SmartEnergy/SmartEnergyCircle">Smart Energy Circle</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+          </ul>
+        </li>
+
+        
+                <li><a href="/AboutNWNatural"><span>About NW Natural</span></a>
+          <ul class="subnav">
+                        
+                            <li><a href="/AboutNWNatural/TheCompany">The Company</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/AboutNWNatural/TheCompany/Overview">Overview</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/TheCompany/Careers">Careers</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/TheCompany/Subsidiaries">Subsidiaries</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/TheCompany/PipelineAndNewGasSupply">Pipeline &amp; New Gas Supply</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/TheCompany/JDPowerReport">JD Power Report</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/TheCompany/PurchaseOrderTerms">Purchase Order Terms</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/AboutNWNatural/Community">Community</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/AboutNWNatural/Community/CorporateContributions">Corporate Contributions</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/Community/NWNaturalSponsorshipGuidelines">Sponsorship Guidelines</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/AboutNWNatural/EnvironmentalStewardship">Environmental Stewardship</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/AboutNWNatural/EnvironmentalStewardship/SmartEnergy">Smart Energy</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/EnvironmentalStewardship/PromotingEnergyEfficiency">Promoting Energy Efficiency</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/EnvironmentalStewardship/BetterCleanerMoreDependable">Direct Use</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/EnvironmentalStewardship/AdvancedTechnologies">Advanced Technologies</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/EnvironmentalStewardship/BusinessPractices">Business Practices</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/EnvironmentalStewardship/EnvironmentalPartners">Environmental Partners</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/AboutNWNatural/RatesAndRegulations">Rates &amp; Regulations</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/AboutNWNatural/RatesAndRegulations/GasPriceInformation">Gas Price Information</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/RatesAndRegulations/BusinessCommodityPriceInfo">Business Commodity Price Info</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/RatesAndRegulations/RateSummariesHistories">Rate Summaries/Histories</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/RatesAndRegulations/RegulatoryActivities">Regulatory Activities</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/RatesAndRegulations/SB408IncomeTaxAdjustment">SB 408 Income Tax Adjustment</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/RatesAndRegulations/OregonTariffBook">Oregon Tariff Book</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/RatesAndRegulations/WashingtonTariffBook">Washington Tariff Book</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+                            <li><a href="/AboutNWNatural/PressRoom">Press Room</a>
+                                <ul class="dropdown">
+                                
+                            
+                                 <li><a href="/AboutNWNatural/PressRoom/2011PressReleases">2011 Press Releases</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/PressRoom/2010PressReleases">2010 Press Releases</a></li>
+                                 
+                                 <li><a href="http://www.snl.com/irweblinkx/news.aspx?iid=4057132">Financial Press Releases</a></li>
+                                 
+                                 <li><a href="/AboutNWNatural/PressRoom/PressRoomFAQ">Press Room FAQ</a></li>
+                                 
+                                 </ul>
+
+                            </li>
+                             
+          </ul>
+        </li>
+
+        
+      </ul>
+
+      <div id="top-search">
+        <form action="/Search" method="get">
+            <input type="hidden" name="cx" value="009240323313612407544:2gfkd7ihpck">
+            <input type="hidden" name="cof" value="FORID:10">
+            <input type="hidden" name="ie" value="UTF-8">
+            <input type="text" name="q" id="search-value" tabindex="1">
+            <input type="submit" name="sa" value="" class="search-button">
+        </form>
+      </div>
+      <div id="subnav-placeholder"></div>
+    </div><!--END HEADER -->
+
+
+    
+    <div id="content" class="sub"><!--BEGIN CONTENT -->
+    
+      <div id="leftnav"><!--BEGIN LEFT NAV-->
+      
+        <ul id="primary"><!--TOP LEVEL-->
+          
+                  <li><a class="sub" href="/AccountDashboard"><span>Dashboard</span></a>
+                  
+          </li>
+                  
+                  <li><a class="sub" href="/CustomerService/PayYourBill"><span>Pay Your Bill</span></a>
+                  
+          </li>
+                  
+                  <li><a class="sub" href="/CustomerService/BillingOptions"><span>Billing Options</span></a>
+                  
+          </li>
+                  
+                  <li class="current"><a class="sub" href="/Service"><span><span class="arrow">Start/Stop/Move</span></span></a>
+                  
+                      <ul class="secondary">
+                        
+                                            <li>
+                                                <a href="/Service/CheckGasAvailability">
+                                                    <span>Check Gas Availability</span>
+                                                </a>
+                                            </li> 
+                                        
+                                            <li>
+                                                <a href="/ServiceStart/Start">
+                                                    <span>Start Service for Home</span>
+                                                </a>
+                                            </li> 
+                                        
+                                    
+                                                           <li class="current">
+                                                        <a href="/CustomerService/StartStopMove/StartServiceForBusiness">
+                                                            <span>Start Service for Business</span>
+                                                        </a>
+                                                    </li> 
+
+
+                                        
+                                            <li>
+                                                <a href="/ServiceMove/Move">
+                                                    <span>Move/Transfer</span>
+                                                </a>
+                                            </li> 
+                                        
+                                            <li>
+                                                <a href="/ServiceStop">
+                                                    <span>Stop Service</span>
+                                                </a>
+                                            </li> 
+                                        
+                      </ul>
+
+
+          </li>
+                  
+                  <li><a class="sub" href="/Profile"><span>Manage Profile</span></a>
+                  
+          </li>
+                  
+                  <li><a class="sub" href="/CustomerService/EquipmentServices"><span>Equipment Services</span></a>
+                  
+          </li>
+                  
+                  <li><a class="sub" href="/ContactUs"><span>Contact Us</span></a>
+                  
+          </li>
+                  
+        </ul><!--END TOP LEVEL-->
+        <div id="left-tout"><p class="byline">Manage your account online.</p>
+<p><a class="byline-link" href="/Register">» Register today</a></p>
+</div>
+
+
+      </div><!--END LEFT NAV-->
+
+
+     
+      <div>
+          
+          
+
+    <div id="main" class="double"><div class="big-story"><h1 class="head">NW Natural Privacy Policy</h1>
+<h2 class="subhead">Your privacy is protected by NW Natural.</h2>
+<p class="focus">As of June 11, 2010, our Privacy Policy has changed. NW Natural wants you to be comfortable knowing that any personal information you provide when using our website will be protected. We have made every effort to ensure that the online interactive portion of this site is secured by the best technology available. </p>
+<p class="focus">You can protect yourself further by signing off of the interactive portion of our website when you have finished using it. If you choose to link to any of the other websites NW Natural has provided for your convenience, NW Natural’s privacy and security protections may not apply. You are encouraged to check the privacy and security provisions of those websites before you use them.</p>
+</div><div class="sub-stories"><h3 class="section-head">Information collection</h3>
+<p>We collect up to three types of information when you interact with our website:</p>
+<ul class="standard">
+<li>Automatically Collected Information—Our website uses cookies, which are small files kept on your computer which help us provide you with a more consistent experience as you browse the site. These files are very small, and do not contain any personal information about you. You can remove cookies through your browser’s “Options” or “Preferences” screen. We also collect visitor information through our website’s log files. These files contain information such as IP address, date and number of visits, web browser used, and pages visited. We do not use this information to identify you personally.</li>
+<li>Customer Information—We encourage customers to sign up for and manage their gas accounts through our website. When signing up for an online account, we collect personal information necessary to set up an account, including name, address, telephone number, social security number, driver license number, and financial information. If you choose to pay your bill using our online services, bank account number and bank routing number are collected and optionally stored for you future use. This financial information is encrypted for your protection. All information submitted by customers in relation to managing their NW Natural gas accounts is governed by our Customer Information Policy. It is our general policy not to disclose Customer Information to third parties without first obtaining permission.</li>
+<li>Offers, Programs, and Promotions—Our website also features information on offers, programs, and promotions that do not directly relate to managing your natural gas account. website visitors can provide us with information so that they can participate in or receive more information about an offer, program or promotion. We will not share any personally identifying information, such as name, address, telephone number, e-mail address, and other identifying information without your permission, unless we are required to divulge this information (1) to comply with law or legal process; (2) it is necessary to protect and defend NW Natural’s rights or property; (3) it is necessary to protect against misuse or unauthorized use of this website; (4) it is necessary to protect the safety or property of our customers or the public. However, we may disclose information to a contractor or service provider to perform work on our behalf, but only if the information is protected by a confidentiality agreement so that the information is only used for the purpose intended.</li>
+</ul>
+</div><div class="sub-stories"><h3 class="section-head">Security</h3>
+<p>Our website uses a variety of hardware and software, including firewalls, digital certificates, authentication procedures, intrusion detection, and Secure Socket Layer (SSL) encryption technology for security purposes.</p>
+</div><div class="sub-stories"><h3 class="section-head">Customer information policy</h3>
+<p>(Last updated June 11, 2010) NW Natural (the Company) maintains Customer Information on the customer’s behalf, for the purpose of providing utility services.  As such, the Company will provide a customer with his/her Customer Information upon explicit request from the Customer.  The customer’s positive identity must be verified to the Company’s satisfaction prior to its release. </p>
+<p>The Company will not disclose Customer Information to a third party unless the disclosure is in accordance with an exception outlined below and is not otherwise prohibited by law.</p>
+<h3 class="section-head">Definitions</h3>
+<p>For the purpose of this Policy, Customer Information is any information purchased or compiled by the Company in the normal course of providing utility services, including but not limited to name, address, account number, type or classification of service, current or historic gas usage, expected patterns of use, types of facilities used in providing service, individual contract terms and conditions, price or current charges, billing records, or installed appliance(s) or equipment.</p>
+<h3 class="section-head">Proprietary customer information</h3>
+<p>A type of Customer Information where data attributes are such that either individually or in combination, the information presented can be attributed to a specific customer.  Examples of data attributes that specifically identify a customer include but are not limited to name and address.</p>
+<h3 class="section-head">Aggregated information</h3>
+<p>A type of Customer Information where data attributes cannot be attributed to a specific customer.  Energy usage evaluations for a class of customers (i.e. all residential) are an example of Aggregated Information. For the purpose of this Policy, Direct Marketing is any activity by a third party with the intent of informing individual customers about a product or service, or trying to incent a change in gas usage.</p>
+</div><div class="sub-stories"><h3 class="section-head">Explicit prohibitions</h3>
+<p>Notwithstanding the exceptions outlined below:</p>
+<ul class="standard">
+<li>Per WAC 480-90-153, under no circumstance may the Company disclose Proprietary Customer Information to a third party for the purpose of Direct Marketing to Washington customers unless the customer gives the Company written permission to do so.</li>
+<li>Unless legally required or with the customer’s explicit consent, the Company will not share Proprietary Customer Information protected by the password provision required per OAR 860-021-0009(6).</li>
+<li>Unless legally required, the Company will honor a customer’s request to not have Customer Information shared with a third party; however a customer’s ability to opt-out of sharing Customer Information does not extend to Aggregated Information.</li>
+</ul>
+</div><div class="sub-stories"><h3 class="section-head">Exceptions</h3>
+<ul class="standard">
+<li>Legal Requirement—The Company will disclose Customer Information to the extent disclosure is legally required.  This includes but is not limited to responding to requests by law enforcement officers, responding to subpoenas, and circumstances where a law, regulation, or tariff requires disclosure.</li>
+<li>Low Income Service—The Company may disclose Customer Information to agencies providing low-income weatherization or low-income assistance services on behalf of the Company and funded through the Company’s Oregon Schedule 301, Public Purpose Funding Surcharge or provided under Washington Schedules I or J.  Customer participation in these programs is considered consent to share Proprietary Customer Information, and will supersede a customer’s opt-out at the time the request is made to participate in such a program.  Such agencies may not use Customer Information for Direct Marketing.</li>
+<li>Establishing Credit for Utility Service—The Company may disclose Customer Information to other utilities when such request is in accordance with OAR 860-021-0200.</li>
+<li>Third Party Contractors—The Company may disclose Customer Information to third party contractors performing work on behalf of NW Natural provided that the work does not include direct marketing of non-utility products and services that NW Natural is not currently offering. Third party contractors must execute a Company-approved Information Transfer Agreement, including a confidentiality agreement, prior to obtaining access to Customer Information.</li>
+<li>Aggregated Information—he Company will disclose Aggregated Information to: 1)Federal or State agencies, and municipalities; 2) Industry organizations, including but not limited to, the American Gas Association (AGA).</li>
+<li>Energy Trust of Oregon—The Company will disclose Customer Information to the Energy Trust of Oregon (Energy Trust) to the degree information sharing is required by an OPUC Administrative Rule and/or a contract between the Company and the Energy Trust, or the Company determines that Customer Information is necessary for the Energy Trust to determine the technical potential for demand side management in the Company’s service territory.  Subcontractors of the Energy Trust must sign a Company-approved confidentiality agreement prior to obtaining access to Customer Information.</li>
+<li>Ad Hoc Provision—Customer Information may be disclosed in limited situations if the Corporate Secretary and General Counsel both determine that sharing of Customer Information is in the best interest of the Company and its customers.  The party receiving Customer Information must execute a Company-approved Information Transfer Agreement, including a confidentiality agreement, prior to obtaining access to Customer Information.</li>
+<li>Establishing Credit for Utility Service—The Company may disclose Customer Information to other utilities when such request is in accordance with OAR 860-021-0200.</li>
+</ul>
+<a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.nwnatural.com&amp;lang=en" title="Verisign logo" target="_blank"><img border="0" title="Verisign logo" alt="Verisign logo" src="/uploadedImages/Verisignlogo.jpg" class="design_selected_field"></a></div></div>
+
+
+      </div>
+      <div id="sidebar"></div>
+    </div><!--END CONTENT -->
+    
+    
+     <div id="footer" class="home"><!--BEGIN FOOTER -->
+      <div id="footer-left"><!--BEGIN LEFT SIDE OF FOOTER -->
+        <div class="footer-column first"><h6>My Account</h6>
+<ul>
+<li><a title="Change account profle" href="/Profile/Edit">Change account profile</a></li>
+<li><a title="Go Paperless" href="/paperless">Go Paperless</a></li>
+<li><a title="Pay online FREE" href="/Payment">Pay online FREE</a></li>
+<li><a title="Start Auto Pay" href="/AutoPay">Start Auto Pay</a></li>
+<li><a title="View usage history" href="/Billing/ChartHistory">View usage history</a></li>
+</ul>
+</div>
+
+<div class="footer-column"><h6>Residential</h6>
+<ul>
+<li><a title="Call before you dig" href="/Residential/Safety/811CallBeforeYouDig">Call before you dig</a></li>
+<li><a title="Energy efficiency" href="/Residential/Conserve">Energy efficiency</a></li>
+<li><a title="Equipment inspection" href="/Residential/Services/EquipmentInspection">Equipment inspection</a></li>
+<li><a title="Smart Energy" href="/Residential/SmartEnergy">Smart Energy</a></li>
+<li><a title="Special Offers" href="/Residential/SpecialOffers">Special offers</a></li>
+</ul>
+</div>
+
+<div class="footer-column"><h6>Business</h6>
+<ul>
+<li><a title="Call before you dig" href="/Residential/Safety/811CallBeforeYouDig">Call before you dig</a></li>
+<li><a title="Conserve energy" href="/Business/Conserve">Conserve energy</a></li>
+<li><a title="EWEB steam transition project" href="/Business/Partners/EWEBSteamProject/">EWEB steam project</a></li>
+<li><a title="Gas commodity price" href="/AboutNWNatural/RatesAndRegulations/BusinessCommodityPriceInfo">Gas commodity price</a></li>
+<li><a title="Smart Energy" href="/Residential/SmartEnergy">Smart Energy</a></li>
+</ul>
+</div>
+
+<div class="footer-column last"><h6>At Your Service</h6>
+<ul>
+<li><a title="Convert to gas" href="/Residential/BenefitsOfGas/ConvertToGasResidential">Convert to gas</a></li>
+<li><a title="Enroll in Smart Energy" href="/Residential/SmartEnergy">Enroll in Smart Energy</a></li>
+<li><a title="Find a contractor" href="/CustomerService/EquipmentServices/FindAContractor">Find a contractor</a></li>
+<li><a title="Schedule a tune up" href="/Residential/SpecialOffers/EquipmentTuneUp">Schedule a tune up</a></li>
+<li><a title="Start an online account" href="/Register">Start an online account</a></li>
+</ul>
+</div>
+
+<div id="copyright" class="home"><ul>
+<li><a href="/GlobalBottomFooterNavigation/TermsAndConditions">Terms and Conditions</a> | </li>
+<li><a href="/GlobalBottomFooterNavigation/Privacy">Privacy</a> | </li>
+<li><a href="/GlobalBottomFooterNavigation/SiteMap">Site Map</a> | </li>
+<li><a href="/CustomerService/BillingOptions/ViewYourBill/ViewBillInserts">Bill Inserts</a> | </li>
+<li><a href="/GlobalBottomFooterNavigation/Espanol/">En Espanol</a> | </li>
+<li><a title="Share This" href="mailto:">Share This</a> | </li>
+<li><a title="Contact Us" href="/GlobalBottomFooterNavigation/ContactUs">Contact Us</a></li>
+</ul>
+<p style="MARGIN-LEFT: 20px">Copyright ©2011 NW Natural</p>
+</div>
+
+
+       
+      </div><!--END LEFT SIDE OF FOOTER -->
+      <div id="footer-right"><!--BEGIN RIGHT SIDE OF FOOTER -->
+        <div id="home-buttons">
+           <p><a class="button-smart-energy" href="/Programs/Paperless">go paperless<br><span class="sub">enroll today</span></a></p>
+
+<p><a class="button-gas-benefits" href="/Residential/BenefitsOfGas">Go Blue<br><span class="sub">Learn More</span></a></p>
+
+<p><a class="tout-button fixed" href="/ContactUs" title="Contact Us »">Contact Us »</a></p>
+
+
+        </div>
+       </div>
+    
+    </div><!--END FOOTER -->
+
+
+   
+  </div><!--END PAGE -->
+</div><!--CLOSE LAYOUT WRAPPER -->
+
+
+    <script language="javascript" type="text/javascript">
+        var isSubmitted = false;
+        $('form').submit(function () {
+            if (isSubmitted) return false;
+            isSubmitted = true;
+        });
+    </script>
+
+
+
+
+
+</body></html>
