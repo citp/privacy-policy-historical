@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the broderbund.com privacy policy that was archived on 2010-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222022432id_/http%3A//www.broderbund.com/c-privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the broderbund.com privacy policy that was archived on 2011-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519090154id_/http%3A//www.broderbund.com/c-privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -45,22 +45,85 @@
 	    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
+    
 </head>
 <body>
+   <script language="javascript">
+	//Set the number of days before your cookie should expire
 
+	var ExpireDays = 90;
+
+	//Do not change anything below this line q
+
+	var str = document.location.search;
+	var qstr = str.substring(1, str.length)
+
+	function SetCookie(cookieName,cookieValue,nDays)
+	{
+		var today = new Date();
+		var expire = new Date();
+		
+		if (nDays==null || nDays==0) nDays=1;
+		expire.setTime(today.getTime() + 3600000*24*nDays);
+		document.cookie = cookieName+"="+escape(cookieValue)+";expires="+expire.toGMTString();
+	}
+
+	thevars = qstr.split("&"); 
+    for(i=0;i<thevars.length;i++) 
+    { 
+        cookiecase = thevars[i].split("=");
+        switch(cookiecase[0]) 
+        { 
+            case "e": 
+                thevars[i] = thevars[i].replace("=","='")+"'"; 
+                eval(thevars[i]); 
+                SetCookie("EmailAddr",e,ExpireDays); 
+                break; 
+            case "j": 
+                thevars[i] = thevars[i].replace("=","='")+"'"; 
+                eval(thevars[i]); 
+                SetCookie("JobID",j,ExpireDays); 
+                break; 
+            case "l": 
+                thevars[i] = thevars[i].replace("=","='")+"'"; 
+                eval(thevars[i]); 
+                SetCookie("ListID",l,ExpireDays); 
+                break
+            case "jb": 
+                thevars[i] = thevars[i].replace("=","='")+"'";
+                eval(thevars[i]); 
+                SetCookie("BatchID",jb,ExpireDays); 
+                break; 
+            case "u": 
+                thevars[i] = thevars[i].replace("=","='")+"'"; 
+                eval(thevars[i]); 
+                SetCookie("UrlID",u,ExpireDays); 
+                break; 
+            case "mid": 
+                thevars[i] = thevars[i].replace("=","='")+"'"; 
+                eval(thevars[i]); 
+                SetCookie("MemberID",mid,ExpireDays); 
+                break; 
+            default:
+                break; 
+        } 
+    }
+</script> 
    <div id="B2C_RelatedSites">
     <ul class="menu">
-        <li>visit our sites:
-        </li><li class="bicycle" title="BicycleCardGames.com - Official Card Games Site | Play Solitaire Online Free"><a href="http://www.bicyclecardgames.com">Bicycle Card Games</a>
-        </li><li class="broderbund" title="Broderbund.com - Official Software Site | The Print Shop | PrintMaster | Mavis Beacon"><a class="site_on" nohref="">Broderbund</a>
-        </li><li class="encore" title="Encore.com - Corporate Site | Download Games and Software"><a href="http://www.encore.com">Encore</a>
-        </li><li class="hoyle" title="Hoylegaming.com | Download Card Games | Casino Games | Puzzle Games | Board Games"><a href="http://www.hoylegaming.com">Hoyle Gaming</a>
-        </li><li class="king" title="King of Cheap Games"><a href="http://www.kingofcheapgames.com">King of Cheap Games</a>
-        </li><li class="printprojects" title="PrintYourProjects.com | Print Greeting Cards, Photos, Custom Mugs, Gifts, Calendars"><a href="http://www.printyourproject.com">Print Your Projects</a>
-        </li><li class="punchsoftware" title="PunchSoftware.com - Home Design Software | Landscape Design | Kitchen Design"><a href="http://www.punchsoftware.com">Punch Software</a>
-        </li><li class="punchcad" title="PunchCAD.com - Professional CAD Software | Mac CAD | ViaCAD | Shark CAD"><a href="http://www.punchcad.com">Punch CAD</a>
-        </li><li class="support" title="Encore Support Site"><a href="http://support.encore.com"></a></li>
-    </ul>
+    <li>visit our sites:
+    </li>
+    <li class="bicycle" title="BicycleCardGames.com - Official Card Games Site | Play Solitaire Online Free"><a href="http://www.bicyclecardgames.com">Bicycle Card Games</a></li>
+    <li class="broderbund" title="Broderbund.com - Official Software Site | The Print Shop | PrintMaster | Mavis Beacon"><a class="site_on" nohref="">Broderbund</a></li>
+    <li class="encore" title="Encore.com - Corporate Site | Download Games and Software"><a href="http://www.encore.com">Encore</a></li>
+    <li class="hoyle" title="Hoylegaming.com | Download Card Games | Casino Games | Puzzle Games | Board Games"><a href="http://www.hoylegaming.com">Hoyle Gaming</a></li>
+    <li class="king" title="King of Cheap Games"><a href="http://www.kingofcheapgames.com">King of Cheap Games</a></li>
+    <li class="printprojects" title="PrintYourProjects.com | Print Greeting Cards, Photos, Custom Mugs, Gifts, Calendars"><a href="http://www.printyourproject.com">Print Your Projects</a></li>
+    <li class="punchsoftware" title="PunchSoftware.com - Home Design Software | Landscape Design | Kitchen Design"><a href="http://www.punchsoftware.com">Punch Software</a></li>
+    <li class="punchcad" title="PunchCAD.com - Professional CAD Software | Mac CAD | ViaCAD | Shark CAD"><a href="http://www.punchcad.com">Punch CAD</a></li>
+    <li class="support" title="Encore Support Site"><a href="http://support.encore.com"></a></li>
+</ul>
+
         
     </div>
     
@@ -93,7 +156,7 @@
             
             <div class="shoppingCart"><span class="shoppingCartCountIcon"></span><span class="ShoppingCartEmptyText">Shopping Cart</span></div><br>
 
-			<a target="_blank" id="McAfeeSecureLink" href="https://www.mcafeesecure.com/RatingVerify?ref=www.broderbund.com"><img width="65" height="37" border="0" id="McAfeeSecureImage" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" src="//images.scanalert.com/meter/survey/www.broderbund.com/63.gif"></a>
+			<a target="_blank" id="McAfeeSecureLink" href="https://www.mcafeesecure.com/RatingVerify?ref=www.broderbund.com"><img id="McAfeeSeureImage" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" src="//images.scanalert.com/meter/survey/www.broderbund.com/63.gif"></a>
             
             <div class="login">
                 <span class="loginText"><a href="signin.aspx">
@@ -110,7 +173,6 @@
         <div class="clear"></div>
         
         <div id="B2C_Seperator">
-        
             <div id="newsletterContainer">
                 <span class="newsletterIcon">
                     <span>
@@ -137,11 +199,9 @@
             <div id="seperatorHTMLContent1">
                 
             </div>
-            
         </div>
         
         <div id="B2C_PageContent">
-        
             <div id="B2C_SidebarLeft">
             
                 <div id="sidebarLeftBestSellers">
@@ -152,7 +212,14 @@
                 <div id="sidebarLeftCategories">
                     <div id="category_top"></div>
 <ul class="category sf-js-enabled sf-shadow">
-  <li class="category_list category_1"><a href="c-30-works-with-windows-7.aspx">Works With Windows 7</a></li>
+  <li class="category_list category_1"><a href="c-30-works-with-windows-7.aspx" class="sf-with-ul">Works With Windows 7<span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span></a><ul class="sub_category" style="display: none; visibility: hidden;">
+      <li>&nbsp;&nbsp;<a href="c-78-all-windows-7-products.aspx">All Windows 7 Products</a></li>
+      <li>&nbsp;&nbsp;<a href="c-74-design-print-software.aspx">Design &amp; Print Software</a></li>
+      <li>&nbsp;&nbsp;<a href="c-75-home-family-educational-software.aspx">Home, Family &amp; Educational Software</a></li>
+      <li>&nbsp;&nbsp;<a href="c-76-games-family-entertainment.aspx">Games &amp; Family Entertainment</a></li>
+      <li>&nbsp;&nbsp;<a href="c-77-small-business-legal-solutions.aspx">Small Business &amp; Legal Solutions</a></li>
+    </ul>
+  </li>
   <li class="category_list category_2"><a href="c-23-shop-by-brand.aspx" class="sf-with-ul">Shop by Brand<span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span></a><ul class="sub_category" style="display: none; visibility: hidden;">
       <li>&nbsp;&nbsp;<a href="c-66-all-brands.aspx">All Brands</a></li>
       <li>&nbsp;&nbsp;<a href="c-31-the-print-shop.aspx">The Print Shop</a></li>
@@ -180,6 +247,7 @@
   <li class="category_list_sale category_17"><a href="c-17-on-sale-now.aspx" class="sf-with-ul">On Sale Now<span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span><span class="sf-sub-indicator"> »</span></a><ul class="sub_category" style="display: none; visibility: hidden;">
       <li>&nbsp;&nbsp;<a href="c-64-all-products-on-sale.aspx">All Products On Sale</a></li>
       <li>&nbsp;&nbsp;<a href="c-37-10-under.aspx">$10 &amp; Under</a></li>
+      <li>&nbsp;&nbsp;<a href="c-79-software-clearance.aspx">Software Clearance</a></li>
     </ul>
   </li>
   <li class="category_list category_18"><a href="c-49-all-products.aspx">All Products</a></li>
@@ -206,8 +274,8 @@
 
                 <div id="sidebarLeftHTMLContent2">
                     
+                    <div id="adblock1"></div>
                 </div>
-                
             </div>
             <div id="B2C_Content">
                 <!-- CONTENTS START -->
@@ -488,6 +556,8 @@ This Privacy Policy and our Privacy Notices are governed by the laws of the Stat
 <p>
 If you have any questions, comments, or concerns regarding this Privacy Policy or our privacy practices, please contact us by email at <a href="mailto:legal@encoreusa.com">legal@encoreusa.com</a>.
 </p>
+                <div style="clear:both;"></div>
+                <div id="adblock2"></div>             
                 <!-- CONTENTS END -->
             </div>
             <div id="B2C_SidebarRight">
@@ -515,7 +585,6 @@ If you have any questions, comments, or concerns regarding this Privacy Policy o
                 <div id="sidebarRightHTMLContent2">
                     
                 </div>
-
             </div>
         </div>
         <div id="B2C_Footer">
@@ -548,14 +617,15 @@ Canadian customers call 763-450-2466<br>
                 
             </div>
             <div id="footerHTMLContent1">
-                <div id="footer_copyrighttext">© 2010 <a href="http://www.encore.com" target="_blank">Encore, Inc.</a>, and its licensors. All Rights Reserved.</div> 
- 
+                <div id="footer_copyrighttext">
+© 2011 <a href="http://www.encore.com" target="_blank">Encore, Inc.</a>, and its licensors. All Rights Reserved.
+</div>
 <div id="footer_ssl_site_seal">
 <!--  GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. -->
 <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
-<!-- end  GeoTrust Smart Icon tag --> 				
+<!-- end  GeoTrust Smart Icon tag --> 
 </div>
-<div style="clear:both;"></div>
+<div style="CLEAR: both"></div>
                 
             </div>
         </div>
@@ -570,6 +640,14 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
+    
+<!-- Start Quantcast tag -->    
+<script type="text/javascript">
+	_qoptions={
+		qacct:"p-9arJLE1Gxnn_s"
+	};
+</script><script type="text/javascript" src="//edge.quantserve.com/quant.js"></script><noscript><img src="//pixel.quantserve.com/pixel/p-9arJLE1Gxnn_s.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"></noscript>  
+<!-- End Quantcast tag -->    
 
 
 </body></html>
