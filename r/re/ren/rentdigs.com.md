@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rentdigs.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220042628id_/http%3A//rentdigs.com/Common/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentdigs.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519185052id_/http%3A//rentdigs.com/Common/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# RentDigs.com Privacy Policy
 
  
 
@@ -10,7 +10,7 @@ We can be reached via e-mail at: support@RentDigs.com
 
 We collect the e-mail addresses only of those who register on our site.  Rentdigs.com will not sell these email addresses or display them on the web.  Users wishing to make contact via email with registered users, may only do so by filling out the online contact form.
 
-In the event that a user of the site request a moving quote, only the users information that the user entered into the request form and the user's IP address will be sent onto our moving partner (Relocation.com). For more information, visit [Relocation.com's Privacy Policy](http://www.relocation.com/privacy_policy.html). 
+In the event that a user of the site selects a moving quote, only the users information that the user entered into the request form and the user's IP address will be sent onto our moving partner (Relocation.com). For more information, visit [Relocation.com's Privacy Policy](http://www.relocation.com/privacy_policy.html). 
 
 www.rentdigs.com does use cookies. Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, AdsDaq, InfoLinks and Commission Junction. These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.rentdigs.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. www.rentdigs.com has no access to or control over these cookies that are used by third-party advertisers. You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.rentdigs.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
