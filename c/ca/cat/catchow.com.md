@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchow.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119150718id_/http%3A//www.purina.com/legal.asp%3Ftype%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchow.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519220749id_/http%3A//www.purina.com/legal.asp%3Ftype%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Purina.Com | Caring Privacy Policy | Purina.com
 
