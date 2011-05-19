@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperwebenable.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225091918id_/http%3A//www.hyperwebenable.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperwebenable.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519120619id_/http%3A//www.hyperwebenable.com/privacypolicy.php) for the most accurate reproduction.*
 
 # hyperwebenable.com Privacy Policy
 
