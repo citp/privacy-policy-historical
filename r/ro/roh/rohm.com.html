@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rohm.com privacy policy that was archived on 2010-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529231829id_/http%3A//www.rohm.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rohm.com privacy policy that was archived on 2011-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519062707id_/http%3A//www.rohm.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 
@@ -57,98 +57,254 @@
 
 	<div id="header">
 
-			<h1 id="header-logo"><a href="/"><img src="/cmn/images/header-logo.jpg" alt="Excellence in Electronics ROHM" width="89" height="70"></a></h1>
-		<div id="sw_fontsize"><ul><li><img src="/cmn/images/text_size_en.gif" alt="Text Size" width="49" height="20"></li><li><a class="small" href="javascript:changesytle('fontsmall');" title="small"><img src="/cmn/images/font_btn_en/font_s.gif" alt=""></a></li><li><a class="medium" href="javascript:changesytle('font');" title="normal"><img src="/cmn/images/font_btn_en/font_m.gif" alt=""></a></li><li><a class="large" href="javascript:changesytle('fontlarge');" title="large"><img src="/cmn/images/font_btn_en/font_l.gif" alt=""></a></li></ul></div>
-		<ul id="language-list">
+		  	<!--Analytics start -->
+		<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-8111365-2");
+			pageTracker._trackPageview();
+			} catch(err) {}</script>
+	<!--Analytics end -->
 
-			<li><a href="http://www.rohm.com.cn/"><img src="/cmn/images/chinese2-link.jpg" alt="Simplified Chinese" width="64" height="14"></a></li>
-			<li><a href="http://www.rohm.com.tw/"><img src="/cmn/images/chinese1-link.jpg" alt="Traditional Chinese" width="64" height="14"></a></li>
-			<li><a href="http://www.rohm.co.kr/"><img src="/cmn/images/korean-link.jpg" alt="Korean" width="64" height="14"></a></li>
-			<li><a href="http://www.rohm.co.jp/"><img src="/cmn/images/japanese-link.jpg" alt="Japanese" width="64" height="14"></a></li>
-		</ul>
-		<div id="search" class="clearfix">
-        <form id="pullMnu">
-        <select name="schange" onchange="radioChange();">
-          <option selected="selected">Site Search</option>
-          <option>Catalog Search</option>
-        </select>
-        </form>
-			<form name="form1" method="get" action="http://search.rohm.com/en/" id="s-search" style="display: block;"><!--Site Search-->
-                <input type="text" name="q" value="" onfocus="SiteSearch(this)" onblur="SiteSearch(this)" class="mrg-r">
-			  <input type="image" name="sa" src="/cmn/images/search_btn.gif" alt="Search">
-			</form>
-			
-            
-            <form style="display: none;" name="product_search" method="get" action="http://search.rohm.com/en/pdf/" id="c-search"><!--Catalog Search -->
-                <input type="text" name="q" value="" class="mrg-r">
-                <input type="image" name="sa" src="/cmn/images/search_btn.gif" alt="Search">
-			</form>
-			
-			<p id="ser-op"><a href="/search-e.html"><img src="/cmn/images/help_btn.gif" alt="Help"></a></p>
-<!--Catalogue Search-->
+<h1 id="header-logo"><a href="/"><img src="/cmn/images/header-logo.jpg" alt="Excellence in Electronics ROHM" width="98" height="80"></a></h1>
+<div id="sw_fontsize"><ul><li><img src="/cmn/images/text_size_en.gif" alt="Text Size" width="49" height="20"></li><li><a class="small" href="javascript:changesytle('fontsmall');" title="small"><img src="/cmn/images/font_btn_en/font_s.gif" alt=""></a></li><li><a class="medium" href="javascript:changesytle('font');" title="normal"><img src="/cmn/images/font_btn_en/font_m.gif" alt=""></a></li><li><a class="large" href="javascript:changesytle('fontlarge');" title="large"><img src="/cmn/images/font_btn_en/font_l.gif" alt=""></a></li></ul></div>
+
+<!------------myrohm------------>
+<div id="myRohmLogin">
+<script type="text/javascript">
+jq(document).ready(function ()
+{	
+	jq.ajax({
+	  type : "get",
+	  url: "/cmn/include/login/sign.php",
+	  cache : false,
+	  dataType : "html",
+	  success: function(html){
+			jq("#login_panel").html(html);
+	  }
+	});
+});
+</script>
+<div id="login_panel"></div>
+</div>
+<!--------------ここまで---------->
+
+<div id="search" class="clearfix">
+  <form id="pullMnu">
+    <select name="schange" onchange="radioChange();">
+      <option selected="selected">Site Search</option>
+      <option>Catalog Search</option>
+    </select>
+  </form>
+  <form name="form1" method="get" action="http://search.rohm.com/en/" id="s-search" style="display: block;"><!--Site Search-->
+    <input type="text" name="q" value="" onfocus="SiteSearch(this)" onblur="SiteSearch(this)" class="mrg-r">
+    <input type="image" name="sa" src="/cmn/images/search_btn.gif" alt="Search">
+  </form>
+
+  <form style="display: none;" name="product_search" method="get" action="http://search.rohm.com/en/pdf/" id="c-search"><!--Catalog Search -->
+    <input type="text" name="q" value="" class="mrg-r">
+    <input type="image" name="sa" src="/cmn/images/search_btn.gif" alt="Search">
+  </form>
+
+  <p id="ser-op"><a href="/search-e.html"><img src="/cmn/images/help_btn.gif" alt="Help"></a></p>
+  <!--Catalogue Search-->
 </div>
 
-		<p id="sitemap"><a href="/sitemap/">Site Map</a></p>
+<p id="sitemap"><a href="/sitemap/">Site Map</a></p>
 
 <div id="menu">
-<ul id="productsList">
-  <li><h2><a id="g1" href="/" title="HOME, Products"><span class="hideText">HOME, Products</span></a></h2>
+  <ul id="productsList">
+    <li><h2><a id="g1" href="/" title="HOME, Products"><span class="hideText">HOME, Products</span></a></h2>
     <ul>
-      <li><a href="/products/lsi/index/" title="ICs">ICs</a></li>
-      <li><a href="/products/discrete/index/" title="Discrete Semiconductors">Discrete Semiconductors</a></li>
-      <li><a href="/products/opto_device/index/" title="Opto Electronics">Opto Electronics</a></li>
-      <li><a href="/products/passive/index/" title="Passive Components">Passive Components</a></li>
-      <li><a href="/products/module/index/" title="Modules(Sub Systems)">Modules(Sub Systems)</a></li>
+      <li><a href="/products/lsi/index/" title="ICs">ICs</a>
+      	<ul>
+        <li><a href="/products/lsi/eeprom/">EEPROM</a></li>
+        <li><a href="/products/lsi/op_com/">Operational Amplifiers / Comparators</a></li>
+        <li><a href="/products/lsi/voltage_detector/">Voltage Detector ICs</a></li>
+        <li><a href="/products/lsi/clock/">Clock Generators</a></li>       
+        <li><a href="/products/lsi/switch/">Analog Switches / Logics</a></li>  
+        <li><a href="/products/lsi/da_converter/">D/A Converters</a></li>
+        <li><a href="/products/lsi/sensor/">Sensor ICs</a></li>
+        <li><a href="/products/lsi/linear/">Linear Regulators</a></li>   
+        <li><a href="/products/lsi/switching/">Switching Regulators</a></li>
+        <li><a href="/products/lsi/power/">Power Management ICs</a></li>
+        <li><a href="/products/lsi/automotive/">Automotive Regulators</a></li>
+        <li><a href="/products/lsi/motor/">Motor Drivers</a></li>        
+        <li><a href="/products/lsi/led/">LED / LCD Drivers</a></li>        
+        <li><a href="/products/lsi/communication/">IT Equipment/Interface ICs</a></li>       
+        <li><a href="/products/lsi/video/">Video and Imaging ICs</a></li>
+        <li><a href="/products/lsi/sound/">Audio ICs</a></li>            
+      	</ul> 
+      </li>
+      <li><a href="/products/discrete/index/" title="Discrete Semiconductors">Discrete Semiconductors</a>
+      	<ul>
+        	<li><a href="/products/discrete/transistor/" title="Transistors">Transistors</a></li>
+        	<li><a href="/products/discrete/diode/" title="Diodes">Diodes</a></li>
+<li><a href="/products/discrete/sic/" title="SiC Power Devices">SiC Power Devices</a></li>            
+      	</ul>
+      </li>
+      <li><a href="/products/opto_device/index/" title="Opto Electronics">Opto Electronics</a>
+       	<ul>
+        	<li><a href="/products/opto_device/led/" title="LEDs">LEDs</a></li>
+        	<li><a href="/products/opto_device/led_display/" title="LED Displays">LED Displays</a></li>
+        	<li><a href="/products/opto_device/laser_diode/" title="Laser Diodes">Laser Diodes</a></li>
+        	<li><a href="/products/opto_device/sensor/" title="Optical Sensors">Optical Sensors</a></li>
+        	<li><a href="/products/opto_device/irda_module/" title="IrDA Infrared Communication Modules">IrDA Infrared Communication Modules</a></li>
+        	<li><a href="/products/opto_device/reciever_module/" title="Remote Control Receiver Modules">Remote Control Receiver Modules</a></li>     
+      	</ul>     
+      </li>
+      <li><a href="/products/passive/index/" title="Passive Components">Passive Components</a>
+       	<ul>
+        	<li><a href="/products/passive/resistor/" title="Resistors">Resistors</a></li>
+        	<li><a href="/products/passive/ta_capacitor/" title="Tantalum Capacitors">Tantalum Capacitors</a></li>      
+      	</ul>        
+      </li>
+      <li><a href="/products/module/index/" title="Modules(Sub Systems)">Modules(Sub Systems)</a>
+       	<ul>
+        	<li><a href="/products/module/power_module/" title="Power Modules">Power Modules</a></li>
+        	<li><a href="/products/module/image_sensor_head/" title="Contact Image Sensor Heads">Contact Image Sensor Heads</a></li>
+        	<li><a href="/products/module/printhead/" title="Printheads">Printheads</a></li>       
+      	</ul>
+      </li>
     </ul>
-  </li>
-</ul>
+    </li>
+  </ul>
 
-<ul id="application">
-  <li><h2><a id="g2" href="/products/application/" title="Applications"><span class="hideText">Applications</span></a></h2>
-  </li>
-</ul>
-    
-
-<ul id="newProduct">
-  <li><h2><a id="g3" href="/ad/index.html" title="New Products"><span class="hideText">New Products</span></a></h2>
-  </li>
-</ul>
-
-<ul id="aboutUs">
-  <li><h2><a id="g5" href="/index2.html" title="Company Profile"><span class="hideText">Company Profile</span></a></h2>
-
+  <ul id="application">
+    <li><h2><a id="g2" href="/products/application/" title="Applications"><span class="hideText">Applications</span></a></h2>
     <ul>
-      <li><a href="/corporate/outline.html" title="Corporate Data">Corporate Data</a></li>
-      <li><a href="/corporate/organization.html" title="Organization">Organization</a></li>
-      <li><a href="/corporate/history.html" title="Company History">Company History</a></li>
-      <li><a href="/corporate/products.html" title="Product Families">Product Families</a></li>
-      <li><a href="/corporate/brand.html" title="Corporate Brand">Corporate Brand</a></li>
-      <li><a href="/corporate/envi/index.html" title="Contributing to the Global Environment and a Sustainable Society"><span>Contributing to the Global Environment and a Sustainable Society</span></a></li>
-      <li><a href="/corporate/group/jp-produce.html" title="ROHM Group (Japan)">ROHM Group (Japan)</a></li>
-	  <li><a href="/corporate/group/gb-produce.html" title="ROHM Group (Global)">ROHM Group (Global)</a></li>
+      <li><a href="/products/application/smartphone/" title="Mobile / Network">Mobile / Network</a>
+       	<ul>
+        	<li><a href="/products/application/smartphone/" title="Smartphone / Tablet PCs">Smartphone / Tablet PCs</a></li>
+        	<li><a href="/products/application/mobile_lsi.html" title="Mobile Phone (IC)">Mobile Phone (IC)</a></li>
+        	<li><a href="/products/application/mobile/" title="Mobile Phone (Discretes / Optoelectronics / Modules)">Mobile Phone (Discretes / Optoelectronics / Modules)</a></li>
+        	<li><a href="/products/application/cmsm_lsi.html" title="Camera Module System for Mobile-phone">Camera Module System for Mobile-phone</a></li>
+        	<li><a href="/products/application/laptop_pc/" title="Notebook PC">Notebook PC</a></li>
+        	<li><a href="/products/application/mfp_lsi.html" title="Office Equipments (IC-Multi Function Printer)">Office Equipments (IC-Multi Function Printer)</a></li>
+        	<li><a href="/products/application/ppc_lsi.html" title="Office Equipments (IC-Plain Paper Copier)">Office Equipments (IC-Plain Paper Copier)</a></li>
+        	<li><a href="/products/application/office/" title="Office Equipments (Discretes / Optoelectronics / Modules)">Office Equipments (Discretes / Optoelectronics / Modules)</a></li>
+        	<li><a href="/products/application/pa_lsi.html" title="Portable Audio">Portable Audio</a></li>
+        	<li><a href="/products/application/wlm_lsi.html" title="Wireless LAN Module">Wireless LAN Module</a></li>
+        	<li><a href="/products/application/btm_lsi.html" title="Bluetooth Module">Bluetooth Module</a></li>                     
+      	</ul>
+      </li>
+      <li><a href="/products/application/digital_tv/" title="Digital Household Appliances">Digital Household Appliances</a>
+       	<ul>
+        	<li><a href="/products/application/dtv_lsi.html" title="Digital TV(IC)">Digital TV(IC)</a></li>
+        	<li><a href="/products/application/digital_tv/" title="Digital TV(Discretes / Optoelectronics / Modules)">Digital TV(Discretes / Optoelectronics / Modules)</a></li>
+        	<li><a href="/products/application/dtm_lsi.html" title="Digital Tuner Module">Digital Tuner Module</a></li>
+        	<li><a href="/products/application/dsc_lsi.html" title="Digital Still Camera">Digital Still Camera</a></li>
+        	<li><a href="/products/application/dvc_lsi.html" title="Digital Video Camera (IC)">Digital Video Camera (IC)</a></li>
+        	<li><a href="/products/application/dsc/" title="Digital Video Camera (Discretes / Optoelectronics / Modules)">Digital Video Camera (Discretes / Optoelectronics / Modules)</a></li>
+        	<li><a href="/products/application/ht_lsi.html" title="Home Theater System">Home Theater System</a></li>
+        	<li><a href="/products/application/ha_lsi.html" title="Home Audio">Home Audio</a></li>
+        	<li><a href="/products/application/dvd_lsi.html" title="DVD">DVD</a></li>
+        	<li><a href="/products/application/stb_lsi.html" title="STB (Set Top Box)">STB (Set Top Box)</a></li>                     
+      	</ul>
+      </li>
+      <li><a href="/products/application/ac_lsi.html" title="Home Appliances / Industrial Systems">Home Appliances / Industrial Systems</a>
+       	<ul>
+        	<li><a href="/products/application/ac_lsi.html" title="Air-conditioner">Air-conditioner</a></li>
+        	<li><a href="/products/application/rzk_lsi.html" title="Refrigerator">Refrigerator</a></li>
+        	<li><a href="/products/application/ihc_lsi.html" title="IH Cooking Heater">IH Cooking Heater</a></li>
+        	<li><a href="/products/application/led_lighting/" title="LED Lighting">LED Lighting</a></li>                     
+      	</ul>
+      </li>
+      <li><a href="/products/application/carnavi_lsi.html" title="Automotive">Automotive</a>
+       	<ul>
+        	<li><a href="/products/application/carnavi_lsi.html" title="Car Navigation (IC)">Car Navigation (IC)</a></li>
+        	<li><a href="/products/application/carav/" title="Car Navigation (Discretes / Optoelectronics / Modules)">Car Navigation (Discretes / Optoelectronics / Modules)</a></li>
+        	<li><a href="/products/application/caraudio/" title="Car Audio">Car Audio</a></li>
+        	<li><a href="/products/application/automotive/" title="Automotive">Automotive</a></li>                     
+      	</ul>
+      </li>
+      <li><a href="/products/application/smart_meter/" title="Others">Others</a>
+       	<ul>
+        	<li><a href="/products/application/smart_meter/" title="Smart Meter">Smart Meter</a></li>
+        	<li><a href="/products/application/blood_glucose_meter/" title="Blood Glucose Meter">Blood Glucose Meter</a></li>
+        	<li><a href="/products/application/amusement/" title="Amusement Electronic Equipments">Amusement Electronic Equipments</a></li>
+        	<li><a href="/products/application/sc_lsi.html" title="Surveillance Camera">Surveillance Camera</a></li>    
+      	</ul>
+      </li>
     </ul>
-	
-  </li>
-</ul>
+    </li>
+  </ul>
 
-<ul id="support">
-  <li><h2><a id="g6" href="/corporate/group/gb-support-usa.html" title="Sales"><span class="hideText">Sales</span></a></h2>
+  <ul id="support">
+    <li><h2><a id="g3" href="/ad/sim/index.html" title="Support"><span class="hideText">Support</span></a></h2>
     <ul>
-      <li><a href="/corporate/group/gb-support-usa.html" title="Sales(THE AMERICAS)">Sales(U.S.A)</a></li>
-      <li><a href="/corporate/group/gb-support-eu.html" title="Sales(EUROPE)">Sales(EUROPE)</a></li>
+      <li><a href="/ad/sim/index.html" title="ROHM Electronic Lab.">ROHM Electronic Lab.</a></li>
+      <li><a href="/products/databook/index-e.html" title="Data Sheets">Data Sheets</a></li>
+      <li><a href="/products/design_model/index.html" title="Design Model">Design Model</a></li>
+    </ul>
+    </li>
+  </ul>
+
+  <ul id="purchase">
+    <li><h2><a href="https://direct.rohm.co.jp/en/index.asp" title="Sales" target="_blank" id="g4"><span class="hideText">Sales</span></a></h2>
+    <ul>
+      <li><a href="http://service.stkcheck.com/?mfg=73164481-1808-449e-8974-2d558ac54708" title="Distribution Inventory Search" target="_blank">Distribution Inventory Search</a></li>
+      <li><a href="/corporate/group/gb-support-usa.html" title="Sales(U.S.A)">Sales(U.S.A)</a></li>
+      <li><a href="/corporate/group/gb-support-eu.html" title="Sales(EUROPE)">Sales(EUROPE)</a></li>            
       <li><a href="/corporate/group/gb-support-asia.html" title="Sales(ASIA)">Sales(ASIA)</a></li>
-      <li><a href="/corporate/group/jp-support.html" title="Sales(JAPAN)">Sales(JAPAN)</a></li>
+      <li><a href="/corporate/group/jp-support.html" title="Sales(JAPAN)">Sales(JAPAN)</a></li>      
     </ul>
-	
-  </li>
-</ul>
+    </li>
+  </ul>
 
-<ul id="inquiry">
-  <li><h2><a id="g7" href="http://www.rohm.com/contact/" title="Contact us"><span class="hideText">Contact us</span></a></h2>	
-  </li>
-</ul>
+  <ul id="newProduct">
+    <li><h2><a id="g5" href="/ad/index.html" title="New Products"><span class="hideText">New Products</span></a></h2>
+      <ul>
+        <li><a href="/ad/index.html" title="New products of 2011">New products of 2011</a></li>
+        <li><a href="/ad/2010.html" title="New products of 2010">New products of 2010</a></li>
+        <li><a href="/ad/2009.html" title="New products of 2009">New products of 2009</a></li>
+        <li><a href="/ad/2008.html" title="New products of 2008">New products of 2008</a></li>
+      </ul>
+    </li>
+  </ul>
 
+  <ul id="aboutUs">
+    <li><h2><a id="g6" href="/index2.html" title="Company Profile"><span class="hideText">Company Profile</span></a></h2>
+      <ul>
+        <li><a href="/corporate/index.html" title="About Us">About Us</a></li>
+        <li><a href="/news/index.html" title="News">News</a></li>
+        <li><a href="/financial/index.html" title="Investor Relations">Investor Relations</a></li>
+        <li><a href="/csr/index.html" title="Corporate Social Responsibility" target="_blank">Corporate Social Responsibility</a></li>
+    </ul>
+    </li>
+  </ul>
+
+  <ul id="inquiry">
+    <li><h2><a id="g7" href="/contact/" title="Contact us"><span class="hideText">Contact us</span></a></h2>  
+    </li>
+  </ul>
 </div>
+
+
+<div id="selectsiteTitle" class="clearfix">ROHM Worldwide</div>
+<div id="selectsite" class="clearfix siteSelector" style="visibility: visible;">
+  <h2 class="title">English</h2>
+  <ul class="menu" style="left: 0px; top: 18px; width: 157px;">
+    <li class="lineTop"><a href="http://www.rohm.com/eu/" target="_blank">Europe</a></li>  
+    <li class="lineBottom"><a href="http://www.rohm.com/us/default.htm" target="_blank">United States</a></li>
+      <li><a href="http://www.rohm.com/br/">Portugues</a></li>
+      <li><a href="http://www.rohm.com/fr/">Francais</a></li>
+      <li><a href="http://www.rohm.com/de/">Deutsch</a></li>
+      <li><a href="http://www.rohm.com/ru/">Русский</a></li>
+      <li lang="zh"><a href="http://www.rohm.com.cn/">简体中文</a></li>
+      <li lang="zh"><a href="http://www.rohm.com.tw/">繁體中文</a></li>
+      <li lang="ko"><a href="http://www.rohm.co.kr/">한국어</a></li>
+      <li lang="ja"><a href="http://www.rohm.co.jp/index.html">日本語</a></li>
+  </ul>
+</div>
+<script type="text/javascript">
+	document.getElementById('selectsite').style.visibility = 'hidden';
+</script>
+
+
 
 		<ul id="topic-path">
 			<li><a href="index.html">HOME</a> &gt;</li>
@@ -215,23 +371,14 @@
 
 		<div id="footer">
 		<p id="page-top-link"><a href="#top">Top of Page</a></p>
-
-		<p id="p-policy"><a href="/privacy.html">Privacy Policy</a></p>
+		<p id="corporateLink">| <a href="/index2.html">About Us</a> | 
+        <a href="/news/index.html">News</a> | <a href="/financial/index.html">Investor Relations</a> | <a href="/csr/index.html" title="Corporate Social Responsibility" target="_blank">Corporate Social Responsibility</a> |</p>
+<p id="p-policy"><a href="/privacy.html">Privacy Policy</a></p>
 		<p id="s-policy"><a href="/policy.html">Terms &amp; Conditions</a></p>
-		<p id="copy-r">Copyright © 1997-2010 ROHM Co., Ltd.</p>
+		<p id="copy-r">Copyright © 1997-2011 ROHM Co., Ltd.</p>
 	</div>
 	<!--footer end-->
-	<!--Analytics start -->
-		<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-8111365-2");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-	<!--Analytics end -->
+
 
 
 
