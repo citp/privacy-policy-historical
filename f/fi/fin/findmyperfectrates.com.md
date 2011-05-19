@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the findmyperfectrates.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122081553id_/http%3A//findmyperfectrates.com/index.cfm%3Fsubaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmyperfectrates.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519052522id_/http%3A//findmyperfectrates.com/index.cfm%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
 
-# FindMyPerfectRates - Privacy
+# FindMyPerfectRates | Insurance Problem Solved
 
-_This privacy policy was last updated on April 8th, 2009_
+## FindMyPerfectRates.com Privacy Policy Statement
 
-FindMyPerfectRates is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates. 
+_This privacy policy was last updated on March 15th, 2011_
+
+FindMyPerfectRates is owned by QuoteWizard.com LLC. FindMyPerfectRates is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates. 
 
 ## Information We Collect
 
