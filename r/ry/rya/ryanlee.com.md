@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanlee.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115210758id_/http%3A//www.ryanlee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanlee.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519090117id_/http%3A//www.ryanlee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ryan Lee
 
