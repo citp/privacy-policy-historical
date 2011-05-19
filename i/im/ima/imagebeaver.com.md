@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imagebeaver.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620020531id_/http%3A//www.imagebeaver.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D45249) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagebeaver.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519102408id_/http%3A//www.imagebeaver.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D45249) for the most accurate reproduction.*
 
-# ImageBeaver.com Video on Demand
+# Privacidade | ImageBeaver.com Video on Demand
 
 **AEBN Privacy Policy**
 
