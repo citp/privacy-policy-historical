@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the federalnewsradio.com privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217205624id_/http%3A//www.federalnewsradio.com%3Fnid%3D93%26sid%3D1551735) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the federalnewsradio.com privacy policy that was archived on 2011-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520003210id_/http%3A//www.federalnewsradio.com%3Fnid%3D93%26sid%3D1551735) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 	 
@@ -62,7 +62,7 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
 	}
 	</script>
 	
-	<script language="javascript" type="text/javascript" src="/javascripts/audio-player.js?1292619384"></script>
+	<script language="javascript" type="text/javascript" src="/javascripts/audio-player.js?1305851530"></script>
 	
 	<script language="javascript" type="text/javascript">
 		AudioPlayer.setup("/swf/player.swf", { width: 250, transparentpagebg: "yes" }); 
@@ -74,7 +74,7 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
 		<meta name="Keywords" content="federal news, Mike Causey, procurement, federal IT, federal workers, federal government news">
 		<meta name="Description" content="Federal News Radio - Your source for federal news, now.">
 		<meta name="Author" content="sdolge@wtopnews.com">
-		<meta name="Copyright" content="Copyright (c) 2010 WFED - Federal News Radio">
+		<meta name="Copyright" content="Copyright (c) 2011 WFED - Federal News Radio">
 				
 		<link rel="shortcut icon" href="/images/favicon.ico">
 		<link rel="icon" href="/images/favicon.ico">
@@ -96,15 +96,27 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
 			<link rel="stylesheet" type="text/css" href="../templates/ie6.css" />
 			<link rel="stylesheet" type="text/css" href="../css/wfedNavIE6.css" />
 		<![endif]-->
-<!--  END cssInclude.php REGION -->	<script language="javascript" type="text/javascript" src="/javascripts/prototype.js"></script>
-<!-- 	<script type="text/javascript" src="/templates/jquery.js"></script> -->
-
+<!--  END cssInclude.php REGION -->		<!--  BEGIN jsInclude.php REGION -->
+		<script language="javascript" type="text/javascript" src="/javascripts/prototype.js"></script>
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
+	<script type="text/javascript" language="javascript" src="/javascripts/jquery.hoverIntent.minified.js"></script>
 	<script type="text/javascript">
 		var $j = jQuery.noConflict();
 	</script>
-	
-	<script type="text/javascript" src="/javascripts/qm.js?1292619384"></script>
+	<script language="javascript" type="text/javascript">
+		jQuery(function() {
+			jQuery('#cisco_sponsor').hover( function() {
+				jQuery('#cisco_sponsor_menu').slideDown();							   
+			}, function() {
+				jQuery('#cisco_sponsor_menu').slideUp();
+			});
+		});
+	</script>
+	<!--<script type="text/javascript" src="/javascripts/qm.js?"></script>-->
 	<script type="text/javascript" language="javascript" src="/javascripts/font_size.js"></script>
+	
+
+<!--  END jsInclude.php REGION -->
 		
 		<script src="/javascripts/wimpy_button.js" type="text/javascript"></script>
 
@@ -167,55 +179,61 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
 							<!-- IMPORTANT this clear must be here -->
 							<!--  BEGIN navNewDropDown.php REGION -->
 
-<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
-
+<!--<script type="text/javascript" src="http://code.jquery.com/jquery-1.4.2.min.js"></script>-->
+<link rel="stylesheet" type="text/css" href="/css/colorbox.css">
+<script language="javascript" type="text/javascript" src="/javascripts/jquery.colorbox-min.js"></script>
+	
 
 
 	<script language="Javascript">
-		$(document).ready(function() {
+		<!-- 
+		jQuery(document).ready(function() {
 		  var url = location.pathname;
 		  if (url.indexOf(/index/)) 
 		  	{
 				//		alert('all day, baby! all day.');
-			 	$("#homeLI").addClass("active");
+			 	jQuery("#homeLI").addClass("active");
 		  	}
 		  	else 
 			{
-				$("#homeLI").removeClass("active");
+				jQuery("#homeLI").removeClass("active");
 			}		
 		});
+		-->
 	</script>
 	<script type="text/javascript">
-		$(document).ready(function() {					   
-			$('a.close-toggle').click(function() {
-				$("div:.slideContent").slideUp("fast");
-				$(".navGenLI").removeClass("selected");
-				$(".navGenLI .aText").removeClass("arrowUp").addClass("arrowDown");
+		<!-- 
+		jQuery(document).ready(function() {					   
+			jQuery('a.close-toggle').click(function() {
+				jQuery("div:.slideContent").slideUp("fast");
+				jQuery(".navGenLI").removeClass("selected");
+				jQuery(".navGenLI .aText").removeClass("arrowUp").addClass("arrowDown");
 			});
 		
-			$('li.navGenLI a').click(function() {
+			jQuery('li.navGenLI a').click(function() {
 				   var thisname = /^([^-]+)-toggle/.exec(this.id)[1];
-				    if ($("div:#"+thisname).is(":hidden")) {
-						$("div.slideContent").slideUp("fast");
-						//$("div.slideContent").hide();
-						$('.navGenLI').removeClass("selected");
-						$('.navGenLI .aText').removeClass("arrowUp").addClass("arrowDown");
-				      	$("#"+thisname+"LI").addClass("selected");
-//						if ($.browser.msie && $.browser.version < 8) {
-//							$("div:#"+thisname).show();
+				    if (jQuery("div:#"+thisname).is(":hidden")) {
+						jQuery("div.slideContent").slideUp("fast");
+						//jQuery("div.slideContent").hide();
+						jQuery('.navGenLI').removeClass("selected");
+						jQuery('.navGenLI .aText').removeClass("arrowUp").addClass("arrowDown");
+				      	jQuery("#"+thisname+"LI").addClass("selected");
+//						if (jQuery.browser.msie && jQuery.browser.version < 8) {
+//							jQuery("div:#"+thisname).show();
 //						} else {
-							$("div:#"+thisname).slideDown("slow");
+							jQuery("div:#"+thisname).slideDown("slow");
 //						}
-						//$("div:#"+thisname).show();
-						$("#"+thisname+"LI .aText").removeClass("arrowDown").addClass("arrowUp");
+						//jQuery("div:#"+thisname).show();
+						jQuery("#"+thisname+"LI .aText").removeClass("arrowDown").addClass("arrowUp");
 					} else {
-				      	$("div:#"+thisname).slideUp();
-						//$("div:#"+thisname).hide();
-				      	$("#"+thisname+"LI").removeClass("selected");
-					  	$("#"+thisname+"LI .aText").removeClass("arrowUp").addClass("arrowDown");
+				      	jQuery("div:#"+thisname).slideUp();
+						//jQuery("div:#"+thisname).hide();
+				      	jQuery("#"+thisname+"LI").removeClass("selected");
+					  	jQuery("#"+thisname+"LI .aText").removeClass("arrowUp").addClass("arrowDown");
 				    }
 			}); 	
 		});
+		-->
 	</script>
 
 
@@ -243,51 +261,51 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
         	<div id="subNav">
 	        	<div id="news1"><h2>News &amp; Features</h2>
 		            <ul class="column col_150 ">	                	               
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=1552253&amp;nid=10">- All News</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=299">- Agency News</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=1874280&amp;nid=295">- Budget</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=248">- Cloud Computing</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=261">- Conference Coverage</a></li>
-						<li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=158&amp;tt=Congress&amp;tag_ids[]=5545&amp;tag_ids[]=1264&amp;tag_ids[]=1108&amp;tag_ids[]=8500&amp;tag_ids[]=2468&amp;tag_ids[]=3094&amp;tag_ids[]=14594&amp;tag_ids[]=2567">- Congressional Spotlight</a></li>	                   	                
+		                <li class="notFirst"><a href="/?sid=1552253&amp;nid=10">- All News</a></li>
+		                <li class="notFirst"><a href="/?nid=299">- Agency News</a></li>
+		                <li class="notFirst"><a href="/?sid=1874280&amp;nid=295">- Budget</a></li>
+		                <li class="notFirst"><a href="/?nid=248">- Cloud Computing</a></li>
+		                <li class="notFirst"><a href="/?nid=261">- Conference Coverage</a></li>
+						<li class="notFirst"><a href="/?nid=158&amp;tt=Congress&amp;tag_ids[]=5545&amp;tag_ids[]=1264&amp;tag_ids[]=1108&amp;tag_ids[]=8500&amp;tag_ids[]=2468&amp;tag_ids[]=3094&amp;tag_ids[]=14594&amp;tag_ids[]=2567">- Congressional Spotlight</a></li>	                   	                
 					</ul> 
 					<ul class="column col_140">
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=4">- Contracting</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=158&amp;tt=Cybersecurity&amp;tag_ids[]=1577&amp;tag_ids[]=1615&amp;tag_ids[]=56&amp;tag_ids[]=1355&amp;tag_ids[]=6668&amp;tag_ids[]=9801">- Cybersecurity</a></li>	 
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=158&amp;tt=Defense+News&amp;tag_ids[]=83&amp;tag_ids[]=707&amp;tag_ids[]=243&amp;tag_ids[]=22&amp;tag_ids[]=19995&amp;tag_ids[]=3595&amp;tag_ids[]=18&amp;tag_ids[]=716&amp;tag_ids[]=858">- Defense</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=158&amp;tt=Health+IT&amp;tag_ids[]=4650&amp;tag_ids[]=17634&amp;tag_ids[]=1972">- Health IT</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=158&amp;tt=Homeland+Security&amp;tag_ids[]=2172&amp;tag_ids[]=2826&amp;tag_ids[]=27&amp;tag_ids[]=686&amp;tag_ids[]=6622&amp;tag_ids[]=924&amp;tag_ids[]=3505&amp;tag_ids[]=683&amp;tag_ids[]=2827&amp;tag_ids[]=1994&amp;tag_ids[]=1768&amp;tag_ids[]=5760&amp;tag_ids[]=2503&amp;tag_ids[]=1299&amp;tag_ids[]=4503&amp;tag_ids[]=4906&amp;tag_ids[]=4591">- Homeland Security</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=5">- Management</a></li>
+		                <li class="notFirst"><a href="/?nid=4">- Contracting</a></li>
+		                <li class="notFirst"><a href="/?nid=158&amp;tt=Cybersecurity&amp;tag_ids[]=1577&amp;tag_ids[]=1615&amp;tag_ids[]=56&amp;tag_ids[]=1355&amp;tag_ids[]=6668&amp;tag_ids[]=9801">- Cybersecurity</a></li>	 
+		                <li class="notFirst"><a href="/?nid=158&amp;tt=Defense+News&amp;tag_ids[]=83&amp;tag_ids[]=707&amp;tag_ids[]=243&amp;tag_ids[]=22&amp;tag_ids[]=19995&amp;tag_ids[]=3595&amp;tag_ids[]=18&amp;tag_ids[]=716&amp;tag_ids[]=858">- Defense</a></li>
+		                <li class="notFirst"><a href="/?nid=158&amp;tt=Health+IT&amp;tag_ids[]=4650&amp;tag_ids[]=17634&amp;tag_ids[]=1972">- Health IT</a></li>
+		                <li class="notFirst"><a href="/?nid=158&amp;tt=Homeland+Security&amp;tag_ids[]=2172&amp;tag_ids[]=2826&amp;tag_ids[]=27&amp;tag_ids[]=686&amp;tag_ids[]=6622&amp;tag_ids[]=924&amp;tag_ids[]=3505&amp;tag_ids[]=683&amp;tag_ids[]=2827&amp;tag_ids[]=1994&amp;tag_ids[]=1768&amp;tag_ids[]=5760&amp;tag_ids[]=2503&amp;tag_ids[]=1299&amp;tag_ids[]=4503&amp;tag_ids[]=4906&amp;tag_ids[]=4591">- Homeland Security</a></li>
+		                <li class="notFirst"><a href="/?nid=5">- Management</a></li>
 					</ul>
 					<ul class="column col_98">	  
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=422">- Mindshare</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=6">- Pay &amp; Benefits</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=213&amp;sid=1692466">- Special Reports</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=158&amp;tt=Stimulus%2FRecovery+News&amp;tag_ids[]=5217&amp;tag_ids[]=3355&amp;tag_ids[]=2376&amp;tag_ids[]=1230">- Stimulus</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=2">- Technology</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=158&amp;tt=Web+2.0&amp;tag_ids[]=3002&amp;tag_ids[]=5538&amp;tag_ids[]=2938&amp;tag_ids[]=134&amp;tag_ids[]=694">- Web 2.0</a></li>	                
+		                <li class="notFirst"><a href="/?nid=422">- Mindshare</a></li>
+		                <li class="notFirst"><a href="/?nid=6">- Pay &amp; Benefits</a></li>
+		                <li class="notFirst"><a href="/?nid=213&amp;sid=1692466">- Special Reports</a></li>
+		                <li class="notFirst"><a href="/?nid=158&amp;tt=Stimulus%2FRecovery+News&amp;tag_ids[]=5217&amp;tag_ids[]=3355&amp;tag_ids[]=2376&amp;tag_ids[]=1230">- Stimulus</a></li>
+		                <li class="notFirst"><a href="/?nid=2">- Technology</a></li>
+		                <li class="notFirst"><a href="/?nid=158&amp;tt=Web+2.0&amp;tag_ids[]=3002&amp;tag_ids[]=5538&amp;tag_ids[]=2938&amp;tag_ids[]=134&amp;tag_ids[]=694">- Web 2.0</a></li>	                
 					</ul>
 				</div> <!--  end div "news1" -->
 	        	<div id="news2"><h2>News from WTOP</h2>				
 					<ul class="column col_125 ">
-		                <li class="notFirst"><a href="http://www.wtopnews.com/?nid=2&amp;sid=577762">- Local</a></li>	
-		                <li class="notFirst"><a href="http://www.wtopnews.com/?nid=597">- Maryland News</a></li>
-		                <li class="notFirst"><a href="http://www.wtopnews.com/?nid=599">- Virginia News</a></li>            
-		                <li class="notFirst"><a href="http://www.wtopnews.com/?nid=595">- D.C. News</a></li>    
-		                <li class="notFirst"><a href="http://www.wtopnews.com/?sid=590400&amp;nid=6">- Traffic</a></li>
-		                <li class="notFirst"><a href="http://www.wtopnews.com/?nid=7">- Weather</a></li>                
+		                <li class="notFirst"><a href="http://www.wtop.com/?nid=11">- Local</a></li>	
+		                <li class="notFirst"><a href="http://www.wtop.com/?nid=45">- Maryland News</a></li>
+		                <li class="notFirst"><a href="http://www.wtop.com/?nid=119">- Virginia News</a></li>            
+		                <li class="notFirst"><a href="http://www.wtop.com/?nid=108">- D.C. News</a></li>    
+		                <li class="notFirst"><a href="http://www.wtop.com/?nid=3">- Traffic</a></li>
+		                <li class="notFirst"><a href="http://www.wtop.com/?nid=4">- Weather</a></li>                
 					</ul>	
 				</div> <!--  end div "news2" -->
 	        	<div id="news3"><h2>News from the AP</h2>			
 					<ul class="column col_125">
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=36&amp;sid=1552264">- Business</a></li>	
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=405">- Entertainment</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=26&amp;sid=1552257">- Government</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=126">- Health</a></li>              
+		                <li class="notFirst"><a href="/?nid=36&amp;sid=1552264">- Business</a></li>	
+		                <li class="notFirst"><a href="/?nid=405">- Entertainment</a></li>
+		                <li class="notFirst"><a href="/?nid=26&amp;sid=1552257">- Government</a></li>
+		                <li class="notFirst"><a href="/?nid=126">- Health</a></li>              
 					</ul>				
 					<ul class="column col_98">		
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=404">- Sports</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=28&amp;sid=1552260">- U.S. News</a></li>	
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=30">- World</a></li>               
+		                <li class="notFirst"><a href="/?nid=404">- Sports</a></li>
+		                <li class="notFirst"><a href="/?nid=28&amp;sid=1552260">- U.S. News</a></li>	
+		                <li class="notFirst"><a href="/?nid=30">- World</a></li>               
 					</ul>
 				</div> <!--  end div "news3" -->
 			</div>  <!--  end div "subnav" -->
@@ -306,7 +324,7 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
 											</div> <!--  end div "adReceptacle" -->
 			<div style="clear:both;"></div>
 			<div id="closeMenu"><a href="#" class="close-toggle"><p class="closeToggle">Close Menu ✖</p></a></div> <!--  end div "closeMenu" -->
- 		<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="http://www.federalnewsradio.com/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
+ 		<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
     	</div> <!--  end div news -->
 
 <!--  OPINION DROPDOWN -->	
@@ -315,26 +333,26 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
 				<div id="opinion1">
 		            <ul class="column col_200 colExtraPadLeft_35">	     
 		                <li class="notFirst">
-		                	<a href="http://www.federalnewsradio.com/index.php?nid=7"><img class="subNavImg" src="http://www.federalnewsradio.com/images/navbar/mikecausey.gif"></a>
-							<p class="subNavP"><a href="http://www.federalnewsradio.com/index.php?nid=7">Mike Causey's<br>Federal Report</a></p>
+		                	<a href="/?nid=7"><img class="subNavImg" src="/images/navbar/mikecausey.gif"></a>
+							<p class="subNavP"><a href="/?nid=7">Mike Causey's<br>Federal Report</a></p>
 		                </li>                
 					</ul> 
-					<ul class="column col_200">
+<!--					<ul class="column col_200">
 		                <li class="notFirst">
-		                	<a href="http://www.federalnewsradio.com/index.php?nid=149"><img class="subNavImg" src="http://www.federalnewsradio.com/images/navbar/DorobekINSIDER.gif"></a>
-		                	<p class="subNavP"><a href="http://www.federalnewsradio.com/index.php?nid=149">DorobekINSIDER</a></p>                
+		                	<a href="/?nid=149"><img class="subNavImg" src="/images/navbar/DorobekINSIDER.gif" /></a>
+		                	<p class="subNavP"><a href="/?nid=149">DorobekINSIDER</a></p>                
 		                </li>
-					</ul>
+					</ul>-->
 					<ul class="column col_200">
 		                <li class="notFirst">
-		                	<a href="http://ttemin.wordpress.com/"><img class="subNavImg" src="http://www.federalnewsradio.com/images/navbar/Temin.gif "></a>
+		                	<a href="http://ttemin.wordpress.com/"><img class="subNavImg" src="/images/navbar/Temin.gif "></a>
 		                	<p class="subNavP"><a href="http://ttemin.wordpress.com/">Temin on Tech</a></p>	
 		                </li>	            
 					</ul>
 <!-- 					
 					<ul class="column col_200">
 		                <li class="notFirst">
-		                	<a href="#"><img class="subNavImg" src="http://www.federalnewsradio.com/images/navbar/Barlow.gif " /></a>
+		                	<a href="#"><img class="subNavImg" src="/images/navbar/Barlow.gif " /></a>
 		                	<p class="subNavP">Barlow Herget</p>
 						</li>	                
 					</ul> 
@@ -359,7 +377,7 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
                     <p class="closeToggle">Close Menu ✖</p>
                 </a>
             </div> <!--  end div "closeMenu" -->
- 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="http://www.federalnewsradio.com/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
+ 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
     	</div> <!--  end div "opinion" -->
     	
 <!--  PAYBENEFITS DROPDOWN -->
@@ -367,26 +385,27 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
 		        	<div id="subNav">
 			        	<div id="pb1"><h2>News &amp; Features</h2>
 					            <ul class="column col_150 ">	                	               
-					                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=6">- Pay &amp; Benefits News</a></li>
-					                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=1974626&amp;nid=385">- TSP</a></li>
-					                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=2063604&amp;nid=410">- Open Season</a></li>	 	                   	                
+					                <li class="notFirst"><a href="/?nid=6">- Pay &amp; Benefits News</a></li>
+					                <li class="notFirst"><a href="/?sid=1974626&amp;nid=385">- TSP</a></li>
+					                <li class="notFirst"><a href="/?sid=2063604&amp;nid=410">- Open Season</a></li>	 	                   	                
 								</ul> 
 						</div> <!--  end div "pb1" -->
 			        	<div id="pb3"><h2>Mike Causey</h2>				
 							<ul class="column col_180">
-			                	<li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=7">- Federal Report</a></li>
-			                	<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=243">- Mike Causey Archive</a></li>
-			                	<li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=21&amp;sid=1572718">- Your Turn with Mike Causey</a></li>             
+			                	<li class="notFirst"><a href="/?nid=7">- Federal Report</a></li>
+			                	<li class="notFirst"><a href="/?nid=243">- Mike Causey Archive</a></li>
+			                	<li class="notFirst"><a href="/?nid=21&amp;sid=1572718">- Your Turn with Mike Causey</a></li>
+								<li class="notFirst"><a href="/?nid=290&amp;sid=1867665">- Causey Awards</a></li>
 							</ul>	
 						</div>  <!--  end div "pb3" -->
 			        	<div id="pb2"><h2>Shows &amp; Panels</h2>
 					            <ul class="column col_98 ">	                	               
-			                		<li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=70">- Fed Access</a></li>	
-			                		<li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=47&amp;sid=1556608">- FEDtalk</a></li> 	                   	                
+			                		<li class="notFirst"><a href="/?nid=70">- Fed Access</a></li>	
+			                		<li class="notFirst"><a href="/?nid=47&amp;sid=1556608">- FEDtalk</a></li> 	                   	                
 								</ul> 
 								<ul class="column col_125">
-									<li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=23&amp;sid=1572337">- For Your Benefit</a></li>
-			                		<li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=52&amp;sid=1556719">- Inside Government</a></li> 
+									<li class="notFirst"><a href="/?nid=23&amp;sid=1572337">- For Your Benefit</a></li>
+			                		<li class="notFirst"><a href="/?nid=52&amp;sid=1556719">- Inside Government</a></li> 
 								</ul>
 						</div>  <!--  end div "pb2" -->
 					</div> <!--  end div "subNav" -->
@@ -408,7 +427,7 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
                     <p class="closeToggle">Close Menu ✖</p>
                 </a>
             </div> <!--  end div "closeMenu" -->
- 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="http://www.federalnewsradio.com/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
+ 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
     	</div> <!--  end div "payBenefits" --> 
     	
 <!--  MANAGEMENT DROPDOWN -->    		
@@ -416,24 +435,26 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
         	<div id="subNav">
 	        	<div id="management1" style=""><h2 style="">News &amp; Features</h2>
 			            <ul class="column col_200">	                	               
-			                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=5">- Management News</a></li>
-			                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=158&amp;tt=Budget+Stories&amp;tag_ids[]=20171&amp;tag_ids[]=9846&amp;tag_ids[]=379">- Budget</a></li>
-			                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=1956450&amp;nid=368">- Human Capital Solutions Report</a></li>
+			                <li class="notFirst"><a href="/?nid=5">- Management News</a></li>
+			                <li class="notFirst"><a href="/?nid=158&amp;tt=Budget+Stories&amp;tag_ids[]=20171&amp;tag_ids[]=9846&amp;tag_ids[]=379">- Budget</a></li>
+			                <!--<li class="notFirst"><a href="/?sid=1956450&amp;nid=368">&#45; Human Capital Solutions Report</a></li>-->
 	                			                   	                
 						</ul> 
 
 				</div> <!--  end div "tech1" -->
 	        	<div id="management2"><h2>Shows &amp; Panels</h2>							
 					<ul class="column col_200">		
-			                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=205">- Agency of the Month</a></li>
-			                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=67&amp;sid=1556924">- FedCentral</a></li>
-			                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=67&amp;sid=1556924">- Federal CFO Insights</a></li>
-			                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=1858730&amp;nid=285">- Federal News Countdown</a></li>              
+			                <!--<li class="notFirst"><a href="/?nid=205">&#45; Agency of the Month</a></li>-->
+			                <li class="notFirst"><a href="/?nid=67&amp;sid=1556924">- FedCentral</a></li>
+			                <!--<li class="notFirst"><a href="/?nid=67&amp;sid=1556924">&#45; Federal CFO Insights</a></li>-->
+			                <li class="notFirst"><a href="/?sid=1858730&amp;nid=285">- Federal News Countdown</a></li>
+							<li class="notFirst"><a href="/?nid=62&amp;sid=1550878">- IBM Business of Government Hour </a></li>
 					</ul>
 					<ul class="column col_200">
-							<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=1900524&amp;nid=308">- Gov Con Straight Talk</a></li>
-			                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=62&amp;sid=1550878">- IBM Business of Government Hour </a></li>
-			                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=302">- In Depth Conversations</a></li>            
+							<!--<li class="notFirst"><a href="/?sid=1900524&amp;nid=308">&#45; Gov Con Straight Talk</a></li>-->
+			                
+			                <li class="notFirst"><a href="/?nid=302">- In Depth Conversations</a></li>
+							<li class="notFirst"><a href="/?nid=479&amp;sid=2372755">- Visualizing the 21st Century of Healthcare Today</a></li>         
 					</ul>
 				</div> <!--  end div "news3" -->
 			</div> <!--  end div "subnav" -->			
@@ -456,7 +477,7 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
                     <p class="closeToggle">Close Menu ✖</p>
                 </a>
             </div> <!--  end div "closeMenu" -->
- 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="http://www.federalnewsradio.com/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
+ 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
     	</div> <!--  end div "management" -->
     	
 <!--  TECH DROPDOWN -->	
@@ -464,38 +485,43 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
         	<div id="subNav">
 	        	<div id="tech1" style=""><h2 style="">News &amp; Features</h2>
 			            <ul class="column col_150 ">	                	               
-	                		<li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=2">- Tech News</a></li>
-	                		<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=248">- Fed Cloud Blog</a></li>
-	                		<li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=59">- Collaboration Center</a></li>
-	                		<li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=158&amp;tt=Cybersecurity&amp;tag_ids[]=1577&amp;tag_ids[]=1615&amp;tag_ids[]=56&amp;tag_ids[]=1355&amp;tag_ids[]=6668&amp;tag_ids[]=9801">- Cybersecurity</a></li>
-	                		<li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=158&amp;tt=Health+IT&amp;tag_ids[]=4650&amp;tag_ids[]=17634&amp;tag_ids[]=1972">- Health IT</a></li>
-	                		<!--<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=2042619&nid=401">&#45; Inside Cybersecurity</a></li>-->
+	                		<li class="notFirst"><a href="/?nid=2">- Tech News</a></li>
+	                		<li class="notFirst"><a href="/?nid=248">- Fed Cloud Blog</a></li>
+	                		<li class="notFirst"><a href="/?sid=2349572&amp;nid=462">- Federal Broadband Minute</a></li>
+	                		<li class="notFirst"><a href="/?nid=59">- Collaboration Center</a></li>
+	                		<li class="notFirst"><a href="/?nid=158&amp;tt=Cybersecurity&amp;tag_ids[]=1577&amp;tag_ids[]=1615&amp;tag_ids[]=56&amp;tag_ids[]=1355&amp;tag_ids[]=6668&amp;tag_ids[]=9801">- Cybersecurity</a></li>
+	                		<li class="notFirst"><a href="/?nid=158&amp;tt=Health+IT&amp;tag_ids[]=4650&amp;tag_ids[]=17634&amp;tag_ids[]=1972">- Health IT</a></li>
+	                		<!--<li class="notFirst"><a href="/?sid=2042619&amp;nid=401">&#45; Inside Cybersecurity</a></li>-->
+							
 	                			                   	                
 						</ul> 
-						<ul class="column col_215">	               		
-	                		<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=177">- Meeting Mission Goals through Tech</a></li>
- 	                		<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=269">- Telework Center</a></li>
+						<ul class="column col_215">
+							<li class="notFirst"><a href="/?nid=177">- Meeting Mission Goals through Tech</a></li>
+							<li class="notFirst"><a href="/?sid=2102598&amp;nid=424">- Telepresence Center</a></li>
+ 	                		<li class="notFirst"><a href="/?nid=269">- Telework Center</a></li>
 	                		<li class="notFirst"><a href="http://ttemin.wordpress.com">- Temin on Tech</a></li>
-	                		<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=1869940&amp;nid=292">- Trusted Advisor Center</a></li>
-	                		<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=2102598&amp;nid=424">- Video Teleconferencing Center</a></li>
+	                		<!--<li class="notFirst"><a href="/?sid=1869940&amp;nid=292">&#45; Trusted Advisor Center</a></li>-->
+							<!--<li class="notFirst"><a href="/?sid=2291328&nid=449">&#45; Virtualization Expert</a></li>-->
+	                		<!--Video Teleconferencing Center-->
 						</ul>
 				</div> <!--  end div "tech1" -->
 	        	<div id="tech2"><h2>Shows</h2>				
 					<ul class="column col_180">
-	                	<li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=42&amp;sid=1550881">- Ask the CIO</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=62&amp;sid=1550878">- Business of Government Hour</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=55&amp;sid=1560634">- Federal Security Spotlight</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=82&amp;sid=1554928">- Federal Tech Talk</a></li>               
+	                	<li class="notFirst"><a href="/?nid=42&amp;sid=1550881">- Ask the CIO</a></li>
+		                <li class="notFirst"><a href="/?nid=62&amp;sid=1550878">- Business of Government Hour</a></li>
+		                <li class="notFirst"><a href="/?nid=55&amp;sid=1560634">- Federal Security Spotlight</a></li>
+		                <li class="notFirst"><a href="/?nid=82&amp;sid=1554928">- Federal Tech Talk</a></li>               
 					</ul>	
 				</div> <!--  end div "tech2" -->
 	        	<div id="tech3"><h2>Panel Discussions</h2>			
 					<ul class="column col_150">
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=393&amp;sid=2017195">- Dynamic Cybersecurity</a></li>	
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=153">- Expert Voices</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=49&amp;sid=1554821">- Federal Executive Forum</a></li>
-						<li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=430&amp;sid=2116441">- FedScoop</a></li>  
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=372">- Future of Public Sector Workforce</a></li>
-						<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=1969780&amp;nid=378">- Center for Innovation in Government</a></li>
+		               <!-- <li class="notFirst"><a href="/?nid=393&amp;sid=2017195">&#45; Dynamic Cybersecurity</a></li>-->	
+		                <li class="notFirst"><a href="/?nid=154&amp;sid=2343561">- Expert Voices</a></li>
+		                <li class="notFirst"><a href="/?nid=49&amp;sid=1554821">- Federal Executive Forum</a></li>
+		                <li class="notFirst"><a href="/?nid=440&amp;sid=2237443">- Federal IT Challenge</a></li>
+						<!--<li class="notFirst"><a href="/?nid=430&amp;sid=2116441">&#45; FedScoop</a></li>  -->
+		                <li class="notFirst"><a href="/?nid=372">- Future of Public Sector Workforce</a></li>
+						<!--<li class="notFirst"><a href="/?sid=1969780&amp;nid=378">&#45; Center for Innovation in Government</a></li>-->
 					</ul>
 				</div> <!--  end div "tech3" -->
 			</div> <!--  end div "subnav" -->
@@ -517,22 +543,24 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
                     <p class="closeToggle">Close Menu ✖</p>
                 </a>
             </div> <!--  end div "closeMenu" -->
- 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="http://www.federalnewsradio.com/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
+ 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
     	</div> <!--  end div "tech" -->
     	
 <!--  DEFENSE DROPDOWN -->    	
 		<div id="defense" class="slideContent">
         	<div id="subNav">
 	        	<div id="defense1"><h2>News &amp; Features</h2>		
-	        		<ul class="column col_200">		
-                		<li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=158&amp;tt=Defense+News&amp;tag_ids[]=83&amp;tag_ids[]=707&amp;tag_ids[]=243&amp;tag_ids[]=22&amp;tag_ids[]=19995&amp;tag_ids[]=3595&amp;tag_ids[]=18&amp;tag_ids[]=716&amp;tag_ids[]=858">- Defense News</a></li> 
-                		<li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=158&amp;tt=Homeland+Security&amp;tag_ids[]=2172&amp;tag_ids[]=2826&amp;tag_ids[]=27&amp;tag_ids[]=686&amp;tag_ids[]=6622&amp;tag_ids[]=924&amp;tag_ids[]=3505&amp;tag_ids[]=683&amp;tag_ids[]=2827&amp;tag_ids[]=1994&amp;tag_ids[]=1768&amp;tag_ids[]=5760&amp;tag_ids[]=2503&amp;tag_ids[]=1299&amp;tag_ids[]=4503&amp;tag_ids[]=4906&amp;tag_ids[]=4591">- Homeland Security News</a></li>
-                		<li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=123&amp;sid=1573970">- Hunt for Osama Bin Laden</a></li>              
+	        		<ul class="column col_200">
+						<li class="notFirst"><a href="/?sid=&amp;nid=459">- Ballistic Missile Defense Report</a></li>
+						<li class="notFirst"><a href="/?sid=&amp;nid=452">- COMSATCOM Report</a></li>
+                		<li class="notFirst"><a href="/?nid=158&amp;tt=Defense+News&amp;tag_ids[]=83&amp;tag_ids[]=707&amp;tag_ids[]=243&amp;tag_ids[]=22&amp;tag_ids[]=19995&amp;tag_ids[]=3595&amp;tag_ids[]=18&amp;tag_ids[]=716&amp;tag_ids[]=858">- Defense News</a></li> 
+                		<li class="notFirst"><a href="/?nid=158&amp;tt=Homeland+Security&amp;tag_ids[]=2172&amp;tag_ids[]=2826&amp;tag_ids[]=27&amp;tag_ids[]=686&amp;tag_ids[]=6622&amp;tag_ids[]=924&amp;tag_ids[]=3505&amp;tag_ids[]=683&amp;tag_ids[]=2827&amp;tag_ids[]=1994&amp;tag_ids[]=1768&amp;tag_ids[]=5760&amp;tag_ids[]=2503&amp;tag_ids[]=1299&amp;tag_ids[]=4503&amp;tag_ids[]=4906&amp;tag_ids[]=4591">- Homeland Security News</a></li>
+                		<li class="notFirst"><a href="/?nid=123&amp;sid=1573970">- Hunt for Osama Bin Laden</a></li>              
 					</ul>	
 					<ul class="column col_165">
-               			<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=1573845&amp;nid=121">- Intel Briefing</a></li>
-                		<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=2037049&amp;nid=397">- Nightwatch</a></li>
-                		<li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=124&amp;sid=1573980">- Pentagon and Beyond</a></li>          
+               			<li class="notFirst"><a href="/?sid=1573845&amp;nid=121">- Intel Briefing</a></li>
+                		<!--<li class="notFirst"><a href="/?sid=2037049&amp;nid=397">&#45; Nightwatch</a></li>-->
+                		<li class="notFirst"><a href="/?nid=124&amp;sid=1573980">- Pentagon and Beyond</a></li>          
 					</ul>				
 				</div> <!--  end div "news3" -->
 
@@ -553,7 +581,7 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
                     <p class="closeToggle">Close Menu ✖</p>
                 </a>
             </div> <!--  end div "closeMenu" -->
- 			<!--  <div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="http://www.federalnewsradio.com/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->           
+ 			<!--  <div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->           
     	</div> <!--  end div "defense" -->
     	
 <!--  CONTRACTING DROPDOWN -->    
@@ -561,16 +589,16 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
         	<div id="subNav">
 	        	<div id="contracting1" style=""><h2 style="">News &amp; Features</h2>
 			            <ul class="column col_200">	                	               
-	                		<li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=4">- Contracting News</a></li>	   
-							<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=2063693&amp;nid=411">- Industry News</a></li>	                			                   	                
+	                		<li class="notFirst"><a href="/?nid=4">- Contracting News</a></li>	   
+							<li class="notFirst"><a href="/?sid=2063693&amp;nid=411">- Industry News</a></li>	                			                   	                
 						</ul> 
 
 				</div> <!--  end div "tech1" -->
 	        	<div id="contracting2"><h2>Shows &amp; Panels</h2>			
 					<ul class="column col_200">
-	                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=57&amp;sid=1551447">- Amtower Off-Center</a></li>	
-					<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=&amp;nid=304">- Industry Chatter</a></li>
-	                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=45">- Off the Shelf</a></li>            
+	                <li class="notFirst"><a href="/?nid=57&amp;sid=1551447">- Amtower Off-Center</a></li>	
+					<li class="notFirst"><a href="/?nid=304">- Industry Chatter</a></li>
+	                <li class="notFirst"><a href="/?nid=45">- Off the Shelf</a></li>            
 					</ul>				
 				</div> <!--  end div "news3" -->
 			</div> <!--  end div "subnav" -->	
@@ -592,7 +620,7 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
                     <p class="closeToggle">Close Menu ✖</p>
                 </a>
             </div> <!--  end div "closeMenu" -->
- 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="http://www.federalnewsradio.com/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
+ 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
     	</div> <!--  end div "contracting" --> 
     	
 <!--  SHOWS DROPDOWN -->    	  	
@@ -600,18 +628,18 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
         	<div id="subNav">
 	        	<div id="shows1" style=""><h2 style="">Daily</h2>
 			            <ul class="column col_275">	                	               
-			                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=14">- Federal Drive with Tom Temin &amp; Amy Morris</a></li>
-			                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=149">- DorobekINSIDER with Chris Dorobek</a></li>
-			                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=16">- In Depth with Francis Rose</a></li>	
+			                <li class="notFirst"><a href="/?nid=14">- Federal Drive with Tom Temin &amp; Amy Morris</a></li>
+			                <!--<li class="notFirst"><a href="/?nid=149">&#45; DorobekINSIDER with Chris Dorobek</a></li>-->
+			                <li class="notFirst"><a href="/?nid=16">- In Depth with Francis Rose</a></li>	
 	                			                   	                
 						</ul> 
 
 				</div> <!--  end div "tech1" -->
 	        	<div id="shows2"><h2>Other Shows</h2>			
 					<ul class="column col_275">
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?sid=1551764&amp;nid=94">- Program Schedule</a></li>	
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/index.php?nid=8">- Sports Schedule</a></li> 
-		                <li class="notFirst"><a href="http://www.wtopnews.com/?nid=409&amp;sid=608335">- Weekend Schedule</a></li>	           
+		                <li class="notFirst"><a href="/?sid=1551764&amp;nid=94">- Program Schedule</a></li>	
+		                <li class="notFirst"><a href="/?nid=8">- Sports Schedule</a></li> 
+		                <li class="notFirst"><a href="/?sid=2216904&amp;nid=436">- Weekend Schedule</a></li>	           
 					</ul>				
 				</div> <!--  end div "news3" -->
 			</div> <!--  end div "subnav" -->
@@ -633,7 +661,7 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
                     <p class="closeToggle">Close Menu ✖</p>
                 </a>
             </div> <!--  end div "closeMenu" -->
- 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="http://www.federalnewsradio.com/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
+ 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
     	</div> <!--  end div "shows" -->
     	
 <!--  AUDIO DROPDOWN -->  	
@@ -643,16 +671,16 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
 			            <ul class="column  ">	                	               
                 			<li class="notFirst">- Please click on one of the player links below to listen online to Federal News Radio.</li>
                 			<li class="notFirst">
-                				<a href="javascript:void(window.open('http://tools.bonnint.net/linker/click.php?link_id=1696&amp;col=wtop',%20'WFEDAM',%20'width=680,height=511,%20status=no,resizable=no,scrollbars=no'));"><img id="flashImg" src="http://www.federalnewsradio.com/images/navbar/adobeflash.gif"></a>
-                				<a href="javascript:void(window.open('http://tools.bonnint.net/linker/click.php?link_id=1697&amp;col=wtop',%20'WFEDAM'%20,'width=500,height=450,status=no,resizable=no,scrollbars=no'))"><img id="windowsImg" src="http://www.federalnewsradio.com/images/navbar/windowsmedia.gif"></a>
-                				<a href="javascript:void(window.open('http://tools.bonnint.net/linker/click.php?link_id=1698&amp;col=wtop',%20'WFEDAMMP3'%20,''));"><img id="itunesImg" src="http://www.federalnewsradio.com/images/navbar/mp3.gif"></a>
+                				<a href="javascript:void(window.open('http://tools.bonnint.net/linker/click.php?link_id=1696&amp;col=wtop',%20'WFEDAM',%20'width=680,height=511,%20status=no,resizable=no,scrollbars=no'));"><img id="flashImg" src="/images/navbar/adobeflash.gif"></a>
+                				<a href="javascript:void(window.open('http://tools.bonnint.net/linker/click.php?link_id=1697&amp;col=wtop',%20'WFEDAM'%20,'width=500,height=450,status=no,resizable=no,scrollbars=no'))"><img id="windowsImg" src="/images/navbar/windowsmedia.gif"></a>
+                				<a href="javascript:void(window.open('http://tools.bonnint.net/linker/click.php?link_id=1698&amp;col=wtop',%20'WFEDAMMP3'%20,''));"><img id="itunesImg" src="/images/navbar/mp3.gif"></a>
                 			</li>	 	                   	                
 						</ul> 
 				</div> <!--  end div "audio1" -->
 	        	<div id="audio2"><h2>Audio</h2>				
 					<ul class="column col_180">
-	                	<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=1552333&amp;nid=11">- Audio Archive</a></li>   
-	                	<li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=2102875&amp;nid=283">- Listen on your cell phone</a></li>           
+	                	<li class="notFirst"><a href="/?sid=1552333&amp;nid=11">- Audio Archive</a></li>   
+	                	<li class="notFirst"><a href="/?sid=2102875&amp;nid=283">- Listen on your cell phone</a></li>           
 					</ul>	
 				</div> <!--  end div "audio2" -->
 			</div> <!--  end div "subNav" -->	
@@ -674,7 +702,7 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
                     <p class="closeToggle">Close Menu ✖</p>
                 </a>
             </div> <!--  end div "closeMenu" -->
- 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="http://www.federalnewsradio.com/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
+ 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
     	</div> <!--  end div "audio" -->
     	
 <!--  SPORTS DROPDOWN -->  	
@@ -683,12 +711,12 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
 	        	<div id="sports1"><h2>Sports</h2>
 		            <ul class="column  ">	                	               
                 		<li class="notFirst">
-                			<div class="sportsImgDiv"><a href="http://www.federalnewsradio.com/?sid=1556891&amp;nid=8#Caps"><img id="navCapsImg" src="http://www.federalnewsradio.com/images/navbar/capitals.gif"><p>Washington Capitals</p></a></div>
-							<div class="sportsImgDiv"><a href="http://www.federalnewsradio.com/?sid=1556891&amp;nid=8#GW"><img id="navGWImg" src="http://www.federalnewsradio.com/images/navbar/GW.gif"><p>George Washington<br>Colonials</p></a></div>
-                			<div class="sportsImgDiv"><a href="http://www.federalnewsradio.com/?sid=1556891&amp;nid=8#Navy"><img id="navNavyImg" src="http://www.federalnewsradio.com/images/navbar/navy.gif"><p>Navy Sports</p></a></div>
-                			<div class="sportsImgDiv"><a href="http://www.federalnewsradio.com/?sid=1556891&amp;nid=8#Ravens"><img id="navRavensImg" src="http://www.federalnewsradio.com/images/navbar/ravens.gif"><p>Baltimore Ravens</p></a></div>
-                			<div class="sportsImgDiv"><a href="http://www.federalnewsradio.com/?sid=1556891&amp;nid=8#AU"><img id="navAUImg" src="http://www.federalnewsradio.com/images/navbar/AU.gif"><p>American University<br>Basketball</p></a></div>
-                			<div class="sportsImgDiv"><a href="http://www.federalnewsradio.com/?sid=1556891&amp;nid=8#Nats"><img id="navNatsImg" src="http://www.federalnewsradio.com/images/navbar/nationals.gif"><p>Washington Nationals</p></a></div>
+                			<div class="sportsImgDiv"><a href="/?sid=1556891&amp;nid=8#Caps"><img id="navCapsImg" src="/images/navbar/capitals.gif"><p>Washington Capitals</p></a></div>
+							<div class="sportsImgDiv"><a href="/?sid=1556891&amp;nid=8#GW"><img id="navGWImg" src="/images/navbar/GW.gif"><p>George Washington<br>Colonials</p></a></div>
+                			<div class="sportsImgDiv"><a href="/?sid=1556891&amp;nid=8#Navy"><img id="navNavyImg" src="/images/navbar/navy.gif"><p>Navy Sports</p></a></div>
+                			<div class="sportsImgDiv"><a href="/?sid=1556891&amp;nid=8#Ravens"><img id="navRavensImg" src="/images/navbar/ravens.gif"><p>Baltimore Ravens</p></a></div>
+                			<div class="sportsImgDiv"><a href="/?sid=1556891&amp;nid=8#AU"><img id="navAUImg" src="/images/navbar/AU.gif"><p>American University<br>Basketball</p></a></div>
+                			<div class="sportsImgDiv"><a href="/?sid=1556891&amp;nid=8#Nats"><img id="navNatsImg" src="/images/navbar/nationals.gif"><p>Washington Nationals</p></a></div>
                 		</li>	 	                   	                
 					</ul> 
 				</div> <!--  end div "sports1" -->
@@ -712,7 +740,7 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
                     <p class="closeToggle">Close Menu ✖</p>
                 </a>
             </div> <!--  end div "closeMenu" -->
- 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="http://www.federalnewsradio.com/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
+ 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
     	</div> <!--  end div "sports" -->
     	
 <!--  WFED DROPDOWN -->    	
@@ -720,25 +748,25 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
         	<div id="subNav">
 	        	<div id="wfed1"><h2>Inside Federal News Radio</h2>
 		            <ul class="column col_140 ">	                	               
-	              		<li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=88&amp;sid=1551731">- About Us</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?sid=1551741&amp;nid=86#advertising">- Advertise</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=95&amp;sid=1551767">- Careers</a></li>	               
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=93&amp;sid=1674188">- Comment Policy</a></li>	                   	                
+	              		<li class="notFirst"><a href="/?nid=88&amp;sid=1551731">- About Us</a></li>
+		                <li class="notFirst"><a href="/?sid=1551741&amp;nid=86#advertising">- Advertise</a></li>
+		                <li class="notFirst"><a href="/?nid=95&amp;sid=1551767">- Careers</a></li>	               
+		                <li class="notFirst"><a href="/?nid=93&amp;sid=1674188">- Comment Policy</a></li>	                   	                
 					</ul> 
 					<ul class="column col_210">	
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=86&amp;sid=1551741">- Contact Us</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=93&amp;sid=1551737">- Copyright Infringement Policy</a></li>	                
+		                <li class="notFirst"><a href="/?nid=86&amp;sid=1551741">- Contact Us</a></li>
+		                <li class="notFirst"><a href="/?nid=93&amp;sid=1551737">- Copyright Infringement Policy</a></li>	                
 		                <li class="notFirst"><a href="http://www.facebook.com/wtopnews#!/pages/Federal-News-Radio/95135221781?ref=ts">- Follow Us on Facebook</a></li>
 					</ul>
 					<ul class="column col_165">	  
 		                <li class="notFirst"><a href="http://twitter.com/fednewsradio">- Follow Us on Twitter</a></li>											 					              	               								
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=90&amp;sid=1551704">- Meet the Staff</a></li>	                           
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=282&amp;sid=1855868">- Press Room</a></li>                 
+		                <li class="notFirst"><a href="/?nid=90&amp;sid=1551704">- Meet the Staff</a></li>	                           
+		                <li class="notFirst"><a href="/?nid=282&amp;sid=1855868">- Press Room</a></li>                 
 					</ul>
 					<ul class="column col_180">	  
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=93&amp;sid=1551735">- Privacy Statement</a></li>	                
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=97">- Station Events &amp; Partnerships</a></li>
-		                <li class="notFirst"><a href="http://www.federalnewsradio.com/?nid=93&amp;sid=1551736">- Terms of Use</a></li>                
+		                <li class="notFirst"><a href="/?nid=93&amp;sid=1551735">- Privacy Statement</a></li>	                
+		                <li class="notFirst"><a href="/?nid=97">- Station Events &amp; Partnerships</a></li>
+		                <li class="notFirst"><a href="/?nid=93&amp;sid=1551736">- Terms of Use</a></li>                
 					</ul>
 				</div>
 			</div> 	<!--  end div "subnav" --> 
@@ -761,11 +789,13 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
                     <p class="closeToggle">Close Menu ✖</p>
                 </a>
             </div> <!--  end div "closeMenu" -->
- 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="http://www.federalnewsradio.com/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
+ 			<!-- 	<div class="testAdDiv"><a class="testAdImg" href="http://tools.bonnint.net/linker/click.php?link_id=2278&col=wtop" target="_blank"><img class="testAd" src="/images/navbar/Ads/Polycom200x60.gif" /></a></div> -->
     	</div> <!--  end div "wfed"  -->
 
     	
 <div class="needText" style="clear:left;">
+
+
 
 <!--  BEGIN navNewDropDown.php REGION -->
 							
@@ -833,25 +863,25 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
 										
 																																												
 											<div class="story_content">
-												<center><u><b>PRIVACY STATEMENT</b></u></center><br>
-(Last Revised January, 2009)
+												<b>Privacy Policy</b><br>
+Updated: April 26, 2011 <br><br>
 <p>
-<b>General</b>.  This website (the "Site") is operated by Bonneville International Corporation ("Operator").  The following Privacy Statement (the "Statement") supplements the <a href="/?nid=93&amp;sid=1551736">Terms of Use</a> posted elsewhere at the Site.  You should read the Statement and the Terms of Use before you use the Site.  By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced in the Statement.  You should review the Statement from time to time.  Operator may change the Statement at any time without notice by posting revisions to the Site.  Your continued use of the Site constitutes your acceptance of the revised Statement.  If you do not accept all of the terms and conditions set forth in the Statement, you must exit the Site immediately.
-</p><p>
-<b>No Use by Children</b>.  The Site is not directed to, or intended for use by, children (defined as anyone age twelve (12) or younger).  Children should not use the Site or submit any information to Operator.
-</p><p>
-<b>What Information is Collected</b>.  There are two general types of information that can be collected as a result of your use of the Site:  (1) Personally identifiable information (such as your first and last name, home or other physical address, telephone number, email address, date of birth, social security number, other identifiers that permit physical or online contact with you or any information about you collected online and maintained in personally identifiable form in combination with any of the preceding categories), and (2) aggregate information (such as your IP address - a number used to identify your computer when you are on the Internet - or the type of browser you are using).
-</p><p>
-<b>Personally Identifiable Information.</b>  Certain features available at the Site will require you to submit personally identifiable information about yourself ("Personal Information") as a condition of participation.  Some of the features may be offered by Operator, while others may be offered by third parties.  (For example, you may be required to submit Personal Information in order to enter a contest conducted by Operator, or you may be required to submit Personal Information in order to receive news updates by email from a third party news source.)  In addition, Operator may ask you to provide Personal Information for purposes unrelated to the use of a feature at the Site.  IN ALL CASES, YOU CAN ALWAYS REFUSE TO PROVIDE PERSONAL INFORMATION, BUT THIS MAY RESULT IN DECREASED FUNCTIONALITY OF THE SITE FOR YOU AND LIMIT YOUR ABILITY TO RECEIVE INFORMATION ABOUT PRODUCTS OR SERVICES THAT MAY BE OF PARTICULAR INTEREST.  In general, the use of Personal Information you choose to submit to a third party in connection with your use of the Site will be controlled by the privacy practices of the third party and not this Statement.
-</p><p>
-<b>Aggregate Information/Cookies.</b>  Operator and third parties with features at the Site may collect aggregate information through the use of "cookies" or by other electronic means.  In general, a cookie is a small amount of data sent to your browser from a web server and stored on your computer's hard drive.  With most browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored.  You can refer to the instructions for your browser to learn more about these functions.  If you choose to reject cookies, the Site likely will not operate as efficiently for you.
-</p><p>
-<b>Ownership and Use of Information.</b>  ANY INFORMATION COLLECTED BY OPERATOR IN CONNECTION WITH YOUR USE OF THE SITE - REGARDLESS OF WHETHER CHARACTERIZED AS PERSONAL INFORMATION OR AGGREGATE - WILL BELONG EXCLUSIVELY TO OPERATOR AND MAY BE USED, MAINTAINED, UPDATED, DISCLOSED OR SOLD BY OPERATOR AS DESIRED IN ITS SOLE DISCRETION.
-</p><p>
-<b>Forums</b>.  The Site may include forums (such as message boards and chat rooms) that enable users to communicate with each other.  Operator is under no obligation to moderate or edit the forums and will not be responsible for the content or use of any material posted on any forum at the Site.  Operator retains the right to delete at any time and for any or no reason any material posted at the Site.
-</p><p>
-<b>Contact Information</b>.  Questions concerning the Statement or the Site, including any request to review or change your Personal Information, should be directed to John Meyer at jmeyer@federalnewsradio.com.
-</p><p>											</p></div>
+<b>General.</b> This website (the "Site") is operated by Hubbard Radio, LLC ("Operator"). The following Privacy Statement (the "Statement") supplements the Terms of Use posted above on this page. You should read the Statement and the Terms of Use before you use the Site. By using the Site, you agree to be bound by all of the terms, conditions and notices contained or referenced herein. You should review the Statement from time to time. Operator may change the Statement at any time by posting revisions to the Site. Your continued use of the Site constitutes your acceptance of the revised Statement. If you do not agree to all of the terms and conditions set forth in the Statement, you must exit the Site immediately. 
+<br><br>
+<b>No Use by Children.</b> The Site is not directed to, or intended for use by, children (defined as anyone age twelve or younger). Children should not use the Site or submit any information to Operator. 
+<br><br>
+<b>What Information may be Collected.</b> There are two general types of information that may be collected as a result of your use of the Site: (1) Personally identifiable information (such as your name, address, telephone number and email address); and (2) aggregate information (such as your IP address - a number used to identify your computer when you are on the Internet - or the type of browser you are using). 
+<br><br>
+<b>Personally Identifiable Information.</b> Certain features available at the Site will require you to submit personally identifiable information about yourself ("Personal Information") as a condition of participation. Some of the features will be offered by Operator, while others will be offered by third parties. (For example, you may be required to submit Personal Information in order to enter an online contest conducted by Operator, or you may be required to submit Personal Information in order to receive news updates by email from a third party news source.) In addition, Operator may ask you to provide Personal Information for purposes unrelated to the use of a feature at the Site. In all cases, you can always refuse to provide Personal Information, but this may result in decreased functionality of the Site for you and limit your ability to receive information about products or services that may be of particular interest. In general, the use of Personal Information you choose to submit to a third party in connection with your use of the Site will be controlled by the privacy practices of the third party and not this Statement. 
+<br><br>
+<b>Aggregate Information/Cookies.</b> Operator and third parties will collect aggregate information through the use of "cookies" or by other electronic means. In general, a cookie is a small amount of data sent to your browser from a web server and stored on your computer's hard drive. With most browsers or other software, you can erase cookies from your computer hard drive, block all cookies or receive a warning before a cookie is stored. You can refer to the instructions for your browser to learn more about these functions. If you choose to reject cookies, the Site will not operate as efficiently for you. 
+<br><br>
+<b>Ownership and Use of Information.</b> Any information collected by Operator in connection with your use of the Site - regardless of whether characterized as Personal Information or aggregate - shall belong exclusively to Operator and will be used, maintained, updated, disclosed or sold by Operator at its sole discretion. 
+<br><br>
+<b>Contact Information</b>.  Questions concerning the 
+Statement or the Site, including any request to review or 
+change your Personal Information, should be directed to 
+jmeyer@wtop.com.											</p></div>
 
 																																	
 											
@@ -942,7 +972,7 @@ GA_googleAddSlot("ca-pub-8087073732553662", "wfed2_Home_InsideWFED_WFEDPolicies_
 						</div>
 						
 						<p>
-							<a class="grylnk" href="/index.php">Home</a> | <a class="grylnk" href="/?nid=88&amp;sid=1551731">About Us</a> | <a class="grylnk" href="/?nid=93&amp;sid=1551735">Privacy Statement</a> | <a class="grylnk" href="/?nid=93&amp;sid=1551736">Terms of Use</a> | <a class="grylnk" href="/?nid=93&amp;sid=1551737">Copyright Infringement</a> | <a class="grylnk" href="http://www.wtop.com/docs/FCC_EEO_DC.pdf">EEO Public File Report</a> | <a class="grylnk" href="http://www.bonneville.com">Bonneville International</a><br>
+							<a class="grylnk" href="/index.php">Home</a> | <a class="grylnk" href="/?nid=88&amp;sid=1551731">About Us</a> | <a class="grylnk" href="/?nid=93&amp;sid=1551735">Privacy Statement</a> | <a class="grylnk" href="/?nid=93&amp;sid=1551736">Terms of Use</a> | <a class="grylnk" href="/?nid=93&amp;sid=1551737">Copyright Infringement</a> | <a class="grylnk" href="http://www.wtop.com/docs/FCC_EEO_DC.pdf">EEO Public File Report</a> | <a class="grylnk" href="http://www.hubbardradio.com/home/index.html">Hubbard Radio, LLC</a><br>
 							AP material Copyright 2009 Associated Press. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.
 						</p>
 
@@ -967,7 +997,7 @@ http://www.omniture.com -->
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.pageName="Privacy Statement"
-s.server="m25"
+s.server="m6"
 s.channel="Inside WFED"
 s.pageType=""
 s.prop1=""
