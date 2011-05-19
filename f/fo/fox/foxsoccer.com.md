@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foxsoccer.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112002952id_/http%3A//msn.foxsports.com/foxsoccer/world/story/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsoccer.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519230714id_/http%3A//msn.foxsports.com/foxsoccer/world/story/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - News | FOX Sports on MSN
 
-Updated Jan 4, 2010 5:18 PM ET 
+Updated Jan 4, 2010 5:18 PM ET
 
 **_FOXSPORTS.COM_** ** _PRIVACY POLICY_**
 
