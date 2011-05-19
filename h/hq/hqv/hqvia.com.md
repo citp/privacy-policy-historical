@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hqvia.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123174010id_/http%3A//hqvia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hqvia.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519115800id_/http%3A//hqvia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
