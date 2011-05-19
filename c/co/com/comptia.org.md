@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comptia.org privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704202610id_/http%3A//www.comptia.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comptia.org privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519045828id_/http%3A//www.comptia.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -60,6 +60,5 @@ CompTIA may amend this Privacy Statement from time to time. Any such amendments 
 **Inquiries or Complaints**  
 If you have any inquiries or complaints regarding this Privacy Statement, [contact us](mailto:webmaster@comptia.org). 
 
-* * *
+  
 
-[ Request More Information](https://web.archive.org/web/20100704202610id_/http%3A//www.comptia.org/contactus.aspx)
