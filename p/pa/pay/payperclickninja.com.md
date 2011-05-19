@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payperclickninja.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228011535id_/http%3A//www.payperclickninja.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payperclickninja.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519110536id_/http%3A//payperclickninja.com/Privacy.html) for the most accurate reproduction.*
 
 # PPC Ninja CPA Traffic Dojo - Advanced Access
 
