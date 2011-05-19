@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparklette.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231180214id_/http%3A//sparklette.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparklette.net privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519163217id_/http%3A//sparklette.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sparklette - Dine. Wine. Travel.
 
@@ -16,19 +16,19 @@ Sparklette does not spam.
 
 #### Data Sparklette Collects
 
-**Blog Comments**  
+ **Blog Comments**  
 A visitor may respond to an article or a comment posted on our website. If the author so chooses, the comment may include personally identifiable information, and that information will be posted online along with the rest of the comment. In general, however, we do not recommend that blog comments include personally identifiable information.
 
-**Contestant Information**  
+ **Contestant Information**  
 Sparklette occasionally runs contests in collaboration with our partners. We may collect certain information from contestants, including personally identifiable information. We may list contestant names in online or other public notices of contest winners. We may also use contest entries (videos, photos, blogs, etc.) for public marketing purposes, and we may include contestant names and other personally identifiable information with those entries.
 
-**Visitor Number Tracking**  
+ **Visitor Number Tracking**  
 Sparklette makes use of website traffic analytic tools to track the number of visitors to our website, as well as the pages they visit within the sites and the hyperlinks they use (if any) to leave. The information recorded includes IP addresses, type of browser, date/time stamp, referring/exit pages, and number of clicks to analyse trends, administer the site, track user movements around the site, and gather demographic information. This does not involve collection of any personally identifiable information. We use this information to analyse interest in and usage of the website.
 
-**Data Provided Through Contact Forms**  
+ **Data Provided Through Contact Forms**  
 Website visitors can fill out a contact form on the website. This form requests individual name and email address. We use this information solely to respond to the visitors.
 
-**Cookies and Web Beacons**  
+ **Cookies and Web Beacons**  
 Sparklette uses cookies to store information about visitor preferences, record user-specific information on which pages visitors access, customise webpage content based on visitors’ browser types or other information that visitors send via their browser.
 
 #### Use of Personally Identifiable Information
@@ -39,14 +39,14 @@ Sparklette does not share personally identifiable information under any circumst
 
 This Privacy Policy does not address use of data by our partners, advertisers or by other third parties. Sparklette is not responsible for use or misuse of data by any third party.
 
-**DoubleClick DART Cookie**  
+ **DoubleClick DART Cookie**  
 Google, as a third party vendor, uses cookies to serve ads on Sparklette. Google’s use of the DART cookie enables it to serve ads to users based on their visit to Sparklette and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html "Google: Advertising and Privacy").
 
-**Advertising Partners**  
+ **Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our website. Our advertising partners include:  
 \- Google AdSense  
 \- Blogads  
-\- ADSDAQ
+\- ContextWeb
 
 These third-party ad servers or ad networks send the advertisements and links that appear on Sparklette directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or web beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalise the advertising content that you see.
 
@@ -56,4 +56,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-If you require any more information or have any questions about our Privacy Policy, please feel free to contact us by email at [admin@sparklette.net](mailto:admin@sparklette.net).
+If you require any more information or have any questions about our Privacy Policy, please feel free to contact us by email at [support@sparklette.net](mailto:support@sparklette.net).
