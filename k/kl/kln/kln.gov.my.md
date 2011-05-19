@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kln.gov.my privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114123604id_/http%3A//www.kln.gov.my/web/guest/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kln.gov.my privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519183017id_/http%3A//www.kln.gov.my/web/guest/privacy_policy) for the most accurate reproduction.*
 
 # Ministry of Foreign Affairs, Malaysia - Privacy Policy
 
