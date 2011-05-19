@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klikadvertising.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220094532id_/http%3A//klikadvertising.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klikadvertising.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519222515id_/http%3A//klikadvertising.com/privacy_policy.php) for the most accurate reproduction.*
 
 # KlikAdvertising - Targeted traffic of the highest quality!
 
