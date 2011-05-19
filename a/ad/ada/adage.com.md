@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adage.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231101134id_/http%3A//adage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adage.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519185900id_/http%3A//adage.com/privacy) for the most accurate reproduction.*
 
-# Advertising Age - Privacy Statement
+# Privacy Policy - Advertising Age
 
 [Ad Age.com](http://adage.com/) is a Web site of, and Advertising Age is a publication of, The Ad Age Group, a business unit of [Crain Communications](http://crain.com/) Inc. Our postal address is 711 Third Avenue, New York, NY 10019. We can be reached by e-mail at [AdAgeFeedback@adage.com](mailto:AdAgeFeedback@adage.com) or by telephone at 212-210-0794. Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
 
