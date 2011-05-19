@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pharmer.org privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219183340id_/http%3A//pharmer.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmer.org privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519114939id_/http%3A//pharmer.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Pharmer.org
 
-Submitted by [davidm](https://web.archive.org/users/davidm "View user profile.") on April 24, 2005 - 7:49pm
+Submitted by [davidm](https://web.archive.org/users/davidm "View user profile.") on April 24, 2005 - 8:49pm
 
 **_Privacy Statement Last Updated 04-07-09_**
 
