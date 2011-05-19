@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204194910id_/http%3A//www.onesimcard.com%3Fidmenu%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesimcard.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519100139id_/http%3A//www.onesimcard.com%3Fidmenu%3D16) for the most accurate reproduction.*
 
 # OneSimCard - Privacy Policy
+
+|  |   
+---  
+ | 
 
 ## We are committed to your privacy in every transaction
 
@@ -16,4 +20,29 @@ This web site may contain links to other sites. If you use a link to visit the s
 
 ## Amendments to Our Privacy Policy
 
-We may, from time to time, amend our Privacy Policy. If we do, we will post amendments to this document on our web site so that you may always have access to our most recent Privacy Policy. We reserve the right, at our discretion, to change, modify, add, or remove portions of our Privacy Policy at any time. If at any point we decide to disclose personal information in a manner different from that stated at the time that information was collected, we will notify users by email. You will be given the choice at that time to 'opt-out' of any disclosures of your personal information that you made available to us prior to the change in our policy.
+We may, from time to time, amend our Privacy Policy. If we do, we will post amendments to this document on our web site so that you may always have access to our most recent Privacy Policy. We reserve the right, at our discretion, to change, modify, add, or remove portions of our Privacy Policy at any time. If at any point we decide to disclose personal information in a manner different from that stated at the time that information was collected, we will notify users by email. You will be given the choice at that time to 'opt-out' of any disclosures of your personal information that you made available to us prior to the change in our policy.  
+  
+ | 
+
+## Transactional Emails
+
+We send email confirmations following any transactional activity on the website. It includes product and/or service purchases, refunds, shipping etc.
+
+Transactional emails also include a welcome message sent to new users to verify their email address and account password.
+
+## Newsletter and Special Offers
+
+Company news, service updates and special offers are sent out to those who opted in to receive our newsletter. If you no longer wish to receive these emails, you can easily unsubscribe by using any of the following ways:
+
+  *  **From a promotional email:** Click on the unsubscribe link which is included in every promotional email. 
+  * **From your OneSimCard web account:** Uncheck "Email me updates about OneSimCard" box from _My Info_ page in your web account.
+
+
+
+## Important Service Announcements
+
+On rare occasions we send out important information regarding changes to products and services sold on the website. These emails are non-promotional in nature and do not contain the unsubscribe link. To stop receiving these mandatory emails you need to cancel your account with OneSimCard.
+
+## Customer Service
+
+On a regular basis in order to provide support service we may respond to customer requests by phone, email or other way specified by the client.
