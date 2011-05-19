@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vgrequirements.info privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421084036id_/http%3A//www.vgrequirements.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgrequirements.info privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519201736id_/http%3A//www.vgrequirements.info/privacy-policy) for the most accurate reproduction.*
 
-# : Privacy Policy
+# Video Game System Requirements
 
 **Privacy Statement**  
 At our site, the privacy of our visitors is of high importance to us. This privacy policy explains the type of personal information received and collected by this site and how it may be used.
