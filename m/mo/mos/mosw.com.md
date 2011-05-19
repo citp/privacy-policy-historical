@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mosw.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125125521id_/http%3A//mosw.com/policies.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mosw.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520013747id_/http%3A//mosw.com/policies.html%23privacy) for the most accurate reproduction.*
 
 # San Pedro Software Inc.: Privacy/Security/Delivery/Refund Policy
 
@@ -89,4 +89,4 @@ We provide 30-day money back guarantee for all our products, provided:
 
 Particular products may come with additional refund policies. These by no means revoke the above refund reasons. NO refund fees are charged.
 
-© 2009 San Pedro Software Inc. All rights reserved.
+© 2011 San Pedro Software Inc. All rights reserved.
