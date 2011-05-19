@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosz.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031172011id_/http%3A//www.videosz.com/legal.php%3Fs%3D0%7C0%7C%26lg%3Dus%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosz.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520014623id_/http%3A//www.videosz.com/legal.php%3Fs%3D0%7C0%7C%26lg%3Dus%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # VideosZ.com
 
