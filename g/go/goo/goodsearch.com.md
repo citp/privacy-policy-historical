@@ -1,59 +1,68 @@
-> *The following text is extracted and transformed from the goodsearch.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209055558id_/http%3A//www.goodsearch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodsearch.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519090641id_/http%3A//www.goodsearch.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At GoodSearch, we strive to develop innovative services to better serve our users. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This Privacy Policy outlines the types of personal information we gather when you use GoodSearch's services, as well as some of the steps we take to safeguard it.
+### WHAT THIS PRIVACY POLICY COVERS
 
-The following principles apply to the personally identifying information we ask for and that you provide. "Personally identifying information" is information that individually identifies you, such as your name, physical address or e-mail address. You can find more details about the data we collect on particular services by clicking the links on the side of this page.
+GoodSearch (including the GoodSearch Search Engine, GoodShop Mall and GoodPetitions), takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-#### Data collection
+#### How GoodSearch Uses Your Personal Information
 
-  * GoodSearch search, and some other services do not require any personally identifying information.
-  * GoodSearch collects limited non-personally identifying information your browser makes available whenever you visit a website. This log information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. We use this information to operate, develop and improve our services.
-  * Some of our services may require you to register for an account. GoodSearch asks you for some personal information in order to create an account (typically your name, e-mail address and a password for your account) and we will use that information to provide the service. For certain services, such as our advertising programs, we may request credit card or other payment information which we maintain in encrypted form on secure servers.
-  * When we require personally identifying information, we will inform you about the types of information we collect and how we use it. We hope this will help you make an informed decision about sharing your personal information with us.
+This policy covers how GoodSearch treats personal information that GoodSearch collects and receives, including information related to your past use of GoodSearch products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
 
+### INFORMATION COLLECTION AND USE
 
+#### General
 
-#### Cookies
+The GoodSearch Search Engine and GoodShop Mall do not require any personally identifying information.
 
-  * Upon your first visit to GoodSearch, a cookie is sent to your computer that uniquely identifies your browser. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our service and to better understand how people interact with us. GoodSearch does this by storing user preferences in cookies and by tracking user trends and patterns of how people search. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some GoodSearch features or services may not function properly without cookies.
+GoodSearch collects limited non-personally identifying information and records information from your computer and browser, including your IP address, the date and time of your query, GoodSearch cookie information, software and hardware attributes, and the page you request. We use this information to operate, develop and improve our services.
 
+Some of our services, including registering your nonprofit with GoodSearch and signing a petition on GoodPetitions may require you to provide personally indentifying information (typically your name, e-mail address, and mailing address).
 
+When we require personally identifying information, we will inform you about the types of information we collect and how we use it. We hope this will help you make an informed decision about sharing your personal information with us.
 
-#### Information sharing
+### INFORMATION SHARING AND DISCLOSURE
 
-  * We do not rent or sell your personally identifying information to other companies or individuals, unless we have your consent. We may share such information in any of the following limited circumstances: 
-    * We have your consent.
-    * We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures.
-    * We conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of GoodSearch, its users or the public.
-  * If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent.
-  * We may store and process personal information collected on our site in the United States or any other country in which GoodSearch Inc. or its agents maintain facilities. By using our services, you consent to the transfer of your information among these facilities, including those located outside your country.
-  * In the event of a transfer of ownership of GoodSearch Inc., such as acquisition by or merger with another company, we will provide notice before any personally identifying information is transferred and becomes subject to a different privacy policy.
-  * We may share aggregated information with others. Examples of this include the number of users who searched for “Mars Rover” or how many users clicked on a particular advertisement.
+GoodSearch does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-
-
-#### Information security
-
-  * We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
-  * We restrict access to your personally identifying information to employees who need to know that information in order to operate, develop or improve our services.
+  * You have signed a petition on GoodPetitions sponsored by one of our participating organizations. When signing a petition, you are often asked for information such as name, city, state, country, email and street address. This information is treated as public information and could be shared with the targets of the petitions such as members of Congress or the press. This information may be used to validate your signature. In addition, unless you have requested to be listed as "anonymous," the information (excluding your email and street address) will also be available on GoodPetitions.com. In addition, for the petitions listed on our site which are sponsored by one of our participating organizations, we give users the opportunity to receive email newsletters and/or other communication from the sponsoring organization. If you opt-in to participate in this, GoodPetitions will send the required contact information along to the 3rd party provider.
+  * We provide the information to trusted partners who work on behalf of or with GoodSearch under confidentiality agreements. These companies may use your personal information to help GoodSearch communicate with you about offers from GoodSearch and our marketing partners. However, these companies do not have any independent right to share this information. 
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. 
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of GoodSearch's terms of use, or as otherwise required by law. 
+  * We transfer information about you if GoodSearch is acquired by or merged with another company. In this event, GoodSearch will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
 
 
-#### Updating your information
+GoodSearch displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
 
-  * We provide mechanisms for updating and correcting your personally identifying information for many of our services. For more information, please see the help pages for each service.
-
-
-
-#### Links
-
-  * The sites displayed as search results or linked to by GoodSearch's services are developed by people over whom GoodSearch exercises no control. These other sites may place their own cookies on your computer, collect data or solicit personal information.
-  * GoodSearch may present links in a format that enables us to understand whether they have been followed. We use this information to understand and improve the quality of GoodSearch's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results.
+  * GoodSearch does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+  * GoodSearch advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
 
 
 
-#### Changes to this Policy
+GoodSearch works with vendors, partners, advertisers, and other service providers in different industries and categories of business. 
 
-Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. If you have any additional questions, please feel free to contact us any time.
+### COOKIES
+
+GoodSearch may set and access GoodSearch cookies on your computer.
+
+GoodSearch lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to GoodSearch's cookies.
+
+#### Your Ability to Edit and Delete Your Nonprofit's Account Information and Your Email Preferences General
+
+You can edit or delete your nonprofit's account information and your email preferences, at any time.
+
+New categories of marketing communications might be added from time to time. Users can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
+
+We reserve the right to send you certain communications relating to the GoodSearch service, such as service announcements, administrative messages and the GoodSearch Newsletter, that are considered part of your GoodSearch account, without offering you the opportunity to opt out of receiving them. 
+
+### CONFIDENTIALITY AND SECURITY
+
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+
+### CHANGES TO THIS PRIVACY POLICY
+
+GoodSearch may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your GoodSearch account or by placing a prominent notice on our site.
