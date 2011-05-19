@@ -1,47 +1,57 @@
-> *The following text is extracted and transformed from the geteducated.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205141905id_/http%3A//www.geteducated.com/geteducated-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geteducated.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519185324id_/http%3A//www.geteducated.com/geteducated-privacy-statement) for the most accurate reproduction.*
 
 # GetEducated.com Privacy Statement | GetEducated.com
 
-This is the web site of GetEducated.com, LLC.
+**_PRIVACY POLICY_**
 
- **Our postal address is:  
-4 Carmichael, Box 2160  
-Essex Junction, VT 05452**
+**Get Educated, Inc. respects your privacy and is committed to acting in a responsible manner when it comes to safeguarding your right to privacy. Our Privacy Policy (GetEducated.com Privacy Statement) is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using the GetEducated.com website ([http://www.geteducated.com](http://www.geteducated.com/ "Get Educated, Inc.")).  **
 
- **We can be reached via e-mail at info(at)geteducated.com or you can reach us by telephone at 802-899-4866.  
-**  
-For each visitor to our web page, our web server automatically recognizes only the consumer's domain name, but not the email address (where possible).
+**From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Site to notify you of these changes, and we will use for these new purposes only data collected from the time of the policy change forward.  If you are concerned about how your information is used, you should check back at our Site periodically.**
 
-We collect only the domain name, but not the email address of any visitor to our web page; the email addresses of those who post messages to our bulletin board; the email addresses of those who communicate with us via email; and the email addresses of those who make postings to our chat areas. We aggregate information on what pages consumers access or visit, user-specific information on what consumers access or visit, and information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number.
+ **INFORMATION WE COLLECT**
 
-The information we collect is used to improve the content of our web page; to customize the content and/or layout of our page for each individual visitor; to notify consumers about updates to our website; to share with agents or contractors who assist in providing support for our internal operations; to let us contact consumers for marketing purposes; to share with other reputable organizations to help them contact consumers for marketing purposes. The information we collect is disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our website and applicable laws or to protect against misuse or unauthorized use of our website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the website.
+We collect only the domain name, but not the email address of any visitor to our Site; the email addresses of those who post messages to our bulletin board; the email addresses of those who communicate with us via email; and the email addresses of those who make postings to our chat areas. We aggregate information on what pages consumers access or visit, user-specific information on what consumers access or visit, and information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number.
 
-With respect to cookies: We use cookies to store visitor preferences; record session information, such as items that consumers add to their shopping carts; record user-specific information on what pages users access or visit; alert visitors to new areas that we think might be of interest to them when they return to our site; record past activity at a site in order to provide better service when visitors return to our site; ensure that visitors are not repeatedly sent the same banner ads; customize web page content based on visitors' browser type or other information that the visitor sends.
+The information we collect is used to improve the content of our web page; to customize the content and/or layout of our page for each individual visitor; to notify consumers about updates to our website; to share with agents or contractors who assist in providing support for our internal operations; to let us contact consumers for marketing purposes; to share with other reputable organizations to help them contact consumers for marketing purposes. The information we collect is disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our website and applicable laws or to protect against misuse or unauthorized use of our website, to a successor entity in connection with a corporate merger, consolidation
 
-If you do not want to receive email from us in the future, please let us know by sending us email at the above address.
+Site visitors may request access to a description of the information that we maintain about them by emailing us at:  [info@geteducated.com](mailto:info@geteducated.com). **  
+**
 
-If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above.
+**INFORMATION YOU PROVIDE**
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
+Visitors to the Site who wish to post reviews of online college rankings and online university ratings must register at the Site.  Registered users must provide a name, postal address, email address, and telephone number.  Using your unique user name and a password of your choice, you may access your account online at any time to add, delete or change information.  You may also change, correct or update existing information by emailing us at:  [info@geteducated.com](mailto:info@geteducated.com).  You can request that your information be removed from our files by sending an email to  [info@geteducated.com](mailto:info@geteducated.com).
 
-People who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us email at the above address.
+ **SECURITY**
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our Site. **  
+**
 
-With respect to ad servers: We do not partner with or have special relationships with any ad server companies.
+ **COOKIES**
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our website to notify you of these changes, and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our website periodically.
+Our Site utilizes a standard technology called “cookies” and web server logs to collect information about how our Site is used.  We use cookies to store visitor preferences; record user-specific information on what pages users access or visit; alert visitors to new areas that we think might be of interest to them when they return to our site; record past activity at a site in order to provide better service when visitors return to our site; ensure that visitors are not repeatedly sent the same banner ads; customize web page content based on visitors’ browser type or other information that the visitor sends.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at the above address.
+If you do not wish to have a cookie on your system, you can set your browser preferences to refuse them.  In order to disable cookies, please consult your browser’s help section for instructions. **  
+**
 
-Upon request we provide site visitors with access to a description of information that we maintain about them.
+ **REMOVING YOURSELF FROM OUR EMAIL, MAILING OR PHONE LISTS**
 
-Consumers can access this information by emailing us at the above address.
+If are already signed up to be on our emailing list, but you would prefer not to receive emails from us anymore, please let us know by emailing us at:  [info@geteducated.com](mailto:info@geteducated.com).
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+If you supply us with your postal address, you may receive periodic mailings from us with information on new products and services or upcoming events.  If you do not wish to receive such mailings, please let us know by emailing us at:  [info@geteducated.com](mailto:info@geteducated.com).  Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
-Consumers can have this information corrected by sending us email at the above address.
+If you supply us your telephone number, you may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by emailing us at:  [info@geteducated.com](mailto:info@geteducated.com).  Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations. **  
+**
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+ **CONTACT US**
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+If you have questions about this Privacy Policy, or feel that this Site is not following its Privacy Policy, you may contact us at:
+
+Get Educated,Inc.
+
+4 Carmichael Street, Box 2160
+
+Essex Junction, VT 05452
+
+[info@geteducated.com](mailto:info@geteducated.com)
+
+4087008
