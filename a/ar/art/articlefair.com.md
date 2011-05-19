@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlefair.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222130747id_/http%3A//www.articlefair.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefair.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519153119id_/http%3A//www.articlefair.com/privacy.php) for the most accurate reproduction.*
 
 # Article Fair-Unique Article Directory with Articles On Business, Health, Education, Sports, Science, News
 
