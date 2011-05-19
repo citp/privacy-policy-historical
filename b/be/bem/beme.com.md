@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beme.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613023337id_/http%3A//www.ipcmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beme.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519164930id_/http%3A//www.ipcmedia.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - IPC Media - The UK's leading consumer magazine publisher
 
 ## IPC Media Privacy Policy
 
-This Privacy Policy explains the practices employed by IPC Media in collecting and using your information and the ways in which you can influence these. This Privacy Policy relates to websites operated from time to time by IPC Media. [Click here for more information](https://web.archive.org/web/20100613023337id_/http%3A//www.ipcmedia.com/ipc_domain_names.pdf) on which websites are covered by this Privacy Policy.
+This Privacy Policy explains the practices employed by IPC Media in collecting and using your information and the ways in which you can influence these. This Privacy Policy relates to websites operated from time to time by IPC Media.
 
 IPC Media will collect various types of information about you through your use of our websites to process your requests and orders, to provide a more personalised web-surfing and shopping experience and to help us improve the services we offer. In doing this we may also collect anonymous information about you through the use of cookies. IPC Media will be the Data Controller of any personal data we collect about you.
 
@@ -15,6 +15,10 @@ Through IPC Media websites you can, amongst other things, order products and ser
 In order to process your requests and orders and other activities, it may be necessary to collect personally identifiable information about you. The type of personally identifiable information that may be collected includes, but is not limited to: your name, address, e-mail address, telephone number, credit/debit card information. You may also be asked to provide additional (non-mandatory) pieces of information for our research purposes or choose to provide information by making a posting on a forum.
 
 In addition, we will collect anonymous information about you and your website usage through the use of cookies. Such information will not be personally identifiable to you. For further information please go to the section on cookies below.
+
+Some IPC Media websites offer services that require you to set up an account prior to receiving such services. To create a secure account you may use your email address and a password or, if the IPC Media website offers a Facebook single-sign-on service, you will be able to register for and log in to your IPC Media website account using your Facebook account. 
+
+If you choose to use the Facebook single-sign–on service we will gain access, upon your explicit consent, to your basic Facebook profile information, such as your name, profile picture and list of friends and any other information notified to you by Facebook prior to you completing the single-sign-on authorisation process. 
 
 ### How will we use the information about you?
 
@@ -32,11 +36,13 @@ From time to time we will ask you whether you wish to receive marketing material
 
 
 
+Upon registration for competitions or other online services you may, in some cases, be automatically opted-in to receive e-mail marketing, newsletters or partner promotions containing material relevant to the website on which you have registered your details. You will be specifically notified if this is the case and you may unsubscribe to receiving such marketing material at anytime by clicking on the e-mail unsubscribe link.
+
 ### What will we disclose to third parties?
 
 If you consent we may sell, rent or trade your personal information to third parties for their marketing purposes. Such third parties will be carefully selected and registered with the Information Commissioner.
 
-We may also pass your personal information to third parties to enable them to process a request or order, to supply you with a prize in the event you win a competition or in order to obtain professional advice.
+We may also pass your personal information to third parties to enable them to process a request, order or service; or to supply you with a prize in the event you win a competition or in order to obtain professional advice.
 
 We may provide anonymous, non-personally identifiable aggregate information to advertisers and our business partners, including information relating to sales and web-usage, to enable us to sell advertising and monitor the efficacy of our business partnerships. We may also pass such statistical information onto reputable third parties for onward sale.
 
@@ -74,7 +80,7 @@ We will use different cookies at various different stages of your use of our web
 
 The majority of adverts you see on IPC Media websites will have been placed by third parties. These third parties may choose to generate their own cookies for the purposes of collecting anonymous information relating to the viewing of their advertising. The information collected cannot be used to personally identify someone. 
 
-In addition IPC Media may work with third parties for the purpose of delivering targeted advertising to the IPC Media websites. Through the use of cookies, anonymous information about your use of our websites and other websites will be used to provide more relevant adverts about goods and services of interest to you.
+In addition IPC Media may work with third parties for the purpose of delivering targeted behaviourial advertising to the IPC Media websites. Through the use of cookies, anonymous information about your use of our websites and other websites will be used to provide more relevant adverts about goods and services of interest to you. For more information on online behavioural advertising and about how to turn this feature off, please visit http://www.youronlinechoices.com/opt-out.
 
 We may also use small pieces of code called pixel tags or GIF files, in conjunction with cookies to help us manage and monitor our online advertising and wider business arrangements with third parties. These files will allow us to aggregate anonymous information relating to advertising and website usage. The type of information collected includes, but is not limited to, information relating to advertising responses, page views, promotion views and purchases made. Such pixel tags may be used to recognise third party cookies (cookies generated by third parties) and inform us and/or third parties of which advertisement or link brought you to our website, allowing us to monitor the efficacy of our business relationships with third parties. 
 
