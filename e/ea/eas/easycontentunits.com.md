@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycontentunits.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122014013id_/http%3A//www.easycontentunits.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycontentunits.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519022449id_/http%3A//easycontentunits.com/privacy_policy.html) for the most accurate reproduction.*
 
 # easycontentunits.com : Privacy Policy
 
@@ -56,7 +56,6 @@ We collect the domain name and e-mail address (where possible) of visitors to ou
 
 The information we collect is used to improve the content of our Web page, shared with other reputable organizations to help them contact consumers for marketing purposes, used by us to contact consumers for marketing purposes, not shared with other organizations for commercial purposes.
 
-With respect to cookies: We do not set any cookies.   
 If you do not want to receive e-mail from us in the future, please let us know by or clicking on the unsubscribe link in the email.
 
 From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, writing to us at the above address.
