@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the impactfactory.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123170040id_/http%3A//www.impactfactory.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impactfactory.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519124950id_/http%3A//www.impactfactory.com/privacy.shtml) for the most accurate reproduction.*
 
-# Communication training - our privacy policy
+# Impact Factory - Communication training - our privacy policy
 
 ##  Privacy policy 
 
@@ -22,7 +22,7 @@ Most areas of our site do not set any cookies. We do use temporary cookies if yo
 
 ### Contact
 
-We collect the e-mail addresses of those who communicate with us via e-mail. If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address, calling us at the above telephone number, or writing to us at the above address, or if you wish to unsubscribe from an email newslettter, by visiting http://www.impactfactory.com/new.shtml. 
+We collect the e-mail addresses of those who communicate with us via e-mail. If you do not want to receive e-mail from us in the future, please let us know by sending us an e-mail at the above address, calling us at the above telephone number, or writing to us at the above address, or if you wish to unsubscribe from an email newslettter, by visiting /new.shtml. 
 
 Visitors who supply us with their telephone numbers on-line will only receive telephone contact from us with information directly relevant to their enquiry. If you do not wish to be contacted, please let us know. 
 
