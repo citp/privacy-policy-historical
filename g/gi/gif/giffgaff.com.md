@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123002358id_/http%3A//giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519075559id_/http%3A//giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
 
-# giffgaff - Privacy Policy
+# giffgaff Privacy Policy
 
 ### Contents
 
@@ -40,8 +40,6 @@ i. We collect information directly from you when you are asked to provide person
 ii. We collect information indirectly from you when you use the Services, including but not limited to when you visit or browse this site or use our mobile network. 
 
 iii. We may collect information about you from other sources, including but not limited to: 
-
-iv. This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to [explain your use of the data] You can choose to disable the Service at http://www.clicktale.net/disable.html.
 
 [Top]
 
