@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engeniustech.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214235744id_/http%3A//www.engeniustech.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D304%26Itemid%3D130) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engeniustech.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519033310id_/http%3A//www.engeniustech.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
