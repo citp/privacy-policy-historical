@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iirusa.com privacy policy that was archived on 2010-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101004060529id_/http%3A//www.iirusa.com/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iirusa.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519173321id_/http%3A//www.iirusa.com/privacy.xml) for the most accurate reproduction.*
 
-# IIR USA - Large Scale Events, Conferences, Seminars - Solutions, Skills, and Knowledge
+# IIR USA - Events Deliver Business
 
 ### Web Site and Email Privacy
 
