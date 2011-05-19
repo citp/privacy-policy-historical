@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the imagenic.net privacy policy that was archived on 2010-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219191009id_/http%3A//imagenic.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imagenic.net privacy policy that was archived on 2011-05-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519142443id_/http%3A//imagenic.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/2002/REC-xhtml1-20020801/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-gb" xml:lang="en-gb"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -21,6 +21,46 @@
 
 
 
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+	
+$(document).ready(function(){	
+	
+	$('#shortLink').click(function(){
+	
+		if($('#shortLink').is(':checked'))
+		{
+			$('#setURL').val($("#shareLink").val()); // to save previous link
+			var a = $("#shareLink").val();
+		
+			$.post("getShortLink.php?value="+a, {
+			}, function(response){
+				$('#shareLink').val(response);
+				
+				
+			});
+		}
+		else
+		{
+			$('#shareLink').val($('#setURL').val());
+		}
+	});	
+	
+	
+});	
+	
+</script>
+
+
+
 <script type="text/javascript" charset="utf-8">
   $(function() {
             
@@ -33,100 +73,22 @@
       });
 
 
-$(document).ready(function(){	
-
-	//Bind tracking classes	
-	$(".trackDownload,.trackOutbound,.trackEmail").click(function(){
-		
-		var eventType = this.className,
-			relValue = $(this).attr("rel"),
-			eventCategory;		
-
-		//Check if rel attribute is set. If so, use the rel value as the event label.
-		if (relValue.length) {
-			
-			var eventLabel = relValue;
-			
-			if (eventType == "trackDownload") {
-				eventCategory = "downloads";
-			} else if (eventType == "trackOutbound") {
-				eventCategory = "outbound";
-			} else {
-				eventCategory = "mailto";
-			}		
-		} 		
-		//Otherwise we'll use the URL or filename as the event label.
-		else {	
-				
-			var trackURL = $(this).attr("href"),
-				eventLabel;
-			
-			if (eventType == "trackDownload") {
-				eventLabel = trackURL.substr(trackURL.lastIndexOf("/") + 1);
-				eventCategory = "downloads";				
-			} else if (eventType == "trackOutbound") {
-				eventLabel = trackURL;
-				eventCategory = "outbound";				
-			} else {
-				eventLabel = trackURL.substr(7);
-				eventCategory = "mailto";			
-			}
-		}
-		
-		//Send the event to Analytics
-		pageTracker._trackEvent(eventCategory, 'click', eventLabel);		
-		
-	});
-
-});
-
-</script>
-
-<script language="JAVASCRIPT" type="TEXT/JAVASCRIPT">
-<!--
-var popupWindow=null;
-function popup(mypage,myname,w,h,pos,infocus){
-
-if (pos == 'random')
-{LeftPosition=(screen.width)?Math.floor(Math.random()*(screen.width-w)):100;TopPosition=(screen.height)?Math.floor(Math.random()*((screen.height-h)-75)):100;}
-else
-{LeftPosition=(screen.width)?(screen.width-w)/2:100;TopPosition=(screen.height)?(screen.height-h)/2:100;}
-settings='width='+ w + ',height='+ h + ',top=' + TopPosition + ',left=' + LeftPosition + ',scrollbars=yes,location=yes,directories=yes,status=yes,menubar=yes,toolbar=yes,resizable=yes';popupWindow=window.open('',myname,settings);
-
-if(infocus=='back'){popupWindow.blur();popupWindow.location=mypage;popupWindow.blur();}
-
-}
 
 
-
-
-      
-
-// -->
 </script>
 
 
 
-<!-- Start Quantcast tag -->
-<script type="text/javascript">
-_qoptions={
-qacct:"p-744l9TH7r8buM"
-};
-</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-744l9TH7r8buM.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
 
 
 
+	
 
 <script type="text/javascript"> 
 //default pop-under house ad url 
 infinityads_enable_pop = true; 
 infinityads_enable_adhere = false; 
-infinityads_frequencyCap =0;
+infinityads_frequencyCap =0.1;
 durl = '';
 infinityads_layer_border_color = '';
 infinityads_layer_ad_bg = '';
@@ -140,7 +102,15 @@ infinityads_enable_text_link = false;
 
 
 
+
+
+
+
+
+
 </head>
+
+
 <body class="page_cell">
 
 
@@ -163,7 +133,10 @@ infinityads_enable_text_link = false;
 		<ul>
 			<li><a href="index.php">Image Upload</a></li>
 			<li><a href="index.php?url=1">Url Upload</a></li>
-            <li><a href="gallery.php">Gallery</a></li>            
+			<li><a href="http://myxhost.us" target="_new">Free Web hosting</a></li>
+			
+			                         <li><a href="gallery.php">Gallery</a></li>
+                        <li><a href="http://ulk.me" target="_new">Short Url</a></li>            
                         <li><a href="http://mp3portal.co.cc" target="_new">Free Mp3 Music</a></li>
                         <li><a href="info.php?act=rules">Terms of Service</a></li>
 			<li><a href="contact.php?act=file_report">Report Abuse</a></li>
@@ -179,8 +152,7 @@ google_ad_height = 15;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </li>
-
-		</ul>
+                               		</ul>
 
 
 
@@ -195,6 +167,7 @@ google_ad_height = 15;
                               			</div>
 			</div>
 	<div id="page_body" class="page_body">
+
 
 <center> 
 
@@ -254,7 +227,103 @@ If you have any question, please do not hesitate to <a href="contact.php?act=con
 		</script>
 		<script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
 		<!-- AddThis Bookmark Button END -->
-		| Page Views: 4,320,468 <br>
+		| Page Views: 29,427,933 <br>
+
+<a title="Real Time Web Analytics" href="http://getclicky.com/240083"><img alt="Real Time Web Analytics" src="http://static.getclicky.com/media/links/badge.gif" border="0"></a>
+
+<script type="text/javascript" src="'http://static.getclicky.com/js"></script>
+
+<script type="text/javascript">clicky.init(240083);</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/240083ns.gif" /></p></noscript>
+
+
+
+
+
+
+<p style="display:none;">
+<script type="text/javascript" src="http://widgets.amung.us/small.js"></script>
+
+    <script type="text/javascript">WAU_small('zhjb4rqed4qg')</script>
+
+</p>
+
+
+
+
+
+
+
+
+
+	
+
+<script src="js/ads.js" type="text/javascript"></script>
+<script src="js/lightbox.js" type="text/javascript"></script>
+<script src="js/lightbox2.js" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+			window.onload = function () {
+			//	smupopInitiatePopup();
+				
+			};
+			//window.onload = smupopInitiatePopup;
+			function smupopInitiatePopup() {
+									setTimeout(sm_upopStartLightbox, 4000);
+							}
+			function sm_upopStartLightbox() {
+				initLightbox();
+				setTimeout(sm_upopStartPopup, 100);
+			}
+			function sm_upopStartPopup() {
+				popupWindow.openPopup(upop_title, upop_text, "width="+upop_width+"px,height="+upop_height+"px,"+upop_position+",resize=1,scrolling=0");
+				
+			}
+			</script>
+	
+
+
+
+
+
+<style type="text/css">
+/*		#popupwrapper { 
+			position: relative;
+		}
+		* html #popupwrapper { 
+			width: expression(document.compatMode=="CSS1Compat"? document.documentElement.clientWidth+"px" : body.clientWidth+"px");
+		}
+*/		
+				#overlay{ background-image: url(js/overlay.png); }
+				* html #overlay {
+				background-color: #333;
+				background-color: transparent;
+				background-image: url(js/blank.gif);
+				filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="js/overlay.png", sizingMethod="scale");
+				}
+				
+				}	
+		</style>
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=cwaOfKdfmr35sQadbiUzgI&amp;s=122"></script>
+
+
+
+
+
+
 
 
 
@@ -268,25 +337,25 @@ var pageTracker = _gat._getTracker("UA-11750443-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
 
+
+
+
 <script type="text/javascript">
 
-//$(window).load( function() {
-   // $.getScript('detect.php');
+$(window).load( function() {
+$.getScript('index.php?module=load');
+
+
+
 });
 </script>
 
-<a title="Real Time Web Analytics" href="http://getclicky.com/240083"><img alt="Real Time Web Analytics" src="http://static.getclicky.com/media/links/badge.gif" border="0"></a>
-<script src="http://static.getclicky.com/js" type="text/javascript"></script>
-<script type="text/javascript">clicky.init(240083);</script>
-<noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/240083ns.gif" /></p></noscript>
 
-<p><script type="text/javascript" src="http://widgets.amung.us/small.js"></script>
+<img src="http://shareiteasy.net/view/showimage.php?return_image=1" border="0" alt="">
 
-    <script type="text/javascript">WAU_small('zhjb4rqed4qg')</script>
-</p>
-
-<script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=cwaOfKdfmr35sQadbiUzgI&amp;s=122"></script>
 <p></p>
+
+
 	</div>
 
 
