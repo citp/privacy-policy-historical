@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wobzy.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619092229id_/http%3A//www.wobzy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wobzy.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519115229id_/http%3A//www.wobzy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Wobzy Premium Wordpress Themes
 
