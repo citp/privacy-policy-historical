@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the instantoffices.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231093736id_/http%3A//instantoffices.com/solutions/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantoffices.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519090128id_/http%3A//www.instantoffices.com/solutions/privacy.aspx) for the most accurate reproduction.*
 
 # Instant | Privacy Pages | Read more...
 
-###### Live Assistance
+###### Call us now on
 
-### Call our locally based sales team.
+### For FREE, no obligation, expert, local help and advice
 
 Instant provides a variety of online services for individuals and companies looking for executive suites. Instant values your privacy and feedback very highly. Any user information we collect is considered private; we use this personal information at Instant to provide the best quality service possible. The following policy statement summarises Instant's protection and use of any personal information provided by visitors to the Instant site.
 
