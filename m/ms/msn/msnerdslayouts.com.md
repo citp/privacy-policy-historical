@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msnerdslayouts.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125143629id_/http%3A//www.msnerdslayouts.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msnerdslayouts.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520014326id_/http%3A//msnerdslayouts.com/privacy-policy.php) for the most accurate reproduction.*
 
 # MSNERDS - Spring Layouts, Winter Layouts, Myspace Layouts, Default Layouts, Skinny Defaults, Double Background, Bulletin Surveys, Music Skins, Comment Boxes, Page Graphics, Drop Down Menus
 
