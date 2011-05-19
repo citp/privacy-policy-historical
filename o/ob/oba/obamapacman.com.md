@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obamapacman.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220110739id_/http%3A//obamapacman.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obamapacman.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519082511id_/http%3A//obamapacman.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Obama Pacman
 
