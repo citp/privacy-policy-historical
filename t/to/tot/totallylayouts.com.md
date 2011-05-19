@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallylayouts.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122121015id_/http%3A//www.totallylayouts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallylayouts.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519081941id_/http%3A//www.totallylayouts.com/privacy.php) for the most accurate reproduction.*
 
 # DEFAULT MYSPACE LAYOUTS - SKINNY - TINY - 2.0 - TWITTER BACKGROUNDS - FRIENDSTER
 
