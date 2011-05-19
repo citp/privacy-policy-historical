@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the informatica.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126040440id_/http%3A//www.informatica.com/company/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informatica.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519190814id_/http%3A//www.informatica.com/company/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Informatica Privacy Policy
 
 Informatica provides data integration software and services that enable your organizations to gain a competitive advantage in today’s global information economy by empowering you with timely, relevant and trustworthy data for their top business imperatives.
 
