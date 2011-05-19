@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the heatmaptheme.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217180143id_/http%3A//heatmaptheme.com/terms-and-conditions/%23privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heatmaptheme.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519145023id_/http%3A//heatmaptheme.com/terms-and-conditions/%23privacy-policy) for the most accurate reproduction.*
 
 # Forum Rules / Site Terms and Conditions - WordPress Adsense Theme - HeatMap Theme Pro v4
+
+[](http://heatmaptheme.com/heatmap-theme-pro-v4-user-guide/) [](http://heatmaptheme.com/faq-start-here/) [](http://www.heatmaptheme.com/amember/login.php) [](http://heatmaptheme.com/download-heatmaptheme/) [](http://www.heatmaptheme.com/amember/member.php) [](http://eepurl.com/bUSef) [](http://twitter.com/heatmaptheme)
 
   * Forum House Rules
   * General Forum Rules
@@ -53,7 +55,7 @@ Only Installation support is included in the price of the theme to get you up an
 **Rule 4. Additional Services**  
 Additional services and support such as theme customisation, and issues outside of the scope of HeatMap Theme itself such as complex plugin issues or support of the WordPress software itself may be available on a separately charged basis. I will quote you privately by email or PM before performing any additional services work on your behalf.
 
->> **[Read more about what kind of support you can expect](https://web.archive.org/web/20101217180143id_/http://heatmaptheme.com/what-kind-of-support-is-provided/)**
+>> **[Read more about what kind of support you can expect](https://web.archive.org/web/20110519145023id_/http://heatmaptheme.com/what-kind-of-support-is-provided/)**
 
 **Rule 5. Provide full details**  
 When you are having a problem please supply as much detail as possible so that helpful forum members (including myself) can try and reproduce it. Post a link to the site you are working on so we can see the issue. Post a screenshot if you can’t point us to a live site.
@@ -144,7 +146,7 @@ Your membership account is provided to you on the understanding that your accoun
 
 **Licensing**
 
-The PHP, CSS, HTML and images contained within HeatMap Theme itself are distributed under a GPL licence, however, all other content on HeatMapTheme.com is the copyright of the theme author and other contributors, and may not be sold or distributed in any way without the permission of the theme author or contributor.
+The PHP, CSS, HTML and images contained entirely within all versions of HeatMap Adsense Theme and HeatMap Theme Pro are distributed under a GPL licence. All other content on HeatMapTheme.com, HeatMapTheme.net and HeatMapTheme.tv, such as the content of the site itself, videos, images, text and downloadable files (unless supplied by a third party contributor) are copyright of the theme author and other contributors, and may not be sold or distributed in any way without the permission of the theme author or contributor. Additional css code, images, and data files which are distributed seperately from HeatMap Adsense Theme and HeatMap Theme Pro (unless supplied by a third party contributor) are also the copyright of the theme author and other contributors, and may not be sold or distributed in any way without the permission of the theme author or contributor.
 
 ### 
 
@@ -211,7 +213,7 @@ Non Members –**[ **Please sign up to become a member**](http://www.heatmapthem
 ](http://www.heatmaptheme.com/amember/signup.php)**
   * Postal Address: PO Box 1058, Noosa Heads, QLD, 4567, Australia
   * Physical Address: 4 Woodhaven Way, Cooroibah, QLD 4565, Australia
-  * Phone: (07) 5474 0646 ******-** **this is not a phone support line, sales enquiry line, or free help line. ****Genuine business related enquiries** please contact us via the email address above. **  
+  * Phone: (07) 5474 0646 ******- ****this is not a phone support line, sales enquiry line, or free help line. ****Genuine business related enquiries** please contact us via the email address above. **  
 **
 
 
