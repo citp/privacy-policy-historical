@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daylife.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117155045id_/http%3A//corp.daylife.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daylife.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519210659id_/http%3A//corp.daylife.com/privacy_policy) for the most accurate reproduction.*
 
-# Daylife: Outpublish, don't outspend - Privacy Policy
+# Privacy Policy - Daylife
 
 _Last Revised October 1, 2006_
 
