@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dkpsystem.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214134336id_/http%3A//www.dkpsystem.com/dynpage.php%3Fid%3D63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dkpsystem.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519111633id_/http%3A//www.dkpsystem.com/dynpage.php%3Fid%3D63) for the most accurate reproduction.*
 
 # DKPSystem.com - Privacy Policy
 
@@ -22,13 +22,13 @@ We use the information you provide about yourself when placing an order only to 
 
 You can register with our website if you would like to receive our newsletter as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+We use non-identifying and aggregate information to improve our website functionality or to share with partners. For example, we may tell a partner that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
 **Email Addresses on Customer Sites**
 
-Our customer sites typically require email addresses to register on their site. Those email addresses remain accessible only to the administrators of the customers' site and DKPSystem.com staff. While we can guarantee we will not share your email addresses with third parties, we cannot guarantee what customers' sites' administrators will do with the email addresses.
+Our customer sites typically require email addresses to register on their site. Those email addresses remain accessible only to the administrators of the customers' site and DKPSystem.com staff. While we **can** guarantee we will **not** share your email addresses with third parties, we cannot guarantee what customers' sites' administrators will do with the email addresses.
 
  **Our Commitment To Data Security**
 
@@ -36,4 +36,4 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please see our [Contact Us](https://web.archive.org/web/20101214134336id_/http%3A//www.dkpsystem.com/contactus.php) page. 
+Should you have other questions or concerns about these privacy policies, please see our [Contact Us](https://web.archive.org/web/20110519111633id_/http%3A//www.dkpsystem.com/contactus.php) page. 
