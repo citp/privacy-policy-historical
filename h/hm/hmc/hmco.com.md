@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hmco.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123103816id_/http%3A//www.hmhco.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmco.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519110250id_/http%3A//www.hmhco.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Houghton Mifflin Harcourt
 
