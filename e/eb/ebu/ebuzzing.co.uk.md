@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuzzing.co.uk privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122032538id_/http%3A//www.ebuzzing.co.uk/mention) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuzzing.co.uk privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519134228id_/http%3A//ebuzzing.co.uk/mention) for the most accurate reproduction.*
 
 # ebuzzing
 
