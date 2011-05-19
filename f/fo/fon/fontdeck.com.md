@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontdeck.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217034752id_/http%3A//fontdeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontdeck.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519071459id_/http%3A//fontdeck.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Fontdeck
 
@@ -11,6 +11,10 @@ Fontdeck LLC is the sole owner of the information collected on the Fontdeck.com 
 ### Log Files
 
 Like most standard web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyse trends, administer the site, track users’ movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses etc. are not linked to personally identifiable information.
+
+### Cookies
+
+We use unintrusive first party cookies to enable you to log in and make purchases, to customise your web site experience and via Google Analytics to provide us with aggregated (non-personal) site analytics. See our [cookies](https://web.archive.org/web/20110519071459id_/http%3A//fontdeck.com/cookies.html) page for full details.
 
 ## Site Communications
 
