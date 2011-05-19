@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230002323id_/http%3A//www.dnb.com/about-dnb/privacy-policy/14950282-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519135120id_/http%3A//www.dnb.com/about-dnb/privacy-policy/14950282-1.html) for the most accurate reproduction.*
 
 # D&B - Dun & Bradstreet Privacy Policy
 
@@ -166,4 +166,4 @@ This online privacy notice is applicable to the following U.S. D&B websites: [ww
 
 **Privacy Policy Effective Date: March 31, 2010**
 
-© Dun & Bradstreet, Inc., 2010. All rights reserved. 
+© Dun & Bradstreet, Inc., 2020. All rights reserved. 
