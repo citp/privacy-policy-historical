@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fanbolt.com privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815005858id_/http%3A//www.fanbolt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanbolt.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519081651id_/http%3A//www.fanbolt.com/privacy.php) for the most accurate reproduction.*
 
-# FANBOLT.COM - Privacy Policy
+# Privacy Policy
 
 FanBolt Privacy Policy
 
@@ -46,3 +46,5 @@ FanBolt does not take responsibility for any materials posted on its forums or i
 All material is copyrighted by their respected owners. Reuse of this material is forbidden without consent from the original author or agency of the image.
 
 FanBolt.Com respects the intellectual property of others. If you believe that your work has been copied or used in a way that constitutes copyright infringement, please let us know us immediately so that we may work with you to resolve the situation.
+
+Copyright © FanBolt Entertainment Since 2002. 
