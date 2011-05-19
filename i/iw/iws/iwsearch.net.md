@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iwsearch.net privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216185851id_/http%3A//iwsearch.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwsearch.net privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519175028id_/http%3A//iwsearch.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy: InfoWeb.net Information Directory
 
-You may also wish to visit the [Policy Page](https://web.archive.org/web/20101216185851id_/http%3A//iwsearch.net/policy.php) for policies other than privacy.  
+You may also wish to visit the [Policy Page](https://web.archive.org/web/20110519175028id_/http%3A//iwsearch.net/policy.php) for policies other than privacy.  
 
 
 ## Privacy, Email, and Spam Statement for infoweb.net Domain
