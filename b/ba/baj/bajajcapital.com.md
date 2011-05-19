@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bajajcapital.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201114124id_/http%3A//www.bajajcapital.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajajcapital.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519202001id_/http%3A//www.bajajcapital.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Bajaj capital :: Privacy Policy
 
-**Coverage under this Policy/Protection to:**
+Coverage under this Policy/Protection to: 
 
 All visitors ("visitors") who visit the site http://www.bajajcapital.com (‘Site’) and provide information to Bajaj Capital Limited (‘BCL’) online through this Site are covered under this Policy. 
 
-**Information covered by this Policy:**
+Information covered by this Policy: 
 
 This Policy seeks to cover private information of the Visitors provided to the Site as also any information collected by BCL server from the visitors browser. ("the Information") 
 
-**Features of the Policy:**
+Features of the Policy: 
 
   * Information collected shall only be used to provide the Visitor with the best possible services.
   * The Information shall not be shared with any external organisation unless the same is necessary to enable BCL to provide you services or to enable the compilation of a transaction or the same is necessary or required pursuant to applicable norms or pursuant to the terms and conditions applicable to such Information as agreed to with BCL. BCL may also share Information to provide you with superior services and a range of offers. If you desire BCL to limit such sharing whereby you would not like to be informed of offers available you may contact us at info@bajajcapital.com.
