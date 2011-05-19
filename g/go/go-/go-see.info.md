@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-see.info privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120184855id_/http%3A//www.go-see.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-see.info privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519232554id_/http%3A//www.go-see.info/privacy.php) for the most accurate reproduction.*
 
 # go-see.info - Article Directory
 
@@ -31,6 +31,10 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 Children 
 
 Go-see.info does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Go-see.info has any information from or about anyone under 13, please contact us at the address listed below. 
+
+Third-party ads 
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
 
 Contacting Us 
 
