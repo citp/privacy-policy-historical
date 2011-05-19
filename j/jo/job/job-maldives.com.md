@@ -1,24 +1,20 @@
-> *The following text is extracted and transformed from the job-maldives.com privacy policy that was archived on 2010-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100514080619id_/http%3A//www.job-maldives.com/2008/10/job-maldives-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job-maldives.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519212237id_/http%3A//www.job-maldives.com/2008/10/job-maldives-privacy-policy.html) for the most accurate reproduction.*
 
 # Job Maldives: Job Maldives Privacy Policy
 
-**_._**
+**
 
- ** _
+**.**
 
-"Work joyfully and peacefully, knowing that right thoughts and right efforts will inevitably bring about right results."
+ _"Success usually comes to those who are too busy to be looking for it."_ ****
 
--James Allen-
+**
 
-_**
+ ** _._**
 
-[ ](http://www.blogger.com/rearrange?blogID=4665003579075051486&widgetType=Text&widgetId=Text3&action=editWidget "Edit")
+[ ](http://www.blogger.com/rearrange?blogID=4665003579075051486&widgetType=Text&widgetId=Text3&action=editWidget&sectionId=main "Edit")
 
 ###  [Job Maldives Privacy Policy](http://www.job-maldives.com/2008/10/job-maldives-privacy-policy.html)
-
-[
-
-](http://www.google.com/reader/link?url=http://www.job-maldives.com/2008/10/job-maldives-privacy-policy.html&title=Job%20Maldives%20Privacy%20Policy&srcTitle=Job%20Maldives)
 
 **Job Maldives Privacy Policy**
 
@@ -71,4 +67,53 @@ Webmaster
 Job Maldives Team (JMT)  
 [info@job-maldives.com](mailto:info@job-maldives.com)
 
-[](http://www.stumbleupon.com/submit?url=http://www.job-maldives.com/2008/10/job-maldives-privacy-policy.html&title=Job%20Maldives%20Privacy%20Policy "permanent link")
+“We have used several job sites in the past, both free and prepaid. Whilst several of the sites have been fairly good and met with the majority of our requirements, we have recently started to use “Job Maldives” and we are extremely impressed. The site is extremely logical and easy to use. _
+
+_
+
+We have had an excellent response from a diversified pool of potential candidates for our group, all of whom are of a very high quality and meet very well with the requirements of the roles advertised. We have had a far superior and better service from "Job Maldives" on free than we have had from some sites to whom we have paid a monthly service fee. We would highly recommend "Job Maldives" site to all candidates or clients, and we believe that this is the best place to be for any Employer or Employee in Maldives. THANK YOU JOB MALDIVES TEAM FOR YOUR VALUED SERVICE TO MALDIVES EMPLOYMENT INDUSTRY”.
+
+_
+
+_
+
+Assistant Manager, Administration
+
+ _____________________________________________________________________
+
+ _"Thank you Job Maldives Team. We have found this website very effective and useful in reaching to a diverse pool of potential candidates for our Company. We were able to receive numerous amounts of resumes from all over Asia within a short period of time. The services which you provide are exceptional. We will be sure to post our future vacancies in the Job Maldives webpage. Thank you"._
+
+Azfa
+
+Human Resources Department
+
+Rainbow Group of Companies
+
+___________________________________________________________________
+
+ _"I take the opportunity to note that, till date I have not had any better response from any other media of advertising as compared to the response I have had from my advertisements on Job-Maldives. I believe this is the best place to be for any Employer or Employee in Maldives"._
+
+Moobeen Jaleel 
+
+Branch Manager
+
+MICROS-Fidelio Singapore Pte Ltd
+
+___________________________________________________________________
+
+ _"Job-Maldives.com is the best Job site I have ever found. Its really easy to contact the employer with your site. Thanks a lot"._ =ashis=
+
+___________________________________________________________________
+
+ _"I have got my dream job recently from one of the best resorts in Maldives and I found it from Job-Maldives. thank you very much"_.=Antony=  
+
+
+___________________________________________________________________
+
+ _"Your site is totally different from other jobsites but it is much better than other jobsites becaues i am always able to contact the employer without posting my resume on the website. Really appreciate it"_. =anil=  
+___________________________________________________________________
+
+[](mailto:testimonials@job-maldives.com)**********************************************************************************************  
+
+
+[ ](http://www.blogger.com/rearrange?blogID=4665003579075051486&widgetType=Text&widgetId=Text4&action=editWidget&sectionId=main "Edit")
