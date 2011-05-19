@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503221109id_/http%3A//www.candymag.com/magazine/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519094344id_/http%3A//www.candymag.com/about/privacy) for the most accurate reproduction.*
 
-# Magazine, all about Candy and more | Candymag.com
+# Every Filipina Teen's Best-est Friend Online | CandyMag.com
 
-[About Us](http://www.candymag.com/magazine/about/aboutus/) | [Contact Us](http://www.candymag.com/magazine/about/contactus) | [FAQs](http://www.candymag.com/magazine/about/faqs) | [Appear in Candy](http://www.candymag.com/magazine/about/appearincandy) | [E-Candy](http://www.candymag.com/magazine/about/ecandy/) | [Our Privacy Policy](http://www.candymag.com/magazine/about/privacy) | [House Rules](http://www.candymag.com/magazine/about/houserules) | [CyberSafety](http://www.candymag.com/magazine/about/cybersafety) | [Terms of Service](http://www.candymag.com/magazine/about/termsofservice)
-
- **OUR PRIVACY POLICY**  
+**OUR PRIVACY POLICY**  
 At Candymag.com, we are committed to protecting your privacy. All the personal information you share with us is used strictly to enhance your Candymag.com experience. If you participate in contests or promotional features, only demographic information will be reported to the sponsors unless you stated your interest in receiving more information from the sponsors. 
 
 This document will shed light on all your questions about your activities on Candymag.com. Please read on for more details about our privacy policy. 
