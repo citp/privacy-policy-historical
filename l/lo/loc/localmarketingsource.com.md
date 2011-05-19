@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localmarketingsource.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116012324id_/http%3A//www.localmarketingsource.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmarketingsource.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519032531id_/http%3A//www.localmarketingsource.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Scott Gallagher's Accelerated Program for Local Online Marketers
+# Privacy Policy | Local Marketing Source
 
 We at Local Marketing Source, LLC and our affiliated companies are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information you share with us.  We have created this Privacy Policy to demonstrate our firm commitment to privacy and security.  We request that you read this Privacy Policy carefully.
 
