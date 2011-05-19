@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truebloodnet.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211193918id_/http%3A//truebloodnet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truebloodnet.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519093052id_/http%3A//truebloodnet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : True Blood News- ALL the HBO True Blood Season 4 Spoilers Videos Interviews
 
