@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123011221id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519081746id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Globe of Blogs
 
 ### Random Weblog
 
-[Kalle Bergman Honest Food](http://www.kallebergman.com/) ::: A blog about Scandinavian food, from an "honest food" perspective. Real food. Real ingredients. Traditional recipes, but always with a modern twist.  
+[Day In The Life..., A](http://a-1dayinthelife.blogspot.com/) ::: a personal weblog with occassional rants, raves and insightful, explorations innto various subjects.  
 
 
 ## Statement of Policy
