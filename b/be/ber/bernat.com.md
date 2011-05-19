@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bernat.com privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709174302id_/http%3A//www.bernat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bernat.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519202053id_/http%3A//www.bernat.com/privacy.php) for the most accurate reproduction.*
 
-# Bernat: Privacy Policy
+# Bernat: Home
 
 ### Our Pledge
 
