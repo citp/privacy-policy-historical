@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the dailyfreeware.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121040648id_/http%3A//dailyfreeware.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfreeware.net privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519033425id_/http%3A//dailyfreeware.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Freeware Download
+
+Nov  
+03  
+2007
 
 dailyfreeware.net, we recognize that privacy of your personal information is important.  
 Here is information on what types of personal information we receive  
@@ -25,8 +29,8 @@ about your visits to this and other websites in order to provide advertisements
 about goods and services of interest to you.
 
 * Google  
-Google, as a third party vendor, uses cookies to serve ads on pdftown.com.  
-Google’s use of the DART cookie enables it to serve ads to you based on your visit to pdftown.com.  
+Google, as a third party vendor, uses cookies to serve ads on dailyfreeware.net.  
+Google’s use of the DART cookie enables it to serve ads to you based on your visit to dailyfreeware.net.  
 and other sites on the Internet.  
 If you would like more information about this practice and to know your choices  
 about not having this information used by these companies, please visit :
