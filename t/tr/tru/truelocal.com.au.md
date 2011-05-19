@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231233138id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519185307id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Local Business Directory - TrueLocal.com.au
 
@@ -85,11 +85,3 @@ Privacy Officer
 TrueLocal  
 Level 23/175 Liverpool Street  
 Sydney NSW 2000
-
-  
-
-
-### Current TrueLocal Highlights
-
-  
-
