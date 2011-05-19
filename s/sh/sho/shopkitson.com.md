@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopkitson.com privacy policy that was archived on 2010-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101023232905id_/http%3A//www.shopkitson.com/index.php%3FpageId%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopkitson.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519032402id_/http%3A//www.shopkitson.com/privacy-policy) for the most accurate reproduction.*
 
 # Kitson Privacy Policy | Kitson Boutique
 
