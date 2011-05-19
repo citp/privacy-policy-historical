@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamliquid.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231141416id_/http%3A//www.teamliquid.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamliquid.net privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519064112id_/http%3A//www.teamliquid.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,13 +24,13 @@ As an optional feature of the user profile page, you may upload an image such as
 
 During your usage of the website, your browser will open connections and send requests to our web server. The server will log each request with your IP address, date and time, status code, browser version (user agent), HTTP referrer and the resource requested.
 
-We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/ "http://networkadvertising.org/").
+We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/).
 
 ## The Way We Use Information
 
 We use the information you provide to better identify yourself to other users. Your username, country and birthday can be viewed by anyone visiting our website. Your username will identify you in any posts you make to the website forums.
 
-Your email address will not be shared with third parties for marketing, spam, or promotional activities. We may use your email address to identify you in moderation actions, for instance when a user creates multiple accounts and uses them maliciously. Your email address will also be used to reset your password, though if you lose access to that particular email, we can change it or reset your password manually. From time to time, we may use your email address to send low-volume important site announcements. If you do not wish to receive these announcements, an opt-out link will be provided in each email.
+Your email address will not be shared with third parties for marketing, spam, or promotional activities. We may use your email address to identify you in moderation actions, for instance when a user creates multiple accounts and uses them maliciously. Your email address will also be used to reset your password, though if you lose access to that particular email, we can change it or reset your password manually. From time to time, we may use your email address to send low-volume important site announcements. If you do not wish to receive these announcements, an opt-out link will be provided in each email and you may disable the emails at any time through your profile settings.
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of 18 year olds play Protoss and Z number of SK Telecom Fans filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
@@ -44,7 +44,7 @@ We use cookies to store visitors preferences and record session information, suc
 
 ## Data Security
 
-Team Liquid runs on dedicated hosting servers which only a few trusted site staff have access to. These servers are housed in a professionally managed and secure data center in Washington DC.
+Team Liquid runs on dedicated hosting servers which only a few trusted site staff have access to. These servers are housed in a professionally managed and secure data center in New York, USA.
 
 ## Children's Privacy
 
