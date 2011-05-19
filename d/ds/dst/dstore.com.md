@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dstore.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216030230id_/http%3A//dstore.com/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dstore.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519231001id_/http%3A//dstore.com/help/privacy_policy.html) for the most accurate reproduction.*
 
 # dStore Help: Privacy Policy
 
