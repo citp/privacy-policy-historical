@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfhourmeals.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218171709id_/http%3A//halfhourmeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfhourmeals.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519131034id_/http%3A//www.halfhourmeals.com/privacy) for the most accurate reproduction.*
 
 # Half Hour Meals - Recipes For Your Lifestyle!
 
