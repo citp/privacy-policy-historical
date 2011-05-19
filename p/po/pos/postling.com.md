@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postling.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219173607id_/http%3A//www.postling.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postling.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519135321id_/http%3A//www.postling.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Postling :: Privacy Policy
 
