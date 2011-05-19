@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openair.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116135710id_/http%3A//openair.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openair.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519122750id_/http%3A//www.openair.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetSuite OpenAir
 
