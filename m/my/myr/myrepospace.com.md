@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myrepospace.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112174310id_/http%3A//www.myrepospace.com/more/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrepospace.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519083037id_/http%3A//www.myrepospace.com/more/privacy.php) for the most accurate reproduction.*
 
 # MyRepoSpace.com - Privacy Policy
 
@@ -15,7 +15,7 @@ MyRepoSpace: MYREPOSPACE does not support the distribution of sensitive informat
 
  **Other sites -** This Privacy Policy applies to web sites and services that are owned and operated by MyRepoSpace. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.  
 
- **Similar Website:** Myrepospace.com does not hold any connection with sites that claim to be 'running same technologies' or offer similiar services. MYREPOSPACE will officially list any affliating sites within the Terms and Conditions found [here](https://web.archive.org/web/20101112174310id_/http%3A//www.myrepospace.com/more/tos.php). MyRepoSpace does not share any information with websites offering similar services, nor claim to be affiliated with MYREPOSPACE. MyRepoSpace is not liable for anything related to, but not not limited it: Damages and privacy breach from these other web services.
+ **Similar Website:** Myrepospace.com does not hold any connection with sites that claim to be 'running same technologies' or offer similiar services. MYREPOSPACE will officially list any affliating sites within the Terms and Conditions found [here](https://web.archive.org/web/20110519083037id_/http%3A//www.myrepospace.com/more/tos.php). MyRepoSpace does not share any information with websites offering similar services, nor claim to be affiliated with MYREPOSPACE. MyRepoSpace is not liable for anything related to, but not not limited it: Damages and privacy breach from these other web services.
 
 **Information:** MyrepoSpace requires, on register, to know your email address, username and chosen password. Any other information inputted to MyRepoSpace.com is completely voluntary. 
 
