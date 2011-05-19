@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2010-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100120055204id_/http%3A//www.translink.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519070027id_/http%3A//translink.com.au/site-information/legal/privacy) for the most accurate reproduction.*
 
-# TransLink | Privacy and security
+# Privacy | TransLink
 
 The TransLink Transit Authority is committed to protecting your personal information. Our objective is to protect the privacy, accuracy and security of your personal information in accordance with the _Information Privacy Act 2009 (Qld)_.
 
@@ -25,6 +25,10 @@ When you visit our website, our server makes a record of your visit and logs the
 
 
 
+## Access to this website
+
+You must not use any application, system or method to access information on this website, including information in relation to _go_ card accounts, other than through ordinary use of this website by methods purposely made available on this website. You must not provide to any person, or invite or solicit any third party to provide you with, passwords or other information to enable such access.
+
 ## Emails
 
 Your email address is recorded if you send us an email, however, we will not use your email address other than for the purpose for which you provided it. Emails in which assistance is requested will be forwarded to the relevant TransLink Transit Authority officer and/or our contactor and business partner.
@@ -37,15 +41,19 @@ Email messages may be monitored by our web team for system troubleshooting and m
 
 Our use of your personal information will depend on whether you are a 'registered' smart card holder or whether you obtain an 'unregistered' smart card.
 
-**Unregistered smart cards**
+### Unregistered smart cards
 
 If you obtain an unregistered smart card - your details will be retained as follows:
 
-Unregistered smart cards | Retention of personal information | Record of financial transaction | Hardcopy of financial transaction | Archive period  
----|---|---|---|---  
-Cash/Debit card/Credit card | Not retained | 3 Years | 7 Months | 5 Years  
-  
-## Registered smart cards
+  * Unregistered smart cards - Cash/Debit card/Credit card
+  * Retention of personal information - Not retained
+  * Record of financial transaction - 3 Years
+  * Hardcopy of financial transaction - 7 Months
+  * Archive period - 5 Years
+
+
+
+### Registered smart cards
 
 If you choose to register your smart card, your personal information will be securely held on the central computer and linked to the serial number of your smart card. Your physical smart card will not hold any personal information.
 
@@ -84,7 +92,7 @@ In order to perform our functions and activities, we may be required to disclose
   * Business partners where we outsource functions, such as information services, software development or transport planning;
   * Our contracted public transport business partners, such as Queensland Rail
   * Research organisations for the purpose of obtaining data about our services to assist us to improve the delivery of or functions and activities;
-  * Other organisations such as law enforcement agencies which we may be required to disclose information to as required by law.
+  * Other organisations such as law enforcement agencies where it may be authorised or required by law to disclose your personal information.
 
 
 
@@ -112,18 +120,20 @@ The website contains links to non-TransLink Transit Authority websites. The Tran
 
 If you have any queries about our privacy and security practices, please contact:
 
-Privacy Officer  
+Post:  
+Right to Information & Privacy Unit  
 TransLink Transit Authority  
 GPO Box 50  
 Brisbane  
 Queensland 4001
 
-**Email** [privacy@translink.com.au](mailto:privacy@translink.com.au)
+Email: [privacy@translink.com.au](mailto:privacy@translink.com.au)
 
-**Phone** 3167 4324
+Phone: 3338 4324
 
-**National Relay Service**  
+Fax: 3384 4617
 
+National Relay Service:
 
   * TTY (teletypewriter): 13 36 77 and ask for (07) 3167 4324
   * Speak and Listen (speech-to-speech relay): phone 1300 555 727 and ask for (07) 3167 4324
