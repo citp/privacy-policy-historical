@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mehndi.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221004545id_/http%3A//mehndi.com/docs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mehndi.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520041617id_/http%3A//www.mehndi.com/docs/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Mehndi.com, pakistan matrimonial pakistani marriage
 
