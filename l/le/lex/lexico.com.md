@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexico.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202013131id_/http%3A//dictionary.reference.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexico.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521000258id_/http%3A//www.reference.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Legal Policy from Dictionary.com
 
@@ -90,7 +90,7 @@ We have security measures in place that are designed to safeguard and help preve
 
 ### Children's Guidelines
 
-The Sites meet the guidelines of [TRUSTe's](http://dictionary.reference.com/go/http://www.truste.org/) Children's Program.  
+The Sites meet the guidelines of [TRUSTe's](http://www.reference.com/go/http://www.truste.org/) Children's Program.  
  **We DO NOT** :
 
   * collect contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will be used only to respond directly to the child's request and will not be used for other purposes;
@@ -103,7 +103,7 @@ The Sites meet the guidelines of [TRUSTe's](http://dictionary.reference.com/go/h
 
 ### Law Enforcement/Legal Requirements
 
-We may disclose your personally identifiable information as well as your IP address and other information in order to comply with court orders, subpoenas, or regulatory obligations, or when otherwise required to do so by law. We also may disclose such information in compliance with a law enforcement or other governmental request, or where we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our [Terms of Use.](http://dictionary.reference.com/help/terms.html)
+We may disclose your personally identifiable information as well as your IP address and other information in order to comply with court orders, subpoenas, or regulatory obligations, or when otherwise required to do so by law. We also may disclose such information in compliance with a law enforcement or other governmental request, or where we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our [Terms of Use.](http://www.reference.com/help/terms.html)
 
 ### Visiting the Sites from outside of the United States
 
@@ -117,4 +117,4 @@ Dictionary.com, LLC
 Attn: Privacy Officer  
 555 12th Street, Suite 500  
 Oakland, CA 94607  
-[E-mail](http://dictionary.reference.com/help/contact.html)
+[E-mail](http://www.reference.com/help/contact.html)
