@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227003514id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsupportalert.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520052316id_/http%3A//www.techsupportalert.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # This Site's Privacy Policy
 
