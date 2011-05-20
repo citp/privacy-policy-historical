@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kokeytechnology.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205062348id_/http%3A//www.kokeytechnology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kokeytechnology.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225913id_/http%3A//www.kokeytechnology.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Technology Talks - Review, Specs, Release Date
 
