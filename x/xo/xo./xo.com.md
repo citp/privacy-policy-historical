@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xo.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223071354id_/http%3A//www.xo.com/about/policy/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xo.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520220856id_/http%3A//www.xo.com/about/policy/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # XO | Privacy Policy
 
-[](http://www.youtube.com/XOCOMMPR)
+[](http://www.xo.com/sites/SocialMedia/overview.aspx "XO Social Media")
 
 | 
 
