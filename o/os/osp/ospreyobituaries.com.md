@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the ospreyobituaries.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504060836id_/http%3A//ospreyobituaries.com/sitepages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ospreyobituaries.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520234504id_/http%3A//yourlifemoments.ca/sitepages/privacy.asp) for the most accurate reproduction.*
 
-# Osprey Obituaries
+# Privacy - , - Your Life Moments
 
-Privacy
+Welcome to [www.yourlifemoments.ca](http://www.yourlifemoments.ca/) (the "Site"). 
 
-  
-Welcome to www.OspreyObituaries.com (the "Site"). 
-
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Osprey Media LP (collectively, "Services") ("Authorized Customers").
+We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Sun Media LP (collectively, "Services") ("Authorized Customers").
 
 "Personally Identifiable Information" refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
 
@@ -29,7 +26,7 @@ Personally Identifiable Information about Authorized Customers may be shared wit
 
 How is Personally Identifiable Information stored? 
 
-Personally Identifiable Information collected by Osprey Media LP is securely stored and is not accessible to third parties or employees of Osprey Media LP except for use as indicated above. 
+Personally Identifiable Information collected by Sun Media LP is securely stored and is not accessible to third parties or employees of Sun Media LP except for use as indicated above. 
 
 What choices are available to Visitors regarding collection, use and distribution of the information? 
 
@@ -39,13 +36,13 @@ Are Cookies Used on the Site?
 
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 20 minutes, we will automatically log the Authorized Customer off. 
 
-How does Osprey Media LP use login information? 
+How does Sun Media LP use login information? 
 
-Osprey Media LP uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+Sun Media LP uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
 
 What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site? 
 
-Osprey Media LP has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. 
+Sun Media LP has entered into and will continue to enter into partnerships and other affiliations with a number of vendors. Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility. Our privacy policy does not cover their collection or use of this information. 
 
 Disclosure of Personally Identifiable Information to comply with law. 
 
@@ -73,4 +70,11 @@ E: [ privacy@ospreymedialp.com](mailto:privacy@ospreymedialp.com)
 
 Any rights not expressly granted herein are reserved. 
 
-© 2009 Osprey Media LP, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+© 2011 Sun Media LP, All rights reserved. Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
+
+ 
+
+* * *
+
+  
+
