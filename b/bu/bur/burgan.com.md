@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the burgan.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012190158id_/http%3A//www.burgan.com/0_3_privacy_policy.AxCMS%3FActiveID%3D1084) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burgan.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520231646id_/http%3A//burgan.com/SitePages/privacy.aspx) for the most accurate reproduction.*
 
-# Burgan Bank - privacy policy
+# Burgan Bank Kuwait - privacy
+
+**Protecting your Privacy** ** **
 
 Protecting your privacy, along with your financial assets, is at the core of our business. You have chosen to do business with us, and we recognize our obligation to keep the information you provide to us secure and confidential.   
+
+
 Our commitment to protect your financial information will continue under the principles and online guidelines described below.
 
 Keeping your information secure
