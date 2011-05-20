@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockerpulse.com privacy policy that was archived on 2010-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101118003335id_/http%3A//www.lockerpulse.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockerpulse.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520231925id_/http%3A//www.lockerpulse.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LockerPulse
 
@@ -10,7 +10,7 @@ As is true of most web sites, we gather certain information automatically. We us
 
 ### Registration and Personally Identifiable Information
 
-We collect personally identifiable information when you register for an account. This information includes an email address, username, and password. It is your responsibility to provide an accurate email address and a secure password. Usernames are collected for the sole purpose of creating a friendly user experience (i.e. personalized pages and emails) and as a unique user Log In. Email addresses are collected for the purpose of emailing notifications to users. To gather information about site usage, we track track the frequency of your log-ins to the site.
+We collect personally identifiable information when you register for an account. This information includes an email address, username, and password. It is your responsibility to provide an accurate email address and a secure password. Usernames are collected for the sole purpose of creating a friendly user experience (i.e. personalized pages and emails) and as a unique user Log In. Email addresses are collected for the purpose of emailing notifications to users. To gather information about site usage, we track track the frequency of your log-ins to the site. For your security we encrypt your passwords in our database so that even our team is unable to view them.
 
 During sign up, you have the option to opt-in to a daily email newsletter. You can change this preference at any time in the Settings section of your account. From time to time we may also send out emails related to your subscription status, the status of the website, or other business announcements. You can not opt out of these emails. If you wish to close your account and permanently remove all of your information from our records, you can email us at 
 
@@ -21,10 +21,6 @@ We will never share your personally identifiable information with third parties 
 You will receive a password and account upon completing the registration process. You are responsible for maintaining the confidentiality of the password and the account, and are fully responsible for all activities that occur under your password or account. You may not disclose, share, or distribute your password to any third party. If you feel your password has been jeopardized, you may change your password at any time, and as frequently as you wish by accessing the Settings page after you've logged in. You agree to immediately notify us of any unauthorized use of your password or account or any other breach of security. LockerPulse can not and will not be liable for any loss or damage from your failure to comply with these security obligations.
 
 In the event that your information creates a liability to us that may cause our Internet Service Provider (ISP), suppliers, agents, or contractors to sever their services to us because of such liability, we may take appropriate actions regarding such information.
-
-### Payment Processing
-
-We use PayPal to process all subscription payments. No payment information, such as bank information or credit card numbers, is actually collected or stored by the LockerPulse website. Please refer to the Privacy Policy at PayPal.com for how they store and use the information that you give them. 
 
 ### Cookies
 
