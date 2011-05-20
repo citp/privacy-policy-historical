@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagerank.net privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120190447id_/http%3A//www.pagerank.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagerank.net privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520224425id_/http%3A//www.pagerank.net/privacy-policy) for the most accurate reproduction.*
 
 # PageRank » Privacy Policy
 
@@ -27,15 +27,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 [](http://www.pagerank.net/ "Search Engine Optimization")  
 Display Your [PageRank](http://www.pagerank.net/display-pagerank/ "PageRank") on Your Website Now!
-
-This Premium Spot is Available!!  
-Place your Advertisment [here](http://www.pagerank.net/advertise/ "search engine marketing").
-
-This Premium Spot is Available!!  
-Place your Advertisment [here](http://www.pagerank.net/advertise/ "search engine marketing").
-
-This Premium Spot is Available!!  
-Place your Advertisment [here](http://www.pagerank.net/advertise/ "search engine marketing").
 
 This Premium Spot is Available!!  
 Place your Advertisment [here](http://www.pagerank.net/advertise/ "search engine marketing").
