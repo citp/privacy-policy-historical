@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the indianweddingsaree.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123034151id_/http%3A//www.indianweddingsaree.com/pages/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianweddingsaree.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521011800id_/http%3A//indianweddingsaree.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - IndianWeddingSaree.com
 
-**PRIVACY POLICY**  
-We make every effort to preserve user privacy. If you feel that this company is disclosing user privacy, you should first contact Our Customer Support Manager at: privacy@indianweddingsaree.com; Tel: 91 141 3238090 ; Fax : 91 141 2329715
+ 
 
-**Information Collection and use**
+**PRIVACY POLICY**  
+We make every effort to preserve user privacy. If you feel that this company is disclosing user privacy, you should first contact Our Customer Support Manager at: privacy@indianweddingsaree.com; Tel: 91 141 6608090 ; Fax : 91 141 2329715
+
+ **  
+Information Collection and use**
 
 In order to purchase from www.IndianWeddingSaree.com, a user have to provide some basic required information to process orders include: name, email address, street address, and phone number. This information is essential for customer's orders to be processed and delivered. It is optional for users to give information such as: gender, product interests, etc. This information is used by Indian Wedding Saree to better serve and protects its valued customers.
 
@@ -71,7 +74,7 @@ Jaipur 302001 India
 
 Mobile (Anurag) : +91 98281 11105 (from 8.00am to 11.55pm IST)
 
-Phone : 91 141 3238090 (Land Lines - office)
+Phone : 91 141 6608090  (Land Lines - office)
 
 Fax : 91 141 2329715 (24 Hours)
 
