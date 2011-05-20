@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilike.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223091918id_/http%3A//www.ilike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilike.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520164941id_/http%3A//www.ilike.com/privacy) for the most accurate reproduction.*
 
 # iLike - Privacy Policy
 
