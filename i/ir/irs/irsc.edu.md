@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irsc.edu privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214225620id_/http%3A//www.irsc.edu/aboutirsc/aboutirsc.aspx%3Fid%3D3088) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irsc.edu privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521000840id_/http%3A//www.irsc.edu/aboutirsc/aboutirsc.aspx%3Fid%3D3088) for the most accurate reproduction.*
 
 # About Indian River State College
 
