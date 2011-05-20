@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mobileroadie.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221071326id_/http%3A//mobileroadie.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileroadie.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520073652id_/http%3A//www.mobileroadie.com/home/privacy) for the most accurate reproduction.*
 
-# Mobile Roadie - iPhone, Android and Blackberry Apps for Everyone - Privacy Policy
+# Mobile Roadie - iPhone and Android Apps for Everyone - Privacy Policy
 
 _**Effective December 6, 2010**_
 
