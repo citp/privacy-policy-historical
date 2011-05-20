@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biowarestore.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119150722id_/http%3A//biowarestore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biowarestore.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520090337id_/http%3A//biowarestore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -94,5 +94,5 @@ Suite 310
 Denver, CO, USA  
 80246
 
-Phone: 866.872.0199  
+Phone: 866.806.8865  
 [service@biowarestoresupport.com](mailto:service@biowarestoresupport.com)
