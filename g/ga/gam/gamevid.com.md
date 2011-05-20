@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamevid.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122214525id_/http%3A//gamevid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamevid.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520201841id_/http%3A//gamevid.com/privacy-policy) for the most accurate reproduction.*
 
 # Games Videos, Video Games clips, game trailers, best gamers at GameVid.com
 
@@ -20,6 +20,7 @@ The Gamevid privacy policy describes how Gamevid treats personal information whe
   * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Site changes or for customer service purposes).
   * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, click stream data, etc.) to improve the quality and design of the Site and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
   * We use cookies, clear gifs, and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.
+  * To clean all the information the NAI member ad network stores about you for behavioral advertising purposes you can use Opt-out option. You will still get online advertisements but the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns. More detailed here <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 
 
@@ -29,4 +30,4 @@ The Gamevid privacy policy describes how Gamevid treats personal information whe
 
 
 
-Last updated: May 18th, 2010.
+Last updated: April 26th, 2011.
