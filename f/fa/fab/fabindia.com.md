@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fabindia.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922211119id_/http%3A//fabindia.com/pripolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabindia.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520232823id_/http%3A//www.fabindia.com/privacy-policy) for the most accurate reproduction.*
 
-# Fabindia online: Shop online for clothing and furnishings from india: Contact Fabindia
+# Fabindia.com | Privacy policy
 
-At Fabindia, we value your concerns about online privacy & security while browsing and shopping at our website. We make every effort to guarantee that the information you provide will not be misused. If for some reason the following privacy and security policy does not answer your questions, please [contact us](https://web.archive.org/web/20100922211119id_/http%3A//fabindia.com/contactus.asp). We value your feedback and look forward to improving our services to better meet your needs.
+At Fabindia, we value your concerns about online privacy & security while browsing and shopping at our website. We make every effort to guarantee that the information you provide will not be misused. If for some reason the following privacy and security policy does not answer your questions, please [contact us](https://web.archive.org/web/20110520232823id_/http://www.fabindia.com/privacy-policy/contactus.asp). We value your feedback and look forward to improving our services to better meet your needs.
 
 When and what information does Fabindia collect?  
 Why do we collect this information?  
@@ -24,7 +24,7 @@ The primary reason we gather information is for order processing, shipping and c
 What steps does Fabindia take to ensure security when shopping online?  
 When you place orders or access your account information, we offer the use of secure socket layer (SSL) technology. The secure socket layer (SSL) encrypts all information you put in before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access. To prevent unauthorized access, maintain data accuracy, and ensure correct use of information, we have employed reasonable and current Internet security methods and technologies.
 
-www.fabindia.com web site makes use of 128 Bit Secure Socket Layer (SSL) technology to encrypt credit card and billing information while it is transmitted over the internet. We do not record or retain your card information at all as it is directly passed over to the payment gateway for processing through the 128 Bit Secure Socket Layer (SSL), which is the highest level of internet security available today.
+www.fabindia.com web site makes use of 128 Bit Secure Socket Layer (SSL) technology to encrypt credit card and billing information while it is transmitted over the internet. We do not record or retain your card information at all as it is directly passed over to the payment gateway for processing through the 128 Bit Secure Socket Layer (SSL).
 
 When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Socket Layer (SSL).
 
@@ -37,7 +37,7 @@ Links to other sites
 At times, Fabindia may provide links to other company websites which we believe may be of interest to you. Fabindia is not responsible for the content or services on these sites, and if you choose to explore these links we suggest you review their privacy policies.
 
 How do I update my account information?  
-It is quick and easy to update your account information. Simply log in at My Account and proceed to the Update Profile. Please note that we do not store your credit/debit card information in your personal profile.
+It is quick and easy to update your account information. Simply log in at My Account and proceed to 'Account Information'. Please note that we do not store your credit/debit card information in your personal profile.
 
 How do I remove my name from the Fabindia email list?  
-If you would like to unsubscribe from our email mailings list, please go to the Signup page. Once you enter your details and click Unsubscribe, you will be taken off our mailing list immediately. 
+If you would like to unsubscribe from our email mailing list, you can always do so by clicking on the Unsubscribe link in the Fabindia email sent you. If you are a registered user with Fabindia.com, you can also log into My Account, and unsubscribe from the Newsletter Subscriptions page. In both cases, you will be removed from our mailing list.
