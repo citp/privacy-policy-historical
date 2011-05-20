@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120212455id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cb2.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520063920id_/http%3A//www.cb2.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # CB2 - Privacy Policy
 
@@ -34,7 +34,11 @@ Information sharing also helps us to guard against potential fraud and other wro
 
 We appreciate and respect that not all customers may wish to benefit from the opportunity to share information with other select companies. If you do not want Crate and Barrel to share your customer information, please immediately contact us and we will remove your name from lists we share with other companies. After the six- to eight-week time period it takes to process your request, your information will no longer be shared. When contacting us, please clearly state your request, along with your name, mailing address, email address and phone number. Please note that this request will not prevent us from reviewing each transaction for potential wrongdoing, but it will be effective in all other instances.
 
-It is important to understand that with some companies or online partners, for example WeddingChannel.com, your information must be shared in order to receive their services. By agreeing to share information, our customers may have the opportunity to participate in a wider array of services and offerings.
+It is important to understand that with some companies or online partners, for example WeddingChannel.com and our basic freight carrier AIT Worldwide Logistics, your information must be shared in order to receive their services.
+
+For instance, when you order a large furniture item that requires Basic Freight Delivery, we send your name, address, email address and phone number to AIT, allowing you to access their online delivery scheduling system. AIT does not share your personal information with third parties; it is used strictly to coordinate and complete your shipment.
+
+By agreeing to share information, our customers may have the opportunity to participate in a wider array of services and offerings.
 
 ## remove your name from our lists at any time
 
@@ -50,7 +54,8 @@ CB2 adheres to a strict privacy code regarding children and does not knowingly a
 
 ## partnerships
 
-We currently contract with several online partners to help manage and optimize our Internet business and communications. We use CheetahMail to send emails that you have agreed to receive. Web cookies are used in those email messages and at our Web site to help us measure the effectiveness of those emails. You can "opt out" of this email cookie at any time by [deleting your name](https://web.archive.org/Customer-Service/Email-Preference.aspx) from the CB2 email mailing list. We also contract with Omniture to help us assess visitation to our CB2 site. To do this, we place small pixel tags and cookies on our site. While these do allow Omniture to track your visits, the data retrieved cannot be used for any reason without our authorization. To review their privacy policy, please go to [www.omniture.com/en/privacy/policy](http://www.omniture.com/en/privacy/policy). Although Omniture logs the information about your visit, we control how that data may and may not be used. You can opt out of this Web site analysis tool by clicking [here](http://www.omniture.com/en/privacy/policy#optout). 
+We currently contract with several online partners to help manage and optimize our Internet business and communications. We use CheetahMail to send emails that you have agreed to receive. Web cookies are used in those email messages and at our Web site to help us measure the effectiveness of those emails. You can "opt out" of this email cookie at any time by [deleting your name](https://web.archive.org/Customer-Service/Email-Preference.aspx) from the CB2 email mailing list. We also contract with Omniture to help us assess visitation to our CB2 site. To do this, we place small pixel tags and cookies on our site. While these do allow Omniture to track your visits, the data retrieved cannot be used for any reason without our authorization. To review their privacy policy, please go to [www.omniture.com/en/privacy/policy](http://www.omniture.com/en/privacy/policy). Although Omniture logs the information about your visit, we control how that data may and may not be used. You can opt out of this Web site analysis tool by clicking [here](http://www.omniture.com/en/privacy/policy#optout). We contract with third-party service providers to place our advertising messages on this and other websites. These providers may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry-standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, postal address, email address or any other personal information about the user. For more information about this practice, including privacy and confidentiality, please visit the following websites:  
+<http://www.audiencescience.com/privacy>
 
 ## links to sites and services
 
