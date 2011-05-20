@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120023016id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520224834id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS | mtvU
 
-Last Modified: September 3, 2010 
+Last Modified: March 11, 2011
 
 Go to [Terms of Use Agreement](http://www.mtvu.com/about/terms_of_use/)
 
@@ -14,7 +14,7 @@ This Privacy Policy is intended to explain our privacy practices and covers the 
 
 1\. **_When This Privacy Policy Applies_.**
 
-2\. **_U.S._** ** _Governing Law_.** ****
+2\. **_U.S._** ** _Governing Law; Safe Harbor_.** ****
 
 3\. **_Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities)_. **
 
@@ -40,11 +40,13 @@ This Privacy Policy applies whether you are accessing the Site via a personal co
 
 This Privacy Policy will remain in full force and effect, even if your use of or participation in the Site or any particular service, feature, function or promotional activity offered through the Site terminates, expires, ceases, is suspended or deactivated for any reason. If you do not agree with this Privacy Policy, please do not participate in the Site or any features, activities or services offered through the Site.
 
-**2\. U.S. Governing Law**
+**2\. U.S. Governing Law; Safe Harbor**
 
 The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. **** By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our **_[Terms of Use Agreement](http://www.mtvu.com/about/terms_of_use/)_**. If you are do not meet the age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
 
-If you are located in the European Union or elsewhere outside of the U.S., you do so at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. If this Site is part of the Flux platform, by using this Site, participating in any Site activities, and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information you provide to the Site and to Flux, (ii) acknowledge that U.S. law provides a lower standard of protection for personal data than the laws of various countries including, but not limited to, the European Union and (iii) understand that this Site and Flux will collect, transfer, store, process and/or deal with your Information in accordance with **** this Privacy Policy and the **_[Flux Privacy Policy](http://www.socialproject.com/PrivacyPolicy.html)_** and U.S. law. Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. 
+If you are located in the European Economic Area (“EEA”) and Switzerland, for detailed information on our privacy policy and practices with respect to personal information transferred from the EEA and Switzerland, please see our Safe Harbor Privacy Policy located at <http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf>. 
+
+If you are located outside of the U.S., the EEA and Switzerland, you use this Site at your own risk and initiative and you, not us, are responsible for compliance with any applicable local and national laws. If this Site is part of the Flux platform, by using this Site, participating in any Site activities, and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information you provide to the Site and to Flux, (ii) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and (iii) understand that this Site and Flux will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and the Flux Privacy Policy and U.S. law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. 
 
 **3\. Collection and Use of Personal Information and Other Information (Other than Wireless Marketing Services and Associated Promotional Opportunities).**
 
@@ -130,7 +132,7 @@ As set forth in this Privacy Policy, we may share Information with our Parent Co
 
 **i. In Connection with Marketing and Promotional Email and Offers.**
 
-You may “opt out” of receiving marketing and promotional e-mails or text messages from us at any time by using the opt out mechanism that is contained in an email, newsletter or text message. However, we, or our Affiliates, may continue to contact you via email for administrative or informational purposes, including follow-up messages regarding the administration of your account, any services, features or functions you have enrolled in or registered to use, any Promotions you have participated in or have entered, goods and/or services you have ordered, or other transactions you have undertaken with the Site.
+You may “opt-out” of receiving marketing and promotional e-mails from us at any time by using the Site’s preference management page associated with your User ID account to opt-out of receiving such emails or messages from the Site, the Parent Companies, Affiliates and/or third parties] [by going to the Site’s home page, clicking the “Your Account” link, to (1) un-register your account, or (2) change or edit your preferences.
 
 In the event that we, or our Affiliates, unknowingly sends an email or text message to a child (a person under the age of 16 years) who has registered with the Site in violation of the Site’s Agreement, the child or the child’s parent or legal guardian always have the right to unsubscribe (opt-out) from receiving future emails or text messages via the unsubscribe mechanism contained in the email or message, or to request termination of the child’s registration and status as a registered user with the Site. The same unsubscribe process is available to a parent or legal guardian of a minor (a person under the age of 18 years old, or the age of majority in your state). Please see the “Update, or Delete Your Personal Information” Section for details.
 
@@ -140,29 +142,33 @@ In the event that we, or our Affiliates, unknowingly sends an email or text mess
 
 **b. Opting-Out of Use of Certain Other Information Collected by Tracking Technologies.**
 
-**i.           Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.**  With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options:
+**i. Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.** With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options:
 
-·         With respect to the serving of ads by DoubleClick to you, please visit [**http://www.doubleclick.com/us/about_doubleclick/privac**](http://www.doubleclick.com/us/about_doubleclick/privacy.)for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies.  See below for more information on removing Flash cookies.
+·         With respect to the serving of ads by DoubleClick to you, please visit [**www.google.com/privacy_ads.html**](https://web.archive.org/web/20110520224834id_/http://www.mtvu.com/about/privacy_policy/www.google.com/privacy_ads.html)for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
+
+See below for more information on removing Flash cookies.
 
 ·         To opt-out of most Tracking Technologies (other than for Flash cookies) set by certain Third Party Advertising Service Providers used by the Site in addition to DoubleClick, please visit [**http://www.networkadvertising.org/managing/opt_out.asp**](http://www.networkadvertising.org/managing/opt_out.asp) for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. See below for more information on removing Flash cookies.
 
-·         You can choose to delete most Tracking Technologies (other than for Flash cookies) through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. (See the “help” section of your browser for more information and see below for more information on removing Flash cookies.) 
+·         You can choose to delete most Tracking Technologies (other than Flash cookies) through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. (See the “help” section of your browser for more information and see below for more information on removing Flash cookies.) 
 
-·         You can choose to reject, disable or turn most Tracking Technologies off (other than for Flash Cookies). Additional information on rejecting, disabling or turning Tracking Technologies off may be available through your browser’s support feature. (See the “help” section of your browser for more information and see below for more information on removing Flash cookies.)
+·         You can choose to reject, disable or turn most Tracking Technologies off (other than Flash Cookies). Additional information on rejecting, disabling or turning Tracking Technologies off may be available through your browser’s support feature. (See the “help” section of your browser for more information and see below for more information on removing Flash cookies.)
 
 Opting-out of, deleting, rejecting or disabling or turning off Third Party Advertising Service Providers’ Tracking Technologies does not mean that you will no longer receive online ads. Opting-out of, deleting, rejecting, disabling or turning off Third Party Advertising Service Providers’ Tracking Technologies only means that such ads will no longer be tailored to your specific viewing habits or interests, but you will continue to see ads on this Site.
 
-**ii.          Tracking Technologies Set By the Site. **With respect to the Tracking Technologies set by the Site, you have a number of options:
+**ii. Tracking Technologies Set By the Site.** With respect to the Tracking Technologies set by the Site, you have a number of options:
 
 ·         You can choose to delete most Tracking Technologies (other than Flash Cookies) through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature. (See the “help” section of your browser for more information and see below for more information on removing Flash cookies.) 
 
 ·         You can choose to disable or turn most Tracking Technologies off (other than Flash Cookies). Additional information on disabling or turning most Tracking Technologies off may be available through your browser’s support feature. (See the “help” section of your browser for more information and see below for more information on removing Flash cookies.)
 
-·         You can choose to have the Device you use to access the Site warn you each time a cookie, or most other Tracking Technologies is being sent (other than Flash cookies), or you can choose to turn off such warnings. This is done through your browser on the Device you use to access the Site. Additional information on warnings and removal of warnings may be available through your browser’s support feature.
+·         You can choose to have the Device you use to access the Site warn you each time a cookie, or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings. This is done through your browser on the Device you use to access the Site. Additional information on warnings and removal of warnings may be available through your browser’s support feature.
 
-Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices.  Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.
+This Site adheres to the Self-Regulatory Principles for Online Behavioral Advertising. Click [here](http://srp.mtvn.com/sitefaq.html) for more information about this Site and online behavioral advertising.
 
-** ** **iii.         Flash Cookies.  **Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies.  For more information about Flash cookies and how to remove them from your computer, please visit <http://kb2.adobe.com/cps/526/52697ee8.html> or **_<http://epic.org/privacy/cookies/flash.html>_ **
+Some Device manufacturers may preset their browsers to block Tracking Technologies from websites other than those you visit directly and, if so, certain services or advertisements may not work for such Devices. Further, if you delete, reject, disable or turn off Tracking Technologies, you may not have access to certain features of the Site and some of our other services may not function properly.
+
+** ** **iii. Flash Cookies.** Please note that deleting, rejecting, disabling or turning off Tracking Technologies set by Third Party Advertising Service Providers and Advertisers and set by this Site through the above options will not remove Flash cookies.  For more information about Flash cookies and how to remove them from your computer, please visit <http://www.adobe.com/products/flashplayer/articles/lso/> or **_<http://epic.org/privacy/cookies/flash.html>_ **
 
 **5\. Wireless Marketing Services and Associated Promotional Opportunities.**
 
@@ -220,7 +226,7 @@ Generally, we do not sell, rent, lease or disclose your Personal Information to 
 
 **7\. Reviewing, Updating or Deleting Certain Information.**
 
-Generally, you may review, update or delete certain Information collected by the Site if you are a registered user of the Site and logged into the Site, by clicking “Profile” or your display name at the top of the Site and then selecting “Edit Profile”. However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. We will allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name provided to us during registration and which is associated with your User ID. 
+Generally, you may review, update or delete certain Information collected by clicking “MY ACCOUNT” on the homepage to sign in to your Site account with your User ID and then clicking on “YOUR ACCOUNT INFO” to change, update, or delete your Personal Information. However, Personal Information that is necessary to check eligibility, such as date of birth or age, cannot be deleted, but may be modified with sufficient verification of the correct information. We will allow you to change the password portion of your User ID, as well as certain other Information you have given us in order to keep your information current, but once you select a user name you will not be able to change that user name provided to us during registration and which is associated with your User ID.
 
 You may also exercise certain privacy settings options by, if you are a registered user of the Site and logged into the Site, clicking “Profile” or your display name at the top of the Site, selecting “Edit Profile” or “Manage Account” and selecting the “Privacy” tab. 
 
@@ -266,6 +272,6 @@ Further, if you use any of the Communities features and functions made available
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.
 
-Copyright © 2010 MTV Networks On Campus Inc., a subsidiary of Viacom International Inc. - All Rights Reserved.
+Copyright © 2011 MTV Networks On Campus Inc., a subsidiary of Viacom International Inc. - All Rights Reserved.
 
 **
