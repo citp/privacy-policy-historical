@@ -1,23 +1,108 @@
-<!--The following is the downloaded HTML source of the tfrrs.org privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223143921id_/http%3A//www.tfrrs.org/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tfrrs.org privacy policy that was archived on 2011-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521015504id_/http%3A//www.tfrrs.org/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<meta http-equiv="Content-Type" content="text/html; charset=" iso-8859-1"="">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>TFRRS | Track &amp; Field Results Reporting System
 </title>
 <meta name="description" content="TFRRS">
 <meta name="keywords" content="TFRRS">
-<style type="text/css" media="all">@import "http://d134g6fxhev8i9.cloudfront.net/style.css";</style>
+<style type="text/css" media="all">
+@import "http://css.tfrrs.org/style.css";
+</style>
+<style type="text/css" media="all">
+       @import "http://d30d23qvbq6so5.cloudfront.net/09.css";
+</style>
+<!--[if lte IE 7]><style type="text/css">@import "http://d30d23qvbq6so5.cloudfront.net/ie.css"</style><![endif]-->
+<script src="http://d30d23qvbq6so5.cloudfront.net/jquery-1.3.2.min.jgz" type="text/javascript"></script>
+<script src="http://d30d23qvbq6so5.cloudfront.net/script5.jgz" type="text/javascript"></script>
+
+<link href="http://d30d23qvbq6so5.cloudfront.net/jScrollPane.css" media="all" type="text/css" rel="stylesheet">
 <style type="text/css" media="all">@import "http://d134g6fxhev8i9.cloudfront.net/jquery.autocomplete.css";</style>
-<!--[if lte IE 7]><style type="text/css">@import "http://d134g6fxhev8i9.cloudfront.net/ie.css";</style><![endif]-->
-<script src="http://d134g6fxhev8i9.cloudfront.net/jquery-1.3.2.min.js" type="text/javascript"></script><script src="http://d134g6fxhev8i9.cloudfront.net/jquery.autocomplete.min.js" type="text/javascript"></script>
-<script src="http://d134g6fxhev8i9.cloudfront.net/jqueryslidemenu.js" type="text/javascript"></script>
-<script src="http://d134g6fxhev8i9.cloudfront.net/script.js" type="text/javascript"></script>
-<script src="http://d134g6fxhev8i9.cloudfront.net/teams.js" type="text/javascript"></script>
-<script type="text/javascript">
+<script src="http://d134g6fxhev8i9.cloudfront.net/jquery.autocomplete.min.jgz" type="text/javascript"></script>
+<script src="http://d30d23qvbq6so5.cloudfront.net/jquery.dropdownplain.jgz" type="text/javascript"></script>
+<script src="http://d30d23qvbq6so5.cloudfront.net/jquery.mousewheel.jgz" type="text/javascript"></script>
+<script src="http://d30d23qvbq6so5.cloudfront.net/jScrollPane.jgz" type="text/javascript"></script>
+
+<script src="http://d134g6fxhev8i9.cloudfront.net/teams.jgz" type="text/javascript"></script>
+<script src="http://d30d23qvbq6so5.cloudfront.net/conferences.js" type="text/javascript"></script>
+
+<script language="JavaScript">
+function SwitchSeason(season_name) {
+if (season_name == "indoor") {
+  $('#outdoor_switcher').removeClass('active');
+  $('#indoor_switcher').addClass('active');
+  $('#official_indoor').css('display', '');
+  $('#official_outdoor').css('display', 'none');
+
+
+} else {
+  $('#outdoor_switcher').addClass('active');
+  $('#indoor_switcher').removeClass('active');
+
+  $('#official_outdoor').css('display', '');
+  $('#official_indoor').css('display', 'none');
+}
+}
+var leader_board_gender = "m";
+var leader_board_season = "outdoor";
+
+function LeaderBoardGender(gender) {
+var other_gender = "";
+if (gender == "m") {
+other_gender  = "f";
+} else {
+other_gender  = "m";
+}
+ 
+$('#leaderboard_' + gender +"_button").addClass('active');
+$('#leaderboard_' + other_gender +"_button").removeClass('active');
+
+  leader_board_gender = gender;
+  updateLeaderBoard();
+}
+
+
+function LeaderBoardSeason(s) {
+var other_s = "";
+if (s == "indoor") {
+other_s  = "outdoor";
+} else {
+other_s  = "indoor";
+}
+ 
+$('#leaderboard_' + s +"_button").addClass('active');
+$('#leaderboard_' + other_s +"_button").removeClass('active');
+
+  leader_board_season = s;
+  updateLeaderBoard();
+}
+
+function updateLeaderBoard() {
+  $('#leaderboard_indoor_m').css('display', 'none');
+  $('#leaderboard_indoor_f').css('display', 'none');
+
+  $('#leaderboard_outdoor_m').css('display', 'none');
+  $('#leaderboard_outdoor_f').css('display', 'none');
+
+  $('#leaderboard_'+leader_board_season+'_' + leader_board_gender).css('display', '');
+
+}
+
 $().ready(function() {
 	$("#team_search").autocomplete(autocomplete_teams,
+	{formatItem: function(item) {
+	    return item.text;
+  	}, matchContains:true,max:50	      
+	}).result(function(event, item) {
+  		location.href = item.url;
+	});
+});
+
+
+$().ready(function() {
+	$("#conference_search").autocomplete(autocomplete_conferences,
 	{formatItem: function(item) {
 	    return item.text;
   	}	      
@@ -26,17 +111,15 @@ $().ready(function() {
 	});
 });
 
-
-
-
 </script>
 </head>
 <body>
+<p><a class="skiplink" href="#content">Skip over navigation</a></p>
 <div id="bg">
-<div id="wrapper">
-<div id="header">
-<div id="header-top">
-<div id="header-top2">
+	<div id="wrapper">
+		<div id="header">
+			<div id="header-top">
+				<div id="header-top2">
 <form name="form" action="http://www.tfrrs.org/privacy.html" method="POST">
 
 
@@ -45,674 +128,339 @@ $().ready(function() {
 
 						<fieldset>
 							<ul>
-								<li><input name="username" class="txt" type="text" value="USERNAME:" onclick="if(this.value=='USERNAME:') this.value=''" onblur="if(this.value=='') this.value='USERNAME:'"></li>
-								<li><input name="password" class="txt" type="password" value="PASSWORD:" onclick="if(this.value=='PASSWORD:') this.value=''" onblur="if(this.value=='') this.value='PASSWORD:'"></li>
-								<li><input class="btn" type="submit" value=""></li>
-								
-<li class="forgot"><a href="http://www.tfrrs.org/retrieve_password.html">forgot your login info?</a> </li>
+								<li>
+									<input class="txt" name="username" type="text" value="USERNAME:" onclick="if(this.value=='USERNAME:') this.value=''" onblur="if(this.value=='') this.value='USERNAME:'">
+								</li>
+								<li>
+									<input class="txt" name="password" type="password" value="PASSWORD:" onclick="if(this.value=='PASSWORD:') this.value=''" onblur="if(this.value=='') this.value='PASSWORD:'">
+								</li>
+								<li>
+									<input class="btn" type="submit" value="">
+								</li>
+								<li class="forgot">forgot your login info? <a href="http://www.tfrrs.org/retrieve_password.html">click here</a></li>
+
 <li class="forgot"><a href="http://www.tfrrs.org/accounts.html">Create New Coach Account</a> </li>
-								
+
 
 							</ul>
 						</fieldset>
 					</form>
+					<ul class="socials">
+						<li><a class="twitter" href="http://twitter.com/TFRRS" target="_blank">Twitter</a></li>
+						<li><a class="facebook" href="http://www.facebook.com/pages/Track-Field-Results-Reporting-System/179331188744777#!/pages/Track-Field-Results-Reporting-System/179331188744777">Facebook</a></li>
+					</ul>
+					<!-- /Socials -->
+				</div>
+				<!-- /Header Top2 -->
+			</div>
+			<!-- /Header Top -->
+			<div id="header-mid">
+				<div id="logo-box"> <a class="logo" href="http://www.tfrrs.org/index.html">TFRRS</a> <a class="presentedby" href="http://www.ustfccca.org"><span></span></a> </div>
+				<!-- /Logo Box -->
+				<a class="diradmin-area" href="http://www.tfrrs.org/director_info.html">Meet Director / Administrator Area</a> </div>
+			<!-- /Header Mid -->
+			<div id="nav">
+				<div id="mainmenu">
+					<ul class="dropdown">
+						<li> <a href="http://www.tfrrs.org/index.html"><span>Home</span></a> </li>
+						<li id="team_header"><a href="#"><span>Teams</span></a>
+							<ul class="teams">
+								<li>
+									<div class="navsearch">
+										<form id="team_search_form" action="team_search.html">
+											<fieldset>
+											<label for="team_search">Search for a team:</label>
+											<input id="team_search" name="team_search" type="text" size="30" maxlength="50">
+											<input class="btn" type="submit" value="">
+											</fieldset>
+										</form>
+										<br>
+									</div>
+								</li>
+							</ul>
+						</li>
 
-<div class="date">December 23 2010</div>
-				</div><!-- /Header Top2 -->
-				</div><!-- /Header Top -->
-				<div id="header-mid">
-					<div id="logo-box">
-						<a class="logo" href="http://www.tfrrs.org/index.html">TFRRS</a>
-						<a class="presentedby" href="http://www.ustfccca.org" target="_blank"><span></span></a>
-					</div><!-- /Logo Box -->
-					
-<a class="diradmin-area" href="http://www.tfrrs.org/director_info.html">Meet Director / Timer Information</a>
-				</div><!-- /Header Mid -->
+<li id="conference_header"><a href="#"><span>Conferences</span></a>
+							<ul class="conferences">
+								<li>
+									<div class="navsearch">
+										<form id="conference_search_form" action="conference_search.html">
+											<fieldset>
+											<label for="conference_search">Search for a conference:</label>
+											<input id="conference_search" name="conference_search" type="text" size="30" maxlength="50">
+											<input class="btn" type="submit" value="">
+											</fieldset>
+										</form>
+										<br>
+									</div>
+								</li>
+							</ul>
+						</li>
 
-<div id="nav">
-<div id="mainmenu">
-<ul>
-<li>
-<a href="http://www.tfrrs.org/index.html">Home</a>
-
-</li>
-
-<li id="team_header"><a href="#">Teams</a>
-<ul class="teams">
-<li>
-<div style="margin-left:30px;width:300px;">
-<form name="team_search_form" id="team_search_form" action="team_search.html">
-Search for a team: <input id="team_search" name="team_search" type="textbox" size="30" maxlength="50">
-<input class="btn" type="submit" value="">
-</form>
-<br>
-</div>
-</li>
-</ul>
-</li>
-
-<!--<li ><a href="#">Athlete</a></li>-->
-
-<li><a href="#">Conferences</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/49.html">NCAA Division I</a>
-
-<ul>
-<li><a href="#">DI Conferences A-B</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/62.html">ACC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/61.html">America East</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/60.html">Atlantic 10</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/56.html">Atlantic Sun</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/59.html">Big 12</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/58.html">Big East</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/63.html">Big Sky</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/64.html">Big South</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/65.html">Big Ten</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/66.html">Big West</a>
-</li>
-</ul>
-</li>
+						<li> <a href="http://www.tfrrs.org/results_search.html"><span>MEET RESULTS</span></a> </li>
+						<li> <a href="#"><span>INDOOR LISTS</span></a> 
+<ul class="sub_menu">
+							
+							<li> <a href="http://www.tfrrs.org/lists/607.html"><span>NCAA DIVISION I</span></a>
+							  <ul>
+							  <li> <a href="http://www.tfrrs.org/lists/607.html?gender=m"><span>2010-11 D I POP Men</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/607.html?gender=f"><span>2010-11 D I POP WOMEN</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/664.html"><span>ACC</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/622.html"><span>America East</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/619.html"><span>Atlantic Sun</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/638.html"><span>Big 12</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/621.html"><span>Big East</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/623.html"><span>Big Sky</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/624.html"><span>Big South</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/625.html"><span>Big Ten</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/637.html"><span>Great West</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/626.html"><span>Horizon</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/692.html"><span>IC4A/ECAC</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/618.html"><span>Ivy League</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/631.html"><span>Metro Atlantic</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/643.html"><span>Mets</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/632.html"><span>Missouri Valley</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/620.html"><span>Mountain West</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/635.html"><span>MPSF</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/627.html"><span>NEC</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/691.html"><span>NEICAAA</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/633.html"><span>Ohio Valley</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/293.html"><span>Pac-10</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/630.html"><span>Patriot League</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/636.html"><span>SEC</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/628.html"><span>Sun Belt</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/639.html"><span>The Summit League</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/629.html"><span>WAC</span></a> </li>
+							</ul>
+							</li>
 
 
-<li><a href="#">DI Conferences C-L</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/68.html">Colonial</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/67.html">Conference USA</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1380.html">Great West</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/54.html">Heptagonals</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/69.html">Horizon</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1433.html">IC4A/ECAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/55.html">Ivy League</a>
-</li>
-</ul>
-</li>
-
-<li><a href="#">DI Conferences M-O</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/1377.html">MPSF</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/79.html">Metro Atlantic</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/256.html">Mets</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/70.html">Mid-American</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/71.html">Mid-Eastern</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/83.html">Missouri Valley</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/57.html">Mountain West</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/73.html">NEC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/254.html">NEICAAA</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/94.html">Ohio Valley</a>
-</li>
-</ul>
+				                        <li> <a href="http://www.tfrrs.org/lists/608.html"><span>NCAA DIVISION II</span></a>
+							<ul>
+							<li> <a href="http://www.tfrrs.org/lists/608.html?gender=m"><span>2010-11 D II POP Men</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/608.html?gender=f"><span>2010-11 D II POP WOMEN</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/662.html">
+							    <span>CTC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/642.html">
+							    <span>GLIAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/644.html">
+							    <span>GNAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/643.html">
+							    <span>Mets</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/666.html">
+							    <span>MIAA</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/691.html">
+							    <span>NEICAAA</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/645.html">
+							    <span>Northeast-10</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/646.html">
+							    <span>Northern Sun</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/641.html">
+							    <span>PSAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/647.html">
+							    <span>Rocky Mountain AC</span></a> </li>
+							</ul>
 </li>
 
 
-<li><a href="#">DI Conferences P-Z</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/74.html">Pac-10</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/78.html">Patriot League</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/72.html">SEC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/75.html">SWAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/80.html">Southern Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/47.html">Southland Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/76.html">Sun Belt</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/98.html">The Summit League</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/77.html">WAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/81.html">WCC</a>
-</li>
-</ul>
-</li>
+<li> <a href="http://www.tfrrs.org/lists/609.html"><span>NCAA DIVISION III</span></a>
+							<ul>
+							<li> <a href="http://www.tfrrs.org/lists/609.html?gender=m"><span>2010-11 D III POP Men</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/609.html?gender=f"><span>2010-11 D III POP WOMEN</span></a> </li>
 
-</ul>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/50.html">NCAA Division II</a>
+							<li> <a href="http://www.tfrrs.org/lists/662.html"><span>CTC</span></a> </li>
 
-<ul>
-<li><a href="#">DII Conferences A-K</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/1394.html">CCAA</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1430.html">CTC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1382.html">Central Intercollegiate</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1383.html">Conference Carolinas</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1384.html">GLIAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1386.html">GNAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1385.html">Great Lakes Valley Conference</a>
-</li>
-</ul>
-</li>
-<li><a href="#">DII Conferences L-N</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/1392.html">Lone Star Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1387.html">MIAA</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/256.html">Mets</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/254.html">NEICAAA</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1388.html">Northeast-10</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1389.html">Northern Sun</a>
-</li>
-</ul>
-</li>
-<li><a href="#">DII Conferences O-Z</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/252.html">PSAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1390.html">Rocky Mountain AC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1393.html">SIAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1391.html">WVIAC</a>
-</li>
+							<li> <a href="http://www.tfrrs.org/lists/672.html"><span>CCIW</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/651.html"><span>CUNYAC</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/668.html"><span>DIII All-Ohio</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/690.html"><span>DIII New England</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/649.html"><span>ECAC DIII</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/653.html"><span>Empire 8 </span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/652.html"><span>Heartland Collegiate AC</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/643.html"><span>Mets</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/657.html"><span>Middle Atlantic Conferences</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/691.html"><span>NEICAAA</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/658.html"><span>North Coast AC</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/654.html"><span>NYSCTC</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/659.html"><span>Ohio Athletic Conference</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/656.html"><span>Old Dominion AC</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/655.html"><span>SUNYAC</span></a> </li>
+
+							<li> <a href="http://www.tfrrs.org/lists/689.html"><span>UAA</span></a> </li>
+							</ul>
+							</li>
+
+
+<li> <a href="http://www.tfrrs.org/lists/610.html"><span>NAIA</span></a>
+							<ul>
+							<li> <a href="http://www.tfrrs.org/lists/610.html?gender=m"><span>2010-11 NAIA POP Men</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/610.html?gender=f"><span>2010-11 NAIA POP WOMEN</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/660.html"><span>Dakota Athletic Conference</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/665.html"><span>Great Plains AC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/661.html"><span>Heart of America AC</span></a> </li>
 </ul>
 </li>
 </ul>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/51.html">NCAA Division III</a>
+							
+							
 
-<ul>
-<li><a href="#">DIII Conferences A-D</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/1395.html">American Southwest Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1398.html">CCIW</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1430.html">CTC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1367.html">CUNYAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1396.html">Capital Athletic Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1397.html">Centennial Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/255.html">DIII New England</a>
-</li>
-</ul>
-</li>
-<li><a href="#">DIII Conferences E-L</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/253.html">ECAC DIII</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1399.html">Empire 8 </a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1373.html">Heartland Collegiate AC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1400.html">Iowa Intercollegiate AC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1401.html">Landmark Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1402.html">Liberty League</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1403.html">Little East Conference</a>
-</li>
-</ul>
-</li>
-<li><a href="#">DII Conferences M</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/1404.html">MASCAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1422.html">Mason-Dixon Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/256.html">Mets</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1405.html">Michigan Intercollegiate AC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1406.html">Middle Atlantic Conferences</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1407.html">Midwest Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1408.html">Minnesota Intercollegiate AC</a>
-</li>
-</ul>
-</li>
-
-<li><a href="#">DIII Conferences N</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/254.html">NEICAAA</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/16.html">NESCAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1409.html">NEWMAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1410.html">NJAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1421.html">NYSCTC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1411.html">North Coast AC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1412.html">Northern Athletics Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1413.html">Northwest Conference</a>
-</li>
-</ul>
-</li>
+						</li>
+						<li> <a href="#"><span>OUTDOOR LISTS</span></a>
+<ul class="sub_menu">
+							
+							<li> <a href="http://www.tfrrs.org/lists/673.html"><span>NCAA DIVISION I</span></a>
+							  <ul>
+							  <li> <a href="http://www.tfrrs.org/lists/673.html?gender=m"><span>2010-11 D I POP Men</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/673.html?gender=f"><span>2010-11 D I POP WOMEN</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/693.html?gender=m"><span>2010-11 D I East Men</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/693.html?gender=f"><span>2010-11 D I East WOMEN</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/694.html?gender=m"><span>2010-11 D I West Men</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/694.html?gender=f"><span>2010-11 D I West WOMEN</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/751.html"><span>ACC</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/733.html"><span>America East</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/730.html"><span>Atlantic Sun</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/762.html"><span>Big 12</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/732.html"><span>Big East</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/734.html"><span>Big Sky</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/735.html"><span>Big South</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/736.html"><span>Big Ten</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/737.html"><span>Big West</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/713.html"><span>Cal/Nevada</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/738.html"><span>Colonial (CAA)</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/753.html"><span>Great West</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/739.html"><span>Horizon</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/755.html"><span>IC4A/ECAC</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/729.html"><span>Ivy League</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/746.html"><span>Metro Atlantic</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/750.html"><span>Mets</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/747.html"><span>Missouri Valley</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/731.html"><span>Mountain West</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/740.html"><span>NEC</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/749.html"><span>NEICAAA</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/748.html"><span>Ohio Valley</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/741.html"><span>Pac-10</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/745.html"><span>Patriot League</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/752.html"><span>SEC</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/743.html"><span>Sun Belt</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/754.html"><span>The Summit League</span></a> </li>
+							  <li> <a href="http://www.tfrrs.org/lists/744.html"><span>WAC</span></a> </li>
+							</ul>
+							</li>
 
 
-<li><a href="#">DIII Conferences O-S</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/1414.html">Ohio Athletic Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1415.html">Old Dominion AC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1416.html">Presidents' Athletic Conf.</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1356.html">SCAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1417.html">SUNYAC</a>
-</li>
-</ul>
-</li>
-
-<li><a href="#">DIII Conferences T-Z</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/leagues/1418.html">UAA</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1419.html">UMAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1420.html">Wisconsin Intercollegiate AC</a>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/53.html">NAIA</a>
-
-<ul>
-
-<li>
-<a href="http://www.tfrrs.org/leagues/1376.html">Dakota Athletic Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/leagues/1423.html">Heart of America AC</a>
-</li>
-</ul>
-</li>
-</ul>
+				                        <li> <a href="http://www.tfrrs.org/lists/674.html"><span>NCAA DIVISION II</span></a>
+							<ul>
+							<li> <a href="http://www.tfrrs.org/lists/674.html?gender=m"><span>2010-11 D II POP Men</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/674.html?gender=f"><span>2010-11 D II POP WOMEN</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/713.html">
+							    <span>Cal/Nevada</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/722.html">
+							    <span>CTC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/698.html">
+							    <span>CCAA</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/700.html">
+							    <span>Conference Carolinas</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/707.html">
+							    <span>GLIAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/708.html">
+							    <span>GNAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/699.html">
+							    <span>Lone Star Conference</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/750.html">
+							    <span>Mets</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/711.html">
+							    <span>MIAA</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/749.html">
+							    <span>NEICAAA</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/709.html">
+							    <span>Northeast-10</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/710.html">
+							    <span>Northern Sun</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/706.html">
+							    <span>PSAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/712.html">
+							    <span>Rocky Mountain AC</span></a> </li>
+							</ul>
+							</li>
 
 
-</li>
+<li> <a href="http://www.tfrrs.org/lists/675.html"><span>NCAA DIVISION III</span></a>
+							<ul>
+							<li> <a href="http://www.tfrrs.org/lists/675.html?gender=m"><span>2010-11 D III POP Men</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/675.html?gender=f"><span>2010-11 D III POP WOMEN</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/713.html"><span>Cal/Nevada</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/722.html"><span>CTC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/726.html"><span>CCIW</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/717.html"><span>CUNYAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/728.html"><span>DIII All-Ohio</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/716.html"><span>DIII New England</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/715.html"><span>ECAC DIII</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/719.html"><span>Empire 8 </span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/718.html"><span>Heartland Collegiate AC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/750.html"><span>Mets</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/767.html"><span>Michigan Intercollegiate AA</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/727.html"><span>Middle Atlantic Conferences</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/749.html"><span>NEICAAA</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/714.html"><span>NESCAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/725.html"><span>North Coast AC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/697.html"><span>Northwest Conference</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/721.html"><span>NYSCTC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/723.html"><span>Ohio Athletic Conference</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/742.html"><span>Old Dominion AC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/704.html"><span>Presidents AC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/705.html"><span>SCAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/696.html"><span>SCIAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/765.html"><span>SLIAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/720.html"><span>SUNYAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/724.html"><span>UAA</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/763.html"><span>UMAC</span></a> </li>
+							</ul>
+							</li>
 
-<li>
-<a href="http://www.tfrrs.org/results_search.html">Meet Results</a></li>
 
-<li><a href="#">Indoor Lists</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/lists/607.html">NCAA Division I</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/lists/607.html?gender=m">2010-11 DI POP - Men</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/607.html?gender=f">2010-11 DI POP - Women</a>
-</li>
+<li> <a href="http://www.tfrrs.org/lists/676.html"><span>NAIA</span></a>
+							<ul>
+							<li> <a href="http://www.tfrrs.org/lists/676.html?gender=m"><span>2010-11 NAIA POP Men</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/676.html?gender=f"><span>2010-11 NAIA POP WOMEN</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/756.html"><span>Dakota Athletic Conference</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/768.html"><span>Golden State AC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/758.html"><span>Great Plains AC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/757.html"><span>Heart of America AC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/766.html"><span>KCAC</span></a> </li>
+							<li> <a href="http://www.tfrrs.org/lists/764.html"><span>Sun Conference</span></a> </li>
+							</ul>
+							</li>
 
 
 
-<li><a href="#">DI Conferences A-C</a>
-<ul>
 
-<li>
-<a href="http://www.tfrrs.org/lists/664.html">ACC</a>
-</li>
+							</ul>
+														
 
-<li>
-<a href="http://www.tfrrs.org/lists/622.html">America East</a>
-</li>
-
-<li>
-<a href="http://www.tfrrs.org/lists/619.html">Atlantic Sun</a>
-</li>
-
-<li>
-<a href="http://www.tfrrs.org/lists/638.html">Big 12</a>
-</li>
-
-<li>
-<a href="http://www.tfrrs.org/lists/621.html">Big East</a>
-</li>
-
-<li>
-<a href="http://www.tfrrs.org/lists/623.html">Big Sky</a>
-</li>
-
-<li>
-<a href="http://www.tfrrs.org/lists/624.html">Big South</a>
-</li>
-
-<li>
-<a href="http://www.tfrrs.org/lists/625.html">Big Ten</a>
-</li>
-</ul>
-</li>
-
-
-<li><a href="#">DI Conferences D-L</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/lists/637.html">Great West</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/626.html">Horizon</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/640.html">IC4A/ECAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/618.html">Ivy League</a>
-</li>
-</ul>
-</li>
-
-
-
-<li><a href="#">DI Conferences M-Z</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/lists/631.html">Metro Atlantic</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/643.html">Mets</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/632.html">Missouri Valley</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/620.html">Mountain West</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/635.html">MPSF</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/627.html">NEC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/634.html">NEICAAA</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/633.html">Ohio Valley</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/630.html">Patriot League</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/636.html">SEC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/628.html">Sun Belt</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/639.html">The Summit League</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/629.html">WAC</a>
-</li>
-</ul>
-</li>
-
-</ul>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/608.html">NCAA Division II</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/lists/608.html?gender=m">2010-11 DII POP - Men</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/608.html?gender=f">2010-11 DII POP - Women</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/662.html">CTC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/642.html">GLIAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/644.html">GNAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/643.html">Mets</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/634.html">NEICAAA</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/645.html">Northeast-10</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/646.html">Northern Sun</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/641.html">PSAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/647.html">Rocky Mountain AC</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/609.html">NCAA Division III</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/lists/662.html">CTC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/651.html">CUNYAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/650.html">DIII New England</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/649.html">ECAC DIII</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/653.html">Empire 8 </a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/652.html">Heartland Collegiate AC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/643.html">Mets</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/657.html">Middle Atlantic Conferences</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/634.html">NEICAAA</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/654.html">NYSCTC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/658.html">North Coast AC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/659.html">Ohio Athletic Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/656.html">Old Dominion AC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/655.html">SUNYAC</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/663.html">UAA</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/610.html">NAIA</a>
-<ul>
-<li>
-<a href="http://www.tfrrs.org/lists/610.html?gender=m">2010-11 NAIA Indoor POP - Men</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/610.html?gender=f">2010-11 NAIA Indoor POP - Women</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/660.html">Dakota Athletic Conference</a>
-</li>
-<li>
-<a href="http://www.tfrrs.org/lists/661.html">Heart of America AC</a>
-</li>
-</ul>
-</li>
-</ul>
-
-</li>
-
-<li><a href="#">Outdoor Lists</a>
-<ul>
-</ul>
-
-</li>
-
-</ul>
-</div><!-- /mainmenu -->
-<!--<form id="search"  action="site_search.html">
-<fieldset>
-<input class="txt" type="text" value="Site Search" onclick="if(this.value=='Site Search') this.value=''" onblur="if(this.value=='') this.value='Site Search'" name="site_search" id="site_search"/>
-<input class="btn" type="submit" value="" />
-</fieldset>
-</form>-->
-</div>
-
-			</div><!-- /Header -->
-
+                                                </li>
+					</ul>
+				</div>
+				<!-- /mainmenu -->
+				<div class="archives"> <a href="http://www.tfrrs.org/archives.html">ARCHIVES</a></div>
+				<!-- /Archives -->
+			</div>
+			<!-- /Nav -->
+		</div>
+		<!-- /Header -->
 
 	<div id="content">
 
@@ -775,38 +523,24 @@ Search for a team: <input id="team_search" name="team_search" type="textbox" siz
 				</div><!-- /Container -->
 			</div><!-- /Content -->
 
-<div id="footer">
-
-					<div class="left">
-						
-
-<ul>
-<li><a href="privacy.html">PRIVACY</a>  /</li>
-<li><a href="tos.html">TERMS OF USE</a>  /</li>
+	<div id="footer">
+			<div>
+				<div class="left">
+					<ul>
+<li><a href="http://www.tfrrs.org/privacy.html">PRIVACY</a>  /</li>
+<li><a href="http://www.tfrrs.org/tos.html">TERMS OF USE</a>  /</li>
 <li><a href="mailto:support@tfrrs.org">CONTACT TFRRS</a></li>
-<!--
-<li><a href="#">ATHLETE</a>  /</li>
-<li><a href="#">TEAM</a>  /</li>
-<li><a href="#">CONFERENCE</a>  /</li>
-<li><a href="#">MEET RESULTS</a>  /</li>
-<li><a href="#">PERFORMANCE LIST</a>  /</li>
-<li><a href="#">RESULT SEARCH</a></li>
--->
-</ul>
-<p>
-
-<a href="http://www.ustfccca.org">U.S. Track &amp; Field And Cross Country Coaches Association</a>
-
-</p></div>
-
-
-					
-<div class="right">
-<a id="poweredby" href="http://www.directathletics.com" target="_new">Powered by Direct Athletics</a>
+					</ul>
+					<p><a href="http://www.ustfccca.org/">U.S. Track &amp; Field And Cross Country Coaches Association</a>
+				</p></div>
+				<div class="right"> <a id="poweredby" href="http://www.directathletics.com">Powered by Direct Athletics</a> </div>
+			</div>
+		</div>
+		<!-- /Footer -->
+	</div>
+	<!-- /Wrapper -->
 </div>
-			</div><!-- /Footer -->
-		</div><!-- /Wrapper -->
-	</div><!-- /Bg -->
+<!-- /Bg -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -817,8 +551,6 @@ try {
 var pageTracker = _gat._getTracker("UA-66287-6");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-
-
 
 
 
