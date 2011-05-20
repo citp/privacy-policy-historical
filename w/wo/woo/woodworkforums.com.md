@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodworkforums.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094632id_/http%3A//www.woodworkforums.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodworkforums.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520221041id_/http%3A//woodworkforums.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Woodwork Forums
 
@@ -53,7 +53,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
 AdSense Privacy Policy Provided by [**Tutorials4you**](http://www.tutorials4you.co.uk/index.php)   
 
 
-All times are GMT +11. The time now is 08:46 PM.
+All times are GMT +11. The time now is 09:10 AM.
 
   
 
