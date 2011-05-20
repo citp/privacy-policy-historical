@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpshots.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121221036id_/http%3A//dpshots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpshots.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520135134id_/http%3A//dpshots.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Digital Photography Shots
 
