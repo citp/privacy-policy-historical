@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliateshop.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116101732id_/http%3A//www.affiliateshop.com/company/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliateshop.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520065043id_/http%3A//www.affiliateshop.com/company/privacy_policy.htm) for the most accurate reproduction.*
 
 # AffiliateShop - Privacy Policy
 
