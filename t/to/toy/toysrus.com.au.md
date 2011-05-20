@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toysrus.com.au privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125072230id_/http%3A//www.toysrus.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.com.au privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520220917id_/http%3A//www.toysrus.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Toys ‘R’ Us
 
