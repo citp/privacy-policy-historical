@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sundayherald.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227155156id_/http%3A//www.heraldscotland.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sundayherald.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520194216id_/http%3A//www.heraldscotland.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # Herald Scotland | Misc | Privacy Policy
 
@@ -68,7 +68,7 @@ Because we want your experience of the Site to be as informative and useful as p
 
 **Our Commitment to Data Security**
 
-We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. We cannot guarantee the security of any information you disclose online, and you do so at your own risk.
+We take reasonable precautions to keep your personal information secure. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. We cannot guarantee the security of any information you disclose online, and you do so at your own risk. Note that some parts of our service, such as commenting, requires the storage of some of your information outside the European Union.
 
 **Changes in Our Policy**
 
