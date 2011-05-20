@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagittoday.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212031748id_/http%3A//bagittoday.com/itbc/privatePolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagittoday.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520072512id_/http%3A//www.bagittoday.com/private-policy.jsp) for the most accurate reproduction.*
 
 # Bag It Today
 
