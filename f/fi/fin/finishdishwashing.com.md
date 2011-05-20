@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finishdishwashing.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012004840id_/http%3A//www.finishdishwashing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finishdishwashing.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520171145id_/http%3A//www.finishdishwashing.com/privacy.php) for the most accurate reproduction.*
 
 # FINISH® Website Privacy Policy
 
@@ -25,7 +25,7 @@ Reckitt Benckiser Inc. (USA) ("Reckitt Benckiser") respects the privacy of every
 
 Reckitt Benckiser will not collect any personally identifiable information about you (that is, your name, address, telephone number, or email address) unless you provide it to us voluntarily. For example, and not by limitation, we may collect personally identifiable information when you make a purchase, participate in a contest or sweepstakes promotion; fill out a questionnaire; sign up for a survey or otherwise interact with us. 
 
-When you provide personally identifiable information to us, we may ask if you want to receive future communication from us, such as newsletters, email or other information. You can choose not to receive this communication, if you wish and you may opt-out by clicking on the link on the bottom of an email you received or by clicking here. If you do not want your personally identifiable information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please click here to provide us with the email address. 
+When you provide personally identifiable information to us, we may ask if you want to receive future communication from us, such as newsletters, email or other information. You can choose not to receive this communication, if you wish and you may opt-out by clicking on the link on the bottom of an email you received or by [clicking here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2087003840&n=9). If you do not want your personally identifiable information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please [click here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2087003840&n=9) to provide us with the email address. 
 
 In addition to providing you with the service or information you request on our site, your personally identifiable information may also be used to help us track the way you use our site and our products. We may also combine the information you provide with information that we collect separately, including information you have provided to other organizations as well as public information. All of this will help us, for instance, better design our products, web sites and advertisements. In order to do this, we may also share your information with companies who carry out work for us. Information may be shared with service providers who provide services for or administer activities on behalf of Reckitt Benckiser (such as, but not limited to, authorization of credit card and check transactions, sweepstakes, promotions and contests. Information you submit to one or more of the Reckitt Benckiser brands may be shared with another of the Reckitt Benckiser brands. Your personally identifiable information may also be shared with service providers who warehouse product, perform order fulfillment or provide hosting services. These companies have agreed to only use your information in the way we tell them and to have procedures in place to protect the information. 
 
@@ -38,7 +38,7 @@ If we intend to share your information with an unaffiliated company, other than 
 **3\. Children’s Privacy**  
 
 
-Reckitt Benckiser does not knowingly solicit or collect personally identifiable information (that is, name, address, telephone number, or email address) from individuals under the age of thirteen years. Where appropriate, Reckitt Benckiser will specifically instruct children not to submit such information on our sites or advertisements. If a child has provided us with personally identifiable information, a parent or guardian of that child should click here to provide us with the email address if they would like this information deleted from our records. Reckitt Benckiser will take all reasonable measures to delete such information from its database and to not use such information for any purpose (except where necessary to protect the safety of the child or others or as required by law.) 
+Reckitt Benckiser does not knowingly solicit or collect personally identifiable information (that is, name, address, telephone number, or email address) from individuals under the age of thirteen years. Where appropriate, Reckitt Benckiser will specifically instruct children not to submit such information on our sites or advertisements. If a child has provided us with personally identifiable information, a parent or guardian of that child should [click here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2087003840&n=9) to provide us with the email address if they would like this information deleted from our records. Reckitt Benckiser will take all reasonable measures to delete such information from its database and to not use such information for any purpose (except where necessary to protect the safety of the child or others or as required by law.) 
 
 **4\. Linked Sites**  
 
@@ -63,12 +63,12 @@ Reckitt Benckiser uses industry standard security techniques to help protect aga
 **8\. Who to Contact**  
 
 
-If you have submitted personally identifiable information through a Reckitt Benckiser site or interactive advertisement, and would like that information modified, changed or deleted from our records, please click here to provide us with the email address.
+If you have submitted personally identifiable information through a Reckitt Benckiser site or interactive advertisement, and would like that information modified, changed or deleted from our records, please [click here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2087003840&n=9) to provide us with the email address.
 
 **9\. How can you Update or Change your Information**  
 
 
-If at any time you want to update or change your information, you may contact us by sending an email by [clicking here](mailto:consumer.relations@rbnorthamerica.com?subject=Please%20Update%20My%20Information). If have received an email and you would like to opt-out of receiving future emails, please click on the opt-out link at the bottom of that email. If you would like to be removed from our database and you have not received an email, please click here to opt-out.
+If at any time you want to update or change your information, you may contact us by sending an email by [clicking here](mailto:consumer.relations@rbnorthamerica.com?subject=Please%20Update%20My%20Information). If have received an email and you would like to opt-out of receiving future emails, please click on the opt-out link at the bottom of that email. If you would like to be removed from our database and you have not received an email, please [click here](http://ebm.cheetahmail.com/r/regf2?a=0&aid=2087003840&n=9) to opt-out.
 
 **10\. Revisions to this Privacy Policy**  
 
