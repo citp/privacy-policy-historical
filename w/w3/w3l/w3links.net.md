@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3links.net privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201022445id_/http%3A//w3links.net/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3links.net privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520144435id_/http%3A//w3links.net/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Free For All Links - Free submission - Link Directory
 
