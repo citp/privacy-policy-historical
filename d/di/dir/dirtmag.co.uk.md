@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtmag.co.uk privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221101033id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtmag.co.uk privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225610id_/http%3A//mpora.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy // About // Mpora Extreme Sports
 
