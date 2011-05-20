@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitroreader.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222071000id_/http%3A//www.nitroreader.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitroreader.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520035045id_/http%3A//www.nitroreader.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy — Nitro PDF Reader
 
