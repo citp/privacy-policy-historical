@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203120034id_/http%3A//www.perthmint.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521002835id_/http%3A//www.perthmint.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # The Perth Mint :: Privacy & Security
 
