@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camspot.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120075130id_/http%3A//camspot.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camspot.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520092557id_/http%3A//camspot.com/privacy_policy) for the most accurate reproduction.*
 
 # The Hottest Cam Community | Camspot.com
 
