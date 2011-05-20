@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111841id_/http%3A//www.wpxi.com/station/1910347/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpxi.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520224415id_/http%3A//www.wpxi.com/station/1910347/detail.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - WPXI-TV News Story - WPXI Pittsburgh
 
-Effective date: 1/15/03 
+Effective Immediately: 
 
 WPXI-TV respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by WPXI, Inc., d/b/a WPXI-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to: 
 
-Pat Maday  
-Website Manager  
+Karen Lah  
+Creative Services Director  
 WPXI-TV  
-11 Television Hill  
+4145 Evergreen Road  
 Pittsburgh, PA 15214  
-[Send E-Mail](mailto:pmaday@wpxi.com)
+[Send E-Mail](mailto:klah@wpxi.com)
 
 **CHILDREN'S PRIVACY**
 
@@ -39,10 +39,10 @@ We also may use cookies to allow third parties to better serve advertisements to
 
 **Browser Level Information and IP Addresses**. Our web servers automatically collect limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, and to measure traffic within our site. 
 
-**Third Party Advertising**  
+**Third Party Advertising**   
 The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal in-formation), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here.](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
-**Third Party Cookies**  
+**Third Party Cookies**   
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp).
 
 **DISCLOSURE OF INFORMATION**
@@ -80,3 +80,5 @@ All information gathered on our site is stored within a database operated by us 
 **CHANGES TO THIS PRIVACY POLICY**
 
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.
+
+ _Copyright 2011 by[WPXI.com](mailto:burgnews@wpxi.com). All rights reserved. This material may not be published, broadcast, rewritten or redistributed._
