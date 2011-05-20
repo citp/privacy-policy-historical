@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whitehouseblackmarket.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111900id_/http%3A//www.whitehouseblackmarket.com/store/page.jsp%3Fid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitehouseblackmarket.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520234811id_/http%3A//www.whitehouseblackmarket.com/store/page.jsp%3Fid%3D18) for the most accurate reproduction.*
 
-# White House | Black Market - Privacy Policy
+# Privacy Policy - White House | Black Market
 
 **Privacy Policy**  
 Revised October 28, 2010  
@@ -14,7 +14,7 @@ We may collect information (including name, address, telephone number, email add
   * Register for our loyalty program or ask to receive our emails or catalogs. 
   * Participate in a contest, sweepstakes, promotion, or survey. 
   * Are referred to us through a marketing promotion. 
-  * Visit out website (see **Cookies** below). 
+  * Visit our website (see **Cookies** below). 
 
 
 
@@ -38,7 +38,7 @@ We may share your personal information in the following ways:
 
   * We contract with other companies to provide certain services, such as shipping, name and address verification, email distribution, market research and promotions management. We provide these companies with only that information needed in order for them to render the services we request and they are not entitled to use it for their own marketing or any other purpose. 
   * From time to time, we make our mailing list (names and addresses only) and general shopping activity available to reputable companies whose products we believe will be of interest to you. We do not share email addresses for this purpose. If you do not want us to share your information, please contact us. (See **Contact Us** below.)
-  * On rare occasion, we may disclose information upon law enforcement?s request, in response to a court order, or when required by law. We may also share information to assist in fraud investigation and protection or as necessary to protect our rights and interests. 
+  * On rare occasion, we may disclose information upon law enforcement's request, in response to a court order, or when required by law. We may also share information to assist in fraud investigation and protection or as necessary to protect our rights and interests. 
   * We may share information provided to one of our Chico's FAS, Inc. brands (Chico's, White House | Black Market or Soma Intimates) with other Chico's FAS brands. 
   * In the event of a sale or merger of Chico's FAS, Inc. or any of its affiliated companies, information we have collected as described in this policy may be among the transferred business assets. 
 
@@ -48,11 +48,11 @@ We may share your personal information in the following ways:
 If you do not wish to be contacted via email, direct mail or telephone, please let us know your preferences by contacting customer service. (See **Contact Us** below.) Please provide your exact name, mailing address, email and/or telephone number so that we may identify you correctly. You may also unsubscribe from our email using the link provided in each email. If you ask us to remove you from promotional lists, we will maintain your name on a "do not contact" list to ensure that we continue to honor your requests. Due to privacy concerns and our inability to verify individual requests and contact information, we are unable to honor "opt out" requests made by a third party on your behalf. It may take up to 10 days to process your email request and, due to the fact that mailings are planned long in advance, 6 to 8 weeks to process your postal mail request. When you purchase online, we will continue to confirm your order and shipment status via email and, if questions arise concerning your order, we may contact you via email, postal address or telephone. If you change your mind about your choices, you may start receiving promotional communications from us again by logging on to your online account and changing your preferences, by signing up when you visit our website or stores, when you enter a contest, sweepstakes or survey, or by contacting customer service. 
 
 **Accessing and Changing Your Information**  
-To review or change the information previously provided, sign on to [www.whitehouseblackmarket.com](http://www.whitehouseblackmarket.com/)and click "My Account". You may update stored information by clicking "Account Profile". Be sure to click "Save" when you complete your changes. You may also change or access this information by calling 877.948.2525 or by emailing [customerservice@whitehouseblackmarket.com](mailto:customerservice@whitehouseblackmarket.com).   
+To review or change the information previously provided, sign on to [www.whitehouseblackmarket.com](http://www.whitehouseblackmarket.com/) and click "My Account". You may update stored information by clicking "Account Profile". Be sure to click "Save" when you complete your changes. You may also change or access this information by calling 877.948.2525 or by emailing [customerservice@whitehouseblackmarket.com](mailto:customerservice@whitehouseblackmarket.com).   
 
 
 **Cookies**  
-Our website uses "cookies" which are small data files stored on your computer when you visit a website. Cookies may be used in a variety of ways to enhance or personalize your online browsing and shopping experience. For instance, cookies allow us to remember what?s in your shopping cart, recognize you when you return to our site, track your orders, and monitor and maintain information about your visits to our website. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies however, you will not be able to access your account information or make purchases on our website.   
+Our website uses "cookies" which are small data files stored on your computer when you visit a website. Cookies may be used in a variety of ways to enhance or personalize your online browsing and shopping experience. For instance, cookies allow us to remember what's in your shopping cart, recognize you when you return to our site, track your orders, and monitor and maintain information about your visits to our website. You may set your browser not to accept cookies or to notify you when you receive cookies, giving you the opportunity to decide whether to accept cookies. If you do not accept cookies however, you will not be able to access your account information or make purchases on our website.   
 
 
 **Third-Party Ads**  
@@ -67,7 +67,7 @@ Our website may contain links to websites owned by third parties. (See **[Terms 
 
 
 **Children's Privacy**  
-Our website is not intended for use by children and we do not knowingly collect personal information from children under the age of 13. The child?s parent or guardian should contact us if we have collect inadvertently information about that child so that we may delete such information from our files. (See **Contact Us**.)  
+Our website is not intended for use by children and we do not knowingly collect personal information from children under the age of 13. The child's parent or guardian should contact us if we have collect inadvertently information about that child so that we may delete such information from our files. (See **Contact Us**.)  
 
 
 **Policy Changes**  
