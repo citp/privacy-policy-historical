@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carrabbas.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214041202id_/http%3A//www.carrabbas.com/Carrabbas-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrabbas.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520221306id_/http%3A//carrabbas.com/Carrabbas-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Carrabba's Italian Grill - Privacy Policy
 
