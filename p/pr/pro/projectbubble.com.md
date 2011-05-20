@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectbubble.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125182607id_/http%3A//projectbubble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectbubble.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520151715id_/http%3A//projectbubble.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -13,14 +13,6 @@ We may collect the following information from you:
   * Your full name and email address
   * Demographic information such as postcode, preferences and interests
   * Other information relevant to customer surveys and/or offers
-
-
-
-We may also collect the following information:
-
-  * Data relating to the projects and tasks that you upload to the system
-  * Data relating to the clients and contacts that you upload to the system
-  * Data relating to the invoices that you upload to the system
 
 
 
