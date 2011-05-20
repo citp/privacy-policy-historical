@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interpunk.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219052944id_/http%3A//interpunk.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpunk.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520082748id_/http%3A//interpunk.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Interpunk.com - The Ultimate Punk Music Store!
 
@@ -82,9 +82,9 @@ This policy was last modified on 8/26/2009
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 www.interpunk.com  
-23750 Pebble Run Pl, Suite 100  
-Sterling, VA 20166  
+7516 Whitepine Rd  
+Richmond, VA 23237  
 United States  
 service@interpunk.com  
-(703) 996-1170  
+(877) 786-5725  
 
