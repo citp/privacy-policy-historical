@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smasharticles.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120094109id_/http%3A//www.smasharticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smasharticles.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520220854id_/http%3A//www.smasharticles.com/privacy.php) for the most accurate reproduction.*
 
 # Smash Articles
 
