@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ragial.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130014550id_/http%3A//ragial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragial.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520160327id_/http%3A//ragial.com/privacy) for the most accurate reproduction.*
 
 # Ragial - Privacy Policy
+
+## Ragial.com Privacy Policy
 
 To aid in protecting your privacy as you see fit, we provide this statement explaining our information practices and how they affect you. 
 
