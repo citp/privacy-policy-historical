@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabdiscover.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120013602id_/http%3A//www.tabdiscover.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabdiscover.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520235131id_/http%3A//tabdiscover.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
 
 # TabDiscover - Privacy Policy
 
