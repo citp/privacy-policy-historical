@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120025917id_/http%3A//www2.gre.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gre.ac.uk privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225420id_/http%3A//www2.gre.ac.uk/privacy) for the most accurate reproduction.*
 
-# Privacy - University of Greenwich
+# Privacy - University of Greenwich - University of Greenwich
 
 The University of Greenwich web pages may in some instances contain personal data. Personal data may include names, contact details, and sometimes photographs. Personal data of students or any person who is not a member of staff at the university will not be placed on the externally facing website without permission. The university aims to ensure that all personal data which is held on the website is kept accurately and up-to-date.
 
