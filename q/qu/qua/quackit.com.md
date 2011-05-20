@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quackit.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218084510id_/http%3A//www.quackit.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quackit.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520100007id_/http%3A//www.quackit.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy for Quackit.com
 
-[](https://web.archive.org/web/20101218084510id_/http%3A//www.quackit.com/privacy_policy.cfm?pageView=Print)
+[](https://web.archive.org/web/20110520100007id_/http%3A//www.quackit.com/privacy_policy.cfm?pageView=Print)
 
 As a visitor to Quackit.com, your privacy is important to us.
 
