@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the egress.com privacy policy that was archived on 2010-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100427045519id_/http%3A//www.egress.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egress.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520033921id_/http%3A//www.egress.com/privacy-statement) for the most accurate reproduction.*
 
-# Egress Switch | Privacy Statement
+# Privacy Statement | Egress Switch
 
 This policy sets out the basis on which the personal data collected from you, or that you provide to us will be processed by us. 
 
