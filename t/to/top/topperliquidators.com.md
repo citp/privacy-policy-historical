@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topperliquidators.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119021544id_/http%3A//www.topperliquidators.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topperliquidators.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520211415id_/http%3A//www.topperliquidators.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Topper Liquidators - Merchandise Liquidators, Overstock Liquidations, Wholesale Sunglasses, Surplus Liquidator, Discount Wholesale Wedding Gowns, Liquidation Services
 
