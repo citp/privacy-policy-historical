@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happili.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124154000id_/http%3A//happili.com/inner.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happili.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520034346id_/http%3A//www.happili.com/inner.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Happili
 
