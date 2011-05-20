@@ -1,18 +1,10 @@
-> *The following text is extracted and transformed from the textbookx.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119160503id_/http%3A//textbookx.com/service/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textbookx.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520144923id_/http%3A//textbookx.com/service/privacy.php) for the most accurate reproduction.*
 
-# Textbookx.com - Buy and Sell New and Used College Textbooks
+# Textbookx.com: Buy and Sell New and Used College Textbooks
 
 |  |   
 ---|---  
   
-[ ](http://www.truste.org/ivalidate.php?url=www.textbookx.com&sealid=101)
-
-TextbookX.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for TextbookX.com. This privacy statement has an effective date of July 18, 2006. 
-
-TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we at TextbookX.com wish to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. 
-
-**If you feel that this company is not abiding by its posted privacy policy, you should first email your comments to[us](https://web.archive.org/web/20101119160503id_/http%3A//textbookx.com/emailus.php). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with the Web site to resolve your concerns. **
-
 Here are some steps we have taken to ensure your privacy: 
 
 ## Information Collection and Use 
@@ -71,7 +63,7 @@ This website takes every precaution to protect our users' information. When user
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment. 
 
-If you have any questions about the security at our website, you can send an [e-mail.](https://web.archive.org/web/20101119160503id_/http%3A//textbookx.com/emailus.php)
+If you have any questions about the security at our website, you can send an [e-mail.](https://web.archive.org/web/20110520144923id_/http%3A//textbookx.com/emailus.php)
 
 ## Administrative Type Emails
 
@@ -79,7 +71,7 @@ We also send the user administrative type email communications. Members are not 
 
 ## Correction/Updating Personal Information: 
 
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by clicking the "Your Account" link on any page on the website and making the desired changes, or by visiting our Customer Service Center. 
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by clicking the "Your Account" link on any page on the website and making the desired changes, or by visiting our [Customer Service Center](http://www.textbookx.com/service/contact.php "Questions? Problems? Get them answered here."). 
 
 ## Choice/Opt-out 
 
@@ -98,8 +90,8 @@ We have contracted with Overture services, Inc. Overture and DealTime, Inc. to m
 If we decide to change our privacy policy, we will prominently post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and the circumstances, if any, under which we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
 Akademos, Inc.  
-25 Van Zant Street  
-Norwalk, CT 06855  
+200 Connecticut Avenue  
+Norwalk, CT 06854  
 Fax: 203 866 0199 
 
 **top**
