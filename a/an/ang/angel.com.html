@@ -1,185 +1,267 @@
-<!--The following is the downloaded HTML source of the angel.com privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224080654id_/http%3A//www.angel.com/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the angel.com privacy policy that was archived on 2011-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520230720id_/http%3A//www.angel.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Angel.com - Privacy Policy</title>
-<meta name="description" content="Angel.com IVR solutions, deployment in days, not weeks. Featuring inbound IVR, outbound IVR, call center solutions, call center add ons, and IVR educational information at Angel.com’s IVR University">
-<meta name="keywords" content="IVR inbound IVR outbound IVR call center solutions IVR industry hosted IVR on demand IVR IVR university">
-<meta name="ROBOTS" content="NOYDIR, NOODP">
-<meta name="Slurp" content="NOYDIR">
-<meta name="GOOGLEBOT" content="INDEX, FOLLOW">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="/css/angel.css" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="/css/lightbox.css" type="text/css" media="screen">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>Privacy Policy | Angel.com</title>
+    <meta name="description" content="Angel's Privacy Policy">
+    <meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+    <link rel="stylesheet" type="text/css" href="/css/style.css">
+	<!-- include jQuery library -->
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery.min.js"></script>
+	<!-- include Cycle plugin -->
+	<script type="text/javascript" src="/scripts/jquery.cycle.all.latest.js"></script>
+	<script type="text/javascript">
+		//<![CDATA[
+		
+		$(function() {
+	var zIndexNumber = 1000;
+	$('div').each(function() {
+		$(this).css('zIndex', zIndexNumber);
+		zIndexNumber -= 10;
+	});
+});
+		$(document).ready(function() {
+			
+			//Default Action
+			//Hide all content
+			$(".tab_content").hide();
+			//Activate first tab
+			$("ul.tabs li:first").addClass("active").show();
+			//Show first tab content
+			$(".tab_content:first").show(); 
+			
+			//On Click Event			
+			$("ul.tabs li").click(function() {
+					
+				//Remove any "active" class
+				$("ul.tabs li").removeClass("active");
+				//Add "active" class to selected tab
+				$(this).addClass("active");
+				//Hide all tab content
+				$(".tab_content").hide(); 
+				//Find the rel attribute value to identify the active tab + content
+				var activeTab = $(this).find("a").attr("href");
+				//Fade in the active content
+				$(activeTab).fadeIn(); 
+				
+				return false;
+			});
 
-<link rel="stylesheet" href="/css/d_basic.css" type="text/css">
-<script language="javascript" type="text/JavaScript" src="/js/MM.js"></script>
-<script language="javascript" type="text/javascript" src="/js/mm2scripts.js"></script> 
-<script language="javascript" type="text/javascript" src="/js/prototype.js"></script>
-<script language="javascript" type="text/javascript" src="/js/scriptaculous.js?load=effects"></script>
-<script language="javascript" type="text/javascript" src="/js/lightbox.js"></script>
+			// Create the slideshow and insert the left and right arrows and pager
+			$('.slideshow')
+			.after('<div class="nav_wrapper"><div class="nav"><a id="prev2" href="#"><img src="/img/billboard_arrow_left.png"></a></div><div id="pager"></div><div class="nav"><a id="next2" href="#"><img src="/img/billboard_arrow_right.png"></a></div></div>') 
+			.cycle({
+				fx: 'fade', 
+				timeout:8000, 
+				next:   '#next2', 
+				prev:   '#prev2',
+				pager:  '#pager' 
+			});
+			$('#pager a').html('&nbsp;');
+		});
+		//]]>
+	</script>
+</head>
 
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
-</head><body onload="P7_setMM2('none',1,3,'none','none');P7_trigMM2()">
+<body>
+    <div id="container" style="z-index: 1000;">
+        <div id="header" style="z-index: 990;">
+            <div id="branding" style="z-index: 980;">
+                <a href="/"><img src="/images/ivr-angel-logo.jpg" alt="IVR" width="180" height="113" border="0"></a>
 
+            </div>
 
-<div id="container">
+            <div id="header_right" style="z-index: 970;">
+                <div id="search" style="z-index: 960;">
+                    <form action="http://search.angel.com/cgi-bin/ss_query" method="get" name="fbsearch">
+	<input type="hidden" value="122499624" name="sitenbr">
+	<input type="hidden" value="Default" name="rgn">
+	<input type="hidden" value="php" name="e">
+	<input type="text" class="topnavsearch" name="keys">
+	<input class="submit_image" type="image" width="19" height="18" src="/images/search-call-center-site.gif">
+</form>                </div>
 
-<div id="top_nav">
-	  <ul>
-	    <li><a href="/search.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Search','','/images/nav_search_over.gif',1)"><img src="/images/nav_search.gif" alt="Search" name="Search" width="63" height="28" border="0" id="Search"></a></li><li><a href="/contact.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Contact','','/images/nav_contact_over.gif',1)"><img src="/images/nav_contact.gif" alt="Contact Us" name="Contact" width="71" height="28" border="0" id="Contact"></a></li><li><a href="/SubscriberEditor?command=forward&amp;key=loginPage" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Login','','/images/nav_customer_over.gif',1)"><img src="/images/nav_customer.gif" alt="Customer Login" name="Login" width="115" height="28" border="0" id="Login"></a></li>
-      </ul>
-</div> <!--end top_nav div !-->
-  
-    <div class="white"><a onmouseover="P7_trigMM2()"><img src="/images/spacer.gif" width="990" height="3" alt=""></a></div>
-	
-<div id="main_nav">
-		<ul>
-		<li><a onmouseover="P7_trigMM2()"><img src="/images/new_images/2010/new_1a.gif" alt=""></a></li><li><a href="/solutions/" onmouseover="P7_Snap('p7TBim10','p7TBsub10',-28,23,'p7TBim10','P7TabH',-40,23);P7_trigMM2('p7TBim10')"><img src="https://web.archive.org/images/new_images/2010/new_solutions.gif" alt="Solutions" name="p7TBim10" width="71" height="23" border="0" id="p7TBim10"></a></li><li><a href="/resource-center/ivr-university.jsp" onmouseover="P7_Snap('p7TBim20','p7TBsub20',-17,23,'p7TBim20','P7TabH',-40,23);P7_trigMM2('p7TBim20')"><img src="https://web.archive.org/images/new_images/2010/new_resource-center.gif" alt="Resource Center" name="p7TBim20" width="108" height="23" border="0" id="p7TBim20"></a></li><li><a href="/services/" onmouseover="P7_Snap('p7TBim30','p7TBsub30',-33,23,'p7TBim30','P7TabH',-40,23);P7_trigMM2('p7TBim30')"><img src="https://web.archive.org/images/new_images/2010/new_services.gif" alt="Services" name="p7TBim30" width="67" height="23" border="0" id="p7TBim30"></a></li><li><a href="/customers/" onmouseover="P7_trigMM2()"><img src="https://web.archive.org/images/new_images/2010/new_customers.gif" alt="Customers" name="p7TBim40" width="79" height="23" border="0" id="p7TBim40"></a></li><li><a href="/company/" onmouseover="P7_Snap('p7TBim60','p7TBsub60',-28,23,'p7TBim60','P7TabH',-40,23);P7_trigMM2('p7TBim60')"><img src="https://web.archive.org/images/new_images/2010/new_company.gif" alt="Company" name="p7TBim60" width="74" height="23" border="0" id="p7TBim60"></a></li><li><a onmouseover="P7_trigMM2()"><img src="/images/new_images/2010/new_1b.gif" width="28" height="23" alt=""></a></li></ul>	
-</div> <!-- end main_nav !-->
+                <div id="additional-nav" style="z-index: 950;">
+                    <a href="http://mktg.angel.com/ScheduleDemo.html">Schedule a Demo</a> | <a href="http://blogs.angel.com/blog/" target="_blank">IVR Blog</a> | <a href="/company/contact-us.php">Contact Us</a> | <a href="/login.php">Customer Login</a>                </div>
+            </div>
+        </div>
 
- <div id="sub_menu">		
-			<div id="p7TBsub10" class="p7tbsub" style="visibility: hidden"><ul class="p7tbul">
-			  <li><a href="/solutions/">Solutions Overview</a></li>
-			  <li><a href="/solutions/ivr-solutions.jsp">IVR Solutions</a></li>
-			  <li><a href="/solutions/virtual-call-center.jsp">Call Center Solutions</a></li>
-              <li><a href="/solutions/cfanalytics.jsp">Caller First Analytics</a></li>
-			  <li><a href="/solutions/crm-ivr-solutions.jsp">CRM / IVR Integrations</a></li>
-			  <li><a href="/solutions/how-it-works.jsp">How It Works</a></li>
-			  <li><a href="/solutions/solution-finder.jsp">Solutions For Your Business</a></li>
-              <li><a href="/mobile/index.jsp">Angel Mobile</a></li>
-			</ul>
-			</div>
-			<div id="p7TBsub20" class="p7tbsub" style="visibility: hidden"><ul class="p7tbul">
-			  <li><a href="/resource-center/ivr-university.jsp">IVR University</a></li>
-			  <li><a href="/resource-center/whitepaper-vs.jsp">White Papers</a></li>
-			  <li><a href="/resource-center/ivr-university.jsp#articles">Best Practice Articles</a></li>
-			  <li><a href="/resource-center/webinars.jsp">Webinars</a></li>
-			  <li><a href="http://blogs.angel.com/blog/" target="_blank">IVR Blog</a></li>
-  			  <!--<li><a href="/resource-center/newsletter.jsp">Newsletter</a></li>-->
-			</ul></div>
-			<div id="p7TBsub30" class="p7tbsub" style="visibility: hidden"><ul class="p7tbul">
-			  <li><a href="/services/">Services Overview</a></li>
-			  <li><a href="/services/support.jsp">Support</a></li>
-			  <li><a href="/services/custom-development.jsp">Custom Development</a></li>
-              <li><a href="/whitelabel/index.jsp">White Label Services</a></li>
-			</ul>
-   </div>
-			<!--<div id="p7TBsub40" class="p7tbsub" style="visibility: hidden"><ul class="p7tbul">
-			  <li><a href="/customers/">Customers Overview</a></li>
-			  <li><a href="/customers/customer-list.jsp">Customer List</a></li>
-		      <li><a href="/customers/success_stories.jsp">Success Stories </a></li>
-			  <li><a href="/customers/testimonials.jsp">Testimonials</a></li>
-			</ul>
-			</div>-->
-			<div id="p7TBsub60" class="p7tbsub" style="visibility: hidden"><ul class="p7tbul">
-			  <li><a href="/company/">Company Overview</a></li>
-			  <li><a href="/company/why-angel.jsp">Why Angel.com</a></li>
-			  <li><a href="/company/management-team.jsp">Management Team</a></li>
-			  <li><a href="/company/partners.jsp">Partners</a></li>
-			  <li><a href="/company/press.jsp">News &amp; Events</a></li>
-			  <li><a href="/company/careers.jsp">Careers</a></li>
-			</ul>
-			</div>
-			<div id="P7TabH" style="visibility: hidden;"><a href="#" onmouseover="P7_trigMM2()"><img src="/images/shim.gif" alt="" width="200" height="300" border="0"></a></div>
-</div> <!--flyouts!-->	
-  
-  
-<div><a href="/"><img src="/images/new_images/2010/new_logo.gif" alt="" width="207" height="92" border="0"></a><a onmouseover="P7_trigMM2()"><img src="/images/new_images/2010/ind_3a_2.gif" alt="angel.com" width="783" height="92" border="0"></a></div>
+        <div id="nav" style="z-index: 940;">
+            <div id="primary" style="z-index: 930;">
+                <ul>
+<li><a href="/products">PRODUCTS</a>
+	<ul>
+		<li class="first"><a href="/products">Customer Experience Platform</a></li>
+		<li><a href="/products/inbound-ivr.php">Inbound IVR</a></li>
+		<li><a href="/products/interactive-voice-response-outbound.php">Outbound IVR</a></li>
+		<li><a href="/products/virtual-call-center.php">Virtual Call Center</a></li>
+		<li><a href="/products/cfa.php">Caller First Analytics</a></li>
+        <li><a href="/products/voice-biometrics.php">Voice Biometrics</a></li>
+        <li><a href="/products/phone-payment.php">Payment Processing</a></li>
+        <!--<li><a href="/products/social-media.php">Angel Social Media</a></li>-->
+        <li><a href="/products/angel-mobile.php">Angel Mobile</a></li>
+        <li class="last"><a href="/products/additional-modules.php">Additional Modules</a></li>
+	</ul></li>
+<li><a href="/solutions">SOLUTIONS</a>
+	<ul>
+		<li class="first"><a href="/solutions">Overview</a></li>
+		<li><a href="/solutions/retail.php">Retail</a></li>
+		<li><a href="/solutions/pharmaceuticals.php">Pharmaceutical</a></li>
+        <li><a href="/solutions/energy-utilities.php">Energy &amp; Utilities</a></li>
+		<li><a href="/solutions/financial.php">Financial Services</a></li>
+		<li><a href="/solutions/media-entertainment.php">Media &amp; Entertainment</a></li>
+		<li><a href="/solutions/technology.php">High Technology</a></li>
+		<li><a href="/solutions/healthcare.php">Healthcare</a></li>
+		<li><a href="/solutions/telecommunications.php">Telecommunications</a></li>
+        <li class="last"><a href="/solutions/travel-hospitality.php">Travel and Hospitality</a></li>
+	</ul></li>
+<li><a href="/services">SERVICES</a>
+	<ul>
+		<li class="first"><a href="/services">Overview</a></li>
+		<li><a href="/services/professional-service-plans.php">Professional Services</a></li>
+		<li><a href="/services/support-services.php">Support Services</a></li>
+		<li><a href="/services/white-label-oem-services.php">White Label OEM Services</a></li>
+		<li class="last"><a href="/services/custom-voice-applications.php">Custom Development</a></li>
+	</ul></li>
+<li><a href="/resource-center">RESOURCE CENTER</a>
+	<ul>
+		<li class="first"><a href="/resource-center">Overview</a></li>
+		<li><a href="/resource-center/angel-library.php">Collateral</a></li>
+		<li><a href="/resource-center/whitepapers.php">Whitepapers</a></li>
+		<li><a href="/resource-center/voice-webinars-podcasts.php">Webinars</a></li>
+        <li><a href="/resource-center/demos.php">Demos</a></li>
+		<li class="last"><a href="/resource-center/call-center-glossary.php">Glossary</a></li>
+		<!--<li class="last"><a href="/resource-center/knowledge-base.php">Knowledge Base</a></li>-->
+	</ul></li>
+<li><a href="/customers">CUSTOMERS</a>
+	<ul>
+		<li class="first"><a href="/customers">Overview</a></li>
+		<li><a href="/customers/ivr-success-stories.php">Success Stories</a></li>
+		<li class="last"><a href="/customers/customer-success-program.php">Customer Success Program</a></li>
+	</ul></li>
+<li><a href="/company">COMPANY</a>
+	<ul>
+		<li class="first"><a href="/company">Overview</a></li>
+		<li><a href="/company/leadership.php">Leadership</a></li>
+		<li><a href="/company/ivr-call-center-news-events.php">News and Events</a></li>
+        <li><a href="/company/partners.php">Partners</a></li>
+		<li><a href="/company/analyst-relations.php">Analyst Relations</a></li>
+		<li><a href="/company/media-kit.php">Media Kit</a></li>
+		<li><a href="/company/awards.php">Awards</a></li>
+		<li class="last"><a href="/company/careers.php">Careers</a></li>
+	</ul></li>
+</ul>            </div>
 
-    <div></div>
+            <div id="nav-right" style="z-index: 920;">
+                <img src="/images/phone4.png" alt="888-692-6435 My Angel" width="251" height="46" "border="0">            </div>
+        </div>
 
-  <div id="main_body">
-  		<div id="subnav">
-		 <div id="subnav_top">
-		  <ul>
-		    <li><a href="/company/">Company Overview </a></li>
-	        <li><a href="/company/why-angel.jsp">Why Angel.com </a></li>
-	        <li><a href="/company/management-team.jsp">Management Team </a></li>
-		    <li><a href="/company/partners.jsp">Partners</a></li>
-		    <li><a href="/company/press.jsp">News &amp; Events </a><a href="/company/events.jsp"></a></li>
-	        <li><a href="/company/careers.jsp">Careers</a></li>
-	      </ul>
-	      <div id="bg_subnav"><a href="/contact.jsp"></a><a href="/freetrial.jsp"></a></div>
-		</div><!--end sub_nav top div!--> 
-	     <div id="bot_inner"><img src="/images/bo_next.gif" alt="Next Steps" width="175" height="24"><a href="/contact.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','/images/bo_contact-over.gif',1)"><img src="/images/bo_contact.gif" alt="Contact us" width="175" height="29" border="0" id="Image2"></a><a href="/contact.jsp"></a><a href="/angel-demo.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','/images/bo_schedule-over.gif',1)"><img src="/images/bo_schedule.gif" alt="view the demo" width="175" height="25" border="0" id="Image3"></a><a href="/schedule-demo.jsp"></a><a href="/solutions/solution-finder.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','/images/bo_solution-over.gif',1)"><img src="/images/bo_solution.gif" alt="solutions" width="175" height="24" border="0" id="Image4"></a><a href="/solutions/inbound-demos.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','/images/bo_demos-over.gif',1)"><img src="/images/bo_demos.gif" alt="Demos" width="175" height="23" border="0" id="Image6"></a><a href="/solutions/how-it-works.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','/images/bo_ss-over.gif',1)"><img src="/images/bo_ss.gif" alt="screenshots" width="174" height="36" border="0" id="Image7"></a></div> 
-<!--end bot_inner div !--> 		
-	</div><!--end subnav div !-->
-	<div id="inner_main">
-		<span class="breadcrumb"><a href="/">Home</a> &gt; Privacy Policy  </span>	
-		<h1>Privacy Policy  <img src="images/bg_h1.gif" alt="Solutions" width="137" height="7"></h1>
-	  <p>Angel.com provides interactive audio and speech content via the phone and the Internet (together, the "Service"). As a pioneer in the Voice Web industry, Angel.com uses unique personalization components and sophisticated database software to provide you with the best, easiest-to-use Voice Web service available. Because our technology represents the world's first platform for the instant creation and deployment of interactive audio and speech content, we are sensitive to the private nature of the information you provide to us over the Internet and the phone. Our Privacy Policy is designed to maximize your ability to protect your personal, private data while at the same time giving you the opportunity to share and obtain interesting and useful information. This Privacy Policy describes how we treat information received about you when you visit our Service. Please read the Privacy Policy carefully.</p>
+        <div id="content" style="z-index: 910;">
+            <div id="content-top-wide" style="z-index: 900;">
+                <div id="breadcrumbs" style="z-index: 890;">
+                    <a href="/" title="IVR">Home</a> &gt; Privacy Policy
+                </div>
+            </div>
+
+            <div id="content-inner-wide" style="z-index: 880;">
+                <div id="contentcontainer-wide" style="z-index: 870;">
+
+		<h1>Privacy Policy</h1>
+	  <p>Angel provides interactive audio and speech content via the phone and the Internet (together, the "Service"). As a pioneer in the Voice Web industry, Angel uses unique personalization components and sophisticated database software to provide you with the best, easiest-to-use Voice Web service available. Because our technology represents the world's first platform for the instant creation and deployment of interactive audio and speech content, we are sensitive to the private nature of the information you provide to us over the Internet and the phone. Our Privacy Policy is designed to maximize your ability to protect your personal, private data while at the same time giving you the opportunity to share and obtain interesting and useful information. This Privacy Policy describes how we treat information received about you when you visit our Service. Please read the Privacy Policy carefully.</p>
 	  <p><strong>Information We Collect</strong><br>
 	    General. When you register as a user of the Service (each, a "User") and at other times, we will collect personally identifiable information from you. The personally identifiable information we collect includes limited personal data such as name, address, phone number and email address. However, we do not knowingly collect personal information from children under the age of thirteen.</p>
-	  <p>Interactive Content. Because Angel.com is an interactive service, other Users may set up order forms, surveys, polls or other mechanisms through which you can be asked to provide certain information. These features are entirely voluntary. If you do not wish to participate, you may hang up at any time. Angel.com is not responsible for the disclosure or use of any information collected by other Users through the Service; other Users may not be subject to the Angel.com privacy policy.</p>
+
+	  <p>Interactive Content. Because Angel is an interactive service, other Users may set up order forms, surveys, polls or other mechanisms through which you can be asked to provide certain information. These features are entirely voluntary. If you do not wish to participate, you may hang up at any time. Angel is not responsible for the disclosure or use of any information collected by other Users through the Service; other Users may not be subject to the Angel privacy policy.</p>
 	  <p>Usage Information. Our web and phone servers automatically collect usage information when you visit our Service. Website usage information is information about our visitors (unregistered users of the Service) and Users that describes how our Service is used and navigated, including the number and frequency of visitors and Users to each web page and the length of their stays. Website usage information also includes the domain names and/or corresponding IP addresses (a numerical identifier for a computer on the Internet) of those who visit our website. Finally, phone usage information may include caller ID results depending on your local phone company's ability to transmit that information. To disable caller ID transmissions, please contact your local phone company.</p>
 	  <p><strong>Security</strong><br>
       The personally identifiable information we collect about you is stored in limited access servers. We will maintain appropriate safeguards to protect the security, integrity, and privacy of these servers and of your personally identifiable information. Except as described below, we will not use or intentionally disclose any personally identifiable information about you to any unaffiliated third parties without your consent.</p>
 	  <p><strong>How We Use Information Collected</strong><br>
 	    We may combine the personally identifiable information we collect from you when you use the Service with other information about you that is available to us, including survey information, affiliate and third-party website usage information and information from other sources. We may use such information in several ways, including:</p>
-	 <div class="inner">
+
+	 <div class="inner" style="z-index: 860;">
 	  <ul>
 	    <li> To enable us to process and verify purchases, to provide you with the goods and services you have requested, and for the purposes disclosed when you provide the personally identifiable information.</li>
         <li> To send Users email notifications of new Service features and topic-based news alerts if they have signed up for these announcements.<br>
           </li>
 	    <li> To provide you with personalized content.<br>
+
           </li>
-	    <li>To give Angel.com editors information that is useful for developing new features and services that meet Users' needs.<br>
+	    <li>To give Angel editors information that is useful for developing new features and services that meet Users' needs.<br>
           </li>
 	    <li> To improve the content and navigation on our Service.<br>
           </li>
 	    <li> To alert you about new products and services and special offers. </li>
+
 	  </ul>
-	  <p>We may also share such information with our affiliates and other third parties to provide you with goods or services requested by you. However, any party that receives your information for this purpose will be prohibited from using it for any means other than those necessary to facilitate your transaction with Angel.com unless you agree that the party may make other uses of your information.</p>
-	  <p>Finally, we may also use personally identifiable information to enforce our Terms and Conditions of Use or share such information with i) the issuer of a criminal or civil subpoena; ii) governmental authorities when legally required to do so; or iii) governmental authorities investigating a crime. We reserve the right to contact you at any time regarding Service- related problems or questions as well as changes to our <a href="/terms-conditions.jsp">Terms and Conditions</a> of Use, our Privacy Policy, or other policies that affect you and your use of our Service.</p>
+	  <p>We may also share such information with our affiliates and other third parties to provide you with goods or services requested by you. However, any party that receives your information for this purpose will be prohibited from using it for any means other than those necessary to facilitate your transaction with Angel unless you agree that the party may make other uses of your information.</p>
+	  <p>Finally, we may also use personally identifiable information to enforce our Terms and Conditions of Use or share such information with i) the issuer of a criminal or civil subpoena; ii) governmental authorities when legally required to do so; or iii) governmental authorities investigating a crime. We reserve the right to contact you at any time regarding Service- related problems or questions as well as changes to our <a href="terms-conditions.php">Terms and Conditions</a> of Use, our Privacy Policy, or other policies that affect you and your use of our Service.</p>
 	  <p><strong>Your Ability to Opt Out or Opt In</strong><br>
-	    Opt Out. You can notify us that you do not wish to receive information about new products and services and special offers by opting out at the time you enter your personally identifiable information on the Angel.com website or by emailing us at <a href="mailto:info@angel.com">info@angel.com</a>.</p>
+	    Opt Out. You can notify us that you do not wish to receive information about new products and services and special offers by opting out at the time you enter your personally identifiable information on the Angel website or by emailing us at <a href="mailto:info@angel.com">info@angel.com</a>.</p>
+
 	  <p>Opt In. Several of the services we provide, including many of the email notifications and the surveys we conduct, are entirely voluntary. You will not receive such services unless you opt in, i.e., unless you expressly choose to receive these services.</p>
 	  <p><strong>Cookies</strong><br>
-	    We employ cookie technology to help visitors and Users move faster through the website portion of the Service. When a visitor or User accesses the Angel.com website and takes advantage of certain features, we place several cookies on that User's computer. A cookie is a string of information sent by a website and stored on your hard drive or temporarily in your computer's memory. This allows the website to recognize you as you move through the website without having to keep asking you for your username and password. We also employ cookie technology to store usernames and passwords to make the login process easier and faster.</p>
+	    We employ cookie technology to help visitors and Users move faster through the website portion of the Service. When a visitor or User accesses the Angel website and takes advantage of certain features, we place several cookies on that User's computer. A cookie is a string of information sent by a website and stored on your hard drive or temporarily in your computer's memory. This allows the website to recognize you as you move through the website without having to keep asking you for your username and password. We also employ cookie technology to store usernames and passwords to make the login process easier and faster.</p>
 	  <p><strong>Review and Correction</strong><br>
 	    You may review and update the personal information you provide us with as part of the registration process, or unsubscribe from the Service, by accessing your Profile at <a href="http://www.angel.com" target="_blank">http://www.angel.com</a>.</p>
+
 	  <p><strong>Links</strong><br>
 	    We may make content from affiliated or other third party resources, including other websites, available to you from links located on the Service. These resources are not subject to our Privacy Policy, and may have their own individual privacy policy. We recommend that you review the privacy policy at each such resource to determine how it protects your privacy.</p>
 	  <p><strong>Policy Modifications</strong><br>
 	    We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically.</p>
 	  <p><strong>Comments and Questions</strong><br>
 	    If you have any questions, comments or concerns about our Privacy Policy, please email us at <a href="mailto:info@angel.com">info@angel.com</a>.</p>
+
 	  <p><em>This policy was last updated on Jan 17, 2003.</em></p></div>
-	 </div> 
-	 <!---end inner_main !-->
-	
-  </div> <!--end main_body div !-->
-  
-  <div id="tagline_bottom">
-    <div> <img src="/images/foot_tagline.gif" alt="1,600+ Customers, 20+ Industries, 10,000+ Telephony Solutions"></div>
-  </div>
-</div> <!--end container div !-->
-
-  <div id="footer"><a href="/customers/index.jsp" class="footer_png2"><span class="hidetext">Our Customers</span></a>
-  <ul>
-    <li><a href="/solutions/">solutions</a>  | <a href="/resource-center/ivr-university.jsp">resource center</a> | <a href="/services/">services</a>  |  <a href="/customers/">customers</a> |  <a href="/company/">company</a> | <a href="/contact.jsp">contact us</a>  |  <a href="http://www.angel.com/SubscriberEditor?command=forward&amp;key=loginPage">customer login</a>  |  <a href="/company/careers.jsp">careers</a>  |  <a href="/resource-center/newsletter.jsp">newsletter</a>  |  <a href="http://blogs.angel.com/blog/" target="_blank">IVR blog</a></li>
-    <li>Copyright © 2010 Angel.com.  All Rights Reserved.  Putting the Caller First<sup>SM</sup> with every call.</li>
-    <li><a href="/privacy-policy.jsp">privacy policy</a>  |  <a href="/terms-conditions.jsp">terms &amp; conditions</a>  |  <a href="/sitemap.jsp">site map</a></li>
-</ul></div> 
-  <!--end footer div !-->
 
 
 
+                </div><!-- contentcontainer-wide -->
+            </div><!-- content-inner-wide -->
+        </div><!-- content -->
 
+        <div id="footer" style="z-index: 850;">
+            <!--Google Analytics-->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-32045-1");
-pageTracker._initData();
-pageTracker._trackPageview();
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32045-1']);
+  _gaq.push(['_setDomainName', '.angel.com']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
 </script>
 
+<!--Marketo-->
 <script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
 <script>mktoMunchkin("916-KFE-881");</script>
 
+<div style="z-index: 840;">
+	<a href="/solutions">solutions</a> |
+	 <a href="/resource-center">resource center</a> |
+	 <a href="/services">services</a> |
+	 <a href="/customers">customers</a> |
+	 <a href="/company">company</a> |
+	 <a href="/company/contact-us.php">contact us</a> |
+	 <a href="/login.php">customer login</a> |
+	 <a href="/company/careers.php">careers</a> |
+	 <!-- <a href="/customers/newsletters.php">newsletter</a> | -->
+	 <a href="http://blogs.angel.com/blog/" target="_blank">IVR blog</a></div>
+
+<div style="z-index: 830;">8219 Leesburg Pike | 5th Floor | Vienna VA 22182 | +1 888-692-6435 (My Angel)</div>
+
+<div style="z-index: 820;">Copyright © 2011 <a href="http://www.angel.com/">Angel</a>. All Rights Reserved. Putting the Caller First<sup>SM</sup> with every call.</div>
+
+<div style="z-index: 810;"><a href="/privacy-policy.php">privacy policy</a> |
+	 <a href="/terms-conditions.php">terms &amp; conditions</a> |
+	 <a href="/sitemap.php">site map</a></div>
+     
+             </div>
+    </div>
 
 
- </body></html>
+</body></html>
