@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegame.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207115941id_/http%3A//wegame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegame.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520224649id_/http%3A//www.wegame.com/privacy) for the most accurate reproduction.*
 
 # WeGame - Privacy Policy
 
