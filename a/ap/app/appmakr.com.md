@@ -1,41 +1,82 @@
-> *The following text is extracted and transformed from the appmakr.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117132141id_/http%3A//www.appmakr.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appmakr.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520150056id_/http%3A//appmakr.com/privacy_policy) for the most accurate reproduction.*
 
 # AppMakr :: Publish your own iPhone apps for free!
 
 ## Our Privacy Policy
 
-**We Respect Your Privacy.**
+  
 
-AppMakr.com is a service provided by [PointAbout, Inc.](http://www.pointabout.com/)
 
-The information we collect is used to improve the content of our web pages and the quality of our AppMakr.com service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances: 1) It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](https://web.archive.org/terms_of_service/), or as otherwise required by law. 2) We transfer information about you if PointAbout is acquired by or merged with another company. 
+### 1\. Introduction
 
-**Information Gathering and Usage:**
+AppMakr.com is an online platform (“Platform”, “Service") provided by PointAbout, Inc. (“PointAbout”, “us”, “we”) that enables users (“App Creators”, “customers”, “you”) to create mobile applications (“Apps”) for other users (“End-user”, “users”). We collect and use personal information to operate our services so we take online privacy very seriously. The following document details our privacy policy; please read this very carefully. 
 
-When you register for AppMakr.com we may ask for information such as your name, email address, billing address, credit card information. PointAbout uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research. 
+### 2\. What information is collected and how is it used?
 
-AppMakr.com is a web service that facilitates the creation of mobile applications. PointAbout does not take responsibility for content created by Users of the Service. PointAbout makes clear in AppMakr.com's [Terms of Service](https://web.archive.org/terms_of_service/) that Users are responsible for the content utilized by them in the Service. If you feel your privacy has been violated by content from a mobile application created through the AppMakr service, please contact that User directly. 
+We may ask for personal information such as your name, email address, credit card information if you’re making payments for services, or use identification data such as cookies or location data. 
 
 **Cookies:**
 
-A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. 
+A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a web server and stored on your computer's hard drive. Cookies are required to use the Platform to improve your overall user experience. We use cookies to record current session information. You may be required to log back in to your account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. 
 
-Cookies are required to use the AppMakr.com service. 
+**Location:**
 
-We use cookies to record current session information. You may be required to log back in to your AppMakr account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. 
+All mobile phones have ability to share location data however we will only collect such information when you proactively decide to reveal that information. AppMakr uses the location information from your phone to tailor the mobile experience to your current location. 
 
-**Data Storage:**
+### Aggregated Usage Statistics:
 
-PointAbout uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run PointAbout. Although PointAbout owns the code, databases, and all rights to the PointAbout application, you retain all rights to your data. 
+AppMakr may collect statistics about the user behavior of the Platform or Apps. AppMakr uses information collected for the following—though not limited to—general purposes: products and services provisioning and assessment for future service improvements. 
 
-**Disclosure:**
+**Personal Information:**
 
-PointAbout may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service. 
+Any personal information you volunteer during the profile creation and user registration process may be collected and stored, certain information may be necessary to use certain Apps features. 
+
+**User Generated Content:**
+
+App Creators own their content submitted when making Apps using the Platform; end-users own the content they share on Apps. We do not take legal responsibility for content created or shared by users. You own all of the content and information. In addition for content that is covered by intellectual property rights, like photos and videos, you agree and understand we are given a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use any intellectual property content that you submit or share with the Platform or Apps. No asset shall be assumed as public domain and free to use notwithstanding the current status of any attached license agreements. For assets to be labeled as public domain and free to use, it requires a license explicitly stating as such. App Creators’ use of a license of assets does not affect AppMakr’s right to access the asset and use it in connection with the Platform or otherwise in connection with our business. 
+
+### 3\. What information is shared?
+
+**Between End-users, App Creators, and Us:**
+
+Besides information collected and detailed in this Privacy Policy we may also allow App Creators to communicate with End-users. 
+
+**Between End-user to End-user:**
+
+This Privacy Policy does not apply to any information volunteered by an End-user in the use of our Apps or Platform, insofar as it may be shared between End-user to End-user. If you do not wish this information to be shared then do not volunteer content. 
+
+**Between End-user and third-parties:**
+
+Advertising platforms may collect information regarding you via cookies during your use of Apps to provide targeted advertising that is relevant to you specifically. AppMakr may under special circumstances release information gathered, such as to comply with subpoenas or to rectify actions which violates our Terms of Service. 
+
+### 4\. How information gathered may be used?
+
+Information we collect may be used to improve the quality of our Platform and Apps. We may also use information gathered for placement of targeted advertisements. Our goal is to deliver ads that are mutually beneficial to advertisers, App Creators, and End-users alike. 
+
+### 5\. How to change or remove information?
+
+You may change the information stored on the Platform or Apps by editing or deleting that information. You may also remove content you share or delete your account. If your content has been shared prior to it’s deletion, we are not responsible for that content. 
+
+### 6\. General Terms
+
+AppMakr’s Terms of Service states all users are responsible for the content utilized by them on the Platform. 
+
+**Continuity of Service:**
+
+We will transfer information about you if AppMakr is acquired by or merged with another company. 
+
+**Opt-out:**
+
+If we ever send you communication by e-mail concerning new products, services or information that you did not expressly request, we will provide means by which you may request no further notices. 
+
+### 7\. Questions or Feedback
+
+Any questions about this Privacy Policy should be addressed to legal@AppMakr.com.
+
+Feedback or suggestions are welcome and should be addressed to feedback@AppMakr.com. 
+
+While we are appreciative of your feedback or suggestions about AppMakr.com we are not under obligation to use said feedback or compensate you if we do. 
 
 **Changes:**
 
-PointAbout may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your PointAbout primary account holder account or by placing a prominent notice on our site.
-
-**Questions:**
-
-Any questions about this Privacy Policy should be addressed to [legal@AppMakr.com](mailto:legal@AppMakr.com)
+AppMakr may periodically update this policy at our discretion, though most changes are likely to be minor. We will notify you about significant changes in the way we treat personal information by sending a notice to your valid e-mail address or by placing a prominent notice on our site. Last updated 11/23/10 
