@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reserveamerica.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622142145id_/http%3A//www.reserveamerica.com/marketing.do%3FtopTabIndex%3D-1%26goto%3D/marketingHTML/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reserveamerica.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520075242id_/http%3A//www.reserveamerica.com/marketing.do%3FtopTabIndex%3D-1%26goto%3D/marketingHTML/privacy.html) for the most accurate reproduction.*
 
-# About Us - ReserveAmerica
+# 
 
 | PRIVACY POLICY
 
