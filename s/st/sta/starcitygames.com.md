@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starcitygames.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120111725id_/http%3A//sales.starcitygames.com/FAQ.php%3FID%3D90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcitygames.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225108id_/http%3A//sales.starcitygames.com/FAQ.php%3FID%3D90) for the most accurate reproduction.*
 
 # Where can I view StarCityGames.com's Privacy Statement?
 
@@ -82,6 +82,6 @@ Fax: (540) 265-0544
 
 [Refund/Return Policy](http://sales.starcitygames.com/FAQ.php?ID=39) \- [Privacy Statement](http://sales.starcitygames.com/FAQ.php?ID=90) \- [Terms and Conditions](http://sales.starcitygames.com/FAQ.php?ID=91)
 
-All content on this page (c) 2009 StarCityGames and may not be reproduced whole [without consent](https://sales.starcitygames.com/contactus/contactform.php?emailid=9). 
+All content on this page (c) 2011 StarCityGames and may not be reproduced whole [without consent](https://sales.starcitygames.com/contactus/contactform.php?emailid=9). 
 
 Magic the Gathering is TM and copyright Wizards of the Coast, Inc, a subsidiary of Hasbro, Inc. All rights reserved. 
