@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philau.edu privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127205827id_/http%3A//philau.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philau.edu privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520091934id_/http%3A//www.philau.edu/about/privacy.html) for the most accurate reproduction.*
 
 # Philadelphia University's Mission Statement
 
