@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webbyplanet.com privacy policy that was archived on 2010-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119143052id_/http%3A//www.webbyplanet.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webbyplanet.com privacy policy that was archived on 2011-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521000051id_/http%3A//www.webbyplanet.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -14,6 +14,11 @@ function send_search() {
   if(f.search_terms.value=="")return;
   f.action="/search/terms/"+f.search_terms.value+"/";
   f.submit();}
+
+function addBookmark(title,url){
+  if(window.sidebar){window.sidebar.addPanel(title,url,"");} // Firefox
+  else if(document.all){window.external.AddFavorite(url,title);} // iExplorer
+  else if(window.opera && window.print){return true;}} // Opera
 //-->
 </script>
 
@@ -32,33 +37,33 @@ function send_search() {
 </script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
 <!-- END: analytics -->
 </head>
-
 <body>
 <div id="content">
    <div id="header">
-      <a href="http://www.webbyplanet.com/" title="Free Online Coupons"><img src="/img/logo.png" width="140" height="124" alt="Discount Coupon Codes and Shopping Deals at WebbyPlanet" name="logo" border="0" id="logo"></a>
-      <div id="top_title">
-         <ul><li><h1></h1></li></ul>
-      </div>
+      <a href="http://www.webbyplanet.com/" title="Free Online Coupons"><img src="/img/logo.png" width="363" height="94" alt="Discount Coupon Codes and Shopping Deals at WebbyPlanet" name="logo" border="0" id="logo"></a>
+
+            <div id="top_title"><b><h1 style="margin-top:-10px"></h1></b></div>
+
       <div id="newsletter">
-        <form action="http://www.webbyplanet.com/search/google/" id="cse-search-box">
-          <div>
-            <input type="hidden" name="cx" value="partner-pub-7290888409712084:at5ux7-hm85">
-            <input type="hidden" name="cof" value="FORID:10">
-            <input type="hidden" name="ie" value="ISO-8859-1">
-            <input type="text" name="q" size="31">
-            <input type="image" src="/img/btn-search-results.png" style="vertical-align: middle" onclick="send_search();">
-          </div>
-        </form>
-        <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+      <form action="http://www.webbyplanet.com/search/google/" id="cse-search-box">
+        <div>
+          <input type="hidden" name="cx" value="partner-pub-7290888409712084:at5ux7-hm85">
+          <input type="hidden" name="cof" value="FORID:10">
+          <input type="hidden" name="ie" value="ISO-8859-1">
+          <input type="text" name="q" size="24">
+          <input type="image" width="97" height="34" src="/img/btn-search-results.png" onclick="send_search();">
+        </div>
+      </form>
+      <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
       </div>
+
       <ul id="menu">
-         <li><a href="http://www.webbyplanet.com/" title="Free Coupons Codes">Home</a></li>
+         <li><a href="http://www.webbyplanet.com/" title="Free Coupons Codes">New daily discounts</a></li>
          <li><a href="/new-coupons-code/0/" title="New Coupons, see all stores at webbyplanet over 20000 stores">New coupons</a></li>
          <li><a href="/expiring-deals/" title="See all Expiring coupon code &amp; Discount deals">Expiring deals</a></li>
          <li><a href="/alphabetized.html" title="All Stores at webbyplanet">All stores</a></li>
-         <li><a href="http://twitter.com/webbyplanet" title="Follow me on twitter" rel="nofollow">Follow</a></li>
-         <li><img src="/img/twitter-coupon.png" width="32" height="32" alt="follow on twitter"></li>
       </ul>
    </div>
    <div id="body" class="clearfix">
@@ -151,8 +156,8 @@ function send_search() {
        <li><a href="/about-coupon/" title="About Coupon">About Coupon</a></li>
        <li><a href="/faq/" title="F.a.q">F.a.q</a></li>
        <li><a href="/privacy/" title="Privacy">Privacy</a></li>
-       <li><a href="http://www.webbyplanet.com/coupons/australia/" title="australia shopping Coupons">Australia Coupons</a></li>
-       <li><a href="http://www.webbyplanet.com/alphabetized_uk.html" title="Voucher &amp; coupon Uk stores">UK Vouchers</a></li>
+       <li><a>Australia Coupons</a></li>
+       <li><a>UK Vouchers</a></li>
        <li><a href="/link-to-us/" title="Link to us">Link to us</a></li>
        <li class="last"><a href="/sitemap.html" title="Sitemap">Sitemap</a></li>     </ul>
         
