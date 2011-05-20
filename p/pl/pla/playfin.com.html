@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the playfin.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228141112id_/http%3A//www.playfin.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playfin.com privacy policy that was archived on 2011-05-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520214028id_/http%3A//www.playfin.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=" utf-8"="">
@@ -9,9 +9,8 @@
             <meta name="keywords" content="free online games, online games, games online, free games, downloadable games, internet games, puzzle games, card games, solitaire">
         	<title>Playfin.com - Thousands of free online games for PC and Mac!</title>
                 
-        <script type="text/javascript" src="/theme/Smarty/playfin/lib/jquery/jquery-1.3.2.js"></script>
-        <script type="text/javascript" src="/theme/Smarty/playfin/lib/easySlider1.7.js"></script>
-        <script type="text/javascript" src="/theme/Smarty/playfin/lib/facebooklogin.js"></script>
+        <script type="text/javascript" src="/theme/Smarty/playfin/lib/jquery/jquery-1.3.2.min.js"></script>
+        <script type="text/javascript" src="/theme/Smarty/playfin/lib/facebooklogin_compact.js"></script>
         <script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
         <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
 
@@ -30,45 +29,7 @@
         		 
 				
 		
-                    <link rel="alternate" type="application/rss+xml" title="Privacy Policy - Playfin.com" href="/rss.php">
-                <script type="text/javascript">
-		function amAddReview(element, info) {
-			new Ajax.Request('./includes/rategame.php?gamekey=', {evalScripts:true, method:'get', identity: '', parameters: info});
-			return false;
-		}
-	</script>
-	<script type="text/javascript">
-		function fullScreen() {
-			var myWidth = 0, myHeight = 0;
-			if( typeof( window.innerWidth ) == 'number' ) {
-			    myWidth = window.innerWidth;
-			    myHeight = window.innerHeight;
-			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
-			    myWidth = document.documentElement.clientWidth;
-			    myHeight = document.documentElement.clientHeight;
-			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
-				myWidth = document.body.clientWidth;
-				myHeight = document.body.clientHeight;
-			}
-			var url="/playgame.php?getgame=&width=" + myWidth + "&height=" + myHeight;
-			self.location.href=url
-		}
-	</script>
-	<!-- End 2.7 Specific Code -->  
 	
-	<style type="text/css">
-		#login {
-		height: 300px;
-		width: 300px;
-		}
-	
-		#user {
-		border-top:1px solid;
-		clear:both;
-		margin-top:50px;
-		padding:10px;
-		}
-	</style>
 	<script type="text/javascript">
 	function moveToAccount() {
 		$.post("http://www.playfin.com/forum/ucp.php?mode=login", {'login':'Go!', 'login-username':'', 'username':'', 'login-password':'', 'password':'', 'redirect':'/account/', 'external_login':1, 'asfsagrg4':'d76fghhjd'}, function(result){
@@ -84,21 +45,19 @@
 	
 	
 			
-		                		<link rel="stylesheet" href="/blog/wp-content/plugins/slidedeck/skins/ribbons/skin.css" type="text/css" media="screen">
+		
+        		<link rel="stylesheet" href="/blog/wp-content/plugins/slidedeck/skins/ribbons/skin.css" type="text/css" media="screen">
     	<link rel="stylesheet" href="/blog/wp-content/plugins/slidedeck/skins/dark/skin.css?v=1.1" type="text/css" media="screen">
 
 		<script type="text/javascript" src="/blog/wp-content/plugins/slidedeck/lib/slidedeck.jquery.lite.js"></script>
 		<script type="text/javascript" src="/blog/wp-content/plugins/slidedeck/skins/dark/skin.js"></script>
-
-
-        
     </head>
         <body onload="initFB();">
             <div id="sun"></div>
         <div id="clouds"></div>
         <div id="menubar-container"></div>
         <div class="container">
-        	
+	        
             <div id="icons">
             	                <div id="disclaimer" style="display:none;">
 					<a href="#" class="close-button small float-right">Close</a>
@@ -125,12 +84,7 @@
                             <input type="hidden" name="redirect" value="/account/">
                             <input type="hidden" name="external_login" value="1">
                             <input type="hidden" value="d76fghhjd" name="asfsagrg4">
-                            <input type="submit" value="Go!" id="login-button" name="login">
-         <!--               <div id="user">Or you can login with facebook account:<br />     
-								<iframe src ="/fb_button.php" width="107px" height="25px" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" noresize scrolling="no">
-									<p>Your browser does not support iframes.</p>
-								</iframe>
-				   			</div>    -->            
+                            <input type="submit" value="Go!" id="login-button" name="login">           
                         </form>  
                     </div> <!--login-form ends-->
                     <div id="forgotpassword">
@@ -152,8 +106,7 @@
 					
                 </div>     
             </div>
-            	
-            
+        
             <div id="header" class="span-24 last">
                 <div id="logo" class="span-7">
                     <a href="http://www.playfin.com"><h1>Playfin</h1></a>
@@ -339,7 +292,7 @@ google_ad_height = 600;
 
                
 <div style="padding-bottom:10px"></div>
-<iframe src="http://www.facebook.com/plugins/likebox.php?id=122159134479335&amp;width=160&amp;connections=4&amp;stream=true&amp;header=false&amp;height=555" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:555px;" allowtransparency="true"></iframe>
+<iframe src="http://www.facebook.com/plugins/likebox.php?id=122159134479335&amp;width=150&amp;connections=10&amp;stream=true&amp;header=false&amp;height=830" scrolling="no" frameborder="0" style="background-color: white; border:none; overflow:hidden; width:150px; height:830px;" allowtransparency="true"></iframe>
 
                     </div><!--/left side bar-->
                 </div><!-- /body-left -->                <!--*************right body***************-->
@@ -424,6 +377,7 @@ google_ad_height = 600;
 								<li><a href="/privacypolicy/">privacy</a></li>
 								<li><a href="/termofuse/">terms</a></li>
 								<li><a href="/help/">help</a></li>
+								<li><a target="_blank" href="http://www.downloadadmin.com/consumers/general-uninstallation-instructions">uninstall</a></li>
 							</ul>
 			
 							<h5 style="padding-top: 15px; clear:left;">keep in touch!</h5>
@@ -480,25 +434,15 @@ google_ad_height = 600;
 								<h5>featured premium game</h5>
 																<div id="footpre-game">
 									<div class="span-2">
-										<a href="/premium-game/1714/"><img style="height: 70px; width: 70px;" src="/realgames/images/img/1714_jewelmatch2_146x110.jpg"></a>
+										<a href="/premium-game/apache-ah-64-air-assault/shooter/1781/"><img style="height: 70px; width: 70px;" src="/realgames/images/img/1781_ApacheAirAssault_146x110.jpg"></a>
 									</div>
 									<div class="span-6 last">
-										<p class="prehead"><b><a href="/premium-game/1714/">Jewel Match 2</a></b></p>
-										<p>Enter a mesmerizing match-three wonderland and build a magical kingdom of jewels!...</p>
-										<a href="/premium-game/1714/"><u>Play Now!</u></a>
+										<p class="prehead"><b><a href="/premium-game/apache-ah-64-air-assault/shooter/1781/">Apache AH-64 Air Assault</a></b></p>
+										<p>You're in control of the world's most advanced, most lethal multi-mission attack helicopter ever built....</p>
+										<a href="/premium-game/apache-ah-64-air-assault/shooter/1781/"><u>Play Now!</u></a>
 									</div>
 								</div><!--/footpre-game-->
-								<style>
-								
-								#searchFeed-headline{
-									font-weight:bold;
-								}
-								
-								#searchFeed-sponsored {
-									display:none;
-								}
-								
-								</style>
+
 								<div class="span-8 last">
 									<script src="http://www.search.us.com/adWStyle.php?k=downloads%252C+free%252C+games&amp;a_n=1&amp;w=hotspotwidget" type="text/javascript" language="javascript"></script>
 								</div>
@@ -511,19 +455,8 @@ google_ad_height = 600;
 					</div><!--/container-->
 				</div><!--/infoot-->
 			</div><!-- /footer -->
-<!--
-<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign Trust Seal to promote trust online with consumers.">
-	<tr>
-		<td width="135" align="center" valign="top">
-			<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=Playfin.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en "></script><br />
-			<a href="http://www.verisign.com/verisign-trust-seal " target="_blank"  style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT TRUST ONLINE</a>
-		</td>
-	</tr>
-</table>
--->	
-		
-        		
-		        <script type="text/javascript" src="/theme/Smarty/playfin/lib/script.js"></script>
+			
+		        <script type="text/javascript" src="/theme/Smarty/playfin/lib/script_compact.js"></script>
         <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -532,10 +465,11 @@ google_ad_height = 600;
     try {
     var pageTracker = _gat._getTracker("UA-253874-12");
     pageTracker._trackPageview();
+    pageTracker._trackPageLoadTime();
     } catch(err) {;}
 </script>        <script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0241.js"> </script>
+        <script src="http://www.adreadytractions.com/rt/316301?p=17172"></script>
     
     
 
-<!-- Script Execution Time: -0.684919-->
 <!--  --></body></html>
