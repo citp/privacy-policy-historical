@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamerightnow.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122200644id_/http%3A//www.gamerightnow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerightnow.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520204140id_/http%3A//www.gamerightnow.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Play Privacy Policy Ben 10 games | Scooby Doo games | Helicopter game | Tower defence | Tower Defense Games
+# Play Privacy Policy Ben 10 games | Scooby Doo games | Helicopter game | Funny games | Tower Defense Games
 
 GameRightNow is committed to providing an entertaining, fun and educational service. GameRightNow.com is a property of GameRightNow Limited "GameRightNow". GameRightNow respects the privacy concerns of visitors to GameRightNow.com. GameRightNow does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
 
